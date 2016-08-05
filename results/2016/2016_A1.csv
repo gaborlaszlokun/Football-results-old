@@ -1,8 +1,8 @@
-Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
-A1;NaN;Rapid Wien;SV Ried;5;0;H;3;0;H
-A1;NaN;Sturm Graz;RB Salzburg;3;1;H;3;0;H
-A1;NaN;SCR Altach;Wolfsberger AC;1;0;H;0;0;D
-A1;NaN;SKN St. Pölten;Austria Wien;1;2;A;0;1;A
-A1;NaN;SV Mattersburg;FC Admira Wacker;0;1;A;0;1;A
-A1;NaN;RB Salzburg;Wolfsberger AC;1;1;D;0;0;D
-A1;NaN;SV Ried;Sturm Graz;1;0;H;1;0;H
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+A1,NaN,Rapid Wien,SV Ried,5,0,H,3,0,H
+A1,NaN,Sturm Graz,RB Salzburg,3,1,H,3,0,H
+A1,NaN,SCR Altach,Wolfsberger AC,1,0,H,0,0,D
+A1,NaN,SKN St. Pölten,Austria Wien,1,2,A,0,1,A
+A1,NaN,SV Mattersburg,FC Admira Wacker,0,1,A,0,1,A
+A1,NaN,RB Salzburg,Wolfsberger AC,1,1,D,0,0,D
+A1,NaN,SV Ried,Sturm Graz,1,0,H,1,0,H

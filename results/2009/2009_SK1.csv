@@ -1,199 +1,199 @@
-Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
-SK1;NaN;Slovan Bratislava;FK Senica;3;0;H;1;0;H
-SK1;NaN;MFK Petržalka;Tatran Prešov;0;1;A;0;0;D
-SK1;NaN;MFK Ružomberok;MFK Dubnica;1;1;D;1;0;H
-SK1;NaN;MFK Košice;DAC Dunajska Streda;2;0;H;1;0;H
-SK1;NaN;MŠK Žilina;FC Nitra;1;1;D;1;0;H
-SK1;NaN;Spartak Trnava;Dukla Banská Bystrica;0;0;D;0;0;D
-SK1;NaN;FK Senica;Tatran Prešov;3;2;H;2;1;H
-SK1;NaN;Dukla Banská Bystrica;MFK Košice;0;0;D;0;0;D
-SK1;NaN;MFK Dubnica;MFK Petržalka;0;0;D;0;0;D
-SK1;NaN;DAC Dunajska Streda;MFK Ružomberok;1;1;D;1;0;H
-SK1;NaN;FC Nitra;Spartak Trnava;1;0;H;0;0;D
-SK1;NaN;Slovan Bratislava;MŠK Žilina;2;1;H;0;0;D
-SK1;NaN;MFK Petržalka;DAC Dunajska Streda;1;0;H;0;0;D
-SK1;NaN;MFK Ružomberok;Dukla Banská Bystrica;1;1;D;0;1;A
-SK1;NaN;MFK Košice;FC Nitra;0;1;A;0;1;A
-SK1;NaN;Tatran Prešov;MFK Dubnica;0;0;D;0;0;D
-SK1;NaN;MŠK Žilina;FK Senica;3;0;H;2;0;H
-SK1;NaN;Spartak Trnava;Slovan Bratislava;0;2;A;0;1;A
-SK1;NaN;FK Senica;MFK Dubnica;2;1;H;2;1;H
-SK1;NaN;Dukla Banská Bystrica;MFK Petržalka;3;0;H;2;0;H
-SK1;NaN;FC Nitra;MFK Ružomberok;2;0;H;0;0;D
-SK1;NaN;DAC Dunajska Streda;Tatran Prešov;3;0;H;1;0;H
-SK1;NaN;Slovan Bratislava;MFK Košice;3;0;H;1;0;H
-SK1;NaN;MŠK Žilina;Spartak Trnava;2;1;H;0;1;A
-SK1;NaN;MFK Petržalka;FC Nitra;0;0;D;0;0;D
-SK1;NaN;MFK Dubnica;DAC Dunajska Streda;1;3;A;0;2;A
-SK1;NaN;Tatran Prešov;Dukla Banská Bystrica;0;1;A;0;1;A
-SK1;NaN;Spartak Trnava;FK Senica;3;0;H;3;0;H
-SK1;NaN;MFK Ružomberok;Slovan Bratislava;1;3;A;1;0;H
-SK1;NaN;MFK Košice;MŠK Žilina;0;2;A;0;0;D
-SK1;NaN;FK Senica;DAC Dunajska Streda;0;1;A;0;0;D
-SK1;NaN;Dukla Banská Bystrica;MFK Dubnica;3;0;H;2;0;H
-SK1;NaN;FC Nitra;Tatran Prešov;1;0;H;1;0;H
-SK1;NaN;Slovan Bratislava;MFK Petržalka;1;1;D;1;1;D
-SK1;NaN;MŠK Žilina;MFK Ružomberok;1;0;H;0;0;D
-SK1;NaN;Spartak Trnava;MFK Košice;5;4;H;4;3;H
-SK1;NaN;MFK Ružomberok;Spartak Trnava;2;1;H;0;1;A
-SK1;NaN;DAC Dunajska Streda;Dukla Banská Bystrica;0;2;A;0;1;A
-SK1;NaN;MFK Dubnica;FC Nitra;3;0;H;1;0;H
-SK1;NaN;MFK Petržalka;MŠK Žilina;1;0;H;1;0;H
-SK1;NaN;MFK Košice;FK Senica;0;1;A;0;1;A
-SK1;NaN;Tatran Prešov;Slovan Bratislava;3;0;H;1;0;H
-SK1;NaN;FK Senica;Dukla Banská Bystrica;2;2;D;1;1;D
-SK1;NaN;Spartak Trnava;MFK Petržalka;2;0;H;1;0;H
-SK1;NaN;FC Nitra;DAC Dunajska Streda;2;0;H;1;0;H
-SK1;NaN;MFK Košice;MFK Ružomberok;3;1;H;3;0;H
-SK1;NaN;Slovan Bratislava;MFK Dubnica;1;1;D;0;1;A
-SK1;NaN;MŠK Žilina;Tatran Prešov;1;0;H;0;0;D
-SK1;NaN;Dukla Banská Bystrica;FC Nitra;0;3;A;0;2;A
-SK1;NaN;MFK Ružomberok;FK Senica;0;1;A;0;1;A
-SK1;NaN;Tatran Prešov;Spartak Trnava;1;2;A;0;2;A
-SK1;NaN;MFK Dubnica;MŠK Žilina;0;1;A;0;0;D
-SK1;NaN;MFK Petržalka;MFK Košice;3;0;H;3;0;H
-SK1;NaN;DAC Dunajska Streda;Slovan Bratislava;0;0;D;0;0;D
-SK1;NaN;FK Senica;FC Nitra;0;0;D;0;0;D
-SK1;NaN;Slovan Bratislava;Dukla Banská Bystrica;3;0;H;2;0;H
-SK1;NaN;MFK Ružomberok;MFK Petržalka;2;0;H;1;0;H
-SK1;NaN;Spartak Trnava;MFK Dubnica;1;0;H;1;0;H
-SK1;NaN;MŠK Žilina;DAC Dunajska Streda;1;0;H;0;0;D
-SK1;NaN;MFK Košice;Tatran Prešov;0;1;A;0;1;A
-SK1;NaN;Dukla Banská Bystrica;MŠK Žilina;1;0;H;1;0;H
-SK1;NaN;FC Nitra;Slovan Bratislava;0;1;A;0;1;A
-SK1;NaN;MFK Dubnica;MFK Košice;1;0;H;1;0;H
-SK1;NaN;Tatran Prešov;MFK Ružomberok;1;0;H;1;0;H
-SK1;NaN;MFK Petržalka;FK Senica;1;2;A;1;1;D
-SK1;NaN;DAC Dunajska Streda;Spartak Trnava;2;1;H;1;0;H
-SK1;NaN;FK Senica;Slovan Bratislava;0;2;A;0;1;A
-SK1;NaN;MFK Dubnica;MFK Ružomberok;1;2;A;1;1;D
-SK1;NaN;DAC Dunajska Streda;MFK Košice;1;1;D;0;1;A
-SK1;NaN;Dukla Banská Bystrica;Spartak Trnava;1;0;H;1;0;H
-SK1;NaN;FC Nitra;MŠK Žilina;0;1;A;0;1;A
-SK1;NaN;Tatran Prešov;MFK Petržalka;2;0;H;2;0;H
-SK1;NaN;MFK Ružomberok;DAC Dunajska Streda;0;0;D;0;0;D
-SK1;NaN;Spartak Trnava;FC Nitra;1;2;A;1;1;D
-SK1;NaN;Tatran Prešov;FK Senica;0;0;D;0;0;D
-SK1;NaN;MFK Košice;Dukla Banská Bystrica;0;5;A;0;4;A
-SK1;NaN;MFK Petržalka;MFK Dubnica;7;0;H;3;0;H
-SK1;NaN;MŠK Žilina;Slovan Bratislava;2;0;H;1;0;H
-SK1;NaN;FK Senica;MŠK Žilina;0;1;A;0;0;D
-SK1;NaN;Dukla Banská Bystrica;MFK Ružomberok;1;1;D;1;0;H
-SK1;NaN;DAC Dunajska Streda;MFK Petržalka;3;2;H;2;2;D
-SK1;NaN;MFK Dubnica;Tatran Prešov;1;0;H;0;0;D
-SK1;NaN;FC Nitra;MFK Košice;4;0;H;2;0;H
-SK1;NaN;Slovan Bratislava;Spartak Trnava;1;1;D;0;0;D
-SK1;NaN;MFK Ružomberok;FC Nitra;1;0;H;0;0;D
-SK1;NaN;Spartak Trnava;MŠK Žilina;1;1;D;0;0;D
-SK1;NaN;MFK Dubnica;FK Senica;0;1;A;0;0;D
-SK1;NaN;MFK Petržalka;Dukla Banská Bystrica;1;1;D;1;1;D
-SK1;NaN;Tatran Prešov;DAC Dunajska Streda;0;0;D;0;0;D
-SK1;NaN;MFK Košice;Slovan Bratislava;1;2;A;1;0;H
-SK1;NaN;FK Senica;Spartak Trnava;0;0;D;0;0;D
-SK1;NaN;Dukla Banská Bystrica;Tatran Prešov;2;1;H;1;1;D
-SK1;NaN;DAC Dunajska Streda;MFK Dubnica;1;1;D;0;0;D
-SK1;NaN;FC Nitra;MFK Petržalka;1;3;A;0;2;A
-SK1;NaN;Slovan Bratislava;MFK Ružomberok;0;2;A;0;0;D
-SK1;NaN;MŠK Žilina;MFK Košice;4;1;H;3;1;H
-SK1;NaN;MFK Ružomberok;MŠK Žilina;0;3;A;0;1;A
-SK1;NaN;MFK Košice;Spartak Trnava;1;4;A;0;3;A
-SK1;NaN;Tatran Prešov;FC Nitra;3;1;H;2;0;H
-SK1;NaN;DAC Dunajska Streda;FK Senica;1;2;A;0;1;A
-SK1;NaN;MFK Dubnica;Dukla Banská Bystrica;1;2;A;0;0;D
-SK1;NaN;MFK Petržalka;Slovan Bratislava;0;2;A;0;1;A
-SK1;NaN;Spartak Trnava;MFK Ružomberok;3;1;H;1;1;D
-SK1;NaN;Dukla Banská Bystrica;DAC Dunajska Streda;2;0;H;2;0;H
-SK1;NaN;Slovan Bratislava;Tatran Prešov;3;1;H;0;0;D
-SK1;NaN;FK Senica;MFK Košice;2;2;D;2;0;H
-SK1;NaN;MŠK Žilina;MFK Petržalka;2;0;H;1;0;H
-SK1;NaN;FC Nitra;MFK Dubnica;0;1;A;0;1;A
-SK1;NaN;MFK Ružomberok;MFK Košice;2;0;H;1;0;H
-SK1;NaN;MFK Petržalka;Spartak Trnava;2;1;H;0;1;A
-SK1;NaN;DAC Dunajska Streda;FC Nitra;2;2;D;1;2;A
-SK1;NaN;Tatran Prešov;MŠK Žilina;1;0;H;1;0;H
-SK1;NaN;MFK Dubnica;Slovan Bratislava;0;1;A;0;1;A
-SK1;NaN;Dukla Banská Bystrica;FK Senica;1;0;H;0;0;D
-SK1;NaN;MFK Košice;MFK Petržalka;1;0;H;1;0;H
-SK1;NaN;Spartak Trnava;Tatran Prešov;2;0;H;0;0;D
-SK1;NaN;Slovan Bratislava;DAC Dunajska Streda;2;0;H;0;0;D
-SK1;NaN;FC Nitra;Dukla Banská Bystrica;0;0;D;0;0;D
-SK1;NaN;MŠK Žilina;MFK Dubnica;4;0;H;1;0;H
-SK1;NaN;FK Senica;MFK Ružomberok;2;1;H;2;1;H
-SK1;NaN;FC Nitra;FK Senica;2;1;H;0;1;A
-SK1;NaN;MFK Petržalka;MFK Ružomberok;2;2;D;0;1;A
-SK1;NaN;MFK Dubnica;Spartak Trnava;2;1;H;0;0;D
-SK1;NaN;Dukla Banská Bystrica;Slovan Bratislava;2;1;H;2;0;H
-SK1;NaN;DAC Dunajska Streda;MŠK Žilina;0;2;A;0;1;A
-SK1;NaN;Tatran Prešov;MFK Košice;1;1;D;0;0;D
-SK1;NaN;MFK Ružomberok;Tatran Prešov;2;0;H;2;0;H
-SK1;NaN;Slovan Bratislava;FC Nitra;2;1;H;0;0;D
-SK1;NaN;Spartak Trnava;DAC Dunajska Streda;7;0;H;3;0;H
-SK1;NaN;MFK Košice;MFK Dubnica;1;1;D;0;1;A
-SK1;NaN;FK Senica;MFK Petržalka;2;0;H;0;0;D
-SK1;NaN;MŠK Žilina;Dukla Banská Bystrica;3;1;H;1;1;D
-SK1;NaN;MFK Petržalka;Tatran Prešov;2;3;A;1;2;A
-SK1;NaN;MFK Ružomberok;MFK Dubnica;1;0;H;0;0;D
-SK1;NaN;MFK Košice;DAC Dunajska Streda;2;1;H;2;0;H
-SK1;NaN;Spartak Trnava;Dukla Banská Bystrica;2;0;H;0;0;D
-SK1;NaN;MŠK Žilina;FC Nitra;0;1;A;0;0;D
-SK1;NaN;Slovan Bratislava;FK Senica;2;0;H;0;0;D
-SK1;NaN;FK Senica;Tatran Prešov;1;2;A;0;1;A
-SK1;NaN;Dukla Banská Bystrica;MFK Košice;2;2;D;2;1;H
-SK1;NaN;MFK Dubnica;MFK Petržalka;2;0;H;2;0;H
-SK1;NaN;DAC Dunajska Streda;MFK Ružomberok;0;0;D;0;0;D
-SK1;NaN;FC Nitra;Spartak Trnava;2;2;D;1;1;D
-SK1;NaN;Slovan Bratislava;MŠK Žilina;2;0;H;1;0;H
-SK1;NaN;MFK Petržalka;DAC Dunajska Streda;1;1;D;0;1;A
-SK1;NaN;MFK Ružomberok;Dukla Banská Bystrica;1;0;H;0;0;D
-SK1;NaN;MFK Košice;FC Nitra;2;0;H;0;0;D
-SK1;NaN;Tatran Prešov;MFK Dubnica;2;0;H;2;0;H
-SK1;NaN;MŠK Žilina;FK Senica;2;1;H;1;0;H
-SK1;NaN;Spartak Trnava;Slovan Bratislava;0;3;A;0;1;A
-SK1;NaN;Dukla Banská Bystrica;MFK Petržalka;4;0;H;3;0;H
-SK1;NaN;Slovan Bratislava;MFK Košice;0;0;D;0;0;D
-SK1;NaN;FK Senica;MFK Dubnica;1;1;D;1;0;H
-SK1;NaN;DAC Dunajska Streda;Tatran Prešov;2;1;H;1;1;D
-SK1;NaN;MŠK Žilina;Spartak Trnava;5;1;H;3;1;H
-SK1;NaN;FC Nitra;MFK Ružomberok;3;1;H;2;1;H
-SK1;NaN;MFK Ružomberok;Slovan Bratislava;2;0;H;1;0;H
-SK1;NaN;MFK Petržalka;FC Nitra;3;2;H;3;0;H
-SK1;NaN;MFK Dubnica;DAC Dunajska Streda;1;1;D;1;0;H
-SK1;NaN;Tatran Prešov;Dukla Banská Bystrica;0;1;A;0;1;A
-SK1;NaN;Spartak Trnava;FK Senica;1;2;A;1;1;D
-SK1;NaN;MFK Košice;MŠK Žilina;0;4;A;0;2;A
-SK1;NaN;Dukla Banská Bystrica;MFK Dubnica;1;1;D;0;1;A
-SK1;NaN;FC Nitra;Tatran Prešov;4;2;H;3;1;H
-SK1;NaN;Slovan Bratislava;MFK Petržalka;1;1;D;1;0;H
-SK1;NaN;Spartak Trnava;MFK Košice;4;0;H;2;0;H
-SK1;NaN;FK Senica;DAC Dunajska Streda;2;2;D;0;0;D
-SK1;NaN;MŠK Žilina;MFK Ružomberok;1;0;H;0;0;D
-SK1;NaN;MFK Ružomberok;Spartak Trnava;2;1;H;1;0;H
-SK1;NaN;MFK Petržalka;MŠK Žilina;0;4;A;0;2;A
-SK1;NaN;MFK Dubnica;FC Nitra;1;0;H;0;0;D
-SK1;NaN;MFK Košice;FK Senica;2;0;H;1;0;H
-SK1;NaN;Tatran Prešov;Slovan Bratislava;0;1;A;0;1;A
-SK1;NaN;DAC Dunajska Streda;Dukla Banská Bystrica;1;1;D;1;0;H
-SK1;NaN;FK Senica;Dukla Banská Bystrica;2;1;H;1;0;H
-SK1;NaN;MFK Košice;MFK Ružomberok;2;0;H;1;0;H
-SK1;NaN;Slovan Bratislava;MFK Dubnica;2;2;D;0;1;A
-SK1;NaN;Spartak Trnava;MFK Petržalka;3;1;H;2;1;H
-SK1;NaN;FC Nitra;DAC Dunajska Streda;1;0;H;1;0;H
-SK1;NaN;MŠK Žilina;Tatran Prešov;1;0;H;0;0;D
-SK1;NaN;Dukla Banská Bystrica;FC Nitra;3;1;H;1;1;D
-SK1;NaN;MFK Petržalka;MFK Košice;0;0;D;0;0;D
-SK1;NaN;MFK Ružomberok;FK Senica;2;1;H;0;1;A
-SK1;NaN;DAC Dunajska Streda;Slovan Bratislava;0;1;A;0;1;A
-SK1;NaN;MFK Dubnica;MŠK Žilina;1;1;D;0;1;A
-SK1;NaN;Tatran Prešov;Spartak Trnava;3;0;H;0;0;D
-SK1;NaN;FK Senica;FC Nitra;1;2;A;0;0;D
-SK1;NaN;MFK Ružomberok;MFK Petržalka;1;0;H;0;0;D
-SK1;NaN;Slovan Bratislava;Dukla Banská Bystrica;2;0;H;1;0;H
-SK1;NaN;MFK Košice;Tatran Prešov;3;1;H;1;0;H
-SK1;NaN;Spartak Trnava;MFK Dubnica;0;1;A;0;0;D
-SK1;NaN;MŠK Žilina;DAC Dunajska Streda;4;0;H;1;0;H
-SK1;NaN;Dukla Banská Bystrica;MŠK Žilina;1;1;D;1;0;H
-SK1;NaN;FC Nitra;Slovan Bratislava;2;5;A;0;1;A
-SK1;NaN;MFK Petržalka;FK Senica;1;2;A;1;1;D
-SK1;NaN;DAC Dunajska Streda;Spartak Trnava;2;1;H;0;0;D
-SK1;NaN;MFK Dubnica;MFK Košice;1;1;D;0;0;D
-SK1;NaN;Tatran Prešov;MFK Ružomberok;0;0;D;0;0;D
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SK1,NaN,Slovan Bratislava,FK Senica,3,0,H,1,0,H
+SK1,NaN,MFK Petržalka,Tatran Prešov,0,1,A,0,0,D
+SK1,NaN,MFK Ružomberok,MFK Dubnica,1,1,D,1,0,H
+SK1,NaN,MFK Košice,DAC Dunajska Streda,2,0,H,1,0,H
+SK1,NaN,MŠK Žilina,FC Nitra,1,1,D,1,0,H
+SK1,NaN,Spartak Trnava,Dukla Banská Bystrica,0,0,D,0,0,D
+SK1,NaN,FK Senica,Tatran Prešov,3,2,H,2,1,H
+SK1,NaN,Dukla Banská Bystrica,MFK Košice,0,0,D,0,0,D
+SK1,NaN,MFK Dubnica,MFK Petržalka,0,0,D,0,0,D
+SK1,NaN,DAC Dunajska Streda,MFK Ružomberok,1,1,D,1,0,H
+SK1,NaN,FC Nitra,Spartak Trnava,1,0,H,0,0,D
+SK1,NaN,Slovan Bratislava,MŠK Žilina,2,1,H,0,0,D
+SK1,NaN,MFK Petržalka,DAC Dunajska Streda,1,0,H,0,0,D
+SK1,NaN,MFK Ružomberok,Dukla Banská Bystrica,1,1,D,0,1,A
+SK1,NaN,MFK Košice,FC Nitra,0,1,A,0,1,A
+SK1,NaN,Tatran Prešov,MFK Dubnica,0,0,D,0,0,D
+SK1,NaN,MŠK Žilina,FK Senica,3,0,H,2,0,H
+SK1,NaN,Spartak Trnava,Slovan Bratislava,0,2,A,0,1,A
+SK1,NaN,FK Senica,MFK Dubnica,2,1,H,2,1,H
+SK1,NaN,Dukla Banská Bystrica,MFK Petržalka,3,0,H,2,0,H
+SK1,NaN,FC Nitra,MFK Ružomberok,2,0,H,0,0,D
+SK1,NaN,DAC Dunajska Streda,Tatran Prešov,3,0,H,1,0,H
+SK1,NaN,Slovan Bratislava,MFK Košice,3,0,H,1,0,H
+SK1,NaN,MŠK Žilina,Spartak Trnava,2,1,H,0,1,A
+SK1,NaN,MFK Petržalka,FC Nitra,0,0,D,0,0,D
+SK1,NaN,MFK Dubnica,DAC Dunajska Streda,1,3,A,0,2,A
+SK1,NaN,Tatran Prešov,Dukla Banská Bystrica,0,1,A,0,1,A
+SK1,NaN,Spartak Trnava,FK Senica,3,0,H,3,0,H
+SK1,NaN,MFK Ružomberok,Slovan Bratislava,1,3,A,1,0,H
+SK1,NaN,MFK Košice,MŠK Žilina,0,2,A,0,0,D
+SK1,NaN,FK Senica,DAC Dunajska Streda,0,1,A,0,0,D
+SK1,NaN,Dukla Banská Bystrica,MFK Dubnica,3,0,H,2,0,H
+SK1,NaN,FC Nitra,Tatran Prešov,1,0,H,1,0,H
+SK1,NaN,Slovan Bratislava,MFK Petržalka,1,1,D,1,1,D
+SK1,NaN,MŠK Žilina,MFK Ružomberok,1,0,H,0,0,D
+SK1,NaN,Spartak Trnava,MFK Košice,5,4,H,4,3,H
+SK1,NaN,MFK Ružomberok,Spartak Trnava,2,1,H,0,1,A
+SK1,NaN,DAC Dunajska Streda,Dukla Banská Bystrica,0,2,A,0,1,A
+SK1,NaN,MFK Dubnica,FC Nitra,3,0,H,1,0,H
+SK1,NaN,MFK Petržalka,MŠK Žilina,1,0,H,1,0,H
+SK1,NaN,MFK Košice,FK Senica,0,1,A,0,1,A
+SK1,NaN,Tatran Prešov,Slovan Bratislava,3,0,H,1,0,H
+SK1,NaN,FK Senica,Dukla Banská Bystrica,2,2,D,1,1,D
+SK1,NaN,Spartak Trnava,MFK Petržalka,2,0,H,1,0,H
+SK1,NaN,FC Nitra,DAC Dunajska Streda,2,0,H,1,0,H
+SK1,NaN,MFK Košice,MFK Ružomberok,3,1,H,3,0,H
+SK1,NaN,Slovan Bratislava,MFK Dubnica,1,1,D,0,1,A
+SK1,NaN,MŠK Žilina,Tatran Prešov,1,0,H,0,0,D
+SK1,NaN,Dukla Banská Bystrica,FC Nitra,0,3,A,0,2,A
+SK1,NaN,MFK Ružomberok,FK Senica,0,1,A,0,1,A
+SK1,NaN,Tatran Prešov,Spartak Trnava,1,2,A,0,2,A
+SK1,NaN,MFK Dubnica,MŠK Žilina,0,1,A,0,0,D
+SK1,NaN,MFK Petržalka,MFK Košice,3,0,H,3,0,H
+SK1,NaN,DAC Dunajska Streda,Slovan Bratislava,0,0,D,0,0,D
+SK1,NaN,FK Senica,FC Nitra,0,0,D,0,0,D
+SK1,NaN,Slovan Bratislava,Dukla Banská Bystrica,3,0,H,2,0,H
+SK1,NaN,MFK Ružomberok,MFK Petržalka,2,0,H,1,0,H
+SK1,NaN,Spartak Trnava,MFK Dubnica,1,0,H,1,0,H
+SK1,NaN,MŠK Žilina,DAC Dunajska Streda,1,0,H,0,0,D
+SK1,NaN,MFK Košice,Tatran Prešov,0,1,A,0,1,A
+SK1,NaN,Dukla Banská Bystrica,MŠK Žilina,1,0,H,1,0,H
+SK1,NaN,FC Nitra,Slovan Bratislava,0,1,A,0,1,A
+SK1,NaN,MFK Dubnica,MFK Košice,1,0,H,1,0,H
+SK1,NaN,Tatran Prešov,MFK Ružomberok,1,0,H,1,0,H
+SK1,NaN,MFK Petržalka,FK Senica,1,2,A,1,1,D
+SK1,NaN,DAC Dunajska Streda,Spartak Trnava,2,1,H,1,0,H
+SK1,NaN,FK Senica,Slovan Bratislava,0,2,A,0,1,A
+SK1,NaN,MFK Dubnica,MFK Ružomberok,1,2,A,1,1,D
+SK1,NaN,DAC Dunajska Streda,MFK Košice,1,1,D,0,1,A
+SK1,NaN,Dukla Banská Bystrica,Spartak Trnava,1,0,H,1,0,H
+SK1,NaN,FC Nitra,MŠK Žilina,0,1,A,0,1,A
+SK1,NaN,Tatran Prešov,MFK Petržalka,2,0,H,2,0,H
+SK1,NaN,MFK Ružomberok,DAC Dunajska Streda,0,0,D,0,0,D
+SK1,NaN,Spartak Trnava,FC Nitra,1,2,A,1,1,D
+SK1,NaN,Tatran Prešov,FK Senica,0,0,D,0,0,D
+SK1,NaN,MFK Košice,Dukla Banská Bystrica,0,5,A,0,4,A
+SK1,NaN,MFK Petržalka,MFK Dubnica,7,0,H,3,0,H
+SK1,NaN,MŠK Žilina,Slovan Bratislava,2,0,H,1,0,H
+SK1,NaN,FK Senica,MŠK Žilina,0,1,A,0,0,D
+SK1,NaN,Dukla Banská Bystrica,MFK Ružomberok,1,1,D,1,0,H
+SK1,NaN,DAC Dunajska Streda,MFK Petržalka,3,2,H,2,2,D
+SK1,NaN,MFK Dubnica,Tatran Prešov,1,0,H,0,0,D
+SK1,NaN,FC Nitra,MFK Košice,4,0,H,2,0,H
+SK1,NaN,Slovan Bratislava,Spartak Trnava,1,1,D,0,0,D
+SK1,NaN,MFK Ružomberok,FC Nitra,1,0,H,0,0,D
+SK1,NaN,Spartak Trnava,MŠK Žilina,1,1,D,0,0,D
+SK1,NaN,MFK Dubnica,FK Senica,0,1,A,0,0,D
+SK1,NaN,MFK Petržalka,Dukla Banská Bystrica,1,1,D,1,1,D
+SK1,NaN,Tatran Prešov,DAC Dunajska Streda,0,0,D,0,0,D
+SK1,NaN,MFK Košice,Slovan Bratislava,1,2,A,1,0,H
+SK1,NaN,FK Senica,Spartak Trnava,0,0,D,0,0,D
+SK1,NaN,Dukla Banská Bystrica,Tatran Prešov,2,1,H,1,1,D
+SK1,NaN,DAC Dunajska Streda,MFK Dubnica,1,1,D,0,0,D
+SK1,NaN,FC Nitra,MFK Petržalka,1,3,A,0,2,A
+SK1,NaN,Slovan Bratislava,MFK Ružomberok,0,2,A,0,0,D
+SK1,NaN,MŠK Žilina,MFK Košice,4,1,H,3,1,H
+SK1,NaN,MFK Ružomberok,MŠK Žilina,0,3,A,0,1,A
+SK1,NaN,MFK Košice,Spartak Trnava,1,4,A,0,3,A
+SK1,NaN,Tatran Prešov,FC Nitra,3,1,H,2,0,H
+SK1,NaN,DAC Dunajska Streda,FK Senica,1,2,A,0,1,A
+SK1,NaN,MFK Dubnica,Dukla Banská Bystrica,1,2,A,0,0,D
+SK1,NaN,MFK Petržalka,Slovan Bratislava,0,2,A,0,1,A
+SK1,NaN,Spartak Trnava,MFK Ružomberok,3,1,H,1,1,D
+SK1,NaN,Dukla Banská Bystrica,DAC Dunajska Streda,2,0,H,2,0,H
+SK1,NaN,Slovan Bratislava,Tatran Prešov,3,1,H,0,0,D
+SK1,NaN,FK Senica,MFK Košice,2,2,D,2,0,H
+SK1,NaN,MŠK Žilina,MFK Petržalka,2,0,H,1,0,H
+SK1,NaN,FC Nitra,MFK Dubnica,0,1,A,0,1,A
+SK1,NaN,MFK Ružomberok,MFK Košice,2,0,H,1,0,H
+SK1,NaN,MFK Petržalka,Spartak Trnava,2,1,H,0,1,A
+SK1,NaN,DAC Dunajska Streda,FC Nitra,2,2,D,1,2,A
+SK1,NaN,Tatran Prešov,MŠK Žilina,1,0,H,1,0,H
+SK1,NaN,MFK Dubnica,Slovan Bratislava,0,1,A,0,1,A
+SK1,NaN,Dukla Banská Bystrica,FK Senica,1,0,H,0,0,D
+SK1,NaN,MFK Košice,MFK Petržalka,1,0,H,1,0,H
+SK1,NaN,Spartak Trnava,Tatran Prešov,2,0,H,0,0,D
+SK1,NaN,Slovan Bratislava,DAC Dunajska Streda,2,0,H,0,0,D
+SK1,NaN,FC Nitra,Dukla Banská Bystrica,0,0,D,0,0,D
+SK1,NaN,MŠK Žilina,MFK Dubnica,4,0,H,1,0,H
+SK1,NaN,FK Senica,MFK Ružomberok,2,1,H,2,1,H
+SK1,NaN,FC Nitra,FK Senica,2,1,H,0,1,A
+SK1,NaN,MFK Petržalka,MFK Ružomberok,2,2,D,0,1,A
+SK1,NaN,MFK Dubnica,Spartak Trnava,2,1,H,0,0,D
+SK1,NaN,Dukla Banská Bystrica,Slovan Bratislava,2,1,H,2,0,H
+SK1,NaN,DAC Dunajska Streda,MŠK Žilina,0,2,A,0,1,A
+SK1,NaN,Tatran Prešov,MFK Košice,1,1,D,0,0,D
+SK1,NaN,MFK Ružomberok,Tatran Prešov,2,0,H,2,0,H
+SK1,NaN,Slovan Bratislava,FC Nitra,2,1,H,0,0,D
+SK1,NaN,Spartak Trnava,DAC Dunajska Streda,7,0,H,3,0,H
+SK1,NaN,MFK Košice,MFK Dubnica,1,1,D,0,1,A
+SK1,NaN,FK Senica,MFK Petržalka,2,0,H,0,0,D
+SK1,NaN,MŠK Žilina,Dukla Banská Bystrica,3,1,H,1,1,D
+SK1,NaN,MFK Petržalka,Tatran Prešov,2,3,A,1,2,A
+SK1,NaN,MFK Ružomberok,MFK Dubnica,1,0,H,0,0,D
+SK1,NaN,MFK Košice,DAC Dunajska Streda,2,1,H,2,0,H
+SK1,NaN,Spartak Trnava,Dukla Banská Bystrica,2,0,H,0,0,D
+SK1,NaN,MŠK Žilina,FC Nitra,0,1,A,0,0,D
+SK1,NaN,Slovan Bratislava,FK Senica,2,0,H,0,0,D
+SK1,NaN,FK Senica,Tatran Prešov,1,2,A,0,1,A
+SK1,NaN,Dukla Banská Bystrica,MFK Košice,2,2,D,2,1,H
+SK1,NaN,MFK Dubnica,MFK Petržalka,2,0,H,2,0,H
+SK1,NaN,DAC Dunajska Streda,MFK Ružomberok,0,0,D,0,0,D
+SK1,NaN,FC Nitra,Spartak Trnava,2,2,D,1,1,D
+SK1,NaN,Slovan Bratislava,MŠK Žilina,2,0,H,1,0,H
+SK1,NaN,MFK Petržalka,DAC Dunajska Streda,1,1,D,0,1,A
+SK1,NaN,MFK Ružomberok,Dukla Banská Bystrica,1,0,H,0,0,D
+SK1,NaN,MFK Košice,FC Nitra,2,0,H,0,0,D
+SK1,NaN,Tatran Prešov,MFK Dubnica,2,0,H,2,0,H
+SK1,NaN,MŠK Žilina,FK Senica,2,1,H,1,0,H
+SK1,NaN,Spartak Trnava,Slovan Bratislava,0,3,A,0,1,A
+SK1,NaN,Dukla Banská Bystrica,MFK Petržalka,4,0,H,3,0,H
+SK1,NaN,Slovan Bratislava,MFK Košice,0,0,D,0,0,D
+SK1,NaN,FK Senica,MFK Dubnica,1,1,D,1,0,H
+SK1,NaN,DAC Dunajska Streda,Tatran Prešov,2,1,H,1,1,D
+SK1,NaN,MŠK Žilina,Spartak Trnava,5,1,H,3,1,H
+SK1,NaN,FC Nitra,MFK Ružomberok,3,1,H,2,1,H
+SK1,NaN,MFK Ružomberok,Slovan Bratislava,2,0,H,1,0,H
+SK1,NaN,MFK Petržalka,FC Nitra,3,2,H,3,0,H
+SK1,NaN,MFK Dubnica,DAC Dunajska Streda,1,1,D,1,0,H
+SK1,NaN,Tatran Prešov,Dukla Banská Bystrica,0,1,A,0,1,A
+SK1,NaN,Spartak Trnava,FK Senica,1,2,A,1,1,D
+SK1,NaN,MFK Košice,MŠK Žilina,0,4,A,0,2,A
+SK1,NaN,Dukla Banská Bystrica,MFK Dubnica,1,1,D,0,1,A
+SK1,NaN,FC Nitra,Tatran Prešov,4,2,H,3,1,H
+SK1,NaN,Slovan Bratislava,MFK Petržalka,1,1,D,1,0,H
+SK1,NaN,Spartak Trnava,MFK Košice,4,0,H,2,0,H
+SK1,NaN,FK Senica,DAC Dunajska Streda,2,2,D,0,0,D
+SK1,NaN,MŠK Žilina,MFK Ružomberok,1,0,H,0,0,D
+SK1,NaN,MFK Ružomberok,Spartak Trnava,2,1,H,1,0,H
+SK1,NaN,MFK Petržalka,MŠK Žilina,0,4,A,0,2,A
+SK1,NaN,MFK Dubnica,FC Nitra,1,0,H,0,0,D
+SK1,NaN,MFK Košice,FK Senica,2,0,H,1,0,H
+SK1,NaN,Tatran Prešov,Slovan Bratislava,0,1,A,0,1,A
+SK1,NaN,DAC Dunajska Streda,Dukla Banská Bystrica,1,1,D,1,0,H
+SK1,NaN,FK Senica,Dukla Banská Bystrica,2,1,H,1,0,H
+SK1,NaN,MFK Košice,MFK Ružomberok,2,0,H,1,0,H
+SK1,NaN,Slovan Bratislava,MFK Dubnica,2,2,D,0,1,A
+SK1,NaN,Spartak Trnava,MFK Petržalka,3,1,H,2,1,H
+SK1,NaN,FC Nitra,DAC Dunajska Streda,1,0,H,1,0,H
+SK1,NaN,MŠK Žilina,Tatran Prešov,1,0,H,0,0,D
+SK1,NaN,Dukla Banská Bystrica,FC Nitra,3,1,H,1,1,D
+SK1,NaN,MFK Petržalka,MFK Košice,0,0,D,0,0,D
+SK1,NaN,MFK Ružomberok,FK Senica,2,1,H,0,1,A
+SK1,NaN,DAC Dunajska Streda,Slovan Bratislava,0,1,A,0,1,A
+SK1,NaN,MFK Dubnica,MŠK Žilina,1,1,D,0,1,A
+SK1,NaN,Tatran Prešov,Spartak Trnava,3,0,H,0,0,D
+SK1,NaN,FK Senica,FC Nitra,1,2,A,0,0,D
+SK1,NaN,MFK Ružomberok,MFK Petržalka,1,0,H,0,0,D
+SK1,NaN,Slovan Bratislava,Dukla Banská Bystrica,2,0,H,1,0,H
+SK1,NaN,MFK Košice,Tatran Prešov,3,1,H,1,0,H
+SK1,NaN,Spartak Trnava,MFK Dubnica,0,1,A,0,0,D
+SK1,NaN,MŠK Žilina,DAC Dunajska Streda,4,0,H,1,0,H
+SK1,NaN,Dukla Banská Bystrica,MŠK Žilina,1,1,D,1,0,H
+SK1,NaN,FC Nitra,Slovan Bratislava,2,5,A,0,1,A
+SK1,NaN,MFK Petržalka,FK Senica,1,2,A,1,1,D
+SK1,NaN,DAC Dunajska Streda,Spartak Trnava,2,1,H,0,0,D
+SK1,NaN,MFK Dubnica,MFK Košice,1,1,D,0,0,D
+SK1,NaN,Tatran Prešov,MFK Ružomberok,0,0,D,0,0,D

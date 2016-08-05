@@ -1,265 +1,265 @@
-Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
-SCO1;NaN;Rangers FC;Heart of Midlothian;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;St. Johnstone FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Celtic FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Partick Thistle;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Rangers FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Dundee United;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Raith Rovers;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Motherwell FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Hibernian FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Kilmarnock FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Partick Thistle;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Motherwell FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Hibernian FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Rangers FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Kilmarnock FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Celtic FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Raith Rovers;4;1;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Dundee FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Motherwell FC;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Hibernian FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Partick Thistle;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Rangers FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Aberdeen FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Partick Thistle;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Celtic FC;1;4;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Heart of Midlothian;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Aberdeen FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Hibernian FC;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Motherwell FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Kilmarnock FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Raith Rovers;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Rangers FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Dundee FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Hibernian FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Partick Thistle;3;1;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Celtic FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Motherwell FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Raith Rovers;4;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Rangers FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;St. Johnstone FC;4;1;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Aberdeen FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Dundee United;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Heart of Midlothian;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Kilmarnock FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Raith Rovers;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Partick Thistle;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Celtic FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Motherwell FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Kilmarnock FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Aberdeen FC;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Hibernian FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;St. Johnstone FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Rangers FC;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Dundee FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;St. Johnstone FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Heart of Midlothian;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Celtic FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Partick Thistle;2;2;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Raith Rovers;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Kilmarnock FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Dundee United;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Hibernian FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Rangers FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Motherwell FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Celtic FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Raith Rovers;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Kilmarnock FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Heart of Midlothian;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee United;St. Johnstone FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Motherwell FC;0;3;A;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Rangers FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Hibernian FC;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Partick Thistle;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;St. Johnstone FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Kilmarnock FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Raith Rovers;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Celtic FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Dundee FC;3;1;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Partick Thistle;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Raith Rovers;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Celtic FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Dundee FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Hibernian FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Motherwell FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Kilmarnock FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Dundee United;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Rangers FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;St. Johnstone FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Kilmarnock FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Rangers FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Raith Rovers;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Hibernian FC;4;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Dundee United;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Motherwell FC;2;3;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Partick Thistle;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Celtic FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Aberdeen FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Dundee FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Hibernian FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Dundee FC;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Rangers FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Kilmarnock FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;St. Johnstone FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Heart of Midlothian;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Dundee United;0;3;A;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Raith Rovers;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Motherwell FC;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Celtic FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Partick Thistle;2;1;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Rangers FC;0;4;A;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Dundee United;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Raith Rovers;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Motherwell FC;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Hibernian FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Kilmarnock FC;3;1;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Heart of Midlothian;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Partick Thistle;5;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Aberdeen FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Celtic FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;St. Johnstone FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Kilmarnock FC;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Celtic FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Dundee FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Heart of Midlothian;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;St. Johnstone FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Raith Rovers;3;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Dundee United;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Hibernian FC;0;3;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Partick Thistle;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Rangers FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Aberdeen FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Motherwell FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Hibernian FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Motherwell FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Kilmarnock FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Raith Rovers;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Dundee United;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Rangers FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Partick Thistle;5;1;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Celtic FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Heart of Midlothian;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Aberdeen FC;3;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Dundee FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Dundee FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Hibernian FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Partick Thistle;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Celtic FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Motherwell FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Raith Rovers;4;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Rangers FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Dundee United;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Heart of Midlothian;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Kilmarnock FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Celtic FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Motherwell FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Raith Rovers;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Partick Thistle;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Heart of Midlothian;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Motherwell FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Rangers FC;2;4;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Aberdeen FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Partick Thistle;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Hibernian FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;St. Johnstone FC;4;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Heart of Midlothian;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Dundee FC;3;1;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Aberdeen FC;2;3;A;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Celtic FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Partick Thistle;2;2;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Raith Rovers;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Hibernian FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Rangers FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Kilmarnock FC;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Motherwell FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Dundee United;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Rangers FC;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Dundee United;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Hibernian FC;2;3;A;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Kilmarnock FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Motherwell FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Raith Rovers;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Dundee FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Partick Thistle;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Heart of Midlothian;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Celtic FC;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Hibernian FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Kilmarnock FC;3;2;H;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Rangers FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;St. Johnstone FC;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Dundee FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;St. Johnstone FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Heart of Midlothian;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Kilmarnock FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Aberdeen FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Dundee United;1;2;A;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Rangers FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Partick Thistle;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Raith Rovers;4;0;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Celtic FC;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Dundee FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Hibernian FC;3;0;H;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Motherwell FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Dundee United;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Raith Rovers;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Motherwell FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Celtic FC;0;2;A;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Partick Thistle;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Hibernian FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Dundee FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Rangers FC;2;1;H;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Kilmarnock FC;1;3;A;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Aberdeen FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;St. Johnstone FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Celtic FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Raith Rovers;2;2;D;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;Kilmarnock FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Heart of Midlothian;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;St. Johnstone FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Dundee FC;1;1;D;NoR;NoR;NoR
-SCO1;NaN;St. Johnstone FC;Aberdeen FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Raith Rovers;Motherwell FC;3;3;D;NoR;NoR;NoR
-SCO1;NaN;Kilmarnock FC;Rangers FC;1;0;H;NoR;NoR;NoR
-SCO1;NaN;Heart of Midlothian;Dundee United;2;0;H;NoR;NoR;NoR
-SCO1;NaN;Dundee FC;Hibernian FC;4;0;H;NoR;NoR;NoR
-SCO1;NaN;Celtic FC;Partick Thistle;1;1;D;NoR;NoR;NoR
-SCO1;NaN;Rangers FC;Dundee FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Partick Thistle;Heart of Midlothian;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Motherwell FC;St. Johnstone FC;0;1;A;NoR;NoR;NoR
-SCO1;NaN;Hibernian FC;Kilmarnock FC;0;0;D;NoR;NoR;NoR
-SCO1;NaN;Dundee United;Raith Rovers;2;3;A;NoR;NoR;NoR
-SCO1;NaN;Aberdeen FC;Celtic FC;1;1;D;NoR;NoR;NoR
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO1,NaN,Rangers FC,Heart of Midlothian,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,St. Johnstone FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Celtic FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Partick Thistle,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Rangers FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Dundee United,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Raith Rovers,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Motherwell FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Hibernian FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Kilmarnock FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Partick Thistle,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Motherwell FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Hibernian FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Rangers FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Kilmarnock FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Celtic FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Raith Rovers,4,1,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Dundee FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Motherwell FC,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Hibernian FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Partick Thistle,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Rangers FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Aberdeen FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Partick Thistle,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Celtic FC,1,4,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Heart of Midlothian,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Aberdeen FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Hibernian FC,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Motherwell FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Kilmarnock FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Raith Rovers,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Rangers FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Dundee FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Hibernian FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Partick Thistle,3,1,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Celtic FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Motherwell FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Raith Rovers,4,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Rangers FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,St. Johnstone FC,4,1,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Aberdeen FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Dundee United,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Heart of Midlothian,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Kilmarnock FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Raith Rovers,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Partick Thistle,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Celtic FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Motherwell FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Kilmarnock FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Aberdeen FC,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Hibernian FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,St. Johnstone FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Rangers FC,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Dundee FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,St. Johnstone FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Heart of Midlothian,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Celtic FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Partick Thistle,2,2,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Raith Rovers,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Kilmarnock FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Dundee United,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Hibernian FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Rangers FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Motherwell FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Celtic FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Raith Rovers,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Kilmarnock FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Heart of Midlothian,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee United,St. Johnstone FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Motherwell FC,0,3,A,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Rangers FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Hibernian FC,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Partick Thistle,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,St. Johnstone FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Kilmarnock FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Raith Rovers,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Celtic FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Dundee FC,3,1,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Partick Thistle,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Raith Rovers,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Celtic FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Dundee FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Hibernian FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Motherwell FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Kilmarnock FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Dundee United,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Rangers FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,St. Johnstone FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Kilmarnock FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Rangers FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Raith Rovers,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Hibernian FC,4,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Dundee United,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Motherwell FC,2,3,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Partick Thistle,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Celtic FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Aberdeen FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Dundee FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Hibernian FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Dundee FC,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Rangers FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Kilmarnock FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,St. Johnstone FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Heart of Midlothian,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Dundee United,0,3,A,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Raith Rovers,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Motherwell FC,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Celtic FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Partick Thistle,2,1,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Rangers FC,0,4,A,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Dundee United,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Raith Rovers,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Motherwell FC,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Hibernian FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Kilmarnock FC,3,1,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Heart of Midlothian,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Partick Thistle,5,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Aberdeen FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Celtic FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,St. Johnstone FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Kilmarnock FC,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Celtic FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Dundee FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Heart of Midlothian,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,St. Johnstone FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Raith Rovers,3,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Dundee United,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Hibernian FC,0,3,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Partick Thistle,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Rangers FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Aberdeen FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Motherwell FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Hibernian FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Motherwell FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Kilmarnock FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Raith Rovers,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Dundee United,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Rangers FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Partick Thistle,5,1,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Celtic FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Heart of Midlothian,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Aberdeen FC,3,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Dundee FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Dundee FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Hibernian FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Partick Thistle,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Celtic FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Motherwell FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Raith Rovers,4,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Rangers FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Dundee United,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Heart of Midlothian,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Kilmarnock FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Celtic FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Motherwell FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Raith Rovers,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Partick Thistle,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Heart of Midlothian,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Motherwell FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Rangers FC,2,4,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Aberdeen FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Partick Thistle,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Hibernian FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,St. Johnstone FC,4,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Heart of Midlothian,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Dundee FC,3,1,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Aberdeen FC,2,3,A,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Celtic FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Partick Thistle,2,2,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Raith Rovers,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Hibernian FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Rangers FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Kilmarnock FC,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Motherwell FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Dundee United,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Rangers FC,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Dundee United,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Hibernian FC,2,3,A,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Kilmarnock FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Motherwell FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Raith Rovers,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Dundee FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Partick Thistle,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Heart of Midlothian,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Celtic FC,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Hibernian FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Kilmarnock FC,3,2,H,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Rangers FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,St. Johnstone FC,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Dundee FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,St. Johnstone FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Heart of Midlothian,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Kilmarnock FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Aberdeen FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Dundee United,1,2,A,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Rangers FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Partick Thistle,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Raith Rovers,4,0,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Celtic FC,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Dundee FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Hibernian FC,3,0,H,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Motherwell FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Dundee United,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Raith Rovers,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Motherwell FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Celtic FC,0,2,A,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Partick Thistle,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Hibernian FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Dundee FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Rangers FC,2,1,H,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Kilmarnock FC,1,3,A,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Aberdeen FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,St. Johnstone FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Celtic FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Raith Rovers,2,2,D,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,Kilmarnock FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Heart of Midlothian,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,St. Johnstone FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Dundee FC,1,1,D,NoR,NoR,NoR
+SCO1,NaN,St. Johnstone FC,Aberdeen FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Raith Rovers,Motherwell FC,3,3,D,NoR,NoR,NoR
+SCO1,NaN,Kilmarnock FC,Rangers FC,1,0,H,NoR,NoR,NoR
+SCO1,NaN,Heart of Midlothian,Dundee United,2,0,H,NoR,NoR,NoR
+SCO1,NaN,Dundee FC,Hibernian FC,4,0,H,NoR,NoR,NoR
+SCO1,NaN,Celtic FC,Partick Thistle,1,1,D,NoR,NoR,NoR
+SCO1,NaN,Rangers FC,Dundee FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Partick Thistle,Heart of Midlothian,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Motherwell FC,St. Johnstone FC,0,1,A,NoR,NoR,NoR
+SCO1,NaN,Hibernian FC,Kilmarnock FC,0,0,D,NoR,NoR,NoR
+SCO1,NaN,Dundee United,Raith Rovers,2,3,A,NoR,NoR,NoR
+SCO1,NaN,Aberdeen FC,Celtic FC,1,1,D,NoR,NoR,NoR

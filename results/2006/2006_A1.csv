@@ -1,181 +1,181 @@
-Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
-A1;NaN;Austria Wien;Grazer AK;0;0;D;0;0;D
-A1;NaN;Sturm Graz;FC Wacker Tirol;2;3;A;1;2;A
-A1;NaN;SV Ried;RB Salzburg;0;3;A;0;1;A
-A1;NaN;SCR Altach;FC Superfund;2;3;A;2;2;D
-A1;NaN;SV Mattersburg;Rapid Wien;1;0;H;0;0;D
-A1;NaN;Grazer AK;SV Mattersburg;0;2;A;0;1;A
-A1;NaN;FC Superfund;Austria Wien;2;0;H;2;0;H
-A1;NaN;SCR Altach;RB Salzburg;0;2;A;0;2;A
-A1;NaN;Rapid Wien;Sturm Graz;4;1;H;3;0;H
-A1;NaN;SV Ried;FC Wacker Tirol;0;1;A;0;1;A
-A1;NaN;Austria Wien;RB Salzburg;1;1;D;0;0;D
-A1;NaN;Grazer AK;FC Superfund;2;1;H;2;0;H
-A1;NaN;SV Ried;Rapid Wien;1;0;H;0;0;D
-A1;NaN;SV Mattersburg;Sturm Graz;1;4;A;0;0;D
-A1;NaN;SCR Altach;FC Wacker Tirol;0;1;A;0;0;D
-A1;NaN;FC Superfund;SV Mattersburg;1;2;A;0;1;A
-A1;NaN;RB Salzburg;Grazer AK;4;1;H;2;0;H
-A1;NaN;FC Wacker Tirol;Austria Wien;1;1;D;0;1;A
-A1;NaN;Sturm Graz;SV Ried;1;0;H;0;0;D
-A1;NaN;Rapid Wien;SCR Altach;3;2;H;2;1;H
-A1;NaN;Austria Wien;Rapid Wien;0;0;D;0;0;D
-A1;NaN;FC Superfund;RB Salzburg;1;1;D;1;0;H
-A1;NaN;SCR Altach;Sturm Graz;4;1;H;2;1;H
-A1;NaN;SV Mattersburg;SV Ried;0;0;D;0;0;D
-A1;NaN;Grazer AK;FC Wacker Tirol;2;1;H;1;0;H
-A1;NaN;RB Salzburg;SV Mattersburg;2;0;H;0;0;D
-A1;NaN;FC Wacker Tirol;FC Superfund;0;0;D;0;0;D
-A1;NaN;Sturm Graz;Austria Wien;1;0;H;0;0;D
-A1;NaN;SV Ried;SCR Altach;1;2;A;0;0;D
-A1;NaN;Rapid Wien;Grazer AK;1;4;A;0;1;A
-A1;NaN;Grazer AK;Sturm Graz;0;0;D;0;0;D
-A1;NaN;FC Superfund;Rapid Wien;1;0;H;0;0;D
-A1;NaN;RB Salzburg;FC Wacker Tirol;4;0;H;0;0;D
-A1;NaN;SV Mattersburg;SCR Altach;6;3;H;1;1;D
-A1;NaN;Austria Wien;SV Ried;1;1;D;1;0;H
-A1;NaN;FC Wacker Tirol;SV Mattersburg;2;1;H;0;0;D
-A1;NaN;Sturm Graz;FC Superfund;0;0;D;0;0;D
-A1;NaN;SV Ried;Grazer AK;1;1;D;0;0;D
-A1;NaN;SCR Altach;Austria Wien;1;0;H;1;0;H
-A1;NaN;Rapid Wien;RB Salzburg;1;1;D;1;0;H
-A1;NaN;FC Wacker Tirol;Rapid Wien;2;2;D;0;0;D
-A1;NaN;Austria Wien;SV Mattersburg;3;1;H;2;1;H
-A1;NaN;Grazer AK;SCR Altach;1;1;D;1;0;H
-A1;NaN;FC Superfund;SV Ried;0;0;D;0;0;D
-A1;NaN;RB Salzburg;Sturm Graz;2;0;H;0;0;D
-A1;NaN;SCR Altach;Grazer AK;4;1;H;2;0;H
-A1;NaN;SV Ried;FC Superfund;1;1;D;1;0;H
-A1;NaN;Sturm Graz;RB Salzburg;2;1;H;2;0;H
-A1;NaN;Rapid Wien;FC Wacker Tirol;1;1;D;1;1;D
-A1;NaN;SV Mattersburg;Austria Wien;1;0;H;0;0;D
-A1;NaN;Rapid Wien;SV Mattersburg;4;1;H;1;1;D
-A1;NaN;Grazer AK;Austria Wien;1;3;A;0;1;A
-A1;NaN;FC Wacker Tirol;Sturm Graz;2;0;H;0;0;D
-A1;NaN;RB Salzburg;SV Ried;1;1;D;0;1;A
-A1;NaN;FC Superfund;SCR Altach;4;2;H;1;0;H
-A1;NaN;SV Mattersburg;Grazer AK;2;1;H;1;0;H
-A1;NaN;Austria Wien;FC Superfund;1;1;D;1;0;H
-A1;NaN;RB Salzburg;SCR Altach;3;0;H;2;0;H
-A1;NaN;FC Wacker Tirol;SV Ried;1;2;A;1;1;D
-A1;NaN;Sturm Graz;Rapid Wien;2;0;H;1;0;H
-A1;NaN;FC Superfund;Grazer AK;1;0;H;1;0;H
-A1;NaN;Rapid Wien;SV Ried;2;2;D;0;1;A
-A1;NaN;FC Wacker Tirol;SCR Altach;0;1;A;0;1;A
-A1;NaN;Sturm Graz;SV Mattersburg;0;0;D;0;0;D
-A1;NaN;RB Salzburg;Austria Wien;4;0;H;0;0;D
-A1;NaN;SV Mattersburg;FC Superfund;0;2;A;0;1;A
-A1;NaN;Austria Wien;FC Wacker Tirol;4;1;H;2;0;H
-A1;NaN;SCR Altach;Rapid Wien;3;1;H;1;1;D
-A1;NaN;SV Ried;Sturm Graz;2;1;H;2;1;H
-A1;NaN;Grazer AK;RB Salzburg;0;2;A;0;1;A
-A1;NaN;FC Wacker Tirol;Grazer AK;1;1;D;1;1;D
-A1;NaN;RB Salzburg;FC Superfund;3;0;H;2;0;H
-A1;NaN;Sturm Graz;SCR Altach;2;0;H;2;0;H
-A1;NaN;SV Ried;SV Mattersburg;6;2;H;3;1;H
-A1;NaN;Rapid Wien;Austria Wien;1;1;D;1;1;D
-A1;NaN;SV Mattersburg;RB Salzburg;2;1;H;1;1;D
-A1;NaN;FC Superfund;FC Wacker Tirol;0;2;A;0;1;A
-A1;NaN;Grazer AK;Rapid Wien;1;1;D;0;0;D
-A1;NaN;Austria Wien;Sturm Graz;1;1;D;1;0;H
-A1;NaN;SCR Altach;SV Ried;0;0;D;0;0;D
-A1;NaN;SV Ried;Austria Wien;1;0;H;1;0;H
-A1;NaN;Sturm Graz;Grazer AK;0;2;A;0;0;D
-A1;NaN;Rapid Wien;FC Superfund;1;1;D;0;0;D
-A1;NaN;SCR Altach;SV Mattersburg;0;2;A;0;0;D
-A1;NaN;FC Wacker Tirol;RB Salzburg;2;1;H;1;0;H
-A1;NaN;SV Mattersburg;FC Wacker Tirol;1;1;D;1;0;H
-A1;NaN;FC Superfund;Sturm Graz;1;0;H;0;0;D
-A1;NaN;Grazer AK;SV Ried;2;2;D;2;1;H
-A1;NaN;Austria Wien;SCR Altach;2;0;H;1;0;H
-A1;NaN;RB Salzburg;Rapid Wien;4;0;H;2;0;H
-A1;NaN;Austria Wien;Grazer AK;2;2;D;2;0;H
-A1;NaN;Sturm Graz;FC Wacker Tirol;2;0;H;2;0;H
-A1;NaN;SCR Altach;FC Superfund;3;2;H;1;2;A
-A1;NaN;SV Mattersburg;Rapid Wien;1;0;H;0;0;D
-A1;NaN;SV Ried;RB Salzburg;0;1;A;0;1;A
-A1;NaN;Grazer AK;SV Mattersburg;3;3;D;2;1;H
-A1;NaN;RB Salzburg;SCR Altach;1;1;D;0;0;D
-A1;NaN;FC Wacker Tirol;SV Ried;0;0;D;0;0;D
-A1;NaN;Rapid Wien;Sturm Graz;3;0;H;1;0;H
-A1;NaN;FC Superfund;Austria Wien;2;1;H;1;1;D
-A1;NaN;Austria Wien;RB Salzburg;0;2;A;0;0;D
-A1;NaN;Grazer AK;FC Superfund;2;1;H;2;0;H
-A1;NaN;SV Ried;Rapid Wien;1;2;A;0;1;A
-A1;NaN;SV Mattersburg;Sturm Graz;1;0;H;1;0;H
-A1;NaN;SCR Altach;FC Wacker Tirol;2;0;H;1;0;H
-A1;NaN;FC Superfund;SV Mattersburg;2;0;H;0;0;D
-A1;NaN;RB Salzburg;Grazer AK;2;1;H;0;1;A
-A1;NaN;Rapid Wien;SCR Altach;2;1;H;1;0;H
-A1;NaN;Sturm Graz;SV Ried;1;1;D;0;0;D
-A1;NaN;FC Wacker Tirol;Austria Wien;2;2;D;0;1;A
-A1;NaN;Grazer AK;FC Wacker Tirol;3;2;H;2;1;H
-A1;NaN;FC Superfund;RB Salzburg;0;1;A;0;0;D
-A1;NaN;SCR Altach;Sturm Graz;1;3;A;1;1;D
-A1;NaN;SV Mattersburg;SV Ried;1;2;A;1;0;H
-A1;NaN;Austria Wien;Rapid Wien;2;1;H;2;0;H
-A1;NaN;RB Salzburg;SV Mattersburg;1;1;D;0;0;D
-A1;NaN;FC Wacker Tirol;FC Superfund;0;0;D;0;0;D
-A1;NaN;Sturm Graz;Austria Wien;0;1;A;0;0;D
-A1;NaN;SV Ried;SCR Altach;2;0;H;0;0;D
-A1;NaN;Rapid Wien;Grazer AK;1;0;H;1;0;H
-A1;NaN;Austria Wien;SV Ried;2;1;H;0;1;A
-A1;NaN;FC Superfund;Rapid Wien;0;1;A;0;0;D
-A1;NaN;RB Salzburg;FC Wacker Tirol;3;0;H;2;0;H
-A1;NaN;SV Mattersburg;SCR Altach;2;1;H;1;1;D
-A1;NaN;Grazer AK;Sturm Graz;0;2;A;0;1;A
-A1;NaN;FC Wacker Tirol;SV Mattersburg;1;3;A;1;1;D
-A1;NaN;Rapid Wien;RB Salzburg;2;2;D;0;0;D
-A1;NaN;Sturm Graz;FC Superfund;2;1;H;2;0;H
-A1;NaN;SV Ried;Grazer AK;3;1;H;1;0;H
-A1;NaN;SCR Altach;Austria Wien;0;1;A;0;0;D
-A1;NaN;Austria Wien;SV Mattersburg;1;1;D;0;1;A
-A1;NaN;Grazer AK;SCR Altach;4;1;H;2;1;H
-A1;NaN;FC Superfund;SV Ried;3;1;H;2;0;H
-A1;NaN;FC Wacker Tirol;Rapid Wien;2;3;A;0;2;A
-A1;NaN;RB Salzburg;Sturm Graz;3;1;H;2;1;H
-A1;NaN;SV Mattersburg;Austria Wien;3;1;H;1;0;H
-A1;NaN;SCR Altach;Grazer AK;3;1;H;2;0;H
-A1;NaN;Sturm Graz;RB Salzburg;0;2;A;0;0;D
-A1;NaN;Rapid Wien;FC Wacker Tirol;2;1;H;1;1;D
-A1;NaN;SV Ried;FC Superfund;2;1;H;1;0;H
-A1;NaN;Rapid Wien;SV Mattersburg;2;2;D;2;2;D
-A1;NaN;Grazer AK;Austria Wien;2;1;H;1;0;H
-A1;NaN;FC Wacker Tirol;Sturm Graz;0;2;A;0;1;A
-A1;NaN;RB Salzburg;SV Ried;2;0;H;1;0;H
-A1;NaN;FC Superfund;SCR Altach;1;1;D;1;0;H
-A1;NaN;SV Mattersburg;Grazer AK;5;1;H;1;1;D
-A1;NaN;Austria Wien;FC Superfund;2;0;H;2;0;H
-A1;NaN;SCR Altach;RB Salzburg;0;2;A;0;1;A
-A1;NaN;SV Ried;FC Wacker Tirol;2;1;H;1;0;H
-A1;NaN;Sturm Graz;Rapid Wien;1;0;H;1;0;H
-A1;NaN;RB Salzburg;Austria Wien;2;2;D;1;1;D
-A1;NaN;FC Superfund;Grazer AK;3;0;H;0;0;D
-A1;NaN;FC Wacker Tirol;SCR Altach;1;1;D;1;1;D
-A1;NaN;Sturm Graz;SV Mattersburg;3;1;H;2;0;H
-A1;NaN;Rapid Wien;SV Ried;5;2;H;3;1;H
-A1;NaN;Grazer AK;RB Salzburg;0;0;D;0;0;D
-A1;NaN;Austria Wien;FC Wacker Tirol;4;1;H;0;0;D
-A1;NaN;SCR Altach;Rapid Wien;2;1;H;1;0;H
-A1;NaN;SV Ried;Sturm Graz;2;1;H;1;0;H
-A1;NaN;SV Mattersburg;FC Superfund;2;4;A;1;2;A
-A1;NaN;Rapid Wien;Austria Wien;3;0;H;2;0;H
-A1;NaN;FC Wacker Tirol;Grazer AK;5;1;H;2;1;H
-A1;NaN;RB Salzburg;FC Superfund;2;3;A;0;1;A
-A1;NaN;Sturm Graz;SCR Altach;1;0;H;0;0;D
-A1;NaN;SV Ried;SV Mattersburg;1;0;H;0;0;D
-A1;NaN;SV Mattersburg;RB Salzburg;2;1;H;1;1;D
-A1;NaN;FC Superfund;FC Wacker Tirol;3;1;H;1;1;D
-A1;NaN;Austria Wien;Sturm Graz;0;1;A;0;0;D
-A1;NaN;SCR Altach;SV Ried;0;2;A;0;2;A
-A1;NaN;Grazer AK;Rapid Wien;0;2;A;0;0;D
-A1;NaN;SV Ried;Austria Wien;1;0;H;0;0;D
-A1;NaN;Sturm Graz;Grazer AK;1;0;H;1;0;H
-A1;NaN;Rapid Wien;FC Superfund;2;0;H;2;0;H
-A1;NaN;FC Wacker Tirol;RB Salzburg;0;2;A;0;2;A
-A1;NaN;SCR Altach;SV Mattersburg;3;2;H;2;1;H
-A1;NaN;SV Mattersburg;FC Wacker Tirol;6;1;H;4;0;H
-A1;NaN;RB Salzburg;Rapid Wien;3;1;H;1;1;D
-A1;NaN;FC Superfund;Sturm Graz;1;1;D;1;1;D
-A1;NaN;Grazer AK;SV Ried;2;3;A;2;2;D
-A1;NaN;Austria Wien;SCR Altach;3;0;H;1;0;H
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+A1,NaN,Austria Wien,Grazer AK,0,0,D,0,0,D
+A1,NaN,Sturm Graz,FC Wacker Tirol,2,3,A,1,2,A
+A1,NaN,SV Ried,RB Salzburg,0,3,A,0,1,A
+A1,NaN,SCR Altach,FC Superfund,2,3,A,2,2,D
+A1,NaN,SV Mattersburg,Rapid Wien,1,0,H,0,0,D
+A1,NaN,Grazer AK,SV Mattersburg,0,2,A,0,1,A
+A1,NaN,FC Superfund,Austria Wien,2,0,H,2,0,H
+A1,NaN,SCR Altach,RB Salzburg,0,2,A,0,2,A
+A1,NaN,Rapid Wien,Sturm Graz,4,1,H,3,0,H
+A1,NaN,SV Ried,FC Wacker Tirol,0,1,A,0,1,A
+A1,NaN,Austria Wien,RB Salzburg,1,1,D,0,0,D
+A1,NaN,Grazer AK,FC Superfund,2,1,H,2,0,H
+A1,NaN,SV Ried,Rapid Wien,1,0,H,0,0,D
+A1,NaN,SV Mattersburg,Sturm Graz,1,4,A,0,0,D
+A1,NaN,SCR Altach,FC Wacker Tirol,0,1,A,0,0,D
+A1,NaN,FC Superfund,SV Mattersburg,1,2,A,0,1,A
+A1,NaN,RB Salzburg,Grazer AK,4,1,H,2,0,H
+A1,NaN,FC Wacker Tirol,Austria Wien,1,1,D,0,1,A
+A1,NaN,Sturm Graz,SV Ried,1,0,H,0,0,D
+A1,NaN,Rapid Wien,SCR Altach,3,2,H,2,1,H
+A1,NaN,Austria Wien,Rapid Wien,0,0,D,0,0,D
+A1,NaN,FC Superfund,RB Salzburg,1,1,D,1,0,H
+A1,NaN,SCR Altach,Sturm Graz,4,1,H,2,1,H
+A1,NaN,SV Mattersburg,SV Ried,0,0,D,0,0,D
+A1,NaN,Grazer AK,FC Wacker Tirol,2,1,H,1,0,H
+A1,NaN,RB Salzburg,SV Mattersburg,2,0,H,0,0,D
+A1,NaN,FC Wacker Tirol,FC Superfund,0,0,D,0,0,D
+A1,NaN,Sturm Graz,Austria Wien,1,0,H,0,0,D
+A1,NaN,SV Ried,SCR Altach,1,2,A,0,0,D
+A1,NaN,Rapid Wien,Grazer AK,1,4,A,0,1,A
+A1,NaN,Grazer AK,Sturm Graz,0,0,D,0,0,D
+A1,NaN,FC Superfund,Rapid Wien,1,0,H,0,0,D
+A1,NaN,RB Salzburg,FC Wacker Tirol,4,0,H,0,0,D
+A1,NaN,SV Mattersburg,SCR Altach,6,3,H,1,1,D
+A1,NaN,Austria Wien,SV Ried,1,1,D,1,0,H
+A1,NaN,FC Wacker Tirol,SV Mattersburg,2,1,H,0,0,D
+A1,NaN,Sturm Graz,FC Superfund,0,0,D,0,0,D
+A1,NaN,SV Ried,Grazer AK,1,1,D,0,0,D
+A1,NaN,SCR Altach,Austria Wien,1,0,H,1,0,H
+A1,NaN,Rapid Wien,RB Salzburg,1,1,D,1,0,H
+A1,NaN,FC Wacker Tirol,Rapid Wien,2,2,D,0,0,D
+A1,NaN,Austria Wien,SV Mattersburg,3,1,H,2,1,H
+A1,NaN,Grazer AK,SCR Altach,1,1,D,1,0,H
+A1,NaN,FC Superfund,SV Ried,0,0,D,0,0,D
+A1,NaN,RB Salzburg,Sturm Graz,2,0,H,0,0,D
+A1,NaN,SCR Altach,Grazer AK,4,1,H,2,0,H
+A1,NaN,SV Ried,FC Superfund,1,1,D,1,0,H
+A1,NaN,Sturm Graz,RB Salzburg,2,1,H,2,0,H
+A1,NaN,Rapid Wien,FC Wacker Tirol,1,1,D,1,1,D
+A1,NaN,SV Mattersburg,Austria Wien,1,0,H,0,0,D
+A1,NaN,Rapid Wien,SV Mattersburg,4,1,H,1,1,D
+A1,NaN,Grazer AK,Austria Wien,1,3,A,0,1,A
+A1,NaN,FC Wacker Tirol,Sturm Graz,2,0,H,0,0,D
+A1,NaN,RB Salzburg,SV Ried,1,1,D,0,1,A
+A1,NaN,FC Superfund,SCR Altach,4,2,H,1,0,H
+A1,NaN,SV Mattersburg,Grazer AK,2,1,H,1,0,H
+A1,NaN,Austria Wien,FC Superfund,1,1,D,1,0,H
+A1,NaN,RB Salzburg,SCR Altach,3,0,H,2,0,H
+A1,NaN,FC Wacker Tirol,SV Ried,1,2,A,1,1,D
+A1,NaN,Sturm Graz,Rapid Wien,2,0,H,1,0,H
+A1,NaN,FC Superfund,Grazer AK,1,0,H,1,0,H
+A1,NaN,Rapid Wien,SV Ried,2,2,D,0,1,A
+A1,NaN,FC Wacker Tirol,SCR Altach,0,1,A,0,1,A
+A1,NaN,Sturm Graz,SV Mattersburg,0,0,D,0,0,D
+A1,NaN,RB Salzburg,Austria Wien,4,0,H,0,0,D
+A1,NaN,SV Mattersburg,FC Superfund,0,2,A,0,1,A
+A1,NaN,Austria Wien,FC Wacker Tirol,4,1,H,2,0,H
+A1,NaN,SCR Altach,Rapid Wien,3,1,H,1,1,D
+A1,NaN,SV Ried,Sturm Graz,2,1,H,2,1,H
+A1,NaN,Grazer AK,RB Salzburg,0,2,A,0,1,A
+A1,NaN,FC Wacker Tirol,Grazer AK,1,1,D,1,1,D
+A1,NaN,RB Salzburg,FC Superfund,3,0,H,2,0,H
+A1,NaN,Sturm Graz,SCR Altach,2,0,H,2,0,H
+A1,NaN,SV Ried,SV Mattersburg,6,2,H,3,1,H
+A1,NaN,Rapid Wien,Austria Wien,1,1,D,1,1,D
+A1,NaN,SV Mattersburg,RB Salzburg,2,1,H,1,1,D
+A1,NaN,FC Superfund,FC Wacker Tirol,0,2,A,0,1,A
+A1,NaN,Grazer AK,Rapid Wien,1,1,D,0,0,D
+A1,NaN,Austria Wien,Sturm Graz,1,1,D,1,0,H
+A1,NaN,SCR Altach,SV Ried,0,0,D,0,0,D
+A1,NaN,SV Ried,Austria Wien,1,0,H,1,0,H
+A1,NaN,Sturm Graz,Grazer AK,0,2,A,0,0,D
+A1,NaN,Rapid Wien,FC Superfund,1,1,D,0,0,D
+A1,NaN,SCR Altach,SV Mattersburg,0,2,A,0,0,D
+A1,NaN,FC Wacker Tirol,RB Salzburg,2,1,H,1,0,H
+A1,NaN,SV Mattersburg,FC Wacker Tirol,1,1,D,1,0,H
+A1,NaN,FC Superfund,Sturm Graz,1,0,H,0,0,D
+A1,NaN,Grazer AK,SV Ried,2,2,D,2,1,H
+A1,NaN,Austria Wien,SCR Altach,2,0,H,1,0,H
+A1,NaN,RB Salzburg,Rapid Wien,4,0,H,2,0,H
+A1,NaN,Austria Wien,Grazer AK,2,2,D,2,0,H
+A1,NaN,Sturm Graz,FC Wacker Tirol,2,0,H,2,0,H
+A1,NaN,SCR Altach,FC Superfund,3,2,H,1,2,A
+A1,NaN,SV Mattersburg,Rapid Wien,1,0,H,0,0,D
+A1,NaN,SV Ried,RB Salzburg,0,1,A,0,1,A
+A1,NaN,Grazer AK,SV Mattersburg,3,3,D,2,1,H
+A1,NaN,RB Salzburg,SCR Altach,1,1,D,0,0,D
+A1,NaN,FC Wacker Tirol,SV Ried,0,0,D,0,0,D
+A1,NaN,Rapid Wien,Sturm Graz,3,0,H,1,0,H
+A1,NaN,FC Superfund,Austria Wien,2,1,H,1,1,D
+A1,NaN,Austria Wien,RB Salzburg,0,2,A,0,0,D
+A1,NaN,Grazer AK,FC Superfund,2,1,H,2,0,H
+A1,NaN,SV Ried,Rapid Wien,1,2,A,0,1,A
+A1,NaN,SV Mattersburg,Sturm Graz,1,0,H,1,0,H
+A1,NaN,SCR Altach,FC Wacker Tirol,2,0,H,1,0,H
+A1,NaN,FC Superfund,SV Mattersburg,2,0,H,0,0,D
+A1,NaN,RB Salzburg,Grazer AK,2,1,H,0,1,A
+A1,NaN,Rapid Wien,SCR Altach,2,1,H,1,0,H
+A1,NaN,Sturm Graz,SV Ried,1,1,D,0,0,D
+A1,NaN,FC Wacker Tirol,Austria Wien,2,2,D,0,1,A
+A1,NaN,Grazer AK,FC Wacker Tirol,3,2,H,2,1,H
+A1,NaN,FC Superfund,RB Salzburg,0,1,A,0,0,D
+A1,NaN,SCR Altach,Sturm Graz,1,3,A,1,1,D
+A1,NaN,SV Mattersburg,SV Ried,1,2,A,1,0,H
+A1,NaN,Austria Wien,Rapid Wien,2,1,H,2,0,H
+A1,NaN,RB Salzburg,SV Mattersburg,1,1,D,0,0,D
+A1,NaN,FC Wacker Tirol,FC Superfund,0,0,D,0,0,D
+A1,NaN,Sturm Graz,Austria Wien,0,1,A,0,0,D
+A1,NaN,SV Ried,SCR Altach,2,0,H,0,0,D
+A1,NaN,Rapid Wien,Grazer AK,1,0,H,1,0,H
+A1,NaN,Austria Wien,SV Ried,2,1,H,0,1,A
+A1,NaN,FC Superfund,Rapid Wien,0,1,A,0,0,D
+A1,NaN,RB Salzburg,FC Wacker Tirol,3,0,H,2,0,H
+A1,NaN,SV Mattersburg,SCR Altach,2,1,H,1,1,D
+A1,NaN,Grazer AK,Sturm Graz,0,2,A,0,1,A
+A1,NaN,FC Wacker Tirol,SV Mattersburg,1,3,A,1,1,D
+A1,NaN,Rapid Wien,RB Salzburg,2,2,D,0,0,D
+A1,NaN,Sturm Graz,FC Superfund,2,1,H,2,0,H
+A1,NaN,SV Ried,Grazer AK,3,1,H,1,0,H
+A1,NaN,SCR Altach,Austria Wien,0,1,A,0,0,D
+A1,NaN,Austria Wien,SV Mattersburg,1,1,D,0,1,A
+A1,NaN,Grazer AK,SCR Altach,4,1,H,2,1,H
+A1,NaN,FC Superfund,SV Ried,3,1,H,2,0,H
+A1,NaN,FC Wacker Tirol,Rapid Wien,2,3,A,0,2,A
+A1,NaN,RB Salzburg,Sturm Graz,3,1,H,2,1,H
+A1,NaN,SV Mattersburg,Austria Wien,3,1,H,1,0,H
+A1,NaN,SCR Altach,Grazer AK,3,1,H,2,0,H
+A1,NaN,Sturm Graz,RB Salzburg,0,2,A,0,0,D
+A1,NaN,Rapid Wien,FC Wacker Tirol,2,1,H,1,1,D
+A1,NaN,SV Ried,FC Superfund,2,1,H,1,0,H
+A1,NaN,Rapid Wien,SV Mattersburg,2,2,D,2,2,D
+A1,NaN,Grazer AK,Austria Wien,2,1,H,1,0,H
+A1,NaN,FC Wacker Tirol,Sturm Graz,0,2,A,0,1,A
+A1,NaN,RB Salzburg,SV Ried,2,0,H,1,0,H
+A1,NaN,FC Superfund,SCR Altach,1,1,D,1,0,H
+A1,NaN,SV Mattersburg,Grazer AK,5,1,H,1,1,D
+A1,NaN,Austria Wien,FC Superfund,2,0,H,2,0,H
+A1,NaN,SCR Altach,RB Salzburg,0,2,A,0,1,A
+A1,NaN,SV Ried,FC Wacker Tirol,2,1,H,1,0,H
+A1,NaN,Sturm Graz,Rapid Wien,1,0,H,1,0,H
+A1,NaN,RB Salzburg,Austria Wien,2,2,D,1,1,D
+A1,NaN,FC Superfund,Grazer AK,3,0,H,0,0,D
+A1,NaN,FC Wacker Tirol,SCR Altach,1,1,D,1,1,D
+A1,NaN,Sturm Graz,SV Mattersburg,3,1,H,2,0,H
+A1,NaN,Rapid Wien,SV Ried,5,2,H,3,1,H
+A1,NaN,Grazer AK,RB Salzburg,0,0,D,0,0,D
+A1,NaN,Austria Wien,FC Wacker Tirol,4,1,H,0,0,D
+A1,NaN,SCR Altach,Rapid Wien,2,1,H,1,0,H
+A1,NaN,SV Ried,Sturm Graz,2,1,H,1,0,H
+A1,NaN,SV Mattersburg,FC Superfund,2,4,A,1,2,A
+A1,NaN,Rapid Wien,Austria Wien,3,0,H,2,0,H
+A1,NaN,FC Wacker Tirol,Grazer AK,5,1,H,2,1,H
+A1,NaN,RB Salzburg,FC Superfund,2,3,A,0,1,A
+A1,NaN,Sturm Graz,SCR Altach,1,0,H,0,0,D
+A1,NaN,SV Ried,SV Mattersburg,1,0,H,0,0,D
+A1,NaN,SV Mattersburg,RB Salzburg,2,1,H,1,1,D
+A1,NaN,FC Superfund,FC Wacker Tirol,3,1,H,1,1,D
+A1,NaN,Austria Wien,Sturm Graz,0,1,A,0,0,D
+A1,NaN,SCR Altach,SV Ried,0,2,A,0,2,A
+A1,NaN,Grazer AK,Rapid Wien,0,2,A,0,0,D
+A1,NaN,SV Ried,Austria Wien,1,0,H,0,0,D
+A1,NaN,Sturm Graz,Grazer AK,1,0,H,1,0,H
+A1,NaN,Rapid Wien,FC Superfund,2,0,H,2,0,H
+A1,NaN,FC Wacker Tirol,RB Salzburg,0,2,A,0,2,A
+A1,NaN,SCR Altach,SV Mattersburg,3,2,H,2,1,H
+A1,NaN,SV Mattersburg,FC Wacker Tirol,6,1,H,4,0,H
+A1,NaN,RB Salzburg,Rapid Wien,3,1,H,1,1,D
+A1,NaN,FC Superfund,Sturm Graz,1,1,D,1,1,D
+A1,NaN,Grazer AK,SV Ried,2,3,A,2,2,D
+A1,NaN,Austria Wien,SCR Altach,3,0,H,1,0,H
