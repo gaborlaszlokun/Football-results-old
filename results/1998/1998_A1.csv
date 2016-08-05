@@ -1,0 +1,181 @@
+Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
+A1;NaN;Sturm Graz;Austria Wien;2;0;H;1;0;H
+A1;NaN;LASK Linz;Austria Lustenau;3;0;H;1;0;H
+A1;NaN;Vorwärts Steyr;Grazer AK;0;1;A;0;0;D
+A1;NaN;FC Tirol Innsbruck;SV Ried;1;0;H;0;0;D
+A1;NaN;Rapid Wien;RB Salzburg;1;0;H;1;0;H
+A1;NaN;Austria Lustenau;FC Tirol Innsbruck;2;2;D;1;1;D
+A1;NaN;Austria Wien;Vorwärts Steyr;4;1;H;2;0;H
+A1;NaN;SV Ried;Sturm Graz;0;1;A;0;1;A
+A1;NaN;RB Salzburg;LASK Linz;1;3;A;0;2;A
+A1;NaN;Grazer AK;Rapid Wien;1;1;D;1;0;H
+A1;NaN;Sturm Graz;Austria Lustenau;3;0;H;1;0;H
+A1;NaN;Vorwärts Steyr;Rapid Wien;1;2;A;1;1;D
+A1;NaN;Austria Wien;SV Ried;1;0;H;0;0;D
+A1;NaN;LASK Linz;Grazer AK;0;1;A;0;0;D
+A1;NaN;FC Tirol Innsbruck;RB Salzburg;1;1;D;1;1;D
+A1;NaN;Austria Lustenau;Austria Wien;1;1;D;1;1;D
+A1;NaN;Grazer AK;FC Tirol Innsbruck;2;0;H;0;0;D
+A1;NaN;Rapid Wien;LASK Linz;5;0;H;1;0;H
+A1;NaN;SV Ried;Vorwärts Steyr;0;0;D;0;0;D
+A1;NaN;RB Salzburg;Sturm Graz;1;1;D;1;1;D
+A1;NaN;FC Tirol Innsbruck;Rapid Wien;1;3;A;0;1;A
+A1;NaN;Austria Wien;RB Salzburg;3;2;H;2;0;H
+A1;NaN;SV Ried;Austria Lustenau;3;1;H;1;1;D
+A1;NaN;Vorwärts Steyr;LASK Linz;1;4;A;1;2;A
+A1;NaN;Sturm Graz;Grazer AK;2;3;A;1;1;D
+A1;NaN;Grazer AK;Austria Wien;0;0;D;0;0;D
+A1;NaN;Austria Lustenau;Vorwärts Steyr;1;1;D;0;1;A
+A1;NaN;LASK Linz;FC Tirol Innsbruck;3;2;H;0;1;A
+A1;NaN;RB Salzburg;SV Ried;3;2;H;1;0;H
+A1;NaN;Rapid Wien;Sturm Graz;2;0;H;0;0;D
+A1;NaN;Austria Wien;Rapid Wien;0;1;A;0;0;D
+A1;NaN;Austria Lustenau;RB Salzburg;1;1;D;0;0;D
+A1;NaN;Sturm Graz;LASK Linz;0;1;A;0;0;D
+A1;NaN;SV Ried;Grazer AK;0;1;A;0;1;A
+A1;NaN;Vorwärts Steyr;FC Tirol Innsbruck;2;1;H;0;1;A
+A1;NaN;LASK Linz;Austria Wien;1;3;A;1;1;D
+A1;NaN;FC Tirol Innsbruck;Sturm Graz;0;1;A;0;1;A
+A1;NaN;Grazer AK;Austria Lustenau;4;0;H;2;0;H
+A1;NaN;RB Salzburg;Vorwärts Steyr;5;2;H;3;1;H
+A1;NaN;Rapid Wien;SV Ried;1;1;D;1;1;D
+A1;NaN;RB Salzburg;Grazer AK;1;0;H;0;0;D
+A1;NaN;Austria Lustenau;Rapid Wien;2;0;H;0;0;D
+A1;NaN;Austria Wien;FC Tirol Innsbruck;1;1;D;0;0;D
+A1;NaN;SV Ried;LASK Linz;0;0;D;0;0;D
+A1;NaN;Sturm Graz;Vorwärts Steyr;5;2;H;4;1;H
+A1;NaN;Grazer AK;RB Salzburg;3;1;H;1;1;D
+A1;NaN;LASK Linz;SV Ried;3;1;H;2;0;H
+A1;NaN;Rapid Wien;Austria Lustenau;1;0;H;1;0;H
+A1;NaN;Vorwärts Steyr;Sturm Graz;0;1;A;0;0;D
+A1;NaN;FC Tirol Innsbruck;Austria Wien;3;0;H;1;0;H
+A1;NaN;RB Salzburg;Rapid Wien;1;1;D;1;1;D
+A1;NaN;Austria Lustenau;LASK Linz;0;4;A;0;1;A
+A1;NaN;Grazer AK;Vorwärts Steyr;2;0;H;2;0;H
+A1;NaN;Austria Wien;Sturm Graz;0;3;A;0;2;A
+A1;NaN;SV Ried;FC Tirol Innsbruck;0;1;A;0;1;A
+A1;NaN;FC Tirol Innsbruck;Austria Lustenau;3;1;H;1;1;D
+A1;NaN;Sturm Graz;SV Ried;4;0;H;1;0;H
+A1;NaN;Vorwärts Steyr;Austria Wien;0;1;A;0;1;A
+A1;NaN;Rapid Wien;Grazer AK;0;2;A;0;1;A
+A1;NaN;LASK Linz;RB Salzburg;3;1;H;1;1;D
+A1;NaN;Grazer AK;LASK Linz;0;2;A;0;1;A
+A1;NaN;Austria Lustenau;Sturm Graz;1;2;A;1;2;A
+A1;NaN;Rapid Wien;Vorwärts Steyr;5;1;H;3;0;H
+A1;NaN;SV Ried;Austria Wien;2;1;H;2;0;H
+A1;NaN;RB Salzburg;FC Tirol Innsbruck;1;1;D;0;1;A
+A1;NaN;LASK Linz;Rapid Wien;0;0;D;0;0;D
+A1;NaN;FC Tirol Innsbruck;Grazer AK;1;1;D;0;0;D
+A1;NaN;Sturm Graz;RB Salzburg;2;0;H;2;0;H
+A1;NaN;Austria Wien;Austria Lustenau;1;1;D;0;1;A
+A1;NaN;Vorwärts Steyr;SV Ried;0;3;A;0;1;A
+A1;NaN;Rapid Wien;FC Tirol Innsbruck;1;0;H;1;0;H
+A1;NaN;RB Salzburg;Austria Wien;2;0;H;1;0;H
+A1;NaN;Austria Lustenau;SV Ried;0;2;A;0;0;D
+A1;NaN;Grazer AK;Sturm Graz;0;5;A;0;3;A
+A1;NaN;LASK Linz;Vorwärts Steyr;2;1;H;0;0;D
+A1;NaN;Austria Wien;Grazer AK;0;0;D;0;0;D
+A1;NaN;SV Ried;RB Salzburg;0;0;D;0;0;D
+A1;NaN;FC Tirol Innsbruck;LASK Linz;1;4;A;0;1;A
+A1;NaN;Sturm Graz;Rapid Wien;2;1;H;1;0;H
+A1;NaN;Vorwärts Steyr;Austria Lustenau;1;1;D;1;0;H
+A1;NaN;FC Tirol Innsbruck;Vorwärts Steyr;3;2;H;1;2;A
+A1;NaN;Grazer AK;SV Ried;1;0;H;0;0;D
+A1;NaN;RB Salzburg;Austria Lustenau;1;2;A;0;1;A
+A1;NaN;Rapid Wien;Austria Wien;3;1;H;1;0;H
+A1;NaN;LASK Linz;Sturm Graz;0;0;D;0;0;D
+A1;NaN;Sturm Graz;FC Tirol Innsbruck;2;0;H;0;0;D
+A1;NaN;Austria Lustenau;Grazer AK;0;3;A;0;2;A
+A1;NaN;SV Ried;Rapid Wien;0;1;A;0;0;D
+A1;NaN;Vorwärts Steyr;RB Salzburg;0;1;A;0;0;D
+A1;NaN;Austria Wien;LASK Linz;2;0;H;1;0;H
+A1;NaN;FC Tirol Innsbruck;RB Salzburg;0;3;A;0;2;A
+A1;NaN;Austria Wien;Sturm Graz;1;0;H;0;0;D
+A1;NaN;Grazer AK;Vorwärts Steyr;1;0;H;0;0;D
+A1;NaN;LASK Linz;Rapid Wien;1;3;A;0;2;A
+A1;NaN;Austria Lustenau;SV Ried;0;0;D;0;0;D
+A1;NaN;Sturm Graz;LASK Linz;2;0;H;0;0;D
+A1;NaN;RB Salzburg;Austria Lustenau;1;0;H;0;0;D
+A1;NaN;Rapid Wien;Grazer AK;1;0;H;0;0;D
+A1;NaN;SV Ried;Austria Wien;2;1;H;1;1;D
+A1;NaN;Vorwärts Steyr;FC Tirol Innsbruck;0;1;A;0;1;A
+A1;NaN;LASK Linz;Grazer AK;0;0;D;0;0;D
+A1;NaN;Austria Lustenau;Vorwärts Steyr;1;1;D;0;1;A
+A1;NaN;Austria Wien;RB Salzburg;3;1;H;2;1;H
+A1;NaN;Sturm Graz;SV Ried;4;2;H;2;0;H
+A1;NaN;FC Tirol Innsbruck;Rapid Wien;0;0;D;0;0;D
+A1;NaN;Grazer AK;FC Tirol Innsbruck;0;1;A;0;0;D
+A1;NaN;Rapid Wien;Austria Lustenau;2;1;H;0;0;D
+A1;NaN;SV Ried;LASK Linz;1;2;A;0;1;A
+A1;NaN;Vorwärts Steyr;Austria Wien;1;3;A;1;2;A
+A1;NaN;RB Salzburg;Sturm Graz;3;1;H;1;0;H
+A1;NaN;Austria Wien;Rapid Wien;1;1;D;1;1;D
+A1;NaN;Austria Lustenau;Grazer AK;2;1;H;1;1;D
+A1;NaN;Sturm Graz;Vorwärts Steyr;5;0;H;2;0;H
+A1;NaN;SV Ried;RB Salzburg;1;1;D;0;0;D
+A1;NaN;LASK Linz;FC Tirol Innsbruck;0;1;A;0;1;A
+A1;NaN;RB Salzburg;LASK Linz;2;0;H;1;0;H
+A1;NaN;FC Tirol Innsbruck;Austria Lustenau;0;0;D;0;0;D
+A1;NaN;Grazer AK;Austria Wien;3;0;H;2;0;H
+A1;NaN;Vorwärts Steyr;SV Ried;2;0;H;1;0;H
+A1;NaN;Rapid Wien;Sturm Graz;2;0;H;1;0;H
+A1;NaN;Sturm Graz;Grazer AK;0;1;A;0;1;A
+A1;NaN;SV Ried;Rapid Wien;0;0;D;0;0;D
+A1;NaN;Austria Wien;FC Tirol Innsbruck;1;1;D;0;1;A
+A1;NaN;LASK Linz;Austria Lustenau;2;0;H;1;0;H
+A1;NaN;RB Salzburg;Vorwärts Steyr;1;0;H;0;0;D
+A1;NaN;Austria Lustenau;Austria Wien;0;0;D;0;0;D
+A1;NaN;FC Tirol Innsbruck;Sturm Graz;3;1;H;0;1;A
+A1;NaN;Grazer AK;SV Ried;1;0;H;0;0;D
+A1;NaN;Vorwärts Steyr;LASK Linz;1;1;D;0;0;D
+A1;NaN;Rapid Wien;RB Salzburg;1;1;D;0;0;D
+A1;NaN;Sturm Graz;Austria Lustenau;5;2;H;4;0;H
+A1;NaN;SV Ried;FC Tirol Innsbruck;2;0;H;0;0;D
+A1;NaN;RB Salzburg;Grazer AK;3;0;H;2;0;H
+A1;NaN;Vorwärts Steyr;Rapid Wien;3;3;D;0;3;A
+A1;NaN;Austria Wien;LASK Linz;2;0;H;1;0;H
+A1;NaN;Austria Lustenau;Sturm Graz;1;2;A;0;1;A
+A1;NaN;Grazer AK;RB Salzburg;1;4;A;0;3;A
+A1;NaN;LASK Linz;Austria Wien;0;0;D;0;0;D
+A1;NaN;Rapid Wien;Vorwärts Steyr;2;1;H;1;0;H
+A1;NaN;FC Tirol Innsbruck;SV Ried;1;0;H;0;0;D
+A1;NaN;Rapid Wien;LASK Linz;2;0;H;1;0;H
+A1;NaN;SV Ried;Austria Lustenau;1;0;H;1;0;H
+A1;NaN;RB Salzburg;FC Tirol Innsbruck;2;2;D;1;1;D
+A1;NaN;Vorwärts Steyr;Grazer AK;0;3;A;0;2;A
+A1;NaN;Sturm Graz;Austria Wien;0;0;D;0;0;D
+A1;NaN;LASK Linz;Sturm Graz;1;2;A;0;0;D
+A1;NaN;Austria Lustenau;RB Salzburg;0;0;D;0;0;D
+A1;NaN;Austria Wien;SV Ried;3;0;H;1;0;H
+A1;NaN;FC Tirol Innsbruck;Vorwärts Steyr;4;0;H;0;0;D
+A1;NaN;Grazer AK;Rapid Wien;0;1;A;0;1;A
+A1;NaN;Grazer AK;LASK Linz;2;1;H;0;1;A
+A1;NaN;SV Ried;Sturm Graz;0;3;A;0;2;A
+A1;NaN;RB Salzburg;Austria Wien;3;0;H;0;0;D
+A1;NaN;Vorwärts Steyr;Austria Lustenau;2;0;H;1;0;H
+A1;NaN;Rapid Wien;FC Tirol Innsbruck;1;1;D;1;1;D
+A1;NaN;FC Tirol Innsbruck;Grazer AK;1;0;H;0;0;D
+A1;NaN;Austria Lustenau;Rapid Wien;2;0;H;0;0;D
+A1;NaN;Austria Wien;Vorwärts Steyr;4;1;H;2;1;H
+A1;NaN;LASK Linz;SV Ried;6;1;H;4;1;H
+A1;NaN;Sturm Graz;RB Salzburg;1;2;A;1;0;H
+A1;NaN;FC Tirol Innsbruck;LASK Linz;4;0;H;2;0;H
+A1;NaN;Grazer AK;Austria Lustenau;2;0;H;0;0;D
+A1;NaN;RB Salzburg;SV Ried;0;0;D;0;0;D
+A1;NaN;Vorwärts Steyr;Sturm Graz;1;4;A;0;2;A
+A1;NaN;Rapid Wien;Austria Wien;0;0;D;0;0;D
+A1;NaN;Austria Wien;Grazer AK;0;3;A;0;1;A
+A1;NaN;LASK Linz;RB Salzburg;3;2;H;3;2;H
+A1;NaN;SV Ried;Vorwärts Steyr;1;0;H;1;0;H
+A1;NaN;Sturm Graz;Rapid Wien;1;1;D;0;1;A
+A1;NaN;Austria Lustenau;FC Tirol Innsbruck;0;3;A;0;1;A
+A1;NaN;Vorwärts Steyr;RB Salzburg;1;3;A;0;3;A
+A1;NaN;Grazer AK;Sturm Graz;1;2;A;0;0;D
+A1;NaN;Rapid Wien;SV Ried;1;0;H;0;0;D
+A1;NaN;FC Tirol Innsbruck;Austria Wien;4;1;H;1;0;H
+A1;NaN;Austria Lustenau;LASK Linz;0;1;A;0;1;A
+A1;NaN;Austria Wien;Austria Lustenau;2;1;H;1;0;H
+A1;NaN;LASK Linz;Vorwärts Steyr;2;0;H;1;0;H
+A1;NaN;SV Ried;Grazer AK;0;2;A;0;1;A
+A1;NaN;Sturm Graz;FC Tirol Innsbruck;3;0;H;1;0;H
+A1;NaN;RB Salzburg;Rapid Wien;0;0;D;0;0;D

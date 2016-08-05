@@ -1,0 +1,381 @@
+Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
+I2;NaN;AC Cesena;AC Pistoiese;1;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Bologna FC;0;2;A;NoR;NoR;NoR
+I2;NaN;Lucchese;Chievo Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;US Foggia;1;1;D;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Brescia Calcio;2;4;A;NoR;NoR;NoR
+I2;NaN;Reggiana;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Ancona Calcio;2;2;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Cosenza Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;US Avellino;0;2;A;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Genoa CFC;2;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Lucchese;0;2;A;NoR;NoR;NoR
+I2;NaN;US Avellino;Hellas Verona;0;1;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;AC Perugia;1;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;AS Fidelis Andria;2;2;D;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Salernitana Sport;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Pescara Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;US Foggia;AC Venezia;1;0;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Reggina Calcio;7;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;AC Cesena;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Reggiana;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;AC Venezia;0;1;A;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;US Avellino;3;1;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Ancona Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;AC Pistoiese;2;1;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Brescia Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggiana;AC Perugia;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Chievo Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Bologna FC;0;0;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Cosenza Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;AC Cesena;3;2;H;NoR;NoR;NoR
+I2;NaN;US Avellino;US Foggia;0;0;D;NoR;NoR;NoR
+I2;NaN;Bologna FC;Reggina Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Hellas Verona;1;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Pescara Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Reggiana;3;1;H;NoR;NoR;NoR
+I2;NaN;US Palermo;AS Fidelis Andria;3;2;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Genoa CFC;2;2;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Lucchese;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;Salernitana Sport;0;3;A;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Salernitana Sport;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;AC Perugia;2;0;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Chievo Verona;1;3;A;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Ancona Calcio;1;2;A;NoR;NoR;NoR
+I2;NaN;US Foggia;Reggina Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Reggiana;1;1;D;NoR;NoR;NoR
+I2;NaN;Lucchese;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;AC Venezia;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;US Avellino;1;1;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Bologna FC;1;1;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Hellas Verona;1;2;A;NoR;NoR;NoR
+I2;NaN;US Avellino;Brescia Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Pescara Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Genoa CFC;0;1;A;NoR;NoR;NoR
+I2;NaN;US Palermo;Cosenza Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;AC Pistoiese;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;Lucchese;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;AC Cesena;0;0;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;US Foggia;3;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;AS Fidelis Andria;0;0;D;NoR;NoR;NoR
+I2;NaN;US Avellino;Salernitana Sport;1;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;AC Venezia;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Cesena;Chievo Verona;4;2;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Ancona Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;US Foggia;2;1;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Lucchese;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Reggiana;4;1;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Bologna FC;1;1;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Reggina Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;AC Perugia;4;0;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Brescia Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;AC Cesena;2;1;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Pescara Calcio;0;1;A;NoR;NoR;NoR
+I2;NaN;US Palermo;US Avellino;2;1;H;NoR;NoR;NoR
+I2;NaN;Reggiana;AC Venezia;3;0;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Cosenza Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;AS Fidelis Andria;1;0;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;AC Pistoiese;2;3;A;NoR;NoR;NoR
+I2;NaN;US Avellino;Bologna FC;1;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Cesena;Reggiana;1;1;D;NoR;NoR;NoR
+I2;NaN;Chievo Verona;AC Pistoiese;1;1;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Genoa CFC;1;1;D;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Reggina Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Lucchese;5;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;US Foggia;3;2;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Ancona Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;Hellas Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;US Avellino;2;1;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;AC Venezia;1;1;D;NoR;NoR;NoR
+I2;NaN;US Foggia;Brescia Calcio;0;5;A;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Pescara Calcio;5;1;H;NoR;NoR;NoR
+I2;NaN;Lucchese;AC Cesena;4;3;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Chievo Verona;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Cosenza Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggiana;Salernitana Sport;2;1;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;AC Perugia;1;0;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;AS Fidelis Andria;0;0;D;NoR;NoR;NoR
+I2;NaN;US Avellino;Reggiana;0;3;A;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Genoa CFC;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;Hellas Verona;2;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;AS Fidelis Andria;1;1;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;AC Perugia;2;2;D;NoR;NoR;NoR
+I2;NaN;US Foggia;Bologna FC;0;0;D;NoR;NoR;NoR
+I2;NaN;US Palermo;AC Pistoiese;1;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Ancona Calcio;0;3;A;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Reggina Calcio;0;2;A;NoR;NoR;NoR
+I2;NaN;AC Venezia;Lucchese;0;0;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Brescia Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;US Avellino;4;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Cosenza Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;US Palermo;1;0;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Salernitana Sport;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Pescara Calcio;0;1;A;NoR;NoR;NoR
+I2;NaN;Reggiana;Bologna FC;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;AC Venezia;0;2;A;NoR;NoR;NoR
+I2;NaN;Hellas Verona;US Foggia;1;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Reggina Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Ancona Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;AC Pistoiese;3;2;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Hellas Verona;1;2;A;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Lucchese;1;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;AC Perugia;0;3;A;NoR;NoR;NoR
+I2;NaN;US Foggia;Reggiana;3;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;AC Cesena;3;2;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Genoa CFC;3;1;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;US Palermo;1;1;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;AC Venezia;1;2;A;NoR;NoR;NoR
+I2;NaN;AC Cesena;Cosenza Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Bologna FC;0;1;A;NoR;NoR;NoR
+I2;NaN;Lucchese;US Avellino;1;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;US Foggia;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;Pescara Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;AS Fidelis Andria;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggiana;Chievo Verona;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Brescia Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Salernitana Sport;1;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Genoa CFC;3;3;D;NoR;NoR;NoR
+I2;NaN;Bologna FC;AC Cesena;0;0;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Reggiana;0;1;A;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Ancona Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Lucchese;0;0;D;NoR;NoR;NoR
+I2;NaN;US Foggia;AC Pistoiese;4;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Hellas Verona;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;US Palermo;4;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;AC Perugia;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;Cosenza Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Cesena;US Foggia;1;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;AC Venezia;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Brescia Calcio;3;2;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Ancona Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Bologna FC;2;1;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Hellas Verona;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;US Avellino;2;1;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Reggina Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Salernitana Sport;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggiana;AS Fidelis Andria;0;0;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Reggiana;1;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Cosenza Calcio;1;2;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Chievo Verona;0;1;A;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Pescara Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Genoa CFC;2;1;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;AC Pistoiese;1;1;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;AC Cesena;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;AC Perugia;3;1;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Lucchese;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Cesena;AS Fidelis Andria;2;1;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Bologna FC;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;US Foggia;3;0;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;AC Venezia;0;1;A;NoR;NoR;NoR
+I2;NaN;Lucchese;Reggina Calcio;3;1;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Salernitana Sport;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Brescia Calcio;3;1;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;US Avellino;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Ancona Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;Hellas Verona;2;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;US Palermo;1;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Bologna FC;Cosenza Calcio;3;2;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;AC Cesena;0;0;D;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Genoa CFC;4;0;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Lucchese;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Reggiana;2;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Pescara Calcio;0;2;A;NoR;NoR;NoR
+I2;NaN;AC Venezia;AC Pistoiese;1;0;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;AC Perugia;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;AC Cesena;1;2;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;AS Fidelis Andria;2;1;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Lucchese;2;2;D;NoR;NoR;NoR
+I2;NaN;US Foggia;AC Perugia;1;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Pescara Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Reggiana;0;0;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Reggina Calcio;4;2;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Salernitana Sport;0;0;D;NoR;NoR;NoR
+I2;NaN;US Avellino;AC Venezia;2;1;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Hellas Verona;2;2;D;NoR;NoR;NoR
+I2;NaN;Lucchese;Ancona Calcio;3;1;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;US Avellino;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Bologna FC;2;1;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Brescia Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Chievo Verona;2;2;D;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Cosenza Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;US Foggia;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Genoa CFC;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;US Palermo;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;AC Pistoiese;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;AC Cesena;1;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;AS Fidelis Andria;2;1;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;US Foggia;3;0;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Genoa CFC;0;0;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Lucchese;1;1;D;NoR;NoR;NoR
+I2;NaN;US Palermo;Pescara Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;Reggiana;2;1;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Reggina Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Salernitana Sport;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Hellas Verona;1;2;A;NoR;NoR;NoR
+I2;NaN;AC Cesena;Ancona Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;US Foggia;US Avellino;0;1;A;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Bologna FC;0;1;A;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Brescia Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggiana;Cosenza Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;US Palermo;4;0;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;AC Perugia;0;1;A;NoR;NoR;NoR
+I2;NaN;Lucchese;AC Pistoiese;2;1;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;AC Venezia;3;1;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Brescia Calcio;5;0;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;AC Cesena;2;2;D;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Cosenza Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;AS Fidelis Andria;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;US Foggia;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;Genoa CFC;0;0;D;NoR;NoR;NoR
+I2;NaN;US Palermo;Lucchese;2;2;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;Pescara Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;US Avellino;AC Pistoiese;2;0;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Hellas Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Ancona Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;US Avellino;2;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Bologna FC;0;0;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Chievo Verona;3;1;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;US Palermo;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;AC Perugia;2;1;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Reggiana;0;2;A;NoR;NoR;NoR
+I2;NaN;AC Cesena;Reggina Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;US Foggia;Salernitana Sport;1;3;A;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;AC Venezia;1;1;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;US Avellino;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;Brescia Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;AC Cesena;1;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Cosenza Calcio;1;3;A;NoR;NoR;NoR
+I2;NaN;US Foggia;AS Fidelis Andria;0;1;A;NoR;NoR;NoR
+I2;NaN;Lucchese;Genoa CFC;2;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;AC Perugia;0;1;A;NoR;NoR;NoR
+I2;NaN;Reggiana;Pescara Calcio;3;1;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;AC Pistoiese;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Hellas Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;Ancona Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Bologna FC;1;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;US Foggia;4;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;Genoa CFC;3;1;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Lucchese;2;1;H;NoR;NoR;NoR
+I2;NaN;US Avellino;US Palermo;2;3;A;NoR;NoR;NoR
+I2;NaN;AC Venezia;Reggiana;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Reggina Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Salernitana Sport;1;2;A;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Hellas Verona;1;2;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;US Avellino;4;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Brescia Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;AC Cesena;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Cosenza Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;AS Fidelis Andria;2;2;D;NoR;NoR;NoR
+I2;NaN;Lucchese;AC Perugia;2;1;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Pescara Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Salernitana Sport;0;1;A;NoR;NoR;NoR
+I2;NaN;Hellas Verona;AC Venezia;2;1;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Ancona Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;Bologna FC;1;1;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;US Foggia;0;1;A;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Genoa CFC;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;Lucchese;1;2;A;NoR;NoR;NoR
+I2;NaN;Chievo Verona;US Palermo;1;1;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;AC Pistoiese;2;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Reggiana;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Reggina Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Hellas Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Reggiana;US Avellino;1;0;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Brescia Calcio;2;2;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;AC Cesena;6;1;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Chievo Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Perugia;Cosenza Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;US Foggia;2;0;H;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;US Palermo;2;1;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Pescara Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Salernitana Sport;1;1;D;NoR;NoR;NoR
+I2;NaN;Lucchese;AC Venezia;2;0;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Ancona Calcio;4;0;H;NoR;NoR;NoR
+I2;NaN;US Avellino;AC Cesena;2;1;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;AS Fidelis Andria;2;1;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Genoa CFC;4;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Lucchese;1;1;D;NoR;NoR;NoR
+I2;NaN;Chievo Verona;AC Perugia;2;4;A;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;AC Pistoiese;1;2;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;Reggiana;0;0;D;NoR;NoR;NoR
+I2;NaN;AC Venezia;Reggina Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Hellas Verona;2;1;H;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;US Avellino;1;1;D;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Bologna FC;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Brescia Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Chievo Verona;1;0;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Cosenza Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;AS Fidelis Andria;1;0;H;NoR;NoR;NoR
+I2;NaN;Reggiana;US Foggia;5;1;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;Pescara Calcio;3;2;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;Salernitana Sport;1;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;AC Venezia;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;Ancona Calcio;0;0;D;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;AC Cesena;2;2;D;NoR;NoR;NoR
+I2;NaN;Bologna FC;Genoa CFC;2;1;H;NoR;NoR;NoR
+I2;NaN;US Avellino;Lucchese;2;0;H;NoR;NoR;NoR
+I2;NaN;US Foggia;US Palermo;1;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;AC Perugia;2;2;D;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;AC Pistoiese;2;1;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Reggiana;0;0;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Reggina Calcio;1;1;D;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;Hellas Verona;1;2;A;NoR;NoR;NoR
+I2;NaN;Genoa CFC;US Avellino;3;0;H;NoR;NoR;NoR
+I2;NaN;AC Cesena;Bologna FC;2;3;A;NoR;NoR;NoR
+I2;NaN;Reggiana;Brescia Calcio;3;2;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Lucchese;AS Fidelis Andria;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;US Foggia;2;3;A;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Pescara Calcio;3;0;H;NoR;NoR;NoR
+I2;NaN;US Palermo;Reggina Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;Salernitana Sport;1;2;A;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;AC Venezia;3;1;H;NoR;NoR;NoR
+I2;NaN;US Foggia;AC Cesena;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;Chievo Verona;0;0;D;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;Cosenza Calcio;4;1;H;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;Genoa CFC;2;3;A;NoR;NoR;NoR
+I2;NaN;Bologna FC;Lucchese;2;0;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;US Palermo;0;0;D;NoR;NoR;NoR
+I2;NaN;US Avellino;AC Perugia;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Pescara Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;AC Pistoiese;2;1;H;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;Reggiana;1;1;D;NoR;NoR;NoR
+I2;NaN;Reggiana;Ancona Calcio;2;1;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;US Avellino;3;3;D;NoR;NoR;NoR
+I2;NaN;US Palermo;Bologna FC;1;2;A;NoR;NoR;NoR
+I2;NaN;Chievo Verona;Brescia Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;AS Fidelis Andria;5;1;H;NoR;NoR;NoR
+I2;NaN;Genoa CFC;US Foggia;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;Reggina Calcio;0;2;A;NoR;NoR;NoR
+I2;NaN;AC Cesena;Salernitana Sport;3;2;H;NoR;NoR;NoR
+I2;NaN;AC Perugia;AC Venezia;1;0;H;NoR;NoR;NoR
+I2;NaN;Lucchese;Hellas Verona;1;1;D;NoR;NoR;NoR
+I2;NaN;AS Fidelis Andria;AC Cesena;1;0;H;NoR;NoR;NoR
+I2;NaN;Bologna FC;Chievo Verona;1;0;H;NoR;NoR;NoR
+I2;NaN;US Foggia;Cosenza Calcio;1;0;H;NoR;NoR;NoR
+I2;NaN;AC Venezia;Genoa CFC;2;2;D;NoR;NoR;NoR
+I2;NaN;Reggina Calcio;Lucchese;2;0;H;NoR;NoR;NoR
+I2;NaN;Salernitana Sport;US Palermo;2;1;H;NoR;NoR;NoR
+I2;NaN;Brescia Calcio;AC Perugia;1;1;D;NoR;NoR;NoR
+I2;NaN;US Avellino;Pescara Calcio;1;2;A;NoR;NoR;NoR
+I2;NaN;Ancona Calcio;AC Pistoiese;1;0;H;NoR;NoR;NoR
+I2;NaN;Hellas Verona;Reggiana;0;1;A;NoR;NoR;NoR
+I2;NaN;US Palermo;Ancona Calcio;2;0;H;NoR;NoR;NoR
+I2;NaN;Chievo Verona;US Avellino;3;0;H;NoR;NoR;NoR
+I2;NaN;Cosenza Calcio;Bologna FC;0;3;A;NoR;NoR;NoR
+I2;NaN;AC Cesena;Brescia Calcio;1;2;A;NoR;NoR;NoR
+I2;NaN;Genoa CFC;AS Fidelis Andria;2;0;H;NoR;NoR;NoR
+I2;NaN;Lucchese;US Foggia;5;1;H;NoR;NoR;NoR
+I2;NaN;Reggiana;Reggina Calcio;1;3;A;NoR;NoR;NoR
+I2;NaN;Pescara Calcio;Salernitana Sport;1;1;D;NoR;NoR;NoR
+I2;NaN;AC Pistoiese;AC Venezia;2;3;A;NoR;NoR;NoR
+I2;NaN;AC Perugia;Hellas Verona;3;2;H;NoR;NoR;NoR

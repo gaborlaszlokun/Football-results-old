@@ -1,0 +1,463 @@
+Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
+F2;NaN;Toulouse FC;SM Caen;1;2;A;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;USL Dunkerque;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;Perpignan FC;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Amiens SC;1;2;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;Louhans-Cuiseaux;2;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Angers SCO;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;SAS Épinal;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Le Mans UC 72;3;1;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;FC Sochaux;0;0;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;FCO Charleville;0;1;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;ASOA Valence;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;LB Châteauroux;2;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;FC Mulhouse;3;1;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Stade Laval;2;2;D;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Olympique Alès;3;2;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;FC Lorient;3;2;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;AS Nancy;0;1;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Olympique Marseille;2;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;AS Red Star 93;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Chamois Niortais;0;0;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;ASOA Valence;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Toulouse FC;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;USL Dunkerque;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;Perpignan FC;0;2;A;NoR;NoR;NoR
+F2;NaN;AS Nancy;Amiens SC;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Louhans-Cuiseaux;2;2;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Angers SCO;0;0;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;SAS Épinal;2;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Le Mans UC 72;2;3;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;FCO Charleville;3;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Stade Laval;1;2;A;NoR;NoR;NoR
+F2;NaN;SM Caen;Olympique Alès;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;LB Châteauroux;2;1;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;FC Lorient;0;1;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;AS Nancy;2;1;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Stade Poitevin;2;2;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Olympique Marseille;3;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;AS Red Star 93;1;2;A;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;ASOA Valence;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;FCO Charleville;4;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;FC Mulhouse;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;AS Nancy;USL Dunkerque;3;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Perpignan FC;1;2;A;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Amiens SC;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Louhans-Cuiseaux;2;1;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Angers SCO;0;1;A;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;FC Sochaux;1;1;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;SAS Épinal;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;FC Lorient;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Olympique Alès;3;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;FCO Charleville;1;1;D;NoR;NoR;NoR
+F2;NaN;Angers SCO;ASOA Valence;1;1;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Chamois Niortais;3;0;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;AS Red Star 93;0;2;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Olympique Marseille;0;2;A;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Stade Poitevin;1;1;D;NoR;NoR;NoR
+F2;NaN;SM Caen;AS Nancy;1;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Louhans-Cuiseaux;1;0;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Angers SCO;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;SAS Épinal;3;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Stade Laval;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;FC Mulhouse;0;0;D;NoR;NoR;NoR
+F2;NaN;AS Nancy;Toulouse FC;2;3;A;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;SM Caen;0;1;A;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;USL Dunkerque;0;0;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Perpignan FC;0;0;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Amiens SC;2;0;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Le Mans UC 72;1;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Olympique Marseille;2;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;AS Nancy;0;1;A;NoR;NoR;NoR
+F2;NaN;Stade Laval;FC Lorient;1;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Chamois Niortais;1;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;LB Châteauroux;0;1;A;NoR;NoR;NoR
+F2;NaN;Amiens SC;ASOA Valence;0;1;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;FCO Charleville;2;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;FC Sochaux;0;0;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Le Mans UC 72;3;3;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;AS Red Star 93;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Toulouse FC;1;1;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Perpignan FC;4;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Louhans-Cuiseaux;2;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Angers SCO;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Lorient;Olympique Alès;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Stade Laval;1;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;FC Mulhouse;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;SM Caen;2;1;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;USL Dunkerque;2;1;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Amiens SC;2;1;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;SAS Épinal;3;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;AS Red Star 93;3;1;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Chamois Niortais;3;1;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Olympique Marseille;2;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;ASOA Valence;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;Stade Poitevin;1;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;FCO Charleville;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;FC Sochaux;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;LB Châteauroux;2;4;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Le Mans UC 72;0;2;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;SAS Épinal;1;1;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;FC Mulhouse;3;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;USL Dunkerque;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Perpignan FC;4;4;D;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Louhans-Cuiseaux;2;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;FC Lorient;0;1;A;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Olympique Alès;3;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Stade Laval;5;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Toulouse FC;1;0;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Angers SCO;2;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;ASOA Valence;2;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;FCO Charleville;2;1;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Chamois Niortais;3;3;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;FC Sochaux;0;1;A;NoR;NoR;NoR
+F2;NaN;Stade Laval;AS Red Star 93;3;2;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Le Mans UC 72;0;1;A;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Olympique Marseille;0;0;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;SAS Épinal;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Lorient;Stade Poitevin;0;1;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Angers SCO;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;SM Caen;4;2;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Louhans-Cuiseaux;1;1;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Olympique Alès;6;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Stade Laval;2;1;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;USL Dunkerque;2;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Perpignan FC;0;1;A;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Toulouse FC;1;2;A;NoR;NoR;NoR
+F2;NaN;ASOA Valence;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;FC Lorient;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;AS Nancy;0;2;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Amiens SC;0;2;A;NoR;NoR;NoR
+F2;NaN;Toulouse FC;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Le Mans UC 72;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;FCO Charleville;1;3;A;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;SAS Épinal;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;ASOA Valence;2;1;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Angers SCO;0;2;A;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Chamois Niortais;1;1;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;Louhans-Cuiseaux;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;AS Red Star 93;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;LB Châteauroux;2;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Olympique Marseille;2;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;SM Caen;4;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Olympique Alès;1;0;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Stade Laval;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Toulouse FC;2;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;USL Dunkerque;1;1;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Perpignan FC;4;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Stade Poitevin;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;AS Nancy;1;1;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;FC Lorient;1;0;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Amiens SC;1;2;A;NoR;NoR;NoR
+F2;NaN;Stade Laval;FC Sochaux;2;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;SAS Épinal;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Le Mans UC 72;2;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;FCO Charleville;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;ASOA Valence;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Chamois Niortais;4;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;AS Red Star 93;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;LB Châteauroux;1;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Amiens SC;2;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Louhans-Cuiseaux;1;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Angers SCO;2;0;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;USL Dunkerque;2;1;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;SM Caen;0;2;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;SAS Épinal;FC Mulhouse;1;1;D;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Stade Laval;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Olympique Alès;2;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;FC Lorient;1;3;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Perpignan FC;2;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Olympique Marseille;2;2;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Louhans-Cuiseaux;0;2;A;NoR;NoR;NoR
+F2;NaN;SM Caen;Amiens SC;3;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Angers SCO;0;0;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Perpignan FC;2;1;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;SAS Épinal;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Le Mans UC 72;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;FC Sochaux;0;3;A;NoR;NoR;NoR
+F2;NaN;AS Nancy;FCO Charleville;3;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;ASOA Valence;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;Perpignan FC;SM Caen;1;0;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;FC Mulhouse;2;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;Stade Laval;3;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Olympique Alès;3;1;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;FC Lorient;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;AS Nancy;1;1;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;AS Red Star 93;2;3;A;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;USL Dunkerque;2;1;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Olympique Marseille;0;2;A;NoR;NoR;NoR
+F2;NaN;SM Caen;USL Dunkerque;2;2;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;FC Sochaux;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;Louhans-Cuiseaux;3;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;FCO Charleville;4;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Le Mans UC 72;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;ASOA Valence;1;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Perpignan FC;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;SAS Épinal;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Amiens SC;3;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Angers SCO;2;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Stade Poitevin;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Olympique Marseille;1;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Toulouse FC;1;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;FC Mulhouse;2;1;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Stade Laval;0;3;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Olympique Alès;2;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;FC Lorient;1;1;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;AS Nancy;2;2;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;AS Red Star 93;0;2;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;SM Caen;0;1;A;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Chamois Niortais;1;3;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Toulouse FC;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;SM Caen;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;USL Dunkerque;1;2;A;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Perpignan FC;1;2;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;Amiens SC;1;1;D;NoR;NoR;NoR
+F2;NaN;AS Nancy;Louhans-Cuiseaux;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Angers SCO;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;SAS Épinal;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;FC Sochaux;2;2;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;FCO Charleville;1;1;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Stade Laval;1;2;A;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Olympique Alès;0;1;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;FC Lorient;1;1;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;AS Nancy;1;1;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Stade Poitevin;3;0;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;Olympique Marseille;1;1;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;AS Red Star 93;0;0;D;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;ASOA Valence;2;1;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;Toulouse FC;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;USL Dunkerque;1;2;A;NoR;NoR;NoR
+F2;NaN;AS Nancy;Perpignan FC;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Amiens SC;1;3;A;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Louhans-Cuiseaux;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Angers SCO;2;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;SAS Épinal;0;0;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;FC Mulhouse;3;1;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Olympique Alès;2;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;FC Lorient;3;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Stade Laval;1;1;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;AS Nancy;0;1;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Stade Poitevin;1;1;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;Olympique Marseille;1;2;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;AS Red Star 93;0;4;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Chamois Niortais;0;2;A;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;FCO Charleville;3;2;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;ASOA Valence;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;Toulouse FC;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;USL Dunkerque;3;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Perpignan FC;5;1;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Amiens SC;1;4;A;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Louhans-Cuiseaux;0;0;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;SAS Épinal;1;1;D;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Stade Laval;1;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Angers SCO;1;1;D;NoR;NoR;NoR
+F2;NaN;AS Nancy;SM Caen;3;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;FC Mulhouse;0;3;A;NoR;NoR;NoR
+F2;NaN;SM Caen;Stade Poitevin;2;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Olympique Marseille;1;2;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;AS Red Star 93;2;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;ASOA Valence;2;2;D;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;FC Lorient;3;0;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;FCO Charleville;0;2;A;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;LB Châteauroux;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;Olympique Alès;1;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;FC Sochaux;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;Stade Laval;2;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;FC Mulhouse;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Toulouse FC;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;SM Caen;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;SAS Épinal;1;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;USL Dunkerque;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Angers SCO;4;1;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Perpignan FC;0;1;A;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Louhans-Cuiseaux;0;1;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Olympique Alès;2;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Olympique Marseille;0;0;D;NoR;NoR;NoR
+F2;NaN;Angers SCO;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;LB Châteauroux;3;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;Perpignan FC;ASOA Valence;1;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;FC Lorient;1;2;A;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Stade Poitevin;3;1;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;FCO Charleville;0;0;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Chamois Niortais;0;1;A;NoR;NoR;NoR
+F2;NaN;SM Caen;AS Red Star 93;2;1;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;FC Sochaux;4;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Olympique Alès;1;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Stade Laval;0;1;A;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Angers SCO;5;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Louhans-Cuiseaux;0;0;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Toulouse FC;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Perpignan FC;1;0;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;FC Lorient;1;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;USL Dunkerque;1;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;Olympique Marseille;1;3;A;NoR;NoR;NoR
+F2;NaN;SM Caen;ASOA Valence;3;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;AS Red Star 93;0;0;D;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;FCO Charleville;0;0;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Chamois Niortais;2;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;FC Sochaux;2;4;A;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Stade Poitevin;4;1;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Le Mans UC 72;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;SAS Épinal;2;2;D;NoR;NoR;NoR
+F2;NaN;Angers SCO;LB Châteauroux;0;1;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Louhans-Cuiseaux;1;1;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;FC Lorient;1;1;D;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;Olympique Alès;4;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Perpignan FC;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Sochaux;USL Dunkerque;2;0;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;SM Caen;0;0;D;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;AS Nancy;0;0;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Stade Laval;0;1;A;NoR;NoR;NoR
+F2;NaN;SM Caen;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Lorient;Olympique Marseille;0;1;A;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;LB Châteauroux;3;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;Stade Poitevin;1;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Le Mans UC 72;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;AS Red Star 93;2;2;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;FCO Charleville;0;1;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;SAS Épinal;1;0;H;NoR;NoR;NoR
+F2;NaN;Amiens SC;Angers SCO;1;1;D;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;ASOA Valence;1;1;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;Angers SCO;Perpignan FC;2;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;USL Dunkerque;0;0;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;AS Nancy;2;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;SM Caen;1;0;H;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;FC Lorient;4;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Olympique Alès;5;1;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;FC Mulhouse;1;2;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Stade Laval;1;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Le Mans UC 72;0;1;A;NoR;NoR;NoR
+F2;NaN;SM Caen;SAS Épinal;3;1;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;FC Sochaux;1;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Angers SCO;1;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;FCO Charleville;3;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Louhans-Cuiseaux;1;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;ASOA Valence;1;1;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;LB Châteauroux;1;0;H;NoR;NoR;NoR
+F2;NaN;FC Lorient;Chamois Niortais;2;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;AS Red Star 93;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Olympique Marseille;0;0;D;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Olympique Marseille;4;2;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;FC Mulhouse;0;1;A;NoR;NoR;NoR
+F2;NaN;Amiens SC;Perpignan FC;3;2;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;USL Dunkerque;1;0;H;NoR;NoR;NoR
+F2;NaN;Angers SCO;SM Caen;2;1;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Toulouse FC;0;2;A;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Stade Poitevin;3;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Stade Laval;2;2;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;AS Nancy;2;3;A;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Olympique Alès;2;2;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;FC Lorient;2;0;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Angers SCO;0;1;A;NoR;NoR;NoR
+F2;NaN;SM Caen;Louhans-Cuiseaux;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;SAS Épinal;2;1;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;Amiens SC;0;0;D;NoR;NoR;NoR
+F2;NaN;Stade Laval;Le Mans UC 72;2;0;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;LB Châteauroux;1;0;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;FC Sochaux;1;3;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;FCO Charleville;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;ASOA Valence;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Chamois Niortais;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;AS Red Star 93;2;1;H;NoR;NoR;NoR
+F2;NaN;Perpignan FC;USL Dunkerque;1;1;D;NoR;NoR;NoR
+F2;NaN;Amiens SC;SM Caen;1;1;D;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Toulouse FC;1;2;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;FC Mulhouse;2;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Stade Laval;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Olympique Alès;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Sochaux;FC Lorient;1;1;D;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;Olympique Marseille;0;0;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;AS Nancy;0;3;A;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;AS Red Star 93;2;1;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;Stade Poitevin;1;1;D;NoR;NoR;NoR
+F2;NaN;Toulouse FC;Amiens SC;2;2;D;NoR;NoR;NoR
+F2;NaN;SM Caen;Perpignan FC;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Louhans-Cuiseaux;3;2;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;LB Châteauroux;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;Angers SCO;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Alès;SAS Épinal;0;0;D;NoR;NoR;NoR
+F2;NaN;FC Lorient;Le Mans UC 72;3;0;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;FC Sochaux;2;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;FCO Charleville;2;1;H;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;ASOA Valence;2;2;D;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;Chamois Niortais;0;1;A;NoR;NoR;NoR
+F2;NaN;FC Sochaux;Stade Poitevin;0;0;D;NoR;NoR;NoR
+F2;NaN;ASOA Valence;AS Red Star 93;1;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;FC Lorient;1;2;A;NoR;NoR;NoR
+F2;NaN;Amiens SC;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;AS Nancy;2;1;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;Stade Laval;4;1;H;NoR;NoR;NoR
+F2;NaN;LB Châteauroux;Chamois Niortais;0;1;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Toulouse FC;0;1;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;Olympique Alès;2;2;D;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Olympique Marseille;3;1;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;SM Caen;0;1;A;NoR;NoR;NoR
+F2;NaN;AS Red Star 93;FCO Charleville;1;2;A;NoR;NoR;NoR
+F2;NaN;FC Lorient;Angers SCO;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Mulhouse;Perpignan FC;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Alès;Louhans-Cuiseaux;1;1;D;NoR;NoR;NoR
+F2;NaN;Olympique Marseille;FC Sochaux;4;1;H;NoR;NoR;NoR
+F2;NaN;AS Nancy;SAS Épinal;3;0;H;NoR;NoR;NoR
+F2;NaN;Stade Laval;Amiens SC;4;1;H;NoR;NoR;NoR
+F2;NaN;Toulouse FC;USL Dunkerque;4;2;H;NoR;NoR;NoR
+F2;NaN;Chamois Niortais;ASOA Valence;5;0;H;NoR;NoR;NoR
+F2;NaN;Stade Poitevin;Le Mans UC 72;2;2;D;NoR;NoR;NoR
+F2;NaN;SM Caen;LB Châteauroux;1;0;H;NoR;NoR;NoR
+F2;NaN;Le Mans UC 72;Olympique Marseille;1;2;A;NoR;NoR;NoR
+F2;NaN;Angers SCO;AS Nancy;1;2;A;NoR;NoR;NoR
+F2;NaN;Perpignan FC;Stade Laval;2;0;H;NoR;NoR;NoR
+F2;NaN;FC Sochaux;AS Red Star 93;0;1;A;NoR;NoR;NoR
+F2;NaN;Amiens SC;Olympique Alès;3;0;H;NoR;NoR;NoR
+F2;NaN;USL Dunkerque;FC Mulhouse;1;0;H;NoR;NoR;NoR
+F2;NaN;FCO Charleville;Chamois Niortais;1;0;H;NoR;NoR;NoR
+F2;NaN;SAS Épinal;Stade Poitevin;2;0;H;NoR;NoR;NoR
+F2;NaN;SM Caen;Toulouse FC;2;0;H;NoR;NoR;NoR
+F2;NaN;ASOA Valence;LB Châteauroux;4;1;H;NoR;NoR;NoR
+F2;NaN;Louhans-Cuiseaux;FC Lorient;2;0;H;NoR;NoR;NoR

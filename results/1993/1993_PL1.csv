@@ -1,0 +1,307 @@
+Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
+PL1;NaN;Lech Poznań;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Siarka Tarnobrzeg;2;1;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Hutnik Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Zagłębie Lubin;2;2;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Górnik Zabrze;3;1;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Polonia Warszawa;3;1;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;TS Tygodnik Miliarder Pniewy;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Warta Poznań;0;1;A;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Warta Poznań;2;0;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Zawisza Bydgoszcz;2;0;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Stal Stalowa Wola;0;0;D;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Wisła Kraków;1;2;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;GKS Katowice;4;2;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Ruch Chorzów;1;0;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Legia Warszawa;0;0;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Stal Mielec;3;1;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Widzew Łódź;3;1;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Pogoń Szczecin;0;0;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Lech Poznań;1;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Siarka Tarnobrzeg;6;3;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Hutnik Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Zagłębie Lubin;1;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Górnik Zabrze;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Polonia Warszawa;2;2;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;TS Tygodnik Miliarder Pniewy;3;1;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;ŁKS Łódź;2;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;ŁKS Łódź;2;0;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Warta Poznań;2;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Zawisza Bydgoszcz;1;1;D;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Stal Stalowa Wola;2;0;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Wisła Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;GKS Katowice;3;1;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Ruch Chorzów;0;1;A;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Legia Warszawa;2;1;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Stal Mielec;3;3;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Pogoń Szczecin;0;0;D;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Widzew Łódź;2;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Lech Poznań;3;2;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Siarka Tarnobrzeg;0;1;A;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Hutnik Kraków;1;2;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Zagłębie Lubin;0;0;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Górnik Zabrze;0;1;A;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Polonia Warszawa;2;0;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;TS Tygodnik Miliarder Pniewy;1;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;TS Tygodnik Miliarder Pniewy;2;1;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;ŁKS Łódź;0;2;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Warta Poznań;2;1;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Zawisza Bydgoszcz;3;2;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Stal Stalowa Wola;2;0;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Wisła Kraków;1;2;A;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;GKS Katowice;1;1;D;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Ruch Chorzów;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Legia Warszawa;1;3;A;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Pogoń Szczecin;0;0;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Stal Mielec;3;0;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Widzew Łódź;1;1;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Lech Poznań;0;1;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Siarka Tarnobrzeg;0;0;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Hutnik Kraków;1;1;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Zagłębie Lubin;2;1;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Górnik Zabrze;2;2;D;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Polonia Warszawa;5;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Polonia Warszawa;2;0;H;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;TS Tygodnik Miliarder Pniewy;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;ŁKS Łódź;2;6;A;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Warta Poznań;0;2;A;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Zawisza Bydgoszcz;0;0;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Stal Stalowa Wola;1;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Wisła Kraków;3;2;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;GKS Katowice;1;2;A;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Ruch Chorzów;2;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Legia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Stal Mielec;2;0;H;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Widzew Łódź;1;2;A;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Lech Poznań;1;3;A;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Siarka Tarnobrzeg;1;0;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Hutnik Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Zagłębie Lubin;1;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Górnik Zabrze;2;2;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Górnik Zabrze;1;2;A;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Polonia Warszawa;1;0;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;TS Tygodnik Miliarder Pniewy;1;0;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;ŁKS Łódź;3;1;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Warta Poznań;1;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Zawisza Bydgoszcz;2;3;A;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Stal Stalowa Wola;2;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Wisła Kraków;1;1;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;GKS Katowice;0;1;A;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Ruch Chorzów;0;2;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Legia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Stal Mielec;2;2;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Widzew Łódź;1;1;D;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Lech Poznań;1;0;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Siarka Tarnobrzeg;1;1;D;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Hutnik Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Zagłębie Lubin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Zagłębie Lubin;2;2;D;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Górnik Zabrze;0;0;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Polonia Warszawa;0;2;A;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;TS Tygodnik Miliarder Pniewy;2;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;ŁKS Łódź;0;1;A;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Warta Poznań;1;1;D;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Zawisza Bydgoszcz;5;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Stal Stalowa Wola;1;0;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Wisła Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;GKS Katowice;0;1;A;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Ruch Chorzów;3;2;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Legia Warszawa;0;0;D;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Stal Mielec;5;0;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Widzew Łódź;0;1;A;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Lech Poznań;1;0;H;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Siarka Tarnobrzeg;2;1;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Hutnik Kraków;3;2;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Hutnik Kraków;1;1;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Zagłębie Lubin;0;2;A;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Górnik Zabrze;0;0;D;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Polonia Warszawa;2;2;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;TS Tygodnik Miliarder Pniewy;0;3;A;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Warta Poznań;1;1;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Zawisza Bydgoszcz;3;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Stal Stalowa Wola;1;2;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Pogoń Szczecin;2;2;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Wisła Kraków;2;2;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;GKS Katowice;0;2;A;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Ruch Chorzów;5;0;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Legia Warszawa;1;2;A;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Stal Mielec;1;1;D;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Widzew Łódź;2;0;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Lech Poznań;2;2;D;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Siarka Tarnobrzeg;3;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Siarka Tarnobrzeg;0;0;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Hutnik Kraków;0;2;A;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Zagłębie Lubin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Górnik Zabrze;0;1;A;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Polonia Warszawa;2;1;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;TS Tygodnik Miliarder Pniewy;3;2;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;ŁKS Łódź;1;2;A;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Warta Poznań;2;2;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Zawisza Bydgoszcz;1;0;H;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Stal Stalowa Wola;0;1;A;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Wisła Kraków;1;1;D;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;GKS Katowice;2;2;D;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Ruch Chorzów;0;3;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Legia Warszawa;2;1;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Stal Mielec;2;1;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Widzew Łódź;0;1;A;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Lech Poznań;0;3;A;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Lech Poznań;0;0;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Widzew Łódź;2;2;D;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Stal Mielec;0;0;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Legia Warszawa;1;2;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Ruch Chorzów;0;0;D;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;GKS Katowice;1;1;D;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Wisła Kraków;5;0;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Stal Stalowa Wola;3;0;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Zawisza Bydgoszcz;2;1;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Pogoń Szczecin;1;0;H;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;TS Tygodnik Miliarder Pniewy;2;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Polonia Warszawa;2;0;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Górnik Zabrze;1;1;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Zagłębie Lubin;2;2;D;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Hutnik Kraków;5;0;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Siarka Tarnobrzeg;3;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Lech Poznań;0;0;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Widzew Łódź;1;0;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Stal Mielec;0;1;A;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Legia Warszawa;1;4;A;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Ruch Chorzów;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;GKS Katowice;1;2;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Wisła Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Stal Stalowa Wola;3;2;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Zawisza Bydgoszcz;2;1;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Warta Poznań;4;1;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Pogoń Szczecin;2;0;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;TS Tygodnik Miliarder Pniewy;0;1;A;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Polonia Warszawa;2;2;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Górnik Zabrze;1;1;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Zagłębie Lubin;1;1;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Hutnik Kraków;3;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Siarka Tarnobrzeg;2;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Lech Poznań;2;0;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Widzew Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Stal Mielec;1;1;D;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Legia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Ruch Chorzów;1;1;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;GKS Katowice;1;1;D;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Wisła Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Stal Stalowa Wola;0;1;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Zawisza Bydgoszcz;5;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Warta Poznań;1;2;A;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Pogoń Szczecin;0;0;D;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Polonia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Górnik Zabrze;1;3;A;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Zagłębie Lubin;1;2;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Hutnik Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Siarka Tarnobrzeg;0;0;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Lech Poznań;2;1;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Widzew Łódź;0;2;A;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Stal Mielec;3;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Legia Warszawa;0;0;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Ruch Chorzów;0;1;A;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;GKS Katowice;0;0;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Wisła Kraków;3;1;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Stal Stalowa Wola;1;0;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Zawisza Bydgoszcz;0;1;A;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Warta Poznań;5;0;H;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;ŁKS Łódź;1;2;A;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;TS Tygodnik Miliarder Pniewy;1;1;D;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Pogoń Szczecin;0;1;A;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Górnik Zabrze;1;0;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Zagłębie Lubin;2;0;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Hutnik Kraków;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Siarka Tarnobrzeg;0;0;D;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Lech Poznań;1;1;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Widzew Łódź;1;0;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Stal Mielec;2;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Legia Warszawa;0;2;A;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Ruch Chorzów;2;1;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;GKS Katowice;0;0;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Wisła Kraków;4;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Stal Stalowa Wola;0;0;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Zawisza Bydgoszcz;3;2;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Warta Poznań;2;1;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;TS Tygodnik Miliarder Pniewy;0;1;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Polonia Warszawa;2;1;H;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Pogoń Szczecin;3;2;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Zagłębie Lubin;0;1;A;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Hutnik Kraków;2;1;H;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Siarka Tarnobrzeg;1;0;H;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Lech Poznań;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Widzew Łódź;1;4;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Stal Mielec;1;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Legia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Ruch Chorzów;1;0;H;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;GKS Katowice;1;1;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Wisła Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Stal Stalowa Wola;5;1;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Zawisza Bydgoszcz;1;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Warta Poznań;2;0;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;ŁKS Łódź;0;1;A;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;TS Tygodnik Miliarder Pniewy;2;3;A;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Polonia Warszawa;1;0;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Górnik Zabrze;2;2;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Pogoń Szczecin;0;0;D;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Hutnik Kraków;1;2;A;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Siarka Tarnobrzeg;2;1;H;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Lech Poznań;0;0;D;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Widzew Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Stal Mielec;1;2;A;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Legia Warszawa;0;6;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Ruch Chorzów;3;1;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;GKS Katowice;1;1;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Wisła Kraków;3;1;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Stal Stalowa Wola;2;2;D;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Zawisza Bydgoszcz;3;2;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Warta Poznań;3;2;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;ŁKS Łódź;0;0;D;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;TS Tygodnik Miliarder Pniewy;2;2;D;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Polonia Warszawa;1;1;D;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Górnik Zabrze;0;3;A;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Zagłębie Lubin;2;1;H;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Pogoń Szczecin;1;1;D;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Siarka Tarnobrzeg;0;0;D;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Lech Poznań;1;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Widzew Łódź;0;3;A;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Stal Mielec;0;1;A;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;Legia Warszawa;0;1;A;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Ruch Chorzów;2;0;H;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;GKS Katowice;0;3;A;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Wisła Kraków;0;0;D;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Stal Stalowa Wola;3;0;H;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;Zawisza Bydgoszcz;2;0;H;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;Warta Poznań;3;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;ŁKS Łódź;4;1;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;TS Tygodnik Miliarder Pniewy;5;0;H;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Polonia Warszawa;3;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Górnik Zabrze;2;0;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Zagłębie Lubin;4;0;H;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Hutnik Kraków;0;4;A;NoR;NoR;NoR
+PL1;NaN;Siarka Tarnobrzeg;Pogoń Szczecin;0;2;A;NoR;NoR;NoR
+PL1;NaN;Hutnik Kraków;Lech Poznań;2;0;H;NoR;NoR;NoR
+PL1;NaN;Zagłębie Lubin;Widzew Łódź;1;3;A;NoR;NoR;NoR
+PL1;NaN;Górnik Zabrze;Stal Mielec;5;0;H;NoR;NoR;NoR
+PL1;NaN;Polonia Warszawa;Legia Warszawa;1;2;A;NoR;NoR;NoR
+PL1;NaN;TS Tygodnik Miliarder Pniewy;Ruch Chorzów;2;2;D;NoR;NoR;NoR
+PL1;NaN;ŁKS Łódź;GKS Katowice;1;2;A;NoR;NoR;NoR
+PL1;NaN;Warta Poznań;Wisła Kraków;1;0;H;NoR;NoR;NoR
+PL1;NaN;Zawisza Bydgoszcz;Stal Stalowa Wola;0;1;A;NoR;NoR;NoR
+PL1;NaN;Pogoń Szczecin;Zawisza Bydgoszcz;3;0;H;NoR;NoR;NoR
+PL1;NaN;Stal Stalowa Wola;Warta Poznań;0;0;D;NoR;NoR;NoR
+PL1;NaN;Wisła Kraków;ŁKS Łódź;1;2;A;NoR;NoR;NoR
+PL1;NaN;GKS Katowice;TS Tygodnik Miliarder Pniewy;3;0;H;NoR;NoR;NoR
+PL1;NaN;Ruch Chorzów;Polonia Warszawa;5;0;H;NoR;NoR;NoR
+PL1;NaN;Legia Warszawa;Górnik Zabrze;1;1;D;NoR;NoR;NoR
+PL1;NaN;Stal Mielec;Zagłębie Lubin;1;0;H;NoR;NoR;NoR
+PL1;NaN;Widzew Łódź;Hutnik Kraków;3;0;H;NoR;NoR;NoR
+PL1;NaN;Lech Poznań;Siarka Tarnobrzeg;2;1;H;NoR;NoR;NoR
