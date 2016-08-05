@@ -1,0 +1,181 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+A1,NaN,Austria Wien,VfB Mödling,1,0,H,1,0,H
+A1,NaN,FC Tirol Innsbruck,VSE St. Pölten,2,1,H,0,0,D
+A1,NaN,Sturm Graz,Rapid Wien,1,0,H,0,0,D
+A1,NaN,Vorwärts Steyr,FC Admira Wacker,4,1,H,2,0,H
+A1,NaN,Wiener Sport-Club,RB Salzburg,0,0,D,0,0,D
+A1,NaN,VfB Mödling,Vorwärts Steyr,2,1,H,0,1,A
+A1,NaN,RB Salzburg,FC Tirol Innsbruck,1,0,H,1,0,H
+A1,NaN,FC Admira Wacker,Sturm Graz,2,2,D,1,1,D
+A1,NaN,Rapid Wien,Wiener Sport-Club,3,1,H,1,0,H
+A1,NaN,VSE St. Pölten,Austria Wien,3,2,H,1,1,D
+A1,NaN,VfB Mödling,VSE St. Pölten,1,0,H,0,0,D
+A1,NaN,Austria Wien,RB Salzburg,1,2,A,0,1,A
+A1,NaN,FC Tirol Innsbruck,Rapid Wien,1,1,D,0,1,A
+A1,NaN,Vorwärts Steyr,Sturm Graz,0,1,A,0,1,A
+A1,NaN,Wiener Sport-Club,FC Admira Wacker,0,2,A,0,0,D
+A1,NaN,FC Admira Wacker,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,Sturm Graz,Wiener Sport-Club,3,1,H,0,0,D
+A1,NaN,RB Salzburg,VfB Mödling,1,2,A,0,1,A
+A1,NaN,Rapid Wien,Austria Wien,0,3,A,0,2,A
+A1,NaN,VSE St. Pölten,Vorwärts Steyr,3,1,H,0,0,D
+A1,NaN,Vorwärts Steyr,Wiener Sport-Club,6,0,H,3,0,H
+A1,NaN,Austria Wien,FC Admira Wacker,2,0,H,1,0,H
+A1,NaN,FC Tirol Innsbruck,Sturm Graz,4,2,H,2,1,H
+A1,NaN,VfB Mödling,Rapid Wien,1,1,D,0,0,D
+A1,NaN,VSE St. Pölten,RB Salzburg,1,0,H,0,0,D
+A1,NaN,Sturm Graz,Austria Wien,2,4,A,0,3,A
+A1,NaN,RB Salzburg,Vorwärts Steyr,2,0,H,0,0,D
+A1,NaN,Rapid Wien,VSE St. Pölten,4,0,H,2,0,H
+A1,NaN,FC Admira Wacker,VfB Mödling,2,0,H,0,0,D
+A1,NaN,Wiener Sport-Club,FC Tirol Innsbruck,1,1,D,1,0,H
+A1,NaN,VfB Mödling,Sturm Graz,1,0,H,1,0,H
+A1,NaN,VSE St. Pölten,FC Admira Wacker,0,1,A,0,1,A
+A1,NaN,Austria Wien,Wiener Sport-Club,3,1,H,1,1,D
+A1,NaN,RB Salzburg,Rapid Wien,1,0,H,1,0,H
+A1,NaN,Vorwärts Steyr,FC Tirol Innsbruck,1,1,D,1,1,D
+A1,NaN,Wiener Sport-Club,VfB Mödling,1,1,D,0,1,A
+A1,NaN,Sturm Graz,VSE St. Pölten,1,0,H,1,0,H
+A1,NaN,FC Admira Wacker,RB Salzburg,1,0,H,0,0,D
+A1,NaN,FC Tirol Innsbruck,Austria Wien,3,1,H,1,0,H
+A1,NaN,Rapid Wien,Vorwärts Steyr,1,1,D,0,1,A
+A1,NaN,Austria Wien,Vorwärts Steyr,4,1,H,2,1,H
+A1,NaN,Rapid Wien,FC Admira Wacker,1,2,A,0,0,D
+A1,NaN,RB Salzburg,Sturm Graz,2,0,H,1,0,H
+A1,NaN,VfB Mödling,FC Tirol Innsbruck,1,1,D,0,0,D
+A1,NaN,VSE St. Pölten,Wiener Sport-Club,0,1,A,0,0,D
+A1,NaN,Wiener Sport-Club,VSE St. Pölten,1,1,D,0,1,A
+A1,NaN,Sturm Graz,RB Salzburg,0,2,A,0,0,D
+A1,NaN,FC Tirol Innsbruck,VfB Mödling,4,2,H,1,0,H
+A1,NaN,Vorwärts Steyr,Austria Wien,2,0,H,0,0,D
+A1,NaN,FC Admira Wacker,Rapid Wien,2,0,H,2,0,H
+A1,NaN,RB Salzburg,Wiener Sport-Club,3,1,H,2,0,H
+A1,NaN,Rapid Wien,Sturm Graz,2,1,H,0,0,D
+A1,NaN,VfB Mödling,Austria Wien,0,2,A,0,1,A
+A1,NaN,VSE St. Pölten,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,FC Admira Wacker,Vorwärts Steyr,2,0,H,1,0,H
+A1,NaN,Austria Wien,VSE St. Pölten,3,0,H,1,0,H
+A1,NaN,FC Tirol Innsbruck,RB Salzburg,2,0,H,1,0,H
+A1,NaN,Sturm Graz,FC Admira Wacker,1,2,A,1,2,A
+A1,NaN,Vorwärts Steyr,VfB Mödling,1,1,D,1,0,H
+A1,NaN,Wiener Sport-Club,Rapid Wien,0,1,A,0,0,D
+A1,NaN,FC Admira Wacker,Wiener Sport-Club,3,0,H,1,0,H
+A1,NaN,Sturm Graz,Vorwärts Steyr,1,1,D,1,0,H
+A1,NaN,Rapid Wien,FC Tirol Innsbruck,2,0,H,2,0,H
+A1,NaN,RB Salzburg,Austria Wien,2,0,H,2,0,H
+A1,NaN,VSE St. Pölten,VfB Mödling,1,0,H,0,0,D
+A1,NaN,Vorwärts Steyr,VSE St. Pölten,2,0,H,0,0,D
+A1,NaN,VfB Mödling,RB Salzburg,1,1,D,0,1,A
+A1,NaN,Austria Wien,Rapid Wien,2,1,H,1,0,H
+A1,NaN,FC Tirol Innsbruck,FC Admira Wacker,2,1,H,1,0,H
+A1,NaN,Wiener Sport-Club,Sturm Graz,0,0,D,0,0,D
+A1,NaN,RB Salzburg,VSE St. Pölten,2,0,H,1,0,H
+A1,NaN,FC Admira Wacker,Austria Wien,0,3,A,0,2,A
+A1,NaN,Rapid Wien,VfB Mödling,0,0,D,0,0,D
+A1,NaN,Wiener Sport-Club,Vorwärts Steyr,2,1,H,2,1,H
+A1,NaN,Sturm Graz,FC Tirol Innsbruck,1,0,H,0,0,D
+A1,NaN,FC Tirol Innsbruck,Wiener Sport-Club,2,0,H,2,0,H
+A1,NaN,Austria Wien,Sturm Graz,3,0,H,1,0,H
+A1,NaN,VfB Mödling,FC Admira Wacker,1,1,D,0,1,A
+A1,NaN,Vorwärts Steyr,RB Salzburg,0,2,A,0,1,A
+A1,NaN,VSE St. Pölten,Rapid Wien,1,1,D,1,0,H
+A1,NaN,FC Admira Wacker,VSE St. Pölten,4,3,H,2,3,A
+A1,NaN,Sturm Graz,VfB Mödling,1,0,H,0,0,D
+A1,NaN,FC Tirol Innsbruck,Vorwärts Steyr,3,0,H,1,0,H
+A1,NaN,Rapid Wien,RB Salzburg,0,3,A,0,1,A
+A1,NaN,Wiener Sport-Club,Austria Wien,0,1,A,0,0,D
+A1,NaN,Austria Wien,FC Tirol Innsbruck,2,1,H,1,0,H
+A1,NaN,RB Salzburg,FC Admira Wacker,0,0,D,0,0,D
+A1,NaN,VfB Mödling,Wiener Sport-Club,1,0,H,0,0,D
+A1,NaN,Vorwärts Steyr,Rapid Wien,3,0,H,1,0,H
+A1,NaN,VSE St. Pölten,Sturm Graz,2,1,H,1,1,D
+A1,NaN,Austria Wien,VfB Mödling,3,0,H,2,0,H
+A1,NaN,Sturm Graz,Rapid Wien,1,2,A,0,1,A
+A1,NaN,FC Tirol Innsbruck,VSE St. Pölten,2,1,H,2,1,H
+A1,NaN,Vorwärts Steyr,FC Admira Wacker,0,0,D,0,0,D
+A1,NaN,Wiener Sport-Club,RB Salzburg,0,1,A,0,0,D
+A1,NaN,VfB Mödling,Vorwärts Steyr,0,5,A,0,3,A
+A1,NaN,FC Admira Wacker,Sturm Graz,1,1,D,0,0,D
+A1,NaN,Rapid Wien,Wiener Sport-Club,0,0,D,0,0,D
+A1,NaN,RB Salzburg,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,VSE St. Pölten,Austria Wien,2,3,A,0,1,A
+A1,NaN,FC Tirol Innsbruck,Rapid Wien,0,1,A,0,0,D
+A1,NaN,VfB Mödling,VSE St. Pölten,4,1,H,3,0,H
+A1,NaN,Vorwärts Steyr,Sturm Graz,0,0,D,0,0,D
+A1,NaN,Wiener Sport-Club,FC Admira Wacker,1,1,D,1,0,H
+A1,NaN,Austria Wien,RB Salzburg,0,4,A,0,0,D
+A1,NaN,RB Salzburg,VfB Mödling,0,0,D,0,0,D
+A1,NaN,FC Admira Wacker,FC Tirol Innsbruck,2,0,H,0,0,D
+A1,NaN,Rapid Wien,Austria Wien,1,1,D,0,0,D
+A1,NaN,VSE St. Pölten,Vorwärts Steyr,0,1,A,0,0,D
+A1,NaN,Sturm Graz,Wiener Sport-Club,3,1,H,0,0,D
+A1,NaN,Vorwärts Steyr,Wiener Sport-Club,1,1,D,0,1,A
+A1,NaN,Austria Wien,FC Admira Wacker,3,1,H,2,0,H
+A1,NaN,FC Tirol Innsbruck,Sturm Graz,2,1,H,0,1,A
+A1,NaN,VfB Mödling,Rapid Wien,0,0,D,0,0,D
+A1,NaN,VSE St. Pölten,RB Salzburg,0,0,D,0,0,D
+A1,NaN,Rapid Wien,VSE St. Pölten,5,3,H,2,2,D
+A1,NaN,FC Admira Wacker,VfB Mödling,0,1,A,0,0,D
+A1,NaN,Wiener Sport-Club,FC Tirol Innsbruck,1,2,A,0,1,A
+A1,NaN,Sturm Graz,Austria Wien,0,0,D,0,0,D
+A1,NaN,RB Salzburg,Vorwärts Steyr,3,1,H,2,1,H
+A1,NaN,RB Salzburg,Rapid Wien,2,1,H,0,0,D
+A1,NaN,VSE St. Pölten,FC Admira Wacker,1,0,H,0,0,D
+A1,NaN,Austria Wien,Wiener Sport-Club,1,1,D,1,1,D
+A1,NaN,Vorwärts Steyr,FC Tirol Innsbruck,2,0,H,1,0,H
+A1,NaN,VfB Mödling,Sturm Graz,2,0,H,0,0,D
+A1,NaN,FC Admira Wacker,RB Salzburg,0,3,A,0,1,A
+A1,NaN,FC Tirol Innsbruck,Austria Wien,0,1,A,0,1,A
+A1,NaN,Rapid Wien,Vorwärts Steyr,3,0,H,1,0,H
+A1,NaN,Sturm Graz,VSE St. Pölten,2,0,H,1,0,H
+A1,NaN,Wiener Sport-Club,VfB Mödling,0,2,A,0,1,A
+A1,NaN,Austria Wien,Vorwärts Steyr,1,0,H,0,0,D
+A1,NaN,Rapid Wien,FC Admira Wacker,0,3,A,0,2,A
+A1,NaN,RB Salzburg,Sturm Graz,0,0,D,0,0,D
+A1,NaN,VSE St. Pölten,Wiener Sport-Club,0,0,D,0,0,D
+A1,NaN,VfB Mödling,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,Sturm Graz,RB Salzburg,0,1,A,0,0,D
+A1,NaN,Wiener Sport-Club,VSE St. Pölten,3,1,H,2,0,H
+A1,NaN,FC Admira Wacker,Rapid Wien,0,0,D,0,0,D
+A1,NaN,FC Tirol Innsbruck,VfB Mödling,4,0,H,3,0,H
+A1,NaN,Vorwärts Steyr,Austria Wien,1,1,D,0,0,D
+A1,NaN,FC Admira Wacker,Vorwärts Steyr,4,0,H,2,0,H
+A1,NaN,Rapid Wien,Sturm Graz,2,4,A,0,1,A
+A1,NaN,RB Salzburg,Wiener Sport-Club,0,1,A,0,0,D
+A1,NaN,VfB Mödling,Austria Wien,0,4,A,0,2,A
+A1,NaN,VSE St. Pölten,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,Sturm Graz,FC Admira Wacker,1,0,H,0,0,D
+A1,NaN,Vorwärts Steyr,VfB Mödling,1,2,A,0,1,A
+A1,NaN,Austria Wien,VSE St. Pölten,0,1,A,0,1,A
+A1,NaN,FC Tirol Innsbruck,RB Salzburg,1,1,D,0,1,A
+A1,NaN,Wiener Sport-Club,Rapid Wien,0,1,A,0,0,D
+A1,NaN,RB Salzburg,Austria Wien,6,0,H,3,0,H
+A1,NaN,FC Admira Wacker,Wiener Sport-Club,2,0,H,0,0,D
+A1,NaN,Rapid Wien,FC Tirol Innsbruck,2,0,H,1,0,H
+A1,NaN,VSE St. Pölten,VfB Mödling,5,0,H,4,0,H
+A1,NaN,Sturm Graz,Vorwärts Steyr,3,1,H,1,1,D
+A1,NaN,Austria Wien,Rapid Wien,2,0,H,2,0,H
+A1,NaN,FC Tirol Innsbruck,FC Admira Wacker,0,1,A,0,0,D
+A1,NaN,VfB Mödling,RB Salzburg,3,2,H,2,2,D
+A1,NaN,Vorwärts Steyr,VSE St. Pölten,1,1,D,1,1,D
+A1,NaN,Wiener Sport-Club,Sturm Graz,1,0,H,1,0,H
+A1,NaN,RB Salzburg,VSE St. Pölten,4,1,H,3,0,H
+A1,NaN,FC Admira Wacker,Austria Wien,4,2,H,2,2,D
+A1,NaN,Rapid Wien,VfB Mödling,0,2,A,0,0,D
+A1,NaN,Sturm Graz,FC Tirol Innsbruck,0,0,D,0,0,D
+A1,NaN,Wiener Sport-Club,Vorwärts Steyr,1,1,D,1,1,D
+A1,NaN,Austria Wien,Sturm Graz,0,0,D,0,0,D
+A1,NaN,FC Tirol Innsbruck,Wiener Sport-Club,6,0,H,4,0,H
+A1,NaN,VfB Mödling,FC Admira Wacker,0,3,A,0,1,A
+A1,NaN,Vorwärts Steyr,RB Salzburg,1,3,A,0,0,D
+A1,NaN,VSE St. Pölten,Rapid Wien,1,1,D,1,1,D
+A1,NaN,FC Admira Wacker,VSE St. Pölten,3,1,H,0,0,D
+A1,NaN,FC Tirol Innsbruck,Vorwärts Steyr,4,2,H,2,0,H
+A1,NaN,Rapid Wien,RB Salzburg,0,0,D,0,0,D
+A1,NaN,Sturm Graz,VfB Mödling,2,1,H,0,1,A
+A1,NaN,Wiener Sport-Club,Austria Wien,0,3,A,0,3,A
+A1,NaN,Austria Wien,FC Tirol Innsbruck,1,0,H,1,0,H
+A1,NaN,RB Salzburg,FC Admira Wacker,2,0,H,1,0,H
+A1,NaN,VfB Mödling,Wiener Sport-Club,0,0,D,0,0,D
+A1,NaN,Vorwärts Steyr,Rapid Wien,0,1,A,0,1,A
+A1,NaN,VSE St. Pölten,Sturm Graz,2,1,H,1,1,D

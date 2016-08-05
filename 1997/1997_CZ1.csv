@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CZ1,NaN,Sigma Olomouc,FK Teplice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Dukla Praha,1,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,AFK Atlantic Lázně Bohdaneč,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,České Budějovice,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Viktoria Žižkov,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Slovan Liberec,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Slavia Praha,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Viktoria Plzeň,2,1,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,FK Jablonec,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,1. FC Brno,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Sparta Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,FC Hradec Králové,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,FC Petra Drnovice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,FK Teplice,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Kaučuk Opava,3,2,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Sigma Olomouc,2,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Slavia Praha,0,2,A,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Slovan Liberec,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,AFK Atlantic Lázně Bohdaneč,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Baník Ostrava,3,3,D,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Dukla Praha,4,1,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Viktoria Žižkov,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,České Budějovice,3,1,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Viktoria Plzeň,1,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Sigma Olomouc,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,1. FC Brno,3,3,D,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Viktoria Plzeň,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Kaučuk Opava,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,FC Hradec Králové,7,1,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,FK Jablonec,3,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,FK Teplice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Sparta Praha,0,3,A,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,FC Petra Drnovice,3,1,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Baník Ostrava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Slavia Praha,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Dukla Praha,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,AFK Atlantic Lázně Bohdaneč,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Slovan Liberec,4,2,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,České Budějovice,2,3,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Viktoria Žižkov,1,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Viktoria Plzeň,1,1,D,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,FK Teplice,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,FK Jablonec,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Viktoria Žižkov,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,1. FC Brno,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,FC Hradec Králové,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Sparta Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Sigma Olomouc,1,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Dukla Praha,4,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Kaučuk Opava,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,FC Petra Drnovice,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Slavia Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Baník Ostrava,4,1,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Slovan Liberec,5,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,České Budějovice,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,AFK Atlantic Lázně Bohdaneč,1,2,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Viktoria Žižkov,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Sigma Olomouc,1,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,FC Hradec Králové,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,České Budějovice,3,1,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,FK Jablonec,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Sparta Praha,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,FK Teplice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Viktoria Plzeň,3,2,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,AFK Atlantic Lázně Bohdaneč,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Dukla Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,1. FC Brno,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,FC Petra Drnovice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Kaučuk Opava,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Baník Ostrava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Slovan Liberec,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Slavia Praha,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,AFK Atlantic Lázně Bohdaneč,4,1,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,FK Jablonec,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Sigma Olomouc,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,FK Teplice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,České Budějovice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Sparta Praha,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Viktoria Žižkov,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Viktoria Plzeň,3,2,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Slavia Praha,2,1,H,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Slovan Liberec,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Dukla Praha,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,1. FC Brno,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,FC Hradec Králové,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Kaučuk Opava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Baník Ostrava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,FC Petra Drnovice,1,5,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,České Budějovice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,FK Teplice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Slovan Liberec,2,2,D,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Sigma Olomouc,2,3,A,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Sparta Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Viktoria Plzeň,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Viktoria Žižkov,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,AFK Atlantic Lázně Bohdaneč,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,FK Jablonec,2,0,H,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Baník Ostrava,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Dukla Praha,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,FC Hradec Králové,3,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,FC Petra Drnovice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Slavia Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Kaučuk Opava,4,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,1. FC Brno,3,2,H,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Slovan Liberec,1,2,A,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Viktoria Žižkov,3,2,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Slavia Praha,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Viktoria Plzeň,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,FK Teplice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,České Budějovice,2,1,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,AFK Atlantic Lázně Bohdaneč,3,1,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Sigma Olomouc,1,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,1. FC Brno,1,3,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Kaučuk Opava,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Dukla Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Baník Ostrava,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,FC Petra Drnovice,3,1,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Sparta Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,FC Hradec Králové,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,FK Jablonec,0,0,D,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,FC Hradec Králové,1,0,H,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,1. FC Brno,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Baník Ostrava,1,5,A,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,FC Petra Drnovice,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Kaučuk Opava,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Sigma Olomouc,1,3,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,FK Jablonec,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Sparta Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Slovan Liberec,0,0,D,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,AFK Atlantic Lázně Bohdaneč,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,České Budějovice,8,0,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Slavia Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Baník Ostrava,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Viktoria Plzeň,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Viktoria Žižkov,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Dukla Praha,2,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Sparta Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,FK Jablonec,1,3,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Kaučuk Opava,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,FC Petra Drnovice,4,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,1. FC Brno,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,FC Hradec Králové,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Sigma Olomouc,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,FK Teplice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Baník Ostrava,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Slavia Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Slovan Liberec,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,FC Petra Drnovice,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,České Budějovice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,AFK Atlantic Lázně Bohdaneč,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Viktoria Žižkov,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Dukla Praha,4,3,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,FK Teplice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Sigma Olomouc,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,FC Hradec Králové,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Kaučuk Opava,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,1. FC Brno,4,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Sparta Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Viktoria Plzeň,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,FK Jablonec,2,0,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Kaučuk Opava,1,2,A,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,FC Petra Drnovice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Baník Ostrava,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Slovan Liberec,1,2,A,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,AFK Atlantic Lázně Bohdaneč,4,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Dukla Praha,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,České Budějovice,4,1,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,Slavia Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Viktoria Žižkov,1,2,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Viktoria Plzeň,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Sparta Praha,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,1. FC Brno,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,FC Hradec Králové,1,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,FK Jablonec,0,2,A,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Sigma Olomouc,1,3,A,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,FK Teplice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Dukla Praha,0,0,D,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,1. FC Brno,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Kaučuk Opava,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Baník Ostrava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,FC Petra Drnovice,4,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,Slavia Praha,3,1,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,AFK Atlantic Lázně Bohdaneč,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Slovan Liberec,0,0,D,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,FK Jablonec,2,2,D,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,České Budějovice,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,FK Teplice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,FC Hradec Králové,1,2,A,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Sparta Praha,0,2,A,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Sigma Olomouc,0,2,A,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Viktoria Plzeň,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Viktoria Žižkov,3,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Slovan Liberec,1,1,D,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Dukla Praha,2,3,A,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,FC Hradec Králové,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Kaučuk Opava,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,1. FC Brno,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,FC Petra Drnovice,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,Slavia Praha,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Baník Ostrava,3,1,H,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Viktoria Žižkov,6,1,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Sigma Olomouc,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,FK Jablonec,1,3,A,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Sparta Praha,0,2,A,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,FK Teplice,0,1,A,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Viktoria Plzeň,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,České Budějovice,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,AFK Atlantic Lázně Bohdaneč,2,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Baník Ostrava,0,1,A,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,Slavia Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,FC Hradec Králové,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Dukla Praha,2,1,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,FK Jablonec,2,1,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,1. FC Brno,3,2,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,FC Petra Drnovice,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,Kaučuk Opava,3,2,H,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,AFK Atlantic Lázně Bohdaneč,6,1,H,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,Viktoria Plzeň,5,1,H,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Sparta Praha,2,2,D,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,FK Teplice,1,1,D,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Sigma Olomouc,0,1,A,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,Viktoria Žižkov,3,0,H,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,České Budějovice,3,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Slovan Liberec,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Viktoria Žižkov,1. FC Brno,2,0,H,NoR,NoR,NoR
+CZ1,NaN,České Budějovice,Kaučuk Opava,0,0,D,NoR,NoR,NoR
+CZ1,NaN,AFK Atlantic Lázně Bohdaneč,FC Petra Drnovice,1,1,D,NoR,NoR,NoR
+CZ1,NaN,Sigma Olomouc,Sparta Praha,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slavia Praha,Dukla Praha,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Slovan Liberec,Baník Ostrava,3,1,H,NoR,NoR,NoR
+CZ1,NaN,FK Teplice,FK Jablonec,2,2,D,NoR,NoR,NoR
+CZ1,NaN,Viktoria Plzeň,FC Hradec Králové,0,0,D,NoR,NoR,NoR
+CZ1,NaN,Baník Ostrava,Slavia Praha,1,1,D,NoR,NoR,NoR
+CZ1,NaN,1. FC Brno,České Budějovice,0,2,A,NoR,NoR,NoR
+CZ1,NaN,Dukla Praha,Sigma Olomouc,0,3,A,NoR,NoR,NoR
+CZ1,NaN,FC Hradec Králové,Viktoria Žižkov,2,0,H,NoR,NoR,NoR
+CZ1,NaN,FK Jablonec,Viktoria Plzeň,2,0,H,NoR,NoR,NoR
+CZ1,NaN,Kaučuk Opava,AFK Atlantic Lázně Bohdaneč,0,0,D,NoR,NoR,NoR
+CZ1,NaN,FC Petra Drnovice,Slovan Liberec,1,0,H,NoR,NoR,NoR
+CZ1,NaN,Sparta Praha,FK Teplice,3,1,H,NoR,NoR,NoR

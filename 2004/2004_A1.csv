@@ -1,0 +1,181 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+A1,NaN,FC Wacker Tirol,Grazer AK,1,0,H,0,0,D
+A1,NaN,Austria Wien,FC Admira Wacker,2,1,H,0,1,A
+A1,NaN,Schwarz-Weiß Bregenz,Rapid Wien,1,5,A,1,2,A
+A1,NaN,RB Salzburg,FC Superfund,1,1,D,0,1,A
+A1,NaN,Sturm Graz,SV Mattersburg,3,1,H,1,1,D
+A1,NaN,FC Superfund,Sturm Graz,3,0,H,2,0,H
+A1,NaN,FC Admira Wacker,Schwarz-Weiß Bregenz,3,0,H,1,0,H
+A1,NaN,Grazer AK,RB Salzburg,1,0,H,0,0,D
+A1,NaN,SV Mattersburg,Austria Wien,0,0,D,0,0,D
+A1,NaN,Rapid Wien,FC Wacker Tirol,4,1,H,2,1,H
+A1,NaN,Schwarz-Weiß Bregenz,Grazer AK,1,3,A,1,2,A
+A1,NaN,SV Mattersburg,FC Superfund,3,0,H,1,0,H
+A1,NaN,RB Salzburg,FC Wacker Tirol,0,0,D,0,0,D
+A1,NaN,Sturm Graz,FC Admira Wacker,1,0,H,1,0,H
+A1,NaN,Austria Wien,Rapid Wien,1,1,D,1,1,D
+A1,NaN,Grazer AK,Sturm Graz,1,0,H,1,0,H
+A1,NaN,FC Admira Wacker,SV Mattersburg,3,1,H,0,1,A
+A1,NaN,FC Superfund,Austria Wien,2,1,H,1,0,H
+A1,NaN,Rapid Wien,RB Salzburg,0,0,D,0,0,D
+A1,NaN,FC Wacker Tirol,Schwarz-Weiß Bregenz,1,1,D,0,1,A
+A1,NaN,SV Mattersburg,Grazer AK,0,1,A,0,1,A
+A1,NaN,FC Superfund,FC Admira Wacker,0,3,A,0,1,A
+A1,NaN,RB Salzburg,Schwarz-Weiß Bregenz,4,2,H,1,1,D
+A1,NaN,Austria Wien,FC Wacker Tirol,2,2,D,2,2,D
+A1,NaN,Sturm Graz,Rapid Wien,0,1,A,0,0,D
+A1,NaN,Grazer AK,FC Superfund,2,1,H,2,1,H
+A1,NaN,Rapid Wien,SV Mattersburg,3,0,H,0,0,D
+A1,NaN,RB Salzburg,FC Admira Wacker,4,2,H,1,1,D
+A1,NaN,FC Wacker Tirol,Sturm Graz,2,1,H,0,0,D
+A1,NaN,Schwarz-Weiß Bregenz,Austria Wien,0,9,A,0,3,A
+A1,NaN,FC Admira Wacker,Grazer AK,2,0,H,0,0,D
+A1,NaN,SV Mattersburg,FC Wacker Tirol,2,1,H,0,1,A
+A1,NaN,Sturm Graz,Schwarz-Weiß Bregenz,0,0,D,0,0,D
+A1,NaN,Austria Wien,RB Salzburg,2,0,H,0,0,D
+A1,NaN,FC Superfund,Rapid Wien,2,1,H,1,1,D
+A1,NaN,Schwarz-Weiß Bregenz,SV Mattersburg,2,1,H,0,0,D
+A1,NaN,Rapid Wien,FC Admira Wacker,2,1,H,2,0,H
+A1,NaN,RB Salzburg,Sturm Graz,1,0,H,0,0,D
+A1,NaN,FC Wacker Tirol,FC Superfund,2,1,H,0,1,A
+A1,NaN,Grazer AK,Austria Wien,0,1,A,0,0,D
+A1,NaN,FC Admira Wacker,FC Wacker Tirol,0,2,A,0,0,D
+A1,NaN,SV Mattersburg,RB Salzburg,5,3,H,2,1,H
+A1,NaN,FC Superfund,Schwarz-Weiß Bregenz,4,0,H,2,0,H
+A1,NaN,Rapid Wien,Grazer AK,2,1,H,1,0,H
+A1,NaN,Sturm Graz,Austria Wien,0,2,A,0,1,A
+A1,NaN,Grazer AK,Rapid Wien,2,2,D,1,1,D
+A1,NaN,RB Salzburg,SV Mattersburg,2,0,H,0,0,D
+A1,NaN,FC Wacker Tirol,FC Admira Wacker,0,2,A,0,1,A
+A1,NaN,Austria Wien,Sturm Graz,3,0,H,2,0,H
+A1,NaN,Schwarz-Weiß Bregenz,FC Superfund,2,3,A,1,0,H
+A1,NaN,SV Mattersburg,Sturm Graz,1,1,D,0,1,A
+A1,NaN,FC Admira Wacker,Austria Wien,0,5,A,0,1,A
+A1,NaN,Grazer AK,FC Wacker Tirol,2,1,H,0,1,A
+A1,NaN,FC Superfund,RB Salzburg,2,1,H,2,0,H
+A1,NaN,Rapid Wien,Schwarz-Weiß Bregenz,2,1,H,1,0,H
+A1,NaN,Austria Wien,SV Mattersburg,2,0,H,2,0,H
+A1,NaN,Schwarz-Weiß Bregenz,FC Admira Wacker,1,1,D,0,1,A
+A1,NaN,Sturm Graz,FC Superfund,1,2,A,1,1,D
+A1,NaN,FC Wacker Tirol,Rapid Wien,0,2,A,0,1,A
+A1,NaN,RB Salzburg,Grazer AK,0,1,A,0,1,A
+A1,NaN,FC Admira Wacker,Sturm Graz,0,0,D,0,0,D
+A1,NaN,FC Superfund,SV Mattersburg,4,0,H,2,0,H
+A1,NaN,FC Wacker Tirol,RB Salzburg,3,1,H,2,1,H
+A1,NaN,Grazer AK,Schwarz-Weiß Bregenz,3,0,H,1,0,H
+A1,NaN,Rapid Wien,Austria Wien,1,1,D,0,0,D
+A1,NaN,SV Mattersburg,FC Admira Wacker,3,0,H,2,0,H
+A1,NaN,Austria Wien,FC Superfund,1,2,A,1,0,H
+A1,NaN,Schwarz-Weiß Bregenz,FC Wacker Tirol,3,2,H,1,1,D
+A1,NaN,RB Salzburg,Rapid Wien,0,1,A,0,0,D
+A1,NaN,Sturm Graz,Grazer AK,1,0,H,1,0,H
+A1,NaN,FC Admira Wacker,FC Superfund,2,4,A,2,1,H
+A1,NaN,Schwarz-Weiß Bregenz,RB Salzburg,1,1,D,1,1,D
+A1,NaN,Grazer AK,SV Mattersburg,1,1,D,1,0,H
+A1,NaN,FC Wacker Tirol,Austria Wien,0,2,A,0,0,D
+A1,NaN,Rapid Wien,Sturm Graz,2,0,H,0,0,D
+A1,NaN,FC Admira Wacker,RB Salzburg,0,2,A,0,0,D
+A1,NaN,SV Mattersburg,Rapid Wien,0,0,D,0,0,D
+A1,NaN,Sturm Graz,FC Wacker Tirol,3,1,H,1,0,H
+A1,NaN,Austria Wien,Schwarz-Weiß Bregenz,2,0,H,0,0,D
+A1,NaN,FC Superfund,Grazer AK,1,2,A,1,1,D
+A1,NaN,Schwarz-Weiß Bregenz,Sturm Graz,2,1,H,1,1,D
+A1,NaN,Grazer AK,FC Admira Wacker,0,0,D,0,0,D
+A1,NaN,RB Salzburg,Austria Wien,1,1,D,0,0,D
+A1,NaN,FC Wacker Tirol,SV Mattersburg,5,1,H,3,0,H
+A1,NaN,Rapid Wien,FC Superfund,3,0,H,2,0,H
+A1,NaN,Austria Wien,Grazer AK,0,0,D,0,0,D
+A1,NaN,SV Mattersburg,Schwarz-Weiß Bregenz,5,2,H,3,0,H
+A1,NaN,FC Superfund,FC Wacker Tirol,3,2,H,1,1,D
+A1,NaN,Sturm Graz,RB Salzburg,3,1,H,2,0,H
+A1,NaN,FC Admira Wacker,Rapid Wien,1,0,H,0,0,D
+A1,NaN,Rapid Wien,Sturm Graz,4,1,H,1,1,D
+A1,NaN,RB Salzburg,SV Mattersburg,1,2,A,0,0,D
+A1,NaN,FC Wacker Tirol,FC Admira Wacker,4,0,H,3,0,H
+A1,NaN,Schwarz-Weiß Bregenz,Austria Wien,0,1,A,0,0,D
+A1,NaN,Grazer AK,FC Superfund,1,2,A,1,1,D
+A1,NaN,FC Admira Wacker,Schwarz-Weiß Bregenz,0,1,A,0,0,D
+A1,NaN,Austria Wien,RB Salzburg,3,1,H,2,1,H
+A1,NaN,SV Mattersburg,Grazer AK,3,1,H,1,0,H
+A1,NaN,Sturm Graz,FC Wacker Tirol,0,0,D,0,0,D
+A1,NaN,FC Superfund,Rapid Wien,1,1,D,0,0,D
+A1,NaN,SV Mattersburg,Austria Wien,2,1,H,1,0,H
+A1,NaN,Schwarz-Weiß Bregenz,Sturm Graz,1,1,D,1,0,H
+A1,NaN,Grazer AK,FC Admira Wacker,5,2,H,2,0,H
+A1,NaN,Rapid Wien,FC Wacker Tirol,2,2,D,0,2,A
+A1,NaN,RB Salzburg,FC Superfund,0,1,A,0,0,D
+A1,NaN,Sturm Graz,RB Salzburg,3,1,H,2,0,H
+A1,NaN,FC Wacker Tirol,Schwarz-Weiß Bregenz,3,2,H,0,1,A
+A1,NaN,FC Superfund,SV Mattersburg,1,0,H,0,0,D
+A1,NaN,Austria Wien,Grazer AK,0,3,A,0,1,A
+A1,NaN,FC Admira Wacker,Rapid Wien,0,1,A,0,0,D
+A1,NaN,SV Mattersburg,FC Admira Wacker,2,3,A,2,0,H
+A1,NaN,RB Salzburg,FC Wacker Tirol,1,1,D,1,0,H
+A1,NaN,Grazer AK,Sturm Graz,4,0,H,2,0,H
+A1,NaN,Schwarz-Weiß Bregenz,Rapid Wien,0,2,A,0,1,A
+A1,NaN,Austria Wien,FC Superfund,4,0,H,2,0,H
+A1,NaN,Schwarz-Weiß Bregenz,SV Mattersburg,0,0,D,0,0,D
+A1,NaN,Sturm Graz,Austria Wien,1,0,H,1,0,H
+A1,NaN,FC Wacker Tirol,Grazer AK,1,1,D,0,1,A
+A1,NaN,FC Admira Wacker,FC Superfund,0,2,A,0,0,D
+A1,NaN,Rapid Wien,RB Salzburg,5,0,H,5,0,H
+A1,NaN,Grazer AK,Schwarz-Weiß Bregenz,2,0,H,1,0,H
+A1,NaN,SV Mattersburg,FC Wacker Tirol,1,1,D,0,1,A
+A1,NaN,FC Superfund,Sturm Graz,2,1,H,1,0,H
+A1,NaN,RB Salzburg,FC Admira Wacker,0,1,A,0,0,D
+A1,NaN,Austria Wien,Rapid Wien,1,0,H,1,0,H
+A1,NaN,Schwarz-Weiß Bregenz,RB Salzburg,1,2,A,1,1,D
+A1,NaN,Rapid Wien,Grazer AK,1,0,H,0,0,D
+A1,NaN,Sturm Graz,SV Mattersburg,2,3,A,1,1,D
+A1,NaN,FC Wacker Tirol,FC Superfund,0,0,D,0,0,D
+A1,NaN,FC Admira Wacker,Austria Wien,2,2,D,0,1,A
+A1,NaN,Austria Wien,FC Wacker Tirol,1,0,H,0,0,D
+A1,NaN,FC Superfund,Schwarz-Weiß Bregenz,2,0,H,1,0,H
+A1,NaN,RB Salzburg,Grazer AK,0,1,A,0,0,D
+A1,NaN,Sturm Graz,FC Admira Wacker,0,0,D,0,0,D
+A1,NaN,SV Mattersburg,Rapid Wien,1,0,H,0,0,D
+A1,NaN,FC Admira Wacker,Sturm Graz,1,1,D,0,1,A
+A1,NaN,Schwarz-Weiß Bregenz,FC Superfund,1,1,D,0,1,A
+A1,NaN,Grazer AK,RB Salzburg,1,0,H,0,0,D
+A1,NaN,Rapid Wien,SV Mattersburg,2,1,H,1,0,H
+A1,NaN,FC Wacker Tirol,Austria Wien,0,3,A,0,1,A
+A1,NaN,FC Admira Wacker,FC Wacker Tirol,1,0,H,0,0,D
+A1,NaN,SV Mattersburg,RB Salzburg,2,0,H,0,0,D
+A1,NaN,FC Superfund,Grazer AK,0,3,A,0,2,A
+A1,NaN,Sturm Graz,Rapid Wien,1,1,D,1,0,H
+A1,NaN,Austria Wien,Schwarz-Weiß Bregenz,1,1,D,0,1,A
+A1,NaN,Schwarz-Weiß Bregenz,FC Admira Wacker,0,1,A,0,0,D
+A1,NaN,Grazer AK,SV Mattersburg,5,1,H,2,1,H
+A1,NaN,RB Salzburg,Austria Wien,0,1,A,0,1,A
+A1,NaN,FC Wacker Tirol,Sturm Graz,2,0,H,0,0,D
+A1,NaN,Rapid Wien,FC Superfund,2,1,H,1,1,D
+A1,NaN,FC Wacker Tirol,Rapid Wien,1,2,A,1,0,H
+A1,NaN,FC Admira Wacker,Grazer AK,1,4,A,0,2,A
+A1,NaN,Austria Wien,SV Mattersburg,0,0,D,0,0,D
+A1,NaN,FC Superfund,RB Salzburg,1,1,D,1,0,H
+A1,NaN,Sturm Graz,Schwarz-Weiß Bregenz,2,0,H,1,0,H
+A1,NaN,Schwarz-Weiß Bregenz,FC Wacker Tirol,0,3,A,0,1,A
+A1,NaN,SV Mattersburg,FC Superfund,1,1,D,1,1,D
+A1,NaN,Rapid Wien,FC Admira Wacker,6,0,H,2,0,H
+A1,NaN,RB Salzburg,Sturm Graz,1,0,H,1,0,H
+A1,NaN,Grazer AK,Austria Wien,0,0,D,0,0,D
+A1,NaN,FC Admira Wacker,SV Mattersburg,0,1,A,0,1,A
+A1,NaN,Rapid Wien,Schwarz-Weiß Bregenz,4,1,H,2,1,H
+A1,NaN,Sturm Graz,Grazer AK,1,1,D,1,0,H
+A1,NaN,FC Wacker Tirol,RB Salzburg,0,0,D,0,0,D
+A1,NaN,FC Superfund,Austria Wien,1,1,D,0,0,D
+A1,NaN,Austria Wien,Sturm Graz,2,2,D,1,1,D
+A1,NaN,Grazer AK,FC Wacker Tirol,2,1,H,2,1,H
+A1,NaN,SV Mattersburg,Schwarz-Weiß Bregenz,2,2,D,0,1,A
+A1,NaN,FC Superfund,FC Admira Wacker,1,1,D,1,0,H
+A1,NaN,RB Salzburg,Rapid Wien,4,1,H,1,0,H
+A1,NaN,FC Admira Wacker,RB Salzburg,1,1,D,0,1,A
+A1,NaN,Schwarz-Weiß Bregenz,Grazer AK,0,1,A,0,0,D
+A1,NaN,Rapid Wien,Austria Wien,0,1,A,0,1,A
+A1,NaN,Sturm Graz,FC Superfund,3,0,H,1,0,H
+A1,NaN,FC Wacker Tirol,SV Mattersburg,2,1,H,0,0,D
+A1,NaN,Austria Wien,FC Admira Wacker,5,1,H,1,0,H
+A1,NaN,Grazer AK,Rapid Wien,3,1,H,1,0,H
+A1,NaN,SV Mattersburg,Sturm Graz,1,3,A,0,2,A
+A1,NaN,FC Superfund,FC Wacker Tirol,1,1,D,0,0,D
+A1,NaN,RB Salzburg,Schwarz-Weiß Bregenz,2,1,H,2,0,H

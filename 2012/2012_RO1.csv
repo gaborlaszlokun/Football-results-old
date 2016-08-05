@@ -1,0 +1,307 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+R1,NaN,Pandurii Târgu Jiu,Universitatea Cluj,6,2,H,3,1,H
+R1,NaN,CS Turnu Severin,Dinamo Bucureşti,1,2,A,0,0,D
+R1,NaN,Petrolul Ploieşti,Ceahlăul Piatra Neamt,5,0,H,2,0,H
+R1,NaN,CFR Cluj,Gaz Metan Mediaş,1,1,D,0,1,A
+R1,NaN,CSMS Iaşi,Oţelul Galaţi,1,2,A,0,0,D
+R1,NaN,Gloria Bistrita,Astra Ploieşti,1,2,A,1,2,A
+R1,NaN,Rapid Bucureşti,FC Vaslui,2,2,D,1,1,D
+R1,NaN,FC Viitorul Constanța,FC Braşov,2,2,D,1,1,D
+R1,NaN,Steaua Bucureşti,Concordia Chiajna,1,0,H,0,0,D
+R1,NaN,FC Braşov,CS Turnu Severin,2,1,H,1,0,H
+R1,NaN,Ceahlăul Piatra Neamt,CFR Cluj,2,2,D,1,1,D
+R1,NaN,Gaz Metan Mediaş,Pandurii Târgu Jiu,0,2,A,0,1,A
+R1,NaN,Astra Ploieşti,Steaua Bucureşti,3,4,A,2,2,D
+R1,NaN,FC Vaslui,Petrolul Ploieşti,3,0,H,1,0,H
+R1,NaN,Universitatea Cluj,Gloria Bistrita,1,0,H,0,0,D
+R1,NaN,Dinamo Bucureşti,CSMS Iaşi,5,2,H,2,1,H
+R1,NaN,Concordia Chiajna,FC Viitorul Constanța,1,1,D,0,1,A
+R1,NaN,Oţelul Galaţi,Rapid Bucureşti,1,1,D,1,0,H
+R1,NaN,Gloria Bistrita,Gaz Metan Mediaş,1,1,D,0,0,D
+R1,NaN,Pandurii Târgu Jiu,Ceahlăul Piatra Neamt,3,1,H,2,0,H
+R1,NaN,CS Turnu Severin,Concordia Chiajna,0,1,A,0,0,D
+R1,NaN,Petrolul Ploieşti,Oţelul Galaţi,2,1,H,1,0,H
+R1,NaN,CFR Cluj,FC Vaslui,3,0,H,1,0,H
+R1,NaN,FC Viitorul Constanța,Astra Ploieşti,0,0,D,0,0,D
+R1,NaN,Steaua Bucureşti,Universitatea Cluj,5,1,H,1,0,H
+R1,NaN,Rapid Bucureşti,CSMS Iaşi,1,0,H,1,0,H
+R1,NaN,FC Braşov,Dinamo Bucureşti,2,2,D,1,1,D
+R1,NaN,Astra Ploieşti,CS Turnu Severin,1,1,D,0,1,A
+R1,NaN,CSMS Iaşi,Petrolul Ploieşti,2,2,D,0,1,A
+R1,NaN,Universitatea Cluj,FC Viitorul Constanța,2,1,H,1,0,H
+R1,NaN,FC Vaslui,Pandurii Târgu Jiu,0,0,D,0,0,D
+R1,NaN,Gaz Metan Mediaş,Steaua Bucureşti,1,1,D,1,0,H
+R1,NaN,Oţelul Galaţi,CFR Cluj,1,2,A,1,1,D
+R1,NaN,Ceahlăul Piatra Neamt,Gloria Bistrita,2,0,H,1,0,H
+R1,NaN,Concordia Chiajna,FC Braşov,2,1,H,2,0,H
+R1,NaN,Dinamo Bucureşti,Rapid Bucureşti,2,1,H,1,1,D
+R1,NaN,CS Turnu Severin,Universitatea Cluj,1,1,D,0,1,A
+R1,NaN,CFR Cluj,CSMS Iaşi,2,2,D,1,0,H
+R1,NaN,Concordia Chiajna,Dinamo Bucureşti,0,0,D,0,0,D
+R1,NaN,Gloria Bistrita,FC Vaslui,0,3,A,0,1,A
+R1,NaN,Petrolul Ploieşti,Rapid Bucureşti,0,0,D,0,0,D
+R1,NaN,Steaua Bucureşti,Ceahlăul Piatra Neamt,3,0,H,2,0,H
+R1,NaN,FC Viitorul Constanța,Gaz Metan Mediaş,0,1,A,0,0,D
+R1,NaN,Pandurii Târgu Jiu,Oţelul Galaţi,3,2,H,1,0,H
+R1,NaN,FC Braşov,Astra Ploieşti,1,2,A,1,2,A
+R1,NaN,Gaz Metan Mediaş,CS Turnu Severin,2,0,H,1,0,H
+R1,NaN,Oţelul Galaţi,Gloria Bistrita,1,1,D,0,1,A
+R1,NaN,Astra Ploieşti,Concordia Chiajna,6,3,H,5,1,H
+R1,NaN,Rapid Bucureşti,CFR Cluj,3,2,H,0,2,A
+R1,NaN,CSMS Iaşi,Pandurii Târgu Jiu,0,1,A,0,0,D
+R1,NaN,Dinamo Bucureşti,Petrolul Ploieşti,2,1,H,1,1,D
+R1,NaN,Ceahlăul Piatra Neamt,FC Viitorul Constanța,0,3,A,0,0,D
+R1,NaN,Universitatea Cluj,FC Braşov,1,1,D,0,0,D
+R1,NaN,FC Vaslui,Steaua Bucureşti,3,1,H,0,0,D
+R1,NaN,Gloria Bistrita,CSMS Iaşi,1,0,H,0,0,D
+R1,NaN,FC Braşov,Gaz Metan Mediaş,3,1,H,0,0,D
+R1,NaN,Pandurii Târgu Jiu,Rapid Bucureşti,2,0,H,1,0,H
+R1,NaN,Astra Ploieşti,Dinamo Bucureşti,1,0,H,0,0,D
+R1,NaN,Steaua Bucureşti,Oţelul Galaţi,2,1,H,2,1,H
+R1,NaN,CFR Cluj,Petrolul Ploieşti,2,2,D,1,1,D
+R1,NaN,Concordia Chiajna,Universitatea Cluj,0,2,A,0,2,A
+R1,NaN,FC Viitorul Constanța,FC Vaslui,2,2,D,1,1,D
+R1,NaN,CS Turnu Severin,Ceahlăul Piatra Neamt,1,1,D,0,1,A
+R1,NaN,Ceahlăul Piatra Neamt,FC Braşov,2,1,H,1,0,H
+R1,NaN,Dinamo Bucureşti,CFR Cluj,0,1,A,0,0,D
+R1,NaN,Oţelul Galaţi,FC Viitorul Constanța,1,1,D,1,1,D
+R1,NaN,Gaz Metan Mediaş,Concordia Chiajna,1,3,A,0,0,D
+R1,NaN,Rapid Bucureşti,Gloria Bistrita,3,1,H,2,1,H
+R1,NaN,Petrolul Ploieşti,Pandurii Târgu Jiu,4,0,H,1,0,H
+R1,NaN,CSMS Iaşi,Steaua Bucureşti,0,3,A,0,1,A
+R1,NaN,Universitatea Cluj,Astra Ploieşti,1,3,A,1,1,D
+R1,NaN,FC Vaslui,CS Turnu Severin,2,1,H,0,0,D
+R1,NaN,Concordia Chiajna,Ceahlăul Piatra Neamt,2,1,H,1,1,D
+R1,NaN,Gloria Bistrita,Petrolul Ploieşti,1,1,D,0,1,A
+R1,NaN,CS Turnu Severin,Oţelul Galaţi,1,1,D,1,1,D
+R1,NaN,Universitatea Cluj,Dinamo Bucureşti,1,2,A,1,1,D
+R1,NaN,FC Braşov,FC Vaslui,2,1,H,1,0,H
+R1,NaN,Astra Ploieşti,Gaz Metan Mediaş,4,0,H,0,0,D
+R1,NaN,Pandurii Târgu Jiu,CFR Cluj,2,1,H,0,0,D
+R1,NaN,FC Viitorul Constanța,CSMS Iaşi,1,0,H,1,0,H
+R1,NaN,Steaua Bucureşti,Rapid Bucureşti,1,0,H,0,0,D
+R1,NaN,Gaz Metan Mediaş,Universitatea Cluj,2,1,H,1,0,H
+R1,NaN,CFR Cluj,Gloria Bistrita,5,1,H,2,0,H
+R1,NaN,FC Vaslui,Concordia Chiajna,3,0,H,2,0,H
+R1,NaN,Oţelul Galaţi,FC Braşov,0,0,D,0,0,D
+R1,NaN,CSMS Iaşi,CS Turnu Severin,1,0,H,0,0,D
+R1,NaN,Rapid Bucureşti,FC Viitorul Constanța,2,1,H,1,0,H
+R1,NaN,Petrolul Ploieşti,Steaua Bucureşti,1,2,A,1,1,D
+R1,NaN,Ceahlăul Piatra Neamt,Astra Ploieşti,3,2,H,2,0,H
+R1,NaN,Dinamo Bucureşti,Pandurii Târgu Jiu,3,0,H,1,0,H
+R1,NaN,Universitatea Cluj,Ceahlăul Piatra Neamt,1,0,H,1,0,H
+R1,NaN,Astra Ploieşti,FC Vaslui,1,1,D,1,0,H
+R1,NaN,FC Viitorul Constanța,Petrolul Ploieşti,1,2,A,1,0,H
+R1,NaN,CS Turnu Severin,Rapid Bucureşti,0,1,A,0,1,A
+R1,NaN,Gaz Metan Mediaş,Dinamo Bucureşti,2,2,D,2,1,H
+R1,NaN,Gloria Bistrita,Pandurii Târgu Jiu,1,3,A,0,1,A
+R1,NaN,Steaua Bucureşti,CFR Cluj,1,0,H,0,0,D
+R1,NaN,FC Braşov,CSMS Iaşi,1,0,H,0,0,D
+R1,NaN,Concordia Chiajna,Oţelul Galaţi,0,0,D,0,0,D
+R1,NaN,CFR Cluj,FC Viitorul Constanța,0,1,A,0,1,A
+R1,NaN,Ceahlăul Piatra Neamt,Gaz Metan Mediaş,2,1,H,1,0,H
+R1,NaN,Rapid Bucureşti,FC Braşov,1,2,A,0,2,A
+R1,NaN,Dinamo Bucureşti,Gloria Bistrita,1,2,A,1,2,A
+R1,NaN,Oţelul Galaţi,Astra Ploieşti,2,1,H,0,0,D
+R1,NaN,Petrolul Ploieşti,CS Turnu Severin,1,0,H,0,0,D
+R1,NaN,FC Vaslui,Universitatea Cluj,1,0,H,1,0,H
+R1,NaN,Pandurii Târgu Jiu,Steaua Bucureşti,0,0,D,0,0,D
+R1,NaN,CSMS Iaşi,Concordia Chiajna,0,1,A,0,0,D
+R1,NaN,Universitatea Cluj,Oţelul Galaţi,1,1,D,1,1,D
+R1,NaN,FC Braşov,Petrolul Ploieşti,0,1,A,0,0,D
+R1,NaN,Astra Ploieşti,CSMS Iaşi,1,0,H,0,0,D
+R1,NaN,CS Turnu Severin,CFR Cluj,1,3,A,0,2,A
+R1,NaN,Concordia Chiajna,Rapid Bucureşti,0,0,D,0,0,D
+R1,NaN,Ceahlăul Piatra Neamt,Dinamo Bucureşti,0,0,D,0,0,D
+R1,NaN,Gaz Metan Mediaş,FC Vaslui,1,0,H,1,0,H
+R1,NaN,Steaua Bucureşti,Gloria Bistrita,4,0,H,3,0,H
+R1,NaN,FC Viitorul Constanța,Pandurii Târgu Jiu,2,0,H,1,0,H
+R1,NaN,Gloria Bistrita,FC Viitorul Constanța,1,1,D,1,1,D
+R1,NaN,CSMS Iaşi,Universitatea Cluj,4,0,H,3,0,H
+R1,NaN,CFR Cluj,FC Braşov,5,0,H,1,0,H
+R1,NaN,FC Vaslui,Ceahlăul Piatra Neamt,4,3,H,3,1,H
+R1,NaN,Oţelul Galaţi,Gaz Metan Mediaş,2,0,H,1,0,H
+R1,NaN,Steaua Bucureşti,Dinamo Bucureşti,3,1,H,0,1,A
+R1,NaN,Pandurii Târgu Jiu,CS Turnu Severin,2,2,D,1,1,D
+R1,NaN,Petrolul Ploieşti,Concordia Chiajna,0,0,D,0,0,D
+R1,NaN,Rapid Bucureşti,Astra Ploieşti,0,2,A,0,1,A
+R1,NaN,CS Turnu Severin,Gloria Bistrita,1,0,H,0,0,D
+R1,NaN,Gaz Metan Mediaş,CSMS Iaşi,0,1,A,0,0,D
+R1,NaN,Ceahlăul Piatra Neamt,Oţelul Galaţi,4,1,H,1,0,H
+R1,NaN,Astra Ploieşti,Petrolul Ploieşti,1,1,D,0,0,D
+R1,NaN,Dinamo Bucureşti,FC Vaslui,0,1,A,0,1,A
+R1,NaN,Concordia Chiajna,CFR Cluj,1,2,A,0,1,A
+R1,NaN,FC Braşov,Pandurii Târgu Jiu,0,1,A,0,0,D
+R1,NaN,FC Viitorul Constanța,Steaua Bucureşti,0,4,A,0,3,A
+R1,NaN,Universitatea Cluj,Rapid Bucureşti,1,2,A,0,1,A
+R1,NaN,CFR Cluj,Astra Ploieşti,0,2,A,0,1,A
+R1,NaN,Petrolul Ploieşti,Universitatea Cluj,2,0,H,1,0,H
+R1,NaN,Gloria Bistrita,FC Braşov,1,1,D,0,0,D
+R1,NaN,CSMS Iaşi,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+R1,NaN,FC Viitorul Constanța,Dinamo Bucureşti,1,1,D,0,0,D
+R1,NaN,Steaua Bucureşti,CS Turnu Severin,2,1,H,2,1,H
+R1,NaN,Pandurii Târgu Jiu,Concordia Chiajna,2,1,H,1,1,D
+R1,NaN,Oţelul Galaţi,FC Vaslui,2,0,H,1,0,H
+R1,NaN,Rapid Bucureşti,Gaz Metan Mediaş,2,1,H,0,1,A
+R1,NaN,Gaz Metan Mediaş,Petrolul Ploieşti,2,0,H,1,0,H
+R1,NaN,Concordia Chiajna,Gloria Bistrita,2,1,H,1,0,H
+R1,NaN,Dinamo Bucureşti,Oţelul Galaţi,2,1,H,2,0,H
+R1,NaN,Universitatea Cluj,CFR Cluj,1,2,A,1,0,H
+R1,NaN,Ceahlăul Piatra Neamt,Rapid Bucureşti,0,0,D,0,0,D
+R1,NaN,Astra Ploieşti,Pandurii Târgu Jiu,4,1,H,1,1,D
+R1,NaN,CS Turnu Severin,FC Viitorul Constanța,2,2,D,1,1,D
+R1,NaN,FC Vaslui,CSMS Iaşi,3,0,H,0,0,D
+R1,NaN,FC Braşov,Steaua Bucureşti,3,1,H,1,1,D
+R1,NaN,Universitatea Cluj,Pandurii Târgu Jiu,1,1,D,1,0,H
+R1,NaN,Concordia Chiajna,Steaua Bucureşti,0,6,A,0,3,A
+R1,NaN,FC Braşov,FC Viitorul Constanța,3,1,H,1,1,D
+R1,NaN,Gaz Metan Mediaş,CFR Cluj,1,1,D,0,1,A
+R1,NaN,Ceahlăul Piatra Neamt,Petrolul Ploieşti,0,2,A,0,0,D
+R1,NaN,FC Vaslui,Rapid Bucureşti,1,0,H,1,0,H
+R1,NaN,Oţelul Galaţi,CSMS Iaşi,0,3,A,0,1,A
+R1,NaN,Astra Ploieşti,Gloria Bistrita,4,0,H,2,0,H
+R1,NaN,Dinamo Bucureşti,CS Turnu Severin,4,2,H,1,1,D
+R1,NaN,Gloria Bistrita,Universitatea Cluj,0,0,D,0,0,D
+R1,NaN,Pandurii Târgu Jiu,Gaz Metan Mediaş,1,1,D,1,0,H
+R1,NaN,Petrolul Ploieşti,FC Vaslui,0,0,D,0,0,D
+R1,NaN,Rapid Bucureşti,Oţelul Galaţi,2,3,A,1,2,A
+R1,NaN,CFR Cluj,Ceahlăul Piatra Neamt,3,2,H,1,1,D
+R1,NaN,CSMS Iaşi,Dinamo Bucureşti,1,1,D,1,1,D
+R1,NaN,FC Viitorul Constanța,Concordia Chiajna,1,1,D,0,1,A
+R1,NaN,CS Turnu Severin,FC Braşov,2,1,H,1,1,D
+R1,NaN,Steaua Bucureşti,Astra Ploieşti,2,0,H,1,0,H
+R1,NaN,Gaz Metan Mediaş,Gloria Bistrita,3,1,H,2,1,H
+R1,NaN,Concordia Chiajna,CS Turnu Severin,1,1,D,1,0,H
+R1,NaN,Ceahlăul Piatra Neamt,Pandurii Târgu Jiu,0,1,A,0,1,A
+R1,NaN,CSMS Iaşi,Rapid Bucureşti,0,1,A,0,1,A
+R1,NaN,Oţelul Galaţi,Petrolul Ploieşti,0,1,A,0,0,D
+R1,NaN,Dinamo Bucureşti,FC Braşov,2,1,H,2,0,H
+R1,NaN,Astra Ploieşti,FC Viitorul Constanța,2,0,H,1,0,H
+R1,NaN,Universitatea Cluj,Steaua Bucureşti,0,1,A,0,1,A
+R1,NaN,FC Vaslui,CFR Cluj,0,0,D,0,0,D
+R1,NaN,Gloria Bistrita,Ceahlăul Piatra Neamt,0,0,D,0,0,D
+R1,NaN,Steaua Bucureşti,Gaz Metan Mediaş,3,0,H,1,0,H
+R1,NaN,FC Viitorul Constanța,Universitatea Cluj,1,1,D,0,0,D
+R1,NaN,CFR Cluj,Oţelul Galaţi,0,1,A,0,1,A
+R1,NaN,Petrolul Ploieşti,CSMS Iaşi,2,1,H,0,0,D
+R1,NaN,Rapid Bucureşti,Dinamo Bucureşti,0,1,A,0,0,D
+R1,NaN,FC Braşov,Concordia Chiajna,3,2,H,0,0,D
+R1,NaN,Pandurii Târgu Jiu,FC Vaslui,2,1,H,0,0,D
+R1,NaN,CS Turnu Severin,Astra Ploieşti,0,0,D,0,0,D
+R1,NaN,Gaz Metan Mediaş,FC Viitorul Constanța,4,1,H,3,1,H
+R1,NaN,CSMS Iaşi,CFR Cluj,1,1,D,0,0,D
+R1,NaN,Astra Ploieşti,FC Braşov,3,0,H,2,0,H
+R1,NaN,Rapid Bucureşti,Petrolul Ploieşti,0,0,D,0,0,D
+R1,NaN,Oţelul Galaţi,Pandurii Târgu Jiu,1,0,H,0,0,D
+R1,NaN,Ceahlăul Piatra Neamt,Steaua Bucureşti,3,4,A,2,3,A
+R1,NaN,Universitatea Cluj,CS Turnu Severin,1,0,H,0,0,D
+R1,NaN,Dinamo Bucureşti,Concordia Chiajna,2,0,H,0,0,D
+R1,NaN,FC Vaslui,Gloria Bistrita,1,1,D,0,1,A
+R1,NaN,CS Turnu Severin,Gaz Metan Mediaş,2,0,H,0,0,D
+R1,NaN,Concordia Chiajna,Astra Ploieşti,0,2,A,0,0,D
+R1,NaN,Gloria Bistrita,Oţelul Galaţi,2,1,H,0,0,D
+R1,NaN,Pandurii Târgu Jiu,CSMS Iaşi,3,1,H,1,1,D
+R1,NaN,Petrolul Ploieşti,Dinamo Bucureşti,2,1,H,1,1,D
+R1,NaN,FC Viitorul Constanța,Ceahlăul Piatra Neamt,2,2,D,1,1,D
+R1,NaN,Steaua Bucureşti,FC Vaslui,1,0,H,1,0,H
+R1,NaN,FC Braşov,Universitatea Cluj,0,0,D,0,0,D
+R1,NaN,CFR Cluj,Rapid Bucureşti,0,0,D,0,0,D
+R1,NaN,Universitatea Cluj,Concordia Chiajna,1,0,H,0,0,D
+R1,NaN,Gaz Metan Mediaş,FC Braşov,0,0,D,0,0,D
+R1,NaN,Rapid Bucureşti,Pandurii Târgu Jiu,2,0,H,0,0,D
+R1,NaN,Ceahlăul Piatra Neamt,CS Turnu Severin,1,0,H,1,0,H
+R1,NaN,Petrolul Ploieşti,CFR Cluj,1,1,D,0,0,D
+R1,NaN,Dinamo Bucureşti,Astra Ploieşti,1,0,H,1,0,H
+R1,NaN,CSMS Iaşi,Gloria Bistrita,2,1,H,1,0,H
+R1,NaN,FC Vaslui,FC Viitorul Constanța,3,2,H,0,1,A
+R1,NaN,Oţelul Galaţi,Steaua Bucureşti,1,1,D,0,0,D
+R1,NaN,FC Braşov,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+R1,NaN,Astra Ploieşti,Universitatea Cluj,1,2,A,0,1,A
+R1,NaN,CS Turnu Severin,FC Vaslui,2,0,H,1,0,H
+R1,NaN,Pandurii Târgu Jiu,Petrolul Ploieşti,1,3,A,0,2,A
+R1,NaN,CFR Cluj,Dinamo Bucureşti,0,1,A,0,0,D
+R1,NaN,Gloria Bistrita,Rapid Bucureşti,0,1,A,0,0,D
+R1,NaN,Steaua Bucureşti,CSMS Iaşi,3,1,H,1,1,D
+R1,NaN,FC Viitorul Constanța,Oţelul Galaţi,0,0,D,0,0,D
+R1,NaN,Concordia Chiajna,Gaz Metan Mediaş,0,1,A,0,1,A
+R1,NaN,Gaz Metan Mediaş,Astra Ploieşti,2,1,H,2,0,H
+R1,NaN,CFR Cluj,Pandurii Târgu Jiu,2,3,A,0,1,A
+R1,NaN,Oţelul Galaţi,CS Turnu Severin,2,0,H,1,0,H
+R1,NaN,Ceahlăul Piatra Neamt,Concordia Chiajna,3,0,H,2,0,H
+R1,NaN,Petrolul Ploieşti,Gloria Bistrita,4,0,H,2,0,H
+R1,NaN,Dinamo Bucureşti,Universitatea Cluj,1,1,D,0,0,D
+R1,NaN,Rapid Bucureşti,Steaua Bucureşti,1,1,D,1,0,H
+R1,NaN,FC Vaslui,FC Braşov,1,1,D,0,1,A
+R1,NaN,CSMS Iaşi,FC Viitorul Constanța,1,2,A,1,0,H
+R1,NaN,Universitatea Cluj,Gaz Metan Mediaş,3,4,A,1,2,A
+R1,NaN,CS Turnu Severin,CSMS Iaşi,2,1,H,0,1,A
+R1,NaN,FC Viitorul Constanța,Rapid Bucureşti,1,2,A,1,0,H
+R1,NaN,Astra Ploieşti,Ceahlăul Piatra Neamt,4,2,H,1,1,D
+R1,NaN,Gloria Bistrita,CFR Cluj,0,5,A,0,1,A
+R1,NaN,Concordia Chiajna,FC Vaslui,1,1,D,0,1,A
+R1,NaN,Pandurii Târgu Jiu,Dinamo Bucureşti,2,0,H,0,0,D
+R1,NaN,FC Braşov,Oţelul Galaţi,3,2,H,3,2,H
+R1,NaN,Steaua Bucureşti,Petrolul Ploieşti,2,2,D,1,1,D
+R1,NaN,Ceahlăul Piatra Neamt,Universitatea Cluj,2,1,H,1,0,H
+R1,NaN,Rapid Bucureşti,CS Turnu Severin,1,0,H,1,0,H
+R1,NaN,Petrolul Ploieşti,FC Viitorul Constanța,3,0,H,0,0,D
+R1,NaN,FC Vaslui,Astra Ploieşti,2,1,H,1,0,H
+R1,NaN,Dinamo Bucureşti,Gaz Metan Mediaş,2,0,H,1,0,H
+R1,NaN,CFR Cluj,Steaua Bucureşti,0,0,D,0,0,D
+R1,NaN,Pandurii Târgu Jiu,Gloria Bistrita,4,0,H,2,0,H
+R1,NaN,Oţelul Galaţi,Concordia Chiajna,2,1,H,1,1,D
+R1,NaN,CSMS Iaşi,FC Braşov,1,2,A,1,1,D
+R1,NaN,Gaz Metan Mediaş,Ceahlăul Piatra Neamt,3,1,H,2,1,H
+R1,NaN,Steaua Bucureşti,Pandurii Târgu Jiu,2,0,H,2,0,H
+R1,NaN,Gloria Bistrita,Dinamo Bucureşti,1,2,A,1,1,D
+R1,NaN,FC Braşov,Rapid Bucureşti,2,0,H,1,0,H
+R1,NaN,Astra Ploieşti,Oţelul Galaţi,0,0,D,0,0,D
+R1,NaN,CS Turnu Severin,Petrolul Ploieşti,2,2,D,1,1,D
+R1,NaN,Universitatea Cluj,FC Vaslui,2,1,H,2,0,H
+R1,NaN,FC Viitorul Constanța,CFR Cluj,0,2,A,0,0,D
+R1,NaN,Concordia Chiajna,CSMS Iaşi,1,1,D,1,0,H
+R1,NaN,Dinamo Bucureşti,Ceahlăul Piatra Neamt,1,1,D,0,1,A
+R1,NaN,FC Vaslui,Gaz Metan Mediaş,1,1,D,1,0,H
+R1,NaN,Gloria Bistrita,Steaua Bucureşti,0,1,A,0,0,D
+R1,NaN,Oţelul Galaţi,Universitatea Cluj,0,2,A,0,1,A
+R1,NaN,Petrolul Ploieşti,FC Braşov,6,4,H,3,2,H
+R1,NaN,CFR Cluj,CS Turnu Severin,1,3,A,1,2,A
+R1,NaN,Rapid Bucureşti,Concordia Chiajna,0,0,D,0,0,D
+R1,NaN,CSMS Iaşi,Astra Ploieşti,0,2,A,0,1,A
+R1,NaN,Pandurii Târgu Jiu,FC Viitorul Constanța,4,1,H,2,1,H
+R1,NaN,Dinamo Bucureşti,Steaua Bucureşti,0,2,A,0,1,A
+R1,NaN,Gaz Metan Mediaş,Oţelul Galaţi,1,2,A,0,0,D
+R1,NaN,Ceahlăul Piatra Neamt,FC Vaslui,0,2,A,0,0,D
+R1,NaN,Concordia Chiajna,Petrolul Ploieşti,1,1,D,0,1,A
+R1,NaN,CS Turnu Severin,Pandurii Târgu Jiu,1,3,A,0,2,A
+R1,NaN,Astra Ploieşti,Rapid Bucureşti,3,2,H,1,0,H
+R1,NaN,Universitatea Cluj,CSMS Iaşi,0,2,A,0,2,A
+R1,NaN,FC Braşov,CFR Cluj,0,0,D,0,0,D
+R1,NaN,FC Viitorul Constanța,Gloria Bistrita,2,0,H,1,0,H
+R1,NaN,CFR Cluj,Concordia Chiajna,1,1,D,0,0,D
+R1,NaN,Oţelul Galaţi,Ceahlăul Piatra Neamt,3,2,H,2,2,D
+R1,NaN,Pandurii Târgu Jiu,FC Braşov,2,3,A,1,1,D
+R1,NaN,Petrolul Ploieşti,Astra Ploieşti,1,1,D,1,0,H
+R1,NaN,FC Vaslui,Dinamo Bucureşti,4,1,H,2,1,H
+R1,NaN,Steaua Bucureşti,FC Viitorul Constanța,2,5,A,1,4,A
+R1,NaN,Gloria Bistrita,CS Turnu Severin,0,0,D,0,0,D
+R1,NaN,Rapid Bucureşti,Universitatea Cluj,1,4,A,1,3,A
+R1,NaN,CSMS Iaşi,Gaz Metan Mediaş,0,2,A,0,2,A
+R1,NaN,FC Braşov,Gloria Bistrita,4,1,H,2,0,H
+R1,NaN,FC Vaslui,Oţelul Galaţi,1,0,H,1,0,H
+R1,NaN,Dinamo Bucureşti,FC Viitorul Constanța,2,3,A,1,1,D
+R1,NaN,Gaz Metan Mediaş,Rapid Bucureşti,1,1,D,1,1,D
+R1,NaN,Universitatea Cluj,Petrolul Ploieşti,2,4,A,0,2,A
+R1,NaN,CS Turnu Severin,Steaua Bucureşti,1,1,D,1,0,H
+R1,NaN,Astra Ploieşti,CFR Cluj,3,3,D,3,2,H
+R1,NaN,Concordia Chiajna,Pandurii Târgu Jiu,0,1,A,0,1,A
+R1,NaN,Ceahlăul Piatra Neamt,CSMS Iaşi,1,0,H,0,0,D
+R1,NaN,Steaua Bucureşti,FC Braşov,4,0,H,2,0,H
+R1,NaN,Oţelul Galaţi,Dinamo Bucureşti,0,1,A,0,0,D
+R1,NaN,CFR Cluj,Universitatea Cluj,3,1,H,1,0,H
+R1,NaN,Petrolul Ploieşti,Gaz Metan Mediaş,1,1,D,0,1,A
+R1,NaN,Pandurii Târgu Jiu,Astra Ploieşti,1,1,D,0,1,A
+R1,NaN,CSMS Iaşi,FC Vaslui,1,2,A,0,2,A
+R1,NaN,FC Viitorul Constanța,CS Turnu Severin,3,4,A,2,1,H
+R1,NaN,Gloria Bistrita,Concordia Chiajna,1,3,A,0,1,A
+R1,NaN,Rapid Bucureşti,Ceahlăul Piatra Neamt,2,0,H,2,0,H

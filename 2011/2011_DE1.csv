@@ -1,0 +1,199 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+D1,NaN,Odense BK,FC Nordsjælland,2,0,H,1,0,H
+D1,NaN,FC Midtjylland,Silkeborg IF,1,2,A,1,1,D
+D1,NaN,AC Horsens,HB Køge,3,0,H,1,0,H
+D1,NaN,SønderjyskE,FC København,0,2,A,0,1,A
+D1,NaN,Brøndby IF,Aalborg BK,2,2,D,1,0,H
+D1,NaN,Aarhus GF,Lyngby BK,2,1,H,1,0,H
+D1,NaN,Silkeborg IF,Brøndby IF,0,1,A,0,0,D
+D1,NaN,FC København,Odense BK,2,2,D,2,1,H
+D1,NaN,FC Nordsjælland,AC Horsens,1,1,D,1,0,H
+D1,NaN,Lyngby BK,SønderjyskE,0,1,A,0,0,D
+D1,NaN,Aalborg BK,Aarhus GF,2,1,H,0,0,D
+D1,NaN,HB Køge,FC Midtjylland,2,3,A,0,0,D
+D1,NaN,Aarhus GF,Odense BK,2,2,D,0,1,A
+D1,NaN,FC København,FC Nordsjælland,2,0,H,1,0,H
+D1,NaN,Silkeborg IF,SønderjyskE,1,1,D,1,0,H
+D1,NaN,Lyngby BK,HB Køge,3,1,H,2,1,H
+D1,NaN,Brøndby IF,AC Horsens,1,4,A,1,1,D
+D1,NaN,Aalborg BK,FC Midtjylland,1,0,H,1,0,H
+D1,NaN,SønderjyskE,Aarhus GF,3,1,H,1,1,D
+D1,NaN,AC Horsens,Aalborg BK,3,3,D,2,2,D
+D1,NaN,FC Midtjylland,Lyngby BK,2,1,H,2,0,H
+D1,NaN,HB Køge,FC København,2,4,A,0,1,A
+D1,NaN,FC Nordsjælland,Silkeborg IF,2,1,H,0,1,A
+D1,NaN,Odense BK,Brøndby IF,2,1,H,1,1,D
+D1,NaN,Aalborg BK,Odense BK,2,1,H,0,0,D
+D1,NaN,FC København,FC Midtjylland,2,0,H,0,0,D
+D1,NaN,Lyngby BK,AC Horsens,1,1,D,0,1,A
+D1,NaN,Brøndby IF,SønderjyskE,2,2,D,2,1,H
+D1,NaN,FC Nordsjælland,HB Køge,2,0,H,0,0,D
+D1,NaN,Silkeborg IF,Aarhus GF,1,1,D,1,1,D
+D1,NaN,Odense BK,Lyngby BK,3,1,H,3,0,H
+D1,NaN,AC Horsens,FC København,0,1,A,0,1,A
+D1,NaN,FC Midtjylland,FC Nordsjælland,2,1,H,2,0,H
+D1,NaN,HB Køge,Silkeborg IF,3,0,H,3,0,H
+D1,NaN,Aarhus GF,Brøndby IF,0,0,D,0,0,D
+D1,NaN,SønderjyskE,Aalborg BK,0,0,D,0,0,D
+D1,NaN,HB Køge,Aalborg BK,1,4,A,0,2,A
+D1,NaN,Odense BK,SønderjyskE,2,4,A,1,0,H
+D1,NaN,FC Nordsjælland,Lyngby BK,4,0,H,1,0,H
+D1,NaN,FC København,Silkeborg IF,2,1,H,2,0,H
+D1,NaN,FC Midtjylland,Brøndby IF,2,1,H,0,0,D
+D1,NaN,AC Horsens,Aarhus GF,0,3,A,0,1,A
+D1,NaN,Lyngby BK,FC København,0,1,A,0,1,A
+D1,NaN,Silkeborg IF,Odense BK,1,3,A,1,0,H
+D1,NaN,Aalborg BK,FC Nordsjælland,1,2,A,0,0,D
+D1,NaN,SønderjyskE,AC Horsens,1,3,A,1,2,A
+D1,NaN,Brøndby IF,HB Køge,5,0,H,2,0,H
+D1,NaN,Aarhus GF,FC Midtjylland,4,2,H,1,1,D
+D1,NaN,HB Køge,Aarhus GF,0,2,A,0,2,A
+D1,NaN,FC Midtjylland,SønderjyskE,2,0,H,0,0,D
+D1,NaN,Lyngby BK,Silkeborg IF,0,2,A,0,0,D
+D1,NaN,FC Nordsjælland,Brøndby IF,2,0,H,0,0,D
+D1,NaN,FC København,Aalborg BK,2,0,H,0,0,D
+D1,NaN,AC Horsens,Odense BK,4,3,H,1,1,D
+D1,NaN,Brøndby IF,FC København,1,2,A,1,0,H
+D1,NaN,Aarhus GF,FC Nordsjælland,1,0,H,1,0,H
+D1,NaN,Silkeborg IF,AC Horsens,1,1,D,1,0,H
+D1,NaN,SønderjyskE,HB Køge,0,0,D,0,0,D
+D1,NaN,Odense BK,FC Midtjylland,1,4,A,0,3,A
+D1,NaN,Aalborg BK,Lyngby BK,1,2,A,1,1,D
+D1,NaN,Silkeborg IF,Aalborg BK,1,1,D,1,1,D
+D1,NaN,Odense BK,HB Køge,2,1,H,2,1,H
+D1,NaN,Brøndby IF,Lyngby BK,1,0,H,0,0,D
+D1,NaN,FC Nordsjælland,SønderjyskE,1,0,H,0,0,D
+D1,NaN,FC København,Aarhus GF,1,1,D,0,0,D
+D1,NaN,FC Midtjylland,AC Horsens,1,0,H,0,0,D
+D1,NaN,FC Nordsjælland,Aalborg BK,1,0,H,1,0,H
+D1,NaN,Lyngby BK,Silkeborg IF,2,3,A,2,2,D
+D1,NaN,HB Køge,SønderjyskE,1,3,A,0,2,A
+D1,NaN,Aarhus GF,Odense BK,0,0,D,0,0,D
+D1,NaN,FC Midtjylland,Brøndby IF,1,0,H,0,0,D
+D1,NaN,AC Horsens,FC København,2,0,H,1,0,H
+D1,NaN,Lyngby BK,Aarhus GF,1,1,D,1,0,H
+D1,NaN,SønderjyskE,AC Horsens,1,4,A,0,4,A
+D1,NaN,Aalborg BK,Odense BK,2,1,H,1,1,D
+D1,NaN,HB Køge,FC Midtjylland,1,1,D,0,1,A
+D1,NaN,Silkeborg IF,Brøndby IF,2,1,H,1,1,D
+D1,NaN,FC København,FC Nordsjælland,1,3,A,0,2,A
+D1,NaN,AC Horsens,Silkeborg IF,1,1,D,0,1,A
+D1,NaN,Aarhus GF,HB Køge,2,0,H,1,0,H
+D1,NaN,FC Nordsjælland,Lyngby BK,0,1,A,0,0,D
+D1,NaN,Brøndby IF,Aalborg BK,1,1,D,0,1,A
+D1,NaN,Odense BK,FC København,1,3,A,1,1,D
+D1,NaN,FC Midtjylland,SønderjyskE,1,1,D,1,1,D
+D1,NaN,Aalborg BK,AC Horsens,2,0,H,1,0,H
+D1,NaN,Silkeborg IF,FC Midtjylland,4,1,H,2,0,H
+D1,NaN,HB Køge,FC Nordsjælland,0,2,A,0,1,A
+D1,NaN,FC København,Lyngby BK,3,0,H,0,0,D
+D1,NaN,Odense BK,Brøndby IF,0,0,D,0,0,D
+D1,NaN,SønderjyskE,Aarhus GF,1,1,D,0,1,A
+D1,NaN,AC Horsens,Odense BK,0,1,A,0,0,D
+D1,NaN,Brøndby IF,FC København,2,1,H,1,1,D
+D1,NaN,Lyngby BK,HB Køge,2,2,D,1,0,H
+D1,NaN,FC Nordsjælland,SønderjyskE,2,0,H,1,0,H
+D1,NaN,FC Midtjylland,Aalborg BK,1,3,A,1,1,D
+D1,NaN,Aarhus GF,Silkeborg IF,0,2,A,0,2,A
+D1,NaN,Odense BK,FC Midtjylland,2,3,A,0,1,A
+D1,NaN,Silkeborg IF,FC Nordsjælland,1,2,A,0,1,A
+D1,NaN,SønderjyskE,Lyngby BK,3,1,H,3,0,H
+D1,NaN,FC København,HB Køge,2,1,H,0,1,A
+D1,NaN,Aalborg BK,Aarhus GF,0,2,A,0,0,D
+D1,NaN,Brøndby IF,AC Horsens,0,1,A,0,1,A
+D1,NaN,Silkeborg IF,Aalborg BK,4,2,H,1,1,D
+D1,NaN,FC Nordsjælland,FC Midtjylland,0,0,D,0,0,D
+D1,NaN,HB Køge,Brøndby IF,1,1,D,0,0,D
+D1,NaN,Lyngby BK,AC Horsens,1,2,A,0,0,D
+D1,NaN,FC København,Aarhus GF,0,0,D,0,0,D
+D1,NaN,SønderjyskE,Odense BK,0,4,A,0,2,A
+D1,NaN,Aarhus GF,FC Nordsjælland,1,1,D,1,1,D
+D1,NaN,FC Midtjylland,Lyngby BK,1,2,A,0,1,A
+D1,NaN,Brøndby IF,SønderjyskE,1,0,H,0,0,D
+D1,NaN,AC Horsens,HB Køge,2,1,H,0,0,D
+D1,NaN,Aalborg BK,FC København,1,1,D,0,0,D
+D1,NaN,Odense BK,Silkeborg IF,2,2,D,1,0,H
+D1,NaN,Odense BK,FC Nordsjælland,0,1,A,0,0,D
+D1,NaN,Aalborg BK,Lyngby BK,1,0,H,1,0,H
+D1,NaN,Silkeborg IF,HB Køge,0,1,A,0,0,D
+D1,NaN,FC København,SønderjyskE,2,0,H,1,0,H
+D1,NaN,Brøndby IF,Aarhus GF,0,0,D,0,0,D
+D1,NaN,FC Midtjylland,AC Horsens,4,1,H,3,1,H
+D1,NaN,Aarhus GF,AC Horsens,1,3,A,0,1,A
+D1,NaN,Lyngby BK,Odense BK,1,0,H,0,0,D
+D1,NaN,FC Nordsjælland,Brøndby IF,1,2,A,0,1,A
+D1,NaN,SønderjyskE,Silkeborg IF,2,4,A,0,2,A
+D1,NaN,FC København,FC Midtjylland,0,0,D,0,0,D
+D1,NaN,HB Køge,Aalborg BK,1,1,D,1,0,H
+D1,NaN,Aalborg BK,SønderjyskE,1,2,A,0,1,A
+D1,NaN,Odense BK,HB Køge,2,4,A,0,1,A
+D1,NaN,AC Horsens,FC Nordsjælland,0,2,A,0,1,A
+D1,NaN,Silkeborg IF,FC København,0,0,D,0,0,D
+D1,NaN,Brøndby IF,Lyngby BK,2,1,H,2,1,H
+D1,NaN,FC Midtjylland,Aarhus GF,0,2,A,0,1,A
+D1,NaN,AC Horsens,Aalborg BK,1,0,H,1,0,H
+D1,NaN,FC Midtjylland,Silkeborg IF,2,2,D,1,0,H
+D1,NaN,FC Nordsjælland,HB Køge,2,0,H,2,0,H
+D1,NaN,Lyngby BK,FC København,1,3,A,0,1,A
+D1,NaN,Brøndby IF,Odense BK,1,0,H,1,0,H
+D1,NaN,Aarhus GF,SønderjyskE,1,3,A,0,2,A
+D1,NaN,Aalborg BK,FC Midtjylland,1,2,A,1,2,A
+D1,NaN,SønderjyskE,FC Nordsjælland,1,0,H,1,0,H
+D1,NaN,HB Køge,Lyngby BK,1,4,A,0,1,A
+D1,NaN,Silkeborg IF,Aarhus GF,2,1,H,1,0,H
+D1,NaN,FC København,Brøndby IF,3,1,H,1,1,D
+D1,NaN,Odense BK,AC Horsens,0,1,A,0,0,D
+D1,NaN,Aalborg BK,Silkeborg IF,3,1,H,1,1,D
+D1,NaN,FC Midtjylland,FC Nordsjælland,1,1,D,0,0,D
+D1,NaN,Odense BK,SønderjyskE,1,1,D,1,0,H
+D1,NaN,Brøndby IF,HB Køge,1,1,D,1,1,D
+D1,NaN,AC Horsens,Lyngby BK,0,0,D,0,0,D
+D1,NaN,Aarhus GF,FC København,0,0,D,0,0,D
+D1,NaN,FC Midtjylland,Odense BK,2,0,H,2,0,H
+D1,NaN,FC Nordsjælland,Silkeborg IF,2,1,H,1,0,H
+D1,NaN,Lyngby BK,SønderjyskE,0,4,A,0,1,A
+D1,NaN,HB Køge,FC København,0,5,A,0,1,A
+D1,NaN,AC Horsens,Brøndby IF,2,0,H,1,0,H
+D1,NaN,Aarhus GF,Aalborg BK,1,1,D,0,1,A
+D1,NaN,Aalborg BK,FC Nordsjælland,0,2,A,0,1,A
+D1,NaN,Silkeborg IF,Lyngby BK,3,0,H,2,0,H
+D1,NaN,FC København,AC Horsens,2,1,H,1,0,H
+D1,NaN,SønderjyskE,HB Køge,2,1,H,2,0,H
+D1,NaN,Brøndby IF,FC Midtjylland,0,2,A,0,0,D
+D1,NaN,Odense BK,Aarhus GF,1,2,A,1,2,A
+D1,NaN,FC Nordsjælland,Aarhus GF,5,3,H,2,3,A
+D1,NaN,Lyngby BK,FC Midtjylland,1,2,A,0,0,D
+D1,NaN,HB Køge,AC Horsens,2,1,H,0,0,D
+D1,NaN,SønderjyskE,Brøndby IF,3,3,D,3,3,D
+D1,NaN,FC København,Aalborg BK,3,0,H,2,0,H
+D1,NaN,Silkeborg IF,Odense BK,1,1,D,1,1,D
+D1,NaN,Aarhus GF,Lyngby BK,2,1,H,1,0,H
+D1,NaN,FC Nordsjælland,FC København,1,0,H,0,0,D
+D1,NaN,AC Horsens,SønderjyskE,5,0,H,3,0,H
+D1,NaN,FC Midtjylland,HB Køge,2,1,H,1,0,H
+D1,NaN,Brøndby IF,Silkeborg IF,3,2,H,1,1,D
+D1,NaN,Odense BK,Aalborg BK,1,2,A,0,2,A
+D1,NaN,Lyngby BK,FC Nordsjælland,0,2,A,0,1,A
+D1,NaN,HB Køge,Aarhus GF,1,3,A,0,1,A
+D1,NaN,Silkeborg IF,AC Horsens,0,1,A,0,0,D
+D1,NaN,Aalborg BK,Brøndby IF,1,0,H,0,0,D
+D1,NaN,FC København,Odense BK,1,1,D,0,0,D
+D1,NaN,SønderjyskE,FC Midtjylland,1,1,D,1,0,H
+D1,NaN,AC Horsens,FC Midtjylland,2,1,H,2,1,H
+D1,NaN,Lyngby BK,Aalborg BK,3,2,H,1,1,D
+D1,NaN,SønderjyskE,FC København,2,2,D,1,0,H
+D1,NaN,HB Køge,Silkeborg IF,1,3,A,1,1,D
+D1,NaN,Aarhus GF,Brøndby IF,5,1,H,2,0,H
+D1,NaN,FC Nordsjælland,Odense BK,0,0,D,0,0,D
+D1,NaN,FC Midtjylland,FC København,1,0,H,0,0,D
+D1,NaN,Silkeborg IF,SønderjyskE,1,1,D,1,0,H
+D1,NaN,AC Horsens,Aarhus GF,3,1,H,1,1,D
+D1,NaN,Brøndby IF,FC Nordsjælland,0,1,A,0,0,D
+D1,NaN,Aalborg BK,HB Køge,1,0,H,0,0,D
+D1,NaN,Odense BK,Lyngby BK,4,0,H,2,0,H
+D1,NaN,FC Nordsjælland,AC Horsens,3,0,H,1,0,H
+D1,NaN,Lyngby BK,Brøndby IF,1,0,H,1,0,H
+D1,NaN,SønderjyskE,Aalborg BK,5,0,H,3,0,H
+D1,NaN,HB Køge,Odense BK,1,1,D,0,1,A
+D1,NaN,FC København,Silkeborg IF,2,1,H,1,0,H
+D1,NaN,Aarhus GF,FC Midtjylland,0,2,A,0,2,A

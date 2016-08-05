@@ -1,0 +1,241 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RU1,NaN,CSKA Moskva,FK Amkar Perm,1,0,H,0,0,D
+RU1,NaN,Krylia Sovetov,Zenit St. Petersburg,0,1,A,0,0,D
+RU1,NaN,Anzhi Makhachkala,Spartak Nalchik,0,0,D,0,0,D
+RU1,NaN,FK Rostov,FK Tom Tomsk,0,2,A,0,0,D
+RU1,NaN,Sibir Novosibirsk,Terek Grozniy,0,2,A,0,1,A
+RU1,NaN,Rubin Kazan,Lokomotiv Moskva,2,0,H,0,0,D
+RU1,NaN,Alania Vladikavkaz,FK Saturn,1,1,D,1,1,D
+RU1,NaN,Spartak Moskva,Dinamo Moskva,0,1,A,0,0,D
+RU1,NaN,Spartak Nalchik,Alania Vladikavkaz,2,1,H,2,0,H
+RU1,NaN,FK Amkar Perm,Anzhi Makhachkala,1,0,H,0,0,D
+RU1,NaN,Terek Grozniy,FK Rostov,1,1,D,1,0,H
+RU1,NaN,FK Saturn,Sibir Novosibirsk,1,1,D,0,1,A
+RU1,NaN,Lokomotiv Moskva,Krylia Sovetov,3,0,H,0,0,D
+RU1,NaN,Zenit St. Petersburg,Spartak Moskva,1,1,D,0,1,A
+RU1,NaN,CSKA Moskva,Dinamo Moskva,0,0,D,0,0,D
+RU1,NaN,FK Tom Tomsk,Rubin Kazan,0,1,A,0,0,D
+RU1,NaN,Alania Vladikavkaz,FK Amkar Perm,0,0,D,0,0,D
+RU1,NaN,Anzhi Makhachkala,CSKA Moskva,1,2,A,1,0,H
+RU1,NaN,Sibir Novosibirsk,Spartak Nalchik,0,2,A,0,1,A
+RU1,NaN,Krylia Sovetov,FK Tom Tomsk,2,3,A,2,3,A
+RU1,NaN,Dinamo Moskva,Zenit St. Petersburg,1,2,A,0,2,A
+RU1,NaN,Spartak Moskva,Lokomotiv Moskva,2,1,H,2,1,H
+RU1,NaN,Rubin Kazan,Terek Grozniy,0,0,D,0,0,D
+RU1,NaN,FK Rostov,FK Saturn,1,0,H,1,0,H
+RU1,NaN,FK Amkar Perm,Sibir Novosibirsk,3,1,H,2,1,H
+RU1,NaN,Anzhi Makhachkala,Alania Vladikavkaz,2,0,H,1,0,H
+RU1,NaN,Spartak Nalchik,FK Rostov,5,2,H,2,0,H
+RU1,NaN,FK Tom Tomsk,Spartak Moskva,2,2,D,2,1,H
+RU1,NaN,Terek Grozniy,Krylia Sovetov,2,0,H,2,0,H
+RU1,NaN,FK Saturn,Rubin Kazan,0,0,D,0,0,D
+RU1,NaN,Lokomotiv Moskva,Dinamo Moskva,3,2,H,1,1,D
+RU1,NaN,CSKA Moskva,Zenit St. Petersburg,0,2,A,0,1,A
+RU1,NaN,Krylia Sovetov,FK Saturn,2,1,H,1,0,H
+RU1,NaN,Spartak Moskva,Terek Grozniy,2,1,H,0,1,A
+RU1,NaN,Dinamo Moskva,FK Tom Tomsk,0,0,D,0,0,D
+RU1,NaN,Sibir Novosibirsk,Anzhi Makhachkala,2,4,A,0,2,A
+RU1,NaN,Zenit St. Petersburg,Lokomotiv Moskva,1,0,H,0,0,D
+RU1,NaN,Alania Vladikavkaz,CSKA Moskva,1,3,A,0,2,A
+RU1,NaN,FK Rostov,FK Amkar Perm,2,1,H,1,0,H
+RU1,NaN,Rubin Kazan,Spartak Nalchik,1,1,D,0,0,D
+RU1,NaN,FK Tom Tomsk,Zenit St. Petersburg,0,0,D,0,0,D
+RU1,NaN,CSKA Moskva,Lokomotiv Moskva,1,1,D,1,0,H
+RU1,NaN,FK Amkar Perm,Rubin Kazan,0,1,A,0,1,A
+RU1,NaN,Alania Vladikavkaz,Sibir Novosibirsk,2,1,H,0,0,D
+RU1,NaN,Terek Grozniy,Dinamo Moskva,1,1,D,0,0,D
+RU1,NaN,FK Saturn,Spartak Moskva,0,0,D,0,0,D
+RU1,NaN,Spartak Nalchik,Krylia Sovetov,1,0,H,1,0,H
+RU1,NaN,Anzhi Makhachkala,FK Rostov,1,2,A,0,0,D
+RU1,NaN,Sibir Novosibirsk,CSKA Moskva,1,4,A,0,2,A
+RU1,NaN,Dinamo Moskva,FK Saturn,1,0,H,0,0,D
+RU1,NaN,Lokomotiv Moskva,FK Tom Tomsk,2,1,H,2,0,H
+RU1,NaN,Spartak Moskva,Spartak Nalchik,0,0,D,0,0,D
+RU1,NaN,Zenit St. Petersburg,Terek Grozniy,0,0,D,0,0,D
+RU1,NaN,Rubin Kazan,Anzhi Makhachkala,0,0,D,0,0,D
+RU1,NaN,FK Rostov,Alania Vladikavkaz,0,1,A,0,1,A
+RU1,NaN,Krylia Sovetov,FK Amkar Perm,1,1,D,1,0,H
+RU1,NaN,Anzhi Makhachkala,Krylia Sovetov,0,0,D,0,0,D
+RU1,NaN,Terek Grozniy,Lokomotiv Moskva,0,0,D,0,0,D
+RU1,NaN,Spartak Nalchik,Dinamo Moskva,1,0,H,0,0,D
+RU1,NaN,Sibir Novosibirsk,FK Rostov,2,0,H,0,0,D
+RU1,NaN,FK Saturn,Zenit St. Petersburg,0,1,A,0,0,D
+RU1,NaN,CSKA Moskva,FK Tom Tomsk,3,1,H,1,1,D
+RU1,NaN,Alania Vladikavkaz,Rubin Kazan,1,1,D,1,0,H
+RU1,NaN,FK Amkar Perm,Spartak Moskva,0,2,A,0,1,A
+RU1,NaN,Krylia Sovetov,Alania Vladikavkaz,1,0,H,0,0,D
+RU1,NaN,Lokomotiv Moskva,FK Saturn,0,1,A,0,0,D
+RU1,NaN,Dinamo Moskva,FK Amkar Perm,1,1,D,1,0,H
+RU1,NaN,FK Tom Tomsk,Terek Grozniy,2,1,H,1,0,H
+RU1,NaN,Rubin Kazan,Sibir Novosibirsk,1,0,H,0,0,D
+RU1,NaN,FK Rostov,CSKA Moskva,1,0,H,0,0,D
+RU1,NaN,Zenit St. Petersburg,Spartak Nalchik,3,1,H,0,0,D
+RU1,NaN,Spartak Moskva,Anzhi Makhachkala,3,0,H,1,0,H
+RU1,NaN,Sibir Novosibirsk,Krylia Sovetov,4,1,H,2,1,H
+RU1,NaN,Alania Vladikavkaz,Spartak Moskva,5,2,H,2,2,D
+RU1,NaN,CSKA Moskva,Terek Grozniy,4,1,H,0,1,A
+RU1,NaN,FK Amkar Perm,Zenit St. Petersburg,0,2,A,0,0,D
+RU1,NaN,FK Rostov,Rubin Kazan,0,2,A,0,0,D
+RU1,NaN,FK Saturn,FK Tom Tomsk,1,2,A,0,0,D
+RU1,NaN,Spartak Nalchik,Lokomotiv Moskva,1,1,D,1,1,D
+RU1,NaN,Anzhi Makhachkala,Dinamo Moskva,1,1,D,1,1,D
+RU1,NaN,Terek Grozniy,FK Saturn,2,0,H,1,0,H
+RU1,NaN,Rubin Kazan,CSKA Moskva,0,1,A,0,1,A
+RU1,NaN,Krylia Sovetov,FK Rostov,1,2,A,0,1,A
+RU1,NaN,Lokomotiv Moskva,FK Amkar Perm,2,0,H,1,0,H
+RU1,NaN,FK Tom Tomsk,Spartak Nalchik,1,0,H,0,0,D
+RU1,NaN,Dinamo Moskva,Alania Vladikavkaz,2,0,H,1,0,H
+RU1,NaN,Zenit St. Petersburg,Anzhi Makhachkala,2,1,H,1,0,H
+RU1,NaN,Spartak Moskva,Sibir Novosibirsk,5,3,H,2,0,H
+RU1,NaN,Spartak Nalchik,Terek Grozniy,2,1,H,2,0,H
+RU1,NaN,Sibir Novosibirsk,Dinamo Moskva,2,2,D,0,1,A
+RU1,NaN,Rubin Kazan,Krylia Sovetov,3,0,H,1,0,H
+RU1,NaN,Alania Vladikavkaz,Zenit St. Petersburg,1,3,A,0,3,A
+RU1,NaN,FK Rostov,Spartak Moskva,1,0,H,1,0,H
+RU1,NaN,CSKA Moskva,FK Saturn,1,1,D,1,1,D
+RU1,NaN,FK Amkar Perm,FK Tom Tomsk,2,1,H,0,0,D
+RU1,NaN,Lokomotiv Moskva,Anzhi Makhachkala,2,1,H,1,0,H
+RU1,NaN,Zenit St. Petersburg,Sibir Novosibirsk,2,0,H,1,0,H
+RU1,NaN,Dinamo Moskva,FK Rostov,3,2,H,2,2,D
+RU1,NaN,Spartak Moskva,Rubin Kazan,0,1,A,0,1,A
+RU1,NaN,FK Tom Tomsk,Anzhi Makhachkala,1,4,A,0,2,A
+RU1,NaN,Terek Grozniy,FK Amkar Perm,1,0,H,1,0,H
+RU1,NaN,Lokomotiv Moskva,Alania Vladikavkaz,3,0,H,2,0,H
+RU1,NaN,Krylia Sovetov,CSKA Moskva,0,1,A,0,1,A
+RU1,NaN,FK Saturn,Spartak Nalchik,3,1,H,3,0,H
+RU1,NaN,Alania Vladikavkaz,FK Tom Tomsk,2,1,H,0,1,A
+RU1,NaN,FK Rostov,Zenit St. Petersburg,1,3,A,0,1,A
+RU1,NaN,Rubin Kazan,Dinamo Moskva,2,0,H,0,0,D
+RU1,NaN,Sibir Novosibirsk,Lokomotiv Moskva,2,2,D,0,2,A
+RU1,NaN,FK Amkar Perm,FK Saturn,0,1,A,0,1,A
+RU1,NaN,Anzhi Makhachkala,Terek Grozniy,1,0,H,0,0,D
+RU1,NaN,Krylia Sovetov,Spartak Moskva,0,0,D,0,0,D
+RU1,NaN,CSKA Moskva,Spartak Nalchik,1,2,A,1,2,A
+RU1,NaN,FK Saturn,Anzhi Makhachkala,1,0,H,0,0,D
+RU1,NaN,Spartak Nalchik,FK Amkar Perm,2,1,H,2,0,H
+RU1,NaN,Zenit St. Petersburg,Rubin Kazan,2,0,H,1,0,H
+RU1,NaN,Terek Grozniy,Alania Vladikavkaz,2,0,H,0,0,D
+RU1,NaN,Dinamo Moskva,Krylia Sovetov,1,1,D,0,0,D
+RU1,NaN,Spartak Moskva,CSKA Moskva,1,2,A,0,0,D
+RU1,NaN,Lokomotiv Moskva,FK Rostov,0,1,A,0,1,A
+RU1,NaN,FK Tom Tomsk,Sibir Novosibirsk,3,2,H,2,2,D
+RU1,NaN,FK Rostov,Terek Grozniy,1,0,H,0,0,D
+RU1,NaN,Anzhi Makhachkala,FK Amkar Perm,1,0,H,1,0,H
+RU1,NaN,Krylia Sovetov,Lokomotiv Moskva,0,0,D,0,0,D
+RU1,NaN,Sibir Novosibirsk,FK Saturn,0,1,A,0,0,D
+RU1,NaN,Rubin Kazan,FK Tom Tomsk,2,1,H,1,1,D
+RU1,NaN,Alania Vladikavkaz,Spartak Nalchik,1,0,H,1,0,H
+RU1,NaN,Dinamo Moskva,CSKA Moskva,0,0,D,0,0,D
+RU1,NaN,Spartak Moskva,Zenit St. Petersburg,1,0,H,0,0,D
+RU1,NaN,FK Tom Tomsk,Krylia Sovetov,1,1,D,0,0,D
+RU1,NaN,Zenit St. Petersburg,Dinamo Moskva,1,1,D,1,1,D
+RU1,NaN,FK Saturn,FK Rostov,0,2,A,0,1,A
+RU1,NaN,Spartak Nalchik,Sibir Novosibirsk,4,2,H,2,1,H
+RU1,NaN,FK Amkar Perm,Alania Vladikavkaz,1,0,H,0,0,D
+RU1,NaN,CSKA Moskva,Anzhi Makhachkala,4,0,H,4,0,H
+RU1,NaN,Terek Grozniy,Rubin Kazan,1,1,D,1,0,H
+RU1,NaN,Lokomotiv Moskva,Spartak Moskva,2,3,A,1,2,A
+RU1,NaN,FK Rostov,Spartak Nalchik,1,1,D,0,1,A
+RU1,NaN,Spartak Moskva,FK Tom Tomsk,4,2,H,0,0,D
+RU1,NaN,Krylia Sovetov,Terek Grozniy,1,3,A,1,2,A
+RU1,NaN,Sibir Novosibirsk,FK Amkar Perm,1,0,H,0,0,D
+RU1,NaN,Dinamo Moskva,Lokomotiv Moskva,3,0,H,1,0,H
+RU1,NaN,Rubin Kazan,FK Saturn,2,0,H,1,0,H
+RU1,NaN,Alania Vladikavkaz,Anzhi Makhachkala,0,0,D,0,0,D
+RU1,NaN,Zenit St. Petersburg,CSKA Moskva,1,3,A,0,2,A
+RU1,NaN,Terek Grozniy,Spartak Moskva,2,0,H,0,0,D
+RU1,NaN,FK Amkar Perm,FK Rostov,1,0,H,1,0,H
+RU1,NaN,FK Saturn,Krylia Sovetov,1,1,D,0,0,D
+RU1,NaN,Spartak Nalchik,Rubin Kazan,1,1,D,1,1,D
+RU1,NaN,FK Tom Tomsk,Dinamo Moskva,1,0,H,0,0,D
+RU1,NaN,Lokomotiv Moskva,Zenit St. Petersburg,0,3,A,0,1,A
+RU1,NaN,CSKA Moskva,Alania Vladikavkaz,2,1,H,1,0,H
+RU1,NaN,Anzhi Makhachkala,Sibir Novosibirsk,1,0,H,0,0,D
+RU1,NaN,Sibir Novosibirsk,Alania Vladikavkaz,1,2,A,1,0,H
+RU1,NaN,Zenit St. Petersburg,FK Tom Tomsk,2,0,H,2,0,H
+RU1,NaN,Spartak Moskva,FK Saturn,2,1,H,1,1,D
+RU1,NaN,Rubin Kazan,FK Amkar Perm,3,0,H,1,0,H
+RU1,NaN,Lokomotiv Moskva,CSKA Moskva,1,0,H,1,0,H
+RU1,NaN,Krylia Sovetov,Spartak Nalchik,2,0,H,0,0,D
+RU1,NaN,Dinamo Moskva,Terek Grozniy,3,1,H,1,1,D
+RU1,NaN,FK Rostov,Anzhi Makhachkala,1,0,H,0,0,D
+RU1,NaN,FK Amkar Perm,Krylia Sovetov,2,1,H,1,1,D
+RU1,NaN,Alania Vladikavkaz,FK Rostov,0,0,D,0,0,D
+RU1,NaN,FK Saturn,Dinamo Moskva,3,2,H,2,1,H
+RU1,NaN,FK Tom Tomsk,Lokomotiv Moskva,1,1,D,1,1,D
+RU1,NaN,Anzhi Makhachkala,Rubin Kazan,0,1,A,0,0,D
+RU1,NaN,Terek Grozniy,Zenit St. Petersburg,0,0,D,0,0,D
+RU1,NaN,Spartak Nalchik,Spartak Moskva,0,2,A,0,1,A
+RU1,NaN,CSKA Moskva,Sibir Novosibirsk,1,0,H,0,0,D
+RU1,NaN,Spartak Moskva,FK Amkar Perm,2,2,D,1,1,D
+RU1,NaN,Zenit St. Petersburg,FK Saturn,6,1,H,3,1,H
+RU1,NaN,Rubin Kazan,Alania Vladikavkaz,1,0,H,1,0,H
+RU1,NaN,FK Tom Tomsk,CSKA Moskva,0,3,A,0,2,A
+RU1,NaN,Dinamo Moskva,Spartak Nalchik,0,3,A,0,1,A
+RU1,NaN,FK Rostov,Sibir Novosibirsk,0,1,A,0,1,A
+RU1,NaN,Lokomotiv Moskva,Terek Grozniy,2,1,H,2,1,H
+RU1,NaN,Krylia Sovetov,Anzhi Makhachkala,3,0,H,3,0,H
+RU1,NaN,FK Amkar Perm,Dinamo Moskva,0,1,A,0,0,D
+RU1,NaN,Alania Vladikavkaz,Krylia Sovetov,2,3,A,0,2,A
+RU1,NaN,Terek Grozniy,FK Tom Tomsk,1,0,H,1,0,H
+RU1,NaN,Sibir Novosibirsk,Rubin Kazan,2,2,D,1,0,H
+RU1,NaN,CSKA Moskva,FK Rostov,2,0,H,2,0,H
+RU1,NaN,Anzhi Makhachkala,Spartak Moskva,0,1,A,0,1,A
+RU1,NaN,Spartak Nalchik,Zenit St. Petersburg,2,3,A,1,2,A
+RU1,NaN,FK Saturn,Lokomotiv Moskva,0,1,A,0,0,D
+RU1,NaN,Spartak Moskva,Alania Vladikavkaz,3,0,H,2,0,H
+RU1,NaN,FK Tom Tomsk,FK Saturn,2,2,D,1,1,D
+RU1,NaN,Zenit St. Petersburg,FK Amkar Perm,2,0,H,0,0,D
+RU1,NaN,Rubin Kazan,FK Rostov,2,1,H,2,1,H
+RU1,NaN,Terek Grozniy,CSKA Moskva,0,3,A,0,1,A
+RU1,NaN,Dinamo Moskva,Anzhi Makhachkala,4,0,H,2,0,H
+RU1,NaN,Krylia Sovetov,Sibir Novosibirsk,1,1,D,0,1,A
+RU1,NaN,Lokomotiv Moskva,Spartak Nalchik,1,0,H,0,0,D
+RU1,NaN,Sibir Novosibirsk,Spartak Moskva,0,0,D,0,0,D
+RU1,NaN,Alania Vladikavkaz,Dinamo Moskva,0,0,D,0,0,D
+RU1,NaN,Spartak Nalchik,FK Tom Tomsk,2,1,H,0,0,D
+RU1,NaN,FK Saturn,Terek Grozniy,1,0,H,0,0,D
+RU1,NaN,FK Amkar Perm,Lokomotiv Moskva,1,2,A,1,0,H
+RU1,NaN,CSKA Moskva,Rubin Kazan,0,0,D,0,0,D
+RU1,NaN,Anzhi Makhachkala,Zenit St. Petersburg,3,3,D,1,2,A
+RU1,NaN,FK Rostov,Krylia Sovetov,1,2,A,1,1,D
+RU1,NaN,Krylia Sovetov,Rubin Kazan,0,2,A,0,0,D
+RU1,NaN,Dinamo Moskva,Sibir Novosibirsk,4,1,H,0,0,D
+RU1,NaN,Spartak Moskva,FK Rostov,2,1,H,1,1,D
+RU1,NaN,FK Tom Tomsk,FK Amkar Perm,1,0,H,0,0,D
+RU1,NaN,Terek Grozniy,Spartak Nalchik,1,1,D,1,0,H
+RU1,NaN,Zenit St. Petersburg,Alania Vladikavkaz,3,0,H,2,0,H
+RU1,NaN,Anzhi Makhachkala,Lokomotiv Moskva,0,1,A,0,0,D
+RU1,NaN,FK Saturn,CSKA Moskva,1,1,D,0,1,A
+RU1,NaN,Spartak Nalchik,FK Saturn,2,0,H,1,0,H
+RU1,NaN,FK Amkar Perm,Terek Grozniy,2,0,H,1,0,H
+RU1,NaN,Anzhi Makhachkala,FK Tom Tomsk,1,0,H,1,0,H
+RU1,NaN,FK Rostov,Dinamo Moskva,1,1,D,1,0,H
+RU1,NaN,Sibir Novosibirsk,Zenit St. Petersburg,2,5,A,2,2,D
+RU1,NaN,Alania Vladikavkaz,Lokomotiv Moskva,0,0,D,0,0,D
+RU1,NaN,CSKA Moskva,Krylia Sovetov,4,3,H,2,0,H
+RU1,NaN,Rubin Kazan,Spartak Moskva,1,1,D,0,1,A
+RU1,NaN,FK Saturn,FK Amkar Perm,2,2,D,0,0,D
+RU1,NaN,FK Tom Tomsk,Alania Vladikavkaz,1,1,D,1,0,H
+RU1,NaN,Terek Grozniy,Anzhi Makhachkala,1,3,A,1,1,D
+RU1,NaN,Dinamo Moskva,Rubin Kazan,2,2,D,2,0,H
+RU1,NaN,Spartak Nalchik,CSKA Moskva,1,1,D,0,0,D
+RU1,NaN,Zenit St. Petersburg,FK Rostov,5,0,H,1,0,H
+RU1,NaN,Lokomotiv Moskva,Sibir Novosibirsk,1,1,D,0,0,D
+RU1,NaN,Spartak Moskva,Krylia Sovetov,0,0,D,0,0,D
+RU1,NaN,CSKA Moskva,Spartak Moskva,3,1,H,0,1,A
+RU1,NaN,Anzhi Makhachkala,FK Saturn,1,2,A,0,0,D
+RU1,NaN,Alania Vladikavkaz,Terek Grozniy,2,1,H,0,1,A
+RU1,NaN,FK Amkar Perm,Spartak Nalchik,3,1,H,1,1,D
+RU1,NaN,FK Rostov,Lokomotiv Moskva,1,2,A,0,0,D
+RU1,NaN,Krylia Sovetov,Dinamo Moskva,1,0,H,0,0,D
+RU1,NaN,Rubin Kazan,Zenit St. Petersburg,2,2,D,0,1,A
+RU1,NaN,Sibir Novosibirsk,FK Tom Tomsk,0,1,A,0,0,D
+RU1,NaN,Terek Grozniy,Sibir Novosibirsk,1,1,D,1,0,H
+RU1,NaN,FK Saturn,Alania Vladikavkaz,1,1,D,1,1,D
+RU1,NaN,Lokomotiv Moskva,Rubin Kazan,0,0,D,0,0,D
+RU1,NaN,FK Tom Tomsk,FK Rostov,3,1,H,0,0,D
+RU1,NaN,Spartak Nalchik,Anzhi Makhachkala,1,3,A,0,1,A
+RU1,NaN,Dinamo Moskva,Spartak Moskva,1,1,D,1,1,D
+RU1,NaN,Zenit St. Petersburg,Krylia Sovetov,0,0,D,0,0,D
+RU1,NaN,FK Amkar Perm,CSKA Moskva,0,0,D,0,0,D
