@@ -43,3 +43,8 @@ Countires:
 - Sweden
 - Turkey
 - Ukraine
+
+Used sources:
+
+- http://www.football-data.co.uk
+- http://www.worldfootball.net/
