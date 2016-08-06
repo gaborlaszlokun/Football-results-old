@@ -39,7 +39,7 @@ Countires:
 - Scotland
 - Slovakia
 - Spain, Primera Division
-- Spain, Secunda Division
+- Spain, Segunda Division
 - Sweden
 - Turkey
 - Ukraine

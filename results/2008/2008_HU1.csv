@@ -1,241 +1,241 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-HU1,NaN,Kaposvári RFC,MTK Budapest,3,1,H,3,0,H
-HU1,NaN,Debreceni VSC,Zalaegerszegi TE FC,2,1,H,1,1,D
-HU1,NaN,BFC Siófok,Videoton FC,1,0,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Győri ETO FC,2,1,H,2,0,H
-HU1,NaN,Rákospalotai EAC,Diósgyöri VTK,1,1,D,1,1,D
-HU1,NaN,Újpest FC,Nyíregyháza Spartacus,1,0,H,1,0,H
-HU1,NaN,Kecskeméti TE,Paksi SE,1,2,A,1,1,D
-HU1,NaN,Budapest Honvéd,Budapesti Vasas,0,1,A,0,0,D
-HU1,NaN,Budapesti Vasas,Újpest FC,4,2,H,2,0,H
-HU1,NaN,Zalaegerszegi TE FC,Kecskeméti TE,1,0,H,1,0,H
-HU1,NaN,Videoton FC,Szombathelyi Haladás,1,0,H,1,0,H
-HU1,NaN,Nyíregyháza Spartacus,BFC Siófok,1,0,H,0,0,D
-HU1,NaN,Diósgyöri VTK,Kaposvári RFC,1,0,H,1,0,H
-HU1,NaN,Paksi SE,Rákospalotai EAC,1,3,A,0,2,A
-HU1,NaN,MTK Budapest,Budapest Honvéd,1,1,D,1,1,D
-HU1,NaN,Győri ETO FC,Debreceni VSC,0,3,A,0,3,A
-HU1,NaN,Budapest Honvéd,Diósgyöri VTK,3,1,H,1,0,H
-HU1,NaN,Budapesti Vasas,MTK Budapest,0,4,A,0,2,A
-HU1,NaN,Kaposvári RFC,Paksi SE,3,5,A,1,4,A
-HU1,NaN,BFC Siófok,Újpest FC,0,1,A,0,0,D
-HU1,NaN,Szombathelyi Haladás,Nyíregyháza Spartacus,3,0,H,2,0,H
-HU1,NaN,Rákospalotai EAC,Zalaegerszegi TE FC,2,3,A,1,1,D
-HU1,NaN,Debreceni VSC,Videoton FC,1,0,H,1,0,H
-HU1,NaN,Kecskeméti TE,Győri ETO FC,1,0,H,0,0,D
-HU1,NaN,Újpest FC,Szombathelyi Haladás,1,0,H,1,0,H
-HU1,NaN,Zalaegerszegi TE FC,Kaposvári RFC,1,1,D,0,0,D
-HU1,NaN,Videoton FC,Kecskeméti TE,1,2,A,0,1,A
-HU1,NaN,Diósgyöri VTK,MTK Budapest,2,3,A,1,1,D
-HU1,NaN,Paksi SE,Budapest Honvéd,1,1,D,1,0,H
-HU1,NaN,BFC Siófok,Budapesti Vasas,0,1,A,0,0,D
-HU1,NaN,Győri ETO FC,Rákospalotai EAC,4,2,H,0,1,A
-HU1,NaN,Nyíregyháza Spartacus,Debreceni VSC,1,1,D,0,1,A
-HU1,NaN,Budapesti Vasas,Diósgyöri VTK,3,2,H,2,0,H
-HU1,NaN,Szombathelyi Haladás,BFC Siófok,5,0,H,2,0,H
-HU1,NaN,Kecskeméti TE,Nyíregyháza Spartacus,1,1,D,0,0,D
-HU1,NaN,Rákospalotai EAC,Videoton FC,1,2,A,1,0,H
-HU1,NaN,Kaposvári RFC,Győri ETO FC,0,1,A,0,0,D
-HU1,NaN,MTK Budapest,Paksi SE,3,2,H,1,1,D
-HU1,NaN,Debreceni VSC,Újpest FC,1,1,D,0,0,D
-HU1,NaN,Budapest Honvéd,Zalaegerszegi TE FC,3,1,H,3,1,H
-HU1,NaN,Zalaegerszegi TE FC,MTK Budapest,3,1,H,1,0,H
-HU1,NaN,Újpest FC,Kecskeméti TE,4,3,H,2,0,H
-HU1,NaN,Szombathelyi Haladás,Budapesti Vasas,1,0,H,1,0,H
-HU1,NaN,Videoton FC,Kaposvári RFC,1,1,D,1,1,D
-HU1,NaN,Nyíregyháza Spartacus,Rákospalotai EAC,4,0,H,2,0,H
-HU1,NaN,Paksi SE,Diósgyöri VTK,1,1,D,1,1,D
-HU1,NaN,Győri ETO FC,Budapest Honvéd,4,1,H,2,1,H
-HU1,NaN,BFC Siófok,Debreceni VSC,0,4,A,0,2,A
-HU1,NaN,Debreceni VSC,Szombathelyi Haladás,2,2,D,1,0,H
-HU1,NaN,MTK Budapest,Győri ETO FC,1,1,D,0,1,A
-HU1,NaN,Kecskeméti TE,BFC Siófok,3,0,H,1,0,H
-HU1,NaN,Budapesti Vasas,Paksi SE,5,0,H,1,0,H
-HU1,NaN,Kaposvári RFC,Nyíregyháza Spartacus,1,0,H,1,0,H
-HU1,NaN,Budapest Honvéd,Videoton FC,1,2,A,1,1,D
-HU1,NaN,Diósgyöri VTK,Zalaegerszegi TE FC,2,1,H,1,1,D
-HU1,NaN,Rákospalotai EAC,Újpest FC,1,3,A,1,3,A
-HU1,NaN,Videoton FC,MTK Budapest,0,2,A,0,0,D
-HU1,NaN,Debreceni VSC,Budapesti Vasas,4,1,H,0,1,A
-HU1,NaN,BFC Siófok,Rákospalotai EAC,1,1,D,1,0,H
-HU1,NaN,Zalaegerszegi TE FC,Paksi SE,1,1,D,0,0,D
-HU1,NaN,Szombathelyi Haladás,Kecskeméti TE,3,1,H,2,0,H
-HU1,NaN,Győri ETO FC,Diósgyöri VTK,6,0,H,4,0,H
-HU1,NaN,Nyíregyháza Spartacus,Budapest Honvéd,3,0,H,1,0,H
-HU1,NaN,Újpest FC,Kaposvári RFC,3,2,H,2,0,H
-HU1,NaN,Kecskeméti TE,Debreceni VSC,3,0,H,2,0,H
-HU1,NaN,Budapest Honvéd,Újpest FC,1,1,D,1,1,D
-HU1,NaN,Diósgyöri VTK,Videoton FC,0,1,A,0,1,A
-HU1,NaN,Paksi SE,Győri ETO FC,2,1,H,1,1,D
-HU1,NaN,Budapesti Vasas,Zalaegerszegi TE FC,3,1,H,0,0,D
-HU1,NaN,Kaposvári RFC,BFC Siófok,1,0,H,0,0,D
-HU1,NaN,MTK Budapest,Nyíregyháza Spartacus,1,2,A,1,1,D
-HU1,NaN,Rákospalotai EAC,Szombathelyi Haladás,1,2,A,0,1,A
-HU1,NaN,BFC Siófok,Budapest Honvéd,0,1,A,0,1,A
-HU1,NaN,Újpest FC,MTK Budapest,4,1,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Kaposvári RFC,1,1,D,1,0,H
-HU1,NaN,Debreceni VSC,Rákospalotai EAC,6,2,H,3,1,H
-HU1,NaN,Videoton FC,Paksi SE,4,1,H,1,1,D
-HU1,NaN,Kecskeméti TE,Budapesti Vasas,2,0,H,2,0,H
-HU1,NaN,Nyíregyháza Spartacus,Diósgyöri VTK,2,2,D,1,2,A
-HU1,NaN,Győri ETO FC,Zalaegerszegi TE FC,1,0,H,0,0,D
-HU1,NaN,Budapesti Vasas,Győri ETO FC,2,1,H,0,1,A
-HU1,NaN,Budapest Honvéd,Szombathelyi Haladás,0,1,A,0,0,D
-HU1,NaN,Kaposvári RFC,Debreceni VSC,0,1,A,0,1,A
-HU1,NaN,MTK Budapest,BFC Siófok,2,1,H,0,0,D
-HU1,NaN,Paksi SE,Nyíregyháza Spartacus,1,2,A,1,1,D
-HU1,NaN,Zalaegerszegi TE FC,Videoton FC,2,0,H,1,0,H
-HU1,NaN,Rákospalotai EAC,Kecskeméti TE,0,1,A,0,0,D
-HU1,NaN,Diósgyöri VTK,Újpest FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Budapest Honvéd,4,1,H,2,0,H
-HU1,NaN,Szombathelyi Haladás,MTK Budapest,0,0,D,NoR,NoR,NoR
-HU1,NaN,BFC Siófok,Diósgyöri VTK,4,1,H,1,0,H
-HU1,NaN,Videoton FC,Győri ETO FC,3,2,H,2,1,H
-HU1,NaN,Kecskeméti TE,Kaposvári RFC,3,4,A,2,2,D
-HU1,NaN,Rákospalotai EAC,Budapesti Vasas,0,2,A,0,0,D
-HU1,NaN,Újpest FC,Paksi SE,3,1,H,0,0,D
-HU1,NaN,Nyíregyháza Spartacus,Zalaegerszegi TE FC,1,1,D,0,0,D
-HU1,NaN,Zalaegerszegi TE FC,Újpest FC,2,2,D,1,2,A
-HU1,NaN,Budapesti Vasas,Videoton FC,4,1,H,2,1,H
-HU1,NaN,Győri ETO FC,Nyíregyháza Spartacus,0,1,A,0,0,D
-HU1,NaN,Kaposvári RFC,Rákospalotai EAC,4,1,H,2,0,H
-HU1,NaN,Budapest Honvéd,Kecskeméti TE,2,2,D,0,1,A
-HU1,NaN,Diósgyöri VTK,Szombathelyi Haladás,1,0,H,1,0,H
-HU1,NaN,Paksi SE,BFC Siófok,2,1,H,0,1,A
-HU1,NaN,MTK Budapest,Debreceni VSC,0,1,A,0,0,D
-HU1,NaN,Újpest FC,Győri ETO FC,1,1,D,1,1,D
-HU1,NaN,Kecskeméti TE,MTK Budapest,0,0,D,NoR,NoR,NoR
-HU1,NaN,Kaposvári RFC,Budapesti Vasas,4,0,H,2,0,H
-HU1,NaN,Szombathelyi Haladás,Paksi SE,0,1,A,0,1,A
-HU1,NaN,Debreceni VSC,Diósgyöri VTK,1,2,A,1,0,H
-HU1,NaN,Nyíregyháza Spartacus,Videoton FC,1,1,D,1,0,H
-HU1,NaN,Rákospalotai EAC,Budapest Honvéd,2,5,A,1,2,A
-HU1,NaN,BFC Siófok,Zalaegerszegi TE FC,1,4,A,1,1,D
-HU1,NaN,Paksi SE,Debreceni VSC,0,2,A,0,2,A
-HU1,NaN,MTK Budapest,Rákospalotai EAC,0,2,A,0,0,D
-HU1,NaN,Zalaegerszegi TE FC,Szombathelyi Haladás,3,2,H,2,0,H
-HU1,NaN,Győri ETO FC,BFC Siófok,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Nyíregyháza Spartacus,1,1,D,1,0,H
-HU1,NaN,Budapest Honvéd,Kaposvári RFC,2,1,H,2,0,H
-HU1,NaN,Diósgyöri VTK,Kecskeméti TE,1,0,H,1,0,H
-HU1,NaN,Videoton FC,Újpest FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Budapest Honvéd,3,1,H,3,0,H
-HU1,NaN,Diósgyöri VTK,Rákospalotai EAC,2,1,H,1,1,D
-HU1,NaN,MTK Budapest,Kaposvári RFC,2,1,H,0,0,D
-HU1,NaN,Videoton FC,BFC Siófok,2,1,H,1,0,H
-HU1,NaN,Paksi SE,Kecskeméti TE,2,2,D,1,2,A
-HU1,NaN,Nyíregyháza Spartacus,Újpest FC,1,3,A,1,1,D
-HU1,NaN,Zalaegerszegi TE FC,Debreceni VSC,2,1,H,1,1,D
-HU1,NaN,Győri ETO FC,Szombathelyi Haladás,3,3,D,1,0,H
-HU1,NaN,Budapest Honvéd,MTK Budapest,0,3,A,0,0,D
-HU1,NaN,Szombathelyi Haladás,Videoton FC,2,1,H,0,1,A
-HU1,NaN,Újpest FC,Budapesti Vasas,3,1,H,3,1,H
-HU1,NaN,BFC Siófok,Nyíregyháza Spartacus,3,1,H,3,0,H
-HU1,NaN,Kaposvári RFC,Diósgyöri VTK,1,0,H,1,0,H
-HU1,NaN,Rákospalotai EAC,Paksi SE,1,2,A,1,2,A
-HU1,NaN,Kecskeméti TE,Zalaegerszegi TE FC,2,0,H,2,0,H
-HU1,NaN,Debreceni VSC,Győri ETO FC,2,2,D,1,1,D
-HU1,NaN,Videoton FC,Debreceni VSC,0,1,A,0,1,A
-HU1,NaN,MTK Budapest,Budapesti Vasas,3,0,H,0,0,D
-HU1,NaN,Zalaegerszegi TE FC,Rákospalotai EAC,2,1,H,0,0,D
-HU1,NaN,Paksi SE,Kaposvári RFC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,BFC Siófok,2,0,H,0,0,D
-HU1,NaN,Diósgyöri VTK,Budapest Honvéd,0,0,D,NoR,NoR,NoR
-HU1,NaN,Nyíregyháza Spartacus,Szombathelyi Haladás,0,2,A,0,0,D
-HU1,NaN,Győri ETO FC,Kecskeméti TE,2,0,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Újpest FC,0,2,A,0,1,A
-HU1,NaN,Debreceni VSC,Nyíregyháza Spartacus,4,0,H,1,0,H
-HU1,NaN,Budapest Honvéd,Paksi SE,1,1,D,0,0,D
-HU1,NaN,Budapesti Vasas,BFC Siófok,0,1,A,0,0,D
-HU1,NaN,Rákospalotai EAC,Győri ETO FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Kecskeméti TE,Videoton FC,2,1,H,2,0,H
-HU1,NaN,MTK Budapest,Diósgyöri VTK,2,0,H,2,0,H
-HU1,NaN,Kaposvári RFC,Zalaegerszegi TE FC,1,2,A,0,1,A
-HU1,NaN,Újpest FC,Debreceni VSC,2,0,H,1,0,H
-HU1,NaN,Zalaegerszegi TE FC,Budapest Honvéd,1,1,D,0,0,D
-HU1,NaN,BFC Siófok,Szombathelyi Haladás,0,1,A,0,0,D
-HU1,NaN,Nyíregyháza Spartacus,Kecskeméti TE,3,3,D,2,1,H
-HU1,NaN,Videoton FC,Rákospalotai EAC,4,0,H,2,0,H
-HU1,NaN,Győri ETO FC,Kaposvári RFC,1,1,D,1,0,H
-HU1,NaN,Paksi SE,MTK Budapest,0,1,A,0,0,D
-HU1,NaN,Diósgyöri VTK,Budapesti Vasas,1,0,H,0,0,D
-HU1,NaN,Budapest Honvéd,Győri ETO FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Kecskeméti TE,Újpest FC,2,2,D,1,1,D
-HU1,NaN,Rákospalotai EAC,Nyíregyháza Spartacus,1,1,D,1,0,H
-HU1,NaN,Diósgyöri VTK,Paksi SE,1,0,H,0,0,D
-HU1,NaN,Debreceni VSC,BFC Siófok,5,1,H,3,1,H
-HU1,NaN,MTK Budapest,Zalaegerszegi TE FC,0,2,A,0,0,D
-HU1,NaN,Kaposvári RFC,Videoton FC,1,1,D,1,0,H
-HU1,NaN,Budapesti Vasas,Szombathelyi Haladás,1,1,D,0,1,A
-HU1,NaN,Győri ETO FC,MTK Budapest,3,1,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Debreceni VSC,1,2,A,0,1,A
-HU1,NaN,Videoton FC,Budapest Honvéd,0,2,A,0,2,A
-HU1,NaN,BFC Siófok,Kecskeméti TE,2,0,H,1,0,H
-HU1,NaN,Újpest FC,Rákospalotai EAC,3,0,H,1,0,H
-HU1,NaN,Paksi SE,Budapesti Vasas,3,0,H,1,0,H
-HU1,NaN,Nyíregyháza Spartacus,Kaposvári RFC,0,1,A,0,1,A
-HU1,NaN,Zalaegerszegi TE FC,Diósgyöri VTK,1,0,H,0,0,D
-HU1,NaN,MTK Budapest,Videoton FC,0,4,A,0,1,A
-HU1,NaN,Kaposvári RFC,Újpest FC,2,3,A,2,1,H
-HU1,NaN,Budapest Honvéd,Nyíregyháza Spartacus,1,0,H,0,0,D
-HU1,NaN,Rákospalotai EAC,BFC Siófok,3,1,H,1,0,H
-HU1,NaN,Paksi SE,Zalaegerszegi TE FC,1,1,D,0,0,D
-HU1,NaN,Diósgyöri VTK,Győri ETO FC,2,3,A,1,1,D
-HU1,NaN,Kecskeméti TE,Szombathelyi Haladás,3,2,H,1,1,D
-HU1,NaN,Budapesti Vasas,Debreceni VSC,1,3,A,0,2,A
-HU1,NaN,Újpest FC,Budapest Honvéd,3,0,H,1,0,H
-HU1,NaN,Debreceni VSC,Kecskeméti TE,3,1,H,1,1,D
-HU1,NaN,Szombathelyi Haladás,Rákospalotai EAC,1,0,H,1,0,H
-HU1,NaN,Zalaegerszegi TE FC,Budapesti Vasas,3,1,H,1,1,D
-HU1,NaN,BFC Siófok,Kaposvári RFC,2,5,A,0,2,A
-HU1,NaN,Nyíregyháza Spartacus,MTK Budapest,0,0,D,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Diósgyöri VTK,2,1,H,2,1,H
-HU1,NaN,Győri ETO FC,Paksi SE,4,1,H,3,1,H
-HU1,NaN,Paksi SE,Videoton FC,0,1,A,0,0,D
-HU1,NaN,Budapesti Vasas,Kecskeméti TE,1,2,A,0,2,A
-HU1,NaN,Diósgyöri VTK,Nyíregyháza Spartacus,1,0,H,1,0,H
-HU1,NaN,Budapest Honvéd,BFC Siófok,0,2,A,0,0,D
-HU1,NaN,Kaposvári RFC,Szombathelyi Haladás,2,3,A,0,0,D
-HU1,NaN,Zalaegerszegi TE FC,Győri ETO FC,2,7,A,2,1,H
-HU1,NaN,Rákospalotai EAC,Debreceni VSC,0,4,A,0,2,A
-HU1,NaN,MTK Budapest,Újpest FC,3,2,H,1,1,D
-HU1,NaN,Videoton FC,Zalaegerszegi TE FC,1,1,D,1,0,H
-HU1,NaN,Kecskeméti TE,Rákospalotai EAC,5,3,H,2,3,A
-HU1,NaN,Győri ETO FC,Budapesti Vasas,1,1,D,1,0,H
-HU1,NaN,Debreceni VSC,Kaposvári RFC,4,1,H,3,0,H
-HU1,NaN,Szombathelyi Haladás,Budapest Honvéd,1,0,H,1,0,H
-HU1,NaN,Nyíregyháza Spartacus,Paksi SE,2,2,D,0,0,D
-HU1,NaN,BFC Siófok,MTK Budapest,0,1,A,0,0,D
-HU1,NaN,Újpest FC,Diósgyöri VTK,2,2,D,0,0,D
-HU1,NaN,MTK Budapest,Szombathelyi Haladás,0,1,A,0,1,A
-HU1,NaN,Budapest Honvéd,Debreceni VSC,0,1,A,0,0,D
-HU1,NaN,Győri ETO FC,Videoton FC,1,2,A,1,1,D
-HU1,NaN,Kaposvári RFC,Kecskeméti TE,2,1,H,1,1,D
-HU1,NaN,Zalaegerszegi TE FC,Nyíregyháza Spartacus,2,0,H,1,0,H
-HU1,NaN,Budapesti Vasas,Rákospalotai EAC,1,1,D,1,0,H
-HU1,NaN,Paksi SE,Újpest FC,3,1,H,0,1,A
-HU1,NaN,Diósgyöri VTK,BFC Siófok,0,1,A,0,0,D
-HU1,NaN,Újpest FC,Zalaegerszegi TE FC,2,1,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Diósgyöri VTK,1,0,H,0,0,D
-HU1,NaN,BFC Siófok,Paksi SE,1,2,A,0,1,A
-HU1,NaN,Nyíregyháza Spartacus,Győri ETO FC,1,1,D,0,0,D
-HU1,NaN,Videoton FC,Budapesti Vasas,2,2,D,1,1,D
-HU1,NaN,Rákospalotai EAC,Kaposvári RFC,3,3,D,1,2,A
-HU1,NaN,Kecskeméti TE,Budapest Honvéd,3,1,H,0,1,A
-HU1,NaN,Debreceni VSC,MTK Budapest,2,2,D,0,0,D
-HU1,NaN,Diósgyöri VTK,Debreceni VSC,2,3,A,0,0,D
-HU1,NaN,Győri ETO FC,Újpest FC,4,3,H,2,3,A
-HU1,NaN,MTK Budapest,Kecskeméti TE,1,4,A,0,3,A
-HU1,NaN,Videoton FC,Nyíregyháza Spartacus,2,0,H,1,0,H
-HU1,NaN,Budapest Honvéd,Rákospalotai EAC,1,0,H,1,0,H
-HU1,NaN,Budapesti Vasas,Kaposvári RFC,2,1,H,1,1,D
-HU1,NaN,Zalaegerszegi TE FC,BFC Siófok,5,3,H,3,2,H
-HU1,NaN,Paksi SE,Szombathelyi Haladás,0,2,A,0,0,D
-HU1,NaN,Újpest FC,Videoton FC,1,2,A,0,2,A
-HU1,NaN,Debreceni VSC,Paksi SE,2,0,H,1,0,H
-HU1,NaN,Rákospalotai EAC,MTK Budapest,0,4,A,0,2,A
-HU1,NaN,Kaposvári RFC,Budapest Honvéd,3,1,H,2,0,H
-HU1,NaN,Kecskeméti TE,Diósgyöri VTK,2,0,H,1,0,H
-HU1,NaN,Szombathelyi Haladás,Zalaegerszegi TE FC,1,2,A,0,0,D
-HU1,NaN,BFC Siófok,Győri ETO FC,3,2,H,2,0,H
-HU1,NaN,Nyíregyháza Spartacus,Budapesti Vasas,3,1,H,1,0,H
+HU1,,Kaposvári RFC,MTK Budapest,3,1,H,3,0,H
+HU1,,Debreceni VSC,Zalaegerszegi TE FC,2,1,H,1,1,D
+HU1,,BFC Siófok,Videoton FC,1,0,H,1,0,H
+HU1,,Szombathelyi Haladás,Győri ETO FC,2,1,H,2,0,H
+HU1,,Rákospalotai EAC,Diósgyöri VTK,1,1,D,1,1,D
+HU1,,Újpest FC,Nyíregyháza Spartacus,1,0,H,1,0,H
+HU1,,Kecskeméti TE,Paksi SE,1,2,A,1,1,D
+HU1,,Budapest Honvéd,Budapesti Vasas,0,1,A,0,0,D
+HU1,,Budapesti Vasas,Újpest FC,4,2,H,2,0,H
+HU1,,Zalaegerszegi TE FC,Kecskeméti TE,1,0,H,1,0,H
+HU1,,Videoton FC,Szombathelyi Haladás,1,0,H,1,0,H
+HU1,,Nyíregyháza Spartacus,BFC Siófok,1,0,H,0,0,D
+HU1,,Diósgyöri VTK,Kaposvári RFC,1,0,H,1,0,H
+HU1,,Paksi SE,Rákospalotai EAC,1,3,A,0,2,A
+HU1,,MTK Budapest,Budapest Honvéd,1,1,D,1,1,D
+HU1,,Győri ETO FC,Debreceni VSC,0,3,A,0,3,A
+HU1,,Budapest Honvéd,Diósgyöri VTK,3,1,H,1,0,H
+HU1,,Budapesti Vasas,MTK Budapest,0,4,A,0,2,A
+HU1,,Kaposvári RFC,Paksi SE,3,5,A,1,4,A
+HU1,,BFC Siófok,Újpest FC,0,1,A,0,0,D
+HU1,,Szombathelyi Haladás,Nyíregyháza Spartacus,3,0,H,2,0,H
+HU1,,Rákospalotai EAC,Zalaegerszegi TE FC,2,3,A,1,1,D
+HU1,,Debreceni VSC,Videoton FC,1,0,H,1,0,H
+HU1,,Kecskeméti TE,Győri ETO FC,1,0,H,0,0,D
+HU1,,Újpest FC,Szombathelyi Haladás,1,0,H,1,0,H
+HU1,,Zalaegerszegi TE FC,Kaposvári RFC,1,1,D,0,0,D
+HU1,,Videoton FC,Kecskeméti TE,1,2,A,0,1,A
+HU1,,Diósgyöri VTK,MTK Budapest,2,3,A,1,1,D
+HU1,,Paksi SE,Budapest Honvéd,1,1,D,1,0,H
+HU1,,BFC Siófok,Budapesti Vasas,0,1,A,0,0,D
+HU1,,Győri ETO FC,Rákospalotai EAC,4,2,H,0,1,A
+HU1,,Nyíregyháza Spartacus,Debreceni VSC,1,1,D,0,1,A
+HU1,,Budapesti Vasas,Diósgyöri VTK,3,2,H,2,0,H
+HU1,,Szombathelyi Haladás,BFC Siófok,5,0,H,2,0,H
+HU1,,Kecskeméti TE,Nyíregyháza Spartacus,1,1,D,0,0,D
+HU1,,Rákospalotai EAC,Videoton FC,1,2,A,1,0,H
+HU1,,Kaposvári RFC,Győri ETO FC,0,1,A,0,0,D
+HU1,,MTK Budapest,Paksi SE,3,2,H,1,1,D
+HU1,,Debreceni VSC,Újpest FC,1,1,D,0,0,D
+HU1,,Budapest Honvéd,Zalaegerszegi TE FC,3,1,H,3,1,H
+HU1,,Zalaegerszegi TE FC,MTK Budapest,3,1,H,1,0,H
+HU1,,Újpest FC,Kecskeméti TE,4,3,H,2,0,H
+HU1,,Szombathelyi Haladás,Budapesti Vasas,1,0,H,1,0,H
+HU1,,Videoton FC,Kaposvári RFC,1,1,D,1,1,D
+HU1,,Nyíregyháza Spartacus,Rákospalotai EAC,4,0,H,2,0,H
+HU1,,Paksi SE,Diósgyöri VTK,1,1,D,1,1,D
+HU1,,Győri ETO FC,Budapest Honvéd,4,1,H,2,1,H
+HU1,,BFC Siófok,Debreceni VSC,0,4,A,0,2,A
+HU1,,Debreceni VSC,Szombathelyi Haladás,2,2,D,1,0,H
+HU1,,MTK Budapest,Győri ETO FC,1,1,D,0,1,A
+HU1,,Kecskeméti TE,BFC Siófok,3,0,H,1,0,H
+HU1,,Budapesti Vasas,Paksi SE,5,0,H,1,0,H
+HU1,,Kaposvári RFC,Nyíregyháza Spartacus,1,0,H,1,0,H
+HU1,,Budapest Honvéd,Videoton FC,1,2,A,1,1,D
+HU1,,Diósgyöri VTK,Zalaegerszegi TE FC,2,1,H,1,1,D
+HU1,,Rákospalotai EAC,Újpest FC,1,3,A,1,3,A
+HU1,,Videoton FC,MTK Budapest,0,2,A,0,0,D
+HU1,,Debreceni VSC,Budapesti Vasas,4,1,H,0,1,A
+HU1,,BFC Siófok,Rákospalotai EAC,1,1,D,1,0,H
+HU1,,Zalaegerszegi TE FC,Paksi SE,1,1,D,0,0,D
+HU1,,Szombathelyi Haladás,Kecskeméti TE,3,1,H,2,0,H
+HU1,,Győri ETO FC,Diósgyöri VTK,6,0,H,4,0,H
+HU1,,Nyíregyháza Spartacus,Budapest Honvéd,3,0,H,1,0,H
+HU1,,Újpest FC,Kaposvári RFC,3,2,H,2,0,H
+HU1,,Kecskeméti TE,Debreceni VSC,3,0,H,2,0,H
+HU1,,Budapest Honvéd,Újpest FC,1,1,D,1,1,D
+HU1,,Diósgyöri VTK,Videoton FC,0,1,A,0,1,A
+HU1,,Paksi SE,Győri ETO FC,2,1,H,1,1,D
+HU1,,Budapesti Vasas,Zalaegerszegi TE FC,3,1,H,0,0,D
+HU1,,Kaposvári RFC,BFC Siófok,1,0,H,0,0,D
+HU1,,MTK Budapest,Nyíregyháza Spartacus,1,2,A,1,1,D
+HU1,,Rákospalotai EAC,Szombathelyi Haladás,1,2,A,0,1,A
+HU1,,BFC Siófok,Budapest Honvéd,0,1,A,0,1,A
+HU1,,Újpest FC,MTK Budapest,4,1,H,1,0,H
+HU1,,Szombathelyi Haladás,Kaposvári RFC,1,1,D,1,0,H
+HU1,,Debreceni VSC,Rákospalotai EAC,6,2,H,3,1,H
+HU1,,Videoton FC,Paksi SE,4,1,H,1,1,D
+HU1,,Kecskeméti TE,Budapesti Vasas,2,0,H,2,0,H
+HU1,,Nyíregyháza Spartacus,Diósgyöri VTK,2,2,D,1,2,A
+HU1,,Győri ETO FC,Zalaegerszegi TE FC,1,0,H,0,0,D
+HU1,,Budapesti Vasas,Győri ETO FC,2,1,H,0,1,A
+HU1,,Budapest Honvéd,Szombathelyi Haladás,0,1,A,0,0,D
+HU1,,Kaposvári RFC,Debreceni VSC,0,1,A,0,1,A
+HU1,,MTK Budapest,BFC Siófok,2,1,H,0,0,D
+HU1,,Paksi SE,Nyíregyháza Spartacus,1,2,A,1,1,D
+HU1,,Zalaegerszegi TE FC,Videoton FC,2,0,H,1,0,H
+HU1,,Rákospalotai EAC,Kecskeméti TE,0,1,A,0,0,D
+HU1,,Diósgyöri VTK,Újpest FC,0,0,D,NoR,NoR,NoR
+HU1,,Debreceni VSC,Budapest Honvéd,4,1,H,2,0,H
+HU1,,Szombathelyi Haladás,MTK Budapest,0,0,D,NoR,NoR,NoR
+HU1,,BFC Siófok,Diósgyöri VTK,4,1,H,1,0,H
+HU1,,Videoton FC,Győri ETO FC,3,2,H,2,1,H
+HU1,,Kecskeméti TE,Kaposvári RFC,3,4,A,2,2,D
+HU1,,Rákospalotai EAC,Budapesti Vasas,0,2,A,0,0,D
+HU1,,Újpest FC,Paksi SE,3,1,H,0,0,D
+HU1,,Nyíregyháza Spartacus,Zalaegerszegi TE FC,1,1,D,0,0,D
+HU1,,Zalaegerszegi TE FC,Újpest FC,2,2,D,1,2,A
+HU1,,Budapesti Vasas,Videoton FC,4,1,H,2,1,H
+HU1,,Győri ETO FC,Nyíregyháza Spartacus,0,1,A,0,0,D
+HU1,,Kaposvári RFC,Rákospalotai EAC,4,1,H,2,0,H
+HU1,,Budapest Honvéd,Kecskeméti TE,2,2,D,0,1,A
+HU1,,Diósgyöri VTK,Szombathelyi Haladás,1,0,H,1,0,H
+HU1,,Paksi SE,BFC Siófok,2,1,H,0,1,A
+HU1,,MTK Budapest,Debreceni VSC,0,1,A,0,0,D
+HU1,,Újpest FC,Győri ETO FC,1,1,D,1,1,D
+HU1,,Kecskeméti TE,MTK Budapest,0,0,D,NoR,NoR,NoR
+HU1,,Kaposvári RFC,Budapesti Vasas,4,0,H,2,0,H
+HU1,,Szombathelyi Haladás,Paksi SE,0,1,A,0,1,A
+HU1,,Debreceni VSC,Diósgyöri VTK,1,2,A,1,0,H
+HU1,,Nyíregyháza Spartacus,Videoton FC,1,1,D,1,0,H
+HU1,,Rákospalotai EAC,Budapest Honvéd,2,5,A,1,2,A
+HU1,,BFC Siófok,Zalaegerszegi TE FC,1,4,A,1,1,D
+HU1,,Paksi SE,Debreceni VSC,0,2,A,0,2,A
+HU1,,MTK Budapest,Rákospalotai EAC,0,2,A,0,0,D
+HU1,,Zalaegerszegi TE FC,Szombathelyi Haladás,3,2,H,2,0,H
+HU1,,Győri ETO FC,BFC Siófok,0,0,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Nyíregyháza Spartacus,1,1,D,1,0,H
+HU1,,Budapest Honvéd,Kaposvári RFC,2,1,H,2,0,H
+HU1,,Diósgyöri VTK,Kecskeméti TE,1,0,H,1,0,H
+HU1,,Videoton FC,Újpest FC,0,0,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Budapest Honvéd,3,1,H,3,0,H
+HU1,,Diósgyöri VTK,Rákospalotai EAC,2,1,H,1,1,D
+HU1,,MTK Budapest,Kaposvári RFC,2,1,H,0,0,D
+HU1,,Videoton FC,BFC Siófok,2,1,H,1,0,H
+HU1,,Paksi SE,Kecskeméti TE,2,2,D,1,2,A
+HU1,,Nyíregyháza Spartacus,Újpest FC,1,3,A,1,1,D
+HU1,,Zalaegerszegi TE FC,Debreceni VSC,2,1,H,1,1,D
+HU1,,Győri ETO FC,Szombathelyi Haladás,3,3,D,1,0,H
+HU1,,Budapest Honvéd,MTK Budapest,0,3,A,0,0,D
+HU1,,Szombathelyi Haladás,Videoton FC,2,1,H,0,1,A
+HU1,,Újpest FC,Budapesti Vasas,3,1,H,3,1,H
+HU1,,BFC Siófok,Nyíregyháza Spartacus,3,1,H,3,0,H
+HU1,,Kaposvári RFC,Diósgyöri VTK,1,0,H,1,0,H
+HU1,,Rákospalotai EAC,Paksi SE,1,2,A,1,2,A
+HU1,,Kecskeméti TE,Zalaegerszegi TE FC,2,0,H,2,0,H
+HU1,,Debreceni VSC,Győri ETO FC,2,2,D,1,1,D
+HU1,,Videoton FC,Debreceni VSC,0,1,A,0,1,A
+HU1,,MTK Budapest,Budapesti Vasas,3,0,H,0,0,D
+HU1,,Zalaegerszegi TE FC,Rákospalotai EAC,2,1,H,0,0,D
+HU1,,Paksi SE,Kaposvári RFC,0,0,D,NoR,NoR,NoR
+HU1,,Újpest FC,BFC Siófok,2,0,H,0,0,D
+HU1,,Diósgyöri VTK,Budapest Honvéd,0,0,D,NoR,NoR,NoR
+HU1,,Nyíregyháza Spartacus,Szombathelyi Haladás,0,2,A,0,0,D
+HU1,,Győri ETO FC,Kecskeméti TE,2,0,H,1,0,H
+HU1,,Szombathelyi Haladás,Újpest FC,0,2,A,0,1,A
+HU1,,Debreceni VSC,Nyíregyháza Spartacus,4,0,H,1,0,H
+HU1,,Budapest Honvéd,Paksi SE,1,1,D,0,0,D
+HU1,,Budapesti Vasas,BFC Siófok,0,1,A,0,0,D
+HU1,,Rákospalotai EAC,Győri ETO FC,0,0,D,NoR,NoR,NoR
+HU1,,Kecskeméti TE,Videoton FC,2,1,H,2,0,H
+HU1,,MTK Budapest,Diósgyöri VTK,2,0,H,2,0,H
+HU1,,Kaposvári RFC,Zalaegerszegi TE FC,1,2,A,0,1,A
+HU1,,Újpest FC,Debreceni VSC,2,0,H,1,0,H
+HU1,,Zalaegerszegi TE FC,Budapest Honvéd,1,1,D,0,0,D
+HU1,,BFC Siófok,Szombathelyi Haladás,0,1,A,0,0,D
+HU1,,Nyíregyháza Spartacus,Kecskeméti TE,3,3,D,2,1,H
+HU1,,Videoton FC,Rákospalotai EAC,4,0,H,2,0,H
+HU1,,Győri ETO FC,Kaposvári RFC,1,1,D,1,0,H
+HU1,,Paksi SE,MTK Budapest,0,1,A,0,0,D
+HU1,,Diósgyöri VTK,Budapesti Vasas,1,0,H,0,0,D
+HU1,,Budapest Honvéd,Győri ETO FC,0,0,D,NoR,NoR,NoR
+HU1,,Kecskeméti TE,Újpest FC,2,2,D,1,1,D
+HU1,,Rákospalotai EAC,Nyíregyháza Spartacus,1,1,D,1,0,H
+HU1,,Diósgyöri VTK,Paksi SE,1,0,H,0,0,D
+HU1,,Debreceni VSC,BFC Siófok,5,1,H,3,1,H
+HU1,,MTK Budapest,Zalaegerszegi TE FC,0,2,A,0,0,D
+HU1,,Kaposvári RFC,Videoton FC,1,1,D,1,0,H
+HU1,,Budapesti Vasas,Szombathelyi Haladás,1,1,D,0,1,A
+HU1,,Győri ETO FC,MTK Budapest,3,1,H,1,0,H
+HU1,,Szombathelyi Haladás,Debreceni VSC,1,2,A,0,1,A
+HU1,,Videoton FC,Budapest Honvéd,0,2,A,0,2,A
+HU1,,BFC Siófok,Kecskeméti TE,2,0,H,1,0,H
+HU1,,Újpest FC,Rákospalotai EAC,3,0,H,1,0,H
+HU1,,Paksi SE,Budapesti Vasas,3,0,H,1,0,H
+HU1,,Nyíregyháza Spartacus,Kaposvári RFC,0,1,A,0,1,A
+HU1,,Zalaegerszegi TE FC,Diósgyöri VTK,1,0,H,0,0,D
+HU1,,MTK Budapest,Videoton FC,0,4,A,0,1,A
+HU1,,Kaposvári RFC,Újpest FC,2,3,A,2,1,H
+HU1,,Budapest Honvéd,Nyíregyháza Spartacus,1,0,H,0,0,D
+HU1,,Rákospalotai EAC,BFC Siófok,3,1,H,1,0,H
+HU1,,Paksi SE,Zalaegerszegi TE FC,1,1,D,0,0,D
+HU1,,Diósgyöri VTK,Győri ETO FC,2,3,A,1,1,D
+HU1,,Kecskeméti TE,Szombathelyi Haladás,3,2,H,1,1,D
+HU1,,Budapesti Vasas,Debreceni VSC,1,3,A,0,2,A
+HU1,,Újpest FC,Budapest Honvéd,3,0,H,1,0,H
+HU1,,Debreceni VSC,Kecskeméti TE,3,1,H,1,1,D
+HU1,,Szombathelyi Haladás,Rákospalotai EAC,1,0,H,1,0,H
+HU1,,Zalaegerszegi TE FC,Budapesti Vasas,3,1,H,1,1,D
+HU1,,BFC Siófok,Kaposvári RFC,2,5,A,0,2,A
+HU1,,Nyíregyháza Spartacus,MTK Budapest,0,0,D,NoR,NoR,NoR
+HU1,,Videoton FC,Diósgyöri VTK,2,1,H,2,1,H
+HU1,,Győri ETO FC,Paksi SE,4,1,H,3,1,H
+HU1,,Paksi SE,Videoton FC,0,1,A,0,0,D
+HU1,,Budapesti Vasas,Kecskeméti TE,1,2,A,0,2,A
+HU1,,Diósgyöri VTK,Nyíregyháza Spartacus,1,0,H,1,0,H
+HU1,,Budapest Honvéd,BFC Siófok,0,2,A,0,0,D
+HU1,,Kaposvári RFC,Szombathelyi Haladás,2,3,A,0,0,D
+HU1,,Zalaegerszegi TE FC,Győri ETO FC,2,7,A,2,1,H
+HU1,,Rákospalotai EAC,Debreceni VSC,0,4,A,0,2,A
+HU1,,MTK Budapest,Újpest FC,3,2,H,1,1,D
+HU1,,Videoton FC,Zalaegerszegi TE FC,1,1,D,1,0,H
+HU1,,Kecskeméti TE,Rákospalotai EAC,5,3,H,2,3,A
+HU1,,Győri ETO FC,Budapesti Vasas,1,1,D,1,0,H
+HU1,,Debreceni VSC,Kaposvári RFC,4,1,H,3,0,H
+HU1,,Szombathelyi Haladás,Budapest Honvéd,1,0,H,1,0,H
+HU1,,Nyíregyháza Spartacus,Paksi SE,2,2,D,0,0,D
+HU1,,BFC Siófok,MTK Budapest,0,1,A,0,0,D
+HU1,,Újpest FC,Diósgyöri VTK,2,2,D,0,0,D
+HU1,,MTK Budapest,Szombathelyi Haladás,0,1,A,0,1,A
+HU1,,Budapest Honvéd,Debreceni VSC,0,1,A,0,0,D
+HU1,,Győri ETO FC,Videoton FC,1,2,A,1,1,D
+HU1,,Kaposvári RFC,Kecskeméti TE,2,1,H,1,1,D
+HU1,,Zalaegerszegi TE FC,Nyíregyháza Spartacus,2,0,H,1,0,H
+HU1,,Budapesti Vasas,Rákospalotai EAC,1,1,D,1,0,H
+HU1,,Paksi SE,Újpest FC,3,1,H,0,1,A
+HU1,,Diósgyöri VTK,BFC Siófok,0,1,A,0,0,D
+HU1,,Újpest FC,Zalaegerszegi TE FC,2,1,H,1,0,H
+HU1,,Szombathelyi Haladás,Diósgyöri VTK,1,0,H,0,0,D
+HU1,,BFC Siófok,Paksi SE,1,2,A,0,1,A
+HU1,,Nyíregyháza Spartacus,Győri ETO FC,1,1,D,0,0,D
+HU1,,Videoton FC,Budapesti Vasas,2,2,D,1,1,D
+HU1,,Rákospalotai EAC,Kaposvári RFC,3,3,D,1,2,A
+HU1,,Kecskeméti TE,Budapest Honvéd,3,1,H,0,1,A
+HU1,,Debreceni VSC,MTK Budapest,2,2,D,0,0,D
+HU1,,Diósgyöri VTK,Debreceni VSC,2,3,A,0,0,D
+HU1,,Győri ETO FC,Újpest FC,4,3,H,2,3,A
+HU1,,MTK Budapest,Kecskeméti TE,1,4,A,0,3,A
+HU1,,Videoton FC,Nyíregyháza Spartacus,2,0,H,1,0,H
+HU1,,Budapest Honvéd,Rákospalotai EAC,1,0,H,1,0,H
+HU1,,Budapesti Vasas,Kaposvári RFC,2,1,H,1,1,D
+HU1,,Zalaegerszegi TE FC,BFC Siófok,5,3,H,3,2,H
+HU1,,Paksi SE,Szombathelyi Haladás,0,2,A,0,0,D
+HU1,,Újpest FC,Videoton FC,1,2,A,0,2,A
+HU1,,Debreceni VSC,Paksi SE,2,0,H,1,0,H
+HU1,,Rákospalotai EAC,MTK Budapest,0,4,A,0,2,A
+HU1,,Kaposvári RFC,Budapest Honvéd,3,1,H,2,0,H
+HU1,,Kecskeméti TE,Diósgyöri VTK,2,0,H,1,0,H
+HU1,,Szombathelyi Haladás,Zalaegerszegi TE FC,1,2,A,0,0,D
+HU1,,BFC Siófok,Győri ETO FC,3,2,H,2,0,H
+HU1,,Nyíregyháza Spartacus,Budapesti Vasas,3,1,H,1,0,H

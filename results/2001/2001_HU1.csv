@@ -1,229 +1,229 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-HU1,NaN,Budapesti Vasas,MTK Budapest,0,1,A,NoR,NoR,NoR
-HU1,NaN,Videoton FC,FC Sopron,1,0,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Budapest Honvéd,1,0,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Debreceni VSC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Újpest FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Győri ETO FC,3,0,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Videoton FC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Budapesti Vasas,4,1,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Dunaferr SE,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Ferencvárosi TC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Újpest FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,FC Sopron,2,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,MTK Budapest,0,3,A,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Videoton FC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Budapest Honvéd,1,2,A,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Szombathelyi Haladás,1,0,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Győri ETO FC,1,6,A,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Debreceni VSC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Budapesti Vasas,4,2,H,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,MTK Budapest,2,0,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Dunaferr SE,2,0,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Újpest FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,FC Sopron,0,2,A,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Budapest Honvéd,3,1,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Videoton FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,MTK Budapest,1,3,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Debreceni VSC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Zalaegerszegi TE FC,0,2,A,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Győri ETO FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Budapesti Vasas,3,2,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Dunaferr SE,2,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,FC Sopron,4,0,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Videoton FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Újpest FC,0,3,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Szombathelyi Haladás,3,1,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,MTK Budapest,0,0,D,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Debreceni VSC,0,1,A,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Zalaegerszegi TE FC,3,2,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Győri ETO FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Budapest Honvéd,7,2,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Budapesti Vasas,1,0,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Újpest FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,FC Sopron,1,3,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Videoton FC,2,3,A,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Szombathelyi Haladás,3,3,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Dunaferr SE,3,2,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Ferencvárosi TC,1,3,A,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Debreceni VSC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Zalaegerszegi TE FC,4,1,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Budapest Honvéd,0,0,D,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Győri ETO FC,3,1,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Újpest FC,1,4,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,MTK Budapest,0,5,A,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,FC Sopron,1,0,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Ferencvárosi TC,3,1,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Dunaferr SE,1,1,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Videoton FC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Budapesti Vasas,2,3,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Szombathelyi Haladás,3,1,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Dunaferr SE,0,2,A,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Budapesti Vasas,1,0,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Szombathelyi Haladás,6,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Győri ETO FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Ferencvárosi TC,2,0,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Videoton FC,1,4,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Budapest Honvéd,0,2,A,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Debreceni VSC,3,1,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Újpest FC,2,2,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,FC Sopron,2,0,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,MTK Budapest,1,1,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Győri ETO FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Dunaferr SE,2,1,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Budapesti Vasas,0,2,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Ferencvárosi TC,2,2,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Debreceni VSC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,FC Sopron,3,3,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Videoton FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Budapest Honvéd,2,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Dunaferr SE,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Újpest FC,0,2,A,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,MTK Budapest,0,1,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Debreceni VSC,3,1,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Ferencvárosi TC,2,2,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Budapesti Vasas,2,1,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Győri ETO FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,FC Sopron,1,3,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Újpest FC,3,0,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Videoton FC,1,3,A,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Szombathelyi Haladás,2,0,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Dunaferr SE,0,3,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Zalaegerszegi TE FC,1,4,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Ferencvárosi TC,1,3,A,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Győri ETO FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Debreceni VSC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Budapesti Vasas,4,1,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,MTK Budapest,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Újpest FC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,FC Sopron,4,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Videoton FC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Dunaferr SE,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,MTK Budapest,2,0,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Debreceni VSC,2,2,D,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Győri ETO FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Budapesti Vasas,2,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Budapest Honvéd,2,3,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,FC Sopron,2,1,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Ferencvárosi TC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Dunaferr SE,1,1,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Szombathelyi Haladás,5,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Videoton FC,3,0,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,MTK Budapest,1,3,A,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Győri ETO FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Újpest FC,4,1,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Debreceni VSC,2,2,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Budapest Honvéd,4,0,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Budapest Honvéd,3,2,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,MTK Budapest,2,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,FC Sopron,0,0,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Újpest FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Debreceni VSC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Zalaegerszegi TE FC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Dunaferr SE,2,0,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Győri ETO FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Videoton FC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Ferencvárosi TC,0,4,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Újpest FC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,FC Sopron,1,1,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Budapest Honvéd,3,3,D,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,MTK Budapest,4,3,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Videoton FC,3,1,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Zalaegerszegi TE FC,1,3,A,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Győri ETO FC,1,4,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,MTK Budapest,2,0,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Debreceni VSC,0,0,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Ferencvárosi TC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Budapest Honvéd,0,0,D,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Videoton FC,4,1,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,FC Sopron,2,2,D,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Zalaegerszegi TE FC,1,6,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Dunaferr SE,3,1,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Újpest FC,3,2,H,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Debreceni VSC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Budapesti Vasas,4,1,H,NoR,NoR,NoR
-HU1,NaN,Újpest FC,MTK Budapest,2,0,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Győri ETO FC,2,2,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Zalaegerszegi TE FC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Szombathelyi Haladás,5,0,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Dunaferr SE,2,4,A,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,FC Sopron,1,0,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Budapest Honvéd,0,0,D,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Újpest FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Videoton FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Budapesti Vasas,2,2,D,NoR,NoR,NoR
-HU1,NaN,Videoton FC,MTK Budapest,2,3,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Budapest Honvéd,4,0,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Zalaegerszegi TE FC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Győri ETO FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Debreceni VSC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Videoton FC,3,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Dunaferr SE,1,4,A,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,FC Sopron,1,0,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Újpest FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Szombathelyi Haladás,1,0,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Debreceni VSC,1,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Budapest Honvéd,1,2,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Győri ETO FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Újpest FC,3,1,H,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,MTK Budapest,3,0,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Dunaferr SE,0,3,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Videoton FC,2,3,A,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,FC Sopron,0,0,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Budapesti Vasas,2,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,MTK Budapest,1,0,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Dunaferr SE,2,1,H,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Budapesti Vasas,2,2,D,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Budapesti Vasas,6,3,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Dunaferr SE,1,2,A,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Budapest Honvéd,3,3,D,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Zalaegerszegi TE FC,2,4,A,NoR,NoR,NoR
-HU1,NaN,Szombathelyi Haladás,Győri ETO FC,0,3,A,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Debreceni VSC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Győri ETO FC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Újpest FC,Ferencvárosi TC,3,2,H,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Dunaferr SE,3,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Videoton FC,2,1,H,NoR,NoR,NoR
-HU1,NaN,Budapesti Vasas,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
-HU1,NaN,Győri ETO FC,FC Sopron,0,0,D,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Debreceni VSC,2,0,H,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Ferencvárosi TC,1,1,D,NoR,NoR,NoR
-HU1,NaN,Dunaferr SE,MTK Budapest,5,1,H,NoR,NoR,NoR
-HU1,NaN,Videoton FC,Újpest FC,5,0,H,NoR,NoR,NoR
-HU1,NaN,FC Sopron,Szombathelyi Haladás,1,3,A,NoR,NoR,NoR
-HU1,NaN,Debreceni VSC,Győri ETO FC,4,0,H,NoR,NoR,NoR
-HU1,NaN,Budapest Honvéd,Budapesti Vasas,3,1,H,NoR,NoR,NoR
-HU1,NaN,MTK Budapest,Újpest FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Zalaegerszegi TE FC,Videoton FC,1,2,A,NoR,NoR,NoR
-HU1,NaN,Ferencvárosi TC,Dunaferr SE,2,0,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,MTK Budapest,0,1,A,NoR,NoR,NoR
+HU1,,Videoton FC,FC Sopron,1,0,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Budapest Honvéd,1,0,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
+HU1,,Győri ETO FC,Debreceni VSC,0,1,A,NoR,NoR,NoR
+HU1,,Dunaferr SE,Újpest FC,2,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Győri ETO FC,3,0,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Videoton FC,0,1,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Budapesti Vasas,4,1,H,NoR,NoR,NoR
+HU1,,Újpest FC,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
+HU1,,FC Sopron,Dunaferr SE,2,2,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Ferencvárosi TC,1,0,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Újpest FC,2,1,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,FC Sopron,2,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,MTK Budapest,0,3,A,NoR,NoR,NoR
+HU1,,Dunaferr SE,Videoton FC,2,0,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Budapest Honvéd,1,2,A,NoR,NoR,NoR
+HU1,,Győri ETO FC,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
+HU1,,FC Sopron,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
+HU1,,Videoton FC,Szombathelyi Haladás,1,0,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Győri ETO FC,1,6,A,NoR,NoR,NoR
+HU1,,Dunaferr SE,Debreceni VSC,4,0,H,NoR,NoR,NoR
+HU1,,Újpest FC,Budapesti Vasas,4,2,H,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,MTK Budapest,2,0,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Dunaferr SE,2,0,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Újpest FC,1,1,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,FC Sopron,0,2,A,NoR,NoR,NoR
+HU1,,MTK Budapest,Budapest Honvéd,3,1,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Videoton FC,4,0,H,NoR,NoR,NoR
+HU1,,Újpest FC,MTK Budapest,1,3,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Debreceni VSC,1,1,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Zalaegerszegi TE FC,0,2,A,NoR,NoR,NoR
+HU1,,FC Sopron,Győri ETO FC,4,0,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HU1,,Videoton FC,Budapesti Vasas,3,2,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Dunaferr SE,2,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,FC Sopron,4,0,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Videoton FC,0,0,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Újpest FC,0,3,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Szombathelyi Haladás,3,1,H,NoR,NoR,NoR
+HU1,,Videoton FC,MTK Budapest,0,0,D,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Debreceni VSC,0,1,A,NoR,NoR,NoR
+HU1,,FC Sopron,Zalaegerszegi TE FC,3,2,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Győri ETO FC,0,0,D,NoR,NoR,NoR
+HU1,,Újpest FC,Budapest Honvéd,7,2,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Budapesti Vasas,1,0,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Újpest FC,4,0,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,FC Sopron,1,3,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Videoton FC,2,3,A,NoR,NoR,NoR
+HU1,,Győri ETO FC,Szombathelyi Haladás,3,3,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Dunaferr SE,3,2,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Ferencvárosi TC,1,3,A,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Debreceni VSC,1,1,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,Zalaegerszegi TE FC,4,1,H,NoR,NoR,NoR
+HU1,,Videoton FC,Budapest Honvéd,0,0,D,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Győri ETO FC,3,1,H,NoR,NoR,NoR
+HU1,,FC Sopron,Újpest FC,1,4,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,MTK Budapest,0,5,A,NoR,NoR,NoR
+HU1,,Debreceni VSC,FC Sopron,1,0,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Ferencvárosi TC,3,1,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HU1,,Újpest FC,Videoton FC,2,0,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Budapesti Vasas,2,3,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Szombathelyi Haladás,3,1,H,NoR,NoR,NoR
+HU1,,Újpest FC,Dunaferr SE,0,2,A,NoR,NoR,NoR
+HU1,,MTK Budapest,Budapesti Vasas,1,0,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Szombathelyi Haladás,6,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Győri ETO FC,1,1,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Ferencvárosi TC,2,0,H,NoR,NoR,NoR
+HU1,,FC Sopron,Videoton FC,1,4,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Budapest Honvéd,0,2,A,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
+HU1,,Videoton FC,Debreceni VSC,3,1,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Újpest FC,2,2,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,FC Sopron,2,0,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,MTK Budapest,1,1,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Győri ETO FC,4,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,Dunaferr SE,2,1,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Budapesti Vasas,0,2,A,NoR,NoR,NoR
+HU1,,Újpest FC,Ferencvárosi TC,2,2,D,NoR,NoR,NoR
+HU1,,FC Sopron,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,FC Sopron,3,3,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Videoton FC,0,0,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Budapest Honvéd,2,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Dunaferr SE,2,2,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Újpest FC,0,2,A,NoR,NoR,NoR
+HU1,,Dunaferr SE,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,MTK Budapest,0,1,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Debreceni VSC,3,1,H,NoR,NoR,NoR
+HU1,,Videoton FC,Ferencvárosi TC,2,2,D,NoR,NoR,NoR
+HU1,,FC Sopron,Budapesti Vasas,2,1,H,NoR,NoR,NoR
+HU1,,Újpest FC,Győri ETO FC,2,1,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,FC Sopron,1,3,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Újpest FC,3,0,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Videoton FC,1,3,A,NoR,NoR,NoR
+HU1,,Debreceni VSC,Szombathelyi Haladás,2,0,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Dunaferr SE,0,3,A,NoR,NoR,NoR
+HU1,,Újpest FC,Zalaegerszegi TE FC,1,4,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Ferencvárosi TC,1,3,A,NoR,NoR,NoR
+HU1,,Videoton FC,Győri ETO FC,1,2,A,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Debreceni VSC,1,1,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,Budapesti Vasas,4,1,H,NoR,NoR,NoR
+HU1,,FC Sopron,MTK Budapest,0,0,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Újpest FC,1,0,H,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,FC Sopron,4,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Videoton FC,1,0,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Dunaferr SE,2,2,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HU1,,Dunaferr SE,MTK Budapest,2,0,H,NoR,NoR,NoR
+HU1,,Újpest FC,Debreceni VSC,2,2,D,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Győri ETO FC,1,2,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Budapesti Vasas,2,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
+HU1,,FC Sopron,Budapest Honvéd,2,3,A,NoR,NoR,NoR
+HU1,,Újpest FC,FC Sopron,2,1,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Ferencvárosi TC,1,1,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Szombathelyi Haladás,5,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Videoton FC,3,0,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,MTK Budapest,1,3,A,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Győri ETO FC,1,1,D,NoR,NoR,NoR
+HU1,,Videoton FC,Újpest FC,4,1,H,NoR,NoR,NoR
+HU1,,FC Sopron,Debreceni VSC,2,2,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,Budapest Honvéd,4,0,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Budapest Honvéd,3,2,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,MTK Budapest,2,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,FC Sopron,0,0,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,Újpest FC,1,2,A,NoR,NoR,NoR
+HU1,,Győri ETO FC,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Zalaegerszegi TE FC,2,0,H,NoR,NoR,NoR
+HU1,,Újpest FC,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
+HU1,,FC Sopron,Dunaferr SE,2,0,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Győri ETO FC,2,1,H,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
+HU1,,Debreceni VSC,Videoton FC,0,0,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Ferencvárosi TC,0,4,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Újpest FC,2,0,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,FC Sopron,1,1,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Budapest Honvéd,3,3,D,NoR,NoR,NoR
+HU1,,Debreceni VSC,MTK Budapest,4,3,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Videoton FC,3,1,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Zalaegerszegi TE FC,1,3,A,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Győri ETO FC,1,4,A,NoR,NoR,NoR
+HU1,,Újpest FC,Budapesti Vasas,2,2,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,MTK Budapest,2,0,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Debreceni VSC,0,0,D,NoR,NoR,NoR
+HU1,,FC Sopron,Ferencvárosi TC,2,1,H,NoR,NoR,NoR
+HU1,,Videoton FC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Budapest Honvéd,0,0,D,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Videoton FC,4,1,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,FC Sopron,2,2,D,NoR,NoR,NoR
+HU1,,Debreceni VSC,Zalaegerszegi TE FC,1,6,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Dunaferr SE,3,1,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,Újpest FC,3,2,H,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,Budapesti Vasas,4,1,H,NoR,NoR,NoR
+HU1,,Újpest FC,MTK Budapest,2,0,H,NoR,NoR,NoR
+HU1,,FC Sopron,Győri ETO FC,2,2,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Zalaegerszegi TE FC,1,0,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Szombathelyi Haladás,5,0,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Dunaferr SE,2,4,A,NoR,NoR,NoR
+HU1,,MTK Budapest,FC Sopron,1,0,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Budapest Honvéd,0,0,D,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Újpest FC,1,1,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Videoton FC,1,1,D,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Budapesti Vasas,2,2,D,NoR,NoR,NoR
+HU1,,Videoton FC,MTK Budapest,2,3,A,NoR,NoR,NoR
+HU1,,Újpest FC,Budapest Honvéd,4,0,H,NoR,NoR,NoR
+HU1,,FC Sopron,Zalaegerszegi TE FC,2,0,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Győri ETO FC,2,1,H,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Debreceni VSC,0,1,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Videoton FC,3,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Dunaferr SE,1,4,A,NoR,NoR,NoR
+HU1,,Budapest Honvéd,FC Sopron,1,0,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Újpest FC,1,1,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Szombathelyi Haladás,1,0,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,Budapest Honvéd,1,2,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Győri ETO FC,4,0,H,NoR,NoR,NoR
+HU1,,FC Sopron,Újpest FC,3,1,H,NoR,NoR,NoR
+HU1,,Dunaferr SE,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,MTK Budapest,3,0,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Dunaferr SE,0,3,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
+HU1,,Újpest FC,Videoton FC,2,3,A,NoR,NoR,NoR
+HU1,,Debreceni VSC,FC Sopron,0,0,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Budapesti Vasas,2,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,MTK Budapest,1,0,H,NoR,NoR,NoR
+HU1,,Videoton FC,Dunaferr SE,2,1,H,NoR,NoR,NoR
+HU1,,Debreceni VSC,Szombathelyi Haladás,2,2,D,NoR,NoR,NoR
+HU1,,Győri ETO FC,Budapest Honvéd,2,2,D,NoR,NoR,NoR
+HU1,,Újpest FC,Zalaegerszegi TE FC,1,2,A,NoR,NoR,NoR
+HU1,,FC Sopron,Budapesti Vasas,2,2,D,NoR,NoR,NoR
+HU1,,Debreceni VSC,Budapesti Vasas,6,3,H,NoR,NoR,NoR
+HU1,,Videoton FC,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
+HU1,,Újpest FC,Dunaferr SE,1,2,A,NoR,NoR,NoR
+HU1,,FC Sopron,Budapest Honvéd,3,3,D,NoR,NoR,NoR
+HU1,,MTK Budapest,Zalaegerszegi TE FC,2,4,A,NoR,NoR,NoR
+HU1,,Szombathelyi Haladás,Győri ETO FC,0,3,A,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Szombathelyi Haladás,1,1,D,NoR,NoR,NoR
+HU1,,FC Sopron,Debreceni VSC,1,1,D,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Győri ETO FC,1,1,D,NoR,NoR,NoR
+HU1,,Újpest FC,Ferencvárosi TC,3,2,H,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Dunaferr SE,3,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Videoton FC,2,1,H,NoR,NoR,NoR
+HU1,,Budapesti Vasas,Szombathelyi Haladás,2,1,H,NoR,NoR,NoR
+HU1,,Győri ETO FC,FC Sopron,0,0,D,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Debreceni VSC,2,0,H,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Ferencvárosi TC,1,1,D,NoR,NoR,NoR
+HU1,,Dunaferr SE,MTK Budapest,5,1,H,NoR,NoR,NoR
+HU1,,Videoton FC,Újpest FC,5,0,H,NoR,NoR,NoR
+HU1,,FC Sopron,Szombathelyi Haladás,1,3,A,NoR,NoR,NoR
+HU1,,Debreceni VSC,Győri ETO FC,4,0,H,NoR,NoR,NoR
+HU1,,Budapest Honvéd,Budapesti Vasas,3,1,H,NoR,NoR,NoR
+HU1,,MTK Budapest,Újpest FC,1,2,A,NoR,NoR,NoR
+HU1,,Zalaegerszegi TE FC,Videoton FC,1,2,A,NoR,NoR,NoR
+HU1,,Ferencvárosi TC,Dunaferr SE,2,0,H,NoR,NoR,NoR
