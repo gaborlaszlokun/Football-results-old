@@ -1,9 +1,17 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-RO1,,FC Voluntari,FC Viitorul Constanța,0,1,A,0,1,A
-RO1,,Pandurii Târgu Jiu,CS Universitatea Craiova,2,1,H,0,0,D
-RO1,,Gaz Metan Mediaş,ASA Târgu Mureş,2,1,H,1,1,D
-RO1,,Astra Giurgiu,Dinamo Bucureşti,1,4,A,0,2,A
-RO1,,CFR Cluj,Concordia Chiajna,2,0,H,0,0,D
-RO1,,CSMS Iaşi,Gaz Metan Mediaş,3,1,H,1,1,D
-RO1,,FC Botoşani,CFR Cluj,3,1,H,1,1,D
-RO1,,Dinamo Bucureşti,ACS Poli Timişoara,2,1,H,2,0,H
+RO1,NaN,FC Voluntari,FC Viitorul Constanța,0,1,A,0,1,A
+RO1,NaN,Pandurii Târgu Jiu,CS Universitatea Craiova,2,1,H,0,0,D
+RO1,NaN,Gaz Metan Mediaş,ASA Târgu Mureş,2,1,H,1,1,D
+RO1,NaN,Astra Giurgiu,Dinamo Bucureşti,1,4,A,0,2,A
+RO1,NaN,CFR Cluj,Concordia Chiajna,2,0,H,0,0,D
+RO1,NaN,CSMS Iaşi,Gaz Metan Mediaş,3,1,H,1,1,D
+RO1,NaN,FC Botoşani,CFR Cluj,3,1,H,1,1,D
+RO1,NaN,Dinamo Bucureşti,ACS Poli Timişoara,2,1,H,2,0,H
+RO1,NaN,Pandurii Târgu Jiu,Astra Giurgiu,0,0,D,0,0,D
+RO1,NaN,FC Viitorul Constanța,Steaua Bucureşti,1,3,A,1,1,D
+RO1,NaN,CS Universitatea Craiova,ASA Târgu Mureş,2,1,H,1,0,H
+RO1,NaN,Concordia Chiajna,FC Voluntari,0,4,A,0,0,D
+RO1,NaN,FC Voluntari,FC Botoşani,4,2,H,3,1,H
+RO1,NaN,ASA Târgu Mureş,CSMS Iaşi,0,3,A,0,3,A
+RO1,NaN,Astra Giurgiu,CS Universitatea Craiova,1,2,A,1,2,A
+RO1,NaN,Steaua Bucureşti,Concordia Chiajna,1,0,H,0,0,D

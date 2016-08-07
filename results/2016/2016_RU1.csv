@@ -1,4 +1,11 @@
 Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-RU1,,Zenit St. Petersburg,Lokomotiv Moskva,0,0,D,0,0,D
-RU1,,Anzhi Makhachkala,CSKA Moskva,0,0,D,0,0,D
-RU1,,FK Rostov,Gazovik Orenburg,1,0,H,0,0,D
+RU1,NaN,Zenit St. Petersburg,Lokomotiv Moskva,0,0,D,0,0,D
+RU1,NaN,Anzhi Makhachkala,CSKA Moskva,0,0,D,0,0,D
+RU1,NaN,FK Rostov,Gazovik Orenburg,1,0,H,0,0,D
+RU1,NaN,FK Ural,FC Ufa,2,0,H,2,0,H
+RU1,NaN,Spartak Moskva,Arsenal Tula,4,0,H,2,0,H
+RU1,NaN,Terek Grozniy,Krylia Sovetov,1,0,H,0,0,D
+RU1,NaN,FK Krasnodar,FK Tom Tomsk,3,0,H,1,0,H
+RU1,NaN,Rubin Kazan,FK Amkar Perm,0,0,D,0,0,D
+RU1,NaN,FC Ufa,Zenit St. Petersburg,0,0,D,0,0,D
+RU1,NaN,Arsenal Tula,Rubin Kazan,1,0,H,1,0,H
