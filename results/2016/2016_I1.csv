@@ -29,3 +29,32 @@ I1,NaN,AS Roma,Sampdoria,3,2,H,1,2,A
 I1,NaN,Pescara Calcio,Inter,1,2,A,0,0,D
 I1,NaN,Empoli FC,FC Crotone,2,1,H,1,1,D
 I1,NaN,Sampdoria,AC Milan,0,1,A,0,0,D
+I1,NaN,Lazio Roma,Pescara Calcio,3,0,H,0,0,D
+I1,NaN,SSC Napoli,Bologna FC,3,1,H,1,0,H
+I1,NaN,Udinese Calcio,Chievo Verona,1,2,A,1,0,H
+I1,NaN,Cagliari Calcio,Atalanta,3,0,H,1,0,H
+I1,NaN,FC Crotone,US Palermo,1,1,D,1,0,H
+I1,NaN,Sassuolo Calcio,Genoa CFC,2,0,H,0,0,D
+I1,NaN,Torino FC,Empoli FC,0,0,D,0,0,D
+I1,NaN,Inter,Juventus,2,1,H,0,0,D
+I1,NaN,ACF Fiorentina,AS Roma,1,0,H,0,0,D
+I1,NaN,AC Milan,Lazio Roma,2,0,H,1,0,H
+I1,NaN,Bologna FC,Sampdoria,2,0,H,1,0,H
+I1,NaN,Atalanta,US Palermo,0,1,A,0,0,D
+I1,NaN,Chievo Verona,Sassuolo Calcio,2,1,H,2,1,H
+I1,NaN,Empoli FC,Inter,0,2,A,0,2,A
+I1,NaN,Genoa CFC,SSC Napoli,0,0,D,0,0,D
+I1,NaN,Juventus,Cagliari Calcio,4,0,H,3,0,H
+I1,NaN,Pescara Calcio,Torino FC,0,0,D,0,0,D
+I1,NaN,AS Roma,FC Crotone,4,0,H,2,0,H
+I1,NaN,Udinese Calcio,ACF Fiorentina,2,2,D,2,1,H
+I1,NaN,US Palermo,Juventus,0,1,A,0,0,D
+I1,NaN,SSC Napoli,Chievo Verona,2,0,H,2,0,H
+I1,NaN,Torino FC,AS Roma,3,1,H,1,0,H
+I1,NaN,Genoa CFC,Pescara Calcio,1,1,D,0,0,D
+I1,NaN,Inter,Bologna FC,1,1,D,1,1,D
+I1,NaN,Lazio Roma,Empoli FC,2,0,H,1,0,H
+I1,NaN,Sassuolo Calcio,Udinese Calcio,1,0,H,1,0,H
+I1,NaN,ACF Fiorentina,AC Milan,0,0,D,0,0,D
+I1,NaN,FC Crotone,Atalanta,1,3,A,0,3,A
+I1,NaN,Cagliari Calcio,Sampdoria,2,1,H,1,0,H
