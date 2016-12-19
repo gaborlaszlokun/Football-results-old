@@ -44,3 +44,93 @@ D1,NaN,Eintracht Frankfurt,Hertha BSC,3,3,D,2,1,H
 D1,NaN,Werder Bremen,VfL Wolfsburg,2,1,H,0,0,D
 D1,NaN,1899 Hoffenheim,FC Schalke 04,2,1,H,2,1,H
 D1,NaN,1. FC Köln,RB Leipzig,1,1,D,1,1,D
+D1,NaN,RB Leipzig,FC Augsburg,2,1,H,1,1,D
+D1,NaN,Bayern München,1. FC Köln,1,1,D,1,0,H
+D1,NaN,Hertha BSC,Hamburger SV,2,0,H,1,0,H
+D1,NaN,FC Ingolstadt 04,1899 Hoffenheim,1,2,A,0,2,A
+D1,NaN,SV Darmstadt 98,Werder Bremen,2,2,D,1,0,H
+D1,NaN,SC Freiburg,Eintracht Frankfurt,1,0,H,1,0,H
+D1,NaN,Bayer Leverkusen,Borussia Dortmund,2,0,H,1,0,H
+D1,NaN,VfL Wolfsburg,1. FSV Mainz 05,0,0,D,0,0,D
+D1,NaN,FC Schalke 04,Bor. Mönchengladbach,4,0,H,0,0,D
+D1,NaN,Borussia Dortmund,Hertha BSC,1,1,D,0,0,D
+D1,NaN,Bor. Mönchengladbach,Hamburger SV,0,0,D,0,0,D
+D1,NaN,1. FC Köln,FC Ingolstadt 04,2,1,H,2,0,H
+D1,NaN,FC Augsburg,FC Schalke 04,1,1,D,0,0,D
+D1,NaN,1899 Hoffenheim,SC Freiburg,2,1,H,1,0,H
+D1,NaN,Eintracht Frankfurt,Bayern München,2,2,D,1,1,D
+D1,NaN,Werder Bremen,Bayer Leverkusen,2,1,H,1,1,D
+D1,NaN,1. FSV Mainz 05,SV Darmstadt 98,2,1,H,1,0,H
+D1,NaN,VfL Wolfsburg,RB Leipzig,0,1,A,0,0,D
+D1,NaN,Hamburger SV,Eintracht Frankfurt,0,3,A,0,1,A
+D1,NaN,Bayer Leverkusen,1899 Hoffenheim,0,3,A,0,1,A
+D1,NaN,Hertha BSC,1. FC Köln,2,1,H,1,0,H
+D1,NaN,FC Ingolstadt 04,Borussia Dortmund,3,3,D,2,0,H
+D1,NaN,SV Darmstadt 98,VfL Wolfsburg,3,1,H,1,0,H
+D1,NaN,SC Freiburg,FC Augsburg,2,1,H,0,0,D
+D1,NaN,Bayern München,Bor. Mönchengladbach,2,0,H,2,0,H
+D1,NaN,RB Leipzig,Werder Bremen,3,1,H,1,0,H
+D1,NaN,FC Schalke 04,1. FSV Mainz 05,3,0,H,1,0,H
+D1,NaN,Bor. Mönchengladbach,Eintracht Frankfurt,0,0,D,0,0,D
+D1,NaN,1. FSV Mainz 05,FC Ingolstadt 04,2,0,H,0,0,D
+D1,NaN,VfL Wolfsburg,Bayer Leverkusen,1,2,A,1,0,H
+D1,NaN,FC Augsburg,Bayern München,1,3,A,0,2,A
+D1,NaN,Werder Bremen,SC Freiburg,1,3,A,0,2,A
+D1,NaN,SV Darmstadt 98,RB Leipzig,0,2,A,0,0,D
+D1,NaN,Borussia Dortmund,FC Schalke 04,0,0,D,0,0,D
+D1,NaN,1899 Hoffenheim,Hertha BSC,1,0,H,1,0,H
+D1,NaN,1. FC Köln,Hamburger SV,3,0,H,0,0,D
+D1,NaN,Hertha BSC,Bor. Mönchengladbach,3,0,H,2,0,H
+D1,NaN,Bayern München,1899 Hoffenheim,1,1,D,1,1,D
+D1,NaN,Bayer Leverkusen,SV Darmstadt 98,3,2,H,1,0,H
+D1,NaN,Hamburger SV,Borussia Dortmund,2,5,A,0,3,A
+D1,NaN,FC Ingolstadt 04,FC Augsburg,0,2,A,0,0,D
+D1,NaN,SC Freiburg,VfL Wolfsburg,0,3,A,0,1,A
+D1,NaN,Eintracht Frankfurt,1. FC Köln,1,0,H,1,0,H
+D1,NaN,RB Leipzig,1. FSV Mainz 05,3,1,H,3,0,H
+D1,NaN,FC Schalke 04,Werder Bremen,3,1,H,2,1,H
+D1,NaN,Bayer Leverkusen,RB Leipzig,2,3,A,2,1,H
+D1,NaN,Bor. Mönchengladbach,1. FC Köln,1,2,A,1,0,H
+D1,NaN,1. FSV Mainz 05,SC Freiburg,4,2,H,2,0,H
+D1,NaN,VfL Wolfsburg,FC Schalke 04,0,1,A,0,0,D
+D1,NaN,FC Augsburg,Hertha BSC,0,0,D,0,0,D
+D1,NaN,SV Darmstadt 98,FC Ingolstadt 04,0,1,A,0,0,D
+D1,NaN,Borussia Dortmund,Bayern München,1,0,H,1,0,H
+D1,NaN,1899 Hoffenheim,Hamburger SV,2,2,D,1,1,D
+D1,NaN,Werder Bremen,Eintracht Frankfurt,1,2,A,1,0,H
+D1,NaN,SC Freiburg,RB Leipzig,1,4,A,1,3,A
+D1,NaN,Bor. Mönchengladbach,1899 Hoffenheim,1,1,D,1,0,H
+D1,NaN,1. FC Köln,FC Augsburg,0,0,D,0,0,D
+D1,NaN,Hamburger SV,Werder Bremen,2,2,D,2,2,D
+D1,NaN,FC Ingolstadt 04,VfL Wolfsburg,1,1,D,1,0,H
+D1,NaN,Eintracht Frankfurt,Borussia Dortmund,2,1,H,0,0,D
+D1,NaN,Bayern München,Bayer Leverkusen,2,1,H,1,1,D
+D1,NaN,FC Schalke 04,SV Darmstadt 98,3,1,H,1,1,D
+D1,NaN,Hertha BSC,1. FSV Mainz 05,2,1,H,1,1,D
+D1,NaN,1. FSV Mainz 05,Bayern München,1,3,A,1,2,A
+D1,NaN,Borussia Dortmund,Bor. Mönchengladbach,4,1,H,2,1,H
+D1,NaN,Bayer Leverkusen,SC Freiburg,1,1,D,0,1,A
+D1,NaN,VfL Wolfsburg,Hertha BSC,2,3,A,2,1,H
+D1,NaN,Werder Bremen,FC Ingolstadt 04,2,1,H,1,0,H
+D1,NaN,1899 Hoffenheim,1. FC Köln,4,0,H,2,0,H
+D1,NaN,RB Leipzig,FC Schalke 04,2,1,H,1,1,D
+D1,NaN,SV Darmstadt 98,Hamburger SV,0,2,A,0,1,A
+D1,NaN,FC Augsburg,Eintracht Frankfurt,1,1,D,1,1,D
+D1,NaN,Eintracht Frankfurt,1899 Hoffenheim,0,0,D,0,0,D
+D1,NaN,Bayern München,VfL Wolfsburg,5,0,H,2,0,H
+D1,NaN,1. FC Köln,Borussia Dortmund,1,1,D,1,0,H
+D1,NaN,Hamburger SV,FC Augsburg,1,0,H,0,0,D
+D1,NaN,FC Ingolstadt 04,RB Leipzig,1,0,H,1,0,H
+D1,NaN,SC Freiburg,SV Darmstadt 98,1,0,H,0,0,D
+D1,NaN,Hertha BSC,Werder Bremen,0,1,A,0,1,A
+D1,NaN,Bor. Mönchengladbach,1. FSV Mainz 05,1,0,H,0,0,D
+D1,NaN,FC Schalke 04,Bayer Leverkusen,0,1,A,0,0,D
+D1,NaN,1899 Hoffenheim,Borussia Dortmund,2,2,D,2,1,H
+D1,NaN,FC Schalke 04,SC Freiburg,1,1,D,0,0,D
+D1,NaN,1. FSV Mainz 05,Hamburger SV,3,1,H,1,1,D
+D1,NaN,FC Augsburg,Bor. Mönchengladbach,1,0,H,0,0,D
+D1,NaN,Werder Bremen,1. FC Köln,1,1,D,1,1,D
+D1,NaN,RB Leipzig,Hertha BSC,2,0,H,1,0,H
+D1,NaN,VfL Wolfsburg,Eintracht Frankfurt,1,0,H,1,0,H
+D1,NaN,SV Darmstadt 98,Bayern München,0,1,A,0,0,D
+D1,NaN,Bayer Leverkusen,FC Ingolstadt 04,1,2,A,0,1,A

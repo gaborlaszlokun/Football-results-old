@@ -107,3 +107,159 @@ E2,NaN,Rotherham United,Cardiff City,1,2,A,0,0,D
 E2,NaN,Sheffield Wednesday,Nottingham Forest,2,1,H,0,1,A
 E2,NaN,Wolverhampton Wanderers,Brentford FC,3,1,H,0,0,D
 E2,NaN,Aston Villa,Newcastle United,1,1,D,0,1,A
+E2,NaN,Barnsley FC,Aston Villa,1,1,D,0,0,D
+E2,NaN,Birmingham City,Preston North End,2,2,D,1,2,A
+E2,NaN,Blackburn Rovers,Sheffield Wednesday,0,1,A,0,1,A
+E2,NaN,Brentford FC,Reading FC,4,1,H,2,0,H
+E2,NaN,Bristol City,Leeds United,1,0,H,0,0,D
+E2,NaN,Burton Albion,Queens Park Rangers,1,1,D,0,0,D
+E2,NaN,Cardiff City,Derby County,0,2,A,0,0,D
+E2,NaN,Huddersfield Town,Rotherham United,2,1,H,2,1,H
+E2,NaN,Ipswich Town,Brighton & Hove Albion,0,0,D,0,0,D
+E2,NaN,Nottingham Forest,Fulham FC,1,1,D,0,0,D
+E2,NaN,Wigan Athletic,Wolverhampton Wanderers,2,1,H,1,1,D
+E2,NaN,Newcastle United,Norwich City,4,3,H,1,1,D
+E2,NaN,Fulham FC,Queens Park Rangers,1,2,A,0,1,A
+E2,NaN,Birmingham City,Blackburn Rovers,1,0,H,0,0,D
+E2,NaN,Brentford FC,Wigan Athletic,0,0,D,0,0,D
+E2,NaN,Bristol City,Nottingham Forest,2,1,H,0,1,A
+E2,NaN,Burton Albion,Cardiff City,2,0,H,1,0,H
+E2,NaN,Ipswich Town,Huddersfield Town,0,1,A,0,0,D
+E2,NaN,Leeds United,Barnsley FC,2,1,H,1,0,H
+E2,NaN,Preston North End,Aston Villa,2,0,H,2,0,H
+E2,NaN,Reading FC,Derby County,1,1,D,0,0,D
+E2,NaN,Rotherham United,Newcastle United,0,1,A,0,1,A
+E2,NaN,Sheffield Wednesday,Brighton & Hove Albion,1,2,A,0,1,A
+E2,NaN,Wolverhampton Wanderers,Norwich City,1,2,A,0,1,A
+E2,NaN,Cardiff City,Bristol City,2,1,H,1,0,H
+E2,NaN,Nottingham Forest,Birmingham City,3,1,H,1,0,H
+E2,NaN,Barnsley FC,Fulham FC,2,4,A,2,2,D
+E2,NaN,Blackburn Rovers,Ipswich Town,0,0,D,0,0,D
+E2,NaN,Brighton & Hove Albion,Preston North End,2,2,D,0,1,A
+E2,NaN,Derby County,Leeds United,1,0,H,0,0,D
+E2,NaN,Newcastle United,Brentford FC,3,1,H,2,0,H
+E2,NaN,Norwich City,Rotherham United,3,1,H,1,0,H
+E2,NaN,Queens Park Rangers,Reading FC,1,1,D,1,1,D
+E2,NaN,Wigan Athletic,Burton Albion,0,0,D,0,0,D
+E2,NaN,Aston Villa,Wolverhampton Wanderers,1,1,D,1,1,D
+E2,NaN,Huddersfield Town,Sheffield Wednesday,0,1,A,0,0,D
+E2,NaN,Barnsley FC,Newcastle United,0,2,A,0,0,D
+E2,NaN,Birmingham City,Rotherham United,4,2,H,3,1,H
+E2,NaN,Blackburn Rovers,Nottingham Forest,2,1,H,2,0,H
+E2,NaN,Brighton & Hove Albion,Wolverhampton Wanderers,1,0,H,1,0,H
+E2,NaN,Derby County,Brentford FC,0,0,D,0,0,D
+E2,NaN,Fulham FC,Norwich City,2,2,D,0,2,A
+E2,NaN,Ipswich Town,Burton Albion,2,0,H,1,0,H
+E2,NaN,Leeds United,Wigan Athletic,1,1,D,1,0,H
+E2,NaN,Queens Park Rangers,Bristol City,1,0,H,0,0,D
+E2,NaN,Reading FC,Aston Villa,1,2,A,0,1,A
+E2,NaN,Cardiff City,Sheffield Wednesday,1,1,D,1,0,H
+E2,NaN,Preston North End,Huddersfield Town,3,1,H,2,0,H
+E2,NaN,Burton Albion,Birmingham City,2,0,H,1,0,H
+E2,NaN,Aston Villa,Fulham FC,1,0,H,0,0,D
+E2,NaN,Brentford FC,Barnsley FC,0,2,A,0,1,A
+E2,NaN,Bristol City,Blackburn Rovers,1,0,H,0,0,D
+E2,NaN,Huddersfield Town,Derby County,1,0,H,0,0,D
+E2,NaN,Newcastle United,Ipswich Town,3,0,H,1,0,H
+E2,NaN,Norwich City,Preston North End,0,1,A,0,0,D
+E2,NaN,Rotherham United,Reading FC,0,1,A,0,0,D
+E2,NaN,Sheffield Wednesday,Queens Park Rangers,1,0,H,1,0,H
+E2,NaN,Wigan Athletic,Brighton & Hove Albion,0,1,A,0,0,D
+E2,NaN,Wolverhampton Wanderers,Leeds United,0,1,A,0,0,D
+E2,NaN,Nottingham Forest,Cardiff City,1,2,A,0,2,A
+E2,NaN,Queens Park Rangers,Brentford FC,0,2,A,0,1,A
+E2,NaN,Barnsley FC,Bristol City,2,2,D,1,0,H
+E2,NaN,Brighton & Hove Albion,Norwich City,5,0,H,1,0,H
+E2,NaN,Cardiff City,Wigan Athletic,0,1,A,0,0,D
+E2,NaN,Derby County,Sheffield Wednesday,2,0,H,1,0,H
+E2,NaN,Fulham FC,Huddersfield Town,5,0,H,3,0,H
+E2,NaN,Ipswich Town,Rotherham United,2,2,D,1,1,D
+E2,NaN,Leeds United,Burton Albion,2,0,H,0,0,D
+E2,NaN,Preston North End,Newcastle United,1,2,A,0,0,D
+E2,NaN,Reading FC,Nottingham Forest,2,0,H,1,0,H
+E2,NaN,Blackburn Rovers,Wolverhampton Wanderers,1,1,D,1,0,H
+E2,NaN,Birmingham City,Aston Villa,1,1,D,0,1,A
+E2,NaN,Brentford FC,Fulham FC,0,2,A,0,1,A
+E2,NaN,Wolverhampton Wanderers,Derby County,2,3,A,0,2,A
+E2,NaN,Aston Villa,Blackburn Rovers,2,1,H,0,0,D
+E2,NaN,Burton Albion,Barnsley FC,0,0,D,0,0,D
+E2,NaN,Huddersfield Town,Birmingham City,1,1,D,0,0,D
+E2,NaN,Newcastle United,Cardiff City,2,1,H,2,0,H
+E2,NaN,Norwich City,Leeds United,2,3,A,1,0,H
+E2,NaN,Nottingham Forest,Queens Park Rangers,1,1,D,1,0,H
+E2,NaN,Rotherham United,Preston North End,1,3,A,0,2,A
+E2,NaN,Sheffield Wednesday,Ipswich Town,1,2,A,1,1,D
+E2,NaN,Wigan Athletic,Reading FC,0,3,A,0,2,A
+E2,NaN,Bristol City,Brighton & Hove Albion,0,2,A,0,2,A
+E2,NaN,Brighton & Hove Albion,Aston Villa,1,1,D,1,1,D
+E2,NaN,Barnsley FC,Wigan Athletic,0,0,D,0,0,D
+E2,NaN,Birmingham City,Bristol City,1,0,H,0,0,D
+E2,NaN,Blackburn Rovers,Brentford FC,3,2,H,3,2,H
+E2,NaN,Cardiff City,Huddersfield Town,3,2,H,3,1,H
+E2,NaN,Derby County,Rotherham United,3,0,H,2,0,H
+E2,NaN,Fulham FC,Sheffield Wednesday,1,1,D,0,1,A
+E2,NaN,Preston North End,Wolverhampton Wanderers,0,0,D,0,0,D
+E2,NaN,Queens Park Rangers,Norwich City,2,1,H,2,0,H
+E2,NaN,Reading FC,Burton Albion,3,0,H,2,0,H
+E2,NaN,Ipswich Town,Nottingham Forest,0,2,A,0,2,A
+E2,NaN,Leeds United,Newcastle United,0,2,A,0,1,A
+E2,NaN,Barnsley FC,Nottingham Forest,2,5,A,2,3,A
+E2,NaN,Aston Villa,Cardiff City,3,1,H,2,1,H
+E2,NaN,Brentford FC,Birmingham City,1,2,A,0,1,A
+E2,NaN,Brighton & Hove Albion,Fulham FC,2,1,H,0,1,A
+E2,NaN,Derby County,Norwich City,1,0,H,0,0,D
+E2,NaN,Ipswich Town,Queens Park Rangers,3,0,H,1,0,H
+E2,NaN,Newcastle United,Blackburn Rovers,0,1,A,0,0,D
+E2,NaN,Preston North End,Burton Albion,1,1,D,1,1,D
+E2,NaN,Reading FC,Bristol City,2,1,H,2,0,H
+E2,NaN,Wolverhampton Wanderers,Sheffield Wednesday,0,2,A,0,2,A
+E2,NaN,Rotherham United,Leeds United,1,2,A,0,2,A
+E2,NaN,Huddersfield Town,Wigan Athletic,1,2,A,0,1,A
+E2,NaN,Queens Park Rangers,Wolverhampton Wanderers,1,2,A,0,0,D
+E2,NaN,Nottingham Forest,Newcastle United,2,1,H,0,1,A
+E2,NaN,Birmingham City,Barnsley FC,0,3,A,0,1,A
+E2,NaN,Blackburn Rovers,Huddersfield Town,1,1,D,1,1,D
+E2,NaN,Bristol City,Ipswich Town,2,0,H,1,0,H
+E2,NaN,Burton Albion,Rotherham United,2,1,H,1,0,H
+E2,NaN,Cardiff City,Brighton & Hove Albion,0,0,D,0,0,D
+E2,NaN,Fulham FC,Reading FC,5,0,H,1,0,H
+E2,NaN,Norwich City,Brentford FC,5,0,H,2,0,H
+E2,NaN,Sheffield Wednesday,Preston North End,2,1,H,1,0,H
+E2,NaN,Wigan Athletic,Derby County,0,1,A,0,1,A
+E2,NaN,Leeds United,Aston Villa,2,0,H,0,0,D
+E2,NaN,Brighton & Hove Albion,Leeds United,2,0,H,1,0,H
+E2,NaN,Aston Villa,Wigan Athletic,1,0,H,0,0,D
+E2,NaN,Barnsley FC,Norwich City,2,1,H,2,0,H
+E2,NaN,Brentford FC,Burton Albion,2,1,H,1,1,D
+E2,NaN,Huddersfield Town,Bristol City,2,1,H,1,1,D
+E2,NaN,Ipswich Town,Cardiff City,1,1,D,0,1,A
+E2,NaN,Newcastle United,Birmingham City,4,0,H,2,0,H
+E2,NaN,Reading FC,Sheffield Wednesday,2,1,H,0,0,D
+E2,NaN,Rotherham United,Queens Park Rangers,1,0,H,1,0,H
+E2,NaN,Wolverhampton Wanderers,Fulham FC,4,4,D,1,3,A
+E2,NaN,Preston North End,Blackburn Rovers,3,2,H,2,1,H
+E2,NaN,Derby County,Nottingham Forest,3,0,H,1,0,H
+E2,NaN,Birmingham City,Ipswich Town,2,1,H,1,0,H
+E2,NaN,Blackburn Rovers,Brighton & Hove Albion,2,3,A,0,1,A
+E2,NaN,Bristol City,Brentford FC,0,1,A,0,0,D
+E2,NaN,Burton Albion,Huddersfield Town,0,1,A,0,0,D
+E2,NaN,Cardiff City,Wolverhampton Wanderers,2,1,H,0,1,A
+E2,NaN,Fulham FC,Rotherham United,2,1,H,1,1,D
+E2,NaN,Leeds United,Reading FC,2,0,H,1,0,H
+E2,NaN,Norwich City,Aston Villa,1,0,H,0,0,D
+E2,NaN,Sheffield Wednesday,Barnsley FC,2,0,H,1,0,H
+E2,NaN,Nottingham Forest,Preston North End,1,1,D,0,1,A
+E2,NaN,Queens Park Rangers,Derby County,0,1,A,0,0,D
+E2,NaN,Wigan Athletic,Newcastle United,0,2,A,0,1,A
+E2,NaN,Norwich City,Huddersfield Town,1,2,A,1,2,A
+E2,NaN,Blackburn Rovers,Reading FC,2,3,A,1,1,D
+E2,NaN,Bristol City,Preston North End,1,2,A,0,1,A
+E2,NaN,Burton Albion,Newcastle United,1,2,A,1,2,A
+E2,NaN,Cardiff City,Barnsley FC,3,4,A,1,3,A
+E2,NaN,Fulham FC,Derby County,2,2,D,1,1,D
+E2,NaN,Leeds United,Brentford FC,1,0,H,0,0,D
+E2,NaN,Nottingham Forest,Wolverhampton Wanderers,0,2,A,0,1,A
+E2,NaN,Sheffield Wednesday,Rotherham United,1,0,H,0,0,D
+E2,NaN,Wigan Athletic,Ipswich Town,2,3,A,1,1,D
+E2,NaN,Birmingham City,Brighton & Hove Albion,1,2,A,0,0,D
+E2,NaN,Queens Park Rangers,Aston Villa,0,1,A,0,0,D

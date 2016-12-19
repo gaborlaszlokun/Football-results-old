@@ -62,3 +62,93 @@ N1,NaN,NEC Nijmegen,Willem II,0,0,D,0,0,D
 N1,NaN,FC Twente,Vitesse,2,1,H,1,0,H
 N1,NaN,FC Utrecht,Sparta Rotterdam,2,0,H,1,0,H
 N1,NaN,Feyenoord,Roda JC Kerkrade,5,0,H,2,0,H
+N1,NaN,PEC Zwolle,ADO Den Haag,2,1,H,0,0,D
+N1,NaN,Vitesse,FC Groningen,2,1,H,1,1,D
+N1,NaN,sc Heerenveen,PSV Eindhoven,1,1,D,0,0,D
+N1,NaN,Roda JC Kerkrade,NEC Nijmegen,0,1,A,0,0,D
+N1,NaN,Go Ahead Eagles,SBV Excelsior,3,0,H,2,0,H
+N1,NaN,AFC Ajax,FC Utrecht,3,2,H,0,1,A
+N1,NaN,Willem II,Feyenoord,0,2,A,0,1,A
+N1,NaN,Heracles Almelo,FC Twente,1,1,D,1,1,D
+N1,NaN,Sparta Rotterdam,AZ Alkmaar,1,1,D,1,1,D
+N1,NaN,Sparta Rotterdam,Willem II,2,2,D,0,1,A
+N1,NaN,FC Utrecht,Go Ahead Eagles,3,0,H,1,0,H
+N1,NaN,PSV Eindhoven,Heracles Almelo,1,1,D,1,1,D
+N1,NaN,AZ Alkmaar,Vitesse,2,2,D,0,1,A
+N1,NaN,FC Groningen,sc Heerenveen,0,3,A,0,1,A
+N1,NaN,FC Twente,PEC Zwolle,2,2,D,1,1,D
+N1,NaN,SBV Excelsior,Roda JC Kerkrade,0,1,A,0,0,D
+N1,NaN,NEC Nijmegen,Feyenoord,1,2,A,1,0,H
+N1,NaN,ADO Den Haag,AFC Ajax,0,2,A,0,1,A
+N1,NaN,SBV Excelsior,PEC Zwolle,0,2,A,0,0,D
+N1,NaN,Go Ahead Eagles,FC Twente,0,2,A,0,1,A
+N1,NaN,PSV Eindhoven,Sparta Rotterdam,1,0,H,0,0,D
+N1,NaN,Roda JC Kerkrade,ADO Den Haag,1,1,D,0,1,A
+N1,NaN,Willem II,FC Utrecht,0,1,A,0,0,D
+N1,NaN,NEC Nijmegen,Vitesse,1,1,D,0,1,A
+N1,NaN,Feyenoord,AFC Ajax,1,1,D,0,0,D
+N1,NaN,FC Groningen,AZ Alkmaar,2,0,H,2,0,H
+N1,NaN,sc Heerenveen,Heracles Almelo,3,1,H,1,1,D
+N1,NaN,FC Twente,Roda JC Kerkrade,0,0,D,0,0,D
+N1,NaN,Willem II,FC Groningen,2,1,H,0,0,D
+N1,NaN,Heracles Almelo,Sparta Rotterdam,2,2,D,0,1,A
+N1,NaN,Vitesse,PSV Eindhoven,0,2,A,0,1,A
+N1,NaN,AFC Ajax,SBV Excelsior,1,0,H,0,0,D
+N1,NaN,PEC Zwolle,Go Ahead Eagles,3,1,H,1,1,D
+N1,NaN,Feyenoord,sc Heerenveen,2,2,D,2,1,H
+N1,NaN,FC Utrecht,NEC Nijmegen,1,1,D,0,0,D
+N1,NaN,ADO Den Haag,AZ Alkmaar,0,1,A,0,0,D
+N1,NaN,Sparta Rotterdam,sc Heerenveen,3,1,H,2,1,H
+N1,NaN,ADO Den Haag,Willem II,1,0,H,0,0,D
+N1,NaN,PSV Eindhoven,FC Twente,1,1,D,0,0,D
+N1,NaN,NEC Nijmegen,FC Groningen,1,1,D,0,0,D
+N1,NaN,PEC Zwolle,Roda JC Kerkrade,0,0,D,0,0,D
+N1,NaN,FC Utrecht,SBV Excelsior,2,1,H,0,0,D
+N1,NaN,AZ Alkmaar,AFC Ajax,2,2,D,1,0,H
+N1,NaN,Vitesse,Heracles Almelo,1,2,A,0,0,D
+N1,NaN,Go Ahead Eagles,Feyenoord,1,0,H,1,0,H
+N1,NaN,sc Heerenveen,Vitesse,1,1,D,0,0,D
+N1,NaN,Heracles Almelo,Go Ahead Eagles,2,1,H,0,1,A
+N1,NaN,Willem II,PSV Eindhoven,0,0,D,0,0,D
+N1,NaN,SBV Excelsior,Sparta Rotterdam,3,2,H,2,1,H
+N1,NaN,FC Groningen,ADO Den Haag,2,1,H,1,1,D
+N1,NaN,Roda JC Kerkrade,AZ Alkmaar,1,1,D,1,0,H
+N1,NaN,AFC Ajax,NEC Nijmegen,5,0,H,3,0,H
+N1,NaN,FC Twente,FC Utrecht,1,1,D,1,1,D
+N1,NaN,Feyenoord,PEC Zwolle,3,0,H,1,0,H
+N1,NaN,Go Ahead Eagles,Willem II,0,1,A,0,0,D
+N1,NaN,Vitesse,SBV Excelsior,2,2,D,1,2,A
+N1,NaN,PSV Eindhoven,ADO Den Haag,3,1,H,1,0,H
+N1,NaN,PEC Zwolle,FC Groningen,0,4,A,0,2,A
+N1,NaN,NEC Nijmegen,FC Twente,3,2,H,2,0,H
+N1,NaN,Sparta Rotterdam,Roda JC Kerkrade,2,2,D,0,1,A
+N1,NaN,AZ Alkmaar,Heracles Almelo,5,1,H,3,0,H
+N1,NaN,sc Heerenveen,AFC Ajax,0,1,A,0,0,D
+N1,NaN,FC Utrecht,Feyenoord,3,3,D,1,1,D
+N1,NaN,Heracles Almelo,NEC Nijmegen,2,0,H,1,0,H
+N1,NaN,Go Ahead Eagles,sc Heerenveen,1,3,A,1,3,A
+N1,NaN,SBV Excelsior,AZ Alkmaar,3,3,D,2,2,D
+N1,NaN,Roda JC Kerkrade,PSV Eindhoven,0,0,D,0,0,D
+N1,NaN,Vitesse,PEC Zwolle,3,1,H,2,0,H
+N1,NaN,ADO Den Haag,FC Utrecht,0,2,A,0,1,A
+N1,NaN,Feyenoord,Sparta Rotterdam,6,1,H,2,0,H
+N1,NaN,Willem II,FC Twente,0,0,D,0,0,D
+N1,NaN,AFC Ajax,FC Groningen,2,0,H,1,0,H
+N1,NaN,FC Groningen,Roda JC Kerkrade,2,0,H,1,0,H
+N1,NaN,NEC Nijmegen,ADO Den Haag,3,0,H,3,0,H
+N1,NaN,PSV Eindhoven,Go Ahead Eagles,1,0,H,0,0,D
+N1,NaN,sc Heerenveen,SBV Excelsior,2,1,H,0,1,A
+N1,NaN,PEC Zwolle,Willem II,0,0,D,0,0,D
+N1,NaN,Sparta Rotterdam,Vitesse,0,1,A,0,0,D
+N1,NaN,AZ Alkmaar,Feyenoord,0,4,A,0,3,A
+N1,NaN,FC Utrecht,Heracles Almelo,2,0,H,1,0,H
+N1,NaN,FC Twente,AFC Ajax,1,0,H,0,0,D
+N1,NaN,Willem II,sc Heerenveen,2,1,H,1,1,D
+N1,NaN,Roda JC Kerkrade,FC Utrecht,0,0,D,0,0,D
+N1,NaN,Feyenoord,Vitesse,3,1,H,2,1,H
+N1,NaN,FC Twente,AZ Alkmaar,1,2,A,0,0,D
+N1,NaN,SBV Excelsior,NEC Nijmegen,2,2,D,1,1,D
+N1,NaN,ADO Den Haag,Sparta Rotterdam,1,0,H,0,0,D
+N1,NaN,Heracles Almelo,PEC Zwolle,3,0,H,1,0,H
+N1,NaN,FC Groningen,Go Ahead Eagles,1,1,D,1,1,D
+N1,NaN,AFC Ajax,PSV Eindhoven,1,1,D,0,0,D
