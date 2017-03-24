@@ -14,6 +14,7 @@ G1,NaN,Platanias Chanion,AE Larisa,3,2,H,1,0,H
 G1,NaN,Panetolikos,Panionios GSS,0,2,A,0,0,D
 G1,NaN,Skoda Xanthi,Olympiakos Piräus,0,2,A,0,1,A
 G1,NaN,Panathinaikos,AO Kerkyra,1,0,H,0,0,D
+G1,NaN,Veria FC,AEP Iraklis FC,0,2,A,0,0,D
 G1,NaN,AO Kerkyra,Platanias Chanion,0,1,A,0,1,A
 G1,NaN,Panionios GSS,Asteras Tripolis,3,0,H,1,0,H
 G1,NaN,Levadiakos,Panathinaikos,0,3,A,0,2,A
@@ -84,6 +85,8 @@ G1,NaN,Skoda Xanthi,PAS Giannina,2,0,H,1,0,H
 G1,NaN,Asteras Tripolis,Panetolikos,4,1,H,2,1,H
 G1,NaN,Atromitos,Panionios GSS,1,2,A,0,1,A
 G1,NaN,Panathinaikos,AEK Athen,0,0,D,0,0,D
+G1,NaN,AEP Iraklis FC,AO Kerkyra,0,0,D,0,0,D
+G1,NaN,AE Larisa,PAOK Saloniki,0,2,A,0,1,A
 G1,NaN,PAS Giannina,Veria FC,2,0,H,1,0,H
 G1,NaN,Asteras Tripolis,AE Larisa,1,1,D,1,0,H
 G1,NaN,AEK Athen,Platanias Chanion,3,0,H,0,0,D
@@ -116,3 +119,83 @@ G1,NaN,AEP Iraklis FC,Asteras Tripolis,1,1,D,0,0,D
 G1,NaN,Levadiakos,Panionios GSS,1,4,A,1,2,A
 G1,NaN,AE Larisa,Panathinaikos,0,0,D,0,0,D
 G1,NaN,AEK Athen,PAS Giannina,1,1,D,0,0,D
+G1,NaN,Atromitos,AO Kerkyra,1,4,A,0,1,A
+G1,NaN,PAS Giannina,Panionios GSS,1,0,H,1,0,H
+G1,NaN,Panetolikos,AEK Athen,3,2,H,1,2,A
+G1,NaN,Skoda Xanthi,AEP Iraklis FC,3,1,H,1,1,D
+G1,NaN,Veria FC,AE Larisa,1,1,D,0,1,A
+G1,NaN,Asteras Tripolis,Olympiakos Piräus,0,0,D,0,0,D
+G1,NaN,PAOK Saloniki,Levadiakos,3,0,H,1,0,H
+G1,NaN,Panathinaikos,Platanias Chanion,2,1,H,2,1,H
+G1,NaN,AEP Iraklis FC,Veria FC,1,1,D,0,0,D
+G1,NaN,Panionios GSS,Panetolikos,2,0,H,1,0,H
+G1,NaN,Olympiakos Piräus,Skoda Xanthi,2,0,H,0,0,D
+G1,NaN,AEK Athen,Asteras Tripolis,2,0,H,1,0,H
+G1,NaN,AE Larisa,Platanias Chanion,0,0,D,0,0,D
+G1,NaN,Levadiakos,Atromitos,1,1,D,0,1,A
+G1,NaN,AO Kerkyra,Panathinaikos,1,1,D,1,1,D
+G1,NaN,PAS Giannina,PAOK Saloniki,0,1,A,0,1,A
+G1,NaN,AEP Iraklis FC,AE Larisa,1,1,D,1,1,D
+G1,NaN,Asteras Tripolis,Panionios GSS,1,1,D,1,0,H
+G1,NaN,Skoda Xanthi,AEK Athen,0,0,D,0,0,D
+G1,NaN,Panathinaikos,Levadiakos,0,0,D,0,0,D
+G1,NaN,Atromitos,PAS Giannina,1,1,D,0,0,D
+G1,NaN,Panetolikos,PAOK Saloniki,0,1,A,0,0,D
+G1,NaN,Platanias Chanion,AO Kerkyra,2,1,H,0,1,A
+G1,NaN,Veria FC,Olympiakos Piräus,1,2,A,1,2,A
+G1,NaN,AE Larisa,AO Kerkyra,1,1,D,0,0,D
+G1,NaN,Panetolikos,Atromitos,2,0,H,1,0,H
+G1,NaN,PAS Giannina,Panathinaikos,1,1,D,1,0,H
+G1,NaN,AEK Athen,Veria FC,6,0,H,5,0,H
+G1,NaN,Panionios GSS,Skoda Xanthi,2,0,H,1,0,H
+G1,NaN,PAOK Saloniki,Asteras Tripolis,3,2,H,1,1,D
+G1,NaN,Olympiakos Piräus,AEP Iraklis FC,3,0,H,2,0,H
+G1,NaN,Levadiakos,Platanias Chanion,1,2,A,0,2,A
+G1,NaN,Veria FC,Panionios GSS,0,1,A,0,1,A
+G1,NaN,Asteras Tripolis,Atromitos,0,1,A,0,1,A
+G1,NaN,Olympiakos Piräus,AE Larisa,2,0,H,2,0,H
+G1,NaN,AO Kerkyra,Levadiakos,1,0,H,1,0,H
+G1,NaN,Platanias Chanion,PAS Giannina,3,3,D,2,2,D
+G1,NaN,Skoda Xanthi,PAOK Saloniki,0,0,D,0,0,D
+G1,NaN,Panathinaikos,Panetolikos,4,0,H,0,0,D
+G1,NaN,AEP Iraklis FC,AEK Athen,2,2,D,1,1,D
+G1,NaN,Atromitos,Skoda Xanthi,2,1,H,1,0,H
+G1,NaN,PAS Giannina,AO Kerkyra,1,0,H,1,0,H
+G1,NaN,Asteras Tripolis,Panathinaikos,0,5,A,0,4,A
+G1,NaN,Panionios GSS,AEP Iraklis FC,1,0,H,1,0,H
+G1,NaN,Panetolikos,Platanias Chanion,1,2,A,0,1,A
+G1,NaN,PAOK Saloniki,Veria FC,4,0,H,2,0,H
+G1,NaN,AEK Athen,Olympiakos Piräus,1,0,H,1,0,H
+G1,NaN,AE Larisa,Levadiakos,2,1,H,1,0,H
+G1,NaN,Platanias Chanion,Asteras Tripolis,3,0,H,1,0,H
+G1,NaN,AO Kerkyra,Panetolikos,0,0,D,0,0,D
+G1,NaN,Skoda Xanthi,Panathinaikos,1,0,H,0,0,D
+G1,NaN,AEK Athen,AE Larisa,3,0,H,1,0,H
+G1,NaN,AEP Iraklis FC,PAOK Saloniki,1,1,D,0,1,A
+G1,NaN,Levadiakos,PAS Giannina,2,1,H,1,1,D
+G1,NaN,Olympiakos Piräus,Panionios GSS,0,1,A,0,1,A
+G1,NaN,Veria FC,Atromitos,0,1,A,0,0,D
+G1,NaN,AE Larisa,PAS Giannina,1,1,D,1,1,D
+G1,NaN,Panetolikos,Levadiakos,2,0,H,0,0,D
+G1,NaN,Panathinaikos,Veria FC,5,0,H,4,0,H
+G1,NaN,Atromitos,AEP Iraklis FC,1,0,H,0,0,D
+G1,NaN,Asteras Tripolis,AO Kerkyra,1,2,A,1,0,H
+G1,NaN,Skoda Xanthi,Platanias Chanion,1,0,H,1,0,H
+G1,NaN,PAOK Saloniki,Olympiakos Piräus,2,0,H,0,0,D
+G1,NaN,Panionios GSS,AEK Athen,1,1,D,0,1,A
+G1,NaN,PAS Giannina,Panetolikos,0,0,D,0,0,D
+G1,NaN,Panionios GSS,AE Larisa,1,0,H,1,0,H
+G1,NaN,AEP Iraklis FC,Panathinaikos,1,1,D,0,1,A
+G1,NaN,AO Kerkyra,Skoda Xanthi,1,0,H,0,0,D
+G1,NaN,Olympiakos Piräus,Atromitos,2,0,H,1,0,H
+G1,NaN,Platanias Chanion,Veria FC,1,0,H,1,0,H
+G1,NaN,AEK Athen,PAOK Saloniki,3,0,H,1,0,H
+G1,NaN,Levadiakos,Asteras Tripolis,1,1,D,0,0,D
+G1,NaN,Veria FC,AO Kerkyra,4,0,H,1,0,H
+G1,NaN,AE Larisa,Panetolikos,1,0,H,1,0,H
+G1,NaN,Atromitos,AEK Athen,0,1,A,0,0,D
+G1,NaN,PAOK Saloniki,Panionios GSS,1,0,H,0,0,D
+G1,NaN,Asteras Tripolis,PAS Giannina,1,1,D,0,1,A
+G1,NaN,Skoda Xanthi,Levadiakos,2,2,D,2,1,H
+G1,NaN,Panathinaikos,Olympiakos Piräus,1,0,H,1,0,H
+G1,NaN,Platanias Chanion,AEP Iraklis FC,1,0,H,0,0,D
