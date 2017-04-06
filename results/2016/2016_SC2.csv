@@ -118,6 +118,7 @@ SC2,NaN,Greenock Morton FC,Falkirk FC,2,2,D,1,1,D
 SC2,NaN,Dumbarton FC,Ayr United,2,2,D,0,0,D
 SC2,NaN,Raith Rovers,Hibernian FC,1,1,D,0,0,D
 SC2,NaN,Dunfermline Athletic,Queen Of The South,1,1,D,1,1,D
+SC2,NaN,St. Mirren FC,Dundee United,3,2,H,2,1,H
 SC2,NaN,Falkirk FC,Dumbarton FC,2,2,D,1,1,D
 SC2,NaN,Ayr United,St. Mirren FC,0,2,A,0,0,D
 SC2,NaN,Dundee United,Greenock Morton FC,1,1,D,0,1,A
@@ -127,9 +128,11 @@ SC2,NaN,Dumbarton FC,Queen Of The South,1,2,A,0,1,A
 SC2,NaN,Falkirk FC,Dundee United,3,0,H,1,0,H
 SC2,NaN,Ayr United,Raith Rovers,1,0,H,0,0,D
 SC2,NaN,St. Mirren FC,Hibernian FC,2,0,H,1,0,H
+SC2,NaN,Greenock Morton FC,Dunfermline Athletic,0,1,A,0,1,A
 SC2,NaN,Dunfermline Athletic,Dumbarton FC,5,1,H,2,0,H
 SC2,NaN,Queen Of The South,Falkirk FC,0,2,A,0,1,A
 SC2,NaN,Raith Rovers,St. Mirren FC,2,0,H,0,0,D
+SC2,NaN,Dundee United,Ayr United,2,1,H,1,0,H
 SC2,NaN,Dundee United,Hibernian FC,0,1,A,0,1,A
 SC2,NaN,St. Mirren FC,Dunfermline Athletic,0,0,D,0,0,D
 SC2,NaN,Ayr United,Falkirk FC,1,4,A,0,1,A
@@ -140,3 +143,6 @@ SC2,NaN,Hibernian FC,Dumbarton FC,2,2,D,0,1,A
 SC2,NaN,Queen Of The South,St. Mirren FC,0,2,A,0,1,A
 SC2,NaN,Raith Rovers,Dundee United,2,1,H,1,0,H
 SC2,NaN,Falkirk FC,Greenock Morton FC,0,1,A,0,0,D
+SC2,NaN,Hibernian FC,Falkirk FC,2,1,H,0,0,D
+SC2,NaN,Ayr United,Dumbarton FC,2,1,H,1,1,D
+SC2,NaN,Raith Rovers,Queen Of The South,1,1,D,1,1,D
