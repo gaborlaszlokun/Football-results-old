@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+POR,13/08/2010,20:15,Sporting Braga,Portimonense SC,3,1,H,2,0,H
+POR,14/08/2010,16:00,CS Marítimo,Vitória Setúbal,0,1,A,0,0,D
+POR,14/08/2010,19:15,Naval 1° de Maio,FC Porto,0,1,A,0,0,D
+POR,14/08/2010,21:15,Paços de Ferreira,Sporting CP,1,0,H,0,0,D
+POR,15/08/2010,16:00,Rio Ave FC,CD Nacional,0,1,A,0,0,D
+POR,15/08/2010,17:00,SC Beira-Mar,União Leiria,0,0,D,0,0,D
+POR,15/08/2010,20:15,SL Benfica,Académica de Coimbra,1,2,A,0,1,A
+POR,16/08/2010,20:15,SC Olhanense,Vitória Guimarães,0,0,D,0,0,D
+POR,20/08/2010,20:15,Académica de Coimbra,SC Olhanense,1,1,D,0,0,D
+POR,21/08/2010,19:15,Vitória Setúbal,Sporting Braga,0,0,D,0,0,D
+POR,21/08/2010,21:15,CD Nacional,SL Benfica,2,1,H,0,0,D
+POR,22/08/2010,17:00,Portimonense SC,Naval 1° de Maio,0,1,A,0,1,A
+POR,22/08/2010,18:00,União Leiria,Paços de Ferreira,0,0,D,0,0,D
+POR,22/08/2010,18:00,Sporting CP,CS Marítimo,1,0,H,0,0,D
+POR,22/08/2010,20:15,FC Porto,SC Beira-Mar,3,0,H,2,0,H
+POR,23/08/2010,20:15,Vitória Guimarães,Rio Ave FC,0,0,D,0,0,D
+POR,28/08/2010,19:15,CD Nacional,Vitória Guimarães,1,3,A,0,0,D
+POR,28/08/2010,21:15,SL Benfica,Vitória Setúbal,3,0,H,2,0,H
+POR,29/08/2010,16:00,Paços de Ferreira,Portimonense SC,2,2,D,0,1,A
+POR,29/08/2010,16:00,SC Beira-Mar,Académica de Coimbra,2,1,H,1,0,H
+POR,29/08/2010,18:00,Sporting Braga,CS Marítimo,1,0,H,1,0,H
+POR,29/08/2010,19:00,SC Olhanense,União Leiria,1,0,H,1,0,H
+POR,29/08/2010,20:15,Rio Ave FC,FC Porto,0,2,A,0,1,A
+POR,30/08/2010,20:15,Naval 1° de Maio,Sporting CP,1,3,A,0,1,A
+POR,10/09/2010,20:15,Vitória Guimarães,SL Benfica,2,1,H,1,1,D
+POR,11/09/2010,19:15,Sporting CP,SC Olhanense,0,0,D,0,0,D
+POR,11/09/2010,21:15,FC Porto,Sporting Braga,3,2,H,1,1,D
+POR,12/09/2010,16:00,CS Marítimo,Paços de Ferreira,1,1,D,0,1,A
+POR,12/09/2010,16:00,Portimonense SC,Rio Ave FC,3,1,H,2,0,H
+POR,12/09/2010,18:00,União Leiria,CD Nacional,2,1,H,0,0,D
+POR,12/09/2010,20:15,Académica de Coimbra,Naval 1° de Maio,3,0,H,1,0,H
+POR,13/09/2010,20:15,Vitória Setúbal,SC Beira-Mar,0,0,D,0,0,D
+POR,17/09/2010,20:15,SC Olhanense,Portimonense SC,2,0,H,1,0,H
+POR,18/09/2010,17:00,SC Beira-Mar,CS Marítimo,1,1,D,0,1,A
+POR,18/09/2010,21:15,Vitória Guimarães,União Leiria,1,0,H,0,0,D
+POR,19/09/2010,16:00,Rio Ave FC,Académica de Coimbra,2,2,D,1,0,H
+POR,19/09/2010,17:00,Naval 1° de Maio,Vitória Setúbal,0,0,D,0,0,D
+POR,19/09/2010,18:00,Paços de Ferreira,Sporting Braga,2,2,D,0,1,A
+POR,19/09/2010,20:15,SL Benfica,Sporting CP,2,0,H,1,0,H
+POR,20/09/2010,19:45,CD Nacional,FC Porto,0,2,A,0,1,A
+POR,24/09/2010,20:15,Sporting Braga,Naval 1° de Maio,3,1,H,1,0,H
+POR,25/09/2010,17:00,Académica de Coimbra,Vitória Guimarães,3,1,H,0,0,D
+POR,25/09/2010,19:15,CS Marítimo,SL Benfica,0,1,A,0,0,D
+POR,25/09/2010,21:15,FC Porto,SC Olhanense,2,0,H,2,0,H
+POR,26/09/2010,16:00,União Leiria,Rio Ave FC,1,0,H,0,0,D
+POR,26/09/2010,16:00,Portimonense SC,SC Beira-Mar,1,0,H,0,0,D
+POR,26/09/2010,20:15,Sporting CP,CD Nacional,1,1,D,0,0,D
+POR,27/09/2010,20:15,Vitória Setúbal,Paços de Ferreira,1,0,H,1,0,H
+POR,01/10/2010,20:15,União Leiria,Académica de Coimbra,2,1,H,0,1,A
+POR,02/10/2010,19:15,SC Olhanense,Vitória Setúbal,3,1,H,2,0,H
+POR,03/10/2010,16:00,Rio Ave FC,CS Marítimo,0,0,D,0,0,D
+POR,03/10/2010,16:00,CD Nacional,Portimonense SC,3,1,H,1,1,D
+POR,03/10/2010,16:00,Naval 1° de Maio,Paços de Ferreira,1,2,A,1,0,H
+POR,03/10/2010,20:15,SL Benfica,Sporting Braga,1,0,H,0,0,D
+POR,04/10/2010,19:15,SC Beira-Mar,Sporting CP,1,1,D,1,1,D
+POR,04/10/2010,21:15,Vitória Guimarães,FC Porto,1,1,D,0,1,A
+POR,23/10/2010,17:00,Académica de Coimbra,CD Nacional,2,1,H,2,0,H
+POR,23/10/2010,18:00,Paços de Ferreira,SC Beira-Mar,1,1,D,1,0,H
+POR,23/10/2010,19:15,Vitória Setúbal,Vitória Guimarães,2,1,H,2,0,H
+POR,23/10/2010,21:15,Sporting Braga,SC Olhanense,3,1,H,0,1,A
+POR,24/10/2010,16:00,CS Marítimo,Naval 1° de Maio,1,0,H,0,0,D
+POR,24/10/2010,18:15,Sporting CP,Rio Ave FC,1,0,H,0,0,D
+POR,24/10/2010,20:15,Portimonense SC,SL Benfica,0,1,A,0,0,D
+POR,25/10/2010,20:15,FC Porto,União Leiria,5,1,H,3,0,H
+POR,29/10/2010,20:15,SL Benfica,Paços de Ferreira,2,0,H,1,0,H
+POR,30/10/2010,19:15,Rio Ave FC,Sporting Braga,2,0,H,0,0,D
+POR,30/10/2010,21:15,Académica de Coimbra,FC Porto,0,1,A,0,1,A
+POR,31/10/2010,16:00,CD Nacional,Vitória Setúbal,1,0,H,1,0,H
+POR,31/10/2010,16:00,SC Beira-Mar,Naval 1° de Maio,3,1,H,2,0,H
+POR,31/10/2010,16:00,SC Olhanense,CS Marítimo,1,1,D,0,1,A
+POR,31/10/2010,20:15,União Leiria,Sporting CP,1,2,A,1,2,A
+POR,01/11/2010,20:15,Vitória Guimarães,Portimonense SC,2,0,H,1,0,H
+POR,05/11/2010,20:15,Vitória Setúbal,Rio Ave FC,3,3,D,1,2,A
+POR,06/11/2010,19:15,Paços de Ferreira,CD Nacional,0,1,A,0,0,D
+POR,06/11/2010,21:15,Portimonense SC,Académica de Coimbra,2,2,D,0,2,A
+POR,07/11/2010,16:00,CS Marítimo,União Leiria,1,1,D,0,0,D
+POR,07/11/2010,16:00,Naval 1° de Maio,SC Olhanense,1,1,D,1,0,H
+POR,07/11/2010,18:00,Sporting Braga,SC Beira-Mar,2,3,A,0,1,A
+POR,07/11/2010,20:15,FC Porto,SL Benfica,5,0,H,3,0,H
+POR,08/11/2010,19:45,Sporting CP,Vitória Guimarães,2,3,A,2,0,H
+POR,12/11/2010,20:15,CD Nacional,CS Marítimo,0,0,D,0,0,D
+POR,13/11/2010,19:15,Vitória Guimarães,Sporting Braga,2,1,H,1,1,D
+POR,13/11/2010,21:15,Académica de Coimbra,Sporting CP,1,2,A,0,2,A
+POR,14/11/2010,16:00,Rio Ave FC,Paços de Ferreira,3,1,H,2,1,H
+POR,14/11/2010,16:00,União Leiria,Vitória Setúbal,1,0,H,1,0,H
+POR,14/11/2010,16:00,SC Olhanense,SC Beira-Mar,1,1,D,1,0,H
+POR,14/11/2010,18:15,SL Benfica,Naval 1° de Maio,4,0,H,1,0,H
+POR,14/11/2010,20:15,FC Porto,Portimonense SC,2,0,H,1,0,H
+POR,26/11/2010,20:15,Vitória Setúbal,Académica de Coimbra,0,1,A,0,1,A
+POR,27/11/2010,16:00,Paços de Ferreira,SC Olhanense,1,0,H,1,0,H
+POR,27/11/2010,17:00,CS Marítimo,Vitória Guimarães,2,0,H,2,0,H
+POR,27/11/2010,21:15,Sporting CP,FC Porto,1,1,D,1,0,H
+POR,28/11/2010,16:00,Naval 1° de Maio,Rio Ave FC,0,1,A,0,1,A
+POR,28/11/2010,18:15,SC Beira-Mar,SL Benfica,1,3,A,0,1,A
+POR,28/11/2010,20:15,Sporting Braga,CD Nacional,2,0,H,0,0,D
+POR,29/11/2010,15:00,Portimonense SC,União Leiria,1,2,A,1,0,H
+POR,03/12/2010,20:15,SL Benfica,SC Olhanense,2,0,H,1,0,H
+POR,04/12/2010,19:15,Vitória Guimarães,Paços de Ferreira,1,1,D,1,0,H
+POR,04/12/2010,21:15,União Leiria,Sporting Braga,3,1,H,2,1,H
+POR,05/12/2010,16:00,Rio Ave FC,SC Beira-Mar,1,1,D,0,0,D
+POR,05/12/2010,20:15,Portimonense SC,Sporting CP,1,3,A,1,3,A
+POR,06/12/2010,19:45,FC Porto,Vitória Setúbal,1,0,H,1,0,H
+POR,07/12/2010,16:00,CD Nacional,Naval 1° de Maio,2,1,H,0,1,A
+POR,08/12/2010,15:30,Académica de Coimbra,CS Marítimo,1,5,A,0,1,A
+POR,17/12/2010,20:15,Sporting Braga,Académica de Coimbra,5,0,H,3,0,H
+POR,18/12/2010,17:00,SL Benfica,Rio Ave FC,5,2,H,2,1,H
+POR,18/12/2010,19:15,SC Beira-Mar,Vitória Guimarães,3,2,H,1,0,H
+POR,19/12/2010,16:00,CS Marítimo,Portimonense SC,1,1,D,0,0,D
+POR,19/12/2010,16:00,Naval 1° de Maio,União Leiria,0,3,A,0,1,A
+POR,19/12/2010,18:00,SC Olhanense,CD Nacional,0,0,D,0,0,D
+POR,19/12/2010,20:15,Paços de Ferreira,FC Porto,0,3,A,0,1,A
+POR,20/12/2010,19:45,Vitória Setúbal,Sporting CP,0,3,A,0,2,A
+POR,07/01/2011,20:15,Portimonense SC,Vitória Setúbal,3,4,A,2,1,H
+POR,08/01/2011,19:15,FC Porto,CS Marítimo,4,1,H,1,0,H
+POR,08/01/2011,21:15,Sporting CP,Sporting Braga,2,1,H,2,1,H
+POR,09/01/2011,16:00,Rio Ave FC,SC Olhanense,0,1,A,0,1,A
+POR,09/01/2011,16:00,CD Nacional,SC Beira-Mar,0,0,D,0,0,D
+POR,09/01/2011,16:00,Académica de Coimbra,Paços de Ferreira,0,0,D,0,0,D
+POR,09/01/2011,18:00,Vitória Guimarães,Naval 1° de Maio,1,2,A,1,0,H
+POR,09/01/2011,20:15,União Leiria,SL Benfica,0,3,A,0,1,A
+POR,14/01/2011,20:15,Portimonense SC,Sporting Braga,0,3,A,0,0,D
+POR,15/01/2011,19:15,Vitória Guimarães,SC Olhanense,1,0,H,0,0,D
+POR,15/01/2011,21:15,Sporting CP,Paços de Ferreira,2,3,A,1,2,A
+POR,16/01/2011,16:00,CD Nacional,Rio Ave FC,1,0,H,0,0,D
+POR,16/01/2011,16:00,Vitória Setúbal,CS Marítimo,2,4,A,1,1,D
+POR,16/01/2011,16:00,União Leiria,SC Beira-Mar,0,3,A,0,1,A
+POR,16/01/2011,18:00,FC Porto,Naval 1° de Maio,3,1,H,2,0,H
+POR,16/01/2011,20:15,Académica de Coimbra,SL Benfica,0,1,A,0,1,A
+POR,22/01/2011,16:00,Paços de Ferreira,União Leiria,1,1,D,0,0,D
+POR,22/01/2011,16:00,SC Olhanense,Académica de Coimbra,2,1,H,1,1,D
+POR,22/01/2011,17:00,Sporting Braga,Vitória Setúbal,2,2,D,0,2,A
+POR,22/01/2011,17:00,Rio Ave FC,Vitória Guimarães,2,3,A,0,1,A
+POR,22/01/2011,19:15,SC Beira-Mar,FC Porto,0,1,A,0,1,A
+POR,22/01/2011,20:00,Naval 1° de Maio,Portimonense SC,1,1,D,0,1,A
+POR,22/01/2011,21:15,SL Benfica,CD Nacional,4,2,H,2,0,H
+POR,24/01/2011,20:15,CS Marítimo,Sporting CP,0,3,A,0,1,A
+POR,04/02/2011,20:15,Sporting CP,Naval 1° de Maio,3,3,D,1,2,A
+POR,05/02/2011,19:15,CS Marítimo,Sporting Braga,1,2,A,1,1,D
+POR,06/02/2011,16:00,Vitória Guimarães,CD Nacional,0,0,D,0,0,D
+POR,06/02/2011,16:00,Portimonense SC,Paços de Ferreira,0,1,A,0,0,D
+POR,06/02/2011,16:00,Académica de Coimbra,SC Beira-Mar,3,3,D,1,1,D
+POR,06/02/2011,16:00,União Leiria,SC Olhanense,0,2,A,0,2,A
+POR,06/02/2011,18:15,FC Porto,Rio Ave FC,1,0,H,1,0,H
+POR,06/02/2011,20:15,Vitória Setúbal,SL Benfica,0,2,A,0,1,A
+POR,12/02/2011,19:15,CD Nacional,União Leiria,0,1,A,0,1,A
+POR,12/02/2011,21:15,SC Olhanense,Sporting CP,2,2,D,0,1,A
+POR,13/02/2011,16:00,Paços de Ferreira,CS Marítimo,1,0,H,0,0,D
+POR,13/02/2011,16:00,Naval 1° de Maio,Académica de Coimbra,3,1,H,2,0,H
+POR,13/02/2011,16:00,Rio Ave FC,Portimonense SC,2,0,H,0,0,D
+POR,13/02/2011,18:15,SL Benfica,Vitória Guimarães,3,0,H,1,0,H
+POR,13/02/2011,20:15,Sporting Braga,FC Porto,0,2,A,0,1,A
+POR,14/02/2011,20:15,SC Beira-Mar,Vitória Setúbal,0,0,D,0,0,D
+POR,26/01/2011,19:45,FC Porto,CD Nacional,3,0,H,3,0,H
+POR,18/02/2011,20:15,União Leiria,Vitória Guimarães,0,1,A,0,1,A
+POR,19/02/2011,19:15,Portimonense SC,SC Olhanense,1,1,D,1,0,H
+POR,20/02/2011,16:00,Académica de Coimbra,Rio Ave FC,0,1,A,0,0,D
+POR,20/02/2011,16:00,Vitória Setúbal,Naval 1° de Maio,1,1,D,1,0,H
+POR,20/02/2011,18:00,CS Marítimo,SC Beira-Mar,1,0,H,0,0,D
+POR,20/02/2011,20:15,Sporting Braga,Paços de Ferreira,1,2,A,1,2,A
+POR,21/02/2011,20:15,Sporting CP,SL Benfica,0,2,A,0,1,A
+POR,25/02/2011,20:15,Vitória Guimarães,Académica de Coimbra,0,2,A,0,0,D
+POR,26/02/2011,16:00,Paços de Ferreira,Vitória Setúbal,2,0,H,1,0,H
+POR,26/02/2011,20:15,SC Olhanense,FC Porto,0,3,A,0,0,D
+POR,27/02/2011,16:00,Rio Ave FC,União Leiria,1,0,H,1,0,H
+POR,27/02/2011,16:00,SC Beira-Mar,Portimonense SC,0,1,A,0,0,D
+POR,27/02/2011,18:00,SL Benfica,CS Marítimo,2,1,H,0,0,D
+POR,27/02/2011,20:15,CD Nacional,Sporting CP,1,0,H,1,0,H
+POR,28/02/2011,20:15,Naval 1° de Maio,Sporting Braga,0,0,D,0,0,D
+POR,04/03/2011,20:15,Académica de Coimbra,União Leiria,0,0,D,0,0,D
+POR,05/03/2011,19:45,FC Porto,Vitória Guimarães,2,0,H,0,0,D
+POR,06/03/2011,16:00,CS Marítimo,Rio Ave FC,0,1,A,0,0,D
+POR,06/03/2011,16:00,Vitória Setúbal,SC Olhanense,0,0,D,0,0,D
+POR,06/03/2011,18:00,Sporting CP,SC Beira-Mar,1,0,H,0,0,D
+POR,06/03/2011,20:15,Sporting Braga,SL Benfica,2,1,H,1,1,D
+POR,07/03/2011,18:00,Paços de Ferreira,Naval 1° de Maio,0,0,D,0,0,D
+POR,07/03/2011,20:15,Portimonense SC,CD Nacional,1,1,D,0,0,D
+POR,11/03/2011,20:15,SC Beira-Mar,Paços de Ferreira,3,1,H,1,0,H
+POR,12/03/2011,18:15,Rio Ave FC,Sporting CP,0,0,D,0,0,D
+POR,12/03/2011,20:15,Vitória Guimarães,Vitória Setúbal,1,1,D,1,0,H
+POR,13/03/2011,16:00,Naval 1° de Maio,CS Marítimo,0,3,A,0,2,A
+POR,13/03/2011,16:00,CD Nacional,Académica de Coimbra,1,1,D,0,0,D
+POR,13/03/2011,20:15,SL Benfica,Portimonense SC,1,1,D,0,1,A
+POR,14/03/2011,20:15,União Leiria,FC Porto,0,2,A,0,0,D
+POR,27/03/2011,20:15,SC Olhanense,Sporting Braga,0,2,A,0,1,A
+POR,18/03/2011,20:15,Portimonense SC,Vitória Guimarães,2,1,H,1,1,D
+POR,19/03/2011,20:15,Sporting CP,União Leiria,0,0,D,0,0,D
+POR,20/03/2011,16:00,Vitória Setúbal,CD Nacional,2,1,H,1,0,H
+POR,20/03/2011,16:00,Naval 1° de Maio,SC Beira-Mar,2,2,D,0,2,A
+POR,20/03/2011,16:00,CS Marítimo,SC Olhanense,4,0,H,2,0,H
+POR,20/03/2011,20:15,FC Porto,Académica de Coimbra,3,1,H,0,1,A
+POR,21/03/2011,18:45,Sporting Braga,Rio Ave FC,1,0,H,0,0,D
+POR,21/03/2011,20:45,Paços de Ferreira,SL Benfica,1,5,A,1,3,A
+POR,01/04/2011,20:15,União Leiria,CS Marítimo,1,3,A,0,1,A
+POR,02/04/2011,18:00,Académica de Coimbra,Portimonense SC,1,0,H,0,0,D
+POR,02/04/2011,20:15,SC Beira-Mar,Sporting Braga,1,2,A,1,0,H
+POR,03/04/2011,16:00,Rio Ave FC,Vitória Setúbal,2,0,H,1,0,H
+POR,03/04/2011,16:00,SC Olhanense,Naval 1° de Maio,1,3,A,0,0,D
+POR,03/04/2011,18:15,Vitória Guimarães,Sporting CP,1,1,D,0,1,A
+POR,03/04/2011,20:30,SL Benfica,FC Porto,1,2,A,1,2,A
+POR,04/04/2011,20:15,CD Nacional,Paços de Ferreira,1,0,H,0,0,D
+POR,08/04/2011,20:15,CS Marítimo,CD Nacional,1,1,D,1,0,H
+POR,09/04/2011,20:15,Sporting CP,Académica de Coimbra,2,0,H,2,0,H
+POR,10/04/2011,16:00,Paços de Ferreira,Rio Ave FC,1,6,A,1,0,H
+POR,10/04/2011,16:00,Vitória Setúbal,União Leiria,4,1,H,1,0,H
+POR,10/04/2011,16:00,SC Beira-Mar,SC Olhanense,1,0,H,0,0,D
+POR,10/04/2011,18:15,Portimonense SC,FC Porto,2,3,A,0,0,D
+POR,10/04/2011,20:15,Naval 1° de Maio,SL Benfica,2,1,H,1,1,D
+POR,11/04/2011,20:15,Sporting Braga,Vitória Guimarães,3,1,H,0,0,D
+POR,15/04/2011,20:15,Académica de Coimbra,Vitória Setúbal,1,1,D,1,0,H
+POR,16/04/2011,19:15,SC Olhanense,Paços de Ferreira,0,0,D,0,0,D
+POR,16/04/2011,21:15,Vitória Guimarães,CS Marítimo,2,0,H,0,0,D
+POR,17/04/2011,16:00,Rio Ave FC,Naval 1° de Maio,1,0,H,1,0,H
+POR,17/04/2011,16:00,União Leiria,Portimonense SC,0,1,A,0,0,D
+POR,17/04/2011,18:15,SL Benfica,SC Beira-Mar,2,1,H,0,0,D
+POR,17/04/2011,20:15,FC Porto,Sporting CP,3,2,H,1,1,D
+POR,18/04/2011,20:15,CD Nacional,Sporting Braga,1,1,D,0,0,D
+POR,29/04/2011,20:15,Paços de Ferreira,Vitória Guimarães,2,1,H,1,1,D
+POR,30/04/2011,20:15,Sporting CP,Portimonense SC,2,1,H,2,0,H
+POR,01/05/2011,16:00,SC Beira-Mar,Rio Ave FC,1,1,D,1,0,H
+POR,01/05/2011,16:00,Naval 1° de Maio,CD Nacional,1,2,A,1,2,A
+POR,01/05/2011,16:00,Sporting Braga,União Leiria,0,0,D,0,0,D
+POR,01/05/2011,16:00,CS Marítimo,Académica de Coimbra,1,0,H,1,0,H
+POR,01/05/2011,18:15,SC Olhanense,SL Benfica,1,1,D,0,1,A
+POR,01/05/2011,20:15,Vitória Setúbal,FC Porto,0,4,A,0,2,A
+POR,08/05/2011,20:15,Sporting CP,Vitória Setúbal,0,1,A,0,0,D
+POR,08/05/2011,20:15,Portimonense SC,CS Marítimo,1,0,H,0,0,D
+POR,08/05/2011,20:15,Académica de Coimbra,Sporting Braga,0,0,D,0,0,D
+POR,08/05/2011,20:15,FC Porto,Paços de Ferreira,3,3,D,2,0,H
+POR,08/05/2011,20:15,União Leiria,Naval 1° de Maio,1,0,H,0,0,D
+POR,08/05/2011,20:15,Vitória Guimarães,SC Beira-Mar,1,0,H,0,0,D
+POR,08/05/2011,20:15,CD Nacional,SC Olhanense,0,1,A,0,0,D
+POR,08/05/2011,20:15,Rio Ave FC,SL Benfica,1,2,A,0,2,A
+POR,14/05/2011,20:15,SC Olhanense,Rio Ave FC,2,2,D,0,1,A
+POR,14/05/2011,20:15,SC Beira-Mar,CD Nacional,0,2,A,0,1,A
+POR,14/05/2011,20:15,Naval 1° de Maio,Vitória Guimarães,0,3,A,0,2,A
+POR,14/05/2011,20:15,SL Benfica,União Leiria,3,3,D,1,1,D
+POR,14/05/2011,20:15,Paços de Ferreira,Académica de Coimbra,5,1,H,5,0,H
+POR,14/05/2011,20:15,CS Marítimo,FC Porto,0,2,A,0,2,A
+POR,14/05/2011,20:15,Vitória Setúbal,Portimonense SC,3,1,H,1,1,D
+POR,14/05/2011,20:15,Sporting Braga,Sporting CP,0,1,A,0,1,A

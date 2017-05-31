@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHN,27/03/2010,06:30,Changchun Yatai,Liáoníng Hóngyùn,0,0,D,0,0,D
+CHN,27/03/2010,11:30,Beijing Guoan,Nanchang Hengyuan,2,0,H,0,0,D
+CHN,27/03/2010,11:30,Shandong Luneng,Hangzhou Greentown,4,2,H,1,0,H
+CHN,27/03/2010,11:30,Changsha Ginde,Shanghai Shenhua,2,0,H,1,0,H
+CHN,27/03/2010,11:45,Henan Jianye,Chongqing Lifan,2,0,H,0,0,D
+CHN,28/03/2010,08:30,Shenzhen Ruby FC,Jiangsu Sainty,0,0,D,0,0,D
+CHN,28/03/2010,08:30,Shaanxi Zhongjian Chanba,Dalian Shide,1,1,D,0,1,A
+CHN,28/03/2010,08:30,Qingdao Jonoon,Tianjin Teda,1,1,D,1,0,H
+CHN,03/04/2010,08:30,Hangzhou Greentown,Changsha Ginde,1,1,D,NaN,NaN,NaN
+CHN,03/04/2010,08:40,Nanchang Hengyuan,Shanghai Shenhua,1,2,A,NaN,NaN,NaN
+CHN,04/04/2010,07:30,Dalian Shide,Henan Jianye,0,0,D,NaN,NaN,NaN
+CHN,04/04/2010,07:30,Liáoníng Hóngyùn,Shaanxi Zhongjian Chanba,2,1,H,NaN,NaN,NaN
+CHN,04/04/2010,08:30,Chongqing Lifan,Qingdao Jonoon,1,1,D,NaN,NaN,NaN
+CHN,04/04/2010,08:30,Tianjin Teda,Shandong Luneng,1,1,D,NaN,NaN,NaN
+CHN,04/04/2010,08:30,Jiangsu Sainty,Changchun Yatai,1,2,A,NaN,NaN,NaN
+CHN,04/04/2010,12:30,Beijing Guoan,Shenzhen Ruby FC,1,2,A,NaN,NaN,NaN
+CHN,09/04/2010,12:30,Shandong Luneng,Chongqing Lifan,3,0,H,NaN,NaN,NaN
+CHN,09/04/2010,12:45,Henan Jianye,Liáoníng Hóngyùn,0,2,A,NaN,NaN,NaN
+CHN,10/04/2010,07:30,Changchun Yatai,Beijing Guoan,0,1,A,NaN,NaN,NaN
+CHN,10/04/2010,12:45,Shanghai Shenhua,Hangzhou Greentown,2,1,H,NaN,NaN,NaN
+CHN,11/04/2010,08:30,Shenzhen Ruby FC,Nanchang Hengyuan,1,0,H,NaN,NaN,NaN
+CHN,11/04/2010,08:30,Qingdao Jonoon,Dalian Shide,1,1,D,NaN,NaN,NaN
+CHN,11/04/2010,12:30,Changsha Ginde,Tianjin Teda,0,0,D,NaN,NaN,NaN
+CHN,13/04/2010,08:30,Shaanxi Zhongjian Chanba,Jiangsu Sainty,1,1,D,NaN,NaN,NaN
+CHN,17/04/2010,07:30,Liáoníng Hóngyùn,Qingdao Jonoon,3,3,D,NaN,NaN,NaN
+CHN,17/04/2010,08:30,Tianjin Teda,Shanghai Shenhua,0,2,A,NaN,NaN,NaN
+CHN,17/04/2010,08:30,Chongqing Lifan,Changsha Ginde,2,0,H,NaN,NaN,NaN
+CHN,17/04/2010,08:40,Nanchang Hengyuan,Hangzhou Greentown,3,2,H,NaN,NaN,NaN
+CHN,18/04/2010,08:30,Jiangsu Sainty,Henan Jianye,0,0,D,NaN,NaN,NaN
+CHN,18/04/2010,08:30,Shenzhen Ruby FC,Changchun Yatai,2,1,H,NaN,NaN,NaN
+CHN,18/04/2010,10:00,Dalian Shide,Shandong Luneng,2,2,D,NaN,NaN,NaN
+CHN,18/04/2010,12:30,Beijing Guoan,Shaanxi Zhongjian Chanba,1,0,H,NaN,NaN,NaN
+CHN,22/04/2010,12:30,Shandong Luneng,Liáoníng Hóngyùn,2,0,H,NaN,NaN,NaN
+CHN,23/04/2010,07:30,Changchun Yatai,Nanchang Hengyuan,1,2,A,NaN,NaN,NaN
+CHN,23/04/2010,12:45,Henan Jianye,Beijing Guoan,1,1,D,NaN,NaN,NaN
+CHN,24/04/2010,08:30,Hangzhou Greentown,Tianjin Teda,0,0,D,NaN,NaN,NaN
+CHN,24/04/2010,12:45,Shanghai Shenhua,Chongqing Lifan,1,2,A,NaN,NaN,NaN
+CHN,25/04/2010,08:30,Shaanxi Zhongjian Chanba,Shenzhen Ruby FC,3,2,H,NaN,NaN,NaN
+CHN,25/04/2010,08:30,Qingdao Jonoon,Jiangsu Sainty,1,1,D,NaN,NaN,NaN
+CHN,25/04/2010,12:30,Changsha Ginde,Dalian Shide,2,3,A,NaN,NaN,NaN
+CHN,01/05/2010,07:30,Liáoníng Hóngyùn,Changsha Ginde,0,1,A,NaN,NaN,NaN
+CHN,01/05/2010,08:30,Chongqing Lifan,Hangzhou Greentown,0,1,A,NaN,NaN,NaN
+CHN,02/05/2010,07:30,Dalian Shide,Shanghai Shenhua,0,2,A,NaN,NaN,NaN
+CHN,02/05/2010,08:00,Changchun Yatai,Shaanxi Zhongjian Chanba,2,0,H,NaN,NaN,NaN
+CHN,02/05/2010,08:30,Jiangsu Sainty,Shandong Luneng,3,3,D,NaN,NaN,NaN
+CHN,02/05/2010,08:30,Shenzhen Ruby FC,Henan Jianye,1,1,D,NaN,NaN,NaN
+CHN,02/05/2010,08:40,Nanchang Hengyuan,Tianjin Teda,2,2,D,NaN,NaN,NaN
+CHN,03/05/2010,12:30,Beijing Guoan,Qingdao Jonoon,1,1,D,NaN,NaN,NaN
+CHN,07/05/2010,12:30,Hangzhou Greentown,Dalian Shide,1,0,H,NaN,NaN,NaN
+CHN,07/05/2010,12:45,Henan Jianye,Changchun Yatai,3,2,H,NaN,NaN,NaN
+CHN,08/05/2010,08:30,Tianjin Teda,Chongqing Lifan,1,1,D,NaN,NaN,NaN
+CHN,08/05/2010,12:45,Shanghai Shenhua,Liáoníng Hóngyùn,2,2,D,NaN,NaN,NaN
+CHN,09/05/2010,08:30,Shaanxi Zhongjian Chanba,Nanchang Hengyuan,0,3,A,NaN,NaN,NaN
+CHN,09/05/2010,08:30,Qingdao Jonoon,Shenzhen Ruby FC,3,2,H,NaN,NaN,NaN
+CHN,09/05/2010,12:30,Changsha Ginde,Jiangsu Sainty,0,0,D,NaN,NaN,NaN
+CHN,26/08/2010,12:30,Shandong Luneng,Beijing Guoan,1,0,H,1,0,H
+CHN,15/05/2010,07:30,Dalian Shide,Tianjin Teda,1,2,A,NaN,NaN,NaN
+CHN,15/05/2010,08:00,Changchun Yatai,Qingdao Jonoon,2,0,H,NaN,NaN,NaN
+CHN,15/05/2010,12:30,Jiangsu Sainty,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,16/05/2010,07:30,Liáoníng Hóngyùn,Hangzhou Greentown,1,0,H,NaN,NaN,NaN
+CHN,16/05/2010,08:30,Shenzhen Ruby FC,Shandong Luneng,0,1,A,NaN,NaN,NaN
+CHN,16/05/2010,08:30,Shaanxi Zhongjian Chanba,Henan Jianye,1,1,D,NaN,NaN,NaN
+CHN,16/05/2010,08:40,Nanchang Hengyuan,Chongqing Lifan,2,5,A,NaN,NaN,NaN
+CHN,16/05/2010,12:30,Beijing Guoan,Changsha Ginde,0,0,D,NaN,NaN,NaN
+CHN,22/05/2010,08:30,Chongqing Lifan,Dalian Shide,1,3,A,NaN,NaN,NaN
+CHN,22/05/2010,12:30,Shandong Luneng,Changchun Yatai,2,2,D,NaN,NaN,NaN
+CHN,22/05/2010,12:30,Hangzhou Greentown,Jiangsu Sainty,2,1,H,NaN,NaN,NaN
+CHN,22/05/2010,12:30,Tianjin Teda,Liáoníng Hóngyùn,2,1,H,NaN,NaN,NaN
+CHN,22/05/2010,12:45,Henan Jianye,Nanchang Hengyuan,1,0,H,NaN,NaN,NaN
+CHN,22/05/2010,12:45,Shanghai Shenhua,Beijing Guoan,3,2,H,NaN,NaN,NaN
+CHN,23/05/2010,08:30,Qingdao Jonoon,Shaanxi Zhongjian Chanba,0,1,A,NaN,NaN,NaN
+CHN,23/05/2010,12:30,Changsha Ginde,Shenzhen Ruby FC,0,0,D,NaN,NaN,NaN
+CHN,26/05/2010,07:30,Liáoníng Hóngyùn,Chongqing Lifan,1,0,H,NaN,NaN,NaN
+CHN,26/05/2010,08:30,Jiangsu Sainty,Tianjin Teda,1,0,H,NaN,NaN,NaN
+CHN,26/05/2010,08:30,Shaanxi Zhongjian Chanba,Shandong Luneng,1,0,H,NaN,NaN,NaN
+CHN,26/05/2010,08:40,Nanchang Hengyuan,Dalian Shide,1,1,D,NaN,NaN,NaN
+CHN,26/05/2010,12:30,Beijing Guoan,Hangzhou Greentown,0,2,A,NaN,NaN,NaN
+CHN,26/05/2010,12:30,Changchun Yatai,Changsha Ginde,3,0,H,NaN,NaN,NaN
+CHN,26/05/2010,12:45,Henan Jianye,Qingdao Jonoon,2,2,D,NaN,NaN,NaN
+CHN,26/05/2010,12:45,Shanghai Shenhua,Shenzhen Ruby FC,1,0,H,NaN,NaN,NaN
+CHN,29/05/2010,12:30,Hangzhou Greentown,Shenzhen Ruby FC,2,1,H,NaN,NaN,NaN
+CHN,30/05/2010,07:30,Dalian Shide,Liáoníng Hóngyùn,0,2,A,NaN,NaN,NaN
+CHN,30/05/2010,08:30,Qingdao Jonoon,Nanchang Hengyuan,0,2,A,NaN,NaN,NaN
+CHN,30/05/2010,08:30,Changsha Ginde,Shaanxi Zhongjian Chanba,1,1,D,NaN,NaN,NaN
+CHN,30/05/2010,12:30,Shandong Luneng,Henan Jianye,2,2,D,NaN,NaN,NaN
+CHN,30/05/2010,12:30,Tianjin Teda,Beijing Guoan,0,0,D,NaN,NaN,NaN
+CHN,30/05/2010,12:30,Chongqing Lifan,Jiangsu Sainty,2,3,A,NaN,NaN,NaN
+CHN,30/05/2010,12:45,Shanghai Shenhua,Changchun Yatai,1,0,H,NaN,NaN,NaN
+CHN,14/07/2010,08:30,Jiangsu Sainty,Dalian Shide,0,0,D,0,0,D
+CHN,14/07/2010,09:30,Shenzhen Ruby FC,Tianjin Teda,1,2,A,1,1,D
+CHN,14/07/2010,10:00,Shaanxi Zhongjian Chanba,Shanghai Shenhua,2,1,H,1,1,D
+CHN,14/07/2010,12:30,Nanchang Hengyuan,Liáoníng Hóngyùn,0,0,D,0,0,D
+CHN,14/07/2010,12:30,Beijing Guoan,Chongqing Lifan,1,0,H,1,0,H
+CHN,14/07/2010,12:30,Changchun Yatai,Hangzhou Greentown,3,4,A,1,3,A
+CHN,14/07/2010,12:30,Qingdao Jonoon,Shandong Luneng,1,3,A,0,3,A
+CHN,14/07/2010,12:45,Henan Jianye,Changsha Ginde,2,0,H,1,0,H
+CHN,17/07/2010,12:30,Hangzhou Greentown,Shaanxi Zhongjian Chanba,2,0,H,2,0,H
+CHN,18/07/2010,08:30,Changsha Ginde,Qingdao Jonoon,0,2,A,0,1,A
+CHN,18/07/2010,12:00,Dalian Shide,Beijing Guoan,3,0,H,0,0,D
+CHN,18/07/2010,12:00,Liáoníng Hóngyùn,Jiangsu Sainty,2,1,H,0,1,A
+CHN,18/07/2010,12:30,Shandong Luneng,Nanchang Hengyuan,1,0,H,0,0,D
+CHN,18/07/2010,12:30,Tianjin Teda,Changchun Yatai,1,2,A,0,1,A
+CHN,18/07/2010,12:30,Chongqing Lifan,Shenzhen Ruby FC,0,2,A,0,1,A
+CHN,18/07/2010,12:45,Shanghai Shenhua,Henan Jianye,3,3,D,2,0,H
+CHN,07/07/2010,12:30,Beijing Guoan,Liáoníng Hóngyùn,3,0,H,1,0,H
+CHN,24/07/2010,10:00,Shaanxi Zhongjian Chanba,Tianjin Teda,0,0,D,0,0,D
+CHN,24/07/2010,12:30,Nanchang Hengyuan,Jiangsu Sainty,0,1,A,0,0,D
+CHN,24/07/2010,12:30,Changchun Yatai,Chongqing Lifan,1,2,A,1,0,H
+CHN,24/07/2010,12:30,Shandong Luneng,Changsha Ginde,4,1,H,1,0,H
+CHN,24/07/2010,12:45,Henan Jianye,Hangzhou Greentown,1,0,H,0,0,D
+CHN,25/07/2010,08:30,Shenzhen Ruby FC,Dalian Shide,0,0,D,0,0,D
+CHN,25/07/2010,08:30,Qingdao Jonoon,Shanghai Shenhua,0,2,A,0,2,A
+CHN,28/07/2010,08:30,Jiangsu Sainty,Beijing Guoan,0,1,A,0,1,A
+CHN,28/07/2010,12:00,Dalian Shide,Changchun Yatai,2,1,H,0,1,A
+CHN,28/07/2010,12:00,Liáoníng Hóngyùn,Shenzhen Ruby FC,1,2,A,1,0,H
+CHN,28/07/2010,12:30,Changsha Ginde,Nanchang Hengyuan,2,1,H,1,0,H
+CHN,28/07/2010,12:30,Hangzhou Greentown,Qingdao Jonoon,1,2,A,0,1,A
+CHN,28/07/2010,12:30,Tianjin Teda,Henan Jianye,2,1,H,1,0,H
+CHN,28/07/2010,12:30,Chongqing Lifan,Shaanxi Zhongjian Chanba,2,2,D,1,1,D
+CHN,28/07/2010,12:45,Shanghai Shenhua,Shandong Luneng,1,2,A,0,0,D
+CHN,31/07/2010,12:30,Chongqing Lifan,Henan Jianye,1,0,H,0,0,D
+CHN,31/07/2010,12:30,Hangzhou Greentown,Shandong Luneng,2,1,H,0,1,A
+CHN,01/08/2010,08:30,Jiangsu Sainty,Shenzhen Ruby FC,0,0,D,0,0,D
+CHN,01/08/2010,12:00,Liáoníng Hóngyùn,Changchun Yatai,5,1,H,2,0,H
+CHN,01/08/2010,12:00,Dalian Shide,Shaanxi Zhongjian Chanba,2,2,D,0,0,D
+CHN,01/08/2010,12:30,Nanchang Hengyuan,Beijing Guoan,0,1,A,0,1,A
+CHN,01/08/2010,12:30,Tianjin Teda,Qingdao Jonoon,2,1,H,0,1,A
+CHN,01/08/2010,12:45,Shanghai Shenhua,Changsha Ginde,2,1,H,1,1,D
+CHN,06/06/2010,08:30,Shenzhen Ruby FC,Beijing Guoan,1,1,D,0,0,D
+CHN,07/08/2010,10:00,Shaanxi Zhongjian Chanba,Liáoníng Hóngyùn,1,0,H,1,0,H
+CHN,07/08/2010,12:30,Shandong Luneng,Tianjin Teda,1,0,H,0,0,D
+CHN,08/08/2010,12:30,Changsha Ginde,Hangzhou Greentown,1,1,D,0,1,A
+CHN,08/08/2010,12:30,Changchun Yatai,Jiangsu Sainty,1,0,H,0,0,D
+CHN,08/08/2010,12:45,Shanghai Shenhua,Nanchang Hengyuan,1,3,A,0,2,A
+CHN,08/08/2010,12:45,Henan Jianye,Dalian Shide,0,1,A,0,0,D
+CHN,04/09/2010,08:30,Qingdao Jonoon,Chongqing Lifan,2,1,H,0,1,A
+CHN,14/08/2010,12:00,Liáoníng Hóngyùn,Henan Jianye,1,1,D,0,0,D
+CHN,14/08/2010,12:00,Dalian Shide,Qingdao Jonoon,3,2,H,1,2,A
+CHN,14/08/2010,12:30,Nanchang Hengyuan,Shenzhen Ruby FC,0,1,A,0,1,A
+CHN,14/08/2010,12:30,Beijing Guoan,Changchun Yatai,2,1,H,2,0,H
+CHN,14/08/2010,12:30,Jiangsu Sainty,Shaanxi Zhongjian Chanba,1,0,H,1,0,H
+CHN,14/08/2010,12:30,Chongqing Lifan,Shandong Luneng,1,2,A,1,2,A
+CHN,14/08/2010,12:30,Tianjin Teda,Changsha Ginde,3,2,H,0,0,D
+CHN,14/08/2010,12:30,Hangzhou Greentown,Shanghai Shenhua,1,1,D,0,0,D
+CHN,18/08/2010,10:00,Shaanxi Zhongjian Chanba,Beijing Guoan,0,0,D,0,0,D
+CHN,18/08/2010,12:30,Hangzhou Greentown,Nanchang Hengyuan,1,1,D,1,0,H
+CHN,18/08/2010,12:30,Changsha Ginde,Chongqing Lifan,2,2,D,1,1,D
+CHN,18/08/2010,12:30,Shandong Luneng,Dalian Shide,2,1,H,0,1,A
+CHN,18/08/2010,12:30,Qingdao Jonoon,Liáoníng Hóngyùn,0,0,D,0,0,D
+CHN,18/08/2010,12:30,Changchun Yatai,Shenzhen Ruby FC,2,1,H,1,0,H
+CHN,18/08/2010,12:45,Shanghai Shenhua,Tianjin Teda,1,0,H,1,0,H
+CHN,18/08/2010,12:45,Henan Jianye,Jiangsu Sainty,0,2,A,0,0,D
+CHN,22/08/2010,08:30,Shenzhen Ruby FC,Shaanxi Zhongjian Chanba,1,3,A,1,2,A
+CHN,22/08/2010,12:00,Liáoníng Hóngyùn,Shandong Luneng,4,1,H,3,1,H
+CHN,22/08/2010,12:00,Dalian Shide,Changsha Ginde,0,1,A,0,0,D
+CHN,22/08/2010,12:30,Nanchang Hengyuan,Changchun Yatai,2,0,H,0,0,D
+CHN,22/08/2010,12:30,Beijing Guoan,Henan Jianye,2,2,D,2,0,H
+CHN,22/08/2010,12:30,Jiangsu Sainty,Qingdao Jonoon,4,0,H,2,0,H
+CHN,22/08/2010,12:30,Chongqing Lifan,Shanghai Shenhua,0,1,A,0,0,D
+CHN,22/08/2010,12:30,Tianjin Teda,Hangzhou Greentown,0,0,D,0,0,D
+CHN,27/08/2010,10:00,Shaanxi Zhongjian Chanba,Changchun Yatai,1,0,H,1,0,H
+CHN,28/08/2010,12:30,Tianjin Teda,Nanchang Hengyuan,1,0,H,0,0,D
+CHN,29/08/2010,08:30,Qingdao Jonoon,Beijing Guoan,0,0,D,0,0,D
+CHN,29/08/2010,12:30,Hangzhou Greentown,Chongqing Lifan,0,0,D,0,0,D
+CHN,29/08/2010,12:30,Changsha Ginde,Liáoníng Hóngyùn,1,0,H,1,0,H
+CHN,29/08/2010,12:45,Shanghai Shenhua,Dalian Shide,1,1,D,1,0,H
+CHN,29/08/2010,12:45,Henan Jianye,Shenzhen Ruby FC,1,0,H,0,0,D
+CHN,30/08/2010,12:30,Shandong Luneng,Jiangsu Sainty,3,0,H,2,0,H
+CHN,10/09/2010,12:30,Nanchang Hengyuan,Shaanxi Zhongjian Chanba,1,1,D,0,0,D
+CHN,11/09/2010,12:00,Liáoníng Hóngyùn,Shanghai Shenhua,1,0,H,0,0,D
+CHN,11/09/2010,12:30,Changchun Yatai,Henan Jianye,0,0,D,0,0,D
+CHN,11/09/2010,12:30,Beijing Guoan,Shandong Luneng,2,3,A,1,2,A
+CHN,11/09/2010,12:30,Jiangsu Sainty,Changsha Ginde,0,0,D,0,0,D
+CHN,11/09/2010,12:30,Chongqing Lifan,Tianjin Teda,1,2,A,0,0,D
+CHN,12/09/2010,08:30,Shenzhen Ruby FC,Qingdao Jonoon,3,4,A,1,2,A
+CHN,12/09/2010,12:00,Dalian Shide,Hangzhou Greentown,2,1,H,0,1,A
+CHN,18/09/2010,12:30,Chongqing Lifan,Nanchang Hengyuan,3,2,H,1,0,H
+CHN,18/09/2010,12:30,Tianjin Teda,Dalian Shide,3,4,A,2,1,H
+CHN,18/09/2010,12:30,Shandong Luneng,Shenzhen Ruby FC,3,2,H,1,1,D
+CHN,18/09/2010,12:45,Shanghai Shenhua,Jiangsu Sainty,1,0,H,1,0,H
+CHN,18/09/2010,12:45,Henan Jianye,Shaanxi Zhongjian Chanba,1,0,H,1,0,H
+CHN,19/09/2010,08:30,Qingdao Jonoon,Changchun Yatai,0,1,A,0,1,A
+CHN,19/09/2010,09:30,Changsha Ginde,Beijing Guoan,1,0,H,0,0,D
+CHN,19/09/2010,12:30,Hangzhou Greentown,Liáoníng Hóngyùn,2,1,H,1,1,D
+CHN,24/09/2010,12:30,Jiangsu Sainty,Hangzhou Greentown,1,1,D,0,1,A
+CHN,25/09/2010,08:30,Dalian Shide,Chongqing Lifan,2,2,D,0,1,A
+CHN,25/09/2010,10:00,Shaanxi Zhongjian Chanba,Qingdao Jonoon,1,0,H,1,0,H
+CHN,25/09/2010,12:00,Liáoníng Hóngyùn,Tianjin Teda,1,3,A,1,1,D
+CHN,25/09/2010,12:30,Nanchang Hengyuan,Henan Jianye,1,1,D,1,0,H
+CHN,25/09/2010,12:30,Changchun Yatai,Shandong Luneng,1,1,D,1,0,H
+CHN,25/09/2010,12:30,Beijing Guoan,Shanghai Shenhua,4,1,H,1,0,H
+CHN,03/10/2010,08:30,Shenzhen Ruby FC,Changsha Ginde,2,0,H,1,0,H
+CHN,29/09/2010,08:00,Dalian Shide,Nanchang Hengyuan,2,1,H,1,0,H
+CHN,29/09/2010,08:30,Shenzhen Ruby FC,Shanghai Shenhua,0,4,A,0,0,D
+CHN,29/09/2010,08:30,Chongqing Lifan,Liáoníng Hóngyùn,1,1,D,0,1,A
+CHN,29/09/2010,12:30,Tianjin Teda,Jiangsu Sainty,2,1,H,2,0,H
+CHN,29/09/2010,12:30,Hangzhou Greentown,Beijing Guoan,1,2,A,1,1,D
+CHN,29/09/2010,12:30,Changsha Ginde,Changchun Yatai,2,2,D,1,1,D
+CHN,29/09/2010,12:30,Shandong Luneng,Shaanxi Zhongjian Chanba,1,0,H,1,0,H
+CHN,29/09/2010,12:30,Qingdao Jonoon,Henan Jianye,1,0,H,0,0,D
+CHN,16/10/2010,08:00,Changchun Yatai,Shanghai Shenhua,3,1,H,2,1,H
+CHN,16/10/2010,08:30,Nanchang Hengyuan,Qingdao Jonoon,2,0,H,0,0,D
+CHN,16/10/2010,12:00,Liáoníng Hóngyùn,Dalian Shide,1,1,D,1,0,H
+CHN,16/10/2010,12:30,Jiangsu Sainty,Chongqing Lifan,3,0,H,0,0,D
+CHN,17/10/2010,08:30,Shaanxi Zhongjian Chanba,Changsha Ginde,5,0,H,1,0,H
+CHN,17/10/2010,08:30,Shenzhen Ruby FC,Hangzhou Greentown,0,1,A,0,1,A
+CHN,17/10/2010,12:30,Beijing Guoan,Tianjin Teda,1,1,D,0,0,D
+CHN,17/10/2010,12:45,Henan Jianye,Shandong Luneng,1,1,D,1,0,H
+CHN,23/10/2010,08:30,Chongqing Lifan,Beijing Guoan,2,1,H,0,1,A
+CHN,23/10/2010,08:30,Tianjin Teda,Shenzhen Ruby FC,1,0,H,0,0,D
+CHN,23/10/2010,08:30,Changsha Ginde,Henan Jianye,1,2,A,1,1,D
+CHN,23/10/2010,12:00,Liáoníng Hóngyùn,Nanchang Hengyuan,1,0,H,1,0,H
+CHN,23/10/2010,12:30,Shandong Luneng,Qingdao Jonoon,1,1,D,0,1,A
+CHN,24/10/2010,08:30,Dalian Shide,Jiangsu Sainty,1,0,H,0,0,D
+CHN,24/10/2010,12:30,Hangzhou Greentown,Changchun Yatai,1,1,D,1,1,D
+CHN,24/10/2010,12:45,Shanghai Shenhua,Shaanxi Zhongjian Chanba,3,2,H,1,2,A
+CHN,27/10/2010,08:00,Changchun Yatai,Tianjin Teda,1,1,D,0,1,A
+CHN,27/10/2010,08:30,Shaanxi Zhongjian Chanba,Hangzhou Greentown,0,2,A,0,2,A
+CHN,27/10/2010,08:30,Shenzhen Ruby FC,Chongqing Lifan,3,1,H,1,0,H
+CHN,27/10/2010,08:30,Jiangsu Sainty,Liáoníng Hóngyùn,1,0,H,0,0,D
+CHN,27/10/2010,08:40,Nanchang Hengyuan,Shandong Luneng,1,1,D,0,0,D
+CHN,27/10/2010,12:30,Qingdao Jonoon,Changsha Ginde,2,2,D,1,1,D
+CHN,27/10/2010,12:30,Beijing Guoan,Dalian Shide,2,1,H,1,1,D
+CHN,27/10/2010,12:45,Henan Jianye,Shanghai Shenhua,2,1,H,1,1,D
+CHN,31/10/2010,07:30,Jiangsu Sainty,Nanchang Hengyuan,0,2,A,0,1,A
+CHN,31/10/2010,07:30,Liáoníng Hóngyùn,Beijing Guoan,2,2,D,2,2,D
+CHN,31/10/2010,07:30,Dalian Shide,Shenzhen Ruby FC,0,0,D,0,0,D
+CHN,31/10/2010,07:30,Chongqing Lifan,Changchun Yatai,1,1,D,1,0,H
+CHN,31/10/2010,07:30,Tianjin Teda,Shaanxi Zhongjian Chanba,3,1,H,1,1,D
+CHN,31/10/2010,07:30,Hangzhou Greentown,Henan Jianye,2,0,H,0,0,D
+CHN,31/10/2010,07:30,Shanghai Shenhua,Qingdao Jonoon,0,0,D,0,0,D
+CHN,31/10/2010,07:30,Changsha Ginde,Shandong Luneng,0,2,A,0,1,A
+CHN,06/11/2010,07:30,Nanchang Hengyuan,Changsha Ginde,0,0,D,0,0,D
+CHN,06/11/2010,07:30,Shandong Luneng,Shanghai Shenhua,5,2,H,2,1,H
+CHN,06/11/2010,07:30,Qingdao Jonoon,Hangzhou Greentown,0,1,A,0,0,D
+CHN,06/11/2010,07:30,Henan Jianye,Tianjin Teda,0,1,A,0,0,D
+CHN,06/11/2010,07:30,Shaanxi Zhongjian Chanba,Chongqing Lifan,2,2,D,1,1,D
+CHN,06/11/2010,07:30,Changchun Yatai,Dalian Shide,3,2,H,1,1,D
+CHN,06/11/2010,07:30,Shenzhen Ruby FC,Liáoníng Hóngyùn,4,4,D,2,3,A
+CHN,06/11/2010,07:30,Beijing Guoan,Jiangsu Sainty,1,0,H,0,0,D

@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MDA,13/07/2012,17:00,FC Sheriff,FC Costuleni,5,0,H,2,0,H
+MDA,14/07/2012,16:00,FC Olimpia,Nistru Otaci,2,0,H,2,0,H
+MDA,14/07/2012,16:00,FC Milsami,FC Academia UTM,1,0,H,0,0,D
+MDA,14/07/2012,16:00,FC Rapid Ghidighici,FC Tiraspol,0,1,A,0,0,D
+MDA,15/07/2012,16:00,FC Iskra-Stal,Dacia Chişinău,2,2,D,1,0,H
+MDA,15/07/2012,16:00,FC Zimbru,Speranţa Crihana Veche,1,1,D,0,1,A
+MDA,21/07/2012,16:00,FC Academia UTM,FC Sheriff,1,4,A,0,2,A
+MDA,21/07/2012,16:00,FC Costuleni,FC Iskra-Stal,0,0,D,0,0,D
+MDA,21/07/2012,16:00,Speranţa Crihana Veche,FC Rapid Ghidighici,0,1,A,0,1,A
+MDA,21/07/2012,17:00,FC Tiraspol,FC Olimpia,0,0,D,0,0,D
+MDA,22/07/2012,16:00,Dacia Chişinău,FC Zimbru,3,2,H,0,2,A
+MDA,22/07/2012,16:00,FC Milsami,Nistru Otaci,2,0,H,1,0,H
+MDA,28/07/2012,16:00,FC Iskra-Stal,FC Academia UTM,1,0,H,0,0,D
+MDA,28/07/2012,16:00,Nistru Otaci,FC Tiraspol,0,0,D,0,0,D
+MDA,29/07/2012,16:00,FC Rapid Ghidighici,Dacia Chişinău,0,1,A,0,1,A
+MDA,29/07/2012,16:00,FC Zimbru,FC Costuleni,3,3,D,1,0,H
+MDA,29/07/2012,16:00,Speranţa Crihana Veche,FC Olimpia,0,2,A,0,1,A
+MDA,29/07/2012,17:00,FC Sheriff,FC Milsami,1,0,H,1,0,H
+MDA,04/08/2012,15:00,Speranţa Crihana Veche,Nistru Otaci,0,0,D,0,0,D
+MDA,04/08/2012,15:00,FC Costuleni,FC Rapid Ghidighici,0,2,A,0,1,A
+MDA,04/08/2012,17:00,FC Sheriff,FC Iskra-Stal,1,0,H,0,0,D
+MDA,05/08/2012,15:00,FC Academia UTM,FC Zimbru,2,2,D,1,1,D
+MDA,05/08/2012,15:00,FC Milsami,FC Tiraspol,0,0,D,0,0,D
+MDA,05/08/2012,18:00,Dacia Chişinău,FC Olimpia,1,0,H,1,0,H
+MDA,10/08/2012,15:00,FC Rapid Ghidighici,FC Academia UTM,0,2,A,0,1,A
+MDA,10/08/2012,17:00,FC Tiraspol,Speranţa Crihana Veche,3,0,H,2,0,H
+MDA,11/08/2012,15:00,FC Olimpia,FC Costuleni,0,1,A,0,1,A
+MDA,11/08/2012,15:00,FC Iskra-Stal,FC Milsami,3,3,D,3,2,H
+MDA,11/08/2012,15:00,Nistru Otaci,Dacia Chişinău,0,2,A,0,0,D
+MDA,11/08/2012,18:00,FC Zimbru,FC Sheriff,0,1,A,0,1,A
+MDA,18/08/2012,15:00,FC Academia UTM,FC Olimpia,1,2,A,1,1,D
+MDA,18/08/2012,15:00,FC Costuleni,Nistru Otaci,1,1,D,1,1,D
+MDA,19/08/2012,15:00,FC Milsami,Speranţa Crihana Veche,3,2,H,0,1,A
+MDA,19/08/2012,15:00,FC Iskra-Stal,FC Zimbru,2,3,A,1,0,H
+MDA,19/08/2012,16:00,Dacia Chişinău,FC Tiraspol,1,1,D,0,1,A
+MDA,19/08/2012,17:00,FC Sheriff,FC Rapid Ghidighici,0,0,D,0,0,D
+MDA,25/08/2012,15:00,FC Rapid Ghidighici,FC Iskra-Stal,2,1,H,0,0,D
+MDA,25/08/2012,15:00,Nistru Otaci,FC Academia UTM,1,2,A,1,1,D
+MDA,25/08/2012,17:00,FC Tiraspol,FC Costuleni,4,0,H,1,0,H
+MDA,26/08/2012,15:00,FC Olimpia,FC Sheriff,0,1,A,0,0,D
+MDA,26/08/2012,15:00,Speranţa Crihana Veche,Dacia Chişinău,1,1,D,1,0,H
+MDA,26/08/2012,17:00,FC Zimbru,FC Milsami,2,1,H,1,0,H
+MDA,31/08/2012,15:00,FC Costuleni,Speranţa Crihana Veche,2,2,D,2,2,D
+MDA,01/09/2012,15:00,FC Milsami,Dacia Chişinău,0,0,D,0,0,D
+MDA,01/09/2012,15:00,FC Iskra-Stal,FC Olimpia,1,0,H,1,0,H
+MDA,01/09/2012,15:00,FC Academia UTM,FC Tiraspol,1,0,H,0,0,D
+MDA,01/09/2012,17:00,FC Zimbru,FC Rapid Ghidighici,1,0,H,0,0,D
+MDA,02/09/2012,16:00,FC Sheriff,Nistru Otaci,2,1,H,2,0,H
+MDA,15/09/2012,14:00,FC Olimpia,FC Zimbru,0,0,D,0,0,D
+MDA,15/09/2012,14:00,FC Rapid Ghidighici,FC Milsami,3,2,H,0,0,D
+MDA,15/09/2012,14:00,Nistru Otaci,FC Iskra-Stal,1,1,D,0,1,A
+MDA,15/09/2012,17:00,FC Tiraspol,FC Sheriff,1,2,A,1,0,H
+MDA,16/09/2012,14:00,Dacia Chişinău,FC Costuleni,4,2,H,2,0,H
+MDA,16/09/2012,14:00,Speranţa Crihana Veche,FC Academia UTM,1,3,A,1,3,A
+MDA,21/09/2012,14:00,FC Iskra-Stal,FC Tiraspol,0,0,D,0,0,D
+MDA,21/09/2012,14:00,FC Zimbru,Nistru Otaci,4,0,H,1,0,H
+MDA,21/09/2012,14:00,FC Rapid Ghidighici,FC Olimpia,0,0,D,0,0,D
+MDA,22/09/2012,14:00,FC Academia UTM,Dacia Chişinău,0,4,A,0,2,A
+MDA,22/09/2012,14:00,FC Milsami,FC Costuleni,3,0,H,1,0,H
+MDA,22/09/2012,17:00,FC Sheriff,Speranţa Crihana Veche,3,0,H,1,0,H
+MDA,29/09/2012,14:00,FC Olimpia,FC Milsami,0,2,A,0,2,A
+MDA,29/09/2012,16:00,FC Tiraspol,FC Zimbru,2,1,H,1,0,H
+MDA,29/09/2012,17:00,Dacia Chişinău,FC Sheriff,0,1,A,0,0,D
+MDA,30/09/2012,14:00,Nistru Otaci,FC Rapid Ghidighici,0,1,A,0,0,D
+MDA,30/09/2012,14:00,Speranţa Crihana Veche,FC Iskra-Stal,0,1,A,0,0,D
+MDA,30/09/2012,14:00,FC Costuleni,FC Academia UTM,1,2,A,1,0,H
+MDA,05/10/2012,13:00,FC Academia UTM,FC Milsami,3,1,H,0,0,D
+MDA,05/10/2012,13:00,Speranţa Crihana Veche,FC Zimbru,1,2,A,1,2,A
+MDA,06/10/2012,13:00,FC Costuleni,FC Sheriff,0,3,A,0,1,A
+MDA,06/10/2012,13:00,Nistru Otaci,FC Olimpia,0,3,A,0,2,A
+MDA,06/10/2012,15:00,FC Tiraspol,FC Rapid Ghidighici,2,2,D,1,2,A
+MDA,06/10/2012,17:00,Dacia Chişinău,FC Iskra-Stal,4,1,H,1,1,D
+MDA,20/10/2012,13:00,Nistru Otaci,FC Milsami,2,1,H,1,1,D
+MDA,20/10/2012,13:00,FC Olimpia,FC Tiraspol,2,0,H,0,0,D
+MDA,20/10/2012,13:00,FC Rapid Ghidighici,Speranţa Crihana Veche,2,0,H,1,0,H
+MDA,20/10/2012,13:00,FC Iskra-Stal,FC Costuleni,2,0,H,0,0,D
+MDA,21/10/2012,15:00,FC Zimbru,Dacia Chişinău,1,1,D,1,0,H
+MDA,21/10/2012,16:30,FC Sheriff,FC Academia UTM,3,0,H,1,0,H
+MDA,26/10/2012,13:00,FC Academia UTM,FC Iskra-Stal,3,2,H,1,1,D
+MDA,26/10/2012,13:00,FC Costuleni,FC Zimbru,1,0,H,1,0,H
+MDA,27/10/2012,13:00,FC Milsami,FC Sheriff,3,0,H,1,0,H
+MDA,27/10/2012,13:00,FC Olimpia,Speranţa Crihana Veche,2,0,H,1,0,H
+MDA,27/10/2012,13:00,Dacia Chişinău,FC Rapid Ghidighici,1,0,H,0,0,D
+MDA,27/10/2012,15:00,FC Tiraspol,Nistru Otaci,3,1,H,1,0,H
+MDA,03/11/2012,12:00,FC Zimbru,FC Academia UTM,4,0,H,1,0,H
+MDA,04/11/2012,11:00,FC Iskra-Stal,FC Sheriff,2,2,D,0,0,D
+MDA,04/11/2012,12:00,Nistru Otaci,Speranţa Crihana Veche,1,1,D,0,1,A
+MDA,04/11/2012,12:00,FC Olimpia,Dacia Chişinău,0,1,A,0,0,D
+MDA,04/11/2012,12:00,FC Rapid Ghidighici,FC Costuleni,1,2,A,0,1,A
+MDA,04/11/2012,15:00,FC Tiraspol,FC Milsami,2,1,H,2,0,H
+MDA,09/11/2012,12:00,Speranţa Crihana Veche,FC Tiraspol,0,2,A,0,0,D
+MDA,09/11/2012,12:00,Dacia Chişinău,Nistru Otaci,3,0,H,1,0,H
+MDA,10/11/2012,12:00,FC Milsami,FC Iskra-Stal,2,0,H,0,0,D
+MDA,10/11/2012,12:00,FC Costuleni,FC Olimpia,0,1,A,0,0,D
+MDA,10/11/2012,16:00,FC Sheriff,FC Zimbru,1,0,H,1,0,H
+MDA,11/11/2012,12:00,FC Academia UTM,FC Rapid Ghidighici,5,0,H,3,0,H
+MDA,17/11/2012,11:00,Speranţa Crihana Veche,FC Milsami,0,1,A,0,1,A
+MDA,17/11/2012,11:00,Nistru Otaci,FC Costuleni,0,2,A,0,1,A
+MDA,17/11/2012,11:00,FC Zimbru,FC Iskra-Stal,0,1,A,0,0,D
+MDA,18/11/2012,11:00,FC Olimpia,FC Academia UTM,1,1,D,1,0,H
+MDA,18/11/2012,11:00,FC Rapid Ghidighici,FC Sheriff,0,2,A,0,1,A
+MDA,18/11/2012,13:00,FC Tiraspol,Dacia Chişinău,0,0,D,0,0,D
+MDA,23/11/2012,11:00,FC Milsami,FC Zimbru,0,0,D,0,0,D
+MDA,23/11/2012,11:00,FC Iskra-Stal,FC Rapid Ghidighici,0,1,A,0,0,D
+MDA,23/11/2012,11:00,Dacia Chişinău,Speranţa Crihana Veche,1,0,H,0,0,D
+MDA,24/11/2012,11:00,FC Academia UTM,Nistru Otaci,6,0,H,2,0,H
+MDA,24/11/2012,11:00,FC Costuleni,FC Tiraspol,1,1,D,1,0,H
+MDA,24/11/2012,13:00,FC Sheriff,FC Olimpia,3,0,H,1,0,H
+MDA,27/11/2012,11:00,FC Rapid Ghidighici,FC Zimbru,2,1,H,0,0,D
+MDA,28/11/2012,11:00,Dacia Chişinău,FC Milsami,1,0,H,1,0,H
+MDA,28/11/2012,11:00,Speranţa Crihana Veche,FC Costuleni,0,0,D,0,0,D
+MDA,28/11/2012,11:00,Nistru Otaci,FC Sheriff,1,7,A,0,3,A
+MDA,28/11/2012,11:00,FC Olimpia,FC Iskra-Stal,2,3,A,2,1,H
+MDA,28/11/2012,13:00,FC Tiraspol,FC Academia UTM,1,0,H,0,0,D
+MDA,02/12/2012,11:00,FC Zimbru,FC Olimpia,4,3,H,0,1,A
+MDA,02/12/2012,11:00,FC Iskra-Stal,Nistru Otaci,5,2,H,2,0,H
+MDA,02/12/2012,11:00,FC Costuleni,Dacia Chişinău,0,0,D,0,0,D
+MDA,02/12/2012,13:00,FC Sheriff,FC Tiraspol,2,0,H,2,0,H
+MDA,03/12/2012,11:00,FC Milsami,FC Rapid Ghidighici,2,0,H,0,0,D
+MDA,03/12/2012,11:00,FC Academia UTM,Speranţa Crihana Veche,3,5,A,1,3,A
+MDA,02/03/2013,11:00,FC Costuleni,FC Milsami,0,1,A,0,0,D
+MDA,03/03/2013,11:00,Dacia Chişinău,FC Academia UTM,1,1,D,0,0,D
+MDA,03/03/2013,11:00,Speranţa Crihana Veche,FC Sheriff,0,2,A,0,1,A
+MDA,03/03/2013,11:00,Nistru Otaci,FC Zimbru,2,0,H,0,0,D
+MDA,03/03/2013,13:30,FC Olimpia,FC Rapid Ghidighici,1,3,A,1,1,D
+MDA,03/03/2013,15:00,FC Tiraspol,FC Iskra-Stal,3,0,H,3,0,H
+MDA,09/03/2013,12:00,FC Zimbru,FC Tiraspol,0,1,A,0,0,D
+MDA,09/03/2013,12:00,FC Iskra-Stal,Speranţa Crihana Veche,4,3,H,3,2,H
+MDA,09/03/2013,15:00,FC Sheriff,Dacia Chişinău,0,0,D,0,0,D
+MDA,10/03/2013,10:00,FC Academia UTM,FC Costuleni,1,1,D,0,0,D
+MDA,10/03/2013,13:00,FC Rapid Ghidighici,Nistru Otaci,3,1,H,1,0,H
+MDA,10/03/2013,13:00,FC Milsami,FC Olimpia,0,1,A,0,0,D
+MDA,15/03/2013,12:00,FC Milsami,FC Zimbru,2,1,H,2,0,H
+MDA,15/03/2013,12:00,Dacia Chişinău,Nistru Otaci,2,0,H,1,0,H
+MDA,15/03/2013,15:00,FC Sheriff,Speranţa Crihana Veche,2,1,H,2,1,H
+MDA,16/03/2013,12:00,FC Rapid Ghidighici,FC Olimpia,1,0,H,0,0,D
+MDA,16/03/2013,12:00,FC Academia UTM,FC Iskra-Stal,0,2,A,0,1,A
+MDA,16/03/2013,15:00,FC Tiraspol,FC Costuleni,3,1,H,2,0,H
+MDA,30/03/2013,12:00,Speranţa Crihana Veche,FC Iskra-Stal,0,1,A,0,0,D
+MDA,30/03/2013,12:00,FC Olimpia,FC Academia UTM,0,3,A,0,1,A
+MDA,30/03/2013,12:00,FC Zimbru,FC Rapid Ghidighici,4,2,H,1,0,H
+MDA,31/03/2013,12:00,FC Costuleni,FC Milsami,1,2,A,0,1,A
+MDA,31/03/2013,12:00,Nistru Otaci,FC Tiraspol,0,3,A,0,2,A
+MDA,31/03/2013,15:00,FC Sheriff,Dacia Chişinău,0,0,D,0,0,D
+MDA,06/04/2013,11:00,Dacia Chişinău,Speranţa Crihana Veche,3,2,H,3,0,H
+MDA,06/04/2013,13:00,FC Milsami,Nistru Otaci,4,0,H,1,0,H
+MDA,06/04/2013,13:00,FC Academia UTM,FC Zimbru,0,1,A,0,1,A
+MDA,06/04/2013,16:00,FC Tiraspol,FC Sheriff,2,1,H,1,0,H
+MDA,07/04/2013,13:00,FC Rapid Ghidighici,FC Costuleni,0,0,D,0,0,D
+MDA,07/04/2013,13:00,FC Iskra-Stal,FC Olimpia,0,1,A,0,1,A
+MDA,12/04/2013,11:00,Dacia Chişinău,FC Tiraspol,0,0,D,0,0,D
+MDA,12/04/2013,13:00,Nistru Otaci,FC Rapid Ghidighici,0,2,A,0,1,A
+MDA,12/04/2013,16:00,FC Zimbru,FC Iskra-Stal,0,0,D,0,0,D
+MDA,12/04/2013,16:00,FC Sheriff,FC Milsami,1,2,A,0,1,A
+MDA,13/04/2013,13:00,FC Costuleni,FC Academia UTM,2,2,D,1,1,D
+MDA,15/04/2013,13:00,Speranţa Crihana Veche,FC Olimpia,3,1,H,2,0,H
+MDA,20/04/2013,,FC Iskra-Stal,FC Costuleni,0,3,A,NaN,NaN,NaN
+MDA,21/04/2013,13:00,FC Academia UTM,Nistru Otaci,5,1,H,2,0,H
+MDA,21/04/2013,14:00,FC Milsami,Dacia Chişinău,1,0,H,0,0,D
+MDA,21/04/2013,14:00,FC Rapid Ghidighici,FC Sheriff,0,2,A,0,2,A
+MDA,21/04/2013,14:00,FC Olimpia,FC Zimbru,2,2,D,1,0,H
+MDA,21/04/2013,16:00,FC Tiraspol,Speranţa Crihana Veche,5,0,H,2,0,H
+MDA,26/04/2013,16:00,Speranţa Crihana Veche,FC Zimbru,1,8,A,1,3,A
+MDA,26/04/2013,16:00,FC Tiraspol,FC Milsami,2,0,H,1,0,H
+MDA,27/04/2013,14:00,FC Costuleni,FC Olimpia,4,0,H,2,0,H
+MDA,27/04/2013,14:00,Nistru Otaci,FC Iskra-Stal,2,2,D,2,0,H
+MDA,27/04/2013,14:00,Dacia Chişinău,FC Rapid Ghidighici,1,0,H,0,0,D
+MDA,27/04/2013,16:00,FC Sheriff,FC Academia UTM,1,1,D,0,1,A
+MDA,02/05/2013,15:00,FC Academia UTM,Dacia Chişinău,1,2,A,0,1,A
+MDA,03/05/2013,,FC Iskra-Stal,FC Sheriff,0,3,A,NaN,NaN,NaN
+MDA,03/05/2013,15:00,FC Milsami,Speranţa Crihana Veche,2,1,H,1,0,H
+MDA,03/05/2013,15:00,FC Rapid Ghidighici,FC Tiraspol,0,1,A,0,1,A
+MDA,03/05/2013,16:00,FC Olimpia,Nistru Otaci,3,1,H,2,0,H
+MDA,03/05/2013,16:00,FC Zimbru,FC Costuleni,1,1,D,1,0,H
+MDA,10/05/2013,15:00,Speranţa Crihana Veche,FC Costuleni,1,4,A,0,3,A
+MDA,11/05/2013,,Dacia Chişinău,FC Iskra-Stal,3,0,H,NaN,NaN,NaN
+MDA,11/05/2013,14:00,FC Tiraspol,FC Academia UTM,1,1,D,1,1,D
+MDA,11/05/2013,15:00,Nistru Otaci,FC Zimbru,0,3,A,0,1,A
+MDA,11/05/2013,15:00,FC Milsami,FC Rapid Ghidighici,1,2,A,0,1,A
+MDA,11/05/2013,17:00,FC Sheriff,FC Olimpia,3,0,H,1,0,H
+MDA,16/05/2013,,FC Iskra-Stal,FC Tiraspol,0,3,A,NaN,NaN,NaN
+MDA,16/05/2013,15:00,FC Rapid Ghidighici,Speranţa Crihana Veche,0,3,A,0,2,A
+MDA,16/05/2013,17:00,FC Zimbru,FC Sheriff,0,2,A,0,2,A
+MDA,17/05/2013,15:00,FC Academia UTM,FC Milsami,2,1,H,2,1,H
+MDA,17/05/2013,16:00,FC Olimpia,Dacia Chişinău,1,3,A,0,1,A
+MDA,17/05/2013,16:00,FC Costuleni,Nistru Otaci,2,0,H,2,0,H
+MDA,21/05/2013,,FC Milsami,FC Iskra-Stal,3,0,H,NaN,NaN,NaN
+MDA,21/05/2013,16:00,Speranţa Crihana Veche,Nistru Otaci,4,2,H,1,2,A
+MDA,21/05/2013,16:00,FC Sheriff,FC Costuleni,2,1,H,1,1,D
+MDA,21/05/2013,16:00,Dacia Chişinău,FC Zimbru,0,0,D,0,0,D
+MDA,21/05/2013,16:00,FC Tiraspol,FC Olimpia,7,1,H,3,1,H
+MDA,21/05/2013,16:00,FC Rapid Ghidighici,FC Academia UTM,3,1,H,2,0,H
+MDA,31/05/2013,,FC Iskra-Stal,FC Rapid Ghidighici,0,3,A,NaN,NaN,NaN
+MDA,31/05/2013,16:00,FC Academia UTM,Speranţa Crihana Veche,2,2,D,1,2,A
+MDA,31/05/2013,16:00,FC Olimpia,FC Milsami,0,1,A,0,0,D
+MDA,31/05/2013,16:00,FC Zimbru,FC Tiraspol,2,0,H,1,0,H
+MDA,31/05/2013,16:00,FC Costuleni,Dacia Chişinău,2,1,H,1,0,H
+MDA,31/05/2013,16:00,Nistru Otaci,FC Sheriff,1,2,A,0,1,A

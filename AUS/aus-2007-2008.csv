@@ -1,0 +1,85 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUS,24/08/2007,11:00,Sydney FC,Central Coast Mariners,0,1,A,0,1,A
+AUS,25/08/2007,10:00,Queensland Roar,Adelaide United,2,2,D,1,1,D
+AUS,26/08/2007,05:00,Wellington Phoenix,Melbourne Victory,2,2,D,0,1,A
+AUS,26/08/2007,08:00,Perth Glory,Newcastle United Jets,0,0,D,0,0,D
+AUS,31/08/2007,11:00,Central Coast Mariners,Wellington Phoenix,3,0,H,3,0,H
+AUS,01/09/2007,08:00,Sydney FC,Adelaide United,2,2,D,1,1,D
+AUS,01/09/2007,10:00,Melbourne Victory,Perth Glory,0,0,D,0,0,D
+AUS,02/09/2007,08:00,Newcastle United Jets,Queensland Roar,1,1,D,0,0,D
+AUS,06/09/2007,11:00,Queensland Roar,Central Coast Mariners,0,1,A,0,0,D
+AUS,07/09/2007,11:00,Adelaide United,Melbourne Victory,1,1,D,0,0,D
+AUS,09/09/2007,06:00,Wellington Phoenix,Newcastle United Jets,0,1,A,0,0,D
+AUS,09/09/2007,08:00,Perth Glory,Sydney FC,0,0,D,0,0,D
+AUS,14/09/2007,11:00,Sydney FC,Wellington Phoenix,1,2,A,1,2,A
+AUS,15/09/2007,10:00,Newcastle United Jets,Adelaide United,1,0,H,0,0,D
+AUS,16/09/2007,08:00,Melbourne Victory,Central Coast Mariners,0,0,D,0,0,D
+AUS,16/09/2007,10:00,Perth Glory,Queensland Roar,1,2,A,1,1,D
+AUS,21/09/2007,11:00,Newcastle United Jets,Melbourne Victory,2,2,D,2,0,H
+AUS,22/09/2007,08:00,Wellington Phoenix,Adelaide United,2,2,D,0,0,D
+AUS,22/09/2007,10:00,Queensland Roar,Sydney FC,0,1,A,0,0,D
+AUS,23/09/2007,08:00,Central Coast Mariners,Perth Glory,1,0,H,0,0,D
+AUS,28/09/2007,11:00,Melbourne Victory,Queensland Roar,2,0,H,0,0,D
+AUS,29/09/2007,10:00,Sydney FC,Newcastle United Jets,1,0,H,1,0,H
+AUS,30/09/2007,06:00,Wellington Phoenix,Perth Glory,4,1,H,2,1,H
+AUS,30/09/2007,08:00,Adelaide United,Central Coast Mariners,2,1,H,1,1,D
+AUS,05/10/2007,11:00,Queensland Roar,Wellington Phoenix,2,1,H,2,0,H
+AUS,06/10/2007,10:00,Sydney FC,Melbourne Victory,0,1,A,0,0,D
+AUS,07/10/2007,08:00,Central Coast Mariners,Newcastle United Jets,1,1,D,0,0,D
+AUS,07/10/2007,10:00,Perth Glory,Adelaide United,0,0,D,0,0,D
+AUS,12/10/2007,11:00,Adelaide United,Melbourne Victory,4,1,H,2,1,H
+AUS,12/10/2007,13:00,Perth Glory,Sydney FC,3,3,D,0,1,A
+AUS,14/10/2007,06:00,Newcastle United Jets,Wellington Phoenix,2,1,H,2,0,H
+AUS,14/10/2007,08:00,Central Coast Mariners,Queensland Roar,0,1,A,0,1,A
+AUS,19/10/2007,11:00,Newcastle United Jets,Queensland Roar,1,1,D,0,1,A
+AUS,20/10/2007,10:00,Sydney FC,Adelaide United,0,1,A,0,0,D
+AUS,21/10/2007,05:00,Wellington Phoenix,Central Coast Mariners,1,2,A,1,1,D
+AUS,21/10/2007,07:30,Melbourne Victory,Perth Glory,2,1,H,2,1,H
+AUS,26/10/2007,11:00,Melbourne Victory,Newcastle United Jets,0,2,A,0,1,A
+AUS,27/10/2007,10:00,Queensland Roar,Perth Glory,3,3,D,1,2,A
+AUS,28/10/2007,04:00,Sydney FC,Central Coast Mariners,3,2,H,3,1,H
+AUS,28/10/2007,06:00,Adelaide United,Wellington Phoenix,4,1,H,2,1,H
+AUS,02/11/2007,09:00,Adelaide United,Queensland Roar,0,1,A,0,0,D
+AUS,02/11/2007,11:00,Perth Glory,Wellington Phoenix,0,1,A,0,0,D
+AUS,03/11/2007,08:00,Newcastle United Jets,Sydney FC,0,1,A,0,0,D
+AUS,04/11/2007,06:00,Central Coast Mariners,Melbourne Victory,2,1,H,0,0,D
+AUS,09/11/2007,09:00,Newcastle United Jets,Perth Glory,1,4,A,0,1,A
+AUS,10/11/2007,06:00,Central Coast Mariners,Adelaide United,2,0,H,0,0,D
+AUS,10/11/2007,08:00,Melbourne Victory,Sydney FC,0,0,D,0,0,D
+AUS,11/11/2007,07:00,Queensland Roar,Wellington Phoenix,3,0,H,0,0,D
+AUS,16/11/2007,09:00,Queensland Roar,Melbourne Victory,1,0,H,1,0,H
+AUS,17/11/2007,06:00,Wellington Phoenix,Sydney FC,1,1,D,1,0,H
+AUS,18/11/2007,08:00,Adelaide United,Newcastle United Jets,1,1,D,0,0,D
+AUS,18/11/2007,10:00,Perth Glory,Central Coast Mariners,0,1,A,0,1,A
+AUS,23/11/2007,09:00,Adelaide United,Perth Glory,1,1,D,1,0,H
+AUS,24/11/2007,08:00,Melbourne Victory,Wellington Phoenix,1,1,D,1,0,H
+AUS,25/11/2007,06:00,Newcastle United Jets,Central Coast Mariners,0,0,D,0,0,D
+AUS,25/11/2007,08:00,Sydney FC,Queensland Roar,0,0,D,0,0,D
+AUS,30/11/2007,06:30,Wellington Phoenix,Adelaide United,1,2,A,0,1,A
+AUS,30/11/2007,09:00,Queensland Roar,Newcastle United Jets,0,1,A,0,0,D
+AUS,02/12/2007,08:00,Perth Glory,Melbourne Victory,3,1,H,2,1,H
+AUS,22/12/2007,08:00,Central Coast Mariners,Sydney FC,4,5,A,2,1,H
+AUS,07/12/2007,06:30,Wellington Phoenix,Perth Glory,3,0,H,2,0,H
+AUS,07/12/2007,09:00,Sydney FC,Newcastle United Jets,1,0,H,0,0,D
+AUS,08/12/2007,08:00,Melbourne Victory,Adelaide United,2,2,D,0,1,A
+AUS,09/12/2007,08:00,Queensland Roar,Central Coast Mariners,2,1,H,2,1,H
+AUS,14/12/2007,06:30,Wellington Phoenix,Queensland Roar,1,1,D,1,1,D
+AUS,14/12/2007,09:00,Adelaide United,Central Coast Mariners,1,2,A,0,1,A
+AUS,15/12/2007,08:00,Sydney FC,Perth Glory,2,4,A,0,2,A
+AUS,16/12/2007,06:00,Melbourne Victory,Newcastle United Jets,1,3,A,1,1,D
+AUS,28/12/2007,09:00,Adelaide United,Sydney FC,1,3,A,1,1,D
+AUS,30/12/2007,08:00,Newcastle United Jets,Wellington Phoenix,2,3,A,1,1,D
+AUS,30/12/2007,10:00,Perth Glory,Queensland Roar,1,4,A,0,2,A
+AUS,31/12/2007,07:00,Central Coast Mariners,Melbourne Victory,2,5,A,1,4,A
+AUS,04/01/2008,06:30,Wellington Phoenix,Sydney FC,0,2,A,0,0,D
+AUS,04/01/2008,09:00,Newcastle United Jets,Adelaide United,2,1,H,1,1,D
+AUS,05/01/2008,09:00,Queensland Roar,Melbourne Victory,1,2,A,0,0,D
+AUS,06/01/2008,10:00,Perth Glory,Central Coast Mariners,1,1,D,0,1,A
+AUS,11/01/2008,09:00,Melbourne Victory,Wellington Phoenix,3,0,H,2,0,H
+AUS,12/01/2008,08:00,Central Coast Mariners,Newcastle United Jets,1,2,A,1,1,D
+AUS,13/01/2008,08:00,Queensland Roar,Sydney FC,0,0,D,0,0,D
+AUS,13/01/2008,10:00,Perth Glory,Adelaide United,3,2,H,2,1,H
+AUS,18/01/2008,09:00,Newcastle United Jets,Perth Glory,2,1,H,1,1,D
+AUS,19/01/2008,08:00,Central Coast Mariners,Wellington Phoenix,2,0,H,0,0,D
+AUS,20/01/2008,06:00,Sydney FC,Melbourne Victory,2,2,D,1,0,H
+AUS,20/01/2008,08:00,Adelaide United,Queensland Roar,2,0,H,2,0,H

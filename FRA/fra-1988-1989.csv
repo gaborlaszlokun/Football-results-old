@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,15/07/1988,,FC Nantes,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,16/07/1988,,RC Strasbourg,FC Sochaux,0,3,A,NaN,NaN,NaN
+FRA,16/07/1988,,Girondins Bordeaux,AJ Auxerre,2,0,H,NaN,NaN,NaN
+FRA,16/07/1988,,AS Cannes,SM Caen,2,0,H,NaN,NaN,NaN
+FRA,16/07/1988,,Stade Laval,Lille OSC,1,2,A,NaN,NaN,NaN
+FRA,16/07/1988,,RC Lens,Sporting Toulon Var,0,1,A,NaN,NaN,NaN
+FRA,16/07/1988,,Matra Racing,Toulouse FC,0,1,A,NaN,NaN,NaN
+FRA,16/07/1988,,OGC Nice,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
+FRA,16/07/1988,,FC Metz,Paris Saint-Germain,0,1,A,NaN,NaN,NaN
+FRA,16/07/1988,,Olympique Marseille,Montpellier La Paillade SC,1,1,D,NaN,NaN,NaN
+FRA,23/07/1988,,FC Sochaux,Matra Racing,2,0,H,NaN,NaN,NaN
+FRA,23/07/1988,,Lille OSC,Olympique Marseille,2,1,H,NaN,NaN,NaN
+FRA,23/07/1988,,Toulouse FC,RC Lens,2,1,H,NaN,NaN,NaN
+FRA,23/07/1988,,Sporting Toulon Var,FC Metz,1,0,H,NaN,NaN,NaN
+FRA,23/07/1988,,AS Monaco,AS Cannes,2,0,H,NaN,NaN,NaN
+FRA,23/07/1988,,SM Caen,FC Nantes,2,3,A,NaN,NaN,NaN
+FRA,23/07/1988,,Montpellier La Paillade SC,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,23/07/1988,,AJ Auxerre,Stade Laval,2,1,H,NaN,NaN,NaN
+FRA,23/07/1988,,AS Saint-Étienne,RC Strasbourg,0,0,D,NaN,NaN,NaN
+FRA,14/09/1988,,Paris Saint-Germain,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
+FRA,26/07/1988,,Girondins Bordeaux,Montpellier La Paillade SC,2,1,H,NaN,NaN,NaN
+FRA,27/07/1988,,Olympique Marseille,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,27/07/1988,,AS Monaco,Lille OSC,1,1,D,NaN,NaN,NaN
+FRA,27/07/1988,,FC Nantes,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
+FRA,27/07/1988,,AS Cannes,Paris Saint-Germain,0,3,A,NaN,NaN,NaN
+FRA,27/07/1988,,Stade Laval,Toulouse FC,2,0,H,NaN,NaN,NaN
+FRA,27/07/1988,,RC Lens,AJ Auxerre,0,1,A,NaN,NaN,NaN
+FRA,27/07/1988,,RC Strasbourg,OGC Nice,3,0,H,NaN,NaN,NaN
+FRA,27/07/1988,,Matra Racing,AS Saint-Étienne,3,1,H,NaN,NaN,NaN
+FRA,27/07/1988,,FC Metz,SM Caen,1,0,H,NaN,NaN,NaN
+FRA,30/07/1988,,FC Sochaux,Stade Laval,3,0,H,NaN,NaN,NaN
+FRA,30/07/1988,,Sporting Toulon Var,AS Cannes,3,0,H,NaN,NaN,NaN
+FRA,30/07/1988,,SM Caen,AS Monaco,0,3,A,NaN,NaN,NaN
+FRA,30/07/1988,,Paris Saint-Germain,FC Nantes,1,0,H,NaN,NaN,NaN
+FRA,30/07/1988,,Lille OSC,Girondins Bordeaux,0,1,A,NaN,NaN,NaN
+FRA,30/07/1988,,AJ Auxerre,FC Metz,2,1,H,NaN,NaN,NaN
+FRA,30/07/1988,,Toulouse FC,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,30/07/1988,,OGC Nice,Matra Racing,3,2,H,NaN,NaN,NaN
+FRA,30/07/1988,,Montpellier La Paillade SC,RC Strasbourg,1,0,H,NaN,NaN,NaN
+FRA,30/07/1988,,AS Saint-Étienne,RC Lens,2,4,A,NaN,NaN,NaN
+FRA,06/08/1988,,RC Lens,FC Sochaux,2,2,D,NaN,NaN,NaN
+FRA,06/08/1988,,AS Monaco,Paris Saint-Germain,1,0,H,NaN,NaN,NaN
+FRA,06/08/1988,,Girondins Bordeaux,Sporting Toulon Var,1,1,D,NaN,NaN,NaN
+FRA,06/08/1988,,FC Nantes,AJ Auxerre,3,2,H,NaN,NaN,NaN
+FRA,06/08/1988,,SM Caen,Montpellier La Paillade SC,0,1,A,NaN,NaN,NaN
+FRA,06/08/1988,,Olympique Marseille,OGC Nice,3,2,H,NaN,NaN,NaN
+FRA,06/08/1988,,FC Metz,Lille OSC,3,1,H,NaN,NaN,NaN
+FRA,06/08/1988,,AS Cannes,Toulouse FC,5,1,H,NaN,NaN,NaN
+FRA,06/08/1988,,Matra Racing,RC Strasbourg,2,1,H,NaN,NaN,NaN
+FRA,06/08/1988,,Stade Laval,AS Saint-Étienne,1,1,D,NaN,NaN,NaN
+FRA,12/08/1988,,AS Saint-Étienne,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,13/08/1988,,Sporting Toulon Var,AS Monaco,1,0,H,NaN,NaN,NaN
+FRA,13/08/1988,,FC Sochaux,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
+FRA,13/08/1988,,Paris Saint-Germain,SM Caen,3,0,H,NaN,NaN,NaN
+FRA,13/08/1988,,Lille OSC,FC Nantes,0,1,A,NaN,NaN,NaN
+FRA,13/08/1988,,Montpellier La Paillade SC,Matra Racing,0,0,D,NaN,NaN,NaN
+FRA,13/08/1988,,AJ Auxerre,AS Cannes,0,0,D,NaN,NaN,NaN
+FRA,13/08/1988,,OGC Nice,Stade Laval,1,0,H,NaN,NaN,NaN
+FRA,13/08/1988,,Toulouse FC,FC Metz,2,1,H,NaN,NaN,NaN
+FRA,13/08/1988,,RC Strasbourg,RC Lens,4,1,H,NaN,NaN,NaN
+FRA,17/08/1988,,Girondins Bordeaux,AS Saint-Étienne,5,0,H,NaN,NaN,NaN
+FRA,17/08/1988,,Paris Saint-Germain,FC Sochaux,1,0,H,NaN,NaN,NaN
+FRA,17/08/1988,,SM Caen,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
+FRA,17/08/1988,,AS Monaco,AJ Auxerre,1,2,A,NaN,NaN,NaN
+FRA,17/08/1988,,FC Nantes,Toulouse FC,1,2,A,NaN,NaN,NaN
+FRA,17/08/1988,,Olympique Marseille,Matra Racing,2,0,H,NaN,NaN,NaN
+FRA,17/08/1988,,RC Lens,Montpellier La Paillade SC,0,0,D,NaN,NaN,NaN
+FRA,17/08/1988,,AS Cannes,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,17/08/1988,,FC Metz,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,17/08/1988,,Stade Laval,RC Strasbourg,1,0,H,NaN,NaN,NaN
+FRA,20/08/1988,,Sporting Toulon Var,Paris Saint-Germain,0,1,A,NaN,NaN,NaN
+FRA,20/08/1988,,Toulouse FC,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
+FRA,20/08/1988,,FC Sochaux,FC Metz,1,0,H,NaN,NaN,NaN
+FRA,20/08/1988,,AJ Auxerre,SM Caen,3,0,H,NaN,NaN,NaN
+FRA,20/08/1988,,AS Saint-Étienne,AS Monaco,0,1,A,NaN,NaN,NaN
+FRA,20/08/1988,,Montpellier La Paillade SC,FC Nantes,1,4,A,NaN,NaN,NaN
+FRA,20/08/1988,,RC Strasbourg,Olympique Marseille,2,3,A,NaN,NaN,NaN
+FRA,20/08/1988,,OGC Nice,AS Cannes,2,1,H,NaN,NaN,NaN
+FRA,20/08/1988,,Lille OSC,RC Lens,1,0,H,NaN,NaN,NaN
+FRA,20/08/1988,,Matra Racing,Stade Laval,2,2,D,NaN,NaN,NaN
+FRA,27/08/1988,,Girondins Bordeaux,RC Strasbourg,2,0,H,NaN,NaN,NaN
+FRA,27/08/1988,,Paris Saint-Germain,AJ Auxerre,2,2,D,NaN,NaN,NaN
+FRA,27/08/1988,,AS Monaco,Toulouse FC,1,0,H,NaN,NaN,NaN
+FRA,27/08/1988,,Stade Laval,Olympique Marseille,0,1,A,NaN,NaN,NaN
+FRA,27/08/1988,,AS Cannes,FC Sochaux,2,0,H,NaN,NaN,NaN
+FRA,27/08/1988,,FC Nantes,AS Saint-Étienne,1,1,D,NaN,NaN,NaN
+FRA,27/08/1988,,Sporting Toulon Var,OGC Nice,0,0,D,NaN,NaN,NaN
+FRA,27/08/1988,,FC Metz,Montpellier La Paillade SC,1,2,A,NaN,NaN,NaN
+FRA,27/08/1988,,RC Lens,Matra Racing,1,1,D,NaN,NaN,NaN
+FRA,27/08/1988,,SM Caen,Lille OSC,2,1,H,NaN,NaN,NaN
+FRA,02/09/1988,,Matra Racing,AS Monaco,3,0,H,NaN,NaN,NaN
+FRA,03/09/1988,,AJ Auxerre,Sporting Toulon Var,3,0,H,NaN,NaN,NaN
+FRA,03/09/1988,,Olympique Marseille,RC Lens,5,2,H,NaN,NaN,NaN
+FRA,03/09/1988,,OGC Nice,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
+FRA,03/09/1988,,Lille OSC,Paris Saint-Germain,2,1,H,NaN,NaN,NaN
+FRA,03/09/1988,,FC Sochaux,FC Nantes,0,1,A,NaN,NaN,NaN
+FRA,03/09/1988,,Montpellier La Paillade SC,Stade Laval,6,2,H,NaN,NaN,NaN
+FRA,03/09/1988,,AS Saint-Étienne,FC Metz,0,1,A,NaN,NaN,NaN
+FRA,03/09/1988,,Toulouse FC,SM Caen,0,0,D,NaN,NaN,NaN
+FRA,03/09/1988,,RC Strasbourg,AS Cannes,0,0,D,NaN,NaN,NaN
+FRA,09/09/1988,,AS Cannes,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
+FRA,10/09/1988,,AJ Auxerre,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,10/09/1988,,Paris Saint-Germain,Toulouse FC,2,1,H,NaN,NaN,NaN
+FRA,10/09/1988,,Girondins Bordeaux,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,10/09/1988,,FC Nantes,RC Strasbourg,2,2,D,NaN,NaN,NaN
+FRA,10/09/1988,,Sporting Toulon Var,Montpellier La Paillade SC,1,1,D,NaN,NaN,NaN
+FRA,10/09/1988,,AS Monaco,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,10/09/1988,,SM Caen,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,10/09/1988,,FC Metz,Matra Racing,1,1,D,NaN,NaN,NaN
+FRA,10/09/1988,,RC Lens,Stade Laval,0,2,A,NaN,NaN,NaN
+FRA,17/09/1988,,Montpellier La Paillade SC,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,17/09/1988,,Toulouse FC,AJ Auxerre,0,0,D,NaN,NaN,NaN
+FRA,17/09/1988,,Olympique Marseille,AS Cannes,2,1,H,NaN,NaN,NaN
+FRA,17/09/1988,,Stade Laval,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
+FRA,17/09/1988,,OGC Nice,RC Lens,3,0,H,NaN,NaN,NaN
+FRA,17/09/1988,,Matra Racing,FC Nantes,2,0,H,NaN,NaN,NaN
+FRA,17/09/1988,,FC Sochaux,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,17/09/1988,,Lille OSC,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
+FRA,17/09/1988,,RC Strasbourg,FC Metz,1,2,A,NaN,NaN,NaN
+FRA,17/09/1988,,AS Saint-Étienne,SM Caen,1,1,D,NaN,NaN,NaN
+FRA,20/09/1988,,Sporting Toulon Var,Toulouse FC,1,1,D,NaN,NaN,NaN
+FRA,21/09/1988,,Paris Saint-Germain,AS Saint-Étienne,3,1,H,NaN,NaN,NaN
+FRA,21/09/1988,,AJ Auxerre,Montpellier La Paillade SC,1,0,H,NaN,NaN,NaN
+FRA,21/09/1988,,FC Nantes,Olympique Marseille,1,1,D,NaN,NaN,NaN
+FRA,21/09/1988,,Girondins Bordeaux,RC Lens,4,1,H,NaN,NaN,NaN
+FRA,21/09/1988,,AS Monaco,RC Strasbourg,4,1,H,NaN,NaN,NaN
+FRA,21/09/1988,,SM Caen,OGC Nice,2,1,H,NaN,NaN,NaN
+FRA,21/09/1988,,AS Cannes,Matra Racing,2,1,H,NaN,NaN,NaN
+FRA,21/09/1988,,Lille OSC,FC Sochaux,2,0,H,NaN,NaN,NaN
+FRA,21/09/1988,,FC Metz,Stade Laval,0,0,D,NaN,NaN,NaN
+FRA,01/10/1988,,Olympique Marseille,FC Metz,3,2,H,NaN,NaN,NaN
+FRA,01/10/1988,,OGC Nice,Paris Saint-Germain,3,1,H,NaN,NaN,NaN
+FRA,01/10/1988,,FC Sochaux,AJ Auxerre,3,2,H,NaN,NaN,NaN
+FRA,01/10/1988,,Matra Racing,Girondins Bordeaux,4,1,H,NaN,NaN,NaN
+FRA,01/10/1988,,Stade Laval,FC Nantes,0,2,A,NaN,NaN,NaN
+FRA,01/10/1988,,Montpellier La Paillade SC,AS Monaco,4,2,H,NaN,NaN,NaN
+FRA,01/10/1988,,RC Lens,AS Cannes,2,2,D,NaN,NaN,NaN
+FRA,01/10/1988,,AS Saint-Étienne,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
+FRA,01/10/1988,,Toulouse FC,Lille OSC,1,1,D,NaN,NaN,NaN
+FRA,01/10/1988,,RC Strasbourg,SM Caen,1,2,A,NaN,NaN,NaN
+FRA,08/10/1988,,AJ Auxerre,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
+FRA,08/10/1988,,Paris Saint-Germain,RC Strasbourg,1,0,H,NaN,NaN,NaN
+FRA,08/10/1988,,AS Monaco,Olympique Marseille,3,0,H,NaN,NaN,NaN
+FRA,08/10/1988,,FC Nantes,RC Lens,3,1,H,NaN,NaN,NaN
+FRA,08/10/1988,,FC Metz,Girondins Bordeaux,3,0,H,NaN,NaN,NaN
+FRA,08/10/1988,,Toulouse FC,OGC Nice,2,1,H,NaN,NaN,NaN
+FRA,08/10/1988,,AS Cannes,Stade Laval,3,2,H,NaN,NaN,NaN
+FRA,08/10/1988,,Sporting Toulon Var,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,08/10/1988,,Lille OSC,Montpellier La Paillade SC,3,1,H,NaN,NaN,NaN
+FRA,08/10/1988,,SM Caen,Matra Racing,1,1,D,NaN,NaN,NaN
+FRA,14/10/1988,,Matra Racing,Paris Saint-Germain,0,2,A,NaN,NaN,NaN
+FRA,15/10/1988,,Olympique Marseille,SM Caen,4,2,H,NaN,NaN,NaN
+FRA,15/10/1988,,OGC Nice,AJ Auxerre,1,0,H,NaN,NaN,NaN
+FRA,15/10/1988,,Girondins Bordeaux,FC Nantes,5,0,H,NaN,NaN,NaN
+FRA,15/10/1988,,Stade Laval,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,15/10/1988,,Montpellier La Paillade SC,AS Cannes,0,0,D,NaN,NaN,NaN
+FRA,15/10/1988,,FC Sochaux,Toulouse FC,2,2,D,NaN,NaN,NaN
+FRA,15/10/1988,,RC Lens,FC Metz,0,2,A,NaN,NaN,NaN
+FRA,15/10/1988,,AS Saint-Étienne,Lille OSC,2,0,H,NaN,NaN,NaN
+FRA,15/10/1988,,RC Strasbourg,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
+FRA,29/10/1988,,Paris Saint-Germain,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,29/10/1988,,AJ Auxerre,RC Strasbourg,2,1,H,NaN,NaN,NaN
+FRA,29/10/1988,,AS Monaco,RC Lens,1,0,H,NaN,NaN,NaN
+FRA,29/10/1988,,FC Nantes,FC Metz,1,0,H,NaN,NaN,NaN
+FRA,29/10/1988,,AS Cannes,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
+FRA,29/10/1988,,FC Sochaux,Montpellier La Paillade SC,2,0,H,NaN,NaN,NaN
+FRA,29/10/1988,,Lille OSC,OGC Nice,2,0,H,NaN,NaN,NaN
+FRA,29/10/1988,,Toulouse FC,AS Saint-Étienne,3,1,H,NaN,NaN,NaN
+FRA,29/10/1988,,Sporting Toulon Var,Matra Racing,1,0,H,NaN,NaN,NaN
+FRA,29/10/1988,,SM Caen,Stade Laval,1,1,D,NaN,NaN,NaN
+FRA,04/11/1988,,Girondins Bordeaux,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,05/11/1988,,Stade Laval,Paris Saint-Germain,1,2,A,NaN,NaN,NaN
+FRA,05/11/1988,,Matra Racing,AJ Auxerre,1,2,A,NaN,NaN,NaN
+FRA,05/11/1988,,Olympique Marseille,Sporting Toulon Var,1,0,H,NaN,NaN,NaN
+FRA,05/11/1988,,RC Lens,SM Caen,5,0,H,NaN,NaN,NaN
+FRA,05/11/1988,,AS Saint-Étienne,FC Sochaux,1,2,A,NaN,NaN,NaN
+FRA,05/11/1988,,OGC Nice,FC Nantes,1,0,H,NaN,NaN,NaN
+FRA,05/11/1988,,RC Strasbourg,Lille OSC,1,3,A,NaN,NaN,NaN
+FRA,05/11/1988,,FC Metz,AS Cannes,2,1,H,NaN,NaN,NaN
+FRA,05/11/1988,,Montpellier La Paillade SC,Toulouse FC,1,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,Paris Saint-Germain,RC Lens,3,2,H,NaN,NaN,NaN
+FRA,12/11/1988,,AJ Auxerre,Olympique Marseille,1,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,AS Monaco,FC Metz,1,1,D,NaN,NaN,NaN
+FRA,12/11/1988,,FC Sochaux,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,AS Cannes,FC Nantes,1,2,A,NaN,NaN,NaN
+FRA,12/11/1988,,SM Caen,Girondins Bordeaux,3,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,Lille OSC,Matra Racing,3,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,Montpellier La Paillade SC,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,Toulouse FC,RC Strasbourg,4,0,H,NaN,NaN,NaN
+FRA,12/11/1988,,Sporting Toulon Var,Stade Laval,0,0,D,NaN,NaN,NaN
+FRA,25/11/1988,,Olympique Marseille,Lille OSC,1,1,D,NaN,NaN,NaN
+FRA,26/11/1988,,Girondins Bordeaux,Paris Saint-Germain,0,1,A,NaN,NaN,NaN
+FRA,26/11/1988,,Stade Laval,AJ Auxerre,0,1,A,NaN,NaN,NaN
+FRA,26/11/1988,,Matra Racing,FC Sochaux,0,2,A,NaN,NaN,NaN
+FRA,26/11/1988,,FC Nantes,SM Caen,3,1,H,NaN,NaN,NaN
+FRA,26/11/1988,,AS Cannes,AS Monaco,3,2,H,NaN,NaN,NaN
+FRA,26/11/1988,,OGC Nice,Montpellier La Paillade SC,3,3,D,NaN,NaN,NaN
+FRA,26/11/1988,,RC Lens,Toulouse FC,1,1,D,NaN,NaN,NaN
+FRA,26/11/1988,,FC Metz,Sporting Toulon Var,1,2,A,NaN,NaN,NaN
+FRA,26/11/1988,,RC Strasbourg,AS Saint-Étienne,0,1,A,NaN,NaN,NaN
+FRA,03/12/1988,,Paris Saint-Germain,AS Cannes,1,0,H,NaN,NaN,NaN
+FRA,03/12/1988,,AJ Auxerre,RC Lens,1,0,H,NaN,NaN,NaN
+FRA,03/12/1988,,FC Sochaux,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,03/12/1988,,Lille OSC,AS Monaco,2,4,A,NaN,NaN,NaN
+FRA,03/12/1988,,Sporting Toulon Var,FC Nantes,1,0,H,NaN,NaN,NaN
+FRA,03/12/1988,,OGC Nice,RC Strasbourg,1,0,H,NaN,NaN,NaN
+FRA,03/12/1988,,Montpellier La Paillade SC,Girondins Bordeaux,2,2,D,NaN,NaN,NaN
+FRA,03/12/1988,,Toulouse FC,Stade Laval,0,0,D,NaN,NaN,NaN
+FRA,03/12/1988,,SM Caen,FC Metz,0,0,D,NaN,NaN,NaN
+FRA,03/12/1988,,AS Saint-Étienne,Matra Racing,4,3,H,NaN,NaN,NaN
+FRA,10/12/1988,,FC Nantes,Paris Saint-Germain,1,1,D,NaN,NaN,NaN
+FRA,10/12/1988,,FC Metz,AJ Auxerre,2,1,H,NaN,NaN,NaN
+FRA,10/12/1988,,Olympique Marseille,Toulouse FC,3,1,H,NaN,NaN,NaN
+FRA,10/12/1988,,AS Monaco,SM Caen,3,1,H,NaN,NaN,NaN
+FRA,10/12/1988,,Stade Laval,FC Sochaux,1,1,D,NaN,NaN,NaN
+FRA,10/12/1988,,Matra Racing,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,10/12/1988,,Girondins Bordeaux,Lille OSC,0,0,D,NaN,NaN,NaN
+FRA,10/12/1988,,RC Strasbourg,Montpellier La Paillade SC,3,1,H,NaN,NaN,NaN
+FRA,10/12/1988,,AS Cannes,Sporting Toulon Var,1,0,H,NaN,NaN,NaN
+FRA,10/12/1988,,RC Lens,AS Saint-Étienne,1,3,A,NaN,NaN,NaN
+FRA,13/12/1988,,OGC Nice,Olympique Marseille,2,2,D,NaN,NaN,NaN
+FRA,13/12/1988,,FC Sochaux,RC Lens,2,1,H,NaN,NaN,NaN
+FRA,14/12/1988,,Toulouse FC,AS Cannes,4,1,H,NaN,NaN,NaN
+FRA,14/12/1988,,AJ Auxerre,FC Nantes,1,0,H,NaN,NaN,NaN
+FRA,14/12/1988,,Paris Saint-Germain,AS Monaco,0,2,A,NaN,NaN,NaN
+FRA,14/12/1988,,Montpellier La Paillade SC,SM Caen,1,0,H,NaN,NaN,NaN
+FRA,14/12/1988,,Lille OSC,FC Metz,1,1,D,NaN,NaN,NaN
+FRA,14/12/1988,,Sporting Toulon Var,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
+FRA,14/12/1988,,RC Strasbourg,Matra Racing,1,1,D,NaN,NaN,NaN
+FRA,14/12/1988,,AS Saint-Étienne,Stade Laval,1,0,H,NaN,NaN,NaN
+FRA,17/12/1988,,SM Caen,Paris Saint-Germain,0,1,A,NaN,NaN,NaN
+FRA,17/12/1988,,AS Cannes,AJ Auxerre,3,0,H,NaN,NaN,NaN
+FRA,17/12/1988,,Olympique Marseille,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
+FRA,17/12/1988,,Girondins Bordeaux,FC Sochaux,1,2,A,NaN,NaN,NaN
+FRA,17/12/1988,,AS Monaco,Sporting Toulon Var,2,2,D,NaN,NaN,NaN
+FRA,17/12/1988,,FC Nantes,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,17/12/1988,,Stade Laval,OGC Nice,1,2,A,NaN,NaN,NaN
+FRA,17/12/1988,,FC Metz,Toulouse FC,1,1,D,NaN,NaN,NaN
+FRA,17/12/1988,,Matra Racing,Montpellier La Paillade SC,4,0,H,NaN,NaN,NaN
+FRA,17/12/1988,,RC Lens,RC Strasbourg,1,3,A,NaN,NaN,NaN
+FRA,04/02/1989,,Racing Club de France,Olympique Marseille,0,2,A,NaN,NaN,NaN
+FRA,04/02/1989,,AJ Auxerre,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,04/02/1989,,Toulouse FC,FC Nantes,1,2,A,NaN,NaN,NaN
+FRA,04/02/1989,,OGC Nice,FC Metz,1,1,D,NaN,NaN,NaN
+FRA,04/02/1989,,Sporting Toulon Var,SM Caen,1,0,H,NaN,NaN,NaN
+FRA,04/02/1989,,Montpellier La Paillade SC,RC Lens,2,0,H,NaN,NaN,NaN
+FRA,04/02/1989,,Lille OSC,AS Cannes,1,0,H,NaN,NaN,NaN
+FRA,04/02/1989,,AS Saint-Étienne,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
+FRA,04/02/1989,,RC Strasbourg,Stade Laval,3,0,H,NaN,NaN,NaN
+FRA,05/02/1989,,FC Sochaux,Paris Saint-Germain,2,1,H,NaN,NaN,NaN
+FRA,10/02/1989,,FC Nantes,Montpellier La Paillade SC,2,1,H,NaN,NaN,NaN
+FRA,11/02/1989,,Olympique Marseille,RC Strasbourg,3,1,H,NaN,NaN,NaN
+FRA,11/02/1989,,Paris Saint-Germain,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
+FRA,11/02/1989,,SM Caen,AJ Auxerre,1,0,H,NaN,NaN,NaN
+FRA,11/02/1989,,AS Monaco,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
+FRA,11/02/1989,,AS Cannes,OGC Nice,2,0,H,NaN,NaN,NaN
+FRA,11/02/1989,,RC Lens,Lille OSC,1,2,A,NaN,NaN,NaN
+FRA,11/02/1989,,Girondins Bordeaux,Toulouse FC,1,1,D,NaN,NaN,NaN
+FRA,11/02/1989,,Stade Laval,Racing Club de France,4,2,H,NaN,NaN,NaN
+FRA,12/02/1989,,FC Metz,FC Sochaux,1,0,H,NaN,NaN,NaN
+FRA,18/02/1989,,Olympique Marseille,Stade Laval,1,0,H,NaN,NaN,NaN
+FRA,18/02/1989,,AJ Auxerre,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,18/02/1989,,FC Sochaux,AS Cannes,4,0,H,NaN,NaN,NaN
+FRA,18/02/1989,,AS Saint-Étienne,FC Nantes,1,1,D,NaN,NaN,NaN
+FRA,18/02/1989,,Toulouse FC,AS Monaco,2,0,H,NaN,NaN,NaN
+FRA,18/02/1989,,OGC Nice,Sporting Toulon Var,1,0,H,NaN,NaN,NaN
+FRA,18/02/1989,,Lille OSC,SM Caen,1,1,D,NaN,NaN,NaN
+FRA,18/02/1989,,Montpellier La Paillade SC,FC Metz,5,3,H,NaN,NaN,NaN
+FRA,19/02/1989,,RC Strasbourg,Girondins Bordeaux,3,2,H,NaN,NaN,NaN
+FRA,28/02/1989,,Racing Club de France,RC Lens,3,0,H,NaN,NaN,NaN
+FRA,21/02/1989,,SM Caen,Toulouse FC,3,0,H,NaN,NaN,NaN
+FRA,21/02/1989,,AS Monaco,Racing Club de France,1,0,H,NaN,NaN,NaN
+FRA,22/02/1989,,RC Lens,Olympique Marseille,0,1,A,NaN,NaN,NaN
+FRA,22/02/1989,,Paris Saint-Germain,Lille OSC,1,1,D,NaN,NaN,NaN
+FRA,22/02/1989,,Sporting Toulon Var,AJ Auxerre,1,2,A,NaN,NaN,NaN
+FRA,22/02/1989,,FC Nantes,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,22/02/1989,,Stade Laval,Montpellier La Paillade SC,0,1,A,NaN,NaN,NaN
+FRA,22/02/1989,,Girondins Bordeaux,OGC Nice,2,0,H,NaN,NaN,NaN
+FRA,22/02/1989,,AS Cannes,RC Strasbourg,4,1,H,NaN,NaN,NaN
+FRA,22/02/1989,,FC Metz,AS Saint-Étienne,1,2,A,NaN,NaN,NaN
+FRA,11/03/1989,,Olympique Marseille,Girondins Bordeaux,2,2,D,NaN,NaN,NaN
+FRA,11/03/1989,,Toulouse FC,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,11/03/1989,,FC Sochaux,SM Caen,1,0,H,NaN,NaN,NaN
+FRA,11/03/1989,,Lille OSC,AJ Auxerre,1,0,H,NaN,NaN,NaN
+FRA,11/03/1989,,OGC Nice,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,11/03/1989,,RC Strasbourg,FC Nantes,2,0,H,NaN,NaN,NaN
+FRA,11/03/1989,,Montpellier La Paillade SC,Sporting Toulon Var,0,1,A,NaN,NaN,NaN
+FRA,11/03/1989,,Racing Club de France,FC Metz,1,4,A,NaN,NaN,NaN
+FRA,11/03/1989,,AS Saint-Étienne,AS Cannes,1,0,H,NaN,NaN,NaN
+FRA,11/03/1989,,Stade Laval,RC Lens,2,1,H,NaN,NaN,NaN
+FRA,14/03/1989,,Paris Saint-Germain,Montpellier La Paillade SC,3,2,H,NaN,NaN,NaN
+FRA,17/03/1989,,FC Metz,RC Strasbourg,1,1,D,NaN,NaN,NaN
+FRA,18/03/1989,,AS Cannes,Olympique Marseille,3,1,H,NaN,NaN,NaN
+FRA,18/03/1989,,AS Monaco,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,18/03/1989,,AJ Auxerre,Toulouse FC,0,0,D,NaN,NaN,NaN
+FRA,18/03/1989,,FC Nantes,Racing Club de France,1,0,H,NaN,NaN,NaN
+FRA,18/03/1989,,Sporting Toulon Var,Lille OSC,2,1,H,NaN,NaN,NaN
+FRA,18/03/1989,,RC Lens,OGC Nice,2,0,H,NaN,NaN,NaN
+FRA,18/03/1989,,Girondins Bordeaux,Stade Laval,2,1,H,NaN,NaN,NaN
+FRA,18/03/1989,,SM Caen,AS Saint-Étienne,2,3,A,NaN,NaN,NaN
+FRA,25/03/1989,,AS Saint-Étienne,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,25/03/1989,,FC Sochaux,Lille OSC,2,0,H,NaN,NaN,NaN
+FRA,25/03/1989,,RC Strasbourg,AS Monaco,1,2,A,NaN,NaN,NaN
+FRA,25/03/1989,,Montpellier La Paillade SC,AJ Auxerre,1,0,H,NaN,NaN,NaN
+FRA,25/03/1989,,OGC Nice,SM Caen,5,0,H,NaN,NaN,NaN
+FRA,25/03/1989,,Toulouse FC,Sporting Toulon Var,1,0,H,NaN,NaN,NaN
+FRA,25/03/1989,,RC Lens,Girondins Bordeaux,0,2,A,NaN,NaN,NaN
+FRA,25/03/1989,,Racing Club de France,AS Cannes,1,0,H,NaN,NaN,NaN
+FRA,25/03/1989,,Stade Laval,FC Metz,3,0,H,NaN,NaN,NaN
+FRA,04/04/1989,,Olympique Marseille,FC Nantes,1,0,H,NaN,NaN,NaN
+FRA,01/04/1989,,Paris Saint-Germain,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,01/04/1989,,FC Metz,Olympique Marseille,1,3,A,NaN,NaN,NaN
+FRA,01/04/1989,,AJ Auxerre,FC Sochaux,2,1,H,NaN,NaN,NaN
+FRA,01/04/1989,,AS Monaco,Montpellier La Paillade SC,4,2,H,NaN,NaN,NaN
+FRA,01/04/1989,,FC Nantes,Stade Laval,1,1,D,NaN,NaN,NaN
+FRA,01/04/1989,,Lille OSC,Toulouse FC,0,0,D,NaN,NaN,NaN
+FRA,01/04/1989,,Girondins Bordeaux,Racing Club de France,3,2,H,NaN,NaN,NaN
+FRA,01/04/1989,,AS Cannes,RC Lens,3,0,H,NaN,NaN,NaN
+FRA,01/04/1989,,Sporting Toulon Var,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
+FRA,01/04/1989,,SM Caen,RC Strasbourg,3,3,D,NaN,NaN,NaN
+FRA,11/04/1989,,Olympique Marseille,AS Monaco,2,2,D,NaN,NaN,NaN
+FRA,12/04/1989,,RC Strasbourg,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,12/04/1989,,FC Sochaux,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
+FRA,12/04/1989,,AS Saint-Étienne,AJ Auxerre,1,1,D,NaN,NaN,NaN
+FRA,12/04/1989,,RC Lens,FC Nantes,0,0,D,NaN,NaN,NaN
+FRA,12/04/1989,,OGC Nice,Toulouse FC,2,0,H,NaN,NaN,NaN
+FRA,12/04/1989,,Girondins Bordeaux,FC Metz,4,1,H,NaN,NaN,NaN
+FRA,12/04/1989,,Montpellier La Paillade SC,Lille OSC,2,3,A,NaN,NaN,NaN
+FRA,12/04/1989,,Stade Laval,AS Cannes,2,0,H,NaN,NaN,NaN
+FRA,12/04/1989,,Racing Club de France,SM Caen,3,1,H,NaN,NaN,NaN
+FRA,21/04/1989,,FC Nantes,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
+FRA,22/04/1989,,SM Caen,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,22/04/1989,,Paris Saint-Germain,Racing Club de France,2,1,H,NaN,NaN,NaN
+FRA,22/04/1989,,Toulouse FC,FC Sochaux,2,1,H,NaN,NaN,NaN
+FRA,22/04/1989,,AS Monaco,Stade Laval,1,0,H,NaN,NaN,NaN
+FRA,22/04/1989,,AJ Auxerre,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,22/04/1989,,Lille OSC,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
+FRA,22/04/1989,,AS Cannes,Montpellier La Paillade SC,0,1,A,NaN,NaN,NaN
+FRA,22/04/1989,,Sporting Toulon Var,RC Strasbourg,0,0,D,NaN,NaN,NaN
+FRA,22/04/1989,,FC Metz,RC Lens,4,0,H,NaN,NaN,NaN
+FRA,05/05/1989,,Olympique Marseille,Paris Saint-Germain,1,0,H,NaN,NaN,NaN
+FRA,06/05/1989,,Montpellier La Paillade SC,FC Sochaux,1,2,A,NaN,NaN,NaN
+FRA,06/05/1989,,RC Lens,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,06/05/1989,,RC Strasbourg,AJ Auxerre,1,0,H,NaN,NaN,NaN
+FRA,06/05/1989,,FC Metz,FC Nantes,0,0,D,NaN,NaN,NaN
+FRA,06/05/1989,,OGC Nice,Lille OSC,0,1,A,NaN,NaN,NaN
+FRA,06/05/1989,,Girondins Bordeaux,AS Cannes,0,0,D,NaN,NaN,NaN
+FRA,06/05/1989,,AS Saint-Étienne,Toulouse FC,3,2,H,NaN,NaN,NaN
+FRA,06/05/1989,,Racing Club de France,Sporting Toulon Var,1,1,D,NaN,NaN,NaN
+FRA,06/05/1989,,Stade Laval,SM Caen,1,1,D,NaN,NaN,NaN
+FRA,12/05/1989,,Paris Saint-Germain,Stade Laval,3,0,H,NaN,NaN,NaN
+FRA,13/05/1989,,Sporting Toulon Var,Olympique Marseille,1,2,A,NaN,NaN,NaN
+FRA,13/05/1989,,FC Sochaux,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
+FRA,13/05/1989,,AS Monaco,Girondins Bordeaux,4,2,H,NaN,NaN,NaN
+FRA,13/05/1989,,AJ Auxerre,Racing Club de France,1,1,D,NaN,NaN,NaN
+FRA,13/05/1989,,FC Nantes,OGC Nice,0,1,A,NaN,NaN,NaN
+FRA,13/05/1989,,Lille OSC,RC Strasbourg,1,1,D,NaN,NaN,NaN
+FRA,13/05/1989,,Toulouse FC,Montpellier La Paillade SC,2,2,D,NaN,NaN,NaN
+FRA,13/05/1989,,AS Cannes,FC Metz,1,1,D,NaN,NaN,NaN
+FRA,13/05/1989,,SM Caen,RC Lens,1,0,H,NaN,NaN,NaN
+FRA,20/05/1989,,Olympique Marseille,AJ Auxerre,2,1,H,NaN,NaN,NaN
+FRA,20/05/1989,,RC Lens,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
+FRA,20/05/1989,,FC Metz,AS Monaco,0,3,A,NaN,NaN,NaN
+FRA,20/05/1989,,OGC Nice,FC Sochaux,3,2,H,NaN,NaN,NaN
+FRA,20/05/1989,,FC Nantes,AS Cannes,1,1,D,NaN,NaN,NaN
+FRA,20/05/1989,,Racing Club de France,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,20/05/1989,,RC Strasbourg,Toulouse FC,4,1,H,NaN,NaN,NaN
+FRA,20/05/1989,,Girondins Bordeaux,SM Caen,2,3,A,NaN,NaN,NaN
+FRA,20/05/1989,,Stade Laval,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
+FRA,20/05/1989,,AS Saint-Étienne,Montpellier La Paillade SC,1,0,H,NaN,NaN,NaN
+FRA,31/05/1989,,Montpellier La Paillade SC,Olympique Marseille,1,0,H,NaN,NaN,NaN
+FRA,31/05/1989,,Paris Saint-Germain,FC Metz,2,2,D,NaN,NaN,NaN
+FRA,31/05/1989,,AS Monaco,FC Nantes,4,1,H,NaN,NaN,NaN
+FRA,31/05/1989,,FC Sochaux,RC Strasbourg,3,0,H,NaN,NaN,NaN
+FRA,31/05/1989,,AJ Auxerre,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
+FRA,31/05/1989,,Lille OSC,Stade Laval,8,0,H,NaN,NaN,NaN
+FRA,31/05/1989,,AS Saint-Étienne,OGC Nice,0,0,D,NaN,NaN,NaN
+FRA,31/05/1989,,Toulouse FC,Racing Club de France,2,1,H,NaN,NaN,NaN
+FRA,31/05/1989,,Sporting Toulon Var,RC Lens,3,1,H,NaN,NaN,NaN
+FRA,31/05/1989,,SM Caen,AS Cannes,3,0,H,NaN,NaN,NaN

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,08/08/2003,18:00,Samsunspor,Beşiktaş,1,3,A,1,0,H
+TUR,09/08/2003,17:00,Konyaspor,Trabzonspor,3,3,D,2,0,H
+TUR,09/08/2003,17:00,Gençlerbirliği,Elazığspor,2,3,A,1,2,A
+TUR,09/08/2003,17:00,Galatasaray,Diyarbakirspor,2,1,H,0,1,A
+TUR,09/08/2003,17:00,Bursaspor,Gaziantepspor,0,0,D,0,0,D
+TUR,10/08/2003,17:00,Akcaabat Sebatspor,Denizlispor,0,2,A,0,1,A
+TUR,10/08/2003,17:00,Adanaspor,Malatyaspor,0,1,A,0,0,D
+TUR,10/08/2003,17:00,Çaykur Rizespor,MKE Ankaragücü,2,1,H,1,1,D
+TUR,10/08/2003,17:00,Fenerbahçe,Istanbulspor,0,3,A,0,2,A
+TUR,15/08/2003,18:00,Trabzonspor,Fenerbahçe,0,1,A,0,1,A
+TUR,16/08/2003,15:00,Istanbulspor,Adanaspor,1,0,H,1,0,H
+TUR,16/08/2003,17:00,Denizlispor,Çaykur Rizespor,1,1,D,0,0,D
+TUR,16/08/2003,17:00,MKE Ankaragücü,Samsunspor,4,2,H,1,2,A
+TUR,16/08/2003,17:00,Beşiktaş,Bursaspor,1,0,H,1,0,H
+TUR,17/08/2003,15:00,Elazığspor,Konyaspor,0,0,D,0,0,D
+TUR,17/08/2003,17:00,Diyarbakirspor,Gençlerbirliği,3,2,H,1,1,D
+TUR,17/08/2003,17:00,Malatyaspor,Akcaabat Sebatspor,3,1,H,1,0,H
+TUR,17/08/2003,17:00,Gaziantepspor,Galatasaray,1,2,A,0,0,D
+TUR,23/08/2003,15:00,Akcaabat Sebatspor,Istanbulspor,1,3,A,0,0,D
+TUR,23/08/2003,16:00,Bursaspor,Galatasaray,2,2,D,1,0,H
+TUR,23/08/2003,17:00,Çaykur Rizespor,Malatyaspor,2,1,H,0,1,A
+TUR,23/08/2003,17:00,Adanaspor,Trabzonspor,0,1,A,0,0,D
+TUR,23/08/2003,18:30,Fenerbahçe,Elazığspor,7,1,H,3,1,H
+TUR,24/08/2003,17:00,Samsunspor,Denizlispor,2,1,H,1,0,H
+TUR,24/08/2003,17:00,Gençlerbirliği,Gaziantepspor,1,0,H,1,0,H
+TUR,24/08/2003,17:00,Beşiktaş,MKE Ankaragücü,3,0,H,1,0,H
+TUR,24/08/2003,17:00,Konyaspor,Diyarbakirspor,3,1,H,1,1,D
+TUR,29/08/2003,18:00,Denizlispor,Beşiktaş,2,3,A,0,2,A
+TUR,30/08/2003,15:00,Elazığspor,Adanaspor,3,4,A,1,2,A
+TUR,30/08/2003,17:00,Malatyaspor,Samsunspor,5,0,H,3,0,H
+TUR,30/08/2003,17:00,Diyarbakirspor,Fenerbahçe,1,2,A,0,0,D
+TUR,30/08/2003,17:00,Gaziantepspor,Konyaspor,3,1,H,1,1,D
+TUR,31/08/2003,15:00,Istanbulspor,Çaykur Rizespor,3,0,H,1,0,H
+TUR,31/08/2003,17:00,Trabzonspor,Akcaabat Sebatspor,2,1,H,1,0,H
+TUR,31/08/2003,17:00,Galatasaray,Gençlerbirliği,2,1,H,2,0,H
+TUR,31/08/2003,17:00,MKE Ankaragücü,Bursaspor,2,0,H,1,0,H
+TUR,12/09/2003,18:00,Beşiktaş,Malatyaspor,3,1,H,1,1,D
+TUR,13/09/2003,14:30,Çaykur Rizespor,Trabzonspor,0,3,A,NaN,NaN,NaN
+TUR,13/09/2003,17:00,Samsunspor,Istanbulspor,3,3,D,1,2,A
+TUR,13/09/2003,17:00,Adanaspor,Diyarbakirspor,2,1,H,0,0,D
+TUR,13/09/2003,17:00,Konyaspor,Galatasaray,1,0,H,0,0,D
+TUR,14/09/2003,15:00,Akcaabat Sebatspor,Elazığspor,3,1,H,1,1,D
+TUR,14/09/2003,17:00,MKE Ankaragücü,Denizlispor,1,1,D,1,0,H
+TUR,14/09/2003,17:00,Bursaspor,Gençlerbirliği,0,0,D,0,0,D
+TUR,14/09/2003,17:00,Fenerbahçe,Gaziantepspor,3,1,H,0,0,D
+TUR,19/09/2003,18:00,Trabzonspor,Samsunspor,2,1,H,0,0,D
+TUR,20/09/2003,14:00,Istanbulspor,Beşiktaş,1,1,D,0,1,A
+TUR,20/09/2003,17:00,Malatyaspor,MKE Ankaragücü,1,0,H,0,0,D
+TUR,20/09/2003,17:00,Gaziantepspor,Adanaspor,1,0,H,1,0,H
+TUR,20/09/2003,17:00,Gençlerbirliği,Konyaspor,4,0,H,3,0,H
+TUR,21/09/2003,14:00,Denizlispor,Bursaspor,4,0,H,2,0,H
+TUR,21/09/2003,14:00,Elazığspor,Çaykur Rizespor,1,1,D,0,1,A
+TUR,21/09/2003,14:00,Galatasaray,Fenerbahçe,2,2,D,1,1,D
+TUR,21/09/2003,18:00,Diyarbakirspor,Akcaabat Sebatspor,1,0,H,1,0,H
+TUR,26/09/2003,18:00,Adanaspor,Galatasaray,0,2,A,0,2,A
+TUR,27/09/2003,17:00,Samsunspor,Elazığspor,2,0,H,1,0,H
+TUR,27/09/2003,17:00,Fenerbahçe,Gençlerbirliği,1,0,H,0,0,D
+TUR,27/09/2003,17:00,MKE Ankaragücü,Istanbulspor,2,1,H,0,1,A
+TUR,27/09/2003,17:00,Bursaspor,Konyaspor,2,1,H,0,0,D
+TUR,28/09/2003,14:00,Akcaabat Sebatspor,Gaziantepspor,1,2,A,1,1,D
+TUR,28/09/2003,17:00,Denizlispor,Malatyaspor,1,0,H,0,0,D
+TUR,28/09/2003,17:00,Çaykur Rizespor,Diyarbakirspor,2,1,H,0,0,D
+TUR,28/09/2003,17:00,Beşiktaş,Trabzonspor,5,0,H,2,0,H
+TUR,03/10/2003,18:00,Konyaspor,Fenerbahçe,2,4,A,1,2,A
+TUR,04/10/2003,13:00,Istanbulspor,Denizlispor,0,3,A,0,2,A
+TUR,04/10/2003,17:00,Galatasaray,Akcaabat Sebatspor,4,3,H,1,0,H
+TUR,04/10/2003,17:00,Malatyaspor,Bursaspor,2,1,H,1,1,D
+TUR,04/10/2003,17:00,Gençlerbirliği,Adanaspor,6,0,H,0,0,D
+TUR,05/10/2003,13:00,Elazığspor,Beşiktaş,1,5,A,1,2,A
+TUR,05/10/2003,17:00,Gaziantepspor,Çaykur Rizespor,2,0,H,1,0,H
+TUR,05/10/2003,17:00,Trabzonspor,MKE Ankaragücü,3,0,H,1,0,H
+TUR,05/10/2003,17:00,Diyarbakirspor,Samsunspor,2,2,D,0,1,A
+TUR,17/10/2003,18:00,Çaykur Rizespor,Galatasaray,0,1,A,0,1,A
+TUR,18/10/2003,17:00,Beşiktaş,Diyarbakirspor,1,0,H,1,0,H
+TUR,18/10/2003,17:00,Adanaspor,Konyaspor,1,1,D,0,1,A
+TUR,18/10/2003,17:00,MKE Ankaragücü,Elazığspor,1,0,H,1,0,H
+TUR,19/10/2003,13:00,Akcaabat Sebatspor,Gençlerbirliği,0,3,A,0,1,A
+TUR,19/10/2003,17:00,Malatyaspor,Istanbulspor,2,1,H,0,0,D
+TUR,19/10/2003,17:00,Samsunspor,Gaziantepspor,1,2,A,1,0,H
+TUR,19/10/2003,17:00,Denizlispor,Trabzonspor,0,1,A,0,0,D
+TUR,19/10/2003,17:00,Bursaspor,Fenerbahçe,2,2,D,0,1,A
+TUR,24/10/2003,18:00,Fenerbahçe,Adanaspor,3,0,H,1,0,H
+TUR,25/10/2003,11:30,Elazığspor,Denizlispor,2,4,A,0,3,A
+TUR,25/10/2003,17:00,Diyarbakirspor,MKE Ankaragücü,1,1,D,1,0,H
+TUR,25/10/2003,17:00,Trabzonspor,Malatyaspor,0,0,D,0,0,D
+TUR,25/10/2003,17:00,Galatasaray,Samsunspor,1,0,H,0,0,D
+TUR,26/10/2003,11:30,Istanbulspor,Bursaspor,3,0,H,2,0,H
+TUR,26/10/2003,17:00,Gençlerbirliği,Çaykur Rizespor,1,0,H,1,0,H
+TUR,26/10/2003,17:00,Gaziantepspor,Beşiktaş,0,3,A,0,2,A
+TUR,26/10/2003,17:00,Konyaspor,Akcaabat Sebatspor,0,0,D,0,0,D
+TUR,31/10/2003,19:00,Beşiktaş,Galatasaray,0,0,D,0,0,D
+TUR,01/11/2003,11:30,Denizlispor,Diyarbakirspor,1,2,A,1,1,D
+TUR,01/11/2003,11:30,Samsunspor,Gençlerbirliği,2,1,H,0,1,A
+TUR,01/11/2003,11:30,Istanbulspor,Trabzonspor,0,2,A,0,0,D
+TUR,01/11/2003,17:00,MKE Ankaragücü,Gaziantepspor,1,4,A,1,2,A
+TUR,02/11/2003,11:30,Malatyaspor,Elazığspor,3,0,H,0,0,D
+TUR,02/11/2003,11:30,Bursaspor,Adanaspor,6,0,H,3,0,H
+TUR,02/11/2003,11:30,Çaykur Rizespor,Konyaspor,1,1,D,1,1,D
+TUR,02/11/2003,17:00,Akcaabat Sebatspor,Fenerbahçe,1,1,D,1,1,D
+TUR,07/11/2003,18:00,Trabzonspor,Bursaspor,2,0,H,0,0,D
+TUR,08/11/2003,11:30,Adanaspor,Akcaabat Sebatspor,1,2,A,0,1,A
+TUR,08/11/2003,11:30,Konyaspor,Samsunspor,0,0,D,0,0,D
+TUR,09/11/2003,11:30,Diyarbakirspor,Malatyaspor,2,0,H,2,0,H
+TUR,09/11/2003,11:30,Gaziantepspor,Denizlispor,1,2,A,1,0,H
+TUR,09/11/2003,11:30,Elazığspor,Istanbulspor,1,1,D,1,1,D
+TUR,09/11/2003,15:00,Gençlerbirliği,Beşiktaş,1,2,A,0,2,A
+TUR,09/11/2003,18:00,Galatasaray,MKE Ankaragücü,2,1,H,1,1,D
+TUR,18/01/2004,17:00,Fenerbahçe,Çaykur Rizespor,4,1,H,2,0,H
+TUR,22/11/2003,11:30,MKE Ankaragücü,Gençlerbirliği,2,3,A,1,2,A
+TUR,22/11/2003,11:30,Malatyaspor,Gaziantepspor,0,0,D,0,0,D
+TUR,22/11/2003,15:00,Denizlispor,Galatasaray,2,1,H,1,1,D
+TUR,22/11/2003,17:00,Beşiktaş,Konyaspor,1,1,D,1,1,D
+TUR,23/11/2003,11:30,Çaykur Rizespor,Adanaspor,0,2,A,0,0,D
+TUR,23/11/2003,11:30,Trabzonspor,Elazığspor,2,2,D,1,1,D
+TUR,23/11/2003,11:30,Istanbulspor,Diyarbakirspor,1,3,A,1,3,A
+TUR,23/11/2003,11:30,Bursaspor,Akcaabat Sebatspor,1,1,D,1,0,H
+TUR,23/11/2003,17:00,Samsunspor,Fenerbahçe,3,0,H,2,0,H
+TUR,28/11/2003,18:00,Galatasaray,Malatyaspor,2,2,D,1,0,H
+TUR,29/11/2003,11:30,Akcaabat Sebatspor,Çaykur Rizespor,1,0,H,0,0,D
+TUR,29/11/2003,11:30,Elazığspor,Bursaspor,1,0,H,0,0,D
+TUR,29/11/2003,11:30,Konyaspor,MKE Ankaragücü,1,1,D,1,0,H
+TUR,29/11/2003,17:00,Diyarbakirspor,Trabzonspor,2,2,D,0,1,A
+TUR,30/11/2003,11:30,Adanaspor,Samsunspor,2,3,A,1,1,D
+TUR,30/11/2003,11:30,Gaziantepspor,Istanbulspor,2,1,H,0,0,D
+TUR,30/11/2003,11:30,Gençlerbirliği,Denizlispor,1,3,A,1,1,D
+TUR,30/11/2003,17:00,Fenerbahçe,Beşiktaş,2,2,D,0,0,D
+TUR,05/12/2003,18:00,Beşiktaş,Adanaspor,2,1,H,0,0,D
+TUR,06/12/2003,11:30,Samsunspor,Akcaabat Sebatspor,1,1,D,0,1,A
+TUR,06/12/2003,11:30,Istanbulspor,Galatasaray,3,1,H,1,0,H
+TUR,06/12/2003,11:30,Diyarbakirspor,Elazığspor,2,0,H,1,0,H
+TUR,06/12/2003,17:00,Trabzonspor,Gaziantepspor,3,0,H,1,0,H
+TUR,07/12/2003,11:30,Çaykur Rizespor,Bursaspor,1,0,H,0,0,D
+TUR,07/12/2003,11:30,Malatyaspor,Gençlerbirliği,1,1,D,0,1,A
+TUR,07/12/2003,11:30,Denizlispor,Konyaspor,3,2,H,1,1,D
+TUR,07/12/2003,17:00,MKE Ankaragücü,Fenerbahçe,1,4,A,0,1,A
+TUR,13/12/2003,11:30,Gençlerbirliği,Istanbulspor,1,0,H,0,0,D
+TUR,13/12/2003,11:30,Gaziantepspor,Elazığspor,3,1,H,1,1,D
+TUR,13/12/2003,14:30,Akcaabat Sebatspor,Beşiktaş,1,2,A,1,0,H
+TUR,13/12/2003,17:00,Fenerbahçe,Denizlispor,2,0,H,0,0,D
+TUR,14/12/2003,11:30,Adanaspor,MKE Ankaragücü,1,3,A,0,1,A
+TUR,14/12/2003,11:30,Bursaspor,Diyarbakirspor,0,0,D,0,0,D
+TUR,14/12/2003,11:30,Çaykur Rizespor,Samsunspor,1,2,A,0,0,D
+TUR,14/12/2003,11:30,Konyaspor,Malatyaspor,3,3,D,2,1,H
+TUR,14/12/2003,17:00,Galatasaray,Trabzonspor,1,2,A,0,2,A
+TUR,20/12/2003,11:30,Elazığspor,Galatasaray,2,2,D,1,2,A
+TUR,20/12/2003,11:30,Trabzonspor,Gençlerbirliği,1,3,A,1,1,D
+TUR,20/12/2003,17:00,Beşiktaş,Çaykur Rizespor,5,3,H,1,1,D
+TUR,21/12/2003,11:30,Samsunspor,Bursaspor,0,0,D,0,0,D
+TUR,21/12/2003,11:30,Istanbulspor,Konyaspor,2,3,A,1,1,D
+TUR,21/12/2003,11:30,Denizlispor,Adanaspor,1,1,D,1,1,D
+TUR,21/12/2003,11:30,MKE Ankaragücü,Akcaabat Sebatspor,1,1,D,1,0,H
+TUR,21/12/2003,11:30,Diyarbakirspor,Gaziantepspor,2,1,H,0,1,A
+TUR,21/12/2003,17:00,Malatyaspor,Fenerbahçe,2,2,D,1,2,A
+TUR,23/01/2004,18:00,Diyarbakirspor,Galatasaray,0,0,D,0,0,D
+TUR,24/01/2004,11:30,Denizlispor,Akcaabat Sebatspor,1,2,A,0,0,D
+TUR,25/01/2004,11:30,Malatyaspor,Adanaspor,2,0,H,1,0,H
+TUR,25/01/2004,11:30,MKE Ankaragücü,Çaykur Rizespor,4,1,H,2,0,H
+TUR,25/01/2004,11:30,Trabzonspor,Konyaspor,0,3,A,0,1,A
+TUR,25/01/2004,11:30,Elazığspor,Gençlerbirliği,1,1,D,0,1,A
+TUR,25/01/2004,11:30,Gaziantepspor,Bursaspor,3,2,H,1,1,D
+TUR,25/01/2004,12:00,Istanbulspor,Fenerbahçe,0,1,A,0,1,A
+TUR,25/01/2004,17:00,Beşiktaş,Samsunspor,0,4,A,NaN,NaN,NaN
+TUR,31/01/2004,17:30,Galatasaray,Gaziantepspor,3,0,H,1,0,H
+TUR,01/02/2004,11:30,Çaykur Rizespor,Denizlispor,1,2,A,0,1,A
+TUR,01/02/2004,11:30,Gençlerbirliği,Diyarbakirspor,3,4,A,1,1,D
+TUR,01/02/2004,11:30,Konyaspor,Elazığspor,2,0,H,2,0,H
+TUR,01/02/2004,11:30,Akcaabat Sebatspor,Malatyaspor,2,2,D,1,1,D
+TUR,01/02/2004,11:30,Samsunspor,MKE Ankaragücü,3,2,H,1,1,D
+TUR,01/02/2004,11:30,Adanaspor,Istanbulspor,1,1,D,0,1,A
+TUR,01/02/2004,14:30,Bursaspor,Beşiktaş,0,1,A,0,0,D
+TUR,01/02/2004,17:00,Fenerbahçe,Trabzonspor,3,1,H,2,1,H
+TUR,06/02/2004,18:00,MKE Ankaragücü,Beşiktaş,1,1,D,0,0,D
+TUR,07/02/2004,11:30,Malatyaspor,Çaykur Rizespor,0,1,A,0,0,D
+TUR,07/02/2004,11:30,Denizlispor,Samsunspor,1,0,H,1,0,H
+TUR,07/02/2004,11:30,Diyarbakirspor,Konyaspor,1,1,D,0,0,D
+TUR,07/02/2004,12:00,Elazığspor,Fenerbahçe,0,1,A,0,1,A
+TUR,07/02/2004,17:00,Gaziantepspor,Gençlerbirliği,2,0,H,0,0,D
+TUR,08/02/2004,11:30,Istanbulspor,Akcaabat Sebatspor,1,3,A,1,2,A
+TUR,08/02/2004,11:30,Trabzonspor,Adanaspor,2,1,H,0,1,A
+TUR,08/02/2004,17:00,Galatasaray,Bursaspor,0,0,D,0,0,D
+TUR,14/02/2004,11:30,Samsunspor,Malatyaspor,1,0,H,0,0,D
+TUR,14/02/2004,11:30,Adanaspor,Elazığspor,1,2,A,0,0,D
+TUR,15/02/2004,11:30,Akcaabat Sebatspor,Trabzonspor,0,0,D,0,0,D
+TUR,15/02/2004,11:30,Konyaspor,Gaziantepspor,0,3,A,0,1,A
+TUR,15/02/2004,12:00,Beşiktaş,Denizlispor,3,1,H,1,1,D
+TUR,15/02/2004,13:00,Bursaspor,MKE Ankaragücü,1,0,H,1,0,H
+TUR,15/02/2004,14:30,Gençlerbirliği,Galatasaray,2,2,D,2,1,H
+TUR,15/02/2004,17:00,Fenerbahçe,Diyarbakirspor,2,2,D,0,1,A
+TUR,16/02/2004,11:30,Çaykur Rizespor,Istanbulspor,1,0,H,1,0,H
+TUR,21/02/2004,11:30,Gençlerbirliği,Bursaspor,2,0,H,1,0,H
+TUR,21/02/2004,14:00,Malatyaspor,Beşiktaş,0,0,D,0,0,D
+TUR,21/02/2004,17:00,Galatasaray,Konyaspor,2,1,H,1,0,H
+TUR,22/02/2004,11:30,Istanbulspor,Samsunspor,0,0,D,0,0,D
+TUR,22/02/2004,11:30,Denizlispor,MKE Ankaragücü,0,1,A,0,1,A
+TUR,22/02/2004,11:30,Diyarbakirspor,Adanaspor,3,1,H,1,1,D
+TUR,22/02/2004,15:30,Trabzonspor,Çaykur Rizespor,1,0,H,1,0,H
+TUR,22/02/2004,17:00,Gaziantepspor,Fenerbahçe,1,5,A,0,2,A
+TUR,23/02/2004,11:30,Elazığspor,Akcaabat Sebatspor,3,1,H,1,0,H
+TUR,28/02/2004,11:30,Çaykur Rizespor,Elazığspor,5,4,H,2,1,H
+TUR,28/02/2004,17:00,Samsunspor,Trabzonspor,1,3,A,0,1,A
+TUR,29/02/2004,11:30,MKE Ankaragücü,Malatyaspor,0,0,D,0,0,D
+TUR,29/02/2004,11:30,Bursaspor,Denizlispor,0,1,A,0,0,D
+TUR,29/02/2004,11:30,Adanaspor,Gaziantepspor,2,3,A,2,3,A
+TUR,29/02/2004,11:30,Konyaspor,Gençlerbirliği,4,1,H,2,0,H
+TUR,29/02/2004,11:30,Akcaabat Sebatspor,Diyarbakirspor,0,1,A,0,0,D
+TUR,29/02/2004,13:00,Beşiktaş,Istanbulspor,1,2,A,1,1,D
+TUR,29/02/2004,17:00,Fenerbahçe,Galatasaray,2,1,H,1,1,D
+TUR,06/03/2004,11:30,Elazığspor,Samsunspor,1,0,H,1,0,H
+TUR,06/03/2004,11:30,Diyarbakirspor,Çaykur Rizespor,0,1,A,0,0,D
+TUR,06/03/2004,11:30,Konyaspor,Bursaspor,1,1,D,0,0,D
+TUR,06/03/2004,17:00,Gençlerbirliği,Fenerbahçe,0,1,A,0,1,A
+TUR,07/03/2004,11:30,Malatyaspor,Denizlispor,0,1,A,0,1,A
+TUR,07/03/2004,11:30,Gaziantepspor,Akcaabat Sebatspor,2,2,D,2,0,H
+TUR,07/03/2004,11:30,Istanbulspor,MKE Ankaragücü,2,3,A,0,1,A
+TUR,07/03/2004,14:00,Galatasaray,Adanaspor,3,2,H,1,1,D
+TUR,07/03/2004,17:00,Trabzonspor,Beşiktaş,3,0,H,2,0,H
+TUR,12/03/2004,18:00,MKE Ankaragücü,Trabzonspor,1,2,A,0,1,A
+TUR,13/03/2004,11:30,Denizlispor,Istanbulspor,2,0,H,1,0,H
+TUR,13/03/2004,11:30,Bursaspor,Malatyaspor,3,2,H,1,2,A
+TUR,13/03/2004,12:00,Akcaabat Sebatspor,Galatasaray,2,1,H,0,1,A
+TUR,13/03/2004,17:00,Fenerbahçe,Konyaspor,5,2,H,2,0,H
+TUR,14/03/2004,11:30,Çaykur Rizespor,Gaziantepspor,1,2,A,1,1,D
+TUR,14/03/2004,11:30,Samsunspor,Diyarbakirspor,3,1,H,1,1,D
+TUR,14/03/2004,17:00,Beşiktaş,Elazığspor,5,3,H,3,2,H
+TUR,31/03/2004,16:00,Adanaspor,Gençlerbirliği,2,2,D,0,0,D
+TUR,19/03/2004,18:00,Diyarbakirspor,Beşiktaş,3,1,H,1,0,H
+TUR,20/03/2004,11:30,Gaziantepspor,Samsunspor,1,0,H,1,0,H
+TUR,20/03/2004,11:30,Konyaspor,Adanaspor,4,1,H,3,0,H
+TUR,20/03/2004,17:00,Galatasaray,Çaykur Rizespor,1,2,A,1,2,A
+TUR,21/03/2004,11:30,Gençlerbirliği,Akcaabat Sebatspor,3,1,H,0,0,D
+TUR,21/03/2004,11:30,Istanbulspor,Malatyaspor,0,0,D,0,0,D
+TUR,21/03/2004,11:30,Trabzonspor,Denizlispor,1,0,H,0,0,D
+TUR,21/03/2004,11:30,Elazığspor,MKE Ankaragücü,1,2,A,0,0,D
+TUR,21/03/2004,17:00,Fenerbahçe,Bursaspor,3,1,H,1,1,D
+TUR,26/03/2004,18:00,Samsunspor,Galatasaray,1,0,H,0,0,D
+TUR,27/03/2004,11:30,MKE Ankaragücü,Diyarbakirspor,3,1,H,2,0,H
+TUR,27/03/2004,11:30,Denizlispor,Elazığspor,3,0,H,0,0,D
+TUR,27/03/2004,11:30,Bursaspor,Istanbulspor,1,1,D,0,0,D
+TUR,27/03/2004,11:30,Akcaabat Sebatspor,Konyaspor,1,1,D,0,0,D
+TUR,27/03/2004,12:00,Malatyaspor,Trabzonspor,2,3,A,2,1,H
+TUR,27/03/2004,14:00,Adanaspor,Fenerbahçe,1,2,A,1,1,D
+TUR,27/03/2004,17:00,Çaykur Rizespor,Gençlerbirliği,2,0,H,1,0,H
+TUR,27/03/2004,17:00,Beşiktaş,Gaziantepspor,4,1,H,3,1,H
+TUR,03/04/2004,12:30,Diyarbakirspor,Denizlispor,0,1,A,0,0,D
+TUR,03/04/2004,12:30,Gaziantepspor,MKE Ankaragücü,2,1,H,1,1,D
+TUR,03/04/2004,14:00,Trabzonspor,Istanbulspor,2,0,H,1,0,H
+TUR,03/04/2004,17:00,Fenerbahçe,Akcaabat Sebatspor,4,2,H,3,1,H
+TUR,04/04/2004,12:30,Elazığspor,Malatyaspor,0,0,D,0,0,D
+TUR,04/04/2004,12:30,Adanaspor,Bursaspor,0,3,A,0,0,D
+TUR,04/04/2004,12:30,Gençlerbirliği,Samsunspor,2,1,H,0,0,D
+TUR,04/04/2004,12:30,Konyaspor,Çaykur Rizespor,2,1,H,1,1,D
+TUR,04/04/2004,17:00,Galatasaray,Beşiktaş,1,2,A,1,0,H
+TUR,09/04/2004,18:00,Çaykur Rizespor,Fenerbahçe,1,0,H,0,0,D
+TUR,10/04/2004,12:30,Istanbulspor,Elazığspor,3,1,H,1,0,H
+TUR,10/04/2004,12:30,Bursaspor,Trabzonspor,1,2,A,0,1,A
+TUR,10/04/2004,12:30,Akcaabat Sebatspor,Adanaspor,4,3,H,2,1,H
+TUR,10/04/2004,17:00,MKE Ankaragücü,Galatasaray,1,0,H,0,0,D
+TUR,11/04/2004,12:30,Malatyaspor,Diyarbakirspor,5,0,H,2,0,H
+TUR,11/04/2004,12:30,Denizlispor,Gaziantepspor,2,0,H,1,0,H
+TUR,11/04/2004,17:00,Beşiktaş,Gençlerbirliği,2,2,D,1,2,A
+TUR,21/04/2004,17:00,Samsunspor,Konyaspor,2,3,A,0,2,A
+TUR,16/04/2004,18:00,Galatasaray,Denizlispor,4,3,H,3,3,D
+TUR,17/04/2004,12:30,Gençlerbirliği,MKE Ankaragücü,1,2,A,1,1,D
+TUR,17/04/2004,12:30,Elazığspor,Trabzonspor,0,3,A,0,0,D
+TUR,17/04/2004,12:30,Gaziantepspor,Malatyaspor,1,3,A,0,2,A
+TUR,17/04/2004,17:00,Konyaspor,Beşiktaş,2,2,D,2,1,H
+TUR,18/04/2004,12:30,Adanaspor,Çaykur Rizespor,0,1,A,0,1,A
+TUR,18/04/2004,12:30,Diyarbakirspor,Istanbulspor,1,2,A,1,1,D
+TUR,18/04/2004,12:30,Akcaabat Sebatspor,Bursaspor,0,1,A,0,0,D
+TUR,18/04/2004,17:00,Fenerbahçe,Samsunspor,1,1,D,1,0,H
+TUR,23/04/2004,18:00,Malatyaspor,Galatasaray,1,2,A,0,0,D
+TUR,24/04/2004,13:30,Çaykur Rizespor,Akcaabat Sebatspor,0,1,A,0,1,A
+TUR,24/04/2004,13:30,Istanbulspor,Gaziantepspor,0,1,A,0,0,D
+TUR,24/04/2004,13:30,Bursaspor,Elazığspor,4,0,H,1,0,H
+TUR,24/04/2004,17:00,Trabzonspor,Diyarbakirspor,2,0,H,1,0,H
+TUR,25/04/2004,13:30,Samsunspor,Adanaspor,2,1,H,2,0,H
+TUR,25/04/2004,13:30,MKE Ankaragücü,Konyaspor,1,0,H,0,0,D
+TUR,25/04/2004,13:30,Denizlispor,Gençlerbirliği,1,2,A,0,1,A
+TUR,25/04/2004,17:00,Beşiktaş,Fenerbahçe,1,3,A,0,1,A
+TUR,30/04/2004,18:00,Adanaspor,Beşiktaş,1,0,H,0,0,D
+TUR,01/05/2004,17:00,Fenerbahçe,MKE Ankaragücü,3,1,H,0,1,A
+TUR,01/05/2004,17:00,Gaziantepspor,Trabzonspor,1,2,A,0,1,A
+TUR,01/05/2004,17:00,Gençlerbirliği,Malatyaspor,2,2,D,1,2,A
+TUR,01/05/2004,17:00,Konyaspor,Denizlispor,1,1,D,0,1,A
+TUR,02/05/2004,17:00,Akcaabat Sebatspor,Samsunspor,1,0,H,0,0,D
+TUR,02/05/2004,17:00,Galatasaray,Istanbulspor,2,2,D,1,1,D
+TUR,02/05/2004,17:00,Bursaspor,Çaykur Rizespor,4,2,H,0,2,A
+TUR,02/05/2004,17:00,Elazığspor,Diyarbakirspor,0,1,A,0,1,A
+TUR,08/05/2004,15:00,MKE Ankaragücü,Adanaspor,1,2,A,0,0,D
+TUR,08/05/2004,15:00,Elazığspor,Gaziantepspor,1,2,A,1,1,D
+TUR,08/05/2004,15:00,Malatyaspor,Konyaspor,1,3,A,0,1,A
+TUR,09/05/2004,15:00,Istanbulspor,Gençlerbirliği,3,0,H,2,0,H
+TUR,09/05/2004,15:00,Diyarbakirspor,Bursaspor,0,3,A,0,1,A
+TUR,09/05/2004,15:00,Samsunspor,Çaykur Rizespor,2,1,H,1,1,D
+TUR,09/05/2004,15:00,Beşiktaş,Akcaabat Sebatspor,0,2,A,0,2,A
+TUR,09/05/2004,17:30,Denizlispor,Fenerbahçe,0,4,A,0,3,A
+TUR,09/05/2004,17:30,Trabzonspor,Galatasaray,2,4,A,0,2,A
+TUR,14/05/2004,18:30,Fenerbahçe,Malatyaspor,2,4,A,1,2,A
+TUR,15/05/2004,15:00,Bursaspor,Samsunspor,1,0,H,1,0,H
+TUR,15/05/2004,15:00,Çaykur Rizespor,Beşiktaş,1,0,H,1,0,H
+TUR,15/05/2004,15:00,Konyaspor,Istanbulspor,0,2,A,0,2,A
+TUR,15/05/2004,15:00,Adanaspor,Denizlispor,4,1,H,1,0,H
+TUR,15/05/2004,15:00,Akcaabat Sebatspor,MKE Ankaragücü,3,2,H,3,2,H
+TUR,15/05/2004,15:00,Gaziantepspor,Diyarbakirspor,4,1,H,1,0,H
+TUR,15/05/2004,17:00,Galatasaray,Elazığspor,3,1,H,1,1,D
+TUR,15/05/2004,17:00,Gençlerbirliği,Trabzonspor,2,2,D,1,2,A

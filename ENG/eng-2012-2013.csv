@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,18/08/2012,15:00,Arsenal FC,Sunderland AFC,0,0,D,0,0,D
+ENG,18/08/2012,15:00,Fulham FC,Norwich City,5,0,H,2,0,H
+ENG,18/08/2012,15:00,Queens Park Rangers,Swansea City,0,5,A,0,1,A
+ENG,18/08/2012,15:00,Reading FC,Stoke City,1,1,D,0,1,A
+ENG,18/08/2012,15:00,West Bromwich Albion,Liverpool FC,3,0,H,1,0,H
+ENG,18/08/2012,15:00,West Ham United,Aston Villa,1,0,H,1,0,H
+ENG,18/08/2012,17:30,Newcastle United,Tottenham Hotspur,2,1,H,0,0,D
+ENG,19/08/2012,13:30,Wigan Athletic,Chelsea FC,0,2,A,0,2,A
+ENG,19/08/2012,16:00,Manchester City,Southampton FC,3,2,H,1,0,H
+ENG,20/08/2012,20:00,Everton FC,Manchester United,1,0,H,0,0,D
+ENG,25/08/2012,12:45,Swansea City,West Ham United,3,0,H,2,0,H
+ENG,25/08/2012,15:00,Aston Villa,Everton FC,1,3,A,0,3,A
+ENG,25/08/2012,15:00,Manchester United,Fulham FC,3,2,H,3,1,H
+ENG,25/08/2012,15:00,Norwich City,Queens Park Rangers,1,1,D,1,1,D
+ENG,25/08/2012,15:00,Southampton FC,Wigan Athletic,0,2,A,0,0,D
+ENG,25/08/2012,15:00,Tottenham Hotspur,West Bromwich Albion,1,1,D,0,0,D
+ENG,25/08/2012,17:30,Chelsea FC,Newcastle United,2,0,H,2,0,H
+ENG,26/08/2012,13:30,Stoke City,Arsenal FC,0,0,D,0,0,D
+ENG,26/08/2012,16:00,Liverpool FC,Manchester City,2,2,D,1,0,H
+ENG,11/12/2012,19:45,Sunderland AFC,Reading FC,3,0,H,2,0,H
+ENG,22/08/2012,19:45,Chelsea FC,Reading FC,4,2,H,1,2,A
+ENG,01/09/2012,12:45,West Ham United,Fulham FC,3,0,H,3,0,H
+ENG,01/09/2012,15:00,Swansea City,Sunderland AFC,2,2,D,1,2,A
+ENG,01/09/2012,15:00,Tottenham Hotspur,Norwich City,1,1,D,0,0,D
+ENG,01/09/2012,15:00,West Bromwich Albion,Everton FC,2,0,H,0,0,D
+ENG,01/09/2012,15:00,Wigan Athletic,Stoke City,2,2,D,1,1,D
+ENG,01/09/2012,17:30,Manchester City,Queens Park Rangers,3,1,H,1,0,H
+ENG,02/09/2012,13:30,Liverpool FC,Arsenal FC,0,2,A,0,1,A
+ENG,02/09/2012,16:00,Newcastle United,Aston Villa,1,1,D,0,1,A
+ENG,02/09/2012,16:00,Southampton FC,Manchester United,2,3,A,1,1,D
+ENG,15/09/2012,12:45,Norwich City,West Ham United,0,0,D,0,0,D
+ENG,15/09/2012,15:00,Arsenal FC,Southampton FC,6,1,H,4,1,H
+ENG,15/09/2012,15:00,Aston Villa,Swansea City,2,0,H,1,0,H
+ENG,15/09/2012,15:00,Fulham FC,West Bromwich Albion,3,0,H,2,0,H
+ENG,15/09/2012,15:00,Manchester United,Wigan Athletic,4,0,H,0,0,D
+ENG,15/09/2012,15:00,Queens Park Rangers,Chelsea FC,0,0,D,0,0,D
+ENG,15/09/2012,15:00,Stoke City,Manchester City,1,1,D,1,1,D
+ENG,15/09/2012,17:30,Sunderland AFC,Liverpool FC,1,1,D,1,0,H
+ENG,16/09/2012,16:00,Reading FC,Tottenham Hotspur,1,3,A,0,1,A
+ENG,17/09/2012,20:00,Everton FC,Newcastle United,2,2,D,1,0,H
+ENG,22/09/2012,12:45,Swansea City,Everton FC,0,3,A,0,2,A
+ENG,22/09/2012,15:00,Chelsea FC,Stoke City,1,0,H,0,0,D
+ENG,22/09/2012,15:00,Southampton FC,Aston Villa,4,1,H,0,1,A
+ENG,22/09/2012,15:00,West Bromwich Albion,Reading FC,1,0,H,0,0,D
+ENG,22/09/2012,15:00,West Ham United,Sunderland AFC,1,1,D,0,1,A
+ENG,22/09/2012,15:00,Wigan Athletic,Fulham FC,1,2,A,0,1,A
+ENG,23/09/2012,13:30,Liverpool FC,Manchester United,1,2,A,0,0,D
+ENG,23/09/2012,15:00,Newcastle United,Norwich City,1,0,H,1,0,H
+ENG,23/09/2012,16:00,Manchester City,Arsenal FC,1,1,D,1,0,H
+ENG,23/09/2012,16:00,Tottenham Hotspur,Queens Park Rangers,2,1,H,0,1,A
+ENG,29/09/2012,12:45,Arsenal FC,Chelsea FC,1,2,A,1,1,D
+ENG,29/09/2012,15:00,Everton FC,Southampton FC,3,1,H,3,1,H
+ENG,29/09/2012,15:00,Fulham FC,Manchester City,1,2,A,1,1,D
+ENG,29/09/2012,15:00,Norwich City,Liverpool FC,2,5,A,0,2,A
+ENG,29/09/2012,15:00,Reading FC,Newcastle United,2,2,D,0,0,D
+ENG,29/09/2012,15:00,Stoke City,Swansea City,2,0,H,2,0,H
+ENG,29/09/2012,15:00,Sunderland AFC,Wigan Athletic,1,0,H,0,0,D
+ENG,29/09/2012,17:30,Manchester United,Tottenham Hotspur,2,3,A,0,2,A
+ENG,30/09/2012,16:00,Aston Villa,West Bromwich Albion,1,1,D,0,0,D
+ENG,01/10/2012,20:00,Queens Park Rangers,West Ham United,1,2,A,0,2,A
+ENG,06/10/2012,12:45,Manchester City,Sunderland AFC,3,0,H,1,0,H
+ENG,06/10/2012,15:00,Chelsea FC,Norwich City,4,1,H,3,1,H
+ENG,06/10/2012,15:00,Swansea City,Reading FC,2,2,D,0,2,A
+ENG,06/10/2012,15:00,West Bromwich Albion,Queens Park Rangers,3,2,H,2,1,H
+ENG,06/10/2012,15:00,Wigan Athletic,Everton FC,2,2,D,2,1,H
+ENG,06/10/2012,17:30,West Ham United,Arsenal FC,1,3,A,1,1,D
+ENG,07/10/2012,13:30,Southampton FC,Fulham FC,2,2,D,1,0,H
+ENG,07/10/2012,15:00,Liverpool FC,Stoke City,0,0,D,0,0,D
+ENG,07/10/2012,15:00,Tottenham Hotspur,Aston Villa,2,0,H,0,0,D
+ENG,07/10/2012,16:00,Newcastle United,Manchester United,0,3,A,0,2,A
+ENG,20/10/2012,12:45,Tottenham Hotspur,Chelsea FC,2,4,A,0,1,A
+ENG,20/10/2012,15:00,Fulham FC,Aston Villa,1,0,H,0,0,D
+ENG,20/10/2012,15:00,Liverpool FC,Reading FC,1,0,H,1,0,H
+ENG,20/10/2012,15:00,Manchester United,Stoke City,4,2,H,2,1,H
+ENG,20/10/2012,15:00,Swansea City,Wigan Athletic,2,1,H,0,0,D
+ENG,20/10/2012,15:00,West Bromwich Albion,Manchester City,1,2,A,0,0,D
+ENG,20/10/2012,15:00,West Ham United,Southampton FC,4,1,H,0,0,D
+ENG,20/10/2012,17:30,Norwich City,Arsenal FC,1,0,H,1,0,H
+ENG,21/10/2012,13:30,Sunderland AFC,Newcastle United,1,1,D,0,1,A
+ENG,21/10/2012,16:00,Queens Park Rangers,Everton FC,1,1,D,1,1,D
+ENG,27/10/2012,12:45,Aston Villa,Norwich City,1,1,D,1,0,H
+ENG,27/10/2012,15:00,Arsenal FC,Queens Park Rangers,1,0,H,0,0,D
+ENG,27/10/2012,15:00,Reading FC,Fulham FC,3,3,D,1,0,H
+ENG,27/10/2012,15:00,Stoke City,Sunderland AFC,0,0,D,0,0,D
+ENG,27/10/2012,15:00,Wigan Athletic,West Ham United,2,1,H,1,0,H
+ENG,27/10/2012,17:30,Manchester City,Swansea City,1,0,H,0,0,D
+ENG,28/10/2012,13:30,Everton FC,Liverpool FC,2,2,D,2,2,D
+ENG,28/10/2012,15:00,Newcastle United,West Bromwich Albion,2,1,H,1,0,H
+ENG,28/10/2012,15:00,Southampton FC,Tottenham Hotspur,1,2,A,0,2,A
+ENG,28/10/2012,16:00,Chelsea FC,Manchester United,2,3,A,1,2,A
+ENG,03/11/2012,12:45,Manchester United,Arsenal FC,2,1,H,1,0,H
+ENG,03/11/2012,15:00,Fulham FC,Everton FC,2,2,D,1,0,H
+ENG,03/11/2012,15:00,Norwich City,Stoke City,1,0,H,1,0,H
+ENG,03/11/2012,15:00,Sunderland AFC,Aston Villa,0,1,A,0,0,D
+ENG,03/11/2012,15:00,Swansea City,Chelsea FC,1,1,D,0,0,D
+ENG,03/11/2012,15:00,Tottenham Hotspur,Wigan Athletic,0,1,A,0,0,D
+ENG,03/11/2012,17:30,West Ham United,Manchester City,0,0,D,0,0,D
+ENG,04/11/2012,13:30,Queens Park Rangers,Reading FC,1,1,D,0,1,A
+ENG,04/11/2012,16:00,Liverpool FC,Newcastle United,1,1,D,0,1,A
+ENG,05/11/2012,20:00,West Bromwich Albion,Southampton FC,2,0,H,1,0,H
+ENG,10/11/2012,15:00,Arsenal FC,Fulham FC,3,3,D,2,2,D
+ENG,10/11/2012,15:00,Everton FC,Sunderland AFC,2,1,H,0,1,A
+ENG,10/11/2012,15:00,Reading FC,Norwich City,0,0,D,0,0,D
+ENG,10/11/2012,15:00,Southampton FC,Swansea City,1,1,D,0,0,D
+ENG,10/11/2012,15:00,Stoke City,Queens Park Rangers,1,0,H,0,0,D
+ENG,10/11/2012,15:00,Wigan Athletic,West Bromwich Albion,1,2,A,1,2,A
+ENG,10/11/2012,17:30,Aston Villa,Manchester United,2,3,A,1,0,H
+ENG,11/11/2012,13:30,Manchester City,Tottenham Hotspur,2,1,H,0,1,A
+ENG,11/11/2012,15:00,Newcastle United,West Ham United,0,1,A,0,1,A
+ENG,11/11/2012,16:00,Chelsea FC,Liverpool FC,1,1,D,1,0,H
+ENG,17/11/2012,12:45,Arsenal FC,Tottenham Hotspur,5,2,H,3,1,H
+ENG,17/11/2012,15:00,Liverpool FC,Wigan Athletic,3,0,H,0,0,D
+ENG,17/11/2012,15:00,Manchester City,Aston Villa,5,0,H,1,0,H
+ENG,17/11/2012,15:00,Newcastle United,Swansea City,1,2,A,0,0,D
+ENG,17/11/2012,15:00,Queens Park Rangers,Southampton FC,1,3,A,0,2,A
+ENG,17/11/2012,15:00,Reading FC,Everton FC,2,1,H,0,1,A
+ENG,17/11/2012,15:00,West Bromwich Albion,Chelsea FC,2,1,H,1,1,D
+ENG,17/11/2012,17:30,Norwich City,Manchester United,1,0,H,0,0,D
+ENG,18/11/2012,16:00,Fulham FC,Sunderland AFC,1,3,A,0,0,D
+ENG,19/11/2012,20:00,West Ham United,Stoke City,1,1,D,0,1,A
+ENG,24/11/2012,12:45,Sunderland AFC,West Bromwich Albion,2,4,A,0,2,A
+ENG,24/11/2012,15:00,Everton FC,Norwich City,1,1,D,1,0,H
+ENG,24/11/2012,15:00,Manchester United,Queens Park Rangers,3,1,H,0,0,D
+ENG,24/11/2012,15:00,Stoke City,Fulham FC,1,0,H,1,0,H
+ENG,24/11/2012,15:00,Wigan Athletic,Reading FC,3,2,H,0,1,A
+ENG,24/11/2012,17:30,Aston Villa,Arsenal FC,0,0,D,0,0,D
+ENG,25/11/2012,13:30,Swansea City,Liverpool FC,0,0,D,0,0,D
+ENG,25/11/2012,15:00,Southampton FC,Newcastle United,2,0,H,1,0,H
+ENG,25/11/2012,16:00,Chelsea FC,Manchester City,0,0,D,0,0,D
+ENG,25/11/2012,16:00,Tottenham Hotspur,West Ham United,3,1,H,1,0,H
+ENG,27/11/2012,19:45,Sunderland AFC,Queens Park Rangers,0,0,D,0,0,D
+ENG,27/11/2012,20:00,Aston Villa,Reading FC,1,0,H,0,0,D
+ENG,28/11/2012,19:45,Southampton FC,Norwich City,1,1,D,1,1,D
+ENG,28/11/2012,19:45,Stoke City,Newcastle United,2,1,H,0,0,D
+ENG,28/11/2012,19:45,Swansea City,West Bromwich Albion,3,1,H,3,1,H
+ENG,28/11/2012,19:45,Tottenham Hotspur,Liverpool FC,2,1,H,2,0,H
+ENG,28/11/2012,19:45,Chelsea FC,Fulham FC,0,0,D,0,0,D
+ENG,28/11/2012,19:45,Everton FC,Arsenal FC,1,1,D,1,1,D
+ENG,28/11/2012,20:00,Manchester United,West Ham United,1,0,H,1,0,H
+ENG,28/11/2012,20:00,Wigan Athletic,Manchester City,0,2,A,0,0,D
+ENG,01/12/2012,12:45,West Ham United,Chelsea FC,3,1,H,0,1,A
+ENG,01/12/2012,15:00,Arsenal FC,Swansea City,0,2,A,0,0,D
+ENG,01/12/2012,15:00,Fulham FC,Tottenham Hotspur,0,3,A,0,0,D
+ENG,01/12/2012,15:00,Liverpool FC,Southampton FC,1,0,H,1,0,H
+ENG,01/12/2012,15:00,Manchester City,Everton FC,1,1,D,1,1,D
+ENG,01/12/2012,15:00,Queens Park Rangers,Aston Villa,1,1,D,1,1,D
+ENG,01/12/2012,15:00,West Bromwich Albion,Stoke City,0,1,A,0,0,D
+ENG,01/12/2012,17:30,Reading FC,Manchester United,3,4,A,3,4,A
+ENG,02/12/2012,16:00,Norwich City,Sunderland AFC,2,1,H,2,1,H
+ENG,03/12/2012,20:00,Newcastle United,Wigan Athletic,3,0,H,2,0,H
+ENG,08/12/2012,15:00,Arsenal FC,West Bromwich Albion,2,0,H,1,0,H
+ENG,08/12/2012,15:00,Aston Villa,Stoke City,0,0,D,0,0,D
+ENG,08/12/2012,15:00,Southampton FC,Reading FC,1,0,H,0,0,D
+ENG,08/12/2012,15:00,Sunderland AFC,Chelsea FC,1,3,A,0,2,A
+ENG,08/12/2012,15:00,Swansea City,Norwich City,3,4,A,0,3,A
+ENG,08/12/2012,15:00,Wigan Athletic,Queens Park Rangers,2,2,D,1,1,D
+ENG,09/12/2012,13:30,Manchester City,Manchester United,2,3,A,0,2,A
+ENG,09/12/2012,15:00,Everton FC,Tottenham Hotspur,2,1,H,0,0,D
+ENG,09/12/2012,16:00,West Ham United,Liverpool FC,2,3,A,2,1,H
+ENG,10/12/2012,20:00,Fulham FC,Newcastle United,2,1,H,1,0,H
+ENG,15/12/2012,12:45,Newcastle United,Manchester City,1,3,A,0,2,A
+ENG,15/12/2012,15:00,Liverpool FC,Aston Villa,1,3,A,0,2,A
+ENG,15/12/2012,15:00,Manchester United,Sunderland AFC,3,1,H,2,0,H
+ENG,15/12/2012,15:00,Norwich City,Wigan Athletic,2,1,H,1,0,H
+ENG,15/12/2012,15:00,Queens Park Rangers,Fulham FC,2,1,H,0,0,D
+ENG,15/12/2012,15:00,Stoke City,Everton FC,1,1,D,0,1,A
+ENG,16/12/2012,13:30,Tottenham Hotspur,Swansea City,1,0,H,0,0,D
+ENG,16/12/2012,16:00,West Bromwich Albion,West Ham United,0,0,D,0,0,D
+ENG,17/12/2012,20:00,Reading FC,Arsenal FC,2,5,A,0,3,A
+ENG,16/01/2013,19:45,Chelsea FC,Southampton FC,2,2,D,2,0,H
+ENG,22/12/2012,12:45,Wigan Athletic,Arsenal FC,0,1,A,0,0,D
+ENG,22/12/2012,15:00,Manchester City,Reading FC,1,0,H,0,0,D
+ENG,22/12/2012,15:00,Newcastle United,Queens Park Rangers,1,0,H,0,0,D
+ENG,22/12/2012,15:00,Southampton FC,Sunderland AFC,0,1,A,0,1,A
+ENG,22/12/2012,15:00,Tottenham Hotspur,Stoke City,0,0,D,0,0,D
+ENG,22/12/2012,15:00,West Bromwich Albion,Norwich City,2,1,H,1,1,D
+ENG,22/12/2012,15:00,West Ham United,Everton FC,1,2,A,1,0,H
+ENG,22/12/2012,17:30,Liverpool FC,Fulham FC,4,0,H,2,0,H
+ENG,23/12/2012,13:30,Swansea City,Manchester United,1,1,D,1,1,D
+ENG,23/12/2012,16:00,Chelsea FC,Aston Villa,8,0,H,3,0,H
+ENG,26/12/2012,15:00,Everton FC,Wigan Athletic,2,1,H,0,0,D
+ENG,26/12/2012,15:00,Fulham FC,Southampton FC,1,1,D,1,0,H
+ENG,26/12/2012,15:00,Manchester United,Newcastle United,4,3,H,1,2,A
+ENG,26/12/2012,15:00,Norwich City,Chelsea FC,0,1,A,0,1,A
+ENG,26/12/2012,15:00,Queens Park Rangers,West Bromwich Albion,1,2,A,0,1,A
+ENG,26/12/2012,15:00,Reading FC,Swansea City,0,0,D,0,0,D
+ENG,26/12/2012,15:00,Sunderland AFC,Manchester City,1,0,H,0,0,D
+ENG,26/12/2012,17:30,Aston Villa,Tottenham Hotspur,0,4,A,0,0,D
+ENG,26/12/2012,19:45,Stoke City,Liverpool FC,3,1,H,2,1,H
+ENG,23/01/2013,19:45,Arsenal FC,West Ham United,5,1,H,1,1,D
+ENG,29/12/2012,12:45,Sunderland AFC,Tottenham Hotspur,1,2,A,1,0,H
+ENG,29/12/2012,15:00,Aston Villa,Wigan Athletic,0,3,A,0,1,A
+ENG,29/12/2012,15:00,Fulham FC,Swansea City,1,2,A,0,1,A
+ENG,29/12/2012,15:00,Manchester United,West Bromwich Albion,2,0,H,1,0,H
+ENG,29/12/2012,15:00,Norwich City,Manchester City,3,4,A,1,2,A
+ENG,29/12/2012,15:00,Reading FC,West Ham United,1,0,H,1,0,H
+ENG,29/12/2012,15:00,Stoke City,Southampton FC,3,3,D,1,3,A
+ENG,29/12/2012,17:30,Arsenal FC,Newcastle United,7,3,H,1,1,D
+ENG,30/12/2012,13:30,Everton FC,Chelsea FC,1,2,A,1,1,D
+ENG,30/12/2012,16:00,Queens Park Rangers,Liverpool FC,0,3,A,0,3,A
+ENG,01/01/2013,12:45,West Bromwich Albion,Fulham FC,1,2,A,0,1,A
+ENG,01/01/2013,15:00,Manchester City,Stoke City,3,0,H,1,0,H
+ENG,01/01/2013,15:00,Swansea City,Aston Villa,2,2,D,1,1,D
+ENG,01/01/2013,15:00,Tottenham Hotspur,Reading FC,3,1,H,1,1,D
+ENG,01/01/2013,15:00,West Ham United,Norwich City,2,1,H,2,0,H
+ENG,01/01/2013,15:00,Wigan Athletic,Manchester United,0,4,A,0,2,A
+ENG,01/01/2013,17:30,Southampton FC,Arsenal FC,1,1,D,1,1,D
+ENG,02/01/2013,19:45,Chelsea FC,Queens Park Rangers,0,1,A,0,0,D
+ENG,02/01/2013,19:45,Liverpool FC,Sunderland AFC,3,0,H,2,0,H
+ENG,02/01/2013,20:00,Newcastle United,Everton FC,1,2,A,1,1,D
+ENG,12/01/2013,12:45,Queens Park Rangers,Tottenham Hotspur,0,0,D,0,0,D
+ENG,12/01/2013,15:00,Aston Villa,Southampton FC,0,1,A,0,1,A
+ENG,12/01/2013,15:00,Everton FC,Swansea City,0,0,D,0,0,D
+ENG,12/01/2013,15:00,Fulham FC,Wigan Athletic,1,1,D,1,0,H
+ENG,12/01/2013,15:00,Norwich City,Newcastle United,0,0,D,0,0,D
+ENG,12/01/2013,15:00,Reading FC,West Bromwich Albion,3,2,H,0,1,A
+ENG,12/01/2013,15:00,Stoke City,Chelsea FC,0,4,A,0,1,A
+ENG,12/01/2013,15:00,Sunderland AFC,West Ham United,3,0,H,1,0,H
+ENG,13/01/2013,13:30,Manchester United,Liverpool FC,2,1,H,1,0,H
+ENG,13/01/2013,16:00,Arsenal FC,Manchester City,0,2,A,0,2,A
+ENG,19/01/2013,15:00,Liverpool FC,Norwich City,5,0,H,2,0,H
+ENG,19/01/2013,15:00,Manchester City,Fulham FC,2,0,H,1,0,H
+ENG,19/01/2013,15:00,Newcastle United,Reading FC,1,2,A,1,0,H
+ENG,19/01/2013,15:00,Swansea City,Stoke City,3,1,H,0,0,D
+ENG,19/01/2013,15:00,West Ham United,Queens Park Rangers,1,1,D,0,1,A
+ENG,19/01/2013,15:00,Wigan Athletic,Sunderland AFC,2,3,A,1,3,A
+ENG,19/01/2013,17:30,West Bromwich Albion,Aston Villa,2,2,D,0,2,A
+ENG,20/01/2013,13:30,Chelsea FC,Arsenal FC,2,1,H,2,0,H
+ENG,20/01/2013,16:00,Tottenham Hotspur,Manchester United,1,1,D,0,1,A
+ENG,21/01/2013,20:00,Southampton FC,Everton FC,0,0,D,0,0,D
+ENG,29/01/2013,19:45,Aston Villa,Newcastle United,1,2,A,0,2,A
+ENG,29/01/2013,19:45,Queens Park Rangers,Manchester City,0,0,D,0,0,D
+ENG,29/01/2013,19:45,Stoke City,Wigan Athletic,2,2,D,1,0,H
+ENG,29/01/2013,19:45,Sunderland AFC,Swansea City,0,0,D,0,0,D
+ENG,30/01/2013,19:45,Arsenal FC,Liverpool FC,2,2,D,0,1,A
+ENG,30/01/2013,19:45,Norwich City,Tottenham Hotspur,1,1,D,1,0,H
+ENG,30/01/2013,19:45,Everton FC,West Bromwich Albion,2,1,H,2,0,H
+ENG,30/01/2013,20:00,Manchester United,Southampton FC,2,1,H,2,1,H
+ENG,30/01/2013,20:00,Reading FC,Chelsea FC,2,2,D,0,1,A
+ENG,30/01/2013,20:00,Fulham FC,West Ham United,3,1,H,1,0,H
+ENG,02/02/2013,12:45,Queens Park Rangers,Norwich City,0,0,D,0,0,D
+ENG,02/02/2013,15:00,Arsenal FC,Stoke City,1,0,H,0,0,D
+ENG,02/02/2013,15:00,Everton FC,Aston Villa,3,3,D,1,2,A
+ENG,02/02/2013,15:00,Newcastle United,Chelsea FC,3,2,H,1,0,H
+ENG,02/02/2013,15:00,Reading FC,Sunderland AFC,2,1,H,1,1,D
+ENG,02/02/2013,15:00,West Ham United,Swansea City,1,0,H,0,0,D
+ENG,02/02/2013,15:00,Wigan Athletic,Southampton FC,2,2,D,1,0,H
+ENG,02/02/2013,17:30,Fulham FC,Manchester United,0,1,A,0,0,D
+ENG,03/02/2013,13:30,West Bromwich Albion,Tottenham Hotspur,0,1,A,0,0,D
+ENG,03/02/2013,16:00,Manchester City,Liverpool FC,2,2,D,1,1,D
+ENG,09/02/2013,12:45,Tottenham Hotspur,Newcastle United,2,1,H,1,1,D
+ENG,09/02/2013,15:00,Chelsea FC,Wigan Athletic,4,1,H,1,0,H
+ENG,09/02/2013,15:00,Norwich City,Fulham FC,0,0,D,0,0,D
+ENG,09/02/2013,15:00,Stoke City,Reading FC,2,1,H,0,0,D
+ENG,09/02/2013,15:00,Sunderland AFC,Arsenal FC,0,1,A,0,1,A
+ENG,09/02/2013,15:00,Swansea City,Queens Park Rangers,4,1,H,2,0,H
+ENG,09/02/2013,17:30,Southampton FC,Manchester City,3,1,H,2,1,H
+ENG,10/02/2013,13:30,Aston Villa,West Ham United,2,1,H,0,0,D
+ENG,10/02/2013,16:00,Manchester United,Everton FC,2,0,H,2,0,H
+ENG,11/02/2013,20:00,Liverpool FC,West Bromwich Albion,0,2,A,0,0,D
+ENG,17/02/2013,15:00,Liverpool FC,Swansea City,5,0,H,1,0,H
+ENG,23/02/2013,12:45,Fulham FC,Stoke City,1,0,H,1,0,H
+ENG,23/02/2013,15:00,Arsenal FC,Aston Villa,2,1,H,1,0,H
+ENG,23/02/2013,15:00,Norwich City,Everton FC,2,1,H,0,1,A
+ENG,23/02/2013,15:00,Queens Park Rangers,Manchester United,0,2,A,0,1,A
+ENG,23/02/2013,15:00,Reading FC,Wigan Athletic,0,3,A,0,2,A
+ENG,23/02/2013,15:00,West Bromwich Albion,Sunderland AFC,2,1,H,1,0,H
+ENG,24/02/2013,13:30,Manchester City,Chelsea FC,2,0,H,0,0,D
+ENG,24/02/2013,13:30,Newcastle United,Southampton FC,4,2,H,2,1,H
+ENG,25/02/2013,20:00,West Ham United,Tottenham Hotspur,2,3,A,1,1,D
+ENG,02/03/2013,15:00,Chelsea FC,West Bromwich Albion,1,0,H,1,0,H
+ENG,02/03/2013,15:00,Everton FC,Reading FC,3,1,H,1,0,H
+ENG,02/03/2013,15:00,Manchester United,Norwich City,4,0,H,1,0,H
+ENG,02/03/2013,15:00,Southampton FC,Queens Park Rangers,1,2,A,1,1,D
+ENG,02/03/2013,15:00,Stoke City,West Ham United,0,1,A,0,1,A
+ENG,02/03/2013,15:00,Sunderland AFC,Fulham FC,2,2,D,1,2,A
+ENG,02/03/2013,15:00,Swansea City,Newcastle United,1,0,H,0,0,D
+ENG,02/03/2013,17:30,Wigan Athletic,Liverpool FC,0,4,A,0,3,A
+ENG,03/03/2013,16:00,Tottenham Hotspur,Arsenal FC,2,1,H,2,0,H
+ENG,04/03/2013,20:00,Aston Villa,Manchester City,0,1,A,0,1,A
+ENG,09/03/2013,15:00,Norwich City,Southampton FC,0,0,D,0,0,D
+ENG,09/03/2013,15:00,Queens Park Rangers,Sunderland AFC,3,1,H,1,1,D
+ENG,09/03/2013,15:00,Reading FC,Aston Villa,1,2,A,1,2,A
+ENG,09/03/2013,15:00,West Bromwich Albion,Swansea City,2,1,H,1,1,D
+ENG,10/03/2013,15:00,Newcastle United,Stoke City,2,1,H,0,0,D
+ENG,10/03/2013,16:00,Liverpool FC,Tottenham Hotspur,3,2,H,1,1,D
+ENG,16/04/2013,19:45,Arsenal FC,Everton FC,0,0,D,0,0,D
+ENG,17/04/2013,19:45,Manchester City,Wigan Athletic,1,0,H,0,0,D
+ENG,17/04/2013,19:45,West Ham United,Manchester United,2,2,D,1,1,D
+ENG,17/04/2013,20:00,Fulham FC,Chelsea FC,0,3,A,0,2,A
+ENG,16/03/2013,12:45,Everton FC,Manchester City,2,0,H,1,0,H
+ENG,16/03/2013,15:00,Aston Villa,Queens Park Rangers,3,2,H,1,1,D
+ENG,16/03/2013,15:00,Southampton FC,Liverpool FC,3,1,H,2,1,H
+ENG,16/03/2013,15:00,Stoke City,West Bromwich Albion,0,0,D,0,0,D
+ENG,16/03/2013,15:00,Swansea City,Arsenal FC,0,2,A,0,0,D
+ENG,16/03/2013,17:30,Manchester United,Reading FC,1,0,H,1,0,H
+ENG,17/03/2013,13:30,Sunderland AFC,Norwich City,1,1,D,1,1,D
+ENG,17/03/2013,15:00,Tottenham Hotspur,Fulham FC,0,1,A,0,0,D
+ENG,17/03/2013,16:00,Chelsea FC,West Ham United,2,0,H,1,0,H
+ENG,17/03/2013,16:00,Wigan Athletic,Newcastle United,2,1,H,1,0,H
+ENG,30/03/2013,12:45,Sunderland AFC,Manchester United,0,1,A,0,1,A
+ENG,30/03/2013,15:00,Arsenal FC,Reading FC,4,1,H,1,0,H
+ENG,30/03/2013,15:00,Manchester City,Newcastle United,4,0,H,2,0,H
+ENG,30/03/2013,15:00,Southampton FC,Chelsea FC,2,1,H,2,1,H
+ENG,30/03/2013,15:00,Swansea City,Tottenham Hotspur,1,2,A,0,2,A
+ENG,30/03/2013,15:00,West Ham United,West Bromwich Albion,3,1,H,2,0,H
+ENG,30/03/2013,15:00,Wigan Athletic,Norwich City,1,0,H,0,0,D
+ENG,30/03/2013,17:30,Everton FC,Stoke City,1,0,H,1,0,H
+ENG,31/03/2013,13:30,Aston Villa,Liverpool FC,1,2,A,1,0,H
+ENG,01/04/2013,20:00,Fulham FC,Queens Park Rangers,3,2,H,3,1,H
+ENG,06/04/2013,12:45,Reading FC,Southampton FC,0,2,A,0,1,A
+ENG,06/04/2013,15:00,Norwich City,Swansea City,2,2,D,1,1,D
+ENG,06/04/2013,15:00,Stoke City,Aston Villa,1,3,A,0,1,A
+ENG,06/04/2013,15:00,West Bromwich Albion,Arsenal FC,1,2,A,0,1,A
+ENG,07/04/2013,13:30,Liverpool FC,West Ham United,0,0,D,0,0,D
+ENG,07/04/2013,14:05,Tottenham Hotspur,Everton FC,2,2,D,1,1,D
+ENG,07/04/2013,15:00,Chelsea FC,Sunderland AFC,2,1,H,0,1,A
+ENG,07/04/2013,15:00,Newcastle United,Fulham FC,1,0,H,0,0,D
+ENG,07/04/2013,16:10,Queens Park Rangers,Wigan Athletic,1,1,D,0,0,D
+ENG,08/04/2013,20:00,Manchester United,Manchester City,1,2,A,0,0,D
+ENG,13/04/2013,15:00,Arsenal FC,Norwich City,3,1,H,0,0,D
+ENG,13/04/2013,15:00,Aston Villa,Fulham FC,1,1,D,0,0,D
+ENG,13/04/2013,15:00,Everton FC,Queens Park Rangers,2,0,H,1,0,H
+ENG,13/04/2013,15:00,Reading FC,Liverpool FC,0,0,D,0,0,D
+ENG,13/04/2013,15:00,Southampton FC,West Ham United,1,1,D,0,0,D
+ENG,14/04/2013,12:00,Newcastle United,Sunderland AFC,0,3,A,0,1,A
+ENG,14/04/2013,14:05,Stoke City,Manchester United,0,2,A,0,1,A
+ENG,07/05/2013,19:45,Manchester City,West Bromwich Albion,1,0,H,1,0,H
+ENG,07/05/2013,19:45,Wigan Athletic,Swansea City,2,3,A,1,0,H
+ENG,08/05/2013,19:45,Chelsea FC,Tottenham Hotspur,2,2,D,2,1,H
+ENG,20/04/2013,15:00,Fulham FC,Arsenal FC,0,1,A,0,1,A
+ENG,20/04/2013,15:00,Norwich City,Reading FC,2,1,H,0,0,D
+ENG,20/04/2013,15:00,Queens Park Rangers,Stoke City,0,2,A,0,1,A
+ENG,20/04/2013,15:00,Sunderland AFC,Everton FC,1,0,H,1,0,H
+ENG,20/04/2013,15:00,Swansea City,Southampton FC,0,0,D,0,0,D
+ENG,20/04/2013,15:00,West Bromwich Albion,Newcastle United,1,1,D,0,1,A
+ENG,20/04/2013,15:00,West Ham United,Wigan Athletic,2,0,H,1,0,H
+ENG,21/04/2013,13:30,Tottenham Hotspur,Manchester City,3,1,H,0,1,A
+ENG,21/04/2013,16:00,Liverpool FC,Chelsea FC,2,2,D,0,1,A
+ENG,22/04/2013,20:00,Manchester United,Aston Villa,3,0,H,3,0,H
+ENG,27/04/2013,12:45,Manchester City,West Ham United,2,1,H,1,0,H
+ENG,27/04/2013,15:00,Everton FC,Fulham FC,1,0,H,1,0,H
+ENG,27/04/2013,15:00,Southampton FC,West Bromwich Albion,0,3,A,0,1,A
+ENG,27/04/2013,15:00,Stoke City,Norwich City,1,0,H,0,0,D
+ENG,27/04/2013,15:00,Wigan Athletic,Tottenham Hotspur,2,2,D,1,1,D
+ENG,27/04/2013,17:30,Newcastle United,Liverpool FC,0,6,A,0,2,A
+ENG,28/04/2013,13:30,Reading FC,Queens Park Rangers,0,0,D,0,0,D
+ENG,28/04/2013,15:00,Chelsea FC,Swansea City,2,0,H,2,0,H
+ENG,28/04/2013,16:00,Arsenal FC,Manchester United,1,1,D,1,1,D
+ENG,29/04/2013,20:00,Aston Villa,Sunderland AFC,6,1,H,2,1,H
+ENG,04/05/2013,15:00,Fulham FC,Reading FC,2,4,A,0,1,A
+ENG,04/05/2013,15:00,Norwich City,Aston Villa,1,2,A,0,0,D
+ENG,04/05/2013,15:00,Swansea City,Manchester City,0,0,D,0,0,D
+ENG,04/05/2013,15:00,West Bromwich Albion,Wigan Athletic,2,3,A,1,1,D
+ENG,04/05/2013,15:00,West Ham United,Newcastle United,0,0,D,0,0,D
+ENG,04/05/2013,15:30,Tottenham Hotspur,Southampton FC,1,0,H,0,0,D
+ENG,04/05/2013,17:30,Queens Park Rangers,Arsenal FC,0,1,A,0,1,A
+ENG,05/05/2013,13:30,Liverpool FC,Everton FC,0,0,D,0,0,D
+ENG,05/05/2013,16:00,Manchester United,Chelsea FC,0,1,A,0,0,D
+ENG,06/05/2013,20:00,Sunderland AFC,Stoke City,1,1,D,0,1,A
+ENG,11/05/2013,12:45,Aston Villa,Chelsea FC,1,2,A,1,0,H
+ENG,12/05/2013,13:30,Stoke City,Tottenham Hotspur,1,2,A,1,1,D
+ENG,12/05/2013,15:00,Everton FC,West Ham United,2,0,H,1,0,H
+ENG,12/05/2013,15:00,Fulham FC,Liverpool FC,1,3,A,1,1,D
+ENG,12/05/2013,15:00,Norwich City,West Bromwich Albion,4,0,H,1,0,H
+ENG,12/05/2013,15:00,Queens Park Rangers,Newcastle United,1,2,A,1,2,A
+ENG,12/05/2013,15:00,Sunderland AFC,Southampton FC,1,1,D,0,0,D
+ENG,12/05/2013,16:00,Manchester United,Swansea City,2,1,H,1,0,H
+ENG,14/05/2013,19:45,Arsenal FC,Wigan Athletic,4,1,H,1,1,D
+ENG,14/05/2013,20:00,Reading FC,Manchester City,0,2,A,0,1,A
+ENG,19/05/2013,16:00,Chelsea FC,Everton FC,2,1,H,1,1,D
+ENG,19/05/2013,16:00,Liverpool FC,Queens Park Rangers,1,0,H,1,0,H
+ENG,19/05/2013,16:00,Manchester City,Norwich City,2,3,A,1,1,D
+ENG,19/05/2013,16:00,Newcastle United,Arsenal FC,0,1,A,0,0,D
+ENG,19/05/2013,16:00,Southampton FC,Stoke City,1,1,D,0,0,D
+ENG,19/05/2013,16:00,Swansea City,Fulham FC,0,3,A,0,1,A
+ENG,19/05/2013,16:00,Tottenham Hotspur,Sunderland AFC,1,0,H,0,0,D
+ENG,19/05/2013,16:00,West Bromwich Albion,Manchester United,5,5,D,1,3,A
+ENG,19/05/2013,16:00,West Ham United,Reading FC,4,2,H,2,0,H
+ENG,19/05/2013,16:00,Wigan Athletic,Aston Villa,2,2,D,2,1,H

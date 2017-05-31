@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KSA,23/08/2013,18:40,Al Fateh,Al Taawoun,1,1,D,0,1,A
+KSA,23/08/2013,18:40,Al Nassr,Najran SC,2,0,H,0,0,D
+KSA,23/08/2013,18:40,Al Nahda,Al Shoalah,2,2,D,1,1,D
+KSA,24/08/2013,18:40,Al Hilal,Al Orobah,3,0,H,0,0,D
+KSA,24/08/2013,18:40,Al Raed,Al Ettifaq,2,1,H,2,0,H
+KSA,25/08/2013,18:40,Al Faysali,Al Ahli SFC,1,3,A,0,1,A
+KSA,26/08/2013,18:40,Al Shabab,Al Ittihad,1,4,A,1,0,H
+KSA,30/08/2013,18:35,Al Ettifaq,Al Hilal,1,3,A,1,2,A
+KSA,30/08/2013,18:35,Al Fateh,Al Nahda,4,0,H,2,0,H
+KSA,30/08/2013,18:35,Al Taawoun,Al Faysali,1,1,D,1,0,H
+KSA,30/08/2013,18:35,Najran SC,Al Raed,1,0,H,1,0,H
+KSA,31/08/2013,18:35,Al Shoalah,Al Shabab,0,1,A,0,1,A
+KSA,31/08/2013,18:35,Al Ahli SFC,Al Nassr,0,0,D,0,0,D
+KSA,31/08/2013,18:35,Al Orobah,Al Ittihad,1,0,H,0,0,D
+KSA,11/09/2013,18:25,Al Ahli SFC,Al Orobah,1,1,D,1,1,D
+KSA,12/09/2013,18:25,Al Shabab,Al Raed,5,2,H,3,0,H
+KSA,13/09/2013,18:25,Al Ittihad,Al Fateh,4,2,H,2,2,D
+KSA,13/09/2013,18:25,Al Ettifaq,Al Shoalah,1,0,H,0,0,D
+KSA,13/09/2013,18:25,Najran SC,Al Taawoun,1,2,A,0,1,A
+KSA,14/09/2013,18:25,Al Faysali,Al Hilal,1,3,A,1,1,D
+KSA,14/09/2013,18:25,Al Nassr,Al Nahda,4,1,H,1,0,H
+KSA,20/09/2013,18:15,Al Hilal,Al Ittihad,5,2,H,1,1,D
+KSA,20/09/2013,18:15,Al Raed,Al Nassr,0,3,A,0,2,A
+KSA,21/09/2013,18:15,Al Taawoun,Al Ettifaq,2,2,D,0,1,A
+KSA,21/09/2013,18:15,Al Shoalah,Najran SC,1,2,A,0,1,A
+KSA,21/09/2013,18:15,Al Orobah,Al Faysali,1,2,A,0,0,D
+KSA,23/09/2013,18:15,Al Shabab,Al Fateh,1,1,D,1,0,H
+KSA,23/09/2013,18:15,Al Nahda,Al Ahli SFC,1,5,A,0,2,A
+KSA,26/09/2013,18:10,Al Nassr,Al Shoalah,2,0,H,2,0,H
+KSA,27/09/2013,18:10,Najran SC,Al Ettifaq,1,0,H,1,0,H
+KSA,27/09/2013,18:10,Al Ittihad,Al Taawoun,2,1,H,2,0,H
+KSA,28/09/2013,18:10,Al Faysali,Al Shabab,0,0,D,0,0,D
+KSA,28/09/2013,18:10,Al Ahli SFC,Al Hilal,1,1,D,0,0,D
+KSA,28/09/2013,18:10,Al Fateh,Al Orobah,0,0,D,0,0,D
+KSA,28/09/2013,18:10,Al Raed,Al Nahda,0,0,D,0,0,D
+KSA,04/10/2013,18:05,Al Fateh,Al Faysali,1,0,H,0,0,D
+KSA,04/10/2013,18:05,Al Ittihad,Al Ahli SFC,0,0,D,0,0,D
+KSA,04/10/2013,18:05,Al Nahda,Najran SC,2,5,A,1,2,A
+KSA,04/10/2013,18:05,Al Shoalah,Al Taawoun,1,2,A,1,0,H
+KSA,05/10/2013,18:05,Al Ettifaq,Al Shabab,0,1,A,0,0,D
+KSA,05/10/2013,18:05,Al Hilal,Al Raed,1,2,A,1,2,A
+KSA,05/10/2013,18:05,Al Orobah,Al Nassr,0,0,D,0,0,D
+KSA,25/10/2013,17:45,Al Shabab,Najran SC,5,1,H,NaN,NaN,NaN
+KSA,25/10/2013,17:45,Al Taawoun,Al Hilal,1,2,A,NaN,NaN,NaN
+KSA,25/10/2013,17:45,Al Ahli SFC,Al Shoalah,5,2,H,NaN,NaN,NaN
+KSA,25/10/2013,17:45,Al Faysali,Al Ittihad,3,0,H,NaN,NaN,NaN
+KSA,26/10/2013,17:45,Al Nassr,Al Fateh,1,0,H,NaN,NaN,NaN
+KSA,26/10/2013,17:45,Al Ettifaq,Al Nahda,2,1,H,NaN,NaN,NaN
+KSA,26/10/2013,17:45,Al Raed,Al Orobah,1,1,D,NaN,NaN,NaN
+KSA,31/10/2013,16:40,Al Ahli SFC,Al Raed,0,0,D,NaN,NaN,NaN
+KSA,01/11/2013,16:40,Al Hilal,Al Shabab,4,1,H,NaN,NaN,NaN
+KSA,01/11/2013,16:40,Al Ittihad,Al Ettifaq,1,1,D,NaN,NaN,NaN
+KSA,01/11/2013,16:40,Najran SC,Al Orobah,2,0,H,NaN,NaN,NaN
+KSA,01/11/2013,16:40,Al Nahda,Al Taawoun,0,2,A,NaN,NaN,NaN
+KSA,02/11/2013,16:40,Al Shoalah,Al Fateh,2,2,D,NaN,NaN,NaN
+KSA,02/11/2013,16:40,Al Faysali,Al Nassr,0,2,A,NaN,NaN,NaN
+KSA,06/11/2013,12:30,Al Orobah,Al Shoalah,2,2,D,NaN,NaN,NaN
+KSA,06/11/2013,16:45,Najran SC,Al Hilal,0,1,A,NaN,NaN,NaN
+KSA,06/11/2013,16:45,Al Nassr,Al Ettifaq,2,2,D,NaN,NaN,NaN
+KSA,06/11/2013,16:45,Al Raed,Al Faysali,1,0,H,NaN,NaN,NaN
+KSA,07/11/2013,16:45,Al Taawoun,Al Shabab,3,3,D,NaN,NaN,NaN
+KSA,07/11/2013,16:45,Al Fateh,Al Ahli SFC,0,3,A,NaN,NaN,NaN
+KSA,07/11/2013,16:45,Al Nahda,Al Ittihad,4,4,D,NaN,NaN,NaN
+KSA,24/11/2013,16:35,Al Shabab,Al Nahda,6,0,H,NaN,NaN,NaN
+KSA,24/11/2013,16:35,Al Fateh,Najran SC,5,2,H,NaN,NaN,NaN
+KSA,24/11/2013,16:35,Al Ettifaq,Al Orobah,0,0,D,NaN,NaN,NaN
+KSA,24/11/2013,16:35,Al Ahli SFC,Al Taawoun,1,2,A,NaN,NaN,NaN
+KSA,25/11/2013,16:35,Al Hilal,Al Nassr,1,2,A,NaN,NaN,NaN
+KSA,25/11/2013,16:35,Al Raed,Al Ittihad,1,4,A,NaN,NaN,NaN
+KSA,25/11/2013,16:35,Al Faysali,Al Shoalah,2,0,H,NaN,NaN,NaN
+KSA,28/11/2013,16:35,Al Shabab,Al Ahli SFC,1,0,H,NaN,NaN,NaN
+KSA,29/11/2013,12:25,Al Orobah,Al Nahda,1,1,D,NaN,NaN,NaN
+KSA,29/11/2013,12:30,Najran SC,Al Faysali,1,0,H,NaN,NaN,NaN
+KSA,29/11/2013,16:35,Al Ittihad,Al Nassr,0,3,A,NaN,NaN,NaN
+KSA,30/11/2013,12:15,Al Taawoun,Al Raed,2,1,H,NaN,NaN,NaN
+KSA,30/11/2013,16:35,Al Shoalah,Al Hilal,2,2,D,NaN,NaN,NaN
+KSA,30/11/2013,16:35,Al Ettifaq,Al Fateh,2,0,H,NaN,NaN,NaN
+KSA,06/12/2013,11:55,Al Fateh,Al Raed,2,2,D,NaN,NaN,NaN
+KSA,06/12/2013,12:20,Al Orobah,Al Taawoun,1,0,H,NaN,NaN,NaN
+KSA,06/12/2013,16:35,Al Hilal,Al Nahda,2,1,H,NaN,NaN,NaN
+KSA,07/12/2013,12:10,Al Ettifaq,Al Faysali,3,0,H,NaN,NaN,NaN
+KSA,07/12/2013,12:10,Al Ittihad,Al Shoalah,1,2,A,NaN,NaN,NaN
+KSA,07/12/2013,16:35,Al Ahli SFC,Najran SC,3,2,H,NaN,NaN,NaN
+KSA,07/12/2013,16:35,Al Nassr,Al Shabab,3,2,H,NaN,NaN,NaN
+KSA,13/12/2013,12:10,Al Nassr,Al Taawoun,2,1,H,NaN,NaN,NaN
+KSA,13/12/2013,12:15,Al Raed,Al Shoalah,0,1,A,NaN,NaN,NaN
+KSA,13/12/2013,12:25,Al Orobah,Al Shabab,1,1,D,NaN,NaN,NaN
+KSA,13/12/2013,16:35,Al Ettifaq,Al Ahli SFC,2,0,H,NaN,NaN,NaN
+KSA,14/12/2013,12:10,Al Hilal,Al Fateh,2,0,H,NaN,NaN,NaN
+KSA,14/12/2013,16:35,Al Ittihad,Najran SC,3,2,H,NaN,NaN,NaN
+KSA,14/12/2013,16:35,Al Nahda,Al Faysali,0,0,D,NaN,NaN,NaN
+KSA,19/12/2013,16:45,Al Ettifaq,Al Raed,0,1,A,NaN,NaN,NaN
+KSA,19/12/2013,16:45,Najran SC,Al Nassr,2,3,A,NaN,NaN,NaN
+KSA,19/12/2013,16:45,Al Ahli SFC,Al Faysali,1,1,D,NaN,NaN,NaN
+KSA,20/12/2013,12:10,Al Shoalah,Al Nahda,0,0,D,NaN,NaN,NaN
+KSA,20/12/2013,12:20,Al Taawoun,Al Fateh,1,0,H,NaN,NaN,NaN
+KSA,20/12/2013,12:25,Al Orobah,Al Hilal,2,3,A,NaN,NaN,NaN
+KSA,20/12/2013,16:45,Al Ittihad,Al Shabab,1,1,D,NaN,NaN,NaN
+KSA,27/12/2013,12:15,Al Shabab,Al Shoalah,1,3,A,NaN,NaN,NaN
+KSA,27/12/2013,12:20,Al Faysali,Al Taawoun,0,0,D,NaN,NaN,NaN
+KSA,27/12/2013,16:50,Al Nahda,Al Fateh,1,2,A,NaN,NaN,NaN
+KSA,28/12/2013,12:15,Al Hilal,Al Ettifaq,5,1,H,NaN,NaN,NaN
+KSA,28/12/2013,12:25,Al Raed,Najran SC,1,0,H,NaN,NaN,NaN
+KSA,28/12/2013,16:50,Al Ittihad,Al Orobah,0,0,D,NaN,NaN,NaN
+KSA,29/12/2013,16:50,Al Nassr,Al Ahli SFC,3,1,H,NaN,NaN,NaN
+KSA,02/01/2014,12:05,Al Fateh,Al Ittihad,1,1,D,NaN,NaN,NaN
+KSA,02/01/2014,16:55,Al Raed,Al Shabab,0,0,D,NaN,NaN,NaN
+KSA,02/01/2014,16:55,Al Hilal,Al Faysali,2,1,H,NaN,NaN,NaN
+KSA,03/01/2014,12:20,Al Shoalah,Al Ettifaq,4,0,H,NaN,NaN,NaN
+KSA,03/01/2014,12:30,Al Taawoun,Najran SC,2,0,H,NaN,NaN,NaN
+KSA,03/01/2014,12:35,Al Orobah,Al Ahli SFC,0,4,A,NaN,NaN,NaN
+KSA,03/01/2014,17:00,Al Nahda,Al Nassr,1,4,A,NaN,NaN,NaN
+KSA,09/01/2014,12:45,Najran SC,Al Shoalah,0,1,A,NaN,NaN,NaN
+KSA,09/01/2014,17:00,Al Ettifaq,Al Taawoun,3,3,D,NaN,NaN,NaN
+KSA,09/01/2014,17:00,Al Ittihad,Al Hilal,2,2,D,NaN,NaN,NaN
+KSA,10/01/2014,12:05,Al Fateh,Al Shabab,2,1,H,NaN,NaN,NaN
+KSA,10/01/2014,12:25,Al Nassr,Al Raed,3,0,H,NaN,NaN,NaN
+KSA,10/01/2014,12:30,Al Faysali,Al Orobah,1,1,D,NaN,NaN,NaN
+KSA,10/01/2014,17:00,Al Ahli SFC,Al Nahda,3,1,H,NaN,NaN,NaN
+KSA,16/01/2014,12:30,Al Shoalah,Al Nassr,0,3,A,NaN,NaN,NaN
+KSA,16/01/2014,12:40,Al Taawoun,Al Ittihad,1,1,D,NaN,NaN,NaN
+KSA,16/01/2014,17:05,Al Ettifaq,Najran SC,0,0,D,NaN,NaN,NaN
+KSA,16/01/2014,17:05,Al Hilal,Al Ahli SFC,1,0,H,NaN,NaN,NaN
+KSA,17/01/2014,12:30,Al Shabab,Al Faysali,4,3,H,NaN,NaN,NaN
+KSA,17/01/2014,12:45,Al Orobah,Al Fateh,2,1,H,NaN,NaN,NaN
+KSA,17/01/2014,17:05,Al Nahda,Al Raed,1,0,H,NaN,NaN,NaN
+KSA,24/01/2014,12:35,Al Shabab,Al Ettifaq,0,0,D,NaN,NaN,NaN
+KSA,24/01/2014,12:40,Al Faysali,Al Fateh,2,1,H,NaN,NaN,NaN
+KSA,24/01/2014,12:45,Al Taawoun,Al Shoalah,0,1,A,NaN,NaN,NaN
+KSA,24/01/2014,17:10,Al Ahli SFC,Al Ittihad,2,1,H,NaN,NaN,NaN
+KSA,25/01/2014,12:45,Al Raed,Al Hilal,0,1,A,NaN,NaN,NaN
+KSA,25/01/2014,12:50,Najran SC,Al Nahda,5,1,H,NaN,NaN,NaN
+KSA,25/01/2014,17:10,Al Nassr,Al Orobah,2,1,H,NaN,NaN,NaN
+KSA,28/01/2014,17:15,Al Fateh,Al Nassr,1,2,A,NaN,NaN,NaN
+KSA,28/01/2014,17:15,Al Hilal,Al Taawoun,1,0,H,NaN,NaN,NaN
+KSA,30/01/2014,12:40,Al Shoalah,Al Ahli SFC,1,1,D,NaN,NaN,NaN
+KSA,30/01/2014,17:15,Al Orobah,Al Raed,0,0,D,NaN,NaN,NaN
+KSA,30/01/2014,17:15,Al Nahda,Al Ettifaq,2,0,H,NaN,NaN,NaN
+KSA,30/01/2014,17:15,Najran SC,Al Shabab,1,1,D,NaN,NaN,NaN
+KSA,31/01/2014,17:15,Al Ittihad,Al Faysali,1,2,A,NaN,NaN,NaN
+KSA,06/02/2014,17:20,Al Raed,Al Ahli SFC,0,1,A,NaN,NaN,NaN
+KSA,06/02/2014,17:20,Al Shabab,Al Hilal,1,0,H,NaN,NaN,NaN
+KSA,06/02/2014,17:20,Al Orobah,Najran SC,1,1,D,NaN,NaN,NaN
+KSA,07/02/2014,17:20,Al Fateh,Al Shoalah,3,1,H,NaN,NaN,NaN
+KSA,07/02/2014,17:20,Al Taawoun,Al Nahda,4,1,H,NaN,NaN,NaN
+KSA,07/02/2014,17:20,Al Nassr,Al Faysali,4,0,H,NaN,NaN,NaN
+KSA,07/02/2014,17:20,Al Ettifaq,Al Ittihad,2,5,A,NaN,NaN,NaN
+KSA,13/02/2014,17:25,Al Faysali,Al Raed,3,2,H,NaN,NaN,NaN
+KSA,13/02/2014,17:25,Al Shoalah,Al Orobah,1,2,A,NaN,NaN,NaN
+KSA,13/02/2014,17:25,Al Shabab,Al Taawoun,1,0,H,NaN,NaN,NaN
+KSA,13/02/2014,17:25,Al Hilal,Najran SC,2,0,H,NaN,NaN,NaN
+KSA,14/02/2014,17:25,Al Ettifaq,Al Nassr,1,2,A,NaN,NaN,NaN
+KSA,14/02/2014,17:25,Al Ittihad,Al Nahda,2,1,H,NaN,NaN,NaN
+KSA,14/02/2014,17:25,Al Ahli SFC,Al Fateh,4,0,H,NaN,NaN,NaN
+KSA,21/02/2014,17:20,Al Nahda,Al Shabab,4,1,H,NaN,NaN,NaN
+KSA,21/02/2014,17:20,Najran SC,Al Fateh,1,1,D,NaN,NaN,NaN
+KSA,21/02/2014,17:20,Al Ittihad,Al Raed,1,2,A,NaN,NaN,NaN
+KSA,21/02/2014,17:20,Al Nassr,Al Hilal,3,4,A,NaN,NaN,NaN
+KSA,22/02/2014,12:55,Al Taawoun,Al Ahli SFC,1,1,D,NaN,NaN,NaN
+KSA,22/02/2014,17:20,Al Shoalah,Al Faysali,1,1,D,NaN,NaN,NaN
+KSA,22/02/2014,17:20,Al Orobah,Al Ettifaq,1,4,A,NaN,NaN,NaN
+KSA,22/03/2014,17:25,Al Raed,Al Taawoun,0,0,D,0,0,D
+KSA,22/03/2014,17:25,Al Nahda,Al Orobah,2,2,D,1,0,H
+KSA,22/03/2014,17:25,Al Faysali,Najran SC,1,0,H,1,0,H
+KSA,23/03/2014,17:25,Al Nassr,Al Ittihad,3,1,H,3,0,H
+KSA,23/03/2014,17:25,Al Hilal,Al Shoalah,2,0,H,1,0,H
+KSA,23/03/2014,17:25,Al Ahli SFC,Al Shabab,1,1,D,1,1,D
+KSA,23/03/2014,17:25,Al Fateh,Al Ettifaq,2,0,H,1,0,H
+KSA,28/03/2014,17:35,Al Orobah,Al Taawoun,0,0,D,0,0,D
+KSA,28/03/2014,17:35,Al Raed,Al Fateh,2,1,H,1,1,D
+KSA,28/03/2014,17:35,Al Hilal,Al Nahda,6,0,H,2,0,H
+KSA,28/03/2014,17:35,Al Ettifaq,Al Faysali,1,1,D,1,0,H
+KSA,28/03/2014,17:35,Najran SC,Al Ahli SFC,0,5,A,0,1,A
+KSA,28/03/2014,17:35,Al Ittihad,Al Shoalah,4,1,H,1,0,H
+KSA,28/03/2014,17:35,Al Shabab,Al Nassr,1,1,D,0,1,A
+KSA,06/04/2014,18:35,Al Shabab,Al Orobah,1,3,A,0,2,A
+KSA,06/04/2014,18:35,Al Ahli SFC,Al Ettifaq,2,1,H,1,1,D
+KSA,06/04/2014,18:35,Al Shoalah,Al Raed,1,1,D,0,1,A
+KSA,06/04/2014,18:35,Al Taawoun,Al Nassr,1,1,D,0,1,A
+KSA,06/04/2014,18:35,Najran SC,Al Ittihad,2,0,H,0,0,D
+KSA,06/04/2014,18:35,Al Faysali,Al Nahda,2,1,H,1,0,H
+KSA,06/04/2014,18:35,Al Fateh,Al Hilal,0,1,A,0,1,A

@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,24/07/2015,19:30,Sint-Truidense VV,Club Brugge KV,2,1,H,0,1,A
+BEL,25/07/2015,17:00,KV Kortrijk,Standard Liège,2,1,H,1,0,H
+BEL,25/07/2015,19:00,KRC Genk,Oud-Heverlee Leuven,3,1,H,1,0,H
+BEL,25/07/2015,19:00,KV Oostende,KV Mechelen,3,1,H,1,0,H
+BEL,25/07/2015,19:00,SV Zulte Waregem,Sporting Lokeren,3,1,H,1,0,H
+BEL,26/07/2015,13:30,KVC Westerlo,KAA Gent,1,1,D,1,1,D
+BEL,26/07/2015,17:00,RSC Anderlecht,Waasland-Beveren,3,2,H,2,0,H
+BEL,26/07/2015,19:00,Sporting Charleroi,Royal Mouscron-Péruwelz,2,1,H,2,0,H
+BEL,31/07/2015,19:30,KAA Gent,KRC Genk,1,0,H,1,0,H
+BEL,01/08/2015,17:00,Club Brugge KV,KV Mechelen,3,0,H,1,0,H
+BEL,01/08/2015,19:00,KV Oostende,KVC Westerlo,2,1,H,1,0,H
+BEL,01/08/2015,19:00,Royal Mouscron-Péruwelz,Sint-Truidense VV,0,2,A,0,1,A
+BEL,01/08/2015,19:00,Waasland-Beveren,KV Kortrijk,2,1,H,1,0,H
+BEL,02/08/2015,13:30,Sporting Lokeren,Sporting Charleroi,2,2,D,1,1,D
+BEL,02/08/2015,17:00,Standard Liège,SV Zulte Waregem,2,1,H,1,1,D
+BEL,02/08/2015,19:00,Oud-Heverlee Leuven,RSC Anderlecht,0,2,A,0,0,D
+BEL,07/08/2015,19:30,SV Zulte Waregem,KRC Genk,0,0,D,0,0,D
+BEL,08/08/2015,17:00,KV Kortrijk,Sporting Lokeren,0,0,D,0,0,D
+BEL,08/08/2015,19:00,KVC Westerlo,Oud-Heverlee Leuven,3,2,H,1,1,D
+BEL,08/08/2015,19:00,Sint-Truidense VV,KV Oostende,1,1,D,0,0,D
+BEL,08/08/2015,19:00,KV Mechelen,Royal Mouscron-Péruwelz,3,1,H,1,0,H
+BEL,09/08/2015,13:30,RSC Anderlecht,KAA Gent,1,1,D,1,0,H
+BEL,09/08/2015,17:00,Sporting Charleroi,Club Brugge KV,0,0,D,0,0,D
+BEL,09/08/2015,19:00,Standard Liège,Waasland-Beveren,1,0,H,0,0,D
+BEL,14/08/2015,19:30,Club Brugge KV,KV Kortrijk,2,1,H,0,0,D
+BEL,15/08/2015,17:00,Royal Mouscron-Péruwelz,Standard Liège,1,1,D,1,1,D
+BEL,15/08/2015,19:00,Sporting Lokeren,KV Mechelen,2,0,H,1,0,H
+BEL,15/08/2015,19:00,Waasland-Beveren,SV Zulte Waregem,2,1,H,1,0,H
+BEL,15/08/2015,19:00,KRC Genk,KVC Westerlo,2,1,H,1,1,D
+BEL,16/08/2015,13:30,KV Oostende,RSC Anderlecht,3,1,H,1,0,H
+BEL,16/08/2015,17:00,KAA Gent,Sint-Truidense VV,1,0,H,1,0,H
+BEL,16/08/2015,19:00,Oud-Heverlee Leuven,Sporting Charleroi,2,0,H,0,0,D
+BEL,21/08/2015,19:30,Sint-Truidense VV,KRC Genk,3,1,H,1,0,H
+BEL,22/08/2015,17:00,SV Zulte Waregem,Club Brugge KV,2,0,H,1,0,H
+BEL,22/08/2015,19:00,KV Mechelen,Oud-Heverlee Leuven,2,1,H,0,0,D
+BEL,22/08/2015,19:00,Waasland-Beveren,Royal Mouscron-Péruwelz,3,3,D,1,2,A
+BEL,22/08/2015,19:30,Sporting Charleroi,KVC Westerlo,0,0,D,0,0,D
+BEL,23/08/2015,13:30,RSC Anderlecht,Sporting Lokeren,1,0,H,0,0,D
+BEL,23/08/2015,17:00,Standard Liège,KV Oostende,1,2,A,1,1,D
+BEL,23/08/2015,19:00,KV Kortrijk,KAA Gent,0,0,D,0,0,D
+BEL,28/08/2015,19:30,KRC Genk,Sporting Charleroi,2,0,H,1,0,H
+BEL,29/08/2015,17:00,Oud-Heverlee Leuven,Sint-Truidense VV,1,0,H,0,0,D
+BEL,29/08/2015,19:00,KV Oostende,SV Zulte Waregem,0,2,A,0,1,A
+BEL,29/08/2015,19:00,Royal Mouscron-Péruwelz,KV Kortrijk,0,1,A,0,0,D
+BEL,29/08/2015,19:30,KAA Gent,KV Mechelen,2,2,D,0,1,A
+BEL,30/08/2015,13:30,Club Brugge KV,Standard Liège,7,1,H,4,1,H
+BEL,30/08/2015,17:00,KVC Westerlo,RSC Anderlecht,0,3,A,0,1,A
+BEL,30/08/2015,19:00,Sporting Lokeren,Waasland-Beveren,1,2,A,0,0,D
+BEL,11/09/2015,19:30,Royal Mouscron-Péruwelz,Club Brugge KV,2,1,H,0,1,A
+BEL,12/09/2015,17:00,SV Zulte Waregem,KAA Gent,1,1,D,0,1,A
+BEL,12/09/2015,19:00,KV Kortrijk,Oud-Heverlee Leuven,0,0,D,0,0,D
+BEL,12/09/2015,19:00,Waasland-Beveren,KV Oostende,1,5,A,0,2,A
+BEL,12/09/2015,19:30,KV Mechelen,KVC Westerlo,2,2,D,1,0,H
+BEL,13/09/2015,13:30,Standard Liège,Sporting Lokeren,0,1,A,0,0,D
+BEL,13/09/2015,17:00,RSC Anderlecht,KRC Genk,0,0,D,0,0,D
+BEL,13/09/2015,19:00,Sint-Truidense VV,Sporting Charleroi,1,1,D,0,0,D
+BEL,18/09/2015,19:30,KRC Genk,KV Mechelen,3,1,H,1,0,H
+BEL,19/09/2015,17:00,KV Oostende,KV Kortrijk,1,0,H,0,0,D
+BEL,19/09/2015,19:00,Oud-Heverlee Leuven,SV Zulte Waregem,2,3,A,1,3,A
+BEL,19/09/2015,19:00,KVC Westerlo,Sint-Truidense VV,0,3,A,0,2,A
+BEL,19/09/2015,19:30,Sporting Lokeren,Royal Mouscron-Péruwelz,1,2,A,1,2,A
+BEL,20/09/2015,13:30,KAA Gent,Standard Liège,4,1,H,2,1,H
+BEL,20/09/2015,17:00,Sporting Charleroi,RSC Anderlecht,1,1,D,0,0,D
+BEL,20/09/2015,19:00,Club Brugge KV,Waasland-Beveren,5,1,H,2,0,H
+BEL,25/09/2015,19:30,SV Zulte Waregem,KVC Westerlo,4,2,H,2,1,H
+BEL,26/09/2015,17:00,Waasland-Beveren,KAA Gent,1,3,A,0,1,A
+BEL,26/09/2015,19:00,KV Mechelen,Sporting Charleroi,0,1,A,0,0,D
+BEL,26/09/2015,19:00,Royal Mouscron-Péruwelz,KV Oostende,2,2,D,1,1,D
+BEL,26/09/2015,19:30,Standard Liège,Oud-Heverlee Leuven,2,2,D,0,2,A
+BEL,27/09/2015,13:30,Sporting Lokeren,Club Brugge KV,0,1,A,0,1,A
+BEL,27/09/2015,17:00,RSC Anderlecht,Sint-Truidense VV,1,0,H,1,0,H
+BEL,27/09/2015,19:00,KV Kortrijk,KRC Genk,1,0,H,0,0,D
+BEL,02/10/2015,19:30,KV Oostende,Sporting Lokeren,2,0,H,0,0,D
+BEL,03/10/2015,17:00,Sporting Charleroi,SV Zulte Waregem,3,0,H,0,0,D
+BEL,03/10/2015,19:00,Oud-Heverlee Leuven,Royal Mouscron-Péruwelz,1,1,D,0,0,D
+BEL,03/10/2015,19:00,KVC Westerlo,KV Kortrijk,1,1,D,1,0,H
+BEL,03/10/2015,19:30,Sint-Truidense VV,Waasland-Beveren,1,3,A,0,2,A
+BEL,04/10/2015,13:30,KAA Gent,Club Brugge KV,4,1,H,1,0,H
+BEL,04/10/2015,17:00,KRC Genk,Standard Liège,3,1,H,1,0,H
+BEL,04/10/2015,19:00,RSC Anderlecht,KV Mechelen,1,1,D,0,0,D
+BEL,16/10/2015,19:30,Royal Mouscron-Péruwelz,KAA Gent,1,2,A,1,0,H
+BEL,17/10/2015,17:00,Standard Liège,KVC Westerlo,1,2,A,0,2,A
+BEL,17/10/2015,19:00,Sporting Lokeren,Oud-Heverlee Leuven,1,2,A,0,1,A
+BEL,17/10/2015,19:00,Waasland-Beveren,KRC Genk,0,1,A,0,0,D
+BEL,17/10/2015,19:30,KV Mechelen,Sint-Truidense VV,3,0,H,1,0,H
+BEL,18/10/2015,13:30,Club Brugge KV,KV Oostende,1,0,H,1,0,H
+BEL,18/10/2015,17:00,SV Zulte Waregem,RSC Anderlecht,0,4,A,0,2,A
+BEL,18/10/2015,19:00,KV Kortrijk,Sporting Charleroi,2,0,H,1,0,H
+BEL,23/10/2015,19:30,KRC Genk,Royal Mouscron-Péruwelz,0,4,A,0,2,A
+BEL,24/10/2015,17:00,KV Mechelen,SV Zulte Waregem,3,4,A,2,2,D
+BEL,24/10/2015,19:00,Oud-Heverlee Leuven,Waasland-Beveren,0,2,A,0,2,A
+BEL,24/10/2015,19:00,KVC Westerlo,Sporting Lokeren,1,2,A,0,2,A
+BEL,24/10/2015,19:30,KAA Gent,KV Oostende,2,2,D,0,0,D
+BEL,25/10/2015,13:30,RSC Anderlecht,Club Brugge KV,3,1,H,1,0,H
+BEL,25/10/2015,17:00,Sporting Charleroi,Standard Liège,2,3,A,1,1,D
+BEL,25/10/2015,19:00,Sint-Truidense VV,KV Kortrijk,2,1,H,0,1,A
+BEL,27/10/2015,19:30,KV Oostende,KRC Genk,3,2,H,2,0,H
+BEL,27/10/2015,19:30,Royal Mouscron-Péruwelz,KVC Westerlo,2,2,D,1,1,D
+BEL,27/10/2015,19:30,Sporting Lokeren,KAA Gent,1,2,A,0,1,A
+BEL,28/10/2015,19:30,Club Brugge KV,Oud-Heverlee Leuven,2,0,H,1,0,H
+BEL,28/10/2015,19:30,Standard Liège,KV Mechelen,2,1,H,2,0,H
+BEL,28/10/2015,19:30,SV Zulte Waregem,Sint-Truidense VV,4,0,H,2,0,H
+BEL,28/10/2015,19:30,Waasland-Beveren,Sporting Charleroi,0,1,A,0,0,D
+BEL,29/10/2015,19:30,KV Kortrijk,RSC Anderlecht,1,1,D,1,0,H
+BEL,30/10/2015,19:30,KRC Genk,Sporting Lokeren,0,2,A,0,1,A
+BEL,31/10/2015,17:00,Oud-Heverlee Leuven,KAA Gent,0,2,A,0,1,A
+BEL,31/10/2015,19:00,KV Mechelen,Waasland-Beveren,2,0,H,1,0,H
+BEL,31/10/2015,19:00,Sporting Charleroi,KV Oostende,1,1,D,0,0,D
+BEL,31/10/2015,19:30,KVC Westerlo,Club Brugge KV,0,2,A,0,2,A
+BEL,01/11/2015,13:30,Sint-Truidense VV,Standard Liège,1,0,H,0,0,D
+BEL,01/11/2015,17:00,RSC Anderlecht,Royal Mouscron-Péruwelz,2,0,H,0,0,D
+BEL,01/11/2015,19:00,SV Zulte Waregem,KV Kortrijk,2,2,D,1,1,D
+BEL,06/11/2015,19:30,Royal Mouscron-Péruwelz,SV Zulte Waregem,2,2,D,1,0,H
+BEL,07/11/2015,17:00,KV Oostende,Oud-Heverlee Leuven,3,0,H,2,0,H
+BEL,07/11/2015,19:00,Sporting Lokeren,Sint-Truidense VV,1,1,D,0,0,D
+BEL,07/11/2015,19:00,Waasland-Beveren,KVC Westerlo,2,2,D,0,1,A
+BEL,07/11/2015,19:30,KV Kortrijk,KV Mechelen,1,0,H,1,0,H
+BEL,08/11/2015,13:30,Standard Liège,RSC Anderlecht,1,0,H,1,0,H
+BEL,08/11/2015,17:00,Club Brugge KV,KRC Genk,1,0,H,0,0,D
+BEL,08/11/2015,19:00,KAA Gent,Sporting Charleroi,1,3,A,1,2,A
+BEL,20/11/2015,19:30,KAA Gent,KVC Westerlo,5,0,H,2,0,H
+BEL,21/11/2015,17:00,Club Brugge KV,SV Zulte Waregem,3,0,H,3,0,H
+BEL,21/11/2015,19:00,Oud-Heverlee Leuven,KRC Genk,1,3,A,0,2,A
+BEL,21/11/2015,19:00,Waasland-Beveren,Sint-Truidense VV,2,1,H,1,1,D
+BEL,22/11/2015,13:30,Standard Liège,KV Kortrijk,1,1,D,0,0,D
+BEL,22/11/2015,19:00,KV Mechelen,KV Oostende,2,1,H,1,0,H
+BEL,22/12/2015,19:30,Royal Mouscron-Péruwelz,Sporting Charleroi,0,1,A,0,1,A
+BEL,23/12/2015,19:30,Sporting Lokeren,RSC Anderlecht,1,1,D,0,0,D
+BEL,27/11/2015,19:30,SV Zulte Waregem,Standard Liège,2,3,A,0,2,A
+BEL,28/11/2015,17:00,KRC Genk,KAA Gent,0,1,A,0,1,A
+BEL,28/11/2015,19:00,KV Kortrijk,Waasland-Beveren,3,1,H,3,1,H
+BEL,28/11/2015,19:00,Sporting Charleroi,Sporting Lokeren,1,2,A,0,1,A
+BEL,28/11/2015,19:30,Sint-Truidense VV,Royal Mouscron-Péruwelz,0,1,A,0,0,D
+BEL,29/11/2015,13:30,RSC Anderlecht,Oud-Heverlee Leuven,3,2,H,2,1,H
+BEL,29/11/2015,13:30,KV Mechelen,Club Brugge KV,1,4,A,1,0,H
+BEL,29/11/2015,19:00,KVC Westerlo,KV Oostende,0,1,A,0,0,D
+BEL,04/12/2015,19:30,KAA Gent,SV Zulte Waregem,2,2,D,1,1,D
+BEL,05/12/2015,17:00,KV Oostende,Sint-Truidense VV,1,2,A,1,1,D
+BEL,05/12/2015,19:00,Royal Mouscron-Péruwelz,KV Mechelen,2,3,A,1,1,D
+BEL,05/12/2015,19:00,Oud-Heverlee Leuven,KVC Westerlo,5,1,H,3,0,H
+BEL,05/12/2015,19:30,Waasland-Beveren,Standard Liège,0,0,D,0,0,D
+BEL,06/12/2015,13:30,Club Brugge KV,Sporting Charleroi,2,1,H,1,0,H
+BEL,06/12/2015,17:00,KRC Genk,RSC Anderlecht,0,0,D,0,0,D
+BEL,06/12/2015,19:00,Sporting Lokeren,KV Kortrijk,3,1,H,0,1,A
+BEL,11/12/2015,19:30,KVC Westerlo,KRC Genk,0,0,D,0,0,D
+BEL,12/12/2015,17:00,Sporting Charleroi,Oud-Heverlee Leuven,2,1,H,0,0,D
+BEL,12/12/2015,19:00,KV Mechelen,Sporting Lokeren,1,1,D,1,1,D
+BEL,12/12/2015,19:00,SV Zulte Waregem,Waasland-Beveren,2,1,H,2,0,H
+BEL,12/12/2015,19:30,KV Kortrijk,Royal Mouscron-Péruwelz,1,3,A,0,2,A
+BEL,13/12/2015,13:30,Standard Liège,Club Brugge KV,2,0,H,0,0,D
+BEL,13/12/2015,17:00,Sint-Truidense VV,KAA Gent,0,2,A,0,1,A
+BEL,13/12/2015,19:00,RSC Anderlecht,KV Oostende,1,1,D,0,0,D
+BEL,18/12/2015,19:30,Sporting Lokeren,SV Zulte Waregem,1,1,D,0,1,A
+BEL,19/12/2015,17:00,KRC Genk,Sint-Truidense VV,3,0,H,1,0,H
+BEL,19/12/2015,19:00,Royal Mouscron-Péruwelz,Waasland-Beveren,0,1,A,0,0,D
+BEL,19/12/2015,19:00,KVC Westerlo,Sporting Charleroi,2,1,H,1,1,D
+BEL,19/12/2015,19:30,Oud-Heverlee Leuven,KV Mechelen,3,1,H,0,1,A
+BEL,20/12/2015,13:30,Club Brugge KV,RSC Anderlecht,1,4,A,0,2,A
+BEL,20/12/2015,17:00,KV Oostende,Standard Liège,4,1,H,2,1,H
+BEL,20/12/2015,19:00,KAA Gent,KV Kortrijk,3,0,H,1,0,H
+BEL,26/12/2015,13:30,KV Kortrijk,Club Brugge KV,1,4,A,1,1,D
+BEL,26/12/2015,17:00,Sporting Charleroi,KRC Genk,1,0,H,0,0,D
+BEL,26/12/2015,19:00,KV Mechelen,KAA Gent,2,0,H,0,0,D
+BEL,26/12/2015,19:00,Waasland-Beveren,Sporting Lokeren,2,3,A,2,0,H
+BEL,26/12/2015,19:30,Sint-Truidense VV,Oud-Heverlee Leuven,2,2,D,0,1,A
+BEL,27/12/2015,13:30,Standard Liège,Royal Mouscron-Péruwelz,3,0,H,1,0,H
+BEL,27/12/2015,17:00,RSC Anderlecht,KVC Westerlo,2,1,H,1,0,H
+BEL,27/12/2015,19:00,SV Zulte Waregem,KV Oostende,1,0,H,0,0,D
+BEL,15/01/2016,19:30,KRC Genk,SV Zulte Waregem,2,1,H,1,1,D
+BEL,16/01/2016,17:00,Club Brugge KV,Royal Mouscron-Péruwelz,3,0,H,1,0,H
+BEL,16/01/2016,19:00,Oud-Heverlee Leuven,KV Kortrijk,1,0,H,0,0,D
+BEL,16/01/2016,19:00,KVC Westerlo,KV Mechelen,3,2,H,0,0,D
+BEL,16/01/2016,19:30,Sporting Charleroi,Sint-Truidense VV,0,0,D,0,0,D
+BEL,17/01/2016,13:30,KAA Gent,RSC Anderlecht,2,0,H,1,0,H
+BEL,17/01/2016,17:00,Sporting Lokeren,Standard Liège,0,2,A,0,0,D
+BEL,17/01/2016,19:00,KV Oostende,Waasland-Beveren,3,3,D,2,2,D
+BEL,22/01/2016,19:30,KV Kortrijk,KV Oostende,2,1,H,1,0,H
+BEL,23/01/2016,17:00,KV Mechelen,KRC Genk,1,1,D,0,0,D
+BEL,23/01/2016,19:00,SV Zulte Waregem,Oud-Heverlee Leuven,2,2,D,1,1,D
+BEL,23/01/2016,19:00,Sint-Truidense VV,KVC Westerlo,1,2,A,0,0,D
+BEL,23/01/2016,19:30,Royal Mouscron-Péruwelz,Sporting Lokeren,1,1,D,0,0,D
+BEL,24/01/2016,13:30,RSC Anderlecht,Sporting Charleroi,2,1,H,1,1,D
+BEL,24/01/2016,17:00,Standard Liège,KAA Gent,0,3,A,0,0,D
+BEL,24/01/2016,19:00,Waasland-Beveren,Club Brugge KV,1,2,A,1,1,D
+BEL,29/01/2016,19:30,Sint-Truidense VV,RSC Anderlecht,1,2,A,1,1,D
+BEL,30/01/2016,17:00,Oud-Heverlee Leuven,Standard Liège,0,2,A,0,2,A
+BEL,30/01/2016,19:00,Sporting Charleroi,KV Mechelen,3,2,H,1,2,A
+BEL,30/01/2016,19:00,KVC Westerlo,SV Zulte Waregem,1,2,A,1,0,H
+BEL,30/01/2016,19:30,KRC Genk,KV Kortrijk,1,0,H,1,0,H
+BEL,31/01/2016,13:30,KV Oostende,Royal Mouscron-Péruwelz,3,3,D,1,0,H
+BEL,31/01/2016,17:00,Club Brugge KV,Sporting Lokeren,2,1,H,2,1,H
+BEL,31/01/2016,19:00,KAA Gent,Waasland-Beveren,2,1,H,1,1,D
+BEL,05/02/2016,19:30,KV Mechelen,RSC Anderlecht,2,2,D,1,1,D
+BEL,06/02/2016,17:00,Royal Mouscron-Péruwelz,KRC Genk,0,1,A,0,0,D
+BEL,06/02/2016,19:00,KV Kortrijk,KVC Westerlo,1,1,D,0,0,D
+BEL,06/02/2016,19:00,Waasland-Beveren,Oud-Heverlee Leuven,2,2,D,0,1,A
+BEL,06/02/2016,19:30,SV Zulte Waregem,Sporting Charleroi,2,3,A,1,1,D
+BEL,07/02/2016,13:30,Club Brugge KV,KAA Gent,1,0,H,0,0,D
+BEL,07/02/2016,17:00,Standard Liège,Sint-Truidense VV,1,2,A,1,1,D
+BEL,07/02/2016,19:00,Sporting Lokeren,KV Oostende,0,1,A,0,0,D
+BEL,12/02/2016,19:30,KAA Gent,Royal Mouscron-Péruwelz,2,0,H,0,0,D
+BEL,13/02/2016,17:00,Sporting Charleroi,KV Kortrijk,1,1,D,1,0,H
+BEL,13/02/2016,19:00,RSC Anderlecht,SV Zulte Waregem,3,0,H,1,0,H
+BEL,13/02/2016,19:00,Oud-Heverlee Leuven,Sporting Lokeren,3,3,D,0,1,A
+BEL,13/02/2016,19:30,KRC Genk,Waasland-Beveren,6,1,H,4,1,H
+BEL,14/02/2016,13:30,KV Oostende,Club Brugge KV,0,2,A,0,1,A
+BEL,14/02/2016,17:00,KVC Westerlo,Standard Liège,2,0,H,0,0,D
+BEL,14/02/2016,19:00,Sint-Truidense VV,KV Mechelen,0,3,A,0,0,D
+BEL,19/02/2016,19:30,Club Brugge KV,KVC Westerlo,6,0,H,3,0,H
+BEL,20/02/2016,17:00,Standard Liège,Sporting Charleroi,3,0,H,1,0,H
+BEL,20/02/2016,19:00,Royal Mouscron-Péruwelz,Oud-Heverlee Leuven,3,1,H,0,1,A
+BEL,20/02/2016,19:00,KV Kortrijk,Sint-Truidense VV,3,0,H,2,0,H
+BEL,20/02/2016,19:30,Sporting Lokeren,KRC Genk,0,0,D,0,0,D
+BEL,21/02/2016,13:30,KV Oostende,KAA Gent,5,2,H,3,2,H
+BEL,21/02/2016,17:00,Waasland-Beveren,RSC Anderlecht,1,0,H,0,0,D
+BEL,21/02/2016,19:00,SV Zulte Waregem,KV Mechelen,2,3,A,1,0,H
+BEL,26/02/2016,19:30,KAA Gent,Sporting Lokeren,3,1,H,2,1,H
+BEL,27/02/2016,17:00,Oud-Heverlee Leuven,KV Oostende,4,1,H,2,0,H
+BEL,27/02/2016,19:00,KV Mechelen,KV Kortrijk,0,2,A,0,1,A
+BEL,27/02/2016,19:00,KVC Westerlo,Royal Mouscron-Péruwelz,2,2,D,2,2,D
+BEL,27/02/2016,19:30,Sint-Truidense VV,SV Zulte Waregem,1,2,A,0,1,A
+BEL,28/02/2016,13:30,KRC Genk,Club Brugge KV,3,2,H,1,1,D
+BEL,28/02/2016,17:00,RSC Anderlecht,Standard Liège,3,3,D,1,2,A
+BEL,28/02/2016,19:00,Sporting Charleroi,Waasland-Beveren,2,3,A,1,0,H
+BEL,04/03/2016,19:30,KAA Gent,Oud-Heverlee Leuven,1,1,D,0,0,D
+BEL,05/03/2016,19:00,Club Brugge KV,Sint-Truidense VV,3,0,H,1,0,H
+BEL,05/03/2016,19:00,Standard Liège,KRC Genk,2,1,H,0,1,A
+BEL,05/03/2016,19:00,KV Oostende,Sporting Charleroi,2,1,H,0,0,D
+BEL,05/03/2016,19:00,Royal Mouscron-Péruwelz,RSC Anderlecht,2,1,H,1,1,D
+BEL,05/03/2016,19:00,Sporting Lokeren,KVC Westerlo,2,1,H,1,1,D
+BEL,05/03/2016,19:00,KV Kortrijk,SV Zulte Waregem,1,0,H,1,0,H
+BEL,05/03/2016,19:00,Waasland-Beveren,KV Mechelen,0,0,D,0,0,D
+BEL,13/03/2016,17:00,RSC Anderlecht,KV Kortrijk,3,0,H,1,0,H
+BEL,13/03/2016,17:00,KRC Genk,KV Oostende,4,1,H,2,0,H
+BEL,13/03/2016,17:00,KV Mechelen,Standard Liège,4,0,H,3,0,H
+BEL,13/03/2016,17:00,SV Zulte Waregem,Royal Mouscron-Péruwelz,3,0,H,1,0,H
+BEL,13/03/2016,17:00,Sporting Charleroi,KAA Gent,1,1,D,0,0,D
+BEL,13/03/2016,17:00,Oud-Heverlee Leuven,Club Brugge KV,0,1,A,0,0,D
+BEL,13/03/2016,17:00,KVC Westerlo,Waasland-Beveren,1,0,H,1,0,H
+BEL,13/03/2016,17:00,Sint-Truidense VV,Sporting Lokeren,1,1,D,0,0,D

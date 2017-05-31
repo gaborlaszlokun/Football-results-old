@@ -1,0 +1,43 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KOR,07/09/2013,09:00,Daegu FC,Jeju United,0,1,A,0,1,A
+KOR,07/09/2013,11:00,Chunnam Dragons,Gyeongnam FC,1,1,D,1,1,D
+KOR,07/09/2013,11:00,Seongnam Ilhwa Chunma,Daejeon Citizen,3,1,H,0,0,D
+KOR,11/09/2013,11:00,Daegu FC,Gangwon FC,1,1,D,0,0,D
+KOR,11/09/2013,11:30,Daejeon Citizen,Jeju United,1,2,A,0,1,A
+KOR,11/09/2013,11:30,Seongnam Ilhwa Chunma,Chunnam Dragons,0,1,A,0,0,D
+KOR,21/09/2013,09:00,Gangwon FC,Seongnam Ilhwa Chunma,0,2,A,0,2,A
+KOR,22/09/2013,06:00,Gyeongnam FC,Daegu FC,3,0,H,2,0,H
+KOR,22/09/2013,07:00,Chunnam Dragons,Daejeon Citizen,2,2,D,1,1,D
+KOR,28/09/2013,08:00,Gyeongnam FC,Seongnam Ilhwa Chunma,1,2,A,1,0,H
+KOR,28/09/2013,08:00,Daejeon Citizen,Gangwon FC,1,3,A,1,1,D
+KOR,29/09/2013,06:00,Jeju United,Chunnam Dragons,1,0,H,0,0,D
+KOR,05/10/2013,06:00,Gangwon FC,Gyeongnam FC,2,1,H,2,0,H
+KOR,05/10/2013,08:00,Daegu FC,Daejeon Citizen,1,1,D,1,0,H
+KOR,06/10/2013,06:00,Seongnam Ilhwa Chunma,Jeju United,2,1,H,2,1,H
+KOR,09/10/2013,06:00,Jeju United,Gangwon FC,1,1,D,0,0,D
+KOR,09/10/2013,07:00,Chunnam Dragons,Daegu FC,1,2,A,0,1,A
+KOR,09/10/2013,08:00,Daejeon Citizen,Gyeongnam FC,0,1,A,0,1,A
+KOR,26/10/2013,06:00,Gyeongnam FC,Jeju United,1,2,A,0,1,A
+KOR,27/10/2013,05:00,Gangwon FC,Chunnam Dragons,2,1,H,2,0,H
+KOR,27/10/2013,05:00,Daegu FC,Seongnam Ilhwa Chunma,2,2,D,0,1,A
+KOR,20/10/2013,07:00,Jeju United,Daejeon Citizen,0,1,A,0,0,D
+KOR,30/10/2013,10:00,Gyeongnam FC,Chunnam Dragons,4,2,H,2,1,H
+KOR,30/10/2013,10:30,Seongnam Ilhwa Chunma,Gangwon FC,1,2,A,0,1,A
+KOR,02/11/2013,06:00,Chunnam Dragons,Jeju United,0,1,A,0,0,D
+KOR,03/11/2013,07:00,Seongnam Ilhwa Chunma,Gyeongnam FC,2,1,H,2,0,H
+KOR,03/11/2013,07:00,Daejeon Citizen,Daegu FC,3,2,H,1,2,A
+KOR,09/11/2013,05:00,Gangwon FC,Daejeon Citizen,1,3,A,1,1,D
+KOR,10/11/2013,05:00,Jeju United,Seongnam Ilhwa Chunma,1,0,H,1,0,H
+KOR,10/11/2013,05:00,Daegu FC,Chunnam Dragons,0,1,A,0,0,D
+KOR,16/11/2013,04:30,Gyeongnam FC,Gangwon FC,1,2,A,0,1,A
+KOR,17/11/2013,05:00,Jeju United,Daegu FC,1,2,A,0,2,A
+KOR,17/11/2013,05:00,Daejeon Citizen,Seongnam Ilhwa Chunma,1,0,H,0,0,D
+KOR,23/11/2013,05:00,Seongnam Ilhwa Chunma,Daegu FC,0,0,D,0,0,D
+KOR,23/11/2013,06:00,Chunnam Dragons,Gangwon FC,1,0,H,1,0,H
+KOR,24/11/2013,05:00,Jeju United,Gyeongnam FC,0,1,A,0,0,D
+KOR,27/11/2013,05:00,Gangwon FC,Daegu FC,2,2,D,0,1,A
+KOR,27/11/2013,10:00,Gyeongnam FC,Daejeon Citizen,1,1,D,0,0,D
+KOR,27/11/2013,10:30,Chunnam Dragons,Seongnam Ilhwa Chunma,0,1,A,0,0,D
+KOR,30/11/2013,05:00,Daejeon Citizen,Chunnam Dragons,2,0,H,0,0,D
+KOR,30/11/2013,05:00,Daegu FC,Gyeongnam FC,0,0,D,0,0,D
+KOR,30/11/2013,05:00,Gangwon FC,Jeju United,3,0,H,1,0,H

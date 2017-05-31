@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BLR,15/04/2000,,Torpedo-MAZ Minsk,Lokomotiv-96 Vitebsk,1,1,D,NaN,NaN,NaN
+BLR,15/04/2000,,Shakhter Soligorsk,FK Vedrich-97,0,0,D,NaN,NaN,NaN
+BLR,15/04/2000,,Naftan Novopolotsk,FK Lida,0,0,D,NaN,NaN,NaN
+BLR,15/04/2000,,Dinamo Brest,FK Slavia Mozyr,1,3,A,NaN,NaN,NaN
+BLR,15/04/2000,,Belshina Bobruisk,BATE Borisov,1,1,D,NaN,NaN,NaN
+BLR,15/04/2000,,Torpedo Mogilev,Kommunalnik Slonim,1,0,H,NaN,NaN,NaN
+BLR,16/04/2000,,Dinamo Minsk,FK Gomel,3,1,H,NaN,NaN,NaN
+BLR,16/04/2000,,Dnepr Mogilev,Neman-Belkard Grodno,1,1,D,NaN,NaN,NaN
+BLR,21/04/2000,,Lokomotiv-96 Vitebsk,Belshina Bobruisk,0,3,A,NaN,NaN,NaN
+BLR,21/04/2000,,Kommunalnik Slonim,Torpedo-MAZ Minsk,0,0,D,NaN,NaN,NaN
+BLR,21/04/2000,,BATE Borisov,Dnepr Mogilev,3,1,H,NaN,NaN,NaN
+BLR,22/04/2000,,Neman-Belkard Grodno,Shakhter Soligorsk,3,0,H,NaN,NaN,NaN
+BLR,22/04/2000,,FK Lida,FK Vedrich-97,1,1,D,NaN,NaN,NaN
+BLR,22/04/2000,,FK Slavia Mozyr,Torpedo Mogilev,4,2,H,NaN,NaN,NaN
+BLR,22/04/2000,,Naftan Novopolotsk,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+BLR,22/04/2000,,FK Gomel,Dinamo Brest,3,2,H,NaN,NaN,NaN
+BLR,29/04/2000,,Belshina Bobruisk,Kommunalnik Slonim,4,0,H,NaN,NaN,NaN
+BLR,29/04/2000,,FK Vedrich-97,Neman-Belkard Grodno,1,0,H,NaN,NaN,NaN
+BLR,29/04/2000,,Torpedo-MAZ Minsk,FK Slavia Mozyr,0,0,D,NaN,NaN,NaN
+BLR,29/04/2000,,Torpedo Mogilev,FK Gomel,2,7,A,NaN,NaN,NaN
+BLR,29/04/2000,,Shakhter Soligorsk,BATE Borisov,3,1,H,NaN,NaN,NaN
+BLR,29/04/2000,,Dinamo Brest,Naftan Novopolotsk,2,3,A,NaN,NaN,NaN
+BLR,29/04/2000,,Dinamo Minsk,FK Lida,4,0,H,NaN,NaN,NaN
+BLR,27/05/2000,,Dnepr Mogilev,Lokomotiv-96 Vitebsk,3,0,H,NaN,NaN,NaN
+BLR,07/05/2000,,Lokomotiv-96 Vitebsk,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,07/05/2000,,FK Slavia Mozyr,Belshina Bobruisk,3,2,H,NaN,NaN,NaN
+BLR,07/05/2000,,Kommunalnik Slonim,Dnepr Mogilev,1,1,D,NaN,NaN,NaN
+BLR,07/05/2000,,FK Lida,Neman-Belkard Grodno,0,0,D,NaN,NaN,NaN
+BLR,07/05/2000,,BATE Borisov,FK Vedrich-97,2,1,H,NaN,NaN,NaN
+BLR,07/05/2000,,Naftan Novopolotsk,Torpedo Mogilev,1,0,H,NaN,NaN,NaN
+BLR,07/05/2000,,FK Gomel,Torpedo-MAZ Minsk,1,0,H,NaN,NaN,NaN
+BLR,07/05/2000,,Dinamo Minsk,Dinamo Brest,4,0,H,NaN,NaN,NaN
+BLR,11/05/2000,,Torpedo-MAZ Minsk,Naftan Novopolotsk,3,2,H,NaN,NaN,NaN
+BLR,11/05/2000,,Shakhter Soligorsk,Kommunalnik Slonim,2,0,H,NaN,NaN,NaN
+BLR,11/05/2000,,Dinamo Brest,FK Lida,0,0,D,NaN,NaN,NaN
+BLR,11/05/2000,,Belshina Bobruisk,FK Gomel,0,2,A,NaN,NaN,NaN
+BLR,11/05/2000,,FK Vedrich-97,Lokomotiv-96 Vitebsk,0,0,D,NaN,NaN,NaN
+BLR,11/05/2000,,Neman-Belkard Grodno,BATE Borisov,3,0,H,NaN,NaN,NaN
+BLR,11/05/2000,,Dnepr Mogilev,FK Slavia Mozyr,0,1,A,NaN,NaN,NaN
+BLR,12/05/2000,,Torpedo Mogilev,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,15/05/2000,,FK Slavia Mozyr,Shakhter Soligorsk,1,0,H,NaN,NaN,NaN
+BLR,15/05/2000,,Lokomotiv-96 Vitebsk,Neman-Belkard Grodno,2,3,A,NaN,NaN,NaN
+BLR,15/05/2000,,Kommunalnik Slonim,FK Vedrich-97,1,3,A,NaN,NaN,NaN
+BLR,15/05/2000,,FK Lida,BATE Borisov,2,1,H,NaN,NaN,NaN
+BLR,15/05/2000,,Naftan Novopolotsk,Belshina Bobruisk,1,1,D,NaN,NaN,NaN
+BLR,15/05/2000,,FK Gomel,Dnepr Mogilev,0,1,A,NaN,NaN,NaN
+BLR,16/05/2000,,Dinamo Brest,Torpedo Mogilev,3,0,H,NaN,NaN,NaN
+BLR,16/05/2000,,Dinamo Minsk,Torpedo-MAZ Minsk,0,0,D,NaN,NaN,NaN
+BLR,22/05/2000,,Torpedo Mogilev,FK Lida,2,0,H,NaN,NaN,NaN
+BLR,23/05/2000,,FK Vedrich-97,FK Slavia Mozyr,0,0,D,NaN,NaN,NaN
+BLR,23/05/2000,,Shakhter Soligorsk,FK Gomel,4,0,H,NaN,NaN,NaN
+BLR,23/05/2000,,Neman-Belkard Grodno,Kommunalnik Slonim,8,0,H,NaN,NaN,NaN
+BLR,23/05/2000,,Dnepr Mogilev,Naftan Novopolotsk,2,0,H,NaN,NaN,NaN
+BLR,23/05/2000,,BATE Borisov,Lokomotiv-96 Vitebsk,1,0,H,NaN,NaN,NaN
+BLR,24/05/2000,,Torpedo-MAZ Minsk,Dinamo Brest,2,1,H,NaN,NaN,NaN
+BLR,24/05/2000,,Belshina Bobruisk,Dinamo Minsk,1,3,A,NaN,NaN,NaN
+BLR,31/05/2000,,FK Slavia Mozyr,Neman-Belkard Grodno,2,0,H,NaN,NaN,NaN
+BLR,31/05/2000,,Torpedo Mogilev,Torpedo-MAZ Minsk,0,1,A,NaN,NaN,NaN
+BLR,31/05/2000,,Naftan Novopolotsk,Shakhter Soligorsk,0,0,D,NaN,NaN,NaN
+BLR,31/05/2000,,Kommunalnik Slonim,BATE Borisov,1,3,A,NaN,NaN,NaN
+BLR,31/05/2000,,FK Lida,Lokomotiv-96 Vitebsk,2,2,D,NaN,NaN,NaN
+BLR,31/05/2000,,Dinamo Brest,Belshina Bobruisk,1,3,A,NaN,NaN,NaN
+BLR,31/05/2000,,Dnepr Mogilev,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,31/05/2000,,FK Gomel,FK Vedrich-97,3,0,H,NaN,NaN,NaN
+BLR,08/06/2000,,Torpedo-MAZ Minsk,FK Lida,4,1,H,NaN,NaN,NaN
+BLR,08/06/2000,,Shakhter Soligorsk,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+BLR,08/06/2000,,Neman-Belkard Grodno,FK Gomel,3,1,H,NaN,NaN,NaN
+BLR,08/06/2000,,Lokomotiv-96 Vitebsk,Kommunalnik Slonim,0,1,A,NaN,NaN,NaN
+BLR,08/06/2000,,Dnepr Mogilev,Dinamo Brest,3,0,H,NaN,NaN,NaN
+BLR,08/06/2000,,Belshina Bobruisk,Torpedo Mogilev,1,0,H,NaN,NaN,NaN
+BLR,08/06/2000,,BATE Borisov,FK Slavia Mozyr,1,3,A,NaN,NaN,NaN
+BLR,08/06/2000,,FK Vedrich-97,Naftan Novopolotsk,1,0,H,NaN,NaN,NaN
+BLR,12/06/2000,,FK Slavia Mozyr,Lokomotiv-96 Vitebsk,4,1,H,NaN,NaN,NaN
+BLR,12/06/2000,,Torpedo-MAZ Minsk,Belshina Bobruisk,3,1,H,NaN,NaN,NaN
+BLR,12/06/2000,,Torpedo Mogilev,Dnepr Mogilev,0,4,A,NaN,NaN,NaN
+BLR,12/06/2000,,FK Lida,Kommunalnik Slonim,0,0,D,NaN,NaN,NaN
+BLR,12/06/2000,,Dinamo Brest,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,12/06/2000,,FK Gomel,BATE Borisov,3,1,H,NaN,NaN,NaN
+BLR,12/06/2000,,Naftan Novopolotsk,Neman-Belkard Grodno,1,3,A,NaN,NaN,NaN
+BLR,13/06/2000,,Dinamo Minsk,FK Vedrich-97,1,2,A,NaN,NaN,NaN
+BLR,21/06/2000,,Shakhter Soligorsk,Torpedo Mogilev,1,0,H,NaN,NaN,NaN
+BLR,21/06/2000,,Neman-Belkard Grodno,Dinamo Minsk,0,0,D,NaN,NaN,NaN
+BLR,21/06/2000,,Lokomotiv-96 Vitebsk,FK Gomel,0,2,A,NaN,NaN,NaN
+BLR,21/06/2000,,Kommunalnik Slonim,FK Slavia Mozyr,2,2,D,NaN,NaN,NaN
+BLR,21/06/2000,,Dnepr Mogilev,Torpedo-MAZ Minsk,1,1,D,NaN,NaN,NaN
+BLR,21/06/2000,,Belshina Bobruisk,FK Lida,3,0,H,NaN,NaN,NaN
+BLR,21/06/2000,,BATE Borisov,Naftan Novopolotsk,8,0,H,NaN,NaN,NaN
+BLR,21/06/2000,,FK Vedrich-97,Dinamo Brest,0,0,D,NaN,NaN,NaN
+BLR,28/06/2000,,FK Lida,FK Slavia Mozyr,1,3,A,NaN,NaN,NaN
+BLR,28/06/2000,,Torpedo Mogilev,FK Vedrich-97,0,0,D,NaN,NaN,NaN
+BLR,28/06/2000,,Dinamo Brest,Neman-Belkard Grodno,1,0,H,NaN,NaN,NaN
+BLR,28/06/2000,,Belshina Bobruisk,Dnepr Mogilev,3,1,H,NaN,NaN,NaN
+BLR,28/06/2000,,Naftan Novopolotsk,Lokomotiv-96 Vitebsk,0,0,D,NaN,NaN,NaN
+BLR,28/06/2000,,FK Gomel,Kommunalnik Slonim,0,0,D,NaN,NaN,NaN
+BLR,28/06/2000,,Dinamo Minsk,BATE Borisov,0,0,D,NaN,NaN,NaN
+BLR,29/06/2000,,Torpedo-MAZ Minsk,Shakhter Soligorsk,3,3,D,NaN,NaN,NaN
+BLR,05/07/2000,,FK Vedrich-97,Torpedo-MAZ Minsk,0,2,A,NaN,NaN,NaN
+BLR,05/07/2000,,FK Slavia Mozyr,FK Gomel,3,2,H,NaN,NaN,NaN
+BLR,05/07/2000,,Shakhter Soligorsk,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,05/07/2000,,Neman-Belkard Grodno,Torpedo Mogilev,4,2,H,NaN,NaN,NaN
+BLR,05/07/2000,,Lokomotiv-96 Vitebsk,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+BLR,05/07/2000,,Kommunalnik Slonim,Naftan Novopolotsk,2,1,H,NaN,NaN,NaN
+BLR,05/07/2000,,Dnepr Mogilev,FK Lida,6,0,H,NaN,NaN,NaN
+BLR,05/07/2000,,BATE Borisov,Dinamo Brest,1,0,H,NaN,NaN,NaN
+BLR,16/07/2000,,FK Lida,FK Gomel,0,3,A,NaN,NaN,NaN
+BLR,16/07/2000,,Torpedo-MAZ Minsk,Neman-Belkard Grodno,1,0,H,NaN,NaN,NaN
+BLR,16/07/2000,,Torpedo Mogilev,BATE Borisov,1,3,A,NaN,NaN,NaN
+BLR,16/07/2000,,Dinamo Brest,Lokomotiv-96 Vitebsk,3,1,H,NaN,NaN,NaN
+BLR,16/07/2000,,Belshina Bobruisk,FK Vedrich-97,0,0,D,NaN,NaN,NaN
+BLR,16/07/2000,,Naftan Novopolotsk,FK Slavia Mozyr,1,4,A,NaN,NaN,NaN
+BLR,16/07/2000,,Dinamo Minsk,Kommunalnik Slonim,4,1,H,NaN,NaN,NaN
+BLR,17/07/2000,,Dnepr Mogilev,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,22/07/2000,,FK Slavia Mozyr,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,22/07/2000,,FK Vedrich-97,Dnepr Mogilev,2,2,D,NaN,NaN,NaN
+BLR,22/07/2000,,Shakhter Soligorsk,FK Lida,2,2,D,NaN,NaN,NaN
+BLR,22/07/2000,,Neman-Belkard Grodno,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,22/07/2000,,Lokomotiv-96 Vitebsk,Torpedo Mogilev,2,0,H,NaN,NaN,NaN
+BLR,22/07/2000,,Kommunalnik Slonim,Dinamo Brest,1,2,A,NaN,NaN,NaN
+BLR,22/07/2000,,BATE Borisov,Torpedo-MAZ Minsk,0,0,D,NaN,NaN,NaN
+BLR,22/07/2000,,FK Gomel,Naftan Novopolotsk,3,0,H,NaN,NaN,NaN
+BLR,05/08/2000,,FK Gomel,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+BLR,06/08/2000,,FK Vedrich-97,Shakhter Soligorsk,1,1,D,NaN,NaN,NaN
+BLR,06/08/2000,,FK Lida,Naftan Novopolotsk,0,0,D,NaN,NaN,NaN
+BLR,06/08/2000,,FK Slavia Mozyr,Dinamo Brest,3,1,H,NaN,NaN,NaN
+BLR,06/08/2000,,Neman-Belkard Grodno,Dnepr Mogilev,3,0,H,NaN,NaN,NaN
+BLR,06/08/2000,,Lokomotiv-96 Vitebsk,Torpedo-MAZ Minsk,2,2,D,NaN,NaN,NaN
+BLR,06/08/2000,,Kommunalnik Slonim,Torpedo Mogilev,0,4,A,NaN,NaN,NaN
+BLR,06/08/2000,,BATE Borisov,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,12/08/2000,,Dnepr Mogilev,BATE Borisov,1,2,A,NaN,NaN,NaN
+BLR,12/08/2000,,Dinamo Minsk,Naftan Novopolotsk,2,0,H,NaN,NaN,NaN
+BLR,13/08/2000,,Torpedo Mogilev,FK Slavia Mozyr,0,4,A,NaN,NaN,NaN
+BLR,13/08/2000,,FK Vedrich-97,FK Lida,1,2,A,NaN,NaN,NaN
+BLR,13/08/2000,,Torpedo-MAZ Minsk,Kommunalnik Slonim,3,0,H,NaN,NaN,NaN
+BLR,13/08/2000,,Shakhter Soligorsk,Neman-Belkard Grodno,0,1,A,NaN,NaN,NaN
+BLR,13/08/2000,,Belshina Bobruisk,Lokomotiv-96 Vitebsk,0,2,A,NaN,NaN,NaN
+BLR,14/08/2000,,Dinamo Brest,FK Gomel,2,1,H,NaN,NaN,NaN
+BLR,20/08/2000,,Lokomotiv-96 Vitebsk,Dnepr Mogilev,1,2,A,NaN,NaN,NaN
+BLR,20/08/2000,,Kommunalnik Slonim,Belshina Bobruisk,1,1,D,NaN,NaN,NaN
+BLR,20/08/2000,,FK Lida,Dinamo Minsk,0,4,A,NaN,NaN,NaN
+BLR,20/08/2000,,FK Slavia Mozyr,Torpedo-MAZ Minsk,1,1,D,NaN,NaN,NaN
+BLR,20/08/2000,,Neman-Belkard Grodno,FK Vedrich-97,1,0,H,NaN,NaN,NaN
+BLR,20/08/2000,,Naftan Novopolotsk,Dinamo Brest,1,2,A,NaN,NaN,NaN
+BLR,20/08/2000,,FK Gomel,Torpedo Mogilev,2,2,D,NaN,NaN,NaN
+BLR,20/08/2000,,BATE Borisov,Shakhter Soligorsk,4,1,H,NaN,NaN,NaN
+BLR,26/08/2000,,Dnepr Mogilev,Kommunalnik Slonim,2,0,H,NaN,NaN,NaN
+BLR,27/08/2000,,Shakhter Soligorsk,Lokomotiv-96 Vitebsk,4,0,H,NaN,NaN,NaN
+BLR,27/08/2000,,FK Vedrich-97,BATE Borisov,2,3,A,NaN,NaN,NaN
+BLR,27/08/2000,,Torpedo Mogilev,Naftan Novopolotsk,1,3,A,NaN,NaN,NaN
+BLR,27/08/2000,,Neman-Belkard Grodno,FK Lida,0,0,D,NaN,NaN,NaN
+BLR,27/08/2000,,Dinamo Brest,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+BLR,28/08/2000,,Torpedo-MAZ Minsk,FK Gomel,4,0,H,NaN,NaN,NaN
+BLR,28/08/2000,,Belshina Bobruisk,FK Slavia Mozyr,3,6,A,NaN,NaN,NaN
+BLR,06/09/2000,,Lokomotiv-96 Vitebsk,FK Vedrich-97,3,1,H,NaN,NaN,NaN
+BLR,06/09/2000,,FK Slavia Mozyr,Dnepr Mogilev,4,1,H,NaN,NaN,NaN
+BLR,06/09/2000,,Naftan Novopolotsk,Torpedo-MAZ Minsk,0,3,A,NaN,NaN,NaN
+BLR,06/09/2000,,Kommunalnik Slonim,Shakhter Soligorsk,1,1,D,NaN,NaN,NaN
+BLR,06/09/2000,,FK Lida,Dinamo Brest,0,1,A,NaN,NaN,NaN
+BLR,06/09/2000,,FK Gomel,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,06/09/2000,,BATE Borisov,Neman-Belkard Grodno,3,0,H,NaN,NaN,NaN
+BLR,06/09/2000,,Dinamo Minsk,Torpedo Mogilev,2,1,H,NaN,NaN,NaN
+BLR,10/09/2000,,Shakhter Soligorsk,FK Slavia Mozyr,2,2,D,NaN,NaN,NaN
+BLR,10/09/2000,,Neman-Belkard Grodno,Lokomotiv-96 Vitebsk,3,0,H,NaN,NaN,NaN
+BLR,10/09/2000,,FK Vedrich-97,Kommunalnik Slonim,1,0,H,NaN,NaN,NaN
+BLR,10/09/2000,,Torpedo-MAZ Minsk,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+BLR,10/09/2000,,Dnepr Mogilev,FK Gomel,3,1,H,NaN,NaN,NaN
+BLR,10/09/2000,,Belshina Bobruisk,Naftan Novopolotsk,1,3,A,NaN,NaN,NaN
+BLR,10/09/2000,,BATE Borisov,FK Lida,5,0,H,NaN,NaN,NaN
+BLR,10/09/2000,,Torpedo Mogilev,Dinamo Brest,0,2,A,NaN,NaN,NaN
+BLR,17/09/2000,,Lokomotiv-96 Vitebsk,BATE Borisov,0,0,D,NaN,NaN,NaN
+BLR,17/09/2000,,Kommunalnik Slonim,Neman-Belkard Grodno,1,1,D,NaN,NaN,NaN
+BLR,17/09/2000,,FK Lida,Torpedo Mogilev,3,0,H,NaN,NaN,NaN
+BLR,17/09/2000,,FK Gomel,Shakhter Soligorsk,2,1,H,NaN,NaN,NaN
+BLR,17/09/2000,,FK Slavia Mozyr,FK Vedrich-97,3,0,H,NaN,NaN,NaN
+BLR,17/09/2000,,Naftan Novopolotsk,Dnepr Mogilev,0,4,A,NaN,NaN,NaN
+BLR,17/09/2000,,Dinamo Brest,Torpedo-MAZ Minsk,1,1,D,NaN,NaN,NaN
+BLR,17/09/2000,,Dinamo Minsk,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,21/09/2000,,FK Vedrich-97,FK Gomel,1,3,A,NaN,NaN,NaN
+BLR,21/09/2000,,Belshina Bobruisk,Dinamo Brest,3,1,H,NaN,NaN,NaN
+BLR,21/09/2000,,Torpedo-MAZ Minsk,Torpedo Mogilev,1,4,A,NaN,NaN,NaN
+BLR,21/09/2000,,Shakhter Soligorsk,Naftan Novopolotsk,2,0,H,NaN,NaN,NaN
+BLR,21/09/2000,,Lokomotiv-96 Vitebsk,FK Lida,2,1,H,NaN,NaN,NaN
+BLR,21/09/2000,,BATE Borisov,Kommunalnik Slonim,6,0,H,NaN,NaN,NaN
+BLR,21/09/2000,,Neman-Belkard Grodno,FK Slavia Mozyr,1,2,A,NaN,NaN,NaN
+BLR,21/09/2000,,Dinamo Minsk,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,25/09/2000,,Kommunalnik Slonim,Lokomotiv-96 Vitebsk,0,1,A,NaN,NaN,NaN
+BLR,25/09/2000,,FK Lida,Torpedo-MAZ Minsk,0,2,A,NaN,NaN,NaN
+BLR,25/09/2000,,FK Gomel,Neman-Belkard Grodno,0,1,A,NaN,NaN,NaN
+BLR,25/09/2000,,Dinamo Brest,Dnepr Mogilev,1,6,A,NaN,NaN,NaN
+BLR,25/09/2000,,Torpedo Mogilev,Belshina Bobruisk,0,2,A,NaN,NaN,NaN
+BLR,25/09/2000,,FK Slavia Mozyr,BATE Borisov,2,0,H,NaN,NaN,NaN
+BLR,25/09/2000,,Naftan Novopolotsk,FK Vedrich-97,1,1,D,NaN,NaN,NaN
+BLR,25/09/2000,,Dinamo Minsk,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,29/09/2000,,FK Vedrich-97,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,29/09/2000,,Shakhter Soligorsk,Dinamo Brest,0,0,D,NaN,NaN,NaN
+BLR,29/09/2000,,Neman-Belkard Grodno,Naftan Novopolotsk,6,2,H,NaN,NaN,NaN
+BLR,29/09/2000,,Lokomotiv-96 Vitebsk,FK Slavia Mozyr,1,2,A,NaN,NaN,NaN
+BLR,29/09/2000,,Kommunalnik Slonim,FK Lida,3,0,H,NaN,NaN,NaN
+BLR,29/09/2000,,Dnepr Mogilev,Torpedo Mogilev,3,1,H,NaN,NaN,NaN
+BLR,29/09/2000,,Belshina Bobruisk,Torpedo-MAZ Minsk,0,1,A,NaN,NaN,NaN
+BLR,29/09/2000,,BATE Borisov,FK Gomel,2,0,H,NaN,NaN,NaN
+BLR,14/10/2000,,Dinamo Minsk,Neman-Belkard Grodno,3,0,H,NaN,NaN,NaN
+BLR,15/10/2000,,FK Slavia Mozyr,Kommunalnik Slonim,5,0,H,NaN,NaN,NaN
+BLR,15/10/2000,,Naftan Novopolotsk,BATE Borisov,0,7,A,NaN,NaN,NaN
+BLR,15/10/2000,,FK Gomel,Lokomotiv-96 Vitebsk,2,1,H,NaN,NaN,NaN
+BLR,15/10/2000,,Dinamo Brest,FK Vedrich-97,1,0,H,NaN,NaN,NaN
+BLR,15/10/2000,,Torpedo-MAZ Minsk,Dnepr Mogilev,1,2,A,NaN,NaN,NaN
+BLR,15/10/2000,,FK Lida,Belshina Bobruisk,0,1,A,NaN,NaN,NaN
+BLR,15/10/2000,,Torpedo Mogilev,Shakhter Soligorsk,1,4,A,NaN,NaN,NaN
+BLR,19/10/2000,,FK Vedrich-97,Torpedo Mogilev,3,1,H,NaN,NaN,NaN
+BLR,19/10/2000,,FK Slavia Mozyr,FK Lida,5,0,H,NaN,NaN,NaN
+BLR,19/10/2000,,Lokomotiv-96 Vitebsk,Naftan Novopolotsk,3,1,H,NaN,NaN,NaN
+BLR,19/10/2000,,Kommunalnik Slonim,FK Gomel,1,2,A,NaN,NaN,NaN
+BLR,19/10/2000,,BATE Borisov,Dinamo Minsk,3,1,H,NaN,NaN,NaN
+BLR,19/10/2000,,Shakhter Soligorsk,Torpedo-MAZ Minsk,2,0,H,NaN,NaN,NaN
+BLR,19/10/2000,,Neman-Belkard Grodno,Dinamo Brest,3,1,H,NaN,NaN,NaN
+BLR,19/10/2000,,Dnepr Mogilev,Belshina Bobruisk,1,0,H,NaN,NaN,NaN
+BLR,23/10/2000,,Torpedo Mogilev,Neman-Belkard Grodno,3,4,A,NaN,NaN,NaN
+BLR,23/10/2000,,Naftan Novopolotsk,Kommunalnik Slonim,2,0,H,NaN,NaN,NaN
+BLR,23/10/2000,,FK Lida,Dnepr Mogilev,0,0,D,NaN,NaN,NaN
+BLR,23/10/2000,,FK Gomel,FK Slavia Mozyr,1,0,H,NaN,NaN,NaN
+BLR,23/10/2000,,Dinamo Brest,BATE Borisov,0,1,A,NaN,NaN,NaN
+BLR,23/10/2000,,Belshina Bobruisk,Shakhter Soligorsk,5,2,H,NaN,NaN,NaN
+BLR,23/10/2000,,Dinamo Minsk,Lokomotiv-96 Vitebsk,2,2,D,NaN,NaN,NaN
+BLR,24/10/2000,,Torpedo-MAZ Minsk,FK Vedrich-97,1,0,H,NaN,NaN,NaN
+BLR,31/10/2000,,FK Vedrich-97,Belshina Bobruisk,0,2,A,NaN,NaN,NaN
+BLR,31/10/2000,,FK Slavia Mozyr,Naftan Novopolotsk,5,0,H,NaN,NaN,NaN
+BLR,31/10/2000,,Shakhter Soligorsk,Dnepr Mogilev,2,2,D,NaN,NaN,NaN
+BLR,31/10/2000,,Neman-Belkard Grodno,Torpedo-MAZ Minsk,2,1,H,NaN,NaN,NaN
+BLR,31/10/2000,,Lokomotiv-96 Vitebsk,Dinamo Brest,3,2,H,NaN,NaN,NaN
+BLR,31/10/2000,,Kommunalnik Slonim,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,31/10/2000,,FK Gomel,FK Lida,2,1,H,NaN,NaN,NaN
+BLR,31/10/2000,,BATE Borisov,Torpedo Mogilev,4,0,H,NaN,NaN,NaN
+BLR,04/11/2000,,Torpedo-MAZ Minsk,BATE Borisov,0,1,A,NaN,NaN,NaN
+BLR,04/11/2000,,Torpedo Mogilev,Lokomotiv-96 Vitebsk,3,2,H,NaN,NaN,NaN
+BLR,04/11/2000,,Naftan Novopolotsk,FK Gomel,1,2,A,NaN,NaN,NaN
+BLR,04/11/2000,,FK Lida,Shakhter Soligorsk,0,3,A,NaN,NaN,NaN
+BLR,04/11/2000,,Dinamo Minsk,FK Slavia Mozyr,0,1,A,NaN,NaN,NaN
+BLR,04/11/2000,,Dinamo Brest,Kommunalnik Slonim,5,2,H,NaN,NaN,NaN
+BLR,04/11/2000,,Dnepr Mogilev,FK Vedrich-97,1,1,D,NaN,NaN,NaN
+BLR,04/11/2000,,Belshina Bobruisk,Neman-Belkard Grodno,1,1,D,NaN,NaN,NaN

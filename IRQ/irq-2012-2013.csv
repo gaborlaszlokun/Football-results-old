@@ -1,0 +1,306 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRQ,19/10/2012,13:00,Karbalaa FC,Baghdad FC,2,1,H,NaN,NaN,NaN
+IRQ,19/10/2012,13:00,Naft Al Janoob,Al Zawraa,2,2,D,NaN,NaN,NaN
+IRQ,19/10/2012,16:00,Al Quwa Al Jawiya,Al Kahraba,3,1,H,NaN,NaN,NaN
+IRQ,20/10/2012,13:00,Al Najaf,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,20/10/2012,13:00,Al Minaa,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,20/10/2012,13:00,Al Sinaa,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,20/10/2012,13:00,Kirkuk FC,Duhok,0,4,A,NaN,NaN,NaN
+IRQ,20/10/2012,13:00,Sulaymaniyah FC,Al Masafi,0,1,A,NaN,NaN,NaN
+IRQ,18/03/2013,11:30,Zakho,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,25/10/2012,13:00,Baghdad FC,Kirkuk FC,1,1,D,NaN,NaN,NaN
+IRQ,26/10/2012,13:00,Al Masafi,Al Kahraba,2,0,H,NaN,NaN,NaN
+IRQ,26/10/2012,13:00,Al Talaba,Naft Al Janoob,0,1,A,NaN,NaN,NaN
+IRQ,26/10/2012,13:00,Al Shorta,Al Najaf,2,0,H,NaN,NaN,NaN
+IRQ,26/10/2012,13:00,Al Minaa,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,27/10/2012,14:00,Al Zawraa,Karbalaa FC,2,2,D,NaN,NaN,NaN
+IRQ,27/10/2012,14:00,Al Naft,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,27/10/2012,14:00,Duhok,Sulaymaniyah FC,4,0,H,NaN,NaN,NaN
+IRQ,25/03/2013,11:30,Erbil,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,01/11/2012,11:30,Al Najaf,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,01/11/2012,11:30,Al Quwa Al Jawiya,Al Naft,0,0,D,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Karbalaa FC,Al Talaba,3,2,H,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Naft Al Janoob,Al Sinaa,2,2,D,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Al Kahraba,Sulaymaniyah FC,1,0,H,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Baghdad FC,Duhok,1,2,A,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Kirkuk FC,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,02/11/2012,11:30,Zakho,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,29/03/2013,11:30,Al Masafi,Erbil,1,1,D,NaN,NaN,NaN
+IRQ,15/11/2012,10:45,Naft Al Janoob,Al Najaf,3,1,H,NaN,NaN,NaN
+IRQ,16/11/2012,11:30,Al Sinaa,Karbalaa FC,1,2,A,NaN,NaN,NaN
+IRQ,16/11/2012,11:30,Al Minaa,Zakho,2,1,H,NaN,NaN,NaN
+IRQ,17/11/2012,10:45,Erbil,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,17/11/2012,10:45,Sulaymaniyah FC,Baghdad FC,1,1,D,NaN,NaN,NaN
+IRQ,17/11/2012,10:45,Al Zawraa,Duhok,1,1,D,NaN,NaN,NaN
+IRQ,17/11/2012,10:45,Al Talaba,Kirkuk FC,2,0,H,NaN,NaN,NaN
+IRQ,17/11/2012,10:45,Al Naft,Al Masafi,4,2,H,NaN,NaN,NaN
+IRQ,18/11/2012,14:00,Al Shorta,Al Quwa Al Jawiya,4,1,H,NaN,NaN,NaN
+IRQ,21/11/2012,11:30,Al Najaf,Karbalaa FC,1,1,D,NaN,NaN,NaN
+IRQ,22/11/2012,11:30,Baghdad FC,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,22/11/2012,11:30,Al Quwa Al Jawiya,Al Minaa,1,3,A,NaN,NaN,NaN
+IRQ,22/11/2012,11:30,Al Kahraba,Al Naft,2,1,H,NaN,NaN,NaN
+IRQ,22/11/2012,11:30,Al Masafi,Al Shorta,2,3,A,NaN,NaN,NaN
+IRQ,23/11/2012,11:30,Zakho,Naft Al Janoob,2,2,D,NaN,NaN,NaN
+IRQ,23/11/2012,11:30,Duhok,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,23/11/2012,11:30,Kirkuk FC,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,24/11/2012,11:30,Sulaymaniyah FC,Erbil,2,3,A,NaN,NaN,NaN
+IRQ,29/11/2012,11:30,Al Shorta,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,30/11/2012,11:30,Al Zawraa,Sulaymaniyah FC,4,0,H,NaN,NaN,NaN
+IRQ,30/11/2012,11:30,Erbil,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,30/11/2012,11:30,Al Talaba,Baghdad FC,0,2,A,NaN,NaN,NaN
+IRQ,30/11/2012,11:30,Al Minaa,Al Masafi,0,0,D,NaN,NaN,NaN
+IRQ,01/12/2012,11:30,Al Sinaa,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,01/12/2012,11:30,Kirkuk FC,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,01/12/2012,11:30,Karbalaa FC,Zakho,3,2,H,NaN,NaN,NaN
+IRQ,09/03/2013,11:30,Naft Al Janoob,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
+IRQ,07/12/2012,11:30,Al Kahraba,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,07/12/2012,11:30,Duhok,Al Najaf,3,2,H,NaN,NaN,NaN
+IRQ,08/12/2012,11:30,Al Naft,Sulaymaniyah FC,0,2,A,NaN,NaN,NaN
+IRQ,08/12/2012,11:30,Baghdad FC,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,08/12/2012,11:30,Zakho,Kirkuk FC,4,0,H,NaN,NaN,NaN
+IRQ,09/12/2012,11:30,Al Zawraa,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,09/12/2012,11:30,Al Masafi,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,10/12/2012,11:30,Al Quwa Al Jawiya,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,19/04/2013,15:00,Erbil,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,15/12/2012,11:30,Duhok,Zakho,2,2,D,NaN,NaN,NaN
+IRQ,15/12/2012,11:30,Al Najaf,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,15/12/2012,11:30,Naft Al Janoob,Al Kahraba,4,1,H,NaN,NaN,NaN
+IRQ,16/12/2012,11:30,Al Shorta,Al Naft,2,2,D,NaN,NaN,NaN
+IRQ,16/12/2012,11:30,Al Sinaa,Al Zawraa,1,0,H,NaN,NaN,NaN
+IRQ,16/12/2012,11:30,Sulaymaniyah FC,Al Talaba,2,1,H,NaN,NaN,NaN
+IRQ,16/12/2012,11:30,Karbalaa FC,Al Masafi,0,0,D,NaN,NaN,NaN
+IRQ,17/12/2012,11:30,Kirkuk FC,Al Quwa Al Jawiya,0,3,A,NaN,NaN,NaN
+IRQ,06/07/2013,15:00,Al Minaa,Erbil,2,3,A,NaN,NaN,NaN
+IRQ,21/12/2012,11:30,Al Zawraa,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,22/12/2012,11:30,Al Kahraba,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,22/12/2012,11:30,Al Talaba,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,22/12/2012,11:30,Sulaymaniyah FC,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,23/12/2012,11:30,Erbil,Naft Al Janoob,0,1,A,NaN,NaN,NaN
+IRQ,23/12/2012,11:30,Al Masafi,Kirkuk FC,3,0,H,NaN,NaN,NaN
+IRQ,23/12/2012,11:30,Al Quwa Al Jawiya,Duhok,2,1,H,NaN,NaN,NaN
+IRQ,23/12/2012,11:30,Al Naft,Al Minaa,2,1,H,NaN,NaN,NaN
+IRQ,23/12/2012,11:30,Zakho,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,21/01/2013,11:30,Al Sinaa,Sulaymaniyah FC,0,0,D,NaN,NaN,NaN
+IRQ,21/01/2013,11:30,Kirkuk FC,Al Kahraba,1,1,D,NaN,NaN,NaN
+IRQ,21/01/2013,11:30,Zakho,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,22/01/2013,11:30,Al Shorta,Al Minaa,4,1,H,NaN,NaN,NaN
+IRQ,22/01/2013,11:30,Al Najaf,Al Talaba,3,1,H,NaN,NaN,NaN
+IRQ,22/01/2013,11:30,Naft Al Janoob,Al Naft,3,1,H,NaN,NaN,NaN
+IRQ,22/01/2013,11:30,Baghdad FC,Al Quwa Al Jawiya,2,1,H,NaN,NaN,NaN
+IRQ,23/01/2013,11:30,Duhok,Al Masafi,2,1,H,NaN,NaN,NaN
+IRQ,23/01/2013,11:30,Karbalaa FC,Erbil,1,1,D,NaN,NaN,NaN
+IRQ,27/01/2013,11:30,Al Talaba,Zakho,2,3,A,NaN,NaN,NaN
+IRQ,27/01/2013,11:30,Al Shorta,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,27/01/2013,11:30,Al Najaf,Al Sinaa,1,0,H,NaN,NaN,NaN
+IRQ,27/01/2013,11:30,Al Minaa,Sulaymaniyah FC,5,2,H,NaN,NaN,NaN
+IRQ,27/01/2013,11:30,Al Kahraba,Duhok,1,1,D,NaN,NaN,NaN
+IRQ,27/01/2013,14:00,Al Quwa Al Jawiya,Al Zawraa,3,3,D,NaN,NaN,NaN
+IRQ,28/01/2013,12:30,Al Naft,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,28/01/2013,12:30,Erbil,Kirkuk FC,6,0,H,NaN,NaN,NaN
+IRQ,28/01/2013,12:30,Al Masafi,Baghdad FC,0,1,A,NaN,NaN,NaN
+IRQ,01/02/2013,11:30,Sulaymaniyah FC,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,01/02/2013,11:30,Naft Al Janoob,Al Minaa,4,3,H,NaN,NaN,NaN
+IRQ,01/02/2013,11:30,Al Sinaa,Zakho,0,1,A,NaN,NaN,NaN
+IRQ,01/02/2013,14:00,Al Talaba,Al Quwa Al Jawiya,1,2,A,NaN,NaN,NaN
+IRQ,02/02/2013,11:30,Karbalaa FC,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,02/02/2013,11:30,Kirkuk FC,Al Naft,0,0,D,NaN,NaN,NaN
+IRQ,02/02/2013,11:30,Al Zawraa,Al Masafi,2,1,H,NaN,NaN,NaN
+IRQ,02/02/2013,11:30,Duhok,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,02/02/2013,11:30,Baghdad FC,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,06/02/2013,11:30,Zakho,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,06/02/2013,11:30,Naft Al Janoob,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,07/02/2013,11:30,Al Shorta,Kirkuk FC,1,0,H,NaN,NaN,NaN
+IRQ,07/02/2013,11:30,Al Minaa,Karbalaa FC,4,4,D,NaN,NaN,NaN
+IRQ,07/02/2013,11:30,Al Kahraba,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,07/02/2013,11:30,Al Masafi,Al Talaba,1,1,D,NaN,NaN,NaN
+IRQ,08/02/2013,11:30,Al Naft,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,09/02/2013,11:30,Erbil,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,14/03/2013,11:30,Al Quwa Al Jawiya,Al Sinaa,1,0,H,NaN,NaN,NaN
+IRQ,11/02/2013,11:30,Sulaymaniyah FC,Zakho,0,1,A,NaN,NaN,NaN
+IRQ,12/02/2013,11:30,Al Talaba,Al Kahraba,2,0,H,NaN,NaN,NaN
+IRQ,12/02/2013,11:30,Al Sinaa,Al Masafi,1,0,H,NaN,NaN,NaN
+IRQ,12/02/2013,11:30,Kirkuk FC,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,12/02/2013,11:30,Karbalaa FC,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,13/02/2013,11:30,Duhok,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,14/02/2013,11:30,Al Zawraa,Erbil,0,1,A,NaN,NaN,NaN
+IRQ,14/02/2013,11:30,Baghdad FC,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,19/03/2013,11:30,Al Najaf,Al Quwa Al Jawiya,3,1,H,NaN,NaN,NaN
+IRQ,17/02/2013,12:30,Sulaymaniyah FC,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,17/02/2013,12:30,Al Kahraba,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,17/02/2013,12:30,Naft Al Janoob,Kirkuk FC,2,0,H,NaN,NaN,NaN
+IRQ,17/02/2013,12:30,Al Masafi,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,18/02/2013,11:30,Al Minaa,Duhok,1,2,A,NaN,NaN,NaN
+IRQ,19/02/2013,11:00,Al Shorta,Baghdad FC,1,1,D,NaN,NaN,NaN
+IRQ,19/02/2013,11:30,Al Naft,Al Zawraa,1,2,A,NaN,NaN,NaN
+IRQ,19/02/2013,14:00,Erbil,Al Talaba,3,1,H,NaN,NaN,NaN
+IRQ,29/03/2013,11:30,Zakho,Al Quwa Al Jawiya,3,2,H,NaN,NaN,NaN
+IRQ,22/02/2013,11:30,Karbalaa FC,Kirkuk FC,4,0,H,NaN,NaN,NaN
+IRQ,22/02/2013,11:30,Al Najaf,Al Kahraba,1,3,A,NaN,NaN,NaN
+IRQ,22/02/2013,11:30,Zakho,Al Masafi,1,0,H,NaN,NaN,NaN
+IRQ,23/02/2013,11:30,Duhok,Naft Al Janoob,4,2,H,NaN,NaN,NaN
+IRQ,24/02/2013,11:30,Baghdad FC,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,24/02/2013,11:30,Al Sinaa,Erbil,1,1,D,NaN,NaN,NaN
+IRQ,24/02/2013,11:30,Al Talaba,Al Naft,0,0,D,NaN,NaN,NaN
+IRQ,24/02/2013,14:00,Al Zawraa,Al Shorta,1,2,A,NaN,NaN,NaN
+IRQ,03/04/2013,12:30,Al Quwa Al Jawiya,Sulaymaniyah FC,2,0,H,NaN,NaN,NaN
+IRQ,27/02/2013,11:30,Kirkuk FC,Sulaymaniyah FC,1,2,A,NaN,NaN,NaN
+IRQ,27/02/2013,11:30,Al Kahraba,Zakho,1,2,A,NaN,NaN,NaN
+IRQ,28/02/2013,11:30,Karbalaa FC,Duhok,1,1,D,NaN,NaN,NaN
+IRQ,28/02/2013,13:30,Erbil,Al Najaf,4,1,H,NaN,NaN,NaN
+IRQ,01/03/2013,11:30,Al Naft,Al Sinaa,3,1,H,NaN,NaN,NaN
+IRQ,01/03/2013,11:30,Al Minaa,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,01/03/2013,11:30,Baghdad FC,Naft Al Janoob,1,1,D,NaN,NaN,NaN
+IRQ,01/03/2013,14:00,Al Shorta,Al Talaba,1,1,D,NaN,NaN,NaN
+IRQ,04/03/2013,11:30,Al Masafi,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,06/04/2013,14:00,Baghdad FC,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,06/04/2013,14:00,Al Naft,Al Najaf,4,1,H,NaN,NaN,NaN
+IRQ,06/04/2013,14:00,Al Shorta,Al Sinaa,3,0,H,NaN,NaN,NaN
+IRQ,07/04/2013,14:00,Al Zawraa,Naft Al Janoob,3,2,H,NaN,NaN,NaN
+IRQ,07/04/2013,14:00,Al Talaba,Al Minaa,0,3,A,NaN,NaN,NaN
+IRQ,07/04/2013,14:00,Al Masafi,Sulaymaniyah FC,2,1,H,NaN,NaN,NaN
+IRQ,08/04/2013,14:00,Al Kahraba,Al Quwa Al Jawiya,0,3,A,NaN,NaN,NaN
+IRQ,19/04/2013,13:30,Duhok,Kirkuk FC,4,0,H,NaN,NaN,NaN
+IRQ,19/07/2013,19:30,Erbil,Zakho,2,1,H,NaN,NaN,NaN
+IRQ,12/04/2013,14:00,Al Sinaa,Al Minaa,0,6,A,NaN,NaN,NaN
+IRQ,13/04/2013,13:30,Karbalaa FC,Al Zawraa,0,2,A,NaN,NaN,NaN
+IRQ,13/04/2013,13:30,Kirkuk FC,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,13/04/2013,13:30,Naft Al Janoob,Al Talaba,1,1,D,NaN,NaN,NaN
+IRQ,13/04/2013,13:30,Zakho,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,13/04/2013,14:00,Al Kahraba,Al Masafi,1,0,H,NaN,NaN,NaN
+IRQ,14/04/2013,13:30,Al Najaf,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,14/04/2013,13:30,Sulaymaniyah FC,Duhok,1,3,A,NaN,NaN,NaN
+IRQ,14/04/2013,14:00,Al Quwa Al Jawiya,Erbil,3,0,H,NaN,NaN,NaN
+IRQ,26/04/2013,14:00,Al Talaba,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,26/04/2013,14:00,Al Sinaa,Naft Al Janoob,1,1,D,NaN,NaN,NaN
+IRQ,27/04/2013,13:30,Al Naft,Al Quwa Al Jawiya,2,2,D,NaN,NaN,NaN
+IRQ,27/04/2013,13:30,Al Minaa,Al Najaf,3,1,H,NaN,NaN,NaN
+IRQ,27/04/2013,14:00,Al Shorta,Zakho,2,0,H,NaN,NaN,NaN
+IRQ,29/04/2013,14:00,Al Zawraa,Kirkuk FC,7,0,H,NaN,NaN,NaN
+IRQ,01/05/2013,13:30,Sulaymaniyah FC,Al Kahraba,3,1,H,NaN,NaN,NaN
+IRQ,07/07/2013,17:00,Duhok,Baghdad FC,2,0,H,NaN,NaN,NaN
+IRQ,03/08/2013,20:00,Erbil,Al Masafi,3,0,H,NaN,NaN,NaN
+IRQ,03/05/2013,14:00,Karbalaa FC,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,04/05/2013,14:00,Al Najaf,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,04/05/2013,14:30,Al Masafi,Al Naft,1,2,A,NaN,NaN,NaN
+IRQ,04/05/2013,14:30,Kirkuk FC,Al Talaba,2,1,H,NaN,NaN,NaN
+IRQ,04/05/2013,14:30,Al Quwa Al Jawiya,Al Shorta,4,0,H,NaN,NaN,NaN
+IRQ,05/05/2013,14:00,Zakho,Al Minaa,2,3,A,NaN,NaN,NaN
+IRQ,06/05/2013,14:00,Duhok,Al Zawraa,1,3,A,NaN,NaN,NaN
+IRQ,06/05/2013,14:30,Baghdad FC,Sulaymaniyah FC,3,2,H,NaN,NaN,NaN
+IRQ,06/05/2013,14:30,Al Kahraba,Erbil,3,5,A,NaN,NaN,NaN
+IRQ,09/05/2013,14:00,Al Shorta,Al Masafi,5,0,H,NaN,NaN,NaN
+IRQ,09/05/2013,14:00,Karbalaa FC,Al Najaf,1,1,D,NaN,NaN,NaN
+IRQ,10/05/2013,14:00,Al Sinaa,Kirkuk FC,0,1,A,NaN,NaN,NaN
+IRQ,10/05/2013,14:00,Al Naft,Al Kahraba,1,2,A,NaN,NaN,NaN
+IRQ,10/05/2013,14:00,Al Minaa,Al Quwa Al Jawiya,1,3,A,NaN,NaN,NaN
+IRQ,10/05/2013,14:00,Naft Al Janoob,Zakho,3,3,D,NaN,NaN,NaN
+IRQ,10/05/2013,16:00,Erbil,Sulaymaniyah FC,4,1,H,NaN,NaN,NaN
+IRQ,11/05/2013,14:00,Al Zawraa,Baghdad FC,2,2,D,NaN,NaN,NaN
+IRQ,19/07/2013,15:00,Al Talaba,Duhok,2,2,D,NaN,NaN,NaN
+IRQ,14/05/2013,14:00,Al Kahraba,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,14/05/2013,14:00,Al Najaf,Kirkuk FC,1,0,H,NaN,NaN,NaN
+IRQ,15/05/2013,14:00,Sulaymaniyah FC,Al Zawraa,0,2,A,NaN,NaN,NaN
+IRQ,15/05/2013,14:00,Zakho,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,15/05/2013,14:30,Baghdad FC,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,15/05/2013,14:30,Al Masafi,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,15/05/2013,14:30,Al Quwa Al Jawiya,Naft Al Janoob,2,0,H,NaN,NaN,NaN
+IRQ,11/08/2013,15:00,Al Naft,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,11/08/2013,20:00,Duhok,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,21/06/2013,14:00,Kirkuk FC,Zakho,0,1,A,NaN,NaN,NaN
+IRQ,21/06/2013,14:00,Sulaymaniyah FC,Al Naft,0,2,A,NaN,NaN,NaN
+IRQ,21/06/2013,15:00,Al Talaba,Al Zawraa,1,2,A,NaN,NaN,NaN
+IRQ,22/06/2013,14:00,Al Minaa,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,22/06/2013,14:00,Naft Al Janoob,Al Masafi,1,1,D,NaN,NaN,NaN
+IRQ,22/06/2013,14:30,Al Sinaa,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,23/06/2013,14:00,Karbalaa FC,Al Quwa Al Jawiya,2,4,A,NaN,NaN,NaN
+IRQ,23/06/2013,14:00,Al Najaf,Duhok,2,1,H,NaN,NaN,NaN
+IRQ,22/08/2013,15:00,Al Shorta,Erbil,1,1,D,NaN,NaN,NaN
+IRQ,26/06/2013,,Al Talaba,Sulaymaniyah FC,3,0,H,NaN,NaN,NaN
+IRQ,27/06/2013,14:00,Zakho,Duhok,1,0,H,NaN,NaN,NaN
+IRQ,27/06/2013,15:00,Al Naft,Al Shorta,1,2,A,NaN,NaN,NaN
+IRQ,27/06/2013,15:00,Al Zawraa,Al Sinaa,3,0,H,NaN,NaN,NaN
+IRQ,27/06/2013,15:00,Baghdad FC,Al Najaf,0,3,A,NaN,NaN,NaN
+IRQ,27/06/2013,15:00,Al Quwa Al Jawiya,Kirkuk FC,3,0,H,NaN,NaN,NaN
+IRQ,27/06/2013,17:00,Erbil,Al Minaa,8,1,H,NaN,NaN,NaN
+IRQ,19/07/2013,15:00,Al Masafi,Karbalaa FC,0,1,A,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Al Shorta,Sulaymaniyah FC,4,0,H,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Al Sinaa,Al Talaba,2,0,H,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Al Minaa,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Al Najaf,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Baghdad FC,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Kirkuk FC,Al Masafi,0,1,A,NaN,NaN,NaN
+IRQ,03/07/2013,15:00,Naft Al Janoob,Erbil,1,1,D,NaN,NaN,NaN
+IRQ,03/08/2013,20:00,Duhok,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,11/08/2013,15:00,Karbalaa FC,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,07/07/2013,15:00,Al Zawraa,Zakho,4,1,H,NaN,NaN,NaN
+IRQ,09/07/2013,15:00,Sulaymaniyah FC,Al Sinaa,2,0,H,NaN,NaN,NaN
+IRQ,09/07/2013,15:00,Al Kahraba,Kirkuk FC,2,0,H,NaN,NaN,NaN
+IRQ,10/07/2013,15:00,Al Talaba,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,10/07/2013,15:00,Al Naft,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,10/07/2013,15:00,Al Minaa,Al Shorta,2,1,H,NaN,NaN,NaN
+IRQ,11/07/2013,15:00,Al Masafi,Duhok,1,0,H,NaN,NaN,NaN
+IRQ,23/08/2013,15:00,Al Quwa Al Jawiya,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,26/08/2013,14:30,Erbil,Karbalaa FC,3,0,H,NaN,NaN,NaN
+IRQ,14/07/2013,15:00,Kirkuk FC,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,15/07/2013,15:00,Al Sinaa,Al Najaf,0,0,D,NaN,NaN,NaN
+IRQ,15/07/2013,15:00,Zakho,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,15/07/2013,15:00,Naft Al Janoob,Al Shorta,0,2,A,NaN,NaN,NaN
+IRQ,15/07/2013,15:00,Baghdad FC,Al Masafi,1,0,H,NaN,NaN,NaN
+IRQ,15/07/2013,19:00,Duhok,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,16/07/2013,19:00,Sulaymaniyah FC,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,11/08/2013,15:00,Al Zawraa,Al Quwa Al Jawiya,1,2,A,NaN,NaN,NaN
+IRQ,22/08/2013,15:00,Karbalaa FC,Al Naft,0,3,A,NaN,NaN,NaN
+IRQ,23/07/2013,15:00,Al Najaf,Sulaymaniyah FC,4,2,H,NaN,NaN,NaN
+IRQ,23/07/2013,15:00,Al Naft,Kirkuk FC,3,2,H,NaN,NaN,NaN
+IRQ,24/07/2013,15:00,Al Masafi,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,24/07/2013,15:00,Zakho,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,24/07/2013,15:00,Al Shorta,Karbalaa FC,3,2,H,NaN,NaN,NaN
+IRQ,24/07/2013,15:00,Al Kahraba,Baghdad FC,0,2,A,NaN,NaN,NaN
+IRQ,24/07/2013,15:00,Al Minaa,Naft Al Janoob,0,2,A,NaN,NaN,NaN
+IRQ,24/07/2013,19:30,Al Quwa Al Jawiya,Al Talaba,2,1,H,NaN,NaN,NaN
+IRQ,24/07/2013,20:00,Erbil,Duhok,0,1,A,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Karbalaa FC,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Al Najaf,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Al Sinaa,Al Quwa Al Jawiya,2,1,H,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Al Talaba,Al Masafi,0,1,A,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Al Zawraa,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Baghdad FC,Erbil,1,0,H,NaN,NaN,NaN
+IRQ,29/07/2013,15:00,Kirkuk FC,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,29/07/2013,19:30,Sulaymaniyah FC,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,29/07/2013,20:00,Duhok,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,05/08/2013,15:00,Al Minaa,Kirkuk FC,3,0,H,NaN,NaN,NaN
+IRQ,05/08/2013,15:00,Naft Al Janoob,Karbalaa FC,2,2,D,NaN,NaN,NaN
+IRQ,06/08/2013,15:00,Al Naft,Baghdad FC,2,4,A,NaN,NaN,NaN
+IRQ,06/08/2013,15:00,Zakho,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,07/08/2013,15:00,Al Shorta,Duhok,4,3,H,NaN,NaN,NaN
+IRQ,07/08/2013,15:00,Al Quwa Al Jawiya,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,07/08/2013,15:00,Al Kahraba,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,07/08/2013,15:00,Al Masafi,Al Sinaa,2,2,D,NaN,NaN,NaN
+IRQ,07/08/2013,20:00,Erbil,Al Zawraa,2,1,H,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Kirkuk FC,Naft Al Janoob,1,2,A,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Al Najaf,Al Masafi,1,0,H,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Al Talaba,Erbil,2,2,D,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Al Zawraa,Al Naft,4,0,H,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Al Sinaa,Al Kahraba,1,1,D,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Duhok,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Karbalaa FC,Sulaymaniyah FC,0,0,D,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Al Quwa Al Jawiya,Zakho,1,0,H,NaN,NaN,NaN
+IRQ,18/08/2013,14:30,Baghdad FC,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Al Shorta,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Al Naft,Al Talaba,1,2,A,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Kirkuk FC,Karbalaa FC,0,1,A,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Sulaymaniyah FC,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Erbil,Al Sinaa,1,0,H,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Al Minaa,Baghdad FC,2,1,H,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Al Kahraba,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Naft Al Janoob,Duhok,1,1,D,NaN,NaN,NaN
+IRQ,31/08/2013,14:30,Al Masafi,Zakho,2,1,H,NaN,NaN,NaN
+IRQ,03/09/2013,14:15,Al Sinaa,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,03/09/2013,14:15,Naft Al Janoob,Baghdad FC,0,3,A,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Al Talaba,Al Shorta,0,3,A,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Al Zawraa,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Duhok,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Sulaymaniyah FC,Kirkuk FC,6,2,H,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Zakho,Al Kahraba,6,2,H,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Al Najaf,Erbil,0,1,A,NaN,NaN,NaN
+IRQ,04/09/2013,14:15,Al Quwa Al Jawiya,Al Masafi,2,0,H,NaN,NaN,NaN

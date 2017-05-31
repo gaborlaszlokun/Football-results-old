@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GUA,17/01/2015,21:00,Deportivo Guastatoya,Deportivo Petapa,2,0,H,1,0,H
+GUA,18/01/2015,00:00,Deportivo Suchitepéquez,Comunicaciones,1,5,A,1,2,A
+GUA,18/01/2015,02:30,Xelaju MC,Deportivo Malacateco,4,0,H,2,0,H
+GUA,18/01/2015,17:00,CSD Municipal,Halcones FC,1,0,H,1,0,H
+GUA,18/01/2015,17:05,Universidad SC,Deportivo Marquense,1,1,D,1,0,H
+GUA,18/01/2015,18:00,Deportivo Coatepeque,Antigua GFC,0,1,A,0,1,A
+GUA,21/01/2015,21:15,Halcones FC,Deportivo Guastatoya,1,0,H,1,0,H
+GUA,21/01/2015,21:15,Antigua GFC,CSD Municipal,0,0,D,0,0,D
+GUA,21/01/2015,21:30,Deportivo Malacateco,Deportivo Coatepeque,4,1,H,3,0,H
+GUA,22/01/2015,02:00,Comunicaciones,Xelaju MC,2,0,H,1,0,H
+GUA,22/01/2015,02:00,Deportivo Petapa,Universidad SC,1,0,H,0,0,D
+GUA,22/01/2015,16:00,Deportivo Marquense,Deportivo Suchitepéquez,1,1,D,NaN,NaN,NaN
+GUA,24/01/2015,22:00,Comunicaciones,Deportivo Malacateco,1,1,D,0,1,A
+GUA,25/01/2015,00:05,Deportivo Suchitepéquez,Deportivo Petapa,2,1,H,NaN,NaN,NaN
+GUA,25/01/2015,17:05,Universidad SC,Halcones FC,3,0,H,3,0,H
+GUA,25/01/2015,18:00,Deportivo Coatepeque,CSD Municipal,0,1,A,0,0,D
+GUA,25/01/2015,21:00,Deportivo Guastatoya,Antigua GFC,0,1,A,0,0,D
+GUA,26/01/2015,00:00,Xelaju MC,Deportivo Marquense,0,0,D,0,0,D
+GUA,01/02/2015,02:00,Deportivo Marquense,Comunicaciones,0,2,A,0,1,A
+GUA,01/02/2015,02:00,Deportivo Petapa,Xelaju MC,2,1,H,0,1,A
+GUA,01/02/2015,17:00,CSD Municipal,Deportivo Malacateco,0,0,D,0,0,D
+GUA,01/02/2015,17:30,Antigua GFC,Universidad SC,2,0,H,1,0,H
+GUA,01/02/2015,18:00,Halcones FC,Deportivo Suchitepéquez,1,1,D,1,0,H
+GUA,01/02/2015,18:00,Deportivo Coatepeque,Deportivo Guastatoya,0,2,A,0,1,A
+GUA,04/02/2015,21:00,Deportivo Guastatoya,CSD Municipal,1,1,D,0,0,D
+GUA,04/02/2015,21:35,Universidad SC,Deportivo Coatepeque,0,1,A,0,0,D
+GUA,05/02/2015,02:00,Comunicaciones,Deportivo Petapa,1,0,H,1,0,H
+GUA,05/02/2015,02:00,Deportivo Suchitepéquez,Antigua GFC,2,1,H,1,1,D
+GUA,05/02/2015,02:30,Xelaju MC,Halcones FC,3,0,H,1,0,H
+GUA,05/02/2015,20:00,Deportivo Malacateco,Deportivo Marquense,1,0,H,0,0,D
+GUA,08/02/2015,02:00,Deportivo Petapa,Deportivo Marquense,1,1,D,0,0,D
+GUA,08/02/2015,17:00,CSD Municipal,Universidad SC,2,0,H,0,0,D
+GUA,08/02/2015,17:30,Antigua GFC,Xelaju MC,1,1,D,0,1,A
+GUA,08/02/2015,18:00,Halcones FC,Comunicaciones,0,1,A,0,1,A
+GUA,08/02/2015,18:00,Deportivo Coatepeque,Deportivo Suchitepéquez,0,1,A,0,0,D
+GUA,08/02/2015,21:00,Deportivo Guastatoya,Deportivo Malacateco,1,0,H,1,0,H
+GUA,14/02/2015,22:00,Comunicaciones,Antigua GFC,0,1,A,0,1,A
+GUA,15/02/2015,00:00,Deportivo Suchitepéquez,CSD Municipal,2,0,H,1,0,H
+GUA,15/02/2015,02:00,Deportivo Marquense,Halcones FC,1,1,D,0,0,D
+GUA,15/02/2015,02:30,Xelaju MC,Deportivo Coatepeque,2,0,H,0,0,D
+GUA,15/02/2015,17:05,Universidad SC,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,15/02/2015,20:00,Deportivo Malacateco,Deportivo Petapa,1,1,D,1,0,H
+GUA,18/02/2015,18:30,CSD Municipal,Xelaju MC,1,0,H,1,0,H
+GUA,18/02/2015,21:00,Deportivo Coatepeque,Comunicaciones,0,2,A,0,0,D
+GUA,18/02/2015,21:00,Deportivo Guastatoya,Deportivo Suchitepéquez,0,2,A,0,1,A
+GUA,18/02/2015,21:15,Halcones FC,Deportivo Petapa,0,0,D,0,0,D
+GUA,18/02/2015,21:30,Antigua GFC,Deportivo Marquense,0,1,A,0,0,D
+GUA,18/02/2015,21:35,Universidad SC,Deportivo Malacateco,4,2,H,1,2,A
+GUA,21/02/2015,21:45,Deportivo Suchitepéquez,Universidad SC,1,1,D,0,0,D
+GUA,21/02/2015,22:00,Comunicaciones,CSD Municipal,0,2,A,0,1,A
+GUA,22/02/2015,02:00,Deportivo Marquense,Deportivo Coatepeque,2,1,H,1,1,D
+GUA,22/02/2015,02:00,Deportivo Petapa,Antigua GFC,1,0,H,0,0,D
+GUA,22/02/2015,20:00,Deportivo Malacateco,Halcones FC,2,1,H,0,0,D
+GUA,23/02/2015,00:00,Xelaju MC,Deportivo Guastatoya,0,0,D,0,0,D
+GUA,28/02/2015,21:30,Antigua GFC,Halcones FC,4,0,H,2,0,H
+GUA,01/03/2015,00:00,Deportivo Suchitepéquez,Deportivo Malacateco,4,0,H,1,0,H
+GUA,01/03/2015,17:00,CSD Municipal,Deportivo Marquense,0,1,A,0,1,A
+GUA,01/03/2015,17:05,Universidad SC,Xelaju MC,0,2,A,0,2,A
+GUA,01/03/2015,21:00,Deportivo Coatepeque,Deportivo Petapa,2,1,H,1,1,D
+GUA,01/03/2015,21:00,Deportivo Guastatoya,Comunicaciones,3,3,D,0,3,A
+GUA,07/03/2015,22:00,Xelaju MC,Deportivo Suchitepéquez,2,2,D,2,0,H
+GUA,07/03/2015,22:00,Comunicaciones,Universidad SC,5,0,H,NaN,NaN,NaN
+GUA,08/03/2015,02:00,Deportivo Petapa,CSD Municipal,3,1,H,1,1,D
+GUA,08/03/2015,02:00,Deportivo Marquense,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,08/03/2015,18:00,Halcones FC,Deportivo Coatepeque,2,0,H,1,0,H
+GUA,08/03/2015,20:00,Deportivo Malacateco,Antigua GFC,2,3,A,1,1,D
+GUA,11/03/2015,20:00,Deportivo Malacateco,Xelaju MC,3,2,H,0,1,A
+GUA,11/03/2015,21:15,Halcones FC,CSD Municipal,0,1,A,0,1,A
+GUA,11/03/2015,21:30,Antigua GFC,Deportivo Coatepeque,1,0,H,0,0,D
+GUA,12/03/2015,02:00,Deportivo Petapa,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,12/03/2015,02:00,Comunicaciones,Deportivo Suchitepéquez,7,1,H,2,0,H
+GUA,12/03/2015,02:00,Deportivo Marquense,Universidad SC,0,0,D,0,0,D
+GUA,15/03/2015,00:00,Deportivo Suchitepéquez,Deportivo Marquense,5,0,H,2,0,H
+GUA,15/03/2015,02:00,Xelaju MC,Comunicaciones,1,0,H,0,0,D
+GUA,15/03/2015,17:00,CSD Municipal,Antigua GFC,4,2,H,1,0,H
+GUA,15/03/2015,17:05,Universidad SC,Deportivo Petapa,2,2,D,2,2,D
+GUA,15/03/2015,21:00,Deportivo Guastatoya,Halcones FC,3,1,H,1,0,H
+GUA,18/03/2015,21:00,Deportivo Coatepeque,Deportivo Malacateco,2,1,H,1,0,H
+GUA,21/03/2015,21:30,Antigua GFC,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,22/03/2015,02:00,Deportivo Petapa,Deportivo Suchitepéquez,4,0,H,3,0,H
+GUA,22/03/2015,02:00,Deportivo Marquense,Xelaju MC,2,3,A,2,3,A
+GUA,22/03/2015,17:00,CSD Municipal,Deportivo Coatepeque,3,0,H,2,0,H
+GUA,22/03/2015,18:00,Halcones FC,Universidad SC,0,0,D,0,0,D
+GUA,22/03/2015,20:00,Deportivo Malacateco,Comunicaciones,0,3,A,0,1,A
+GUA,28/03/2015,21:35,Universidad SC,Antigua GFC,2,0,H,2,0,H
+GUA,29/03/2015,00:00,Deportivo Suchitepéquez,Halcones FC,2,1,H,1,1,D
+GUA,29/03/2015,03:00,Xelaju MC,Deportivo Petapa,3,1,H,3,0,H
+GUA,29/03/2015,22:00,Deportivo Guastatoya,Deportivo Coatepeque,1,0,H,0,0,D
+GUA,22/04/2015,20:00,Deportivo Malacateco,CSD Municipal,1,0,H,1,0,H
+GUA,23/04/2015,03:00,Comunicaciones,Deportivo Marquense,2,1,H,0,0,D
+GUA,02/04/2015,03:00,Deportivo Marquense,Deportivo Malacateco,3,1,H,2,1,H
+GUA,08/04/2015,19:30,CSD Municipal,Deportivo Guastatoya,2,1,H,1,0,H
+GUA,08/04/2015,22:00,Deportivo Coatepeque,Universidad SC,0,1,A,0,0,D
+GUA,08/04/2015,22:15,Halcones FC,Xelaju MC,5,0,H,3,0,H
+GUA,08/04/2015,22:30,Antigua GFC,Deportivo Suchitepéquez,2,0,H,1,0,H
+GUA,09/04/2015,03:00,Deportivo Petapa,Comunicaciones,0,5,A,0,2,A
+GUA,11/04/2015,23:00,Comunicaciones,Halcones FC,3,0,H,1,0,H
+GUA,12/04/2015,01:00,Deportivo Suchitepéquez,Deportivo Coatepeque,1,0,H,0,0,D
+GUA,12/04/2015,03:00,Deportivo Marquense,Deportivo Petapa,3,0,H,2,0,H
+GUA,12/04/2015,03:00,Xelaju MC,Antigua GFC,1,0,H,1,0,H
+GUA,12/04/2015,18:05,Universidad SC,CSD Municipal,1,1,D,0,0,D
+GUA,12/04/2015,22:30,Deportivo Malacateco,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,15/04/2015,19:30,CSD Municipal,Deportivo Suchitepéquez,1,0,H,1,0,H
+GUA,15/04/2015,22:00,Deportivo Coatepeque,Xelaju MC,1,0,H,1,0,H
+GUA,15/04/2015,22:00,Deportivo Guastatoya,Universidad SC,0,2,A,0,1,A
+GUA,15/04/2015,22:15,Halcones FC,Deportivo Marquense,2,2,D,1,2,A
+GUA,15/04/2015,22:30,Antigua GFC,Comunicaciones,1,0,H,0,0,D
+GUA,16/04/2015,03:00,Deportivo Petapa,Deportivo Malacateco,0,0,D,0,0,D
+GUA,18/04/2015,23:00,Comunicaciones,Deportivo Coatepeque,4,0,H,0,0,D
+GUA,19/04/2015,01:00,Deportivo Suchitepéquez,Deportivo Guastatoya,4,0,H,1,0,H
+GUA,19/04/2015,03:00,Xelaju MC,CSD Municipal,1,1,D,1,1,D
+GUA,19/04/2015,03:00,Deportivo Petapa,Halcones FC,2,1,H,2,0,H
+GUA,19/04/2015,16:00,Deportivo Marquense,Antigua GFC,0,0,D,NaN,NaN,NaN
+GUA,19/04/2015,22:30,Deportivo Malacateco,Universidad SC,2,0,H,0,0,D
+GUA,25/04/2015,22:30,Antigua GFC,Deportivo Petapa,1,1,D,0,0,D
+GUA,25/04/2015,22:45,Universidad SC,Deportivo Suchitepéquez,0,0,D,0,0,D
+GUA,26/04/2015,18:00,CSD Municipal,Comunicaciones,1,1,D,1,1,D
+GUA,26/04/2015,19:00,Deportivo Coatepeque,Deportivo Marquense,1,1,D,0,0,D
+GUA,26/04/2015,19:00,Halcones FC,Deportivo Malacateco,5,2,H,2,2,D
+GUA,26/04/2015,22:00,Deportivo Guastatoya,Xelaju MC,2,2,D,1,0,H
+GUA,29/04/2015,19:00,Halcones FC,Antigua GFC,2,1,H,1,0,H
+GUA,29/04/2015,20:00,Deportivo Malacateco,Deportivo Suchitepéquez,3,0,H,1,0,H
+GUA,30/04/2015,03:00,Deportivo Marquense,CSD Municipal,1,4,A,0,2,A
+GUA,30/04/2015,03:00,Comunicaciones,Deportivo Guastatoya,1,0,H,0,0,D
+GUA,30/04/2015,17:00,Deportivo Petapa,Deportivo Coatepeque,1,1,D,1,0,H
+GUA,01/05/2015,03:00,Xelaju MC,Universidad SC,0,0,D,0,0,D
+GUA,03/05/2015,18:00,Deportivo Suchitepéquez,Xelaju MC,1,0,H,0,0,D
+GUA,03/05/2015,18:00,Universidad SC,Comunicaciones,1,2,A,0,2,A
+GUA,03/05/2015,18:00,CSD Municipal,Deportivo Petapa,4,1,H,0,0,D
+GUA,03/05/2015,18:00,Deportivo Guastatoya,Deportivo Marquense,3,0,H,1,0,H
+GUA,03/05/2015,18:00,Deportivo Coatepeque,Halcones FC,2,1,H,1,1,D
+GUA,03/05/2015,18:00,Antigua GFC,Deportivo Malacateco,2,2,D,1,1,D

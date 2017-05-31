@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,05/08/2006,01:10,Racing Club,Nueva Chicago,2,0,H,1,0,H
+ARG,05/08/2006,22:30,Arsenal Sarandí,GyE La Plata,3,1,H,2,1,H
+ARG,06/08/2006,01:10,CA Colón,Independiente,1,4,A,1,0,H
+ARG,06/08/2006,18:00,GyE Jujuy,San Lorenzo,0,1,A,0,1,A
+ARG,06/08/2006,19:30,Newell's Old Boys,Vélez Sársfield,3,0,H,1,0,H
+ARG,06/08/2006,19:30,Quilmes AC,Estudiantes,0,1,A,0,1,A
+ARG,06/08/2006,19:30,Argentinos Juniors,CD Godoy Cruz,1,0,H,1,0,H
+ARG,06/08/2006,20:10,Boca Juniors,CA Banfield,3,0,H,0,0,D
+ARG,06/08/2006,22:30,CA Lanús,River Plate,0,2,A,0,0,D
+ARG,07/08/2006,01:00,Belgrano Córdoba,Rosario Central,1,0,H,0,0,D
+ARG,12/08/2006,01:10,Nueva Chicago,Argentinos Juniors,3,2,H,1,2,A
+ARG,12/08/2006,20:10,San Lorenzo,CA Colón,5,0,H,2,0,H
+ARG,12/08/2006,22:20,Rosario Central,Boca Juniors,1,2,A,0,0,D
+ARG,13/08/2006,01:10,Independiente,Belgrano Córdoba,3,1,H,0,0,D
+ARG,13/08/2006,18:10,CA Banfield,CA Lanús,1,1,D,1,0,H
+ARG,13/08/2006,19:30,GyE La Plata,Quilmes AC,3,2,H,1,2,A
+ARG,13/08/2006,19:30,River Plate,Newell's Old Boys,3,3,D,2,3,A
+ARG,13/08/2006,20:20,Vélez Sársfield,Racing Club,0,0,D,0,0,D
+ARG,13/08/2006,21:00,Estudiantes,GyE Jujuy,1,0,H,1,0,H
+ARG,25/10/2006,20:00,CD Godoy Cruz,Arsenal Sarandí,2,1,H,0,0,D
+ARG,19/08/2006,01:00,CA Banfield,Rosario Central,1,1,D,0,0,D
+ARG,19/08/2006,01:10,Belgrano Córdoba,San Lorenzo,2,2,D,2,2,D
+ARG,19/08/2006,19:10,Arsenal Sarandí,Nueva Chicago,2,0,H,1,0,H
+ARG,19/08/2006,22:10,Boca Juniors,Independiente,1,0,H,1,0,H
+ARG,20/08/2006,18:10,CA Colón,Estudiantes,0,2,A,0,1,A
+ARG,20/08/2006,19:30,GyE Jujuy,GyE La Plata,3,1,H,2,1,H
+ARG,20/08/2006,19:30,Quilmes AC,CD Godoy Cruz,0,0,D,0,0,D
+ARG,20/08/2006,19:30,Newell's Old Boys,CA Lanús,0,1,A,0,1,A
+ARG,20/08/2006,20:10,Racing Club,River Plate,3,1,H,2,1,H
+ARG,20/08/2006,22:30,Argentinos Juniors,Vélez Sársfield,0,1,A,0,1,A
+ARG,26/08/2006,01:00,CA Lanús,Rosario Central,1,2,A,0,1,A
+ARG,26/08/2006,01:10,Vélez Sársfield,Arsenal Sarandí,0,0,D,0,0,D
+ARG,26/08/2006,20:30,CD Godoy Cruz,GyE Jujuy,0,0,D,0,0,D
+ARG,26/08/2006,22:20,Nueva Chicago,Quilmes AC,2,1,H,1,0,H
+ARG,27/08/2006,01:10,Newell's Old Boys,Racing Club,0,0,D,0,0,D
+ARG,27/08/2006,18:00,Estudiantes,Belgrano Córdoba,1,2,A,1,0,H
+ARG,27/08/2006,19:30,GyE La Plata,CA Colón,3,2,H,0,1,A
+ARG,27/08/2006,19:30,Independiente,CA Banfield,2,1,H,1,1,D
+ARG,27/08/2006,20:10,San Lorenzo,Boca Juniors,1,7,A,0,3,A
+ARG,27/08/2006,22:30,River Plate,Argentinos Juniors,2,0,H,0,0,D
+ARG,02/09/2006,01:10,Argentinos Juniors,Newell's Old Boys,0,0,D,0,0,D
+ARG,02/09/2006,22:10,Rosario Central,Independiente,2,2,D,1,1,D
+ARG,03/09/2006,01:10,CA Banfield,San Lorenzo,1,2,A,0,1,A
+ARG,03/09/2006,19:00,Arsenal Sarandí,River Plate,0,2,A,0,1,A
+ARG,03/09/2006,19:30,GyE Jujuy,Nueva Chicago,3,0,H,1,0,H
+ARG,03/09/2006,19:30,CA Colón,CD Godoy Cruz,2,0,H,2,0,H
+ARG,03/09/2006,19:30,Belgrano Córdoba,GyE La Plata,1,0,H,1,0,H
+ARG,03/09/2006,21:10,Boca Juniors,Estudiantes,2,0,H,1,0,H
+ARG,03/09/2006,23:20,Quilmes AC,Vélez Sársfield,0,3,A,0,2,A
+ARG,04/09/2006,00:30,Racing Club,CA Lanús,0,1,A,0,0,D
+ARG,09/09/2006,01:00,Estudiantes,CA Banfield,0,0,D,0,0,D
+ARG,09/09/2006,01:10,San Lorenzo,Rosario Central,3,1,H,0,0,D
+ARG,09/09/2006,20:30,CD Godoy Cruz,Belgrano Córdoba,1,1,D,1,1,D
+ARG,09/09/2006,22:20,Vélez Sársfield,GyE Jujuy,2,0,H,1,0,H
+ARG,10/09/2006,01:10,Racing Club,Argentinos Juniors,2,3,A,0,2,A
+ARG,10/09/2006,18:00,CA Lanús,Independiente,2,4,A,0,1,A
+ARG,10/09/2006,19:30,Nueva Chicago,CA Colón,1,0,H,1,0,H
+ARG,10/09/2006,19:30,Newell's Old Boys,Arsenal Sarandí,2,2,D,0,1,A
+ARG,10/09/2006,20:10,River Plate,Quilmes AC,2,1,H,1,0,H
+ARG,08/11/2006,23:00,GyE La Plata,Boca Juniors,1,4,A,1,0,H
+ARG,16/09/2006,01:10,Quilmes AC,Newell's Old Boys,2,3,A,1,2,A
+ARG,16/09/2006,20:30,Argentinos Juniors,CA Lanús,1,3,A,1,1,D
+ARG,16/09/2006,22:20,Arsenal Sarandí,Racing Club,3,2,H,1,1,D
+ARG,17/09/2006,18:00,Rosario Central,Estudiantes,1,0,H,0,0,D
+ARG,17/09/2006,19:30,CA Banfield,GyE La Plata,0,0,D,0,0,D
+ARG,17/09/2006,19:30,Boca Juniors,CD Godoy Cruz,0,0,D,0,0,D
+ARG,17/09/2006,19:30,Belgrano Córdoba,Nueva Chicago,1,1,D,1,0,H
+ARG,17/09/2006,20:10,Independiente,San Lorenzo,0,1,A,0,0,D
+ARG,17/09/2006,22:30,GyE Jujuy,River Plate,1,2,A,1,1,D
+ARG,26/10/2006,00:35,CA Colón,Vélez Sársfield,1,0,H,1,0,H
+ARG,23/09/2006,01:10,Estudiantes,Independiente,2,1,H,1,0,H
+ARG,23/09/2006,19:30,Argentinos Juniors,Arsenal Sarandí,1,2,A,0,0,D
+ARG,23/09/2006,22:20,Vélez Sársfield,Belgrano Córdoba,2,0,H,1,0,H
+ARG,24/09/2006,01:10,CA Lanús,San Lorenzo,2,0,H,0,0,D
+ARG,24/09/2006,18:00,Racing Club,Quilmes AC,1,0,H,0,0,D
+ARG,24/09/2006,19:30,GyE La Plata,Rosario Central,0,1,A,0,0,D
+ARG,24/09/2006,19:30,Newell's Old Boys,GyE Jujuy,1,0,H,1,0,H
+ARG,24/09/2006,20:10,Nueva Chicago,Boca Juniors,0,1,A,0,1,A
+ARG,24/09/2006,21:00,CD Godoy Cruz,CA Banfield,1,3,A,1,1,D
+ARG,24/09/2006,22:30,River Plate,CA Colón,1,1,D,1,0,H
+ARG,30/09/2006,01:10,CA Colón,Newell's Old Boys,1,1,D,1,1,D
+ARG,30/09/2006,19:30,CA Banfield,Nueva Chicago,1,1,D,1,1,D
+ARG,30/09/2006,22:20,GyE Jujuy,Racing Club,0,3,A,0,1,A
+ARG,01/10/2006,01:10,San Lorenzo,Estudiantes,0,1,A,0,1,A
+ARG,01/10/2006,18:00,Independiente,GyE La Plata,3,0,H,2,0,H
+ARG,01/10/2006,19:30,Rosario Central,CD Godoy Cruz,1,1,D,0,0,D
+ARG,01/10/2006,19:30,Quilmes AC,Argentinos Juniors,2,2,D,1,2,A
+ARG,01/10/2006,20:10,Boca Juniors,Vélez Sársfield,3,2,H,0,2,A
+ARG,01/10/2006,22:30,Belgrano Córdoba,River Plate,1,1,D,0,1,A
+ARG,01/10/2006,23:30,Arsenal Sarandí,CA Lanús,1,1,D,0,1,A
+ARG,06/10/2006,23:00,GyE La Plata,San Lorenzo,3,2,H,2,0,H
+ARG,07/10/2006,01:10,Nueva Chicago,Rosario Central,0,3,A,0,1,A
+ARG,07/10/2006,20:00,Argentinos Juniors,GyE Jujuy,2,1,H,2,0,H
+ARG,07/10/2006,20:00,Arsenal Sarandí,Quilmes AC,2,1,H,1,0,H
+ARG,07/10/2006,22:20,CD Godoy Cruz,Independiente,3,1,H,1,0,H
+ARG,08/10/2006,01:00,CA Lanús,Estudiantes,0,3,A,0,0,D
+ARG,08/10/2006,01:10,Vélez Sársfield,CA Banfield,2,2,D,1,0,H
+ARG,08/10/2006,18:00,Racing Club,CA Colón,2,1,H,1,1,D
+ARG,08/10/2006,20:00,Newell's Old Boys,Belgrano Córdoba,0,1,A,0,1,A
+ARG,08/10/2006,20:10,River Plate,Boca Juniors,3,1,H,1,1,D
+ARG,14/10/2006,01:10,Rosario Central,Vélez Sársfield,1,2,A,1,0,H
+ARG,14/10/2006,20:00,Quilmes AC,CA Lanús,1,2,A,1,0,H
+ARG,14/10/2006,22:20,CA Colón,Argentinos Juniors,3,1,H,2,1,H
+ARG,15/10/2006,01:10,Independiente,Nueva Chicago,3,2,H,0,1,A
+ARG,15/10/2006,18:05,Estudiantes,GyE La Plata,7,0,H,3,0,H
+ARG,15/10/2006,20:00,San Lorenzo,CD Godoy Cruz,3,0,H,1,0,H
+ARG,15/10/2006,20:00,GyE Jujuy,Arsenal Sarandí,0,0,D,0,0,D
+ARG,15/10/2006,20:00,Belgrano Córdoba,Racing Club,0,1,A,0,1,A
+ARG,15/10/2006,20:10,CA Banfield,River Plate,0,1,A,0,0,D
+ARG,15/10/2006,22:30,Boca Juniors,Newell's Old Boys,3,1,H,1,0,H
+ARG,21/10/2006,01:10,Nueva Chicago,San Lorenzo,2,1,H,1,1,D
+ARG,21/10/2006,22:20,Arsenal Sarandí,CA Colón,2,1,H,0,1,A
+ARG,22/10/2006,01:10,Vélez Sársfield,Independiente,2,1,H,2,0,H
+ARG,22/10/2006,18:00,CD Godoy Cruz,Estudiantes,1,3,A,0,3,A
+ARG,22/10/2006,20:00,Argentinos Juniors,Belgrano Córdoba,2,1,H,0,0,D
+ARG,22/10/2006,20:00,Quilmes AC,GyE Jujuy,2,0,H,2,0,H
+ARG,22/10/2006,20:00,Newell's Old Boys,CA Banfield,0,0,D,0,0,D
+ARG,22/10/2006,20:10,River Plate,Rosario Central,2,0,H,1,0,H
+ARG,22/10/2006,22:00,CA Lanús,GyE La Plata,0,1,A,0,0,D
+ARG,01/11/2006,20:00,Racing Club,Boca Juniors,0,0,D,0,0,D
+ARG,28/10/2006,01:10,GyE Jujuy,CA Lanús,2,0,H,1,0,H
+ARG,28/10/2006,22:20,Estudiantes,Nueva Chicago,2,1,H,2,1,H
+ARG,29/10/2006,01:10,San Lorenzo,Vélez Sársfield,2,2,D,0,2,A
+ARG,29/10/2006,17:00,Rosario Central,Newell's Old Boys,4,1,H,3,0,H
+ARG,29/10/2006,19:00,Belgrano Córdoba,Arsenal Sarandí,0,1,A,0,0,D
+ARG,29/10/2006,19:10,Independiente,River Plate,0,0,D,0,0,D
+ARG,29/10/2006,19:30,CA Colón,Quilmes AC,0,0,D,0,0,D
+ARG,29/10/2006,19:30,GyE La Plata,CD Godoy Cruz,2,1,H,1,0,H
+ARG,29/10/2006,21:30,Boca Juniors,Argentinos Juniors,2,1,H,1,0,H
+ARG,09/11/2006,00:10,CA Banfield,Racing Club,3,2,H,1,2,A
+ARG,04/11/2006,00:10,Argentinos Juniors,CA Banfield,1,1,D,1,1,D
+ARG,04/11/2006,21:20,Racing Club,Rosario Central,1,1,D,1,1,D
+ARG,05/11/2006,00:10,Vélez Sársfield,Estudiantes,0,1,A,0,1,A
+ARG,05/11/2006,17:00,CA Lanús,CD Godoy Cruz,3,3,D,1,1,D
+ARG,05/11/2006,17:00,Newell's Old Boys,Independiente,0,1,A,0,1,A
+ARG,05/11/2006,19:00,Quilmes AC,Belgrano Córdoba,2,3,A,1,2,A
+ARG,05/11/2006,19:10,River Plate,San Lorenzo,5,0,H,2,0,H
+ARG,05/11/2006,19:30,GyE Jujuy,CA Colón,2,0,H,0,0,D
+ARG,05/11/2006,19:30,Nueva Chicago,GyE La Plata,2,2,D,1,2,A
+ARG,05/11/2006,21:30,Arsenal Sarandí,Boca Juniors,1,2,A,0,0,D
+ARG,11/11/2006,21:20,CA Banfield,Arsenal Sarandí,1,2,A,1,2,A
+ARG,12/11/2006,00:10,Estudiantes,River Plate,3,1,H,1,0,H
+ARG,12/11/2006,18:00,GyE La Plata,Vélez Sársfield,0,3,A,0,1,A
+ARG,12/11/2006,19:30,Rosario Central,Argentinos Juniors,2,1,H,2,1,H
+ARG,12/11/2006,19:30,CA Colón,CA Lanús,1,3,A,0,1,A
+ARG,12/11/2006,19:30,Belgrano Córdoba,GyE Jujuy,0,1,A,0,0,D
+ARG,12/11/2006,20:00,CD Godoy Cruz,Nueva Chicago,4,0,H,1,0,H
+ARG,12/11/2006,20:10,Independiente,Racing Club,2,0,H,1,0,H
+ARG,12/11/2006,21:30,Boca Juniors,Quilmes AC,3,1,H,1,0,H
+ARG,12/11/2006,22:30,San Lorenzo,Newell's Old Boys,2,1,H,2,0,H
+ARG,18/11/2006,00:10,Argentinos Juniors,Independiente,2,0,H,1,0,H
+ARG,18/11/2006,19:30,Arsenal Sarandí,Rosario Central,1,0,H,1,0,H
+ARG,18/11/2006,21:20,Vélez Sársfield,CD Godoy Cruz,2,0,H,1,0,H
+ARG,19/11/2006,00:00,CA Lanús,Nueva Chicago,1,0,H,1,0,H
+ARG,19/11/2006,00:10,Newell's Old Boys,Estudiantes,1,2,A,1,0,H
+ARG,19/11/2006,19:30,CA Colón,Belgrano Córdoba,2,0,H,0,0,D
+ARG,19/11/2006,19:30,Quilmes AC,CA Banfield,1,2,A,0,1,A
+ARG,19/11/2006,20:10,River Plate,GyE La Plata,2,0,H,0,0,D
+ARG,19/11/2006,22:30,GyE Jujuy,Boca Juniors,1,2,A,1,1,D
+ARG,21/02/2007,23:00,Racing Club,San Lorenzo,0,1,A,0,0,D
+ARG,24/11/2006,22:00,Rosario Central,Quilmes AC,4,2,H,0,1,A
+ARG,25/11/2006,00:10,San Lorenzo,Argentinos Juniors,0,0,D,0,0,D
+ARG,25/11/2006,21:20,Nueva Chicago,Vélez Sársfield,1,1,D,1,0,H
+ARG,26/11/2006,00:10,Estudiantes,Racing Club,2,0,H,1,0,H
+ARG,26/11/2006,19:30,CA Banfield,GyE Jujuy,1,2,A,0,0,D
+ARG,26/11/2006,19:30,Independiente,Arsenal Sarandí,2,1,H,2,1,H
+ARG,26/11/2006,19:30,GyE La Plata,Newell's Old Boys,2,1,H,1,1,D
+ARG,26/11/2006,19:30,Belgrano Córdoba,CA Lanús,1,1,D,0,0,D
+ARG,26/11/2006,20:10,Boca Juniors,CA Colón,4,1,H,1,1,D
+ARG,26/11/2006,22:30,CD Godoy Cruz,River Plate,0,1,A,0,1,A
+ARG,01/12/2006,22:10,CA Lanús,Vélez Sársfield,2,0,H,2,0,H
+ARG,02/12/2006,00:10,Quilmes AC,Independiente,1,3,A,1,3,A
+ARG,02/12/2006,19:10,Arsenal Sarandí,San Lorenzo,2,2,D,2,1,H
+ARG,02/12/2006,23:00,Newell's Old Boys,CD Godoy Cruz,2,2,D,1,2,A
+ARG,02/12/2006,23:30,CA Colón,CA Banfield,3,0,H,2,0,H
+ARG,03/12/2006,00:10,Racing Club,GyE La Plata,3,1,H,2,1,H
+ARG,03/12/2006,19:10,River Plate,Nueva Chicago,1,2,A,1,0,H
+ARG,03/12/2006,20:00,GyE Jujuy,Rosario Central,1,0,H,0,0,D
+ARG,03/12/2006,21:10,Belgrano Córdoba,Boca Juniors,1,0,H,0,0,D
+ARG,03/12/2006,21:10,Argentinos Juniors,Estudiantes,2,2,D,1,0,H
+ARG,08/12/2006,22:00,Independiente,GyE Jujuy,1,2,A,0,1,A
+ARG,09/12/2006,00:10,San Lorenzo,Quilmes AC,2,4,A,2,2,D
+ARG,09/12/2006,21:20,CD Godoy Cruz,Racing Club,0,0,D,0,0,D
+ARG,09/12/2006,23:00,Nueva Chicago,Newell's Old Boys,2,1,H,0,1,A
+ARG,10/12/2006,00:10,GyE La Plata,Argentinos Juniors,1,0,H,0,0,D
+ARG,10/12/2006,19:00,Vélez Sársfield,River Plate,1,1,D,0,0,D
+ARG,10/12/2006,20:00,CA Banfield,Belgrano Córdoba,3,1,H,2,1,H
+ARG,10/12/2006,20:00,Rosario Central,CA Colón,3,0,H,1,0,H
+ARG,10/12/2006,21:10,Boca Juniors,CA Lanús,1,2,A,1,1,D
+ARG,10/12/2006,21:10,Estudiantes,Arsenal Sarandí,2,0,H,1,0,H

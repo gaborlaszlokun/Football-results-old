@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,20/08/1958,,Aberdeen FC,Airdrieonians FC (old),0,1,A,NaN,NaN,NaN
+SCO,20/08/1958,,Clyde FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,20/08/1958,,Falkirk FC,Dundee FC,2,5,A,NaN,NaN,NaN
+SCO,20/08/1958,,Heart of Midlothian,Dunfermline Athletic,6,2,H,NaN,NaN,NaN
+SCO,20/08/1958,,Kilmarnock FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,20/08/1958,,Motherwell FC,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,20/08/1958,,Queen Of The South,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,20/08/1958,,Raith Rovers,Stirling Albion FC,0,1,A,NaN,NaN,NaN
+SCO,20/08/1958,,Rangers FC,Third Lanark,2,2,D,NaN,NaN,NaN
+SCO,06/09/1958,,Airdrieonians FC (old),Motherwell FC,1,5,A,NaN,NaN,NaN
+SCO,06/09/1958,,Celtic FC,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,06/09/1958,,Dundee FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,06/09/1958,,Hibernian FC,Heart of Midlothian,0,4,A,NaN,NaN,NaN
+SCO,06/09/1958,,Partick Thistle,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,06/09/1958,,St. Mirren FC,Kilmarnock FC,0,2,A,NaN,NaN,NaN
+SCO,06/09/1958,,Third Lanark,Queen Of The South,7,1,H,NaN,NaN,NaN
+SCO,10/09/1958,,Stirling Albion FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,13/09/1958,,Aberdeen FC,Dunfermline Athletic,4,0,H,NaN,NaN,NaN
+SCO,13/09/1958,,Clyde FC,Third Lanark,1,2,A,NaN,NaN,NaN
+SCO,13/09/1958,,Falkirk FC,St. Mirren FC,3,4,A,NaN,NaN,NaN
+SCO,13/09/1958,,Heart of Midlothian,Airdrieonians FC (old),4,3,H,NaN,NaN,NaN
+SCO,13/09/1958,,Kilmarnock FC,Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,13/09/1958,,Motherwell FC,Hibernian FC,2,5,A,NaN,NaN,NaN
+SCO,13/09/1958,,Queen Of The South,Stirling Albion FC,1,1,D,NaN,NaN,NaN
+SCO,13/09/1958,,Raith Rovers,Dundee FC,4,1,H,NaN,NaN,NaN
+SCO,13/09/1958,,Rangers FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,20/09/1958,,Airdrieonians FC (old),Rangers FC,5,4,H,NaN,NaN,NaN
+SCO,20/09/1958,,Celtic FC,Raith Rovers,3,1,H,NaN,NaN,NaN
+SCO,20/09/1958,,Dundee FC,Kilmarnock FC,1,0,H,NaN,NaN,NaN
+SCO,20/09/1958,,Dunfermline Athletic,Motherwell FC,0,4,A,NaN,NaN,NaN
+SCO,20/09/1958,,Hibernian FC,Queen Of The South,4,0,H,NaN,NaN,NaN
+SCO,20/09/1958,,Partick Thistle,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,20/09/1958,,St. Mirren FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,20/09/1958,,Stirling Albion FC,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,20/09/1958,,Third Lanark,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,27/09/1958,,Aberdeen FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,27/09/1958,,Clyde FC,Airdrieonians FC (old),0,2,A,NaN,NaN,NaN
+SCO,27/09/1958,,Falkirk FC,Dunfermline Athletic,0,2,A,NaN,NaN,NaN
+SCO,27/09/1958,,Heart of Midlothian,Third Lanark,8,3,H,NaN,NaN,NaN
+SCO,27/09/1958,,Kilmarnock FC,Stirling Albion FC,3,3,D,NaN,NaN,NaN
+SCO,27/09/1958,,Motherwell FC,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,27/09/1958,,Queen Of The South,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,27/09/1958,,Raith Rovers,Hibernian FC,5,2,H,NaN,NaN,NaN
+SCO,27/09/1958,,Rangers FC,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,29/09/1958,,Dunfermline Athletic,Raith Rovers,3,3,D,NaN,NaN,NaN
+SCO,04/10/1958,,Airdrieonians FC (old),Kilmarnock FC,3,0,H,NaN,NaN,NaN
+SCO,04/10/1958,,Celtic FC,Queen Of The South,3,1,H,NaN,NaN,NaN
+SCO,04/10/1958,,Dundee FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,04/10/1958,,Dunfermline Athletic,Rangers FC,1,7,A,NaN,NaN,NaN
+SCO,04/10/1958,,Hibernian FC,Falkirk FC,2,3,A,NaN,NaN,NaN
+SCO,04/10/1958,,Partick Thistle,Aberdeen FC,2,3,A,NaN,NaN,NaN
+SCO,04/10/1958,,St. Mirren FC,Clyde FC,1,3,A,NaN,NaN,NaN
+SCO,04/10/1958,,Stirling Albion FC,Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,04/10/1958,,Third Lanark,Raith Rovers,3,2,H,NaN,NaN,NaN
+SCO,11/10/1958,,Celtic FC,Falkirk FC,3,4,A,NaN,NaN,NaN
+SCO,11/10/1958,,Dundee FC,Heart of Midlothian,3,3,D,NaN,NaN,NaN
+SCO,11/10/1958,,Hibernian FC,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,11/10/1958,,Kilmarnock FC,Dunfermline Athletic,1,1,D,NaN,NaN,NaN
+SCO,11/10/1958,,Motherwell FC,Third Lanark,8,1,H,NaN,NaN,NaN
+SCO,11/10/1958,,Queen Of The South,Airdrieonians FC (old),0,2,A,NaN,NaN,NaN
+SCO,11/10/1958,,Raith Rovers,Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,11/10/1958,,Rangers FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,11/10/1958,,Stirling Albion FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,18/10/1958,,Aberdeen FC,Hibernian FC,4,0,H,NaN,NaN,NaN
+SCO,18/10/1958,,Airdrieonians FC (old),Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,18/10/1958,,Clyde FC,Dundee FC,3,2,H,NaN,NaN,NaN
+SCO,18/10/1958,,Dunfermline Athletic,St. Mirren FC,2,3,A,NaN,NaN,NaN
+SCO,18/10/1958,,Falkirk FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,18/10/1958,,Heart of Midlothian,Partick Thistle,2,0,H,NaN,NaN,NaN
+SCO,18/10/1958,,Kilmarnock FC,Queen Of The South,5,0,H,NaN,NaN,NaN
+SCO,18/10/1958,,Rangers FC,Raith Rovers,4,4,D,NaN,NaN,NaN
+SCO,18/10/1958,,Third Lanark,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,25/10/1958,,Aberdeen FC,Falkirk FC,5,0,H,NaN,NaN,NaN
+SCO,25/10/1958,,Celtic FC,Third Lanark,3,1,H,NaN,NaN,NaN
+SCO,25/10/1958,,Hibernian FC,Airdrieonians FC (old),2,3,A,NaN,NaN,NaN
+SCO,25/10/1958,,Motherwell FC,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,25/10/1958,,Queen Of The South,Dunfermline Athletic,2,3,A,NaN,NaN,NaN
+SCO,25/10/1958,,Raith Rovers,Kilmarnock FC,1,0,H,NaN,NaN,NaN
+SCO,25/10/1958,,St. Mirren FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,25/10/1958,,Stirling Albion FC,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,29/10/1958,,Partick Thistle,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,29/10/1958,,Raith Rovers,Heart of Midlothian,0,5,A,NaN,NaN,NaN
+SCO,01/11/1958,,Airdrieonians FC (old),Stirling Albion FC,0,1,A,NaN,NaN,NaN
+SCO,01/11/1958,,Clyde FC,Dunfermline Athletic,2,5,A,NaN,NaN,NaN
+SCO,01/11/1958,,Dundee FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,01/11/1958,,Falkirk FC,Queen Of The South,4,0,H,NaN,NaN,NaN
+SCO,01/11/1958,,Heart of Midlothian,Motherwell FC,0,2,A,NaN,NaN,NaN
+SCO,01/11/1958,,Kilmarnock FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,01/11/1958,,Raith Rovers,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,01/11/1958,,Rangers FC,Hibernian FC,4,0,H,NaN,NaN,NaN
+SCO,01/11/1958,,Third Lanark,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,08/11/1958,,Clyde FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,08/11/1958,,Dundee FC,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,08/11/1958,,Dunfermline Athletic,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,08/11/1958,,Falkirk FC,Kilmarnock FC,0,0,D,NaN,NaN,NaN
+SCO,08/11/1958,,Hibernian FC,Third Lanark,4,4,D,NaN,NaN,NaN
+SCO,08/11/1958,,Motherwell FC,Raith Rovers,3,3,D,NaN,NaN,NaN
+SCO,08/11/1958,,Partick Thistle,Airdrieonians FC (old),1,3,A,NaN,NaN,NaN
+SCO,08/11/1958,,Queen Of The South,Heart of Midlothian,0,5,A,NaN,NaN,NaN
+SCO,08/11/1958,,St. Mirren FC,Aberdeen FC,1,5,A,NaN,NaN,NaN
+SCO,15/11/1958,,Aberdeen FC,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,15/11/1958,,Celtic FC,St. Mirren FC,3,3,D,NaN,NaN,NaN
+SCO,15/11/1958,,Dunfermline Athletic,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,15/11/1958,,Heart of Midlothian,Clyde FC,2,2,D,NaN,NaN,NaN
+SCO,15/11/1958,,Motherwell FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,15/11/1958,,Queen Of The South,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,15/11/1958,,Rangers FC,Falkirk FC,3,0,H,NaN,NaN,NaN
+SCO,15/11/1958,,Stirling Albion FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,15/11/1958,,Third Lanark,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,22/11/1958,,Airdrieonians FC (old),Dunfermline Athletic,2,1,H,NaN,NaN,NaN
+SCO,22/11/1958,,Clyde FC,Aberdeen FC,4,0,H,NaN,NaN,NaN
+SCO,22/11/1958,,Dundee FC,Third Lanark,3,0,H,NaN,NaN,NaN
+SCO,22/11/1958,,Heart of Midlothian,Falkirk FC,5,1,H,NaN,NaN,NaN
+SCO,22/11/1958,,Kilmarnock FC,Rangers FC,0,3,A,NaN,NaN,NaN
+SCO,22/11/1958,,Partick Thistle,Celtic FC,2,0,H,NaN,NaN,NaN
+SCO,22/11/1958,,Raith Rovers,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,22/11/1958,,St. Mirren FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,26/11/1958,,Stirling Albion FC,Motherwell FC,2,5,A,NaN,NaN,NaN
+SCO,29/11/1958,,Aberdeen FC,Queen Of The South,5,0,H,NaN,NaN,NaN
+SCO,29/11/1958,,Clyde FC,Raith Rovers,4,1,H,NaN,NaN,NaN
+SCO,29/11/1958,,Falkirk FC,Airdrieonians FC (old),1,2,A,NaN,NaN,NaN
+SCO,29/11/1958,,Hibernian FC,Celtic FC,3,2,H,NaN,NaN,NaN
+SCO,29/11/1958,,Kilmarnock FC,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,29/11/1958,,Motherwell FC,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,29/11/1958,,Partick Thistle,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,29/11/1958,,St. Mirren FC,Stirling Albion FC,3,2,H,NaN,NaN,NaN
+SCO,03/12/1958,,Dunfermline Athletic,Third Lanark,2,3,A,NaN,NaN,NaN
+SCO,06/12/1958,,Airdrieonians FC (old),Raith Rovers,4,0,H,NaN,NaN,NaN
+SCO,06/12/1958,,Dundee FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,06/12/1958,,Dunfermline Athletic,Stirling Albion FC,3,2,H,NaN,NaN,NaN
+SCO,06/12/1958,,Falkirk FC,Clyde FC,1,4,A,NaN,NaN,NaN
+SCO,06/12/1958,,Heart of Midlothian,Aberdeen FC,5,1,H,NaN,NaN,NaN
+SCO,06/12/1958,,Partick Thistle,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,06/12/1958,,Queen Of The South,Rangers FC,3,6,A,NaN,NaN,NaN
+SCO,13/12/1958,,Aberdeen FC,Motherwell FC,0,4,A,NaN,NaN,NaN
+SCO,13/12/1958,,Airdrieonians FC (old),St. Mirren FC,4,2,H,NaN,NaN,NaN
+SCO,13/12/1958,,Celtic FC,Stirling Albion FC,7,3,H,NaN,NaN,NaN
+SCO,13/12/1958,,Dunfermline Athletic,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,13/12/1958,,Falkirk FC,Third Lanark,2,0,H,NaN,NaN,NaN
+SCO,13/12/1958,,Hibernian FC,Partick Thistle,4,0,H,NaN,NaN,NaN
+SCO,13/12/1958,,Kilmarnock FC,Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,13/12/1958,,Queen Of The South,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,13/12/1958,,Rangers FC,Heart of Midlothian,5,0,H,NaN,NaN,NaN
+SCO,20/12/1958,,Aberdeen FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,20/12/1958,,Clyde FC,Kilmarnock FC,2,4,A,NaN,NaN,NaN
+SCO,20/12/1958,,Dundee FC,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,20/12/1958,,Heart of Midlothian,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,20/12/1958,,Motherwell FC,Queen Of The South,6,1,H,NaN,NaN,NaN
+SCO,20/12/1958,,Partick Thistle,Dunfermline Athletic,3,3,D,NaN,NaN,NaN
+SCO,20/12/1958,,Raith Rovers,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,20/12/1958,,Stirling Albion FC,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,20/12/1958,,Third Lanark,St. Mirren FC,2,3,A,NaN,NaN,NaN
+SCO,27/12/1958,,Airdrieonians FC (old),Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,27/12/1958,,Celtic FC,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,27/12/1958,,Dundee FC,Falkirk FC,3,2,H,NaN,NaN,NaN
+SCO,27/12/1958,,Dunfermline Athletic,Heart of Midlothian,3,3,D,NaN,NaN,NaN
+SCO,27/12/1958,,Hibernian FC,Kilmarnock FC,4,3,H,NaN,NaN,NaN
+SCO,27/12/1958,,Partick Thistle,Motherwell FC,4,0,H,NaN,NaN,NaN
+SCO,27/12/1958,,St. Mirren FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,27/12/1958,,Stirling Albion FC,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,27/12/1958,,Third Lanark,Rangers FC,2,3,A,NaN,NaN,NaN
+SCO,01/01/1959,,Aberdeen FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,01/01/1959,,Clyde FC,Partick Thistle,0,3,A,NaN,NaN,NaN
+SCO,01/01/1959,,Heart of Midlothian,Hibernian FC,1,3,A,NaN,NaN,NaN
+SCO,01/01/1959,,Kilmarnock FC,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,01/01/1959,,Motherwell FC,Airdrieonians FC (old),5,2,H,NaN,NaN,NaN
+SCO,01/01/1959,,Queen Of The South,Third Lanark,2,5,A,NaN,NaN,NaN
+SCO,01/01/1959,,Raith Rovers,Dunfermline Athletic,2,2,D,NaN,NaN,NaN
+SCO,01/01/1959,,Rangers FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,02/01/1959,,Celtic FC,Motherwell FC,3,3,D,NaN,NaN,NaN
+SCO,03/01/1959,,Airdrieonians FC (old),Heart of Midlothian,2,3,A,NaN,NaN,NaN
+SCO,03/01/1959,,Dundee FC,Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,03/01/1959,,Dunfermline Athletic,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,03/01/1959,,Hibernian FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,03/01/1959,,Partick Thistle,Rangers FC,2,0,H,NaN,NaN,NaN
+SCO,03/01/1959,,St. Mirren FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,03/01/1959,,Stirling Albion FC,Queen Of The South,4,0,H,NaN,NaN,NaN
+SCO,05/01/1959,,Falkirk FC,Stirling Albion FC,2,1,H,NaN,NaN,NaN
+SCO,10/01/1959,,Clyde FC,Stirling Albion FC,2,2,D,NaN,NaN,NaN
+SCO,10/01/1959,,Falkirk FC,Partick Thistle,0,2,A,NaN,NaN,NaN
+SCO,10/01/1959,,Kilmarnock FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,10/01/1959,,Queen Of The South,Hibernian FC,1,4,A,NaN,NaN,NaN
+SCO,17/01/1959,,Airdrieonians FC (old),Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,17/01/1959,,Dunfermline Athletic,Falkirk FC,4,1,H,NaN,NaN,NaN
+SCO,17/01/1959,,Stirling Albion FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,20/01/1959,,Partick Thistle,Queen Of The South,2,3,A,NaN,NaN,NaN
+SCO,20/01/1959,,Third Lanark,Clyde FC,2,2,D,NaN,NaN,NaN
+SCO,21/01/1959,,Celtic FC,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,21/01/1959,,Hibernian FC,Raith Rovers,4,2,H,NaN,NaN,NaN
+SCO,21/01/1959,,Motherwell FC,Dunfermline Athletic,1,0,H,NaN,NaN,NaN
+SCO,21/01/1959,,Rangers FC,Airdrieonians FC (old),2,1,H,NaN,NaN,NaN
+SCO,24/01/1959,,Aberdeen FC,Partick Thistle,3,4,A,NaN,NaN,NaN
+SCO,24/01/1959,,Clyde FC,St. Mirren FC,2,3,A,NaN,NaN,NaN
+SCO,24/01/1959,,Falkirk FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,24/01/1959,,Heart of Midlothian,Stirling Albion FC,1,4,A,NaN,NaN,NaN
+SCO,24/01/1959,,Kilmarnock FC,Airdrieonians FC (old),4,2,H,NaN,NaN,NaN
+SCO,24/01/1959,,Motherwell FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,24/01/1959,,Queen Of The South,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,24/01/1959,,Raith Rovers,Third Lanark,2,4,A,NaN,NaN,NaN
+SCO,24/01/1959,,Rangers FC,Dunfermline Athletic,1,0,H,NaN,NaN,NaN
+SCO,28/01/1959,,Dundee FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,31/01/1959,,Motherwell FC,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,31/01/1959,,Stirling Albion FC,Third Lanark,2,3,A,NaN,NaN,NaN
+SCO,07/02/1959,,Aberdeen FC,Stirling Albion FC,4,1,H,NaN,NaN,NaN
+SCO,07/02/1959,,Airdrieonians FC (old),Queen Of The South,0,1,A,NaN,NaN,NaN
+SCO,07/02/1959,,Clyde FC,Hibernian FC,4,1,H,NaN,NaN,NaN
+SCO,07/02/1959,,Dunfermline Athletic,Kilmarnock FC,0,3,A,NaN,NaN,NaN
+SCO,07/02/1959,,Falkirk FC,Celtic FC,3,2,H,NaN,NaN,NaN
+SCO,07/02/1959,,Heart of Midlothian,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,07/02/1959,,Partick Thistle,Raith Rovers,1,3,A,NaN,NaN,NaN
+SCO,07/02/1959,,St. Mirren FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,07/02/1959,,Third Lanark,Motherwell FC,5,2,H,NaN,NaN,NaN
+SCO,18/02/1959,,Hibernian FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,18/02/1959,,Partick Thistle,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,18/02/1959,,Queen Of The South,Kilmarnock FC,2,2,D,NaN,NaN,NaN
+SCO,18/02/1959,,Raith Rovers,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,18/02/1959,,St. Mirren FC,Dunfermline Athletic,6,2,H,NaN,NaN,NaN
+SCO,21/02/1959,,Airdrieonians FC (old),Hibernian FC,4,3,H,NaN,NaN,NaN
+SCO,21/02/1959,,Clyde FC,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,21/02/1959,,Dundee FC,St. Mirren FC,4,6,A,NaN,NaN,NaN
+SCO,21/02/1959,,Dunfermline Athletic,Queen Of The South,4,2,H,NaN,NaN,NaN
+SCO,21/02/1959,,Falkirk FC,Aberdeen FC,5,1,H,NaN,NaN,NaN
+SCO,21/02/1959,,Heart of Midlothian,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,21/02/1959,,Kilmarnock FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,21/02/1959,,Rangers FC,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,21/02/1959,,Third Lanark,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,23/02/1959,,St. Mirren FC,Motherwell FC,4,1,H,NaN,NaN,NaN
+SCO,25/02/1959,,Third Lanark,Heart of Midlothian,0,4,A,NaN,NaN,NaN
+SCO,28/02/1959,,Dundee FC,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,28/02/1959,,Queen Of The South,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,28/02/1959,,Raith Rovers,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,04/03/1959,,Aberdeen FC,Kilmarnock FC,2,2,D,NaN,NaN,NaN
+SCO,04/03/1959,,Celtic FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,04/03/1959,,Dunfermline Athletic,Clyde FC,2,4,A,NaN,NaN,NaN
+SCO,04/03/1959,,Hibernian FC,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,04/03/1959,,Motherwell FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,04/03/1959,,Partick Thistle,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,04/03/1959,,St. Mirren FC,Raith Rovers,3,1,H,NaN,NaN,NaN
+SCO,04/03/1959,,Stirling Albion FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,07/03/1959,,Aberdeen FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,07/03/1959,,Airdrieonians FC (old),Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,07/03/1959,,Celtic FC,Dunfermline Athletic,3,1,H,NaN,NaN,NaN
+SCO,07/03/1959,,Heart of Midlothian,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,07/03/1959,,Kilmarnock FC,Falkirk FC,4,1,H,NaN,NaN,NaN
+SCO,07/03/1959,,Raith Rovers,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,07/03/1959,,Rangers FC,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,07/03/1959,,Stirling Albion FC,Dundee FC,0,1,A,NaN,NaN,NaN
+SCO,07/03/1959,,Third Lanark,Hibernian FC,2,2,D,NaN,NaN,NaN
+SCO,09/03/1959,,Heart of Midlothian,St. Mirren FC,4,0,H,NaN,NaN,NaN
+SCO,10/03/1959,,Celtic FC,Airdrieonians FC (old),1,2,A,NaN,NaN,NaN
+SCO,11/03/1959,,Aberdeen FC,Third Lanark,3,3,D,NaN,NaN,NaN
+SCO,14/03/1959,,Clyde FC,Heart of Midlothian,2,2,D,NaN,NaN,NaN
+SCO,14/03/1959,,Dundee FC,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,14/03/1959,,Falkirk FC,Rangers FC,5,5,D,NaN,NaN,NaN
+SCO,18/03/1959,,Airdrieonians FC (old),Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,18/03/1959,,Hibernian FC,Dunfermline Athletic,3,1,H,NaN,NaN,NaN
+SCO,18/03/1959,,Kilmarnock FC,Motherwell FC,1,3,A,NaN,NaN,NaN
+SCO,18/03/1959,,Partick Thistle,Stirling Albion FC,1,5,A,NaN,NaN,NaN
+SCO,18/03/1959,,Raith Rovers,Aberdeen FC,0,1,A,NaN,NaN,NaN
+SCO,18/03/1959,,St. Mirren FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,21/03/1959,,Aberdeen FC,Clyde FC,1,2,A,NaN,NaN,NaN
+SCO,21/03/1959,,Celtic FC,Partick Thistle,2,0,H,NaN,NaN,NaN
+SCO,21/03/1959,,Dunfermline Athletic,Airdrieonians FC (old),2,1,H,NaN,NaN,NaN
+SCO,21/03/1959,,Falkirk FC,Heart of Midlothian,0,2,A,NaN,NaN,NaN
+SCO,21/03/1959,,Hibernian FC,St. Mirren FC,0,1,A,NaN,NaN,NaN
+SCO,21/03/1959,,Motherwell FC,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,21/03/1959,,Queen Of The South,Raith Rovers,1,1,D,NaN,NaN,NaN
+SCO,21/03/1959,,Rangers FC,Kilmarnock FC,1,0,H,NaN,NaN,NaN
+SCO,21/03/1959,,Third Lanark,Dundee FC,0,3,A,NaN,NaN,NaN
+SCO,24/03/1959,,Third Lanark,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,25/03/1959,,Celtic FC,Aberdeen FC,4,0,H,NaN,NaN,NaN
+SCO,25/03/1959,,St. Mirren FC,Airdrieonians FC (old),3,3,D,NaN,NaN,NaN
+SCO,28/03/1959,,Airdrieonians FC (old),Falkirk FC,2,2,D,NaN,NaN,NaN
+SCO,28/03/1959,,Celtic FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,28/03/1959,,Dundee FC,Partick Thistle,3,2,H,NaN,NaN,NaN
+SCO,28/03/1959,,Heart of Midlothian,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,28/03/1959,,Queen Of The South,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,28/03/1959,,Raith Rovers,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,28/03/1959,,Rangers FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,28/03/1959,,Stirling Albion FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,28/03/1959,,Third Lanark,Dunfermline Athletic,7,1,H,NaN,NaN,NaN
+SCO,31/03/1959,,Clyde FC,Queen Of The South,3,0,H,NaN,NaN,NaN
+SCO,04/04/1959,,Clyde FC,Falkirk FC,3,2,H,NaN,NaN,NaN
+SCO,04/04/1959,,Hibernian FC,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,04/04/1959,,Stirling Albion FC,Dunfermline Athletic,1,1,D,NaN,NaN,NaN
+SCO,06/04/1959,,Raith Rovers,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,06/04/1959,,Rangers FC,Queen Of The South,3,1,H,NaN,NaN,NaN
+SCO,08/04/1959,,Motherwell FC,Celtic FC,2,0,H,NaN,NaN,NaN
+SCO,08/04/1959,,St. Mirren FC,Partick Thistle,4,3,H,NaN,NaN,NaN
+SCO,11/04/1959,,Heart of Midlothian,Rangers FC,2,0,H,NaN,NaN,NaN
+SCO,11/04/1959,,Motherwell FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,11/04/1959,,Partick Thistle,Hibernian FC,2,2,D,NaN,NaN,NaN
+SCO,11/04/1959,,Stirling Albion FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,11/04/1959,,Third Lanark,Falkirk FC,3,3,D,NaN,NaN,NaN
+SCO,13/04/1959,,Dundee FC,Dunfermline Athletic,2,2,D,NaN,NaN,NaN
+SCO,15/04/1959,,Aberdeen FC,Heart of Midlothian,2,4,A,NaN,NaN,NaN
+SCO,18/04/1959,,Airdrieonians FC (old),Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,18/04/1959,,Celtic FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,18/04/1959,,Dunfermline Athletic,Partick Thistle,10,1,H,NaN,NaN,NaN
+SCO,18/04/1959,,Falkirk FC,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,18/04/1959,,Hibernian FC,Stirling Albion FC,0,1,A,NaN,NaN,NaN
+SCO,18/04/1959,,Kilmarnock FC,Clyde FC,4,1,H,NaN,NaN,NaN
+SCO,18/04/1959,,Queen Of The South,Motherwell FC,0,5,A,NaN,NaN,NaN
+SCO,18/04/1959,,Rangers FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,18/04/1959,,St. Mirren FC,Third Lanark,4,1,H,NaN,NaN,NaN
+SCO,21/04/1959,,Kilmarnock FC,Third Lanark,4,0,H,NaN,NaN,NaN

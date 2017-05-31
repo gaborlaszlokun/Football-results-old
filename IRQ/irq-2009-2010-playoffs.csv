@@ -1,0 +1,43 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRQ,15/07/2010,15:00,Baghdad FC,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,15/07/2010,15:00,Al Kahraba,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,15/07/2010,15:00,Naft Al Janoob,Karbalaa FC,0,1,A,NaN,NaN,NaN
+IRQ,16/07/2010,15:00,Al Sinaa,Al Talaba,1,2,A,NaN,NaN,NaN
+IRQ,16/07/2010,15:00,Al Quwa Al Jawiya,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,16/07/2010,16:30,Erbil,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,03/08/2010,15:00,Al Talaba,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,03/08/2010,15:00,Al Zawraa,Al Sinaa,3,1,H,NaN,NaN,NaN
+IRQ,03/08/2010,15:00,Al Shorta,Al Kahraba,1,1,D,NaN,NaN,NaN
+IRQ,03/08/2010,15:00,Al Najaf,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,03/08/2010,15:00,Karbalaa FC,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,03/08/2010,16:30,Duhok,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Al Zawraa,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Al Shorta,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Karbalaa FC,Duhok,2,3,A,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Erbil,Al Kahraba,3,1,H,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Al Quwa Al Jawiya,Naft Al Janoob,3,0,H,NaN,NaN,NaN
+IRQ,07/08/2010,15:00,Baghdad FC,Al Sinaa,0,1,A,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Al Shorta,Erbil,0,2,A,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Al Zawraa,Baghdad FC,0,1,A,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Al Talaba,Al Sinaa,1,2,A,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Duhok,Al Quwa Al Jawiya,2,0,H,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Al Najaf,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,11/08/2010,14:30,Karbalaa FC,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,15/08/2010,14:30,Al Sinaa,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,15/08/2010,14:30,Erbil,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,15/08/2010,14:30,Al Kahraba,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,15/08/2010,14:30,Naft Al Janoob,Duhok,0,1,A,NaN,NaN,NaN
+IRQ,15/08/2010,14:30,Baghdad FC,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,19/08/2010,14:30,Al Quwa Al Jawiya,Karbalaa FC,3,0,H,NaN,NaN,NaN
+IRQ,20/08/2010,14:50,Al Kahraba,Erbil,1,0,H,NaN,NaN,NaN
+IRQ,23/08/2010,14:30,Al Talaba,Al Zawraa,2,1,H,NaN,NaN,NaN
+IRQ,23/08/2010,14:30,Al Sinaa,Baghdad FC,2,2,D,NaN,NaN,NaN
+IRQ,23/08/2010,14:30,Duhok,Karbalaa FC,3,2,H,NaN,NaN,NaN
+IRQ,23/08/2010,14:30,Al Najaf,Al Shorta,2,2,D,NaN,NaN,NaN
+IRQ,23/08/2010,14:30,Naft Al Janoob,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,27/08/2010,14:30,Duhok,Al Zawraa,5,1,H,2,0,H
+IRQ,27/08/2010,14:30,Erbil,Al Talaba,0,1,A,0,1,A
+IRQ,31/08/2010,13:30,Al Zawraa,Duhok,1,0,H,0,0,D
+IRQ,31/08/2010,13:30,Al Talaba,Erbil,0,0,D,0,0,D
+IRQ,03/09/2010,13:45,Al Zawraa,Erbil,2,1,H,1,0,H
+IRQ,04/09/2010,18:30,Al Talaba,Duhok,0,1,A,0,0,D

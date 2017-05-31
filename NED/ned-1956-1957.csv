@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,02/09/1956,,AFC Ajax,NAC Breda,1,0,H,NaN,NaN,NaN
+NED,02/09/1956,,BVV,USV Elinkwijk,1,2,A,NaN,NaN,NaN
+NED,02/09/1956,,DOS Utrecht,Sparta Rotterdam,2,3,A,NaN,NaN,NaN
+NED,02/09/1956,,Fortuna Sittard,SC Eindhoven,4,1,H,NaN,NaN,NaN
+NED,02/09/1956,,NOAD Tilburg,DWS Amsterdam,1,3,A,NaN,NaN,NaN
+NED,02/09/1956,,PSV Eindhoven,MVV,1,3,A,NaN,NaN,NaN
+NED,02/09/1956,,Sportclub Enschede,Rapid JC Heerlen,5,2,H,NaN,NaN,NaN
+NED,02/09/1956,,VVV-Venlo,Groninger VAV,1,0,H,NaN,NaN,NaN
+NED,02/09/1956,,Willem II,Feijenoord,3,3,D,NaN,NaN,NaN
+NED,09/09/1956,,DWS Amsterdam,Willem II,0,6,A,NaN,NaN,NaN
+NED,09/09/1956,,SC Eindhoven,VVV-Venlo,0,2,A,NaN,NaN,NaN
+NED,09/09/1956,,USV Elinkwijk,Sportclub Enschede,1,5,A,NaN,NaN,NaN
+NED,09/09/1956,,Feijenoord,BVV,5,1,H,NaN,NaN,NaN
+NED,09/09/1956,,Groninger VAV,DOS Utrecht,3,2,H,NaN,NaN,NaN
+NED,09/09/1956,,MVV,Fortuna Sittard,1,0,H,NaN,NaN,NaN
+NED,09/09/1956,,NAC Breda,NOAD Tilburg,2,2,D,NaN,NaN,NaN
+NED,09/09/1956,,Rapid JC Heerlen,PSV Eindhoven,3,1,H,NaN,NaN,NaN
+NED,09/09/1956,,Sparta Rotterdam,AFC Ajax,1,2,A,NaN,NaN,NaN
+NED,23/09/1956,,AFC Ajax,Groninger VAV,4,2,H,NaN,NaN,NaN
+NED,23/09/1956,,BVV,Willem II,3,2,H,NaN,NaN,NaN
+NED,23/09/1956,,DOS Utrecht,SC Eindhoven,0,1,A,NaN,NaN,NaN
+NED,23/09/1956,,Fortuna Sittard,Rapid JC Heerlen,5,0,H,NaN,NaN,NaN
+NED,23/09/1956,,NAC Breda,DWS Amsterdam,3,1,H,NaN,NaN,NaN
+NED,23/09/1956,,NOAD Tilburg,Sparta Rotterdam,3,0,H,NaN,NaN,NaN
+NED,23/09/1956,,PSV Eindhoven,USV Elinkwijk,0,3,A,NaN,NaN,NaN
+NED,23/09/1956,,Sportclub Enschede,Feijenoord,2,3,A,NaN,NaN,NaN
+NED,23/09/1956,,VVV-Venlo,MVV,1,3,A,NaN,NaN,NaN
+NED,30/09/1956,,DWS Amsterdam,BVV,3,2,H,NaN,NaN,NaN
+NED,30/09/1956,,SC Eindhoven,AFC Ajax,0,3,A,NaN,NaN,NaN
+NED,30/09/1956,,USV Elinkwijk,Fortuna Sittard,2,2,D,NaN,NaN,NaN
+NED,30/09/1956,,Feijenoord,PSV Eindhoven,2,0,H,NaN,NaN,NaN
+NED,30/09/1956,,Groninger VAV,NOAD Tilburg,2,0,H,NaN,NaN,NaN
+NED,30/09/1956,,MVV,DOS Utrecht,2,5,A,NaN,NaN,NaN
+NED,30/09/1956,,Rapid JC Heerlen,VVV-Venlo,2,0,H,NaN,NaN,NaN
+NED,30/09/1956,,Sparta Rotterdam,NAC Breda,1,4,A,NaN,NaN,NaN
+NED,30/09/1956,,Willem II,Sportclub Enschede,2,2,D,NaN,NaN,NaN
+NED,07/10/1956,,AFC Ajax,MVV,2,0,H,NaN,NaN,NaN
+NED,07/10/1956,,DOS Utrecht,Rapid JC Heerlen,2,0,H,NaN,NaN,NaN
+NED,07/10/1956,,Fortuna Sittard,Feijenoord,3,2,H,NaN,NaN,NaN
+NED,07/10/1956,,NAC Breda,Groninger VAV,2,0,H,NaN,NaN,NaN
+NED,07/10/1956,,NOAD Tilburg,SC Eindhoven,2,0,H,NaN,NaN,NaN
+NED,07/10/1956,,PSV Eindhoven,Willem II,3,1,H,NaN,NaN,NaN
+NED,07/10/1956,,Sportclub Enschede,BVV,4,1,H,NaN,NaN,NaN
+NED,07/10/1956,,Sparta Rotterdam,DWS Amsterdam,1,1,D,NaN,NaN,NaN
+NED,07/10/1956,,VVV-Venlo,USV Elinkwijk,2,1,H,NaN,NaN,NaN
+NED,21/10/1956,,DWS Amsterdam,Sportclub Enschede,0,2,A,NaN,NaN,NaN
+NED,21/10/1956,,BVV,PSV Eindhoven,0,3,A,NaN,NaN,NaN
+NED,21/10/1956,,SC Eindhoven,NAC Breda,2,2,D,NaN,NaN,NaN
+NED,21/10/1956,,USV Elinkwijk,DOS Utrecht,1,6,A,NaN,NaN,NaN
+NED,21/10/1956,,Feijenoord,VVV-Venlo,3,0,H,NaN,NaN,NaN
+NED,21/10/1956,,Groninger VAV,Sparta Rotterdam,2,2,D,NaN,NaN,NaN
+NED,21/10/1956,,MVV,NOAD Tilburg,3,0,H,NaN,NaN,NaN
+NED,21/10/1956,,Rapid JC Heerlen,AFC Ajax,4,2,H,NaN,NaN,NaN
+NED,21/10/1956,,Willem II,Fortuna Sittard,2,3,A,NaN,NaN,NaN
+NED,28/10/1956,,AFC Ajax,USV Elinkwijk,1,0,H,NaN,NaN,NaN
+NED,28/10/1956,,DOS Utrecht,Feijenoord,4,0,H,NaN,NaN,NaN
+NED,28/10/1956,,Fortuna Sittard,BVV,4,1,H,NaN,NaN,NaN
+NED,28/10/1956,,Groninger VAV,DWS Amsterdam,1,1,D,NaN,NaN,NaN
+NED,28/10/1956,,NAC Breda,MVV,2,1,H,NaN,NaN,NaN
+NED,28/10/1956,,NOAD Tilburg,Rapid JC Heerlen,3,2,H,NaN,NaN,NaN
+NED,28/10/1956,,PSV Eindhoven,Sportclub Enschede,1,5,A,NaN,NaN,NaN
+NED,28/10/1956,,Sparta Rotterdam,SC Eindhoven,6,0,H,NaN,NaN,NaN
+NED,28/10/1956,,VVV-Venlo,Willem II,3,1,H,NaN,NaN,NaN
+NED,11/11/1956,,DWS Amsterdam,PSV Eindhoven,1,3,A,NaN,NaN,NaN
+NED,11/11/1956,,BVV,VVV-Venlo,1,4,A,NaN,NaN,NaN
+NED,11/11/1956,,SC Eindhoven,Groninger VAV,1,1,D,NaN,NaN,NaN
+NED,11/11/1956,,USV Elinkwijk,NOAD Tilburg,2,3,A,NaN,NaN,NaN
+NED,11/11/1956,,Feijenoord,AFC Ajax,7,3,H,NaN,NaN,NaN
+NED,11/11/1956,,MVV,Sparta Rotterdam,3,2,H,NaN,NaN,NaN
+NED,11/11/1956,,Rapid JC Heerlen,NAC Breda,5,1,H,NaN,NaN,NaN
+NED,11/11/1956,,Sportclub Enschede,Fortuna Sittard,4,1,H,NaN,NaN,NaN
+NED,11/11/1956,,Willem II,DOS Utrecht,2,3,A,NaN,NaN,NaN
+NED,18/11/1956,,AFC Ajax,Willem II,5,0,H,NaN,NaN,NaN
+NED,18/11/1956,,DOS Utrecht,BVV,1,3,A,NaN,NaN,NaN
+NED,18/11/1956,,SC Eindhoven,DWS Amsterdam,1,1,D,NaN,NaN,NaN
+NED,18/11/1956,,Fortuna Sittard,PSV Eindhoven,1,3,A,NaN,NaN,NaN
+NED,18/11/1956,,Groninger VAV,MVV,0,0,D,NaN,NaN,NaN
+NED,18/11/1956,,NAC Breda,USV Elinkwijk,2,1,H,NaN,NaN,NaN
+NED,18/11/1956,,NOAD Tilburg,Feijenoord,0,0,D,NaN,NaN,NaN
+NED,18/11/1956,,Sparta Rotterdam,Rapid JC Heerlen,4,3,H,NaN,NaN,NaN
+NED,26/12/1956,,VVV-Venlo,Sportclub Enschede,0,1,A,NaN,NaN,NaN
+NED,25/11/1956,,USV Elinkwijk,Sparta Rotterdam,1,3,A,NaN,NaN,NaN
+NED,25/11/1956,,Feijenoord,NAC Breda,2,2,D,NaN,NaN,NaN
+NED,25/11/1956,,MVV,SC Eindhoven,3,0,H,NaN,NaN,NaN
+NED,25/11/1956,,PSV Eindhoven,VVV-Venlo,0,1,A,NaN,NaN,NaN
+NED,26/12/1956,,BVV,AFC Ajax,3,1,H,NaN,NaN,NaN
+NED,03/03/1957,,Rapid JC Heerlen,Groninger VAV,2,2,D,NaN,NaN,NaN
+NED,03/03/1957,,Sportclub Enschede,DOS Utrecht,1,2,A,NaN,NaN,NaN
+NED,27/03/1957,,DWS Amsterdam,Fortuna Sittard,1,1,D,NaN,NaN,NaN
+NED,28/04/1957,,Willem II,NOAD Tilburg,1,2,A,NaN,NaN,NaN
+NED,02/12/1956,,AFC Ajax,Sportclub Enschede,1,2,A,NaN,NaN,NaN
+NED,02/12/1956,,DOS Utrecht,PSV Eindhoven,2,8,A,NaN,NaN,NaN
+NED,02/12/1956,,SC Eindhoven,Rapid JC Heerlen,0,2,A,NaN,NaN,NaN
+NED,02/12/1956,,Groninger VAV,USV Elinkwijk,1,2,A,NaN,NaN,NaN
+NED,02/12/1956,,MVV,DWS Amsterdam,2,0,H,NaN,NaN,NaN
+NED,02/12/1956,,NAC Breda,Willem II,2,1,H,NaN,NaN,NaN
+NED,02/12/1956,,NOAD Tilburg,BVV,0,0,D,NaN,NaN,NaN
+NED,02/12/1956,,Sparta Rotterdam,Feijenoord,0,4,A,NaN,NaN,NaN
+NED,02/12/1956,,VVV-Venlo,Fortuna Sittard,2,3,A,NaN,NaN,NaN
+NED,09/12/1956,,DWS Amsterdam,VVV-Venlo,4,1,H,NaN,NaN,NaN
+NED,09/12/1956,,BVV,NAC Breda,8,0,H,NaN,NaN,NaN
+NED,09/12/1956,,USV Elinkwijk,SC Eindhoven,5,2,H,NaN,NaN,NaN
+NED,09/12/1956,,Feijenoord,Groninger VAV,2,1,H,NaN,NaN,NaN
+NED,09/12/1956,,Fortuna Sittard,DOS Utrecht,4,1,H,NaN,NaN,NaN
+NED,09/12/1956,,PSV Eindhoven,AFC Ajax,2,3,A,NaN,NaN,NaN
+NED,09/12/1956,,Rapid JC Heerlen,MVV,1,1,D,NaN,NaN,NaN
+NED,09/12/1956,,Sportclub Enschede,NOAD Tilburg,1,1,D,NaN,NaN,NaN
+NED,09/12/1956,,Willem II,Sparta Rotterdam,0,0,D,NaN,NaN,NaN
+NED,16/12/1956,,AFC Ajax,Fortuna Sittard,0,2,A,NaN,NaN,NaN
+NED,16/12/1956,,DOS Utrecht,VVV-Venlo,1,3,A,NaN,NaN,NaN
+NED,16/12/1956,,SC Eindhoven,Feijenoord,0,1,A,NaN,NaN,NaN
+NED,16/12/1956,,Groninger VAV,Willem II,5,3,H,NaN,NaN,NaN
+NED,16/12/1956,,MVV,USV Elinkwijk,2,0,H,NaN,NaN,NaN
+NED,16/12/1956,,NAC Breda,Sportclub Enschede,1,1,D,NaN,NaN,NaN
+NED,16/12/1956,,NOAD Tilburg,PSV Eindhoven,2,3,A,NaN,NaN,NaN
+NED,16/12/1956,,Rapid JC Heerlen,DWS Amsterdam,2,2,D,NaN,NaN,NaN
+NED,16/12/1956,,Sparta Rotterdam,BVV,3,3,D,NaN,NaN,NaN
+NED,23/12/1956,,DWS Amsterdam,DOS Utrecht,1,2,A,NaN,NaN,NaN
+NED,23/12/1956,,BVV,Groninger VAV,1,2,A,NaN,NaN,NaN
+NED,23/12/1956,,USV Elinkwijk,Rapid JC Heerlen,1,4,A,NaN,NaN,NaN
+NED,23/12/1956,,Feijenoord,MVV,2,2,D,NaN,NaN,NaN
+NED,23/12/1956,,Fortuna Sittard,NOAD Tilburg,0,3,A,NaN,NaN,NaN
+NED,23/12/1956,,PSV Eindhoven,NAC Breda,2,5,A,NaN,NaN,NaN
+NED,23/12/1956,,Sportclub Enschede,Sparta Rotterdam,1,1,D,NaN,NaN,NaN
+NED,23/12/1956,,VVV-Venlo,AFC Ajax,0,0,D,NaN,NaN,NaN
+NED,23/12/1956,,Willem II,SC Eindhoven,3,2,H,NaN,NaN,NaN
+NED,30/12/1956,,AFC Ajax,DOS Utrecht,1,2,A,NaN,NaN,NaN
+NED,30/12/1956,,SC Eindhoven,BVV,2,3,A,NaN,NaN,NaN
+NED,30/12/1956,,USV Elinkwijk,DWS Amsterdam,0,2,A,NaN,NaN,NaN
+NED,30/12/1956,,MVV,Willem II,0,0,D,NaN,NaN,NaN
+NED,30/12/1956,,NAC Breda,Fortuna Sittard,0,2,A,NaN,NaN,NaN
+NED,30/12/1956,,NOAD Tilburg,VVV-Venlo,1,2,A,NaN,NaN,NaN
+NED,30/12/1956,,Rapid JC Heerlen,Feijenoord,4,1,H,NaN,NaN,NaN
+NED,30/12/1956,,Sparta Rotterdam,PSV Eindhoven,3,4,A,NaN,NaN,NaN
+NED,28/04/1957,,Groninger VAV,Sportclub Enschede,0,3,A,NaN,NaN,NaN
+NED,06/01/1957,,AFC Ajax,DWS Amsterdam,2,3,A,NaN,NaN,NaN
+NED,06/01/1957,,BVV,MVV,2,0,H,NaN,NaN,NaN
+NED,06/01/1957,,DOS Utrecht,NOAD Tilburg,3,1,H,NaN,NaN,NaN
+NED,06/01/1957,,Feijenoord,USV Elinkwijk,3,1,H,NaN,NaN,NaN
+NED,06/01/1957,,Fortuna Sittard,Sparta Rotterdam,1,1,D,NaN,NaN,NaN
+NED,06/01/1957,,PSV Eindhoven,Groninger VAV,5,2,H,NaN,NaN,NaN
+NED,06/01/1957,,Sportclub Enschede,SC Eindhoven,6,1,H,NaN,NaN,NaN
+NED,06/01/1957,,VVV-Venlo,NAC Breda,1,0,H,NaN,NaN,NaN
+NED,06/01/1957,,Willem II,Rapid JC Heerlen,1,2,A,NaN,NaN,NaN
+NED,13/01/1957,,DWS Amsterdam,Feijenoord,2,1,H,NaN,NaN,NaN
+NED,13/01/1957,,SC Eindhoven,PSV Eindhoven,0,2,A,NaN,NaN,NaN
+NED,13/01/1957,,Groninger VAV,Fortuna Sittard,2,0,H,NaN,NaN,NaN
+NED,13/01/1957,,MVV,Sportclub Enschede,0,0,D,NaN,NaN,NaN
+NED,13/01/1957,,NAC Breda,DOS Utrecht,4,4,D,NaN,NaN,NaN
+NED,13/01/1957,,NOAD Tilburg,AFC Ajax,1,4,A,NaN,NaN,NaN
+NED,13/01/1957,,Rapid JC Heerlen,BVV,4,3,H,NaN,NaN,NaN
+NED,13/01/1957,,Sparta Rotterdam,VVV-Venlo,1,1,D,NaN,NaN,NaN
+NED,03/03/1957,,USV Elinkwijk,Willem II,3,1,H,NaN,NaN,NaN
+NED,20/01/1957,,DWS Amsterdam,NOAD Tilburg,1,0,H,NaN,NaN,NaN
+NED,20/01/1957,,SC Eindhoven,Fortuna Sittard,1,5,A,NaN,NaN,NaN
+NED,20/01/1957,,USV Elinkwijk,BVV,4,2,H,NaN,NaN,NaN
+NED,20/01/1957,,Feijenoord,Willem II,2,1,H,NaN,NaN,NaN
+NED,20/01/1957,,Groninger VAV,VVV-Venlo,0,1,A,NaN,NaN,NaN
+NED,20/01/1957,,MVV,PSV Eindhoven,5,0,H,NaN,NaN,NaN
+NED,20/01/1957,,NAC Breda,AFC Ajax,1,1,D,NaN,NaN,NaN
+NED,20/01/1957,,Sparta Rotterdam,DOS Utrecht,4,2,H,NaN,NaN,NaN
+NED,17/04/1957,,Rapid JC Heerlen,Sportclub Enschede,1,1,D,NaN,NaN,NaN
+NED,27/01/1957,,AFC Ajax,Sparta Rotterdam,2,1,H,NaN,NaN,NaN
+NED,27/01/1957,,BVV,Feijenoord,0,5,A,NaN,NaN,NaN
+NED,27/01/1957,,DOS Utrecht,Groninger VAV,7,1,H,NaN,NaN,NaN
+NED,27/01/1957,,Fortuna Sittard,MVV,1,1,D,NaN,NaN,NaN
+NED,27/01/1957,,NOAD Tilburg,NAC Breda,2,1,H,NaN,NaN,NaN
+NED,27/01/1957,,PSV Eindhoven,Rapid JC Heerlen,4,1,H,NaN,NaN,NaN
+NED,27/01/1957,,Sportclub Enschede,USV Elinkwijk,4,2,H,NaN,NaN,NaN
+NED,27/01/1957,,VVV-Venlo,SC Eindhoven,2,1,H,NaN,NaN,NaN
+NED,27/01/1957,,Willem II,DWS Amsterdam,1,2,A,NaN,NaN,NaN
+NED,03/02/1957,,DWS Amsterdam,NAC Breda,0,1,A,NaN,NaN,NaN
+NED,03/02/1957,,SC Eindhoven,DOS Utrecht,0,1,A,NaN,NaN,NaN
+NED,03/02/1957,,USV Elinkwijk,PSV Eindhoven,0,6,A,NaN,NaN,NaN
+NED,03/02/1957,,Feijenoord,Sportclub Enschede,2,2,D,NaN,NaN,NaN
+NED,03/02/1957,,Groninger VAV,AFC Ajax,1,1,D,NaN,NaN,NaN
+NED,03/02/1957,,MVV,VVV-Venlo,1,0,H,NaN,NaN,NaN
+NED,03/02/1957,,Rapid JC Heerlen,Fortuna Sittard,0,1,A,NaN,NaN,NaN
+NED,03/02/1957,,Sparta Rotterdam,NOAD Tilburg,2,1,H,NaN,NaN,NaN
+NED,03/02/1957,,Willem II,BVV,1,0,H,NaN,NaN,NaN
+NED,10/02/1957,,AFC Ajax,SC Eindhoven,3,1,H,NaN,NaN,NaN
+NED,10/02/1957,,BVV,DWS Amsterdam,5,2,H,NaN,NaN,NaN
+NED,10/02/1957,,DOS Utrecht,MVV,1,2,A,NaN,NaN,NaN
+NED,10/02/1957,,Fortuna Sittard,USV Elinkwijk,8,1,H,NaN,NaN,NaN
+NED,10/02/1957,,NAC Breda,Sparta Rotterdam,3,4,A,NaN,NaN,NaN
+NED,10/02/1957,,NOAD Tilburg,Groninger VAV,3,2,H,NaN,NaN,NaN
+NED,10/02/1957,,PSV Eindhoven,Feijenoord,3,1,H,NaN,NaN,NaN
+NED,10/02/1957,,Sportclub Enschede,Willem II,5,1,H,NaN,NaN,NaN
+NED,10/02/1957,,VVV-Venlo,Rapid JC Heerlen,2,1,H,NaN,NaN,NaN
+NED,17/02/1957,,DWS Amsterdam,Sparta Rotterdam,1,1,D,NaN,NaN,NaN
+NED,17/02/1957,,BVV,Sportclub Enschede,2,2,D,NaN,NaN,NaN
+NED,17/02/1957,,SC Eindhoven,NOAD Tilburg,3,1,H,NaN,NaN,NaN
+NED,17/02/1957,,USV Elinkwijk,VVV-Venlo,2,2,D,NaN,NaN,NaN
+NED,17/02/1957,,Feijenoord,Fortuna Sittard,4,0,H,NaN,NaN,NaN
+NED,17/02/1957,,Groninger VAV,NAC Breda,1,2,A,NaN,NaN,NaN
+NED,17/02/1957,,MVV,AFC Ajax,1,1,D,NaN,NaN,NaN
+NED,17/02/1957,,Rapid JC Heerlen,DOS Utrecht,0,3,A,NaN,NaN,NaN
+NED,17/02/1957,,Willem II,PSV Eindhoven,0,6,A,NaN,NaN,NaN
+NED,24/02/1957,,AFC Ajax,Rapid JC Heerlen,1,0,H,NaN,NaN,NaN
+NED,24/02/1957,,DOS Utrecht,USV Elinkwijk,2,3,A,NaN,NaN,NaN
+NED,24/02/1957,,Fortuna Sittard,Willem II,0,1,A,NaN,NaN,NaN
+NED,24/02/1957,,NOAD Tilburg,MVV,0,0,D,NaN,NaN,NaN
+NED,24/02/1957,,PSV Eindhoven,BVV,2,5,A,NaN,NaN,NaN
+NED,24/02/1957,,Sportclub Enschede,DWS Amsterdam,1,2,A,NaN,NaN,NaN
+NED,24/02/1957,,Sparta Rotterdam,Groninger VAV,2,2,D,NaN,NaN,NaN
+NED,24/02/1957,,VVV-Venlo,Feijenoord,2,2,D,NaN,NaN,NaN
+NED,03/03/1957,,NAC Breda,SC Eindhoven,0,1,A,NaN,NaN,NaN
+NED,10/03/1957,,DWS Amsterdam,Groninger VAV,0,1,A,NaN,NaN,NaN
+NED,10/03/1957,,BVV,Fortuna Sittard,1,3,A,NaN,NaN,NaN
+NED,10/03/1957,,SC Eindhoven,Sparta Rotterdam,3,2,H,NaN,NaN,NaN
+NED,10/03/1957,,USV Elinkwijk,AFC Ajax,1,2,A,NaN,NaN,NaN
+NED,10/03/1957,,Feijenoord,DOS Utrecht,5,1,H,NaN,NaN,NaN
+NED,10/03/1957,,MVV,NAC Breda,1,3,A,NaN,NaN,NaN
+NED,10/03/1957,,Rapid JC Heerlen,NOAD Tilburg,1,3,A,NaN,NaN,NaN
+NED,10/03/1957,,Sportclub Enschede,PSV Eindhoven,2,2,D,NaN,NaN,NaN
+NED,10/03/1957,,Willem II,VVV-Venlo,6,3,H,NaN,NaN,NaN
+NED,17/03/1957,,AFC Ajax,Feijenoord,1,0,H,NaN,NaN,NaN
+NED,17/03/1957,,DOS Utrecht,Willem II,4,1,H,NaN,NaN,NaN
+NED,17/03/1957,,Fortuna Sittard,Sportclub Enschede,4,1,H,NaN,NaN,NaN
+NED,17/03/1957,,Groninger VAV,SC Eindhoven,1,1,D,NaN,NaN,NaN
+NED,17/03/1957,,NAC Breda,Rapid JC Heerlen,1,1,D,NaN,NaN,NaN
+NED,17/03/1957,,NOAD Tilburg,USV Elinkwijk,3,3,D,NaN,NaN,NaN
+NED,17/03/1957,,PSV Eindhoven,DWS Amsterdam,2,2,D,NaN,NaN,NaN
+NED,17/03/1957,,VVV-Venlo,BVV,3,1,H,NaN,NaN,NaN
+NED,28/04/1957,,Sparta Rotterdam,MVV,3,2,H,NaN,NaN,NaN
+NED,24/03/1957,,DWS Amsterdam,SC Eindhoven,2,1,H,NaN,NaN,NaN
+NED,24/03/1957,,BVV,DOS Utrecht,4,0,H,NaN,NaN,NaN
+NED,24/03/1957,,USV Elinkwijk,NAC Breda,2,1,H,NaN,NaN,NaN
+NED,24/03/1957,,Feijenoord,NOAD Tilburg,5,2,H,NaN,NaN,NaN
+NED,24/03/1957,,MVV,Groninger VAV,2,0,H,NaN,NaN,NaN
+NED,24/03/1957,,PSV Eindhoven,Fortuna Sittard,1,2,A,NaN,NaN,NaN
+NED,24/03/1957,,Rapid JC Heerlen,Sparta Rotterdam,0,0,D,NaN,NaN,NaN
+NED,24/03/1957,,Sportclub Enschede,VVV-Venlo,0,0,D,NaN,NaN,NaN
+NED,24/03/1957,,Willem II,AFC Ajax,0,1,A,NaN,NaN,NaN
+NED,31/03/1957,,AFC Ajax,BVV,1,0,H,NaN,NaN,NaN
+NED,31/03/1957,,DOS Utrecht,Sportclub Enschede,1,4,A,NaN,NaN,NaN
+NED,31/03/1957,,SC Eindhoven,MVV,0,3,A,NaN,NaN,NaN
+NED,31/03/1957,,Fortuna Sittard,DWS Amsterdam,3,0,H,NaN,NaN,NaN
+NED,31/03/1957,,Groninger VAV,Rapid JC Heerlen,1,3,A,NaN,NaN,NaN
+NED,31/03/1957,,NAC Breda,Feijenoord,1,1,D,NaN,NaN,NaN
+NED,31/03/1957,,NOAD Tilburg,Willem II,1,0,H,NaN,NaN,NaN
+NED,31/03/1957,,Sparta Rotterdam,USV Elinkwijk,3,0,H,NaN,NaN,NaN
+NED,31/03/1957,,VVV-Venlo,PSV Eindhoven,1,5,A,NaN,NaN,NaN
+NED,07/04/1957,,DWS Amsterdam,MVV,3,0,H,NaN,NaN,NaN
+NED,07/04/1957,,BVV,NOAD Tilburg,6,0,H,NaN,NaN,NaN
+NED,07/04/1957,,USV Elinkwijk,Groninger VAV,0,5,A,NaN,NaN,NaN
+NED,07/04/1957,,Feijenoord,Sparta Rotterdam,0,3,A,NaN,NaN,NaN
+NED,07/04/1957,,Fortuna Sittard,VVV-Venlo,3,1,H,NaN,NaN,NaN
+NED,07/04/1957,,PSV Eindhoven,DOS Utrecht,3,2,H,NaN,NaN,NaN
+NED,07/04/1957,,Rapid JC Heerlen,SC Eindhoven,0,1,A,NaN,NaN,NaN
+NED,07/04/1957,,Sportclub Enschede,AFC Ajax,0,1,A,NaN,NaN,NaN
+NED,07/04/1957,,Willem II,NAC Breda,2,4,A,NaN,NaN,NaN
+NED,14/04/1957,,AFC Ajax,PSV Eindhoven,1,0,H,NaN,NaN,NaN
+NED,14/04/1957,,DOS Utrecht,Fortuna Sittard,3,1,H,NaN,NaN,NaN
+NED,14/04/1957,,SC Eindhoven,USV Elinkwijk,1,0,H,NaN,NaN,NaN
+NED,14/04/1957,,Groninger VAV,Feijenoord,4,2,H,NaN,NaN,NaN
+NED,14/04/1957,,MVV,Rapid JC Heerlen,2,0,H,NaN,NaN,NaN
+NED,14/04/1957,,NAC Breda,BVV,1,0,H,NaN,NaN,NaN
+NED,14/04/1957,,NOAD Tilburg,Sportclub Enschede,3,1,H,NaN,NaN,NaN
+NED,14/04/1957,,Sparta Rotterdam,Willem II,3,1,H,NaN,NaN,NaN
+NED,14/04/1957,,VVV-Venlo,DWS Amsterdam,3,2,H,NaN,NaN,NaN
+NED,22/04/1957,,DWS Amsterdam,Rapid JC Heerlen,0,5,A,NaN,NaN,NaN
+NED,22/04/1957,,BVV,Sparta Rotterdam,2,2,D,NaN,NaN,NaN
+NED,22/04/1957,,USV Elinkwijk,MVV,0,0,D,NaN,NaN,NaN
+NED,22/04/1957,,Feijenoord,SC Eindhoven,4,0,H,NaN,NaN,NaN
+NED,22/04/1957,,Fortuna Sittard,AFC Ajax,2,3,A,NaN,NaN,NaN
+NED,22/04/1957,,PSV Eindhoven,NOAD Tilburg,3,3,D,NaN,NaN,NaN
+NED,22/04/1957,,Sportclub Enschede,NAC Breda,3,0,H,NaN,NaN,NaN
+NED,22/04/1957,,VVV-Venlo,DOS Utrecht,0,1,A,NaN,NaN,NaN
+NED,22/04/1957,,Willem II,Groninger VAV,0,0,D,NaN,NaN,NaN
+NED,05/05/1957,,AFC Ajax,VVV-Venlo,1,1,D,NaN,NaN,NaN
+NED,05/05/1957,,DOS Utrecht,DWS Amsterdam,3,2,H,NaN,NaN,NaN
+NED,05/05/1957,,SC Eindhoven,Willem II,2,3,A,NaN,NaN,NaN
+NED,05/05/1957,,Groninger VAV,BVV,3,2,H,NaN,NaN,NaN
+NED,05/05/1957,,MVV,Feijenoord,0,0,D,NaN,NaN,NaN
+NED,05/05/1957,,NAC Breda,PSV Eindhoven,3,0,H,NaN,NaN,NaN
+NED,05/05/1957,,NOAD Tilburg,Fortuna Sittard,1,2,A,NaN,NaN,NaN
+NED,05/05/1957,,Rapid JC Heerlen,USV Elinkwijk,2,1,H,NaN,NaN,NaN
+NED,05/05/1957,,Sparta Rotterdam,Sportclub Enschede,2,0,H,NaN,NaN,NaN
+NED,12/05/1957,,DWS Amsterdam,USV Elinkwijk,1,2,A,NaN,NaN,NaN
+NED,12/05/1957,,BVV,SC Eindhoven,1,3,A,NaN,NaN,NaN
+NED,12/05/1957,,DOS Utrecht,AFC Ajax,0,2,A,NaN,NaN,NaN
+NED,12/05/1957,,Feijenoord,Rapid JC Heerlen,2,3,A,NaN,NaN,NaN
+NED,12/05/1957,,Fortuna Sittard,NAC Breda,2,1,H,NaN,NaN,NaN
+NED,12/05/1957,,PSV Eindhoven,Sparta Rotterdam,3,1,H,NaN,NaN,NaN
+NED,12/05/1957,,Sportclub Enschede,Groninger VAV,1,1,D,NaN,NaN,NaN
+NED,12/05/1957,,Willem II,MVV,5,2,H,NaN,NaN,NaN
+NED,23/05/1957,,VVV-Venlo,NOAD Tilburg,2,1,H,NaN,NaN,NaN
+NED,19/05/1957,,DWS Amsterdam,AFC Ajax,1,5,A,NaN,NaN,NaN
+NED,19/05/1957,,SC Eindhoven,Sportclub Enschede,3,2,H,NaN,NaN,NaN
+NED,19/05/1957,,USV Elinkwijk,Feijenoord,5,1,H,NaN,NaN,NaN
+NED,19/05/1957,,Groninger VAV,PSV Eindhoven,1,5,A,NaN,NaN,NaN
+NED,19/05/1957,,MVV,BVV,3,0,H,NaN,NaN,NaN
+NED,19/05/1957,,NAC Breda,VVV-Venlo,3,1,H,NaN,NaN,NaN
+NED,19/05/1957,,NOAD Tilburg,DOS Utrecht,4,2,H,NaN,NaN,NaN
+NED,19/05/1957,,Rapid JC Heerlen,Willem II,3,3,D,NaN,NaN,NaN
+NED,19/05/1957,,Sparta Rotterdam,Fortuna Sittard,0,0,D,NaN,NaN,NaN
+NED,30/05/1957,,AFC Ajax,NOAD Tilburg,2,1,H,NaN,NaN,NaN
+NED,02/06/1957,,BVV,Rapid JC Heerlen,3,1,H,NaN,NaN,NaN
+NED,02/06/1957,,DOS Utrecht,NAC Breda,4,1,H,NaN,NaN,NaN
+NED,02/06/1957,,Feijenoord,DWS Amsterdam,2,2,D,NaN,NaN,NaN
+NED,02/06/1957,,Fortuna Sittard,Groninger VAV,3,2,H,NaN,NaN,NaN
+NED,02/06/1957,,PSV Eindhoven,SC Eindhoven,7,4,H,NaN,NaN,NaN
+NED,02/06/1957,,Sportclub Enschede,MVV,7,2,H,NaN,NaN,NaN
+NED,02/06/1957,,VVV-Venlo,Sparta Rotterdam,2,1,H,NaN,NaN,NaN
+NED,02/06/1957,,Willem II,USV Elinkwijk,4,0,H,NaN,NaN,NaN

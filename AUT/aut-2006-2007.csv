@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUT,18/07/2006,18:30,Austria Wien,Grazer AK,0,0,D,0,0,D
+AUT,19/07/2006,18:30,Sturm Graz,FC Wacker Tirol,2,3,A,1,2,A
+AUT,19/07/2006,18:30,SV Ried,RB Salzburg,0,3,A,0,1,A
+AUT,19/07/2006,18:30,SCR Altach,FC Superfund,2,3,A,2,2,D
+AUT,19/07/2006,18:30,SV Mattersburg,Rapid Wien,1,0,H,0,0,D
+AUT,22/07/2006,18:30,Grazer AK,SV Mattersburg,0,2,A,0,1,A
+AUT,22/07/2006,18:30,FC Superfund,Austria Wien,2,0,H,2,0,H
+AUT,22/07/2006,18:30,SCR Altach,RB Salzburg,0,2,A,0,2,A
+AUT,23/07/2006,18:30,Rapid Wien,Sturm Graz,4,1,H,3,0,H
+AUT,26/07/2006,18:30,SV Ried,FC Wacker Tirol,0,1,A,0,1,A
+AUT,29/07/2006,18:30,Austria Wien,RB Salzburg,1,1,D,0,0,D
+AUT,29/07/2006,18:30,Grazer AK,FC Superfund,2,1,H,2,0,H
+AUT,29/07/2006,18:30,SV Ried,Rapid Wien,1,0,H,0,0,D
+AUT,29/07/2006,18:30,SV Mattersburg,Sturm Graz,1,4,A,0,0,D
+AUT,30/07/2006,18:30,SCR Altach,FC Wacker Tirol,0,1,A,0,0,D
+AUT,05/08/2006,18:30,FC Superfund,SV Mattersburg,1,2,A,0,1,A
+AUT,05/08/2006,18:30,RB Salzburg,Grazer AK,4,1,H,2,0,H
+AUT,05/08/2006,18:30,FC Wacker Tirol,Austria Wien,1,1,D,0,1,A
+AUT,05/08/2006,18:30,Sturm Graz,SV Ried,1,0,H,0,0,D
+AUT,06/08/2006,18:30,Rapid Wien,SCR Altach,3,2,H,2,1,H
+AUT,12/08/2006,18:30,Austria Wien,Rapid Wien,0,0,D,0,0,D
+AUT,12/08/2006,18:30,FC Superfund,RB Salzburg,1,1,D,1,0,H
+AUT,12/08/2006,18:30,SCR Altach,Sturm Graz,4,1,H,2,1,H
+AUT,13/08/2006,18:30,SV Mattersburg,SV Ried,0,0,D,0,0,D
+AUT,23/08/2006,18:30,Grazer AK,FC Wacker Tirol,2,1,H,1,0,H
+AUT,19/08/2006,18:30,RB Salzburg,SV Mattersburg,2,0,H,0,0,D
+AUT,19/08/2006,18:30,FC Wacker Tirol,FC Superfund,0,0,D,0,0,D
+AUT,19/08/2006,18:30,Sturm Graz,Austria Wien,1,0,H,0,0,D
+AUT,19/08/2006,18:30,SV Ried,SCR Altach,1,2,A,0,0,D
+AUT,20/08/2006,18:30,Rapid Wien,Grazer AK,1,4,A,0,1,A
+AUT,26/08/2006,18:30,Grazer AK,Sturm Graz,0,0,D,0,0,D
+AUT,26/08/2006,18:30,FC Superfund,Rapid Wien,1,0,H,0,0,D
+AUT,26/08/2006,18:30,RB Salzburg,FC Wacker Tirol,4,0,H,0,0,D
+AUT,27/08/2006,16:15,SV Mattersburg,SCR Altach,6,3,H,1,1,D
+AUT,27/08/2006,18:30,Austria Wien,SV Ried,1,1,D,1,0,H
+AUT,09/09/2006,17:30,FC Wacker Tirol,SV Mattersburg,2,1,H,0,0,D
+AUT,09/09/2006,17:30,Sturm Graz,FC Superfund,0,0,D,0,0,D
+AUT,09/09/2006,17:30,SV Ried,Grazer AK,1,1,D,0,0,D
+AUT,09/09/2006,17:30,SCR Altach,Austria Wien,1,0,H,1,0,H
+AUT,10/09/2006,14:30,Rapid Wien,RB Salzburg,1,1,D,1,0,H
+AUT,16/09/2006,17:30,FC Wacker Tirol,Rapid Wien,2,2,D,0,0,D
+AUT,17/09/2006,14:30,Austria Wien,SV Mattersburg,3,1,H,2,1,H
+AUT,17/09/2006,14:30,Grazer AK,SCR Altach,1,1,D,1,0,H
+AUT,17/09/2006,14:30,FC Superfund,SV Ried,0,0,D,0,0,D
+AUT,17/09/2006,14:30,RB Salzburg,Sturm Graz,2,0,H,0,0,D
+AUT,23/09/2006,17:30,SCR Altach,Grazer AK,4,1,H,2,0,H
+AUT,23/09/2006,17:30,SV Ried,FC Superfund,1,1,D,1,0,H
+AUT,23/09/2006,17:30,Sturm Graz,RB Salzburg,2,1,H,2,0,H
+AUT,23/09/2006,17:30,Rapid Wien,FC Wacker Tirol,1,1,D,1,1,D
+AUT,24/09/2006,14:30,SV Mattersburg,Austria Wien,1,0,H,0,0,D
+AUT,30/09/2006,17:30,Rapid Wien,SV Mattersburg,4,1,H,1,1,D
+AUT,01/10/2006,14:30,Grazer AK,Austria Wien,1,3,A,0,1,A
+AUT,01/10/2006,14:30,FC Wacker Tirol,Sturm Graz,2,0,H,0,0,D
+AUT,01/10/2006,14:30,RB Salzburg,SV Ried,1,1,D,0,1,A
+AUT,01/10/2006,14:30,FC Superfund,SCR Altach,4,2,H,1,0,H
+AUT,14/10/2006,17:30,SV Mattersburg,Grazer AK,2,1,H,1,0,H
+AUT,14/10/2006,17:30,Austria Wien,FC Superfund,1,1,D,1,0,H
+AUT,14/10/2006,17:30,RB Salzburg,SCR Altach,3,0,H,2,0,H
+AUT,14/10/2006,17:30,FC Wacker Tirol,SV Ried,1,2,A,1,1,D
+AUT,15/10/2006,14:00,Sturm Graz,Rapid Wien,2,0,H,1,0,H
+AUT,21/10/2006,17:30,FC Superfund,Grazer AK,1,0,H,1,0,H
+AUT,21/10/2006,17:30,Rapid Wien,SV Ried,2,2,D,0,1,A
+AUT,21/10/2006,17:30,FC Wacker Tirol,SCR Altach,0,1,A,0,1,A
+AUT,21/10/2006,17:30,Sturm Graz,SV Mattersburg,0,0,D,0,0,D
+AUT,22/10/2006,14:30,RB Salzburg,Austria Wien,4,0,H,0,0,D
+AUT,28/10/2006,17:30,SV Mattersburg,FC Superfund,0,2,A,0,1,A
+AUT,28/10/2006,17:30,Austria Wien,FC Wacker Tirol,4,1,H,2,0,H
+AUT,28/10/2006,17:30,SCR Altach,Rapid Wien,3,1,H,1,1,D
+AUT,28/10/2006,17:30,SV Ried,Sturm Graz,2,1,H,2,1,H
+AUT,29/10/2006,14:30,Grazer AK,RB Salzburg,0,2,A,0,1,A
+AUT,04/11/2006,17:30,FC Wacker Tirol,Grazer AK,1,1,D,1,1,D
+AUT,04/11/2006,17:30,RB Salzburg,FC Superfund,3,0,H,2,0,H
+AUT,04/11/2006,17:30,Sturm Graz,SCR Altach,2,0,H,2,0,H
+AUT,04/11/2006,17:30,SV Ried,SV Mattersburg,6,2,H,3,1,H
+AUT,05/11/2006,14:30,Rapid Wien,Austria Wien,1,1,D,1,1,D
+AUT,07/11/2006,18:30,SV Mattersburg,RB Salzburg,2,1,H,1,1,D
+AUT,08/11/2006,18:30,FC Superfund,FC Wacker Tirol,0,2,A,0,1,A
+AUT,08/11/2006,18:30,Grazer AK,Rapid Wien,1,1,D,0,0,D
+AUT,08/11/2006,18:30,Austria Wien,Sturm Graz,1,1,D,1,0,H
+AUT,08/11/2006,18:30,SCR Altach,SV Ried,0,0,D,0,0,D
+AUT,11/11/2006,17:30,SV Ried,Austria Wien,1,0,H,1,0,H
+AUT,11/11/2006,17:30,Sturm Graz,Grazer AK,0,2,A,0,0,D
+AUT,11/11/2006,17:30,Rapid Wien,FC Superfund,1,1,D,0,0,D
+AUT,11/11/2006,17:30,SCR Altach,SV Mattersburg,0,2,A,0,0,D
+AUT,12/11/2006,14:30,FC Wacker Tirol,RB Salzburg,2,1,H,1,0,H
+AUT,18/11/2006,17:30,SV Mattersburg,FC Wacker Tirol,1,1,D,1,0,H
+AUT,18/11/2006,17:30,FC Superfund,Sturm Graz,1,0,H,0,0,D
+AUT,18/11/2006,17:30,Grazer AK,SV Ried,2,2,D,2,1,H
+AUT,18/11/2006,17:30,Austria Wien,SCR Altach,2,0,H,1,0,H
+AUT,19/11/2006,14:30,RB Salzburg,Rapid Wien,4,0,H,2,0,H
+AUT,25/11/2006,17:30,Austria Wien,Grazer AK,2,2,D,2,0,H
+AUT,25/11/2006,17:30,Sturm Graz,FC Wacker Tirol,2,0,H,2,0,H
+AUT,25/11/2006,17:30,SCR Altach,FC Superfund,3,2,H,1,2,A
+AUT,25/11/2006,17:30,SV Mattersburg,Rapid Wien,1,0,H,0,0,D
+AUT,26/11/2006,14:30,SV Ried,RB Salzburg,0,1,A,0,1,A
+AUT,02/12/2006,17:30,Grazer AK,SV Mattersburg,3,3,D,2,1,H
+AUT,02/12/2006,17:30,RB Salzburg,SCR Altach,1,1,D,0,0,D
+AUT,02/12/2006,17:30,FC Wacker Tirol,SV Ried,0,0,D,0,0,D
+AUT,02/12/2006,17:30,Rapid Wien,Sturm Graz,3,0,H,1,0,H
+AUT,03/12/2006,14:30,FC Superfund,Austria Wien,2,1,H,1,1,D
+AUT,09/12/2006,17:30,Austria Wien,RB Salzburg,0,2,A,0,0,D
+AUT,09/12/2006,17:30,Grazer AK,FC Superfund,2,1,H,2,0,H
+AUT,09/12/2006,17:30,SV Ried,Rapid Wien,1,2,A,0,1,A
+AUT,09/12/2006,17:30,SV Mattersburg,Sturm Graz,1,0,H,1,0,H
+AUT,10/12/2006,14:30,SCR Altach,FC Wacker Tirol,2,0,H,1,0,H
+AUT,24/02/2007,17:30,FC Superfund,SV Mattersburg,2,0,H,0,0,D
+AUT,24/02/2007,17:30,RB Salzburg,Grazer AK,2,1,H,0,1,A
+AUT,24/02/2007,17:30,Rapid Wien,SCR Altach,2,1,H,1,0,H
+AUT,24/02/2007,17:30,Sturm Graz,SV Ried,1,1,D,0,0,D
+AUT,25/02/2007,14:30,FC Wacker Tirol,Austria Wien,2,2,D,0,1,A
+AUT,03/03/2007,17:30,Grazer AK,FC Wacker Tirol,3,2,H,2,1,H
+AUT,03/03/2007,17:30,FC Superfund,RB Salzburg,0,1,A,0,0,D
+AUT,03/03/2007,17:30,SCR Altach,Sturm Graz,1,3,A,1,1,D
+AUT,03/03/2007,17:30,SV Mattersburg,SV Ried,1,2,A,1,0,H
+AUT,04/03/2007,14:30,Austria Wien,Rapid Wien,2,1,H,2,0,H
+AUT,10/03/2007,17:30,RB Salzburg,SV Mattersburg,1,1,D,0,0,D
+AUT,10/03/2007,17:30,FC Wacker Tirol,FC Superfund,0,0,D,0,0,D
+AUT,10/03/2007,17:30,Sturm Graz,Austria Wien,0,1,A,0,0,D
+AUT,10/03/2007,17:30,SV Ried,SCR Altach,2,0,H,0,0,D
+AUT,11/03/2007,14:30,Rapid Wien,Grazer AK,1,0,H,1,0,H
+AUT,17/03/2007,17:30,Austria Wien,SV Ried,2,1,H,0,1,A
+AUT,17/03/2007,17:30,FC Superfund,Rapid Wien,0,1,A,0,0,D
+AUT,17/03/2007,17:30,RB Salzburg,FC Wacker Tirol,3,0,H,2,0,H
+AUT,17/03/2007,17:30,SV Mattersburg,SCR Altach,2,1,H,1,1,D
+AUT,18/03/2007,14:30,Grazer AK,Sturm Graz,0,2,A,0,1,A
+AUT,31/03/2007,17:30,FC Wacker Tirol,SV Mattersburg,1,3,A,1,1,D
+AUT,31/03/2007,17:30,Rapid Wien,RB Salzburg,2,2,D,0,0,D
+AUT,31/03/2007,17:30,Sturm Graz,FC Superfund,2,1,H,2,0,H
+AUT,31/03/2007,17:30,SV Ried,Grazer AK,3,1,H,1,0,H
+AUT,01/04/2007,14:30,SCR Altach,Austria Wien,0,1,A,0,0,D
+AUT,07/04/2007,17:30,Austria Wien,SV Mattersburg,1,1,D,0,1,A
+AUT,07/04/2007,17:30,Grazer AK,SCR Altach,4,1,H,2,1,H
+AUT,07/04/2007,17:30,FC Superfund,SV Ried,3,1,H,2,0,H
+AUT,07/04/2007,17:30,FC Wacker Tirol,Rapid Wien,2,3,A,0,2,A
+AUT,08/04/2007,14:30,RB Salzburg,Sturm Graz,3,1,H,2,1,H
+AUT,14/04/2007,17:30,SV Mattersburg,Austria Wien,3,1,H,1,0,H
+AUT,14/04/2007,17:30,SCR Altach,Grazer AK,3,1,H,2,0,H
+AUT,14/04/2007,17:30,Sturm Graz,RB Salzburg,0,2,A,0,0,D
+AUT,14/04/2007,17:30,Rapid Wien,FC Wacker Tirol,2,1,H,1,1,D
+AUT,15/04/2007,14:30,SV Ried,FC Superfund,2,1,H,1,0,H
+AUT,17/04/2007,19:30,Rapid Wien,SV Mattersburg,2,2,D,2,2,D
+AUT,18/04/2007,18:30,Grazer AK,Austria Wien,2,1,H,1,0,H
+AUT,18/04/2007,18:30,FC Wacker Tirol,Sturm Graz,0,2,A,0,1,A
+AUT,18/04/2007,18:30,RB Salzburg,SV Ried,2,0,H,1,0,H
+AUT,18/04/2007,18:30,FC Superfund,SCR Altach,1,1,D,1,0,H
+AUT,21/04/2007,17:30,SV Mattersburg,Grazer AK,5,1,H,1,1,D
+AUT,21/04/2007,17:30,Austria Wien,FC Superfund,2,0,H,2,0,H
+AUT,21/04/2007,17:30,SCR Altach,RB Salzburg,0,2,A,0,1,A
+AUT,21/04/2007,17:30,SV Ried,FC Wacker Tirol,2,1,H,1,0,H
+AUT,22/04/2007,14:30,Sturm Graz,Rapid Wien,1,0,H,1,0,H
+AUT,28/04/2007,17:30,RB Salzburg,Austria Wien,2,2,D,1,1,D
+AUT,28/04/2007,17:30,FC Superfund,Grazer AK,3,0,H,0,0,D
+AUT,28/04/2007,17:30,FC Wacker Tirol,SCR Altach,1,1,D,1,1,D
+AUT,28/04/2007,17:30,Sturm Graz,SV Mattersburg,3,1,H,2,0,H
+AUT,29/04/2007,14:30,Rapid Wien,SV Ried,5,2,H,3,1,H
+AUT,05/05/2007,17:30,Grazer AK,RB Salzburg,0,0,D,0,0,D
+AUT,05/05/2007,17:30,Austria Wien,FC Wacker Tirol,4,1,H,0,0,D
+AUT,05/05/2007,17:30,SCR Altach,Rapid Wien,2,1,H,1,0,H
+AUT,05/05/2007,17:30,SV Ried,Sturm Graz,2,1,H,1,0,H
+AUT,06/05/2007,14:30,SV Mattersburg,FC Superfund,2,4,A,1,2,A
+AUT,08/05/2007,19:30,Rapid Wien,Austria Wien,3,0,H,2,0,H
+AUT,09/05/2007,18:30,FC Wacker Tirol,Grazer AK,5,1,H,2,1,H
+AUT,09/05/2007,18:30,RB Salzburg,FC Superfund,2,3,A,0,1,A
+AUT,09/05/2007,18:30,Sturm Graz,SCR Altach,1,0,H,0,0,D
+AUT,09/05/2007,18:30,SV Ried,SV Mattersburg,1,0,H,0,0,D
+AUT,12/05/2007,17:30,SV Mattersburg,RB Salzburg,2,1,H,1,1,D
+AUT,12/05/2007,17:30,FC Superfund,FC Wacker Tirol,3,1,H,1,1,D
+AUT,12/05/2007,17:30,Austria Wien,Sturm Graz,0,1,A,0,0,D
+AUT,12/05/2007,17:30,SCR Altach,SV Ried,0,2,A,0,2,A
+AUT,13/05/2007,15:00,Grazer AK,Rapid Wien,0,2,A,0,0,D
+AUT,17/05/2007,14:30,SV Ried,Austria Wien,1,0,H,0,0,D
+AUT,17/05/2007,14:30,Sturm Graz,Grazer AK,1,0,H,1,0,H
+AUT,17/05/2007,14:30,Rapid Wien,FC Superfund,2,0,H,2,0,H
+AUT,17/05/2007,14:30,FC Wacker Tirol,RB Salzburg,0,2,A,0,2,A
+AUT,17/05/2007,14:30,SCR Altach,SV Mattersburg,3,2,H,2,1,H
+AUT,20/05/2007,14:30,SV Mattersburg,FC Wacker Tirol,6,1,H,4,0,H
+AUT,20/05/2007,14:30,RB Salzburg,Rapid Wien,3,1,H,1,1,D
+AUT,20/05/2007,14:30,FC Superfund,Sturm Graz,1,1,D,1,1,D
+AUT,20/05/2007,14:30,Grazer AK,SV Ried,2,3,A,2,2,D
+AUT,20/05/2007,14:30,Austria Wien,SCR Altach,3,0,H,1,0,H

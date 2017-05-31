@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,11/08/1979,,Celtic FC,Greenock Morton FC,3,2,H,NaN,NaN,NaN
+SCO,11/08/1979,,Dundee United,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,11/08/1979,,Hibernian FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,11/08/1979,,Partick Thistle,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,11/08/1979,,St. Mirren FC,Kilmarnock FC,2,2,D,NaN,NaN,NaN
+SCO,18/08/1979,,Aberdeen FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,18/08/1979,,Dundee FC,St. Mirren FC,4,1,H,NaN,NaN,NaN
+SCO,18/08/1979,,Greenock Morton FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,18/08/1979,,Kilmarnock FC,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,18/08/1979,,Rangers FC,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,25/08/1979,,Celtic FC,Kilmarnock FC,5,0,H,NaN,NaN,NaN
+SCO,25/08/1979,,Dundee United,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,25/08/1979,,Hibernian FC,Dundee FC,5,2,H,NaN,NaN,NaN
+SCO,25/08/1979,,Partick Thistle,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,25/08/1979,,St. Mirren FC,Greenock Morton FC,0,3,A,NaN,NaN,NaN
+SCO,08/09/1979,,Celtic FC,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,08/09/1979,,Dundee FC,Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,08/09/1979,,Greenock Morton FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,08/09/1979,,Kilmarnock FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,08/09/1979,,Rangers FC,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,15/09/1979,,Aberdeen FC,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,15/09/1979,,Dundee FC,Greenock Morton FC,4,3,H,NaN,NaN,NaN
+SCO,15/09/1979,,Hibernian FC,Celtic FC,1,3,A,NaN,NaN,NaN
+SCO,15/09/1979,,Partick Thistle,Kilmarnock FC,0,0,D,NaN,NaN,NaN
+SCO,15/09/1979,,St. Mirren FC,Dundee United,3,2,H,NaN,NaN,NaN
+SCO,22/09/1979,,Aberdeen FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,22/09/1979,,Dundee United,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,22/09/1979,,Greenock Morton FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,22/09/1979,,Hibernian FC,St. Mirren FC,0,2,A,NaN,NaN,NaN
+SCO,22/09/1979,,Rangers FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,29/09/1979,,Celtic FC,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,29/09/1979,,Dundee FC,Aberdeen FC,0,4,A,NaN,NaN,NaN
+SCO,29/09/1979,,Greenock Morton FC,Dundee United,4,1,H,NaN,NaN,NaN
+SCO,29/09/1979,,Kilmarnock FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,29/09/1979,,Partick Thistle,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,06/10/1979,,Dundee United,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,06/10/1979,,Hibernian FC,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,06/10/1979,,Kilmarnock FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,06/10/1979,,St. Mirren FC,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,13/10/1979,,Aberdeen FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,13/10/1979,,Celtic FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,13/10/1979,,Dundee United,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,13/10/1979,,Rangers FC,Greenock Morton FC,2,2,D,NaN,NaN,NaN
+SCO,13/10/1979,,St. Mirren FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,20/10/1979,,Aberdeen FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,20/10/1979,,Dundee FC,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,20/10/1979,,Greenock Morton FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,20/10/1979,,Kilmarnock FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,20/10/1979,,Rangers FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,27/10/1979,,Celtic FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,27/10/1979,,Dundee United,Kilmarnock FC,4,0,H,NaN,NaN,NaN
+SCO,27/10/1979,,Hibernian FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,27/10/1979,,Partick Thistle,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,27/10/1979,,Partick Thistle,Greenock Morton FC,1,4,A,NaN,NaN,NaN
+SCO,27/10/1979,,St. Mirren FC,Dundee FC,4,2,H,NaN,NaN,NaN
+SCO,03/11/1979,,Aberdeen FC,Dundee United,0,3,A,NaN,NaN,NaN
+SCO,03/11/1979,,Dundee FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,03/11/1979,,Greenock Morton FC,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,03/11/1979,,Kilmarnock FC,Celtic FC,2,0,H,NaN,NaN,NaN
+SCO,03/11/1979,,Rangers FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,10/11/1979,,Aberdeen FC,Greenock Morton FC,1,2,A,NaN,NaN,NaN
+SCO,10/11/1979,,Dundee United,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,10/11/1979,,Hibernian FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,10/11/1979,,Partick Thistle,Dundee FC,2,3,A,NaN,NaN,NaN
+SCO,10/11/1979,,St. Mirren FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,17/11/1979,,Celtic FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,17/11/1979,,Dundee United,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,17/11/1979,,Greenock Morton FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,17/11/1979,,Kilmarnock FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,17/11/1979,,Rangers FC,Aberdeen FC,0,1,A,NaN,NaN,NaN
+SCO,24/11/1979,,Dundee FC,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,24/11/1979,,St. Mirren FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,28/11/1979,,Partick Thistle,Dundee United,1,1,D,NaN,NaN,NaN
+SCO,01/12/1979,,Hibernian FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,01/12/1979,,Rangers FC,Kilmarnock FC,2,1,H,NaN,NaN,NaN
+SCO,01/12/1979,,St. Mirren FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,08/12/1979,,Greenock Morton FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,15/12/1979,,Aberdeen FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,15/12/1979,,Celtic FC,Partick Thistle,5,1,H,NaN,NaN,NaN
+SCO,15/12/1979,,Dundee FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,15/12/1979,,Greenock Morton FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,15/12/1979,,Rangers FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,22/12/1979,,Celtic FC,Greenock Morton FC,3,1,H,NaN,NaN,NaN
+SCO,22/12/1979,,Dundee United,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,22/12/1979,,Hibernian FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,29/12/1979,,Greenock Morton FC,Partick Thistle,1,3,A,NaN,NaN,NaN
+SCO,29/12/1979,,Kilmarnock FC,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,29/12/1979,,Rangers FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,01/01/1980,,St. Mirren FC,Greenock Morton FC,2,2,D,NaN,NaN,NaN
+SCO,05/01/1980,,Celtic FC,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,05/01/1980,,Dundee FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,05/01/1980,,Greenock Morton FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,05/01/1980,,Kilmarnock FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,05/01/1980,,Rangers FC,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,12/01/1980,,Aberdeen FC,Rangers FC,3,2,H,NaN,NaN,NaN
+SCO,12/01/1980,,Dundee FC,Greenock Morton FC,1,0,H,NaN,NaN,NaN
+SCO,12/01/1980,,Hibernian FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,12/01/1980,,Partick Thistle,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,12/01/1980,,St. Mirren FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,19/01/1980,,Aberdeen FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,19/01/1980,,Greenock Morton FC,Kilmarnock FC,1,2,A,NaN,NaN,NaN
+SCO,02/02/1980,,Dundee FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,09/02/1980,,Hibernian FC,Greenock Morton FC,3,2,H,NaN,NaN,NaN
+SCO,09/02/1980,,Kilmarnock FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,09/02/1980,,Partick Thistle,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,09/02/1980,,St. Mirren FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,23/02/1980,,Aberdeen FC,Kilmarnock FC,1,2,A,NaN,NaN,NaN
+SCO,23/02/1980,,Celtic FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,23/02/1980,,Dundee United,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,23/02/1980,,Rangers FC,Greenock Morton FC,3,1,H,NaN,NaN,NaN
+SCO,23/02/1980,,St. Mirren FC,Partick Thistle,3,0,H,NaN,NaN,NaN
+SCO,01/03/1980,,Aberdeen FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,01/03/1980,,Dundee FC,Dundee United,1,1,D,NaN,NaN,NaN
+SCO,01/03/1980,,Greenock Morton FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,01/03/1980,,Kilmarnock FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,01/03/1980,,Rangers FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,08/03/1980,,Dundee United,Kilmarnock FC,0,0,D,NaN,NaN,NaN
+SCO,08/03/1980,,St. Mirren FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,12/03/1980,,Celtic FC,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,12/03/1980,,Dundee United,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,12/03/1980,,Kilmarnock FC,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,12/03/1980,,Rangers FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,15/03/1980,,Aberdeen FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,15/03/1980,,Dundee FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,15/03/1980,,Greenock Morton FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,15/03/1980,,Kilmarnock FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,15/03/1980,,Rangers FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,19/03/1980,,Aberdeen FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,19/03/1980,,Dundee United,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,22/03/1980,,Aberdeen FC,Greenock Morton FC,1,0,H,NaN,NaN,NaN
+SCO,25/03/1980,,Hibernian FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,29/03/1980,,Celtic FC,Hibernian FC,4,0,H,NaN,NaN,NaN
+SCO,29/03/1980,,Dundee United,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,29/03/1980,,Greenock Morton FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,29/03/1980,,Kilmarnock FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,29/03/1980,,Rangers FC,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,01/04/1980,,Kilmarnock FC,Aberdeen FC,0,4,A,NaN,NaN,NaN
+SCO,02/04/1980,,Celtic FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,02/04/1980,,Dundee FC,St. Mirren FC,1,3,A,NaN,NaN,NaN
+SCO,02/04/1980,,Hibernian FC,Dundee United,0,2,A,NaN,NaN,NaN
+SCO,02/04/1980,,Partick Thistle,Greenock Morton FC,0,1,A,NaN,NaN,NaN
+SCO,05/04/1980,,Celtic FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,05/04/1980,,Dundee FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,05/04/1980,,Kilmarnock FC,Greenock Morton FC,0,2,A,NaN,NaN,NaN
+SCO,05/04/1980,,Partick Thistle,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,05/04/1980,,St. Mirren FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,07/04/1980,,Aberdeen FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,08/04/1980,,Dundee United,Celtic FC,3,0,H,NaN,NaN,NaN
+SCO,09/04/1980,,Partick Thistle,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,12/04/1980,,Dundee United,Greenock Morton FC,2,0,H,NaN,NaN,NaN
+SCO,12/04/1980,,St. Mirren FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,13/04/1980,,Partick Thistle,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,16/04/1980,,Aberdeen FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,16/04/1980,,Celtic FC,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,19/04/1980,,Dundee FC,Celtic FC,5,1,H,NaN,NaN,NaN
+SCO,19/04/1980,,Greenock Morton FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,19/04/1980,,Hibernian FC,Dundee United,0,2,A,NaN,NaN,NaN
+SCO,19/04/1980,,Kilmarnock FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,19/04/1980,,Partick Thistle,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,21/04/1980,,Hibernian FC,Kilmarnock FC,1,2,A,NaN,NaN,NaN
+SCO,23/04/1980,,Celtic FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,23/04/1980,,Dundee United,Greenock Morton FC,2,0,H,NaN,NaN,NaN
+SCO,23/04/1980,,Kilmarnock FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,23/04/1980,,Partick Thistle,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,26/04/1980,,Aberdeen FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,26/04/1980,,Celtic FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,26/04/1980,,Dundee FC,Kilmarnock FC,0,2,A,NaN,NaN,NaN
+SCO,26/04/1980,,Greenock Morton FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,26/04/1980,,Rangers FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,29/04/1980,,Dundee United,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,29/04/1980,,Hibernian FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,30/04/1980,,Dundee FC,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,30/04/1980,,Rangers FC,Kilmarnock FC,1,0,H,NaN,NaN,NaN
+SCO,01/05/1980,,Greenock Morton FC,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,03/05/1980,,Hibernian FC,Aberdeen FC,0,5,A,NaN,NaN,NaN
+SCO,03/05/1980,,Partick Thistle,Rangers FC,4,3,H,NaN,NaN,NaN
+SCO,03/05/1980,,St. Mirren FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,05/05/1980,,Hibernian FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,07/05/1980,,Partick Thistle,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,07/05/1980,,St. Mirren FC,Rangers FC,4,1,H,NaN,NaN,NaN

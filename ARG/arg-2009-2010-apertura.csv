@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,21/08/2009,23:00,GyE La Plata,CD Godoy Cruz,0,2,A,0,1,A
+ARG,22/08/2009,01:00,Independiente,Newell's Old Boys,0,1,A,0,0,D
+ARG,22/08/2009,18:00,San Lorenzo,Atlético Tucumán,3,1,H,1,1,D
+ARG,22/08/2009,20:00,Chacarita Juniors,Tigre,1,2,A,1,1,D
+ARG,22/08/2009,22:00,Arsenal Sarandí,Estudiantes,0,2,A,0,2,A
+ARG,23/08/2009,00:00,Rosario Central,Racing Club,1,0,H,1,0,H
+ARG,23/08/2009,18:00,Huracán,CA Lanús,1,2,A,0,2,A
+ARG,23/08/2009,20:00,Boca Juniors,Argentinos Juniors,2,2,D,0,2,A
+ARG,23/08/2009,22:00,CA Banfield,River Plate,2,0,H,2,0,H
+ARG,24/08/2009,00:15,CA Colón,Vélez Sársfield,0,1,A,0,0,D
+ARG,28/08/2009,23:10,Tigre,Rosario Central,1,2,A,1,1,D
+ARG,29/08/2009,01:10,Racing Club,CA Colón,1,1,D,0,0,D
+ARG,29/08/2009,18:10,Vélez Sársfield,Arsenal Sarandí,3,1,H,1,0,H
+ARG,29/08/2009,20:10,Estudiantes,GyE La Plata,3,0,H,1,0,H
+ARG,29/08/2009,22:10,Argentinos Juniors,CA Banfield,1,1,D,0,1,A
+ARG,30/08/2009,00:10,CD Godoy Cruz,San Lorenzo,1,1,D,1,0,H
+ARG,30/08/2009,18:10,River Plate,Chacarita Juniors,4,3,H,2,2,D
+ARG,30/08/2009,20:10,Atlético Tucumán,Independiente,2,4,A,1,0,H
+ARG,30/08/2009,22:10,CA Lanús,Boca Juniors,1,2,A,1,1,D
+ARG,31/08/2009,00:10,Newell's Old Boys,Huracán,1,0,H,1,0,H
+ARG,02/09/2009,18:10,Arsenal Sarandí,Racing Club,0,0,D,0,0,D
+ARG,02/09/2009,20:10,San Lorenzo,Estudiantes,2,2,D,0,2,A
+ARG,03/09/2009,00:10,Argentinos Juniors,CA Lanús,0,0,D,0,0,D
+ARG,03/09/2009,20:00,Huracán,Atlético Tucumán,0,2,A,0,0,D
+ARG,03/09/2009,22:10,Independiente,CD Godoy Cruz,2,0,H,0,0,D
+ARG,04/09/2009,00:10,Boca Juniors,Newell's Old Boys,1,1,D,0,0,D
+ARG,04/09/2009,18:10,CA Banfield,Chacarita Juniors,1,0,H,1,0,H
+ARG,04/09/2009,23:10,CA Colón,Tigre,5,1,H,2,1,H
+ARG,05/09/2009,01:10,GyE La Plata,Vélez Sársfield,0,1,A,0,0,D
+ARG,09/09/2009,00:10,Rosario Central,River Plate,2,1,H,1,0,H
+ARG,11/09/2009,23:10,Racing Club,GyE La Plata,1,1,D,1,0,H
+ARG,12/09/2009,01:10,Newell's Old Boys,Argentinos Juniors,0,1,A,0,0,D
+ARG,12/09/2009,18:10,Chacarita Juniors,Rosario Central,0,1,A,0,1,A
+ARG,12/09/2009,20:10,Vélez Sársfield,San Lorenzo,0,0,D,0,0,D
+ARG,12/09/2009,22:10,Tigre,Arsenal Sarandí,1,2,A,1,2,A
+ARG,13/09/2009,00:10,Atlético Tucumán,Boca Juniors,2,0,H,1,0,H
+ARG,13/09/2009,18:00,CA Lanús,CA Banfield,1,2,A,1,1,D
+ARG,13/09/2009,20:10,River Plate,CA Colón,0,0,D,0,0,D
+ARG,13/09/2009,22:10,Estudiantes,Independiente,2,1,H,1,1,D
+ARG,14/09/2009,00:10,CD Godoy Cruz,Huracán,1,1,D,1,0,H
+ARG,18/09/2009,23:10,Huracán,Estudiantes,1,4,A,0,2,A
+ARG,19/09/2009,01:10,Rosario Central,CA Banfield,0,0,D,0,0,D
+ARG,19/09/2009,18:00,CA Colón,Chacarita Juniors,3,1,H,2,1,H
+ARG,19/09/2009,20:10,GyE La Plata,Tigre,2,0,H,0,0,D
+ARG,19/09/2009,22:10,Argentinos Juniors,Atlético Tucumán,2,1,H,1,0,H
+ARG,20/09/2009,00:10,Independiente,Vélez Sársfield,2,2,D,0,0,D
+ARG,20/09/2009,18:00,CA Lanús,Newell's Old Boys,0,2,A,0,1,A
+ARG,20/09/2009,20:10,San Lorenzo,Racing Club,0,0,D,0,0,D
+ARG,20/09/2009,22:10,Boca Juniors,CD Godoy Cruz,2,3,A,1,1,D
+ARG,21/09/2009,00:20,Arsenal Sarandí,River Plate,1,0,H,1,0,H
+ARG,25/09/2009,23:10,CD Godoy Cruz,Argentinos Juniors,2,4,A,1,0,H
+ARG,26/09/2009,01:10,CA Banfield,Newell's Old Boys,2,1,H,0,0,D
+ARG,26/09/2009,18:00,Chacarita Juniors,Arsenal Sarandí,1,0,H,1,0,H
+ARG,26/09/2009,20:10,Rosario Central,CA Colón,0,1,A,0,1,A
+ARG,26/09/2009,22:10,Estudiantes,Boca Juniors,2,1,H,1,0,H
+ARG,27/09/2009,00:15,Tigre,San Lorenzo,2,3,A,2,2,D
+ARG,27/09/2009,18:00,Vélez Sársfield,Huracán,2,0,H,1,0,H
+ARG,27/09/2009,20:10,Racing Club,Independiente,1,2,A,0,2,A
+ARG,27/09/2009,22:30,River Plate,GyE La Plata,2,2,D,1,0,H
+ARG,28/09/2009,00:30,Atlético Tucumán,CA Lanús,2,2,D,0,0,D
+ARG,02/10/2009,23:10,CA Colón,CA Banfield,0,0,D,0,0,D
+ARG,03/10/2009,01:10,Independiente,Tigre,2,1,H,1,1,D
+ARG,03/10/2009,18:00,Huracán,Racing Club,3,1,H,2,0,H
+ARG,03/10/2009,20:10,Argentinos Juniors,Estudiantes,1,0,H,1,0,H
+ARG,03/10/2009,22:10,Arsenal Sarandí,Rosario Central,1,0,H,0,0,D
+ARG,04/10/2009,00:15,Newell's Old Boys,Atlético Tucumán,3,0,H,1,0,H
+ARG,04/10/2009,18:00,GyE La Plata,Chacarita Juniors,2,0,H,1,0,H
+ARG,04/10/2009,20:10,San Lorenzo,River Plate,2,1,H,0,1,A
+ARG,04/10/2009,22:20,Boca Juniors,Vélez Sársfield,3,2,H,1,1,D
+ARG,05/10/2009,00:40,CA Lanús,CD Godoy Cruz,1,0,H,1,0,H
+ARG,07/10/2009,21:00,Tigre,Huracán,2,2,D,0,2,A
+ARG,07/10/2009,23:10,CA Banfield,Atlético Tucumán,1,1,D,0,1,A
+ARG,08/10/2009,01:15,CD Godoy Cruz,Newell's Old Boys,1,1,D,0,1,A
+ARG,08/10/2009,21:00,CA Colón,Arsenal Sarandí,4,1,H,1,0,H
+ARG,08/10/2009,23:10,Vélez Sársfield,Argentinos Juniors,1,0,H,1,0,H
+ARG,09/10/2009,01:15,Racing Club,Boca Juniors,1,2,A,1,0,H
+ARG,09/10/2009,19:50,Chacarita Juniors,San Lorenzo,0,2,A,0,1,A
+ARG,09/10/2009,23:10,Rosario Central,GyE La Plata,1,1,D,0,1,A
+ARG,10/10/2009,01:15,Estudiantes,CA Lanús,1,1,D,1,0,H
+ARG,12/10/2009,20:00,River Plate,Independiente,1,3,A,0,3,A
+ARG,16/10/2009,23:00,San Lorenzo,Rosario Central,1,0,H,1,0,H
+ARG,17/10/2009,01:10,CA Lanús,Vélez Sársfield,1,1,D,1,0,H
+ARG,17/10/2009,18:00,GyE La Plata,CA Colón,1,2,A,0,1,A
+ARG,17/10/2009,20:10,Atlético Tucumán,CD Godoy Cruz,1,1,D,1,0,H
+ARG,17/10/2009,22:20,Argentinos Juniors,Racing Club,2,0,H,2,0,H
+ARG,18/10/2009,00:15,Arsenal Sarandí,CA Banfield,1,1,D,0,0,D
+ARG,18/10/2009,18:00,Independiente,Chacarita Juniors,1,1,D,1,0,H
+ARG,18/10/2009,20:10,Huracán,River Plate,0,0,D,0,0,D
+ARG,18/10/2009,22:10,Boca Juniors,Tigre,2,1,H,0,0,D
+ARG,19/10/2009,00:15,Newell's Old Boys,Estudiantes,2,1,H,1,1,D
+ARG,23/10/2009,23:00,Estudiantes,Atlético Tucumán,1,0,H,1,0,H
+ARG,24/10/2009,01:10,Rosario Central,Independiente,2,0,H,1,0,H
+ARG,24/10/2009,18:00,CA Banfield,CD Godoy Cruz,3,0,H,3,0,H
+ARG,24/10/2009,20:10,Chacarita Juniors,Huracán,1,0,H,0,0,D
+ARG,24/10/2009,22:10,Racing Club,CA Lanús,1,1,D,0,1,A
+ARG,25/10/2009,00:15,Vélez Sársfield,Newell's Old Boys,1,2,A,1,0,H
+ARG,25/10/2009,16:45,Arsenal Sarandí,GyE La Plata,1,0,H,0,0,D
+ARG,25/10/2009,19:15,River Plate,Boca Juniors,1,1,D,1,0,H
+ARG,25/10/2009,21:15,Tigre,Argentinos Juniors,1,1,D,0,1,A
+ARG,25/10/2009,23:30,CA Colón,San Lorenzo,2,1,H,1,0,H
+ARG,27/10/2009,20:00,Newell's Old Boys,Racing Club,1,0,H,0,0,D
+ARG,27/10/2009,22:10,Atlético Tucumán,Vélez Sársfield,1,2,A,1,1,D
+ARG,28/10/2009,00:15,CD Godoy Cruz,Estudiantes,1,2,A,0,0,D
+ARG,28/10/2009,18:00,GyE La Plata,CA Banfield,0,1,A,0,0,D
+ARG,28/10/2009,20:10,San Lorenzo,Arsenal Sarandí,3,2,H,1,1,D
+ARG,28/10/2009,22:30,Huracán,Rosario Central,1,0,H,1,0,H
+ARG,29/10/2009,00:30,Independiente,CA Colón,3,2,H,2,1,H
+ARG,29/10/2009,18:00,Boca Juniors,Chacarita Juniors,3,0,H,2,0,H
+ARG,29/10/2009,20:10,CA Lanús,Tigre,4,0,H,2,0,H
+ARG,30/10/2009,00:10,Argentinos Juniors,River Plate,1,2,A,0,1,A
+ARG,31/10/2009,20:00,Vélez Sársfield,CD Godoy Cruz,2,0,H,1,0,H
+ARG,31/10/2009,22:10,Racing Club,Atlético Tucumán,4,0,H,3,0,H
+ARG,01/11/2009,00:15,GyE La Plata,San Lorenzo,2,2,D,1,1,D
+ARG,01/11/2009,17:00,Chacarita Juniors,Argentinos Juniors,2,2,D,1,0,H
+ARG,01/11/2009,19:10,River Plate,CA Lanús,0,1,A,0,1,A
+ARG,01/11/2009,21:10,Rosario Central,Boca Juniors,2,1,H,1,1,D
+ARG,01/11/2009,23:15,Arsenal Sarandí,Independiente,1,0,H,0,0,D
+ARG,02/11/2009,22:00,CA Banfield,Estudiantes,2,1,H,1,1,D
+ARG,03/11/2009,00:10,Tigre,Newell's Old Boys,1,2,A,0,0,D
+ARG,03/11/2009,22:00,CA Colón,Huracán,3,0,H,0,0,D
+ARG,06/11/2009,22:00,Argentinos Juniors,Rosario Central,1,1,D,1,1,D
+ARG,07/11/2009,00:10,Independiente,GyE La Plata,1,0,H,0,0,D
+ARG,07/11/2009,17:00,CA Lanús,Chacarita Juniors,0,3,A,0,1,A
+ARG,07/11/2009,19:10,CD Godoy Cruz,Racing Club,3,1,H,2,0,H
+ARG,07/11/2009,21:10,Newell's Old Boys,River Plate,2,1,H,1,0,H
+ARG,07/11/2009,23:15,Atlético Tucumán,Tigre,4,2,H,1,1,D
+ARG,08/11/2009,19:10,San Lorenzo,CA Banfield,0,1,A,0,0,D
+ARG,08/11/2009,21:10,Estudiantes,Vélez Sársfield,3,0,H,1,0,H
+ARG,08/11/2009,23:15,Boca Juniors,CA Colón,0,0,D,0,0,D
+ARG,09/11/2009,21:00,Huracán,Arsenal Sarandí,1,1,D,0,0,D
+ARG,13/11/2009,22:00,Chacarita Juniors,Newell's Old Boys,0,1,A,0,1,A
+ARG,14/11/2009,00:00,Tigre,CD Godoy Cruz,2,0,H,1,0,H
+ARG,14/11/2009,22:10,CA Banfield,Vélez Sársfield,3,0,H,0,0,D
+ARG,15/11/2009,00:10,CA Colón,Argentinos Juniors,2,0,H,1,0,H
+ARG,15/11/2009,20:00,San Lorenzo,Independiente,0,3,A,0,1,A
+ARG,15/11/2009,22:10,River Plate,Atlético Tucumán,3,1,H,0,1,A
+ARG,16/11/2009,00:15,Arsenal Sarandí,Boca Juniors,1,1,D,0,1,A
+ARG,16/11/2009,20:00,Racing Club,Estudiantes,1,0,H,1,0,H
+ARG,16/11/2009,22:10,GyE La Plata,Huracán,4,1,H,2,1,H
+ARG,17/11/2009,00:15,Rosario Central,CA Lanús,0,0,D,0,0,D
+ARG,20/11/2009,22:00,Estudiantes,Tigre,3,1,H,1,0,H
+ARG,21/11/2009,00:10,CA Lanús,CA Colón,3,0,H,1,0,H
+ARG,21/11/2009,20:00,Huracán,San Lorenzo,0,2,A,0,1,A
+ARG,21/11/2009,22:10,Atlético Tucumán,Chacarita Juniors,2,1,H,1,1,D
+ARG,22/11/2009,00:15,Independiente,CA Banfield,1,2,A,0,0,D
+ARG,22/11/2009,20:00,Newell's Old Boys,Rosario Central,2,2,D,2,2,D
+ARG,22/11/2009,22:30,Boca Juniors,GyE La Plata,4,0,H,2,0,H
+ARG,23/11/2009,00:30,CD Godoy Cruz,River Plate,1,1,D,0,1,A
+ARG,23/11/2009,21:00,Argentinos Juniors,Arsenal Sarandí,1,1,D,1,0,H
+ARG,24/11/2009,00:00,Vélez Sársfield,Racing Club,4,2,H,2,1,H
+ARG,27/11/2009,22:00,Rosario Central,Atlético Tucumán,1,1,D,1,0,H
+ARG,28/11/2009,00:10,Independiente,Huracán,2,0,H,0,0,D
+ARG,28/11/2009,20:00,Chacarita Juniors,CD Godoy Cruz,2,1,H,1,0,H
+ARG,28/11/2009,22:10,River Plate,Estudiantes,1,1,D,0,1,A
+ARG,29/11/2009,20:00,San Lorenzo,Boca Juniors,3,0,H,2,0,H
+ARG,29/11/2009,22:10,Tigre,Vélez Sársfield,0,3,A,0,1,A
+ARG,30/11/2009,00:15,CA Banfield,Racing Club,1,2,A,1,1,D
+ARG,30/11/2009,20:00,Arsenal Sarandí,CA Lanús,2,5,A,1,1,D
+ARG,30/11/2009,22:10,CA Colón,Newell's Old Boys,0,1,A,0,0,D
+ARG,01/12/2009,00:15,GyE La Plata,Argentinos Juniors,1,2,A,0,0,D
+ARG,03/12/2009,21:00,Estudiantes,Chacarita Juniors,0,0,D,0,0,D
+ARG,04/12/2009,20:00,CD Godoy Cruz,Rosario Central,1,1,D,0,0,D
+ARG,04/12/2009,22:10,Huracán,CA Banfield,0,1,A,0,0,D
+ARG,05/12/2009,00:15,Racing Club,Tigre,1,0,H,0,0,D
+ARG,05/12/2009,20:00,Argentinos Juniors,San Lorenzo,2,1,H,0,1,A
+ARG,05/12/2009,22:10,Atlético Tucumán,CA Colón,2,0,H,2,0,H
+ARG,06/12/2009,00:15,Boca Juniors,Independiente,1,2,A,0,1,A
+ARG,06/12/2009,20:00,Vélez Sársfield,River Plate,3,1,H,1,0,H
+ARG,06/12/2009,22:20,Newell's Old Boys,Arsenal Sarandí,1,2,A,0,2,A
+ARG,07/12/2009,00:15,CA Lanús,GyE La Plata,2,0,H,1,0,H
+ARG,11/11/2009,23:00,Rosario Central,Estudiantes,3,0,H,2,0,H
+ARG,08/12/2009,20:00,Huracán,Boca Juniors,0,0,D,0,0,D
+ARG,08/12/2009,22:25,CA Colón,CD Godoy Cruz,1,0,H,0,0,D
+ARG,09/12/2009,00:30,Independiente,Argentinos Juniors,1,1,D,0,0,D
+ARG,09/12/2009,20:00,San Lorenzo,CA Lanús,0,1,A,0,0,D
+ARG,09/12/2009,22:10,GyE La Plata,Newell's Old Boys,0,2,A,0,2,A
+ARG,10/12/2009,00:15,CA Banfield,Tigre,1,0,H,0,0,D
+ARG,10/12/2009,20:00,Chacarita Juniors,Vélez Sársfield,0,0,D,0,0,D
+ARG,10/12/2009,22:10,Arsenal Sarandí,Atlético Tucumán,2,0,H,1,0,H
+ARG,11/12/2009,00:15,River Plate,Racing Club,2,0,H,2,0,H
+ARG,25/11/2009,22:00,Estudiantes,CA Colón,0,1,A,0,0,D
+ARG,12/12/2009,22:10,Argentinos Juniors,Huracán,5,1,H,2,0,H
+ARG,13/12/2009,00:15,CA Lanús,Independiente,0,0,D,0,0,D
+ARG,13/12/2009,20:00,Boca Juniors,CA Banfield,2,0,H,1,0,H
+ARG,13/12/2009,20:00,Newell's Old Boys,San Lorenzo,0,2,A,0,1,A
+ARG,13/12/2009,22:30,Racing Club,Chacarita Juniors,0,2,A,0,1,A
+ARG,13/12/2009,22:30,Tigre,River Plate,0,2,A,0,1,A
+ARG,14/12/2009,00:30,Vélez Sársfield,Rosario Central,1,2,A,0,1,A
+ARG,14/12/2009,21:00,Atlético Tucumán,GyE La Plata,1,0,H,0,0,D
+ARG,15/12/2009,00:10,CD Godoy Cruz,Arsenal Sarandí,0,0,D,0,0,D

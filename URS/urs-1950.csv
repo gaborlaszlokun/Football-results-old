@@ -1,0 +1,343 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URS,16/04/1950,,Dinamo Tbilisi,Dinamo Moskva,1,3,A,NaN,NaN,NaN
+URS,16/04/1950,,Torpedo Stalingrad,Spartak Moskva,2,0,H,NaN,NaN,NaN
+URS,16/04/1950,,Dinamo Kiev,Dinamo Leningrad,2,2,D,NaN,NaN,NaN
+URS,16/04/1950,,Neftyanik Baku,Zenit Leningrad,1,4,A,NaN,NaN,NaN
+URS,16/04/1950,,Shakhtyor Stalino,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,17/04/1950,,FC Spartaki Tbilisi,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+URS,28/04/1950,,Krylia Sovetov,VVS Moskva,1,0,H,NaN,NaN,NaN
+URS,26/06/1950,,Torpedo Moskva,Lokomotiv Kharkov,1,0,H,NaN,NaN,NaN
+URS,08/07/1950,,CDKA Moskva,Dynamo Yerevan,4,0,H,NaN,NaN,NaN
+URS,19/04/1950,,Torpedo Stalingrad,CDKA Moskva,1,1,D,NaN,NaN,NaN
+URS,20/04/1950,,Dynamo Yerevan,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,20/04/1950,,Dinamo Tbilisi,Zenit Leningrad,1,3,A,NaN,NaN,NaN
+URS,20/04/1950,,Shakhtyor Stalino,Dinamo Leningrad,0,1,A,NaN,NaN,NaN
+URS,20/04/1950,,Dinamo Kiev,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+URS,20/04/1950,,Krylia Sovetov,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,20/04/1950,,FC Spartaki Tbilisi,Torpedo Moskva,2,1,H,NaN,NaN,NaN
+URS,10/05/1950,,Dinamo Minsk,Lokomotiv Kharkov,4,3,H,NaN,NaN,NaN
+URS,30/06/1950,,Daugava Rīga,Neftyanik Baku,5,0,H,NaN,NaN,NaN
+URS,23/04/1950,,Krylia Sovetov,CDKA Moskva,0,0,D,NaN,NaN,NaN
+URS,23/04/1950,,Torpedo Stalingrad,VVS Moskva,2,6,A,NaN,NaN,NaN
+URS,24/04/1950,,Neftyanik Baku,Dinamo Moskva,0,0,D,NaN,NaN,NaN
+URS,24/04/1950,,Shakhtyor Stalino,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+URS,24/04/1950,,Dinamo Kiev,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,24/04/1950,,FC Spartaki Tbilisi,Zenit Leningrad,1,4,A,NaN,NaN,NaN
+URS,24/04/1950,,Lokomotiv Kharkov,Dinamo Leningrad,0,2,A,NaN,NaN,NaN
+URS,25/04/1950,,Dinamo Tbilisi,Torpedo Moskva,2,1,H,NaN,NaN,NaN
+URS,25/04/1950,,Dynamo Yerevan,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+URS,16/04/1950,,Dynamo Yerevan,Torpedo Moskva,1,1,D,NaN,NaN,NaN
+URS,27/04/1950,,Dinamo Kiev,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,28/04/1950,,Lokomotiv Kharkov,Shakhtyor Stalino,1,0,H,NaN,NaN,NaN
+URS,28/04/1950,,Torpedo Stalingrad,Lokomotiv Moskva,2,2,D,NaN,NaN,NaN
+URS,28/04/1950,,Daugava Rīga,Dinamo Leningrad,1,0,H,NaN,NaN,NaN
+URS,29/04/1950,,Neftyanik Baku,FC Spartaki Tbilisi,2,0,H,NaN,NaN,NaN
+URS,24/05/1950,,CDKA Moskva,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+URS,15/06/1950,,Zenit Leningrad,Krylia Sovetov,4,0,H,NaN,NaN,NaN
+URS,11/07/1950,,VVS Moskva,Dinamo Moskva,1,2,A,NaN,NaN,NaN
+URS,28/04/1950,,Dynamo Yerevan,Zenit Leningrad,2,4,A,NaN,NaN,NaN
+URS,02/05/1950,,Shakhtyor Stalino,VVS Moskva,1,2,A,NaN,NaN,NaN
+URS,02/05/1950,,Krylia Sovetov,Torpedo Stalingrad,0,0,D,NaN,NaN,NaN
+URS,02/05/1950,,Daugava Rīga,Spartak Moskva,2,0,H,NaN,NaN,NaN
+URS,02/05/1950,,Dinamo Minsk,Dinamo Kiev,1,1,D,NaN,NaN,NaN
+URS,02/05/1950,,Torpedo Moskva,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+URS,02/05/1950,,Lokomotiv Kharkov,CDKA Moskva,1,1,D,NaN,NaN,NaN
+URS,02/05/1950,,Dinamo Leningrad,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+URS,21/06/1950,,Neftyanik Baku,Dinamo Tbilisi,1,3,A,NaN,NaN,NaN
+URS,02/05/1950,,Dinamo Tbilisi,Dynamo Yerevan,0,0,D,NaN,NaN,NaN
+URS,06/05/1950,,Daugava Rīga,Dinamo Moskva,2,0,H,NaN,NaN,NaN
+URS,07/05/1950,,Dinamo Minsk,Torpedo Moskva,3,0,H,NaN,NaN,NaN
+URS,07/05/1950,,Dinamo Kiev,CDKA Moskva,0,2,A,NaN,NaN,NaN
+URS,07/05/1950,,Shakhtyor Stalino,Torpedo Stalingrad,3,1,H,NaN,NaN,NaN
+URS,07/05/1950,,Dinamo Leningrad,Zenit Leningrad,4,0,H,NaN,NaN,NaN
+URS,07/05/1950,,Spartak Moskva,FC Spartaki Tbilisi,4,1,H,NaN,NaN,NaN
+URS,20/05/1950,,Krylia Sovetov,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+URS,14/06/1950,,Lokomotiv Kharkov,VVS Moskva,2,1,H,NaN,NaN,NaN
+URS,09/05/1950,,VVS Moskva,Dynamo Yerevan,1,3,A,NaN,NaN,NaN
+URS,10/05/1950,,Krylia Sovetov,FC Spartaki Tbilisi,1,0,H,NaN,NaN,NaN
+URS,10/05/1950,,Dinamo Leningrad,Dinamo Moskva,2,0,H,NaN,NaN,NaN
+URS,10/05/1950,,Lokomotiv Moskva,Daugava Rīga,2,2,D,NaN,NaN,NaN
+URS,11/05/1950,,Torpedo Stalingrad,Dinamo Tbilisi,1,4,A,NaN,NaN,NaN
+URS,11/05/1950,,Torpedo Moskva,Dinamo Kiev,0,3,A,NaN,NaN,NaN
+URS,26/05/1950,,Spartak Moskva,Zenit Leningrad,0,0,D,NaN,NaN,NaN
+URS,12/07/1950,,CDKA Moskva,Shakhtyor Stalino,7,0,H,NaN,NaN,NaN
+URS,08/11/1950,,Neftyanik Baku,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+URS,14/05/1950,,Torpedo Moskva,Daugava Rīga,0,0,D,NaN,NaN,NaN
+URS,14/05/1950,,Krylia Sovetov,Neftyanik Baku,1,0,H,NaN,NaN,NaN
+URS,14/05/1950,,Torpedo Stalingrad,FC Spartaki Tbilisi,1,0,H,NaN,NaN,NaN
+URS,15/05/1950,,VVS Moskva,Dinamo Tbilisi,0,4,A,NaN,NaN,NaN
+URS,16/05/1950,,Dinamo Minsk,Shakhtyor Stalino,2,3,A,NaN,NaN,NaN
+URS,16/05/1950,,Lokomotiv Moskva,CDKA Moskva,3,5,A,NaN,NaN,NaN
+URS,17/05/1950,,Zenit Leningrad,Lokomotiv Kharkov,2,0,H,NaN,NaN,NaN
+URS,17/05/1950,,Dinamo Moskva,Dinamo Kiev,3,1,H,NaN,NaN,NaN
+URS,18/05/1950,,Spartak Moskva,Dynamo Yerevan,4,0,H,NaN,NaN,NaN
+URS,16/04/1950,,Lokomotiv Kharkov,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+URS,20/05/1950,,Zenit Leningrad,Dinamo Minsk,5,1,H,NaN,NaN,NaN
+URS,20/05/1950,,VVS Moskva,FC Spartaki Tbilisi,1,0,H,NaN,NaN,NaN
+URS,21/05/1950,,Torpedo Stalingrad,Neftyanik Baku,0,3,A,NaN,NaN,NaN
+URS,21/05/1950,,CDKA Moskva,Daugava Rīga,2,0,H,NaN,NaN,NaN
+URS,22/05/1950,,Spartak Moskva,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,23/05/1950,,Krylia Sovetov,Dynamo Yerevan,2,1,H,NaN,NaN,NaN
+URS,25/05/1950,,Torpedo Moskva,Dinamo Leningrad,2,1,H,NaN,NaN,NaN
+URS,25/05/1950,,Shakhtyor Stalino,Dinamo Moskva,0,1,A,NaN,NaN,NaN
+URS,14/05/1950,,Spartak Moskva,Dinamo Leningrad,6,0,H,NaN,NaN,NaN
+URS,25/05/1950,,Lokomotiv Moskva,Neftyanik Baku,2,1,H,NaN,NaN,NaN
+URS,26/05/1950,,Daugava Rīga,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,26/05/1950,,Lokomotiv Kharkov,FC Spartaki Tbilisi,0,1,A,NaN,NaN,NaN
+URS,27/05/1950,,Dinamo Kiev,VVS Moskva,1,3,A,NaN,NaN,NaN
+URS,27/05/1950,,Torpedo Stalingrad,Dynamo Yerevan,0,2,A,NaN,NaN,NaN
+URS,28/05/1950,,Dinamo Minsk,Krylia Sovetov,1,2,A,NaN,NaN,NaN
+URS,29/05/1950,,Torpedo Moskva,CDKA Moskva,1,1,D,NaN,NaN,NaN
+URS,30/05/1950,,Dinamo Moskva,Zenit Leningrad,3,4,A,NaN,NaN,NaN
+URS,21/05/1950,,Lokomotiv Kharkov,Dinamo Moskva,0,2,A,NaN,NaN,NaN
+URS,30/05/1950,,FC Spartaki Tbilisi,Lokomotiv Moskva,1,2,A,NaN,NaN,NaN
+URS,31/05/1950,,Neftyanik Baku,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,31/05/1950,,Dynamo Yerevan,Shakhtyor Stalino,4,1,H,NaN,NaN,NaN
+URS,31/05/1950,,VVS Moskva,Dinamo Leningrad,1,1,D,NaN,NaN,NaN
+URS,01/06/1950,,Krylia Sovetov,Dinamo Tbilisi,1,0,H,NaN,NaN,NaN
+URS,01/06/1950,,Dinamo Minsk,Torpedo Stalingrad,3,1,H,NaN,NaN,NaN
+URS,02/06/1950,,Torpedo Moskva,Spartak Moskva,2,4,A,NaN,NaN,NaN
+URS,03/06/1950,,CDKA Moskva,Zenit Leningrad,0,0,D,NaN,NaN,NaN
+URS,04/06/1950,,FC Spartaki Tbilisi,Dinamo Kiev,2,1,H,NaN,NaN,NaN
+URS,04/06/1950,,Dinamo Moskva,Krylia Sovetov,4,0,H,NaN,NaN,NaN
+URS,04/06/1950,,Dynamo Yerevan,Lokomotiv Kharkov,1,2,A,NaN,NaN,NaN
+URS,04/06/1950,,Daugava Rīga,Torpedo Stalingrad,1,1,D,NaN,NaN,NaN
+URS,07/06/1950,,Torpedo Moskva,Zenit Leningrad,0,4,A,NaN,NaN,NaN
+URS,13/06/1950,,Dinamo Tbilisi,Shakhtyor Stalino,3,1,H,NaN,NaN,NaN
+URS,07/07/1950,,VVS Moskva,Dinamo Minsk,2,2,D,NaN,NaN,NaN
+URS,07/07/1950,,Lokomotiv Moskva,Spartak Moskva,1,4,A,NaN,NaN,NaN
+URS,08/07/1950,,Dinamo Leningrad,Neftyanik Baku,3,3,D,NaN,NaN,NaN
+URS,06/06/1950,,VVS Moskva,Spartak Moskva,1,2,A,NaN,NaN,NaN
+URS,08/06/1950,,Dinamo Minsk,Daugava Rīga,2,4,A,NaN,NaN,NaN
+URS,08/06/1950,,CDKA Moskva,Dinamo Moskva,2,0,H,NaN,NaN,NaN
+URS,08/06/1950,,Dinamo Leningrad,Krylia Sovetov,1,2,A,NaN,NaN,NaN
+URS,08/06/1950,,Neftyanik Baku,Lokomotiv Kharkov,0,2,A,NaN,NaN,NaN
+URS,09/06/1950,,Dinamo Tbilisi,Dinamo Kiev,2,0,H,NaN,NaN,NaN
+URS,10/06/1950,,FC Spartaki Tbilisi,Shakhtyor Stalino,0,0,D,NaN,NaN,NaN
+URS,11/06/1950,,Zenit Leningrad,Torpedo Stalingrad,0,1,A,NaN,NaN,NaN
+URS,03/07/1950,,Lokomotiv Moskva,Torpedo Moskva,3,2,H,NaN,NaN,NaN
+URS,06/05/1950,,VVS Moskva,Neftyanik Baku,4,0,H,NaN,NaN,NaN
+URS,21/05/1950,,Shakhtyor Stalino,Torpedo Moskva,1,1,D,NaN,NaN,NaN
+URS,12/06/1950,,Daugava Rīga,Krylia Sovetov,1,2,A,NaN,NaN,NaN
+URS,12/06/1950,,Spartak Moskva,CDKA Moskva,1,2,A,NaN,NaN,NaN
+URS,13/06/1950,,Lokomotiv Moskva,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+URS,13/06/1950,,Dynamo Yerevan,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,14/06/1950,,FC Spartaki Tbilisi,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+URS,30/06/1950,,Torpedo Stalingrad,Lokomotiv Kharkov,1,0,H,NaN,NaN,NaN
+URS,03/07/1950,,Dinamo Leningrad,Dinamo Tbilisi,3,3,D,NaN,NaN,NaN
+URS,18/06/1950,,Daugava Rīga,VVS Moskva,1,0,H,NaN,NaN,NaN
+URS,18/06/1950,,Torpedo Moskva,Torpedo Stalingrad,0,2,A,NaN,NaN,NaN
+URS,18/06/1950,,FC Spartaki Tbilisi,Dinamo Tbilisi,1,3,A,NaN,NaN,NaN
+URS,18/06/1950,,Lokomotiv Moskva,Zenit Leningrad,2,0,H,NaN,NaN,NaN
+URS,18/06/1950,,Shakhtyor Stalino,Spartak Moskva,1,1,D,NaN,NaN,NaN
+URS,18/06/1950,,Lokomotiv Kharkov,Dinamo Kiev,0,1,A,NaN,NaN,NaN
+URS,19/06/1950,,Dinamo Moskva,Dinamo Minsk,3,0,H,NaN,NaN,NaN
+URS,30/06/1950,,Dinamo Leningrad,Dynamo Yerevan,3,0,H,NaN,NaN,NaN
+URS,04/07/1950,,CDKA Moskva,Neftyanik Baku,3,1,H,NaN,NaN,NaN
+URS,07/05/1950,,Lokomotiv Kharkov,Dinamo Tbilisi,0,3,A,NaN,NaN,NaN
+URS,10/05/1950,,Spartak Moskva,Neftyanik Baku,4,0,H,NaN,NaN,NaN
+URS,22/06/1950,,Dinamo Kiev,Shakhtyor Stalino,4,1,H,NaN,NaN,NaN
+URS,22/06/1950,,FC Spartaki Tbilisi,Dynamo Yerevan,3,1,H,NaN,NaN,NaN
+URS,22/06/1950,,CDKA Moskva,VVS Moskva,0,1,A,NaN,NaN,NaN
+URS,22/06/1950,,Krylia Sovetov,Torpedo Moskva,1,2,A,NaN,NaN,NaN
+URS,23/06/1950,,Zenit Leningrad,Daugava Rīga,3,0,H,NaN,NaN,NaN
+URS,23/06/1950,,Dinamo Minsk,Dinamo Leningrad,0,2,A,NaN,NaN,NaN
+URS,23/06/1950,,Lokomotiv Moskva,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,04/06/1950,,Neftyanik Baku,Shakhtyor Stalino,1,0,H,NaN,NaN,NaN
+URS,25/06/1950,,CDKA Moskva,Dinamo Tbilisi,3,1,H,NaN,NaN,NaN
+URS,25/06/1950,,Dinamo Leningrad,FC Spartaki Tbilisi,0,0,D,NaN,NaN,NaN
+URS,26/06/1950,,Lokomotiv Moskva,VVS Moskva,3,6,A,NaN,NaN,NaN
+URS,27/06/1950,,Dinamo Minsk,Spartak Moskva,3,3,D,NaN,NaN,NaN
+URS,27/06/1950,,Torpedo Stalingrad,Dinamo Moskva,0,5,A,NaN,NaN,NaN
+URS,27/06/1950,,Daugava Rīga,Dynamo Yerevan,1,2,A,NaN,NaN,NaN
+URS,09/07/1950,,Zenit Leningrad,Dinamo Kiev,3,0,H,NaN,NaN,NaN
+URS,09/07/1950,,Krylia Sovetov,Lokomotiv Kharkov,3,1,H,NaN,NaN,NaN
+URS,20/04/1950,,Lokomotiv Kharkov,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,05/06/1950,,Dinamo Tbilisi,Lokomotiv Moskva,5,1,H,NaN,NaN,NaN
+URS,14/06/1950,,Dinamo Leningrad,Torpedo Stalingrad,2,0,H,NaN,NaN,NaN
+URS,18/06/1950,,Dynamo Yerevan,Neftyanik Baku,2,2,D,NaN,NaN,NaN
+URS,28/06/1950,,Shakhtyor Stalino,Zenit Leningrad,5,0,H,NaN,NaN,NaN
+URS,30/06/1950,,Dinamo Kiev,Krylia Sovetov,1,0,H,NaN,NaN,NaN
+URS,30/06/1950,,Torpedo Moskva,VVS Moskva,1,2,A,NaN,NaN,NaN
+URS,01/07/1950,,CDKA Moskva,FC Spartaki Tbilisi,4,1,H,NaN,NaN,NaN
+URS,02/07/1950,,Dinamo Moskva,Spartak Moskva,1,1,D,NaN,NaN,NaN
+URS,28/04/1950,,Dinamo Tbilisi,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+URS,08/06/1950,,Dynamo Yerevan,Lokomotiv Moskva,3,1,H,NaN,NaN,NaN
+URS,11/06/1950,,Neftyanik Baku,Torpedo Moskva,0,2,A,NaN,NaN,NaN
+URS,18/06/1950,,Dinamo Leningrad,CDKA Moskva,1,1,D,NaN,NaN,NaN
+URS,22/06/1950,,Lokomotiv Kharkov,Spartak Moskva,0,2,A,NaN,NaN,NaN
+URS,04/07/1950,,VVS Moskva,Zenit Leningrad,2,0,H,NaN,NaN,NaN
+URS,04/07/1950,,Dinamo Kiev,Torpedo Stalingrad,4,0,H,NaN,NaN,NaN
+URS,04/07/1950,,Shakhtyor Stalino,Krylia Sovetov,0,1,A,NaN,NaN,NaN
+URS,05/07/1950,,Daugava Rīga,FC Spartaki Tbilisi,1,1,D,NaN,NaN,NaN
+URS,06/07/1950,,Dinamo Moskva,Dinamo Tbilisi,5,4,H,NaN,NaN,NaN
+URS,08/07/1950,,Daugava Rīga,Shakhtyor Stalino,1,0,H,NaN,NaN,NaN
+URS,12/07/1950,,Dinamo Minsk,FC Spartaki Tbilisi,3,0,H,NaN,NaN,NaN
+URS,12/07/1950,,Zenit Leningrad,Neftyanik Baku,2,1,H,NaN,NaN,NaN
+URS,12/07/1950,,Spartak Moskva,Torpedo Stalingrad,2,0,H,NaN,NaN,NaN
+URS,13/07/1950,,Dinamo Leningrad,Dinamo Kiev,5,0,H,NaN,NaN,NaN
+URS,14/07/1950,,VVS Moskva,Krylia Sovetov,2,1,H,NaN,NaN,NaN
+URS,22/09/1950,,Lokomotiv Kharkov,Torpedo Moskva,2,2,D,NaN,NaN,NaN
+URS,24/09/1950,,Dynamo Yerevan,CDKA Moskva,1,1,D,NaN,NaN,NaN
+URS,16/07/1950,,CDKA Moskva,Torpedo Stalingrad,4,1,H,NaN,NaN,NaN
+URS,18/07/1950,,Spartak Moskva,Krylia Sovetov,3,0,H,NaN,NaN,NaN
+URS,19/07/1950,,Torpedo Moskva,FC Spartaki Tbilisi,4,3,H,NaN,NaN,NaN
+URS,20/07/1950,,Zenit Leningrad,Dinamo Tbilisi,3,2,H,NaN,NaN,NaN
+URS,20/07/1950,,Dinamo Moskva,Dynamo Yerevan,5,0,H,NaN,NaN,NaN
+URS,21/07/1950,,Dinamo Leningrad,Shakhtyor Stalino,1,2,A,NaN,NaN,NaN
+URS,21/07/1950,,Lokomotiv Moskva,Dinamo Kiev,0,2,A,NaN,NaN,NaN
+URS,07/08/1950,,Lokomotiv Kharkov,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+URS,14/09/1950,,Neftyanik Baku,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,04/07/1950,,Dinamo Minsk,Dynamo Yerevan,0,1,A,NaN,NaN,NaN
+URS,10/07/1950,,Torpedo Moskva,Dinamo Tbilisi,4,1,H,NaN,NaN,NaN
+URS,16/07/1950,,Zenit Leningrad,FC Spartaki Tbilisi,1,4,A,NaN,NaN,NaN
+URS,16/07/1950,,Dinamo Moskva,Neftyanik Baku,6,0,H,NaN,NaN,NaN
+URS,17/07/1950,,Lokomotiv Moskva,Shakhtyor Stalino,1,3,A,NaN,NaN,NaN
+URS,17/07/1950,,Dinamo Leningrad,Lokomotiv Kharkov,4,1,H,NaN,NaN,NaN
+URS,17/07/1950,,Daugava Rīga,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,20/07/1950,,VVS Moskva,Torpedo Stalingrad,3,0,H,NaN,NaN,NaN
+URS,22/07/1950,,CDKA Moskva,Krylia Sovetov,4,2,H,NaN,NaN,NaN
+URS,15/07/1950,,Torpedo Moskva,Dynamo Yerevan,3,1,H,NaN,NaN,NaN
+URS,30/07/1950,,Shakhtyor Stalino,Lokomotiv Kharkov,2,1,H,NaN,NaN,NaN
+URS,02/08/1950,,Dinamo Leningrad,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,12/08/1950,,FC Spartaki Tbilisi,Neftyanik Baku,3,3,D,NaN,NaN,NaN
+URS,15/08/1950,,Spartak Moskva,Dinamo Kiev,1,4,A,NaN,NaN,NaN
+URS,01/09/1950,,Dinamo Minsk,CDKA Moskva,0,1,A,NaN,NaN,NaN
+URS,06/09/1950,,Lokomotiv Moskva,Torpedo Stalingrad,2,1,H,NaN,NaN,NaN
+URS,22/09/1950,,Dinamo Moskva,VVS Moskva,6,0,H,NaN,NaN,NaN
+URS,06/10/1950,,Krylia Sovetov,Zenit Leningrad,2,3,A,NaN,NaN,NaN
+URS,24/07/1950,,Zenit Leningrad,Dynamo Yerevan,1,1,D,NaN,NaN,NaN
+URS,24/07/1950,,Dinamo Moskva,Torpedo Moskva,6,2,H,NaN,NaN,NaN
+URS,25/07/1950,,Lokomotiv Moskva,Dinamo Leningrad,0,5,A,NaN,NaN,NaN
+URS,26/07/1950,,CDKA Moskva,Lokomotiv Kharkov,4,0,H,NaN,NaN,NaN
+URS,11/08/1950,,Dinamo Kiev,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+URS,05/09/1950,,Spartak Moskva,Daugava Rīga,5,0,H,NaN,NaN,NaN
+URS,10/09/1950,,Dinamo Tbilisi,Neftyanik Baku,2,0,H,NaN,NaN,NaN
+URS,18/09/1950,,Torpedo Stalingrad,Krylia Sovetov,0,4,A,NaN,NaN,NaN
+URS,27/09/1950,,VVS Moskva,Shakhtyor Stalino,3,0,H,NaN,NaN,NaN
+URS,28/07/1950,,Dinamo Moskva,Daugava Rīga,3,0,H,NaN,NaN,NaN
+URS,29/07/1950,,Torpedo Moskva,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+URS,30/07/1950,,Zenit Leningrad,Dinamo Leningrad,1,1,D,NaN,NaN,NaN
+URS,08/08/1950,,FC Spartaki Tbilisi,Spartak Moskva,2,1,H,NaN,NaN,NaN
+URS,15/08/1950,,Dynamo Yerevan,Dinamo Tbilisi,0,1,A,NaN,NaN,NaN
+URS,16/08/1950,,Torpedo Stalingrad,Shakhtyor Stalino,1,3,A,NaN,NaN,NaN
+URS,03/09/1950,,Lokomotiv Moskva,Krylia Sovetov,0,2,A,NaN,NaN,NaN
+URS,04/09/1950,,VVS Moskva,Lokomotiv Kharkov,1,2,A,NaN,NaN,NaN
+URS,05/09/1950,,CDKA Moskva,Dinamo Kiev,5,0,H,NaN,NaN,NaN
+URS,20/07/1950,,Dinamo Minsk,Neftyanik Baku,3,2,H,NaN,NaN,NaN
+URS,30/07/1950,,Dynamo Yerevan,VVS Moskva,1,2,A,NaN,NaN,NaN
+URS,30/07/1950,,FC Spartaki Tbilisi,Krylia Sovetov,4,1,H,NaN,NaN,NaN
+URS,06/08/1950,,Daugava Rīga,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+URS,06/08/1950,,Dinamo Moskva,Dinamo Leningrad,0,2,A,NaN,NaN,NaN
+URS,07/08/1950,,Shakhtyor Stalino,CDKA Moskva,0,7,A,NaN,NaN,NaN
+URS,07/08/1950,,Dinamo Tbilisi,Torpedo Stalingrad,7,0,H,NaN,NaN,NaN
+URS,29/08/1950,,Zenit Leningrad,Spartak Moskva,1,2,A,NaN,NaN,NaN
+URS,18/09/1950,,Dinamo Kiev,Torpedo Moskva,1,1,D,NaN,NaN,NaN
+URS,30/07/1950,,CDKA Moskva,Lokomotiv Moskva,4,0,H,NaN,NaN,NaN
+URS,01/08/1950,,Dinamo Kiev,Dinamo Moskva,0,2,A,NaN,NaN,NaN
+URS,03/08/1950,,Shakhtyor Stalino,Dinamo Minsk,3,0,H,NaN,NaN,NaN
+URS,03/08/1950,,FC Spartaki Tbilisi,Torpedo Stalingrad,0,1,A,NaN,NaN,NaN
+URS,03/08/1950,,Lokomotiv Kharkov,Zenit Leningrad,1,0,H,NaN,NaN,NaN
+URS,03/08/1950,,Neftyanik Baku,Krylia Sovetov,1,2,A,NaN,NaN,NaN
+URS,04/08/1950,,Dynamo Yerevan,Spartak Moskva,2,1,H,NaN,NaN,NaN
+URS,04/08/1950,,Dinamo Tbilisi,VVS Moskva,1,5,A,NaN,NaN,NaN
+URS,10/08/1950,,Daugava Rīga,Torpedo Moskva,1,1,D,NaN,NaN,NaN
+URS,13/07/1950,,Lokomotiv Moskva,Lokomotiv Kharkov,0,1,A,NaN,NaN,NaN
+URS,25/07/1950,,FC Spartaki Tbilisi,VVS Moskva,1,1,D,NaN,NaN,NaN
+URS,30/07/1950,,Neftyanik Baku,Torpedo Stalingrad,0,1,A,NaN,NaN,NaN
+URS,31/07/1950,,Dinamo Tbilisi,Spartak Moskva,1,0,H,NaN,NaN,NaN
+URS,07/08/1950,,Dynamo Yerevan,Krylia Sovetov,1,1,D,NaN,NaN,NaN
+URS,15/08/1950,,Daugava Rīga,CDKA Moskva,1,0,H,NaN,NaN,NaN
+URS,05/09/1950,,Dinamo Minsk,Zenit Leningrad,1,3,A,NaN,NaN,NaN
+URS,05/09/1950,,Dinamo Leningrad,Torpedo Moskva,1,2,A,NaN,NaN,NaN
+URS,06/09/1950,,Dinamo Moskva,Shakhtyor Stalino,0,1,A,NaN,NaN,NaN
+URS,03/08/1950,,CDKA Moskva,Torpedo Moskva,2,2,D,NaN,NaN,NaN
+URS,11/08/1950,,Dynamo Yerevan,Torpedo Stalingrad,2,0,H,NaN,NaN,NaN
+URS,14/08/1950,,Zenit Leningrad,Dinamo Moskva,2,4,A,NaN,NaN,NaN
+URS,16/08/1950,,FC Spartaki Tbilisi,Lokomotiv Kharkov,1,0,H,NaN,NaN,NaN
+URS,01/09/1950,,Dinamo Leningrad,Spartak Moskva,2,2,D,NaN,NaN,NaN
+URS,22/09/1950,,Dinamo Tbilisi,Daugava Rīga,5,2,H,NaN,NaN,NaN
+URS,24/09/1950,,Krylia Sovetov,Dinamo Minsk,2,0,H,NaN,NaN,NaN
+URS,24/09/1950,,Neftyanik Baku,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+URS,01/10/1950,,VVS Moskva,Dinamo Kiev,2,0,H,NaN,NaN,NaN
+URS,25/07/1950,,Torpedo Stalingrad,Dinamo Minsk,0,0,D,NaN,NaN,NaN
+URS,26/07/1950,,Dinamo Tbilisi,Krylia Sovetov,3,1,H,NaN,NaN,NaN
+URS,19/08/1950,,Zenit Leningrad,CDKA Moskva,1,8,A,NaN,NaN,NaN
+URS,23/08/1950,,Dinamo Kiev,Neftyanik Baku,2,2,D,NaN,NaN,NaN
+URS,23/08/1950,,Shakhtyor Stalino,Dynamo Yerevan,2,0,H,NaN,NaN,NaN
+URS,27/08/1950,,Lokomotiv Moskva,FC Spartaki Tbilisi,0,1,A,NaN,NaN,NaN
+URS,27/08/1950,,Dinamo Leningrad,VVS Moskva,2,5,A,NaN,NaN,NaN
+URS,18/09/1950,,Dinamo Moskva,Lokomotiv Kharkov,3,1,H,NaN,NaN,NaN
+URS,08/11/1950,,Spartak Moskva,Torpedo Moskva,2,2,D,NaN,NaN,NaN
+URS,16/08/1950,,Dinamo Minsk,VVS Moskva,2,4,A,NaN,NaN,NaN
+URS,20/08/1950,,Spartak Moskva,Lokomotiv Moskva,6,1,H,NaN,NaN,NaN
+URS,20/08/1950,,Lokomotiv Kharkov,Dynamo Yerevan,2,0,H,NaN,NaN,NaN
+URS,24/08/1950,,Torpedo Stalingrad,Daugava Rīga,0,2,A,NaN,NaN,NaN
+URS,27/08/1950,,Shakhtyor Stalino,Dinamo Tbilisi,2,2,D,NaN,NaN,NaN
+URS,31/08/1950,,Dinamo Kiev,FC Spartaki Tbilisi,1,1,D,NaN,NaN,NaN
+URS,10/09/1950,,Zenit Leningrad,Torpedo Moskva,1,0,H,NaN,NaN,NaN
+URS,14/09/1950,,Krylia Sovetov,Dinamo Moskva,2,2,D,NaN,NaN,NaN
+URS,20/09/1950,,Neftyanik Baku,Dinamo Leningrad,3,0,H,NaN,NaN,NaN
+URS,12/08/1950,,Spartak Moskva,VVS Moskva,2,0,H,NaN,NaN,NaN
+URS,14/08/1950,,Torpedo Moskva,Lokomotiv Moskva,1,2,A,NaN,NaN,NaN
+URS,16/08/1950,,Krylia Sovetov,Dinamo Leningrad,2,2,D,NaN,NaN,NaN
+URS,19/08/1950,,Dinamo Kiev,Dinamo Tbilisi,1,2,A,NaN,NaN,NaN
+URS,20/08/1950,,Shakhtyor Stalino,FC Spartaki Tbilisi,0,2,A,NaN,NaN,NaN
+URS,27/08/1950,,Lokomotiv Kharkov,Neftyanik Baku,2,0,H,NaN,NaN,NaN
+URS,28/08/1950,,Daugava Rīga,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+URS,29/08/1950,,Dinamo Moskva,CDKA Moskva,2,0,H,NaN,NaN,NaN
+URS,22/09/1950,,Torpedo Stalingrad,Zenit Leningrad,0,3,A,NaN,NaN,NaN
+URS,08/08/1950,,Neftyanik Baku,VVS Moskva,0,2,A,NaN,NaN,NaN
+URS,20/08/1950,,Krylia Sovetov,Daugava Rīga,3,0,H,NaN,NaN,NaN
+URS,24/08/1950,,Dinamo Moskva,FC Spartaki Tbilisi,5,1,H,NaN,NaN,NaN
+URS,25/08/1950,,CDKA Moskva,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,27/08/1950,,Dinamo Kiev,Dynamo Yerevan,3,0,H,NaN,NaN,NaN
+URS,10/09/1950,,Dinamo Minsk,Lokomotiv Moskva,3,1,H,NaN,NaN,NaN
+URS,10/09/1950,,Lokomotiv Kharkov,Torpedo Stalingrad,3,0,H,NaN,NaN,NaN
+URS,14/09/1950,,Torpedo Moskva,Shakhtyor Stalino,4,0,H,NaN,NaN,NaN
+URS,27/09/1950,,Dinamo Tbilisi,Dinamo Leningrad,3,1,H,NaN,NaN,NaN
+URS,20/08/1950,,Dinamo Minsk,Dinamo Moskva,1,5,A,NaN,NaN,NaN
+URS,28/08/1950,,Torpedo Stalingrad,Torpedo Moskva,2,1,H,NaN,NaN,NaN
+URS,05/09/1950,,Dinamo Tbilisi,FC Spartaki Tbilisi,0,1,A,NaN,NaN,NaN
+URS,08/09/1950,,VVS Moskva,Daugava Rīga,0,1,A,NaN,NaN,NaN
+URS,12/09/1950,,Dynamo Yerevan,Dinamo Leningrad,0,2,A,NaN,NaN,NaN
+URS,14/09/1950,,Zenit Leningrad,Lokomotiv Moskva,3,0,H,NaN,NaN,NaN
+URS,24/09/1950,,Spartak Moskva,Shakhtyor Stalino,5,0,H,NaN,NaN,NaN
+URS,26/09/1950,,Dinamo Kiev,Lokomotiv Kharkov,0,1,A,NaN,NaN,NaN
+URS,28/09/1950,,Neftyanik Baku,CDKA Moskva,3,3,D,NaN,NaN,NaN
+URS,26/07/1950,,Shakhtyor Stalino,Dinamo Kiev,6,0,H,NaN,NaN,NaN
+URS,26/07/1950,,Neftyanik Baku,Spartak Moskva,3,2,H,NaN,NaN,NaN
+URS,10/08/1950,,Dinamo Moskva,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+URS,11/08/1950,,Dinamo Tbilisi,Lokomotiv Kharkov,0,0,D,NaN,NaN,NaN
+URS,24/08/1950,,Dinamo Leningrad,Dinamo Minsk,5,0,H,NaN,NaN,NaN
+URS,24/08/1950,,Torpedo Moskva,Krylia Sovetov,2,1,H,NaN,NaN,NaN
+URS,01/09/1950,,Daugava Rīga,Zenit Leningrad,2,1,H,NaN,NaN,NaN
+URS,09/09/1950,,Dynamo Yerevan,FC Spartaki Tbilisi,1,1,D,NaN,NaN,NaN
+URS,12/09/1950,,VVS Moskva,CDKA Moskva,2,2,D,NaN,NaN,NaN
+URS,07/08/1950,,Dinamo Kiev,Zenit Leningrad,1,2,A,NaN,NaN,NaN
+URS,30/08/1950,,Lokomotiv Kharkov,Krylia Sovetov,1,1,D,NaN,NaN,NaN
+URS,31/08/1950,,Shakhtyor Stalino,Neftyanik Baku,4,2,H,NaN,NaN,NaN
+URS,02/09/1950,,Dinamo Moskva,Torpedo Stalingrad,1,0,H,NaN,NaN,NaN
+URS,16/09/1950,,FC Spartaki Tbilisi,Dinamo Leningrad,4,0,H,NaN,NaN,NaN
+URS,17/09/1950,,Dinamo Tbilisi,CDKA Moskva,2,2,D,NaN,NaN,NaN
+URS,18/09/1950,,Dynamo Yerevan,Daugava Rīga,1,0,H,NaN,NaN,NaN
+URS,19/09/1950,,VVS Moskva,Lokomotiv Moskva,4,1,H,NaN,NaN,NaN
+URS,20/09/1950,,Spartak Moskva,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+URS,21/07/1950,,Daugava Rīga,Lokomotiv Kharkov,3,0,H,NaN,NaN,NaN
+URS,20/08/1950,,Torpedo Stalingrad,Dinamo Leningrad,1,1,D,NaN,NaN,NaN
+URS,23/08/1950,,Lokomotiv Moskva,Dinamo Tbilisi,1,2,A,NaN,NaN,NaN
+URS,01/09/1950,,VVS Moskva,Torpedo Moskva,4,4,D,NaN,NaN,NaN
+URS,05/09/1950,,Neftyanik Baku,Dynamo Yerevan,1,1,D,NaN,NaN,NaN
+URS,10/09/1950,,Spartak Moskva,Dinamo Moskva,1,3,A,NaN,NaN,NaN
+URS,10/09/1950,,Krylia Sovetov,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,17/09/1950,,Zenit Leningrad,Shakhtyor Stalino,2,2,D,NaN,NaN,NaN
+URS,21/09/1950,,FC Spartaki Tbilisi,CDKA Moskva,2,2,D,NaN,NaN,NaN
+URS,16/07/1950,,Dinamo Minsk,Dinamo Tbilisi,0,1,A,NaN,NaN,NaN
+URS,11/08/1950,,CDKA Moskva,Dinamo Leningrad,2,0,H,NaN,NaN,NaN
+URS,13/08/1950,,Krylia Sovetov,Shakhtyor Stalino,0,0,D,NaN,NaN,NaN
+URS,18/08/1950,,Torpedo Moskva,Neftyanik Baku,2,0,H,NaN,NaN,NaN
+URS,23/08/1950,,Zenit Leningrad,VVS Moskva,0,4,A,NaN,NaN,NaN
+URS,31/08/1950,,Lokomotiv Moskva,Dynamo Yerevan,1,1,D,NaN,NaN,NaN
+URS,14/09/1950,,Torpedo Stalingrad,Dinamo Kiev,2,3,A,NaN,NaN,NaN
+URS,15/09/1950,,Spartak Moskva,Lokomotiv Kharkov,3,1,H,NaN,NaN,NaN
+URS,26/09/1950,,FC Spartaki Tbilisi,Daugava Rīga,2,2,D,NaN,NaN,NaN

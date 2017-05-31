@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,08/08/2014,19:00,PEC Zwolle,FC Utrecht,2,0,H,0,0,D
+NED,09/08/2014,17:30,sc Heerenveen,FC Dordrecht,1,2,A,1,1,D
+NED,09/08/2014,18:45,SC Cambuur,FC Twente,1,1,D,1,0,H
+NED,09/08/2014,18:45,NAC Breda,SBV Excelsior,1,1,D,1,1,D
+NED,09/08/2014,19:45,Heracles Almelo,AZ Alkmaar,0,3,A,0,0,D
+NED,10/08/2014,11:30,ADO Den Haag,Feyenoord,0,1,A,0,0,D
+NED,10/08/2014,13:30,Go Ahead Eagles,FC Groningen,2,3,A,1,0,H
+NED,10/08/2014,13:30,AFC Ajax,Vitesse,4,1,H,1,0,H
+NED,10/08/2014,15:45,Willem II,PSV Eindhoven,1,3,A,1,2,A
+NED,15/08/2014,19:00,Feyenoord,sc Heerenveen,1,1,D,0,0,D
+NED,16/08/2014,17:30,PSV Eindhoven,NAC Breda,6,1,H,2,1,H
+NED,16/08/2014,18:45,FC Dordrecht,PEC Zwolle,1,2,A,0,1,A
+NED,16/08/2014,18:45,FC Twente,ADO Den Haag,2,2,D,1,0,H
+NED,16/08/2014,19:45,Vitesse,SC Cambuur,2,2,D,2,1,H
+NED,17/08/2014,11:30,AZ Alkmaar,AFC Ajax,1,3,A,0,1,A
+NED,17/08/2014,13:30,FC Utrecht,Willem II,2,1,H,0,0,D
+NED,17/08/2014,13:30,SBV Excelsior,Go Ahead Eagles,3,2,H,1,0,H
+NED,17/08/2014,15:45,FC Groningen,Heracles Almelo,3,1,H,2,0,H
+NED,22/08/2014,19:00,Heracles Almelo,SC Cambuur,0,1,A,0,0,D
+NED,23/08/2014,17:30,Willem II,AZ Alkmaar,3,0,H,2,0,H
+NED,23/08/2014,18:45,sc Heerenveen,SBV Excelsior,2,0,H,0,0,D
+NED,23/08/2014,19:45,Go Ahead Eagles,FC Dordrecht,0,0,D,0,0,D
+NED,24/08/2014,11:30,PEC Zwolle,Vitesse,2,1,H,0,1,A
+NED,24/08/2014,13:30,Feyenoord,FC Utrecht,1,2,A,1,1,D
+NED,24/08/2014,13:30,NAC Breda,FC Twente,1,1,D,0,1,A
+NED,24/08/2014,13:30,ADO Den Haag,FC Groningen,3,0,H,0,0,D
+NED,24/08/2014,15:45,AFC Ajax,PSV Eindhoven,1,3,A,1,0,H
+NED,29/08/2014,19:00,Go Ahead Eagles,Willem II,1,0,H,0,0,D
+NED,30/08/2014,17:30,SC Cambuur,ADO Den Haag,3,2,H,1,0,H
+NED,30/08/2014,18:45,FC Dordrecht,AZ Alkmaar,1,3,A,0,2,A
+NED,30/08/2014,18:45,SBV Excelsior,Heracles Almelo,3,1,H,1,1,D
+NED,30/08/2014,19:45,sc Heerenveen,FC Utrecht,3,1,H,1,0,H
+NED,31/08/2014,11:30,PSV Eindhoven,Vitesse,2,0,H,0,0,D
+NED,31/08/2014,13:30,NAC Breda,PEC Zwolle,3,1,H,1,0,H
+NED,31/08/2014,13:30,FC Groningen,AFC Ajax,2,0,H,0,0,D
+NED,31/08/2014,15:45,FC Twente,Feyenoord,0,0,D,0,0,D
+NED,13/09/2014,17:30,AFC Ajax,Heracles Almelo,2,1,H,2,0,H
+NED,13/09/2014,17:30,FC Twente,Go Ahead Eagles,2,1,H,2,1,H
+NED,13/09/2014,18:45,AZ Alkmaar,sc Heerenveen,0,1,A,0,1,A
+NED,13/09/2014,19:45,Feyenoord,Willem II,1,2,A,0,2,A
+NED,13/09/2014,19:45,PEC Zwolle,PSV Eindhoven,3,1,H,1,1,D
+NED,14/09/2014,11:30,FC Utrecht,ADO Den Haag,0,0,D,0,0,D
+NED,14/09/2014,13:30,SC Cambuur,FC Groningen,3,0,H,0,0,D
+NED,14/09/2014,13:30,Vitesse,SBV Excelsior,3,1,H,1,0,H
+NED,14/09/2014,15:45,FC Dordrecht,NAC Breda,0,1,A,0,0,D
+NED,19/09/2014,19:00,Willem II,NAC Breda,2,1,H,1,1,D
+NED,20/09/2014,17:30,SBV Excelsior,FC Dordrecht,1,1,D,0,0,D
+NED,20/09/2014,18:45,ADO Den Haag,Go Ahead Eagles,1,1,D,0,0,D
+NED,20/09/2014,19:45,Vitesse,sc Heerenveen,1,1,D,1,1,D
+NED,21/09/2014,11:30,Heracles Almelo,FC Twente,1,4,A,1,3,A
+NED,21/09/2014,13:30,Feyenoord,AFC Ajax,0,1,A,0,1,A
+NED,21/09/2014,13:30,PSV Eindhoven,SC Cambuur,4,0,H,2,0,H
+NED,21/09/2014,13:30,AZ Alkmaar,PEC Zwolle,1,0,H,0,0,D
+NED,21/09/2014,15:45,FC Utrecht,FC Groningen,1,0,H,0,0,D
+NED,27/09/2014,17:30,FC Dordrecht,Vitesse,2,6,A,0,2,A
+NED,27/09/2014,17:30,NAC Breda,AFC Ajax,2,5,A,0,3,A
+NED,27/09/2014,18:45,PEC Zwolle,Heracles Almelo,4,2,H,2,1,H
+NED,27/09/2014,19:45,Go Ahead Eagles,Feyenoord,0,4,A,0,2,A
+NED,27/09/2014,19:45,ADO Den Haag,AZ Alkmaar,2,3,A,1,1,D
+NED,28/09/2014,11:30,SBV Excelsior,SC Cambuur,1,1,D,1,0,H
+NED,28/09/2014,13:30,FC Groningen,Willem II,1,0,H,1,0,H
+NED,28/09/2014,13:30,FC Twente,FC Utrecht,3,1,H,1,0,H
+NED,28/09/2014,15:45,sc Heerenveen,PSV Eindhoven,1,0,H,0,0,D
+NED,03/10/2014,19:00,Vitesse,ADO Den Haag,6,1,H,5,1,H
+NED,04/10/2014,17:30,Heracles Almelo,NAC Breda,6,1,H,3,0,H
+NED,04/10/2014,18:45,SC Cambuur,FC Dordrecht,4,1,H,2,0,H
+NED,04/10/2014,18:45,Willem II,sc Heerenveen,2,1,H,0,1,A
+NED,04/10/2014,19:45,FC Utrecht,Go Ahead Eagles,2,3,A,0,0,D
+NED,05/10/2014,11:30,PSV Eindhoven,SBV Excelsior,3,0,H,2,0,H
+NED,05/10/2014,13:30,AZ Alkmaar,FC Twente,2,2,D,1,0,H
+NED,05/10/2014,13:30,Feyenoord,FC Groningen,4,0,H,1,0,H
+NED,05/10/2014,15:45,AFC Ajax,PEC Zwolle,0,0,D,0,0,D
+NED,18/10/2014,17:30,Willem II,Vitesse,1,4,A,0,2,A
+NED,18/10/2014,17:30,PSV Eindhoven,AZ Alkmaar,3,0,H,3,0,H
+NED,18/10/2014,18:45,Feyenoord,Heracles Almelo,2,1,H,2,0,H
+NED,18/10/2014,19:45,NAC Breda,ADO Den Haag,1,1,D,1,0,H
+NED,18/10/2014,19:45,FC Twente,AFC Ajax,1,1,D,1,0,H
+NED,19/10/2014,11:30,sc Heerenveen,SC Cambuur,2,2,D,1,0,H
+NED,19/10/2014,13:30,FC Dordrecht,FC Utrecht,1,3,A,0,1,A
+NED,19/10/2014,13:30,Go Ahead Eagles,PEC Zwolle,3,2,H,3,1,H
+NED,19/10/2014,15:45,FC Groningen,SBV Excelsior,1,1,D,1,1,D
+NED,24/10/2014,19:00,ADO Den Haag,FC Dordrecht,2,0,H,1,0,H
+NED,25/10/2014,17:30,Vitesse,NAC Breda,2,2,D,1,0,H
+NED,25/10/2014,18:45,Heracles Almelo,Willem II,1,3,A,0,1,A
+NED,25/10/2014,18:45,AZ Alkmaar,FC Groningen,2,2,D,0,1,A
+NED,25/10/2014,19:45,AFC Ajax,Go Ahead Eagles,3,1,H,1,1,D
+NED,26/10/2014,11:30,SC Cambuur,Feyenoord,0,1,A,0,1,A
+NED,26/10/2014,13:30,FC Utrecht,PSV Eindhoven,1,5,A,0,3,A
+NED,26/10/2014,13:30,PEC Zwolle,sc Heerenveen,2,2,D,0,1,A
+NED,26/10/2014,15:45,SBV Excelsior,FC Twente,2,1,H,1,1,D
+NED,01/11/2014,17:30,AFC Ajax,FC Dordrecht,4,0,H,1,0,H
+NED,01/11/2014,18:45,Feyenoord,PEC Zwolle,2,0,H,0,0,D
+NED,01/11/2014,18:45,FC Twente,sc Heerenveen,2,0,H,0,0,D
+NED,01/11/2014,19:45,PSV Eindhoven,ADO Den Haag,1,0,H,0,0,D
+NED,02/11/2014,11:30,FC Utrecht,Vitesse,3,1,H,1,1,D
+NED,02/11/2014,13:30,Go Ahead Eagles,Heracles Almelo,1,3,A,1,0,H
+NED,02/11/2014,13:30,Willem II,SC Cambuur,1,1,D,0,0,D
+NED,02/11/2014,13:30,AZ Alkmaar,SBV Excelsior,3,3,D,1,2,A
+NED,02/11/2014,15:45,FC Groningen,NAC Breda,1,0,H,1,0,H
+NED,07/11/2014,19:00,SBV Excelsior,FC Utrecht,2,2,D,1,1,D
+NED,08/11/2014,17:30,ADO Den Haag,Willem II,3,2,H,2,0,H
+NED,08/11/2014,18:45,sc Heerenveen,Go Ahead Eagles,2,2,D,0,2,A
+NED,08/11/2014,18:45,PEC Zwolle,FC Groningen,2,0,H,1,0,H
+NED,08/11/2014,19:45,NAC Breda,AZ Alkmaar,0,1,A,0,0,D
+NED,09/11/2014,11:30,SC Cambuur,AFC Ajax,2,4,A,1,2,A
+NED,09/11/2014,13:30,FC Dordrecht,FC Twente,0,4,A,0,4,A
+NED,09/11/2014,13:30,Vitesse,Feyenoord,0,0,D,0,0,D
+NED,09/11/2014,15:45,Heracles Almelo,PSV Eindhoven,1,2,A,1,1,D
+NED,22/11/2014,17:30,AZ Alkmaar,Vitesse,1,0,H,1,0,H
+NED,22/11/2014,17:30,Go Ahead Eagles,NAC Breda,2,0,H,2,0,H
+NED,22/11/2014,18:45,Feyenoord,FC Dordrecht,2,0,H,0,0,D
+NED,22/11/2014,19:45,Willem II,SBV Excelsior,1,1,D,0,0,D
+NED,22/11/2014,19:45,AFC Ajax,sc Heerenveen,4,1,H,0,1,A
+NED,23/11/2014,11:30,FC Groningen,PSV Eindhoven,1,1,D,0,0,D
+NED,23/11/2014,13:30,PEC Zwolle,FC Twente,1,2,A,1,1,D
+NED,23/11/2014,13:30,Heracles Almelo,ADO Den Haag,3,1,H,3,1,H
+NED,23/11/2014,15:45,FC Utrecht,SC Cambuur,1,3,A,1,1,D
+NED,28/11/2014,19:00,FC Dordrecht,Willem II,0,4,A,0,2,A
+NED,29/11/2014,17:30,sc Heerenveen,Heracles Almelo,0,1,A,0,0,D
+NED,29/11/2014,18:45,NAC Breda,FC Utrecht,1,5,A,1,2,A
+NED,29/11/2014,18:45,Vitesse,Go Ahead Eagles,2,2,D,1,0,H
+NED,29/11/2014,19:45,SC Cambuur,AZ Alkmaar,0,2,A,0,1,A
+NED,30/11/2014,11:30,ADO Den Haag,AFC Ajax,1,1,D,0,1,A
+NED,30/11/2014,13:30,SBV Excelsior,PEC Zwolle,0,5,A,0,3,A
+NED,30/11/2014,13:30,FC Twente,FC Groningen,1,2,A,0,2,A
+NED,17/12/2014,19:45,PSV Eindhoven,Feyenoord,4,3,H,1,2,A
+NED,06/12/2014,17:30,AZ Alkmaar,Go Ahead Eagles,2,0,H,1,0,H
+NED,06/12/2014,17:30,SBV Excelsior,Feyenoord,2,5,A,0,3,A
+NED,06/12/2014,18:45,SC Cambuur,NAC Breda,0,1,A,0,1,A
+NED,06/12/2014,19:45,FC Dordrecht,PSV Eindhoven,1,3,A,1,2,A
+NED,06/12/2014,19:45,AFC Ajax,Willem II,5,0,H,4,0,H
+NED,07/12/2014,11:30,PEC Zwolle,ADO Den Haag,3,1,H,1,0,H
+NED,07/12/2014,13:30,FC Utrecht,Heracles Almelo,2,4,A,1,1,D
+NED,07/12/2014,13:30,FC Groningen,sc Heerenveen,1,1,D,1,1,D
+NED,07/12/2014,15:45,Vitesse,FC Twente,2,2,D,2,1,H
+NED,12/12/2014,19:00,Heracles Almelo,FC Dordrecht,1,1,D,0,1,A
+NED,13/12/2014,17:30,NAC Breda,sc Heerenveen,0,2,A,0,1,A
+NED,13/12/2014,18:45,ADO Den Haag,SBV Excelsior,2,2,D,2,2,D
+NED,13/12/2014,18:45,Willem II,PEC Zwolle,0,1,A,0,0,D
+NED,13/12/2014,19:45,Go Ahead Eagles,SC Cambuur,1,2,A,0,1,A
+NED,14/12/2014,11:30,AFC Ajax,FC Utrecht,3,1,H,2,1,H
+NED,14/12/2014,13:30,PSV Eindhoven,FC Twente,2,0,H,2,0,H
+NED,14/12/2014,13:30,FC Groningen,Vitesse,1,1,D,0,1,A
+NED,14/12/2014,15:45,Feyenoord,AZ Alkmaar,2,2,D,0,2,A
+NED,19/12/2014,19:00,sc Heerenveen,ADO Den Haag,0,0,D,0,0,D
+NED,20/12/2014,17:30,SC Cambuur,PEC Zwolle,2,1,H,0,1,A
+NED,20/12/2014,18:45,FC Dordrecht,FC Groningen,1,1,D,0,1,A
+NED,20/12/2014,18:45,PSV Eindhoven,Go Ahead Eagles,5,0,H,2,0,H
+NED,20/12/2014,19:45,AZ Alkmaar,FC Utrecht,0,3,A,0,3,A
+NED,21/12/2014,11:30,Vitesse,Heracles Almelo,3,0,H,3,0,H
+NED,21/12/2014,13:30,NAC Breda,Feyenoord,0,1,A,0,1,A
+NED,21/12/2014,13:30,SBV Excelsior,AFC Ajax,0,2,A,0,0,D
+NED,21/12/2014,15:45,FC Twente,Willem II,3,2,H,1,1,D
+NED,16/01/2015,19:00,AFC Ajax,FC Groningen,2,0,H,1,0,H
+NED,17/01/2015,17:30,PEC Zwolle,NAC Breda,4,1,H,1,0,H
+NED,17/01/2015,18:45,ADO Den Haag,SC Cambuur,2,2,D,2,1,H
+NED,17/01/2015,18:45,AZ Alkmaar,FC Dordrecht,2,0,H,1,0,H
+NED,17/01/2015,19:45,Vitesse,PSV Eindhoven,0,1,A,0,1,A
+NED,18/01/2015,11:30,Willem II,Go Ahead Eagles,1,0,H,0,0,D
+NED,18/01/2015,13:30,FC Utrecht,sc Heerenveen,1,2,A,0,0,D
+NED,18/01/2015,13:30,Feyenoord,FC Twente,3,1,H,1,0,H
+NED,18/01/2015,15:45,Heracles Almelo,SBV Excelsior,0,3,A,0,1,A
+NED,23/01/2015,19:00,FC Twente,Heracles Almelo,2,0,H,0,0,D
+NED,24/01/2015,17:30,SC Cambuur,PSV Eindhoven,1,2,A,0,1,A
+NED,24/01/2015,18:45,FC Dordrecht,SBV Excelsior,1,0,H,0,0,D
+NED,24/01/2015,18:45,PEC Zwolle,AZ Alkmaar,1,1,D,1,1,D
+NED,24/01/2015,19:45,sc Heerenveen,Vitesse,4,1,H,3,0,H
+NED,25/01/2015,11:30,AFC Ajax,Feyenoord,0,0,D,0,0,D
+NED,25/01/2015,13:30,NAC Breda,Willem II,0,0,D,0,0,D
+NED,25/01/2015,13:30,FC Groningen,FC Utrecht,2,2,D,1,1,D
+NED,25/01/2015,15:45,Go Ahead Eagles,ADO Den Haag,1,0,H,1,0,H
+NED,30/01/2015,19:00,FC Dordrecht,sc Heerenveen,0,0,D,0,0,D
+NED,31/01/2015,17:30,PSV Eindhoven,Willem II,2,1,H,0,0,D
+NED,31/01/2015,18:45,SBV Excelsior,NAC Breda,0,0,D,0,0,D
+NED,31/01/2015,18:45,FC Groningen,Go Ahead Eagles,2,0,H,1,0,H
+NED,31/01/2015,19:45,FC Twente,SC Cambuur,2,1,H,0,0,D
+NED,01/02/2015,11:30,Feyenoord,ADO Den Haag,2,1,H,2,0,H
+NED,01/02/2015,13:30,FC Utrecht,PEC Zwolle,0,2,A,0,1,A
+NED,01/02/2015,13:30,Vitesse,AFC Ajax,1,0,H,0,0,D
+NED,01/02/2015,15:45,AZ Alkmaar,Heracles Almelo,3,1,H,1,0,H
+NED,03/02/2015,17:30,Go Ahead Eagles,SBV Excelsior,0,0,D,0,0,D
+NED,03/02/2015,19:45,NAC Breda,PSV Eindhoven,0,2,A,0,0,D
+NED,04/02/2015,17:30,sc Heerenveen,Feyenoord,3,1,H,1,1,D
+NED,04/02/2015,17:30,ADO Den Haag,FC Twente,2,0,H,1,0,H
+NED,04/02/2015,19:00,PEC Zwolle,FC Dordrecht,4,0,H,1,0,H
+NED,04/02/2015,19:45,SC Cambuur,Vitesse,0,2,A,0,1,A
+NED,04/02/2015,19:45,Willem II,FC Utrecht,1,0,H,0,0,D
+NED,05/02/2015,17:30,Heracles Almelo,FC Groningen,2,2,D,1,0,H
+NED,05/02/2015,19:45,AFC Ajax,AZ Alkmaar,0,1,A,0,0,D
+NED,07/02/2015,17:30,FC Dordrecht,ADO Den Haag,0,0,D,0,0,D
+NED,07/02/2015,17:30,FC Twente,SBV Excelsior,1,3,A,1,1,D
+NED,07/02/2015,18:45,sc Heerenveen,PEC Zwolle,4,0,H,3,0,H
+NED,07/02/2015,19:45,NAC Breda,Vitesse,0,1,A,0,0,D
+NED,07/02/2015,19:45,PSV Eindhoven,FC Utrecht,3,1,H,0,0,D
+NED,08/02/2015,11:30,Feyenoord,SC Cambuur,2,1,H,1,0,H
+NED,08/02/2015,13:30,Willem II,Heracles Almelo,3,0,H,2,0,H
+NED,08/02/2015,13:30,Go Ahead Eagles,AFC Ajax,1,2,A,0,1,A
+NED,08/02/2015,15:45,FC Groningen,AZ Alkmaar,2,4,A,2,1,H
+NED,13/02/2015,19:00,AZ Alkmaar,PSV Eindhoven,2,4,A,1,2,A
+NED,14/02/2015,17:30,Heracles Almelo,Feyenoord,2,0,H,1,0,H
+NED,14/02/2015,18:45,Vitesse,Willem II,2,0,H,2,0,H
+NED,14/02/2015,18:45,SBV Excelsior,FC Groningen,1,1,D,0,0,D
+NED,14/02/2015,19:45,ADO Den Haag,NAC Breda,3,2,H,0,1,A
+NED,15/02/2015,11:30,SC Cambuur,sc Heerenveen,2,1,H,2,1,H
+NED,15/02/2015,13:30,FC Utrecht,FC Dordrecht,6,1,H,2,0,H
+NED,15/02/2015,13:30,PEC Zwolle,Go Ahead Eagles,0,1,A,0,1,A
+NED,15/02/2015,15:45,AFC Ajax,FC Twente,4,2,H,2,1,H
+NED,20/02/2015,19:00,NAC Breda,SC Cambuur,2,1,H,0,0,D
+NED,21/02/2015,17:30,ADO Den Haag,PEC Zwolle,3,2,H,1,0,H
+NED,21/02/2015,18:45,Go Ahead Eagles,AZ Alkmaar,0,2,A,0,1,A
+NED,21/02/2015,19:45,Heracles Almelo,FC Utrecht,1,1,D,0,0,D
+NED,22/02/2015,11:30,sc Heerenveen,FC Groningen,3,1,H,1,0,H
+NED,22/02/2015,13:30,PSV Eindhoven,FC Dordrecht,3,0,H,1,0,H
+NED,22/02/2015,13:30,Willem II,AFC Ajax,1,1,D,0,1,A
+NED,22/02/2015,13:30,FC Twente,Vitesse,1,2,A,0,1,A
+NED,22/02/2015,15:45,Feyenoord,SBV Excelsior,3,2,H,0,2,A
+NED,27/02/2015,19:00,FC Dordrecht,Go Ahead Eagles,2,1,H,1,1,D
+NED,28/02/2015,17:30,Vitesse,PEC Zwolle,2,1,H,1,1,D
+NED,28/02/2015,18:45,AZ Alkmaar,Willem II,2,0,H,1,0,H
+NED,28/02/2015,18:45,FC Twente,NAC Breda,1,1,D,1,0,H
+NED,28/02/2015,19:45,SC Cambuur,Heracles Almelo,1,0,H,1,0,H
+NED,01/03/2015,11:30,SBV Excelsior,sc Heerenveen,3,0,H,1,0,H
+NED,01/03/2015,13:30,FC Utrecht,Feyenoord,0,0,D,0,0,D
+NED,01/03/2015,13:30,FC Groningen,ADO Den Haag,1,1,D,0,0,D
+NED,01/03/2015,15:45,PSV Eindhoven,AFC Ajax,1,3,A,0,1,A
+NED,06/03/2015,19:00,Willem II,FC Twente,2,2,D,2,1,H
+NED,07/03/2015,17:30,Go Ahead Eagles,PSV Eindhoven,0,3,A,0,3,A
+NED,07/03/2015,18:45,ADO Den Haag,sc Heerenveen,0,1,A,0,0,D
+NED,07/03/2015,18:45,Heracles Almelo,Vitesse,1,1,D,0,1,A
+NED,07/03/2015,19:45,PEC Zwolle,SC Cambuur,6,1,H,2,0,H
+NED,08/03/2015,11:30,FC Groningen,FC Dordrecht,2,0,H,1,0,H
+NED,08/03/2015,13:30,Feyenoord,NAC Breda,3,0,H,1,0,H
+NED,08/03/2015,13:30,AFC Ajax,SBV Excelsior,1,0,H,0,0,D
+NED,08/03/2015,15:45,FC Utrecht,AZ Alkmaar,6,2,H,3,0,H
+NED,13/03/2015,19:00,Vitesse,AZ Alkmaar,3,1,H,1,1,D
+NED,14/03/2015,17:30,FC Twente,PEC Zwolle,2,0,H,0,0,D
+NED,14/03/2015,18:45,NAC Breda,Go Ahead Eagles,1,0,H,0,0,D
+NED,14/03/2015,18:45,SC Cambuur,FC Utrecht,3,1,H,2,1,H
+NED,14/03/2015,19:45,SBV Excelsior,Willem II,2,3,A,0,1,A
+NED,15/03/2015,11:30,ADO Den Haag,Heracles Almelo,1,3,A,0,1,A
+NED,15/03/2015,13:30,sc Heerenveen,AFC Ajax,1,4,A,1,3,A
+NED,15/03/2015,13:30,PSV Eindhoven,FC Groningen,2,1,H,1,1,D
+NED,15/03/2015,15:45,FC Dordrecht,Feyenoord,1,2,A,0,1,A
+NED,20/03/2015,19:00,FC Utrecht,NAC Breda,3,4,A,1,1,D
+NED,21/03/2015,17:30,Go Ahead Eagles,Vitesse,0,2,A,0,1,A
+NED,21/03/2015,18:45,Willem II,FC Dordrecht,2,1,H,1,0,H
+NED,21/03/2015,18:45,Heracles Almelo,sc Heerenveen,1,4,A,1,1,D
+NED,21/03/2015,19:45,AZ Alkmaar,SC Cambuur,2,1,H,1,0,H
+NED,22/03/2015,11:30,PEC Zwolle,SBV Excelsior,1,1,D,1,1,D
+NED,22/03/2015,13:30,FC Groningen,FC Twente,2,2,D,1,1,D
+NED,22/03/2015,13:30,Feyenoord,PSV Eindhoven,2,1,H,0,0,D
+NED,22/03/2015,15:45,AFC Ajax,ADO Den Haag,1,0,H,0,0,D
+NED,04/04/2015,17:30,Vitesse,FC Groningen,1,1,D,0,1,A
+NED,04/04/2015,17:30,PEC Zwolle,Willem II,1,0,H,0,0,D
+NED,04/04/2015,18:45,sc Heerenveen,NAC Breda,0,0,D,0,0,D
+NED,04/04/2015,19:45,FC Dordrecht,Heracles Almelo,2,3,A,2,1,H
+NED,04/04/2015,19:45,FC Twente,PSV Eindhoven,0,5,A,0,3,A
+NED,05/04/2015,11:30,AZ Alkmaar,Feyenoord,1,4,A,0,3,A
+NED,05/04/2015,11:30,FC Utrecht,AFC Ajax,1,1,D,0,0,D
+NED,05/04/2015,13:30,SBV Excelsior,ADO Den Haag,2,3,A,0,1,A
+NED,05/04/2015,15:45,SC Cambuur,Go Ahead Eagles,1,0,H,0,0,D
+NED,10/04/2015,19:00,PSV Eindhoven,PEC Zwolle,3,1,H,1,1,D
+NED,11/04/2015,17:30,SBV Excelsior,Vitesse,1,3,A,1,1,D
+NED,11/04/2015,18:45,sc Heerenveen,AZ Alkmaar,5,2,H,1,1,D
+NED,11/04/2015,18:45,NAC Breda,FC Dordrecht,2,2,D,2,0,H
+NED,11/04/2015,19:45,Heracles Almelo,AFC Ajax,0,2,A,0,1,A
+NED,12/04/2015,11:30,Willem II,Feyenoord,2,2,D,1,1,D
+NED,12/04/2015,13:30,Go Ahead Eagles,FC Twente,1,3,A,1,2,A
+NED,12/04/2015,13:30,FC Groningen,SC Cambuur,3,2,H,1,2,A
+NED,12/04/2015,15:45,ADO Den Haag,FC Utrecht,2,0,H,0,0,D
+NED,17/04/2015,19:00,SC Cambuur,SBV Excelsior,1,1,D,0,0,D
+NED,18/04/2015,17:30,AZ Alkmaar,ADO Den Haag,3,1,H,1,0,H
+NED,18/04/2015,18:45,Vitesse,FC Dordrecht,3,0,H,0,0,D
+NED,18/04/2015,18:45,PSV Eindhoven,sc Heerenveen,4,1,H,3,1,H
+NED,18/04/2015,19:45,Willem II,FC Groningen,1,4,A,0,2,A
+NED,19/04/2015,11:30,Feyenoord,Go Ahead Eagles,0,1,A,0,0,D
+NED,19/04/2015,13:30,AFC Ajax,NAC Breda,0,0,D,0,0,D
+NED,19/04/2015,13:30,Heracles Almelo,PEC Zwolle,2,0,H,1,0,H
+NED,19/04/2015,15:45,FC Utrecht,FC Twente,1,0,H,0,0,D
+NED,24/04/2015,19:00,ADO Den Haag,Vitesse,1,0,H,0,0,D
+NED,25/04/2015,17:30,sc Heerenveen,Willem II,1,1,D,0,0,D
+NED,25/04/2015,18:45,NAC Breda,Heracles Almelo,1,3,A,1,2,A
+NED,25/04/2015,18:45,Go Ahead Eagles,FC Utrecht,0,2,A,0,1,A
+NED,25/04/2015,19:45,SBV Excelsior,PSV Eindhoven,2,3,A,0,0,D
+NED,26/04/2015,11:30,FC Dordrecht,SC Cambuur,0,0,D,0,0,D
+NED,26/04/2015,13:30,FC Groningen,Feyenoord,1,1,D,1,1,D
+NED,26/04/2015,13:30,PEC Zwolle,AFC Ajax,1,1,D,0,0,D
+NED,26/04/2015,15:45,FC Twente,AZ Alkmaar,0,2,A,0,2,A
+NED,10/05/2015,13:30,FC Utrecht,SBV Excelsior,2,2,D,0,0,D
+NED,10/05/2015,13:30,Willem II,ADO Den Haag,1,0,H,0,0,D
+NED,10/05/2015,13:30,Go Ahead Eagles,sc Heerenveen,1,1,D,0,0,D
+NED,10/05/2015,13:30,AZ Alkmaar,NAC Breda,3,2,H,1,2,A
+NED,10/05/2015,13:30,AFC Ajax,SC Cambuur,3,0,H,0,0,D
+NED,10/05/2015,13:30,FC Twente,FC Dordrecht,3,0,H,0,0,D
+NED,10/05/2015,13:30,FC Groningen,PEC Zwolle,0,1,A,0,0,D
+NED,10/05/2015,13:30,PSV Eindhoven,Heracles Almelo,2,0,H,1,0,H
+NED,11/05/2015,19:00,Feyenoord,Vitesse,1,4,A,1,3,A
+NED,17/05/2015,13:30,Heracles Almelo,Go Ahead Eagles,1,0,H,0,0,D
+NED,17/05/2015,13:30,FC Dordrecht,AFC Ajax,2,1,H,0,0,D
+NED,17/05/2015,13:30,PEC Zwolle,Feyenoord,3,0,H,0,0,D
+NED,17/05/2015,13:30,sc Heerenveen,FC Twente,1,3,A,1,0,H
+NED,17/05/2015,13:30,ADO Den Haag,PSV Eindhoven,2,3,A,1,1,D
+NED,17/05/2015,13:30,Vitesse,FC Utrecht,3,3,D,2,2,D
+NED,17/05/2015,13:30,SC Cambuur,Willem II,1,2,A,0,1,A
+NED,17/05/2015,13:30,SBV Excelsior,AZ Alkmaar,1,4,A,1,3,A
+NED,17/05/2015,13:30,NAC Breda,FC Groningen,4,5,A,2,3,A

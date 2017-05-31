@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,25/02/1990,,FC Luzern,Lausanne Sports,1,1,D,NaN,NaN,NaN
+SUI,25/02/1990,,FC Lugano,Grasshoppers Zürich,1,0,H,NaN,NaN,NaN
+SUI,25/02/1990,,FC Sion,Neuchâtel Xamax FC,1,1,D,NaN,NaN,NaN
+SUI,25/02/1990,,BSC Young Boys,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,04/03/1990,,Grasshoppers Zürich,BSC Young Boys,1,2,A,NaN,NaN,NaN
+SUI,04/03/1990,,Lausanne Sports,FC Lugano,3,0,H,NaN,NaN,NaN
+SUI,04/03/1990,,Neuchâtel Xamax FC,FC Luzern,4,0,H,NaN,NaN,NaN
+SUI,04/03/1990,,FC St. Gallen,FC Sion,0,2,A,NaN,NaN,NaN
+SUI,11/03/1990,,FC Luzern,FC St. Gallen,2,2,D,NaN,NaN,NaN
+SUI,11/03/1990,,FC Lugano,Neuchâtel Xamax FC,0,5,A,NaN,NaN,NaN
+SUI,11/03/1990,,FC Sion,Grasshoppers Zürich,2,3,A,NaN,NaN,NaN
+SUI,11/03/1990,,BSC Young Boys,Lausanne Sports,2,2,D,NaN,NaN,NaN
+SUI,18/03/1990,,Grasshoppers Zürich,FC Luzern,5,1,H,NaN,NaN,NaN
+SUI,18/03/1990,,Lausanne Sports,FC Sion,1,1,D,NaN,NaN,NaN
+SUI,18/03/1990,,Neuchâtel Xamax FC,BSC Young Boys,0,0,D,NaN,NaN,NaN
+SUI,18/03/1990,,FC St. Gallen,FC Lugano,0,1,A,NaN,NaN,NaN
+SUI,25/03/1990,,Lausanne Sports,FC St. Gallen,1,0,H,NaN,NaN,NaN
+SUI,25/03/1990,,FC Lugano,FC Sion,1,0,H,NaN,NaN,NaN
+SUI,25/03/1990,,FC Luzern,BSC Young Boys,2,0,H,NaN,NaN,NaN
+SUI,25/03/1990,,Neuchâtel Xamax FC,Grasshoppers Zürich,2,1,H,NaN,NaN,NaN
+SUI,11/04/1990,,Grasshoppers Zürich,Lausanne Sports,1,0,H,NaN,NaN,NaN
+SUI,11/04/1990,,FC St. Gallen,Neuchâtel Xamax FC,1,1,D,NaN,NaN,NaN
+SUI,11/04/1990,,FC Sion,FC Luzern,0,2,A,NaN,NaN,NaN
+SUI,11/04/1990,,BSC Young Boys,FC Lugano,1,1,D,NaN,NaN,NaN
+SUI,14/04/1990,,Grasshoppers Zürich,FC St. Gallen,2,0,H,NaN,NaN,NaN
+SUI,14/04/1990,,FC Lugano,FC Luzern,4,0,H,NaN,NaN,NaN
+SUI,14/04/1990,,FC Sion,BSC Young Boys,1,1,D,NaN,NaN,NaN
+SUI,14/04/1990,,Neuchâtel Xamax FC,Lausanne Sports,1,3,A,NaN,NaN,NaN
+SUI,25/04/1990,,Lausanne Sports,FC Luzern,3,0,H,NaN,NaN,NaN
+SUI,25/04/1990,,Grasshoppers Zürich,FC Lugano,3,0,H,NaN,NaN,NaN
+SUI,25/04/1990,,Neuchâtel Xamax FC,FC Sion,1,0,H,NaN,NaN,NaN
+SUI,25/04/1990,,FC St. Gallen,BSC Young Boys,3,1,H,NaN,NaN,NaN
+SUI,28/04/1990,,FC Lugano,Lausanne Sports,0,3,A,NaN,NaN,NaN
+SUI,28/04/1990,,FC Luzern,Neuchâtel Xamax FC,0,0,D,NaN,NaN,NaN
+SUI,28/04/1990,,FC Sion,FC St. Gallen,0,3,A,NaN,NaN,NaN
+SUI,28/04/1990,,BSC Young Boys,Grasshoppers Zürich,0,1,A,NaN,NaN,NaN
+SUI,05/05/1990,,FC St. Gallen,Lausanne Sports,1,1,D,NaN,NaN,NaN
+SUI,05/05/1990,,FC Sion,FC Lugano,0,0,D,NaN,NaN,NaN
+SUI,05/05/1990,,BSC Young Boys,FC Luzern,1,2,A,NaN,NaN,NaN
+SUI,05/05/1990,,Grasshoppers Zürich,Neuchâtel Xamax FC,5,0,H,NaN,NaN,NaN
+SUI,12/05/1990,,FC Luzern,Grasshoppers Zürich,3,0,H,NaN,NaN,NaN
+SUI,12/05/1990,,FC Sion,Lausanne Sports,1,1,D,NaN,NaN,NaN
+SUI,12/05/1990,,BSC Young Boys,Neuchâtel Xamax FC,0,3,A,NaN,NaN,NaN
+SUI,12/05/1990,,FC Lugano,FC St. Gallen,1,4,A,NaN,NaN,NaN
+SUI,19/05/1990,,FC St. Gallen,FC Luzern,1,1,D,NaN,NaN,NaN
+SUI,19/05/1990,,Neuchâtel Xamax FC,FC Lugano,0,0,D,NaN,NaN,NaN
+SUI,19/05/1990,,Grasshoppers Zürich,FC Sion,4,2,H,NaN,NaN,NaN
+SUI,19/05/1990,,Lausanne Sports,BSC Young Boys,2,0,H,NaN,NaN,NaN
+SUI,26/05/1990,,Lausanne Sports,Grasshoppers Zürich,2,1,H,NaN,NaN,NaN
+SUI,26/05/1990,,Neuchâtel Xamax FC,FC St. Gallen,0,3,A,NaN,NaN,NaN
+SUI,26/05/1990,,FC Luzern,FC Sion,3,0,H,NaN,NaN,NaN
+SUI,26/05/1990,,FC Lugano,BSC Young Boys,1,1,D,NaN,NaN,NaN
+SUI,30/05/1990,,FC St. Gallen,Grasshoppers Zürich,0,1,A,NaN,NaN,NaN
+SUI,30/05/1990,,FC Luzern,FC Lugano,3,1,H,NaN,NaN,NaN
+SUI,30/05/1990,,BSC Young Boys,FC Sion,1,0,H,NaN,NaN,NaN
+SUI,30/05/1990,,Lausanne Sports,Neuchâtel Xamax FC,0,0,D,NaN,NaN,NaN

@@ -1,0 +1,211 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHN,15/03/2003,,Shanghai Zhongyuan,Qingdao Beilaite,1,0,H,NaN,NaN,NaN
+CHN,15/03/2003,,Shenzhen Jianlibao,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,16/03/2003,,August 1st (Army Team),Tianjin Kangshifu,1,0,H,NaN,NaN,NaN
+CHN,16/03/2003,,Beijing Hyundai,Liaoning FC,2,0,H,NaN,NaN,NaN
+CHN,16/03/2003,,Shaanxi Lijun Guoli,Sichuan Guancheng,0,0,D,NaN,NaN,NaN
+CHN,16/03/2003,,Shandong Luneng,Yunnan Hongta,2,2,D,NaN,NaN,NaN
+CHN,20/03/2003,,Dalian Shide,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,22/03/2003,,Liaoning FC,Shaanxi Lijun Guoli,1,0,H,NaN,NaN,NaN
+CHN,22/03/2003,,Qingdao Beilaite,August 1st (Army Team),1,1,D,NaN,NaN,NaN
+CHN,23/03/2003,,Chongqing Lifan,Shanghai Zhongyuan,0,1,A,NaN,NaN,NaN
+CHN,23/03/2003,,Shenyang Haishi,Dalian Shide,2,0,H,NaN,NaN,NaN
+CHN,23/03/2003,,Sichuan Guancheng,Shenzhen Jianlibao,1,0,H,NaN,NaN,NaN
+CHN,23/03/2003,,Tianjin Kangshifu,Shandong Luneng,1,2,A,NaN,NaN,NaN
+CHN,23/03/2003,,Yunnan Hongta,Beijing Hyundai,1,0,H,NaN,NaN,NaN
+CHN,26/03/2003,,August 1st (Army Team),Chongqing Lifan,2,1,H,NaN,NaN,NaN
+CHN,26/03/2003,,Beijing Hyundai,Tianjin Kangshifu,0,0,D,NaN,NaN,NaN
+CHN,26/03/2003,,Dalian Shide,Sichuan Guancheng,3,1,H,NaN,NaN,NaN
+CHN,26/03/2003,,Shaanxi Lijun Guoli,Yunnan Hongta,0,3,A,NaN,NaN,NaN
+CHN,26/03/2003,,Shandong Luneng,Qingdao Beilaite,1,3,A,NaN,NaN,NaN
+CHN,26/03/2003,,Shanghai Shenhua,Shenyang Haishi,4,1,H,NaN,NaN,NaN
+CHN,27/03/2003,,Shenzhen Jianlibao,Liaoning FC,2,1,H,NaN,NaN,NaN
+CHN,29/03/2003,,Qingdao Beilaite,Beijing Hyundai,2,1,H,NaN,NaN,NaN
+CHN,29/03/2003,,Sichuan Guancheng,Shanghai Shenhua,1,3,A,NaN,NaN,NaN
+CHN,30/03/2003,,Chongqing Lifan,Shandong Luneng,1,0,H,NaN,NaN,NaN
+CHN,30/03/2003,,Liaoning FC,Dalian Shide,0,1,A,NaN,NaN,NaN
+CHN,30/03/2003,,Shanghai Zhongyuan,August 1st (Army Team),3,0,H,NaN,NaN,NaN
+CHN,30/03/2003,,Tianjin Kangshifu,Shaanxi Lijun Guoli,4,1,H,NaN,NaN,NaN
+CHN,30/03/2003,,Yunnan Hongta,Shenzhen Jianlibao,1,1,D,NaN,NaN,NaN
+CHN,04/04/2003,,Dalian Shide,Yunnan Hongta,0,0,D,NaN,NaN,NaN
+CHN,05/04/2003,,Beijing Hyundai,Chongqing Lifan,2,2,D,NaN,NaN,NaN
+CHN,05/04/2003,,Shandong Luneng,Shanghai Zhongyuan,2,1,H,NaN,NaN,NaN
+CHN,05/04/2003,,Shanghai Shenhua,Liaoning FC,3,0,H,NaN,NaN,NaN
+CHN,05/04/2003,,Shenyang Haishi,Sichuan Guancheng,1,0,H,NaN,NaN,NaN
+CHN,05/04/2003,,Shenzhen Jianlibao,Tianjin Kangshifu,2,2,D,NaN,NaN,NaN
+CHN,14/04/2003,,Shaanxi Lijun Guoli,Qingdao Beilaite,4,5,A,NaN,NaN,NaN
+CHN,09/08/2003,,August 1st (Army Team),Shandong Luneng,0,0,D,NaN,NaN,NaN
+CHN,09/08/2003,,Beijing Sanyaun,Shenyang Haishi,3,2,H,NaN,NaN,NaN
+CHN,09/08/2003,,Chongqing Lifan,Shaanxi Lijun Guoli,2,0,H,NaN,NaN,NaN
+CHN,09/08/2003,,Qingdao Beilaite,Shenzhen Jianlibao,0,0,D,NaN,NaN,NaN
+CHN,09/08/2003,,Shanghai Zhongyuan,Beijing Hyundai,1,0,H,NaN,NaN,NaN
+CHN,09/08/2003,,Yunnan Hongta,Shanghai Shenhua,2,0,H,NaN,NaN,NaN
+CHN,14/08/2003,,Tianjin Kangshifu,Dalian Shide,0,2,A,NaN,NaN,NaN
+CHN,02/07/2003,,August 1st (Army Team),Beijing Hyundai,2,0,H,NaN,NaN,NaN
+CHN,02/07/2003,,Dalian Shide,Qingdao Beilaite,6,2,H,NaN,NaN,NaN
+CHN,02/07/2003,,Shaanxi Lijun Guoli,Shanghai Zhongyuan,1,1,D,NaN,NaN,NaN
+CHN,02/07/2003,,Shanghai Shenhua,Tianjin Kangshifu,4,1,H,NaN,NaN,NaN
+CHN,02/07/2003,,Shenyang Haishi,Yunnan Hongta,0,0,D,NaN,NaN,NaN
+CHN,02/07/2003,,Shenzhen Jianlibao,Chongqing Lifan,2,1,H,NaN,NaN,NaN
+CHN,03/07/2003,,Sichuan Guancheng,Beijing Sanyaun,2,2,D,NaN,NaN,NaN
+CHN,05/07/2003,,Chongqing Lifan,Dalian Shide,0,0,D,NaN,NaN,NaN
+CHN,05/07/2003,,Shanghai Zhongyuan,Shenzhen Jianlibao,1,1,D,NaN,NaN,NaN
+CHN,06/07/2003,,August 1st (Army Team),Shaanxi Lijun Guoli,0,4,A,NaN,NaN,NaN
+CHN,06/07/2003,,Qingdao Beilaite,Shanghai Shenhua,1,2,A,NaN,NaN,NaN
+CHN,06/07/2003,,Shandong Luneng,Beijing Hyundai,0,0,D,NaN,NaN,NaN
+CHN,06/07/2003,,Tianjin Kangshifu,Shenyang Haishi,2,1,H,NaN,NaN,NaN
+CHN,06/07/2003,,Yunnan Hongta,Sichuan Guancheng,1,1,D,NaN,NaN,NaN
+CHN,12/07/2003,,Shanghai Shenhua,Chongqing Lifan,3,0,H,NaN,NaN,NaN
+CHN,13/07/2003,,Dalian Shide,Shanghai Zhongyuan,2,1,H,NaN,NaN,NaN
+CHN,13/07/2003,,Shaanxi Lijun Guoli,Shandong Luneng,3,3,D,NaN,NaN,NaN
+CHN,13/07/2003,,Shenyang Haishi,Qingdao Beilaite,0,1,A,NaN,NaN,NaN
+CHN,13/07/2003,,Shenzhen Jianlibao,August 1st (Army Team),5,0,H,NaN,NaN,NaN
+CHN,13/07/2003,,Sichuan Guancheng,Tianjin Kangshifu,0,2,A,NaN,NaN,NaN
+CHN,13/07/2003,,Yunnan Hongta,Beijing Sanyaun,1,1,D,NaN,NaN,NaN
+CHN,16/07/2003,,August 1st (Army Team),Dalian Shide,0,2,A,NaN,NaN,NaN
+CHN,16/07/2003,,Beijing Hyundai,Shaanxi Lijun Guoli,3,0,H,NaN,NaN,NaN
+CHN,16/07/2003,,Chongqing Lifan,Shenyang Haishi,0,1,A,NaN,NaN,NaN
+CHN,16/07/2003,,Qingdao Beilaite,Sichuan Guancheng,1,3,A,NaN,NaN,NaN
+CHN,16/07/2003,,Shandong Luneng,Shenzhen Jianlibao,0,2,A,NaN,NaN,NaN
+CHN,16/07/2003,,Shanghai Zhongyuan,Shanghai Shenhua,2,1,H,NaN,NaN,NaN
+CHN,17/07/2003,,Tianjin Kangshifu,Beijing Sanyaun,3,3,D,NaN,NaN,NaN
+CHN,19/07/2003,,Shenyang Haishi,Shanghai Zhongyuan,1,1,D,NaN,NaN,NaN
+CHN,20/07/2003,,Dalian Shide,Shandong Luneng,1,1,D,NaN,NaN,NaN
+CHN,20/07/2003,,Beijing Sanyaun,Qingdao Beilaite,3,1,H,NaN,NaN,NaN
+CHN,20/07/2003,,Shanghai Shenhua,August 1st (Army Team),1,3,A,NaN,NaN,NaN
+CHN,20/07/2003,,Shenzhen Jianlibao,Beijing Hyundai,1,0,H,NaN,NaN,NaN
+CHN,20/07/2003,,Sichuan Guancheng,Chongqing Lifan,2,2,D,NaN,NaN,NaN
+CHN,20/07/2003,,Yunnan Hongta,Tianjin Kangshifu,1,0,H,NaN,NaN,NaN
+CHN,25/07/2003,,Qingdao Beilaite,Yunnan Hongta,1,2,A,NaN,NaN,NaN
+CHN,26/07/2003,,Beijing Hyundai,Dalian Shide,2,2,D,NaN,NaN,NaN
+CHN,26/07/2003,,Chongqing Lifan,Beijing Sanyaun,1,1,D,NaN,NaN,NaN
+CHN,26/07/2003,,Shanghai Zhongyuan,Sichuan Guancheng,2,1,H,NaN,NaN,NaN
+CHN,27/07/2003,,August 1st (Army Team),Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,27/07/2003,,Shaanxi Lijun Guoli,Shenzhen Jianlibao,1,1,D,NaN,NaN,NaN
+CHN,27/07/2003,,Shandong Luneng,Shanghai Shenhua,2,0,H,NaN,NaN,NaN
+CHN,30/07/2003,,Dalian Shide,Shaanxi Lijun Guoli,4,1,H,NaN,NaN,NaN
+CHN,30/07/2003,,Beijing Sanyaun,Shanghai Zhongyuan,0,0,D,NaN,NaN,NaN
+CHN,30/07/2003,,Shanghai Shenhua,Beijing Hyundai,1,0,H,NaN,NaN,NaN
+CHN,30/07/2003,,Sichuan Guancheng,August 1st (Army Team),1,0,H,NaN,NaN,NaN
+CHN,30/07/2003,,Tianjin Kangshifu,Qingdao Beilaite,1,1,D,NaN,NaN,NaN
+CHN,30/07/2003,,Yunnan Hongta,Chongqing Lifan,0,1,A,NaN,NaN,NaN
+CHN,31/07/2003,,Shenyang Haishi,Shandong Luneng,2,1,H,NaN,NaN,NaN
+CHN,02/08/2003,,August 1st (Army Team),Beijing Sanyaun,1,0,H,NaN,NaN,NaN
+CHN,02/08/2003,,Shaanxi Lijun Guoli,Shanghai Shenhua,1,3,A,NaN,NaN,NaN
+CHN,03/08/2003,,Beijing Hyundai,Shenyang Haishi,1,3,A,NaN,NaN,NaN
+CHN,03/08/2003,,Chongqing Lifan,Tianjin Kangshifu,0,1,A,NaN,NaN,NaN
+CHN,03/08/2003,,Shandong Luneng,Sichuan Guancheng,3,1,H,NaN,NaN,NaN
+CHN,03/08/2003,,Shenzhen Jianlibao,Dalian Shide,0,0,D,NaN,NaN,NaN
+CHN,06/08/2003,,Shanghai Zhongyuan,Yunnan Hongta,2,0,H,NaN,NaN,NaN
+CHN,09/08/2003,,Beijing Sanyaun,Shandong Luneng,2,0,H,NaN,NaN,NaN
+CHN,09/08/2003,,Shanghai Shenhua,Shenzhen Jianlibao,1,2,A,NaN,NaN,NaN
+CHN,10/08/2003,,Qingdao Beilaite,Chongqing Lifan,2,1,H,NaN,NaN,NaN
+CHN,10/08/2003,,Shenyang Haishi,Shaanxi Lijun Guoli,1,0,H,NaN,NaN,NaN
+CHN,10/08/2003,,Sichuan Guancheng,Beijing Hyundai,1,1,D,NaN,NaN,NaN
+CHN,10/08/2003,,Tianjin Kangshifu,Shanghai Zhongyuan,0,0,D,NaN,NaN,NaN
+CHN,10/08/2003,,Yunnan Hongta,August 1st (Army Team),4,0,H,NaN,NaN,NaN
+CHN,20/09/2003,,Shenyang Haishi,Shenzhen Jianlibao,0,0,D,NaN,NaN,NaN
+CHN,21/09/2003,,Beijing Sanyaun,Beijing Hyundai,1,0,H,NaN,NaN,NaN
+CHN,21/09/2003,,Qingdao Beilaite,Shanghai Zhongyuan,2,1,H,NaN,NaN,NaN
+CHN,21/09/2003,,Shanghai Shenhua,Dalian Shide,3,2,H,NaN,NaN,NaN
+CHN,21/09/2003,,Sichuan Guancheng,Shaanxi Lijun Guoli,5,1,H,NaN,NaN,NaN
+CHN,21/09/2003,,Tianjin Kangshifu,August 1st (Army Team),3,1,H,NaN,NaN,NaN
+CHN,21/09/2003,,Yunnan Hongta,Shandong Luneng,1,0,H,NaN,NaN,NaN
+CHN,24/09/2003,,August 1st (Army Team),Qingdao Beilaite,1,3,A,NaN,NaN,NaN
+CHN,24/09/2003,,Beijing Hyundai,Yunnan Hongta,0,1,A,NaN,NaN,NaN
+CHN,24/09/2003,,Dalian Shide,Shenyang Haishi,0,1,A,NaN,NaN,NaN
+CHN,24/09/2003,,Shaanxi Lijun Guoli,Beijing Sanyaun,4,3,H,NaN,NaN,NaN
+CHN,24/09/2003,,Shandong Luneng,Tianjin Kangshifu,3,1,H,NaN,NaN,NaN
+CHN,24/09/2003,,Shanghai Zhongyuan,Chongqing Lifan,3,1,H,NaN,NaN,NaN
+CHN,24/09/2003,,Shenzhen Jianlibao,Sichuan Guancheng,2,0,H,NaN,NaN,NaN
+CHN,04/10/2003,,Beijing Sanyaun,Shenzhen Jianlibao,1,1,D,NaN,NaN,NaN
+CHN,04/10/2003,,Yunnan Hongta,Shaanxi Lijun Guoli,0,0,D,NaN,NaN,NaN
+CHN,05/10/2003,,Chongqing Lifan,August 1st (Army Team),1,1,D,NaN,NaN,NaN
+CHN,05/10/2003,,Qingdao Beilaite,Shandong Luneng,1,2,A,NaN,NaN,NaN
+CHN,05/10/2003,,Shenyang Haishi,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,05/10/2003,,Sichuan Guancheng,Dalian Shide,2,0,H,NaN,NaN,NaN
+CHN,05/10/2003,,Tianjin Kangshifu,Beijing Hyundai,1,1,D,NaN,NaN,NaN
+CHN,11/10/2003,,August 1st (Army Team),Shanghai International,1,2,A,NaN,NaN,NaN
+CHN,11/10/2003,,Beijing Hyundai,Qingdao Beilaite,4,1,H,NaN,NaN,NaN
+CHN,12/10/2003,,Dalian Shide,Beijing Sanyaun,1,1,D,NaN,NaN,NaN
+CHN,12/10/2003,,Shaanxi Lijun Guoli,Tianjin Kangshifu,1,2,A,NaN,NaN,NaN
+CHN,12/10/2003,,Shandong Luneng,Chongqing Lifan,1,1,D,NaN,NaN,NaN
+CHN,12/10/2003,,Shanghai Shenhua,Sichuan Guancheng,2,2,D,NaN,NaN,NaN
+CHN,12/10/2003,,Shenzhen Jianlibao,Yunnan Hongta,1,0,H,NaN,NaN,NaN
+CHN,15/10/2003,,Chongqing Lifan,Beijing Hyundai,0,0,D,NaN,NaN,NaN
+CHN,15/10/2003,,Qingdao Beilaite,Shaanxi Lijun Guoli,2,0,H,NaN,NaN,NaN
+CHN,15/10/2003,,Shanghai International,Shandong Luneng,0,0,D,NaN,NaN,NaN
+CHN,15/10/2003,,Sichuan Guancheng,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,15/10/2003,,Tianjin Kangshifu,Shenzhen Jianlibao,0,0,D,NaN,NaN,NaN
+CHN,15/10/2003,,Yunnan Hongta,Dalian Shide,0,2,A,NaN,NaN,NaN
+CHN,16/10/2003,,Beijing Sanyaun,Shanghai Shenhua,0,1,A,NaN,NaN,NaN
+CHN,18/10/2003,,Beijing Hyundai,Shanghai International,0,2,A,NaN,NaN,NaN
+CHN,18/10/2003,,Shenzhen Jianlibao,Qingdao Beilaite,2,0,H,NaN,NaN,NaN
+CHN,19/10/2003,,Dalian Shide,Tianjin Kangshifu,3,1,H,NaN,NaN,NaN
+CHN,19/10/2003,,Shaanxi Lijun Guoli,Chongqing Lifan,0,2,A,NaN,NaN,NaN
+CHN,19/10/2003,,Shandong Luneng,August 1st (Army Team),2,1,H,NaN,NaN,NaN
+CHN,19/10/2003,,Shanghai Shenhua,Yunnan Hongta,3,1,H,NaN,NaN,NaN
+CHN,19/10/2003,,Shenyang Haishi,Beijing Sanyaun,1,1,D,NaN,NaN,NaN
+CHN,25/10/2003,,Beijing Sanyaun,Sichuan Guancheng,1,2,A,NaN,NaN,NaN
+CHN,25/10/2003,,Shanghai International,Shaanxi Lijun Guoli,1,0,H,NaN,NaN,NaN
+CHN,26/10/2003,,Beijing Hyundai,August 1st (Army Team),5,0,H,NaN,NaN,NaN
+CHN,26/10/2003,,Chongqing Lifan,Shenzhen Jianlibao,1,0,H,NaN,NaN,NaN
+CHN,26/10/2003,,Qingdao Beilaite,Dalian Shide,0,1,A,NaN,NaN,NaN
+CHN,26/10/2003,,Tianjin Kangshifu,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,26/10/2003,,Yunnan Hongta,Shenyang Haishi,2,1,H,NaN,NaN,NaN
+CHN,29/10/2003,,Beijing Hyundai,Shandong Luneng,3,2,H,NaN,NaN,NaN
+CHN,29/10/2003,,Dalian Shide,Chongqing Lifan,3,0,H,NaN,NaN,NaN
+CHN,29/10/2003,,Shaanxi Lijun Guoli,August 1st (Army Team),3,1,H,NaN,NaN,NaN
+CHN,29/10/2003,,Shenyang Haishi,Tianjin Kangshifu,0,0,D,NaN,NaN,NaN
+CHN,29/10/2003,,Shenzhen Jianlibao,Shanghai International,0,1,A,NaN,NaN,NaN
+CHN,29/10/2003,,Sichuan Guancheng,Yunnan Hongta,2,1,H,NaN,NaN,NaN
+CHN,30/10/2003,,Shanghai Shenhua,Qingdao Beilaite,3,0,H,NaN,NaN,NaN
+CHN,01/11/2003,,Beijing Sanyaun,Yunnan Hongta,0,1,A,NaN,NaN,NaN
+CHN,01/11/2003,,Shanghai International,Dalian Shide,1,0,H,NaN,NaN,NaN
+CHN,02/11/2003,,August 1st (Army Team),Shenzhen Jianlibao,1,5,A,NaN,NaN,NaN
+CHN,02/11/2003,,Chongqing Lifan,Shanghai Shenhua,0,1,A,NaN,NaN,NaN
+CHN,02/11/2003,,Qingdao Beilaite,Shenyang Haishi,4,2,H,NaN,NaN,NaN
+CHN,02/11/2003,,Shandong Luneng,Shaanxi Lijun Guoli,4,2,H,NaN,NaN,NaN
+CHN,02/11/2003,,Tianjin Kangshifu,Sichuan Guancheng,2,2,D,NaN,NaN,NaN
+CHN,08/11/2003,,Beijing Sanyaun,Tianjin Kangshifu,2,0,H,NaN,NaN,NaN
+CHN,09/11/2003,,Dalian Shide,August 1st (Army Team),3,0,H,NaN,NaN,NaN
+CHN,09/11/2003,,Shaanxi Lijun Guoli,Beijing Hyundai,0,2,A,NaN,NaN,NaN
+CHN,09/11/2003,,Shanghai Shenhua,Shanghai International,4,1,H,NaN,NaN,NaN
+CHN,09/11/2003,,Shenyang Haishi,Chongqing Lifan,1,0,H,NaN,NaN,NaN
+CHN,09/11/2003,,Shenzhen Jianlibao,Shandong Luneng,2,2,D,NaN,NaN,NaN
+CHN,09/11/2003,,Sichuan Guancheng,Qingdao Beilaite,1,1,D,NaN,NaN,NaN
+CHN,12/11/2003,,August 1st (Army Team),Shanghai Shenhua,0,2,A,NaN,NaN,NaN
+CHN,12/11/2003,,Beijing Hyundai,Shenzhen Jianlibao,2,0,H,NaN,NaN,NaN
+CHN,12/11/2003,,Chongqing Lifan,Sichuan Guancheng,0,2,A,NaN,NaN,NaN
+CHN,12/11/2003,,Qingdao Beilaite,Beijing Sanyaun,1,4,A,NaN,NaN,NaN
+CHN,12/11/2003,,Shandong Luneng,Dalian Shide,1,2,A,NaN,NaN,NaN
+CHN,12/11/2003,,Tianjin Kangshifu,Yunnan Hongta,2,0,H,NaN,NaN,NaN
+CHN,13/11/2003,,Shanghai International,Shenyang Haishi,4,3,H,NaN,NaN,NaN
+CHN,15/11/2003,,Beijing Sanyaun,Chongqing Lifan,1,0,H,NaN,NaN,NaN
+CHN,15/11/2003,,Shanghai Shenhua,Shandong Luneng,4,2,H,NaN,NaN,NaN
+CHN,16/11/2003,,Dalian Shide,Beijing Hyundai,0,0,D,NaN,NaN,NaN
+CHN,16/11/2003,,Shenyang Haishi,August 1st (Army Team),2,1,H,NaN,NaN,NaN
+CHN,16/11/2003,,Shenzhen Jianlibao,Shaanxi Lijun Guoli,4,0,H,NaN,NaN,NaN
+CHN,16/11/2003,,Sichuan Guancheng,Shanghai International,0,2,A,NaN,NaN,NaN
+CHN,16/11/2003,,Yunnan Hongta,Qingdao Beilaite,2,1,H,NaN,NaN,NaN
+CHN,22/11/2003,,August 1st (Army Team),Sichuan Guancheng,1,2,A,NaN,NaN,NaN
+CHN,22/11/2003,,Chongqing Lifan,Yunnan Hongta,2,1,H,NaN,NaN,NaN
+CHN,22/11/2003,,Beijing Hyundai,Shanghai Shenhua,2,1,H,NaN,NaN,NaN
+CHN,22/11/2003,,Qingdao Beilaite,Tianjin Kangshifu,0,0,D,NaN,NaN,NaN
+CHN,22/11/2003,,Shaanxi Lijun Guoli,Dalian Shide,0,1,A,NaN,NaN,NaN
+CHN,22/11/2003,,Shandong Luneng,Shenyang Haishi,1,3,A,NaN,NaN,NaN
+CHN,22/11/2003,,Shanghai International,Beijing Sanyaun,1,3,A,NaN,NaN,NaN
+CHN,26/11/2003,,Tianjin Kangshifu,Chongqing Lifan,0,0,D,NaN,NaN,NaN
+CHN,26/11/2003,,Yunnan Hongta,Shanghai International,1,2,A,NaN,NaN,NaN
+CHN,26/11/2003,,Beijing Sanyaun,August 1st (Army Team),2,1,H,NaN,NaN,NaN
+CHN,26/11/2003,,Sichuan Guancheng,Shandong Luneng,4,4,D,NaN,NaN,NaN
+CHN,26/11/2003,,Shenyang Haishi,Beijing Hyundai,0,0,D,NaN,NaN,NaN
+CHN,26/11/2003,,Shanghai Shenhua,Shaanxi Lijun Guoli,2,0,H,NaN,NaN,NaN
+CHN,26/11/2003,,Dalian Shide,Shenzhen Jianlibao,2,1,H,NaN,NaN,NaN
+CHN,30/11/2003,,Shandong Luneng,Beijing Sanyaun,1,2,A,NaN,NaN,NaN
+CHN,30/11/2003,,Shenzhen Jianlibao,Shanghai Shenhua,4,1,H,NaN,NaN,NaN
+CHN,30/11/2003,,Chongqing Lifan,Qingdao Beilaite,1,3,A,NaN,NaN,NaN
+CHN,30/11/2003,,Shaanxi Lijun Guoli,Shenyang Haishi,1,2,A,NaN,NaN,NaN
+CHN,30/11/2003,,Beijing Hyundai,Sichuan Guancheng,3,1,H,NaN,NaN,NaN
+CHN,30/11/2003,,Shanghai International,Tianjin Kangshifu,1,2,A,NaN,NaN,NaN
+CHN,30/11/2003,,August 1st (Army Team),Yunnan Hongta,2,1,H,NaN,NaN,NaN

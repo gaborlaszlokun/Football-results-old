@@ -1,0 +1,343 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,16/08/1975,,RAA La Louviéroise,Royal Antwerp FC,0,1,A,NaN,NaN,NaN
+BEL,16/08/1975,,K. Beerschot VAV,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,17/08/1975,,KSV Waregem,RSC Anderlecht,2,0,H,NaN,NaN,NaN
+BEL,17/08/1975,,RWD Molenbeek,FC Beringen,4,0,H,NaN,NaN,NaN
+BEL,17/08/1975,,Lierse SK,RSC Charleroi,3,0,H,NaN,NaN,NaN
+BEL,17/08/1975,,Cercle Brugge,AS Oostende,1,2,A,NaN,NaN,NaN
+BEL,17/08/1975,,KSK Beveren,Standard Liège,1,0,H,NaN,NaN,NaN
+BEL,17/08/1975,,Berchem Sport,KRC Mechelen,2,0,H,NaN,NaN,NaN
+BEL,18/02/1976,,RFC de Liège,Sporting Lokeren,1,2,A,NaN,NaN,NaN
+BEL,20/08/1975,,RWD Molenbeek,RSC Charleroi,2,0,H,NaN,NaN,NaN
+BEL,20/08/1975,,KV Mechelen,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,20/08/1975,,RAA La Louviéroise,RSC Anderlecht,1,1,D,NaN,NaN,NaN
+BEL,20/08/1975,,Lierse SK,KRC Mechelen,4,1,H,NaN,NaN,NaN
+BEL,20/08/1975,,Cercle Brugge,KSV Waregem,0,0,D,NaN,NaN,NaN
+BEL,20/08/1975,,KSK Beveren,Berchem Sport,0,0,D,NaN,NaN,NaN
+BEL,20/08/1975,,FC Beringen,Sporting Lokeren,0,4,A,NaN,NaN,NaN
+BEL,20/08/1975,,K. Beerschot VAV,Standard Liège,2,0,H,NaN,NaN,NaN
+BEL,03/09/1975,,RFC de Liège,AS Oostende,2,1,H,NaN,NaN,NaN
+BEL,23/08/1975,,AS Oostende,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,23/08/1975,,RSC Charleroi,RAA La Louviéroise,0,0,D,NaN,NaN,NaN
+BEL,23/08/1975,,Club Brugge KV,RWD Molenbeek,1,2,A,NaN,NaN,NaN
+BEL,23/08/1975,,FC Beringen,KV Mechelen,0,0,D,NaN,NaN,NaN
+BEL,23/08/1975,,RSC Anderlecht,Cercle Brugge,2,2,D,NaN,NaN,NaN
+BEL,24/08/1975,,Standard Liège,Lierse SK,1,0,H,NaN,NaN,NaN
+BEL,24/08/1975,,KRC Mechelen,KSV Waregem,0,5,A,NaN,NaN,NaN
+BEL,24/08/1975,,Sporting Lokeren,K. Beerschot VAV,3,2,H,NaN,NaN,NaN
+BEL,24/08/1975,,Royal Antwerp FC,RFC de Liège,3,0,H,NaN,NaN,NaN
+BEL,27/08/1975,,Standard Liège,RFC de Liège,1,1,D,NaN,NaN,NaN
+BEL,27/08/1975,,KRC Mechelen,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,27/08/1975,,AS Oostende,RAA La Louviéroise,1,1,D,NaN,NaN,NaN
+BEL,27/08/1975,,Sporting Lokeren,KV Mechelen,3,0,H,NaN,NaN,NaN
+BEL,27/08/1975,,RSC Charleroi,K. Beerschot VAV,0,1,A,NaN,NaN,NaN
+BEL,27/08/1975,,Club Brugge KV,FC Beringen,3,1,H,NaN,NaN,NaN
+BEL,27/08/1975,,Royal Antwerp FC,RWD Molenbeek,2,1,H,NaN,NaN,NaN
+BEL,27/08/1975,,RSC Anderlecht,Lierse SK,0,1,A,NaN,NaN,NaN
+BEL,03/09/1975,,Berchem Sport,Cercle Brugge,2,2,D,NaN,NaN,NaN
+BEL,09/09/1975,,KV Mechelen,Club Brugge KV,0,2,A,NaN,NaN,NaN
+BEL,09/09/1975,,KSK Beveren,RSC Anderlecht,2,2,D,NaN,NaN,NaN
+BEL,10/09/1975,,KSV Waregem,Berchem Sport,3,1,H,NaN,NaN,NaN
+BEL,10/09/1975,,RWD Molenbeek,Sporting Lokeren,3,1,H,NaN,NaN,NaN
+BEL,10/09/1975,,RAA La Louviéroise,Standard Liège,0,1,A,NaN,NaN,NaN
+BEL,10/09/1975,,Lierse SK,AS Oostende,1,1,D,NaN,NaN,NaN
+BEL,10/09/1975,,RFC de Liège,RSC Charleroi,3,2,H,NaN,NaN,NaN
+BEL,10/09/1975,,Cercle Brugge,KRC Mechelen,0,2,A,NaN,NaN,NaN
+BEL,10/09/1975,,K. Beerschot VAV,Royal Antwerp FC,2,5,A,NaN,NaN,NaN
+BEL,13/09/1975,,KV Mechelen,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,13/09/1975,,RSC Charleroi,KSK Beveren,0,1,A,NaN,NaN,NaN
+BEL,13/09/1975,,Club Brugge KV,RFC de Liège,2,2,D,NaN,NaN,NaN
+BEL,13/09/1975,,FC Beringen,K. Beerschot VAV,2,1,H,NaN,NaN,NaN
+BEL,13/09/1975,,RSC Anderlecht,Berchem Sport,3,0,H,NaN,NaN,NaN
+BEL,14/09/1975,,Standard Liège,Cercle Brugge,2,1,H,NaN,NaN,NaN
+BEL,14/09/1975,,AS Oostende,KSV Waregem,2,2,D,NaN,NaN,NaN
+BEL,14/09/1975,,Sporting Lokeren,RAA La Louviéroise,4,1,H,NaN,NaN,NaN
+BEL,14/09/1975,,Royal Antwerp FC,Lierse SK,0,4,A,NaN,NaN,NaN
+BEL,20/09/1975,,K. Beerschot VAV,KV Mechelen,2,1,H,NaN,NaN,NaN
+BEL,21/09/1975,,KSV Waregem,Standard Liège,1,0,H,NaN,NaN,NaN
+BEL,21/09/1975,,KRC Mechelen,RSC Anderlecht,1,2,A,NaN,NaN,NaN
+BEL,21/09/1975,,RAA La Louviéroise,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,21/09/1975,,Lierse SK,Sporting Lokeren,1,2,A,NaN,NaN,NaN
+BEL,21/09/1975,,RFC de Liège,FC Beringen,4,1,H,NaN,NaN,NaN
+BEL,21/09/1975,,Cercle Brugge,RSC Charleroi,3,0,H,NaN,NaN,NaN
+BEL,21/09/1975,,KSK Beveren,Royal Antwerp FC,5,0,H,NaN,NaN,NaN
+BEL,21/09/1975,,Berchem Sport,AS Oostende,1,1,D,NaN,NaN,NaN
+BEL,04/10/1975,,AS Oostende,KRC Mechelen,0,1,A,NaN,NaN,NaN
+BEL,04/10/1975,,Sporting Lokeren,KSK Beveren,1,0,H,NaN,NaN,NaN
+BEL,04/10/1975,,RSC Charleroi,KSV Waregem,1,1,D,NaN,NaN,NaN
+BEL,04/10/1975,,FC Beringen,RAA La Louviéroise,1,2,A,NaN,NaN,NaN
+BEL,05/10/1975,,Standard Liège,Berchem Sport,0,0,D,NaN,NaN,NaN
+BEL,05/10/1975,,RWD Molenbeek,K. Beerschot VAV,1,2,A,NaN,NaN,NaN
+BEL,05/10/1975,,KV Mechelen,RFC de Liège,1,2,A,NaN,NaN,NaN
+BEL,05/10/1975,,Club Brugge KV,Lierse SK,5,2,H,NaN,NaN,NaN
+BEL,05/10/1975,,Royal Antwerp FC,Cercle Brugge,2,2,D,NaN,NaN,NaN
+BEL,08/10/1975,,KSV Waregem,KSK Beveren,2,1,H,NaN,NaN,NaN
+BEL,08/10/1975,,Standard Liège,RWD Molenbeek,2,2,D,NaN,NaN,NaN
+BEL,08/10/1975,,KRC Mechelen,RAA La Louviéroise,1,0,H,NaN,NaN,NaN
+BEL,08/10/1975,,AS Oostende,K. Beerschot VAV,2,2,D,NaN,NaN,NaN
+BEL,08/10/1975,,Sporting Lokeren,Club Brugge KV,0,2,A,NaN,NaN,NaN
+BEL,08/10/1975,,RSC Charleroi,KV Mechelen,1,1,D,NaN,NaN,NaN
+BEL,08/10/1975,,Berchem Sport,Lierse SK,0,1,A,NaN,NaN,NaN
+BEL,08/10/1975,,Royal Antwerp FC,FC Beringen,2,1,H,NaN,NaN,NaN
+BEL,08/10/1975,,RSC Anderlecht,RFC de Liège,4,1,H,NaN,NaN,NaN
+BEL,11/10/1975,,RAA La Louviéroise,KV Mechelen,4,4,D,NaN,NaN,NaN
+BEL,11/10/1975,,RSC Anderlecht,AS Oostende,1,0,H,NaN,NaN,NaN
+BEL,12/10/1975,,KSV Waregem,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,12/10/1975,,KRC Mechelen,Standard Liège,0,3,A,NaN,NaN,NaN
+BEL,12/10/1975,,Lierse SK,FC Beringen,5,1,H,NaN,NaN,NaN
+BEL,12/10/1975,,RFC de Liège,RWD Molenbeek,1,2,A,NaN,NaN,NaN
+BEL,12/10/1975,,Cercle Brugge,Sporting Lokeren,2,0,H,NaN,NaN,NaN
+BEL,12/10/1975,,KSK Beveren,Club Brugge KV,2,0,H,NaN,NaN,NaN
+BEL,12/10/1975,,Berchem Sport,RSC Charleroi,0,3,A,NaN,NaN,NaN
+BEL,18/10/1975,,RSC Charleroi,KRC Mechelen,4,1,H,NaN,NaN,NaN
+BEL,18/10/1975,,Club Brugge KV,Cercle Brugge,1,0,H,NaN,NaN,NaN
+BEL,18/10/1975,,K. Beerschot VAV,RFC de Liège,3,1,H,NaN,NaN,NaN
+BEL,18/10/1975,,Royal Antwerp FC,Berchem Sport,0,0,D,NaN,NaN,NaN
+BEL,19/10/1975,,Standard Liège,RSC Anderlecht,1,1,D,NaN,NaN,NaN
+BEL,19/10/1975,,RWD Molenbeek,RAA La Louviéroise,3,1,H,NaN,NaN,NaN
+BEL,19/10/1975,,KV Mechelen,Lierse SK,4,1,H,NaN,NaN,NaN
+BEL,19/10/1975,,Sporting Lokeren,KSV Waregem,1,1,D,NaN,NaN,NaN
+BEL,19/10/1975,,FC Beringen,KSK Beveren,1,0,H,NaN,NaN,NaN
+BEL,25/10/1975,,RAA La Louviéroise,K. Beerschot VAV,0,0,D,NaN,NaN,NaN
+BEL,26/10/1975,,KSV Waregem,Club Brugge KV,0,3,A,NaN,NaN,NaN
+BEL,26/10/1975,,KRC Mechelen,Royal Antwerp FC,1,0,H,NaN,NaN,NaN
+BEL,26/10/1975,,AS Oostende,Standard Liège,1,1,D,NaN,NaN,NaN
+BEL,26/10/1975,,Lierse SK,RWD Molenbeek,0,0,D,NaN,NaN,NaN
+BEL,26/10/1975,,Cercle Brugge,FC Beringen,0,0,D,NaN,NaN,NaN
+BEL,26/10/1975,,KSK Beveren,KV Mechelen,1,0,H,NaN,NaN,NaN
+BEL,26/10/1975,,Berchem Sport,Sporting Lokeren,1,1,D,NaN,NaN,NaN
+BEL,26/10/1975,,RSC Anderlecht,RSC Charleroi,2,1,H,NaN,NaN,NaN
+BEL,08/11/1975,,RSC Charleroi,AS Oostende,0,1,A,NaN,NaN,NaN
+BEL,08/11/1975,,FC Beringen,KSV Waregem,0,2,A,NaN,NaN,NaN
+BEL,08/11/1975,,K. Beerschot VAV,Lierse SK,1,1,D,NaN,NaN,NaN
+BEL,09/11/1975,,RWD Molenbeek,KSK Beveren,0,2,A,NaN,NaN,NaN
+BEL,09/11/1975,,KV Mechelen,Cercle Brugge,1,3,A,NaN,NaN,NaN
+BEL,09/11/1975,,Sporting Lokeren,KRC Mechelen,1,0,H,NaN,NaN,NaN
+BEL,09/11/1975,,RFC de Liège,RAA La Louviéroise,2,2,D,NaN,NaN,NaN
+BEL,09/11/1975,,Club Brugge KV,Berchem Sport,4,0,H,NaN,NaN,NaN
+BEL,09/11/1975,,Royal Antwerp FC,RSC Anderlecht,0,3,A,NaN,NaN,NaN
+BEL,22/11/1975,,RSC Anderlecht,Sporting Lokeren,3,2,H,NaN,NaN,NaN
+BEL,23/11/1975,,KSV Waregem,KV Mechelen,1,1,D,NaN,NaN,NaN
+BEL,23/11/1975,,Standard Liège,RSC Charleroi,4,3,H,NaN,NaN,NaN
+BEL,23/11/1975,,KRC Mechelen,Club Brugge KV,0,2,A,NaN,NaN,NaN
+BEL,23/11/1975,,AS Oostende,Royal Antwerp FC,0,2,A,NaN,NaN,NaN
+BEL,23/11/1975,,Lierse SK,RFC de Liège,5,2,H,NaN,NaN,NaN
+BEL,23/11/1975,,Cercle Brugge,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,23/11/1975,,KSK Beveren,K. Beerschot VAV,4,0,H,NaN,NaN,NaN
+BEL,23/11/1975,,Berchem Sport,FC Beringen,1,2,A,NaN,NaN,NaN
+BEL,29/11/1975,,RAA La Louviéroise,Lierse SK,2,0,H,NaN,NaN,NaN
+BEL,29/11/1975,,K. Beerschot VAV,Cercle Brugge,2,2,D,NaN,NaN,NaN
+BEL,30/11/1975,,RWD Molenbeek,KSV Waregem,1,0,H,NaN,NaN,NaN
+BEL,30/11/1975,,KV Mechelen,Berchem Sport,2,0,H,NaN,NaN,NaN
+BEL,30/11/1975,,Sporting Lokeren,AS Oostende,3,1,H,NaN,NaN,NaN
+BEL,30/11/1975,,RFC de Liège,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,30/11/1975,,Club Brugge KV,RSC Anderlecht,3,2,H,NaN,NaN,NaN
+BEL,30/11/1975,,FC Beringen,KRC Mechelen,1,0,H,NaN,NaN,NaN
+BEL,30/11/1975,,Royal Antwerp FC,Standard Liège,2,4,A,NaN,NaN,NaN
+BEL,06/12/1975,,AS Oostende,Club Brugge KV,1,2,A,NaN,NaN,NaN
+BEL,06/12/1975,,RSC Charleroi,Royal Antwerp FC,1,1,D,NaN,NaN,NaN
+BEL,06/12/1975,,RSC Anderlecht,FC Beringen,1,0,H,NaN,NaN,NaN
+BEL,07/12/1975,,KSV Waregem,K. Beerschot VAV,2,1,H,NaN,NaN,NaN
+BEL,07/12/1975,,Standard Liège,Sporting Lokeren,2,1,H,NaN,NaN,NaN
+BEL,07/12/1975,,KRC Mechelen,KV Mechelen,1,1,D,NaN,NaN,NaN
+BEL,07/12/1975,,Cercle Brugge,RFC de Liège,2,1,H,NaN,NaN,NaN
+BEL,07/12/1975,,KSK Beveren,RAA La Louviéroise,0,0,D,NaN,NaN,NaN
+BEL,07/12/1975,,Berchem Sport,RWD Molenbeek,1,4,A,NaN,NaN,NaN
+BEL,13/12/1975,,RAA La Louviéroise,Cercle Brugge,1,1,D,NaN,NaN,NaN
+BEL,13/12/1975,,K. Beerschot VAV,Berchem Sport,4,2,H,NaN,NaN,NaN
+BEL,14/12/1975,,RWD Molenbeek,KRC Mechelen,3,0,H,NaN,NaN,NaN
+BEL,14/12/1975,,KV Mechelen,RSC Anderlecht,2,4,A,NaN,NaN,NaN
+BEL,14/12/1975,,Sporting Lokeren,RSC Charleroi,4,0,H,NaN,NaN,NaN
+BEL,14/12/1975,,Lierse SK,KSK Beveren,2,0,H,NaN,NaN,NaN
+BEL,14/12/1975,,RFC de Liège,KSV Waregem,3,2,H,NaN,NaN,NaN
+BEL,14/12/1975,,Club Brugge KV,Standard Liège,3,0,H,NaN,NaN,NaN
+BEL,14/12/1975,,FC Beringen,AS Oostende,2,0,H,NaN,NaN,NaN
+BEL,20/12/1975,,RSC Charleroi,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,20/12/1975,,RSC Anderlecht,RWD Molenbeek,3,1,H,NaN,NaN,NaN
+BEL,21/12/1975,,KSV Waregem,RAA La Louviéroise,4,0,H,NaN,NaN,NaN
+BEL,21/12/1975,,Standard Liège,FC Beringen,2,1,H,NaN,NaN,NaN
+BEL,21/12/1975,,KRC Mechelen,K. Beerschot VAV,1,2,A,NaN,NaN,NaN
+BEL,21/12/1975,,AS Oostende,KV Mechelen,4,2,H,NaN,NaN,NaN
+BEL,21/12/1975,,Cercle Brugge,Lierse SK,3,2,H,NaN,NaN,NaN
+BEL,21/12/1975,,Berchem Sport,RFC de Liège,0,0,D,NaN,NaN,NaN
+BEL,21/12/1975,,Royal Antwerp FC,Sporting Lokeren,2,1,H,NaN,NaN,NaN
+BEL,03/01/1976,,RAA La Louviéroise,Berchem Sport,0,1,A,NaN,NaN,NaN
+BEL,03/01/1976,,K. Beerschot VAV,RSC Anderlecht,4,3,H,NaN,NaN,NaN
+BEL,04/01/1976,,RWD Molenbeek,AS Oostende,3,0,H,NaN,NaN,NaN
+BEL,04/01/1976,,KV Mechelen,Standard Liège,1,0,H,NaN,NaN,NaN
+BEL,04/01/1976,,Lierse SK,KSV Waregem,2,1,H,NaN,NaN,NaN
+BEL,04/01/1976,,RFC de Liège,KRC Mechelen,3,0,H,NaN,NaN,NaN
+BEL,04/01/1976,,Club Brugge KV,Royal Antwerp FC,0,1,A,NaN,NaN,NaN
+BEL,04/01/1976,,KSK Beveren,Cercle Brugge,2,2,D,NaN,NaN,NaN
+BEL,04/01/1976,,FC Beringen,RSC Charleroi,0,2,A,NaN,NaN,NaN
+BEL,10/01/1976,,RAA La Louviéroise,Sporting Lokeren,0,3,A,NaN,NaN,NaN
+BEL,10/01/1976,,K. Beerschot VAV,FC Beringen,0,0,D,NaN,NaN,NaN
+BEL,11/01/1976,,KSV Waregem,AS Oostende,2,2,D,NaN,NaN,NaN
+BEL,11/01/1976,,RWD Molenbeek,KV Mechelen,2,1,H,NaN,NaN,NaN
+BEL,11/01/1976,,Lierse SK,Royal Antwerp FC,2,0,H,NaN,NaN,NaN
+BEL,11/01/1976,,RFC de Liège,Club Brugge KV,4,2,H,NaN,NaN,NaN
+BEL,11/01/1976,,Cercle Brugge,Standard Liège,1,0,H,NaN,NaN,NaN
+BEL,11/01/1976,,KSK Beveren,RSC Charleroi,2,0,H,NaN,NaN,NaN
+BEL,11/01/1976,,Berchem Sport,RSC Anderlecht,0,1,A,NaN,NaN,NaN
+BEL,17/01/1976,,RSC Charleroi,Cercle Brugge,5,1,H,NaN,NaN,NaN
+BEL,17/01/1976,,RSC Anderlecht,KRC Mechelen,4,0,H,NaN,NaN,NaN
+BEL,18/01/1976,,Standard Liège,KSV Waregem,4,1,H,NaN,NaN,NaN
+BEL,18/01/1976,,AS Oostende,Berchem Sport,4,1,H,NaN,NaN,NaN
+BEL,18/01/1976,,KV Mechelen,K. Beerschot VAV,1,0,H,NaN,NaN,NaN
+BEL,18/01/1976,,Sporting Lokeren,Lierse SK,3,1,H,NaN,NaN,NaN
+BEL,18/01/1976,,Club Brugge KV,RAA La Louviéroise,3,0,H,NaN,NaN,NaN
+BEL,18/01/1976,,FC Beringen,RFC de Liège,1,1,D,NaN,NaN,NaN
+BEL,18/01/1976,,Royal Antwerp FC,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,24/01/1976,,RAA La Louviéroise,FC Beringen,1,1,D,NaN,NaN,NaN
+BEL,24/01/1976,,K. Beerschot VAV,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,25/01/1976,,KSV Waregem,RSC Charleroi,9,1,H,NaN,NaN,NaN
+BEL,25/01/1976,,KRC Mechelen,AS Oostende,1,1,D,NaN,NaN,NaN
+BEL,25/01/1976,,Lierse SK,Club Brugge KV,2,3,A,NaN,NaN,NaN
+BEL,25/01/1976,,RFC de Liège,KV Mechelen,0,0,D,NaN,NaN,NaN
+BEL,25/01/1976,,Cercle Brugge,Royal Antwerp FC,1,3,A,NaN,NaN,NaN
+BEL,25/01/1976,,KSK Beveren,Sporting Lokeren,2,1,H,NaN,NaN,NaN
+BEL,25/01/1976,,Berchem Sport,Standard Liège,2,2,D,NaN,NaN,NaN
+BEL,01/02/1976,,Standard Liège,KRC Mechelen,0,0,D,NaN,NaN,NaN
+BEL,01/02/1976,,RWD Molenbeek,RFC de Liège,2,1,H,NaN,NaN,NaN
+BEL,01/02/1976,,KV Mechelen,RAA La Louviéroise,2,4,A,NaN,NaN,NaN
+BEL,01/02/1976,,Royal Antwerp FC,KSV Waregem,0,0,D,NaN,NaN,NaN
+BEL,04/02/1976,,RSC Charleroi,Berchem Sport,2,0,H,NaN,NaN,NaN
+BEL,11/02/1976,,AS Oostende,RSC Anderlecht,1,0,H,NaN,NaN,NaN
+BEL,11/02/1976,,Sporting Lokeren,Cercle Brugge,2,1,H,NaN,NaN,NaN
+BEL,11/02/1976,,Club Brugge KV,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,11/02/1976,,FC Beringen,Lierse SK,0,2,A,NaN,NaN,NaN
+BEL,07/02/1976,,RSC Anderlecht,Standard Liège,3,0,H,NaN,NaN,NaN
+BEL,08/02/1976,,KSV Waregem,Sporting Lokeren,1,0,H,NaN,NaN,NaN
+BEL,08/02/1976,,KRC Mechelen,RSC Charleroi,0,2,A,NaN,NaN,NaN
+BEL,08/02/1976,,RAA La Louviéroise,RWD Molenbeek,1,0,H,NaN,NaN,NaN
+BEL,08/02/1976,,Lierse SK,KV Mechelen,3,0,H,NaN,NaN,NaN
+BEL,08/02/1976,,RFC de Liège,K. Beerschot VAV,4,1,H,NaN,NaN,NaN
+BEL,08/02/1976,,Cercle Brugge,Club Brugge KV,1,5,A,NaN,NaN,NaN
+BEL,08/02/1976,,KSK Beveren,FC Beringen,1,1,D,NaN,NaN,NaN
+BEL,18/02/1976,,Berchem Sport,Royal Antwerp FC,1,1,D,NaN,NaN,NaN
+BEL,14/02/1976,,RSC Charleroi,RSC Anderlecht,2,2,D,NaN,NaN,NaN
+BEL,14/02/1976,,K. Beerschot VAV,RAA La Louviéroise,6,2,H,NaN,NaN,NaN
+BEL,15/02/1976,,Standard Liège,AS Oostende,4,2,H,NaN,NaN,NaN
+BEL,15/02/1976,,RWD Molenbeek,Lierse SK,0,0,D,NaN,NaN,NaN
+BEL,15/02/1976,,KV Mechelen,KSK Beveren,1,0,H,NaN,NaN,NaN
+BEL,15/02/1976,,Sporting Lokeren,Berchem Sport,0,0,D,NaN,NaN,NaN
+BEL,15/02/1976,,Club Brugge KV,KSV Waregem,0,0,D,NaN,NaN,NaN
+BEL,15/02/1976,,FC Beringen,Cercle Brugge,0,0,D,NaN,NaN,NaN
+BEL,15/02/1976,,Royal Antwerp FC,KRC Mechelen,1,0,H,NaN,NaN,NaN
+BEL,22/02/1976,,KSV Waregem,FC Beringen,3,2,H,NaN,NaN,NaN
+BEL,22/02/1976,,KRC Mechelen,Sporting Lokeren,1,4,A,NaN,NaN,NaN
+BEL,22/02/1976,,AS Oostende,RSC Charleroi,2,1,H,NaN,NaN,NaN
+BEL,22/02/1976,,RAA La Louviéroise,RFC de Liège,2,3,A,NaN,NaN,NaN
+BEL,22/02/1976,,Lierse SK,K. Beerschot VAV,3,1,H,NaN,NaN,NaN
+BEL,22/02/1976,,Cercle Brugge,KV Mechelen,3,0,H,NaN,NaN,NaN
+BEL,22/02/1976,,KSK Beveren,RWD Molenbeek,1,0,H,NaN,NaN,NaN
+BEL,22/02/1976,,Berchem Sport,Club Brugge KV,0,2,A,NaN,NaN,NaN
+BEL,22/02/1976,,RSC Anderlecht,Royal Antwerp FC,1,1,D,NaN,NaN,NaN
+BEL,06/03/1976,,RSC Charleroi,Standard Liège,1,2,A,NaN,NaN,NaN
+BEL,06/03/1976,,K. Beerschot VAV,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,07/03/1976,,RWD Molenbeek,Cercle Brugge,0,0,D,NaN,NaN,NaN
+BEL,07/03/1976,,KV Mechelen,KSV Waregem,3,0,H,NaN,NaN,NaN
+BEL,07/03/1976,,Sporting Lokeren,RSC Anderlecht,2,0,H,NaN,NaN,NaN
+BEL,07/03/1976,,RFC de Liège,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,07/03/1976,,Club Brugge KV,KRC Mechelen,3,2,H,NaN,NaN,NaN
+BEL,07/03/1976,,FC Beringen,Berchem Sport,0,3,A,NaN,NaN,NaN
+BEL,07/03/1976,,Royal Antwerp FC,AS Oostende,0,1,A,NaN,NaN,NaN
+BEL,13/03/1976,,AS Oostende,Sporting Lokeren,1,0,H,NaN,NaN,NaN
+BEL,13/03/1976,,Lierse SK,RAA La Louviéroise,1,1,D,NaN,NaN,NaN
+BEL,13/03/1976,,RSC Anderlecht,Club Brugge KV,1,0,H,NaN,NaN,NaN
+BEL,14/03/1976,,KSV Waregem,RWD Molenbeek,0,0,D,NaN,NaN,NaN
+BEL,14/03/1976,,Standard Liège,Royal Antwerp FC,4,0,H,NaN,NaN,NaN
+BEL,14/03/1976,,KRC Mechelen,FC Beringen,0,0,D,NaN,NaN,NaN
+BEL,14/03/1976,,Cercle Brugge,K. Beerschot VAV,0,1,A,NaN,NaN,NaN
+BEL,14/03/1976,,KSK Beveren,RFC de Liège,1,0,H,NaN,NaN,NaN
+BEL,14/03/1976,,Berchem Sport,KV Mechelen,0,1,A,NaN,NaN,NaN
+BEL,20/03/1976,,Sporting Lokeren,Standard Liège,1,0,H,NaN,NaN,NaN
+BEL,20/03/1976,,K. Beerschot VAV,KSV Waregem,2,1,H,NaN,NaN,NaN
+BEL,21/03/1976,,RWD Molenbeek,Berchem Sport,5,0,H,NaN,NaN,NaN
+BEL,21/03/1976,,KV Mechelen,KRC Mechelen,4,1,H,NaN,NaN,NaN
+BEL,21/03/1976,,RAA La Louviéroise,KSK Beveren,1,1,D,NaN,NaN,NaN
+BEL,21/03/1976,,RFC de Liège,Cercle Brugge,0,0,D,NaN,NaN,NaN
+BEL,21/03/1976,,Club Brugge KV,AS Oostende,5,0,H,NaN,NaN,NaN
+BEL,21/03/1976,,FC Beringen,RSC Anderlecht,2,0,H,NaN,NaN,NaN
+BEL,21/03/1976,,Royal Antwerp FC,RSC Charleroi,1,1,D,NaN,NaN,NaN
+BEL,24/03/1976,,RWD Molenbeek,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,24/03/1976,,KV Mechelen,Sporting Lokeren,0,2,A,NaN,NaN,NaN
+BEL,24/03/1976,,RAA La Louviéroise,AS Oostende,3,1,H,NaN,NaN,NaN
+BEL,24/03/1976,,Lierse SK,RSC Anderlecht,0,0,D,NaN,NaN,NaN
+BEL,24/03/1976,,RFC de Liège,Standard Liège,4,2,H,NaN,NaN,NaN
+BEL,24/03/1976,,Cercle Brugge,Berchem Sport,2,0,H,NaN,NaN,NaN
+BEL,24/03/1976,,KSK Beveren,KRC Mechelen,2,1,H,NaN,NaN,NaN
+BEL,24/03/1976,,FC Beringen,Club Brugge KV,0,1,A,NaN,NaN,NaN
+BEL,24/03/1976,,K. Beerschot VAV,RSC Charleroi,4,1,H,NaN,NaN,NaN
+BEL,27/03/1976,,RSC Anderlecht,KV Mechelen,2,2,D,NaN,NaN,NaN
+BEL,28/03/1976,,KSV Waregem,RFC de Liège,1,0,H,NaN,NaN,NaN
+BEL,28/03/1976,,Standard Liège,Club Brugge KV,0,1,A,NaN,NaN,NaN
+BEL,28/03/1976,,KRC Mechelen,RWD Molenbeek,0,2,A,NaN,NaN,NaN
+BEL,28/03/1976,,AS Oostende,FC Beringen,0,2,A,NaN,NaN,NaN
+BEL,28/03/1976,,RSC Charleroi,Sporting Lokeren,1,2,A,NaN,NaN,NaN
+BEL,28/03/1976,,Cercle Brugge,RAA La Louviéroise,2,0,H,NaN,NaN,NaN
+BEL,28/03/1976,,KSK Beveren,Lierse SK,1,1,D,NaN,NaN,NaN
+BEL,28/03/1976,,Berchem Sport,K. Beerschot VAV,0,1,A,NaN,NaN,NaN
+BEL,03/04/1976,,RAA La Louviéroise,KSV Waregem,2,2,D,NaN,NaN,NaN
+BEL,03/04/1976,,Sporting Lokeren,Royal Antwerp FC,2,0,H,NaN,NaN,NaN
+BEL,03/04/1976,,Lierse SK,Cercle Brugge,2,0,H,NaN,NaN,NaN
+BEL,03/04/1976,,FC Beringen,Standard Liège,2,3,A,NaN,NaN,NaN
+BEL,03/04/1976,,K. Beerschot VAV,KRC Mechelen,1,0,H,NaN,NaN,NaN
+BEL,04/04/1976,,RWD Molenbeek,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,04/04/1976,,KV Mechelen,AS Oostende,3,1,H,NaN,NaN,NaN
+BEL,04/04/1976,,RFC de Liège,Berchem Sport,0,1,A,NaN,NaN,NaN
+BEL,04/04/1976,,Club Brugge KV,RSC Charleroi,5,1,H,NaN,NaN,NaN
+BEL,07/04/1976,,Standard Liège,RAA La Louviéroise,2,2,D,NaN,NaN,NaN
+BEL,07/04/1976,,KRC Mechelen,Cercle Brugge,1,1,D,NaN,NaN,NaN
+BEL,07/04/1976,,AS Oostende,Lierse SK,2,1,H,NaN,NaN,NaN
+BEL,07/04/1976,,Sporting Lokeren,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,07/04/1976,,RSC Charleroi,RFC de Liège,6,1,H,NaN,NaN,NaN
+BEL,07/04/1976,,Club Brugge KV,KV Mechelen,5,1,H,NaN,NaN,NaN
+BEL,07/04/1976,,Berchem Sport,KSV Waregem,0,1,A,NaN,NaN,NaN
+BEL,07/04/1976,,Royal Antwerp FC,K. Beerschot VAV,1,3,A,NaN,NaN,NaN
+BEL,07/04/1976,,RSC Anderlecht,KSK Beveren,4,0,H,NaN,NaN,NaN
+BEL,10/04/1976,,KSV Waregem,Lierse SK,3,1,H,NaN,NaN,NaN
+BEL,10/04/1976,,RSC Anderlecht,K. Beerschot VAV,3,0,H,NaN,NaN,NaN
+BEL,11/04/1976,,Standard Liège,KV Mechelen,3,0,H,NaN,NaN,NaN
+BEL,11/04/1976,,KRC Mechelen,RFC de Liège,4,1,H,NaN,NaN,NaN
+BEL,11/04/1976,,AS Oostende,RWD Molenbeek,1,5,A,NaN,NaN,NaN
+BEL,11/04/1976,,RSC Charleroi,FC Beringen,0,0,D,NaN,NaN,NaN
+BEL,11/04/1976,,Cercle Brugge,KSK Beveren,0,2,A,NaN,NaN,NaN
+BEL,11/04/1976,,Berchem Sport,RAA La Louviéroise,1,2,A,NaN,NaN,NaN
+BEL,11/04/1976,,Royal Antwerp FC,Club Brugge KV,3,3,D,NaN,NaN,NaN
+BEL,15/04/1976,,RWD Molenbeek,Standard Liège,2,0,H,NaN,NaN,NaN
+BEL,16/04/1976,,Lierse SK,Berchem Sport,0,0,D,NaN,NaN,NaN
+BEL,17/04/1976,,RAA La Louviéroise,KRC Mechelen,1,2,A,NaN,NaN,NaN
+BEL,17/04/1976,,FC Beringen,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,17/04/1976,,K. Beerschot VAV,AS Oostende,3,0,H,NaN,NaN,NaN
+BEL,18/04/1976,,KV Mechelen,RSC Charleroi,0,2,A,NaN,NaN,NaN
+BEL,18/04/1976,,RFC de Liège,RSC Anderlecht,0,0,D,NaN,NaN,NaN
+BEL,18/04/1976,,Club Brugge KV,Sporting Lokeren,0,0,D,NaN,NaN,NaN
+BEL,18/04/1976,,KSK Beveren,KSV Waregem,0,1,A,NaN,NaN,NaN
+BEL,30/04/1976,,RSC Charleroi,RWD Molenbeek,0,1,A,NaN,NaN,NaN
+BEL,30/04/1976,,RSC Anderlecht,RAA La Louviéroise,1,1,D,NaN,NaN,NaN
+BEL,01/05/1976,,KSV Waregem,Cercle Brugge,4,1,H,NaN,NaN,NaN
+BEL,01/05/1976,,Sporting Lokeren,FC Beringen,0,0,D,NaN,NaN,NaN
+BEL,02/05/1976,,Standard Liège,K. Beerschot VAV,1,0,H,NaN,NaN,NaN
+BEL,02/05/1976,,KRC Mechelen,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,02/05/1976,,AS Oostende,RFC de Liège,2,2,D,NaN,NaN,NaN
+BEL,02/05/1976,,Berchem Sport,KSK Beveren,0,3,A,NaN,NaN,NaN
+BEL,02/05/1976,,Royal Antwerp FC,KV Mechelen,2,2,D,NaN,NaN,NaN
+BEL,09/05/1976,,KSV Waregem,KRC Mechelen,2,2,D,NaN,NaN,NaN
+BEL,09/05/1976,,RWD Molenbeek,Club Brugge KV,5,3,H,NaN,NaN,NaN
+BEL,09/05/1976,,KV Mechelen,FC Beringen,2,2,D,NaN,NaN,NaN
+BEL,09/05/1976,,RAA La Louviéroise,RSC Charleroi,0,0,D,NaN,NaN,NaN
+BEL,09/05/1976,,Lierse SK,Standard Liège,0,0,D,NaN,NaN,NaN
+BEL,09/05/1976,,RFC de Liège,Royal Antwerp FC,6,2,H,NaN,NaN,NaN
+BEL,09/05/1976,,Cercle Brugge,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,09/05/1976,,KSK Beveren,AS Oostende,1,1,D,NaN,NaN,NaN
+BEL,09/05/1976,,K. Beerschot VAV,Sporting Lokeren,1,1,D,NaN,NaN,NaN
+BEL,16/05/1976,,Standard Liège,KSK Beveren,2,3,A,NaN,NaN,NaN
+BEL,16/05/1976,,KRC Mechelen,Berchem Sport,0,1,A,NaN,NaN,NaN
+BEL,16/05/1976,,AS Oostende,Cercle Brugge,2,0,H,NaN,NaN,NaN
+BEL,16/05/1976,,Sporting Lokeren,RFC de Liège,0,1,A,NaN,NaN,NaN
+BEL,16/05/1976,,RSC Charleroi,Lierse SK,2,1,H,NaN,NaN,NaN
+BEL,16/05/1976,,Club Brugge KV,K. Beerschot VAV,4,2,H,NaN,NaN,NaN
+BEL,16/05/1976,,FC Beringen,RWD Molenbeek,0,0,D,NaN,NaN,NaN
+BEL,16/05/1976,,Royal Antwerp FC,RAA La Louviéroise,2,3,A,NaN,NaN,NaN
+BEL,16/05/1976,,RSC Anderlecht,KSV Waregem,2,1,H,NaN,NaN,NaN

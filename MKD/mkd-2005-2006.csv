@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MKD,06/08/2005,,FK Vlazrimi,Vardar Skopje,1,0,H,NaN,NaN,NaN
+MKD,07/08/2005,,Makedonija GP,FK Bregalnica Štip,1,0,H,NaN,NaN,NaN
+MKD,07/08/2005,,FK Rabotnički,FK Bashkimi,2,0,H,NaN,NaN,NaN
+MKD,07/08/2005,,Sileks Kratovo,FK Renova,1,1,D,NaN,NaN,NaN
+MKD,07/08/2005,,KF Shkëndija 79,FK Belasica,2,0,H,NaN,NaN,NaN
+MKD,07/08/2005,,Cementarnica Skopje,FK Pobeda,2,2,D,NaN,NaN,NaN
+MKD,21/08/2005,,FK Bregalnica Štip,FK Pobeda,2,0,H,NaN,NaN,NaN
+MKD,21/08/2005,,Vardar Skopje,Cementarnica Skopje,1,1,D,NaN,NaN,NaN
+MKD,21/08/2005,,FK Belasica,FK Vlazrimi,0,1,A,NaN,NaN,NaN
+MKD,21/08/2005,,FK Renova,KF Shkëndija 79,0,2,A,NaN,NaN,NaN
+MKD,21/08/2005,,FK Bashkimi,Sileks Kratovo,1,1,D,NaN,NaN,NaN
+MKD,21/08/2005,,Makedonija GP,FK Rabotnički,0,3,A,NaN,NaN,NaN
+MKD,28/08/2005,,FK Rabotnički,FK Bregalnica Štip,7,2,H,NaN,NaN,NaN
+MKD,28/08/2005,,Sileks Kratovo,Makedonija GP,0,2,A,NaN,NaN,NaN
+MKD,28/08/2005,,FK Vlazrimi,FK Renova,4,3,H,NaN,NaN,NaN
+MKD,28/08/2005,,Cementarnica Skopje,FK Belasica,3,0,H,NaN,NaN,NaN
+MKD,28/08/2005,,FK Pobeda,Vardar Skopje,0,1,A,NaN,NaN,NaN
+MKD,29/08/2005,,KF Shkëndija 79,FK Bashkimi,0,1,A,NaN,NaN,NaN
+MKD,11/09/2005,15:00,FK Belasica,FK Pobeda,2,5,A,NaN,NaN,NaN
+MKD,11/09/2005,15:00,FK Renova,Cementarnica Skopje,2,1,H,NaN,NaN,NaN
+MKD,11/09/2005,15:00,FK Bashkimi,FK Vlazrimi,0,1,A,NaN,NaN,NaN
+MKD,11/09/2005,15:00,Makedonija GP,KF Shkëndija 79,1,0,H,NaN,NaN,NaN
+MKD,11/09/2005,15:00,FK Rabotnički,Sileks Kratovo,3,1,H,NaN,NaN,NaN
+MKD,11/09/2005,18:00,FK Bregalnica Štip,Vardar Skopje,0,3,A,NaN,NaN,NaN
+MKD,18/09/2005,,Sileks Kratovo,FK Bregalnica Štip,4,3,H,NaN,NaN,NaN
+MKD,18/09/2005,,KF Shkëndija 79,FK Rabotnički,2,1,H,NaN,NaN,NaN
+MKD,18/09/2005,,FK Vlazrimi,Makedonija GP,0,1,A,NaN,NaN,NaN
+MKD,18/09/2005,,Cementarnica Skopje,FK Bashkimi,1,0,H,NaN,NaN,NaN
+MKD,18/09/2005,,FK Pobeda,FK Renova,2,1,H,NaN,NaN,NaN
+MKD,18/09/2005,,Vardar Skopje,FK Belasica,2,1,H,NaN,NaN,NaN
+MKD,25/09/2005,,FK Bregalnica Štip,FK Belasica,3,1,H,NaN,NaN,NaN
+MKD,25/09/2005,,FK Renova,Vardar Skopje,0,1,A,NaN,NaN,NaN
+MKD,25/09/2005,,FK Bashkimi,FK Pobeda,2,1,H,NaN,NaN,NaN
+MKD,25/09/2005,,Makedonija GP,Cementarnica Skopje,4,0,H,NaN,NaN,NaN
+MKD,25/09/2005,,FK Rabotnički,FK Vlazrimi,2,1,H,NaN,NaN,NaN
+MKD,25/09/2005,,Sileks Kratovo,KF Shkëndija 79,1,1,D,NaN,NaN,NaN
+MKD,01/10/2005,14:30,KF Shkëndija 79,FK Bregalnica Štip,1,4,A,NaN,NaN,NaN
+MKD,01/10/2005,14:30,FK Vlazrimi,Sileks Kratovo,0,1,A,NaN,NaN,NaN
+MKD,01/10/2005,14:30,Cementarnica Skopje,FK Rabotnički,2,2,D,NaN,NaN,NaN
+MKD,01/10/2005,14:30,FK Pobeda,Makedonija GP,1,1,D,NaN,NaN,NaN
+MKD,01/10/2005,14:30,Vardar Skopje,FK Bashkimi,3,1,H,NaN,NaN,NaN
+MKD,01/10/2005,14:30,FK Belasica,FK Renova,2,0,H,NaN,NaN,NaN
+MKD,05/10/2005,,FK Bregalnica Štip,FK Renova,2,1,H,NaN,NaN,NaN
+MKD,05/10/2005,,FK Bashkimi,FK Belasica,2,1,H,NaN,NaN,NaN
+MKD,05/10/2005,,Makedonija GP,Vardar Skopje,1,0,H,NaN,NaN,NaN
+MKD,05/10/2005,,Sileks Kratovo,Cementarnica Skopje,3,2,H,NaN,NaN,NaN
+MKD,05/10/2005,,KF Shkëndija 79,FK Vlazrimi,2,1,H,NaN,NaN,NaN
+MKD,06/10/2005,,FK Rabotnički,FK Pobeda,1,1,D,NaN,NaN,NaN
+MKD,16/10/2005,,FK Vlazrimi,FK Bregalnica Štip,2,1,H,NaN,NaN,NaN
+MKD,16/10/2005,,Cementarnica Skopje,KF Shkëndija 79,1,2,A,NaN,NaN,NaN
+MKD,16/10/2005,,FK Pobeda,Sileks Kratovo,2,1,H,NaN,NaN,NaN
+MKD,16/10/2005,,Vardar Skopje,FK Rabotnički,0,2,A,NaN,NaN,NaN
+MKD,16/10/2005,,FK Belasica,Makedonija GP,0,2,A,NaN,NaN,NaN
+MKD,16/10/2005,,FK Renova,FK Bashkimi,1,0,H,NaN,NaN,NaN
+MKD,22/10/2005,,FK Rabotnički,FK Belasica,3,0,H,NaN,NaN,NaN
+MKD,23/10/2005,,FK Bregalnica Štip,FK Bashkimi,0,1,A,NaN,NaN,NaN
+MKD,23/10/2005,,Makedonija GP,FK Renova,3,0,H,NaN,NaN,NaN
+MKD,23/10/2005,,Sileks Kratovo,Vardar Skopje,0,2,A,NaN,NaN,NaN
+MKD,23/10/2005,,KF Shkëndija 79,FK Pobeda,4,5,A,NaN,NaN,NaN
+MKD,23/10/2005,,FK Vlazrimi,Cementarnica Skopje,4,0,H,NaN,NaN,NaN
+MKD,30/10/2005,,Cementarnica Skopje,FK Bregalnica Štip,1,2,A,NaN,NaN,NaN
+MKD,30/10/2005,,FK Pobeda,FK Vlazrimi,1,0,H,NaN,NaN,NaN
+MKD,30/10/2005,,Vardar Skopje,KF Shkëndija 79,1,0,H,NaN,NaN,NaN
+MKD,30/10/2005,,FK Belasica,Sileks Kratovo,1,1,D,NaN,NaN,NaN
+MKD,30/10/2005,,FK Renova,FK Rabotnički,1,1,D,NaN,NaN,NaN
+MKD,30/10/2005,,FK Bashkimi,Makedonija GP,5,0,H,NaN,NaN,NaN
+MKD,06/11/2005,,FK Bregalnica Štip,Makedonija GP,0,4,A,NaN,NaN,NaN
+MKD,06/11/2005,,FK Bashkimi,FK Rabotnički,1,1,D,NaN,NaN,NaN
+MKD,06/11/2005,,FK Renova,Sileks Kratovo,1,1,D,NaN,NaN,NaN
+MKD,06/11/2005,,FK Belasica,KF Shkëndija 79,1,2,A,NaN,NaN,NaN
+MKD,06/11/2005,,Vardar Skopje,FK Vlazrimi,2,0,H,NaN,NaN,NaN
+MKD,06/11/2005,,FK Pobeda,Cementarnica Skopje,3,0,H,NaN,NaN,NaN
+MKD,17/11/2005,,FK Pobeda,FK Bregalnica Štip,3,0,H,NaN,NaN,NaN
+MKD,17/11/2005,,Cementarnica Skopje,Vardar Skopje,0,1,A,NaN,NaN,NaN
+MKD,17/11/2005,,FK Vlazrimi,FK Belasica,3,1,H,NaN,NaN,NaN
+MKD,17/11/2005,,KF Shkëndija 79,FK Renova,2,1,H,NaN,NaN,NaN
+MKD,17/11/2005,,Sileks Kratovo,FK Bashkimi,4,1,H,NaN,NaN,NaN
+MKD,17/11/2005,,FK Rabotnički,Makedonija GP,1,0,H,NaN,NaN,NaN
+MKD,20/11/2005,,FK Bregalnica Štip,FK Rabotnički,1,2,A,NaN,NaN,NaN
+MKD,20/11/2005,,Makedonija GP,Sileks Kratovo,3,1,H,NaN,NaN,NaN
+MKD,20/11/2005,,FK Bashkimi,KF Shkëndija 79,4,2,H,NaN,NaN,NaN
+MKD,20/11/2005,,FK Renova,FK Vlazrimi,4,3,H,NaN,NaN,NaN
+MKD,20/11/2005,,FK Belasica,Cementarnica Skopje,0,2,A,NaN,NaN,NaN
+MKD,22/11/2005,,Vardar Skopje,FK Pobeda,1,1,D,NaN,NaN,NaN
+MKD,26/11/2005,,FK Pobeda,FK Belasica,3,0,H,NaN,NaN,NaN
+MKD,27/11/2005,,Vardar Skopje,FK Bregalnica Štip,1,0,H,NaN,NaN,NaN
+MKD,27/11/2005,,Cementarnica Skopje,FK Renova,2,0,H,NaN,NaN,NaN
+MKD,27/11/2005,,FK Vlazrimi,FK Bashkimi,2,2,D,NaN,NaN,NaN
+MKD,27/11/2005,,KF Shkëndija 79,Makedonija GP,2,1,H,NaN,NaN,NaN
+MKD,27/11/2005,,Sileks Kratovo,FK Rabotnički,2,4,A,NaN,NaN,NaN
+MKD,03/12/2005,,FK Rabotnički,KF Shkëndija 79,3,0,H,NaN,NaN,NaN
+MKD,04/12/2005,,FK Bregalnica Štip,Sileks Kratovo,1,2,A,NaN,NaN,NaN
+MKD,04/12/2005,,Makedonija GP,FK Vlazrimi,3,0,H,NaN,NaN,NaN
+MKD,04/12/2005,,FK Bashkimi,Cementarnica Skopje,3,2,H,NaN,NaN,NaN
+MKD,04/12/2005,,FK Renova,FK Pobeda,2,0,H,NaN,NaN,NaN
+MKD,04/12/2005,,FK Belasica,Vardar Skopje,0,2,A,NaN,NaN,NaN
+MKD,11/12/2005,,FK Belasica,FK Bregalnica Štip,0,1,A,NaN,NaN,NaN
+MKD,11/12/2005,,Vardar Skopje,FK Renova,1,1,D,NaN,NaN,NaN
+MKD,11/12/2005,,Cementarnica Skopje,Makedonija GP,2,2,D,NaN,NaN,NaN
+MKD,11/12/2005,,KF Shkëndija 79,Sileks Kratovo,4,1,H,NaN,NaN,NaN
+MKD,12/12/2005,,FK Pobeda,FK Bashkimi,3,1,H,NaN,NaN,NaN
+MKD,12/12/2005,,FK Vlazrimi,FK Rabotnički,0,1,A,NaN,NaN,NaN
+MKD,17/12/2005,,FK Rabotnički,Cementarnica Skopje,3,1,H,NaN,NaN,NaN
+MKD,05/03/2006,,FK Bregalnica Štip,KF Shkëndija 79,2,0,H,NaN,NaN,NaN
+MKD,05/03/2006,,Sileks Kratovo,FK Vlazrimi,1,1,D,NaN,NaN,NaN
+MKD,05/03/2006,,Makedonija GP,FK Pobeda,1,0,H,NaN,NaN,NaN
+MKD,05/03/2006,,FK Bashkimi,Vardar Skopje,0,1,A,NaN,NaN,NaN
+MKD,05/03/2006,,FK Renova,FK Belasica,2,3,A,NaN,NaN,NaN
+MKD,12/03/2006,,FK Renova,FK Bregalnica Štip,2,1,H,NaN,NaN,NaN
+MKD,12/03/2006,,FK Belasica,FK Bashkimi,0,2,A,NaN,NaN,NaN
+MKD,12/03/2006,,Vardar Skopje,Makedonija GP,1,0,H,NaN,NaN,NaN
+MKD,12/03/2006,,FK Pobeda,FK Rabotnički,3,3,D,NaN,NaN,NaN
+MKD,12/03/2006,,Cementarnica Skopje,Sileks Kratovo,2,0,H,NaN,NaN,NaN
+MKD,12/03/2006,,FK Vlazrimi,KF Shkëndija 79,1,0,H,NaN,NaN,NaN
+MKD,15/03/2006,,FK Bregalnica Štip,FK Vlazrimi,1,1,D,NaN,NaN,NaN
+MKD,15/03/2006,,KF Shkëndija 79,Cementarnica Skopje,1,0,H,NaN,NaN,NaN
+MKD,15/03/2006,,Sileks Kratovo,FK Pobeda,2,2,D,NaN,NaN,NaN
+MKD,15/03/2006,,FK Rabotnički,Vardar Skopje,1,0,H,NaN,NaN,NaN
+MKD,15/03/2006,,Makedonija GP,FK Belasica,1,0,H,NaN,NaN,NaN
+MKD,15/03/2006,,FK Bashkimi,FK Renova,3,2,H,NaN,NaN,NaN
+MKD,19/03/2006,,FK Bashkimi,FK Bregalnica Štip,2,2,D,NaN,NaN,NaN
+MKD,19/03/2006,,FK Renova,Makedonija GP,2,0,H,NaN,NaN,NaN
+MKD,19/03/2006,,FK Belasica,FK Rabotnički,1,2,A,NaN,NaN,NaN
+MKD,19/03/2006,,Vardar Skopje,Sileks Kratovo,2,0,H,NaN,NaN,NaN
+MKD,19/03/2006,,FK Pobeda,KF Shkëndija 79,1,0,H,NaN,NaN,NaN
+MKD,19/03/2006,,Cementarnica Skopje,FK Vlazrimi,3,1,H,NaN,NaN,NaN
+MKD,22/03/2006,,FK Bregalnica Štip,Cementarnica Skopje,2,1,H,NaN,NaN,NaN
+MKD,22/03/2006,,FK Vlazrimi,FK Pobeda,2,4,A,NaN,NaN,NaN
+MKD,22/03/2006,,KF Shkëndija 79,Vardar Skopje,2,1,H,NaN,NaN,NaN
+MKD,22/03/2006,,Sileks Kratovo,FK Belasica,1,0,H,NaN,NaN,NaN
+MKD,22/03/2006,,FK Rabotnički,FK Renova,1,0,H,NaN,NaN,NaN
+MKD,22/03/2006,,Makedonija GP,FK Bashkimi,3,0,H,NaN,NaN,NaN
+MKD,25/03/2006,,FK Rabotnički,FK Vlazrimi,4,0,H,NaN,NaN,NaN
+MKD,26/03/2006,,Vardar Skopje,FK Bregalnica Štip,1,0,H,NaN,NaN,NaN
+MKD,26/03/2006,,Makedonija GP,Sileks Kratovo,1,1,D,NaN,NaN,NaN
+MKD,26/03/2006,,FK Pobeda,Cementarnica Skopje,1,0,H,NaN,NaN,NaN
+MKD,26/03/2006,,KF Shkëndija 79,FK Renova,1,2,A,NaN,NaN,NaN
+MKD,26/03/2006,,FK Bashkimi,FK Belasica,6,0,H,NaN,NaN,NaN
+MKD,01/04/2006,,FK Bregalnica Štip,FK Rabotnički,0,0,D,NaN,NaN,NaN
+MKD,02/04/2006,,FK Bashkimi,FK Vlazrimi,2,1,H,NaN,NaN,NaN
+MKD,02/04/2006,,FK Belasica,KF Shkëndija 79,0,3,A,NaN,NaN,NaN
+MKD,02/04/2006,,FK Renova,FK Pobeda,3,0,H,NaN,NaN,NaN
+MKD,02/04/2006,,Cementarnica Skopje,Makedonija GP,0,2,A,NaN,NaN,NaN
+MKD,02/04/2006,,Sileks Kratovo,Vardar Skopje,0,0,D,NaN,NaN,NaN
+MKD,08/04/2006,,FK Rabotnički,Sileks Kratovo,1,0,H,NaN,NaN,NaN
+MKD,09/04/2006,,FK Vlazrimi,FK Bregalnica Štip,1,0,H,NaN,NaN,NaN
+MKD,09/04/2006,,Vardar Skopje,Cementarnica Skopje,2,0,H,NaN,NaN,NaN
+MKD,09/04/2006,,Makedonija GP,FK Renova,0,0,D,NaN,NaN,NaN
+MKD,09/04/2006,,FK Pobeda,FK Belasica,2,1,H,NaN,NaN,NaN
+MKD,09/04/2006,,KF Shkëndija 79,FK Bashkimi,1,0,H,NaN,NaN,NaN
+MKD,15/04/2006,,KF Shkëndija 79,FK Vlazrimi,5,1,H,NaN,NaN,NaN
+MKD,15/04/2006,,Cementarnica Skopje,FK Rabotnički,0,0,D,NaN,NaN,NaN
+MKD,16/04/2006,,FK Bashkimi,FK Pobeda,2,0,H,NaN,NaN,NaN
+MKD,16/04/2006,,FK Belasica,Makedonija GP,1,4,A,NaN,NaN,NaN
+MKD,16/04/2006,,FK Renova,Vardar Skopje,1,0,H,NaN,NaN,NaN
+MKD,16/04/2006,,Sileks Kratovo,FK Bregalnica Štip,3,3,D,NaN,NaN,NaN
+MKD,19/04/2006,,FK Vlazrimi,Sileks Kratovo,3,2,H,NaN,NaN,NaN
+MKD,19/04/2006,,FK Bregalnica Štip,Cementarnica Skopje,0,0,D,NaN,NaN,NaN
+MKD,19/04/2006,,FK Rabotnički,FK Renova,3,1,H,NaN,NaN,NaN
+MKD,19/04/2006,,Vardar Skopje,FK Belasica,3,0,H,NaN,NaN,NaN
+MKD,19/04/2006,,Makedonija GP,FK Bashkimi,2,0,H,NaN,NaN,NaN
+MKD,19/04/2006,,FK Pobeda,KF Shkëndija 79,3,0,H,NaN,NaN,NaN
+MKD,22/04/2006,,FK Pobeda,FK Vlazrimi,1,2,A,NaN,NaN,NaN
+MKD,22/04/2006,,KF Shkëndija 79,Makedonija GP,0,1,A,NaN,NaN,NaN
+MKD,22/04/2006,,FK Bashkimi,Vardar Skopje,1,1,D,NaN,NaN,NaN
+MKD,22/04/2006,,FK Belasica,FK Rabotnički,0,3,A,NaN,NaN,NaN
+MKD,22/04/2006,,FK Renova,FK Bregalnica Štip,2,1,H,NaN,NaN,NaN
+MKD,22/04/2006,,Cementarnica Skopje,Sileks Kratovo,3,2,H,NaN,NaN,NaN
+MKD,30/04/2006,15:00,FK Vlazrimi,Cementarnica Skopje,0,0,D,NaN,NaN,NaN
+MKD,30/04/2006,15:00,Sileks Kratovo,FK Renova,2,0,H,NaN,NaN,NaN
+MKD,30/04/2006,15:00,FK Bregalnica Štip,FK Belasica,6,1,H,NaN,NaN,NaN
+MKD,30/04/2006,15:00,FK Rabotnički,FK Bashkimi,0,0,D,NaN,NaN,NaN
+MKD,30/04/2006,15:00,Vardar Skopje,KF Shkëndija 79,2,2,D,NaN,NaN,NaN
+MKD,30/04/2006,15:00,Makedonija GP,FK Pobeda,3,0,H,NaN,NaN,NaN
+MKD,03/05/2006,14:00,FK Renova,Cementarnica Skopje,2,1,H,NaN,NaN,NaN
+MKD,03/05/2006,16:00,Makedonija GP,FK Vlazrimi,6,2,H,NaN,NaN,NaN
+MKD,03/05/2006,16:00,FK Pobeda,Vardar Skopje,2,0,H,NaN,NaN,NaN
+MKD,03/05/2006,16:00,KF Shkëndija 79,FK Rabotnički,2,1,H,NaN,NaN,NaN
+MKD,03/05/2006,16:00,FK Bashkimi,FK Bregalnica Štip,2,3,A,NaN,NaN,NaN
+MKD,03/05/2006,16:00,FK Belasica,Sileks Kratovo,4,6,A,NaN,NaN,NaN
+MKD,07/05/2006,,FK Vlazrimi,FK Renova,2,1,H,NaN,NaN,NaN
+MKD,07/05/2006,,Cementarnica Skopje,FK Belasica,1,1,D,NaN,NaN,NaN
+MKD,07/05/2006,,Sileks Kratovo,FK Bashkimi,3,0,H,NaN,NaN,NaN
+MKD,07/05/2006,,FK Bregalnica Štip,KF Shkëndija 79,0,0,D,NaN,NaN,NaN
+MKD,07/05/2006,,FK Rabotnički,FK Pobeda,2,1,H,NaN,NaN,NaN
+MKD,07/05/2006,,Vardar Skopje,Makedonija GP,0,0,D,NaN,NaN,NaN
+MKD,14/05/2006,,Vardar Skopje,FK Vlazrimi,3,0,H,NaN,NaN,NaN
+MKD,14/05/2006,,Makedonija GP,FK Rabotnički,0,0,D,NaN,NaN,NaN
+MKD,14/05/2006,,FK Pobeda,FK Bregalnica Štip,3,0,H,NaN,NaN,NaN
+MKD,14/05/2006,,KF Shkëndija 79,Sileks Kratovo,2,2,D,NaN,NaN,NaN
+MKD,14/05/2006,,FK Bashkimi,Cementarnica Skopje,2,1,H,NaN,NaN,NaN
+MKD,14/05/2006,,FK Belasica,FK Renova,0,2,A,NaN,NaN,NaN
+MKD,21/05/2006,,FK Vlazrimi,FK Belasica,3,0,H,NaN,NaN,NaN
+MKD,21/05/2006,,FK Renova,FK Bashkimi,4,3,H,NaN,NaN,NaN
+MKD,21/05/2006,,Cementarnica Skopje,KF Shkëndija 79,3,1,H,NaN,NaN,NaN
+MKD,21/05/2006,,Sileks Kratovo,FK Pobeda,4,2,H,NaN,NaN,NaN
+MKD,21/05/2006,,FK Bregalnica Štip,Makedonija GP,1,2,A,NaN,NaN,NaN
+MKD,21/05/2006,,FK Rabotnički,Vardar Skopje,1,3,A,NaN,NaN,NaN

@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+VIE,31/12/2011,09:10,Hoàng Anh Gia Lai,Hải Phòng FC,3,1,H,NaN,NaN,NaN
+VIE,31/12/2011,11:30,Bình Dương FC,Kiên Giang FC,2,0,H,NaN,NaN,NaN
+VIE,01/01/2012,09:10,Navibank Saigon,Saigon Xuan Thanh,2,2,D,NaN,NaN,NaN
+VIE,01/01/2012,09:10,Hà Nội FC,Hà Nội T&T;,0,1,A,NaN,NaN,NaN
+VIE,01/01/2012,09:10,Vissai Ninh Binh,Đồng Tháp,2,2,D,NaN,NaN,NaN
+VIE,01/01/2012,09:20,Sông Lam Nghệ An,Lam Sơn Thanh Hóa,0,0,D,NaN,NaN,NaN
+VIE,01/01/2012,09:20,SHB-Da Nang FC,Khatoco Khánh Hoà,3,2,H,NaN,NaN,NaN
+VIE,07/01/2012,09:10,Hải Phòng FC,Navibank Saigon,1,1,D,NaN,NaN,NaN
+VIE,07/01/2012,09:10,Đồng Tháp,Sông Lam Nghệ An,0,1,A,NaN,NaN,NaN
+VIE,07/01/2012,09:10,Kiên Giang FC,Hà Nội FC,3,2,H,NaN,NaN,NaN
+VIE,07/01/2012,11:30,Saigon Xuan Thanh,Hoàng Anh Gia Lai,1,1,D,NaN,NaN,NaN
+VIE,08/01/2012,09:10,Hà Nội T&T;,Bình Dương FC,1,0,H,NaN,NaN,NaN
+VIE,08/01/2012,09:10,Lam Sơn Thanh Hóa,SHB-Da Nang FC,0,0,D,NaN,NaN,NaN
+VIE,08/01/2012,11:30,Khatoco Khánh Hoà,Vissai Ninh Binh,4,0,H,NaN,NaN,NaN
+VIE,14/01/2012,09:00,SHB-Da Nang FC,Hoàng Anh Gia Lai,4,1,H,NaN,NaN,NaN
+VIE,14/01/2012,09:10,Lam Sơn Thanh Hóa,Bình Dương FC,2,1,H,NaN,NaN,NaN
+VIE,14/01/2012,09:10,Hà Nội FC,Khatoco Khánh Hoà,4,1,H,NaN,NaN,NaN
+VIE,14/01/2012,09:30,Kiên Giang FC,Saigon Xuan Thanh,0,2,A,NaN,NaN,NaN
+VIE,15/01/2012,09:10,Hải Phòng FC,Đồng Tháp,1,1,D,NaN,NaN,NaN
+VIE,15/01/2012,09:10,Sông Lam Nghệ An,Hà Nội T&T;,2,2,D,NaN,NaN,NaN
+VIE,15/01/2012,11:30,Navibank Saigon,Vissai Ninh Binh,1,2,A,NaN,NaN,NaN
+VIE,04/02/2012,09:00,Vissai Ninh Binh,Lam Sơn Thanh Hóa,1,0,H,NaN,NaN,NaN
+VIE,04/02/2012,09:10,Hoàng Anh Gia Lai,Navibank Saigon,0,2,A,NaN,NaN,NaN
+VIE,04/02/2012,11:30,Saigon Xuan Thanh,Hải Phòng FC,4,0,H,NaN,NaN,NaN
+VIE,05/02/2012,09:10,Đồng Tháp,Khatoco Khánh Hoà,3,1,H,NaN,NaN,NaN
+VIE,05/02/2012,09:10,Hà Nội T&T;,Kiên Giang FC,2,1,H,NaN,NaN,NaN
+VIE,05/02/2012,09:10,Bình Dương FC,Hà Nội FC,3,1,H,NaN,NaN,NaN
+VIE,05/02/2012,09:10,SHB-Da Nang FC,Sông Lam Nghệ An,1,1,D,NaN,NaN,NaN
+VIE,11/02/2012,09:10,Hoàng Anh Gia Lai,Hà Nội FC,2,1,H,NaN,NaN,NaN
+VIE,11/02/2012,09:10,Hà Nội T&T;,Lam Sơn Thanh Hóa,3,2,H,NaN,NaN,NaN
+VIE,11/02/2012,09:10,Vissai Ninh Binh,Hải Phòng FC,2,0,H,NaN,NaN,NaN
+VIE,11/02/2012,11:30,Bình Dương FC,Sông Lam Nghệ An,0,0,D,NaN,NaN,NaN
+VIE,12/02/2012,09:10,Đồng Tháp,Navibank Saigon,3,1,H,NaN,NaN,NaN
+VIE,12/02/2012,09:10,Khatoco Khánh Hoà,Kiên Giang FC,1,0,H,NaN,NaN,NaN
+VIE,12/02/2012,11:30,Saigon Xuan Thanh,SHB-Da Nang FC,2,1,H,NaN,NaN,NaN
+VIE,18/02/2012,09:00,Sông Lam Nghệ An,Hoàng Anh Gia Lai,2,0,H,NaN,NaN,NaN
+VIE,18/02/2012,09:10,Lam Sơn Thanh Hóa,Saigon Xuan Thanh,1,1,D,NaN,NaN,NaN
+VIE,18/02/2012,11:30,Navibank Saigon,Bình Dương FC,0,1,A,NaN,NaN,NaN
+VIE,19/02/2012,09:00,Hà Nội FC,Đồng Tháp,2,1,H,NaN,NaN,NaN
+VIE,19/02/2012,09:10,Hải Phòng FC,Khatoco Khánh Hoà,3,1,H,NaN,NaN,NaN
+VIE,19/02/2012,09:10,Kiên Giang FC,Vissai Ninh Binh,0,0,D,NaN,NaN,NaN
+VIE,19/02/2012,09:10,SHB-Da Nang FC,Hà Nội T&T;,2,0,H,NaN,NaN,NaN
+VIE,25/02/2012,09:00,Hải Phòng FC,Sông Lam Nghệ An,2,2,D,NaN,NaN,NaN
+VIE,25/02/2012,09:30,Kiên Giang FC,Hoàng Anh Gia Lai,2,3,A,NaN,NaN,NaN
+VIE,25/02/2012,10:00,Khatoco Khánh Hoà,Saigon Xuan Thanh,2,2,D,NaN,NaN,NaN
+VIE,25/02/2012,11:30,Navibank Saigon,Lam Sơn Thanh Hóa,2,0,H,NaN,NaN,NaN
+VIE,26/02/2012,09:00,Vissai Ninh Binh,Hà Nội T&T;,2,2,D,NaN,NaN,NaN
+VIE,26/02/2012,09:10,Hà Nội FC,SHB-Da Nang FC,3,3,D,NaN,NaN,NaN
+VIE,26/02/2012,09:10,Đồng Tháp,Bình Dương FC,0,0,D,NaN,NaN,NaN
+VIE,02/03/2012,09:10,Khatoco Khánh Hoà,Navibank Saigon,3,0,H,NaN,NaN,NaN
+VIE,02/03/2012,10:00,Sông Lam Nghệ An,Kiên Giang FC,2,2,D,NaN,NaN,NaN
+VIE,03/03/2012,09:00,Lam Sơn Thanh Hóa,Hà Nội FC,3,5,A,NaN,NaN,NaN
+VIE,03/03/2012,11:30,Bình Dương FC,SHB-Da Nang FC,1,2,A,NaN,NaN,NaN
+VIE,04/03/2012,09:00,Hoàng Anh Gia Lai,Vissai Ninh Binh,2,1,H,NaN,NaN,NaN
+VIE,04/03/2012,09:10,Hà Nội T&T;,Hải Phòng FC,2,1,H,NaN,NaN,NaN
+VIE,04/03/2012,11:30,Saigon Xuan Thanh,Đồng Tháp,3,1,H,NaN,NaN,NaN
+VIE,10/03/2012,09:00,Hoàng Anh Gia Lai,Khatoco Khánh Hoà,0,0,D,NaN,NaN,NaN
+VIE,10/03/2012,09:10,SHB-Da Nang FC,Kiên Giang FC,2,2,D,NaN,NaN,NaN
+VIE,10/03/2012,09:10,Hà Nội T&T;,Đồng Tháp,1,1,D,NaN,NaN,NaN
+VIE,10/03/2012,11:30,Saigon Xuan Thanh,Hà Nội FC,2,0,H,NaN,NaN,NaN
+VIE,11/03/2012,09:00,Lam Sơn Thanh Hóa,Hải Phòng FC,3,0,H,NaN,NaN,NaN
+VIE,11/03/2012,10:00,Bình Dương FC,Vissai Ninh Binh,3,1,H,NaN,NaN,NaN
+VIE,11/03/2012,10:00,Sông Lam Nghệ An,Navibank Saigon,1,1,D,NaN,NaN,NaN
+VIE,16/03/2012,09:10,Hà Nội FC,Sông Lam Nghệ An,0,0,D,NaN,NaN,NaN
+VIE,16/03/2012,11:30,Navibank Saigon,SHB-Da Nang FC,3,1,H,NaN,NaN,NaN
+VIE,17/03/2012,09:00,Kiên Giang FC,Lam Sơn Thanh Hóa,0,0,D,NaN,NaN,NaN
+VIE,17/03/2012,09:10,Hải Phòng FC,Bình Dương FC,0,1,A,NaN,NaN,NaN
+VIE,17/03/2012,11:30,Khatoco Khánh Hoà,Hà Nội T&T;,1,1,D,NaN,NaN,NaN
+VIE,18/03/2012,09:00,Vissai Ninh Binh,Saigon Xuan Thanh,2,0,H,NaN,NaN,NaN
+VIE,18/03/2012,09:10,Đồng Tháp,Hoàng Anh Gia Lai,0,0,D,NaN,NaN,NaN
+VIE,24/03/2012,09:00,Hoàng Anh Gia Lai,Hà Nội T&T;,0,0,D,NaN,NaN,NaN
+VIE,24/03/2012,09:10,Kiên Giang FC,Hải Phòng FC,1,0,H,NaN,NaN,NaN
+VIE,24/03/2012,11:30,Khatoco Khánh Hoà,Lam Sơn Thanh Hóa,0,1,A,NaN,NaN,NaN
+VIE,25/03/2012,10:00,Đồng Tháp,SHB-Da Nang FC,3,3,D,NaN,NaN,NaN
+VIE,25/03/2012,12:30,Saigon Xuan Thanh,Bình Dương FC,0,1,A,NaN,NaN,NaN
+VIE,26/03/2012,10:10,Hà Nội FC,Navibank Saigon,1,1,D,NaN,NaN,NaN
+VIE,26/03/2012,10:10,Vissai Ninh Binh,Sông Lam Nghệ An,0,2,A,NaN,NaN,NaN
+VIE,30/03/2012,10:10,Sông Lam Nghệ An,Khatoco Khánh Hoà,3,1,H,NaN,NaN,NaN
+VIE,30/03/2012,12:30,Navibank Saigon,Kiên Giang FC,3,1,H,NaN,NaN,NaN
+VIE,31/03/2012,10:00,SHB-Da Nang FC,Vissai Ninh Binh,3,0,H,NaN,NaN,NaN
+VIE,31/03/2012,10:10,Hải Phòng FC,Hà Nội FC,1,1,D,NaN,NaN,NaN
+VIE,01/04/2012,10:10,Lam Sơn Thanh Hóa,Đồng Tháp,4,0,H,NaN,NaN,NaN
+VIE,01/04/2012,10:10,Hà Nội T&T;,Saigon Xuan Thanh,1,0,H,NaN,NaN,NaN
+VIE,01/04/2012,12:30,Bình Dương FC,Hoàng Anh Gia Lai,1,2,A,NaN,NaN,NaN
+VIE,07/04/2012,10:10,Hoàng Anh Gia Lai,Lam Sơn Thanh Hóa,2,0,H,NaN,NaN,NaN
+VIE,07/04/2012,10:10,Đồng Tháp,Kiên Giang FC,1,3,A,NaN,NaN,NaN
+VIE,08/04/2012,10:00,SHB-Da Nang FC,Hải Phòng FC,2,1,H,NaN,NaN,NaN
+VIE,08/04/2012,10:10,Vissai Ninh Binh,Hà Nội FC,2,3,A,NaN,NaN,NaN
+VIE,08/04/2012,11:00,Bình Dương FC,Khatoco Khánh Hoà,0,2,A,NaN,NaN,NaN
+VIE,19/04/2012,10:10,Hà Nội T&T;,Navibank Saigon,3,1,H,NaN,NaN,NaN
+VIE,19/04/2012,11:00,Saigon Xuan Thanh,Sông Lam Nghệ An,2,2,D,NaN,NaN,NaN
+VIE,14/04/2012,10:10,Kiên Giang FC,Hà Nội T&T;,1,1,D,NaN,NaN,NaN
+VIE,14/04/2012,11:00,Navibank Saigon,Hoàng Anh Gia Lai,0,0,D,NaN,NaN,NaN
+VIE,14/04/2012,12:30,Hà Nội FC,Bình Dương FC,4,1,H,NaN,NaN,NaN
+VIE,15/04/2012,10:00,Lam Sơn Thanh Hóa,Vissai Ninh Binh,1,0,H,NaN,NaN,NaN
+VIE,15/04/2012,10:10,Khatoco Khánh Hoà,Đồng Tháp,1,0,H,NaN,NaN,NaN
+VIE,15/04/2012,11:00,Hải Phòng FC,Saigon Xuan Thanh,2,3,A,NaN,NaN,NaN
+VIE,09/07/2012,12:30,Sông Lam Nghệ An,SHB-Da Nang FC,0,4,A,NaN,NaN,NaN
+VIE,28/04/2012,10:10,Khatoco Khánh Hoà,SHB-Da Nang FC,1,2,A,NaN,NaN,NaN
+VIE,28/04/2012,12:30,Hà Nội T&T;,Hà Nội FC,3,1,H,NaN,NaN,NaN
+VIE,29/04/2012,10:10,Đồng Tháp,Vissai Ninh Binh,4,1,H,NaN,NaN,NaN
+VIE,29/04/2012,10:10,Kiên Giang FC,Bình Dương FC,1,0,H,NaN,NaN,NaN
+VIE,29/04/2012,12:30,Hải Phòng FC,Hoàng Anh Gia Lai,2,0,H,NaN,NaN,NaN
+VIE,30/04/2012,11:00,Lam Sơn Thanh Hóa,Sông Lam Nghệ An,2,0,H,NaN,NaN,NaN
+VIE,30/04/2012,13:00,Saigon Xuan Thanh,Navibank Saigon,1,1,D,NaN,NaN,NaN
+VIE,04/05/2012,11:00,Navibank Saigon,Hải Phòng FC,2,2,D,NaN,NaN,NaN
+VIE,04/05/2012,11:00,Sông Lam Nghệ An,Đồng Tháp,0,0,D,NaN,NaN,NaN
+VIE,05/05/2012,11:00,Hà Nội FC,Kiên Giang FC,1,3,A,NaN,NaN,NaN
+VIE,05/05/2012,11:00,Vissai Ninh Binh,Khatoco Khánh Hoà,3,1,H,NaN,NaN,NaN
+VIE,05/05/2012,13:00,Bình Dương FC,Hà Nội T&T;,1,3,A,NaN,NaN,NaN
+VIE,06/05/2012,10:10,Hoàng Anh Gia Lai,Saigon Xuan Thanh,0,3,A,NaN,NaN,NaN
+VIE,06/05/2012,12:30,SHB-Da Nang FC,Lam Sơn Thanh Hóa,1,0,H,NaN,NaN,NaN
+VIE,12/05/2012,10:00,Hoàng Anh Gia Lai,SHB-Da Nang FC,2,0,H,NaN,NaN,NaN
+VIE,12/05/2012,10:10,Khatoco Khánh Hoà,Hà Nội FC,1,2,A,NaN,NaN,NaN
+VIE,12/05/2012,11:00,Bình Dương FC,Lam Sơn Thanh Hóa,4,1,H,NaN,NaN,NaN
+VIE,13/05/2012,10:00,Đồng Tháp,Hải Phòng FC,3,0,H,NaN,NaN,NaN
+VIE,13/05/2012,12:30,Saigon Xuan Thanh,Kiên Giang FC,1,0,H,NaN,NaN,NaN
+VIE,14/05/2012,11:00,Hà Nội T&T;,Sông Lam Nghệ An,2,6,A,NaN,NaN,NaN
+VIE,14/05/2012,11:00,Vissai Ninh Binh,Navibank Saigon,1,2,A,NaN,NaN,NaN
+VIE,19/05/2012,10:00,Navibank Saigon,Hà Nội T&T;,2,0,H,NaN,NaN,NaN
+VIE,19/05/2012,10:10,Khatoco Khánh Hoà,Bình Dương FC,1,1,D,NaN,NaN,NaN
+VIE,19/05/2012,11:00,Sông Lam Nghệ An,Saigon Xuan Thanh,1,1,D,NaN,NaN,NaN
+VIE,20/05/2012,10:10,Kiên Giang FC,Đồng Tháp,0,2,A,NaN,NaN,NaN
+VIE,20/05/2012,11:00,Lam Sơn Thanh Hóa,Hoàng Anh Gia Lai,2,1,H,NaN,NaN,NaN
+VIE,20/05/2012,11:00,Hà Nội FC,Vissai Ninh Binh,1,2,A,NaN,NaN,NaN
+VIE,20/05/2012,11:00,Hải Phòng FC,SHB-Da Nang FC,2,3,A,NaN,NaN,NaN
+VIE,26/05/2012,10:00,Lam Sơn Thanh Hóa,Hà Nội T&T;,2,4,A,NaN,NaN,NaN
+VIE,26/05/2012,10:10,Hải Phòng FC,Vissai Ninh Binh,0,3,A,NaN,NaN,NaN
+VIE,27/05/2012,10:00,Hà Nội FC,Hoàng Anh Gia Lai,3,2,H,NaN,NaN,NaN
+VIE,27/05/2012,10:10,Kiên Giang FC,Khatoco Khánh Hoà,1,0,H,NaN,NaN,NaN
+VIE,27/05/2012,11:00,SHB-Da Nang FC,Saigon Xuan Thanh,2,1,H,NaN,NaN,NaN
+VIE,27/05/2012,11:00,Navibank Saigon,Đồng Tháp,0,0,D,NaN,NaN,NaN
+VIE,27/05/2012,12:30,Sông Lam Nghệ An,Bình Dương FC,1,1,D,NaN,NaN,NaN
+VIE,02/06/2012,10:00,Khatoco Khánh Hoà,Hải Phòng FC,1,0,H,NaN,NaN,NaN
+VIE,02/06/2012,11:00,Hà Nội T&T;,SHB-Da Nang FC,2,1,H,NaN,NaN,NaN
+VIE,03/06/2012,10:00,Vissai Ninh Binh,Kiên Giang FC,4,1,H,NaN,NaN,NaN
+VIE,03/06/2012,10:10,Đồng Tháp,Hà Nội FC,2,2,D,NaN,NaN,NaN
+VIE,03/06/2012,10:10,Hoàng Anh Gia Lai,Sông Lam Nghệ An,2,2,D,NaN,NaN,NaN
+VIE,03/06/2012,11:00,Bình Dương FC,Navibank Saigon,1,1,D,NaN,NaN,NaN
+VIE,03/06/2012,12:30,Saigon Xuan Thanh,Lam Sơn Thanh Hóa,0,0,D,NaN,NaN,NaN
+VIE,14/07/2012,10:00,Hà Nội T&T;,Vissai Ninh Binh,2,3,A,NaN,NaN,NaN
+VIE,14/07/2012,11:00,Saigon Xuan Thanh,Khatoco Khánh Hoà,2,1,H,NaN,NaN,NaN
+VIE,14/07/2012,11:00,SHB-Da Nang FC,Hà Nội FC,2,0,H,NaN,NaN,NaN
+VIE,15/07/2012,10:10,Hoàng Anh Gia Lai,Kiên Giang FC,3,0,H,NaN,NaN,NaN
+VIE,15/07/2012,11:00,Sông Lam Nghệ An,Hải Phòng FC,5,2,H,NaN,NaN,NaN
+VIE,15/07/2012,11:00,Lam Sơn Thanh Hóa,Navibank Saigon,2,0,H,NaN,NaN,NaN
+VIE,15/07/2012,12:30,Bình Dương FC,Đồng Tháp,1,0,H,NaN,NaN,NaN
+VIE,21/07/2012,10:00,Hải Phòng FC,Hà Nội T&T;,0,2,A,NaN,NaN,NaN
+VIE,21/07/2012,10:10,Đồng Tháp,Saigon Xuan Thanh,0,4,A,NaN,NaN,NaN
+VIE,21/07/2012,11:00,Vissai Ninh Binh,Hoàng Anh Gia Lai,2,1,H,NaN,NaN,NaN
+VIE,22/07/2012,10:00,Navibank Saigon,Khatoco Khánh Hoà,1,0,H,NaN,NaN,NaN
+VIE,22/07/2012,10:10,Kiên Giang FC,Sông Lam Nghệ An,0,3,A,NaN,NaN,NaN
+VIE,22/07/2012,11:00,Hà Nội FC,Lam Sơn Thanh Hóa,3,1,H,NaN,NaN,NaN
+VIE,22/07/2012,11:00,SHB-Da Nang FC,Bình Dương FC,1,0,H,NaN,NaN,NaN
+VIE,28/07/2012,10:00,Hải Phòng FC,Lam Sơn Thanh Hóa,2,0,H,NaN,NaN,NaN
+VIE,28/07/2012,10:10,Khatoco Khánh Hoà,Hoàng Anh Gia Lai,3,0,H,NaN,NaN,NaN
+VIE,28/07/2012,12:30,Navibank Saigon,Sông Lam Nghệ An,1,1,D,NaN,NaN,NaN
+VIE,29/07/2012,10:00,Vissai Ninh Binh,Bình Dương FC,1,2,A,NaN,NaN,NaN
+VIE,29/07/2012,10:10,Kiên Giang FC,SHB-Da Nang FC,2,1,H,NaN,NaN,NaN
+VIE,29/07/2012,10:10,Đồng Tháp,Hà Nội T&T;,1,3,A,NaN,NaN,NaN
+VIE,29/07/2012,12:30,Hà Nội FC,Saigon Xuan Thanh,0,1,A,NaN,NaN,NaN
+VIE,04/08/2012,10:00,Hoàng Anh Gia Lai,Đồng Tháp,1,0,H,NaN,NaN,NaN
+VIE,04/08/2012,11:00,Bình Dương FC,Hải Phòng FC,5,3,H,NaN,NaN,NaN
+VIE,04/08/2012,12:00,Lam Sơn Thanh Hóa,Kiên Giang FC,2,1,H,NaN,NaN,NaN
+VIE,05/08/2012,10:00,Saigon Xuan Thanh,Vissai Ninh Binh,4,1,H,NaN,NaN,NaN
+VIE,05/08/2012,11:00,SHB-Da Nang FC,Navibank Saigon,0,0,D,NaN,NaN,NaN
+VIE,05/08/2012,11:00,Sông Lam Nghệ An,Hà Nội FC,2,0,H,NaN,NaN,NaN
+VIE,05/08/2012,12:00,Hà Nội T&T;,Khatoco Khánh Hoà,1,1,D,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Sông Lam Nghệ An,Vissai Ninh Binh,5,3,H,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Navibank Saigon,Hà Nội FC,4,1,H,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Hải Phòng FC,Kiên Giang FC,1,3,A,NaN,NaN,NaN
+VIE,12/08/2012,10:10,SHB-Da Nang FC,Đồng Tháp,0,1,A,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Lam Sơn Thanh Hóa,Khatoco Khánh Hoà,1,2,A,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Hà Nội T&T;,Hoàng Anh Gia Lai,1,3,A,NaN,NaN,NaN
+VIE,12/08/2012,10:10,Bình Dương FC,Saigon Xuan Thanh,1,1,D,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Hoàng Anh Gia Lai,Bình Dương FC,2,0,H,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Đồng Tháp,Lam Sơn Thanh Hóa,3,2,H,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Vissai Ninh Binh,SHB-Da Nang FC,1,3,A,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Khatoco Khánh Hoà,Sông Lam Nghệ An,2,1,H,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Kiên Giang FC,Navibank Saigon,2,0,H,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Hà Nội FC,Hải Phòng FC,5,0,H,NaN,NaN,NaN
+VIE,19/08/2012,10:10,Saigon Xuan Thanh,Hà Nội T&T;,0,0,D,NaN,NaN,NaN

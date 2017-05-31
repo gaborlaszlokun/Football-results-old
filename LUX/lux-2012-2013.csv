@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+LUX,05/08/2012,15:00,RM Hamm Benfica,UN Käerjéng,2,1,H,NaN,NaN,NaN
+LUX,05/08/2012,15:00,CS Grevenmacher,Jeunesse Canach,0,0,D,NaN,NaN,NaN
+LUX,05/08/2012,15:00,Union 05 Kayl-Tétange,CS FOLA Esch,1,6,A,NaN,NaN,NaN
+LUX,05/08/2012,15:00,Jeunesse Esch,FC Wiltz 71,0,2,A,NaN,NaN,NaN
+LUX,05/08/2012,15:00,Etzella Ettelbruck,F91 Dudelange,0,1,A,NaN,NaN,NaN
+LUX,05/08/2012,15:00,CS Pétange,RFCU Luxemburg,1,0,H,NaN,NaN,NaN
+LUX,05/08/2012,18:30,FC Differdange 03,Progrès Niedercorn,2,1,H,NaN,NaN,NaN
+LUX,11/08/2012,17:00,FC Differdange 03,CS Pétange,3,0,H,NaN,NaN,NaN
+LUX,11/08/2012,17:00,RFCU Luxemburg,Etzella Ettelbruck,1,3,A,NaN,NaN,NaN
+LUX,11/08/2012,17:00,FC Wiltz 71,Union 05 Kayl-Tétange,4,2,H,NaN,NaN,NaN
+LUX,11/08/2012,17:00,CS FOLA Esch,CS Grevenmacher,1,1,D,NaN,NaN,NaN
+LUX,11/08/2012,17:00,Jeunesse Canach,RM Hamm Benfica,2,2,D,NaN,NaN,NaN
+LUX,12/08/2012,15:00,UN Käerjéng,Progrès Niedercorn,2,0,H,NaN,NaN,NaN
+LUX,26/09/2012,18:30,F91 Dudelange,Jeunesse Esch,0,1,A,NaN,NaN,NaN
+LUX,19/08/2012,15:00,UN Käerjéng,FC Differdange 03,2,2,D,NaN,NaN,NaN
+LUX,19/08/2012,15:00,Progrès Niedercorn,Jeunesse Canach,0,2,A,NaN,NaN,NaN
+LUX,19/08/2012,15:00,RM Hamm Benfica,CS FOLA Esch,2,3,A,NaN,NaN,NaN
+LUX,19/08/2012,15:00,CS Grevenmacher,FC Wiltz 71,4,1,H,NaN,NaN,NaN
+LUX,19/08/2012,15:00,Union 05 Kayl-Tétange,F91 Dudelange,1,5,A,NaN,NaN,NaN
+LUX,19/08/2012,15:00,Jeunesse Esch,RFCU Luxemburg,3,4,A,NaN,NaN,NaN
+LUX,19/08/2012,15:00,Etzella Ettelbruck,CS Pétange,2,2,D,NaN,NaN,NaN
+LUX,25/08/2012,16:00,Jeunesse Canach,UN Käerjéng,3,1,H,NaN,NaN,NaN
+LUX,25/08/2012,17:30,CS Pétange,Jeunesse Esch,0,2,A,NaN,NaN,NaN
+LUX,26/08/2012,15:00,FC Differdange 03,Etzella Ettelbruck,0,0,D,NaN,NaN,NaN
+LUX,26/08/2012,15:00,RFCU Luxemburg,Union 05 Kayl-Tétange,0,2,A,NaN,NaN,NaN
+LUX,26/08/2012,15:00,F91 Dudelange,CS Grevenmacher,1,1,D,NaN,NaN,NaN
+LUX,26/08/2012,15:00,FC Wiltz 71,RM Hamm Benfica,2,2,D,NaN,NaN,NaN
+LUX,26/08/2012,15:00,CS FOLA Esch,Progrès Niedercorn,4,0,H,NaN,NaN,NaN
+LUX,16/09/2012,15:00,Jeunesse Canach,FC Differdange 03,1,3,A,NaN,NaN,NaN
+LUX,16/09/2012,15:00,UN Käerjéng,CS FOLA Esch,1,4,A,NaN,NaN,NaN
+LUX,16/09/2012,15:00,Progrès Niedercorn,FC Wiltz 71,2,3,A,NaN,NaN,NaN
+LUX,16/09/2012,15:00,RM Hamm Benfica,F91 Dudelange,1,1,D,NaN,NaN,NaN
+LUX,16/09/2012,15:00,Union 05 Kayl-Tétange,CS Pétange,1,3,A,NaN,NaN,NaN
+LUX,16/09/2012,15:00,Jeunesse Esch,Etzella Ettelbruck,3,2,H,NaN,NaN,NaN
+LUX,16/09/2012,17:30,CS Grevenmacher,RFCU Luxemburg,3,3,D,NaN,NaN,NaN
+LUX,22/09/2012,17:00,FC Wiltz 71,UN Käerjéng,3,2,H,NaN,NaN,NaN
+LUX,22/09/2012,18:00,FC Differdange 03,Jeunesse Esch,0,3,A,NaN,NaN,NaN
+LUX,23/09/2012,15:00,Etzella Ettelbruck,Union 05 Kayl-Tétange,3,3,D,NaN,NaN,NaN
+LUX,23/09/2012,15:00,CS Pétange,CS Grevenmacher,1,1,D,NaN,NaN,NaN
+LUX,23/09/2012,15:00,RFCU Luxemburg,RM Hamm Benfica,1,1,D,NaN,NaN,NaN
+LUX,23/09/2012,15:00,F91 Dudelange,Progrès Niedercorn,3,0,H,NaN,NaN,NaN
+LUX,23/09/2012,15:00,CS FOLA Esch,Jeunesse Canach,3,1,H,NaN,NaN,NaN
+LUX,30/09/2012,15:00,CS FOLA Esch,FC Differdange 03,2,1,H,NaN,NaN,NaN
+LUX,30/09/2012,15:00,Jeunesse Canach,FC Wiltz 71,6,2,H,NaN,NaN,NaN
+LUX,30/09/2012,15:00,UN Käerjéng,F91 Dudelange,1,3,A,NaN,NaN,NaN
+LUX,30/09/2012,15:00,RM Hamm Benfica,CS Pétange,5,2,H,NaN,NaN,NaN
+LUX,30/09/2012,15:00,CS Grevenmacher,Etzella Ettelbruck,4,1,H,NaN,NaN,NaN
+LUX,30/09/2012,17:30,Progrès Niedercorn,RFCU Luxemburg,0,1,A,NaN,NaN,NaN
+LUX,30/09/2012,17:30,Union 05 Kayl-Tétange,Jeunesse Esch,0,2,A,NaN,NaN,NaN
+LUX,03/10/2012,18:30,F91 Dudelange,Jeunesse Canach,0,1,A,NaN,NaN,NaN
+LUX,04/10/2012,18:30,FC Differdange 03,Union 05 Kayl-Tétange,3,1,H,NaN,NaN,NaN
+LUX,04/10/2012,18:30,Jeunesse Esch,CS Grevenmacher,0,0,D,NaN,NaN,NaN
+LUX,04/10/2012,18:30,Etzella Ettelbruck,RM Hamm Benfica,2,2,D,NaN,NaN,NaN
+LUX,04/10/2012,19:00,FC Wiltz 71,CS FOLA Esch,0,3,A,NaN,NaN,NaN
+LUX,07/10/2012,15:00,CS Pétange,Progrès Niedercorn,0,2,A,NaN,NaN,NaN
+LUX,06/12/2012,19:00,RFCU Luxemburg,UN Käerjéng,3,0,H,NaN,NaN,NaN
+LUX,20/10/2012,17:00,FC Wiltz 71,FC Differdange 03,0,4,A,NaN,NaN,NaN
+LUX,21/10/2012,14:30,Jeunesse Canach,RFCU Luxemburg,1,1,D,NaN,NaN,NaN
+LUX,21/10/2012,15:00,CS FOLA Esch,F91 Dudelange,1,2,A,NaN,NaN,NaN
+LUX,21/10/2012,15:00,Progrès Niedercorn,Etzella Ettelbruck,5,1,H,NaN,NaN,NaN
+LUX,21/10/2012,15:00,RM Hamm Benfica,Jeunesse Esch,1,0,H,NaN,NaN,NaN
+LUX,21/10/2012,15:00,CS Grevenmacher,Union 05 Kayl-Tétange,2,1,H,NaN,NaN,NaN
+LUX,21/10/2012,17:30,UN Käerjéng,CS Pétange,3,0,H,NaN,NaN,NaN
+LUX,28/10/2012,15:00,FC Differdange 03,CS Grevenmacher,2,3,A,NaN,NaN,NaN
+LUX,28/10/2012,15:00,Union 05 Kayl-Tétange,RM Hamm Benfica,1,5,A,NaN,NaN,NaN
+LUX,28/10/2012,15:00,Jeunesse Esch,Progrès Niedercorn,0,0,D,NaN,NaN,NaN
+LUX,28/10/2012,15:00,Etzella Ettelbruck,UN Käerjéng,3,1,H,NaN,NaN,NaN
+LUX,28/10/2012,15:00,CS Pétange,Jeunesse Canach,1,2,A,NaN,NaN,NaN
+LUX,28/10/2012,15:00,RFCU Luxemburg,CS FOLA Esch,0,1,A,NaN,NaN,NaN
+LUX,28/10/2012,15:00,F91 Dudelange,FC Wiltz 71,7,1,H,NaN,NaN,NaN
+LUX,03/11/2012,13:45,Jeunesse Canach,Etzella Ettelbruck,1,2,A,NaN,NaN,NaN
+LUX,03/11/2012,15:00,Progrès Niedercorn,Union 05 Kayl-Tétange,1,3,A,NaN,NaN,NaN
+LUX,04/11/2012,15:00,F91 Dudelange,FC Differdange 03,3,0,H,NaN,NaN,NaN
+LUX,04/11/2012,15:00,FC Wiltz 71,RFCU Luxemburg,0,9,A,NaN,NaN,NaN
+LUX,04/11/2012,15:00,CS FOLA Esch,CS Pétange,3,0,H,NaN,NaN,NaN
+LUX,04/11/2012,15:00,UN Käerjéng,Jeunesse Esch,2,3,A,NaN,NaN,NaN
+LUX,04/11/2012,15:00,RM Hamm Benfica,CS Grevenmacher,1,1,D,NaN,NaN,NaN
+LUX,10/11/2012,17:00,FC Differdange 03,RM Hamm Benfica,4,2,H,NaN,NaN,NaN
+LUX,10/11/2012,17:00,Jeunesse Esch,Jeunesse Canach,5,1,H,NaN,NaN,NaN
+LUX,10/11/2012,17:00,Etzella Ettelbruck,CS FOLA Esch,0,5,A,NaN,NaN,NaN
+LUX,10/11/2012,17:00,RFCU Luxemburg,F91 Dudelange,1,1,D,NaN,NaN,NaN
+LUX,11/11/2012,15:00,CS Grevenmacher,Progrès Niedercorn,3,2,H,NaN,NaN,NaN
+LUX,11/11/2012,15:00,Union 05 Kayl-Tétange,UN Käerjéng,1,1,D,NaN,NaN,NaN
+LUX,11/11/2012,15:00,CS Pétange,FC Wiltz 71,0,1,A,NaN,NaN,NaN
+LUX,25/11/2012,13:30,Jeunesse Canach,Union 05 Kayl-Tétange,2,0,H,NaN,NaN,NaN
+LUX,25/11/2012,15:00,RFCU Luxemburg,FC Differdange 03,1,3,A,NaN,NaN,NaN
+LUX,25/11/2012,15:00,F91 Dudelange,CS Pétange,2,1,H,NaN,NaN,NaN
+LUX,25/11/2012,15:00,FC Wiltz 71,Etzella Ettelbruck,0,0,D,NaN,NaN,NaN
+LUX,25/11/2012,15:00,UN Käerjéng,CS Grevenmacher,2,0,H,NaN,NaN,NaN
+LUX,25/11/2012,15:00,Progrès Niedercorn,RM Hamm Benfica,1,0,H,NaN,NaN,NaN
+LUX,25/11/2012,17:30,CS FOLA Esch,Jeunesse Esch,0,2,A,NaN,NaN,NaN
+LUX,06/03/2013,18:00,Jeunesse Esch,F91 Dudelange,0,3,A,NaN,NaN,NaN
+LUX,06/03/2013,18:30,Etzella Ettelbruck,RFCU Luxemburg,2,2,D,NaN,NaN,NaN
+LUX,06/03/2013,18:30,RM Hamm Benfica,Jeunesse Canach,0,4,A,NaN,NaN,NaN
+LUX,06/03/2013,18:30,CS Pétange,FC Differdange 03,1,1,D,NaN,NaN,NaN
+LUX,06/03/2013,18:30,CS Grevenmacher,CS FOLA Esch,3,3,D,NaN,NaN,NaN
+LUX,06/03/2013,18:30,Progrès Niedercorn,UN Käerjéng,0,2,A,NaN,NaN,NaN
+LUX,06/03/2013,19:00,Union 05 Kayl-Tétange,FC Wiltz 71,1,5,A,NaN,NaN,NaN
+LUX,07/04/2013,15:00,FC Differdange 03,UN Käerjéng,0,0,D,NaN,NaN,NaN
+LUX,07/04/2013,15:00,FC Wiltz 71,CS Grevenmacher,0,4,A,NaN,NaN,NaN
+LUX,07/04/2013,15:00,CS Pétange,Etzella Ettelbruck,1,1,D,NaN,NaN,NaN
+LUX,07/04/2013,15:00,CS FOLA Esch,RM Hamm Benfica,2,1,H,NaN,NaN,NaN
+LUX,07/04/2013,15:00,F91 Dudelange,Union 05 Kayl-Tétange,3,0,H,NaN,NaN,NaN
+LUX,07/04/2013,15:00,RFCU Luxemburg,Jeunesse Esch,0,2,A,NaN,NaN,NaN
+LUX,07/04/2013,16:00,Jeunesse Canach,Progrès Niedercorn,0,2,A,NaN,NaN,NaN
+LUX,03/03/2013,15:00,Etzella Ettelbruck,FC Differdange 03,0,4,A,NaN,NaN,NaN
+LUX,03/03/2013,15:00,RM Hamm Benfica,FC Wiltz 71,2,0,H,NaN,NaN,NaN
+LUX,03/03/2013,15:00,Union 05 Kayl-Tétange,RFCU Luxemburg,0,2,A,NaN,NaN,NaN
+LUX,03/03/2013,15:00,UN Käerjéng,Jeunesse Canach,1,1,D,NaN,NaN,NaN
+LUX,03/03/2013,15:00,CS Grevenmacher,F91 Dudelange,0,0,D,NaN,NaN,NaN
+LUX,03/03/2013,16:30,Jeunesse Esch,CS Pétange,3,0,H,NaN,NaN,NaN
+LUX,03/04/2013,18:30,Progrès Niedercorn,CS FOLA Esch,0,3,A,NaN,NaN,NaN
+LUX,10/03/2013,14:00,FC Wiltz 71,Progrès Niedercorn,2,1,H,NaN,NaN,NaN
+LUX,10/03/2013,15:00,CS FOLA Esch,UN Käerjéng,4,1,H,NaN,NaN,NaN
+LUX,10/03/2013,15:00,F91 Dudelange,RM Hamm Benfica,1,0,H,NaN,NaN,NaN
+LUX,10/03/2013,15:00,FC Differdange 03,Jeunesse Canach,3,1,H,NaN,NaN,NaN
+LUX,10/03/2013,15:00,RFCU Luxemburg,CS Grevenmacher,2,1,H,NaN,NaN,NaN
+LUX,10/03/2013,15:00,Etzella Ettelbruck,Jeunesse Esch,0,4,A,NaN,NaN,NaN
+LUX,10/03/2013,17:30,CS Pétange,Union 05 Kayl-Tétange,1,1,D,NaN,NaN,NaN
+LUX,13/04/2013,17:00,Jeunesse Esch,FC Differdange 03,2,4,A,NaN,NaN,NaN
+LUX,13/04/2013,17:30,Progrès Niedercorn,F91 Dudelange,1,1,D,NaN,NaN,NaN
+LUX,14/04/2013,15:00,Union 05 Kayl-Tétange,Etzella Ettelbruck,1,4,A,NaN,NaN,NaN
+LUX,14/04/2013,15:00,UN Käerjéng,FC Wiltz 71,4,3,H,NaN,NaN,NaN
+LUX,14/04/2013,15:00,RM Hamm Benfica,RFCU Luxemburg,4,1,H,NaN,NaN,NaN
+LUX,14/04/2013,15:00,CS Grevenmacher,CS Pétange,3,1,H,NaN,NaN,NaN
+LUX,14/04/2013,15:00,Jeunesse Canach,CS FOLA Esch,1,1,D,NaN,NaN,NaN
+LUX,29/03/2013,18:30,CS Pétange,RM Hamm Benfica,0,3,A,NaN,NaN,NaN
+LUX,30/03/2013,17:00,FC Differdange 03,CS FOLA Esch,1,0,H,NaN,NaN,NaN
+LUX,30/03/2013,17:00,F91 Dudelange,UN Käerjéng,2,1,H,NaN,NaN,NaN
+LUX,30/03/2013,17:00,Jeunesse Esch,Union 05 Kayl-Tétange,4,1,H,NaN,NaN,NaN
+LUX,30/03/2013,17:00,FC Wiltz 71,Jeunesse Canach,1,2,A,NaN,NaN,NaN
+LUX,30/03/2013,17:00,Etzella Ettelbruck,CS Grevenmacher,1,0,H,NaN,NaN,NaN
+LUX,30/03/2013,17:00,RFCU Luxemburg,Progrès Niedercorn,3,1,H,NaN,NaN,NaN
+LUX,17/04/2013,18:30,RM Hamm Benfica,Etzella Ettelbruck,3,2,H,NaN,NaN,NaN
+LUX,17/04/2013,18:30,Union 05 Kayl-Tétange,FC Differdange 03,1,0,H,NaN,NaN,NaN
+LUX,17/04/2013,18:30,UN Käerjéng,RFCU Luxemburg,2,0,H,NaN,NaN,NaN
+LUX,17/04/2013,18:30,CS Grevenmacher,Jeunesse Esch,0,2,A,NaN,NaN,NaN
+LUX,17/04/2013,18:30,Progrès Niedercorn,CS Pétange,1,0,H,NaN,NaN,NaN
+LUX,17/04/2013,18:30,Jeunesse Canach,F91 Dudelange,1,1,D,NaN,NaN,NaN
+LUX,17/04/2013,19:00,CS FOLA Esch,FC Wiltz 71,1,0,H,NaN,NaN,NaN
+LUX,21/04/2013,15:00,F91 Dudelange,CS FOLA Esch,0,0,D,NaN,NaN,NaN
+LUX,21/04/2013,15:00,CS Pétange,UN Käerjéng,1,3,A,NaN,NaN,NaN
+LUX,21/04/2013,15:00,Jeunesse Esch,RM Hamm Benfica,0,1,A,NaN,NaN,NaN
+LUX,21/04/2013,15:00,RFCU Luxemburg,Jeunesse Canach,1,0,H,NaN,NaN,NaN
+LUX,21/04/2013,15:00,Union 05 Kayl-Tétange,CS Grevenmacher,1,2,A,NaN,NaN,NaN
+LUX,21/04/2013,15:00,FC Differdange 03,FC Wiltz 71,1,1,D,NaN,NaN,NaN
+LUX,21/04/2013,15:00,Etzella Ettelbruck,Progrès Niedercorn,1,1,D,NaN,NaN,NaN
+LUX,27/04/2013,16:00,FC Wiltz 71,F91 Dudelange,1,2,A,NaN,NaN,NaN
+LUX,27/04/2013,17:00,Jeunesse Canach,CS Pétange,1,2,A,NaN,NaN,NaN
+LUX,28/04/2013,15:00,UN Käerjéng,Etzella Ettelbruck,5,3,H,NaN,NaN,NaN
+LUX,28/04/2013,15:00,RM Hamm Benfica,Union 05 Kayl-Tétange,3,1,H,NaN,NaN,NaN
+LUX,28/04/2013,15:00,CS FOLA Esch,RFCU Luxemburg,1,1,D,NaN,NaN,NaN
+LUX,28/04/2013,15:00,CS Grevenmacher,FC Differdange 03,3,2,H,NaN,NaN,NaN
+LUX,28/04/2013,15:00,Progrès Niedercorn,Jeunesse Esch,0,4,A,NaN,NaN,NaN
+LUX,05/05/2013,15:00,FC Differdange 03,F91 Dudelange,2,1,H,NaN,NaN,NaN
+LUX,05/05/2013,15:00,CS Pétange,CS FOLA Esch,0,2,A,NaN,NaN,NaN
+LUX,05/05/2013,15:00,Jeunesse Esch,UN Käerjéng,5,1,H,NaN,NaN,NaN
+LUX,05/05/2013,15:00,CS Grevenmacher,RM Hamm Benfica,1,2,A,NaN,NaN,NaN
+LUX,05/05/2013,15:00,Etzella Ettelbruck,Jeunesse Canach,1,1,D,NaN,NaN,NaN
+LUX,05/05/2013,15:00,RFCU Luxemburg,FC Wiltz 71,0,3,A,NaN,NaN,NaN
+LUX,05/05/2013,15:00,Union 05 Kayl-Tétange,Progrès Niedercorn,1,3,A,NaN,NaN,NaN
+LUX,12/05/2013,15:00,RM Hamm Benfica,FC Differdange 03,2,1,H,NaN,NaN,NaN
+LUX,12/05/2013,15:00,CS FOLA Esch,Etzella Ettelbruck,5,1,H,NaN,NaN,NaN
+LUX,12/05/2013,15:00,UN Käerjéng,Union 05 Kayl-Tétange,3,2,H,NaN,NaN,NaN
+LUX,12/05/2013,15:00,F91 Dudelange,RFCU Luxemburg,2,1,H,NaN,NaN,NaN
+LUX,12/05/2013,15:00,Jeunesse Canach,Jeunesse Esch,3,0,H,NaN,NaN,NaN
+LUX,12/05/2013,15:00,FC Wiltz 71,CS Pétange,4,2,H,NaN,NaN,NaN
+LUX,12/05/2013,17:30,Progrès Niedercorn,CS Grevenmacher,2,0,H,NaN,NaN,NaN
+LUX,22/05/2013,18:30,CS Pétange,F91 Dudelange,0,4,A,NaN,NaN,NaN
+LUX,22/05/2013,18:30,Jeunesse Esch,CS FOLA Esch,1,5,A,NaN,NaN,NaN
+LUX,22/05/2013,18:30,CS Grevenmacher,UN Käerjéng,1,0,H,NaN,NaN,NaN
+LUX,22/05/2013,18:30,FC Differdange 03,RFCU Luxemburg,6,2,H,NaN,NaN,NaN
+LUX,22/05/2013,18:30,Union 05 Kayl-Tétange,Jeunesse Canach,0,2,A,NaN,NaN,NaN
+LUX,22/05/2013,18:30,RM Hamm Benfica,Progrès Niedercorn,2,2,D,NaN,NaN,NaN
+LUX,22/05/2013,19:00,Etzella Ettelbruck,FC Wiltz 71,3,2,H,NaN,NaN,NaN
+LUX,26/05/2013,15:00,Progrès Niedercorn,FC Differdange 03,1,2,A,NaN,NaN,NaN
+LUX,26/05/2013,15:00,UN Käerjéng,RM Hamm Benfica,2,4,A,NaN,NaN,NaN
+LUX,26/05/2013,15:00,Jeunesse Canach,CS Grevenmacher,0,2,A,NaN,NaN,NaN
+LUX,26/05/2013,15:00,CS FOLA Esch,Union 05 Kayl-Tétange,4,2,H,NaN,NaN,NaN
+LUX,26/05/2013,15:00,F91 Dudelange,Etzella Ettelbruck,4,3,H,NaN,NaN,NaN
+LUX,26/05/2013,15:00,RFCU Luxemburg,CS Pétange,3,1,H,NaN,NaN,NaN
+LUX,26/05/2013,15:00,FC Wiltz 71,Jeunesse Esch,1,2,A,NaN,NaN,NaN

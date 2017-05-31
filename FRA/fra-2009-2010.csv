@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,08/08/2009,20:00,AJ Auxerre,FC Sochaux,0,1,A,0,1,A
+FRA,08/08/2009,20:00,Grenoble Foot 38,Olympique Marseille,0,2,A,0,1,A
+FRA,08/08/2009,20:00,Le Mans UC 72,Olympique Lyon,2,2,D,1,1,D
+FRA,08/08/2009,20:00,AS Monaco,Toulouse FC,1,0,H,1,0,H
+FRA,08/08/2009,20:00,Montpellier HSC,Paris Saint-Germain,1,1,D,0,0,D
+FRA,08/08/2009,20:00,Stade Rennes,US Boulogne,3,0,H,2,0,H
+FRA,08/08/2009,20:00,AS Saint-Étienne,OGC Nice,0,2,A,0,1,A
+FRA,08/08/2009,20:00,Valenciennes FC,AS Nancy,1,3,A,1,1,D
+FRA,09/08/2009,16:00,Lille OSC,FC Lorient,1,2,A,0,1,A
+FRA,09/08/2009,20:00,Girondins Bordeaux,RC Lens,4,1,H,1,1,D
+FRA,15/08/2009,18:00,RC Lens,AJ Auxerre,2,0,H,1,0,H
+FRA,15/08/2009,18:00,FC Lorient,Montpellier HSC,2,2,D,0,0,D
+FRA,15/08/2009,18:00,Olympique Lyon,Valenciennes FC,1,0,H,1,0,H
+FRA,15/08/2009,18:00,AS Nancy,AS Monaco,4,0,H,2,0,H
+FRA,15/08/2009,18:00,Paris Saint-Germain,Le Mans UC 72,3,1,H,1,1,D
+FRA,15/08/2009,18:00,FC Sochaux,Girondins Bordeaux,2,3,A,0,2,A
+FRA,15/08/2009,20:00,Toulouse FC,AS Saint-Étienne,3,1,H,1,1,D
+FRA,16/08/2009,16:00,US Boulogne,Grenoble Foot 38,2,1,H,2,0,H
+FRA,16/08/2009,16:00,OGC Nice,Stade Rennes,1,1,D,1,1,D
+FRA,16/08/2009,20:00,Olympique Marseille,Lille OSC,1,0,H,1,0,H
+FRA,22/08/2009,18:00,AJ Auxerre,Olympique Lyon,0,3,A,0,2,A
+FRA,22/08/2009,18:00,Le Mans UC 72,AS Nancy,2,1,H,1,0,H
+FRA,22/08/2009,18:00,AS Monaco,FC Lorient,2,0,H,2,0,H
+FRA,22/08/2009,18:00,Montpellier HSC,FC Sochaux,2,0,H,0,0,D
+FRA,22/08/2009,18:00,AS Saint-Étienne,US Boulogne,0,1,A,0,1,A
+FRA,22/08/2009,18:00,Valenciennes FC,Paris Saint-Germain,2,3,A,0,1,A
+FRA,22/08/2009,20:00,Stade Rennes,Olympique Marseille,1,1,D,1,0,H
+FRA,23/08/2009,16:00,Girondins Bordeaux,OGC Nice,4,0,H,1,0,H
+FRA,23/08/2009,16:00,Grenoble Foot 38,RC Lens,1,2,A,1,1,D
+FRA,23/08/2009,20:00,Lille OSC,Toulouse FC,1,1,D,1,0,H
+FRA,29/08/2009,18:00,US Boulogne,AJ Auxerre,0,0,D,0,0,D
+FRA,29/08/2009,18:00,RC Lens,Stade Rennes,2,2,D,1,1,D
+FRA,29/08/2009,18:00,FC Lorient,Le Mans UC 72,1,0,H,0,0,D
+FRA,29/08/2009,18:00,OGC Nice,Montpellier HSC,0,3,A,0,1,A
+FRA,29/08/2009,18:00,AS Saint-Étienne,Grenoble Foot 38,1,0,H,1,0,H
+FRA,29/08/2009,18:00,FC Sochaux,AS Monaco,1,0,H,1,0,H
+FRA,29/08/2009,20:00,Olympique Lyon,AS Nancy,3,1,H,1,0,H
+FRA,30/08/2009,16:00,Paris Saint-Germain,Lille OSC,3,0,H,1,0,H
+FRA,30/08/2009,16:00,Toulouse FC,Valenciennes FC,0,1,A,0,0,D
+FRA,30/08/2009,20:00,Olympique Marseille,Girondins Bordeaux,0,0,D,0,0,D
+FRA,12/09/2009,18:00,Le Mans UC 72,Olympique Marseille,1,2,A,0,1,A
+FRA,12/09/2009,18:00,Lille OSC,FC Sochaux,1,0,H,0,0,D
+FRA,12/09/2009,18:00,Olympique Lyon,FC Lorient,1,0,H,0,0,D
+FRA,12/09/2009,18:00,Montpellier HSC,RC Lens,1,0,H,1,0,H
+FRA,12/09/2009,18:00,AS Nancy,Toulouse FC,0,0,D,0,0,D
+FRA,12/09/2009,18:00,Valenciennes FC,US Boulogne,1,1,D,0,0,D
+FRA,12/09/2009,20:00,Girondins Bordeaux,Grenoble Foot 38,1,0,H,1,0,H
+FRA,13/09/2009,16:00,AJ Auxerre,OGC Nice,2,0,H,1,0,H
+FRA,13/09/2009,16:00,Stade Rennes,AS Saint-Étienne,1,0,H,0,0,D
+FRA,13/09/2009,20:00,AS Monaco,Paris Saint-Germain,2,0,H,0,0,D
+FRA,19/09/2009,18:00,US Boulogne,Girondins Bordeaux,0,2,A,0,1,A
+FRA,19/09/2009,18:00,Grenoble Foot 38,Stade Rennes,0,4,A,0,3,A
+FRA,19/09/2009,18:00,FC Lorient,AS Nancy,3,1,H,1,0,H
+FRA,19/09/2009,18:00,OGC Nice,AS Monaco,1,3,A,1,2,A
+FRA,19/09/2009,18:00,AS Saint-Étienne,AJ Auxerre,1,1,D,1,0,H
+FRA,19/09/2009,18:00,FC Sochaux,Valenciennes FC,2,5,A,2,1,H
+FRA,19/09/2009,20:00,Olympique Marseille,Montpellier HSC,4,2,H,3,0,H
+FRA,20/09/2009,16:00,RC Lens,Lille OSC,1,1,D,0,0,D
+FRA,20/09/2009,16:00,Toulouse FC,Le Mans UC 72,2,0,H,1,0,H
+FRA,20/09/2009,20:00,Paris Saint-Germain,Olympique Lyon,1,1,D,1,0,H
+FRA,26/09/2009,18:00,AJ Auxerre,Grenoble Foot 38,2,0,H,0,0,D
+FRA,26/09/2009,18:00,FC Lorient,Paris Saint-Germain,1,1,D,1,1,D
+FRA,26/09/2009,18:00,AS Monaco,AS Saint-Étienne,1,2,A,0,1,A
+FRA,26/09/2009,18:00,Montpellier HSC,US Boulogne,1,0,H,0,0,D
+FRA,26/09/2009,18:00,AS Nancy,FC Sochaux,2,1,H,2,0,H
+FRA,26/09/2009,18:00,Valenciennes FC,Olympique Marseille,3,2,H,2,2,D
+FRA,26/09/2009,20:00,Olympique Lyon,Toulouse FC,2,1,H,0,1,A
+FRA,27/09/2009,16:00,Le Mans UC 72,RC Lens,3,0,H,2,0,H
+FRA,27/09/2009,16:00,Lille OSC,OGC Nice,1,1,D,0,0,D
+FRA,27/09/2009,20:00,Girondins Bordeaux,Stade Rennes,1,0,H,1,0,H
+FRA,03/10/2009,18:00,Grenoble Foot 38,Montpellier HSC,2,3,A,0,2,A
+FRA,03/10/2009,18:00,OGC Nice,Valenciennes FC,3,2,H,0,1,A
+FRA,03/10/2009,18:00,Paris Saint-Germain,AS Nancy,1,1,D,1,1,D
+FRA,03/10/2009,18:00,Stade Rennes,AJ Auxerre,0,1,A,0,1,A
+FRA,03/10/2009,18:00,AS Saint-Étienne,Girondins Bordeaux,3,1,H,2,0,H
+FRA,03/10/2009,18:00,FC Sochaux,Le Mans UC 72,1,0,H,0,0,D
+FRA,03/10/2009,20:00,RC Lens,Olympique Lyon,0,2,A,0,1,A
+FRA,04/10/2009,16:00,US Boulogne,Lille OSC,2,3,A,2,1,H
+FRA,04/10/2009,16:00,Toulouse FC,FC Lorient,0,1,A,0,0,D
+FRA,04/10/2009,20:00,Olympique Marseille,AS Monaco,1,2,A,0,2,A
+FRA,17/10/2009,18:00,AJ Auxerre,Girondins Bordeaux,1,0,H,0,0,D
+FRA,17/10/2009,18:00,Le Mans UC 72,US Boulogne,1,1,D,0,0,D
+FRA,17/10/2009,18:00,Olympique Lyon,FC Sochaux,0,2,A,0,1,A
+FRA,17/10/2009,18:00,Montpellier HSC,AS Saint-Étienne,2,1,H,0,0,D
+FRA,17/10/2009,18:00,AS Nancy,Olympique Marseille,0,3,A,0,1,A
+FRA,17/10/2009,18:00,Valenciennes FC,Grenoble Foot 38,2,0,H,2,0,H
+FRA,17/10/2009,20:00,Lille OSC,Stade Rennes,0,0,D,0,0,D
+FRA,18/10/2009,16:00,FC Lorient,OGC Nice,4,1,H,1,0,H
+FRA,18/10/2009,16:00,AS Monaco,RC Lens,2,0,H,1,0,H
+FRA,18/10/2009,20:00,Toulouse FC,Paris Saint-Germain,1,0,H,0,0,D
+FRA,24/10/2009,18:00,Girondins Bordeaux,Le Mans UC 72,3,0,H,1,0,H
+FRA,24/10/2009,18:00,US Boulogne,AS Monaco,1,3,A,0,1,A
+FRA,24/10/2009,18:00,Grenoble Foot 38,AS Nancy,1,2,A,0,0,D
+FRA,24/10/2009,18:00,OGC Nice,Olympique Lyon,4,1,H,2,0,H
+FRA,24/10/2009,18:00,AS Saint-Étienne,Valenciennes FC,0,2,A,0,1,A
+FRA,24/10/2009,18:00,FC Sochaux,FC Lorient,1,0,H,1,0,H
+FRA,24/10/2009,20:00,Stade Rennes,Montpellier HSC,3,0,H,1,0,H
+FRA,25/10/2009,16:00,AJ Auxerre,Lille OSC,3,2,H,1,2,A
+FRA,25/10/2009,16:00,RC Lens,Toulouse FC,0,2,A,0,1,A
+FRA,20/11/2009,20:00,Olympique Marseille,Paris Saint-Germain,1,0,H,1,0,H
+FRA,10/12/2009,18:00,Lille OSC,AS Saint-Étienne,4,0,H,1,0,H
+FRA,10/12/2009,18:00,Toulouse FC,FC Sochaux,2,0,H,0,0,D
+FRA,15/12/2009,20:00,Valenciennes FC,AJ Auxerre,0,0,D,0,0,D
+FRA,16/12/2009,18:00,Le Mans UC 72,Grenoble Foot 38,1,0,H,1,0,H
+FRA,16/12/2009,18:00,FC Lorient,Olympique Marseille,1,2,A,0,0,D
+FRA,16/12/2009,18:00,Olympique Lyon,US Boulogne,2,0,H,0,0,D
+FRA,16/12/2009,18:00,AS Monaco,Stade Rennes,1,0,H,1,0,H
+FRA,16/12/2009,18:00,Montpellier HSC,Girondins Bordeaux,0,1,A,0,0,D
+FRA,16/12/2009,18:00,AS Nancy,OGC Nice,2,0,H,0,0,D
+FRA,16/12/2009,20:00,Paris Saint-Germain,RC Lens,1,1,D,0,0,D
+FRA,31/10/2009,18:00,AJ Auxerre,Montpellier HSC,2,1,H,2,0,H
+FRA,31/10/2009,18:00,Girondins Bordeaux,AS Monaco,1,0,H,0,0,D
+FRA,31/10/2009,18:00,US Boulogne,AS Nancy,1,2,A,1,1,D
+FRA,31/10/2009,18:00,Grenoble Foot 38,Lille OSC,0,2,A,0,1,A
+FRA,31/10/2009,18:00,RC Lens,FC Lorient,1,1,D,0,1,A
+FRA,31/10/2009,18:00,Olympique Marseille,Toulouse FC,1,1,D,0,1,A
+FRA,31/10/2009,20:00,AS Saint-Étienne,Olympique Lyon,0,1,A,0,0,D
+FRA,01/11/2009,16:00,OGC Nice,Le Mans UC 72,1,0,H,1,0,H
+FRA,01/11/2009,16:00,Stade Rennes,Valenciennes FC,0,3,A,0,0,D
+FRA,01/11/2009,20:00,FC Sochaux,Paris Saint-Germain,1,4,A,0,1,A
+FRA,07/11/2009,18:00,Le Mans UC 72,AJ Auxerre,0,1,A,0,0,D
+FRA,07/11/2009,18:00,FC Lorient,US Boulogne,5,0,H,2,0,H
+FRA,07/11/2009,18:00,AS Monaco,Grenoble Foot 38,0,0,D,0,0,D
+FRA,07/11/2009,18:00,AS Nancy,AS Saint-Étienne,0,1,A,0,0,D
+FRA,07/11/2009,18:00,Paris Saint-Germain,OGC Nice,0,1,A,0,0,D
+FRA,07/11/2009,18:00,Valenciennes FC,Montpellier HSC,1,1,D,0,1,A
+FRA,07/11/2009,20:00,FC Sochaux,RC Lens,1,2,A,0,1,A
+FRA,08/11/2009,16:00,Lille OSC,Girondins Bordeaux,2,0,H,0,0,D
+FRA,08/11/2009,16:00,Toulouse FC,Stade Rennes,3,2,H,1,1,D
+FRA,08/11/2009,20:00,Olympique Lyon,Olympique Marseille,5,5,D,2,2,D
+FRA,21/11/2009,18:00,Girondins Bordeaux,Valenciennes FC,0,1,A,0,1,A
+FRA,21/11/2009,18:00,Grenoble Foot 38,Olympique Lyon,1,1,D,0,0,D
+FRA,21/11/2009,18:00,RC Lens,AS Nancy,2,1,H,0,0,D
+FRA,21/11/2009,18:00,Stade Rennes,Le Mans UC 72,2,1,H,1,0,H
+FRA,21/11/2009,20:00,AJ Auxerre,AS Monaco,2,0,H,1,0,H
+FRA,22/11/2009,16:00,OGC Nice,Toulouse FC,1,0,H,0,0,D
+FRA,22/11/2009,16:00,AS Saint-Étienne,FC Lorient,0,2,A,0,2,A
+FRA,22/11/2009,20:00,Montpellier HSC,Lille OSC,2,0,H,0,0,D
+FRA,02/12/2009,18:00,US Boulogne,Paris Saint-Germain,2,5,A,1,0,H
+FRA,07/04/2010,18:00,Olympique Marseille,FC Sochaux,3,0,H,2,0,H
+FRA,28/11/2009,18:00,Lille OSC,Valenciennes FC,4,0,H,1,0,H
+FRA,28/11/2009,18:00,FC Lorient,Grenoble Foot 38,2,2,D,1,0,H
+FRA,28/11/2009,18:00,Paris Saint-Germain,AJ Auxerre,1,0,H,0,0,D
+FRA,28/11/2009,18:00,FC Sochaux,OGC Nice,1,0,H,1,0,H
+FRA,28/11/2009,18:00,Toulouse FC,US Boulogne,1,0,H,1,0,H
+FRA,28/11/2009,20:00,RC Lens,Olympique Marseille,1,0,H,0,0,D
+FRA,29/11/2009,16:00,Le Mans UC 72,AS Saint-Étienne,1,1,D,0,1,A
+FRA,29/11/2009,16:00,AS Nancy,Girondins Bordeaux,0,3,A,0,1,A
+FRA,29/11/2009,20:00,Olympique Lyon,Stade Rennes,1,1,D,1,1,D
+FRA,13/01/2010,19:00,AS Monaco,Montpellier HSC,4,0,H,1,0,H
+FRA,05/12/2009,18:00,Montpellier HSC,Le Mans UC 72,2,1,H,1,0,H
+FRA,05/12/2009,18:00,OGC Nice,Olympique Marseille,1,3,A,1,1,D
+FRA,05/12/2009,18:00,Stade Rennes,FC Lorient,1,0,H,1,0,H
+FRA,05/12/2009,18:00,AS Saint-Étienne,FC Sochaux,0,0,D,0,0,D
+FRA,05/12/2009,18:00,Valenciennes FC,AS Monaco,3,1,H,1,0,H
+FRA,05/12/2009,20:00,Girondins Bordeaux,Paris Saint-Germain,1,0,H,1,0,H
+FRA,06/12/2009,16:00,AJ Auxerre,AS Nancy,1,3,A,1,1,D
+FRA,06/12/2009,16:00,US Boulogne,RC Lens,2,1,H,2,1,H
+FRA,06/12/2009,16:00,Grenoble Foot 38,Toulouse FC,1,0,H,0,0,D
+FRA,06/12/2009,20:00,Lille OSC,Olympique Lyon,4,3,H,1,3,A
+FRA,12/12/2009,18:00,Le Mans UC 72,Valenciennes FC,2,1,H,1,1,D
+FRA,12/12/2009,18:00,RC Lens,OGC Nice,2,0,H,2,0,H
+FRA,12/12/2009,18:00,Olympique Marseille,US Boulogne,2,0,H,0,0,D
+FRA,12/12/2009,18:00,AS Nancy,Stade Rennes,1,2,A,1,0,H
+FRA,12/12/2009,20:00,FC Lorient,AJ Auxerre,0,0,D,0,0,D
+FRA,13/12/2009,16:00,AS Monaco,Lille OSC,0,4,A,0,1,A
+FRA,13/12/2009,16:00,Paris Saint-Germain,AS Saint-Étienne,3,0,H,3,0,H
+FRA,13/12/2009,16:00,FC Sochaux,Grenoble Foot 38,1,0,H,1,0,H
+FRA,13/12/2009,16:00,Toulouse FC,Montpellier HSC,0,1,A,0,1,A
+FRA,13/12/2009,20:00,Olympique Lyon,Girondins Bordeaux,0,1,A,0,0,D
+FRA,19/12/2009,18:00,Girondins Bordeaux,FC Lorient,4,1,H,2,0,H
+FRA,19/12/2009,18:00,Grenoble Foot 38,OGC Nice,1,1,D,0,0,D
+FRA,19/12/2009,18:00,Montpellier HSC,AS Nancy,0,2,A,0,2,A
+FRA,19/12/2009,18:00,Stade Rennes,Paris Saint-Germain,1,0,H,1,0,H
+FRA,19/12/2009,18:00,Valenciennes FC,RC Lens,0,0,D,0,0,D
+FRA,19/12/2009,20:00,AS Saint-Étienne,Olympique Marseille,0,0,D,0,0,D
+FRA,20/12/2009,16:00,AJ Auxerre,Toulouse FC,1,1,D,0,1,A
+FRA,20/12/2009,16:00,Lille OSC,Le Mans UC 72,3,0,H,3,0,H
+FRA,20/12/2009,20:00,AS Monaco,Olympique Lyon,1,1,D,1,1,D
+FRA,13/01/2010,19:00,US Boulogne,FC Sochaux,0,0,D,0,0,D
+FRA,22/12/2009,20:00,RC Lens,AS Saint-Étienne,1,0,H,0,0,D
+FRA,23/12/2009,18:00,Le Mans UC 72,AS Monaco,1,1,D,1,0,H
+FRA,23/12/2009,18:00,FC Lorient,Valenciennes FC,3,2,H,1,2,A
+FRA,23/12/2009,18:00,Olympique Lyon,Montpellier HSC,1,2,A,0,0,D
+FRA,23/12/2009,18:00,Olympique Marseille,AJ Auxerre,0,2,A,0,1,A
+FRA,23/12/2009,18:00,AS Nancy,Lille OSC,0,4,A,0,1,A
+FRA,23/12/2009,18:00,OGC Nice,US Boulogne,2,2,D,0,0,D
+FRA,23/12/2009,18:00,Paris Saint-Germain,Grenoble Foot 38,4,0,H,2,0,H
+FRA,23/12/2009,18:00,FC Sochaux,Stade Rennes,2,0,H,1,0,H
+FRA,23/12/2009,20:00,Toulouse FC,Girondins Bordeaux,1,2,A,1,1,D
+FRA,16/01/2010,20:00,AJ Auxerre,US Boulogne,0,0,D,0,0,D
+FRA,16/01/2010,20:00,Stade Rennes,RC Lens,1,1,D,0,0,D
+FRA,16/01/2010,20:00,Le Mans UC 72,FC Lorient,0,3,A,0,2,A
+FRA,16/01/2010,20:00,AS Nancy,Olympique Lyon,0,2,A,0,0,D
+FRA,16/01/2010,20:00,Montpellier HSC,OGC Nice,1,0,H,0,0,D
+FRA,16/01/2010,20:00,Lille OSC,Paris Saint-Germain,3,1,H,1,0,H
+FRA,16/01/2010,20:00,Grenoble Foot 38,AS Saint-Étienne,1,2,A,1,2,A
+FRA,16/01/2010,20:00,AS Monaco,FC Sochaux,2,0,H,0,0,D
+FRA,16/01/2010,20:00,Valenciennes FC,Toulouse FC,1,3,A,1,1,D
+FRA,17/01/2010,20:00,Girondins Bordeaux,Olympique Marseille,1,1,D,1,0,H
+FRA,19/01/2010,20:00,AS Saint-Étienne,Stade Rennes,0,0,D,0,0,D
+FRA,20/01/2010,18:00,OGC Nice,AJ Auxerre,0,1,A,0,0,D
+FRA,20/01/2010,18:00,Grenoble Foot 38,Girondins Bordeaux,1,3,A,1,0,H
+FRA,20/01/2010,18:00,Olympique Marseille,Le Mans UC 72,2,1,H,1,1,D
+FRA,20/01/2010,18:00,FC Sochaux,Lille OSC,2,1,H,2,0,H
+FRA,20/01/2010,18:00,FC Lorient,Olympique Lyon,1,3,A,1,0,H
+FRA,20/01/2010,18:00,Paris Saint-Germain,AS Monaco,0,1,A,0,0,D
+FRA,20/01/2010,18:00,RC Lens,Montpellier HSC,0,1,A,0,0,D
+FRA,20/01/2010,18:00,Toulouse FC,AS Nancy,0,0,D,0,0,D
+FRA,20/01/2010,20:00,US Boulogne,Valenciennes FC,0,2,A,0,0,D
+FRA,30/01/2010,18:00,Girondins Bordeaux,US Boulogne,0,0,D,0,0,D
+FRA,30/01/2010,18:00,Stade Rennes,Grenoble Foot 38,4,0,H,2,0,H
+FRA,30/01/2010,18:00,Lille OSC,RC Lens,1,0,H,1,0,H
+FRA,30/01/2010,18:00,AS Nancy,FC Lorient,1,0,H,1,0,H
+FRA,30/01/2010,18:00,AS Monaco,OGC Nice,3,2,H,1,0,H
+FRA,30/01/2010,18:00,Le Mans UC 72,Toulouse FC,1,3,A,0,0,D
+FRA,30/01/2010,20:00,Montpellier HSC,Olympique Marseille,2,0,H,0,0,D
+FRA,31/01/2010,16:00,AJ Auxerre,AS Saint-Étienne,1,0,H,0,0,D
+FRA,31/01/2010,16:00,Valenciennes FC,FC Sochaux,1,1,D,1,0,H
+FRA,31/01/2010,20:00,Olympique Lyon,Paris Saint-Germain,2,1,H,0,1,A
+FRA,06/02/2010,18:00,US Boulogne,Montpellier HSC,0,2,A,0,1,A
+FRA,06/02/2010,18:00,FC Sochaux,AS Nancy,1,1,D,0,1,A
+FRA,06/02/2010,18:00,Grenoble Foot 38,AJ Auxerre,5,0,H,4,0,H
+FRA,06/02/2010,18:00,RC Lens,Le Mans UC 72,2,1,H,1,0,H
+FRA,06/02/2010,18:00,OGC Nice,Lille OSC,1,1,D,1,0,H
+FRA,06/02/2010,18:00,Paris Saint-Germain,FC Lorient,0,3,A,0,3,A
+FRA,06/02/2010,20:00,Stade Rennes,Girondins Bordeaux,4,2,H,2,0,H
+FRA,07/02/2010,16:00,Toulouse FC,Olympique Lyon,0,0,D,0,0,D
+FRA,07/02/2010,16:00,AS Saint-Étienne,AS Monaco,3,0,H,1,0,H
+FRA,07/02/2010,20:00,Olympique Marseille,Valenciennes FC,5,1,H,2,0,H
+FRA,13/02/2010,18:00,Lille OSC,US Boulogne,3,1,H,3,1,H
+FRA,13/02/2010,18:00,Montpellier HSC,Grenoble Foot 38,1,0,H,1,0,H
+FRA,13/02/2010,18:00,AS Monaco,Olympique Marseille,1,2,A,1,1,D
+FRA,13/02/2010,18:00,Valenciennes FC,OGC Nice,2,1,H,0,0,D
+FRA,13/02/2010,18:00,AS Nancy,Paris Saint-Germain,0,0,D,0,0,D
+FRA,13/02/2010,18:00,Le Mans UC 72,FC Sochaux,0,0,D,0,0,D
+FRA,13/02/2010,20:00,Olympique Lyon,RC Lens,1,0,H,0,0,D
+FRA,14/02/2010,16:00,AJ Auxerre,Stade Rennes,1,0,H,1,0,H
+FRA,14/02/2010,16:00,FC Lorient,Toulouse FC,1,1,D,0,0,D
+FRA,14/02/2010,20:00,Girondins Bordeaux,AS Saint-Étienne,3,1,H,2,1,H
+FRA,20/02/2010,18:00,US Boulogne,Le Mans UC 72,1,3,A,0,2,A
+FRA,20/02/2010,18:00,OGC Nice,FC Lorient,1,0,H,0,0,D
+FRA,20/02/2010,18:00,RC Lens,AS Monaco,3,0,H,2,0,H
+FRA,20/02/2010,18:00,AS Saint-Étienne,Montpellier HSC,1,0,H,0,0,D
+FRA,20/02/2010,18:00,Grenoble Foot 38,Valenciennes FC,0,1,A,0,1,A
+FRA,20/02/2010,20:00,Paris Saint-Germain,Toulouse FC,1,0,H,1,0,H
+FRA,21/02/2010,16:00,FC Sochaux,Olympique Lyon,0,4,A,0,3,A
+FRA,21/02/2010,16:00,Olympique Marseille,AS Nancy,3,1,H,2,1,H
+FRA,21/02/2010,20:00,Stade Rennes,Lille OSC,1,2,A,1,1,D
+FRA,10/03/2010,18:00,Girondins Bordeaux,AJ Auxerre,1,2,A,1,0,H
+FRA,27/02/2010,18:00,AS Monaco,US Boulogne,1,0,H,1,0,H
+FRA,27/02/2010,18:00,AS Nancy,Grenoble Foot 38,0,2,A,0,1,A
+FRA,27/02/2010,18:00,Toulouse FC,RC Lens,1,0,H,0,0,D
+FRA,27/02/2010,18:00,Olympique Lyon,OGC Nice,2,0,H,1,0,H
+FRA,27/02/2010,18:00,Valenciennes FC,AS Saint-Étienne,1,0,H,0,0,D
+FRA,27/02/2010,18:00,FC Lorient,FC Sochaux,1,0,H,1,0,H
+FRA,27/02/2010,20:00,Montpellier HSC,Stade Rennes,3,1,H,2,0,H
+FRA,28/02/2010,18:00,Lille OSC,AJ Auxerre,1,2,A,1,1,D
+FRA,28/02/2010,20:00,Paris Saint-Germain,Olympique Marseille,0,3,A,0,1,A
+FRA,14/04/2010,19:00,Le Mans UC 72,Girondins Bordeaux,2,1,H,2,1,H
+FRA,06/03/2010,18:00,US Boulogne,Olympique Lyon,0,0,D,0,0,D
+FRA,06/03/2010,18:00,Stade Rennes,AS Monaco,1,0,H,1,0,H
+FRA,06/03/2010,18:00,OGC Nice,AS Nancy,2,3,A,2,2,D
+FRA,06/03/2010,18:00,RC Lens,Paris Saint-Germain,1,1,D,0,0,D
+FRA,06/03/2010,18:00,FC Sochaux,Toulouse FC,1,0,H,0,0,D
+FRA,06/03/2010,18:00,AJ Auxerre,Valenciennes FC,1,0,H,1,0,H
+FRA,06/03/2010,20:00,AS Saint-Étienne,Lille OSC,1,1,D,1,1,D
+FRA,07/03/2010,16:00,Grenoble Foot 38,Le Mans UC 72,1,1,D,1,0,H
+FRA,07/03/2010,16:00,Olympique Marseille,FC Lorient,1,1,D,1,0,H
+FRA,07/03/2010,20:00,Girondins Bordeaux,Montpellier HSC,1,1,D,0,0,D
+FRA,13/03/2010,18:00,Montpellier HSC,AJ Auxerre,1,1,D,0,1,A
+FRA,13/03/2010,18:00,AS Monaco,Girondins Bordeaux,0,0,D,0,0,D
+FRA,13/03/2010,18:00,AS Nancy,US Boulogne,1,3,A,1,1,D
+FRA,13/03/2010,18:00,FC Lorient,RC Lens,1,0,H,0,0,D
+FRA,13/03/2010,18:00,Le Mans UC 72,OGC Nice,0,1,A,0,0,D
+FRA,13/03/2010,18:00,Paris Saint-Germain,FC Sochaux,4,1,H,3,0,H
+FRA,13/03/2010,20:00,Olympique Lyon,AS Saint-Étienne,1,1,D,0,1,A
+FRA,14/03/2010,16:00,Lille OSC,Grenoble Foot 38,1,0,H,0,0,D
+FRA,14/03/2010,16:00,Valenciennes FC,Stade Rennes,0,2,A,0,2,A
+FRA,14/03/2010,20:00,Toulouse FC,Olympique Marseille,1,1,D,1,1,D
+FRA,20/03/2010,18:00,AJ Auxerre,Le Mans UC 72,2,1,H,1,0,H
+FRA,20/03/2010,18:00,US Boulogne,FC Lorient,2,0,H,1,0,H
+FRA,20/03/2010,18:00,Grenoble Foot 38,AS Monaco,0,0,D,0,0,D
+FRA,20/03/2010,18:00,AS Saint-Étienne,AS Nancy,0,0,D,0,0,D
+FRA,20/03/2010,18:00,OGC Nice,Paris Saint-Germain,1,0,H,0,0,D
+FRA,20/03/2010,18:00,Stade Rennes,Toulouse FC,4,1,H,2,0,H
+FRA,20/03/2010,20:00,RC Lens,FC Sochaux,0,0,D,0,0,D
+FRA,21/03/2010,16:00,Girondins Bordeaux,Lille OSC,3,1,H,1,1,D
+FRA,21/03/2010,16:00,Montpellier HSC,Valenciennes FC,2,1,H,1,0,H
+FRA,21/03/2010,20:00,Olympique Marseille,Olympique Lyon,2,1,H,0,0,D
+FRA,27/03/2010,16:00,Olympique Lyon,Grenoble Foot 38,2,0,H,0,0,D
+FRA,28/03/2010,16:00,Paris Saint-Germain,US Boulogne,3,0,H,2,0,H
+FRA,28/03/2010,16:00,AS Nancy,RC Lens,5,1,H,2,0,H
+FRA,28/03/2010,16:00,Toulouse FC,OGC Nice,0,2,A,0,1,A
+FRA,28/03/2010,16:00,Le Mans UC 72,Stade Rennes,1,3,A,0,0,D
+FRA,28/03/2010,16:00,FC Lorient,AS Saint-Étienne,4,0,H,2,0,H
+FRA,28/03/2010,20:00,Lille OSC,Montpellier HSC,4,1,H,1,0,H
+FRA,29/03/2010,20:00,AS Monaco,AJ Auxerre,0,0,D,0,0,D
+FRA,14/04/2010,19:00,FC Sochaux,Olympique Marseille,0,1,A,0,0,D
+FRA,28/04/2010,18:00,Valenciennes FC,Girondins Bordeaux,2,0,H,1,0,H
+FRA,03/04/2010,18:00,AS Saint-Étienne,Le Mans UC 72,2,0,H,0,0,D
+FRA,03/04/2010,18:00,Valenciennes FC,Lille OSC,1,0,H,0,0,D
+FRA,03/04/2010,18:00,Grenoble Foot 38,FC Lorient,1,2,A,1,1,D
+FRA,03/04/2010,18:00,Stade Rennes,Olympique Lyon,1,2,A,1,0,H
+FRA,03/04/2010,18:00,Girondins Bordeaux,AS Nancy,1,2,A,1,1,D
+FRA,03/04/2010,18:00,OGC Nice,FC Sochaux,0,0,D,0,0,D
+FRA,03/04/2010,20:00,Montpellier HSC,AS Monaco,0,0,D,0,0,D
+FRA,04/04/2010,16:00,Olympique Marseille,RC Lens,1,0,H,1,0,H
+FRA,04/04/2010,16:00,US Boulogne,Toulouse FC,1,1,D,1,0,H
+FRA,04/04/2010,20:00,AJ Auxerre,Paris Saint-Germain,1,1,D,1,1,D
+FRA,10/04/2010,18:00,RC Lens,US Boulogne,3,0,H,1,0,H
+FRA,10/04/2010,18:00,Toulouse FC,Grenoble Foot 38,4,0,H,1,0,H
+FRA,10/04/2010,18:00,Le Mans UC 72,Montpellier HSC,2,2,D,1,2,A
+FRA,10/04/2010,18:00,FC Lorient,Stade Rennes,1,1,D,1,1,D
+FRA,10/04/2010,18:00,FC Sochaux,AS Saint-Étienne,0,2,A,0,1,A
+FRA,10/04/2010,18:00,AS Monaco,Valenciennes FC,2,1,H,0,1,A
+FRA,10/04/2010,20:00,Paris Saint-Germain,Girondins Bordeaux,3,1,H,1,0,H
+FRA,11/04/2010,16:00,AS Nancy,AJ Auxerre,0,1,A,0,0,D
+FRA,11/04/2010,16:00,Olympique Lyon,Lille OSC,1,1,D,0,0,D
+FRA,11/04/2010,20:00,Olympique Marseille,OGC Nice,4,1,H,1,0,H
+FRA,17/04/2010,18:00,Valenciennes FC,Le Mans UC 72,0,1,A,0,0,D
+FRA,17/04/2010,18:00,OGC Nice,RC Lens,0,0,D,0,0,D
+FRA,17/04/2010,18:00,AJ Auxerre,FC Lorient,4,1,H,2,0,H
+FRA,17/04/2010,18:00,US Boulogne,Olympique Marseille,1,2,A,0,1,A
+FRA,17/04/2010,18:00,Stade Rennes,AS Nancy,0,0,D,0,0,D
+FRA,17/04/2010,18:00,Grenoble Foot 38,FC Sochaux,2,2,D,0,1,A
+FRA,17/04/2010,20:00,Girondins Bordeaux,Olympique Lyon,2,2,D,1,0,H
+FRA,18/04/2010,16:00,Lille OSC,AS Monaco,4,0,H,2,0,H
+FRA,18/04/2010,16:00,Montpellier HSC,Toulouse FC,1,1,D,1,0,H
+FRA,18/04/2010,20:00,AS Saint-Étienne,Paris Saint-Germain,0,0,D,0,0,D
+FRA,24/04/2010,18:00,FC Lorient,Girondins Bordeaux,1,0,H,0,0,D
+FRA,24/04/2010,18:00,FC Sochaux,US Boulogne,0,3,A,0,1,A
+FRA,24/04/2010,18:00,OGC Nice,Grenoble Foot 38,2,1,H,1,1,D
+FRA,24/04/2010,18:00,Le Mans UC 72,Lille OSC,1,2,A,0,1,A
+FRA,24/04/2010,18:00,AS Nancy,Montpellier HSC,0,0,D,0,0,D
+FRA,24/04/2010,20:00,Paris Saint-Germain,Stade Rennes,1,1,D,0,1,A
+FRA,25/04/2010,16:00,Toulouse FC,AJ Auxerre,0,3,A,0,0,D
+FRA,25/04/2010,16:00,RC Lens,Valenciennes FC,1,1,D,1,0,H
+FRA,25/04/2010,20:00,Olympique Marseille,AS Saint-Étienne,1,0,H,1,0,H
+FRA,12/05/2010,18:00,Olympique Lyon,AS Monaco,3,0,H,1,0,H
+FRA,27/04/2010,18:00,AS Monaco,Le Mans UC 72,1,1,D,0,1,A
+FRA,27/04/2010,18:00,Grenoble Foot 38,Paris Saint-Germain,4,0,H,2,0,H
+FRA,30/04/2010,20:00,AJ Auxerre,Olympique Marseille,0,0,D,0,0,D
+FRA,02/05/2010,16:00,AS Saint-Étienne,RC Lens,1,4,A,1,0,H
+FRA,02/05/2010,16:00,Valenciennes FC,FC Lorient,0,0,D,0,0,D
+FRA,02/05/2010,16:00,Lille OSC,AS Nancy,3,1,H,2,0,H
+FRA,02/05/2010,16:00,US Boulogne,OGC Nice,3,3,D,0,1,A
+FRA,02/05/2010,16:00,Stade Rennes,FC Sochaux,1,2,A,0,1,A
+FRA,02/05/2010,16:00,Girondins Bordeaux,Toulouse FC,1,0,H,1,0,H
+FRA,02/05/2010,20:00,Montpellier HSC,Olympique Lyon,0,1,A,0,0,D
+FRA,05/05/2010,18:00,Olympique Lyon,AJ Auxerre,2,1,H,1,1,D
+FRA,05/05/2010,18:00,OGC Nice,Girondins Bordeaux,1,1,D,1,1,D
+FRA,05/05/2010,18:00,RC Lens,Grenoble Foot 38,1,1,D,0,1,A
+FRA,05/05/2010,18:00,AS Nancy,Le Mans UC 72,3,2,H,2,2,D
+FRA,05/05/2010,18:00,Toulouse FC,Lille OSC,0,2,A,0,1,A
+FRA,05/05/2010,18:00,FC Lorient,AS Monaco,2,2,D,1,1,D
+FRA,05/05/2010,18:00,FC Sochaux,Montpellier HSC,0,1,A,0,0,D
+FRA,05/05/2010,18:00,US Boulogne,AS Saint-Étienne,0,1,A,0,0,D
+FRA,05/05/2010,18:00,Paris Saint-Germain,Valenciennes FC,2,2,D,1,0,H
+FRA,05/05/2010,20:00,Olympique Marseille,Stade Rennes,3,1,H,1,1,D
+FRA,08/05/2010,20:00,Grenoble Foot 38,US Boulogne,2,0,H,1,0,H
+FRA,08/05/2010,20:00,AJ Auxerre,RC Lens,0,0,D,0,0,D
+FRA,08/05/2010,20:00,Montpellier HSC,FC Lorient,2,1,H,2,0,H
+FRA,08/05/2010,20:00,Valenciennes FC,Olympique Lyon,2,2,D,0,1,A
+FRA,08/05/2010,20:00,Lille OSC,Olympique Marseille,3,2,H,1,2,A
+FRA,08/05/2010,20:00,AS Monaco,AS Nancy,2,1,H,1,0,H
+FRA,08/05/2010,20:00,Stade Rennes,OGC Nice,2,2,D,0,1,A
+FRA,08/05/2010,20:00,Le Mans UC 72,Paris Saint-Germain,1,0,H,1,0,H
+FRA,08/05/2010,20:00,Girondins Bordeaux,FC Sochaux,2,0,H,0,0,D
+FRA,08/05/2010,20:00,AS Saint-Étienne,Toulouse FC,0,1,A,0,0,D
+FRA,15/05/2010,20:00,FC Sochaux,AJ Auxerre,1,2,A,0,1,A
+FRA,15/05/2010,20:00,RC Lens,Girondins Bordeaux,4,3,H,2,1,H
+FRA,15/05/2010,20:00,Olympique Marseille,Grenoble Foot 38,2,0,H,1,0,H
+FRA,15/05/2010,20:00,Olympique Lyon,Le Mans UC 72,2,0,H,1,0,H
+FRA,15/05/2010,20:00,Toulouse FC,AS Monaco,0,0,D,0,0,D
+FRA,15/05/2010,20:00,Paris Saint-Germain,Montpellier HSC,1,3,A,0,1,A
+FRA,15/05/2010,20:00,US Boulogne,Stade Rennes,1,0,H,1,0,H
+FRA,15/05/2010,20:00,OGC Nice,AS Saint-Étienne,1,1,D,1,0,H
+FRA,15/05/2010,20:00,AS Nancy,Valenciennes FC,1,1,D,1,0,H
+FRA,15/05/2010,20:00,FC Lorient,Lille OSC,2,1,H,1,1,D

@@ -1,0 +1,136 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MKD,02/08/2014,16:30,FK Renova,FK Teteks,0,0,D,0,0,D
+MKD,03/08/2014,16:30,Sileks Kratovo,FK Turnovo,2,0,H,1,0,H
+MKD,03/08/2014,16:30,FK Pelister,Vardar Skopje,0,1,A,0,0,D
+MKD,03/08/2014,16:30,KF Shkëndija 79,FK Bregalnica Štip,2,1,H,0,1,A
+MKD,04/08/2014,16:30,FK Rabotnički,Metalurg Skopje,0,3,A,0,1,A
+MKD,09/08/2014,16:30,FK Renova,FK Rabotnički,2,1,H,0,0,D
+MKD,10/08/2014,16:30,FK Teteks,FK Bregalnica Štip,0,1,A,0,1,A
+MKD,10/08/2014,16:30,FK Turnovo,FK Pelister,0,1,A,0,0,D
+MKD,10/08/2014,16:30,Metalurg Skopje,Sileks Kratovo,1,1,D,1,1,D
+MKD,10/08/2014,18:00,Vardar Skopje,KF Shkëndija 79,3,0,H,1,0,H
+MKD,16/08/2014,19:00,FK Rabotnički,FK Teteks,3,1,H,1,0,H
+MKD,17/08/2014,16:30,FK Pelister,Metalurg Skopje,0,1,A,0,1,A
+MKD,17/08/2014,16:30,Sileks Kratovo,FK Renova,1,0,H,0,0,D
+MKD,17/08/2014,16:30,KF Shkëndija 79,FK Turnovo,5,2,H,1,2,A
+MKD,17/08/2014,16:30,FK Bregalnica Štip,Vardar Skopje,1,2,A,1,1,D
+MKD,23/08/2014,16:00,Metalurg Skopje,KF Shkëndija 79,1,1,D,1,1,D
+MKD,23/08/2014,16:00,FK Rabotnički,Sileks Kratovo,0,0,D,0,0,D
+MKD,24/08/2014,16:00,FK Turnovo,FK Bregalnica Štip,2,1,H,0,0,D
+MKD,24/08/2014,16:00,FK Renova,FK Pelister,0,2,A,0,1,A
+MKD,24/08/2014,16:00,FK Teteks,Vardar Skopje,2,2,D,1,1,D
+MKD,27/08/2014,16:00,FK Pelister,FK Rabotnički,1,0,H,0,0,D
+MKD,27/08/2014,16:00,KF Shkëndija 79,FK Renova,1,1,D,0,1,A
+MKD,27/08/2014,16:00,FK Bregalnica Štip,Metalurg Skopje,0,1,A,0,1,A
+MKD,27/08/2014,16:00,Sileks Kratovo,FK Teteks,3,1,H,2,1,H
+MKD,27/08/2014,18:00,Vardar Skopje,FK Turnovo,0,0,D,0,0,D
+MKD,30/08/2014,16:00,FK Rabotnički,KF Shkëndija 79,3,2,H,1,1,D
+MKD,31/08/2014,16:00,Metalurg Skopje,Vardar Skopje,1,4,A,1,2,A
+MKD,31/08/2014,16:00,FK Renova,FK Bregalnica Štip,2,1,H,1,1,D
+MKD,31/08/2014,16:00,Sileks Kratovo,FK Pelister,1,1,D,0,1,A
+MKD,01/09/2014,16:00,FK Teteks,FK Turnovo,0,3,A,0,1,A
+MKD,14/09/2014,15:00,KF Shkëndija 79,Sileks Kratovo,3,0,H,1,0,H
+MKD,14/09/2014,15:00,FK Pelister,FK Teteks,3,0,H,2,0,H
+MKD,14/09/2014,15:00,FK Bregalnica Štip,FK Rabotnički,1,2,A,1,0,H
+MKD,14/09/2014,15:00,FK Turnovo,Metalurg Skopje,1,0,H,0,0,D
+MKD,14/09/2014,18:00,Vardar Skopje,FK Renova,1,1,D,0,0,D
+MKD,20/09/2014,14:30,FK Renova,FK Turnovo,2,3,A,0,1,A
+MKD,20/09/2014,14:30,FK Rabotnički,Vardar Skopje,0,2,A,0,1,A
+MKD,21/09/2014,14:30,FK Teteks,Metalurg Skopje,0,1,A,0,0,D
+MKD,21/09/2014,14:30,Sileks Kratovo,FK Bregalnica Štip,1,1,D,1,0,H
+MKD,21/09/2014,14:30,FK Pelister,KF Shkëndija 79,0,0,D,0,0,D
+MKD,28/09/2014,14:30,FK Bregalnica Štip,FK Pelister,0,0,D,0,0,D
+MKD,28/09/2014,14:30,Vardar Skopje,Sileks Kratovo,2,0,H,1,0,H
+MKD,28/09/2014,14:30,FK Turnovo,FK Rabotnički,0,1,A,0,1,A
+MKD,28/09/2014,14:30,KF Shkëndija 79,FK Teteks,5,0,H,2,0,H
+MKD,28/09/2014,14:30,Metalurg Skopje,FK Renova,3,0,H,0,0,D
+MKD,04/10/2014,14:00,Vardar Skopje,FK Pelister,1,0,H,1,0,H
+MKD,05/10/2014,14:00,FK Teteks,FK Renova,0,4,A,0,1,A
+MKD,05/10/2014,14:00,Metalurg Skopje,FK Rabotnički,1,2,A,0,1,A
+MKD,05/10/2014,14:00,FK Turnovo,Sileks Kratovo,1,1,D,0,0,D
+MKD,05/10/2014,14:00,FK Bregalnica Štip,KF Shkëndija 79,1,3,A,0,1,A
+MKD,18/10/2014,13:30,FK Pelister,FK Turnovo,0,0,D,0,0,D
+MKD,18/10/2014,13:30,FK Rabotnički,FK Renova,3,0,H,1,0,H
+MKD,19/10/2014,13:30,KF Shkëndija 79,Vardar Skopje,1,2,A,0,2,A
+MKD,19/10/2014,13:30,FK Bregalnica Štip,FK Teteks,4,1,H,1,0,H
+MKD,19/10/2014,13:30,Sileks Kratovo,Metalurg Skopje,2,1,H,1,0,H
+MKD,25/10/2014,13:30,FK Renova,Sileks Kratovo,2,2,D,0,1,A
+MKD,26/10/2014,12:30,FK Teteks,FK Rabotnički,1,5,A,1,1,D
+MKD,26/10/2014,12:30,Metalurg Skopje,FK Pelister,0,0,D,0,0,D
+MKD,26/10/2014,12:30,FK Turnovo,KF Shkëndija 79,0,1,A,0,0,D
+MKD,26/10/2014,12:30,Vardar Skopje,FK Bregalnica Štip,1,0,H,1,0,H
+MKD,29/10/2014,12:30,FK Bregalnica Štip,FK Turnovo,1,1,D,0,1,A
+MKD,29/10/2014,12:30,KF Shkëndija 79,Metalurg Skopje,2,1,H,2,0,H
+MKD,29/10/2014,12:30,FK Pelister,FK Renova,0,1,A,0,0,D
+MKD,29/10/2014,12:30,Vardar Skopje,FK Teteks,5,0,H,2,0,H
+MKD,29/10/2014,12:30,Sileks Kratovo,FK Rabotnički,0,2,A,0,1,A
+MKD,01/11/2014,12:30,FK Rabotnički,FK Pelister,1,0,H,1,0,H
+MKD,01/11/2014,12:30,FK Renova,KF Shkëndija 79,1,0,H,0,0,D
+MKD,02/11/2014,12:30,Metalurg Skopje,FK Bregalnica Štip,3,0,H,1,0,H
+MKD,02/11/2014,12:30,FK Turnovo,Vardar Skopje,0,0,D,0,0,D
+MKD,02/11/2014,12:30,FK Teteks,Sileks Kratovo,1,3,A,0,1,A
+MKD,09/11/2014,12:00,Vardar Skopje,Metalurg Skopje,3,1,H,2,0,H
+MKD,09/11/2014,12:00,FK Turnovo,FK Teteks,2,0,H,1,0,H
+MKD,09/11/2014,12:00,FK Bregalnica Štip,FK Renova,2,0,H,2,0,H
+MKD,09/11/2014,12:00,KF Shkëndija 79,FK Rabotnički,1,3,A,1,2,A
+MKD,09/11/2014,12:00,FK Pelister,Sileks Kratovo,0,1,A,0,0,D
+MKD,22/11/2014,12:00,FK Rabotnički,FK Bregalnica Štip,4,0,H,1,0,H
+MKD,22/11/2014,12:00,FK Renova,Vardar Skopje,3,0,H,1,0,H
+MKD,23/11/2014,12:00,Sileks Kratovo,KF Shkëndija 79,0,1,A,0,1,A
+MKD,23/11/2014,12:00,FK Teteks,FK Pelister,1,1,D,1,1,D
+MKD,23/11/2014,12:00,Metalurg Skopje,FK Turnovo,2,0,H,1,0,H
+MKD,30/11/2014,12:00,FK Turnovo,FK Renova,0,0,D,0,0,D
+MKD,30/11/2014,12:00,Metalurg Skopje,FK Teteks,0,2,A,0,1,A
+MKD,30/11/2014,12:00,FK Bregalnica Štip,Sileks Kratovo,1,1,D,0,1,A
+MKD,30/11/2014,12:00,KF Shkëndija 79,FK Pelister,5,0,H,2,0,H
+MKD,30/11/2014,16:00,Vardar Skopje,FK Rabotnički,0,0,D,0,0,D
+MKD,01/03/2015,13:00,FK Pelister,FK Bregalnica Štip,0,1,A,0,1,A
+MKD,01/03/2015,13:00,Sileks Kratovo,Vardar Skopje,0,3,A,0,3,A
+MKD,01/03/2015,13:00,FK Rabotnički,FK Turnovo,1,0,H,0,0,D
+MKD,01/03/2015,13:00,FK Teteks,KF Shkëndija 79,1,2,A,0,1,A
+MKD,02/03/2015,13:00,FK Renova,Metalurg Skopje,3,1,H,0,1,A
+MKD,07/03/2015,13:00,FK Rabotnički,FK Turnovo,2,0,H,1,0,H
+MKD,10/03/2015,13:00,Vardar Skopje,Metalurg Skopje,2,1,H,1,1,D
+MKD,10/03/2015,13:00,FK Renova,FK Bregalnica Štip,2,1,H,2,1,H
+MKD,11/03/2015,13:00,KF Shkëndija 79,FK Pelister,2,0,H,0,0,D
+MKD,11/03/2015,13:00,Sileks Kratovo,FK Teteks,3,1,H,1,1,D
+MKD,14/03/2015,13:00,FK Teteks,FK Renova,1,2,A,1,2,A
+MKD,15/03/2015,13:00,Sileks Kratovo,Metalurg Skopje,1,1,D,0,1,A
+MKD,15/03/2015,13:00,FK Bregalnica Štip,KF Shkëndija 79,0,0,D,0,0,D
+MKD,15/03/2015,13:00,FK Pelister,FK Rabotnički,1,3,A,0,3,A
+MKD,15/03/2015,13:00,FK Turnovo,Vardar Skopje,0,2,A,0,0,D
+MKD,21/03/2015,13:00,FK Rabotnički,FK Bregalnica Štip,0,0,D,0,0,D
+MKD,21/03/2015,13:00,FK Renova,Sileks Kratovo,1,1,D,0,0,D
+MKD,22/03/2015,13:00,Metalurg Skopje,FK Turnovo,0,0,D,0,0,D
+MKD,22/03/2015,13:00,KF Shkëndija 79,FK Teteks,0,1,A,0,0,D
+MKD,22/03/2015,16:00,Vardar Skopje,FK Pelister,1,1,D,1,0,H
+MKD,04/04/2015,15:00,FK Renova,Metalurg Skopje,2,0,H,0,0,D
+MKD,04/04/2015,15:00,Sileks Kratovo,KF Shkëndija 79,0,3,A,0,2,A
+MKD,04/04/2015,15:00,FK Teteks,FK Rabotnički,1,2,A,0,2,A
+MKD,04/04/2015,15:00,FK Bregalnica Štip,Vardar Skopje,0,0,D,0,0,D
+MKD,04/04/2015,15:00,FK Pelister,FK Turnovo,0,1,A,0,0,D
+MKD,07/04/2015,14:00,FK Rabotnički,Sileks Kratovo,2,0,H,1,0,H
+MKD,07/04/2015,15:00,Metalurg Skopje,FK Pelister,3,1,H,1,0,H
+MKD,07/04/2015,15:00,FK Turnovo,FK Bregalnica Štip,0,1,A,0,0,D
+MKD,08/04/2015,15:00,Vardar Skopje,FK Teteks,2,0,H,0,0,D
+MKD,08/04/2015,15:00,KF Shkëndija 79,FK Renova,0,1,A,0,0,D
+MKD,11/04/2015,15:00,FK Renova,FK Rabotnički,2,0,H,2,0,H
+MKD,11/04/2015,15:00,Sileks Kratovo,Vardar Skopje,0,2,A,0,1,A
+MKD,11/04/2015,15:00,FK Teteks,FK Turnovo,1,3,A,0,2,A
+MKD,11/04/2015,15:00,FK Bregalnica Štip,FK Pelister,1,0,H,0,0,D
+MKD,14/04/2015,15:00,KF Shkëndija 79,Metalurg Skopje,2,2,D,0,1,A
+MKD,18/04/2015,15:00,FK Pelister,FK Teteks,3,1,H,2,0,H
+MKD,18/04/2015,15:00,FK Rabotnički,KF Shkëndija 79,1,0,H,0,0,D
+MKD,19/04/2015,14:00,Vardar Skopje,FK Renova,1,0,H,0,0,D
+MKD,19/04/2015,15:00,Metalurg Skopje,FK Bregalnica Štip,0,0,D,0,0,D
+MKD,19/04/2015,15:00,FK Turnovo,Sileks Kratovo,1,1,D,1,0,H
+MKD,22/04/2015,15:00,FK Rabotnički,Metalurg Skopje,2,2,D,2,2,D
+MKD,22/04/2015,15:00,FK Renova,FK Turnovo,1,1,D,1,1,D
+MKD,22/04/2015,15:00,Sileks Kratovo,FK Pelister,1,0,H,1,0,H
+MKD,22/04/2015,15:00,FK Teteks,FK Bregalnica Štip,0,0,D,0,0,D
+MKD,24/04/2015,13:00,KF Shkëndija 79,Vardar Skopje,3,2,H,2,1,H
+MKD,26/04/2015,15:00,Metalurg Skopje,FK Teteks,0,0,D,0,0,D
+MKD,26/04/2015,15:00,FK Bregalnica Štip,Sileks Kratovo,2,0,H,1,0,H
+MKD,26/04/2015,15:00,FK Pelister,FK Renova,1,1,D,1,1,D
+MKD,28/04/2015,15:00,FK Turnovo,KF Shkëndija 79,0,4,A,0,1,A
+MKD,28/04/2015,17:00,Vardar Skopje,FK Rabotnički,2,0,H,2,0,H

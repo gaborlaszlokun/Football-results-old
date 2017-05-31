@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GEO,10/08/2012,14:30,Dinamo Batumi,Sioni Bolnisi,2,2,D,1,0,H
+GEO,10/08/2012,14:30,Kolkheti Poti,Chikhura Sachkhere,0,2,A,0,1,A
+GEO,11/08/2012,14:30,Metalurgi Rustavi,Dinamo Tbilisi,0,1,A,0,1,A
+GEO,11/08/2012,16:00,FC Zestafoni,FC Merani Martvili,3,1,H,0,1,A
+GEO,11/08/2012,16:00,Torpedo Kutaisi,FC Zugdidi,1,0,H,0,0,D
+GEO,13/08/2012,14:30,Dila Gori,WIT Georgia,0,1,A,0,1,A
+GEO,18/08/2012,14:00,FC Merani Martvili,WIT Georgia,1,0,H,1,0,H
+GEO,18/08/2012,14:00,Sioni Bolnisi,Kolkheti Poti,0,0,D,0,0,D
+GEO,18/08/2012,14:00,FC Zugdidi,Dinamo Batumi,2,0,H,2,0,H
+GEO,18/08/2012,15:00,Dila Gori,Chikhura Sachkhere,2,3,A,1,1,D
+GEO,18/08/2012,16:00,Dinamo Tbilisi,Torpedo Kutaisi,3,2,H,2,2,D
+GEO,18/08/2012,16:00,FC Zestafoni,Metalurgi Rustavi,0,1,A,0,1,A
+GEO,25/08/2012,14:00,Metalurgi Rustavi,FC Merani Martvili,1,0,H,1,0,H
+GEO,25/08/2012,14:00,Dinamo Batumi,Dinamo Tbilisi,0,3,A,0,1,A
+GEO,25/08/2012,14:00,Kolkheti Poti,FC Zugdidi,1,1,D,1,0,H
+GEO,25/08/2012,14:00,WIT Georgia,Chikhura Sachkhere,0,1,A,0,0,D
+GEO,26/08/2012,14:00,Dila Gori,Sioni Bolnisi,2,3,A,1,2,A
+GEO,26/08/2012,16:00,Torpedo Kutaisi,FC Zestafoni,1,0,H,0,0,D
+GEO,02/09/2012,13:00,FC Merani Martvili,Chikhura Sachkhere,1,0,H,1,0,H
+GEO,02/09/2012,13:00,Sioni Bolnisi,WIT Georgia,1,1,D,1,1,D
+GEO,02/09/2012,13:00,Metalurgi Rustavi,Torpedo Kutaisi,0,4,A,0,0,D
+GEO,02/09/2012,16:00,Dinamo Tbilisi,Kolkheti Poti,5,0,H,2,0,H
+GEO,02/09/2012,16:00,FC Zestafoni,Dinamo Batumi,0,0,D,0,0,D
+GEO,03/09/2012,13:00,FC Zugdidi,Dila Gori,0,0,D,0,0,D
+GEO,14/09/2012,13:00,Chikhura Sachkhere,Sioni Bolnisi,2,1,H,0,0,D
+GEO,14/09/2012,13:00,Dinamo Batumi,Metalurgi Rustavi,0,2,A,0,1,A
+GEO,15/09/2012,13:00,Kolkheti Poti,FC Zestafoni,0,2,A,0,0,D
+GEO,15/09/2012,13:00,Dila Gori,Dinamo Tbilisi,2,0,H,0,0,D
+GEO,15/09/2012,13:00,WIT Georgia,FC Zugdidi,0,0,D,0,0,D
+GEO,15/09/2012,16:00,Torpedo Kutaisi,FC Merani Martvili,4,0,H,3,0,H
+GEO,22/09/2012,13:00,FC Merani Martvili,Sioni Bolnisi,1,0,H,0,0,D
+GEO,22/09/2012,13:00,FC Zugdidi,Chikhura Sachkhere,4,2,H,2,2,D
+GEO,22/09/2012,13:00,Metalurgi Rustavi,Kolkheti Poti,2,1,H,0,1,A
+GEO,22/09/2012,15:00,FC Zestafoni,Dila Gori,0,1,A,0,0,D
+GEO,22/09/2012,15:00,Torpedo Kutaisi,Dinamo Batumi,5,1,H,3,1,H
+GEO,22/09/2012,16:00,Dinamo Tbilisi,WIT Georgia,5,0,H,1,0,H
+GEO,26/09/2012,13:00,Dinamo Batumi,FC Merani Martvili,4,0,H,1,0,H
+GEO,26/09/2012,13:00,Kolkheti Poti,Torpedo Kutaisi,1,1,D,1,1,D
+GEO,26/09/2012,13:00,Dila Gori,Metalurgi Rustavi,3,0,H,1,0,H
+GEO,26/09/2012,13:00,WIT Georgia,FC Zestafoni,2,3,A,1,1,D
+GEO,26/09/2012,13:00,Chikhura Sachkhere,Dinamo Tbilisi,0,0,D,0,0,D
+GEO,26/09/2012,13:00,Sioni Bolnisi,FC Zugdidi,0,0,D,0,0,D
+GEO,30/09/2012,13:00,FC Merani Martvili,FC Zugdidi,1,2,A,1,0,H
+GEO,30/09/2012,13:00,Metalurgi Rustavi,WIT Georgia,0,2,A,0,0,D
+GEO,30/09/2012,13:00,Dinamo Batumi,Kolkheti Poti,3,1,H,2,0,H
+GEO,30/09/2012,15:00,Dinamo Tbilisi,Sioni Bolnisi,7,2,H,3,0,H
+GEO,30/09/2012,15:00,FC Zestafoni,Chikhura Sachkhere,0,0,D,0,0,D
+GEO,30/09/2012,15:00,Torpedo Kutaisi,Dila Gori,0,1,A,0,0,D
+GEO,06/10/2012,12:00,Kolkheti Poti,FC Merani Martvili,0,1,A,0,1,A
+GEO,06/10/2012,12:00,FC Zugdidi,Dinamo Tbilisi,1,1,D,0,0,D
+GEO,07/10/2012,12:00,Dila Gori,Dinamo Batumi,2,0,H,1,0,H
+GEO,07/10/2012,12:00,WIT Georgia,Torpedo Kutaisi,1,3,A,0,2,A
+GEO,07/10/2012,12:00,Chikhura Sachkhere,Metalurgi Rustavi,1,0,H,1,0,H
+GEO,07/10/2012,12:00,Sioni Bolnisi,FC Zestafoni,0,2,A,0,2,A
+GEO,20/10/2012,12:00,Kolkheti Poti,Dila Gori,0,3,A,0,0,D
+GEO,20/10/2012,12:00,Metalurgi Rustavi,Sioni Bolnisi,1,0,H,1,0,H
+GEO,20/10/2012,12:00,Dinamo Batumi,WIT Georgia,0,1,A,0,0,D
+GEO,20/10/2012,12:00,FC Merani Martvili,Dinamo Tbilisi,0,4,A,0,4,A
+GEO,20/10/2012,15:00,FC Zestafoni,FC Zugdidi,1,0,H,1,0,H
+GEO,20/10/2012,15:00,Torpedo Kutaisi,Chikhura Sachkhere,3,1,H,1,1,D
+GEO,27/10/2012,12:00,Dila Gori,FC Merani Martvili,2,1,H,1,1,D
+GEO,27/10/2012,12:00,WIT Georgia,Kolkheti Poti,2,0,H,0,0,D
+GEO,27/10/2012,12:00,Chikhura Sachkhere,Dinamo Batumi,3,0,H,2,0,H
+GEO,27/10/2012,12:00,Sioni Bolnisi,Torpedo Kutaisi,0,2,A,0,0,D
+GEO,27/10/2012,12:00,FC Zugdidi,Metalurgi Rustavi,2,1,H,0,1,A
+GEO,27/10/2012,15:00,Dinamo Tbilisi,FC Zestafoni,2,1,H,1,0,H
+GEO,31/10/2012,11:00,FC Merani Martvili,FC Zestafoni,0,3,A,0,1,A
+GEO,31/10/2012,11:00,Dinamo Batumi,Sioni Bolnisi,0,1,A,0,0,D
+GEO,31/10/2012,11:00,Chikhura Sachkhere,Kolkheti Poti,2,1,H,1,1,D
+GEO,31/10/2012,11:00,WIT Georgia,Dila Gori,0,2,A,0,0,D
+GEO,31/10/2012,11:00,FC Zugdidi,Torpedo Kutaisi,2,1,H,0,1,A
+GEO,31/10/2012,13:00,Dinamo Tbilisi,Metalurgi Rustavi,3,0,H,1,0,H
+GEO,04/11/2012,10:00,Chikhura Sachkhere,Dila Gori,0,2,A,0,2,A
+GEO,04/11/2012,10:00,WIT Georgia,FC Merani Martvili,0,0,D,0,0,D
+GEO,04/11/2012,10:00,Kolkheti Poti,Sioni Bolnisi,0,1,A,0,0,D
+GEO,04/11/2012,10:00,Dinamo Batumi,FC Zugdidi,0,4,A,0,0,D
+GEO,04/11/2012,10:00,Metalurgi Rustavi,FC Zestafoni,1,1,D,0,1,A
+GEO,04/11/2012,14:00,Torpedo Kutaisi,Dinamo Tbilisi,2,2,D,1,1,D
+GEO,11/11/2012,10:00,FC Zugdidi,Kolkheti Poti,1,0,H,0,0,D
+GEO,11/11/2012,10:00,Sioni Bolnisi,Dila Gori,0,2,A,0,1,A
+GEO,11/11/2012,10:00,Chikhura Sachkhere,WIT Georgia,4,0,H,2,0,H
+GEO,11/11/2012,10:00,FC Merani Martvili,Metalurgi Rustavi,0,0,D,0,0,D
+GEO,11/11/2012,13:00,Dinamo Tbilisi,Dinamo Batumi,5,3,H,4,1,H
+GEO,11/11/2012,14:00,FC Zestafoni,Torpedo Kutaisi,1,0,H,1,0,H
+GEO,17/11/2012,10:00,Chikhura Sachkhere,FC Merani Martvili,1,0,H,1,0,H
+GEO,17/11/2012,10:00,WIT Georgia,Sioni Bolnisi,0,0,D,0,0,D
+GEO,18/11/2012,10:00,Dila Gori,FC Zugdidi,3,0,H,0,0,D
+GEO,18/11/2012,10:00,Kolkheti Poti,Dinamo Tbilisi,0,2,A,0,1,A
+GEO,18/11/2012,10:00,Dinamo Batumi,FC Zestafoni,3,3,D,1,1,D
+GEO,18/11/2012,14:00,Torpedo Kutaisi,Metalurgi Rustavi,1,0,H,1,0,H
+GEO,24/11/2012,10:00,FC Merani Martvili,Torpedo Kutaisi,3,0,H,1,0,H
+GEO,24/11/2012,10:00,Metalurgi Rustavi,Dinamo Batumi,2,1,H,1,0,H
+GEO,24/11/2012,10:00,FC Zugdidi,WIT Georgia,2,0,H,1,0,H
+GEO,24/11/2012,10:00,Sioni Bolnisi,Chikhura Sachkhere,0,3,A,0,1,A
+GEO,24/11/2012,13:00,FC Zestafoni,Kolkheti Poti,2,1,H,1,1,D
+GEO,24/11/2012,14:00,Dinamo Tbilisi,Dila Gori,3,0,H,1,0,H
+GEO,28/11/2012,10:00,Sioni Bolnisi,FC Merani Martvili,2,1,H,1,0,H
+GEO,28/11/2012,10:00,Chikhura Sachkhere,FC Zugdidi,2,0,H,1,0,H
+GEO,28/11/2012,10:00,Kolkheti Poti,Metalurgi Rustavi,2,3,A,1,1,D
+GEO,28/11/2012,10:00,Dinamo Batumi,Torpedo Kutaisi,0,2,A,0,1,A
+GEO,28/11/2012,10:00,WIT Georgia,Dinamo Tbilisi,1,1,D,1,1,D
+GEO,28/11/2012,10:00,Dila Gori,FC Zestafoni,1,0,H,0,0,D
+GEO,02/12/2012,10:00,FC Merani Martvili,Dinamo Batumi,3,1,H,1,0,H
+GEO,02/12/2012,10:00,FC Zugdidi,Sioni Bolnisi,2,0,H,0,0,D
+GEO,02/12/2012,10:00,Metalurgi Rustavi,Dila Gori,0,2,A,0,0,D
+GEO,02/12/2012,13:00,Torpedo Kutaisi,Kolkheti Poti,2,1,H,1,1,D
+GEO,02/12/2012,13:00,FC Zestafoni,WIT Georgia,1,2,A,1,1,D
+GEO,02/12/2012,14:00,Dinamo Tbilisi,Chikhura Sachkhere,5,2,H,2,2,D
+GEO,08/12/2012,10:00,FC Zugdidi,FC Merani Martvili,3,2,H,1,1,D
+GEO,08/12/2012,10:00,Sioni Bolnisi,Dinamo Tbilisi,0,5,A,0,3,A
+GEO,08/12/2012,10:00,WIT Georgia,Metalurgi Rustavi,0,1,A,0,0,D
+GEO,08/12/2012,10:00,Dila Gori,Torpedo Kutaisi,0,1,A,0,0,D
+GEO,08/12/2012,10:00,Kolkheti Poti,Dinamo Batumi,1,2,A,0,0,D
+GEO,11/12/2012,10:00,Chikhura Sachkhere,FC Zestafoni,3,1,H,2,1,H
+GEO,15/12/2012,10:00,FC Merani Martvili,Kolkheti Poti,4,0,H,1,0,H
+GEO,15/12/2012,10:00,Metalurgi Rustavi,Chikhura Sachkhere,1,1,D,1,1,D
+GEO,15/12/2012,10:00,Dinamo Batumi,Dila Gori,1,2,A,0,1,A
+GEO,15/12/2012,12:00,Torpedo Kutaisi,WIT Georgia,2,0,H,2,0,H
+GEO,15/12/2012,12:00,FC Zestafoni,Sioni Bolnisi,1,0,H,0,0,D
+GEO,15/12/2012,14:00,Dinamo Tbilisi,FC Zugdidi,2,0,H,2,0,H
+GEO,19/12/2012,10:00,FC Zugdidi,FC Zestafoni,0,3,A,0,1,A
+GEO,19/12/2012,10:00,Sioni Bolnisi,Metalurgi Rustavi,0,0,D,0,0,D
+GEO,19/12/2012,10:00,Chikhura Sachkhere,Torpedo Kutaisi,0,0,D,0,0,D
+GEO,19/12/2012,10:00,WIT Georgia,Dinamo Batumi,1,1,D,0,0,D
+GEO,19/12/2012,10:00,Dila Gori,Kolkheti Poti,1,0,H,1,0,H
+GEO,19/12/2012,13:00,Dinamo Tbilisi,FC Merani Martvili,3,1,H,2,0,H
+GEO,23/12/2012,10:00,FC Merani Martvili,Dila Gori,2,3,A,2,3,A
+GEO,23/12/2012,10:00,Kolkheti Poti,WIT Georgia,1,1,D,0,0,D
+GEO,23/12/2012,10:00,Dinamo Batumi,Chikhura Sachkhere,0,2,A,0,1,A
+GEO,23/12/2012,10:00,Torpedo Kutaisi,Sioni Bolnisi,4,1,H,2,0,H
+GEO,23/12/2012,10:00,Metalurgi Rustavi,FC Zugdidi,5,1,H,2,0,H
+GEO,23/12/2012,10:00,FC Zestafoni,Dinamo Tbilisi,2,1,H,1,1,D

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+JPN,01/03/2014,05:00,Vegalta Sendai,Albirex Niigata,1,2,A,0,1,A
+JPN,01/03/2014,05:00,Ventforet Kofu,Kashima Antlers,0,4,A,0,2,A
+JPN,01/03/2014,05:00,Nagoya Grampus,Shimizu S-Pulse,2,3,A,2,1,H
+JPN,01/03/2014,05:00,Cerezo Osaka,Sanfrecce Hiroshima,0,1,A,0,0,D
+JPN,01/03/2014,05:00,Sagan Tosu,Tokushima Vortis,5,0,H,2,0,H
+JPN,01/03/2014,06:00,Kashiwa Reysol,FC Tokyo,1,1,D,0,0,D
+JPN,01/03/2014,10:00,Gamba Osaka,Urawa Red Diamonds,0,1,A,0,1,A
+JPN,02/03/2014,04:00,Yokohama F. Marinos,Omiya Ardija,2,0,H,1,0,H
+JPN,02/03/2014,07:00,Kawasaki Frontale,Vissel Kobe,2,2,D,2,1,H
+JPN,08/03/2014,03:30,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,H,0,1,A
+JPN,08/03/2014,04:00,Albirex Niigata,Gamba Osaka,0,2,A,0,0,D
+JPN,08/03/2014,05:00,Tokushima Vortis,Cerezo Osaka,0,2,A,0,2,A
+JPN,08/03/2014,06:00,Omiya Ardija,Nagoya Grampus,1,2,A,0,0,D
+JPN,08/03/2014,06:00,FC Tokyo,Ventforet Kofu,1,1,D,1,0,H
+JPN,08/03/2014,06:00,Shimizu S-Pulse,Yokohama F. Marinos,0,1,A,0,1,A
+JPN,08/03/2014,06:00,Vissel Kobe,Kashiwa Reysol,1,1,D,0,1,A
+JPN,08/03/2014,07:00,Urawa Red Diamonds,Sagan Tosu,0,1,A,0,1,A
+JPN,08/03/2014,10:00,Kashima Antlers,Vegalta Sendai,2,0,H,1,0,H
+JPN,15/03/2014,04:00,Yokohama F. Marinos,Tokushima Vortis,3,0,H,1,0,H
+JPN,15/03/2014,05:00,Ventforet Kofu,Albirex Niigata,1,1,D,1,0,H
+JPN,15/03/2014,05:00,Sanfrecce Hiroshima,Urawa Red Diamonds,0,2,A,0,1,A
+JPN,15/03/2014,06:00,Kashiwa Reysol,Nagoya Grampus,0,1,A,0,0,D
+JPN,15/03/2014,06:00,Kawasaki Frontale,Omiya Ardija,3,4,A,1,2,A
+JPN,15/03/2014,06:00,Cerezo Osaka,Shimizu S-Pulse,4,1,H,2,1,H
+JPN,15/03/2014,06:00,Sagan Tosu,Kashima Antlers,0,3,A,0,1,A
+JPN,15/03/2014,08:00,Vegalta Sendai,Gamba Osaka,0,0,D,0,0,D
+JPN,15/03/2014,10:00,Vissel Kobe,FC Tokyo,2,1,H,0,0,D
+JPN,23/03/2014,04:00,Albirex Niigata,Sagan Tosu,1,0,H,1,0,H
+JPN,23/03/2014,05:00,Ventforet Kofu,Yokohama F. Marinos,1,0,H,0,0,D
+JPN,23/03/2014,05:00,Tokushima Vortis,Kashiwa Reysol,0,2,A,0,0,D
+JPN,23/03/2014,06:00,Kashima Antlers,Cerezo Osaka,0,2,A,0,1,A
+JPN,23/03/2014,06:00,Urawa Red Diamonds,Shimizu S-Pulse,1,1,D,0,1,A
+JPN,23/03/2014,06:00,Omiya Ardija,Vegalta Sendai,4,0,H,2,0,H
+JPN,23/03/2014,06:00,Nagoya Grampus,Vissel Kobe,2,1,H,1,1,D
+JPN,23/03/2014,07:00,Gamba Osaka,Sanfrecce Hiroshima,1,1,D,1,0,H
+JPN,23/03/2014,10:00,FC Tokyo,Kawasaki Frontale,0,4,A,0,2,A
+JPN,28/03/2014,10:00,Kawasaki Frontale,Nagoya Grampus,1,0,H,0,0,D
+JPN,29/03/2014,05:00,Vegalta Sendai,Ventforet Kofu,1,1,D,1,0,H
+JPN,29/03/2014,05:00,Yokohama F. Marinos,Kashima Antlers,1,3,A,1,0,H
+JPN,29/03/2014,05:00,Cerezo Osaka,Albirex Niigata,0,0,D,0,0,D
+JPN,29/03/2014,05:00,Sanfrecce Hiroshima,Tokushima Vortis,3,1,H,1,0,H
+JPN,29/03/2014,06:00,Kashiwa Reysol,Omiya Ardija,2,2,D,1,0,H
+JPN,29/03/2014,06:00,Shimizu S-Pulse,FC Tokyo,1,3,A,1,1,D
+JPN,29/03/2014,06:00,Vissel Kobe,Urawa Red Diamonds,3,1,H,0,1,A
+JPN,29/03/2014,10:00,Sagan Tosu,Gamba Osaka,2,0,H,0,0,D
+JPN,06/04/2014,05:00,Albirex Niigata,Yokohama F. Marinos,0,0,D,0,0,D
+JPN,06/04/2014,05:00,Nagoya Grampus,Sanfrecce Hiroshima,2,5,A,1,1,D
+JPN,06/04/2014,05:00,Tokushima Vortis,Kawasaki Frontale,0,4,A,0,2,A
+JPN,06/04/2014,07:00,Omiya Ardija,Vissel Kobe,0,3,A,0,2,A
+JPN,06/04/2014,07:00,Kashiwa Reysol,Cerezo Osaka,2,1,H,1,0,H
+JPN,06/04/2014,07:00,Ventforet Kofu,Shimizu S-Pulse,0,1,A,0,1,A
+JPN,06/04/2014,08:00,FC Tokyo,Sagan Tosu,2,1,H,0,0,D
+JPN,06/04/2014,08:00,Gamba Osaka,Kashima Antlers,0,2,A,0,1,A
+JPN,06/04/2014,11:00,Urawa Red Diamonds,Vegalta Sendai,4,0,H,1,0,H
+JPN,11/04/2014,11:00,Kawasaki Frontale,Kashiwa Reysol,1,1,D,0,1,A
+JPN,12/04/2014,06:00,Yokohama F. Marinos,Vegalta Sendai,0,2,A,0,0,D
+JPN,12/04/2014,06:00,Cerezo Osaka,Gamba Osaka,2,2,D,1,1,D
+JPN,12/04/2014,07:00,Kashima Antlers,Albirex Niigata,1,2,A,1,1,D
+JPN,12/04/2014,07:00,Shimizu S-Pulse,Omiya Ardija,2,0,H,0,0,D
+JPN,12/04/2014,07:00,Nagoya Grampus,Urawa Red Diamonds,1,2,A,1,0,H
+JPN,12/04/2014,07:00,Vissel Kobe,Tokushima Vortis,3,0,H,2,0,H
+JPN,12/04/2014,10:00,Sagan Tosu,Ventforet Kofu,2,0,H,1,0,H
+JPN,12/04/2014,11:00,Sanfrecce Hiroshima,FC Tokyo,1,0,H,0,0,D
+JPN,19/04/2014,06:00,Vegalta Sendai,Sagan Tosu,0,3,A,0,1,A
+JPN,19/04/2014,06:00,Tokushima Vortis,Shimizu S-Pulse,0,4,A,0,2,A
+JPN,19/04/2014,07:00,Kashima Antlers,Vissel Kobe,2,3,A,1,1,D
+JPN,19/04/2014,07:00,Kashiwa Reysol,Yokohama F. Marinos,0,0,D,0,0,D
+JPN,19/04/2014,08:00,FC Tokyo,Cerezo Osaka,2,0,H,0,0,D
+JPN,19/04/2014,08:00,Gamba Osaka,Omiya Ardija,2,1,H,0,0,D
+JPN,19/04/2014,09:00,Urawa Red Diamonds,Kawasaki Frontale,1,0,H,0,0,D
+JPN,19/04/2014,11:00,Ventforet Kofu,Nagoya Grampus,2,0,H,1,0,H
+JPN,20/04/2014,07:00,Albirex Niigata,Sanfrecce Hiroshima,0,0,D,0,0,D
+JPN,26/04/2014,05:00,Kashiwa Reysol,Urawa Red Diamonds,3,2,H,0,1,A
+JPN,26/04/2014,06:00,Yokohama F. Marinos,FC Tokyo,0,1,A,0,1,A
+JPN,26/04/2014,06:00,Shimizu S-Pulse,Vegalta Sendai,1,0,H,0,0,D
+JPN,26/04/2014,06:00,Tokushima Vortis,Albirex Niigata,1,2,A,0,2,A
+JPN,26/04/2014,07:00,Nagoya Grampus,Sagan Tosu,2,3,A,1,1,D
+JPN,26/04/2014,07:00,Vissel Kobe,Cerezo Osaka,2,2,D,1,0,H
+JPN,26/04/2014,08:00,Kawasaki Frontale,Gamba Osaka,2,1,H,1,1,D
+JPN,26/04/2014,09:00,Omiya Ardija,Ventforet Kofu,0,2,A,0,1,A
+JPN,26/04/2014,11:00,Sanfrecce Hiroshima,Kashima Antlers,0,3,A,0,2,A
+JPN,29/04/2014,05:00,FC Tokyo,Nagoya Grampus,0,1,A,0,0,D
+JPN,29/04/2014,05:00,Ventforet Kofu,Tokushima Vortis,0,1,A,0,0,D
+JPN,29/04/2014,06:00,Albirex Niigata,Vissel Kobe,1,1,D,0,0,D
+JPN,29/04/2014,06:00,Sagan Tosu,Sanfrecce Hiroshima,1,2,A,1,1,D
+JPN,29/04/2014,07:00,Kashima Antlers,Shimizu S-Pulse,2,1,H,1,0,H
+JPN,29/04/2014,08:00,Vegalta Sendai,Kawasaki Frontale,0,0,D,0,0,D
+JPN,29/04/2014,08:00,Urawa Red Diamonds,Yokohama F. Marinos,1,0,H,0,0,D
+JPN,29/04/2014,08:00,Gamba Osaka,Kashiwa Reysol,1,2,A,1,2,A
+JPN,29/04/2014,11:00,Cerezo Osaka,Omiya Ardija,1,1,D,0,0,D
+JPN,03/05/2014,05:00,Kashiwa Reysol,Kashima Antlers,1,0,H,1,0,H
+JPN,03/05/2014,06:00,Yokohama F. Marinos,Gamba Osaka,2,0,H,0,0,D
+JPN,03/05/2014,06:00,Tokushima Vortis,Vegalta Sendai,0,1,A,0,1,A
+JPN,03/05/2014,07:00,Kawasaki Frontale,Ventforet Kofu,2,0,H,0,0,D
+JPN,03/05/2014,07:00,Shimizu S-Pulse,Sagan Tosu,0,1,A,0,1,A
+JPN,03/05/2014,07:00,Vissel Kobe,Sanfrecce Hiroshima,0,0,D,0,0,D
+JPN,03/05/2014,08:00,Urawa Red Diamonds,FC Tokyo,1,0,H,0,0,D
+JPN,03/05/2014,09:00,Omiya Ardija,Albirex Niigata,2,2,D,1,1,D
+JPN,03/05/2014,11:00,Nagoya Grampus,Cerezo Osaka,1,2,A,0,1,A
+JPN,06/05/2014,05:00,Vegalta Sendai,Vissel Kobe,4,3,H,0,2,A
+JPN,06/05/2014,05:00,FC Tokyo,Omiya Ardija,0,1,A,0,0,D
+JPN,06/05/2014,06:00,Albirex Niigata,Shimizu S-Pulse,2,1,H,0,0,D
+JPN,06/05/2014,07:00,Kashima Antlers,Nagoya Grampus,1,2,A,1,1,D
+JPN,06/05/2014,07:00,Sagan Tosu,Kashiwa Reysol,1,0,H,1,0,H
+JPN,06/05/2014,08:00,Ventforet Kofu,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,06/05/2014,11:00,Gamba Osaka,Tokushima Vortis,3,0,H,1,0,H
+JPN,15/07/2014,11:00,Sanfrecce Hiroshima,Yokohama F. Marinos,1,2,A,0,0,D
+JPN,15/07/2014,11:00,Cerezo Osaka,Kawasaki Frontale,1,2,A,1,0,H
+JPN,10/05/2014,05:00,Nagoya Grampus,Gamba Osaka,1,2,A,0,0,D
+JPN,10/05/2014,06:00,Yokohama F. Marinos,Sagan Tosu,1,2,A,0,2,A
+JPN,10/05/2014,06:00,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,D,1,0,H
+JPN,10/05/2014,06:00,Tokushima Vortis,FC Tokyo,0,0,D,0,0,D
+JPN,10/05/2014,07:00,Kawasaki Frontale,Kashima Antlers,4,1,H,1,1,D
+JPN,10/05/2014,07:00,Vissel Kobe,Ventforet Kofu,1,0,H,1,0,H
+JPN,10/05/2014,08:00,Omiya Ardija,Urawa Red Diamonds,0,2,A,0,1,A
+JPN,10/05/2014,08:00,Cerezo Osaka,Vegalta Sendai,0,1,A,0,0,D
+JPN,10/05/2014,11:00,Kashiwa Reysol,Albirex Niigata,1,0,H,0,0,D
+JPN,17/05/2014,05:00,Ventforet Kofu,Kashiwa Reysol,3,0,H,1,0,H
+JPN,17/05/2014,06:00,Urawa Red Diamonds,Cerezo Osaka,1,0,H,0,0,D
+JPN,17/05/2014,06:00,Shimizu S-Pulse,Vissel Kobe,1,1,D,0,0,D
+JPN,17/05/2014,07:00,Albirex Niigata,Nagoya Grampus,1,1,D,1,1,D
+JPN,17/05/2014,07:00,Sagan Tosu,Omiya Ardija,1,1,D,0,0,D
+JPN,17/05/2014,10:00,FC Tokyo,Gamba Osaka,3,0,H,2,0,H
+JPN,17/05/2014,11:00,Kashima Antlers,Tokushima Vortis,1,0,H,1,0,H
+JPN,18/05/2014,05:00,Vegalta Sendai,Sanfrecce Hiroshima,1,0,H,1,0,H
+JPN,18/05/2014,07:00,Kawasaki Frontale,Yokohama F. Marinos,0,3,A,0,1,A
+JPN,19/07/2014,10:00,Urawa Red Diamonds,Albirex Niigata,1,0,H,1,0,H
+JPN,19/07/2014,10:00,Shimizu S-Pulse,Kawasaki Frontale,0,2,A,0,0,D
+JPN,19/07/2014,10:30,FC Tokyo,Kashima Antlers,1,1,D,0,0,D
+JPN,19/07/2014,11:00,Omiya Ardija,Sanfrecce Hiroshima,3,3,D,0,3,A
+JPN,19/07/2014,11:00,Nagoya Grampus,Tokushima Vortis,1,1,D,1,1,D
+JPN,19/07/2014,11:00,Gamba Osaka,Ventforet Kofu,2,0,H,2,0,H
+JPN,19/07/2014,11:00,Cerezo Osaka,Yokohama F. Marinos,2,2,D,1,0,H
+JPN,19/07/2014,11:00,Vissel Kobe,Sagan Tosu,0,1,A,0,0,D
+JPN,19/07/2014,12:00,Kashiwa Reysol,Vegalta Sendai,0,0,D,0,0,D
+JPN,23/07/2014,11:00,Vegalta Sendai,Nagoya Grampus,3,3,D,1,0,H
+JPN,23/07/2014,11:00,Kashima Antlers,Omiya Ardija,2,2,D,1,0,H
+JPN,23/07/2014,11:00,Ventforet Kofu,Cerezo Osaka,0,0,D,0,0,D
+JPN,23/07/2014,11:00,Albirex Niigata,FC Tokyo,0,1,A,0,1,A
+JPN,23/07/2014,11:00,Gamba Osaka,Shimizu S-Pulse,4,0,H,2,0,H
+JPN,23/07/2014,11:00,Sanfrecce Hiroshima,Kashiwa Reysol,5,2,H,2,1,H
+JPN,23/07/2014,11:00,Tokushima Vortis,Urawa Red Diamonds,0,2,A,0,1,A
+JPN,23/07/2014,11:00,Sagan Tosu,Kawasaki Frontale,0,1,A,0,0,D
+JPN,23/07/2014,11:30,Yokohama F. Marinos,Vissel Kobe,1,1,D,1,1,D
+JPN,27/07/2014,10:00,Urawa Red Diamonds,Kashima Antlers,1,1,D,1,1,D
+JPN,27/07/2014,10:00,Shimizu S-Pulse,Kashiwa Reysol,3,0,H,1,0,H
+JPN,27/07/2014,10:30,FC Tokyo,Vegalta Sendai,3,0,H,3,0,H
+JPN,27/07/2014,11:00,Omiya Ardija,Tokushima Vortis,1,3,A,1,2,A
+JPN,27/07/2014,11:00,Kawasaki Frontale,Albirex Niigata,1,0,H,0,0,D
+JPN,27/07/2014,11:00,Nagoya Grampus,Yokohama F. Marinos,1,1,D,0,1,A
+JPN,27/07/2014,11:00,Cerezo Osaka,Sagan Tosu,0,1,A,0,0,D
+JPN,27/07/2014,11:00,Vissel Kobe,Gamba Osaka,1,5,A,1,3,A
+JPN,27/07/2014,11:00,Sanfrecce Hiroshima,Ventforet Kofu,1,1,D,0,1,A
+JPN,02/08/2014,10:00,Gamba Osaka,Yokohama F. Marinos,2,0,H,0,0,D
+JPN,02/08/2014,10:30,Kashima Antlers,Sanfrecce Hiroshima,5,1,H,1,0,H
+JPN,02/08/2014,10:30,FC Tokyo,Shimizu S-Pulse,4,0,H,3,0,H
+JPN,02/08/2014,10:30,Tokushima Vortis,Ventforet Kofu,2,2,D,2,1,H
+JPN,02/08/2014,11:00,Vegalta Sendai,Omiya Ardija,2,2,D,1,1,D
+JPN,02/08/2014,11:00,Urawa Red Diamonds,Vissel Kobe,2,2,D,1,0,H
+JPN,02/08/2014,11:00,Kashiwa Reysol,Kawasaki Frontale,4,1,H,1,1,D
+JPN,02/08/2014,11:00,Albirex Niigata,Cerezo Osaka,1,0,H,0,0,D
+JPN,02/08/2014,11:00,Sagan Tosu,Nagoya Grampus,1,0,H,0,0,D
+JPN,09/08/2014,10:00,Shimizu S-Pulse,Tokushima Vortis,1,0,H,0,0,D
+JPN,09/08/2014,10:30,Ventforet Kofu,Vegalta Sendai,0,0,D,0,0,D
+JPN,09/08/2014,11:00,Omiya Ardija,Gamba Osaka,0,2,A,0,1,A
+JPN,09/08/2014,11:00,Kawasaki Frontale,Urawa Red Diamonds,2,1,H,1,1,D
+JPN,09/08/2014,11:00,Yokohama F. Marinos,Kashiwa Reysol,2,2,D,2,1,H
+JPN,09/08/2014,11:00,Nagoya Grampus,Kashima Antlers,2,3,A,1,1,D
+JPN,09/08/2014,11:00,Cerezo Osaka,FC Tokyo,0,0,D,0,0,D
+JPN,09/08/2014,11:00,Vissel Kobe,Albirex Niigata,1,0,H,0,0,D
+JPN,11/08/2014,11:00,Sanfrecce Hiroshima,Sagan Tosu,1,0,H,0,0,D
+JPN,16/08/2014,10:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,0,H,1,0,H
+JPN,16/08/2014,10:00,Gamba Osaka,Nagoya Grampus,0,1,A,0,0,D
+JPN,16/08/2014,10:30,Kashima Antlers,Ventforet Kofu,1,0,H,1,0,H
+JPN,16/08/2014,11:00,Vegalta Sendai,Shimizu S-Pulse,3,2,H,2,1,H
+JPN,16/08/2014,11:00,Kashiwa Reysol,Vissel Kobe,2,0,H,2,0,H
+JPN,16/08/2014,11:00,Kawasaki Frontale,Cerezo Osaka,5,4,H,4,1,H
+JPN,16/08/2014,11:00,Albirex Niigata,Omiya Ardija,2,1,H,1,0,H
+JPN,16/08/2014,11:00,Tokushima Vortis,Yokohama F. Marinos,0,3,A,0,2,A
+JPN,16/08/2014,11:00,Sagan Tosu,FC Tokyo,0,2,A,0,1,A
+JPN,23/08/2014,10:00,Shimizu S-Pulse,Kashima Antlers,1,3,A,1,0,H
+JPN,23/08/2014,10:30,FC Tokyo,Urawa Red Diamonds,4,4,D,3,2,H
+JPN,23/08/2014,10:30,Ventforet Kofu,Gamba Osaka,3,3,D,1,0,H
+JPN,23/08/2014,11:00,Omiya Ardija,Sagan Tosu,1,3,A,1,1,D
+JPN,23/08/2014,11:00,Yokohama F. Marinos,Kawasaki Frontale,2,0,H,1,0,H
+JPN,23/08/2014,11:00,Albirex Niigata,Tokushima Vortis,1,2,A,1,2,A
+JPN,23/08/2014,11:00,Nagoya Grampus,Kashiwa Reysol,1,1,D,1,0,H
+JPN,23/08/2014,11:00,Vissel Kobe,Vegalta Sendai,2,1,H,0,1,A
+JPN,23/08/2014,11:00,Sanfrecce Hiroshima,Cerezo Osaka,0,0,D,0,0,D
+JPN,30/08/2014,10:00,Urawa Red Diamonds,Omiya Ardija,4,0,H,2,0,H
+JPN,30/08/2014,10:00,Gamba Osaka,Albirex Niigata,5,0,H,3,0,H
+JPN,30/08/2014,10:30,Tokushima Vortis,Sanfrecce Hiroshima,0,1,A,0,1,A
+JPN,30/08/2014,11:00,Vegalta Sendai,Yokohama F. Marinos,1,2,A,1,1,D
+JPN,30/08/2014,11:00,Kashima Antlers,FC Tokyo,2,2,D,2,0,H
+JPN,30/08/2014,11:00,Kashiwa Reysol,Ventforet Kofu,3,0,H,1,0,H
+JPN,30/08/2014,11:00,Nagoya Grampus,Kawasaki Frontale,1,1,D,1,1,D
+JPN,30/08/2014,11:00,Cerezo Osaka,Vissel Kobe,1,2,A,1,0,H
+JPN,30/08/2014,11:00,Sagan Tosu,Shimizu S-Pulse,2,2,D,0,0,D
+JPN,13/09/2014,07:00,Shimizu S-Pulse,Urawa Red Diamonds,1,4,A,0,2,A
+JPN,13/09/2014,10:00,Omiya Ardija,Kashima Antlers,2,1,H,1,0,H
+JPN,13/09/2014,10:30,FC Tokyo,Vissel Kobe,1,1,D,0,0,D
+JPN,13/09/2014,10:30,Ventforet Kofu,Sagan Tosu,1,0,H,0,0,D
+JPN,13/09/2014,11:00,Kawasaki Frontale,Tokushima Vortis,4,0,H,2,0,H
+JPN,13/09/2014,11:00,Yokohama F. Marinos,Nagoya Grampus,0,2,A,0,1,A
+JPN,13/09/2014,11:00,Albirex Niigata,Vegalta Sendai,1,0,H,0,0,D
+JPN,13/09/2014,11:00,Cerezo Osaka,Kashiwa Reysol,2,0,H,1,0,H
+JPN,13/09/2014,11:00,Sanfrecce Hiroshima,Gamba Osaka,0,1,A,0,1,A
+JPN,20/09/2014,07:00,Nagoya Grampus,Ventforet Kofu,2,0,H,1,0,H
+JPN,20/09/2014,08:00,Gamba Osaka,Cerezo Osaka,2,0,H,1,0,H
+JPN,20/09/2014,11:00,Kashima Antlers,Yokohama F. Marinos,1,0,H,1,0,H
+JPN,20/09/2014,11:00,Urawa Red Diamonds,Kashiwa Reysol,3,1,H,2,1,H
+JPN,20/09/2014,11:00,Kawasaki Frontale,FC Tokyo,0,0,D,0,0,D
+JPN,20/09/2014,11:00,Vissel Kobe,Shimizu S-Pulse,3,1,H,2,0,H
+JPN,20/09/2014,11:00,Sanfrecce Hiroshima,Albirex Niigata,2,0,H,1,0,H
+JPN,20/09/2014,11:00,Tokushima Vortis,Omiya Ardija,0,2,A,0,0,D
+JPN,20/09/2014,11:00,Sagan Tosu,Vegalta Sendai,2,1,H,0,0,D
+JPN,23/09/2014,06:00,Vegalta Sendai,Kashima Antlers,0,1,A,0,1,A
+JPN,23/09/2014,06:00,Shimizu S-Pulse,Gamba Osaka,0,3,A,0,1,A
+JPN,23/09/2014,06:30,Albirex Niigata,Urawa Red Diamonds,0,2,A,0,1,A
+JPN,23/09/2014,07:00,FC Tokyo,Tokushima Vortis,4,0,H,1,0,H
+JPN,23/09/2014,07:00,Yokohama F. Marinos,Sanfrecce Hiroshima,1,0,H,0,0,D
+JPN,23/09/2014,07:30,Omiya Ardija,Kawasaki Frontale,1,3,A,0,1,A
+JPN,23/09/2014,10:00,Ventforet Kofu,Vissel Kobe,2,0,H,1,0,H
+JPN,23/09/2014,11:00,Kashiwa Reysol,Sagan Tosu,2,0,H,0,0,D
+JPN,23/09/2014,11:00,Cerezo Osaka,Nagoya Grampus,1,2,A,0,2,A
+JPN,27/09/2014,06:00,Yokohama F. Marinos,Ventforet Kofu,0,0,D,0,0,D
+JPN,27/09/2014,07:30,Sanfrecce Hiroshima,Vissel Kobe,1,1,D,0,0,D
+JPN,27/09/2014,08:00,FC Tokyo,Kashiwa Reysol,4,0,H,2,0,H
+JPN,27/09/2014,10:00,Omiya Ardija,Shimizu S-Pulse,2,1,H,1,0,H
+JPN,27/09/2014,10:00,Gamba Osaka,Sagan Tosu,4,1,H,1,1,D
+JPN,27/09/2014,11:00,Kawasaki Frontale,Vegalta Sendai,1,1,D,0,1,A
+JPN,27/09/2014,11:00,Cerezo Osaka,Urawa Red Diamonds,1,0,H,0,0,D
+JPN,27/09/2014,11:00,Tokushima Vortis,Kashima Antlers,0,5,A,0,2,A
+JPN,27/09/2014,11:30,Nagoya Grampus,Albirex Niigata,0,1,A,0,0,D
+JPN,05/10/2014,04:30,Kashima Antlers,Gamba Osaka,2,3,A,1,1,D
+JPN,05/10/2014,06:00,Urawa Red Diamonds,Tokushima Vortis,2,1,H,1,1,D
+JPN,05/10/2014,06:00,Shimizu S-Pulse,Cerezo Osaka,3,0,H,1,0,H
+JPN,05/10/2014,07:00,Vissel Kobe,Nagoya Grampus,1,3,A,1,2,A
+JPN,05/10/2014,07:00,Sagan Tosu,Yokohama F. Marinos,1,0,H,1,0,H
+JPN,05/10/2014,07:30,Vegalta Sendai,FC Tokyo,1,0,H,0,0,D
+JPN,05/10/2014,07:30,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,D,0,0,D
+JPN,05/10/2014,09:00,Ventforet Kofu,Omiya Ardija,0,1,A,0,0,D
+JPN,05/10/2014,11:00,Albirex Niigata,Kawasaki Frontale,3,0,H,1,0,H
+JPN,18/10/2014,05:00,Tokushima Vortis,Vissel Kobe,2,2,D,1,1,D
+JPN,18/10/2014,06:00,Vegalta Sendai,Urawa Red Diamonds,4,2,H,2,2,D
+JPN,18/10/2014,06:00,Kashima Antlers,Kashiwa Reysol,2,3,A,1,1,D
+JPN,18/10/2014,06:00,Gamba Osaka,Kawasaki Frontale,1,0,H,0,0,D
+JPN,18/10/2014,07:00,Yokohama F. Marinos,Shimizu S-Pulse,1,0,H,0,0,D
+JPN,18/10/2014,07:00,Albirex Niigata,Ventforet Kofu,0,0,D,0,0,D
+JPN,18/10/2014,08:00,Sanfrecce Hiroshima,Nagoya Grampus,4,0,H,0,0,D
+JPN,18/10/2014,09:00,Omiya Ardija,FC Tokyo,1,0,H,1,0,H
+JPN,18/10/2014,11:00,Sagan Tosu,Cerezo Osaka,1,0,H,0,0,D
+JPN,22/10/2014,11:00,Urawa Red Diamonds,Ventforet Kofu,0,0,D,0,0,D
+JPN,22/10/2014,11:00,Omiya Ardija,Yokohama F. Marinos,2,3,A,1,1,D
+JPN,22/10/2014,11:00,Kashiwa Reysol,Gamba Osaka,1,0,H,0,0,D
+JPN,22/10/2014,11:00,FC Tokyo,Sanfrecce Hiroshima,2,1,H,1,0,H
+JPN,22/10/2014,11:00,Kawasaki Frontale,Sagan Tosu,2,0,H,0,0,D
+JPN,22/10/2014,11:00,Shimizu S-Pulse,Albirex Niigata,2,1,H,1,0,H
+JPN,22/10/2014,11:00,Nagoya Grampus,Vegalta Sendai,0,0,D,0,0,D
+JPN,22/10/2014,11:00,Cerezo Osaka,Tokushima Vortis,3,1,H,1,1,D
+JPN,22/10/2014,11:00,Vissel Kobe,Kashima Antlers,0,0,D,0,0,D
+JPN,26/10/2014,04:00,Vegalta Sendai,Kashiwa Reysol,1,2,A,1,1,D
+JPN,26/10/2014,07:00,Vissel Kobe,Omiya Ardija,2,1,H,1,1,D
+JPN,26/10/2014,07:00,Sagan Tosu,Albirex Niigata,0,2,A,0,1,A
+JPN,26/10/2014,10:00,Kashima Antlers,Urawa Red Diamonds,1,1,D,1,0,H
+JPN,26/10/2014,10:00,Yokohama F. Marinos,Cerezo Osaka,0,0,D,0,0,D
+JPN,26/10/2014,10:00,Ventforet Kofu,Kawasaki Frontale,2,1,H,1,1,D
+JPN,26/10/2014,10:00,Shimizu S-Pulse,Sanfrecce Hiroshima,1,3,A,0,2,A
+JPN,26/10/2014,10:00,Gamba Osaka,FC Tokyo,2,1,H,0,0,D
+JPN,26/10/2014,10:00,Tokushima Vortis,Nagoya Grampus,0,2,A,0,0,D
+JPN,02/11/2014,04:00,Nagoya Grampus,FC Tokyo,2,2,D,2,1,H
+JPN,02/11/2014,04:00,Gamba Osaka,Vegalta Sendai,1,1,D,0,0,D
+JPN,02/11/2014,04:00,Cerezo Osaka,Ventforet Kofu,1,3,A,1,0,H
+JPN,02/11/2014,07:00,Kashiwa Reysol,Tokushima Vortis,2,0,H,2,0,H
+JPN,02/11/2014,07:00,Kawasaki Frontale,Shimizu S-Pulse,2,3,A,2,1,H
+JPN,02/11/2014,07:00,Albirex Niigata,Kashima Antlers,1,2,A,1,0,H
+JPN,02/11/2014,07:00,Sanfrecce Hiroshima,Omiya Ardija,1,1,D,0,1,A
+JPN,02/11/2014,10:00,Sagan Tosu,Vissel Kobe,2,1,H,0,0,D
+JPN,03/11/2014,08:00,Yokohama F. Marinos,Urawa Red Diamonds,0,1,A,0,0,D
+JPN,22/11/2014,05:00,Kashima Antlers,Kawasaki Frontale,2,1,H,1,0,H
+JPN,22/11/2014,05:00,Urawa Red Diamonds,Gamba Osaka,0,2,A,0,0,D
+JPN,22/11/2014,05:00,Ventforet Kofu,Sanfrecce Hiroshima,2,0,H,0,0,D
+JPN,22/11/2014,05:00,Vissel Kobe,Yokohama F. Marinos,1,2,A,1,1,D
+JPN,22/11/2014,05:00,Tokushima Vortis,Sagan Tosu,0,1,A,0,0,D
+JPN,22/11/2014,08:00,Vegalta Sendai,Cerezo Osaka,3,3,D,2,1,H
+JPN,22/11/2014,08:00,Omiya Ardija,Kashiwa Reysol,1,2,A,1,1,D
+JPN,22/11/2014,08:00,FC Tokyo,Albirex Niigata,1,3,A,1,1,D
+JPN,22/11/2014,08:00,Shimizu S-Pulse,Nagoya Grampus,2,2,D,1,1,D
+JPN,29/11/2014,05:00,Kashiwa Reysol,Shimizu S-Pulse,3,1,H,2,0,H
+JPN,29/11/2014,05:00,Kawasaki Frontale,Sanfrecce Hiroshima,1,1,D,1,0,H
+JPN,29/11/2014,05:00,Gamba Osaka,Vissel Kobe,3,1,H,2,0,H
+JPN,29/11/2014,05:00,Cerezo Osaka,Kashima Antlers,1,4,A,0,1,A
+JPN,29/11/2014,05:00,Sagan Tosu,Urawa Red Diamonds,1,1,D,0,0,D
+JPN,29/11/2014,08:00,Vegalta Sendai,Tokushima Vortis,2,1,H,1,0,H
+JPN,29/11/2014,08:00,Yokohama F. Marinos,Albirex Niigata,1,0,H,0,0,D
+JPN,29/11/2014,08:00,Ventforet Kofu,FC Tokyo,0,0,D,0,0,D
+JPN,29/11/2014,08:00,Nagoya Grampus,Omiya Ardija,2,1,H,1,0,H
+JPN,06/12/2014,06:30,Kashima Antlers,Sagan Tosu,0,1,A,0,1,A
+JPN,06/12/2014,06:30,Urawa Red Diamonds,Nagoya Grampus,1,2,A,1,0,H
+JPN,06/12/2014,06:30,Omiya Ardija,Cerezo Osaka,2,0,H,1,0,H
+JPN,06/12/2014,06:30,FC Tokyo,Yokohama F. Marinos,1,1,D,1,0,H
+JPN,06/12/2014,06:30,Shimizu S-Pulse,Ventforet Kofu,0,0,D,0,0,D
+JPN,06/12/2014,06:30,Vissel Kobe,Kawasaki Frontale,1,2,A,0,1,A
+JPN,06/12/2014,06:30,Sanfrecce Hiroshima,Vegalta Sendai,2,0,H,0,0,D
+JPN,06/12/2014,06:30,Tokushima Vortis,Gamba Osaka,0,0,D,0,0,D
+JPN,08/12/2014,10:00,Albirex Niigata,Kashiwa Reysol,0,2,A,0,0,D

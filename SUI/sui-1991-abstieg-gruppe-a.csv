@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,03/03/1991,13:30,FC Baden,FC Wettingen,1,3,A,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Basel,Etoile Carouge FC,3,1,H,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Chiasso,FC St. Gallen,0,3,A,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Fribourg,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,10/03/1991,13:30,Etoile Carouge FC,FC Baden,2,1,H,NaN,NaN,NaN
+SUI,10/03/1991,13:30,FC St. Gallen,FC Fribourg,6,1,H,NaN,NaN,NaN
+SUI,10/03/1991,13:30,FC Wettingen,FC Chiasso,1,1,D,NaN,NaN,NaN
+SUI,10/03/1991,13:30,Yverdon-Sport FC,FC Basel,2,0,H,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Baden,Yverdon-Sport FC,2,1,H,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Basel,FC St. Gallen,0,1,A,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Chiasso,Etoile Carouge FC,1,0,H,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Fribourg,FC Wettingen,2,0,H,NaN,NaN,NaN
+SUI,27/03/1991,19:00,FC St. Gallen,FC Baden,2,0,H,NaN,NaN,NaN
+SUI,27/03/1991,19:00,FC Wettingen,FC Basel,1,3,A,NaN,NaN,NaN
+SUI,27/03/1991,19:00,Yverdon-Sport FC,FC Chiasso,2,1,H,NaN,NaN,NaN
+SUI,27/03/1991,19:00,Etoile Carouge FC,FC Fribourg,3,2,H,NaN,NaN,NaN
+SUI,06/04/1991,16:30,FC Baden,FC Chiasso,1,1,D,NaN,NaN,NaN
+SUI,06/04/1991,16:30,Etoile Carouge FC,Yverdon-Sport FC,0,5,A,NaN,NaN,NaN
+SUI,06/04/1991,16:30,FC St. Gallen,FC Wettingen,3,0,H,NaN,NaN,NaN
+SUI,06/04/1991,19:00,FC Fribourg,FC Basel,2,2,D,NaN,NaN,NaN
+SUI,13/04/1991,16:30,Yverdon-Sport FC,FC St. Gallen,1,4,A,NaN,NaN,NaN
+SUI,13/04/1991,19:00,FC Basel,FC Baden,1,4,A,NaN,NaN,NaN
+SUI,13/04/1991,19:00,FC Chiasso,FC Fribourg,2,0,H,NaN,NaN,NaN
+SUI,13/04/1991,19:00,FC Wettingen,Etoile Carouge FC,1,0,H,NaN,NaN,NaN
+SUI,20/04/1991,16:30,FC Baden,FC Fribourg,2,2,D,NaN,NaN,NaN
+SUI,20/04/1991,16:30,Etoile Carouge FC,FC St. Gallen,1,5,A,NaN,NaN,NaN
+SUI,20/04/1991,16:30,Yverdon-Sport FC,FC Wettingen,1,1,D,NaN,NaN,NaN
+SUI,20/04/1991,19:00,FC Chiasso,FC Basel,0,0,D,NaN,NaN,NaN
+SUI,04/05/1991,16:30,FC St. Gallen,Etoile Carouge FC,2,3,A,NaN,NaN,NaN
+SUI,04/05/1991,19:00,FC Fribourg,FC Baden,0,1,A,NaN,NaN,NaN
+SUI,04/05/1991,19:00,FC Basel,FC Chiasso,3,0,H,NaN,NaN,NaN
+SUI,04/05/1991,19:00,FC Wettingen,Yverdon-Sport FC,1,0,H,NaN,NaN,NaN
+SUI,11/05/1991,16:30,FC Baden,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,11/05/1991,16:30,Etoile Carouge FC,FC Wettingen,0,1,A,NaN,NaN,NaN
+SUI,11/05/1991,16:30,FC St. Gallen,Yverdon-Sport FC,1,1,D,NaN,NaN,NaN
+SUI,11/05/1991,19:00,FC Fribourg,FC Chiasso,1,3,A,NaN,NaN,NaN
+SUI,17/05/1991,19:00,FC Wettingen,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,18/05/1991,19:00,FC Chiasso,FC Baden,3,2,H,NaN,NaN,NaN
+SUI,18/05/1991,19:00,FC Basel,FC Fribourg,0,0,D,NaN,NaN,NaN
+SUI,18/05/1991,19:00,Yverdon-Sport FC,Etoile Carouge FC,3,1,H,NaN,NaN,NaN
+SUI,25/05/1991,16:30,FC Baden,FC St. Gallen,0,1,A,NaN,NaN,NaN
+SUI,25/05/1991,19:00,FC Basel,FC Wettingen,1,2,A,NaN,NaN,NaN
+SUI,25/05/1991,19:00,FC Chiasso,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,25/05/1991,19:00,FC Fribourg,Etoile Carouge FC,2,1,H,NaN,NaN,NaN
+SUI,01/06/1991,16:30,FC St. Gallen,FC Basel,1,0,H,NaN,NaN,NaN
+SUI,01/06/1991,19:00,Yverdon-Sport FC,FC Baden,4,1,H,NaN,NaN,NaN
+SUI,01/06/1991,19:00,Etoile Carouge FC,FC Chiasso,2,3,A,NaN,NaN,NaN
+SUI,01/06/1991,19:00,FC Wettingen,FC Fribourg,2,0,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Baden,Etoile Carouge FC,2,0,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Fribourg,FC St. Gallen,1,2,A,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Chiasso,FC Wettingen,1,5,A,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Basel,Yverdon-Sport FC,3,0,H,NaN,NaN,NaN
+SUI,11/06/1991,19:00,Yverdon-Sport FC,FC Fribourg,1,3,A,NaN,NaN,NaN
+SUI,12/06/1991,19:00,FC Wettingen,FC Baden,5,1,H,NaN,NaN,NaN
+SUI,12/06/1991,19:00,Etoile Carouge FC,FC Basel,2,1,H,NaN,NaN,NaN
+SUI,12/06/1991,19:00,FC St. Gallen,FC Chiasso,1,1,D,NaN,NaN,NaN

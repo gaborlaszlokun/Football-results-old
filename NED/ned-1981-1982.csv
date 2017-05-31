@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,15/08/1981,,AZ '67 Alkmaar,NAC Breda,4,0,H,0,0,D
+NED,15/08/1981,,SBV Haarlem,Sparta Rotterdam,0,0,D,0,0,D
+NED,15/08/1981,,MVV,FC Twente,3,1,H,0,1,A
+NED,15/08/1981,,NEC Nijmegen,FC Groningen,2,2,D,1,1,D
+NED,15/08/1981,,PEC Zwolle,De Graafschap,3,1,H,1,0,H
+NED,16/08/1981,,FC Utrecht,Go Ahead Eagles,2,0,H,0,0,D
+NED,16/08/1981,,Feyenoord,FC Den Haag,2,1,H,0,0,D
+NED,16/08/1981,,Roda JC Kerkrade,PSV Eindhoven,2,3,A,2,1,H
+NED,16/08/1981,,Willem II,AFC Ajax,1,7,A,0,3,A
+NED,19/08/1981,,AFC Ajax,Feyenoord,1,1,D,1,0,H
+NED,19/08/1981,,De Graafschap,Willem II,0,0,D,0,0,D
+NED,19/08/1981,,FC Den Haag,NEC Nijmegen,0,1,A,0,1,A
+NED,19/08/1981,,FC Groningen,SBV Haarlem,1,1,D,0,1,A
+NED,19/08/1981,,FC Twente,PEC Zwolle,2,0,H,0,0,D
+NED,19/08/1981,,Go Ahead Eagles,MVV,4,1,H,1,0,H
+NED,19/08/1981,,NAC Breda,Roda JC Kerkrade,3,1,H,2,1,H
+NED,19/08/1981,,PSV Eindhoven,FC Utrecht,3,1,H,2,1,H
+NED,19/08/1981,,Sparta Rotterdam,AZ '67 Alkmaar,2,2,D,0,1,A
+NED,22/08/1981,,De Graafschap,FC Twente,1,6,A,0,3,A
+NED,22/08/1981,,FC Den Haag,Willem II,3,1,H,2,0,H
+NED,22/08/1981,,Go Ahead Eagles,Roda JC Kerkrade,0,0,D,0,0,D
+NED,22/08/1981,,NAC Breda,SBV Haarlem,2,0,H,1,0,H
+NED,22/08/1981,,PSV Eindhoven,AZ '67 Alkmaar,2,4,A,1,3,A
+NED,23/08/1981,,AFC Ajax,PEC Zwolle,5,1,H,4,0,H
+NED,23/08/1981,,FC Groningen,Feyenoord,2,2,D,1,2,A
+NED,23/08/1981,,FC Utrecht,MVV,1,0,H,1,0,H
+NED,23/08/1981,,Sparta Rotterdam,NEC Nijmegen,1,0,H,0,0,D
+NED,26/08/1981,,AZ '67 Alkmaar,Go Ahead Eagles,1,3,A,1,2,A
+NED,26/08/1981,,FC Twente,AFC Ajax,2,1,H,2,0,H
+NED,26/08/1981,,Feyenoord,Sparta Rotterdam,2,4,A,2,0,H
+NED,26/08/1981,,SBV Haarlem,PSV Eindhoven,4,3,H,2,0,H
+NED,26/08/1981,,MVV,De Graafschap,0,2,A,0,1,A
+NED,26/08/1981,,NEC Nijmegen,NAC Breda,1,1,D,1,1,D
+NED,26/08/1981,,PEC Zwolle,FC Den Haag,2,2,D,0,1,A
+NED,26/08/1981,,Roda JC Kerkrade,FC Utrecht,2,1,H,1,1,D
+NED,26/08/1981,,Willem II,FC Groningen,1,1,D,1,0,H
+NED,29/08/1981,,FC Den Haag,FC Twente,3,2,H,0,1,A
+NED,29/08/1981,,FC Utrecht,AZ '67 Alkmaar,1,0,H,1,0,H
+NED,29/08/1981,,Go Ahead Eagles,SBV Haarlem,3,1,H,0,0,D
+NED,29/08/1981,,NAC Breda,Feyenoord,0,1,A,0,1,A
+NED,29/08/1981,,PSV Eindhoven,NEC Nijmegen,3,0,H,2,0,H
+NED,30/08/1981,,AFC Ajax,De Graafschap,9,1,H,5,1,H
+NED,30/08/1981,,FC Groningen,PEC Zwolle,6,2,H,3,1,H
+NED,30/08/1981,,Roda JC Kerkrade,MVV,2,2,D,1,0,H
+NED,30/08/1981,,Sparta Rotterdam,Willem II,3,1,H,2,1,H
+NED,12/09/1981,,AZ '67 Alkmaar,Roda JC Kerkrade,4,0,H,2,0,H
+NED,12/09/1981,,De Graafschap,FC Den Haag,1,1,D,1,1,D
+NED,12/09/1981,,FC Twente,FC Groningen,1,1,D,1,0,H
+NED,12/09/1981,,Feyenoord,PSV Eindhoven,2,4,A,1,0,H
+NED,12/09/1981,,SBV Haarlem,FC Utrecht,2,0,H,0,0,D
+NED,12/09/1981,,MVV,AFC Ajax,0,2,A,0,2,A
+NED,12/09/1981,,NEC Nijmegen,Go Ahead Eagles,1,3,A,1,1,D
+NED,12/09/1981,,PEC Zwolle,Sparta Rotterdam,1,1,D,1,1,D
+NED,13/09/1981,,Willem II,NAC Breda,2,1,H,1,0,H
+NED,19/09/1981,,AZ '67 Alkmaar,MVV,4,1,H,2,0,H
+NED,19/09/1981,,FC Den Haag,AFC Ajax,1,3,A,0,2,A
+NED,19/09/1981,,Go Ahead Eagles,Feyenoord,3,2,H,1,0,H
+NED,19/09/1981,,NAC Breda,PEC Zwolle,4,0,H,0,0,D
+NED,19/09/1981,,PSV Eindhoven,Willem II,4,0,H,3,0,H
+NED,20/09/1981,,FC Groningen,De Graafschap,3,2,H,0,0,D
+NED,20/09/1981,,FC Utrecht,NEC Nijmegen,1,0,H,1,0,H
+NED,20/09/1981,,Roda JC Kerkrade,SBV Haarlem,2,0,H,0,0,D
+NED,20/09/1981,,Sparta Rotterdam,FC Twente,1,2,A,0,2,A
+NED,26/09/1981,,AFC Ajax,FC Groningen,6,1,H,2,0,H
+NED,26/09/1981,,De Graafschap,Sparta Rotterdam,1,4,A,0,4,A
+NED,26/09/1981,,FC Twente,NAC Breda,0,1,A,0,1,A
+NED,26/09/1981,,Feyenoord,FC Utrecht,1,0,H,1,0,H
+NED,26/09/1981,,SBV Haarlem,AZ '67 Alkmaar,0,0,D,0,0,D
+NED,26/09/1981,,MVV,FC Den Haag,1,0,H,1,0,H
+NED,26/09/1981,,NEC Nijmegen,Roda JC Kerkrade,2,1,H,1,0,H
+NED,26/09/1981,,PEC Zwolle,PSV Eindhoven,0,1,A,0,0,D
+NED,27/09/1981,,Willem II,Go Ahead Eagles,3,2,H,1,1,D
+NED,03/10/1981,,AZ '67 Alkmaar,NEC Nijmegen,4,2,H,2,1,H
+NED,03/10/1981,,Go Ahead Eagles,PEC Zwolle,2,2,D,1,2,A
+NED,03/10/1981,,SBV Haarlem,MVV,3,2,H,2,1,H
+NED,03/10/1981,,NAC Breda,De Graafschap,5,1,H,0,0,D
+NED,03/10/1981,,PSV Eindhoven,FC Twente,4,0,H,1,0,H
+NED,04/10/1981,,FC Groningen,FC Den Haag,4,2,H,1,1,D
+NED,04/10/1981,,FC Utrecht,Willem II,5,2,H,4,0,H
+NED,04/10/1981,,Roda JC Kerkrade,Feyenoord,2,2,D,1,0,H
+NED,04/10/1981,,Sparta Rotterdam,AFC Ajax,5,3,H,2,1,H
+NED,17/10/1981,,De Graafschap,PSV Eindhoven,1,2,A,0,0,D
+NED,17/10/1981,,FC Den Haag,Sparta Rotterdam,1,2,A,0,2,A
+NED,17/10/1981,,FC Twente,Go Ahead Eagles,1,0,H,1,0,H
+NED,17/10/1981,,MVV,FC Groningen,3,1,H,1,0,H
+NED,17/10/1981,,NEC Nijmegen,SBV Haarlem,1,1,D,0,0,D
+NED,17/10/1981,,PEC Zwolle,FC Utrecht,1,1,D,0,0,D
+NED,18/10/1981,,AFC Ajax,NAC Breda,2,2,D,1,1,D
+NED,18/10/1981,,Feyenoord,AZ '67 Alkmaar,4,2,H,2,0,H
+NED,18/10/1981,,Willem II,Roda JC Kerkrade,1,2,A,0,1,A
+NED,24/10/1981,,AZ '67 Alkmaar,Willem II,2,0,H,1,0,H
+NED,24/10/1981,,Go Ahead Eagles,De Graafschap,1,0,H,1,0,H
+NED,24/10/1981,,SBV Haarlem,Feyenoord,1,1,D,1,1,D
+NED,24/10/1981,,NAC Breda,FC Den Haag,5,0,H,3,0,H
+NED,24/10/1981,,NEC Nijmegen,MVV,2,1,H,2,1,H
+NED,24/10/1981,,PSV Eindhoven,AFC Ajax,3,0,H,0,0,D
+NED,25/10/1981,,FC Utrecht,FC Twente,4,2,H,1,1,D
+NED,25/10/1981,,Roda JC Kerkrade,PEC Zwolle,4,1,H,2,0,H
+NED,25/10/1981,,Sparta Rotterdam,FC Groningen,4,0,H,2,0,H
+NED,07/11/1981,,De Graafschap,FC Utrecht,0,3,A,0,2,A
+NED,07/11/1981,,FC Den Haag,PSV Eindhoven,0,0,D,0,0,D
+NED,07/11/1981,,FC Twente,Roda JC Kerkrade,1,3,A,1,1,D
+NED,07/11/1981,,MVV,Sparta Rotterdam,2,1,H,0,0,D
+NED,07/11/1981,,PEC Zwolle,AZ '67 Alkmaar,0,0,D,0,0,D
+NED,08/11/1981,,AFC Ajax,Go Ahead Eagles,4,1,H,1,0,H
+NED,08/11/1981,,FC Groningen,NAC Breda,1,1,D,1,0,H
+NED,08/11/1981,,Feyenoord,NEC Nijmegen,2,2,D,0,0,D
+NED,08/11/1981,,Willem II,SBV Haarlem,2,2,D,2,1,H
+NED,11/11/1981,,AZ '67 Alkmaar,FC Twente,2,1,H,0,1,A
+NED,11/11/1981,,FC Utrecht,AFC Ajax,3,5,A,1,2,A
+NED,11/11/1981,,Feyenoord,MVV,6,1,H,4,1,H
+NED,11/11/1981,,Go Ahead Eagles,FC Den Haag,3,0,H,2,0,H
+NED,11/11/1981,,SBV Haarlem,PEC Zwolle,2,1,H,1,0,H
+NED,11/11/1981,,NAC Breda,Sparta Rotterdam,0,2,A,0,1,A
+NED,11/11/1981,,NEC Nijmegen,Willem II,0,4,A,0,2,A
+NED,11/11/1981,,PSV Eindhoven,FC Groningen,2,0,H,0,0,D
+NED,11/11/1981,,Roda JC Kerkrade,De Graafschap,0,1,A,0,0,D
+NED,21/11/1981,,MVV,NAC Breda,1,1,D,0,1,A
+NED,21/11/1981,,PEC Zwolle,NEC Nijmegen,1,0,H,0,0,D
+NED,22/11/1981,,AFC Ajax,Roda JC Kerkrade,3,2,H,2,2,D
+NED,22/11/1981,,De Graafschap,AZ '67 Alkmaar,0,3,A,0,3,A
+NED,22/11/1981,,FC Groningen,Go Ahead Eagles,2,2,D,2,1,H
+NED,22/11/1981,,FC Twente,SBV Haarlem,0,2,A,0,0,D
+NED,22/11/1981,,Sparta Rotterdam,PSV Eindhoven,0,2,A,0,0,D
+NED,22/11/1981,,Willem II,Feyenoord,0,1,A,0,0,D
+NED,03/03/1982,,FC Den Haag,FC Utrecht,0,1,A,0,0,D
+NED,28/11/1981,,AZ '67 Alkmaar,AFC Ajax,1,0,H,0,0,D
+NED,28/11/1981,,Go Ahead Eagles,Sparta Rotterdam,0,0,D,0,0,D
+NED,28/11/1981,,PSV Eindhoven,NAC Breda,4,1,H,2,0,H
+NED,29/11/1981,,Feyenoord,PEC Zwolle,5,5,D,3,1,H
+NED,29/11/1981,,SBV Haarlem,De Graafschap,3,0,H,0,0,D
+NED,29/11/1981,,NEC Nijmegen,FC Twente,2,1,H,1,0,H
+NED,29/11/1981,,Roda JC Kerkrade,FC Den Haag,3,2,H,3,2,H
+NED,29/11/1981,,Willem II,MVV,1,2,A,0,1,A
+NED,10/01/1982,,FC Utrecht,FC Groningen,1,0,H,1,0,H
+NED,24/01/1982,,NEC Nijmegen,AFC Ajax,1,3,A,1,1,D
+NED,24/01/1982,,Roda JC Kerkrade,Sparta Rotterdam,2,0,H,1,0,H
+NED,24/01/1982,,Willem II,FC Twente,0,2,A,0,1,A
+NED,20/02/1982,,Go Ahead Eagles,PSV Eindhoven,1,2,A,1,2,A
+NED,21/02/1982,,FC Utrecht,NAC Breda,2,2,D,0,0,D
+NED,21/02/1982,,Feyenoord,De Graafschap,1,0,H,1,0,H
+NED,21/02/1982,,SBV Haarlem,FC Den Haag,1,1,D,1,0,H
+NED,24/02/1982,,AZ '67 Alkmaar,FC Groningen,3,1,H,2,1,H
+NED,02/03/1982,,MVV,PEC Zwolle,0,1,A,0,0,D
+NED,06/12/1981,,AFC Ajax,SBV Haarlem,4,1,H,1,0,H
+NED,06/12/1981,,FC Den Haag,AZ '67 Alkmaar,1,4,A,1,2,A
+NED,06/12/1981,,FC Groningen,Roda JC Kerkrade,2,2,D,2,1,H
+NED,06/12/1981,,PEC Zwolle,Willem II,1,5,A,0,3,A
+NED,06/12/1981,,PSV Eindhoven,MVV,2,2,D,0,0,D
+NED,17/02/1982,,NAC Breda,Go Ahead Eagles,1,0,H,0,0,D
+NED,24/02/1982,,De Graafschap,NEC Nijmegen,1,2,A,0,1,A
+NED,24/02/1982,,FC Twente,Feyenoord,4,0,H,1,0,H
+NED,24/02/1982,,Sparta Rotterdam,FC Utrecht,2,2,D,1,1,D
+NED,06/02/1982,,Go Ahead Eagles,FC Utrecht,2,3,A,1,2,A
+NED,06/02/1982,,NAC Breda,AZ '67 Alkmaar,0,1,A,0,0,D
+NED,06/02/1982,,PSV Eindhoven,Roda JC Kerkrade,3,1,H,1,0,H
+NED,07/02/1982,,AFC Ajax,Willem II,4,1,H,0,0,D
+NED,07/02/1982,,De Graafschap,PEC Zwolle,2,0,H,0,0,D
+NED,07/02/1982,,FC Den Haag,Feyenoord,1,2,A,0,2,A
+NED,07/02/1982,,FC Groningen,NEC Nijmegen,2,0,H,2,0,H
+NED,07/02/1982,,FC Twente,MVV,2,2,D,2,1,H
+NED,07/02/1982,,Sparta Rotterdam,SBV Haarlem,0,3,A,0,0,D
+NED,30/01/1982,,MVV,Go Ahead Eagles,1,1,D,0,0,D
+NED,30/01/1982,,PEC Zwolle,FC Twente,5,1,H,1,0,H
+NED,31/01/1982,,AZ '67 Alkmaar,Sparta Rotterdam,2,2,D,0,0,D
+NED,31/01/1982,,FC Utrecht,PSV Eindhoven,2,1,H,1,0,H
+NED,31/01/1982,,Feyenoord,AFC Ajax,2,2,D,0,1,A
+NED,31/01/1982,,SBV Haarlem,FC Groningen,1,2,A,1,1,D
+NED,31/01/1982,,NEC Nijmegen,FC Den Haag,2,1,H,1,1,D
+NED,31/01/1982,,Roda JC Kerkrade,NAC Breda,1,0,H,0,0,D
+NED,31/01/1982,,Willem II,De Graafschap,2,2,D,2,1,H
+NED,13/02/1982,,AZ '67 Alkmaar,PSV Eindhoven,0,2,A,0,1,A
+NED,13/02/1982,,MVV,FC Utrecht,0,3,A,0,1,A
+NED,13/02/1982,,PEC Zwolle,AFC Ajax,1,3,A,0,2,A
+NED,14/02/1982,,FC Twente,De Graafschap,4,0,H,1,0,H
+NED,14/02/1982,,Feyenoord,FC Groningen,3,2,H,3,1,H
+NED,14/02/1982,,SBV Haarlem,NAC Breda,4,2,H,2,0,H
+NED,14/02/1982,,NEC Nijmegen,Sparta Rotterdam,3,3,D,2,1,H
+NED,14/02/1982,,Roda JC Kerkrade,Go Ahead Eagles,2,3,A,1,1,D
+NED,14/02/1982,,Willem II,FC Den Haag,1,0,H,0,0,D
+NED,27/02/1982,,Go Ahead Eagles,AZ '67 Alkmaar,4,1,H,3,1,H
+NED,27/02/1982,,NAC Breda,NEC Nijmegen,1,0,H,0,0,D
+NED,27/02/1982,,PSV Eindhoven,SBV Haarlem,3,0,H,0,0,D
+NED,28/02/1982,,AFC Ajax,FC Twente,5,1,H,2,0,H
+NED,28/02/1982,,De Graafschap,MVV,2,2,D,2,0,H
+NED,28/02/1982,,FC Den Haag,PEC Zwolle,2,1,H,2,0,H
+NED,28/02/1982,,FC Groningen,Willem II,2,1,H,1,0,H
+NED,28/02/1982,,FC Utrecht,Roda JC Kerkrade,0,0,D,0,0,D
+NED,28/02/1982,,Sparta Rotterdam,Feyenoord,1,1,D,0,1,A
+NED,06/03/1982,,AZ '67 Alkmaar,FC Utrecht,2,1,H,1,0,H
+NED,06/03/1982,,De Graafschap,AFC Ajax,1,4,A,1,0,H
+NED,06/03/1982,,FC Twente,FC Den Haag,2,0,H,2,0,H
+NED,06/03/1982,,SBV Haarlem,Go Ahead Eagles,3,1,H,0,0,D
+NED,06/03/1982,,MVV,Roda JC Kerkrade,1,2,A,1,1,D
+NED,06/03/1982,,NEC Nijmegen,PSV Eindhoven,0,4,A,0,2,A
+NED,06/03/1982,,PEC Zwolle,FC Groningen,0,4,A,0,3,A
+NED,07/03/1982,,Feyenoord,NAC Breda,0,0,D,0,0,D
+NED,07/03/1982,,Willem II,Sparta Rotterdam,2,1,H,2,0,H
+NED,13/03/1982,,FC Den Haag,De Graafschap,2,1,H,1,0,H
+NED,13/03/1982,,Go Ahead Eagles,NEC Nijmegen,0,0,D,0,0,D
+NED,13/03/1982,,NAC Breda,Willem II,1,4,A,1,1,D
+NED,13/03/1982,,PSV Eindhoven,Feyenoord,1,2,A,0,1,A
+NED,14/03/1982,,AFC Ajax,MVV,2,0,H,1,0,H
+NED,14/03/1982,,FC Groningen,FC Twente,3,0,H,1,0,H
+NED,14/03/1982,,FC Utrecht,SBV Haarlem,2,0,H,0,0,D
+NED,14/03/1982,,Roda JC Kerkrade,AZ '67 Alkmaar,1,2,A,1,1,D
+NED,14/03/1982,,Sparta Rotterdam,PEC Zwolle,1,1,D,1,1,D
+NED,20/03/1982,,De Graafschap,FC Groningen,1,3,A,0,0,D
+NED,20/03/1982,,FC Twente,Sparta Rotterdam,1,0,H,0,0,D
+NED,20/03/1982,,SBV Haarlem,Roda JC Kerkrade,1,0,H,0,0,D
+NED,20/03/1982,,MVV,AZ '67 Alkmaar,0,4,A,0,3,A
+NED,20/03/1982,,NEC Nijmegen,FC Utrecht,1,0,H,1,0,H
+NED,20/03/1982,,PEC Zwolle,NAC Breda,1,2,A,0,2,A
+NED,21/03/1982,,AFC Ajax,FC Den Haag,9,1,H,5,0,H
+NED,21/03/1982,,Feyenoord,Go Ahead Eagles,2,0,H,0,0,D
+NED,21/03/1982,,Willem II,PSV Eindhoven,0,1,A,0,0,D
+NED,27/03/1982,,AZ '67 Alkmaar,SBV Haarlem,0,1,A,0,0,D
+NED,27/03/1982,,FC Den Haag,MVV,0,0,D,0,0,D
+NED,27/03/1982,,Go Ahead Eagles,Willem II,1,1,D,1,0,H
+NED,27/03/1982,,NAC Breda,FC Twente,0,0,D,0,0,D
+NED,27/03/1982,,PSV Eindhoven,PEC Zwolle,1,1,D,1,1,D
+NED,28/03/1982,,FC Groningen,AFC Ajax,2,3,A,1,1,D
+NED,28/03/1982,,FC Utrecht,Feyenoord,2,1,H,1,1,D
+NED,28/03/1982,,Roda JC Kerkrade,NEC Nijmegen,4,1,H,2,1,H
+NED,28/03/1982,,Sparta Rotterdam,De Graafschap,4,0,H,0,0,D
+NED,06/04/1982,,AFC Ajax,Sparta Rotterdam,5,1,H,3,0,H
+NED,06/04/1982,,De Graafschap,NAC Breda,0,0,D,0,0,D
+NED,06/04/1982,,FC Twente,PSV Eindhoven,2,3,A,2,0,H
+NED,06/04/1982,,Feyenoord,Roda JC Kerkrade,1,0,H,0,0,D
+NED,06/04/1982,,MVV,SBV Haarlem,2,1,H,0,1,A
+NED,06/04/1982,,NEC Nijmegen,AZ '67 Alkmaar,0,3,A,0,0,D
+NED,06/04/1982,,PEC Zwolle,Go Ahead Eagles,3,0,H,1,0,H
+NED,06/04/1982,,Willem II,FC Utrecht,3,0,H,2,0,H
+NED,12/04/1982,,FC Den Haag,FC Groningen,0,1,A,0,1,A
+NED,10/04/1982,,AZ '67 Alkmaar,Feyenoord,1,0,H,1,0,H
+NED,10/04/1982,,FC Groningen,MVV,3,0,H,2,0,H
+NED,10/04/1982,,FC Utrecht,PEC Zwolle,3,0,H,1,0,H
+NED,10/04/1982,,Go Ahead Eagles,FC Twente,0,0,D,0,0,D
+NED,10/04/1982,,SBV Haarlem,NEC Nijmegen,4,0,H,0,0,D
+NED,10/04/1982,,NAC Breda,AFC Ajax,0,4,A,0,1,A
+NED,10/04/1982,,PSV Eindhoven,De Graafschap,4,0,H,1,0,H
+NED,10/04/1982,,Sparta Rotterdam,FC Den Haag,2,1,H,1,1,D
+NED,12/04/1982,,Roda JC Kerkrade,Willem II,1,2,A,1,1,D
+NED,17/04/1982,,De Graafschap,Go Ahead Eagles,1,4,A,1,1,D
+NED,17/04/1982,,FC Den Haag,NAC Breda,0,2,A,0,1,A
+NED,17/04/1982,,FC Groningen,Sparta Rotterdam,2,1,H,1,1,D
+NED,17/04/1982,,MVV,NEC Nijmegen,1,1,D,1,0,H
+NED,17/04/1982,,PEC Zwolle,Roda JC Kerkrade,3,1,H,1,1,D
+NED,18/04/1982,,AFC Ajax,PSV Eindhoven,3,0,H,0,0,D
+NED,18/04/1982,,FC Twente,FC Utrecht,2,1,H,2,1,H
+NED,18/04/1982,,Feyenoord,SBV Haarlem,1,3,A,0,2,A
+NED,18/04/1982,,Willem II,AZ '67 Alkmaar,2,3,A,1,1,D
+NED,24/04/1982,,AZ '67 Alkmaar,PEC Zwolle,1,1,D,1,1,D
+NED,24/04/1982,,Go Ahead Eagles,AFC Ajax,1,2,A,0,1,A
+NED,24/04/1982,,SBV Haarlem,Willem II,2,1,H,1,1,D
+NED,24/04/1982,,NAC Breda,FC Groningen,0,4,A,0,2,A
+NED,24/04/1982,,NEC Nijmegen,Feyenoord,5,1,H,3,0,H
+NED,24/04/1982,,PSV Eindhoven,FC Den Haag,1,0,H,0,0,D
+NED,25/04/1982,,FC Utrecht,De Graafschap,5,0,H,1,0,H
+NED,25/04/1982,,Roda JC Kerkrade,FC Twente,3,0,H,2,0,H
+NED,25/04/1982,,Sparta Rotterdam,MVV,4,1,H,2,0,H
+NED,01/05/1982,,De Graafschap,Roda JC Kerkrade,2,4,A,2,2,D
+NED,01/05/1982,,FC Den Haag,Go Ahead Eagles,0,6,A,0,4,A
+NED,01/05/1982,,FC Twente,AZ '67 Alkmaar,2,0,H,2,0,H
+NED,01/05/1982,,MVV,Feyenoord,1,1,D,1,1,D
+NED,01/05/1982,,PEC Zwolle,SBV Haarlem,0,0,D,0,0,D
+NED,02/05/1982,,AFC Ajax,FC Utrecht,1,0,H,0,0,D
+NED,02/05/1982,,FC Groningen,PSV Eindhoven,4,0,H,0,0,D
+NED,02/05/1982,,Sparta Rotterdam,NAC Breda,5,0,H,0,0,D
+NED,02/05/1982,,Willem II,NEC Nijmegen,2,2,D,1,1,D
+NED,08/05/1982,,AZ '67 Alkmaar,De Graafschap,4,0,H,1,0,H
+NED,08/05/1982,,Go Ahead Eagles,FC Groningen,3,1,H,1,0,H
+NED,08/05/1982,,SBV Haarlem,FC Twente,3,0,H,1,0,H
+NED,08/05/1982,,NEC Nijmegen,PEC Zwolle,3,1,H,1,0,H
+NED,08/05/1982,,PSV Eindhoven,Sparta Rotterdam,2,1,H,1,0,H
+NED,09/05/1982,,FC Utrecht,FC Den Haag,4,0,H,2,0,H
+NED,09/05/1982,,Feyenoord,Willem II,2,0,H,0,0,D
+NED,09/05/1982,,NAC Breda,MVV,0,0,D,0,0,D
+NED,09/05/1982,,Roda JC Kerkrade,AFC Ajax,1,1,D,1,1,D
+NED,15/05/1982,,AFC Ajax,AZ '67 Alkmaar,3,2,H,2,1,H
+NED,15/05/1982,,De Graafschap,SBV Haarlem,1,2,A,0,1,A
+NED,15/05/1982,,FC Den Haag,Roda JC Kerkrade,1,3,A,0,1,A
+NED,15/05/1982,,FC Groningen,FC Utrecht,1,1,D,1,0,H
+NED,15/05/1982,,FC Twente,NEC Nijmegen,0,2,A,0,1,A
+NED,15/05/1982,,MVV,Willem II,1,1,D,0,0,D
+NED,15/05/1982,,NAC Breda,PSV Eindhoven,2,0,H,1,0,H
+NED,15/05/1982,,PEC Zwolle,Feyenoord,2,1,H,0,1,A
+NED,15/05/1982,,Sparta Rotterdam,Go Ahead Eagles,1,1,D,1,1,D
+NED,03/04/1982,,AFC Ajax,NEC Nijmegen,5,0,H,2,0,H
+NED,03/04/1982,,De Graafschap,Feyenoord,3,3,D,1,1,D
+NED,03/04/1982,,FC Den Haag,SBV Haarlem,0,4,A,0,2,A
+NED,03/04/1982,,FC Groningen,AZ '67 Alkmaar,1,3,A,1,2,A
+NED,03/04/1982,,FC Twente,Willem II,2,0,H,1,0,H
+NED,03/04/1982,,NAC Breda,FC Utrecht,1,0,H,0,0,D
+NED,03/04/1982,,PEC Zwolle,MVV,2,0,H,2,0,H
+NED,03/04/1982,,PSV Eindhoven,Go Ahead Eagles,4,1,H,2,1,H
+NED,04/04/1982,,Sparta Rotterdam,Roda JC Kerkrade,1,2,A,0,1,A
+NED,22/05/1982,,AZ '67 Alkmaar,FC Den Haag,5,2,H,2,1,H
+NED,22/05/1982,,FC Utrecht,Sparta Rotterdam,0,1,A,0,0,D
+NED,22/05/1982,,Feyenoord,FC Twente,3,3,D,2,1,H
+NED,22/05/1982,,Go Ahead Eagles,NAC Breda,2,1,H,0,0,D
+NED,22/05/1982,,SBV Haarlem,AFC Ajax,1,3,A,1,1,D
+NED,22/05/1982,,MVV,PSV Eindhoven,1,7,A,1,5,A
+NED,22/05/1982,,NEC Nijmegen,De Graafschap,2,0,H,1,0,H
+NED,22/05/1982,,Roda JC Kerkrade,FC Groningen,4,3,H,2,1,H
+NED,22/05/1982,,Willem II,PEC Zwolle,3,1,H,2,1,H

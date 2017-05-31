@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,24/08/1978,,SC Bacau,Jiul Petroşani,1,0,H,NaN,NaN,NaN
+ROM,24/08/1978,,CS Politechnica Timisoara,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,24/08/1978,,UT Arad,FC Bihor Oradea,3,0,H,NaN,NaN,NaN
+ROM,24/08/1978,,Steaua Bucureşti,Olimpia Satu Mare,3,1,H,NaN,NaN,NaN
+ROM,24/08/1978,,Sportul Studenţesc,ASA Târgu Mureș (old),1,1,D,NaN,NaN,NaN
+ROM,24/08/1978,,Gloria Buzau,CS Târgoviște,0,1,A,NaN,NaN,NaN
+ROM,24/08/1978,,FC Baia Mare,Dinamo Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,24/08/1978,,Politehnica Iasi,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,24/08/1978,,Chimia Râmnicu-Vâlcea,Argeș Pitești,1,2,A,NaN,NaN,NaN
+ROM,27/08/1978,,FC Universitatea Craiova,Politehnica Iasi,1,0,H,NaN,NaN,NaN
+ROM,27/08/1978,,Dinamo Bucureşti,UT Arad,0,0,D,NaN,NaN,NaN
+ROM,27/08/1978,,FC Bihor Oradea,Steaua Bucureşti,2,4,A,NaN,NaN,NaN
+ROM,27/08/1978,,Corvinul Hunedoara,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,27/08/1978,,Argeș Pitești,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,27/08/1978,,CS Târgoviște,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,27/08/1978,,Olimpia Satu Mare,Chimia Râmnicu-Vâlcea,1,2,A,NaN,NaN,NaN
+ROM,27/08/1978,,Jiul Petroşani,FC Baia Mare,0,1,A,NaN,NaN,NaN
+ROM,27/08/1978,,ASA Târgu Mureș (old),Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,03/09/1978,,FC Baia Mare,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,03/09/1978,,UT Arad,Olimpia Satu Mare,0,0,D,NaN,NaN,NaN
+ROM,03/09/1978,,Sportul Studenţesc,FC Universitatea Craiova,4,1,H,NaN,NaN,NaN
+ROM,03/09/1978,,Steaua Bucureşti,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,03/09/1978,,Gloria Buzau,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,03/09/1978,,Politehnica Iasi,Argeș Pitești,1,2,A,NaN,NaN,NaN
+ROM,03/09/1978,,Corvinul Hunedoara,Jiul Petroşani,3,2,H,NaN,NaN,NaN
+ROM,03/09/1978,,ASA Târgu Mureș (old),Dinamo Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,03/09/1978,,Chimia Râmnicu-Vâlcea,CS Târgoviște,3,3,D,NaN,NaN,NaN
+ROM,09/09/1978,,CS Politechnica Timisoara,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,09/09/1978,,Argeș Pitești,FC Baia Mare,3,1,H,NaN,NaN,NaN
+ROM,09/09/1978,,FC Universitatea Craiova,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,10/09/1978,,FC Bihor Oradea,Politehnica Iasi,1,1,D,NaN,NaN,NaN
+ROM,10/09/1978,,UT Arad,Steaua Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,10/09/1978,,SC Bacau,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,10/09/1978,,Olimpia Satu Mare,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,10/09/1978,,Jiul Petroşani,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,10/09/1978,,Dinamo Bucureşti,Gloria Buzau,4,0,H,NaN,NaN,NaN
+ROM,16/09/1979,,Sportul Studenţesc,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,17/09/1979,,Argeș Pitești,FC Universitatea Craiova,2,2,D,NaN,NaN,NaN
+ROM,17/09/1979,,Steaua Bucureşti,ASA Târgu Mureș (old),4,1,H,NaN,NaN,NaN
+ROM,17/09/1979,,CS Târgoviște,UT Arad,2,0,H,NaN,NaN,NaN
+ROM,17/09/1979,,Olimpia Satu Mare,Gloria Buzau,1,0,H,NaN,NaN,NaN
+ROM,17/09/1979,,Politehnica Iasi,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,17/09/1979,,Chimia Râmnicu-Vâlcea,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,17/09/1979,,Corvinul Hunedoara,FC Baia Mare,0,1,A,NaN,NaN,NaN
+ROM,17/09/1979,,FC Bihor Oradea,Jiul Petroşani,5,0,H,NaN,NaN,NaN
+ROM,23/09/1978,,FC Universitatea Craiova,FC Bihor Oradea,5,0,H,NaN,NaN,NaN
+ROM,23/09/1978,,ASA Târgu Mureș (old),Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,23/09/1978,,CS Politechnica Timisoara,SC Bacau,0,1,A,NaN,NaN,NaN
+ROM,24/09/1978,,FC Baia Mare,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,24/09/1978,,Sportul Studenţesc,Politehnica Iasi,0,0,D,NaN,NaN,NaN
+ROM,24/09/1978,,CS Târgoviște,Dinamo Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,24/09/1978,,Gloria Buzau,Steaua Bucureşti,4,1,H,NaN,NaN,NaN
+ROM,24/09/1978,,Jiul Petroşani,Olimpia Satu Mare,3,0,H,NaN,NaN,NaN
+ROM,24/09/1978,,Corvinul Hunedoara,UT Arad,3,2,H,NaN,NaN,NaN
+ROM,01/10/1978,,Dinamo Bucureşti,Corvinul Hunedoara,4,0,H,NaN,NaN,NaN
+ROM,01/10/1978,,Steaua Bucureşti,CS Târgoviște,3,1,H,NaN,NaN,NaN
+ROM,01/10/1978,,FC Baia Mare,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,01/10/1978,,SC Bacau,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,01/10/1978,,CS Politechnica Timisoara,Gloria Buzau,0,2,A,NaN,NaN,NaN
+ROM,01/10/1978,,Politehnica Iasi,Olimpia Satu Mare,2,1,H,NaN,NaN,NaN
+ROM,01/10/1978,,Chimia Râmnicu-Vâlcea,Sportul Studenţesc,1,3,A,NaN,NaN,NaN
+ROM,01/10/1978,,UT Arad,Jiul Petroşani,3,0,H,NaN,NaN,NaN
+ROM,01/10/1978,,FC Bihor Oradea,Argeș Pitești,2,1,H,NaN,NaN,NaN
+ROM,07/10/1978,,Argeș Pitești,CS Politechnica Timisoara,3,1,H,NaN,NaN,NaN
+ROM,07/10/1978,,Steaua Bucureşti,Sportul Studenţesc,0,1,A,NaN,NaN,NaN
+ROM,07/10/1978,,SC Bacau,Politehnica Iasi,0,1,A,NaN,NaN,NaN
+ROM,07/10/1978,,ASA Târgu Mureș (old),UT Arad,3,2,H,NaN,NaN,NaN
+ROM,07/10/1978,,Olimpia Satu Mare,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,07/10/1978,,Gloria Buzau,FC Baia Mare,0,0,D,NaN,NaN,NaN
+ROM,07/10/1978,,Jiul Petroşani,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,07/10/1978,,Corvinul Hunedoara,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,07/10/1978,,FC Bihor Oradea,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,14/10/1978,,CS Politechnica Timisoara,Olimpia Satu Mare,1,2,A,NaN,NaN,NaN
+ROM,14/10/1978,,UT Arad,Argeș Pitești,3,1,H,NaN,NaN,NaN
+ROM,15/10/1978,,Dinamo Bucureşti,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,15/10/1978,,FC Universitatea Craiova,Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,15/10/1978,,FC Baia Mare,SC Bacau,3,1,H,NaN,NaN,NaN
+ROM,15/10/1978,,Sportul Studenţesc,Jiul Petroşani,1,1,D,NaN,NaN,NaN
+ROM,15/10/1978,,CS Târgoviște,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,15/10/1978,,Politehnica Iasi,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,15/10/1978,,Chimia Râmnicu-Vâlcea,ASA Târgu Mureș (old),1,1,D,NaN,NaN,NaN
+ROM,28/10/1978,,Argeș Pitești,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,28/10/1978,,UT Arad,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,29/10/1978,,Steaua Bucureşti,Chimia Râmnicu-Vâlcea,1,1,D,NaN,NaN,NaN
+ROM,29/10/1978,,FC Baia Mare,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,29/10/1978,,SC Bacau,Sportul Studenţesc,4,1,H,NaN,NaN,NaN
+ROM,29/10/1978,,ASA Târgu Mureș (old),CS Târgoviște,0,0,D,NaN,NaN,NaN
+ROM,29/10/1978,,Politehnica Iasi,Gloria Buzau,1,3,A,NaN,NaN,NaN
+ROM,29/10/1978,,Jiul Petroşani,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,29/10/1978,,FC Bihor Oradea,Olimpia Satu Mare,1,0,H,NaN,NaN,NaN
+ROM,05/11/1978,,Dinamo Bucureşti,CS Politechnica Timisoara,1,1,D,NaN,NaN,NaN
+ROM,05/11/1978,,FC Universitatea Craiova,Steaua Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,05/11/1978,,Sportul Studenţesc,UT Arad,1,1,D,NaN,NaN,NaN
+ROM,05/11/1978,,CS Târgoviște,Politehnica Iasi,1,0,H,NaN,NaN,NaN
+ROM,05/11/1978,,SC Bacau,FC Bihor Oradea,3,1,H,NaN,NaN,NaN
+ROM,05/11/1978,,Olimpia Satu Mare,FC Baia Mare,3,0,H,NaN,NaN,NaN
+ROM,05/11/1978,,Gloria Buzau,Chimia Râmnicu-Vâlcea,1,1,D,NaN,NaN,NaN
+ROM,05/11/1978,,Jiul Petroşani,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,05/11/1978,,Corvinul Hunedoara,ASA Târgu Mureș (old),5,0,H,NaN,NaN,NaN
+ROM,19/11/1978,,Argeș Pitești,Sportul Studenţesc,3,0,H,NaN,NaN,NaN
+ROM,19/11/1978,,Steaua Bucureşti,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,19/11/1978,,FC Universitatea Craiova,UT Arad,1,0,H,NaN,NaN,NaN
+ROM,19/11/1978,,FC Baia Mare,Politehnica Iasi,0,1,A,NaN,NaN,NaN
+ROM,19/11/1978,,ASA Târgu Mureș (old),Jiul Petroşani,1,1,D,NaN,NaN,NaN
+ROM,19/11/1978,,Olimpia Satu Mare,CS Târgoviște,1,0,H,NaN,NaN,NaN
+ROM,19/11/1978,,CS Politechnica Timisoara,FC Bihor Oradea,2,1,H,NaN,NaN,NaN
+ROM,19/11/1978,,Gloria Buzau,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,19/11/1978,,Chimia Râmnicu-Vâlcea,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,22/11/1978,,Dinamo Bucureşti,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,22/11/1978,,Sportul Studenţesc,Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,22/11/1978,,CS Târgoviște,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,22/11/1978,,SC Bacau,Olimpia Satu Mare,3,0,H,NaN,NaN,NaN
+ROM,22/11/1978,,Politehnica Iasi,Chimia Râmnicu-Vâlcea,4,1,H,NaN,NaN,NaN
+ROM,22/11/1978,,Jiul Petroşani,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,22/11/1978,,Corvinul Hunedoara,Steaua Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,22/11/1978,,UT Arad,FC Baia Mare,4,1,H,NaN,NaN,NaN
+ROM,22/11/1978,,FC Bihor Oradea,ASA Târgu Mureș (old),0,0,D,NaN,NaN,NaN
+ROM,26/11/1978,,Argeș Pitești,Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,26/11/1978,,Dinamo Bucureşti,Steaua Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,26/11/1978,,FC Baia Mare,CS Politechnica Timisoara,0,2,A,NaN,NaN,NaN
+ROM,26/11/1978,,CS Târgoviște,Sportul Studenţesc,3,0,H,NaN,NaN,NaN
+ROM,26/11/1978,,Olimpia Satu Mare,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,26/11/1978,,Politehnica Iasi,Jiul Petroşani,2,0,H,NaN,NaN,NaN
+ROM,26/11/1978,,Chimia Râmnicu-Vâlcea,FC Bihor Oradea,3,1,H,NaN,NaN,NaN
+ROM,26/11/1978,,Corvinul Hunedoara,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,26/11/1978,,UT Arad,SC Bacau,1,1,D,NaN,NaN,NaN
+ROM,29/11/1978,,Steaua Bucureşti,Argeș Pitești,1,2,A,NaN,NaN,NaN
+ROM,29/11/1978,,FC Universitatea Craiova,Olimpia Satu Mare,1,1,D,NaN,NaN,NaN
+ROM,29/11/1978,,Sportul Studenţesc,FC Baia Mare,0,1,A,NaN,NaN,NaN
+ROM,29/11/1978,,SC Bacau,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,29/11/1978,,CS Politechnica Timisoara,Chimia Râmnicu-Vâlcea,2,0,H,NaN,NaN,NaN
+ROM,29/11/1978,,Gloria Buzau,UT Arad,2,1,H,NaN,NaN,NaN
+ROM,29/11/1978,,ASA Târgu Mureș (old),Politehnica Iasi,2,1,H,NaN,NaN,NaN
+ROM,29/11/1978,,Jiul Petroşani,CS Târgoviște,2,1,H,NaN,NaN,NaN
+ROM,29/11/1978,,FC Bihor Oradea,Corvinul Hunedoara,1,1,D,NaN,NaN,NaN
+ROM,03/12/1978,,Dinamo Bucureşti,Politehnica Iasi,3,1,H,NaN,NaN,NaN
+ROM,03/12/1978,,FC Universitatea Craiova,CS Târgoviște,0,0,D,NaN,NaN,NaN
+ROM,03/12/1978,,FC Baia Mare,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,03/12/1978,,ASA Târgu Mureș (old),CS Politechnica Timisoara,3,1,H,NaN,NaN,NaN
+ROM,03/12/1978,,Olimpia Satu Mare,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,03/12/1978,,Jiul Petroşani,Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,03/12/1978,,Corvinul Hunedoara,SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,03/12/1978,,UT Arad,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,03/12/1978,,FC Bihor Oradea,Sportul Studenţesc,0,1,A,NaN,NaN,NaN
+ROM,09/12/1978,,Steaua Bucureşti,Jiul Petroşani,4,1,H,NaN,NaN,NaN
+ROM,10/12/1978,,Argeș Pitești,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,10/12/1978,,Sportul Studenţesc,Olimpia Satu Mare,5,0,H,NaN,NaN,NaN
+ROM,10/12/1978,,CS Târgoviște,FC Baia Mare,2,0,H,NaN,NaN,NaN
+ROM,10/12/1978,,SC Bacau,ASA Târgu Mureș (old),4,2,H,NaN,NaN,NaN
+ROM,10/12/1978,,CS Politechnica Timisoara,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,10/12/1978,,Politehnica Iasi,UT Arad,4,1,H,NaN,NaN,NaN
+ROM,10/12/1978,,Gloria Buzau,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,10/12/1978,,Chimia Râmnicu-Vâlcea,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,04/03/1979,,Jiul Petroşani,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,04/03/1979,,FC Bihor Oradea,UT Arad,0,0,D,NaN,NaN,NaN
+ROM,04/03/1979,,FC Universitatea Craiova,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,04/03/1979,,Olimpia Satu Mare,Steaua Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,04/03/1979,,ASA Târgu Mureș (old),Sportul Studenţesc,1,2,A,NaN,NaN,NaN
+ROM,04/03/1979,,Corvinul Hunedoara,Politehnica Iasi,2,0,H,NaN,NaN,NaN
+ROM,04/03/1979,,CS Târgoviște,Gloria Buzau,3,1,H,NaN,NaN,NaN
+ROM,04/03/1979,,Dinamo Bucureşti,FC Baia Mare,1,0,H,NaN,NaN,NaN
+ROM,04/03/1979,,Argeș Pitești,Chimia Râmnicu-Vâlcea,2,0,H,NaN,NaN,NaN
+ROM,07/03/1979,,FC Baia Mare,Jiul Petroşani,4,1,H,NaN,NaN,NaN
+ROM,07/03/1979,,Politehnica Iasi,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,07/03/1979,,UT Arad,Dinamo Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,07/03/1979,,Steaua Bucureşti,FC Bihor Oradea,4,1,H,NaN,NaN,NaN
+ROM,07/03/1979,,Sportul Studenţesc,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,07/03/1979,,SC Bacau,Argeș Pitești,2,2,D,NaN,NaN,NaN
+ROM,07/03/1979,,CS Politechnica Timisoara,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,07/03/1979,,Chimia Râmnicu-Vâlcea,Olimpia Satu Mare,3,0,H,NaN,NaN,NaN
+ROM,07/03/1979,,Gloria Buzau,ASA Târgu Mureș (old),3,1,H,NaN,NaN,NaN
+ROM,11/03/1979,,Olimpia Satu Mare,UT Arad,2,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,FC Universitatea Craiova,Sportul Studenţesc,3,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,CS Politechnica Timisoara,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,SC Bacau,Gloria Buzau,2,1,H,NaN,NaN,NaN
+ROM,11/03/1979,,Argeș Pitești,Politehnica Iasi,4,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,Jiul Petroşani,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,FC Bihor Oradea,FC Baia Mare,3,1,H,NaN,NaN,NaN
+ROM,11/03/1979,,Dinamo Bucureşti,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,11/03/1979,,CS Târgoviște,Chimia Râmnicu-Vâlcea,4,1,H,NaN,NaN,NaN
+ROM,17/03/1979,,Steaua Bucureşti,UT Arad,2,0,H,NaN,NaN,NaN
+ROM,17/03/1979,,ASA Târgu Mureș (old),FC Universitatea Craiova,4,2,H,NaN,NaN,NaN
+ROM,17/03/1979,,Sportul Studenţesc,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,17/03/1979,,CS Târgoviște,SC Bacau,0,0,D,NaN,NaN,NaN
+ROM,17/03/1979,,Politehnica Iasi,FC Bihor Oradea,1,1,D,NaN,NaN,NaN
+ROM,17/03/1979,,Corvinul Hunedoara,Olimpia Satu Mare,4,1,H,NaN,NaN,NaN
+ROM,17/03/1979,,Gloria Buzau,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,17/03/1979,,FC Baia Mare,Argeș Pitești,0,0,D,NaN,NaN,NaN
+ROM,17/03/1979,,Chimia Râmnicu-Vâlcea,Jiul Petroşani,3,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,UT Arad,CS Târgoviște,1,1,D,NaN,NaN,NaN
+ROM,25/03/1979,,FC Universitatea Craiova,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,ASA Târgu Mureș (old),Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,Dinamo Bucureşti,Sportul Studenţesc,3,1,H,NaN,NaN,NaN
+ROM,25/03/1979,,SC Bacau,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,CS Politechnica Timisoara,Politehnica Iasi,2,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,Gloria Buzau,Olimpia Satu Mare,2,0,H,NaN,NaN,NaN
+ROM,25/03/1979,,Jiul Petroşani,FC Bihor Oradea,0,0,D,NaN,NaN,NaN
+ROM,25/03/1979,,FC Baia Mare,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,28/03/1979,,UT Arad,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,28/03/1979,,FC Bihor Oradea,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,28/03/1979,,Steaua Bucureşti,Gloria Buzau,4,0,H,NaN,NaN,NaN
+ROM,28/03/1979,,Politehnica Iasi,Sportul Studenţesc,2,2,D,NaN,NaN,NaN
+ROM,28/03/1979,,SC Bacau,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,28/03/1979,,Olimpia Satu Mare,Jiul Petroşani,3,1,H,NaN,NaN,NaN
+ROM,28/03/1979,,Chimia Râmnicu-Vâlcea,FC Baia Mare,1,0,H,NaN,NaN,NaN
+ROM,28/03/1979,,Argeș Pitești,ASA Târgu Mureș (old),3,1,H,NaN,NaN,NaN
+ROM,28/03/1979,,Dinamo Bucureşti,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,08/04/1979,,Jiul Petroşani,UT Arad,2,0,H,NaN,NaN,NaN
+ROM,08/04/1979,,FC Universitatea Craiova,SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,08/04/1979,,CS Târgoviște,Steaua Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,08/04/1979,,Sportul Studenţesc,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,08/04/1979,,Gloria Buzau,CS Politechnica Timisoara,0,1,A,NaN,NaN,NaN
+ROM,08/04/1979,,Olimpia Satu Mare,Politehnica Iasi,2,3,A,NaN,NaN,NaN
+ROM,08/04/1979,,ASA Târgu Mureș (old),FC Baia Mare,4,2,H,NaN,NaN,NaN
+ROM,08/04/1979,,Argeș Pitești,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,08/04/1979,,Corvinul Hunedoara,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,UT Arad,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,Sportul Studenţesc,Steaua Bucureşti,0,3,A,NaN,NaN,NaN
+ROM,11/04/1979,,Politehnica Iasi,SC Bacau,1,1,D,NaN,NaN,NaN
+ROM,11/04/1979,,CS Politechnica Timisoara,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,Dinamo Bucureşti,Olimpia Satu Mare,3,1,H,NaN,NaN,NaN
+ROM,11/04/1979,,FC Universitatea Craiova,Jiul Petroşani,2,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,FC Baia Mare,Gloria Buzau,1,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,CS Târgoviște,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,11/04/1979,,Chimia Râmnicu-Vâlcea,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,22/04/1979,,Jiul Petroşani,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,22/04/1979,,Steaua Bucureşti,Politehnica Iasi,2,0,H,NaN,NaN,NaN
+ROM,22/04/1979,,SC Bacau,FC Baia Mare,3,1,H,NaN,NaN,NaN
+ROM,22/04/1979,,Argeș Pitești,UT Arad,4,1,H,NaN,NaN,NaN
+ROM,22/04/1979,,Gloria Buzau,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,22/04/1979,,Olimpia Satu Mare,CS Politechnica Timisoara,3,1,H,NaN,NaN,NaN
+ROM,22/04/1979,,FC Bihor Oradea,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,22/04/1979,,ASA Târgu Mureș (old),Chimia Râmnicu-Vâlcea,2,1,H,NaN,NaN,NaN
+ROM,22/04/1979,,Corvinul Hunedoara,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,Dinamo Bucureşti,Jiul Petroşani,5,1,H,NaN,NaN,NaN
+ROM,25/04/1979,,Gloria Buzau,Politehnica Iasi,1,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,Sportul Studenţesc,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,CS Politechnica Timisoara,UT Arad,1,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,FC Universitatea Craiova,FC Baia Mare,1,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,Chimia Râmnicu-Vâlcea,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,25/04/1979,,Olimpia Satu Mare,FC Bihor Oradea,1,1,D,NaN,NaN,NaN
+ROM,25/04/1979,,Corvinul Hunedoara,Argeș Pitești,1,1,D,NaN,NaN,NaN
+ROM,25/04/1979,,CS Târgoviște,ASA Târgu Mureș (old),2,1,H,NaN,NaN,NaN
+ROM,29/04/1979,,FC Baia Mare,Olimpia Satu Mare,3,1,H,NaN,NaN,NaN
+ROM,29/04/1979,,Argeș Pitești,Jiul Petroşani,2,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,UT Arad,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,Steaua Bucureşti,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,FC Bihor Oradea,SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,CS Politechnica Timisoara,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,29/04/1979,,Politehnica Iasi,CS Târgoviște,2,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,Chimia Râmnicu-Vâlcea,Gloria Buzau,1,0,H,NaN,NaN,NaN
+ROM,29/04/1979,,ASA Târgu Mureș (old),Corvinul Hunedoara,5,1,H,NaN,NaN,NaN
+ROM,06/05/1979,,UT Arad,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,06/05/1979,,SC Bacau,Steaua Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,06/05/1979,,Sportul Studenţesc,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,06/05/1979,,FC Bihor Oradea,CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,06/05/1979,,Politehnica Iasi,FC Baia Mare,0,1,A,NaN,NaN,NaN
+ROM,06/05/1979,,Jiul Petroşani,ASA Târgu Mureș (old),5,0,H,NaN,NaN,NaN
+ROM,06/05/1979,,Corvinul Hunedoara,Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,06/05/1979,,CS Târgoviște,Olimpia Satu Mare,3,1,H,NaN,NaN,NaN
+ROM,06/05/1979,,Dinamo Bucureşti,Chimia Râmnicu-Vâlcea,2,0,H,NaN,NaN,NaN
+ROM,20/05/1979,,FC Baia Mare,UT Arad,1,1,D,NaN,NaN,NaN
+ROM,20/05/1979,,Steaua Bucureşti,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,20/05/1979,,Olimpia Satu Mare,SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,20/05/1979,,CS Politechnica Timisoara,Jiul Petroşani,3,0,H,NaN,NaN,NaN
+ROM,20/05/1979,,Chimia Râmnicu-Vâlcea,Politehnica Iasi,2,1,H,NaN,NaN,NaN
+ROM,20/05/1979,,Gloria Buzau,Sportul Studenţesc,1,1,D,NaN,NaN,NaN
+ROM,20/05/1979,,ASA Târgu Mureș (old),FC Bihor Oradea,3,1,H,NaN,NaN,NaN
+ROM,20/05/1979,,Argeș Pitești,CS Târgoviște,1,0,H,NaN,NaN,NaN
+ROM,20/05/1979,,FC Universitatea Craiova,Dinamo Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,06/06/1979,,Sportul Studenţesc,CS Târgoviște,2,1,H,NaN,NaN,NaN
+ROM,06/06/1979,,SC Bacau,UT Arad,1,0,H,NaN,NaN,NaN
+ROM,06/06/1979,,FC Universitatea Craiova,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,06/06/1979,,Steaua Bucureşti,Dinamo Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,06/06/1979,,CS Politechnica Timisoara,FC Baia Mare,1,1,D,NaN,NaN,NaN
+ROM,06/06/1979,,Jiul Petroşani,Politehnica Iasi,1,1,D,NaN,NaN,NaN
+ROM,06/06/1979,,ASA Târgu Mureș (old),Olimpia Satu Mare,1,1,D,NaN,NaN,NaN
+ROM,06/06/1979,,Gloria Buzau,Argeș Pitești,0,0,D,NaN,NaN,NaN
+ROM,06/06/1979,,FC Bihor Oradea,Chimia Râmnicu-Vâlcea,3,1,H,NaN,NaN,NaN
+ROM,10/06/1979,,CS Târgoviște,Jiul Petroşani,2,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,UT Arad,Gloria Buzau,0,1,A,NaN,NaN,NaN
+ROM,10/06/1979,,Olimpia Satu Mare,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,Argeș Pitești,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,FC Baia Mare,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,10/06/1979,,Dinamo Bucureşti,SC Bacau,4,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,Chimia Râmnicu-Vâlcea,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,Politehnica Iasi,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,10/06/1979,,Corvinul Hunedoara,FC Bihor Oradea,3,1,H,NaN,NaN,NaN
+ROM,17/06/1979,,Sportul Studenţesc,FC Bihor Oradea,3,1,H,NaN,NaN,NaN
+ROM,17/06/1979,,Chimia Râmnicu-Vâlcea,UT Arad,3,2,H,NaN,NaN,NaN
+ROM,17/06/1979,,CS Târgoviște,FC Universitatea Craiova,0,1,A,NaN,NaN,NaN
+ROM,17/06/1979,,Steaua Bucureşti,FC Baia Mare,4,1,H,NaN,NaN,NaN
+ROM,17/06/1979,,SC Bacau,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,17/06/1979,,CS Politechnica Timisoara,ASA Târgu Mureș (old),3,1,H,NaN,NaN,NaN
+ROM,17/06/1979,,Politehnica Iasi,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,17/06/1979,,Argeș Pitești,Olimpia Satu Mare,4,0,H,NaN,NaN,NaN
+ROM,17/06/1979,,Gloria Buzau,Jiul Petroşani,2,0,H,NaN,NaN,NaN
+ROM,24/06/1979,,UT Arad,Politehnica Iasi,6,2,H,NaN,NaN,NaN
+ROM,24/06/1979,,FC Universitatea Craiova,Chimia Râmnicu-Vâlcea,4,1,H,NaN,NaN,NaN
+ROM,24/06/1979,,Jiul Petroşani,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,24/06/1979,,Olimpia Satu Mare,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,24/06/1979,,ASA Târgu Mureș (old),SC Bacau,3,1,H,NaN,NaN,NaN
+ROM,24/06/1979,,Corvinul Hunedoara,CS Politechnica Timisoara,3,1,H,NaN,NaN,NaN
+ROM,24/06/1979,,FC Bihor Oradea,Gloria Buzau,2,1,H,NaN,NaN,NaN
+ROM,24/06/1979,,FC Baia Mare,CS Târgoviște,5,0,H,NaN,NaN,NaN
+ROM,24/06/1979,,Dinamo Bucureşti,Argeș Pitești,3,4,A,NaN,NaN,NaN

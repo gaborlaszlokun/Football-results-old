@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CRO,14/08/1994,,NK Zagreb,HNK Segesta,0,2,A,NaN,NaN,NaN
+CRO,14/08/1994,,NK Zadar,NK Osijek,1,1,D,NaN,NaN,NaN
+CRO,14/08/1994,,HNK Rijeka,Croatia Zagreb,1,2,A,NaN,NaN,NaN
+CRO,14/08/1994,,NK Istra Pula,NK Varteks,1,0,H,NaN,NaN,NaN
+CRO,14/08/1994,,Hajduk Split,NK Marsonia,0,0,D,NaN,NaN,NaN
+CRO,14/08/1994,,Cibalia Vinkovci,NK Inker Zaprešić,1,0,H,NaN,NaN,NaN
+CRO,14/08/1994,,NK Belišce,NK Pomorac,0,1,A,NaN,NaN,NaN
+CRO,14/08/1994,,HNK Šibenik,NK Neretva,2,0,H,NaN,NaN,NaN
+CRO,21/08/1994,,NK Varteks,Cibalia Vinkovci,1,0,H,NaN,NaN,NaN
+CRO,21/08/1994,,HNK Segesta,NK Istra Pula,0,0,D,NaN,NaN,NaN
+CRO,21/08/1994,,NK Osijek,HNK Šibenik,1,1,D,NaN,NaN,NaN
+CRO,21/08/1994,,NK Neretva,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,21/08/1994,,NK Marsonia,NK Pomorac,3,0,H,NaN,NaN,NaN
+CRO,21/08/1994,,NK Inker Zaprešić,NK Belišce,5,1,H,NaN,NaN,NaN
+CRO,21/08/1994,,Hajduk Split,NK Zadar,3,2,H,NaN,NaN,NaN
+CRO,21/08/1994,,Croatia Zagreb,NK Zagreb,0,0,D,NaN,NaN,NaN
+CRO,28/08/1994,,NK Zagreb,NK Neretva,2,0,H,NaN,NaN,NaN
+CRO,28/08/1994,,NK Zadar,NK Marsonia,0,0,D,NaN,NaN,NaN
+CRO,28/08/1994,,HNK Rijeka,NK Osijek,0,1,A,NaN,NaN,NaN
+CRO,28/08/1994,,NK Pomorac,NK Inker Zaprešić,1,2,A,NaN,NaN,NaN
+CRO,28/08/1994,,NK Istra Pula,Croatia Zagreb,1,3,A,NaN,NaN,NaN
+CRO,28/08/1994,,Cibalia Vinkovci,HNK Segesta,1,0,H,NaN,NaN,NaN
+CRO,28/08/1994,,NK Belišce,NK Varteks,1,3,A,NaN,NaN,NaN
+CRO,28/08/1994,,HNK Šibenik,Hajduk Split,2,2,D,NaN,NaN,NaN
+CRO,11/09/1994,,NK Zadar,HNK Šibenik,1,1,D,NaN,NaN,NaN
+CRO,11/09/1994,,NK Varteks,NK Pomorac,2,4,A,NaN,NaN,NaN
+CRO,11/09/1994,,HNK Segesta,NK Belišce,6,2,H,NaN,NaN,NaN
+CRO,11/09/1994,,NK Osijek,NK Zagreb,6,1,H,NaN,NaN,NaN
+CRO,11/09/1994,,NK Neretva,NK Istra Pula,1,1,D,NaN,NaN,NaN
+CRO,11/09/1994,,NK Marsonia,NK Inker Zaprešić,2,1,H,NaN,NaN,NaN
+CRO,11/09/1994,,Hajduk Split,HNK Rijeka,5,2,H,NaN,NaN,NaN
+CRO,11/09/1994,,Croatia Zagreb,Cibalia Vinkovci,1,0,H,NaN,NaN,NaN
+CRO,18/09/1994,,NK Zagreb,Hajduk Split,1,1,D,NaN,NaN,NaN
+CRO,18/09/1994,,HNK Rijeka,NK Zadar,2,1,H,NaN,NaN,NaN
+CRO,18/09/1994,,NK Pomorac,HNK Segesta,2,1,H,NaN,NaN,NaN
+CRO,18/09/1994,,NK Istra Pula,NK Osijek,1,1,D,NaN,NaN,NaN
+CRO,18/09/1994,,NK Inker Zaprešić,NK Varteks,1,1,D,NaN,NaN,NaN
+CRO,18/09/1994,,Cibalia Vinkovci,NK Neretva,1,0,H,NaN,NaN,NaN
+CRO,18/09/1994,,NK Belišce,Croatia Zagreb,0,1,A,NaN,NaN,NaN
+CRO,18/09/1994,,HNK Šibenik,NK Marsonia,1,1,D,NaN,NaN,NaN
+CRO,25/09/1994,,NK Zadar,NK Zagreb,1,0,H,NaN,NaN,NaN
+CRO,25/09/1994,,HNK Segesta,NK Inker Zaprešić,0,1,A,NaN,NaN,NaN
+CRO,25/09/1994,,NK Osijek,Cibalia Vinkovci,1,1,D,NaN,NaN,NaN
+CRO,25/09/1994,,NK Neretva,NK Belišce,3,1,H,NaN,NaN,NaN
+CRO,25/09/1994,,NK Marsonia,NK Varteks,1,0,H,NaN,NaN,NaN
+CRO,25/09/1994,,Hajduk Split,NK Istra Pula,4,2,H,NaN,NaN,NaN
+CRO,25/09/1994,,Croatia Zagreb,NK Pomorac,6,0,H,NaN,NaN,NaN
+CRO,25/09/1994,,HNK Šibenik,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,02/10/1994,,NK Zagreb,HNK Šibenik,3,3,D,NaN,NaN,NaN
+CRO,02/10/1994,,NK Varteks,HNK Segesta,3,1,H,NaN,NaN,NaN
+CRO,02/10/1994,,HNK Rijeka,NK Marsonia,1,0,H,NaN,NaN,NaN
+CRO,02/10/1994,,NK Pomorac,NK Neretva,0,0,D,NaN,NaN,NaN
+CRO,02/10/1994,,NK Istra Pula,NK Zadar,1,0,H,NaN,NaN,NaN
+CRO,02/10/1994,,NK Inker Zaprešić,Croatia Zagreb,2,1,H,NaN,NaN,NaN
+CRO,02/10/1994,,Cibalia Vinkovci,Hajduk Split,1,1,D,NaN,NaN,NaN
+CRO,02/10/1994,,NK Belišce,NK Osijek,2,7,A,NaN,NaN,NaN
+CRO,16/10/1994,,NK Zadar,Cibalia Vinkovci,1,1,D,NaN,NaN,NaN
+CRO,16/10/1994,,HNK Rijeka,NK Zagreb,0,1,A,NaN,NaN,NaN
+CRO,16/10/1994,,NK Osijek,NK Pomorac,5,0,H,NaN,NaN,NaN
+CRO,16/10/1994,,NK Neretva,NK Inker Zaprešić,3,1,H,NaN,NaN,NaN
+CRO,16/10/1994,,NK Marsonia,HNK Segesta,1,0,H,NaN,NaN,NaN
+CRO,16/10/1994,,Hajduk Split,NK Belišce,4,0,H,NaN,NaN,NaN
+CRO,16/10/1994,,Croatia Zagreb,NK Varteks,0,0,D,NaN,NaN,NaN
+CRO,16/10/1994,,HNK Šibenik,NK Istra Pula,3,2,H,NaN,NaN,NaN
+CRO,23/10/1994,,NK Zagreb,NK Marsonia,2,0,H,NaN,NaN,NaN
+CRO,23/10/1994,,NK Varteks,NK Neretva,3,0,H,NaN,NaN,NaN
+CRO,23/10/1994,,HNK Segesta,Croatia Zagreb,2,1,H,NaN,NaN,NaN
+CRO,23/10/1994,,NK Pomorac,Hajduk Split,0,1,A,NaN,NaN,NaN
+CRO,23/10/1994,,NK Istra Pula,HNK Rijeka,1,0,H,NaN,NaN,NaN
+CRO,23/10/1994,,NK Inker Zaprešić,NK Osijek,1,3,A,NaN,NaN,NaN
+CRO,23/10/1994,,Cibalia Vinkovci,HNK Šibenik,2,2,D,NaN,NaN,NaN
+CRO,23/10/1994,,NK Belišce,NK Zadar,1,0,H,NaN,NaN,NaN
+CRO,30/10/1994,,NK Zagreb,NK Istra Pula,1,0,H,NaN,NaN,NaN
+CRO,30/10/1994,,NK Zadar,NK Pomorac,2,0,H,NaN,NaN,NaN
+CRO,30/10/1994,,HNK Rijeka,Cibalia Vinkovci,0,0,D,NaN,NaN,NaN
+CRO,30/10/1994,,NK Osijek,NK Varteks,1,1,D,NaN,NaN,NaN
+CRO,30/10/1994,,NK Neretva,HNK Segesta,2,1,H,NaN,NaN,NaN
+CRO,30/10/1994,,NK Marsonia,Croatia Zagreb,1,2,A,NaN,NaN,NaN
+CRO,30/10/1994,,Hajduk Split,NK Inker Zaprešić,3,1,H,NaN,NaN,NaN
+CRO,30/10/1994,,HNK Šibenik,NK Belišce,3,0,H,NaN,NaN,NaN
+CRO,06/11/1994,,NK Varteks,Hajduk Split,0,0,D,NaN,NaN,NaN
+CRO,06/11/1994,,HNK Segesta,NK Osijek,3,1,H,NaN,NaN,NaN
+CRO,06/11/1994,,NK Pomorac,HNK Šibenik,2,0,H,NaN,NaN,NaN
+CRO,06/11/1994,,NK Istra Pula,NK Marsonia,2,1,H,NaN,NaN,NaN
+CRO,06/11/1994,,NK Inker Zaprešić,NK Zadar,4,1,H,NaN,NaN,NaN
+CRO,06/11/1994,,Croatia Zagreb,NK Neretva,1,0,H,NaN,NaN,NaN
+CRO,06/11/1994,,Cibalia Vinkovci,NK Zagreb,1,2,A,NaN,NaN,NaN
+CRO,06/11/1994,,NK Belišce,HNK Rijeka,1,2,A,NaN,NaN,NaN
+CRO,20/11/1994,,NK Zagreb,NK Belišce,3,0,H,NaN,NaN,NaN
+CRO,20/11/1994,,NK Zadar,NK Varteks,0,0,D,NaN,NaN,NaN
+CRO,20/11/1994,,HNK Rijeka,NK Pomorac,0,0,D,NaN,NaN,NaN
+CRO,20/11/1994,,NK Osijek,Croatia Zagreb,0,0,D,NaN,NaN,NaN
+CRO,20/11/1994,,NK Marsonia,NK Neretva,4,0,H,NaN,NaN,NaN
+CRO,20/11/1994,,NK Istra Pula,Cibalia Vinkovci,0,1,A,NaN,NaN,NaN
+CRO,20/11/1994,,Hajduk Split,HNK Segesta,2,0,H,NaN,NaN,NaN
+CRO,20/11/1994,,HNK Šibenik,NK Inker Zaprešić,1,0,H,NaN,NaN,NaN
+CRO,27/11/1994,,NK Varteks,HNK Šibenik,2,0,H,NaN,NaN,NaN
+CRO,27/11/1994,,HNK Segesta,NK Zadar,1,0,H,NaN,NaN,NaN
+CRO,27/11/1994,,NK Pomorac,NK Zagreb,1,1,D,NaN,NaN,NaN
+CRO,27/11/1994,,NK Neretva,NK Osijek,0,0,D,NaN,NaN,NaN
+CRO,27/11/1994,,NK Inker Zaprešić,HNK Rijeka,3,2,H,NaN,NaN,NaN
+CRO,27/11/1994,,Croatia Zagreb,Hajduk Split,1,0,H,NaN,NaN,NaN
+CRO,27/11/1994,,Cibalia Vinkovci,NK Marsonia,1,2,A,NaN,NaN,NaN
+CRO,27/11/1994,,NK Belišce,NK Istra Pula,4,0,H,NaN,NaN,NaN
+CRO,04/12/1994,,NK Zagreb,NK Inker Zaprešić,2,0,H,NaN,NaN,NaN
+CRO,04/12/1994,,NK Zadar,Croatia Zagreb,1,1,D,NaN,NaN,NaN
+CRO,04/12/1994,,HNK Rijeka,NK Varteks,1,0,H,NaN,NaN,NaN
+CRO,04/12/1994,,NK Marsonia,NK Osijek,1,3,A,NaN,NaN,NaN
+CRO,04/12/1994,,NK Istra Pula,NK Pomorac,0,0,D,NaN,NaN,NaN
+CRO,04/12/1994,,Hajduk Split,NK Neretva,7,1,H,NaN,NaN,NaN
+CRO,04/12/1994,,Cibalia Vinkovci,NK Belišce,1,0,H,NaN,NaN,NaN
+CRO,04/12/1994,,HNK Šibenik,HNK Segesta,1,0,H,NaN,NaN,NaN
+CRO,11/12/1994,,NK Varteks,NK Zagreb,0,1,A,NaN,NaN,NaN
+CRO,11/12/1994,,HNK Segesta,HNK Rijeka,1,2,A,NaN,NaN,NaN
+CRO,11/12/1994,,NK Pomorac,Cibalia Vinkovci,3,2,H,NaN,NaN,NaN
+CRO,11/12/1994,,NK Osijek,Hajduk Split,2,1,H,NaN,NaN,NaN
+CRO,11/12/1994,,NK Neretva,NK Zadar,3,0,H,NaN,NaN,NaN
+CRO,11/12/1994,,NK Inker Zaprešić,NK Istra Pula,4,0,H,NaN,NaN,NaN
+CRO,11/12/1994,,Croatia Zagreb,HNK Šibenik,4,1,H,NaN,NaN,NaN
+CRO,11/12/1994,,NK Belišce,NK Marsonia,1,1,D,NaN,NaN,NaN
+CRO,26/02/1995,,NK Varteks,NK Istra Pula,2,0,H,NaN,NaN,NaN
+CRO,26/02/1995,,HNK Segesta,NK Zagreb,1,1,D,NaN,NaN,NaN
+CRO,26/02/1995,,NK Pomorac,NK Belišce,3,2,H,NaN,NaN,NaN
+CRO,26/02/1995,,NK Osijek,NK Zadar,5,1,H,NaN,NaN,NaN
+CRO,26/02/1995,,NK Neretva,HNK Šibenik,1,1,D,NaN,NaN,NaN
+CRO,26/02/1995,,NK Marsonia,Hajduk Split,1,0,H,NaN,NaN,NaN
+CRO,26/02/1995,,NK Inker Zaprešić,Cibalia Vinkovci,0,0,D,NaN,NaN,NaN
+CRO,26/02/1995,,Croatia Zagreb,HNK Rijeka,3,0,H,NaN,NaN,NaN
+CRO,05/03/1995,,NK Zagreb,Croatia Zagreb,0,0,D,NaN,NaN,NaN
+CRO,05/03/1995,,NK Zadar,Hajduk Split,1,1,D,NaN,NaN,NaN
+CRO,05/03/1995,,HNK Rijeka,NK Neretva,1,0,H,NaN,NaN,NaN
+CRO,05/03/1995,,NK Pomorac,NK Marsonia,1,1,D,NaN,NaN,NaN
+CRO,05/03/1995,,NK Istra Pula,HNK Segesta,0,2,A,NaN,NaN,NaN
+CRO,05/03/1995,,Cibalia Vinkovci,NK Varteks,1,0,H,NaN,NaN,NaN
+CRO,05/03/1995,,NK Belišce,NK Inker Zaprešić,1,0,H,NaN,NaN,NaN
+CRO,05/03/1995,,HNK Šibenik,NK Osijek,0,4,A,NaN,NaN,NaN
+CRO,12/03/1995,,NK Varteks,NK Belišce,2,1,H,NaN,NaN,NaN
+CRO,12/03/1995,,HNK Segesta,Cibalia Vinkovci,0,0,D,NaN,NaN,NaN
+CRO,12/03/1995,,NK Osijek,HNK Rijeka,2,0,H,NaN,NaN,NaN
+CRO,12/03/1995,,NK Neretva,NK Zagreb,0,1,A,NaN,NaN,NaN
+CRO,12/03/1995,,NK Marsonia,NK Zadar,3,0,H,NaN,NaN,NaN
+CRO,12/03/1995,,NK Inker Zaprešić,NK Pomorac,0,0,D,NaN,NaN,NaN
+CRO,12/03/1995,,Hajduk Split,HNK Šibenik,3,1,H,NaN,NaN,NaN
+CRO,12/03/1995,,Croatia Zagreb,NK Istra Pula,3,1,H,NaN,NaN,NaN
+CRO,19/03/1995,,NK Zagreb,NK Osijek,2,0,H,NaN,NaN,NaN
+CRO,19/03/1995,,HNK Rijeka,Hajduk Split,0,1,A,NaN,NaN,NaN
+CRO,19/03/1995,,NK Pomorac,NK Varteks,0,2,A,NaN,NaN,NaN
+CRO,19/03/1995,,NK Istra Pula,NK Neretva,2,0,H,NaN,NaN,NaN
+CRO,19/03/1995,,NK Inker Zaprešić,NK Marsonia,2,2,D,NaN,NaN,NaN
+CRO,19/03/1995,,Cibalia Vinkovci,Croatia Zagreb,1,0,H,NaN,NaN,NaN
+CRO,19/03/1995,,NK Belišce,HNK Segesta,0,0,D,NaN,NaN,NaN
+CRO,19/03/1995,,HNK Šibenik,NK Zadar,3,2,H,NaN,NaN,NaN
+CRO,02/04/1995,,NK Zadar,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,02/04/1995,,NK Varteks,NK Inker Zaprešić,2,1,H,NaN,NaN,NaN
+CRO,02/04/1995,,HNK Segesta,NK Pomorac,1,1,D,NaN,NaN,NaN
+CRO,02/04/1995,,NK Osijek,NK Istra Pula,3,0,H,NaN,NaN,NaN
+CRO,02/04/1995,,NK Neretva,Cibalia Vinkovci,0,0,D,NaN,NaN,NaN
+CRO,02/04/1995,,NK Marsonia,HNK Šibenik,1,0,H,NaN,NaN,NaN
+CRO,02/04/1995,,Hajduk Split,NK Zagreb,2,2,D,NaN,NaN,NaN
+CRO,02/04/1995,,Croatia Zagreb,NK Belišce,2,1,H,NaN,NaN,NaN
+CRO,09/04/1995,,NK Zagreb,NK Zadar,5,0,H,NaN,NaN,NaN
+CRO,09/04/1995,,NK Varteks,NK Marsonia,2,0,H,NaN,NaN,NaN
+CRO,09/04/1995,,HNK Rijeka,HNK Šibenik,3,2,H,NaN,NaN,NaN
+CRO,09/04/1995,,NK Pomorac,Croatia Zagreb,1,2,A,NaN,NaN,NaN
+CRO,09/04/1995,,NK Istra Pula,Hajduk Split,0,3,A,NaN,NaN,NaN
+CRO,09/04/1995,,NK Inker Zaprešić,HNK Segesta,3,1,H,NaN,NaN,NaN
+CRO,09/04/1995,,Cibalia Vinkovci,NK Osijek,1,2,A,NaN,NaN,NaN
+CRO,09/04/1995,,NK Belišce,NK Neretva,0,0,D,NaN,NaN,NaN
+CRO,12/04/1995,,NK Zadar,NK Istra Pula,3,0,H,NaN,NaN,NaN
+CRO,12/04/1995,,HNK Segesta,NK Varteks,1,0,H,NaN,NaN,NaN
+CRO,12/04/1995,,NK Osijek,NK Belišce,3,2,H,NaN,NaN,NaN
+CRO,12/04/1995,,NK Neretva,NK Pomorac,1,1,D,NaN,NaN,NaN
+CRO,12/04/1995,,NK Marsonia,HNK Rijeka,3,1,H,NaN,NaN,NaN
+CRO,12/04/1995,,Hajduk Split,Cibalia Vinkovci,4,1,H,NaN,NaN,NaN
+CRO,12/04/1995,,Croatia Zagreb,NK Inker Zaprešić,2,1,H,NaN,NaN,NaN
+CRO,12/04/1995,,HNK Šibenik,NK Zagreb,2,2,D,NaN,NaN,NaN
+CRO,16/04/1995,,NK Zagreb,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,16/04/1995,,NK Varteks,Croatia Zagreb,1,2,A,NaN,NaN,NaN
+CRO,16/04/1995,,HNK Segesta,NK Marsonia,1,0,H,NaN,NaN,NaN
+CRO,16/04/1995,,NK Pomorac,NK Osijek,0,0,D,NaN,NaN,NaN
+CRO,16/04/1995,,NK Istra Pula,HNK Šibenik,1,0,H,NaN,NaN,NaN
+CRO,16/04/1995,,NK Inker Zaprešić,NK Neretva,1,0,H,NaN,NaN,NaN
+CRO,16/04/1995,,Cibalia Vinkovci,NK Zadar,0,2,A,NaN,NaN,NaN
+CRO,16/04/1995,,NK Belišce,Hajduk Split,1,1,D,NaN,NaN,NaN
+CRO,30/04/1995,,NK Zadar,NK Belišce,3,2,H,NaN,NaN,NaN
+CRO,30/04/1995,,HNK Rijeka,NK Istra Pula,2,2,D,NaN,NaN,NaN
+CRO,30/04/1995,,NK Osijek,NK Inker Zaprešić,2,1,H,NaN,NaN,NaN
+CRO,30/04/1995,,NK Neretva,NK Varteks,0,0,D,NaN,NaN,NaN
+CRO,30/04/1995,,NK Marsonia,NK Zagreb,0,0,D,NaN,NaN,NaN
+CRO,30/04/1995,,Hajduk Split,NK Pomorac,2,0,H,NaN,NaN,NaN
+CRO,30/04/1995,,Croatia Zagreb,HNK Segesta,3,2,H,NaN,NaN,NaN
+CRO,30/04/1995,,HNK Šibenik,Cibalia Vinkovci,3,1,H,NaN,NaN,NaN
+CRO,07/05/1995,,NK Varteks,NK Osijek,2,2,D,NaN,NaN,NaN
+CRO,07/05/1995,,HNK Segesta,NK Neretva,1,0,H,NaN,NaN,NaN
+CRO,07/05/1995,,NK Pomorac,NK Zadar,3,1,H,NaN,NaN,NaN
+CRO,07/05/1995,,NK Istra Pula,NK Zagreb,2,0,H,NaN,NaN,NaN
+CRO,07/05/1995,,NK Inker Zaprešić,Hajduk Split,0,2,A,NaN,NaN,NaN
+CRO,07/05/1995,,Croatia Zagreb,NK Marsonia,2,1,H,NaN,NaN,NaN
+CRO,07/05/1995,,Cibalia Vinkovci,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,07/05/1995,,NK Belišce,HNK Šibenik,0,3,A,NaN,NaN,NaN
+CRO,10/05/1995,,NK Zagreb,Cibalia Vinkovci,3,1,H,NaN,NaN,NaN
+CRO,10/05/1995,,NK Zadar,NK Inker Zaprešić,3,0,H,NaN,NaN,NaN
+CRO,10/05/1995,,HNK Rijeka,NK Belišce,1,2,A,NaN,NaN,NaN
+CRO,10/05/1995,,NK Osijek,HNK Segesta,1,1,D,NaN,NaN,NaN
+CRO,10/05/1995,,NK Neretva,Croatia Zagreb,1,1,D,NaN,NaN,NaN
+CRO,10/05/1995,,NK Marsonia,NK Istra Pula,2,1,H,NaN,NaN,NaN
+CRO,10/05/1995,,Hajduk Split,NK Varteks,3,1,H,NaN,NaN,NaN
+CRO,10/05/1995,,HNK Šibenik,NK Pomorac,4,0,H,NaN,NaN,NaN
+CRO,14/05/1995,,NK Varteks,NK Zadar,1,1,D,NaN,NaN,NaN
+CRO,14/05/1995,,HNK Segesta,Hajduk Split,1,2,A,NaN,NaN,NaN
+CRO,14/05/1995,,NK Pomorac,HNK Rijeka,0,1,A,NaN,NaN,NaN
+CRO,14/05/1995,,NK Neretva,NK Marsonia,3,3,D,NaN,NaN,NaN
+CRO,14/05/1995,,NK Inker Zaprešić,HNK Šibenik,2,1,H,NaN,NaN,NaN
+CRO,14/05/1995,,Croatia Zagreb,NK Osijek,1,1,D,NaN,NaN,NaN
+CRO,14/05/1995,,Cibalia Vinkovci,NK Istra Pula,0,0,D,NaN,NaN,NaN
+CRO,14/05/1995,,NK Belišce,NK Zagreb,0,1,A,NaN,NaN,NaN
+CRO,24/05/1995,,NK Zagreb,NK Pomorac,2,0,H,NaN,NaN,NaN
+CRO,24/05/1995,,NK Zadar,HNK Segesta,1,1,D,NaN,NaN,NaN
+CRO,24/05/1995,,HNK Rijeka,NK Inker Zaprešić,0,1,A,NaN,NaN,NaN
+CRO,24/05/1995,,NK Osijek,NK Neretva,2,0,H,NaN,NaN,NaN
+CRO,24/05/1995,,NK Marsonia,Cibalia Vinkovci,3,0,H,NaN,NaN,NaN
+CRO,24/05/1995,,NK Istra Pula,NK Belišce,6,0,H,NaN,NaN,NaN
+CRO,24/05/1995,,Hajduk Split,Croatia Zagreb,3,1,H,NaN,NaN,NaN
+CRO,24/05/1995,,HNK Šibenik,NK Varteks,2,2,D,NaN,NaN,NaN
+CRO,31/05/1995,,NK Varteks,HNK Rijeka,0,0,D,NaN,NaN,NaN
+CRO,31/05/1995,,HNK Segesta,HNK Šibenik,1,0,H,NaN,NaN,NaN
+CRO,31/05/1995,,NK Pomorac,NK Istra Pula,1,1,D,NaN,NaN,NaN
+CRO,31/05/1995,,NK Osijek,NK Marsonia,5,2,H,NaN,NaN,NaN
+CRO,31/05/1995,,NK Neretva,Hajduk Split,1,4,A,NaN,NaN,NaN
+CRO,31/05/1995,,NK Inker Zaprešić,NK Zagreb,1,1,D,NaN,NaN,NaN
+CRO,31/05/1995,,Croatia Zagreb,NK Zadar,4,2,H,NaN,NaN,NaN
+CRO,31/05/1995,,NK Belišce,Cibalia Vinkovci,0,2,A,NaN,NaN,NaN
+CRO,04/06/1995,,NK Zagreb,NK Varteks,1,2,A,NaN,NaN,NaN
+CRO,04/06/1995,,NK Zadar,NK Neretva,2,0,H,NaN,NaN,NaN
+CRO,04/06/1995,,HNK Rijeka,HNK Segesta,0,0,D,NaN,NaN,NaN
+CRO,04/06/1995,,NK Marsonia,NK Belišce,2,0,H,NaN,NaN,NaN
+CRO,04/06/1995,,NK Istra Pula,NK Inker Zaprešić,2,2,D,NaN,NaN,NaN
+CRO,04/06/1995,,Hajduk Split,NK Osijek,3,0,H,NaN,NaN,NaN
+CRO,04/06/1995,,Cibalia Vinkovci,NK Pomorac,4,2,H,NaN,NaN,NaN
+CRO,04/06/1995,,HNK Šibenik,Croatia Zagreb,1,3,A,NaN,NaN,NaN

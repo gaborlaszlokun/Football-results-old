@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,10/03/2007,08:00,Luch-Energia,FK Moskva,0,1,A,0,1,A
+RUS,10/03/2007,10:00,FK Tom Tomsk,Spartak Nalchik,2,0,H,1,0,H
+RUS,10/03/2007,13:00,Krylia Sovetov,FK Khimki,1,0,H,1,0,H
+RUS,11/03/2007,11:00,Zenit St. Petersburg,FK Saturn,1,1,D,0,0,D
+RUS,11/03/2007,11:00,CSKA Moskva,Rubin Kazan,3,1,H,1,1,D
+RUS,11/03/2007,13:00,Dinamo Moskva,Spartak Moskva,0,1,A,0,0,D
+RUS,11/03/2007,13:00,FK Amkar Perm,FK Rostov,3,1,H,2,0,H
+RUS,11/03/2007,14:00,Kuban Krasnodar,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,17/03/2007,12:00,FK Khimki,Kuban Krasnodar,1,0,H,0,0,D
+RUS,17/03/2007,13:00,Spartak Nalchik,Krylia Sovetov,0,0,D,0,0,D
+RUS,17/03/2007,13:00,FK Moskva,FK Tom Tomsk,2,0,H,2,0,H
+RUS,17/03/2007,15:00,Lokomotiv Moskva,Rubin Kazan,2,1,H,1,1,D
+RUS,18/03/2007,11:00,Dinamo Moskva,CSKA Moskva,1,1,D,0,0,D
+RUS,18/03/2007,13:00,FK Rostov,Zenit St. Petersburg,2,3,A,0,2,A
+RUS,18/03/2007,14:00,FK Saturn,Luch-Energia,0,1,A,0,0,D
+RUS,18/03/2007,15:00,Spartak Moskva,FK Amkar Perm,0,0,D,0,0,D
+RUS,31/03/2007,11:00,Zenit St. Petersburg,Spartak Moskva,1,3,A,0,3,A
+RUS,31/03/2007,12:00,FK Tom Tomsk,FK Saturn,1,1,D,0,0,D
+RUS,31/03/2007,13:00,FK Amkar Perm,Dinamo Moskva,1,1,D,0,0,D
+RUS,31/03/2007,13:00,Krylia Sovetov,FK Moskva,0,0,D,0,0,D
+RUS,31/03/2007,13:00,CSKA Moskva,Lokomotiv Moskva,2,0,H,1,0,H
+RUS,31/03/2007,14:00,Rubin Kazan,FK Khimki,2,1,H,0,1,A
+RUS,01/04/2007,08:00,Luch-Energia,FK Rostov,1,1,D,1,0,H
+RUS,01/04/2007,14:00,Kuban Krasnodar,Spartak Nalchik,2,2,D,2,1,H
+RUS,07/04/2007,11:00,Dinamo Moskva,Lokomotiv Moskva,2,1,H,0,1,A
+RUS,07/04/2007,13:00,FK Moskva,Kuban Krasnodar,1,0,H,1,0,H
+RUS,07/04/2007,13:00,FK Saturn,Krylia Sovetov,1,1,D,1,1,D
+RUS,08/04/2007,12:00,FK Khimki,CSKA Moskva,1,1,D,0,0,D
+RUS,08/04/2007,13:00,FK Rostov,FK Tom Tomsk,2,2,D,1,0,H
+RUS,08/04/2007,13:00,FK Amkar Perm,Zenit St. Petersburg,1,1,D,1,0,H
+RUS,08/04/2007,14:00,Spartak Nalchik,Rubin Kazan,1,0,H,0,0,D
+RUS,08/04/2007,14:00,Spartak Moskva,Luch-Energia,2,1,H,0,0,D
+RUS,13/04/2007,16:00,Kuban Krasnodar,FK Saturn,2,2,D,0,1,A
+RUS,14/04/2007,09:00,Luch-Energia,FK Amkar Perm,1,0,H,1,0,H
+RUS,14/04/2007,11:00,Zenit St. Petersburg,Dinamo Moskva,3,0,H,1,0,H
+RUS,14/04/2007,13:00,Krylia Sovetov,FK Rostov,0,1,A,0,0,D
+RUS,14/04/2007,14:00,Rubin Kazan,FK Moskva,1,1,D,1,1,D
+RUS,14/04/2007,15:00,Lokomotiv Moskva,FK Khimki,1,0,H,1,0,H
+RUS,15/04/2007,11:00,CSKA Moskva,Spartak Nalchik,2,0,H,0,0,D
+RUS,15/04/2007,12:00,FK Tom Tomsk,Spartak Moskva,1,1,D,1,0,H
+RUS,21/04/2007,12:30,FK Rostov,Kuban Krasnodar,0,1,A,0,0,D
+RUS,21/04/2007,13:00,FK Amkar Perm,FK Tom Tomsk,3,3,D,3,3,D
+RUS,21/04/2007,13:30,FK Saturn,Rubin Kazan,1,0,H,0,0,D
+RUS,21/04/2007,16:00,Dinamo Moskva,FK Khimki,2,1,H,0,1,A
+RUS,22/04/2007,09:00,Luch-Energia,Zenit St. Petersburg,0,1,A,0,0,D
+RUS,22/04/2007,11:00,FK Moskva,CSKA Moskva,2,1,H,1,1,D
+RUS,22/04/2007,13:00,Spartak Moskva,Krylia Sovetov,1,0,H,1,0,H
+RUS,22/04/2007,16:00,Spartak Nalchik,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,28/04/2007,08:00,Luch-Energia,Dinamo Moskva,0,1,A,0,0,D
+RUS,28/04/2007,11:00,FK Tom Tomsk,Zenit St. Petersburg,0,1,A,0,0,D
+RUS,28/04/2007,13:30,FK Khimki,Spartak Nalchik,1,0,H,1,0,H
+RUS,28/04/2007,16:00,Lokomotiv Moskva,FK Moskva,1,1,D,0,1,A
+RUS,29/04/2007,11:00,CSKA Moskva,FK Saturn,3,1,H,2,1,H
+RUS,29/04/2007,13:00,Krylia Sovetov,FK Amkar Perm,1,0,H,0,0,D
+RUS,29/04/2007,15:00,Rubin Kazan,FK Rostov,0,0,D,0,0,D
+RUS,29/04/2007,17:00,Kuban Krasnodar,Spartak Moskva,0,0,D,0,0,D
+RUS,05/05/2007,08:00,Luch-Energia,FK Tom Tomsk,0,0,D,0,0,D
+RUS,05/05/2007,11:00,FK Amkar Perm,Kuban Krasnodar,0,0,D,0,0,D
+RUS,05/05/2007,13:00,FK Saturn,Lokomotiv Moskva,1,1,D,0,0,D
+RUS,05/05/2007,15:00,FK Moskva,FK Khimki,0,2,A,0,2,A
+RUS,05/05/2007,16:00,Dinamo Moskva,Spartak Nalchik,2,0,H,1,0,H
+RUS,06/05/2007,11:00,Spartak Moskva,Rubin Kazan,2,1,H,1,0,H
+RUS,06/05/2007,11:00,Zenit St. Petersburg,Krylia Sovetov,1,1,D,0,0,D
+RUS,06/05/2007,16:00,FK Rostov,CSKA Moskva,1,1,D,0,0,D
+RUS,12/05/2007,11:00,FK Tom Tomsk,Dinamo Moskva,1,0,H,1,0,H
+RUS,12/05/2007,11:00,CSKA Moskva,Spartak Moskva,1,1,D,1,0,H
+RUS,12/05/2007,13:00,Krylia Sovetov,Luch-Energia,3,0,H,2,0,H
+RUS,12/05/2007,16:00,Spartak Nalchik,FK Moskva,1,0,H,0,0,D
+RUS,13/05/2007,11:00,FK Khimki,FK Saturn,0,0,D,0,0,D
+RUS,13/05/2007,12:30,Rubin Kazan,FK Amkar Perm,1,0,H,0,0,D
+RUS,13/05/2007,15:00,Lokomotiv Moskva,FK Rostov,2,0,H,1,0,H
+RUS,13/05/2007,17:00,Kuban Krasnodar,Zenit St. Petersburg,1,1,D,1,1,D
+RUS,19/05/2007,10:00,Kuban Krasnodar,Luch-Energia,1,1,D,1,1,D
+RUS,19/05/2007,11:00,FK Rostov,FK Khimki,1,1,D,0,1,A
+RUS,19/05/2007,11:00,Spartak Moskva,Lokomotiv Moskva,1,2,A,0,1,A
+RUS,19/05/2007,15:00,FK Saturn,Spartak Nalchik,1,1,D,0,0,D
+RUS,20/05/2007,11:00,FK Amkar Perm,CSKA Moskva,1,1,D,0,0,D
+RUS,20/05/2007,11:00,Zenit St. Petersburg,Rubin Kazan,2,1,H,0,1,A
+RUS,20/05/2007,13:00,FK Tom Tomsk,Krylia Sovetov,1,2,A,1,0,H
+RUS,20/05/2007,16:00,Dinamo Moskva,FK Moskva,0,0,D,0,0,D
+RUS,25/05/2007,16:00,FK Khimki,Spartak Moskva,3,0,H,2,0,H
+RUS,26/05/2007,11:00,Rubin Kazan,Luch-Energia,3,0,H,2,0,H
+RUS,26/05/2007,11:00,CSKA Moskva,Zenit St. Petersburg,2,0,H,0,0,D
+RUS,26/05/2007,13:00,Krylia Sovetov,Dinamo Moskva,3,2,H,1,0,H
+RUS,26/05/2007,15:00,Kuban Krasnodar,FK Tom Tomsk,2,1,H,2,1,H
+RUS,26/05/2007,15:00,Spartak Nalchik,FK Rostov,0,0,D,0,0,D
+RUS,20/06/2007,16:00,Lokomotiv Moskva,FK Amkar Perm,0,1,A,0,1,A
+RUS,25/07/2007,16:00,FK Moskva,FK Saturn,3,2,H,0,0,D
+RUS,09/06/2007,12:00,FK Tom Tomsk,Rubin Kazan,2,0,H,0,0,D
+RUS,09/06/2007,14:00,FK Amkar Perm,FK Khimki,3,1,H,0,1,A
+RUS,09/06/2007,15:30,Krylia Sovetov,Kuban Krasnodar,2,3,A,0,0,D
+RUS,10/06/2007,09:00,Luch-Energia,CSKA Moskva,4,0,H,2,0,H
+RUS,10/06/2007,11:00,Spartak Moskva,Spartak Nalchik,2,2,D,0,2,A
+RUS,10/06/2007,15:30,Dinamo Moskva,FK Saturn,1,1,D,1,0,H
+RUS,10/06/2007,18:00,FK Rostov,FK Moskva,1,1,D,0,1,A
+RUS,11/06/2007,16:00,Zenit St. Petersburg,Lokomotiv Moskva,1,1,D,0,1,A
+RUS,16/06/2007,09:00,Luch-Energia,Lokomotiv Moskva,3,0,H,1,0,H
+RUS,16/06/2007,11:30,CSKA Moskva,FK Tom Tomsk,0,0,D,0,0,D
+RUS,16/06/2007,13:00,FK Khimki,Zenit St. Petersburg,2,2,D,0,1,A
+RUS,16/06/2007,14:00,FK Saturn,FK Rostov,1,0,H,1,0,H
+RUS,16/06/2007,15:30,Rubin Kazan,Krylia Sovetov,1,0,H,1,0,H
+RUS,16/06/2007,18:30,Spartak Nalchik,FK Amkar Perm,0,1,A,0,0,D
+RUS,17/06/2007,11:00,FK Moskva,Spartak Moskva,2,0,H,2,0,H
+RUS,17/06/2007,17:30,Kuban Krasnodar,Dinamo Moskva,0,4,A,0,1,A
+RUS,22/06/2007,16:00,Spartak Moskva,FK Saturn,2,0,H,0,0,D
+RUS,23/06/2007,09:00,Luch-Energia,FK Khimki,1,1,D,0,0,D
+RUS,23/06/2007,15:30,Dinamo Moskva,FK Rostov,3,0,H,1,0,H
+RUS,23/06/2007,18:00,Kuban Krasnodar,Rubin Kazan,0,1,A,0,1,A
+RUS,24/06/2007,10:00,FK Tom Tomsk,Lokomotiv Moskva,4,2,H,1,1,D
+RUS,24/06/2007,11:00,Krylia Sovetov,CSKA Moskva,1,0,H,1,0,H
+RUS,24/06/2007,13:00,FK Amkar Perm,FK Moskva,1,1,D,0,0,D
+RUS,24/06/2007,16:00,Zenit St. Petersburg,Spartak Nalchik,4,3,H,2,1,H
+RUS,30/06/2007,13:00,FK Saturn,FK Amkar Perm,2,0,H,1,0,H
+RUS,30/06/2007,15:30,Lokomotiv Moskva,Krylia Sovetov,5,2,H,0,2,A
+RUS,30/06/2007,18:00,Spartak Nalchik,Luch-Energia,2,0,H,1,0,H
+RUS,01/07/2007,11:00,FK Moskva,Zenit St. Petersburg,0,3,A,0,2,A
+RUS,01/07/2007,13:00,CSKA Moskva,Kuban Krasnodar,0,0,D,0,0,D
+RUS,01/07/2007,13:30,FK Khimki,FK Tom Tomsk,1,1,D,1,0,H
+RUS,01/07/2007,16:00,Rubin Kazan,Dinamo Moskva,2,1,H,1,1,D
+RUS,01/07/2007,17:00,FK Rostov,Spartak Moskva,1,3,A,1,2,A
+RUS,14/07/2007,09:00,Luch-Energia,FK Saturn,2,1,H,0,0,D
+RUS,14/07/2007,11:00,CSKA Moskva,Dinamo Moskva,0,1,A,0,1,A
+RUS,14/07/2007,13:00,FK Amkar Perm,Spartak Moskva,0,1,A,0,1,A
+RUS,14/07/2007,17:00,Kuban Krasnodar,FK Khimki,1,1,D,1,1,D
+RUS,15/07/2007,11:00,FK Tom Tomsk,FK Moskva,1,2,A,1,1,D
+RUS,15/07/2007,13:30,Krylia Sovetov,Spartak Nalchik,1,2,A,0,0,D
+RUS,15/07/2007,16:00,Zenit St. Petersburg,FK Rostov,2,0,H,1,0,H
+RUS,25/07/2007,16:00,Rubin Kazan,Lokomotiv Moskva,3,0,H,2,0,H
+RUS,20/07/2007,16:00,Dinamo Moskva,FK Amkar Perm,0,0,D,0,0,D
+RUS,21/07/2007,11:00,FK Rostov,Luch-Energia,1,1,D,0,1,A
+RUS,21/07/2007,11:00,Spartak Moskva,Zenit St. Petersburg,3,1,H,1,1,D
+RUS,21/07/2007,13:30,FK Saturn,FK Tom Tomsk,0,0,D,0,0,D
+RUS,21/07/2007,16:30,FK Moskva,Krylia Sovetov,3,1,H,1,1,D
+RUS,22/07/2007,15:00,Lokomotiv Moskva,CSKA Moskva,1,2,A,0,1,A
+RUS,22/07/2007,17:30,Spartak Nalchik,Kuban Krasnodar,1,0,H,0,0,D
+RUS,01/08/2007,16:00,FK Khimki,Rubin Kazan,0,0,D,0,0,D
+RUS,28/07/2007,09:00,Luch-Energia,Spartak Moskva,1,1,D,1,0,H
+RUS,28/07/2007,11:00,Zenit St. Petersburg,FK Amkar Perm,0,0,D,0,0,D
+RUS,28/07/2007,15:00,Lokomotiv Moskva,Dinamo Moskva,2,2,D,0,0,D
+RUS,29/07/2007,12:00,FK Tom Tomsk,FK Rostov,1,1,D,1,0,H
+RUS,29/07/2007,15:00,Krylia Sovetov,FK Saturn,0,1,A,0,1,A
+RUS,29/07/2007,15:00,CSKA Moskva,FK Khimki,0,0,D,0,0,D
+RUS,29/07/2007,17:30,Kuban Krasnodar,FK Moskva,4,1,H,0,0,D
+RUS,26/09/2007,16:00,Rubin Kazan,Spartak Nalchik,2,1,H,0,0,D
+RUS,18/07/2007,16:00,FK Khimki,Lokomotiv Moskva,1,2,A,0,1,A
+RUS,03/08/2007,16:00,FK Saturn,Kuban Krasnodar,2,0,H,2,0,H
+RUS,04/08/2007,11:00,Dinamo Moskva,Zenit St. Petersburg,4,2,H,1,1,D
+RUS,04/08/2007,13:30,FK Amkar Perm,Luch-Energia,1,0,H,0,0,D
+RUS,04/08/2007,16:00,FK Rostov,Krylia Sovetov,1,1,D,0,0,D
+RUS,05/08/2007,14:00,FK Moskva,Rubin Kazan,2,1,H,1,1,D
+RUS,05/08/2007,16:00,Spartak Moskva,FK Tom Tomsk,3,2,H,0,1,A
+RUS,05/08/2007,17:00,Spartak Nalchik,CSKA Moskva,1,1,D,0,1,A
+RUS,11/08/2007,13:30,Zenit St. Petersburg,Luch-Energia,3,1,H,1,0,H
+RUS,11/08/2007,14:00,Krylia Sovetov,Spartak Moskva,0,2,A,0,2,A
+RUS,11/08/2007,16:00,Lokomotiv Moskva,Spartak Nalchik,3,1,H,2,0,H
+RUS,11/08/2007,16:30,FK Khimki,Dinamo Moskva,1,0,H,1,0,H
+RUS,12/08/2007,11:00,CSKA Moskva,FK Moskva,2,0,H,0,0,D
+RUS,12/08/2007,13:15,FK Tom Tomsk,FK Amkar Perm,0,1,A,0,0,D
+RUS,12/08/2007,15:30,Rubin Kazan,FK Saturn,0,1,A,0,1,A
+RUS,12/08/2007,18:00,Kuban Krasnodar,FK Rostov,1,0,H,0,0,D
+RUS,18/08/2007,11:00,FK Saturn,CSKA Moskva,2,2,D,2,2,D
+RUS,18/08/2007,13:00,FK Amkar Perm,Krylia Sovetov,4,1,H,2,1,H
+RUS,18/08/2007,16:00,Dinamo Moskva,Luch-Energia,1,0,H,1,0,H
+RUS,18/08/2007,17:00,Spartak Nalchik,FK Khimki,1,1,D,1,0,H
+RUS,19/08/2007,14:00,Spartak Moskva,Kuban Krasnodar,4,0,H,2,0,H
+RUS,19/08/2007,15:00,FK Moskva,Lokomotiv Moskva,1,2,A,1,1,D
+RUS,19/08/2007,16:30,Zenit St. Petersburg,FK Tom Tomsk,2,1,H,2,1,H
+RUS,19/08/2007,17:30,FK Rostov,Rubin Kazan,1,1,D,0,1,A
+RUS,25/08/2007,11:00,Lokomotiv Moskva,FK Saturn,0,2,A,0,2,A
+RUS,25/08/2007,13:15,FK Tom Tomsk,Luch-Energia,3,1,H,1,0,H
+RUS,25/08/2007,15:00,Rubin Kazan,Spartak Moskva,3,1,H,1,1,D
+RUS,25/08/2007,15:30,Krylia Sovetov,Zenit St. Petersburg,1,3,A,1,2,A
+RUS,26/08/2007,12:30,CSKA Moskva,FK Rostov,4,0,H,1,0,H
+RUS,26/08/2007,15:00,FK Khimki,FK Moskva,1,3,A,1,1,D
+RUS,26/08/2007,17:30,Kuban Krasnodar,FK Amkar Perm,1,1,D,0,1,A
+RUS,26/08/2007,17:30,Spartak Nalchik,Dinamo Moskva,4,1,H,2,0,H
+RUS,31/08/2007,16:00,FK Moskva,Spartak Nalchik,1,0,H,0,0,D
+RUS,31/08/2007,16:00,Dinamo Moskva,FK Tom Tomsk,3,1,H,1,0,H
+RUS,01/09/2007,09:00,Luch-Energia,Krylia Sovetov,0,0,D,0,0,D
+RUS,01/09/2007,13:00,FK Amkar Perm,Rubin Kazan,2,1,H,2,0,H
+RUS,01/09/2007,15:30,FK Saturn,FK Khimki,1,0,H,0,0,D
+RUS,02/09/2007,11:00,Spartak Moskva,CSKA Moskva,1,1,D,1,0,H
+RUS,02/09/2007,16:00,FK Rostov,Lokomotiv Moskva,0,2,A,0,1,A
+RUS,02/09/2007,16:00,Zenit St. Petersburg,Kuban Krasnodar,1,0,H,0,0,D
+RUS,21/09/2007,16:00,FK Khimki,FK Rostov,1,0,H,0,0,D
+RUS,22/09/2007,09:00,Luch-Energia,Kuban Krasnodar,1,0,H,0,0,D
+RUS,22/09/2007,11:00,FK Moskva,Dinamo Moskva,4,1,H,2,1,H
+RUS,22/09/2007,14:00,Spartak Nalchik,FK Saturn,1,3,A,1,1,D
+RUS,23/09/2007,11:00,Lokomotiv Moskva,Spartak Moskva,4,3,H,2,2,D
+RUS,23/09/2007,13:00,Krylia Sovetov,FK Tom Tomsk,1,1,D,0,1,A
+RUS,23/09/2007,14:00,CSKA Moskva,FK Amkar Perm,1,0,H,0,0,D
+RUS,23/09/2007,16:30,Rubin Kazan,Zenit St. Petersburg,1,4,A,0,2,A
+RUS,29/09/2007,09:00,Luch-Energia,Rubin Kazan,2,0,H,0,0,D
+RUS,29/09/2007,11:00,Zenit St. Petersburg,CSKA Moskva,2,1,H,1,0,H
+RUS,29/09/2007,13:00,Spartak Moskva,FK Khimki,2,0,H,1,0,H
+RUS,29/09/2007,13:30,FK Amkar Perm,Lokomotiv Moskva,1,0,H,0,0,D
+RUS,30/09/2007,11:00,FK Tom Tomsk,Kuban Krasnodar,2,0,H,1,0,H
+RUS,30/09/2007,12:15,FK Saturn,FK Moskva,0,0,D,0,0,D
+RUS,30/09/2007,14:45,Dinamo Moskva,Krylia Sovetov,1,1,D,1,1,D
+RUS,30/09/2007,17:00,FK Rostov,Spartak Nalchik,0,1,A,0,0,D
+RUS,06/10/2007,12:00,FK Moskva,FK Rostov,1,0,H,0,0,D
+RUS,06/10/2007,14:30,FK Khimki,FK Amkar Perm,1,0,H,0,0,D
+RUS,06/10/2007,16:00,FK Saturn,Dinamo Moskva,2,1,H,2,1,H
+RUS,06/10/2007,17:00,Kuban Krasnodar,Krylia Sovetov,3,2,H,1,0,H
+RUS,07/10/2007,11:00,Lokomotiv Moskva,Zenit St. Petersburg,1,0,H,0,0,D
+RUS,07/10/2007,13:00,CSKA Moskva,Luch-Energia,4,0,H,1,0,H
+RUS,07/10/2007,13:30,Rubin Kazan,FK Tom Tomsk,1,3,A,1,1,D
+RUS,08/10/2007,16:00,Spartak Nalchik,Spartak Moskva,1,2,A,0,1,A
+RUS,20/10/2007,11:00,Spartak Moskva,FK Moskva,3,1,H,1,1,D
+RUS,20/10/2007,13:00,FK Tom Tomsk,CSKA Moskva,0,1,A,0,1,A
+RUS,20/10/2007,16:00,Lokomotiv Moskva,Luch-Energia,1,1,D,0,1,A
+RUS,21/10/2007,10:00,FK Amkar Perm,Spartak Nalchik,1,1,D,0,0,D
+RUS,21/10/2007,12:00,Krylia Sovetov,Rubin Kazan,3,0,H,1,0,H
+RUS,21/10/2007,13:00,Zenit St. Petersburg,FK Khimki,4,1,H,2,1,H
+RUS,21/10/2007,14:15,FK Rostov,FK Saturn,1,3,A,1,2,A
+RUS,21/10/2007,16:30,Dinamo Moskva,Kuban Krasnodar,1,0,H,1,0,H
+RUS,27/10/2007,11:00,FK Khimki,Luch-Energia,3,0,H,2,0,H
+RUS,27/10/2007,12:00,FK Moskva,FK Amkar Perm,3,1,H,2,1,H
+RUS,27/10/2007,13:15,FK Rostov,Dinamo Moskva,0,0,D,0,0,D
+RUS,27/10/2007,15:30,Rubin Kazan,Kuban Krasnodar,2,2,D,0,1,A
+RUS,28/10/2007,11:00,FK Saturn,Spartak Moskva,0,0,D,0,0,D
+RUS,28/10/2007,13:00,CSKA Moskva,Krylia Sovetov,4,2,H,3,0,H
+RUS,28/10/2007,13:15,Lokomotiv Moskva,FK Tom Tomsk,0,0,D,0,0,D
+RUS,28/10/2007,15:30,Spartak Nalchik,Zenit St. Petersburg,0,3,A,0,0,D
+RUS,03/11/2007,11:00,Spartak Moskva,FK Rostov,3,0,H,1,0,H
+RUS,03/11/2007,11:00,Dinamo Moskva,Rubin Kazan,0,1,A,0,0,D
+RUS,03/11/2007,11:00,FK Amkar Perm,FK Saturn,3,1,H,3,0,H
+RUS,03/11/2007,11:00,Zenit St. Petersburg,FK Moskva,1,0,H,1,0,H
+RUS,03/11/2007,11:00,Luch-Energia,Spartak Nalchik,2,1,H,2,1,H
+RUS,03/11/2007,11:00,FK Tom Tomsk,FK Khimki,3,1,H,1,0,H
+RUS,03/11/2007,11:00,Krylia Sovetov,Lokomotiv Moskva,3,1,H,0,1,A
+RUS,03/11/2007,11:00,Kuban Krasnodar,CSKA Moskva,0,1,A,0,0,D
+RUS,11/11/2007,13:00,Rubin Kazan,CSKA Moskva,0,1,A,0,0,D
+RUS,11/11/2007,13:00,Lokomotiv Moskva,Kuban Krasnodar,2,3,A,1,1,D
+RUS,11/11/2007,13:00,FK Khimki,Krylia Sovetov,4,1,H,2,0,H
+RUS,11/11/2007,13:00,Spartak Nalchik,FK Tom Tomsk,1,0,H,1,0,H
+RUS,11/11/2007,13:00,FK Moskva,Luch-Energia,3,1,H,1,0,H
+RUS,11/11/2007,13:00,FK Saturn,Zenit St. Petersburg,0,1,A,0,1,A
+RUS,11/11/2007,13:00,FK Rostov,FK Amkar Perm,2,0,H,0,0,D
+RUS,11/11/2007,13:00,Spartak Moskva,Dinamo Moskva,2,1,H,1,0,H

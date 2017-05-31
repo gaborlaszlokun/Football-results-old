@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUS,14/02/1981,,Blacktown City SC,Brisbane Lions,2,2,D,NaN,NaN,NaN
+AUS,15/02/1981,,Adelaide City FC,Sydney City SC,0,1,A,NaN,NaN,NaN
+AUS,15/02/1981,,APIA Leichhardt Tigers,Heidelberg United,2,2,D,NaN,NaN,NaN
+AUS,15/02/1981,,Brisbane City SC,West Adelaide Hellas,2,1,H,NaN,NaN,NaN
+AUS,15/02/1981,,Newcastle KB United,Footscray JUST,3,0,H,NaN,NaN,NaN
+AUS,15/02/1981,,Preston Makedonia,Canberra City,0,1,A,NaN,NaN,NaN
+AUS,15/02/1981,,South Melbourne Hellas,Marconi-Fairfield,1,0,H,NaN,NaN,NaN
+AUS,15/02/1981,,Wollongong City,Sydney Olympic SC,3,1,H,NaN,NaN,NaN
+AUS,22/02/1981,,Brisbane Lions,Newcastle KB United,0,1,A,NaN,NaN,NaN
+AUS,22/02/1981,,Canberra City,Adelaide City FC,0,0,D,NaN,NaN,NaN
+AUS,22/02/1981,,Footscray JUST,APIA Leichhardt Tigers,2,1,H,NaN,NaN,NaN
+AUS,22/02/1981,,Heidelberg United,Wollongong City,0,3,A,NaN,NaN,NaN
+AUS,22/02/1981,,Marconi-Fairfield,Preston Makedonia,1,0,H,NaN,NaN,NaN
+AUS,22/02/1981,,Sydney City SC,Brisbane City SC,1,1,D,NaN,NaN,NaN
+AUS,22/02/1981,,Sydney Olympic SC,South Melbourne Hellas,2,2,D,NaN,NaN,NaN
+AUS,22/02/1981,,West Adelaide Hellas,Blacktown City SC,2,0,H,NaN,NaN,NaN
+AUS,01/03/1981,,Adelaide City FC,Marconi-Fairfield,0,1,A,NaN,NaN,NaN
+AUS,01/03/1981,,APIA Leichhardt Tigers,Brisbane Lions,0,0,D,NaN,NaN,NaN
+AUS,01/03/1981,,Brisbane City SC,Canberra City,0,0,D,NaN,NaN,NaN
+AUS,01/03/1981,,Newcastle KB United,Blacktown City SC,1,1,D,NaN,NaN,NaN
+AUS,01/03/1981,,Preston Makedonia,Sydney Olympic SC,3,1,H,NaN,NaN,NaN
+AUS,01/03/1981,,South Melbourne Hellas,Heidelberg United,2,1,H,NaN,NaN,NaN
+AUS,01/03/1981,,Sydney City SC,West Adelaide Hellas,1,0,H,NaN,NaN,NaN
+AUS,01/03/1981,,Wollongong City,Footscray JUST,2,1,H,NaN,NaN,NaN
+AUS,07/03/1981,,Canberra City,Sydney City SC,2,0,H,NaN,NaN,NaN
+AUS,08/03/1981,,Blacktown City SC,APIA Leichhardt Tigers,0,1,A,NaN,NaN,NaN
+AUS,08/03/1981,,Brisbane Lions,Wollongong City,1,1,D,NaN,NaN,NaN
+AUS,08/03/1981,,Footscray JUST,South Melbourne Hellas,1,2,A,NaN,NaN,NaN
+AUS,08/03/1981,,Heidelberg United,Preston Makedonia,2,3,A,NaN,NaN,NaN
+AUS,08/03/1981,,Marconi-Fairfield,Brisbane City SC,1,1,D,NaN,NaN,NaN
+AUS,08/03/1981,,Sydney Olympic SC,Adelaide City FC,3,1,H,NaN,NaN,NaN
+AUS,08/03/1981,,West Adelaide Hellas,Newcastle KB United,0,1,A,NaN,NaN,NaN
+AUS,15/03/1981,,Adelaide City FC,Heidelberg United,3,1,H,NaN,NaN,NaN
+AUS,15/03/1981,,APIA Leichhardt Tigers,Newcastle KB United,2,1,H,NaN,NaN,NaN
+AUS,15/03/1981,,Brisbane City SC,Sydney Olympic SC,3,0,H,NaN,NaN,NaN
+AUS,15/03/1981,,Canberra City,West Adelaide Hellas,1,2,A,NaN,NaN,NaN
+AUS,15/03/1981,,Preston Makedonia,Footscray JUST,3,0,H,NaN,NaN,NaN
+AUS,15/03/1981,,South Melbourne Hellas,Brisbane Lions,1,0,H,NaN,NaN,NaN
+AUS,15/03/1981,,Sydney City SC,Marconi-Fairfield,5,0,H,NaN,NaN,NaN
+AUS,15/03/1981,,Wollongong City,Blacktown City SC,1,1,D,NaN,NaN,NaN
+AUS,28/03/1981,,Blacktown City SC,South Melbourne Hellas,2,2,D,NaN,NaN,NaN
+AUS,29/03/1981,,Brisbane Lions,Preston Makedonia,2,1,H,NaN,NaN,NaN
+AUS,29/03/1981,,Footscray JUST,Adelaide City FC,1,1,D,NaN,NaN,NaN
+AUS,29/03/1981,,Heidelberg United,Brisbane City SC,2,0,H,NaN,NaN,NaN
+AUS,29/03/1981,,Marconi-Fairfield,Canberra City,0,2,A,NaN,NaN,NaN
+AUS,29/03/1981,,Newcastle KB United,Wollongong City,1,1,D,NaN,NaN,NaN
+AUS,29/03/1981,,Sydney Olympic SC,Sydney City SC,2,2,D,NaN,NaN,NaN
+AUS,29/03/1981,,West Adelaide Hellas,APIA Leichhardt Tigers,1,2,A,NaN,NaN,NaN
+AUS,05/04/1981,,Adelaide City FC,Brisbane Lions,3,2,H,NaN,NaN,NaN
+AUS,05/04/1981,,Brisbane City SC,Footscray JUST,2,0,H,NaN,NaN,NaN
+AUS,05/04/1981,,Canberra City,Sydney Olympic SC,2,1,H,NaN,NaN,NaN
+AUS,05/04/1981,,Marconi-Fairfield,West Adelaide Hellas,1,0,H,NaN,NaN,NaN
+AUS,05/04/1981,,Preston Makedonia,Blacktown City SC,2,3,A,NaN,NaN,NaN
+AUS,05/04/1981,,South Melbourne Hellas,Newcastle KB United,2,0,H,NaN,NaN,NaN
+AUS,05/04/1981,,Sydney City SC,Heidelberg United,1,0,H,NaN,NaN,NaN
+AUS,05/04/1981,,Wollongong City,APIA Leichhardt Tigers,1,1,D,NaN,NaN,NaN
+AUS,12/04/1981,,APIA Leichhardt Tigers,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,12/04/1981,,Blacktown City SC,Adelaide City FC,1,5,A,NaN,NaN,NaN
+AUS,12/04/1981,,Brisbane Lions,Brisbane City SC,1,0,H,NaN,NaN,NaN
+AUS,12/04/1981,,Footscray JUST,Sydney City SC,1,0,H,NaN,NaN,NaN
+AUS,12/04/1981,,Heidelberg United,Canberra City,1,1,D,NaN,NaN,NaN
+AUS,12/04/1981,,Newcastle KB United,Preston Makedonia,4,0,H,NaN,NaN,NaN
+AUS,12/04/1981,,Sydney Olympic SC,Marconi-Fairfield,2,0,H,NaN,NaN,NaN
+AUS,12/04/1981,,West Adelaide Hellas,Wollongong City,0,0,D,NaN,NaN,NaN
+AUS,18/04/1981,,Brisbane City SC,Blacktown City SC,2,1,H,NaN,NaN,NaN
+AUS,19/04/1981,,Adelaide City FC,Newcastle KB United,4,1,H,NaN,NaN,NaN
+AUS,19/04/1981,,Marconi-Fairfield,Heidelberg United,3,1,H,NaN,NaN,NaN
+AUS,19/04/1981,,Preston Makedonia,APIA Leichhardt Tigers,3,1,H,NaN,NaN,NaN
+AUS,19/04/1981,,South Melbourne Hellas,Wollongong City,1,0,H,NaN,NaN,NaN
+AUS,19/04/1981,,Sydney City SC,Brisbane Lions,1,1,D,NaN,NaN,NaN
+AUS,19/04/1981,,Sydney Olympic SC,West Adelaide Hellas,3,1,H,NaN,NaN,NaN
+AUS,20/04/1981,,Canberra City,Footscray JUST,5,0,H,NaN,NaN,NaN
+AUS,22/03/1981,,Footscray JUST,Marconi-Fairfield,1,2,A,NaN,NaN,NaN
+AUS,22/03/1981,,Heidelberg United,Sydney Olympic SC,1,0,H,NaN,NaN,NaN
+AUS,26/04/1981,,Brisbane Lions,Canberra City,1,0,H,NaN,NaN,NaN
+AUS,26/04/1981,,Newcastle KB United,Brisbane City SC,0,2,A,NaN,NaN,NaN
+AUS,26/04/1981,,Wollongong City,Preston Makedonia,2,2,D,NaN,NaN,NaN
+AUS,06/05/1981,,West Adelaide Hellas,South Melbourne Hellas,0,2,A,NaN,NaN,NaN
+AUS,03/06/1981,,APIA Leichhardt Tigers,Adelaide City FC,3,0,H,NaN,NaN,NaN
+AUS,15/07/1981,,Blacktown City SC,Sydney City SC,1,0,H,NaN,NaN,NaN
+AUS,03/05/1981,,Adelaide City FC,Wollongong City,1,2,A,NaN,NaN,NaN
+AUS,03/05/1981,,Brisbane City SC,APIA Leichhardt Tigers,0,0,D,NaN,NaN,NaN
+AUS,03/05/1981,,Canberra City,Blacktown City SC,2,2,D,NaN,NaN,NaN
+AUS,03/05/1981,,Heidelberg United,West Adelaide Hellas,2,0,H,NaN,NaN,NaN
+AUS,03/05/1981,,Marconi-Fairfield,Brisbane Lions,2,1,H,NaN,NaN,NaN
+AUS,03/05/1981,,Preston Makedonia,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,03/05/1981,,Sydney City SC,Newcastle KB United,4,1,H,NaN,NaN,NaN
+AUS,03/05/1981,,Sydney Olympic SC,Footscray JUST,0,0,D,NaN,NaN,NaN
+AUS,10/05/1981,,APIA Leichhardt Tigers,Sydney City SC,0,1,A,NaN,NaN,NaN
+AUS,10/05/1981,,Blacktown City SC,Marconi-Fairfield,0,2,A,NaN,NaN,NaN
+AUS,10/05/1981,,Brisbane Lions,Sydney Olympic SC,1,1,D,NaN,NaN,NaN
+AUS,10/05/1981,,Footscray JUST,Heidelberg United,2,2,D,NaN,NaN,NaN
+AUS,10/05/1981,,Newcastle KB United,Canberra City,0,1,A,NaN,NaN,NaN
+AUS,10/05/1981,,South Melbourne Hellas,Adelaide City FC,0,0,D,NaN,NaN,NaN
+AUS,10/05/1981,,West Adelaide Hellas,Preston Makedonia,4,0,H,NaN,NaN,NaN
+AUS,10/05/1981,,Wollongong City,Brisbane City SC,0,0,D,NaN,NaN,NaN
+AUS,17/05/1981,,Adelaide City FC,Preston Makedonia,1,0,H,NaN,NaN,NaN
+AUS,17/05/1981,,Canberra City,APIA Leichhardt Tigers,0,1,A,NaN,NaN,NaN
+AUS,17/05/1981,,Footscray JUST,West Adelaide Hellas,1,1,D,NaN,NaN,NaN
+AUS,17/05/1981,,Sydney Olympic SC,Blacktown City SC,1,0,H,NaN,NaN,NaN
+AUS,17/06/1981,,Marconi-Fairfield,Newcastle KB United,1,2,A,NaN,NaN,NaN
+AUS,01/07/1981,,Sydney City SC,Wollongong City,1,0,H,NaN,NaN,NaN
+AUS,12/08/1981,,Brisbane City SC,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,26/08/1981,,Heidelberg United,Brisbane Lions,2,2,D,NaN,NaN,NaN
+AUS,24/05/1981,,Blacktown City SC,Heidelberg United,3,1,H,NaN,NaN,NaN
+AUS,24/05/1981,,Brisbane Lions,Footscray JUST,4,0,H,NaN,NaN,NaN
+AUS,24/05/1981,,Newcastle KB United,Sydney Olympic SC,1,2,A,NaN,NaN,NaN
+AUS,24/05/1981,,Preston Makedonia,Brisbane City SC,1,1,D,NaN,NaN,NaN
+AUS,24/05/1981,,South Melbourne Hellas,Sydney City SC,1,3,A,NaN,NaN,NaN
+AUS,24/05/1981,,West Adelaide Hellas,Adelaide City FC,0,3,A,NaN,NaN,NaN
+AUS,24/05/1981,,Wollongong City,Canberra City,0,1,A,NaN,NaN,NaN
+AUS,09/09/1981,,APIA Leichhardt Tigers,Marconi-Fairfield,1,1,D,NaN,NaN,NaN
+AUS,31/05/1981,,Adelaide City FC,Brisbane City SC,1,0,H,NaN,NaN,NaN
+AUS,31/05/1981,,Brisbane Lions,West Adelaide Hellas,3,1,H,NaN,NaN,NaN
+AUS,31/05/1981,,Canberra City,South Melbourne Hellas,2,2,D,NaN,NaN,NaN
+AUS,31/05/1981,,Footscray JUST,Blacktown City SC,2,0,H,NaN,NaN,NaN
+AUS,31/05/1981,,Heidelberg United,Newcastle KB United,1,2,A,NaN,NaN,NaN
+AUS,31/05/1981,,Marconi-Fairfield,Wollongong City,1,1,D,NaN,NaN,NaN
+AUS,31/05/1981,,Sydney City SC,Preston Makedonia,2,0,H,NaN,NaN,NaN
+AUS,31/05/1981,,Sydney Olympic SC,APIA Leichhardt Tigers,1,3,A,NaN,NaN,NaN
+AUS,07/06/1981,,Adelaide City FC,Canberra City,1,0,H,NaN,NaN,NaN
+AUS,07/06/1981,,APIA Leichhardt Tigers,Footscray JUST,2,0,H,NaN,NaN,NaN
+AUS,07/06/1981,,Blacktown City SC,West Adelaide Hellas,4,0,H,NaN,NaN,NaN
+AUS,07/06/1981,,Brisbane City SC,Sydney City SC,2,0,H,NaN,NaN,NaN
+AUS,07/06/1981,,Newcastle KB United,Brisbane Lions,1,1,D,NaN,NaN,NaN
+AUS,07/06/1981,,Preston Makedonia,Marconi-Fairfield,0,0,D,NaN,NaN,NaN
+AUS,07/06/1981,,South Melbourne Hellas,Sydney Olympic SC,1,1,D,NaN,NaN,NaN
+AUS,07/06/1981,,Wollongong City,Heidelberg United,3,4,A,NaN,NaN,NaN
+AUS,14/06/1981,,Blacktown City SC,Newcastle KB United,1,2,A,NaN,NaN,NaN
+AUS,14/06/1981,,Brisbane Lions,APIA Leichhardt Tigers,0,0,D,NaN,NaN,NaN
+AUS,14/06/1981,,Canberra City,Brisbane City SC,3,0,H,NaN,NaN,NaN
+AUS,14/06/1981,,Footscray JUST,Wollongong City,1,1,D,NaN,NaN,NaN
+AUS,14/06/1981,,Heidelberg United,South Melbourne Hellas,0,0,D,NaN,NaN,NaN
+AUS,14/06/1981,,Marconi-Fairfield,Adelaide City FC,1,4,A,NaN,NaN,NaN
+AUS,14/06/1981,,Sydney Olympic SC,Preston Makedonia,2,1,H,NaN,NaN,NaN
+AUS,14/06/1981,,West Adelaide Hellas,Sydney City SC,1,2,A,NaN,NaN,NaN
+AUS,21/06/1981,,Adelaide City FC,Sydney Olympic SC,3,1,H,NaN,NaN,NaN
+AUS,21/06/1981,,APIA Leichhardt Tigers,Blacktown City SC,3,2,H,NaN,NaN,NaN
+AUS,21/06/1981,,Brisbane City SC,Marconi-Fairfield,4,0,H,NaN,NaN,NaN
+AUS,21/06/1981,,Newcastle KB United,West Adelaide Hellas,4,2,H,NaN,NaN,NaN
+AUS,21/06/1981,,Preston Makedonia,Heidelberg United,0,2,A,NaN,NaN,NaN
+AUS,21/06/1981,,South Melbourne Hellas,Footscray JUST,2,1,H,NaN,NaN,NaN
+AUS,21/06/1981,,Sydney City SC,Canberra City,3,2,H,NaN,NaN,NaN
+AUS,21/06/1981,,Wollongong City,Brisbane Lions,1,1,D,NaN,NaN,NaN
+AUS,28/06/1981,,Blacktown City SC,Wollongong City,0,1,A,NaN,NaN,NaN
+AUS,28/06/1981,,Brisbane Lions,South Melbourne Hellas,2,0,H,NaN,NaN,NaN
+AUS,28/06/1981,,Footscray JUST,Preston Makedonia,2,1,H,NaN,NaN,NaN
+AUS,28/06/1981,,Heidelberg United,Adelaide City FC,1,2,A,NaN,NaN,NaN
+AUS,28/06/1981,,Marconi-Fairfield,Sydney City SC,1,0,H,NaN,NaN,NaN
+AUS,28/06/1981,,Newcastle KB United,APIA Leichhardt Tigers,4,1,H,NaN,NaN,NaN
+AUS,28/06/1981,,Sydney Olympic SC,Brisbane City SC,1,1,D,NaN,NaN,NaN
+AUS,28/06/1981,,West Adelaide Hellas,Canberra City,1,1,D,NaN,NaN,NaN
+AUS,05/07/1981,,Adelaide City FC,Footscray JUST,1,3,A,NaN,NaN,NaN
+AUS,05/07/1981,,APIA Leichhardt Tigers,West Adelaide Hellas,1,0,H,NaN,NaN,NaN
+AUS,05/07/1981,,Brisbane City SC,Heidelberg United,1,2,A,NaN,NaN,NaN
+AUS,05/07/1981,,Canberra City,Marconi-Fairfield,0,0,D,NaN,NaN,NaN
+AUS,05/07/1981,,Preston Makedonia,Brisbane Lions,1,1,D,NaN,NaN,NaN
+AUS,05/07/1981,,South Melbourne Hellas,Blacktown City SC,2,1,H,NaN,NaN,NaN
+AUS,05/07/1981,,Sydney City SC,Sydney Olympic SC,5,4,H,NaN,NaN,NaN
+AUS,05/07/1981,,Wollongong City,Newcastle KB United,0,0,D,NaN,NaN,NaN
+AUS,12/07/1981,,APIA Leichhardt Tigers,Wollongong City,1,0,H,NaN,NaN,NaN
+AUS,12/07/1981,,Blacktown City SC,Preston Makedonia,0,0,D,NaN,NaN,NaN
+AUS,12/07/1981,,Brisbane Lions,Adelaide City FC,2,1,H,NaN,NaN,NaN
+AUS,12/07/1981,,Footscray JUST,Brisbane City SC,1,0,H,NaN,NaN,NaN
+AUS,12/07/1981,,Heidelberg United,Sydney City SC,0,1,A,NaN,NaN,NaN
+AUS,12/07/1981,,Newcastle KB United,South Melbourne Hellas,0,0,D,NaN,NaN,NaN
+AUS,12/07/1981,,Sydney Olympic SC,Canberra City,0,2,A,NaN,NaN,NaN
+AUS,12/07/1981,,West Adelaide Hellas,Marconi-Fairfield,2,0,H,NaN,NaN,NaN
+AUS,19/07/1981,,Adelaide City FC,Blacktown City SC,0,0,D,NaN,NaN,NaN
+AUS,19/07/1981,,Brisbane City SC,Brisbane Lions,1,0,H,NaN,NaN,NaN
+AUS,19/07/1981,,Canberra City,Heidelberg United,1,5,A,NaN,NaN,NaN
+AUS,19/07/1981,,Marconi-Fairfield,Sydney Olympic SC,2,1,H,NaN,NaN,NaN
+AUS,19/07/1981,,Preston Makedonia,Newcastle KB United,3,1,H,NaN,NaN,NaN
+AUS,19/07/1981,,South Melbourne Hellas,APIA Leichhardt Tigers,4,1,H,NaN,NaN,NaN
+AUS,19/07/1981,,Sydney City SC,Footscray JUST,3,0,H,NaN,NaN,NaN
+AUS,19/07/1981,,Wollongong City,West Adelaide Hellas,2,1,H,NaN,NaN,NaN
+AUS,26/07/1981,,APIA Leichhardt Tigers,Preston Makedonia,1,1,D,NaN,NaN,NaN
+AUS,26/07/1981,,Blacktown City SC,Brisbane City SC,1,2,A,NaN,NaN,NaN
+AUS,26/07/1981,,Brisbane Lions,Sydney City SC,4,3,H,NaN,NaN,NaN
+AUS,26/07/1981,,Footscray JUST,Canberra City,3,1,H,NaN,NaN,NaN
+AUS,26/07/1981,,Newcastle KB United,Adelaide City FC,2,2,D,NaN,NaN,NaN
+AUS,26/07/1981,,Wollongong City,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,19/08/1981,,Heidelberg United,Marconi-Fairfield,1,1,D,NaN,NaN,NaN
+AUS,19/08/1981,,West Adelaide Hellas,Sydney Olympic SC,0,1,A,NaN,NaN,NaN
+AUS,02/08/1981,,Adelaide City FC,APIA Leichhardt Tigers,0,0,D,NaN,NaN,NaN
+AUS,02/08/1981,,Brisbane City SC,Newcastle KB United,1,1,D,NaN,NaN,NaN
+AUS,02/08/1981,,Canberra City,Brisbane Lions,2,3,A,NaN,NaN,NaN
+AUS,02/08/1981,,Marconi-Fairfield,Footscray JUST,1,3,A,NaN,NaN,NaN
+AUS,02/08/1981,,Preston Makedonia,Wollongong City,6,0,H,NaN,NaN,NaN
+AUS,02/08/1981,,South Melbourne Hellas,West Adelaide Hellas,5,0,H,NaN,NaN,NaN
+AUS,02/08/1981,,Sydney City SC,Blacktown City SC,1,1,D,NaN,NaN,NaN
+AUS,02/08/1981,,Sydney Olympic SC,Heidelberg United,2,1,H,NaN,NaN,NaN
+AUS,09/08/1981,,APIA Leichhardt Tigers,Brisbane City SC,2,2,D,NaN,NaN,NaN
+AUS,09/08/1981,,Blacktown City SC,Canberra City,0,2,A,NaN,NaN,NaN
+AUS,09/08/1981,,Brisbane Lions,Marconi-Fairfield,2,0,H,NaN,NaN,NaN
+AUS,09/08/1981,,Footscray JUST,Sydney Olympic SC,1,1,D,NaN,NaN,NaN
+AUS,09/08/1981,,Newcastle KB United,Sydney City SC,1,2,A,NaN,NaN,NaN
+AUS,09/08/1981,,South Melbourne Hellas,Preston Makedonia,2,0,H,NaN,NaN,NaN
+AUS,09/08/1981,,West Adelaide Hellas,Heidelberg United,0,5,A,NaN,NaN,NaN
+AUS,09/08/1981,,Wollongong City,Adelaide City FC,4,1,H,NaN,NaN,NaN
+AUS,17/05/1981,,Brisbane City SC,Wollongong City,1,0,H,NaN,NaN,NaN
+AUS,16/08/1981,,Adelaide City FC,South Melbourne Hellas,2,0,H,NaN,NaN,NaN
+AUS,16/08/1981,,Canberra City,Newcastle KB United,4,1,H,NaN,NaN,NaN
+AUS,16/08/1981,,Heidelberg United,Footscray JUST,2,0,H,NaN,NaN,NaN
+AUS,16/08/1981,,Preston Makedonia,West Adelaide Hellas,2,0,H,NaN,NaN,NaN
+AUS,16/08/1981,,Sydney City SC,APIA Leichhardt Tigers,3,0,H,NaN,NaN,NaN
+AUS,16/08/1981,,Sydney Olympic SC,Brisbane Lions,3,1,H,NaN,NaN,NaN
+AUS,26/08/1981,,Marconi-Fairfield,Blacktown City SC,0,1,A,NaN,NaN,NaN
+AUS,23/08/1981,,APIA Leichhardt Tigers,Canberra City,4,0,H,NaN,NaN,NaN
+AUS,23/08/1981,,Blacktown City SC,Sydney Olympic SC,1,4,A,NaN,NaN,NaN
+AUS,23/08/1981,,Brisbane Lions,Heidelberg United,0,0,D,NaN,NaN,NaN
+AUS,23/08/1981,,Newcastle KB United,Marconi-Fairfield,2,0,H,NaN,NaN,NaN
+AUS,23/08/1981,,Preston Makedonia,Adelaide City FC,3,0,H,NaN,NaN,NaN
+AUS,23/08/1981,,South Melbourne Hellas,Brisbane City SC,0,2,A,NaN,NaN,NaN
+AUS,23/08/1981,,West Adelaide Hellas,Footscray JUST,3,2,H,NaN,NaN,NaN
+AUS,23/08/1981,,Wollongong City,Sydney City SC,0,5,A,NaN,NaN,NaN
+AUS,30/08/1981,,Adelaide City FC,West Adelaide Hellas,2,1,H,NaN,NaN,NaN
+AUS,30/08/1981,,Brisbane City SC,Preston Makedonia,1,2,A,NaN,NaN,NaN
+AUS,30/08/1981,,Canberra City,Wollongong City,2,0,H,NaN,NaN,NaN
+AUS,30/08/1981,,Footscray JUST,Brisbane Lions,2,0,H,NaN,NaN,NaN
+AUS,30/08/1981,,Heidelberg United,Blacktown City SC,3,1,H,NaN,NaN,NaN
+AUS,30/08/1981,,Marconi-Fairfield,APIA Leichhardt Tigers,0,2,A,NaN,NaN,NaN
+AUS,30/08/1981,,Sydney City SC,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,30/08/1981,,Sydney Olympic SC,Newcastle KB United,1,1,D,NaN,NaN,NaN
+AUS,06/09/1981,,APIA Leichhardt Tigers,Sydney Olympic SC,2,2,D,NaN,NaN,NaN
+AUS,06/09/1981,,Blacktown City SC,Footscray JUST,1,1,D,NaN,NaN,NaN
+AUS,06/09/1981,,Brisbane City SC,Adelaide City FC,3,1,H,NaN,NaN,NaN
+AUS,06/09/1981,,Newcastle KB United,Heidelberg United,1,2,A,NaN,NaN,NaN
+AUS,06/09/1981,,Preston Makedonia,Sydney City SC,0,2,A,NaN,NaN,NaN
+AUS,06/09/1981,,South Melbourne Hellas,Canberra City,1,0,H,NaN,NaN,NaN
+AUS,06/09/1981,,West Adelaide Hellas,Brisbane Lions,1,3,A,NaN,NaN,NaN
+AUS,06/09/1981,,Wollongong City,Marconi-Fairfield,4,0,H,NaN,NaN,NaN
+AUS,13/09/1981,,Brisbane Lions,Blacktown City SC,0,1,A,NaN,NaN,NaN
+AUS,13/09/1981,,Canberra City,Preston Makedonia,1,0,H,NaN,NaN,NaN
+AUS,13/09/1981,,Footscray JUST,Newcastle KB United,0,1,A,NaN,NaN,NaN
+AUS,13/09/1981,,Heidelberg United,APIA Leichhardt Tigers,1,0,H,NaN,NaN,NaN
+AUS,13/09/1981,,Marconi-Fairfield,South Melbourne Hellas,1,1,D,NaN,NaN,NaN
+AUS,13/09/1981,,Sydney City SC,Adelaide City FC,5,3,H,NaN,NaN,NaN
+AUS,13/09/1981,,Sydney Olympic SC,Wollongong City,2,1,H,NaN,NaN,NaN
+AUS,13/09/1981,,West Adelaide Hellas,Brisbane City SC,1,1,D,NaN,NaN,NaN

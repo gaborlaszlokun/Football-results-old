@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AND,23/09/2007,19:00,FC Lusitanos la Posa,UE Sant Julià,1,4,A,NaN,NaN,NaN
+AND,23/09/2007,19:00,UE Engordany,FC Santa Coloma,0,11,A,NaN,NaN,NaN
+AND,23/09/2007,19:00,FC Rànger's,Inter Club d'Escaldes,3,2,H,NaN,NaN,NaN
+AND,23/09/2007,19:00,CE Principat,Casa Estrella del Benfica,3,0,H,NaN,NaN,NaN
+AND,30/09/2007,19:00,FC Santa Coloma,FC Lusitanos la Posa,2,0,H,NaN,NaN,NaN
+AND,30/09/2007,19:00,Inter Club d'Escaldes,UE Sant Julià,0,3,A,NaN,NaN,NaN
+AND,30/09/2007,19:00,CE Principat,FC Rànger's,2,5,A,NaN,NaN,NaN
+AND,30/09/2007,19:00,Casa Estrella del Benfica,UE Engordany,0,1,A,NaN,NaN,NaN
+AND,07/10/2007,17:00,UE Sant Julià,Casa Estrella del Benfica,3,0,H,NaN,NaN,NaN
+AND,07/10/2007,17:00,FC Lusitanos la Posa,Inter Club d'Escaldes,2,0,H,NaN,NaN,NaN
+AND,07/10/2007,17:00,CE Principat,UE Engordany,3,2,H,NaN,NaN,NaN
+AND,07/10/2007,17:00,FC Rànger's,FC Santa Coloma,2,2,D,NaN,NaN,NaN
+AND,21/10/2007,14:00,UE Sant Julià,CE Principat,6,0,H,NaN,NaN,NaN
+AND,21/10/2007,14:00,UE Engordany,FC Rànger's,2,3,A,NaN,NaN,NaN
+AND,21/10/2007,14:00,FC Santa Coloma,Inter Club d'Escaldes,4,0,H,NaN,NaN,NaN
+AND,21/10/2007,14:00,Casa Estrella del Benfica,FC Lusitanos la Posa,1,6,A,NaN,NaN,NaN
+AND,28/10/2007,14:00,CE Principat,FC Lusitanos la Posa,0,2,A,NaN,NaN,NaN
+AND,28/10/2007,14:00,FC Rànger's,UE Sant Julià,1,1,D,NaN,NaN,NaN
+AND,28/10/2007,14:00,Inter Club d'Escaldes,UE Engordany,1,2,A,NaN,NaN,NaN
+AND,28/10/2007,14:00,FC Santa Coloma,Casa Estrella del Benfica,7,0,H,NaN,NaN,NaN
+AND,04/11/2007,14:00,FC Lusitanos la Posa,FC Rànger's,2,0,H,NaN,NaN,NaN
+AND,04/11/2007,14:00,UE Engordany,UE Sant Julià,1,4,A,NaN,NaN,NaN
+AND,04/11/2007,14:00,Casa Estrella del Benfica,Inter Club d'Escaldes,1,3,A,NaN,NaN,NaN
+AND,08/11/2007,14:00,CE Principat,FC Santa Coloma,0,4,A,NaN,NaN,NaN
+AND,11/11/2007,11:00,Inter Club d'Escaldes,CE Principat,0,1,A,NaN,NaN,NaN
+AND,11/11/2007,11:00,FC Rànger's,Casa Estrella del Benfica,7,0,H,NaN,NaN,NaN
+AND,11/11/2007,13:00,UE Engordany,FC Lusitanos la Posa,0,5,A,NaN,NaN,NaN
+AND,11/11/2007,15:00,UE Sant Julià,FC Santa Coloma,0,1,A,NaN,NaN,NaN
+AND,25/11/2007,14:00,UE Sant Julià,FC Lusitanos la Posa,1,0,H,NaN,NaN,NaN
+AND,25/11/2007,14:00,FC Santa Coloma,UE Engordany,11,0,H,NaN,NaN,NaN
+AND,25/11/2007,14:00,Inter Club d'Escaldes,FC Rànger's,0,2,A,NaN,NaN,NaN
+AND,25/11/2007,14:00,Casa Estrella del Benfica,CE Principat,1,3,A,NaN,NaN,NaN
+AND,02/12/2007,14:00,FC Lusitanos la Posa,FC Santa Coloma,0,1,A,NaN,NaN,NaN
+AND,02/12/2007,14:00,UE Sant Julià,Inter Club d'Escaldes,5,0,H,NaN,NaN,NaN
+AND,02/12/2007,14:00,FC Rànger's,CE Principat,3,2,H,NaN,NaN,NaN
+AND,02/12/2007,14:00,UE Engordany,Casa Estrella del Benfica,1,1,D,NaN,NaN,NaN
+AND,16/12/2007,14:00,Inter Club d'Escaldes,FC Lusitanos la Posa,2,4,A,NaN,NaN,NaN
+AND,16/12/2007,14:00,UE Engordany,CE Principat,2,4,A,NaN,NaN,NaN
+AND,16/12/2007,14:00,FC Santa Coloma,FC Rànger's,1,1,D,NaN,NaN,NaN
+AND,16/12/2007,14:00,Casa Estrella del Benfica,UE Sant Julià,0,10,A,NaN,NaN,NaN
+AND,20/01/2008,14:00,CE Principat,UE Sant Julià,2,2,D,NaN,NaN,NaN
+AND,20/01/2008,14:00,FC Rànger's,UE Engordany,4,1,H,NaN,NaN,NaN
+AND,20/01/2008,14:00,Inter Club d'Escaldes,FC Santa Coloma,0,3,A,NaN,NaN,NaN
+AND,20/01/2008,14:00,FC Lusitanos la Posa,Casa Estrella del Benfica,2,0,H,NaN,NaN,NaN
+AND,17/02/2008,14:00,FC Lusitanos la Posa,CE Principat,2,0,H,NaN,NaN,NaN
+AND,17/02/2008,14:00,UE Sant Julià,FC Rànger's,1,2,A,NaN,NaN,NaN
+AND,17/02/2008,14:00,UE Engordany,Inter Club d'Escaldes,2,1,H,NaN,NaN,NaN
+AND,17/02/2008,14:00,Casa Estrella del Benfica,FC Santa Coloma,0,6,A,NaN,NaN,NaN
+AND,24/02/2008,11:00,FC Rànger's,FC Lusitanos la Posa,1,0,H,NaN,NaN,NaN
+AND,24/02/2008,13:00,FC Santa Coloma,CE Principat,4,0,H,NaN,NaN,NaN
+AND,24/02/2008,15:00,UE Sant Julià,UE Engordany,5,2,H,NaN,NaN,NaN
+AND,24/02/2008,17:00,Inter Club d'Escaldes,Casa Estrella del Benfica,2,0,H,NaN,NaN,NaN
+AND,02/03/2008,11:00,CE Principat,Inter Club d'Escaldes,0,0,D,NaN,NaN,NaN
+AND,02/03/2008,11:00,FC Santa Coloma,UE Sant Julià,1,1,D,NaN,NaN,NaN
+AND,02/03/2008,13:00,FC Lusitanos la Posa,UE Engordany,8,1,H,NaN,NaN,NaN
+AND,02/03/2008,15:00,Casa Estrella del Benfica,FC Rànger's,0,3,A,NaN,NaN,NaN

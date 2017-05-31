@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRL,07/03/2008,19:45,Cork City,Bray Wanderers,0,0,D,NaN,NaN,NaN
+IRL,07/03/2008,19:45,Galway United (old),Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,07/03/2008,19:45,UC Dublin,Derry City,2,3,A,NaN,NaN,NaN
+IRL,07/03/2008,20:00,Finn Harps,Cobh Ramblers,2,1,H,NaN,NaN,NaN
+IRL,07/03/2008,20:20,St Patrick's Athletic,Sligo Rovers,3,1,H,NaN,NaN,NaN
+IRL,08/03/2008,17:30,Drogheda United,Shamrock Rovers,0,1,A,NaN,NaN,NaN
+IRL,14/03/2008,19:45,Bohemian FC,St Patrick's Athletic,0,1,A,NaN,NaN,NaN
+IRL,14/03/2008,19:45,Bray Wanderers,UC Dublin,0,2,A,NaN,NaN,NaN
+IRL,14/03/2008,19:45,Derry City,Finn Harps,2,1,H,NaN,NaN,NaN
+IRL,14/03/2008,20:00,Shamrock Rovers,Cork City,1,1,D,NaN,NaN,NaN
+IRL,15/03/2008,19:45,Cobh Ramblers,Galway United (old),1,1,D,NaN,NaN,NaN
+IRL,15/03/2008,20:00,Sligo Rovers,Drogheda United,0,0,D,NaN,NaN,NaN
+IRL,21/03/2008,19:35,Cork City,Derry City,1,1,D,NaN,NaN,NaN
+IRL,21/03/2008,19:45,Drogheda United,Cobh Ramblers,3,0,H,NaN,NaN,NaN
+IRL,21/03/2008,19:45,St Patrick's Athletic,Galway United (old),1,0,H,NaN,NaN,NaN
+IRL,21/03/2008,20:00,Finn Harps,UC Dublin,1,0,H,NaN,NaN,NaN
+IRL,21/03/2008,20:00,Shamrock Rovers,Bray Wanderers,2,0,H,NaN,NaN,NaN
+IRL,21/03/2008,20:00,Sligo Rovers,Bohemian FC,1,2,A,NaN,NaN,NaN
+IRL,28/03/2008,19:45,Bohemian FC,Finn Harps,3,0,H,NaN,NaN,NaN
+IRL,28/03/2008,19:45,Bray Wanderers,St Patrick's Athletic,0,3,A,NaN,NaN,NaN
+IRL,28/03/2008,19:45,Derry City,Drogheda United,2,0,H,NaN,NaN,NaN
+IRL,28/03/2008,19:45,UC Dublin,Sligo Rovers,0,0,D,NaN,NaN,NaN
+IRL,29/03/2008,19:00,Galway United (old),Shamrock Rovers,0,2,A,NaN,NaN,NaN
+IRL,29/03/2008,19:45,Cobh Ramblers,Cork City,0,0,D,NaN,NaN,NaN
+IRL,04/04/2008,19:45,Bray Wanderers,Finn Harps,1,0,H,NaN,NaN,NaN
+IRL,04/04/2008,19:45,Cork City,UC Dublin,1,0,H,NaN,NaN,NaN
+IRL,04/04/2008,19:45,Drogheda United,Galway United (old),1,0,H,NaN,NaN,NaN
+IRL,04/04/2008,19:45,St Patrick's Athletic,Derry City,0,1,A,NaN,NaN,NaN
+IRL,04/04/2008,20:00,Shamrock Rovers,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,05/04/2008,20:00,Sligo Rovers,Cobh Ramblers,3,1,H,NaN,NaN,NaN
+IRL,11/04/2008,19:45,Bohemian FC,Bray Wanderers,1,1,D,NaN,NaN,NaN
+IRL,11/04/2008,19:45,Derry City,Sligo Rovers,0,0,D,NaN,NaN,NaN
+IRL,11/04/2008,19:45,Galway United (old),Cork City,1,3,A,NaN,NaN,NaN
+IRL,11/04/2008,19:45,UC Dublin,Drogheda United,1,3,A,NaN,NaN,NaN
+IRL,11/04/2008,20:00,Finn Harps,St Patrick's Athletic,0,3,A,NaN,NaN,NaN
+IRL,12/04/2008,19:45,Cobh Ramblers,Shamrock Rovers,2,0,H,NaN,NaN,NaN
+IRL,18/04/2008,19:45,Bray Wanderers,Derry City,1,0,H,NaN,NaN,NaN
+IRL,18/04/2008,19:45,Cork City,Finn Harps,3,0,H,NaN,NaN,NaN
+IRL,18/04/2008,19:45,St Patrick's Athletic,Cobh Ramblers,1,0,H,NaN,NaN,NaN
+IRL,18/04/2008,20:00,Shamrock Rovers,UC Dublin,1,1,D,NaN,NaN,NaN
+IRL,19/04/2008,20:00,Sligo Rovers,Galway United (old),3,0,H,NaN,NaN,NaN
+IRL,20/04/2008,19:00,Drogheda United,Bohemian FC,1,2,A,NaN,NaN,NaN
+IRL,25/04/2008,19:45,Bohemian FC,Derry City,0,0,D,NaN,NaN,NaN
+IRL,25/04/2008,19:45,Cork City,Drogheda United,0,2,A,NaN,NaN,NaN
+IRL,25/04/2008,19:45,Galway United (old),Bray Wanderers,2,3,A,NaN,NaN,NaN
+IRL,25/04/2008,19:45,Cobh Ramblers,UC Dublin,0,0,D,NaN,NaN,NaN
+IRL,25/04/2008,20:00,Finn Harps,Sligo Rovers,0,1,A,NaN,NaN,NaN
+IRL,27/04/2008,19:00,Shamrock Rovers,St Patrick's Athletic,0,1,A,NaN,NaN,NaN
+IRL,02/05/2008,19:45,Bray Wanderers,Cobh Ramblers,1,0,H,NaN,NaN,NaN
+IRL,02/05/2008,19:45,Derry City,Galway United (old),0,0,D,NaN,NaN,NaN
+IRL,02/05/2008,19:45,Drogheda United,Finn Harps,1,0,H,NaN,NaN,NaN
+IRL,02/05/2008,19:45,UC Dublin,Bohemian FC,1,1,D,NaN,NaN,NaN
+IRL,03/05/2008,20:00,Sligo Rovers,Shamrock Rovers,3,2,H,NaN,NaN,NaN
+IRL,04/05/2008,19:00,St Patrick's Athletic,Cork City,3,2,H,NaN,NaN,NaN
+IRL,09/05/2008,19:45,Bray Wanderers,Drogheda United,1,0,H,NaN,NaN,NaN
+IRL,09/05/2008,19:45,Cork City,Sligo Rovers,1,0,H,NaN,NaN,NaN
+IRL,09/05/2008,19:45,Galway United (old),Finn Harps,2,2,D,NaN,NaN,NaN
+IRL,09/05/2008,19:45,St Patrick's Athletic,UC Dublin,0,0,D,NaN,NaN,NaN
+IRL,09/05/2008,20:00,Shamrock Rovers,Derry City,1,1,D,NaN,NaN,NaN
+IRL,10/05/2008,19:45,Cobh Ramblers,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,16/05/2008,19:45,Derry City,Cobh Ramblers,1,0,H,NaN,NaN,NaN
+IRL,16/05/2008,19:45,Drogheda United,St Patrick's Athletic,2,2,D,NaN,NaN,NaN
+IRL,16/05/2008,19:45,UC Dublin,Galway United (old),0,1,A,NaN,NaN,NaN
+IRL,16/05/2008,20:00,Finn Harps,Shamrock Rovers,1,1,D,NaN,NaN,NaN
+IRL,17/05/2008,20:00,Sligo Rovers,Bray Wanderers,3,0,H,NaN,NaN,NaN
+IRL,18/05/2008,19:00,Bohemian FC,Cork City,2,1,H,NaN,NaN,NaN
+IRL,23/05/2008,19:45,Bohemian FC,Galway United (old),2,1,H,NaN,NaN,NaN
+IRL,23/05/2008,19:45,Bray Wanderers,Cork City,0,3,A,NaN,NaN,NaN
+IRL,23/05/2008,19:45,Derry City,UC Dublin,4,1,H,NaN,NaN,NaN
+IRL,23/05/2008,19:45,Cobh Ramblers,Finn Harps,1,3,A,NaN,NaN,NaN
+IRL,23/05/2008,20:00,Shamrock Rovers,Drogheda United,0,0,D,NaN,NaN,NaN
+IRL,23/05/2008,20:00,Sligo Rovers,St Patrick's Athletic,1,2,A,NaN,NaN,NaN
+IRL,26/05/2008,19:45,Galway United (old),Cobh Ramblers,0,1,A,NaN,NaN,NaN
+IRL,27/05/2008,19:45,Cork City,Shamrock Rovers,1,1,D,NaN,NaN,NaN
+IRL,27/05/2008,19:45,Drogheda United,Sligo Rovers,1,1,D,NaN,NaN,NaN
+IRL,27/05/2008,19:45,UC Dublin,Bray Wanderers,2,2,D,NaN,NaN,NaN
+IRL,27/05/2008,20:00,Finn Harps,Derry City,0,2,A,NaN,NaN,NaN
+IRL,27/05/2008,20:00,St Patrick's Athletic,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,30/05/2008,19:15,Bohemian FC,Sligo Rovers,3,0,H,NaN,NaN,NaN
+IRL,30/05/2008,19:45,Bray Wanderers,Shamrock Rovers,1,0,H,NaN,NaN,NaN
+IRL,30/05/2008,19:45,UC Dublin,Finn Harps,1,0,H,NaN,NaN,NaN
+IRL,30/05/2008,20:00,Galway United (old),St Patrick's Athletic,2,2,D,NaN,NaN,NaN
+IRL,31/05/2008,20:00,Cobh Ramblers,Drogheda United,0,4,A,NaN,NaN,NaN
+IRL,01/06/2008,19:00,Derry City,Cork City,2,3,A,NaN,NaN,NaN
+IRL,20/06/2008,19:45,Cork City,Cobh Ramblers,5,0,H,NaN,NaN,NaN
+IRL,20/06/2008,19:45,Drogheda United,Derry City,0,1,A,NaN,NaN,NaN
+IRL,20/06/2008,19:45,St Patrick's Athletic,Bray Wanderers,1,1,D,NaN,NaN,NaN
+IRL,20/06/2008,20:00,Shamrock Rovers,Galway United (old),3,1,H,NaN,NaN,NaN
+IRL,21/06/2008,20:00,Sligo Rovers,UC Dublin,0,0,D,NaN,NaN,NaN
+IRL,24/06/2008,20:00,Finn Harps,Bohemian FC,0,2,A,NaN,NaN,NaN
+IRL,27/06/2008,19:45,Derry City,St Patrick's Athletic,0,3,A,NaN,NaN,NaN
+IRL,27/06/2008,19:45,Galway United (old),Drogheda United,0,1,A,NaN,NaN,NaN
+IRL,27/06/2008,19:45,UC Dublin,Cork City,0,2,A,NaN,NaN,NaN
+IRL,27/06/2008,20:00,Finn Harps,Bray Wanderers,1,0,H,NaN,NaN,NaN
+IRL,28/06/2008,19:45,Cobh Ramblers,Sligo Rovers,1,3,A,NaN,NaN,NaN
+IRL,05/08/2008,20:00,Bohemian FC,Shamrock Rovers,2,1,H,NaN,NaN,NaN
+IRL,04/07/2008,19:45,Cork City,Galway United (old),3,2,H,NaN,NaN,NaN
+IRL,04/07/2008,19:45,Drogheda United,UC Dublin,2,1,H,NaN,NaN,NaN
+IRL,04/07/2008,20:00,Shamrock Rovers,Cobh Ramblers,0,0,D,NaN,NaN,NaN
+IRL,05/07/2008,20:00,Sligo Rovers,Derry City,0,0,D,NaN,NaN,NaN
+IRL,06/07/2008,19:00,St Patrick's Athletic,Finn Harps,5,1,H,NaN,NaN,NaN
+IRL,15/07/2008,19:45,Bray Wanderers,Bohemian FC,0,2,A,NaN,NaN,NaN
+IRL,11/07/2008,19:45,Derry City,Bray Wanderers,4,0,H,NaN,NaN,NaN
+IRL,11/07/2008,19:45,Galway United (old),Sligo Rovers,1,1,D,NaN,NaN,NaN
+IRL,11/07/2008,19:45,UC Dublin,Shamrock Rovers,0,2,A,NaN,NaN,NaN
+IRL,11/07/2008,20:00,Finn Harps,Cork City,0,1,A,NaN,NaN,NaN
+IRL,12/07/2008,19:45,Cobh Ramblers,St Patrick's Athletic,0,1,A,NaN,NaN,NaN
+IRL,26/08/2008,19:45,Bohemian FC,Drogheda United,2,0,H,NaN,NaN,NaN
+IRL,18/07/2008,19:45,Bray Wanderers,Galway United (old),0,1,A,NaN,NaN,NaN
+IRL,18/07/2008,19:45,Derry City,Bohemian FC,0,0,D,NaN,NaN,NaN
+IRL,19/07/2008,18:00,UC Dublin,Cobh Ramblers,1,1,D,NaN,NaN,NaN
+IRL,19/07/2008,20:00,Sligo Rovers,Finn Harps,4,1,H,NaN,NaN,NaN
+IRL,20/07/2008,15:00,Drogheda United,Cork City,0,1,A,NaN,NaN,NaN
+IRL,21/07/2008,19:45,St Patrick's Athletic,Shamrock Rovers,1,1,D,NaN,NaN,NaN
+IRL,25/07/2008,19:45,Bohemian FC,UC Dublin,2,0,H,NaN,NaN,NaN
+IRL,25/07/2008,19:45,Galway United (old),Derry City,0,4,A,NaN,NaN,NaN
+IRL,25/07/2008,20:00,Shamrock Rovers,Sligo Rovers,1,0,H,NaN,NaN,NaN
+IRL,26/07/2008,19:45,Cobh Ramblers,Bray Wanderers,1,2,A,NaN,NaN,NaN
+IRL,27/07/2008,19:00,Cork City,St Patrick's Athletic,0,0,D,NaN,NaN,NaN
+IRL,12/09/2008,19:45,Finn Harps,Drogheda United,1,3,A,NaN,NaN,NaN
+IRL,01/08/2008,19:45,Bohemian FC,Cobh Ramblers,3,0,H,NaN,NaN,NaN
+IRL,01/08/2008,19:45,Derry City,Shamrock Rovers,0,1,A,NaN,NaN,NaN
+IRL,01/08/2008,19:45,Drogheda United,Bray Wanderers,2,0,H,NaN,NaN,NaN
+IRL,01/08/2008,20:00,Finn Harps,Galway United (old),0,2,A,NaN,NaN,NaN
+IRL,03/08/2008,15:00,UC Dublin,St Patrick's Athletic,0,3,A,NaN,NaN,NaN
+IRL,03/08/2008,15:00,Sligo Rovers,Cork City,0,1,A,NaN,NaN,NaN
+IRL,08/08/2008,19:45,Bray Wanderers,Sligo Rovers,0,0,D,NaN,NaN,NaN
+IRL,08/08/2008,19:45,Cork City,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,08/08/2008,19:45,Galway United (old),UC Dublin,1,2,A,NaN,NaN,NaN
+IRL,08/08/2008,20:00,Shamrock Rovers,Finn Harps,0,2,A,NaN,NaN,NaN
+IRL,09/08/2008,19:45,Cobh Ramblers,Derry City,0,3,A,NaN,NaN,NaN
+IRL,10/08/2008,19:00,St Patrick's Athletic,Drogheda United,0,1,A,NaN,NaN,NaN
+IRL,22/08/2008,19:45,Cork City,Bray Wanderers,3,0,H,NaN,NaN,NaN
+IRL,22/08/2008,19:45,Drogheda United,Shamrock Rovers,1,1,D,NaN,NaN,NaN
+IRL,22/08/2008,19:45,Galway United (old),Bohemian FC,0,2,A,NaN,NaN,NaN
+IRL,22/08/2008,19:45,UC Dublin,Derry City,1,2,A,NaN,NaN,NaN
+IRL,22/08/2008,20:00,Finn Harps,Cobh Ramblers,2,2,D,NaN,NaN,NaN
+IRL,24/08/2008,19:00,St Patrick's Athletic,Sligo Rovers,1,0,H,NaN,NaN,NaN
+IRL,29/08/2008,19:45,Bray Wanderers,UC Dublin,2,1,H,NaN,NaN,NaN
+IRL,29/08/2008,19:45,Derry City,Finn Harps,1,0,H,NaN,NaN,NaN
+IRL,29/08/2008,20:00,Shamrock Rovers,Cork City,3,0,H,NaN,NaN,NaN
+IRL,30/08/2008,19:45,Cobh Ramblers,Galway United (old),4,1,H,NaN,NaN,NaN
+IRL,30/08/2008,20:00,Sligo Rovers,Drogheda United,3,3,D,NaN,NaN,NaN
+IRL,08/09/2008,19:45,Bohemian FC,St Patrick's Athletic,3,0,H,NaN,NaN,NaN
+IRL,05/09/2008,20:00,Finn Harps,UC Dublin,2,0,H,NaN,NaN,NaN
+IRL,05/09/2008,20:00,Sligo Rovers,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,08/09/2008,19:45,Cork City,Derry City,1,1,D,NaN,NaN,NaN
+IRL,30/09/2008,19:45,Drogheda United,Cobh Ramblers,0,0,D,NaN,NaN,NaN
+IRL,07/10/2008,20:00,Shamrock Rovers,Bray Wanderers,2,2,D,NaN,NaN,NaN
+IRL,20/10/2008,19:45,St Patrick's Athletic,Galway United (old),0,1,A,NaN,NaN,NaN
+IRL,19/09/2008,19:45,Bohemian FC,Finn Harps,3,0,H,NaN,NaN,NaN
+IRL,19/09/2008,19:45,Bray Wanderers,St Patrick's Athletic,0,1,A,NaN,NaN,NaN
+IRL,19/09/2008,19:45,Derry City,Drogheda United,0,1,A,NaN,NaN,NaN
+IRL,19/09/2008,19:45,Galway United (old),Shamrock Rovers,1,1,D,NaN,NaN,NaN
+IRL,19/09/2008,19:45,UC Dublin,Sligo Rovers,0,1,A,NaN,NaN,NaN
+IRL,20/09/2008,19:45,Cobh Ramblers,Cork City,1,1,D,NaN,NaN,NaN
+IRL,26/09/2008,19:35,Shamrock Rovers,Bohemian FC,1,2,A,NaN,NaN,NaN
+IRL,26/09/2008,19:45,Bray Wanderers,Finn Harps,0,1,A,NaN,NaN,NaN
+IRL,26/09/2008,19:45,Cork City,UC Dublin,2,0,H,NaN,NaN,NaN
+IRL,26/09/2008,19:45,Drogheda United,Galway United (old),1,1,D,NaN,NaN,NaN
+IRL,27/09/2008,20:00,Sligo Rovers,Cobh Ramblers,4,0,H,NaN,NaN,NaN
+IRL,10/11/2008,19:45,St Patrick's Athletic,Derry City,2,1,H,NaN,NaN,NaN
+IRL,03/10/2008,19:35,Bohemian FC,Bray Wanderers,2,1,H,NaN,NaN,NaN
+IRL,03/10/2008,19:35,Finn Harps,St Patrick's Athletic,0,1,A,NaN,NaN,NaN
+IRL,03/10/2008,19:45,Derry City,Sligo Rovers,1,1,D,NaN,NaN,NaN
+IRL,03/10/2008,19:45,Galway United (old),Cork City,3,2,H,NaN,NaN,NaN
+IRL,03/10/2008,19:45,UC Dublin,Drogheda United,1,0,H,NaN,NaN,NaN
+IRL,04/10/2008,19:45,Cobh Ramblers,Shamrock Rovers,1,0,H,NaN,NaN,NaN
+IRL,10/10/2008,19:35,Drogheda United,Bohemian FC,1,2,A,NaN,NaN,NaN
+IRL,10/10/2008,19:45,Bray Wanderers,Derry City,2,1,H,NaN,NaN,NaN
+IRL,10/10/2008,19:45,Cork City,Finn Harps,1,1,D,NaN,NaN,NaN
+IRL,10/10/2008,19:45,St Patrick's Athletic,Cobh Ramblers,0,3,A,NaN,NaN,NaN
+IRL,10/10/2008,20:00,Shamrock Rovers,UC Dublin,1,1,D,NaN,NaN,NaN
+IRL,11/10/2008,20:00,Sligo Rovers,Galway United (old),1,1,D,NaN,NaN,NaN
+IRL,17/10/2008,19:35,Finn Harps,Sligo Rovers,0,2,A,NaN,NaN,NaN
+IRL,17/10/2008,19:45,Bohemian FC,Derry City,0,1,A,NaN,NaN,NaN
+IRL,17/10/2008,19:45,Cork City,Drogheda United,0,0,D,NaN,NaN,NaN
+IRL,17/10/2008,19:45,Galway United (old),Bray Wanderers,4,0,H,NaN,NaN,NaN
+IRL,18/10/2008,19:45,Cobh Ramblers,UC Dublin,2,0,H,NaN,NaN,NaN
+IRL,18/10/2008,20:00,Shamrock Rovers,St Patrick's Athletic,1,3,A,NaN,NaN,NaN
+IRL,31/10/2008,19:35,Bray Wanderers,Cobh Ramblers,3,2,H,NaN,NaN,NaN
+IRL,31/10/2008,19:45,Drogheda United,Finn Harps,1,2,A,NaN,NaN,NaN
+IRL,31/10/2008,19:45,UC Dublin,Bohemian FC,0,1,A,NaN,NaN,NaN
+IRL,01/11/2008,20:00,Sligo Rovers,Shamrock Rovers,2,1,H,NaN,NaN,NaN
+IRL,02/11/2008,19:00,Derry City,Galway United (old),2,0,H,NaN,NaN,NaN
+IRL,04/11/2008,19:45,St Patrick's Athletic,Cork City,0,1,A,NaN,NaN,NaN
+IRL,07/11/2008,19:35,Galway United (old),Finn Harps,3,0,H,NaN,NaN,NaN
+IRL,07/11/2008,19:45,Bray Wanderers,Drogheda United,4,3,H,NaN,NaN,NaN
+IRL,07/11/2008,19:45,Cork City,Sligo Rovers,0,0,D,NaN,NaN,NaN
+IRL,07/11/2008,19:45,St Patrick's Athletic,UC Dublin,2,0,H,NaN,NaN,NaN
+IRL,07/11/2008,20:00,Shamrock Rovers,Derry City,1,1,D,NaN,NaN,NaN
+IRL,08/11/2008,19:45,Cobh Ramblers,Bohemian FC,0,2,A,NaN,NaN,NaN
+IRL,14/11/2008,19:35,Bohemian FC,Cork City,3,1,H,NaN,NaN,NaN
+IRL,14/11/2008,19:35,Derry City,Cobh Ramblers,4,2,H,NaN,NaN,NaN
+IRL,14/11/2008,19:35,Drogheda United,St Patrick's Athletic,0,2,A,NaN,NaN,NaN
+IRL,14/11/2008,19:35,Finn Harps,Shamrock Rovers,2,0,H,NaN,NaN,NaN
+IRL,14/11/2008,19:35,Sligo Rovers,Bray Wanderers,2,0,H,NaN,NaN,NaN
+IRL,14/11/2008,19:35,UC Dublin,Galway United (old),0,1,A,NaN,NaN,NaN

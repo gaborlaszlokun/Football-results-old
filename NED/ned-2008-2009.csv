@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,29/08/2008,19:45,Vitesse,FC Groningen,0,4,A,0,1,A
+NED,30/08/2008,13:30,FC Utrecht,PSV Eindhoven,1,5,A,0,3,A
+NED,30/08/2008,17:45,Willem II,AFC Ajax,2,1,H,0,1,A
+NED,30/08/2008,18:45,Roda JC Kerkrade,FC Twente,1,1,D,0,0,D
+NED,30/08/2008,19:45,NEC Nijmegen,De Graafschap,2,0,H,0,0,D
+NED,31/08/2008,13:30,Heracles Almelo,Feyenoord,3,1,H,1,1,D
+NED,31/08/2008,13:30,FC Volendam,sc Heerenveen,2,3,A,0,1,A
+NED,31/08/2008,13:30,Sparta Rotterdam,ADO Den Haag,2,5,A,1,3,A
+NED,31/08/2008,15:30,AZ Alkmaar,NAC Breda,1,2,A,1,1,D
+NED,12/09/2008,19:45,sc Heerenveen,Heracles Almelo,2,2,D,2,0,H
+NED,13/09/2008,17:45,PSV Eindhoven,Sparta Rotterdam,1,0,H,0,0,D
+NED,13/09/2008,18:45,ADO Den Haag,AZ Alkmaar,3,0,H,0,0,D
+NED,13/09/2008,18:45,FC Twente,NEC Nijmegen,1,1,D,1,0,H
+NED,13/09/2008,19:45,Feyenoord,FC Volendam,5,0,H,2,0,H
+NED,14/09/2008,11:30,De Graafschap,Vitesse,1,0,H,1,0,H
+NED,14/09/2008,13:30,NAC Breda,Willem II,1,3,A,0,0,D
+NED,14/09/2008,13:30,AFC Ajax,Roda JC Kerkrade,1,0,H,0,0,D
+NED,14/09/2008,13:30,FC Groningen,FC Utrecht,2,0,H,1,0,H
+NED,19/09/2008,19:45,FC Utrecht,Willem II,1,0,H,1,0,H
+NED,20/09/2008,17:45,Vitesse,Sparta Rotterdam,1,1,D,0,0,D
+NED,20/09/2008,18:45,Heracles Almelo,FC Groningen,1,1,D,0,0,D
+NED,20/09/2008,19:45,AZ Alkmaar,PSV Eindhoven,1,0,H,0,0,D
+NED,21/09/2008,11:30,Feyenoord,AFC Ajax,2,2,D,0,1,A
+NED,21/09/2008,11:30,De Graafschap,ADO Den Haag,2,0,H,1,0,H
+NED,21/09/2008,13:30,FC Volendam,FC Twente,1,2,A,0,0,D
+NED,21/09/2008,13:30,Roda JC Kerkrade,NAC Breda,0,3,A,0,0,D
+NED,21/09/2008,13:30,sc Heerenveen,NEC Nijmegen,2,1,H,0,0,D
+NED,27/09/2008,17:45,NAC Breda,sc Heerenveen,4,2,H,4,1,H
+NED,27/09/2008,18:45,PSV Eindhoven,FC Volendam,1,0,H,0,0,D
+NED,27/09/2008,18:45,FC Twente,De Graafschap,3,0,H,1,0,H
+NED,27/09/2008,19:45,Willem II,AZ Alkmaar,2,5,A,1,5,A
+NED,28/09/2008,11:30,ADO Den Haag,FC Utrecht,0,0,D,0,0,D
+NED,28/09/2008,13:30,FC Groningen,Feyenoord,3,1,H,1,0,H
+NED,28/09/2008,13:30,Sparta Rotterdam,Roda JC Kerkrade,2,2,D,1,0,H
+NED,28/09/2008,13:30,NEC Nijmegen,Heracles Almelo,1,1,D,0,0,D
+NED,28/09/2008,13:30,AFC Ajax,Vitesse,3,0,H,0,0,D
+NED,03/10/2008,19:45,AZ Alkmaar,Sparta Rotterdam,6,0,H,4,0,H
+NED,04/10/2008,17:45,Vitesse,Willem II,2,2,D,0,1,A
+NED,04/10/2008,18:45,PSV Eindhoven,De Graafschap,3,0,H,1,0,H
+NED,04/10/2008,19:45,Heracles Almelo,Roda JC Kerkrade,2,0,H,0,0,D
+NED,05/10/2008,11:30,FC Groningen,ADO Den Haag,3,0,H,2,0,H
+NED,05/10/2008,13:30,FC Volendam,NAC Breda,2,4,A,0,2,A
+NED,05/10/2008,13:30,Feyenoord,NEC Nijmegen,0,2,A,0,0,D
+NED,05/10/2008,13:30,FC Utrecht,FC Twente,3,0,H,1,0,H
+NED,05/10/2008,15:30,sc Heerenveen,AFC Ajax,5,2,H,2,0,H
+NED,17/10/2008,19:45,ADO Den Haag,FC Volendam,2,0,H,0,0,D
+NED,18/10/2008,17:45,FC Twente,Heracles Almelo,2,0,H,0,0,D
+NED,18/10/2008,18:45,NAC Breda,PSV Eindhoven,2,1,H,1,0,H
+NED,18/10/2008,18:45,Roda JC Kerkrade,sc Heerenveen,2,2,D,0,1,A
+NED,18/10/2008,19:45,AFC Ajax,FC Groningen,1,0,H,1,0,H
+NED,19/10/2008,11:30,NEC Nijmegen,Vitesse,3,1,H,0,1,A
+NED,19/10/2008,13:30,Willem II,Feyenoord,1,0,H,1,0,H
+NED,19/10/2008,13:30,De Graafschap,AZ Alkmaar,0,2,A,0,1,A
+NED,19/10/2008,13:30,Sparta Rotterdam,FC Utrecht,1,0,H,1,0,H
+NED,24/10/2008,19:45,Heracles Almelo,ADO Den Haag,3,1,H,2,0,H
+NED,25/10/2008,17:45,AZ Alkmaar,FC Volendam,3,0,H,1,0,H
+NED,25/10/2008,18:45,Willem II,De Graafschap,1,1,D,0,1,A
+NED,25/10/2008,18:45,FC Groningen,Sparta Rotterdam,3,0,H,3,0,H
+NED,25/10/2008,19:45,PSV Eindhoven,Roda JC Kerkrade,2,3,A,0,1,A
+NED,26/10/2008,13:30,AFC Ajax,NEC Nijmegen,2,0,H,1,0,H
+NED,26/10/2008,13:30,Vitesse,FC Twente,0,2,A,0,1,A
+NED,26/10/2008,13:30,FC Utrecht,NAC Breda,0,0,D,0,0,D
+NED,26/10/2008,15:30,Feyenoord,sc Heerenveen,2,2,D,0,1,A
+NED,28/10/2008,19:00,ADO Den Haag,PSV Eindhoven,0,2,A,0,0,D
+NED,28/10/2008,19:00,Roda JC Kerkrade,AZ Alkmaar,0,2,A,0,1,A
+NED,28/10/2008,19:00,FC Volendam,Willem II,2,2,D,1,0,H
+NED,29/10/2008,19:00,Heracles Almelo,AFC Ajax,1,3,A,1,1,D
+NED,29/10/2008,19:00,sc Heerenveen,Vitesse,0,2,A,0,0,D
+NED,29/10/2008,19:00,NAC Breda,FC Twente,0,1,A,0,1,A
+NED,29/10/2008,19:00,NEC Nijmegen,FC Groningen,2,2,D,0,1,A
+NED,29/10/2008,19:00,Sparta Rotterdam,Feyenoord,2,1,H,1,1,D
+NED,30/10/2008,19:00,De Graafschap,FC Utrecht,0,2,A,0,1,A
+NED,01/11/2008,17:45,FC Twente,AFC Ajax,0,2,A,0,1,A
+NED,01/11/2008,18:45,NAC Breda,FC Groningen,1,0,H,0,0,D
+NED,01/11/2008,18:45,PSV Eindhoven,Willem II,2,0,H,1,0,H
+NED,01/11/2008,19:45,sc Heerenveen,AZ Alkmaar,3,3,D,1,0,H
+NED,02/11/2008,11:30,Vitesse,ADO Den Haag,3,1,H,2,1,H
+NED,02/11/2008,11:30,Roda JC Kerkrade,Feyenoord,0,4,A,0,0,D
+NED,02/11/2008,13:30,FC Volendam,De Graafschap,3,1,H,1,1,D
+NED,02/11/2008,13:30,Sparta Rotterdam,NEC Nijmegen,0,2,A,0,1,A
+NED,02/11/2008,13:30,FC Utrecht,Heracles Almelo,2,0,H,0,0,D
+NED,07/11/2008,19:45,De Graafschap,NAC Breda,0,2,A,0,0,D
+NED,08/11/2008,17:45,NEC Nijmegen,PSV Eindhoven,1,0,H,1,0,H
+NED,08/11/2008,18:45,Heracles Almelo,Vitesse,0,0,D,0,0,D
+NED,08/11/2008,19:45,Willem II,Roda JC Kerkrade,2,1,H,1,0,H
+NED,09/11/2008,13:30,AZ Alkmaar,FC Twente,3,0,H,2,0,H
+NED,09/11/2008,13:30,AFC Ajax,Sparta Rotterdam,5,2,H,3,0,H
+NED,09/11/2008,13:30,Feyenoord,FC Utrecht,5,2,H,3,1,H
+NED,09/11/2008,13:30,FC Groningen,FC Volendam,5,0,H,3,0,H
+NED,09/11/2008,15:30,ADO Den Haag,sc Heerenveen,0,1,A,0,0,D
+NED,14/11/2008,19:45,NAC Breda,Heracles Almelo,3,0,H,0,0,D
+NED,15/11/2008,17:45,ADO Den Haag,Willem II,0,1,A,0,0,D
+NED,15/11/2008,18:45,Sparta Rotterdam,FC Volendam,4,0,H,0,0,D
+NED,15/11/2008,18:45,sc Heerenveen,FC Utrecht,3,2,H,3,2,H
+NED,15/11/2008,19:45,Roda JC Kerkrade,NEC Nijmegen,3,0,H,2,0,H
+NED,16/11/2008,11:30,AFC Ajax,PSV Eindhoven,4,1,H,1,0,H
+NED,16/11/2008,13:30,FC Twente,Feyenoord,1,1,D,1,0,H
+NED,16/11/2008,13:30,Vitesse,AZ Alkmaar,1,1,D,0,1,A
+NED,16/11/2008,13:30,FC Groningen,De Graafschap,3,0,H,1,0,H
+NED,21/11/2008,19:45,FC Volendam,Roda JC Kerkrade,3,1,H,2,1,H
+NED,22/11/2008,17:45,NAC Breda,NEC Nijmegen,1,1,D,0,1,A
+NED,22/11/2008,18:45,FC Twente,sc Heerenveen,6,0,H,4,0,H
+NED,22/11/2008,18:45,PSV Eindhoven,Heracles Almelo,4,0,H,4,0,H
+NED,22/11/2008,19:45,De Graafschap,Sparta Rotterdam,3,3,D,3,1,H
+NED,23/11/2008,11:30,Feyenoord,ADO Den Haag,3,1,H,2,1,H
+NED,23/11/2008,11:30,AZ Alkmaar,AFC Ajax,2,0,H,1,0,H
+NED,23/11/2008,13:30,Willem II,FC Groningen,3,0,H,3,0,H
+NED,23/11/2008,13:30,FC Utrecht,Vitesse,4,0,H,1,0,H
+NED,28/11/2008,19:45,FC Groningen,AZ Alkmaar,0,2,A,0,1,A
+NED,29/11/2008,17:45,De Graafschap,Roda JC Kerkrade,1,1,D,0,0,D
+NED,29/11/2008,18:45,ADO Den Haag,FC Twente,1,2,A,0,1,A
+NED,29/11/2008,18:45,Heracles Almelo,Willem II,1,0,H,0,0,D
+NED,29/11/2008,19:45,sc Heerenveen,PSV Eindhoven,2,2,D,1,0,H
+NED,30/11/2008,11:30,Vitesse,Feyenoord,1,1,D,0,1,A
+NED,30/11/2008,11:30,AFC Ajax,FC Utrecht,1,1,D,0,1,A
+NED,30/11/2008,13:30,NEC Nijmegen,FC Volendam,6,1,H,5,0,H
+NED,30/11/2008,13:30,Sparta Rotterdam,NAC Breda,4,0,H,3,0,H
+NED,06/12/2008,18:45,PSV Eindhoven,FC Groningen,4,2,H,0,2,A
+NED,06/12/2008,18:45,Roda JC Kerkrade,Vitesse,3,0,H,1,0,H
+NED,06/12/2008,18:45,FC Twente,Sparta Rotterdam,6,2,H,4,0,H
+NED,06/12/2008,19:45,AZ Alkmaar,Heracles Almelo,2,0,H,1,0,H
+NED,07/12/2008,11:30,FC Volendam,AFC Ajax,1,2,A,1,1,D
+NED,07/12/2008,13:30,Willem II,sc Heerenveen,1,3,A,0,1,A
+NED,07/12/2008,13:30,NAC Breda,ADO Den Haag,0,4,A,0,1,A
+NED,07/12/2008,13:30,NEC Nijmegen,FC Utrecht,1,2,A,1,0,H
+NED,07/12/2008,13:30,Feyenoord,De Graafschap,1,3,A,0,1,A
+NED,12/12/2008,19:45,AFC Ajax,NAC Breda,3,0,H,1,0,H
+NED,13/12/2008,17:45,ADO Den Haag,Roda JC Kerkrade,1,1,D,1,1,D
+NED,13/12/2008,18:45,sc Heerenveen,De Graafschap,2,0,H,2,0,H
+NED,13/12/2008,18:45,Willem II,NEC Nijmegen,1,2,A,0,1,A
+NED,13/12/2008,19:45,Feyenoord,AZ Alkmaar,0,1,A,0,0,D
+NED,14/12/2008,11:30,Vitesse,PSV Eindhoven,1,1,D,0,1,A
+NED,14/12/2008,13:30,FC Utrecht,FC Volendam,0,0,D,0,0,D
+NED,14/12/2008,13:30,FC Groningen,FC Twente,1,4,A,1,2,A
+NED,14/12/2008,13:30,Heracles Almelo,Sparta Rotterdam,2,1,H,1,1,D
+NED,19/12/2008,19:45,AZ Alkmaar,FC Utrecht,2,0,H,1,0,H
+NED,20/12/2008,17:45,Sparta Rotterdam,sc Heerenveen,4,1,H,0,0,D
+NED,20/12/2008,18:45,NAC Breda,Vitesse,2,0,H,0,0,D
+NED,20/12/2008,19:45,Roda JC Kerkrade,FC Groningen,2,5,A,1,1,D
+NED,21/12/2008,11:30,NEC Nijmegen,ADO Den Haag,0,0,D,0,0,D
+NED,21/12/2008,11:30,De Graafschap,AFC Ajax,0,6,A,0,2,A
+NED,21/12/2008,13:30,FC Twente,Willem II,2,0,H,1,0,H
+NED,21/12/2008,13:30,FC Volendam,Heracles Almelo,3,1,H,1,0,H
+NED,21/12/2008,13:30,PSV Eindhoven,Feyenoord,1,0,H,0,0,D
+NED,26/12/2008,13:30,Feyenoord,NAC Breda,3,1,H,2,0,H
+NED,27/12/2008,17:45,PSV Eindhoven,FC Twente,0,0,D,0,0,D
+NED,27/12/2008,18:45,Heracles Almelo,De Graafschap,0,0,D,0,0,D
+NED,27/12/2008,18:45,Willem II,Sparta Rotterdam,3,2,H,2,1,H
+NED,27/12/2008,19:45,Vitesse,FC Volendam,3,1,H,2,0,H
+NED,28/12/2008,11:30,AFC Ajax,ADO Den Haag,3,0,H,2,0,H
+NED,28/12/2008,13:30,AZ Alkmaar,NEC Nijmegen,1,0,H,0,0,D
+NED,28/12/2008,13:30,FC Utrecht,Roda JC Kerkrade,3,1,H,3,0,H
+NED,28/12/2008,15:30,FC Groningen,sc Heerenveen,2,3,A,0,1,A
+NED,16/01/2009,19:45,sc Heerenveen,Feyenoord,3,1,H,2,1,H
+NED,17/01/2009,17:45,De Graafschap,Willem II,1,0,H,1,0,H
+NED,17/01/2009,18:45,FC Twente,Vitesse,2,1,H,1,0,H
+NED,17/01/2009,18:45,ADO Den Haag,Heracles Almelo,2,2,D,1,1,D
+NED,17/01/2009,19:45,NAC Breda,FC Utrecht,1,1,D,1,0,H
+NED,18/01/2009,11:30,Roda JC Kerkrade,PSV Eindhoven,1,1,D,0,0,D
+NED,18/01/2009,13:30,FC Volendam,AZ Alkmaar,0,2,A,0,1,A
+NED,18/01/2009,13:30,NEC Nijmegen,AFC Ajax,2,4,A,0,0,D
+NED,18/01/2009,13:30,Sparta Rotterdam,FC Groningen,1,1,D,0,0,D
+NED,24/01/2009,17:45,sc Heerenveen,Roda JC Kerkrade,2,0,H,1,0,H
+NED,24/01/2009,18:45,PSV Eindhoven,NAC Breda,2,2,D,1,1,D
+NED,24/01/2009,18:45,AZ Alkmaar,De Graafschap,2,0,H,2,0,H
+NED,24/01/2009,19:45,Feyenoord,Willem II,1,1,D,0,0,D
+NED,25/01/2009,11:30,Vitesse,NEC Nijmegen,0,0,D,0,0,D
+NED,25/01/2009,13:30,FC Groningen,AFC Ajax,1,0,H,1,0,H
+NED,25/01/2009,13:30,Heracles Almelo,FC Twente,1,2,A,0,1,A
+NED,25/01/2009,13:30,FC Volendam,ADO Den Haag,0,1,A,0,0,D
+NED,25/01/2009,17:45,FC Utrecht,Sparta Rotterdam,3,3,D,3,2,H
+NED,30/01/2009,19:45,Roda JC Kerkrade,Heracles Almelo,3,1,H,1,0,H
+NED,31/01/2009,17:45,ADO Den Haag,FC Groningen,0,1,A,0,0,D
+NED,31/01/2009,18:45,Willem II,Vitesse,0,2,A,0,0,D
+NED,31/01/2009,18:45,NAC Breda,FC Volendam,1,1,D,0,0,D
+NED,31/01/2009,19:45,AFC Ajax,sc Heerenveen,0,1,A,0,0,D
+NED,01/02/2009,11:30,FC Twente,FC Utrecht,0,0,D,0,0,D
+NED,01/02/2009,13:30,Sparta Rotterdam,AZ Alkmaar,0,2,A,0,0,D
+NED,01/02/2009,13:30,De Graafschap,PSV Eindhoven,0,3,A,0,2,A
+NED,01/02/2009,13:30,NEC Nijmegen,Feyenoord,1,0,H,0,0,D
+NED,03/02/2009,19:00,Willem II,FC Volendam,1,2,A,1,0,H
+NED,03/02/2009,19:00,Vitesse,sc Heerenveen,1,0,H,0,0,D
+NED,03/02/2009,19:15,AFC Ajax,Heracles Almelo,2,2,D,0,2,A
+NED,04/02/2009,18:00,FC Twente,NAC Breda,4,1,H,2,0,H
+NED,04/02/2009,19:00,AZ Alkmaar,Roda JC Kerkrade,1,0,H,0,0,D
+NED,04/02/2009,19:00,Feyenoord,Sparta Rotterdam,1,0,H,1,0,H
+NED,04/02/2009,19:00,FC Utrecht,De Graafschap,3,0,H,2,0,H
+NED,04/02/2009,20:00,FC Groningen,NEC Nijmegen,2,0,H,1,0,H
+NED,05/02/2009,19:00,PSV Eindhoven,ADO Den Haag,6,0,H,2,0,H
+NED,07/02/2009,17:45,Roda JC Kerkrade,Sparta Rotterdam,0,1,A,0,0,D
+NED,07/02/2009,18:45,sc Heerenveen,NAC Breda,3,1,H,2,1,H
+NED,07/02/2009,18:45,AZ Alkmaar,Willem II,3,1,H,2,1,H
+NED,07/02/2009,19:45,Heracles Almelo,NEC Nijmegen,1,1,D,0,1,A
+NED,08/02/2009,11:30,FC Utrecht,ADO Den Haag,3,1,H,1,1,D
+NED,08/02/2009,11:30,Vitesse,AFC Ajax,4,1,H,3,1,H
+NED,08/02/2009,13:30,Feyenoord,FC Groningen,0,0,D,0,0,D
+NED,08/02/2009,13:30,De Graafschap,FC Twente,2,2,D,1,1,D
+NED,08/02/2009,13:30,FC Volendam,PSV Eindhoven,3,5,A,2,3,A
+NED,13/02/2009,19:45,Willem II,FC Utrecht,0,2,A,0,0,D
+NED,14/02/2009,17:45,ADO Den Haag,De Graafschap,1,0,H,1,0,H
+NED,14/02/2009,18:45,PSV Eindhoven,AZ Alkmaar,2,2,D,0,2,A
+NED,14/02/2009,18:45,FC Twente,FC Volendam,2,1,H,2,1,H
+NED,14/02/2009,19:45,NAC Breda,Roda JC Kerkrade,1,0,H,1,0,H
+NED,15/02/2009,11:30,AFC Ajax,Feyenoord,2,0,H,0,0,D
+NED,15/02/2009,13:30,Sparta Rotterdam,Vitesse,0,0,D,0,0,D
+NED,15/02/2009,13:30,NEC Nijmegen,sc Heerenveen,1,1,D,1,1,D
+NED,15/02/2009,13:30,FC Groningen,Heracles Almelo,2,0,H,2,0,H
+NED,20/02/2009,19:45,Vitesse,Roda JC Kerkrade,3,0,H,2,0,H
+NED,21/02/2009,17:45,sc Heerenveen,Willem II,3,1,H,2,0,H
+NED,21/02/2009,18:45,ADO Den Haag,NAC Breda,1,1,D,0,1,A
+NED,21/02/2009,18:45,Heracles Almelo,AZ Alkmaar,0,2,A,0,0,D
+NED,21/02/2009,19:45,FC Groningen,PSV Eindhoven,0,1,A,0,0,D
+NED,22/02/2009,13:30,FC Utrecht,NEC Nijmegen,0,2,A,0,0,D
+NED,22/02/2009,13:30,De Graafschap,Feyenoord,0,2,A,0,0,D
+NED,22/02/2009,13:30,Sparta Rotterdam,FC Twente,1,2,A,1,1,D
+NED,22/02/2009,15:30,AFC Ajax,FC Volendam,2,1,H,1,1,D
+NED,27/02/2009,19:45,PSV Eindhoven,sc Heerenveen,2,3,A,2,1,H
+NED,28/02/2009,17:45,Willem II,Heracles Almelo,0,3,A,0,0,D
+NED,28/02/2009,18:45,NAC Breda,Sparta Rotterdam,3,1,H,1,1,D
+NED,28/02/2009,18:45,Roda JC Kerkrade,De Graafschap,3,1,H,1,0,H
+NED,28/02/2009,19:45,AZ Alkmaar,FC Groningen,3,0,H,1,0,H
+NED,01/03/2009,11:30,FC Utrecht,AFC Ajax,0,2,A,0,1,A
+NED,01/03/2009,13:30,Feyenoord,Vitesse,2,2,D,1,1,D
+NED,01/03/2009,13:30,FC Twente,ADO Den Haag,1,0,H,1,0,H
+NED,01/03/2009,13:30,FC Volendam,NEC Nijmegen,1,1,D,0,0,D
+NED,06/03/2009,19:45,Sparta Rotterdam,Willem II,0,1,A,0,0,D
+NED,07/03/2009,17:45,sc Heerenveen,FC Groningen,2,1,H,0,0,D
+NED,07/03/2009,18:45,De Graafschap,Heracles Almelo,1,0,H,0,0,D
+NED,08/03/2009,11:30,ADO Den Haag,AFC Ajax,1,1,D,0,0,D
+NED,08/03/2009,13:30,NEC Nijmegen,AZ Alkmaar,0,1,A,0,0,D
+NED,08/03/2009,13:30,FC Volendam,Vitesse,1,0,H,1,0,H
+NED,08/03/2009,13:30,NAC Breda,Feyenoord,1,2,A,1,0,H
+NED,08/03/2009,13:30,Roda JC Kerkrade,FC Utrecht,0,0,D,0,0,D
+NED,08/03/2009,15:30,FC Twente,PSV Eindhoven,1,1,D,0,0,D
+NED,13/03/2009,19:45,FC Groningen,Roda JC Kerkrade,2,0,H,0,0,D
+NED,14/03/2009,17:45,Vitesse,NAC Breda,0,3,A,0,1,A
+NED,14/03/2009,18:45,Willem II,FC Twente,0,2,A,0,1,A
+NED,14/03/2009,18:45,sc Heerenveen,Sparta Rotterdam,5,1,H,1,0,H
+NED,14/03/2009,19:45,Heracles Almelo,FC Volendam,1,1,D,0,0,D
+NED,15/03/2009,11:30,Feyenoord,PSV Eindhoven,1,0,H,0,0,D
+NED,15/03/2009,13:30,ADO Den Haag,NEC Nijmegen,3,0,H,1,0,H
+NED,15/03/2009,13:30,AFC Ajax,De Graafschap,3,0,H,2,0,H
+NED,15/03/2009,13:30,FC Utrecht,AZ Alkmaar,0,1,A,0,1,A
+NED,20/03/2009,19:45,De Graafschap,sc Heerenveen,2,0,H,1,0,H
+NED,21/03/2009,17:45,NEC Nijmegen,Willem II,0,0,D,0,0,D
+NED,21/03/2009,18:45,PSV Eindhoven,Vitesse,2,0,H,1,0,H
+NED,21/03/2009,19:45,Sparta Rotterdam,Heracles Almelo,1,0,H,0,0,D
+NED,22/03/2009,11:30,Roda JC Kerkrade,ADO Den Haag,2,0,H,0,0,D
+NED,22/03/2009,13:30,NAC Breda,AFC Ajax,0,3,A,0,1,A
+NED,22/03/2009,13:30,AZ Alkmaar,Feyenoord,0,0,D,0,0,D
+NED,22/03/2009,13:30,FC Volendam,FC Utrecht,0,0,D,0,0,D
+NED,22/03/2009,13:30,FC Twente,FC Groningen,2,1,H,1,0,H
+NED,03/04/2009,19:45,NEC Nijmegen,FC Twente,1,1,D,0,1,A
+NED,04/04/2009,17:45,FC Utrecht,FC Groningen,0,1,A,0,0,D
+NED,04/04/2009,18:45,Heracles Almelo,sc Heerenveen,1,1,D,0,1,A
+NED,04/04/2009,18:45,AZ Alkmaar,ADO Den Haag,4,1,H,0,1,A
+NED,04/04/2009,19:45,Sparta Rotterdam,PSV Eindhoven,0,2,A,0,2,A
+NED,05/04/2009,11:30,Roda JC Kerkrade,AFC Ajax,1,2,A,0,1,A
+NED,05/04/2009,13:30,FC Volendam,Feyenoord,2,1,H,0,1,A
+NED,05/04/2009,13:30,Willem II,NAC Breda,2,0,H,0,0,D
+NED,05/04/2009,13:30,Vitesse,De Graafschap,0,0,D,0,0,D
+NED,10/04/2009,19:45,NAC Breda,AZ Alkmaar,0,1,A,0,0,D
+NED,11/04/2009,17:45,De Graafschap,NEC Nijmegen,2,2,D,0,0,D
+NED,11/04/2009,18:45,ADO Den Haag,Sparta Rotterdam,1,2,A,1,0,H
+NED,11/04/2009,18:45,PSV Eindhoven,FC Utrecht,2,0,H,0,0,D
+NED,11/04/2009,19:45,FC Twente,Roda JC Kerkrade,4,2,H,3,1,H
+NED,12/04/2009,13:30,sc Heerenveen,FC Volendam,1,0,H,0,0,D
+NED,12/04/2009,13:30,FC Groningen,Vitesse,2,3,A,1,1,D
+NED,12/04/2009,13:30,Feyenoord,Heracles Almelo,5,1,H,2,1,H
+NED,12/04/2009,15:30,AFC Ajax,Willem II,7,0,H,5,0,H
+NED,17/04/2009,19:45,Heracles Almelo,NAC Breda,4,0,H,4,0,H
+NED,18/04/2009,17:45,NEC Nijmegen,Roda JC Kerkrade,1,1,D,0,0,D
+NED,18/04/2009,18:45,De Graafschap,FC Groningen,0,1,A,0,1,A
+NED,18/04/2009,19:45,AZ Alkmaar,Vitesse,1,2,A,1,1,D
+NED,18/04/2009,19:45,Feyenoord,FC Twente,1,0,H,0,0,D
+NED,19/04/2009,13:30,FC Utrecht,sc Heerenveen,2,1,H,1,1,D
+NED,19/04/2009,13:30,Willem II,ADO Den Haag,3,3,D,0,2,A
+NED,19/04/2009,13:30,FC Volendam,Sparta Rotterdam,3,0,H,1,0,H
+NED,19/04/2009,15:30,PSV Eindhoven,AFC Ajax,6,2,H,3,1,H
+NED,24/04/2009,19:45,Sparta Rotterdam,De Graafschap,0,0,D,0,0,D
+NED,25/04/2009,17:45,Roda JC Kerkrade,FC Volendam,1,1,D,1,0,H
+NED,25/04/2009,18:45,sc Heerenveen,FC Twente,1,1,D,0,0,D
+NED,25/04/2009,18:45,NEC Nijmegen,NAC Breda,2,3,A,1,1,D
+NED,25/04/2009,19:45,Heracles Almelo,PSV Eindhoven,0,2,A,0,1,A
+NED,26/04/2009,11:30,ADO Den Haag,Feyenoord,2,3,A,0,0,D
+NED,26/04/2009,13:30,Vitesse,FC Utrecht,6,1,H,1,0,H
+NED,26/04/2009,13:30,FC Groningen,Willem II,0,0,D,0,0,D
+NED,26/04/2009,13:30,AFC Ajax,AZ Alkmaar,1,1,D,0,1,A
+NED,03/05/2009,13:30,Roda JC Kerkrade,Willem II,0,1,A,0,0,D
+NED,03/05/2009,13:30,Vitesse,Heracles Almelo,1,0,H,0,0,D
+NED,03/05/2009,13:30,PSV Eindhoven,NEC Nijmegen,1,1,D,0,0,D
+NED,03/05/2009,13:30,FC Twente,AZ Alkmaar,3,0,H,0,0,D
+NED,03/05/2009,13:30,Sparta Rotterdam,AFC Ajax,4,0,H,2,0,H
+NED,03/05/2009,13:30,NAC Breda,De Graafschap,0,1,A,0,0,D
+NED,03/05/2009,13:30,FC Utrecht,Feyenoord,2,2,D,1,1,D
+NED,03/05/2009,13:30,FC Volendam,FC Groningen,0,1,A,0,0,D
+NED,03/05/2009,13:30,sc Heerenveen,ADO Den Haag,2,2,D,0,2,A
+NED,10/05/2009,13:30,Heracles Almelo,FC Utrecht,1,1,D,1,0,H
+NED,10/05/2009,13:30,AFC Ajax,FC Twente,1,0,H,0,0,D
+NED,10/05/2009,13:30,ADO Den Haag,Vitesse,3,1,H,2,0,H
+NED,10/05/2009,13:30,FC Groningen,NAC Breda,1,0,H,1,0,H
+NED,10/05/2009,13:30,AZ Alkmaar,sc Heerenveen,3,1,H,2,0,H
+NED,10/05/2009,13:30,De Graafschap,FC Volendam,2,2,D,0,0,D
+NED,10/05/2009,13:30,NEC Nijmegen,Sparta Rotterdam,1,1,D,1,1,D
+NED,10/05/2009,13:30,Willem II,PSV Eindhoven,0,3,A,0,1,A
+NED,10/05/2009,13:30,Feyenoord,Roda JC Kerkrade,2,3,A,0,2,A

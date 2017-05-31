@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROU,22/07/2016,16:30,FC Voluntari,FC Viitorul Constanța,0,1,A,0,1,A
+ROU,22/07/2016,19:00,Pandurii Târgu Jiu,CS Universitatea Craiova,2,1,H,0,0,D
+ROU,23/07/2016,16:30,Gaz Metan Mediaş,ASA Târgu Mureş,2,1,H,1,1,D
+ROU,23/07/2016,19:00,Astra Giurgiu,Dinamo Bucureşti,1,4,A,0,2,A
+ROU,24/07/2016,19:00,CFR Cluj,Concordia Chiajna,2,0,H,0,0,D
+ROU,18/08/2016,16:30,ACS Poli Timişoara,FC Botoşani,0,5,A,0,2,A
+ROU,31/08/2016,19:00,Steaua Bucureşti,CSMS Iaşi,1,1,D,1,1,D
+ROU,29/07/2016,19:00,CSMS Iaşi,Gaz Metan Mediaş,3,1,H,1,1,D
+ROU,30/07/2016,16:30,FC Botoşani,CFR Cluj,3,1,H,1,1,D
+ROU,30/07/2016,19:00,Dinamo Bucureşti,ACS Poli Timişoara,2,1,H,2,0,H
+ROU,31/07/2016,15:30,Pandurii Târgu Jiu,Astra Giurgiu,0,0,D,0,0,D
+ROU,31/07/2016,18:30,FC Viitorul Constanța,Steaua Bucureşti,1,3,A,1,1,D
+ROU,01/08/2016,16:30,CS Universitatea Craiova,ASA Târgu Mureş,2,1,H,1,0,H
+ROU,01/08/2016,19:00,Concordia Chiajna,FC Voluntari,0,4,A,0,0,D
+ROU,05/08/2016,16:30,FC Voluntari,FC Botoşani,4,2,H,3,1,H
+ROU,05/08/2016,19:00,ASA Târgu Mureş,CSMS Iaşi,0,3,A,0,3,A
+ROU,06/08/2016,17:00,Astra Giurgiu,CS Universitatea Craiova,1,2,A,1,2,A
+ROU,06/08/2016,19:30,Steaua Bucureşti,Concordia Chiajna,1,0,H,0,0,D
+ROU,07/08/2016,16:30,Gaz Metan Mediaş,FC Viitorul Constanța,2,1,H,1,0,H
+ROU,07/08/2016,19:00,ACS Poli Timişoara,Pandurii Târgu Jiu,1,3,A,0,1,A
+ROU,08/08/2016,19:00,CFR Cluj,Dinamo Bucureşti,0,0,D,0,0,D
+ROU,12/08/2016,19:00,FC Botoşani,Steaua Bucureşti,0,2,A,0,0,D
+ROU,13/08/2016,16:30,Concordia Chiajna,Gaz Metan Mediaş,1,0,H,0,0,D
+ROU,13/08/2016,19:00,Astra Giurgiu,ACS Poli Timişoara,3,1,H,1,0,H
+ROU,14/08/2016,16:30,Pandurii Târgu Jiu,CFR Cluj,1,1,D,0,0,D
+ROU,14/08/2016,19:00,FC Viitorul Constanța,ASA Târgu Mureş,3,1,H,1,0,H
+ROU,15/08/2016,16:30,CS Universitatea Craiova,CSMS Iaşi,2,0,H,1,0,H
+ROU,15/08/2016,19:00,Dinamo Bucureşti,FC Voluntari,3,1,H,3,0,H
+ROU,19/08/2016,19:00,CSMS Iaşi,FC Viitorul Constanța,0,0,D,0,0,D
+ROU,20/08/2016,16:00,ASA Târgu Mureş,Concordia Chiajna,0,1,A,0,0,D
+ROU,20/08/2016,19:00,Steaua Bucureşti,Dinamo Bucureşti,1,1,D,1,1,D
+ROU,21/08/2016,16:00,FC Voluntari,Pandurii Târgu Jiu,0,0,D,0,0,D
+ROU,21/08/2016,18:30,CFR Cluj,Astra Giurgiu,5,1,H,1,1,D
+ROU,22/08/2016,16:30,Gaz Metan Mediaş,FC Botoşani,0,0,D,0,0,D
+ROU,22/08/2016,19:00,ACS Poli Timişoara,CS Universitatea Craiova,3,2,H,1,0,H
+ROU,26/08/2016,16:30,Concordia Chiajna,CSMS Iaşi,0,0,D,0,0,D
+ROU,26/08/2016,19:00,Dinamo Bucureşti,Gaz Metan Mediaş,1,1,D,1,1,D
+ROU,27/08/2016,16:30,ACS Poli Timişoara,CFR Cluj,1,1,D,1,0,H
+ROU,27/08/2016,19:00,Pandurii Târgu Jiu,Steaua Bucureşti,0,1,A,0,0,D
+ROU,28/08/2016,16:00,CS Universitatea Craiova,FC Viitorul Constanța,2,1,H,0,0,D
+ROU,28/08/2016,19:00,Astra Giurgiu,FC Voluntari,1,1,D,0,0,D
+ROU,29/08/2016,19:00,FC Botoşani,ASA Târgu Mureş,4,2,H,1,2,A
+ROU,09/09/2016,18:30,Gaz Metan Mediaş,Pandurii Târgu Jiu,1,3,A,1,2,A
+ROU,10/09/2016,15:30,FC Voluntari,ACS Poli Timişoara,4,1,H,2,0,H
+ROU,10/09/2016,18:30,CFR Cluj,CS Universitatea Craiova,0,0,D,0,0,D
+ROU,11/09/2016,16:00,CSMS Iaşi,FC Botoşani,0,1,A,0,1,A
+ROU,11/09/2016,18:30,Steaua Bucureşti,Astra Giurgiu,1,0,H,1,0,H
+ROU,12/09/2016,16:00,FC Viitorul Constanța,Concordia Chiajna,2,1,H,0,0,D
+ROU,12/09/2016,18:30,ASA Târgu Mureş,Dinamo Bucureşti,2,1,H,0,0,D
+ROU,16/09/2016,16:00,FC Botoşani,FC Viitorul Constanța,1,2,A,1,1,D
+ROU,16/09/2016,18:30,Pandurii Târgu Jiu,ASA Târgu Mureş,1,0,H,0,0,D
+ROU,17/09/2016,16:00,CFR Cluj,FC Voluntari,5,0,H,1,0,H
+ROU,17/09/2016,18:30,Dinamo Bucureşti,CSMS Iaşi,3,1,H,2,0,H
+ROU,18/09/2016,15:00,CS Universitatea Craiova,Concordia Chiajna,1,1,D,0,0,D
+ROU,18/09/2016,18:00,ACS Poli Timişoara,Steaua Bucureşti,0,1,A,0,1,A
+ROU,19/09/2016,18:30,Astra Giurgiu,Gaz Metan Mediaş,0,2,A,0,0,D
+ROU,20/09/2016,16:00,CSMS Iaşi,Pandurii Târgu Jiu,3,2,H,1,1,D
+ROU,20/09/2016,18:30,FC Viitorul Constanța,Dinamo Bucureşti,1,1,D,0,1,A
+ROU,21/09/2016,15:00,FC Voluntari,CS Universitatea Craiova,0,1,A,0,0,D
+ROU,21/09/2016,18:30,Concordia Chiajna,FC Botoşani,0,2,A,0,0,D
+ROU,22/09/2016,14:00,Gaz Metan Mediaş,ACS Poli Timişoara,1,1,D,0,1,A
+ROU,22/09/2016,16:30,ASA Târgu Mureş,Astra Giurgiu,0,2,A,0,1,A
+ROU,22/09/2016,19:00,Steaua Bucureşti,CFR Cluj,1,2,A,1,1,D
+ROU,23/09/2016,18:30,Pandurii Târgu Jiu,FC Viitorul Constanța,0,1,A,0,0,D
+ROU,24/09/2016,13:00,CS Universitatea Craiova,FC Botoşani,1,0,H,1,0,H
+ROU,24/09/2016,18:30,Dinamo Bucureşti,Concordia Chiajna,0,1,A,0,1,A
+ROU,25/09/2016,16:00,ACS Poli Timişoara,ASA Târgu Mureş,0,1,A,0,1,A
+ROU,25/09/2016,18:30,FC Voluntari,Steaua Bucureşti,2,3,A,1,1,D
+ROU,26/09/2016,16:00,CFR Cluj,Gaz Metan Mediaş,1,1,D,0,1,A
+ROU,26/09/2016,18:30,Astra Giurgiu,CSMS Iaşi,1,0,H,0,0,D
+ROU,30/09/2016,16:00,CSMS Iaşi,ACS Poli Timişoara,0,1,A,0,0,D
+ROU,30/09/2016,18:30,ASA Târgu Mureş,CFR Cluj,1,3,A,0,1,A
+ROU,01/10/2016,16:00,Gaz Metan Mediaş,FC Voluntari,1,0,H,0,0,D
+ROU,01/10/2016,18:30,FC Botoşani,Dinamo Bucureşti,2,1,H,1,0,H
+ROU,02/10/2016,16:00,FC Viitorul Constanța,Astra Giurgiu,1,0,H,0,0,D
+ROU,02/10/2016,18:30,Steaua Bucureşti,CS Universitatea Craiova,2,1,H,1,1,D
+ROU,03/10/2016,18:30,Concordia Chiajna,Pandurii Târgu Jiu,0,0,D,0,0,D
+ROU,14/10/2016,18:30,CFR Cluj,CSMS Iaşi,1,0,H,0,0,D
+ROU,15/10/2016,16:00,Pandurii Târgu Jiu,FC Botoşani,2,1,H,1,0,H
+ROU,15/10/2016,18:30,Astra Giurgiu,Concordia Chiajna,1,1,D,0,1,A
+ROU,16/10/2016,13:30,FC Voluntari,ASA Târgu Mureş,1,1,D,1,0,H
+ROU,16/10/2016,18:30,Steaua Bucureşti,Gaz Metan Mediaş,0,1,A,0,1,A
+ROU,17/10/2016,16:00,ACS Poli Timişoara,FC Viitorul Constanța,1,0,H,0,0,D
+ROU,17/10/2016,18:30,CS Universitatea Craiova,Dinamo Bucureşti,2,1,H,0,0,D
+ROU,21/10/2016,16:00,Concordia Chiajna,ACS Poli Timişoara,0,2,A,0,0,D
+ROU,21/10/2016,18:30,FC Viitorul Constanța,CFR Cluj,2,1,H,2,0,H
+ROU,22/10/2016,16:00,Gaz Metan Mediaş,CS Universitatea Craiova,2,2,D,0,1,A
+ROU,22/10/2016,18:30,Dinamo Bucureşti,Pandurii Târgu Jiu,4,0,H,3,0,H
+ROU,23/10/2016,16:00,CSMS Iaşi,FC Voluntari,1,2,A,0,2,A
+ROU,23/10/2016,18:30,ASA Târgu Mureş,Steaua Bucureşti,1,1,D,0,0,D
+ROU,24/10/2016,18:30,FC Botoşani,Astra Giurgiu,0,0,D,0,0,D
+ROU,28/10/2016,18:30,Concordia Chiajna,CFR Cluj,1,2,A,1,1,D
+ROU,29/10/2016,12:00,CS Universitatea Craiova,Pandurii Târgu Jiu,2,1,H,0,0,D
+ROU,29/10/2016,18:30,Dinamo Bucureşti,Astra Giurgiu,2,2,D,1,0,H
+ROU,30/10/2016,16:00,ASA Târgu Mureş,Gaz Metan Mediaş,1,3,A,1,2,A
+ROU,30/10/2016,18:30,CSMS Iaşi,Steaua Bucureşti,0,2,A,0,1,A
+ROU,31/10/2016,16:00,FC Viitorul Constanța,FC Voluntari,2,1,H,0,1,A
+ROU,31/10/2016,18:30,FC Botoşani,ACS Poli Timişoara,2,0,H,2,0,H
+ROU,04/11/2016,15:30,Gaz Metan Mediaş,CSMS Iaşi,2,1,H,0,0,D
+ROU,05/11/2016,12:00,FC Voluntari,Concordia Chiajna,1,0,H,0,0,D
+ROU,05/11/2016,16:00,ASA Târgu Mureş,CS Universitatea Craiova,0,2,A,0,1,A
+ROU,05/11/2016,18:30,ACS Poli Timişoara,Dinamo Bucureşti,1,2,A,0,1,A
+ROU,06/11/2016,16:00,Astra Giurgiu,Pandurii Târgu Jiu,2,0,H,1,0,H
+ROU,06/11/2016,18:30,Steaua Bucureşti,FC Viitorul Constanța,2,0,H,2,0,H
+ROU,07/11/2016,18:30,CFR Cluj,FC Botoşani,1,0,H,0,0,D
+ROU,18/11/2016,16:00,FC Botoşani,FC Voluntari,0,1,A,0,1,A
+ROU,18/11/2016,18:30,Pandurii Târgu Jiu,ACS Poli Timişoara,2,2,D,1,1,D
+ROU,19/11/2016,14:30,CSMS Iaşi,ASA Târgu Mureş,0,0,D,0,0,D
+ROU,19/11/2016,17:00,Concordia Chiajna,Steaua Bucureşti,1,0,H,1,0,H
+ROU,20/11/2016,15:30,CS Universitatea Craiova,Astra Giurgiu,0,1,A,0,1,A
+ROU,21/11/2016,16:00,FC Viitorul Constanța,Gaz Metan Mediaş,1,1,D,0,1,A
+ROU,21/11/2016,18:30,Dinamo Bucureşti,CFR Cluj,0,2,A,0,2,A
+ROU,25/11/2016,16:00,ASA Târgu Mureş,FC Viitorul Constanța,0,2,A,0,2,A
+ROU,25/11/2016,18:30,CSMS Iaşi,CS Universitatea Craiova,2,1,H,1,1,D
+ROU,26/11/2016,16:00,Gaz Metan Mediaş,Concordia Chiajna,3,1,H,0,1,A
+ROU,26/11/2016,18:30,FC Voluntari,Dinamo Bucureşti,1,2,A,0,0,D
+ROU,27/11/2016,16:00,ACS Poli Timişoara,Astra Giurgiu,2,0,H,1,0,H
+ROU,27/11/2016,18:30,Steaua Bucureşti,FC Botoşani,0,0,D,0,0,D
+ROU,28/11/2016,18:30,CFR Cluj,Pandurii Târgu Jiu,0,1,A,0,1,A
+ROU,29/11/2016,16:00,Concordia Chiajna,ASA Târgu Mureş,1,2,A,0,0,D
+ROU,29/11/2016,18:30,FC Viitorul Constanța,CSMS Iaşi,1,0,H,0,0,D
+ROU,30/11/2016,12:00,CS Universitatea Craiova,ACS Poli Timişoara,2,0,H,2,0,H
+ROU,30/11/2016,15:30,FC Botoşani,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,30/11/2016,18:30,Dinamo Bucureşti,Steaua Bucureşti,3,1,H,2,1,H
+ROU,01/12/2016,16:00,Pandurii Târgu Jiu,FC Voluntari,1,1,D,1,0,H
+ROU,01/12/2016,18:30,Astra Giurgiu,CFR Cluj,1,2,A,1,2,A
+ROU,02/12/2016,18:30,CSMS Iaşi,Concordia Chiajna,1,0,H,1,0,H
+ROU,03/12/2016,18:30,FC Viitorul Constanța,CS Universitatea Craiova,2,0,H,2,0,H
+ROU,04/12/2016,12:00,FC Voluntari,Astra Giurgiu,1,2,A,0,0,D
+ROU,04/12/2016,16:00,ASA Târgu Mureş,FC Botoşani,2,0,H,0,0,D
+ROU,04/12/2016,18:30,Steaua Bucureşti,Pandurii Târgu Jiu,3,1,H,1,1,D
+ROU,05/12/2016,16:00,CFR Cluj,ACS Poli Timişoara,2,2,D,1,2,A
+ROU,05/12/2016,18:30,Gaz Metan Mediaş,Dinamo Bucureşti,4,0,H,1,0,H
+ROU,09/12/2016,15:00,ACS Poli Timişoara,FC Voluntari,1,0,H,1,0,H
+ROU,09/12/2016,18:30,CS Universitatea Craiova,CFR Cluj,2,1,H,1,1,D
+ROU,10/12/2016,14:00,Pandurii Târgu Jiu,Gaz Metan Mediaş,2,5,A,2,1,H
+ROU,10/12/2016,16:00,FC Botoşani,CSMS Iaşi,1,3,A,0,2,A
+ROU,10/12/2016,18:30,Dinamo Bucureşti,ASA Târgu Mureş,1,0,H,1,0,H
+ROU,11/12/2016,17:00,Astra Giurgiu,Steaua Bucureşti,1,0,H,0,0,D
+ROU,12/12/2016,18:30,Concordia Chiajna,FC Viitorul Constanța,1,2,A,0,1,A
+ROU,16/12/2016,18:30,Concordia Chiajna,CS Universitatea Craiova,0,0,D,0,0,D
+ROU,17/12/2016,12:00,FC Voluntari,CFR Cluj,2,1,H,0,1,A
+ROU,17/12/2016,18:30,Steaua Bucureşti,ACS Poli Timişoara,1,0,H,1,0,H
+ROU,18/12/2016,16:00,ASA Târgu Mureş,Pandurii Târgu Jiu,3,0,H,NaN,NaN,NaN
+ROU,18/12/2016,18:30,CSMS Iaşi,Dinamo Bucureşti,3,1,H,1,1,D
+ROU,19/12/2016,16:00,Gaz Metan Mediaş,Astra Giurgiu,0,1,A,0,0,D
+ROU,19/12/2016,18:30,FC Viitorul Constanța,FC Botoşani,3,1,H,1,1,D
+ROU,03/02/2017,15:30,Pandurii Târgu Jiu,CSMS Iaşi,1,1,D,0,0,D
+ROU,03/02/2017,18:00,Astra Giurgiu,ASA Târgu Mureş,1,0,H,1,0,H
+ROU,04/02/2017,12:00,CS Universitatea Craiova,FC Voluntari,5,0,H,2,0,H
+ROU,04/02/2017,18:00,Dinamo Bucureşti,FC Viitorul Constanța,1,2,A,1,0,H
+ROU,05/02/2017,15:30,FC Botoşani,Concordia Chiajna,1,1,D,0,1,A
+ROU,05/02/2017,18:00,CFR Cluj,Steaua Bucureşti,1,1,D,0,1,A
+ROU,06/02/2017,18:00,ACS Poli Timişoara,Gaz Metan Mediaş,1,1,D,0,0,D
+ROU,10/02/2017,18:00,ASA Târgu Mureş,ACS Poli Timişoara,0,0,D,0,0,D
+ROU,11/02/2017,16:00,FC Botoşani,CS Universitatea Craiova,1,0,H,0,0,D
+ROU,11/02/2017,18:30,Gaz Metan Mediaş,CFR Cluj,1,2,A,0,0,D
+ROU,12/02/2017,18:30,Steaua Bucureşti,FC Voluntari,2,2,D,1,1,D
+ROU,13/02/2017,15:30,FC Viitorul Constanța,Pandurii Târgu Jiu,3,0,H,2,0,H
+ROU,13/02/2017,18:00,Concordia Chiajna,Dinamo Bucureşti,2,1,H,1,0,H
+ROU,02/03/2017,18:00,CSMS Iaşi,Astra Giurgiu,2,3,A,2,1,H
+ROU,17/02/2017,18:00,CFR Cluj,ASA Târgu Mureş,2,0,H,0,0,D
+ROU,18/02/2017,12:00,FC Voluntari,Gaz Metan Mediaş,1,0,H,0,0,D
+ROU,18/02/2017,18:00,CS Universitatea Craiova,Steaua Bucureşti,1,2,A,1,1,D
+ROU,19/02/2017,15:30,Pandurii Târgu Jiu,Concordia Chiajna,0,1,A,0,1,A
+ROU,19/02/2017,18:00,Astra Giurgiu,FC Viitorul Constanța,1,0,H,0,0,D
+ROU,20/02/2017,16:00,ACS Poli Timişoara,CSMS Iaşi,2,1,H,1,0,H
+ROU,20/02/2017,18:30,Dinamo Bucureşti,FC Botoşani,1,0,H,0,0,D
+ROU,24/02/2017,18:30,ASA Târgu Mureş,FC Voluntari,0,0,D,0,0,D
+ROU,25/02/2017,13:00,FC Viitorul Constanța,ACS Poli Timişoara,5,0,H,4,0,H
+ROU,25/02/2017,18:30,Dinamo Bucureşti,CS Universitatea Craiova,2,1,H,2,0,H
+ROU,26/02/2017,11:30,FC Botoşani,Pandurii Târgu Jiu,3,1,H,1,1,D
+ROU,26/02/2017,18:30,Gaz Metan Mediaş,Steaua Bucureşti,1,1,D,0,1,A
+ROU,27/02/2017,16:00,Concordia Chiajna,Astra Giurgiu,1,3,A,1,1,D
+ROU,27/02/2017,18:30,CSMS Iaşi,CFR Cluj,1,2,A,0,1,A
+ROU,04/03/2017,16:00,ACS Poli Timişoara,Concordia Chiajna,1,1,D,0,1,A
+ROU,04/03/2017,18:30,Steaua Bucureşti,ASA Târgu Mureş,1,1,D,0,0,D
+ROU,05/03/2017,18:30,CS Universitatea Craiova,Gaz Metan Mediaş,1,0,H,0,0,D
+ROU,05/03/2017,18:30,CFR Cluj,FC Viitorul Constanța,1,0,H,1,0,H
+ROU,05/03/2017,18:30,Pandurii Târgu Jiu,Dinamo Bucureşti,0,2,A,0,1,A
+ROU,06/03/2017,16:00,FC Voluntari,CSMS Iaşi,0,1,A,0,0,D
+ROU,06/03/2017,18:30,Astra Giurgiu,FC Botoşani,3,0,H,0,0,D

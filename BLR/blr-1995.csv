@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BLR,10/07/1995,,Dinamo Minsk,Torpedo Minsk,5,1,H,NaN,NaN,NaN
+BLR,10/07/1995,,Shakhter Soligorsk,Obuvshchik Lida,1,3,A,NaN,NaN,NaN
+BLR,10/07/1995,,MPKC Mozyr,Neman Grodno,7,0,H,NaN,NaN,NaN
+BLR,10/07/1995,,FC Ataka-Aura Minsk,Torpedo Mogilev,0,0,D,NaN,NaN,NaN
+BLR,11/07/1995,,Shinnik Bobruisk,FK Vedrich Rechytsa,1,1,D,NaN,NaN,NaN
+BLR,11/07/1995,,Dinamo-93 Minsk,FK Molodechno,4,1,H,NaN,NaN,NaN
+BLR,23/08/1995,,Dvina Vitebsk,Dnepr Mogilev,1,2,A,NaN,NaN,NaN
+BLR,23/08/1995,,FK Bobruisk,Dinamo Brest,1,4,A,NaN,NaN,NaN
+BLR,15/07/1995,,Torpedo Mogilev,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+BLR,15/07/1995,,Torpedo Minsk,FC Ataka-Aura Minsk,2,1,H,NaN,NaN,NaN
+BLR,15/07/1995,,FK Bobruisk,MPKC Mozyr,0,5,A,NaN,NaN,NaN
+BLR,15/07/1995,,Dinamo Brest,Dvina Vitebsk,1,1,D,NaN,NaN,NaN
+BLR,16/07/1995,,FK Vedrich Rechytsa,Dinamo-93 Minsk,3,0,H,NaN,NaN,NaN
+BLR,16/07/1995,,Shinnik Bobruisk,Shakhter Soligorsk,3,1,H,NaN,NaN,NaN
+BLR,16/07/1995,,Obuvshchik Lida,FK Molodechno,1,0,H,NaN,NaN,NaN
+BLR,13/09/1995,,Neman Grodno,Dnepr Mogilev,4,1,H,NaN,NaN,NaN
+BLR,20/07/1995,,Torpedo Minsk,Neman Grodno,1,0,H,NaN,NaN,NaN
+BLR,20/07/1995,,MPKC Mozyr,Shinnik Bobruisk,4,0,H,NaN,NaN,NaN
+BLR,20/07/1995,,Dvina Vitebsk,Torpedo Mogilev,1,0,H,NaN,NaN,NaN
+BLR,20/07/1995,,FC Ataka-Aura Minsk,Shakhter Soligorsk,4,0,H,NaN,NaN,NaN
+BLR,21/07/1995,,Dinamo-93 Minsk,Dinamo Brest,1,0,H,NaN,NaN,NaN
+BLR,21/07/1995,,Dinamo Minsk,FK Bobruisk,6,1,H,NaN,NaN,NaN
+BLR,21/07/1995,,FK Molodechno,FK Vedrich Rechytsa,2,1,H,NaN,NaN,NaN
+BLR,27/09/1995,,Dnepr Mogilev,Obuvshchik Lida,3,0,H,NaN,NaN,NaN
+BLR,25/07/1995,,Torpedo Mogilev,Dinamo-93 Minsk,1,3,A,NaN,NaN,NaN
+BLR,25/07/1995,,Shinnik Bobruisk,Dinamo Minsk,0,3,A,NaN,NaN,NaN
+BLR,25/07/1995,,Shakhter Soligorsk,MPKC Mozyr,1,3,A,NaN,NaN,NaN
+BLR,25/07/1995,,Neman Grodno,FC Ataka-Aura Minsk,0,4,A,NaN,NaN,NaN
+BLR,25/07/1995,,Obuvshchik Lida,Torpedo Minsk,1,1,D,NaN,NaN,NaN
+BLR,26/07/1995,,FK Vedrich Rechytsa,Dnepr Mogilev,1,3,A,NaN,NaN,NaN
+BLR,26/07/1995,,FK Bobruisk,Dvina Vitebsk,0,0,D,NaN,NaN,NaN
+BLR,26/07/1995,,Dinamo Brest,FK Molodechno,3,2,H,NaN,NaN,NaN
+BLR,01/08/1995,,FK Vedrich Rechytsa,Dinamo Brest,2,0,H,NaN,NaN,NaN
+BLR,01/08/1995,,Neman Grodno,FK Bobruisk,3,0,H,NaN,NaN,NaN
+BLR,01/08/1995,,FK Molodechno,MPKC Mozyr,2,1,H,NaN,NaN,NaN
+BLR,01/08/1995,,Dvina Vitebsk,FC Ataka-Aura Minsk,0,2,A,NaN,NaN,NaN
+BLR,01/08/1995,,Dnepr Mogilev,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,01/08/1995,,Obuvshchik Lida,Torpedo Mogilev,0,0,D,NaN,NaN,NaN
+BLR,01/08/1995,,Dinamo-93 Minsk,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+BLR,02/08/1995,,Torpedo Minsk,Shinnik Bobruisk,0,1,A,NaN,NaN,NaN
+BLR,13/08/1995,,Shakhter Soligorsk,FK Bobruisk,2,1,H,NaN,NaN,NaN
+BLR,13/08/1995,,Dvina Vitebsk,FK Vedrich Rechytsa,1,0,H,NaN,NaN,NaN
+BLR,13/08/1995,,MPKC Mozyr,Torpedo Mogilev,3,1,H,NaN,NaN,NaN
+BLR,13/08/1995,,Dinamo Minsk,Dinamo Brest,5,2,H,NaN,NaN,NaN
+BLR,13/08/1995,,Dnepr Mogilev,Torpedo Minsk,3,2,H,NaN,NaN,NaN
+BLR,13/08/1995,,FK Molodechno,Neman Grodno,1,3,A,NaN,NaN,NaN
+BLR,14/08/1995,,FC Ataka-Aura Minsk,Shinnik Bobruisk,3,0,H,NaN,NaN,NaN
+BLR,15/08/1995,,Dinamo-93 Minsk,Obuvshchik Lida,2,1,H,NaN,NaN,NaN
+BLR,17/08/1995,,Dinamo Minsk,Dvina Vitebsk,3,1,H,NaN,NaN,NaN
+BLR,18/08/1995,,Shakhter Soligorsk,FK Molodechno,1,1,D,NaN,NaN,NaN
+BLR,18/08/1995,,FK Bobruisk,Torpedo Minsk,0,0,D,NaN,NaN,NaN
+BLR,18/08/1995,,Torpedo Mogilev,Neman Grodno,1,1,D,NaN,NaN,NaN
+BLR,19/08/1995,,Shinnik Bobruisk,Dnepr Mogilev,1,2,A,NaN,NaN,NaN
+BLR,19/08/1995,,MPKC Mozyr,Dinamo-93 Minsk,2,2,D,NaN,NaN,NaN
+BLR,19/08/1995,,FC Ataka-Aura Minsk,FK Vedrich Rechytsa,1,0,H,NaN,NaN,NaN
+BLR,20/08/1995,,Dinamo Brest,Obuvshchik Lida,1,1,D,NaN,NaN,NaN
+BLR,26/08/1995,,FK Vedrich Rechytsa,Shakhter Soligorsk,0,0,D,NaN,NaN,NaN
+BLR,26/08/1995,,Obuvshchik Lida,MPKC Mozyr,0,3,A,NaN,NaN,NaN
+BLR,26/08/1995,,Torpedo Minsk,Dvina Vitebsk,0,0,D,NaN,NaN,NaN
+BLR,26/08/1995,,Torpedo Mogilev,FK Bobruisk,5,1,H,NaN,NaN,NaN
+BLR,26/08/1995,,FK Molodechno,FC Ataka-Aura Minsk,1,0,H,NaN,NaN,NaN
+BLR,26/08/1995,,Dinamo Brest,Shinnik Bobruisk,4,2,H,NaN,NaN,NaN
+BLR,27/08/1995,,Neman Grodno,Dinamo Minsk,2,3,A,NaN,NaN,NaN
+BLR,28/08/1995,,Dnepr Mogilev,Dinamo-93 Minsk,1,3,A,NaN,NaN,NaN
+BLR,09/09/1995,,Dinamo-93 Minsk,Shakhter Soligorsk,1,0,H,NaN,NaN,NaN
+BLR,09/09/1995,,Neman Grodno,Dinamo Brest,2,3,A,NaN,NaN,NaN
+BLR,09/09/1995,,FK Molodechno,Shinnik Bobruisk,6,1,H,NaN,NaN,NaN
+BLR,09/09/1995,,Dvina Vitebsk,MPKC Mozyr,1,1,D,NaN,NaN,NaN
+BLR,09/09/1995,,Obuvshchik Lida,FK Vedrich Rechytsa,3,0,H,NaN,NaN,NaN
+BLR,09/09/1995,,Dnepr Mogilev,FK Bobruisk,5,1,H,NaN,NaN,NaN
+BLR,10/09/1995,,Torpedo Minsk,Torpedo Mogilev,0,3,A,NaN,NaN,NaN
+BLR,22/10/1995,,Dinamo Minsk,FC Ataka-Aura Minsk,0,0,D,NaN,NaN,NaN
+BLR,17/09/1995,,FC Ataka-Aura Minsk,Dinamo Brest,3,1,H,NaN,NaN,NaN
+BLR,17/09/1995,,MPKC Mozyr,Dnepr Mogilev,1,0,H,NaN,NaN,NaN
+BLR,17/09/1995,,Torpedo Mogilev,FK Vedrich Rechytsa,2,2,D,NaN,NaN,NaN
+BLR,17/09/1995,,Shinnik Bobruisk,Neman Grodno,3,1,H,NaN,NaN,NaN
+BLR,17/09/1995,,Shakhter Soligorsk,Torpedo Minsk,0,1,A,NaN,NaN,NaN
+BLR,17/09/1995,,Dinamo Minsk,FK Molodechno,2,0,H,NaN,NaN,NaN
+BLR,18/09/1995,,Dvina Vitebsk,Dinamo-93 Minsk,0,1,A,NaN,NaN,NaN
+BLR,18/09/1995,,FK Bobruisk,Obuvshchik Lida,0,2,A,NaN,NaN,NaN
+BLR,21/09/1995,,Dnepr Mogilev,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,22/09/1995,,Torpedo Minsk,MPKC Mozyr,0,5,A,NaN,NaN,NaN
+BLR,22/09/1995,,Neman Grodno,Shakhter Soligorsk,1,0,H,NaN,NaN,NaN
+BLR,22/09/1995,,Dinamo Brest,Torpedo Mogilev,3,0,H,NaN,NaN,NaN
+BLR,23/09/1995,,FK Vedrich Rechytsa,FK Bobruisk,2,1,H,NaN,NaN,NaN
+BLR,23/09/1995,,Dinamo-93 Minsk,FC Ataka-Aura Minsk,1,1,D,NaN,NaN,NaN
+BLR,23/09/1995,,Obuvshchik Lida,Shinnik Bobruisk,0,0,D,NaN,NaN,NaN
+BLR,23/09/1995,,FK Molodechno,Dvina Vitebsk,0,1,A,NaN,NaN,NaN
+BLR,30/09/1995,,FC Ataka-Aura Minsk,MPKC Mozyr,1,1,D,NaN,NaN,NaN
+BLR,01/10/1995,,FK Molodechno,Torpedo Mogilev,4,0,H,NaN,NaN,NaN
+BLR,01/10/1995,,Dvina Vitebsk,Shinnik Bobruisk,1,1,D,NaN,NaN,NaN
+BLR,01/10/1995,,Neman Grodno,Obuvshchik Lida,1,0,H,NaN,NaN,NaN
+BLR,01/10/1995,,Dinamo Minsk,Shakhter Soligorsk,1,1,D,NaN,NaN,NaN
+BLR,01/10/1995,,Dnepr Mogilev,Dinamo Brest,4,3,H,NaN,NaN,NaN
+BLR,02/10/1995,,Torpedo Minsk,FK Vedrich Rechytsa,1,0,H,NaN,NaN,NaN
+BLR,02/10/1995,,Dinamo-93 Minsk,FK Bobruisk,6,0,H,NaN,NaN,NaN
+BLR,14/10/1995,,Shinnik Bobruisk,Dinamo-93 Minsk,0,1,A,NaN,NaN,NaN
+BLR,14/10/1995,,FK Vedrich Rechytsa,Neman Grodno,9,0,H,NaN,NaN,NaN
+BLR,14/10/1995,,Torpedo Mogilev,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,14/10/1995,,Shakhter Soligorsk,Dvina Vitebsk,1,0,H,NaN,NaN,NaN
+BLR,14/10/1995,,Obuvshchik Lida,FC Ataka-Aura Minsk,1,3,A,NaN,NaN,NaN
+BLR,14/10/1995,,Dinamo Brest,Torpedo Minsk,1,2,A,NaN,NaN,NaN
+BLR,15/10/1995,,FK Bobruisk,FK Molodechno,0,7,A,NaN,NaN,NaN
+BLR,03/11/1995,,MPKC Mozyr,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+BLR,26/10/1995,,FK Vedrich Rechytsa,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+BLR,27/10/1995,,Neman Grodno,Dinamo-93 Minsk,2,0,H,NaN,NaN,NaN
+BLR,27/10/1995,,FK Bobruisk,Shinnik Bobruisk,0,4,A,NaN,NaN,NaN
+BLR,27/10/1995,,Torpedo Minsk,FK Molodechno,0,4,A,NaN,NaN,NaN
+BLR,27/10/1995,,Dinamo Brest,MPKC Mozyr,0,3,A,NaN,NaN,NaN
+BLR,27/10/1995,,Obuvshchik Lida,Dvina Vitebsk,0,2,A,NaN,NaN,NaN
+BLR,27/10/1995,,Dnepr Mogilev,FC Ataka-Aura Minsk,0,0,D,NaN,NaN,NaN
+BLR,27/10/1995,,Torpedo Mogilev,Shakhter Soligorsk,0,0,D,NaN,NaN,NaN
+BLR,05/11/1995,,Dinamo-93 Minsk,Torpedo Minsk,3,1,H,NaN,NaN,NaN
+BLR,05/11/1995,,Dinamo Minsk,Obuvshchik Lida,6,2,H,NaN,NaN,NaN
+BLR,06/11/1995,,Shinnik Bobruisk,Torpedo Mogilev,0,2,A,NaN,NaN,NaN
+BLR,06/11/1995,,Shakhter Soligorsk,Dinamo Brest,3,1,H,NaN,NaN,NaN
+BLR,06/11/1995,,MPKC Mozyr,FK Vedrich Rechytsa,3,0,H,NaN,NaN,NaN
+BLR,06/11/1995,,FK Molodechno,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,06/11/1995,,Dvina Vitebsk,Neman Grodno,2,0,H,NaN,NaN,NaN
+BLR,06/11/1995,,FC Ataka-Aura Minsk,FK Bobruisk,3,0,H,NaN,NaN,NaN

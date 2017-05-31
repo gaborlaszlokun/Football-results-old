@@ -1,0 +1,111 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IND,17/01/2015,11:00,Salgaocar FC,Pune FC,1,1,D,0,1,A
+IND,17/01/2015,13:30,Bengaluru FC,Dempo SC,0,0,D,0,0,D
+IND,18/01/2015,11:00,Mohun Bagan,Mumbai FC,3,1,H,2,1,H
+IND,18/01/2015,11:00,Shillong Lajong FC,Royal Wahingdoh,1,2,A,1,1,D
+IND,18/01/2015,13:30,Sporting Goa,East Bengal FC,1,1,D,0,1,A
+IND,23/01/2015,12:00,Salgaocar FC,Royal Wahingdoh,0,1,A,0,1,A
+IND,24/01/2015,13:30,Bengaluru FC,Pune FC,1,3,A,0,2,A
+IND,24/01/2015,13:30,Bharat FC,Dempo SC,0,0,D,0,0,D
+IND,25/01/2015,11:00,Shillong Lajong FC,Mumbai FC,1,0,H,0,0,D
+IND,17/02/2015,13:30,East Bengal FC,Mohun Bagan,1,1,D,1,1,D
+IND,27/01/2015,12:00,Dempo SC,Sporting Goa,3,0,H,1,0,H
+IND,27/01/2015,13:30,Bharat FC,Royal Wahingdoh,1,2,A,1,0,H
+IND,28/01/2015,11:00,Salgaocar FC,Mohun Bagan,0,0,D,0,0,D
+IND,28/01/2015,13:30,East Bengal FC,Bengaluru FC,1,0,H,0,0,D
+IND,29/01/2015,13:30,Pune FC,Shillong Lajong FC,5,2,H,5,1,H
+IND,31/01/2015,11:00,Royal Wahingdoh,Bengaluru FC,0,4,A,0,1,A
+IND,01/02/2015,11:00,Sporting Goa,Salgaocar FC,0,2,A,0,1,A
+IND,01/02/2015,11:00,East Bengal FC,Shillong Lajong FC,2,1,H,1,0,H
+IND,01/02/2015,13:30,Pune FC,Mumbai FC,3,2,H,2,1,H
+IND,05/05/2015,14:30,Bharat FC,Mohun Bagan,1,0,H,NaN,NaN,NaN
+IND,07/02/2015,11:00,Royal Wahingdoh,Dempo SC,1,1,D,0,0,D
+IND,07/02/2015,11:00,Salgaocar FC,East Bengal FC,3,1,H,2,0,H
+IND,07/02/2015,13:30,Mohun Bagan,Pune FC,1,0,H,0,0,D
+IND,08/02/2015,11:00,Mumbai FC,Sporting Goa,0,0,D,0,0,D
+IND,08/02/2015,13:30,Bengaluru FC,Bharat FC,1,0,H,0,0,D
+IND,13/02/2015,13:30,Mumbai FC,Salgaocar FC,3,0,H,2,0,H
+IND,14/02/2015,13:30,Bengaluru FC,Shillong Lajong FC,2,0,H,1,0,H
+IND,14/02/2015,13:30,Pune FC,Dempo SC,0,0,D,0,0,D
+IND,15/02/2015,11:00,Royal Wahingdoh,Sporting Goa,2,0,H,1,0,H
+IND,15/02/2015,13:30,East Bengal FC,Bharat FC,1,1,D,1,0,H
+IND,20/02/2015,13:30,Mohun Bagan,Bengaluru FC,4,1,H,1,1,D
+IND,20/02/2015,13:30,Mumbai FC,Royal Wahingdoh,2,1,H,0,1,A
+IND,21/02/2015,11:00,Dempo SC,Shillong Lajong FC,0,2,A,0,0,D
+IND,21/02/2015,13:30,Pune FC,Sporting Goa,1,1,D,0,0,D
+IND,22/02/2015,13:30,Bharat FC,Salgaocar FC,2,0,H,2,0,H
+IND,27/02/2015,11:00,Shillong Lajong FC,Mohun Bagan,3,4,A,1,2,A
+IND,27/02/2015,13:30,Bharat FC,Mumbai FC,0,2,A,0,1,A
+IND,28/02/2015,11:00,Sporting Goa,Bengaluru FC,1,3,A,0,2,A
+IND,28/02/2015,13:30,Pune FC,Royal Wahingdoh,1,0,H,1,0,H
+IND,01/03/2015,13:30,Dempo SC,East Bengal FC,1,5,A,1,2,A
+IND,03/03/2015,11:00,Salgaocar FC,Shillong Lajong FC,2,1,H,2,1,H
+IND,03/03/2015,13:30,Mumbai FC,Bengaluru FC,1,1,D,0,1,A
+IND,04/03/2015,13:30,Bharat FC,Sporting Goa,1,0,H,0,0,D
+IND,04/03/2015,13:30,Dempo SC,Mohun Bagan,1,1,D,0,1,A
+IND,31/03/2015,12:00,Royal Wahingdoh,East Bengal FC,1,0,H,1,0,H
+IND,16/05/2015,12:00,Sporting Goa,Mohun Bagan,2,1,H,NaN,NaN,NaN
+IND,17/05/2015,12:00,East Bengal FC,Pune FC,1,2,A,NaN,NaN,NaN
+IND,17/05/2015,12:00,Shillong Lajong FC,Bharat FC,3,1,H,NaN,NaN,NaN
+IND,17/05/2015,12:00,Dempo SC,Mumbai FC,0,0,D,NaN,NaN,NaN
+IND,17/05/2015,14:30,Bengaluru FC,Salgaocar FC,3,1,H,NaN,NaN,NaN
+IND,10/05/2015,14:30,Bharat FC,Pune FC,1,0,H,NaN,NaN,NaN
+IND,20/05/2015,12:00,Shillong Lajong FC,Sporting Goa,1,2,A,NaN,NaN,NaN
+IND,20/05/2015,12:00,Dempo SC,Salgaocar FC,0,0,D,NaN,NaN,NaN
+IND,20/05/2015,14:30,Mumbai FC,East Bengal FC,2,1,H,NaN,NaN,NaN
+IND,20/05/2015,14:30,Mohun Bagan,Royal Wahingdoh,2,0,H,NaN,NaN,NaN
+IND,21/03/2015,11:00,East Bengal FC,Sporting Goa,2,2,D,1,0,H
+IND,21/03/2015,11:00,Royal Wahingdoh,Bharat FC,1,1,D,1,0,H
+IND,21/03/2015,13:30,Salgaocar FC,Bengaluru FC,0,1,A,0,0,D
+IND,22/03/2015,11:00,Mohun Bagan,Dempo SC,2,0,H,1,0,H
+IND,22/03/2015,13:30,Mumbai FC,Pune FC,1,1,D,1,0,H
+IND,27/03/2015,13:30,Dempo SC,Bharat FC,0,0,D,0,0,D
+IND,28/03/2015,11:00,Salgaocar FC,Mumbai FC,3,1,H,2,0,H
+IND,28/03/2015,11:00,Mohun Bagan,East Bengal FC,1,0,H,0,0,D
+IND,28/03/2015,13:30,Sporting Goa,Shillong Lajong FC,1,1,D,1,1,D
+IND,29/03/2015,12:00,Royal Wahingdoh,Pune FC,2,0,H,1,0,H
+IND,03/04/2015,12:00,Mohun Bagan,Salgaocar FC,3,1,H,0,0,D
+IND,03/04/2015,14:30,Bengaluru FC,Royal Wahingdoh,3,3,D,1,2,A
+IND,03/04/2015,14:30,Mumbai FC,Shillong Lajong FC,0,6,A,0,2,A
+IND,04/04/2015,12:00,Sporting Goa,Dempo SC,2,2,D,1,1,D
+IND,04/04/2015,14:30,Pune FC,Bharat FC,1,1,D,1,1,D
+IND,07/04/2015,12:00,Sporting Goa,Royal Wahingdoh,0,0,D,0,0,D
+IND,07/04/2015,14:30,Pune FC,Salgaocar FC,1,0,H,0,0,D
+IND,07/04/2015,14:30,Bengaluru FC,Mumbai FC,1,1,D,0,0,D
+IND,08/04/2015,12:00,Mohun Bagan,Shillong Lajong FC,0,0,D,0,0,D
+IND,08/04/2015,14:30,Bharat FC,East Bengal FC,0,3,A,0,2,A
+IND,31/03/2015,14:30,Bengaluru FC,Sporting Goa,4,1,H,1,0,H
+IND,11/04/2015,12:00,Mumbai FC,Dempo SC,0,1,A,0,0,D
+IND,11/04/2015,12:00,Mohun Bagan,Bharat FC,2,0,H,0,0,D
+IND,11/04/2015,14:30,Pune FC,East Bengal FC,2,3,A,1,1,D
+IND,12/04/2015,12:00,Royal Wahingdoh,Shillong Lajong FC,1,1,D,0,1,A
+IND,18/04/2015,12:00,East Bengal FC,Mumbai FC,1,1,D,0,1,A
+IND,18/04/2015,14:30,Royal Wahingdoh,Mohun Bagan,3,2,H,0,1,A
+IND,18/04/2015,14:30,Dempo SC,Pune FC,1,2,A,0,1,A
+IND,19/04/2015,14:30,Salgaocar FC,Sporting Goa,0,2,A,0,1,A
+IND,08/05/2015,14:30,Shillong Lajong FC,Bengaluru FC,1,1,D,NaN,NaN,NaN
+IND,19/04/2015,14:30,Bharat FC,Shillong Lajong FC,1,1,D,1,0,H
+IND,21/04/2015,14:30,Pune FC,Bengaluru FC,0,2,A,0,2,A
+IND,22/04/2015,12:00,East Bengal FC,Salgaocar FC,1,0,H,0,0,D
+IND,22/04/2015,12:00,Sporting Goa,Mumbai FC,1,1,D,1,0,H
+IND,22/04/2015,14:30,Dempo SC,Royal Wahingdoh,3,2,H,1,1,D
+IND,24/04/2015,14:30,Bharat FC,Bengaluru FC,0,2,A,0,1,A
+IND,25/04/2015,12:00,Shillong Lajong FC,Salgaocar FC,1,3,A,0,3,A
+IND,25/04/2015,12:00,East Bengal FC,Dempo SC,3,1,H,2,0,H
+IND,25/04/2015,14:30,Pune FC,Mohun Bagan,0,2,A,0,1,A
+IND,26/04/2015,12:00,Royal Wahingdoh,Mumbai FC,1,1,D,0,1,A
+IND,02/05/2015,12:00,Shillong Lajong FC,Dempo SC,3,0,H,2,0,H
+IND,02/05/2015,12:00,Sporting Goa,Bharat FC,2,0,H,1,0,H
+IND,02/05/2015,14:30,Mumbai FC,Mohun Bagan,1,1,D,0,0,D
+IND,03/05/2015,12:00,Royal Wahingdoh,Salgaocar FC,4,2,H,1,0,H
+IND,03/05/2015,14:30,Bengaluru FC,East Bengal FC,3,0,H,1,0,H
+IND,23/05/2015,12:00,Mohun Bagan,Sporting Goa,2,0,H,NaN,NaN,NaN
+IND,23/05/2015,14:30,Dempo SC,Bengaluru FC,1,1,D,NaN,NaN,NaN
+IND,24/05/2015,12:00,Shillong Lajong FC,Pune FC,0,1,A,NaN,NaN,NaN
+IND,24/05/2015,12:00,East Bengal FC,Royal Wahingdoh,2,0,H,NaN,NaN,NaN
+IND,24/05/2015,12:00,Salgaocar FC,Bharat FC,5,1,H,NaN,NaN,NaN
+IND,30/05/2015,12:00,Shillong Lajong FC,East Bengal FC,5,1,H,NaN,NaN,NaN
+IND,30/05/2015,12:00,Salgaocar FC,Dempo SC,2,0,H,NaN,NaN,NaN
+IND,30/05/2015,12:00,Sporting Goa,Pune FC,4,0,H,NaN,NaN,NaN
+IND,30/05/2015,12:00,Mumbai FC,Bharat FC,2,1,H,NaN,NaN,NaN
+IND,31/05/2015,14:30,Bengaluru FC,Mohun Bagan,1,1,D,NaN,NaN,NaN

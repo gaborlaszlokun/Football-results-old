@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,02/03/1991,16:30,Urania Genéve Sport,BSC Old Boys,2,0,H,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Aarau,SC Zug,2,0,H,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Locarno,FC La Chaux-de-Fonds,1,1,D,NaN,NaN,NaN
+SUI,03/03/1991,13:30,FC Schaffhausen,FC Zürich,0,0,D,NaN,NaN,NaN
+SUI,10/03/1991,13:30,FC La Chaux-de-Fonds,Urania Genéve Sport,6,0,H,NaN,NaN,NaN
+SUI,10/03/1991,13:30,BSC Old Boys,FC Aarau,2,6,A,NaN,NaN,NaN
+SUI,10/03/1991,13:30,SC Zug,FC Schaffhausen,1,2,A,NaN,NaN,NaN
+SUI,10/03/1991,13:30,FC Zürich,FC Locarno,3,1,H,NaN,NaN,NaN
+SUI,16/03/1991,16:30,Urania Genéve Sport,FC Zürich,0,2,A,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Aarau,FC La Chaux-de-Fonds,3,1,H,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Locarno,SC Zug,3,0,H,NaN,NaN,NaN
+SUI,17/03/1991,13:30,FC Schaffhausen,BSC Old Boys,3,0,H,NaN,NaN,NaN
+SUI,27/03/1991,19:00,FC La Chaux-de-Fonds,FC Schaffhausen,2,3,A,NaN,NaN,NaN
+SUI,27/03/1991,19:00,BSC Old Boys,FC Locarno,0,4,A,NaN,NaN,NaN
+SUI,27/03/1991,19:00,SC Zug,Urania Genéve Sport,0,0,D,NaN,NaN,NaN
+SUI,27/03/1991,19:00,FC Zürich,FC Aarau,0,0,D,NaN,NaN,NaN
+SUI,06/04/1991,16:30,FC Aarau,FC Schaffhausen,2,1,H,NaN,NaN,NaN
+SUI,06/04/1991,19:00,FC Locarno,Urania Genéve Sport,1,1,D,NaN,NaN,NaN
+SUI,06/04/1991,19:00,BSC Old Boys,FC La Chaux-de-Fonds,2,3,A,NaN,NaN,NaN
+SUI,06/04/1991,19:00,FC Zürich,SC Zug,4,0,H,NaN,NaN,NaN
+SUI,13/04/1991,16:30,FC La Chaux-de-Fonds,FC Zürich,0,4,A,NaN,NaN,NaN
+SUI,13/04/1991,16:30,Urania Genéve Sport,FC Aarau,1,1,D,NaN,NaN,NaN
+SUI,13/04/1991,16:30,SC Zug,BSC Old Boys,2,0,H,NaN,NaN,NaN
+SUI,13/04/1991,19:00,FC Schaffhausen,FC Locarno,1,0,H,NaN,NaN,NaN
+SUI,20/04/1991,16:30,FC Aarau,FC Locarno,1,2,A,NaN,NaN,NaN
+SUI,20/04/1991,19:00,BSC Old Boys,FC Zürich,2,2,D,NaN,NaN,NaN
+SUI,20/04/1991,19:00,FC Schaffhausen,Urania Genéve Sport,4,1,H,NaN,NaN,NaN
+SUI,27/04/1991,16:30,FC La Chaux-de-Fonds,SC Zug,5,2,H,NaN,NaN,NaN
+SUI,04/05/1991,16:30,Urania Genéve Sport,FC Schaffhausen,1,1,D,NaN,NaN,NaN
+SUI,04/05/1991,16:30,SC Zug,FC La Chaux-de-Fonds,2,3,A,NaN,NaN,NaN
+SUI,04/05/1991,19:00,FC Locarno,FC Aarau,0,0,D,NaN,NaN,NaN
+SUI,04/05/1991,19:00,FC Zürich,BSC Old Boys,0,0,D,NaN,NaN,NaN
+SUI,11/05/1991,16:30,FC Aarau,Urania Genéve Sport,2,2,D,NaN,NaN,NaN
+SUI,11/05/1991,19:00,FC Zürich,FC La Chaux-de-Fonds,2,1,H,NaN,NaN,NaN
+SUI,11/05/1991,19:00,FC Locarno,FC Schaffhausen,1,0,H,NaN,NaN,NaN
+SUI,11/05/1991,19:00,BSC Old Boys,SC Zug,0,3,A,NaN,NaN,NaN
+SUI,17/05/1991,19:00,SC Zug,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,18/05/1991,16:30,Urania Genéve Sport,FC Locarno,1,1,D,NaN,NaN,NaN
+SUI,18/05/1991,16:30,FC La Chaux-de-Fonds,BSC Old Boys,0,3,A,NaN,NaN,NaN
+SUI,18/05/1991,19:00,FC Schaffhausen,FC Aarau,0,1,A,NaN,NaN,NaN
+SUI,25/05/1991,16:30,Urania Genéve Sport,SC Zug,1,1,D,NaN,NaN,NaN
+SUI,25/05/1991,16:30,FC Aarau,FC Zürich,2,2,D,NaN,NaN,NaN
+SUI,25/05/1991,19:00,FC Schaffhausen,FC La Chaux-de-Fonds,1,0,H,NaN,NaN,NaN
+SUI,25/05/1991,19:00,FC Locarno,BSC Old Boys,1,0,H,NaN,NaN,NaN
+SUI,01/06/1991,16:30,SC Zug,FC Locarno,0,2,A,NaN,NaN,NaN
+SUI,01/06/1991,19:00,FC La Chaux-de-Fonds,FC Aarau,0,0,D,NaN,NaN,NaN
+SUI,01/06/1991,19:00,BSC Old Boys,FC Schaffhausen,0,1,A,NaN,NaN,NaN
+SUI,01/06/1991,19:00,FC Zürich,Urania Genéve Sport,6,3,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,Urania Genéve Sport,FC La Chaux-de-Fonds,2,0,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Aarau,BSC Old Boys,4,0,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Schaffhausen,SC Zug,2,1,H,NaN,NaN,NaN
+SUI,08/06/1991,19:00,FC Locarno,FC Zürich,0,0,D,NaN,NaN,NaN
+SUI,12/06/1991,19:00,BSC Old Boys,Urania Genéve Sport,2,1,H,NaN,NaN,NaN
+SUI,12/06/1991,19:00,SC Zug,FC Aarau,1,4,A,NaN,NaN,NaN
+SUI,12/06/1991,19:00,FC La Chaux-de-Fonds,FC Locarno,5,1,H,NaN,NaN,NaN
+SUI,12/06/1991,19:00,FC Zürich,FC Schaffhausen,2,0,H,NaN,NaN,NaN

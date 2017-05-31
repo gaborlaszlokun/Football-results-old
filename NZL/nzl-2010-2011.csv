@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NZL,06/11/2010,23:30,Otago United,Waikato FC,0,1,A,0,1,A
+NZL,07/11/2010,01:00,Team Wellington,Canterbury United,2,4,A,1,2,A
+NZL,07/11/2010,01:00,YoungHeart Manawatu,Hawke’s Bay United FC,0,1,A,0,0,D
+NZL,07/11/2010,02:00,Auckland City FC,Waitakere United,1,3,A,1,2,A
+NZL,16/10/2010,03:00,Waikato FC,Auckland City FC,2,3,A,2,1,H
+NZL,17/10/2010,03:00,Waitakere United,Team Wellington,2,0,H,1,0,H
+NZL,14/11/2010,01:00,Canterbury United,YoungHeart Manawatu,1,0,H,1,0,H
+NZL,14/11/2010,01:00,Hawke’s Bay United FC,Otago United,3,2,H,1,1,D
+NZL,21/11/2010,01:00,Team Wellington,Waikato FC,3,1,H,0,1,A
+NZL,21/11/2010,01:00,Canterbury United,Hawke’s Bay United FC,0,0,D,0,0,D
+NZL,21/11/2010,01:00,YoungHeart Manawatu,Waitakere United,0,4,A,0,2,A
+NZL,21/11/2010,02:00,Auckland City FC,Otago United,0,0,D,0,0,D
+NZL,27/11/2010,01:00,Waikato FC,YoungHeart Manawatu,3,0,H,1,0,H
+NZL,27/11/2010,01:00,Waitakere United,Canterbury United,2,1,H,1,0,H
+NZL,28/11/2010,00:30,Otago United,Team Wellington,0,3,A,0,3,A
+NZL,28/11/2010,01:00,Hawke’s Bay United FC,Auckland City FC,2,2,D,0,2,A
+NZL,30/10/2010,02:00,Team Wellington,Auckland City FC,0,0,D,0,0,D
+NZL,31/10/2010,01:00,Hawke’s Bay United FC,Waitakere United,1,3,A,0,2,A
+NZL,04/12/2010,23:00,YoungHeart Manawatu,Otago United,1,2,A,0,1,A
+NZL,05/12/2010,01:00,Canterbury United,Waikato FC,2,2,D,1,1,D
+NZL,11/12/2010,01:00,Auckland City FC,YoungHeart Manawatu,3,1,H,3,0,H
+NZL,11/12/2010,02:00,Waikato FC,Waitakere United,1,3,A,1,2,A
+NZL,12/12/2010,00:00,Hawke’s Bay United FC,Team Wellington,2,3,A,2,0,H
+NZL,12/12/2010,01:00,Otago United,Canterbury United,2,1,H,0,1,A
+NZL,18/12/2010,01:30,Auckland City FC,Hawke’s Bay United FC,5,0,H,1,0,H
+NZL,19/12/2010,01:00,YoungHeart Manawatu,Waikato FC,5,2,H,2,1,H
+NZL,19/12/2010,02:00,Canterbury United,Waitakere United,0,2,A,0,2,A
+NZL,19/12/2010,02:00,Team Wellington,Otago United,5,0,H,2,0,H
+NZL,08/01/2011,02:00,Waikato FC,Hawke’s Bay United FC,1,0,H,0,0,D
+NZL,08/01/2011,03:00,Waitakere United,Otago United,3,1,H,1,1,D
+NZL,09/01/2011,01:00,Canterbury United,Auckland City FC,1,2,A,1,2,A
+NZL,09/01/2011,01:00,YoungHeart Manawatu,Team Wellington,2,3,A,0,2,A
+NZL,15/01/2011,02:00,Waikato FC,Otago United,2,2,D,1,0,H
+NZL,16/01/2011,01:00,Canterbury United,Team Wellington,1,2,A,0,1,A
+NZL,16/01/2011,01:00,Hawke’s Bay United FC,YoungHeart Manawatu,2,1,H,1,0,H
+NZL,16/01/2011,03:00,Waitakere United,Auckland City FC,0,1,A,0,0,D
+NZL,22/01/2011,02:00,Auckland City FC,Waikato FC,5,1,H,1,0,H
+NZL,22/01/2011,02:30,Team Wellington,Waitakere United,1,2,A,0,1,A
+NZL,22/01/2011,23:00,YoungHeart Manawatu,Canterbury United,2,3,A,0,2,A
+NZL,22/01/2011,23:00,Otago United,Hawke’s Bay United FC,0,0,D,0,0,D
+NZL,28/01/2011,23:30,Waikato FC,Team Wellington,2,3,A,2,1,H
+NZL,29/01/2011,01:00,Waitakere United,YoungHeart Manawatu,6,1,H,2,1,H
+NZL,30/01/2011,01:00,Hawke’s Bay United FC,Canterbury United,1,2,A,1,2,A
+NZL,30/01/2011,01:00,Otago United,Auckland City FC,0,3,A,0,0,D
+NZL,11/02/2011,23:30,Waikato FC,Canterbury United,1,0,H,1,0,H
+NZL,12/02/2011,01:00,Waitakere United,Hawke’s Bay United FC,1,2,A,0,0,D
+NZL,12/02/2011,23:00,Otago United,YoungHeart Manawatu,4,3,H,2,1,H
+NZL,13/02/2011,01:00,Auckland City FC,Team Wellington,2,0,H,1,0,H
+NZL,19/02/2011,01:00,Waitakere United,Waikato FC,6,1,H,2,0,H
+NZL,20/02/2011,01:00,Canterbury United,Otago United,3,1,H,1,0,H
+NZL,20/02/2011,02:00,Team Wellington,Hawke’s Bay United FC,1,3,A,0,0,D
+NZL,02/03/2011,05:00,YoungHeart Manawatu,Auckland City FC,1,2,A,1,1,D
+NZL,06/03/2011,01:00,Otago United,Waitakere United,1,2,A,0,2,A
+NZL,06/03/2011,01:00,Hawke’s Bay United FC,Waikato FC,1,1,D,1,1,D
+NZL,06/03/2011,03:00,Team Wellington,YoungHeart Manawatu,2,2,D,2,0,H
+NZL,10/03/2011,04:30,Auckland City FC,Canterbury United,0,1,A,0,0,D

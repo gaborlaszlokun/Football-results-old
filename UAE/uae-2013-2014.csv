@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+UAE,14/09/2013,14:40,Al Wasl,Sharjah FC,0,1,A,0,0,D
+UAE,14/09/2013,14:50,Al Dhafra,Emirates Club,1,3,A,1,0,H
+UAE,14/09/2013,17:30,Al Wahda,Al Nasr SC,3,2,H,2,1,H
+UAE,14/09/2013,17:30,Dubai Club,Al Ahli,0,1,A,0,0,D
+UAE,15/09/2013,14:35,Al Sha'ab,Al Jazira Club,1,2,A,1,0,H
+UAE,15/09/2013,17:30,Ajman Club,Baniyas SC,3,4,A,0,2,A
+UAE,15/09/2013,17:30,Al Shabab Al Arabi,Al Ain FC,3,1,H,1,1,D
+UAE,20/09/2013,14:30,Al Ain FC,Ajman Club,2,1,H,2,0,H
+UAE,20/09/2013,14:30,Emirates Club,Dubai Club,2,3,A,1,2,A
+UAE,20/09/2013,17:30,Al Ahli,Al Wahda,2,1,H,1,1,D
+UAE,20/09/2013,17:30,Baniyas SC,Al Dhafra,0,0,D,0,0,D
+UAE,21/09/2013,14:30,Sharjah FC,Al Shabab Al Arabi,1,2,A,0,0,D
+UAE,21/09/2013,17:30,Al Jazira Club,Al Wasl,2,3,A,1,2,A
+UAE,21/09/2013,17:30,Al Nasr SC,Al Sha'ab,2,1,H,0,0,D
+UAE,26/09/2013,14:25,Al Shabab Al Arabi,Al Jazira Club,2,4,A,1,1,D
+UAE,26/09/2013,17:30,Al Nasr SC,Al Ahli,0,2,A,0,0,D
+UAE,26/09/2013,17:30,Ajman Club,Sharjah FC,1,2,A,0,1,A
+UAE,27/09/2013,14:25,Dubai Club,Baniyas SC,1,4,A,0,2,A
+UAE,27/09/2013,14:35,Al Dhafra,Al Ain FC,4,3,H,0,1,A
+UAE,27/09/2013,17:30,Al Wahda,Emirates Club,4,0,H,3,0,H
+UAE,27/09/2013,17:30,Al Sha'ab,Al Wasl,1,4,A,0,1,A
+UAE,19/10/2013,14:00,Al Wasl,Al Shabab Al Arabi,1,3,A,NaN,NaN,NaN
+UAE,19/10/2013,17:30,Emirates Club,Al Nasr SC,0,3,A,NaN,NaN,NaN
+UAE,19/10/2013,17:30,Al Jazira Club,Ajman Club,0,0,D,NaN,NaN,NaN
+UAE,20/10/2013,14:00,Sharjah FC,Al Dhafra,0,3,A,NaN,NaN,NaN
+UAE,20/10/2013,14:00,Al Ain FC,Dubai Club,5,2,H,NaN,NaN,NaN
+UAE,20/10/2013,14:00,Al Ahli,Al Sha'ab,1,0,H,NaN,NaN,NaN
+UAE,20/10/2013,14:05,Baniyas SC,Al Wahda,1,1,D,NaN,NaN,NaN
+UAE,25/10/2013,14:00,Ajman Club,Al Wasl,4,2,H,NaN,NaN,NaN
+UAE,25/10/2013,14:10,Al Dhafra,Al Jazira Club,1,1,D,NaN,NaN,NaN
+UAE,25/10/2013,17:30,Al Wahda,Al Ain FC,1,1,D,NaN,NaN,NaN
+UAE,25/10/2013,17:30,Dubai Club,Sharjah FC,1,2,A,NaN,NaN,NaN
+UAE,26/10/2013,14:00,Al Ahli,Emirates Club,4,2,H,NaN,NaN,NaN
+UAE,26/10/2013,17:30,Al Nasr SC,Baniyas SC,4,3,H,NaN,NaN,NaN
+UAE,26/10/2013,17:30,Al Sha'ab,Al Shabab Al Arabi,2,1,H,NaN,NaN,NaN
+UAE,30/10/2013,13:00,Al Jazira Club,Dubai Club,2,2,D,NaN,NaN,NaN
+UAE,30/10/2013,16:30,Sharjah FC,Al Wahda,2,1,H,NaN,NaN,NaN
+UAE,30/10/2013,16:30,Baniyas SC,Al Ahli,2,3,A,NaN,NaN,NaN
+UAE,31/10/2013,12:50,Emirates Club,Al Sha'ab,5,2,H,NaN,NaN,NaN
+UAE,31/10/2013,12:55,Al Wasl,Al Dhafra,2,1,H,NaN,NaN,NaN
+UAE,31/10/2013,16:30,Al Ain FC,Al Nasr SC,3,2,H,NaN,NaN,NaN
+UAE,31/10/2013,16:30,Al Shabab Al Arabi,Ajman Club,3,1,H,NaN,NaN,NaN
+UAE,23/11/2013,12:45,Al Nasr SC,Sharjah FC,0,0,D,NaN,NaN,NaN
+UAE,23/11/2013,12:55,Al Dhafra,Al Shabab Al Arabi,2,6,A,NaN,NaN,NaN
+UAE,23/11/2013,16:00,Al Wahda,Al Jazira Club,3,4,A,NaN,NaN,NaN
+UAE,23/11/2013,16:00,Dubai Club,Al Wasl,1,3,A,NaN,NaN,NaN
+UAE,24/11/2013,12:40,Emirates Club,Baniyas SC,2,3,A,NaN,NaN,NaN
+UAE,24/11/2013,16:00,Al Ahli,Al Ain FC,1,0,H,NaN,NaN,NaN
+UAE,24/11/2013,16:00,Al Sha'ab,Ajman Club,4,4,D,NaN,NaN,NaN
+UAE,28/11/2013,12:45,Al Wasl,Al Wahda,3,3,D,NaN,NaN,NaN
+UAE,28/11/2013,16:00,Al Jazira Club,Al Nasr SC,1,2,A,NaN,NaN,NaN
+UAE,28/11/2013,16:00,Al Shabab Al Arabi,Dubai Club,3,0,H,NaN,NaN,NaN
+UAE,29/11/2013,12:45,Al Ain FC,Emirates Club,5,2,H,NaN,NaN,NaN
+UAE,29/11/2013,12:45,Ajman Club,Al Dhafra,0,0,D,NaN,NaN,NaN
+UAE,29/11/2013,16:00,Sharjah FC,Al Ahli,1,1,D,NaN,NaN,NaN
+UAE,29/11/2013,16:00,Baniyas SC,Al Sha'ab,4,0,H,NaN,NaN,NaN
+UAE,04/12/2013,12:50,Al Wahda,Al Shabab Al Arabi,1,1,D,NaN,NaN,NaN
+UAE,04/12/2013,16:00,Al Nasr SC,Al Wasl,6,1,H,NaN,NaN,NaN
+UAE,04/12/2013,16:00,Dubai Club,Ajman Club,2,1,H,NaN,NaN,NaN
+UAE,05/12/2013,12:45,Al Sha'ab,Al Dhafra,1,2,A,NaN,NaN,NaN
+UAE,05/12/2013,12:50,Baniyas SC,Al Ain FC,1,1,D,NaN,NaN,NaN
+UAE,05/12/2013,16:00,Emirates Club,Sharjah FC,0,0,D,NaN,NaN,NaN
+UAE,05/12/2013,16:00,Al Ahli,Al Jazira Club,2,2,D,NaN,NaN,NaN
+UAE,14/12/2013,12:50,Al Jazira Club,Emirates Club,1,0,H,NaN,NaN,NaN
+UAE,14/12/2013,12:55,Al Dhafra,Dubai Club,3,2,H,NaN,NaN,NaN
+UAE,14/12/2013,16:00,Ajman Club,Al Wahda,2,2,D,NaN,NaN,NaN
+UAE,14/12/2013,16:00,Al Shabab Al Arabi,Al Nasr SC,2,0,H,NaN,NaN,NaN
+UAE,15/12/2013,12:45,Al Ain FC,Al Sha'ab,5,2,H,NaN,NaN,NaN
+UAE,15/12/2013,16:00,Al Wasl,Al Ahli,2,1,H,NaN,NaN,NaN
+UAE,15/12/2013,16:00,Sharjah FC,Baniyas SC,1,0,H,NaN,NaN,NaN
+UAE,19/12/2013,12:50,Al Wahda,Al Dhafra,1,0,H,NaN,NaN,NaN
+UAE,19/12/2013,16:00,Baniyas SC,Al Jazira Club,1,2,A,NaN,NaN,NaN
+UAE,19/12/2013,16:00,Al Nasr SC,Ajman Club,2,1,H,NaN,NaN,NaN
+UAE,20/12/2013,12:45,Al Ain FC,Sharjah FC,1,1,D,NaN,NaN,NaN
+UAE,20/12/2013,12:45,Emirates Club,Al Wasl,2,1,H,NaN,NaN,NaN
+UAE,20/12/2013,16:00,Al Ahli,Al Shabab Al Arabi,2,0,H,NaN,NaN,NaN
+UAE,20/12/2013,16:00,Al Sha'ab,Dubai Club,2,1,H,NaN,NaN,NaN
+UAE,26/12/2013,12:50,Ajman Club,Al Ahli,1,2,A,NaN,NaN,NaN
+UAE,26/12/2013,16:00,Dubai Club,Al Wahda,1,1,D,NaN,NaN,NaN
+UAE,26/12/2013,16:00,Sharjah FC,Al Sha'ab,1,0,H,NaN,NaN,NaN
+UAE,27/12/2013,12:50,Al Wasl,Baniyas SC,1,1,D,NaN,NaN,NaN
+UAE,27/12/2013,13:00,Al Dhafra,Al Nasr SC,1,1,D,NaN,NaN,NaN
+UAE,27/12/2013,16:00,Al Shabab Al Arabi,Emirates Club,3,1,H,NaN,NaN,NaN
+UAE,27/12/2013,16:00,Al Jazira Club,Al Ain FC,2,1,H,NaN,NaN,NaN
+UAE,02/01/2014,13:00,Baniyas SC,Al Shabab Al Arabi,1,1,D,NaN,NaN,NaN
+UAE,02/01/2014,16:00,Sharjah FC,Al Jazira Club,1,1,D,NaN,NaN,NaN
+UAE,02/01/2014,16:00,Emirates Club,Ajman Club,1,1,D,NaN,NaN,NaN
+UAE,03/01/2014,12:55,Al Ahli,Al Dhafra,0,3,A,NaN,NaN,NaN
+UAE,03/01/2014,13:00,Al Wahda,Al Sha'ab,2,0,H,NaN,NaN,NaN
+UAE,03/01/2014,16:00,Al Ain FC,Al Wasl,3,0,H,NaN,NaN,NaN
+UAE,03/01/2014,16:00,Al Nasr SC,Dubai Club,5,1,H,NaN,NaN,NaN
+UAE,08/01/2014,12:55,Emirates Club,Al Dhafra,2,3,A,NaN,NaN,NaN
+UAE,08/01/2014,13:00,Al Ahli,Dubai Club,4,2,H,NaN,NaN,NaN
+UAE,08/01/2014,16:00,Al Nasr SC,Al Wahda,0,2,A,NaN,NaN,NaN
+UAE,08/01/2014,16:00,Al Jazira Club,Al Sha'ab,3,0,H,NaN,NaN,NaN
+UAE,09/01/2014,13:00,Sharjah FC,Al Wasl,2,0,H,NaN,NaN,NaN
+UAE,09/01/2014,13:05,Baniyas SC,Ajman Club,4,1,H,NaN,NaN,NaN
+UAE,09/01/2014,16:00,Al Ain FC,Al Shabab Al Arabi,0,0,D,NaN,NaN,NaN
+UAE,17/01/2014,13:05,Al Sha'ab,Al Nasr SC,2,0,H,NaN,NaN,NaN
+UAE,17/01/2014,13:15,Al Dhafra,Baniyas SC,0,0,D,NaN,NaN,NaN
+UAE,17/01/2014,16:00,Al Wahda,Al Ahli,0,0,D,NaN,NaN,NaN
+UAE,17/01/2014,16:00,Dubai Club,Emirates Club,1,1,D,NaN,NaN,NaN
+UAE,18/01/2014,13:05,Al Shabab Al Arabi,Sharjah FC,2,0,H,NaN,NaN,NaN
+UAE,18/01/2014,13:05,Ajman Club,Al Ain FC,0,0,D,NaN,NaN,NaN
+UAE,18/01/2014,16:00,Al Wasl,Al Jazira Club,1,2,A,NaN,NaN,NaN
+UAE,23/01/2014,13:05,Emirates Club,Al Wahda,2,1,H,NaN,NaN,NaN
+UAE,23/01/2014,13:15,Baniyas SC,Dubai Club,4,0,H,NaN,NaN,NaN
+UAE,23/01/2014,16:00,Al Ahli,Al Nasr SC,3,1,H,NaN,NaN,NaN
+UAE,24/01/2014,13:10,Al Ain FC,Al Dhafra,1,1,D,NaN,NaN,NaN
+UAE,24/01/2014,13:10,Sharjah FC,Ajman Club,2,1,H,NaN,NaN,NaN
+UAE,24/01/2014,16:00,Al Jazira Club,Al Shabab Al Arabi,1,0,H,NaN,NaN,NaN
+UAE,24/01/2014,16:00,Al Wasl,Al Sha'ab,1,0,H,NaN,NaN,NaN
+UAE,28/01/2014,14:55,Al Wahda,Baniyas SC,3,2,H,NaN,NaN,NaN
+UAE,06/02/2014,13:20,Dubai Club,Al Ain FC,0,3,A,NaN,NaN,NaN
+UAE,06/02/2014,13:30,Al Dhafra,Sharjah FC,2,2,D,NaN,NaN,NaN
+UAE,06/02/2014,16:15,Al Shabab Al Arabi,Al Wasl,1,0,H,NaN,NaN,NaN
+UAE,07/02/2014,13:20,Ajman Club,Al Jazira Club,1,0,H,NaN,NaN,NaN
+UAE,07/02/2014,16:15,Al Sha'ab,Al Ahli,1,3,A,NaN,NaN,NaN
+UAE,08/02/2014,14:55,Al Nasr SC,Emirates Club,0,0,D,NaN,NaN,NaN
+UAE,03/02/2014,14:55,Baniyas SC,Al Nasr SC,0,2,A,NaN,NaN,NaN
+UAE,13/02/2014,13:20,Emirates Club,Al Ahli,1,2,A,NaN,NaN,NaN
+UAE,13/02/2014,13:30,Al Jazira Club,Al Dhafra,2,2,D,NaN,NaN,NaN
+UAE,13/02/2014,16:15,Al Ain FC,Al Wahda,0,1,A,NaN,NaN,NaN
+UAE,14/02/2014,13:25,Sharjah FC,Dubai Club,3,0,H,NaN,NaN,NaN
+UAE,14/02/2014,13:25,Al Shabab Al Arabi,Al Sha'ab,1,0,H,NaN,NaN,NaN
+UAE,14/02/2014,16:15,Al Wasl,Ajman Club,0,1,A,NaN,NaN,NaN
+UAE,20/02/2014,13:30,Ajman Club,Al Shabab Al Arabi,0,1,A,NaN,NaN,NaN
+UAE,20/02/2014,13:30,Dubai Club,Al Jazira Club,0,2,A,NaN,NaN,NaN
+UAE,20/02/2014,16:15,Al Ahli,Baniyas SC,4,1,H,NaN,NaN,NaN
+UAE,21/02/2014,13:30,Al Nasr SC,Al Ain FC,1,0,H,NaN,NaN,NaN
+UAE,21/02/2014,13:40,Al Dhafra,Al Wasl,3,1,H,NaN,NaN,NaN
+UAE,21/02/2014,16:15,Al Wahda,Sharjah FC,1,1,D,NaN,NaN,NaN
+UAE,21/02/2014,16:15,Al Sha'ab,Emirates Club,3,3,D,NaN,NaN,NaN
+UAE,21/03/2014,13:45,Al Shabab Al Arabi,Al Dhafra,1,0,H,0,0,D
+UAE,21/03/2014,13:45,Ajman Club,Al Sha'ab,2,1,H,2,1,H
+UAE,21/03/2014,16:30,Sharjah FC,Al Nasr SC,0,0,D,0,0,D
+UAE,22/03/2014,13:45,Al Wasl,Dubai Club,0,0,D,0,0,D
+UAE,22/03/2014,16:30,Al Jazira Club,Al Wahda,4,4,D,3,0,H
+UAE,23/03/2014,13:50,Baniyas SC,Emirates Club,2,1,H,1,1,D
+UAE,23/03/2014,16:30,Al Ain FC,Al Ahli,2,3,A,0,1,A
+UAE,27/03/2014,13:45,Al Nasr SC,Al Jazira Club,0,0,D,0,0,D
+UAE,27/03/2014,13:45,Emirates Club,Al Ain FC,1,2,A,0,0,D
+UAE,27/03/2014,16:30,Al Ahli,Sharjah FC,2,1,H,0,0,D
+UAE,27/03/2014,16:30,Al Sha'ab,Baniyas SC,1,2,A,0,1,A
+UAE,28/03/2014,13:45,Dubai Club,Al Shabab Al Arabi,1,0,H,0,0,D
+UAE,28/03/2014,13:55,Al Dhafra,Ajman Club,2,4,A,2,1,H
+UAE,28/03/2014,16:30,Al Wahda,Al Wasl,3,1,H,1,0,H
+UAE,05/04/2014,14:50,Al Shabab Al Arabi,Al Wahda,1,2,A,0,0,D
+UAE,05/04/2014,15:00,Al Dhafra,Al Sha'ab,2,1,H,0,0,D
+UAE,05/04/2014,17:30,Al Wasl,Al Nasr SC,1,2,A,1,2,A
+UAE,05/04/2014,17:30,Ajman Club,Dubai Club,1,1,D,1,0,H
+UAE,06/04/2014,14:50,Al Ain FC,Baniyas SC,2,1,H,0,1,A
+UAE,06/04/2014,14:50,Sharjah FC,Emirates Club,0,0,D,0,0,D
+UAE,06/04/2014,17:30,Al Jazira Club,Al Ahli,1,3,A,0,2,A
+UAE,10/04/2014,14:50,Emirates Club,Al Jazira Club,3,2,H,1,1,D
+UAE,10/04/2014,14:55,Al Sha'ab,Al Ain FC,0,5,A,0,2,A
+UAE,10/04/2014,17:30,Al Ahli,Al Wasl,2,1,H,0,1,A
+UAE,11/04/2014,14:55,Dubai Club,Al Dhafra,1,5,A,1,3,A
+UAE,11/04/2014,15:00,Baniyas SC,Sharjah FC,1,3,A,0,2,A
+UAE,11/04/2014,17:30,Al Wahda,Ajman Club,4,1,H,2,0,H
+UAE,11/04/2014,17:30,Al Nasr SC,Al Shabab Al Arabi,2,1,H,1,1,D
+UAE,27/04/2014,16:30,Sharjah FC,Al Ain FC,1,3,A,1,0,H
+UAE,27/04/2014,16:30,Al Jazira Club,Baniyas SC,2,0,H,2,0,H
+UAE,27/04/2014,16:30,Al Wasl,Emirates Club,1,1,D,1,0,H
+UAE,27/04/2014,16:30,Al Shabab Al Arabi,Al Ahli,1,1,D,0,1,A
+UAE,27/04/2014,16:30,Ajman Club,Al Nasr SC,3,1,H,1,0,H
+UAE,27/04/2014,16:30,Al Dhafra,Al Wahda,1,3,A,1,1,D
+UAE,27/04/2014,16:30,Dubai Club,Al Sha'ab,1,1,D,1,0,H
+UAE,01/05/2014,15:00,Emirates Club,Al Shabab Al Arabi,3,2,H,1,0,H
+UAE,01/05/2014,15:05,Al Nasr SC,Al Dhafra,2,1,H,1,0,H
+UAE,01/05/2014,17:45,Al Ain FC,Al Jazira Club,2,2,D,2,0,H
+UAE,02/05/2014,15:05,Al Sha'ab,Sharjah FC,1,1,D,1,1,D
+UAE,02/05/2014,15:10,Baniyas SC,Al Wasl,0,2,A,0,1,A
+UAE,02/05/2014,17:45,Al Wahda,Dubai Club,2,0,H,1,0,H
+UAE,02/05/2014,17:45,Al Ahli,Ajman Club,2,1,H,1,1,D
+UAE,09/05/2014,15:05,Al Wasl,Al Ain FC,0,1,A,0,0,D
+UAE,09/05/2014,15:05,Al Shabab Al Arabi,Baniyas SC,1,1,D,0,0,D
+UAE,10/05/2014,15:05,Dubai Club,Al Nasr SC,0,3,A,0,1,A
+UAE,10/05/2014,17:45,Al Jazira Club,Sharjah FC,1,0,H,1,0,H
+UAE,11/05/2014,15:05,Ajman Club,Emirates Club,3,2,H,1,1,D
+UAE,11/05/2014,15:05,Al Sha'ab,Al Wahda,1,3,A,0,2,A
+UAE,11/05/2014,16:35,Al Dhafra,Al Ahli,1,5,A,0,3,A

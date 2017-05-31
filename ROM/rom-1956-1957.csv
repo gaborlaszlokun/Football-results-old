@@ -1,0 +1,157 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,18/03/1956,,Dinamo Orasul Stalin,CCA Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,18/03/1956,,Dinamo Bacau,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,18/03/1956,,Flacăra Ploiești,Locomotiva Timișoara,2,2,D,NaN,NaN,NaN
+ROM,18/03/1956,,Locomotiva Bucuresti,Minerul Petroșani,1,1,D,NaN,NaN,NaN
+ROM,18/03/1956,,FC Progresul Financial Banking,Ştiinţa Cluj,2,1,H,NaN,NaN,NaN
+ROM,18/03/1956,,CS Stiinta Timisoara,Progresul Oradea,1,0,H,NaN,NaN,NaN
+ROM,24/03/1956,,Dinamo Bucureşti,Dinamo Orasul Stalin,2,1,H,NaN,NaN,NaN
+ROM,25/03/1956,,CCA Bucureşti,Flacăra Ploiești,2,0,H,NaN,NaN,NaN
+ROM,25/03/1956,,Flamura Roşie UT Arad,Dinamo Bacau,1,0,H,NaN,NaN,NaN
+ROM,25/03/1956,,Locomotiva Timișoara,Locomotiva Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,25/03/1956,,Progresul Oradea,FC Progresul Financial Banking,2,1,H,NaN,NaN,NaN
+ROM,25/03/1956,,Ştiinţa Cluj,CS Stiinta Timisoara,2,0,H,NaN,NaN,NaN
+ROM,01/04/1956,,Dinamo Orasul Stalin,Dinamo Bacau,1,2,A,NaN,NaN,NaN
+ROM,01/04/1956,,Locomotiva Bucuresti,Progresul Oradea,4,1,H,NaN,NaN,NaN
+ROM,01/04/1956,,CS Stiinta Timisoara,Locomotiva Timișoara,1,1,D,NaN,NaN,NaN
+ROM,02/04/1956,,FC Progresul Financial Banking,Flamura Roşie UT Arad,1,2,A,NaN,NaN,NaN
+ROM,03/05/1956,,Ştiinţa Cluj,Dinamo Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,31/05/1956,,Minerul Petroșani,CCA Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,08/04/1956,,CCA Bucureşti,Locomotiva Bucuresti,1,1,D,NaN,NaN,NaN
+ROM,08/04/1956,,FC Progresul Financial Banking,Dinamo Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,08/04/1956,,Progresul Oradea,Flacăra Ploiești,1,0,H,NaN,NaN,NaN
+ROM,08/04/1956,,Locomotiva Timișoara,Flamura Roşie UT Arad,1,1,D,NaN,NaN,NaN
+ROM,08/04/1956,,Dinamo Bacau,Minerul Petroșani,1,1,D,NaN,NaN,NaN
+ROM,08/04/1956,,CS Stiinta Timisoara,Dinamo Orasul Stalin,1,2,A,NaN,NaN,NaN
+ROM,11/04/1956,,Dinamo Bucureşti,CCA Bucureşti,0,4,A,NaN,NaN,NaN
+ROM,11/04/1956,,Flacăra Ploiești,Dinamo Bacau,3,0,H,NaN,NaN,NaN
+ROM,11/04/1956,,Dinamo Orasul Stalin,Flamura Roşie UT Arad,0,0,D,NaN,NaN,NaN
+ROM,11/04/1956,,Locomotiva Timișoara,Ştiinţa Cluj,0,0,D,NaN,NaN,NaN
+ROM,11/04/1956,,Minerul Petroșani,CS Stiinta Timisoara,2,1,H,NaN,NaN,NaN
+ROM,11/04/1956,,FC Progresul Financial Banking,Locomotiva Bucuresti,3,1,H,NaN,NaN,NaN
+ROM,29/04/1956,,CCA Bucureşti,Ştiinţa Cluj,3,0,H,NaN,NaN,NaN
+ROM,29/04/1956,,Dinamo Bucureşti,Minerul Petroșani,0,0,D,NaN,NaN,NaN
+ROM,29/04/1956,,Dinamo Orasul Stalin,Locomotiva Timișoara,0,1,A,NaN,NaN,NaN
+ROM,29/04/1956,,Flacăra Ploiești,Locomotiva Bucuresti,1,1,D,NaN,NaN,NaN
+ROM,29/04/1956,,Flamura Roşie UT Arad,Progresul Oradea,2,0,H,NaN,NaN,NaN
+ROM,29/04/1956,,CS Stiinta Timisoara,FC Progresul Financial Banking,3,0,H,NaN,NaN,NaN
+ROM,06/05/1956,,Dinamo Bacau,CCA Bucureşti,0,8,A,NaN,NaN,NaN
+ROM,06/05/1956,,Progresul Oradea,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,06/05/1956,,Minerul Petroșani,Dinamo Orasul Stalin,1,2,A,NaN,NaN,NaN
+ROM,06/05/1956,,Ştiinţa Cluj,Flamura Roşie UT Arad,0,4,A,NaN,NaN,NaN
+ROM,07/05/1956,,FC Progresul Financial Banking,Flacăra Ploiești,0,2,A,NaN,NaN,NaN
+ROM,24/05/1956,,Locomotiva Bucuresti,CS Stiinta Timisoara,4,0,H,NaN,NaN,NaN
+ROM,13/05/1956,,CCA Bucureşti,FC Progresul Financial Banking,1,1,D,NaN,NaN,NaN
+ROM,13/05/1956,,Locomotiva Bucuresti,Dinamo Bucureşti,2,3,A,NaN,NaN,NaN
+ROM,13/05/1956,,Ştiinţa Cluj,Dinamo Orasul Stalin,2,0,H,NaN,NaN,NaN
+ROM,13/05/1956,,Flamura Roşie UT Arad,Flacăra Ploiești,1,1,D,NaN,NaN,NaN
+ROM,13/05/1956,,Locomotiva Timișoara,Minerul Petroșani,1,2,A,NaN,NaN,NaN
+ROM,13/05/1956,,Dinamo Bacau,Progresul Oradea,4,2,H,NaN,NaN,NaN
+ROM,20/05/1956,,CCA Bucureşti,Flamura Roşie UT Arad,5,1,H,NaN,NaN,NaN
+ROM,20/05/1956,,Flacăra Ploiești,Ştiinţa Cluj,1,1,D,NaN,NaN,NaN
+ROM,20/05/1956,,Minerul Petroșani,Progresul Oradea,4,0,H,NaN,NaN,NaN
+ROM,20/05/1956,,Dinamo Orasul Stalin,FC Progresul Financial Banking,3,0,H,NaN,NaN,NaN
+ROM,20/05/1956,,CS Stiinta Timisoara,Dinamo Bacau,3,1,H,NaN,NaN,NaN
+ROM,23/05/1956,,Dinamo Bucureşti,Locomotiva Timișoara,1,0,H,NaN,NaN,NaN
+ROM,27/05/1956,,Progresul Oradea,CCA Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,27/05/1956,,Flacăra Ploiești,CS Stiinta Timisoara,1,1,D,NaN,NaN,NaN
+ROM,27/05/1956,,Locomotiva Timișoara,FC Progresul Financial Banking,0,0,D,NaN,NaN,NaN
+ROM,27/05/1956,,Minerul Petroșani,Flamura Roşie UT Arad,1,0,H,NaN,NaN,NaN
+ROM,27/05/1956,,Ştiinţa Cluj,Dinamo Bacau,1,0,H,NaN,NaN,NaN
+ROM,27/05/1956,,Locomotiva Bucuresti,Dinamo Orasul Stalin,5,1,H,NaN,NaN,NaN
+ROM,03/06/1956,,CS Stiinta Timisoara,Dinamo Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,03/06/1956,,Dinamo Orasul Stalin,Flacăra Ploiești,1,1,D,NaN,NaN,NaN
+ROM,03/06/1956,,Flamura Roşie UT Arad,Locomotiva Bucuresti,3,2,H,NaN,NaN,NaN
+ROM,03/06/1956,,Dinamo Bacau,Locomotiva Timișoara,0,0,D,NaN,NaN,NaN
+ROM,03/06/1956,,FC Progresul Financial Banking,Minerul Petroșani,5,1,H,NaN,NaN,NaN
+ROM,03/06/1956,,Progresul Oradea,Ştiinţa Cluj,0,0,D,NaN,NaN,NaN
+ROM,07/06/1956,,CCA Bucureşti,CS Stiinta Timisoara,1,2,A,NaN,NaN,NaN
+ROM,07/06/1956,,Dinamo Bucureşti,Flamura Roşie UT Arad,3,2,H,NaN,NaN,NaN
+ROM,07/06/1956,,Flacăra Ploiești,Minerul Petroșani,3,1,H,NaN,NaN,NaN
+ROM,07/06/1956,,Ştiinţa Cluj,Locomotiva Bucuresti,1,3,A,NaN,NaN,NaN
+ROM,07/06/1956,,Locomotiva Timișoara,Progresul Oradea,1,1,D,NaN,NaN,NaN
+ROM,07/06/1956,,Dinamo Bacau,FC Progresul Financial Banking,2,1,H,NaN,NaN,NaN
+ROM,21/06/1956,,Dinamo Bucureşti,Flacăra Ploiești,2,1,H,NaN,NaN,NaN
+ROM,21/06/1956,,Minerul Petroșani,Ştiinţa Cluj,3,1,H,NaN,NaN,NaN
+ROM,01/07/1956,,Progresul Oradea,Dinamo Orasul Stalin,2,6,A,NaN,NaN,NaN
+ROM,01/07/1956,,Locomotiva Bucuresti,Dinamo Bacau,1,1,D,NaN,NaN,NaN
+ROM,01/07/1956,,Flamura Roşie UT Arad,CS Stiinta Timisoara,1,2,A,NaN,NaN,NaN
+ROM,05/08/1956,,CFR Timisoara,CCA Bucureşti,4,3,H,NaN,NaN,NaN
+ROM,12/08/1956,,CCA Bucureşti,Dinamo Orasul Stalin,3,1,H,NaN,NaN,NaN
+ROM,12/08/1956,,Dinamo Bucureşti,Dinamo Bacau,2,1,H,NaN,NaN,NaN
+ROM,12/08/1956,,CFR Timisoara,Energia Ploiești,1,4,A,NaN,NaN,NaN
+ROM,12/08/1956,,Ştiinţa Cluj,FC Progresul Financial Banking,1,2,A,NaN,NaN,NaN
+ROM,12/08/1956,,Progresul Oradea,CS Stiinta Timisoara,1,5,A,NaN,NaN,NaN
+ROM,11/10/1956,,Energia Petroșani,Locomotiva Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,19/08/1956,,Energia Ploiești,CCA Bucureşti,3,0,H,NaN,NaN,NaN
+ROM,19/08/1956,,Dinamo Bacau,Flamura Roşie UT Arad,0,2,A,NaN,NaN,NaN
+ROM,19/08/1956,,Locomotiva Bucuresti,CFR Timisoara,5,0,H,NaN,NaN,NaN
+ROM,19/08/1956,,FC Progresul Financial Banking,Progresul Oradea,0,1,A,NaN,NaN,NaN
+ROM,19/08/1956,,CS Stiinta Timisoara,Ştiinţa Cluj,3,0,H,NaN,NaN,NaN
+ROM,11/10/1956,,Dinamo Orasul Stalin,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,24/08/1956,,CFR Timisoara,CS Stiinta Timisoara,0,0,D,NaN,NaN,NaN
+ROM,26/08/1956,,Dinamo Bacau,Dinamo Orasul Stalin,1,3,A,NaN,NaN,NaN
+ROM,26/08/1956,,Progresul Oradea,Locomotiva Bucuresti,1,1,D,NaN,NaN,NaN
+ROM,26/09/1956,,Flamura Roşie UT Arad,FC Progresul Financial Banking,3,3,D,NaN,NaN,NaN
+ROM,27/09/1956,,CCA Bucureşti,Energia Petroșani,6,0,H,NaN,NaN,NaN
+ROM,25/10/1956,,Dinamo Bucureşti,Ştiinţa Cluj,8,0,H,NaN,NaN,NaN
+ROM,30/08/1956,,Locomotiva Bucuresti,CCA Bucureşti,2,4,A,NaN,NaN,NaN
+ROM,30/08/1956,,Dinamo Bucureşti,FC Progresul Financial Banking,2,3,A,NaN,NaN,NaN
+ROM,30/08/1956,,Dinamo Orasul Stalin,CS Stiinta Timisoara,1,1,D,NaN,NaN,NaN
+ROM,30/08/1956,,Energia Ploiești,Progresul Oradea,2,0,H,NaN,NaN,NaN
+ROM,30/08/1956,,Flamura Roşie UT Arad,CFR Timisoara,3,1,H,NaN,NaN,NaN
+ROM,09/09/1956,,Energia Petroșani,Dinamo Bacau,1,1,D,NaN,NaN,NaN
+ROM,16/09/1956,,CCA Bucureşti,Dinamo Bucureşti,4,3,H,NaN,NaN,NaN
+ROM,16/09/1956,,Flamura Roşie UT Arad,Dinamo Orasul Stalin,1,1,D,NaN,NaN,NaN
+ROM,16/09/1956,,Dinamo Bacau,Energia Ploiești,2,0,H,NaN,NaN,NaN
+ROM,16/09/1956,,Locomotiva Bucuresti,FC Progresul Financial Banking,1,1,D,NaN,NaN,NaN
+ROM,16/09/1956,,Ştiinţa Cluj,CFR Timisoara,1,0,H,NaN,NaN,NaN
+ROM,16/09/1956,,CS Stiinta Timisoara,Energia Petroșani,2,0,H,NaN,NaN,NaN
+ROM,23/09/1956,,Ştiinţa Cluj,CCA Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,23/09/1956,,CFR Timisoara,Dinamo Orasul Stalin,1,5,A,NaN,NaN,NaN
+ROM,23/09/1956,,Locomotiva Bucuresti,Energia Ploiești,1,2,A,NaN,NaN,NaN
+ROM,23/09/1956,,Progresul Oradea,Flamura Roşie UT Arad,1,0,H,NaN,NaN,NaN
+ROM,23/09/1956,,FC Progresul Financial Banking,CS Stiinta Timisoara,2,2,D,NaN,NaN,NaN
+ROM,01/11/1956,,Energia Petroșani,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,30/09/1956,,CCA Bucureşti,Dinamo Bacau,0,1,A,NaN,NaN,NaN
+ROM,30/09/1956,,Energia Ploiești,FC Progresul Financial Banking,0,0,D,NaN,NaN,NaN
+ROM,30/09/1956,,Flamura Roşie UT Arad,Ştiinţa Cluj,3,0,H,NaN,NaN,NaN
+ROM,30/09/1956,,Dinamo Orasul Stalin,Energia Petroșani,0,4,A,NaN,NaN,NaN
+ROM,30/09/1956,,CS Stiinta Timisoara,Locomotiva Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,08/11/1956,,Dinamo Bucureşti,Progresul Oradea,3,0,H,NaN,NaN,NaN
+ROM,07/10/1956,,FC Progresul Financial Banking,CCA Bucureşti,1,4,A,NaN,NaN,NaN
+ROM,07/10/1956,,Dinamo Bucureşti,Locomotiva Bucuresti,2,3,A,NaN,NaN,NaN
+ROM,07/10/1956,,Energia Ploiești,Flamura Roşie UT Arad,9,0,H,NaN,NaN,NaN
+ROM,07/10/1956,,Energia Petroșani,CFR Timisoara,0,1,A,NaN,NaN,NaN
+ROM,07/10/1956,,Progresul Oradea,Dinamo Bacau,3,1,H,NaN,NaN,NaN
+ROM,07/10/1956,,Dinamo Orasul Stalin,Ştiinţa Cluj,3,1,H,NaN,NaN,NaN
+ROM,11/10/1956,,Flamura Roşie UT Arad,CCA Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,14/10/1956,,CFR Timisoara,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,14/10/1956,,Ştiinţa Cluj,Energia Ploiești,1,3,A,NaN,NaN,NaN
+ROM,14/10/1956,,Progresul Oradea,Energia Petroșani,2,0,H,NaN,NaN,NaN
+ROM,14/10/1956,,FC Progresul Financial Banking,Dinamo Orasul Stalin,5,1,H,NaN,NaN,NaN
+ROM,14/10/1956,,Dinamo Bacau,CS Stiinta Timisoara,5,0,H,NaN,NaN,NaN
+ROM,21/10/1956,,CS Stiinta Timisoara,Energia Ploiești,0,0,D,NaN,NaN,NaN
+ROM,21/10/1956,,Flamura Roşie UT Arad,Energia Petroșani,2,1,H,NaN,NaN,NaN
+ROM,21/10/1956,,Dinamo Orasul Stalin,Locomotiva Bucuresti,0,2,A,NaN,NaN,NaN
+ROM,21/10/1956,,Dinamo Bacau,Ştiinţa Cluj,0,1,A,NaN,NaN,NaN
+ROM,15/11/1956,,CCA Bucureşti,Progresul Oradea,5,0,H,NaN,NaN,NaN
+ROM,21/11/1956,,FC Progresul Financial Banking,CFR Timisoara,1,0,H,NaN,NaN,NaN
+ROM,28/10/1956,,Dinamo Bucureşti,CS Stiinta Timisoara,4,1,H,NaN,NaN,NaN
+ROM,28/10/1956,,Energia Petroșani,FC Progresul Financial Banking,3,0,H,NaN,NaN,NaN
+ROM,01/11/1956,,Locomotiva Bucuresti,Flamura Roşie UT Arad,1,1,D,NaN,NaN,NaN
+ROM,08/11/1956,,Energia Ploiești,Dinamo Orasul Stalin,1,1,D,NaN,NaN,NaN
+ROM,15/11/1956,,CFR Timisoara,Dinamo Bacau,4,1,H,NaN,NaN,NaN
+ROM,18/11/1956,,Ştiinţa Cluj,Progresul Oradea,2,5,A,NaN,NaN,NaN
+ROM,04/11/1956,,Flamura Roşie UT Arad,Dinamo Bucureşti,2,3,A,NaN,NaN,NaN
+ROM,04/11/1956,,Locomotiva Bucuresti,Ştiinţa Cluj,3,0,H,NaN,NaN,NaN
+ROM,04/11/1956,,Progresul Oradea,CFR Timisoara,2,0,H,NaN,NaN,NaN
+ROM,04/11/1956,,FC Progresul Financial Banking,Dinamo Bacau,1,0,H,NaN,NaN,NaN
+ROM,15/11/1956,,Energia Petroșani,Energia Ploiești,3,1,H,NaN,NaN,NaN
+ROM,18/11/1956,,CS Stiinta Timisoara,CCA Bucureşti,5,0,H,NaN,NaN,NaN
+ROM,11/11/1956,,CCA Bucureşti,CFR Timisoara,6,0,H,NaN,NaN,NaN
+ROM,11/11/1956,,Dinamo Orasul Stalin,Progresul Oradea,2,0,H,NaN,NaN,NaN
+ROM,11/11/1956,,Dinamo Bacau,Locomotiva Bucuresti,0,2,A,NaN,NaN,NaN
+ROM,11/11/1956,,Ştiinţa Cluj,Energia Petroșani,4,0,H,NaN,NaN,NaN
+ROM,11/11/1956,,CS Stiinta Timisoara,Flamura Roşie UT Arad,3,2,H,NaN,NaN,NaN
+ROM,18/11/1956,,Energia Ploiești,Dinamo Bucureşti,1,3,A,NaN,NaN,NaN

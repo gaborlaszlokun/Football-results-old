@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,01/10/2000,,Udinese Calcio,Brescia Calcio,4,2,H,1,0,H
+ITA,01/10/2000,,AS Roma,Bologna FC,2,0,H,1,0,H
+ITA,01/10/2000,,AC Perugia,US Lecce,1,1,D,0,1,A
+ITA,01/10/2000,,Reggina Calcio,Inter,2,1,H,1,1,D
+ITA,01/10/2000,,SSC Napoli,Juventus,1,2,A,1,0,H
+ITA,01/10/2000,,AC Milan,Vicenza Calcio,2,0,H,1,0,H
+ITA,01/10/2000,,Atalanta,Lazio Roma,2,2,D,1,1,D
+ITA,01/10/2000,,AS Bari,Hellas Verona,1,1,D,0,0,D
+ITA,01/10/2000,,Parma AC,ACF Fiorentina,2,2,D,1,0,H
+ITA,15/10/2000,,Inter,SSC Napoli,3,1,H,3,0,H
+ITA,15/10/2000,,Vicenza Calcio,Atalanta,1,2,A,0,0,D
+ITA,15/10/2000,,Hellas Verona,Udinese Calcio,1,1,D,0,0,D
+ITA,15/10/2000,,US Lecce,AS Roma,0,4,A,0,1,A
+ITA,15/10/2000,,Juventus,AS Bari,2,0,H,1,0,H
+ITA,15/10/2000,,ACF Fiorentina,Reggina Calcio,2,1,H,0,0,D
+ITA,15/10/2000,,Brescia Calcio,Parma AC,0,0,D,0,0,D
+ITA,15/10/2000,,Bologna FC,AC Milan,2,1,H,1,0,H
+ITA,15/10/2000,,Lazio Roma,AC Perugia,3,0,H,1,0,H
+ITA,22/10/2000,,AS Roma,Vicenza Calcio,3,1,H,1,0,H
+ITA,22/10/2000,,SSC Napoli,Bologna FC,1,5,A,0,2,A
+ITA,22/10/2000,,Hellas Verona,Lazio Roma,2,0,H,0,0,D
+ITA,22/10/2000,,Udinese Calcio,Inter,3,0,H,1,0,H
+ITA,22/10/2000,,AS Bari,Atalanta,0,2,A,0,0,D
+ITA,22/10/2000,,AC Milan,Juventus,2,2,D,0,0,D
+ITA,22/10/2000,,Brescia Calcio,ACF Fiorentina,1,1,D,0,0,D
+ITA,22/10/2000,,Reggina Calcio,US Lecce,0,1,A,0,1,A
+ITA,22/10/2000,,AC Perugia,Parma AC,3,1,H,3,0,H
+ITA,01/11/2000,,Inter,AS Roma,2,0,H,1,0,H
+ITA,01/11/2000,,Vicenza Calcio,AC Perugia,1,0,H,0,0,D
+ITA,01/11/2000,,Parma AC,AC Milan,2,0,H,1,0,H
+ITA,01/11/2000,,US Lecce,SSC Napoli,1,1,D,0,0,D
+ITA,01/11/2000,,Juventus,Udinese Calcio,1,2,A,0,1,A
+ITA,01/11/2000,,ACF Fiorentina,AS Bari,2,2,D,1,0,H
+ITA,01/11/2000,,Bologna FC,Reggina Calcio,2,0,H,0,0,D
+ITA,01/11/2000,,Atalanta,Hellas Verona,3,0,H,2,0,H
+ITA,01/11/2000,,Lazio Roma,Brescia Calcio,2,1,H,1,1,D
+ITA,05/11/2000,,Udinese Calcio,US Lecce,2,0,H,0,0,D
+ITA,05/11/2000,,SSC Napoli,Vicenza Calcio,1,2,A,1,1,D
+ITA,05/11/2000,,Hellas Verona,Inter,2,2,D,2,1,H
+ITA,05/11/2000,,Reggina Calcio,Juventus,0,2,A,0,1,A
+ITA,05/11/2000,,Lazio Roma,Bologna FC,2,0,H,1,0,H
+ITA,05/11/2000,,ACF Fiorentina,AC Perugia,3,4,A,2,2,D
+ITA,05/11/2000,,AS Bari,Parma AC,0,1,A,0,0,D
+ITA,05/11/2000,,Brescia Calcio,AS Roma,2,4,A,2,1,H
+ITA,05/11/2000,,AC Milan,Atalanta,3,3,D,1,3,A
+ITA,12/11/2000,,Inter,US Lecce,0,1,A,0,1,A
+ITA,12/11/2000,,Vicenza Calcio,Hellas Verona,2,2,D,0,0,D
+ITA,12/11/2000,,AS Roma,Reggina Calcio,2,1,H,1,0,H
+ITA,12/11/2000,,AC Perugia,SSC Napoli,1,1,D,0,1,A
+ITA,12/11/2000,,Juventus,Lazio Roma,1,1,D,1,1,D
+ITA,12/11/2000,,Bologna FC,ACF Fiorentina,1,1,D,1,0,H
+ITA,12/11/2000,,AS Bari,AC Milan,1,3,A,0,0,D
+ITA,12/11/2000,,Atalanta,Brescia Calcio,2,0,H,1,0,H
+ITA,12/11/2000,,Parma AC,Udinese Calcio,2,0,H,0,0,D
+ITA,19/11/2000,,US Lecce,AS Bari,2,0,H,1,0,H
+ITA,19/11/2000,,Udinese Calcio,Reggina Calcio,3,0,H,2,0,H
+ITA,19/11/2000,,Hellas Verona,AS Roma,1,4,A,1,2,A
+ITA,19/11/2000,,SSC Napoli,Atalanta,0,0,D,0,0,D
+ITA,19/11/2000,,Inter,AC Perugia,2,1,H,1,1,D
+ITA,19/11/2000,,ACF Fiorentina,Vicenza Calcio,3,2,H,1,2,A
+ITA,19/11/2000,,Brescia Calcio,Juventus,0,0,D,0,0,D
+ITA,19/11/2000,,Bologna FC,Parma AC,2,1,H,0,0,D
+ITA,19/11/2000,,Lazio Roma,AC Milan,1,1,D,1,0,H
+ITA,26/11/2000,,AS Roma,ACF Fiorentina,1,0,H,0,0,D
+ITA,26/11/2000,,Atalanta,US Lecce,1,0,H,1,0,H
+ITA,26/11/2000,,Vicenza Calcio,Inter,0,0,D,0,0,D
+ITA,26/11/2000,,Reggina Calcio,Brescia Calcio,0,3,A,0,0,D
+ITA,26/11/2000,,AC Perugia,Bologna FC,1,3,A,0,2,A
+ITA,26/11/2000,,AC Milan,SSC Napoli,1,0,H,1,0,H
+ITA,26/11/2000,,Juventus,Hellas Verona,2,1,H,1,0,H
+ITA,26/11/2000,,AS Bari,Udinese Calcio,2,1,H,0,0,D
+ITA,26/11/2000,,Parma AC,Lazio Roma,2,0,H,1,0,H
+ITA,03/12/2000,,US Lecce,ACF Fiorentina,1,1,D,1,0,H
+ITA,03/12/2000,,Hellas Verona,Brescia Calcio,2,1,H,1,0,H
+ITA,03/12/2000,,Udinese Calcio,AC Milan,0,1,A,0,0,D
+ITA,03/12/2000,,AC Perugia,AS Roma,0,0,D,0,0,D
+ITA,03/12/2000,,Bologna FC,Vicenza Calcio,1,1,D,1,1,D
+ITA,03/12/2000,,SSC Napoli,AS Bari,1,0,H,0,0,D
+ITA,03/12/2000,,Lazio Roma,Reggina Calcio,2,0,H,1,0,H
+ITA,03/12/2000,,Inter,Juventus,2,2,D,1,2,A
+ITA,03/12/2000,,Parma AC,Atalanta,2,0,H,1,0,H
+ITA,10/12/2000,,AC Milan,US Lecce,4,1,H,3,1,H
+ITA,10/12/2000,,Vicenza Calcio,Lazio Roma,1,4,A,0,2,A
+ITA,10/12/2000,,AS Roma,Udinese Calcio,2,1,H,2,1,H
+ITA,10/12/2000,,Reggina Calcio,Hellas Verona,1,1,D,0,1,A
+ITA,10/12/2000,,ACF Fiorentina,Inter,2,0,H,0,0,D
+ITA,10/12/2000,,Brescia Calcio,SSC Napoli,1,1,D,1,0,H
+ITA,10/12/2000,,AS Bari,Bologna FC,2,0,H,1,0,H
+ITA,10/12/2000,,Atalanta,AC Perugia,0,0,D,0,0,D
+ITA,10/12/2000,,Juventus,Parma AC,1,0,H,1,0,H
+ITA,17/12/2000,,US Lecce,Juventus,1,4,A,0,2,A
+ITA,17/12/2000,,Hellas Verona,AC Milan,1,1,D,1,1,D
+ITA,17/12/2000,,Udinese Calcio,ACF Fiorentina,1,3,A,1,1,D
+ITA,17/12/2000,,AC Perugia,AS Bari,4,1,H,1,0,H
+ITA,17/12/2000,,SSC Napoli,Reggina Calcio,6,2,H,3,0,H
+ITA,17/12/2000,,Lazio Roma,AS Roma,0,1,A,0,0,D
+ITA,17/12/2000,,Inter,Brescia Calcio,0,0,D,0,0,D
+ITA,17/12/2000,,Bologna FC,Atalanta,0,1,A,0,0,D
+ITA,17/12/2000,,Parma AC,Vicenza Calcio,0,2,A,0,0,D
+ITA,23/12/2000,,ACF Fiorentina,Hellas Verona,2,0,H,1,0,H
+ITA,23/12/2000,,Udinese Calcio,Bologna FC,3,1,H,2,0,H
+ITA,23/12/2000,,AS Roma,Juventus,0,0,D,0,0,D
+ITA,23/12/2000,,Reggina Calcio,Vicenza Calcio,1,0,H,0,0,D
+ITA,23/12/2000,,Brescia Calcio,US Lecce,2,2,D,0,1,A
+ITA,23/12/2000,,AS Bari,Lazio Roma,1,2,A,0,1,A
+ITA,23/12/2000,,Atalanta,Inter,0,1,A,0,0,D
+ITA,23/12/2000,,SSC Napoli,Parma AC,2,2,D,0,1,A
+ITA,23/12/2000,,AC Milan,AC Perugia,1,2,A,1,1,D
+ITA,07/01/2001,,Lazio Roma,SSC Napoli,1,2,A,0,2,A
+ITA,07/01/2001,,Vicenza Calcio,AS Bari,1,0,H,1,0,H
+ITA,07/01/2001,,AC Perugia,Udinese Calcio,3,1,H,2,1,H
+ITA,07/01/2001,,Parma AC,Reggina Calcio,0,2,A,0,1,A
+ITA,07/01/2001,,US Lecce,Hellas Verona,4,2,H,0,1,A
+ITA,07/01/2001,,Juventus,ACF Fiorentina,3,3,D,1,2,A
+ITA,07/01/2001,,Bologna FC,Brescia Calcio,1,0,H,1,0,H
+ITA,07/01/2001,,Atalanta,AS Roma,0,2,A,0,2,A
+ITA,07/01/2001,,AC Milan,Inter,2,2,D,0,1,A
+ITA,14/01/2001,,Juventus,Bologna FC,1,0,H,1,0,H
+ITA,14/01/2001,,Udinese Calcio,Lazio Roma,3,4,A,0,2,A
+ITA,14/01/2001,,AS Roma,AS Bari,1,1,D,0,0,D
+ITA,14/01/2001,,Hellas Verona,SSC Napoli,2,1,H,0,0,D
+ITA,14/01/2001,,Inter,Parma AC,1,1,D,0,1,A
+ITA,14/01/2001,,ACF Fiorentina,AC Milan,4,0,H,1,0,H
+ITA,14/01/2001,,Brescia Calcio,AC Perugia,1,0,H,1,0,H
+ITA,14/01/2001,,Reggina Calcio,Atalanta,1,0,H,1,0,H
+ITA,14/01/2001,,US Lecce,Vicenza Calcio,3,1,H,2,0,H
+ITA,21/01/2001,,Lazio Roma,Inter,2,0,H,1,0,H
+ITA,21/01/2001,,Vicenza Calcio,Brescia Calcio,1,1,D,0,1,A
+ITA,21/01/2001,,AC Perugia,Juventus,0,1,A,0,0,D
+ITA,21/01/2001,,Parma AC,US Lecce,1,1,D,0,0,D
+ITA,21/01/2001,,AC Milan,AS Roma,3,2,H,3,1,H
+ITA,21/01/2001,,Bologna FC,Hellas Verona,1,0,H,1,0,H
+ITA,21/01/2001,,AS Bari,Reggina Calcio,2,1,H,1,1,D
+ITA,21/01/2001,,Atalanta,ACF Fiorentina,0,0,D,0,0,D
+ITA,21/01/2001,,SSC Napoli,Udinese Calcio,0,1,A,0,0,D
+ITA,28/01/2001,,Juventus,Vicenza Calcio,4,0,H,3,0,H
+ITA,28/01/2001,,Udinese Calcio,Atalanta,2,4,A,1,4,A
+ITA,28/01/2001,,AS Roma,SSC Napoli,3,0,H,2,0,H
+ITA,28/01/2001,,Hellas Verona,Parma AC,0,2,A,0,1,A
+ITA,28/01/2001,,Inter,AS Bari,1,0,H,1,0,H
+ITA,28/01/2001,,ACF Fiorentina,Lazio Roma,1,4,A,0,1,A
+ITA,28/01/2001,,Brescia Calcio,AC Milan,1,1,D,0,1,A
+ITA,28/01/2001,,Reggina Calcio,AC Perugia,0,2,A,0,2,A
+ITA,28/01/2001,,US Lecce,Bologna FC,0,0,D,0,0,D
+ITA,04/02/2001,,Lazio Roma,US Lecce,3,2,H,1,0,H
+ITA,04/02/2001,,Vicenza Calcio,Udinese Calcio,1,2,A,1,1,D
+ITA,04/02/2001,,AC Perugia,Hellas Verona,1,0,H,0,0,D
+ITA,04/02/2001,,Parma AC,AS Roma,1,2,A,1,0,H
+ITA,04/02/2001,,AC Milan,Reggina Calcio,1,0,H,0,0,D
+ITA,04/02/2001,,Bologna FC,Inter,0,3,A,0,1,A
+ITA,04/02/2001,,AS Bari,Brescia Calcio,1,3,A,0,1,A
+ITA,04/02/2001,,Atalanta,Juventus,2,1,H,0,0,D
+ITA,04/02/2001,,SSC Napoli,ACF Fiorentina,1,0,H,0,0,D
+ITA,11/02/2001,,US Lecce,AC Perugia,2,2,D,1,1,D
+ITA,11/02/2001,,Bologna FC,AS Roma,1,2,A,0,2,A
+ITA,11/02/2001,,Hellas Verona,AS Bari,3,2,H,0,1,A
+ITA,11/02/2001,,Inter,Reggina Calcio,1,1,D,1,1,D
+ITA,11/02/2001,,Brescia Calcio,Udinese Calcio,3,1,H,0,0,D
+ITA,11/02/2001,,Vicenza Calcio,AC Milan,2,0,H,1,0,H
+ITA,11/02/2001,,Lazio Roma,Atalanta,0,0,D,0,0,D
+ITA,11/02/2001,,Juventus,SSC Napoli,3,0,H,1,0,H
+ITA,11/02/2001,,ACF Fiorentina,Parma AC,0,1,A,0,1,A
+ITA,18/02/2001,,SSC Napoli,Inter,1,0,H,0,0,D
+ITA,18/02/2001,,Atalanta,Vicenza Calcio,1,1,D,1,0,H
+ITA,18/02/2001,,Udinese Calcio,Hellas Verona,2,1,H,1,0,H
+ITA,18/02/2001,,AS Roma,US Lecce,1,0,H,0,0,D
+ITA,18/02/2001,,AS Bari,Juventus,0,1,A,0,0,D
+ITA,18/02/2001,,Reggina Calcio,ACF Fiorentina,1,1,D,1,1,D
+ITA,18/02/2001,,Parma AC,Brescia Calcio,3,0,H,0,0,D
+ITA,18/02/2001,,AC Milan,Bologna FC,3,3,D,2,0,H
+ITA,18/02/2001,,AC Perugia,Lazio Roma,0,1,A,0,0,D
+ITA,25/02/2001,,Vicenza Calcio,AS Roma,0,2,A,0,0,D
+ITA,25/02/2001,,Bologna FC,SSC Napoli,2,1,H,1,1,D
+ITA,25/02/2001,,Lazio Roma,Hellas Verona,5,3,H,2,0,H
+ITA,25/02/2001,,Inter,Udinese Calcio,2,1,H,1,1,D
+ITA,25/02/2001,,Atalanta,AS Bari,0,0,D,0,0,D
+ITA,25/02/2001,,Juventus,AC Milan,3,0,H,1,0,H
+ITA,25/02/2001,,ACF Fiorentina,Brescia Calcio,2,2,D,1,1,D
+ITA,25/02/2001,,US Lecce,Reggina Calcio,2,1,H,1,1,D
+ITA,25/02/2001,,Parma AC,AC Perugia,5,0,H,2,0,H
+ITA,04/03/2001,,AS Roma,Inter,3,2,H,2,2,D
+ITA,04/03/2001,,AC Perugia,Vicenza Calcio,1,0,H,1,0,H
+ITA,04/03/2001,,AC Milan,Parma AC,2,2,D,1,1,D
+ITA,04/03/2001,,SSC Napoli,US Lecce,1,1,D,0,0,D
+ITA,04/03/2001,,Udinese Calcio,Juventus,0,2,A,0,1,A
+ITA,04/03/2001,,AS Bari,ACF Fiorentina,2,1,H,1,1,D
+ITA,04/03/2001,,Reggina Calcio,Bologna FC,2,1,H,2,0,H
+ITA,04/03/2001,,Hellas Verona,Atalanta,2,1,H,1,1,D
+ITA,04/03/2001,,Brescia Calcio,Lazio Roma,0,1,A,0,0,D
+ITA,11/03/2001,,Bologna FC,Lazio Roma,2,0,H,1,0,H
+ITA,11/03/2001,,Juventus,Reggina Calcio,1,0,H,1,0,H
+ITA,11/03/2001,,Inter,Hellas Verona,2,0,H,1,0,H
+ITA,11/03/2001,,US Lecce,Udinese Calcio,2,1,H,1,1,D
+ITA,11/03/2001,,Parma AC,AS Bari,4,0,H,3,0,H
+ITA,11/03/2001,,Vicenza Calcio,SSC Napoli,2,0,H,0,0,D
+ITA,11/03/2001,,AC Perugia,ACF Fiorentina,2,2,D,1,0,H
+ITA,11/03/2001,,AS Roma,Brescia Calcio,3,1,H,1,1,D
+ITA,11/03/2001,,Atalanta,AC Milan,1,1,D,0,1,A
+ITA,18/03/2001,,US Lecce,Inter,1,2,A,0,1,A
+ITA,18/03/2001,,Hellas Verona,Vicenza Calcio,1,0,H,0,0,D
+ITA,18/03/2001,,Reggina Calcio,AS Roma,0,0,D,0,0,D
+ITA,18/03/2001,,SSC Napoli,AC Perugia,0,0,D,0,0,D
+ITA,18/03/2001,,Lazio Roma,Juventus,4,1,H,1,0,H
+ITA,18/03/2001,,ACF Fiorentina,Bologna FC,1,1,D,0,1,A
+ITA,18/03/2001,,AC Milan,AS Bari,4,0,H,1,0,H
+ITA,18/03/2001,,Brescia Calcio,Atalanta,0,3,A,0,2,A
+ITA,18/03/2001,,Udinese Calcio,Parma AC,1,3,A,0,1,A
+ITA,01/04/2001,,AC Perugia,Inter,2,3,A,1,1,D
+ITA,01/04/2001,,Reggina Calcio,Udinese Calcio,1,1,D,0,0,D
+ITA,01/04/2001,,Atalanta,SSC Napoli,1,1,D,0,1,A
+ITA,01/04/2001,,AS Roma,Hellas Verona,3,1,H,0,1,A
+ITA,01/04/2001,,Vicenza Calcio,ACF Fiorentina,1,1,D,1,0,H
+ITA,01/04/2001,,Juventus,Brescia Calcio,1,1,D,1,0,H
+ITA,01/04/2001,,Parma AC,Bologna FC,0,0,D,0,0,D
+ITA,01/04/2001,,AS Bari,US Lecce,3,2,H,1,2,A
+ITA,01/04/2001,,AC Milan,Lazio Roma,1,0,H,0,0,D
+ITA,08/04/2001,,SSC Napoli,AC Milan,0,0,D,0,0,D
+ITA,08/04/2001,,Udinese Calcio,AS Bari,2,0,H,1,0,H
+ITA,08/04/2001,,Hellas Verona,Juventus,0,1,A,0,1,A
+ITA,08/04/2001,,US Lecce,Atalanta,0,2,A,0,0,D
+ITA,08/04/2001,,Bologna FC,AC Perugia,3,2,H,2,2,D
+ITA,08/04/2001,,Brescia Calcio,Reggina Calcio,4,0,H,1,0,H
+ITA,08/04/2001,,Inter,Vicenza Calcio,1,1,D,0,1,A
+ITA,08/04/2001,,ACF Fiorentina,AS Roma,3,1,H,1,1,D
+ITA,08/04/2001,,Lazio Roma,Parma AC,1,0,H,1,0,H
+ITA,14/04/2001,,AS Roma,AC Perugia,2,2,D,0,1,A
+ITA,14/04/2001,,AC Milan,Udinese Calcio,3,0,H,2,0,H
+ITA,14/04/2001,,AS Bari,SSC Napoli,0,1,A,0,0,D
+ITA,14/04/2001,,Atalanta,Parma AC,0,1,A,0,1,A
+ITA,14/04/2001,,Reggina Calcio,Lazio Roma,0,2,A,0,1,A
+ITA,14/04/2001,,Juventus,Inter,3,1,H,0,0,D
+ITA,14/04/2001,,Vicenza Calcio,Bologna FC,4,2,H,3,0,H
+ITA,14/04/2001,,ACF Fiorentina,US Lecce,2,0,H,1,0,H
+ITA,14/04/2001,,Brescia Calcio,Hellas Verona,1,0,H,1,0,H
+ITA,22/04/2001,,Inter,ACF Fiorentina,4,2,H,3,0,H
+ITA,22/04/2001,,Lazio Roma,Vicenza Calcio,2,1,H,1,0,H
+ITA,22/04/2001,,Udinese Calcio,AS Roma,1,3,A,0,2,A
+ITA,22/04/2001,,Hellas Verona,Reggina Calcio,0,3,A,0,3,A
+ITA,22/04/2001,,Parma AC,Juventus,0,0,D,0,0,D
+ITA,22/04/2001,,SSC Napoli,Brescia Calcio,1,1,D,0,0,D
+ITA,22/04/2001,,Bologna FC,AS Bari,4,2,H,1,1,D
+ITA,22/04/2001,,AC Perugia,Atalanta,2,2,D,1,1,D
+ITA,22/04/2001,,US Lecce,AC Milan,3,3,D,1,2,A
+ITA,29/04/2001,,AS Bari,AC Perugia,3,4,A,2,0,H
+ITA,29/04/2001,,Juventus,US Lecce,1,1,D,1,1,D
+ITA,29/04/2001,,AC Milan,Hellas Verona,1,0,H,0,0,D
+ITA,29/04/2001,,ACF Fiorentina,Udinese Calcio,2,1,H,1,1,D
+ITA,29/04/2001,,Atalanta,Bologna FC,2,2,D,0,0,D
+ITA,29/04/2001,,AS Roma,Lazio Roma,2,2,D,0,0,D
+ITA,29/04/2001,,Brescia Calcio,Inter,1,0,H,0,0,D
+ITA,29/04/2001,,Vicenza Calcio,Parma AC,0,1,A,0,0,D
+ITA,29/04/2001,,Reggina Calcio,SSC Napoli,3,1,H,2,0,H
+ITA,06/05/2001,,Hellas Verona,ACF Fiorentina,2,1,H,0,0,D
+ITA,06/05/2001,,Bologna FC,Udinese Calcio,1,1,D,1,1,D
+ITA,06/05/2001,,Juventus,AS Roma,2,2,D,2,0,H
+ITA,06/05/2001,,Vicenza Calcio,Reggina Calcio,2,1,H,0,0,D
+ITA,06/05/2001,,AC Perugia,AC Milan,2,1,H,1,1,D
+ITA,06/05/2001,,US Lecce,Brescia Calcio,0,3,A,0,1,A
+ITA,06/05/2001,,Lazio Roma,AS Bari,2,0,H,2,0,H
+ITA,06/05/2001,,Inter,Atalanta,3,0,H,3,0,H
+ITA,06/05/2001,,Parma AC,SSC Napoli,4,0,H,1,0,H
+ITA,13/05/2001,,Inter,AC Milan,0,6,A,0,2,A
+ITA,13/05/2001,,Hellas Verona,US Lecce,0,0,D,0,0,D
+ITA,13/05/2001,,Reggina Calcio,Parma AC,2,0,H,1,0,H
+ITA,13/05/2001,,AS Bari,Vicenza Calcio,2,2,D,0,0,D
+ITA,13/05/2001,,ACF Fiorentina,Juventus,1,3,A,1,2,A
+ITA,13/05/2001,,Brescia Calcio,Bologna FC,0,0,D,0,0,D
+ITA,13/05/2001,,AS Roma,Atalanta,1,0,H,0,0,D
+ITA,13/05/2001,,SSC Napoli,Lazio Roma,2,4,A,1,1,D
+ITA,13/05/2001,,Udinese Calcio,AC Perugia,3,3,D,0,3,A
+ITA,20/05/2001,,Bologna FC,Juventus,1,4,A,1,2,A
+ITA,20/05/2001,,SSC Napoli,Hellas Verona,2,0,H,1,0,H
+ITA,20/05/2001,,Lazio Roma,Udinese Calcio,3,1,H,2,0,H
+ITA,20/05/2001,,AS Bari,AS Roma,1,4,A,0,2,A
+ITA,20/05/2001,,Vicenza Calcio,US Lecce,0,0,D,0,0,D
+ITA,20/05/2001,,Parma AC,Inter,3,1,H,1,0,H
+ITA,20/05/2001,,AC Milan,ACF Fiorentina,1,2,A,1,2,A
+ITA,20/05/2001,,AC Perugia,Brescia Calcio,2,2,D,0,1,A
+ITA,20/05/2001,,Atalanta,Reggina Calcio,1,1,D,1,1,D
+ITA,27/05/2001,,AS Roma,AC Milan,1,1,D,0,1,A
+ITA,27/05/2001,,Udinese Calcio,SSC Napoli,0,0,D,0,0,D
+ITA,27/05/2001,,US Lecce,Parma AC,1,2,A,0,0,D
+ITA,27/05/2001,,Brescia Calcio,Vicenza Calcio,2,1,H,2,0,H
+ITA,27/05/2001,,Hellas Verona,Bologna FC,5,4,H,3,1,H
+ITA,27/05/2001,,Reggina Calcio,AS Bari,1,0,H,0,0,D
+ITA,27/05/2001,,ACF Fiorentina,Atalanta,1,1,D,1,1,D
+ITA,27/05/2001,,Juventus,AC Perugia,1,0,H,0,0,D
+ITA,27/05/2001,,Inter,Lazio Roma,1,1,D,0,1,A
+ITA,10/06/2001,,AC Perugia,Reggina Calcio,1,1,D,0,1,A
+ITA,10/06/2001,,Parma AC,Hellas Verona,1,2,A,0,1,A
+ITA,10/06/2001,,SSC Napoli,AS Roma,2,2,D,1,1,D
+ITA,10/06/2001,,Bologna FC,US Lecce,2,2,D,0,1,A
+ITA,10/06/2001,,Vicenza Calcio,Juventus,0,3,A,0,2,A
+ITA,10/06/2001,,AS Bari,Inter,1,2,A,1,1,D
+ITA,10/06/2001,,Lazio Roma,ACF Fiorentina,3,0,H,2,0,H
+ITA,10/06/2001,,AC Milan,Brescia Calcio,1,1,D,0,0,D
+ITA,10/06/2001,,Atalanta,Udinese Calcio,0,1,A,0,1,A
+ITA,17/06/2001,,Udinese Calcio,Vicenza Calcio,2,3,A,2,3,A
+ITA,17/06/2001,,Juventus,Atalanta,2,1,H,1,0,H
+ITA,17/06/2001,,Brescia Calcio,AS Bari,3,1,H,2,1,H
+ITA,17/06/2001,,Inter,Bologna FC,2,1,H,2,0,H
+ITA,17/06/2001,,US Lecce,Lazio Roma,2,1,H,0,1,A
+ITA,17/06/2001,,Reggina Calcio,AC Milan,2,1,H,0,0,D
+ITA,17/06/2001,,ACF Fiorentina,SSC Napoli,1,2,A,0,0,D
+ITA,17/06/2001,,AS Roma,Parma AC,3,1,H,2,0,H
+ITA,17/06/2001,,Hellas Verona,AC Perugia,2,1,H,1,0,H

@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AZE,11/08/2007,11:00,Inter Baku,FK Masalli,3,0,H,NaN,NaN,NaN
+AZE,11/08/2007,11:00,Standard Baku,Gabala FK,0,1,A,NaN,NaN,NaN
+AZE,11/08/2007,11:00,Neftçi PFK,PFK Turan Tavuz,1,2,A,NaN,NaN,NaN
+AZE,11/08/2007,11:00,Simurq PFC,Qarabağ FK,1,0,H,NaN,NaN,NaN
+AZE,12/08/2007,11:00,FK Baku,Genclerbirliyi Sumgayit,3,1,H,NaN,NaN,NaN
+AZE,12/08/2007,11:00,FK Karvan,Khazar Lankaran,0,1,A,NaN,NaN,NaN
+AZE,09/09/2007,11:00,Olimpik Baku,ABN Barda,1,0,H,NaN,NaN,NaN
+AZE,18/08/2007,11:00,FK Masalli,Khazar Lankaran,0,3,A,NaN,NaN,NaN
+AZE,18/08/2007,11:00,Qarabağ FK,FK Karvan,0,1,A,NaN,NaN,NaN
+AZE,18/08/2007,11:00,Genclerbirliyi Sumgayit,Neftçi PFK,2,6,A,NaN,NaN,NaN
+AZE,18/08/2007,11:00,Inter Baku,Standard Baku,1,1,D,NaN,NaN,NaN
+AZE,19/08/2007,11:00,ABN Barda,Simurq PFC,1,1,D,NaN,NaN,NaN
+AZE,19/08/2007,11:00,PFK Turan Tavuz,Olimpik Baku,1,3,A,NaN,NaN,NaN
+AZE,19/08/2007,11:00,Gabala FK,FK Baku,2,0,H,NaN,NaN,NaN
+AZE,25/08/2007,11:00,Standard Baku,FK Masalli,4,1,H,NaN,NaN,NaN
+AZE,25/08/2007,11:00,FK Baku,Inter Baku,0,0,D,NaN,NaN,NaN
+AZE,25/08/2007,11:00,Simurq PFC,PFK Turan Tavuz,3,0,H,NaN,NaN,NaN
+AZE,25/08/2007,11:00,FK Karvan,ABN Barda,2,0,H,NaN,NaN,NaN
+AZE,26/08/2007,11:00,Neftçi PFK,Gabala FK,2,0,H,NaN,NaN,NaN
+AZE,26/08/2007,11:00,Olimpik Baku,Genclerbirliyi Sumgayit,1,0,H,NaN,NaN,NaN
+AZE,26/08/2007,11:00,Khazar Lankaran,Qarabağ FK,2,0,H,NaN,NaN,NaN
+AZE,01/09/2007,11:00,PFK Turan Tavuz,FK Karvan,1,5,A,NaN,NaN,NaN
+AZE,01/09/2007,11:00,Standard Baku,FK Baku,1,1,D,NaN,NaN,NaN
+AZE,01/09/2007,11:00,Genclerbirliyi Sumgayit,Simurq PFC,0,3,A,NaN,NaN,NaN
+AZE,01/09/2007,11:00,FK Masalli,Qarabağ FK,1,0,H,NaN,NaN,NaN
+AZE,02/09/2007,11:00,ABN Barda,Khazar Lankaran,0,4,A,NaN,NaN,NaN
+AZE,02/09/2007,11:00,Gabala FK,Olimpik Baku,0,1,A,NaN,NaN,NaN
+AZE,02/09/2007,11:00,Inter Baku,Neftçi PFK,0,0,D,NaN,NaN,NaN
+AZE,15/09/2007,11:00,Simurq PFC,Gabala FK,2,0,H,NaN,NaN,NaN
+AZE,15/09/2007,11:00,FK Karvan,Genclerbirliyi Sumgayit,1,2,A,NaN,NaN,NaN
+AZE,15/09/2007,11:00,FK Baku,FK Masalli,2,1,H,NaN,NaN,NaN
+AZE,16/09/2007,11:00,Neftçi PFK,Standard Baku,3,1,H,NaN,NaN,NaN
+AZE,16/09/2007,11:00,Olimpik Baku,Inter Baku,1,0,H,NaN,NaN,NaN
+AZE,16/09/2007,11:00,Khazar Lankaran,PFK Turan Tavuz,2,0,H,NaN,NaN,NaN
+AZE,16/09/2007,11:00,Qarabağ FK,ABN Barda,3,1,H,NaN,NaN,NaN
+AZE,22/09/2007,11:00,PFK Turan Tavuz,Qarabağ FK,0,2,A,NaN,NaN,NaN
+AZE,22/09/2007,11:00,Standard Baku,Olimpik Baku,0,0,D,NaN,NaN,NaN
+AZE,22/09/2007,11:00,FK Masalli,ABN Barda,1,1,D,NaN,NaN,NaN
+AZE,23/09/2007,11:00,Genclerbirliyi Sumgayit,Khazar Lankaran,1,2,A,NaN,NaN,NaN
+AZE,23/09/2007,11:00,Gabala FK,FK Karvan,1,0,H,NaN,NaN,NaN
+AZE,20/10/2007,11:00,Inter Baku,Simurq PFC,2,0,H,NaN,NaN,NaN
+AZE,20/10/2007,11:00,FK Baku,Neftçi PFK,5,1,H,NaN,NaN,NaN
+AZE,29/09/2007,11:00,Simurq PFC,Standard Baku,1,0,H,NaN,NaN,NaN
+AZE,29/09/2007,11:00,FK Karvan,Inter Baku,0,3,A,NaN,NaN,NaN
+AZE,29/09/2007,11:00,ABN Barda,PFK Turan Tavuz,0,0,D,NaN,NaN,NaN
+AZE,29/09/2007,11:00,Neftçi PFK,FK Masalli,4,0,H,NaN,NaN,NaN
+AZE,30/09/2007,11:00,Olimpik Baku,FK Baku,3,0,H,NaN,NaN,NaN
+AZE,30/09/2007,11:00,Khazar Lankaran,Gabala FK,2,1,H,NaN,NaN,NaN
+AZE,30/09/2007,11:00,Qarabağ FK,Genclerbirliyi Sumgayit,3,1,H,NaN,NaN,NaN
+AZE,06/10/2007,11:00,Neftçi PFK,Olimpik Baku,0,0,D,NaN,NaN,NaN
+AZE,06/10/2007,11:00,Gabala FK,Qarabağ FK,1,2,A,NaN,NaN,NaN
+AZE,06/10/2007,11:00,Inter Baku,Khazar Lankaran,2,2,D,NaN,NaN,NaN
+AZE,06/10/2007,11:00,FK Masalli,PFK Turan Tavuz,3,1,H,NaN,NaN,NaN
+AZE,07/10/2007,11:00,Standard Baku,FK Karvan,1,2,A,NaN,NaN,NaN
+AZE,07/10/2007,11:00,Genclerbirliyi Sumgayit,ABN Barda,4,0,H,NaN,NaN,NaN
+AZE,07/10/2007,11:00,FK Baku,Simurq PFC,1,1,D,NaN,NaN,NaN
+AZE,27/10/2007,11:00,ABN Barda,Gabala FK,1,2,A,NaN,NaN,NaN
+AZE,27/10/2007,11:00,PFK Turan Tavuz,Genclerbirliyi Sumgayit,2,0,H,NaN,NaN,NaN
+AZE,27/10/2007,11:00,Olimpik Baku,FK Masalli,3,1,H,NaN,NaN,NaN
+AZE,28/10/2007,11:00,Simurq PFC,Neftçi PFK,1,2,A,NaN,NaN,NaN
+AZE,28/10/2007,11:00,FK Karvan,FK Baku,0,1,A,NaN,NaN,NaN
+AZE,28/10/2007,11:00,Khazar Lankaran,Standard Baku,2,2,D,NaN,NaN,NaN
+AZE,28/10/2007,11:00,Qarabağ FK,Inter Baku,0,1,A,NaN,NaN,NaN
+AZE,03/11/2007,11:00,FK Masalli,Genclerbirliyi Sumgayit,6,0,H,NaN,NaN,NaN
+AZE,03/11/2007,11:00,Gabala FK,PFK Turan Tavuz,2,1,H,NaN,NaN,NaN
+AZE,03/11/2007,11:00,Inter Baku,ABN Barda,4,0,H,NaN,NaN,NaN
+AZE,03/11/2007,11:00,Neftçi PFK,FK Karvan,2,1,H,NaN,NaN,NaN
+AZE,04/11/2007,11:00,Standard Baku,Qarabağ FK,0,1,A,NaN,NaN,NaN
+AZE,04/11/2007,11:00,FK Baku,Khazar Lankaran,2,2,D,NaN,NaN,NaN
+AZE,04/11/2007,11:00,Olimpik Baku,Simurq PFC,1,0,H,NaN,NaN,NaN
+AZE,10/11/2007,11:00,Khazar Lankaran,Neftçi PFK,0,1,A,NaN,NaN,NaN
+AZE,10/11/2007,11:00,Qarabağ FK,FK Baku,1,1,D,NaN,NaN,NaN
+AZE,10/11/2007,11:00,PFK Turan Tavuz,Inter Baku,0,4,A,NaN,NaN,NaN
+AZE,10/11/2007,11:00,FK Karvan,Olimpik Baku,0,1,A,NaN,NaN,NaN
+AZE,11/11/2007,11:00,Simurq PFC,FK Masalli,1,0,H,NaN,NaN,NaN
+AZE,11/11/2007,11:00,ABN Barda,Standard Baku,0,1,A,NaN,NaN,NaN
+AZE,11/11/2007,11:00,Genclerbirliyi Sumgayit,Gabala FK,0,6,A,NaN,NaN,NaN
+AZE,24/11/2007,10:00,Simurq PFC,FK Karvan,0,1,A,NaN,NaN,NaN
+AZE,24/11/2007,10:30,FK Masalli,Gabala FK,1,0,H,NaN,NaN,NaN
+AZE,24/11/2007,10:30,Standard Baku,PFK Turan Tavuz,1,1,D,NaN,NaN,NaN
+AZE,24/11/2007,10:30,FK Baku,ABN Barda,0,0,D,NaN,NaN,NaN
+AZE,25/11/2007,11:00,Olimpik Baku,Khazar Lankaran,0,0,D,NaN,NaN,NaN
+AZE,25/11/2007,14:00,Neftçi PFK,Qarabağ FK,0,0,D,NaN,NaN,NaN
+AZE,25/11/2007,15:00,Inter Baku,Genclerbirliyi Sumgayit,3,0,H,NaN,NaN,NaN
+AZE,01/12/2007,10:00,FK Karvan,FK Masalli,0,1,A,NaN,NaN,NaN
+AZE,01/12/2007,10:00,Qarabağ FK,Olimpik Baku,0,1,A,NaN,NaN,NaN
+AZE,01/12/2007,10:00,ABN Barda,Neftçi PFK,0,2,A,NaN,NaN,NaN
+AZE,01/12/2007,10:00,Genclerbirliyi Sumgayit,Standard Baku,1,5,A,NaN,NaN,NaN
+AZE,02/12/2007,10:00,PFK Turan Tavuz,FK Baku,0,2,A,NaN,NaN,NaN
+AZE,02/12/2007,10:00,Gabala FK,Inter Baku,2,1,H,NaN,NaN,NaN
+AZE,02/12/2007,10:00,Khazar Lankaran,Simurq PFC,2,1,H,NaN,NaN,NaN
+AZE,16/02/2008,11:00,FK Masalli,Inter Baku,0,3,A,NaN,NaN,NaN
+AZE,16/02/2008,11:00,ABN Barda,Olimpik Baku,1,1,D,NaN,NaN,NaN
+AZE,16/02/2008,11:00,Qarabağ FK,Simurq PFC,2,2,D,NaN,NaN,NaN
+AZE,16/02/2008,11:00,Genclerbirliyi Sumgayit,FK Baku,0,3,A,NaN,NaN,NaN
+AZE,17/02/2008,11:00,PFK Turan Tavuz,Neftçi PFK,0,1,A,NaN,NaN,NaN
+AZE,17/02/2008,11:00,Khazar Lankaran,FK Karvan,0,0,D,NaN,NaN,NaN
+AZE,17/02/2008,11:00,Gabala FK,Standard Baku,1,0,H,NaN,NaN,NaN
+AZE,23/02/2008,11:00,Khazar Lankaran,FK Masalli,4,1,H,NaN,NaN,NaN
+AZE,23/02/2008,11:00,Simurq PFC,ABN Barda,3,1,H,NaN,NaN,NaN
+AZE,23/02/2008,11:00,Olimpik Baku,PFK Turan Tavuz,3,0,H,NaN,NaN,NaN
+AZE,23/02/2008,13:00,Neftçi PFK,Genclerbirliyi Sumgayit,2,0,H,NaN,NaN,NaN
+AZE,24/02/2008,11:00,FK Baku,Gabala FK,3,0,H,NaN,NaN,NaN
+AZE,24/02/2008,11:00,Standard Baku,Inter Baku,1,2,A,NaN,NaN,NaN
+AZE,24/02/2008,11:00,FK Karvan,Qarabağ FK,0,0,D,NaN,NaN,NaN
+AZE,01/03/2008,11:00,FK Masalli,Standard Baku,1,1,D,NaN,NaN,NaN
+AZE,01/03/2008,11:00,Inter Baku,FK Baku,1,0,H,NaN,NaN,NaN
+AZE,01/03/2008,11:00,Genclerbirliyi Sumgayit,Olimpik Baku,0,1,A,NaN,NaN,NaN
+AZE,01/03/2008,11:00,ABN Barda,FK Karvan,2,0,H,NaN,NaN,NaN
+AZE,02/03/2008,11:00,Gabala FK,Neftçi PFK,2,3,A,NaN,NaN,NaN
+AZE,02/03/2008,11:00,PFK Turan Tavuz,Simurq PFC,1,2,A,NaN,NaN,NaN
+AZE,02/03/2008,11:00,Qarabağ FK,Khazar Lankaran,2,0,H,NaN,NaN,NaN
+AZE,15/03/2008,11:00,FK Karvan,PFK Turan Tavuz,1,0,H,NaN,NaN,NaN
+AZE,15/03/2008,11:00,Olimpik Baku,Gabala FK,2,0,H,NaN,NaN,NaN
+AZE,15/03/2008,11:00,Qarabağ FK,FK Masalli,1,1,D,NaN,NaN,NaN
+AZE,15/03/2008,13:15,Neftçi PFK,Inter Baku,2,0,H,NaN,NaN,NaN
+AZE,16/03/2008,11:00,Khazar Lankaran,ABN Barda,0,0,D,NaN,NaN,NaN
+AZE,16/03/2008,11:00,Simurq PFC,Genclerbirliyi Sumgayit,3,0,H,NaN,NaN,NaN
+AZE,16/03/2008,11:00,FK Baku,Standard Baku,0,1,A,NaN,NaN,NaN
+AZE,26/04/2008,12:00,Genclerbirliyi Sumgayit,FK Karvan,3,1,H,NaN,NaN,NaN
+AZE,26/04/2008,12:00,FK Masalli,FK Baku,2,0,H,NaN,NaN,NaN
+AZE,26/04/2008,12:00,ABN Barda,Qarabağ FK,0,3,A,NaN,NaN,NaN
+AZE,27/04/2008,12:00,Gabala FK,Simurq PFC,1,0,H,NaN,NaN,NaN
+AZE,27/04/2008,12:00,PFK Turan Tavuz,Khazar Lankaran,0,4,A,NaN,NaN,NaN
+AZE,27/04/2008,14:00,Standard Baku,Neftçi PFK,1,1,D,NaN,NaN,NaN
+AZE,28/04/2008,13:00,Inter Baku,Olimpik Baku,2,0,H,NaN,NaN,NaN
+AZE,29/03/2008,11:00,Simurq PFC,Inter Baku,3,4,A,NaN,NaN,NaN
+AZE,29/03/2008,11:00,ABN Barda,FK Masalli,1,2,A,NaN,NaN,NaN
+AZE,29/03/2008,11:00,Khazar Lankaran,Genclerbirliyi Sumgayit,5,0,H,NaN,NaN,NaN
+AZE,30/03/2008,12:00,Olimpik Baku,Standard Baku,1,0,H,NaN,NaN,NaN
+AZE,30/03/2008,12:00,Qarabağ FK,PFK Turan Tavuz,0,0,D,NaN,NaN,NaN
+AZE,30/03/2008,12:00,FK Karvan,Gabala FK,1,2,A,NaN,NaN,NaN
+AZE,30/03/2008,14:00,Neftçi PFK,FK Baku,3,2,H,NaN,NaN,NaN
+AZE,05/04/2008,12:00,Standard Baku,Simurq PFC,3,0,H,NaN,NaN,NaN
+AZE,05/04/2008,12:00,Gabala FK,Khazar Lankaran,1,1,D,NaN,NaN,NaN
+AZE,05/04/2008,12:00,PFK Turan Tavuz,ABN Barda,3,0,H,NaN,NaN,NaN
+AZE,05/04/2008,12:00,FK Masalli,Neftçi PFK,0,2,A,NaN,NaN,NaN
+AZE,06/04/2008,11:00,FK Baku,Olimpik Baku,0,1,A,NaN,NaN,NaN
+AZE,06/04/2008,11:00,Inter Baku,FK Karvan,3,1,H,NaN,NaN,NaN
+AZE,06/04/2008,11:00,Genclerbirliyi Sumgayit,Qarabağ FK,0,1,A,NaN,NaN,NaN
+AZE,12/04/2008,12:00,FK Karvan,Standard Baku,1,1,D,NaN,NaN,NaN
+AZE,12/04/2008,12:00,PFK Turan Tavuz,FK Masalli,0,0,D,NaN,NaN,NaN
+AZE,12/04/2008,12:00,ABN Barda,Genclerbirliyi Sumgayit,2,0,H,NaN,NaN,NaN
+AZE,13/04/2008,12:00,Olimpik Baku,Neftçi PFK,0,0,D,NaN,NaN,NaN
+AZE,13/04/2008,12:00,Qarabağ FK,Gabala FK,2,1,H,NaN,NaN,NaN
+AZE,13/04/2008,12:00,Simurq PFC,FK Baku,0,0,D,NaN,NaN,NaN
+AZE,13/04/2008,14:00,Khazar Lankaran,Inter Baku,3,1,H,NaN,NaN,NaN
+AZE,19/04/2008,12:00,Gabala FK,ABN Barda,2,0,H,NaN,NaN,NaN
+AZE,19/04/2008,12:00,Genclerbirliyi Sumgayit,PFK Turan Tavuz,1,1,D,NaN,NaN,NaN
+AZE,19/04/2008,12:00,FK Masalli,Olimpik Baku,1,2,A,NaN,NaN,NaN
+AZE,19/04/2008,12:00,Simurq PFC,Neftçi PFK,0,0,D,NaN,NaN,NaN
+AZE,19/04/2008,12:00,Inter Baku,Qarabağ FK,1,0,H,NaN,NaN,NaN
+AZE,20/04/2008,12:00,Standard Baku,Khazar Lankaran,0,1,A,NaN,NaN,NaN
+AZE,20/04/2008,14:00,FK Baku,FK Karvan,3,3,D,NaN,NaN,NaN
+AZE,03/05/2008,13:00,ABN Barda,Inter Baku,1,4,A,NaN,NaN,NaN
+AZE,03/05/2008,13:00,Genclerbirliyi Sumgayit,FK Masalli,1,0,H,NaN,NaN,NaN
+AZE,03/05/2008,13:00,PFK Turan Tavuz,Gabala FK,4,2,H,NaN,NaN,NaN
+AZE,04/05/2008,12:00,Qarabağ FK,Standard Baku,1,0,H,NaN,NaN,NaN
+AZE,04/05/2008,12:00,Khazar Lankaran,FK Baku,0,0,D,NaN,NaN,NaN
+AZE,04/05/2008,12:00,FK Karvan,Neftçi PFK,0,1,A,NaN,NaN,NaN
+AZE,04/05/2008,12:00,Simurq PFC,Olimpik Baku,0,0,D,NaN,NaN,NaN
+AZE,09/05/2008,13:00,Standard Baku,ABN Barda,6,0,H,NaN,NaN,NaN
+AZE,11/05/2008,13:00,Inter Baku,PFK Turan Tavuz,3,1,H,NaN,NaN,NaN
+AZE,11/05/2008,13:00,FK Masalli,Simurq PFC,1,1,D,NaN,NaN,NaN
+AZE,11/05/2008,16:00,Neftçi PFK,Khazar Lankaran,0,1,A,NaN,NaN,NaN
+AZE,12/05/2008,13:00,Olimpik Baku,FK Karvan,2,0,H,NaN,NaN,NaN
+AZE,12/05/2008,13:00,Gabala FK,Genclerbirliyi Sumgayit,2,2,D,NaN,NaN,NaN
+AZE,12/05/2008,14:00,FK Baku,Qarabağ FK,0,0,D,NaN,NaN,NaN
+AZE,17/05/2008,12:00,Qarabağ FK,Neftçi PFK,0,0,D,NaN,NaN,NaN
+AZE,17/05/2008,12:00,ABN Barda,FK Baku,0,4,A,NaN,NaN,NaN
+AZE,17/05/2008,13:00,Khazar Lankaran,Olimpik Baku,0,0,D,NaN,NaN,NaN
+AZE,18/05/2008,13:00,Genclerbirliyi Sumgayit,Inter Baku,0,3,A,NaN,NaN,NaN
+AZE,18/05/2008,13:00,FK Karvan,Simurq PFC,1,1,D,NaN,NaN,NaN
+AZE,18/05/2008,13:00,Gabala FK,FK Masalli,1,1,D,NaN,NaN,NaN
+AZE,18/05/2008,13:00,PFK Turan Tavuz,Standard Baku,0,2,A,NaN,NaN,NaN
+AZE,27/05/2008,13:00,Standard Baku,Genclerbirliyi Sumgayit,3,2,H,NaN,NaN,NaN
+AZE,27/05/2008,13:00,FK Masalli,FK Karvan,4,1,H,NaN,NaN,NaN
+AZE,27/05/2008,13:00,FK Baku,PFK Turan Tavuz,2,2,D,NaN,NaN,NaN
+AZE,28/05/2008,12:00,Olimpik Baku,Qarabağ FK,0,1,A,NaN,NaN,NaN
+AZE,28/05/2008,13:00,Neftçi PFK,ABN Barda,3,0,H,NaN,NaN,NaN
+AZE,28/05/2008,13:00,Simurq PFC,Khazar Lankaran,1,1,D,NaN,NaN,NaN
+AZE,28/05/2008,16:00,Inter Baku,Gabala FK,4,0,H,NaN,NaN,NaN

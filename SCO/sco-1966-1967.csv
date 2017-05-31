@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,10/09/1966,,Airdrieonians FC (old),Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,10/09/1966,,Ayr United,Dunfermline Athletic,0,0,D,NaN,NaN,NaN
+SCO,10/09/1966,,Clyde FC,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,10/09/1966,,Dundee FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,10/09/1966,,Hibernian FC,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,10/09/1966,,Rangers FC,Partick Thistle,6,1,H,NaN,NaN,NaN
+SCO,10/09/1966,,St. Johnstone FC,Dundee United,2,0,H,NaN,NaN,NaN
+SCO,10/09/1966,,St. Mirren FC,Kilmarnock FC,3,2,H,NaN,NaN,NaN
+SCO,10/09/1966,,Stirling Albion FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,17/09/1966,,Aberdeen FC,St. Johnstone FC,3,2,H,NaN,NaN,NaN
+SCO,17/09/1966,,Celtic FC,Rangers FC,2,0,H,NaN,NaN,NaN
+SCO,17/09/1966,,Dundee United,Dundee FC,1,4,A,NaN,NaN,NaN
+SCO,17/09/1966,,Dunfermline Athletic,Hibernian FC,5,6,A,NaN,NaN,NaN
+SCO,17/09/1966,,Falkirk FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,17/09/1966,,Heart of Midlothian,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,17/09/1966,,Kilmarnock FC,Ayr United,1,0,H,NaN,NaN,NaN
+SCO,17/09/1966,,Motherwell FC,Stirling Albion FC,1,1,D,NaN,NaN,NaN
+SCO,17/09/1966,,Partick Thistle,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,24/09/1966,,Airdrieonians FC (old),Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,24/09/1966,,Ayr United,Dundee United,0,7,A,NaN,NaN,NaN
+SCO,24/09/1966,,Clyde FC,Kilmarnock FC,1,3,A,NaN,NaN,NaN
+SCO,24/09/1966,,Dundee FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,24/09/1966,,Hibernian FC,Partick Thistle,7,0,H,NaN,NaN,NaN
+SCO,24/09/1966,,Rangers FC,Aberdeen FC,3,0,H,NaN,NaN,NaN
+SCO,24/09/1966,,St. Johnstone FC,Dunfermline Athletic,3,3,D,NaN,NaN,NaN
+SCO,24/09/1966,,St. Mirren FC,Motherwell FC,0,5,A,NaN,NaN,NaN
+SCO,24/09/1966,,Stirling Albion FC,Heart of Midlothian,0,3,A,NaN,NaN,NaN
+SCO,01/10/1966,,Aberdeen FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,01/10/1966,,Celtic FC,St. Johnstone FC,6,1,H,NaN,NaN,NaN
+SCO,01/10/1966,,Dundee United,Rangers FC,2,3,A,NaN,NaN,NaN
+SCO,01/10/1966,,Dunfermline Athletic,Airdrieonians FC (old),0,1,A,NaN,NaN,NaN
+SCO,01/10/1966,,Falkirk FC,Ayr United,5,3,H,NaN,NaN,NaN
+SCO,01/10/1966,,Heart of Midlothian,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,01/10/1966,,Kilmarnock FC,Stirling Albion FC,2,1,H,NaN,NaN,NaN
+SCO,01/10/1966,,Motherwell FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,01/10/1966,,Partick Thistle,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,08/10/1966,,Airdrieonians FC (old),St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,08/10/1966,,Ayr United,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,08/10/1966,,Clyde FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,08/10/1966,,Dundee FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,08/10/1966,,Dunfermline Athletic,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,08/10/1966,,Hibernian FC,Celtic FC,3,5,A,NaN,NaN,NaN
+SCO,08/10/1966,,Rangers FC,Falkirk FC,5,0,H,NaN,NaN,NaN
+SCO,08/10/1966,,St. Johnstone FC,Partick Thistle,3,5,A,NaN,NaN,NaN
+SCO,08/10/1966,,Stirling Albion FC,Dundee United,1,4,A,NaN,NaN,NaN
+SCO,15/10/1966,,Aberdeen FC,Ayr United,2,0,H,NaN,NaN,NaN
+SCO,15/10/1966,,Celtic FC,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,15/10/1966,,Dundee United,Clyde FC,4,3,H,NaN,NaN,NaN
+SCO,15/10/1966,,Falkirk FC,Dundee FC,3,2,H,NaN,NaN,NaN
+SCO,15/10/1966,,Heart of Midlothian,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,15/10/1966,,Kilmarnock FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,15/10/1966,,Motherwell FC,St. Johnstone FC,3,3,D,NaN,NaN,NaN
+SCO,15/10/1966,,Partick Thistle,Stirling Albion FC,2,0,H,NaN,NaN,NaN
+SCO,15/10/1966,,St. Mirren FC,Dunfermline Athletic,0,5,A,NaN,NaN,NaN
+SCO,22/10/1966,,Airdrieonians FC (old),Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,22/10/1966,,Clyde FC,Falkirk FC,4,0,H,NaN,NaN,NaN
+SCO,22/10/1966,,Dundee FC,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,22/10/1966,,Dunfermline Athletic,Partick Thistle,3,2,H,NaN,NaN,NaN
+SCO,22/10/1966,,Hibernian FC,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,22/10/1966,,St. Johnstone FC,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,22/10/1966,,Stirling Albion FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,24/10/1966,,Celtic FC,Ayr United,5,1,H,NaN,NaN,NaN
+SCO,29/10/1966,,Aberdeen FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,29/10/1966,,Dundee United,Dunfermline Athletic,2,4,A,NaN,NaN,NaN
+SCO,29/10/1966,,Falkirk FC,St. Johnstone FC,0,3,A,NaN,NaN,NaN
+SCO,29/10/1966,,Heart of Midlothian,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,29/10/1966,,Kilmarnock FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,29/10/1966,,Motherwell FC,Ayr United,0,0,D,NaN,NaN,NaN
+SCO,29/10/1966,,Partick Thistle,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,02/11/1966,,Celtic FC,Stirling Albion FC,7,3,H,NaN,NaN,NaN
+SCO,02/11/1966,,St. Mirren FC,Rangers FC,1,6,A,NaN,NaN,NaN
+SCO,05/11/1966,,Aberdeen FC,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,05/11/1966,,Airdrieonians FC (old),Dundee United,2,2,D,NaN,NaN,NaN
+SCO,05/11/1966,,Celtic FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,05/11/1966,,Dundee FC,St. Johnstone FC,4,0,H,NaN,NaN,NaN
+SCO,05/11/1966,,Dunfermline Athletic,Clyde FC,4,0,H,NaN,NaN,NaN
+SCO,05/11/1966,,Hibernian FC,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,05/11/1966,,Kilmarnock FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,05/11/1966,,Rangers FC,Motherwell FC,5,1,H,NaN,NaN,NaN
+SCO,05/11/1966,,Stirling Albion FC,Ayr United,1,1,D,NaN,NaN,NaN
+SCO,09/11/1966,,Rangers FC,Kilmarnock FC,3,0,H,NaN,NaN,NaN
+SCO,12/11/1966,,Airdrieonians FC (old),Stirling Albion FC,7,0,H,NaN,NaN,NaN
+SCO,12/11/1966,,Ayr United,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,12/11/1966,,Clyde FC,Hibernian FC,5,1,H,NaN,NaN,NaN
+SCO,12/11/1966,,Dundee United,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,12/11/1966,,Falkirk FC,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,12/11/1966,,Heart of Midlothian,Dunfermline Athletic,1,1,D,NaN,NaN,NaN
+SCO,12/11/1966,,Partick Thistle,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,12/11/1966,,St. Johnstone FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,12/11/1966,,St. Mirren FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,19/11/1966,,Aberdeen FC,Partick Thistle,5,2,H,NaN,NaN,NaN
+SCO,19/11/1966,,Clyde FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,19/11/1966,,Dundee FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,19/11/1966,,Dunfermline Athletic,Celtic FC,4,5,A,NaN,NaN,NaN
+SCO,19/11/1966,,Heart of Midlothian,St. Mirren FC,4,0,H,NaN,NaN,NaN
+SCO,19/11/1966,,Kilmarnock FC,Falkirk FC,3,0,H,NaN,NaN,NaN
+SCO,19/11/1966,,Motherwell FC,Dundee United,1,1,D,NaN,NaN,NaN
+SCO,19/11/1966,,Rangers FC,Ayr United,4,0,H,NaN,NaN,NaN
+SCO,19/11/1966,,Stirling Albion FC,St. Johnstone FC,2,1,H,NaN,NaN,NaN
+SCO,26/11/1966,,Ayr United,Airdrieonians FC (old),0,1,A,NaN,NaN,NaN
+SCO,26/11/1966,,Celtic FC,Heart of Midlothian,3,0,H,NaN,NaN,NaN
+SCO,26/11/1966,,Dundee United,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,26/11/1966,,Hibernian FC,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,26/11/1966,,Motherwell FC,Dunfermline Athletic,6,2,H,NaN,NaN,NaN
+SCO,26/11/1966,,Partick Thistle,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,26/11/1966,,St. Johnstone FC,Kilmarnock FC,1,3,A,NaN,NaN,NaN
+SCO,26/11/1966,,St. Mirren FC,Clyde FC,1,3,A,NaN,NaN,NaN
+SCO,26/11/1966,,Stirling Albion FC,Dundee FC,2,3,A,NaN,NaN,NaN
+SCO,03/12/1966,,Aberdeen FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,03/12/1966,,Airdrieonians FC (old),St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,03/12/1966,,Clyde FC,Ayr United,0,0,D,NaN,NaN,NaN
+SCO,03/12/1966,,Dundee FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,03/12/1966,,Dunfermline Athletic,Rangers FC,3,2,H,NaN,NaN,NaN
+SCO,03/12/1966,,Falkirk FC,Dundee United,0,3,A,NaN,NaN,NaN
+SCO,03/12/1966,,Hibernian FC,Stirling Albion FC,6,0,H,NaN,NaN,NaN
+SCO,03/12/1966,,Kilmarnock FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,03/12/1966,,Partick Thistle,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,10/12/1966,,Airdrieonians FC (old),Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,10/12/1966,,Celtic FC,Motherwell FC,4,2,H,NaN,NaN,NaN
+SCO,10/12/1966,,Dundee FC,Clyde FC,3,4,A,NaN,NaN,NaN
+SCO,10/12/1966,,Falkirk FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,10/12/1966,,Heart of Midlothian,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,10/12/1966,,Kilmarnock FC,Dunfermline Athletic,1,1,D,NaN,NaN,NaN
+SCO,10/12/1966,,Rangers FC,Stirling Albion FC,4,0,H,NaN,NaN,NaN
+SCO,10/12/1966,,St. Mirren FC,Hibernian FC,1,3,A,NaN,NaN,NaN
+SCO,17/12/1966,,Ayr United,Hibernian FC,0,2,A,NaN,NaN,NaN
+SCO,17/12/1966,,Celtic FC,Partick Thistle,6,2,H,NaN,NaN,NaN
+SCO,17/12/1966,,Dundee United,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,17/12/1966,,Dunfermline Athletic,Dundee FC,0,1,A,NaN,NaN,NaN
+SCO,17/12/1966,,Heart of Midlothian,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,17/12/1966,,Motherwell FC,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,17/12/1966,,Rangers FC,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,17/12/1966,,St. Johnstone FC,Clyde FC,2,4,A,NaN,NaN,NaN
+SCO,17/12/1966,,Stirling Albion FC,Aberdeen FC,2,6,A,NaN,NaN,NaN
+SCO,24/12/1966,,Aberdeen FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,24/12/1966,,Dundee FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,24/12/1966,,Hibernian FC,St. Johnstone FC,2,5,A,NaN,NaN,NaN
+SCO,24/12/1966,,Kilmarnock FC,Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,24/12/1966,,St. Mirren FC,Ayr United,3,1,H,NaN,NaN,NaN
+SCO,31/12/1966,,Aberdeen FC,Kilmarnock FC,4,0,H,NaN,NaN,NaN
+SCO,31/12/1966,,Airdrieonians FC (old),Hibernian FC,0,1,A,NaN,NaN,NaN
+SCO,31/12/1966,,Ayr United,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,31/12/1966,,Clyde FC,Stirling Albion FC,0,1,A,NaN,NaN,NaN
+SCO,31/12/1966,,Dundee United,Celtic FC,3,2,H,NaN,NaN,NaN
+SCO,31/12/1966,,Falkirk FC,Dunfermline Athletic,1,0,H,NaN,NaN,NaN
+SCO,31/12/1966,,Heart of Midlothian,Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,31/12/1966,,Rangers FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,31/12/1966,,St. Johnstone FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,02/01/1967,,Aberdeen FC,Dundee FC,5,2,H,NaN,NaN,NaN
+SCO,02/01/1967,,Dundee United,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,02/01/1967,,Dunfermline Athletic,Ayr United,6,0,H,NaN,NaN,NaN
+SCO,02/01/1967,,Falkirk FC,Stirling Albion FC,1,1,D,NaN,NaN,NaN
+SCO,02/01/1967,,Heart of Midlothian,Hibernian FC,0,0,D,NaN,NaN,NaN
+SCO,02/01/1967,,Kilmarnock FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,02/01/1967,,Motherwell FC,Airdrieonians FC (old),2,2,D,NaN,NaN,NaN
+SCO,02/01/1967,,Partick Thistle,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,03/01/1967,,Ayr United,Kilmarnock FC,2,3,A,NaN,NaN,NaN
+SCO,03/01/1967,,Dundee FC,Dundee United,2,3,A,NaN,NaN,NaN
+SCO,03/01/1967,,Hibernian FC,Dunfermline Athletic,2,0,H,NaN,NaN,NaN
+SCO,03/01/1967,,St. Johnstone FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,03/01/1967,,Stirling Albion FC,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,07/01/1967,,Celtic FC,Dundee FC,5,1,H,NaN,NaN,NaN
+SCO,07/01/1967,,Dundee United,Ayr United,4,0,H,NaN,NaN,NaN
+SCO,07/01/1967,,Kilmarnock FC,Clyde FC,1,3,A,NaN,NaN,NaN
+SCO,07/01/1967,,Partick Thistle,Hibernian FC,1,4,A,NaN,NaN,NaN
+SCO,11/01/1967,,Celtic FC,Clyde FC,5,1,H,NaN,NaN,NaN
+SCO,14/01/1967,,Airdrieonians FC (old),Dunfermline Athletic,0,3,A,NaN,NaN,NaN
+SCO,14/01/1967,,Ayr United,Falkirk FC,0,1,A,NaN,NaN,NaN
+SCO,14/01/1967,,Clyde FC,Aberdeen FC,0,0,D,NaN,NaN,NaN
+SCO,14/01/1967,,Dundee FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,14/01/1967,,Hibernian FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,14/01/1967,,Rangers FC,Dundee United,3,1,H,NaN,NaN,NaN
+SCO,14/01/1967,,St. Johnstone FC,Celtic FC,0,4,A,NaN,NaN,NaN
+SCO,14/01/1967,,St. Mirren FC,Partick Thistle,0,3,A,NaN,NaN,NaN
+SCO,14/01/1967,,Stirling Albion FC,Kilmarnock FC,1,4,A,NaN,NaN,NaN
+SCO,18/01/1967,,Aberdeen FC,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,21/01/1967,,Aberdeen FC,Dunfermline Athletic,1,2,A,NaN,NaN,NaN
+SCO,21/01/1967,,Celtic FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,21/01/1967,,Dundee United,Stirling Albion FC,2,0,H,NaN,NaN,NaN
+SCO,21/01/1967,,Falkirk FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,21/01/1967,,Heart of Midlothian,Ayr United,1,0,H,NaN,NaN,NaN
+SCO,21/01/1967,,Kilmarnock FC,Dundee FC,4,4,D,NaN,NaN,NaN
+SCO,21/01/1967,,Motherwell FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,21/01/1967,,Partick Thistle,St. Johnstone FC,3,0,H,NaN,NaN,NaN
+SCO,21/01/1967,,St. Mirren FC,Airdrieonians FC (old),0,3,A,NaN,NaN,NaN
+SCO,04/02/1967,,Airdrieonians FC (old),Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,04/02/1967,,Ayr United,Aberdeen FC,2,5,A,NaN,NaN,NaN
+SCO,04/02/1967,,Clyde FC,Dundee United,2,0,H,NaN,NaN,NaN
+SCO,04/02/1967,,Dundee FC,Falkirk FC,4,1,H,NaN,NaN,NaN
+SCO,04/02/1967,,Dunfermline Athletic,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,04/02/1967,,Hibernian FC,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,04/02/1967,,Rangers FC,Heart of Midlothian,5,1,H,NaN,NaN,NaN
+SCO,04/02/1967,,St. Johnstone FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,04/02/1967,,Stirling Albion FC,Partick Thistle,1,3,A,NaN,NaN,NaN
+SCO,08/02/1967,,Clyde FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,11/02/1967,,Aberdeen FC,Airdrieonians FC (old),7,0,H,NaN,NaN,NaN
+SCO,11/02/1967,,Ayr United,Celtic FC,0,5,A,NaN,NaN,NaN
+SCO,11/02/1967,,Dundee United,Hibernian FC,1,3,A,NaN,NaN,NaN
+SCO,11/02/1967,,Falkirk FC,Clyde FC,0,2,A,NaN,NaN,NaN
+SCO,11/02/1967,,Heart of Midlothian,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,11/02/1967,,Kilmarnock FC,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,11/02/1967,,Motherwell FC,Dundee FC,5,3,H,NaN,NaN,NaN
+SCO,11/02/1967,,Partick Thistle,Dunfermline Athletic,0,0,D,NaN,NaN,NaN
+SCO,11/02/1967,,St. Mirren FC,Stirling Albion FC,4,0,H,NaN,NaN,NaN
+SCO,25/02/1967,,Airdrieonians FC (old),Kilmarnock FC,1,4,A,NaN,NaN,NaN
+SCO,25/02/1967,,Clyde FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,25/02/1967,,Dundee FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,25/02/1967,,Dunfermline Athletic,Dundee United,3,3,D,NaN,NaN,NaN
+SCO,25/02/1967,,Hibernian FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,25/02/1967,,Rangers FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,25/02/1967,,St. Johnstone FC,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,25/02/1967,,Stirling Albion FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,01/03/1967,,Ayr United,Motherwell FC,3,3,D,NaN,NaN,NaN
+SCO,04/03/1967,,Ayr United,Stirling Albion FC,0,1,A,NaN,NaN,NaN
+SCO,04/03/1967,,Clyde FC,Dunfermline Athletic,1,0,H,NaN,NaN,NaN
+SCO,04/03/1967,,Dundee United,Airdrieonians FC (old),3,1,H,NaN,NaN,NaN
+SCO,04/03/1967,,Falkirk FC,Hibernian FC,0,2,A,NaN,NaN,NaN
+SCO,04/03/1967,,Heart of Midlothian,Aberdeen FC,0,3,A,NaN,NaN,NaN
+SCO,04/03/1967,,Motherwell FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,04/03/1967,,Partick Thistle,Kilmarnock FC,1,2,A,NaN,NaN,NaN
+SCO,04/03/1967,,St. Johnstone FC,Dundee FC,0,3,A,NaN,NaN,NaN
+SCO,04/03/1967,,St. Mirren FC,Celtic FC,0,5,A,NaN,NaN,NaN
+SCO,07/03/1967,,Airdrieonians FC (old),Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,10/03/1967,,Dundee FC,Ayr United,3,0,H,NaN,NaN,NaN
+SCO,11/03/1967,,Motherwell FC,Partick Thistle,5,0,H,NaN,NaN,NaN
+SCO,11/03/1967,,St. Mirren FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,11/03/1967,,Stirling Albion FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,18/03/1967,,Airdrieonians FC (old),Clyde FC,2,3,A,NaN,NaN,NaN
+SCO,18/03/1967,,Ayr United,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,18/03/1967,,Celtic FC,Dunfermline Athletic,3,2,H,NaN,NaN,NaN
+SCO,18/03/1967,,Dundee United,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,18/03/1967,,Falkirk FC,Kilmarnock FC,0,1,A,NaN,NaN,NaN
+SCO,18/03/1967,,Hibernian FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,18/03/1967,,Partick Thistle,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,18/03/1967,,St. Johnstone FC,Stirling Albion FC,4,1,H,NaN,NaN,NaN
+SCO,18/03/1967,,St. Mirren FC,Heart of Midlothian,3,0,H,NaN,NaN,NaN
+SCO,20/03/1967,,Celtic FC,Falkirk FC,5,0,H,NaN,NaN,NaN
+SCO,20/03/1967,,Kilmarnock FC,Dundee United,4,0,H,NaN,NaN,NaN
+SCO,22/03/1967,,Dunfermline Athletic,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,25/03/1967,,Aberdeen FC,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,25/03/1967,,Airdrieonians FC (old),Ayr United,3,1,H,NaN,NaN,NaN
+SCO,25/03/1967,,Clyde FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,25/03/1967,,Dundee FC,Stirling Albion FC,2,0,H,NaN,NaN,NaN
+SCO,25/03/1967,,Dunfermline Athletic,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,25/03/1967,,Falkirk FC,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,25/03/1967,,Heart of Midlothian,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,25/03/1967,,Kilmarnock FC,St. Johnstone FC,5,3,H,NaN,NaN,NaN
+SCO,25/03/1967,,Rangers FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,27/03/1967,,Aberdeen FC,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,27/03/1967,,Partick Thistle,Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,28/03/1967,,Hibernian FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,29/03/1967,,Rangers FC,St. Johnstone FC,4,3,H,NaN,NaN,NaN
+SCO,29/03/1967,,Stirling Albion FC,Dunfermline Athletic,1,1,D,NaN,NaN,NaN
+SCO,01/04/1967,,Heart of Midlothian,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,01/04/1967,,Motherwell FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,01/04/1967,,Rangers FC,Dunfermline Athletic,0,1,A,NaN,NaN,NaN
+SCO,01/04/1967,,St. Johnstone FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,01/04/1967,,St. Mirren FC,Dundee FC,0,5,A,NaN,NaN,NaN
+SCO,01/04/1967,,Stirling Albion FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,04/04/1967,,Motherwell FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,05/04/1967,,Dundee United,Falkirk FC,4,4,D,NaN,NaN,NaN
+SCO,05/04/1967,,Dunfermline Athletic,St. Johnstone FC,4,1,H,NaN,NaN,NaN
+SCO,08/04/1967,,Aberdeen FC,Falkirk FC,6,1,H,NaN,NaN,NaN
+SCO,08/04/1967,,Ayr United,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,08/04/1967,,Clyde FC,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,08/04/1967,,Dundee United,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,08/04/1967,,Dunfermline Athletic,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,08/04/1967,,Hibernian FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,08/04/1967,,Motherwell FC,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,08/04/1967,,Partick Thistle,Airdrieonians FC (old),2,2,D,NaN,NaN,NaN
+SCO,08/04/1967,,Stirling Albion FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,11/04/1967,,Clyde FC,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,12/04/1967,,Dundee FC,Dunfermline Athletic,3,1,H,NaN,NaN,NaN
+SCO,12/04/1967,,Falkirk FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,12/04/1967,,Kilmarnock FC,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,12/04/1967,,St. Mirren FC,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,15/04/1967,,Aberdeen FC,Stirling Albion FC,1,0,H,NaN,NaN,NaN
+SCO,15/04/1967,,Hibernian FC,Ayr United,4,1,H,NaN,NaN,NaN
+SCO,19/04/1967,,Ayr United,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,19/04/1967,,Celtic FC,Aberdeen FC,0,0,D,NaN,NaN,NaN
+SCO,19/04/1967,,Falkirk FC,Airdrieonians FC (old),2,1,H,NaN,NaN,NaN
+SCO,19/04/1967,,Heart of Midlothian,Stirling Albion FC,5,1,H,NaN,NaN,NaN
+SCO,19/04/1967,,Motherwell FC,St. Mirren FC,4,0,H,NaN,NaN,NaN
+SCO,22/04/1967,,Airdrieonians FC (old),Dundee FC,1,4,A,NaN,NaN,NaN
+SCO,22/04/1967,,Ayr United,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,22/04/1967,,Dundee United,Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,22/04/1967,,Dunfermline Athletic,Stirling Albion FC,3,3,D,NaN,NaN,NaN
+SCO,22/04/1967,,Falkirk FC,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,22/04/1967,,Heart of Midlothian,Kilmarnock FC,1,0,H,NaN,NaN,NaN
+SCO,22/04/1967,,Rangers FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,22/04/1967,,St. Johnstone FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,26/04/1967,,Airdrieonians FC (old),Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,26/04/1967,,Clyde FC,Partick Thistle,4,1,H,NaN,NaN,NaN
+SCO,26/04/1967,,St. Johnstone FC,Ayr United,3,0,H,NaN,NaN,NaN
+SCO,27/04/1967,,Partick Thistle,Ayr United,4,1,H,NaN,NaN,NaN
+SCO,27/04/1967,,St. Mirren FC,St. Johnstone FC,0,0,D,NaN,NaN,NaN
+SCO,29/04/1967,,Dundee FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,29/04/1967,,Dunfermline Athletic,Falkirk FC,4,0,H,NaN,NaN,NaN
+SCO,29/04/1967,,Hibernian FC,Airdrieonians FC (old),0,2,A,NaN,NaN,NaN
+SCO,29/04/1967,,Motherwell FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,29/04/1967,,Stirling Albion FC,Clyde FC,2,5,A,NaN,NaN,NaN
+SCO,01/05/1967,,Kilmarnock FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,03/05/1967,,Celtic FC,Dundee United,2,3,A,NaN,NaN,NaN
+SCO,06/05/1967,,Partick Thistle,Dundee United,3,0,H,NaN,NaN,NaN
+SCO,06/05/1967,,Rangers FC,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,15/05/1967,,Celtic FC,Kilmarnock FC,2,0,H,NaN,NaN,NaN

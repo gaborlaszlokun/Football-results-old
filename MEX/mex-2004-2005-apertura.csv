@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,14/08/2004,21:00,Jaguares Chiapas,UANL Tigres,1,1,D,1,0,H
+MEX,14/08/2004,23:00,Monarcas Morelia,CF Pachuca,0,2,A,0,1,A
+MEX,15/08/2004,01:00,Deportivo Guadalajara,CF Atlante,7,0,H,4,0,H
+MEX,15/08/2004,02:30,Club Necaxa,Deportivo Toluca,0,1,A,0,1,A
+MEX,15/08/2004,03:00,CF Monterrey,Veracruz (old),2,0,H,1,0,H
+MEX,15/08/2004,18:00,Pumas UNAM,UAG Tecos,0,1,A,0,0,D
+MEX,15/08/2004,20:00,Puebla FC,Cruz Azul,3,1,H,0,0,D
+MEX,15/08/2004,22:00,Santos Laguna,Atlas Guadalajara,2,0,H,1,0,H
+MEX,16/08/2004,01:00,CF América,Dorados de Sinaloa,3,2,H,2,0,H
+MEX,22/08/2004,00:00,Dorados de Sinaloa,Santos Laguna,2,1,H,0,0,D
+MEX,22/08/2004,02:45,Atlas Guadalajara,Puebla FC,0,1,A,0,0,D
+MEX,22/08/2004,03:00,UANL Tigres,CF Monterrey,6,2,H,2,2,D
+MEX,22/08/2004,18:00,CF Pachuca,Deportivo Guadalajara,1,1,D,1,0,H
+MEX,22/08/2004,18:00,CF Atlante,Pumas UNAM,0,1,A,0,0,D
+MEX,22/08/2004,22:00,UAG Tecos,CF América,1,0,H,0,0,D
+MEX,24/08/2004,21:00,Deportivo Toluca,Monarcas Morelia,3,1,H,1,1,D
+MEX,04/09/2004,02:30,Veracruz (old),Club Necaxa,1,0,H,1,0,H
+MEX,07/09/2004,02:00,Cruz Azul,Jaguares Chiapas,3,4,A,1,1,D
+MEX,28/08/2004,21:00,Jaguares Chiapas,Atlas Guadalajara,1,2,A,0,2,A
+MEX,28/08/2004,23:00,CF Monterrey,Cruz Azul,3,0,H,1,0,H
+MEX,28/08/2004,23:00,Monarcas Morelia,Veracruz (old),1,2,A,0,2,A
+MEX,29/08/2004,01:00,Deportivo Guadalajara,Deportivo Toluca,1,1,D,0,0,D
+MEX,29/08/2004,02:30,Club Necaxa,UANL Tigres,2,1,H,0,0,D
+MEX,29/08/2004,20:00,Puebla FC,Dorados de Sinaloa,1,1,D,0,1,A
+MEX,29/08/2004,20:00,CF Atlante,UAG Tecos,4,0,H,0,0,D
+MEX,29/08/2004,22:00,Santos Laguna,CF América,1,1,D,0,0,D
+MEX,09/09/2004,02:30,Pumas UNAM,CF Pachuca,2,3,A,2,0,H
+MEX,11/09/2004,21:00,Deportivo Toluca,Pumas UNAM,0,1,A,0,0,D
+MEX,11/09/2004,23:00,Cruz Azul,Club Necaxa,0,1,A,0,1,A
+MEX,12/09/2004,01:00,Dorados de Sinaloa,Jaguares Chiapas,0,0,D,0,0,D
+MEX,12/09/2004,01:00,UANL Tigres,Monarcas Morelia,3,0,H,1,0,H
+MEX,12/09/2004,01:00,Veracruz (old),Deportivo Guadalajara,1,0,H,1,0,H
+MEX,12/09/2004,02:45,Atlas Guadalajara,CF Monterrey,3,3,D,1,1,D
+MEX,12/09/2004,18:00,CF América,Puebla FC,0,1,A,0,1,A
+MEX,12/09/2004,18:00,CF Pachuca,CF Atlante,1,1,D,1,1,D
+MEX,12/09/2004,22:00,UAG Tecos,Santos Laguna,1,0,H,0,0,D
+MEX,15/09/2004,21:00,Pumas UNAM,Veracruz (old),2,3,A,2,2,D
+MEX,15/09/2004,23:00,CF Atlante,Deportivo Toluca,2,1,H,2,0,H
+MEX,16/09/2004,00:15,CF Pachuca,UAG Tecos,2,0,H,1,0,H
+MEX,16/09/2004,01:00,Club Necaxa,Atlas Guadalajara,0,2,A,0,1,A
+MEX,16/09/2004,02:00,Monarcas Morelia,Cruz Azul,1,1,D,1,1,D
+MEX,16/09/2004,02:30,CF Monterrey,Dorados de Sinaloa,6,2,H,3,1,H
+MEX,16/09/2004,02:45,Deportivo Guadalajara,UANL Tigres,3,1,H,3,0,H
+MEX,16/09/2004,20:00,Puebla FC,Santos Laguna,1,0,H,0,0,D
+MEX,16/09/2004,21:00,Jaguares Chiapas,CF América,2,1,H,1,0,H
+MEX,18/09/2004,21:00,Deportivo Toluca,CF Pachuca,3,2,H,1,2,A
+MEX,18/09/2004,23:00,Cruz Azul,Deportivo Guadalajara,2,4,A,1,3,A
+MEX,19/09/2004,00:00,Dorados de Sinaloa,Club Necaxa,3,2,H,1,1,D
+MEX,19/09/2004,01:00,UANL Tigres,Pumas UNAM,3,1,H,0,1,A
+MEX,19/09/2004,01:00,Veracruz (old),CF Atlante,6,2,H,1,0,H
+MEX,19/09/2004,02:45,Atlas Guadalajara,Monarcas Morelia,3,3,D,2,1,H
+MEX,19/09/2004,18:00,CF América,CF Monterrey,1,0,H,0,0,D
+MEX,19/09/2004,18:00,UAG Tecos,Puebla FC,1,1,D,0,1,A
+MEX,19/09/2004,22:00,Santos Laguna,Jaguares Chiapas,4,2,H,3,2,H
+MEX,25/09/2004,21:00,Jaguares Chiapas,Puebla FC,1,1,D,1,0,H
+MEX,25/09/2004,21:00,Deportivo Toluca,UAG Tecos,1,1,D,1,0,H
+MEX,25/09/2004,23:00,CF Monterrey,Santos Laguna,1,0,H,0,0,D
+MEX,25/09/2004,23:00,Monarcas Morelia,Dorados de Sinaloa,3,2,H,2,1,H
+MEX,26/09/2004,01:00,Deportivo Guadalajara,Atlas Guadalajara,1,3,A,0,0,D
+MEX,26/09/2004,02:30,Club Necaxa,CF América,4,1,H,2,0,H
+MEX,26/09/2004,18:00,Pumas UNAM,Cruz Azul,1,3,A,1,1,D
+MEX,26/09/2004,20:00,CF Atlante,UANL Tigres,1,2,A,0,2,A
+MEX,26/09/2004,22:00,CF Pachuca,Veracruz (old),1,2,A,1,0,H
+MEX,29/09/2004,20:00,Puebla FC,CF Monterrey,1,1,D,0,0,D
+MEX,29/09/2004,21:00,UAG Tecos,Jaguares Chiapas,0,1,A,0,1,A
+MEX,29/09/2004,23:00,Santos Laguna,Club Necaxa,1,1,D,1,1,D
+MEX,30/09/2004,01:00,Veracruz (old),Deportivo Toluca,1,0,H,1,0,H
+MEX,30/09/2004,02:30,CF América,Monarcas Morelia,2,3,A,0,2,A
+MEX,30/09/2004,02:45,UANL Tigres,CF Pachuca,0,0,D,0,0,D
+MEX,30/09/2004,03:00,Dorados de Sinaloa,Deportivo Guadalajara,2,0,H,1,0,H
+MEX,30/09/2004,23:00,Cruz Azul,CF Atlante,2,0,H,0,0,D
+MEX,01/10/2004,02:45,Atlas Guadalajara,Pumas UNAM,3,1,H,0,0,D
+MEX,02/10/2004,21:00,Deportivo Toluca,UANL Tigres,4,1,H,2,0,H
+MEX,02/10/2004,23:00,CF Monterrey,Jaguares Chiapas,5,1,H,0,1,A
+MEX,02/10/2004,23:00,Monarcas Morelia,Santos Laguna,1,1,D,0,1,A
+MEX,03/10/2004,01:00,Deportivo Guadalajara,CF América,1,1,D,0,0,D
+MEX,03/10/2004,01:00,Veracruz (old),UAG Tecos,1,0,H,1,0,H
+MEX,03/10/2004,02:30,Club Necaxa,Puebla FC,1,2,A,0,2,A
+MEX,03/10/2004,18:00,Pumas UNAM,Dorados de Sinaloa,3,2,H,2,1,H
+MEX,03/10/2004,20:00,CF Atlante,Atlas Guadalajara,3,2,H,2,0,H
+MEX,03/10/2004,22:00,CF Pachuca,Cruz Azul,3,1,H,0,0,D
+MEX,16/10/2004,21:00,Jaguares Chiapas,Club Necaxa,2,2,D,0,1,A
+MEX,16/10/2004,23:00,Cruz Azul,Deportivo Toluca,1,3,A,0,1,A
+MEX,17/10/2004,01:00,UANL Tigres,Veracruz (old),7,1,H,2,0,H
+MEX,17/10/2004,01:10,Dorados de Sinaloa,CF Atlante,0,1,A,0,0,D
+MEX,17/10/2004,02:45,Atlas Guadalajara,CF Pachuca,1,2,A,1,2,A
+MEX,17/10/2004,18:00,CF América,Pumas UNAM,0,3,A,0,3,A
+MEX,17/10/2004,20:00,Puebla FC,Monarcas Morelia,0,3,A,0,1,A
+MEX,17/10/2004,22:00,UAG Tecos,CF Monterrey,3,2,H,0,0,D
+MEX,17/10/2004,22:00,Santos Laguna,Deportivo Guadalajara,4,1,H,1,0,H
+MEX,20/10/2004,21:00,Deportivo Toluca,Atlas Guadalajara,0,2,A,0,1,A
+MEX,21/10/2004,02:00,Monarcas Morelia,Jaguares Chiapas,2,1,H,0,0,D
+MEX,21/10/2004,02:30,Veracruz (old),Cruz Azul,3,2,H,2,1,H
+MEX,21/10/2004,02:30,Club Necaxa,CF Monterrey,2,3,A,0,1,A
+MEX,21/10/2004,02:30,CF Pachuca,Dorados de Sinaloa,1,0,H,1,0,H
+MEX,21/10/2004,02:45,UANL Tigres,UAG Tecos,2,2,D,1,0,H
+MEX,21/10/2004,02:45,Deportivo Guadalajara,Puebla FC,3,1,H,2,0,H
+MEX,22/10/2004,02:30,Pumas UNAM,Santos Laguna,2,1,H,2,1,H
+MEX,22/10/2004,02:30,CF Atlante,CF América,1,0,H,0,0,D
+MEX,23/10/2004,21:00,Jaguares Chiapas,Deportivo Guadalajara,0,0,D,0,0,D
+MEX,23/10/2004,23:00,Cruz Azul,UANL Tigres,1,1,D,1,0,H
+MEX,23/10/2004,23:00,CF Monterrey,Monarcas Morelia,2,1,H,2,0,H
+MEX,24/10/2004,01:00,Dorados de Sinaloa,Deportivo Toluca,0,1,A,0,1,A
+MEX,24/10/2004,02:45,Atlas Guadalajara,Veracruz (old),2,0,H,1,0,H
+MEX,24/10/2004,18:00,CF América,CF Pachuca,1,1,D,0,0,D
+MEX,24/10/2004,18:00,Puebla FC,Pumas UNAM,2,3,A,1,1,D
+MEX,24/10/2004,22:00,UAG Tecos,Club Necaxa,0,1,A,0,0,D
+MEX,24/10/2004,22:00,Santos Laguna,CF Atlante,2,1,H,2,0,H
+MEX,30/10/2004,21:00,Deportivo Toluca,CF América,0,1,A,0,0,D
+MEX,30/10/2004,23:00,Cruz Azul,UAG Tecos,5,2,H,1,1,D
+MEX,31/10/2004,01:00,Deportivo Guadalajara,CF Monterrey,1,0,H,0,0,D
+MEX,31/10/2004,01:00,UANL Tigres,Atlas Guadalajara,1,3,A,1,1,D
+MEX,31/10/2004,01:00,Veracruz (old),Dorados de Sinaloa,2,1,H,0,0,D
+MEX,31/10/2004,18:00,Pumas UNAM,Jaguares Chiapas,2,1,H,0,1,A
+MEX,31/10/2004,18:00,CF Pachuca,Santos Laguna,2,1,H,2,0,H
+MEX,31/10/2004,20:00,CF Atlante,Puebla FC,2,1,H,1,1,D
+MEX,31/10/2004,22:00,Monarcas Morelia,Club Necaxa,1,5,A,0,4,A
+MEX,03/11/2004,21:00,Puebla FC,CF Pachuca,1,1,D,0,0,D
+MEX,03/11/2004,22:00,Santos Laguna,Deportivo Toluca,0,1,A,0,1,A
+MEX,04/11/2004,01:00,Club Necaxa,Deportivo Guadalajara,1,2,A,1,2,A
+MEX,04/11/2004,02:30,CF América,Veracruz (old),1,1,D,0,1,A
+MEX,04/11/2004,02:30,Monarcas Morelia,UAG Tecos,2,0,H,1,0,H
+MEX,04/11/2004,02:45,Atlas Guadalajara,Cruz Azul,3,3,D,1,0,H
+MEX,04/11/2004,03:35,Dorados de Sinaloa,UANL Tigres,3,3,D,1,0,H
+MEX,04/11/2004,21:00,Jaguares Chiapas,CF Atlante,0,0,D,0,0,D
+MEX,05/11/2004,02:30,CF Monterrey,Pumas UNAM,1,1,D,0,1,A
+MEX,06/11/2004,21:00,Deportivo Toluca,Puebla FC,1,0,H,0,0,D
+MEX,06/11/2004,23:00,Cruz Azul,Dorados de Sinaloa,3,3,D,0,0,D
+MEX,07/11/2004,01:00,Deportivo Guadalajara,Monarcas Morelia,2,1,H,2,1,H
+MEX,07/11/2004,01:00,Veracruz (old),Santos Laguna,3,2,H,0,2,A
+MEX,07/11/2004,02:30,UANL Tigres,CF América,0,1,A,0,0,D
+MEX,07/11/2004,18:00,Pumas UNAM,Club Necaxa,1,3,A,1,2,A
+MEX,07/11/2004,18:00,CF Pachuca,Jaguares Chiapas,3,0,H,1,0,H
+MEX,07/11/2004,20:00,CF Atlante,CF Monterrey,7,1,H,2,0,H
+MEX,07/11/2004,22:00,UAG Tecos,Atlas Guadalajara,2,3,A,1,1,D
+MEX,13/11/2004,02:30,Monarcas Morelia,Pumas UNAM,0,0,D,0,0,D
+MEX,13/11/2004,21:00,Jaguares Chiapas,Deportivo Toluca,1,3,A,0,1,A
+MEX,13/11/2004,21:00,CF América,Cruz Azul,2,1,H,0,0,D
+MEX,13/11/2004,21:00,Puebla FC,Veracruz (old),0,0,D,0,0,D
+MEX,13/11/2004,23:00,CF Monterrey,CF Pachuca,4,1,H,3,1,H
+MEX,14/11/2004,00:00,Dorados de Sinaloa,Atlas Guadalajara,0,1,A,0,1,A
+MEX,14/11/2004,01:00,Deportivo Guadalajara,UAG Tecos,2,2,D,0,1,A
+MEX,14/11/2004,02:30,Club Necaxa,CF Atlante,1,1,D,1,0,H
+MEX,14/11/2004,22:00,Santos Laguna,UANL Tigres,2,1,H,0,0,D
+MEX,20/11/2004,23:00,Cruz Azul,Santos Laguna,1,0,H,0,0,D
+MEX,21/11/2004,02:30,UAG Tecos,Dorados de Sinaloa,1,2,A,1,2,A
+MEX,21/11/2004,18:00,Deportivo Toluca,CF Monterrey,4,0,H,2,0,H
+MEX,21/11/2004,18:00,UANL Tigres,Puebla FC,4,0,H,2,0,H
+MEX,21/11/2004,18:00,Veracruz (old),Jaguares Chiapas,0,2,A,NaN,NaN,NaN
+MEX,21/11/2004,18:00,Atlas Guadalajara,CF América,1,1,D,1,0,H
+MEX,21/11/2004,18:00,Pumas UNAM,Deportivo Guadalajara,1,5,A,0,2,A
+MEX,21/11/2004,18:00,CF Pachuca,Club Necaxa,4,1,H,1,1,D
+MEX,21/11/2004,20:00,CF Atlante,Monarcas Morelia,1,6,A,1,3,A

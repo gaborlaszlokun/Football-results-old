@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,20/02/1994,13:30,FC Basel,SC Kriens,1,0,H,NaN,NaN,NaN
+SUI,20/02/1994,13:30,Neuchâtel Xamax FC,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,20/02/1994,13:30,FC Schaffhausen,FC Zürich,0,1,A,NaN,NaN,NaN
+SUI,20/02/1994,13:30,Yverdon-Sport FC,Etoile Carouge FC,1,0,H,NaN,NaN,NaN
+SUI,26/02/1994,16:30,Etoile Carouge FC,FC Schaffhausen,2,2,D,NaN,NaN,NaN
+SUI,27/02/1994,13:30,SC Kriens,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,27/02/1994,13:30,FC St. Gallen,FC Basel,0,0,D,NaN,NaN,NaN
+SUI,27/02/1994,13:30,FC Zürich,Neuchâtel Xamax FC,2,1,H,NaN,NaN,NaN
+SUI,05/03/1994,16:30,Neuchâtel Xamax FC,SC Kriens,2,0,H,NaN,NaN,NaN
+SUI,05/03/1994,16:30,FC Schaffhausen,FC St. Gallen,0,1,A,NaN,NaN,NaN
+SUI,05/03/1994,16:30,Yverdon-Sport FC,FC Zürich,1,2,A,NaN,NaN,NaN
+SUI,05/03/1994,19:00,FC Basel,Etoile Carouge FC,0,0,D,NaN,NaN,NaN
+SUI,13/03/1994,13:30,SC Kriens,FC Schaffhausen,5,0,H,NaN,NaN,NaN
+SUI,13/03/1994,13:30,FC St. Gallen,Yverdon-Sport FC,3,1,H,NaN,NaN,NaN
+SUI,13/03/1994,13:30,FC Zürich,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,13/03/1994,13:30,Etoile Carouge FC,Neuchâtel Xamax FC,0,2,A,NaN,NaN,NaN
+SUI,20/03/1994,13:30,FC Basel,FC Schaffhausen,3,0,H,NaN,NaN,NaN
+SUI,20/03/1994,13:30,FC St. Gallen,Etoile Carouge FC,5,1,H,NaN,NaN,NaN
+SUI,20/03/1994,13:30,FC Zürich,SC Kriens,5,1,H,NaN,NaN,NaN
+SUI,20/03/1994,13:30,Yverdon-Sport FC,Neuchâtel Xamax FC,0,2,A,NaN,NaN,NaN
+SUI,26/03/1994,16:30,Neuchâtel Xamax FC,FC Basel,1,0,H,NaN,NaN,NaN
+SUI,27/03/1994,13:30,SC Kriens,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,27/03/1994,13:30,FC Schaffhausen,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,27/03/1994,13:30,Etoile Carouge FC,FC Zürich,0,0,D,NaN,NaN,NaN
+SUI,30/03/1994,19:00,Neuchâtel Xamax FC,FC Schaffhausen,1,0,H,NaN,NaN,NaN
+SUI,30/03/1994,19:00,FC Zürich,FC St. Gallen,1,3,A,NaN,NaN,NaN
+SUI,31/03/1994,19:00,SC Kriens,Etoile Carouge FC,3,0,H,NaN,NaN,NaN
+SUI,31/03/1994,19:00,Yverdon-Sport FC,FC Basel,0,3,A,NaN,NaN,NaN
+SUI,08/04/1994,19:00,FC St. Gallen,FC Zürich,3,0,H,NaN,NaN,NaN
+SUI,09/04/1994,16:30,FC Schaffhausen,Neuchâtel Xamax FC,1,3,A,NaN,NaN,NaN
+SUI,09/04/1994,16:30,Etoile Carouge FC,SC Kriens,2,2,D,NaN,NaN,NaN
+SUI,09/04/1994,19:00,FC Basel,Yverdon-Sport FC,1,1,D,NaN,NaN,NaN
+SUI,16/04/1994,16:30,FC St. Gallen,SC Kriens,3,0,H,NaN,NaN,NaN
+SUI,16/04/1994,19:00,FC Basel,Neuchâtel Xamax FC,3,1,H,NaN,NaN,NaN
+SUI,16/04/1994,19:00,FC Zürich,Etoile Carouge FC,5,0,H,NaN,NaN,NaN
+SUI,16/04/1994,19:00,Yverdon-Sport FC,FC Schaffhausen,1,2,A,NaN,NaN,NaN
+SUI,23/04/1994,16:30,SC Kriens,FC Zürich,1,2,A,NaN,NaN,NaN
+SUI,23/04/1994,16:30,Neuchâtel Xamax FC,Yverdon-Sport FC,3,1,H,NaN,NaN,NaN
+SUI,23/04/1994,16:30,FC Schaffhausen,FC Basel,1,4,A,NaN,NaN,NaN
+SUI,23/04/1994,16:30,Etoile Carouge FC,FC St. Gallen,3,0,H,NaN,NaN,NaN
+SUI,30/04/1994,16:30,FC Schaffhausen,SC Kriens,2,2,D,NaN,NaN,NaN
+SUI,30/04/1994,19:00,FC Basel,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,30/04/1994,19:00,Neuchâtel Xamax FC,Etoile Carouge FC,2,1,H,NaN,NaN,NaN
+SUI,30/04/1994,19:00,Yverdon-Sport FC,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,03/05/1994,19:00,SC Kriens,Neuchâtel Xamax FC,0,0,D,NaN,NaN,NaN
+SUI,03/05/1994,19:00,FC St. Gallen,FC Schaffhausen,4,1,H,NaN,NaN,NaN
+SUI,03/05/1994,19:00,FC Zürich,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,03/05/1994,19:00,Etoile Carouge FC,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,07/05/1994,16:30,FC Schaffhausen,Etoile Carouge FC,1,2,A,NaN,NaN,NaN
+SUI,07/05/1994,19:00,FC Basel,FC St. Gallen,3,0,H,NaN,NaN,NaN
+SUI,07/05/1994,19:00,Neuchâtel Xamax FC,FC Zürich,1,0,H,NaN,NaN,NaN
+SUI,07/05/1994,19:00,Yverdon-Sport FC,SC Kriens,1,4,A,NaN,NaN,NaN
+SUI,09/05/1994,19:00,FC Zürich,FC Schaffhausen,2,2,D,NaN,NaN,NaN
+SUI,10/05/1994,18:00,FC St. Gallen,Neuchâtel Xamax FC,3,1,H,NaN,NaN,NaN
+SUI,10/05/1994,18:00,Etoile Carouge FC,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,10/05/1994,19:00,SC Kriens,FC Basel,0,1,A,NaN,NaN,NaN

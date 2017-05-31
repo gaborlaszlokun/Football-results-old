@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,01/09/1909,,Aston Villa,Woolwich Arsenal,5,1,H,NaN,NaN,NaN
+ENG,01/09/1909,,Chelsea FC,Notts County,2,2,D,NaN,NaN,NaN
+ENG,01/09/1909,,Everton FC,Sheffield Wednesday,1,1,D,NaN,NaN,NaN
+ENG,01/09/1909,,Manchester United,Bradford City,1,0,H,NaN,NaN,NaN
+ENG,01/09/1909,,Middlesbrough FC,Sheffield United,0,2,A,NaN,NaN,NaN
+ENG,01/09/1909,,Newcastle United,Bolton Wanderers,1,0,H,NaN,NaN,NaN
+ENG,01/09/1909,,Preston North End,Nottingham Forest,0,1,A,NaN,NaN,NaN
+ENG,01/09/1909,,Sunderland AFC,Tottenham Hotspur,3,1,H,NaN,NaN,NaN
+ENG,04/09/1909,,Woolwich Arsenal,Sheffield United,0,0,D,NaN,NaN,NaN
+ENG,04/09/1909,,Sunderland AFC,Preston North End,2,1,H,NaN,NaN,NaN
+ENG,04/09/1909,,Sheffield Wednesday,Middlesbrough FC,1,5,A,NaN,NaN,NaN
+ENG,04/09/1909,,Nottingham Forest,Notts County,2,1,H,NaN,NaN,NaN
+ENG,04/09/1909,,Manchester United,Bury FC,2,0,H,NaN,NaN,NaN
+ENG,04/09/1909,,Everton FC,Tottenham Hotspur,4,2,H,NaN,NaN,NaN
+ENG,04/09/1909,,Chelsea FC,Liverpool FC,2,1,H,NaN,NaN,NaN
+ENG,04/09/1909,,Bradford City,Bristol City,3,1,H,NaN,NaN,NaN
+ENG,04/09/1909,,Bolton Wanderers,Aston Villa,1,2,A,NaN,NaN,NaN
+ENG,04/09/1909,,Blackburn Rovers,Newcastle United,2,0,H,NaN,NaN,NaN
+ENG,08/09/1909,,Bristol City,Bury FC,1,1,D,NaN,NaN,NaN
+ENG,11/09/1909,,Liverpool FC,Blackburn Rovers,3,1,H,NaN,NaN,NaN
+ENG,06/09/1909,,Bolton Wanderers,Liverpool FC,1,2,A,NaN,NaN,NaN
+ENG,06/09/1909,,Everton FC,Newcastle United,1,4,A,NaN,NaN,NaN
+ENG,06/09/1909,,Manchester United,Notts County,2,1,H,NaN,NaN,NaN
+ENG,11/09/1909,,Aston Villa,Chelsea FC,4,1,H,NaN,NaN,NaN
+ENG,11/09/1909,,Bristol City,Sheffield Wednesday,1,1,D,NaN,NaN,NaN
+ENG,11/09/1909,,Bury FC,Bradford City,3,4,A,NaN,NaN,NaN
+ENG,11/09/1909,,Middlesbrough FC,Woolwich Arsenal,5,2,H,NaN,NaN,NaN
+ENG,11/09/1909,,Notts County,Sunderland AFC,1,1,D,NaN,NaN,NaN
+ENG,13/09/1909,,Blackburn Rovers,Bristol City,5,2,H,NaN,NaN,NaN
+ENG,07/09/1909,,Bolton Wanderers,Newcastle United,0,4,A,NaN,NaN,NaN
+ENG,11/09/1909,,Preston North End,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,11/09/1909,,Tottenham Hotspur,Manchester United,2,2,D,NaN,NaN,NaN
+ENG,18/09/1909,,Nottingham Forest,Liverpool FC,1,4,A,NaN,NaN,NaN
+ENG,18/09/1909,,Chelsea FC,Sheffield United,2,2,D,NaN,NaN,NaN
+ENG,18/09/1909,,Bristol City,Middlesbrough FC,4,1,H,NaN,NaN,NaN
+ENG,18/09/1909,,Bradford City,Tottenham Hotspur,5,1,H,NaN,NaN,NaN
+ENG,18/09/1909,,Bolton Wanderers,Woolwich Arsenal,3,0,H,NaN,NaN,NaN
+ENG,18/09/1909,,Blackburn Rovers,Aston Villa,3,2,H,NaN,NaN,NaN
+ENG,18/09/1909,,Sheffield Wednesday,Bury FC,1,4,A,NaN,NaN,NaN
+ENG,11/09/1909,,Newcastle United,Nottingham Forest,1,2,A,NaN,NaN,NaN
+ENG,11/09/1909,,Sheffield United,Bolton Wanderers,2,2,D,NaN,NaN,NaN
+ENG,18/09/1909,,Everton FC,Notts County,2,0,H,NaN,NaN,NaN
+ENG,18/09/1909,,Manchester United,Preston North End,1,1,D,NaN,NaN,NaN
+ENG,25/09/1909,,Preston North End,Bradford City,2,2,D,NaN,NaN,NaN
+ENG,25/09/1909,,Middlesbrough FC,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,25/09/1909,,Liverpool FC,Sunderland AFC,1,4,A,NaN,NaN,NaN
+ENG,25/09/1909,,Aston Villa,Nottingham Forest,0,0,D,NaN,NaN,NaN
+ENG,25/09/1909,,Woolwich Arsenal,Chelsea FC,3,2,H,NaN,NaN,NaN
+ENG,25/09/1909,,Sheffield United,Blackburn Rovers,3,0,H,NaN,NaN,NaN
+ENG,18/09/1909,,Sunderland AFC,Newcastle United,0,2,A,NaN,NaN,NaN
+ENG,20/09/1909,,Sheffield Wednesday,Everton FC,1,3,A,NaN,NaN,NaN
+ENG,25/09/1909,,Bury FC,Bristol City,1,2,A,NaN,NaN,NaN
+ENG,25/09/1909,,Notts County,Manchester United,3,2,H,NaN,NaN,NaN
+ENG,25/09/1909,,Tottenham Hotspur,Sheffield Wednesday,3,0,H,NaN,NaN,NaN
+ENG,02/10/1909,,Sheffield Wednesday,Preston North End,4,1,H,NaN,NaN,NaN
+ENG,02/10/1909,,Nottingham Forest,Sheffield United,2,3,A,NaN,NaN,NaN
+ENG,02/10/1909,,Chelsea FC,Bolton Wanderers,3,2,H,NaN,NaN,NaN
+ENG,02/10/1909,,Bury FC,Middlesbrough FC,2,1,H,NaN,NaN,NaN
+ENG,02/10/1909,,Bradford City,Notts County,2,1,H,NaN,NaN,NaN
+ENG,02/10/1909,,Blackburn Rovers,Woolwich Arsenal,7,0,H,NaN,NaN,NaN
+ENG,02/10/1909,,Sunderland AFC,Aston Villa,1,1,D,NaN,NaN,NaN
+ENG,25/09/1909,,Newcastle United,Everton FC,1,2,A,NaN,NaN,NaN
+ENG,02/10/1909,,Bristol City,Tottenham Hotspur,0,0,D,NaN,NaN,NaN
+ENG,02/10/1909,,Manchester United,Newcastle United,1,1,D,NaN,NaN,NaN
+ENG,07/10/1909,,Notts County,Woolwich Arsenal,5,1,H,NaN,NaN,NaN
+ENG,09/10/1909,,Sheffield United,Sunderland AFC,3,0,H,NaN,NaN,NaN
+ENG,09/10/1909,,Preston North End,Bristol City,3,0,H,NaN,NaN,NaN
+ENG,09/10/1909,,Middlesbrough FC,Chelsea FC,0,1,A,NaN,NaN,NaN
+ENG,09/10/1909,,Bolton Wanderers,Blackburn Rovers,1,2,A,NaN,NaN,NaN
+ENG,09/10/1909,,Aston Villa,Everton FC,3,1,H,NaN,NaN,NaN
+ENG,09/10/1909,,Tottenham Hotspur,Bury FC,1,0,H,NaN,NaN,NaN
+ENG,02/10/1909,,Everton FC,Liverpool FC,2,3,A,NaN,NaN,NaN
+ENG,09/10/1909,,Woolwich Arsenal,Nottingham Forest,0,1,A,NaN,NaN,NaN
+ENG,09/10/1909,,Liverpool FC,Manchester United,3,2,H,NaN,NaN,NaN
+ENG,09/10/1909,,Notts County,Sheffield Wednesday,0,0,D,NaN,NaN,NaN
+ENG,16/10/1909,,Sunderland AFC,Woolwich Arsenal,6,2,H,NaN,NaN,NaN
+ENG,16/10/1909,,Manchester United,Aston Villa,2,0,H,NaN,NaN,NaN
+ENG,16/10/1909,,Bury FC,Preston North End,3,1,H,NaN,NaN,NaN
+ENG,16/10/1909,,Bradford City,Liverpool FC,1,2,A,NaN,NaN,NaN
+ENG,16/10/1909,,Blackburn Rovers,Chelsea FC,1,0,H,NaN,NaN,NaN
+ENG,16/10/1909,,Tottenham Hotspur,Middlesbrough FC,1,3,A,NaN,NaN,NaN
+ENG,09/10/1909,,Newcastle United,Bradford City,1,0,H,NaN,NaN,NaN
+ENG,16/10/1909,,Bristol City,Notts County,3,1,H,NaN,NaN,NaN
+ENG,23/10/1909,,Aston Villa,Bradford City,3,1,H,NaN,NaN,NaN
+ENG,23/10/1909,,Bolton Wanderers,Sunderland AFC,2,1,H,NaN,NaN,NaN
+ENG,23/10/1909,,Chelsea FC,Nottingham Forest,0,1,A,NaN,NaN,NaN
+ENG,23/10/1909,,Middlesbrough FC,Blackburn Rovers,1,3,A,NaN,NaN,NaN
+ENG,23/10/1909,,Notts County,Bury FC,3,1,H,NaN,NaN,NaN
+ENG,16/10/1909,,Everton FC,Sheffield United,1,2,A,NaN,NaN,NaN
+ENG,16/10/1909,,Nottingham Forest,Bolton Wanderers,2,0,H,NaN,NaN,NaN
+ENG,16/10/1909,,Sheffield Wednesday,Newcastle United,3,1,H,NaN,NaN,NaN
+ENG,23/10/1909,,Liverpool FC,Sheffield Wednesday,3,1,H,NaN,NaN,NaN
+ENG,23/10/1909,,Sheffield United,Manchester United,0,1,A,NaN,NaN,NaN
+ENG,27/10/1909,,Chelsea FC,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Bradford City,Sheffield United,2,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Nottingham Forest,Blackburn Rovers,0,4,A,NaN,NaN,NaN
+ENG,30/10/1909,,Preston North End,Middlesbrough FC,1,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Sheffield Wednesday,Aston Villa,3,2,H,NaN,NaN,NaN
+ENG,18/10/1909,,Sheffield United,Notts County,2,2,D,NaN,NaN,NaN
+ENG,23/10/1909,,Woolwich Arsenal,Everton FC,1,0,H,NaN,NaN,NaN
+ENG,23/10/1909,,Newcastle United,Bristol City,3,1,H,NaN,NaN,NaN
+ENG,30/10/1909,,Sunderland AFC,Chelsea FC,4,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Manchester United,Woolwich Arsenal,1,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Bristol City,Liverpool FC,0,1,A,NaN,NaN,NaN
+ENG,03/11/1909,,Nottingham Forest,Bury FC,3,3,D,NaN,NaN,NaN
+ENG,06/11/1909,,Aston Villa,Bristol City,1,0,H,NaN,NaN,NaN
+ENG,06/11/1909,,Blackburn Rovers,Sunderland AFC,0,0,D,NaN,NaN,NaN
+ENG,06/11/1909,,Middlesbrough FC,Nottingham Forest,2,1,H,NaN,NaN,NaN
+ENG,06/11/1909,,Notts County,Preston North End,3,1,H,NaN,NaN,NaN
+ENG,30/10/1909,,Bury FC,Newcastle United,1,2,A,NaN,NaN,NaN
+ENG,30/10/1909,,Everton FC,Bolton Wanderers,3,1,H,NaN,NaN,NaN
+ENG,06/11/1909,,Sheffield United,Sheffield Wednesday,3,3,D,NaN,NaN,NaN
+ENG,06/11/1909,,Liverpool FC,Bury FC,2,2,D,NaN,NaN,NaN
+ENG,06/11/1909,,Chelsea FC,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,06/11/1909,,Bolton Wanderers,Manchester United,2,3,A,NaN,NaN,NaN
+ENG,06/11/1909,,Woolwich Arsenal,Bradford City,0,1,A,NaN,NaN,NaN
+ENG,13/11/1909,,Bury FC,Aston Villa,0,2,A,NaN,NaN,NaN
+ENG,13/11/1909,,Notts County,Middlesbrough FC,2,1,H,NaN,NaN,NaN
+ENG,13/11/1909,,Sunderland AFC,Nottingham Forest,2,1,H,NaN,NaN,NaN
+ENG,13/11/1909,,Tottenham Hotspur,Liverpool FC,1,0,H,NaN,NaN,NaN
+ENG,30/10/1909,,Tottenham Hotspur,Notts County,1,3,A,NaN,NaN,NaN
+ENG,06/11/1909,,Newcastle United,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
+ENG,13/11/1909,,Bristol City,Sheffield United,0,2,A,NaN,NaN,NaN
+ENG,13/11/1909,,Manchester United,Chelsea FC,2,0,H,NaN,NaN,NaN
+ENG,13/11/1909,,Sheffield Wednesday,Woolwich Arsenal,1,1,D,NaN,NaN,NaN
+ENG,20/11/1909,,Aston Villa,Tottenham Hotspur,3,2,H,NaN,NaN,NaN
+ENG,20/11/1909,,Liverpool FC,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,20/11/1909,,Middlesbrough FC,Sunderland AFC,3,2,H,NaN,NaN,NaN
+ENG,13/11/1909,,Bradford City,Bolton Wanderers,1,0,H,NaN,NaN,NaN
+ENG,13/11/1909,,Everton FC,Blackburn Rovers,0,2,A,NaN,NaN,NaN
+ENG,13/11/1909,,Preston North End,Newcastle United,4,0,H,NaN,NaN,NaN
+ENG,20/11/1909,,Sheffield United,Bury FC,2,0,H,NaN,NaN,NaN
+ENG,20/11/1909,,Chelsea FC,Bradford City,0,3,A,NaN,NaN,NaN
+ENG,20/11/1909,,Blackburn Rovers,Manchester United,3,2,H,NaN,NaN,NaN
+ENG,20/11/1909,,Woolwich Arsenal,Bristol City,2,2,D,NaN,NaN,NaN
+ENG,22/11/1909,,Preston North End,Tottenham Hotspur,4,1,H,NaN,NaN,NaN
+ENG,27/11/1909,,Bradford City,Blackburn Rovers,2,0,H,NaN,NaN,NaN
+ENG,27/11/1909,,Newcastle United,Middlesbrough FC,2,0,H,NaN,NaN,NaN
+ENG,27/11/1909,,Notts County,Liverpool FC,3,1,H,NaN,NaN,NaN
+ENG,27/11/1909,,Preston North End,Aston Villa,1,0,H,NaN,NaN,NaN
+ENG,20/11/1909,,Newcastle United,Notts County,1,3,A,NaN,NaN,NaN
+ENG,20/11/1909,,Nottingham Forest,Everton FC,1,0,H,NaN,NaN,NaN
+ENG,27/11/1909,,Tottenham Hotspur,Sheffield United,2,1,H,NaN,NaN,NaN
+ENG,27/11/1909,,Sheffield Wednesday,Chelsea FC,4,1,H,NaN,NaN,NaN
+ENG,27/11/1909,,Manchester United,Nottingham Forest,2,6,A,NaN,NaN,NaN
+ENG,27/11/1909,,Bury FC,Woolwich Arsenal,1,2,A,NaN,NaN,NaN
+ENG,27/11/1909,,Bristol City,Bolton Wanderers,1,0,H,NaN,NaN,NaN
+ENG,04/12/1909,,Aston Villa,Notts County,1,1,D,NaN,NaN,NaN
+ENG,04/12/1909,,Blackburn Rovers,Sheffield Wednesday,0,0,D,NaN,NaN,NaN
+ENG,04/12/1909,,Nottingham Forest,Bradford City,1,1,D,NaN,NaN,NaN
+ENG,27/11/1909,,Everton FC,Sunderland AFC,2,1,H,NaN,NaN,NaN
+ENG,04/12/1909,,Sunderland AFC,Manchester United,3,0,H,NaN,NaN,NaN
+ENG,04/12/1909,,Sheffield United,Preston North End,5,1,H,NaN,NaN,NaN
+ENG,04/12/1909,,Chelsea FC,Bristol City,4,1,H,NaN,NaN,NaN
+ENG,04/12/1909,,Bolton Wanderers,Bury FC,1,3,A,NaN,NaN,NaN
+ENG,04/12/1909,,Woolwich Arsenal,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
+ENG,11/12/1909,,Bradford City,Sunderland AFC,3,1,H,NaN,NaN,NaN
+ENG,11/12/1909,,Bristol City,Blackburn Rovers,2,2,D,NaN,NaN,NaN
+ENG,11/12/1909,,Liverpool FC,Middlesbrough FC,0,0,D,NaN,NaN,NaN
+ENG,11/12/1909,,Newcastle United,Aston Villa,1,0,H,NaN,NaN,NaN
+ENG,04/12/1909,,Liverpool FC,Newcastle United,6,5,H,NaN,NaN,NaN
+ENG,04/12/1909,,Middlesbrough FC,Everton FC,1,1,D,NaN,NaN,NaN
+ENG,11/12/1909,,Tottenham Hotspur,Bolton Wanderers,1,1,D,NaN,NaN,NaN
+ENG,11/12/1909,,Sheffield Wednesday,Nottingham Forest,4,3,H,NaN,NaN,NaN
+ENG,11/12/1909,,Preston North End,Woolwich Arsenal,3,4,A,NaN,NaN,NaN
+ENG,11/12/1909,,Bury FC,Chelsea FC,4,2,H,NaN,NaN,NaN
+ENG,18/12/1909,,Aston Villa,Liverpool FC,3,1,H,NaN,NaN,NaN
+ENG,18/12/1909,,Blackburn Rovers,Bury FC,5,1,H,NaN,NaN,NaN
+ENG,18/12/1909,,Middlesbrough FC,Manchester United,1,2,A,NaN,NaN,NaN
+ENG,18/12/1909,,Sunderland AFC,Sheffield Wednesday,2,0,H,NaN,NaN,NaN
+ENG,18/12/1909,,Woolwich Arsenal,Notts County,1,2,A,NaN,NaN,NaN
+ENG,18/12/1909,,Bolton Wanderers,Preston North End,3,1,H,NaN,NaN,NaN
+ENG,18/12/1909,,Chelsea FC,Tottenham Hotspur,2,1,H,NaN,NaN,NaN
+ENG,18/12/1909,,Everton FC,Bradford City,1,1,D,NaN,NaN,NaN
+ENG,18/12/1909,,Nottingham Forest,Bristol City,0,0,D,NaN,NaN,NaN
+ENG,25/12/1909,,Bury FC,Sunderland AFC,0,1,A,NaN,NaN,NaN
+ENG,25/12/1909,,Manchester United,Sheffield Wednesday,0,3,A,NaN,NaN,NaN
+ENG,25/12/1909,,Middlesbrough FC,Bradford City,3,7,A,NaN,NaN,NaN
+ENG,25/12/1909,,Sheffield United,Aston Villa,0,1,A,NaN,NaN,NaN
+ENG,11/12/1909,,Notts County,Sheffield United,1,2,A,NaN,NaN,NaN
+ENG,18/12/1909,,Sheffield United,Newcastle United,4,0,H,NaN,NaN,NaN
+ENG,25/12/1909,,Tottenham Hotspur,Nottingham Forest,2,2,D,NaN,NaN,NaN
+ENG,25/12/1909,,Notts County,Chelsea FC,2,1,H,NaN,NaN,NaN
+ENG,25/12/1909,,Liverpool FC,Bolton Wanderers,3,0,H,NaN,NaN,NaN
+ENG,25/12/1909,,Bristol City,Everton FC,3,1,H,NaN,NaN,NaN
+ENG,25/12/1909,,Blackburn Rovers,Preston North End,2,2,D,NaN,NaN,NaN
+ENG,27/12/1909,,Aston Villa,Sheffield United,2,1,H,NaN,NaN,NaN
+ENG,27/12/1909,,Bradford City,Middlesbrough FC,4,1,H,NaN,NaN,NaN
+ENG,27/12/1909,,Sheffield Wednesday,Manchester United,4,1,H,NaN,NaN,NaN
+ENG,27/12/1909,,Sunderland AFC,Bury FC,2,3,A,NaN,NaN,NaN
+ENG,25/12/1909,,Woolwich Arsenal,Newcastle United,0,3,A,NaN,NaN,NaN
+ENG,27/12/1909,,Woolwich Arsenal,Liverpool FC,1,1,D,NaN,NaN,NaN
+ENG,27/12/1909,,Chelsea FC,Newcastle United,2,1,H,NaN,NaN,NaN
+ENG,27/12/1909,,Everton FC,Bristol City,1,0,H,NaN,NaN,NaN
+ENG,27/12/1909,,Nottingham Forest,Tottenham Hotspur,2,2,D,NaN,NaN,NaN
+ENG,27/12/1909,,Preston North End,Blackburn Rovers,3,2,H,NaN,NaN,NaN
+ENG,28/12/1909,,Sheffield United,Liverpool FC,4,2,H,NaN,NaN,NaN
+ENG,28/12/1909,,Notts County,Blackburn Rovers,2,2,D,NaN,NaN,NaN
+ENG,28/12/1909,,Bristol City,Sunderland AFC,2,3,A,NaN,NaN,NaN
+ENG,01/01/1910,,Bolton Wanderers,Notts County,3,4,A,NaN,NaN,NaN
+ENG,01/01/1910,,Bradford City,Manchester United,0,2,A,NaN,NaN,NaN
+ENG,01/01/1910,,Nottingham Forest,Aston Villa,1,4,A,NaN,NaN,NaN
+ENG,01/01/1910,,Sheffield United,Middlesbrough FC,2,0,H,NaN,NaN,NaN
+ENG,01/01/1910,,Blackburn Rovers,Tottenham Hotspur,2,0,H,NaN,NaN,NaN
+ENG,01/01/1910,,Bury FC,Everton FC,2,2,D,NaN,NaN,NaN
+ENG,01/01/1910,,Liverpool FC,Woolwich Arsenal,5,1,H,NaN,NaN,NaN
+ENG,01/01/1910,,Newcastle United,Chelsea FC,1,0,H,NaN,NaN,NaN
+ENG,01/01/1910,,Sunderland AFC,Bristol City,4,0,H,NaN,NaN,NaN
+ENG,03/01/1910,,Bolton Wanderers,Sheffield Wednesday,0,2,A,NaN,NaN,NaN
+ENG,08/01/1910,,Aston Villa,Bolton Wanderers,3,1,H,NaN,NaN,NaN
+ENG,08/01/1910,,Bristol City,Bradford City,2,0,H,NaN,NaN,NaN
+ENG,08/01/1910,,Bury FC,Manchester United,1,1,D,NaN,NaN,NaN
+ENG,08/01/1910,,Middlesbrough FC,Sheffield Wednesday,4,0,H,NaN,NaN,NaN
+ENG,03/01/1910,,Bury FC,Nottingham Forest,4,1,H,NaN,NaN,NaN
+ENG,08/01/1910,,Liverpool FC,Chelsea FC,5,1,H,NaN,NaN,NaN
+ENG,08/01/1910,,Preston North End,Sunderland AFC,1,0,H,NaN,NaN,NaN
+ENG,08/01/1910,,Sheffield United,Woolwich Arsenal,2,0,H,NaN,NaN,NaN
+ENG,08/01/1910,,Tottenham Hotspur,Everton FC,3,0,H,NaN,NaN,NaN
+ENG,22/01/1910,,Manchester United,Tottenham Hotspur,5,0,H,NaN,NaN,NaN
+ENG,22/01/1910,,Chelsea FC,Aston Villa,0,0,D,NaN,NaN,NaN
+ENG,22/01/1910,,Bradford City,Bury FC,0,0,D,NaN,NaN,NaN
+ENG,22/01/1910,,Woolwich Arsenal,Middlesbrough FC,3,0,H,NaN,NaN,NaN
+ENG,22/01/1910,,Sheffield Wednesday,Bristol City,2,0,H,NaN,NaN,NaN
+ENG,03/01/1910,,Newcastle United,Preston North End,5,2,H,NaN,NaN,NaN
+ENG,08/01/1910,,Notts County,Nottingham Forest,4,1,H,NaN,NaN,NaN
+ENG,10/01/1910,,Preston North End,Chelsea FC,2,0,H,NaN,NaN,NaN
+ENG,22/01/1910,,Sunderland AFC,Notts County,0,3,A,NaN,NaN,NaN
+ENG,22/01/1910,,Everton FC,Preston North End,2,1,H,NaN,NaN,NaN
+ENG,22/01/1910,,Bolton Wanderers,Sheffield United,1,0,H,NaN,NaN,NaN
+ENG,22/01/1910,,Blackburn Rovers,Liverpool FC,1,1,D,NaN,NaN,NaN
+ENG,29/01/1910,,Aston Villa,Blackburn Rovers,4,3,H,NaN,NaN,NaN
+ENG,29/01/1910,,Tottenham Hotspur,Bradford City,0,0,D,NaN,NaN,NaN
+ENG,05/02/1910,,Bolton Wanderers,Middlesbrough FC,1,1,D,NaN,NaN,NaN
+ENG,05/02/1910,,Preston North End,Manchester United,1,0,H,NaN,NaN,NaN
+ENG,08/01/1910,,Newcastle United,Blackburn Rovers,4,1,H,NaN,NaN,NaN
+ENG,29/01/1910,,Woolwich Arsenal,Bolton Wanderers,2,0,H,NaN,NaN,NaN
+ENG,12/02/1910,,Aston Villa,Sunderland AFC,3,2,H,NaN,NaN,NaN
+ENG,12/02/1910,,Liverpool FC,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,12/02/1910,,Middlesbrough FC,Bury FC,0,5,A,NaN,NaN,NaN
+ENG,12/02/1910,,Newcastle United,Manchester United,3,4,A,NaN,NaN,NaN
+ENG,12/02/1910,,Notts County,Bradford City,3,2,H,NaN,NaN,NaN
+ENG,19/02/1910,,Sheffield Wednesday,Notts County,0,0,D,NaN,NaN,NaN
+ENG,22/01/1910,,Nottingham Forest,Newcastle United,0,1,A,NaN,NaN,NaN
+ENG,12/02/1910,,Woolwich Arsenal,Blackburn Rovers,0,1,A,NaN,NaN,NaN
+ENG,12/02/1910,,Bolton Wanderers,Chelsea FC,5,2,H,NaN,NaN,NaN
+ENG,12/02/1910,,Sheffield United,Nottingham Forest,1,4,A,NaN,NaN,NaN
+ENG,12/02/1910,,Tottenham Hotspur,Bristol City,3,2,H,NaN,NaN,NaN
+ENG,19/02/1910,,Manchester United,Liverpool FC,3,4,A,NaN,NaN,NaN
+ENG,26/02/1910,,Woolwich Arsenal,Sunderland AFC,1,2,A,NaN,NaN,NaN
+ENG,26/02/1910,,Aston Villa,Manchester United,7,1,H,NaN,NaN,NaN
+ENG,26/02/1910,,Sheffield United,Everton FC,3,0,H,NaN,NaN,NaN
+ENG,12/02/1910,,Preston North End,Sheffield Wednesday,1,0,H,NaN,NaN,NaN
+ENG,19/02/1910,,Chelsea FC,Middlesbrough FC,2,1,H,NaN,NaN,NaN
+ENG,26/02/1910,,Liverpool FC,Bradford City,1,0,H,NaN,NaN,NaN
+ENG,26/02/1910,,Middlesbrough FC,Tottenham Hotspur,4,3,H,NaN,NaN,NaN
+ENG,05/03/1910,,Bradford City,Aston Villa,1,2,A,NaN,NaN,NaN
+ENG,05/03/1910,,Sheffield Wednesday,Liverpool FC,3,0,H,NaN,NaN,NaN
+ENG,05/03/1910,,Sunderland AFC,Bolton Wanderers,3,0,H,NaN,NaN,NaN
+ENG,07/03/1910,,Everton FC,Woolwich Arsenal,1,0,H,NaN,NaN,NaN
+ENG,19/02/1910,,Bolton Wanderers,Bradford City,1,1,D,NaN,NaN,NaN
+ENG,19/02/1910,,Bristol City,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,26/02/1910,,Chelsea FC,Blackburn Rovers,3,1,H,NaN,NaN,NaN
+ENG,26/02/1910,,Newcastle United,Sheffield Wednesday,3,1,H,NaN,NaN,NaN
+ENG,26/02/1910,,Notts County,Bristol City,0,2,A,NaN,NaN,NaN
+ENG,02/03/1910,,Nottingham Forest,Woolwich Arsenal,1,1,D,NaN,NaN,NaN
+ENG,05/03/1910,,Manchester United,Sheffield United,1,0,H,NaN,NaN,NaN
+ENG,05/03/1910,,Bury FC,Notts County,1,1,D,NaN,NaN,NaN
+ENG,05/03/1910,,Blackburn Rovers,Middlesbrough FC,1,1,D,NaN,NaN,NaN
+ENG,09/03/1910,,Bury FC,Sheffield Wednesday,3,2,H,NaN,NaN,NaN
+ENG,12/03/1910,,Aston Villa,Sheffield Wednesday,5,0,H,NaN,NaN,NaN
+ENG,12/03/1910,,Bolton Wanderers,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,26/02/1910,,Bolton Wanderers,Nottingham Forest,2,1,H,NaN,NaN,NaN
+ENG,26/02/1910,,Preston North End,Bury FC,2,1,H,NaN,NaN,NaN
+ENG,05/03/1910,,Nottingham Forest,Chelsea FC,0,0,D,NaN,NaN,NaN
+ENG,09/03/1910,,Bradford City,Newcastle United,3,3,D,NaN,NaN,NaN
+ENG,12/03/1910,,Middlesbrough FC,Preston North End,1,0,H,NaN,NaN,NaN
+ENG,12/03/1910,,Liverpool FC,Bristol City,0,1,A,NaN,NaN,NaN
+ENG,12/03/1910,,Blackburn Rovers,Nottingham Forest,2,2,D,NaN,NaN,NaN
+ENG,12/03/1910,,Woolwich Arsenal,Manchester United,0,0,D,NaN,NaN,NaN
+ENG,14/03/1910,,Everton FC,Aston Villa,0,0,D,NaN,NaN,NaN
+ENG,16/03/1910,,Sunderland AFC,Sheffield United,1,0,H,NaN,NaN,NaN
+ENG,05/03/1910,,Tottenham Hotspur,Preston North End,2,1,H,NaN,NaN,NaN
+ENG,07/03/1910,,Sheffield United,Chelsea FC,0,0,D,NaN,NaN,NaN
+ENG,12/03/1910,,Newcastle United,Bury FC,2,2,D,NaN,NaN,NaN
+ENG,12/03/1910,,Sheffield United,Bradford City,1,2,A,NaN,NaN,NaN
+ENG,14/03/1910,,Sheffield Wednesday,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
+ENG,19/03/1910,,Bristol City,Aston Villa,0,0,D,NaN,NaN,NaN
+ENG,19/03/1910,,Manchester United,Bolton Wanderers,5,0,H,NaN,NaN,NaN
+ENG,19/03/1910,,Nottingham Forest,Middlesbrough FC,0,1,A,NaN,NaN,NaN
+ENG,19/03/1910,,Sunderland AFC,Blackburn Rovers,0,0,D,NaN,NaN,NaN
+ENG,12/03/1910,,Chelsea FC,Sunderland AFC,1,4,A,NaN,NaN,NaN
+ENG,12/03/1910,,Notts County,Tottenham Hotspur,3,0,H,NaN,NaN,NaN
+ENG,19/03/1910,,Bradford City,Woolwich Arsenal,0,1,A,NaN,NaN,NaN
+ENG,19/03/1910,,Bury FC,Liverpool FC,1,2,A,NaN,NaN,NaN
+ENG,19/03/1910,,Sheffield Wednesday,Sheffield United,1,3,A,NaN,NaN,NaN
+ENG,19/03/1910,,Tottenham Hotspur,Newcastle United,0,4,A,NaN,NaN,NaN
+ENG,25/03/1910,,Tottenham Hotspur,Sunderland AFC,5,1,H,NaN,NaN,NaN
+ENG,25/03/1910,,Manchester United,Bristol City,2,1,H,NaN,NaN,NaN
+ENG,25/03/1910,,Liverpool FC,Sheffield United,0,0,D,NaN,NaN,NaN
+ENG,25/03/1910,,Blackburn Rovers,Notts County,2,0,H,NaN,NaN,NaN
+ENG,25/03/1910,,Aston Villa,Middlesbrough FC,4,2,H,NaN,NaN,NaN
+ENG,28/03/1910,,Everton FC,Bury FC,3,0,H,NaN,NaN,NaN
+ENG,19/03/1910,,Everton FC,Chelsea FC,2,2,D,NaN,NaN,NaN
+ENG,19/03/1910,,Preston North End,Notts County,4,0,H,NaN,NaN,NaN
+ENG,25/03/1910,,Bradford City,Sheffield Wednesday,2,0,H,NaN,NaN,NaN
+ENG,25/03/1910,,Newcastle United,Woolwich Arsenal,1,1,D,NaN,NaN,NaN
+ENG,26/03/1910,,Sheffield United,Bristol City,4,0,H,NaN,NaN,NaN
+ENG,26/03/1910,,Nottingham Forest,Sunderland AFC,1,3,A,NaN,NaN,NaN
+ENG,26/03/1910,,Middlesbrough FC,Notts County,2,0,H,NaN,NaN,NaN
+ENG,26/03/1910,,Liverpool FC,Tottenham Hotspur,2,0,H,NaN,NaN,NaN
+ENG,26/03/1910,,Blackburn Rovers,Bolton Wanderers,4,2,H,NaN,NaN,NaN
+ENG,26/03/1910,,Aston Villa,Bury FC,4,1,H,NaN,NaN,NaN
+ENG,02/04/1910,,Everton FC,Nottingham Forest,0,4,A,NaN,NaN,NaN
+ENG,25/03/1910,,Nottingham Forest,Preston North End,0,0,D,NaN,NaN,NaN
+ENG,26/03/1910,,Woolwich Arsenal,Sheffield Wednesday,0,1,A,NaN,NaN,NaN
+ENG,26/03/1910,,Chelsea FC,Manchester United,1,1,D,NaN,NaN,NaN
+ENG,28/03/1910,,Sunderland AFC,Liverpool FC,2,1,H,NaN,NaN,NaN
+ENG,28/03/1910,,Sheffield Wednesday,Bradford City,2,1,H,NaN,NaN,NaN
+ENG,28/03/1910,,Middlesbrough FC,Aston Villa,3,2,H,NaN,NaN,NaN
+ENG,28/03/1910,,Bristol City,Manchester United,2,1,H,NaN,NaN,NaN
+ENG,29/03/1910,,Tottenham Hotspur,Blackburn Rovers,4,0,H,NaN,NaN,NaN
+ENG,02/04/1910,,Notts County,Newcastle United,2,2,D,NaN,NaN,NaN
+ENG,06/04/1910,,Manchester United,Everton FC,3,2,H,NaN,NaN,NaN
+ENG,28/03/1910,,Chelsea FC,Woolwich Arsenal,0,1,A,NaN,NaN,NaN
+ENG,28/03/1910,,Notts County,Bolton Wanderers,0,0,D,NaN,NaN,NaN
+ENG,29/03/1910,,Bradford City,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,02/04/1910,,Bury FC,Sheffield United,2,0,H,NaN,NaN,NaN
+ENG,02/04/1910,,Manchester United,Blackburn Rovers,2,0,H,NaN,NaN,NaN
+ENG,02/04/1910,,Sunderland AFC,Middlesbrough FC,2,2,D,NaN,NaN,NaN
+ENG,02/04/1910,,Tottenham Hotspur,Aston Villa,1,1,D,NaN,NaN,NaN
+ENG,09/04/1910,,Sunderland AFC,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,02/04/1910,,Bradford City,Chelsea FC,4,1,H,NaN,NaN,NaN
+ENG,02/04/1910,,Bristol City,Woolwich Arsenal,0,1,A,NaN,NaN,NaN
+ENG,02/04/1910,,Preston North End,Liverpool FC,2,0,H,NaN,NaN,NaN
+ENG,02/04/1910,,Sheffield Wednesday,Bolton Wanderers,0,0,D,NaN,NaN,NaN
+ENG,09/04/1910,,Middlesbrough FC,Newcastle United,1,1,D,NaN,NaN,NaN
+ENG,09/04/1910,,Liverpool FC,Notts County,2,1,H,NaN,NaN,NaN
+ENG,09/04/1910,,Blackburn Rovers,Bradford City,2,0,H,NaN,NaN,NaN
+ENG,09/04/1910,,Aston Villa,Preston North End,3,0,H,NaN,NaN,NaN
+ENG,11/04/1910,,Blackburn Rovers,Everton FC,2,1,H,NaN,NaN,NaN
+ENG,13/04/1910,,Newcastle United,Sunderland AFC,1,0,H,NaN,NaN,NaN
+ENG,09/04/1910,,Woolwich Arsenal,Bury FC,0,0,D,NaN,NaN,NaN
+ENG,09/04/1910,,Bolton Wanderers,Bristol City,4,2,H,NaN,NaN,NaN
+ENG,09/04/1910,,Chelsea FC,Sheffield Wednesday,4,1,H,NaN,NaN,NaN
+ENG,09/04/1910,,Nottingham Forest,Manchester United,2,0,H,NaN,NaN,NaN
+ENG,09/04/1910,,Sheffield United,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
+ENG,11/04/1910,,Woolwich Arsenal,Aston Villa,1,0,H,NaN,NaN,NaN
+ENG,13/04/1910,,Notts County,Everton FC,2,3,A,NaN,NaN,NaN
+ENG,16/04/1910,,Newcastle United,Liverpool FC,1,3,A,NaN,NaN,NaN
+ENG,16/04/1910,,Bradford City,Nottingham Forest,1,1,D,NaN,NaN,NaN
+ENG,16/04/1910,,Sheffield Wednesday,Blackburn Rovers,2,1,H,NaN,NaN,NaN
+ENG,16/04/1910,,Preston North End,Sheffield United,1,1,D,NaN,NaN,NaN
+ENG,16/04/1910,,Notts County,Aston Villa,2,3,A,NaN,NaN,NaN
+ENG,16/04/1910,,Manchester United,Sunderland AFC,2,0,H,NaN,NaN,NaN
+ENG,16/04/1910,,Everton FC,Middlesbrough FC,1,1,D,NaN,NaN,NaN
+ENG,16/04/1910,,Bury FC,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,16/04/1910,,Bristol City,Chelsea FC,1,0,H,NaN,NaN,NaN
+ENG,20/04/1910,,Bury FC,Tottenham Hotspur,3,1,H,NaN,NaN,NaN
+ENG,20/04/1910,,Liverpool FC,Nottingham Forest,7,3,H,NaN,NaN,NaN
+ENG,20/04/1910,,Middlesbrough FC,Bristol City,0,0,D,NaN,NaN,NaN
+ENG,25/04/1910,,Bristol City,Newcastle United,0,3,A,NaN,NaN,NaN
+ENG,16/04/1910,,Tottenham Hotspur,Woolwich Arsenal,1,1,D,NaN,NaN,NaN
+ENG,23/04/1910,,Sunderland AFC,Bradford City,3,0,H,NaN,NaN,NaN
+ENG,23/04/1910,,Nottingham Forest,Sheffield Wednesday,0,6,A,NaN,NaN,NaN
+ENG,23/04/1910,,Middlesbrough FC,Liverpool FC,2,2,D,NaN,NaN,NaN
+ENG,23/04/1910,,Everton FC,Manchester United,3,3,D,NaN,NaN,NaN
+ENG,23/04/1910,,Chelsea FC,Bury FC,2,0,H,NaN,NaN,NaN
+ENG,23/04/1910,,Bolton Wanderers,Tottenham Hotspur,0,2,A,NaN,NaN,NaN
+ENG,23/04/1910,,Blackburn Rovers,Sheffield United,3,1,H,NaN,NaN,NaN
+ENG,23/04/1910,,Woolwich Arsenal,Preston North End,1,3,A,NaN,NaN,NaN
+ENG,27/04/1910,,Aston Villa,Newcastle United,4,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Bradford City,Everton FC,2,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Bristol City,Nottingham Forest,4,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Bury FC,Blackburn Rovers,2,1,H,NaN,NaN,NaN
+ENG,30/04/1910,,Liverpool FC,Aston Villa,2,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Manchester United,Middlesbrough FC,4,1,H,NaN,NaN,NaN
+ENG,30/04/1910,,Newcastle United,Sheffield United,0,0,D,NaN,NaN,NaN
+ENG,30/04/1910,,Preston North End,Bolton Wanderers,1,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Sheffield Wednesday,Sunderland AFC,1,0,H,NaN,NaN,NaN
+ENG,30/04/1910,,Tottenham Hotspur,Chelsea FC,2,1,H,NaN,NaN,NaN

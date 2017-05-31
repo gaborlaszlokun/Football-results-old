@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHN,19/03/2000,,Dalian Shide,Beijing Guoan,2,0,H,NaN,NaN,NaN
+CHN,19/03/2000,,Qingdao Yizhong Hainiu,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,19/03/2000,,Shandong Luneng,Yunnan Hongta,0,1,A,NaN,NaN,NaN
+CHN,19/03/2000,,Shenyang Haishi,Chongquing Longxin,0,0,D,NaN,NaN,NaN
+CHN,19/03/2000,,Shenzhen Ping'an Kejian,Sichuan Quanxing Shuijinfang,0,0,D,NaN,NaN,NaN
+CHN,19/03/2000,,Tianjin Teda Dingxin,Changchun Yatai,2,0,H,NaN,NaN,NaN
+CHN,19/03/2000,,Xiamen Xiaxin,Liaoning Fushun Tegang,3,0,H,NaN,NaN,NaN
+CHN,25/03/2000,,Chongquing Longxin,Dalian Shide,2,0,H,NaN,NaN,NaN
+CHN,25/03/2000,,Liaoning Fushun Tegang,Shenyang Haishi,0,0,D,NaN,NaN,NaN
+CHN,25/03/2000,,Shanghai Shenhua,Changchun Yatai,2,1,H,NaN,NaN,NaN
+CHN,25/03/2000,,Sichuan Quanxing Shuijinfang,Qingdao Yizhong Hainiu,3,1,H,NaN,NaN,NaN
+CHN,25/03/2000,,Xiamen Xiaxin,Shandong Luneng,0,2,A,NaN,NaN,NaN
+CHN,25/03/2000,,Yunnan Hongta,Shenzhen Ping'an Kejian,1,0,H,NaN,NaN,NaN
+CHN,26/03/2000,,Beijing Guoan,Tianjin Teda Dingxin,1,2,A,NaN,NaN,NaN
+CHN,02/04/2000,,Dalian Shide,Liaoning Fushun Tegang,0,0,D,NaN,NaN,NaN
+CHN,02/04/2000,,Changchun Yatai,Sichuan Quanxing Shuijinfang,0,0,D,NaN,NaN,NaN
+CHN,02/04/2000,,Qingdao Yizhong Hainiu,Yunnan Hongta,2,0,H,NaN,NaN,NaN
+CHN,02/04/2000,,Shanghai Shenhua,Beijing Guoan,1,0,H,NaN,NaN,NaN
+CHN,02/04/2000,,Shenyang Haishi,Xiamen Xiaxin,2,0,H,NaN,NaN,NaN
+CHN,02/04/2000,,Shenzhen Ping'an Kejian,Shandong Luneng,1,2,A,NaN,NaN,NaN
+CHN,02/04/2000,,Tianjin Teda Dingxin,Chongquing Longxin,0,0,D,NaN,NaN,NaN
+CHN,09/04/2000,,Chongquing Longxin,Shanghai Shenhua,0,0,D,NaN,NaN,NaN
+CHN,09/04/2000,,Liaoning Fushun Tegang,Tianjin Teda Dingxin,1,1,D,NaN,NaN,NaN
+CHN,09/04/2000,,Shandong Luneng,Shenyang Haishi,3,0,H,NaN,NaN,NaN
+CHN,09/04/2000,,Shenzhen Ping'an Kejian,Qingdao Yizhong Hainiu,2,0,H,NaN,NaN,NaN
+CHN,09/04/2000,,Sichuan Quanxing Shuijinfang,Beijing Guoan,0,0,D,NaN,NaN,NaN
+CHN,09/04/2000,,Xiamen Xiaxin,Dalian Shide,0,2,A,NaN,NaN,NaN
+CHN,09/04/2000,,Yunnan Hongta,Changchun Yatai,2,0,H,NaN,NaN,NaN
+CHN,16/04/2000,,Beijing Guoan,Yunnan Hongta,2,1,H,NaN,NaN,NaN
+CHN,16/04/2000,,Dalian Shide,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,16/04/2000,,Changchun Yatai,Shenzhen Ping'an Kejian,0,1,A,NaN,NaN,NaN
+CHN,16/04/2000,,Qingdao Yizhong Hainiu,Shandong Luneng,1,0,H,NaN,NaN,NaN
+CHN,16/04/2000,,Shanghai Shenhua,Liaoning Fushun Tegang,1,0,H,NaN,NaN,NaN
+CHN,16/04/2000,,Sichuan Quanxing Shuijinfang,Chongquing Longxin,4,0,H,NaN,NaN,NaN
+CHN,16/04/2000,,Tianjin Teda Dingxin,Xiamen Xiaxin,2,1,H,NaN,NaN,NaN
+CHN,20/04/2000,,Beijing Guoan,Shenzhen Ping'an Kejian,3,0,H,NaN,NaN,NaN
+CHN,20/04/2000,,Chongquing Longxin,Yunnan Hongta,4,1,H,NaN,NaN,NaN
+CHN,20/04/2000,,Dalian Shide,Shandong Luneng,5,0,H,NaN,NaN,NaN
+CHN,20/04/2000,,Changchun Yatai,Qingdao Yizhong Hainiu,1,1,D,NaN,NaN,NaN
+CHN,20/04/2000,,Liaoning Fushun Tegang,Sichuan Quanxing Shuijinfang,0,1,A,NaN,NaN,NaN
+CHN,20/04/2000,,Shenyang Haishi,Tianjin Teda Dingxin,5,1,H,NaN,NaN,NaN
+CHN,20/04/2000,,Xiamen Xiaxin,Shanghai Shenhua,1,1,D,NaN,NaN,NaN
+CHN,23/04/2000,,Qingdao Yizhong Hainiu,Beijing Guoan,0,0,D,NaN,NaN,NaN
+CHN,23/04/2000,,Shandong Luneng,Changchun Yatai,2,0,H,NaN,NaN,NaN
+CHN,23/04/2000,,Shanghai Shenhua,Shenyang Haishi,3,1,H,NaN,NaN,NaN
+CHN,23/04/2000,,Shenzhen Ping'an Kejian,Chongquing Longxin,1,2,A,NaN,NaN,NaN
+CHN,23/04/2000,,Sichuan Quanxing Shuijinfang,Xiamen Xiaxin,0,1,A,NaN,NaN,NaN
+CHN,23/04/2000,,Tianjin Teda Dingxin,Dalian Shide,1,0,H,NaN,NaN,NaN
+CHN,23/04/2000,,Yunnan Hongta,Liaoning Fushun Tegang,1,0,H,NaN,NaN,NaN
+CHN,30/04/2000,,Chongquing Longxin,Qingdao Yizhong Hainiu,1,0,H,NaN,NaN,NaN
+CHN,30/04/2000,,Dalian Shide,Shanghai Shenhua,2,1,H,NaN,NaN,NaN
+CHN,30/04/2000,,Changchun Yatai,Beijing Guoan,2,1,H,NaN,NaN,NaN
+CHN,30/04/2000,,Liaoning Fushun Tegang,Shenzhen Ping'an Kejian,2,1,H,NaN,NaN,NaN
+CHN,30/04/2000,,Shandong Luneng,Tianjin Teda Dingxin,3,0,H,NaN,NaN,NaN
+CHN,30/04/2000,,Sichuan Quanxing Shuijinfang,Shenyang Haishi,2,1,H,NaN,NaN,NaN
+CHN,30/04/2000,,Yunnan Hongta,Xiamen Xiaxin,1,0,H,NaN,NaN,NaN
+CHN,14/05/2000,,Beijing Guoan,Shandong Luneng,0,1,A,NaN,NaN,NaN
+CHN,14/05/2000,,Dalian Shide,Sichuan Quanxing Shuijinfang,5,2,H,NaN,NaN,NaN
+CHN,14/05/2000,,Changchun Yatai,Chongquing Longxin,0,1,A,NaN,NaN,NaN
+CHN,14/05/2000,,Qingdao Yizhong Hainiu,Liaoning Fushun Tegang,2,1,H,NaN,NaN,NaN
+CHN,14/05/2000,,Shenyang Haishi,Yunnan Hongta,2,1,H,NaN,NaN,NaN
+CHN,14/05/2000,,Tianjin Teda Dingxin,Shanghai Shenhua,0,1,A,NaN,NaN,NaN
+CHN,14/05/2000,,Xiamen Xiaxin,Shenzhen Ping'an Kejian,1,0,H,NaN,NaN,NaN
+CHN,18/05/2000,,Chongquing Longxin,Beijing Guoan,2,2,D,NaN,NaN,NaN
+CHN,18/05/2000,,Liaoning Fushun Tegang,Changchun Yatai,1,0,H,NaN,NaN,NaN
+CHN,18/05/2000,,Shanghai Shenhua,Shandong Luneng,2,1,H,NaN,NaN,NaN
+CHN,18/05/2000,,Shenzhen Ping'an Kejian,Shenyang Haishi,0,1,A,NaN,NaN,NaN
+CHN,18/05/2000,,Sichuan Quanxing Shuijinfang,Tianjin Teda Dingxin,2,0,H,NaN,NaN,NaN
+CHN,18/05/2000,,Xiamen Xiaxin,Qingdao Yizhong Hainiu,0,0,D,NaN,NaN,NaN
+CHN,18/05/2000,,Yunnan Hongta,Dalian Shide,0,2,A,NaN,NaN,NaN
+CHN,21/05/2000,,Beijing Guoan,Liaoning Fushun Tegang,0,0,D,NaN,NaN,NaN
+CHN,21/05/2000,,Changchun Yatai,Xiamen Xiaxin,2,1,H,NaN,NaN,NaN
+CHN,21/05/2000,,Qingdao Yizhong Hainiu,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,21/05/2000,,Shandong Luneng,Chongquing Longxin,3,2,H,NaN,NaN,NaN
+CHN,21/05/2000,,Shenzhen Ping'an Kejian,Dalian Shide,0,0,D,NaN,NaN,NaN
+CHN,21/05/2000,,Sichuan Quanxing Shuijinfang,Shanghai Shenhua,3,1,H,NaN,NaN,NaN
+CHN,21/05/2000,,Yunnan Hongta,Tianjin Teda Dingxin,2,2,D,NaN,NaN,NaN
+CHN,28/05/2000,,Beijing Guoan,Xiamen Xiaxin,0,1,A,NaN,NaN,NaN
+CHN,28/05/2000,,Chongquing Longxin,Liaoning Fushun Tegang,1,1,D,NaN,NaN,NaN
+CHN,28/05/2000,,Dalian Shide,Qingdao Yizhong Hainiu,3,2,H,NaN,NaN,NaN
+CHN,28/05/2000,,Shandong Luneng,Sichuan Quanxing Shuijinfang,0,0,D,NaN,NaN,NaN
+CHN,28/05/2000,,Shanghai Shenhua,Yunnan Hongta,3,0,H,NaN,NaN,NaN
+CHN,28/05/2000,,Shenyang Haishi,Changchun Yatai,3,1,H,NaN,NaN,NaN
+CHN,28/05/2000,,Tianjin Teda Dingxin,Shenzhen Ping'an Kejian,1,1,D,NaN,NaN,NaN
+CHN,04/06/2000,,Changchun Yatai,Dalian Shide,2,3,A,NaN,NaN,NaN
+CHN,04/06/2000,,Liaoning Fushun Tegang,Shandong Luneng,0,0,D,NaN,NaN,NaN
+CHN,04/06/2000,,Qingdao Yizhong Hainiu,Tianjin Teda Dingxin,1,1,D,NaN,NaN,NaN
+CHN,04/06/2000,,Shenyang Haishi,Beijing Guoan,0,2,A,NaN,NaN,NaN
+CHN,04/06/2000,,Shenzhen Ping'an Kejian,Shanghai Shenhua,2,1,H,NaN,NaN,NaN
+CHN,04/06/2000,,Xiamen Xiaxin,Chongquing Longxin,0,3,A,NaN,NaN,NaN
+CHN,04/06/2000,,Yunnan Hongta,Sichuan Quanxing Shuijinfang,1,1,D,NaN,NaN,NaN
+CHN,18/06/2000,,Beijing Guoan,Dalian Shide,1,2,A,NaN,NaN,NaN
+CHN,18/06/2000,,Chongquing Longxin,Shenyang Haishi,3,0,H,NaN,NaN,NaN
+CHN,18/06/2000,,Changchun Yatai,Tianjin Teda Dingxin,2,2,D,NaN,NaN,NaN
+CHN,18/06/2000,,Liaoning Fushun Tegang,Xiamen Xiaxin,5,0,H,NaN,NaN,NaN
+CHN,18/06/2000,,Shanghai Shenhua,Qingdao Yizhong Hainiu,2,0,H,NaN,NaN,NaN
+CHN,18/06/2000,,Sichuan Quanxing Shuijinfang,Shenzhen Ping'an Kejian,2,0,H,NaN,NaN,NaN
+CHN,18/06/2000,,Yunnan Hongta,Shandong Luneng,0,1,A,NaN,NaN,NaN
+CHN,25/06/2000,,Dalian Shide,Chongquing Longxin,2,0,H,NaN,NaN,NaN
+CHN,25/06/2000,,Changchun Yatai,Shanghai Shenhua,1,2,A,NaN,NaN,NaN
+CHN,25/06/2000,,Qingdao Yizhong Hainiu,Sichuan Quanxing Shuijinfang,1,0,H,NaN,NaN,NaN
+CHN,25/06/2000,,Shandong Luneng,Xiamen Xiaxin,2,0,H,NaN,NaN,NaN
+CHN,25/06/2000,,Shenyang Haishi,Liaoning Fushun Tegang,2,0,H,NaN,NaN,NaN
+CHN,25/06/2000,,Shenzhen Ping'an Kejian,Yunnan Hongta,2,0,H,NaN,NaN,NaN
+CHN,25/06/2000,,Tianjin Teda Dingxin,Beijing Guoan,1,2,A,NaN,NaN,NaN
+CHN,02/07/2000,,Beijing Guoan,Shanghai Shenhua,3,3,D,NaN,NaN,NaN
+CHN,02/07/2000,,Chongquing Longxin,Tianjin Teda Dingxin,1,1,D,NaN,NaN,NaN
+CHN,02/07/2000,,Liaoning Fushun Tegang,Dalian Shide,1,2,A,NaN,NaN,NaN
+CHN,02/07/2000,,Shandong Luneng,Shenzhen Ping'an Kejian,3,1,H,NaN,NaN,NaN
+CHN,02/07/2000,,Sichuan Quanxing Shuijinfang,Changchun Yatai,1,0,H,NaN,NaN,NaN
+CHN,02/07/2000,,Xiamen Xiaxin,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,02/07/2000,,Yunnan Hongta,Qingdao Yizhong Hainiu,2,1,H,NaN,NaN,NaN
+CHN,09/07/2000,,Beijing Guoan,Sichuan Quanxing Shuijinfang,1,0,H,NaN,NaN,NaN
+CHN,09/07/2000,,Dalian Shide,Xiamen Xiaxin,3,1,H,NaN,NaN,NaN
+CHN,09/07/2000,,Changchun Yatai,Yunnan Hongta,3,0,H,NaN,NaN,NaN
+CHN,09/07/2000,,Qingdao Yizhong Hainiu,Shenzhen Ping'an Kejian,0,1,A,NaN,NaN,NaN
+CHN,09/07/2000,,Shanghai Shenhua,Chongquing Longxin,0,0,D,NaN,NaN,NaN
+CHN,09/07/2000,,Shenyang Haishi,Shandong Luneng,3,0,H,NaN,NaN,NaN
+CHN,09/07/2000,,Tianjin Teda Dingxin,Liaoning Fushun Tegang,0,4,A,NaN,NaN,NaN
+CHN,16/07/2000,,Chongquing Longxin,Sichuan Quanxing Shuijinfang,2,1,H,NaN,NaN,NaN
+CHN,16/07/2000,,Liaoning Fushun Tegang,Shanghai Shenhua,0,1,A,NaN,NaN,NaN
+CHN,16/07/2000,,Shandong Luneng,Qingdao Yizhong Hainiu,4,2,H,NaN,NaN,NaN
+CHN,16/07/2000,,Shenyang Haishi,Dalian Shide,1,2,A,NaN,NaN,NaN
+CHN,16/07/2000,,Shenzhen Ping'an Kejian,Changchun Yatai,3,0,H,NaN,NaN,NaN
+CHN,16/07/2000,,Xiamen Xiaxin,Tianjin Teda Dingxin,2,2,D,NaN,NaN,NaN
+CHN,16/07/2000,,Yunnan Hongta,Beijing Guoan,0,0,D,NaN,NaN,NaN
+CHN,30/07/2000,,Qingdao Yizhong Hainiu,Changchun Yatai,0,0,D,NaN,NaN,NaN
+CHN,30/07/2000,,Shandong Luneng,Dalian Shide,2,3,A,NaN,NaN,NaN
+CHN,30/07/2000,,Shanghai Shenhua,Xiamen Xiaxin,2,1,H,NaN,NaN,NaN
+CHN,30/07/2000,,Shenzhen Ping'an Kejian,Beijing Guoan,2,0,H,NaN,NaN,NaN
+CHN,30/07/2000,,Sichuan Quanxing Shuijinfang,Liaoning Fushun Tegang,1,0,H,NaN,NaN,NaN
+CHN,30/07/2000,,Tianjin Teda Dingxin,Shenyang Haishi,2,0,H,NaN,NaN,NaN
+CHN,30/07/2000,,Yunnan Hongta,Chongquing Longxin,2,2,D,NaN,NaN,NaN
+CHN,06/08/2000,,Beijing Guoan,Qingdao Yizhong Hainiu,4,1,H,NaN,NaN,NaN
+CHN,06/08/2000,,Chongqing Lifan,Shenzhen Ping'an Kejian,2,2,D,NaN,NaN,NaN
+CHN,06/08/2000,,Dalian Shide,Tianjin Teda Dingxin,1,2,A,NaN,NaN,NaN
+CHN,06/08/2000,,Changchun Yatai,Shandong Luneng,2,0,H,NaN,NaN,NaN
+CHN,06/08/2000,,Liaoning Fushun Tegang,Yunnan Hongta,2,1,H,NaN,NaN,NaN
+CHN,06/08/2000,,Shenyang Haishi,Shanghai Shenhua,1,2,A,NaN,NaN,NaN
+CHN,06/08/2000,,Xiamen Xiaxin,Sichuan Quanxing Shuijinfang,2,2,D,NaN,NaN,NaN
+CHN,20/08/2000,,Beijing Guoan,Changchun Yatai,4,1,H,NaN,NaN,NaN
+CHN,20/08/2000,,Qingdao Yizhong Hainiu,Chongqing Lifan,1,1,D,NaN,NaN,NaN
+CHN,20/08/2000,,Shanghai Shenhua,Dalian Shide,1,0,H,NaN,NaN,NaN
+CHN,20/08/2000,,Shenyang Haishi,Sichuan Quanxing Shuijinfang,4,1,H,NaN,NaN,NaN
+CHN,20/08/2000,,Shenzhen Ping'an Kejian,Liaoning Fushun Tegang,1,1,D,NaN,NaN,NaN
+CHN,20/08/2000,,Tianjin Teda Dingxin,Shandong Luneng,2,0,H,NaN,NaN,NaN
+CHN,20/08/2000,,Xiamen Xiaxin,Yunnan Hongta,2,0,H,NaN,NaN,NaN
+CHN,10/09/2000,,Chongqing Lifan,Changchun Yatai,7,1,H,NaN,NaN,NaN
+CHN,10/09/2000,,Liaoning Fushun Tegang,Qingdao Yizhong Hainiu,1,1,D,NaN,NaN,NaN
+CHN,10/09/2000,,Shandong Luneng,Beijing Guoan,1,1,D,NaN,NaN,NaN
+CHN,10/09/2000,,Shanghai Shenhua,Tianjin Teda Dingxin,1,1,D,NaN,NaN,NaN
+CHN,10/09/2000,,Shenzhen Ping'an Kejian,Xiamen Xiaxin,4,0,H,NaN,NaN,NaN
+CHN,10/09/2000,,Sichuan Quanxing Shuijinfang,Dalian Shide,0,0,D,NaN,NaN,NaN
+CHN,10/09/2000,,Yunnan Hongta,Shenyang Haishi,2,2,D,NaN,NaN,NaN
+CHN,14/09/2000,,Beijing Guoan,Chongqing Lifan,3,2,H,NaN,NaN,NaN
+CHN,14/09/2000,,Dalian Shide,Yunnan Hongta,4,1,H,NaN,NaN,NaN
+CHN,14/09/2000,,Changchun Yatai,Liaoning Fushun Tegang,0,1,A,NaN,NaN,NaN
+CHN,14/09/2000,,Qingdao Yizhong Hainiu,Xiamen Xiaxin,2,0,H,NaN,NaN,NaN
+CHN,14/09/2000,,Shandong Luneng,Shanghai Shenhua,1,2,A,NaN,NaN,NaN
+CHN,14/09/2000,,Shenyang Haishi,Shenzhen Ping'an Kejian,0,0,D,NaN,NaN,NaN
+CHN,14/09/2000,,Tianjin Teda Dingxin,Sichuan Quanxing Shuijinfang,0,2,A,NaN,NaN,NaN
+CHN,17/09/2000,,Chongqing Lifan,Shandong Luneng,2,2,D,NaN,NaN,NaN
+CHN,17/09/2000,,Dalian Shide,Shenzhen Ping'an Kejian,3,0,H,NaN,NaN,NaN
+CHN,17/09/2000,,Liaoning Fushun Tegang,Beijing Guoan,2,1,H,NaN,NaN,NaN
+CHN,17/09/2000,,Shanghai Shenhua,Sichuan Quanxing Shuijinfang,1,1,D,NaN,NaN,NaN
+CHN,17/09/2000,,Shenyang Haishi,Qingdao Yizhong Hainiu,0,0,D,NaN,NaN,NaN
+CHN,17/09/2000,,Tianjin Teda Dingxin,Yunnan Hongta,1,2,A,NaN,NaN,NaN
+CHN,17/09/2000,,Xiamen Xiaxin,Changchun Yatai,1,0,H,NaN,NaN,NaN
+CHN,24/09/2000,,Changchun Yatai,Shenyang Haishi,1,1,D,NaN,NaN,NaN
+CHN,24/09/2000,,Liaoning Fushun Tegang,Chongqing Lifan,5,3,H,NaN,NaN,NaN
+CHN,24/09/2000,,Qingdao Yizhong Hainiu,Dalian Shide,0,0,D,NaN,NaN,NaN
+CHN,24/09/2000,,Shenzhen Ping'an Kejian,Tianjin Teda Dingxin,1,1,D,NaN,NaN,NaN
+CHN,24/09/2000,,Sichuan Quanxing Shuijinfang,Shandong Luneng,1,0,H,NaN,NaN,NaN
+CHN,24/09/2000,,Xiamen Xiaxin,Beijing Guoan,2,4,A,NaN,NaN,NaN
+CHN,24/09/2000,,Yunnan Hongta,Shanghai Shenhua,2,1,H,NaN,NaN,NaN
+CHN,01/10/2000,,Beijing Guoan,Shenyang Haishi,3,3,D,NaN,NaN,NaN
+CHN,01/10/2000,,Chongqing Lifan,Xiamen Xiaxin,3,1,H,NaN,NaN,NaN
+CHN,01/10/2000,,Dalian Shide,Changchun Yatai,3,0,H,NaN,NaN,NaN
+CHN,01/10/2000,,Shandong Luneng,Liaoning Fushun Tegang,2,0,H,NaN,NaN,NaN
+CHN,01/10/2000,,Shanghai Shenhua,Shenzhen Ping'an Kejian,1,1,D,NaN,NaN,NaN
+CHN,01/10/2000,,Sichuan Quanxing Shuijinfang,Yunnan Hongta,3,0,H,NaN,NaN,NaN
+CHN,01/10/2000,,Tianjin Teda Dingxin,Qingdao Yizhong Hainiu,0,1,A,NaN,NaN,NaN

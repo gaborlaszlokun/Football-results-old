@@ -1,0 +1,73 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,28/08/2011,01:00,Club San José,Real Potosí,0,2,A,0,1,A
+BOL,28/08/2011,20:30,The Strongest,La Paz FC,6,2,H,3,1,H
+BOL,28/08/2011,20:30,Universitario Sucre,Club Bolívar,1,1,D,0,1,A
+BOL,28/08/2011,21:00,Real Mamoré,Oriente Petrolero,1,4,A,0,1,A
+BOL,28/08/2011,23:00,Club Blooming,Guabirá,1,3,A,1,1,D
+BOL,14/09/2011,22:00,Club Aurora,Nacional Potosí,2,0,H,1,0,H
+BOL,08/09/2011,01:00,La Paz FC,Nacional Potosí,0,4,A,0,1,A
+BOL,08/09/2011,01:00,Real Potosí,Club Blooming,5,0,H,2,0,H
+BOL,08/09/2011,01:00,Real Mamoré,Club Aurora,0,2,A,0,1,A
+BOL,08/09/2011,01:00,Club San José,Universitario Sucre,0,1,A,0,1,A
+BOL,08/09/2011,01:30,Oriente Petrolero,The Strongest,1,1,D,0,0,D
+BOL,09/09/2011,01:00,Club Bolívar,Guabirá,6,1,H,2,0,H
+BOL,11/09/2011,20:30,Nacional Potosí,Oriente Petrolero,4,2,H,2,0,H
+BOL,11/09/2011,20:30,Universitario Sucre,Real Potosí,1,1,D,1,0,H
+BOL,11/09/2011,20:45,The Strongest,Real Mamoré,9,1,H,1,1,D
+BOL,11/09/2011,21:00,Club Aurora,La Paz FC,2,0,H,0,0,D
+BOL,11/09/2011,23:00,Club Blooming,Club Bolívar,1,0,H,0,0,D
+BOL,12/09/2011,00:00,Guabirá,Club San José,1,0,H,0,0,D
+BOL,17/09/2011,19:00,La Paz FC,Universitario Sucre,2,1,H,1,1,D
+BOL,18/09/2011,20:30,Nacional Potosí,Real Potosí,0,0,D,0,0,D
+BOL,18/09/2011,20:30,The Strongest,Club Bolívar,3,5,A,0,2,A
+BOL,18/09/2011,21:00,Real Mamoré,Guabirá,0,2,A,0,1,A
+BOL,18/09/2011,23:00,Oriente Petrolero,Club Blooming,1,1,D,0,1,A
+BOL,29/09/2011,01:00,Club Aurora,Club San José,2,0,H,1,0,H
+BOL,24/09/2011,20:30,Universitario Sucre,Club Blooming,4,3,H,3,2,H
+BOL,25/09/2011,20:30,Club San José,Club Bolívar,0,0,D,0,0,D
+BOL,25/09/2011,20:30,Real Potosí,Guabirá,6,0,H,4,0,H
+BOL,25/09/2011,20:30,The Strongest,Club Aurora,2,1,H,0,1,A
+BOL,25/09/2011,21:00,Real Mamoré,Nacional Potosí,2,0,H,0,0,D
+BOL,26/09/2011,01:30,Oriente Petrolero,La Paz FC,3,1,H,1,1,D
+BOL,15/10/2011,01:00,Nacional Potosí,The Strongest,2,1,H,2,1,H
+BOL,18/10/2011,00:00,Club Blooming,Club San José,0,0,D,0,0,D
+BOL,19/10/2011,01:00,Guabirá,Universitario Sucre,2,2,D,1,2,A
+BOL,19/10/2011,01:00,Club Bolívar,Real Potosí,1,1,D,1,1,D
+BOL,19/10/2011,20:30,La Paz FC,Real Mamoré,3,1,H,2,0,H
+BOL,20/10/2011,01:00,Club Aurora,Oriente Petrolero,0,3,A,0,1,A
+BOL,22/10/2011,20:30,Nacional Potosí,Club Aurora,1,2,A,0,1,A
+BOL,23/10/2011,01:00,Club Bolívar,Universitario Sucre,1,2,A,1,2,A
+BOL,23/10/2011,20:30,Real Potosí,Club San José,0,2,A,0,0,D
+BOL,23/10/2011,20:30,La Paz FC,The Strongest,3,3,D,2,2,D
+BOL,23/10/2011,23:00,Oriente Petrolero,Real Mamoré,4,1,H,2,0,H
+BOL,23/10/2011,23:00,Guabirá,Club Blooming,0,2,A,0,1,A
+BOL,29/10/2011,23:00,Guabirá,Real Mamoré,2,0,H,1,0,H
+BOL,30/10/2011,01:00,Club Bolívar,The Strongest,3,1,H,1,0,H
+BOL,30/10/2011,19:00,Real Potosí,Nacional Potosí,0,0,D,0,0,D
+BOL,30/10/2011,19:30,Universitario Sucre,La Paz FC,2,0,H,2,0,H
+BOL,30/10/2011,21:00,Club San José,Club Aurora,2,1,H,0,0,D
+BOL,30/10/2011,23:00,Club Blooming,Oriente Petrolero,1,2,A,0,1,A
+BOL,01/12/2011,00:00,Universitario Sucre,Club San José,0,1,A,0,0,D
+BOL,01/12/2011,00:00,Guabirá,Club Bolívar,1,0,H,1,0,H
+BOL,01/12/2011,00:00,The Strongest,Oriente Petrolero,5,0,H,2,0,H
+BOL,01/12/2011,00:00,Club Aurora,Real Mamoré,3,1,H,2,0,H
+BOL,01/12/2011,00:00,Nacional Potosí,La Paz FC,0,0,D,0,0,D
+BOL,01/12/2011,00:00,Club Blooming,Real Potosí,1,1,D,1,0,H
+BOL,19/11/2011,19:30,La Paz FC,Club Aurora,1,5,A,0,2,A
+BOL,20/11/2011,19:30,Club San José,Guabirá,2,0,H,1,0,H
+BOL,20/11/2011,19:30,Real Potosí,Universitario Sucre,1,0,H,0,0,D
+BOL,20/11/2011,20:00,Real Mamoré,The Strongest,1,0,H,0,0,D
+BOL,20/11/2011,20:00,Club Bolívar,Club Blooming,2,0,H,1,0,H
+BOL,20/11/2011,22:00,Oriente Petrolero,Nacional Potosí,4,1,H,3,0,H
+BOL,23/11/2011,22:00,La Paz FC,Oriente Petrolero,1,0,H,1,0,H
+BOL,24/11/2011,00:00,Club Bolívar,Club San José,0,0,D,0,0,D
+BOL,25/11/2011,00:00,Nacional Potosí,Real Mamoré,9,0,H,4,0,H
+BOL,25/11/2011,00:00,Club Aurora,The Strongest,2,1,H,2,0,H
+BOL,25/11/2011,00:00,Guabirá,Real Potosí,3,2,H,0,2,A
+BOL,25/11/2011,00:30,Club Blooming,Universitario Sucre,1,1,D,1,0,H
+BOL,27/11/2011,20:30,Real Mamoré,La Paz FC,2,3,A,1,1,D
+BOL,27/11/2011,20:30,Universitario Sucre,Guabirá,2,1,H,1,1,D
+BOL,27/11/2011,20:30,Club San José,Club Blooming,3,0,H,1,0,H
+BOL,27/11/2011,20:30,The Strongest,Nacional Potosí,2,2,D,1,1,D
+BOL,27/11/2011,20:30,Real Potosí,Club Bolívar,1,3,A,0,0,D
+BOL,27/11/2011,20:30,Oriente Petrolero,Club Aurora,2,1,H,1,1,D

@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BRA,21/05/2011,22:30,Flamengo RJ,Avaí FC,4,0,H,1,0,H
+BRA,21/05/2011,22:30,Ceará SC,Vasco da Gama,1,3,A,0,0,D
+BRA,21/05/2011,22:30,Atlético Mineiro,Atlético Paranaense,3,0,H,2,0,H
+BRA,22/05/2011,01:00,Santos FC,Internacional,1,1,D,1,1,D
+BRA,22/05/2011,20:00,SE Palmeiras,Botafogo RJ,1,0,H,0,0,D
+BRA,22/05/2011,20:00,Grêmio Porto Alegre,Corinthians SP,1,2,A,0,0,D
+BRA,22/05/2011,20:00,Coritiba FC,Atlético GO,0,1,A,0,0,D
+BRA,22/05/2011,20:00,Figueirense,Cruzeiro EC,1,0,H,0,0,D
+BRA,22/05/2011,22:30,Fluminense RJ,São Paulo FC,0,2,A,0,1,A
+BRA,22/05/2011,22:30,América MG,EC Bahia,2,1,H,0,1,A
+BRA,28/05/2011,22:30,Botafogo RJ,Santos FC,1,0,H,1,0,H
+BRA,28/05/2011,22:30,Internacional,Ceará SC,0,1,A,0,0,D
+BRA,28/05/2011,22:30,Avaí FC,Atlético Mineiro,1,3,A,1,1,D
+BRA,29/05/2011,01:00,São Paulo FC,Figueirense,1,0,H,0,0,D
+BRA,29/05/2011,20:00,Corinthians SP,Coritiba FC,2,1,H,1,0,H
+BRA,29/05/2011,20:00,EC Bahia,Flamengo RJ,3,3,D,2,1,H
+BRA,29/05/2011,20:00,Atlético Paranaense,Grêmio Porto Alegre,0,1,A,0,1,A
+BRA,29/05/2011,20:00,Cruzeiro EC,SE Palmeiras,1,1,D,0,0,D
+BRA,29/05/2011,22:30,Vasco da Gama,América MG,3,0,H,1,0,H
+BRA,29/05/2011,22:30,Atlético GO,Fluminense RJ,0,1,A,0,1,A
+BRA,04/06/2011,22:30,SE Palmeiras,Atlético Paranaense,1,0,H,0,0,D
+BRA,04/06/2011,22:30,Fluminense RJ,Cruzeiro EC,2,1,H,1,0,H
+BRA,04/06/2011,22:30,Ceará SC,Botafogo RJ,2,2,D,1,1,D
+BRA,05/06/2011,01:00,Figueirense,Atlético GO,2,0,H,0,0,D
+BRA,05/06/2011,20:00,Flamengo RJ,Corinthians SP,1,1,D,1,1,D
+BRA,05/06/2011,20:00,Grêmio Porto Alegre,EC Bahia,2,0,H,2,0,H
+BRA,05/06/2011,20:00,Coritiba FC,Vasco da Gama,5,1,H,4,0,H
+BRA,05/06/2011,22:30,Santos FC,Avaí FC,3,1,H,1,0,H
+BRA,05/06/2011,22:30,América MG,Internacional,2,4,A,0,3,A
+BRA,09/06/2011,01:50,Atlético Mineiro,São Paulo FC,0,1,A,0,1,A
+BRA,11/06/2011,22:30,Avaí FC,América MG,2,2,D,0,1,A
+BRA,11/06/2011,22:30,Cruzeiro EC,Santos FC,1,1,D,0,0,D
+BRA,11/06/2011,22:30,São Paulo FC,Grêmio Porto Alegre,3,1,H,1,0,H
+BRA,12/06/2011,01:00,Vasco da Gama,Figueirense,1,1,D,1,0,H
+BRA,12/06/2011,20:00,EC Bahia,Atlético Mineiro,1,1,D,0,0,D
+BRA,12/06/2011,20:00,Atlético GO,Ceará SC,4,1,H,2,1,H
+BRA,12/06/2011,20:00,Internacional,SE Palmeiras,2,2,D,0,0,D
+BRA,12/06/2011,20:00,Corinthians SP,Fluminense RJ,2,0,H,2,0,H
+BRA,12/06/2011,22:30,Atlético Paranaense,Flamengo RJ,1,1,D,0,0,D
+BRA,12/06/2011,22:30,Botafogo RJ,Coritiba FC,3,1,H,2,1,H
+BRA,18/06/2011,22:30,Fluminense RJ,EC Bahia,0,1,A,0,0,D
+BRA,19/06/2011,01:00,América MG,Cruzeiro EC,1,1,D,0,1,A
+BRA,19/06/2011,20:00,SE Palmeiras,Avaí FC,5,0,H,4,0,H
+BRA,19/06/2011,20:00,Flamengo RJ,Botafogo RJ,0,0,D,0,0,D
+BRA,19/06/2011,20:00,Grêmio Porto Alegre,Vasco da Gama,1,1,D,0,0,D
+BRA,19/06/2011,20:00,Figueirense,Atlético Paranaense,2,0,H,2,0,H
+BRA,19/06/2011,20:00,Ceará SC,São Paulo FC,0,2,A,0,1,A
+BRA,19/06/2011,22:30,Atlético Mineiro,Atlético GO,2,2,D,0,1,A
+BRA,19/06/2011,22:30,Coritiba FC,Internacional,1,1,D,0,0,D
+BRA,11/08/2011,01:50,Santos FC,Corinthians SP,0,0,D,0,0,D
+BRA,25/06/2011,22:30,Flamengo RJ,Atlético Mineiro,4,1,H,0,0,D
+BRA,25/06/2011,22:30,Atlético Paranaense,EC Bahia,0,2,A,0,0,D
+BRA,26/06/2011,01:00,Cruzeiro EC,Coritiba FC,2,1,H,0,0,D
+BRA,26/06/2011,20:00,Corinthians SP,São Paulo FC,5,0,H,0,0,D
+BRA,26/06/2011,20:00,Botafogo RJ,Grêmio Porto Alegre,2,1,H,0,0,D
+BRA,26/06/2011,20:00,Avaí FC,Fluminense RJ,0,1,A,0,1,A
+BRA,26/06/2011,20:00,Ceará SC,SE Palmeiras,2,0,H,2,0,H
+BRA,26/06/2011,22:30,Internacional,Figueirense,4,1,H,2,0,H
+BRA,26/06/2011,22:30,Atlético GO,Vasco da Gama,0,1,A,0,1,A
+BRA,02/07/2011,22:30,Santos FC,América MG,1,0,H,1,0,H
+BRA,29/06/2011,23:30,Vasco da Gama,Cruzeiro EC,0,3,A,0,0,D
+BRA,29/06/2011,23:30,Grêmio Porto Alegre,Avaí FC,2,2,D,0,1,A
+BRA,29/06/2011,23:30,América MG,Flamengo RJ,2,3,A,2,1,H
+BRA,30/06/2011,01:50,São Paulo FC,Botafogo RJ,0,2,A,0,1,A
+BRA,30/06/2011,01:50,Figueirense,Santos FC,2,1,H,2,1,H
+BRA,30/06/2011,01:50,EC Bahia,Corinthians SP,0,1,A,0,1,A
+BRA,30/06/2011,23:30,SE Palmeiras,Atlético GO,2,0,H,2,0,H
+BRA,30/06/2011,23:30,Coritiba FC,Ceará SC,3,1,H,2,0,H
+BRA,01/07/2011,01:00,Fluminense RJ,Atlético Paranaense,3,1,H,2,0,H
+BRA,01/07/2011,01:00,Atlético Mineiro,Internacional,0,4,A,0,0,D
+BRA,06/07/2011,23:30,Internacional,Atlético Paranaense,1,0,H,0,0,D
+BRA,06/07/2011,23:30,Cruzeiro EC,Grêmio Porto Alegre,2,0,H,1,0,H
+BRA,06/07/2011,23:30,Avaí FC,EC Bahia,2,2,D,1,2,A
+BRA,07/07/2011,01:50,Corinthians SP,Vasco da Gama,2,1,H,2,1,H
+BRA,07/07/2011,01:50,Ceará SC,Atlético Mineiro,3,0,H,1,0,H
+BRA,07/07/2011,01:50,Flamengo RJ,São Paulo FC,1,0,H,0,0,D
+BRA,07/07/2011,23:30,Botafogo RJ,Atlético GO,1,1,D,1,1,D
+BRA,07/07/2011,23:30,Coritiba FC,Figueirense,3,0,H,0,0,D
+BRA,08/07/2011,01:00,América MG,SE Palmeiras,1,1,D,0,0,D
+BRA,25/08/2011,00:30,Santos FC,Fluminense RJ,2,1,H,2,1,H
+BRA,09/07/2011,22:30,São Paulo FC,Cruzeiro EC,2,1,H,1,0,H
+BRA,09/07/2011,22:30,Vasco da Gama,Internacional,2,0,H,1,0,H
+BRA,10/07/2011,01:00,Atlético Paranaense,Avaí FC,0,0,D,0,0,D
+BRA,10/07/2011,20:00,Fluminense RJ,Flamengo RJ,0,1,A,0,1,A
+BRA,10/07/2011,20:00,Grêmio Porto Alegre,Coritiba FC,2,0,H,0,0,D
+BRA,10/07/2011,20:00,Atlético GO,Corinthians SP,0,1,A,0,0,D
+BRA,10/07/2011,20:00,EC Bahia,Botafogo RJ,1,1,D,0,1,A
+BRA,10/07/2011,22:30,SE Palmeiras,Santos FC,3,0,H,3,0,H
+BRA,10/07/2011,22:30,Atlético Mineiro,América MG,2,0,H,1,0,H
+BRA,10/07/2011,22:30,Figueirense,Ceará SC,1,1,D,0,1,A
+BRA,16/07/2011,22:30,Coritiba FC,Fluminense RJ,3,1,H,2,0,H
+BRA,16/07/2011,22:30,Atlético GO,Avaí FC,0,1,A,0,1,A
+BRA,16/07/2011,22:45,Vasco da Gama,Atlético Paranaense,2,1,H,1,1,D
+BRA,17/07/2011,01:00,Santos FC,Atlético Mineiro,2,1,H,2,1,H
+BRA,17/07/2011,22:30,Internacional,São Paulo FC,0,3,A,0,2,A
+BRA,17/07/2011,22:30,Ceará SC,América MG,4,0,H,2,0,H
+BRA,17/07/2011,22:30,Cruzeiro EC,EC Bahia,2,1,H,1,1,D
+BRA,21/07/2011,01:50,SE Palmeiras,Flamengo RJ,0,0,D,0,0,D
+BRA,21/07/2011,01:50,Botafogo RJ,Corinthians SP,0,2,A,0,1,A
+BRA,21/07/2011,01:50,Figueirense,Grêmio Porto Alegre,0,0,D,0,0,D
+BRA,21/07/2011,23:30,Avaí FC,Internacional,1,3,A,1,0,H
+BRA,23/07/2011,22:30,São Paulo FC,Atlético GO,2,2,D,1,1,D
+BRA,23/07/2011,22:30,Atlético Paranaense,Botafogo RJ,2,1,H,1,0,H
+BRA,23/07/2011,22:30,América MG,Figueirense,0,0,D,0,0,D
+BRA,24/07/2011,01:00,Flamengo RJ,Ceará SC,1,1,D,1,0,H
+BRA,24/07/2011,20:00,Corinthians SP,Cruzeiro EC,0,1,A,0,0,D
+BRA,24/07/2011,20:00,Fluminense RJ,SE Palmeiras,1,0,H,0,0,D
+BRA,24/07/2011,20:00,Atlético Mineiro,Vasco da Gama,1,2,A,1,1,D
+BRA,24/07/2011,20:00,EC Bahia,Coritiba FC,0,0,D,0,0,D
+BRA,06/10/2011,00:30,Grêmio Porto Alegre,Santos FC,1,0,H,1,0,H
+BRA,15/07/2011,01:00,Corinthians SP,Internacional,1,0,H,0,0,D
+BRA,27/07/2011,23:30,Botafogo RJ,Avaí FC,2,1,H,2,1,H
+BRA,27/07/2011,23:30,Grêmio Porto Alegre,América MG,1,1,D,0,1,A
+BRA,27/07/2011,23:30,Atlético Mineiro,Fluminense RJ,1,0,H,0,0,D
+BRA,27/07/2011,23:30,Atlético GO,Cruzeiro EC,2,0,H,1,0,H
+BRA,28/07/2011,01:50,Santos FC,Flamengo RJ,4,5,A,3,3,D
+BRA,28/07/2011,01:50,Figueirense,SE Palmeiras,0,1,A,0,0,D
+BRA,28/07/2011,01:50,Coritiba FC,São Paulo FC,3,4,A,0,3,A
+BRA,28/07/2011,23:30,Vasco da Gama,EC Bahia,1,1,D,0,1,A
+BRA,29/07/2011,01:00,Ceará SC,Atlético Paranaense,2,1,H,0,1,A
+BRA,30/07/2011,22:30,Flamengo RJ,Grêmio Porto Alegre,2,0,H,1,0,H
+BRA,30/07/2011,22:30,Cruzeiro EC,Botafogo RJ,0,1,A,0,0,D
+BRA,31/07/2011,01:00,SE Palmeiras,Atlético Mineiro,3,2,H,1,1,D
+BRA,31/07/2011,20:00,São Paulo FC,Vasco da Gama,0,2,A,0,0,D
+BRA,31/07/2011,20:00,Fluminense RJ,Ceará SC,4,0,H,1,0,H
+BRA,31/07/2011,20:00,Internacional,Atlético GO,0,0,D,0,0,D
+BRA,31/07/2011,20:00,Avaí FC,Corinthians SP,3,2,H,0,1,A
+BRA,31/07/2011,22:30,Atlético Paranaense,Santos FC,3,2,H,2,1,H
+BRA,31/07/2011,22:30,América MG,Coritiba FC,1,3,A,0,2,A
+BRA,31/07/2011,22:30,EC Bahia,Figueirense,3,1,H,1,0,H
+BRA,03/08/2011,23:30,Corinthians SP,América MG,2,1,H,1,1,D
+BRA,03/08/2011,23:30,Grêmio Porto Alegre,Atlético Mineiro,2,2,D,0,0,D
+BRA,03/08/2011,23:30,Figueirense,Botafogo RJ,2,0,H,2,0,H
+BRA,03/08/2011,23:30,Ceará SC,Avaí FC,0,3,A,0,1,A
+BRA,04/08/2011,01:50,Vasco da Gama,Santos FC,2,0,H,2,0,H
+BRA,04/08/2011,01:50,Cruzeiro EC,Flamengo RJ,0,1,A,0,1,A
+BRA,04/08/2011,01:50,Coritiba FC,SE Palmeiras,1,1,D,1,1,D
+BRA,05/08/2011,01:00,São Paulo FC,EC Bahia,3,0,H,2,0,H
+BRA,05/08/2011,01:00,Fluminense RJ,Internacional,2,0,H,0,0,D
+BRA,05/08/2011,01:00,Atlético GO,Atlético Paranaense,0,3,A,0,1,A
+BRA,06/08/2011,22:30,SE Palmeiras,Grêmio Porto Alegre,0,0,D,0,0,D
+BRA,06/08/2011,22:30,Flamengo RJ,Coritiba FC,1,0,H,0,0,D
+BRA,07/08/2011,01:00,Atlético Mineiro,Figueirense,1,2,A,0,2,A
+BRA,07/08/2011,20:00,Santos FC,Ceará SC,1,0,H,1,0,H
+BRA,07/08/2011,20:00,Internacional,Cruzeiro EC,3,2,H,2,1,H
+BRA,07/08/2011,20:00,Atlético Paranaense,Corinthians SP,1,1,D,1,0,H
+BRA,07/08/2011,20:00,América MG,Fluminense RJ,3,0,H,1,0,H
+BRA,07/08/2011,22:30,Botafogo RJ,Vasco da Gama,4,0,H,3,0,H
+BRA,07/08/2011,22:30,Avaí FC,São Paulo FC,1,2,A,0,0,D
+BRA,07/08/2011,22:30,EC Bahia,Atlético GO,2,1,H,1,0,H
+BRA,13/08/2011,22:30,São Paulo FC,Atlético Paranaense,2,2,D,1,1,D
+BRA,13/08/2011,22:30,Cruzeiro EC,Avaí FC,5,0,H,3,0,H
+BRA,13/08/2011,22:30,Atlético GO,Santos FC,2,0,H,0,0,D
+BRA,14/08/2011,01:00,Botafogo RJ,América MG,4,2,H,1,2,A
+BRA,14/08/2011,20:00,Corinthians SP,Ceará SC,2,2,D,2,1,H
+BRA,14/08/2011,20:00,Vasco da Gama,SE Palmeiras,1,0,H,0,0,D
+BRA,14/08/2011,20:00,Figueirense,Flamengo RJ,2,2,D,0,1,A
+BRA,14/08/2011,20:00,Coritiba FC,Atlético Mineiro,3,0,H,1,0,H
+BRA,14/08/2011,22:30,Grêmio Porto Alegre,Fluminense RJ,2,1,H,2,1,H
+BRA,14/08/2011,22:30,EC Bahia,Internacional,1,1,D,0,1,A
+BRA,17/08/2011,23:30,Fluminense RJ,Figueirense,3,0,H,0,0,D
+BRA,17/08/2011,23:30,Avaí FC,Vasco da Gama,0,2,A,0,1,A
+BRA,17/08/2011,23:30,Atlético Paranaense,Cruzeiro EC,2,1,H,1,1,D
+BRA,17/08/2011,23:30,Ceará SC,Grêmio Porto Alegre,3,0,H,1,0,H
+BRA,18/08/2011,01:50,Santos FC,Coritiba FC,2,3,A,1,1,D
+BRA,18/08/2011,01:50,Internacional,Botafogo RJ,1,0,H,0,0,D
+BRA,18/08/2011,01:50,Atlético Mineiro,Corinthians SP,2,3,A,2,0,H
+BRA,19/08/2011,01:00,SE Palmeiras,EC Bahia,1,1,D,0,0,D
+BRA,19/08/2011,01:00,Flamengo RJ,Atlético GO,1,4,A,0,2,A
+BRA,19/08/2011,01:00,América MG,São Paulo FC,1,1,D,0,0,D
+BRA,20/08/2011,22:00,Corinthians SP,Figueirense,0,2,A,0,1,A
+BRA,20/08/2011,22:00,Botafogo RJ,Atlético Mineiro,3,1,H,2,0,H
+BRA,20/08/2011,22:00,Cruzeiro EC,Ceará SC,1,0,H,0,0,D
+BRA,21/08/2011,20:00,Internacional,Flamengo RJ,2,2,D,0,1,A
+BRA,21/08/2011,20:00,Avaí FC,Coritiba FC,0,0,D,0,0,D
+BRA,21/08/2011,20:00,Atlético GO,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,21/08/2011,20:00,São Paulo FC,SE Palmeiras,1,1,D,1,0,H
+BRA,21/08/2011,22:00,Vasco da Gama,Fluminense RJ,1,1,D,1,0,H
+BRA,21/08/2011,22:00,Atlético Paranaense,América MG,2,2,D,2,1,H
+BRA,21/08/2011,22:00,EC Bahia,Santos FC,1,2,A,1,1,D
+BRA,27/08/2011,22:00,Fluminense RJ,Botafogo RJ,1,2,A,0,0,D
+BRA,27/08/2011,22:00,Coritiba FC,Atlético Paranaense,1,1,D,1,0,H
+BRA,27/08/2011,22:00,América MG,Atlético GO,1,2,A,1,0,H
+BRA,28/08/2011,20:00,SE Palmeiras,Corinthians SP,2,1,H,1,1,D
+BRA,28/08/2011,20:00,Santos FC,São Paulo FC,1,1,D,0,1,A
+BRA,28/08/2011,20:00,Flamengo RJ,Vasco da Gama,0,0,D,0,0,D
+BRA,28/08/2011,20:00,Grêmio Porto Alegre,Internacional,2,1,H,1,1,D
+BRA,28/08/2011,20:00,Ceará SC,EC Bahia,3,0,H,1,0,H
+BRA,28/08/2011,22:00,Atlético Mineiro,Cruzeiro EC,1,2,A,0,1,A
+BRA,28/08/2011,22:00,Figueirense,Avaí FC,2,3,A,2,1,H
+BRA,31/08/2011,22:00,Corinthians SP,Grêmio Porto Alegre,3,2,H,1,1,D
+BRA,31/08/2011,22:00,Vasco da Gama,Ceará SC,3,1,H,0,0,D
+BRA,01/09/2011,00:30,Cruzeiro EC,Figueirense,2,4,A,1,2,A
+BRA,01/09/2011,00:30,Atlético GO,Coritiba FC,3,1,H,1,0,H
+BRA,01/09/2011,00:30,Atlético Paranaense,Atlético Mineiro,0,1,A,0,0,D
+BRA,01/09/2011,01:50,São Paulo FC,Fluminense RJ,1,2,A,0,1,A
+BRA,01/09/2011,01:50,Botafogo RJ,SE Palmeiras,3,1,H,2,0,H
+BRA,01/09/2011,01:50,Internacional,Santos FC,3,3,D,2,0,H
+BRA,01/09/2011,01:50,Avaí FC,Flamengo RJ,3,2,H,1,1,D
+BRA,02/09/2011,00:30,EC Bahia,América MG,0,0,D,0,0,D
+BRA,03/09/2011,22:00,Fluminense RJ,Atlético GO,3,2,H,0,1,A
+BRA,03/09/2011,22:00,Atlético Mineiro,Avaí FC,2,0,H,1,0,H
+BRA,03/09/2011,22:00,Figueirense,São Paulo FC,1,2,A,0,1,A
+BRA,04/09/2011,20:00,SE Palmeiras,Cruzeiro EC,1,1,D,0,0,D
+BRA,04/09/2011,20:00,Flamengo RJ,EC Bahia,1,3,A,1,3,A
+BRA,04/09/2011,20:00,Grêmio Porto Alegre,Atlético Paranaense,4,0,H,2,0,H
+BRA,04/09/2011,20:00,Coritiba FC,Corinthians SP,1,0,H,0,0,D
+BRA,04/09/2011,20:00,América MG,Vasco da Gama,4,1,H,2,1,H
+BRA,04/09/2011,22:00,Ceará SC,Internacional,1,1,D,1,0,H
+BRA,19/10/2011,23:30,Santos FC,Botafogo RJ,2,0,H,2,0,H
+BRA,07/09/2011,20:00,São Paulo FC,Atlético Mineiro,2,1,H,1,1,D
+BRA,07/09/2011,20:00,Botafogo RJ,Ceará SC,4,0,H,1,0,H
+BRA,07/09/2011,20:00,Internacional,América MG,4,2,H,4,2,H
+BRA,07/09/2011,20:00,Avaí FC,Santos FC,1,2,A,1,0,H
+BRA,08/09/2011,01:50,Cruzeiro EC,Fluminense RJ,1,2,A,0,1,A
+BRA,08/09/2011,01:50,Atlético Paranaense,SE Palmeiras,2,2,D,1,1,D
+BRA,08/09/2011,01:50,Atlético GO,Figueirense,1,1,D,1,1,D
+BRA,09/09/2011,00:30,Vasco da Gama,Coritiba FC,2,0,H,1,0,H
+BRA,09/09/2011,00:30,EC Bahia,Grêmio Porto Alegre,1,2,A,0,2,A
+BRA,09/09/2011,01:50,Corinthians SP,Flamengo RJ,2,1,H,0,1,A
+BRA,10/09/2011,22:00,Santos FC,Cruzeiro EC,1,0,H,1,0,H
+BRA,10/09/2011,22:00,América MG,Avaí FC,2,2,D,2,0,H
+BRA,11/09/2011,20:00,SE Palmeiras,Internacional,0,3,A,0,1,A
+BRA,11/09/2011,20:00,Fluminense RJ,Corinthians SP,1,0,H,1,0,H
+BRA,11/09/2011,20:00,Ceará SC,Atlético GO,1,1,D,1,0,H
+BRA,11/09/2011,20:00,Coritiba FC,Botafogo RJ,5,0,H,1,0,H
+BRA,11/09/2011,20:00,Figueirense,Vasco da Gama,1,1,D,1,1,D
+BRA,11/09/2011,22:00,Flamengo RJ,Atlético Paranaense,1,2,A,0,1,A
+BRA,11/09/2011,22:00,Grêmio Porto Alegre,São Paulo FC,1,0,H,0,0,D
+BRA,11/09/2011,22:00,Atlético Mineiro,EC Bahia,2,0,H,1,0,H
+BRA,17/09/2011,22:00,Atlético GO,Atlético Mineiro,1,0,H,0,0,D
+BRA,17/09/2011,22:00,Vasco da Gama,Grêmio Porto Alegre,4,0,H,2,0,H
+BRA,17/09/2011,22:00,São Paulo FC,Ceará SC,4,0,H,2,0,H
+BRA,18/09/2011,20:00,EC Bahia,Fluminense RJ,3,0,H,1,0,H
+BRA,18/09/2011,20:00,Atlético Paranaense,Figueirense,0,0,D,0,0,D
+BRA,18/09/2011,20:00,Avaí FC,SE Palmeiras,1,1,D,1,1,D
+BRA,18/09/2011,20:00,Botafogo RJ,Flamengo RJ,1,1,D,1,0,H
+BRA,18/09/2011,20:00,Corinthians SP,Santos FC,1,3,A,1,1,D
+BRA,18/09/2011,22:00,Cruzeiro EC,América MG,0,0,D,0,0,D
+BRA,18/09/2011,22:00,Internacional,Coritiba FC,1,1,D,1,0,H
+BRA,22/09/2011,00:30,Fluminense RJ,Avaí FC,3,1,H,2,1,H
+BRA,22/09/2011,00:30,Coritiba FC,Cruzeiro EC,2,1,H,1,0,H
+BRA,22/09/2011,00:30,América MG,Santos FC,1,2,A,0,0,D
+BRA,22/09/2011,00:30,EC Bahia,Atlético Paranaense,1,0,H,0,0,D
+BRA,22/09/2011,01:50,São Paulo FC,Corinthians SP,0,0,D,0,0,D
+BRA,22/09/2011,01:50,Atlético Mineiro,Flamengo RJ,1,1,D,0,0,D
+BRA,22/09/2011,01:50,Figueirense,Internacional,1,1,D,1,0,H
+BRA,23/09/2011,00:30,SE Palmeiras,Ceará SC,1,0,H,1,0,H
+BRA,23/09/2011,00:30,Vasco da Gama,Atlético GO,1,1,D,1,1,D
+BRA,23/09/2011,00:30,Grêmio Porto Alegre,Botafogo RJ,0,1,A,0,0,D
+BRA,24/09/2011,22:00,Atlético Paranaense,Fluminense RJ,1,1,D,0,0,D
+BRA,24/09/2011,22:00,Santos FC,Figueirense,2,3,A,2,2,D
+BRA,24/09/2011,22:00,Flamengo RJ,América MG,2,1,H,0,1,A
+BRA,25/09/2011,20:00,Corinthians SP,EC Bahia,1,0,H,0,0,D
+BRA,25/09/2011,20:00,Botafogo RJ,São Paulo FC,2,2,D,2,0,H
+BRA,25/09/2011,20:00,Internacional,Atlético Mineiro,2,1,H,1,0,H
+BRA,25/09/2011,20:00,Cruzeiro EC,Vasco da Gama,0,3,A,0,1,A
+BRA,25/09/2011,20:00,Avaí FC,Grêmio Porto Alegre,1,2,A,0,1,A
+BRA,25/09/2011,22:00,Atlético GO,SE Palmeiras,1,1,D,0,1,A
+BRA,25/09/2011,22:00,Ceará SC,Coritiba FC,3,2,H,2,1,H
+BRA,01/10/2011,22:00,SE Palmeiras,América MG,1,1,D,1,1,D
+BRA,01/10/2011,22:00,Fluminense RJ,Santos FC,3,2,H,1,1,D
+BRA,01/10/2011,22:00,EC Bahia,Avaí FC,3,2,H,1,0,H
+BRA,02/10/2011,20:00,São Paulo FC,Flamengo RJ,1,2,A,0,0,D
+BRA,02/10/2011,20:00,Vasco da Gama,Corinthians SP,2,2,D,2,1,H
+BRA,02/10/2011,20:00,Atlético Mineiro,Ceará SC,1,1,D,1,1,D
+BRA,02/10/2011,20:00,Figueirense,Coritiba FC,0,0,D,0,0,D
+BRA,02/10/2011,20:00,Atlético Paranaense,Internacional,2,0,H,0,0,D
+BRA,02/10/2011,22:00,Grêmio Porto Alegre,Cruzeiro EC,2,0,H,1,0,H
+BRA,02/10/2011,22:00,Atlético GO,Botafogo RJ,2,0,H,2,0,H
+BRA,06/10/2011,01:50,Cruzeiro EC,São Paulo FC,3,3,D,1,0,H
+BRA,08/10/2011,22:00,Botafogo RJ,EC Bahia,2,2,D,0,1,A
+BRA,08/10/2011,22:00,Coritiba FC,Grêmio Porto Alegre,2,0,H,1,0,H
+BRA,08/10/2011,22:00,América MG,Atlético Mineiro,0,0,D,0,0,D
+BRA,09/10/2011,20:00,Santos FC,SE Palmeiras,1,0,H,0,0,D
+BRA,09/10/2011,20:00,Flamengo RJ,Fluminense RJ,3,2,H,0,0,D
+BRA,09/10/2011,20:00,Internacional,Vasco da Gama,3,0,H,0,0,D
+BRA,09/10/2011,22:00,Corinthians SP,Atlético GO,3,0,H,3,0,H
+BRA,09/10/2011,22:00,Avaí FC,Atlético Paranaense,3,0,H,3,0,H
+BRA,09/10/2011,22:00,Ceará SC,Figueirense,1,1,D,1,1,D
+BRA,12/10/2011,20:00,São Paulo FC,Internacional,0,0,D,0,0,D
+BRA,12/10/2011,20:00,Grêmio Porto Alegre,Figueirense,1,3,A,0,2,A
+BRA,12/10/2011,20:00,Avaí FC,Atlético GO,2,2,D,1,2,A
+BRA,12/10/2011,20:00,América MG,Ceará SC,4,1,H,1,0,H
+BRA,13/10/2011,01:50,Corinthians SP,Botafogo RJ,0,2,A,0,2,A
+BRA,13/10/2011,01:50,Flamengo RJ,SE Palmeiras,1,1,D,0,0,D
+BRA,13/10/2011,01:50,EC Bahia,Cruzeiro EC,0,0,D,0,0,D
+BRA,14/10/2011,00:30,Fluminense RJ,Coritiba FC,3,1,H,1,1,D
+BRA,14/10/2011,00:30,Atlético Mineiro,Santos FC,2,1,H,1,0,H
+BRA,14/10/2011,00:30,Atlético Paranaense,Vasco da Gama,2,2,D,2,0,H
+BRA,15/10/2011,22:00,Figueirense,América MG,2,1,H,0,1,A
+BRA,15/10/2011,22:00,Ceará SC,Flamengo RJ,0,1,A,0,1,A
+BRA,16/10/2011,19:00,SE Palmeiras,Fluminense RJ,1,2,A,0,1,A
+BRA,16/10/2011,19:00,Santos FC,Grêmio Porto Alegre,0,1,A,0,1,A
+BRA,16/10/2011,19:00,Botafogo RJ,Atlético Paranaense,2,0,H,1,0,H
+BRA,16/10/2011,19:00,Internacional,Avaí FC,4,2,H,0,1,A
+BRA,16/10/2011,19:00,Cruzeiro EC,Corinthians SP,0,1,A,0,0,D
+BRA,16/10/2011,21:00,Vasco da Gama,Atlético Mineiro,2,0,H,2,0,H
+BRA,16/10/2011,21:00,Coritiba FC,EC Bahia,0,0,D,0,0,D
+BRA,16/10/2011,21:00,Atlético GO,São Paulo FC,3,0,H,1,0,H
+BRA,22/10/2011,21:00,SE Palmeiras,Figueirense,1,2,A,0,1,A
+BRA,22/10/2011,21:00,Fluminense RJ,Atlético Mineiro,0,2,A,0,2,A
+BRA,22/10/2011,21:00,Avaí FC,Botafogo RJ,3,2,H,2,1,H
+BRA,22/10/2011,21:00,América MG,Grêmio Porto Alegre,2,2,D,1,1,D
+BRA,23/10/2011,19:00,São Paulo FC,Coritiba FC,0,0,D,0,0,D
+BRA,23/10/2011,19:00,Internacional,Corinthians SP,1,1,D,0,0,D
+BRA,23/10/2011,19:00,Atlético Paranaense,Ceará SC,1,0,H,1,0,H
+BRA,23/10/2011,19:00,EC Bahia,Vasco da Gama,0,2,A,0,1,A
+BRA,23/10/2011,21:00,Flamengo RJ,Santos FC,1,1,D,0,0,D
+BRA,23/10/2011,21:00,Cruzeiro EC,Atlético GO,3,2,H,1,1,D
+BRA,29/10/2011,21:00,Santos FC,Atlético Paranaense,4,1,H,1,0,H
+BRA,29/10/2011,21:00,Botafogo RJ,Cruzeiro EC,1,0,H,0,0,D
+BRA,29/10/2011,21:00,Ceará SC,Fluminense RJ,1,2,A,1,1,D
+BRA,30/10/2011,18:00,Corinthians SP,Avaí FC,2,1,H,0,1,A
+BRA,30/10/2011,18:00,Vasco da Gama,São Paulo FC,0,0,D,0,0,D
+BRA,30/10/2011,18:00,Grêmio Porto Alegre,Flamengo RJ,4,2,H,1,2,A
+BRA,30/10/2011,18:00,Figueirense,EC Bahia,2,1,H,0,0,D
+BRA,30/10/2011,20:00,Atlético Mineiro,SE Palmeiras,2,1,H,1,0,H
+BRA,30/10/2011,20:00,Coritiba FC,América MG,3,1,H,2,1,H
+BRA,30/10/2011,20:00,Atlético GO,Internacional,0,1,A,0,0,D
+BRA,05/11/2011,21:00,Botafogo RJ,Figueirense,0,1,A,0,1,A
+BRA,05/11/2011,21:00,Atlético Mineiro,Grêmio Porto Alegre,2,0,H,1,0,H
+BRA,05/11/2011,21:00,EC Bahia,São Paulo FC,4,3,H,0,1,A
+BRA,06/11/2011,19:00,Santos FC,Vasco da Gama,2,0,H,1,0,H
+BRA,06/11/2011,19:00,Flamengo RJ,Cruzeiro EC,5,1,H,1,1,D
+BRA,06/11/2011,19:00,Avaí FC,Ceará SC,1,2,A,0,1,A
+BRA,06/11/2011,19:00,América MG,Corinthians SP,2,1,H,1,1,D
+BRA,06/11/2011,21:00,SE Palmeiras,Coritiba FC,0,2,A,0,1,A
+BRA,06/11/2011,21:00,Internacional,Fluminense RJ,1,2,A,1,2,A
+BRA,06/11/2011,21:00,Atlético Paranaense,Atlético GO,2,1,H,0,1,A
+BRA,12/11/2011,21:00,São Paulo FC,Avaí FC,2,0,H,0,0,D
+BRA,12/11/2011,21:00,Fluminense RJ,América MG,1,2,A,0,1,A
+BRA,12/11/2011,21:00,Figueirense,Atlético Mineiro,2,1,H,0,1,A
+BRA,13/11/2011,19:00,Corinthians SP,Atlético Paranaense,2,1,H,2,0,H
+BRA,13/11/2011,19:00,Ceará SC,Santos FC,2,3,A,2,1,H
+BRA,13/11/2011,19:00,Coritiba FC,Flamengo RJ,2,0,H,2,0,H
+BRA,13/11/2011,19:00,Grêmio Porto Alegre,SE Palmeiras,2,2,D,0,1,A
+BRA,13/11/2011,21:00,Vasco da Gama,Botafogo RJ,2,0,H,1,0,H
+BRA,13/11/2011,21:00,Cruzeiro EC,Internacional,1,0,H,1,0,H
+BRA,13/11/2011,21:00,Atlético GO,EC Bahia,0,1,A,0,1,A
+BRA,16/11/2011,22:30,Fluminense RJ,Grêmio Porto Alegre,5,4,H,1,2,A
+BRA,16/11/2011,22:30,Internacional,EC Bahia,1,0,H,1,0,H
+BRA,16/11/2011,22:30,Atlético Paranaense,São Paulo FC,1,0,H,1,0,H
+BRA,16/11/2011,22:30,América MG,Botafogo RJ,2,1,H,2,0,H
+BRA,16/11/2011,23:50,SE Palmeiras,Vasco da Gama,1,1,D,0,1,A
+BRA,16/11/2011,23:50,Avaí FC,Cruzeiro EC,0,0,D,0,0,D
+BRA,16/11/2011,23:50,Ceará SC,Corinthians SP,0,1,A,0,0,D
+BRA,17/11/2011,22:30,Santos FC,Atlético GO,1,1,D,0,1,A
+BRA,17/11/2011,22:30,Flamengo RJ,Figueirense,0,0,D,0,0,D
+BRA,17/11/2011,22:30,Atlético Mineiro,Coritiba FC,2,1,H,1,0,H
+BRA,19/11/2011,21:00,São Paulo FC,América MG,3,1,H,2,0,H
+BRA,19/11/2011,21:00,Vasco da Gama,Avaí FC,2,0,H,0,0,D
+BRA,19/11/2011,21:00,Grêmio Porto Alegre,Ceará SC,1,3,A,1,1,D
+BRA,20/11/2011,19:00,Corinthians SP,Atlético Mineiro,2,1,H,0,0,D
+BRA,20/11/2011,19:00,Botafogo RJ,Internacional,1,2,A,0,1,A
+BRA,20/11/2011,19:00,Cruzeiro EC,Atlético Paranaense,1,1,D,1,1,D
+BRA,20/11/2011,19:00,Atlético GO,Flamengo RJ,0,0,D,0,0,D
+BRA,20/11/2011,21:00,Figueirense,Fluminense RJ,0,4,A,0,0,D
+BRA,20/11/2011,21:00,Coritiba FC,Santos FC,1,0,H,0,0,D
+BRA,20/11/2011,21:00,EC Bahia,SE Palmeiras,0,2,A,0,1,A
+BRA,27/11/2011,19:00,SE Palmeiras,São Paulo FC,1,0,H,0,0,D
+BRA,27/11/2011,19:00,Santos FC,EC Bahia,1,1,D,1,1,D
+BRA,27/11/2011,19:00,Flamengo RJ,Internacional,1,0,H,1,0,H
+BRA,27/11/2011,19:00,Fluminense RJ,Vasco da Gama,1,2,A,0,0,D
+BRA,27/11/2011,19:00,Grêmio Porto Alegre,Atlético GO,2,2,D,0,1,A
+BRA,27/11/2011,19:00,Atlético Mineiro,Botafogo RJ,4,0,H,2,0,H
+BRA,27/11/2011,19:00,Figueirense,Corinthians SP,0,1,A,0,0,D
+BRA,27/11/2011,19:00,Coritiba FC,Avaí FC,1,0,H,0,0,D
+BRA,27/11/2011,19:00,América MG,Atlético Paranaense,2,1,H,1,0,H
+BRA,27/11/2011,19:00,Ceará SC,Cruzeiro EC,2,2,D,1,1,D
+BRA,04/12/2011,19:00,Corinthians SP,SE Palmeiras,0,0,D,0,0,D
+BRA,04/12/2011,19:00,São Paulo FC,Santos FC,4,1,H,3,0,H
+BRA,04/12/2011,19:00,Internacional,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,04/12/2011,19:00,Cruzeiro EC,Atlético Mineiro,6,1,H,4,0,H
+BRA,04/12/2011,19:00,Atlético GO,América MG,5,1,H,3,0,H
+BRA,04/12/2011,19:00,Atlético Paranaense,Coritiba FC,1,0,H,0,0,D
+BRA,04/12/2011,19:00,EC Bahia,Ceará SC,2,1,H,2,1,H
+BRA,04/12/2011,19:00,Avaí FC,Figueirense,1,1,D,1,0,H
+BRA,04/12/2011,19:00,Botafogo RJ,Fluminense RJ,1,1,D,1,1,D
+BRA,04/12/2011,19:00,Vasco da Gama,Flamengo RJ,1,1,D,1,0,H

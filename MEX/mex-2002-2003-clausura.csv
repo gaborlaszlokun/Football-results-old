@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,11/01/2003,,Monarcas Morelia,Veracruz (old),2,1,H,1,1,D
+MEX,11/01/2003,,UANL Tigres,Jaguares Chiapas,3,0,H,1,0,H
+MEX,11/01/2003,,Real San Luis,Gallos Blancos (old),1,1,D,1,0,H
+MEX,12/01/2003,,Pumas UNAM,Cuernavaca,1,3,A,1,2,A
+MEX,12/01/2003,,CF Atlante,CF Monterrey,1,1,D,1,0,H
+MEX,12/01/2003,,Deportivo Guadalajara,Puebla FC,2,1,H,1,1,D
+MEX,12/01/2003,,CF Pachuca,CF América,2,1,H,1,1,D
+MEX,12/01/2003,,Santos Laguna,Atlas Guadalajara,3,0,H,2,0,H
+MEX,12/01/2003,,UAG Tecos,Cruz Azul,0,0,D,0,0,D
+MEX,12/01/2003,,Club Necaxa,Deportivo Toluca,3,0,H,1,0,H
+MEX,18/01/2003,,Cuernavaca,UAG Tecos,3,0,H,1,0,H
+MEX,18/01/2003,,Veracruz (old),Pumas UNAM,0,0,D,0,0,D
+MEX,18/01/2003,,Jaguares Chiapas,CF Pachuca,0,0,D,0,0,D
+MEX,18/01/2003,,Deportivo Toluca,CF Atlante,2,3,A,1,1,D
+MEX,18/01/2003,,CF Monterrey,Monarcas Morelia,4,2,H,3,2,H
+MEX,18/01/2003,,Cruz Azul,UANL Tigres,1,3,A,0,2,A
+MEX,18/01/2003,,Atlas Guadalajara,Club Necaxa,0,1,A,0,1,A
+MEX,19/01/2003,,Gallos Blancos (old),Santos Laguna,1,0,H,0,0,D
+MEX,19/01/2003,,Puebla FC,Real San Luis,0,1,A,0,1,A
+MEX,19/01/2003,,CF América,Deportivo Guadalajara,1,1,D,1,1,D
+MEX,25/01/2003,,Veracruz (old),Cuernavaca,1,0,H,0,0,D
+MEX,25/01/2003,,UANL Tigres,UAG Tecos,1,0,H,0,0,D
+MEX,25/01/2003,,Monarcas Morelia,Deportivo Toluca,1,1,D,0,1,A
+MEX,25/01/2003,,Real San Luis,CF América,0,4,A,0,0,D
+MEX,26/01/2003,,Deportivo Guadalajara,Jaguares Chiapas,2,0,H,2,0,H
+MEX,26/01/2003,,Pumas UNAM,CF Monterrey,2,3,A,1,0,H
+MEX,26/01/2003,,CF Pachuca,Cruz Azul,0,0,D,0,0,D
+MEX,26/01/2003,,CF Atlante,Atlas Guadalajara,2,4,A,1,3,A
+MEX,26/01/2003,,Club Necaxa,Gallos Blancos (old),1,0,H,0,0,D
+MEX,26/01/2003,,Santos Laguna,Puebla FC,1,1,D,0,0,D
+MEX,01/02/2003,,Deportivo Toluca,Pumas UNAM,5,1,H,0,0,D
+MEX,01/02/2003,,Jaguares Chiapas,Real San Luis,3,1,H,2,0,H
+MEX,01/02/2003,,Cuernavaca,UANL Tigres,2,0,H,2,0,H
+MEX,01/02/2003,,Cruz Azul,Deportivo Guadalajara,3,3,D,2,2,D
+MEX,01/02/2003,,CF Monterrey,Veracruz (old),2,1,H,0,0,D
+MEX,01/02/2003,,Atlas Guadalajara,Monarcas Morelia,1,0,H,1,0,H
+MEX,02/02/2003,,Puebla FC,Club Necaxa,1,0,H,1,0,H
+MEX,02/02/2003,,Gallos Blancos (old),CF Atlante,1,0,H,0,0,D
+MEX,02/02/2003,,CF América,Santos Laguna,0,1,A,0,1,A
+MEX,02/02/2003,,UAG Tecos,CF Pachuca,1,1,D,1,0,H
+MEX,08/02/2003,,Veracruz (old),Deportivo Toluca,1,0,H,1,0,H
+MEX,08/02/2003,,Monarcas Morelia,Gallos Blancos (old),2,1,H,0,0,D
+MEX,08/02/2003,,CF Monterrey,Cuernavaca,1,0,H,0,0,D
+MEX,09/02/2003,,CF Pachuca,UANL Tigres,1,1,D,0,0,D
+MEX,09/02/2003,,CF Atlante,Puebla FC,3,1,H,1,0,H
+MEX,09/02/2003,,Deportivo Guadalajara,UAG Tecos,3,2,H,1,2,A
+MEX,09/02/2003,,Club Necaxa,CF América,0,2,A,0,0,D
+MEX,09/02/2003,,Santos Laguna,Jaguares Chiapas,1,2,A,1,1,D
+MEX,09/02/2003,,Real San Luis,Cruz Azul,2,2,D,1,1,D
+MEX,26/02/2003,,Pumas UNAM,Atlas Guadalajara,2,1,H,2,0,H
+MEX,15/02/2003,,Jaguares Chiapas,Club Necaxa,0,0,D,0,0,D
+MEX,15/02/2003,,Cuernavaca,CF Pachuca,2,3,A,1,0,H
+MEX,15/02/2003,,Deportivo Toluca,CF Monterrey,3,1,H,2,1,H
+MEX,15/02/2003,,Cruz Azul,Santos Laguna,2,2,D,1,1,D
+MEX,15/02/2003,,UANL Tigres,Deportivo Guadalajara,1,0,H,1,0,H
+MEX,15/02/2003,,Atlas Guadalajara,Veracruz (old),3,0,H,1,0,H
+MEX,16/02/2003,,Gallos Blancos (old),Pumas UNAM,0,0,D,0,0,D
+MEX,16/02/2003,,Puebla FC,Monarcas Morelia,1,6,A,1,4,A
+MEX,16/02/2003,,CF América,CF Atlante,1,0,H,1,0,H
+MEX,16/02/2003,,UAG Tecos,Real San Luis,1,2,A,1,1,D
+MEX,22/02/2003,,Veracruz (old),Gallos Blancos (old),1,1,D,1,1,D
+MEX,22/02/2003,,Deportivo Toluca,Cuernavaca,4,1,H,1,0,H
+MEX,22/02/2003,,Monarcas Morelia,CF América,1,2,A,0,0,D
+MEX,22/02/2003,,CF Monterrey,Atlas Guadalajara,2,2,D,1,1,D
+MEX,22/02/2003,,Real San Luis,UANL Tigres,2,0,H,0,0,D
+MEX,23/02/2003,,CF Atlante,Jaguares Chiapas,5,1,H,3,0,H
+MEX,23/02/2003,,Deportivo Guadalajara,CF Pachuca,3,1,H,1,0,H
+MEX,23/02/2003,,Santos Laguna,UAG Tecos,3,1,H,0,1,A
+MEX,23/02/2003,,Club Necaxa,Cruz Azul,4,0,H,3,0,H
+MEX,23/02/2003,,Pumas UNAM,Puebla FC,1,0,H,1,0,H
+MEX,01/03/2003,,Cuernavaca,Deportivo Guadalajara,1,1,D,0,0,D
+MEX,01/03/2003,,Jaguares Chiapas,Monarcas Morelia,1,2,A,1,0,H
+MEX,01/03/2003,,UANL Tigres,Santos Laguna,2,2,D,0,1,A
+MEX,01/03/2003,,Cruz Azul,CF Atlante,1,3,A,1,0,H
+MEX,01/03/2003,,Atlas Guadalajara,Deportivo Toluca,1,1,D,0,1,A
+MEX,02/03/2003,,Puebla FC,Veracruz (old),0,1,A,0,0,D
+MEX,02/03/2003,,Gallos Blancos (old),CF Monterrey,1,1,D,1,0,H
+MEX,02/03/2003,,CF Pachuca,Real San Luis,2,2,D,2,0,H
+MEX,02/03/2003,,UAG Tecos,Club Necaxa,1,2,A,1,0,H
+MEX,02/03/2003,,CF América,Pumas UNAM,1,1,D,1,1,D
+MEX,06/03/2003,,Pumas UNAM,Jaguares Chiapas,3,1,H,1,0,H
+MEX,06/03/2003,,Veracruz (old),CF América,0,2,A,0,1,A
+MEX,06/03/2003,,Deportivo Toluca,Gallos Blancos (old),4,0,H,1,0,H
+MEX,08/03/2003,,CF Monterrey,Puebla FC,0,0,D,0,0,D
+MEX,08/03/2003,,Real San Luis,Deportivo Guadalajara,0,2,A,0,1,A
+MEX,08/03/2003,,Atlas Guadalajara,Cuernavaca,0,0,D,0,0,D
+MEX,09/03/2003,,CF Atlante,UAG Tecos,3,2,H,3,0,H
+MEX,09/03/2003,,Santos Laguna,CF Pachuca,2,0,H,1,0,H
+MEX,09/03/2003,,Monarcas Morelia,Cruz Azul,1,1,D,1,0,H
+MEX,09/03/2003,,Club Necaxa,UANL Tigres,1,2,A,1,0,H
+MEX,15/03/2003,,Cuernavaca,Real San Luis,2,4,A,0,2,A
+MEX,15/03/2003,,UAG Tecos,Monarcas Morelia,0,2,A,0,1,A
+MEX,15/03/2003,,Jaguares Chiapas,Veracruz (old),1,2,A,1,1,D
+MEX,15/03/2003,,UANL Tigres,CF Atlante,2,1,H,0,1,A
+MEX,15/03/2003,,CF Pachuca,Club Necaxa,2,0,H,0,0,D
+MEX,16/03/2003,,Gallos Blancos (old),Atlas Guadalajara,2,2,D,2,2,D
+MEX,16/03/2003,,Cruz Azul,Pumas UNAM,2,0,H,1,0,H
+MEX,16/03/2003,,Deportivo Guadalajara,Santos Laguna,1,0,H,1,0,H
+MEX,16/03/2003,,Puebla FC,Deportivo Toluca,3,1,H,1,0,H
+MEX,16/03/2003,,CF América,CF Monterrey,1,1,D,1,0,H
+MEX,22/03/2003,,Deportivo Toluca,CF América,3,0,H,2,0,H
+MEX,22/03/2003,,Veracruz (old),Cruz Azul,2,0,H,1,0,H
+MEX,22/03/2003,,Monarcas Morelia,UANL Tigres,2,0,H,0,0,D
+MEX,22/03/2003,,CF Monterrey,Jaguares Chiapas,0,1,A,0,1,A
+MEX,22/03/2003,,Atlas Guadalajara,Puebla FC,2,0,H,1,0,H
+MEX,23/03/2003,,Gallos Blancos (old),Cuernavaca,1,2,A,0,1,A
+MEX,23/03/2003,,CF Atlante,CF Pachuca,2,1,H,1,1,D
+MEX,23/03/2003,,Club Necaxa,Deportivo Guadalajara,2,2,D,2,1,H
+MEX,23/03/2003,,Santos Laguna,Real San Luis,2,0,H,1,0,H
+MEX,16/04/2003,,Pumas UNAM,UAG Tecos,2,1,H,1,0,H
+MEX,29/03/2003,,Cuernavaca,Santos Laguna,2,3,A,0,2,A
+MEX,29/03/2003,,Jaguares Chiapas,Deportivo Toluca,1,1,D,0,0,D
+MEX,29/03/2003,,UANL Tigres,Pumas UNAM,2,2,D,1,1,D
+MEX,29/03/2003,,Cruz Azul,CF Monterrey,0,0,D,0,0,D
+MEX,29/03/2003,,UAG Tecos,Veracruz (old),1,2,A,0,1,A
+MEX,29/03/2003,,Real San Luis,Club Necaxa,1,0,H,1,0,H
+MEX,30/03/2003,,CF Pachuca,Monarcas Morelia,0,0,D,0,0,D
+MEX,30/03/2003,,Deportivo Guadalajara,CF Atlante,2,3,A,0,1,A
+MEX,30/03/2003,,Puebla FC,Gallos Blancos (old),0,2,A,0,1,A
+MEX,30/03/2003,,CF América,Atlas Guadalajara,4,4,D,4,2,H
+MEX,05/04/2003,,Veracruz (old),UANL Tigres,4,1,H,2,1,H
+MEX,05/04/2003,,CF Monterrey,UAG Tecos,3,0,H,1,0,H
+MEX,05/04/2003,,Monarcas Morelia,Deportivo Guadalajara,1,1,D,1,1,D
+MEX,05/04/2003,,Atlas Guadalajara,Jaguares Chiapas,1,0,H,1,0,H
+MEX,06/04/2003,,Deportivo Toluca,Cruz Azul,1,3,A,0,0,D
+MEX,06/04/2003,,CF Atlante,Real San Luis,3,1,H,0,1,A
+MEX,06/04/2003,,Pumas UNAM,CF Pachuca,1,1,D,0,0,D
+MEX,06/04/2003,,Gallos Blancos (old),CF América,1,1,D,1,0,H
+MEX,06/04/2003,,Club Necaxa,Santos Laguna,0,1,A,0,0,D
+MEX,06/04/2003,,Puebla FC,Cuernavaca,0,1,A,0,0,D
+MEX,12/04/2003,,Cuernavaca,Club Necaxa,2,2,D,2,1,H
+MEX,12/04/2003,,Jaguares Chiapas,Gallos Blancos (old),0,0,D,0,0,D
+MEX,12/04/2003,,UAG Tecos,Deportivo Toluca,3,0,H,0,0,D
+MEX,12/04/2003,,Cruz Azul,Atlas Guadalajara,1,1,D,1,1,D
+MEX,12/04/2003,,UANL Tigres,CF Monterrey,2,1,H,0,1,A
+MEX,12/04/2003,,Real San Luis,Monarcas Morelia,2,4,A,2,2,D
+MEX,13/04/2003,,Deportivo Guadalajara,Pumas UNAM,1,1,D,0,0,D
+MEX,13/04/2003,,CF Pachuca,Veracruz (old),1,1,D,1,0,H
+MEX,13/04/2003,,Santos Laguna,CF Atlante,1,0,H,1,0,H
+MEX,13/04/2003,,CF América,Puebla FC,0,1,A,0,1,A
+MEX,19/04/2003,,Veracruz (old),Deportivo Guadalajara,0,2,A,0,1,A
+MEX,19/04/2003,,Deportivo Toluca,UANL Tigres,3,1,H,1,1,D
+MEX,19/04/2003,,Monarcas Morelia,Santos Laguna,4,0,H,1,0,H
+MEX,19/04/2003,,CF Monterrey,CF Pachuca,3,2,H,1,2,A
+MEX,19/04/2003,,Atlas Guadalajara,UAG Tecos,2,0,H,0,0,D
+MEX,20/04/2003,,Gallos Blancos (old),Cruz Azul,0,1,A,0,0,D
+MEX,20/04/2003,,Pumas UNAM,Real San Luis,2,2,D,1,0,H
+MEX,20/04/2003,,CF Atlante,Club Necaxa,4,1,H,2,1,H
+MEX,20/04/2003,,Puebla FC,Jaguares Chiapas,3,2,H,1,2,A
+MEX,20/04/2003,,CF América,Cuernavaca,2,0,H,1,0,H
+MEX,26/04/2003,,Jaguares Chiapas,CF América,0,1,A,0,1,A
+MEX,26/04/2003,,UAG Tecos,Gallos Blancos (old),0,0,D,0,0,D
+MEX,26/04/2003,,Cuernavaca,CF Atlante,1,1,D,1,0,H
+MEX,26/04/2003,,Cruz Azul,Puebla FC,4,0,H,3,0,H
+MEX,26/04/2003,,UANL Tigres,Atlas Guadalajara,0,0,D,0,0,D
+MEX,26/04/2003,,Real San Luis,Veracruz (old),0,3,A,0,1,A
+MEX,27/04/2003,,Deportivo Guadalajara,CF Monterrey,1,1,D,0,1,A
+MEX,27/04/2003,,CF Pachuca,Deportivo Toluca,0,1,A,0,1,A
+MEX,27/04/2003,,Santos Laguna,Pumas UNAM,4,1,H,1,0,H
+MEX,27/04/2003,,Club Necaxa,Monarcas Morelia,3,0,H,1,0,H
+MEX,03/05/2003,,Veracruz (old),Santos Laguna,1,0,H,0,0,D
+MEX,03/05/2003,,Deportivo Toluca,Deportivo Guadalajara,3,2,H,2,1,H
+MEX,03/05/2003,,Jaguares Chiapas,Cuernavaca,0,1,A,0,0,D
+MEX,03/05/2003,,Monarcas Morelia,CF Atlante,0,0,D,0,0,D
+MEX,03/05/2003,,CF Monterrey,Real San Luis,3,1,H,1,0,H
+MEX,03/05/2003,,Puebla FC,UAG Tecos,2,2,D,2,0,H
+MEX,03/05/2003,,Atlas Guadalajara,CF Pachuca,1,0,H,1,0,H
+MEX,04/05/2003,,Pumas UNAM,Club Necaxa,4,4,D,4,0,H
+MEX,04/05/2003,,Gallos Blancos (old),UANL Tigres,0,2,A,0,0,D
+MEX,04/05/2003,,CF América,Cruz Azul,1,3,A,0,1,A
+MEX,10/05/2003,,UANL Tigres,Puebla FC,1,0,H,1,0,H
+MEX,10/05/2003,,Cruz Azul,Jaguares Chiapas,0,1,A,0,1,A
+MEX,10/05/2003,,Monarcas Morelia,Cuernavaca,3,1,H,1,0,H
+MEX,10/05/2003,,Real San Luis,Deportivo Toluca,2,3,A,1,0,H
+MEX,11/05/2003,,Deportivo Guadalajara,Atlas Guadalajara,1,3,A,0,3,A
+MEX,11/05/2003,,CF Pachuca,Gallos Blancos (old),3,1,H,2,1,H
+MEX,11/05/2003,,CF Atlante,Pumas UNAM,3,1,H,1,0,H
+MEX,11/05/2003,,UAG Tecos,CF América,0,5,A,0,0,D
+MEX,11/05/2003,,Santos Laguna,CF Monterrey,1,2,A,0,1,A
+MEX,11/05/2003,,Club Necaxa,Veracruz (old),0,0,D,0,0,D
+MEX,17/05/2003,,Deportivo Toluca,Santos Laguna,4,3,H,2,3,A
+MEX,17/05/2003,,CF América,UANL Tigres,0,1,A,0,0,D
+MEX,17/05/2003,,Cuernavaca,Cruz Azul,0,0,D,0,0,D
+MEX,17/05/2003,,Gallos Blancos (old),Deportivo Guadalajara,0,2,A,0,1,A
+MEX,17/05/2003,,Puebla FC,CF Pachuca,1,1,D,1,0,H
+MEX,17/05/2003,,CF Monterrey,Club Necaxa,2,1,H,1,1,D
+MEX,17/05/2003,,Jaguares Chiapas,UAG Tecos,1,0,H,0,0,D
+MEX,17/05/2003,,Pumas UNAM,Monarcas Morelia,0,1,A,0,0,D
+MEX,17/05/2003,,Atlas Guadalajara,Real San Luis,1,1,D,1,1,D
+MEX,17/05/2003,,Veracruz (old),CF Atlante,2,2,D,1,1,D

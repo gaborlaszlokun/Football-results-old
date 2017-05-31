@@ -1,0 +1,85 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KUW,14/09/2012,16:30,Al Kuwait SC,Al Arabi SC,2,2,D,NaN,NaN,NaN
+KUW,14/09/2012,18:20,Al Jahra SC,Al Nasr SC,2,1,H,NaN,NaN,NaN
+KUW,15/09/2012,16:20,Qadsia SC,Al Salmiya SC,3,1,H,NaN,NaN,NaN
+KUW,15/09/2012,18:20,Kazma SC,Al Salibikhaet SC,1,1,D,NaN,NaN,NaN
+KUW,21/09/2012,16:15,Al Arabi SC,Al Jahra SC,1,1,D,NaN,NaN,NaN
+KUW,21/09/2012,18:15,Al Kuwait SC,Al Salibikhaet SC,4,1,H,NaN,NaN,NaN
+KUW,22/09/2012,16:15,Al Salmiya SC,Kazma SC,1,1,D,NaN,NaN,NaN
+KUW,22/09/2012,18:15,Qadsia SC,Al Nasr SC,1,0,H,NaN,NaN,NaN
+KUW,28/09/2012,16:00,Kazma SC,Al Nasr SC,2,0,H,NaN,NaN,NaN
+KUW,28/09/2012,19:00,Al Salibikhaet SC,Al Salmiya SC,3,0,H,NaN,NaN,NaN
+KUW,29/09/2012,16:00,Al Arabi SC,Qadsia SC,0,0,D,NaN,NaN,NaN
+KUW,29/09/2012,18:00,Al Kuwait SC,Al Jahra SC,3,0,H,NaN,NaN,NaN
+KUW,05/10/2012,18:00,Al Nasr SC,Al Salmiya SC,4,2,H,NaN,NaN,NaN
+KUW,06/10/2012,16:00,Kazma SC,Al Kuwait SC,2,4,A,NaN,NaN,NaN
+KUW,06/10/2012,16:00,Al Arabi SC,Al Salibikhaet SC,1,1,D,NaN,NaN,NaN
+KUW,06/10/2012,18:00,Al Jahra SC,Qadsia SC,1,1,D,NaN,NaN,NaN
+KUW,13/10/2012,15:50,Qadsia SC,Kazma SC,0,0,D,NaN,NaN,NaN
+KUW,13/10/2012,15:50,Al Jahra SC,Al Salibikhaet SC,3,1,H,NaN,NaN,NaN
+KUW,13/10/2012,17:50,Al Kuwait SC,Al Salmiya SC,1,0,H,NaN,NaN,NaN
+KUW,13/10/2012,17:50,Al Nasr SC,Al Arabi SC,0,1,A,NaN,NaN,NaN
+KUW,19/10/2012,15:40,Al Nasr SC,Al Kuwait SC,1,3,A,1,2,A
+KUW,19/10/2012,18:40,Al Salibikhaet SC,Qadsia SC,0,3,A,0,1,A
+KUW,20/10/2012,15:40,Al Salmiya SC,Al Arabi SC,1,4,A,0,1,A
+KUW,20/10/2012,17:40,Al Jahra SC,Kazma SC,1,4,A,1,1,D
+KUW,27/10/2012,15:30,Al Arabi SC,Kazma SC,4,3,H,1,0,H
+KUW,27/10/2012,15:30,Qadsia SC,Al Kuwait SC,0,1,A,0,0,D
+KUW,27/10/2012,17:30,Al Salmiya SC,Al Jahra SC,0,0,D,0,0,D
+KUW,27/10/2012,18:30,Al Salibikhaet SC,Al Nasr SC,0,1,A,0,0,D
+KUW,02/11/2012,13:15,Al Salmiya SC,Qadsia SC,0,2,A,0,1,A
+KUW,02/11/2012,16:15,Al Salibikhaet SC,Kazma SC,0,0,D,0,0,D
+KUW,03/11/2012,14:30,Al Nasr SC,Al Jahra SC,0,0,D,0,0,D
+KUW,06/11/2012,14:30,Al Arabi SC,Al Kuwait SC,1,1,D,0,1,A
+KUW,08/11/2012,14:30,Al Nasr SC,Qadsia SC,0,3,A,0,1,A
+KUW,09/11/2012,13:10,Al Jahra SC,Al Arabi SC,0,2,A,0,0,D
+KUW,09/11/2012,14:30,Kazma SC,Al Salmiya SC,0,3,A,0,1,A
+KUW,09/11/2012,16:10,Al Salibikhaet SC,Al Kuwait SC,1,5,A,0,2,A
+KUW,16/11/2012,13:05,Al Salmiya SC,Al Salibikhaet SC,2,0,H,NaN,NaN,NaN
+KUW,17/11/2012,13:05,Al Jahra SC,Al Kuwait SC,1,3,A,0,3,A
+KUW,17/11/2012,15:30,Qadsia SC,Al Arabi SC,2,2,D,1,2,A
+KUW,18/11/2012,14:15,Al Nasr SC,Kazma SC,1,0,H,0,0,D
+KUW,25/01/2013,13:30,Qadsia SC,Al Jahra SC,1,0,H,0,0,D
+KUW,25/01/2013,15:30,Al Kuwait SC,Kazma SC,4,1,H,2,1,H
+KUW,26/01/2013,13:30,Al Salmiya SC,Al Nasr SC,0,0,D,0,0,D
+KUW,26/01/2013,16:30,Al Salibikhaet SC,Al Arabi SC,0,3,A,0,3,A
+KUW,09/02/2013,13:45,Al Arabi SC,Al Nasr SC,3,1,H,1,0,H
+KUW,10/02/2013,13:45,Al Salibikhaet SC,Al Jahra SC,1,0,H,0,0,D
+KUW,10/02/2013,13:45,Kazma SC,Qadsia SC,0,0,D,0,0,D
+KUW,10/02/2013,16:15,Al Salmiya SC,Al Kuwait SC,0,0,D,0,0,D
+KUW,14/02/2013,13:50,Al Kuwait SC,Al Nasr SC,1,0,H,0,0,D
+KUW,14/02/2013,13:50,Kazma SC,Al Jahra SC,2,0,H,0,0,D
+KUW,14/02/2013,15:50,Qadsia SC,Al Salibikhaet SC,7,1,H,2,0,H
+KUW,16/02/2013,15:50,Al Arabi SC,Al Salmiya SC,0,1,A,0,0,D
+KUW,22/02/2013,13:55,Kazma SC,Al Arabi SC,0,2,A,0,0,D
+KUW,22/02/2013,15:55,Al Jahra SC,Al Salmiya SC,0,0,D,0,0,D
+KUW,23/02/2013,13:55,Al Kuwait SC,Qadsia SC,1,1,D,1,0,H
+KUW,23/02/2013,15:55,Al Nasr SC,Al Salibikhaet SC,3,0,H,1,0,H
+KUW,02/03/2013,14:00,Kazma SC,Al Salibikhaet SC,1,0,H,1,0,H
+KUW,02/03/2013,14:00,Qadsia SC,Al Salmiya SC,2,1,H,0,0,D
+KUW,02/03/2013,16:30,Al Jahra SC,Al Nasr SC,1,0,H,1,0,H
+KUW,02/03/2013,16:30,Al Kuwait SC,Al Arabi SC,3,0,H,1,0,H
+KUW,08/03/2013,14:05,Al Arabi SC,Al Jahra SC,0,2,A,0,2,A
+KUW,08/03/2013,16:35,Al Salmiya SC,Kazma SC,0,0,D,0,0,D
+KUW,09/03/2013,14:05,Al Salibikhaet SC,Al Kuwait SC,0,5,A,0,2,A
+KUW,09/03/2013,16:35,Al Nasr SC,Qadsia SC,2,1,H,0,0,D
+KUW,16/03/2013,14:10,Al Kuwait SC,Al Jahra SC,2,0,H,1,0,H
+KUW,16/03/2013,14:10,Al Salibikhaet SC,Al Salmiya SC,1,0,H,0,0,D
+KUW,16/03/2013,16:40,Qadsia SC,Al Arabi SC,2,1,H,1,0,H
+KUW,16/03/2013,16:40,Kazma SC,Al Nasr SC,0,1,A,0,0,D
+KUW,28/03/2013,14:15,Al Arabi SC,Al Salibikhaet SC,2,0,H,1,0,H
+KUW,29/03/2013,14:15,Al Jahra SC,Qadsia SC,2,2,D,0,0,D
+KUW,29/03/2013,14:15,Al Nasr SC,Al Salmiya SC,2,2,D,1,2,A
+KUW,29/03/2013,16:45,Kazma SC,Al Kuwait SC,0,1,A,0,1,A
+KUW,06/04/2013,15:15,Qadsia SC,Kazma SC,2,1,H,0,0,D
+KUW,06/04/2013,15:15,Al Kuwait SC,Al Salmiya SC,5,0,H,2,0,H
+KUW,06/04/2013,17:55,Al Salibikhaet SC,Al Jahra SC,1,0,H,0,0,D
+KUW,08/04/2013,15:25,Al Arabi SC,Al Nasr SC,1,0,H,1,0,H
+KUW,12/04/2013,15:25,Al Jahra SC,Kazma SC,1,0,H,0,0,D
+KUW,13/04/2013,15:25,Al Salmiya SC,Al Arabi SC,0,2,A,0,1,A
+KUW,13/04/2013,15:25,Al Nasr SC,Al Kuwait SC,1,4,A,0,2,A
+KUW,13/04/2013,17:55,Al Salibikhaet SC,Qadsia SC,1,5,A,1,2,A
+KUW,19/04/2013,16:50,Qadsia SC,Al Kuwait SC,1,1,D,1,1,D
+KUW,19/04/2013,16:50,Al Nasr SC,Al Salibikhaet SC,2,2,D,0,1,A
+KUW,19/04/2013,16:50,Al Salmiya SC,Al Jahra SC,1,0,H,1,0,H
+KUW,19/04/2013,16:50,Al Arabi SC,Kazma SC,3,0,H,1,0,H

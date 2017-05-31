@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,27/01/2006,22:00,Estudiantes,Instituto Córdoba,4,1,H,3,0,H
+ARG,28/01/2006,00:00,Vélez Sársfield,San Lorenzo,1,1,D,0,0,D
+ARG,28/01/2006,20:00,Arsenal Sarandí,Argentinos Juniors,1,1,D,0,1,A
+ARG,28/01/2006,20:00,Olimpo,Rosario Central,0,0,D,0,0,D
+ARG,28/01/2006,21:20,CA Colón,GyE La Plata,1,0,H,1,0,H
+ARG,29/01/2006,00:00,Newell's Old Boys,Quilmes AC,2,0,H,0,0,D
+ARG,29/01/2006,00:10,CA Banfield,Racing Club,3,0,H,1,0,H
+ARG,29/01/2006,20:00,GyE Jujuy,Boca Juniors,2,1,H,0,0,D
+ARG,29/01/2006,20:00,Independiente,CA Lanús,0,0,D,0,0,D
+ARG,29/01/2006,22:15,Tiro Federal Rosario,River Plate,0,5,A,0,4,A
+ARG,31/01/2006,20:00,Argentinos Juniors,Vélez Sársfield,0,0,D,0,0,D
+ARG,31/01/2006,22:10,Racing Club,CA Colón,2,2,D,0,1,A
+ARG,01/02/2006,00:00,Quilmes AC,CA Banfield,3,1,H,2,1,H
+ARG,01/02/2006,00:15,San Lorenzo,Estudiantes,1,2,A,0,1,A
+ARG,01/02/2006,20:10,Rosario Central,Boca Juniors,1,2,A,1,2,A
+ARG,01/02/2006,22:30,Instituto Córdoba,Independiente,0,5,A,0,2,A
+ARG,01/02/2006,23:00,CA Lanús,Olimpo,2,1,H,0,0,D
+ARG,03/02/2006,00:00,Tiro Federal Rosario,Newell's Old Boys,2,1,H,2,0,H
+ARG,08/02/2006,22:00,GyE La Plata,Arsenal Sarandí,0,0,D,0,0,D
+ARG,08/02/2006,23:45,River Plate,GyE Jujuy,2,0,H,1,0,H
+ARG,03/02/2006,22:00,Vélez Sársfield,GyE La Plata,2,1,H,1,1,D
+ARG,04/02/2006,00:00,Estudiantes,Argentinos Juniors,2,2,D,2,0,H
+ARG,04/02/2006,21:20,CA Colón,Quilmes AC,1,0,H,0,0,D
+ARG,05/02/2006,00:10,Arsenal Sarandí,Racing Club,1,0,H,1,0,H
+ARG,05/02/2006,20:00,CA Banfield,Tiro Federal Rosario,2,1,H,1,1,D
+ARG,05/02/2006,20:00,GyE Jujuy,Rosario Central,1,0,H,0,0,D
+ARG,05/02/2006,20:00,Olimpo,Instituto Córdoba,2,0,H,0,0,D
+ARG,05/02/2006,20:00,Independiente,San Lorenzo,1,0,H,1,0,H
+ARG,05/02/2006,20:10,Newell's Old Boys,River Plate,3,1,H,1,1,D
+ARG,05/02/2006,22:15,Boca Juniors,CA Lanús,3,0,H,1,0,H
+ARG,10/02/2006,22:00,Argentinos Juniors,Independiente,2,1,H,1,1,D
+ARG,11/02/2006,00:10,San Lorenzo,Olimpo,2,0,H,2,0,H
+ARG,11/02/2006,21:20,Tiro Federal Rosario,CA Colón,0,1,A,0,0,D
+ARG,12/02/2006,00:10,Racing Club,Vélez Sársfield,0,2,A,0,2,A
+ARG,12/02/2006,20:00,GyE La Plata,Estudiantes,1,1,D,0,1,A
+ARG,12/02/2006,20:00,CA Lanús,Rosario Central,2,0,H,0,0,D
+ARG,12/02/2006,20:00,Quilmes AC,Arsenal Sarandí,1,0,H,1,0,H
+ARG,12/02/2006,20:10,River Plate,CA Banfield,3,1,H,1,1,D
+ARG,12/02/2006,22:00,Newell's Old Boys,GyE Jujuy,3,1,H,1,0,H
+ARG,12/02/2006,22:15,Instituto Córdoba,Boca Juniors,1,1,D,0,0,D
+ARG,17/02/2006,22:00,Estudiantes,Racing Club,2,1,H,1,0,H
+ARG,18/02/2006,00:10,CA Banfield,Newell's Old Boys,2,2,D,0,0,D
+ARG,18/02/2006,22:00,Vélez Sársfield,Quilmes AC,2,0,H,2,0,H
+ARG,19/02/2006,00:00,Independiente,GyE La Plata,0,1,A,0,0,D
+ARG,19/02/2006,20:00,Olimpo,Argentinos Juniors,4,1,H,2,0,H
+ARG,19/02/2006,20:00,Arsenal Sarandí,Tiro Federal Rosario,3,0,H,2,0,H
+ARG,19/02/2006,20:00,GyE Jujuy,CA Lanús,1,0,H,0,0,D
+ARG,19/02/2006,20:00,Rosario Central,Instituto Córdoba,1,0,H,0,0,D
+ARG,19/02/2006,20:10,Boca Juniors,San Lorenzo,1,2,A,0,1,A
+ARG,19/02/2006,22:15,CA Colón,River Plate,2,2,D,2,1,H
+ARG,25/02/2006,00:10,Newell's Old Boys,CA Colón,0,0,D,0,0,D
+ARG,25/02/2006,19:00,Racing Club,Independiente,0,2,A,0,0,D
+ARG,25/02/2006,21:20,Quilmes AC,Estudiantes,1,0,H,0,0,D
+ARG,25/02/2006,23:00,GyE La Plata,Olimpo,3,1,H,2,0,H
+ARG,26/02/2006,00:10,River Plate,Arsenal Sarandí,3,1,H,1,0,H
+ARG,26/02/2006,00:15,CA Banfield,GyE Jujuy,2,1,H,1,0,H
+ARG,26/02/2006,20:00,Argentinos Juniors,Boca Juniors,1,2,A,1,1,D
+ARG,26/02/2006,20:00,Instituto Córdoba,CA Lanús,2,1,H,1,1,D
+ARG,26/02/2006,21:00,San Lorenzo,Rosario Central,0,0,D,0,0,D
+ARG,26/02/2006,22:15,Tiro Federal Rosario,Vélez Sársfield,3,3,D,1,2,A
+ARG,28/02/2006,20:00,CA Colón,CA Banfield,4,2,H,3,2,H
+ARG,28/02/2006,22:05,Olimpo,Racing Club,3,0,H,1,0,H
+ARG,01/03/2006,00:15,Independiente,Quilmes AC,0,0,D,0,0,D
+ARG,01/03/2006,21:00,Vélez Sársfield,River Plate,1,1,D,0,0,D
+ARG,01/03/2006,22:00,Rosario Central,Argentinos Juniors,1,1,D,0,1,A
+ARG,01/03/2006,22:00,Estudiantes,Tiro Federal Rosario,0,3,A,0,2,A
+ARG,01/03/2006,22:00,Arsenal Sarandí,Newell's Old Boys,0,1,A,0,1,A
+ARG,01/03/2006,22:00,GyE Jujuy,Instituto Córdoba,2,0,H,0,0,D
+ARG,01/03/2006,22:00,CA Lanús,San Lorenzo,2,0,H,2,0,H
+ARG,01/03/2006,23:00,Boca Juniors,GyE La Plata,3,0,H,1,0,H
+ARG,04/03/2006,19:30,Tiro Federal Rosario,Independiente,0,2,A,0,0,D
+ARG,04/03/2006,22:00,San Lorenzo,Instituto Córdoba,1,1,D,0,1,A
+ARG,05/03/2006,00:30,Newell's Old Boys,Vélez Sársfield,1,0,H,0,0,D
+ARG,05/03/2006,19:30,Racing Club,Boca Juniors,0,3,A,0,0,D
+ARG,05/03/2006,20:00,Quilmes AC,Olimpo,1,1,D,0,1,A
+ARG,05/03/2006,20:00,CA Colón,GyE Jujuy,0,2,A,0,1,A
+ARG,05/03/2006,20:00,Argentinos Juniors,CA Lanús,1,1,D,1,0,H
+ARG,05/03/2006,20:00,CA Banfield,Arsenal Sarandí,0,1,A,0,0,D
+ARG,05/03/2006,22:20,River Plate,Estudiantes,3,1,H,1,1,D
+ARG,06/03/2006,23:05,GyE La Plata,Rosario Central,3,0,H,1,0,H
+ARG,11/03/2006,00:10,GyE Jujuy,San Lorenzo,0,1,A,0,1,A
+ARG,11/03/2006,19:30,Rosario Central,Racing Club,1,1,D,1,0,H
+ARG,11/03/2006,21:20,Arsenal Sarandí,CA Colón,1,1,D,1,1,D
+ARG,12/03/2006,00:00,CA Lanús,GyE La Plata,2,1,H,1,0,H
+ARG,12/03/2006,00:10,Vélez Sársfield,CA Banfield,1,0,H,1,0,H
+ARG,12/03/2006,18:10,Estudiantes,Newell's Old Boys,2,1,H,1,1,D
+ARG,12/03/2006,20:00,Instituto Córdoba,Argentinos Juniors,0,1,A,0,0,D
+ARG,12/03/2006,20:00,Olimpo,Tiro Federal Rosario,3,0,H,2,0,H
+ARG,12/03/2006,20:10,Independiente,River Plate,1,1,D,0,1,A
+ARG,12/03/2006,22:15,Boca Juniors,Quilmes AC,3,1,H,2,1,H
+ARG,17/03/2006,22:00,Argentinos Juniors,San Lorenzo,0,1,A,0,0,D
+ARG,18/03/2006,00:10,CA Banfield,Estudiantes,1,0,H,1,0,H
+ARG,18/03/2006,21:20,CA Colón,Vélez Sársfield,1,3,A,0,1,A
+ARG,19/03/2006,00:10,Newell's Old Boys,Independiente,2,0,H,1,0,H
+ARG,19/03/2006,17:00,Racing Club,CA Lanús,0,0,D,0,0,D
+ARG,19/03/2006,19:00,Tiro Federal Rosario,Boca Juniors,0,0,D,0,0,D
+ARG,19/03/2006,19:00,Quilmes AC,Rosario Central,1,1,D,0,0,D
+ARG,19/03/2006,19:00,GyE La Plata,Instituto Córdoba,2,0,H,1,0,H
+ARG,19/03/2006,21:00,Arsenal Sarandí,GyE Jujuy,2,5,A,1,3,A
+ARG,19/03/2006,21:30,River Plate,Olimpo,3,0,H,2,0,H
+ARG,24/03/2006,22:00,San Lorenzo,GyE La Plata,2,2,D,1,1,D
+ARG,25/03/2006,00:10,Instituto Córdoba,Racing Club,1,0,H,1,0,H
+ARG,25/03/2006,21:20,GyE Jujuy,Argentinos Juniors,3,1,H,2,0,H
+ARG,25/03/2006,21:30,CA Lanús,Quilmes AC,2,0,H,0,0,D
+ARG,26/03/2006,00:10,Vélez Sársfield,Arsenal Sarandí,0,0,D,0,0,D
+ARG,26/03/2006,18:00,Estudiantes,CA Colón,1,2,A,0,0,D
+ARG,26/03/2006,20:00,Rosario Central,Tiro Federal Rosario,3,0,H,1,0,H
+ARG,26/03/2006,20:00,Olimpo,Newell's Old Boys,0,2,A,0,1,A
+ARG,26/03/2006,20:10,Boca Juniors,River Plate,1,1,D,0,1,A
+ARG,26/03/2006,23:00,Independiente,CA Banfield,1,2,A,0,1,A
+ARG,28/03/2006,19:30,GyE La Plata,Argentinos Juniors,4,3,H,2,0,H
+ARG,28/03/2006,22:05,Vélez Sársfield,GyE Jujuy,0,0,D,0,0,D
+ARG,29/03/2006,00:00,Quilmes AC,Instituto Córdoba,3,1,H,1,1,D
+ARG,29/03/2006,01:15,Racing Club,San Lorenzo,1,0,H,0,0,D
+ARG,29/03/2006,18:00,Tiro Federal Rosario,CA Lanús,0,1,A,0,1,A
+ARG,29/03/2006,19:10,CA Colón,Independiente,1,1,D,1,1,D
+ARG,29/03/2006,21:10,River Plate,Rosario Central,2,0,H,2,0,H
+ARG,29/03/2006,23:00,Arsenal Sarandí,Estudiantes,1,2,A,1,1,D
+ARG,29/03/2006,23:00,CA Banfield,Olimpo,0,1,A,0,1,A
+ARG,29/03/2006,23:10,Newell's Old Boys,Boca Juniors,1,1,D,0,0,D
+ARG,01/04/2006,21:00,Estudiantes,Vélez Sársfield,1,1,D,1,1,D
+ARG,01/04/2006,23:00,San Lorenzo,Quilmes AC,0,0,D,0,0,D
+ARG,02/04/2006,01:00,Independiente,Arsenal Sarandí,0,2,A,0,0,D
+ARG,02/04/2006,18:00,Rosario Central,Newell's Old Boys,0,0,D,0,0,D
+ARG,02/04/2006,20:00,GyE Jujuy,GyE La Plata,0,0,D,0,0,D
+ARG,02/04/2006,20:00,Argentinos Juniors,Racing Club,2,0,H,0,0,D
+ARG,02/04/2006,20:00,Instituto Córdoba,Tiro Federal Rosario,3,4,A,2,2,D
+ARG,02/04/2006,20:00,Boca Juniors,CA Banfield,2,1,H,1,0,H
+ARG,02/04/2006,20:00,Olimpo,CA Colón,1,0,H,0,0,D
+ARG,02/04/2006,22:30,CA Lanús,River Plate,4,1,H,3,0,H
+ARG,08/04/2006,01:10,Newell's Old Boys,CA Lanús,1,2,A,0,1,A
+ARG,08/04/2006,19:30,Estudiantes,GyE Jujuy,0,4,A,0,1,A
+ARG,08/04/2006,20:00,Arsenal Sarandí,Olimpo,0,0,D,0,0,D
+ARG,08/04/2006,22:20,Tiro Federal Rosario,San Lorenzo,0,1,A,0,1,A
+ARG,09/04/2006,01:10,Vélez Sársfield,Independiente,0,2,A,0,0,D
+ARG,09/04/2006,18:00,Racing Club,GyE La Plata,0,1,A,0,1,A
+ARG,09/04/2006,19:30,Quilmes AC,Argentinos Juniors,2,1,H,2,1,H
+ARG,09/04/2006,19:30,CA Banfield,Rosario Central,2,0,H,1,0,H
+ARG,09/04/2006,20:10,River Plate,Instituto Córdoba,3,1,H,1,1,D
+ARG,09/04/2006,22:30,CA Colón,Boca Juniors,1,2,A,0,2,A
+ARG,15/04/2006,01:10,Instituto Córdoba,Newell's Old Boys,1,2,A,1,1,D
+ARG,15/04/2006,19:30,Argentinos Juniors,Tiro Federal Rosario,4,0,H,3,0,H
+ARG,15/04/2006,20:10,CA Lanús,CA Banfield,0,2,A,0,1,A
+ARG,16/04/2006,01:10,Olimpo,Vélez Sársfield,2,2,D,1,1,D
+ARG,16/04/2006,18:00,GyE Jujuy,Racing Club,0,1,A,0,1,A
+ARG,16/04/2006,19:30,Independiente,Estudiantes,0,3,A,0,2,A
+ARG,16/04/2006,19:30,GyE La Plata,Quilmes AC,4,0,H,2,0,H
+ARG,16/04/2006,19:30,Rosario Central,CA Colón,2,0,H,1,0,H
+ARG,16/04/2006,20:10,San Lorenzo,River Plate,0,0,D,0,0,D
+ARG,16/04/2006,22:30,Boca Juniors,Arsenal Sarandí,1,0,H,0,0,D
+ARG,22/04/2006,01:10,Independiente,GyE Jujuy,0,0,D,0,0,D
+ARG,22/04/2006,19:30,Estudiantes,Olimpo,2,2,D,0,1,A
+ARG,22/04/2006,22:20,CA Colón,CA Lanús,1,3,A,1,0,H
+ARG,23/04/2006,01:10,Newell's Old Boys,San Lorenzo,1,1,D,0,0,D
+ARG,23/04/2006,18:00,Quilmes AC,Racing Club,0,3,A,0,2,A
+ARG,23/04/2006,19:30,Tiro Federal Rosario,GyE La Plata,0,2,A,0,0,D
+ARG,23/04/2006,19:30,Arsenal Sarandí,Rosario Central,1,1,D,1,0,H
+ARG,23/04/2006,19:30,CA Banfield,Instituto Córdoba,2,0,H,2,0,H
+ARG,23/04/2006,20:10,Vélez Sársfield,Boca Juniors,2,3,A,1,2,A
+ARG,23/04/2006,22:30,River Plate,Argentinos Juniors,2,2,D,0,0,D
+ARG,29/04/2006,01:10,San Lorenzo,CA Banfield,1,0,H,0,0,D
+ARG,29/04/2006,22:20,Olimpo,Independiente,0,2,A,0,1,A
+ARG,30/04/2006,01:10,Racing Club,Tiro Federal Rosario,2,0,H,0,0,D
+ARG,30/04/2006,18:00,Rosario Central,Vélez Sársfield,1,0,H,1,0,H
+ARG,30/04/2006,19:30,GyE Jujuy,Quilmes AC,2,1,H,0,0,D
+ARG,30/04/2006,19:30,Argentinos Juniors,Newell's Old Boys,1,1,D,0,0,D
+ARG,30/04/2006,19:30,CA Lanús,Arsenal Sarandí,3,0,H,3,0,H
+ARG,30/04/2006,20:10,Boca Juniors,Estudiantes,4,0,H,1,0,H
+ARG,30/04/2006,22:30,GyE La Plata,River Plate,3,3,D,1,1,D
+ARG,02/05/2006,19:30,Instituto Córdoba,CA Colón,2,1,H,1,1,D
+ARG,06/05/2006,01:10,CA Banfield,Argentinos Juniors,3,1,H,0,0,D
+ARG,06/05/2006,19:30,Arsenal Sarandí,Instituto Córdoba,1,1,D,1,1,D
+ARG,06/05/2006,20:10,Newell's Old Boys,GyE La Plata,2,3,A,1,0,H
+ARG,07/05/2006,01:10,Vélez Sársfield,CA Lanús,0,0,D,0,0,D
+ARG,07/05/2006,18:00,River Plate,Racing Club,0,2,A,0,1,A
+ARG,07/05/2006,19:30,Tiro Federal Rosario,Quilmes AC,1,1,D,0,1,A
+ARG,07/05/2006,19:30,Olimpo,GyE Jujuy,1,0,H,0,0,D
+ARG,07/05/2006,20:10,Independiente,Boca Juniors,0,2,A,0,1,A
+ARG,07/05/2006,22:00,Estudiantes,Rosario Central,1,1,D,1,0,H
+ARG,07/05/2006,23:30,CA Colón,San Lorenzo,0,1,A,0,1,A
+ARG,13/05/2006,01:10,Racing Club,Newell's Old Boys,1,1,D,1,1,D
+ARG,13/05/2006,22:20,GyE La Plata,CA Banfield,0,2,A,0,1,A
+ARG,14/05/2006,01:10,San Lorenzo,Arsenal Sarandí,0,2,A,0,1,A
+ARG,14/05/2006,18:00,Instituto Córdoba,Vélez Sársfield,1,1,D,0,0,D
+ARG,14/05/2006,19:30,CA Lanús,Estudiantes,1,1,D,0,1,A
+ARG,14/05/2006,19:30,Rosario Central,Independiente,2,0,H,1,0,H
+ARG,14/05/2006,19:30,GyE Jujuy,Tiro Federal Rosario,2,1,H,1,0,H
+ARG,14/05/2006,19:30,Argentinos Juniors,CA Colón,1,0,H,0,0,D
+ARG,14/05/2006,20:10,Boca Juniors,Olimpo,2,0,H,1,0,H
+ARG,14/05/2006,23:00,Quilmes AC,River Plate,1,3,A,1,3,A

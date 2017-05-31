@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,09/08/2014,20:00,The Strongest,Sport Boys Warnes,1,0,H,1,0,H
+BOL,09/08/2014,23:00,Universitario Sucre,Universitario de Pando,3,0,H,1,0,H
+BOL,10/08/2014,20:00,Real Potosí,Oriente Petrolero,0,0,D,0,0,D
+BOL,10/08/2014,20:30,Club San José,Club Bolívar,1,0,H,1,0,H
+BOL,10/08/2014,22:00,Jorge Wilstermann,Club Petrolero,2,2,D,1,1,D
+BOL,11/08/2014,00:00,Club Blooming,Nacional Potosí,2,0,H,2,0,H
+BOL,16/08/2014,00:30,Club San José,The Strongest,3,3,D,2,1,H
+BOL,16/08/2014,01:00,Universitario Sucre,Jorge Wilstermann,0,2,A,0,1,A
+BOL,16/08/2014,20:00,Sport Boys Warnes,Real Potosí,1,1,D,0,0,D
+BOL,17/08/2014,20:00,Nacional Potosí,Club Bolívar,0,2,A,0,0,D
+BOL,17/08/2014,23:00,Oriente Petrolero,Universitario de Pando,2,0,H,0,0,D
+BOL,19/08/2014,01:30,Club Blooming,Club Petrolero,1,0,H,0,0,D
+BOL,23/08/2014,20:30,Club Petrolero,Club Bolívar,1,1,D,0,1,A
+BOL,23/08/2014,23:00,Universitario Sucre,Club Blooming,0,1,A,0,0,D
+BOL,24/08/2014,20:00,Sport Boys Warnes,Universitario de Pando,1,3,A,0,1,A
+BOL,24/08/2014,20:00,Real Potosí,The Strongest,1,0,H,1,0,H
+BOL,24/08/2014,22:00,Jorge Wilstermann,Oriente Petrolero,2,0,H,1,0,H
+BOL,18/09/2014,01:00,Club San José,Nacional Potosí,1,0,H,0,0,D
+BOL,30/08/2014,20:00,The Strongest,Universitario de Pando,3,1,H,0,1,A
+BOL,31/08/2014,20:00,Sport Boys Warnes,Jorge Wilstermann,1,1,D,1,1,D
+BOL,31/08/2014,20:00,Club Petrolero,Nacional Potosí,1,5,A,0,1,A
+BOL,31/08/2014,20:30,Real Potosí,Club San José,3,0,H,2,0,H
+BOL,31/08/2014,22:00,Universitario Sucre,Club Bolívar,1,2,A,1,1,D
+BOL,01/09/2014,00:00,Oriente Petrolero,Club Blooming,2,0,H,1,0,H
+BOL,13/09/2014,20:30,Club Bolívar,Oriente Petrolero,4,0,H,2,0,H
+BOL,14/09/2014,20:30,Club San José,Club Petrolero,4,1,H,1,0,H
+BOL,14/09/2014,20:30,Nacional Potosí,Universitario Sucre,3,0,H,1,0,H
+BOL,14/09/2014,20:45,Universitario de Pando,Real Potosí,0,0,D,0,0,D
+BOL,15/09/2014,00:00,Club Blooming,Sport Boys Warnes,2,2,D,1,2,A
+BOL,15/09/2014,21:00,Jorge Wilstermann,The Strongest,1,1,D,0,1,A
+BOL,20/09/2014,20:00,The Strongest,Club Blooming,4,0,H,1,0,H
+BOL,20/09/2014,22:00,Universitario Sucre,Club Petrolero,4,3,H,1,0,H
+BOL,21/09/2014,20:00,Universitario de Pando,Club San José,1,2,A,0,1,A
+BOL,21/09/2014,20:00,Sport Boys Warnes,Club Bolívar,5,0,H,2,0,H
+BOL,21/09/2014,20:30,Real Potosí,Jorge Wilstermann,1,0,H,0,0,D
+BOL,22/09/2014,00:00,Oriente Petrolero,Nacional Potosí,2,0,H,1,0,H
+BOL,24/09/2014,21:00,Nacional Potosí,Sport Boys Warnes,0,0,D,0,0,D
+BOL,24/09/2014,23:00,Club Blooming,Real Potosí,3,1,H,2,0,H
+BOL,25/09/2014,01:00,Jorge Wilstermann,Universitario de Pando,3,0,H,3,0,H
+BOL,25/09/2014,20:00,Club Petrolero,Oriente Petrolero,1,1,D,0,0,D
+BOL,30/10/2014,00:00,Club San José,Universitario Sucre,3,1,H,2,1,H
+BOL,30/10/2014,00:00,Club Bolívar,The Strongest,4,2,H,1,0,H
+BOL,28/09/2014,16:00,The Strongest,Nacional Potosí,2,0,H,0,0,D
+BOL,28/09/2014,20:00,Real Potosí,Club Bolívar,1,0,H,0,0,D
+BOL,28/09/2014,20:00,Sport Boys Warnes,Club Petrolero,1,2,A,0,1,A
+BOL,28/09/2014,20:00,Universitario de Pando,Club Blooming,2,2,D,1,1,D
+BOL,28/09/2014,22:00,Jorge Wilstermann,Club San José,2,1,H,2,1,H
+BOL,29/09/2014,00:00,Oriente Petrolero,Universitario Sucre,4,0,H,2,0,H
+BOL,01/10/2014,20:00,Club Petrolero,The Strongest,2,1,H,0,1,A
+BOL,02/10/2014,01:00,Club San José,Oriente Petrolero,3,0,H,2,0,H
+BOL,02/10/2014,20:00,Club Bolívar,Universitario de Pando,4,0,H,2,0,H
+BOL,03/10/2014,01:00,Nacional Potosí,Real Potosí,1,0,H,0,0,D
+BOL,03/10/2014,01:00,Universitario Sucre,Sport Boys Warnes,1,0,H,1,0,H
+BOL,03/10/2014,01:30,Club Blooming,Jorge Wilstermann,1,1,D,1,0,H
+BOL,05/10/2014,16:00,The Strongest,Universitario Sucre,0,1,A,0,0,D
+BOL,05/10/2014,20:00,Sport Boys Warnes,Oriente Petrolero,1,1,D,1,1,D
+BOL,05/10/2014,20:00,Universitario de Pando,Nacional Potosí,1,0,H,1,0,H
+BOL,05/10/2014,22:00,Jorge Wilstermann,Club Bolívar,0,0,D,0,0,D
+BOL,06/10/2014,00:00,Club Blooming,Club San José,3,1,H,1,0,H
+BOL,07/10/2014,01:00,Real Potosí,Club Petrolero,2,3,A,2,2,D
+BOL,18/10/2014,20:00,Club Petrolero,Universitario de Pando,2,1,H,2,1,H
+BOL,18/10/2014,20:30,Club Bolívar,Club Blooming,4,3,H,1,2,A
+BOL,19/10/2014,20:00,Nacional Potosí,Jorge Wilstermann,1,2,A,1,0,H
+BOL,19/10/2014,20:00,Club San José,Sport Boys Warnes,2,0,H,2,0,H
+BOL,19/10/2014,22:00,Universitario Sucre,Real Potosí,0,0,D,0,0,D
+BOL,20/10/2014,00:00,Oriente Petrolero,The Strongest,2,0,H,1,0,H
+BOL,22/10/2014,20:00,Club Petrolero,Jorge Wilstermann,1,1,D,0,0,D
+BOL,22/10/2014,20:00,Universitario de Pando,Universitario Sucre,2,3,A,1,1,D
+BOL,23/10/2014,01:00,Club Bolívar,Club San José,6,1,H,1,1,D
+BOL,23/10/2014,20:00,Sport Boys Warnes,The Strongest,1,1,D,1,1,D
+BOL,24/10/2014,01:00,Nacional Potosí,Club Blooming,0,0,D,0,0,D
+BOL,24/10/2014,01:30,Oriente Petrolero,Real Potosí,2,1,H,1,1,D
+BOL,26/10/2014,01:30,Club Bolívar,Nacional Potosí,3,3,D,1,2,A
+BOL,26/10/2014,19:00,Real Potosí,Sport Boys Warnes,1,0,H,0,0,D
+BOL,26/10/2014,19:00,Universitario de Pando,Oriente Petrolero,0,1,A,0,0,D
+BOL,26/10/2014,20:00,Jorge Wilstermann,Universitario Sucre,2,1,H,0,0,D
+BOL,26/10/2014,21:00,The Strongest,Club San José,1,0,H,0,0,D
+BOL,27/10/2014,19:00,Club Petrolero,Club Blooming,0,1,A,0,1,A
+BOL,01/11/2014,19:00,Universitario de Pando,Sport Boys Warnes,0,0,D,0,0,D
+BOL,01/11/2014,19:00,The Strongest,Real Potosí,0,2,A,0,0,D
+BOL,01/11/2014,22:00,Club Blooming,Universitario Sucre,1,2,A,1,1,D
+BOL,02/11/2014,19:00,Nacional Potosí,Club San José,2,0,H,0,0,D
+BOL,02/11/2014,20:00,Club Bolívar,Club Petrolero,2,0,H,1,0,H
+BOL,02/11/2014,21:00,Oriente Petrolero,Jorge Wilstermann,2,0,H,2,0,H
+BOL,05/11/2014,19:00,Sport Boys Warnes,Nacional Potosí,1,1,D,1,0,H
+BOL,06/11/2014,00:00,Real Potosí,Club Blooming,1,1,D,0,0,D
+BOL,06/11/2014,00:00,Universitario Sucre,Club San José,1,0,H,0,0,D
+BOL,06/11/2014,00:30,Oriente Petrolero,Club Petrolero,4,0,H,4,0,H
+BOL,06/11/2014,19:00,Universitario de Pando,Jorge Wilstermann,1,2,A,1,1,D
+BOL,27/11/2014,00:00,The Strongest,Club Bolívar,1,1,D,1,0,H
+BOL,08/11/2014,19:00,Club Petrolero,Club San José,3,0,H,1,0,H
+BOL,09/11/2014,19:00,Sport Boys Warnes,Club Blooming,1,1,D,0,1,A
+BOL,09/11/2014,19:00,The Strongest,Jorge Wilstermann,4,1,H,2,1,H
+BOL,09/11/2014,19:30,Real Potosí,Universitario de Pando,1,0,H,0,0,D
+BOL,09/11/2014,21:00,Universitario Sucre,Nacional Potosí,2,1,H,0,0,D
+BOL,09/11/2014,23:00,Oriente Petrolero,Club Bolívar,1,0,H,1,0,H
+BOL,13/11/2014,00:00,Club Bolívar,Sport Boys Warnes,5,1,H,2,0,H
+BOL,13/11/2014,00:00,Nacional Potosí,Oriente Petrolero,1,0,H,0,0,D
+BOL,13/11/2014,00:30,Club Blooming,The Strongest,0,1,A,0,1,A
+BOL,14/11/2014,00:00,Club San José,Universitario de Pando,2,1,H,2,0,H
+BOL,14/11/2014,00:00,Jorge Wilstermann,Real Potosí,1,0,H,0,0,D
+BOL,16/11/2014,19:30,Club Petrolero,Universitario Sucre,2,1,H,1,1,D
+BOL,22/11/2014,19:30,Club San José,Real Potosí,6,2,H,1,0,H
+BOL,23/11/2014,00:00,Jorge Wilstermann,Sport Boys Warnes,1,2,A,0,0,D
+BOL,23/11/2014,19:00,Nacional Potosí,Club Petrolero,3,1,H,1,0,H
+BOL,23/11/2014,19:00,Universitario de Pando,The Strongest,1,3,A,1,2,A
+BOL,23/11/2014,20:00,Club Bolívar,Universitario Sucre,2,1,H,1,0,H
+BOL,23/11/2014,23:00,Club Blooming,Oriente Petrolero,3,2,H,0,2,A
+BOL,29/11/2014,19:30,Club Petrolero,Sport Boys Warnes,0,0,D,0,0,D
+BOL,30/11/2014,19:00,Club San José,Jorge Wilstermann,2,0,H,0,0,D
+BOL,30/11/2014,19:00,Nacional Potosí,The Strongest,1,3,A,1,0,H
+BOL,30/11/2014,20:00,Club Bolívar,Real Potosí,6,1,H,2,1,H
+BOL,30/11/2014,23:00,Club Blooming,Universitario de Pando,3,0,H,1,0,H
+BOL,01/12/2014,21:00,Universitario Sucre,Oriente Petrolero,0,2,A,0,1,A
+BOL,06/12/2014,19:00,Sport Boys Warnes,Universitario Sucre,1,1,D,0,0,D
+BOL,07/12/2014,19:00,The Strongest,Club Petrolero,4,0,H,1,0,H
+BOL,07/12/2014,19:00,Universitario de Pando,Club Bolívar,0,2,A,0,1,A
+BOL,07/12/2014,19:30,Real Potosí,Nacional Potosí,2,2,D,1,1,D
+BOL,07/12/2014,21:00,Jorge Wilstermann,Club Blooming,1,1,D,1,0,H
+BOL,07/12/2014,23:00,Oriente Petrolero,Club San José,1,0,H,0,0,D
+BOL,13/12/2014,19:30,Nacional Potosí,Universitario de Pando,3,2,H,3,1,H
+BOL,13/12/2014,19:30,Club Petrolero,Real Potosí,2,0,H,1,0,H
+BOL,14/12/2014,19:00,Club San José,Club Blooming,2,0,H,1,0,H
+BOL,14/12/2014,19:00,Universitario Sucre,The Strongest,3,2,H,0,1,A
+BOL,14/12/2014,21:00,Club Bolívar,Jorge Wilstermann,1,0,H,1,0,H
+BOL,14/12/2014,21:00,Oriente Petrolero,Sport Boys Warnes,3,0,H,2,0,H
+BOL,11/12/2014,00:00,Real Potosí,Universitario Sucre,2,0,H,0,0,D
+BOL,17/12/2014,19:00,Sport Boys Warnes,Club San José,2,0,H,2,0,H
+BOL,21/12/2014,19:00,Universitario de Pando,Club Petrolero,2,0,H,2,0,H
+BOL,21/12/2014,19:00,Jorge Wilstermann,Nacional Potosí,5,2,H,0,0,D
+BOL,21/12/2014,21:00,The Strongest,Oriente Petrolero,2,1,H,0,1,A
+BOL,21/12/2014,21:00,Club Blooming,Club Bolívar,0,3,A,0,1,A

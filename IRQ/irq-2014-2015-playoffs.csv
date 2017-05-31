@@ -1,0 +1,27 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRQ,17/05/2015,14:30,Baghdad FC,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,17/05/2015,17:00,Al Shorta,Al Zawraa,4,1,H,NaN,NaN,NaN
+IRQ,22/05/2015,14:30,Naft Al Wasat,Al Zawraa,2,1,H,NaN,NaN,NaN
+IRQ,22/05/2015,17:00,Al Shorta,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,27/05/2015,15:00,Al Zawraa,Baghdad FC,1,1,D,NaN,NaN,NaN
+IRQ,16/06/2015,14:30,Naft Al Wasat,Al Shorta,1,0,H,NaN,NaN,NaN
+IRQ,21/06/2015,14:00,Naft Al Wasat,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,21/06/2015,20:00,Al Shorta,Al Zawraa,4,1,H,NaN,NaN,NaN
+IRQ,26/06/2015,15:00,Al Zawraa,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,27/06/2015,20:00,Baghdad FC,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,01/07/2015,20:00,Baghdad FC,Al Zawraa,1,0,H,NaN,NaN,NaN
+IRQ,03/07/2015,20:00,Al Shorta,Naft Al Wasat,0,2,A,NaN,NaN,NaN
+IRQ,16/05/2015,17:00,Al Quwa Al Jawiya,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,17/05/2015,14:30,Duhok,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,23/05/2015,14:30,Naft Al Janoob,Duhok,1,0,H,NaN,NaN,NaN
+IRQ,23/05/2015,17:00,Al Minaa,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,28/05/2015,14:30,Duhok,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,28/05/2015,17:00,Naft Al Janoob,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,22/06/2015,19:30,Naft Al Janoob,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,23/06/2015,19:30,Al Minaa,Duhok,3,2,H,NaN,NaN,NaN
+IRQ,28/06/2015,20:00,Al Quwa Al Jawiya,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,28/06/2015,20:00,Duhok,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,04/07/2015,20:00,Al Minaa,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,04/07/2015,20:00,Al Quwa Al Jawiya,Duhok,2,0,H,NaN,NaN,NaN
+IRQ,10/07/2015,20:00,Al Minaa,Al Shorta,0,3,A,NaN,NaN,NaN
+IRQ,11/07/2015,20:00,Al Quwa Al Jawiya,Naft Al Wasat,5,6,A,0,00,A

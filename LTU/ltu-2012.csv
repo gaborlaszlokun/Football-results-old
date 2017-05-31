@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+LTU,10/03/2012,11:00,FK Atlantas,FK Šiauliai,0,3,A,NaN,NaN,NaN
+LTU,10/03/2012,13:00,FK Kruoja Pakruojis,FK Tauras Tauragė,1,0,H,NaN,NaN,NaN
+LTU,10/03/2012,15:00,FK Banga Gargzdai,VMFD Žalgiris,1,2,A,NaN,NaN,NaN
+LTU,11/03/2012,14:00,FK Sūduva,FK Ekranas,3,1,H,NaN,NaN,NaN
+LTU,11/03/2012,17:00,FK Dainava Alytus,REO Vilnius,3,2,H,NaN,NaN,NaN
+LTU,17/03/2012,11:00,FK Tauras Tauragė,FK Sūduva,1,4,A,NaN,NaN,NaN
+LTU,17/03/2012,13:30,REO Vilnius,FK Ekranas,0,1,A,NaN,NaN,NaN
+LTU,17/03/2012,17:00,VMFD Žalgiris,FK Atlantas,7,0,H,NaN,NaN,NaN
+LTU,18/03/2012,13:00,FK Šiauliai,FK Kruoja Pakruojis,2,1,H,NaN,NaN,NaN
+LTU,18/03/2012,15:00,FK Dainava Alytus,FK Banga Gargzdai,0,0,D,NaN,NaN,NaN
+LTU,24/03/2012,12:00,FK Kruoja Pakruojis,VMFD Žalgiris,0,1,A,NaN,NaN,NaN
+LTU,24/03/2012,14:00,FK Sūduva,FK Šiauliai,4,1,H,NaN,NaN,NaN
+LTU,25/03/2012,11:00,FK Ekranas,FK Tauras Tauragė,5,0,H,NaN,NaN,NaN
+LTU,25/03/2012,13:00,FK Banga Gargzdai,REO Vilnius,2,2,D,NaN,NaN,NaN
+LTU,25/03/2012,16:30,FK Atlantas,FK Dainava Alytus,0,0,D,NaN,NaN,NaN
+LTU,30/03/2012,17:00,FK Dainava Alytus,FK Kruoja Pakruojis,0,0,D,NaN,NaN,NaN
+LTU,31/03/2012,13:00,FK Šiauliai,FK Ekranas,0,1,A,NaN,NaN,NaN
+LTU,31/03/2012,15:00,REO Vilnius,FK Tauras Tauragė,0,1,A,NaN,NaN,NaN
+LTU,01/04/2012,14:00,VMFD Žalgiris,FK Sūduva,4,0,H,NaN,NaN,NaN
+LTU,01/04/2012,16:00,FK Banga Gargzdai,FK Atlantas,0,1,A,NaN,NaN,NaN
+LTU,06/04/2012,15:00,FK Kruoja Pakruojis,FK Banga Gargzdai,1,0,H,NaN,NaN,NaN
+LTU,07/04/2012,11:00,FK Sūduva,FK Dainava Alytus,3,1,H,NaN,NaN,NaN
+LTU,07/04/2012,14:00,FK Ekranas,VMFD Žalgiris,1,0,H,NaN,NaN,NaN
+LTU,07/04/2012,15:00,FK Atlantas,REO Vilnius,0,0,D,NaN,NaN,NaN
+LTU,09/04/2012,13:00,FK Tauras Tauragė,FK Šiauliai,1,0,H,NaN,NaN,NaN
+LTU,14/04/2012,11:00,FK Atlantas,FK Kruoja Pakruojis,0,1,A,NaN,NaN,NaN
+LTU,14/04/2012,15:00,FK Banga Gargzdai,FK Sūduva,0,1,A,NaN,NaN,NaN
+LTU,14/04/2012,17:30,REO Vilnius,FK Šiauliai,3,1,H,NaN,NaN,NaN
+LTU,15/04/2012,13:00,VMFD Žalgiris,FK Tauras Tauragė,2,0,H,NaN,NaN,NaN
+LTU,15/04/2012,16:00,FK Dainava Alytus,FK Ekranas,0,1,A,NaN,NaN,NaN
+LTU,17/04/2012,15:00,FK Kruoja Pakruojis,REO Vilnius,2,1,H,NaN,NaN,NaN
+LTU,17/04/2012,17:00,FK Sūduva,FK Atlantas,6,0,H,NaN,NaN,NaN
+LTU,18/04/2012,15:00,FK Tauras Tauragė,FK Dainava Alytus,2,4,A,NaN,NaN,NaN
+LTU,18/04/2012,15:00,FK Šiauliai,VMFD Žalgiris,2,2,D,NaN,NaN,NaN
+LTU,18/04/2012,15:30,FK Ekranas,FK Banga Gargzdai,3,0,H,NaN,NaN,NaN
+LTU,21/04/2012,11:00,FK Atlantas,FK Ekranas,0,3,A,NaN,NaN,NaN
+LTU,21/04/2012,13:00,FK Kruoja Pakruojis,FK Sūduva,2,1,H,NaN,NaN,NaN
+LTU,21/04/2012,15:00,REO Vilnius,VMFD Žalgiris,1,2,A,NaN,NaN,NaN
+LTU,22/04/2012,14:00,FK Dainava Alytus,FK Šiauliai,1,0,H,NaN,NaN,NaN
+LTU,22/04/2012,16:00,FK Banga Gargzdai,FK Tauras Tauragė,1,0,H,NaN,NaN,NaN
+LTU,27/04/2012,17:00,FK Šiauliai,FK Banga Gargzdai,1,2,A,NaN,NaN,NaN
+LTU,28/04/2012,13:00,FK Tauras Tauragė,FK Atlantas,0,0,D,NaN,NaN,NaN
+LTU,29/04/2012,14:00,FK Ekranas,FK Kruoja Pakruojis,1,0,H,NaN,NaN,NaN
+LTU,29/04/2012,16:00,VMFD Žalgiris,FK Dainava Alytus,4,0,H,NaN,NaN,NaN
+LTU,29/04/2012,18:00,FK Sūduva,REO Vilnius,0,0,D,NaN,NaN,NaN
+LTU,01/05/2012,17:00,FK Šiauliai,FK Atlantas,5,1,H,NaN,NaN,NaN
+LTU,02/05/2012,15:00,FK Tauras Tauragė,FK Kruoja Pakruojis,0,4,A,NaN,NaN,NaN
+LTU,02/05/2012,17:00,FK Ekranas,FK Sūduva,2,0,H,NaN,NaN,NaN
+LTU,03/05/2012,17:00,VMFD Žalgiris,FK Banga Gargzdai,2,0,H,NaN,NaN,NaN
+LTU,21/05/2012,16:30,REO Vilnius,FK Dainava Alytus,1,0,H,NaN,NaN,NaN
+LTU,05/05/2012,14:00,FK Sūduva,FK Tauras Tauragė,1,0,H,NaN,NaN,NaN
+LTU,05/05/2012,16:00,FK Kruoja Pakruojis,FK Šiauliai,0,4,A,NaN,NaN,NaN
+LTU,06/05/2012,16:00,FK Banga Gargzdai,FK Dainava Alytus,2,1,H,NaN,NaN,NaN
+LTU,06/05/2012,18:00,FK Ekranas,REO Vilnius,6,1,H,NaN,NaN,NaN
+LTU,07/05/2012,16:30,FK Atlantas,VMFD Žalgiris,0,1,A,NaN,NaN,NaN
+LTU,11/05/2012,16:30,REO Vilnius,FK Banga Gargzdai,1,0,H,NaN,NaN,NaN
+LTU,12/05/2012,14:00,FK Dainava Alytus,FK Atlantas,1,0,H,NaN,NaN,NaN
+LTU,12/05/2012,16:00,FK Tauras Tauragė,FK Ekranas,1,2,A,NaN,NaN,NaN
+LTU,13/05/2012,14:00,FK Šiauliai,FK Sūduva,3,3,D,NaN,NaN,NaN
+LTU,13/05/2012,16:00,VMFD Žalgiris,FK Kruoja Pakruojis,0,2,A,NaN,NaN,NaN
+LTU,15/05/2012,16:00,FK Tauras Tauragė,REO Vilnius,2,0,H,NaN,NaN,NaN
+LTU,16/05/2012,16:00,FK Ekranas,FK Šiauliai,2,2,D,NaN,NaN,NaN
+LTU,16/05/2012,18:00,FK Sūduva,VMFD Žalgiris,0,0,D,NaN,NaN,NaN
+LTU,17/05/2012,16:00,FK Kruoja Pakruojis,FK Dainava Alytus,2,0,H,NaN,NaN,NaN
+LTU,18/05/2012,16:00,FK Atlantas,FK Banga Gargzdai,1,1,D,NaN,NaN,NaN
+LTU,25/05/2012,16:00,FK Dainava Alytus,FK Sūduva,2,4,A,NaN,NaN,NaN
+LTU,25/05/2012,18:30,VMFD Žalgiris,FK Ekranas,0,0,D,NaN,NaN,NaN
+LTU,26/05/2012,14:00,REO Vilnius,FK Atlantas,3,0,H,NaN,NaN,NaN
+LTU,26/05/2012,16:00,FK Šiauliai,FK Tauras Tauragė,7,3,H,NaN,NaN,NaN
+LTU,27/05/2012,16:00,FK Banga Gargzdai,FK Kruoja Pakruojis,1,1,D,NaN,NaN,NaN
+LTU,19/06/2012,17:00,FK Sūduva,FK Banga Gargzdai,3,1,H,NaN,NaN,NaN
+LTU,20/06/2012,15:00,FK Tauras Tauragė,VMFD Žalgiris,0,2,A,NaN,NaN,NaN
+LTU,20/06/2012,16:00,FK Šiauliai,REO Vilnius,2,0,H,NaN,NaN,NaN
+LTU,20/06/2012,18:00,FK Ekranas,FK Dainava Alytus,3,2,H,NaN,NaN,NaN
+LTU,21/06/2012,15:00,FK Kruoja Pakruojis,FK Atlantas,5,1,H,NaN,NaN,NaN
+LTU,09/06/2012,13:00,FK Dainava Alytus,FK Tauras Tauragė,3,1,H,NaN,NaN,NaN
+LTU,10/06/2012,13:00,REO Vilnius,FK Kruoja Pakruojis,2,2,D,NaN,NaN,NaN
+LTU,12/06/2012,15:00,FK Banga Gargzdai,FK Ekranas,1,1,D,NaN,NaN,NaN
+LTU,12/06/2012,15:00,VMFD Žalgiris,FK Šiauliai,2,0,H,NaN,NaN,NaN
+LTU,13/06/2012,15:00,FK Atlantas,FK Sūduva,0,4,A,NaN,NaN,NaN
+LTU,15/06/2012,15:00,FK Šiauliai,FK Dainava Alytus,4,2,H,NaN,NaN,NaN
+LTU,16/06/2012,12:00,FK Tauras Tauragė,FK Banga Gargzdai,3,2,H,NaN,NaN,NaN
+LTU,16/06/2012,17:00,FK Sūduva,FK Kruoja Pakruojis,0,1,A,NaN,NaN,NaN
+LTU,17/06/2012,14:00,VMFD Žalgiris,REO Vilnius,0,1,A,NaN,NaN,NaN
+LTU,17/06/2012,16:00,FK Ekranas,FK Atlantas,2,0,H,NaN,NaN,NaN
+LTU,24/06/2012,13:00,REO Vilnius,FK Sūduva,0,2,A,NaN,NaN,NaN
+LTU,25/06/2012,16:00,FK Kruoja Pakruojis,FK Ekranas,1,1,D,NaN,NaN,NaN
+LTU,25/06/2012,18:00,FK Dainava Alytus,VMFD Žalgiris,1,3,A,NaN,NaN,NaN
+LTU,26/06/2012,15:00,FK Atlantas,FK Tauras Tauragė,0,5,A,NaN,NaN,NaN
+LTU,26/06/2012,17:00,FK Banga Gargzdai,FK Šiauliai,0,1,A,NaN,NaN,NaN
+LTU,29/06/2012,15:30,FK Atlantas,FK Šiauliai,1,2,A,NaN,NaN,NaN
+LTU,29/06/2012,17:30,FK Banga Gargzdai,VMFD Žalgiris,0,0,D,NaN,NaN,NaN
+LTU,30/06/2012,14:00,FK Dainava Alytus,REO Vilnius,2,0,H,NaN,NaN,NaN
+LTU,30/06/2012,16:00,FK Kruoja Pakruojis,FK Tauras Tauragė,3,1,H,NaN,NaN,NaN
+LTU,01/07/2012,13:00,FK Sūduva,FK Ekranas,2,3,A,NaN,NaN,NaN
+LTU,20/07/2012,16:00,FK Dainava Alytus,FK Banga Gargzdai,0,4,A,NaN,NaN,NaN
+LTU,21/07/2012,,REO Vilnius,FK Ekranas,0,3,A,NaN,NaN,NaN
+LTU,22/07/2012,13:00,FK Tauras Tauragė,FK Sūduva,1,2,A,NaN,NaN,NaN
+LTU,22/07/2012,15:00,FK Šiauliai,FK Kruoja Pakruojis,1,0,H,NaN,NaN,NaN
+LTU,22/07/2012,17:00,VMFD Žalgiris,FK Atlantas,3,1,H,NaN,NaN,NaN
+LTU,27/07/2012,16:30,FK Banga Gargzdai,REO Vilnius,2,1,H,NaN,NaN,NaN
+LTU,28/07/2012,15:00,FK Atlantas,FK Dainava Alytus,2,1,H,NaN,NaN,NaN
+LTU,28/07/2012,18:00,FK Ekranas,FK Tauras Tauragė,5,0,H,NaN,NaN,NaN
+LTU,30/07/2012,16:00,FK Kruoja Pakruojis,VMFD Žalgiris,0,1,A,NaN,NaN,NaN
+LTU,30/07/2012,18:00,FK Sūduva,FK Šiauliai,1,0,H,NaN,NaN,NaN
+LTU,03/08/2012,16:30,FK Banga Gargzdai,FK Atlantas,1,0,H,NaN,NaN,NaN
+LTU,04/08/2012,13:00,REO Vilnius,FK Tauras Tauragė,2,3,A,NaN,NaN,NaN
+LTU,04/08/2012,15:00,FK Dainava Alytus,FK Kruoja Pakruojis,1,2,A,NaN,NaN,NaN
+LTU,05/08/2012,17:00,FK Šiauliai,FK Ekranas,3,4,A,NaN,NaN,NaN
+LTU,05/08/2012,18:45,VMFD Žalgiris,FK Sūduva,2,2,D,NaN,NaN,NaN
+LTU,10/08/2012,16:30,FK Banga Gargzdai,FK Kruoja Pakruojis,1,0,H,NaN,NaN,NaN
+LTU,11/08/2012,14:00,FK Atlantas,REO Vilnius,4,2,H,NaN,NaN,NaN
+LTU,11/08/2012,16:00,FK Tauras Tauragė,FK Šiauliai,0,4,A,NaN,NaN,NaN
+LTU,12/08/2012,14:00,FK Ekranas,VMFD Žalgiris,0,0,D,NaN,NaN,NaN
+LTU,12/08/2012,17:00,FK Sūduva,FK Dainava Alytus,3,2,H,NaN,NaN,NaN
+LTU,17/08/2012,16:30,FK Banga Gargzdai,FK Sūduva,0,0,D,NaN,NaN,NaN
+LTU,18/08/2012,14:00,REO Vilnius,FK Šiauliai,3,5,A,NaN,NaN,NaN
+LTU,18/08/2012,16:00,FK Atlantas,FK Kruoja Pakruojis,2,1,H,NaN,NaN,NaN
+LTU,19/08/2012,16:00,FK Dainava Alytus,FK Ekranas,2,2,D,NaN,NaN,NaN
+LTU,19/08/2012,18:00,VMFD Žalgiris,FK Tauras Tauragė,4,0,H,NaN,NaN,NaN
+LTU,21/08/2012,,FK Kruoja Pakruojis,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,21/08/2012,17:00,FK Sūduva,FK Atlantas,2,0,H,NaN,NaN,NaN
+LTU,22/08/2012,17:30,FK Šiauliai,VMFD Žalgiris,2,4,A,0,1,A
+LTU,23/08/2012,16:00,FK Tauras Tauragė,FK Dainava Alytus,1,3,A,NaN,NaN,NaN
+LTU,26/09/2012,17:00,FK Ekranas,FK Banga Gargzdai,2,0,H,NaN,NaN,NaN
+LTU,25/08/2012,16:00,FK Kruoja Pakruojis,FK Sūduva,2,1,H,NaN,NaN,NaN
+LTU,26/08/2012,,REO Vilnius,VMFD Žalgiris,0,3,A,NaN,NaN,NaN
+LTU,26/08/2012,14:00,FK Atlantas,FK Ekranas,1,2,A,NaN,NaN,NaN
+LTU,26/08/2012,16:00,FK Dainava Alytus,FK Šiauliai,0,2,A,NaN,NaN,NaN
+LTU,26/08/2012,18:00,FK Banga Gargzdai,FK Tauras Tauragė,4,0,H,NaN,NaN,NaN
+LTU,31/08/2012,,FK Sūduva,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,01/09/2012,14:00,FK Tauras Tauragė,FK Atlantas,1,1,D,NaN,NaN,NaN
+LTU,01/09/2012,16:00,FK Šiauliai,FK Banga Gargzdai,0,1,A,NaN,NaN,NaN
+LTU,02/09/2012,16:00,VMFD Žalgiris,FK Dainava Alytus,3,0,H,NaN,NaN,NaN
+LTU,03/09/2012,17:00,FK Ekranas,FK Kruoja Pakruojis,2,0,H,NaN,NaN,NaN
+LTU,13/09/2012,17:00,FK Šiauliai,FK Atlantas,6,0,H,NaN,NaN,NaN
+LTU,14/09/2012,,REO Vilnius,FK Dainava Alytus,0,3,A,NaN,NaN,NaN
+LTU,14/09/2012,17:00,VMFD Žalgiris,FK Banga Gargzdai,2,0,H,NaN,NaN,NaN
+LTU,15/09/2012,13:00,FK Tauras Tauragė,FK Kruoja Pakruojis,0,4,A,NaN,NaN,NaN
+LTU,16/09/2012,14:00,FK Ekranas,FK Sūduva,2,2,D,NaN,NaN,NaN
+LTU,18/09/2012,13:00,FK Atlantas,VMFD Žalgiris,3,4,A,NaN,NaN,NaN
+LTU,18/09/2012,15:00,FK Kruoja Pakruojis,FK Šiauliai,1,0,H,NaN,NaN,NaN
+LTU,19/09/2012,,FK Ekranas,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,19/09/2012,16:30,FK Sūduva,FK Tauras Tauragė,4,1,H,NaN,NaN,NaN
+LTU,20/09/2012,16:30,FK Banga Gargzdai,FK Dainava Alytus,5,0,H,NaN,NaN,NaN
+LTU,22/09/2012,,REO Vilnius,FK Banga Gargzdai,0,3,A,NaN,NaN,NaN
+LTU,22/09/2012,13:00,FK Tauras Tauragė,FK Ekranas,0,2,A,NaN,NaN,NaN
+LTU,22/09/2012,15:00,VMFD Žalgiris,FK Kruoja Pakruojis,2,1,H,NaN,NaN,NaN
+LTU,23/09/2012,13:00,FK Šiauliai,FK Sūduva,1,0,H,NaN,NaN,NaN
+LTU,24/09/2012,16:00,FK Dainava Alytus,FK Atlantas,1,2,A,NaN,NaN,NaN
+LTU,28/09/2012,,FK Tauras Tauragė,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,29/09/2012,16:15,FK Kruoja Pakruojis,FK Dainava Alytus,2,0,H,NaN,NaN,NaN
+LTU,30/09/2012,14:00,FK Sūduva,VMFD Žalgiris,1,2,A,NaN,NaN,NaN
+LTU,30/09/2012,17:00,FK Ekranas,FK Šiauliai,3,0,H,NaN,NaN,NaN
+LTU,01/10/2012,15:00,FK Atlantas,FK Banga Gargzdai,2,2,D,NaN,NaN,NaN
+LTU,05/10/2012,,REO Vilnius,FK Atlantas,0,3,A,NaN,NaN,NaN
+LTU,06/10/2012,12:00,FK Kruoja Pakruojis,FK Banga Gargzdai,2,1,H,NaN,NaN,NaN
+LTU,06/10/2012,16:00,FK Dainava Alytus,FK Sūduva,0,3,A,NaN,NaN,NaN
+LTU,07/10/2012,12:00,VMFD Žalgiris,FK Ekranas,2,1,H,NaN,NaN,NaN
+LTU,08/10/2012,16:00,FK Šiauliai,FK Tauras Tauragė,7,2,H,NaN,NaN,NaN
+LTU,20/10/2012,,FK Šiauliai,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,20/10/2012,11:00,FK Kruoja Pakruojis,FK Atlantas,5,0,H,NaN,NaN,NaN
+LTU,20/10/2012,13:00,FK Tauras Tauragė,VMFD Žalgiris,0,4,A,NaN,NaN,NaN
+LTU,21/10/2012,14:10,FK Sūduva,FK Banga Gargzdai,3,0,H,NaN,NaN,NaN
+LTU,21/10/2012,17:00,FK Ekranas,FK Dainava Alytus,3,0,H,NaN,NaN,NaN
+LTU,27/10/2012,12:00,FK Atlantas,FK Sūduva,1,5,A,NaN,NaN,NaN
+LTU,27/10/2012,16:00,FK Banga Gargzdai,FK Ekranas,0,2,A,NaN,NaN,NaN
+LTU,28/10/2012,,REO Vilnius,FK Kruoja Pakruojis,0,3,A,NaN,NaN,NaN
+LTU,28/10/2012,14:10,VMFD Žalgiris,FK Šiauliai,4,1,H,NaN,NaN,NaN
+LTU,28/10/2012,16:00,FK Dainava Alytus,FK Tauras Tauragė,2,0,H,NaN,NaN,NaN
+LTU,02/11/2012,17:00,FK Ekranas,FK Atlantas,6,2,H,NaN,NaN,NaN
+LTU,03/11/2012,11:00,FK Tauras Tauragė,FK Banga Gargzdai,1,3,A,NaN,NaN,NaN
+LTU,03/11/2012,16:00,FK Šiauliai,FK Dainava Alytus,3,3,D,NaN,NaN,NaN
+LTU,04/11/2012,,VMFD Žalgiris,REO Vilnius,3,0,H,NaN,NaN,NaN
+LTU,04/11/2012,14:10,FK Sūduva,FK Kruoja Pakruojis,1,1,D,NaN,NaN,NaN
+LTU,11/11/2012,,REO Vilnius,FK Sūduva,0,3,A,NaN,NaN,NaN
+LTU,11/11/2012,11:00,FK Banga Gargzdai,FK Šiauliai,2,1,H,NaN,NaN,NaN
+LTU,11/11/2012,11:00,FK Kruoja Pakruojis,FK Ekranas,0,2,A,NaN,NaN,NaN
+LTU,11/11/2012,11:00,FK Dainava Alytus,VMFD Žalgiris,1,2,A,NaN,NaN,NaN
+LTU,11/11/2012,15:30,FK Atlantas,FK Tauras Tauragė,4,1,H,NaN,NaN,NaN

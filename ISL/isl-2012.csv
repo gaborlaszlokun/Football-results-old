@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISL,06/05/2012,19:00,UMF Selfoss,ÍB Vestmannaeyja,2,1,H,2,0,H
+ISL,06/05/2012,20:15,KR Reykjavík,UMF Stjarnan,2,2,D,1,0,H
+ISL,06/05/2012,20:15,FH Hafnarfjörður,UMF Grindavík,1,1,D,0,0,D
+ISL,06/05/2012,20:15,Breiðablik,ÍA Akranes,0,1,A,0,0,D
+ISL,06/05/2012,20:15,Fylkir Reykjavík,Keflavík ÍF,1,1,D,0,1,A
+ISL,07/05/2012,21:00,Fram Reykjavík,Valur Reykjavík,0,1,A,0,1,A
+ISL,10/05/2012,19:00,ÍB Vestmannaeyja,Breiðablik,0,0,D,0,0,D
+ISL,10/05/2012,20:15,FH Hafnarfjörður,Fram Reykjavík,1,0,H,0,0,D
+ISL,10/05/2012,20:15,UMF Grindavík,Keflavík ÍF,0,4,A,0,3,A
+ISL,10/05/2012,20:15,UMF Stjarnan,Fylkir Reykjavík,2,2,D,1,0,H
+ISL,10/05/2012,20:15,Valur Reykjavík,UMF Selfoss,3,1,H,1,0,H
+ISL,10/05/2012,21:00,ÍA Akranes,KR Reykjavík,3,2,H,1,1,D
+ISL,14/05/2012,20:15,Keflavík ÍF,UMF Stjarnan,0,1,A,0,1,A
+ISL,15/05/2012,20:15,UMF Selfoss,FH Hafnarfjörður,0,1,A,0,0,D
+ISL,15/05/2012,20:15,Fylkir Reykjavík,ÍA Akranes,0,1,A,0,0,D
+ISL,15/05/2012,20:15,Fram Reykjavík,UMF Grindavík,4,3,H,0,2,A
+ISL,15/05/2012,20:15,Breiðablik,Valur Reykjavík,1,0,H,0,0,D
+ISL,15/05/2012,21:00,KR Reykjavík,ÍB Vestmannaeyja,3,2,H,2,0,H
+ISL,20/05/2012,17:00,ÍB Vestmannaeyja,Fylkir Reykjavík,1,1,D,1,1,D
+ISL,20/05/2012,20:15,Valur Reykjavík,KR Reykjavík,0,1,A,0,0,D
+ISL,20/05/2012,20:15,ÍA Akranes,Keflavík ÍF,3,2,H,1,1,D
+ISL,20/05/2012,21:00,FH Hafnarfjörður,Breiðablik,3,0,H,1,0,H
+ISL,21/05/2012,20:15,UMF Grindavík,UMF Stjarnan,1,4,A,1,1,D
+ISL,21/05/2012,20:15,Fram Reykjavík,UMF Selfoss,0,2,A,0,0,D
+ISL,23/05/2012,21:00,KR Reykjavík,FH Hafnarfjörður,2,0,H,1,0,H
+ISL,24/05/2012,20:15,UMF Selfoss,UMF Grindavík,3,3,D,1,1,D
+ISL,24/05/2012,20:15,Breiðablik,Fram Reykjavík,0,2,A,0,1,A
+ISL,24/05/2012,20:15,Fylkir Reykjavík,Valur Reykjavík,3,1,H,2,1,H
+ISL,24/05/2012,20:15,Keflavík ÍF,ÍB Vestmannaeyja,1,0,H,0,0,D
+ISL,24/05/2012,20:15,UMF Stjarnan,ÍA Akranes,1,1,D,1,0,H
+ISL,29/05/2012,19:00,ÍB Vestmannaeyja,UMF Stjarnan,4,1,H,0,0,D
+ISL,31/05/2012,20:15,UMF Selfoss,Breiðablik,0,2,A,0,1,A
+ISL,31/05/2012,20:15,Valur Reykjavík,Keflavík ÍF,4,0,H,0,0,D
+ISL,02/06/2012,15:00,FH Hafnarfjörður,Fylkir Reykjavík,8,0,H,3,0,H
+ISL,02/06/2012,17:00,UMF Grindavík,ÍA Akranes,2,2,D,1,1,D
+ISL,02/06/2012,17:00,Fram Reykjavík,KR Reykjavík,1,2,A,0,0,D
+ISL,14/06/2012,20:15,Fylkir Reykjavík,Fram Reykjavík,1,0,H,0,0,D
+ISL,15/06/2012,21:00,UMF Stjarnan,Valur Reykjavík,3,2,H,3,2,H
+ISL,15/06/2012,21:00,ÍA Akranes,ÍB Vestmannaeyja,0,4,A,0,0,D
+ISL,16/06/2012,15:00,Breiðablik,UMF Grindavík,2,0,H,0,0,D
+ISL,16/06/2012,15:00,Keflavík ÍF,FH Hafnarfjörður,2,4,A,0,1,A
+ISL,16/06/2012,15:00,KR Reykjavík,UMF Selfoss,3,1,H,1,1,D
+ISL,20/06/2012,20:15,Valur Reykjavík,ÍA Akranes,2,1,H,1,0,H
+ISL,20/06/2012,20:15,Fram Reykjavík,Keflavík ÍF,0,2,A,0,2,A
+ISL,20/06/2012,20:15,FH Hafnarfjörður,UMF Stjarnan,2,2,D,1,2,A
+ISL,20/06/2012,20:15,Breiðablik,KR Reykjavík,2,1,H,0,0,D
+ISL,20/06/2012,20:15,UMF Grindavík,ÍB Vestmannaeyja,1,3,A,0,0,D
+ISL,20/06/2012,21:00,UMF Selfoss,Fylkir Reykjavík,1,2,A,0,0,D
+ISL,29/06/2012,18:00,ÍB Vestmannaeyja,Valur Reykjavík,2,0,H,0,0,D
+ISL,30/06/2012,17:00,ÍA Akranes,FH Hafnarfjörður,2,7,A,0,3,A
+ISL,01/07/2012,17:00,KR Reykjavík,UMF Grindavík,4,1,H,1,0,H
+ISL,02/07/2012,20:15,Keflavík ÍF,UMF Selfoss,2,2,D,1,0,H
+ISL,02/07/2012,20:15,UMF Stjarnan,Fram Reykjavík,4,2,H,2,1,H
+ISL,02/07/2012,20:15,Fylkir Reykjavík,Breiðablik,1,1,D,0,0,D
+ISL,05/07/2012,20:15,UMF Selfoss,UMF Stjarnan,1,3,A,1,2,A
+ISL,05/07/2012,20:15,Breiðablik,Keflavík ÍF,0,4,A,0,0,D
+ISL,05/07/2012,20:15,KR Reykjavík,Fylkir Reykjavík,2,1,H,0,1,A
+ISL,05/07/2012,20:15,UMF Grindavík,Valur Reykjavík,2,0,H,1,0,H
+ISL,05/07/2012,21:00,Fram Reykjavík,ÍA Akranes,2,0,H,1,0,H
+ISL,30/08/2012,19:00,FH Hafnarfjörður,ÍB Vestmannaeyja,2,0,H,1,0,H
+ISL,12/07/2012,21:00,Keflavík ÍF,KR Reykjavík,1,1,D,0,0,D
+ISL,15/07/2012,17:00,ÍB Vestmannaeyja,Fram Reykjavík,3,2,H,1,0,H
+ISL,15/07/2012,21:00,Valur Reykjavík,FH Hafnarfjörður,3,1,H,1,1,D
+ISL,16/07/2012,20:15,UMF Stjarnan,Breiðablik,1,1,D,0,1,A
+ISL,16/07/2012,20:15,Fylkir Reykjavík,UMF Grindavík,2,1,H,0,1,A
+ISL,16/07/2012,20:15,ÍA Akranes,UMF Selfoss,4,0,H,1,0,H
+ISL,21/07/2012,17:00,UMF Stjarnan,KR Reykjavík,1,1,D,0,0,D
+ISL,22/07/2012,20:15,UMF Grindavík,FH Hafnarfjörður,0,1,A,0,1,A
+ISL,23/07/2012,19:00,ÍB Vestmannaeyja,UMF Selfoss,1,0,H,1,0,H
+ISL,23/07/2012,20:15,Keflavík ÍF,Fylkir Reykjavík,0,2,A,0,0,D
+ISL,23/07/2012,20:15,Valur Reykjavík,Fram Reykjavík,0,2,A,0,0,D
+ISL,23/07/2012,20:15,ÍA Akranes,Breiðablik,1,1,D,0,0,D
+ISL,29/07/2012,18:00,Breiðablik,ÍB Vestmannaeyja,1,0,H,1,0,H
+ISL,29/07/2012,20:15,Fylkir Reykjavík,UMF Stjarnan,3,3,D,1,2,A
+ISL,29/07/2012,20:15,UMF Selfoss,Valur Reykjavík,0,1,A,0,0,D
+ISL,30/07/2012,20:15,Fram Reykjavík,FH Hafnarfjörður,0,1,A,0,0,D
+ISL,30/07/2012,20:15,Keflavík ÍF,UMF Grindavík,2,1,H,0,0,D
+ISL,30/07/2012,21:00,KR Reykjavík,ÍA Akranes,2,0,H,2,0,H
+ISL,08/08/2012,19:00,ÍB Vestmannaeyja,KR Reykjavík,2,0,H,1,0,H
+ISL,08/08/2012,20:15,UMF Grindavík,Fram Reykjavík,2,2,D,0,1,A
+ISL,08/08/2012,20:15,Valur Reykjavík,Breiðablik,3,4,A,1,0,H
+ISL,08/08/2012,20:15,ÍA Akranes,Fylkir Reykjavík,2,1,H,1,0,H
+ISL,08/08/2012,20:15,FH Hafnarfjörður,UMF Selfoss,5,2,H,1,1,D
+ISL,08/08/2012,21:00,UMF Stjarnan,Keflavík ÍF,1,3,A,1,1,D
+ISL,12/08/2012,19:00,Fylkir Reykjavík,ÍB Vestmannaeyja,0,4,A,0,4,A
+ISL,12/08/2012,20:15,Keflavík ÍF,ÍA Akranes,2,3,A,1,2,A
+ISL,12/08/2012,20:15,UMF Stjarnan,UMF Grindavík,3,4,A,1,0,H
+ISL,12/08/2012,20:15,UMF Selfoss,Fram Reykjavík,4,2,H,3,0,H
+ISL,12/08/2012,20:15,KR Reykjavík,Valur Reykjavík,2,3,A,1,2,A
+ISL,12/08/2012,20:15,Breiðablik,FH Hafnarfjörður,0,1,A,0,1,A
+ISL,20/08/2012,19:00,ÍB Vestmannaeyja,Keflavík ÍF,0,1,A,0,1,A
+ISL,20/08/2012,19:00,Valur Reykjavík,Fylkir Reykjavík,1,2,A,0,2,A
+ISL,20/08/2012,19:00,UMF Grindavík,UMF Selfoss,0,4,A,0,2,A
+ISL,20/08/2012,20:15,Fram Reykjavík,Breiðablik,3,2,H,1,1,D
+ISL,23/08/2012,19:00,FH Hafnarfjörður,KR Reykjavík,1,3,A,0,2,A
+ISL,23/08/2012,19:00,ÍA Akranes,UMF Stjarnan,1,2,A,1,2,A
+ISL,26/08/2012,19:00,UMF Stjarnan,ÍB Vestmannaeyja,1,1,D,1,0,H
+ISL,26/08/2012,19:00,Breiðablik,UMF Selfoss,1,1,D,1,0,H
+ISL,26/08/2012,19:00,ÍA Akranes,UMF Grindavík,2,1,H,1,0,H
+ISL,26/08/2012,19:00,Fylkir Reykjavík,FH Hafnarfjörður,0,1,A,0,0,D
+ISL,27/08/2012,19:00,KR Reykjavík,Fram Reykjavík,1,1,D,0,1,A
+ISL,27/08/2012,19:00,Keflavík ÍF,Valur Reykjavík,0,4,A,0,1,A
+ISL,02/09/2012,17:00,ÍB Vestmannaeyja,ÍA Akranes,0,0,D,0,0,D
+ISL,02/09/2012,19:00,UMF Selfoss,KR Reykjavík,1,0,H,0,0,D
+ISL,02/09/2012,19:00,Valur Reykjavík,UMF Stjarnan,0,2,A,0,2,A
+ISL,03/09/2012,19:00,FH Hafnarfjörður,Keflavík ÍF,3,0,H,0,0,D
+ISL,03/09/2012,19:00,UMF Grindavík,Breiðablik,2,4,A,0,4,A
+ISL,03/09/2012,20:15,Fram Reykjavík,Fylkir Reykjavík,4,0,H,1,0,H
+ISL,16/09/2012,17:00,ÍB Vestmannaeyja,UMF Grindavík,2,1,H,2,0,H
+ISL,16/09/2012,18:00,ÍA Akranes,Valur Reykjavík,1,1,D,0,0,D
+ISL,16/09/2012,18:00,Keflavík ÍF,Fram Reykjavík,5,0,H,1,0,H
+ISL,16/09/2012,18:00,Fylkir Reykjavík,UMF Selfoss,2,0,H,0,0,D
+ISL,16/09/2012,18:00,KR Reykjavík,Breiðablik,0,4,A,0,1,A
+ISL,16/09/2012,20:15,UMF Stjarnan,FH Hafnarfjörður,2,2,D,1,1,D
+ISL,20/09/2012,18:00,Valur Reykjavík,ÍB Vestmannaeyja,0,3,A,0,1,A
+ISL,20/09/2012,18:00,UMF Grindavík,KR Reykjavík,2,2,D,2,0,H
+ISL,20/09/2012,18:00,UMF Selfoss,Keflavík ÍF,2,1,H,1,0,H
+ISL,20/09/2012,18:00,FH Hafnarfjörður,ÍA Akranes,2,1,H,0,0,D
+ISL,20/09/2012,18:00,Breiðablik,Fylkir Reykjavík,1,1,D,0,0,D
+ISL,20/09/2012,20:15,Fram Reykjavík,UMF Stjarnan,1,1,D,0,0,D
+ISL,23/09/2012,17:00,ÍA Akranes,Fram Reykjavík,0,1,A,0,1,A
+ISL,23/09/2012,17:00,Valur Reykjavík,UMF Grindavík,4,1,H,2,1,H
+ISL,23/09/2012,17:00,UMF Stjarnan,UMF Selfoss,4,2,H,2,2,D
+ISL,23/09/2012,17:00,Fylkir Reykjavík,KR Reykjavík,3,2,H,2,0,H
+ISL,23/09/2012,17:00,Keflavík ÍF,Breiðablik,2,3,A,0,1,A
+ISL,23/09/2012,17:00,ÍB Vestmannaeyja,FH Hafnarfjörður,2,2,D,0,0,D
+ISL,29/09/2012,15:00,Fram Reykjavík,ÍB Vestmannaeyja,2,1,H,0,1,A
+ISL,29/09/2012,15:00,UMF Selfoss,ÍA Akranes,1,3,A,1,3,A
+ISL,29/09/2012,15:00,KR Reykjavík,Keflavík ÍF,3,0,H,1,0,H
+ISL,29/09/2012,15:00,Breiðablik,UMF Stjarnan,2,0,H,1,0,H
+ISL,29/09/2012,15:00,UMF Grindavík,Fylkir Reykjavík,2,2,D,0,0,D
+ISL,29/09/2012,15:00,FH Hafnarfjörður,Valur Reykjavík,2,1,H,1,0,H

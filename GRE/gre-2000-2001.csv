@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GRE,16/09/2000,,Kalamata,PAOK Saloniki,0,0,D,NaN,NaN,NaN
+GRE,16/09/2000,,Olympiakos Piräus,Ethnikos Asteras,6,0,H,NaN,NaN,NaN
+GRE,16/09/2000,,Panathinaikos,PAS Giannina,2,1,H,NaN,NaN,NaN
+GRE,17/09/2000,,Paniliakos Pyrgos,Panionios GSS,1,1,D,NaN,NaN,NaN
+GRE,17/09/2000,,Ionikos Nikea,Athinaikos,1,0,H,NaN,NaN,NaN
+GRE,17/09/2000,,Panachaiki GE,Skoda Xanthi,1,1,D,NaN,NaN,NaN
+GRE,18/09/2000,,AEK Athen,Iraklis Saloniki,2,0,H,NaN,NaN,NaN
+GRE,18/09/2000,,OFI Heraklion,Aris Saloniki,2,3,A,NaN,NaN,NaN
+GRE,23/09/2000,,Panionios GSS,Panathinaikos,0,2,A,NaN,NaN,NaN
+GRE,24/09/2000,,Aris Saloniki,Paniliakos Pyrgos,1,0,H,NaN,NaN,NaN
+GRE,24/09/2000,,Athinaikos,AEK Athen,0,3,A,NaN,NaN,NaN
+GRE,24/09/2000,,Ethnikos Asteras,Ionikos Nikea,1,0,H,NaN,NaN,NaN
+GRE,24/09/2000,,PAS Giannina,PAOK Saloniki,1,3,A,NaN,NaN,NaN
+GRE,24/09/2000,,Iraklis Saloniki,Panachaiki GE,2,0,H,NaN,NaN,NaN
+GRE,24/09/2000,,OFI Heraklion,Olympiakos Piräus,1,2,A,NaN,NaN,NaN
+GRE,25/09/2000,,Skoda Xanthi,Kalamata,2,1,H,NaN,NaN,NaN
+GRE,30/09/2000,,PAS Giannina,Skoda Xanthi,1,1,D,NaN,NaN,NaN
+GRE,01/10/2000,,AEK Athen,Ethnikos Asteras,2,2,D,NaN,NaN,NaN
+GRE,01/10/2000,,Paniliakos Pyrgos,OFI Heraklion,0,0,D,NaN,NaN,NaN
+GRE,01/10/2000,,Kalamata,Iraklis Saloniki,0,0,D,NaN,NaN,NaN
+GRE,01/10/2000,,Olympiakos Piräus,Ionikos Nikea,3,3,D,NaN,NaN,NaN
+GRE,01/10/2000,,Panachaiki GE,Athinaikos,3,1,H,NaN,NaN,NaN
+GRE,01/10/2000,,Panathinaikos,Aris Saloniki,2,2,D,NaN,NaN,NaN
+GRE,02/10/2000,,PAOK Saloniki,Panionios GSS,1,1,D,NaN,NaN,NaN
+GRE,29/10/2000,,Paniliakos Pyrgos,Olympiakos Piräus,0,4,A,NaN,NaN,NaN
+GRE,29/10/2000,,Athinaikos,Kalamata,3,2,H,NaN,NaN,NaN
+GRE,29/10/2000,,Ionikos Nikea,AEK Athen,0,2,A,NaN,NaN,NaN
+GRE,29/10/2000,,Iraklis Saloniki,PAS Giannina,2,1,H,NaN,NaN,NaN
+GRE,29/10/2000,,OFI Heraklion,Panathinaikos,0,0,D,NaN,NaN,NaN
+GRE,29/10/2000,,Panionios GSS,Skoda Xanthi,0,0,D,NaN,NaN,NaN
+GRE,30/10/2000,,Ethnikos Asteras,Panachaiki GE,3,1,H,NaN,NaN,NaN
+GRE,01/11/2000,,Aris Saloniki,PAOK Saloniki,4,0,H,NaN,NaN,NaN
+GRE,05/11/2000,,PAS Giannina,Athinaikos,3,1,H,NaN,NaN,NaN
+GRE,05/11/2000,,Kalamata,Ethnikos Asteras,2,2,D,NaN,NaN,NaN
+GRE,05/11/2000,,Olympiakos Piräus,AEK Athen,4,1,H,NaN,NaN,NaN
+GRE,05/11/2000,,Panathinaikos,Paniliakos Pyrgos,2,0,H,NaN,NaN,NaN
+GRE,05/11/2000,,Panionios GSS,Iraklis Saloniki,1,1,D,NaN,NaN,NaN
+GRE,05/11/2000,,PAOK Saloniki,OFI Heraklion,4,1,H,NaN,NaN,NaN
+GRE,05/11/2000,,Skoda Xanthi,Aris Saloniki,1,0,H,NaN,NaN,NaN
+GRE,06/11/2000,,Panachaiki GE,Ionikos Nikea,2,3,A,NaN,NaN,NaN
+GRE,11/11/2000,,Athinaikos,Panionios GSS,2,0,H,NaN,NaN,NaN
+GRE,12/11/2000,,AEK Athen,Panachaiki GE,2,1,H,NaN,NaN,NaN
+GRE,12/11/2000,,Paniliakos Pyrgos,PAOK Saloniki,1,1,D,NaN,NaN,NaN
+GRE,12/11/2000,,Aris Saloniki,Iraklis Saloniki,0,2,A,NaN,NaN,NaN
+GRE,12/11/2000,,Ethnikos Asteras,PAS Giannina,2,1,H,NaN,NaN,NaN
+GRE,12/11/2000,,Ionikos Nikea,Kalamata,4,1,H,NaN,NaN,NaN
+GRE,12/11/2000,,Panathinaikos,Olympiakos Piräus,0,0,D,NaN,NaN,NaN
+GRE,13/11/2000,,OFI Heraklion,Skoda Xanthi,0,1,A,NaN,NaN,NaN
+GRE,18/11/2000,,PAOK Saloniki,Panathinaikos,2,2,D,NaN,NaN,NaN
+GRE,19/11/2000,,Aris Saloniki,Athinaikos,2,0,H,NaN,NaN,NaN
+GRE,19/11/2000,,Iraklis Saloniki,OFI Heraklion,3,0,H,NaN,NaN,NaN
+GRE,19/11/2000,,Kalamata,AEK Athen,3,1,H,NaN,NaN,NaN
+GRE,19/11/2000,,Olympiakos Piräus,Panachaiki GE,3,0,H,NaN,NaN,NaN
+GRE,19/11/2000,,Skoda Xanthi,Paniliakos Pyrgos,2,0,H,NaN,NaN,NaN
+GRE,20/11/2000,,PAS Giannina,Ionikos Nikea,1,1,D,NaN,NaN,NaN
+GRE,20/11/2000,,Panionios GSS,Ethnikos Asteras,4,3,H,NaN,NaN,NaN
+GRE,25/11/2000,,Panathinaikos,Skoda Xanthi,3,0,H,NaN,NaN,NaN
+GRE,26/11/2000,,Paniliakos Pyrgos,Iraklis Saloniki,1,2,A,NaN,NaN,NaN
+GRE,26/11/2000,,Ethnikos Asteras,Aris Saloniki,1,0,H,NaN,NaN,NaN
+GRE,26/11/2000,,Ionikos Nikea,Panionios GSS,2,0,H,NaN,NaN,NaN
+GRE,26/11/2000,,OFI Heraklion,Athinaikos,5,3,H,NaN,NaN,NaN
+GRE,26/11/2000,,Panachaiki GE,Kalamata,3,2,H,NaN,NaN,NaN
+GRE,27/11/2000,,AEK Athen,PAS Giannina,4,2,H,NaN,NaN,NaN
+GRE,27/11/2000,,PAOK Saloniki,Olympiakos Piräus,2,4,A,NaN,NaN,NaN
+GRE,02/12/2000,,Panionios GSS,AEK Athen,2,0,H,NaN,NaN,NaN
+GRE,03/12/2000,,Aris Saloniki,Ionikos Nikea,0,0,D,NaN,NaN,NaN
+GRE,03/12/2000,,Ethnikos Asteras,OFI Heraklion,1,0,H,NaN,NaN,NaN
+GRE,03/12/2000,,PAS Giannina,Panachaiki GE,1,1,D,NaN,NaN,NaN
+GRE,03/12/2000,,Iraklis Saloniki,Panathinaikos,0,1,A,NaN,NaN,NaN
+GRE,03/12/2000,,Olympiakos Piräus,Kalamata,5,2,H,NaN,NaN,NaN
+GRE,03/12/2000,,Skoda Xanthi,PAOK Saloniki,0,2,A,NaN,NaN,NaN
+GRE,04/12/2000,,Athinaikos,Paniliakos Pyrgos,1,1,D,NaN,NaN,NaN
+GRE,09/12/2000,,Paniliakos Pyrgos,Ethnikos Asteras,1,0,H,NaN,NaN,NaN
+GRE,09/12/2000,,Ionikos Nikea,OFI Heraklion,1,0,H,NaN,NaN,NaN
+GRE,09/12/2000,,Panachaiki GE,Panionios GSS,1,1,D,NaN,NaN,NaN
+GRE,10/12/2000,,AEK Athen,Aris Saloniki,3,1,H,NaN,NaN,NaN
+GRE,10/12/2000,,Kalamata,PAS Giannina,3,4,A,NaN,NaN,NaN
+GRE,10/12/2000,,Panathinaikos,Athinaikos,1,0,H,NaN,NaN,NaN
+GRE,10/12/2000,,PAOK Saloniki,Iraklis Saloniki,4,2,H,NaN,NaN,NaN
+GRE,11/12/2000,,Skoda Xanthi,Olympiakos Piräus,0,3,A,NaN,NaN,NaN
+GRE,16/12/2000,,Iraklis Saloniki,Skoda Xanthi,1,0,H,NaN,NaN,NaN
+GRE,17/12/2000,,Aris Saloniki,Panachaiki GE,0,0,D,NaN,NaN,NaN
+GRE,17/12/2000,,Athinaikos,PAOK Saloniki,3,4,A,NaN,NaN,NaN
+GRE,17/12/2000,,Ethnikos Asteras,Panathinaikos,0,3,A,NaN,NaN,NaN
+GRE,17/12/2000,,Ionikos Nikea,Paniliakos Pyrgos,3,1,H,NaN,NaN,NaN
+GRE,17/12/2000,,Olympiakos Piräus,PAS Giannina,3,1,H,NaN,NaN,NaN
+GRE,17/12/2000,,Panionios GSS,Kalamata,1,1,D,NaN,NaN,NaN
+GRE,18/12/2000,,OFI Heraklion,AEK Athen,3,3,D,NaN,NaN,NaN
+GRE,03/01/2001,,AEK Athen,Paniliakos Pyrgos,2,1,H,NaN,NaN,NaN
+GRE,03/01/2001,,Iraklis Saloniki,Olympiakos Piräus,2,1,H,NaN,NaN,NaN
+GRE,03/01/2001,,Kalamata,Aris Saloniki,1,1,D,NaN,NaN,NaN
+GRE,03/01/2001,,Panachaiki GE,OFI Heraklion,2,1,H,NaN,NaN,NaN
+GRE,03/01/2001,,Panathinaikos,Ionikos Nikea,4,1,H,NaN,NaN,NaN
+GRE,03/01/2001,,Skoda Xanthi,Athinaikos,1,0,H,NaN,NaN,NaN
+GRE,04/01/2001,,PAOK Saloniki,Ethnikos Asteras,2,1,H,NaN,NaN,NaN
+GRE,11/01/2001,,PAS Giannina,Panionios GSS,2,2,D,NaN,NaN,NaN
+GRE,07/01/2001,,AEK Athen,Panathinaikos,1,1,D,NaN,NaN,NaN
+GRE,07/01/2001,,Paniliakos Pyrgos,Panachaiki GE,2,2,D,NaN,NaN,NaN
+GRE,07/01/2001,,Aris Saloniki,PAS Giannina,1,0,H,NaN,NaN,NaN
+GRE,07/01/2001,,Athinaikos,Iraklis Saloniki,2,0,H,NaN,NaN,NaN
+GRE,07/01/2001,,OFI Heraklion,Kalamata,1,1,D,NaN,NaN,NaN
+GRE,07/01/2001,,Olympiakos Piräus,Panionios GSS,2,0,H,NaN,NaN,NaN
+GRE,08/01/2001,,Ethnikos Asteras,Skoda Xanthi,1,0,H,NaN,NaN,NaN
+GRE,08/01/2001,,Ionikos Nikea,PAOK Saloniki,2,2,D,NaN,NaN,NaN
+GRE,13/01/2001,,Skoda Xanthi,Ionikos Nikea,0,1,A,NaN,NaN,NaN
+GRE,14/01/2001,,PAS Giannina,OFI Heraklion,1,2,A,NaN,NaN,NaN
+GRE,14/01/2001,,Iraklis Saloniki,Ethnikos Asteras,4,0,H,NaN,NaN,NaN
+GRE,14/01/2001,,Kalamata,Paniliakos Pyrgos,1,1,D,NaN,NaN,NaN
+GRE,14/01/2001,,Panachaiki GE,Panathinaikos,1,2,A,NaN,NaN,NaN
+GRE,14/01/2001,,Panionios GSS,Aris Saloniki,2,0,H,NaN,NaN,NaN
+GRE,14/01/2001,,PAOK Saloniki,AEK Athen,2,1,H,NaN,NaN,NaN
+GRE,15/01/2001,,Athinaikos,Olympiakos Piräus,1,5,A,NaN,NaN,NaN
+GRE,20/01/2001,,Ethnikos Asteras,Athinaikos,2,2,D,NaN,NaN,NaN
+GRE,21/01/2001,,AEK Athen,Skoda Xanthi,2,0,H,NaN,NaN,NaN
+GRE,21/01/2001,,Paniliakos Pyrgos,PAS Giannina,1,0,H,NaN,NaN,NaN
+GRE,21/01/2001,,Ionikos Nikea,Iraklis Saloniki,2,2,D,NaN,NaN,NaN
+GRE,21/01/2001,,Olympiakos Piräus,Aris Saloniki,4,1,H,NaN,NaN,NaN
+GRE,21/01/2001,,Panachaiki GE,PAOK Saloniki,1,2,A,NaN,NaN,NaN
+GRE,21/01/2001,,Panathinaikos,Kalamata,1,0,H,NaN,NaN,NaN
+GRE,22/01/2001,,OFI Heraklion,Panionios GSS,1,1,D,NaN,NaN,NaN
+GRE,27/01/2001,,Aris Saloniki,OFI Heraklion,2,0,H,NaN,NaN,NaN
+GRE,28/01/2001,,Athinaikos,Ionikos Nikea,2,2,D,NaN,NaN,NaN
+GRE,28/01/2001,,Ethnikos Asteras,Olympiakos Piräus,0,1,A,NaN,NaN,NaN
+GRE,28/01/2001,,PAS Giannina,Panathinaikos,0,4,A,NaN,NaN,NaN
+GRE,28/01/2001,,Iraklis Saloniki,AEK Athen,1,2,A,NaN,NaN,NaN
+GRE,28/01/2001,,Panionios GSS,Paniliakos Pyrgos,0,1,A,NaN,NaN,NaN
+GRE,28/01/2001,,PAOK Saloniki,Kalamata,7,1,H,NaN,NaN,NaN
+GRE,28/01/2001,,Skoda Xanthi,Panachaiki GE,1,0,H,NaN,NaN,NaN
+GRE,03/02/2001,,Olympiakos Piräus,OFI Heraklion,5,0,H,NaN,NaN,NaN
+GRE,04/02/2001,,Paniliakos Pyrgos,Aris Saloniki,1,2,A,NaN,NaN,NaN
+GRE,04/02/2001,,Ionikos Nikea,Ethnikos Asteras,2,1,H,NaN,NaN,NaN
+GRE,04/02/2001,,Kalamata,Skoda Xanthi,0,1,A,NaN,NaN,NaN
+GRE,04/02/2001,,Panachaiki GE,Iraklis Saloniki,1,2,A,NaN,NaN,NaN
+GRE,04/02/2001,,Panathinaikos,Panionios GSS,0,1,A,NaN,NaN,NaN
+GRE,04/02/2001,,PAOK Saloniki,PAS Giannina,2,3,A,NaN,NaN,NaN
+GRE,05/02/2001,,AEK Athen,Athinaikos,2,1,H,NaN,NaN,NaN
+GRE,10/02/2001,,Aris Saloniki,Panathinaikos,1,0,H,NaN,NaN,NaN
+GRE,11/02/2001,,Athinaikos,Panachaiki GE,3,1,H,NaN,NaN,NaN
+GRE,11/02/2001,,Ethnikos Asteras,AEK Athen,0,3,A,NaN,NaN,NaN
+GRE,11/02/2001,,Ionikos Nikea,Olympiakos Piräus,0,1,A,NaN,NaN,NaN
+GRE,11/02/2001,,Iraklis Saloniki,Kalamata,1,0,H,NaN,NaN,NaN
+GRE,11/02/2001,,OFI Heraklion,Paniliakos Pyrgos,2,2,D,NaN,NaN,NaN
+GRE,11/02/2001,,Skoda Xanthi,PAS Giannina,0,0,D,NaN,NaN,NaN
+GRE,12/02/2001,,Panionios GSS,PAOK Saloniki,1,1,D,NaN,NaN,NaN
+GRE,17/02/2001,,Panathinaikos,OFI Heraklion,2,0,H,NaN,NaN,NaN
+GRE,17/02/2001,,PAOK Saloniki,Aris Saloniki,2,0,H,NaN,NaN,NaN
+GRE,18/02/2001,,AEK Athen,Ionikos Nikea,2,0,H,NaN,NaN,NaN
+GRE,18/02/2001,,PAS Giannina,Iraklis Saloniki,3,2,H,NaN,NaN,NaN
+GRE,18/02/2001,,Olympiakos Piräus,Paniliakos Pyrgos,2,0,H,NaN,NaN,NaN
+GRE,18/02/2001,,Panachaiki GE,Ethnikos Asteras,1,0,H,NaN,NaN,NaN
+GRE,18/02/2001,,Skoda Xanthi,Panionios GSS,3,1,H,NaN,NaN,NaN
+GRE,19/02/2001,,Kalamata,Athinaikos,2,2,D,NaN,NaN,NaN
+GRE,24/02/2001,,Paniliakos Pyrgos,Panathinaikos,0,3,A,NaN,NaN,NaN
+GRE,25/02/2001,,Aris Saloniki,Skoda Xanthi,1,0,H,NaN,NaN,NaN
+GRE,25/02/2001,,Athinaikos,PAS Giannina,0,1,A,NaN,NaN,NaN
+GRE,25/02/2001,,Ethnikos Asteras,Kalamata,1,3,A,NaN,NaN,NaN
+GRE,25/02/2001,,Ionikos Nikea,Panachaiki GE,3,1,H,NaN,NaN,NaN
+GRE,25/02/2001,,Iraklis Saloniki,Panionios GSS,4,3,H,NaN,NaN,NaN
+GRE,25/02/2001,,OFI Heraklion,PAOK Saloniki,0,0,D,NaN,NaN,NaN
+GRE,26/02/2001,,AEK Athen,Olympiakos Piräus,1,2,A,NaN,NaN,NaN
+GRE,03/03/2001,,Iraklis Saloniki,Aris Saloniki,1,2,A,NaN,NaN,NaN
+GRE,04/03/2001,,PAS Giannina,Ethnikos Asteras,0,0,D,NaN,NaN,NaN
+GRE,04/03/2001,,Kalamata,Ionikos Nikea,2,1,H,NaN,NaN,NaN
+GRE,04/03/2001,,Olympiakos Piräus,Panathinaikos,1,0,H,NaN,NaN,NaN
+GRE,04/03/2001,,Panionios GSS,Athinaikos,1,0,H,NaN,NaN,NaN
+GRE,04/03/2001,,PAOK Saloniki,Paniliakos Pyrgos,3,2,H,NaN,NaN,NaN
+GRE,04/03/2001,,Skoda Xanthi,OFI Heraklion,3,2,H,NaN,NaN,NaN
+GRE,05/03/2001,,Panachaiki GE,AEK Athen,1,0,H,NaN,NaN,NaN
+GRE,10/03/2001,,Panathinaikos,PAOK Saloniki,5,2,H,NaN,NaN,NaN
+GRE,11/03/2001,,Paniliakos Pyrgos,Skoda Xanthi,1,0,H,NaN,NaN,NaN
+GRE,11/03/2001,,Athinaikos,Aris Saloniki,2,0,H,NaN,NaN,NaN
+GRE,11/03/2001,,Ethnikos Asteras,Panionios GSS,1,0,H,NaN,NaN,NaN
+GRE,11/03/2001,,Ionikos Nikea,PAS Giannina,1,1,D,NaN,NaN,NaN
+GRE,11/03/2001,,OFI Heraklion,Iraklis Saloniki,1,0,H,NaN,NaN,NaN
+GRE,11/03/2001,,Panachaiki GE,Olympiakos Piräus,1,5,A,NaN,NaN,NaN
+GRE,12/03/2001,,AEK Athen,Kalamata,3,0,H,NaN,NaN,NaN
+GRE,17/03/2001,,Olympiakos Piräus,PAOK Saloniki,1,0,H,NaN,NaN,NaN
+GRE,17/03/2001,,Skoda Xanthi,Panathinaikos,0,2,A,NaN,NaN,NaN
+GRE,18/03/2001,,Aris Saloniki,Ethnikos Asteras,2,0,H,NaN,NaN,NaN
+GRE,18/03/2001,,Athinaikos,OFI Heraklion,2,3,A,NaN,NaN,NaN
+GRE,18/03/2001,,Iraklis Saloniki,Paniliakos Pyrgos,1,0,H,NaN,NaN,NaN
+GRE,18/03/2001,,Kalamata,Panachaiki GE,3,3,D,NaN,NaN,NaN
+GRE,18/03/2001,,Panionios GSS,Ionikos Nikea,4,0,H,NaN,NaN,NaN
+GRE,19/03/2001,,PAS Giannina,AEK Athen,2,2,D,NaN,NaN,NaN
+GRE,31/03/2001,,Kalamata,Olympiakos Piräus,0,1,A,NaN,NaN,NaN
+GRE,01/04/2001,,AEK Athen,Panionios GSS,5,1,H,NaN,NaN,NaN
+GRE,01/04/2001,,Paniliakos Pyrgos,Athinaikos,3,0,H,NaN,NaN,NaN
+GRE,01/04/2001,,OFI Heraklion,Ethnikos Asteras,2,2,D,NaN,NaN,NaN
+GRE,01/04/2001,,Panachaiki GE,PAS Giannina,2,1,H,NaN,NaN,NaN
+GRE,01/04/2001,,Panathinaikos,Iraklis Saloniki,2,1,H,NaN,NaN,NaN
+GRE,01/04/2001,,PAOK Saloniki,Skoda Xanthi,3,0,H,NaN,NaN,NaN
+GRE,02/04/2001,,Ionikos Nikea,Aris Saloniki,2,1,H,NaN,NaN,NaN
+GRE,07/04/2001,,Aris Saloniki,AEK Athen,0,3,A,NaN,NaN,NaN
+GRE,08/04/2001,,Athinaikos,Panathinaikos,0,4,A,NaN,NaN,NaN
+GRE,08/04/2001,,Ethnikos Asteras,Paniliakos Pyrgos,1,1,D,NaN,NaN,NaN
+GRE,08/04/2001,,PAS Giannina,Kalamata,2,0,H,NaN,NaN,NaN
+GRE,08/04/2001,,Iraklis Saloniki,PAOK Saloniki,1,1,D,NaN,NaN,NaN
+GRE,08/04/2001,,OFI Heraklion,Ionikos Nikea,3,1,H,NaN,NaN,NaN
+GRE,08/04/2001,,Olympiakos Piräus,Skoda Xanthi,4,0,H,NaN,NaN,NaN
+GRE,08/04/2001,,Panionios GSS,Panachaiki GE,2,0,H,NaN,NaN,NaN
+GRE,20/04/2001,,Paniliakos Pyrgos,Ionikos Nikea,1,0,H,NaN,NaN,NaN
+GRE,20/04/2001,,Kalamata,Panionios GSS,2,1,H,NaN,NaN,NaN
+GRE,20/04/2001,,Panachaiki GE,Aris Saloniki,4,1,H,NaN,NaN,NaN
+GRE,20/04/2001,,Skoda Xanthi,Iraklis Saloniki,1,0,H,NaN,NaN,NaN
+GRE,22/04/2001,,AEK Athen,OFI Heraklion,1,2,A,NaN,NaN,NaN
+GRE,22/04/2001,,PAS Giannina,Olympiakos Piräus,1,5,A,NaN,NaN,NaN
+GRE,22/04/2001,,Panathinaikos,Ethnikos Asteras,2,0,H,NaN,NaN,NaN
+GRE,22/04/2001,,PAOK Saloniki,Athinaikos,3,1,H,NaN,NaN,NaN
+GRE,29/04/2001,,Paniliakos Pyrgos,AEK Athen,0,3,A,NaN,NaN,NaN
+GRE,29/04/2001,,Aris Saloniki,Kalamata,3,2,H,NaN,NaN,NaN
+GRE,29/04/2001,,Athinaikos,Skoda Xanthi,2,2,D,NaN,NaN,NaN
+GRE,29/04/2001,,Ethnikos Asteras,PAOK Saloniki,3,3,D,NaN,NaN,NaN
+GRE,29/04/2001,,Ionikos Nikea,Panathinaikos,3,3,D,NaN,NaN,NaN
+GRE,29/04/2001,,OFI Heraklion,Panachaiki GE,0,1,A,NaN,NaN,NaN
+GRE,29/04/2001,,Panionios GSS,PAS Giannina,4,0,H,NaN,NaN,NaN
+GRE,30/04/2001,,Olympiakos Piräus,Iraklis Saloniki,3,1,H,NaN,NaN,NaN
+GRE,06/05/2001,,PAS Giannina,Aris Saloniki,2,1,H,NaN,NaN,NaN
+GRE,06/05/2001,,Iraklis Saloniki,Athinaikos,4,2,H,NaN,NaN,NaN
+GRE,06/05/2001,,Kalamata,OFI Heraklion,1,4,A,NaN,NaN,NaN
+GRE,06/05/2001,,Panachaiki GE,Paniliakos Pyrgos,3,0,H,NaN,NaN,NaN
+GRE,06/05/2001,,Panionios GSS,Olympiakos Piräus,2,1,H,NaN,NaN,NaN
+GRE,06/05/2001,,PAOK Saloniki,Ionikos Nikea,1,2,A,NaN,NaN,NaN
+GRE,06/05/2001,,Skoda Xanthi,Ethnikos Asteras,3,1,H,NaN,NaN,NaN
+GRE,07/05/2001,,Panathinaikos,AEK Athen,0,1,A,NaN,NaN,NaN
+GRE,19/05/2001,,AEK Athen,PAOK Saloniki,3,2,H,NaN,NaN,NaN
+GRE,20/05/2001,,Paniliakos Pyrgos,Kalamata,3,1,H,NaN,NaN,NaN
+GRE,20/05/2001,,Aris Saloniki,Panionios GSS,3,2,H,NaN,NaN,NaN
+GRE,20/05/2001,,Ethnikos Asteras,Iraklis Saloniki,2,0,H,NaN,NaN,NaN
+GRE,20/05/2001,,OFI Heraklion,PAS Giannina,1,1,D,NaN,NaN,NaN
+GRE,20/05/2001,,Olympiakos Piräus,Athinaikos,1,0,H,NaN,NaN,NaN
+GRE,20/05/2001,,Panathinaikos,Panachaiki GE,4,0,H,NaN,NaN,NaN
+GRE,21/05/2001,,Ionikos Nikea,Skoda Xanthi,3,1,H,NaN,NaN,NaN
+GRE,26/05/2001,,Iraklis Saloniki,Ionikos Nikea,3,2,H,NaN,NaN,NaN
+GRE,26/05/2001,,Skoda Xanthi,AEK Athen,0,1,A,NaN,NaN,NaN
+GRE,27/05/2001,,Aris Saloniki,Olympiakos Piräus,2,2,D,NaN,NaN,NaN
+GRE,27/05/2001,,Athinaikos,Ethnikos Asteras,1,3,A,NaN,NaN,NaN
+GRE,27/05/2001,,PAS Giannina,Paniliakos Pyrgos,3,0,H,NaN,NaN,NaN
+GRE,27/05/2001,,Kalamata,Panathinaikos,2,4,A,NaN,NaN,NaN
+GRE,27/05/2001,,Panionios GSS,OFI Heraklion,0,2,A,NaN,NaN,NaN
+GRE,27/05/2001,,PAOK Saloniki,Panachaiki GE,5,1,H,NaN,NaN,NaN

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,25/07/2014,16:30,Concordia Chiajna,Astra Giurgiu,0,2,A,0,2,A
+ROM,25/07/2014,19:00,CS Universitatea Craiova,Pandurii Târgu Jiu,1,1,D,0,0,D
+ROM,26/07/2014,16:30,ASA Târgu Mureş,Universitatea Cluj,0,0,D,0,0,D
+ROM,26/07/2014,19:00,Rapid Bucureşti,Steaua Bucureşti,1,3,A,1,1,D
+ROM,27/07/2014,15:00,FC Botoşani,Gaz Metan Mediaş,0,3,A,0,1,A
+ROM,27/07/2014,17:00,CFR Cluj,Ceahlăul Piatra Neamt,4,0,H,2,0,H
+ROM,27/07/2014,19:00,FC Braşov,Petrolul Ploieşti,0,1,A,0,1,A
+ROM,28/07/2014,16:30,CSMS Iaşi,FC Viitorul Constanța,0,0,D,0,0,D
+ROM,28/07/2014,19:00,Dinamo Bucureşti,Oţelul Galaţi,4,0,H,2,0,H
+ROM,01/08/2014,16:30,Ceahlăul Piatra Neamt,ASA Târgu Mureş,1,4,A,1,2,A
+ROM,01/08/2014,19:00,FC Viitorul Constanța,Rapid Bucureşti,1,2,A,1,2,A
+ROM,02/08/2014,16:30,Oţelul Galaţi,Concordia Chiajna,1,2,A,0,0,D
+ROM,02/08/2014,19:00,Steaua Bucureşti,CS Universitatea Craiova,3,1,H,2,0,H
+ROM,03/08/2014,15:00,Petrolul Ploieşti,FC Botoşani,4,1,H,3,1,H
+ROM,03/08/2014,17:00,Astra Giurgiu,FC Braşov,5,0,H,1,0,H
+ROM,03/08/2014,19:00,Pandurii Târgu Jiu,CFR Cluj,0,0,D,0,0,D
+ROM,04/08/2014,16:30,Gaz Metan Mediaş,CSMS Iaşi,0,0,D,0,0,D
+ROM,04/08/2014,19:00,Universitatea Cluj,Dinamo Bucureşti,2,3,A,1,3,A
+ROM,08/08/2014,16:30,CS Universitatea Craiova,FC Viitorul Constanța,2,2,D,2,1,H
+ROM,08/08/2014,19:00,Rapid Bucureşti,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,09/08/2014,16:30,Pandurii Târgu Jiu,Ceahlăul Piatra Neamt,0,1,A,0,0,D
+ROM,09/08/2014,19:00,Dinamo Bucureşti,ASA Târgu Mureş,1,1,D,1,1,D
+ROM,10/08/2014,15:00,FC Botoşani,Astra Giurgiu,1,0,H,0,0,D
+ROM,10/08/2014,17:00,CSMS Iaşi,Petrolul Ploieşti,1,5,A,1,1,D
+ROM,10/08/2014,19:00,CFR Cluj,Steaua Bucureşti,0,1,A,0,1,A
+ROM,11/08/2014,16:30,Concordia Chiajna,Universitatea Cluj,0,2,A,0,0,D
+ROM,11/08/2014,19:00,FC Braşov,Oţelul Galaţi,1,1,D,0,1,A
+ROM,15/08/2014,16:30,Gaz Metan Mediaş,CS Universitatea Craiova,1,0,H,1,0,H
+ROM,15/08/2014,19:00,Steaua Bucureşti,Pandurii Târgu Jiu,6,0,H,3,0,H
+ROM,16/08/2014,16:30,Astra Giurgiu,CSMS Iaşi,2,1,H,2,0,H
+ROM,16/08/2014,19:00,Petrolul Ploieşti,Rapid Bucureşti,0,0,D,0,0,D
+ROM,17/08/2014,15:00,ASA Târgu Mureş,Concordia Chiajna,2,0,H,0,0,D
+ROM,17/08/2014,17:00,Oţelul Galaţi,FC Botoşani,0,1,A,0,0,D
+ROM,17/08/2014,19:00,Ceahlăul Piatra Neamt,Dinamo Bucureşti,1,1,D,1,0,H
+ROM,18/08/2014,16:30,Universitatea Cluj,FC Braşov,1,1,D,1,0,H
+ROM,18/08/2014,19:00,FC Viitorul Constanța,CFR Cluj,0,2,A,0,1,A
+ROM,22/08/2014,16:30,FC Braşov,ASA Târgu Mureş,2,1,H,1,1,D
+ROM,22/08/2014,19:00,Concordia Chiajna,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,23/08/2014,16:30,Pandurii Târgu Jiu,FC Viitorul Constanța,1,1,D,0,1,A
+ROM,23/08/2014,19:00,Steaua Bucureşti,Ceahlăul Piatra Neamt,0,1,A,0,0,D
+ROM,24/08/2014,15:00,FC Botoşani,Universitatea Cluj,1,0,H,0,0,D
+ROM,24/08/2014,17:00,Rapid Bucureşti,Astra Giurgiu,0,2,A,0,1,A
+ROM,24/08/2014,19:00,CS Universitatea Craiova,Petrolul Ploieşti,0,2,A,0,0,D
+ROM,25/08/2014,16:30,CSMS Iaşi,Oţelul Galaţi,0,0,D,0,0,D
+ROM,25/08/2014,19:00,CFR Cluj,Gaz Metan Mediaş,4,1,H,1,1,D
+ROM,29/08/2014,16:30,Gaz Metan Mediaş,Pandurii Târgu Jiu,0,2,A,0,1,A
+ROM,29/08/2014,19:00,Ceahlăul Piatra Neamt,Concordia Chiajna,2,0,H,0,0,D
+ROM,30/08/2014,16:30,Dinamo Bucureşti,FC Braşov,2,1,H,1,0,H
+ROM,30/08/2014,19:00,FC Viitorul Constanța,Steaua Bucureşti,0,1,A,0,0,D
+ROM,31/08/2014,15:00,ASA Târgu Mureş,FC Botoşani,2,1,H,1,0,H
+ROM,31/08/2014,17:00,Astra Giurgiu,CS Universitatea Craiova,5,0,H,1,0,H
+ROM,31/08/2014,19:00,Petrolul Ploieşti,CFR Cluj,1,2,A,0,1,A
+ROM,01/09/2014,16:30,Oţelul Galaţi,Rapid Bucureşti,2,0,H,1,0,H
+ROM,01/09/2014,19:00,Universitatea Cluj,CSMS Iaşi,2,0,H,2,0,H
+ROM,12/09/2014,16:30,FC Braşov,Concordia Chiajna,4,1,H,2,0,H
+ROM,12/09/2014,19:00,Steaua Bucureşti,Gaz Metan Mediaş,3,1,H,1,0,H
+ROM,13/09/2014,16:30,FC Viitorul Constanța,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,13/09/2014,19:00,CFR Cluj,Astra Giurgiu,4,1,H,2,0,H
+ROM,14/09/2014,14:00,CSMS Iaşi,ASA Târgu Mureş,2,2,D,1,1,D
+ROM,14/09/2014,16:30,Rapid Bucureşti,Universitatea Cluj,2,1,H,1,0,H
+ROM,14/09/2014,19:00,FC Botoşani,Dinamo Bucureşti,3,2,H,1,1,D
+ROM,15/09/2014,16:30,CS Universitatea Craiova,Oţelul Galaţi,1,0,H,0,0,D
+ROM,15/09/2014,19:00,Pandurii Târgu Jiu,Petrolul Ploieşti,1,1,D,1,1,D
+ROM,19/09/2014,16:30,Gaz Metan Mediaş,FC Viitorul Constanța,3,1,H,2,0,H
+ROM,19/09/2014,19:00,ASA Târgu Mureş,Rapid Bucureşti,1,0,H,0,0,D
+ROM,20/09/2014,14:00,Concordia Chiajna,FC Botoşani,3,3,D,2,1,H
+ROM,20/09/2014,16:30,Oţelul Galaţi,CFR Cluj,0,1,A,0,1,A
+ROM,20/09/2014,19:00,Dinamo Bucureşti,CSMS Iaşi,1,0,H,0,0,D
+ROM,21/09/2014,14:00,Ceahlăul Piatra Neamt,FC Braşov,2,2,D,1,1,D
+ROM,21/09/2014,16:30,Astra Giurgiu,Pandurii Târgu Jiu,2,1,H,0,1,A
+ROM,21/09/2014,19:00,Petrolul Ploieşti,Steaua Bucureşti,2,3,A,1,2,A
+ROM,22/09/2014,19:00,Universitatea Cluj,CS Universitatea Craiova,0,2,A,0,0,D
+ROM,26/09/2014,19:00,CSMS Iaşi,Concordia Chiajna,1,2,A,1,2,A
+ROM,27/09/2014,14:00,Gaz Metan Mediaş,Ceahlăul Piatra Neamt,2,2,D,1,2,A
+ROM,27/09/2014,16:30,FC Botoşani,FC Braşov,0,0,D,0,0,D
+ROM,27/09/2014,19:00,Rapid Bucureşti,Dinamo Bucureşti,0,3,A,0,1,A
+ROM,28/09/2014,14:00,CS Universitatea Craiova,ASA Târgu Mureş,1,0,H,1,0,H
+ROM,28/09/2014,16:30,FC Viitorul Constanța,Petrolul Ploieşti,1,3,A,1,0,H
+ROM,28/09/2014,19:00,Steaua Bucureşti,Astra Giurgiu,0,0,D,0,0,D
+ROM,29/09/2014,16:30,Pandurii Târgu Jiu,Oţelul Galaţi,4,0,H,0,0,D
+ROM,29/09/2014,19:00,CFR Cluj,Universitatea Cluj,1,0,H,0,0,D
+ROM,03/10/2014,16:30,FC Braşov,CSMS Iaşi,2,0,H,1,0,H
+ROM,03/10/2014,19:00,Concordia Chiajna,Rapid Bucureşti,0,0,D,0,0,D
+ROM,04/10/2014,14:00,Ceahlăul Piatra Neamt,FC Botoşani,0,1,A,0,1,A
+ROM,04/10/2014,16:30,Universitatea Cluj,Pandurii Târgu Jiu,2,0,H,1,0,H
+ROM,04/10/2014,19:00,Petrolul Ploieşti,Gaz Metan Mediaş,1,0,H,1,0,H
+ROM,05/10/2014,14:00,Oţelul Galaţi,Steaua Bucureşti,0,3,A,0,2,A
+ROM,05/10/2014,16:30,Astra Giurgiu,FC Viitorul Constanța,0,1,A,0,1,A
+ROM,05/10/2014,19:00,Dinamo Bucureşti,CS Universitatea Craiova,1,1,D,0,1,A
+ROM,06/10/2014,19:00,ASA Târgu Mureş,CFR Cluj,2,0,H,1,0,H
+ROM,17/10/2014,16:30,CSMS Iaşi,FC Botoşani,2,2,D,1,1,D
+ROM,17/10/2014,19:00,Rapid Bucureşti,FC Braşov,0,1,A,0,0,D
+ROM,18/10/2014,14:00,FC Viitorul Constanța,Oţelul Galaţi,3,0,H,2,0,H
+ROM,18/10/2014,16:30,Pandurii Târgu Jiu,ASA Târgu Mureş,1,1,D,0,1,A
+ROM,18/10/2014,19:00,CFR Cluj,Dinamo Bucureşti,2,1,H,1,1,D
+ROM,19/10/2014,14:00,CS Universitatea Craiova,Concordia Chiajna,1,1,D,0,1,A
+ROM,19/10/2014,16:30,Gaz Metan Mediaş,Astra Giurgiu,1,1,D,0,0,D
+ROM,19/10/2014,19:00,Steaua Bucureşti,Universitatea Cluj,4,1,H,2,0,H
+ROM,20/10/2014,19:00,Petrolul Ploieşti,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,24/10/2014,16:30,Oţelul Galaţi,Gaz Metan Mediaş,1,1,D,0,1,A
+ROM,24/10/2014,19:00,FC Braşov,CS Universitatea Craiova,2,3,A,0,2,A
+ROM,25/10/2014,14:00,Ceahlăul Piatra Neamt,CSMS Iaşi,2,2,D,0,2,A
+ROM,25/10/2014,16:30,Universitatea Cluj,FC Viitorul Constanța,2,2,D,0,2,A
+ROM,25/10/2014,19:00,FC Botoşani,Rapid Bucureşti,3,0,H,2,0,H
+ROM,26/10/2014,13:30,Concordia Chiajna,CFR Cluj,1,1,D,1,1,D
+ROM,26/10/2014,15:30,Dinamo Bucureşti,Pandurii Târgu Jiu,3,2,H,1,1,D
+ROM,26/10/2014,18:00,ASA Târgu Mureş,Steaua Bucureşti,1,0,H,0,0,D
+ROM,27/10/2014,19:00,Astra Giurgiu,Petrolul Ploieşti,0,0,D,0,0,D
+ROM,31/10/2014,18:30,Steaua Bucureşti,Dinamo Bucureşti,3,0,H,1,0,H
+ROM,01/11/2014,13:30,Gaz Metan Mediaş,Universitatea Cluj,1,1,D,1,0,H
+ROM,01/11/2014,16:00,CS Universitatea Craiova,FC Botoşani,2,1,H,1,1,D
+ROM,01/11/2014,18:30,Astra Giurgiu,Ceahlăul Piatra Neamt,2,1,H,1,0,H
+ROM,03/11/2014,14:00,FC Viitorul Constanța,ASA Târgu Mureş,0,0,D,0,0,D
+ROM,03/11/2014,16:30,Petrolul Ploieşti,Oţelul Galaţi,0,0,D,0,0,D
+ROM,03/11/2014,19:00,CFR Cluj,FC Braşov,1,2,A,1,1,D
+ROM,04/11/2014,13:00,Rapid Bucureşti,CSMS Iaşi,0,1,A,0,1,A
+ROM,04/11/2014,15:00,Pandurii Târgu Jiu,Concordia Chiajna,1,1,D,0,0,D
+ROM,07/11/2014,16:00,ASA Târgu Mureş,Gaz Metan Mediaş,2,0,H,1,0,H
+ROM,07/11/2014,18:30,Dinamo Bucureşti,FC Viitorul Constanța,2,3,A,0,2,A
+ROM,08/11/2014,13:30,FC Braşov,Pandurii Târgu Jiu,0,3,A,0,1,A
+ROM,08/11/2014,16:00,FC Botoşani,CFR Cluj,0,1,A,0,1,A
+ROM,08/11/2014,18:30,Universitatea Cluj,Petrolul Ploieşti,0,3,A,0,2,A
+ROM,09/11/2014,13:30,CSMS Iaşi,CS Universitatea Craiova,1,3,A,0,2,A
+ROM,09/11/2014,15:30,Oţelul Galaţi,Astra Giurgiu,1,1,D,0,1,A
+ROM,09/11/2014,18:00,Concordia Chiajna,Steaua Bucureşti,0,1,A,0,1,A
+ROM,10/11/2014,18:30,Rapid Bucureşti,Ceahlăul Piatra Neamt,1,1,D,1,0,H
+ROM,21/11/2014,16:00,FC Viitorul Constanța,Concordia Chiajna,2,2,D,2,0,H
+ROM,21/11/2014,18:30,Gaz Metan Mediaş,Dinamo Bucureşti,1,2,A,1,1,D
+ROM,22/11/2014,13:30,Astra Giurgiu,Universitatea Cluj,1,1,D,0,0,D
+ROM,22/11/2014,16:00,Ceahlăul Piatra Neamt,Oţelul Galaţi,0,1,A,0,0,D
+ROM,22/11/2014,18:30,Steaua Bucureşti,FC Braşov,2,0,H,0,0,D
+ROM,23/11/2014,13:30,Pandurii Târgu Jiu,FC Botoşani,1,2,A,0,1,A
+ROM,23/11/2014,16:00,CFR Cluj,CSMS Iaşi,4,0,H,1,0,H
+ROM,23/11/2014,18:30,Petrolul Ploieşti,ASA Târgu Mureş,2,0,H,2,0,H
+ROM,24/11/2014,18:30,CS Universitatea Craiova,Rapid Bucureşti,2,0,H,1,0,H
+ROM,28/11/2014,16:00,Concordia Chiajna,Gaz Metan Mediaş,2,0,H,0,0,D
+ROM,28/11/2014,18:30,CSMS Iaşi,Pandurii Târgu Jiu,3,0,H,2,0,H
+ROM,29/11/2014,13:30,CS Universitatea Craiova,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,29/11/2014,16:00,Universitatea Cluj,Oţelul Galaţi,0,0,D,0,0,D
+ROM,29/11/2014,18:30,Rapid Bucureşti,CFR Cluj,0,0,D,0,0,D
+ROM,30/11/2014,14:30,FC Braşov,FC Viitorul Constanța,1,3,A,1,2,A
+ROM,30/11/2014,16:00,ASA Târgu Mureş,Astra Giurgiu,0,0,D,0,0,D
+ROM,30/11/2014,18:30,Dinamo Bucureşti,Petrolul Ploieşti,0,0,D,0,0,D
+ROM,01/12/2014,18:30,FC Botoşani,Steaua Bucureşti,0,2,A,0,1,A
+ROM,05/12/2014,16:00,Gaz Metan Mediaş,FC Braşov,2,1,H,2,0,H
+ROM,05/12/2014,18:30,FC Viitorul Constanța,FC Botoşani,1,2,A,1,1,D
+ROM,06/12/2014,13:30,Ceahlăul Piatra Neamt,Universitatea Cluj,0,6,A,0,3,A
+ROM,06/12/2014,16:00,Pandurii Târgu Jiu,Rapid Bucureşti,2,0,H,1,0,H
+ROM,06/12/2014,18:30,Astra Giurgiu,Dinamo Bucureşti,6,1,H,4,0,H
+ROM,07/12/2014,13:30,Oţelul Galaţi,ASA Târgu Mureş,0,2,A,0,1,A
+ROM,07/12/2014,16:00,Steaua Bucureşti,CSMS Iaşi,1,0,H,0,0,D
+ROM,07/12/2014,18:30,CFR Cluj,CS Universitatea Craiova,0,0,D,0,0,D
+ROM,08/12/2014,18:30,Petrolul Ploieşti,Concordia Chiajna,2,2,D,1,2,A
+ROM,20/02/2015,16:00,FC Viitorul Constanța,CSMS Iaşi,0,3,A,0,2,A
+ROM,20/02/2015,18:30,Petrolul Ploieşti,FC Braşov,1,0,H,0,0,D
+ROM,21/02/2015,16:00,Gaz Metan Mediaş,FC Botoşani,1,1,D,1,0,H
+ROM,21/02/2015,18:30,Oţelul Galaţi,Dinamo Bucureşti,0,1,A,0,1,A
+ROM,22/02/2015,13:30,Astra Giurgiu,Concordia Chiajna,2,2,D,1,0,H
+ROM,22/02/2015,16:00,Universitatea Cluj,ASA Târgu Mureş,0,3,A,0,1,A
+ROM,22/02/2015,18:30,Steaua Bucureşti,Rapid Bucureşti,0,1,A,0,0,D
+ROM,23/02/2015,16:00,Ceahlăul Piatra Neamt,CFR Cluj,0,0,D,0,0,D
+ROM,23/02/2015,18:30,Pandurii Târgu Jiu,CS Universitatea Craiova,0,1,A,0,0,D
+ROM,27/02/2015,16:00,Concordia Chiajna,Oţelul Galaţi,3,0,H,0,0,D
+ROM,27/02/2015,18:30,FC Botoşani,Petrolul Ploieşti,0,1,A,0,0,D
+ROM,28/02/2015,16:00,CSMS Iaşi,Gaz Metan Mediaş,1,0,H,1,0,H
+ROM,28/02/2015,18:30,Dinamo Bucureşti,Universitatea Cluj,3,0,H,1,0,H
+ROM,01/03/2015,13:30,CS Universitatea Craiova,Steaua Bucureşti,0,0,D,0,0,D
+ROM,01/03/2015,16:00,CFR Cluj,Pandurii Târgu Jiu,0,4,A,0,2,A
+ROM,01/03/2015,18:30,FC Braşov,Astra Giurgiu,1,1,D,1,0,H
+ROM,02/03/2015,16:00,ASA Târgu Mureş,Ceahlăul Piatra Neamt,3,0,H,2,0,H
+ROM,02/03/2015,18:30,Rapid Bucureşti,FC Viitorul Constanța,0,0,D,0,0,D
+ROM,06/03/2015,16:00,Ceahlăul Piatra Neamt,Pandurii Târgu Jiu,1,1,D,0,0,D
+ROM,06/03/2015,18:30,ASA Târgu Mureş,Dinamo Bucureşti,2,1,H,0,1,A
+ROM,07/03/2015,16:00,Oţelul Galaţi,FC Braşov,1,1,D,1,0,H
+ROM,07/03/2015,18:30,Astra Giurgiu,FC Botoşani,2,0,H,2,0,H
+ROM,08/03/2015,13:30,Universitatea Cluj,Concordia Chiajna,0,0,D,0,0,D
+ROM,08/03/2015,16:00,FC Viitorul Constanța,CS Universitatea Craiova,1,1,D,1,1,D
+ROM,08/03/2015,18:30,Steaua Bucureşti,CFR Cluj,1,0,H,0,0,D
+ROM,09/03/2015,16:00,Petrolul Ploieşti,CSMS Iaşi,0,2,A,0,1,A
+ROM,09/03/2015,18:30,Gaz Metan Mediaş,Rapid Bucureşti,0,1,A,0,1,A
+ROM,13/03/2015,14:00,Concordia Chiajna,ASA Târgu Mureş,0,0,D,0,0,D
+ROM,13/03/2015,16:00,FC Braşov,Universitatea Cluj,1,0,H,0,0,D
+ROM,13/03/2015,18:30,Rapid Bucureşti,Petrolul Ploieşti,1,1,D,0,0,D
+ROM,14/03/2015,13:30,CS Universitatea Craiova,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,14/03/2015,16:00,FC Botoşani,Oţelul Galaţi,1,1,D,0,0,D
+ROM,14/03/2015,18:30,Dinamo Bucureşti,Ceahlăul Piatra Neamt,3,1,H,1,1,D
+ROM,15/03/2015,13:30,CSMS Iaşi,Astra Giurgiu,1,0,H,0,0,D
+ROM,15/03/2015,16:00,CFR Cluj,FC Viitorul Constanța,1,2,A,1,2,A
+ROM,15/03/2015,18:30,Pandurii Târgu Jiu,Steaua Bucureşti,3,1,H,1,0,H
+ROM,16/03/2015,18:30,ASA Târgu Mureş,FC Braşov,1,0,H,1,0,H
+ROM,17/03/2015,13:30,Universitatea Cluj,FC Botoşani,0,0,D,0,0,D
+ROM,17/03/2015,15:30,Dinamo Bucureşti,Concordia Chiajna,0,3,A,0,1,A
+ROM,17/03/2015,17:30,Petrolul Ploieşti,CS Universitatea Craiova,1,2,A,0,1,A
+ROM,18/03/2015,13:30,Oţelul Galaţi,CSMS Iaşi,0,0,D,0,0,D
+ROM,18/03/2015,15:30,Astra Giurgiu,Rapid Bucureşti,2,0,H,1,0,H
+ROM,18/03/2015,17:30,Ceahlăul Piatra Neamt,Steaua Bucureşti,0,1,A,0,1,A
+ROM,19/03/2015,12:00,FC Viitorul Constanța,Pandurii Târgu Jiu,4,0,H,1,0,H
+ROM,19/03/2015,14:00,Gaz Metan Mediaş,CFR Cluj,0,0,D,0,0,D
+ROM,20/03/2015,18:30,FC Botoşani,ASA Târgu Mureş,1,2,A,0,1,A
+ROM,21/03/2015,13:30,CS Universitatea Craiova,Astra Giurgiu,0,0,D,0,0,D
+ROM,21/03/2015,16:00,Rapid Bucureşti,Oţelul Galaţi,2,0,H,1,0,H
+ROM,21/03/2015,18:30,FC Braşov,Dinamo Bucureşti,1,0,H,0,0,D
+ROM,22/03/2015,13:30,Pandurii Târgu Jiu,Gaz Metan Mediaş,0,1,A,0,0,D
+ROM,22/03/2015,16:00,CFR Cluj,Petrolul Ploieşti,0,1,A,0,1,A
+ROM,22/03/2015,18:00,Steaua Bucureşti,FC Viitorul Constanța,4,1,H,1,1,D
+ROM,23/03/2015,16:00,Concordia Chiajna,Ceahlăul Piatra Neamt,0,1,A,0,1,A
+ROM,23/03/2015,18:30,CSMS Iaşi,Universitatea Cluj,2,0,H,1,0,H
+ROM,03/04/2015,16:00,ASA Târgu Mureş,CSMS Iaşi,1,0,H,1,0,H
+ROM,03/04/2015,18:30,Dinamo Bucureşti,FC Botoşani,0,0,D,0,0,D
+ROM,04/04/2015,13:30,Oţelul Galaţi,CS Universitatea Craiova,0,1,A,0,0,D
+ROM,04/04/2015,16:00,Astra Giurgiu,CFR Cluj,0,1,A,0,0,D
+ROM,04/04/2015,18:30,Universitatea Cluj,Rapid Bucureşti,1,0,H,0,0,D
+ROM,05/04/2015,13:30,Concordia Chiajna,FC Braşov,1,1,D,1,0,H
+ROM,05/04/2015,16:00,Ceahlăul Piatra Neamt,FC Viitorul Constanța,1,2,A,1,1,D
+ROM,05/04/2015,18:30,Gaz Metan Mediaş,Steaua Bucureşti,1,2,A,1,1,D
+ROM,06/04/2015,18:30,Petrolul Ploieşti,Pandurii Târgu Jiu,0,1,A,0,1,A
+ROM,07/04/2015,15:00,CS Universitatea Craiova,Universitatea Cluj,3,0,H,2,0,H
+ROM,07/04/2015,17:15,CFR Cluj,Oţelul Galaţi,1,0,H,0,0,D
+ROM,07/04/2015,19:30,CSMS Iaşi,Dinamo Bucureşti,1,0,H,1,0,H
+ROM,08/04/2015,15:00,FC Botoşani,Concordia Chiajna,3,0,H,0,0,D
+ROM,08/04/2015,17:15,FC Viitorul Constanța,Gaz Metan Mediaş,1,0,H,0,0,D
+ROM,08/04/2015,19:30,Rapid Bucureşti,ASA Târgu Mureş,1,2,A,0,0,D
+ROM,09/04/2015,15:00,FC Braşov,Ceahlăul Piatra Neamt,0,2,A,0,1,A
+ROM,09/04/2015,17:15,Pandurii Târgu Jiu,Astra Giurgiu,1,1,D,0,0,D
+ROM,09/04/2015,19:30,Steaua Bucureşti,Petrolul Ploieşti,0,1,A,0,0,D
+ROM,10/04/2015,18:00,Universitatea Cluj,CFR Cluj,1,0,H,0,0,D
+ROM,11/04/2015,12:00,Concordia Chiajna,CSMS Iaşi,2,1,H,0,0,D
+ROM,11/04/2015,14:30,ASA Târgu Mureş,CS Universitatea Craiova,2,1,H,1,0,H
+ROM,11/04/2015,17:00,Dinamo Bucureşti,Rapid Bucureşti,2,0,H,1,0,H
+ROM,12/04/2015,15:00,FC Braşov,FC Botoşani,0,1,A,0,0,D
+ROM,12/04/2015,17:30,Astra Giurgiu,Steaua Bucureşti,0,0,D,0,0,D
+ROM,13/04/2015,13:30,Oţelul Galaţi,Pandurii Târgu Jiu,0,2,A,0,2,A
+ROM,13/04/2015,16:00,Ceahlăul Piatra Neamt,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,13/04/2015,18:30,Petrolul Ploieşti,FC Viitorul Constanța,1,2,A,0,1,A
+ROM,17/04/2015,16:00,CSMS Iaşi,FC Braşov,1,0,H,0,0,D
+ROM,17/04/2015,18:30,CFR Cluj,ASA Târgu Mureş,2,2,D,1,1,D
+ROM,18/04/2015,13:30,FC Botoşani,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,18/04/2015,16:00,FC Viitorul Constanța,Astra Giurgiu,2,0,H,2,0,H
+ROM,18/04/2015,18:30,Gaz Metan Mediaş,Petrolul Ploieşti,0,0,D,0,0,D
+ROM,19/04/2015,15:30,CS Universitatea Craiova,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,19/04/2015,18:30,Steaua Bucureşti,Oţelul Galaţi,1,2,A,0,2,A
+ROM,20/04/2015,16:00,Pandurii Târgu Jiu,Universitatea Cluj,0,1,A,0,0,D
+ROM,20/04/2015,18:30,Rapid Bucureşti,Concordia Chiajna,1,0,H,1,0,H
+ROM,24/04/2015,15:00,Concordia Chiajna,CS Universitatea Craiova,2,2,D,1,1,D
+ROM,24/04/2015,17:15,FC Braşov,Rapid Bucureşti,1,2,A,1,1,D
+ROM,24/04/2015,19:30,Dinamo Bucureşti,CFR Cluj,1,1,D,0,0,D
+ROM,25/04/2015,14:00,FC Botoşani,CSMS Iaşi,0,0,D,0,0,D
+ROM,25/04/2015,16:30,ASA Târgu Mureş,Pandurii Târgu Jiu,2,1,H,1,1,D
+ROM,25/04/2015,19:00,Universitatea Cluj,Steaua Bucureşti,0,3,A,0,1,A
+ROM,26/04/2015,16:30,Oţelul Galaţi,FC Viitorul Constanța,3,0,H,2,0,H
+ROM,26/04/2015,19:00,Astra Giurgiu,Gaz Metan Mediaş,1,2,A,1,1,D
+ROM,27/04/2015,19:00,Ceahlăul Piatra Neamt,Petrolul Ploieşti,1,1,D,0,0,D
+ROM,28/04/2015,15:00,CFR Cluj,Concordia Chiajna,2,1,H,0,1,A
+ROM,28/04/2015,17:15,Rapid Bucureşti,FC Botoşani,2,2,D,0,1,A
+ROM,28/04/2015,19:30,Pandurii Târgu Jiu,Dinamo Bucureşti,3,2,H,1,2,A
+ROM,29/04/2015,15:00,CS Universitatea Craiova,FC Braşov,0,1,A,0,0,D
+ROM,29/04/2015,17:15,FC Viitorul Constanța,Universitatea Cluj,1,1,D,0,0,D
+ROM,29/04/2015,19:30,Steaua Bucureşti,ASA Târgu Mureş,0,1,A,0,1,A
+ROM,30/04/2015,15:00,Gaz Metan Mediaş,Oţelul Galaţi,0,0,D,0,0,D
+ROM,30/04/2015,17:15,CSMS Iaşi,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,30/04/2015,19:30,Petrolul Ploieşti,Astra Giurgiu,1,2,A,0,0,D
+ROM,01/05/2015,19:00,Concordia Chiajna,Pandurii Târgu Jiu,1,0,H,0,0,D
+ROM,02/05/2015,14:00,FC Braşov,CFR Cluj,2,2,D,1,1,D
+ROM,02/05/2015,16:30,ASA Târgu Mureş,FC Viitorul Constanța,6,1,H,1,0,H
+ROM,02/05/2015,19:00,FC Botoşani,CS Universitatea Craiova,2,0,H,1,0,H
+ROM,03/05/2015,14:00,Ceahlăul Piatra Neamt,Astra Giurgiu,1,3,A,0,1,A
+ROM,03/05/2015,16:30,Universitatea Cluj,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,03/05/2015,19:00,Dinamo Bucureşti,Steaua Bucureşti,1,3,A,0,0,D
+ROM,04/05/2015,16:30,Oţelul Galaţi,Petrolul Ploieşti,1,1,D,0,1,A
+ROM,04/05/2015,19:00,CSMS Iaşi,Rapid Bucureşti,0,0,D,0,0,D
+ROM,08/05/2015,16:30,Pandurii Târgu Jiu,FC Braşov,2,0,H,1,0,H
+ROM,08/05/2015,19:00,FC Viitorul Constanța,Dinamo Bucureşti,0,2,A,0,0,D
+ROM,09/05/2015,15:00,CS Universitatea Craiova,CSMS Iaşi,0,1,A,0,0,D
+ROM,09/05/2015,17:45,Petrolul Ploieşti,Universitatea Cluj,1,0,H,0,0,D
+ROM,10/05/2015,14:00,CFR Cluj,FC Botoşani,4,0,H,2,0,H
+ROM,10/05/2015,16:30,Gaz Metan Mediaş,ASA Târgu Mureş,1,0,H,0,0,D
+ROM,10/05/2015,19:00,Steaua Bucureşti,Concordia Chiajna,2,2,D,1,0,H
+ROM,11/05/2015,16:00,Astra Giurgiu,Oţelul Galaţi,4,1,H,3,1,H
+ROM,11/05/2015,18:30,Ceahlăul Piatra Neamt,Rapid Bucureşti,0,1,A,0,0,D
+ROM,15/05/2015,16:30,FC Botoşani,Pandurii Târgu Jiu,1,1,D,1,1,D
+ROM,15/05/2015,19:00,Dinamo Bucureşti,Gaz Metan Mediaş,1,1,D,0,0,D
+ROM,16/05/2015,14:00,CSMS Iaşi,CFR Cluj,0,3,A,0,1,A
+ROM,16/05/2015,16:30,FC Braşov,Steaua Bucureşti,2,3,A,2,1,H
+ROM,16/05/2015,19:00,ASA Târgu Mureş,Petrolul Ploieşti,1,0,H,0,0,D
+ROM,17/05/2015,14:00,Concordia Chiajna,FC Viitorul Constanța,2,0,H,1,0,H
+ROM,17/05/2015,16:30,Oţelul Galaţi,Ceahlăul Piatra Neamt,4,1,H,0,0,D
+ROM,17/05/2015,19:00,Rapid Bucureşti,CS Universitatea Craiova,1,2,A,1,0,H
+ROM,18/05/2015,18:30,Universitatea Cluj,Astra Giurgiu,0,0,D,0,0,D
+ROM,22/05/2015,16:30,Gaz Metan Mediaş,Concordia Chiajna,2,0,H,1,0,H
+ROM,22/05/2015,19:00,Petrolul Ploieşti,Dinamo Bucureşti,0,3,A,0,2,A
+ROM,23/05/2015,14:00,Oţelul Galaţi,Universitatea Cluj,2,1,H,1,1,D
+ROM,23/05/2015,16:30,FC Viitorul Constanța,FC Braşov,0,2,A,0,2,A
+ROM,23/05/2015,19:00,CFR Cluj,Rapid Bucureşti,2,1,H,0,0,D
+ROM,24/05/2015,14:00,Ceahlăul Piatra Neamt,CS Universitatea Craiova,2,1,H,0,1,A
+ROM,24/05/2015,16:30,Pandurii Târgu Jiu,CSMS Iaşi,5,2,H,2,0,H
+ROM,24/05/2015,19:00,Astra Giurgiu,ASA Târgu Mureş,3,1,H,1,1,D
+ROM,24/05/2015,19:00,Steaua Bucureşti,FC Botoşani,2,0,H,2,0,H
+ROM,27/05/2015,14:45,Universitatea Cluj,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,27/05/2015,14:45,Rapid Bucureşti,Pandurii Târgu Jiu,0,3,A,0,1,A
+ROM,27/05/2015,16:45,FC Braşov,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,27/05/2015,16:45,Concordia Chiajna,Petrolul Ploieşti,3,2,H,1,1,D
+ROM,28/05/2015,18:00,ASA Târgu Mureş,Oţelul Galaţi,1,2,A,1,0,H
+ROM,28/05/2015,18:00,CSMS Iaşi,Steaua Bucureşti,0,0,D,0,0,D
+ROM,29/05/2015,16:30,FC Botoşani,FC Viitorul Constanța,4,4,D,2,2,D
+ROM,29/05/2015,19:00,Dinamo Bucureşti,Astra Giurgiu,0,2,A,0,1,A
+ROM,30/05/2015,16:00,CS Universitatea Craiova,CFR Cluj,3,0,H,0,0,D

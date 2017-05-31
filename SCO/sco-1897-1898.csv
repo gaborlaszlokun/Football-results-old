@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,04/09/1897,,Celtic FC,Hibernian FC,4,1,H,NaN,NaN,NaN
+SCO,04/09/1897,,Dundee FC,Clyde FC,6,0,H,NaN,NaN,NaN
+SCO,04/09/1897,,Partick Thistle,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,04/09/1897,,St Bernard's FC,Rangers FC,2,4,A,NaN,NaN,NaN
+SCO,04/09/1897,,Third Lanark,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,11/09/1897,,Clyde FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,11/09/1897,,Dundee FC,St Bernard's FC,0,0,D,NaN,NaN,NaN
+SCO,11/09/1897,,Heart of Midlothian,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,11/09/1897,,Rangers FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,11/09/1897,,St. Mirren FC,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,18/09/1897,,Hibernian FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,18/09/1897,,St. Mirren FC,St Bernard's FC,7,2,H,NaN,NaN,NaN
+SCO,20/09/1897,,Heart of Midlothian,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,20/09/1897,,St Bernard's FC,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,25/09/1897,,Celtic FC,Clyde FC,6,1,H,NaN,NaN,NaN
+SCO,25/09/1897,,Heart of Midlothian,St. Mirren FC,2,4,A,NaN,NaN,NaN
+SCO,25/09/1897,,Partick Thistle,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,25/09/1897,,St Bernard's FC,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,25/09/1897,,Third Lanark,Rangers FC,0,3,A,NaN,NaN,NaN
+SCO,27/09/1897,,Rangers FC,Celtic FC,0,4,A,NaN,NaN,NaN
+SCO,27/09/1897,,Third Lanark,Hibernian FC,1,3,A,NaN,NaN,NaN
+SCO,02/10/1897,,Clyde FC,St Bernard's FC,4,2,H,NaN,NaN,NaN
+SCO,02/10/1897,,Dundee FC,Third Lanark,4,2,H,NaN,NaN,NaN
+SCO,02/10/1897,,Hibernian FC,Partick Thistle,4,2,H,NaN,NaN,NaN
+SCO,02/10/1897,,Rangers FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,02/10/1897,,St. Mirren FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,09/10/1897,,Heart of Midlothian,St Bernard's FC,5,1,H,NaN,NaN,NaN
+SCO,09/10/1897,,Hibernian FC,Clyde FC,5,0,H,NaN,NaN,NaN
+SCO,09/10/1897,,Partick Thistle,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,09/10/1897,,St. Mirren FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,09/10/1897,,Third Lanark,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,16/10/1897,,Clyde FC,Rangers FC,1,8,A,NaN,NaN,NaN
+SCO,16/10/1897,,Dundee FC,Heart of Midlothian,1,6,A,NaN,NaN,NaN
+SCO,16/10/1897,,Hibernian FC,St Bernard's FC,6,1,H,NaN,NaN,NaN
+SCO,16/10/1897,,Partick Thistle,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,23/10/1897,,Celtic FC,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,23/10/1897,,Dundee FC,Partick Thistle,5,0,H,NaN,NaN,NaN
+SCO,23/10/1897,,Rangers FC,Clyde FC,7,0,H,NaN,NaN,NaN
+SCO,23/10/1897,,St Bernard's FC,Third Lanark,1,3,A,NaN,NaN,NaN
+SCO,23/10/1897,,St. Mirren FC,Hibernian FC,2,3,A,NaN,NaN,NaN
+SCO,30/10/1897,,Heart of Midlothian,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,30/10/1897,,Partick Thistle,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,30/10/1897,,St Bernard's FC,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,06/11/1897,,Clyde FC,Heart of Midlothian,2,2,D,NaN,NaN,NaN
+SCO,06/11/1897,,Dundee FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,06/11/1897,,Hibernian FC,Third Lanark,6,0,H,NaN,NaN,NaN
+SCO,06/11/1897,,Partick Thistle,St Bernard's FC,5,3,H,NaN,NaN,NaN
+SCO,06/11/1897,,St. Mirren FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,13/11/1897,,Clyde FC,Partick Thistle,2,3,A,NaN,NaN,NaN
+SCO,13/11/1897,,Heart of Midlothian,Third Lanark,2,3,A,NaN,NaN,NaN
+SCO,13/11/1897,,Hibernian FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,20/11/1897,,Dundee FC,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,20/11/1897,,Partick Thistle,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,20/11/1897,,St Bernard's FC,Heart of Midlothian,1,5,A,NaN,NaN,NaN
+SCO,20/11/1897,,Third Lanark,Clyde FC,6,1,H,NaN,NaN,NaN
+SCO,27/11/1897,,Clyde FC,Dundee FC,1,5,A,NaN,NaN,NaN
+SCO,27/11/1897,,Hibernian FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,27/11/1897,,St. Mirren FC,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,04/12/1897,,Celtic FC,Third Lanark,4,0,H,NaN,NaN,NaN
+SCO,04/12/1897,,Dundee FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,04/12/1897,,Heart of Midlothian,Clyde FC,8,1,H,NaN,NaN,NaN
+SCO,04/12/1897,,Rangers FC,St. Mirren FC,9,0,H,NaN,NaN,NaN
+SCO,04/12/1897,,St Bernard's FC,Partick Thistle,9,1,H,NaN,NaN,NaN
+SCO,11/12/1897,,Clyde FC,St. Mirren FC,2,3,A,NaN,NaN,NaN
+SCO,11/12/1897,,Hibernian FC,Rangers FC,0,5,A,NaN,NaN,NaN
+SCO,11/12/1897,,Partick Thistle,Celtic FC,3,6,A,NaN,NaN,NaN
+SCO,11/12/1897,,St Bernard's FC,Dundee FC,4,1,H,NaN,NaN,NaN
+SCO,11/12/1897,,Third Lanark,Heart of Midlothian,2,5,A,NaN,NaN,NaN
+SCO,18/12/1897,,Celtic FC,St Bernard's FC,5,1,H,NaN,NaN,NaN
+SCO,18/12/1897,,Heart of Midlothian,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,18/12/1897,,St. Mirren FC,Third Lanark,0,1,A,NaN,NaN,NaN
+SCO,25/12/1897,,Clyde FC,Celtic FC,1,9,A,NaN,NaN,NaN
+SCO,25/12/1897,,Heart of Midlothian,Partick Thistle,6,2,H,NaN,NaN,NaN
+SCO,25/12/1897,,Hibernian FC,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,25/12/1897,,Rangers FC,Dundee FC,5,0,H,NaN,NaN,NaN
+SCO,25/12/1897,,Third Lanark,St Bernard's FC,6,0,H,NaN,NaN,NaN
+SCO,01/01/1898,,Partick Thistle,Third Lanark,5,2,H,NaN,NaN,NaN
+SCO,01/01/1898,,St Bernard's FC,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,03/01/1898,,Clyde FC,Hibernian FC,2,4,A,NaN,NaN,NaN
+SCO,03/01/1898,,Rangers FC,Partick Thistle,6,1,H,NaN,NaN,NaN
+SCO,15/01/1898,,Celtic FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,29/01/1898,,Celtic FC,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,29/01/1898,,Third Lanark,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,05/02/1898,,St. Mirren FC,Clyde FC,4,0,H,NaN,NaN,NaN
+SCO,12/02/1898,,Celtic FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,12/02/1898,,Dundee FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,12/02/1898,,Third Lanark,Partick Thistle,5,2,H,NaN,NaN,NaN
+SCO,19/03/1898,,Rangers FC,St Bernard's FC,8,1,H,NaN,NaN,NaN
+SCO,09/04/1898,,Rangers FC,Third Lanark,0,0,D,NaN,NaN,NaN
+SCO,11/04/1898,,Celtic FC,Rangers FC,0,0,D,NaN,NaN,NaN

@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ALB,23/08/2014,16:00,KF Elbasani,KF Skënderbeu,0,1,A,0,1,A
+ALB,23/08/2014,19:00,KS Flamurtari Vlorë,KF Teuta Durrës,2,1,H,2,0,H
+ALB,24/08/2014,16:00,KF Tiranë,KF Apolonia Fier,3,0,H,NaN,NaN,NaN
+ALB,24/08/2014,16:00,FK Vllaznia,FK Kukësi,1,2,A,NaN,NaN,NaN
+ALB,24/08/2014,16:00,KF Laçi,FK Partizani,1,1,D,NaN,NaN,NaN
+ALB,30/08/2014,16:00,KF Skënderbeu,KF Laçi,2,0,H,NaN,NaN,NaN
+ALB,30/08/2014,18:00,KF Apolonia Fier,FK Partizani,1,0,H,NaN,NaN,NaN
+ALB,30/08/2014,19:00,KF Tiranë,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,31/08/2014,16:00,FK Kukësi,KF Elbasani,3,0,H,NaN,NaN,NaN
+ALB,31/08/2014,16:00,KF Teuta Durrës,FK Vllaznia,0,1,A,NaN,NaN,NaN
+ALB,10/09/2014,15:00,KS Flamurtari Vlorë,KF Apolonia Fier,3,0,H,NaN,NaN,NaN
+ALB,10/09/2014,15:00,KF Elbasani,KF Teuta Durrës,1,5,A,NaN,NaN,NaN
+ALB,10/09/2014,15:00,KF Laçi,FK Kukësi,0,0,D,NaN,NaN,NaN
+ALB,11/09/2014,15:00,FK Vllaznia,KF Tiranë,1,1,D,NaN,NaN,NaN
+ALB,11/09/2014,18:00,FK Partizani,KF Skënderbeu,1,0,H,NaN,NaN,NaN
+ALB,14/09/2014,13:00,FK Kukësi,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,14/09/2014,16:00,KF Tiranë,KF Elbasani,2,1,H,NaN,NaN,NaN
+ALB,14/09/2014,16:00,KS Flamurtari Vlorë,FK Vllaznia,0,0,D,NaN,NaN,NaN
+ALB,14/09/2014,19:00,KF Teuta Durrës,KF Laçi,0,0,D,NaN,NaN,NaN
+ALB,14/09/2014,19:00,KF Apolonia Fier,KF Skënderbeu,0,0,D,NaN,NaN,NaN
+ALB,19/09/2014,18:00,KF Skënderbeu,FK Kukësi,2,0,H,NaN,NaN,NaN
+ALB,19/09/2014,18:00,FK Partizani,KF Teuta Durrës,2,0,H,NaN,NaN,NaN
+ALB,20/09/2014,13:00,KF Laçi,KF Tiranë,2,0,H,NaN,NaN,NaN
+ALB,20/09/2014,13:00,KF Elbasani,KS Flamurtari Vlorë,0,2,A,NaN,NaN,NaN
+ALB,20/09/2014,13:00,FK Vllaznia,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
+ALB,26/09/2014,16:00,KF Apolonia Fier,FK Kukësi,0,1,A,NaN,NaN,NaN
+ALB,26/09/2014,19:00,KF Tiranë,FK Partizani,0,0,D,NaN,NaN,NaN
+ALB,27/09/2014,15:00,FK Vllaznia,KF Elbasani,1,0,H,NaN,NaN,NaN
+ALB,27/09/2014,18:00,KS Flamurtari Vlorë,KF Laçi,1,1,D,NaN,NaN,NaN
+ALB,27/09/2014,18:00,KF Teuta Durrës,KF Skënderbeu,2,0,H,NaN,NaN,NaN
+ALB,04/10/2014,16:00,FK Partizani,KS Flamurtari Vlorë,0,0,D,NaN,NaN,NaN
+ALB,04/10/2014,19:00,KF Skënderbeu,KF Tiranë,0,0,D,NaN,NaN,NaN
+ALB,05/10/2014,12:00,KF Elbasani,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
+ALB,05/10/2014,12:00,FK Kukësi,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,05/10/2014,12:00,KF Laçi,FK Vllaznia,3,0,H,NaN,NaN,NaN
+ALB,17/10/2014,18:00,KS Flamurtari Vlorë,KF Skënderbeu,1,1,D,NaN,NaN,NaN
+ALB,18/10/2014,13:00,KF Tiranë,FK Kukësi,3,1,H,NaN,NaN,NaN
+ALB,18/10/2014,16:00,KF Elbasani,KF Laçi,0,2,A,NaN,NaN,NaN
+ALB,19/10/2014,12:00,KF Apolonia Fier,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,19/10/2014,12:00,FK Vllaznia,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,25/10/2014,13:00,KF Skënderbeu,FK Vllaznia,3,0,H,NaN,NaN,NaN
+ALB,25/10/2014,13:00,FK Kukësi,KS Flamurtari Vlorë,2,0,H,NaN,NaN,NaN
+ALB,26/10/2014,13:00,KF Laçi,KF Apolonia Fier,3,1,H,NaN,NaN,NaN
+ALB,26/10/2014,16:00,KF Teuta Durrës,KF Tiranë,0,1,A,NaN,NaN,NaN
+ALB,26/10/2014,16:00,FK Partizani,KF Elbasani,1,0,H,NaN,NaN,NaN
+ALB,29/10/2014,13:00,FK Kukësi,FK Vllaznia,2,1,H,NaN,NaN,NaN
+ALB,29/10/2014,13:00,KF Skënderbeu,KF Elbasani,1,0,H,NaN,NaN,NaN
+ALB,29/10/2014,16:00,KF Apolonia Fier,KF Tiranë,0,3,A,NaN,NaN,NaN
+ALB,29/10/2014,16:00,FK Partizani,KF Laçi,2,0,H,NaN,NaN,NaN
+ALB,29/10/2014,16:00,KF Teuta Durrës,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,02/11/2014,12:00,KF Elbasani,FK Kukësi,0,2,A,NaN,NaN,NaN
+ALB,02/11/2014,12:00,FK Vllaznia,KF Teuta Durrës,1,2,A,NaN,NaN,NaN
+ALB,02/11/2014,12:00,KF Laçi,KF Skënderbeu,0,2,A,NaN,NaN,NaN
+ALB,02/11/2014,15:00,FK Partizani,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,02/11/2014,18:00,KS Flamurtari Vlorë,KF Tiranë,0,0,D,NaN,NaN,NaN
+ALB,08/11/2014,13:00,KF Teuta Durrës,KF Elbasani,0,2,A,NaN,NaN,NaN
+ALB,08/11/2014,16:00,KF Tiranë,FK Vllaznia,1,0,H,NaN,NaN,NaN
+ALB,08/11/2014,16:00,KF Skënderbeu,FK Partizani,3,0,H,NaN,NaN,NaN
+ALB,09/11/2014,12:00,FK Kukësi,KF Laçi,1,0,H,NaN,NaN,NaN
+ALB,09/11/2014,15:00,KF Apolonia Fier,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
+ALB,22/11/2014,16:00,FK Vllaznia,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,23/11/2014,13:00,KF Laçi,KF Teuta Durrës,3,0,H,NaN,NaN,NaN
+ALB,23/11/2014,13:00,KF Skënderbeu,KF Apolonia Fier,6,0,H,NaN,NaN,NaN
+ALB,23/11/2014,16:00,KF Elbasani,KF Tiranë,2,3,A,NaN,NaN,NaN
+ALB,23/11/2014,16:00,FK Partizani,FK Kukësi,2,0,H,NaN,NaN,NaN
+ALB,29/11/2014,16:00,KF Apolonia Fier,FK Vllaznia,0,1,A,NaN,NaN,NaN
+ALB,30/11/2014,13:00,KF Tiranë,KF Laçi,0,0,D,NaN,NaN,NaN
+ALB,30/11/2014,13:00,FK Kukësi,KF Skënderbeu,1,0,H,NaN,NaN,NaN
+ALB,30/11/2014,16:00,KF Teuta Durrës,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,01/12/2014,16:00,KS Flamurtari Vlorë,KF Elbasani,2,0,H,NaN,NaN,NaN
+ALB,06/12/2014,12:00,FK Kukësi,KF Apolonia Fier,0,0,D,NaN,NaN,NaN
+ALB,06/12/2014,12:00,KF Skënderbeu,KF Teuta Durrës,3,2,H,NaN,NaN,NaN
+ALB,07/12/2014,12:00,KF Laçi,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
+ALB,07/12/2014,12:00,KF Elbasani,FK Vllaznia,1,4,A,NaN,NaN,NaN
+ALB,08/12/2014,17:00,FK Partizani,KF Tiranë,2,0,H,NaN,NaN,NaN
+ALB,12/12/2014,12:00,KF Teuta Durrës,FK Kukësi,0,3,A,NaN,NaN,NaN
+ALB,13/12/2014,12:00,KF Tiranë,KF Skënderbeu,2,0,H,NaN,NaN,NaN
+ALB,13/12/2014,12:00,FK Vllaznia,KF Laçi,1,0,H,NaN,NaN,NaN
+ALB,13/12/2014,15:00,KS Flamurtari Vlorë,FK Partizani,1,0,H,NaN,NaN,NaN
+ALB,13/12/2014,15:00,KF Apolonia Fier,KF Elbasani,0,1,A,NaN,NaN,NaN
+ALB,17/12/2014,12:00,FK Kukësi,KF Tiranë,1,0,H,NaN,NaN,NaN
+ALB,17/12/2014,12:00,KF Laçi,KF Elbasani,1,0,H,NaN,NaN,NaN
+ALB,17/12/2014,12:00,KF Teuta Durrës,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,17/12/2014,15:00,KF Skënderbeu,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,17/12/2014,15:00,FK Partizani,FK Vllaznia,0,1,A,NaN,NaN,NaN
+ALB,20/12/2014,12:00,KF Apolonia Fier,KF Laçi,0,2,A,NaN,NaN,NaN
+ALB,20/12/2014,15:00,KF Elbasani,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,21/12/2014,16:00,KF Tiranë,KF Teuta Durrës,4,2,H,NaN,NaN,NaN
+ALB,21/12/2014,16:00,FK Vllaznia,KF Skënderbeu,0,1,A,NaN,NaN,NaN
+ALB,21/12/2014,16:00,KS Flamurtari Vlorë,FK Kukësi,0,1,A,NaN,NaN,NaN
+ALB,24/01/2015,13:00,KF Tiranë,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
+ALB,24/01/2015,16:00,FK Vllaznia,FK Kukësi,1,2,A,NaN,NaN,NaN
+ALB,24/01/2015,16:00,KS Flamurtari Vlorë,KF Teuta Durrës,2,1,H,NaN,NaN,NaN
+ALB,25/01/2015,13:00,KF Laçi,FK Partizani,1,1,D,NaN,NaN,NaN
+ALB,25/01/2015,16:00,KF Elbasani,KF Skënderbeu,1,4,A,NaN,NaN,NaN
+ALB,30/01/2015,17:00,KF Tiranë,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,31/01/2015,13:00,FK Kukësi,KF Elbasani,3,0,H,NaN,NaN,NaN
+ALB,31/01/2015,13:00,KF Teuta Durrës,FK Vllaznia,2,1,H,NaN,NaN,NaN
+ALB,31/01/2015,13:00,KF Skënderbeu,KF Laçi,0,0,D,NaN,NaN,NaN
+ALB,31/01/2015,16:00,KF Apolonia Fier,FK Partizani,0,2,A,NaN,NaN,NaN
+ALB,08/02/2015,13:00,KF Elbasani,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,08/02/2015,13:00,KF Laçi,FK Kukësi,2,1,H,NaN,NaN,NaN
+ALB,08/02/2015,16:00,FK Vllaznia,KF Tiranë,0,1,A,NaN,NaN,NaN
+ALB,08/02/2015,16:00,KS Flamurtari Vlorë,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,09/02/2015,17:00,FK Partizani,KF Skënderbeu,0,0,D,NaN,NaN,NaN
+ALB,14/02/2015,13:00,KF Tiranë,KF Elbasani,2,0,H,NaN,NaN,NaN
+ALB,14/02/2015,13:00,FK Kukësi,FK Partizani,3,0,H,NaN,NaN,NaN
+ALB,14/02/2015,13:00,KF Teuta Durrës,KF Laçi,1,3,A,NaN,NaN,NaN
+ALB,14/02/2015,16:00,KS Flamurtari Vlorë,FK Vllaznia,3,0,H,NaN,NaN,NaN
+ALB,14/02/2015,16:00,KF Apolonia Fier,KF Skënderbeu,0,1,A,NaN,NaN,NaN
+ALB,22/02/2015,13:00,KF Laçi,KF Tiranë,3,0,H,NaN,NaN,NaN
+ALB,22/02/2015,13:00,FK Vllaznia,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
+ALB,22/02/2015,16:00,KF Elbasani,KS Flamurtari Vlorë,0,1,A,NaN,NaN,NaN
+ALB,22/02/2015,16:00,FK Partizani,KF Teuta Durrës,2,1,H,NaN,NaN,NaN
+ALB,23/02/2015,17:00,KF Skënderbeu,FK Kukësi,1,1,D,NaN,NaN,NaN
+ALB,28/02/2015,13:00,KF Apolonia Fier,FK Kukësi,2,2,D,NaN,NaN,NaN
+ALB,28/02/2015,13:00,KF Teuta Durrës,KF Skënderbeu,0,1,A,NaN,NaN,NaN
+ALB,28/02/2015,13:00,FK Vllaznia,KF Elbasani,1,1,D,NaN,NaN,NaN
+ALB,12/03/2015,16:00,KS Flamurtari Vlorë,KF Laçi,0,2,A,NaN,NaN,NaN
+ALB,13/03/2015,18:00,KF Tiranë,FK Partizani,1,2,A,NaN,NaN,NaN
+ALB,04/03/2015,13:00,FK Partizani,KS Flamurtari Vlorë,2,1,H,NaN,NaN,NaN
+ALB,04/03/2015,13:00,FK Kukësi,KF Teuta Durrës,5,2,H,NaN,NaN,NaN
+ALB,04/03/2015,13:00,KF Laçi,FK Vllaznia,1,0,H,NaN,NaN,NaN
+ALB,04/03/2015,16:00,KF Skënderbeu,KF Tiranë,1,0,H,NaN,NaN,NaN
+ALB,05/03/2015,13:00,KF Elbasani,KF Apolonia Fier,0,1,A,NaN,NaN,NaN
+ALB,08/03/2015,13:00,KF Elbasani,KF Laçi,0,2,A,NaN,NaN,NaN
+ALB,08/03/2015,13:00,KF Apolonia Fier,KF Teuta Durrës,2,1,H,NaN,NaN,NaN
+ALB,08/03/2015,16:00,KF Tiranë,FK Kukësi,2,0,H,NaN,NaN,NaN
+ALB,08/03/2015,16:00,FK Vllaznia,FK Partizani,1,0,H,NaN,NaN,NaN
+ALB,08/03/2015,17:00,KS Flamurtari Vlorë,KF Skënderbeu,0,1,A,NaN,NaN,NaN
+ALB,15/03/2015,13:00,KF Skënderbeu,FK Vllaznia,3,1,H,NaN,NaN,NaN
+ALB,16/03/2015,14:00,KF Laçi,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
+ALB,16/03/2015,14:00,FK Kukësi,KS Flamurtari Vlorë,4,0,H,NaN,NaN,NaN
+ALB,16/03/2015,17:00,KF Teuta Durrës,KF Tiranë,0,0,D,NaN,NaN,NaN
+ALB,16/03/2015,17:00,FK Partizani,KF Elbasani,4,1,H,NaN,NaN,NaN
+ALB,21/03/2015,13:00,FK Kukësi,FK Vllaznia,1,0,H,NaN,NaN,NaN
+ALB,21/03/2015,13:00,KF Teuta Durrës,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
+ALB,21/03/2015,16:00,KF Skënderbeu,KF Elbasani,5,1,H,NaN,NaN,NaN
+ALB,22/03/2015,13:00,KF Apolonia Fier,KF Tiranë,0,2,A,NaN,NaN,NaN
+ALB,22/03/2015,16:00,FK Partizani,KF Laçi,1,0,H,NaN,NaN,NaN
+ALB,04/04/2015,12:00,KF Elbasani,FK Kukësi,0,4,A,NaN,NaN,NaN
+ALB,04/04/2015,12:00,FK Vllaznia,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,04/04/2015,13:00,KF Laçi,KF Skënderbeu,1,0,H,NaN,NaN,NaN
+ALB,04/04/2015,16:00,KS Flamurtari Vlorë,KF Tiranë,1,2,A,NaN,NaN,NaN
+ALB,04/04/2015,16:00,FK Partizani,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,12/04/2015,13:00,KF Apolonia Fier,KS Flamurtari Vlorë,2,1,H,NaN,NaN,NaN
+ALB,12/04/2015,13:00,KF Teuta Durrës,KF Elbasani,1,0,H,NaN,NaN,NaN
+ALB,12/04/2015,16:00,KF Tiranë,FK Vllaznia,2,1,H,NaN,NaN,NaN
+ALB,13/04/2015,14:00,FK Kukësi,KF Laçi,0,0,D,NaN,NaN,NaN
+ALB,13/04/2015,17:00,KF Skënderbeu,FK Partizani,5,2,H,NaN,NaN,NaN
+ALB,17/04/2015,15:00,KF Laçi,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,18/04/2015,13:00,KF Elbasani,KF Tiranë,1,3,A,NaN,NaN,NaN
+ALB,18/04/2015,13:00,FK Vllaznia,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
+ALB,18/04/2015,16:00,FK Partizani,FK Kukësi,1,1,D,NaN,NaN,NaN
+ALB,18/04/2015,16:00,KF Skënderbeu,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,25/04/2015,13:00,KS Flamurtari Vlorë,KF Elbasani,2,1,H,NaN,NaN,NaN
+ALB,25/04/2015,16:00,KF Teuta Durrës,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,25/04/2015,16:00,KF Apolonia Fier,FK Vllaznia,2,0,H,NaN,NaN,NaN
+ALB,26/04/2015,15:00,FK Kukësi,KF Skënderbeu,0,1,A,NaN,NaN,NaN
+ALB,26/04/2015,18:00,KF Tiranë,KF Laçi,1,0,H,NaN,NaN,NaN
+ALB,02/05/2015,13:00,KF Elbasani,FK Vllaznia,1,1,D,NaN,NaN,NaN
+ALB,02/05/2015,15:00,KF Laçi,KS Flamurtari Vlorë,2,1,H,NaN,NaN,NaN
+ALB,02/05/2015,15:00,FK Kukësi,KF Apolonia Fier,2,1,H,NaN,NaN,NaN
+ALB,02/05/2015,18:00,KF Skënderbeu,KF Teuta Durrës,4,2,H,NaN,NaN,NaN
+ALB,04/05/2015,19:45,FK Partizani,KF Tiranë,2,2,D,NaN,NaN,NaN
+ALB,09/05/2015,15:00,KF Teuta Durrës,FK Kukësi,2,3,A,NaN,NaN,NaN
+ALB,09/05/2015,15:00,FK Vllaznia,KF Laçi,0,1,A,NaN,NaN,NaN
+ALB,09/05/2015,15:00,KS Flamurtari Vlorë,FK Partizani,0,1,A,NaN,NaN,NaN
+ALB,09/05/2015,15:00,KF Apolonia Fier,KF Elbasani,4,1,H,NaN,NaN,NaN
+ALB,09/05/2015,18:00,KF Tiranë,KF Skënderbeu,0,0,D,NaN,NaN,NaN
+ALB,16/05/2015,18:30,KF Skënderbeu,KS Flamurtari Vlorë,2,0,H,NaN,NaN,NaN
+ALB,17/05/2015,16:00,KF Teuta Durrës,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
+ALB,17/05/2015,16:00,FK Partizani,FK Vllaznia,1,0,H,NaN,NaN,NaN
+ALB,17/05/2015,16:00,FK Kukësi,KF Tiranë,4,1,H,NaN,NaN,NaN
+ALB,17/05/2015,16:00,KF Laçi,KF Elbasani,2,0,H,NaN,NaN,NaN
+ALB,22/05/2015,16:00,KS Flamurtari Vlorë,FK Kukësi,1,2,A,NaN,NaN,NaN
+ALB,22/05/2015,16:00,KF Elbasani,FK Partizani,0,3,A,NaN,NaN,NaN
+ALB,22/05/2015,16:00,KF Tiranë,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
+ALB,22/05/2015,16:00,KF Apolonia Fier,KF Laçi,1,4,A,NaN,NaN,NaN
+ALB,22/05/2015,17:00,FK Vllaznia,KF Skënderbeu,0,2,A,NaN,NaN,NaN

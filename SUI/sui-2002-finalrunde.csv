@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,23/02/2002,15:45,FC St. Gallen,Grasshoppers Zürich,2,2,D,NaN,NaN,NaN
+SUI,24/02/2002,13:30,FC Lugano,FC Basel,2,5,A,NaN,NaN,NaN
+SUI,24/02/2002,13:30,BSC Young Boys,FC Sion,4,0,H,NaN,NaN,NaN
+SUI,24/02/2002,15:15,FC Zürich,Servette Genève,0,2,A,NaN,NaN,NaN
+SUI,02/03/2002,15:45,FC Basel,FC Zürich,1,0,H,NaN,NaN,NaN
+SUI,02/03/2002,16:30,Grasshoppers Zürich,BSC Young Boys,1,1,D,NaN,NaN,NaN
+SUI,03/03/2002,13:30,FC Sion,FC St. Gallen,0,2,A,NaN,NaN,NaN
+SUI,03/03/2002,15:15,Servette Genève,FC Lugano,1,0,H,NaN,NaN,NaN
+SUI,06/03/2002,18:30,FC Lugano,Grasshoppers Zürich,1,0,H,NaN,NaN,NaN
+SUI,06/03/2002,18:30,BSC Young Boys,Servette Genève,3,1,H,NaN,NaN,NaN
+SUI,06/03/2002,18:30,FC Zürich,FC Sion,2,1,H,NaN,NaN,NaN
+SUI,04/04/2002,19:30,FC St. Gallen,FC Basel,1,3,A,NaN,NaN,NaN
+SUI,09/03/2002,15:45,Grasshoppers Zürich,FC Zürich,3,0,H,NaN,NaN,NaN
+SUI,09/03/2002,18:30,FC Basel,BSC Young Boys,2,0,H,NaN,NaN,NaN
+SUI,09/03/2002,18:30,Servette Genève,FC St. Gallen,2,2,D,NaN,NaN,NaN
+SUI,20/03/2002,18:00,FC Sion,FC Lugano,1,4,A,NaN,NaN,NaN
+SUI,15/03/2002,19:15,Servette Genève,Grasshoppers Zürich,1,5,A,NaN,NaN,NaN
+SUI,16/03/2002,15:45,FC Zürich,FC St. Gallen,1,0,H,NaN,NaN,NaN
+SUI,16/03/2002,18:30,FC Basel,FC Sion,4,0,H,NaN,NaN,NaN
+SUI,17/03/2002,13:30,FC Lugano,BSC Young Boys,2,1,H,NaN,NaN,NaN
+SUI,23/03/2002,15:45,FC St. Gallen,FC Lugano,0,0,D,NaN,NaN,NaN
+SUI,24/03/2002,13:30,FC Sion,Servette Genève,2,3,A,NaN,NaN,NaN
+SUI,24/03/2002,13:30,BSC Young Boys,FC Zürich,3,2,H,NaN,NaN,NaN
+SUI,24/03/2002,15:15,Grasshoppers Zürich,FC Basel,1,0,H,NaN,NaN,NaN
+SUI,30/03/2002,15:45,BSC Young Boys,FC St. Gallen,1,0,H,NaN,NaN,NaN
+SUI,30/03/2002,16:30,Grasshoppers Zürich,FC Sion,1,0,H,NaN,NaN,NaN
+SUI,30/03/2002,18:30,FC Lugano,FC Zürich,2,0,H,NaN,NaN,NaN
+SUI,01/04/2002,14:00,Servette Genève,FC Basel,1,2,A,NaN,NaN,NaN
+SUI,06/04/2002,19:30,FC Sion,Grasshoppers Zürich,0,2,A,NaN,NaN,NaN
+SUI,07/04/2002,15:15,FC St. Gallen,BSC Young Boys,3,1,H,NaN,NaN,NaN
+SUI,07/04/2002,15:15,FC Basel,Servette Genève,3,2,H,NaN,NaN,NaN
+SUI,07/04/2002,15:15,FC Zürich,FC Lugano,0,2,A,NaN,NaN,NaN
+SUI,13/04/2002,15:45,FC Lugano,FC St. Gallen,1,0,H,NaN,NaN,NaN
+SUI,13/04/2002,16:00,Servette Genève,FC Sion,4,1,H,NaN,NaN,NaN
+SUI,14/04/2002,15:00,FC Basel,Grasshoppers Zürich,4,1,H,NaN,NaN,NaN
+SUI,14/04/2002,15:15,FC Zürich,BSC Young Boys,2,0,H,NaN,NaN,NaN
+SUI,19/04/2002,19:15,Grasshoppers Zürich,Servette Genève,2,2,D,NaN,NaN,NaN
+SUI,20/04/2002,15:45,FC Sion,FC Basel,0,3,A,NaN,NaN,NaN
+SUI,20/04/2002,16:30,FC St. Gallen,FC Zürich,0,1,A,NaN,NaN,NaN
+SUI,20/04/2002,18:30,BSC Young Boys,FC Lugano,2,2,D,NaN,NaN,NaN
+SUI,24/04/2002,18:00,FC St. Gallen,Servette Genève,1,3,A,NaN,NaN,NaN
+SUI,24/04/2002,18:00,BSC Young Boys,FC Basel,0,3,A,NaN,NaN,NaN
+SUI,25/04/2002,18:30,FC Lugano,FC Sion,2,0,H,NaN,NaN,NaN
+SUI,25/04/2002,18:30,FC Zürich,Grasshoppers Zürich,1,1,D,NaN,NaN,NaN
+SUI,27/04/2002,15:45,FC Basel,FC St. Gallen,1,2,A,NaN,NaN,NaN
+SUI,27/04/2002,18:30,Servette Genève,BSC Young Boys,0,0,D,NaN,NaN,NaN
+SUI,28/04/2002,15:15,Grasshoppers Zürich,FC Lugano,2,1,H,NaN,NaN,NaN
+SUI,28/04/2002,15:15,FC Sion,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,04/05/2002,15:30,BSC Young Boys,Grasshoppers Zürich,1,4,A,NaN,NaN,NaN
+SUI,04/05/2002,17:00,FC Lugano,Servette Genève,1,3,A,NaN,NaN,NaN
+SUI,04/05/2002,17:00,FC St. Gallen,FC Sion,2,1,H,NaN,NaN,NaN
+SUI,04/05/2002,17:00,FC Zürich,FC Basel,3,1,H,NaN,NaN,NaN
+SUI,08/05/2002,19:15,FC Basel,FC Lugano,4,3,H,NaN,NaN,NaN
+SUI,08/05/2002,19:15,Grasshoppers Zürich,FC St. Gallen,3,3,D,NaN,NaN,NaN
+SUI,08/05/2002,19:15,FC Sion,BSC Young Boys,3,1,H,NaN,NaN,NaN
+SUI,08/05/2002,19:15,Servette Genève,FC Zürich,0,1,A,NaN,NaN,NaN

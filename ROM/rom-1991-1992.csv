@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,25/08/1991,,FC Braşov,Argeș Pitești,2,1,H,NaN,NaN,NaN
+ROM,25/08/1991,,ASA Târgu Mureș (old),CS Politechnica Timisoara,1,2,A,NaN,NaN,NaN
+ROM,25/08/1991,,Dacia Unirea Braila,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,25/08/1991,,FC Bacau,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,25/08/1991,,Rapid Bucureşti,Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,25/08/1991,,Corvinul Hunedoara,Gloria Bistrita,3,2,H,NaN,NaN,NaN
+ROM,25/08/1991,,Oţelul Galaţi,Farul Constanta,1,0,H,NaN,NaN,NaN
+ROM,25/08/1991,,Dinamo Bucureşti,Petrolul Ploieşti,6,0,H,NaN,NaN,NaN
+ROM,25/08/1991,,Electroputere Craiova,Inter Sibiu,1,1,D,NaN,NaN,NaN
+ROM,01/09/1991,,Inter Sibiu,FC Bacau,1,1,D,NaN,NaN,NaN
+ROM,01/09/1991,,CS Politechnica Timisoara,Oţelul Galaţi,3,0,H,NaN,NaN,NaN
+ROM,01/09/1991,,Gloria Bistrita,FC Braşov,2,1,H,NaN,NaN,NaN
+ROM,01/09/1991,,Farul Constanta,Electroputere Craiova,0,1,A,NaN,NaN,NaN
+ROM,01/09/1991,,FC Universitatea Craiova,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,01/09/1991,,Sportul Studenţesc,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,01/09/1991,,Argeș Pitești,Rapid Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,01/09/1991,,Petrolul Ploieşti,Corvinul Hunedoara,2,1,H,NaN,NaN,NaN
+ROM,01/09/1991,,Steaua Bucureşti,Dacia Unirea Braila,2,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Dinamo Bucureşti,Inter Sibiu,5,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Petrolul Ploieşti,Gloria Bistrita,1,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Oţelul Galaţi,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Corvinul Hunedoara,Sportul Studenţesc,4,1,H,NaN,NaN,NaN
+ROM,08/09/1991,,FC Bacau,Farul Constanta,1,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Electroputere Craiova,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,ASA Târgu Mureș (old),Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,08/09/1991,,Rapid Bucureşti,FC Braşov,2,1,H,NaN,NaN,NaN
+ROM,08/09/1991,,Dacia Unirea Braila,Argeș Pitești,1,1,D,NaN,NaN,NaN
+ROM,11/09/1991,,Steaua Bucureşti,Oţelul Galaţi,2,0,H,NaN,NaN,NaN
+ROM,11/09/1991,,CS Politechnica Timisoara,FC Bacau,4,0,H,NaN,NaN,NaN
+ROM,12/09/1991,,Farul Constanta,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,13/09/1991,,FC Universitatea Craiova,Electroputere Craiova,1,0,H,NaN,NaN,NaN
+ROM,15/09/1991,,Gloria Bistrita,Rapid Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,15/09/1991,,Argeș Pitești,ASA Târgu Mureș (old),5,0,H,NaN,NaN,NaN
+ROM,15/09/1991,,Sportul Studenţesc,Petrolul Ploieşti,0,3,A,NaN,NaN,NaN
+ROM,15/09/1991,,Inter Sibiu,Corvinul Hunedoara,4,1,H,NaN,NaN,NaN
+ROM,15/09/1991,,FC Braşov,Dacia Unirea Braila,2,1,H,NaN,NaN,NaN
+ROM,22/09/1991,,FC Bacau,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,22/09/1991,,Oţelul Galaţi,Argeș Pitești,1,1,D,NaN,NaN,NaN
+ROM,22/09/1991,,Electroputere Craiova,Steaua Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,22/09/1991,,Sportul Studenţesc,Gloria Bistrita,1,1,D,NaN,NaN,NaN
+ROM,22/09/1991,,Dinamo Bucureşti,CS Politechnica Timisoara,4,1,H,NaN,NaN,NaN
+ROM,22/09/1991,,Petrolul Ploieşti,Inter Sibiu,3,1,H,NaN,NaN,NaN
+ROM,22/09/1991,,ASA Târgu Mureș (old),FC Braşov,2,2,D,NaN,NaN,NaN
+ROM,22/09/1991,,Corvinul Hunedoara,Farul Constanta,0,1,A,NaN,NaN,NaN
+ROM,22/09/1991,,Dacia Unirea Braila,Rapid Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,26/09/1991,,FC Universitatea Craiova,Dinamo Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,28/09/1991,,Steaua Bucureşti,FC Bacau,4,1,H,NaN,NaN,NaN
+ROM,29/09/1991,,Farul Constanta,Petrolul Ploieşti,1,2,A,NaN,NaN,NaN
+ROM,29/09/1991,,Inter Sibiu,Sportul Studenţesc,2,3,A,NaN,NaN,NaN
+ROM,29/09/1991,,Rapid Bucureşti,ASA Târgu Mureș (old),0,1,A,NaN,NaN,NaN
+ROM,29/09/1991,,CS Politechnica Timisoara,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,29/09/1991,,FC Braşov,Oţelul Galaţi,0,2,A,NaN,NaN,NaN
+ROM,29/09/1991,,Gloria Bistrita,Dacia Unirea Braila,4,2,H,NaN,NaN,NaN
+ROM,29/09/1991,,Argeș Pitești,Electroputere Craiova,1,1,D,NaN,NaN,NaN
+ROM,06/10/1991,,FC Bacau,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,06/10/1991,,Dinamo Bucureşti,Steaua Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,06/10/1991,,Sportul Studenţesc,Farul Constanta,1,0,H,NaN,NaN,NaN
+ROM,06/10/1991,,Petrolul Ploieşti,CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,06/10/1991,,Oţelul Galaţi,Rapid Bucureşti,3,2,H,NaN,NaN,NaN
+ROM,06/10/1991,,ASA Târgu Mureș (old),Dacia Unirea Braila,3,1,H,NaN,NaN,NaN
+ROM,06/10/1991,,Corvinul Hunedoara,FC Universitatea Craiova,0,3,A,NaN,NaN,NaN
+ROM,06/10/1991,,Inter Sibiu,Gloria Bistrita,1,1,D,NaN,NaN,NaN
+ROM,06/10/1991,,Electroputere Craiova,FC Braşov,2,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,Steaua Bucureşti,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,FC Universitatea Craiova,Petrolul Ploieşti,0,0,D,NaN,NaN,NaN
+ROM,09/10/1991,,CS Politechnica Timisoara,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,FC Braşov,FC Bacau,3,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,Gloria Bistrita,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,Farul Constanta,Inter Sibiu,1,0,H,NaN,NaN,NaN
+ROM,09/10/1991,,Argeș Pitești,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,09/10/1991,,Dacia Unirea Braila,Oţelul Galaţi,1,2,A,NaN,NaN,NaN
+ROM,10/10/1991,,Rapid Bucureşti,Electroputere Craiova,2,0,H,NaN,NaN,NaN
+ROM,19/10/1991,,Petrolul Ploieşti,Steaua Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,19/10/1991,,Dinamo Bucureşti,FC Braşov,5,2,H,NaN,NaN,NaN
+ROM,20/10/1991,,Sportul Studenţesc,FC Universitatea Craiova,1,3,A,NaN,NaN,NaN
+ROM,20/10/1991,,FC Bacau,Rapid Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,20/10/1991,,Inter Sibiu,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,20/10/1991,,Oţelul Galaţi,ASA Târgu Mureș (old),3,2,H,NaN,NaN,NaN
+ROM,20/10/1991,,Corvinul Hunedoara,Argeș Pitești,4,1,H,NaN,NaN,NaN
+ROM,20/10/1991,,Electroputere Craiova,Dacia Unirea Braila,1,0,H,NaN,NaN,NaN
+ROM,20/10/1991,,Farul Constanta,Gloria Bistrita,3,1,H,NaN,NaN,NaN
+ROM,27/10/1991,,Argeș Pitești,Petrolul Ploieşti,2,1,H,NaN,NaN,NaN
+ROM,27/10/1991,,FC Universitatea Craiova,Inter Sibiu,2,0,H,NaN,NaN,NaN
+ROM,27/10/1991,,Steaua Bucureşti,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,27/10/1991,,Dacia Unirea Braila,FC Bacau,2,1,H,NaN,NaN,NaN
+ROM,27/10/1991,,Rapid Bucureşti,Dinamo Bucureşti,0,3,A,NaN,NaN,NaN
+ROM,27/10/1991,,CS Politechnica Timisoara,Farul Constanta,1,1,D,NaN,NaN,NaN
+ROM,27/10/1991,,ASA Târgu Mureș (old),Electroputere Craiova,1,0,H,NaN,NaN,NaN
+ROM,27/10/1991,,FC Braşov,Corvinul Hunedoara,4,1,H,NaN,NaN,NaN
+ROM,27/10/1991,,Gloria Bistrita,Oţelul Galaţi,1,0,H,NaN,NaN,NaN
+ROM,31/10/1991,,Dinamo Bucureşti,Dacia Unirea Braila,2,1,H,NaN,NaN,NaN
+ROM,02/11/1991,,Inter Sibiu,Steaua Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,03/11/1991,,Electroputere Craiova,Oţelul Galaţi,1,0,H,NaN,NaN,NaN
+ROM,03/11/1991,,Farul Constanta,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,03/11/1991,,Sportul Studenţesc,Argeș Pitești,2,2,D,NaN,NaN,NaN
+ROM,03/11/1991,,FC Bacau,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,03/11/1991,,Corvinul Hunedoara,Rapid Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,03/11/1991,,Petrolul Ploieşti,FC Braşov,4,1,H,NaN,NaN,NaN
+ROM,04/11/1991,,CS Politechnica Timisoara,Gloria Bistrita,2,2,D,NaN,NaN,NaN
+ROM,23/11/1991,,Steaua Bucureşti,Farul Constanta,2,1,H,NaN,NaN,NaN
+ROM,24/11/1991,,FC Universitatea Craiova,CS Politechnica Timisoara,1,1,D,NaN,NaN,NaN
+ROM,24/11/1991,,FC Braşov,Sportul Studenţesc,1,1,D,NaN,NaN,NaN
+ROM,24/11/1991,,Rapid Bucureşti,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,24/11/1991,,Oţelul Galaţi,FC Bacau,3,0,H,NaN,NaN,NaN
+ROM,24/11/1991,,ASA Târgu Mureș (old),Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,24/11/1991,,Dacia Unirea Braila,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,24/11/1991,,Gloria Bistrita,Electroputere Craiova,2,0,H,NaN,NaN,NaN
+ROM,24/11/1991,,Argeș Pitești,Inter Sibiu,1,0,H,NaN,NaN,NaN
+ROM,30/11/1991,,Dinamo Bucureşti,Oţelul Galaţi,4,1,H,NaN,NaN,NaN
+ROM,01/12/1991,,FC Universitatea Craiova,Gloria Bistrita,2,0,H,NaN,NaN,NaN
+ROM,01/12/1991,,Sportul Studenţesc,Rapid Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,01/12/1991,,CS Politechnica Timisoara,Steaua Bucureşti,0,3,A,NaN,NaN,NaN
+ROM,01/12/1991,,Corvinul Hunedoara,ASA Târgu Mureș (old),4,2,H,NaN,NaN,NaN
+ROM,01/12/1991,,Petrolul Ploieşti,Dacia Unirea Braila,3,1,H,NaN,NaN,NaN
+ROM,01/12/1991,,Inter Sibiu,FC Braşov,2,1,H,NaN,NaN,NaN
+ROM,01/12/1991,,Farul Constanta,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,01/12/1991,,FC Bacau,Electroputere Craiova,2,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,Steaua Bucureşti,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,FC Bacau,Gloria Bistrita,0,2,A,NaN,NaN,NaN
+ROM,04/12/1991,,Dacia Unirea Braila,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,Rapid Bucureşti,Inter Sibiu,1,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,Argeș Pitești,CS Politechnica Timisoara,3,1,H,NaN,NaN,NaN
+ROM,04/12/1991,,Oţelul Galaţi,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,ASA Târgu Mureș (old),Petrolul Ploieşti,4,0,H,NaN,NaN,NaN
+ROM,04/12/1991,,Electroputere Craiova,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,04/12/1991,,FC Braşov,Farul Constanta,2,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,Sportul Studenţesc,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,Dinamo Bucureşti,FC Bacau,3,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,CS Politechnica Timisoara,FC Braşov,2,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,Petrolul Ploieşti,Oţelul Galaţi,1,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,Corvinul Hunedoara,Electroputere Craiova,0,0,D,NaN,NaN,NaN
+ROM,08/12/1991,,Inter Sibiu,Dacia Unirea Braila,1,0,H,NaN,NaN,NaN
+ROM,08/12/1991,,FC Universitatea Craiova,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,09/12/1991,,Farul Constanta,Rapid Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,17/12/1991,,Gloria Bistrita,Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,11/12/1991,,Oţelul Galaţi,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,11/12/1991,,FC Bacau,Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,11/12/1991,,ASA Târgu Mureș (old),Inter Sibiu,1,3,A,NaN,NaN,NaN
+ROM,11/12/1991,,Dinamo Bucureşti,Gloria Bistrita,2,1,H,NaN,NaN,NaN
+ROM,11/12/1991,,Electroputere Craiova,Petrolul Ploieşti,6,0,H,NaN,NaN,NaN
+ROM,11/12/1991,,FC Braşov,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,12/12/1991,,Rapid Bucureşti,CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,20/12/1991,,Argeș Pitești,Steaua Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,21/12/1991,,Dacia Unirea Braila,Farul Constanta,3,0,H,NaN,NaN,NaN
+ROM,15/12/1991,,Sportul Studenţesc,Electroputere Craiova,0,3,A,NaN,NaN,NaN
+ROM,15/12/1991,,Petrolul Ploieşti,FC Bacau,3,1,H,NaN,NaN,NaN
+ROM,15/12/1991,,FC Universitatea Craiova,Rapid Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,15/12/1991,,Gloria Bistrita,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,15/12/1991,,CS Politechnica Timisoara,Dacia Unirea Braila,1,0,H,NaN,NaN,NaN
+ROM,15/12/1991,,Inter Sibiu,Oţelul Galaţi,2,1,H,NaN,NaN,NaN
+ROM,15/12/1991,,Corvinul Hunedoara,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,15/12/1991,,Steaua Bucureşti,FC Braşov,2,2,D,NaN,NaN,NaN
+ROM,15/12/1991,,Farul Constanta,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,08/03/1992,,Petrolul Ploieşti,Dinamo Bucureşti,0,4,A,NaN,NaN,NaN
+ROM,08/03/1992,,Steaua Bucureşti,Rapid Bucureşti,3,0,H,NaN,NaN,NaN
+ROM,08/03/1992,,Sportul Studenţesc,FC Selena Bacau,2,1,H,NaN,NaN,NaN
+ROM,08/03/1992,,CS Politechnica Timisoara,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,08/03/1992,,Farul Constanta,Oţelul Galaţi,3,0,H,NaN,NaN,NaN
+ROM,08/03/1992,,Gloria Bistrita,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,08/03/1992,,Inter Sibiu,Electroputere Craiova,2,1,H,NaN,NaN,NaN
+ROM,08/03/1992,,Argeș Pitești,FC Braşov,0,1,A,NaN,NaN,NaN
+ROM,08/03/1992,,FC Universitatea Craiova,Dacia Unirea Braila,0,2,A,NaN,NaN,NaN
+ROM,15/03/1992,,Rapid Bucureşti,Argeș Pitești,0,0,D,NaN,NaN,NaN
+ROM,15/03/1992,,Dacia Unirea Braila,Steaua Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,15/03/1992,,Dinamo Bucureşti,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,15/03/1992,,FC Selena Bacau,Inter Sibiu,0,0,D,NaN,NaN,NaN
+ROM,15/03/1992,,FC Braşov,Gloria Bistrita,2,1,H,NaN,NaN,NaN
+ROM,15/03/1992,,Oţelul Galaţi,CS Politechnica Timisoara,0,1,A,NaN,NaN,NaN
+ROM,15/03/1992,,Corvinul Hunedoara,Petrolul Ploieşti,1,1,D,NaN,NaN,NaN
+ROM,15/03/1992,,ASA Târgu Mureș (old),FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,15/03/1992,,Electroputere Craiova,Farul Constanta,3,0,H,NaN,NaN,NaN
+ROM,22/03/1992,,Gloria Bistrita,Petrolul Ploieşti,1,1,D,NaN,NaN,NaN
+ROM,22/03/1992,,Steaua Bucureşti,ASA Târgu Mureș (old),4,0,H,NaN,NaN,NaN
+ROM,22/03/1992,,Farul Constanta,FC Selena Bacau,3,0,H,NaN,NaN,NaN
+ROM,22/03/1992,,FC Braşov,Rapid Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,22/03/1992,,CS Politechnica Timisoara,Electroputere Craiova,0,0,D,NaN,NaN,NaN
+ROM,22/03/1992,,FC Universitatea Craiova,Oţelul Galaţi,0,0,D,NaN,NaN,NaN
+ROM,22/03/1992,,Sportul Studenţesc,Corvinul Hunedoara,3,0,H,NaN,NaN,NaN
+ROM,22/03/1992,,Inter Sibiu,Dinamo Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,22/03/1992,,Argeș Pitești,Dacia Unirea Braila,1,2,A,NaN,NaN,NaN
+ROM,28/03/1992,,Oţelul Galaţi,Steaua Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,29/03/1992,,Petrolul Ploieşti,Sportul Studenţesc,0,0,D,NaN,NaN,NaN
+ROM,29/03/1992,,FC Selena Bacau,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,29/03/1992,,Rapid Bucureşti,Gloria Bistrita,1,0,H,NaN,NaN,NaN
+ROM,29/03/1992,,Corvinul Hunedoara,Inter Sibiu,1,2,A,NaN,NaN,NaN
+ROM,29/03/1992,,Dacia Unirea Braila,FC Braşov,3,2,H,NaN,NaN,NaN
+ROM,29/03/1992,,Electroputere Craiova,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,29/03/1992,,Dinamo Bucureşti,Farul Constanta,4,0,H,NaN,NaN,NaN
+ROM,29/03/1992,,ASA Târgu Mureș (old),Argeș Pitești,4,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,Steaua Bucureşti,Electroputere Craiova,3,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,FC Universitatea Craiova,FC Selena Bacau,4,1,H,NaN,NaN,NaN
+ROM,04/04/1992,,Rapid Bucureşti,Dacia Unirea Braila,1,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,Argeș Pitești,Oţelul Galaţi,4,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,Inter Sibiu,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,FC Braşov,ASA Târgu Mureș (old),3,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,Farul Constanta,Corvinul Hunedoara,5,0,H,NaN,NaN,NaN
+ROM,04/04/1992,,CS Politechnica Timisoara,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,05/04/1992,,Gloria Bistrita,Sportul Studenţesc,0,0,D,NaN,NaN,NaN
+ROM,11/04/1992,,Oţelul Galaţi,FC Braşov,1,0,H,NaN,NaN,NaN
+ROM,11/04/1992,,Corvinul Hunedoara,CS Politechnica Timisoara,1,3,A,NaN,NaN,NaN
+ROM,12/04/1992,,Dinamo Bucureşti,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,12/04/1992,,FC Selena Bacau,Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,12/04/1992,,Sportul Studenţesc,Inter Sibiu,1,0,H,NaN,NaN,NaN
+ROM,12/04/1992,,ASA Târgu Mureș (old),Rapid Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,12/04/1992,,Petrolul Ploieşti,Farul Constanta,1,0,H,NaN,NaN,NaN
+ROM,12/04/1992,,Electroputere Craiova,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,12/04/1992,,Dacia Unirea Braila,Gloria Bistrita,1,2,A,NaN,NaN,NaN
+ROM,19/04/1992,,FC Universitatea Craiova,Corvinul Hunedoara,3,0,H,NaN,NaN,NaN
+ROM,19/04/1992,,Argeș Pitești,FC Selena Bacau,2,4,A,NaN,NaN,NaN
+ROM,19/04/1992,,Farul Constanta,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,19/04/1992,,Rapid Bucureşti,Oţelul Galaţi,2,0,H,NaN,NaN,NaN
+ROM,19/04/1992,,Dacia Unirea Braila,ASA Târgu Mureș (old),0,0,D,NaN,NaN,NaN
+ROM,19/04/1992,,CS Politechnica Timisoara,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,19/04/1992,,Steaua Bucureşti,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,19/04/1992,,FC Braşov,Electroputere Craiova,3,1,H,NaN,NaN,NaN
+ROM,27/05/1992,,Gloria Bistrita,Inter Sibiu,2,1,H,NaN,NaN,NaN
+ROM,25/04/1992,,Corvinul Hunedoara,Steaua Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,25/04/1992,,Sportul Studenţesc,CS Politechnica Timisoara,2,0,H,NaN,NaN,NaN
+ROM,25/04/1992,,Petrolul Ploieşti,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,25/04/1992,,FC Selena Bacau,FC Braşov,2,2,D,NaN,NaN,NaN
+ROM,25/04/1992,,Electroputere Craiova,Rapid Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,25/04/1992,,ASA Târgu Mureș (old),Gloria Bistrita,0,3,A,NaN,NaN,NaN
+ROM,25/04/1992,,Dinamo Bucureşti,Argeș Pitești,3,1,H,NaN,NaN,NaN
+ROM,25/04/1992,,Oţelul Galaţi,Dacia Unirea Braila,1,1,D,NaN,NaN,NaN
+ROM,16/05/1992,,Inter Sibiu,Farul Constanta,3,1,H,NaN,NaN,NaN
+ROM,29/04/1992,,Argeș Pitești,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,29/04/1992,,FC Universitatea Craiova,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,29/04/1992,,Rapid Bucureşti,FC Selena Bacau,1,1,D,NaN,NaN,NaN
+ROM,29/04/1992,,Gloria Bistrita,Farul Constanta,0,2,A,NaN,NaN,NaN
+ROM,29/04/1992,,ASA Târgu Mureș (old),Oţelul Galaţi,2,2,D,NaN,NaN,NaN
+ROM,29/04/1992,,FC Braşov,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,29/04/1992,,Dacia Unirea Braila,Electroputere Craiova,2,1,H,NaN,NaN,NaN
+ROM,29/04/1992,,Steaua Bucureşti,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,10/06/1992,,CS Politechnica Timisoara,Inter Sibiu,2,1,H,NaN,NaN,NaN
+ROM,09/05/1992,,Dinamo Bucureşti,Rapid Bucureşti,4,4,D,NaN,NaN,NaN
+ROM,10/05/1992,,Corvinul Hunedoara,FC Braşov,2,5,A,NaN,NaN,NaN
+ROM,10/05/1992,,Inter Sibiu,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,10/05/1992,,Sportul Studenţesc,Steaua Bucureşti,2,4,A,NaN,NaN,NaN
+ROM,10/05/1992,,FC Selena Bacau,Dacia Unirea Braila,0,1,A,NaN,NaN,NaN
+ROM,10/05/1992,,Oţelul Galaţi,Gloria Bistrita,1,0,H,NaN,NaN,NaN
+ROM,10/05/1992,,Electroputere Craiova,ASA Târgu Mureș (old),3,1,H,NaN,NaN,NaN
+ROM,10/05/1992,,Petrolul Ploieşti,Argeș Pitești,1,1,D,NaN,NaN,NaN
+ROM,10/05/1992,,Farul Constanta,CS Politechnica Timisoara,1,1,D,NaN,NaN,NaN
+ROM,13/05/1992,,Rapid Bucureşti,Corvinul Hunedoara,0,0,D,NaN,NaN,NaN
+ROM,13/05/1992,,FC Universitatea Craiova,Farul Constanta,1,1,D,NaN,NaN,NaN
+ROM,13/05/1992,,Steaua Bucureşti,Inter Sibiu,2,0,H,NaN,NaN,NaN
+ROM,13/05/1992,,Argeș Pitești,Sportul Studenţesc,3,1,H,NaN,NaN,NaN
+ROM,13/05/1992,,ASA Târgu Mureș (old),FC Selena Bacau,0,0,D,NaN,NaN,NaN
+ROM,13/05/1992,,Oţelul Galaţi,Electroputere Craiova,1,0,H,NaN,NaN,NaN
+ROM,13/05/1992,,Gloria Bistrita,CS Politechnica Timisoara,0,1,A,NaN,NaN,NaN
+ROM,13/05/1992,,FC Braşov,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,13/05/1992,,Dacia Unirea Braila,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,24/05/1992,,Corvinul Hunedoara,Dacia Unirea Braila,1,1,D,NaN,NaN,NaN
+ROM,24/05/1992,,Inter Sibiu,Argeș Pitești,2,1,H,NaN,NaN,NaN
+ROM,24/05/1992,,CS Politechnica Timisoara,FC Universitatea Craiova,0,0,D,NaN,NaN,NaN
+ROM,24/05/1992,,Farul Constanta,Steaua Bucureşti,0,5,A,NaN,NaN,NaN
+ROM,24/05/1992,,FC Selena Bacau,Oţelul Galaţi,1,0,H,NaN,NaN,NaN
+ROM,24/05/1992,,Dinamo Bucureşti,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,24/05/1992,,Electroputere Craiova,Gloria Bistrita,2,1,H,NaN,NaN,NaN
+ROM,24/05/1992,,Sportul Studenţesc,FC Braşov,2,1,H,NaN,NaN,NaN
+ROM,24/05/1992,,Petrolul Ploieşti,Rapid Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,31/05/1992,,ASA Târgu Mureș (old),Corvinul Hunedoara,2,0,H,NaN,NaN,NaN
+ROM,31/05/1992,,Steaua Bucureşti,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,31/05/1992,,Rapid Bucureşti,Sportul Studenţesc,1,1,D,NaN,NaN,NaN
+ROM,31/05/1992,,Oţelul Galaţi,Dinamo Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,31/05/1992,,Dacia Unirea Braila,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,31/05/1992,,FC Braşov,Inter Sibiu,2,0,H,NaN,NaN,NaN
+ROM,31/05/1992,,Argeș Pitești,Farul Constanta,2,0,H,NaN,NaN,NaN
+ROM,31/05/1992,,Gloria Bistrita,FC Universitatea Craiova,3,0,H,NaN,NaN,NaN
+ROM,31/05/1992,,Electroputere Craiova,FC Selena Bacau,4,0,H,NaN,NaN,NaN
+ROM,07/06/1992,,Corvinul Hunedoara,Oţelul Galaţi,3,1,H,NaN,NaN,NaN
+ROM,07/06/1992,,Inter Sibiu,Rapid Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,07/06/1992,,FC Universitatea Craiova,Steaua Bucureşti,5,4,H,NaN,NaN,NaN
+ROM,07/06/1992,,Gloria Bistrita,FC Selena Bacau,2,0,H,NaN,NaN,NaN
+ROM,07/06/1992,,CS Politechnica Timisoara,Argeș Pitești,2,1,H,NaN,NaN,NaN
+ROM,07/06/1992,,Petrolul Ploieşti,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,07/06/1992,,Farul Constanta,FC Braşov,3,1,H,NaN,NaN,NaN
+ROM,07/06/1992,,Dinamo Bucureşti,Electroputere Craiova,1,0,H,NaN,NaN,NaN
+ROM,07/06/1992,,Sportul Studenţesc,Dacia Unirea Braila,0,1,A,NaN,NaN,NaN
+ROM,14/06/1992,,Electroputere Craiova,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,14/06/1992,,Argeș Pitești,FC Universitatea Craiova,0,2,A,NaN,NaN,NaN
+ROM,14/06/1992,,Rapid Bucureşti,Farul Constanta,2,1,H,NaN,NaN,NaN
+ROM,14/06/1992,,Steaua Bucureşti,Gloria Bistrita,3,1,H,NaN,NaN,NaN
+ROM,14/06/1992,,FC Selena Bacau,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,14/06/1992,,FC Braşov,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,14/06/1992,,Oţelul Galaţi,Petrolul Ploieşti,2,1,H,NaN,NaN,NaN
+ROM,14/06/1992,,Dacia Unirea Braila,Inter Sibiu,2,0,H,NaN,NaN,NaN
+ROM,14/06/1992,,ASA Târgu Mureș (old),Sportul Studenţesc,1,2,A,NaN,NaN,NaN
+ROM,17/06/1992,,Corvinul Hunedoara,FC Selena Bacau,3,0,H,NaN,NaN,NaN
+ROM,17/06/1992,,FC Universitatea Craiova,FC Braşov,1,0,H,NaN,NaN,NaN
+ROM,17/06/1992,,Steaua Bucureşti,Argeș Pitești,5,1,H,NaN,NaN,NaN
+ROM,17/06/1992,,CS Politechnica Timisoara,Rapid Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,17/06/1992,,Inter Sibiu,ASA Târgu Mureș (old),4,0,H,NaN,NaN,NaN
+ROM,17/06/1992,,Gloria Bistrita,Dinamo Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,17/06/1992,,Petrolul Ploieşti,Electroputere Craiova,1,2,A,NaN,NaN,NaN
+ROM,17/06/1992,,Farul Constanta,Dacia Unirea Braila,4,1,H,NaN,NaN,NaN
+ROM,17/06/1992,,Sportul Studenţesc,Oţelul Galaţi,5,2,H,NaN,NaN,NaN
+ROM,21/06/1992,,Oţelul Galaţi,Inter Sibiu,1,0,H,NaN,NaN,NaN
+ROM,21/06/1992,,Electroputere Craiova,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,21/06/1992,,FC Selena Bacau,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,21/06/1992,,Rapid Bucureşti,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,21/06/1992,,Dacia Unirea Braila,CS Politechnica Timisoara,4,0,H,NaN,NaN,NaN
+ROM,21/06/1992,,ASA Târgu Mureș (old),Farul Constanta,3,0,H,NaN,NaN,NaN
+ROM,21/06/1992,,Argeș Pitești,Gloria Bistrita,1,1,D,NaN,NaN,NaN
+ROM,21/06/1992,,Dinamo Bucureşti,Corvinul Hunedoara,5,1,H,NaN,NaN,NaN
+ROM,21/06/1992,,FC Braşov,Steaua Bucureşti,3,2,H,NaN,NaN,NaN

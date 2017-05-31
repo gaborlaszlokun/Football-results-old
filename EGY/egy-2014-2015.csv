@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+EGY,15/09/2014,14:15,Haras El Hodood,Alassiouty Sport,2,1,H,1,0,H
+EGY,15/09/2014,14:15,El Gouna,Ittihad El-Iskandary,0,0,D,0,0,D
+EGY,15/09/2014,14:15,PetroJet Football Club,Wadi Degla FC,1,1,D,1,0,H
+EGY,15/09/2014,14:15,El Daklyeh,Al-Mokawloon,2,0,H,0,0,D
+EGY,15/09/2014,17:15,Tala'ea El-Gaish SC,Al Nasr FC,5,0,H,2,0,H
+EGY,16/09/2014,14:15,Smouha Sporting Club,Ala'ab Damanhour,5,1,H,2,0,H
+EGY,16/09/2014,14:15,Misr El-Maqasah SC,El Raja Sporting Club,2,1,H,2,0,H
+EGY,16/09/2014,17:00,Al-Masry Club,Ismaily,2,2,D,0,2,A
+EGY,18/10/2014,18:00,Al-Ahly,Ittihad El-Shorta,3,0,H,2,0,H
+EGY,25/12/2014,17:00,ENPPI,Zamalek,2,0,H,0,0,D
+EGY,18/09/2014,17:15,Ittihad El-Shorta,ENPPI,2,1,H,1,0,H
+EGY,20/09/2014,14:15,Ittihad El-Iskandary,PetroJet Football Club,4,2,H,4,0,H
+EGY,20/09/2014,14:15,Ala'ab Damanhour,Haras El Hodood,1,1,D,0,1,A
+EGY,20/09/2014,14:15,Al Nasr FC,El Daklyeh,0,4,A,0,2,A
+EGY,20/09/2014,14:15,Alassiouty Sport,Al-Masry Club,1,3,A,0,2,A
+EGY,20/09/2014,17:15,Al-Mokawloon,Smouha Sporting Club,0,0,D,0,0,D
+EGY,21/09/2014,14:15,Ismaily,Misr El-Maqasah SC,2,2,D,0,1,A
+EGY,21/09/2014,14:15,El Raja Sporting Club,El Gouna,1,0,H,0,0,D
+EGY,21/09/2014,17:15,Zamalek,Tala'ea El-Gaish SC,6,1,H,2,0,H
+EGY,20/12/2014,17:30,Wadi Degla FC,Al-Ahly,0,0,D,0,0,D
+EGY,24/09/2014,14:15,Al-Masry Club,Ala'ab Damanhour,2,0,H,0,0,D
+EGY,24/09/2014,14:15,Haras El Hodood,Al-Mokawloon,1,0,H,0,0,D
+EGY,24/09/2014,17:15,ENPPI,Wadi Degla FC,1,0,H,1,0,H
+EGY,25/09/2014,14:15,Smouha Sporting Club,Al Nasr FC,2,1,H,1,1,D
+EGY,25/09/2014,14:15,El Gouna,Ismaily,1,2,A,0,0,D
+EGY,25/09/2014,14:15,PetroJet Football Club,El Raja Sporting Club,0,2,A,0,0,D
+EGY,25/09/2014,14:15,El Daklyeh,Tala'ea El-Gaish SC,2,2,D,0,1,A
+EGY,25/09/2014,14:15,Misr El-Maqasah SC,Alassiouty Sport,3,2,H,1,1,D
+EGY,25/09/2014,17:15,Ittihad El-Shorta,Zamalek,0,0,D,0,0,D
+EGY,24/12/2014,17:00,Al-Ahly,Ittihad El-Iskandary,1,4,A,0,2,A
+EGY,30/09/2014,14:00,Alassiouty Sport,El Gouna,1,1,D,0,0,D
+EGY,30/09/2014,16:15,Ittihad El-Iskandary,ENPPI,1,4,A,0,2,A
+EGY,30/09/2014,16:15,Al-Mokawloon,Al-Masry Club,1,0,H,0,0,D
+EGY,30/09/2014,18:30,Tala'ea El-Gaish SC,Smouha Sporting Club,3,2,H,1,1,D
+EGY,01/10/2014,14:00,Ala'ab Damanhour,Misr El-Maqasah SC,1,1,D,0,1,A
+EGY,01/10/2014,16:15,Ismaily,PetroJet Football Club,2,1,H,0,1,A
+EGY,01/10/2014,18:30,Zamalek,El Daklyeh,0,0,D,0,0,D
+EGY,02/10/2014,14:00,Al Nasr FC,Haras El Hodood,2,2,D,2,1,H
+EGY,02/10/2014,16:15,El Raja Sporting Club,Al-Ahly,2,1,H,0,0,D
+EGY,02/10/2014,18:30,Wadi Degla FC,Ittihad El-Shorta,1,0,H,0,0,D
+EGY,18/10/2014,14:00,El Gouna,Ala'ab Damanhour,0,0,D,0,0,D
+EGY,19/10/2014,14:00,Misr El-Maqasah SC,Al-Mokawloon,1,1,D,0,1,A
+EGY,19/10/2014,16:15,Al-Masry Club,Al Nasr FC,3,2,H,1,0,H
+EGY,19/10/2014,16:15,Haras El Hodood,Tala'ea El-Gaish SC,1,0,H,1,0,H
+EGY,19/10/2014,18:30,ENPPI,El Raja Sporting Club,4,1,H,2,1,H
+EGY,20/10/2014,14:00,PetroJet Football Club,Alassiouty Sport,2,1,H,0,0,D
+EGY,20/10/2014,16:15,Smouha Sporting Club,El Daklyeh,0,1,A,0,0,D
+EGY,20/10/2014,18:30,Wadi Degla FC,Zamalek,0,0,D,0,0,D
+EGY,22/10/2014,14:00,Al-Ahly,Ismaily,0,0,D,0,0,D
+EGY,22/10/2014,18:30,Ittihad El-Shorta,Ittihad El-Iskandary,0,0,D,0,0,D
+EGY,23/10/2014,16:15,Tala'ea El-Gaish SC,Al-Masry Club,4,2,H,2,0,H
+EGY,23/10/2014,18:30,Al Nasr FC,Misr El-Maqasah SC,0,2,A,0,0,D
+EGY,25/10/2014,14:00,Ala'ab Damanhour,PetroJet Football Club,0,2,A,0,1,A
+EGY,25/10/2014,16:15,Al-Mokawloon,El Gouna,0,0,D,0,0,D
+EGY,25/10/2014,18:30,Zamalek,Smouha Sporting Club,2,0,H,0,0,D
+EGY,26/10/2014,13:00,El Daklyeh,Haras El Hodood,1,2,A,0,1,A
+EGY,26/10/2014,15:15,Ittihad El-Iskandary,Wadi Degla FC,0,2,A,0,1,A
+EGY,26/10/2014,17:30,Ismaily,ENPPI,0,0,D,0,0,D
+EGY,27/10/2014,13:00,Alassiouty Sport,Al-Ahly,0,0,D,0,0,D
+EGY,27/10/2014,17:00,El Raja Sporting Club,Ittihad El-Shorta,1,2,A,1,2,A
+EGY,29/10/2014,12:45,El Gouna,Al Nasr FC,2,1,H,1,0,H
+EGY,29/10/2014,15:00,Misr El-Maqasah SC,Tala'ea El-Gaish SC,1,6,A,0,1,A
+EGY,29/10/2014,17:30,PetroJet Football Club,Al-Mokawloon,2,1,H,1,1,D
+EGY,30/10/2014,12:45,Al-Masry Club,El Daklyeh,0,0,D,0,0,D
+EGY,30/10/2014,16:00,Ittihad El-Iskandary,Zamalek,0,1,A,0,0,D
+EGY,01/11/2014,12:45,ENPPI,Alassiouty Sport,4,1,H,2,0,H
+EGY,01/11/2014,15:00,Haras El Hodood,Smouha Sporting Club,0,2,A,0,0,D
+EGY,01/11/2014,17:30,Al-Ahly,Ala'ab Damanhour,4,2,H,1,1,D
+EGY,02/11/2014,15:00,Ittihad El-Shorta,Ismaily,1,1,D,0,1,A
+EGY,02/11/2014,17:30,Wadi Degla FC,El Raja Sporting Club,3,1,H,1,1,D
+EGY,03/11/2014,15:00,Al Nasr FC,PetroJet Football Club,2,3,A,0,1,A
+EGY,04/11/2014,12:45,El Daklyeh,Misr El-Maqasah SC,1,1,D,1,1,D
+EGY,04/11/2014,15:00,Tala'ea El-Gaish SC,El Gouna,0,3,A,0,0,D
+EGY,05/11/2014,12:45,Smouha Sporting Club,Al-Masry Club,0,1,A,0,0,D
+EGY,05/11/2014,15:00,Al-Mokawloon,Al-Ahly,0,1,A,0,0,D
+EGY,05/11/2014,18:00,Zamalek,Haras El Hodood,2,0,H,1,0,H
+EGY,06/11/2014,12:45,Ala'ab Damanhour,ENPPI,2,3,A,1,1,D
+EGY,06/11/2014,12:45,Alassiouty Sport,Ittihad El-Shorta,2,2,D,1,1,D
+EGY,06/11/2014,15:00,Ismaily,Wadi Degla FC,2,1,H,1,0,H
+EGY,06/11/2014,17:30,El Raja Sporting Club,Ittihad El-Iskandary,1,1,D,0,1,A
+EGY,20/11/2014,12:30,El Gouna,El Daklyeh,1,2,A,0,1,A
+EGY,20/11/2014,15:00,Ittihad El-Shorta,Ala'ab Damanhour,2,1,H,0,0,D
+EGY,22/11/2014,12:30,Misr El-Maqasah SC,Smouha Sporting Club,0,2,A,0,1,A
+EGY,22/11/2014,12:30,Al-Masry Club,Haras El Hodood,1,0,H,0,0,D
+EGY,22/11/2014,15:00,Ittihad El-Iskandary,Ismaily,1,1,D,1,0,H
+EGY,22/11/2014,15:00,Wadi Degla FC,Alassiouty Sport,3,1,H,3,0,H
+EGY,22/11/2014,17:30,ENPPI,Al-Mokawloon,2,2,D,2,1,H
+EGY,23/11/2014,12:30,PetroJet Football Club,Tala'ea El-Gaish SC,0,1,A,0,1,A
+EGY,23/11/2014,15:00,El Raja Sporting Club,Zamalek,2,3,A,1,1,D
+EGY,23/11/2014,18:00,Al-Ahly,Al Nasr FC,2,1,H,0,1,A
+EGY,26/11/2014,15:00,Al-Mokawloon,Ittihad El-Shorta,2,1,H,0,0,D
+EGY,27/11/2014,12:30,Ala'ab Damanhour,Wadi Degla FC,0,1,A,0,1,A
+EGY,27/11/2014,12:30,Alassiouty Sport,Ittihad El-Iskandary,2,2,D,0,1,A
+EGY,27/11/2014,15:00,Haras El Hodood,Misr El-Maqasah SC,2,2,D,0,1,A
+EGY,27/11/2014,17:30,Al Nasr FC,ENPPI,0,6,A,0,3,A
+EGY,29/11/2014,12:30,Smouha Sporting Club,El Gouna,1,1,D,0,0,D
+EGY,29/11/2014,12:30,El Daklyeh,PetroJet Football Club,0,1,A,0,0,D
+EGY,29/11/2014,17:30,Zamalek,Al-Masry Club,1,0,H,1,0,H
+EGY,30/11/2014,15:00,Ismaily,El Raja Sporting Club,3,0,H,1,0,H
+EGY,24/01/2015,14:30,Tala'ea El-Gaish SC,Al-Ahly,1,3,A,1,2,A
+EGY,02/12/2014,12:30,Wadi Degla FC,Al-Mokawloon,1,0,H,0,0,D
+EGY,02/12/2014,15:00,Ittihad El-Iskandary,Ala'ab Damanhour,1,0,H,0,0,D
+EGY,02/12/2014,17:30,ENPPI,Tala'ea El-Gaish SC,3,0,H,3,0,H
+EGY,03/12/2014,12:30,El Gouna,Haras El Hodood,0,1,A,0,1,A
+EGY,03/12/2014,12:30,PetroJet Football Club,Smouha Sporting Club,1,0,H,0,0,D
+EGY,03/12/2014,15:00,Misr El-Maqasah SC,Al-Masry Club,3,2,H,2,0,H
+EGY,03/12/2014,17:30,Ittihad El-Shorta,Al Nasr FC,1,0,H,1,0,H
+EGY,04/12/2014,12:30,El Raja Sporting Club,Alassiouty Sport,3,0,H,2,0,H
+EGY,04/12/2014,16:00,Ismaily,Zamalek,0,0,D,0,0,D
+EGY,01/06/2015,18:00,Al-Ahly,El Daklyeh,2,0,H,0,0,D
+EGY,07/12/2014,15:00,Haras El Hodood,PetroJet Football Club,0,0,D,0,0,D
+EGY,07/12/2014,17:30,Al Nasr FC,Wadi Degla FC,1,1,D,1,0,H
+EGY,08/12/2014,12:30,Ala'ab Damanhour,El Raja Sporting Club,2,0,H,1,0,H
+EGY,08/12/2014,12:30,Alassiouty Sport,Ismaily,1,2,A,0,0,D
+EGY,08/12/2014,15:00,Al-Masry Club,El Gouna,0,1,A,0,0,D
+EGY,08/12/2014,15:00,El Daklyeh,ENPPI,0,1,A,0,0,D
+EGY,08/12/2014,17:30,Al-Mokawloon,Ittihad El-Iskandary,1,1,D,0,0,D
+EGY,09/12/2014,15:00,Tala'ea El-Gaish SC,Ittihad El-Shorta,3,1,H,1,1,D
+EGY,09/12/2014,17:30,Zamalek,Misr El-Maqasah SC,3,1,H,1,0,H
+EGY,11/12/2014,17:00,Smouha Sporting Club,Al-Ahly,1,3,A,1,0,H
+EGY,13/12/2014,12:30,Ittihad El-Shorta,El Daklyeh,4,1,H,1,0,H
+EGY,13/12/2014,12:30,El Gouna,Misr El-Maqasah SC,2,2,D,0,0,D
+EGY,13/12/2014,15:00,Ismaily,Ala'ab Damanhour,2,1,H,1,0,H
+EGY,13/12/2014,15:00,Ittihad El-Iskandary,Al Nasr FC,1,2,A,0,0,D
+EGY,13/12/2014,17:30,Wadi Degla FC,Tala'ea El-Gaish SC,3,0,H,1,0,H
+EGY,14/12/2014,12:30,Alassiouty Sport,Zamalek,1,3,A,0,2,A
+EGY,14/12/2014,15:00,PetroJet Football Club,Al-Masry Club,3,1,H,1,0,H
+EGY,14/12/2014,17:30,El Raja Sporting Club,Al-Mokawloon,0,1,A,0,1,A
+EGY,15/12/2014,15:00,ENPPI,Smouha Sporting Club,2,1,H,0,0,D
+EGY,15/12/2014,17:30,Al-Ahly,Haras El Hodood,3,0,H,1,0,H
+EGY,17/12/2014,15:00,Tala'ea El-Gaish SC,Ittihad El-Iskandary,0,3,A,0,1,A
+EGY,18/12/2014,12:30,Ala'ab Damanhour,Alassiouty Sport,2,1,H,1,0,H
+EGY,18/12/2014,15:00,Al Nasr FC,El Raja Sporting Club,1,0,H,0,0,D
+EGY,18/12/2014,15:00,Misr El-Maqasah SC,PetroJet Football Club,4,1,H,2,0,H
+EGY,18/12/2014,17:30,Zamalek,El Gouna,2,0,H,0,0,D
+EGY,20/12/2014,12:30,Al-Mokawloon,Ismaily,2,0,H,2,0,H
+EGY,20/12/2014,15:00,Haras El Hodood,ENPPI,0,0,D,0,0,D
+EGY,21/12/2014,15:00,Smouha Sporting Club,Ittihad El-Shorta,1,0,H,0,0,D
+EGY,10/01/2015,12:30,Al-Masry Club,Al-Ahly,1,1,D,0,0,D
+EGY,05/04/2015,15:00,El Daklyeh,Wadi Degla FC,0,2,A,0,1,A
+EGY,27/12/2014,12:30,El Raja Sporting Club,Tala'ea El-Gaish SC,0,1,A,0,0,D
+EGY,27/12/2014,12:30,Alassiouty Sport,Al-Mokawloon,1,1,D,1,0,H
+EGY,27/12/2014,15:00,Ismaily,Al Nasr FC,1,0,H,1,0,H
+EGY,27/12/2014,15:00,Ittihad El-Shorta,Haras El Hodood,0,0,D,0,0,D
+EGY,27/12/2014,15:00,PetroJet Football Club,El Gouna,1,1,D,0,0,D
+EGY,27/12/2014,17:30,Wadi Degla FC,Smouha Sporting Club,2,1,H,0,1,A
+EGY,28/12/2014,17:30,Al-Ahly,Misr El-Maqasah SC,1,0,H,1,0,H
+EGY,29/12/2014,12:30,Ala'ab Damanhour,Zamalek,1,2,A,0,1,A
+EGY,29/12/2014,15:00,ENPPI,Al-Masry Club,0,1,A,0,0,D
+EGY,20/01/2015,14:30,Ittihad El-Iskandary,El Daklyeh,1,0,H,1,0,H
+EGY,01/01/2015,12:30,El Daklyeh,El Raja Sporting Club,2,0,H,1,0,H
+EGY,01/01/2015,15:00,Haras El Hodood,Wadi Degla FC,0,0,D,0,0,D
+EGY,01/01/2015,15:00,Al Nasr FC,Alassiouty Sport,1,0,H,0,0,D
+EGY,01/01/2015,17:30,Tala'ea El-Gaish SC,Ismaily,0,2,A,0,1,A
+EGY,03/01/2015,12:30,Al-Mokawloon,Ala'ab Damanhour,3,1,H,0,1,A
+EGY,03/01/2015,12:30,El Gouna,Al-Ahly,0,2,A,0,1,A
+EGY,03/01/2015,12:30,Misr El-Maqasah SC,ENPPI,1,1,D,1,1,D
+EGY,03/01/2015,15:00,Al-Masry Club,Ittihad El-Shorta,0,1,A,0,0,D
+EGY,03/01/2015,15:00,Smouha Sporting Club,Ittihad El-Iskandary,0,1,A,0,0,D
+EGY,03/01/2015,17:30,Zamalek,PetroJet Football Club,2,1,H,1,1,D
+EGY,06/01/2015,12:30,Alassiouty Sport,Tala'ea El-Gaish SC,2,3,A,0,2,A
+EGY,07/01/2015,15:00,Ittihad El-Iskandary,Haras El Hodood,1,1,D,0,0,D
+EGY,07/01/2015,15:00,ENPPI,El Gouna,1,0,H,0,0,D
+EGY,07/01/2015,17:30,Al-Mokawloon,Zamalek,0,1,A,0,1,A
+EGY,08/01/2015,12:30,Ittihad El-Shorta,Misr El-Maqasah SC,0,2,A,0,1,A
+EGY,08/01/2015,15:00,El Raja Sporting Club,Smouha Sporting Club,3,1,H,1,0,H
+EGY,08/01/2015,17:30,Ismaily,El Daklyeh,1,1,D,1,1,D
+EGY,11/01/2015,12:30,Ala'ab Damanhour,Al Nasr FC,0,2,A,0,1,A
+EGY,20/01/2015,12:00,Wadi Degla FC,Al-Masry Club,4,1,H,1,0,H
+EGY,20/01/2015,17:00,Al-Ahly,PetroJet Football Club,1,1,D,1,0,H
+EGY,20/01/2015,15:00,Tala'ea El-Gaish SC,Ala'ab Damanhour,3,2,H,1,1,D
+EGY,26/01/2015,12:30,El Gouna,Ittihad El-Shorta,0,1,A,0,0,D
+EGY,26/01/2015,15:00,PetroJet Football Club,ENPPI,1,1,D,0,0,D
+EGY,26/01/2015,15:00,Al-Masry Club,Ittihad El-Iskandary,1,0,H,0,0,D
+EGY,26/01/2015,17:30,Haras El Hodood,El Raja Sporting Club,2,2,D,0,2,A
+EGY,27/01/2015,12:30,Misr El-Maqasah SC,Wadi Degla FC,2,0,H,0,0,D
+EGY,27/01/2015,12:30,El Daklyeh,Alassiouty Sport,1,1,D,0,0,D
+EGY,27/01/2015,15:00,Smouha Sporting Club,Ismaily,0,0,D,0,0,D
+EGY,27/01/2015,17:30,Al Nasr FC,Al-Mokawloon,1,3,A,1,0,H
+EGY,29/01/2015,16:00,Zamalek,Al-Ahly,1,1,D,1,1,D
+EGY,30/01/2015,13:00,El Raja Sporting Club,Al-Masry Club,2,3,A,1,2,A
+EGY,31/01/2015,12:30,Ittihad El-Shorta,PetroJet Football Club,2,2,D,0,2,A
+EGY,31/01/2015,12:30,Alassiouty Sport,Smouha Sporting Club,1,1,D,1,1,D
+EGY,31/01/2015,12:30,Ala'ab Damanhour,El Daklyeh,1,2,A,1,2,A
+EGY,31/01/2015,12:30,Ittihad El-Iskandary,Misr El-Maqasah SC,0,1,A,0,1,A
+EGY,31/01/2015,15:00,Wadi Degla FC,El Gouna,1,2,A,1,1,D
+EGY,31/01/2015,15:00,Ismaily,Haras El Hodood,0,0,D,0,0,D
+EGY,31/01/2015,17:30,Al-Mokawloon,Tala'ea El-Gaish SC,2,0,H,1,0,H
+EGY,02/02/2015,16:00,Zamalek,Al Nasr FC,3,1,H,1,1,D
+EGY,03/02/2015,16:00,Al-Ahly,ENPPI,0,1,A,0,0,D
+EGY,04/02/2015,12:30,Ala'ab Damanhour,Smouha Sporting Club,1,3,A,0,1,A
+EGY,04/02/2015,12:30,Alassiouty Sport,Haras El Hodood,1,1,D,0,0,D
+EGY,04/02/2015,15:00,Ittihad El-Iskandary,El Gouna,0,0,D,0,0,D
+EGY,04/02/2015,15:00,Al-Mokawloon,El Daklyeh,3,2,H,2,1,H
+EGY,04/02/2015,17:30,Wadi Degla FC,PetroJet Football Club,1,2,A,0,0,D
+EGY,05/02/2015,12:30,El Raja Sporting Club,Misr El-Maqasah SC,3,2,H,1,0,H
+EGY,05/02/2015,15:00,Ismaily,Al-Masry Club,1,1,D,1,0,H
+EGY,07/02/2015,12:30,Al Nasr FC,Tala'ea El-Gaish SC,1,2,A,0,1,A
+EGY,07/02/2015,15:00,Ittihad El-Shorta,Al-Ahly,1,3,A,0,1,A
+EGY,08/02/2015,18:00,Zamalek,ENPPI,1,1,D,1,1,D
+EGY,08/02/2015,12:30,PetroJet Football Club,Ittihad El-Iskandary,0,1,A,0,0,D
+EGY,08/02/2015,15:00,Smouha Sporting Club,Al-Mokawloon,2,1,H,0,1,A
+EGY,01/05/2015,15:00,Haras El Hodood,Ala'ab Damanhour,1,1,D,1,0,H
+EGY,01/05/2015,15:00,El Gouna,El Raja Sporting Club,1,1,D,0,1,A
+EGY,01/05/2015,15:00,El Daklyeh,Al Nasr FC,2,2,D,1,1,D
+EGY,01/05/2015,17:00,Al-Masry Club,Alassiouty Sport,2,0,H,2,0,H
+EGY,01/05/2015,17:00,ENPPI,Ittihad El-Shorta,1,1,D,1,0,H
+EGY,02/05/2015,16:00,Misr El-Maqasah SC,Ismaily,0,2,A,0,0,D
+EGY,02/07/2015,21:00,Al-Ahly,Wadi Degla FC,3,1,H,2,0,H
+EGY,29/07/2015,18:30,Tala'ea El-Gaish SC,Zamalek,2,3,A,0,2,A
+EGY,27/05/2015,15:30,El Raja Sporting Club,PetroJet Football Club,2,2,D,0,2,A
+EGY,27/05/2015,16:00,Wadi Degla FC,ENPPI,1,1,D,1,0,H
+EGY,27/05/2015,17:30,Ala'ab Damanhour,Al-Masry Club,1,2,A,1,1,D
+EGY,27/05/2015,17:30,Tala'ea El-Gaish SC,El Daklyeh,1,0,H,0,0,D
+EGY,27/05/2015,17:30,Al Nasr FC,Smouha Sporting Club,0,2,A,0,1,A
+EGY,27/05/2015,19:30,Al-Mokawloon,Haras El Hodood,0,1,A,0,0,D
+EGY,28/05/2015,15:30,Alassiouty Sport,Misr El-Maqasah SC,1,2,A,0,1,A
+EGY,28/05/2015,16:30,Ismaily,El Gouna,1,0,H,0,0,D
+EGY,28/05/2015,16:30,Ittihad El-Iskandary,Al-Ahly,0,1,A,0,0,D
+EGY,28/05/2015,19:00,Zamalek,Ittihad El-Shorta,5,1,H,2,1,H
+EGY,30/03/2015,13:00,Al-Masry Club,Al-Mokawloon,0,1,A,0,0,D
+EGY,30/03/2015,13:00,ENPPI,Ittihad El-Iskandary,0,0,D,0,0,D
+EGY,30/03/2015,13:00,Ittihad El-Shorta,Wadi Degla FC,1,0,H,0,0,D
+EGY,30/03/2015,13:00,Smouha Sporting Club,Tala'ea El-Gaish SC,2,0,H,0,0,D
+EGY,30/03/2015,15:30,El Daklyeh,Zamalek,0,2,A,0,0,D
+EGY,31/03/2015,13:00,PetroJet Football Club,Ismaily,0,1,A,0,0,D
+EGY,31/03/2015,13:00,Haras El Hodood,Al Nasr FC,0,1,A,0,1,A
+EGY,31/03/2015,14:30,El Gouna,Alassiouty Sport,1,1,D,1,0,H
+EGY,31/03/2015,14:30,Misr El-Maqasah SC,Ala'ab Damanhour,1,0,H,0,0,D
+EGY,31/03/2015,15:30,Al-Ahly,El Raja Sporting Club,2,1,H,1,1,D
+EGY,07/04/2015,13:30,Ala'ab Damanhour,El Gouna,1,2,A,0,1,A
+EGY,07/04/2015,13:30,Al Nasr FC,Al-Masry Club,0,0,D,0,0,D
+EGY,07/04/2015,13:30,Al-Mokawloon,Misr El-Maqasah SC,1,2,A,1,0,H
+EGY,07/04/2015,15:30,Ittihad El-Iskandary,Ittihad El-Shorta,1,1,D,1,1,D
+EGY,07/04/2015,15:30,Tala'ea El-Gaish SC,Haras El Hodood,1,1,D,1,0,H
+EGY,08/04/2015,14:30,El Raja Sporting Club,ENPPI,2,2,D,2,2,D
+EGY,08/04/2015,14:30,Ismaily,Al-Ahly,1,1,D,1,0,H
+EGY,09/04/2015,14:30,Alassiouty Sport,PetroJet Football Club,2,3,A,0,1,A
+EGY,09/04/2015,14:30,El Daklyeh,Smouha Sporting Club,1,0,H,0,0,D
+EGY,03/08/2015,18:30,Zamalek,Wadi Degla FC,0,0,D,0,0,D
+EGY,14/04/2015,14:00,Smouha Sporting Club,Zamalek,0,1,A,0,0,D
+EGY,14/04/2015,15:00,PetroJet Football Club,Ala'ab Damanhour,3,0,H,0,0,D
+EGY,14/04/2015,17:00,Al-Ahly,Alassiouty Sport,5,0,H,4,0,H
+EGY,15/04/2015,14:30,El Gouna,Al-Mokawloon,2,1,H,0,0,D
+EGY,15/04/2015,14:30,Haras El Hodood,El Daklyeh,1,0,H,0,0,D
+EGY,15/04/2015,14:30,Misr El-Maqasah SC,Al Nasr FC,2,1,H,2,1,H
+EGY,15/04/2015,16:30,Al-Masry Club,Tala'ea El-Gaish SC,0,0,D,0,0,D
+EGY,18/04/2015,14:30,Ittihad El-Shorta,El Raja Sporting Club,1,1,D,1,0,H
+EGY,18/04/2015,14:30,Wadi Degla FC,Ittihad El-Iskandary,0,0,D,0,0,D
+EGY,18/04/2015,16:30,ENPPI,Ismaily,3,0,H,2,0,H
+EGY,22/04/2015,14:45,El Raja Sporting Club,Wadi Degla FC,1,1,D,1,0,H
+EGY,22/04/2015,14:45,Alassiouty Sport,ENPPI,2,4,A,1,2,A
+EGY,22/04/2015,14:45,Al-Mokawloon,PetroJet Football Club,3,2,H,1,1,D
+EGY,22/04/2015,14:45,Al Nasr FC,El Gouna,1,1,D,0,0,D
+EGY,22/04/2015,14:45,Tala'ea El-Gaish SC,Misr El-Maqasah SC,2,0,H,1,0,H
+EGY,22/04/2015,17:00,Ismaily,Ittihad El-Shorta,1,1,D,1,1,D
+EGY,23/04/2015,14:45,Ala'ab Damanhour,Al-Ahly,1,2,A,0,0,D
+EGY,23/04/2015,14:45,El Daklyeh,Al-Masry Club,2,1,H,1,0,H
+EGY,23/04/2015,17:00,Zamalek,Ittihad El-Iskandary,2,0,H,1,0,H
+EGY,01/06/2015,15:30,Smouha Sporting Club,Haras El Hodood,1,0,H,1,0,H
+EGY,27/04/2015,14:45,Al-Masry Club,Smouha Sporting Club,0,0,D,0,0,D
+EGY,27/04/2015,14:45,Haras El Hodood,Zamalek,0,2,A,0,0,D
+EGY,27/04/2015,14:45,PetroJet Football Club,Al Nasr FC,1,0,H,0,0,D
+EGY,27/04/2015,17:00,Al-Ahly,Al-Mokawloon,0,1,A,0,0,D
+EGY,28/04/2015,14:45,El Gouna,Tala'ea El-Gaish SC,2,1,H,0,0,D
+EGY,28/04/2015,14:45,ENPPI,Ala'ab Damanhour,3,0,H,3,0,H
+EGY,28/04/2015,14:45,Ittihad El-Shorta,Alassiouty Sport,1,0,H,0,0,D
+EGY,28/04/2015,14:45,Ittihad El-Iskandary,El Raja Sporting Club,3,2,H,1,1,D
+EGY,28/04/2015,14:45,Misr El-Maqasah SC,El Daklyeh,2,1,H,0,0,D
+EGY,28/04/2015,17:00,Wadi Degla FC,Ismaily,1,0,H,0,0,D
+EGY,05/05/2015,15:00,El Daklyeh,El Gouna,1,0,H,1,0,H
+EGY,05/05/2015,15:00,Alassiouty Sport,Wadi Degla FC,2,2,D,0,0,D
+EGY,05/05/2015,15:00,Ala'ab Damanhour,Ittihad El-Shorta,0,2,A,0,1,A
+EGY,05/05/2015,17:00,Haras El Hodood,Al-Masry Club,0,0,D,0,0,D
+EGY,05/05/2015,17:00,Al-Mokawloon,ENPPI,0,4,A,0,3,A
+EGY,05/05/2015,17:00,Tala'ea El-Gaish SC,PetroJet Football Club,0,1,A,0,1,A
+EGY,06/05/2015,15:00,Smouha Sporting Club,Misr El-Maqasah SC,0,1,A,0,0,D
+EGY,06/05/2015,15:45,Ismaily,Ittihad El-Iskandary,1,1,D,1,1,D
+EGY,06/05/2015,18:00,Al Nasr FC,Al-Ahly,0,3,A,0,3,A
+EGY,07/05/2015,17:00,Zamalek,El Raja Sporting Club,2,0,H,1,0,H
+EGY,09/05/2015,15:00,PetroJet Football Club,El Daklyeh,0,0,D,0,0,D
+EGY,09/05/2015,17:30,Ittihad El-Shorta,Al-Mokawloon,1,1,D,0,0,D
+EGY,09/05/2015,17:30,Wadi Degla FC,Ala'ab Damanhour,2,2,D,1,1,D
+EGY,10/05/2015,15:00,El Gouna,Smouha Sporting Club,1,1,D,1,1,D
+EGY,10/05/2015,15:00,Misr El-Maqasah SC,Haras El Hodood,0,0,D,0,0,D
+EGY,10/05/2015,17:30,Al-Ahly,Tala'ea El-Gaish SC,4,0,H,2,0,H
+EGY,10/05/2015,17:30,Ittihad El-Iskandary,Alassiouty Sport,3,2,H,2,1,H
+EGY,11/05/2015,15:00,ENPPI,Al Nasr FC,0,0,D,0,0,D
+EGY,11/05/2015,15:00,El Raja Sporting Club,Ismaily,1,1,D,0,0,D
+EGY,11/05/2015,17:30,Al-Masry Club,Zamalek,0,1,A,0,1,A
+EGY,12/05/2015,17:00,Wadi Degla FC,Al-Mokawloon,1,1,D,1,0,H
+EGY,13/05/2015,15:00,Ala'ab Damanhour,Ittihad El-Iskandary,2,4,A,0,2,A
+EGY,13/05/2015,15:00,Smouha Sporting Club,PetroJet Football Club,2,1,H,1,1,D
+EGY,13/05/2015,17:30,El Daklyeh,Al-Ahly,0,1,A,0,0,D
+EGY,14/05/2015,15:00,Alassiouty Sport,El Raja Sporting Club,3,0,H,1,0,H
+EGY,14/05/2015,15:00,Haras El Hodood,El Gouna,0,1,A,0,0,D
+EGY,14/05/2015,17:30,Al-Masry Club,Misr El-Maqasah SC,1,1,D,1,1,D
+EGY,15/05/2015,15:00,Al Nasr FC,Ittihad El-Shorta,1,1,D,0,0,D
+EGY,15/05/2015,17:30,Tala'ea El-Gaish SC,ENPPI,0,0,D,0,0,D
+EGY,06/07/2015,21:00,Zamalek,Ismaily,3,0,H,2,0,H
+EGY,17/05/2015,15:30,Ismaily,Alassiouty Sport,5,1,H,2,0,H
+EGY,17/05/2015,15:30,Ittihad El-Iskandary,Al-Mokawloon,0,0,D,0,0,D
+EGY,18/05/2015,15:30,El Gouna,Al-Masry Club,0,1,A,0,0,D
+EGY,18/05/2015,15:30,El Raja Sporting Club,Ala'ab Damanhour,1,0,H,1,0,H
+EGY,18/05/2015,15:30,Wadi Degla FC,Al Nasr FC,2,1,H,0,0,D
+EGY,18/05/2015,15:30,Ittihad El-Shorta,Tala'ea El-Gaish SC,0,1,A,0,0,D
+EGY,18/05/2015,17:30,PetroJet Football Club,Haras El Hodood,1,2,A,0,1,A
+EGY,18/05/2015,17:30,ENPPI,El Daklyeh,2,2,D,2,1,H
+EGY,02/07/2015,21:00,Misr El-Maqasah SC,Zamalek,2,1,H,0,1,A
+EGY,28/07/2015,18:30,Al-Ahly,Smouha Sporting Club,1,1,D,0,0,D
+EGY,23/05/2015,15:30,Ala'ab Damanhour,Ismaily,0,2,A,0,2,A
+EGY,23/05/2015,15:30,El Daklyeh,Ittihad El-Shorta,0,0,D,0,0,D
+EGY,23/05/2015,15:30,Misr El-Maqasah SC,El Gouna,0,1,A,0,1,A
+EGY,23/05/2015,15:30,Al-Mokawloon,El Raja Sporting Club,0,1,A,0,0,D
+EGY,23/05/2015,17:30,Smouha Sporting Club,ENPPI,1,0,H,0,0,D
+EGY,23/05/2015,17:30,Tala'ea El-Gaish SC,Wadi Degla FC,0,0,D,0,0,D
+EGY,23/05/2015,17:30,Al-Masry Club,PetroJet Football Club,0,1,A,0,1,A
+EGY,23/05/2015,19:00,Al Nasr FC,Ittihad El-Iskandary,2,1,H,0,0,D
+EGY,24/05/2015,16:30,Haras El Hodood,Al-Ahly,1,0,H,1,0,H
+EGY,24/05/2015,18:30,Zamalek,Alassiouty Sport,2,0,H,2,0,H
+EGY,01/06/2015,15:30,El Gouna,Zamalek,1,1,D,1,1,D
+EGY,02/06/2015,15:30,Alassiouty Sport,Ala'ab Damanhour,1,5,A,0,4,A
+EGY,02/06/2015,15:30,El Raja Sporting Club,Al Nasr FC,4,1,H,1,0,H
+EGY,02/06/2015,17:30,PetroJet Football Club,Misr El-Maqasah SC,3,6,A,1,3,A
+EGY,03/06/2015,16:00,Ittihad El-Iskandary,Tala'ea El-Gaish SC,0,0,D,0,0,D
+EGY,03/06/2015,18:00,Ismaily,Al-Mokawloon,2,2,D,2,2,D
+EGY,05/06/2015,16:00,Wadi Degla FC,El Daklyeh,3,3,D,1,2,A
+EGY,05/06/2015,18:00,ENPPI,Haras El Hodood,2,4,A,1,2,A
+EGY,06/06/2015,16:00,Ittihad El-Shorta,Smouha Sporting Club,1,1,D,0,1,A
+EGY,06/07/2015,20:30,Al-Ahly,Al-Masry Club,2,0,H,2,0,H
+EGY,16/06/2015,15:30,El Gouna,PetroJet Football Club,2,1,H,1,0,H
+EGY,16/06/2015,16:30,Al-Mokawloon,Alassiouty Sport,4,0,H,3,0,H
+EGY,16/06/2015,16:30,Haras El Hodood,Ittihad El-Shorta,1,0,H,0,0,D
+EGY,16/06/2015,16:30,Smouha Sporting Club,Wadi Degla FC,3,1,H,1,1,D
+EGY,16/06/2015,16:30,Tala'ea El-Gaish SC,El Raja Sporting Club,2,1,H,2,0,H
+EGY,16/06/2015,16:30,El Daklyeh,Ittihad El-Iskandary,2,1,H,1,1,D
+EGY,16/06/2015,19:00,Al Nasr FC,Ismaily,0,0,D,0,0,D
+EGY,17/06/2015,16:30,Al-Masry Club,ENPPI,1,3,A,1,2,A
+EGY,17/06/2015,16:30,Misr El-Maqasah SC,Al-Ahly,0,2,A,0,0,D
+EGY,17/06/2015,19:00,Zamalek,Ala'ab Damanhour,3,0,H,1,0,H
+EGY,20/06/2015,20:30,Alassiouty Sport,Al Nasr FC,1,2,A,1,0,H
+EGY,20/06/2015,20:30,Ismaily,Tala'ea El-Gaish SC,0,0,D,0,0,D
+EGY,20/06/2015,20:30,Ittihad El-Iskandary,Smouha Sporting Club,0,0,D,0,0,D
+EGY,20/06/2015,20:30,El Raja Sporting Club,El Daklyeh,0,0,D,0,0,D
+EGY,20/06/2015,20:30,Ala'ab Damanhour,Al-Mokawloon,1,4,A,0,1,A
+EGY,20/06/2015,20:30,Al-Ahly,El Gouna,1,1,D,1,0,H
+EGY,20/06/2015,20:30,PetroJet Football Club,Zamalek,1,1,D,0,0,D
+EGY,21/06/2015,20:30,Wadi Degla FC,Haras El Hodood,0,0,D,0,0,D
+EGY,21/06/2015,20:30,Ittihad El-Shorta,Al-Masry Club,0,0,D,0,0,D
+EGY,21/06/2015,20:30,ENPPI,Misr El-Maqasah SC,0,0,D,0,0,D
+EGY,23/06/2015,20:30,PetroJet Football Club,Al-Ahly,1,2,A,1,1,D
+EGY,23/06/2015,20:30,Smouha Sporting Club,El Raja Sporting Club,0,1,A,0,0,D
+EGY,23/06/2015,20:30,Zamalek,Al-Mokawloon,3,0,H,2,0,H
+EGY,24/06/2015,21:00,El Daklyeh,Ismaily,0,0,D,0,0,D
+EGY,24/06/2015,21:00,Tala'ea El-Gaish SC,Alassiouty Sport,0,1,A,0,0,D
+EGY,25/06/2015,21:00,El Gouna,ENPPI,0,0,D,0,0,D
+EGY,25/06/2015,21:00,Misr El-Maqasah SC,Ittihad El-Shorta,2,1,H,0,0,D
+EGY,25/06/2015,21:00,Al-Masry Club,Wadi Degla FC,1,0,H,0,0,D
+EGY,25/06/2015,21:00,Haras El Hodood,Ittihad El-Iskandary,0,1,A,0,0,D
+EGY,25/06/2015,21:00,Al Nasr FC,Ala'ab Damanhour,3,1,H,1,1,D
+EGY,01/07/2015,,Al-Mokawloon,Al Nasr FC,2,0,H,NaN,NaN,NaN
+EGY,01/07/2015,21:00,Ittihad El-Iskandary,Al-Masry Club,0,1,A,0,0,D
+EGY,01/07/2015,21:00,ENPPI,PetroJet Football Club,1,0,H,0,0,D
+EGY,01/07/2015,21:00,Ittihad El-Shorta,El Gouna,1,1,D,0,0,D
+EGY,01/07/2015,21:00,El Raja Sporting Club,Haras El Hodood,1,0,H,1,0,H
+EGY,01/07/2015,21:00,Alassiouty Sport,El Daklyeh,2,4,A,1,3,A
+EGY,02/07/2015,21:00,Ismaily,Smouha Sporting Club,3,1,H,2,1,H
+EGY,02/07/2015,21:00,Ala'ab Damanhour,Tala'ea El-Gaish SC,0,3,A,0,1,A
+EGY,06/07/2015,21:00,Wadi Degla FC,Misr El-Maqasah SC,2,1,H,2,1,H
+EGY,21/07/2015,19:00,Al-Ahly,Zamalek,2,0,H,1,0,H
+EGY,06/07/2015,21:00,Smouha Sporting Club,Alassiouty Sport,3,0,H,2,0,H
+EGY,11/07/2015,21:00,PetroJet Football Club,Ittihad El-Shorta,1,1,D,0,0,D
+EGY,11/07/2015,21:00,Al-Masry Club,El Raja Sporting Club,2,2,D,1,1,D
+EGY,11/07/2015,21:00,Haras El Hodood,Ismaily,2,0,H,0,0,D
+EGY,11/07/2015,21:00,El Gouna,Wadi Degla FC,1,2,A,0,0,D
+EGY,11/07/2015,21:00,El Daklyeh,Ala'ab Damanhour,3,0,H,1,0,H
+EGY,11/07/2015,21:00,Misr El-Maqasah SC,Ittihad El-Iskandary,2,1,H,1,0,H
+EGY,12/07/2015,21:00,Tala'ea El-Gaish SC,Al-Mokawloon,1,2,A,0,1,A
+EGY,15/07/2015,21:00,Al Nasr FC,Zamalek,0,4,A,0,2,A
+EGY,02/08/2015,18:30,Al-Ahly,ENPPI,1,1,D,0,0,D

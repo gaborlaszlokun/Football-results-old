@@ -1,0 +1,189 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,11/02/2005,22:10,Olimpo,San Lorenzo,3,0,H,1,0,H
+ARG,12/02/2005,00:10,Argentinos Juniors,Racing Club,1,0,H,0,0,D
+ARG,12/02/2005,21:20,GyE La Plata,Club Almagro,2,1,H,1,1,D
+ARG,13/02/2005,00:10,Vélez Sársfield,Newell's Old Boys,0,0,D,0,0,D
+ARG,13/02/2005,20:00,Rosario Central,Arsenal Sarandí,2,1,H,1,0,H
+ARG,13/02/2005,20:00,Independiente,Quilmes AC,0,0,D,0,0,D
+ARG,13/02/2005,20:10,Boca Juniors,CA Lanús,2,2,D,2,0,H
+ARG,13/02/2005,21:00,Huracán de Tres Arroyos,Estudiantes,0,1,A,0,1,A
+ARG,13/02/2005,22:30,CA Colón,River Plate,2,3,A,1,2,A
+ARG,18/02/2005,22:05,Racing Club,Olimpo,2,0,H,2,0,H
+ARG,19/02/2005,00:00,Quilmes AC,Vélez Sársfield,2,0,H,2,0,H
+ARG,19/02/2005,21:20,CA Lanús,GyE La Plata,3,0,H,0,0,D
+ARG,20/02/2005,00:10,Club Almagro,Independiente,2,2,D,0,1,A
+ARG,20/02/2005,20:00,Instituto Córdoba,Argentinos Juniors,3,2,H,2,1,H
+ARG,20/02/2005,20:00,Newell's Old Boys,Rosario Central,0,0,D,0,0,D
+ARG,20/02/2005,20:00,Arsenal Sarandí,Huracán de Tres Arroyos,1,1,D,1,1,D
+ARG,20/02/2005,20:00,Estudiantes,CA Colón,3,1,H,3,1,H
+ARG,20/02/2005,20:10,San Lorenzo,Boca Juniors,3,0,H,1,0,H
+ARG,20/02/2005,22:30,River Plate,CA Banfield,1,0,H,0,0,D
+ARG,25/02/2005,20:00,Vélez Sársfield,Club Almagro,0,0,D,0,0,D
+ARG,26/02/2005,00:10,Independiente,CA Lanús,0,1,A,0,1,A
+ARG,26/02/2005,21:20,CA Colón,Arsenal Sarandí,0,2,A,0,1,A
+ARG,27/02/2005,00:10,Instituto Córdoba,Racing Club,0,1,A,0,0,D
+ARG,27/02/2005,20:00,GyE La Plata,San Lorenzo,3,1,H,1,1,D
+ARG,27/02/2005,20:00,Huracán de Tres Arroyos,Newell's Old Boys,0,2,A,0,1,A
+ARG,27/02/2005,20:10,Boca Juniors,Olimpo,3,1,H,1,1,D
+ARG,27/02/2005,22:05,CA Banfield,Estudiantes,0,0,D,0,0,D
+ARG,27/02/2005,22:05,Rosario Central,Quilmes AC,1,0,H,1,0,H
+ARG,27/02/2005,22:30,Argentinos Juniors,River Plate,3,3,D,2,2,D
+ARG,04/03/2005,22:05,CA Lanús,Vélez Sársfield,1,2,A,0,0,D
+ARG,05/03/2005,00:10,Newell's Old Boys,CA Colón,1,1,D,1,0,H
+ARG,05/03/2005,21:20,Arsenal Sarandí,CA Banfield,2,1,H,0,0,D
+ARG,06/03/2005,00:10,San Lorenzo,Independiente,2,4,A,1,3,A
+ARG,06/03/2005,19:10,Racing Club,Boca Juniors,1,0,H,1,0,H
+ARG,06/03/2005,19:30,Estudiantes,Argentinos Juniors,1,3,A,1,1,D
+ARG,06/03/2005,19:30,Olimpo,GyE La Plata,1,0,H,0,0,D
+ARG,06/03/2005,19:30,Club Almagro,Rosario Central,1,4,A,0,3,A
+ARG,06/03/2005,19:30,Quilmes AC,Huracán de Tres Arroyos,3,0,H,2,0,H
+ARG,06/03/2005,21:30,River Plate,Instituto Córdoba,3,1,H,2,1,H
+ARG,12/03/2005,00:10,Argentinos Juniors,Arsenal Sarandí,1,1,D,0,0,D
+ARG,12/03/2005,19:10,CA Banfield,Newell's Old Boys,0,1,A,0,1,A
+ARG,12/03/2005,21:20,Independiente,Olimpo,1,1,D,1,0,H
+ARG,13/03/2005,00:10,Vélez Sársfield,San Lorenzo,2,0,H,2,0,H
+ARG,13/03/2005,19:10,River Plate,Racing Club,1,0,H,0,0,D
+ARG,13/03/2005,19:30,Instituto Córdoba,Estudiantes,0,3,A,0,1,A
+ARG,13/03/2005,19:30,CA Colón,Quilmes AC,2,1,H,2,0,H
+ARG,13/03/2005,19:30,Huracán de Tres Arroyos,Club Almagro,1,1,D,0,0,D
+ARG,13/03/2005,19:30,Rosario Central,CA Lanús,3,3,D,1,1,D
+ARG,13/03/2005,21:20,GyE La Plata,Boca Juniors,0,1,A,0,0,D
+ARG,19/03/2005,00:10,San Lorenzo,Rosario Central,1,3,A,0,1,A
+ARG,19/03/2005,21:20,Newell's Old Boys,Argentinos Juniors,1,1,D,0,0,D
+ARG,20/03/2005,00:10,Racing Club,GyE La Plata,2,1,H,1,0,H
+ARG,20/03/2005,17:00,Olimpo,Vélez Sársfield,1,1,D,1,1,D
+ARG,20/03/2005,19:10,Boca Juniors,Independiente,2,1,H,1,0,H
+ARG,20/03/2005,19:30,Arsenal Sarandí,Instituto Córdoba,2,1,H,1,0,H
+ARG,20/03/2005,19:30,CA Lanús,Huracán de Tres Arroyos,3,1,H,1,0,H
+ARG,20/03/2005,19:30,Club Almagro,CA Colón,0,5,A,0,2,A
+ARG,20/03/2005,19:30,Quilmes AC,CA Banfield,1,0,H,0,0,D
+ARG,20/03/2005,21:30,Estudiantes,River Plate,2,1,H,0,1,A
+ARG,02/04/2005,01:10,Huracán de Tres Arroyos,San Lorenzo,2,2,D,1,2,A
+ARG,02/04/2005,21:20,Argentinos Juniors,Quilmes AC,0,1,A,0,0,D
+ARG,03/04/2005,00:00,Independiente,GyE La Plata,2,0,H,0,0,D
+ARG,03/04/2005,19:05,Estudiantes,Racing Club,2,2,D,2,2,D
+ARG,03/04/2005,19:30,Rosario Central,Olimpo,1,0,H,0,0,D
+ARG,03/04/2005,19:30,Instituto Córdoba,Newell's Old Boys,4,3,H,3,2,H
+ARG,03/04/2005,19:30,CA Banfield,Club Almagro,4,1,H,2,0,H
+ARG,03/04/2005,19:30,CA Colón,CA Lanús,4,0,H,0,0,D
+ARG,03/04/2005,20:10,Vélez Sársfield,Boca Juniors,2,0,H,0,0,D
+ARG,03/04/2005,22:30,River Plate,Arsenal Sarandí,2,0,H,2,0,H
+ARG,09/04/2005,01:10,Arsenal Sarandí,Estudiantes,0,0,D,0,0,D
+ARG,09/04/2005,18:45,CA Lanús,CA Banfield,2,4,A,1,2,A
+ARG,09/04/2005,19:30,Quilmes AC,Instituto Córdoba,1,2,A,0,1,A
+ARG,10/04/2005,00:00,GyE La Plata,Vélez Sársfield,2,4,A,2,1,H
+ARG,10/04/2005,18:05,San Lorenzo,CA Colón,0,0,D,0,0,D
+ARG,10/04/2005,19:30,Club Almagro,Argentinos Juniors,2,0,H,1,0,H
+ARG,10/04/2005,19:30,Racing Club,Independiente,3,1,H,1,1,D
+ARG,10/04/2005,19:30,Olimpo,Huracán de Tres Arroyos,3,1,H,2,1,H
+ARG,10/04/2005,20:10,Newell's Old Boys,River Plate,4,2,H,0,2,A
+ARG,10/04/2005,22:30,Boca Juniors,Rosario Central,4,1,H,2,1,H
+ARG,16/04/2005,01:10,Rosario Central,GyE La Plata,2,1,H,1,0,H
+ARG,16/04/2005,22:20,Argentinos Juniors,CA Lanús,0,2,A,0,0,D
+ARG,17/04/2005,01:10,Racing Club,Arsenal Sarandí,1,0,H,0,0,D
+ARG,17/04/2005,18:00,CA Banfield,San Lorenzo,1,0,H,1,0,H
+ARG,17/04/2005,19:30,CA Colón,Olimpo,1,0,H,1,0,H
+ARG,17/04/2005,19:30,Vélez Sársfield,Independiente,3,1,H,3,0,H
+ARG,17/04/2005,19:30,Estudiantes,Newell's Old Boys,3,2,H,0,2,A
+ARG,17/04/2005,19:30,Instituto Córdoba,Club Almagro,3,2,H,0,0,D
+ARG,17/04/2005,20:10,River Plate,Quilmes AC,4,0,H,3,0,H
+ARG,17/04/2005,22:30,Huracán de Tres Arroyos,Boca Juniors,2,4,A,1,3,A
+ARG,23/04/2005,01:10,San Lorenzo,Argentinos Juniors,0,2,A,0,1,A
+ARG,23/04/2005,23:00,Quilmes AC,Estudiantes,1,4,A,0,1,A
+ARG,24/04/2005,01:10,Vélez Sársfield,Racing Club,2,1,H,1,1,D
+ARG,24/04/2005,18:00,Newell's Old Boys,Arsenal Sarandí,0,0,D,0,0,D
+ARG,24/04/2005,19:30,CA Lanús,Instituto Córdoba,4,3,H,0,0,D
+ARG,24/04/2005,19:30,Independiente,Rosario Central,2,0,H,1,0,H
+ARG,24/04/2005,19:30,GyE La Plata,Huracán de Tres Arroyos,2,0,H,1,0,H
+ARG,24/04/2005,19:30,Olimpo,CA Banfield,2,0,H,0,0,D
+ARG,24/04/2005,20:10,Boca Juniors,CA Colón,1,1,D,1,0,H
+ARG,24/04/2005,22:30,Club Almagro,River Plate,2,5,A,1,3,A
+ARG,29/04/2005,20:45,Argentinos Juniors,Olimpo,0,0,D,0,0,D
+ARG,29/04/2005,23:00,Huracán de Tres Arroyos,Independiente,0,1,A,0,1,A
+ARG,30/04/2005,01:10,Racing Club,Newell's Old Boys,3,3,D,1,0,H
+ARG,30/04/2005,18:05,Instituto Córdoba,San Lorenzo,1,1,D,0,0,D
+ARG,30/04/2005,19:30,CA Colón,GyE La Plata,1,2,A,0,0,D
+ARG,30/04/2005,19:30,Rosario Central,Vélez Sársfield,1,1,D,0,0,D
+ARG,30/04/2005,19:30,Estudiantes,Club Almagro,3,2,H,0,1,A
+ARG,30/04/2005,20:10,River Plate,CA Lanús,1,1,D,0,0,D
+ARG,30/04/2005,22:30,CA Banfield,Boca Juniors,3,2,H,1,1,D
+ARG,01/05/2005,00:30,Arsenal Sarandí,Quilmes AC,2,1,H,2,1,H
+ARG,07/05/2005,00:45,Independiente,CA Colón,2,3,A,1,2,A
+ARG,07/05/2005,22:20,Quilmes AC,Newell's Old Boys,2,0,H,2,0,H
+ARG,08/05/2005,01:10,Vélez Sársfield,Huracán de Tres Arroyos,2,0,H,1,0,H
+ARG,08/05/2005,18:00,Rosario Central,Racing Club,0,2,A,0,1,A
+ARG,08/05/2005,19:30,Olimpo,Instituto Córdoba,1,1,D,1,0,H
+ARG,08/05/2005,19:30,CA Lanús,Estudiantes,0,0,D,0,0,D
+ARG,08/05/2005,19:30,Club Almagro,Arsenal Sarandí,1,2,A,1,2,A
+ARG,08/05/2005,19:30,GyE La Plata,CA Banfield,0,2,A,0,1,A
+ARG,08/05/2005,20:10,San Lorenzo,River Plate,3,1,H,1,1,D
+ARG,08/05/2005,22:30,Boca Juniors,Argentinos Juniors,1,2,A,0,0,D
+ARG,14/05/2005,00:45,Estudiantes,San Lorenzo,0,1,A,0,0,D
+ARG,14/05/2005,19:30,Instituto Córdoba,Boca Juniors,3,1,H,3,1,H
+ARG,14/05/2005,19:30,Arsenal Sarandí,CA Lanús,2,2,D,2,0,H
+ARG,14/05/2005,22:20,River Plate,Olimpo,0,2,A,0,1,A
+ARG,15/05/2005,01:10,CA Banfield,Independiente,1,1,D,0,0,D
+ARG,15/05/2005,19:30,Argentinos Juniors,GyE La Plata,1,2,A,0,2,A
+ARG,15/05/2005,19:30,Huracán de Tres Arroyos,Rosario Central,2,2,D,0,1,A
+ARG,15/05/2005,19:30,Newell's Old Boys,Club Almagro,2,1,H,1,1,D
+ARG,15/05/2005,20:10,CA Colón,Vélez Sársfield,1,1,D,1,1,D
+ARG,15/05/2005,22:30,Racing Club,Quilmes AC,2,1,H,1,0,H
+ARG,21/05/2005,00:45,San Lorenzo,Arsenal Sarandí,1,2,A,1,1,D
+ARG,21/05/2005,01:00,CA Lanús,Newell's Old Boys,0,0,D,0,0,D
+ARG,21/05/2005,22:20,Vélez Sársfield,CA Banfield,2,0,H,0,0,D
+ARG,22/05/2005,01:10,Huracán de Tres Arroyos,Racing Club,0,0,D,0,0,D
+ARG,22/05/2005,19:00,Boca Juniors,River Plate,2,1,H,1,0,H
+ARG,22/05/2005,19:30,GyE La Plata,Instituto Córdoba,0,0,D,0,0,D
+ARG,22/05/2005,19:30,Club Almagro,Quilmes AC,2,0,H,0,0,D
+ARG,22/05/2005,19:30,Rosario Central,CA Colón,0,0,D,0,0,D
+ARG,22/05/2005,21:20,Olimpo,Estudiantes,0,2,A,0,0,D
+ARG,22/05/2005,23:30,Independiente,Argentinos Juniors,3,2,H,0,1,A
+ARG,28/05/2005,01:00,Instituto Córdoba,Independiente,0,0,D,0,0,D
+ARG,28/05/2005,19:00,Arsenal Sarandí,Olimpo,3,0,H,3,0,H
+ARG,28/05/2005,20:10,Newell's Old Boys,San Lorenzo,1,1,D,0,1,A
+ARG,29/05/2005,01:10,CA Banfield,Rosario Central,3,0,H,3,0,H
+ARG,29/05/2005,18:00,Argentinos Juniors,Vélez Sársfield,0,3,A,0,1,A
+ARG,29/05/2005,19:30,CA Colón,Huracán de Tres Arroyos,3,0,H,2,0,H
+ARG,29/05/2005,19:30,Racing Club,Club Almagro,1,1,D,1,0,H
+ARG,29/05/2005,19:30,Quilmes AC,CA Lanús,0,0,D,0,0,D
+ARG,29/05/2005,20:10,Estudiantes,Boca Juniors,0,0,D,0,0,D
+ARG,29/05/2005,22:30,River Plate,GyE La Plata,1,2,A,1,1,D
+ARG,11/06/2005,01:10,Rosario Central,Argentinos Juniors,1,1,D,1,1,D
+ARG,11/06/2005,22:20,San Lorenzo,Quilmes AC,2,0,H,1,0,H
+ARG,11/06/2005,23:30,Olimpo,Newell's Old Boys,1,0,H,1,0,H
+ARG,12/06/2005,00:00,CA Lanús,Club Almagro,6,0,H,4,0,H
+ARG,12/06/2005,01:10,Boca Juniors,Arsenal Sarandí,1,3,A,1,1,D
+ARG,12/06/2005,18:05,GyE La Plata,Estudiantes,4,1,H,2,0,H
+ARG,12/06/2005,19:30,Vélez Sársfield,Instituto Córdoba,2,3,A,1,3,A
+ARG,12/06/2005,19:30,Huracán de Tres Arroyos,CA Banfield,0,2,A,0,1,A
+ARG,12/06/2005,20:10,Independiente,River Plate,1,1,D,1,1,D
+ARG,12/06/2005,22:30,CA Colón,Racing Club,2,2,D,1,0,H
+ARG,18/06/2005,01:10,Club Almagro,San Lorenzo,3,1,H,3,0,H
+ARG,18/06/2005,22:20,Arsenal Sarandí,GyE La Plata,1,2,A,1,1,D
+ARG,19/06/2005,01:10,Estudiantes,Independiente,2,2,D,0,0,D
+ARG,19/06/2005,18:05,Newell's Old Boys,Boca Juniors,1,0,H,0,0,D
+ARG,19/06/2005,19:30,Quilmes AC,Olimpo,1,1,D,1,1,D
+ARG,19/06/2005,19:30,Instituto Córdoba,Rosario Central,1,2,A,0,0,D
+ARG,19/06/2005,19:30,Argentinos Juniors,Huracán de Tres Arroyos,5,1,H,2,1,H
+ARG,19/06/2005,19:30,CA Banfield,CA Colón,0,0,D,0,0,D
+ARG,19/06/2005,20:10,River Plate,Vélez Sársfield,0,1,A,0,1,A
+ARG,19/06/2005,22:30,Racing Club,CA Lanús,2,0,H,0,0,D
+ARG,25/06/2005,20:00,GyE La Plata,Newell's Old Boys,1,0,H,0,0,D
+ARG,26/06/2005,01:10,San Lorenzo,CA Lanús,3,1,H,2,0,H
+ARG,26/06/2005,19:00,Rosario Central,River Plate,3,0,H,2,0,H
+ARG,26/06/2005,19:00,Boca Juniors,Quilmes AC,0,0,D,0,0,D
+ARG,26/06/2005,19:30,CA Colón,Argentinos Juniors,3,3,D,2,0,H
+ARG,26/06/2005,19:30,Huracán de Tres Arroyos,Instituto Córdoba,1,4,A,0,2,A
+ARG,26/06/2005,19:30,Olimpo,Club Almagro,1,0,H,1,0,H
+ARG,26/06/2005,22:10,Vélez Sársfield,Estudiantes,3,0,H,3,0,H
+ARG,26/06/2005,22:10,CA Banfield,Racing Club,1,0,H,1,0,H
+ARG,28/06/2005,20:00,Independiente,Arsenal Sarandí,4,2,H,1,1,D
+ARG,02/07/2005,19:30,Quilmes AC,GyE La Plata,1,1,D,1,1,D
+ARG,02/07/2005,22:20,Newell's Old Boys,Independiente,1,1,D,1,1,D
+ARG,03/07/2005,01:10,Racing Club,San Lorenzo,0,1,A,0,1,A
+ARG,03/07/2005,18:00,Estudiantes,Rosario Central,1,1,D,1,1,D
+ARG,03/07/2005,19:30,River Plate,Huracán de Tres Arroyos,1,0,H,0,0,D
+ARG,03/07/2005,20:10,CA Lanús,Olimpo,5,0,H,4,0,H
+ARG,03/07/2005,20:10,Arsenal Sarandí,Vélez Sársfield,1,1,D,0,0,D
+ARG,03/07/2005,20:10,Instituto Córdoba,CA Colón,2,0,H,0,0,D
+ARG,03/07/2005,20:10,Argentinos Juniors,CA Banfield,1,2,A,0,0,D

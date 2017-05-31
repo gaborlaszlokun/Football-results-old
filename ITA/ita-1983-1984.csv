@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,12/09/1983,,Calcio Catania,Torino FC,0,0,D,0,0,D
+ITA,12/09/1983,,ACF Fiorentina,SSC Napoli,5,1,H,2,0,H
+ITA,12/09/1983,,Genoa CFC,Udinese Calcio,0,5,A,0,2,A
+ITA,12/09/1983,,Inter,Sampdoria,1,2,A,0,0,D
+ITA,12/09/1983,,Juventus,Ascoli Calcio,7,0,H,4,0,H
+ITA,12/09/1983,,AS Roma,Pisa SC,2,0,H,1,0,H
+ITA,12/09/1983,,Hellas Verona,Lazio Roma,4,2,H,3,0,H
+ITA,12/09/1983,,US Avellino,AC Milan,4,0,H,2,0,H
+ITA,18/09/1983,,Pisa SC,Juventus,0,0,D,0,0,D
+ITA,18/09/1983,,Udinese Calcio,Calcio Catania,3,1,H,1,1,D
+ITA,18/09/1983,,Sampdoria,AS Roma,1,2,A,1,1,D
+ITA,18/09/1983,,Ascoli Calcio,US Avellino,4,1,H,2,0,H
+ITA,18/09/1983,,AC Milan,Hellas Verona,4,2,H,1,1,D
+ITA,18/09/1983,,Lazio Roma,Inter,3,0,H,1,0,H
+ITA,18/09/1983,,SSC Napoli,Genoa CFC,0,0,D,0,0,D
+ITA,18/09/1983,,Torino FC,ACF Fiorentina,1,0,H,1,0,H
+ITA,25/09/1983,,ACF Fiorentina,Ascoli Calcio,2,1,H,1,0,H
+ITA,25/09/1983,,Hellas Verona,Pisa SC,2,0,H,1,0,H
+ITA,25/09/1983,,AS Roma,AC Milan,3,1,H,2,1,H
+ITA,25/09/1983,,Juventus,SSC Napoli,2,0,H,0,0,D
+ITA,25/09/1983,,Genoa CFC,Lazio Roma,0,0,D,0,0,D
+ITA,25/09/1983,,Calcio Catania,Sampdoria,1,1,D,0,1,A
+ITA,25/09/1983,,US Avellino,Udinese Calcio,2,1,H,1,0,H
+ITA,25/09/1983,,Inter,Torino FC,0,0,D,0,0,D
+ITA,02/10/1983,,Sampdoria,ACF Fiorentina,1,2,A,1,1,D
+ITA,02/10/1983,,Pisa SC,Genoa CFC,1,1,D,0,1,A
+ITA,02/10/1983,,Udinese Calcio,Hellas Verona,1,1,D,1,0,H
+ITA,02/10/1983,,Ascoli Calcio,Inter,1,0,H,1,0,H
+ITA,02/10/1983,,AC Milan,Calcio Catania,2,1,H,1,0,H
+ITA,02/10/1983,,SSC Napoli,US Avellino,2,0,H,2,0,H
+ITA,02/10/1983,,Lazio Roma,Juventus,0,1,A,0,1,A
+ITA,02/10/1983,,Torino FC,AS Roma,2,1,H,2,0,H
+ITA,09/10/1983,,ACF Fiorentina,Udinese Calcio,0,0,D,0,0,D
+ITA,09/10/1983,,Hellas Verona,Ascoli Calcio,3,1,H,2,1,H
+ITA,09/10/1983,,Sampdoria,Lazio Roma,1,1,D,1,0,H
+ITA,09/10/1983,,AS Roma,Genoa CFC,1,0,H,0,0,D
+ITA,09/10/1983,,Inter,SSC Napoli,1,0,H,0,0,D
+ITA,09/10/1983,,Calcio Catania,Pisa SC,2,0,H,0,0,D
+ITA,09/10/1983,,US Avellino,Torino FC,0,0,D,0,0,D
+ITA,09/10/1983,,Juventus,AC Milan,2,1,H,2,0,H
+ITA,23/10/1983,,Genoa CFC,US Avellino,0,2,A,0,2,A
+ITA,23/10/1983,,Torino FC,Juventus,2,1,H,0,0,D
+ITA,23/10/1983,,SSC Napoli,Ascoli Calcio,1,0,H,1,0,H
+ITA,23/10/1983,,Udinese Calcio,Inter,2,2,D,1,0,H
+ITA,23/10/1983,,Lazio Roma,AS Roma,0,2,A,0,1,A
+ITA,23/10/1983,,ACF Fiorentina,Pisa SC,0,0,D,0,0,D
+ITA,23/10/1983,,Calcio Catania,Hellas Verona,0,1,A,0,0,D
+ITA,23/10/1983,,AC Milan,Sampdoria,2,1,H,1,0,H
+ITA,30/10/1983,,Ascoli Calcio,Udinese Calcio,1,0,H,0,0,D
+ITA,30/10/1983,,US Avellino,Calcio Catania,0,0,D,0,0,D
+ITA,30/10/1983,,Genoa CFC,Torino FC,2,1,H,1,0,H
+ITA,30/10/1983,,Juventus,Sampdoria,1,2,A,1,0,H
+ITA,30/10/1983,,AC Milan,Lazio Roma,4,1,H,3,0,H
+ITA,30/10/1983,,Pisa SC,Inter,0,0,D,0,0,D
+ITA,30/10/1983,,AS Roma,SSC Napoli,5,1,H,4,0,H
+ITA,30/10/1983,,Hellas Verona,ACF Fiorentina,3,1,H,2,1,H
+ITA,06/11/1983,,Lazio Roma,US Avellino,2,1,H,2,1,H
+ITA,06/11/1983,,SSC Napoli,Pisa SC,0,0,D,0,0,D
+ITA,06/11/1983,,Sampdoria,Genoa CFC,2,0,H,1,0,H
+ITA,06/11/1983,,Inter,AC Milan,2,0,H,2,0,H
+ITA,06/11/1983,,Ascoli Calcio,Torino FC,0,0,D,0,0,D
+ITA,06/11/1983,,ACF Fiorentina,Calcio Catania,5,0,H,2,0,H
+ITA,06/11/1983,,Juventus,Hellas Verona,3,1,H,2,1,H
+ITA,06/11/1983,,Udinese Calcio,AS Roma,1,0,H,0,0,D
+ITA,20/11/1983,,Genoa CFC,Inter,1,1,D,1,0,H
+ITA,20/11/1983,,Hellas Verona,SSC Napoli,1,1,D,1,0,H
+ITA,20/11/1983,,Torino FC,Lazio Roma,4,0,H,2,0,H
+ITA,20/11/1983,,AS Roma,Ascoli Calcio,1,1,D,0,0,D
+ITA,20/11/1983,,AC Milan,ACF Fiorentina,2,2,D,1,1,D
+ITA,20/11/1983,,Calcio Catania,Juventus,0,2,A,0,0,D
+ITA,20/11/1983,,US Avellino,Sampdoria,0,2,A,0,0,D
+ITA,20/11/1983,,Pisa SC,Udinese Calcio,1,1,D,0,1,A
+ITA,27/11/1983,,Inter,AS Roma,1,0,H,1,0,H
+ITA,27/11/1983,,Hellas Verona,US Avellino,3,0,H,2,0,H
+ITA,27/11/1983,,Torino FC,Pisa SC,2,2,D,2,1,H
+ITA,27/11/1983,,Sampdoria,Udinese Calcio,2,1,H,1,1,D
+ITA,27/11/1983,,ACF Fiorentina,Juventus,3,3,D,1,2,A
+ITA,27/11/1983,,Ascoli Calcio,Genoa CFC,0,0,D,0,0,D
+ITA,27/11/1983,,SSC Napoli,AC Milan,0,0,D,0,0,D
+ITA,27/11/1983,,Lazio Roma,Calcio Catania,3,0,H,0,0,D
+ITA,04/12/1983,,Lazio Roma,ACF Fiorentina,1,2,A,1,0,H
+ITA,04/12/1983,,Udinese Calcio,Torino FC,0,0,D,0,0,D
+ITA,04/12/1983,,Sampdoria,Hellas Verona,1,0,H,1,0,H
+ITA,04/12/1983,,AC Milan,Genoa CFC,1,0,H,1,0,H
+ITA,04/12/1983,,Juventus,AS Roma,2,2,D,0,0,D
+ITA,04/12/1983,,Calcio Catania,SSC Napoli,0,0,D,0,0,D
+ITA,04/12/1983,,US Avellino,Inter,1,1,D,0,1,A
+ITA,04/12/1983,,Pisa SC,Ascoli Calcio,0,1,A,0,1,A
+ITA,11/12/1983,,Inter,ACF Fiorentina,2,1,H,2,1,H
+ITA,11/12/1983,,Torino FC,Hellas Verona,1,1,D,1,1,D
+ITA,11/12/1983,,AS Roma,US Avellino,3,2,H,1,0,H
+ITA,11/12/1983,,Udinese Calcio,Juventus,2,2,D,2,1,H
+ITA,11/12/1983,,Genoa CFC,Calcio Catania,3,0,H,1,0,H
+ITA,11/12/1983,,Ascoli Calcio,AC Milan,2,4,A,1,1,D
+ITA,11/12/1983,,Pisa SC,Sampdoria,0,0,D,0,0,D
+ITA,11/12/1983,,SSC Napoli,Lazio Roma,3,0,H,0,0,D
+ITA,18/12/1983,,Juventus,Inter,2,0,H,1,0,H
+ITA,18/12/1983,,Hellas Verona,Genoa CFC,0,0,D,0,0,D
+ITA,18/12/1983,,Sampdoria,SSC Napoli,4,1,H,3,0,H
+ITA,18/12/1983,,Lazio Roma,Udinese Calcio,2,2,D,2,0,H
+ITA,18/12/1983,,ACF Fiorentina,AS Roma,0,0,D,0,0,D
+ITA,18/12/1983,,Calcio Catania,Ascoli Calcio,1,1,D,0,0,D
+ITA,18/12/1983,,US Avellino,Pisa SC,1,1,D,0,0,D
+ITA,18/12/1983,,AC Milan,Torino FC,0,1,A,0,0,D
+ITA,31/12/1983,,Inter,Hellas Verona,1,0,H,1,0,H
+ITA,31/12/1983,,Torino FC,Sampdoria,2,1,H,1,0,H
+ITA,31/12/1983,,Udinese Calcio,SSC Napoli,4,1,H,2,0,H
+ITA,31/12/1983,,Pisa SC,AC Milan,0,0,D,0,0,D
+ITA,31/12/1983,,US Avellino,Juventus,1,2,A,1,1,D
+ITA,31/12/1983,,Ascoli Calcio,Lazio Roma,2,0,H,1,0,H
+ITA,31/12/1983,,AS Roma,Calcio Catania,1,0,H,1,0,H
+ITA,31/12/1983,,Genoa CFC,ACF Fiorentina,2,2,D,0,0,D
+ITA,08/01/1984,,Lazio Roma,Pisa SC,0,1,A,0,1,A
+ITA,08/01/1984,,Hellas Verona,AS Roma,1,0,H,0,0,D
+ITA,08/01/1984,,Sampdoria,Ascoli Calcio,1,2,A,0,1,A
+ITA,08/01/1984,,AC Milan,Udinese Calcio,3,3,D,2,1,H
+ITA,08/01/1984,,Juventus,Genoa CFC,4,2,H,2,1,H
+ITA,08/01/1984,,ACF Fiorentina,US Avellino,1,0,H,1,0,H
+ITA,08/01/1984,,Calcio Catania,Inter,0,0,D,0,0,D
+ITA,08/01/1984,,SSC Napoli,Torino FC,0,0,D,0,0,D
+ITA,15/01/1984,,Sampdoria,Inter,0,2,A,0,1,A
+ITA,15/01/1984,,Lazio Roma,Hellas Verona,1,1,D,1,1,D
+ITA,15/01/1984,,Udinese Calcio,Genoa CFC,3,1,H,1,0,H
+ITA,15/01/1984,,Torino FC,Calcio Catania,2,0,H,1,0,H
+ITA,15/01/1984,,Ascoli Calcio,Juventus,0,0,D,0,0,D
+ITA,15/01/1984,,AC Milan,US Avellino,1,0,H,0,0,D
+ITA,15/01/1984,,SSC Napoli,ACF Fiorentina,0,0,D,0,0,D
+ITA,15/01/1984,,Pisa SC,AS Roma,1,1,D,0,1,A
+ITA,22/01/1984,,Genoa CFC,SSC Napoli,0,0,D,0,0,D
+ITA,22/01/1984,,Hellas Verona,AC Milan,1,1,D,0,0,D
+ITA,22/01/1984,,AS Roma,Sampdoria,1,1,D,1,0,H
+ITA,22/01/1984,,Inter,Lazio Roma,1,1,D,1,0,H
+ITA,22/01/1984,,ACF Fiorentina,Torino FC,4,1,H,2,1,H
+ITA,22/01/1984,,Calcio Catania,Udinese Calcio,0,2,A,0,0,D
+ITA,22/01/1984,,US Avellino,Ascoli Calcio,2,1,H,1,1,D
+ITA,22/01/1984,,Juventus,Pisa SC,3,1,H,3,0,H
+ITA,29/01/1984,,SSC Napoli,Juventus,1,1,D,0,1,A
+ITA,29/01/1984,,Pisa SC,Hellas Verona,0,3,A,0,2,A
+ITA,29/01/1984,,Udinese Calcio,US Avellino,2,1,H,1,1,D
+ITA,29/01/1984,,Torino FC,Inter,3,1,H,2,1,H
+ITA,29/01/1984,,Ascoli Calcio,ACF Fiorentina,1,2,A,1,1,D
+ITA,29/01/1984,,AC Milan,AS Roma,1,1,D,0,0,D
+ITA,29/01/1984,,Lazio Roma,Genoa CFC,2,1,H,0,1,A
+ITA,29/01/1984,,Sampdoria,Calcio Catania,2,0,H,2,0,H
+ITA,12/02/1984,,Genoa CFC,Pisa SC,0,0,D,0,0,D
+ITA,12/02/1984,,Hellas Verona,Udinese Calcio,2,1,H,1,0,H
+ITA,12/02/1984,,AS Roma,Torino FC,2,1,H,1,1,D
+ITA,12/02/1984,,Inter,Ascoli Calcio,0,0,D,0,0,D
+ITA,12/02/1984,,ACF Fiorentina,Sampdoria,3,0,H,1,0,H
+ITA,12/02/1984,,Calcio Catania,AC Milan,1,1,D,1,1,D
+ITA,12/02/1984,,US Avellino,SSC Napoli,1,0,H,1,0,H
+ITA,12/02/1984,,Juventus,Lazio Roma,2,1,H,1,0,H
+ITA,19/02/1984,,AC Milan,Juventus,0,3,A,0,1,A
+ITA,19/02/1984,,SSC Napoli,Inter,0,2,A,0,1,A
+ITA,19/02/1984,,Udinese Calcio,ACF Fiorentina,3,1,H,1,1,D
+ITA,19/02/1984,,Torino FC,US Avellino,4,2,H,3,1,H
+ITA,19/02/1984,,Ascoli Calcio,Hellas Verona,2,1,H,1,1,D
+ITA,19/02/1984,,Lazio Roma,Sampdoria,2,1,H,1,1,D
+ITA,19/02/1984,,Genoa CFC,AS Roma,0,2,A,0,1,A
+ITA,19/02/1984,,Pisa SC,Calcio Catania,2,0,H,0,0,D
+ITA,26/02/1984,,Juventus,Torino FC,2,1,H,0,0,D
+ITA,26/02/1984,,Hellas Verona,Calcio Catania,3,1,H,2,0,H
+ITA,26/02/1984,,Sampdoria,AC Milan,1,1,D,0,1,A
+ITA,26/02/1984,,Pisa SC,ACF Fiorentina,1,1,D,1,0,H
+ITA,26/02/1984,,Inter,Udinese Calcio,2,0,H,1,0,H
+ITA,26/02/1984,,US Avellino,Genoa CFC,3,1,H,2,1,H
+ITA,26/02/1984,,Ascoli Calcio,SSC Napoli,2,2,D,2,2,D
+ITA,26/02/1984,,AS Roma,Lazio Roma,2,2,D,1,2,A
+ITA,11/03/1984,,Lazio Roma,AC Milan,0,0,D,0,0,D
+ITA,11/03/1984,,SSC Napoli,AS Roma,1,2,A,0,1,A
+ITA,11/03/1984,,Udinese Calcio,Ascoli Calcio,0,0,D,0,0,D
+ITA,11/03/1984,,Torino FC,Genoa CFC,2,1,H,1,0,H
+ITA,11/03/1984,,Inter,Pisa SC,3,0,H,1,0,H
+ITA,11/03/1984,,ACF Fiorentina,Hellas Verona,2,0,H,2,0,H
+ITA,11/03/1984,,Calcio Catania,US Avellino,1,1,D,0,0,D
+ITA,11/03/1984,,Sampdoria,Juventus,1,1,D,0,0,D
+ITA,18/03/1984,,AC Milan,Inter,0,0,D,0,0,D
+ITA,18/03/1984,,Torino FC,Ascoli Calcio,0,0,D,0,0,D
+ITA,18/03/1984,,Pisa SC,SSC Napoli,1,1,D,0,0,D
+ITA,18/03/1984,,Hellas Verona,Juventus,2,1,H,0,1,A
+ITA,18/03/1984,,Genoa CFC,Sampdoria,0,0,D,0,0,D
+ITA,18/03/1984,,Calcio Catania,ACF Fiorentina,0,2,A,0,0,D
+ITA,18/03/1984,,US Avellino,Lazio Roma,3,0,H,1,0,H
+ITA,18/03/1984,,AS Roma,Udinese Calcio,4,1,H,1,1,D
+ITA,25/03/1984,,Lazio Roma,Torino FC,1,0,H,1,0,H
+ITA,25/03/1984,,Sampdoria,US Avellino,0,1,A,0,1,A
+ITA,25/03/1984,,Udinese Calcio,Pisa SC,2,1,H,1,1,D
+ITA,25/03/1984,,SSC Napoli,Hellas Verona,1,0,H,1,0,H
+ITA,25/03/1984,,Inter,Genoa CFC,1,1,D,0,0,D
+ITA,25/03/1984,,Ascoli Calcio,AS Roma,0,0,D,0,0,D
+ITA,25/03/1984,,ACF Fiorentina,AC Milan,2,2,D,1,0,H
+ITA,25/03/1984,,Juventus,Calcio Catania,2,0,H,2,0,H
+ITA,01/04/1984,,Juventus,ACF Fiorentina,1,0,H,0,0,D
+ITA,01/04/1984,,Udinese Calcio,Sampdoria,0,3,A,0,1,A
+ITA,01/04/1984,,AS Roma,Inter,1,0,H,1,0,H
+ITA,01/04/1984,,AC Milan,SSC Napoli,0,2,A,0,0,D
+ITA,01/04/1984,,Genoa CFC,Ascoli Calcio,1,0,H,0,0,D
+ITA,01/04/1984,,Calcio Catania,Lazio Roma,1,1,D,1,0,H
+ITA,01/04/1984,,US Avellino,Hellas Verona,1,0,H,1,0,H
+ITA,01/04/1984,,Pisa SC,Torino FC,1,1,D,1,1,D
+ITA,08/04/1984,,Inter,US Avellino,3,0,H,2,0,H
+ITA,08/04/1984,,SSC Napoli,Calcio Catania,3,0,H,1,0,H
+ITA,08/04/1984,,Hellas Verona,Sampdoria,1,0,H,0,0,D
+ITA,08/04/1984,,Torino FC,Udinese Calcio,0,1,A,0,0,D
+ITA,08/04/1984,,Ascoli Calcio,Pisa SC,3,2,H,1,1,D
+ITA,08/04/1984,,Genoa CFC,AC Milan,2,0,H,0,0,D
+ITA,08/04/1984,,ACF Fiorentina,Lazio Roma,3,2,H,2,1,H
+ITA,08/04/1984,,AS Roma,Juventus,0,0,D,0,0,D
+ITA,21/04/1984,,Juventus,Udinese Calcio,3,2,H,1,2,A
+ITA,21/04/1984,,Sampdoria,Pisa SC,1,0,H,0,0,D
+ITA,21/04/1984,,Lazio Roma,SSC Napoli,3,2,H,2,1,H
+ITA,21/04/1984,,Hellas Verona,Torino FC,2,2,D,2,1,H
+ITA,21/04/1984,,ACF Fiorentina,Inter,1,1,D,0,1,A
+ITA,21/04/1984,,Calcio Catania,Genoa CFC,1,2,A,1,2,A
+ITA,21/04/1984,,US Avellino,AS Roma,2,2,D,0,1,A
+ITA,21/04/1984,,AC Milan,Ascoli Calcio,0,0,D,0,0,D
+ITA,28/04/1984,,Pisa SC,US Avellino,1,0,H,0,0,D
+ITA,28/04/1984,,Torino FC,AC Milan,1,2,A,1,1,D
+ITA,28/04/1984,,Udinese Calcio,Lazio Roma,2,0,H,0,0,D
+ITA,28/04/1984,,AS Roma,ACF Fiorentina,2,1,H,2,0,H
+ITA,28/04/1984,,Inter,Juventus,1,2,A,1,2,A
+ITA,28/04/1984,,Ascoli Calcio,Calcio Catania,2,1,H,1,1,D
+ITA,28/04/1984,,SSC Napoli,Sampdoria,1,1,D,1,0,H
+ITA,28/04/1984,,Genoa CFC,Hellas Verona,1,1,D,1,0,H
+ITA,06/05/1984,,Hellas Verona,Inter,1,2,A,0,0,D
+ITA,06/05/1984,,Calcio Catania,AS Roma,2,2,D,0,2,A
+ITA,06/05/1984,,ACF Fiorentina,Genoa CFC,0,0,D,0,0,D
+ITA,06/05/1984,,Juventus,US Avellino,1,1,D,1,0,H
+ITA,06/05/1984,,Lazio Roma,Ascoli Calcio,2,1,H,1,1,D
+ITA,06/05/1984,,AC Milan,Pisa SC,2,1,H,1,1,D
+ITA,06/05/1984,,SSC Napoli,Udinese Calcio,2,1,H,1,0,H
+ITA,06/05/1984,,Sampdoria,Torino FC,2,1,H,1,1,D
+ITA,13/05/1984,,Torino FC,SSC Napoli,2,1,H,2,1,H
+ITA,13/05/1984,,AS Roma,Hellas Verona,3,2,H,1,2,A
+ITA,13/05/1984,,Pisa SC,Lazio Roma,2,2,D,0,1,A
+ITA,13/05/1984,,Inter,Calcio Catania,6,0,H,3,0,H
+ITA,13/05/1984,,Genoa CFC,Juventus,2,1,H,1,1,D
+ITA,13/05/1984,,Ascoli Calcio,Sampdoria,0,1,A,0,1,A
+ITA,13/05/1984,,Udinese Calcio,AC Milan,1,2,A,1,2,A
+ITA,13/05/1984,,US Avellino,ACF Fiorentina,0,0,D,0,0,D

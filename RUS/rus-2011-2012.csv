@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,12/03/2011,11:00,Anzhi Makhachkala,FK Krasnodar,0,0,D,0,0,D
+RUS,12/03/2011,14:30,Spartak Nalchik,Krylia Sovetov,1,0,H,0,0,D
+RUS,12/03/2011,15:30,Lokomotiv Moskva,Dinamo Moskva,3,2,H,1,0,H
+RUS,13/03/2011,11:00,Kuban Krasnodar,Rubin Kazan,0,2,A,0,0,D
+RUS,13/03/2011,13:15,CSKA Moskva,FK Amkar Perm,2,0,H,1,0,H
+RUS,13/03/2011,15:30,Terek Grozny,Zenit St. Petersburg,0,1,A,0,1,A
+RUS,14/03/2011,15:45,Volga Nizhniy Novgorod,FK Tom Tomsk,2,0,H,2,0,H
+RUS,14/03/2011,16:30,FK Rostov,Spartak Moskva,4,0,H,1,0,H
+RUS,19/03/2011,11:00,FK Krasnodar,Spartak Nalchik,2,0,H,1,0,H
+RUS,19/03/2011,13:15,Dinamo Moskva,FK Rostov,3,1,H,0,0,D
+RUS,20/03/2011,09:00,FK Tom Tomsk,Kuban Krasnodar,0,1,A,0,0,D
+RUS,20/03/2011,11:15,FK Amkar Perm,Lokomotiv Moskva,1,0,H,1,0,H
+RUS,20/03/2011,13:30,Rubin Kazan,Terek Grozny,2,0,H,1,0,H
+RUS,21/03/2011,16:30,Zenit St. Petersburg,Anzhi Makhachkala,2,0,H,2,0,H
+RUS,21/03/2011,17:45,Spartak Moskva,Volga Nizhniy Novgorod,1,0,H,0,0,D
+RUS,25/05/2011,16:00,Krylia Sovetov,CSKA Moskva,0,3,A,0,2,A
+RUS,02/04/2011,11:00,FK Amkar Perm,Krylia Sovetov,1,1,D,1,0,H
+RUS,02/04/2011,13:15,Volga Nizhniy Novgorod,Dinamo Moskva,3,0,H,0,0,D
+RUS,02/04/2011,15:30,Lokomotiv Moskva,FK Rostov,1,1,D,0,0,D
+RUS,02/04/2011,17:45,Kuban Krasnodar,Spartak Moskva,3,1,H,1,0,H
+RUS,03/04/2011,11:00,Spartak Nalchik,Zenit St. Petersburg,2,2,D,0,1,A
+RUS,03/04/2011,13:15,Anzhi Makhachkala,Rubin Kazan,1,0,H,1,0,H
+RUS,03/04/2011,15:30,CSKA Moskva,FK Krasnodar,1,1,D,1,0,H
+RUS,04/04/2011,15:00,Terek Grozny,FK Tom Tomsk,2,0,H,2,0,H
+RUS,09/04/2011,11:00,Krylia Sovetov,Lokomotiv Moskva,1,0,H,0,0,D
+RUS,09/04/2011,13:15,FK Krasnodar,FK Amkar Perm,1,0,H,0,0,D
+RUS,09/04/2011,15:30,Dinamo Moskva,Kuban Krasnodar,1,0,H,0,0,D
+RUS,10/04/2011,11:00,FK Rostov,Volga Nizhniy Novgorod,1,3,A,0,1,A
+RUS,10/04/2011,13:15,Rubin Kazan,Spartak Nalchik,0,0,D,0,0,D
+RUS,10/04/2011,15:30,Zenit St. Petersburg,CSKA Moskva,0,3,A,1,1,D
+RUS,10/04/2011,17:45,Spartak Moskva,Terek Grozny,0,0,D,0,0,D
+RUS,11/04/2011,12:00,FK Tom Tomsk,Anzhi Makhachkala,0,0,D,0,0,D
+RUS,16/04/2011,11:00,Krylia Sovetov,FK Krasnodar,0,0,D,0,0,D
+RUS,16/04/2011,13:15,Kuban Krasnodar,FK Rostov,2,0,H,2,0,H
+RUS,16/04/2011,15:30,Terek Grozny,Dinamo Moskva,0,0,D,0,0,D
+RUS,17/04/2011,09:15,FK Amkar Perm,Zenit St. Petersburg,1,3,A,0,2,A
+RUS,17/04/2011,11:30,Lokomotiv Moskva,Volga Nizhniy Novgorod,1,0,H,0,0,D
+RUS,17/04/2011,13:45,CSKA Moskva,Rubin Kazan,2,0,H,1,0,H
+RUS,17/04/2011,16:30,Anzhi Makhachkala,Spartak Moskva,2,1,H,1,1,D
+RUS,18/04/2011,14:00,Spartak Nalchik,FK Tom Tomsk,1,2,A,0,2,A
+RUS,23/04/2011,11:00,Volga Nizhniy Novgorod,Kuban Krasnodar,0,1,A,0,0,D
+RUS,23/04/2011,13:15,FK Rostov,Terek Grozny,1,0,H,1,0,H
+RUS,23/04/2011,15:30,FK Krasnodar,Lokomotiv Moskva,1,4,A,0,2,A
+RUS,24/04/2011,09:15,FK Tom Tomsk,CSKA Moskva,1,1,D,0,1,A
+RUS,24/04/2011,11:30,Rubin Kazan,FK Amkar Perm,1,1,D,1,0,H
+RUS,24/04/2011,13:45,Zenit St. Petersburg,Krylia Sovetov,3,0,H,1,0,H
+RUS,24/04/2011,16:00,Spartak Moskva,Spartak Nalchik,1,0,H,0,0,D
+RUS,25/04/2011,16:30,Dinamo Moskva,Anzhi Makhachkala,2,2,D,0,0,D
+RUS,30/04/2011,11:00,CSKA Moskva,Spartak Moskva,0,1,A,0,0,D
+RUS,30/04/2011,13:15,Terek Grozny,Volga Nizhniy Novgorod,1,0,H,0,0,D
+RUS,30/04/2011,15:30,Lokomotiv Moskva,Kuban Krasnodar,2,1,H,1,0,H
+RUS,01/05/2011,09:00,FK Amkar Perm,FK Tom Tomsk,1,2,A,1,1,D
+RUS,01/05/2011,11:15,Anzhi Makhachkala,FK Rostov,1,0,H,0,0,D
+RUS,01/05/2011,13:30,FK Krasnodar,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,01/05/2011,16:00,Krylia Sovetov,Rubin Kazan,2,2,D,1,1,D
+RUS,02/05/2011,13:00,Spartak Nalchik,Dinamo Moskva,2,3,A,0,1,A
+RUS,07/05/2011,08:45,FK Tom Tomsk,Krylia Sovetov,1,1,D,0,0,D
+RUS,07/05/2011,11:00,Kuban Krasnodar,Terek Grozny,2,1,H,1,0,H
+RUS,07/05/2011,13:15,Volga Nizhniy Novgorod,Anzhi Makhachkala,1,2,A,1,0,H
+RUS,07/05/2011,15:30,FK Rostov,Spartak Nalchik,0,0,D,0,0,D
+RUS,08/05/2011,11:00,Dinamo Moskva,CSKA Moskva,2,2,D,1,1,D
+RUS,08/05/2011,13:15,Spartak Moskva,FK Amkar Perm,1,2,A,0,0,D
+RUS,08/05/2011,15:30,Rubin Kazan,FK Krasnodar,2,1,H,1,1,D
+RUS,08/05/2011,17:45,Zenit St. Petersburg,Lokomotiv Moskva,1,1,D,0,0,D
+RUS,14/05/2011,11:00,Spartak Nalchik,Volga Nizhniy Novgorod,1,1,D,0,0,D
+RUS,14/05/2011,13:15,FK Krasnodar,FK Tom Tomsk,2,2,D,2,0,H
+RUS,14/05/2011,15:30,Anzhi Makhachkala,Kuban Krasnodar,0,0,D,0,0,D
+RUS,14/05/2011,17:45,Lokomotiv Moskva,Terek Grozny,4,0,H,2,0,H
+RUS,15/05/2011,10:30,FK Amkar Perm,Dinamo Moskva,0,0,D,0,0,D
+RUS,15/05/2011,13:00,Zenit St. Petersburg,Rubin Kazan,2,2,D,1,2,A
+RUS,15/05/2011,15:15,Krylia Sovetov,Spartak Moskva,0,1,A,0,0,D
+RUS,15/05/2011,17:30,CSKA Moskva,FK Rostov,2,1,H,2,0,H
+RUS,20/05/2011,13:00,Terek Grozny,Anzhi Makhachkala,1,0,H,1,0,H
+RUS,20/05/2011,15:15,Kuban Krasnodar,Spartak Nalchik,1,1,D,0,0,D
+RUS,20/05/2011,17:30,Rubin Kazan,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,21/05/2011,08:45,FK Tom Tomsk,Zenit St. Petersburg,2,1,H,1,1,D
+RUS,21/05/2011,11:00,FK Rostov,FK Amkar Perm,3,0,H,0,0,D
+RUS,21/05/2011,13:15,Dinamo Moskva,Krylia Sovetov,1,0,H,0,0,D
+RUS,21/05/2011,15:30,Spartak Moskva,FK Krasnodar,4,0,H,1,0,H
+RUS,21/07/2011,16:30,Volga Nizhniy Novgorod,CSKA Moskva,0,2,A,0,1,A
+RUS,27/05/2011,14:00,Spartak Nalchik,Terek Grozny,2,2,D,1,2,A
+RUS,27/05/2011,15:45,Rubin Kazan,FK Tom Tomsk,4,1,H,2,1,H
+RUS,27/05/2011,16:15,Lokomotiv Moskva,Anzhi Makhachkala,1,2,A,0,0,D
+RUS,29/05/2011,13:00,Zenit St. Petersburg,Spartak Moskva,3,0,H,1,0,H
+RUS,29/05/2011,15:15,Krylia Sovetov,FK Rostov,2,2,D,1,2,A
+RUS,29/05/2011,16:00,CSKA Moskva,Kuban Krasnodar,1,1,D,0,0,D
+RUS,29/05/2011,17:30,FK Krasnodar,Dinamo Moskva,0,1,A,0,0,D
+RUS,30/05/2011,14:30,FK Amkar Perm,Volga Nizhniy Novgorod,1,0,H,0,0,D
+RUS,10/06/2011,12:30,FK Tom Tomsk,Lokomotiv Moskva,2,2,D,2,0,H
+RUS,10/06/2011,14:45,Anzhi Makhachkala,Spartak Nalchik,2,0,H,1,0,H
+RUS,10/06/2011,15:45,Terek Grozny,CSKA Moskva,2,4,A,0,2,A
+RUS,10/06/2011,15:45,Kuban Krasnodar,FK Amkar Perm,3,2,H,1,1,D
+RUS,10/06/2011,16:30,Volga Nizhniy Novgorod,Krylia Sovetov,2,0,H,0,0,D
+RUS,10/06/2011,17:00,Dinamo Moskva,Zenit St. Petersburg,1,1,D,0,0,D
+RUS,10/06/2011,18:00,Spartak Moskva,Rubin Kazan,0,0,D,0,0,D
+RUS,10/06/2011,18:00,FK Rostov,FK Krasnodar,1,3,A,1,1,D
+RUS,14/06/2011,12:30,FK Tom Tomsk,Spartak Moskva,1,1,D,0,1,A
+RUS,14/06/2011,14:45,FK Amkar Perm,Terek Grozny,1,0,H,0,0,D
+RUS,14/06/2011,15:45,Zenit St. Petersburg,FK Rostov,4,0,H,2,0,H
+RUS,14/06/2011,15:45,Lokomotiv Moskva,Spartak Nalchik,3,1,H,1,1,D
+RUS,14/06/2011,16:30,Krylia Sovetov,Kuban Krasnodar,1,0,H,0,0,D
+RUS,14/06/2011,17:00,CSKA Moskva,Anzhi Makhachkala,3,0,H,2,0,H
+RUS,14/06/2011,18:00,Rubin Kazan,Dinamo Moskva,3,0,H,1,0,H
+RUS,14/06/2011,18:00,FK Krasnodar,Volga Nizhniy Novgorod,4,2,H,2,1,H
+RUS,18/06/2011,13:30,Dinamo Moskva,FK Tom Tomsk,3,0,H,3,0,H
+RUS,18/06/2011,13:30,Anzhi Makhachkala,FK Amkar Perm,0,0,D,0,0,D
+RUS,18/06/2011,15:45,Spartak Nalchik,CSKA Moskva,0,2,A,0,1,A
+RUS,18/06/2011,15:45,Terek Grozny,Krylia Sovetov,2,0,H,1,0,H
+RUS,18/06/2011,15:45,Volga Nizhniy Novgorod,Zenit St. Petersburg,0,2,A,0,2,A
+RUS,18/06/2011,17:00,Kuban Krasnodar,FK Krasnodar,0,1,A,0,0,D
+RUS,18/06/2011,18:00,Lokomotiv Moskva,Spartak Moskva,0,2,A,0,2,A
+RUS,18/06/2011,18:00,FK Rostov,Rubin Kazan,1,3,A,0,1,A
+RUS,22/06/2011,12:30,FK Tom Tomsk,FK Rostov,1,1,D,0,0,D
+RUS,22/06/2011,14:45,FK Amkar Perm,Spartak Nalchik,1,0,H,0,0,D
+RUS,22/06/2011,15:45,Spartak Moskva,Dinamo Moskva,0,2,A,0,1,A
+RUS,22/06/2011,15:45,Rubin Kazan,Volga Nizhniy Novgorod,2,0,H,0,0,D
+RUS,22/06/2011,16:30,Krylia Sovetov,Anzhi Makhachkala,0,3,A,0,2,A
+RUS,22/06/2011,17:00,CSKA Moskva,Lokomotiv Moskva,3,1,H,2,1,H
+RUS,22/06/2011,18:00,FK Krasnodar,Terek Grozny,0,2,A,0,1,A
+RUS,22/06/2011,18:00,Zenit St. Petersburg,Kuban Krasnodar,1,0,H,1,0,H
+RUS,26/06/2011,11:15,FK Tom Tomsk,Volga Nizhniy Novgorod,0,3,A,0,2,A
+RUS,26/06/2011,13:30,FK Amkar Perm,CSKA Moskva,0,2,A,0,1,A
+RUS,26/06/2011,15:45,Zenit St. Petersburg,Terek Grozny,0,0,D,0,0,D
+RUS,26/06/2011,15:45,Krylia Sovetov,Spartak Nalchik,0,2,A,0,2,A
+RUS,26/06/2011,15:45,Rubin Kazan,Kuban Krasnodar,0,2,A,0,0,D
+RUS,26/06/2011,18:00,Dinamo Moskva,Lokomotiv Moskva,4,1,H,3,0,H
+RUS,26/06/2011,18:00,Spartak Moskva,FK Rostov,3,2,H,0,0,D
+RUS,26/06/2011,18:00,FK Krasnodar,Anzhi Makhachkala,2,2,D,0,1,A
+RUS,22/07/2011,16:45,Terek Grozny,Rubin Kazan,0,1,A,0,0,D
+RUS,23/07/2011,17:00,Kuban Krasnodar,FK Tom Tomsk,1,3,A,0,1,A
+RUS,24/07/2011,13:30,Volga Nizhniy Novgorod,Spartak Moskva,0,2,A,0,1,A
+RUS,24/07/2011,15:45,Lokomotiv Moskva,FK Amkar Perm,4,0,H,2,0,H
+RUS,24/07/2011,16:15,Spartak Nalchik,FK Krasnodar,2,2,D,0,0,D
+RUS,24/07/2011,17:00,FK Rostov,Dinamo Moskva,0,2,A,0,1,A
+RUS,24/07/2011,18:00,Anzhi Makhachkala,Zenit St. Petersburg,0,1,A,0,0,D
+RUS,25/07/2011,16:30,CSKA Moskva,Krylia Sovetov,2,1,H,2,1,H
+RUS,30/07/2011,12:30,FK Tom Tomsk,Terek Grozny,0,1,A,0,0,D
+RUS,30/07/2011,14:45,Rubin Kazan,Anzhi Makhachkala,0,3,A,0,0,D
+RUS,30/07/2011,17:00,Spartak Moskva,Kuban Krasnodar,1,1,D,0,1,A
+RUS,31/07/2011,13:30,Zenit St. Petersburg,Spartak Nalchik,1,0,H,1,0,H
+RUS,31/07/2011,15:45,Dinamo Moskva,Volga Nizhniy Novgorod,2,0,H,0,0,D
+RUS,31/07/2011,17:00,FK Krasnodar,CSKA Moskva,1,1,D,0,1,A
+RUS,31/07/2011,18:00,FK Rostov,Lokomotiv Moskva,0,3,A,0,1,A
+RUS,01/08/2011,16:00,Krylia Sovetov,FK Amkar Perm,1,1,D,1,0,H
+RUS,06/08/2011,15:45,CSKA Moskva,Zenit St. Petersburg,0,2,A,0,0,D
+RUS,06/08/2011,15:45,Anzhi Makhachkala,FK Tom Tomsk,2,0,H,1,0,H
+RUS,06/08/2011,18:00,Kuban Krasnodar,Dinamo Moskva,3,1,H,1,0,H
+RUS,06/08/2011,18:00,Volga Nizhniy Novgorod,FK Rostov,0,1,A,0,0,D
+RUS,07/08/2011,12:30,FK Amkar Perm,FK Krasnodar,0,2,A,0,1,A
+RUS,07/08/2011,14:45,Spartak Nalchik,Rubin Kazan,0,1,A,0,0,D
+RUS,07/08/2011,16:15,Terek Grozny,Spartak Moskva,2,4,A,2,0,H
+RUS,07/08/2011,17:00,Lokomotiv Moskva,Krylia Sovetov,0,0,D,0,0,D
+RUS,13/08/2011,11:00,FK Tom Tomsk,Spartak Nalchik,0,2,A,0,0,D
+RUS,13/08/2011,13:15,Dinamo Moskva,Terek Grozny,6,2,H,3,1,H
+RUS,13/08/2011,15:30,Rubin Kazan,CSKA Moskva,1,1,D,1,0,H
+RUS,13/08/2011,18:00,FK Rostov,Kuban Krasnodar,1,2,A,0,1,A
+RUS,14/08/2011,14:00,Volga Nizhniy Novgorod,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,14/08/2011,14:45,Zenit St. Petersburg,FK Amkar Perm,1,1,D,0,1,A
+RUS,14/08/2011,16:15,Spartak Moskva,Anzhi Makhachkala,3,0,H,2,0,H
+RUS,14/08/2011,17:00,FK Krasnodar,Krylia Sovetov,1,2,A,0,1,A
+RUS,20/08/2011,13:00,FK Amkar Perm,Rubin Kazan,1,1,D,1,0,H
+RUS,20/08/2011,15:00,CSKA Moskva,FK Tom Tomsk,3,0,H,0,0,D
+RUS,20/08/2011,15:15,Krylia Sovetov,Zenit St. Petersburg,2,5,A,1,4,A
+RUS,20/08/2011,17:30,Terek Grozny,FK Rostov,1,1,D,0,1,A
+RUS,21/08/2011,15:45,Spartak Nalchik,Spartak Moskva,1,1,D,1,0,H
+RUS,21/08/2011,17:00,Kuban Krasnodar,Volga Nizhniy Novgorod,5,0,H,2,0,H
+RUS,21/08/2011,17:45,Lokomotiv Moskva,FK Krasnodar,1,0,H,1,0,H
+RUS,21/08/2011,18:00,Anzhi Makhachkala,Dinamo Moskva,2,1,H,1,1,D
+RUS,27/08/2011,12:30,FK Tom Tomsk,FK Amkar Perm,0,0,D,0,0,D
+RUS,27/08/2011,14:45,Volga Nizhniy Novgorod,Terek Grozny,3,1,H,2,0,H
+RUS,27/08/2011,17:00,FK Rostov,Anzhi Makhachkala,1,1,D,0,0,D
+RUS,28/08/2011,13:30,Dinamo Moskva,Spartak Nalchik,2,0,H,2,0,H
+RUS,28/08/2011,13:45,Zenit St. Petersburg,FK Krasnodar,5,0,H,2,0,H
+RUS,28/08/2011,15:45,Rubin Kazan,Krylia Sovetov,1,0,H,1,0,H
+RUS,28/08/2011,16:00,Spartak Moskva,CSKA Moskva,2,2,D,1,0,H
+RUS,28/08/2011,18:00,Kuban Krasnodar,Lokomotiv Moskva,0,1,A,0,1,A
+RUS,10/09/2011,11:00,CSKA Moskva,Dinamo Moskva,0,4,A,0,2,A
+RUS,10/09/2011,13:30,Lokomotiv Moskva,Zenit St. Petersburg,4,2,H,0,2,A
+RUS,10/09/2011,16:00,FK Krasnodar,Rubin Kazan,3,1,H,1,0,H
+RUS,11/09/2011,10:45,FK Amkar Perm,Spartak Moskva,0,1,A,0,0,D
+RUS,11/09/2011,13:00,Spartak Nalchik,FK Rostov,0,1,A,0,0,D
+RUS,11/09/2011,15:15,Krylia Sovetov,FK Tom Tomsk,2,0,H,2,0,H
+RUS,11/09/2011,17:30,Anzhi Makhachkala,Volga Nizhniy Novgorod,2,1,H,1,1,D
+RUS,12/09/2011,15:30,Terek Grozny,Kuban Krasnodar,1,2,A,1,1,D
+RUS,17/09/2011,11:00,FK Tom Tomsk,FK Krasnodar,0,4,A,0,1,A
+RUS,17/09/2011,13:30,Volga Nizhniy Novgorod,Spartak Nalchik,1,0,H,0,0,D
+RUS,18/09/2011,11:00,FK Rostov,CSKA Moskva,1,1,D,1,0,H
+RUS,18/09/2011,13:15,Dinamo Moskva,FK Amkar Perm,3,0,H,1,0,H
+RUS,18/09/2011,14:00,Rubin Kazan,Zenit St. Petersburg,2,3,A,2,1,H
+RUS,18/09/2011,15:30,Spartak Moskva,Krylia Sovetov,3,0,H,2,0,H
+RUS,18/09/2011,16:30,Terek Grozny,Lokomotiv Moskva,0,4,A,0,2,A
+RUS,18/09/2011,17:45,Kuban Krasnodar,Anzhi Makhachkala,1,0,H,1,0,H
+RUS,24/09/2011,13:00,Zenit St. Petersburg,FK Tom Tomsk,4,0,H,3,0,H
+RUS,24/09/2011,15:15,CSKA Moskva,Volga Nizhniy Novgorod,3,1,H,1,1,D
+RUS,25/09/2011,11:00,FK Krasnodar,Spartak Moskva,2,4,A,1,3,A
+RUS,25/09/2011,11:00,Spartak Nalchik,Kuban Krasnodar,0,1,A,0,1,A
+RUS,25/09/2011,13:15,FK Amkar Perm,FK Rostov,0,1,A,0,0,D
+RUS,25/09/2011,15:30,Lokomotiv Moskva,Rubin Kazan,1,1,D,0,0,D
+RUS,25/09/2011,15:30,Krylia Sovetov,Dinamo Moskva,1,0,H,1,0,H
+RUS,26/09/2011,15:30,Anzhi Makhachkala,Terek Grozny,2,2,D,1,1,D
+RUS,01/10/2011,11:00,Terek Grozny,Spartak Nalchik,0,1,A,0,1,A
+RUS,01/10/2011,12:30,FK Rostov,Krylia Sovetov,1,0,H,0,0,D
+RUS,01/10/2011,13:15,Volga Nizhniy Novgorod,FK Amkar Perm,0,0,D,0,0,D
+RUS,01/10/2011,15:30,Dinamo Moskva,FK Krasnodar,2,1,H,1,1,D
+RUS,02/10/2011,11:00,FK Tom Tomsk,Rubin Kazan,0,2,A,0,0,D
+RUS,02/10/2011,13:15,Spartak Moskva,Zenit St. Petersburg,2,2,D,1,1,D
+RUS,02/10/2011,14:00,Kuban Krasnodar,CSKA Moskva,0,0,D,0,0,D
+RUS,02/10/2011,16:15,Anzhi Makhachkala,Lokomotiv Moskva,0,1,A,0,1,A
+RUS,15/10/2011,11:00,CSKA Moskva,Terek Grozny,2,2,D,1,0,H
+RUS,15/10/2011,13:15,FK Krasnodar,FK Rostov,2,0,H,1,0,H
+RUS,15/10/2011,15:30,Zenit St. Petersburg,Dinamo Moskva,0,0,D,0,0,D
+RUS,15/10/2011,15:30,Krylia Sovetov,Volga Nizhniy Novgorod,0,0,D,0,0,D
+RUS,16/10/2011,09:30,FK Amkar Perm,Kuban Krasnodar,3,1,H,1,0,H
+RUS,16/10/2011,11:45,Spartak Nalchik,Anzhi Makhachkala,1,1,D,0,1,A
+RUS,16/10/2011,14:00,Rubin Kazan,Spartak Moskva,3,0,H,0,0,D
+RUS,16/10/2011,16:15,Lokomotiv Moskva,FK Tom Tomsk,3,0,H,1,0,H
+RUS,22/10/2011,11:00,Volga Nizhniy Novgorod,FK Krasnodar,0,2,A,0,0,D
+RUS,22/10/2011,13:15,Terek Grozny,FK Amkar Perm,1,0,H,0,0,D
+RUS,22/10/2011,15:30,Kuban Krasnodar,Krylia Sovetov,1,1,D,0,1,A
+RUS,23/10/2011,12:00,FK Rostov,Zenit St. Petersburg,1,3,A,0,3,A
+RUS,23/10/2011,14:15,Spartak Moskva,FK Tom Tomsk,4,0,H,2,0,H
+RUS,23/10/2011,16:30,Anzhi Makhachkala,CSKA Moskva,3,5,A,1,1,D
+RUS,24/10/2011,13:00,Spartak Nalchik,Lokomotiv Moskva,1,2,A,1,0,H
+RUS,24/10/2011,17:00,Dinamo Moskva,Rubin Kazan,0,2,A,0,0,D
+RUS,27/10/2011,16:00,Zenit St. Petersburg,Volga Nizhniy Novgorod,3,0,H,2,0,H
+RUS,28/10/2011,14:00,Rubin Kazan,FK Rostov,1,1,D,0,0,D
+RUS,28/10/2011,16:15,CSKA Moskva,Spartak Nalchik,4,0,H,1,0,H
+RUS,29/10/2011,12:00,FK Amkar Perm,Anzhi Makhachkala,1,2,A,0,1,A
+RUS,29/10/2011,14:15,FK Krasnodar,Kuban Krasnodar,0,2,A,0,1,A
+RUS,29/10/2011,16:30,Spartak Moskva,Lokomotiv Moskva,3,0,H,2,0,H
+RUS,30/10/2011,10:00,FK Tom Tomsk,Dinamo Moskva,0,2,A,0,2,A
+RUS,30/10/2011,12:30,Krylia Sovetov,Terek Grozny,2,1,H,1,1,D
+RUS,05/11/2011,10:00,FK Rostov,FK Tom Tomsk,2,1,H,1,0,H
+RUS,05/11/2011,12:15,Anzhi Makhachkala,Krylia Sovetov,3,1,H,0,0,D
+RUS,05/11/2011,14:30,Dinamo Moskva,Spartak Moskva,1,1,D,1,0,H
+RUS,05/11/2011,14:30,Terek Grozny,FK Krasnodar,2,0,H,0,0,D
+RUS,06/11/2011,10:00,Spartak Nalchik,FK Amkar Perm,2,1,H,1,0,H
+RUS,06/11/2011,12:15,Kuban Krasnodar,Zenit St. Petersburg,1,1,D,0,1,A
+RUS,06/11/2011,14:30,Volga Nizhniy Novgorod,Rubin Kazan,1,0,H,1,0,H
+RUS,06/11/2011,16:45,Lokomotiv Moskva,CSKA Moskva,1,1,D,1,0,H

@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,24/03/2000,,Lokomotiv Moskva,CSKA Moskva,1,0,H,NaN,NaN,NaN
+RUS,25/03/2000,,Fakel Voronezh,Rostselmash Rostov,1,1,D,NaN,NaN,NaN
+RUS,25/03/2000,,Spartak Moskva,Alania Vladikavkaz,3,1,H,NaN,NaN,NaN
+RUS,25/03/2000,,Krylia Sovetov,Uralan Elista,1,0,H,NaN,NaN,NaN
+RUS,25/03/2000,,Dinamo Moskva,FK Saturn,2,0,H,NaN,NaN,NaN
+RUS,25/03/2000,,Lok. Nizhni Novgorod,Chernomorets Novorossisk,0,0,D,NaN,NaN,NaN
+RUS,25/03/2000,,Rotor Volgograd (alt),Zenit St. Petersburg,2,0,H,NaN,NaN,NaN
+RUS,03/05/2000,,Anzhi Makhachkala,Torpedo Moskva,0,0,D,NaN,NaN,NaN
+RUS,01/04/2000,,Alania Vladikavkaz,Fakel Voronezh,1,1,D,NaN,NaN,NaN
+RUS,01/04/2000,,Rostselmash Rostov,Rotor Volgograd (alt),1,1,D,NaN,NaN,NaN
+RUS,01/04/2000,,Zenit St. Petersburg,Anzhi Makhachkala,1,0,H,NaN,NaN,NaN
+RUS,01/04/2000,,Torpedo Moskva,Lok. Nizhni Novgorod,2,1,H,NaN,NaN,NaN
+RUS,01/04/2000,,Chernomorets Novorossisk,Dinamo Moskva,4,0,H,NaN,NaN,NaN
+RUS,01/04/2000,,Lokomotiv Moskva,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+RUS,01/04/2000,,CSKA Moskva,FK Saturn,0,0,D,NaN,NaN,NaN
+RUS,01/04/2000,,Uralan Elista,Spartak Moskva,0,2,A,NaN,NaN,NaN
+RUS,07/04/2000,,Dinamo Moskva,Torpedo Moskva,0,0,D,NaN,NaN,NaN
+RUS,08/04/2000,,Lok. Nizhni Novgorod,Zenit St. Petersburg,1,2,A,NaN,NaN,NaN
+RUS,08/04/2000,,Anzhi Makhachkala,Rostselmash Rostov,1,0,H,NaN,NaN,NaN
+RUS,08/04/2000,,Rotor Volgograd (alt),Alania Vladikavkaz,2,1,H,NaN,NaN,NaN
+RUS,08/04/2000,,Fakel Voronezh,Uralan Elista,1,1,D,NaN,NaN,NaN
+RUS,08/04/2000,,Spartak Moskva,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+RUS,08/04/2000,,Krylia Sovetov,CSKA Moskva,2,0,H,NaN,NaN,NaN
+RUS,08/04/2000,,FK Saturn,Chernomorets Novorossisk,0,0,D,NaN,NaN,NaN
+RUS,15/04/2000,,CSKA Moskva,Chernomorets Novorossisk,0,3,A,NaN,NaN,NaN
+RUS,15/04/2000,,Uralan Elista,Rotor Volgograd (alt),2,0,H,NaN,NaN,NaN
+RUS,15/04/2000,,Alania Vladikavkaz,Anzhi Makhachkala,2,3,A,NaN,NaN,NaN
+RUS,15/04/2000,,Rostselmash Rostov,Lok. Nizhni Novgorod,0,0,D,NaN,NaN,NaN
+RUS,15/04/2000,,Zenit St. Petersburg,Dinamo Moskva,0,1,A,NaN,NaN,NaN
+RUS,15/04/2000,,Torpedo Moskva,FK Saturn,2,0,H,NaN,NaN,NaN
+RUS,15/04/2000,,Krylia Sovetov,Spartak Moskva,1,2,A,NaN,NaN,NaN
+RUS,15/04/2000,,Lokomotiv Moskva,Fakel Voronezh,1,0,H,NaN,NaN,NaN
+RUS,22/04/2000,,Chernomorets Novorossisk,Torpedo Moskva,1,0,H,NaN,NaN,NaN
+RUS,22/04/2000,,FK Saturn,Zenit St. Petersburg,1,0,H,NaN,NaN,NaN
+RUS,22/04/2000,,Dinamo Moskva,Rostselmash Rostov,0,0,D,NaN,NaN,NaN
+RUS,22/04/2000,,Lok. Nizhni Novgorod,Alania Vladikavkaz,1,1,D,NaN,NaN,NaN
+RUS,22/04/2000,,Anzhi Makhachkala,Uralan Elista,2,1,H,NaN,NaN,NaN
+RUS,22/04/2000,,Spartak Moskva,CSKA Moskva,1,0,H,NaN,NaN,NaN
+RUS,22/04/2000,,Rotor Volgograd (alt),Lokomotiv Moskva,0,4,A,NaN,NaN,NaN
+RUS,22/04/2000,,Fakel Voronezh,Krylia Sovetov,3,2,H,NaN,NaN,NaN
+RUS,30/04/2000,,CSKA Moskva,Torpedo Moskva,0,2,A,NaN,NaN,NaN
+RUS,30/04/2000,,Lokomotiv Moskva,Anzhi Makhachkala,1,0,H,NaN,NaN,NaN
+RUS,30/04/2000,,Uralan Elista,Lok. Nizhni Novgorod,0,0,D,NaN,NaN,NaN
+RUS,30/04/2000,,Alania Vladikavkaz,Dinamo Moskva,0,1,A,NaN,NaN,NaN
+RUS,30/04/2000,,Rostselmash Rostov,FK Saturn,2,0,H,NaN,NaN,NaN
+RUS,30/04/2000,,Zenit St. Petersburg,Chernomorets Novorossisk,0,0,D,NaN,NaN,NaN
+RUS,30/04/2000,,Spartak Moskva,Fakel Voronezh,3,1,H,NaN,NaN,NaN
+RUS,30/04/2000,,Krylia Sovetov,Rotor Volgograd (alt),0,1,A,NaN,NaN,NaN
+RUS,07/05/2000,,Fakel Voronezh,CSKA Moskva,2,1,H,NaN,NaN,NaN
+RUS,07/05/2000,,Torpedo Moskva,Zenit St. Petersburg,1,1,D,NaN,NaN,NaN
+RUS,07/05/2000,,Chernomorets Novorossisk,Rostselmash Rostov,1,2,A,NaN,NaN,NaN
+RUS,07/05/2000,,FK Saturn,Alania Vladikavkaz,2,0,H,NaN,NaN,NaN
+RUS,07/05/2000,,Dinamo Moskva,Uralan Elista,1,0,H,NaN,NaN,NaN
+RUS,07/05/2000,,Lok. Nizhni Novgorod,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+RUS,07/05/2000,,Anzhi Makhachkala,Krylia Sovetov,1,0,H,NaN,NaN,NaN
+RUS,07/05/2000,,Rotor Volgograd (alt),Spartak Moskva,1,6,A,NaN,NaN,NaN
+RUS,12/05/2000,,CSKA Moskva,Zenit St. Petersburg,4,1,H,NaN,NaN,NaN
+RUS,13/05/2000,,Lokomotiv Moskva,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+RUS,13/05/2000,,Uralan Elista,FK Saturn,1,2,A,NaN,NaN,NaN
+RUS,13/05/2000,,Alania Vladikavkaz,Chernomorets Novorossisk,1,0,H,NaN,NaN,NaN
+RUS,13/05/2000,,Rostselmash Rostov,Torpedo Moskva,0,1,A,NaN,NaN,NaN
+RUS,13/05/2000,,Fakel Voronezh,Rotor Volgograd (alt),2,2,D,NaN,NaN,NaN
+RUS,13/05/2000,,Spartak Moskva,Anzhi Makhachkala,1,0,H,NaN,NaN,NaN
+RUS,13/05/2000,,Krylia Sovetov,Lok. Nizhni Novgorod,2,1,H,NaN,NaN,NaN
+RUS,17/05/2000,,Lok. Nizhni Novgorod,Spartak Moskva,0,2,A,NaN,NaN,NaN
+RUS,17/05/2000,,Anzhi Makhachkala,Fakel Voronezh,4,0,H,NaN,NaN,NaN
+RUS,17/05/2000,,Rotor Volgograd (alt),CSKA Moskva,0,1,A,NaN,NaN,NaN
+RUS,17/05/2000,,Zenit St. Petersburg,Rostselmash Rostov,0,0,D,NaN,NaN,NaN
+RUS,17/05/2000,,Torpedo Moskva,Alania Vladikavkaz,2,0,H,NaN,NaN,NaN
+RUS,17/05/2000,,Chernomorets Novorossisk,Uralan Elista,3,1,H,NaN,NaN,NaN
+RUS,17/05/2000,,FK Saturn,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+RUS,17/05/2000,,Dinamo Moskva,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+RUS,26/05/2000,,Fakel Voronezh,Lok. Nizhni Novgorod,1,1,D,NaN,NaN,NaN
+RUS,26/05/2000,,Uralan Elista,Torpedo Moskva,2,3,A,NaN,NaN,NaN
+RUS,26/05/2000,,Spartak Moskva,Dinamo Moskva,3,1,H,NaN,NaN,NaN
+RUS,26/05/2000,,Krylia Sovetov,FK Saturn,3,2,H,NaN,NaN,NaN
+RUS,26/05/2000,,Lokomotiv Moskva,Chernomorets Novorossisk,0,3,A,NaN,NaN,NaN
+RUS,26/05/2000,,Alania Vladikavkaz,Zenit St. Petersburg,1,0,H,NaN,NaN,NaN
+RUS,26/05/2000,,Rotor Volgograd (alt),Anzhi Makhachkala,2,2,D,NaN,NaN,NaN
+RUS,27/05/2000,,CSKA Moskva,Rostselmash Rostov,1,1,D,NaN,NaN,NaN
+RUS,08/06/2000,,Torpedo Moskva,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+RUS,08/06/2000,,Chernomorets Novorossisk,Krylia Sovetov,3,0,H,NaN,NaN,NaN
+RUS,08/06/2000,,FK Saturn,Spartak Moskva,2,0,H,NaN,NaN,NaN
+RUS,08/06/2000,,Dinamo Moskva,Fakel Voronezh,2,2,D,NaN,NaN,NaN
+RUS,08/06/2000,,Lok. Nizhni Novgorod,Rotor Volgograd (alt),0,1,A,NaN,NaN,NaN
+RUS,08/06/2000,,Anzhi Makhachkala,CSKA Moskva,4,1,H,NaN,NaN,NaN
+RUS,08/06/2000,,Rostselmash Rostov,Alania Vladikavkaz,0,1,A,NaN,NaN,NaN
+RUS,08/06/2000,,Zenit St. Petersburg,Uralan Elista,3,0,H,NaN,NaN,NaN
+RUS,12/06/2000,,Anzhi Makhachkala,Lok. Nizhni Novgorod,4,0,H,NaN,NaN,NaN
+RUS,12/06/2000,,Rotor Volgograd (alt),Dinamo Moskva,2,4,A,NaN,NaN,NaN
+RUS,12/06/2000,,Uralan Elista,Rostselmash Rostov,0,0,D,NaN,NaN,NaN
+RUS,12/06/2000,,Fakel Voronezh,FK Saturn,0,1,A,NaN,NaN,NaN
+RUS,12/06/2000,,Spartak Moskva,Chernomorets Novorossisk,3,1,H,NaN,NaN,NaN
+RUS,12/06/2000,,Krylia Sovetov,Torpedo Moskva,3,2,H,NaN,NaN,NaN
+RUS,12/06/2000,,Lokomotiv Moskva,Zenit St. Petersburg,1,1,D,NaN,NaN,NaN
+RUS,13/06/2000,,CSKA Moskva,Alania Vladikavkaz,0,1,A,NaN,NaN,NaN
+RUS,18/06/2000,,Alania Vladikavkaz,Uralan Elista,1,1,D,NaN,NaN,NaN
+RUS,18/06/2000,,Torpedo Moskva,Spartak Moskva,0,3,A,NaN,NaN,NaN
+RUS,18/06/2000,,Chernomorets Novorossisk,Fakel Voronezh,3,1,H,NaN,NaN,NaN
+RUS,18/06/2000,,FK Saturn,Rotor Volgograd (alt),2,0,H,NaN,NaN,NaN
+RUS,18/06/2000,,Dinamo Moskva,Anzhi Makhachkala,2,1,H,NaN,NaN,NaN
+RUS,18/06/2000,,Lok. Nizhni Novgorod,CSKA Moskva,1,2,A,NaN,NaN,NaN
+RUS,18/06/2000,,Rostselmash Rostov,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+RUS,19/06/2000,,Zenit St. Petersburg,Krylia Sovetov,3,0,H,NaN,NaN,NaN
+RUS,22/06/2000,,CSKA Moskva,Uralan Elista,0,2,A,NaN,NaN,NaN
+RUS,23/06/2000,,Lok. Nizhni Novgorod,Dinamo Moskva,0,3,A,NaN,NaN,NaN
+RUS,23/06/2000,,Anzhi Makhachkala,FK Saturn,2,0,H,NaN,NaN,NaN
+RUS,23/06/2000,,Rotor Volgograd (alt),Chernomorets Novorossisk,1,1,D,NaN,NaN,NaN
+RUS,23/06/2000,,Spartak Moskva,Zenit St. Petersburg,1,2,A,NaN,NaN,NaN
+RUS,23/06/2000,,Fakel Voronezh,Torpedo Moskva,1,2,A,NaN,NaN,NaN
+RUS,23/06/2000,,Krylia Sovetov,Rostselmash Rostov,0,3,A,NaN,NaN,NaN
+RUS,23/06/2000,,Lokomotiv Moskva,Alania Vladikavkaz,1,0,H,NaN,NaN,NaN
+RUS,27/06/2000,,Alania Vladikavkaz,Krylia Sovetov,4,3,H,NaN,NaN,NaN
+RUS,27/06/2000,,Rostselmash Rostov,Spartak Moskva,2,3,A,NaN,NaN,NaN
+RUS,27/06/2000,,Zenit St. Petersburg,Fakel Voronezh,5,0,H,NaN,NaN,NaN
+RUS,27/06/2000,,Torpedo Moskva,Rotor Volgograd (alt),2,0,H,NaN,NaN,NaN
+RUS,27/06/2000,,Chernomorets Novorossisk,Anzhi Makhachkala,3,0,H,NaN,NaN,NaN
+RUS,27/06/2000,,FK Saturn,Lok. Nizhni Novgorod,1,0,H,NaN,NaN,NaN
+RUS,27/06/2000,,CSKA Moskva,Dinamo Moskva,2,2,D,NaN,NaN,NaN
+RUS,27/06/2000,,Uralan Elista,Lokomotiv Moskva,0,1,A,NaN,NaN,NaN
+RUS,08/07/2000,,Lok. Nizhni Novgorod,Torpedo Moskva,0,1,A,NaN,NaN,NaN
+RUS,08/07/2000,,Dinamo Moskva,Chernomorets Novorossisk,2,2,D,NaN,NaN,NaN
+RUS,08/07/2000,,Krylia Sovetov,Lokomotiv Moskva,0,2,A,NaN,NaN,NaN
+RUS,08/07/2000,,Rotor Volgograd (alt),Rostselmash Rostov,3,0,H,NaN,NaN,NaN
+RUS,08/07/2000,,FK Saturn,CSKA Moskva,2,1,H,NaN,NaN,NaN
+RUS,08/07/2000,,Spartak Moskva,Uralan Elista,2,0,H,NaN,NaN,NaN
+RUS,08/07/2000,,Fakel Voronezh,Alania Vladikavkaz,0,0,D,NaN,NaN,NaN
+RUS,18/09/2000,,Anzhi Makhachkala,Zenit St. Petersburg,3,2,H,NaN,NaN,NaN
+RUS,22/05/2000,,Zenit St. Petersburg,Lok. Nizhni Novgorod,2,0,H,NaN,NaN,NaN
+RUS,22/05/2000,,Rostselmash Rostov,Anzhi Makhachkala,0,1,A,NaN,NaN,NaN
+RUS,14/07/2000,,Torpedo Moskva,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+RUS,15/07/2000,,Chernomorets Novorossisk,FK Saturn,1,1,D,NaN,NaN,NaN
+RUS,15/07/2000,,Alania Vladikavkaz,Rotor Volgograd (alt),2,0,H,NaN,NaN,NaN
+RUS,15/07/2000,,Uralan Elista,Fakel Voronezh,0,1,A,NaN,NaN,NaN
+RUS,15/07/2000,,CSKA Moskva,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+RUS,16/07/2000,,Lokomotiv Moskva,Spartak Moskva,3,2,H,NaN,NaN,NaN
+RUS,05/07/2000,,Dinamo Moskva,Zenit St. Petersburg,1,2,A,NaN,NaN,NaN
+RUS,22/07/2000,,Chernomorets Novorossisk,CSKA Moskva,3,0,H,NaN,NaN,NaN
+RUS,22/07/2000,,Anzhi Makhachkala,Alania Vladikavkaz,2,0,H,NaN,NaN,NaN
+RUS,22/07/2000,,FK Saturn,Torpedo Moskva,0,1,A,NaN,NaN,NaN
+RUS,22/07/2000,,Spartak Moskva,Krylia Sovetov,1,2,A,NaN,NaN,NaN
+RUS,22/07/2000,,Fakel Voronezh,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+RUS,23/07/2000,,Rotor Volgograd (alt),Uralan Elista,3,1,H,NaN,NaN,NaN
+RUS,18/09/2000,,Lok. Nizhni Novgorod,Rostselmash Rostov,0,0,D,NaN,NaN,NaN
+RUS,29/07/2000,,Lokomotiv Moskva,Rotor Volgograd (alt),4,1,H,NaN,NaN,NaN
+RUS,29/07/2000,,Krylia Sovetov,Fakel Voronezh,1,1,D,NaN,NaN,NaN
+RUS,29/07/2000,,CSKA Moskva,Spartak Moskva,2,1,H,NaN,NaN,NaN
+RUS,29/07/2000,,Torpedo Moskva,Chernomorets Novorossisk,2,1,H,NaN,NaN,NaN
+RUS,29/07/2000,,Zenit St. Petersburg,FK Saturn,1,1,D,NaN,NaN,NaN
+RUS,29/07/2000,,Rostselmash Rostov,Dinamo Moskva,2,1,H,NaN,NaN,NaN
+RUS,29/07/2000,,Alania Vladikavkaz,Lok. Nizhni Novgorod,1,1,D,NaN,NaN,NaN
+RUS,29/07/2000,,Uralan Elista,Anzhi Makhachkala,1,1,D,NaN,NaN,NaN
+RUS,02/08/2000,,Anzhi Makhachkala,Lokomotiv Moskva,1,0,H,NaN,NaN,NaN
+RUS,05/08/2000,,Fakel Voronezh,Spartak Moskva,1,0,H,NaN,NaN,NaN
+RUS,05/08/2000,,Rotor Volgograd (alt),Krylia Sovetov,1,1,D,NaN,NaN,NaN
+RUS,05/08/2000,,Torpedo Moskva,CSKA Moskva,0,1,A,NaN,NaN,NaN
+RUS,05/08/2000,,Lok. Nizhni Novgorod,Uralan Elista,2,0,H,NaN,NaN,NaN
+RUS,05/08/2000,,Dinamo Moskva,Alania Vladikavkaz,4,2,H,NaN,NaN,NaN
+RUS,05/08/2000,,FK Saturn,Rostselmash Rostov,2,2,D,NaN,NaN,NaN
+RUS,10/09/2000,,Chernomorets Novorossisk,Zenit St. Petersburg,1,1,D,NaN,NaN,NaN
+RUS,12/08/2000,,Spartak Moskva,Rotor Volgograd (alt),5,2,H,NaN,NaN,NaN
+RUS,13/08/2000,,Uralan Elista,Dinamo Moskva,0,1,A,NaN,NaN,NaN
+RUS,13/08/2000,,Lokomotiv Moskva,Lok. Nizhni Novgorod,2,0,H,NaN,NaN,NaN
+RUS,13/08/2000,,Krylia Sovetov,Anzhi Makhachkala,1,1,D,NaN,NaN,NaN
+RUS,13/08/2000,,CSKA Moskva,Fakel Voronezh,5,1,H,NaN,NaN,NaN
+RUS,13/08/2000,,Zenit St. Petersburg,Torpedo Moskva,2,1,H,NaN,NaN,NaN
+RUS,13/08/2000,,Rostselmash Rostov,Chernomorets Novorossisk,0,1,A,NaN,NaN,NaN
+RUS,13/08/2000,,Alania Vladikavkaz,FK Saturn,2,2,D,NaN,NaN,NaN
+RUS,18/08/2000,,Zenit St. Petersburg,CSKA Moskva,0,1,A,NaN,NaN,NaN
+RUS,19/08/2000,,Chernomorets Novorossisk,Alania Vladikavkaz,1,1,D,NaN,NaN,NaN
+RUS,19/08/2000,,Torpedo Moskva,Rostselmash Rostov,1,1,D,NaN,NaN,NaN
+RUS,19/08/2000,,Rotor Volgograd (alt),Fakel Voronezh,2,0,H,NaN,NaN,NaN
+RUS,19/08/2000,,Lok. Nizhni Novgorod,Krylia Sovetov,1,0,H,NaN,NaN,NaN
+RUS,19/08/2000,,Dinamo Moskva,Lokomotiv Moskva,2,2,D,NaN,NaN,NaN
+RUS,19/08/2000,,FK Saturn,Uralan Elista,3,0,H,NaN,NaN,NaN
+RUS,20/08/2000,,Anzhi Makhachkala,Spartak Moskva,0,2,A,NaN,NaN,NaN
+RUS,26/08/2000,,CSKA Moskva,Rotor Volgograd (alt),1,1,D,NaN,NaN,NaN
+RUS,27/08/2000,,Alania Vladikavkaz,Torpedo Moskva,2,1,H,NaN,NaN,NaN
+RUS,27/08/2000,,Uralan Elista,Chernomorets Novorossisk,1,2,A,NaN,NaN,NaN
+RUS,27/08/2000,,Lokomotiv Moskva,FK Saturn,1,0,H,NaN,NaN,NaN
+RUS,27/08/2000,,Krylia Sovetov,Dinamo Moskva,0,2,A,NaN,NaN,NaN
+RUS,27/08/2000,,Spartak Moskva,Lok. Nizhni Novgorod,3,1,H,NaN,NaN,NaN
+RUS,27/08/2000,,Fakel Voronezh,Anzhi Makhachkala,0,1,A,NaN,NaN,NaN
+RUS,27/08/2000,,Rostselmash Rostov,Zenit St. Petersburg,0,0,D,NaN,NaN,NaN
+RUS,06/09/2000,,Rostselmash Rostov,CSKA Moskva,1,1,D,NaN,NaN,NaN
+RUS,06/09/2000,,Torpedo Moskva,Uralan Elista,2,2,D,NaN,NaN,NaN
+RUS,06/09/2000,,Zenit St. Petersburg,Alania Vladikavkaz,1,0,H,NaN,NaN,NaN
+RUS,06/09/2000,,Anzhi Makhachkala,Rotor Volgograd (alt),1,1,D,NaN,NaN,NaN
+RUS,06/09/2000,,Lok. Nizhni Novgorod,Fakel Voronezh,1,0,H,NaN,NaN,NaN
+RUS,06/09/2000,,Dinamo Moskva,Spartak Moskva,2,4,A,NaN,NaN,NaN
+RUS,06/09/2000,,FK Saturn,Krylia Sovetov,0,0,D,NaN,NaN,NaN
+RUS,06/09/2000,,Chernomorets Novorossisk,Lokomotiv Moskva,0,3,A,NaN,NaN,NaN
+RUS,02/08/2000,,Spartak Moskva,FK Saturn,3,0,H,NaN,NaN,NaN
+RUS,22/09/2000,,CSKA Moskva,Anzhi Makhachkala,4,0,H,NaN,NaN,NaN
+RUS,23/09/2000,,Lokomotiv Moskva,Torpedo Moskva,0,3,A,NaN,NaN,NaN
+RUS,23/09/2000,,Krylia Sovetov,Chernomorets Novorossisk,0,0,D,NaN,NaN,NaN
+RUS,23/09/2000,,Fakel Voronezh,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+RUS,23/09/2000,,Rotor Volgograd (alt),Lok. Nizhni Novgorod,2,2,D,NaN,NaN,NaN
+RUS,23/09/2000,,Alania Vladikavkaz,Rostselmash Rostov,2,0,H,NaN,NaN,NaN
+RUS,23/09/2000,,Uralan Elista,Zenit St. Petersburg,0,2,A,NaN,NaN,NaN
+RUS,01/10/2000,,Rostselmash Rostov,Uralan Elista,3,0,H,NaN,NaN,NaN
+RUS,01/10/2000,,Lok. Nizhni Novgorod,Anzhi Makhachkala,1,4,A,NaN,NaN,NaN
+RUS,01/10/2000,,Dinamo Moskva,Rotor Volgograd (alt),2,0,H,NaN,NaN,NaN
+RUS,01/10/2000,,FK Saturn,Fakel Voronezh,0,1,A,NaN,NaN,NaN
+RUS,01/10/2000,,Chernomorets Novorossisk,Spartak Moskva,1,4,A,NaN,NaN,NaN
+RUS,01/10/2000,,Torpedo Moskva,Krylia Sovetov,2,1,H,NaN,NaN,NaN
+RUS,01/10/2000,,Zenit St. Petersburg,Lokomotiv Moskva,1,2,A,NaN,NaN,NaN
+RUS,01/10/2000,,Alania Vladikavkaz,CSKA Moskva,2,1,H,NaN,NaN,NaN
+RUS,04/07/2000,,Spartak Moskva,Torpedo Moskva,4,2,H,NaN,NaN,NaN
+RUS,14/10/2000,,Uralan Elista,Alania Vladikavkaz,0,4,A,NaN,NaN,NaN
+RUS,14/10/2000,,Lokomotiv Moskva,Rostselmash Rostov,3,0,H,NaN,NaN,NaN
+RUS,14/10/2000,,Krylia Sovetov,Zenit St. Petersburg,0,1,A,NaN,NaN,NaN
+RUS,14/10/2000,,Fakel Voronezh,Chernomorets Novorossisk,2,2,D,NaN,NaN,NaN
+RUS,14/10/2000,,Rotor Volgograd (alt),FK Saturn,3,0,H,NaN,NaN,NaN
+RUS,14/10/2000,,Anzhi Makhachkala,Dinamo Moskva,2,2,D,NaN,NaN,NaN
+RUS,14/10/2000,,CSKA Moskva,Lok. Nizhni Novgorod,5,0,H,NaN,NaN,NaN
+RUS,21/10/2000,,Rostselmash Rostov,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+RUS,21/10/2000,,Alania Vladikavkaz,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+RUS,21/10/2000,,Dinamo Moskva,Lok. Nizhni Novgorod,3,1,H,NaN,NaN,NaN
+RUS,21/10/2000,,FK Saturn,Anzhi Makhachkala,0,0,D,NaN,NaN,NaN
+RUS,21/10/2000,,Chernomorets Novorossisk,Rotor Volgograd (alt),3,0,H,NaN,NaN,NaN
+RUS,22/10/2000,,Uralan Elista,CSKA Moskva,1,5,A,NaN,NaN,NaN
+RUS,22/10/2000,,Torpedo Moskva,Fakel Voronezh,2,0,H,NaN,NaN,NaN
+RUS,29/10/2000,,Zenit St. Petersburg,Spartak Moskva,1,2,A,NaN,NaN,NaN
+RUS,02/11/2000,,Spartak Moskva,Rostselmash Rostov,1,0,H,NaN,NaN,NaN
+RUS,03/11/2000,,Lokomotiv Moskva,Uralan Elista,9,0,H,NaN,NaN,NaN
+RUS,05/11/2000,,Krylia Sovetov,Alania Vladikavkaz,1,0,H,NaN,NaN,NaN
+RUS,05/11/2000,,Dinamo Moskva,CSKA Moskva,1,0,H,NaN,NaN,NaN
+RUS,05/11/2000,,Lok. Nizhni Novgorod,FK Saturn,0,0,D,NaN,NaN,NaN
+RUS,05/11/2000,,Anzhi Makhachkala,Chernomorets Novorossisk,2,1,H,NaN,NaN,NaN
+RUS,05/11/2000,,Rotor Volgograd (alt),Torpedo Moskva,0,1,A,NaN,NaN,NaN
+RUS,05/11/2000,,Fakel Voronezh,Zenit St. Petersburg,0,0,D,NaN,NaN,NaN
+RUS,12/11/2000,,Zenit St. Petersburg,Rotor Volgograd (alt),3,1,H,NaN,NaN,NaN
+RUS,12/11/2000,,Rostselmash Rostov,Fakel Voronezh,1,1,D,NaN,NaN,NaN
+RUS,12/11/2000,,Alania Vladikavkaz,Spartak Moskva,1,2,A,NaN,NaN,NaN
+RUS,12/11/2000,,Uralan Elista,Krylia Sovetov,0,1,A,NaN,NaN,NaN
+RUS,12/11/2000,,FK Saturn,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+RUS,12/11/2000,,Chernomorets Novorossisk,Lok. Nizhni Novgorod,2,0,H,NaN,NaN,NaN
+RUS,12/11/2000,,CSKA Moskva,Lokomotiv Moskva,4,3,H,NaN,NaN,NaN
+RUS,12/11/2000,,Torpedo Moskva,Anzhi Makhachkala,2,1,H,NaN,NaN,NaN

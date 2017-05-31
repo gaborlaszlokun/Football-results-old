@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KAZ,31/03/2007,10:00,FC Alma-Ata,Yesil Bogatyr Petropavlovsk,1,0,H,NaN,NaN,NaN
+KAZ,31/03/2007,10:00,Kaysar Kyzylorda,FK Aktobe,0,0,D,NaN,NaN,NaN
+KAZ,31/03/2007,10:00,Shakter Karaganda,Vostok Öskemen,1,1,D,NaN,NaN,NaN
+KAZ,31/03/2007,10:00,Zhetysu Taldykorgan,FK Astana-64,2,0,H,NaN,NaN,NaN
+KAZ,31/03/2007,10:00,FK Taraz,Irtysh Pavlodar,0,1,A,NaN,NaN,NaN
+KAZ,31/03/2007,10:00,FK Ordabasy,FK Okzhetpes,0,1,A,NaN,NaN,NaN
+KAZ,31/03/2007,11:00,FK Atyrau,Tobyl Kostanay,0,4,A,NaN,NaN,NaN
+KAZ,01/04/2007,10:00,FK Kairat,FC Ekibastuzets,1,0,H,NaN,NaN,NaN
+KAZ,03/04/2007,11:00,Shakter Karaganda,Yesil Bogatyr Petropavlovsk,5,1,H,NaN,NaN,NaN
+KAZ,03/04/2007,12:00,Kaysar Kyzylorda,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,03/04/2007,12:00,FK Ordabasy,FK Astana-64,0,0,D,NaN,NaN,NaN
+KAZ,03/04/2007,12:00,FK Taraz,Vostok Öskemen,3,0,H,NaN,NaN,NaN
+KAZ,04/04/2007,11:00,FK Okzhetpes,Tobyl Kostanay,0,0,D,NaN,NaN,NaN
+KAZ,04/04/2007,12:00,FK Kairat,FK Aktobe,0,2,A,NaN,NaN,NaN
+KAZ,04/04/2007,12:00,Zhetysu Taldykorgan,FC Ekibastuzets,3,2,H,NaN,NaN,NaN
+KAZ,04/04/2007,12:30,FK Atyrau,Irtysh Pavlodar,1,2,A,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,FC Alma-Ata,FK Kairat,2,0,H,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,FK Astana-64,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,FK Okzhetpes,Kaysar Kyzylorda,0,0,D,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,Irtysh Pavlodar,Tobyl Kostanay,1,1,D,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,Vostok Öskemen,FK Ordabasy,1,2,A,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,FC Ekibastuzets,FK Taraz,2,0,H,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,Yesil Bogatyr Petropavlovsk,Zhetysu Taldykorgan,1,1,D,NaN,NaN,NaN
+KAZ,08/04/2007,10:00,FK Aktobe,Shakter Karaganda,0,0,D,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,Vostok Öskemen,Zhetysu Taldykorgan,0,2,A,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,FC Ekibastuzets,Shakter Karaganda,0,0,D,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,Tobyl Kostanay,Kaysar Kyzylorda,1,0,H,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,Yesil Bogatyr Petropavlovsk,FK Kairat,2,0,H,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,FK Okzhetpes,FK Atyrau,1,2,A,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,FK Aktobe,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,FK Astana-64,FK Taraz,2,0,H,NaN,NaN,NaN
+KAZ,14/04/2007,10:00,Irtysh Pavlodar,FK Ordabasy,1,0,H,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,FK Atyrau,Vostok Öskemen,2,0,H,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,Kaysar Kyzylorda,FK Kairat,2,1,H,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,FK Ordabasy,FC Ekibastuzets,1,0,H,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,Shakter Karaganda,FC Alma-Ata,1,1,D,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,Tobyl Kostanay,FK Astana-64,2,0,H,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,Zhetysu Taldykorgan,FK Aktobe,0,3,A,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,FK Taraz,Yesil Bogatyr Petropavlovsk,0,0,D,NaN,NaN,NaN
+KAZ,22/04/2007,10:00,FK Okzhetpes,Irtysh Pavlodar,1,2,A,NaN,NaN,NaN
+KAZ,28/04/2007,10:00,FC Ekibastuzets,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,28/04/2007,10:00,FK Kairat,Shakter Karaganda,0,2,A,NaN,NaN,NaN
+KAZ,28/04/2007,10:00,Irtysh Pavlodar,Kaysar Kyzylorda,1,0,H,NaN,NaN,NaN
+KAZ,29/04/2007,10:00,FK Astana-64,FK Okzhetpes,2,0,H,NaN,NaN,NaN
+KAZ,29/04/2007,10:00,Vostok Öskemen,Tobyl Kostanay,1,2,A,NaN,NaN,NaN
+KAZ,29/04/2007,10:00,Yesil Bogatyr Petropavlovsk,FK Ordabasy,0,0,D,NaN,NaN,NaN
+KAZ,29/04/2007,10:00,FC Alma-Ata,Zhetysu Taldykorgan,1,3,A,NaN,NaN,NaN
+KAZ,29/04/2007,11:00,FK Aktobe,FK Taraz,5,0,H,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,FK Okzhetpes,Vostok Öskemen,0,1,A,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,Irtysh Pavlodar,FK Astana-64,1,0,H,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,Tobyl Kostanay,FC Ekibastuzets,2,0,H,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,Zhetysu Taldykorgan,FK Kairat,0,0,D,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,Kaysar Kyzylorda,Shakter Karaganda,1,0,H,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,FK Taraz,FC Alma-Ata,1,2,A,NaN,NaN,NaN
+KAZ,05/05/2007,10:00,FK Ordabasy,FK Aktobe,0,0,D,NaN,NaN,NaN
+KAZ,05/05/2007,14:00,FK Atyrau,Yesil Bogatyr Petropavlovsk,0,2,A,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,FK Astana-64,Kaysar Kyzylorda,1,0,H,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,Vostok Öskemen,Irtysh Pavlodar,1,0,H,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,FC Ekibastuzets,FK Okzhetpes,2,0,H,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,Yesil Bogatyr Petropavlovsk,Tobyl Kostanay,0,0,D,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,Shakter Karaganda,Zhetysu Taldykorgan,3,1,H,NaN,NaN,NaN
+KAZ,12/05/2007,10:00,FC Alma-Ata,FK Ordabasy,1,1,D,NaN,NaN,NaN
+KAZ,12/05/2007,11:00,FK Aktobe,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,13/05/2007,10:00,FK Kairat,FK Taraz,0,0,D,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,FK Ordabasy,FK Kairat,2,1,H,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,FK Okzhetpes,Yesil Bogatyr Petropavlovsk,2,1,H,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,Tobyl Kostanay,FK Aktobe,0,0,D,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,Irtysh Pavlodar,FC Ekibastuzets,0,1,A,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,FK Astana-64,Vostok Öskemen,1,1,D,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,Kaysar Kyzylorda,Zhetysu Taldykorgan,0,1,A,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,FK Taraz,Shakter Karaganda,0,1,A,NaN,NaN,NaN
+KAZ,20/05/2007,14:00,FK Atyrau,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,25/05/2007,13:00,FC Ekibastuzets,FK Astana-64,0,0,D,NaN,NaN,NaN
+KAZ,25/05/2007,13:00,Shakter Karaganda,FK Ordabasy,0,0,D,NaN,NaN,NaN
+KAZ,25/05/2007,13:00,FK Aktobe,FK Okzhetpes,2,1,H,NaN,NaN,NaN
+KAZ,26/05/2007,10:00,Yesil Bogatyr Petropavlovsk,Irtysh Pavlodar,0,0,D,NaN,NaN,NaN
+KAZ,26/05/2007,10:00,Vostok Öskemen,Kaysar Kyzylorda,0,1,A,NaN,NaN,NaN
+KAZ,26/05/2007,10:00,Zhetysu Taldykorgan,FK Taraz,1,0,H,NaN,NaN,NaN
+KAZ,26/05/2007,11:00,FC Alma-Ata,Tobyl Kostanay,2,1,H,NaN,NaN,NaN
+KAZ,03/07/2007,14:00,FK Kairat,FK Atyrau,3,1,H,NaN,NaN,NaN
+KAZ,09/06/2007,13:00,FK Ordabasy,Zhetysu Taldykorgan,3,0,H,NaN,NaN,NaN
+KAZ,09/06/2007,13:00,Vostok Öskemen,FC Ekibastuzets,3,2,H,NaN,NaN,NaN
+KAZ,09/06/2007,14:00,Kaysar Kyzylorda,FK Taraz,2,0,H,NaN,NaN,NaN
+KAZ,09/06/2007,14:00,Tobyl Kostanay,FK Kairat,1,0,H,NaN,NaN,NaN
+KAZ,09/06/2007,14:00,FK Atyrau,Shakter Karaganda,0,5,A,NaN,NaN,NaN
+KAZ,11/06/2007,14:00,FK Okzhetpes,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,11/06/2007,14:00,Irtysh Pavlodar,FK Aktobe,2,1,H,NaN,NaN,NaN
+KAZ,11/06/2007,14:00,FK Astana-64,Yesil Bogatyr Petropavlovsk,1,1,D,NaN,NaN,NaN
+KAZ,16/06/2007,12:00,Yesil Bogatyr Petropavlovsk,Vostok Öskemen,0,1,A,NaN,NaN,NaN
+KAZ,16/06/2007,13:00,Zhetysu Taldykorgan,FK Atyrau,2,1,H,NaN,NaN,NaN
+KAZ,16/06/2007,13:00,FK Kairat,FK Okzhetpes,2,4,A,NaN,NaN,NaN
+KAZ,16/06/2007,14:00,FC Ekibastuzets,Kaysar Kyzylorda,2,3,A,NaN,NaN,NaN
+KAZ,16/06/2007,14:00,Shakter Karaganda,Tobyl Kostanay,3,1,H,NaN,NaN,NaN
+KAZ,16/06/2007,14:00,FK Taraz,FK Ordabasy,2,2,D,NaN,NaN,NaN
+KAZ,16/06/2007,15:00,FK Aktobe,FK Astana-64,2,0,H,NaN,NaN,NaN
+KAZ,17/06/2007,14:00,FC Alma-Ata,Irtysh Pavlodar,3,1,H,NaN,NaN,NaN
+KAZ,25/04/2007,13:00,Tobyl Kostanay,Zhetysu Taldykorgan,0,0,D,NaN,NaN,NaN
+KAZ,23/06/2007,13:00,Irtysh Pavlodar,FK Kairat,2,0,H,NaN,NaN,NaN
+KAZ,23/06/2007,13:30,Vostok Öskemen,FK Aktobe,2,1,H,NaN,NaN,NaN
+KAZ,23/06/2007,14:00,Kaysar Kyzylorda,FK Ordabasy,3,1,H,NaN,NaN,NaN
+KAZ,23/06/2007,14:00,FK Astana-64,FC Alma-Ata,0,1,A,NaN,NaN,NaN
+KAZ,23/06/2007,14:00,FC Ekibastuzets,Yesil Bogatyr Petropavlovsk,1,1,D,NaN,NaN,NaN
+KAZ,23/06/2007,14:00,FK Okzhetpes,Shakter Karaganda,1,2,A,NaN,NaN,NaN
+KAZ,23/06/2007,15:00,FK Atyrau,FK Taraz,3,0,H,NaN,NaN,NaN
+KAZ,16/05/2007,13:00,FK Taraz,Tobyl Kostanay,1,3,A,NaN,NaN,NaN
+KAZ,30/06/2007,12:00,Shakter Karaganda,Irtysh Pavlodar,2,1,H,NaN,NaN,NaN
+KAZ,30/06/2007,14:00,Yesil Bogatyr Petropavlovsk,Kaysar Kyzylorda,1,0,H,NaN,NaN,NaN
+KAZ,30/06/2007,14:00,Zhetysu Taldykorgan,FK Okzhetpes,2,1,H,NaN,NaN,NaN
+KAZ,30/06/2007,14:00,FK Kairat,FK Astana-64,0,2,A,NaN,NaN,NaN
+KAZ,30/06/2007,14:00,FK Ordabasy,FK Atyrau,3,0,H,NaN,NaN,NaN
+KAZ,30/06/2007,15:00,FK Aktobe,FC Ekibastuzets,3,1,H,NaN,NaN,NaN
+KAZ,01/07/2007,11:00,FC Alma-Ata,Vostok Öskemen,2,1,H,NaN,NaN,NaN
+KAZ,06/07/2007,13:00,FK Okzhetpes,FK Taraz,3,2,H,NaN,NaN,NaN
+KAZ,08/07/2007,13:00,Yesil Bogatyr Petropavlovsk,FK Aktobe,1,1,D,NaN,NaN,NaN
+KAZ,08/07/2007,13:30,Vostok Öskemen,FK Kairat,1,0,H,NaN,NaN,NaN
+KAZ,08/07/2007,14:00,Kaysar Kyzylorda,FK Atyrau,1,1,D,NaN,NaN,NaN
+KAZ,08/07/2007,14:00,FC Ekibastuzets,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,08/07/2007,14:00,Irtysh Pavlodar,Zhetysu Taldykorgan,3,2,H,NaN,NaN,NaN
+KAZ,08/07/2007,14:00,FK Astana-64,Shakter Karaganda,3,0,H,NaN,NaN,NaN
+KAZ,08/08/2007,14:00,Tobyl Kostanay,FK Ordabasy,3,0,H,NaN,NaN,NaN
+KAZ,25/04/2007,13:00,FK Aktobe,Yesil Bogatyr Petropavlovsk,2,1,H,NaN,NaN,NaN
+KAZ,16/05/2007,12:30,FC Alma-Ata,FC Ekibastuzets,0,0,D,NaN,NaN,NaN
+KAZ,16/05/2007,13:00,Shakter Karaganda,FK Astana-64,2,1,H,NaN,NaN,NaN
+KAZ,21/07/2007,10:00,FK Kairat,Vostok Öskemen,0,2,A,NaN,NaN,NaN
+KAZ,21/07/2007,10:00,FK Atyrau,Kaysar Kyzylorda,4,0,H,NaN,NaN,NaN
+KAZ,21/07/2007,10:00,FK Taraz,FK Okzhetpes,3,0,H,NaN,NaN,NaN
+KAZ,21/07/2007,10:00,Zhetysu Taldykorgan,Irtysh Pavlodar,3,0,H,NaN,NaN,NaN
+KAZ,29/10/2007,09:00,FK Ordabasy,Tobyl Kostanay,0,0,D,NaN,NaN,NaN
+KAZ,28/07/2007,14:00,FK Astana-64,FK Kairat,5,0,H,NaN,NaN,NaN
+KAZ,28/07/2007,14:00,Kaysar Kyzylorda,Yesil Bogatyr Petropavlovsk,0,0,D,NaN,NaN,NaN
+KAZ,28/07/2007,14:00,FK Okzhetpes,Zhetysu Taldykorgan,0,1,A,NaN,NaN,NaN
+KAZ,28/07/2007,14:00,Irtysh Pavlodar,Shakter Karaganda,2,0,H,NaN,NaN,NaN
+KAZ,28/07/2007,14:00,FC Ekibastuzets,FK Aktobe,1,3,A,NaN,NaN,NaN
+KAZ,28/07/2007,15:00,FK Atyrau,FK Ordabasy,0,0,D,NaN,NaN,NaN
+KAZ,03/10/2007,10:00,Tobyl Kostanay,FK Taraz,2,0,H,NaN,NaN,NaN
+KAZ,03/10/2007,10:00,Vostok Öskemen,FC Alma-Ata,1,2,A,NaN,NaN,NaN
+KAZ,25/04/2007,13:00,FC Alma-Ata,FK Astana-64,0,0,D,NaN,NaN,NaN
+KAZ,16/05/2007,14:00,FK Aktobe,Vostok Öskemen,1,0,H,NaN,NaN,NaN
+KAZ,04/08/2007,13:00,FK Taraz,FK Atyrau,0,0,D,NaN,NaN,NaN
+KAZ,04/08/2007,13:00,Shakter Karaganda,FK Okzhetpes,3,1,H,NaN,NaN,NaN
+KAZ,04/08/2007,13:00,Zhetysu Taldykorgan,Tobyl Kostanay,1,2,A,NaN,NaN,NaN
+KAZ,04/08/2007,13:30,FK Ordabasy,Kaysar Kyzylorda,1,0,H,NaN,NaN,NaN
+KAZ,04/08/2007,14:00,Yesil Bogatyr Petropavlovsk,FC Ekibastuzets,1,1,D,NaN,NaN,NaN
+KAZ,11/10/2007,13:00,FK Kairat,Irtysh Pavlodar,0,1,A,NaN,NaN,NaN
+KAZ,01/08/2007,09:00,FK Okzhetpes,FK Kairat,0,1,A,NaN,NaN,NaN
+KAZ,01/08/2007,09:00,FK Ordabasy,FK Taraz,2,1,H,NaN,NaN,NaN
+KAZ,11/08/2007,14:00,Tobyl Kostanay,Shakter Karaganda,4,2,H,NaN,NaN,NaN
+KAZ,11/08/2007,15:00,FK Atyrau,Zhetysu Taldykorgan,1,1,D,NaN,NaN,NaN
+KAZ,12/08/2007,13:00,Kaysar Kyzylorda,FC Ekibastuzets,0,1,A,NaN,NaN,NaN
+KAZ,12/08/2007,13:00,Vostok Öskemen,Yesil Bogatyr Petropavlovsk,2,2,D,NaN,NaN,NaN
+KAZ,19/09/2007,13:00,Irtysh Pavlodar,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,03/10/2007,11:30,FK Astana-64,FK Aktobe,1,2,A,NaN,NaN,NaN
+KAZ,26/08/2007,12:30,Zhetysu Taldykorgan,FK Ordabasy,1,1,D,NaN,NaN,NaN
+KAZ,26/08/2007,13:00,FK Taraz,Kaysar Kyzylorda,0,3,A,NaN,NaN,NaN
+KAZ,26/08/2007,13:00,FC Ekibastuzets,Vostok Öskemen,3,1,H,NaN,NaN,NaN
+KAZ,26/08/2007,13:30,Yesil Bogatyr Petropavlovsk,FK Astana-64,2,0,H,NaN,NaN,NaN
+KAZ,26/08/2007,14:00,FK Kairat,Tobyl Kostanay,0,2,A,NaN,NaN,NaN
+KAZ,26/08/2007,15:00,FK Aktobe,Irtysh Pavlodar,1,0,H,NaN,NaN,NaN
+KAZ,27/08/2007,13:00,Shakter Karaganda,FK Atyrau,2,1,H,NaN,NaN,NaN
+KAZ,27/08/2007,14:00,FC Alma-Ata,FK Okzhetpes,4,0,H,NaN,NaN,NaN
+KAZ,31/08/2007,15:00,FK Okzhetpes,FK Aktobe,0,6,A,NaN,NaN,NaN
+KAZ,01/09/2007,08:00,FK Taraz,Zhetysu Taldykorgan,0,1,A,NaN,NaN,NaN
+KAZ,01/09/2007,08:00,Kaysar Kyzylorda,Vostok Öskemen,0,4,A,NaN,NaN,NaN
+KAZ,01/09/2007,09:00,FK Astana-64,FC Ekibastuzets,3,0,H,NaN,NaN,NaN
+KAZ,01/09/2007,09:00,Irtysh Pavlodar,Yesil Bogatyr Petropavlovsk,2,0,H,NaN,NaN,NaN
+KAZ,01/09/2007,09:00,FK Ordabasy,Shakter Karaganda,0,2,A,NaN,NaN,NaN
+KAZ,01/09/2007,10:00,FK Atyrau,FK Kairat,3,0,H,NaN,NaN,NaN
+KAZ,23/10/2007,11:00,Tobyl Kostanay,FC Alma-Ata,4,2,H,NaN,NaN,NaN
+KAZ,15/09/2007,14:00,FC Alma-Ata,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,15/09/2007,14:00,Zhetysu Taldykorgan,Kaysar Kyzylorda,1,1,D,NaN,NaN,NaN
+KAZ,15/09/2007,14:00,FC Ekibastuzets,Irtysh Pavlodar,1,1,D,NaN,NaN,NaN
+KAZ,15/09/2007,14:00,Yesil Bogatyr Petropavlovsk,FK Okzhetpes,1,1,D,NaN,NaN,NaN
+KAZ,16/09/2007,14:00,FK Kairat,FK Ordabasy,3,0,H,NaN,NaN,NaN
+KAZ,16/09/2007,14:00,Shakter Karaganda,FK Taraz,2,0,H,NaN,NaN,NaN
+KAZ,16/09/2007,14:00,Vostok Öskemen,FK Astana-64,2,0,H,NaN,NaN,NaN
+KAZ,17/09/2007,15:00,FK Aktobe,Tobyl Kostanay,1,0,H,NaN,NaN,NaN
+KAZ,22/09/2007,10:00,FK Ordabasy,FC Alma-Ata,4,0,H,NaN,NaN,NaN
+KAZ,22/09/2007,10:00,FK Taraz,FK Kairat,0,0,D,NaN,NaN,NaN
+KAZ,22/09/2007,10:00,FK Okzhetpes,FC Ekibastuzets,1,0,H,NaN,NaN,NaN
+KAZ,22/09/2007,10:00,Irtysh Pavlodar,Vostok Öskemen,3,1,H,NaN,NaN,NaN
+KAZ,22/09/2007,11:30,Zhetysu Taldykorgan,Shakter Karaganda,1,0,H,NaN,NaN,NaN
+KAZ,22/09/2007,12:00,Tobyl Kostanay,Yesil Bogatyr Petropavlovsk,3,0,H,NaN,NaN,NaN
+KAZ,22/09/2007,12:00,Kaysar Kyzylorda,FK Astana-64,2,1,H,NaN,NaN,NaN
+KAZ,22/09/2007,13:00,FK Atyrau,FK Aktobe,1,2,A,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,FC Alma-Ata,FK Taraz,4,0,H,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,Shakter Karaganda,Kaysar Kyzylorda,2,0,H,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,Yesil Bogatyr Petropavlovsk,FK Atyrau,0,0,D,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,Vostok Öskemen,FK Okzhetpes,1,0,H,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,FK Astana-64,Irtysh Pavlodar,0,0,D,NaN,NaN,NaN
+KAZ,30/09/2007,11:00,FC Ekibastuzets,Tobyl Kostanay,0,1,A,NaN,NaN,NaN
+KAZ,30/09/2007,13:00,FK Aktobe,FK Ordabasy,2,1,H,NaN,NaN,NaN
+KAZ,01/10/2007,12:00,FK Kairat,Zhetysu Taldykorgan,1,0,H,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,Kaysar Kyzylorda,Irtysh Pavlodar,3,1,H,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,FK Taraz,FK Aktobe,0,2,A,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,Shakter Karaganda,FK Kairat,1,0,H,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,FK Okzhetpes,FK Astana-64,0,0,D,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,Zhetysu Taldykorgan,FC Alma-Ata,1,2,A,NaN,NaN,NaN
+KAZ,06/10/2007,10:00,FK Ordabasy,Yesil Bogatyr Petropavlovsk,0,1,A,NaN,NaN,NaN
+KAZ,06/10/2007,11:00,FK Atyrau,FC Ekibastuzets,1,1,D,NaN,NaN,NaN
+KAZ,06/10/2007,12:00,Tobyl Kostanay,Vostok Öskemen,7,0,H,NaN,NaN,NaN
+KAZ,20/10/2007,10:00,Yesil Bogatyr Petropavlovsk,FK Taraz,2,1,H,NaN,NaN,NaN
+KAZ,20/10/2007,10:00,Vostok Öskemen,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,20/10/2007,10:00,Irtysh Pavlodar,FK Okzhetpes,0,1,A,NaN,NaN,NaN
+KAZ,20/10/2007,10:00,FK Astana-64,Tobyl Kostanay,4,1,H,NaN,NaN,NaN
+KAZ,20/10/2007,10:00,FC Ekibastuzets,FK Ordabasy,1,1,D,NaN,NaN,NaN
+KAZ,20/10/2007,13:00,FK Aktobe,Zhetysu Taldykorgan,2,0,H,NaN,NaN,NaN
+KAZ,21/10/2007,12:00,FK Kairat,Kaysar Kyzylorda,2,1,H,NaN,NaN,NaN
+KAZ,07/11/2007,10:00,FC Alma-Ata,Shakter Karaganda,1,1,D,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,FK Atyrau,FK Astana-64,3,2,H,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,Shakter Karaganda,FK Aktobe,0,0,D,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,FK Ordabasy,Vostok Öskemen,0,0,D,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,FK Okzhetpes,Kaysar Kyzylorda,2,2,D,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,Yesil Bogatyr Petropavlovsk,Zhetysu Taldykorgan,1,0,H,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,Tobyl Kostanay,Irtysh Pavlodar,1,0,H,NaN,NaN,NaN
+KAZ,26/10/2007,11:00,FK Kairat,FC Alma-Ata,3,1,H,NaN,NaN,NaN
+KAZ,27/10/2007,10:00,FK Taraz,FC Ekibastuzets,3,1,H,NaN,NaN,NaN
+KAZ,01/11/2007,09:00,Yesil Bogatyr Petropavlovsk,Shakter Karaganda,0,1,A,NaN,NaN,NaN
+KAZ,01/11/2007,09:00,Tobyl Kostanay,FK Okzhetpes,10,1,H,NaN,NaN,NaN
+KAZ,01/11/2007,09:00,FK Astana-64,FK Ordabasy,1,0,H,NaN,NaN,NaN
+KAZ,01/11/2007,09:00,Vostok Öskemen,FK Taraz,0,0,D,NaN,NaN,NaN
+KAZ,01/11/2007,12:00,FK Aktobe,FK Kairat,2,0,H,NaN,NaN,NaN
+KAZ,01/11/2007,12:00,Irtysh Pavlodar,FK Atyrau,2,0,H,NaN,NaN,NaN
+KAZ,01/11/2007,12:00,FC Alma-Ata,Kaysar Kyzylorda,2,0,H,NaN,NaN,NaN
+KAZ,07/11/2007,08:00,FC Ekibastuzets,Zhetysu Taldykorgan,2,0,H,NaN,NaN,NaN
+KAZ,04/11/2007,08:50,FK Ordabasy,Irtysh Pavlodar,2,1,H,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,FC Alma-Ata,FK Aktobe,0,2,A,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,FK Atyrau,FK Okzhetpes,3,0,H,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,Shakter Karaganda,FC Ekibastuzets,2,0,H,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,Kaysar Kyzylorda,Tobyl Kostanay,1,1,D,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,Zhetysu Taldykorgan,Vostok Öskemen,1,0,H,NaN,NaN,NaN
+KAZ,04/11/2007,09:00,FK Taraz,FK Astana-64,0,2,A,NaN,NaN,NaN
+KAZ,04/11/2007,11:00,FK Kairat,Yesil Bogatyr Petropavlovsk,2,1,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,Yesil Bogatyr Petropavlovsk,FC Alma-Ata,1,0,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,FK Okzhetpes,FK Ordabasy,3,1,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,FC Ekibastuzets,FK Kairat,1,3,A,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,Tobyl Kostanay,FK Atyrau,1,0,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,Irtysh Pavlodar,FK Taraz,2,1,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,Vostok Öskemen,Shakter Karaganda,1,0,H,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,FK Astana-64,Zhetysu Taldykorgan,1,1,D,NaN,NaN,NaN
+KAZ,10/11/2007,09:00,FK Aktobe,Kaysar Kyzylorda,5,0,H,NaN,NaN,NaN

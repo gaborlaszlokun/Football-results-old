@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,19/08/1994,,Standard Liège,Royal Antwerp FC,3,1,H,NaN,NaN,NaN
+BEL,20/08/1994,,RWD Molenbeek,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,20/08/1994,,Lommelse SK,Lierse SK,2,3,A,NaN,NaN,NaN
+BEL,20/08/1994,,RFC de Liège,Sint-Truidense VV,1,1,D,NaN,NaN,NaN
+BEL,20/08/1994,,KAA Gent,KSK Beveren,2,1,H,NaN,NaN,NaN
+BEL,20/08/1994,,RSC Charleroi,KV Mechelen,0,1,A,NaN,NaN,NaN
+BEL,20/08/1994,,Cercle Brugge,RSC Anderlecht,2,1,H,NaN,NaN,NaN
+BEL,21/08/1994,,KV Oostende,RFC Seraing (alt),1,2,A,NaN,NaN,NaN
+BEL,21/08/1994,,KFC Germinal Ekeren,K.S.C. Eendracht Aalst,2,3,A,NaN,NaN,NaN
+BEL,26/08/1994,,RFC Seraing (alt),KAA Gent,3,0,H,NaN,NaN,NaN
+BEL,27/08/1994,,Sint-Truidense VV,RSC Charleroi,0,0,D,NaN,NaN,NaN
+BEL,27/08/1994,,KV Mechelen,Standard Liège,0,2,A,NaN,NaN,NaN
+BEL,27/08/1994,,Lierse SK,RFC de Liège,5,0,H,NaN,NaN,NaN
+BEL,27/08/1994,,KSK Beveren,Cercle Brugge,1,0,H,NaN,NaN,NaN
+BEL,27/08/1994,,Royal Antwerp FC,RWD Molenbeek,2,0,H,NaN,NaN,NaN
+BEL,27/08/1994,,RSC Anderlecht,KFC Germinal Ekeren,2,2,D,NaN,NaN,NaN
+BEL,28/08/1994,,K.S.C. Eendracht Aalst,Lommelse SK,1,1,D,NaN,NaN,NaN
+BEL,28/08/1994,,Club Brugge KV,KV Oostende,2,3,A,NaN,NaN,NaN
+BEL,31/08/1994,,Standard Liège,Sint-Truidense VV,2,0,H,NaN,NaN,NaN
+BEL,31/08/1994,,KV Oostende,Royal Antwerp FC,0,3,A,NaN,NaN,NaN
+BEL,31/08/1994,,RWD Molenbeek,KV Mechelen,3,1,H,NaN,NaN,NaN
+BEL,31/08/1994,,Lommelse SK,RSC Anderlecht,1,2,A,NaN,NaN,NaN
+BEL,31/08/1994,,Lierse SK,K.S.C. Eendracht Aalst,3,1,H,NaN,NaN,NaN
+BEL,31/08/1994,,KFC Germinal Ekeren,KSK Beveren,3,0,H,NaN,NaN,NaN
+BEL,31/08/1994,,KAA Gent,Club Brugge KV,1,2,A,NaN,NaN,NaN
+BEL,31/08/1994,,Cercle Brugge,RFC Seraing (alt),2,1,H,NaN,NaN,NaN
+BEL,01/09/1994,,RFC de Liège,RSC Charleroi,2,2,D,NaN,NaN,NaN
+BEL,09/09/1994,,RSC Charleroi,Standard Liège,0,3,A,NaN,NaN,NaN
+BEL,10/09/1994,,Sint-Truidense VV,RWD Molenbeek,4,2,H,NaN,NaN,NaN
+BEL,10/09/1994,,RFC Seraing (alt),KFC Germinal Ekeren,1,1,D,NaN,NaN,NaN
+BEL,10/09/1994,,KV Mechelen,KV Oostende,4,1,H,NaN,NaN,NaN
+BEL,10/09/1994,,KSK Beveren,Lommelse SK,2,0,H,NaN,NaN,NaN
+BEL,10/09/1994,,Royal Antwerp FC,KAA Gent,3,3,D,NaN,NaN,NaN
+BEL,10/09/1994,,RSC Anderlecht,Lierse SK,4,2,H,NaN,NaN,NaN
+BEL,11/09/1994,,K.S.C. Eendracht Aalst,RFC de Liège,2,0,H,NaN,NaN,NaN
+BEL,11/09/1994,,Club Brugge KV,Cercle Brugge,4,0,H,NaN,NaN,NaN
+BEL,17/09/1994,,RWD Molenbeek,RSC Charleroi,1,0,H,NaN,NaN,NaN
+BEL,17/09/1994,,Lommelse SK,RFC Seraing (alt),3,1,H,NaN,NaN,NaN
+BEL,17/09/1994,,Lierse SK,KSK Beveren,3,1,H,NaN,NaN,NaN
+BEL,17/09/1994,,RFC de Liège,Standard Liège,1,1,D,NaN,NaN,NaN
+BEL,17/09/1994,,KAA Gent,KV Mechelen,2,0,H,NaN,NaN,NaN
+BEL,18/09/1994,,KV Oostende,Sint-Truidense VV,2,1,H,NaN,NaN,NaN
+BEL,18/09/1994,,KFC Germinal Ekeren,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,18/09/1994,,K.S.C. Eendracht Aalst,RSC Anderlecht,3,6,A,NaN,NaN,NaN
+BEL,18/09/1994,,Cercle Brugge,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,23/09/1994,,RFC Seraing (alt),Lierse SK,4,1,H,NaN,NaN,NaN
+BEL,24/09/1994,,Standard Liège,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,24/09/1994,,Sint-Truidense VV,KAA Gent,0,1,A,NaN,NaN,NaN
+BEL,24/09/1994,,KV Mechelen,Cercle Brugge,3,1,H,NaN,NaN,NaN
+BEL,24/09/1994,,RSC Charleroi,KV Oostende,1,0,H,NaN,NaN,NaN
+BEL,24/09/1994,,KSK Beveren,K.S.C. Eendracht Aalst,3,0,H,NaN,NaN,NaN
+BEL,24/09/1994,,Royal Antwerp FC,KFC Germinal Ekeren,4,2,H,NaN,NaN,NaN
+BEL,24/09/1994,,RSC Anderlecht,RFC de Liège,2,0,H,NaN,NaN,NaN
+BEL,25/09/1994,,Club Brugge KV,Lommelse SK,5,0,H,NaN,NaN,NaN
+BEL,30/09/1994,,KV Oostende,Standard Liège,0,2,A,NaN,NaN,NaN
+BEL,01/10/1994,,Lommelse SK,Royal Antwerp FC,1,0,H,NaN,NaN,NaN
+BEL,01/10/1994,,RFC de Liège,RWD Molenbeek,2,2,D,NaN,NaN,NaN
+BEL,01/10/1994,,KAA Gent,RSC Charleroi,2,2,D,NaN,NaN,NaN
+BEL,01/10/1994,,Cercle Brugge,Sint-Truidense VV,0,1,A,NaN,NaN,NaN
+BEL,01/10/1994,,RSC Anderlecht,KSK Beveren,2,1,H,NaN,NaN,NaN
+BEL,02/10/1994,,Lierse SK,Club Brugge KV,1,2,A,NaN,NaN,NaN
+BEL,02/10/1994,,KFC Germinal Ekeren,KV Mechelen,0,2,A,NaN,NaN,NaN
+BEL,02/10/1994,,K.S.C. Eendracht Aalst,RFC Seraing (alt),1,3,A,NaN,NaN,NaN
+BEL,15/10/1994,,Standard Liège,KAA Gent,2,0,H,NaN,NaN,NaN
+BEL,15/10/1994,,Sint-Truidense VV,KFC Germinal Ekeren,0,4,A,NaN,NaN,NaN
+BEL,15/10/1994,,RFC Seraing (alt),RSC Anderlecht,1,1,D,NaN,NaN,NaN
+BEL,15/10/1994,,RWD Molenbeek,KV Oostende,1,1,D,NaN,NaN,NaN
+BEL,15/10/1994,,KV Mechelen,Lommelse SK,1,0,H,NaN,NaN,NaN
+BEL,15/10/1994,,RSC Charleroi,Cercle Brugge,2,0,H,NaN,NaN,NaN
+BEL,15/10/1994,,KSK Beveren,RFC de Liège,5,4,H,NaN,NaN,NaN
+BEL,15/10/1994,,Royal Antwerp FC,Lierse SK,0,3,A,NaN,NaN,NaN
+BEL,16/10/1994,,Club Brugge KV,K.S.C. Eendracht Aalst,2,3,A,NaN,NaN,NaN
+BEL,22/10/1994,,Lommelse SK,Sint-Truidense VV,0,1,A,NaN,NaN,NaN
+BEL,22/10/1994,,Lierse SK,KV Mechelen,0,0,D,NaN,NaN,NaN
+BEL,22/10/1994,,RFC de Liège,KV Oostende,1,2,A,NaN,NaN,NaN
+BEL,22/10/1994,,KAA Gent,RWD Molenbeek,0,0,D,NaN,NaN,NaN
+BEL,22/10/1994,,Cercle Brugge,Standard Liège,3,0,H,NaN,NaN,NaN
+BEL,22/10/1994,,KSK Beveren,RFC Seraing (alt),1,0,H,NaN,NaN,NaN
+BEL,23/10/1994,,KFC Germinal Ekeren,RSC Charleroi,5,0,H,NaN,NaN,NaN
+BEL,23/10/1994,,K.S.C. Eendracht Aalst,Royal Antwerp FC,3,0,H,NaN,NaN,NaN
+BEL,23/10/1994,,RSC Anderlecht,Club Brugge KV,1,0,H,NaN,NaN,NaN
+BEL,29/10/1994,,Standard Liège,KFC Germinal Ekeren,2,0,H,NaN,NaN,NaN
+BEL,29/10/1994,,Sint-Truidense VV,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,29/10/1994,,RWD Molenbeek,Cercle Brugge,1,1,D,NaN,NaN,NaN
+BEL,29/10/1994,,KV Mechelen,K.S.C. Eendracht Aalst,2,2,D,NaN,NaN,NaN
+BEL,29/10/1994,,RSC Charleroi,Lommelse SK,2,0,H,NaN,NaN,NaN
+BEL,30/10/1994,,RFC Seraing (alt),RFC de Liège,2,1,H,NaN,NaN,NaN
+BEL,30/10/1994,,KV Oostende,KAA Gent,2,4,A,NaN,NaN,NaN
+BEL,30/10/1994,,Club Brugge KV,KSK Beveren,4,1,H,NaN,NaN,NaN
+BEL,30/10/1994,,Royal Antwerp FC,RSC Anderlecht,2,4,A,NaN,NaN,NaN
+BEL,08/11/1994,,Cercle Brugge,KV Oostende,3,1,H,NaN,NaN,NaN
+BEL,09/11/1994,,RFC Seraing (alt),Club Brugge KV,0,0,D,NaN,NaN,NaN
+BEL,09/11/1994,,Lommelse SK,Standard Liège,3,0,H,NaN,NaN,NaN
+BEL,09/11/1994,,Lierse SK,RSC Charleroi,1,0,H,NaN,NaN,NaN
+BEL,09/11/1994,,KFC Germinal Ekeren,RWD Molenbeek,0,1,A,NaN,NaN,NaN
+BEL,09/11/1994,,K.S.C. Eendracht Aalst,Sint-Truidense VV,2,2,D,NaN,NaN,NaN
+BEL,09/11/1994,,KSK Beveren,Royal Antwerp FC,0,4,A,NaN,NaN,NaN
+BEL,09/11/1994,,RSC Anderlecht,KV Mechelen,0,1,A,NaN,NaN,NaN
+BEL,10/11/1994,,RFC de Liège,KAA Gent,4,1,H,NaN,NaN,NaN
+BEL,18/11/1994,,Royal Antwerp FC,RFC Seraing (alt),2,2,D,NaN,NaN,NaN
+BEL,19/11/1994,,Standard Liège,Lierse SK,2,0,H,NaN,NaN,NaN
+BEL,19/11/1994,,Sint-Truidense VV,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,19/11/1994,,RWD Molenbeek,Lommelse SK,0,0,D,NaN,NaN,NaN
+BEL,19/11/1994,,KV Mechelen,KSK Beveren,1,1,D,NaN,NaN,NaN
+BEL,19/11/1994,,KAA Gent,Cercle Brugge,4,0,H,NaN,NaN,NaN
+BEL,19/11/1994,,RSC Charleroi,K.S.C. Eendracht Aalst,0,0,D,NaN,NaN,NaN
+BEL,20/11/1994,,KV Oostende,KFC Germinal Ekeren,1,1,D,NaN,NaN,NaN
+BEL,20/11/1994,,Club Brugge KV,RFC de Liège,2,0,H,NaN,NaN,NaN
+BEL,26/11/1994,,Lommelse SK,KV Oostende,3,1,H,NaN,NaN,NaN
+BEL,26/11/1994,,Lierse SK,RWD Molenbeek,2,0,H,NaN,NaN,NaN
+BEL,26/11/1994,,RFC de Liège,Cercle Brugge,0,0,D,NaN,NaN,NaN
+BEL,26/11/1994,,KSK Beveren,Sint-Truidense VV,0,0,D,NaN,NaN,NaN
+BEL,27/11/1994,,RFC Seraing (alt),KV Mechelen,3,1,H,NaN,NaN,NaN
+BEL,27/11/1994,,KFC Germinal Ekeren,KAA Gent,4,1,H,NaN,NaN,NaN
+BEL,27/11/1994,,K.S.C. Eendracht Aalst,Standard Liège,1,3,A,NaN,NaN,NaN
+BEL,27/11/1994,,Club Brugge KV,Royal Antwerp FC,3,2,H,NaN,NaN,NaN
+BEL,27/11/1994,,RSC Anderlecht,RSC Charleroi,4,0,H,NaN,NaN,NaN
+BEL,02/12/1994,,Standard Liège,RSC Anderlecht,1,1,D,NaN,NaN,NaN
+BEL,03/12/1994,,Sint-Truidense VV,RFC Seraing (alt),1,1,D,NaN,NaN,NaN
+BEL,03/12/1994,,RWD Molenbeek,K.S.C. Eendracht Aalst,1,2,A,NaN,NaN,NaN
+BEL,03/12/1994,,KV Mechelen,Club Brugge KV,1,2,A,NaN,NaN,NaN
+BEL,03/12/1994,,KAA Gent,Lommelse SK,0,2,A,NaN,NaN,NaN
+BEL,03/12/1994,,RSC Charleroi,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,03/12/1994,,Royal Antwerp FC,RFC de Liège,3,0,H,NaN,NaN,NaN
+BEL,04/12/1994,,KV Oostende,Lierse SK,0,3,A,NaN,NaN,NaN
+BEL,04/12/1994,,Cercle Brugge,KFC Germinal Ekeren,1,2,A,NaN,NaN,NaN
+BEL,10/12/1994,,RFC Seraing (alt),RSC Charleroi,1,1,D,NaN,NaN,NaN
+BEL,10/12/1994,,Lommelse SK,Cercle Brugge,0,0,D,NaN,NaN,NaN
+BEL,10/12/1994,,Lierse SK,KAA Gent,2,1,H,NaN,NaN,NaN
+BEL,10/12/1994,,K.S.C. Eendracht Aalst,KV Oostende,7,1,H,NaN,NaN,NaN
+BEL,10/12/1994,,Club Brugge KV,Sint-Truidense VV,4,1,H,NaN,NaN,NaN
+BEL,10/12/1994,,KSK Beveren,Standard Liège,2,2,D,NaN,NaN,NaN
+BEL,10/12/1994,,Royal Antwerp FC,KV Mechelen,2,0,H,NaN,NaN,NaN
+BEL,10/12/1994,,RSC Anderlecht,RWD Molenbeek,2,0,H,NaN,NaN,NaN
+BEL,22/03/1995,,RFC de Liège,KFC Germinal Ekeren,0,0,D,NaN,NaN,NaN
+BEL,18/12/1994,,KFC Germinal Ekeren,Lommelse SK,2,2,D,NaN,NaN,NaN
+BEL,21/12/1994,,Standard Liège,RFC Seraing (alt),1,0,H,NaN,NaN,NaN
+BEL,21/12/1994,,Sint-Truidense VV,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,21/12/1994,,KV Oostende,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,21/12/1994,,RWD Molenbeek,KSK Beveren,2,0,H,NaN,NaN,NaN
+BEL,21/12/1994,,KAA Gent,K.S.C. Eendracht Aalst,1,2,A,NaN,NaN,NaN
+BEL,21/12/1994,,Cercle Brugge,Lierse SK,5,0,H,NaN,NaN,NaN
+BEL,22/12/1994,,RSC Charleroi,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,14/05/1995,,RFC de Liège,KV Mechelen,1,2,A,NaN,NaN,NaN
+BEL,31/01/1995,,Club Brugge KV,Standard Liège,2,0,H,NaN,NaN,NaN
+BEL,01/02/1995,,RFC Seraing (alt),RWD Molenbeek,1,2,A,NaN,NaN,NaN
+BEL,01/02/1995,,KV Mechelen,Sint-Truidense VV,0,1,A,NaN,NaN,NaN
+BEL,01/02/1995,,Lommelse SK,RFC de Liège,4,2,H,NaN,NaN,NaN
+BEL,01/02/1995,,K.S.C. Eendracht Aalst,Cercle Brugge,6,4,H,NaN,NaN,NaN
+BEL,01/02/1995,,KSK Beveren,KV Oostende,0,0,D,NaN,NaN,NaN
+BEL,01/02/1995,,Royal Antwerp FC,RSC Charleroi,0,2,A,NaN,NaN,NaN
+BEL,08/02/1995,,Lierse SK,KFC Germinal Ekeren,0,0,D,NaN,NaN,NaN
+BEL,08/02/1995,,RSC Anderlecht,KAA Gent,4,0,H,NaN,NaN,NaN
+BEL,14/01/1995,,Sint-Truidense VV,RFC de Liège,1,0,H,NaN,NaN,NaN
+BEL,14/01/1995,,KV Mechelen,RSC Charleroi,1,3,A,NaN,NaN,NaN
+BEL,14/01/1995,,Lierse SK,Lommelse SK,0,0,D,NaN,NaN,NaN
+BEL,14/01/1995,,Club Brugge KV,RWD Molenbeek,3,1,H,NaN,NaN,NaN
+BEL,14/01/1995,,KSK Beveren,KAA Gent,4,0,H,NaN,NaN,NaN
+BEL,14/01/1995,,RSC Anderlecht,Cercle Brugge,1,1,D,NaN,NaN,NaN
+BEL,15/01/1995,,RFC Seraing (alt),KV Oostende,2,2,D,NaN,NaN,NaN
+BEL,15/01/1995,,K.S.C. Eendracht Aalst,KFC Germinal Ekeren,0,3,A,NaN,NaN,NaN
+BEL,15/01/1995,,Royal Antwerp FC,Standard Liège,0,1,A,NaN,NaN,NaN
+BEL,20/01/1995,,Standard Liège,KV Mechelen,3,1,H,NaN,NaN,NaN
+BEL,21/01/1995,,RWD Molenbeek,Royal Antwerp FC,3,1,H,NaN,NaN,NaN
+BEL,21/01/1995,,Lommelse SK,K.S.C. Eendracht Aalst,1,0,H,NaN,NaN,NaN
+BEL,21/01/1995,,KAA Gent,RFC Seraing (alt),1,0,H,NaN,NaN,NaN
+BEL,21/01/1995,,RSC Charleroi,Sint-Truidense VV,0,4,A,NaN,NaN,NaN
+BEL,22/01/1995,,KV Oostende,Club Brugge KV,1,6,A,NaN,NaN,NaN
+BEL,22/01/1995,,RFC de Liège,Lierse SK,2,0,H,NaN,NaN,NaN
+BEL,22/01/1995,,KFC Germinal Ekeren,RSC Anderlecht,2,3,A,NaN,NaN,NaN
+BEL,22/01/1995,,Cercle Brugge,KSK Beveren,2,0,H,NaN,NaN,NaN
+BEL,28/01/1995,,Sint-Truidense VV,Standard Liège,1,1,D,NaN,NaN,NaN
+BEL,28/01/1995,,KV Mechelen,RWD Molenbeek,1,0,H,NaN,NaN,NaN
+BEL,28/01/1995,,RSC Charleroi,RFC de Liège,4,1,H,NaN,NaN,NaN
+BEL,28/01/1995,,KSK Beveren,KFC Germinal Ekeren,1,1,D,NaN,NaN,NaN
+BEL,28/01/1995,,Royal Antwerp FC,KV Oostende,2,1,H,NaN,NaN,NaN
+BEL,29/01/1995,,RFC Seraing (alt),Cercle Brugge,4,1,H,NaN,NaN,NaN
+BEL,22/03/1995,,K.S.C. Eendracht Aalst,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,22/03/1995,,Club Brugge KV,KAA Gent,3,2,H,NaN,NaN,NaN
+BEL,12/04/1995,,RSC Anderlecht,Lommelse SK,3,2,H,NaN,NaN,NaN
+BEL,03/02/1995,,Lierse SK,RSC Anderlecht,1,8,A,NaN,NaN,NaN
+BEL,04/02/1995,,Standard Liège,RSC Charleroi,2,0,H,NaN,NaN,NaN
+BEL,04/02/1995,,RWD Molenbeek,Sint-Truidense VV,1,0,H,NaN,NaN,NaN
+BEL,04/02/1995,,Lommelse SK,KSK Beveren,1,1,D,NaN,NaN,NaN
+BEL,04/02/1995,,KAA Gent,Royal Antwerp FC,2,1,H,NaN,NaN,NaN
+BEL,05/02/1995,,KV Oostende,KV Mechelen,1,1,D,NaN,NaN,NaN
+BEL,05/02/1995,,RFC de Liège,K.S.C. Eendracht Aalst,2,3,A,NaN,NaN,NaN
+BEL,05/02/1995,,KFC Germinal Ekeren,RFC Seraing (alt),3,1,H,NaN,NaN,NaN
+BEL,05/02/1995,,Cercle Brugge,Club Brugge KV,0,4,A,NaN,NaN,NaN
+BEL,10/02/1995,,RFC Seraing (alt),Lommelse SK,3,0,H,NaN,NaN,NaN
+BEL,11/02/1995,,Standard Liège,RFC de Liège,1,0,H,NaN,NaN,NaN
+BEL,11/02/1995,,Sint-Truidense VV,KV Oostende,1,1,D,NaN,NaN,NaN
+BEL,11/02/1995,,KV Mechelen,KAA Gent,0,0,D,NaN,NaN,NaN
+BEL,11/02/1995,,RSC Charleroi,RWD Molenbeek,2,0,H,NaN,NaN,NaN
+BEL,11/02/1995,,KSK Beveren,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,11/02/1995,,Royal Antwerp FC,Cercle Brugge,2,1,H,NaN,NaN,NaN
+BEL,11/02/1995,,RSC Anderlecht,K.S.C. Eendracht Aalst,3,2,H,NaN,NaN,NaN
+BEL,12/04/1995,,Club Brugge KV,KFC Germinal Ekeren,0,0,D,NaN,NaN,NaN
+BEL,17/02/1995,,RWD Molenbeek,Standard Liège,1,2,A,NaN,NaN,NaN
+BEL,18/02/1995,,Lommelse SK,Club Brugge KV,1,0,H,NaN,NaN,NaN
+BEL,18/02/1995,,Lierse SK,RFC Seraing (alt),0,0,D,NaN,NaN,NaN
+BEL,18/02/1995,,KAA Gent,Sint-Truidense VV,0,0,D,NaN,NaN,NaN
+BEL,19/02/1995,,KV Oostende,RSC Charleroi,1,1,D,NaN,NaN,NaN
+BEL,19/02/1995,,RFC de Liège,RSC Anderlecht,0,4,A,NaN,NaN,NaN
+BEL,19/02/1995,,KFC Germinal Ekeren,Royal Antwerp FC,2,0,H,NaN,NaN,NaN
+BEL,19/02/1995,,K.S.C. Eendracht Aalst,KSK Beveren,1,3,A,NaN,NaN,NaN
+BEL,19/02/1995,,Cercle Brugge,KV Mechelen,2,2,D,NaN,NaN,NaN
+BEL,24/02/1995,,KSK Beveren,RSC Anderlecht,0,0,D,NaN,NaN,NaN
+BEL,25/02/1995,,Standard Liège,KV Oostende,2,0,H,NaN,NaN,NaN
+BEL,25/02/1995,,Sint-Truidense VV,Cercle Brugge,3,2,H,NaN,NaN,NaN
+BEL,25/02/1995,,RWD Molenbeek,RFC de Liège,4,0,H,NaN,NaN,NaN
+BEL,25/02/1995,,KV Mechelen,KFC Germinal Ekeren,0,2,A,NaN,NaN,NaN
+BEL,25/02/1995,,RSC Charleroi,KAA Gent,0,0,D,NaN,NaN,NaN
+BEL,25/02/1995,,Royal Antwerp FC,Lommelse SK,1,1,D,NaN,NaN,NaN
+BEL,26/02/1995,,RFC Seraing (alt),K.S.C. Eendracht Aalst,2,3,A,NaN,NaN,NaN
+BEL,20/04/1995,,Club Brugge KV,Lierse SK,1,0,H,NaN,NaN,NaN
+BEL,03/03/1995,,KAA Gent,Standard Liège,0,1,A,NaN,NaN,NaN
+BEL,04/03/1995,,Lommelse SK,KV Mechelen,2,0,H,NaN,NaN,NaN
+BEL,04/03/1995,,Lierse SK,Royal Antwerp FC,3,0,H,NaN,NaN,NaN
+BEL,04/03/1995,,RSC Anderlecht,RFC Seraing (alt),4,0,H,NaN,NaN,NaN
+BEL,05/03/1995,,KV Oostende,RWD Molenbeek,2,2,D,NaN,NaN,NaN
+BEL,05/03/1995,,RFC de Liège,KSK Beveren,1,0,H,NaN,NaN,NaN
+BEL,05/03/1995,,KFC Germinal Ekeren,Sint-Truidense VV,1,2,A,NaN,NaN,NaN
+BEL,05/03/1995,,K.S.C. Eendracht Aalst,Club Brugge KV,1,0,H,NaN,NaN,NaN
+BEL,05/03/1995,,Cercle Brugge,RSC Charleroi,0,1,A,NaN,NaN,NaN
+BEL,10/03/1995,,Club Brugge KV,RSC Anderlecht,1,0,H,NaN,NaN,NaN
+BEL,11/03/1995,,Standard Liège,Cercle Brugge,2,0,H,NaN,NaN,NaN
+BEL,11/03/1995,,Sint-Truidense VV,Lommelse SK,1,1,D,NaN,NaN,NaN
+BEL,11/03/1995,,RWD Molenbeek,KAA Gent,0,1,A,NaN,NaN,NaN
+BEL,11/03/1995,,KV Mechelen,Lierse SK,4,0,H,NaN,NaN,NaN
+BEL,11/03/1995,,RSC Charleroi,KFC Germinal Ekeren,1,2,A,NaN,NaN,NaN
+BEL,11/03/1995,,Royal Antwerp FC,K.S.C. Eendracht Aalst,2,3,A,NaN,NaN,NaN
+BEL,12/03/1995,,RFC Seraing (alt),KSK Beveren,1,2,A,NaN,NaN,NaN
+BEL,12/03/1995,,KV Oostende,RFC de Liège,1,3,A,NaN,NaN,NaN
+BEL,17/03/1995,,Lommelse SK,RSC Charleroi,2,0,H,NaN,NaN,NaN
+BEL,18/03/1995,,Lierse SK,Sint-Truidense VV,1,0,H,NaN,NaN,NaN
+BEL,18/03/1995,,RFC de Liège,RFC Seraing (alt),0,1,A,NaN,NaN,NaN
+BEL,18/03/1995,,KAA Gent,KV Oostende,5,0,H,NaN,NaN,NaN
+BEL,18/03/1995,,Cercle Brugge,RWD Molenbeek,0,0,D,NaN,NaN,NaN
+BEL,18/03/1995,,KSK Beveren,Club Brugge KV,0,2,A,NaN,NaN,NaN
+BEL,18/03/1995,,RSC Anderlecht,Royal Antwerp FC,3,1,H,NaN,NaN,NaN
+BEL,19/03/1995,,KFC Germinal Ekeren,Standard Liège,1,1,D,NaN,NaN,NaN
+BEL,19/03/1995,,K.S.C. Eendracht Aalst,KV Mechelen,1,1,D,NaN,NaN,NaN
+BEL,01/04/1995,,Standard Liège,Lommelse SK,1,0,H,NaN,NaN,NaN
+BEL,01/04/1995,,Sint-Truidense VV,K.S.C. Eendracht Aalst,0,0,D,NaN,NaN,NaN
+BEL,01/04/1995,,KV Oostende,Cercle Brugge,0,2,A,NaN,NaN,NaN
+BEL,01/04/1995,,RWD Molenbeek,KFC Germinal Ekeren,0,0,D,NaN,NaN,NaN
+BEL,01/04/1995,,KV Mechelen,RSC Anderlecht,1,1,D,NaN,NaN,NaN
+BEL,01/04/1995,,KAA Gent,RFC de Liège,1,0,H,NaN,NaN,NaN
+BEL,01/04/1995,,RSC Charleroi,Lierse SK,1,0,H,NaN,NaN,NaN
+BEL,01/04/1995,,Royal Antwerp FC,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,02/04/1995,,Club Brugge KV,RFC Seraing (alt),3,3,D,NaN,NaN,NaN
+BEL,07/04/1995,,Lierse SK,Standard Liège,0,0,D,NaN,NaN,NaN
+BEL,08/04/1995,,RFC Seraing (alt),Royal Antwerp FC,2,0,H,NaN,NaN,NaN
+BEL,08/04/1995,,Lommelse SK,RWD Molenbeek,3,0,H,NaN,NaN,NaN
+BEL,08/04/1995,,Cercle Brugge,KAA Gent,1,1,D,NaN,NaN,NaN
+BEL,08/04/1995,,KSK Beveren,KV Mechelen,3,0,H,NaN,NaN,NaN
+BEL,08/04/1995,,RSC Anderlecht,Sint-Truidense VV,0,1,A,NaN,NaN,NaN
+BEL,09/04/1995,,RFC de Liège,Club Brugge KV,1,1,D,NaN,NaN,NaN
+BEL,09/04/1995,,KFC Germinal Ekeren,KV Oostende,4,1,H,NaN,NaN,NaN
+BEL,09/04/1995,,K.S.C. Eendracht Aalst,RSC Charleroi,0,0,D,NaN,NaN,NaN
+BEL,15/04/1995,,Standard Liège,K.S.C. Eendracht Aalst,0,0,D,NaN,NaN,NaN
+BEL,15/04/1995,,Sint-Truidense VV,KSK Beveren,0,0,D,NaN,NaN,NaN
+BEL,15/04/1995,,KV Oostende,Lommelse SK,2,1,H,NaN,NaN,NaN
+BEL,15/04/1995,,RWD Molenbeek,Lierse SK,2,1,H,NaN,NaN,NaN
+BEL,15/04/1995,,KV Mechelen,RFC Seraing (alt),2,1,H,NaN,NaN,NaN
+BEL,15/04/1995,,KAA Gent,KFC Germinal Ekeren,1,0,H,NaN,NaN,NaN
+BEL,15/04/1995,,Cercle Brugge,RFC de Liège,3,0,H,NaN,NaN,NaN
+BEL,16/04/1995,,Royal Antwerp FC,Club Brugge KV,0,1,A,NaN,NaN,NaN
+BEL,17/04/1995,,RSC Charleroi,RSC Anderlecht,2,1,H,NaN,NaN,NaN
+BEL,29/04/1995,,RFC Seraing (alt),Sint-Truidense VV,3,0,H,NaN,NaN,NaN
+BEL,29/04/1995,,Lommelse SK,KAA Gent,3,1,H,NaN,NaN,NaN
+BEL,29/04/1995,,Lierse SK,KV Oostende,3,1,H,NaN,NaN,NaN
+BEL,29/04/1995,,K.S.C. Eendracht Aalst,RWD Molenbeek,2,0,H,NaN,NaN,NaN
+BEL,29/04/1995,,Club Brugge KV,KV Mechelen,2,0,H,NaN,NaN,NaN
+BEL,29/04/1995,,KSK Beveren,RSC Charleroi,2,1,H,NaN,NaN,NaN
+BEL,30/04/1995,,KFC Germinal Ekeren,Cercle Brugge,1,1,D,NaN,NaN,NaN
+BEL,30/04/1995,,RSC Anderlecht,Standard Liège,2,1,H,NaN,NaN,NaN
+BEL,02/05/1995,,RFC de Liège,Royal Antwerp FC,3,1,H,NaN,NaN,NaN
+BEL,06/05/1995,,Standard Liège,KSK Beveren,4,1,H,NaN,NaN,NaN
+BEL,06/05/1995,,Sint-Truidense VV,Club Brugge KV,0,1,A,NaN,NaN,NaN
+BEL,06/05/1995,,KV Oostende,K.S.C. Eendracht Aalst,2,2,D,NaN,NaN,NaN
+BEL,06/05/1995,,KV Mechelen,Royal Antwerp FC,1,1,D,NaN,NaN,NaN
+BEL,06/05/1995,,KAA Gent,Lierse SK,2,2,D,NaN,NaN,NaN
+BEL,06/05/1995,,RSC Charleroi,RFC Seraing (alt),2,3,A,NaN,NaN,NaN
+BEL,06/05/1995,,Cercle Brugge,Lommelse SK,3,1,H,NaN,NaN,NaN
+BEL,07/05/1995,,RWD Molenbeek,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,07/05/1995,,KFC Germinal Ekeren,RFC de Liège,3,1,H,NaN,NaN,NaN
+BEL,21/12/1994,,KV Mechelen,RFC de Liège,6,1,H,NaN,NaN,NaN
+BEL,14/05/1995,,RFC Seraing (alt),Standard Liège,1,1,D,NaN,NaN,NaN
+BEL,14/05/1995,,Lommelse SK,KFC Germinal Ekeren,1,1,D,NaN,NaN,NaN
+BEL,14/05/1995,,Lierse SK,Cercle Brugge,2,1,H,NaN,NaN,NaN
+BEL,14/05/1995,,K.S.C. Eendracht Aalst,KAA Gent,3,1,H,NaN,NaN,NaN
+BEL,14/05/1995,,Club Brugge KV,RSC Charleroi,3,2,H,NaN,NaN,NaN
+BEL,14/05/1995,,KSK Beveren,RWD Molenbeek,1,1,D,NaN,NaN,NaN
+BEL,14/05/1995,,Royal Antwerp FC,Sint-Truidense VV,0,3,A,NaN,NaN,NaN
+BEL,14/05/1995,,RSC Anderlecht,KV Oostende,3,0,H,NaN,NaN,NaN
+BEL,20/05/1995,,Standard Liège,Club Brugge KV,2,0,H,NaN,NaN,NaN
+BEL,20/05/1995,,Sint-Truidense VV,KV Mechelen,2,0,H,NaN,NaN,NaN
+BEL,20/05/1995,,KV Oostende,KSK Beveren,2,1,H,NaN,NaN,NaN
+BEL,20/05/1995,,RWD Molenbeek,RFC Seraing (alt),1,0,H,NaN,NaN,NaN
+BEL,20/05/1995,,RFC de Liège,Lommelse SK,1,2,A,NaN,NaN,NaN
+BEL,20/05/1995,,KFC Germinal Ekeren,Lierse SK,2,4,A,NaN,NaN,NaN
+BEL,20/05/1995,,KAA Gent,RSC Anderlecht,0,2,A,NaN,NaN,NaN
+BEL,20/05/1995,,RSC Charleroi,Royal Antwerp FC,0,0,D,NaN,NaN,NaN
+BEL,20/05/1995,,Cercle Brugge,K.S.C. Eendracht Aalst,1,1,D,NaN,NaN,NaN

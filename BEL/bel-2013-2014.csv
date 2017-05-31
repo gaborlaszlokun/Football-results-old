@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,26/07/2013,19:30,Club Brugge KV,Sporting Charleroi,2,0,H,0,0,D
+BEL,27/07/2013,19:00,KRC Genk,KV Oostende,3,0,H,1,0,H
+BEL,27/07/2013,19:00,KV Kortrijk,Oud-Heverlee Leuven,1,0,H,0,0,D
+BEL,27/07/2013,19:00,Lierse SK,SV Zulte Waregem,1,2,A,1,2,A
+BEL,27/07/2013,19:00,RAEC Mons,Cercle Brugge,1,1,D,1,0,H
+BEL,27/07/2013,19:00,Waasland-Beveren,KAA Gent,1,1,D,0,0,D
+BEL,28/07/2013,17:00,RSC Anderlecht,Sporting Lokeren,2,3,A,0,1,A
+BEL,28/07/2013,19:30,KV Mechelen,Standard Liège,0,2,A,0,0,D
+BEL,02/08/2013,19:30,Cercle Brugge,RSC Anderlecht,0,4,A,0,2,A
+BEL,03/08/2013,19:00,Sporting Charleroi,Waasland-Beveren,1,1,D,0,0,D
+BEL,03/08/2013,19:00,SV Zulte Waregem,KV Kortrijk,1,0,H,0,0,D
+BEL,03/08/2013,19:00,Oud-Heverlee Leuven,KRC Genk,1,4,A,0,1,A
+BEL,03/08/2013,19:00,Sporting Lokeren,RAEC Mons,2,1,H,0,1,A
+BEL,04/08/2013,13:30,KAA Gent,KV Mechelen,2,1,H,0,1,A
+BEL,04/08/2013,17:00,Standard Liège,Lierse SK,3,0,H,2,0,H
+BEL,04/08/2013,19:30,KV Oostende,Club Brugge KV,1,2,A,1,1,D
+BEL,09/08/2013,19:30,KV Kortrijk,Sporting Lokeren,3,3,D,0,0,D
+BEL,10/08/2013,19:00,KV Oostende,Oud-Heverlee Leuven,1,1,D,0,1,A
+BEL,10/08/2013,19:00,Lierse SK,Cercle Brugge,1,1,D,1,0,H
+BEL,10/08/2013,19:00,RAEC Mons,Sporting Charleroi,1,2,A,1,0,H
+BEL,10/08/2013,19:00,Waasland-Beveren,KV Mechelen,0,0,D,0,0,D
+BEL,11/08/2013,13:30,Club Brugge KV,SV Zulte Waregem,1,1,D,1,0,H
+BEL,11/08/2013,17:00,RSC Anderlecht,KAA Gent,4,1,H,2,0,H
+BEL,11/08/2013,19:30,KRC Genk,Standard Liège,0,2,A,0,1,A
+BEL,17/08/2013,17:00,KV Mechelen,Club Brugge KV,1,2,A,0,1,A
+BEL,17/08/2013,19:00,KAA Gent,Lierse SK,2,1,H,0,1,A
+BEL,17/08/2013,19:00,Sporting Charleroi,KV Kortrijk,1,2,A,1,2,A
+BEL,17/08/2013,19:00,SV Zulte Waregem,RAEC Mons,2,0,H,1,0,H
+BEL,17/08/2013,19:00,Sporting Lokeren,KRC Genk,3,1,H,1,0,H
+BEL,17/08/2013,19:00,Cercle Brugge,KV Oostende,2,0,H,2,0,H
+BEL,18/08/2013,13:30,Standard Liège,Oud-Heverlee Leuven,1,0,H,0,0,D
+BEL,18/08/2013,17:00,Waasland-Beveren,RSC Anderlecht,0,3,A,0,0,D
+BEL,24/08/2013,19:00,Oud-Heverlee Leuven,Sporting Lokeren,2,1,H,0,0,D
+BEL,24/08/2013,19:00,KV Kortrijk,KV Mechelen,1,2,A,0,1,A
+BEL,24/08/2013,19:00,Lierse SK,Waasland-Beveren,1,0,H,0,0,D
+BEL,25/08/2013,13:30,Club Brugge KV,KAA Gent,1,1,D,1,1,D
+BEL,25/08/2013,17:00,RSC Anderlecht,Sporting Charleroi,5,2,H,2,1,H
+BEL,25/08/2013,17:00,KRC Genk,Cercle Brugge,1,0,H,1,0,H
+BEL,25/08/2013,17:00,KV Oostende,SV Zulte Waregem,1,1,D,1,1,D
+BEL,25/08/2013,19:30,RAEC Mons,Standard Liège,0,2,A,0,1,A
+BEL,31/08/2013,17:00,KV Mechelen,Lierse SK,0,0,D,0,0,D
+BEL,31/08/2013,19:00,KAA Gent,RAEC Mons,1,0,H,1,0,H
+BEL,31/08/2013,19:00,Sporting Lokeren,KV Oostende,1,0,H,0,0,D
+BEL,31/08/2013,19:00,Cercle Brugge,Oud-Heverlee Leuven,1,1,D,0,0,D
+BEL,01/09/2013,13:30,Standard Liège,KV Kortrijk,2,0,H,0,0,D
+BEL,01/09/2013,17:00,SV Zulte Waregem,RSC Anderlecht,4,3,H,1,1,D
+BEL,01/09/2013,19:30,Sporting Charleroi,KRC Genk,1,1,D,1,1,D
+BEL,01/09/2013,19:30,Waasland-Beveren,Club Brugge KV,1,2,A,0,1,A
+BEL,14/09/2013,17:00,RSC Anderlecht,KV Mechelen,5,0,H,4,0,H
+BEL,14/09/2013,19:00,Club Brugge KV,Lierse SK,4,1,H,1,0,H
+BEL,14/09/2013,19:00,Oud-Heverlee Leuven,Sporting Charleroi,0,0,D,0,0,D
+BEL,14/09/2013,19:00,Sporting Lokeren,Cercle Brugge,3,0,H,2,0,H
+BEL,14/09/2013,19:00,KV Kortrijk,KAA Gent,3,0,H,1,0,H
+BEL,14/09/2013,19:00,RAEC Mons,Waasland-Beveren,1,1,D,1,0,H
+BEL,15/09/2013,13:30,KV Oostende,Standard Liège,2,4,A,1,3,A
+BEL,15/09/2013,17:00,KRC Genk,SV Zulte Waregem,5,2,H,1,1,D
+BEL,21/09/2013,19:00,KAA Gent,KV Oostende,1,1,D,0,0,D
+BEL,21/09/2013,19:00,Sporting Charleroi,Cercle Brugge,2,0,H,0,0,D
+BEL,21/09/2013,19:00,KV Mechelen,RAEC Mons,4,2,H,2,1,H
+BEL,21/09/2013,19:00,Lierse SK,KV Kortrijk,2,0,H,1,0,H
+BEL,22/09/2013,13:30,Club Brugge KV,RSC Anderlecht,4,0,H,1,0,H
+BEL,22/09/2013,17:00,Standard Liège,Sporting Lokeren,2,1,H,2,1,H
+BEL,22/09/2013,19:30,SV Zulte Waregem,Oud-Heverlee Leuven,4,2,H,0,1,A
+BEL,22/09/2013,19:30,Waasland-Beveren,KRC Genk,0,0,D,0,0,D
+BEL,28/09/2013,17:00,Sporting Lokeren,SV Zulte Waregem,2,4,A,0,1,A
+BEL,28/09/2013,19:00,KRC Genk,KV Mechelen,1,0,H,0,0,D
+BEL,28/09/2013,19:00,KV Oostende,Sporting Charleroi,1,0,H,1,0,H
+BEL,28/09/2013,19:00,Oud-Heverlee Leuven,KAA Gent,1,1,D,0,1,A
+BEL,28/09/2013,19:00,KV Kortrijk,Waasland-Beveren,2,1,H,2,1,H
+BEL,28/09/2013,19:00,RAEC Mons,Club Brugge KV,0,1,A,0,1,A
+BEL,29/09/2013,13:30,RSC Anderlecht,Lierse SK,2,0,H,0,0,D
+BEL,29/09/2013,17:00,Cercle Brugge,Standard Liège,0,5,A,0,3,A
+BEL,05/10/2013,19:00,Club Brugge KV,Oud-Heverlee Leuven,1,0,H,1,0,H
+BEL,05/10/2013,19:00,Sporting Charleroi,Sporting Lokeren,2,1,H,1,0,H
+BEL,05/10/2013,19:00,KV Mechelen,Cercle Brugge,1,2,A,0,0,D
+BEL,05/10/2013,19:00,Lierse SK,RAEC Mons,2,1,H,1,0,H
+BEL,05/10/2013,19:00,Waasland-Beveren,KV Oostende,2,0,H,1,0,H
+BEL,06/10/2013,13:30,RSC Anderlecht,KV Kortrijk,0,1,A,0,1,A
+BEL,06/10/2013,17:00,SV Zulte Waregem,Standard Liège,1,0,H,0,0,D
+BEL,06/10/2013,19:30,KAA Gent,KRC Genk,1,2,A,1,0,H
+BEL,18/10/2013,19:30,RAEC Mons,RSC Anderlecht,0,2,A,0,2,A
+BEL,19/10/2013,19:00,KRC Genk,Lierse SK,4,0,H,3,0,H
+BEL,19/10/2013,19:00,KV Oostende,KV Mechelen,0,3,A,0,3,A
+BEL,19/10/2013,19:00,Oud-Heverlee Leuven,Waasland-Beveren,4,2,H,1,1,D
+BEL,19/10/2013,19:00,Sporting Lokeren,KAA Gent,2,2,D,2,0,H
+BEL,19/10/2013,19:00,Cercle Brugge,SV Zulte Waregem,1,1,D,1,0,H
+BEL,20/10/2013,13:30,Standard Liège,Sporting Charleroi,2,2,D,0,1,A
+BEL,20/10/2013,17:00,KV Kortrijk,Club Brugge KV,4,1,H,1,1,D
+BEL,25/10/2013,19:30,KAA Gent,Cercle Brugge,1,1,D,0,1,A
+BEL,26/10/2013,19:00,KV Mechelen,Oud-Heverlee Leuven,4,2,H,1,1,D
+BEL,26/10/2013,19:00,Lierse SK,KV Oostende,0,2,A,0,0,D
+BEL,26/10/2013,19:00,RAEC Mons,KV Kortrijk,0,1,A,0,1,A
+BEL,26/10/2013,19:00,Waasland-Beveren,Sporting Lokeren,0,2,A,0,2,A
+BEL,27/10/2013,13:30,Club Brugge KV,KRC Genk,0,2,A,0,1,A
+BEL,27/10/2013,17:00,RSC Anderlecht,Standard Liège,1,1,D,1,1,D
+BEL,27/10/2013,19:30,SV Zulte Waregem,Sporting Charleroi,1,1,D,1,0,H
+BEL,30/10/2013,19:30,KRC Genk,KV Kortrijk,1,0,H,0,0,D
+BEL,30/10/2013,19:30,KV Oostende,RSC Anderlecht,0,3,A,0,1,A
+BEL,30/10/2013,19:30,Sporting Charleroi,KV Mechelen,2,2,D,0,0,D
+BEL,30/10/2013,19:30,SV Zulte Waregem,KAA Gent,3,2,H,1,1,D
+BEL,30/10/2013,19:30,Oud-Heverlee Leuven,RAEC Mons,2,2,D,2,2,D
+BEL,30/10/2013,19:30,Sporting Lokeren,Lierse SK,1,0,H,1,0,H
+BEL,31/10/2013,19:30,Standard Liège,Waasland-Beveren,2,2,D,1,1,D
+BEL,31/10/2013,19:30,Cercle Brugge,Club Brugge KV,2,0,H,1,0,H
+BEL,02/11/2013,17:00,RSC Anderlecht,Oud-Heverlee Leuven,3,1,H,2,0,H
+BEL,02/11/2013,19:00,KV Kortrijk,KV Oostende,2,0,H,2,0,H
+BEL,02/11/2013,19:00,KV Mechelen,SV Zulte Waregem,2,2,D,0,0,D
+BEL,02/11/2013,19:00,Lierse SK,Sporting Charleroi,2,1,H,0,0,D
+BEL,02/11/2013,19:00,RAEC Mons,KRC Genk,2,3,A,0,1,A
+BEL,03/11/2013,13:30,KAA Gent,Standard Liège,0,1,A,0,0,D
+BEL,03/11/2013,17:00,Club Brugge KV,Sporting Lokeren,1,0,H,1,0,H
+BEL,03/11/2013,19:30,Waasland-Beveren,Cercle Brugge,0,1,A,0,0,D
+BEL,08/11/2013,19:30,Sporting Lokeren,KV Mechelen,4,0,H,2,0,H
+BEL,09/11/2013,19:00,KV Oostende,RAEC Mons,2,0,H,2,0,H
+BEL,09/11/2013,19:00,Sporting Charleroi,KAA Gent,0,1,A,0,0,D
+BEL,09/11/2013,19:00,Oud-Heverlee Leuven,Lierse SK,2,0,H,2,0,H
+BEL,09/11/2013,19:00,Cercle Brugge,KV Kortrijk,3,1,H,2,0,H
+BEL,10/11/2013,13:30,Standard Liège,Club Brugge KV,0,0,D,0,0,D
+BEL,10/11/2013,17:00,KRC Genk,RSC Anderlecht,0,1,A,0,0,D
+BEL,10/11/2013,19:30,SV Zulte Waregem,Waasland-Beveren,2,0,H,0,0,D
+BEL,23/11/2013,17:00,Sporting Charleroi,RSC Anderlecht,2,1,H,0,0,D
+BEL,23/11/2013,19:00,KAA Gent,Waasland-Beveren,2,0,H,0,0,D
+BEL,23/11/2013,19:00,KV Oostende,KRC Genk,4,0,H,3,0,H
+BEL,23/11/2013,19:00,SV Zulte Waregem,KV Mechelen,3,1,H,0,1,A
+BEL,23/11/2013,19:00,Oud-Heverlee Leuven,KV Kortrijk,1,1,D,0,0,D
+BEL,23/11/2013,19:00,Cercle Brugge,Lierse SK,2,4,A,0,1,A
+BEL,24/11/2013,17:00,Sporting Lokeren,Club Brugge KV,0,3,A,0,2,A
+BEL,24/11/2013,19:30,Standard Liège,RAEC Mons,1,0,H,1,0,H
+BEL,30/11/2013,19:00,Club Brugge KV,KV Oostende,2,0,H,0,0,D
+BEL,30/11/2013,19:00,KV Mechelen,KAA Gent,0,1,A,0,0,D
+BEL,30/11/2013,19:00,RAEC Mons,Sporting Lokeren,1,0,H,1,0,H
+BEL,30/11/2013,19:00,Waasland-Beveren,Sporting Charleroi,0,0,D,0,0,D
+BEL,01/12/2013,13:30,Lierse SK,Standard Liège,0,5,A,0,1,A
+BEL,01/12/2013,17:00,RSC Anderlecht,Cercle Brugge,2,1,H,1,0,H
+BEL,01/12/2013,19:30,KRC Genk,Oud-Heverlee Leuven,3,0,H,0,0,D
+BEL,01/12/2013,19:30,KV Kortrijk,SV Zulte Waregem,1,1,D,1,0,H
+BEL,07/12/2013,17:00,RSC Anderlecht,Waasland-Beveren,2,0,H,1,0,H
+BEL,07/12/2013,19:00,Club Brugge KV,KV Mechelen,3,0,H,2,0,H
+BEL,07/12/2013,19:00,KV Oostende,Cercle Brugge,2,0,H,0,0,D
+BEL,07/12/2013,19:00,KV Kortrijk,Sporting Charleroi,1,1,D,0,1,A
+BEL,07/12/2013,19:00,Lierse SK,KAA Gent,1,3,A,0,1,A
+BEL,07/12/2013,19:00,RAEC Mons,SV Zulte Waregem,1,1,D,1,1,D
+BEL,08/12/2013,13:30,Oud-Heverlee Leuven,Standard Liège,0,0,D,0,0,D
+BEL,08/12/2013,17:00,KRC Genk,Sporting Lokeren,0,2,A,0,2,A
+BEL,14/12/2013,19:00,Oud-Heverlee Leuven,KV Oostende,1,2,A,1,0,H
+BEL,14/12/2013,19:00,Sporting Lokeren,KV Kortrijk,0,0,D,0,0,D
+BEL,14/12/2013,19:00,KV Mechelen,Waasland-Beveren,0,0,D,0,0,D
+BEL,14/12/2013,19:00,Cercle Brugge,RAEC Mons,2,1,H,2,0,H
+BEL,15/12/2013,13:30,Standard Liège,KRC Genk,3,1,H,0,0,D
+BEL,15/12/2013,17:00,KAA Gent,RSC Anderlecht,1,2,A,1,0,H
+BEL,15/12/2013,19:30,Sporting Charleroi,Club Brugge KV,2,2,D,0,2,A
+BEL,15/12/2013,19:30,SV Zulte Waregem,Lierse SK,3,0,H,2,0,H
+BEL,21/12/2013,17:00,Cercle Brugge,KRC Genk,1,0,H,1,0,H
+BEL,21/12/2013,19:00,Sporting Charleroi,RAEC Mons,0,2,A,0,1,A
+BEL,21/12/2013,19:00,SV Zulte Waregem,KV Oostende,2,2,D,0,1,A
+BEL,21/12/2013,19:00,Sporting Lokeren,Oud-Heverlee Leuven,2,0,H,1,0,H
+BEL,21/12/2013,19:00,KV Mechelen,KV Kortrijk,5,2,H,1,1,D
+BEL,21/12/2013,19:00,Waasland-Beveren,Lierse SK,3,1,H,1,0,H
+BEL,22/12/2013,13:30,KAA Gent,Club Brugge KV,1,3,A,1,1,D
+BEL,22/12/2013,17:00,Standard Liège,RSC Anderlecht,1,1,D,0,1,A
+BEL,26/12/2013,13:30,KRC Genk,Sporting Charleroi,0,3,A,0,1,A
+BEL,26/12/2013,13:30,KV Oostende,Sporting Lokeren,0,3,A,0,2,A
+BEL,26/12/2013,13:30,Oud-Heverlee Leuven,Cercle Brugge,3,0,H,2,0,H
+BEL,26/12/2013,13:30,Lierse SK,KV Mechelen,3,0,H,0,0,D
+BEL,26/12/2013,13:30,RAEC Mons,KAA Gent,1,0,H,0,0,D
+BEL,26/12/2013,17:00,RSC Anderlecht,SV Zulte Waregem,1,0,H,0,0,D
+BEL,26/12/2013,19:30,Club Brugge KV,Waasland-Beveren,1,2,A,1,1,D
+BEL,27/12/2013,19:00,KV Kortrijk,Standard Liège,1,5,A,0,3,A
+BEL,18/01/2014,17:00,Standard Liège,KV Oostende,2,0,H,1,0,H
+BEL,18/01/2014,19:00,KAA Gent,KV Kortrijk,0,1,A,0,0,D
+BEL,18/01/2014,19:00,Sporting Charleroi,Oud-Heverlee Leuven,2,0,H,0,0,D
+BEL,18/01/2014,19:00,Lierse SK,Club Brugge KV,1,1,D,0,0,D
+BEL,18/01/2014,19:00,Waasland-Beveren,RAEC Mons,4,1,H,2,1,H
+BEL,18/01/2014,19:00,Cercle Brugge,Sporting Lokeren,0,3,A,0,1,A
+BEL,19/01/2014,13:30,KV Mechelen,RSC Anderlecht,2,1,H,1,1,D
+BEL,19/01/2014,17:00,SV Zulte Waregem,KRC Genk,1,0,H,0,0,D
+BEL,24/01/2014,19:30,Sporting Lokeren,Standard Liège,0,1,A,0,1,A
+BEL,25/01/2014,19:00,KV Oostende,Waasland-Beveren,2,1,H,1,0,H
+BEL,25/01/2014,19:00,Oud-Heverlee Leuven,SV Zulte Waregem,1,0,H,0,0,D
+BEL,25/01/2014,19:00,KV Kortrijk,Lierse SK,3,4,A,1,2,A
+BEL,25/01/2014,19:00,RAEC Mons,KV Mechelen,0,2,A,0,0,D
+BEL,25/01/2014,19:00,Cercle Brugge,Sporting Charleroi,3,0,H,1,0,H
+BEL,26/01/2014,13:30,KRC Genk,KAA Gent,1,2,A,1,2,A
+BEL,26/01/2014,17:00,RSC Anderlecht,Club Brugge KV,2,0,H,1,0,H
+BEL,31/01/2014,19:30,Lierse SK,RSC Anderlecht,2,0,H,1,0,H
+BEL,01/02/2014,17:00,Standard Liège,Cercle Brugge,4,0,H,1,0,H
+BEL,01/02/2014,19:00,Club Brugge KV,RAEC Mons,2,1,H,0,0,D
+BEL,01/02/2014,19:00,KAA Gent,Oud-Heverlee Leuven,2,0,H,0,0,D
+BEL,01/02/2014,19:00,Sporting Charleroi,KV Oostende,0,1,A,0,1,A
+BEL,01/02/2014,19:00,KV Mechelen,KRC Genk,0,2,A,0,1,A
+BEL,01/02/2014,19:00,Waasland-Beveren,KV Kortrijk,1,1,D,1,1,D
+BEL,02/02/2014,17:00,SV Zulte Waregem,Sporting Lokeren,1,1,D,0,1,A
+BEL,08/02/2014,17:00,KV Kortrijk,RSC Anderlecht,2,2,D,0,0,D
+BEL,08/02/2014,19:00,KV Oostende,KAA Gent,0,0,D,0,0,D
+BEL,08/02/2014,19:00,Oud-Heverlee Leuven,KV Mechelen,0,0,D,0,0,D
+BEL,08/02/2014,19:00,Sporting Lokeren,Sporting Charleroi,3,1,H,2,1,H
+BEL,08/02/2014,19:00,RAEC Mons,Lierse SK,1,5,A,1,0,H
+BEL,08/02/2014,19:00,Cercle Brugge,Waasland-Beveren,0,0,D,0,0,D
+BEL,09/02/2014,13:30,Standard Liège,SV Zulte Waregem,2,0,H,0,0,D
+BEL,09/02/2014,17:00,KRC Genk,Club Brugge KV,1,3,A,1,1,D
+BEL,14/02/2014,19:30,Club Brugge KV,KV Kortrijk,3,1,H,2,0,H
+BEL,15/02/2014,17:00,Sporting Charleroi,Standard Liège,0,1,A,0,0,D
+BEL,15/02/2014,19:00,SV Zulte Waregem,Cercle Brugge,2,1,H,1,1,D
+BEL,15/02/2014,19:00,KV Mechelen,KV Oostende,1,1,D,1,0,H
+BEL,15/02/2014,19:00,Lierse SK,KRC Genk,0,1,A,0,0,D
+BEL,15/02/2014,19:00,Waasland-Beveren,Oud-Heverlee Leuven,1,0,H,0,0,D
+BEL,16/02/2014,13:30,KAA Gent,Sporting Lokeren,1,1,D,1,0,H
+BEL,16/02/2014,17:00,RSC Anderlecht,RAEC Mons,2,0,H,1,0,H
+BEL,21/02/2014,19:30,Sporting Lokeren,RSC Anderlecht,2,1,H,1,0,H
+BEL,22/02/2014,19:00,KV Oostende,Lierse SK,3,2,H,0,0,D
+BEL,22/02/2014,19:00,Sporting Charleroi,SV Zulte Waregem,3,2,H,1,1,D
+BEL,22/02/2014,19:00,KV Kortrijk,RAEC Mons,1,2,A,0,1,A
+BEL,22/02/2014,19:00,Cercle Brugge,KV Mechelen,3,2,H,0,2,A
+BEL,23/02/2014,13:30,Oud-Heverlee Leuven,Club Brugge KV,2,5,A,0,2,A
+BEL,23/02/2014,17:00,Standard Liège,KAA Gent,2,3,A,1,2,A
+BEL,23/02/2014,19:30,KRC Genk,Waasland-Beveren,0,2,A,0,1,A
+BEL,28/02/2014,19:30,KV Mechelen,Sporting Lokeren,1,0,H,1,0,H
+BEL,01/03/2014,19:00,KAA Gent,Sporting Charleroi,2,1,H,1,1,D
+BEL,01/03/2014,19:00,KV Kortrijk,Cercle Brugge,4,0,H,4,0,H
+BEL,01/03/2014,19:00,Lierse SK,Oud-Heverlee Leuven,0,0,D,0,0,D
+BEL,01/03/2014,19:00,RAEC Mons,KV Oostende,3,0,H,2,0,H
+BEL,01/03/2014,19:00,Waasland-Beveren,SV Zulte Waregem,2,2,D,1,2,A
+BEL,02/03/2014,13:30,Club Brugge KV,Standard Liège,1,0,H,0,0,D
+BEL,02/03/2014,17:00,RSC Anderlecht,KRC Genk,2,0,H,0,0,D
+BEL,08/03/2014,19:00,Standard Liège,KV Mechelen,2,0,H,0,0,D
+BEL,08/03/2014,19:00,KRC Genk,RAEC Mons,3,1,H,1,0,H
+BEL,08/03/2014,19:00,KV Oostende,KV Kortrijk,0,0,D,0,0,D
+BEL,08/03/2014,19:00,Sporting Charleroi,Lierse SK,1,1,D,0,1,A
+BEL,08/03/2014,19:00,SV Zulte Waregem,Club Brugge KV,1,1,D,0,0,D
+BEL,08/03/2014,19:00,Oud-Heverlee Leuven,RSC Anderlecht,1,0,H,0,0,D
+BEL,08/03/2014,19:00,Sporting Lokeren,Waasland-Beveren,0,0,D,0,0,D
+BEL,08/03/2014,19:00,Cercle Brugge,KAA Gent,1,4,A,0,2,A
+BEL,16/03/2014,17:00,Club Brugge KV,Cercle Brugge,2,0,H,0,0,D
+BEL,16/03/2014,17:00,RSC Anderlecht,KV Oostende,4,0,H,2,0,H
+BEL,16/03/2014,17:00,KAA Gent,SV Zulte Waregem,0,1,A,0,0,D
+BEL,16/03/2014,17:00,KV Kortrijk,KRC Genk,2,2,D,2,0,H
+BEL,16/03/2014,17:00,KV Mechelen,Sporting Charleroi,0,3,A,0,1,A
+BEL,16/03/2014,17:00,Lierse SK,Sporting Lokeren,1,2,A,0,0,D
+BEL,16/03/2014,17:00,RAEC Mons,Oud-Heverlee Leuven,3,2,H,2,1,H
+BEL,16/03/2014,17:00,Waasland-Beveren,Standard Liège,1,1,D,1,0,H

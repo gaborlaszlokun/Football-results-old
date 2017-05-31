@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,30/08/2003,17:00,Reggina Calcio,Sampdoria,2,2,D,2,0,H
+ITA,31/08/2003,14:00,Brescia Calcio,Chievo Verona,1,1,D,0,1,A
+ITA,31/08/2003,14:00,Inter,Modena FC,2,0,H,0,0,D
+ITA,31/08/2003,14:00,Juventus,Empoli FC,5,1,H,1,0,H
+ITA,31/08/2003,14:00,Lazio Roma,US Lecce,4,1,H,3,0,H
+ITA,31/08/2003,14:00,AC Perugia,AC Siena,2,2,D,2,1,H
+ITA,31/08/2003,14:00,Udinese Calcio,AS Roma,1,2,A,1,1,D
+ITA,31/08/2003,19:30,Bologna FC,Parma AC,2,2,D,1,1,D
+ITA,01/09/2003,19:30,Ancona Calcio,AC Milan,0,2,A,0,1,A
+ITA,13/09/2003,17:00,Sampdoria,Lazio Roma,1,2,A,0,1,A
+ITA,13/09/2003,19:30,AC Milan,Bologna FC,2,1,H,1,1,D
+ITA,14/09/2003,14:00,Empoli FC,Reggina Calcio,1,1,D,1,1,D
+ITA,14/09/2003,14:00,US Lecce,Ancona Calcio,3,1,H,1,0,H
+ITA,14/09/2003,14:00,Modena FC,Udinese Calcio,0,1,A,0,0,D
+ITA,14/09/2003,14:00,Parma AC,AC Perugia,3,0,H,1,0,H
+ITA,14/09/2003,14:00,AS Roma,Brescia Calcio,5,0,H,3,0,H
+ITA,14/09/2003,14:00,AC Siena,Inter,0,1,A,0,1,A
+ITA,14/09/2003,19:30,Chievo Verona,Juventus,1,2,A,1,1,D
+ITA,20/09/2003,17:00,AC Siena,Empoli FC,4,0,H,2,0,H
+ITA,20/09/2003,19:30,Ancona Calcio,Modena FC,1,1,D,0,0,D
+ITA,21/09/2003,14:00,Bologna FC,Udinese Calcio,2,0,H,0,0,D
+ITA,21/09/2003,14:00,Brescia Calcio,Reggina Calcio,4,4,D,1,2,A
+ITA,21/09/2003,14:00,Inter,Sampdoria,0,0,D,0,0,D
+ITA,21/09/2003,14:00,Lazio Roma,Parma AC,2,3,A,1,1,D
+ITA,21/09/2003,14:00,US Lecce,Chievo Verona,1,2,A,0,0,D
+ITA,21/09/2003,14:00,AC Perugia,AC Milan,1,1,D,1,1,D
+ITA,21/09/2003,19:30,Juventus,AS Roma,2,2,D,2,1,H
+ITA,27/09/2003,17:00,Reggina Calcio,Juventus,0,2,A,0,1,A
+ITA,27/09/2003,19:30,Udinese Calcio,Inter,0,0,D,0,0,D
+ITA,28/09/2003,14:00,Chievo Verona,AC Perugia,4,1,H,1,0,H
+ITA,28/09/2003,14:00,AC Milan,US Lecce,3,0,H,1,0,H
+ITA,28/09/2003,14:00,Modena FC,Bologna FC,2,0,H,2,0,H
+ITA,28/09/2003,14:00,Parma AC,AC Siena,1,1,D,0,1,A
+ITA,28/09/2003,14:00,AS Roma,Ancona Calcio,3,0,H,0,0,D
+ITA,28/09/2003,14:00,Sampdoria,Brescia Calcio,2,1,H,0,0,D
+ITA,28/09/2003,19:30,Empoli FC,Lazio Roma,2,2,D,0,1,A
+ITA,05/10/2003,14:00,Ancona Calcio,Udinese Calcio,0,3,A,0,2,A
+ITA,05/10/2003,14:00,Empoli FC,Modena FC,0,3,A,0,0,D
+ITA,05/10/2003,14:00,Juventus,Bologna FC,2,1,H,1,1,D
+ITA,05/10/2003,14:00,Lazio Roma,Chievo Verona,1,0,H,0,0,D
+ITA,05/10/2003,14:00,US Lecce,Brescia Calcio,1,4,A,1,1,D
+ITA,05/10/2003,14:00,Parma AC,Sampdoria,1,0,H,1,0,H
+ITA,05/10/2003,14:00,AC Siena,AS Roma,0,0,D,0,0,D
+ITA,05/10/2003,17:00,AC Perugia,Reggina Calcio,0,0,D,0,0,D
+ITA,05/10/2003,19:30,Inter,AC Milan,1,3,A,0,1,A
+ITA,18/10/2003,17:00,Brescia Calcio,Inter,2,2,D,1,0,H
+ITA,18/10/2003,19:30,Ancona Calcio,Juventus,2,3,A,0,2,A
+ITA,19/10/2003,14:00,Bologna FC,AC Perugia,2,2,D,0,0,D
+ITA,19/10/2003,14:00,Chievo Verona,Sampdoria,1,1,D,1,0,H
+ITA,19/10/2003,14:00,Modena FC,US Lecce,2,0,H,0,0,D
+ITA,19/10/2003,14:00,Reggina Calcio,AC Siena,2,1,H,1,0,H
+ITA,19/10/2003,14:00,AS Roma,Parma AC,2,0,H,1,0,H
+ITA,19/10/2003,14:00,Udinese Calcio,Empoli FC,2,0,H,2,0,H
+ITA,19/10/2003,19:30,AC Milan,Lazio Roma,1,0,H,1,0,H
+ITA,25/10/2003,17:00,AC Siena,US Lecce,2,1,H,1,1,D
+ITA,25/10/2003,19:30,Empoli FC,Chievo Verona,0,1,A,0,0,D
+ITA,26/10/2003,14:00,Juventus,Brescia Calcio,2,0,H,2,0,H
+ITA,26/10/2003,14:00,Lazio Roma,Bologna FC,2,1,H,0,0,D
+ITA,26/10/2003,14:00,Parma AC,Modena FC,3,0,H,1,0,H
+ITA,26/10/2003,14:00,AC Perugia,Udinese Calcio,3,3,D,2,1,H
+ITA,26/10/2003,14:00,Reggina Calcio,Ancona Calcio,0,0,D,0,0,D
+ITA,26/10/2003,14:00,Sampdoria,AC Milan,0,3,A,0,1,A
+ITA,26/10/2003,19:30,Inter,AS Roma,0,0,D,0,0,D
+ITA,01/11/2003,17:00,Udinese Calcio,Lazio Roma,1,2,A,1,2,A
+ITA,01/11/2003,19:30,AC Milan,Juventus,1,1,D,0,0,D
+ITA,02/11/2003,14:00,Ancona Calcio,AC Siena,0,0,D,0,0,D
+ITA,02/11/2003,14:00,Bologna FC,Sampdoria,0,1,A,0,1,A
+ITA,02/11/2003,14:00,Brescia Calcio,Parma AC,2,3,A,2,2,D
+ITA,02/11/2003,14:00,US Lecce,Empoli FC,2,1,H,2,0,H
+ITA,02/11/2003,14:00,Modena FC,AC Perugia,1,0,H,0,0,D
+ITA,02/11/2003,14:00,AS Roma,Reggina Calcio,2,0,H,1,0,H
+ITA,02/11/2003,19:30,Chievo Verona,Inter,0,2,A,0,0,D
+ITA,08/11/2003,17:00,Sampdoria,Empoli FC,2,0,H,2,0,H
+ITA,08/11/2003,19:30,Brescia Calcio,Bologna FC,0,0,D,0,0,D
+ITA,09/11/2003,14:00,Inter,Ancona Calcio,3,0,H,1,0,H
+ITA,09/11/2003,14:00,Juventus,Udinese Calcio,4,1,H,0,0,D
+ITA,09/11/2003,14:00,Parma AC,AC Milan,0,0,D,0,0,D
+ITA,09/11/2003,14:00,AC Perugia,US Lecce,2,2,D,1,1,D
+ITA,09/11/2003,14:00,Reggina Calcio,Modena FC,1,1,D,1,1,D
+ITA,09/11/2003,14:00,AC Siena,Chievo Verona,1,2,A,0,1,A
+ITA,09/11/2003,19:30,AS Roma,Lazio Roma,2,0,H,0,0,D
+ITA,22/11/2003,17:00,Modena FC,Juventus,0,2,A,0,1,A
+ITA,22/11/2003,19:30,Inter,Reggina Calcio,6,0,H,2,0,H
+ITA,23/11/2003,14:00,Ancona Calcio,Brescia Calcio,1,1,D,0,1,A
+ITA,23/11/2003,14:00,Bologna FC,AS Roma,0,4,A,0,3,A
+ITA,23/11/2003,14:00,Empoli FC,Parma AC,1,0,H,0,0,D
+ITA,23/11/2003,14:00,Lazio Roma,AC Perugia,3,1,H,1,0,H
+ITA,23/11/2003,14:00,US Lecce,Sampdoria,0,0,D,0,0,D
+ITA,23/11/2003,14:00,Udinese Calcio,AC Siena,1,1,D,1,0,H
+ITA,23/11/2003,19:30,Chievo Verona,AC Milan,0,2,A,0,1,A
+ITA,29/11/2003,17:00,AC Siena,Lazio Roma,3,0,H,2,0,H
+ITA,29/11/2003,19:30,Juventus,Inter,1,3,A,0,1,A
+ITA,30/11/2003,14:00,AC Milan,Modena FC,2,0,H,1,0,H
+ITA,30/11/2003,14:00,Parma AC,Chievo Verona,3,1,H,0,0,D
+ITA,30/11/2003,14:00,AC Perugia,Empoli FC,1,1,D,1,1,D
+ITA,30/11/2003,14:00,Reggina Calcio,Bologna FC,0,0,D,0,0,D
+ITA,30/11/2003,14:00,AS Roma,US Lecce,3,1,H,2,0,H
+ITA,30/11/2003,14:00,Sampdoria,Ancona Calcio,2,0,H,0,0,D
+ITA,30/11/2003,19:30,Brescia Calcio,Udinese Calcio,1,2,A,0,0,D
+ITA,06/12/2003,17:00,Empoli FC,AC Milan,0,1,A,0,0,D
+ITA,06/12/2003,19:30,Lazio Roma,Juventus,2,0,H,2,0,H
+ITA,07/12/2003,14:00,Bologna FC,Ancona Calcio,3,2,H,2,0,H
+ITA,07/12/2003,14:00,Inter,AC Perugia,2,1,H,1,0,H
+ITA,07/12/2003,14:00,US Lecce,Parma AC,1,2,A,0,0,D
+ITA,07/12/2003,14:00,Modena FC,Brescia Calcio,1,1,D,0,0,D
+ITA,07/12/2003,14:00,Sampdoria,AC Siena,2,1,H,1,1,D
+ITA,07/12/2003,14:00,Udinese Calcio,Reggina Calcio,1,0,H,0,0,D
+ITA,07/12/2003,19:30,Chievo Verona,AS Roma,0,3,A,0,0,D
+ITA,13/12/2003,17:00,Udinese Calcio,US Lecce,1,0,H,1,0,H
+ITA,13/12/2003,19:30,AC Perugia,Sampdoria,3,3,D,1,1,D
+ITA,14/12/2003,14:00,Ancona Calcio,Lazio Roma,0,1,A,0,0,D
+ITA,14/12/2003,14:00,Bologna FC,Inter,0,2,A,0,2,A
+ITA,14/12/2003,14:00,Brescia Calcio,Empoli FC,2,0,H,2,0,H
+ITA,14/12/2003,14:00,Juventus,Parma AC,4,0,H,2,0,H
+ITA,14/12/2003,14:00,Reggina Calcio,Chievo Verona,0,0,D,0,0,D
+ITA,14/12/2003,19:30,AS Roma,Modena FC,1,0,H,1,0,H
+ITA,28/01/2004,19:30,AC Milan,AC Siena,2,1,H,1,0,H
+ITA,20/12/2003,17:00,Parma AC,Reggina Calcio,1,2,A,0,1,A
+ITA,20/12/2003,19:30,Empoli FC,AS Roma,0,2,A,0,2,A
+ITA,21/12/2003,14:00,Chievo Verona,Ancona Calcio,1,0,H,1,0,H
+ITA,21/12/2003,14:00,US Lecce,Juventus,1,1,D,1,0,H
+ITA,21/12/2003,14:00,AC Milan,Udinese Calcio,1,2,A,0,1,A
+ITA,21/12/2003,14:00,AC Perugia,Brescia Calcio,2,2,D,1,1,D
+ITA,21/12/2003,14:00,Sampdoria,Modena FC,1,1,D,0,1,A
+ITA,21/12/2003,14:00,AC Siena,Bologna FC,0,0,D,0,0,D
+ITA,21/12/2003,19:30,Lazio Roma,Inter,2,1,H,1,1,D
+ITA,06/01/2004,14:00,Ancona Calcio,Parma AC,0,2,A,0,1,A
+ITA,06/01/2004,14:00,Bologna FC,Empoli FC,2,1,H,1,1,D
+ITA,06/01/2004,14:00,Brescia Calcio,AC Siena,4,2,H,2,1,H
+ITA,06/01/2004,14:00,Inter,US Lecce,3,1,H,0,1,A
+ITA,06/01/2004,14:00,Juventus,AC Perugia,1,0,H,1,0,H
+ITA,06/01/2004,14:00,Modena FC,Chievo Verona,0,3,A,0,1,A
+ITA,06/01/2004,14:00,Reggina Calcio,Lazio Roma,2,1,H,0,1,A
+ITA,06/01/2004,14:00,Udinese Calcio,Sampdoria,0,1,A,0,0,D
+ITA,06/01/2004,19:30,AS Roma,AC Milan,1,2,A,1,1,D
+ITA,10/01/2004,17:00,Chievo Verona,Udinese Calcio,0,0,D,0,0,D
+ITA,10/01/2004,19:30,Parma AC,Inter,1,0,H,1,0,H
+ITA,11/01/2004,14:00,Empoli FC,Ancona Calcio,2,0,H,0,0,D
+ITA,11/01/2004,14:00,Lazio Roma,Brescia Calcio,0,1,A,0,1,A
+ITA,11/01/2004,14:00,AC Milan,Reggina Calcio,3,1,H,1,1,D
+ITA,11/01/2004,14:00,AC Perugia,AS Roma,0,1,A,0,1,A
+ITA,11/01/2004,14:00,Sampdoria,Juventus,1,2,A,0,1,A
+ITA,11/01/2004,14:00,AC Siena,Modena FC,4,0,H,2,0,H
+ITA,11/01/2004,19:30,US Lecce,Bologna FC,1,2,A,1,1,D
+ITA,17/01/2004,17:00,Modena FC,Lazio Roma,1,1,D,0,1,A
+ITA,17/01/2004,19:30,Udinese Calcio,Parma AC,1,1,D,1,0,H
+ITA,18/01/2004,14:00,Ancona Calcio,AC Perugia,0,0,D,0,0,D
+ITA,18/01/2004,14:00,Bologna FC,Chievo Verona,3,1,H,3,1,H
+ITA,18/01/2004,14:00,Inter,Empoli FC,0,1,A,0,0,D
+ITA,18/01/2004,14:00,Juventus,AC Siena,4,2,H,2,0,H
+ITA,18/01/2004,14:00,Reggina Calcio,US Lecce,1,3,A,1,2,A
+ITA,18/01/2004,14:00,AS Roma,Sampdoria,3,1,H,1,1,D
+ITA,18/01/2004,19:30,Brescia Calcio,AC Milan,0,1,A,0,0,D
+ITA,24/01/2004,17:00,AC Siena,AC Perugia,2,1,H,0,1,A
+ITA,24/01/2004,19:30,Sampdoria,Reggina Calcio,2,0,H,1,0,H
+ITA,25/01/2004,14:00,AC Milan,Ancona Calcio,5,0,H,0,0,D
+ITA,25/01/2004,14:00,Parma AC,Bologna FC,0,0,D,0,0,D
+ITA,25/01/2004,14:00,Chievo Verona,Brescia Calcio,3,1,H,0,1,A
+ITA,25/01/2004,14:00,Modena FC,Inter,1,1,D,1,1,D
+ITA,25/01/2004,14:00,US Lecce,Lazio Roma,0,1,A,0,0,D
+ITA,25/01/2004,14:00,AS Roma,Udinese Calcio,1,1,D,1,0,H
+ITA,25/01/2004,19:30,Empoli FC,Juventus,3,3,D,1,1,D
+ITA,31/01/2004,17:00,Reggina Calcio,Empoli FC,2,0,H,0,0,D
+ITA,31/01/2004,19:30,Brescia Calcio,AS Roma,1,0,H,1,0,H
+ITA,01/02/2004,14:00,Juventus,Chievo Verona,1,0,H,1,0,H
+ITA,01/02/2004,14:00,Ancona Calcio,US Lecce,0,2,A,0,1,A
+ITA,01/02/2004,14:00,Bologna FC,AC Milan,0,2,A,0,1,A
+ITA,01/02/2004,14:00,Udinese Calcio,Modena FC,1,0,H,0,0,D
+ITA,01/02/2004,14:00,AC Perugia,Parma AC,2,2,D,2,2,D
+ITA,01/02/2004,14:00,Lazio Roma,Sampdoria,1,1,D,1,0,H
+ITA,01/02/2004,19:30,Inter,AC Siena,4,0,H,1,0,H
+ITA,07/02/2004,17:00,Chievo Verona,US Lecce,2,3,A,1,2,A
+ITA,07/02/2004,19:30,Udinese Calcio,Bologna FC,1,3,A,1,1,D
+ITA,08/02/2004,14:00,Modena FC,Ancona Calcio,2,1,H,1,1,D
+ITA,08/02/2004,14:00,Reggina Calcio,Brescia Calcio,0,0,D,0,0,D
+ITA,08/02/2004,14:00,Sampdoria,Inter,2,2,D,0,1,A
+ITA,08/02/2004,14:00,Parma AC,Lazio Roma,0,3,A,0,1,A
+ITA,08/02/2004,14:00,AC Milan,AC Perugia,2,1,H,0,0,D
+ITA,08/02/2004,14:00,Empoli FC,AC Siena,1,0,H,0,0,D
+ITA,08/02/2004,19:30,AS Roma,Juventus,4,0,H,1,0,H
+ITA,14/02/2004,17:00,Lazio Roma,Empoli FC,3,0,H,2,0,H
+ITA,14/02/2004,19:30,AC Perugia,Chievo Verona,0,2,A,0,0,D
+ITA,15/02/2004,14:00,US Lecce,AC Milan,1,1,D,1,0,H
+ITA,15/02/2004,14:00,Bologna FC,Modena FC,1,1,D,1,0,H
+ITA,15/02/2004,14:00,AC Siena,Parma AC,1,2,A,1,0,H
+ITA,15/02/2004,14:00,Ancona Calcio,AS Roma,0,0,D,0,0,D
+ITA,15/02/2004,14:00,Brescia Calcio,Sampdoria,1,1,D,1,0,H
+ITA,15/02/2004,14:00,Inter,Udinese Calcio,1,2,A,0,0,D
+ITA,15/02/2004,19:30,Juventus,Reggina Calcio,1,0,H,0,0,D
+ITA,21/02/2004,17:00,Sampdoria,Parma AC,1,2,A,0,0,D
+ITA,21/02/2004,19:30,AC Milan,Inter,3,2,H,0,2,A
+ITA,22/02/2004,14:00,Udinese Calcio,Ancona Calcio,3,0,H,0,0,D
+ITA,22/02/2004,14:00,Modena FC,Empoli FC,1,1,D,1,0,H
+ITA,22/02/2004,14:00,Bologna FC,Juventus,0,1,A,0,0,D
+ITA,22/02/2004,14:00,Chievo Verona,Lazio Roma,0,0,D,0,0,D
+ITA,22/02/2004,14:00,Reggina Calcio,AC Perugia,1,2,A,0,1,A
+ITA,22/02/2004,14:00,AS Roma,AC Siena,6,0,H,3,0,H
+ITA,22/02/2004,19:30,Brescia Calcio,US Lecce,1,2,A,0,1,A
+ITA,28/02/2004,17:00,AC Siena,Reggina Calcio,0,0,D,0,0,D
+ITA,28/02/2004,19:30,Empoli FC,Udinese Calcio,2,0,H,2,0,H
+ITA,29/02/2004,14:00,Juventus,Ancona Calcio,3,0,H,3,0,H
+ITA,29/02/2004,14:00,AC Perugia,Bologna FC,4,2,H,1,0,H
+ITA,29/02/2004,14:00,Inter,Brescia Calcio,1,3,A,0,0,D
+ITA,29/02/2004,14:00,Sampdoria,Chievo Verona,1,0,H,0,0,D
+ITA,29/02/2004,14:00,US Lecce,Modena FC,1,0,H,1,0,H
+ITA,29/02/2004,14:00,Parma AC,AS Roma,1,4,A,1,1,D
+ITA,29/02/2004,19:30,Lazio Roma,AC Milan,0,1,A,0,0,D
+ITA,06/03/2004,17:00,Modena FC,Parma AC,2,2,D,1,1,D
+ITA,06/03/2004,19:30,Brescia Calcio,Juventus,2,3,A,2,0,H
+ITA,07/03/2004,14:00,Chievo Verona,Empoli FC,0,0,D,0,0,D
+ITA,07/03/2004,14:00,Udinese Calcio,AC Perugia,1,1,D,0,0,D
+ITA,07/03/2004,14:00,Ancona Calcio,Reggina Calcio,1,1,D,1,1,D
+ITA,07/03/2004,14:00,AC Milan,Sampdoria,3,1,H,2,1,H
+ITA,07/03/2004,14:00,US Lecce,AC Siena,0,0,D,0,0,D
+ITA,07/03/2004,19:30,AS Roma,Inter,4,1,H,1,0,H
+ITA,25/03/2004,19:30,Bologna FC,Lazio Roma,2,1,H,1,1,D
+ITA,13/03/2004,17:00,Sampdoria,Bologna FC,3,2,H,2,1,H
+ITA,13/03/2004,19:30,Empoli FC,US Lecce,0,0,D,0,0,D
+ITA,14/03/2004,14:00,AC Siena,Ancona Calcio,3,2,H,3,1,H
+ITA,14/03/2004,14:00,Parma AC,Brescia Calcio,2,2,D,1,1,D
+ITA,14/03/2004,14:00,Inter,Chievo Verona,0,0,D,0,0,D
+ITA,14/03/2004,14:00,AC Perugia,Modena FC,1,1,D,0,1,A
+ITA,14/03/2004,14:00,Reggina Calcio,AS Roma,0,0,D,0,0,D
+ITA,14/03/2004,14:00,Lazio Roma,Udinese Calcio,2,2,D,2,1,H
+ITA,14/03/2004,19:30,Juventus,AC Milan,1,3,A,0,1,A
+ITA,20/03/2004,17:00,Udinese Calcio,Juventus,0,0,D,0,0,D
+ITA,20/03/2004,19:30,AC Milan,Parma AC,3,1,H,1,0,H
+ITA,21/03/2004,14:00,Bologna FC,Brescia Calcio,3,0,H,1,0,H
+ITA,21/03/2004,14:00,Ancona Calcio,Inter,0,2,A,0,0,D
+ITA,21/03/2004,14:00,US Lecce,AC Perugia,1,2,A,0,1,A
+ITA,21/03/2004,14:00,Modena FC,Reggina Calcio,1,2,A,0,2,A
+ITA,21/03/2004,14:00,Empoli FC,Sampdoria,1,1,D,0,1,A
+ITA,21/03/2004,14:00,Chievo Verona,AC Siena,1,1,D,0,0,D
+ITA,21/04/2004,17:00,Lazio Roma,AS Roma,1,1,D,1,0,H
+ITA,28/03/2004,14:00,Brescia Calcio,Ancona Calcio,5,2,H,3,2,H
+ITA,28/03/2004,14:00,AS Roma,Bologna FC,1,2,A,1,1,D
+ITA,28/03/2004,14:00,AC Milan,Chievo Verona,2,2,D,0,2,A
+ITA,28/03/2004,14:00,Parma AC,Empoli FC,4,0,H,1,0,H
+ITA,28/03/2004,14:00,Reggina Calcio,Inter,0,2,A,0,1,A
+ITA,28/03/2004,14:00,AC Perugia,Lazio Roma,1,2,A,0,1,A
+ITA,28/03/2004,14:00,Sampdoria,US Lecce,2,2,D,2,1,H
+ITA,28/03/2004,14:00,Juventus,Modena FC,3,1,H,0,0,D
+ITA,28/03/2004,14:00,AC Siena,Udinese Calcio,1,0,H,1,0,H
+ITA,04/04/2004,14:00,Udinese Calcio,Brescia Calcio,4,3,H,3,1,H
+ITA,04/04/2004,14:00,Modena FC,AC Milan,1,1,D,0,1,A
+ITA,04/04/2004,14:00,Chievo Verona,Parma AC,0,2,A,0,1,A
+ITA,04/04/2004,14:00,Empoli FC,AC Perugia,1,0,H,0,0,D
+ITA,04/04/2004,14:00,Bologna FC,Reggina Calcio,2,2,D,1,2,A
+ITA,04/04/2004,14:00,US Lecce,AS Roma,0,3,A,0,0,D
+ITA,04/04/2004,14:00,Ancona Calcio,Sampdoria,0,1,A,0,1,A
+ITA,04/04/2004,14:00,Lazio Roma,AC Siena,5,2,H,2,2,D
+ITA,04/04/2004,19:30,Inter,Juventus,3,2,H,2,1,H
+ITA,10/04/2004,14:00,Ancona Calcio,Bologna FC,3,2,H,1,1,D
+ITA,10/04/2004,14:00,AS Roma,Chievo Verona,3,1,H,1,1,D
+ITA,10/04/2004,14:00,AC Milan,Empoli FC,1,0,H,0,0,D
+ITA,10/04/2004,14:00,Parma AC,US Lecce,3,1,H,2,0,H
+ITA,10/04/2004,14:00,Brescia Calcio,Modena FC,0,0,D,0,0,D
+ITA,10/04/2004,14:00,AC Siena,Sampdoria,0,0,D,0,0,D
+ITA,10/04/2004,14:00,Reggina Calcio,Udinese Calcio,0,1,A,0,0,D
+ITA,10/04/2004,19:30,Juventus,Lazio Roma,1,0,H,0,0,D
+ITA,11/04/2004,14:00,AC Perugia,Inter,2,3,A,0,1,A
+ITA,17/04/2004,17:00,AC Siena,AC Milan,1,2,A,1,1,D
+ITA,17/04/2004,19:30,US Lecce,Udinese Calcio,2,1,H,1,1,D
+ITA,18/04/2004,14:00,Lazio Roma,Ancona Calcio,4,2,H,1,1,D
+ITA,18/04/2004,14:00,Inter,Bologna FC,4,2,H,1,0,H
+ITA,18/04/2004,14:00,Empoli FC,Brescia Calcio,1,1,D,0,1,A
+ITA,18/04/2004,14:00,Parma AC,Juventus,2,2,D,1,0,H
+ITA,18/04/2004,14:00,Sampdoria,AC Perugia,3,2,H,2,0,H
+ITA,18/04/2004,14:00,Chievo Verona,Reggina Calcio,0,0,D,0,0,D
+ITA,18/04/2004,19:30,Modena FC,AS Roma,0,1,A,0,0,D
+ITA,25/04/2004,14:00,Ancona Calcio,Chievo Verona,0,2,A,0,0,D
+ITA,25/04/2004,14:00,AS Roma,Empoli FC,3,0,H,1,0,H
+ITA,25/04/2004,14:00,Inter,Lazio Roma,0,0,D,0,0,D
+ITA,25/04/2004,14:00,Juventus,US Lecce,3,4,A,1,3,A
+ITA,25/04/2004,14:00,Udinese Calcio,AC Milan,0,0,D,0,0,D
+ITA,25/04/2004,14:00,Reggina Calcio,Parma AC,1,1,D,0,1,A
+ITA,25/04/2004,14:00,Brescia Calcio,AC Perugia,1,1,D,1,1,D
+ITA,25/04/2004,14:00,Modena FC,Sampdoria,1,0,H,0,0,D
+ITA,25/04/2004,14:00,Bologna FC,AC Siena,3,1,H,1,0,H
+ITA,02/05/2004,14:00,Parma AC,Ancona Calcio,3,1,H,3,1,H
+ITA,02/05/2004,14:00,Empoli FC,Bologna FC,2,0,H,1,0,H
+ITA,02/05/2004,14:00,AC Siena,Brescia Calcio,0,1,A,0,0,D
+ITA,02/05/2004,14:00,US Lecce,Inter,2,1,H,0,1,A
+ITA,02/05/2004,14:00,AC Perugia,Juventus,1,0,H,0,0,D
+ITA,02/05/2004,14:00,Chievo Verona,Modena FC,2,0,H,0,0,D
+ITA,02/05/2004,14:00,Lazio Roma,Reggina Calcio,1,1,D,1,0,H
+ITA,02/05/2004,14:00,AC Milan,AS Roma,1,0,H,1,0,H
+ITA,02/05/2004,14:00,Sampdoria,Udinese Calcio,1,3,A,0,1,A
+ITA,09/05/2004,14:00,Udinese Calcio,Chievo Verona,1,1,D,1,1,D
+ITA,09/05/2004,14:00,Ancona Calcio,Empoli FC,2,1,H,1,0,H
+ITA,09/05/2004,14:00,Brescia Calcio,Lazio Roma,2,1,H,0,0,D
+ITA,09/05/2004,14:00,Bologna FC,US Lecce,1,1,D,1,0,H
+ITA,09/05/2004,14:00,Reggina Calcio,AC Milan,2,1,H,2,0,H
+ITA,09/05/2004,14:00,Inter,Parma AC,1,0,H,0,0,D
+ITA,09/05/2004,14:00,AS Roma,AC Perugia,1,3,A,1,2,A
+ITA,09/05/2004,14:00,Juventus,Sampdoria,2,0,H,2,0,H
+ITA,09/05/2004,14:00,Modena FC,AC Siena,1,3,A,0,1,A
+ITA,16/05/2004,14:00,AC Perugia,Ancona Calcio,1,0,H,0,0,D
+ITA,16/05/2004,14:00,Chievo Verona,Bologna FC,2,1,H,2,1,H
+ITA,16/05/2004,14:00,AC Milan,Brescia Calcio,4,2,H,2,0,H
+ITA,16/05/2004,14:00,Empoli FC,Inter,2,3,A,1,1,D
+ITA,16/05/2004,14:00,AC Siena,Juventus,1,3,A,1,2,A
+ITA,16/05/2004,14:00,Lazio Roma,Modena FC,2,1,H,1,0,H
+ITA,16/05/2004,14:00,US Lecce,Reggina Calcio,2,1,H,2,1,H
+ITA,16/05/2004,14:00,Sampdoria,AS Roma,0,0,D,0,0,D
+ITA,16/05/2004,14:00,Parma AC,Udinese Calcio,4,3,H,0,0,D

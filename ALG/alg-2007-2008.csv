@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ALG,23/08/2007,15:00,ES Sétif,MC Oran,3,1,H,NaN,NaN,NaN
+ALG,23/08/2007,15:00,ASO Chlef,WA Tlemcen,2,1,H,NaN,NaN,NaN
+ALG,23/08/2007,15:00,AS Khroub,JSM Béjaïa,0,0,D,NaN,NaN,NaN
+ALG,23/08/2007,15:00,CR Bélouizdad,MC Saïda,0,0,D,NaN,NaN,NaN
+ALG,23/08/2007,15:00,CA Bordj Bou Arreridj,USM Annaba,1,2,A,NaN,NaN,NaN
+ALG,23/08/2007,15:00,USM Blida,MC Alger,2,3,A,NaN,NaN,NaN
+ALG,23/08/2007,15:00,NA Hussein Dey,OMR El Annasser,1,2,A,NaN,NaN,NaN
+ALG,23/08/2007,15:00,USM Alger,JS Kabylie,1,0,H,NaN,NaN,NaN
+ALG,30/08/2007,15:00,MC Alger,ASO Chlef,0,1,A,NaN,NaN,NaN
+ALG,30/08/2007,15:00,WA Tlemcen,ES Sétif,0,1,A,NaN,NaN,NaN
+ALG,30/08/2007,15:00,MC Saïda,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
+ALG,30/08/2007,15:00,MC Oran,NA Hussein Dey,2,0,H,NaN,NaN,NaN
+ALG,30/08/2007,15:00,OMR El Annasser,CR Bélouizdad,1,1,D,NaN,NaN,NaN
+ALG,30/08/2007,15:00,USM Blida,AS Khroub,1,0,H,NaN,NaN,NaN
+ALG,30/08/2007,15:00,JSM Béjaïa,USM Alger,0,1,A,NaN,NaN,NaN
+ALG,10/09/2007,20:00,USM Annaba,JS Kabylie,2,2,D,NaN,NaN,NaN
+ALG,06/09/2007,16:00,JS Kabylie,MC Saïda,2,0,H,NaN,NaN,NaN
+ALG,06/09/2007,16:00,CR Bélouizdad,MC Oran,1,0,H,NaN,NaN,NaN
+ALG,06/09/2007,16:00,CA Bordj Bou Arreridj,JSM Béjaïa,0,2,A,NaN,NaN,NaN
+ALG,06/09/2007,16:00,NA Hussein Dey,WA Tlemcen,2,0,H,NaN,NaN,NaN
+ALG,06/09/2007,16:00,AS Khroub,OMR El Annasser,1,0,H,NaN,NaN,NaN
+ALG,06/09/2007,16:00,ASO Chlef,USM Blida,1,0,H,NaN,NaN,NaN
+ALG,06/09/2007,16:00,USM Alger,USM Annaba,3,1,H,NaN,NaN,NaN
+ALG,06/09/2007,19:00,ES Sétif,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,10/09/2007,16:00,MC Oran,USM Alger,1,1,D,NaN,NaN,NaN
+ALG,10/09/2007,16:00,USM Blida,ES Sétif,2,0,H,NaN,NaN,NaN
+ALG,13/09/2007,15:30,ASO Chlef,AS Khroub,2,2,D,NaN,NaN,NaN
+ALG,13/09/2007,15:30,WA Tlemcen,CR Bélouizdad,1,1,D,NaN,NaN,NaN
+ALG,13/09/2007,15:30,OMR El Annasser,CA Bordj Bou Arreridj,0,0,D,NaN,NaN,NaN
+ALG,13/09/2007,15:50,MC Saïda,USM Annaba,2,1,H,NaN,NaN,NaN
+ALG,13/09/2007,22:00,MC Alger,NA Hussein Dey,3,2,H,NaN,NaN,NaN
+ALG,14/09/2007,13:30,JSM Béjaïa,JS Kabylie,2,4,A,NaN,NaN,NaN
+ALG,20/09/2007,14:00,AS Khroub,WA Tlemcen,1,3,A,NaN,NaN,NaN
+ALG,20/09/2007,14:00,CR Bélouizdad,MC Alger,0,0,D,NaN,NaN,NaN
+ALG,20/09/2007,14:00,JS Kabylie,OMR El Annasser,2,0,H,NaN,NaN,NaN
+ALG,20/09/2007,14:00,NA Hussein Dey,USM Blida,1,1,D,NaN,NaN,NaN
+ALG,20/09/2007,22:00,USM Annaba,JSM Béjaïa,2,0,H,NaN,NaN,NaN
+ALG,21/09/2007,14:30,CA Bordj Bou Arreridj,MC Oran,1,0,H,NaN,NaN,NaN
+ALG,21/09/2007,15:00,USM Alger,MC Saïda,4,0,H,NaN,NaN,NaN
+ALG,21/09/2007,22:00,ES Sétif,ASO Chlef,3,2,H,NaN,NaN,NaN
+ALG,27/09/2007,14:00,JSM Béjaïa,MC Saïda,2,4,A,NaN,NaN,NaN
+ALG,27/09/2007,14:00,ASO Chlef,NA Hussein Dey,1,0,H,NaN,NaN,NaN
+ALG,27/09/2007,14:00,OMR El Annasser,USM Annaba,3,1,H,NaN,NaN,NaN
+ALG,27/09/2007,14:00,USM Blida,CR Bélouizdad,0,1,A,NaN,NaN,NaN
+ALG,27/09/2007,22:00,MC Alger,AS Khroub,1,0,H,NaN,NaN,NaN
+ALG,05/10/2007,15:00,WA Tlemcen,USM Alger,1,4,A,NaN,NaN,NaN
+ALG,05/10/2007,22:00,ES Sétif,CA Bordj Bou Arreridj,0,0,D,NaN,NaN,NaN
+ALG,08/10/2007,22:00,MC Oran,JS Kabylie,1,2,A,NaN,NaN,NaN
+ALG,18/10/2007,14:30,AS Khroub,MC Oran,1,0,H,NaN,NaN,NaN
+ALG,18/10/2007,14:30,MC Saïda,OMR El Annasser,2,1,H,NaN,NaN,NaN
+ALG,18/10/2007,14:30,CR Bélouizdad,JSM Béjaïa,3,1,H,NaN,NaN,NaN
+ALG,18/10/2007,14:30,CA Bordj Bou Arreridj,WA Tlemcen,0,0,D,NaN,NaN,NaN
+ALG,18/10/2007,14:30,JS Kabylie,USM Blida,2,2,D,NaN,NaN,NaN
+ALG,18/10/2007,19:00,USM Annaba,ASO Chlef,1,0,H,NaN,NaN,NaN
+ALG,19/11/2007,13:30,NA Hussein Dey,ES Sétif,0,2,A,NaN,NaN,NaN
+ALG,19/11/2007,13:30,USM Alger,MC Alger,0,2,A,NaN,NaN,NaN
+ALG,25/10/2007,14:30,MC Oran,MC Saïda,3,0,H,NaN,NaN,NaN
+ALG,25/10/2007,14:30,WA Tlemcen,USM Annaba,1,0,H,NaN,NaN,NaN
+ALG,25/10/2007,14:30,ASO Chlef,CR Bélouizdad,0,0,D,NaN,NaN,NaN
+ALG,25/10/2007,14:30,OMR El Annasser,JSM Béjaïa,1,1,D,NaN,NaN,NaN
+ALG,25/10/2007,14:30,NA Hussein Dey,CA Bordj Bou Arreridj,2,1,H,NaN,NaN,NaN
+ALG,25/10/2007,19:00,MC Alger,JS Kabylie,0,2,A,NaN,NaN,NaN
+ALG,02/12/2007,17:00,ES Sétif,AS Khroub,0,2,A,NaN,NaN,NaN
+ALG,03/12/2007,13:30,USM Blida,USM Alger,3,2,H,NaN,NaN,NaN
+ALG,29/10/2007,13:30,JSM Béjaïa,MC Oran,3,1,H,NaN,NaN,NaN
+ALG,29/10/2007,13:30,JS Kabylie,WA Tlemcen,6,1,H,NaN,NaN,NaN
+ALG,29/10/2007,13:30,CA Bordj Bou Arreridj,ASO Chlef,0,0,D,NaN,NaN,NaN
+ALG,29/10/2007,13:30,AS Khroub,NA Hussein Dey,1,0,H,NaN,NaN,NaN
+ALG,29/10/2007,13:30,MC Saïda,USM Blida,2,0,H,NaN,NaN,NaN
+ALG,29/10/2007,13:30,USM Alger,OMR El Annasser,1,0,H,NaN,NaN,NaN
+ALG,03/12/2007,17:00,USM Annaba,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,17/12/2007,13:30,CR Bélouizdad,ES Sétif,0,0,D,NaN,NaN,NaN
+ALG,09/11/2007,13:30,MC Alger,MC Saïda,1,1,D,NaN,NaN,NaN
+ALG,09/11/2007,13:30,ASO Chlef,JS Kabylie,2,0,H,NaN,NaN,NaN
+ALG,09/11/2007,13:30,WA Tlemcen,JSM Béjaïa,0,1,A,NaN,NaN,NaN
+ALG,09/11/2007,13:30,AS Khroub,CA Bordj Bou Arreridj,0,0,D,NaN,NaN,NaN
+ALG,09/11/2007,13:30,MC Oran,OMR El Annasser,2,2,D,NaN,NaN,NaN
+ALG,09/11/2007,13:30,NA Hussein Dey,CR Bélouizdad,2,1,H,NaN,NaN,NaN
+ALG,09/11/2007,13:30,USM Blida,USM Annaba,1,2,A,NaN,NaN,NaN
+ALG,09/11/2007,18:00,ES Sétif,USM Alger,2,1,H,NaN,NaN,NaN
+ALG,15/11/2007,13:30,JS Kabylie,ES Sétif,1,0,H,NaN,NaN,NaN
+ALG,15/11/2007,13:30,MC Saïda,WA Tlemcen,1,0,H,NaN,NaN,NaN
+ALG,15/11/2007,13:30,CA Bordj Bou Arreridj,MC Alger,1,1,D,NaN,NaN,NaN
+ALG,15/11/2007,13:30,CR Bélouizdad,AS Khroub,2,0,H,NaN,NaN,NaN
+ALG,15/11/2007,13:30,JSM Béjaïa,NA Hussein Dey,3,0,H,NaN,NaN,NaN
+ALG,15/11/2007,13:30,USM Alger,ASO Chlef,0,1,A,NaN,NaN,NaN
+ALG,15/11/2007,18:00,USM Annaba,MC Oran,3,0,H,NaN,NaN,NaN
+ALG,16/11/2007,13:30,OMR El Annasser,USM Blida,1,0,H,NaN,NaN,NaN
+ALG,23/11/2007,13:30,ASO Chlef,MC Saïda,0,0,D,NaN,NaN,NaN
+ALG,23/11/2007,13:30,WA Tlemcen,MC Oran,1,0,H,NaN,NaN,NaN
+ALG,23/11/2007,13:30,MC Alger,OMR El Annasser,1,1,D,NaN,NaN,NaN
+ALG,23/11/2007,13:30,NA Hussein Dey,JS Kabylie,0,0,D,NaN,NaN,NaN
+ALG,23/11/2007,13:30,CR Bélouizdad,CA Bordj Bou Arreridj,2,0,H,NaN,NaN,NaN
+ALG,23/11/2007,13:30,AS Khroub,USM Alger,0,0,D,NaN,NaN,NaN
+ALG,23/11/2007,13:30,USM Blida,JSM Béjaïa,1,1,D,NaN,NaN,NaN
+ALG,23/11/2007,18:00,ES Sétif,USM Annaba,4,0,H,NaN,NaN,NaN
+ALG,06/12/2007,13:30,MC Saïda,ES Sétif,2,2,D,NaN,NaN,NaN
+ALG,06/12/2007,13:30,JSM Béjaïa,ASO Chlef,1,0,H,NaN,NaN,NaN
+ALG,06/12/2007,13:30,OMR El Annasser,WA Tlemcen,1,0,H,NaN,NaN,NaN
+ALG,06/12/2007,13:30,USM Alger,CR Bélouizdad,2,0,H,NaN,NaN,NaN
+ALG,07/12/2007,13:30,MC Oran,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,07/12/2007,13:30,JS Kabylie,AS Khroub,2,1,H,NaN,NaN,NaN
+ALG,07/12/2007,13:30,CA Bordj Bou Arreridj,USM Blida,2,1,H,NaN,NaN,NaN
+ALG,07/12/2007,17:00,USM Annaba,NA Hussein Dey,2,2,D,NaN,NaN,NaN
+ALG,13/12/2007,13:30,MC Alger,WA Tlemcen,0,0,D,NaN,NaN,NaN
+ALG,13/12/2007,13:30,AS Khroub,USM Annaba,2,0,H,NaN,NaN,NaN
+ALG,13/12/2007,13:30,NA Hussein Dey,MC Saïda,3,0,H,NaN,NaN,NaN
+ALG,13/12/2007,13:30,CR Bélouizdad,JS Kabylie,0,0,D,NaN,NaN,NaN
+ALG,13/12/2007,13:30,ASO Chlef,OMR El Annasser,2,1,H,NaN,NaN,NaN
+ALG,13/12/2007,13:30,USM Blida,MC Oran,2,0,H,NaN,NaN,NaN
+ALG,17/12/2007,13:30,CA Bordj Bou Arreridj,USM Alger,1,0,H,NaN,NaN,NaN
+ALG,31/12/2007,17:00,ES Sétif,JSM Béjaïa,0,0,D,NaN,NaN,NaN
+ALG,24/12/2007,13:30,MC Oran,ASO Chlef,1,0,H,NaN,NaN,NaN
+ALG,24/12/2007,13:30,MC Saïda,AS Khroub,1,1,D,NaN,NaN,NaN
+ALG,24/12/2007,13:30,JSM Béjaïa,MC Alger,2,2,D,NaN,NaN,NaN
+ALG,24/12/2007,13:30,JS Kabylie,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
+ALG,24/12/2007,13:30,WA Tlemcen,USM Blida,1,2,A,NaN,NaN,NaN
+ALG,24/12/2007,17:00,USM Annaba,CR Bélouizdad,2,2,D,NaN,NaN,NaN
+ALG,04/01/2008,14:00,OMR El Annasser,ES Sétif,1,2,A,NaN,NaN,NaN
+ALG,04/01/2008,14:00,USM Alger,NA Hussein Dey,2,1,H,NaN,NaN,NaN
+ALG,14/01/2008,13:30,MC Oran,ES Sétif,0,2,A,NaN,NaN,NaN
+ALG,14/01/2008,13:30,WA Tlemcen,ASO Chlef,1,1,D,NaN,NaN,NaN
+ALG,14/01/2008,13:30,JSM Béjaïa,AS Khroub,0,0,D,NaN,NaN,NaN
+ALG,14/01/2008,13:30,MC Saïda,CR Bélouizdad,2,0,H,NaN,NaN,NaN
+ALG,14/01/2008,13:30,USM Annaba,CA Bordj Bou Arreridj,1,1,D,NaN,NaN,NaN
+ALG,14/01/2008,13:30,MC Alger,USM Blida,1,1,D,NaN,NaN,NaN
+ALG,14/01/2008,13:30,OMR El Annasser,NA Hussein Dey,0,1,A,NaN,NaN,NaN
+ALG,14/01/2008,13:30,JS Kabylie,USM Alger,1,0,H,NaN,NaN,NaN
+ALG,18/01/2008,14:00,JS Kabylie,USM Annaba,1,0,H,NaN,NaN,NaN
+ALG,18/01/2008,14:00,ASO Chlef,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,18/01/2008,14:00,CA Bordj Bou Arreridj,MC Saïda,1,0,H,NaN,NaN,NaN
+ALG,18/01/2008,14:00,NA Hussein Dey,MC Oran,0,0,D,NaN,NaN,NaN
+ALG,18/01/2008,14:00,CR Bélouizdad,OMR El Annasser,0,1,A,NaN,NaN,NaN
+ALG,18/01/2008,14:00,AS Khroub,USM Blida,1,3,A,NaN,NaN,NaN
+ALG,18/01/2008,14:00,USM Alger,JSM Béjaïa,0,0,D,NaN,NaN,NaN
+ALG,18/01/2008,17:00,ES Sétif,WA Tlemcen,2,1,H,NaN,NaN,NaN
+ALG,24/01/2008,13:30,MC Saïda,JS Kabylie,3,2,H,NaN,NaN,NaN
+ALG,24/01/2008,13:30,MC Oran,CR Bélouizdad,1,0,H,NaN,NaN,NaN
+ALG,24/01/2008,13:30,JSM Béjaïa,CA Bordj Bou Arreridj,1,1,D,NaN,NaN,NaN
+ALG,24/01/2008,13:30,WA Tlemcen,NA Hussein Dey,0,0,D,NaN,NaN,NaN
+ALG,24/01/2008,13:30,OMR El Annasser,AS Khroub,1,0,H,NaN,NaN,NaN
+ALG,24/01/2008,13:30,USM Blida,ASO Chlef,1,1,D,NaN,NaN,NaN
+ALG,24/01/2008,13:30,USM Annaba,USM Alger,2,0,H,NaN,NaN,NaN
+ALG,25/01/2008,17:00,MC Alger,ES Sétif,1,1,D,NaN,NaN,NaN
+ALG,31/01/2008,13:30,AS Khroub,ASO Chlef,2,0,H,NaN,NaN,NaN
+ALG,31/01/2008,13:30,USM Annaba,MC Saïda,2,0,H,NaN,NaN,NaN
+ALG,31/01/2008,13:30,JS Kabylie,JSM Béjaïa,4,2,H,NaN,NaN,NaN
+ALG,31/01/2008,13:30,NA Hussein Dey,MC Alger,1,1,D,NaN,NaN,NaN
+ALG,31/01/2008,13:30,CR Bélouizdad,WA Tlemcen,1,0,H,NaN,NaN,NaN
+ALG,31/01/2008,13:30,USM Alger,MC Oran,3,2,H,NaN,NaN,NaN
+ALG,31/01/2008,13:30,CA Bordj Bou Arreridj,OMR El Annasser,1,2,A,NaN,NaN,NaN
+ALG,31/01/2008,17:00,ES Sétif,USM Blida,0,0,D,NaN,NaN,NaN
+ALG,07/02/2008,13:30,JSM Béjaïa,USM Annaba,2,1,H,NaN,NaN,NaN
+ALG,07/02/2008,13:30,MC Oran,CA Bordj Bou Arreridj,2,1,H,NaN,NaN,NaN
+ALG,07/02/2008,13:30,MC Alger,CR Bélouizdad,1,1,D,NaN,NaN,NaN
+ALG,07/02/2008,13:30,MC Saïda,USM Alger,0,2,A,NaN,NaN,NaN
+ALG,07/02/2008,13:30,USM Blida,NA Hussein Dey,1,1,D,NaN,NaN,NaN
+ALG,08/02/2008,14:00,ASO Chlef,ES Sétif,1,0,H,NaN,NaN,NaN
+ALG,08/02/2008,14:00,WA Tlemcen,AS Khroub,2,1,H,NaN,NaN,NaN
+ALG,08/02/2008,14:00,OMR El Annasser,JS Kabylie,1,0,H,NaN,NaN,NaN
+ALG,11/02/2008,13:30,USM Alger,WA Tlemcen,0,0,D,NaN,NaN,NaN
+ALG,14/02/2008,13:30,JS Kabylie,MC Oran,2,0,H,NaN,NaN,NaN
+ALG,14/02/2008,13:30,AS Khroub,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,14/02/2008,13:30,MC Saïda,JSM Béjaïa,2,0,H,NaN,NaN,NaN
+ALG,14/02/2008,13:30,NA Hussein Dey,ASO Chlef,3,1,H,NaN,NaN,NaN
+ALG,14/02/2008,13:30,USM Annaba,OMR El Annasser,1,0,H,NaN,NaN,NaN
+ALG,14/02/2008,13:30,CR Bélouizdad,USM Blida,0,0,D,NaN,NaN,NaN
+ALG,25/02/2008,13:30,CA Bordj Bou Arreridj,ES Sétif,2,0,H,NaN,NaN,NaN
+ALG,25/02/2008,13:30,MC Alger,USM Alger,1,0,H,NaN,NaN,NaN
+ALG,29/02/2008,14:00,MC Oran,AS Khroub,2,0,H,NaN,NaN,NaN
+ALG,29/02/2008,14:00,ASO Chlef,USM Annaba,2,0,H,NaN,NaN,NaN
+ALG,29/02/2008,14:00,OMR El Annasser,MC Saïda,0,0,D,NaN,NaN,NaN
+ALG,29/02/2008,14:00,JSM Béjaïa,CR Bélouizdad,0,0,D,NaN,NaN,NaN
+ALG,29/02/2008,14:00,WA Tlemcen,CA Bordj Bou Arreridj,6,2,H,NaN,NaN,NaN
+ALG,29/02/2008,14:00,USM Blida,JS Kabylie,1,1,D,NaN,NaN,NaN
+ALG,09/03/2008,17:00,ES Sétif,NA Hussein Dey,3,0,H,NaN,NaN,NaN
+ALG,06/03/2008,13:30,MC Saïda,MC Oran,1,1,D,NaN,NaN,NaN
+ALG,06/03/2008,13:30,JS Kabylie,MC Alger,1,0,H,NaN,NaN,NaN
+ALG,06/03/2008,13:30,USM Annaba,WA Tlemcen,2,1,H,NaN,NaN,NaN
+ALG,06/03/2008,13:30,CR Bélouizdad,ASO Chlef,0,0,D,NaN,NaN,NaN
+ALG,06/03/2008,13:30,JSM Béjaïa,OMR El Annasser,2,0,H,NaN,NaN,NaN
+ALG,07/03/2008,14:00,USM Alger,USM Blida,2,0,H,NaN,NaN,NaN
+ALG,20/03/2008,13:30,CA Bordj Bou Arreridj,NA Hussein Dey,1,0,H,NaN,NaN,NaN
+ALG,27/03/2008,13:30,AS Khroub,ES Sétif,1,0,H,NaN,NaN,NaN
+ALG,12/03/2008,12:00,ES Sétif,CR Bélouizdad,1,1,D,NaN,NaN,NaN
+ALG,13/03/2008,13:30,MC Oran,JSM Béjaïa,2,2,D,NaN,NaN,NaN
+ALG,13/03/2008,13:30,MC Alger,USM Annaba,0,1,A,NaN,NaN,NaN
+ALG,13/03/2008,13:30,WA Tlemcen,JS Kabylie,1,0,H,NaN,NaN,NaN
+ALG,13/03/2008,13:30,ASO Chlef,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
+ALG,13/03/2008,13:30,USM Blida,MC Saïda,2,1,H,NaN,NaN,NaN
+ALG,13/03/2008,13:30,OMR El Annasser,USM Alger,1,1,D,NaN,NaN,NaN
+ALG,14/03/2008,14:00,NA Hussein Dey,AS Khroub,3,0,H,NaN,NaN,NaN
+ALG,31/03/2008,14:30,MC Saïda,MC Alger,0,0,D,NaN,NaN,NaN
+ALG,31/03/2008,14:30,JS Kabylie,ASO Chlef,1,0,H,NaN,NaN,NaN
+ALG,31/03/2008,14:30,JSM Béjaïa,WA Tlemcen,2,1,H,NaN,NaN,NaN
+ALG,31/03/2008,14:30,CA Bordj Bou Arreridj,AS Khroub,2,1,H,NaN,NaN,NaN
+ALG,31/03/2008,14:30,OMR El Annasser,MC Oran,1,2,A,NaN,NaN,NaN
+ALG,31/03/2008,14:30,USM Alger,ES Sétif,1,0,H,NaN,NaN,NaN
+ALG,31/03/2008,14:30,USM Annaba,USM Blida,2,0,H,NaN,NaN,NaN
+ALG,03/04/2008,14:30,CR Bélouizdad,NA Hussein Dey,0,1,A,NaN,NaN,NaN
+ALG,17/04/2008,14:30,MC Oran,USM Annaba,1,0,H,NaN,NaN,NaN
+ALG,17/04/2008,14:30,WA Tlemcen,MC Saïda,2,1,H,NaN,NaN,NaN
+ALG,17/04/2008,14:30,MC Alger,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
+ALG,17/04/2008,14:30,AS Khroub,CR Bélouizdad,1,1,D,NaN,NaN,NaN
+ALG,17/04/2008,14:30,NA Hussein Dey,JSM Béjaïa,3,1,H,NaN,NaN,NaN
+ALG,17/04/2008,14:30,ASO Chlef,USM Alger,2,0,H,NaN,NaN,NaN
+ALG,17/04/2008,14:30,USM Blida,OMR El Annasser,1,1,D,NaN,NaN,NaN
+ALG,18/04/2008,,ES Sétif,JS Kabylie,0,3,A,NaN,NaN,NaN
+ALG,21/04/2008,14:30,JSM Béjaïa,USM Blida,2,1,H,NaN,NaN,NaN
+ALG,21/04/2008,14:30,MC Saïda,ASO Chlef,1,1,D,NaN,NaN,NaN
+ALG,21/04/2008,14:30,MC Oran,WA Tlemcen,0,0,D,NaN,NaN,NaN
+ALG,21/04/2008,14:30,USM Annaba,ES Sétif,0,1,A,NaN,NaN,NaN
+ALG,21/04/2008,14:30,OMR El Annasser,MC Alger,0,2,A,NaN,NaN,NaN
+ALG,21/04/2008,14:30,JS Kabylie,NA Hussein Dey,3,0,H,NaN,NaN,NaN
+ALG,21/04/2008,14:30,CA Bordj Bou Arreridj,CR Bélouizdad,2,0,H,NaN,NaN,NaN
+ALG,21/04/2008,14:30,USM Alger,AS Khroub,1,1,D,NaN,NaN,NaN
+ALG,05/05/2008,14:30,MC Alger,MC Oran,1,0,H,NaN,NaN,NaN
+ALG,05/05/2008,14:30,AS Khroub,JS Kabylie,2,0,H,NaN,NaN,NaN
+ALG,05/05/2008,14:30,ASO Chlef,JSM Béjaïa,2,2,D,NaN,NaN,NaN
+ALG,05/05/2008,14:30,NA Hussein Dey,USM Annaba,3,3,D,NaN,NaN,NaN
+ALG,05/05/2008,14:30,WA Tlemcen,OMR El Annasser,1,1,D,NaN,NaN,NaN
+ALG,05/05/2008,14:30,USM Blida,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
+ALG,05/05/2008,14:30,CR Bélouizdad,USM Alger,1,0,H,NaN,NaN,NaN
+ALG,15/05/2008,14:30,ES Sétif,MC Saïda,0,1,A,NaN,NaN,NaN
+ALG,12/05/2008,14:30,JSM Béjaïa,ES Sétif,2,2,D,NaN,NaN,NaN
+ALG,12/05/2008,14:30,WA Tlemcen,MC Alger,1,1,D,NaN,NaN,NaN
+ALG,12/05/2008,14:30,USM Annaba,AS Khroub,0,0,D,NaN,NaN,NaN
+ALG,12/05/2008,14:30,MC Saïda,NA Hussein Dey,3,2,H,NaN,NaN,NaN
+ALG,12/05/2008,14:30,JS Kabylie,CR Bélouizdad,1,0,H,NaN,NaN,NaN
+ALG,12/05/2008,14:30,OMR El Annasser,ASO Chlef,0,1,A,NaN,NaN,NaN
+ALG,12/05/2008,14:30,MC Oran,USM Blida,1,0,H,NaN,NaN,NaN
+ALG,12/05/2008,14:30,USM Alger,CA Bordj Bou Arreridj,0,2,A,NaN,NaN,NaN
+ALG,26/05/2008,14:30,ASO Chlef,MC Oran,1,1,D,NaN,NaN,NaN
+ALG,26/05/2008,14:30,AS Khroub,MC Saïda,3,1,H,NaN,NaN,NaN
+ALG,26/05/2008,14:30,MC Alger,JSM Béjaïa,2,1,H,NaN,NaN,NaN
+ALG,26/05/2008,14:30,CA Bordj Bou Arreridj,JS Kabylie,2,0,H,NaN,NaN,NaN
+ALG,26/05/2008,14:30,ES Sétif,OMR El Annasser,0,1,A,NaN,NaN,NaN
+ALG,26/05/2008,14:30,CR Bélouizdad,USM Annaba,2,1,H,NaN,NaN,NaN
+ALG,26/05/2008,14:30,USM Blida,WA Tlemcen,3,1,H,NaN,NaN,NaN
+ALG,26/05/2008,14:30,NA Hussein Dey,USM Alger,1,0,H,NaN,NaN,NaN

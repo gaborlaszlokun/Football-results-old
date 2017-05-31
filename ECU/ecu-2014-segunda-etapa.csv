@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ECU,09/08/2014,01:00,Deportivo Quito,Mushuc Runa,1,1,D,0,0,D
+ECU,09/08/2014,02:00,Deportivo Cuenca,El Nacional,2,1,H,0,1,A
+ECU,09/08/2014,18:00,LDU Quito,LDU Loja,1,1,D,0,1,A
+ECU,09/08/2014,22:00,Manta FC,Independiente del Valle,2,3,A,1,2,A
+ECU,10/08/2014,18:00,CD Olmedo,CS Emelec,1,1,D,0,0,D
+ECU,10/08/2014,22:45,Barcelona SC,CD Universidad Catolica,0,0,D,0,0,D
+ECU,13/08/2014,18:00,El Nacional,Manta FC,2,1,H,2,1,H
+ECU,13/08/2014,21:30,Mushuc Runa,Barcelona SC,2,0,H,1,0,H
+ECU,14/08/2014,01:00,Independiente del Valle,CD Olmedo,1,1,D,0,0,D
+ECU,14/08/2014,01:00,CS Emelec,Deportivo Cuenca,3,0,H,2,0,H
+ECU,14/08/2014,01:15,CD Universidad Catolica,LDU Quito,1,2,A,0,0,D
+ECU,14/08/2014,01:30,LDU Loja,Deportivo Quito,4,0,H,0,0,D
+ECU,17/08/2014,19:30,CD Olmedo,Mushuc Runa,1,2,A,1,1,D
+ECU,17/08/2014,22:45,Barcelona SC,LDU Loja,3,1,H,1,1,D
+ECU,28/08/2014,01:15,LDU Quito,Deportivo Quito,3,0,H,1,0,H
+ECU,06/09/2014,02:00,Deportivo Cuenca,CD Universidad Catolica,1,0,H,0,0,D
+ECU,11/10/2014,01:00,Manta FC,CS Emelec,1,3,A,1,1,D
+ECU,13/11/2014,00:15,El Nacional,Independiente del Valle,0,1,A,0,0,D
+ECU,23/08/2014,01:30,LDU Loja,Deportivo Cuenca,1,1,D,0,1,A
+ECU,23/08/2014,23:00,CS Emelec,El Nacional,5,0,H,2,0,H
+ECU,24/08/2014,17:30,Deportivo Quito,Barcelona SC,1,3,A,0,0,D
+ECU,24/08/2014,18:00,Mushuc Runa,Manta FC,1,0,H,0,0,D
+ECU,12/10/2014,17:45,CD Universidad Catolica,CD Olmedo,1,0,H,1,0,H
+ECU,23/10/2014,01:00,Independiente del Valle,LDU Quito,3,1,H,2,0,H
+ECU,31/08/2014,17:00,El Nacional,Mushuc Runa,1,0,H,0,0,D
+ECU,31/08/2014,18:00,Manta FC,CD Universidad Catolica,1,1,D,1,1,D
+ECU,31/08/2014,19:00,Deportivo Cuenca,Deportivo Quito,0,0,D,0,0,D
+ECU,31/08/2014,19:00,CD Olmedo,LDU Loja,0,0,D,0,0,D
+ECU,31/08/2014,22:45,Barcelona SC,LDU Quito,1,0,H,1,0,H
+ECU,31/08/2014,23:00,Independiente del Valle,CS Emelec,5,0,H,3,0,H
+ECU,12/09/2014,22:00,Mushuc Runa,Independiente del Valle,1,1,D,0,1,A
+ECU,13/09/2014,01:15,CD Universidad Catolica,El Nacional,0,2,A,0,2,A
+ECU,13/09/2014,21:30,LDU Loja,Manta FC,2,0,H,1,0,H
+ECU,13/09/2014,23:00,Deportivo Quito,CD Olmedo,2,0,H,2,0,H
+ECU,14/09/2014,17:30,LDU Quito,Deportivo Cuenca,1,1,D,0,0,D
+ECU,14/09/2014,22:45,Barcelona SC,CS Emelec,1,0,H,0,0,D
+ECU,20/09/2014,19:00,Manta FC,Deportivo Quito,1,1,D,1,1,D
+ECU,21/09/2014,17:00,El Nacional,LDU Loja,1,1,D,0,1,A
+ECU,21/09/2014,18:00,CD Olmedo,LDU Quito,1,1,D,0,0,D
+ECU,21/09/2014,19:00,Deportivo Cuenca,Barcelona SC,0,2,A,0,1,A
+ECU,21/09/2014,23:00,CS Emelec,Mushuc Runa,3,1,H,1,0,H
+ECU,29/10/2014,22:00,Independiente del Valle,CD Universidad Catolica,4,0,H,0,0,D
+ECU,27/09/2014,01:15,Deportivo Quito,El Nacional,0,4,A,0,1,A
+ECU,27/09/2014,01:30,LDU Quito,Manta FC,2,0,H,1,0,H
+ECU,27/09/2014,02:00,Deportivo Cuenca,Mushuc Runa,1,1,D,1,0,H
+ECU,27/09/2014,21:00,LDU Loja,Independiente del Valle,0,0,D,0,0,D
+ECU,27/09/2014,23:00,Barcelona SC,CD Olmedo,2,0,H,0,0,D
+ECU,22/10/2014,18:00,CD Universidad Catolica,CS Emelec,2,5,A,1,3,A
+ECU,01/10/2014,22:00,Mushuc Runa,CD Universidad Catolica,2,0,H,2,0,H
+ECU,02/10/2014,01:00,CD Olmedo,Deportivo Cuenca,2,2,D,1,1,D
+ECU,02/10/2014,01:00,Manta FC,Barcelona SC,2,4,A,1,3,A
+ECU,02/10/2014,01:15,Independiente del Valle,Deportivo Quito,2,0,H,2,0,H
+ECU,02/10/2014,01:15,El Nacional,LDU Quito,0,0,D,0,0,D
+ECU,13/11/2014,00:00,CS Emelec,LDU Loja,3,1,H,2,0,H
+ECU,05/10/2014,17:30,LDU Quito,CS Emelec,2,1,H,1,0,H
+ECU,05/10/2014,17:30,Deportivo Quito,CD Universidad Catolica,1,0,H,0,0,D
+ECU,05/10/2014,17:30,Deportivo Cuenca,Manta FC,1,0,H,1,0,H
+ECU,05/10/2014,19:30,CD Olmedo,El Nacional,1,2,A,1,0,H
+ECU,05/10/2014,20:00,LDU Loja,Mushuc Runa,2,1,H,0,0,D
+ECU,05/10/2014,22:45,Barcelona SC,Independiente del Valle,1,4,A,0,2,A
+ECU,17/10/2014,18:00,CD Universidad Catolica,LDU Loja,4,1,H,1,1,D
+ECU,18/10/2014,23:00,Independiente del Valle,Deportivo Cuenca,4,0,H,1,0,H
+ECU,19/10/2014,17:30,El Nacional,Barcelona SC,1,4,A,0,1,A
+ECU,19/10/2014,18:00,Manta FC,CD Olmedo,0,0,D,0,0,D
+ECU,19/10/2014,19:30,Mushuc Runa,LDU Quito,1,1,D,0,0,D
+ECU,20/10/2014,,CS Emelec,Deportivo Quito,3,0,H,NaN,NaN,NaN
+ECU,25/10/2014,21:00,LDU Loja,CD Universidad Catolica,1,2,A,1,1,D
+ECU,26/10/2014,16:30,LDU Quito,Mushuc Runa,5,1,H,3,1,H
+ECU,26/10/2014,16:30,Deportivo Quito,CS Emelec,2,2,D,2,0,H
+ECU,26/10/2014,18:30,Deportivo Cuenca,Independiente del Valle,0,1,A,0,0,D
+ECU,26/10/2014,18:30,CD Olmedo,Manta FC,1,0,H,0,0,D
+ECU,26/10/2014,21:45,Barcelona SC,El Nacional,1,0,H,0,0,D
+ECU,01/11/2014,16:30,El Nacional,CD Olmedo,2,1,H,0,0,D
+ECU,01/11/2014,18:30,Manta FC,Deportivo Cuenca,2,1,H,1,0,H
+ECU,01/11/2014,20:00,Mushuc Runa,LDU Loja,1,1,D,1,0,H
+ECU,01/11/2014,22:00,Independiente del Valle,Barcelona SC,2,1,H,1,1,D
+ECU,02/11/2014,16:30,CD Universidad Catolica,Deportivo Quito,1,0,H,1,0,H
+ECU,02/11/2014,22:00,CS Emelec,LDU Quito,0,1,A,0,1,A
+ECU,05/11/2014,21:30,CD Universidad Catolica,Mushuc Runa,1,1,D,0,1,A
+ECU,06/11/2014,00:00,LDU Quito,El Nacional,2,1,H,0,1,A
+ECU,06/11/2014,00:00,Deportivo Quito,Independiente del Valle,3,0,H,0,0,D
+ECU,06/11/2014,00:07,Barcelona SC,Manta FC,0,1,A,0,0,D
+ECU,06/11/2014,01:00,Deportivo Cuenca,CD Olmedo,3,1,H,2,1,H
+ECU,04/12/2014,00:30,LDU Loja,CS Emelec,0,2,A,0,1,A
+ECU,09/11/2014,16:30,El Nacional,Deportivo Quito,0,0,D,0,0,D
+ECU,09/11/2014,17:00,CD Olmedo,Barcelona SC,0,1,A,0,0,D
+ECU,09/11/2014,17:00,Manta FC,LDU Quito,3,3,D,1,0,H
+ECU,09/11/2014,19:30,Mushuc Runa,Deportivo Cuenca,1,2,A,1,1,D
+ECU,09/11/2014,22:00,Independiente del Valle,LDU Loja,1,1,D,1,1,D
+ECU,09/11/2014,22:00,CS Emelec,CD Universidad Catolica,2,1,H,1,0,H
+ECU,15/11/2014,00:15,LDU Quito,CD Olmedo,5,1,H,0,1,A
+ECU,15/11/2014,22:00,Deportivo Quito,Manta FC,1,1,D,1,1,D
+ECU,15/11/2014,22:00,Barcelona SC,Deportivo Cuenca,2,2,D,2,1,H
+ECU,16/11/2014,15:45,CD Universidad Catolica,Independiente del Valle,1,2,A,0,0,D
+ECU,16/11/2014,19:00,LDU Loja,El Nacional,1,0,H,0,0,D
+ECU,16/11/2014,19:30,Mushuc Runa,CS Emelec,0,1,A,0,1,A
+ECU,19/11/2014,18:00,Manta FC,LDU Loja,3,0,H,1,0,H
+ECU,20/11/2014,00:00,Independiente del Valle,Mushuc Runa,1,0,H,0,0,D
+ECU,20/11/2014,00:00,CS Emelec,Barcelona SC,0,1,A,0,0,D
+ECU,20/11/2014,00:00,CD Olmedo,Deportivo Quito,1,0,H,0,0,D
+ECU,20/11/2014,00:30,El Nacional,CD Universidad Catolica,1,1,D,1,0,H
+ECU,20/11/2014,00:30,Deportivo Cuenca,LDU Quito,1,2,A,1,1,D
+ECU,23/11/2014,15:00,Deportivo Quito,Deportivo Cuenca,0,0,D,0,0,D
+ECU,23/11/2014,16:30,LDU Quito,Barcelona SC,0,0,D,0,0,D
+ECU,23/11/2014,17:30,CD Universidad Catolica,Manta FC,2,1,H,1,0,H
+ECU,23/11/2014,19:00,Mushuc Runa,El Nacional,1,1,D,0,1,A
+ECU,23/11/2014,19:00,LDU Loja,CD Olmedo,0,3,A,0,2,A
+ECU,23/11/2014,22:00,CS Emelec,Independiente del Valle,1,0,H,0,0,D
+ECU,29/11/2014,01:00,Deportivo Cuenca,LDU Loja,1,0,H,0,0,D
+ECU,30/11/2014,16:30,LDU Quito,Independiente del Valle,2,0,H,1,0,H
+ECU,30/11/2014,16:30,El Nacional,CS Emelec,0,1,A,0,0,D
+ECU,30/11/2014,18:30,CD Olmedo,CD Universidad Catolica,0,3,A,0,1,A
+ECU,30/11/2014,18:30,Manta FC,Mushuc Runa,3,0,H,2,0,H
+ECU,30/11/2014,21:45,Barcelona SC,Deportivo Quito,1,0,H,0,0,D
+ECU,05/12/2014,17:00,CD Universidad Catolica,Deportivo Cuenca,2,1,H,2,0,H
+ECU,06/12/2014,19:30,Mushuc Runa,CD Olmedo,1,1,D,1,1,D
+ECU,06/12/2014,22:00,Independiente del Valle,El Nacional,0,1,A,0,0,D
+ECU,07/12/2014,00:00,LDU Loja,Barcelona SC,0,1,A,0,0,D
+ECU,07/12/2014,16:30,Deportivo Quito,LDU Quito,2,3,A,0,1,A
+ECU,07/12/2014,21:00,CS Emelec,Manta FC,2,1,H,1,0,H
+ECU,11/12/2014,00:00,LDU Quito,CD Universidad Catolica,1,2,A,0,0,D
+ECU,11/12/2014,00:00,Deportivo Quito,LDU Loja,3,2,H,2,2,D
+ECU,11/12/2014,00:00,Barcelona SC,Mushuc Runa,3,0,H,1,0,H
+ECU,11/12/2014,00:00,Deportivo Cuenca,CS Emelec,2,1,H,2,1,H
+ECU,11/12/2014,00:00,CD Olmedo,Independiente del Valle,2,3,A,0,1,A
+ECU,11/12/2014,00:00,Manta FC,El Nacional,2,1,H,0,1,A
+ECU,14/12/2014,17:00,Independiente del Valle,Manta FC,4,0,H,3,0,H
+ECU,14/12/2014,17:00,El Nacional,Deportivo Cuenca,2,1,H,2,1,H
+ECU,14/12/2014,17:00,CD Universidad Catolica,Barcelona SC,0,1,A,0,1,A
+ECU,14/12/2014,17:00,CS Emelec,CD Olmedo,1,0,H,0,0,D
+ECU,14/12/2014,17:00,Mushuc Runa,Deportivo Quito,0,0,D,0,0,D
+ECU,14/12/2014,17:00,LDU Loja,LDU Quito,1,0,H,0,0,D

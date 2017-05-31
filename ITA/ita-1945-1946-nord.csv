@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,14/10/1945,,Atalanta,Brescia Calcio,0,0,D,NaN,NaN,NaN
+ITA,14/10/1945,,Bologna FC,Modena FC,2,2,D,NaN,NaN,NaN
+ITA,14/10/1945,,Genoa CFC,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,14/10/1945,,Inter,Andrea Doria,2,0,H,NaN,NaN,NaN
+ITA,14/10/1945,,Juventus,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,14/10/1945,,Unione Triestina,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,14/10/1945,,Vicenza Calcio,Sampierdarenese,1,1,D,NaN,NaN,NaN
+ITA,21/10/1945,,Torino FC,Genoa CFC,6,0,H,NaN,NaN,NaN
+ITA,21/10/1945,,Unione Triestina,Vicenza Calcio,0,2,A,NaN,NaN,NaN
+ITA,21/10/1945,,AC Milan,Juventus,1,1,D,NaN,NaN,NaN
+ITA,21/10/1945,,Brescia Calcio,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,21/10/1945,,Atalanta,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,21/10/1945,,Andrea Doria,Sampierdarenese,0,0,D,NaN,NaN,NaN
+ITA,21/10/1945,,AC Venezia,Inter,0,1,A,NaN,NaN,NaN
+ITA,28/10/1945,,Bologna FC,Andrea Doria,1,0,H,NaN,NaN,NaN
+ITA,28/10/1945,,Brescia Calcio,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,28/10/1945,,Genoa CFC,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,28/10/1945,,Inter,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,28/10/1945,,Juventus,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,28/10/1945,,Sampierdarenese,Torino FC,0,5,A,NaN,NaN,NaN
+ITA,28/10/1945,,Vicenza Calcio,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,04/11/1945,,Torino FC,AC Venezia,3,1,H,NaN,NaN,NaN
+ITA,04/11/1945,,Atalanta,Juventus,1,1,D,NaN,NaN,NaN
+ITA,04/11/1945,,Vicenza Calcio,Bologna FC,3,0,H,NaN,NaN,NaN
+ITA,04/11/1945,,Sampierdarenese,Unione Triestina,0,6,A,NaN,NaN,NaN
+ITA,04/11/1945,,AC Milan,Inter,1,3,A,NaN,NaN,NaN
+ITA,04/11/1945,,Andrea Doria,Brescia Calcio,1,1,D,NaN,NaN,NaN
+ITA,04/11/1945,,Modena FC,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,18/11/1945,,AC Venezia,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,18/11/1945,,Andrea Doria,Modena FC,1,1,D,NaN,NaN,NaN
+ITA,18/11/1945,,Bologna FC,Sampierdarenese,3,2,H,NaN,NaN,NaN
+ITA,18/11/1945,,Genoa CFC,Vicenza Calcio,2,0,H,NaN,NaN,NaN
+ITA,18/11/1945,,Inter,Juventus,2,2,D,NaN,NaN,NaN
+ITA,18/11/1945,,Torino FC,Brescia Calcio,2,2,D,NaN,NaN,NaN
+ITA,18/11/1945,,Unione Triestina,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,25/11/1945,,Vicenza Calcio,AC Venezia,0,1,A,NaN,NaN,NaN
+ITA,25/11/1945,,Sampierdarenese,Inter,1,3,A,NaN,NaN,NaN
+ITA,25/11/1945,,Modena FC,Torino FC,0,3,A,NaN,NaN,NaN
+ITA,25/11/1945,,AC Milan,Unione Triestina,2,0,H,NaN,NaN,NaN
+ITA,25/11/1945,,Juventus,Genoa CFC,4,1,H,NaN,NaN,NaN
+ITA,25/11/1945,,Atalanta,Andrea Doria,0,3,A,NaN,NaN,NaN
+ITA,25/11/1945,,Brescia Calcio,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,02/12/1945,,Torino FC,AC Milan,4,0,H,NaN,NaN,NaN
+ITA,02/12/1945,,Modena FC,Vicenza Calcio,2,0,H,NaN,NaN,NaN
+ITA,02/12/1945,,AC Venezia,Brescia Calcio,1,2,A,NaN,NaN,NaN
+ITA,02/12/1945,,Inter,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,02/12/1945,,Andrea Doria,Juventus,1,1,D,NaN,NaN,NaN
+ITA,02/12/1945,,Unione Triestina,Genoa CFC,2,1,H,NaN,NaN,NaN
+ITA,02/12/1945,,Atalanta,Sampierdarenese,3,0,H,NaN,NaN,NaN
+ITA,09/12/1945,,AC Milan,Andrea Doria,1,2,A,NaN,NaN,NaN
+ITA,09/12/1945,,Vicenza Calcio,Torino FC,1,2,A,NaN,NaN,NaN
+ITA,09/12/1945,,Sampierdarenese,Modena FC,0,0,D,NaN,NaN,NaN
+ITA,09/12/1945,,Juventus,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,09/12/1945,,Genoa CFC,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,09/12/1945,,Brescia Calcio,Inter,1,2,A,NaN,NaN,NaN
+ITA,09/12/1945,,Bologna FC,AC Venezia,3,0,H,NaN,NaN,NaN
+ITA,16/12/1945,,Inter,Vicenza Calcio,4,2,H,NaN,NaN,NaN
+ITA,16/12/1945,,Modena FC,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,16/12/1945,,Torino FC,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,16/12/1945,,Unione Triestina,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,16/12/1945,,AC Venezia,Juventus,0,2,A,NaN,NaN,NaN
+ITA,16/12/1945,,Brescia Calcio,Sampierdarenese,1,0,H,NaN,NaN,NaN
+ITA,16/12/1945,,Genoa CFC,Andrea Doria,0,3,A,NaN,NaN,NaN
+ITA,23/12/1945,,Bologna FC,Torino FC,0,2,A,NaN,NaN,NaN
+ITA,23/12/1945,,Sampierdarenese,AC Milan,1,2,A,NaN,NaN,NaN
+ITA,23/12/1945,,Unione Triestina,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,23/12/1945,,Inter,Genoa CFC,9,1,H,NaN,NaN,NaN
+ITA,23/12/1945,,Juventus,Brescia Calcio,3,1,H,NaN,NaN,NaN
+ITA,23/12/1945,,Atalanta,AC Venezia,1,0,H,NaN,NaN,NaN
+ITA,23/12/1945,,Andrea Doria,Vicenza Calcio,3,2,H,NaN,NaN,NaN
+ITA,30/12/1945,,Brescia Calcio,Genoa CFC,3,1,H,NaN,NaN,NaN
+ITA,30/12/1945,,AC Milan,Bologna FC,2,2,D,NaN,NaN,NaN
+ITA,30/12/1945,,Modena FC,Inter,0,0,D,NaN,NaN,NaN
+ITA,30/12/1945,,Sampierdarenese,Juventus,2,2,D,NaN,NaN,NaN
+ITA,30/12/1945,,Torino FC,Unione Triestina,4,0,H,NaN,NaN,NaN
+ITA,30/12/1945,,AC Venezia,Andrea Doria,2,2,D,NaN,NaN,NaN
+ITA,30/12/1945,,Vicenza Calcio,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,06/01/1946,,Genoa CFC,Sampierdarenese,0,2,A,NaN,NaN,NaN
+ITA,06/01/1946,,Vicenza Calcio,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,06/01/1946,,Modena FC,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,06/01/1946,,Inter,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,06/01/1946,,Atalanta,AC Milan,0,2,A,NaN,NaN,NaN
+ITA,06/01/1946,,Andrea Doria,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,06/01/1946,,Juventus,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,13/01/1946,,AC Venezia,Sampierdarenese,3,1,H,NaN,NaN,NaN
+ITA,13/01/1946,,Andrea Doria,Torino FC,2,3,A,NaN,NaN,NaN
+ITA,13/01/1946,,Atalanta,Modena FC,0,1,A,NaN,NaN,NaN
+ITA,13/01/1946,,Bologna FC,Genoa CFC,4,0,H,NaN,NaN,NaN
+ITA,13/01/1946,,Juventus,Vicenza Calcio,2,1,H,NaN,NaN,NaN
+ITA,13/01/1946,,AC Milan,Brescia Calcio,3,1,H,NaN,NaN,NaN
+ITA,13/01/1946,,Unione Triestina,Inter,1,3,A,NaN,NaN,NaN
+ITA,20/01/1946,,Torino FC,Juventus,1,0,H,NaN,NaN,NaN
+ITA,20/01/1946,,Andrea Doria,Inter,1,1,D,NaN,NaN,NaN
+ITA,20/01/1946,,Brescia Calcio,Atalanta,1,1,D,NaN,NaN,NaN
+ITA,20/01/1946,,AC Milan,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,20/01/1946,,Sampierdarenese,Vicenza Calcio,1,0,H,NaN,NaN,NaN
+ITA,20/01/1946,,AC Venezia,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,20/01/1946,,Modena FC,Bologna FC,2,0,H,NaN,NaN,NaN
+ITA,27/01/1946,,Bologna FC,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,27/01/1946,,Genoa CFC,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,27/01/1946,,Inter,AC Venezia,2,1,H,NaN,NaN,NaN
+ITA,27/01/1946,,Juventus,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,27/01/1946,,Modena FC,Brescia Calcio,2,1,H,NaN,NaN,NaN
+ITA,27/01/1946,,Sampierdarenese,Andrea Doria,1,0,H,NaN,NaN,NaN
+ITA,27/01/1946,,Vicenza Calcio,Unione Triestina,0,1,A,NaN,NaN,NaN
+ITA,03/02/1946,,AC Milan,Vicenza Calcio,2,4,A,NaN,NaN,NaN
+ITA,03/02/1946,,Modena FC,Juventus,0,0,D,NaN,NaN,NaN
+ITA,03/02/1946,,Torino FC,Sampierdarenese,2,1,H,NaN,NaN,NaN
+ITA,03/02/1946,,Unione Triestina,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,03/02/1946,,AC Venezia,Genoa CFC,0,0,D,NaN,NaN,NaN
+ITA,03/02/1946,,Andrea Doria,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,03/02/1946,,Atalanta,Inter,2,1,H,NaN,NaN,NaN
+ITA,10/02/1946,,Juventus,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,10/02/1946,,Unione Triestina,Sampierdarenese,0,1,A,NaN,NaN,NaN
+ITA,10/02/1946,,Inter,AC Milan,2,0,H,NaN,NaN,NaN
+ITA,10/02/1946,,Genoa CFC,Modena FC,0,0,D,NaN,NaN,NaN
+ITA,10/02/1946,,Brescia Calcio,Andrea Doria,2,0,H,NaN,NaN,NaN
+ITA,10/02/1946,,Bologna FC,Vicenza Calcio,2,1,H,NaN,NaN,NaN
+ITA,10/02/1946,,AC Venezia,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,17/02/1946,,Atalanta,Unione Triestina,2,1,H,NaN,NaN,NaN
+ITA,17/02/1946,,Brescia Calcio,Torino FC,1,3,A,NaN,NaN,NaN
+ITA,17/02/1946,,Juventus,Inter,0,0,D,NaN,NaN,NaN
+ITA,17/02/1946,,AC Milan,AC Venezia,2,1,H,NaN,NaN,NaN
+ITA,17/02/1946,,Modena FC,Andrea Doria,1,0,H,NaN,NaN,NaN
+ITA,17/02/1946,,Sampierdarenese,Bologna FC,0,2,A,NaN,NaN,NaN
+ITA,17/02/1946,,Vicenza Calcio,Genoa CFC,0,0,D,NaN,NaN,NaN
+ITA,24/02/1946,,AC Venezia,Vicenza Calcio,1,0,H,NaN,NaN,NaN
+ITA,24/02/1946,,Bologna FC,Brescia Calcio,0,0,D,NaN,NaN,NaN
+ITA,24/02/1946,,Genoa CFC,Juventus,2,1,H,NaN,NaN,NaN
+ITA,24/02/1946,,Inter,Sampierdarenese,2,0,H,NaN,NaN,NaN
+ITA,24/02/1946,,Torino FC,Modena FC,1,1,D,NaN,NaN,NaN
+ITA,24/02/1946,,Unione Triestina,AC Milan,1,2,A,NaN,NaN,NaN
+ITA,24/02/1946,,Andrea Doria,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,03/03/1946,,Genoa CFC,Unione Triestina,0,1,A,NaN,NaN,NaN
+ITA,03/03/1946,,Bologna FC,Inter,1,3,A,NaN,NaN,NaN
+ITA,03/03/1946,,Vicenza Calcio,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,03/03/1946,,Sampierdarenese,Atalanta,1,3,A,NaN,NaN,NaN
+ITA,03/03/1946,,Juventus,Andrea Doria,6,1,H,NaN,NaN,NaN
+ITA,03/03/1946,,Brescia Calcio,AC Venezia,3,1,H,NaN,NaN,NaN
+ITA,03/03/1946,,AC Milan,Torino FC,2,3,A,NaN,NaN,NaN
+ITA,10/03/1946,,Unione Triestina,Juventus,0,3,A,NaN,NaN,NaN
+ITA,10/03/1946,,Inter,Brescia Calcio,4,1,H,NaN,NaN,NaN
+ITA,10/03/1946,,AC Venezia,Bologna FC,1,2,A,NaN,NaN,NaN
+ITA,10/03/1946,,Modena FC,Sampierdarenese,2,0,H,NaN,NaN,NaN
+ITA,10/03/1946,,Atalanta,Genoa CFC,2,2,D,NaN,NaN,NaN
+ITA,10/03/1946,,Andrea Doria,AC Milan,1,2,A,NaN,NaN,NaN
+ITA,10/03/1946,,Torino FC,Vicenza Calcio,4,0,H,NaN,NaN,NaN
+ITA,17/03/1946,,Andrea Doria,Genoa CFC,0,1,A,NaN,NaN,NaN
+ITA,17/03/1946,,Atalanta,Torino FC,1,0,H,NaN,NaN,NaN
+ITA,17/03/1946,,Bologna FC,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,17/03/1946,,Juventus,AC Venezia,5,0,H,NaN,NaN,NaN
+ITA,17/03/1946,,AC Milan,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,17/03/1946,,Sampierdarenese,Brescia Calcio,1,2,A,NaN,NaN,NaN
+ITA,17/03/1946,,Vicenza Calcio,Inter,1,0,H,NaN,NaN,NaN
+ITA,24/03/1946,,AC Venezia,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,24/03/1946,,Brescia Calcio,Juventus,2,1,H,NaN,NaN,NaN
+ITA,24/03/1946,,Vicenza Calcio,Andrea Doria,1,0,H,NaN,NaN,NaN
+ITA,24/03/1946,,Modena FC,Unione Triestina,5,1,H,NaN,NaN,NaN
+ITA,24/03/1946,,Genoa CFC,Inter,1,2,A,NaN,NaN,NaN
+ITA,24/03/1946,,Torino FC,Bologna FC,4,0,H,NaN,NaN,NaN
+ITA,24/03/1946,,AC Milan,Sampierdarenese,3,0,H,NaN,NaN,NaN
+ITA,31/03/1946,,Andrea Doria,AC Venezia,2,0,H,NaN,NaN,NaN
+ITA,31/03/1946,,Atalanta,Vicenza Calcio,2,2,D,NaN,NaN,NaN
+ITA,31/03/1946,,Bologna FC,AC Milan,1,2,A,NaN,NaN,NaN
+ITA,31/03/1946,,Genoa CFC,Brescia Calcio,2,3,A,NaN,NaN,NaN
+ITA,31/03/1946,,Inter,Modena FC,2,0,H,NaN,NaN,NaN
+ITA,31/03/1946,,Juventus,Sampierdarenese,6,0,H,NaN,NaN,NaN
+ITA,31/03/1946,,Unione Triestina,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,07/04/1946,,Brescia Calcio,Vicenza Calcio,4,1,H,NaN,NaN,NaN
+ITA,07/04/1946,,AC Venezia,Modena FC,2,3,A,NaN,NaN,NaN
+ITA,07/04/1946,,Unione Triestina,Andrea Doria,0,1,A,NaN,NaN,NaN
+ITA,07/04/1946,,Torino FC,Inter,1,0,H,NaN,NaN,NaN
+ITA,07/04/1946,,AC Milan,Atalanta,2,1,H,NaN,NaN,NaN
+ITA,07/04/1946,,Bologna FC,Juventus,2,1,H,NaN,NaN,NaN
+ITA,07/04/1946,,Sampierdarenese,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,14/04/1946,,Brescia Calcio,AC Milan,2,0,H,NaN,NaN,NaN
+ITA,14/04/1946,,Genoa CFC,Bologna FC,3,0,H,NaN,NaN,NaN
+ITA,14/04/1946,,Inter,Unione Triestina,1,2,A,NaN,NaN,NaN
+ITA,14/04/1946,,Modena FC,Atalanta,0,2,A,NaN,NaN,NaN
+ITA,14/04/1946,,Sampierdarenese,AC Venezia,1,1,D,NaN,NaN,NaN
+ITA,14/04/1946,,Torino FC,Andrea Doria,5,0,H,NaN,NaN,NaN
+ITA,14/04/1946,,Vicenza Calcio,Juventus,1,2,A,NaN,NaN,NaN

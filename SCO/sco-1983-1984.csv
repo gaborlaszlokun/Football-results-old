@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,20/08/1983,,St. Johnstone FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,20/08/1983,,Rangers FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,20/08/1983,,Hibernian FC,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,20/08/1983,,Dundee United,Motherwell FC,4,0,H,NaN,NaN,NaN
+SCO,20/08/1983,,Aberdeen FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,03/09/1983,,St. Mirren FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,03/09/1983,,Heart of Midlothian,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,03/09/1983,,Dundee FC,Dundee United,1,4,A,NaN,NaN,NaN
+SCO,03/09/1983,,Celtic FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,03/09/1983,,Aberdeen FC,St. Johnstone FC,5,0,H,NaN,NaN,NaN
+SCO,10/09/1983,,St. Mirren FC,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,10/09/1983,,Motherwell FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,10/09/1983,,Heart of Midlothian,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,10/09/1983,,Dundee United,Hibernian FC,5,0,H,NaN,NaN,NaN
+SCO,10/09/1983,,Celtic FC,St. Johnstone FC,5,2,H,NaN,NaN,NaN
+SCO,17/09/1983,,St. Johnstone FC,Dundee United,1,2,A,NaN,NaN,NaN
+SCO,17/09/1983,,Rangers FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,17/09/1983,,Motherwell FC,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,17/09/1983,,Hibernian FC,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,17/09/1983,,Dundee FC,Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,24/09/1983,,St. Mirren FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,24/09/1983,,Rangers FC,St. Johnstone FC,6,3,H,NaN,NaN,NaN
+SCO,24/09/1983,,Hibernian FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,24/09/1983,,Dundee FC,Celtic FC,2,6,A,NaN,NaN,NaN
+SCO,24/09/1983,,Aberdeen FC,Dundee United,1,2,A,NaN,NaN,NaN
+SCO,01/10/1983,,St. Johnstone FC,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,01/10/1983,,Motherwell FC,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,01/10/1983,,Heart of Midlothian,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,01/10/1983,,Dundee United,Rangers FC,0,2,A,NaN,NaN,NaN
+SCO,01/10/1983,,Celtic FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,08/10/1983,,St. Johnstone FC,Dundee FC,0,2,A,NaN,NaN,NaN
+SCO,08/10/1983,,Rangers FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,08/10/1983,,Heart of Midlothian,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,08/10/1983,,Dundee United,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,08/10/1983,,Aberdeen FC,St. Mirren FC,5,0,H,NaN,NaN,NaN
+SCO,15/10/1983,,Motherwell FC,St. Johnstone FC,0,1,A,NaN,NaN,NaN
+SCO,15/10/1983,,Hibernian FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,15/10/1983,,Dundee FC,Rangers FC,3,2,H,NaN,NaN,NaN
+SCO,15/10/1983,,Celtic FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,22/11/1983,,St. Mirren FC,Dundee United,4,0,H,NaN,NaN,NaN
+SCO,22/10/1983,,St. Johnstone FC,St. Mirren FC,3,2,H,NaN,NaN,NaN
+SCO,22/10/1983,,Rangers FC,Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,22/10/1983,,Hibernian FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,22/10/1983,,Dundee United,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,22/10/1983,,Aberdeen FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,29/10/1983,,St. Mirren FC,Rangers FC,3,0,H,NaN,NaN,NaN
+SCO,29/10/1983,,Motherwell FC,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,29/10/1983,,Heart of Midlothian,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,29/10/1983,,Dundee FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,29/10/1983,,Celtic FC,Hibernian FC,5,1,H,NaN,NaN,NaN
+SCO,05/11/1983,,St. Johnstone FC,Aberdeen FC,0,5,A,NaN,NaN,NaN
+SCO,05/11/1983,,Rangers FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,05/11/1983,,Motherwell FC,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,05/11/1983,,Hibernian FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,05/11/1983,,Dundee United,Dundee FC,0,1,A,NaN,NaN,NaN
+SCO,12/11/1983,,St. Mirren FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,12/11/1983,,Dundee United,St. Johnstone FC,7,0,H,NaN,NaN,NaN
+SCO,12/11/1983,,Celtic FC,Motherwell FC,4,0,H,NaN,NaN,NaN
+SCO,12/11/1983,,Aberdeen FC,Rangers FC,3,0,H,NaN,NaN,NaN
+SCO,13/11/1983,,Heart of Midlothian,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,19/11/1983,,St. Mirren FC,Celtic FC,4,2,H,NaN,NaN,NaN
+SCO,19/11/1983,,Rangers FC,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,19/11/1983,,Hibernian FC,St. Johnstone FC,4,1,H,NaN,NaN,NaN
+SCO,19/11/1983,,Dundee FC,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,19/11/1983,,Aberdeen FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,26/11/1983,,St. Johnstone FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,26/11/1983,,Motherwell FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,26/11/1983,,Heart of Midlothian,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,26/11/1983,,Dundee United,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,26/11/1983,,Celtic FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,03/12/1983,,St. Johnstone FC,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,03/12/1983,,Rangers FC,Heart of Midlothian,3,0,H,NaN,NaN,NaN
+SCO,03/12/1983,,Hibernian FC,Dundee United,0,2,A,NaN,NaN,NaN
+SCO,03/12/1983,,Dundee FC,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,03/12/1983,,Aberdeen FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,10/12/1983,,St. Mirren FC,St. Johnstone FC,1,2,A,NaN,NaN,NaN
+SCO,10/12/1983,,Motherwell FC,Rangers FC,0,3,A,NaN,NaN,NaN
+SCO,10/12/1983,,Heart of Midlothian,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,10/12/1983,,Dundee FC,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,10/12/1983,,Celtic FC,Aberdeen FC,0,0,D,NaN,NaN,NaN
+SCO,17/12/1983,,St. Johnstone FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,17/12/1983,,Rangers FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,17/12/1983,,Heart of Midlothian,Celtic FC,1,3,A,NaN,NaN,NaN
+SCO,17/12/1983,,Aberdeen FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,30/04/1984,,Dundee United,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,24/12/1983,,St. Mirren FC,Aberdeen FC,0,3,A,NaN,NaN,NaN
+SCO,26/12/1983,,Motherwell FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,27/12/1983,,Hibernian FC,Rangers FC,0,2,A,NaN,NaN,NaN
+SCO,27/12/1983,,Dundee FC,St. Johnstone FC,0,1,A,NaN,NaN,NaN
+SCO,27/12/1983,,Celtic FC,Dundee United,1,1,D,NaN,NaN,NaN
+SCO,31/12/1983,,St. Johnstone FC,Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,31/12/1983,,Rangers FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,31/12/1983,,Hibernian FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,31/12/1983,,Dundee United,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,31/12/1983,,Aberdeen FC,Dundee FC,5,2,H,NaN,NaN,NaN
+SCO,07/01/1984,,St. Johnstone FC,Dundee United,1,2,A,NaN,NaN,NaN
+SCO,07/01/1984,,Rangers FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,07/01/1984,,Motherwell FC,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,07/01/1984,,Hibernian FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,07/01/1984,,Dundee FC,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,04/02/1984,,St. Mirren FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,04/02/1984,,Rangers FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,04/02/1984,,Aberdeen FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,29/02/1984,,Hibernian FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,11/03/1984,,Dundee United,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,11/02/1984,,St. Mirren FC,Dundee FC,4,0,H,NaN,NaN,NaN
+SCO,11/02/1984,,Motherwell FC,Aberdeen FC,0,4,A,NaN,NaN,NaN
+SCO,11/02/1984,,Heart of Midlothian,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,11/02/1984,,Dundee United,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,11/02/1984,,Celtic FC,St. Johnstone FC,5,2,H,NaN,NaN,NaN
+SCO,14/02/1984,,Celtic FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,18/02/1984,,St. Johnstone FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,28/03/1984,,Motherwell FC,Dundee FC,2,4,A,NaN,NaN,NaN
+SCO,02/05/1984,,Heart of Midlothian,Aberdeen FC,0,1,A,NaN,NaN,NaN
+SCO,14/05/1984,,Dundee United,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,25/02/1984,,St. Mirren FC,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,25/02/1984,,Motherwell FC,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,25/02/1984,,Hibernian FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,25/02/1984,,Dundee FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,25/02/1984,,Celtic FC,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,03/03/1984,,St. Johnstone FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,03/03/1984,,Rangers FC,Hibernian FC,0,0,D,NaN,NaN,NaN
+SCO,03/03/1984,,Heart of Midlothian,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,03/03/1984,,Dundee United,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,03/03/1984,,Aberdeen FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,21/01/1984,,Rangers FC,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,10/03/1984,,Hibernian FC,Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,17/03/1984,,St. Mirren FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,20/03/1984,,Dundee FC,Celtic FC,3,2,H,NaN,NaN,NaN
+SCO,18/04/1984,,Aberdeen FC,Dundee United,5,1,H,NaN,NaN,NaN
+SCO,06/03/1984,,St. Johnstone FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,24/03/1984,,Motherwell FC,Hibernian FC,2,3,A,NaN,NaN,NaN
+SCO,24/03/1984,,Heart of Midlothian,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,24/04/1984,,Celtic FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,07/05/1984,,Dundee United,Aberdeen FC,0,0,D,NaN,NaN,NaN
+SCO,31/03/1984,,St. Johnstone FC,St. Mirren FC,4,2,H,NaN,NaN,NaN
+SCO,31/03/1984,,Motherwell FC,Rangers FC,0,3,A,NaN,NaN,NaN
+SCO,31/03/1984,,Heart of Midlothian,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,31/03/1984,,Dundee FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,31/03/1984,,Celtic FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,02/01/1984,,Heart of Midlothian,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,03/01/1984,,St. Mirren FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,30/03/1984,,Aberdeen FC,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,02/04/1984,,Dundee FC,Dundee United,2,5,A,NaN,NaN,NaN
+SCO,02/04/1984,,Celtic FC,Rangers FC,3,0,H,NaN,NaN,NaN
+SCO,07/04/1984,,St. Johnstone FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,07/04/1984,,Rangers FC,Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,07/04/1984,,Hibernian FC,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,07/04/1984,,Dundee FC,St. Mirren FC,2,5,A,NaN,NaN,NaN
+SCO,07/04/1984,,Aberdeen FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,21/03/1984,,St. Mirren FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,10/04/1984,,Celtic FC,Motherwell FC,4,2,H,NaN,NaN,NaN
+SCO,14/04/1984,,Dundee United,St. Johnstone FC,3,0,H,NaN,NaN,NaN
+SCO,09/05/1984,,Heart of Midlothian,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,09/05/1984,,Aberdeen FC,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,18/03/1984,,Hibernian FC,St. Johnstone FC,1,2,A,NaN,NaN,NaN
+SCO,02/04/1984,,Aberdeen FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,18/04/1984,,St. Mirren FC,Celtic FC,2,4,A,NaN,NaN,NaN
+SCO,18/04/1984,,Dundee FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,02/05/1984,,Rangers FC,Dundee United,2,2,D,NaN,NaN,NaN
+SCO,21/04/1984,,St. Johnstone FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,21/04/1984,,Rangers FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,21/04/1984,,Motherwell FC,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,21/04/1984,,Hibernian FC,Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,21/04/1984,,Dundee United,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,28/04/1984,,St. Mirren FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,28/04/1984,,Motherwell FC,Dundee United,1,3,A,NaN,NaN,NaN
+SCO,28/04/1984,,Heart of Midlothian,St. Johnstone FC,2,2,D,NaN,NaN,NaN
+SCO,28/04/1984,,Dundee FC,Aberdeen FC,0,1,A,NaN,NaN,NaN
+SCO,28/04/1984,,Celtic FC,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,05/05/1984,,St. Johnstone FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,05/05/1984,,Rangers FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,05/05/1984,,Heart of Midlothian,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,05/05/1984,,Dundee United,St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,05/05/1984,,Aberdeen FC,Hibernian FC,2,2,D,NaN,NaN,NaN
+SCO,12/05/1984,,St. Mirren FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,12/05/1984,,Motherwell FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,12/05/1984,,Hibernian FC,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,12/05/1984,,Dundee FC,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,12/05/1984,,Celtic FC,Dundee United,1,1,D,NaN,NaN,NaN

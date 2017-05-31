@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,20/07/2012,16:00,Mordovia Saransk,Lokomotiv Moskva,2,3,A,1,3,A
+RUS,21/07/2012,10:30,CSKA Moskva,FK Rostov,1,0,H,0,0,D
+RUS,21/07/2012,13:30,Volga Nizhniy Novgorod,Dinamo Moskva,1,0,H,0,0,D
+RUS,21/07/2012,17:00,Alania Vladikavkaz,Spartak Moskva,1,2,A,1,1,D
+RUS,22/07/2012,12:00,Zenit St. Petersburg,FK Amkar Perm,2,0,H,1,0,H
+RUS,22/07/2012,14:30,Krylia Sovetov,Terek Grozny,1,1,D,0,0,D
+RUS,22/07/2012,17:00,Anzhi Makhachkala,Kuban Krasnodar,2,1,H,2,1,H
+RUS,23/07/2012,16:30,FK Krasnodar,Rubin Kazan,2,1,H,1,0,H
+RUS,27/07/2012,17:00,Kuban Krasnodar,Mordovia Saransk,1,0,H,0,0,D
+RUS,28/07/2012,10:30,Zenit St. Petersburg,Dinamo Moskva,2,0,H,1,0,H
+RUS,28/07/2012,13:30,FK Amkar Perm,CSKA Moskva,3,1,H,3,1,H
+RUS,28/07/2012,16:00,Lokomotiv Moskva,Krylia Sovetov,2,0,H,1,0,H
+RUS,29/07/2012,12:00,Rubin Kazan,Alania Vladikavkaz,3,1,H,1,0,H
+RUS,29/07/2012,14:30,Spartak Moskva,Volga Nizhniy Novgorod,2,1,H,0,1,A
+RUS,29/07/2012,17:00,FK Rostov,Anzhi Makhachkala,2,2,D,0,0,D
+RUS,30/07/2012,16:00,Terek Grozny,FK Krasnodar,1,0,H,1,0,H
+RUS,03/08/2012,16:00,Mordovia Saransk,FK Rostov,3,0,H,1,0,H
+RUS,04/08/2012,10:30,CSKA Moskva,Zenit St. Petersburg,1,3,A,1,3,A
+RUS,04/08/2012,14:30,Alania Vladikavkaz,Terek Grozny,5,0,H,4,0,H
+RUS,04/08/2012,17:00,FK Krasnodar,Lokomotiv Moskva,3,1,H,0,1,A
+RUS,05/08/2012,14:00,Krylia Sovetov,Kuban Krasnodar,2,1,H,1,1,D
+RUS,05/08/2012,16:00,Anzhi Makhachkala,FK Amkar Perm,1,0,H,0,0,D
+RUS,05/08/2012,18:00,Dinamo Moskva,Spartak Moskva,0,4,A,0,1,A
+RUS,06/08/2012,15:00,Volga Nizhniy Novgorod,Rubin Kazan,1,2,A,1,0,H
+RUS,10/08/2012,17:00,Kuban Krasnodar,FK Krasnodar,2,1,H,1,0,H
+RUS,11/08/2012,10:30,Zenit St. Petersburg,Spartak Moskva,5,0,H,1,0,H
+RUS,11/08/2012,14:00,Lokomotiv Moskva,Alania Vladikavkaz,2,2,D,2,2,D
+RUS,11/08/2012,16:30,Terek Grozny,Volga Nizhniy Novgorod,2,0,H,1,0,H
+RUS,12/08/2012,12:00,FK Amkar Perm,Mordovia Saransk,0,0,D,0,0,D
+RUS,12/08/2012,14:00,CSKA Moskva,Anzhi Makhachkala,1,0,H,0,0,D
+RUS,12/08/2012,16:00,Rubin Kazan,Dinamo Moskva,2,0,H,0,0,D
+RUS,12/08/2012,18:00,FK Rostov,Krylia Sovetov,1,2,A,0,1,A
+RUS,18/08/2012,10:30,Spartak Moskva,Rubin Kazan,2,1,H,0,1,A
+RUS,18/08/2012,14:30,Volga Nizhniy Novgorod,Lokomotiv Moskva,0,2,A,0,0,D
+RUS,18/08/2012,17:00,FK Krasnodar,FK Rostov,0,0,D,0,0,D
+RUS,19/08/2012,13:00,Dinamo Moskva,Terek Grozny,1,2,A,0,1,A
+RUS,19/08/2012,15:30,Mordovia Saransk,CSKA Moskva,0,3,A,0,2,A
+RUS,19/08/2012,18:00,Anzhi Makhachkala,Zenit St. Petersburg,1,1,D,0,1,A
+RUS,20/08/2012,15:00,Krylia Sovetov,FK Amkar Perm,0,2,A,0,2,A
+RUS,20/08/2012,17:00,Alania Vladikavkaz,Kuban Krasnodar,2,1,H,1,1,D
+RUS,25/08/2012,10:30,Lokomotiv Moskva,Dinamo Moskva,2,3,A,1,1,D
+RUS,25/08/2012,13:00,Zenit St. Petersburg,Rubin Kazan,1,2,A,1,0,H
+RUS,25/08/2012,15:30,Terek Grozny,Spartak Moskva,2,1,H,0,0,D
+RUS,25/08/2012,17:45,FK Rostov,Alania Vladikavkaz,3,1,H,2,1,H
+RUS,26/08/2012,11:00,FK Amkar Perm,FK Krasnodar,2,2,D,2,2,D
+RUS,26/08/2012,13:30,CSKA Moskva,Krylia Sovetov,3,0,H,2,0,H
+RUS,26/08/2012,16:00,Anzhi Makhachkala,Mordovia Saransk,4,2,H,2,1,H
+RUS,27/08/2012,16:30,Kuban Krasnodar,Volga Nizhniy Novgorod,6,2,H,3,0,H
+RUS,31/08/2012,16:00,Mordovia Saransk,Zenit St. Petersburg,0,3,A,0,1,A
+RUS,01/09/2012,11:00,Rubin Kazan,Terek Grozny,1,2,A,0,1,A
+RUS,01/09/2012,13:30,Volga Nizhniy Novgorod,FK Rostov,1,1,D,0,1,A
+RUS,01/09/2012,16:00,Alania Vladikavkaz,FK Amkar Perm,1,1,D,0,1,A
+RUS,02/09/2012,10:30,FK Krasnodar,CSKA Moskva,0,1,A,0,0,D
+RUS,02/09/2012,13:00,Dinamo Moskva,Kuban Krasnodar,1,2,A,1,0,H
+RUS,02/09/2012,15:15,Krylia Sovetov,Anzhi Makhachkala,1,2,A,0,1,A
+RUS,02/09/2012,17:30,Lokomotiv Moskva,Spartak Moskva,2,1,H,0,1,A
+RUS,14/09/2012,17:00,Zenit St. Petersburg,Terek Grozny,0,2,A,0,0,D
+RUS,15/09/2012,10:30,Lokomotiv Moskva,Rubin Kazan,1,0,H,0,0,D
+RUS,15/09/2012,14:00,Kuban Krasnodar,Spartak Moskva,2,2,D,1,1,D
+RUS,16/09/2012,12:00,CSKA Moskva,Alania Vladikavkaz,2,0,H,0,0,D
+RUS,16/09/2012,14:30,Anzhi Makhachkala,FK Krasnodar,5,2,H,3,1,H
+RUS,16/09/2012,17:00,FK Rostov,Dinamo Moskva,1,0,H,0,0,D
+RUS,17/09/2012,14:00,FK Amkar Perm,Volga Nizhniy Novgorod,3,2,H,1,0,H
+RUS,17/09/2012,16:30,Mordovia Saransk,Krylia Sovetov,2,3,A,1,1,D
+RUS,21/09/2012,16:00,FK Krasnodar,Mordovia Saransk,6,1,H,3,1,H
+RUS,22/09/2012,10:30,Volga Nizhniy Novgorod,CSKA Moskva,2,3,A,2,0,H
+RUS,22/09/2012,12:45,Dinamo Moskva,FK Amkar Perm,3,2,H,1,1,D
+RUS,22/09/2012,15:00,Krylia Sovetov,Zenit St. Petersburg,2,2,D,2,0,H
+RUS,22/09/2012,17:15,Terek Grozny,Lokomotiv Moskva,0,3,A,0,0,D
+RUS,23/09/2012,12:00,Spartak Moskva,FK Rostov,3,1,H,1,0,H
+RUS,23/09/2012,16:00,Rubin Kazan,Kuban Krasnodar,1,0,H,1,0,H
+RUS,24/09/2012,16:00,Alania Vladikavkaz,Anzhi Makhachkala,0,1,A,0,1,A
+RUS,29/09/2012,11:00,Zenit St. Petersburg,Lokomotiv Moskva,1,1,D,1,1,D
+RUS,29/09/2012,13:30,FK Amkar Perm,Spartak Moskva,1,3,A,1,1,D
+RUS,29/09/2012,16:00,Kuban Krasnodar,Terek Grozny,2,1,H,1,1,D
+RUS,30/09/2012,10:30,CSKA Moskva,Dinamo Moskva,0,2,A,0,1,A
+RUS,30/09/2012,13:00,Anzhi Makhachkala,Volga Nizhniy Novgorod,2,1,H,1,0,H
+RUS,30/09/2012,15:30,FK Rostov,Rubin Kazan,0,4,A,0,2,A
+RUS,01/10/2012,14:30,Krylia Sovetov,FK Krasnodar,2,2,D,2,1,H
+RUS,01/10/2012,17:00,Mordovia Saransk,Alania Vladikavkaz,1,1,D,1,0,H
+RUS,05/10/2012,16:00,Terek Grozny,FK Rostov,2,1,H,0,0,D
+RUS,06/10/2012,11:00,Lokomotiv Moskva,Kuban Krasnodar,0,1,A,0,0,D
+RUS,06/10/2012,13:30,Volga Nizhniy Novgorod,Mordovia Saransk,0,2,A,0,1,A
+RUS,06/10/2012,16:00,Alania Vladikavkaz,Krylia Sovetov,2,2,D,1,0,H
+RUS,07/10/2012,10:30,Dinamo Moskva,Anzhi Makhachkala,0,2,A,0,0,D
+RUS,07/10/2012,12:45,Rubin Kazan,FK Amkar Perm,0,1,A,0,1,A
+RUS,07/10/2012,15:00,Spartak Moskva,CSKA Moskva,0,2,A,0,1,A
+RUS,07/10/2012,17:15,FK Krasnodar,Zenit St. Petersburg,0,2,A,0,0,D
+RUS,20/10/2012,10:30,Anzhi Makhachkala,Spartak Moskva,2,1,H,0,1,A
+RUS,20/10/2012,13:00,Zenit St. Petersburg,Kuban Krasnodar,1,0,H,1,0,H
+RUS,20/10/2012,15:30,FK Krasnodar,Alania Vladikavkaz,2,0,H,0,0,D
+RUS,21/10/2012,10:00,FK Amkar Perm,Terek Grozny,0,1,A,0,0,D
+RUS,21/10/2012,12:15,CSKA Moskva,Rubin Kazan,2,0,H,0,0,D
+RUS,21/10/2012,14:45,Mordovia Saransk,Dinamo Moskva,1,2,A,0,1,A
+RUS,21/10/2012,17:00,FK Rostov,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,22/10/2012,16:00,Krylia Sovetov,Volga Nizhniy Novgorod,0,1,A,0,0,D
+RUS,26/10/2012,15:30,Lokomotiv Moskva,FK Amkar Perm,1,2,A,1,1,D
+RUS,26/10/2012,17:30,Kuban Krasnodar,FK Rostov,1,0,H,0,0,D
+RUS,27/10/2012,10:30,Spartak Moskva,Mordovia Saransk,2,0,H,1,0,H
+RUS,27/10/2012,13:00,Volga Nizhniy Novgorod,FK Krasnodar,1,1,D,0,0,D
+RUS,27/10/2012,15:30,Alania Vladikavkaz,Zenit St. Petersburg,2,3,A,2,1,H
+RUS,28/10/2012,09:30,Dinamo Moskva,Krylia Sovetov,1,0,H,1,0,H
+RUS,28/10/2012,12:00,Terek Grozny,CSKA Moskva,1,2,A,1,1,D
+RUS,28/10/2012,14:30,Rubin Kazan,Anzhi Makhachkala,2,1,H,2,1,H
+RUS,02/11/2012,15:00,Zenit St. Petersburg,FK Rostov,2,1,H,0,0,D
+RUS,03/11/2012,09:00,FK Amkar Perm,Kuban Krasnodar,0,3,A,0,0,D
+RUS,03/11/2012,11:30,Krylia Sovetov,Spartak Moskva,0,5,A,0,2,A
+RUS,03/11/2012,14:00,Mordovia Saransk,Rubin Kazan,1,3,A,0,1,A
+RUS,04/11/2012,09:30,CSKA Moskva,Lokomotiv Moskva,2,1,H,1,1,D
+RUS,04/11/2012,11:45,Anzhi Makhachkala,Terek Grozny,3,1,H,2,0,H
+RUS,04/11/2012,14:00,FK Krasnodar,Dinamo Moskva,2,0,H,1,0,H
+RUS,05/11/2012,15:00,Alania Vladikavkaz,Volga Nizhniy Novgorod,0,2,A,0,0,D
+RUS,09/11/2012,15:00,FK Rostov,FK Amkar Perm,3,0,H,1,0,H
+RUS,10/11/2012,09:30,Dinamo Moskva,Alania Vladikavkaz,2,0,H,1,0,H
+RUS,10/11/2012,12:00,Terek Grozny,Mordovia Saransk,2,1,H,1,0,H
+RUS,10/11/2012,14:30,Kuban Krasnodar,CSKA Moskva,1,3,A,1,1,D
+RUS,11/11/2012,09:30,Lokomotiv Moskva,Anzhi Makhachkala,1,1,D,0,0,D
+RUS,11/11/2012,11:45,Rubin Kazan,Krylia Sovetov,2,0,H,1,0,H
+RUS,11/11/2012,14:00,Volga Nizhniy Novgorod,Zenit St. Petersburg,1,2,A,0,1,A
+RUS,11/11/2012,16:15,Spartak Moskva,FK Krasnodar,2,0,H,0,0,D
+RUS,17/11/2012,,Dinamo Moskva,Zenit St. Petersburg,3,0,H,NaN,NaN,NaN
+RUS,17/11/2012,09:30,Volga Nizhniy Novgorod,Spartak Moskva,1,1,D,1,1,D
+RUS,17/11/2012,14:30,Alania Vladikavkaz,Rubin Kazan,0,2,A,0,0,D
+RUS,18/11/2012,09:30,CSKA Moskva,FK Amkar Perm,3,0,H,1,0,H
+RUS,18/11/2012,12:00,Mordovia Saransk,Kuban Krasnodar,0,3,A,0,2,A
+RUS,18/11/2012,14:30,Anzhi Makhachkala,FK Rostov,0,0,D,0,0,D
+RUS,19/11/2012,13:45,Krylia Sovetov,Lokomotiv Moskva,0,1,A,0,1,A
+RUS,19/11/2012,15:45,FK Krasnodar,Terek Grozny,3,0,H,2,0,H
+RUS,23/11/2012,15:00,FK Rostov,Mordovia Saransk,2,0,H,1,0,H
+RUS,24/11/2012,10:00,Terek Grozny,Alania Vladikavkaz,1,0,H,0,0,D
+RUS,24/11/2012,12:30,Lokomotiv Moskva,FK Krasnodar,3,2,H,2,1,H
+RUS,25/11/2012,09:30,Spartak Moskva,Dinamo Moskva,1,5,A,0,3,A
+RUS,25/11/2012,12:00,Kuban Krasnodar,Krylia Sovetov,4,1,H,2,0,H
+RUS,26/11/2012,11:30,FK Amkar Perm,Anzhi Makhachkala,1,2,A,1,1,D
+RUS,26/11/2012,13:45,Rubin Kazan,Volga Nizhniy Novgorod,0,0,D,0,0,D
+RUS,26/11/2012,16:00,Zenit St. Petersburg,CSKA Moskva,1,1,D,0,0,D
+RUS,30/11/2012,14:15,FK Krasnodar,Kuban Krasnodar,2,1,H,0,0,D
+RUS,30/11/2012,16:30,Spartak Moskva,Zenit St. Petersburg,2,4,A,1,2,A
+RUS,01/12/2012,09:30,Dinamo Moskva,Rubin Kazan,3,0,H,2,0,H
+RUS,01/12/2012,12:00,Alania Vladikavkaz,Lokomotiv Moskva,0,1,A,0,1,A
+RUS,01/12/2012,14:30,Volga Nizhniy Novgorod,Terek Grozny,1,1,D,0,1,A
+RUS,02/12/2012,09:30,Anzhi Makhachkala,CSKA Moskva,2,0,H,0,0,D
+RUS,02/12/2012,12:00,Krylia Sovetov,FK Rostov,0,2,A,0,1,A
+RUS,03/12/2012,14:00,Mordovia Saransk,FK Amkar Perm,1,1,D,0,1,A
+RUS,07/12/2012,14:30,FK Rostov,FK Krasnodar,2,3,A,1,2,A
+RUS,08/12/2012,08:00,FK Amkar Perm,Krylia Sovetov,0,2,A,0,2,A
+RUS,08/12/2012,10:30,Kuban Krasnodar,Alania Vladikavkaz,0,0,D,0,0,D
+RUS,08/12/2012,13:00,Lokomotiv Moskva,Volga Nizhniy Novgorod,0,1,A,0,1,A
+RUS,09/12/2012,09:30,Terek Grozny,Dinamo Moskva,1,2,A,0,1,A
+RUS,09/12/2012,12:00,CSKA Moskva,Mordovia Saransk,2,1,H,1,0,H
+RUS,10/12/2012,13:45,Rubin Kazan,Spartak Moskva,0,1,A,0,0,D
+RUS,10/12/2012,16:00,Zenit St. Petersburg,Anzhi Makhachkala,1,1,D,0,1,A
+RUS,08/03/2013,09:30,Volga Nizhniy Novgorod,Kuban Krasnodar,0,2,A,0,1,A
+RUS,08/03/2013,12:00,FK Krasnodar,FK Amkar Perm,2,1,H,1,1,D
+RUS,09/03/2013,09:30,Dinamo Moskva,Lokomotiv Moskva,1,0,H,1,0,H
+RUS,09/03/2013,12:00,Krylia Sovetov,CSKA Moskva,0,2,A,0,1,A
+RUS,09/03/2013,14:30,Alania Vladikavkaz,FK Rostov,0,0,D,0,0,D
+RUS,10/03/2013,09:30,Spartak Moskva,Terek Grozny,3,1,H,2,0,H
+RUS,10/03/2013,12:00,Rubin Kazan,Zenit St. Petersburg,1,0,H,1,0,H
+RUS,10/03/2013,12:30,Mordovia Saransk,Anzhi Makhachkala,2,0,H,1,0,H
+RUS,15/03/2013,15:00,FK Rostov,Volga Nizhniy Novgorod,1,2,A,0,1,A
+RUS,16/03/2013,09:30,Spartak Moskva,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,16/03/2013,12:00,FK Amkar Perm,Alania Vladikavkaz,5,1,H,3,0,H
+RUS,16/03/2013,14:30,Kuban Krasnodar,Dinamo Moskva,1,1,D,1,1,D
+RUS,17/03/2013,09:30,CSKA Moskva,FK Krasnodar,1,0,H,1,0,H
+RUS,17/03/2013,11:45,Anzhi Makhachkala,Krylia Sovetov,1,1,D,0,0,D
+RUS,17/03/2013,14:00,Terek Grozny,Rubin Kazan,0,0,D,0,0,D
+RUS,17/03/2013,16:15,Zenit St. Petersburg,Mordovia Saransk,1,0,H,0,0,D
+RUS,30/03/2013,09:30,Rubin Kazan,Lokomotiv Moskva,2,0,H,1,0,H
+RUS,30/03/2013,12:00,Krylia Sovetov,Mordovia Saransk,0,2,A,0,2,A
+RUS,30/03/2013,14:30,Dinamo Moskva,FK Rostov,1,0,H,1,0,H
+RUS,31/03/2013,10:30,Volga Nizhniy Novgorod,FK Amkar Perm,1,1,D,0,0,D
+RUS,31/03/2013,12:45,FK Krasnodar,Anzhi Makhachkala,4,0,H,1,0,H
+RUS,31/03/2013,15:00,Terek Grozny,Zenit St. Petersburg,0,3,A,0,1,A
+RUS,31/03/2013,17:15,Spartak Moskva,Kuban Krasnodar,2,2,D,1,0,H
+RUS,01/04/2013,16:00,Alania Vladikavkaz,CSKA Moskva,0,4,A,0,1,A
+RUS,05/04/2013,14:00,FK Amkar Perm,Dinamo Moskva,1,1,D,1,0,H
+RUS,06/04/2013,11:00,CSKA Moskva,Volga Nizhniy Novgorod,2,0,H,2,0,H
+RUS,06/04/2013,13:30,FK Rostov,Spartak Moskva,1,0,H,0,0,D
+RUS,06/04/2013,16:00,Lokomotiv Moskva,Terek Grozny,1,1,D,1,1,D
+RUS,07/04/2013,10:30,Zenit St. Petersburg,Krylia Sovetov,1,0,H,1,0,H
+RUS,07/04/2013,13:00,Anzhi Makhachkala,Alania Vladikavkaz,0,0,D,0,0,D
+RUS,07/04/2013,15:30,Kuban Krasnodar,Rubin Kazan,0,0,D,0,0,D
+RUS,08/04/2013,16:00,Mordovia Saransk,FK Krasnodar,0,0,D,0,0,D
+RUS,12/04/2013,17:00,Dinamo Moskva,CSKA Moskva,0,0,D,0,0,D
+RUS,13/04/2013,10:30,Lokomotiv Moskva,Zenit St. Petersburg,0,1,A,0,1,A
+RUS,13/04/2013,13:00,Terek Grozny,Kuban Krasnodar,2,2,D,0,0,D
+RUS,13/04/2013,15:30,FK Krasnodar,Krylia Sovetov,0,3,A,0,1,A
+RUS,14/04/2013,11:00,Volga Nizhniy Novgorod,Anzhi Makhachkala,0,3,A,0,2,A
+RUS,14/04/2013,13:30,Spartak Moskva,FK Amkar Perm,2,0,H,1,0,H
+RUS,14/04/2013,16:00,Rubin Kazan,FK Rostov,1,1,D,0,0,D
+RUS,15/04/2013,15:00,Alania Vladikavkaz,Mordovia Saransk,3,1,H,2,0,H
+RUS,19/04/2013,14:00,FK Amkar Perm,Rubin Kazan,1,1,D,0,1,A
+RUS,20/04/2013,10:30,Mordovia Saransk,Volga Nizhniy Novgorod,1,3,A,1,0,H
+RUS,20/04/2013,13:00,Krylia Sovetov,Alania Vladikavkaz,2,1,H,2,0,H
+RUS,20/04/2013,15:30,Kuban Krasnodar,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,21/04/2013,10:30,CSKA Moskva,Spartak Moskva,2,2,D,0,1,A
+RUS,21/04/2013,13:00,Zenit St. Petersburg,FK Krasnodar,1,0,H,0,0,D
+RUS,21/04/2013,15:30,Anzhi Makhachkala,Dinamo Moskva,3,3,D,1,1,D
+RUS,22/04/2013,16:00,FK Rostov,Terek Grozny,0,3,A,0,2,A
+RUS,26/04/2013,16:00,Volga Nizhniy Novgorod,Krylia Sovetov,1,1,D,1,0,H
+RUS,27/04/2013,10:30,Dinamo Moskva,Mordovia Saransk,3,1,H,3,1,H
+RUS,27/04/2013,13:00,Terek Grozny,FK Amkar Perm,2,1,H,1,0,H
+RUS,27/04/2013,15:30,Lokomotiv Moskva,FK Rostov,3,1,H,1,1,D
+RUS,28/04/2013,10:30,Spartak Moskva,Anzhi Makhachkala,2,0,H,1,0,H
+RUS,28/04/2013,13:00,Kuban Krasnodar,Zenit St. Petersburg,2,2,D,2,1,H
+RUS,28/04/2013,15:30,Rubin Kazan,CSKA Moskva,2,0,H,0,0,D
+RUS,29/04/2013,15:30,Alania Vladikavkaz,FK Krasnodar,2,3,A,0,1,A
+RUS,03/05/2013,15:00,Mordovia Saransk,Spartak Moskva,2,1,H,0,1,A
+RUS,04/05/2013,10:30,CSKA Moskva,Terek Grozny,1,0,H,1,0,H
+RUS,04/05/2013,12:45,FK Rostov,Kuban Krasnodar,0,2,A,0,0,D
+RUS,04/05/2013,15:00,Anzhi Makhachkala,Rubin Kazan,2,1,H,0,0,D
+RUS,04/05/2013,17:15,Zenit St. Petersburg,Alania Vladikavkaz,4,0,H,1,0,H
+RUS,05/05/2013,10:30,Krylia Sovetov,Dinamo Moskva,1,2,A,0,1,A
+RUS,05/05/2013,13:00,FK Amkar Perm,Lokomotiv Moskva,2,4,A,1,1,D
+RUS,05/05/2013,15:30,FK Krasnodar,Volga Nizhniy Novgorod,2,0,H,2,0,H
+RUS,10/05/2013,14:30,Rubin Kazan,Mordovia Saransk,2,1,H,1,1,D
+RUS,10/05/2013,17:00,Spartak Moskva,Krylia Sovetov,1,1,D,1,1,D
+RUS,11/05/2013,10:30,Dinamo Moskva,FK Krasnodar,1,1,D,0,0,D
+RUS,11/05/2013,13:00,Volga Nizhniy Novgorod,Alania Vladikavkaz,1,0,H,1,0,H
+RUS,11/05/2013,16:30,Kuban Krasnodar,FK Amkar Perm,4,0,H,3,0,H
+RUS,12/05/2013,10:30,Lokomotiv Moskva,CSKA Moskva,1,4,A,0,3,A
+RUS,12/05/2013,13:00,Terek Grozny,Anzhi Makhachkala,1,0,H,1,0,H
+RUS,12/05/2013,15:30,FK Rostov,Zenit St. Petersburg,1,1,D,0,1,A
+RUS,17/05/2013,14:00,FK Amkar Perm,FK Rostov,3,2,H,2,0,H
+RUS,18/05/2013,10:30,CSKA Moskva,Kuban Krasnodar,0,0,D,0,0,D
+RUS,18/05/2013,14:00,Mordovia Saransk,Terek Grozny,1,1,D,0,0,D
+RUS,18/05/2013,16:30,FK Krasnodar,Spartak Moskva,0,1,A,0,0,D
+RUS,19/05/2013,10:30,Alania Vladikavkaz,Dinamo Moskva,1,0,H,0,0,D
+RUS,19/05/2013,13:00,Krylia Sovetov,Rubin Kazan,3,1,H,1,0,H
+RUS,19/05/2013,15:30,Zenit St. Petersburg,Volga Nizhniy Novgorod,3,1,H,1,1,D
+RUS,20/05/2013,16:00,Anzhi Makhachkala,Lokomotiv Moskva,2,1,H,1,1,D
+RUS,26/05/2013,10:30,FK Amkar Perm,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,26/05/2013,10:30,Dinamo Moskva,Volga Nizhniy Novgorod,0,0,D,0,0,D
+RUS,26/05/2013,10:30,Spartak Moskva,Alania Vladikavkaz,2,0,H,1,0,H
+RUS,26/05/2013,10:30,Lokomotiv Moskva,Mordovia Saransk,2,1,H,2,0,H
+RUS,26/05/2013,10:30,FK Rostov,CSKA Moskva,3,0,H,2,0,H
+RUS,26/05/2013,10:30,Kuban Krasnodar,Anzhi Makhachkala,1,0,H,1,0,H
+RUS,26/05/2013,10:30,Terek Grozny,Krylia Sovetov,4,1,H,1,0,H
+RUS,26/05/2013,10:30,Rubin Kazan,FK Krasnodar,2,0,H,1,0,H

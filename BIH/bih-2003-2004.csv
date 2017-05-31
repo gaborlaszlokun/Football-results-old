@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BIH,02/08/2003,16:30,FK Sarajevo,Leotar Trebinje,3,0,H,NaN,NaN,NaN
+BIH,02/08/2003,16:30,HNK Orašje,Čelik Zenica,2,0,H,NaN,NaN,NaN
+BIH,02/08/2003,16:30,NK Travnik,NK Posušje,3,0,H,NaN,NaN,NaN
+BIH,03/08/2003,16:30,NK Brotnjo,Sloboda Tuzla,0,2,A,NaN,NaN,NaN
+BIH,03/08/2003,16:30,Zrinjski Mostar,Borac Banja Luka,1,0,H,NaN,NaN,NaN
+BIH,03/08/2003,16:30,Rudar Ugljevik,Široki Brijeg,1,1,D,NaN,NaN,NaN
+BIH,03/08/2003,16:30,Glasinac Sokolac,Modriča Maksima,2,1,H,NaN,NaN,NaN
+BIH,03/08/2003,16:30,NK Zepce,Željezničar Sarajevo,2,1,H,NaN,NaN,NaN
+BIH,08/08/2003,16:30,FK Sarajevo,NK Travnik,5,0,H,NaN,NaN,NaN
+BIH,09/08/2003,16:30,Željezničar Sarajevo,NK Brotnjo,3,1,H,NaN,NaN,NaN
+BIH,09/08/2003,16:30,Borac Banja Luka,NK Zepce,2,0,H,NaN,NaN,NaN
+BIH,09/08/2003,16:30,Čelik Zenica,Rudar Ugljevik,1,0,H,NaN,NaN,NaN
+BIH,09/08/2003,16:30,Modriča Maksima,HNK Orašje,4,0,H,NaN,NaN,NaN
+BIH,10/08/2003,16:30,NK Posušje,Glasinac Sokolac,2,1,H,NaN,NaN,NaN
+BIH,10/08/2003,16:30,Široki Brijeg,Zrinjski Mostar,3,0,H,NaN,NaN,NaN
+BIH,10/08/2003,16:30,Leotar Trebinje,Sloboda Tuzla,2,1,H,NaN,NaN,NaN
+BIH,16/08/2003,16:00,NK Travnik,Leotar Trebinje,0,0,D,NaN,NaN,NaN
+BIH,17/08/2003,16:00,NK Brotnjo,Borac Banja Luka,3,0,H,NaN,NaN,NaN
+BIH,17/08/2003,16:00,Sloboda Tuzla,Željezničar Sarajevo,1,1,D,NaN,NaN,NaN
+BIH,17/08/2003,16:00,HNK Orašje,NK Posušje,3,1,H,NaN,NaN,NaN
+BIH,17/08/2003,16:00,Zrinjski Mostar,Čelik Zenica,1,1,D,NaN,NaN,NaN
+BIH,17/08/2003,16:00,Rudar Ugljevik,Modriča Maksima,2,1,H,NaN,NaN,NaN
+BIH,17/08/2003,16:00,Glasinac Sokolac,FK Sarajevo,0,3,A,NaN,NaN,NaN
+BIH,17/08/2003,16:00,NK Zepce,Široki Brijeg,2,1,H,NaN,NaN,NaN
+BIH,23/08/2003,16:00,Borac Banja Luka,Sloboda Tuzla,2,1,H,NaN,NaN,NaN
+BIH,23/08/2003,16:00,FK Sarajevo,HNK Orašje,0,1,A,NaN,NaN,NaN
+BIH,23/08/2003,16:00,Čelik Zenica,NK Zepce,1,2,A,NaN,NaN,NaN
+BIH,23/08/2003,16:00,Leotar Trebinje,Željezničar Sarajevo,0,0,D,NaN,NaN,NaN
+BIH,23/08/2003,16:00,NK Travnik,Glasinac Sokolac,3,2,H,NaN,NaN,NaN
+BIH,23/08/2003,16:00,Modriča Maksima,Zrinjski Mostar,2,1,H,NaN,NaN,NaN
+BIH,24/08/2003,16:00,NK Posušje,Rudar Ugljevik,0,0,D,NaN,NaN,NaN
+BIH,24/08/2003,16:00,Široki Brijeg,NK Brotnjo,3,0,H,NaN,NaN,NaN
+BIH,30/08/2003,16:00,Sloboda Tuzla,Široki Brijeg,1,1,D,NaN,NaN,NaN
+BIH,30/08/2003,16:00,HNK Orašje,NK Travnik,1,0,H,NaN,NaN,NaN
+BIH,31/08/2003,16:00,NK Brotnjo,Čelik Zenica,2,0,H,NaN,NaN,NaN
+BIH,31/08/2003,16:00,Zrinjski Mostar,NK Posušje,0,2,A,NaN,NaN,NaN
+BIH,31/08/2003,16:00,Rudar Ugljevik,FK Sarajevo,0,0,D,NaN,NaN,NaN
+BIH,31/08/2003,16:00,Glasinac Sokolac,Leotar Trebinje,0,3,A,NaN,NaN,NaN
+BIH,31/08/2003,16:00,NK Zepce,Modriča Maksima,1,0,H,NaN,NaN,NaN
+BIH,01/09/2003,16:00,Željezničar Sarajevo,Borac Banja Luka,3,0,H,NaN,NaN,NaN
+BIH,13/09/2003,15:30,FK Sarajevo,Zrinjski Mostar,1,0,H,NaN,NaN,NaN
+BIH,13/09/2003,15:30,Čelik Zenica,Sloboda Tuzla,2,2,D,NaN,NaN,NaN
+BIH,13/09/2003,15:30,Leotar Trebinje,Borac Banja Luka,2,1,H,NaN,NaN,NaN
+BIH,13/09/2003,15:30,NK Travnik,Rudar Ugljevik,3,0,H,NaN,NaN,NaN
+BIH,13/09/2003,15:30,Modriča Maksima,NK Brotnjo,1,2,A,NaN,NaN,NaN
+BIH,14/09/2003,15:30,NK Posušje,NK Zepce,3,1,H,NaN,NaN,NaN
+BIH,14/09/2003,15:30,Široki Brijeg,Željezničar Sarajevo,2,0,H,NaN,NaN,NaN
+BIH,14/09/2003,15:30,Glasinac Sokolac,HNK Orašje,3,0,H,NaN,NaN,NaN
+BIH,20/09/2003,15:30,NK Brotnjo,NK Posušje,0,3,A,NaN,NaN,NaN
+BIH,20/09/2003,15:30,Željezničar Sarajevo,Čelik Zenica,2,3,A,NaN,NaN,NaN
+BIH,20/09/2003,15:30,Borac Banja Luka,Široki Brijeg,1,3,A,NaN,NaN,NaN
+BIH,20/09/2003,15:30,HNK Orašje,Leotar Trebinje,1,1,D,NaN,NaN,NaN
+BIH,21/09/2003,15:30,Sloboda Tuzla,Modriča Maksima,1,0,H,NaN,NaN,NaN
+BIH,21/09/2003,15:30,Zrinjski Mostar,NK Travnik,2,0,H,NaN,NaN,NaN
+BIH,21/09/2003,15:30,Rudar Ugljevik,Glasinac Sokolac,2,0,H,NaN,NaN,NaN
+BIH,21/09/2003,15:30,NK Zepce,FK Sarajevo,0,0,D,NaN,NaN,NaN
+BIH,27/09/2003,15:00,FK Sarajevo,NK Brotnjo,2,0,H,NaN,NaN,NaN
+BIH,27/09/2003,15:00,Čelik Zenica,Borac Banja Luka,2,2,D,NaN,NaN,NaN
+BIH,27/09/2003,15:00,HNK Orašje,Rudar Ugljevik,2,2,D,NaN,NaN,NaN
+BIH,27/09/2003,15:00,Leotar Trebinje,Široki Brijeg,2,0,H,NaN,NaN,NaN
+BIH,27/09/2003,15:00,NK Travnik,NK Zepce,0,0,D,NaN,NaN,NaN
+BIH,28/09/2003,15:00,NK Posušje,Sloboda Tuzla,0,0,D,NaN,NaN,NaN
+BIH,28/09/2003,15:00,Glasinac Sokolac,Zrinjski Mostar,2,0,H,NaN,NaN,NaN
+BIH,28/09/2003,15:00,Modriča Maksima,Željezničar Sarajevo,1,1,D,NaN,NaN,NaN
+BIH,01/10/2003,14:00,NK Brotnjo,NK Travnik,0,0,D,NaN,NaN,NaN
+BIH,01/10/2003,14:00,Željezničar Sarajevo,NK Posušje,2,0,H,NaN,NaN,NaN
+BIH,01/10/2003,14:00,Borac Banja Luka,Modriča Maksima,0,0,D,NaN,NaN,NaN
+BIH,01/10/2003,14:00,Sloboda Tuzla,FK Sarajevo,2,2,D,NaN,NaN,NaN
+BIH,01/10/2003,14:00,Široki Brijeg,Čelik Zenica,3,0,H,NaN,NaN,NaN
+BIH,01/10/2003,14:00,Rudar Ugljevik,Leotar Trebinje,0,3,A,NaN,NaN,NaN
+BIH,01/10/2003,14:00,NK Zepce,Glasinac Sokolac,1,1,D,NaN,NaN,NaN
+BIH,12/10/2003,14:00,Zrinjski Mostar,HNK Orašje,5,3,H,NaN,NaN,NaN
+BIH,04/10/2003,14:00,HNK Orašje,NK Zepce,2,0,H,NaN,NaN,NaN
+BIH,04/10/2003,14:00,Leotar Trebinje,Čelik Zenica,2,0,H,NaN,NaN,NaN
+BIH,04/10/2003,14:00,NK Travnik,Sloboda Tuzla,0,2,A,NaN,NaN,NaN
+BIH,04/10/2003,14:00,Modriča Maksima,Široki Brijeg,2,3,A,NaN,NaN,NaN
+BIH,05/10/2003,14:00,FK Sarajevo,Željezničar Sarajevo,1,1,D,NaN,NaN,NaN
+BIH,05/10/2003,14:00,NK Posušje,Borac Banja Luka,2,0,H,NaN,NaN,NaN
+BIH,05/10/2003,14:00,Rudar Ugljevik,Zrinjski Mostar,1,2,A,NaN,NaN,NaN
+BIH,05/10/2003,14:00,Glasinac Sokolac,NK Brotnjo,1,1,D,NaN,NaN,NaN
+BIH,18/10/2003,13:30,Borac Banja Luka,FK Sarajevo,3,2,H,NaN,NaN,NaN
+BIH,18/10/2003,13:30,Čelik Zenica,Modriča Maksima,0,0,D,NaN,NaN,NaN
+BIH,18/10/2003,13:30,Sloboda Tuzla,Glasinac Sokolac,3,0,H,NaN,NaN,NaN
+BIH,19/10/2003,13:30,NK Brotnjo,HNK Orašje,2,3,A,NaN,NaN,NaN
+BIH,19/10/2003,13:30,Željezničar Sarajevo,NK Travnik,3,1,H,NaN,NaN,NaN
+BIH,19/10/2003,13:30,Zrinjski Mostar,Leotar Trebinje,1,1,D,NaN,NaN,NaN
+BIH,19/10/2003,13:30,Široki Brijeg,NK Posušje,4,2,H,NaN,NaN,NaN
+BIH,19/10/2003,13:30,NK Zepce,Rudar Ugljevik,1,0,H,NaN,NaN,NaN
+BIH,25/10/2003,13:30,FK Sarajevo,Široki Brijeg,4,1,H,NaN,NaN,NaN
+BIH,25/10/2003,13:30,HNK Orašje,Sloboda Tuzla,2,1,H,NaN,NaN,NaN
+BIH,25/10/2003,13:30,Leotar Trebinje,Modriča Maksima,3,0,H,NaN,NaN,NaN
+BIH,26/10/2003,13:30,NK Posušje,Čelik Zenica,3,2,H,NaN,NaN,NaN
+BIH,26/10/2003,13:30,Zrinjski Mostar,NK Zepce,2,1,H,NaN,NaN,NaN
+BIH,26/10/2003,13:30,Rudar Ugljevik,NK Brotnjo,2,2,D,NaN,NaN,NaN
+BIH,26/10/2003,13:30,Glasinac Sokolac,Željezničar Sarajevo,2,1,H,NaN,NaN,NaN
+BIH,10/03/2004,,NK Travnik,Borac Banja Luka,3,0,H,NaN,NaN,NaN
+BIH,31/10/2003,,Željezničar Sarajevo,HNK Orašje,4,1,H,NaN,NaN,NaN
+BIH,31/10/2003,,Široki Brijeg,NK Travnik,4,0,H,NaN,NaN,NaN
+BIH,01/11/2003,,Borac Banja Luka,Glasinac Sokolac,2,1,H,NaN,NaN,NaN
+BIH,01/11/2003,,Čelik Zenica,FK Sarajevo,1,1,D,NaN,NaN,NaN
+BIH,01/11/2003,,Sloboda Tuzla,Rudar Ugljevik,3,0,H,NaN,NaN,NaN
+BIH,01/11/2003,,Modriča Maksima,NK Posušje,2,0,H,NaN,NaN,NaN
+BIH,02/11/2003,,NK Brotnjo,Zrinjski Mostar,2,3,A,NaN,NaN,NaN
+BIH,02/11/2003,,NK Zepce,Leotar Trebinje,1,0,H,NaN,NaN,NaN
+BIH,08/11/2003,13:00,FK Sarajevo,Modriča Maksima,5,0,H,NaN,NaN,NaN
+BIH,08/11/2003,13:00,HNK Orašje,Borac Banja Luka,1,0,H,NaN,NaN,NaN
+BIH,08/11/2003,13:00,Leotar Trebinje,NK Posušje,3,0,H,NaN,NaN,NaN
+BIH,08/11/2003,13:00,NK Travnik,Čelik Zenica,1,1,D,NaN,NaN,NaN
+BIH,09/11/2003,13:00,Zrinjski Mostar,Sloboda Tuzla,0,1,A,NaN,NaN,NaN
+BIH,09/11/2003,13:00,Rudar Ugljevik,Željezničar Sarajevo,1,0,H,NaN,NaN,NaN
+BIH,09/11/2003,13:00,Glasinac Sokolac,Široki Brijeg,0,1,A,NaN,NaN,NaN
+BIH,09/11/2003,13:00,NK Zepce,NK Brotnjo,2,0,H,NaN,NaN,NaN
+BIH,15/11/2003,12:30,NK Brotnjo,Leotar Trebinje,2,3,A,NaN,NaN,NaN
+BIH,15/11/2003,12:30,Željezničar Sarajevo,Zrinjski Mostar,4,2,H,NaN,NaN,NaN
+BIH,15/11/2003,12:30,Borac Banja Luka,Rudar Ugljevik,6,0,H,NaN,NaN,NaN
+BIH,15/11/2003,12:30,Čelik Zenica,Glasinac Sokolac,5,0,H,NaN,NaN,NaN
+BIH,15/11/2003,12:30,Sloboda Tuzla,NK Zepce,1,1,D,NaN,NaN,NaN
+BIH,15/11/2003,12:30,Modriča Maksima,NK Travnik,4,1,H,NaN,NaN,NaN
+BIH,16/11/2003,12:30,NK Posušje,FK Sarajevo,1,0,H,NaN,NaN,NaN
+BIH,16/11/2003,12:30,Široki Brijeg,HNK Orašje,2,0,H,NaN,NaN,NaN
+BIH,28/02/2004,,Čelik Zenica,HNK Orašje,2,0,H,NaN,NaN,NaN
+BIH,28/02/2004,,Sloboda Tuzla,NK Brotnjo,2,1,H,NaN,NaN,NaN
+BIH,28/02/2004,,Borac Banja Luka,Zrinjski Mostar,2,0,H,NaN,NaN,NaN
+BIH,28/02/2004,,Modriča Maksima,Glasinac Sokolac,1,0,H,NaN,NaN,NaN
+BIH,28/02/2004,,Željezničar Sarajevo,NK Zepce,2,1,H,NaN,NaN,NaN
+BIH,29/02/2004,,NK Posušje,NK Travnik,2,2,D,NaN,NaN,NaN
+BIH,29/02/2004,,Široki Brijeg,Rudar Ugljevik,4,0,H,NaN,NaN,NaN
+BIH,10/03/2004,,Leotar Trebinje,FK Sarajevo,4,1,H,NaN,NaN,NaN
+BIH,06/03/2004,,NK Travnik,FK Sarajevo,0,2,A,NaN,NaN,NaN
+BIH,06/03/2004,,Zrinjski Mostar,Široki Brijeg,1,2,A,NaN,NaN,NaN
+BIH,06/03/2004,,Sloboda Tuzla,Leotar Trebinje,1,0,H,NaN,NaN,NaN
+BIH,06/03/2004,,HNK Orašje,Modriča Maksima,2,2,D,NaN,NaN,NaN
+BIH,07/03/2004,,NK Brotnjo,Željezničar Sarajevo,2,2,D,NaN,NaN,NaN
+BIH,07/03/2004,,NK Zepce,Borac Banja Luka,0,0,D,NaN,NaN,NaN
+BIH,07/03/2004,,Rudar Ugljevik,Čelik Zenica,1,0,H,NaN,NaN,NaN
+BIH,07/03/2004,,Glasinac Sokolac,NK Posušje,6,1,H,NaN,NaN,NaN
+BIH,13/03/2004,,Borac Banja Luka,NK Brotnjo,3,0,H,NaN,NaN,NaN
+BIH,13/03/2004,,Željezničar Sarajevo,Sloboda Tuzla,3,0,H,NaN,NaN,NaN
+BIH,13/03/2004,,Čelik Zenica,Zrinjski Mostar,1,1,D,NaN,NaN,NaN
+BIH,13/03/2004,,Modriča Maksima,Rudar Ugljevik,1,0,H,NaN,NaN,NaN
+BIH,13/03/2004,,Leotar Trebinje,NK Travnik,2,0,H,NaN,NaN,NaN
+BIH,14/03/2004,,NK Posušje,HNK Orašje,2,1,H,NaN,NaN,NaN
+BIH,14/03/2004,,FK Sarajevo,Glasinac Sokolac,3,0,H,NaN,NaN,NaN
+BIH,14/03/2004,,Široki Brijeg,NK Zepce,2,0,H,NaN,NaN,NaN
+BIH,20/03/2004,,Sloboda Tuzla,Borac Banja Luka,0,0,D,NaN,NaN,NaN
+BIH,20/03/2004,,HNK Orašje,FK Sarajevo,0,1,A,NaN,NaN,NaN
+BIH,20/03/2004,,Željezničar Sarajevo,Leotar Trebinje,3,0,H,NaN,NaN,NaN
+BIH,21/03/2004,,NK Zepce,Čelik Zenica,2,0,H,NaN,NaN,NaN
+BIH,21/03/2004,,Rudar Ugljevik,NK Posušje,1,0,H,NaN,NaN,NaN
+BIH,21/03/2004,,NK Brotnjo,Široki Brijeg,2,3,A,NaN,NaN,NaN
+BIH,21/03/2004,,Glasinac Sokolac,NK Travnik,1,0,H,NaN,NaN,NaN
+BIH,21/03/2004,,Zrinjski Mostar,Modriča Maksima,0,0,D,NaN,NaN,NaN
+BIH,27/03/2004,,Čelik Zenica,NK Brotnjo,0,0,D,NaN,NaN,NaN
+BIH,27/03/2004,,Borac Banja Luka,Željezničar Sarajevo,1,2,A,NaN,NaN,NaN
+BIH,27/03/2004,,NK Travnik,HNK Orašje,3,1,H,NaN,NaN,NaN
+BIH,27/03/2004,,FK Sarajevo,Rudar Ugljevik,1,0,H,NaN,NaN,NaN
+BIH,27/03/2004,,Leotar Trebinje,Glasinac Sokolac,2,0,H,NaN,NaN,NaN
+BIH,27/03/2004,,Modriča Maksima,NK Zepce,2,0,H,NaN,NaN,NaN
+BIH,28/03/2004,,Široki Brijeg,Sloboda Tuzla,1,0,H,NaN,NaN,NaN
+BIH,28/03/2004,,NK Posušje,Zrinjski Mostar,2,0,H,NaN,NaN,NaN
+BIH,03/04/2004,,Sloboda Tuzla,Čelik Zenica,2,1,H,NaN,NaN,NaN
+BIH,03/04/2004,,Željezničar Sarajevo,Široki Brijeg,2,0,H,NaN,NaN,NaN
+BIH,03/04/2004,,Borac Banja Luka,Leotar Trebinje,2,0,H,NaN,NaN,NaN
+BIH,03/04/2004,,HNK Orašje,Glasinac Sokolac,3,0,H,NaN,NaN,NaN
+BIH,03/04/2004,,NK Brotnjo,Modriča Maksima,0,0,D,NaN,NaN,NaN
+BIH,04/04/2004,,Zrinjski Mostar,FK Sarajevo,2,1,H,NaN,NaN,NaN
+BIH,04/04/2004,,NK Zepce,NK Posušje,1,2,A,NaN,NaN,NaN
+BIH,04/04/2004,,Rudar Ugljevik,NK Travnik,3,0,H,NaN,NaN,NaN
+BIH,13/04/2004,,Leotar Trebinje,HNK Orašje,3,0,H,NaN,NaN,NaN
+BIH,14/04/2004,,NK Posušje,NK Brotnjo,0,0,D,NaN,NaN,NaN
+BIH,14/04/2004,,Čelik Zenica,Željezničar Sarajevo,3,1,H,NaN,NaN,NaN
+BIH,14/04/2004,,Široki Brijeg,Borac Banja Luka,1,0,H,NaN,NaN,NaN
+BIH,14/04/2004,,Modriča Maksima,Sloboda Tuzla,5,3,H,NaN,NaN,NaN
+BIH,14/04/2004,,NK Travnik,Zrinjski Mostar,2,1,H,NaN,NaN,NaN
+BIH,14/04/2004,,Glasinac Sokolac,Rudar Ugljevik,0,0,D,NaN,NaN,NaN
+BIH,14/04/2004,,FK Sarajevo,NK Zepce,3,0,H,NaN,NaN,NaN
+BIH,17/04/2004,18:00,Borac Banja Luka,Čelik Zenica,1,1,D,NaN,NaN,NaN
+BIH,17/04/2004,18:00,Sloboda Tuzla,NK Posušje,3,1,H,NaN,NaN,NaN
+BIH,17/04/2004,18:00,Željezničar Sarajevo,Modriča Maksima,4,1,H,NaN,NaN,NaN
+BIH,18/04/2004,14:30,NK Brotnjo,FK Sarajevo,0,2,A,NaN,NaN,NaN
+BIH,18/04/2004,14:30,Rudar Ugljevik,HNK Orašje,2,0,H,NaN,NaN,NaN
+BIH,18/04/2004,14:30,Široki Brijeg,Leotar Trebinje,2,0,H,NaN,NaN,NaN
+BIH,18/04/2004,14:30,Zrinjski Mostar,Glasinac Sokolac,0,0,D,NaN,NaN,NaN
+BIH,18/04/2004,14:30,NK Zepce,NK Travnik,0,0,D,NaN,NaN,NaN
+BIH,24/04/2004,14:00,NK Travnik,NK Brotnjo,1,0,H,NaN,NaN,NaN
+BIH,24/04/2004,14:00,Modriča Maksima,Borac Banja Luka,3,3,D,NaN,NaN,NaN
+BIH,24/04/2004,14:00,FK Sarajevo,Sloboda Tuzla,3,0,H,NaN,NaN,NaN
+BIH,24/04/2004,14:00,HNK Orašje,Zrinjski Mostar,3,2,H,NaN,NaN,NaN
+BIH,24/04/2004,14:00,Čelik Zenica,Široki Brijeg,4,2,H,NaN,NaN,NaN
+BIH,24/04/2004,14:00,Leotar Trebinje,Rudar Ugljevik,2,0,H,NaN,NaN,NaN
+BIH,25/04/2004,14:00,NK Posušje,Željezničar Sarajevo,2,3,A,NaN,NaN,NaN
+BIH,25/04/2004,14:00,Glasinac Sokolac,NK Zepce,3,0,H,NaN,NaN,NaN
+BIH,30/04/2004,,Željezničar Sarajevo,FK Sarajevo,2,1,H,NaN,NaN,NaN
+BIH,30/04/2004,,Borac Banja Luka,NK Posušje,3,1,H,NaN,NaN,NaN
+BIH,30/04/2004,,Čelik Zenica,Leotar Trebinje,1,0,H,NaN,NaN,NaN
+BIH,30/04/2004,,Sloboda Tuzla,NK Travnik,0,0,D,NaN,NaN,NaN
+BIH,02/05/2004,,NK Zepce,HNK Orašje,2,1,H,NaN,NaN,NaN
+BIH,02/05/2004,,Zrinjski Mostar,Rudar Ugljevik,2,0,H,NaN,NaN,NaN
+BIH,02/05/2004,,NK Brotnjo,Glasinac Sokolac,3,1,H,NaN,NaN,NaN
+BIH,02/05/2004,,Široki Brijeg,Modriča Maksima,3,0,H,NaN,NaN,NaN
+BIH,08/05/2004,,HNK Orašje,NK Brotnjo,1,0,H,NaN,NaN,NaN
+BIH,08/05/2004,,NK Travnik,Željezničar Sarajevo,2,1,H,NaN,NaN,NaN
+BIH,08/05/2004,,FK Sarajevo,Borac Banja Luka,3,1,H,NaN,NaN,NaN
+BIH,08/05/2004,,Modriča Maksima,Čelik Zenica,4,1,H,NaN,NaN,NaN
+BIH,08/05/2004,,Glasinac Sokolac,Sloboda Tuzla,1,0,H,NaN,NaN,NaN
+BIH,08/05/2004,,Leotar Trebinje,Zrinjski Mostar,2,0,H,NaN,NaN,NaN
+BIH,08/05/2004,,NK Posušje,Široki Brijeg,0,0,D,NaN,NaN,NaN
+BIH,08/05/2004,,Rudar Ugljevik,NK Zepce,3,0,H,NaN,NaN,NaN
+BIH,12/05/2004,,Široki Brijeg,FK Sarajevo,1,0,H,NaN,NaN,NaN
+BIH,12/05/2004,,Čelik Zenica,NK Posušje,3,1,H,NaN,NaN,NaN
+BIH,12/05/2004,,Sloboda Tuzla,HNK Orašje,1,0,H,NaN,NaN,NaN
+BIH,12/05/2004,,NK Zepce,Zrinjski Mostar,1,2,A,NaN,NaN,NaN
+BIH,12/05/2004,,NK Brotnjo,Rudar Ugljevik,1,2,A,NaN,NaN,NaN
+BIH,12/05/2004,,Modriča Maksima,Leotar Trebinje,3,0,H,NaN,NaN,NaN
+BIH,12/05/2004,,Željezničar Sarajevo,Glasinac Sokolac,4,0,H,NaN,NaN,NaN
+BIH,12/05/2004,,Borac Banja Luka,NK Travnik,2,0,H,NaN,NaN,NaN
+BIH,15/05/2004,,Zrinjski Mostar,NK Brotnjo,5,0,H,NaN,NaN,NaN
+BIH,15/05/2004,,HNK Orašje,Željezničar Sarajevo,2,3,A,NaN,NaN,NaN
+BIH,15/05/2004,,Glasinac Sokolac,Borac Banja Luka,3,0,H,NaN,NaN,NaN
+BIH,15/05/2004,,FK Sarajevo,Čelik Zenica,3,2,H,NaN,NaN,NaN
+BIH,15/05/2004,,Rudar Ugljevik,Sloboda Tuzla,4,2,H,NaN,NaN,NaN
+BIH,15/05/2004,,NK Travnik,Široki Brijeg,2,1,H,NaN,NaN,NaN
+BIH,15/05/2004,,Leotar Trebinje,NK Zepce,1,0,H,NaN,NaN,NaN
+BIH,15/05/2004,,NK Posušje,Modriča Maksima,2,0,H,NaN,NaN,NaN
+BIH,22/05/2004,,Modriča Maksima,FK Sarajevo,3,1,H,NaN,NaN,NaN
+BIH,22/05/2004,,Borac Banja Luka,HNK Orašje,2,1,H,NaN,NaN,NaN
+BIH,22/05/2004,,Sloboda Tuzla,Zrinjski Mostar,2,3,A,NaN,NaN,NaN
+BIH,22/05/2004,,Željezničar Sarajevo,Rudar Ugljevik,4,1,H,NaN,NaN,NaN
+BIH,22/05/2004,,NK Posušje,Leotar Trebinje,0,0,D,NaN,NaN,NaN
+BIH,22/05/2004,,Široki Brijeg,Glasinac Sokolac,3,3,D,NaN,NaN,NaN
+BIH,22/05/2004,,NK Brotnjo,NK Zepce,3,4,A,NaN,NaN,NaN
+BIH,22/05/2004,,Čelik Zenica,NK Travnik,3,1,H,NaN,NaN,NaN
+BIH,29/05/2004,,Leotar Trebinje,NK Brotnjo,5,0,H,NaN,NaN,NaN
+BIH,29/05/2004,,Zrinjski Mostar,Željezničar Sarajevo,1,5,A,NaN,NaN,NaN
+BIH,29/05/2004,,Rudar Ugljevik,Borac Banja Luka,3,1,H,NaN,NaN,NaN
+BIH,29/05/2004,,Glasinac Sokolac,Čelik Zenica,1,1,D,NaN,NaN,NaN
+BIH,29/05/2004,,FK Sarajevo,NK Posušje,4,0,H,NaN,NaN,NaN
+BIH,29/05/2004,,NK Zepce,Sloboda Tuzla,0,0,D,NaN,NaN,NaN
+BIH,29/05/2004,,HNK Orašje,Široki Brijeg,3,1,H,NaN,NaN,NaN
+BIH,29/05/2004,,NK Travnik,Modriča Maksima,2,0,H,NaN,NaN,NaN

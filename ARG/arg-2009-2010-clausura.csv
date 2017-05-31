@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,29/01/2010,22:00,CD Godoy Cruz,GyE La Plata,1,0,H,0,0,D
+ARG,30/01/2010,00:10,Estudiantes,Arsenal Sarandí,3,0,H,1,0,H
+ARG,30/01/2010,20:00,Tigre,Chacarita Juniors,0,2,A,0,1,A
+ARG,30/01/2010,20:00,Vélez Sársfield,CA Colón,1,1,D,1,0,H
+ARG,30/01/2010,22:10,Racing Club,Rosario Central,3,0,H,2,0,H
+ARG,31/01/2010,00:15,Atlético Tucumán,San Lorenzo,0,1,A,0,1,A
+ARG,31/01/2010,20:00,River Plate,CA Banfield,0,1,A,0,0,D
+ARG,31/01/2010,22:10,Newell's Old Boys,Independiente,0,0,D,0,0,D
+ARG,31/01/2010,22:10,CA Lanús,Huracán,3,2,H,0,2,A
+ARG,01/02/2010,00:15,Argentinos Juniors,Boca Juniors,2,2,D,0,1,A
+ARG,02/02/2010,20:00,Rosario Central,Tigre,0,1,A,0,0,D
+ARG,02/02/2010,22:10,Arsenal Sarandí,Vélez Sársfield,0,3,A,0,0,D
+ARG,03/02/2010,00:15,CA Colón,Racing Club,2,1,H,1,1,D
+ARG,03/02/2010,20:00,GyE La Plata,Estudiantes,3,1,H,1,0,H
+ARG,03/02/2010,22:10,Huracán,Newell's Old Boys,2,1,H,1,0,H
+ARG,04/02/2010,00:15,Boca Juniors,CA Lanús,3,1,H,1,1,D
+ARG,04/02/2010,20:00,Chacarita Juniors,River Plate,2,3,A,0,2,A
+ARG,04/02/2010,22:10,San Lorenzo,CD Godoy Cruz,0,1,A,0,1,A
+ARG,05/02/2010,00:15,Independiente,Atlético Tucumán,3,1,H,1,1,D
+ARG,25/02/2010,00:15,CA Banfield,Argentinos Juniors,3,0,H,2,0,H
+ARG,06/02/2010,20:00,CA Lanús,Argentinos Juniors,3,6,A,2,2,D
+ARG,06/02/2010,22:10,Newell's Old Boys,Boca Juniors,4,2,H,3,1,H
+ARG,06/02/2010,22:10,Vélez Sársfield,GyE La Plata,2,1,H,2,1,H
+ARG,07/02/2010,00:15,Tigre,CA Colón,2,2,D,1,1,D
+ARG,07/02/2010,20:00,Chacarita Juniors,CA Banfield,2,1,H,0,1,A
+ARG,07/02/2010,20:00,Estudiantes,San Lorenzo,2,0,H,2,0,H
+ARG,07/02/2010,22:10,River Plate,Rosario Central,0,0,D,0,0,D
+ARG,08/02/2010,00:15,Racing Club,Arsenal Sarandí,2,4,A,1,1,D
+ARG,08/02/2010,22:15,Atlético Tucumán,Huracán,0,0,D,0,0,D
+ARG,09/02/2010,00:10,CD Godoy Cruz,Independiente,0,0,D,0,0,D
+ARG,12/02/2010,22:00,Rosario Central,Chacarita Juniors,1,1,D,1,0,H
+ARG,13/02/2010,00:10,Arsenal Sarandí,Tigre,0,2,A,0,1,A
+ARG,13/02/2010,20:00,CA Banfield,CA Lanús,2,0,H,0,0,D
+ARG,13/02/2010,22:10,Huracán,CD Godoy Cruz,0,0,D,0,0,D
+ARG,14/02/2010,00:15,GyE La Plata,Racing Club,1,0,H,1,0,H
+ARG,14/02/2010,20:00,Independiente,Estudiantes,3,2,H,1,0,H
+ARG,14/02/2010,20:00,San Lorenzo,Vélez Sársfield,0,0,D,0,0,D
+ARG,14/02/2010,22:10,Boca Juniors,Atlético Tucumán,0,0,D,0,0,D
+ARG,15/02/2010,00:15,CA Colón,River Plate,1,0,H,1,0,H
+ARG,17/03/2010,23:00,Argentinos Juniors,Newell's Old Boys,1,1,D,0,0,D
+ARG,19/02/2010,22:00,Chacarita Juniors,CA Colón,1,2,A,0,1,A
+ARG,20/02/2010,00:10,Vélez Sársfield,Independiente,3,0,H,1,0,H
+ARG,20/02/2010,20:00,Tigre,GyE La Plata,1,1,D,1,1,D
+ARG,20/02/2010,22:10,Newell's Old Boys,CA Lanús,1,1,D,0,0,D
+ARG,21/02/2010,00:15,Racing Club,San Lorenzo,1,0,H,0,0,D
+ARG,21/02/2010,20:00,CA Banfield,Rosario Central,0,0,D,0,0,D
+ARG,21/02/2010,20:00,River Plate,Arsenal Sarandí,1,1,D,0,1,A
+ARG,21/02/2010,22:10,Atlético Tucumán,Argentinos Juniors,1,1,D,1,1,D
+ARG,22/02/2010,00:15,CD Godoy Cruz,Boca Juniors,1,1,D,1,0,H
+ARG,23/02/2010,00:00,Estudiantes,Huracán,2,0,H,1,0,H
+ARG,26/02/2010,22:00,Arsenal Sarandí,Chacarita Juniors,0,3,A,0,1,A
+ARG,27/02/2010,00:10,Boca Juniors,Estudiantes,1,1,D,1,0,H
+ARG,27/02/2010,20:00,Independiente,Racing Club,1,0,H,1,0,H
+ARG,27/02/2010,20:00,Huracán,Vélez Sársfield,3,2,H,0,1,A
+ARG,27/02/2010,22:10,CA Colón,Rosario Central,1,1,D,1,0,H
+ARG,28/02/2010,20:00,San Lorenzo,Tigre,1,0,H,0,0,D
+ARG,28/02/2010,20:00,CA Lanús,Atlético Tucumán,3,0,H,1,0,H
+ARG,28/02/2010,22:10,Newell's Old Boys,CA Banfield,2,1,H,0,0,D
+ARG,28/02/2010,22:10,Argentinos Juniors,CD Godoy Cruz,1,2,A,1,2,A
+ARG,01/03/2010,00:15,GyE La Plata,River Plate,1,1,D,1,0,H
+ARG,02/03/2010,20:00,Rosario Central,Arsenal Sarandí,2,3,A,1,2,A
+ARG,02/03/2010,22:10,Vélez Sársfield,Boca Juniors,4,4,D,1,2,A
+ARG,03/03/2010,00:15,Racing Club,Huracán,1,1,D,1,0,H
+ARG,03/03/2010,22:00,Estudiantes,Argentinos Juniors,0,1,A,0,1,A
+ARG,03/03/2010,22:00,CD Godoy Cruz,CA Lanús,2,1,H,1,0,H
+ARG,04/03/2010,00:10,Tigre,Independiente,0,1,A,0,0,D
+ARG,04/03/2010,20:00,Chacarita Juniors,GyE La Plata,0,1,A,0,0,D
+ARG,04/03/2010,22:10,Atlético Tucumán,Newell's Old Boys,1,1,D,0,0,D
+ARG,04/03/2010,22:10,River Plate,San Lorenzo,1,0,H,0,0,D
+ARG,05/03/2010,00:15,CA Banfield,CA Colón,3,1,H,2,0,H
+ARG,06/03/2010,22:00,Boca Juniors,Racing Club,1,2,A,1,2,A
+ARG,07/03/2010,00:10,CA Lanús,Estudiantes,0,0,D,0,0,D
+ARG,07/03/2010,20:00,Huracán,Tigre,2,3,A,1,2,A
+ARG,07/03/2010,20:00,Newell's Old Boys,CD Godoy Cruz,2,1,H,1,1,D
+ARG,07/03/2010,22:10,Independiente,River Plate,2,0,H,1,0,H
+ARG,07/03/2010,22:10,Argentinos Juniors,Vélez Sársfield,1,0,H,0,0,D
+ARG,08/03/2010,00:15,Atlético Tucumán,CA Banfield,0,0,D,0,0,D
+ARG,08/03/2010,20:00,San Lorenzo,Chacarita Juniors,3,1,H,1,1,D
+ARG,08/03/2010,22:10,GyE La Plata,Rosario Central,1,1,D,1,0,H
+ARG,09/03/2010,00:15,Arsenal Sarandí,CA Colón,3,0,H,1,0,H
+ARG,12/03/2010,22:00,Vélez Sársfield,CA Lanús,1,0,H,1,0,H
+ARG,13/03/2010,00:10,CD Godoy Cruz,Atlético Tucumán,2,1,H,1,0,H
+ARG,13/03/2010,20:00,Chacarita Juniors,Independiente,0,1,A,0,1,A
+ARG,13/03/2010,22:10,Estudiantes,Newell's Old Boys,2,0,H,1,0,H
+ARG,13/03/2010,22:10,CA Colón,GyE La Plata,1,1,D,1,1,D
+ARG,14/03/2010,00:15,CA Banfield,Arsenal Sarandí,0,0,D,0,0,D
+ARG,14/03/2010,20:00,River Plate,Huracán,2,0,H,1,0,H
+ARG,14/03/2010,20:00,Rosario Central,San Lorenzo,1,0,H,0,0,D
+ARG,14/03/2010,22:10,Tigre,Boca Juniors,3,0,H,2,0,H
+ARG,15/03/2010,00:15,Racing Club,Argentinos Juniors,0,1,A,0,0,D
+ARG,19/03/2010,21:00,Huracán,Chacarita Juniors,2,0,H,0,0,D
+ARG,20/03/2010,00:10,Atlético Tucumán,Estudiantes,1,3,A,1,1,D
+ARG,20/03/2010,18:00,San Lorenzo,CA Colón,2,2,D,1,2,A
+ARG,20/03/2010,20:10,CA Lanús,Racing Club,1,0,H,0,0,D
+ARG,20/03/2010,20:10,Newell's Old Boys,Vélez Sársfield,1,1,D,0,0,D
+ARG,20/03/2010,22:10,Argentinos Juniors,Tigre,1,1,D,1,0,H
+ARG,21/03/2010,20:10,Independiente,Rosario Central,2,0,H,0,0,D
+ARG,21/03/2010,22:10,GyE La Plata,Arsenal Sarandí,0,2,A,0,1,A
+ARG,22/03/2010,00:15,CD Godoy Cruz,CA Banfield,2,0,H,1,0,H
+ARG,25/03/2010,18:45,Boca Juniors,River Plate,2,0,H,2,0,H
+ARG,26/03/2010,22:00,Estudiantes,CD Godoy Cruz,2,1,H,2,0,H
+ARG,27/03/2010,00:10,Rosario Central,Huracán,0,2,A,0,0,D
+ARG,27/03/2010,18:00,Racing Club,Newell's Old Boys,1,0,H,0,0,D
+ARG,27/03/2010,22:10,Tigre,CA Lanús,0,1,A,0,0,D
+ARG,28/03/2010,00:15,CA Banfield,GyE La Plata,3,2,H,0,1,A
+ARG,28/03/2010,19:00,Chacarita Juniors,Boca Juniors,4,1,H,0,1,A
+ARG,28/03/2010,21:10,CA Colón,Independiente,1,1,D,1,1,D
+ARG,28/03/2010,23:10,Vélez Sársfield,Atlético Tucumán,1,0,H,1,0,H
+ARG,29/03/2010,01:15,Arsenal Sarandí,San Lorenzo,1,0,H,1,0,H
+ARG,30/03/2010,00:10,River Plate,Argentinos Juniors,0,1,A,0,1,A
+ARG,02/04/2010,23:00,Huracán,CA Colón,0,0,D,0,0,D
+ARG,03/04/2010,19:00,Argentinos Juniors,Chacarita Juniors,2,1,H,2,0,H
+ARG,03/04/2010,21:10,San Lorenzo,GyE La Plata,0,1,A,0,1,A
+ARG,03/04/2010,23:10,Newell's Old Boys,Tigre,0,2,A,0,1,A
+ARG,04/04/2010,01:15,Independiente,Arsenal Sarandí,1,0,H,1,0,H
+ARG,04/04/2010,19:00,Estudiantes,CA Banfield,1,1,D,1,1,D
+ARG,04/04/2010,21:10,Boca Juniors,Rosario Central,1,2,A,0,1,A
+ARG,04/04/2010,23:10,CD Godoy Cruz,Vélez Sársfield,2,0,H,0,0,D
+ARG,05/04/2010,01:15,CA Lanús,River Plate,1,0,H,1,0,H
+ARG,22/04/2010,01:00,Atlético Tucumán,Racing Club,0,1,A,0,0,D
+ARG,06/04/2010,21:00,Tigre,Atlético Tucumán,3,1,H,2,0,H
+ARG,06/04/2010,23:10,Arsenal Sarandí,Huracán,0,1,A,0,0,D
+ARG,07/04/2010,19:00,Chacarita Juniors,CA Lanús,1,2,A,0,0,D
+ARG,07/04/2010,21:10,GyE La Plata,Independiente,2,1,H,1,1,D
+ARG,07/04/2010,23:10,River Plate,Newell's Old Boys,0,1,A,0,0,D
+ARG,08/04/2010,01:15,CA Banfield,San Lorenzo,2,0,H,2,0,H
+ARG,08/04/2010,21:00,Vélez Sársfield,Estudiantes,0,1,A,0,1,A
+ARG,08/04/2010,23:10,CA Colón,Boca Juniors,3,0,H,2,0,H
+ARG,08/04/2010,23:10,Rosario Central,Argentinos Juniors,0,1,A,0,0,D
+ARG,09/04/2010,01:15,Racing Club,CD Godoy Cruz,0,0,D,0,0,D
+ARG,10/04/2010,20:00,Newell's Old Boys,Chacarita Juniors,3,0,H,1,0,H
+ARG,10/04/2010,22:10,Huracán,GyE La Plata,3,1,H,0,0,D
+ARG,11/04/2010,00:15,Independiente,San Lorenzo,0,1,A,0,1,A
+ARG,11/04/2010,20:00,CA Lanús,Rosario Central,0,0,D,0,0,D
+ARG,11/04/2010,22:10,Vélez Sársfield,CA Banfield,0,0,D,0,0,D
+ARG,12/04/2010,00:15,Atlético Tucumán,River Plate,0,0,D,0,0,D
+ARG,12/04/2010,18:00,CD Godoy Cruz,Tigre,6,2,H,1,0,H
+ARG,12/04/2010,20:10,Estudiantes,Racing Club,4,0,H,3,0,H
+ARG,12/04/2010,22:10,Boca Juniors,Arsenal Sarandí,4,0,H,2,0,H
+ARG,13/04/2010,00:30,Argentinos Juniors,CA Colón,3,1,H,2,0,H
+ARG,17/04/2010,18:00,Chacarita Juniors,Atlético Tucumán,1,2,A,0,0,D
+ARG,17/04/2010,20:10,Tigre,Estudiantes,1,2,A,1,2,A
+ARG,17/04/2010,22:10,CA Banfield,Independiente,1,3,A,1,2,A
+ARG,18/04/2010,00:15,River Plate,CD Godoy Cruz,2,1,H,0,1,A
+ARG,18/04/2010,18:00,San Lorenzo,Huracán,3,0,H,1,0,H
+ARG,18/04/2010,20:10,GyE La Plata,Boca Juniors,1,0,H,0,0,D
+ARG,18/04/2010,20:10,Rosario Central,Newell's Old Boys,1,1,D,1,1,D
+ARG,18/04/2010,23:00,Racing Club,Vélez Sársfield,3,1,H,0,1,A
+ARG,19/04/2010,23:00,Arsenal Sarandí,Argentinos Juniors,2,2,D,1,1,D
+ARG,20/04/2010,01:10,CA Colón,CA Lanús,1,1,D,0,0,D
+ARG,23/04/2010,23:00,Vélez Sársfield,Tigre,1,0,H,0,0,D
+ARG,24/04/2010,01:10,CD Godoy Cruz,Chacarita Juniors,1,0,H,1,0,H
+ARG,24/04/2010,18:00,CA Lanús,Arsenal Sarandí,4,1,H,2,0,H
+ARG,24/04/2010,20:10,Newell's Old Boys,CA Colón,5,0,H,4,0,H
+ARG,24/04/2010,22:10,Estudiantes,River Plate,1,0,H,1,0,H
+ARG,25/04/2010,00:15,Huracán,Independiente,0,0,D,0,0,D
+ARG,25/04/2010,18:00,Argentinos Juniors,GyE La Plata,3,1,H,1,0,H
+ARG,25/04/2010,20:10,Racing Club,CA Banfield,2,0,H,0,0,D
+ARG,25/04/2010,22:10,Atlético Tucumán,Rosario Central,2,2,D,1,1,D
+ARG,26/04/2010,00:15,Boca Juniors,San Lorenzo,2,0,H,1,0,H
+ARG,29/04/2010,23:10,Arsenal Sarandí,Newell's Old Boys,0,2,A,0,2,A
+ARG,30/04/2010,18:10,GyE La Plata,CA Lanús,0,0,D,0,0,D
+ARG,30/04/2010,20:15,Tigre,Racing Club,1,2,A,1,2,A
+ARG,30/04/2010,22:20,Rosario Central,CD Godoy Cruz,1,0,H,0,0,D
+ARG,01/05/2010,00:30,River Plate,Vélez Sársfield,2,1,H,1,1,D
+ARG,02/05/2010,15:10,CA Banfield,Huracán,1,0,H,0,0,D
+ARG,02/05/2010,18:10,CA Colón,Atlético Tucumán,0,0,D,0,0,D
+ARG,02/05/2010,20:15,San Lorenzo,Argentinos Juniors,1,2,A,1,0,H
+ARG,02/05/2010,20:15,Chacarita Juniors,Estudiantes,1,2,A,1,2,A
+ARG,02/05/2010,22:30,Independiente,Boca Juniors,2,3,A,1,2,A
+ARG,08/05/2010,19:10,Vélez Sársfield,Chacarita Juniors,4,1,H,3,1,H
+ARG,08/05/2010,21:20,Newell's Old Boys,GyE La Plata,6,0,H,3,0,H
+ARG,08/05/2010,23:30,Racing Club,River Plate,0,3,A,0,3,A
+ARG,09/05/2010,18:10,Argentinos Juniors,Independiente,4,3,H,1,1,D
+ARG,09/05/2010,18:10,Estudiantes,Rosario Central,0,0,D,0,0,D
+ARG,09/05/2010,20:20,Tigre,CA Banfield,1,2,A,0,0,D
+ARG,09/05/2010,22:30,Boca Juniors,Huracán,1,2,A,0,1,A
+ARG,09/05/2010,22:30,Atlético Tucumán,Arsenal Sarandí,1,1,D,0,1,A
+ARG,10/05/2010,23:10,CA Lanús,San Lorenzo,3,2,H,0,1,A
+ARG,11/05/2010,01:20,CD Godoy Cruz,CA Colón,3,0,H,0,0,D
+ARG,14/05/2010,18:10,Arsenal Sarandí,CD Godoy Cruz,1,2,A,0,0,D
+ARG,14/05/2010,20:15,San Lorenzo,Newell's Old Boys,2,1,H,0,0,D
+ARG,15/05/2010,00:20,CA Banfield,Boca Juniors,3,0,H,1,0,H
+ARG,15/05/2010,20:10,Chacarita Juniors,Racing Club,1,2,A,0,1,A
+ARG,15/05/2010,20:10,GyE La Plata,Atlético Tucumán,3,3,D,3,0,H
+ARG,15/05/2010,22:15,River Plate,Tigre,1,5,A,0,5,A
+ARG,16/05/2010,00:30,Independiente,CA Lanús,1,0,H,0,0,D
+ARG,16/05/2010,00:30,Rosario Central,Vélez Sársfield,0,0,D,0,0,D
+ARG,16/05/2010,20:00,Huracán,Argentinos Juniors,1,2,A,0,1,A
+ARG,16/05/2010,20:00,CA Colón,Estudiantes,1,4,A,0,2,A

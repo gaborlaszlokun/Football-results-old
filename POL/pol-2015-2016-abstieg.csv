@@ -1,0 +1,29 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+POL,16/04/2016,14:30,Korona Kielce,Śląsk Wrocław,1,1,D,0,0,D
+POL,17/04/2016,14:30,Podbeskidzie Bielsko-Biała,Termalica Bruk-Bet Nieciecza,0,1,A,NaN,NaN,NaN
+POL,17/04/2016,14:30,Jagiellonia Białystok,Górnik Łęczna,2,0,H,2,0,H
+POL,17/04/2016,17:00,Wisła Kraków,Górnik Zabrze,3,1,H,2,1,H
+POL,20/04/2016,17:00,Termalica Bruk-Bet Nieciecza,Korona Kielce,0,0,D,0,0,D
+POL,20/04/2016,17:00,Górnik Łęczna,Wisła Kraków,0,3,A,0,0,D
+POL,20/04/2016,19:30,Górnik Zabrze,Podbeskidzie Bielsko-Biała,1,0,H,1,0,H
+POL,20/04/2016,19:30,Śląsk Wrocław,Jagiellonia Białystok,3,1,H,2,1,H
+POL,23/04/2016,14:30,Korona Kielce,Górnik Łęczna,1,1,D,1,0,H
+POL,23/04/2016,17:00,Podbeskidzie Bielsko-Biała,Śląsk Wrocław,1,2,A,0,1,A
+POL,24/04/2016,14:30,Jagiellonia Białystok,Górnik Zabrze,0,0,D,0,0,D
+POL,25/04/2016,17:00,Wisła Kraków,Termalica Bruk-Bet Nieciecza,2,2,D,0,0,D
+POL,29/04/2016,17:00,Górnik Zabrze,Śląsk Wrocław,2,1,H,1,0,H
+POL,30/04/2016,17:00,Termalica Bruk-Bet Nieciecza,Górnik Łęczna,0,2,A,0,1,A
+POL,30/04/2016,19:30,Korona Kielce,Wisła Kraków,3,2,H,2,0,H
+POL,01/05/2016,14:30,Jagiellonia Białystok,Podbeskidzie Bielsko-Biała,3,2,H,1,1,D
+POL,06/05/2016,17:00,Podbeskidzie Bielsko-Biała,Korona Kielce,1,1,D,0,1,A
+POL,06/05/2016,19:30,Wisła Kraków,Jagiellonia Białystok,1,0,H,1,0,H
+POL,07/05/2016,14:30,Śląsk Wrocław,Termalica Bruk-Bet Nieciecza,2,1,H,1,0,H
+POL,07/05/2016,17:00,Górnik Łęczna,Górnik Zabrze,0,0,D,0,0,D
+POL,10/05/2016,19:30,Górnik Łęczna,Podbeskidzie Bielsko-Biała,5,1,H,2,0,H
+POL,10/05/2016,19:30,Wisła Kraków,Śląsk Wrocław,1,1,D,0,0,D
+POL,10/05/2016,19:30,Górnik Zabrze,Korona Kielce,0,0,D,0,0,D
+POL,10/05/2016,19:30,Jagiellonia Białystok,Termalica Bruk-Bet Nieciecza,0,1,A,0,0,D
+POL,14/05/2016,14:30,Podbeskidzie Bielsko-Biała,Wisła Kraków,3,4,A,2,1,H
+POL,14/05/2016,14:30,Śląsk Wrocław,Górnik Łęczna,3,2,H,1,1,D
+POL,14/05/2016,14:30,Korona Kielce,Jagiellonia Białystok,1,3,A,0,1,A
+POL,14/05/2016,14:30,Termalica Bruk-Bet Nieciecza,Górnik Zabrze,1,1,D,0,1,A

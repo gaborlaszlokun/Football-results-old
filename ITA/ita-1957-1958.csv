@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,08/09/1957,,Bologna FC,Udinese Calcio,2,2,D,NaN,NaN,NaN
+ITA,08/09/1957,,Inter,Torino FC,0,0,D,NaN,NaN,NaN
+ITA,08/09/1957,,Juventus,Hellas Verona,3,2,H,NaN,NaN,NaN
+ITA,08/09/1957,,Lanerossi Vicenza,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,08/09/1957,,SSC Napoli,Genoa CFC,4,0,H,NaN,NaN,NaN
+ITA,08/09/1957,,Calcio Padova,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,08/09/1957,,AS Roma,SPAL 1907 Ferrara,1,1,D,NaN,NaN,NaN
+ITA,08/09/1957,,Sampdoria,Atalanta,1,1,D,NaN,NaN,NaN
+ITA,08/09/1957,,US Alessandria 1912,ACF Fiorentina,1,0,H,NaN,NaN,NaN
+ITA,15/09/1957,,ACF Fiorentina,Sampdoria,1,1,D,NaN,NaN,NaN
+ITA,15/09/1957,,Hellas Verona,Lanerossi Vicenza,1,0,H,NaN,NaN,NaN
+ITA,15/09/1957,,Udinese Calcio,Juventus,0,1,A,NaN,NaN,NaN
+ITA,15/09/1957,,Torino FC,US Alessandria 1912,0,0,D,NaN,NaN,NaN
+ITA,15/09/1957,,SPAL 1907 Ferrara,Inter,2,0,H,NaN,NaN,NaN
+ITA,15/09/1957,,AC Milan,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,15/09/1957,,Genoa CFC,Calcio Padova,1,4,A,NaN,NaN,NaN
+ITA,15/09/1957,,Atalanta,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,15/09/1957,,Lazio Roma,Bologna FC,4,3,H,NaN,NaN,NaN
+ITA,22/09/1957,,SSC Napoli,Torino FC,3,0,H,NaN,NaN,NaN
+ITA,22/09/1957,,Bologna FC,ACF Fiorentina,0,3,A,NaN,NaN,NaN
+ITA,22/09/1957,,Udinese Calcio,SPAL 1907 Ferrara,5,0,H,NaN,NaN,NaN
+ITA,22/09/1957,,Sampdoria,Hellas Verona,1,1,D,NaN,NaN,NaN
+ITA,22/09/1957,,AS Roma,Calcio Padova,3,1,H,NaN,NaN,NaN
+ITA,22/09/1957,,US Alessandria 1912,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,22/09/1957,,Inter,Lazio Roma,5,2,H,NaN,NaN,NaN
+ITA,22/09/1957,,Juventus,Genoa CFC,3,2,H,NaN,NaN,NaN
+ITA,22/09/1957,,Lanerossi Vicenza,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,29/09/1957,,AC Milan,Sampdoria,0,1,A,NaN,NaN,NaN
+ITA,29/09/1957,,Hellas Verona,US Alessandria 1912,3,0,H,NaN,NaN,NaN
+ITA,29/09/1957,,Torino FC,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,29/09/1957,,Calcio Padova,Inter,0,0,D,NaN,NaN,NaN
+ITA,29/09/1957,,Lazio Roma,Lanerossi Vicenza,2,0,H,NaN,NaN,NaN
+ITA,29/09/1957,,Genoa CFC,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,29/09/1957,,ACF Fiorentina,Udinese Calcio,2,0,H,NaN,NaN,NaN
+ITA,29/09/1957,,Atalanta,SSC Napoli,2,4,A,NaN,NaN,NaN
+ITA,29/09/1957,,SPAL 1907 Ferrara,Juventus,0,1,A,NaN,NaN,NaN
+ITA,06/10/1957,,Bologna FC,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,06/10/1957,,SSC Napoli,Hellas Verona,6,0,H,NaN,NaN,NaN
+ITA,06/10/1957,,Udinese Calcio,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,06/10/1957,,Sampdoria,SPAL 1907 Ferrara,1,1,D,NaN,NaN,NaN
+ITA,06/10/1957,,AS Roma,Genoa CFC,2,1,H,NaN,NaN,NaN
+ITA,06/10/1957,,US Alessandria 1912,Lazio Roma,4,0,H,NaN,NaN,NaN
+ITA,06/10/1957,,Inter,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,06/10/1957,,Juventus,Calcio Padova,2,1,H,NaN,NaN,NaN
+ITA,06/10/1957,,Lanerossi Vicenza,ACF Fiorentina,3,0,H,NaN,NaN,NaN
+ITA,13/10/1957,,Inter,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,13/10/1957,,Udinese Calcio,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,13/10/1957,,Torino FC,Juventus,0,1,A,NaN,NaN,NaN
+ITA,13/10/1957,,AS Roma,Hellas Verona,2,1,H,NaN,NaN,NaN
+ITA,13/10/1957,,Lanerossi Vicenza,SPAL 1907 Ferrara,2,0,H,NaN,NaN,NaN
+ITA,13/10/1957,,Genoa CFC,ACF Fiorentina,1,3,A,NaN,NaN,NaN
+ITA,13/10/1957,,Bologna FC,Sampdoria,3,3,D,NaN,NaN,NaN
+ITA,13/10/1957,,Atalanta,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,13/10/1957,,SSC Napoli,Calcio Padova,4,0,H,NaN,NaN,NaN
+ITA,20/10/1957,,Lazio Roma,SSC Napoli,4,1,H,NaN,NaN,NaN
+ITA,20/10/1957,,Torino FC,Udinese Calcio,6,2,H,NaN,NaN,NaN
+ITA,20/10/1957,,SPAL 1907 Ferrara,US Alessandria 1912,3,2,H,NaN,NaN,NaN
+ITA,20/10/1957,,Hellas Verona,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,20/10/1957,,Genoa CFC,Sampdoria,3,1,H,NaN,NaN,NaN
+ITA,20/10/1957,,ACF Fiorentina,AS Roma,2,0,H,NaN,NaN,NaN
+ITA,20/10/1957,,Atalanta,Inter,1,0,H,NaN,NaN,NaN
+ITA,20/10/1957,,Calcio Padova,Lanerossi Vicenza,1,0,H,NaN,NaN,NaN
+ITA,20/10/1957,,AC Milan,Juventus,1,1,D,NaN,NaN,NaN
+ITA,27/10/1957,,AC Milan,Atalanta,5,0,H,NaN,NaN,NaN
+ITA,27/10/1957,,Hellas Verona,Udinese Calcio,3,2,H,NaN,NaN,NaN
+ITA,27/10/1957,,SPAL 1907 Ferrara,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,27/10/1957,,Sampdoria,Lanerossi Vicenza,1,1,D,NaN,NaN,NaN
+ITA,27/10/1957,,Calcio Padova,Torino FC,3,0,H,NaN,NaN,NaN
+ITA,27/10/1957,,Juventus,Inter,3,1,H,NaN,NaN,NaN
+ITA,27/10/1957,,ACF Fiorentina,SSC Napoli,4,1,H,NaN,NaN,NaN
+ITA,27/10/1957,,US Alessandria 1912,Bologna FC,2,0,H,NaN,NaN,NaN
+ITA,27/10/1957,,AS Roma,Lazio Roma,3,0,H,NaN,NaN,NaN
+ITA,03/11/1957,,SSC Napoli,SPAL 1907 Ferrara,2,0,H,NaN,NaN,NaN
+ITA,03/11/1957,,Lanerossi Vicenza,Juventus,2,1,H,NaN,NaN,NaN
+ITA,03/11/1957,,Torino FC,AC Milan,3,2,H,NaN,NaN,NaN
+ITA,03/11/1957,,Lazio Roma,ACF Fiorentina,2,2,D,NaN,NaN,NaN
+ITA,03/11/1957,,Genoa CFC,US Alessandria 1912,0,2,A,NaN,NaN,NaN
+ITA,03/11/1957,,Atalanta,Calcio Padova,1,1,D,NaN,NaN,NaN
+ITA,03/11/1957,,Bologna FC,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,03/11/1957,,Udinese Calcio,Sampdoria,3,3,D,NaN,NaN,NaN
+ITA,03/11/1957,,Inter,Hellas Verona,1,0,H,NaN,NaN,NaN
+ITA,10/11/1957,,Lanerossi Vicenza,Genoa CFC,3,3,D,NaN,NaN,NaN
+ITA,10/11/1957,,Hellas Verona,Atalanta,3,0,H,NaN,NaN,NaN
+ITA,10/11/1957,,SPAL 1907 Ferrara,Bologna FC,0,2,A,NaN,NaN,NaN
+ITA,10/11/1957,,Sampdoria,Inter,0,2,A,NaN,NaN,NaN
+ITA,10/11/1957,,AC Milan,Calcio Padova,1,1,D,NaN,NaN,NaN
+ITA,10/11/1957,,Juventus,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,10/11/1957,,ACF Fiorentina,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,10/11/1957,,US Alessandria 1912,SSC Napoli,0,0,D,NaN,NaN,NaN
+ITA,10/11/1957,,AS Roma,Udinese Calcio,3,3,D,NaN,NaN,NaN
+ITA,17/11/1957,,SSC Napoli,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,17/11/1957,,Torino FC,SPAL 1907 Ferrara,0,1,A,NaN,NaN,NaN
+ITA,17/11/1957,,Hellas Verona,ACF Fiorentina,0,1,A,NaN,NaN,NaN
+ITA,17/11/1957,,Calcio Padova,Sampdoria,2,0,H,NaN,NaN,NaN
+ITA,17/11/1957,,Inter,Udinese Calcio,0,1,A,NaN,NaN,NaN
+ITA,17/11/1957,,Genoa CFC,Atalanta,1,2,A,NaN,NaN,NaN
+ITA,17/11/1957,,US Alessandria 1912,Lanerossi Vicenza,2,1,H,NaN,NaN,NaN
+ITA,17/11/1957,,Bologna FC,Juventus,3,4,A,NaN,NaN,NaN
+ITA,17/11/1957,,Lazio Roma,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,24/11/1957,,SPAL 1907 Ferrara,Hellas Verona,1,1,D,NaN,NaN,NaN
+ITA,24/11/1957,,Atalanta,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,24/11/1957,,Udinese Calcio,Genoa CFC,2,2,D,NaN,NaN,NaN
+ITA,24/11/1957,,Sampdoria,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,24/11/1957,,AS Roma,Lanerossi Vicenza,1,1,D,NaN,NaN,NaN
+ITA,24/11/1957,,AC Milan,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,24/11/1957,,Juventus,SSC Napoli,1,3,A,NaN,NaN,NaN
+ITA,24/11/1957,,ACF Fiorentina,Inter,0,0,D,NaN,NaN,NaN
+ITA,24/11/1957,,Calcio Padova,US Alessandria 1912,2,1,H,NaN,NaN,NaN
+ITA,15/12/1957,,Lanerossi Vicenza,Inter,2,0,H,NaN,NaN,NaN
+ITA,15/12/1957,,Udinese Calcio,Calcio Padova,1,2,A,NaN,NaN,NaN
+ITA,15/12/1957,,SPAL 1907 Ferrara,ACF Fiorentina,2,2,D,NaN,NaN,NaN
+ITA,15/12/1957,,SSC Napoli,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,15/12/1957,,US Alessandria 1912,Sampdoria,2,0,H,NaN,NaN,NaN
+ITA,15/12/1957,,Lazio Roma,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,15/12/1957,,Juventus,Atalanta,3,0,H,NaN,NaN,NaN
+ITA,15/12/1957,,Genoa CFC,Hellas Verona,4,1,H,NaN,NaN,NaN
+ITA,15/12/1957,,AC Milan,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,22/12/1957,,Calcio Padova,SPAL 1907 Ferrara,3,0,H,NaN,NaN,NaN
+ITA,22/12/1957,,Torino FC,Lanerossi Vicenza,1,0,H,NaN,NaN,NaN
+ITA,22/12/1957,,Hellas Verona,AC Milan,4,3,H,NaN,NaN,NaN
+ITA,22/12/1957,,Sampdoria,SSC Napoli,3,0,H,NaN,NaN,NaN
+ITA,22/12/1957,,Inter,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,22/12/1957,,ACF Fiorentina,Juventus,2,1,H,NaN,NaN,NaN
+ITA,22/12/1957,,US Alessandria 1912,AS Roma,1,3,A,NaN,NaN,NaN
+ITA,22/12/1957,,Bologna FC,Atalanta,3,1,H,NaN,NaN,NaN
+ITA,22/12/1957,,Lazio Roma,Udinese Calcio,1,0,H,NaN,NaN,NaN
+ITA,29/12/1957,,Lanerossi Vicenza,Bologna FC,3,2,H,NaN,NaN,NaN
+ITA,29/12/1957,,Hellas Verona,Calcio Padova,1,1,D,NaN,NaN,NaN
+ITA,29/12/1957,,SPAL 1907 Ferrara,Lazio Roma,3,0,H,NaN,NaN,NaN
+ITA,29/12/1957,,AS Roma,Inter,0,1,A,NaN,NaN,NaN
+ITA,29/12/1957,,AC Milan,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,29/12/1957,,Juventus,Sampdoria,4,1,H,NaN,NaN,NaN
+ITA,29/12/1957,,Genoa CFC,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,29/12/1957,,Atalanta,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,29/12/1957,,SSC Napoli,Udinese Calcio,3,2,H,NaN,NaN,NaN
+ITA,05/01/1958,,Inter,SSC Napoli,0,1,A,NaN,NaN,NaN
+ITA,05/01/1958,,Torino FC,Hellas Verona,0,0,D,NaN,NaN,NaN
+ITA,05/01/1958,,SPAL 1907 Ferrara,AC Milan,1,5,A,NaN,NaN,NaN
+ITA,05/01/1958,,Udinese Calcio,Lanerossi Vicenza,0,1,A,NaN,NaN,NaN
+ITA,05/01/1958,,ACF Fiorentina,Atalanta,2,2,D,NaN,NaN,NaN
+ITA,05/01/1958,,Bologna FC,Calcio Padova,0,0,D,NaN,NaN,NaN
+ITA,05/01/1958,,US Alessandria 1912,Juventus,1,2,A,NaN,NaN,NaN
+ITA,05/01/1958,,Sampdoria,AS Roma,3,1,H,NaN,NaN,NaN
+ITA,05/01/1958,,Lazio Roma,Genoa CFC,0,0,D,NaN,NaN,NaN
+ITA,12/01/1958,,SSC Napoli,Lanerossi Vicenza,3,1,H,NaN,NaN,NaN
+ITA,12/01/1958,,Hellas Verona,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,12/01/1958,,Udinese Calcio,US Alessandria 1912,2,0,H,NaN,NaN,NaN
+ITA,12/01/1958,,Torino FC,Sampdoria,4,3,H,NaN,NaN,NaN
+ITA,12/01/1958,,Calcio Padova,ACF Fiorentina,3,2,H,NaN,NaN,NaN
+ITA,12/01/1958,,Inter,Bologna FC,0,2,A,NaN,NaN,NaN
+ITA,12/01/1958,,Genoa CFC,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,12/01/1958,,Atalanta,SPAL 1907 Ferrara,0,0,D,NaN,NaN,NaN
+ITA,12/01/1958,,AS Roma,Juventus,4,1,H,NaN,NaN,NaN
+ITA,26/01/1958,,SPAL 1907 Ferrara,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,26/01/1958,,ACF Fiorentina,US Alessandria 1912,0,0,D,NaN,NaN,NaN
+ITA,26/01/1958,,Hellas Verona,Juventus,2,3,A,NaN,NaN,NaN
+ITA,26/01/1958,,Udinese Calcio,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,26/01/1958,,Torino FC,Inter,2,3,A,NaN,NaN,NaN
+ITA,26/01/1958,,Atalanta,Sampdoria,1,0,H,NaN,NaN,NaN
+ITA,26/01/1958,,Genoa CFC,SSC Napoli,2,1,H,NaN,NaN,NaN
+ITA,26/01/1958,,Lazio Roma,Calcio Padova,1,0,H,NaN,NaN,NaN
+ITA,26/01/1958,,AC Milan,Lanerossi Vicenza,4,1,H,NaN,NaN,NaN
+ITA,02/02/1958,,Juventus,Udinese Calcio,2,0,H,NaN,NaN,NaN
+ITA,02/02/1958,,AS Roma,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,02/02/1958,,Calcio Padova,Genoa CFC,6,3,H,NaN,NaN,NaN
+ITA,02/02/1958,,Lanerossi Vicenza,Hellas Verona,1,1,D,NaN,NaN,NaN
+ITA,02/02/1958,,Sampdoria,ACF Fiorentina,3,1,H,NaN,NaN,NaN
+ITA,02/02/1958,,Inter,SPAL 1907 Ferrara,4,0,H,NaN,NaN,NaN
+ITA,02/02/1958,,Bologna FC,Lazio Roma,5,0,H,NaN,NaN,NaN
+ITA,02/02/1958,,US Alessandria 1912,Torino FC,0,0,D,NaN,NaN,NaN
+ITA,02/02/1958,,SSC Napoli,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,09/02/1958,,AC Milan,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,09/02/1958,,Torino FC,SSC Napoli,4,3,H,NaN,NaN,NaN
+ITA,09/02/1958,,SPAL 1907 Ferrara,Udinese Calcio,2,0,H,NaN,NaN,NaN
+ITA,09/02/1958,,Calcio Padova,AS Roma,3,0,H,NaN,NaN,NaN
+ITA,09/02/1958,,Lazio Roma,Inter,3,1,H,NaN,NaN,NaN
+ITA,09/02/1958,,Genoa CFC,Juventus,1,3,A,NaN,NaN,NaN
+ITA,09/02/1958,,Atalanta,Lanerossi Vicenza,2,4,A,NaN,NaN,NaN
+ITA,09/02/1958,,Hellas Verona,Sampdoria,5,3,H,NaN,NaN,NaN
+ITA,09/02/1958,,ACF Fiorentina,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,16/02/1958,,SSC Napoli,Atalanta,2,2,D,NaN,NaN,NaN
+ITA,16/02/1958,,Udinese Calcio,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,16/02/1958,,Sampdoria,AC Milan,0,2,A,NaN,NaN,NaN
+ITA,16/02/1958,,AS Roma,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,16/02/1958,,Juventus,SPAL 1907 Ferrara,3,1,H,NaN,NaN,NaN
+ITA,16/02/1958,,Inter,Calcio Padova,0,0,D,NaN,NaN,NaN
+ITA,16/02/1958,,US Alessandria 1912,Hellas Verona,3,1,H,NaN,NaN,NaN
+ITA,16/02/1958,,Bologna FC,Genoa CFC,3,3,D,NaN,NaN,NaN
+ITA,16/02/1958,,Lanerossi Vicenza,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,23/02/1958,,Lazio Roma,US Alessandria 1912,2,1,H,NaN,NaN,NaN
+ITA,23/02/1958,,Hellas Verona,SSC Napoli,4,3,H,NaN,NaN,NaN
+ITA,23/02/1958,,Torino FC,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,23/02/1958,,SPAL 1907 Ferrara,Sampdoria,1,0,H,NaN,NaN,NaN
+ITA,23/02/1958,,AC Milan,Inter,2,2,D,NaN,NaN,NaN
+ITA,23/02/1958,,Genoa CFC,AS Roma,4,2,H,NaN,NaN,NaN
+ITA,23/02/1958,,ACF Fiorentina,Lanerossi Vicenza,2,1,H,NaN,NaN,NaN
+ITA,23/02/1958,,Atalanta,Udinese Calcio,1,1,D,NaN,NaN,NaN
+ITA,23/02/1958,,Calcio Padova,Juventus,1,1,D,NaN,NaN,NaN
+ITA,02/03/1958,,Calcio Padova,SSC Napoli,3,0,H,NaN,NaN,NaN
+ITA,02/03/1958,,Hellas Verona,AS Roma,0,1,A,NaN,NaN,NaN
+ITA,02/03/1958,,SPAL 1907 Ferrara,Lanerossi Vicenza,1,3,A,NaN,NaN,NaN
+ITA,02/03/1958,,Sampdoria,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,02/03/1958,,Lazio Roma,Atalanta,3,1,H,NaN,NaN,NaN
+ITA,02/03/1958,,Juventus,Torino FC,4,1,H,NaN,NaN,NaN
+ITA,02/03/1958,,ACF Fiorentina,Genoa CFC,2,0,H,NaN,NaN,NaN
+ITA,02/03/1958,,US Alessandria 1912,Inter,2,1,H,NaN,NaN,NaN
+ITA,02/03/1958,,AC Milan,Udinese Calcio,1,1,D,NaN,NaN,NaN
+ITA,09/03/1958,,Juventus,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,09/03/1958,,Udinese Calcio,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,09/03/1958,,Sampdoria,Genoa CFC,0,0,D,NaN,NaN,NaN
+ITA,09/03/1958,,AS Roma,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,09/03/1958,,Lanerossi Vicenza,Calcio Padova,1,2,A,NaN,NaN,NaN
+ITA,09/03/1958,,Inter,Atalanta,1,1,D,NaN,NaN,NaN
+ITA,09/03/1958,,Bologna FC,Hellas Verona,1,0,H,NaN,NaN,NaN
+ITA,09/03/1958,,US Alessandria 1912,SPAL 1907 Ferrara,0,0,D,NaN,NaN,NaN
+ITA,09/03/1958,,SSC Napoli,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,16/03/1958,,Inter,Juventus,2,2,D,NaN,NaN,NaN
+ITA,16/03/1958,,Torino FC,Calcio Padova,2,0,H,NaN,NaN,NaN
+ITA,16/03/1958,,SSC Napoli,ACF Fiorentina,3,1,H,NaN,NaN,NaN
+ITA,16/03/1958,,Udinese Calcio,Hellas Verona,2,0,H,NaN,NaN,NaN
+ITA,16/03/1958,,Genoa CFC,SPAL 1907 Ferrara,0,0,D,NaN,NaN,NaN
+ITA,16/03/1958,,Bologna FC,US Alessandria 1912,3,1,H,NaN,NaN,NaN
+ITA,16/03/1958,,Atalanta,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,16/03/1958,,Lanerossi Vicenza,Sampdoria,2,4,A,NaN,NaN,NaN
+ITA,16/03/1958,,Lazio Roma,AS Roma,2,1,H,NaN,NaN,NaN
+ITA,30/03/1958,,AC Milan,Torino FC,4,0,H,NaN,NaN,NaN
+ITA,30/03/1958,,Hellas Verona,Inter,2,4,A,NaN,NaN,NaN
+ITA,30/03/1958,,SPAL 1907 Ferrara,SSC Napoli,1,2,A,NaN,NaN,NaN
+ITA,30/03/1958,,Sampdoria,Udinese Calcio,3,5,A,NaN,NaN,NaN
+ITA,30/03/1958,,Calcio Padova,Atalanta,0,3,A,NaN,NaN,NaN
+ITA,30/03/1958,,Juventus,Lanerossi Vicenza,5,2,H,NaN,NaN,NaN
+ITA,30/03/1958,,ACF Fiorentina,Lazio Roma,2,0,H,NaN,NaN,NaN
+ITA,30/03/1958,,US Alessandria 1912,Genoa CFC,3,1,H,NaN,NaN,NaN
+ITA,30/03/1958,,AS Roma,Bologna FC,2,0,H,NaN,NaN,NaN
+ITA,06/04/1958,,SSC Napoli,US Alessandria 1912,4,1,H,NaN,NaN,NaN
+ITA,06/04/1958,,Torino FC,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,06/04/1958,,Udinese Calcio,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,06/04/1958,,Calcio Padova,AC Milan,3,2,H,NaN,NaN,NaN
+ITA,06/04/1958,,Inter,Sampdoria,2,2,D,NaN,NaN,NaN
+ITA,06/04/1958,,Genoa CFC,Lanerossi Vicenza,1,0,H,NaN,NaN,NaN
+ITA,06/04/1958,,Atalanta,Hellas Verona,2,1,H,NaN,NaN,NaN
+ITA,06/04/1958,,Bologna FC,SPAL 1907 Ferrara,0,1,A,NaN,NaN,NaN
+ITA,06/04/1958,,Lazio Roma,Juventus,1,4,A,NaN,NaN,NaN
+ITA,13/04/1958,,Lanerossi Vicenza,US Alessandria 1912,4,0,H,NaN,NaN,NaN
+ITA,13/04/1958,,Udinese Calcio,Inter,1,1,D,NaN,NaN,NaN
+ITA,13/04/1958,,SPAL 1907 Ferrara,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,13/04/1958,,Sampdoria,Calcio Padova,3,2,H,NaN,NaN,NaN
+ITA,13/04/1958,,AC Milan,Lazio Roma,6,1,H,NaN,NaN,NaN
+ITA,13/04/1958,,Juventus,Bologna FC,4,1,H,NaN,NaN,NaN
+ITA,13/04/1958,,ACF Fiorentina,Hellas Verona,1,1,D,NaN,NaN,NaN
+ITA,13/04/1958,,Atalanta,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,13/04/1958,,AS Roma,SSC Napoli,0,2,A,NaN,NaN,NaN
+ITA,20/04/1958,,Inter,ACF Fiorentina,0,1,A,NaN,NaN,NaN
+ITA,20/04/1958,,Hellas Verona,SPAL 1907 Ferrara,1,2,A,NaN,NaN,NaN
+ITA,20/04/1958,,Torino FC,Atalanta,4,0,H,NaN,NaN,NaN
+ITA,20/04/1958,,SSC Napoli,Juventus,4,3,H,NaN,NaN,NaN
+ITA,20/04/1958,,Genoa CFC,Udinese Calcio,1,0,H,NaN,NaN,NaN
+ITA,20/04/1958,,Bologna FC,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,20/04/1958,,US Alessandria 1912,Calcio Padova,0,0,D,NaN,NaN,NaN
+ITA,20/04/1958,,Lazio Roma,Sampdoria,2,2,D,NaN,NaN,NaN
+ITA,20/04/1958,,Lanerossi Vicenza,AS Roma,3,1,H,NaN,NaN,NaN
+ITA,27/04/1958,,Inter,Lanerossi Vicenza,1,0,H,NaN,NaN,NaN
+ITA,27/04/1958,,Hellas Verona,Genoa CFC,1,3,A,NaN,NaN,NaN
+ITA,27/04/1958,,Torino FC,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,27/04/1958,,Sampdoria,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,27/04/1958,,Calcio Padova,Udinese Calcio,0,0,D,NaN,NaN,NaN
+ITA,27/04/1958,,ACF Fiorentina,SPAL 1907 Ferrara,3,0,H,NaN,NaN,NaN
+ITA,27/04/1958,,Bologna FC,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,27/04/1958,,Atalanta,Juventus,0,0,D,NaN,NaN,NaN
+ITA,27/04/1958,,AS Roma,AC Milan,3,3,D,NaN,NaN,NaN
+ITA,04/05/1958,,Lanerossi Vicenza,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,04/05/1958,,SPAL 1907 Ferrara,Calcio Padova,1,1,D,NaN,NaN,NaN
+ITA,04/05/1958,,AS Roma,US Alessandria 1912,2,1,H,NaN,NaN,NaN
+ITA,04/05/1958,,Udinese Calcio,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,04/05/1958,,Juventus,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,04/05/1958,,Genoa CFC,Inter,0,0,D,NaN,NaN,NaN
+ITA,04/05/1958,,Atalanta,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,04/05/1958,,SSC Napoli,Sampdoria,0,1,A,NaN,NaN,NaN
+ITA,04/05/1958,,AC Milan,Hellas Verona,2,0,H,NaN,NaN,NaN
+ITA,11/05/1958,,Inter,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,11/05/1958,,Udinese Calcio,SSC Napoli,7,0,H,NaN,NaN,NaN
+ITA,11/05/1958,,Torino FC,Genoa CFC,4,2,H,NaN,NaN,NaN
+ITA,11/05/1958,,Sampdoria,Juventus,3,2,H,NaN,NaN,NaN
+ITA,11/05/1958,,Lazio Roma,SPAL 1907 Ferrara,1,1,D,NaN,NaN,NaN
+ITA,11/05/1958,,ACF Fiorentina,AC Milan,4,3,H,NaN,NaN,NaN
+ITA,11/05/1958,,Bologna FC,Lanerossi Vicenza,4,0,H,NaN,NaN,NaN
+ITA,11/05/1958,,US Alessandria 1912,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,11/05/1958,,Calcio Padova,Hellas Verona,2,0,H,NaN,NaN,NaN
+ITA,18/05/1958,,Lanerossi Vicenza,Udinese Calcio,0,0,D,NaN,NaN,NaN
+ITA,18/05/1958,,AS Roma,Sampdoria,5,1,H,NaN,NaN,NaN
+ITA,18/05/1958,,Calcio Padova,Bologna FC,3,1,H,NaN,NaN,NaN
+ITA,18/05/1958,,Hellas Verona,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,18/05/1958,,Juventus,US Alessandria 1912,2,1,H,NaN,NaN,NaN
+ITA,18/05/1958,,Genoa CFC,Lazio Roma,5,2,H,NaN,NaN,NaN
+ITA,18/05/1958,,Atalanta,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,18/05/1958,,SSC Napoli,Inter,1,0,H,NaN,NaN,NaN
+ITA,18/05/1958,,AC Milan,SPAL 1907 Ferrara,4,2,H,NaN,NaN,NaN
+ITA,25/05/1958,,Juventus,AS Roma,3,0,H,NaN,NaN,NaN
+ITA,25/05/1958,,Sampdoria,Torino FC,4,0,H,NaN,NaN,NaN
+ITA,25/05/1958,,AC Milan,Genoa CFC,1,5,A,NaN,NaN,NaN
+ITA,25/05/1958,,Lanerossi Vicenza,SSC Napoli,4,0,H,NaN,NaN,NaN
+ITA,25/05/1958,,ACF Fiorentina,Calcio Padova,6,1,H,NaN,NaN,NaN
+ITA,25/05/1958,,Bologna FC,Inter,1,0,H,NaN,NaN,NaN
+ITA,25/05/1958,,US Alessandria 1912,Udinese Calcio,1,2,A,NaN,NaN,NaN
+ITA,25/05/1958,,SPAL 1907 Ferrara,Atalanta,2,1,H,NaN,NaN,NaN
+ITA,25/05/1958,,Lazio Roma,Hellas Verona,4,0,H,NaN,NaN,NaN

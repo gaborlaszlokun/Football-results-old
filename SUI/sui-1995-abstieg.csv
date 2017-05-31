@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,26/02/1995,13:30,Yverdon-Sport FC,BSC Young Boys,1,2,A,NaN,NaN,NaN
+SUI,26/02/1995,13:30,Servette Genève,FC Winterthur,0,0,D,NaN,NaN,NaN
+SUI,16/03/1995,18:00,SC Kriens,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,21/04/1995,17:30,FC Solothurn,FC St. Gallen,0,3,A,NaN,NaN,NaN
+SUI,04/03/1995,15:00,FC Winterthur,FC Solothurn,3,1,H,NaN,NaN,NaN
+SUI,05/03/1995,13:30,BSC Young Boys,Servette Genève,2,1,H,NaN,NaN,NaN
+SUI,05/03/1995,13:30,FC Zürich,Yverdon-Sport FC,2,1,H,NaN,NaN,NaN
+SUI,24/03/1995,18:00,FC St. Gallen,SC Kriens,1,0,H,NaN,NaN,NaN
+SUI,12/03/1995,13:30,FC Solothurn,FC Zürich,2,2,D,NaN,NaN,NaN
+SUI,12/03/1995,13:30,SC Kriens,BSC Young Boys,0,1,A,NaN,NaN,NaN
+SUI,12/03/1995,13:30,Yverdon-Sport FC,FC Winterthur,1,1,D,NaN,NaN,NaN
+SUI,09/05/1995,19:00,Servette Genève,FC St. Gallen,0,0,D,NaN,NaN,NaN
+SUI,01/04/1995,16:30,FC St. Gallen,Yverdon-Sport FC,0,1,A,NaN,NaN,NaN
+SUI,01/04/1995,16:30,FC Zürich,Servette Genève,0,1,A,NaN,NaN,NaN
+SUI,01/04/1995,19:00,FC Winterthur,SC Kriens,1,2,A,NaN,NaN,NaN
+SUI,02/04/1995,13:30,BSC Young Boys,FC Solothurn,4,0,H,NaN,NaN,NaN
+SUI,08/04/1995,16:30,FC Solothurn,Yverdon-Sport FC,0,1,A,NaN,NaN,NaN
+SUI,08/04/1995,16:30,FC St. Gallen,BSC Young Boys,2,2,D,NaN,NaN,NaN
+SUI,08/04/1995,19:00,Servette Genève,SC Kriens,1,1,D,NaN,NaN,NaN
+SUI,08/04/1995,19:00,FC Winterthur,FC Zürich,0,1,A,NaN,NaN,NaN
+SUI,12/04/1995,19:00,SC Kriens,FC Solothurn,0,0,D,NaN,NaN,NaN
+SUI,12/04/1995,19:00,BSC Young Boys,FC Winterthur,2,0,H,NaN,NaN,NaN
+SUI,12/04/1995,19:00,Yverdon-Sport FC,Servette Genève,0,1,A,NaN,NaN,NaN
+SUI,12/04/1995,19:00,FC Zürich,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,29/04/1995,16:30,FC St. Gallen,FC Winterthur,1,1,D,NaN,NaN,NaN
+SUI,29/04/1995,19:00,SC Kriens,Yverdon-Sport FC,1,0,H,NaN,NaN,NaN
+SUI,29/04/1995,19:00,BSC Young Boys,FC Zürich,2,2,D,NaN,NaN,NaN
+SUI,29/04/1995,19:00,Servette Genève,FC Solothurn,2,0,H,NaN,NaN,NaN
+SUI,06/05/1995,16:30,FC Solothurn,Servette Genève,0,1,A,NaN,NaN,NaN
+SUI,06/05/1995,16:30,FC Winterthur,FC St. Gallen,0,2,A,NaN,NaN,NaN
+SUI,06/05/1995,16:30,Yverdon-Sport FC,SC Kriens,3,2,H,NaN,NaN,NaN
+SUI,06/05/1995,16:30,FC Zürich,BSC Young Boys,1,0,H,NaN,NaN,NaN
+SUI,13/05/1995,16:30,FC Solothurn,SC Kriens,1,1,D,NaN,NaN,NaN
+SUI,13/05/1995,16:30,FC St. Gallen,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,13/05/1995,16:30,FC Winterthur,BSC Young Boys,3,1,H,NaN,NaN,NaN
+SUI,13/05/1995,19:00,Servette Genève,Yverdon-Sport FC,3,3,D,NaN,NaN,NaN
+SUI,20/05/1995,16:30,FC Zürich,FC Winterthur,0,0,D,NaN,NaN,NaN
+SUI,20/05/1995,19:00,BSC Young Boys,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,20/05/1995,19:00,SC Kriens,Servette Genève,2,1,H,NaN,NaN,NaN
+SUI,20/05/1995,19:00,Yverdon-Sport FC,FC Solothurn,3,0,H,NaN,NaN,NaN
+SUI,27/05/1995,16:30,FC Solothurn,BSC Young Boys,0,3,A,NaN,NaN,NaN
+SUI,27/05/1995,19:00,SC Kriens,FC Winterthur,1,1,D,NaN,NaN,NaN
+SUI,27/05/1995,19:00,Servette Genève,FC Zürich,0,0,D,NaN,NaN,NaN
+SUI,27/05/1995,19:00,Yverdon-Sport FC,FC St. Gallen,1,2,A,NaN,NaN,NaN
+SUI,31/05/1995,19:00,BSC Young Boys,SC Kriens,0,0,D,NaN,NaN,NaN
+SUI,31/05/1995,19:00,FC St. Gallen,Servette Genève,1,1,D,NaN,NaN,NaN
+SUI,31/05/1995,19:00,FC Winterthur,Yverdon-Sport FC,0,0,D,NaN,NaN,NaN
+SUI,31/05/1995,19:00,FC Zürich,FC Solothurn,5,0,H,NaN,NaN,NaN
+SUI,10/06/1995,19:00,SC Kriens,FC St. Gallen,2,2,D,NaN,NaN,NaN
+SUI,10/06/1995,19:00,FC Solothurn,FC Winterthur,0,0,D,NaN,NaN,NaN
+SUI,10/06/1995,19:00,Servette Genève,BSC Young Boys,2,1,H,NaN,NaN,NaN
+SUI,10/06/1995,19:00,Yverdon-Sport FC,FC Zürich,2,1,H,NaN,NaN,NaN
+SUI,13/06/1995,19:00,FC St. Gallen,FC Solothurn,3,0,H,NaN,NaN,NaN
+SUI,13/06/1995,19:00,FC Winterthur,Servette Genève,3,1,H,NaN,NaN,NaN
+SUI,13/06/1995,19:00,BSC Young Boys,Yverdon-Sport FC,0,1,A,NaN,NaN,NaN
+SUI,13/06/1995,19:00,FC Zürich,SC Kriens,1,5,A,NaN,NaN,NaN

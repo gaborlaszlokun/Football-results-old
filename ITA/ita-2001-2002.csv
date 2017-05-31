@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,25/08/2001,19:30,Bologna FC,Atalanta,1,0,H,1,0,H
+ITA,26/08/2001,14:00,Lazio Roma,Piacenza Calcio,1,1,D,0,0,D
+ITA,26/08/2001,14:00,Inter,AC Perugia,4,1,H,2,0,H
+ITA,26/08/2001,14:00,ACF Fiorentina,Chievo Verona,0,2,A,0,1,A
+ITA,26/08/2001,14:00,Juventus,AC Venezia,4,0,H,3,0,H
+ITA,26/08/2001,14:00,Brescia Calcio,AC Milan,2,2,D,2,0,H
+ITA,26/08/2001,14:00,US Lecce,Parma AC,1,1,D,1,0,H
+ITA,26/08/2001,14:00,Udinese Calcio,Torino FC,2,2,D,0,2,A
+ITA,26/08/2001,19:30,Hellas Verona,AS Roma,1,1,D,0,1,A
+ITA,08/09/2001,14:00,AC Perugia,Lazio Roma,0,0,D,0,0,D
+ITA,08/09/2001,19:30,AS Roma,Udinese Calcio,1,1,D,0,0,D
+ITA,09/09/2001,14:00,Atalanta,Juventus,0,2,A,0,1,A
+ITA,09/09/2001,14:00,Piacenza Calcio,US Lecce,1,2,A,1,0,H
+ITA,09/09/2001,14:00,Parma AC,Inter,2,2,D,1,2,A
+ITA,09/09/2001,14:00,AC Venezia,Hellas Verona,0,1,A,0,0,D
+ITA,09/09/2001,14:00,Torino FC,Brescia Calcio,1,3,A,1,1,D
+ITA,09/09/2001,14:00,Chievo Verona,Bologna FC,2,0,H,1,0,H
+ITA,09/09/2001,19:30,AC Milan,ACF Fiorentina,5,2,H,3,1,H
+ITA,15/09/2001,19:30,Juventus,Chievo Verona,3,2,H,2,2,D
+ITA,16/09/2001,14:00,Bologna FC,Parma AC,1,0,H,0,0,D
+ITA,16/09/2001,14:00,Lazio Roma,Torino FC,0,0,D,0,0,D
+ITA,16/09/2001,14:00,Inter,AC Venezia,2,1,H,0,0,D
+ITA,16/09/2001,14:00,ACF Fiorentina,Atalanta,3,1,H,2,1,H
+ITA,16/09/2001,14:00,Piacenza Calcio,AS Roma,2,0,H,1,0,H
+ITA,16/09/2001,14:00,Hellas Verona,AC Perugia,1,1,D,0,1,A
+ITA,16/09/2001,19:30,Udinese Calcio,AC Milan,1,2,A,0,1,A
+ITA,22/09/2001,14:00,Brescia Calcio,US Lecce,1,1,D,0,1,A
+ITA,22/09/2001,19:30,US Lecce,Juventus,0,0,D,0,0,D
+ITA,23/09/2001,14:00,Atalanta,Hellas Verona,1,0,H,1,0,H
+ITA,23/09/2001,14:00,Parma AC,Brescia Calcio,1,0,H,0,0,D
+ITA,23/09/2001,14:00,AS Roma,ACF Fiorentina,2,1,H,1,1,D
+ITA,23/09/2001,14:00,AC Venezia,Bologna FC,0,1,A,0,0,D
+ITA,23/09/2001,14:00,AC Perugia,Udinese Calcio,1,2,A,1,1,D
+ITA,23/09/2001,14:00,Chievo Verona,Piacenza Calcio,4,2,H,2,1,H
+ITA,23/09/2001,19:30,AC Milan,Lazio Roma,2,0,H,1,0,H
+ITA,29/09/2001,14:00,Torino FC,Inter,0,1,A,0,0,D
+ITA,29/09/2001,19:30,Juventus,AS Roma,0,2,A,0,1,A
+ITA,30/09/2001,14:00,Inter,Bologna FC,1,0,H,1,0,H
+ITA,30/09/2001,14:00,ACF Fiorentina,AC Venezia,3,1,H,1,0,H
+ITA,30/09/2001,14:00,Brescia Calcio,Atalanta,3,3,D,1,3,A
+ITA,30/09/2001,14:00,Piacenza Calcio,Torino FC,3,1,H,2,0,H
+ITA,30/09/2001,14:00,Udinese Calcio,Chievo Verona,1,2,A,1,2,A
+ITA,30/09/2001,14:00,AC Perugia,AC Milan,3,1,H,0,0,D
+ITA,30/09/2001,14:00,Hellas Verona,US Lecce,2,1,H,1,1,D
+ITA,30/09/2001,19:30,Lazio Roma,Parma AC,0,0,D,0,0,D
+ITA,19/12/2001,14:00,Atalanta,AC Milan,1,1,D,1,0,H
+ITA,19/12/2001,14:00,Bologna FC,Udinese Calcio,0,1,A,0,0,D
+ITA,19/12/2001,14:00,Inter,Hellas Verona,3,0,H,1,0,H
+ITA,19/12/2001,14:00,ACF Fiorentina,Juventus,1,1,D,0,0,D
+ITA,19/12/2001,14:00,AS Roma,Brescia Calcio,0,0,D,0,0,D
+ITA,19/12/2001,14:00,US Lecce,AC Perugia,2,3,A,2,2,D
+ITA,19/12/2001,14:00,AC Venezia,Piacenza Calcio,2,3,A,1,0,H
+ITA,19/12/2001,14:00,Torino FC,Parma AC,1,0,H,1,0,H
+ITA,30/01/2002,19:30,Chievo Verona,Lazio Roma,3,1,H,0,1,A
+ITA,13/10/2001,14:00,Lazio Roma,Atalanta,2,0,H,1,0,H
+ITA,13/10/2001,19:30,AC Perugia,AS Roma,0,0,D,0,0,D
+ITA,14/10/2001,14:00,Juventus,Torino FC,3,3,D,3,0,H
+ITA,14/10/2001,14:00,Brescia Calcio,Chievo Verona,2,2,D,0,1,A
+ITA,14/10/2001,14:00,Parma AC,Piacenza Calcio,2,2,D,1,0,H
+ITA,14/10/2001,14:00,US Lecce,ACF Fiorentina,4,1,H,2,1,H
+ITA,14/10/2001,14:00,AC Milan,AC Venezia,1,1,D,1,0,H
+ITA,14/10/2001,14:00,Hellas Verona,Bologna FC,0,1,A,0,1,A
+ITA,14/10/2001,19:30,Udinese Calcio,Inter,1,1,D,0,0,D
+ITA,20/10/2001,19:30,Bologna FC,Juventus,0,0,D,0,0,D
+ITA,21/10/2001,14:00,Atalanta,Udinese Calcio,1,5,A,0,1,A
+ITA,21/10/2001,14:00,ACF Fiorentina,Hellas Verona,0,2,A,0,1,A
+ITA,21/10/2001,14:00,Piacenza Calcio,Brescia Calcio,0,1,A,0,1,A
+ITA,21/10/2001,14:00,AS Roma,US Lecce,5,1,H,2,0,H
+ITA,21/10/2001,14:00,AC Venezia,Lazio Roma,0,0,D,0,0,D
+ITA,21/10/2001,14:00,Torino FC,AC Perugia,1,0,H,1,0,H
+ITA,21/10/2001,14:00,Chievo Verona,Parma AC,1,0,H,1,0,H
+ITA,21/10/2001,19:30,Inter,AC Milan,2,4,A,1,0,H
+ITA,27/10/2001,19:30,Juventus,Inter,0,0,D,0,0,D
+ITA,27/10/2001,19:30,AS Roma,Lazio Roma,2,0,H,0,0,D
+ITA,28/10/2001,14:00,Brescia Calcio,AC Venezia,3,2,H,0,0,D
+ITA,28/10/2001,14:00,Parma AC,Hellas Verona,2,2,D,0,2,A
+ITA,28/10/2001,14:00,US Lecce,Atalanta,0,2,A,0,1,A
+ITA,28/10/2001,14:00,Udinese Calcio,ACF Fiorentina,1,2,A,1,0,H
+ITA,28/10/2001,14:00,AC Milan,Bologna FC,0,0,D,0,0,D
+ITA,28/10/2001,14:00,AC Perugia,Piacenza Calcio,1,0,H,0,0,D
+ITA,28/10/2001,14:00,Chievo Verona,Torino FC,3,0,H,1,0,H
+ITA,03/11/2001,19:30,AC Venezia,Chievo Verona,0,0,D,0,0,D
+ITA,04/11/2001,14:00,Atalanta,AS Roma,1,1,D,0,0,D
+ITA,04/11/2001,14:00,Bologna FC,ACF Fiorentina,3,2,H,3,2,H
+ITA,04/11/2001,14:00,Lazio Roma,Brescia Calcio,5,0,H,3,0,H
+ITA,04/11/2001,14:00,Inter,US Lecce,2,0,H,2,0,H
+ITA,04/11/2001,14:00,Piacenza Calcio,Udinese Calcio,1,2,A,0,1,A
+ITA,04/11/2001,14:00,Parma AC,AC Perugia,2,1,H,1,0,H
+ITA,04/11/2001,14:00,Hellas Verona,Juventus,2,2,D,1,0,H
+ITA,04/11/2001,19:30,Torino FC,AC Milan,1,0,H,1,0,H
+ITA,17/11/2001,19:30,AS Roma,Inter,0,0,D,0,0,D
+ITA,18/11/2001,14:00,Atalanta,AC Venezia,1,0,H,1,0,H
+ITA,18/11/2001,14:00,ACF Fiorentina,Torino FC,0,0,D,0,0,D
+ITA,18/11/2001,14:00,Juventus,Parma AC,3,1,H,1,1,D
+ITA,18/11/2001,14:00,US Lecce,Bologna FC,1,0,H,1,0,H
+ITA,18/11/2001,14:00,Udinese Calcio,Lazio Roma,1,4,A,0,0,D
+ITA,18/11/2001,14:00,AC Milan,Piacenza Calcio,0,0,D,0,0,D
+ITA,18/11/2001,14:00,AC Perugia,Brescia Calcio,1,1,D,1,1,D
+ITA,18/11/2001,19:30,Hellas Verona,Chievo Verona,3,2,H,1,2,A
+ITA,24/11/2001,19:30,Lazio Roma,Juventus,1,0,H,0,0,D
+ITA,25/11/2001,14:00,Bologna FC,AS Roma,1,3,A,1,3,A
+ITA,25/11/2001,14:00,Brescia Calcio,Udinese Calcio,2,0,H,2,0,H
+ITA,25/11/2001,14:00,Piacenza Calcio,Atalanta,1,2,A,1,0,H
+ITA,25/11/2001,14:00,Parma AC,AC Milan,0,1,A,0,1,A
+ITA,25/11/2001,14:00,AC Venezia,US Lecce,1,1,D,0,0,D
+ITA,25/11/2001,14:00,Torino FC,Hellas Verona,5,1,H,0,1,A
+ITA,25/11/2001,14:00,Chievo Verona,AC Perugia,2,0,H,1,0,H
+ITA,25/11/2001,19:30,Inter,ACF Fiorentina,2,0,H,1,0,H
+ITA,01/12/2001,19:30,Juventus,AC Perugia,2,0,H,0,0,D
+ITA,02/12/2001,14:00,Atalanta,Inter,2,4,A,2,1,H
+ITA,02/12/2001,14:00,ACF Fiorentina,Piacenza Calcio,1,3,A,0,1,A
+ITA,02/12/2001,14:00,AS Roma,AC Venezia,1,0,H,0,0,D
+ITA,02/12/2001,14:00,US Lecce,Lazio Roma,1,2,A,0,0,D
+ITA,02/12/2001,14:00,Udinese Calcio,Parma AC,3,2,H,2,2,D
+ITA,02/12/2001,14:00,AC Milan,Chievo Verona,3,2,H,1,2,A
+ITA,02/12/2001,14:00,Hellas Verona,Brescia Calcio,2,0,H,1,0,H
+ITA,02/12/2001,19:30,Bologna FC,Torino FC,1,0,H,1,0,H
+ITA,08/12/2001,19:30,Piacenza Calcio,Bologna FC,2,0,H,0,0,D
+ITA,09/12/2001,14:00,Lazio Roma,ACF Fiorentina,3,0,H,1,0,H
+ITA,09/12/2001,14:00,Brescia Calcio,Inter,1,3,A,1,1,D
+ITA,09/12/2001,14:00,Parma AC,AS Roma,1,2,A,1,0,H
+ITA,09/12/2001,14:00,Udinese Calcio,Hellas Verona,2,1,H,0,0,D
+ITA,09/12/2001,14:00,AC Perugia,AC Venezia,2,0,H,1,0,H
+ITA,09/12/2001,14:00,Torino FC,Atalanta,1,2,A,1,1,D
+ITA,09/12/2001,14:00,Chievo Verona,US Lecce,2,1,H,1,0,H
+ITA,09/12/2001,19:30,AC Milan,Juventus,1,1,D,1,0,H
+ITA,15/12/2001,19:30,Inter,Chievo Verona,1,2,A,1,1,D
+ITA,16/12/2001,14:00,Atalanta,Parma AC,4,1,H,2,0,H
+ITA,16/12/2001,14:00,Bologna FC,AC Perugia,2,1,H,2,1,H
+ITA,16/12/2001,14:00,ACF Fiorentina,Brescia Calcio,1,0,H,0,0,D
+ITA,16/12/2001,14:00,Juventus,Piacenza Calcio,2,0,H,1,0,H
+ITA,16/12/2001,14:00,US Lecce,Torino FC,1,1,D,0,0,D
+ITA,16/12/2001,14:00,AC Venezia,Udinese Calcio,2,1,H,1,0,H
+ITA,16/12/2001,14:00,Hellas Verona,Lazio Roma,3,1,H,2,0,H
+ITA,16/12/2001,19:30,AS Roma,AC Milan,1,0,H,1,0,H
+ITA,22/12/2001,19:30,Lazio Roma,Bologna FC,2,2,D,2,1,H
+ITA,22/12/2001,19:30,Chievo Verona,AS Roma,0,3,A,0,1,A
+ITA,23/12/2001,14:00,Brescia Calcio,Juventus,0,4,A,0,2,A
+ITA,23/12/2001,14:00,Piacenza Calcio,Inter,2,3,A,0,1,A
+ITA,23/12/2001,14:00,Udinese Calcio,US Lecce,0,1,A,0,1,A
+ITA,23/12/2001,14:00,AC Milan,Hellas Verona,2,1,H,0,0,D
+ITA,23/12/2001,14:00,AC Perugia,Atalanta,2,0,H,0,0,D
+ITA,23/12/2001,14:00,Torino FC,AC Venezia,1,2,A,0,1,A
+ITA,23/12/2001,14:00,Parma AC,ACF Fiorentina,2,0,H,0,0,D
+ITA,05/01/2002,19:30,US Lecce,AC Milan,0,1,A,0,0,D
+ITA,06/01/2002,14:00,Atalanta,Chievo Verona,1,2,A,1,0,H
+ITA,06/01/2002,14:00,Bologna FC,Brescia Calcio,2,1,H,2,1,H
+ITA,06/01/2002,14:00,ACF Fiorentina,AC Perugia,1,3,A,1,1,D
+ITA,06/01/2002,14:00,Juventus,Udinese Calcio,3,0,H,3,0,H
+ITA,06/01/2002,14:00,AS Roma,Torino FC,1,0,H,1,0,H
+ITA,06/01/2002,14:00,AC Venezia,Parma AC,3,4,A,2,3,A
+ITA,06/01/2002,14:00,Hellas Verona,Piacenza Calcio,1,0,H,0,0,D
+ITA,06/01/2002,19:30,Inter,Lazio Roma,0,0,D,0,0,D
+ITA,13/01/2002,14:00,Atalanta,Bologna FC,2,2,D,2,1,H
+ITA,13/01/2002,14:00,Piacenza Calcio,Lazio Roma,1,0,H,0,0,D
+ITA,13/01/2002,14:00,Chievo Verona,ACF Fiorentina,2,2,D,0,1,A
+ITA,13/01/2002,14:00,AC Venezia,Juventus,1,2,A,0,1,A
+ITA,13/01/2002,14:00,AC Milan,Brescia Calcio,0,0,D,0,0,D
+ITA,13/01/2002,14:00,Parma AC,US Lecce,1,1,D,0,0,D
+ITA,13/01/2002,14:00,Torino FC,Udinese Calcio,3,1,H,1,1,D
+ITA,13/01/2002,14:00,AS Roma,Hellas Verona,3,2,H,0,1,A
+ITA,13/01/2002,19:30,AC Perugia,Inter,0,2,A,0,0,D
+ITA,19/01/2002,19:30,Brescia Calcio,Torino FC,1,2,A,0,0,D
+ITA,20/01/2002,14:00,Juventus,Atalanta,3,0,H,2,0,H
+ITA,20/01/2002,14:00,US Lecce,Piacenza Calcio,0,0,D,0,0,D
+ITA,20/01/2002,14:00,Inter,Parma AC,2,0,H,1,0,H
+ITA,20/01/2002,14:00,Udinese Calcio,AS Roma,1,1,D,0,0,D
+ITA,20/01/2002,14:00,Hellas Verona,AC Venezia,1,0,H,1,0,H
+ITA,20/01/2002,14:00,Lazio Roma,AC Perugia,5,0,H,2,0,H
+ITA,20/01/2002,14:00,Bologna FC,Chievo Verona,3,1,H,1,0,H
+ITA,20/01/2002,19:30,ACF Fiorentina,AC Milan,1,1,D,0,0,D
+ITA,26/01/2002,19:30,Parma AC,Bologna FC,2,1,H,2,0,H
+ITA,27/01/2002,14:00,Torino FC,Lazio Roma,1,0,H,0,0,D
+ITA,27/01/2002,14:00,AC Venezia,Inter,1,1,D,0,1,A
+ITA,27/01/2002,14:00,Atalanta,ACF Fiorentina,2,0,H,1,0,H
+ITA,27/01/2002,14:00,US Lecce,Brescia Calcio,1,3,A,1,1,D
+ITA,27/01/2002,14:00,AS Roma,Piacenza Calcio,2,0,H,1,0,H
+ITA,27/01/2002,14:00,AC Milan,Udinese Calcio,2,3,A,2,1,H
+ITA,27/01/2002,14:00,AC Perugia,Hellas Verona,3,1,H,0,1,A
+ITA,27/01/2002,19:30,Chievo Verona,Juventus,1,3,A,0,1,A
+ITA,02/02/2002,19:30,Inter,Torino FC,0,0,D,0,0,D
+ITA,03/02/2002,14:00,Hellas Verona,Atalanta,3,1,H,2,0,H
+ITA,03/02/2002,14:00,Brescia Calcio,Parma AC,1,4,A,1,3,A
+ITA,03/02/2002,14:00,ACF Fiorentina,AS Roma,2,2,D,2,0,H
+ITA,03/02/2002,14:00,Juventus,US Lecce,3,0,H,1,0,H
+ITA,03/02/2002,14:00,Bologna FC,AC Venezia,1,1,D,0,1,A
+ITA,03/02/2002,14:00,Udinese Calcio,AC Perugia,0,0,D,0,0,D
+ITA,03/02/2002,14:00,Piacenza Calcio,Chievo Verona,2,2,D,1,1,D
+ITA,03/02/2002,19:30,Lazio Roma,AC Milan,1,1,D,1,0,H
+ITA,09/02/2002,19:30,Chievo Verona,Udinese Calcio,1,2,A,0,2,A
+ITA,10/02/2002,14:00,Parma AC,Lazio Roma,1,0,H,0,0,D
+ITA,10/02/2002,14:00,Bologna FC,Inter,2,1,H,0,0,D
+ITA,10/02/2002,14:00,AC Venezia,ACF Fiorentina,2,0,H,1,0,H
+ITA,10/02/2002,14:00,Atalanta,Brescia Calcio,0,0,D,0,0,D
+ITA,10/02/2002,14:00,Torino FC,Piacenza Calcio,1,1,D,0,0,D
+ITA,10/02/2002,14:00,AC Milan,AC Perugia,1,1,D,1,0,H
+ITA,10/02/2002,14:00,US Lecce,Hellas Verona,1,1,D,1,0,H
+ITA,10/02/2002,19:30,AS Roma,Juventus,0,0,D,0,0,D
+ITA,16/02/2002,14:00,Juventus,ACF Fiorentina,2,1,H,2,1,H
+ITA,16/02/2002,19:30,AC Milan,Atalanta,0,0,D,0,0,D
+ITA,17/02/2002,14:00,Udinese Calcio,Bologna FC,0,1,A,0,1,A
+ITA,17/02/2002,14:00,Hellas Verona,Inter,0,3,A,0,1,A
+ITA,17/02/2002,14:00,Brescia Calcio,AS Roma,0,0,D,0,0,D
+ITA,17/02/2002,14:00,AC Perugia,US Lecce,2,1,H,1,1,D
+ITA,17/02/2002,14:00,Piacenza Calcio,AC Venezia,5,0,H,3,0,H
+ITA,17/02/2002,14:00,Parma AC,Torino FC,0,1,A,0,0,D
+ITA,17/02/2002,19:30,Lazio Roma,Chievo Verona,1,1,D,0,0,D
+ITA,23/02/2002,19:30,AS Roma,AC Perugia,1,0,H,0,0,D
+ITA,24/02/2002,14:00,Atalanta,Lazio Roma,0,1,A,0,0,D
+ITA,24/02/2002,14:00,Chievo Verona,Brescia Calcio,1,1,D,1,0,H
+ITA,24/02/2002,14:00,Piacenza Calcio,Parma AC,2,3,A,0,2,A
+ITA,24/02/2002,14:00,ACF Fiorentina,US Lecce,1,2,A,1,1,D
+ITA,24/02/2002,14:00,Inter,Udinese Calcio,3,2,H,1,0,H
+ITA,24/02/2002,14:00,AC Venezia,AC Milan,1,4,A,1,1,D
+ITA,24/02/2002,14:00,Bologna FC,Hellas Verona,2,1,H,0,0,D
+ITA,24/02/2002,19:30,Torino FC,Juventus,2,2,D,0,1,A
+ITA,03/03/2002,14:00,Juventus,Bologna FC,2,1,H,1,1,D
+ITA,03/03/2002,14:00,Udinese Calcio,Atalanta,1,2,A,1,0,H
+ITA,03/03/2002,14:00,Hellas Verona,ACF Fiorentina,1,2,A,0,1,A
+ITA,03/03/2002,14:00,Brescia Calcio,Piacenza Calcio,2,2,D,0,0,D
+ITA,03/03/2002,14:00,US Lecce,AS Roma,1,1,D,0,1,A
+ITA,03/03/2002,14:00,Lazio Roma,AC Venezia,4,2,H,3,0,H
+ITA,03/03/2002,14:00,AC Perugia,Torino FC,2,0,H,1,0,H
+ITA,03/03/2002,19:30,AC Milan,Inter,0,1,A,0,0,D
+ITA,13/03/2002,17:00,Parma AC,Chievo Verona,0,0,D,0,0,D
+ITA,09/03/2002,19:30,Inter,Juventus,2,2,D,1,1,D
+ITA,10/03/2002,14:00,AC Venezia,Brescia Calcio,1,2,A,1,0,H
+ITA,10/03/2002,14:00,Hellas Verona,Parma AC,1,0,H,0,0,D
+ITA,10/03/2002,14:00,Atalanta,US Lecce,2,1,H,2,0,H
+ITA,10/03/2002,14:00,ACF Fiorentina,Udinese Calcio,0,0,D,0,0,D
+ITA,10/03/2002,14:00,Bologna FC,AC Milan,2,0,H,2,0,H
+ITA,10/03/2002,14:00,Piacenza Calcio,AC Perugia,2,0,H,1,0,H
+ITA,10/03/2002,14:00,Torino FC,Chievo Verona,2,2,D,1,1,D
+ITA,10/03/2002,19:30,Lazio Roma,AS Roma,1,5,A,0,3,A
+ITA,16/03/2002,19:30,AS Roma,Atalanta,3,1,H,2,0,H
+ITA,17/03/2002,14:00,ACF Fiorentina,Bologna FC,1,1,D,1,0,H
+ITA,17/03/2002,14:00,Brescia Calcio,Lazio Roma,1,1,D,0,0,D
+ITA,17/03/2002,14:00,US Lecce,Inter,1,2,A,0,1,A
+ITA,17/03/2002,14:00,Udinese Calcio,Piacenza Calcio,1,1,D,0,1,A
+ITA,17/03/2002,14:00,AC Perugia,Parma AC,2,1,H,2,0,H
+ITA,17/03/2002,14:00,Chievo Verona,AC Venezia,1,1,D,0,1,A
+ITA,17/03/2002,14:00,Juventus,Hellas Verona,1,0,H,1,0,H
+ITA,17/03/2002,19:30,AC Milan,Torino FC,2,1,H,0,0,D
+ITA,23/03/2002,19:30,Parma AC,Juventus,1,0,H,0,0,D
+ITA,24/03/2002,14:00,AC Venezia,Atalanta,0,1,A,0,0,D
+ITA,24/03/2002,14:00,Torino FC,ACF Fiorentina,1,0,H,1,0,H
+ITA,24/03/2002,14:00,Bologna FC,US Lecce,4,3,H,1,2,A
+ITA,24/03/2002,14:00,Lazio Roma,Udinese Calcio,2,0,H,1,0,H
+ITA,24/03/2002,14:00,Piacenza Calcio,AC Milan,0,1,A,0,1,A
+ITA,24/03/2002,14:00,Brescia Calcio,AC Perugia,3,0,H,3,0,H
+ITA,24/03/2002,14:00,Chievo Verona,Hellas Verona,2,1,H,1,1,D
+ITA,24/03/2002,19:30,Inter,AS Roma,3,1,H,2,0,H
+ITA,30/03/2002,14:00,AS Roma,Bologna FC,3,1,H,2,0,H
+ITA,30/03/2002,14:00,ACF Fiorentina,Inter,0,1,A,0,0,D
+ITA,30/03/2002,14:00,Udinese Calcio,Brescia Calcio,3,2,H,3,1,H
+ITA,30/03/2002,14:00,Atalanta,Piacenza Calcio,1,1,D,1,0,H
+ITA,30/03/2002,14:00,AC Milan,Parma AC,3,1,H,0,1,A
+ITA,30/03/2002,14:00,US Lecce,AC Venezia,2,1,H,1,0,H
+ITA,30/03/2002,14:00,Hellas Verona,Torino FC,0,1,A,0,1,A
+ITA,30/03/2002,14:00,AC Perugia,Chievo Verona,2,2,D,1,1,D
+ITA,30/03/2002,19:30,Juventus,Lazio Roma,1,1,D,1,1,D
+ITA,06/04/2002,19:30,Torino FC,Bologna FC,1,1,D,1,0,H
+ITA,07/04/2002,14:00,Inter,Atalanta,1,2,A,0,1,A
+ITA,07/04/2002,14:00,Piacenza Calcio,ACF Fiorentina,3,0,H,3,0,H
+ITA,07/04/2002,14:00,AC Perugia,Juventus,0,4,A,0,2,A
+ITA,07/04/2002,14:00,AC Venezia,AS Roma,2,2,D,0,0,D
+ITA,07/04/2002,14:00,Parma AC,Udinese Calcio,2,0,H,1,0,H
+ITA,07/04/2002,14:00,Chievo Verona,AC Milan,1,1,D,1,1,D
+ITA,07/04/2002,14:00,Brescia Calcio,Hellas Verona,0,0,D,0,0,D
+ITA,07/04/2002,19:30,Lazio Roma,US Lecce,1,0,H,0,0,D
+ITA,14/04/2002,14:00,ACF Fiorentina,Lazio Roma,0,1,A,0,1,A
+ITA,14/04/2002,14:00,Inter,Brescia Calcio,2,1,H,0,1,A
+ITA,14/04/2002,14:00,Bologna FC,Piacenza Calcio,1,2,A,0,1,A
+ITA,14/04/2002,14:00,AS Roma,Parma AC,3,1,H,2,1,H
+ITA,14/04/2002,14:00,Hellas Verona,Udinese Calcio,1,0,H,1,0,H
+ITA,14/04/2002,14:00,Juventus,AC Milan,1,0,H,0,0,D
+ITA,14/04/2002,14:00,AC Venezia,AC Perugia,0,2,A,0,2,A
+ITA,14/04/2002,14:00,Atalanta,Torino FC,1,1,D,1,0,H
+ITA,14/04/2002,14:00,US Lecce,Chievo Verona,2,3,A,2,1,H
+ITA,21/04/2002,14:00,Parma AC,Atalanta,1,1,D,0,1,A
+ITA,21/04/2002,14:00,AC Perugia,Bologna FC,1,0,H,0,0,D
+ITA,21/04/2002,14:00,Chievo Verona,Inter,2,2,D,1,0,H
+ITA,21/04/2002,14:00,Brescia Calcio,ACF Fiorentina,3,0,H,1,0,H
+ITA,21/04/2002,14:00,Piacenza Calcio,Juventus,0,1,A,0,0,D
+ITA,21/04/2002,14:00,AC Milan,AS Roma,0,0,D,0,0,D
+ITA,21/04/2002,14:00,Torino FC,US Lecce,1,1,D,0,1,A
+ITA,21/04/2002,14:00,Udinese Calcio,AC Venezia,1,0,H,1,0,H
+ITA,21/04/2002,14:00,Lazio Roma,Hellas Verona,5,4,H,3,1,H
+ITA,28/04/2002,14:00,Bologna FC,Lazio Roma,2,0,H,0,0,D
+ITA,28/04/2002,14:00,Juventus,Brescia Calcio,5,0,H,1,0,H
+ITA,28/04/2002,14:00,Inter,Piacenza Calcio,3,1,H,1,1,D
+ITA,28/04/2002,14:00,US Lecce,Udinese Calcio,1,2,A,0,1,A
+ITA,28/04/2002,14:00,Hellas Verona,AC Milan,1,2,A,1,0,H
+ITA,28/04/2002,14:00,Atalanta,AC Perugia,2,1,H,1,1,D
+ITA,28/04/2002,14:00,AC Venezia,Torino FC,1,1,D,1,0,H
+ITA,28/04/2002,14:00,AS Roma,Chievo Verona,5,0,H,2,0,H
+ITA,28/04/2002,14:00,ACF Fiorentina,Parma AC,1,2,A,1,0,H
+ITA,05/05/2002,14:00,Chievo Verona,Atalanta,2,1,H,0,0,D
+ITA,05/05/2002,14:00,Brescia Calcio,Bologna FC,3,0,H,1,0,H
+ITA,05/05/2002,14:00,Lazio Roma,Inter,4,2,H,2,2,D
+ITA,05/05/2002,14:00,AC Perugia,ACF Fiorentina,2,0,H,2,0,H
+ITA,05/05/2002,14:00,Udinese Calcio,Juventus,0,2,A,0,2,A
+ITA,05/05/2002,14:00,Torino FC,AS Roma,0,1,A,0,0,D
+ITA,05/05/2002,14:00,AC Milan,US Lecce,3,0,H,2,0,H
+ITA,05/05/2002,14:00,Parma AC,AC Venezia,2,1,H,1,1,D
+ITA,05/05/2002,14:00,Piacenza Calcio,Hellas Verona,3,0,H,1,0,H

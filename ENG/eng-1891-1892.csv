@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,05/09/1891,,Accrington Stanley (old),Burnley FC,1,0,H,NaN,NaN,NaN
+ENG,05/09/1891,,Aston Villa,Blackburn Rovers,5,1,H,NaN,NaN,NaN
+ENG,05/09/1891,,Darwen,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,05/09/1891,,Notts County,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,05/09/1891,,Stoke City,Derby County,2,1,H,NaN,NaN,NaN
+ENG,05/09/1891,,Sunderland AFC,Wolverhampton Wanderers,5,2,H,NaN,NaN,NaN
+ENG,05/09/1891,,West Bromwich Albion,Everton FC,4,0,H,NaN,NaN,NaN
+ENG,07/09/1891,,Burnley FC,Preston North End,2,0,H,NaN,NaN,NaN
+ENG,07/09/1891,,Everton FC,Darwen,5,3,H,NaN,NaN,NaN
+ENG,12/09/1891,,Aston Villa,West Bromwich Albion,5,1,H,NaN,NaN,NaN
+ENG,12/09/1891,,Blackburn Rovers,Notts County,5,4,H,NaN,NaN,NaN
+ENG,12/09/1891,,Derby County,Accrington Stanley (old),3,1,H,NaN,NaN,NaN
+ENG,12/09/1891,,Preston North End,Sunderland AFC,3,1,H,NaN,NaN,NaN
+ENG,12/09/1891,,Stoke City,Wolverhampton Wanderers,1,3,A,NaN,NaN,NaN
+ENG,12/09/1891,,Bolton Wanderers,Darwen,1,0,H,NaN,NaN,NaN
+ENG,14/09/1891,,Wolverhampton Wanderers,Accrington Stanley (old),5,0,H,NaN,NaN,NaN
+ENG,19/09/1891,,Bolton Wanderers,Sunderland AFC,4,3,H,NaN,NaN,NaN
+ENG,19/09/1891,,Burnley FC,Stoke City,4,1,H,NaN,NaN,NaN
+ENG,19/09/1891,,Derby County,Notts County,3,0,H,NaN,NaN,NaN
+ENG,19/09/1891,,Everton FC,Blackburn Rovers,3,1,H,NaN,NaN,NaN
+ENG,19/09/1891,,Preston North End,Aston Villa,0,1,A,NaN,NaN,NaN
+ENG,19/09/1891,,West Bromwich Albion,Wolverhampton Wanderers,4,3,H,NaN,NaN,NaN
+ENG,19/09/1891,,Darwen,Accrington Stanley (old),5,2,H,NaN,NaN,NaN
+ENG,21/09/1891,,Preston North End,Burnley FC,5,1,H,NaN,NaN,NaN
+ENG,26/09/1891,,Bolton Wanderers,Preston North End,3,0,H,NaN,NaN,NaN
+ENG,26/09/1891,,Notts County,Stoke City,1,1,D,NaN,NaN,NaN
+ENG,26/09/1891,,Wolverhampton Wanderers,Derby County,1,3,A,NaN,NaN,NaN
+ENG,28/09/1891,,Aston Villa,Sunderland AFC,5,3,H,NaN,NaN,NaN
+ENG,03/10/1891,,West Bromwich Albion,Blackburn Rovers,2,2,D,NaN,NaN,NaN
+ENG,26/09/1891,,Accrington Stanley (old),Everton FC,1,1,D,NaN,NaN,NaN
+ENG,26/09/1891,,Blackburn Rovers,Burnley FC,3,3,D,NaN,NaN,NaN
+ENG,28/09/1891,,Wolverhampton Wanderers,Darwen,2,2,D,NaN,NaN,NaN
+ENG,01/10/1891,,Notts County,Bolton Wanderers,2,0,H,NaN,NaN,NaN
+ENG,03/10/1891,,Derby County,Aston Villa,4,2,H,NaN,NaN,NaN
+ENG,03/10/1891,,Sunderland AFC,Everton FC,2,1,H,NaN,NaN,NaN
+ENG,03/10/1891,,Bolton Wanderers,Accrington Stanley (old),3,4,A,NaN,NaN,NaN
+ENG,03/10/1891,,Darwen,Stoke City,9,3,H,NaN,NaN,NaN
+ENG,10/10/1891,,Aston Villa,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,10/10/1891,,Blackburn Rovers,Wolverhampton Wanderers,2,0,H,NaN,NaN,NaN
+ENG,10/10/1891,,Everton FC,Preston North End,1,1,D,NaN,NaN,NaN
+ENG,10/10/1891,,Notts County,West Bromwich Albion,4,0,H,NaN,NaN,NaN
+ENG,10/10/1891,,Stoke City,Burnley FC,3,0,H,NaN,NaN,NaN
+ENG,17/10/1891,,West Bromwich Albion,Sunderland AFC,2,5,A,NaN,NaN,NaN
+ENG,03/10/1891,,Preston North End,Wolverhampton Wanderers,2,0,H,NaN,NaN,NaN
+ENG,10/10/1891,,Accrington Stanley (old),Darwen,1,1,D,NaN,NaN,NaN
+ENG,17/10/1891,,Bolton Wanderers,Everton FC,1,0,H,NaN,NaN,NaN
+ENG,17/10/1891,,Burnley FC,Aston Villa,4,1,H,NaN,NaN,NaN
+ENG,17/10/1891,,Derby County,Stoke City,3,3,D,NaN,NaN,NaN
+ENG,17/10/1891,,Wolverhampton Wanderers,Notts County,2,1,H,NaN,NaN,NaN
+ENG,24/10/1891,,Sunderland AFC,West Bromwich Albion,4,0,H,NaN,NaN,NaN
+ENG,17/10/1891,,Darwen,Blackburn Rovers,3,5,A,NaN,NaN,NaN
+ENG,24/10/1891,,Accrington Stanley (old),Wolverhampton Wanderers,3,2,H,NaN,NaN,NaN
+ENG,24/10/1891,,Blackburn Rovers,Preston North End,2,4,A,NaN,NaN,NaN
+ENG,24/10/1891,,Bolton Wanderers,Burnley FC,2,0,H,NaN,NaN,NaN
+ENG,24/10/1891,,Derby County,Everton FC,0,3,A,NaN,NaN,NaN
+ENG,24/10/1891,,Stoke City,Aston Villa,2,3,A,NaN,NaN,NaN
+ENG,31/10/1891,,Derby County,Wolverhampton Wanderers,2,1,H,NaN,NaN,NaN
+ENG,24/10/1891,,Notts County,Darwen,5,0,H,NaN,NaN,NaN
+ENG,31/10/1891,,West Bromwich Albion,Notts County,2,2,D,NaN,NaN,NaN
+ENG,31/10/1891,,Sunderland AFC,Accrington Stanley (old),4,1,H,NaN,NaN,NaN
+ENG,31/10/1891,,Preston North End,Everton FC,4,0,H,NaN,NaN,NaN
+ENG,31/10/1891,,Darwen,Aston Villa,1,5,A,NaN,NaN,NaN
+ENG,31/10/1891,,Bolton Wanderers,Blackburn Rovers,4,2,H,NaN,NaN,NaN
+ENG,02/11/1891,,West Bromwich Albion,Bolton Wanderers,0,2,A,NaN,NaN,NaN
+ENG,07/11/1891,,Blackburn Rovers,Sunderland AFC,3,1,H,NaN,NaN,NaN
+ENG,07/11/1891,,Stoke City,Preston North End,0,1,A,NaN,NaN,NaN
+ENG,07/11/1891,,Wolverhampton Wanderers,Burnley FC,0,0,D,NaN,NaN,NaN
+ENG,07/11/1891,,Accrington Stanley (old),Bolton Wanderers,0,3,A,NaN,NaN,NaN
+ENG,07/11/1891,,Aston Villa,Notts County,5,1,H,NaN,NaN,NaN
+ENG,07/11/1891,,Everton FC,West Bromwich Albion,4,3,H,NaN,NaN,NaN
+ENG,09/11/1891,,Stoke City,Blackburn Rovers,0,1,A,NaN,NaN,NaN
+ENG,14/11/1891,,Sunderland AFC,Derby County,7,1,H,NaN,NaN,NaN
+ENG,14/11/1891,,Bolton Wanderers,Stoke City,1,1,D,NaN,NaN,NaN
+ENG,14/11/1891,,Burnley FC,Accrington Stanley (old),2,1,H,NaN,NaN,NaN
+ENG,14/11/1891,,Darwen,Everton FC,3,1,H,NaN,NaN,NaN
+ENG,14/11/1891,,Notts County,Wolverhampton Wanderers,2,2,D,NaN,NaN,NaN
+ENG,14/11/1891,,West Bromwich Albion,Aston Villa,0,3,A,NaN,NaN,NaN
+ENG,21/11/1891,,Sunderland AFC,Burnley FC,2,1,H,NaN,NaN,NaN
+ENG,14/11/1891,,Preston North End,Blackburn Rovers,3,2,H,NaN,NaN,NaN
+ENG,21/11/1891,,Accrington Stanley (old),Notts County,2,0,H,NaN,NaN,NaN
+ENG,21/11/1891,,Aston Villa,Stoke City,2,1,H,NaN,NaN,NaN
+ENG,21/11/1891,,Derby County,Darwen,7,0,H,NaN,NaN,NaN
+ENG,21/11/1891,,West Bromwich Albion,Preston North End,1,2,A,NaN,NaN,NaN
+ENG,21/11/1891,,Wolverhampton Wanderers,Everton FC,5,1,H,NaN,NaN,NaN
+ENG,05/12/1891,,Derby County,Preston North End,1,2,A,NaN,NaN,NaN
+ENG,21/11/1891,,Blackburn Rovers,Bolton Wanderers,4,0,H,NaN,NaN,NaN
+ENG,28/11/1891,,Burnley FC,West Bromwich Albion,3,2,H,NaN,NaN,NaN
+ENG,28/11/1891,,Darwen,Derby County,2,0,H,NaN,NaN,NaN
+ENG,28/11/1891,,Everton FC,Aston Villa,5,1,H,NaN,NaN,NaN
+ENG,28/11/1891,,Notts County,Accrington Stanley (old),9,0,H,NaN,NaN,NaN
+ENG,28/11/1891,,Stoke City,Sunderland AFC,1,3,A,NaN,NaN,NaN
+ENG,28/11/1891,,Wolverhampton Wanderers,Blackburn Rovers,6,1,H,NaN,NaN,NaN
+ENG,05/12/1891,,Aston Villa,Burnley FC,6,1,H,NaN,NaN,NaN
+ENG,05/12/1891,,Blackburn Rovers,Everton FC,2,2,D,NaN,NaN,NaN
+ENG,05/12/1891,,Stoke City,Darwen,5,1,H,NaN,NaN,NaN
+ENG,05/12/1891,,Sunderland AFC,Notts County,4,0,H,NaN,NaN,NaN
+ENG,05/12/1891,,West Bromwich Albion,Accrington Stanley (old),3,1,H,NaN,NaN,NaN
+ENG,12/12/1891,,Burnley FC,Blackburn Rovers,3,0,H,NaN,NaN,NaN
+ENG,28/11/1891,,Preston North End,Bolton Wanderers,4,0,H,NaN,NaN,NaN
+ENG,12/12/1891,,West Bromwich Albion,Derby County,4,2,H,NaN,NaN,NaN
+ENG,12/12/1891,,Sunderland AFC,Darwen,7,0,H,NaN,NaN,NaN
+ENG,12/12/1891,,Stoke City,Bolton Wanderers,0,1,A,NaN,NaN,NaN
+ENG,12/12/1891,,Preston North End,Notts County,6,0,H,NaN,NaN,NaN
+ENG,12/12/1891,,Everton FC,Wolverhampton Wanderers,2,1,H,NaN,NaN,NaN
+ENG,19/12/1891,,Derby County,Burnley FC,0,1,A,NaN,NaN,NaN
+ENG,19/12/1891,,Stoke City,Accrington Stanley (old),3,1,H,NaN,NaN,NaN
+ENG,19/12/1891,,Wolverhampton Wanderers,Aston Villa,2,0,H,NaN,NaN,NaN
+ENG,25/12/1891,,Everton FC,Sunderland AFC,0,4,A,NaN,NaN,NaN
+ENG,05/12/1891,,Bolton Wanderers,Wolverhampton Wanderers,3,0,H,NaN,NaN,NaN
+ENG,19/12/1891,,Bolton Wanderers,West Bromwich Albion,1,1,D,NaN,NaN,NaN
+ENG,19/12/1891,,Notts County,Blackburn Rovers,2,2,D,NaN,NaN,NaN
+ENG,25/12/1891,,Blackburn Rovers,Darwen,4,0,H,NaN,NaN,NaN
+ENG,26/12/1891,,Aston Villa,Darwen,7,0,H,NaN,NaN,NaN
+ENG,26/12/1891,,Blackburn Rovers,Accrington Stanley (old),2,2,D,NaN,NaN,NaN
+ENG,26/12/1891,,Wolverhampton Wanderers,Sunderland AFC,1,3,A,NaN,NaN,NaN
+ENG,25/12/1891,,Preston North End,Stoke City,3,2,H,NaN,NaN,NaN
+ENG,26/12/1891,,West Bromwich Albion,Burnley FC,1,0,H,NaN,NaN,NaN
+ENG,28/12/1891,,Aston Villa,Everton FC,3,4,A,NaN,NaN,NaN
+ENG,02/01/1892,,Accrington Stanley (old),Preston North End,1,3,A,NaN,NaN,NaN
+ENG,02/01/1892,,Everton FC,Burnley FC,1,1,D,NaN,NaN,NaN
+ENG,01/03/1892,,Sunderland AFC,Bolton Wanderers,4,1,H,NaN,NaN,NaN
+ENG,28/12/1891,,Wolverhampton Wanderers,West Bromwich Albion,2,1,H,NaN,NaN,NaN
+ENG,01/01/1892,,Darwen,Preston North End,0,4,A,NaN,NaN,NaN
+ENG,02/01/1892,,Notts County,Aston Villa,5,2,H,NaN,NaN,NaN
+ENG,02/01/1892,,Wolverhampton Wanderers,Stoke City,4,1,H,NaN,NaN,NaN
+ENG,04/01/1892,,Accrington Stanley (old),Aston Villa,3,2,H,NaN,NaN,NaN
+ENG,09/01/1892,,Notts County,Everton FC,1,3,A,NaN,NaN,NaN
+ENG,26/12/1891,,Derby County,Bolton Wanderers,3,2,H,NaN,NaN,NaN
+ENG,09/01/1892,,Accrington Stanley (old),Stoke City,3,0,H,NaN,NaN,NaN
+ENG,09/01/1892,,Burnley FC,Darwen,9,0,H,NaN,NaN,NaN
+ENG,09/01/1892,,Preston North End,West Bromwich Albion,1,0,H,NaN,NaN,NaN
+ENG,06/02/1892,,Stoke City,Notts County,1,3,A,NaN,NaN,NaN
+ENG,13/02/1892,,Burnley FC,Everton FC,1,0,H,NaN,NaN,NaN
+ENG,12/03/1892,,Sunderland AFC,Preston North End,4,1,H,NaN,NaN,NaN
+ENG,01/01/1892,,Bolton Wanderers,Derby County,3,1,H,NaN,NaN,NaN
+ENG,02/01/1892,,Blackburn Rovers,Derby County,0,2,A,NaN,NaN,NaN
+ENG,09/01/1892,,Aston Villa,Derby County,6,0,H,NaN,NaN,NaN
+ENG,23/01/1892,,Accrington Stanley (old),West Bromwich Albion,4,2,H,NaN,NaN,NaN
+ENG,20/02/1892,,Notts County,Derby County,2,1,H,NaN,NaN,NaN
+ENG,27/02/1892,,Darwen,Notts County,2,3,A,NaN,NaN,NaN
+ENG,19/03/1892,,Derby County,Sunderland AFC,0,1,A,NaN,NaN,NaN
+ENG,06/02/1892,,Derby County,West Bromwich Albion,1,1,D,NaN,NaN,NaN
+ENG,27/02/1892,,Accrington Stanley (old),Blackburn Rovers,1,0,H,NaN,NaN,NaN
+ENG,01/03/1892,,Darwen,Wolverhampton Wanderers,1,4,A,NaN,NaN,NaN
+ENG,05/03/1892,,Blackburn Rovers,Aston Villa,4,3,H,NaN,NaN,NaN
+ENG,05/03/1892,,Burnley FC,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,05/03/1892,,Everton FC,Stoke City,1,0,H,NaN,NaN,NaN
+ENG,05/03/1892,,Preston North End,Derby County,3,0,H,NaN,NaN,NaN
+ENG,01/03/1892,,Notts County,Burnley FC,5,1,H,NaN,NaN,NaN
+ENG,05/03/1892,,Accrington Stanley (old),Sunderland AFC,3,5,A,NaN,NaN,NaN
+ENG,12/03/1892,,Blackburn Rovers,West Bromwich Albion,3,2,H,NaN,NaN,NaN
+ENG,12/03/1892,,Stoke City,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,26/03/1892,,Burnley FC,Wolverhampton Wanderers,1,1,D,NaN,NaN,NaN
+ENG,02/04/1892,,Darwen,Burnley FC,2,6,A,NaN,NaN,NaN
+ENG,12/03/1892,,Aston Villa,Accrington Stanley (old),12,2,A,NaN,NaN,NaN
+ENG,19/03/1892,,Blackburn Rovers,Stoke City,5,3,H,NaN,NaN,NaN
+ENG,26/03/1892,,Bolton Wanderers,Notts County,2,0,H,NaN,NaN,NaN
+ENG,26/03/1892,,Sunderland AFC,Aston Villa,2,1,H,NaN,NaN,NaN
+ENG,02/04/1892,,Wolverhampton Wanderers,Preston North End,3,0,H,NaN,NaN,NaN
+ENG,04/04/1892,,West Bromwich Albion,Darwen,12,0,H,NaN,NaN,NaN
+ENG,19/03/1892,,Everton FC,Accrington Stanley (old),3,0,H,NaN,NaN,NaN
+ENG,02/04/1892,,Bolton Wanderers,Aston Villa,1,2,A,NaN,NaN,NaN
+ENG,02/04/1892,,Sunderland AFC,Stoke City,4,1,H,NaN,NaN,NaN
+ENG,09/04/1892,,Notts County,Sunderland AFC,1,0,H,NaN,NaN,NaN
+ENG,15/04/1892,,Everton FC,Derby County,1,2,A,NaN,NaN,NaN
+ENG,16/04/1892,,Darwen,West Bromwich Albion,1,1,D,NaN,NaN,NaN
+ENG,16/04/1892,,Sunderland AFC,Blackburn Rovers,6,1,H,NaN,NaN,NaN
+ENG,26/03/1892,,Derby County,Blackburn Rovers,1,1,D,NaN,NaN,NaN
+ENG,02/04/1892,,Accrington Stanley (old),Derby County,1,1,D,NaN,NaN,NaN
+ENG,11/04/1892,,West Bromwich Albion,Stoke City,2,2,D,NaN,NaN,NaN
+ENG,15/04/1892,,Burnley FC,Notts County,1,0,H,NaN,NaN,NaN
+ENG,16/04/1892,,Aston Villa,Preston North End,3,1,H,NaN,NaN,NaN
+ENG,16/04/1892,,Burnley FC,Derby County,2,4,A,NaN,NaN,NaN
+ENG,16/04/1892,,Wolverhampton Wanderers,Bolton Wanderers,1,2,A,NaN,NaN,NaN
+ENG,18/04/1892,,Preston North End,Darwen,4,0,H,NaN,NaN,NaN
+ENG,15/04/1892,,Preston North End,Accrington Stanley (old),4,1,H,NaN,NaN,NaN
+ENG,16/04/1892,,Everton FC,Notts County,4,0,H,NaN,NaN,NaN
+ENG,18/04/1892,,Aston Villa,Wolverhampton Wanderers,3,6,A,NaN,NaN,NaN
+ENG,18/04/1892,,Everton FC,Bolton Wanderers,2,5,A,NaN,NaN,NaN
+ENG,23/04/1892,,Darwen,Sunderland AFC,1,7,A,NaN,NaN,NaN
+ENG,23/04/1892,,Stoke City,West Bromwich Albion,1,0,H,NaN,NaN,NaN
+ENG,30/04/1892,,Burnley FC,Sunderland AFC,1,2,A,NaN,NaN,NaN

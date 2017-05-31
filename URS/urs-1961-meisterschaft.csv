@@ -1,0 +1,51 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URS,28/08/1961,,CSKA Moskva,Avangard Kharkov,1,0,H,NaN,NaN,NaN
+URS,29/08/1961,,FC Ararat,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,29/08/1961,,Dinamo Kiev,FK SKA Rostov,1,0,H,NaN,NaN,NaN
+URS,29/08/1961,,Spartak Moskva,Torpedo Moskva,4,3,H,NaN,NaN,NaN
+URS,26/10/1961,,Pakhtakor Tashkent,Lokomotiv Moskva,4,4,D,NaN,NaN,NaN
+URS,02/09/1961,,Avangard Kharkov,Spartak Moskva,0,1,A,NaN,NaN,NaN
+URS,02/09/1961,,Torpedo Moskva,FC Ararat,1,1,D,NaN,NaN,NaN
+URS,03/09/1961,,Lokomotiv Moskva,CSKA Moskva,4,0,H,NaN,NaN,NaN
+URS,03/09/1961,,Dinamo Tbilisi,Dinamo Kiev,0,1,A,NaN,NaN,NaN
+URS,03/09/1961,,FK SKA Rostov,Pakhtakor Tashkent,2,2,D,NaN,NaN,NaN
+URS,15/09/1961,,CSKA Moskva,FK SKA Rostov,1,0,H,NaN,NaN,NaN
+URS,15/09/1961,,Dinamo Kiev,Torpedo Moskva,2,0,H,NaN,NaN,NaN
+URS,15/09/1961,,Pakhtakor Tashkent,Dinamo Tbilisi,1,4,A,NaN,NaN,NaN
+URS,15/09/1961,,FC Ararat,Avangard Kharkov,3,0,H,NaN,NaN,NaN
+URS,16/09/1961,,Spartak Moskva,Lokomotiv Moskva,4,1,H,NaN,NaN,NaN
+URS,20/09/1961,,Torpedo Moskva,Pakhtakor Tashkent,6,0,H,NaN,NaN,NaN
+URS,20/09/1961,,Dinamo Tbilisi,CSKA Moskva,3,0,H,NaN,NaN,NaN
+URS,20/09/1961,,FK SKA Rostov,Spartak Moskva,1,2,A,NaN,NaN,NaN
+URS,20/09/1961,,Avangard Kharkov,Dinamo Kiev,1,1,D,NaN,NaN,NaN
+URS,21/09/1961,,Lokomotiv Moskva,FC Ararat,1,0,H,NaN,NaN,NaN
+URS,25/09/1961,,CSKA Moskva,Torpedo Moskva,0,3,A,NaN,NaN,NaN
+URS,26/09/1961,,Pakhtakor Tashkent,Avangard Kharkov,3,1,H,NaN,NaN,NaN
+URS,26/09/1961,,Dinamo Kiev,Lokomotiv Moskva,2,2,D,NaN,NaN,NaN
+URS,26/09/1961,,Spartak Moskva,Dinamo Tbilisi,3,2,H,NaN,NaN,NaN
+URS,26/09/1961,,FC Ararat,FK SKA Rostov,2,5,A,NaN,NaN,NaN
+URS,01/10/1961,,Torpedo Moskva,Spartak Moskva,2,3,A,NaN,NaN,NaN
+URS,01/10/1961,,Avangard Kharkov,CSKA Moskva,0,0,D,NaN,NaN,NaN
+URS,01/10/1961,,FK SKA Rostov,Dinamo Kiev,2,4,A,NaN,NaN,NaN
+URS,01/10/1961,,Dinamo Tbilisi,FC Ararat,0,0,D,NaN,NaN,NaN
+URS,02/10/1961,,Lokomotiv Moskva,Pakhtakor Tashkent,2,1,H,NaN,NaN,NaN
+URS,05/10/1961,,Dinamo Kiev,Dinamo Tbilisi,1,0,H,NaN,NaN,NaN
+URS,05/10/1961,,Pakhtakor Tashkent,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,05/10/1961,,Spartak Moskva,Avangard Kharkov,0,0,D,NaN,NaN,NaN
+URS,06/10/1961,,CSKA Moskva,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+URS,06/10/1961,,FC Ararat,Torpedo Moskva,1,0,H,NaN,NaN,NaN
+URS,11/10/1961,,Torpedo Moskva,Dinamo Kiev,1,1,D,NaN,NaN,NaN
+URS,11/10/1961,,FK SKA Rostov,CSKA Moskva,0,0,D,NaN,NaN,NaN
+URS,11/10/1961,,Avangard Kharkov,FC Ararat,2,0,H,NaN,NaN,NaN
+URS,11/10/1961,,Dinamo Tbilisi,Pakhtakor Tashkent,4,0,H,NaN,NaN,NaN
+URS,12/10/1961,,Lokomotiv Moskva,Spartak Moskva,3,1,H,NaN,NaN,NaN
+URS,16/10/1961,,CSKA Moskva,Dinamo Tbilisi,1,0,H,NaN,NaN,NaN
+URS,17/10/1961,,Dinamo Kiev,Avangard Kharkov,0,0,D,NaN,NaN,NaN
+URS,17/10/1961,,Spartak Moskva,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,17/10/1961,,FC Ararat,Lokomotiv Moskva,2,2,D,NaN,NaN,NaN
+URS,17/10/1961,,Pakhtakor Tashkent,Torpedo Moskva,1,0,H,NaN,NaN,NaN
+URS,21/10/1961,,Lokomotiv Moskva,Dinamo Kiev,3,4,A,NaN,NaN,NaN
+URS,22/10/1961,,Avangard Kharkov,Pakhtakor Tashkent,4,1,H,NaN,NaN,NaN
+URS,22/10/1961,,Torpedo Moskva,CSKA Moskva,4,2,H,NaN,NaN,NaN
+URS,22/10/1961,,Dinamo Tbilisi,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,24/10/1961,,FK SKA Rostov,FC Ararat,3,0,H,NaN,NaN,NaN

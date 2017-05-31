@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,20/07/2012,16:30,Pandurii Târgu Jiu,Universitatea Cluj,6,2,H,3,1,H
+ROM,20/07/2012,18:20,CS Turnu Severin,Dinamo Bucureşti,1,2,A,0,0,D
+ROM,21/07/2012,17:00,Petrolul Ploieşti,Ceahlăul Piatra Neamt,5,0,H,2,0,H
+ROM,21/07/2012,19:30,CFR Cluj,Gaz Metan Mediaş,1,1,D,0,1,A
+ROM,22/07/2012,17:00,CSMS Iaşi,Oţelul Galaţi,1,2,A,0,0,D
+ROM,22/07/2012,17:00,Gloria Bistrita,Astra Ploieşti,1,2,A,1,2,A
+ROM,22/07/2012,19:30,Rapid Bucureşti,FC Vaslui,2,2,D,1,1,D
+ROM,23/07/2012,17:00,FC Viitorul Constanța,FC Braşov,2,2,D,1,1,D
+ROM,23/07/2012,19:30,Steaua Bucureşti,Concordia Chiajna,1,0,H,0,0,D
+ROM,27/07/2012,17:00,FC Braşov,CS Turnu Severin,2,1,H,1,0,H
+ROM,27/07/2012,19:30,Ceahlăul Piatra Neamt,CFR Cluj,2,2,D,1,1,D
+ROM,28/07/2012,17:00,Gaz Metan Mediaş,Pandurii Târgu Jiu,0,2,A,0,1,A
+ROM,28/07/2012,19:15,Astra Ploieşti,Steaua Bucureşti,3,4,A,2,2,D
+ROM,28/07/2012,19:30,FC Vaslui,Petrolul Ploieşti,3,0,H,1,0,H
+ROM,29/07/2012,17:00,Universitatea Cluj,Gloria Bistrita,1,0,H,0,0,D
+ROM,29/07/2012,19:30,Dinamo Bucureşti,CSMS Iaşi,5,2,H,2,1,H
+ROM,30/07/2012,16:30,Concordia Chiajna,FC Viitorul Constanța,1,1,D,0,1,A
+ROM,30/07/2012,18:20,Oţelul Galaţi,Rapid Bucureşti,1,1,D,1,0,H
+ROM,03/08/2012,17:00,Gloria Bistrita,Gaz Metan Mediaş,1,1,D,0,0,D
+ROM,03/08/2012,19:30,Pandurii Târgu Jiu,Ceahlăul Piatra Neamt,3,1,H,2,0,H
+ROM,04/08/2012,17:00,CS Turnu Severin,Concordia Chiajna,0,1,A,0,0,D
+ROM,04/08/2012,19:30,Petrolul Ploieşti,Oţelul Galaţi,2,1,H,1,0,H
+ROM,04/08/2012,19:45,CFR Cluj,FC Vaslui,3,0,H,1,0,H
+ROM,05/08/2012,17:00,FC Viitorul Constanța,Astra Ploieşti,0,0,D,0,0,D
+ROM,05/08/2012,19:30,Steaua Bucureşti,Universitatea Cluj,5,1,H,1,0,H
+ROM,06/08/2012,17:00,Rapid Bucureşti,CSMS Iaşi,1,0,H,1,0,H
+ROM,06/08/2012,19:30,FC Braşov,Dinamo Bucureşti,2,2,D,1,1,D
+ROM,10/08/2012,17:00,Astra Ploieşti,CS Turnu Severin,1,1,D,0,1,A
+ROM,10/08/2012,19:30,CSMS Iaşi,Petrolul Ploieşti,2,2,D,0,1,A
+ROM,12/08/2012,17:00,Universitatea Cluj,FC Viitorul Constanța,2,1,H,1,0,H
+ROM,12/08/2012,17:30,FC Vaslui,Pandurii Târgu Jiu,0,0,D,0,0,D
+ROM,12/08/2012,19:30,Gaz Metan Mediaş,Steaua Bucureşti,1,1,D,1,0,H
+ROM,13/08/2012,17:00,Oţelul Galaţi,CFR Cluj,1,2,A,1,1,D
+ROM,13/08/2012,17:00,Ceahlăul Piatra Neamt,Gloria Bistrita,2,0,H,1,0,H
+ROM,13/08/2012,19:30,Concordia Chiajna,FC Braşov,2,1,H,2,0,H
+ROM,22/10/2012,19:30,Dinamo Bucureşti,Rapid Bucureşti,2,1,H,1,1,D
+ROM,17/08/2012,17:00,CS Turnu Severin,Universitatea Cluj,1,1,D,0,1,A
+ROM,17/08/2012,18:30,CFR Cluj,CSMS Iaşi,2,2,D,1,0,H
+ROM,17/08/2012,19:30,Concordia Chiajna,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,18/08/2012,17:00,Gloria Bistrita,FC Vaslui,0,3,A,0,1,A
+ROM,18/08/2012,19:30,Petrolul Ploieşti,Rapid Bucureşti,0,0,D,0,0,D
+ROM,19/08/2012,20:00,Steaua Bucureşti,Ceahlăul Piatra Neamt,3,0,H,2,0,H
+ROM,20/08/2012,17:00,FC Viitorul Constanța,Gaz Metan Mediaş,0,1,A,0,0,D
+ROM,20/08/2012,17:00,Pandurii Târgu Jiu,Oţelul Galaţi,3,2,H,1,0,H
+ROM,20/08/2012,19:30,FC Braşov,Astra Ploieşti,1,2,A,1,2,A
+ROM,24/08/2012,19:30,Gaz Metan Mediaş,CS Turnu Severin,2,0,H,1,0,H
+ROM,25/08/2012,17:00,Oţelul Galaţi,Gloria Bistrita,1,1,D,0,1,A
+ROM,25/08/2012,17:00,Astra Ploieşti,Concordia Chiajna,6,3,H,5,1,H
+ROM,25/08/2012,19:30,Rapid Bucureşti,CFR Cluj,3,2,H,0,2,A
+ROM,26/08/2012,17:00,CSMS Iaşi,Pandurii Târgu Jiu,0,1,A,0,0,D
+ROM,26/08/2012,19:30,Dinamo Bucureşti,Petrolul Ploieşti,2,1,H,1,1,D
+ROM,27/08/2012,17:00,Ceahlăul Piatra Neamt,FC Viitorul Constanța,0,3,A,0,0,D
+ROM,27/08/2012,17:00,Universitatea Cluj,FC Braşov,1,1,D,0,0,D
+ROM,27/08/2012,19:30,FC Vaslui,Steaua Bucureşti,3,1,H,0,0,D
+ROM,31/08/2012,17:00,Gloria Bistrita,CSMS Iaşi,1,0,H,0,0,D
+ROM,01/09/2012,17:00,FC Braşov,Gaz Metan Mediaş,3,1,H,0,0,D
+ROM,01/09/2012,19:30,Pandurii Târgu Jiu,Rapid Bucureşti,2,0,H,1,0,H
+ROM,02/09/2012,15:00,Astra Ploieşti,Dinamo Bucureşti,1,0,H,0,0,D
+ROM,02/09/2012,16:55,Steaua Bucureşti,Oţelul Galaţi,2,1,H,2,1,H
+ROM,02/09/2012,18:50,CFR Cluj,Petrolul Ploieşti,2,2,D,1,1,D
+ROM,02/09/2012,19:45,Concordia Chiajna,Universitatea Cluj,0,2,A,0,2,A
+ROM,02/09/2012,20:45,FC Viitorul Constanța,FC Vaslui,2,2,D,1,1,D
+ROM,03/09/2012,17:00,CS Turnu Severin,Ceahlăul Piatra Neamt,1,1,D,0,1,A
+ROM,14/09/2012,17:00,Ceahlăul Piatra Neamt,FC Braşov,2,1,H,1,0,H
+ROM,14/09/2012,19:30,Dinamo Bucureşti,CFR Cluj,0,1,A,0,0,D
+ROM,15/09/2012,17:00,Oţelul Galaţi,FC Viitorul Constanța,1,1,D,1,1,D
+ROM,15/09/2012,17:00,Gaz Metan Mediaş,Concordia Chiajna,1,3,A,0,0,D
+ROM,15/09/2012,19:30,Rapid Bucureşti,Gloria Bistrita,3,1,H,2,1,H
+ROM,16/09/2012,17:00,Petrolul Ploieşti,Pandurii Târgu Jiu,4,0,H,1,0,H
+ROM,16/09/2012,19:30,CSMS Iaşi,Steaua Bucureşti,0,3,A,0,1,A
+ROM,17/09/2012,15:00,Universitatea Cluj,Astra Ploieşti,1,3,A,1,1,D
+ROM,17/09/2012,19:30,FC Vaslui,CS Turnu Severin,2,1,H,0,0,D
+ROM,21/09/2012,17:00,Concordia Chiajna,Ceahlăul Piatra Neamt,2,1,H,1,1,D
+ROM,21/09/2012,19:30,Gloria Bistrita,Petrolul Ploieşti,1,1,D,0,1,A
+ROM,22/09/2012,17:00,CS Turnu Severin,Oţelul Galaţi,1,1,D,1,1,D
+ROM,22/09/2012,19:30,Universitatea Cluj,Dinamo Bucureşti,1,2,A,1,1,D
+ROM,23/09/2012,17:00,FC Braşov,FC Vaslui,2,1,H,1,0,H
+ROM,23/09/2012,17:00,Astra Giurgiu,Gaz Metan Mediaş,4,0,H,0,0,D
+ROM,23/09/2012,19:30,Pandurii Târgu Jiu,CFR Cluj,2,1,H,0,0,D
+ROM,24/09/2012,16:00,FC Viitorul Constanța,CSMS Iaşi,1,0,H,1,0,H
+ROM,24/09/2012,18:30,Steaua Bucureşti,Rapid Bucureşti,1,0,H,0,0,D
+ROM,29/09/2012,15:00,Gaz Metan Mediaş,Universitatea Cluj,2,1,H,1,0,H
+ROM,29/09/2012,17:00,CFR Cluj,Gloria Bistrita,5,1,H,2,0,H
+ROM,29/09/2012,19:30,FC Vaslui,Concordia Chiajna,3,0,H,2,0,H
+ROM,30/09/2012,15:00,Oţelul Galaţi,FC Braşov,0,0,D,0,0,D
+ROM,30/09/2012,17:00,CSMS Iaşi,CS Turnu Severin,1,0,H,0,0,D
+ROM,30/09/2012,17:00,Rapid Bucureşti,FC Viitorul Constanța,2,1,H,1,0,H
+ROM,30/09/2012,19:30,Petrolul Ploieşti,Steaua Bucureşti,1,2,A,1,1,D
+ROM,01/10/2012,16:00,Ceahlăul Piatra Neamt,Astra Giurgiu,3,2,H,2,0,H
+ROM,01/10/2012,18:30,Dinamo Bucureşti,Pandurii Târgu Jiu,3,0,H,1,0,H
+ROM,05/10/2012,16:00,Universitatea Cluj,Ceahlăul Piatra Neamt,1,0,H,1,0,H
+ROM,05/10/2012,18:30,Astra Giurgiu,FC Vaslui,1,1,D,1,0,H
+ROM,06/10/2012,15:00,FC Viitorul Constanța,Petrolul Ploieşti,1,2,A,1,0,H
+ROM,06/10/2012,17:00,CS Turnu Severin,Rapid Bucureşti,0,1,A,0,1,A
+ROM,06/10/2012,19:30,Gaz Metan Mediaş,Dinamo Bucureşti,2,2,D,2,1,H
+ROM,07/10/2012,16:00,Gloria Bistrita,Pandurii Târgu Jiu,1,3,A,0,1,A
+ROM,07/10/2012,18:30,Steaua Bucureşti,CFR Cluj,1,0,H,0,0,D
+ROM,08/10/2012,17:00,FC Braşov,CSMS Iaşi,1,0,H,0,0,D
+ROM,08/10/2012,19:30,Concordia Chiajna,Oţelul Galaţi,0,0,D,0,0,D
+ROM,18/10/2012,17:30,CFR Cluj,FC Viitorul Constanța,0,1,A,0,1,A
+ROM,19/10/2012,17:00,Ceahlăul Piatra Neamt,Gaz Metan Mediaş,2,1,H,1,0,H
+ROM,19/10/2012,19:30,Rapid Bucureşti,FC Braşov,1,2,A,0,2,A
+ROM,19/10/2012,19:30,Dinamo Bucureşti,Gloria Bistrita,1,2,A,1,2,A
+ROM,20/10/2012,17:00,Oţelul Galaţi,Astra Giurgiu,2,1,H,0,0,D
+ROM,20/10/2012,19:30,Petrolul Ploieşti,CS Turnu Severin,1,0,H,0,0,D
+ROM,21/10/2012,17:00,FC Vaslui,Universitatea Cluj,1,0,H,1,0,H
+ROM,21/10/2012,19:30,Pandurii Târgu Jiu,Steaua Bucureşti,0,0,D,0,0,D
+ROM,22/10/2012,17:00,CSMS Iaşi,Concordia Chiajna,0,1,A,0,0,D
+ROM,26/10/2012,17:00,Universitatea Cluj,Oţelul Galaţi,1,1,D,1,1,D
+ROM,26/10/2012,18:00,FC Braşov,Petrolul Ploieşti,0,1,A,0,0,D
+ROM,26/10/2012,19:30,Astra Giurgiu,CSMS Iaşi,1,0,H,0,0,D
+ROM,27/10/2012,17:00,CS Turnu Severin,CFR Cluj,1,3,A,0,2,A
+ROM,27/10/2012,18:00,Concordia Chiajna,Rapid Bucureşti,0,0,D,0,0,D
+ROM,27/10/2012,19:30,Ceahlăul Piatra Neamt,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,28/10/2012,17:00,Gaz Metan Mediaş,FC Vaslui,1,0,H,1,0,H
+ROM,28/10/2012,19:30,Steaua Bucureşti,Gloria Bistrita,4,0,H,3,0,H
+ROM,29/10/2012,19:30,FC Viitorul Constanța,Pandurii Târgu Jiu,2,0,H,1,0,H
+ROM,02/11/2012,17:00,Gloria Bistrita,FC Viitorul Constanța,1,1,D,1,1,D
+ROM,02/11/2012,19:30,CSMS Iaşi,Universitatea Cluj,4,0,H,3,0,H
+ROM,03/11/2012,17:30,CFR Cluj,FC Braşov,5,0,H,1,0,H
+ROM,03/11/2012,19:30,FC Vaslui,Ceahlăul Piatra Neamt,4,3,H,3,1,H
+ROM,04/11/2012,17:00,Oţelul Galaţi,Gaz Metan Mediaş,2,0,H,1,0,H
+ROM,04/11/2012,19:30,Steaua Bucureşti,Dinamo Bucureşti,3,1,H,0,1,A
+ROM,05/11/2012,17:00,Pandurii Târgu Jiu,CS Turnu Severin,2,2,D,1,1,D
+ROM,05/11/2012,18:00,Petrolul Ploieşti,Concordia Chiajna,0,0,D,0,0,D
+ROM,05/11/2012,19:30,Rapid Bucureşti,Astra Giurgiu,0,2,A,0,1,A
+ROM,09/11/2012,17:00,CS Turnu Severin,Gloria Bistrita,1,0,H,0,0,D
+ROM,09/11/2012,19:30,Gaz Metan Mediaş,CSMS Iaşi,0,1,A,0,0,D
+ROM,10/11/2012,14:00,Ceahlăul Piatra Neamt,Oţelul Galaţi,4,1,H,1,0,H
+ROM,10/11/2012,17:00,Astra Giurgiu,Petrolul Ploieşti,1,1,D,0,0,D
+ROM,10/11/2012,19:30,Dinamo Bucureşti,FC Vaslui,0,1,A,0,1,A
+ROM,11/11/2012,17:00,Concordia Chiajna,CFR Cluj,1,2,A,0,1,A
+ROM,11/11/2012,17:30,FC Braşov,Pandurii Târgu Jiu,0,1,A,0,0,D
+ROM,11/11/2012,19:30,FC Viitorul Constanța,Steaua Bucureşti,0,4,A,0,3,A
+ROM,12/11/2012,18:30,Universitatea Cluj,Rapid Bucureşti,1,2,A,0,1,A
+ROM,16/11/2012,17:00,CFR Cluj,Astra Giurgiu,0,2,A,0,1,A
+ROM,16/11/2012,19:30,Petrolul Ploieşti,Universitatea Cluj,2,0,H,1,0,H
+ROM,16/11/2012,19:30,Gloria Bistrita,FC Braşov,1,1,D,0,0,D
+ROM,17/11/2012,17:00,CSMS Iaşi,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+ROM,17/11/2012,19:30,FC Viitorul Constanța,Dinamo Bucureşti,1,1,D,0,0,D
+ROM,18/11/2012,18:30,Steaua Bucureşti,CS Turnu Severin,2,1,H,2,1,H
+ROM,19/11/2012,17:00,Pandurii Târgu Jiu,Concordia Chiajna,2,1,H,1,1,D
+ROM,19/11/2012,18:00,Oţelul Galaţi,FC Vaslui,2,0,H,1,0,H
+ROM,19/11/2012,19:30,Rapid Bucureşti,Gaz Metan Mediaş,2,1,H,0,1,A
+ROM,23/11/2012,16:00,Gaz Metan Mediaş,Petrolul Ploieşti,2,0,H,1,0,H
+ROM,23/11/2012,17:00,Concordia Chiajna,Gloria Bistrita,2,1,H,1,0,H
+ROM,23/11/2012,18:30,Dinamo Bucureşti,Oţelul Galaţi,2,1,H,2,0,H
+ROM,24/11/2012,16:00,Universitatea Cluj,CFR Cluj,1,2,A,1,0,H
+ROM,24/11/2012,18:30,Ceahlăul Piatra Neamt,Rapid Bucureşti,0,0,D,0,0,D
+ROM,25/11/2012,18:30,Astra Giurgiu,Pandurii Târgu Jiu,4,1,H,1,1,D
+ROM,26/11/2012,16:00,CS Turnu Severin,FC Viitorul Constanța,2,2,D,1,1,D
+ROM,26/11/2012,17:00,FC Vaslui,CSMS Iaşi,3,0,H,0,0,D
+ROM,26/11/2012,18:30,FC Braşov,Steaua Bucureşti,3,1,H,1,1,D
+ROM,30/11/2012,16:00,Universitatea Cluj,Pandurii Târgu Jiu,1,1,D,1,0,H
+ROM,30/11/2012,18:00,Concordia Chiajna,Steaua Bucureşti,0,6,A,0,3,A
+ROM,01/12/2012,16:00,FC Braşov,FC Viitorul Constanța,3,1,H,1,1,D
+ROM,01/12/2012,18:30,Gaz Metan Mediaş,CFR Cluj,1,1,D,0,1,A
+ROM,02/12/2012,16:00,Ceahlăul Piatra Neamt,Petrolul Ploieşti,0,2,A,0,0,D
+ROM,02/12/2012,18:30,FC Vaslui,Rapid Bucureşti,1,0,H,1,0,H
+ROM,03/12/2012,16:00,Oţelul Galaţi,CSMS Iaşi,0,3,A,0,1,A
+ROM,03/12/2012,17:00,Astra Giurgiu,Gloria Bistrita,4,0,H,2,0,H
+ROM,03/12/2012,18:30,Dinamo Bucureşti,CS Turnu Severin,4,2,H,1,1,D
+ROM,07/12/2012,16:00,Gloria Bistrita,Universitatea Cluj,0,0,D,0,0,D
+ROM,07/12/2012,18:30,Pandurii Târgu Jiu,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,08/12/2012,16:00,Petrolul Ploieşti,FC Vaslui,0,0,D,0,0,D
+ROM,08/12/2012,18:30,Rapid Bucureşti,Oţelul Galaţi,2,3,A,1,2,A
+ROM,09/12/2012,16:00,CFR Cluj,Ceahlăul Piatra Neamt,3,2,H,1,1,D
+ROM,09/12/2012,18:00,CSMS Iaşi,Dinamo Bucureşti,1,1,D,1,1,D
+ROM,10/12/2012,16:00,FC Viitorul Constanța,Concordia Chiajna,1,1,D,0,1,A
+ROM,10/12/2012,17:00,CS Turnu Severin,FC Braşov,2,1,H,1,1,D
+ROM,10/12/2012,18:30,Steaua Bucureşti,Astra Giurgiu,2,0,H,1,0,H
+ROM,22/02/2013,18:00,Gaz Metan Mediaş,Gloria Bistrita,3,1,H,2,1,H
+ROM,23/02/2013,13:00,Concordia Chiajna,CS Turnu Severin,1,1,D,1,0,H
+ROM,23/02/2013,15:30,Ceahlăul Piatra Neamt,Pandurii Târgu Jiu,0,1,A,0,1,A
+ROM,23/02/2013,18:00,CSMS Iaşi,Rapid Bucureşti,0,1,A,0,1,A
+ROM,24/02/2013,16:00,Oţelul Galaţi,Petrolul Ploieşti,0,1,A,0,0,D
+ROM,24/02/2013,18:30,Dinamo Bucureşti,FC Braşov,2,1,H,2,0,H
+ROM,25/02/2013,16:00,Astra Giurgiu,FC Viitorul Constanța,2,0,H,1,0,H
+ROM,25/02/2013,17:30,Universitatea Cluj,Steaua Bucureşti,0,1,A,0,1,A
+ROM,25/02/2013,18:30,FC Vaslui,CFR Cluj,0,0,D,0,0,D
+ROM,01/03/2013,17:45,Gloria Bistrita,Ceahlăul Piatra Neamt,0,0,D,0,0,D
+ROM,02/03/2013,17:15,Steaua Bucureşti,Gaz Metan Mediaş,3,0,H,1,0,H
+ROM,02/03/2013,17:30,FC Viitorul Constanța,Universitatea Cluj,1,1,D,0,0,D
+ROM,02/03/2013,19:30,CFR Cluj,Oţelul Galaţi,0,1,A,0,1,A
+ROM,03/03/2013,16:00,Petrolul Ploieşti,CSMS Iaşi,2,1,H,0,0,D
+ROM,03/03/2013,18:30,Rapid Bucureşti,Dinamo Bucureşti,0,1,A,0,0,D
+ROM,04/03/2013,16:00,FC Braşov,Concordia Chiajna,3,2,H,0,0,D
+ROM,04/03/2013,17:30,Pandurii Târgu Jiu,FC Vaslui,2,1,H,0,0,D
+ROM,04/03/2013,18:30,CS Turnu Severin,Astra Giurgiu,0,0,D,0,0,D
+ROM,08/03/2013,18:30,Gaz Metan Mediaş,FC Viitorul Constanța,4,1,H,3,1,H
+ROM,09/03/2013,17:00,CSMS Iaşi,CFR Cluj,1,1,D,0,0,D
+ROM,09/03/2013,17:00,Astra Giurgiu,FC Braşov,3,0,H,2,0,H
+ROM,09/03/2013,19:30,Rapid Bucureşti,Petrolul Ploieşti,0,0,D,0,0,D
+ROM,10/03/2013,16:00,Oţelul Galaţi,Pandurii Târgu Jiu,1,0,H,0,0,D
+ROM,10/03/2013,18:30,Ceahlăul Piatra Neamt,Steaua Bucureşti,3,4,A,2,3,A
+ROM,11/03/2013,17:00,Universitatea Cluj,CS Turnu Severin,1,0,H,0,0,D
+ROM,11/03/2013,17:30,Dinamo Bucureşti,Concordia Chiajna,2,0,H,0,0,D
+ROM,11/03/2013,19:30,FC Vaslui,Gloria Bistrita,1,1,D,0,1,A
+ROM,15/03/2013,17:00,CS Turnu Severin,Gaz Metan Mediaş,2,0,H,0,0,D
+ROM,15/03/2013,17:00,Concordia Chiajna,Astra Giurgiu,0,2,A,0,0,D
+ROM,15/03/2013,19:30,Gloria Bistrita,Oţelul Galaţi,2,1,H,0,0,D
+ROM,16/03/2013,17:00,Pandurii Târgu Jiu,CSMS Iaşi,3,1,H,1,1,D
+ROM,16/03/2013,19:30,Petrolul Ploieşti,Dinamo Bucureşti,2,1,H,1,1,D
+ROM,17/03/2013,17:30,FC Viitorul Constanța,Ceahlăul Piatra Neamt,2,2,D,1,1,D
+ROM,17/03/2013,18:00,Steaua Bucureşti,FC Vaslui,1,0,H,1,0,H
+ROM,18/03/2013,17:00,FC Braşov,Universitatea Cluj,0,0,D,0,0,D
+ROM,18/03/2013,19:30,CFR Cluj,Rapid Bucureşti,0,0,D,0,0,D
+ROM,29/03/2013,18:30,Universitatea Cluj,Concordia Chiajna,1,0,H,0,0,D
+ROM,30/03/2013,17:00,Gaz Metan Mediaş,FC Braşov,0,0,D,0,0,D
+ROM,30/03/2013,19:30,Rapid Bucureşti,Pandurii Târgu Jiu,2,0,H,0,0,D
+ROM,31/03/2013,15:00,Ceahlăul Piatra Neamt,CS Turnu Severin,1,0,H,1,0,H
+ROM,31/03/2013,16:00,Petrolul Ploieşti,CFR Cluj,1,1,D,0,0,D
+ROM,31/03/2013,18:30,Dinamo Bucureşti,Astra Giurgiu,1,0,H,1,0,H
+ROM,01/04/2013,17:00,CSMS Iaşi,Gloria Bistrita,2,1,H,1,0,H
+ROM,01/04/2013,17:30,FC Vaslui,FC Viitorul Constanța,3,2,H,0,1,A
+ROM,01/04/2013,19:30,Oţelul Galaţi,Steaua Bucureşti,1,1,D,0,0,D
+ROM,05/04/2013,17:00,FC Braşov,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+ROM,05/04/2013,17:00,Astra Giurgiu,Universitatea Cluj,1,2,A,0,1,A
+ROM,05/04/2013,19:30,CS Turnu Severin,FC Vaslui,2,0,H,1,0,H
+ROM,06/04/2013,17:30,Pandurii Târgu Jiu,Petrolul Ploieşti,1,3,A,0,2,A
+ROM,06/04/2013,19:30,CFR Cluj,Dinamo Bucureşti,0,1,A,0,0,D
+ROM,07/04/2013,17:00,Gloria Bistrita,Rapid Bucureşti,0,1,A,0,0,D
+ROM,07/04/2013,19:30,Steaua Bucureşti,CSMS Iaşi,3,1,H,1,1,D
+ROM,08/04/2013,17:00,FC Viitorul Constanța,Oţelul Galaţi,0,0,D,0,0,D
+ROM,08/04/2013,17:00,Concordia Chiajna,Gaz Metan Mediaş,0,1,A,0,1,A
+ROM,12/04/2013,17:00,Gaz Metan Mediaş,Astra Giurgiu,2,1,H,2,0,H
+ROM,12/04/2013,19:30,CFR Cluj,Pandurii Târgu Jiu,2,3,A,0,1,A
+ROM,13/04/2013,15:00,Oţelul Galaţi,CS Turnu Severin,2,0,H,1,0,H
+ROM,13/04/2013,16:00,Ceahlăul Piatra Neamt,Concordia Chiajna,3,0,H,2,0,H
+ROM,13/04/2013,17:00,Petrolul Ploieşti,Gloria Bistrita,4,0,H,2,0,H
+ROM,13/04/2013,19:30,Dinamo Bucureşti,Universitatea Cluj,1,1,D,0,0,D
+ROM,14/04/2013,18:30,Rapid Bucureşti,Steaua Bucureşti,1,1,D,1,0,H
+ROM,15/04/2013,17:00,FC Vaslui,FC Braşov,1,1,D,0,1,A
+ROM,15/04/2013,18:30,CSMS Iaşi,FC Viitorul Constanța,1,2,A,1,0,H
+ROM,19/04/2013,18:30,Universitatea Cluj,Gaz Metan Mediaş,3,4,A,1,2,A
+ROM,20/04/2013,17:00,CS Turnu Severin,CSMS Iaşi,2,1,H,0,1,A
+ROM,20/04/2013,19:30,FC Viitorul Constanța,Rapid Bucureşti,1,2,A,1,0,H
+ROM,21/04/2013,15:00,Astra Giurgiu,Ceahlăul Piatra Neamt,4,2,H,1,1,D
+ROM,21/04/2013,17:00,Gloria Bistrita,CFR Cluj,0,5,A,0,1,A
+ROM,21/04/2013,17:30,Concordia Chiajna,FC Vaslui,1,1,D,0,1,A
+ROM,21/04/2013,19:30,Pandurii Târgu Jiu,Dinamo Bucureşti,2,0,H,0,0,D
+ROM,22/04/2013,17:00,FC Braşov,Oţelul Galaţi,3,2,H,3,2,H
+ROM,22/04/2013,18:45,Steaua Bucureşti,Petrolul Ploieşti,2,2,D,1,1,D
+ROM,26/04/2013,17:00,Ceahlăul Piatra Neamt,Universitatea Cluj,2,1,H,1,0,H
+ROM,26/04/2013,19:30,Rapid Bucureşti,CS Turnu Severin,1,0,H,1,0,H
+ROM,27/04/2013,17:00,Petrolul Ploieşti,FC Viitorul Constanța,3,0,H,0,0,D
+ROM,27/04/2013,19:30,FC Vaslui,Astra Giurgiu,2,1,H,1,0,H
+ROM,28/04/2013,12:00,Dinamo Bucureşti,Gaz Metan Mediaş,2,0,H,1,0,H
+ROM,28/04/2013,18:30,CFR Cluj,Steaua Bucureşti,0,0,D,0,0,D
+ROM,29/04/2013,17:00,Pandurii Târgu Jiu,Gloria Bistrita,4,0,H,2,0,H
+ROM,29/04/2013,17:00,Oţelul Galaţi,Concordia Chiajna,2,1,H,1,1,D
+ROM,29/04/2013,19:30,CSMS Iaşi,FC Braşov,1,2,A,1,1,D
+ROM,03/05/2013,16:00,Gaz Metan Mediaş,Ceahlăul Piatra Neamt,3,1,H,2,1,H
+ROM,03/05/2013,17:45,Steaua Bucureşti,Pandurii Târgu Jiu,2,0,H,2,0,H
+ROM,03/05/2013,18:30,Gloria Bistrita,Dinamo Bucureşti,1,2,A,1,1,D
+ROM,04/05/2013,12:00,FC Braşov,Rapid Bucureşti,2,0,H,1,0,H
+ROM,04/05/2013,14:00,Astra Giurgiu,Oţelul Galaţi,0,0,D,0,0,D
+ROM,04/05/2013,16:00,CS Turnu Severin,Petrolul Ploieşti,2,2,D,1,1,D
+ROM,04/05/2013,18:30,Universitatea Cluj,FC Vaslui,2,1,H,2,0,H
+ROM,05/05/2013,18:00,FC Viitorul Constanța,CFR Cluj,0,2,A,0,0,D
+ROM,06/05/2013,18:30,Concordia Chiajna,CSMS Iaşi,1,1,D,1,0,H
+ROM,07/05/2013,17:00,Dinamo Bucureşti,Ceahlăul Piatra Neamt,1,1,D,0,1,A
+ROM,07/05/2013,17:00,FC Vaslui,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,07/05/2013,19:30,Gloria Bistrita,Steaua Bucureşti,0,1,A,0,0,D
+ROM,08/05/2013,16:00,Oţelul Galaţi,Universitatea Cluj,0,2,A,0,1,A
+ROM,08/05/2013,18:30,Petrolul Ploieşti,FC Braşov,6,4,H,3,2,H
+ROM,09/05/2013,15:00,CFR Cluj,CS Turnu Severin,1,3,A,1,2,A
+ROM,09/05/2013,17:00,Rapid Bucureşti,Concordia Chiajna,0,0,D,0,0,D
+ROM,09/05/2013,17:00,CSMS Iaşi,Astra Giurgiu,0,2,A,0,1,A
+ROM,09/05/2013,19:30,Pandurii Târgu Jiu,FC Viitorul Constanța,4,1,H,2,1,H
+ROM,10/05/2013,19:00,Dinamo Bucureşti,Steaua Bucureşti,0,2,A,0,1,A
+ROM,11/05/2013,16:00,Gaz Metan Mediaş,Oţelul Galaţi,1,2,A,0,0,D
+ROM,11/05/2013,18:30,Ceahlăul Piatra Neamt,FC Vaslui,0,2,A,0,0,D
+ROM,12/05/2013,17:00,Concordia Chiajna,Petrolul Ploieşti,1,1,D,0,1,A
+ROM,12/05/2013,17:00,CS Turnu Severin,Pandurii Târgu Jiu,1,3,A,0,2,A
+ROM,12/05/2013,19:30,Astra Giurgiu,Rapid Bucureşti,3,2,H,1,0,H
+ROM,13/05/2013,17:00,Universitatea Cluj,CSMS Iaşi,0,2,A,0,2,A
+ROM,13/05/2013,17:30,FC Braşov,CFR Cluj,0,0,D,0,0,D
+ROM,13/05/2013,19:30,FC Viitorul Constanța,Gloria Bistrita,2,0,H,1,0,H
+ROM,17/05/2013,17:30,CFR Cluj,Concordia Chiajna,1,1,D,0,0,D
+ROM,17/05/2013,18:00,Oţelul Galaţi,Ceahlăul Piatra Neamt,3,2,H,2,2,D
+ROM,18/05/2013,15:00,Pandurii Târgu Jiu,FC Braşov,2,3,A,1,1,D
+ROM,18/05/2013,17:00,Petrolul Ploieşti,Astra Giurgiu,1,1,D,1,0,H
+ROM,18/05/2013,19:30,FC Vaslui,Dinamo Bucureşti,4,1,H,2,1,H
+ROM,19/05/2013,18:30,Steaua Bucureşti,FC Viitorul Constanța,2,5,A,1,4,A
+ROM,20/05/2013,17:00,Gloria Bistrita,CS Turnu Severin,0,0,D,0,0,D
+ROM,20/05/2013,17:30,Rapid Bucureşti,Universitatea Cluj,1,4,A,1,3,A
+ROM,20/05/2013,19:30,CSMS Iaşi,Gaz Metan Mediaş,0,2,A,0,2,A
+ROM,23/05/2013,18:00,FC Braşov,Gloria Bistrita,4,1,H,2,0,H
+ROM,24/05/2013,17:00,FC Vaslui,Oţelul Galaţi,1,0,H,1,0,H
+ROM,24/05/2013,19:30,Dinamo Bucureşti,FC Viitorul Constanța,2,3,A,1,1,D
+ROM,24/05/2013,20:00,Gaz Metan Mediaş,Rapid Bucureşti,1,1,D,1,1,D
+ROM,26/05/2013,15:00,Universitatea Cluj,Petrolul Ploieşti,2,4,A,0,2,A
+ROM,26/05/2013,17:00,CS Turnu Severin,Steaua Bucureşti,1,1,D,1,0,H
+ROM,26/05/2013,19:30,Astra Giurgiu,CFR Cluj,3,3,D,3,2,H
+ROM,27/05/2013,17:30,Concordia Chiajna,Pandurii Târgu Jiu,0,1,A,0,1,A
+ROM,27/05/2013,18:30,Ceahlăul Piatra Neamt,CSMS Iaşi,1,0,H,0,0,D
+ROM,28/05/2013,16:00,Steaua Bucureşti,FC Braşov,4,0,H,2,0,H
+ROM,28/05/2013,20:00,Oţelul Galaţi,Dinamo Bucureşti,0,1,A,0,0,D
+ROM,29/05/2013,17:00,CFR Cluj,Universitatea Cluj,3,1,H,1,0,H
+ROM,29/05/2013,19:30,Petrolul Ploieşti,Gaz Metan Mediaş,1,1,D,0,1,A
+ROM,29/05/2013,19:30,Pandurii Târgu Jiu,Astra Giurgiu,1,1,D,0,1,A
+ROM,30/05/2013,16:00,CSMS Iaşi,FC Vaslui,1,2,A,0,2,A
+ROM,30/05/2013,18:30,FC Viitorul Constanța,CS Turnu Severin,3,4,A,2,1,H
+ROM,30/05/2013,18:30,Gloria Bistrita,Concordia Chiajna,1,3,A,0,1,A
+ROM,30/05/2013,18:30,Rapid Bucureşti,Ceahlăul Piatra Neamt,2,0,H,2,0,H

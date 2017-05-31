@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FIN,02/04/2016,12:00,HJK Helsinki,IFK Mariehamn,2,0,H,0,0,D
+FIN,02/04/2016,15:00,PK-35 Vantaa,Rovaniemi PS,3,4,A,2,0,H
+FIN,02/07/2016,14:00,Ilves Tampere,SJK Seinäjoki,2,1,H,1,1,D
+FIN,03/07/2016,16:30,PS Kemi Kings,Helsingfors IFK,1,2,A,1,1,D
+FIN,03/07/2016,16:30,FC Lahti,Kuopion PS,0,0,D,0,0,D
+FIN,04/07/2016,16:30,Inter Turku,Vaasan PS,0,2,A,0,2,A
+FIN,08/04/2016,16:30,HJK Helsinki,Vaasan PS,3,1,H,1,0,H
+FIN,09/04/2016,14:00,Inter Turku,FC Lahti,1,1,D,0,0,D
+FIN,09/04/2016,14:00,PK-35 Vantaa,Helsingfors IFK,0,2,A,0,1,A
+FIN,09/04/2016,14:00,Kuopion PS,Ilves Tampere,0,1,A,0,1,A
+FIN,09/04/2016,14:00,PS Kemi Kings,SJK Seinäjoki,3,0,H,0,1,A
+FIN,09/04/2016,14:00,IFK Mariehamn,Rovaniemi PS,1,0,H,0,0,D
+FIN,14/04/2016,16:30,SJK Seinäjoki,IFK Mariehamn,0,1,A,0,1,A
+FIN,14/04/2016,16:30,Helsingfors IFK,Inter Turku,1,2,A,0,1,A
+FIN,14/04/2016,16:30,Kuopion PS,PK-35 Vantaa,2,3,A,1,3,A
+FIN,14/04/2016,16:30,Rovaniemi PS,HJK Helsinki,2,2,D,2,2,D
+FIN,28/06/2016,16:30,Vaasan PS,Ilves Tampere,2,0,H,2,0,H
+FIN,29/06/2016,16:30,FC Lahti,PS Kemi Kings,1,0,H,0,0,D
+FIN,17/04/2016,13:00,PS Kemi Kings,IFK Mariehamn,1,2,A,0,1,A
+FIN,17/04/2016,14:00,PK-35 Vantaa,Vaasan PS,0,2,A,0,0,D
+FIN,18/04/2016,16:30,HJK Helsinki,SJK Seinäjoki,2,1,H,0,1,A
+FIN,18/04/2016,16:30,Inter Turku,Kuopion PS,3,1,H,0,1,A
+FIN,18/04/2016,16:30,FC Lahti,Helsingfors IFK,2,2,D,2,1,H
+FIN,24/08/2016,16:30,Ilves Tampere,Rovaniemi PS,1,1,D,1,1,D
+FIN,24/04/2016,14:00,SJK Seinäjoki,Ilves Tampere,0,2,A,0,0,D
+FIN,24/04/2016,14:00,Kuopion PS,FC Lahti,2,0,H,1,0,H
+FIN,24/04/2016,14:00,Vaasan PS,Inter Turku,0,0,D,0,0,D
+FIN,24/04/2016,14:00,Rovaniemi PS,PK-35 Vantaa,1,0,H,0,0,D
+FIN,24/04/2016,14:30,IFK Mariehamn,HJK Helsinki,0,0,D,0,0,D
+FIN,25/04/2016,16:30,Helsingfors IFK,PS Kemi Kings,0,0,D,0,0,D
+FIN,28/04/2016,16:30,FC Lahti,Vaasan PS,4,0,H,2,0,H
+FIN,28/04/2016,16:30,Inter Turku,Rovaniemi PS,1,2,A,1,1,D
+FIN,28/04/2016,16:30,Helsingfors IFK,Kuopion PS,3,2,H,3,0,H
+FIN,29/04/2016,16:30,PK-35 Vantaa,SJK Seinäjoki,0,0,D,0,0,D
+FIN,29/04/2016,16:30,Ilves Tampere,IFK Mariehamn,0,1,A,0,1,A
+FIN,29/04/2016,16:30,PS Kemi Kings,HJK Helsinki,1,0,H,1,0,H
+FIN,04/05/2016,16:30,IFK Mariehamn,PK-35 Vantaa,0,0,D,0,0,D
+FIN,04/05/2016,16:30,HJK Helsinki,Ilves Tampere,5,1,H,0,1,A
+FIN,04/05/2016,16:30,Kuopion PS,PS Kemi Kings,2,0,H,1,0,H
+FIN,04/05/2016,16:30,Vaasan PS,Helsingfors IFK,3,1,H,2,1,H
+FIN,05/05/2016,12:00,SJK Seinäjoki,Inter Turku,1,0,H,0,0,D
+FIN,05/05/2016,12:00,Rovaniemi PS,FC Lahti,0,0,D,0,0,D
+FIN,07/05/2016,14:00,PK-35 Vantaa,HJK Helsinki,1,2,A,0,0,D
+FIN,07/05/2016,14:00,Kuopion PS,Vaasan PS,1,0,H,0,0,D
+FIN,07/05/2016,14:00,PS Kemi Kings,Ilves Tampere,1,0,H,0,0,D
+FIN,09/05/2016,16:00,FC Lahti,SJK Seinäjoki,3,0,H,1,0,H
+FIN,09/05/2016,16:00,Inter Turku,IFK Mariehamn,0,2,A,0,1,A
+FIN,09/05/2016,16:00,Helsingfors IFK,Rovaniemi PS,1,1,D,1,0,H
+FIN,13/05/2016,16:30,Ilves Tampere,PK-35 Vantaa,2,0,H,0,0,D
+FIN,13/05/2016,16:30,Vaasan PS,PS Kemi Kings,0,1,A,0,0,D
+FIN,13/05/2016,16:30,Rovaniemi PS,Kuopion PS,0,1,A,0,0,D
+FIN,14/05/2016,14:00,SJK Seinäjoki,Helsingfors IFK,2,1,H,1,0,H
+FIN,15/05/2016,16:30,IFK Mariehamn,FC Lahti,3,0,H,2,0,H
+FIN,16/05/2016,16:30,HJK Helsinki,Inter Turku,3,1,H,1,1,D
+FIN,20/05/2016,16:30,FC Lahti,HJK Helsinki,1,2,A,0,1,A
+FIN,20/05/2016,16:30,Helsingfors IFK,IFK Mariehamn,0,1,A,0,0,D
+FIN,21/05/2016,14:00,Inter Turku,Ilves Tampere,1,0,H,0,0,D
+FIN,21/05/2016,14:00,Kuopion PS,SJK Seinäjoki,0,0,D,0,0,D
+FIN,21/05/2016,14:00,PK-35 Vantaa,PS Kemi Kings,2,2,D,1,0,H
+FIN,22/05/2016,16:30,Vaasan PS,Rovaniemi PS,1,0,H,1,0,H
+FIN,25/05/2016,16:30,Ilves Tampere,FC Lahti,2,0,H,2,0,H
+FIN,25/05/2016,16:30,SJK Seinäjoki,Vaasan PS,1,0,H,0,0,D
+FIN,25/05/2016,16:30,IFK Mariehamn,Kuopion PS,0,3,A,0,2,A
+FIN,25/05/2016,16:30,PK-35 Vantaa,Inter Turku,3,1,H,1,0,H
+FIN,26/05/2016,16:30,HJK Helsinki,Helsingfors IFK,2,1,H,2,1,H
+FIN,23/06/2016,15:30,PS Kemi Kings,Rovaniemi PS,0,2,A,0,0,D
+FIN,28/05/2016,14:00,Rovaniemi PS,SJK Seinäjoki,2,3,A,1,0,H
+FIN,28/05/2016,14:00,FC Lahti,PK-35 Vantaa,2,1,H,2,0,H
+FIN,28/05/2016,16:00,Inter Turku,PS Kemi Kings,0,2,A,0,0,D
+FIN,29/05/2016,16:30,Helsingfors IFK,Ilves Tampere,0,1,A,0,0,D
+FIN,29/05/2016,16:30,Kuopion PS,HJK Helsinki,0,0,D,0,0,D
+FIN,29/05/2016,16:30,IFK Mariehamn,Vaasan PS,2,2,D,2,0,H
+FIN,09/06/2016,16:30,FC Lahti,Inter Turku,1,0,H,1,0,H
+FIN,09/06/2016,16:30,Rovaniemi PS,IFK Mariehamn,0,0,D,0,0,D
+FIN,09/06/2016,16:30,Vaasan PS,HJK Helsinki,3,0,H,2,0,H
+FIN,09/06/2016,16:30,Helsingfors IFK,PK-35 Vantaa,1,2,A,0,2,A
+FIN,09/06/2016,16:30,Ilves Tampere,Kuopion PS,1,0,H,1,0,H
+FIN,09/06/2016,16:30,SJK Seinäjoki,PS Kemi Kings,1,0,H,1,0,H
+FIN,12/06/2016,11:30,IFK Mariehamn,SJK Seinäjoki,1,0,H,0,0,D
+FIN,12/06/2016,11:30,PS Kemi Kings,FC Lahti,2,1,H,1,0,H
+FIN,12/06/2016,11:30,Inter Turku,Helsingfors IFK,1,0,H,0,0,D
+FIN,12/06/2016,11:30,PK-35 Vantaa,Kuopion PS,1,1,D,0,0,D
+FIN,12/06/2016,11:30,Ilves Tampere,Vaasan PS,1,0,H,1,0,H
+FIN,12/06/2016,11:30,HJK Helsinki,Rovaniemi PS,1,1,D,0,0,D
+FIN,18/06/2016,11:30,Helsingfors IFK,FC Lahti,2,2,D,1,0,H
+FIN,18/06/2016,11:30,SJK Seinäjoki,HJK Helsinki,2,3,A,2,1,H
+FIN,18/06/2016,11:30,Rovaniemi PS,Ilves Tampere,1,0,H,1,0,H
+FIN,19/06/2016,16:30,Kuopion PS,Inter Turku,2,1,H,0,0,D
+FIN,19/06/2016,16:30,IFK Mariehamn,PS Kemi Kings,2,0,H,1,0,H
+FIN,13/07/2016,16:30,Vaasan PS,PK-35 Vantaa,2,1,H,0,0,D
+FIN,28/06/2016,16:30,Inter Turku,SJK Seinäjoki,1,3,A,0,0,D
+FIN,16/07/2016,14:00,PS Kemi Kings,Kuopion PS,0,2,A,0,2,A
+FIN,17/07/2016,16:30,PK-35 Vantaa,IFK Mariehamn,0,2,A,0,2,A
+FIN,17/07/2016,16:30,FC Lahti,Rovaniemi PS,1,2,A,0,1,A
+FIN,17/07/2016,16:30,Ilves Tampere,HJK Helsinki,1,0,H,1,0,H
+FIN,18/07/2016,16:30,Helsingfors IFK,Vaasan PS,0,1,A,0,0,D
+FIN,08/07/2016,16:30,SJK Seinäjoki,PK-35 Vantaa,3,2,H,3,1,H
+FIN,08/07/2016,17:30,Vaasan PS,FC Lahti,1,0,H,0,0,D
+FIN,10/07/2016,15:00,Kuopion PS,Helsingfors IFK,1,0,H,0,0,D
+FIN,10/07/2016,15:00,Rovaniemi PS,Inter Turku,2,1,H,2,1,H
+FIN,10/07/2016,15:00,IFK Mariehamn,Ilves Tampere,3,1,H,1,1,D
+FIN,10/07/2016,15:00,HJK Helsinki,PS Kemi Kings,2,0,H,0,0,D
+FIN,23/07/2016,14:00,SJK Seinäjoki,FC Lahti,4,1,H,2,1,H
+FIN,24/07/2016,16:30,Ilves Tampere,PS Kemi Kings,1,1,D,1,1,D
+FIN,24/07/2016,16:30,Rovaniemi PS,Helsingfors IFK,1,0,H,1,0,H
+FIN,24/07/2016,16:30,HJK Helsinki,PK-35 Vantaa,4,2,H,4,0,H
+FIN,25/07/2016,16:30,Vaasan PS,Kuopion PS,3,0,H,1,0,H
+FIN,25/07/2016,16:30,IFK Mariehamn,Inter Turku,0,0,D,0,0,D
+FIN,30/07/2016,14:00,Helsingfors IFK,SJK Seinäjoki,1,1,D,1,1,D
+FIN,30/07/2016,14:00,PS Kemi Kings,Vaasan PS,0,0,D,0,0,D
+FIN,31/07/2016,16:30,FC Lahti,IFK Mariehamn,1,1,D,1,1,D
+FIN,31/07/2016,16:30,Kuopion PS,Rovaniemi PS,1,1,D,0,1,A
+FIN,31/07/2016,16:30,Inter Turku,HJK Helsinki,0,0,D,0,0,D
+FIN,02/08/2016,16:30,PK-35 Vantaa,Ilves Tampere,1,1,D,0,0,D
+FIN,06/08/2016,12:00,PS Kemi Kings,PK-35 Vantaa,2,1,H,0,0,D
+FIN,06/08/2016,14:00,Ilves Tampere,Inter Turku,0,0,D,0,0,D
+FIN,06/08/2016,14:00,SJK Seinäjoki,Kuopion PS,1,0,H,1,0,H
+FIN,07/08/2016,16:30,IFK Mariehamn,Helsingfors IFK,2,5,A,2,2,D
+FIN,07/08/2016,16:30,Rovaniemi PS,Vaasan PS,2,0,H,2,0,H
+FIN,07/08/2016,16:30,HJK Helsinki,FC Lahti,2,2,D,0,1,A
+FIN,10/08/2016,16:30,Vaasan PS,SJK Seinäjoki,2,1,H,2,0,H
+FIN,10/08/2016,16:30,Kuopion PS,IFK Mariehamn,1,0,H,1,0,H
+FIN,10/08/2016,16:30,FC Lahti,Ilves Tampere,3,2,H,1,0,H
+FIN,10/08/2016,16:30,Inter Turku,PK-35 Vantaa,2,2,D,1,0,H
+FIN,10/08/2016,16:30,Rovaniemi PS,PS Kemi Kings,5,0,H,4,0,H
+FIN,10/08/2016,16:30,Helsingfors IFK,HJK Helsinki,0,0,D,0,0,D
+FIN,13/08/2016,14:00,PS Kemi Kings,Inter Turku,3,1,H,2,0,H
+FIN,13/08/2016,14:00,PK-35 Vantaa,FC Lahti,1,1,D,1,0,H
+FIN,13/08/2016,14:00,Ilves Tampere,Helsingfors IFK,3,1,H,1,0,H
+FIN,13/08/2016,14:00,SJK Seinäjoki,Rovaniemi PS,3,1,H,2,1,H
+FIN,14/08/2016,16:30,Vaasan PS,IFK Mariehamn,0,2,A,0,1,A
+FIN,15/08/2016,16:30,HJK Helsinki,Kuopion PS,2,3,A,1,0,H
+FIN,20/08/2016,14:00,PS Kemi Kings,Rovaniemi PS,3,1,H,0,0,D
+FIN,20/08/2016,14:00,SJK Seinäjoki,Ilves Tampere,4,0,H,2,0,H
+FIN,21/08/2016,16:30,IFK Mariehamn,Helsingfors IFK,1,0,H,0,0,D
+FIN,21/08/2016,16:30,Vaasan PS,HJK Helsinki,0,0,D,0,0,D
+FIN,21/08/2016,16:30,Kuopion PS,PK-35 Vantaa,3,0,H,1,0,H
+FIN,21/08/2016,16:30,FC Lahti,Inter Turku,1,2,A,0,1,A
+FIN,26/08/2016,16:30,PK-35 Vantaa,PS Kemi Kings,0,1,A,0,1,A
+FIN,27/08/2016,14:00,Inter Turku,Ilves Tampere,0,1,A,0,1,A
+FIN,27/08/2016,14:00,Rovaniemi PS,FC Lahti,3,0,H,3,0,H
+FIN,27/08/2016,14:00,Helsingfors IFK,SJK Seinäjoki,3,1,H,1,0,H
+FIN,28/08/2016,16:30,IFK Mariehamn,Vaasan PS,0,0,D,0,0,D
+FIN,28/08/2016,16:30,HJK Helsinki,Kuopion PS,1,0,H,1,0,H
+FIN,09/09/2016,15:30,PS Kemi Kings,HJK Helsinki,0,2,A,0,2,A
+FIN,09/09/2016,16:30,Ilves Tampere,Rovaniemi PS,2,1,H,1,0,H
+FIN,09/09/2016,16:30,SJK Seinäjoki,Inter Turku,1,0,H,1,0,H
+FIN,09/09/2016,16:30,Kuopion PS,IFK Mariehamn,2,1,H,0,0,D
+FIN,09/09/2016,16:30,FC Lahti,PK-35 Vantaa,2,0,H,1,0,H
+FIN,09/09/2016,16:30,Helsingfors IFK,Vaasan PS,0,1,A,0,0,D
+FIN,12/09/2016,16:30,IFK Mariehamn,PS Kemi Kings,1,0,H,1,0,H
+FIN,12/09/2016,16:30,Vaasan PS,Kuopion PS,1,1,D,0,0,D
+FIN,12/09/2016,16:30,Inter Turku,Helsingfors IFK,0,0,D,0,0,D
+FIN,12/09/2016,16:30,Rovaniemi PS,SJK Seinäjoki,1,1,D,0,0,D
+FIN,12/09/2016,16:30,PK-35 Vantaa,Ilves Tampere,1,3,A,0,3,A
+FIN,12/09/2016,16:30,HJK Helsinki,FC Lahti,1,4,A,0,2,A
+FIN,16/09/2016,16:30,FC Lahti,Kuopion PS,1,1,D,1,0,H
+FIN,16/09/2016,16:30,Helsingfors IFK,PS Kemi Kings,3,1,H,1,0,H
+FIN,16/09/2016,16:30,Inter Turku,HJK Helsinki,3,2,H,2,0,H
+FIN,16/09/2016,16:30,Rovaniemi PS,PK-35 Vantaa,1,0,H,0,0,D
+FIN,16/09/2016,16:30,Ilves Tampere,Vaasan PS,0,0,D,0,0,D
+FIN,17/09/2016,14:00,SJK Seinäjoki,IFK Mariehamn,1,0,H,0,0,D
+FIN,20/09/2016,16:30,PK-35 Vantaa,Helsingfors IFK,0,2,A,0,1,A
+FIN,21/09/2016,15:00,PS Kemi Kings,FC Lahti,2,4,A,2,1,H
+FIN,21/09/2016,16:30,IFK Mariehamn,Inter Turku,1,1,D,1,1,D
+FIN,21/09/2016,16:30,Vaasan PS,SJK Seinäjoki,1,2,A,1,2,A
+FIN,21/09/2016,16:30,Kuopion PS,Ilves Tampere,1,2,A,0,0,D
+FIN,21/09/2016,16:30,HJK Helsinki,Rovaniemi PS,2,1,H,1,1,D
+FIN,24/08/2016,16:30,HJK Helsinki,PK-35 Vantaa,2,0,H,1,0,H
+FIN,25/09/2016,16:30,Ilves Tampere,PS Kemi Kings,2,0,H,1,0,H
+FIN,25/09/2016,16:30,Rovaniemi PS,IFK Mariehamn,1,1,D,1,1,D
+FIN,26/09/2016,16:30,FC Lahti,Helsingfors IFK,0,0,D,0,0,D
+FIN,26/09/2016,16:30,Inter Turku,Vaasan PS,1,1,D,1,1,D
+FIN,28/09/2016,16:30,SJK Seinäjoki,Kuopion PS,1,0,H,0,0,D
+FIN,30/09/2016,16:30,Helsingfors IFK,HJK Helsinki,2,1,H,1,0,H
+FIN,01/10/2016,13:00,PS Kemi Kings,SJK Seinäjoki,1,3,A,1,0,H
+FIN,02/10/2016,16:30,IFK Mariehamn,PK-35 Vantaa,4,2,H,1,1,D
+FIN,02/10/2016,16:30,Vaasan PS,Rovaniemi PS,1,0,H,0,0,D
+FIN,02/10/2016,16:30,Kuopion PS,Inter Turku,0,2,A,0,2,A
+FIN,02/10/2016,16:30,FC Lahti,Ilves Tampere,0,0,D,0,0,D
+FIN,14/10/2016,16:30,Inter Turku,PS Kemi Kings,0,0,D,0,0,D
+FIN,14/10/2016,16:30,PK-35 Vantaa,Vaasan PS,1,2,A,0,0,D
+FIN,14/10/2016,16:30,Ilves Tampere,Helsingfors IFK,1,1,D,0,0,D
+FIN,14/10/2016,16:30,SJK Seinäjoki,FC Lahti,2,2,D,0,1,A
+FIN,14/10/2016,16:30,Rovaniemi PS,Kuopion PS,2,1,H,2,1,H
+FIN,14/10/2016,16:30,HJK Helsinki,IFK Mariehamn,1,1,D,1,0,H
+FIN,17/10/2016,16:30,PS Kemi Kings,Vaasan PS,1,4,A,1,2,A
+FIN,17/10/2016,16:30,Ilves Tampere,HJK Helsinki,1,3,A,1,0,H
+FIN,17/10/2016,16:30,SJK Seinäjoki,PK-35 Vantaa,5,0,H,4,0,H
+FIN,17/10/2016,16:30,Inter Turku,Rovaniemi PS,1,1,D,0,0,D
+FIN,17/10/2016,16:30,FC Lahti,IFK Mariehamn,0,2,A,0,1,A
+FIN,17/10/2016,16:30,Helsingfors IFK,Kuopion PS,0,2,A,0,1,A
+FIN,23/10/2016,13:00,IFK Mariehamn,Ilves Tampere,2,1,H,1,1,D
+FIN,23/10/2016,13:00,Vaasan PS,FC Lahti,0,1,A,0,0,D
+FIN,23/10/2016,13:00,Kuopion PS,PS Kemi Kings,1,0,H,1,0,H
+FIN,23/10/2016,13:00,Rovaniemi PS,Helsingfors IFK,0,0,D,0,0,D
+FIN,23/10/2016,13:00,PK-35 Vantaa,Inter Turku,2,1,H,2,0,H
+FIN,23/10/2016,13:00,HJK Helsinki,SJK Seinäjoki,0,0,D,0,0,D

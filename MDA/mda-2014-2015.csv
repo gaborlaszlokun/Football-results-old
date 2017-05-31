@@ -1,0 +1,109 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MDA,25/07/2014,17:00,FC Sheriff,FC Tiraspol,2,1,H,2,0,H
+MDA,26/07/2014,16:00,FC Milsami,FC Saxan,1,1,D,0,1,A
+MDA,27/07/2014,16:00,FC Zaria,FC Academia UTM,1,0,H,0,0,D
+MDA,02/08/2014,16:00,Dacia Chişinău,FC Milsami,2,0,H,1,0,H
+MDA,02/08/2014,16:00,FC Saxan,FC Sheriff,1,1,D,0,0,D
+MDA,02/08/2014,17:00,FC Tiraspol,Dinamo Auto,8,1,H,2,0,H
+MDA,03/08/2014,16:00,FC Academia UTM,FC Zimbru,0,2,A,0,2,A
+MDA,08/08/2014,16:00,Dinamo Auto,FC Saxan,0,3,A,0,1,A
+MDA,08/08/2014,16:00,FC Zaria,FC Tiraspol,0,1,A,0,0,D
+MDA,10/08/2014,17:00,FC Sheriff,Dacia Chişinău,1,2,A,0,1,A
+MDA,16/08/2014,17:00,FC Tiraspol,FC Zimbru,2,1,H,1,1,D
+MDA,17/08/2014,15:00,Dacia Chişinău,Dinamo Auto,2,0,H,1,0,H
+MDA,17/08/2014,15:00,FC Saxan,FC Zaria,1,0,H,0,0,D
+MDA,23/08/2014,15:00,FC Zaria,Dacia Chişinău,0,2,A,0,0,D
+MDA,24/08/2014,15:00,FC Academia UTM,FC Tiraspol,0,3,A,0,1,A
+MDA,24/08/2014,17:00,FC Sheriff,FC Milsami,0,0,D,0,0,D
+MDA,24/08/2014,18:00,FC Zimbru,FC Saxan,0,0,D,0,0,D
+MDA,29/08/2014,15:00,FC Milsami,Dinamo Auto,6,0,H,4,0,H
+MDA,30/08/2014,15:00,FC Saxan,FC Academia UTM,1,0,H,0,0,D
+MDA,31/08/2014,15:00,Dacia Chişinău,FC Zimbru,0,0,D,0,0,D
+MDA,13/09/2014,14:00,Dinamo Auto,FC Sheriff,1,2,A,1,2,A
+MDA,13/09/2014,14:00,FC Zaria,FC Milsami,1,3,A,1,1,D
+MDA,14/09/2014,14:00,FC Academia UTM,Dacia Chişinău,0,1,A,0,1,A
+MDA,19/09/2014,14:00,FC Saxan,FC Tiraspol,2,0,H,0,0,D
+MDA,20/09/2014,14:00,FC Milsami,FC Zimbru,1,0,H,1,0,H
+MDA,20/09/2014,16:00,FC Sheriff,FC Zaria,4,0,H,2,0,H
+MDA,27/09/2014,17:00,FC Zimbru,FC Sheriff,0,1,A,0,1,A
+MDA,28/09/2014,14:00,FC Zaria,Dinamo Auto,2,0,H,0,0,D
+MDA,28/09/2014,14:00,FC Academia UTM,FC Milsami,1,1,D,0,1,A
+MDA,28/09/2014,16:00,FC Tiraspol,Dacia Chişinău,0,0,D,0,0,D
+MDA,03/10/2014,13:00,Dinamo Auto,FC Zimbru,0,3,A,0,2,A
+MDA,04/10/2014,13:00,Dacia Chişinău,FC Saxan,0,0,D,0,0,D
+MDA,04/10/2014,15:00,FC Sheriff,FC Academia UTM,3,0,H,1,0,H
+MDA,19/10/2014,13:00,FC Academia UTM,Dinamo Auto,2,0,H,1,0,H
+MDA,19/10/2014,15:00,FC Zimbru,FC Zaria,6,0,H,5,0,H
+MDA,19/10/2014,15:00,FC Tiraspol,FC Milsami,1,2,A,0,1,A
+MDA,24/10/2014,13:00,FC Academia UTM,FC Zaria,5,2,H,3,2,H
+MDA,25/10/2014,13:00,FC Saxan,FC Milsami,0,2,A,0,0,D
+MDA,25/10/2014,15:00,FC Tiraspol,FC Sheriff,2,4,A,1,3,A
+MDA,01/11/2014,12:00,Dinamo Auto,FC Tiraspol,0,1,A,0,0,D
+MDA,02/11/2014,12:00,FC Milsami,Dacia Chişinău,3,0,H,1,0,H
+MDA,02/11/2014,13:00,FC Zimbru,FC Academia UTM,0,1,A,0,0,D
+MDA,02/11/2014,15:00,FC Sheriff,FC Saxan,4,0,H,0,0,D
+MDA,08/11/2014,12:00,FC Tiraspol,FC Zaria,2,0,H,1,0,H
+MDA,09/11/2014,12:00,Dacia Chişinău,FC Sheriff,3,2,H,2,1,H
+MDA,09/11/2014,12:00,FC Saxan,Dinamo Auto,2,1,H,0,1,A
+MDA,22/11/2014,11:00,FC Zaria,FC Saxan,2,0,H,2,0,H
+MDA,23/11/2014,11:00,Dinamo Auto,Dacia Chişinău,0,2,A,0,1,A
+MDA,23/11/2014,14:00,FC Zimbru,FC Tiraspol,3,1,H,0,0,D
+MDA,28/11/2014,11:00,Dacia Chişinău,FC Zaria,3,0,H,2,0,H
+MDA,28/11/2014,15:00,FC Tiraspol,FC Academia UTM,3,1,H,1,0,H
+MDA,29/11/2014,11:00,FC Milsami,FC Sheriff,0,0,D,0,0,D
+MDA,29/11/2014,11:00,FC Saxan,FC Zimbru,0,0,D,0,0,D
+MDA,06/12/2014,11:00,FC Academia UTM,FC Saxan,0,1,A,0,0,D
+MDA,07/12/2014,11:00,Dinamo Auto,FC Milsami,0,5,A,0,3,A
+MDA,07/12/2014,11:00,FC Zimbru,Dacia Chişinău,0,1,A,0,0,D
+MDA,12/12/2014,11:00,Dacia Chişinău,FC Academia UTM,1,0,H,1,0,H
+MDA,13/12/2014,11:00,FC Milsami,FC Zaria,4,0,H,1,0,H
+MDA,13/12/2014,13:00,FC Sheriff,Dinamo Auto,7,2,H,3,1,H
+MDA,28/02/2015,11:00,FC Zaria,FC Sheriff,0,1,A,0,1,A
+MDA,28/02/2015,11:00,FC Zimbru,FC Milsami,0,2,A,0,0,D
+MDA,01/03/2015,15:00,FC Tiraspol,FC Saxan,4,0,H,4,0,H
+MDA,04/03/2015,12:00,Dinamo Auto,FC Zaria,4,0,H,2,0,H
+MDA,04/03/2015,12:00,FC Milsami,FC Academia UTM,1,0,H,0,0,D
+MDA,04/03/2015,16:00,FC Sheriff,FC Zimbru,3,0,H,3,0,H
+MDA,05/03/2015,12:00,Dacia Chişinău,FC Tiraspol,1,2,A,0,0,D
+MDA,08/03/2015,12:00,FC Zimbru,Dinamo Auto,2,0,H,0,0,D
+MDA,08/03/2015,12:00,FC Academia UTM,FC Sheriff,0,3,A,0,2,A
+MDA,09/03/2015,12:00,FC Saxan,Dacia Chişinău,0,1,A,0,1,A
+MDA,14/03/2015,12:00,FC Zaria,FC Zimbru,0,1,A,0,1,A
+MDA,15/03/2015,12:00,Dinamo Auto,FC Academia UTM,1,0,H,0,0,D
+MDA,15/03/2015,12:00,FC Milsami,FC Tiraspol,1,0,H,0,0,D
+MDA,20/03/2015,12:00,FC Saxan,FC Zimbru,1,1,D,0,1,A
+MDA,20/03/2015,12:00,Dacia Chişinău,Dinamo Auto,6,2,H,4,0,H
+MDA,20/03/2015,15:00,FC Tiraspol,FC Academia UTM,5,0,H,1,0,H
+MDA,21/03/2015,15:00,FC Sheriff,FC Zaria,6,0,H,2,0,H
+MDA,04/04/2015,13:00,FC Zimbru,FC Tiraspol,0,0,D,0,0,D
+MDA,04/04/2015,13:00,FC Academia UTM,FC Sheriff,0,2,A,0,0,D
+MDA,05/04/2015,13:00,Dinamo Auto,FC Milsami,1,2,A,1,0,H
+MDA,05/04/2015,13:00,FC Zaria,Dacia Chişinău,0,4,A,0,1,A
+MDA,10/04/2015,14:00,FC Saxan,FC Zaria,0,1,A,0,0,D
+MDA,10/04/2015,16:00,FC Tiraspol,Dinamo Auto,4,0,H,2,0,H
+MDA,11/04/2015,13:00,FC Zimbru,FC Academia UTM,0,1,A,0,1,A
+MDA,11/04/2015,16:00,FC Sheriff,FC Milsami,2,3,A,0,2,A
+MDA,17/04/2015,14:00,Dacia Chişinău,FC Sheriff,0,0,D,0,0,D
+MDA,17/04/2015,14:00,FC Zaria,FC Zimbru,0,2,A,0,1,A
+MDA,18/04/2015,14:00,Dinamo Auto,FC Saxan,4,1,H,2,0,H
+MDA,18/04/2015,14:00,FC Milsami,FC Tiraspol,1,2,A,0,2,A
+MDA,24/04/2015,14:00,FC Saxan,FC Milsami,1,0,H,0,0,D
+MDA,24/04/2015,16:00,FC Tiraspol,Dacia Chişinău,0,4,A,0,2,A
+MDA,25/04/2015,14:00,FC Academia UTM,FC Zaria,3,0,H,2,0,H
+MDA,25/04/2015,15:00,FC Zimbru,Dinamo Auto,0,0,D,0,0,D
+MDA,02/05/2015,15:00,Dinamo Auto,FC Academia UTM,1,1,D,1,0,H
+MDA,03/05/2015,15:00,FC Milsami,FC Zimbru,2,1,H,1,0,H
+MDA,03/05/2015,15:00,Dacia Chişinău,FC Saxan,3,0,H,0,0,D
+MDA,03/05/2015,16:00,FC Sheriff,FC Tiraspol,4,0,H,1,0,H
+MDA,09/05/2015,15:00,FC Saxan,FC Sheriff,0,1,A,0,0,D
+MDA,09/05/2015,16:00,FC Zimbru,Dacia Chişinău,0,1,A,0,0,D
+MDA,10/05/2015,15:00,FC Zaria,Dinamo Auto,1,5,A,0,2,A
+MDA,10/05/2015,15:00,FC Academia UTM,FC Milsami,1,3,A,0,1,A
+MDA,15/05/2015,16:00,FC Tiraspol,FC Saxan,3,1,H,2,1,H
+MDA,15/05/2015,16:00,FC Milsami,FC Zaria,5,0,H,1,0,H
+MDA,15/05/2015,16:00,Dacia Chişinău,FC Academia UTM,8,1,H,2,0,H
+MDA,15/05/2015,16:00,FC Sheriff,FC Zimbru,2,1,H,1,1,D
+MDA,20/05/2015,16:00,FC Milsami,Dacia Chişinău,2,1,H,1,0,H
+MDA,20/05/2015,16:00,FC Academia UTM,FC Saxan,1,4,A,1,3,A
+MDA,20/05/2015,16:00,FC Zaria,FC Tiraspol,0,4,A,0,2,A
+MDA,20/05/2015,16:00,Dinamo Auto,FC Sheriff,0,1,A,0,1,A

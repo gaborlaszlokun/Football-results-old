@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,28/01/2012,21:00,Guabirá,La Paz FC,2,3,A,0,1,A
+BOL,29/01/2012,19:30,Club San José,Universitario Sucre,1,1,D,0,1,A
+BOL,29/01/2012,19:30,Nacional Potosí,The Strongest,1,0,H,1,0,H
+BOL,29/01/2012,20:00,Real Mamoré,Oriente Petrolero,2,1,H,1,1,D
+BOL,29/01/2012,22:00,Club Blooming,Club Aurora,2,0,H,1,0,H
+BOL,17/02/2012,00:00,Club Bolívar,Real Potosí,2,2,D,0,0,D
+BOL,01/02/2012,22:00,La Paz FC,Club San José,1,3,A,1,1,D
+BOL,02/02/2012,00:00,The Strongest,Oriente Petrolero,5,1,H,1,0,H
+BOL,02/02/2012,00:00,Universitario Sucre,Nacional Potosí,1,1,D,0,1,A
+BOL,02/02/2012,00:30,Club Blooming,Real Mamoré,1,1,D,0,1,A
+BOL,03/02/2012,00:00,Club Aurora,Club Bolívar,2,2,D,1,1,D
+BOL,23/03/2012,00:00,Real Potosí,Guabirá,6,2,H,4,1,H
+BOL,04/02/2012,19:30,Nacional Potosí,La Paz FC,2,1,H,1,0,H
+BOL,05/02/2012,19:30,Club San José,Real Potosí,1,0,H,0,0,D
+BOL,05/02/2012,20:00,Club Bolívar,Club Blooming,5,0,H,4,0,H
+BOL,05/02/2012,20:00,Guabirá,Club Aurora,2,0,H,1,0,H
+BOL,05/02/2012,20:00,Real Mamoré,The Strongest,1,1,D,0,0,D
+BOL,05/02/2012,22:30,Oriente Petrolero,Universitario Sucre,2,1,H,0,0,D
+BOL,08/02/2012,20:00,La Paz FC,Oriente Petrolero,0,1,A,0,1,A
+BOL,09/02/2012,00:00,Universitario Sucre,The Strongest,2,1,H,0,1,A
+BOL,09/02/2012,00:00,Real Potosí,Nacional Potosí,1,2,A,1,0,H
+BOL,09/02/2012,00:30,Club Blooming,Guabirá,2,0,H,0,0,D
+BOL,10/02/2012,00:00,Club Aurora,Club San José,1,1,D,0,0,D
+BOL,05/04/2012,00:00,Club Bolívar,Real Mamoré,6,0,H,1,0,H
+BOL,11/02/2012,20:00,The Strongest,La Paz FC,1,0,H,0,0,D
+BOL,12/02/2012,19:30,Nacional Potosí,Club Aurora,2,0,H,0,0,D
+BOL,12/02/2012,20:00,Guabirá,Club Bolívar,1,1,D,0,1,A
+BOL,12/02/2012,20:00,Real Mamoré,Universitario Sucre,1,0,H,1,0,H
+BOL,12/02/2012,22:30,Oriente Petrolero,Real Potosí,0,2,A,0,0,D
+BOL,14/02/2012,00:30,Club Blooming,Club San José,2,0,H,1,0,H
+BOL,25/02/2012,22:00,Guabirá,Real Mamoré,0,2,A,0,1,A
+BOL,26/02/2012,00:30,Club Blooming,Nacional Potosí,2,0,H,0,0,D
+BOL,26/02/2012,18:00,La Paz FC,Universitario Sucre,2,1,H,0,1,A
+BOL,26/02/2012,19:30,Real Potosí,The Strongest,2,1,H,0,1,A
+BOL,26/02/2012,20:00,Club Bolívar,Club San José,2,0,H,2,0,H
+BOL,26/02/2012,20:00,Club Aurora,Oriente Petrolero,3,1,H,1,0,H
+BOL,04/03/2012,19:30,Club San José,Guabirá,6,2,H,2,0,H
+BOL,04/03/2012,19:30,Nacional Potosí,Club Bolívar,1,1,D,0,1,A
+BOL,04/03/2012,20:00,The Strongest,Club Aurora,1,2,A,1,1,D
+BOL,04/03/2012,20:00,Universitario Sucre,Real Potosí,5,0,H,3,0,H
+BOL,04/03/2012,20:00,Real Mamoré,La Paz FC,0,1,A,0,0,D
+BOL,04/03/2012,22:30,Oriente Petrolero,Club Blooming,2,0,H,2,0,H
+BOL,08/03/2012,00:00,Club Aurora,Universitario Sucre,0,2,A,0,1,A
+BOL,08/03/2012,00:00,Real Potosí,La Paz FC,1,2,A,1,1,D
+BOL,08/03/2012,20:00,Club San José,Real Mamoré,3,0,H,1,0,H
+BOL,09/03/2012,00:00,Guabirá,Nacional Potosí,1,1,D,0,1,A
+BOL,09/03/2012,00:30,Club Blooming,The Strongest,3,0,H,0,0,D
+BOL,15/03/2012,00:00,Oriente Petrolero,Club Bolívar,1,1,D,1,0,H
+BOL,10/03/2012,19:30,La Paz FC,Club Aurora,2,1,H,1,0,H
+BOL,11/03/2012,19:30,Nacional Potosí,Club San José,1,4,A,0,1,A
+BOL,11/03/2012,20:00,The Strongest,Club Bolívar,1,1,D,1,0,H
+BOL,11/03/2012,20:00,Universitario Sucre,Club Blooming,0,1,A,0,0,D
+BOL,11/03/2012,20:00,Real Mamoré,Real Potosí,1,0,H,1,0,H
+BOL,11/03/2012,22:30,Oriente Petrolero,Guabirá,2,0,H,1,0,H
+BOL,17/03/2012,19:30,Nacional Potosí,Real Mamoré,4,2,H,1,1,D
+BOL,18/03/2012,00:30,Club Blooming,La Paz FC,2,2,D,1,1,D
+BOL,18/03/2012,19:30,Club San José,Oriente Petrolero,2,2,D,0,0,D
+BOL,18/03/2012,20:00,Club Bolívar,Universitario Sucre,0,0,D,0,0,D
+BOL,18/03/2012,20:00,Club Aurora,Real Potosí,2,0,H,1,0,H
+BOL,27/04/2012,01:00,Guabirá,The Strongest,1,3,A,1,0,H
+BOL,24/03/2012,20:00,The Strongest,Club San José,2,2,D,1,0,H
+BOL,25/03/2012,20:30,Real Potosí,Club Blooming,0,1,A,0,0,D
+BOL,25/03/2012,21:00,La Paz FC,Club Bolívar,1,1,D,0,0,D
+BOL,25/03/2012,21:00,Universitario Sucre,Guabirá,4,1,H,2,1,H
+BOL,25/03/2012,21:00,Real Mamoré,Club Aurora,1,2,A,0,1,A
+BOL,25/03/2012,23:30,Oriente Petrolero,Nacional Potosí,2,0,H,0,0,D
+BOL,28/03/2012,22:45,La Paz FC,Guabirá,4,1,H,2,0,H
+BOL,29/03/2012,01:00,Universitario Sucre,Club San José,2,2,D,0,1,A
+BOL,29/03/2012,01:00,The Strongest,Nacional Potosí,3,1,H,1,0,H
+BOL,29/03/2012,01:00,Club Aurora,Club Blooming,3,0,H,0,0,D
+BOL,29/03/2012,01:30,Oriente Petrolero,Real Mamoré,1,2,A,0,1,A
+BOL,30/03/2012,01:00,Real Potosí,Club Bolívar,2,0,H,0,0,D
+BOL,31/03/2012,21:00,Club San José,La Paz FC,2,1,H,0,0,D
+BOL,01/04/2012,20:30,Nacional Potosí,Universitario Sucre,0,2,A,0,2,A
+BOL,01/04/2012,21:00,Real Mamoré,Club Blooming,0,1,A,0,0,D
+BOL,01/04/2012,21:00,Club Bolívar,Club Aurora,1,1,D,1,0,H
+BOL,01/04/2012,21:00,Guabirá,Real Potosí,1,2,A,0,1,A
+BOL,01/04/2012,23:30,Oriente Petrolero,The Strongest,1,1,D,1,0,H
+BOL,08/04/2012,01:00,Club Aurora,Guabirá,3,1,H,1,0,H
+BOL,08/04/2012,16:00,The Strongest,Real Mamoré,4,0,H,2,0,H
+BOL,08/04/2012,20:30,La Paz FC,Nacional Potosí,0,1,A,0,0,D
+BOL,08/04/2012,20:30,Real Potosí,Club San José,2,1,H,2,0,H
+BOL,08/04/2012,20:30,Universitario Sucre,Oriente Petrolero,1,2,A,0,0,D
+BOL,08/04/2012,23:30,Club Blooming,Club Bolívar,2,0,H,0,0,D
+BOL,12/04/2012,01:00,Guabirá,Club Blooming,0,0,D,0,0,D
+BOL,12/04/2012,01:30,Oriente Petrolero,La Paz FC,4,0,H,2,0,H
+BOL,12/04/2012,21:00,Club San José,Club Aurora,1,2,A,0,0,D
+BOL,13/04/2012,01:00,The Strongest,Universitario Sucre,2,1,H,1,1,D
+BOL,13/04/2012,01:00,Nacional Potosí,Real Potosí,2,0,H,0,0,D
+BOL,27/04/2012,01:00,Real Mamoré,Club Bolívar,1,2,A,0,1,A
+BOL,14/04/2012,21:00,Club Bolívar,Guabirá,0,0,D,0,0,D
+BOL,15/04/2012,20:30,La Paz FC,The Strongest,1,3,A,0,2,A
+BOL,15/04/2012,20:30,Club San José,Club Blooming,2,0,H,0,0,D
+BOL,15/04/2012,20:30,Universitario Sucre,Real Mamoré,2,1,H,0,0,D
+BOL,15/04/2012,20:30,Real Potosí,Oriente Petrolero,3,2,H,2,1,H
+BOL,15/04/2012,22:30,Club Aurora,Nacional Potosí,4,0,H,3,0,H
+BOL,22/04/2012,00:00,Universitario Sucre,La Paz FC,2,1,H,0,1,A
+BOL,22/04/2012,20:30,Nacional Potosí,Club Blooming,3,1,H,3,1,H
+BOL,22/04/2012,20:30,Club San José,Club Bolívar,3,0,H,1,0,H
+BOL,22/04/2012,21:00,Real Mamoré,Guabirá,0,0,D,0,0,D
+BOL,22/04/2012,21:00,The Strongest,Real Potosí,3,3,D,1,1,D
+BOL,22/04/2012,23:30,Oriente Petrolero,Club Aurora,4,1,H,2,0,H
+BOL,28/04/2012,21:00,Club Bolívar,Nacional Potosí,4,3,H,0,1,A
+BOL,29/04/2012,20:30,Real Potosí,Universitario Sucre,2,1,H,2,0,H
+BOL,29/04/2012,20:30,La Paz FC,Real Mamoré,6,0,H,4,0,H
+BOL,29/04/2012,21:00,Guabirá,Club San José,2,3,A,1,1,D
+BOL,29/04/2012,21:00,Club Aurora,The Strongest,3,2,H,0,0,D
+BOL,29/04/2012,23:30,Club Blooming,Oriente Petrolero,2,2,D,2,2,D
+BOL,02/05/2012,23:00,La Paz FC,Real Potosí,0,2,A,0,1,A
+BOL,03/05/2012,01:00,Nacional Potosí,Guabirá,4,1,H,2,1,H
+BOL,03/05/2012,01:00,The Strongest,Club Blooming,2,0,H,1,0,H
+BOL,03/05/2012,23:00,Real Mamoré,Club San José,0,1,A,0,0,D
+BOL,04/05/2012,01:00,Universitario Sucre,Club Aurora,2,1,H,2,1,H
+BOL,04/05/2012,01:00,Club Bolívar,Oriente Petrolero,1,2,A,0,0,D
+BOL,06/05/2012,01:00,Club Bolívar,The Strongest,0,1,A,0,1,A
+BOL,06/05/2012,20:30,Club San José,Nacional Potosí,3,0,H,1,0,H
+BOL,06/05/2012,20:30,Real Potosí,Real Mamoré,4,0,H,2,0,H
+BOL,06/05/2012,21:00,Club Aurora,La Paz FC,1,1,D,1,0,H
+BOL,07/05/2012,00:00,Club Blooming,Universitario Sucre,0,1,A,0,0,D
+BOL,07/05/2012,00:00,Guabirá,Oriente Petrolero,0,1,A,0,0,D
+BOL,10/05/2012,01:30,Oriente Petrolero,Club San José,2,1,H,0,0,D
+BOL,10/05/2012,21:00,Real Mamoré,Nacional Potosí,1,2,A,0,1,A
+BOL,11/05/2012,,Universitario Sucre,Club Bolívar,3,0,H,NaN,NaN,NaN
+BOL,10/05/2012,23:00,La Paz FC,Club Blooming,0,4,A,0,2,A
+BOL,11/05/2012,01:00,Real Potosí,Club Aurora,2,1,H,1,1,D
+BOL,11/05/2012,01:00,The Strongest,Guabirá,8,1,H,5,1,H
+BOL,13/05/2012,21:00,Club San José,The Strongest,1,2,A,0,1,A
+BOL,13/05/2012,21:00,Club Blooming,Real Potosí,2,0,H,1,0,H
+BOL,13/05/2012,21:00,Club Bolívar,La Paz FC,4,0,H,2,0,H
+BOL,13/05/2012,21:00,Guabirá,Universitario Sucre,0,2,A,0,1,A
+BOL,13/05/2012,21:00,Club Aurora,Real Mamoré,5,0,H,2,0,H
+BOL,13/05/2012,21:00,Nacional Potosí,Oriente Petrolero,2,2,D,1,1,D

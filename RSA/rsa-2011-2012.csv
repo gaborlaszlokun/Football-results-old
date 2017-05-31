@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RSA,12/08/2011,18:30,Santos FC,Moroka Swallows,1,3,A,0,0,D
+RSA,12/08/2011,19:00,Black Leopards,Orlando Pirates,0,2,A,0,1,A
+RSA,13/08/2011,14:00,Free State Stars,SuperSport United,1,1,D,1,0,H
+RSA,13/08/2011,14:00,Platinum Stars,Ajax Cape Town,2,0,H,2,0,H
+RSA,13/08/2011,17:00,Golden Arrows,Bloemfontein Celtic,0,3,A,0,1,A
+RSA,13/08/2011,19:15,Kaizer Chiefs,Jomo Cosmos,2,1,H,1,0,H
+RSA,14/08/2011,14:00,Mamelodi Sundowns,AmaZulu FC,0,0,D,0,0,D
+RSA,14/08/2011,14:00,Maritzburg United,BidVest Wits,2,2,D,0,1,A
+RSA,16/08/2011,18:30,Bloemfontein Celtic,Black Leopards,2,0,H,1,0,H
+RSA,16/08/2011,18:30,Orlando Pirates,Platinum Stars,1,0,H,0,0,D
+RSA,17/08/2011,18:30,Ajax Cape Town,Maritzburg United,1,1,D,1,0,H
+RSA,17/08/2011,18:30,AmaZulu FC,Free State Stars,0,1,A,0,0,D
+RSA,17/08/2011,18:30,BidVest Wits,Santos FC,1,0,H,0,0,D
+RSA,17/08/2011,18:30,SuperSport United,Golden Arrows,2,1,H,1,0,H
+RSA,17/08/2011,19:00,Jomo Cosmos,Mamelodi Sundowns,0,2,A,0,0,D
+RSA,17/08/2011,19:00,Moroka Swallows,Kaizer Chiefs,0,2,A,0,2,A
+RSA,24/08/2011,14:00,Free State Stars,Jomo Cosmos,1,0,H,0,0,D
+RSA,24/08/2011,18:30,AmaZulu FC,SuperSport United,1,2,A,0,0,D
+RSA,24/08/2011,18:30,Black Leopards,Golden Arrows,2,0,H,0,0,D
+RSA,24/08/2011,18:30,Kaizer Chiefs,BidVest Wits,2,1,H,0,0,D
+RSA,24/08/2011,18:30,Mamelodi Sundowns,Moroka Swallows,4,0,H,0,0,D
+RSA,24/08/2011,18:30,Platinum Stars,Bloemfontein Celtic,2,1,H,2,0,H
+RSA,24/08/2011,18:30,Santos FC,Ajax Cape Town,0,1,A,0,1,A
+RSA,24/08/2011,19:00,Maritzburg United,Orlando Pirates,2,1,H,0,1,A
+RSA,13/09/2011,18:30,BidVest Wits,Mamelodi Sundowns,2,3,A,0,3,A
+RSA,13/09/2011,18:30,Jomo Cosmos,AmaZulu FC,0,0,D,0,0,D
+RSA,14/09/2011,17:00,Golden Arrows,Platinum Stars,3,1,H,1,0,H
+RSA,14/09/2011,18:30,Ajax Cape Town,Kaizer Chiefs,2,1,H,1,0,H
+RSA,14/09/2011,18:30,Bloemfontein Celtic,Maritzburg United,1,1,D,0,1,A
+RSA,14/09/2011,18:30,Moroka Swallows,Free State Stars,2,1,H,2,0,H
+RSA,14/09/2011,18:30,Orlando Pirates,Santos FC,1,0,H,1,0,H
+RSA,14/09/2011,18:30,SuperSport United,Black Leopards,3,0,H,1,0,H
+RSA,17/09/2011,14:00,Kaizer Chiefs,Orlando Pirates,2,1,H,2,0,H
+RSA,17/09/2011,14:00,Platinum Stars,Black Leopards,2,2,D,2,0,H
+RSA,17/09/2011,17:00,Santos FC,Bloemfontein Celtic,2,1,H,1,0,H
+RSA,17/09/2011,19:15,Jomo Cosmos,SuperSport United,2,2,D,1,0,H
+RSA,17/09/2011,19:30,AmaZulu FC,Moroka Swallows,0,1,A,0,0,D
+RSA,18/09/2011,14:00,Free State Stars,BidVest Wits,0,0,D,0,0,D
+RSA,18/09/2011,14:00,Mamelodi Sundowns,Ajax Cape Town,2,3,A,1,0,H
+RSA,18/09/2011,14:00,Maritzburg United,Golden Arrows,2,0,H,1,0,H
+RSA,23/09/2011,19:00,Ajax Cape Town,Free State Stars,3,1,H,0,0,D
+RSA,24/09/2011,14:00,BidVest Wits,AmaZulu FC,3,1,H,1,1,D
+RSA,24/09/2011,14:00,Black Leopards,Maritzburg United,0,0,D,0,0,D
+RSA,24/09/2011,17:00,Bloemfontein Celtic,Kaizer Chiefs,0,0,D,0,0,D
+RSA,24/09/2011,17:00,Golden Arrows,Santos FC,1,3,A,0,2,A
+RSA,24/09/2011,19:15,Orlando Pirates,Mamelodi Sundowns,0,0,D,0,0,D
+RSA,25/09/2011,14:00,Moroka Swallows,Jomo Cosmos,2,0,H,0,0,D
+RSA,25/09/2011,14:00,SuperSport United,Platinum Stars,2,0,H,0,0,D
+RSA,27/09/2011,18:30,AmaZulu FC,Ajax Cape Town,4,0,H,2,0,H
+RSA,27/09/2011,18:30,Mamelodi Sundowns,Bloemfontein Celtic,2,1,H,0,1,A
+RSA,28/09/2011,18:30,Free State Stars,Orlando Pirates,1,0,H,0,0,D
+RSA,28/09/2011,18:30,Jomo Cosmos,BidVest Wits,0,0,D,0,0,D
+RSA,28/09/2011,18:30,Kaizer Chiefs,Golden Arrows,1,2,A,0,2,A
+RSA,28/09/2011,18:30,Maritzburg United,Platinum Stars,2,1,H,0,0,D
+RSA,28/09/2011,18:30,Moroka Swallows,SuperSport United,1,1,D,0,1,A
+RSA,28/09/2011,18:30,Santos FC,Black Leopards,1,1,D,0,1,A
+RSA,14/10/2011,19:00,Ajax Cape Town,Jomo Cosmos,1,1,D,0,1,A
+RSA,14/10/2011,19:00,SuperSport United,Maritzburg United,7,0,H,3,0,H
+RSA,15/10/2011,14:30,BidVest Wits,Moroka Swallows,1,3,A,1,1,D
+RSA,15/10/2011,14:30,Platinum Stars,Santos FC,4,1,H,1,0,H
+RSA,15/10/2011,17:00,Golden Arrows,Mamelodi Sundowns,1,1,D,0,0,D
+RSA,15/10/2011,19:15,Orlando Pirates,AmaZulu FC,0,0,D,0,0,D
+RSA,16/10/2011,14:30,Black Leopards,Kaizer Chiefs,0,2,A,0,0,D
+RSA,16/10/2011,14:30,Bloemfontein Celtic,Free State Stars,1,0,H,1,0,H
+RSA,28/10/2011,19:00,Moroka Swallows,Ajax Cape Town,3,2,H,1,0,H
+RSA,28/10/2011,19:00,Santos FC,Maritzburg United,2,1,H,0,0,D
+RSA,29/10/2011,14:30,BidVest Wits,SuperSport United,0,1,A,0,0,D
+RSA,29/10/2011,14:30,Free State Stars,Golden Arrows,3,1,H,1,0,H
+RSA,29/10/2011,17:00,AmaZulu FC,Bloemfontein Celtic,2,0,H,0,0,D
+RSA,29/10/2011,19:15,Kaizer Chiefs,Platinum Stars,1,0,H,1,0,H
+RSA,30/10/2011,13:30,Jomo Cosmos,Orlando Pirates,1,2,A,1,1,D
+RSA,30/10/2011,13:30,Mamelodi Sundowns,Black Leopards,5,1,H,1,0,H
+RSA,01/11/2011,17:30,Maritzburg United,Kaizer Chiefs,0,0,D,0,0,D
+RSA,01/11/2011,17:30,SuperSport United,Santos FC,1,0,H,0,0,D
+RSA,02/11/2011,17:30,Ajax Cape Town,BidVest Wits,0,2,A,0,0,D
+RSA,02/11/2011,17:30,Black Leopards,Free State Stars,1,3,A,1,3,A
+RSA,02/11/2011,17:30,Bloemfontein Celtic,Jomo Cosmos,3,1,H,0,1,A
+RSA,02/11/2011,17:30,Golden Arrows,AmaZulu FC,1,2,A,0,0,D
+RSA,02/11/2011,17:30,Orlando Pirates,Moroka Swallows,1,1,D,0,1,A
+RSA,02/11/2011,17:30,Platinum Stars,Mamelodi Sundowns,0,0,D,0,0,D
+RSA,18/11/2011,18:00,Ajax Cape Town,SuperSport United,0,0,D,0,0,D
+RSA,18/11/2011,18:00,Moroka Swallows,Bloemfontein Celtic,0,0,D,0,0,D
+RSA,19/11/2011,13:30,Free State Stars,Platinum Stars,0,0,D,0,0,D
+RSA,19/11/2011,13:30,Jomo Cosmos,Golden Arrows,0,2,A,0,1,A
+RSA,19/11/2011,16:00,BidVest Wits,Orlando Pirates,3,1,H,1,0,H
+RSA,19/11/2011,18:15,Kaizer Chiefs,Santos FC,0,0,D,0,0,D
+RSA,20/11/2011,13:30,AmaZulu FC,Black Leopards,0,1,A,0,0,D
+RSA,20/11/2011,13:30,Mamelodi Sundowns,Maritzburg United,1,0,H,1,0,H
+RSA,29/11/2011,17:30,Black Leopards,Jomo Cosmos,1,1,D,1,0,H
+RSA,30/11/2011,17:00,Golden Arrows,Moroka Swallows,2,0,H,1,0,H
+RSA,30/11/2011,17:30,Bloemfontein Celtic,BidVest Wits,0,0,D,0,0,D
+RSA,30/11/2011,17:30,Maritzburg United,Free State Stars,0,2,A,0,1,A
+RSA,30/11/2011,17:30,Orlando Pirates,Ajax Cape Town,1,0,H,1,0,H
+RSA,30/11/2011,17:30,Platinum Stars,AmaZulu FC,0,1,A,0,0,D
+RSA,30/11/2011,17:30,Santos FC,Mamelodi Sundowns,2,5,A,0,2,A
+RSA,30/11/2011,17:30,SuperSport United,Kaizer Chiefs,2,0,H,1,0,H
+RSA,03/12/2011,13:30,BidVest Wits,Golden Arrows,2,2,D,2,1,H
+RSA,03/12/2011,13:30,Free State Stars,Santos FC,2,0,H,1,0,H
+RSA,03/12/2011,16:00,Jomo Cosmos,Platinum Stars,2,1,H,0,0,D
+RSA,03/12/2011,18:15,Moroka Swallows,Black Leopards,4,1,H,1,1,D
+RSA,03/12/2011,18:15,Orlando Pirates,SuperSport United,3,0,H,2,0,H
+RSA,04/12/2011,13:30,Ajax Cape Town,Bloemfontein Celtic,2,0,H,0,0,D
+RSA,04/12/2011,13:30,AmaZulu FC,Maritzburg United,0,0,D,0,0,D
+RSA,04/12/2011,13:30,Mamelodi Sundowns,Kaizer Chiefs,0,1,A,0,1,A
+RSA,16/12/2011,16:00,SuperSport United,Mamelodi Sundowns,1,3,A,1,1,D
+RSA,16/12/2011,18:00,Santos FC,AmaZulu FC,1,2,A,0,1,A
+RSA,17/12/2011,13:30,Maritzburg United,Jomo Cosmos,3,1,H,1,0,H
+RSA,17/12/2011,13:30,Platinum Stars,Moroka Swallows,0,0,D,0,0,D
+RSA,17/12/2011,16:00,Golden Arrows,Ajax Cape Town,0,1,A,0,1,A
+RSA,17/12/2011,18:15,Kaizer Chiefs,Free State Stars,2,1,H,0,1,A
+RSA,18/12/2011,13:30,Black Leopards,BidVest Wits,1,2,A,1,2,A
+RSA,18/12/2011,13:30,Bloemfontein Celtic,Orlando Pirates,1,0,H,1,0,H
+RSA,20/12/2011,17:30,AmaZulu FC,Kaizer Chiefs,0,0,D,0,0,D
+RSA,20/12/2011,17:30,Jomo Cosmos,Santos FC,2,2,D,0,0,D
+RSA,21/12/2011,17:30,Ajax Cape Town,Black Leopards,4,3,H,3,2,H
+RSA,21/12/2011,17:30,BidVest Wits,Platinum Stars,2,1,H,1,0,H
+RSA,21/12/2011,17:30,Free State Stars,Mamelodi Sundowns,0,2,A,0,1,A
+RSA,21/12/2011,17:30,Moroka Swallows,Maritzburg United,2,2,D,0,1,A
+RSA,21/12/2011,17:30,Orlando Pirates,Golden Arrows,2,0,H,0,0,D
+RSA,21/12/2011,17:30,SuperSport United,Bloemfontein Celtic,0,1,A,0,1,A
+RSA,15/02/2012,17:30,Ajax Cape Town,Platinum Stars,3,2,H,0,1,A
+RSA,15/02/2012,17:30,AmaZulu FC,Mamelodi Sundowns,0,1,A,0,0,D
+RSA,15/02/2012,17:30,BidVest Wits,Maritzburg United,0,0,D,0,0,D
+RSA,15/02/2012,17:30,Bloemfontein Celtic,Golden Arrows,3,2,H,1,1,D
+RSA,15/02/2012,17:30,Moroka Swallows,Santos FC,3,2,H,3,1,H
+RSA,15/02/2012,17:30,Orlando Pirates,Black Leopards,1,0,H,1,0,H
+RSA,15/02/2012,17:30,SuperSport United,Free State Stars,1,1,D,1,1,D
+RSA,15/02/2012,17:30,Jomo Cosmos,Kaizer Chiefs,1,1,D,0,0,D
+RSA,18/02/2012,13:30,Free State Stars,AmaZulu FC,2,1,H,1,0,H
+RSA,18/02/2012,16:00,Kaizer Chiefs,Moroka Swallows,3,0,H,2,0,H
+RSA,18/02/2012,18:15,Golden Arrows,SuperSport United,1,2,A,1,1,D
+RSA,18/02/2012,18:15,Santos FC,BidVest Wits,3,1,H,1,0,H
+RSA,19/02/2012,13:30,Mamelodi Sundowns,Jomo Cosmos,0,0,D,0,0,D
+RSA,19/02/2012,13:30,Maritzburg United,Ajax Cape Town,0,2,A,0,0,D
+RSA,22/02/2012,17:30,Platinum Stars,Orlando Pirates,3,4,A,1,1,D
+RSA,22/02/2012,17:30,Black Leopards,Bloemfontein Celtic,2,2,D,0,1,A
+RSA,24/02/2012,18:00,Moroka Swallows,Mamelodi Sundowns,2,2,D,1,1,D
+RSA,25/02/2012,13:30,Jomo Cosmos,Free State Stars,2,2,D,1,0,H
+RSA,25/02/2012,16:00,BidVest Wits,Kaizer Chiefs,1,1,D,1,1,D
+RSA,25/02/2012,18:15,Ajax Cape Town,Santos FC,1,1,D,1,0,H
+RSA,25/02/2012,18:15,SuperSport United,AmaZulu FC,0,1,A,0,1,A
+RSA,26/02/2012,13:30,Bloemfontein Celtic,Platinum Stars,0,1,A,0,0,D
+RSA,26/02/2012,13:30,Orlando Pirates,Maritzburg United,1,0,H,0,0,D
+RSA,07/03/2012,16:00,Golden Arrows,Black Leopards,4,2,H,1,1,D
+RSA,13/03/2012,13:30,Black Leopards,SuperSport United,1,0,H,0,0,D
+RSA,13/03/2012,17:30,Mamelodi Sundowns,BidVest Wits,1,1,D,1,0,H
+RSA,14/03/2012,17:30,Free State Stars,Moroka Swallows,0,1,A,0,1,A
+RSA,14/03/2012,17:30,Maritzburg United,Bloemfontein Celtic,2,0,H,1,0,H
+RSA,14/03/2012,17:30,Platinum Stars,Golden Arrows,1,0,H,0,0,D
+RSA,14/03/2012,17:30,Santos FC,Orlando Pirates,3,0,H,1,0,H
+RSA,09/05/2012,18:30,AmaZulu FC,Jomo Cosmos,0,0,D,0,0,D
+RSA,09/05/2012,18:30,Kaizer Chiefs,Ajax Cape Town,2,0,H,1,0,H
+RSA,17/03/2012,13:30,BidVest Wits,Free State Stars,1,3,A,1,1,D
+RSA,17/03/2012,13:30,Orlando Pirates,Kaizer Chiefs,3,2,H,3,1,H
+RSA,17/03/2012,16:00,Golden Arrows,Maritzburg United,4,1,H,2,1,H
+RSA,17/03/2012,16:00,Ajax Cape Town,Mamelodi Sundowns,0,3,A,0,1,A
+RSA,17/03/2012,18:15,Moroka Swallows,AmaZulu FC,1,1,D,1,0,H
+RSA,17/03/2012,18:15,SuperSport United,Jomo Cosmos,0,0,D,0,0,D
+RSA,18/03/2012,13:30,Black Leopards,Platinum Stars,2,3,A,2,2,D
+RSA,18/03/2012,13:30,Bloemfontein Celtic,Santos FC,2,0,H,0,0,D
+RSA,20/03/2012,17:30,AmaZulu FC,BidVest Wits,2,0,H,1,0,H
+RSA,20/03/2012,17:30,Jomo Cosmos,Moroka Swallows,0,2,A,0,1,A
+RSA,20/03/2012,17:30,Mamelodi Sundowns,Orlando Pirates,0,0,D,0,0,D
+RSA,21/03/2012,13:30,Platinum Stars,SuperSport United,0,0,D,0,0,D
+RSA,21/03/2012,17:30,Free State Stars,Ajax Cape Town,1,0,H,1,0,H
+RSA,21/03/2012,17:30,Kaizer Chiefs,Bloemfontein Celtic,2,0,H,1,0,H
+RSA,21/03/2012,17:30,Maritzburg United,Black Leopards,0,1,A,0,0,D
+RSA,21/03/2012,17:30,Santos FC,Golden Arrows,1,2,A,1,1,D
+RSA,28/03/2012,18:30,Ajax Cape Town,AmaZulu FC,2,4,A,0,1,A
+RSA,28/03/2012,18:30,BidVest Wits,Jomo Cosmos,0,1,A,0,0,D
+RSA,28/03/2012,18:30,Black Leopards,Santos FC,2,1,H,0,0,D
+RSA,28/03/2012,18:30,Bloemfontein Celtic,Mamelodi Sundowns,0,0,D,0,0,D
+RSA,28/03/2012,18:30,Golden Arrows,Kaizer Chiefs,0,0,D,0,0,D
+RSA,28/03/2012,18:30,Orlando Pirates,Free State Stars,3,1,H,1,0,H
+RSA,28/03/2012,18:30,Platinum Stars,Maritzburg United,1,1,D,0,1,A
+RSA,28/03/2012,18:30,SuperSport United,Moroka Swallows,0,0,D,0,0,D
+RSA,03/04/2012,18:30,Kaizer Chiefs,Black Leopards,0,1,A,0,0,D
+RSA,04/04/2012,18:30,AmaZulu FC,Orlando Pirates,0,1,A,0,1,A
+RSA,04/04/2012,18:30,Free State Stars,Bloemfontein Celtic,2,1,H,1,0,H
+RSA,04/04/2012,18:30,Jomo Cosmos,Ajax Cape Town,1,2,A,1,0,H
+RSA,04/04/2012,18:30,Mamelodi Sundowns,Golden Arrows,0,0,D,0,0,D
+RSA,04/04/2012,18:30,Maritzburg United,SuperSport United,0,0,D,0,0,D
+RSA,04/04/2012,18:30,Moroka Swallows,BidVest Wits,3,0,H,3,0,H
+RSA,04/04/2012,18:30,Santos FC,Platinum Stars,1,2,A,1,0,H
+RSA,07/04/2012,14:00,Golden Arrows,Free State Stars,2,0,H,1,0,H
+RSA,07/04/2012,17:00,SuperSport United,BidVest Wits,2,1,H,0,0,D
+RSA,07/04/2012,19:15,Platinum Stars,Kaizer Chiefs,1,2,A,0,2,A
+RSA,07/04/2012,19:15,Ajax Cape Town,Moroka Swallows,2,2,D,1,0,H
+RSA,08/04/2012,14:00,Maritzburg United,Santos FC,1,1,D,1,0,H
+RSA,08/04/2012,14:00,Bloemfontein Celtic,AmaZulu FC,1,1,D,1,0,H
+RSA,09/04/2012,17:00,Orlando Pirates,Jomo Cosmos,2,1,H,1,1,D
+RSA,11/04/2012,18:30,Black Leopards,Mamelodi Sundowns,1,2,A,1,2,A
+RSA,17/04/2012,18:30,Kaizer Chiefs,Maritzburg United,0,1,A,0,0,D
+RSA,18/04/2012,14:00,Free State Stars,Black Leopards,2,2,D,1,0,H
+RSA,18/04/2012,18:30,Mamelodi Sundowns,Platinum Stars,1,2,A,1,1,D
+RSA,18/04/2012,18:30,AmaZulu FC,Golden Arrows,1,0,H,0,0,D
+RSA,18/04/2012,18:30,BidVest Wits,Ajax Cape Town,1,1,D,0,1,A
+RSA,18/04/2012,18:30,Jomo Cosmos,Bloemfontein Celtic,1,2,A,0,2,A
+RSA,18/04/2012,18:30,Santos FC,SuperSport United,0,1,A,0,0,D
+RSA,18/04/2012,19:00,Moroka Swallows,Orlando Pirates,0,0,D,0,0,D
+RSA,21/04/2012,14:00,Platinum Stars,Free State Stars,0,1,A,0,1,A
+RSA,21/04/2012,17:00,Golden Arrows,Jomo Cosmos,3,1,H,1,0,H
+RSA,21/04/2012,17:00,Maritzburg United,Mamelodi Sundowns,1,0,H,0,0,D
+RSA,21/04/2012,19:15,Orlando Pirates,BidVest Wits,0,0,D,0,0,D
+RSA,21/04/2012,19:15,SuperSport United,Ajax Cape Town,2,1,H,0,1,A
+RSA,22/04/2012,14:00,Black Leopards,AmaZulu FC,1,4,A,1,1,D
+RSA,22/04/2012,14:00,Bloemfontein Celtic,Moroka Swallows,1,1,D,1,0,H
+RSA,22/04/2012,14:00,Santos FC,Kaizer Chiefs,2,1,H,0,0,D
+RSA,27/04/2012,19:00,Ajax Cape Town,Orlando Pirates,1,1,D,1,1,D
+RSA,28/04/2012,14:00,BidVest Wits,Bloemfontein Celtic,1,3,A,0,2,A
+RSA,28/04/2012,14:00,Free State Stars,Maritzburg United,4,1,H,1,1,D
+RSA,28/04/2012,19:15,AmaZulu FC,Platinum Stars,1,2,A,0,0,D
+RSA,28/04/2012,19:15,Kaizer Chiefs,SuperSport United,1,2,A,0,1,A
+RSA,29/04/2012,14:00,Mamelodi Sundowns,Santos FC,3,1,H,2,0,H
+RSA,29/04/2012,14:00,Moroka Swallows,Golden Arrows,3,2,H,1,1,D
+RSA,16/05/2012,18:30,Jomo Cosmos,Black Leopards,2,2,D,0,0,D
+RSA,01/05/2012,17:00,SuperSport United,Orlando Pirates,1,2,A,0,1,A
+RSA,01/05/2012,18:30,Maritzburg United,AmaZulu FC,1,1,D,0,1,A
+RSA,02/05/2012,18:30,Platinum Stars,Jomo Cosmos,4,1,H,2,0,H
+RSA,02/05/2012,18:30,Bloemfontein Celtic,Ajax Cape Town,4,2,H,2,1,H
+RSA,02/05/2012,18:30,Golden Arrows,BidVest Wits,1,1,D,0,0,D
+RSA,02/05/2012,18:30,Santos FC,Free State Stars,0,1,A,0,1,A
+RSA,02/05/2012,19:15,Kaizer Chiefs,Mamelodi Sundowns,2,0,H,0,0,D
+RSA,04/05/2012,19:00,Black Leopards,Moroka Swallows,2,5,A,0,0,D
+RSA,08/05/2012,18:30,BidVest Wits,Black Leopards,0,0,D,0,0,D
+RSA,12/05/2012,14:00,Ajax Cape Town,Golden Arrows,4,1,H,3,1,H
+RSA,12/05/2012,14:00,AmaZulu FC,Santos FC,2,2,D,1,2,A
+RSA,12/05/2012,14:00,Free State Stars,Kaizer Chiefs,1,2,A,1,0,H
+RSA,12/05/2012,14:00,Jomo Cosmos,Maritzburg United,1,1,D,0,0,D
+RSA,12/05/2012,14:00,Mamelodi Sundowns,SuperSport United,0,1,A,0,0,D
+RSA,12/05/2012,14:00,Moroka Swallows,Platinum Stars,2,1,H,2,0,H
+RSA,12/05/2012,14:00,Orlando Pirates,Bloemfontein Celtic,2,1,H,0,1,A
+RSA,19/05/2012,14:00,Black Leopards,Ajax Cape Town,3,1,H,1,0,H
+RSA,19/05/2012,14:00,Bloemfontein Celtic,SuperSport United,1,2,A,0,2,A
+RSA,19/05/2012,14:00,Golden Arrows,Orlando Pirates,2,4,A,2,2,D
+RSA,19/05/2012,14:00,Kaizer Chiefs,AmaZulu FC,0,0,D,0,0,D
+RSA,19/05/2012,14:00,Mamelodi Sundowns,Free State Stars,1,0,H,0,0,D
+RSA,19/05/2012,14:00,Maritzburg United,Moroka Swallows,0,1,A,0,0,D
+RSA,19/05/2012,14:00,Platinum Stars,BidVest Wits,0,2,A,0,2,A
+RSA,19/05/2012,14:00,Santos FC,Jomo Cosmos,1,0,H,0,0,D

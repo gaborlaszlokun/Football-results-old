@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+DEN,12/08/1992,18:00,Aarhus GF,Lyngby BK,1,0,H,NaN,NaN,NaN
+DEN,12/08/1992,18:00,B 1909 Odense,Silkeborg IF,0,0,D,NaN,NaN,NaN
+DEN,12/08/1992,18:00,BK Frem København,FC København,0,3,A,NaN,NaN,NaN
+DEN,12/08/1992,18:00,Næstved IF,Odense BK,0,4,A,NaN,NaN,NaN
+DEN,12/08/1992,18:00,Aalborg BK,Brøndby IF,3,0,H,NaN,NaN,NaN
+DEN,16/08/1992,14:00,Brøndby IF,BK Frem København,3,3,D,NaN,NaN,NaN
+DEN,16/08/1992,14:00,FC København,B 1909 Odense,2,1,H,NaN,NaN,NaN
+DEN,16/08/1992,14:00,Lyngby BK,Aalborg BK,0,2,A,NaN,NaN,NaN
+DEN,16/08/1992,14:00,Odense BK,Aarhus GF,3,2,H,NaN,NaN,NaN
+DEN,16/08/1992,14:00,Silkeborg IF,Næstved IF,4,0,H,NaN,NaN,NaN
+DEN,19/08/1992,18:00,B 1909 Odense,Brøndby IF,1,2,A,NaN,NaN,NaN
+DEN,19/08/1992,18:00,BK Frem København,Lyngby BK,0,0,D,NaN,NaN,NaN
+DEN,19/08/1992,18:00,Næstved IF,FC København,0,2,A,NaN,NaN,NaN
+DEN,19/08/1992,18:00,Silkeborg IF,Odense BK,0,1,A,NaN,NaN,NaN
+DEN,19/08/1992,18:00,Aalborg BK,Aarhus GF,3,2,H,NaN,NaN,NaN
+DEN,23/08/1992,14:00,Aarhus GF,BK Frem København,1,1,D,NaN,NaN,NaN
+DEN,23/08/1992,14:00,Brøndby IF,Næstved IF,2,1,H,NaN,NaN,NaN
+DEN,23/08/1992,14:00,FC København,Silkeborg IF,0,0,D,NaN,NaN,NaN
+DEN,23/08/1992,14:00,Lyngby BK,B 1909 Odense,3,1,H,NaN,NaN,NaN
+DEN,23/08/1992,14:00,Odense BK,Aalborg BK,4,1,H,NaN,NaN,NaN
+DEN,30/08/1992,14:00,B 1909 Odense,Aarhus GF,0,4,A,NaN,NaN,NaN
+DEN,30/08/1992,14:00,FC København,Odense BK,1,1,D,NaN,NaN,NaN
+DEN,30/08/1992,14:00,BK Frem København,Aalborg BK,1,1,D,NaN,NaN,NaN
+DEN,30/08/1992,14:00,Næstved IF,Lyngby BK,2,1,H,NaN,NaN,NaN
+DEN,30/08/1992,14:00,Silkeborg IF,Brøndby IF,3,0,H,NaN,NaN,NaN
+DEN,06/09/1992,14:00,Aarhus GF,Næstved IF,0,1,A,NaN,NaN,NaN
+DEN,06/09/1992,14:00,Brøndby IF,FC København,1,1,D,NaN,NaN,NaN
+DEN,06/09/1992,14:00,Lyngby BK,Silkeborg IF,1,1,D,NaN,NaN,NaN
+DEN,06/09/1992,14:00,Odense BK,BK Frem København,5,0,H,NaN,NaN,NaN
+DEN,16/09/1992,18:00,Aalborg BK,B 1909 Odense,2,0,H,NaN,NaN,NaN
+DEN,12/09/1992,16:00,B 1909 Odense,BK Frem København,1,1,D,NaN,NaN,NaN
+DEN,12/09/1992,16:00,FC København,Lyngby BK,2,2,D,NaN,NaN,NaN
+DEN,12/09/1992,16:00,Silkeborg IF,Aarhus GF,1,1,D,NaN,NaN,NaN
+DEN,13/09/1992,14:00,Brøndby IF,Odense BK,2,0,H,NaN,NaN,NaN
+DEN,13/09/1992,14:00,Næstved IF,Aalborg BK,2,2,D,NaN,NaN,NaN
+DEN,20/09/1992,14:00,Aarhus GF,FC København,0,0,D,NaN,NaN,NaN
+DEN,20/09/1992,14:00,BK Frem København,Næstved IF,3,1,H,NaN,NaN,NaN
+DEN,20/09/1992,14:00,Lyngby BK,Brøndby IF,0,2,A,NaN,NaN,NaN
+DEN,20/09/1992,14:00,Odense BK,B 1909 Odense,2,0,H,NaN,NaN,NaN
+DEN,20/09/1992,14:00,Aalborg BK,Silkeborg IF,1,2,A,NaN,NaN,NaN
+DEN,26/09/1992,16:00,Brøndby IF,Aarhus GF,0,0,D,NaN,NaN,NaN
+DEN,26/09/1992,16:00,FC København,Aalborg BK,0,0,D,NaN,NaN,NaN
+DEN,26/09/1992,16:00,Odense BK,Lyngby BK,0,0,D,NaN,NaN,NaN
+DEN,26/09/1992,16:00,Silkeborg IF,BK Frem København,4,0,H,NaN,NaN,NaN
+DEN,27/09/1992,14:00,Næstved IF,B 1909 Odense,2,2,D,NaN,NaN,NaN
+DEN,04/10/1992,14:00,Aarhus GF,Brøndby IF,0,1,A,NaN,NaN,NaN
+DEN,04/10/1992,14:00,B 1909 Odense,Næstved IF,2,2,D,NaN,NaN,NaN
+DEN,04/10/1992,14:00,BK Frem København,Silkeborg IF,2,2,D,NaN,NaN,NaN
+DEN,04/10/1992,14:00,Lyngby BK,Odense BK,0,1,A,NaN,NaN,NaN
+DEN,04/10/1992,14:00,Aalborg BK,FC København,0,1,A,NaN,NaN,NaN
+DEN,11/10/1992,14:00,Brøndby IF,Aalborg BK,0,0,D,NaN,NaN,NaN
+DEN,11/10/1992,14:00,FC København,BK Frem København,5,1,H,NaN,NaN,NaN
+DEN,11/10/1992,14:00,Lyngby BK,Aarhus GF,1,1,D,NaN,NaN,NaN
+DEN,11/10/1992,14:00,Odense BK,Næstved IF,4,1,H,NaN,NaN,NaN
+DEN,11/10/1992,14:00,Silkeborg IF,B 1909 Odense,6,0,H,NaN,NaN,NaN
+DEN,17/10/1992,14:00,Aarhus GF,Odense BK,3,2,H,NaN,NaN,NaN
+DEN,17/10/1992,14:00,B 1909 Odense,FC København,2,4,A,NaN,NaN,NaN
+DEN,18/10/1992,14:00,BK Frem København,Brøndby IF,2,2,D,NaN,NaN,NaN
+DEN,18/10/1992,14:00,Næstved IF,Silkeborg IF,3,1,H,NaN,NaN,NaN
+DEN,18/10/1992,14:00,Aalborg BK,Lyngby BK,1,2,A,NaN,NaN,NaN
+DEN,25/10/1992,14:00,Aarhus GF,Aalborg BK,1,1,D,NaN,NaN,NaN
+DEN,25/10/1992,14:00,Brøndby IF,B 1909 Odense,1,1,D,NaN,NaN,NaN
+DEN,25/10/1992,14:00,FC København,Næstved IF,0,3,A,NaN,NaN,NaN
+DEN,25/10/1992,14:00,Lyngby BK,BK Frem København,2,1,H,NaN,NaN,NaN
+DEN,25/10/1992,14:00,Odense BK,Silkeborg IF,0,3,A,NaN,NaN,NaN
+DEN,31/10/1992,14:00,BK Frem København,Aarhus GF,1,2,A,NaN,NaN,NaN
+DEN,31/10/1992,14:00,Silkeborg IF,FC København,1,2,A,NaN,NaN,NaN
+DEN,01/11/1992,14:00,B 1909 Odense,Lyngby BK,1,4,A,NaN,NaN,NaN
+DEN,01/11/1992,14:00,Næstved IF,Brøndby IF,1,1,D,NaN,NaN,NaN
+DEN,01/11/1992,14:00,Aalborg BK,Odense BK,0,0,D,NaN,NaN,NaN
+DEN,08/11/1992,14:00,Aarhus GF,B 1909 Odense,1,1,D,NaN,NaN,NaN
+DEN,08/11/1992,14:00,Brøndby IF,Silkeborg IF,2,0,H,NaN,NaN,NaN
+DEN,08/11/1992,14:00,Lyngby BK,Næstved IF,1,1,D,NaN,NaN,NaN
+DEN,08/11/1992,14:00,Odense BK,FC København,0,2,A,NaN,NaN,NaN
+DEN,08/11/1992,14:00,Aalborg BK,BK Frem København,3,0,H,NaN,NaN,NaN
+DEN,15/11/1992,14:00,B 1909 Odense,Aalborg BK,1,2,A,NaN,NaN,NaN
+DEN,15/11/1992,14:00,FC København,Brøndby IF,0,0,D,NaN,NaN,NaN
+DEN,15/11/1992,14:00,BK Frem København,Odense BK,2,1,H,NaN,NaN,NaN
+DEN,15/11/1992,14:00,Næstved IF,Aarhus GF,2,3,A,NaN,NaN,NaN
+DEN,15/11/1992,14:00,Silkeborg IF,Lyngby BK,2,0,H,NaN,NaN,NaN
+DEN,22/11/1992,14:00,Aarhus GF,Silkeborg IF,1,0,H,NaN,NaN,NaN
+DEN,22/11/1992,14:00,BK Frem København,B 1909 Odense,3,1,H,NaN,NaN,NaN
+DEN,22/11/1992,14:00,Lyngby BK,FC København,1,1,D,NaN,NaN,NaN
+DEN,22/11/1992,14:00,Odense BK,Brøndby IF,2,0,H,NaN,NaN,NaN
+DEN,22/11/1992,14:00,Aalborg BK,Næstved IF,1,1,D,NaN,NaN,NaN
+DEN,29/11/1992,14:00,B 1909 Odense,Odense BK,0,1,A,NaN,NaN,NaN
+DEN,29/11/1992,14:00,Brøndby IF,Lyngby BK,2,2,D,NaN,NaN,NaN
+DEN,29/11/1992,14:00,FC København,Aarhus GF,3,1,H,NaN,NaN,NaN
+DEN,29/11/1992,14:00,Næstved IF,BK Frem København,2,2,D,NaN,NaN,NaN
+DEN,29/11/1992,14:00,Silkeborg IF,Aalborg BK,0,2,A,NaN,NaN,NaN

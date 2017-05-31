@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FIN,06/05/2004,16:30,AC Allianssi,Inter Turku,1,0,H,NaN,NaN,NaN
+FIN,07/05/2004,16:00,TPS Turku,HJK Helsinki,2,2,D,NaN,NaN,NaN
+FIN,07/05/2004,16:30,Haka Valkeakoski,FF Jaro,2,0,H,NaN,NaN,NaN
+FIN,07/05/2004,16:30,FC Hämeenlinna,Rovaniemi PS,2,2,D,NaN,NaN,NaN
+FIN,07/05/2004,16:30,FC Jazz Pori,Tampere United,3,1,H,NaN,NaN,NaN
+FIN,07/05/2004,16:30,FC KooTeePee,MyPa Anjalankoski,2,0,H,NaN,NaN,NaN
+FIN,07/05/2004,16:30,FC Lahti,TP-47 Tornio,1,1,D,NaN,NaN,NaN
+FIN,10/05/2004,16:30,MyPa Anjalankoski,FC Hämeenlinna,3,1,H,NaN,NaN,NaN
+FIN,10/05/2004,16:30,Rovaniemi PS,Haka Valkeakoski,1,3,A,NaN,NaN,NaN
+FIN,10/05/2004,16:30,Tampere United,AC Allianssi,1,0,H,NaN,NaN,NaN
+FIN,10/05/2004,16:30,HJK Helsinki,FC Jazz Pori,4,1,H,NaN,NaN,NaN
+FIN,10/05/2004,16:30,Inter Turku,FC Lahti,4,2,H,NaN,NaN,NaN
+FIN,10/05/2004,16:30,FF Jaro,FC KooTeePee,3,1,H,NaN,NaN,NaN
+FIN,16/05/2004,16:30,TP-47 Tornio,TPS Turku,1,0,H,NaN,NaN,NaN
+FIN,13/05/2004,16:00,FC Lahti,MyPa Anjalankoski,1,1,D,NaN,NaN,NaN
+FIN,13/05/2004,16:30,TPS Turku,Inter Turku,2,0,H,NaN,NaN,NaN
+FIN,13/05/2004,16:30,Haka Valkeakoski,Tampere United,0,1,A,NaN,NaN,NaN
+FIN,13/05/2004,16:30,FC Jazz Pori,TP-47 Tornio,2,2,D,NaN,NaN,NaN
+FIN,13/05/2004,16:30,FC KooTeePee,HJK Helsinki,2,2,D,NaN,NaN,NaN
+FIN,16/05/2004,16:30,AC Allianssi,Rovaniemi PS,1,0,H,NaN,NaN,NaN
+FIN,16/05/2004,16:30,FC Hämeenlinna,FF Jaro,2,1,H,NaN,NaN,NaN
+FIN,20/05/2004,12:00,HJK Helsinki,Haka Valkeakoski,0,0,D,NaN,NaN,NaN
+FIN,20/05/2004,16:00,FC Jazz Pori,FC Hämeenlinna,5,1,H,NaN,NaN,NaN
+FIN,20/05/2004,16:30,FC Lahti,FC KooTeePee,1,1,D,NaN,NaN,NaN
+FIN,20/05/2004,16:30,TP-47 Tornio,Inter Turku,0,1,A,NaN,NaN,NaN
+FIN,20/05/2004,16:30,FF Jaro,MyPa Anjalankoski,1,1,D,NaN,NaN,NaN
+FIN,20/05/2004,16:30,TPS Turku,AC Allianssi,3,1,H,NaN,NaN,NaN
+FIN,30/05/2004,16:30,Tampere United,Rovaniemi PS,5,1,H,NaN,NaN,NaN
+FIN,23/05/2004,16:30,MyPa Anjalankoski,FC Jazz Pori,2,1,H,NaN,NaN,NaN
+FIN,23/05/2004,16:30,Rovaniemi PS,TPS Turku,0,2,A,NaN,NaN,NaN
+FIN,23/05/2004,16:30,Tampere United,FC Lahti,0,0,D,NaN,NaN,NaN
+FIN,23/05/2004,16:30,AC Allianssi,FF Jaro,4,0,H,NaN,NaN,NaN
+FIN,23/05/2004,16:30,FC Hämeenlinna,FC KooTeePee,0,1,A,NaN,NaN,NaN
+FIN,23/05/2004,16:30,Inter Turku,Haka Valkeakoski,0,0,D,NaN,NaN,NaN
+FIN,24/05/2004,16:30,HJK Helsinki,TP-47 Tornio,1,1,D,NaN,NaN,NaN
+FIN,27/05/2004,16:00,MyPa Anjalankoski,AC Allianssi,0,1,A,NaN,NaN,NaN
+FIN,27/05/2004,16:30,FF Jaro,Rovaniemi PS,1,2,A,NaN,NaN,NaN
+FIN,30/05/2004,16:30,FC KooTeePee,TPS Turku,3,0,H,NaN,NaN,NaN
+FIN,30/05/2004,16:30,Haka Valkeakoski,FC Hämeenlinna,1,1,D,NaN,NaN,NaN
+FIN,30/05/2004,16:30,Inter Turku,HJK Helsinki,1,4,A,NaN,NaN,NaN
+FIN,30/05/2004,16:30,FC Jazz Pori,FC Lahti,0,1,A,NaN,NaN,NaN
+FIN,07/07/2004,16:30,TP-47 Tornio,Tampere United,1,0,H,NaN,NaN,NaN
+FIN,03/06/2004,16:00,Haka Valkeakoski,TP-47 Tornio,4,2,H,NaN,NaN,NaN
+FIN,03/06/2004,16:30,FC KooTeePee,Inter Turku,0,1,A,NaN,NaN,NaN
+FIN,03/06/2004,16:30,AC Allianssi,HJK Helsinki,1,0,H,NaN,NaN,NaN
+FIN,03/06/2004,16:30,FC Lahti,FC Hämeenlinna,1,0,H,NaN,NaN,NaN
+FIN,03/06/2004,16:30,Rovaniemi PS,MyPa Anjalankoski,1,2,A,NaN,NaN,NaN
+FIN,03/06/2004,16:30,TPS Turku,Tampere United,0,1,A,NaN,NaN,NaN
+FIN,13/06/2004,14:00,FF Jaro,FC Jazz Pori,3,1,H,NaN,NaN,NaN
+FIN,06/06/2004,14:00,HJK Helsinki,FF Jaro,2,1,H,NaN,NaN,NaN
+FIN,06/06/2004,16:30,TP-47 Tornio,MyPa Anjalankoski,2,0,H,NaN,NaN,NaN
+FIN,06/06/2004,16:30,FC Jazz Pori,Haka Valkeakoski,0,2,A,NaN,NaN,NaN
+FIN,06/06/2004,16:30,FC Lahti,AC Allianssi,3,3,D,NaN,NaN,NaN
+FIN,06/06/2004,16:30,Tampere United,FC KooTeePee,2,0,H,NaN,NaN,NaN
+FIN,06/06/2004,16:30,FC Hämeenlinna,TPS Turku,2,2,D,NaN,NaN,NaN
+FIN,06/06/2004,16:30,Inter Turku,Rovaniemi PS,4,0,H,NaN,NaN,NaN
+FIN,10/06/2004,16:00,MyPa Anjalankoski,HJK Helsinki,1,1,D,NaN,NaN,NaN
+FIN,10/06/2004,16:30,TPS Turku,FF Jaro,3,1,H,NaN,NaN,NaN
+FIN,10/06/2004,16:30,TP-47 Tornio,AC Allianssi,1,2,A,NaN,NaN,NaN
+FIN,10/06/2004,16:30,Haka Valkeakoski,FC Lahti,2,0,H,NaN,NaN,NaN
+FIN,10/06/2004,16:30,FC Hämeenlinna,Tampere United,0,1,A,NaN,NaN,NaN
+FIN,10/06/2004,16:30,FC Jazz Pori,Inter Turku,3,4,A,NaN,NaN,NaN
+FIN,13/06/2004,14:00,FC KooTeePee,Rovaniemi PS,3,0,H,NaN,NaN,NaN
+FIN,20/06/2004,16:30,FC Lahti,HJK Helsinki,1,1,D,NaN,NaN,NaN
+FIN,20/06/2004,16:30,Rovaniemi PS,FC Jazz Pori,1,2,A,NaN,NaN,NaN
+FIN,20/06/2004,16:30,AC Allianssi,FC Hämeenlinna,3,1,H,NaN,NaN,NaN
+FIN,20/06/2004,16:30,Haka Valkeakoski,TPS Turku,1,2,A,NaN,NaN,NaN
+FIN,20/06/2004,16:30,FC KooTeePee,TP-47 Tornio,2,1,H,NaN,NaN,NaN
+FIN,15/07/2004,16:30,FF Jaro,Tampere United,0,3,A,NaN,NaN,NaN
+FIN,01/08/2004,16:30,Inter Turku,MyPa Anjalankoski,0,1,A,NaN,NaN,NaN
+FIN,30/06/2004,16:30,Tampere United,Inter Turku,2,2,D,NaN,NaN,NaN
+FIN,01/07/2004,16:00,FC Lahti,FF Jaro,1,0,H,NaN,NaN,NaN
+FIN,01/07/2004,16:30,HJK Helsinki,FC Hämeenlinna,3,0,H,NaN,NaN,NaN
+FIN,01/07/2004,16:30,TPS Turku,FC Jazz Pori,1,2,A,NaN,NaN,NaN
+FIN,01/07/2004,16:30,MyPa Anjalankoski,Haka Valkeakoski,0,4,A,NaN,NaN,NaN
+FIN,01/07/2004,16:30,TP-47 Tornio,Rovaniemi PS,3,0,H,NaN,NaN,NaN
+FIN,05/09/2004,16:30,AC Allianssi,FC KooTeePee,0,0,D,NaN,NaN,NaN
+FIN,05/07/2004,16:30,FC Jazz Pori,AC Allianssi,1,1,D,NaN,NaN,NaN
+FIN,05/07/2004,16:30,Rovaniemi PS,FC Lahti,2,2,D,NaN,NaN,NaN
+FIN,05/07/2004,16:30,Haka Valkeakoski,FC KooTeePee,4,1,H,NaN,NaN,NaN
+FIN,05/07/2004,16:30,HJK Helsinki,TPS Turku,3,2,H,NaN,NaN,NaN
+FIN,05/07/2004,16:30,FC Hämeenlinna,Inter Turku,3,4,A,NaN,NaN,NaN
+FIN,21/07/2004,16:30,FC Hämeenlinna,MyPa Anjalankoski,1,2,A,NaN,NaN,NaN
+FIN,21/07/2004,16:30,FF Jaro,TP-47 Tornio,3,0,H,NaN,NaN,NaN
+FIN,08/07/2004,16:00,AC Allianssi,Haka Valkeakoski,0,0,D,NaN,NaN,NaN
+FIN,08/07/2004,16:30,Rovaniemi PS,HJK Helsinki,2,0,H,NaN,NaN,NaN
+FIN,08/07/2004,16:30,Inter Turku,FF Jaro,5,1,H,NaN,NaN,NaN
+FIN,08/07/2004,21:00,FC Lahti,TPS Turku,1,2,A,NaN,NaN,NaN
+FIN,11/07/2004,16:30,TP-47 Tornio,FC Hämeenlinna,2,0,H,NaN,NaN,NaN
+FIN,11/07/2004,16:30,TPS Turku,MyPa Anjalankoski,1,0,H,NaN,NaN,NaN
+FIN,11/07/2004,21:00,FC KooTeePee,FC Jazz Pori,1,1,D,NaN,NaN,NaN
+FIN,15/07/2004,16:00,MyPa Anjalankoski,FC KooTeePee,1,1,D,NaN,NaN,NaN
+FIN,15/07/2004,16:30,TP-47 Tornio,FC Lahti,3,1,H,NaN,NaN,NaN
+FIN,18/07/2004,16:30,FC Jazz Pori,HJK Helsinki,0,0,D,NaN,NaN,NaN
+FIN,18/07/2004,16:30,FC KooTeePee,FF Jaro,2,0,H,NaN,NaN,NaN
+FIN,18/07/2004,16:30,TPS Turku,TP-47 Tornio,3,2,H,NaN,NaN,NaN
+FIN,18/07/2004,16:30,Haka Valkeakoski,Rovaniemi PS,1,0,H,NaN,NaN,NaN
+FIN,22/09/2004,16:30,AC Allianssi,Tampere United,0,0,D,NaN,NaN,NaN
+FIN,21/07/2004,16:00,Tampere United,Haka Valkeakoski,1,3,A,NaN,NaN,NaN
+FIN,22/07/2004,16:00,FC Lahti,Inter Turku,2,1,H,NaN,NaN,NaN
+FIN,22/07/2004,16:30,Rovaniemi PS,AC Allianssi,1,0,H,NaN,NaN,NaN
+FIN,24/07/2004,14:00,FF Jaro,FC Hämeenlinna,1,1,D,NaN,NaN,NaN
+FIN,24/07/2004,15:00,HJK Helsinki,FC KooTeePee,3,2,H,NaN,NaN,NaN
+FIN,25/07/2004,16:30,MyPa Anjalankoski,FC Lahti,0,0,D,NaN,NaN,NaN
+FIN,25/07/2004,16:30,TP-47 Tornio,FC Jazz Pori,3,2,H,NaN,NaN,NaN
+FIN,24/06/2004,16:00,FC KooTeePee,FC Lahti,1,1,D,NaN,NaN,NaN
+FIN,29/07/2004,16:00,Tampere United,FC Jazz Pori,6,0,H,NaN,NaN,NaN
+FIN,29/07/2004,16:30,Inter Turku,TP-47 Tornio,2,1,H,NaN,NaN,NaN
+FIN,29/07/2004,16:30,MyPa Anjalankoski,FF Jaro,2,1,H,NaN,NaN,NaN
+FIN,01/08/2004,16:30,AC Allianssi,TPS Turku,0,0,D,NaN,NaN,NaN
+FIN,01/08/2004,16:30,FC Hämeenlinna,FC Jazz Pori,2,2,D,NaN,NaN,NaN
+FIN,01/08/2004,16:30,Rovaniemi PS,Tampere United,2,0,H,NaN,NaN,NaN
+FIN,04/08/2004,16:30,FC Jazz Pori,MyPa Anjalankoski,0,4,A,NaN,NaN,NaN
+FIN,05/08/2004,16:00,Haka Valkeakoski,Inter Turku,4,0,H,NaN,NaN,NaN
+FIN,05/08/2004,16:30,FC Lahti,Tampere United,2,1,H,NaN,NaN,NaN
+FIN,08/08/2004,16:30,FC KooTeePee,FC Hämeenlinna,1,0,H,NaN,NaN,NaN
+FIN,08/08/2004,16:30,TP-47 Tornio,HJK Helsinki,1,2,A,NaN,NaN,NaN
+FIN,08/08/2004,16:30,TPS Turku,Rovaniemi PS,1,0,H,NaN,NaN,NaN
+FIN,15/08/2004,16:30,Rovaniemi PS,FF Jaro,0,2,A,NaN,NaN,NaN
+FIN,05/08/2004,16:30,FF Jaro,AC Allianssi,1,2,A,NaN,NaN,NaN
+FIN,11/08/2004,16:30,Tampere United,TP-47 Tornio,3,2,H,NaN,NaN,NaN
+FIN,12/08/2004,16:00,HJK Helsinki,Inter Turku,0,1,A,NaN,NaN,NaN
+FIN,12/08/2004,16:30,FC Lahti,FC Jazz Pori,4,0,H,NaN,NaN,NaN
+FIN,12/08/2004,16:30,MyPa Anjalankoski,Rovaniemi PS,1,2,A,NaN,NaN,NaN
+FIN,12/08/2004,16:30,TPS Turku,FC KooTeePee,1,0,H,NaN,NaN,NaN
+FIN,16/08/2004,16:30,FC Hämeenlinna,Haka Valkeakoski,1,3,A,NaN,NaN,NaN
+FIN,19/08/2004,16:00,Inter Turku,TPS Turku,0,1,A,NaN,NaN,NaN
+FIN,19/08/2004,16:30,FC Jazz Pori,FF Jaro,0,1,A,NaN,NaN,NaN
+FIN,20/08/2004,16:30,HJK Helsinki,AC Allianssi,0,1,A,NaN,NaN,NaN
+FIN,21/08/2004,14:00,TP-47 Tornio,Haka Valkeakoski,1,4,A,NaN,NaN,NaN
+FIN,22/08/2004,16:30,FC Hämeenlinna,FC Lahti,0,2,A,NaN,NaN,NaN
+FIN,22/08/2004,16:30,Inter Turku,FC KooTeePee,1,1,D,NaN,NaN,NaN
+FIN,22/08/2004,16:30,Tampere United,TPS Turku,3,1,H,NaN,NaN,NaN
+FIN,26/08/2004,16:30,TPS Turku,FC Hämeenlinna,2,3,A,NaN,NaN,NaN
+FIN,29/08/2004,16:30,AC Allianssi,FC Lahti,1,2,A,NaN,NaN,NaN
+FIN,29/08/2004,16:30,Haka Valkeakoski,FC Jazz Pori,1,0,H,NaN,NaN,NaN
+FIN,29/08/2004,16:30,FF Jaro,HJK Helsinki,2,2,D,NaN,NaN,NaN
+FIN,29/08/2004,16:30,Rovaniemi PS,Inter Turku,4,0,H,NaN,NaN,NaN
+FIN,29/08/2004,16:30,Tampere United,MyPa Anjalankoski,1,1,D,NaN,NaN,NaN
+FIN,02/09/2004,16:30,TP-47 Tornio,FC KooTeePee,1,0,H,NaN,NaN,NaN
+FIN,13/06/2004,14:00,HJK Helsinki,Tampere United,0,0,D,NaN,NaN,NaN
+FIN,23/06/2004,16:30,Inter Turku,AC Allianssi,4,0,H,NaN,NaN,NaN
+FIN,23/06/2004,16:30,FF Jaro,Haka Valkeakoski,0,3,A,NaN,NaN,NaN
+FIN,02/09/2004,16:00,HJK Helsinki,MyPa Anjalankoski,0,0,D,NaN,NaN,NaN
+FIN,02/09/2004,16:00,FC Lahti,Haka Valkeakoski,1,2,A,NaN,NaN,NaN
+FIN,02/09/2004,16:30,Inter Turku,FC Jazz Pori,3,0,H,NaN,NaN,NaN
+FIN,15/09/2004,16:30,Tampere United,FC Hämeenlinna,1,0,H,NaN,NaN,NaN
+FIN,14/07/2004,16:30,Rovaniemi PS,FC Hämeenlinna,2,2,D,NaN,NaN,NaN
+FIN,16/08/2004,16:30,AC Allianssi,MyPa Anjalankoski,0,3,A,NaN,NaN,NaN
+FIN,09/09/2004,16:00,FC Jazz Pori,Rovaniemi PS,0,1,A,NaN,NaN,NaN
+FIN,09/09/2004,16:30,MyPa Anjalankoski,Inter Turku,1,1,D,NaN,NaN,NaN
+FIN,09/09/2004,16:30,FC Hämeenlinna,AC Allianssi,2,3,A,NaN,NaN,NaN
+FIN,09/09/2004,16:30,FF Jaro,TPS Turku,1,0,H,NaN,NaN,NaN
+FIN,10/09/2004,17:00,Haka Valkeakoski,HJK Helsinki,3,2,H,NaN,NaN,NaN
+FIN,26/08/2004,16:00,FC KooTeePee,Tampere United,0,1,A,NaN,NaN,NaN
+FIN,26/08/2004,16:30,MyPa Anjalankoski,TP-47 Tornio,2,0,H,NaN,NaN,NaN
+FIN,12/09/2004,15:00,Rovaniemi PS,FC KooTeePee,1,3,A,NaN,NaN,NaN
+FIN,12/09/2004,16:30,Tampere United,FF Jaro,2,0,H,NaN,NaN,NaN
+FIN,13/09/2004,16:30,AC Allianssi,TP-47 Tornio,3,2,H,NaN,NaN,NaN
+FIN,13/09/2004,16:30,TPS Turku,Haka Valkeakoski,0,0,D,NaN,NaN,NaN
+FIN,14/09/2004,16:30,HJK Helsinki,FC Lahti,2,2,D,NaN,NaN,NaN
+FIN,05/08/2004,16:30,Rovaniemi PS,TP-47 Tornio,1,1,D,NaN,NaN,NaN
+FIN,18/09/2004,13:30,Haka Valkeakoski,MyPa Anjalankoski,4,3,H,NaN,NaN,NaN
+FIN,18/09/2004,16:30,FF Jaro,FC Lahti,2,1,H,NaN,NaN,NaN
+FIN,18/09/2004,16:30,FC Jazz Pori,TPS Turku,1,1,D,NaN,NaN,NaN
+FIN,18/09/2004,16:30,FC KooTeePee,AC Allianssi,0,2,A,NaN,NaN,NaN
+FIN,18/09/2004,16:30,FC Hämeenlinna,HJK Helsinki,2,2,D,NaN,NaN,NaN
+FIN,18/09/2004,16:30,Inter Turku,Tampere United,1,0,H,NaN,NaN,NaN
+FIN,25/09/2004,13:30,Tampere United,HJK Helsinki,1,4,A,NaN,NaN,NaN
+FIN,25/09/2004,13:30,TP-47 Tornio,FF Jaro,0,4,A,NaN,NaN,NaN
+FIN,25/09/2004,16:30,MyPa Anjalankoski,TPS Turku,1,2,A,NaN,NaN,NaN
+FIN,25/09/2004,16:30,Inter Turku,FC Hämeenlinna,1,0,H,NaN,NaN,NaN
+FIN,25/09/2004,16:30,FC KooTeePee,Haka Valkeakoski,0,1,A,NaN,NaN,NaN
+FIN,25/09/2004,16:30,FC Lahti,Rovaniemi PS,2,1,H,NaN,NaN,NaN
+FIN,26/09/2004,16:30,AC Allianssi,FC Jazz Pori,3,1,H,NaN,NaN,NaN
+FIN,02/10/2004,13:30,TPS Turku,FC Lahti,2,2,D,NaN,NaN,NaN
+FIN,02/10/2004,13:30,FF Jaro,Inter Turku,1,1,D,NaN,NaN,NaN
+FIN,02/10/2004,13:30,FC Jazz Pori,FC KooTeePee,0,0,D,NaN,NaN,NaN
+FIN,02/10/2004,13:30,MyPa Anjalankoski,Tampere United,1,2,A,NaN,NaN,NaN
+FIN,02/10/2004,13:30,Haka Valkeakoski,AC Allianssi,2,3,A,NaN,NaN,NaN
+FIN,02/10/2004,13:30,HJK Helsinki,Rovaniemi PS,2,1,H,NaN,NaN,NaN
+FIN,02/10/2004,13:30,FC Hämeenlinna,TP-47 Tornio,1,0,H,NaN,NaN,NaN

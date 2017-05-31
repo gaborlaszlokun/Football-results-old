@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BLR,16/04/2005,,Shakhter Soligorsk,BATE Borisov,2,2,D,NaN,NaN,NaN
+BLR,16/04/2005,,MTZ-Ripo,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,16/04/2005,,FK Slavia Mozyr,Torpedo Zhodino,0,2,A,NaN,NaN,NaN
+BLR,16/04/2005,,Dnepr Mogilev,FK Gomel,1,0,H,NaN,NaN,NaN
+BLR,17/04/2005,,FC Lakamatyu Minsk,Zvezda-BGU Minsk,0,0,D,NaN,NaN,NaN
+BLR,17/04/2005,,Neman Grodno,Naftan Novopolotsk,1,0,H,NaN,NaN,NaN
+BLR,17/04/2005,,Dinamo Brest,Darida Zhdanovichi,0,2,A,NaN,NaN,NaN
+BLR,23/04/2005,16:00,Zvezda-BGU Minsk,Neman Grodno,0,1,A,NaN,NaN,NaN
+BLR,23/04/2005,17:00,Torpedo Zhodino,FC Lakamatyu Minsk,3,1,H,NaN,NaN,NaN
+BLR,23/04/2005,17:00,Naftan Novopolotsk,Dinamo Brest,2,1,H,NaN,NaN,NaN
+BLR,23/04/2005,17:00,Shakhter Soligorsk,Dnepr Mogilev,3,0,H,NaN,NaN,NaN
+BLR,24/04/2005,16:00,BATE Borisov,Darida Zhdanovichi,1,1,D,NaN,NaN,NaN
+BLR,24/04/2005,17:00,Dinamo Minsk,FK Slavia Mozyr,1,0,H,NaN,NaN,NaN
+BLR,24/04/2005,17:30,FK Gomel,MTZ-Ripo,1,0,H,NaN,NaN,NaN
+BLR,29/04/2005,17:30,Dnepr Mogilev,BATE Borisov,1,1,D,NaN,NaN,NaN
+BLR,29/04/2005,18:00,Darida Zhdanovichi,Naftan Novopolotsk,0,0,D,NaN,NaN,NaN
+BLR,30/04/2005,16:00,MTZ-Ripo,Shakhter Soligorsk,1,1,D,NaN,NaN,NaN
+BLR,30/04/2005,17:00,Neman Grodno,Torpedo Zhodino,0,2,A,NaN,NaN,NaN
+BLR,30/04/2005,17:00,Dinamo Brest,Zvezda-BGU Minsk,3,0,H,NaN,NaN,NaN
+BLR,30/04/2005,17:30,FK Slavia Mozyr,FK Gomel,1,1,D,NaN,NaN,NaN
+BLR,01/05/2005,15:00,FC Lakamatyu Minsk,Dinamo Minsk,3,2,H,NaN,NaN,NaN
+BLR,08/05/2005,15:00,Torpedo Zhodino,Dinamo Brest,0,2,A,NaN,NaN,NaN
+BLR,08/05/2005,15:00,Shakhter Soligorsk,FK Slavia Mozyr,0,0,D,NaN,NaN,NaN
+BLR,08/05/2005,17:00,BATE Borisov,Naftan Novopolotsk,3,0,H,NaN,NaN,NaN
+BLR,09/05/2005,14:00,Dinamo Minsk,Neman Grodno,0,1,A,NaN,NaN,NaN
+BLR,09/05/2005,14:00,Dnepr Mogilev,MTZ-Ripo,2,1,H,NaN,NaN,NaN
+BLR,09/05/2005,15:00,Zvezda-BGU Minsk,Darida Zhdanovichi,0,4,A,NaN,NaN,NaN
+BLR,09/05/2005,17:00,FK Gomel,FC Lakamatyu Minsk,0,1,A,NaN,NaN,NaN
+BLR,14/05/2005,14:00,Dinamo Brest,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+BLR,14/05/2005,15:00,Neman Grodno,FK Gomel,1,2,A,NaN,NaN,NaN
+BLR,14/05/2005,15:00,Darida Zhdanovichi,Torpedo Zhodino,0,3,A,NaN,NaN,NaN
+BLR,14/05/2005,15:00,Naftan Novopolotsk,Zvezda-BGU Minsk,3,1,H,NaN,NaN,NaN
+BLR,14/05/2005,15:30,MTZ-Ripo,BATE Borisov,0,1,A,NaN,NaN,NaN
+BLR,14/05/2005,15:30,FK Slavia Mozyr,Dnepr Mogilev,0,3,A,NaN,NaN,NaN
+BLR,15/05/2005,15:00,FC Lakamatyu Minsk,Shakhter Soligorsk,0,2,A,NaN,NaN,NaN
+BLR,18/05/2005,15:00,BATE Borisov,Zvezda-BGU Minsk,4,0,H,NaN,NaN,NaN
+BLR,18/05/2005,15:00,MTZ-Ripo,FK Slavia Mozyr,2,0,H,NaN,NaN,NaN
+BLR,20/05/2005,15:00,Dinamo Minsk,Darida Zhdanovichi,0,1,A,NaN,NaN,NaN
+BLR,21/05/2005,15:00,Torpedo Zhodino,Naftan Novopolotsk,1,0,H,NaN,NaN,NaN
+BLR,21/05/2005,15:00,Dnepr Mogilev,FC Lakamatyu Minsk,5,1,H,NaN,NaN,NaN
+BLR,21/05/2005,15:30,FK Gomel,Dinamo Brest,2,1,H,NaN,NaN,NaN
+BLR,21/05/2005,15:30,Shakhter Soligorsk,Neman Grodno,3,0,H,NaN,NaN,NaN
+BLR,28/05/2005,14:00,FK Slavia Mozyr,BATE Borisov,2,2,D,NaN,NaN,NaN
+BLR,28/05/2005,14:00,FC Lakamatyu Minsk,MTZ-Ripo,2,3,A,NaN,NaN,NaN
+BLR,28/05/2005,14:00,Neman Grodno,Dnepr Mogilev,1,3,A,NaN,NaN,NaN
+BLR,28/05/2005,14:00,Dinamo Brest,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,28/05/2005,14:00,Naftan Novopolotsk,Dinamo Minsk,3,2,H,NaN,NaN,NaN
+BLR,28/05/2005,14:00,Zvezda-BGU Minsk,Torpedo Zhodino,2,2,D,NaN,NaN,NaN
+BLR,29/05/2005,14:00,Darida Zhdanovichi,FK Gomel,1,1,D,NaN,NaN,NaN
+BLR,11/06/2005,15:30,Shakhter Soligorsk,Darida Zhdanovichi,3,1,H,NaN,NaN,NaN
+BLR,11/06/2005,16:00,FK Slavia Mozyr,FC Lakamatyu Minsk,0,2,A,NaN,NaN,NaN
+BLR,11/06/2005,17:00,FK Gomel,Naftan Novopolotsk,1,2,A,NaN,NaN,NaN
+BLR,12/06/2005,16:00,BATE Borisov,Torpedo Zhodino,0,1,A,NaN,NaN,NaN
+BLR,12/06/2005,16:00,Dnepr Mogilev,Dinamo Brest,2,2,D,NaN,NaN,NaN
+BLR,12/06/2005,16:00,MTZ-Ripo,Neman Grodno,1,0,H,NaN,NaN,NaN
+BLR,12/06/2005,17:00,Dinamo Minsk,Zvezda-BGU Minsk,3,0,H,NaN,NaN,NaN
+BLR,16/06/2005,15:00,Zvezda-BGU Minsk,FK Gomel,0,1,A,NaN,NaN,NaN
+BLR,16/06/2005,16:00,Naftan Novopolotsk,Shakhter Soligorsk,1,4,A,NaN,NaN,NaN
+BLR,16/06/2005,17:00,Neman Grodno,FK Slavia Mozyr,1,0,H,NaN,NaN,NaN
+BLR,17/06/2005,16:00,FC Lakamatyu Minsk,BATE Borisov,3,3,D,NaN,NaN,NaN
+BLR,17/06/2005,16:00,Torpedo Zhodino,Dinamo Minsk,2,2,D,NaN,NaN,NaN
+BLR,17/06/2005,16:30,Dinamo Brest,MTZ-Ripo,1,0,H,NaN,NaN,NaN
+BLR,17/06/2005,16:30,Darida Zhdanovichi,Dnepr Mogilev,4,1,H,NaN,NaN,NaN
+BLR,22/06/2005,15:00,MTZ-Ripo,Darida Zhdanovichi,5,1,H,NaN,NaN,NaN
+BLR,22/06/2005,15:30,Shakhter Soligorsk,Zvezda-BGU Minsk,3,1,H,NaN,NaN,NaN
+BLR,22/06/2005,16:00,Dnepr Mogilev,Naftan Novopolotsk,1,1,D,NaN,NaN,NaN
+BLR,22/06/2005,16:00,FK Slavia Mozyr,Dinamo Brest,1,3,A,NaN,NaN,NaN
+BLR,22/06/2005,16:00,FC Lakamatyu Minsk,Neman Grodno,4,1,H,NaN,NaN,NaN
+BLR,22/06/2005,16:30,FK Gomel,Torpedo Zhodino,2,1,H,NaN,NaN,NaN
+BLR,22/06/2005,18:00,BATE Borisov,Dinamo Minsk,1,0,H,NaN,NaN,NaN
+BLR,29/06/2005,16:00,Zvezda-BGU Minsk,Dnepr Mogilev,0,2,A,NaN,NaN,NaN
+BLR,29/06/2005,16:00,Torpedo Zhodino,Shakhter Soligorsk,0,1,A,NaN,NaN,NaN
+BLR,29/06/2005,16:30,Dinamo Brest,FC Lakamatyu Minsk,1,2,A,NaN,NaN,NaN
+BLR,29/06/2005,17:00,Naftan Novopolotsk,MTZ-Ripo,2,3,A,NaN,NaN,NaN
+BLR,29/06/2005,17:00,Dinamo Minsk,FK Gomel,3,1,H,NaN,NaN,NaN
+BLR,30/06/2005,16:00,Neman Grodno,BATE Borisov,1,1,D,NaN,NaN,NaN
+BLR,30/06/2005,16:30,Darida Zhdanovichi,FK Slavia Mozyr,1,2,A,NaN,NaN,NaN
+BLR,06/07/2005,15:00,MTZ-Ripo,Zvezda-BGU Minsk,3,1,H,NaN,NaN,NaN
+BLR,06/07/2005,15:30,Shakhter Soligorsk,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+BLR,06/07/2005,16:00,Dnepr Mogilev,Torpedo Zhodino,1,0,H,NaN,NaN,NaN
+BLR,06/07/2005,16:00,Neman Grodno,Dinamo Brest,2,2,D,NaN,NaN,NaN
+BLR,06/07/2005,16:30,FK Slavia Mozyr,Naftan Novopolotsk,1,3,A,NaN,NaN,NaN
+BLR,06/07/2005,18:00,BATE Borisov,FK Gomel,1,1,D,NaN,NaN,NaN
+BLR,07/07/2005,15:00,FC Lakamatyu Minsk,Darida Zhdanovichi,0,0,D,NaN,NaN,NaN
+BLR,16/07/2005,15:00,Zvezda-BGU Minsk,FK Slavia Mozyr,1,2,A,NaN,NaN,NaN
+BLR,16/07/2005,16:00,Dinamo Minsk,Dnepr Mogilev,5,2,H,NaN,NaN,NaN
+BLR,16/07/2005,16:30,Naftan Novopolotsk,FC Lakamatyu Minsk,4,0,H,NaN,NaN,NaN
+BLR,17/07/2005,16:30,Darida Zhdanovichi,Neman Grodno,0,1,A,NaN,NaN,NaN
+BLR,17/07/2005,16:30,FK Gomel,Shakhter Soligorsk,0,3,A,NaN,NaN,NaN
+BLR,19/07/2005,16:00,Torpedo Zhodino,MTZ-Ripo,3,1,H,NaN,NaN,NaN
+BLR,19/07/2005,16:30,Dinamo Brest,BATE Borisov,1,2,A,NaN,NaN,NaN
+BLR,30/07/2005,15:00,Zvezda-BGU Minsk,FC Lakamatyu Minsk,1,1,D,NaN,NaN,NaN
+BLR,30/07/2005,15:00,Naftan Novopolotsk,Neman Grodno,3,0,H,NaN,NaN,NaN
+BLR,31/07/2005,16:00,Torpedo Zhodino,FK Slavia Mozyr,6,1,H,NaN,NaN,NaN
+BLR,31/07/2005,16:30,Darida Zhdanovichi,Dinamo Brest,1,0,H,NaN,NaN,NaN
+BLR,31/07/2005,17:30,FK Gomel,Dnepr Mogilev,1,2,A,NaN,NaN,NaN
+BLR,01/08/2005,17:00,BATE Borisov,Shakhter Soligorsk,0,2,A,NaN,NaN,NaN
+BLR,01/08/2005,17:00,Dinamo Minsk,MTZ-Ripo,3,1,H,NaN,NaN,NaN
+BLR,06/08/2005,16:00,Neman Grodno,Zvezda-BGU Minsk,1,0,H,NaN,NaN,NaN
+BLR,06/08/2005,16:00,Dinamo Brest,Naftan Novopolotsk,1,0,H,NaN,NaN,NaN
+BLR,06/08/2005,16:00,MTZ-Ripo,FK Gomel,3,1,H,NaN,NaN,NaN
+BLR,06/08/2005,16:30,Darida Zhdanovichi,BATE Borisov,1,1,D,NaN,NaN,NaN
+BLR,07/08/2005,16:00,FC Lakamatyu Minsk,Torpedo Zhodino,2,3,A,NaN,NaN,NaN
+BLR,07/08/2005,16:30,Dnepr Mogilev,Shakhter Soligorsk,1,1,D,NaN,NaN,NaN
+BLR,07/08/2005,16:30,FK Slavia Mozyr,Dinamo Minsk,0,4,A,NaN,NaN,NaN
+BLR,13/08/2005,14:00,Naftan Novopolotsk,Darida Zhdanovichi,3,2,H,NaN,NaN,NaN
+BLR,13/08/2005,15:00,Zvezda-BGU Minsk,Dinamo Brest,1,4,A,NaN,NaN,NaN
+BLR,13/08/2005,16:00,FK Gomel,FK Slavia Mozyr,2,1,H,NaN,NaN,NaN
+BLR,13/08/2005,16:00,Torpedo Zhodino,Neman Grodno,3,2,H,NaN,NaN,NaN
+BLR,14/08/2005,17:00,Dinamo Minsk,FC Lakamatyu Minsk,4,0,H,NaN,NaN,NaN
+BLR,15/08/2005,15:30,Shakhter Soligorsk,MTZ-Ripo,3,1,H,NaN,NaN,NaN
+BLR,15/08/2005,17:00,BATE Borisov,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,20/08/2005,15:00,Naftan Novopolotsk,BATE Borisov,1,2,A,NaN,NaN,NaN
+BLR,20/08/2005,15:00,Darida Zhdanovichi,Zvezda-BGU Minsk,1,2,A,NaN,NaN,NaN
+BLR,20/08/2005,15:00,Dinamo Brest,Torpedo Zhodino,0,1,A,NaN,NaN,NaN
+BLR,20/08/2005,15:00,FK Slavia Mozyr,Shakhter Soligorsk,1,6,A,NaN,NaN,NaN
+BLR,21/08/2005,14:00,MTZ-Ripo,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,21/08/2005,15:00,FC Lakamatyu Minsk,FK Gomel,0,1,A,NaN,NaN,NaN
+BLR,21/08/2005,16:00,Neman Grodno,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+BLR,27/08/2005,15:00,Dnepr Mogilev,FK Slavia Mozyr,0,0,D,NaN,NaN,NaN
+BLR,27/08/2005,15:00,FK Gomel,Neman Grodno,3,0,H,NaN,NaN,NaN
+BLR,27/08/2005,15:00,Torpedo Zhodino,Darida Zhdanovichi,0,0,D,NaN,NaN,NaN
+BLR,27/08/2005,15:00,Zvezda-BGU Minsk,Naftan Novopolotsk,5,3,H,NaN,NaN,NaN
+BLR,27/08/2005,15:00,Shakhter Soligorsk,FC Lakamatyu Minsk,1,0,H,NaN,NaN,NaN
+BLR,28/08/2005,17:00,Dinamo Minsk,Dinamo Brest,2,0,H,NaN,NaN,NaN
+BLR,29/08/2005,16:00,BATE Borisov,MTZ-Ripo,0,1,A,NaN,NaN,NaN
+BLR,10/09/2005,15:00,FC Lakamatyu Minsk,Dnepr Mogilev,0,1,A,NaN,NaN,NaN
+BLR,11/09/2005,14:00,Darida Zhdanovichi,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+BLR,11/09/2005,14:30,Naftan Novopolotsk,Torpedo Zhodino,0,2,A,NaN,NaN,NaN
+BLR,11/09/2005,14:30,FK Slavia Mozyr,MTZ-Ripo,0,5,A,NaN,NaN,NaN
+BLR,11/09/2005,15:00,Zvezda-BGU Minsk,BATE Borisov,2,2,D,NaN,NaN,NaN
+BLR,11/09/2005,15:00,Neman Grodno,Shakhter Soligorsk,0,3,A,NaN,NaN,NaN
+BLR,11/09/2005,15:30,Dinamo Brest,FK Gomel,1,0,H,NaN,NaN,NaN
+BLR,17/09/2005,13:30,MTZ-Ripo,FC Lakamatyu Minsk,1,0,H,NaN,NaN,NaN
+BLR,17/09/2005,14:30,Shakhter Soligorsk,Dinamo Brest,4,0,H,NaN,NaN,NaN
+BLR,17/09/2005,15:00,Dnepr Mogilev,Neman Grodno,6,0,H,NaN,NaN,NaN
+BLR,17/09/2005,15:00,Torpedo Zhodino,Zvezda-BGU Minsk,0,0,D,NaN,NaN,NaN
+BLR,17/09/2005,16:00,Dinamo Minsk,Naftan Novopolotsk,3,2,H,NaN,NaN,NaN
+BLR,17/09/2005,17:00,BATE Borisov,FK Slavia Mozyr,2,0,H,NaN,NaN,NaN
+BLR,17/09/2005,17:00,FK Gomel,Darida Zhdanovichi,3,1,H,NaN,NaN,NaN
+BLR,25/09/2005,13:00,FC Lakamatyu Minsk,FK Slavia Mozyr,5,0,H,NaN,NaN,NaN
+BLR,25/09/2005,14:00,Naftan Novopolotsk,FK Gomel,0,2,A,NaN,NaN,NaN
+BLR,25/09/2005,14:00,Darida Zhdanovichi,Shakhter Soligorsk,0,2,A,NaN,NaN,NaN
+BLR,25/09/2005,14:00,Zvezda-BGU Minsk,Dinamo Minsk,2,4,A,NaN,NaN,NaN
+BLR,25/09/2005,14:00,Torpedo Zhodino,BATE Borisov,1,1,D,NaN,NaN,NaN
+BLR,25/09/2005,14:00,Neman Grodno,MTZ-Ripo,0,2,A,NaN,NaN,NaN
+BLR,25/09/2005,14:30,Dinamo Brest,Dnepr Mogilev,2,1,H,NaN,NaN,NaN
+BLR,30/09/2005,13:30,MTZ-Ripo,Dinamo Brest,0,4,A,NaN,NaN,NaN
+BLR,01/10/2005,14:00,FK Slavia Mozyr,Neman Grodno,1,1,D,NaN,NaN,NaN
+BLR,01/10/2005,14:00,Dnepr Mogilev,Darida Zhdanovichi,3,3,D,NaN,NaN,NaN
+BLR,01/10/2005,14:30,Shakhter Soligorsk,Naftan Novopolotsk,2,2,D,NaN,NaN,NaN
+BLR,01/10/2005,15:00,FK Gomel,Zvezda-BGU Minsk,4,2,H,NaN,NaN,NaN
+BLR,01/10/2005,16:00,BATE Borisov,FC Lakamatyu Minsk,1,0,H,NaN,NaN,NaN
+BLR,01/10/2005,16:00,Dinamo Minsk,Torpedo Zhodino,2,0,H,NaN,NaN,NaN
+BLR,16/10/2005,13:00,Torpedo Zhodino,FK Gomel,1,0,H,NaN,NaN,NaN
+BLR,16/10/2005,13:00,Zvezda-BGU Minsk,Shakhter Soligorsk,1,3,A,NaN,NaN,NaN
+BLR,16/10/2005,13:00,Naftan Novopolotsk,Dnepr Mogilev,3,4,A,NaN,NaN,NaN
+BLR,16/10/2005,13:30,Dinamo Brest,FK Slavia Mozyr,2,0,H,NaN,NaN,NaN
+BLR,16/10/2005,13:30,Neman Grodno,FC Lakamatyu Minsk,2,0,H,NaN,NaN,NaN
+BLR,17/10/2005,16:00,Darida Zhdanovichi,MTZ-Ripo,1,3,A,NaN,NaN,NaN
+BLR,26/10/2005,17:00,Dinamo Minsk,BATE Borisov,2,2,D,NaN,NaN,NaN
+BLR,21/10/2005,16:00,BATE Borisov,Neman Grodno,2,0,H,NaN,NaN,NaN
+BLR,22/10/2005,13:00,Dnepr Mogilev,Zvezda-BGU Minsk,4,0,H,NaN,NaN,NaN
+BLR,22/10/2005,13:00,FK Slavia Mozyr,Darida Zhdanovichi,0,1,A,NaN,NaN,NaN
+BLR,22/10/2005,13:30,MTZ-Ripo,Naftan Novopolotsk,1,0,H,NaN,NaN,NaN
+BLR,22/10/2005,13:30,Shakhter Soligorsk,Torpedo Zhodino,4,0,H,NaN,NaN,NaN
+BLR,22/10/2005,15:00,FK Gomel,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+BLR,23/10/2005,13:00,FC Lakamatyu Minsk,Dinamo Brest,3,2,H,NaN,NaN,NaN
+BLR,30/10/2005,12:00,FK Gomel,BATE Borisov,2,3,A,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Dinamo Minsk,Shakhter Soligorsk,1,0,H,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Torpedo Zhodino,Dnepr Mogilev,3,0,H,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Zvezda-BGU Minsk,MTZ-Ripo,1,2,A,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Naftan Novopolotsk,FK Slavia Mozyr,3,1,H,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Dinamo Brest,Neman Grodno,4,1,H,NaN,NaN,NaN
+BLR,30/10/2005,12:00,Darida Zhdanovichi,FC Lakamatyu Minsk,0,0,D,NaN,NaN,NaN
+BLR,05/11/2005,14:00,FC Lakamatyu Minsk,Naftan Novopolotsk,0,2,A,NaN,NaN,NaN
+BLR,05/11/2005,14:00,FK Slavia Mozyr,Zvezda-BGU Minsk,0,1,A,NaN,NaN,NaN
+BLR,05/11/2005,14:00,Dnepr Mogilev,Dinamo Minsk,0,0,D,NaN,NaN,NaN
+BLR,05/11/2005,14:00,Neman Grodno,Darida Zhdanovichi,1,3,A,NaN,NaN,NaN
+BLR,05/11/2005,14:00,MTZ-Ripo,Torpedo Zhodino,1,0,H,NaN,NaN,NaN
+BLR,05/11/2005,14:00,Shakhter Soligorsk,FK Gomel,1,0,H,NaN,NaN,NaN
+BLR,05/11/2005,14:00,BATE Borisov,Dinamo Brest,2,1,H,NaN,NaN,NaN

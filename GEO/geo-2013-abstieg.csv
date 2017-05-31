@@ -1,0 +1,31 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GEO,09/03/2013,11:00,Metalurgi Rustavi,Kolkheti Poti,1,0,H,NaN,NaN,NaN
+GEO,09/03/2013,11:00,FC Merani Martvili,Dinamo Batumi,0,1,A,NaN,NaN,NaN
+GEO,09/03/2013,11:00,WIT Georgia,Sioni Bolnisi,0,2,A,NaN,NaN,NaN
+GEO,17/03/2013,11:00,Kolkheti Poti,Sioni Bolnisi,2,1,H,NaN,NaN,NaN
+GEO,17/03/2013,11:00,Dinamo Batumi,WIT Georgia,2,0,H,NaN,NaN,NaN
+GEO,17/03/2013,11:00,Metalurgi Rustavi,FC Merani Martvili,1,1,D,NaN,NaN,NaN
+GEO,30/03/2013,11:00,FC Merani Martvili,Kolkheti Poti,0,1,A,NaN,NaN,NaN
+GEO,30/03/2013,11:00,WIT Georgia,Metalurgi Rustavi,2,3,A,NaN,NaN,NaN
+GEO,30/03/2013,11:00,Sioni Bolnisi,Dinamo Batumi,0,1,A,NaN,NaN,NaN
+GEO,06/04/2013,13:00,Kolkheti Poti,Dinamo Batumi,1,1,D,NaN,NaN,NaN
+GEO,06/04/2013,13:00,Metalurgi Rustavi,Sioni Bolnisi,0,0,D,NaN,NaN,NaN
+GEO,06/04/2013,13:00,FC Merani Martvili,WIT Georgia,2,0,H,NaN,NaN,NaN
+GEO,14/04/2013,13:00,WIT Georgia,Kolkheti Poti,0,0,D,NaN,NaN,NaN
+GEO,14/04/2013,13:00,Sioni Bolnisi,FC Merani Martvili,3,1,H,NaN,NaN,NaN
+GEO,14/04/2013,13:00,Dinamo Batumi,Metalurgi Rustavi,0,1,A,NaN,NaN,NaN
+GEO,19/04/2013,13:00,Kolkheti Poti,Metalurgi Rustavi,0,0,D,0,0,D
+GEO,19/04/2013,13:00,Dinamo Batumi,FC Merani Martvili,6,0,H,3,0,H
+GEO,19/04/2013,13:00,Sioni Bolnisi,WIT Georgia,0,3,A,0,3,A
+GEO,27/04/2013,13:00,Sioni Bolnisi,Kolkheti Poti,6,2,H,1,1,D
+GEO,27/04/2013,13:00,WIT Georgia,Dinamo Batumi,3,2,H,2,1,H
+GEO,27/04/2013,13:00,FC Merani Martvili,Metalurgi Rustavi,1,0,H,1,0,H
+GEO,04/05/2013,14:00,Kolkheti Poti,FC Merani Martvili,1,2,A,0,1,A
+GEO,04/05/2013,14:00,Metalurgi Rustavi,WIT Georgia,0,2,A,0,1,A
+GEO,04/05/2013,14:00,Dinamo Batumi,Sioni Bolnisi,1,1,D,1,1,D
+GEO,12/05/2013,14:00,Dinamo Batumi,Kolkheti Poti,2,2,D,1,1,D
+GEO,12/05/2013,14:00,Sioni Bolnisi,Metalurgi Rustavi,2,2,D,1,0,H
+GEO,12/05/2013,14:00,WIT Georgia,FC Merani Martvili,0,0,D,0,0,D
+GEO,18/05/2013,14:00,Kolkheti Poti,WIT Georgia,2,0,H,0,0,D
+GEO,18/05/2013,14:00,FC Merani Martvili,Sioni Bolnisi,1,2,A,0,1,A
+GEO,18/05/2013,14:00,Metalurgi Rustavi,Dinamo Batumi,0,1,A,0,0,D

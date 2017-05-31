@@ -1,0 +1,111 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+VIE,02/03/2013,09:00,Hà Nội T&T;,Hoàng Anh Gia Lai,2,0,H,NaN,NaN,NaN
+VIE,02/03/2013,09:30,Đồng Tâm Long An,Thanh Hóa FC,1,1,D,NaN,NaN,NaN
+VIE,03/03/2013,09:00,Đồng Nai FC,Vissai Ninh Binh,1,0,H,NaN,NaN,NaN
+VIE,03/03/2013,09:30,SHB-Da Nang FC,Kiên Giang FC,2,0,H,NaN,NaN,NaN
+VIE,03/03/2013,10:00,Sông Lam Nghệ An,Hải Phòng FC,2,1,H,NaN,NaN,NaN
+VIE,09/03/2013,09:00,Kiên Giang FC,Sông Lam Nghệ An,1,4,A,NaN,NaN,NaN
+VIE,09/03/2013,10:00,Vissai Ninh Binh,Hà Nội T&T;,2,0,H,NaN,NaN,NaN
+VIE,09/03/2013,10:00,Bình Dương FC,SHB-Da Nang FC,0,2,A,NaN,NaN,NaN
+VIE,10/03/2013,09:00,Thanh Hóa FC,Đồng Nai FC,4,1,H,NaN,NaN,NaN
+VIE,10/03/2013,09:00,Hoàng Anh Gia Lai,Đồng Tâm Long An,2,0,H,NaN,NaN,NaN
+VIE,30/03/2013,09:00,Thanh Hóa FC,Hoàng Anh Gia Lai,1,0,H,1,0,H
+VIE,30/03/2013,09:00,Hải Phòng FC,Kiên Giang FC,3,0,H,0,0,D
+VIE,31/03/2013,10:00,Hà Nội T&T;,Đồng Nai FC,6,1,H,3,0,H
+VIE,31/03/2013,10:30,Đồng Tâm Long An,Vissai Ninh Binh,2,1,H,1,0,H
+VIE,31/03/2013,11:00,Sông Lam Nghệ An,Bình Dương FC,3,2,H,1,1,D
+VIE,06/04/2013,10:00,Vissai Ninh Binh,Thanh Hóa FC,3,3,D,2,2,D
+VIE,06/04/2013,11:00,Bình Dương FC,Hải Phòng FC,0,2,A,0,0,D
+VIE,07/04/2013,10:00,Hà Nội T&T;,Sông Lam Nghệ An,2,2,D,0,1,A
+VIE,07/04/2013,10:00,Đồng Nai FC,Hoàng Anh Gia Lai,2,2,D,0,1,A
+VIE,23/05/2013,10:30,SHB-Da Nang FC,Đồng Tâm Long An,2,0,H,1,0,H
+VIE,13/04/2013,10:00,Kiên Giang FC,Vissai Ninh Binh,2,2,D,1,1,D
+VIE,13/04/2013,10:00,Hoàng Anh Gia Lai,Bình Dương FC,2,0,H,0,0,D
+VIE,13/04/2013,11:00,Thanh Hóa FC,Hà Nội T&T;,1,3,A,1,0,H
+VIE,14/04/2013,10:00,Hải Phòng FC,SHB-Da Nang FC,1,0,H,1,0,H
+VIE,14/04/2013,10:30,Đồng Tâm Long An,Đồng Nai FC,1,3,A,0,1,A
+VIE,19/04/2013,10:30,SHB-Da Nang FC,Hà Nội T&T;,1,0,H,0,0,D
+VIE,20/04/2013,10:00,Vissai Ninh Binh,Bình Dương FC,2,2,D,2,1,H
+VIE,20/04/2013,10:00,Hoàng Anh Gia Lai,Kiên Giang FC,2,1,H,1,1,D
+VIE,21/04/2013,10:30,Đồng Tâm Long An,Sông Lam Nghệ An,1,3,A,0,1,A
+VIE,21/04/2013,11:00,Thanh Hóa FC,Hải Phòng FC,2,2,D,2,1,H
+VIE,27/04/2013,10:00,Kiên Giang FC,Thanh Hóa FC,2,2,D,2,1,H
+VIE,27/04/2013,10:00,Hải Phòng FC,Hoàng Anh Gia Lai,0,1,A,0,0,D
+VIE,28/04/2013,11:00,Bình Dương FC,Đồng Tâm Long An,1,2,A,0,1,A
+VIE,28/04/2013,12:00,Sông Lam Nghệ An,Vissai Ninh Binh,2,0,H,1,0,H
+VIE,24/07/2013,10:00,Đồng Nai FC,SHB-Da Nang FC,4,1,H,1,1,D
+VIE,04/05/2013,10:00,Kiên Giang FC,Đồng Tâm Long An,3,2,H,2,2,D
+VIE,04/05/2013,10:00,Đồng Nai FC,Hải Phòng FC,2,2,D,2,2,D
+VIE,04/05/2013,10:00,Hoàng Anh Gia Lai,Sông Lam Nghệ An,2,1,H,0,1,A
+VIE,05/05/2013,10:00,Vissai Ninh Binh,SHB-Da Nang FC,4,1,H,0,1,A
+VIE,05/05/2013,11:00,Bình Dương FC,Hà Nội T&T;,3,1,H,2,1,H
+VIE,10/05/2013,10:30,Đồng Tâm Long An,Hải Phòng FC,1,2,A,1,1,D
+VIE,11/05/2013,11:00,Thanh Hóa FC,Sông Lam Nghệ An,2,1,H,0,0,D
+VIE,12/05/2013,10:00,Hà Nội T&T;,Kiên Giang FC,5,0,H,1,0,H
+VIE,12/05/2013,10:00,Đồng Nai FC,Bình Dương FC,1,2,A,1,1,D
+VIE,26/06/2013,10:30,SHB-Da Nang FC,Hoàng Anh Gia Lai,1,1,D,0,0,D
+VIE,18/05/2013,10:00,Kiên Giang FC,Bình Dương FC,4,2,H,2,2,D
+VIE,18/05/2013,10:00,Hoàng Anh Gia Lai,Vissai Ninh Binh,2,0,H,2,0,H
+VIE,18/05/2013,11:00,Sông Lam Nghệ An,Đồng Nai FC,1,1,D,1,0,H
+VIE,19/05/2013,11:00,Thanh Hóa FC,SHB-Da Nang FC,2,2,D,1,0,H
+VIE,19/05/2013,11:00,Hải Phòng FC,Hà Nội T&T;,2,3,A,1,0,H
+VIE,25/05/2013,10:00,Đồng Nai FC,Kiên Giang FC,1,2,A,1,1,D
+VIE,25/05/2013,11:00,Vissai Ninh Binh,Hải Phòng FC,3,2,H,1,1,D
+VIE,26/05/2013,11:00,Bình Dương FC,Thanh Hóa FC,3,4,A,2,2,D
+VIE,27/05/2013,10:30,SHB-Da Nang FC,Sông Lam Nghệ An,3,2,H,2,2,D
+VIE,27/05/2013,11:00,Hà Nội T&T;,Đồng Tâm Long An,4,1,H,0,0,D
+VIE,15/06/2013,10:30,SHB-Da Nang FC,Bình Dương FC,1,1,D,1,1,D
+VIE,15/06/2013,12:00,Sông Lam Nghệ An,Kiên Giang FC,2,2,D,1,1,D
+VIE,16/06/2013,10:00,Đồng Nai FC,Thanh Hóa FC,2,1,H,1,0,H
+VIE,16/06/2013,11:00,Hà Nội T&T;,Vissai Ninh Binh,1,0,H,0,0,D
+VIE,16/06/2013,11:00,Đồng Tâm Long An,Hoàng Anh Gia Lai,1,0,H,1,0,H
+VIE,22/06/2013,10:00,Kiên Giang FC,SHB-Da Nang FC,0,1,A,0,0,D
+VIE,22/06/2013,10:00,Hoàng Anh Gia Lai,Hà Nội T&T;,1,1,D,0,0,D
+VIE,23/06/2013,11:00,Vissai Ninh Binh,Đồng Nai FC,1,1,D,0,1,A
+VIE,23/06/2013,11:00,Thanh Hóa FC,Đồng Tâm Long An,3,1,H,1,0,H
+VIE,25/06/2013,11:00,Hải Phòng FC,Sông Lam Nghệ An,1,1,D,0,1,A
+VIE,29/06/2013,11:00,Hải Phòng FC,Thanh Hóa FC,1,1,D,0,0,D
+VIE,30/06/2013,10:00,Kiên Giang FC,Hoàng Anh Gia Lai,0,3,A,0,3,A
+VIE,30/06/2013,11:00,Hà Nội T&T;,SHB-Da Nang FC,1,2,A,0,0,D
+VIE,30/06/2013,11:00,Bình Dương FC,Vissai Ninh Binh,0,0,D,0,0,D
+VIE,30/06/2013,12:00,Sông Lam Nghệ An,Đồng Tâm Long An,8,0,H,2,0,H
+VIE,06/07/2013,10:00,Hoàng Anh Gia Lai,Hải Phòng FC,1,0,H,0,0,D
+VIE,06/07/2013,10:30,SHB-Da Nang FC,Đồng Nai FC,0,0,D,0,0,D
+VIE,06/07/2013,11:00,Thanh Hóa FC,Kiên Giang FC,4,2,H,1,0,H
+VIE,07/07/2013,11:00,Vissai Ninh Binh,Sông Lam Nghệ An,1,1,D,1,1,D
+VIE,07/07/2013,11:00,Đồng Tâm Long An,Bình Dương FC,2,5,A,0,2,A
+VIE,20/07/2013,10:00,Kiên Giang FC,Hà Nội T&T;,1,1,D,0,1,A
+VIE,20/07/2013,10:00,Hoàng Anh Gia Lai,SHB-Da Nang FC,2,2,D,1,0,H
+VIE,20/07/2013,11:00,Bình Dương FC,Đồng Nai FC,1,1,D,1,0,H
+VIE,21/07/2013,11:00,Hải Phòng FC,Đồng Tâm Long An,3,4,A,1,2,A
+VIE,21/07/2013,12:00,Sông Lam Nghệ An,Thanh Hóa FC,2,0,H,0,0,D
+VIE,27/07/2013,11:00,Đồng Tâm Long An,Kiên Giang FC,3,2,H,2,0,H
+VIE,27/07/2013,12:00,Sông Lam Nghệ An,Hoàng Anh Gia Lai,1,0,H,1,0,H
+VIE,28/07/2013,10:30,SHB-Da Nang FC,Vissai Ninh Binh,2,0,H,0,0,D
+VIE,28/07/2013,11:00,Hà Nội T&T;,Bình Dương FC,4,1,H,2,1,H
+VIE,28/07/2013,11:00,Hải Phòng FC,Đồng Nai FC,4,0,H,3,0,H
+VIE,03/08/2013,10:00,Hoàng Anh Gia Lai,Thanh Hóa FC,1,3,A,0,1,A
+VIE,03/08/2013,10:00,Đồng Nai FC,Hà Nội T&T;,0,4,A,0,2,A
+VIE,03/08/2013,11:00,Vissai Ninh Binh,Đồng Tâm Long An,3,4,A,NaN,NaN,NaN
+VIE,04/08/2013,10:00,Kiên Giang FC,Hải Phòng FC,1,5,A,1,3,A
+VIE,04/08/2013,11:00,Bình Dương FC,Sông Lam Nghệ An,2,1,H,1,1,D
+VIE,10/08/2013,11:00,Hải Phòng FC,Bình Dương FC,1,2,A,0,2,A
+VIE,11/08/2013,10:00,Hoàng Anh Gia Lai,Đồng Nai FC,1,0,H,0,0,D
+VIE,11/08/2013,11:00,Đồng Tâm Long An,SHB-Da Nang FC,3,2,H,0,0,D
+VIE,11/08/2013,11:00,Thanh Hóa FC,Vissai Ninh Binh,1,0,H,0,0,D
+VIE,11/08/2013,12:00,Sông Lam Nghệ An,Hà Nội T&T;,0,0,D,0,0,D
+VIE,18/08/2013,11:00,Vissai Ninh Binh,Kiên Giang FC,1,0,H,1,0,H
+VIE,18/08/2013,11:00,SHB-Da Nang FC,Hải Phòng FC,1,0,H,1,0,H
+VIE,18/08/2013,11:00,Bình Dương FC,Hoàng Anh Gia Lai,0,0,D,0,0,D
+VIE,18/08/2013,11:00,Hà Nội T&T;,Thanh Hóa FC,3,2,H,1,1,D
+VIE,18/08/2013,11:00,Đồng Nai FC,Đồng Tâm Long An,3,1,H,1,1,D
+VIE,25/08/2013,11:00,Kiên Giang FC,Đồng Nai FC,1,1,D,0,0,D
+VIE,25/08/2013,11:00,Sông Lam Nghệ An,SHB-Da Nang FC,2,1,H,1,1,D
+VIE,25/08/2013,11:00,Hải Phòng FC,Vissai Ninh Binh,4,0,H,3,0,H
+VIE,25/08/2013,11:00,Thanh Hóa FC,Bình Dương FC,2,1,H,0,0,D
+VIE,25/08/2013,11:00,Đồng Tâm Long An,Hà Nội T&T;,1,2,A,0,2,A
+VIE,31/08/2013,10:00,Bình Dương FC,Kiên Giang FC,6,0,H,1,0,H
+VIE,31/08/2013,10:00,SHB-Da Nang FC,Thanh Hóa FC,2,1,H,2,1,H
+VIE,31/08/2013,10:00,Hà Nội T&T;,Hải Phòng FC,3,3,D,2,1,H
+VIE,31/08/2013,10:00,Vissai Ninh Binh,Hoàng Anh Gia Lai,0,1,A,0,1,A
+VIE,31/08/2013,10:00,Đồng Nai FC,Sông Lam Nghệ An,2,1,H,1,1,D

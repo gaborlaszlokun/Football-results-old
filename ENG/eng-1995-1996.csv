@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,19/08/1995,14:00,Aston Villa,Manchester United,3,1,H,3,0,H
+ENG,19/08/1995,14:00,Blackburn Rovers,Queens Park Rangers,1,0,H,1,0,H
+ENG,19/08/1995,14:00,Chelsea FC,Everton FC,0,0,D,0,0,D
+ENG,19/08/1995,14:00,Liverpool FC,Sheffield Wednesday,1,0,H,0,0,D
+ENG,19/08/1995,14:00,Manchester City,Tottenham Hotspur,1,1,D,0,1,A
+ENG,19/08/1995,14:00,Newcastle United,Coventry City,3,0,H,1,0,H
+ENG,19/08/1995,14:00,Southampton FC,Nottingham Forest,3,4,A,1,3,A
+ENG,19/08/1995,14:00,West Ham United,Leeds United,1,2,A,1,0,H
+ENG,19/08/1995,14:00,Wimbledon FC,Bolton Wanderers,3,2,H,2,2,D
+ENG,20/08/1995,15:00,Arsenal FC,Middlesbrough FC,1,1,D,1,1,D
+ENG,21/08/1995,19:00,Leeds United,Liverpool FC,1,0,H,0,0,D
+ENG,22/08/1995,18:45,Bolton Wanderers,Newcastle United,1,3,A,0,1,A
+ENG,23/08/1995,19:00,Coventry City,Manchester City,2,1,H,1,0,H
+ENG,23/08/1995,19:00,Everton FC,Arsenal FC,0,2,A,0,0,D
+ENG,23/08/1995,19:00,Manchester United,West Ham United,2,1,H,0,0,D
+ENG,23/08/1995,19:00,Nottingham Forest,Chelsea FC,0,0,D,0,0,D
+ENG,23/08/1995,19:00,Queens Park Rangers,Wimbledon FC,0,3,A,0,1,A
+ENG,23/08/1995,19:00,Sheffield Wednesday,Blackburn Rovers,2,1,H,1,0,H
+ENG,23/08/1995,19:00,Tottenham Hotspur,Aston Villa,0,1,A,0,0,D
+ENG,12/09/1995,18:45,Middlesbrough FC,Southampton FC,0,0,D,0,0,D
+ENG,26/08/1995,14:00,Bolton Wanderers,Blackburn Rovers,2,1,H,1,0,H
+ENG,26/08/1995,14:00,Coventry City,Arsenal FC,0,0,D,0,0,D
+ENG,26/08/1995,14:00,Everton FC,Southampton FC,2,0,H,2,0,H
+ENG,26/08/1995,14:00,Leeds United,Aston Villa,2,0,H,1,0,H
+ENG,26/08/1995,14:00,Manchester United,Wimbledon FC,3,1,H,1,0,H
+ENG,26/08/1995,14:00,Middlesbrough FC,Chelsea FC,2,0,H,1,0,H
+ENG,26/08/1995,14:00,Nottingham Forest,West Ham United,1,1,D,1,1,D
+ENG,26/08/1995,14:00,Queens Park Rangers,Manchester City,1,0,H,1,0,H
+ENG,26/08/1995,14:00,Tottenham Hotspur,Liverpool FC,1,3,A,0,2,A
+ENG,27/08/1995,15:00,Sheffield Wednesday,Newcastle United,0,2,A,0,0,D
+ENG,28/08/1995,19:00,Blackburn Rovers,Manchester United,1,2,A,0,0,D
+ENG,29/08/1995,18:45,Arsenal FC,Nottingham Forest,1,1,D,1,0,H
+ENG,30/08/1995,19:00,Wimbledon FC,Sheffield Wednesday,2,2,D,1,1,D
+ENG,30/08/1995,19:00,Aston Villa,Bolton Wanderers,1,0,H,0,0,D
+ENG,30/08/1995,19:00,Chelsea FC,Coventry City,2,2,D,2,1,H
+ENG,30/08/1995,19:00,Liverpool FC,Queens Park Rangers,1,0,H,1,0,H
+ENG,30/08/1995,19:00,Manchester City,Everton FC,0,2,A,0,0,D
+ENG,30/08/1995,19:00,Newcastle United,Middlesbrough FC,1,0,H,0,0,D
+ENG,30/08/1995,19:00,Southampton FC,Leeds United,1,1,D,0,0,D
+ENG,30/08/1995,19:00,West Ham United,Tottenham Hotspur,1,1,D,1,0,H
+ENG,09/09/1995,14:00,Blackburn Rovers,Aston Villa,1,1,D,0,1,A
+ENG,09/09/1995,14:00,Bolton Wanderers,Middlesbrough FC,1,1,D,1,0,H
+ENG,09/09/1995,14:00,Coventry City,Nottingham Forest,1,1,D,1,1,D
+ENG,09/09/1995,14:00,Everton FC,Manchester United,2,3,A,1,1,D
+ENG,09/09/1995,14:00,Queens Park Rangers,Sheffield Wednesday,0,3,A,0,0,D
+ENG,09/09/1995,14:00,Southampton FC,Newcastle United,1,0,H,0,0,D
+ENG,09/09/1995,14:00,Tottenham Hotspur,Leeds United,2,1,H,1,0,H
+ENG,09/09/1995,14:00,Wimbledon FC,Liverpool FC,1,0,H,1,0,H
+ENG,10/09/1995,15:00,Manchester City,Arsenal FC,0,1,A,0,0,D
+ENG,11/09/1995,19:00,West Ham United,Chelsea FC,1,3,A,0,2,A
+ENG,16/09/1995,14:00,Arsenal FC,West Ham United,1,0,H,0,0,D
+ENG,16/09/1995,14:00,Aston Villa,Wimbledon FC,2,0,H,1,0,H
+ENG,16/09/1995,14:00,Chelsea FC,Southampton FC,3,0,H,0,0,D
+ENG,16/09/1995,14:00,Leeds United,Queens Park Rangers,1,3,A,0,2,A
+ENG,16/09/1995,14:00,Liverpool FC,Blackburn Rovers,3,0,H,3,0,H
+ENG,16/09/1995,14:00,Manchester United,Bolton Wanderers,3,0,H,2,0,H
+ENG,16/09/1995,14:00,Middlesbrough FC,Coventry City,2,1,H,0,0,D
+ENG,16/09/1995,14:00,Newcastle United,Manchester City,3,1,H,2,0,H
+ENG,16/09/1995,14:00,Sheffield Wednesday,Tottenham Hotspur,1,3,A,1,1,D
+ENG,17/09/1995,15:00,Nottingham Forest,Everton FC,3,2,H,2,0,H
+ENG,23/09/1995,14:00,Arsenal FC,Southampton FC,4,2,H,2,2,D
+ENG,23/09/1995,14:00,Aston Villa,Nottingham Forest,1,1,D,0,0,D
+ENG,23/09/1995,14:00,Blackburn Rovers,Coventry City,5,1,H,2,1,H
+ENG,23/09/1995,14:00,Liverpool FC,Bolton Wanderers,5,2,H,2,0,H
+ENG,23/09/1995,14:00,Manchester City,Middlesbrough FC,0,1,A,0,1,A
+ENG,23/09/1995,14:00,Sheffield Wednesday,Manchester United,0,0,D,0,0,D
+ENG,23/09/1995,14:00,West Ham United,Everton FC,2,1,H,2,1,H
+ENG,23/09/1995,14:00,Wimbledon FC,Leeds United,2,4,A,1,3,A
+ENG,23/09/1995,15:00,Newcastle United,Chelsea FC,2,0,H,1,0,H
+ENG,24/09/1995,19:00,Queens Park Rangers,Tottenham Hotspur,2,3,A,1,0,H
+ENG,30/09/1995,14:00,Bolton Wanderers,Queens Park Rangers,0,1,A,0,0,D
+ENG,30/09/1995,14:00,Chelsea FC,Arsenal FC,1,0,H,0,0,D
+ENG,30/09/1995,14:00,Coventry City,Aston Villa,0,3,A,0,1,A
+ENG,30/09/1995,14:00,Leeds United,Sheffield Wednesday,2,0,H,1,0,H
+ENG,30/09/1995,14:00,Middlesbrough FC,Blackburn Rovers,2,0,H,1,0,H
+ENG,30/09/1995,14:00,Nottingham Forest,Manchester City,3,0,H,1,0,H
+ENG,30/09/1995,14:00,Tottenham Hotspur,Wimbledon FC,3,1,H,2,1,H
+ENG,01/10/1995,15:00,Everton FC,Newcastle United,1,3,A,0,1,A
+ENG,01/10/1995,15:00,Manchester United,Liverpool FC,2,2,D,1,1,D
+ENG,02/10/1995,19:00,Southampton FC,West Ham United,0,0,D,0,0,D
+ENG,14/10/1995,14:00,Aston Villa,Chelsea FC,0,1,A,0,0,D
+ENG,14/10/1995,14:00,Blackburn Rovers,Southampton FC,2,1,H,1,0,H
+ENG,14/10/1995,14:00,Bolton Wanderers,Everton FC,1,1,D,1,0,H
+ENG,14/10/1995,14:00,Leeds United,Arsenal FC,0,3,A,0,1,A
+ENG,14/10/1995,14:00,Liverpool FC,Coventry City,0,0,D,0,0,D
+ENG,14/10/1995,14:00,Manchester United,Manchester City,1,0,H,1,0,H
+ENG,14/10/1995,14:00,Queens Park Rangers,Newcastle United,2,3,A,1,0,H
+ENG,14/10/1995,14:00,Tottenham Hotspur,Nottingham Forest,0,1,A,0,0,D
+ENG,15/10/1995,15:00,Sheffield Wednesday,Middlesbrough FC,0,1,A,0,0,D
+ENG,16/10/1995,19:00,Wimbledon FC,West Ham United,0,1,A,0,1,A
+ENG,21/10/1995,14:00,Arsenal FC,Aston Villa,2,0,H,0,0,D
+ENG,21/10/1995,14:00,Chelsea FC,Manchester United,1,4,A,0,2,A
+ENG,21/10/1995,14:00,Coventry City,Sheffield Wednesday,0,1,A,0,1,A
+ENG,21/10/1995,14:00,Manchester City,Leeds United,0,0,D,0,0,D
+ENG,21/10/1995,14:00,Middlesbrough FC,Queens Park Rangers,1,0,H,1,0,H
+ENG,21/10/1995,14:00,Newcastle United,Wimbledon FC,6,1,H,3,0,H
+ENG,21/10/1995,14:00,Nottingham Forest,Bolton Wanderers,3,2,H,1,1,D
+ENG,21/10/1995,14:00,West Ham United,Blackburn Rovers,1,1,D,1,0,H
+ENG,22/10/1995,15:00,Everton FC,Tottenham Hotspur,1,1,D,1,1,D
+ENG,22/10/1995,15:00,Southampton FC,Liverpool FC,1,3,A,1,1,D
+ENG,28/10/1995,14:00,Aston Villa,Everton FC,1,0,H,0,0,D
+ENG,28/10/1995,14:00,Blackburn Rovers,Chelsea FC,3,0,H,1,0,H
+ENG,28/10/1995,14:00,Leeds United,Coventry City,3,1,H,2,1,H
+ENG,28/10/1995,14:00,Liverpool FC,Manchester City,6,0,H,2,0,H
+ENG,28/10/1995,14:00,Manchester United,Middlesbrough FC,2,0,H,1,0,H
+ENG,28/10/1995,14:00,Queens Park Rangers,Nottingham Forest,1,1,D,0,0,D
+ENG,28/10/1995,14:00,Sheffield Wednesday,West Ham United,0,1,A,0,1,A
+ENG,28/10/1995,14:00,Wimbledon FC,Southampton FC,1,2,A,0,1,A
+ENG,29/10/1995,15:00,Tottenham Hotspur,Newcastle United,1,1,D,1,0,H
+ENG,30/10/1995,19:00,Bolton Wanderers,Arsenal FC,1,0,H,1,0,H
+ENG,04/11/1995,14:00,Arsenal FC,Manchester United,1,0,H,1,0,H
+ENG,04/11/1995,14:00,Chelsea FC,Sheffield Wednesday,0,0,D,0,0,D
+ENG,04/11/1995,14:00,Coventry City,Tottenham Hotspur,2,3,A,1,2,A
+ENG,04/11/1995,14:00,Manchester City,Bolton Wanderers,1,0,H,1,0,H
+ENG,04/11/1995,14:00,Middlesbrough FC,Leeds United,1,1,D,1,1,D
+ENG,04/11/1995,14:00,Newcastle United,Liverpool FC,2,1,H,1,1,D
+ENG,04/11/1995,14:00,Southampton FC,Queens Park Rangers,2,0,H,1,0,H
+ENG,04/11/1995,14:00,West Ham United,Aston Villa,1,4,A,0,1,A
+ENG,05/11/1995,15:00,Everton FC,Blackburn Rovers,1,0,H,1,0,H
+ENG,06/11/1995,19:00,Nottingham Forest,Wimbledon FC,4,1,H,2,1,H
+ENG,18/11/1995,14:00,Aston Villa,Newcastle United,1,1,D,1,0,H
+ENG,18/11/1995,14:00,Blackburn Rovers,Nottingham Forest,7,0,H,2,0,H
+ENG,18/11/1995,14:00,Bolton Wanderers,West Ham United,0,3,A,0,0,D
+ENG,18/11/1995,14:00,Leeds United,Chelsea FC,1,0,H,0,0,D
+ENG,18/11/1995,14:00,Liverpool FC,Everton FC,1,2,A,0,0,D
+ENG,18/11/1995,14:00,Manchester United,Southampton FC,4,1,H,3,0,H
+ENG,18/11/1995,14:00,Sheffield Wednesday,Manchester City,1,1,D,1,0,H
+ENG,18/11/1995,14:00,Tottenham Hotspur,Arsenal FC,2,1,H,1,1,D
+ENG,18/11/1995,14:00,Wimbledon FC,Middlesbrough FC,0,0,D,0,0,D
+ENG,19/11/1995,15:00,Queens Park Rangers,Coventry City,1,1,D,1,0,H
+ENG,08/11/1995,19:00,Newcastle United,Blackburn Rovers,1,0,H,1,0,H
+ENG,20/11/1995,19:00,Southampton FC,Aston Villa,0,1,A,0,1,A
+ENG,21/11/1995,18:45,Arsenal FC,Sheffield Wednesday,4,2,H,1,2,A
+ENG,21/11/1995,18:45,Middlesbrough FC,Tottenham Hotspur,0,1,A,0,0,D
+ENG,22/11/1995,19:00,Chelsea FC,Bolton Wanderers,3,2,H,1,1,D
+ENG,22/11/1995,19:00,Coventry City,Manchester United,0,4,A,0,1,A
+ENG,22/11/1995,19:00,Everton FC,Queens Park Rangers,2,0,H,2,0,H
+ENG,22/11/1995,19:00,Manchester City,Wimbledon FC,1,0,H,0,0,D
+ENG,22/11/1995,19:00,West Ham United,Liverpool FC,0,0,D,0,0,D
+ENG,31/01/1996,19:00,Nottingham Forest,Leeds United,2,1,H,1,0,H
+ENG,25/11/1995,14:00,Chelsea FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,25/11/1995,14:00,Coventry City,Wimbledon FC,3,3,D,1,2,A
+ENG,25/11/1995,14:00,Everton FC,Sheffield Wednesday,2,2,D,1,2,A
+ENG,25/11/1995,14:00,Manchester City,Aston Villa,1,0,H,0,0,D
+ENG,25/11/1995,14:00,Middlesbrough FC,Liverpool FC,2,1,H,1,0,H
+ENG,25/11/1995,14:00,Newcastle United,Leeds United,2,1,H,0,1,A
+ENG,25/11/1995,14:00,Southampton FC,Bolton Wanderers,1,0,H,0,0,D
+ENG,25/11/1995,14:00,West Ham United,Queens Park Rangers,1,0,H,0,0,D
+ENG,26/11/1995,15:00,Arsenal FC,Blackburn Rovers,0,0,D,0,0,D
+ENG,27/11/1995,19:00,Nottingham Forest,Manchester United,1,1,D,1,0,H
+ENG,02/12/1995,14:00,Aston Villa,Arsenal FC,1,1,D,0,0,D
+ENG,02/12/1995,14:00,Blackburn Rovers,West Ham United,4,2,H,3,0,H
+ENG,02/12/1995,14:00,Bolton Wanderers,Nottingham Forest,1,1,D,0,0,D
+ENG,02/12/1995,14:00,Leeds United,Manchester City,0,1,A,0,0,D
+ENG,02/12/1995,14:00,Liverpool FC,Southampton FC,1,1,D,0,0,D
+ENG,02/12/1995,14:00,Manchester United,Chelsea FC,1,1,D,0,0,D
+ENG,02/12/1995,14:00,Queens Park Rangers,Middlesbrough FC,1,1,D,1,1,D
+ENG,02/12/1995,14:00,Tottenham Hotspur,Everton FC,0,0,D,0,0,D
+ENG,03/12/1995,15:00,Wimbledon FC,Newcastle United,3,3,D,2,3,A
+ENG,04/12/1995,19:00,Sheffield Wednesday,Coventry City,4,3,H,2,2,D
+ENG,09/12/1995,14:00,Southampton FC,Arsenal FC,0,0,D,0,0,D
+ENG,09/12/1995,14:00,Coventry City,Blackburn Rovers,5,0,H,1,0,H
+ENG,09/12/1995,14:00,Bolton Wanderers,Liverpool FC,0,1,A,0,0,D
+ENG,09/12/1995,14:00,Middlesbrough FC,Manchester City,4,1,H,1,1,D
+ENG,09/12/1995,14:00,Chelsea FC,Newcastle United,1,0,H,1,0,H
+ENG,09/12/1995,14:00,Tottenham Hotspur,Queens Park Rangers,1,0,H,1,0,H
+ENG,09/12/1995,14:00,Manchester United,Sheffield Wednesday,2,2,D,1,0,H
+ENG,09/12/1995,14:00,Leeds United,Wimbledon FC,1,1,D,0,1,A
+ENG,10/12/1995,15:00,Nottingham Forest,Aston Villa,1,1,D,0,0,D
+ENG,11/12/1995,19:00,Everton FC,West Ham United,3,0,H,2,0,H
+ENG,16/12/1995,14:00,Queens Park Rangers,Bolton Wanderers,2,1,H,1,1,D
+ENG,16/12/1995,14:00,Arsenal FC,Chelsea FC,1,1,D,0,1,A
+ENG,16/12/1995,14:00,Aston Villa,Coventry City,4,1,H,2,0,H
+ENG,16/12/1995,14:00,Newcastle United,Everton FC,1,0,H,1,0,H
+ENG,16/12/1995,14:00,Sheffield Wednesday,Leeds United,6,2,H,3,1,H
+ENG,16/12/1995,14:00,Blackburn Rovers,Middlesbrough FC,1,0,H,1,0,H
+ENG,16/12/1995,14:00,West Ham United,Southampton FC,2,1,H,0,1,A
+ENG,16/12/1995,14:00,Wimbledon FC,Tottenham Hotspur,0,1,A,0,0,D
+ENG,17/12/1995,15:00,Liverpool FC,Manchester United,2,0,H,1,0,H
+ENG,18/12/1995,19:00,Manchester City,Nottingham Forest,1,1,D,1,0,H
+ENG,23/12/1995,14:00,Coventry City,Everton FC,2,1,H,0,0,D
+ENG,23/12/1995,14:00,Liverpool FC,Arsenal FC,3,1,H,1,1,D
+ENG,23/12/1995,14:00,Manchester City,Chelsea FC,0,1,A,0,0,D
+ENG,23/12/1995,14:00,Middlesbrough FC,West Ham United,4,2,H,3,0,H
+ENG,23/12/1995,14:00,Newcastle United,Nottingham Forest,3,1,H,2,1,H
+ENG,23/12/1995,14:00,Queens Park Rangers,Aston Villa,1,0,H,0,0,D
+ENG,23/12/1995,14:00,Sheffield Wednesday,Southampton FC,2,2,D,1,1,D
+ENG,23/12/1995,14:00,Tottenham Hotspur,Bolton Wanderers,2,2,D,0,0,D
+ENG,23/12/1995,14:00,Wimbledon FC,Blackburn Rovers,1,1,D,0,1,A
+ENG,24/12/1995,15:00,Leeds United,Manchester United,3,1,H,2,1,H
+ENG,26/12/1995,15:00,Nottingham Forest,Sheffield Wednesday,1,0,H,1,0,H
+ENG,26/12/1995,15:00,Southampton FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,26/12/1995,15:00,Arsenal FC,Queens Park Rangers,3,0,H,1,0,H
+ENG,26/12/1995,15:00,Blackburn Rovers,Manchester City,2,0,H,1,0,H
+ENG,26/12/1995,15:00,Chelsea FC,Wimbledon FC,1,2,A,1,2,A
+ENG,26/12/1995,15:00,Everton FC,Middlesbrough FC,4,0,H,2,0,H
+ENG,27/12/1995,15:00,Manchester United,Newcastle United,2,0,H,1,0,H
+ENG,27/12/1995,15:00,Bolton Wanderers,Leeds United,0,2,A,0,1,A
+ENG,31/01/1996,19:00,West Ham United,Coventry City,3,2,H,0,0,D
+ENG,31/01/1996,19:00,Aston Villa,Liverpool FC,0,2,A,0,0,D
+ENG,30/12/1995,14:00,Arsenal FC,Wimbledon FC,1,3,A,1,1,D
+ENG,30/12/1995,14:00,Blackburn Rovers,Tottenham Hotspur,2,1,H,2,0,H
+ENG,30/12/1995,14:00,Bolton Wanderers,Coventry City,1,2,A,1,1,D
+ENG,30/12/1995,14:00,Chelsea FC,Liverpool FC,2,2,D,2,1,H
+ENG,30/12/1995,14:00,Everton FC,Leeds United,2,0,H,1,0,H
+ENG,30/12/1995,14:00,Manchester United,Queens Park Rangers,2,1,H,1,0,H
+ENG,30/12/1995,14:00,Nottingham Forest,Middlesbrough FC,1,0,H,1,0,H
+ENG,31/01/1996,19:00,Southampton FC,Manchester City,1,1,D,0,0,D
+ENG,21/02/1996,19:00,West Ham United,Newcastle United,2,0,H,1,0,H
+ENG,06/03/1996,19:00,Aston Villa,Sheffield Wednesday,3,2,H,0,1,A
+ENG,01/01/1996,19:00,Coventry City,Southampton FC,1,1,D,0,0,D
+ENG,01/01/1996,19:00,Leeds United,Blackburn Rovers,0,0,D,0,0,D
+ENG,01/01/1996,19:00,Liverpool FC,Nottingham Forest,4,2,H,2,2,D
+ENG,01/01/1996,19:00,Manchester City,West Ham United,2,1,H,1,0,H
+ENG,01/01/1996,19:00,Middlesbrough FC,Aston Villa,0,2,A,0,2,A
+ENG,01/01/1996,19:00,Sheffield Wednesday,Bolton Wanderers,4,2,H,2,0,H
+ENG,01/01/1996,19:00,Tottenham Hotspur,Manchester United,4,1,H,2,1,H
+ENG,01/01/1996,19:00,Wimbledon FC,Everton FC,2,3,A,0,3,A
+ENG,02/01/1996,18:45,Newcastle United,Arsenal FC,2,0,H,1,0,H
+ENG,02/01/1996,18:45,Queens Park Rangers,Chelsea FC,1,2,A,0,0,D
+ENG,13/01/1996,14:00,Middlesbrough FC,Arsenal FC,2,3,A,1,1,D
+ENG,13/01/1996,14:00,Manchester United,Aston Villa,0,0,D,0,0,D
+ENG,13/01/1996,14:00,Queens Park Rangers,Blackburn Rovers,0,1,A,0,0,D
+ENG,13/01/1996,14:00,Everton FC,Chelsea FC,1,1,D,1,1,D
+ENG,13/01/1996,14:00,Sheffield Wednesday,Liverpool FC,1,1,D,1,0,H
+ENG,13/01/1996,14:00,Tottenham Hotspur,Manchester City,1,0,H,0,0,D
+ENG,13/01/1996,14:00,Nottingham Forest,Southampton FC,1,0,H,1,0,H
+ENG,13/01/1996,14:00,Leeds United,West Ham United,2,0,H,1,0,H
+ENG,13/01/1996,14:00,Bolton Wanderers,Wimbledon FC,1,0,H,1,0,H
+ENG,14/01/1996,15:00,Coventry City,Newcastle United,0,1,A,0,1,A
+ENG,20/01/1996,14:00,Newcastle United,Bolton Wanderers,2,1,H,2,1,H
+ENG,20/01/1996,14:00,Liverpool FC,Leeds United,5,0,H,1,0,H
+ENG,20/01/1996,14:00,Southampton FC,Middlesbrough FC,2,1,H,0,1,A
+ENG,20/01/1996,14:00,Manchester City,Coventry City,1,1,D,0,0,D
+ENG,20/01/1996,14:00,Arsenal FC,Everton FC,1,2,A,1,0,H
+ENG,20/01/1996,14:00,Chelsea FC,Nottingham Forest,1,0,H,0,0,D
+ENG,20/01/1996,14:00,Wimbledon FC,Queens Park Rangers,2,1,H,1,0,H
+ENG,20/01/1996,14:00,Blackburn Rovers,Sheffield Wednesday,3,0,H,2,0,H
+ENG,21/01/1996,15:00,Aston Villa,Tottenham Hotspur,2,1,H,1,1,D
+ENG,22/01/1996,19:00,West Ham United,Manchester United,0,1,A,0,1,A
+ENG,03/02/1996,14:00,Blackburn Rovers,Bolton Wanderers,3,1,H,1,1,D
+ENG,03/02/1996,14:00,Arsenal FC,Coventry City,1,1,D,1,1,D
+ENG,03/02/1996,14:00,Southampton FC,Everton FC,2,2,D,0,0,D
+ENG,03/02/1996,14:00,Aston Villa,Leeds United,3,0,H,2,0,H
+ENG,03/02/1996,14:00,Wimbledon FC,Manchester United,2,4,A,0,2,A
+ENG,03/02/1996,14:00,West Ham United,Nottingham Forest,1,0,H,1,0,H
+ENG,03/02/1996,14:00,Manchester City,Queens Park Rangers,2,0,H,1,0,H
+ENG,03/02/1996,14:00,Newcastle United,Sheffield Wednesday,2,0,H,0,0,D
+ENG,03/02/1996,14:00,Liverpool FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,04/02/1996,15:00,Chelsea FC,Middlesbrough FC,5,0,H,3,0,H
+ENG,10/02/1996,14:00,Nottingham Forest,Arsenal FC,0,1,A,0,0,D
+ENG,10/02/1996,14:00,Manchester United,Blackburn Rovers,1,0,H,1,0,H
+ENG,10/02/1996,14:00,Sheffield Wednesday,Wimbledon FC,2,1,H,0,0,D
+ENG,10/02/1996,14:00,Bolton Wanderers,Aston Villa,0,2,A,0,1,A
+ENG,10/02/1996,14:00,Coventry City,Chelsea FC,1,0,H,1,0,H
+ENG,10/02/1996,14:00,Everton FC,Manchester City,2,0,H,1,0,H
+ENG,10/02/1996,14:00,Middlesbrough FC,Newcastle United,1,2,A,1,0,H
+ENG,11/02/1996,15:00,Queens Park Rangers,Liverpool FC,1,2,A,0,2,A
+ENG,12/02/1996,19:00,Tottenham Hotspur,West Ham United,0,1,A,0,1,A
+ENG,03/04/1996,19:00,Leeds United,Southampton FC,1,0,H,0,0,D
+ENG,17/02/1996,14:00,Middlesbrough FC,Bolton Wanderers,1,4,A,1,2,A
+ENG,17/02/1996,14:00,Sheffield Wednesday,Queens Park Rangers,1,3,A,1,1,D
+ENG,17/02/1996,14:00,Chelsea FC,West Ham United,1,2,A,1,0,H
+ENG,28/02/1996,19:00,Aston Villa,Blackburn Rovers,2,0,H,0,0,D
+ENG,05/03/1996,18:45,Arsenal FC,Manchester City,3,1,H,2,0,H
+ENG,13/03/1996,19:00,Liverpool FC,Wimbledon FC,2,2,D,1,0,H
+ENG,17/04/1996,19:00,Nottingham Forest,Coventry City,0,0,D,0,0,D
+ENG,17/04/1996,19:00,Manchester United,Everton FC,2,0,H,1,0,H
+ENG,17/04/1996,19:00,Newcastle United,Southampton FC,1,0,H,1,0,H
+ENG,02/05/1996,19:00,Leeds United,Tottenham Hotspur,1,3,A,1,2,A
+ENG,24/02/1996,14:00,West Ham United,Arsenal FC,0,1,A,0,1,A
+ENG,24/02/1996,14:00,Wimbledon FC,Aston Villa,3,3,D,1,1,D
+ENG,24/02/1996,14:00,Southampton FC,Chelsea FC,2,3,A,2,2,D
+ENG,24/02/1996,14:00,Blackburn Rovers,Liverpool FC,2,3,A,1,2,A
+ENG,24/02/1996,14:00,Coventry City,Middlesbrough FC,0,0,D,0,0,D
+ENG,24/02/1996,14:00,Manchester City,Newcastle United,3,3,D,1,1,D
+ENG,24/02/1996,14:00,Everton FC,Nottingham Forest,3,0,H,0,0,D
+ENG,24/02/1996,14:00,Tottenham Hotspur,Sheffield Wednesday,1,0,H,1,0,H
+ENG,25/02/1996,15:00,Bolton Wanderers,Manchester United,0,6,A,0,2,A
+ENG,06/03/1996,19:00,Queens Park Rangers,Leeds United,1,2,A,1,2,A
+ENG,02/03/1996,14:00,Queens Park Rangers,Arsenal FC,1,1,D,1,0,H
+ENG,02/03/1996,14:00,Manchester City,Blackburn Rovers,1,1,D,0,0,D
+ENG,02/03/1996,14:00,Leeds United,Bolton Wanderers,0,1,A,0,1,A
+ENG,02/03/1996,14:00,Wimbledon FC,Chelsea FC,1,1,D,1,1,D
+ENG,02/03/1996,14:00,Middlesbrough FC,Everton FC,0,2,A,0,2,A
+ENG,02/03/1996,14:00,Sheffield Wednesday,Nottingham Forest,1,3,A,0,1,A
+ENG,02/03/1996,14:00,Tottenham Hotspur,Southampton FC,1,0,H,0,0,D
+ENG,02/03/1996,14:00,Coventry City,West Ham United,2,2,D,2,2,D
+ENG,03/03/1996,15:00,Liverpool FC,Aston Villa,3,0,H,3,0,H
+ENG,04/03/1996,19:00,Newcastle United,Manchester United,0,1,A,0,0,D
+ENG,09/03/1996,14:00,Everton FC,Coventry City,2,2,D,2,1,H
+ENG,09/03/1996,14:00,West Ham United,Middlesbrough FC,2,0,H,1,0,H
+ENG,09/03/1996,14:00,Aston Villa,Queens Park Rangers,4,2,H,1,0,H
+ENG,12/03/1996,18:45,Chelsea FC,Manchester City,1,1,D,1,1,D
+ENG,20/03/1996,19:00,Southampton FC,Sheffield Wednesday,0,1,A,0,1,A
+ENG,20/03/1996,19:00,Bolton Wanderers,Tottenham Hotspur,2,3,A,0,1,A
+ENG,17/04/1996,19:00,Manchester United,Leeds United,1,0,H,0,0,D
+ENG,17/04/1996,19:00,Blackburn Rovers,Wimbledon FC,3,2,H,1,1,D
+ENG,01/05/1996,19:00,Arsenal FC,Liverpool FC,0,0,D,0,0,D
+ENG,02/05/1996,19:00,Nottingham Forest,Newcastle United,1,1,D,0,1,A
+ENG,16/03/1996,14:00,Wimbledon FC,Arsenal FC,0,3,A,0,0,D
+ENG,16/03/1996,14:00,Sheffield Wednesday,Aston Villa,2,0,H,0,0,D
+ENG,16/03/1996,14:00,Tottenham Hotspur,Blackburn Rovers,2,3,A,0,2,A
+ENG,16/03/1996,14:00,Coventry City,Bolton Wanderers,0,2,A,0,0,D
+ENG,16/03/1996,14:00,Liverpool FC,Chelsea FC,2,0,H,0,0,D
+ENG,16/03/1996,14:00,Queens Park Rangers,Manchester United,1,1,D,0,0,D
+ENG,16/03/1996,14:00,Middlesbrough FC,Nottingham Forest,1,1,D,0,0,D
+ENG,16/03/1996,14:00,Manchester City,Southampton FC,2,1,H,2,0,H
+ENG,17/03/1996,15:00,Leeds United,Everton FC,2,2,D,2,1,H
+ENG,18/03/1996,19:00,Newcastle United,West Ham United,3,0,H,1,0,H
+ENG,13/03/1996,19:00,Blackburn Rovers,Leeds United,1,0,H,0,0,D
+ENG,19/03/1996,18:45,Aston Villa,Middlesbrough FC,0,0,D,0,0,D
+ENG,23/03/1996,14:00,Nottingham Forest,Liverpool FC,1,0,H,1,0,H
+ENG,23/03/1996,14:00,West Ham United,Manchester City,4,2,H,1,0,H
+ENG,23/03/1996,14:00,Arsenal FC,Newcastle United,2,0,H,2,0,H
+ENG,23/03/1996,14:00,Chelsea FC,Queens Park Rangers,1,1,D,1,1,D
+ENG,23/03/1996,14:00,Bolton Wanderers,Sheffield Wednesday,2,1,H,1,1,D
+ENG,23/03/1996,14:00,Everton FC,Wimbledon FC,2,4,A,1,1,D
+ENG,24/03/1996,15:00,Manchester United,Tottenham Hotspur,1,0,H,0,0,D
+ENG,25/03/1996,19:00,Southampton FC,Coventry City,1,0,H,1,0,H
+ENG,20/03/1996,19:00,Manchester United,Arsenal FC,1,0,H,0,0,D
+ENG,30/03/1996,14:00,Wimbledon FC,Nottingham Forest,1,0,H,0,0,D
+ENG,30/03/1996,14:00,Queens Park Rangers,Southampton FC,3,0,H,1,0,H
+ENG,30/03/1996,14:00,Tottenham Hotspur,Coventry City,3,1,H,0,1,A
+ENG,30/03/1996,14:00,Blackburn Rovers,Everton FC,0,3,A,0,0,D
+ENG,30/03/1996,14:00,Bolton Wanderers,Manchester City,1,1,D,0,1,A
+ENG,30/03/1996,14:00,Leeds United,Middlesbrough FC,0,1,A,0,1,A
+ENG,03/04/1996,19:00,Liverpool FC,Newcastle United,4,3,H,1,2,A
+ENG,17/04/1996,19:00,Aston Villa,West Ham United,1,1,D,1,0,H
+ENG,17/04/1996,19:00,Sheffield Wednesday,Chelsea FC,0,0,D,0,0,D
+ENG,05/04/1996,19:00,Middlesbrough FC,Sheffield Wednesday,3,1,H,0,0,D
+ENG,06/04/1996,14:00,Chelsea FC,Aston Villa,1,2,A,1,1,D
+ENG,06/04/1996,14:00,Southampton FC,Blackburn Rovers,1,0,H,0,0,D
+ENG,06/04/1996,14:00,Everton FC,Bolton Wanderers,3,0,H,1,0,H
+ENG,06/04/1996,14:00,Arsenal FC,Leeds United,2,1,H,1,0,H
+ENG,06/04/1996,14:00,Coventry City,Liverpool FC,1,0,H,1,0,H
+ENG,06/04/1996,14:00,Manchester City,Manchester United,2,3,A,1,2,A
+ENG,06/04/1996,14:00,Newcastle United,Queens Park Rangers,2,1,H,0,0,D
+ENG,06/04/1996,14:00,Nottingham Forest,Tottenham Hotspur,2,1,H,1,0,H
+ENG,06/04/1996,14:00,West Ham United,Wimbledon FC,1,1,D,1,1,D
+ENG,08/04/1996,19:00,Blackburn Rovers,Newcastle United,2,1,H,0,0,D
+ENG,08/04/1996,19:00,Sheffield Wednesday,Arsenal FC,1,0,H,0,0,D
+ENG,08/04/1996,19:00,Tottenham Hotspur,Middlesbrough FC,1,1,D,0,0,D
+ENG,08/04/1996,19:00,Bolton Wanderers,Chelsea FC,2,1,H,2,1,H
+ENG,08/04/1996,19:00,Manchester United,Coventry City,1,0,H,0,0,D
+ENG,08/04/1996,19:00,Queens Park Rangers,Everton FC,3,1,H,2,0,H
+ENG,08/04/1996,19:00,Wimbledon FC,Manchester City,3,0,H,1,0,H
+ENG,08/04/1996,19:00,Leeds United,Nottingham Forest,1,3,A,1,2,A
+ENG,08/04/1996,19:00,Aston Villa,Southampton FC,3,0,H,0,0,D
+ENG,08/04/1996,19:00,Liverpool FC,West Ham United,2,0,H,2,0,H
+ENG,13/04/1996,14:00,Nottingham Forest,Blackburn Rovers,1,5,A,1,3,A
+ENG,13/04/1996,14:00,West Ham United,Bolton Wanderers,1,0,H,1,0,H
+ENG,13/04/1996,14:00,Chelsea FC,Leeds United,4,1,H,4,0,H
+ENG,13/04/1996,14:00,Southampton FC,Manchester United,3,1,H,3,0,H
+ENG,13/04/1996,14:00,Coventry City,Queens Park Rangers,1,0,H,0,0,D
+ENG,13/04/1996,14:00,Manchester City,Sheffield Wednesday,1,0,H,0,0,D
+ENG,13/04/1996,14:00,Middlesbrough FC,Wimbledon FC,1,2,A,1,1,D
+ENG,14/04/1996,15:00,Newcastle United,Aston Villa,1,0,H,0,0,D
+ENG,15/04/1996,19:00,Arsenal FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,16/04/1996,18:45,Everton FC,Liverpool FC,1,1,D,1,0,H
+ENG,27/04/1996,14:00,Blackburn Rovers,Arsenal FC,1,1,D,1,0,H
+ENG,27/04/1996,14:00,Tottenham Hotspur,Chelsea FC,1,1,D,0,1,A
+ENG,27/04/1996,14:00,Wimbledon FC,Coventry City,0,2,A,0,0,D
+ENG,27/04/1996,14:00,Sheffield Wednesday,Everton FC,2,5,A,1,3,A
+ENG,27/04/1996,14:00,Aston Villa,Manchester City,0,1,A,0,0,D
+ENG,27/04/1996,14:00,Liverpool FC,Middlesbrough FC,1,0,H,0,0,D
+ENG,27/04/1996,14:00,Bolton Wanderers,Southampton FC,0,1,A,0,1,A
+ENG,27/04/1996,14:00,Queens Park Rangers,West Ham United,3,0,H,0,0,D
+ENG,28/04/1996,15:00,Manchester United,Nottingham Forest,5,0,H,2,0,H
+ENG,29/04/1996,19:00,Leeds United,Newcastle United,0,1,A,0,1,A
+ENG,04/05/1996,14:00,Everton FC,Aston Villa,1,0,H,0,0,D
+ENG,04/05/1996,14:00,Chelsea FC,Blackburn Rovers,2,3,A,1,1,D
+ENG,04/05/1996,14:00,Arsenal FC,Bolton Wanderers,2,1,H,0,0,D
+ENG,04/05/1996,14:00,Coventry City,Leeds United,0,0,D,0,0,D
+ENG,04/05/1996,14:00,Manchester City,Liverpool FC,2,2,D,0,2,A
+ENG,04/05/1996,14:00,Middlesbrough FC,Manchester United,0,3,A,0,1,A
+ENG,04/05/1996,14:00,Nottingham Forest,Queens Park Rangers,3,0,H,1,0,H
+ENG,04/05/1996,14:00,West Ham United,Sheffield Wednesday,1,1,D,0,0,D
+ENG,04/05/1996,14:00,Newcastle United,Tottenham Hotspur,1,1,D,0,0,D
+ENG,04/05/1996,14:00,Southampton FC,Wimbledon FC,0,0,D,0,0,D

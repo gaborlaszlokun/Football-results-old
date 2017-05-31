@@ -1,0 +1,265 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,01/08/1992,,Rangers FC,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,01/08/1992,,Partick Thistle,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,01/08/1992,,Motherwell FC,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,01/08/1992,,Heart of Midlothian,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,01/08/1992,,Dundee FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,01/08/1992,,Aberdeen FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,04/08/1992,,Rangers FC,Airdrieonians FC (old),2,0,H,NaN,NaN,NaN
+SCO,04/08/1992,,Partick Thistle,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,04/08/1992,,Motherwell FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,04/08/1992,,Dundee FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,05/08/1992,,Heart of Midlothian,Falkirk FC,3,0,H,NaN,NaN,NaN
+SCO,05/08/1992,,Aberdeen FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,08/08/1992,,St. Johnstone FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,08/08/1992,,Hibernian FC,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,08/08/1992,,Falkirk FC,Aberdeen FC,0,1,A,NaN,NaN,NaN
+SCO,08/08/1992,,Dundee United,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,08/08/1992,,Celtic FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,08/08/1992,,Airdrieonians FC (old),Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,15/08/1992,,St. Johnstone FC,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,15/08/1992,,Motherwell FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,15/08/1992,,Heart of Midlothian,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,15/08/1992,,Falkirk FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,15/08/1992,,Dundee FC,Rangers FC,4,3,H,NaN,NaN,NaN
+SCO,15/08/1992,,Celtic FC,Dundee United,2,0,H,NaN,NaN,NaN
+SCO,22/08/1992,,Rangers FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,22/08/1992,,Partick Thistle,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,22/08/1992,,Hibernian FC,Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,22/08/1992,,Dundee United,St. Johnstone FC,2,1,H,NaN,NaN,NaN
+SCO,22/08/1992,,Airdrieonians FC (old),Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,22/08/1992,,Aberdeen FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,29/08/1992,,St. Johnstone FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,29/08/1992,,Rangers FC,Aberdeen FC,3,1,H,NaN,NaN,NaN
+SCO,29/08/1992,,Partick Thistle,Dundee FC,6,3,H,NaN,NaN,NaN
+SCO,29/08/1992,,Heart of Midlothian,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,29/08/1992,,Dundee United,Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,29/08/1992,,Airdrieonians FC (old),Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,01/09/1992,,Dundee FC,Heart of Midlothian,1,3,A,NaN,NaN,NaN
+SCO,02/09/1992,,Motherwell FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,02/09/1992,,Hibernian FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,02/09/1992,,Celtic FC,St. Johnstone FC,3,1,H,NaN,NaN,NaN
+SCO,02/09/1992,,Aberdeen FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,05/09/1992,,Falkirk FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,12/09/1992,,St. Johnstone FC,Falkirk FC,3,2,H,NaN,NaN,NaN
+SCO,12/09/1992,,Partick Thistle,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,12/09/1992,,Heart of Midlothian,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,12/09/1992,,Dundee FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,12/09/1992,,Celtic FC,Hibernian FC,2,3,A,NaN,NaN,NaN
+SCO,12/09/1992,,Airdrieonians FC (old),Dundee United,1,2,A,NaN,NaN,NaN
+SCO,19/09/1992,,Rangers FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,19/09/1992,,Motherwell FC,St. Johnstone FC,3,3,D,NaN,NaN,NaN
+SCO,19/09/1992,,Hibernian FC,Airdrieonians FC (old),2,2,D,NaN,NaN,NaN
+SCO,19/09/1992,,Falkirk FC,Celtic FC,4,5,A,NaN,NaN,NaN
+SCO,19/09/1992,,Dundee United,Dundee FC,0,1,A,NaN,NaN,NaN
+SCO,19/09/1992,,Aberdeen FC,Partick Thistle,2,0,H,NaN,NaN,NaN
+SCO,26/09/1992,,St. Johnstone FC,Aberdeen FC,0,3,A,NaN,NaN,NaN
+SCO,26/09/1992,,Hibernian FC,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,26/09/1992,,Falkirk FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,26/09/1992,,Dundee United,Rangers FC,0,4,A,NaN,NaN,NaN
+SCO,26/09/1992,,Celtic FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,26/09/1992,,Airdrieonians FC (old),Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,03/10/1992,,Rangers FC,Falkirk FC,4,0,H,NaN,NaN,NaN
+SCO,03/10/1992,,Partick Thistle,Hibernian FC,2,2,D,NaN,NaN,NaN
+SCO,03/10/1992,,Motherwell FC,Airdrieonians FC (old),2,0,H,NaN,NaN,NaN
+SCO,03/10/1992,,Heart of Midlothian,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,03/10/1992,,Dundee FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,03/10/1992,,Aberdeen FC,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,07/10/1992,,St. Johnstone FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,07/10/1992,,Hibernian FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,07/10/1992,,Dundee United,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,07/10/1992,,Celtic FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,10/10/1992,,Falkirk FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,10/10/1992,,Airdrieonians FC (old),Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,17/10/1992,,Rangers FC,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,17/10/1992,,Partick Thistle,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,17/10/1992,,Motherwell FC,Celtic FC,1,3,A,NaN,NaN,NaN
+SCO,17/10/1992,,Heart of Midlothian,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,17/10/1992,,Dundee FC,Airdrieonians FC (old),2,0,H,NaN,NaN,NaN
+SCO,17/10/1992,,Aberdeen FC,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,24/10/1992,,Motherwell FC,Heart of Midlothian,1,3,A,NaN,NaN,NaN
+SCO,24/10/1992,,Hibernian FC,St. Johnstone FC,3,1,H,NaN,NaN,NaN
+SCO,24/10/1992,,Falkirk FC,Dundee United,1,1,D,NaN,NaN,NaN
+SCO,24/10/1992,,Dundee FC,Partick Thistle,0,2,A,NaN,NaN,NaN
+SCO,24/10/1992,,Celtic FC,Airdrieonians FC (old),2,0,H,NaN,NaN,NaN
+SCO,30/03/1993,,Rangers FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,31/10/1992,,St. Johnstone FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,31/10/1992,,Rangers FC,Motherwell FC,4,2,H,NaN,NaN,NaN
+SCO,31/10/1992,,Partick Thistle,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,31/10/1992,,Heart of Midlothian,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,31/10/1992,,Dundee United,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,31/10/1992,,Airdrieonians FC (old),Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,07/11/1992,,St. Johnstone FC,Dundee United,2,0,H,NaN,NaN,NaN
+SCO,07/11/1992,,Motherwell FC,Partick Thistle,0,2,A,NaN,NaN,NaN
+SCO,07/11/1992,,Heart of Midlothian,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,07/11/1992,,Falkirk FC,Airdrieonians FC (old),5,1,H,NaN,NaN,NaN
+SCO,07/11/1992,,Dundee FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,07/11/1992,,Celtic FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,10/11/1992,,Partick Thistle,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,11/11/1992,,Rangers FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,11/11/1992,,Dundee United,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,11/11/1992,,Aberdeen FC,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,14/11/1992,,Hibernian FC,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,14/11/1992,,Airdrieonians FC (old),St. Johnstone FC,0,2,A,NaN,NaN,NaN
+SCO,21/11/1992,,Heart of Midlothian,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,21/11/1992,,Dundee FC,Dundee United,1,3,A,NaN,NaN,NaN
+SCO,21/11/1992,,Celtic FC,Falkirk FC,3,2,H,NaN,NaN,NaN
+SCO,21/11/1992,,Airdrieonians FC (old),Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,24/11/1992,,St. Johnstone FC,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,24/11/1992,,Partick Thistle,Aberdeen FC,0,7,A,NaN,NaN,NaN
+SCO,28/11/1992,,Rangers FC,Partick Thistle,3,0,H,NaN,NaN,NaN
+SCO,28/11/1992,,Motherwell FC,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,28/11/1992,,Hibernian FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,28/11/1992,,Falkirk FC,St. Johnstone FC,2,2,D,NaN,NaN,NaN
+SCO,28/11/1992,,Dundee United,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,28/11/1992,,Aberdeen FC,Heart of Midlothian,6,2,H,NaN,NaN,NaN
+SCO,01/12/1992,,Hibernian FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,01/12/1992,,Dundee United,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,01/12/1992,,Airdrieonians FC (old),Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,02/12/1992,,St. Johnstone FC,Dundee FC,4,4,D,NaN,NaN,NaN
+SCO,02/12/1992,,Falkirk FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,02/12/1992,,Celtic FC,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,05/12/1992,,Partick Thistle,Celtic FC,2,3,A,NaN,NaN,NaN
+SCO,05/12/1992,,Motherwell FC,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,05/12/1992,,Heart of Midlothian,Airdrieonians FC (old),1,3,A,NaN,NaN,NaN
+SCO,05/12/1992,,Dundee FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,05/12/1992,,Aberdeen FC,St. Johnstone FC,3,0,H,NaN,NaN,NaN
+SCO,05/01/1993,,Rangers FC,Dundee United,3,2,H,NaN,NaN,NaN
+SCO,12/12/1992,,St. Johnstone FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,12/12/1992,,Hibernian FC,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,12/12/1992,,Falkirk FC,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,12/12/1992,,Dundee United,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,12/12/1992,,Celtic FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,12/12/1992,,Airdrieonians FC (old),Motherwell FC,0,2,A,NaN,NaN,NaN
+SCO,19/12/1992,,Rangers FC,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,19/12/1992,,Partick Thistle,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,19/12/1992,,Heart of Midlothian,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,19/12/1992,,Dundee FC,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,19/12/1992,,Aberdeen FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,02/02/1993,,Motherwell FC,Dundee United,2,0,H,NaN,NaN,NaN
+SCO,26/12/1992,,St. Johnstone FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,26/12/1992,,Motherwell FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,26/12/1992,,Heart of Midlothian,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,26/12/1992,,Falkirk FC,Hibernian FC,3,3,D,NaN,NaN,NaN
+SCO,26/12/1992,,Dundee FC,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,26/12/1992,,Celtic FC,Dundee United,0,1,A,NaN,NaN,NaN
+SCO,02/01/1993,,Rangers FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,02/01/1993,,Partick Thistle,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,02/01/1993,,Hibernian FC,Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,02/01/1993,,Dundee United,St. Johnstone FC,1,2,A,NaN,NaN,NaN
+SCO,02/01/1993,,Airdrieonians FC (old),Falkirk FC,0,1,A,NaN,NaN,NaN
+SCO,02/01/1993,,Aberdeen FC,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,23/01/1993,,St. Johnstone FC,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,23/01/1993,,Heart of Midlothian,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,23/01/1993,,Dundee United,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,23/01/1993,,Airdrieonians FC (old),Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,27/01/1993,,Partick Thistle,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,02/02/1993,,Aberdeen FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,30/01/1993,,St. Johnstone FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,30/01/1993,,Hibernian FC,Rangers FC,3,4,A,NaN,NaN,NaN
+SCO,30/01/1993,,Falkirk FC,Aberdeen FC,1,4,A,NaN,NaN,NaN
+SCO,30/01/1993,,Dundee United,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,30/01/1993,,Celtic FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,30/01/1993,,Airdrieonians FC (old),Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,16/01/1993,,Hibernian FC,Dundee United,2,1,H,NaN,NaN,NaN
+SCO,16/01/1993,,Aberdeen FC,Airdrieonians FC (old),7,0,H,NaN,NaN,NaN
+SCO,02/02/1993,,Falkirk FC,Partick Thistle,4,2,H,NaN,NaN,NaN
+SCO,03/02/1993,,Dundee FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,03/02/1993,,Celtic FC,St. Johnstone FC,5,1,H,NaN,NaN,NaN
+SCO,23/02/1993,,Dundee FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,20/01/1993,,Heart of Midlothian,St. Johnstone FC,2,0,H,NaN,NaN,NaN
+SCO,06/02/1993,,Motherwell FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,09/02/1993,,Rangers FC,Falkirk FC,5,0,H,NaN,NaN,NaN
+SCO,16/02/1993,,Partick Thistle,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,23/02/1993,,Motherwell FC,Rangers FC,0,4,A,NaN,NaN,NaN
+SCO,24/02/1993,,Aberdeen FC,Dundee United,0,0,D,NaN,NaN,NaN
+SCO,13/02/1993,,Rangers FC,Airdrieonians FC (old),2,2,D,NaN,NaN,NaN
+SCO,13/02/1993,,Partick Thistle,Dundee United,0,4,A,NaN,NaN,NaN
+SCO,13/02/1993,,Motherwell FC,Hibernian FC,0,0,D,NaN,NaN,NaN
+SCO,13/02/1993,,Heart of Midlothian,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,13/02/1993,,Dundee FC,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,13/02/1993,,Aberdeen FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,20/02/1993,,St. Johnstone FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,20/02/1993,,Hibernian FC,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,20/02/1993,,Falkirk FC,Motherwell FC,1,3,A,NaN,NaN,NaN
+SCO,20/02/1993,,Dundee United,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,20/02/1993,,Celtic FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,20/02/1993,,Airdrieonians FC (old),Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,27/02/1993,,Rangers FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,27/02/1993,,Motherwell FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,27/02/1993,,Hibernian FC,Airdrieonians FC (old),3,1,H,NaN,NaN,NaN
+SCO,27/02/1993,,Falkirk FC,Celtic FC,0,3,A,NaN,NaN,NaN
+SCO,27/02/1993,,Dundee United,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,02/03/1993,,Aberdeen FC,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,06/03/1993,,Dundee FC,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,06/03/1993,,Airdrieonians FC (old),Dundee United,1,3,A,NaN,NaN,NaN
+SCO,16/03/1993,,St. Johnstone FC,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,16/03/1993,,Celtic FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,04/05/1993,,Partick Thistle,Rangers FC,3,0,H,NaN,NaN,NaN
+SCO,05/05/1993,,Heart of Midlothian,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,09/03/1993,,Hibernian FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,09/03/1993,,Dundee United,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,09/03/1993,,Airdrieonians FC (old),Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,10/03/1993,,St. Johnstone FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,10/03/1993,,Falkirk FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,10/03/1993,,Celtic FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,13/03/1993,,Rangers FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,13/03/1993,,Partick Thistle,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,13/03/1993,,Heart of Midlothian,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,13/03/1993,,Dundee FC,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,13/03/1993,,Aberdeen FC,Falkirk FC,2,2,D,NaN,NaN,NaN
+SCO,03/04/1993,,Motherwell FC,Celtic FC,2,0,H,NaN,NaN,NaN
+SCO,20/03/1993,,St. Johnstone FC,Dundee United,1,4,A,NaN,NaN,NaN
+SCO,20/03/1993,,Motherwell FC,Partick Thistle,2,3,A,NaN,NaN,NaN
+SCO,20/03/1993,,Heart of Midlothian,Hibernian FC,1,0,H,NaN,NaN,NaN
+SCO,20/03/1993,,Falkirk FC,Airdrieonians FC (old),0,1,A,NaN,NaN,NaN
+SCO,20/03/1993,,Dundee FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,20/03/1993,,Celtic FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,27/03/1993,,Rangers FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,27/03/1993,,Partick Thistle,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,27/03/1993,,Hibernian FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,27/03/1993,,Dundee United,Celtic FC,2,3,A,NaN,NaN,NaN
+SCO,27/03/1993,,Airdrieonians FC (old),St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,27/03/1993,,Aberdeen FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,03/04/1993,,Falkirk FC,Dundee United,1,2,A,NaN,NaN,NaN
+SCO,03/04/1993,,Dundee FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,06/04/1993,,Hibernian FC,St. Johnstone FC,2,2,D,NaN,NaN,NaN
+SCO,06/04/1993,,Celtic FC,Airdrieonians FC (old),4,0,H,NaN,NaN,NaN
+SCO,20/04/1993,,Motherwell FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,12/05/1993,,Aberdeen FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,10/04/1993,,St. Johnstone FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,10/04/1993,,Rangers FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,10/04/1993,,Partick Thistle,Falkirk FC,0,1,A,NaN,NaN,NaN
+SCO,10/04/1993,,Heart of Midlothian,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,10/04/1993,,Airdrieonians FC (old),Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,13/04/1993,,Dundee United,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,17/04/1993,,Rangers FC,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,17/04/1993,,Motherwell FC,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,17/04/1993,,Hibernian FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,17/04/1993,,Falkirk FC,St. Johnstone FC,2,2,D,NaN,NaN,NaN
+SCO,17/04/1993,,Dundee United,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,17/04/1993,,Aberdeen FC,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,14/04/1993,,Heart of Midlothian,Rangers FC,2,3,A,NaN,NaN,NaN
+SCO,20/04/1993,,Partick Thistle,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,20/04/1993,,Dundee FC,Dundee United,0,4,A,NaN,NaN,NaN
+SCO,20/04/1993,,Celtic FC,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,20/04/1993,,Airdrieonians FC (old),Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,24/04/1993,,St. Johnstone FC,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,01/05/1993,,St. Johnstone FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,01/05/1993,,Hibernian FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,01/05/1993,,Falkirk FC,Heart of Midlothian,6,0,H,NaN,NaN,NaN
+SCO,01/05/1993,,Dundee United,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,01/05/1993,,Celtic FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,01/05/1993,,Airdrieonians FC (old),Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,08/05/1993,,Rangers FC,Dundee United,1,0,H,NaN,NaN,NaN
+SCO,08/05/1993,,Partick Thistle,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,08/05/1993,,Motherwell FC,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,08/05/1993,,Heart of Midlothian,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,08/05/1993,,Dundee FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,08/05/1993,,Aberdeen FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,15/05/1993,,St. Johnstone FC,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,15/05/1993,,Hibernian FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,15/05/1993,,Falkirk FC,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,15/05/1993,,Dundee United,Aberdeen FC,1,4,A,NaN,NaN,NaN
+SCO,15/05/1993,,Celtic FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,15/05/1993,,Airdrieonians FC (old),Motherwell FC,1,2,A,NaN,NaN,NaN

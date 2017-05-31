@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BHR,26/10/2015,15:00,Manama Club,Al Ahli,0,3,A,0,2,A
+BHR,26/10/2015,15:00,Busaiteen,Sitra Club,2,1,H,2,0,H
+BHR,26/10/2015,17:15,Al Hidd,Al Hala,0,0,D,0,0,D
+BHR,27/10/2015,15:00,Al Muharraq,Malkiya Club,4,0,H,1,0,H
+BHR,27/10/2015,17:15,East Riffa Club,Riffa SC,0,1,A,0,0,D
+BHR,30/10/2015,15:00,Al Hala,Busaiteen,0,0,D,0,0,D
+BHR,30/10/2015,17:15,Sitra Club,Al Ahli,2,0,H,0,0,D
+BHR,31/10/2015,15:00,Al Hidd,Riffa SC,3,1,H,2,0,H
+BHR,31/10/2015,15:00,Manama Club,Malkiya Club,0,4,A,0,2,A
+BHR,31/10/2015,17:15,East Riffa Club,Al Muharraq,1,1,D,1,1,D
+BHR,04/11/2015,15:00,Al Hala,Riffa SC,1,1,D,1,1,D
+BHR,04/11/2015,15:00,Busaiteen,Al Ahli,1,0,H,1,0,H
+BHR,05/11/2015,15:00,Manama Club,East Riffa Club,0,2,A,0,1,A
+BHR,05/11/2015,15:00,Sitra Club,Malkiya Club,1,1,D,0,1,A
+BHR,05/11/2015,17:15,Al Hidd,Al Muharraq,1,0,H,0,0,D
+BHR,23/11/2015,15:00,Al Hala,Al Muharraq,0,2,A,0,2,A
+BHR,23/11/2015,15:00,Riffa SC,Busaiteen,2,3,A,1,1,D
+BHR,23/11/2015,17:15,Sitra Club,East Riffa Club,0,1,A,0,0,D
+BHR,24/11/2015,15:00,Al Hidd,Manama Club,3,2,H,1,1,D
+BHR,24/11/2015,17:15,Al Ahli,Malkiya Club,1,1,D,0,0,D
+BHR,28/11/2015,15:00,Al Ahli,East Riffa Club,0,0,D,0,0,D
+BHR,28/11/2015,15:00,Al Hala,Manama Club,2,1,H,0,1,A
+BHR,28/11/2015,17:15,Riffa SC,Al Muharraq,1,0,H,0,0,D
+BHR,29/11/2015,15:00,Sitra Club,Al Hidd,1,1,D,0,1,A
+BHR,29/11/2015,17:15,Busaiteen,Malkiya Club,3,2,H,0,0,D
+BHR,04/12/2015,13:15,Al Muharraq,Busaiteen,1,0,H,1,0,H
+BHR,04/12/2015,15:00,Riffa SC,Manama Club,1,0,H,1,0,H
+BHR,04/12/2015,15:30,Al Ahli,Al Hidd,1,2,A,1,0,H
+BHR,05/12/2015,13:15,Malkiya Club,East Riffa Club,1,0,H,0,0,D
+BHR,05/12/2015,15:30,Al Hala,Sitra Club,0,2,A,0,0,D
+BHR,11/12/2015,13:15,Busaiteen,East Riffa Club,1,5,A,0,3,A
+BHR,11/12/2015,15:30,Al Muharraq,Manama Club,0,2,A,0,1,A
+BHR,12/12/2015,13:15,Al Ahli,Al Hala,3,1,H,1,0,H
+BHR,12/12/2015,15:00,Malkiya Club,Al Hidd,1,1,D,0,0,D
+BHR,12/12/2015,15:30,Riffa SC,Sitra Club,1,3,A,1,2,A
+BHR,18/12/2015,13:15,Riffa SC,Al Ahli,1,2,A,0,1,A
+BHR,18/12/2015,15:30,East Riffa Club,Al Hidd,0,1,A,0,1,A
+BHR,19/12/2015,13:15,Manama Club,Busaiteen,2,0,H,1,0,H
+BHR,19/12/2015,15:00,Al Muharraq,Sitra Club,1,0,H,0,0,D
+BHR,19/12/2015,15:30,Malkiya Club,Al Hala,0,0,D,0,0,D
+BHR,25/12/2015,13:20,Busaiteen,Al Hidd,1,3,A,1,1,D
+BHR,25/12/2015,15:00,East Riffa Club,Al Hala,3,2,H,1,1,D
+BHR,25/12/2015,15:35,Manama Club,Sitra Club,3,0,H,1,0,H
+BHR,26/12/2015,13:20,Malkiya Club,Riffa SC,2,1,H,1,1,D
+BHR,26/12/2015,15:35,Al Muharraq,Al Ahli,2,1,H,2,1,H
+BHR,25/01/2016,14:45,Sitra Club,Riffa SC,1,2,A,0,1,A
+BHR,25/01/2016,15:00,Al Ahli,Busaiteen,1,2,A,0,2,A
+BHR,25/01/2016,17:00,Malkiya Club,Al Muharraq,1,2,A,1,0,H
+BHR,26/01/2016,14:45,Al Hidd,East Riffa Club,2,1,H,0,1,A
+BHR,26/01/2016,17:00,Manama Club,Al Hala,2,4,A,1,0,H
+BHR,14/02/2016,15:00,Al Muharraq,Al Hidd,2,2,D,1,1,D
+BHR,14/02/2016,15:00,Riffa SC,Malkiya Club,1,0,H,0,0,D
+BHR,14/02/2016,17:15,East Riffa Club,Manama Club,0,0,D,0,0,D
+BHR,15/02/2016,15:00,Al Hala,Al Ahli,2,1,H,1,0,H
+BHR,15/02/2016,15:00,Sitra Club,Busaiteen,2,0,H,1,0,H
+BHR,02/03/2016,15:10,Al Hidd,Malkiya Club,2,1,H,1,0,H
+BHR,04/03/2016,13:00,Sitra Club,Al Hala,2,2,D,1,0,H
+BHR,04/03/2016,15:30,East Riffa Club,Al Ahli,1,2,A,1,0,H
+BHR,02/05/2016,16:45,Busaiteen,Riffa SC,1,0,H,0,0,D
+BHR,02/05/2016,16:45,Manama Club,Al Muharraq,2,0,H,1,0,H
+BHR,04/04/2016,16:15,Al Ahli,Al Muharraq,2,2,D,1,2,A
+BHR,04/04/2016,16:15,Riffa SC,Al Hidd,1,2,A,1,0,H
+BHR,04/04/2016,18:30,Malkiya Club,Manama Club,1,1,D,1,0,H
+BHR,05/04/2016,16:15,Busaiteen,Al Hala,1,2,A,1,2,A
+BHR,05/04/2016,16:15,East Riffa Club,Sitra Club,3,0,H,1,0,H
+BHR,08/04/2016,15:25,Manama Club,Al Hidd,0,5,A,0,2,A
+BHR,09/04/2016,15:25,Sitra Club,Al Muharraq,2,2,D,0,0,D
+BHR,09/04/2016,15:25,Malkiya Club,Al Ahli,0,0,D,0,0,D
+BHR,09/04/2016,17:40,East Riffa Club,Busaiteen,0,0,D,0,0,D
+BHR,10/04/2016,16:30,Riffa SC,Al Hala,2,1,H,0,0,D
+BHR,16/04/2016,15:30,Al Hala,East Riffa Club,2,1,H,0,1,A
+BHR,16/04/2016,15:30,Manama Club,Riffa SC,0,2,A,0,1,A
+BHR,16/04/2016,17:45,Malkiya Club,Sitra Club,2,0,H,1,0,H
+BHR,17/04/2016,15:30,Busaiteen,Al Muharraq,2,3,A,1,1,D
+BHR,17/04/2016,17:45,Al Hidd,Al Ahli,1,1,D,0,1,A
+BHR,22/04/2016,15:30,Al Hidd,Sitra Club,1,1,D,0,0,D
+BHR,22/04/2016,15:30,Malkiya Club,Busaiteen,1,0,H,1,0,H
+BHR,22/04/2016,17:45,Al Muharraq,Al Hala,3,0,H,0,0,D
+BHR,23/04/2016,15:30,Riffa SC,East Riffa Club,0,2,A,0,0,D
+BHR,23/04/2016,17:45,Manama Club,Al Ahli,0,0,D,0,0,D
+BHR,06/05/2016,15:30,Al Hidd,Busaiteen,5,0,H,2,0,H
+BHR,06/05/2016,15:30,Al Muharraq,East Riffa Club,3,1,H,0,1,A
+BHR,07/05/2016,15:30,Al Ahli,Riffa SC,2,1,H,2,0,H
+BHR,07/05/2016,15:30,Al Hala,Malkiya Club,2,3,A,1,0,H
+BHR,07/05/2016,15:30,Sitra Club,Manama Club,0,1,A,0,0,D
+BHR,18/05/2016,15:45,East Riffa Club,Malkiya Club,1,2,A,0,0,D
+BHR,18/05/2016,15:45,Al Muharraq,Riffa SC,3,3,D,2,1,H
+BHR,19/05/2016,15:45,Busaiteen,Manama Club,0,1,A,0,0,D
+BHR,19/05/2016,15:45,Al Ahli,Sitra Club,2,2,D,0,0,D
+BHR,19/05/2016,15:45,Al Hala,Al Hidd,1,4,A,0,1,A

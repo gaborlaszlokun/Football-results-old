@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NOR,27/04/1986,,Hamarkameratene,Molde FK,1,1,D,NaN,NaN,NaN
+NOR,27/04/1986,,Viking FK,Rosenborg BK,0,0,D,NaN,NaN,NaN
+NOR,27/04/1986,,Mjøndalen IF,Lillestrøm SK,2,0,H,NaN,NaN,NaN
+NOR,27/04/1986,,Strømmen IF,Vålerenga IF,1,3,A,NaN,NaN,NaN
+NOR,01/05/1986,,Kongsvinger IL,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,22/05/1986,,IK Start,Bryne FK,0,1,A,NaN,NaN,NaN
+NOR,03/05/1986,,Tromsø IL,Viking FK,2,0,H,NaN,NaN,NaN
+NOR,04/05/1986,,Bryne FK,Kongsvinger IL,4,1,H,NaN,NaN,NaN
+NOR,04/05/1986,,Lillestrøm SK,Hamarkameratene,0,2,A,NaN,NaN,NaN
+NOR,04/05/1986,,Molde FK,IK Start,0,4,A,NaN,NaN,NaN
+NOR,05/05/1986,,Rosenborg BK,Strømmen IF,3,0,H,NaN,NaN,NaN
+NOR,05/05/1986,,Vålerenga IF,Mjøndalen IF,0,1,A,NaN,NaN,NaN
+NOR,07/05/1986,,IK Start,Hamarkameratene,1,0,H,NaN,NaN,NaN
+NOR,07/05/1986,,Strømmen IF,Tromsø IL,1,2,A,NaN,NaN,NaN
+NOR,08/05/1986,,Kongsvinger IL,Molde FK,0,0,D,NaN,NaN,NaN
+NOR,08/05/1986,,Viking FK,Bryne FK,1,2,A,NaN,NaN,NaN
+NOR,08/05/1986,,Lillestrøm SK,Vålerenga IF,3,0,H,NaN,NaN,NaN
+NOR,08/05/1986,,Mjøndalen IF,Rosenborg BK,0,2,A,NaN,NaN,NaN
+NOR,11/05/1986,,Bryne FK,Strømmen IF,4,1,H,NaN,NaN,NaN
+NOR,11/05/1986,,Hamarkameratene,Kongsvinger IL,2,1,H,NaN,NaN,NaN
+NOR,11/05/1986,,Molde FK,Viking FK,2,0,H,NaN,NaN,NaN
+NOR,11/05/1986,,Rosenborg BK,Vålerenga IF,1,2,A,NaN,NaN,NaN
+NOR,11/05/1986,,IK Start,Lillestrøm SK,2,0,H,NaN,NaN,NaN
+NOR,11/05/1986,,Tromsø IL,Mjøndalen IF,1,2,A,NaN,NaN,NaN
+NOR,16/05/1986,,Kongsvinger IL,Lillestrøm SK,1,0,H,NaN,NaN,NaN
+NOR,16/05/1986,,Rosenborg BK,Tromsø IL,3,2,H,NaN,NaN,NaN
+NOR,16/05/1986,,Strømmen IF,Hamarkameratene,0,1,A,NaN,NaN,NaN
+NOR,16/05/1986,,Vålerenga IF,Bryne FK,0,0,D,NaN,NaN,NaN
+NOR,16/05/1986,,Viking FK,IK Start,1,2,A,NaN,NaN,NaN
+NOR,18/06/1986,,Mjøndalen IF,Molde FK,2,0,H,NaN,NaN,NaN
+NOR,19/05/1986,,Bryne FK,Mjøndalen IF,0,1,A,NaN,NaN,NaN
+NOR,19/05/1986,,Hamarkameratene,Viking FK,1,1,D,NaN,NaN,NaN
+NOR,19/05/1986,,Lillestrøm SK,Rosenborg BK,1,0,H,NaN,NaN,NaN
+NOR,19/05/1986,,Molde FK,Strømmen IF,1,4,A,NaN,NaN,NaN
+NOR,19/05/1986,,IK Start,Kongsvinger IL,0,1,A,NaN,NaN,NaN
+NOR,19/05/1986,,Tromsø IL,Vålerenga IF,1,1,D,NaN,NaN,NaN
+NOR,13/08/1986,,Mjøndalen IF,IK Start,3,4,A,NaN,NaN,NaN
+NOR,13/08/1986,,Rosenborg BK,Molde FK,1,1,D,NaN,NaN,NaN
+NOR,13/08/1986,,Strømmen IF,Kongsvinger IL,4,1,H,NaN,NaN,NaN
+NOR,13/08/1986,,Tromsø IL,Bryne FK,0,1,A,NaN,NaN,NaN
+NOR,13/08/1986,,Viking FK,Lillestrøm SK,0,3,A,NaN,NaN,NaN
+NOR,13/08/1986,,Vålerenga IF,Hamarkameratene,1,1,D,NaN,NaN,NaN
+NOR,31/05/1986,,Molde FK,Vålerenga IF,1,2,A,NaN,NaN,NaN
+NOR,01/06/1986,,Bryne FK,Rosenborg BK,3,1,H,NaN,NaN,NaN
+NOR,01/06/1986,,Hamarkameratene,Mjøndalen IF,3,2,H,NaN,NaN,NaN
+NOR,01/06/1986,,IK Start,Strømmen IF,2,1,H,NaN,NaN,NaN
+NOR,01/06/1986,,Kongsvinger IL,Viking FK,1,0,H,NaN,NaN,NaN
+NOR,01/06/1986,,Lillestrøm SK,Tromsø IL,2,0,H,NaN,NaN,NaN
+NOR,07/06/1986,,Strømmen IF,Viking FK,0,0,D,NaN,NaN,NaN
+NOR,07/06/1986,,Bryne FK,Lillestrøm SK,0,2,A,NaN,NaN,NaN
+NOR,07/06/1986,,Mjøndalen IF,Kongsvinger IL,4,0,H,NaN,NaN,NaN
+NOR,07/06/1986,,Rosenborg BK,Hamarkameratene,1,0,H,NaN,NaN,NaN
+NOR,07/06/1986,,Tromsø IL,Molde FK,0,2,A,NaN,NaN,NaN
+NOR,08/06/1986,,Vålerenga IF,IK Start,1,0,H,NaN,NaN,NaN
+NOR,14/06/1986,,Hamarkameratene,Tromsø IL,2,0,H,NaN,NaN,NaN
+NOR,14/06/1986,,Kongsvinger IL,Vålerenga IF,2,1,H,NaN,NaN,NaN
+NOR,14/06/1986,,Molde FK,Bryne FK,1,3,A,NaN,NaN,NaN
+NOR,14/06/1986,,Viking FK,Mjøndalen IF,1,1,D,NaN,NaN,NaN
+NOR,18/06/1986,,IK Start,Rosenborg BK,2,0,H,NaN,NaN,NaN
+NOR,19/06/1986,,Strømmen IF,Lillestrøm SK,1,2,A,NaN,NaN,NaN
+NOR,21/06/1986,,Tromsø IL,IK Start,0,0,D,NaN,NaN,NaN
+NOR,22/06/1986,,Bryne FK,Hamarkameratene,0,2,A,NaN,NaN,NaN
+NOR,22/06/1986,,Mjøndalen IF,Strømmen IF,3,1,H,NaN,NaN,NaN
+NOR,22/06/1986,,Vålerenga IF,Viking FK,1,1,D,NaN,NaN,NaN
+NOR,24/06/1986,,Rosenborg BK,Kongsvinger IL,1,3,A,NaN,NaN,NaN
+NOR,26/06/1986,,Lillestrøm SK,Molde FK,3,0,H,NaN,NaN,NaN
+NOR,03/08/1986,,Bryne FK,IK Start,1,0,H,NaN,NaN,NaN
+NOR,03/08/1986,,Lillestrøm SK,Mjøndalen IF,3,1,H,NaN,NaN,NaN
+NOR,03/08/1986,,Molde FK,Hamarkameratene,2,2,D,NaN,NaN,NaN
+NOR,03/08/1986,,Tromsø IL,Kongsvinger IL,3,2,H,NaN,NaN,NaN
+NOR,04/08/1986,,Rosenborg BK,Viking FK,4,1,H,NaN,NaN,NaN
+NOR,06/08/1986,,Vålerenga IF,Strømmen IF,3,1,H,NaN,NaN,NaN
+NOR,09/08/1986,,Viking FK,Tromsø IL,1,0,H,NaN,NaN,NaN
+NOR,10/08/1986,,Hamarkameratene,Lillestrøm SK,2,3,A,NaN,NaN,NaN
+NOR,10/08/1986,,Kongsvinger IL,Bryne FK,1,0,H,NaN,NaN,NaN
+NOR,10/08/1986,,Mjøndalen IF,Vålerenga IF,4,1,H,NaN,NaN,NaN
+NOR,10/08/1986,,IK Start,Molde FK,1,0,H,NaN,NaN,NaN
+NOR,10/08/1986,,Strømmen IF,Rosenborg BK,1,1,D,NaN,NaN,NaN
+NOR,17/08/1986,,Bryne FK,Viking FK,2,0,H,NaN,NaN,NaN
+NOR,17/08/1986,,Hamarkameratene,IK Start,2,2,D,NaN,NaN,NaN
+NOR,17/08/1986,,Molde FK,Kongsvinger IL,0,2,A,NaN,NaN,NaN
+NOR,17/08/1986,,Rosenborg BK,Mjøndalen IF,3,0,H,NaN,NaN,NaN
+NOR,17/08/1986,,Tromsø IL,Strømmen IF,1,1,D,NaN,NaN,NaN
+NOR,18/08/1986,,Vålerenga IF,Lillestrøm SK,0,1,A,NaN,NaN,NaN
+NOR,23/08/1986,,Strømmen IF,Bryne FK,3,4,A,NaN,NaN,NaN
+NOR,24/08/1986,,Kongsvinger IL,Hamarkameratene,2,1,H,NaN,NaN,NaN
+NOR,24/08/1986,,Lillestrøm SK,IK Start,3,1,H,NaN,NaN,NaN
+NOR,24/08/1986,,Viking FK,Molde FK,0,2,A,NaN,NaN,NaN
+NOR,24/08/1986,,Mjøndalen IF,Tromsø IL,2,0,H,NaN,NaN,NaN
+NOR,25/08/1986,,Vålerenga IF,Rosenborg BK,3,0,H,NaN,NaN,NaN
+NOR,30/08/1986,,Tromsø IL,Rosenborg BK,2,0,H,NaN,NaN,NaN
+NOR,31/08/1986,,Bryne FK,Vålerenga IF,0,1,A,NaN,NaN,NaN
+NOR,31/08/1986,,Hamarkameratene,Strømmen IF,1,0,H,NaN,NaN,NaN
+NOR,31/08/1986,,Lillestrøm SK,Kongsvinger IL,4,1,H,NaN,NaN,NaN
+NOR,31/08/1986,,Molde FK,Mjøndalen IF,2,2,D,NaN,NaN,NaN
+NOR,31/08/1986,,IK Start,Viking FK,2,2,D,NaN,NaN,NaN
+NOR,07/09/1986,,Viking FK,Hamarkameratene,6,4,H,NaN,NaN,NaN
+NOR,07/09/1986,,Vålerenga IF,Tromsø IL,0,1,A,NaN,NaN,NaN
+NOR,07/09/1986,,Kongsvinger IL,IK Start,0,0,D,NaN,NaN,NaN
+NOR,07/09/1986,,Mjøndalen IF,Bryne FK,4,2,H,NaN,NaN,NaN
+NOR,07/09/1986,,Rosenborg BK,Lillestrøm SK,1,1,D,NaN,NaN,NaN
+NOR,07/09/1986,,Strømmen IF,Molde FK,1,3,A,NaN,NaN,NaN
+NOR,14/09/1986,,Bryne FK,Tromsø IL,2,1,H,NaN,NaN,NaN
+NOR,14/09/1986,,Hamarkameratene,Vålerenga IF,3,5,A,NaN,NaN,NaN
+NOR,14/09/1986,,Kongsvinger IL,Strømmen IF,3,0,H,NaN,NaN,NaN
+NOR,14/09/1986,,Lillestrøm SK,Viking FK,3,1,H,NaN,NaN,NaN
+NOR,14/09/1986,,Molde FK,Rosenborg BK,1,0,H,NaN,NaN,NaN
+NOR,14/09/1986,,IK Start,Mjøndalen IF,0,0,D,NaN,NaN,NaN
+NOR,27/09/1986,,Rosenborg BK,Bryne FK,3,2,H,NaN,NaN,NaN
+NOR,28/09/1986,,Mjøndalen IF,Hamarkameratene,0,0,D,NaN,NaN,NaN
+NOR,28/09/1986,,Strømmen IF,IK Start,1,1,D,NaN,NaN,NaN
+NOR,28/09/1986,,Vålerenga IF,Molde FK,2,3,A,NaN,NaN,NaN
+NOR,28/09/1986,,Viking FK,Kongsvinger IL,1,1,D,NaN,NaN,NaN
+NOR,08/10/1986,,Tromsø IL,Lillestrøm SK,2,1,H,NaN,NaN,NaN
+NOR,05/10/1986,,Hamarkameratene,Rosenborg BK,1,1,D,NaN,NaN,NaN
+NOR,05/10/1986,,Kongsvinger IL,Mjøndalen IF,0,0,D,NaN,NaN,NaN
+NOR,05/10/1986,,Lillestrøm SK,Bryne FK,3,0,H,NaN,NaN,NaN
+NOR,05/10/1986,,Molde FK,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,05/10/1986,,IK Start,Vålerenga IF,1,2,A,NaN,NaN,NaN
+NOR,05/10/1986,,Viking FK,Strømmen IF,4,0,H,NaN,NaN,NaN
+NOR,12/10/1986,,Bryne FK,Molde FK,1,3,A,NaN,NaN,NaN
+NOR,12/10/1986,,Lillestrøm SK,Strømmen IF,1,0,H,NaN,NaN,NaN
+NOR,12/10/1986,,Mjøndalen IF,Viking FK,0,1,A,NaN,NaN,NaN
+NOR,12/10/1986,,Rosenborg BK,IK Start,1,0,H,NaN,NaN,NaN
+NOR,12/10/1986,,Tromsø IL,Hamarkameratene,1,1,D,NaN,NaN,NaN
+NOR,12/10/1986,,Vålerenga IF,Kongsvinger IL,0,1,A,NaN,NaN,NaN
+NOR,19/10/1986,,Hamarkameratene,Bryne FK,2,0,H,NaN,NaN,NaN
+NOR,19/10/1986,,Kongsvinger IL,Rosenborg BK,2,1,H,NaN,NaN,NaN
+NOR,19/10/1986,,Molde FK,Lillestrøm SK,0,1,A,NaN,NaN,NaN
+NOR,19/10/1986,,IK Start,Tromsø IL,6,2,H,NaN,NaN,NaN
+NOR,19/10/1986,,Strømmen IF,Mjøndalen IF,1,2,A,NaN,NaN,NaN
+NOR,19/10/1986,,Viking FK,Vålerenga IF,1,0,H,NaN,NaN,NaN

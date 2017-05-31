@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,19/08/1916,,Aberdeen FC,Partick Thistle,2,0,H,NaN,NaN,NaN
+SCO,19/08/1916,,Ayr United,Third Lanark,0,1,A,NaN,NaN,NaN
+SCO,19/08/1916,,Clyde FC,Hamilton Academical,1,1,D,NaN,NaN,NaN
+SCO,19/08/1916,,Falkirk FC,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,19/08/1916,,Greenock Morton FC,Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,19/08/1916,,Hibernian FC,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,19/08/1916,,Motherwell FC,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,19/08/1916,,Queen's Park FC,Dumbarton FC,1,0,H,NaN,NaN,NaN
+SCO,19/08/1916,,Rangers FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,19/08/1916,,St. Mirren FC,Celtic FC,1,5,A,NaN,NaN,NaN
+SCO,26/08/1916,,Airdrieonians FC (old),Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,26/08/1916,,Celtic FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,26/08/1916,,Dumbarton FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,26/08/1916,,Dundee FC,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,26/08/1916,,Hamilton Academical,Queen's Park FC,2,0,H,NaN,NaN,NaN
+SCO,26/08/1916,,Heart of Midlothian,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,26/08/1916,,Kilmarnock FC,Greenock Morton FC,3,2,H,NaN,NaN,NaN
+SCO,26/08/1916,,Partick Thistle,Ayr United,3,0,H,NaN,NaN,NaN
+SCO,26/08/1916,,Raith Rovers,Falkirk FC,0,6,A,NaN,NaN,NaN
+SCO,26/08/1916,,Third Lanark,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,02/09/1916,,Aberdeen FC,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,02/09/1916,,Airdrieonians FC (old),Heart of Midlothian,3,2,H,NaN,NaN,NaN
+SCO,02/09/1916,,Ayr United,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,02/09/1916,,Clyde FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,02/09/1916,,Falkirk FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,02/09/1916,,Greenock Morton FC,Partick Thistle,3,2,H,NaN,NaN,NaN
+SCO,02/09/1916,,Hibernian FC,Hamilton Academical,4,3,H,NaN,NaN,NaN
+SCO,02/09/1916,,Motherwell FC,Dundee FC,4,2,H,NaN,NaN,NaN
+SCO,02/09/1916,,Queen's Park FC,Raith Rovers,3,1,H,NaN,NaN,NaN
+SCO,02/09/1916,,Rangers FC,Dumbarton FC,6,0,H,NaN,NaN,NaN
+SCO,09/09/1916,,Celtic FC,Airdrieonians FC (old),3,1,H,NaN,NaN,NaN
+SCO,09/09/1916,,Dumbarton FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,09/09/1916,,Dundee FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,09/09/1916,,Hamilton Academical,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,09/09/1916,,Heart of Midlothian,Third Lanark,2,1,H,NaN,NaN,NaN
+SCO,09/09/1916,,Kilmarnock FC,Ayr United,1,2,A,NaN,NaN,NaN
+SCO,09/09/1916,,Raith Rovers,Greenock Morton FC,1,2,A,NaN,NaN,NaN
+SCO,09/09/1916,,St. Mirren FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,16/09/1916,,Aberdeen FC,Queen's Park FC,2,4,A,NaN,NaN,NaN
+SCO,16/09/1916,,Airdrieonians FC (old),Dumbarton FC,2,1,H,NaN,NaN,NaN
+SCO,16/09/1916,,Ayr United,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,16/09/1916,,Clyde FC,Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,16/09/1916,,Falkirk FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,16/09/1916,,Greenock Morton FC,St. Mirren FC,0,3,A,NaN,NaN,NaN
+SCO,16/09/1916,,Hibernian FC,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,16/09/1916,,Motherwell FC,Celtic FC,0,4,A,NaN,NaN,NaN
+SCO,16/09/1916,,Rangers FC,Kilmarnock FC,3,0,H,NaN,NaN,NaN
+SCO,16/09/1916,,Third Lanark,Hamilton Academical,3,1,H,NaN,NaN,NaN
+SCO,18/09/1916,,Heart of Midlothian,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,23/09/1916,,Aberdeen FC,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,23/09/1916,,Dumbarton FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,23/09/1916,,Dundee FC,Airdrieonians FC (old),2,2,D,NaN,NaN,NaN
+SCO,23/09/1916,,Hamilton Academical,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,23/09/1916,,Heart of Midlothian,Falkirk FC,1,6,A,NaN,NaN,NaN
+SCO,23/09/1916,,Kilmarnock FC,Hibernian FC,1,3,A,NaN,NaN,NaN
+SCO,23/09/1916,,Raith Rovers,Ayr United,1,3,A,NaN,NaN,NaN
+SCO,23/09/1916,,St. Mirren FC,Queen's Park FC,3,0,H,NaN,NaN,NaN
+SCO,30/09/1916,,Ayr United,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,30/09/1916,,Celtic FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,30/09/1916,,Falkirk FC,Dumbarton FC,2,3,A,NaN,NaN,NaN
+SCO,30/09/1916,,Greenock Morton FC,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,30/09/1916,,Hibernian FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,30/09/1916,,Motherwell FC,Kilmarnock FC,0,1,A,NaN,NaN,NaN
+SCO,30/09/1916,,Partick Thistle,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,30/09/1916,,Queen's Park FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,30/09/1916,,Raith Rovers,Hamilton Academical,0,1,A,NaN,NaN,NaN
+SCO,30/09/1916,,Rangers FC,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,07/10/1916,,Aberdeen FC,Airdrieonians FC (old),1,2,A,NaN,NaN,NaN
+SCO,07/10/1916,,Ayr United,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,07/10/1916,,Dumbarton FC,Greenock Morton FC,1,4,A,NaN,NaN,NaN
+SCO,07/10/1916,,Dundee FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,07/10/1916,,Heart of Midlothian,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,07/10/1916,,Motherwell FC,Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,07/10/1916,,Partick Thistle,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,07/10/1916,,St. Mirren FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,07/10/1916,,Third Lanark,Queen's Park FC,4,1,H,NaN,NaN,NaN
+SCO,14/10/1916,,Airdrieonians FC (old),St. Mirren FC,7,0,H,NaN,NaN,NaN
+SCO,14/10/1916,,Clyde FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,14/10/1916,,Falkirk FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,14/10/1916,,Greenock Morton FC,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,14/10/1916,,Hibernian FC,Ayr United,1,4,A,NaN,NaN,NaN
+SCO,14/10/1916,,Kilmarnock FC,Heart of Midlothian,3,0,H,NaN,NaN,NaN
+SCO,14/10/1916,,Partick Thistle,Hamilton Academical,5,0,H,NaN,NaN,NaN
+SCO,14/10/1916,,Queen's Park FC,Third Lanark,3,4,A,NaN,NaN,NaN
+SCO,14/10/1916,,Raith Rovers,Dumbarton FC,0,3,A,NaN,NaN,NaN
+SCO,14/10/1916,,Rangers FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,21/10/1916,,Aberdeen FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,21/10/1916,,Ayr United,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,21/10/1916,,Celtic FC,Greenock Morton FC,0,0,D,NaN,NaN,NaN
+SCO,21/10/1916,,Dundee FC,Hamilton Academical,3,1,H,NaN,NaN,NaN
+SCO,21/10/1916,,Falkirk FC,Hibernian FC,0,1,A,NaN,NaN,NaN
+SCO,21/10/1916,,Heart of Midlothian,Clyde FC,0,3,A,NaN,NaN,NaN
+SCO,21/10/1916,,Motherwell FC,Queen's Park FC,4,1,H,NaN,NaN,NaN
+SCO,21/10/1916,,Partick Thistle,Dumbarton FC,6,0,H,NaN,NaN,NaN
+SCO,21/10/1916,,St. Mirren FC,Raith Rovers,0,0,D,NaN,NaN,NaN
+SCO,21/10/1916,,Third Lanark,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,28/10/1916,,Airdrieonians FC (old),Third Lanark,1,0,H,NaN,NaN,NaN
+SCO,28/10/1916,,Celtic FC,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,28/10/1916,,Dumbarton FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,28/10/1916,,Greenock Morton FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,28/10/1916,,Hamilton Academical,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,28/10/1916,,Hibernian FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,28/10/1916,,Kilmarnock FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,28/10/1916,,Partick Thistle,Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,28/10/1916,,Queen's Park FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,28/10/1916,,St. Mirren FC,Ayr United,0,0,D,NaN,NaN,NaN
+SCO,04/11/1916,,Aberdeen FC,Hamilton Academical,0,1,A,NaN,NaN,NaN
+SCO,04/11/1916,,Ayr United,Dumbarton FC,3,1,H,NaN,NaN,NaN
+SCO,04/11/1916,,Clyde FC,Queen's Park FC,1,1,D,NaN,NaN,NaN
+SCO,04/11/1916,,Dundee FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,04/11/1916,,Falkirk FC,Airdrieonians FC (old),0,0,D,NaN,NaN,NaN
+SCO,04/11/1916,,Heart of Midlothian,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,04/11/1916,,Motherwell FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,04/11/1916,,Raith Rovers,Kilmarnock FC,0,4,A,NaN,NaN,NaN
+SCO,04/11/1916,,Rangers FC,Greenock Morton FC,0,1,A,NaN,NaN,NaN
+SCO,04/11/1916,,Third Lanark,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,11/11/1916,,Airdrieonians FC (old),Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,11/11/1916,,Clyde FC,Ayr United,1,4,A,NaN,NaN,NaN
+SCO,11/11/1916,,Dumbarton FC,Dundee FC,4,3,H,NaN,NaN,NaN
+SCO,11/11/1916,,Greenock Morton FC,Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,11/11/1916,,Hibernian FC,Rangers FC,0,0,D,NaN,NaN,NaN
+SCO,11/11/1916,,Kilmarnock FC,Third Lanark,2,1,H,NaN,NaN,NaN
+SCO,11/11/1916,,Motherwell FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,11/11/1916,,Queen's Park FC,Celtic FC,1,3,A,NaN,NaN,NaN
+SCO,11/11/1916,,St. Mirren FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,18/11/1916,,Aberdeen FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,18/11/1916,,Celtic FC,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,18/11/1916,,Dundee FC,St. Mirren FC,0,2,A,NaN,NaN,NaN
+SCO,18/11/1916,,Falkirk FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,18/11/1916,,Greenock Morton FC,Ayr United,2,0,H,NaN,NaN,NaN
+SCO,18/11/1916,,Hamilton Academical,Dumbarton FC,3,1,H,NaN,NaN,NaN
+SCO,18/11/1916,,Hibernian FC,Raith Rovers,3,3,D,NaN,NaN,NaN
+SCO,18/11/1916,,Kilmarnock FC,Airdrieonians FC (old),1,3,A,NaN,NaN,NaN
+SCO,18/11/1916,,Rangers FC,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,25/11/1916,,Airdrieonians FC (old),Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,25/11/1916,,Ayr United,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,25/11/1916,,Celtic FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,25/11/1916,,Dumbarton FC,Kilmarnock FC,1,1,D,NaN,NaN,NaN
+SCO,25/11/1916,,Heart of Midlothian,Queen's Park FC,2,0,H,NaN,NaN,NaN
+SCO,25/11/1916,,Motherwell FC,Clyde FC,3,3,D,NaN,NaN,NaN
+SCO,25/11/1916,,Partick Thistle,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,25/11/1916,,Raith Rovers,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,25/11/1916,,St. Mirren FC,Falkirk FC,5,0,H,NaN,NaN,NaN
+SCO,25/11/1916,,Third Lanark,Greenock Morton FC,0,0,D,NaN,NaN,NaN
+SCO,02/12/1916,,Aberdeen FC,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,02/12/1916,,Ayr United,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,02/12/1916,,Clyde FC,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,02/12/1916,,Dundee FC,Third Lanark,0,1,A,NaN,NaN,NaN
+SCO,02/12/1916,,Greenock Morton FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,02/12/1916,,Hamilton Academical,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,02/12/1916,,Heart of Midlothian,Dumbarton FC,0,1,A,NaN,NaN,NaN
+SCO,02/12/1916,,Queen's Park FC,Kilmarnock FC,0,1,A,NaN,NaN,NaN
+SCO,02/12/1916,,Raith Rovers,Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,02/12/1916,,Rangers FC,Falkirk FC,3,1,H,NaN,NaN,NaN
+SCO,09/12/1916,,Airdrieonians FC (old),Rangers FC,2,0,H,NaN,NaN,NaN
+SCO,09/12/1916,,Celtic FC,Ayr United,5,0,H,NaN,NaN,NaN
+SCO,09/12/1916,,Dumbarton FC,Third Lanark,2,3,A,NaN,NaN,NaN
+SCO,09/12/1916,,Dundee FC,Raith Rovers,6,2,H,NaN,NaN,NaN
+SCO,09/12/1916,,Falkirk FC,Clyde FC,3,3,D,NaN,NaN,NaN
+SCO,09/12/1916,,Hibernian FC,Aberdeen FC,3,3,D,NaN,NaN,NaN
+SCO,09/12/1916,,Kilmarnock FC,Hamilton Academical,4,0,H,NaN,NaN,NaN
+SCO,09/12/1916,,Motherwell FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,09/12/1916,,Partick Thistle,St. Mirren FC,0,1,A,NaN,NaN,NaN
+SCO,09/12/1916,,Queen's Park FC,Greenock Morton FC,3,4,A,NaN,NaN,NaN
+SCO,16/12/1916,,Aberdeen FC,Falkirk FC,0,1,A,NaN,NaN,NaN
+SCO,16/12/1916,,Ayr United,Kilmarnock FC,0,2,A,NaN,NaN,NaN
+SCO,16/12/1916,,Clyde FC,Greenock Morton FC,1,0,H,NaN,NaN,NaN
+SCO,16/12/1916,,Dumbarton FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,16/12/1916,,Hamilton Academical,Celtic FC,0,4,A,NaN,NaN,NaN
+SCO,16/12/1916,,Heart of Midlothian,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,16/12/1916,,Raith Rovers,Queen's Park FC,2,0,H,NaN,NaN,NaN
+SCO,16/12/1916,,Rangers FC,Hibernian FC,5,1,H,NaN,NaN,NaN
+SCO,16/12/1916,,St. Mirren FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,16/12/1916,,Third Lanark,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,23/12/1916,,Aberdeen FC,Third Lanark,0,1,A,NaN,NaN,NaN
+SCO,23/12/1916,,Airdrieonians FC (old),Dundee FC,2,3,A,NaN,NaN,NaN
+SCO,23/12/1916,,Clyde FC,Dumbarton FC,2,2,D,NaN,NaN,NaN
+SCO,23/12/1916,,Falkirk FC,St. Mirren FC,0,2,A,NaN,NaN,NaN
+SCO,23/12/1916,,Greenock Morton FC,Hamilton Academical,3,0,H,NaN,NaN,NaN
+SCO,23/12/1916,,Heart of Midlothian,Ayr United,1,2,A,NaN,NaN,NaN
+SCO,23/12/1916,,Kilmarnock FC,Raith Rovers,3,0,H,NaN,NaN,NaN
+SCO,23/12/1916,,Motherwell FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,23/12/1916,,Partick Thistle,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,23/12/1916,,Queen's Park FC,Hibernian FC,4,1,H,NaN,NaN,NaN
+SCO,30/12/1916,,Ayr United,Hamilton Academical,1,1,D,NaN,NaN,NaN
+SCO,30/12/1916,,Celtic FC,Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,30/12/1916,,Dumbarton FC,Queen's Park FC,0,2,A,NaN,NaN,NaN
+SCO,30/12/1916,,Dundee FC,Kilmarnock FC,0,2,A,NaN,NaN,NaN
+SCO,30/12/1916,,Hibernian FC,Greenock Morton FC,2,4,A,NaN,NaN,NaN
+SCO,30/12/1916,,Motherwell FC,Partick Thistle,2,3,A,NaN,NaN,NaN
+SCO,30/12/1916,,Raith Rovers,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,30/12/1916,,Rangers FC,Airdrieonians FC (old),3,0,H,NaN,NaN,NaN
+SCO,30/12/1916,,St. Mirren FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,30/12/1916,,Third Lanark,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,01/01/1917,,Aberdeen FC,Dundee FC,5,1,H,NaN,NaN,NaN
+SCO,01/01/1917,,Airdrieonians FC (old),Greenock Morton FC,2,1,H,NaN,NaN,NaN
+SCO,01/01/1917,,Clyde FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,01/01/1917,,Dumbarton FC,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,01/01/1917,,Hamilton Academical,Motherwell FC,2,4,A,NaN,NaN,NaN
+SCO,01/01/1917,,Kilmarnock FC,St. Mirren FC,1,4,A,NaN,NaN,NaN
+SCO,01/01/1917,,Partick Thistle,Third Lanark,1,0,H,NaN,NaN,NaN
+SCO,01/01/1917,,Queen's Park FC,Ayr United,3,2,H,NaN,NaN,NaN
+SCO,01/01/1917,,Rangers FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,02/01/1917,,Ayr United,Falkirk FC,2,2,D,NaN,NaN,NaN
+SCO,02/01/1917,,Celtic FC,Clyde FC,0,0,D,NaN,NaN,NaN
+SCO,02/01/1917,,Dundee FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,02/01/1917,,Greenock Morton FC,Kilmarnock FC,2,1,H,NaN,NaN,NaN
+SCO,02/01/1917,,Heart of Midlothian,Hamilton Academical,3,1,H,NaN,NaN,NaN
+SCO,02/01/1917,,Motherwell FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,02/01/1917,,Partick Thistle,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,02/01/1917,,Raith Rovers,Aberdeen FC,3,0,H,NaN,NaN,NaN
+SCO,02/01/1917,,Third Lanark,Dumbarton FC,1,1,D,NaN,NaN,NaN
+SCO,06/01/1917,,Aberdeen FC,Ayr United,1,0,H,NaN,NaN,NaN
+SCO,06/01/1917,,Airdrieonians FC (old),Queen's Park FC,3,0,H,NaN,NaN,NaN
+SCO,06/01/1917,,Celtic FC,Motherwell FC,1,0,H,NaN,NaN,NaN
+SCO,06/01/1917,,Dumbarton FC,Clyde FC,5,1,H,NaN,NaN,NaN
+SCO,06/01/1917,,Falkirk FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,06/01/1917,,Hamilton Academical,Greenock Morton FC,0,1,A,NaN,NaN,NaN
+SCO,06/01/1917,,Hibernian FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,06/01/1917,,Kilmarnock FC,Partick Thistle,0,1,A,NaN,NaN,NaN
+SCO,06/01/1917,,Rangers FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,06/01/1917,,Third Lanark,Raith Rovers,0,1,A,NaN,NaN,NaN
+SCO,13/01/1917,,Ayr United,Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,13/01/1917,,Clyde FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,13/01/1917,,Greenock Morton FC,Third Lanark,3,0,H,NaN,NaN,NaN
+SCO,13/01/1917,,Hamilton Academical,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,13/01/1917,,Heart of Midlothian,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,13/01/1917,,Partick Thistle,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,13/01/1917,,Queen's Park FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,13/01/1917,,Raith Rovers,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,13/01/1917,,St. Mirren FC,Kilmarnock FC,2,1,H,NaN,NaN,NaN
+SCO,20/01/1917,,Aberdeen FC,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,20/01/1917,,Celtic FC,Dumbarton FC,1,1,D,NaN,NaN,NaN
+SCO,20/01/1917,,Dundee FC,Ayr United,2,1,H,NaN,NaN,NaN
+SCO,20/01/1917,,Falkirk FC,Hamilton Academical,4,0,H,NaN,NaN,NaN
+SCO,20/01/1917,,Greenock Morton FC,Queen's Park FC,4,2,H,NaN,NaN,NaN
+SCO,20/01/1917,,Hibernian FC,Kilmarnock FC,2,1,H,NaN,NaN,NaN
+SCO,20/01/1917,,Motherwell FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,20/01/1917,,Raith Rovers,Heart of Midlothian,1,4,A,NaN,NaN,NaN
+SCO,20/01/1917,,Rangers FC,Partick Thistle,3,0,H,NaN,NaN,NaN
+SCO,20/01/1917,,Third Lanark,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,27/01/1917,,Clyde FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,27/01/1917,,Dundee FC,Heart of Midlothian,2,3,A,NaN,NaN,NaN
+SCO,27/01/1917,,Falkirk FC,Queen's Park FC,1,2,A,NaN,NaN,NaN
+SCO,27/01/1917,,Greenock Morton FC,Airdrieonians FC (old),2,1,H,NaN,NaN,NaN
+SCO,27/01/1917,,Hibernian FC,Dumbarton FC,3,1,H,NaN,NaN,NaN
+SCO,27/01/1917,,Kilmarnock FC,Aberdeen FC,7,0,H,NaN,NaN,NaN
+SCO,27/01/1917,,Motherwell FC,Ayr United,2,1,H,NaN,NaN,NaN
+SCO,27/01/1917,,Raith Rovers,St. Mirren FC,1,1,D,NaN,NaN,NaN
+SCO,27/01/1917,,Rangers FC,Hamilton Academical,2,0,H,NaN,NaN,NaN
+SCO,27/01/1917,,Third Lanark,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,03/02/1917,,Aberdeen FC,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,03/02/1917,,Airdrieonians FC (old),Clyde FC,3,0,H,NaN,NaN,NaN
+SCO,03/02/1917,,Ayr United,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,03/02/1917,,Celtic FC,Raith Rovers,5,0,H,NaN,NaN,NaN
+SCO,03/02/1917,,Dumbarton FC,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,03/02/1917,,Hamilton Academical,Kilmarnock FC,3,0,H,NaN,NaN,NaN
+SCO,03/02/1917,,Hibernian FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,03/02/1917,,Partick Thistle,Greenock Morton FC,0,0,D,NaN,NaN,NaN
+SCO,03/02/1917,,Queen's Park FC,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,03/02/1917,,St. Mirren FC,Third Lanark,2,0,H,NaN,NaN,NaN
+SCO,10/02/1917,,Clyde FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,10/02/1917,,Dundee FC,Partick Thistle,5,1,H,NaN,NaN,NaN
+SCO,10/02/1917,,Greenock Morton FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,10/02/1917,,Heart of Midlothian,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,10/02/1917,,Kilmarnock FC,Queen's Park FC,4,2,H,NaN,NaN,NaN
+SCO,10/02/1917,,Motherwell FC,Dumbarton FC,3,0,H,NaN,NaN,NaN
+SCO,10/02/1917,,Raith Rovers,Airdrieonians FC (old),0,2,A,NaN,NaN,NaN
+SCO,10/02/1917,,Rangers FC,Ayr United,1,0,H,NaN,NaN,NaN
+SCO,10/02/1917,,St. Mirren FC,Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,10/02/1917,,Third Lanark,Falkirk FC,5,4,H,NaN,NaN,NaN
+SCO,17/02/1917,,Aberdeen FC,Raith Rovers,1,2,A,NaN,NaN,NaN
+SCO,17/02/1917,,Airdrieonians FC (old),Kilmarnock FC,3,2,H,NaN,NaN,NaN
+SCO,17/02/1917,,Ayr United,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,17/02/1917,,Celtic FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,17/02/1917,,Dumbarton FC,Rangers FC,0,3,A,NaN,NaN,NaN
+SCO,17/02/1917,,Falkirk FC,Greenock Morton FC,2,1,H,NaN,NaN,NaN
+SCO,17/02/1917,,Hamilton Academical,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,17/02/1917,,Hibernian FC,Motherwell FC,2,3,A,NaN,NaN,NaN
+SCO,17/02/1917,,Partick Thistle,Heart of Midlothian,0,0,D,NaN,NaN,NaN
+SCO,17/02/1917,,Queen's Park FC,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,24/02/1917,,Airdrieonians FC (old),Aberdeen FC,3,1,H,NaN,NaN,NaN
+SCO,24/02/1917,,Clyde FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,24/02/1917,,Dumbarton FC,Ayr United,3,1,H,NaN,NaN,NaN
+SCO,24/02/1917,,Dundee FC,Greenock Morton FC,3,1,H,NaN,NaN,NaN
+SCO,24/02/1917,,Falkirk FC,Raith Rovers,1,1,D,NaN,NaN,NaN
+SCO,24/02/1917,,Hamilton Academical,Hibernian FC,4,1,H,NaN,NaN,NaN
+SCO,24/02/1917,,Heart of Midlothian,Motherwell FC,1,3,A,NaN,NaN,NaN
+SCO,24/02/1917,,Kilmarnock FC,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,24/02/1917,,Queen's Park FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,24/02/1917,,St. Mirren FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,03/03/1917,,Airdrieonians FC (old),Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,03/03/1917,,Ayr United,Greenock Morton FC,0,3,A,NaN,NaN,NaN
+SCO,03/03/1917,,Celtic FC,Queen's Park FC,3,2,H,NaN,NaN,NaN
+SCO,03/03/1917,,Dumbarton FC,Hamilton Academical,0,0,D,NaN,NaN,NaN
+SCO,03/03/1917,,Heart of Midlothian,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,03/03/1917,,Kilmarnock FC,Clyde FC,2,0,H,NaN,NaN,NaN
+SCO,03/03/1917,,Motherwell FC,Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,03/03/1917,,Raith Rovers,Dundee FC,3,2,H,NaN,NaN,NaN
+SCO,03/03/1917,,Rangers FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,03/03/1917,,Third Lanark,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,10/03/1917,,Aberdeen FC,Dumbarton FC,2,4,A,NaN,NaN,NaN
+SCO,10/03/1917,,Celtic FC,Hamilton Academical,6,1,H,NaN,NaN,NaN
+SCO,10/03/1917,,Falkirk FC,Ayr United,1,2,A,NaN,NaN,NaN
+SCO,10/03/1917,,Greenock Morton FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,10/03/1917,,Heart of Midlothian,Airdrieonians FC (old),1,4,A,NaN,NaN,NaN
+SCO,10/03/1917,,Kilmarnock FC,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,10/03/1917,,Partick Thistle,Hibernian FC,0,3,A,NaN,NaN,NaN
+SCO,10/03/1917,,Queen's Park FC,Clyde FC,2,2,D,NaN,NaN,NaN
+SCO,10/03/1917,,Raith Rovers,Third Lanark,0,1,A,NaN,NaN,NaN
+SCO,10/03/1917,,St. Mirren FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,17/03/1917,,Airdrieonians FC (old),Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,17/03/1917,,Ayr United,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,17/03/1917,,Clyde FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,17/03/1917,,Dundee FC,Dumbarton FC,4,1,H,NaN,NaN,NaN
+SCO,17/03/1917,,Falkirk FC,Rangers FC,0,2,A,NaN,NaN,NaN
+SCO,17/03/1917,,Greenock Morton FC,Raith Rovers,7,0,H,NaN,NaN,NaN
+SCO,17/03/1917,,Hamilton Academical,Aberdeen FC,4,1,H,NaN,NaN,NaN
+SCO,17/03/1917,,Hibernian FC,Queen's Park FC,5,1,H,NaN,NaN,NaN
+SCO,17/03/1917,,Partick Thistle,Motherwell FC,1,1,D,NaN,NaN,NaN
+SCO,17/03/1917,,Third Lanark,Kilmarnock FC,3,0,H,NaN,NaN,NaN
+SCO,24/03/1917,,Aberdeen FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,24/03/1917,,Clyde FC,Dundee FC,2,0,H,NaN,NaN,NaN
+SCO,24/03/1917,,Falkirk FC,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,24/03/1917,,Hamilton Academical,Ayr United,2,1,H,NaN,NaN,NaN
+SCO,24/03/1917,,Hibernian FC,Partick Thistle,1,0,H,NaN,NaN,NaN
+SCO,24/03/1917,,Kilmarnock FC,Dumbarton FC,0,0,D,NaN,NaN,NaN
+SCO,24/03/1917,,Motherwell FC,Third Lanark,0,2,A,NaN,NaN,NaN
+SCO,24/03/1917,,Queen's Park FC,Airdrieonians FC (old),0,5,A,NaN,NaN,NaN
+SCO,24/03/1917,,Rangers FC,Raith Rovers,4,3,H,NaN,NaN,NaN
+SCO,24/03/1917,,St. Mirren FC,Greenock Morton FC,0,0,D,NaN,NaN,NaN
+SCO,31/03/1917,,Airdrieonians FC (old),Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Celtic FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,31/03/1917,,Dumbarton FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,31/03/1917,,Dundee FC,Queen's Park FC,2,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Hamilton Academical,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Heart of Midlothian,Greenock Morton FC,4,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Kilmarnock FC,Rangers FC,4,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Partick Thistle,Aberdeen FC,4,0,H,NaN,NaN,NaN
+SCO,31/03/1917,,Raith Rovers,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,31/03/1917,,Third Lanark,Ayr United,4,3,H,NaN,NaN,NaN
+SCO,07/04/1917,,Ayr United,Queen's Park FC,1,1,D,NaN,NaN,NaN
+SCO,07/04/1917,,Clyde FC,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,07/04/1917,,Dumbarton FC,Celtic FC,1,3,A,NaN,NaN,NaN
+SCO,07/04/1917,,Falkirk FC,Aberdeen FC,4,2,H,NaN,NaN,NaN
+SCO,07/04/1917,,Hamilton Academical,Dundee FC,2,4,A,NaN,NaN,NaN
+SCO,07/04/1917,,Heart of Midlothian,Kilmarnock FC,0,0,D,NaN,NaN,NaN
+SCO,07/04/1917,,Rangers FC,Third Lanark,0,2,A,NaN,NaN,NaN
+SCO,07/04/1917,,St. Mirren FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,09/04/1917,,Celtic FC,Third Lanark,2,0,H,NaN,NaN,NaN
+SCO,09/04/1917,,Partick Thistle,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,09/04/1917,,Queen's Park FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,14/04/1917,,Airdrieonians FC (old),Ayr United,1,0,H,NaN,NaN,NaN
+SCO,14/04/1917,,Clyde FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,14/04/1917,,Dundee FC,Motherwell FC,0,2,A,NaN,NaN,NaN
+SCO,14/04/1917,,Greenock Morton FC,Dumbarton FC,3,1,H,NaN,NaN,NaN
+SCO,14/04/1917,,Hibernian FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,14/04/1917,,Kilmarnock FC,Falkirk FC,4,1,H,NaN,NaN,NaN
+SCO,14/04/1917,,Queen's Park FC,Hamilton Academical,4,2,H,NaN,NaN,NaN
+SCO,14/04/1917,,Raith Rovers,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,14/04/1917,,Third Lanark,Clyde FC,1,0,H,NaN,NaN,NaN
+SCO,16/04/1917,,Hibernian FC,Heart of Midlothian,0,2,A,NaN,NaN,NaN
+SCO,21/04/1917,,Aberdeen FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,21/04/1917,,Ayr United,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,21/04/1917,,Celtic FC,Kilmarnock FC,0,2,A,NaN,NaN,NaN
+SCO,21/04/1917,,Dumbarton FC,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,21/04/1917,,Hamilton Academical,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,21/04/1917,,Motherwell FC,Greenock Morton FC,0,2,A,NaN,NaN,NaN
+SCO,21/04/1917,,Partick Thistle,Queen's Park FC,0,2,A,NaN,NaN,NaN
+SCO,21/04/1917,,Rangers FC,Queen's Park FC,1,0,H,NaN,NaN,NaN
+SCO,21/04/1917,,St. Mirren FC,Clyde FC,0,1,A,NaN,NaN,NaN
+SCO,21/04/1917,,Third Lanark,Dundee FC,0,0,D,NaN,NaN,NaN
+SCO,28/04/1917,,Airdrieonians FC (old),Falkirk FC,1,0,H,NaN,NaN,NaN
+SCO,28/04/1917,,Clyde FC,Celtic FC,0,5,A,NaN,NaN,NaN
+SCO,28/04/1917,,Dundee FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,28/04/1917,,Greenock Morton FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,28/04/1917,,Hamilton Academical,Raith Rovers,3,1,H,NaN,NaN,NaN
+SCO,28/04/1917,,Queen's Park FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,28/04/1917,,St. Mirren FC,Dumbarton FC,0,0,D,NaN,NaN,NaN
+SCO,28/04/1917,,Third Lanark,Partick Thistle,2,0,H,NaN,NaN,NaN

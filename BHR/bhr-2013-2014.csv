@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BHR,20/09/2013,15:10,Riffa SC,Al Hala,0,0,D,0,0,D
+BHR,20/09/2013,15:10,Al Najma,Manama Club,1,1,D,1,1,D
+BHR,20/09/2013,17:30,Al Shabab,Al Hidd,2,2,D,0,1,A
+BHR,21/09/2013,15:10,Busaiteen,Sitra Club,3,1,H,2,0,H
+BHR,21/09/2013,17:30,Al Muharraq,Malkiya Club,2,0,H,1,0,H
+BHR,27/09/2013,15:00,Sitra Club,Al Shabab,1,1,D,1,0,H
+BHR,27/09/2013,15:00,Al Hala,Al Muharraq,2,4,A,2,2,D
+BHR,27/09/2013,17:30,Manama Club,Riffa SC,0,1,A,0,1,A
+BHR,28/09/2013,15:00,Al Hidd,Al Najma,4,2,H,3,0,H
+BHR,28/09/2013,17:30,Malkiya Club,Busaiteen,0,1,A,0,0,D
+BHR,20/10/2013,15:45,Malkiya Club,Al Hala,1,1,D,NaN,NaN,NaN
+BHR,20/10/2013,15:45,Riffa SC,Al Hidd,0,0,D,NaN,NaN,NaN
+BHR,20/10/2013,18:00,Al Najma,Sitra Club,0,3,A,NaN,NaN,NaN
+BHR,21/10/2013,18:00,Busaiteen,Al Shabab,1,1,D,NaN,NaN,NaN
+BHR,23/10/2013,15:45,Al Muharraq,Manama Club,1,1,D,NaN,NaN,NaN
+BHR,25/10/2013,14:30,Sitra Club,Riffa SC,1,3,A,NaN,NaN,NaN
+BHR,25/10/2013,16:45,Al Hala,Busaiteen,2,3,A,NaN,NaN,NaN
+BHR,27/10/2013,14:30,Manama Club,Malkiya Club,0,1,A,NaN,NaN,NaN
+BHR,28/10/2013,14:30,Al Shabab,Al Najma,2,0,H,NaN,NaN,NaN
+BHR,28/10/2013,16:45,Al Hidd,Al Muharraq,2,0,H,NaN,NaN,NaN
+BHR,01/11/2013,13:30,Riffa SC,Al Shabab,1,1,D,NaN,NaN,NaN
+BHR,01/11/2013,13:30,Al Hala,Manama Club,1,1,D,NaN,NaN,NaN
+BHR,01/11/2013,15:45,Malkiya Club,Al Hidd,1,1,D,NaN,NaN,NaN
+BHR,02/11/2013,13:30,Busaiteen,Al Najma,0,1,A,NaN,NaN,NaN
+BHR,02/11/2013,16:00,Al Muharraq,Sitra Club,2,0,H,NaN,NaN,NaN
+BHR,23/11/2013,13:15,Al Najma,Riffa SC,0,1,A,NaN,NaN,NaN
+BHR,23/11/2013,15:30,Al Hidd,Al Hala,0,3,A,NaN,NaN,NaN
+BHR,24/11/2013,14:30,Al Muharraq,Al Shabab,0,0,D,NaN,NaN,NaN
+BHR,24/11/2013,16:45,Manama Club,Busaiteen,1,0,H,NaN,NaN,NaN
+BHR,25/11/2013,15:00,Sitra Club,Malkiya Club,1,2,A,NaN,NaN,NaN
+BHR,29/11/2013,13:15,Al Najma,Al Muharraq,1,1,D,NaN,NaN,NaN
+BHR,29/11/2013,13:15,Busaiteen,Riffa SC,0,1,A,NaN,NaN,NaN
+BHR,29/11/2013,15:30,Al Hidd,Manama Club,2,2,D,NaN,NaN,NaN
+BHR,30/11/2013,13:15,Al Hala,Sitra Club,4,1,H,NaN,NaN,NaN
+BHR,30/11/2013,15:30,Malkiya Club,Al Shabab,0,3,A,NaN,NaN,NaN
+BHR,05/12/2013,14:30,Manama Club,Sitra Club,2,0,H,NaN,NaN,NaN
+BHR,05/12/2013,16:45,Al Shabab,Al Hala,0,0,D,NaN,NaN,NaN
+BHR,06/12/2013,13:15,Busaiteen,Al Hidd,1,1,D,NaN,NaN,NaN
+BHR,06/12/2013,14:30,Al Najma,Malkiya Club,1,1,D,NaN,NaN,NaN
+BHR,06/12/2013,15:30,Riffa SC,Al Muharraq,1,0,H,NaN,NaN,NaN
+BHR,11/12/2013,14:30,Malkiya Club,Riffa SC,1,2,A,NaN,NaN,NaN
+BHR,11/12/2013,16:45,Al Muharraq,Busaiteen,3,2,H,NaN,NaN,NaN
+BHR,12/12/2013,14:30,Sitra Club,Al Hidd,1,2,A,NaN,NaN,NaN
+BHR,12/12/2013,16:45,Al Shabab,Manama Club,0,4,A,NaN,NaN,NaN
+BHR,13/12/2013,14:30,Al Hala,Al Najma,0,1,A,NaN,NaN,NaN
+BHR,14/01/2014,15:00,Manama Club,Al Najma,2,1,H,NaN,NaN,NaN
+BHR,14/01/2014,15:00,Al Hidd,Al Shabab,2,1,H,NaN,NaN,NaN
+BHR,14/01/2014,15:00,Al Hala,Riffa SC,0,0,D,NaN,NaN,NaN
+BHR,15/01/2014,15:00,Sitra Club,Busaiteen,1,4,A,NaN,NaN,NaN
+BHR,15/01/2014,15:00,Malkiya Club,Al Muharraq,0,0,D,NaN,NaN,NaN
+BHR,19/01/2014,15:00,Al Najma,Al Hidd,0,4,A,NaN,NaN,NaN
+BHR,30/01/2014,15:00,Al Muharraq,Al Hala,0,0,D,NaN,NaN,NaN
+BHR,30/01/2014,15:00,Busaiteen,Malkiya Club,2,0,H,NaN,NaN,NaN
+BHR,31/01/2014,13:45,Riffa SC,Manama Club,0,2,A,NaN,NaN,NaN
+BHR,31/01/2014,16:00,Al Shabab,Sitra Club,0,0,D,NaN,NaN,NaN
+BHR,07/02/2014,13:50,Sitra Club,Al Najma,0,0,D,NaN,NaN,NaN
+BHR,07/02/2014,16:05,Al Hala,Malkiya Club,1,1,D,NaN,NaN,NaN
+BHR,09/02/2014,15:00,Al Shabab,Busaiteen,2,3,A,NaN,NaN,NaN
+BHR,09/02/2014,15:00,Manama Club,Al Muharraq,0,1,A,NaN,NaN,NaN
+BHR,25/03/2014,15:30,Al Hidd,Riffa SC,0,0,D,0,0,D
+BHR,14/02/2014,13:55,Al Najma,Al Shabab,1,1,D,NaN,NaN,NaN
+BHR,14/02/2014,15:00,Riffa SC,Sitra Club,6,1,H,NaN,NaN,NaN
+BHR,14/02/2014,16:10,Malkiya Club,Manama Club,2,3,A,NaN,NaN,NaN
+BHR,15/02/2014,15:00,Al Muharraq,Al Hidd,0,0,D,NaN,NaN,NaN
+BHR,15/02/2014,15:00,Busaiteen,Al Hala,0,0,D,NaN,NaN,NaN
+BHR,09/03/2014,15:30,Manama Club,Al Hala,2,1,H,NaN,NaN,NaN
+BHR,15/03/2014,15:30,Al Najma,Busaiteen,3,3,D,2,1,H
+BHR,05/04/2014,15:20,Sitra Club,Al Muharraq,0,2,A,0,2,A
+BHR,18/04/2014,15:30,Al Hidd,Malkiya Club,1,0,H,0,0,D
+BHR,18/04/2014,17:45,Al Shabab,Riffa SC,0,1,A,0,0,D
+BHR,10/04/2014,16:30,Al Shabab,Al Muharraq,1,2,A,0,1,A
+BHR,10/04/2014,16:30,Busaiteen,Manama Club,1,2,A,0,2,A
+BHR,11/04/2014,16:30,Malkiya Club,Sitra Club,4,1,H,2,0,H
+BHR,13/04/2014,,Riffa SC,Al Najma,1,0,H,NaN,NaN,NaN
+BHR,13/04/2014,17:40,Al Hala,Al Hidd,1,2,A,0,2,A
+BHR,01/05/2014,16:40,Al Shabab,Malkiya Club,1,2,A,1,0,H
+BHR,01/05/2014,16:40,Sitra Club,Al Hala,0,1,A,0,0,D
+BHR,01/05/2014,16:40,Al Muharraq,Al Najma,1,1,D,0,0,D
+BHR,02/05/2014,15:35,Riffa SC,Busaiteen,2,1,H,2,1,H
+BHR,02/05/2014,15:35,Manama Club,Al Hidd,2,1,H,1,0,H
+BHR,22/05/2014,17:00,Malkiya Club,Al Najma,1,0,H,0,0,D
+BHR,22/05/2014,17:00,Al Hala,Al Shabab,1,2,A,0,2,A
+BHR,23/05/2014,17:00,Sitra Club,Manama Club,2,3,A,0,3,A
+BHR,23/05/2014,17:00,Al Hidd,Busaiteen,2,0,H,1,0,H
+BHR,24/05/2014,17:00,Al Muharraq,Riffa SC,4,1,H,0,1,A
+BHR,28/05/2014,17:00,Al Najma,Al Hala,2,3,A,0,3,A
+BHR,29/05/2014,17:00,Al Hidd,Sitra Club,6,0,H,0,0,D
+BHR,29/05/2014,17:00,Busaiteen,Al Muharraq,2,3,A,2,2,D
+BHR,30/05/2014,15:50,Manama Club,Al Shabab,5,0,H,3,0,H
+BHR,30/05/2014,15:50,Riffa SC,Malkiya Club,3,1,H,1,0,H

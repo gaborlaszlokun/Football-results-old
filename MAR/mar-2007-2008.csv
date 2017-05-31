@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MAR,21/09/2007,22:00,Olympique de Safi,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
+MAR,22/09/2007,16:30,Olympique de Khouribga,Raja Casablanca,1,1,D,NaN,NaN,NaN
+MAR,22/09/2007,16:30,JS El Massira,COD Meknés,5,3,H,NaN,NaN,NaN
+MAR,22/09/2007,16:30,Maghrib de Fès,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,23/09/2007,16:30,Moghreb de Tétouan,Mouloudia Oujda,4,0,H,NaN,NaN,NaN
+MAR,23/09/2007,16:30,Ittihad Khémisset,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
+MAR,23/09/2007,16:30,Wydad AC,KAC de Kénitra,3,0,H,NaN,NaN,NaN
+MAR,23/09/2007,23:00,FAR de Rabat,FUS de Rabat,1,0,H,NaN,NaN,NaN
+MAR,28/09/2007,22:00,Kawkab AC Marrakech,Olympique de Safi,0,0,D,NaN,NaN,NaN
+MAR,29/09/2007,15:00,Difaâ d'El Jadida,FAR de Rabat,1,0,H,NaN,NaN,NaN
+MAR,29/09/2007,15:00,KAC de Kénitra,Olympique de Khouribga,2,1,H,NaN,NaN,NaN
+MAR,30/09/2007,15:00,FUS de Rabat,Maghrib de Fès,0,1,A,NaN,NaN,NaN
+MAR,30/09/2007,15:00,Mouloudia Oujda,JS El Massira,1,1,D,NaN,NaN,NaN
+MAR,01/10/2007,20:00,COD Meknés,Ittihad Khémisset,1,1,D,NaN,NaN,NaN
+MAR,12/10/2007,23:00,Hassania US Agadir,Wydad AC,0,0,D,NaN,NaN,NaN
+MAR,16/10/2007,16:00,Raja Casablanca,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
+MAR,05/10/2007,22:00,Olympique de Safi,COD Meknés,2,2,D,NaN,NaN,NaN
+MAR,06/10/2007,15:00,JS El Massira,Raja Casablanca,1,0,H,NaN,NaN,NaN
+MAR,06/10/2007,15:00,KAC de Kénitra,Hassania US Agadir,1,0,H,NaN,NaN,NaN
+MAR,06/10/2007,22:00,Maghrib de Fès,Difaâ d'El Jadida,2,1,H,NaN,NaN,NaN
+MAR,07/10/2007,16:00,Ittihad Khémisset,Mouloudia Oujda,2,1,H,NaN,NaN,NaN
+MAR,07/10/2007,16:00,Wydad AC,FUS de Rabat,2,1,H,NaN,NaN,NaN
+MAR,07/10/2007,16:00,Olympique de Khouribga,Moghreb de Tétouan,1,0,H,NaN,NaN,NaN
+MAR,07/10/2007,23:00,FAR de Rabat,Kawkab AC Marrakech,2,1,H,NaN,NaN,NaN
+MAR,19/10/2007,21:00,Kawkab AC Marrakech,Maghrib de Fès,1,0,H,NaN,NaN,NaN
+MAR,20/10/2007,15:30,COD Meknés,FAR de Rabat,0,3,A,NaN,NaN,NaN
+MAR,20/10/2007,15:30,Mouloudia Oujda,Olympique de Safi,3,2,H,NaN,NaN,NaN
+MAR,21/10/2007,15:30,FUS de Rabat,KAC de Kénitra,1,1,D,NaN,NaN,NaN
+MAR,21/10/2007,15:30,Moghreb de Tétouan,JS El Massira,1,0,H,NaN,NaN,NaN
+MAR,21/10/2007,19:00,Hassania US Agadir,Olympique de Khouribga,1,1,D,NaN,NaN,NaN
+MAR,04/11/2007,14:30,Raja Casablanca,Ittihad Khémisset,0,0,D,NaN,NaN,NaN
+MAR,19/12/2007,14:30,Difaâ d'El Jadida,Wydad AC,1,0,H,NaN,NaN,NaN
+MAR,26/10/2007,21:00,Hassania US Agadir,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,27/10/2007,15:30,Maghrib de Fès,COD Meknés,2,2,D,NaN,NaN,NaN
+MAR,27/10/2007,15:30,KAC de Kénitra,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
+MAR,28/10/2007,15:00,Olympique de Khouribga,JS El Massira,2,0,H,NaN,NaN,NaN
+MAR,28/10/2007,15:30,Ittihad Khémisset,Moghreb de Tétouan,2,1,H,NaN,NaN,NaN
+MAR,28/10/2007,15:30,FAR de Rabat,Mouloudia Oujda,1,0,H,NaN,NaN,NaN
+MAR,05/12/2007,14:30,Olympique de Safi,Raja Casablanca,0,1,A,NaN,NaN,NaN
+MAR,09/01/2008,14:30,Wydad AC,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
+MAR,09/11/2007,20:00,Kawkab AC Marrakech,KAC de Kénitra,2,2,D,NaN,NaN,NaN
+MAR,10/11/2007,14:30,Raja Casablanca,FAR de Rabat,1,1,D,NaN,NaN,NaN
+MAR,10/11/2007,14:30,Mouloudia Oujda,Maghrib de Fès,1,0,H,NaN,NaN,NaN
+MAR,10/11/2007,14:30,JS El Massira,Ittihad Khémisset,0,1,A,NaN,NaN,NaN
+MAR,11/11/2007,14:30,FUS de Rabat,Olympique de Khouribga,1,2,A,NaN,NaN,NaN
+MAR,11/11/2007,14:30,COD Meknés,Wydad AC,0,1,A,NaN,NaN,NaN
+MAR,11/11/2007,15:00,Difaâ d'El Jadida,Hassania US Agadir,1,0,H,NaN,NaN,NaN
+MAR,11/11/2007,18:00,Moghreb de Tétouan,Olympique de Safi,1,0,H,NaN,NaN,NaN
+MAR,16/11/2007,17:00,FAR de Rabat,Moghreb de Tétouan,3,2,H,NaN,NaN,NaN
+MAR,17/11/2007,15:00,Olympique de Khouribga,Ittihad Khémisset,0,0,D,NaN,NaN,NaN
+MAR,18/11/2007,14:30,Wydad AC,Mouloudia Oujda,4,1,H,NaN,NaN,NaN
+MAR,18/11/2007,14:30,KAC de Kénitra,COD Meknés,0,0,D,NaN,NaN,NaN
+MAR,18/11/2007,14:30,Olympique de Safi,JS El Massira,2,2,D,NaN,NaN,NaN
+MAR,18/11/2007,15:00,FUS de Rabat,Difaâ d'El Jadida,1,2,A,NaN,NaN,NaN
+MAR,18/11/2007,18:00,Hassania US Agadir,Kawkab AC Marrakech,4,0,H,NaN,NaN,NaN
+MAR,19/12/2007,19:00,Maghrib de Fès,Raja Casablanca,1,2,A,NaN,NaN,NaN
+MAR,23/11/2007,14:30,Kawkab AC Marrakech,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,23/11/2007,20:00,Moghreb de Tétouan,Maghrib de Fès,1,2,A,NaN,NaN,NaN
+MAR,24/11/2007,14:30,Mouloudia Oujda,KAC de Kénitra,1,0,H,NaN,NaN,NaN
+MAR,24/11/2007,14:30,Ittihad Khémisset,Olympique de Safi,1,0,H,NaN,NaN,NaN
+MAR,24/11/2007,14:30,COD Meknés,Hassania US Agadir,0,1,A,NaN,NaN,NaN
+MAR,24/11/2007,17:00,Raja Casablanca,Wydad AC,2,0,H,NaN,NaN,NaN
+MAR,24/11/2007,20:00,Difaâ d'El Jadida,Olympique de Khouribga,2,2,D,NaN,NaN,NaN
+MAR,12/12/2007,14:30,JS El Massira,FAR de Rabat,0,0,D,NaN,NaN,NaN
+MAR,30/11/2007,20:00,Difaâ d'El Jadida,Kawkab AC Marrakech,2,1,H,NaN,NaN,NaN
+MAR,01/12/2007,14:30,FUS de Rabat,COD Meknés,2,2,D,NaN,NaN,NaN
+MAR,01/12/2007,14:30,Olympique de Khouribga,Olympique de Safi,1,0,H,NaN,NaN,NaN
+MAR,01/12/2007,14:30,Maghrib de Fès,JS El Massira,0,0,D,NaN,NaN,NaN
+MAR,02/12/2007,14:30,Hassania US Agadir,Mouloudia Oujda,1,0,H,NaN,NaN,NaN
+MAR,02/12/2007,14:30,KAC de Kénitra,Raja Casablanca,1,0,H,NaN,NaN,NaN
+MAR,02/12/2007,15:00,FAR de Rabat,Ittihad Khémisset,1,0,H,NaN,NaN,NaN
+MAR,02/12/2007,18:00,Wydad AC,Moghreb de Tétouan,0,0,D,NaN,NaN,NaN
+MAR,07/12/2007,20:00,Moghreb de Tétouan,KAC de Kénitra,1,2,A,NaN,NaN,NaN
+MAR,08/12/2007,14:30,Olympique de Safi,FAR de Rabat,1,1,D,NaN,NaN,NaN
+MAR,08/12/2007,14:30,JS El Massira,Wydad AC,1,1,D,NaN,NaN,NaN
+MAR,08/12/2007,14:30,Mouloudia Oujda,FUS de Rabat,1,1,D,NaN,NaN,NaN
+MAR,09/12/2007,14:00,Ittihad Khémisset,Maghrib de Fès,1,0,H,NaN,NaN,NaN
+MAR,09/12/2007,14:00,Kawkab AC Marrakech,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
+MAR,09/12/2007,15:00,Raja Casablanca,Hassania US Agadir,1,0,H,NaN,NaN,NaN
+MAR,09/12/2007,18:00,COD Meknés,Difaâ d'El Jadida,0,1,A,NaN,NaN,NaN
+MAR,14/12/2007,20:00,Maghrib de Fès,Olympique de Safi,1,1,D,NaN,NaN,NaN
+MAR,15/12/2007,14:30,Difaâ d'El Jadida,Mouloudia Oujda,2,0,H,NaN,NaN,NaN
+MAR,15/12/2007,14:30,Kawkab AC Marrakech,COD Meknés,1,0,H,NaN,NaN,NaN
+MAR,16/12/2007,14:30,Olympique de Khouribga,FAR de Rabat,2,0,H,NaN,NaN,NaN
+MAR,16/12/2007,14:30,KAC de Kénitra,JS El Massira,0,1,A,NaN,NaN,NaN
+MAR,16/12/2007,15:00,Wydad AC,Ittihad Khémisset,0,2,A,NaN,NaN,NaN
+MAR,16/12/2007,18:00,Hassania US Agadir,Moghreb de Tétouan,1,0,H,NaN,NaN,NaN
+MAR,09/01/2008,14:30,FUS de Rabat,Raja Casablanca,0,1,A,NaN,NaN,NaN
+MAR,28/12/2007,18:00,FAR de Rabat,Maghrib de Fès,2,1,H,NaN,NaN,NaN
+MAR,29/12/2007,14:30,Mouloudia Oujda,Kawkab AC Marrakech,0,2,A,NaN,NaN,NaN
+MAR,29/12/2007,14:30,Moghreb de Tétouan,FUS de Rabat,2,2,D,NaN,NaN,NaN
+MAR,29/12/2007,14:30,JS El Massira,Hassania US Agadir,1,1,D,NaN,NaN,NaN
+MAR,30/12/2007,14:30,Ittihad Khémisset,KAC de Kénitra,1,1,D,NaN,NaN,NaN
+MAR,30/12/2007,14:30,Raja Casablanca,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
+MAR,30/12/2007,15:00,COD Meknés,Olympique de Khouribga,3,2,H,NaN,NaN,NaN
+MAR,30/12/2007,18:00,Olympique de Safi,Wydad AC,2,1,H,NaN,NaN,NaN
+MAR,04/01/2008,18:00,Hassania US Agadir,Ittihad Khémisset,1,0,H,NaN,NaN,NaN
+MAR,05/01/2008,14:30,FUS de Rabat,JS El Massira,0,2,A,NaN,NaN,NaN
+MAR,05/01/2008,14:30,Kawkab AC Marrakech,Raja Casablanca,1,0,H,NaN,NaN,NaN
+MAR,05/01/2008,14:30,Wydad AC,FAR de Rabat,0,0,D,NaN,NaN,NaN
+MAR,05/01/2008,14:30,KAC de Kénitra,Olympique de Safi,1,0,H,NaN,NaN,NaN
+MAR,06/01/2008,14:30,Olympique de Khouribga,Maghrib de Fès,2,0,H,NaN,NaN,NaN
+MAR,06/01/2008,15:00,Difaâ d'El Jadida,Moghreb de Tétouan,0,0,D,NaN,NaN,NaN
+MAR,06/01/2008,18:00,COD Meknés,Mouloudia Oujda,2,0,H,NaN,NaN,NaN
+MAR,11/01/2008,18:00,Olympique de Safi,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,12/01/2008,14:30,JS El Massira,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
+MAR,12/01/2008,14:30,Olympique de Khouribga,Mouloudia Oujda,2,0,H,NaN,NaN,NaN
+MAR,13/01/2008,14:30,Ittihad Khémisset,FUS de Rabat,0,1,A,NaN,NaN,NaN
+MAR,13/01/2008,14:30,Moghreb de Tétouan,Kawkab AC Marrakech,2,1,H,NaN,NaN,NaN
+MAR,13/01/2008,14:30,Maghrib de Fès,Wydad AC,0,3,A,NaN,NaN,NaN
+MAR,13/01/2008,15:00,Raja Casablanca,COD Meknés,2,0,H,NaN,NaN,NaN
+MAR,13/01/2008,18:00,FAR de Rabat,KAC de Kénitra,2,0,H,NaN,NaN,NaN
+MAR,18/01/2008,20:00,COD Meknés,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
+MAR,19/01/2008,14:30,FUS de Rabat,Olympique de Safi,1,2,A,NaN,NaN,NaN
+MAR,19/01/2008,14:30,KAC de Kénitra,Maghrib de Fès,0,1,A,NaN,NaN,NaN
+MAR,19/01/2008,14:30,Kawkab AC Marrakech,JS El Massira,0,1,A,NaN,NaN,NaN
+MAR,19/01/2008,18:00,Hassania US Agadir,FAR de Rabat,0,2,A,NaN,NaN,NaN
+MAR,20/01/2008,14:00,Wydad AC,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
+MAR,20/01/2008,14:30,Mouloudia Oujda,Raja Casablanca,1,1,D,NaN,NaN,NaN
+MAR,20/01/2008,14:30,Difaâ d'El Jadida,Ittihad Khémisset,0,3,A,NaN,NaN,NaN
+MAR,26/01/2008,14:30,Kawkab AC Marrakech,Ittihad Khémisset,0,3,A,NaN,NaN,NaN
+MAR,26/01/2008,14:30,KAC de Kénitra,Wydad AC,0,1,A,NaN,NaN,NaN
+MAR,26/01/2008,14:30,Difaâ d'El Jadida,Olympique de Safi,2,0,H,NaN,NaN,NaN
+MAR,26/01/2008,14:30,Hassania US Agadir,Maghrib de Fès,0,0,D,NaN,NaN,NaN
+MAR,27/01/2008,14:00,FUS de Rabat,FAR de Rabat,0,1,A,NaN,NaN,NaN
+MAR,27/01/2008,14:30,Mouloudia Oujda,Moghreb de Tétouan,0,3,A,NaN,NaN,NaN
+MAR,27/01/2008,14:30,Raja Casablanca,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
+MAR,27/01/2008,14:30,COD Meknés,JS El Massira,0,0,D,NaN,NaN,NaN
+MAR,01/02/2008,19:30,FAR de Rabat,Difaâ d'El Jadida,0,1,A,NaN,NaN,NaN
+MAR,02/02/2008,14:30,Maghrib de Fès,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,02/02/2008,19:30,Olympique de Safi,Kawkab AC Marrakech,2,2,D,NaN,NaN,NaN
+MAR,03/02/2008,14:30,Olympique de Khouribga,KAC de Kénitra,2,0,H,NaN,NaN,NaN
+MAR,03/02/2008,14:30,Wydad AC,Hassania US Agadir,1,1,D,NaN,NaN,NaN
+MAR,03/02/2008,14:30,Moghreb de Tétouan,Raja Casablanca,0,0,D,NaN,NaN,NaN
+MAR,03/02/2008,14:30,JS El Massira,Mouloudia Oujda,0,0,D,NaN,NaN,NaN
+MAR,03/02/2008,15:00,Ittihad Khémisset,COD Meknés,4,1,H,NaN,NaN,NaN
+MAR,08/02/2008,19:30,Difaâ d'El Jadida,Maghrib de Fès,1,1,D,NaN,NaN,NaN
+MAR,09/02/2008,14:30,FUS de Rabat,Wydad AC,0,0,D,NaN,NaN,NaN
+MAR,09/02/2008,14:30,Moghreb de Tétouan,Olympique de Khouribga,2,0,H,NaN,NaN,NaN
+MAR,09/02/2008,14:30,Kawkab AC Marrakech,FAR de Rabat,1,1,D,NaN,NaN,NaN
+MAR,10/02/2008,14:00,Raja Casablanca,JS El Massira,3,0,H,NaN,NaN,NaN
+MAR,10/02/2008,14:30,Mouloudia Oujda,Ittihad Khémisset,2,1,H,NaN,NaN,NaN
+MAR,10/02/2008,14:30,COD Meknés,Olympique de Safi,1,0,H,NaN,NaN,NaN
+MAR,10/02/2008,14:30,Hassania US Agadir,KAC de Kénitra,1,0,H,NaN,NaN,NaN
+MAR,16/02/2008,14:30,Ittihad Khémisset,Raja Casablanca,2,1,H,NaN,NaN,NaN
+MAR,17/02/2008,14:30,KAC de Kénitra,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,17/02/2008,14:30,JS El Massira,Moghreb de Tétouan,0,0,D,NaN,NaN,NaN
+MAR,17/02/2008,15:00,Maghrib de Fès,Kawkab AC Marrakech,3,1,H,NaN,NaN,NaN
+MAR,17/02/2008,18:00,Olympique de Safi,Mouloudia Oujda,3,1,H,NaN,NaN,NaN
+MAR,20/02/2008,17:30,FAR de Rabat,COD Meknés,0,0,D,NaN,NaN,NaN
+MAR,05/03/2008,14:30,Olympique de Khouribga,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,12/03/2008,18:00,Wydad AC,Difaâ d'El Jadida,3,1,H,NaN,NaN,NaN
+MAR,22/02/2008,18:00,FUS de Rabat,Hassania US Agadir,1,0,H,NaN,NaN,NaN
+MAR,23/02/2008,14:30,Moghreb de Tétouan,Ittihad Khémisset,2,0,H,NaN,NaN,NaN
+MAR,24/02/2008,14:30,Kawkab AC Marrakech,Wydad AC,1,0,H,NaN,NaN,NaN
+MAR,24/02/2008,14:30,Raja Casablanca,Olympique de Safi,1,1,D,NaN,NaN,NaN
+MAR,24/02/2008,14:30,JS El Massira,Olympique de Khouribga,1,2,A,NaN,NaN,NaN
+MAR,24/02/2008,14:30,Mouloudia Oujda,FAR de Rabat,2,2,D,NaN,NaN,NaN
+MAR,24/02/2008,15:00,Difaâ d'El Jadida,KAC de Kénitra,0,0,D,NaN,NaN,NaN
+MAR,24/02/2008,18:00,COD Meknés,Maghrib de Fès,0,1,A,NaN,NaN,NaN
+MAR,08/03/2008,14:30,Maghrib de Fès,Mouloudia Oujda,1,0,H,NaN,NaN,NaN
+MAR,08/03/2008,14:30,Hassania US Agadir,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
+MAR,08/03/2008,18:00,Wydad AC,COD Meknés,1,1,D,NaN,NaN,NaN
+MAR,09/03/2008,14:30,Olympique de Khouribga,FUS de Rabat,2,1,H,NaN,NaN,NaN
+MAR,09/03/2008,14:30,Ittihad Khémisset,JS El Massira,0,1,A,NaN,NaN,NaN
+MAR,09/03/2008,15:00,KAC de Kénitra,Kawkab AC Marrakech,2,2,D,NaN,NaN,NaN
+MAR,09/03/2008,18:00,Olympique de Safi,Moghreb de Tétouan,0,0,D,NaN,NaN,NaN
+MAR,09/04/2008,20:00,FAR de Rabat,Raja Casablanca,0,0,D,NaN,NaN,NaN
+MAR,15/03/2008,14:30,Kawkab AC Marrakech,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,15/03/2008,14:30,Mouloudia Oujda,Wydad AC,2,0,H,NaN,NaN,NaN
+MAR,15/03/2008,14:30,COD Meknés,KAC de Kénitra,1,1,D,NaN,NaN,NaN
+MAR,15/03/2008,14:30,Moghreb de Tétouan,FAR de Rabat,0,0,D,NaN,NaN,NaN
+MAR,16/03/2008,14:30,Ittihad Khémisset,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
+MAR,16/03/2008,14:30,JS El Massira,Olympique de Safi,1,2,A,NaN,NaN,NaN
+MAR,16/03/2008,17:00,Raja Casablanca,Maghrib de Fès,2,1,H,NaN,NaN,NaN
+MAR,16/03/2008,18:00,Difaâ d'El Jadida,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,21/03/2008,18:00,FAR de Rabat,JS El Massira,1,1,D,NaN,NaN,NaN
+MAR,22/03/2008,14:30,KAC de Kénitra,Mouloudia Oujda,2,0,H,NaN,NaN,NaN
+MAR,22/03/2008,14:30,Maghrib de Fès,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
+MAR,23/03/2008,14:30,Wydad AC,Raja Casablanca,0,1,A,NaN,NaN,NaN
+MAR,23/03/2008,14:30,Hassania US Agadir,COD Meknés,2,0,H,NaN,NaN,NaN
+MAR,23/03/2008,15:00,FUS de Rabat,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
+MAR,23/03/2008,18:00,Olympique de Safi,Ittihad Khémisset,1,2,A,NaN,NaN,NaN
+MAR,20/05/2008,15:00,Olympique de Khouribga,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
+MAR,28/03/2008,18:00,Kawkab AC Marrakech,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
+MAR,29/03/2008,14:30,COD Meknés,FUS de Rabat,2,2,D,NaN,NaN,NaN
+MAR,30/03/2008,15:30,Mouloudia Oujda,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,30/03/2008,15:30,Moghreb de Tétouan,Wydad AC,0,1,A,NaN,NaN,NaN
+MAR,30/03/2008,15:30,JS El Massira,Maghrib de Fès,1,1,D,NaN,NaN,NaN
+MAR,30/03/2008,15:30,Raja Casablanca,KAC de Kénitra,2,2,D,NaN,NaN,NaN
+MAR,30/03/2008,16:00,Ittihad Khémisset,FAR de Rabat,1,2,A,NaN,NaN,NaN
+MAR,30/03/2008,19:00,Olympique de Safi,Olympique de Khouribga,2,1,H,NaN,NaN,NaN
+MAR,11/04/2008,20:00,Difaâ d'El Jadida,COD Meknés,1,0,H,NaN,NaN,NaN
+MAR,12/04/2008,16:00,KAC de Kénitra,Moghreb de Tétouan,0,0,D,NaN,NaN,NaN
+MAR,12/04/2008,16:00,Maghrib de Fès,Ittihad Khémisset,1,2,A,NaN,NaN,NaN
+MAR,12/04/2008,16:00,FUS de Rabat,Mouloudia Oujda,3,0,H,NaN,NaN,NaN
+MAR,13/04/2008,16:00,Olympique de Khouribga,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
+MAR,13/04/2008,16:00,Hassania US Agadir,Raja Casablanca,2,0,H,NaN,NaN,NaN
+MAR,13/04/2008,20:00,FAR de Rabat,Olympique de Safi,1,3,A,NaN,NaN,NaN
+MAR,27/05/2008,20:00,Wydad AC,JS El Massira,1,1,D,NaN,NaN,NaN
+MAR,18/04/2008,20:00,Raja Casablanca,FUS de Rabat,1,0,H,NaN,NaN,NaN
+MAR,19/04/2008,16:00,COD Meknés,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
+MAR,19/04/2008,16:00,FAR de Rabat,Olympique de Khouribga,2,1,H,NaN,NaN,NaN
+MAR,20/04/2008,16:00,Moghreb de Tétouan,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,20/04/2008,16:00,Mouloudia Oujda,Difaâ d'El Jadida,3,1,H,NaN,NaN,NaN
+MAR,20/04/2008,16:00,Ittihad Khémisset,Wydad AC,1,0,H,NaN,NaN,NaN
+MAR,20/04/2008,16:00,JS El Massira,KAC de Kénitra,2,0,H,NaN,NaN,NaN
+MAR,20/04/2008,20:00,Olympique de Safi,Maghrib de Fès,1,0,H,NaN,NaN,NaN
+MAR,25/04/2008,20:00,Wydad AC,Olympique de Safi,1,1,D,NaN,NaN,NaN
+MAR,26/04/2008,16:00,Maghrib de Fès,FAR de Rabat,0,2,A,NaN,NaN,NaN
+MAR,26/04/2008,16:00,FUS de Rabat,Moghreb de Tétouan,0,1,A,NaN,NaN,NaN
+MAR,26/04/2008,16:00,Hassania US Agadir,JS El Massira,3,1,H,NaN,NaN,NaN
+MAR,27/04/2008,16:00,KAC de Kénitra,Ittihad Khémisset,0,0,D,NaN,NaN,NaN
+MAR,27/04/2008,16:00,Kawkab AC Marrakech,Mouloudia Oujda,1,2,A,NaN,NaN,NaN
+MAR,27/04/2008,17:00,Difaâ d'El Jadida,Raja Casablanca,4,3,H,NaN,NaN,NaN
+MAR,25/05/2008,20:00,Olympique de Khouribga,COD Meknés,0,0,D,NaN,NaN,NaN
+MAR,04/05/2008,17:00,JS El Massira,FUS de Rabat,1,1,D,NaN,NaN,NaN
+MAR,04/05/2008,17:00,Mouloudia Oujda,COD Meknés,2,2,D,NaN,NaN,NaN
+MAR,06/05/2008,17:00,Moghreb de Tétouan,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
+MAR,06/05/2008,17:00,Maghrib de Fès,Olympique de Khouribga,2,1,H,NaN,NaN,NaN
+MAR,06/05/2008,20:00,Raja Casablanca,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
+MAR,07/05/2008,17:00,Ittihad Khémisset,Hassania US Agadir,0,0,D,NaN,NaN,NaN
+MAR,07/05/2008,20:00,Olympique de Safi,KAC de Kénitra,2,0,H,NaN,NaN,NaN
+MAR,01/06/2008,16:00,FAR de Rabat,Wydad AC,1,2,A,NaN,NaN,NaN
+MAR,03/06/2008,16:00,Hassania US Agadir,Olympique de Safi,2,1,H,NaN,NaN,NaN
+MAR,03/06/2008,19:00,Kawkab AC Marrakech,Moghreb de Tétouan,1,0,H,NaN,NaN,NaN
+MAR,04/06/2008,16:00,FUS de Rabat,Ittihad Khémisset,3,2,H,NaN,NaN,NaN
+MAR,04/06/2008,16:00,Difaâ d'El Jadida,JS El Massira,2,1,H,NaN,NaN,NaN
+MAR,04/06/2008,16:00,COD Meknés,Raja Casablanca,0,0,D,NaN,NaN,NaN
+MAR,04/06/2008,16:00,KAC de Kénitra,FAR de Rabat,1,1,D,NaN,NaN,NaN
+MAR,04/06/2008,16:45,Mouloudia Oujda,Olympique de Khouribga,3,1,H,NaN,NaN,NaN
+MAR,04/06/2008,19:00,Wydad AC,Maghrib de Fès,0,0,D,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Olympique de Khouribga,Wydad AC,1,1,D,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Olympique de Safi,FUS de Rabat,0,0,D,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Maghrib de Fès,KAC de Kénitra,4,0,H,NaN,NaN,NaN
+MAR,08/06/2008,16:00,FAR de Rabat,Hassania US Agadir,3,1,H,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Raja Casablanca,Mouloudia Oujda,3,2,H,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Moghreb de Tétouan,COD Meknés,2,0,H,NaN,NaN,NaN
+MAR,08/06/2008,16:00,JS El Massira,Kawkab AC Marrakech,1,0,H,NaN,NaN,NaN
+MAR,08/06/2008,16:00,Ittihad Khémisset,Difaâ d'El Jadida,2,1,H,NaN,NaN,NaN

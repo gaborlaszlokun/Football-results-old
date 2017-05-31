@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISL,10/05/2010,20:15,Valur Reykjavík,FH Hafnarfjörður,2,2,D,1,1,D
+ISL,11/05/2010,20:15,UMF Selfoss,Fylkir Reykjavík,1,3,A,0,0,D
+ISL,11/05/2010,20:15,Breiðablik,Keflavík ÍF,0,1,A,0,1,A
+ISL,11/05/2010,20:15,KR Reykjavík,Haukar Hafnarfjörður,2,2,D,2,0,H
+ISL,11/05/2010,20:15,UMF Stjarnan,UMF Grindavík,4,0,H,1,0,H
+ISL,11/05/2010,21:00,Fram Reykjavík,ÍB Vestmannaeyja,2,0,H,1,0,H
+ISL,16/05/2010,20:15,KR Reykjavík,UMF Selfoss,1,2,A,0,1,A
+ISL,16/05/2010,20:15,Breiðablik,Fram Reykjavík,2,2,D,1,0,H
+ISL,16/05/2010,20:15,Fylkir Reykjavík,UMF Stjarnan,3,1,H,1,1,D
+ISL,16/05/2010,21:00,Haukar Hafnarfjörður,FH Hafnarfjörður,0,1,A,0,0,D
+ISL,17/05/2010,20:15,Valur Reykjavík,ÍB Vestmannaeyja,1,1,D,1,1,D
+ISL,17/05/2010,21:00,UMF Grindavík,Keflavík ÍF,0,1,A,0,0,D
+ISL,20/05/2010,20:15,Keflavík ÍF,Fylkir Reykjavík,2,1,H,1,0,H
+ISL,20/05/2010,20:15,FH Hafnarfjörður,ÍB Vestmannaeyja,2,3,A,2,3,A
+ISL,20/05/2010,20:15,UMF Selfoss,Haukar Hafnarfjörður,3,0,H,0,0,D
+ISL,20/05/2010,20:15,Fram Reykjavík,UMF Grindavík,2,0,H,1,0,H
+ISL,20/05/2010,20:15,Valur Reykjavík,Breiðablik,0,2,A,0,1,A
+ISL,20/05/2010,21:00,UMF Stjarnan,KR Reykjavík,2,2,D,1,1,D
+ISL,24/05/2010,18:00,Haukar Hafnarfjörður,ÍB Vestmannaeyja,0,3,A,0,2,A
+ISL,24/05/2010,20:15,Fylkir Reykjavík,Fram Reykjavík,2,2,D,2,0,H
+ISL,24/05/2010,21:00,Breiðablik,FH Hafnarfjörður,2,0,H,0,0,D
+ISL,25/05/2010,20:15,UMF Grindavík,Valur Reykjavík,1,2,A,0,0,D
+ISL,25/05/2010,20:15,UMF Selfoss,UMF Stjarnan,2,2,D,1,1,D
+ISL,25/05/2010,21:00,KR Reykjavík,Keflavík ÍF,0,0,D,0,0,D
+ISL,30/05/2010,17:00,ÍB Vestmannaeyja,Breiðablik,1,1,D,0,0,D
+ISL,31/05/2010,20:15,Keflavík ÍF,UMF Selfoss,2,1,H,1,1,D
+ISL,31/05/2010,20:15,UMF Stjarnan,Haukar Hafnarfjörður,2,2,D,1,1,D
+ISL,31/05/2010,20:15,FH Hafnarfjörður,UMF Grindavík,2,1,H,2,1,H
+ISL,31/05/2010,21:00,Valur Reykjavík,Fylkir Reykjavík,5,2,H,2,1,H
+ISL,10/06/2010,20:15,Fram Reykjavík,KR Reykjavík,2,3,A,1,0,H
+ISL,06/06/2010,17:00,UMF Grindavík,ÍB Vestmannaeyja,1,2,A,0,1,A
+ISL,06/06/2010,20:15,UMF Selfoss,Fram Reykjavík,1,2,A,1,1,D
+ISL,07/06/2010,20:15,UMF Stjarnan,Keflavík ÍF,4,0,H,3,0,H
+ISL,07/06/2010,20:15,Fylkir Reykjavík,FH Hafnarfjörður,2,2,D,2,1,H
+ISL,07/06/2010,20:15,Haukar Hafnarfjörður,Breiðablik,2,4,A,2,1,H
+ISL,07/06/2010,21:00,KR Reykjavík,Valur Reykjavík,1,2,A,1,1,D
+ISL,13/06/2010,17:00,ÍB Vestmannaeyja,Fylkir Reykjavík,1,0,H,0,0,D
+ISL,14/06/2010,20:15,Valur Reykjavík,UMF Selfoss,2,1,H,0,0,D
+ISL,14/06/2010,20:15,Keflavík ÍF,Haukar Hafnarfjörður,1,1,D,0,0,D
+ISL,14/06/2010,20:15,Breiðablik,UMF Grindavík,2,3,A,2,1,H
+ISL,14/06/2010,20:15,Fram Reykjavík,UMF Stjarnan,2,1,H,1,0,H
+ISL,14/06/2010,21:00,FH Hafnarfjörður,KR Reykjavík,3,2,H,0,0,D
+ISL,20/06/2010,20:15,KR Reykjavík,ÍB Vestmannaeyja,1,0,H,0,0,D
+ISL,20/06/2010,20:15,UMF Stjarnan,Valur Reykjavík,1,1,D,1,0,H
+ISL,20/06/2010,20:15,Fylkir Reykjavík,Breiðablik,2,4,A,1,1,D
+ISL,21/06/2010,20:15,Keflavík ÍF,Fram Reykjavík,1,1,D,0,1,A
+ISL,21/06/2010,20:15,UMF Selfoss,FH Hafnarfjörður,0,2,A,0,1,A
+ISL,21/06/2010,21:00,Haukar Hafnarfjörður,UMF Grindavík,2,3,A,2,0,H
+ISL,25/06/2010,21:00,ÍB Vestmannaeyja,UMF Selfoss,3,0,H,1,0,H
+ISL,27/06/2010,17:00,UMF Grindavík,Fylkir Reykjavík,1,2,A,0,1,A
+ISL,27/06/2010,17:00,Breiðablik,KR Reykjavík,2,1,H,1,1,D
+ISL,27/06/2010,17:00,Fram Reykjavík,Haukar Hafnarfjörður,0,0,D,0,0,D
+ISL,27/06/2010,17:00,FH Hafnarfjörður,UMF Stjarnan,1,3,A,1,0,H
+ISL,27/06/2010,17:00,Valur Reykjavík,Keflavík ÍF,0,2,A,0,0,D
+ISL,04/07/2010,17:00,UMF Stjarnan,ÍB Vestmannaeyja,0,2,A,0,1,A
+ISL,04/07/2010,20:15,Keflavík ÍF,FH Hafnarfjörður,1,1,D,1,0,H
+ISL,04/07/2010,20:15,KR Reykjavík,UMF Grindavík,1,0,H,1,0,H
+ISL,05/07/2010,20:15,Haukar Hafnarfjörður,Fylkir Reykjavík,1,1,D,0,0,D
+ISL,05/07/2010,20:15,UMF Selfoss,Breiðablik,1,3,A,0,1,A
+ISL,05/07/2010,21:00,Fram Reykjavík,Valur Reykjavík,2,2,D,1,2,A
+ISL,08/07/2010,20:15,ÍB Vestmannaeyja,Keflavík ÍF,2,1,H,1,1,D
+ISL,08/07/2010,20:15,Breiðablik,UMF Stjarnan,4,0,H,0,0,D
+ISL,08/07/2010,20:15,Valur Reykjavík,Haukar Hafnarfjörður,2,2,D,1,1,D
+ISL,08/07/2010,20:15,UMF Grindavík,UMF Selfoss,1,1,D,1,0,H
+ISL,08/07/2010,21:00,FH Hafnarfjörður,Fram Reykjavík,4,1,H,2,0,H
+ISL,26/08/2010,19:00,Fylkir Reykjavík,KR Reykjavík,1,4,A,1,2,A
+ISL,17/07/2010,15:00,ÍB Vestmannaeyja,Fram Reykjavík,1,0,H,0,0,D
+ISL,18/07/2010,20:15,Fylkir Reykjavík,UMF Selfoss,5,2,H,1,0,H
+ISL,18/07/2010,20:15,Haukar Hafnarfjörður,KR Reykjavík,3,3,D,3,1,H
+ISL,18/07/2010,20:15,FH Hafnarfjörður,Valur Reykjavík,1,1,D,0,1,A
+ISL,18/07/2010,21:00,Keflavík ÍF,Breiðablik,0,2,A,0,0,D
+ISL,19/07/2010,20:15,UMF Grindavík,UMF Stjarnan,1,1,D,0,1,A
+ISL,25/07/2010,17:00,ÍB Vestmannaeyja,Valur Reykjavík,3,1,H,0,1,A
+ISL,25/07/2010,20:15,UMF Selfoss,KR Reykjavík,0,3,A,0,3,A
+ISL,25/07/2010,20:15,Fram Reykjavík,Breiðablik,3,1,H,3,0,H
+ISL,25/07/2010,20:15,UMF Stjarnan,Fylkir Reykjavík,2,1,H,0,1,A
+ISL,25/07/2010,21:00,FH Hafnarfjörður,Haukar Hafnarfjörður,3,1,H,1,0,H
+ISL,26/07/2010,21:00,Keflavík ÍF,UMF Grindavík,1,1,D,1,1,D
+ISL,04/08/2010,20:15,Breiðablik,Valur Reykjavík,5,0,H,1,0,H
+ISL,05/08/2010,20:15,KR Reykjavík,UMF Stjarnan,3,1,H,1,1,D
+ISL,05/08/2010,20:15,Fylkir Reykjavík,Keflavík ÍF,1,2,A,1,0,H
+ISL,05/08/2010,20:15,ÍB Vestmannaeyja,FH Hafnarfjörður,1,3,A,0,2,A
+ISL,05/08/2010,20:15,Haukar Hafnarfjörður,UMF Selfoss,2,3,A,1,2,A
+ISL,05/08/2010,20:15,UMF Grindavík,Fram Reykjavík,3,0,H,2,0,H
+ISL,08/08/2010,17:00,ÍB Vestmannaeyja,Haukar Hafnarfjörður,3,2,H,1,1,D
+ISL,08/08/2010,20:15,Keflavík ÍF,KR Reykjavík,0,1,A,0,1,A
+ISL,08/08/2010,20:15,Fram Reykjavík,Fylkir Reykjavík,1,2,A,0,1,A
+ISL,08/08/2010,20:15,FH Hafnarfjörður,Breiðablik,1,1,D,0,1,A
+ISL,08/08/2010,20:15,Valur Reykjavík,UMF Grindavík,0,0,D,0,0,D
+ISL,08/08/2010,20:15,UMF Stjarnan,UMF Selfoss,3,2,H,2,1,H
+ISL,16/08/2010,20:15,Breiðablik,ÍB Vestmannaeyja,1,1,D,0,1,A
+ISL,16/08/2010,20:15,Fylkir Reykjavík,Valur Reykjavík,0,1,A,0,1,A
+ISL,16/08/2010,20:15,Haukar Hafnarfjörður,UMF Stjarnan,0,5,A,0,2,A
+ISL,19/08/2010,20:15,UMF Selfoss,Keflavík ÍF,3,2,H,0,2,A
+ISL,19/08/2010,20:15,UMF Grindavík,FH Hafnarfjörður,3,1,H,1,1,D
+ISL,19/08/2010,20:15,KR Reykjavík,Fram Reykjavík,2,1,H,0,0,D
+ISL,22/08/2010,19:00,ÍB Vestmannaeyja,UMF Grindavík,0,1,A,0,1,A
+ISL,22/08/2010,19:00,FH Hafnarfjörður,Fylkir Reykjavík,4,2,H,1,2,A
+ISL,23/08/2010,19:00,Fram Reykjavík,UMF Selfoss,3,1,H,2,1,H
+ISL,23/08/2010,19:00,Valur Reykjavík,KR Reykjavík,1,4,A,0,0,D
+ISL,23/08/2010,19:00,Keflavík ÍF,UMF Stjarnan,2,2,D,1,1,D
+ISL,23/08/2010,19:00,Breiðablik,Haukar Hafnarfjörður,0,2,A,0,2,A
+ISL,28/08/2010,17:00,Haukar Hafnarfjörður,Keflavík ÍF,2,0,H,1,0,H
+ISL,29/08/2010,19:00,Fylkir Reykjavík,ÍB Vestmannaeyja,1,2,A,1,1,D
+ISL,29/08/2010,19:00,UMF Grindavík,Breiðablik,2,4,A,0,1,A
+ISL,29/08/2010,19:00,UMF Stjarnan,Fram Reykjavík,2,3,A,1,1,D
+ISL,30/08/2010,19:00,KR Reykjavík,FH Hafnarfjörður,0,1,A,0,1,A
+ISL,30/08/2010,19:00,UMF Selfoss,Valur Reykjavík,2,3,A,0,2,A
+ISL,12/09/2010,18:30,ÍB Vestmannaeyja,KR Reykjavík,2,4,A,0,2,A
+ISL,12/09/2010,18:30,FH Hafnarfjörður,UMF Selfoss,2,1,H,1,0,H
+ISL,12/09/2010,18:30,UMF Grindavík,Haukar Hafnarfjörður,1,1,D,1,0,H
+ISL,12/09/2010,18:30,Valur Reykjavík,UMF Stjarnan,5,1,H,3,0,H
+ISL,12/09/2010,18:30,Breiðablik,Fylkir Reykjavík,1,0,H,0,0,D
+ISL,13/09/2010,20:15,Fram Reykjavík,Keflavík ÍF,2,1,H,1,1,D
+ISL,16/09/2010,18:15,Fylkir Reykjavík,UMF Grindavík,2,0,H,0,0,D
+ISL,16/09/2010,18:15,KR Reykjavík,Breiðablik,1,3,A,0,1,A
+ISL,16/09/2010,18:15,UMF Selfoss,ÍB Vestmannaeyja,0,2,A,0,1,A
+ISL,16/09/2010,18:15,Haukar Hafnarfjörður,Fram Reykjavík,2,1,H,0,0,D
+ISL,16/09/2010,18:15,UMF Stjarnan,FH Hafnarfjörður,1,4,A,1,1,D
+ISL,16/09/2010,18:15,Keflavík ÍF,Valur Reykjavík,3,1,H,2,0,H
+ISL,19/09/2010,18:00,Valur Reykjavík,Fram Reykjavík,1,3,A,1,0,H
+ISL,19/09/2010,18:00,Fylkir Reykjavík,Haukar Hafnarfjörður,3,0,H,3,0,H
+ISL,19/09/2010,18:00,ÍB Vestmannaeyja,UMF Stjarnan,2,1,H,2,1,H
+ISL,19/09/2010,18:00,FH Hafnarfjörður,Keflavík ÍF,5,3,H,3,2,H
+ISL,19/09/2010,18:00,UMF Grindavík,KR Reykjavík,3,3,D,1,2,A
+ISL,19/09/2010,18:00,Breiðablik,UMF Selfoss,3,0,H,0,0,D
+ISL,25/09/2010,15:00,Keflavík ÍF,ÍB Vestmannaeyja,4,1,H,1,0,H
+ISL,25/09/2010,15:00,Fram Reykjavík,FH Hafnarfjörður,0,3,A,0,1,A
+ISL,25/09/2010,15:00,UMF Stjarnan,Breiðablik,0,0,D,0,0,D
+ISL,25/09/2010,15:00,KR Reykjavík,Fylkir Reykjavík,3,0,H,1,0,H
+ISL,25/09/2010,15:00,Haukar Hafnarfjörður,Valur Reykjavík,2,1,H,1,0,H
+ISL,25/09/2010,15:00,UMF Selfoss,UMF Grindavík,5,2,H,2,0,H

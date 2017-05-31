@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,28/02/1993,13:30,SR Delémont,FC Basel,0,2,A,NaN,NaN,NaN
+SUI,28/02/1993,13:30,FC Bulle,FC Luzern,0,0,D,NaN,NaN,NaN
+SUI,28/02/1993,13:30,Grasshoppers Zürich,FC Locarno,9,0,H,NaN,NaN,NaN
+SUI,28/02/1993,13:30,FC Wil 1900,CS Chênois,0,1,A,NaN,NaN,NaN
+SUI,07/03/1993,13:30,CS Chênois,Grasshoppers Zürich,0,1,A,NaN,NaN,NaN
+SUI,07/03/1993,13:30,FC Locarno,FC Bulle,1,1,D,NaN,NaN,NaN
+SUI,07/03/1993,13:30,FC Luzern,SR Delémont,5,0,H,NaN,NaN,NaN
+SUI,07/03/1993,13:30,FC Basel,FC Wil 1900,1,1,D,NaN,NaN,NaN
+SUI,14/03/1993,13:30,SR Delémont,CS Chênois,1,1,D,NaN,NaN,NaN
+SUI,14/03/1993,13:30,FC Bulle,FC Basel,1,3,A,NaN,NaN,NaN
+SUI,14/03/1993,13:30,Grasshoppers Zürich,FC Luzern,3,0,H,NaN,NaN,NaN
+SUI,14/03/1993,13:30,FC Wil 1900,FC Locarno,0,4,A,NaN,NaN,NaN
+SUI,24/03/1993,19:00,FC Locarno,SR Delémont,3,0,H,NaN,NaN,NaN
+SUI,24/03/1993,19:00,FC Luzern,FC Wil 1900,4,0,H,NaN,NaN,NaN
+SUI,24/03/1993,19:00,FC Basel,Grasshoppers Zürich,0,2,A,NaN,NaN,NaN
+SUI,27/03/1993,16:30,CS Chênois,FC Bulle,0,4,A,NaN,NaN,NaN
+SUI,03/04/1993,16:00,FC Wil 1900,FC Bulle,0,3,A,NaN,NaN,NaN
+SUI,03/04/1993,19:00,CS Chênois,FC Luzern,0,2,A,NaN,NaN,NaN
+SUI,03/04/1993,19:00,FC Locarno,FC Basel,1,4,A,NaN,NaN,NaN
+SUI,03/04/1993,19:00,Grasshoppers Zürich,SR Delémont,1,1,D,NaN,NaN,NaN
+SUI,10/04/1993,19:00,SR Delémont,FC Wil 1900,2,1,H,NaN,NaN,NaN
+SUI,10/04/1993,19:00,FC Bulle,Grasshoppers Zürich,2,4,A,NaN,NaN,NaN
+SUI,10/04/1993,19:00,FC Basel,CS Chênois,4,1,H,NaN,NaN,NaN
+SUI,12/04/1993,16:30,FC Luzern,FC Locarno,3,0,H,NaN,NaN,NaN
+SUI,24/04/1993,16:30,FC Wil 1900,Grasshoppers Zürich,0,4,A,NaN,NaN,NaN
+SUI,24/04/1993,19:00,FC Locarno,CS Chênois,0,1,A,NaN,NaN,NaN
+SUI,24/04/1993,19:00,FC Bulle,SR Delémont,2,0,H,NaN,NaN,NaN
+SUI,24/04/1993,19:00,FC Basel,FC Luzern,1,1,D,NaN,NaN,NaN
+SUI,08/05/1993,19:00,CS Chênois,FC Locarno,2,1,H,NaN,NaN,NaN
+SUI,08/05/1993,19:00,SR Delémont,FC Bulle,1,2,A,NaN,NaN,NaN
+SUI,08/05/1993,19:00,Grasshoppers Zürich,FC Wil 1900,2,0,H,NaN,NaN,NaN
+SUI,08/05/1993,19:00,FC Luzern,FC Basel,4,1,H,NaN,NaN,NaN
+SUI,15/05/1993,19:00,FC Wil 1900,SR Delémont,1,3,A,NaN,NaN,NaN
+SUI,15/05/1993,19:00,CS Chênois,FC Basel,0,1,A,NaN,NaN,NaN
+SUI,15/05/1993,19:00,Grasshoppers Zürich,FC Bulle,8,0,H,NaN,NaN,NaN
+SUI,19/05/1993,19:00,FC Locarno,FC Luzern,0,1,A,NaN,NaN,NaN
+SUI,22/05/1993,19:00,FC Basel,FC Locarno,2,0,H,NaN,NaN,NaN
+SUI,22/05/1993,19:00,FC Bulle,FC Wil 1900,1,1,D,NaN,NaN,NaN
+SUI,22/05/1993,19:00,SR Delémont,Grasshoppers Zürich,1,0,H,NaN,NaN,NaN
+SUI,22/05/1993,19:00,FC Luzern,CS Chênois,2,0,H,NaN,NaN,NaN
+SUI,25/05/1993,19:00,FC Bulle,CS Chênois,6,0,H,NaN,NaN,NaN
+SUI,25/05/1993,19:00,SR Delémont,FC Locarno,3,2,H,NaN,NaN,NaN
+SUI,25/05/1993,19:00,Grasshoppers Zürich,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,25/05/1993,19:00,FC Wil 1900,FC Luzern,0,3,A,NaN,NaN,NaN
+SUI,05/06/1993,19:00,FC Basel,FC Bulle,1,2,A,NaN,NaN,NaN
+SUI,05/06/1993,19:00,CS Chênois,SR Delémont,2,0,H,NaN,NaN,NaN
+SUI,05/06/1993,19:00,FC Locarno,FC Wil 1900,2,0,H,NaN,NaN,NaN
+SUI,05/06/1993,19:00,FC Luzern,Grasshoppers Zürich,2,0,H,NaN,NaN,NaN
+SUI,09/06/1993,19:00,FC Bulle,FC Locarno,3,1,H,NaN,NaN,NaN
+SUI,09/06/1993,19:00,SR Delémont,FC Luzern,0,3,A,NaN,NaN,NaN
+SUI,09/06/1993,19:00,Grasshoppers Zürich,CS Chênois,5,0,H,NaN,NaN,NaN
+SUI,09/06/1993,19:00,FC Wil 1900,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,12/06/1993,16:30,CS Chênois,FC Wil 1900,1,2,A,NaN,NaN,NaN
+SUI,12/06/1993,19:00,FC Basel,SR Delémont,3,2,H,NaN,NaN,NaN
+SUI,12/06/1993,19:00,FC Locarno,Grasshoppers Zürich,1,2,A,NaN,NaN,NaN
+SUI,12/06/1993,19:00,FC Luzern,FC Bulle,0,1,A,NaN,NaN,NaN

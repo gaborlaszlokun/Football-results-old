@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,13/08/1938,,Arbroath FC,Albion Rovers,3,2,H,NaN,NaN,NaN
+SCO,13/08/1938,,Ayr United,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,13/08/1938,,Celtic FC,Kilmarnock FC,9,1,H,NaN,NaN,NaN
+SCO,13/08/1938,,Falkirk FC,Queen's Park FC,1,0,H,NaN,NaN,NaN
+SCO,13/08/1938,,Hibernian FC,Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,13/08/1938,,Motherwell FC,Queen Of The South,8,5,H,NaN,NaN,NaN
+SCO,13/08/1938,,Partick Thistle,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,13/08/1938,,St. Johnstone FC,Rangers FC,3,3,D,NaN,NaN,NaN
+SCO,13/08/1938,,St. Mirren FC,Clyde FC,2,4,A,NaN,NaN,NaN
+SCO,13/08/1938,,Third Lanark,Heart of Midlothian,1,4,A,NaN,NaN,NaN
+SCO,20/08/1938,,Aberdeen FC,Third Lanark,6,1,H,NaN,NaN,NaN
+SCO,20/08/1938,,Albion Rovers,St. Johnstone FC,2,3,A,NaN,NaN,NaN
+SCO,20/08/1938,,Clyde FC,Ayr United,3,1,H,NaN,NaN,NaN
+SCO,20/08/1938,,Hamilton Academical,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,20/08/1938,,Heart of Midlothian,Falkirk FC,6,2,H,NaN,NaN,NaN
+SCO,20/08/1938,,Kilmarnock FC,Hibernian FC,0,1,A,NaN,NaN,NaN
+SCO,20/08/1938,,Queen Of The South,Arbroath FC,2,0,H,NaN,NaN,NaN
+SCO,20/08/1938,,Queen's Park FC,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,20/08/1938,,Raith Rovers,Partick Thistle,2,4,A,NaN,NaN,NaN
+SCO,20/08/1938,,Rangers FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,23/08/1938,,Clyde FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,23/08/1938,,Queen's Park FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,24/08/1938,,Aberdeen FC,Partick Thistle,3,0,H,NaN,NaN,NaN
+SCO,24/08/1938,,Albion Rovers,Arbroath FC,3,2,H,NaN,NaN,NaN
+SCO,24/08/1938,,Hamilton Academical,Hibernian FC,4,1,H,NaN,NaN,NaN
+SCO,24/08/1938,,Heart of Midlothian,Third Lanark,4,2,H,NaN,NaN,NaN
+SCO,24/08/1938,,Kilmarnock FC,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,24/08/1938,,Queen Of The South,Motherwell FC,4,3,H,NaN,NaN,NaN
+SCO,24/08/1938,,Raith Rovers,Ayr United,3,1,H,NaN,NaN,NaN
+SCO,24/08/1938,,Rangers FC,St. Johnstone FC,4,2,H,NaN,NaN,NaN
+SCO,27/08/1938,,Arbroath FC,Hamilton Academical,4,1,H,NaN,NaN,NaN
+SCO,27/08/1938,,Ayr United,Albion Rovers,1,1,D,NaN,NaN,NaN
+SCO,27/08/1938,,Celtic FC,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,27/08/1938,,Falkirk FC,Clyde FC,0,2,A,NaN,NaN,NaN
+SCO,27/08/1938,,Hibernian FC,Queen Of The South,2,3,A,NaN,NaN,NaN
+SCO,27/08/1938,,Motherwell FC,Kilmarnock FC,5,2,H,NaN,NaN,NaN
+SCO,27/08/1938,,Partick Thistle,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,27/08/1938,,St. Johnstone FC,Queen's Park FC,4,1,H,NaN,NaN,NaN
+SCO,27/08/1938,,St. Mirren FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,27/08/1938,,Third Lanark,Raith Rovers,5,0,H,NaN,NaN,NaN
+SCO,03/09/1938,,Aberdeen FC,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,03/09/1938,,Albion Rovers,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,03/09/1938,,Clyde FC,Hibernian FC,3,0,H,NaN,NaN,NaN
+SCO,03/09/1938,,Hamilton Academical,Third Lanark,4,3,H,NaN,NaN,NaN
+SCO,03/09/1938,,Heart of Midlothian,Celtic FC,1,5,A,NaN,NaN,NaN
+SCO,03/09/1938,,Kilmarnock FC,St. Johnstone FC,1,0,H,NaN,NaN,NaN
+SCO,03/09/1938,,Queen Of The South,St. Mirren FC,1,0,H,NaN,NaN,NaN
+SCO,03/09/1938,,Queen's Park FC,Arbroath FC,1,0,H,NaN,NaN,NaN
+SCO,03/09/1938,,Raith Rovers,Falkirk FC,0,1,A,NaN,NaN,NaN
+SCO,03/09/1938,,Rangers FC,Ayr United,4,1,H,NaN,NaN,NaN
+SCO,10/09/1938,,Arbroath FC,Aberdeen FC,0,2,A,NaN,NaN,NaN
+SCO,10/09/1938,,Ayr United,Queen Of The South,2,3,A,NaN,NaN,NaN
+SCO,10/09/1938,,Celtic FC,Rangers FC,6,2,H,NaN,NaN,NaN
+SCO,10/09/1938,,Falkirk FC,Albion Rovers,4,3,H,NaN,NaN,NaN
+SCO,10/09/1938,,Hibernian FC,Heart of Midlothian,4,0,H,NaN,NaN,NaN
+SCO,10/09/1938,,Motherwell FC,Hamilton Academical,2,3,A,NaN,NaN,NaN
+SCO,10/09/1938,,Partick Thistle,Clyde FC,2,1,H,NaN,NaN,NaN
+SCO,10/09/1938,,St. Johnstone FC,Raith Rovers,1,2,A,NaN,NaN,NaN
+SCO,10/09/1938,,St. Mirren FC,Kilmarnock FC,0,1,A,NaN,NaN,NaN
+SCO,10/09/1938,,Third Lanark,Queen's Park FC,5,1,H,NaN,NaN,NaN
+SCO,13/09/1938,,Falkirk FC,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,13/09/1938,,Partick Thistle,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,13/09/1938,,St. Mirren FC,Queen's Park FC,2,1,H,NaN,NaN,NaN
+SCO,14/09/1938,,Arbroath FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,14/09/1938,,Ayr United,Clyde FC,2,4,A,NaN,NaN,NaN
+SCO,14/09/1938,,Celtic FC,Hamilton Academical,1,2,A,NaN,NaN,NaN
+SCO,14/09/1938,,Hibernian FC,Kilmarnock FC,0,1,A,NaN,NaN,NaN
+SCO,14/09/1938,,Motherwell FC,Rangers FC,0,5,A,NaN,NaN,NaN
+SCO,14/09/1938,,St. Johnstone FC,Albion Rovers,4,0,H,NaN,NaN,NaN
+SCO,14/09/1938,,Third Lanark,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,17/09/1938,,Aberdeen FC,St. Johnstone FC,3,0,H,NaN,NaN,NaN
+SCO,17/09/1938,,Albion Rovers,Hibernian FC,0,1,A,NaN,NaN,NaN
+SCO,17/09/1938,,Clyde FC,Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,17/09/1938,,Hamilton Academical,Ayr United,2,0,H,NaN,NaN,NaN
+SCO,17/09/1938,,Heart of Midlothian,Motherwell FC,4,0,H,NaN,NaN,NaN
+SCO,17/09/1938,,Kilmarnock FC,Arbroath FC,1,1,D,NaN,NaN,NaN
+SCO,17/09/1938,,Queen Of The South,Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,17/09/1938,,Queen's Park FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,17/09/1938,,Raith Rovers,St. Mirren FC,1,3,A,NaN,NaN,NaN
+SCO,17/09/1938,,Rangers FC,Third Lanark,5,1,H,NaN,NaN,NaN
+SCO,24/09/1938,,Arbroath FC,Rangers FC,3,3,D,NaN,NaN,NaN
+SCO,24/09/1938,,Ayr United,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,24/09/1938,,Celtic FC,Raith Rovers,6,1,H,NaN,NaN,NaN
+SCO,24/09/1938,,Falkirk FC,Hamilton Academical,4,0,H,NaN,NaN,NaN
+SCO,24/09/1938,,Hibernian FC,Aberdeen FC,5,0,H,NaN,NaN,NaN
+SCO,24/09/1938,,Motherwell FC,Queen's Park FC,2,0,H,NaN,NaN,NaN
+SCO,24/09/1938,,Partick Thistle,Queen Of The South,1,2,A,NaN,NaN,NaN
+SCO,24/09/1938,,St. Johnstone FC,Clyde FC,3,2,H,NaN,NaN,NaN
+SCO,24/09/1938,,St. Mirren FC,Albion Rovers,1,1,D,NaN,NaN,NaN
+SCO,24/09/1938,,Third Lanark,Kilmarnock FC,3,3,D,NaN,NaN,NaN
+SCO,01/10/1938,,Aberdeen FC,Falkirk FC,4,1,H,NaN,NaN,NaN
+SCO,01/10/1938,,Albion Rovers,Celtic FC,1,8,A,NaN,NaN,NaN
+SCO,01/10/1938,,Hamilton Academical,St. Johnstone FC,2,1,H,NaN,NaN,NaN
+SCO,01/10/1938,,Heart of Midlothian,St. Mirren FC,5,2,H,NaN,NaN,NaN
+SCO,01/10/1938,,Kilmarnock FC,Partick Thistle,4,2,H,NaN,NaN,NaN
+SCO,01/10/1938,,Queen Of The South,Third Lanark,1,2,A,NaN,NaN,NaN
+SCO,01/10/1938,,Queen's Park FC,Ayr United,1,3,A,NaN,NaN,NaN
+SCO,01/10/1938,,Raith Rovers,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,01/10/1938,,Rangers FC,Hibernian FC,5,2,H,NaN,NaN,NaN
+SCO,08/10/1938,,Arbroath FC,Raith Rovers,0,4,A,NaN,NaN,NaN
+SCO,08/10/1938,,Ayr United,Kilmarnock FC,2,2,D,NaN,NaN,NaN
+SCO,08/10/1938,,Celtic FC,Queen Of The South,5,1,H,NaN,NaN,NaN
+SCO,08/10/1938,,Falkirk FC,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,08/10/1938,,Hibernian FC,Queen's Park FC,3,1,H,NaN,NaN,NaN
+SCO,08/10/1938,,Motherwell FC,Clyde FC,3,2,H,NaN,NaN,NaN
+SCO,08/10/1938,,Partick Thistle,Hamilton Academical,3,1,H,NaN,NaN,NaN
+SCO,08/10/1938,,St. Johnstone FC,Heart of Midlothian,1,7,A,NaN,NaN,NaN
+SCO,08/10/1938,,St. Mirren FC,Aberdeen FC,3,1,H,NaN,NaN,NaN
+SCO,08/10/1938,,Third Lanark,Albion Rovers,4,0,H,NaN,NaN,NaN
+SCO,15/10/1938,,Aberdeen FC,Ayr United,5,2,H,NaN,NaN,NaN
+SCO,15/10/1938,,Albion Rovers,Motherwell FC,3,4,A,NaN,NaN,NaN
+SCO,15/10/1938,,Hamilton Academical,St. Mirren FC,1,2,A,NaN,NaN,NaN
+SCO,15/10/1938,,Heart of Midlothian,Arbroath FC,1,1,D,NaN,NaN,NaN
+SCO,15/10/1938,,Kilmarnock FC,Falkirk FC,1,1,D,NaN,NaN,NaN
+SCO,15/10/1938,,Queen Of The South,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,15/10/1938,,Raith Rovers,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,15/10/1938,,Rangers FC,Partick Thistle,4,1,H,NaN,NaN,NaN
+SCO,21/10/1938,,Clyde FC,Arbroath FC,2,0,H,NaN,NaN,NaN
+SCO,22/10/1938,,Albion Rovers,Queen's Park FC,1,3,A,NaN,NaN,NaN
+SCO,22/10/1938,,Ayr United,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,22/10/1938,,Clyde FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,22/10/1938,,Heart of Midlothian,Aberdeen FC,5,2,H,NaN,NaN,NaN
+SCO,22/10/1938,,Kilmarnock FC,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,22/10/1938,,Motherwell FC,Arbroath FC,4,0,H,NaN,NaN,NaN
+SCO,22/10/1938,,Partick Thistle,Celtic FC,0,0,D,NaN,NaN,NaN
+SCO,22/10/1938,,Raith Rovers,Hamilton Academical,2,1,H,NaN,NaN,NaN
+SCO,22/10/1938,,St. Johnstone FC,Falkirk FC,6,3,H,NaN,NaN,NaN
+SCO,22/10/1938,,Third Lanark,St. Mirren FC,3,3,D,NaN,NaN,NaN
+SCO,29/10/1938,,Aberdeen FC,Clyde FC,1,2,A,NaN,NaN,NaN
+SCO,29/10/1938,,Ayr United,Partick Thistle,3,0,H,NaN,NaN,NaN
+SCO,29/10/1938,,Celtic FC,Third Lanark,6,1,H,NaN,NaN,NaN
+SCO,29/10/1938,,Falkirk FC,Arbroath FC,2,0,H,NaN,NaN,NaN
+SCO,29/10/1938,,Hamilton Academical,Albion Rovers,2,1,H,NaN,NaN,NaN
+SCO,29/10/1938,,Hibernian FC,St. Johnstone FC,5,2,H,NaN,NaN,NaN
+SCO,29/10/1938,,Queen Of The South,Kilmarnock FC,2,0,H,NaN,NaN,NaN
+SCO,29/10/1938,,Queen's Park FC,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,29/10/1938,,Rangers FC,Raith Rovers,4,0,H,NaN,NaN,NaN
+SCO,29/10/1938,,St. Mirren FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,05/11/1938,,Aberdeen FC,Hamilton Academical,5,0,H,NaN,NaN,NaN
+SCO,05/11/1938,,Albion Rovers,Rangers FC,2,7,A,NaN,NaN,NaN
+SCO,05/11/1938,,Arbroath FC,Third Lanark,0,5,A,NaN,NaN,NaN
+SCO,05/11/1938,,Celtic FC,Ayr United,3,3,D,NaN,NaN,NaN
+SCO,05/11/1938,,Hibernian FC,Falkirk FC,3,0,H,NaN,NaN,NaN
+SCO,05/11/1938,,Kilmarnock FC,Raith Rovers,4,2,H,NaN,NaN,NaN
+SCO,05/11/1938,,Partick Thistle,Motherwell FC,4,2,H,NaN,NaN,NaN
+SCO,05/11/1938,,Queen Of The South,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,05/11/1938,,Queen's Park FC,Clyde FC,4,2,H,NaN,NaN,NaN
+SCO,05/11/1938,,St. Mirren FC,St. Johnstone FC,4,0,H,NaN,NaN,NaN
+SCO,12/11/1938,,Albion Rovers,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,12/11/1938,,Arbroath FC,Hibernian FC,2,4,A,NaN,NaN,NaN
+SCO,12/11/1938,,Clyde FC,Raith Rovers,2,3,A,NaN,NaN,NaN
+SCO,12/11/1938,,Falkirk FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,12/11/1938,,Heart of Midlothian,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,12/11/1938,,Kilmarnock FC,Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,12/11/1938,,Motherwell FC,Ayr United,1,2,A,NaN,NaN,NaN
+SCO,12/11/1938,,Partick Thistle,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,12/11/1938,,Queen's Park FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,12/11/1938,,St. Johnstone FC,Third Lanark,4,0,H,NaN,NaN,NaN
+SCO,19/11/1938,,Aberdeen FC,Kilmarnock FC,1,2,A,NaN,NaN,NaN
+SCO,19/11/1938,,Albion Rovers,Heart of Midlothian,0,1,A,NaN,NaN,NaN
+SCO,19/11/1938,,Ayr United,St. Johnstone FC,0,0,D,NaN,NaN,NaN
+SCO,19/11/1938,,Celtic FC,Motherwell FC,1,3,A,NaN,NaN,NaN
+SCO,19/11/1938,,Hamilton Academical,Queen Of The South,1,0,H,NaN,NaN,NaN
+SCO,19/11/1938,,Hibernian FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,19/11/1938,,Raith Rovers,Queen's Park FC,4,5,A,NaN,NaN,NaN
+SCO,19/11/1938,,Rangers FC,Clyde FC,2,0,H,NaN,NaN,NaN
+SCO,19/11/1938,,St. Mirren FC,Arbroath FC,1,1,D,NaN,NaN,NaN
+SCO,19/11/1938,,Third Lanark,Falkirk FC,2,2,D,NaN,NaN,NaN
+SCO,26/11/1938,,Arbroath FC,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,26/11/1938,,Clyde FC,Hamilton Academical,4,3,H,NaN,NaN,NaN
+SCO,26/11/1938,,Falkirk FC,Ayr United,3,1,H,NaN,NaN,NaN
+SCO,26/11/1938,,Hibernian FC,St. Mirren FC,6,1,H,NaN,NaN,NaN
+SCO,26/11/1938,,Kilmarnock FC,Albion Rovers,4,2,H,NaN,NaN,NaN
+SCO,26/11/1938,,Motherwell FC,Third Lanark,5,1,H,NaN,NaN,NaN
+SCO,26/11/1938,,Partick Thistle,St. Johnstone FC,1,4,A,NaN,NaN,NaN
+SCO,26/11/1938,,Queen Of The South,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,26/11/1938,,Queen's Park FC,Rangers FC,2,3,A,NaN,NaN,NaN
+SCO,26/11/1938,,Raith Rovers,Heart of Midlothian,1,2,A,NaN,NaN,NaN
+SCO,03/12/1938,,Aberdeen FC,Raith Rovers,6,3,H,NaN,NaN,NaN
+SCO,03/12/1938,,Albion Rovers,Clyde FC,3,0,H,NaN,NaN,NaN
+SCO,03/12/1938,,Ayr United,Arbroath FC,4,1,H,NaN,NaN,NaN
+SCO,03/12/1938,,Celtic FC,Hibernian FC,5,4,H,NaN,NaN,NaN
+SCO,03/12/1938,,Hamilton Academical,Queen's Park FC,3,1,H,NaN,NaN,NaN
+SCO,03/12/1938,,Heart of Midlothian,Kilmarnock FC,2,1,H,NaN,NaN,NaN
+SCO,03/12/1938,,Rangers FC,Queen Of The South,4,1,H,NaN,NaN,NaN
+SCO,03/12/1938,,St. Johnstone FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,03/12/1938,,St. Mirren FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,03/12/1938,,Third Lanark,Partick Thistle,2,4,A,NaN,NaN,NaN
+SCO,10/12/1938,,Aberdeen FC,Albion Rovers,2,1,H,NaN,NaN,NaN
+SCO,10/12/1938,,Clyde FC,Heart of Midlothian,2,6,A,NaN,NaN,NaN
+SCO,10/12/1938,,Falkirk FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,10/12/1938,,Hamilton Academical,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,10/12/1938,,Hibernian FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,10/12/1938,,Partick Thistle,Arbroath FC,3,1,H,NaN,NaN,NaN
+SCO,10/12/1938,,Queen Of The South,Raith Rovers,4,2,H,NaN,NaN,NaN
+SCO,10/12/1938,,Queen's Park FC,Kilmarnock FC,1,5,A,NaN,NaN,NaN
+SCO,10/12/1938,,St. Johnstone FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,10/12/1938,,St. Mirren FC,Ayr United,2,1,H,NaN,NaN,NaN
+SCO,17/12/1938,,Arbroath FC,St. Johnstone FC,3,1,H,NaN,NaN,NaN
+SCO,17/12/1938,,Celtic FC,St. Mirren FC,3,2,H,NaN,NaN,NaN
+SCO,17/12/1938,,Falkirk FC,Partick Thistle,2,5,A,NaN,NaN,NaN
+SCO,17/12/1938,,Heart of Midlothian,Hamilton Academical,2,3,A,NaN,NaN,NaN
+SCO,17/12/1938,,Kilmarnock FC,Clyde FC,1,4,A,NaN,NaN,NaN
+SCO,17/12/1938,,Motherwell FC,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,17/12/1938,,Queen Of The South,Queen's Park FC,3,2,H,NaN,NaN,NaN
+SCO,17/12/1938,,Raith Rovers,Albion Rovers,1,1,D,NaN,NaN,NaN
+SCO,17/12/1938,,Rangers FC,Aberdeen FC,5,2,H,NaN,NaN,NaN
+SCO,17/12/1938,,Third Lanark,Ayr United,3,2,H,NaN,NaN,NaN
+SCO,24/12/1938,,Aberdeen FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,24/12/1938,,Hamilton Academical,Arbroath FC,1,1,D,NaN,NaN,NaN
+SCO,24/12/1938,,Heart of Midlothian,Partick Thistle,5,0,H,NaN,NaN,NaN
+SCO,24/12/1938,,Queen Of The South,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,24/12/1938,,Queen's Park FC,St. Johnstone FC,2,3,A,NaN,NaN,NaN
+SCO,24/12/1938,,Raith Rovers,Third Lanark,2,2,D,NaN,NaN,NaN
+SCO,26/12/1938,,Clyde FC,Falkirk FC,2,4,A,NaN,NaN,NaN
+SCO,26/12/1938,,Rangers FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,28/12/1938,,Albion Rovers,Ayr United,3,3,D,NaN,NaN,NaN
+SCO,28/12/1938,,Kilmarnock FC,Motherwell FC,1,3,A,NaN,NaN,NaN
+SCO,31/12/1938,,Arbroath FC,Queen's Park FC,3,1,H,NaN,NaN,NaN
+SCO,31/12/1938,,Ayr United,Rangers FC,3,4,A,NaN,NaN,NaN
+SCO,31/12/1938,,Celtic FC,Heart of Midlothian,2,2,D,NaN,NaN,NaN
+SCO,31/12/1938,,Falkirk FC,Raith Rovers,6,1,H,NaN,NaN,NaN
+SCO,31/12/1938,,Hibernian FC,Clyde FC,1,1,D,NaN,NaN,NaN
+SCO,31/12/1938,,Motherwell FC,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,31/12/1938,,Partick Thistle,Albion Rovers,1,3,A,NaN,NaN,NaN
+SCO,31/12/1938,,St. Johnstone FC,Kilmarnock FC,1,3,A,NaN,NaN,NaN
+SCO,31/12/1938,,St. Mirren FC,Queen Of The South,2,0,H,NaN,NaN,NaN
+SCO,31/12/1938,,Third Lanark,Hamilton Academical,2,2,D,NaN,NaN,NaN
+SCO,02/01/1939,,Aberdeen FC,Arbroath FC,4,0,H,NaN,NaN,NaN
+SCO,02/01/1939,,Albion Rovers,Falkirk FC,0,3,A,NaN,NaN,NaN
+SCO,02/01/1939,,Clyde FC,Partick Thistle,4,1,H,NaN,NaN,NaN
+SCO,02/01/1939,,Hamilton Academical,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,02/01/1939,,Heart of Midlothian,Hibernian FC,0,1,A,NaN,NaN,NaN
+SCO,02/01/1939,,Kilmarnock FC,St. Mirren FC,3,2,H,NaN,NaN,NaN
+SCO,02/01/1939,,Queen Of The South,Ayr United,6,1,H,NaN,NaN,NaN
+SCO,02/01/1939,,Queen's Park FC,Third Lanark,1,4,A,NaN,NaN,NaN
+SCO,02/01/1939,,Raith Rovers,St. Johnstone FC,5,6,A,NaN,NaN,NaN
+SCO,02/01/1939,,Rangers FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,03/01/1939,,Arbroath FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,03/01/1939,,Ayr United,Aberdeen FC,3,3,D,NaN,NaN,NaN
+SCO,03/01/1939,,Celtic FC,Queen's Park FC,0,1,A,NaN,NaN,NaN
+SCO,03/01/1939,,Falkirk FC,Kilmarnock FC,4,0,H,NaN,NaN,NaN
+SCO,03/01/1939,,Hibernian FC,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,03/01/1939,,Motherwell FC,Albion Rovers,3,1,H,NaN,NaN,NaN
+SCO,03/01/1939,,Partick Thistle,Rangers FC,2,4,A,NaN,NaN,NaN
+SCO,03/01/1939,,St. Mirren FC,Hamilton Academical,2,1,H,NaN,NaN,NaN
+SCO,03/01/1939,,Third Lanark,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,07/01/1939,,Aberdeen FC,Hibernian FC,6,1,H,NaN,NaN,NaN
+SCO,07/01/1939,,Kilmarnock FC,Third Lanark,5,2,H,NaN,NaN,NaN
+SCO,07/01/1939,,Raith Rovers,Celtic FC,4,0,H,NaN,NaN,NaN
+SCO,10/01/1939,,Clyde FC,St. Johnstone FC,3,1,H,NaN,NaN,NaN
+SCO,11/01/1939,,Albion Rovers,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,11/01/1939,,Hamilton Academical,Falkirk FC,1,3,A,NaN,NaN,NaN
+SCO,11/01/1939,,Heart of Midlothian,Ayr United,2,0,H,NaN,NaN,NaN
+SCO,11/01/1939,,Queen Of The South,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,11/01/1939,,Queen's Park FC,Motherwell FC,0,0,D,NaN,NaN,NaN
+SCO,11/01/1939,,Rangers FC,Arbroath FC,4,0,H,NaN,NaN,NaN
+SCO,14/01/1939,,Arbroath FC,Clyde FC,3,0,H,NaN,NaN,NaN
+SCO,14/01/1939,,Falkirk FC,Aberdeen FC,1,3,A,NaN,NaN,NaN
+SCO,14/01/1939,,Hibernian FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,14/01/1939,,Motherwell FC,Raith Rovers,2,4,A,NaN,NaN,NaN
+SCO,14/01/1939,,St. Johnstone FC,Hamilton Academical,0,2,A,NaN,NaN,NaN
+SCO,14/01/1939,,Third Lanark,Queen Of The South,0,1,A,NaN,NaN,NaN
+SCO,24/01/1939,,St. Mirren FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,25/01/1939,,Ayr United,Queen's Park FC,2,0,H,NaN,NaN,NaN
+SCO,25/01/1939,,Celtic FC,Albion Rovers,4,1,H,NaN,NaN,NaN
+SCO,25/01/1939,,St. Johnstone FC,Queen Of The South,3,1,H,NaN,NaN,NaN
+SCO,28/01/1939,,Aberdeen FC,St. Mirren FC,3,2,H,NaN,NaN,NaN
+SCO,28/01/1939,,Albion Rovers,Third Lanark,2,4,A,NaN,NaN,NaN
+SCO,28/01/1939,,Clyde FC,Motherwell FC,4,0,H,NaN,NaN,NaN
+SCO,28/01/1939,,Hamilton Academical,Partick Thistle,4,0,H,NaN,NaN,NaN
+SCO,28/01/1939,,Heart of Midlothian,St. Johnstone FC,8,2,H,NaN,NaN,NaN
+SCO,28/01/1939,,Kilmarnock FC,Ayr United,2,2,D,NaN,NaN,NaN
+SCO,28/01/1939,,Queen Of The South,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,28/01/1939,,Queen's Park FC,Hibernian FC,3,2,H,NaN,NaN,NaN
+SCO,28/01/1939,,Raith Rovers,Arbroath FC,1,3,A,NaN,NaN,NaN
+SCO,28/01/1939,,Rangers FC,Falkirk FC,2,1,H,NaN,NaN,NaN
+SCO,04/02/1939,,St. Johnstone FC,Arbroath FC,4,3,H,NaN,NaN,NaN
+SCO,11/02/1939,,Arbroath FC,Kilmarnock FC,4,1,H,NaN,NaN,NaN
+SCO,11/02/1939,,Ayr United,Hamilton Academical,1,1,D,NaN,NaN,NaN
+SCO,11/02/1939,,Celtic FC,Clyde FC,3,1,H,NaN,NaN,NaN
+SCO,11/02/1939,,Falkirk FC,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,11/02/1939,,Hibernian FC,Albion Rovers,1,2,A,NaN,NaN,NaN
+SCO,11/02/1939,,Motherwell FC,Heart of Midlothian,4,2,H,NaN,NaN,NaN
+SCO,11/02/1939,,Partick Thistle,Queen's Park FC,2,2,D,NaN,NaN,NaN
+SCO,11/02/1939,,St. Johnstone FC,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,11/02/1939,,St. Mirren FC,Raith Rovers,1,2,A,NaN,NaN,NaN
+SCO,11/02/1939,,Third Lanark,Rangers FC,1,2,A,NaN,NaN,NaN
+SCO,18/02/1939,,Partick Thistle,Kilmarnock FC,4,3,H,NaN,NaN,NaN
+SCO,18/02/1939,,Queen Of The South,Hamilton Academical,3,0,H,NaN,NaN,NaN
+SCO,25/02/1939,,Aberdeen FC,Heart of Midlothian,4,3,H,NaN,NaN,NaN
+SCO,25/02/1939,,Arbroath FC,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,25/02/1939,,Celtic FC,Partick Thistle,3,1,H,NaN,NaN,NaN
+SCO,25/02/1939,,Falkirk FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,25/02/1939,,Hamilton Academical,Raith Rovers,1,3,A,NaN,NaN,NaN
+SCO,25/02/1939,,Hibernian FC,Ayr United,2,3,A,NaN,NaN,NaN
+SCO,25/02/1939,,Queen Of The South,Clyde FC,3,2,H,NaN,NaN,NaN
+SCO,25/02/1939,,Queen's Park FC,Albion Rovers,1,2,A,NaN,NaN,NaN
+SCO,25/02/1939,,Rangers FC,Kilmarnock FC,2,2,D,NaN,NaN,NaN
+SCO,25/02/1939,,St. Mirren FC,Third Lanark,3,2,H,NaN,NaN,NaN
+SCO,04/03/1939,,Albion Rovers,Hamilton Academical,5,0,H,NaN,NaN,NaN
+SCO,04/03/1939,,Arbroath FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,04/03/1939,,Heart of Midlothian,Queen's Park FC,8,3,H,NaN,NaN,NaN
+SCO,04/03/1939,,Partick Thistle,Ayr United,2,3,A,NaN,NaN,NaN
+SCO,04/03/1939,,Raith Rovers,Rangers FC,0,2,A,NaN,NaN,NaN
+SCO,07/03/1939,,Clyde FC,Aberdeen FC,1,1,D,NaN,NaN,NaN
+SCO,08/03/1939,,Kilmarnock FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,08/03/1939,,Motherwell FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,08/03/1939,,St. Johnstone FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,08/03/1939,,Third Lanark,Celtic FC,0,2,A,NaN,NaN,NaN
+SCO,11/03/1939,,Ayr United,Celtic FC,1,4,A,NaN,NaN,NaN
+SCO,11/03/1939,,Falkirk FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,11/03/1939,,Hamilton Academical,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,11/03/1939,,Heart of Midlothian,Queen Of The South,1,2,A,NaN,NaN,NaN
+SCO,11/03/1939,,Motherwell FC,Partick Thistle,4,3,H,NaN,NaN,NaN
+SCO,11/03/1939,,Raith Rovers,Kilmarnock FC,2,3,A,NaN,NaN,NaN
+SCO,11/03/1939,,Rangers FC,Albion Rovers,5,0,H,NaN,NaN,NaN
+SCO,11/03/1939,,St. Johnstone FC,St. Mirren FC,6,2,H,NaN,NaN,NaN
+SCO,11/03/1939,,Third Lanark,Arbroath FC,3,0,H,NaN,NaN,NaN
+SCO,15/03/1939,,Clyde FC,Queen's Park FC,2,3,A,NaN,NaN,NaN
+SCO,18/03/1939,,Aberdeen FC,Queen's Park FC,2,1,H,NaN,NaN,NaN
+SCO,18/03/1939,,Ayr United,Motherwell FC,6,1,H,NaN,NaN,NaN
+SCO,18/03/1939,,Celtic FC,Falkirk FC,1,2,A,NaN,NaN,NaN
+SCO,18/03/1939,,Hamilton Academical,Kilmarnock FC,3,1,H,NaN,NaN,NaN
+SCO,18/03/1939,,Hibernian FC,Arbroath FC,1,1,D,NaN,NaN,NaN
+SCO,18/03/1939,,Queen Of The South,Albion Rovers,3,3,D,NaN,NaN,NaN
+SCO,18/03/1939,,Raith Rovers,Clyde FC,0,2,A,NaN,NaN,NaN
+SCO,18/03/1939,,Rangers FC,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,18/03/1939,,St. Mirren FC,Partick Thistle,1,4,A,NaN,NaN,NaN
+SCO,18/03/1939,,Third Lanark,St. Johnstone FC,1,3,A,NaN,NaN,NaN
+SCO,25/03/1939,,Arbroath FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,25/03/1939,,Falkirk FC,Third Lanark,4,0,H,NaN,NaN,NaN
+SCO,25/03/1939,,Queen's Park FC,Raith Rovers,3,0,H,NaN,NaN,NaN
+SCO,25/03/1939,,St. Johnstone FC,Ayr United,0,1,A,NaN,NaN,NaN
+SCO,28/03/1939,,Clyde FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,28/03/1939,,Partick Thistle,Hibernian FC,4,0,H,NaN,NaN,NaN
+SCO,29/03/1939,,Heart of Midlothian,Albion Rovers,2,0,H,NaN,NaN,NaN
+SCO,01/04/1939,,Aberdeen FC,Queen Of The South,4,3,H,NaN,NaN,NaN
+SCO,01/04/1939,,Albion Rovers,Kilmarnock FC,6,1,H,NaN,NaN,NaN
+SCO,01/04/1939,,Ayr United,Falkirk FC,3,0,H,NaN,NaN,NaN
+SCO,01/04/1939,,Celtic FC,Arbroath FC,2,0,H,NaN,NaN,NaN
+SCO,01/04/1939,,Hamilton Academical,Clyde FC,1,2,A,NaN,NaN,NaN
+SCO,01/04/1939,,Heart of Midlothian,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,01/04/1939,,Rangers FC,Queen's Park FC,1,0,H,NaN,NaN,NaN
+SCO,01/04/1939,,St. Johnstone FC,Partick Thistle,7,0,H,NaN,NaN,NaN
+SCO,01/04/1939,,St. Mirren FC,Hibernian FC,0,0,D,NaN,NaN,NaN
+SCO,01/04/1939,,Third Lanark,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,05/04/1939,,Kilmarnock FC,Aberdeen FC,0,3,A,NaN,NaN,NaN
+SCO,05/04/1939,,Motherwell FC,Celtic FC,2,3,A,NaN,NaN,NaN
+SCO,08/04/1939,,Arbroath FC,Ayr United,3,0,H,NaN,NaN,NaN
+SCO,08/04/1939,,Clyde FC,Albion Rovers,0,0,D,NaN,NaN,NaN
+SCO,08/04/1939,,Falkirk FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,08/04/1939,,Hibernian FC,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,08/04/1939,,Kilmarnock FC,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,08/04/1939,,Motherwell FC,St. Johnstone FC,3,1,H,NaN,NaN,NaN
+SCO,08/04/1939,,Partick Thistle,Third Lanark,4,1,H,NaN,NaN,NaN
+SCO,08/04/1939,,Queen Of The South,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,08/04/1939,,Queen's Park FC,Hamilton Academical,1,2,A,NaN,NaN,NaN
+SCO,08/04/1939,,Raith Rovers,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,10/04/1939,,Clyde FC,Third Lanark,4,1,H,NaN,NaN,NaN
+SCO,10/04/1939,,Queen's Park FC,Celtic FC,1,2,A,NaN,NaN,NaN
+SCO,14/04/1939,,Motherwell FC,Falkirk FC,1,3,A,NaN,NaN,NaN
+SCO,21/04/1939,,Rangers FC,Hamilton Academical,3,2,H,NaN,NaN,NaN
+SCO,21/04/1939,,Third Lanark,Hibernian FC,2,0,H,NaN,NaN,NaN
+SCO,22/04/1939,,Albion Rovers,Aberdeen FC,1,0,H,NaN,NaN,NaN
+SCO,22/04/1939,,Arbroath FC,Partick Thistle,4,0,H,NaN,NaN,NaN
+SCO,22/04/1939,,Ayr United,St. Mirren FC,2,3,A,NaN,NaN,NaN
+SCO,22/04/1939,,Celtic FC,St. Johnstone FC,1,1,D,NaN,NaN,NaN
+SCO,22/04/1939,,Kilmarnock FC,Queen's Park FC,3,0,H,NaN,NaN,NaN
+SCO,22/04/1939,,Raith Rovers,Queen Of The South,1,3,A,NaN,NaN,NaN
+SCO,26/04/1939,,Heart of Midlothian,Clyde FC,2,0,H,NaN,NaN,NaN
+SCO,29/04/1939,,Aberdeen FC,Rangers FC,2,0,H,NaN,NaN,NaN
+SCO,29/04/1939,,Albion Rovers,Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,29/04/1939,,Ayr United,Third Lanark,3,3,D,NaN,NaN,NaN
+SCO,29/04/1939,,Clyde FC,Kilmarnock FC,5,1,H,NaN,NaN,NaN
+SCO,29/04/1939,,Hamilton Academical,Heart of Midlothian,4,1,H,NaN,NaN,NaN
+SCO,29/04/1939,,Hibernian FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,29/04/1939,,Partick Thistle,Falkirk FC,2,0,H,NaN,NaN,NaN
+SCO,29/04/1939,,Queen's Park FC,Queen Of The South,2,0,H,NaN,NaN,NaN
+SCO,29/04/1939,,St. Mirren FC,Celtic FC,2,1,H,NaN,NaN,NaN

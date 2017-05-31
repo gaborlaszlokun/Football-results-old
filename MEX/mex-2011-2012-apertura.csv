@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,23/07/2011,02:10,Estudiantes Tecos,Deportivo Toluca,1,2,A,0,2,A
+MEX,23/07/2011,23:00,CF Pachuca,Santos Laguna,1,4,A,0,3,A
+MEX,24/07/2011,01:00,UANL Tigres,Cruz Azul,1,1,D,1,1,D
+MEX,24/07/2011,01:00,Club Tijuana,Monarcas Morelia,1,2,A,1,1,D
+MEX,24/07/2011,02:45,Atlas Guadalajara,Puebla FC,0,1,A,0,0,D
+MEX,24/07/2011,03:00,CF Atlante,Deportivo Guadalajara,0,2,A,0,0,D
+MEX,24/07/2011,18:00,Pumas UNAM,Club San Luis,2,0,H,2,0,H
+MEX,24/07/2011,22:00,CF América,Gallos Blancos (old),2,1,H,2,0,H
+MEX,25/07/2011,00:00,Jaguares Chiapas,CF Monterrey,1,4,A,1,2,A
+MEX,30/07/2011,23:00,Cruz Azul,Atlas Guadalajara,2,1,H,0,1,A
+MEX,30/07/2011,23:00,Gallos Blancos (old),UANL Tigres,0,0,D,0,0,D
+MEX,31/07/2011,01:00,CF Monterrey,Club Tijuana,4,2,H,1,2,A
+MEX,31/07/2011,01:00,Santos Laguna,CF Atlante,3,0,H,1,0,H
+MEX,31/07/2011,02:45,Club San Luis,Estudiantes Tecos,2,1,H,1,0,H
+MEX,31/07/2011,18:00,Monarcas Morelia,Pumas UNAM,0,1,A,0,1,A
+MEX,31/07/2011,18:00,Puebla FC,CF Pachuca,2,2,D,2,0,H
+MEX,31/07/2011,18:00,Deportivo Toluca,CF América,1,1,D,1,1,D
+MEX,31/07/2011,23:00,Deportivo Guadalajara,Jaguares Chiapas,2,1,H,0,0,D
+MEX,04/08/2011,01:00,CF América,Estudiantes Tecos,1,2,A,1,0,H
+MEX,04/08/2011,02:30,CF Pachuca,Cruz Azul,1,0,H,0,0,D
+MEX,04/08/2011,02:45,Atlas Guadalajara,Gallos Blancos (old),3,0,H,1,0,H
+MEX,04/08/2011,02:45,UANL Tigres,Deportivo Toluca,2,2,D,1,0,H
+MEX,04/08/2011,03:00,Pumas UNAM,CF Monterrey,2,1,H,1,1,D
+MEX,04/08/2011,03:00,CF Atlante,Puebla FC,5,1,H,3,0,H
+MEX,03/09/2011,00:00,Club Tijuana,Deportivo Guadalajara,0,1,A,0,1,A
+MEX,03/09/2011,02:00,Jaguares Chiapas,Santos Laguna,3,2,H,0,1,A
+MEX,04/09/2011,18:00,Club San Luis,Monarcas Morelia,2,3,A,1,2,A
+MEX,06/08/2011,22:00,Cruz Azul,CF Atlante,2,1,H,1,0,H
+MEX,06/08/2011,23:00,Gallos Blancos (old),CF Pachuca,2,1,H,0,1,A
+MEX,07/08/2011,01:00,Deportivo Guadalajara,Pumas UNAM,0,0,D,0,0,D
+MEX,07/08/2011,01:00,Santos Laguna,Club Tijuana,1,3,A,1,1,D
+MEX,07/08/2011,03:00,CF Monterrey,Monarcas Morelia,2,0,H,0,0,D
+MEX,07/08/2011,18:00,Puebla FC,Jaguares Chiapas,1,2,A,1,1,D
+MEX,07/08/2011,18:00,Deportivo Toluca,Atlas Guadalajara,0,0,D,0,0,D
+MEX,08/08/2011,00:00,Estudiantes Tecos,UANL Tigres,0,1,A,0,0,D
+MEX,15/09/2011,02:30,CF América,Club San Luis,2,2,D,0,1,A
+MEX,13/08/2011,02:10,Monarcas Morelia,Deportivo Guadalajara,1,2,A,0,0,D
+MEX,13/08/2011,23:00,Club San Luis,CF Monterrey,1,0,H,1,0,H
+MEX,13/08/2011,23:30,Jaguares Chiapas,Cruz Azul,1,1,D,0,1,A
+MEX,14/08/2011,00:00,UANL Tigres,CF América,2,2,D,0,1,A
+MEX,14/08/2011,01:00,CF Pachuca,Deportivo Toluca,3,0,H,2,0,H
+MEX,14/08/2011,02:45,Atlas Guadalajara,Estudiantes Tecos,0,2,A,0,1,A
+MEX,14/08/2011,03:00,CF Atlante,Gallos Blancos (old),1,3,A,0,1,A
+MEX,14/08/2011,18:00,Pumas UNAM,Santos Laguna,1,1,D,0,0,D
+MEX,14/08/2011,20:00,Club Tijuana,Puebla FC,1,1,D,1,1,D
+MEX,20/08/2011,02:10,Estudiantes Tecos,CF Pachuca,2,1,H,0,1,A
+MEX,20/08/2011,22:00,Cruz Azul,Club Tijuana,2,1,H,0,1,A
+MEX,20/08/2011,23:00,Gallos Blancos (old),Jaguares Chiapas,1,2,A,0,0,D
+MEX,21/08/2011,01:00,Deportivo Guadalajara,CF Monterrey,2,1,H,1,1,D
+MEX,21/08/2011,01:00,UANL Tigres,Club San Luis,1,0,H,0,0,D
+MEX,21/08/2011,18:00,Puebla FC,Pumas UNAM,2,1,H,2,0,H
+MEX,21/08/2011,18:00,Deportivo Toluca,CF Atlante,2,1,H,0,0,D
+MEX,21/08/2011,22:00,CF América,Atlas Guadalajara,5,2,H,1,1,D
+MEX,02/11/2011,02:30,Santos Laguna,Monarcas Morelia,0,2,A,0,0,D
+MEX,27/08/2011,02:00,Jaguares Chiapas,Deportivo Toluca,1,1,D,0,0,D
+MEX,28/08/2011,01:00,CF Monterrey,Santos Laguna,2,0,H,1,0,H
+MEX,28/08/2011,01:00,CF Pachuca,CF América,2,0,H,1,0,H
+MEX,28/08/2011,02:45,Atlas Guadalajara,UANL Tigres,0,1,A,0,1,A
+MEX,28/08/2011,02:45,Club San Luis,Deportivo Guadalajara,2,0,H,0,0,D
+MEX,28/08/2011,03:00,CF Atlante,Estudiantes Tecos,2,1,H,1,0,H
+MEX,28/08/2011,18:00,Pumas UNAM,Cruz Azul,1,2,A,1,1,D
+MEX,28/08/2011,20:00,Club Tijuana,Gallos Blancos (old),1,1,D,1,1,D
+MEX,29/08/2011,00:00,Monarcas Morelia,Puebla FC,0,0,D,0,0,D
+MEX,10/09/2011,02:10,Estudiantes Tecos,Jaguares Chiapas,0,2,A,0,0,D
+MEX,10/09/2011,23:00,Cruz Azul,Monarcas Morelia,0,1,A,0,0,D
+MEX,10/09/2011,23:00,Gallos Blancos (old),Pumas UNAM,4,0,H,2,0,H
+MEX,11/09/2011,01:00,Santos Laguna,Deportivo Guadalajara,1,1,D,0,0,D
+MEX,11/09/2011,01:00,UANL Tigres,CF Pachuca,5,0,H,3,0,H
+MEX,11/09/2011,02:45,Atlas Guadalajara,Club San Luis,1,1,D,1,0,H
+MEX,11/09/2011,18:00,Puebla FC,CF Monterrey,3,3,D,0,1,A
+MEX,11/09/2011,18:00,Deportivo Toluca,Club Tijuana,1,1,D,0,0,D
+MEX,11/09/2011,22:00,CF América,CF Atlante,0,1,A,0,0,D
+MEX,17/09/2011,23:00,CF Monterrey,Cruz Azul,1,2,A,1,1,D
+MEX,17/09/2011,23:00,Jaguares Chiapas,CF América,5,3,H,3,1,H
+MEX,18/09/2011,01:00,Deportivo Guadalajara,Puebla FC,1,4,A,1,1,D
+MEX,18/09/2011,01:00,CF Pachuca,Atlas Guadalajara,4,2,H,2,1,H
+MEX,18/09/2011,02:45,Club San Luis,Santos Laguna,0,1,A,0,1,A
+MEX,18/09/2011,03:00,CF Atlante,UANL Tigres,1,0,H,1,0,H
+MEX,18/09/2011,18:00,Pumas UNAM,Deportivo Toluca,4,1,H,2,1,H
+MEX,18/09/2011,20:00,Club Tijuana,Estudiantes Tecos,0,2,A,0,0,D
+MEX,19/09/2011,00:00,Monarcas Morelia,Gallos Blancos (old),4,2,H,3,1,H
+MEX,24/09/2011,23:00,Cruz Azul,Deportivo Guadalajara,1,1,D,0,1,A
+MEX,24/09/2011,23:00,Gallos Blancos (old),CF Monterrey,2,1,H,1,0,H
+MEX,25/09/2011,01:00,Estudiantes Tecos,Pumas UNAM,1,2,A,1,1,D
+MEX,25/09/2011,01:00,UANL Tigres,Jaguares Chiapas,1,1,D,0,0,D
+MEX,25/09/2011,01:00,CF Pachuca,Club San Luis,1,1,D,1,1,D
+MEX,25/09/2011,02:45,Atlas Guadalajara,CF Atlante,2,3,A,1,2,A
+MEX,25/09/2011,18:00,Puebla FC,Santos Laguna,1,2,A,0,1,A
+MEX,25/09/2011,18:00,Deportivo Toluca,Monarcas Morelia,2,1,H,1,0,H
+MEX,25/09/2011,22:00,CF América,Club Tijuana,1,1,D,0,1,A
+MEX,01/10/2011,01:45,Jaguares Chiapas,Atlas Guadalajara,1,1,D,1,0,H
+MEX,01/10/2011,22:00,Pumas UNAM,CF América,1,0,H,0,0,D
+MEX,01/10/2011,23:00,Monarcas Morelia,Estudiantes Tecos,0,2,A,0,0,D
+MEX,02/10/2011,01:00,CF Monterrey,Deportivo Toluca,0,0,D,0,0,D
+MEX,02/10/2011,01:00,Santos Laguna,Cruz Azul,1,0,H,1,0,H
+MEX,02/10/2011,01:00,Deportivo Guadalajara,Gallos Blancos (old),0,1,A,0,1,A
+MEX,02/10/2011,02:45,Club San Luis,Puebla FC,2,1,H,0,1,A
+MEX,02/10/2011,03:00,CF Atlante,CF Pachuca,0,1,A,0,0,D
+MEX,02/10/2011,20:00,Club Tijuana,UANL Tigres,1,1,D,0,1,A
+MEX,08/10/2011,02:10,Estudiantes Tecos,CF Monterrey,2,3,A,0,2,A
+MEX,08/10/2011,23:00,Cruz Azul,Puebla FC,2,0,H,0,0,D
+MEX,08/10/2011,23:00,Gallos Blancos (old),Santos Laguna,1,3,A,1,2,A
+MEX,09/10/2011,01:00,UANL Tigres,Pumas UNAM,4,1,H,4,0,H
+MEX,09/10/2011,01:00,CF Pachuca,Jaguares Chiapas,1,0,H,1,0,H
+MEX,09/10/2011,02:45,Atlas Guadalajara,Club Tijuana,2,2,D,0,0,D
+MEX,09/10/2011,03:00,CF Atlante,Club San Luis,1,1,D,0,0,D
+MEX,09/10/2011,18:00,Deportivo Toluca,Deportivo Guadalajara,0,0,D,0,0,D
+MEX,09/10/2011,23:00,CF América,Monarcas Morelia,1,1,D,0,1,A
+MEX,15/10/2011,00:00,Monarcas Morelia,UANL Tigres,2,0,H,0,0,D
+MEX,15/10/2011,23:00,CF Monterrey,CF América,0,3,A,0,1,A
+MEX,15/10/2011,23:00,Jaguares Chiapas,CF Atlante,1,1,D,0,0,D
+MEX,16/10/2011,01:00,Santos Laguna,Deportivo Toluca,3,2,H,2,1,H
+MEX,16/10/2011,01:00,Deportivo Guadalajara,Estudiantes Tecos,5,2,H,3,0,H
+MEX,16/10/2011,01:00,Club Tijuana,CF Pachuca,3,2,H,1,1,D
+MEX,16/10/2011,02:45,Club San Luis,Cruz Azul,1,1,D,0,0,D
+MEX,16/10/2011,18:00,Puebla FC,Gallos Blancos (old),1,0,H,0,0,D
+MEX,16/10/2011,18:00,Pumas UNAM,Atlas Guadalajara,1,4,A,1,1,D
+MEX,22/10/2011,23:00,Estudiantes Tecos,Santos Laguna,5,2,H,2,0,H
+MEX,22/10/2011,23:00,Gallos Blancos (old),Cruz Azul,1,0,H,0,0,D
+MEX,22/10/2011,23:00,Jaguares Chiapas,Club San Luis,3,1,H,2,0,H
+MEX,23/10/2011,01:00,UANL Tigres,CF Monterrey,0,0,D,0,0,D
+MEX,23/10/2011,01:00,CF Pachuca,Pumas UNAM,0,0,D,0,0,D
+MEX,23/10/2011,02:45,Atlas Guadalajara,Monarcas Morelia,1,1,D,0,0,D
+MEX,23/10/2011,03:00,CF Atlante,Club Tijuana,1,1,D,0,1,A
+MEX,23/10/2011,18:00,Deportivo Toluca,Puebla FC,4,3,H,2,2,D
+MEX,23/10/2011,22:00,CF América,Deportivo Guadalajara,1,3,A,1,3,A
+MEX,26/10/2011,02:30,Monarcas Morelia,CF Pachuca,2,2,D,1,1,D
+MEX,27/10/2011,01:00,Cruz Azul,Deportivo Toluca,0,0,D,0,0,D
+MEX,27/10/2011,02:00,Puebla FC,Estudiantes Tecos,2,1,H,1,0,H
+MEX,27/10/2011,02:00,Deportivo Guadalajara,UANL Tigres,1,0,H,0,0,D
+MEX,27/10/2011,02:00,CF Monterrey,Atlas Guadalajara,2,0,H,0,0,D
+MEX,27/10/2011,02:30,Club San Luis,Gallos Blancos (old),2,1,H,0,0,D
+MEX,27/10/2011,03:00,Pumas UNAM,CF Atlante,1,0,H,0,0,D
+MEX,27/10/2011,03:00,Santos Laguna,CF América,1,1,D,1,1,D
+MEX,27/10/2011,04:00,Club Tijuana,Jaguares Chiapas,2,0,H,0,0,D
+MEX,29/10/2011,22:00,CF Atlante,Monarcas Morelia,4,4,D,0,2,A
+MEX,29/10/2011,23:00,Jaguares Chiapas,Pumas UNAM,4,0,H,3,0,H
+MEX,30/10/2011,01:00,UANL Tigres,Santos Laguna,2,1,H,1,1,D
+MEX,30/10/2011,01:00,CF Pachuca,CF Monterrey,4,0,H,2,0,H
+MEX,30/10/2011,01:45,Atlas Guadalajara,Deportivo Guadalajara,1,1,D,0,0,D
+MEX,30/10/2011,18:00,Estudiantes Tecos,Cruz Azul,0,2,A,0,0,D
+MEX,30/10/2011,18:00,Deportivo Toluca,Gallos Blancos (old),0,1,A,0,1,A
+MEX,30/10/2011,19:00,Club Tijuana,Club San Luis,0,0,D,0,0,D
+MEX,30/10/2011,22:00,CF América,Puebla FC,2,3,A,1,2,A
+MEX,05/11/2011,02:00,Monarcas Morelia,Jaguares Chiapas,1,0,H,0,0,D
+MEX,05/11/2011,23:00,Gallos Blancos (old),Estudiantes Tecos,3,0,H,0,0,D
+MEX,05/11/2011,23:00,CF Monterrey,CF Atlante,3,2,H,1,0,H
+MEX,05/11/2011,23:00,Cruz Azul,CF América,3,1,H,1,0,H
+MEX,06/11/2011,01:00,Santos Laguna,Atlas Guadalajara,3,0,H,1,0,H
+MEX,06/11/2011,01:00,Deportivo Guadalajara,CF Pachuca,2,2,D,1,0,H
+MEX,06/11/2011,02:45,Club San Luis,Deportivo Toluca,5,1,H,2,0,H
+MEX,06/11/2011,18:00,Puebla FC,UANL Tigres,0,1,A,0,1,A
+MEX,06/11/2011,18:00,Pumas UNAM,Club Tijuana,1,1,D,1,0,H

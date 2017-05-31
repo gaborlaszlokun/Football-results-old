@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+POR,28/08/2004,19:15,Os Belenenses,CS Marítimo,3,0,H,2,0,H
+POR,28/08/2004,21:15,Sporting CP,Gil Vicente,3,2,H,2,0,H
+POR,29/08/2004,16:00,FC Penafiel,Vitória Setúbal,1,4,A,1,1,D
+POR,29/08/2004,16:00,GD Estoril,Rio Ave FC,0,0,D,0,0,D
+POR,29/08/2004,17:00,Moreirense FC,Vitória Guimarães,0,0,D,0,0,D
+POR,29/08/2004,18:00,Boavista,CD Nacional,1,0,H,0,0,D
+POR,29/08/2004,20:30,SC Beira-Mar,SL Benfica,2,3,A,0,2,A
+POR,30/08/2004,20:30,Académica de Coimbra,Sporting Braga,2,2,D,1,2,A
+POR,22/09/2004,21:00,FC Porto,União Leiria,1,1,D,1,0,H
+POR,05/09/2004,16:00,Vitória Guimarães,Académica de Coimbra,2,1,H,2,0,H
+POR,10/09/2004,21:30,Gil Vicente,Boavista,0,1,A,0,1,A
+POR,11/09/2004,16:00,CS Marítimo,FC Penafiel,3,0,H,1,0,H
+POR,11/09/2004,18:00,União Leiria,GD Estoril,4,2,H,2,1,H
+POR,11/09/2004,19:00,Sporting Braga,FC Porto,1,1,D,0,1,A
+POR,11/09/2004,21:15,SL Benfica,Moreirense FC,2,0,H,1,0,H
+POR,12/09/2004,16:00,CD Nacional,SC Beira-Mar,2,1,H,1,1,D
+POR,12/09/2004,19:30,Vitória Setúbal,Sporting CP,2,0,H,0,0,D
+POR,13/09/2004,20:30,Rio Ave FC,Os Belenenses,3,3,D,2,0,H
+POR,17/09/2004,21:30,Boavista,Vitória Setúbal,1,1,D,1,0,H
+POR,18/09/2004,21:15,FC Porto,GD Estoril,2,2,D,1,2,A
+POR,19/09/2004,16:00,Os Belenenses,União Leiria,2,1,H,2,0,H
+POR,19/09/2004,16:00,SC Beira-Mar,Gil Vicente,1,0,H,1,0,H
+POR,19/09/2004,16:00,FC Penafiel,Rio Ave FC,1,1,D,0,0,D
+POR,19/09/2004,16:00,Moreirense FC,CD Nacional,3,2,H,2,0,H
+POR,19/09/2004,21:15,Académica de Coimbra,SL Benfica,0,1,A,0,0,D
+POR,20/09/2004,20:30,Sporting CP,CS Marítimo,0,1,A,NaN,NaN,NaN
+POR,21/09/2004,20:30,Sporting Braga,Vitória Guimarães,1,0,H,1,0,H
+POR,24/09/2004,21:30,Vitória Setúbal,SC Beira-Mar,1,2,A,1,1,D
+POR,25/09/2004,19:00,CS Marítimo,Boavista,2,1,H,1,1,D
+POR,25/09/2004,21:15,Vitória Guimarães,FC Porto,0,1,A,0,0,D
+POR,26/09/2004,16:00,União Leiria,FC Penafiel,1,2,A,0,2,A
+POR,26/09/2004,16:00,Gil Vicente,Moreirense FC,3,1,H,0,0,D
+POR,26/09/2004,16:00,CD Nacional,Académica de Coimbra,2,1,H,0,0,D
+POR,26/09/2004,19:15,SL Benfica,Sporting Braga,0,0,D,NaN,NaN,NaN
+POR,26/09/2004,21:15,Rio Ave FC,Sporting CP,0,0,D,NaN,NaN,NaN
+POR,27/09/2004,20:30,GD Estoril,Os Belenenses,1,0,H,0,0,D
+POR,01/10/2004,21:30,Boavista,Rio Ave FC,0,1,A,0,0,D
+POR,03/10/2004,16:00,FC Penafiel,GD Estoril,2,1,H,2,1,H
+POR,03/10/2004,16:00,Académica de Coimbra,Gil Vicente,2,1,H,2,1,H
+POR,03/10/2004,16:00,Moreirense FC,Vitória Setúbal,2,2,D,1,0,H
+POR,03/10/2004,19:15,FC Porto,Os Belenenses,3,0,H,1,0,H
+POR,03/10/2004,21:30,Vitória Guimarães,SL Benfica,1,2,A,0,0,D
+POR,04/10/2004,20:30,Sporting CP,União Leiria,2,2,D,1,1,D
+POR,05/10/2004,20:30,Sporting Braga,CD Nacional,3,2,H,1,0,H
+POR,10/10/2004,19:45,SC Beira-Mar,CS Marítimo,2,2,D,1,0,H
+POR,15/10/2004,21:30,Gil Vicente,Sporting Braga,0,1,A,0,0,D
+POR,16/10/2004,16:00,CS Marítimo,Moreirense FC,1,0,H,0,0,D
+POR,16/10/2004,19:15,CD Nacional,Vitória Guimarães,1,0,H,1,0,H
+POR,16/10/2004,21:15,GD Estoril,Sporting CP,1,4,A,0,2,A
+POR,17/10/2004,16:00,Os Belenenses,FC Penafiel,4,1,H,1,1,D
+POR,17/10/2004,16:00,União Leiria,Boavista,0,3,A,0,1,A
+POR,17/10/2004,16:00,Rio Ave FC,SC Beira-Mar,1,1,D,1,0,H
+POR,17/10/2004,19:45,SL Benfica,FC Porto,0,1,A,0,1,A
+POR,18/10/2004,19:45,Vitória Setúbal,Académica de Coimbra,1,0,H,0,0,D
+POR,22/10/2004,21:30,Boavista,GD Estoril,0,0,D,0,0,D
+POR,23/10/2004,16:00,Moreirense FC,Rio Ave FC,0,0,D,0,0,D
+POR,23/10/2004,19:15,Sporting Braga,Vitória Setúbal,2,3,A,2,1,H
+POR,23/10/2004,21:30,Sporting CP,Os Belenenses,2,0,H,0,0,D
+POR,24/10/2004,16:00,Vitória Guimarães,Gil Vicente,2,1,H,2,0,H
+POR,24/10/2004,16:00,SC Beira-Mar,União Leiria,0,1,A,0,0,D
+POR,24/10/2004,16:00,Académica de Coimbra,CS Marítimo,1,0,H,1,0,H
+POR,24/10/2004,19:15,SL Benfica,CD Nacional,2,1,H,0,0,D
+POR,24/10/2004,21:30,FC Porto,FC Penafiel,2,0,H,2,0,H
+POR,30/10/2004,19:15,FC Penafiel,Sporting CP,0,3,A,0,0,D
+POR,30/10/2004,21:15,CD Nacional,FC Porto,2,2,D,0,1,A
+POR,31/10/2004,16:00,União Leiria,Moreirense FC,0,0,D,NaN,NaN,NaN
+POR,31/10/2004,16:00,Rio Ave FC,Académica de Coimbra,3,1,H,1,0,H
+POR,31/10/2004,16:00,GD Estoril,SC Beira-Mar,5,0,H,3,0,H
+POR,31/10/2004,18:00,Os Belenenses,Boavista,1,2,A,1,1,D
+POR,31/10/2004,20:30,Gil Vicente,SL Benfica,1,1,D,1,0,H
+POR,01/11/2004,17:45,CS Marítimo,Sporting Braga,2,0,H,1,0,H
+POR,01/11/2004,20:30,Vitória Setúbal,Vitória Guimarães,1,0,H,0,0,D
+POR,05/11/2004,21:30,SC Beira-Mar,Os Belenenses,3,3,D,1,1,D
+POR,06/11/2004,19:15,Vitória Guimarães,CS Marítimo,1,1,D,0,1,A
+POR,06/11/2004,21:30,Boavista,FC Penafiel,2,1,H,0,1,A
+POR,07/11/2004,16:00,Sporting Braga,Rio Ave FC,3,0,H,2,0,H
+POR,07/11/2004,16:00,Académica de Coimbra,União Leiria,0,1,A,0,1,A
+POR,07/11/2004,16:00,Moreirense FC,GD Estoril,1,2,A,1,0,H
+POR,07/11/2004,16:00,CD Nacional,Gil Vicente,0,0,D,NaN,NaN,NaN
+POR,07/11/2004,19:15,SL Benfica,Vitória Setúbal,4,0,H,1,0,H
+POR,08/11/2004,20:30,FC Porto,Sporting CP,3,0,H,0,0,D
+POR,12/11/2004,21:30,GD Estoril,Académica de Coimbra,0,1,A,0,0,D
+POR,13/11/2004,16:00,Os Belenenses,Moreirense FC,3,0,H,1,0,H
+POR,13/11/2004,16:00,Vitória Setúbal,CD Nacional,1,0,H,0,0,D
+POR,13/11/2004,16:00,FC Penafiel,SC Beira-Mar,2,1,H,2,1,H
+POR,13/11/2004,19:00,Gil Vicente,FC Porto,0,2,A,0,1,A
+POR,13/11/2004,21:15,CS Marítimo,SL Benfica,1,1,D,1,1,D
+POR,14/11/2004,18:15,União Leiria,Sporting Braga,0,0,D,NaN,NaN,NaN
+POR,14/11/2004,21:30,Sporting CP,Boavista,6,1,H,3,0,H
+POR,15/11/2004,20:30,Rio Ave FC,Vitória Guimarães,1,1,D,1,0,H
+POR,19/11/2004,21:30,CD Nacional,CS Marítimo,1,1,D,0,0,D
+POR,20/11/2004,18:15,FC Porto,Boavista,0,1,A,0,0,D
+POR,20/11/2004,21:15,SC Beira-Mar,Sporting CP,2,2,D,1,1,D
+POR,21/11/2004,16:00,Sporting Braga,GD Estoril,2,0,H,1,0,H
+POR,21/11/2004,16:00,Vitória Guimarães,União Leiria,1,1,D,1,0,H
+POR,21/11/2004,16:00,Gil Vicente,Vitória Setúbal,2,1,H,1,0,H
+POR,21/11/2004,16:00,Moreirense FC,FC Penafiel,2,2,D,2,2,D
+POR,21/11/2004,19:45,SL Benfica,Rio Ave FC,3,3,D,3,1,H
+POR,22/11/2004,20:30,Académica de Coimbra,Os Belenenses,1,1,D,1,0,H
+POR,26/11/2004,21:30,Boavista,SC Beira-Mar,3,0,H,1,0,H
+POR,27/11/2004,21:30,Os Belenenses,Sporting Braga,1,2,A,0,0,D
+POR,28/11/2004,16:00,CS Marítimo,Gil Vicente,1,1,D,1,0,H
+POR,28/11/2004,16:00,Rio Ave FC,CD Nacional,4,1,H,2,0,H
+POR,28/11/2004,16:00,FC Penafiel,Académica de Coimbra,3,1,H,1,1,D
+POR,28/11/2004,16:00,GD Estoril,Vitória Guimarães,0,1,A,0,0,D
+POR,28/11/2004,18:45,União Leiria,SL Benfica,1,0,H,1,0,H
+POR,28/11/2004,21:00,Sporting CP,Moreirense FC,4,1,H,2,0,H
+POR,29/11/2004,20:30,Vitória Setúbal,FC Porto,0,1,A,0,1,A
+POR,03/12/2004,19:45,FC Porto,SC Beira-Mar,0,1,A,0,1,A
+POR,04/12/2004,19:00,Vitória Guimarães,Os Belenenses,1,0,H,1,0,H
+POR,04/12/2004,19:30,CD Nacional,União Leiria,0,3,A,0,0,D
+POR,05/12/2004,16:00,Sporting Braga,FC Penafiel,0,1,A,0,1,A
+POR,05/12/2004,16:00,Gil Vicente,Rio Ave FC,3,1,H,1,0,H
+POR,05/12/2004,16:00,Moreirense FC,Boavista,1,1,D,0,0,D
+POR,05/12/2004,19:00,Vitória Setúbal,CS Marítimo,2,0,H,1,0,H
+POR,05/12/2004,21:15,Académica de Coimbra,Sporting CP,2,3,A,0,2,A
+POR,06/12/2004,20:30,SL Benfica,GD Estoril,2,1,H,2,1,H
+POR,10/12/2004,21:30,Boavista,Académica de Coimbra,1,0,H,0,0,D
+POR,11/12/2004,18:45,Rio Ave FC,Vitória Setúbal,1,0,H,1,0,H
+POR,11/12/2004,21:15,Sporting CP,Sporting Braga,0,0,D,0,0,D
+POR,12/12/2004,16:00,União Leiria,Gil Vicente,1,1,D,0,1,A
+POR,12/12/2004,16:00,SC Beira-Mar,Moreirense FC,1,3,A,1,2,A
+POR,12/12/2004,16:00,FC Penafiel,Vitória Guimarães,1,3,A,0,2,A
+POR,12/12/2004,16:00,GD Estoril,CD Nacional,2,0,H,1,0,H
+POR,12/12/2004,20:00,Os Belenenses,SL Benfica,4,1,H,3,0,H
+POR,22/12/2004,20:30,CS Marítimo,FC Porto,1,1,D,1,1,D
+POR,17/12/2004,21:30,FC Porto,Moreirense FC,1,0,H,1,0,H
+POR,18/12/2004,19:15,Sporting Braga,Boavista,3,0,H,2,0,H
+POR,18/12/2004,21:15,SL Benfica,FC Penafiel,1,0,H,1,0,H
+POR,19/12/2004,16:00,CS Marítimo,Rio Ave FC,1,1,D,1,0,H
+POR,19/12/2004,16:00,Gil Vicente,GD Estoril,2,0,H,0,0,D
+POR,19/12/2004,18:00,Académica de Coimbra,SC Beira-Mar,1,1,D,1,0,H
+POR,19/12/2004,18:15,CD Nacional,Os Belenenses,2,0,H,1,0,H
+POR,19/12/2004,20:30,Vitória Setúbal,União Leiria,1,1,D,0,0,D
+POR,20/12/2004,20:45,Vitória Guimarães,Sporting CP,2,4,A,1,2,A
+POR,07/01/2005,21:30,GD Estoril,Vitória Setúbal,2,1,H,0,1,A
+POR,08/01/2005,17:15,Boavista,Vitória Guimarães,2,1,H,1,0,H
+POR,08/01/2005,20:45,Sporting CP,SL Benfica,2,1,H,1,1,D
+POR,09/01/2005,16:00,Os Belenenses,Gil Vicente,0,1,A,0,1,A
+POR,09/01/2005,16:00,SC Beira-Mar,Sporting Braga,1,4,A,1,0,H
+POR,09/01/2005,16:00,FC Penafiel,CD Nacional,0,1,A,0,0,D
+POR,09/01/2005,16:00,Moreirense FC,Académica de Coimbra,1,0,H,1,0,H
+POR,09/01/2005,19:15,FC Porto,Rio Ave FC,1,1,D,0,1,A
+POR,09/01/2005,21:30,União Leiria,CS Marítimo,0,0,D,0,,H
+POR,15/01/2005,18:45,Vitória Guimarães,SC Beira-Mar,1,0,H,0,0,D
+POR,15/01/2005,21:15,Académica de Coimbra,FC Porto,0,0,D,0,0,D
+POR,16/01/2005,16:00,Sporting Braga,Moreirense FC,0,0,D,0,0,D
+POR,16/01/2005,16:00,CS Marítimo,GD Estoril,2,1,H,1,0,H
+POR,16/01/2005,16:00,Gil Vicente,FC Penafiel,0,1,A,0,0,D
+POR,16/01/2005,16:00,Rio Ave FC,União Leiria,2,0,H,1,0,H
+POR,16/01/2005,18:30,CD Nacional,Sporting CP,3,2,H,2,0,H
+POR,16/01/2005,20:45,SL Benfica,Boavista,4,0,H,1,0,H
+POR,17/01/2005,20:30,Vitória Setúbal,Os Belenenses,1,2,A,0,0,D
+POR,21/01/2005,21:30,Sporting Braga,Académica de Coimbra,2,0,H,1,0,H
+POR,22/01/2005,16:00,Vitória Guimarães,Moreirense FC,0,0,D,NaN,NaN,NaN
+POR,22/01/2005,18:00,Vitória Setúbal,FC Penafiel,4,0,H,3,0,H
+POR,22/01/2005,18:45,CD Nacional,Boavista,0,2,A,0,0,D
+POR,22/01/2005,21:00,SL Benfica,SC Beira-Mar,0,2,A,0,1,A
+POR,23/01/2005,16:00,CS Marítimo,Os Belenenses,0,0,D,NaN,NaN,NaN
+POR,23/01/2005,16:00,Rio Ave FC,GD Estoril,2,1,H,0,1,A
+POR,23/01/2005,19:15,Gil Vicente,Sporting CP,0,3,A,0,1,A
+POR,23/01/2005,21:15,União Leiria,FC Porto,0,1,A,0,1,A
+POR,29/01/2005,18:45,Académica de Coimbra,Vitória Guimarães,0,2,A,0,0,D
+POR,29/01/2005,21:15,Moreirense FC,SL Benfica,1,2,A,0,2,A
+POR,30/01/2005,16:00,FC Penafiel,CS Marítimo,0,1,A,0,1,A
+POR,30/01/2005,16:00,GD Estoril,União Leiria,1,1,D,1,1,D
+POR,30/01/2005,16:00,Os Belenenses,Rio Ave FC,2,1,H,1,0,H
+POR,30/01/2005,16:00,SC Beira-Mar,CD Nacional,0,3,A,0,1,A
+POR,30/01/2005,18:30,Boavista,Gil Vicente,2,2,D,0,1,A
+POR,30/01/2005,20:45,FC Porto,Sporting Braga,1,3,A,1,2,A
+POR,31/01/2005,20:30,Sporting CP,Vitória Setúbal,1,1,D,0,0,D
+POR,04/02/2005,21:30,Vitória Guimarães,Sporting Braga,1,0,H,0,0,D
+POR,05/02/2005,18:00,Rio Ave FC,FC Penafiel,1,0,H,1,0,H
+POR,05/02/2005,19:00,União Leiria,Os Belenenses,1,0,H,0,0,D
+POR,05/02/2005,21:15,GD Estoril,FC Porto,1,2,A,1,2,A
+POR,06/02/2005,16:00,Gil Vicente,SC Beira-Mar,2,0,H,0,0,D
+POR,06/02/2005,16:00,CD Nacional,Moreirense FC,4,1,H,3,1,H
+POR,06/02/2005,18:15,CS Marítimo,Sporting CP,3,0,H,1,0,H
+POR,06/02/2005,20:45,SL Benfica,Académica de Coimbra,3,0,H,1,0,H
+POR,07/02/2005,20:30,Vitória Setúbal,Boavista,0,0,D,NaN,NaN,NaN
+POR,11/02/2005,20:30,Os Belenenses,GD Estoril,3,0,H,1,0,H
+POR,12/02/2005,21:15,Sporting Braga,SL Benfica,0,0,D,NaN,NaN,NaN
+POR,13/02/2005,16:00,Boavista,CS Marítimo,3,2,H,2,0,H
+POR,13/02/2005,16:00,FC Penafiel,União Leiria,3,0,H,2,0,H
+POR,13/02/2005,16:00,SC Beira-Mar,Vitória Setúbal,1,1,D,0,1,A
+POR,13/02/2005,16:00,Moreirense FC,Gil Vicente,1,0,H,0,0,D
+POR,13/02/2005,16:00,Académica de Coimbra,CD Nacional,1,0,H,0,0,D
+POR,13/02/2005,18:00,Sporting CP,Rio Ave FC,5,0,H,4,0,H
+POR,13/02/2005,20:15,FC Porto,Vitória Guimarães,0,0,D,NaN,NaN,NaN
+POR,18/02/2005,19:15,CD Nacional,Sporting Braga,1,0,H,0,0,D
+POR,18/02/2005,21:30,Os Belenenses,FC Porto,0,1,A,0,0,D
+POR,19/02/2005,15:00,CS Marítimo,SC Beira-Mar,0,0,D,NaN,NaN,NaN
+POR,19/02/2005,16:00,GD Estoril,FC Penafiel,3,2,H,1,1,D
+POR,19/02/2005,16:00,Gil Vicente,Académica de Coimbra,0,1,A,0,1,A
+POR,19/02/2005,16:00,Vitória Setúbal,Moreirense FC,2,2,D,2,1,H
+POR,19/02/2005,18:45,Rio Ave FC,Boavista,2,2,D,2,0,H
+POR,19/02/2005,21:15,União Leiria,Sporting CP,0,0,D,NaN,NaN,NaN
+POR,21/02/2005,20:30,SL Benfica,Vitória Guimarães,2,1,H,2,0,H
+POR,25/02/2005,21:30,Sporting Braga,Gil Vicente,2,1,H,2,0,H
+POR,26/02/2005,19:15,FC Penafiel,Os Belenenses,0,0,D,NaN,NaN,NaN
+POR,26/02/2005,19:30,Boavista,União Leiria,0,0,D,NaN,NaN,NaN
+POR,27/02/2005,16:00,Moreirense FC,CS Marítimo,1,0,H,1,0,H
+POR,27/02/2005,16:00,Académica de Coimbra,Vitória Setúbal,3,3,D,1,0,H
+POR,27/02/2005,16:00,SC Beira-Mar,Rio Ave FC,0,0,D,NaN,NaN,NaN
+POR,27/02/2005,18:15,Vitória Guimarães,CD Nacional,1,1,D,0,0,D
+POR,28/02/2005,19:45,FC Porto,SL Benfica,1,1,D,0,0,D
+POR,28/02/2005,21:30,Sporting CP,GD Estoril,4,0,H,1,0,H
+POR,04/03/2005,21:30,Gil Vicente,Vitória Guimarães,1,3,A,0,2,A
+POR,05/03/2005,19:15,GD Estoril,Boavista,3,3,D,1,1,D
+POR,05/03/2005,21:15,FC Penafiel,FC Porto,1,2,A,1,0,H
+POR,06/03/2005,16:00,União Leiria,SC Beira-Mar,5,1,H,3,1,H
+POR,06/03/2005,16:00,CS Marítimo,Académica de Coimbra,1,1,D,0,1,A
+POR,06/03/2005,16:00,Rio Ave FC,Moreirense FC,1,0,H,1,0,H
+POR,06/03/2005,18:30,Os Belenenses,Sporting CP,1,0,H,0,0,D
+POR,06/03/2005,20:45,CD Nacional,SL Benfica,0,1,A,0,0,D
+POR,07/03/2005,20:30,Vitória Setúbal,Sporting Braga,1,4,A,0,2,A
+POR,11/03/2005,21:30,FC Porto,CD Nacional,0,4,A,0,1,A
+POR,12/03/2005,18:30,Sporting Braga,CS Marítimo,1,1,D,0,0,D
+POR,12/03/2005,20:45,SL Benfica,Gil Vicente,2,0,H,0,0,D
+POR,13/03/2005,16:00,Moreirense FC,União Leiria,0,0,D,NaN,NaN,NaN
+POR,13/03/2005,16:00,Académica de Coimbra,Rio Ave FC,0,0,D,NaN,NaN,NaN
+POR,13/03/2005,16:00,SC Beira-Mar,GD Estoril,2,1,H,0,1,A
+POR,13/03/2005,19:15,Sporting CP,FC Penafiel,0,2,A,0,0,D
+POR,13/03/2005,21:15,Vitória Guimarães,Vitória Setúbal,3,1,H,2,1,H
+POR,14/03/2005,20:15,Boavista,Os Belenenses,2,0,H,1,0,H
+POR,18/03/2005,21:30,CS Marítimo,Vitória Guimarães,1,2,A,0,1,A
+POR,19/03/2005,18:45,FC Penafiel,Boavista,1,1,D,1,0,H
+POR,19/03/2005,21:15,Vitória Setúbal,SL Benfica,0,2,A,0,1,A
+POR,20/03/2005,16:00,Os Belenenses,SC Beira-Mar,2,0,H,0,0,D
+POR,20/03/2005,16:00,União Leiria,Académica de Coimbra,1,2,A,0,2,A
+POR,20/03/2005,16:00,GD Estoril,Moreirense FC,2,0,H,1,0,H
+POR,20/03/2005,16:00,Gil Vicente,CD Nacional,3,2,H,2,1,H
+POR,20/03/2005,18:30,Rio Ave FC,Sporting Braga,1,1,D,1,0,H
+POR,21/03/2005,20:30,Sporting CP,FC Porto,2,0,H,0,0,D
+POR,01/04/2005,21:30,Vitória Guimarães,Rio Ave FC,0,0,D,NaN,NaN,NaN
+POR,02/04/2005,21:15,Boavista,Sporting CP,0,4,A,0,2,A
+POR,03/04/2005,16:00,Moreirense FC,Os Belenenses,0,1,A,0,0,D
+POR,03/04/2005,16:00,CD Nacional,Vitória Setúbal,1,3,A,0,1,A
+POR,03/04/2005,16:00,SC Beira-Mar,FC Penafiel,1,3,A,1,0,H
+POR,03/04/2005,16:00,Académica de Coimbra,GD Estoril,1,0,H,1,0,H
+POR,03/04/2005,18:15,FC Porto,Gil Vicente,1,0,H,1,0,H
+POR,03/04/2005,20:30,SL Benfica,CS Marítimo,4,3,H,3,2,H
+POR,04/04/2005,20:30,Sporting Braga,União Leiria,1,0,H,1,0,H
+POR,08/04/2005,21:30,CS Marítimo,CD Nacional,2,1,H,1,0,H
+POR,09/04/2005,21:30,Boavista,FC Porto,1,0,H,0,0,D
+POR,10/04/2005,16:00,União Leiria,Vitória Guimarães,0,1,A,0,0,D
+POR,10/04/2005,16:00,Vitória Setúbal,Gil Vicente,0,0,D,NaN,NaN,NaN
+POR,10/04/2005,16:00,FC Penafiel,Moreirense FC,1,0,H,1,0,H
+POR,10/04/2005,19:15,Rio Ave FC,SL Benfica,1,0,H,0,0,D
+POR,10/04/2005,21:15,Sporting CP,SC Beira-Mar,1,0,H,0,0,D
+POR,11/04/2005,19:15,Os Belenenses,Académica de Coimbra,0,0,D,NaN,NaN,NaN
+POR,11/04/2005,21:30,GD Estoril,Sporting Braga,0,1,A,0,1,A
+POR,15/04/2005,21:30,SC Beira-Mar,Boavista,1,0,H,0,0,D
+POR,16/04/2005,19:15,FC Porto,Vitória Setúbal,2,1,H,1,1,D
+POR,16/04/2005,21:30,SL Benfica,União Leiria,1,1,D,0,1,A
+POR,17/04/2005,16:00,Gil Vicente,CS Marítimo,1,0,H,0,0,D
+POR,17/04/2005,16:00,CD Nacional,Rio Ave FC,0,0,D,NaN,NaN,NaN
+POR,17/04/2005,16:00,Académica de Coimbra,FC Penafiel,4,1,H,2,0,H
+POR,17/04/2005,18:45,Vitória Guimarães,GD Estoril,1,0,H,0,0,D
+POR,17/04/2005,21:00,Sporting Braga,Os Belenenses,2,0,H,2,0,H
+POR,18/04/2005,21:15,Moreirense FC,Sporting CP,1,3,A,0,1,A
+POR,22/04/2005,21:30,Os Belenenses,Vitória Guimarães,1,0,H,0,0,D
+POR,23/04/2005,18:45,Boavista,Moreirense FC,1,1,D,1,0,H
+POR,23/04/2005,21:00,Sporting CP,Académica de Coimbra,0,0,D,NaN,NaN,NaN
+POR,24/04/2005,16:00,CS Marítimo,Vitória Setúbal,3,1,H,2,0,H
+POR,24/04/2005,16:00,Rio Ave FC,Gil Vicente,0,1,A,0,1,A
+POR,24/04/2005,16:00,União Leiria,CD Nacional,1,0,H,0,0,D
+POR,24/04/2005,19:15,GD Estoril,SL Benfica,1,2,A,1,0,H
+POR,24/04/2005,21:15,SC Beira-Mar,FC Porto,0,1,A,0,0,D
+POR,25/04/2005,20:30,FC Penafiel,Sporting Braga,1,0,H,0,0,D
+POR,29/04/2005,21:30,Académica de Coimbra,Boavista,1,0,H,1,0,H
+POR,30/04/2005,16:00,Gil Vicente,União Leiria,1,1,D,0,0,D
+POR,30/04/2005,16:00,Moreirense FC,SC Beira-Mar,0,0,D,NaN,NaN,NaN
+POR,30/04/2005,16:00,Vitória Setúbal,Rio Ave FC,2,0,H,2,0,H
+POR,30/04/2005,16:00,CD Nacional,GD Estoril,4,1,H,1,1,D
+POR,30/04/2005,19:15,SL Benfica,Os Belenenses,1,0,H,0,0,D
+POR,30/04/2005,21:15,FC Porto,CS Marítimo,1,0,H,1,0,H
+POR,01/05/2005,20:30,Sporting Braga,Sporting CP,0,3,A,0,0,D
+POR,02/05/2005,20:30,Vitória Guimarães,FC Penafiel,2,1,H,1,1,D
+POR,06/05/2005,21:30,Os Belenenses,CD Nacional,1,0,H,1,0,H
+POR,07/05/2005,19:15,Boavista,Sporting Braga,1,2,A,0,2,A
+POR,07/05/2005,21:15,FC Penafiel,SL Benfica,1,0,H,0,0,D
+POR,08/05/2005,16:00,Rio Ave FC,CS Marítimo,0,0,D,NaN,NaN,NaN
+POR,08/05/2005,16:00,União Leiria,Vitória Setúbal,0,2,A,0,0,D
+POR,08/05/2005,16:00,GD Estoril,Gil Vicente,2,0,H,1,0,H
+POR,08/05/2005,16:00,SC Beira-Mar,Académica de Coimbra,0,0,D,NaN,NaN,NaN
+POR,08/05/2005,20:15,Moreirense FC,FC Porto,1,1,D,1,0,H
+POR,09/05/2005,20:30,Sporting CP,Vitória Guimarães,1,0,H,0,0,D
+POR,14/05/2005,16:00,Vitória Guimarães,Boavista,2,0,H,1,0,H
+POR,14/05/2005,16:00,Gil Vicente,Os Belenenses,1,0,H,0,0,D
+POR,14/05/2005,16:00,CS Marítimo,União Leiria,2,0,H,2,0,H
+POR,14/05/2005,16:00,CD Nacional,FC Penafiel,1,3,A,0,2,A
+POR,14/05/2005,16:00,Académica de Coimbra,Moreirense FC,0,4,A,0,1,A
+POR,14/05/2005,16:00,Vitória Setúbal,GD Estoril,2,2,D,0,1,A
+POR,14/05/2005,19:45,Rio Ave FC,FC Porto,0,2,A,0,0,D
+POR,14/05/2005,19:45,Sporting Braga,SC Beira-Mar,1,1,D,1,1,D
+POR,14/05/2005,19:45,SL Benfica,Sporting CP,1,0,H,0,0,D
+POR,22/05/2005,16:00,SC Beira-Mar,Vitória Guimarães,2,2,D,0,2,A
+POR,22/05/2005,16:00,GD Estoril,CS Marítimo,0,1,A,0,0,D
+POR,22/05/2005,16:00,Os Belenenses,Vitória Setúbal,0,0,D,NaN,NaN,NaN
+POR,22/05/2005,16:00,FC Penafiel,Gil Vicente,1,3,A,1,1,D
+POR,22/05/2005,16:00,União Leiria,Rio Ave FC,0,3,A,0,2,A
+POR,22/05/2005,19:15,Moreirense FC,Sporting Braga,2,1,H,0,1,A
+POR,22/05/2005,19:15,Boavista,SL Benfica,1,1,D,1,1,D
+POR,22/05/2005,19:15,FC Porto,Académica de Coimbra,1,1,D,0,0,D
+POR,22/05/2005,19:15,Sporting CP,CD Nacional,2,4,A,1,3,A

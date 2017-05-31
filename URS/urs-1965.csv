@@ -1,0 +1,273 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URS,15/04/1965,,Dinamo Kiev,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+URS,15/04/1965,,Dinamo Tbilisi,Chernomorets Odessa,3,2,H,NaN,NaN,NaN
+URS,15/04/1965,,Neftyanik Baku,Torpedo Moskva,3,0,H,NaN,NaN,NaN
+URS,15/04/1965,,Pakhtakor Tashkent,Spartak Moskva,1,0,H,NaN,NaN,NaN
+URS,15/04/1965,,FK SKA Rostov,Zenit Leningrad,1,1,D,NaN,NaN,NaN
+URS,15/04/1965,,SKA Odessa,CSKA Moskva,0,3,A,NaN,NaN,NaN
+URS,15/04/1965,,Torpedo Kutaisi,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+URS,15/04/1965,,Shakhtyor Donetsk,Lokomotiv Moskva,2,0,H,NaN,NaN,NaN
+URS,21/04/1965,,Dinamo Kiev,CSKA Moskva,1,1,D,NaN,NaN,NaN
+URS,21/04/1965,,Dinamo Tbilisi,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+URS,21/04/1965,,Neftyanik Baku,Spartak Moskva,0,2,A,NaN,NaN,NaN
+URS,21/04/1965,,FK SKA Rostov,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+URS,21/04/1965,,SKA Odessa,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,21/04/1965,,Torpedo Kutaisi,Chernomorets Odessa,1,0,H,NaN,NaN,NaN
+URS,21/04/1965,,Torpedo Moskva,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+URS,21/04/1965,,Shakhtyor Donetsk,Zenit Leningrad,1,0,H,NaN,NaN,NaN
+URS,27/04/1965,,Zenit Leningrad,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,27/04/1965,,Krylia Sovetov,Spartak Moskva,1,0,H,NaN,NaN,NaN
+URS,27/04/1965,,Neftyanik Baku,Dinamo Minsk,0,1,A,NaN,NaN,NaN
+URS,27/04/1965,,Pakhtakor Tashkent,Torpedo Moskva,0,0,D,NaN,NaN,NaN
+URS,27/04/1965,,FK SKA Rostov,Shakhtyor Donetsk,1,1,D,NaN,NaN,NaN
+URS,27/04/1965,,Torpedo Kutaisi,Dinamo Tbilisi,0,2,A,NaN,NaN,NaN
+URS,27/04/1965,,CSKA Moskva,Dinamo Moskva,1,0,H,NaN,NaN,NaN
+URS,27/04/1965,,Chernomorets Odessa,SKA Odessa,2,0,H,NaN,NaN,NaN
+URS,02/05/1965,,Dinamo Kiev,Neftyanik Baku,3,0,H,NaN,NaN,NaN
+URS,02/05/1965,,Dinamo Minsk,FK SKA Rostov,0,1,A,NaN,NaN,NaN
+URS,02/05/1965,,Zenit Leningrad,SKA Odessa,3,0,H,NaN,NaN,NaN
+URS,02/05/1965,,Pakhtakor Tashkent,Krylia Sovetov,2,3,A,NaN,NaN,NaN
+URS,02/05/1965,,CSKA Moskva,Torpedo Moskva,0,0,D,NaN,NaN,NaN
+URS,02/05/1965,,Chernomorets Odessa,Shakhtyor Donetsk,2,1,H,NaN,NaN,NaN
+URS,03/05/1965,,Dinamo Moskva,Spartak Moskva,0,2,A,NaN,NaN,NaN
+URS,04/05/1965,,Lokomotiv Moskva,Dinamo Tbilisi,0,1,A,NaN,NaN,NaN
+URS,08/05/1965,,Torpedo Moskva,Torpedo Kutaisi,5,0,H,NaN,NaN,NaN
+URS,09/05/1965,,Zenit Leningrad,CSKA Moskva,1,1,D,NaN,NaN,NaN
+URS,09/05/1965,,FK SKA Rostov,Chernomorets Odessa,1,1,D,NaN,NaN,NaN
+URS,09/05/1965,,Spartak Moskva,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,09/05/1965,,Shakhtyor Donetsk,Dinamo Kiev,3,2,H,NaN,NaN,NaN
+URS,10/05/1965,,Dinamo Minsk,Pakhtakor Tashkent,3,0,H,NaN,NaN,NaN
+URS,10/05/1965,,Dinamo Moskva,Neftyanik Baku,0,0,D,NaN,NaN,NaN
+URS,27/05/1965,,Lokomotiv Moskva,Krylia Sovetov,0,0,D,NaN,NaN,NaN
+URS,21/05/1965,,Lokomotiv Moskva,Zenit Leningrad,2,0,H,NaN,NaN,NaN
+URS,22/05/1965,,CSKA Moskva,Pakhtakor Tashkent,0,0,D,NaN,NaN,NaN
+URS,23/05/1965,,Dinamo Minsk,Dinamo Kiev,0,1,A,NaN,NaN,NaN
+URS,23/05/1965,,Krylia Sovetov,Chernomorets Odessa,2,1,H,NaN,NaN,NaN
+URS,23/05/1965,,FK SKA Rostov,Neftyanik Baku,0,1,A,NaN,NaN,NaN
+URS,23/05/1965,,SKA Odessa,Torpedo Moskva,0,2,A,NaN,NaN,NaN
+URS,23/05/1965,,Shakhtyor Donetsk,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,24/05/1965,,Spartak Moskva,Torpedo Kutaisi,2,0,H,NaN,NaN,NaN
+URS,05/06/1965,,Lokomotiv Moskva,Spartak Moskva,2,3,A,NaN,NaN,NaN
+URS,06/06/1965,,Dinamo Tbilisi,Zenit Leningrad,1,2,A,NaN,NaN,NaN
+URS,06/06/1965,,Krylia Sovetov,Dinamo Kiev,0,1,A,NaN,NaN,NaN
+URS,06/06/1965,,Neftyanik Baku,Chernomorets Odessa,2,0,H,NaN,NaN,NaN
+URS,06/06/1965,,SKA Odessa,Pakhtakor Tashkent,0,0,D,NaN,NaN,NaN
+URS,06/06/1965,,Torpedo Kutaisi,Dinamo Moskva,0,2,A,NaN,NaN,NaN
+URS,06/06/1965,,CSKA Moskva,FK SKA Rostov,2,0,H,NaN,NaN,NaN
+URS,06/06/1965,,Shakhtyor Donetsk,Torpedo Moskva,0,3,A,NaN,NaN,NaN
+URS,13/06/1965,,Dinamo Tbilisi,Dinamo Moskva,1,2,A,NaN,NaN,NaN
+URS,13/06/1965,,Krylia Sovetov,Dinamo Minsk,1,2,A,NaN,NaN,NaN
+URS,13/06/1965,,Lokomotiv Moskva,CSKA Moskva,1,0,H,NaN,NaN,NaN
+URS,13/06/1965,,Neftyanik Baku,Zenit Leningrad,1,0,H,NaN,NaN,NaN
+URS,13/06/1965,,Torpedo Kutaisi,Shakhtyor Donetsk,0,2,A,NaN,NaN,NaN
+URS,14/06/1965,,Pakhtakor Tashkent,Chernomorets Odessa,1,2,A,NaN,NaN,NaN
+URS,14/06/1965,,SKA Odessa,Spartak Moskva,0,2,A,NaN,NaN,NaN
+URS,14/06/1965,,Torpedo Moskva,Dinamo Kiev,1,0,H,NaN,NaN,NaN
+URS,19/06/1965,,Spartak Moskva,Torpedo Moskva,0,2,A,NaN,NaN,NaN
+URS,20/06/1965,,Dinamo Moskva,Dinamo Minsk,0,0,D,NaN,NaN,NaN
+URS,20/06/1965,,Dinamo Tbilisi,Shakhtyor Donetsk,1,1,D,NaN,NaN,NaN
+URS,20/06/1965,,Krylia Sovetov,Neftyanik Baku,3,1,H,NaN,NaN,NaN
+URS,20/06/1965,,FK SKA Rostov,Torpedo Kutaisi,3,1,H,NaN,NaN,NaN
+URS,20/06/1965,,Chernomorets Odessa,CSKA Moskva,0,2,A,NaN,NaN,NaN
+URS,21/06/1965,,Zenit Leningrad,Pakhtakor Tashkent,2,3,A,NaN,NaN,NaN
+URS,21/06/1965,,Lokomotiv Moskva,SKA Odessa,2,0,H,NaN,NaN,NaN
+URS,25/06/1965,,CSKA Moskva,Neftyanik Baku,3,1,H,NaN,NaN,NaN
+URS,26/06/1965,,Dinamo Minsk,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,26/06/1965,,Dinamo Moskva,Lokomotiv Moskva,5,1,H,NaN,NaN,NaN
+URS,26/06/1965,,Dinamo Tbilisi,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+URS,26/06/1965,,Zenit Leningrad,Torpedo Kutaisi,2,0,H,NaN,NaN,NaN
+URS,26/06/1965,,FK SKA Rostov,SKA Odessa,2,1,H,NaN,NaN,NaN
+URS,26/06/1965,,Chernomorets Odessa,Dinamo Kiev,2,2,D,NaN,NaN,NaN
+URS,26/06/1965,,Shakhtyor Donetsk,Pakhtakor Tashkent,4,1,H,NaN,NaN,NaN
+URS,30/06/1965,,Dinamo Kiev,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,30/06/1965,,Dinamo Minsk,SKA Odessa,2,0,H,NaN,NaN,NaN
+URS,30/06/1965,,Dinamo Tbilisi,Neftyanik Baku,1,0,H,NaN,NaN,NaN
+URS,30/06/1965,,Zenit Leningrad,Krylia Sovetov,1,1,D,NaN,NaN,NaN
+URS,30/06/1965,,Pakhtakor Tashkent,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,30/06/1965,,Torpedo Moskva,Dinamo Moskva,3,1,H,NaN,NaN,NaN
+URS,30/06/1965,,Chernomorets Odessa,Lokomotiv Moskva,3,3,D,NaN,NaN,NaN
+URS,01/07/1965,,CSKA Moskva,Torpedo Kutaisi,3,0,H,NaN,NaN,NaN
+URS,06/07/1965,,Dinamo Minsk,Shakhtyor Donetsk,0,0,D,NaN,NaN,NaN
+URS,06/07/1965,,Torpedo Moskva,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,07/07/1965,,Zenit Leningrad,Chernomorets Odessa,5,1,H,NaN,NaN,NaN
+URS,07/07/1965,,Krylia Sovetov,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,07/07/1965,,Neftyanik Baku,Lokomotiv Moskva,1,1,D,NaN,NaN,NaN
+URS,07/07/1965,,SKA Odessa,Dinamo Kiev,0,2,A,NaN,NaN,NaN
+URS,07/07/1965,,Spartak Moskva,CSKA Moskva,1,1,D,NaN,NaN,NaN
+URS,07/07/1965,,Torpedo Kutaisi,Pakhtakor Tashkent,4,0,H,NaN,NaN,NaN
+URS,10/07/1965,,Torpedo Moskva,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+URS,11/07/1965,,Dinamo Kiev,Torpedo Kutaisi,4,0,H,NaN,NaN,NaN
+URS,11/07/1965,,Zenit Leningrad,Spartak Moskva,1,0,H,NaN,NaN,NaN
+URS,11/07/1965,,Neftyanik Baku,Shakhtyor Donetsk,3,1,H,NaN,NaN,NaN
+URS,11/07/1965,,Pakhtakor Tashkent,Lokomotiv Moskva,2,2,D,NaN,NaN,NaN
+URS,11/07/1965,,FK SKA Rostov,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,11/07/1965,,SKA Odessa,Dinamo Tbilisi,0,3,A,NaN,NaN,NaN
+URS,11/07/1965,,CSKA Moskva,Krylia Sovetov,0,0,D,NaN,NaN,NaN
+URS,15/07/1965,,Dinamo Kiev,Dinamo Tbilisi,2,1,H,NaN,NaN,NaN
+URS,15/07/1965,,Krylia Sovetov,Shakhtyor Donetsk,3,1,H,NaN,NaN,NaN
+URS,15/07/1965,,Neftyanik Baku,SKA Odessa,3,2,H,NaN,NaN,NaN
+URS,15/07/1965,,Pakhtakor Tashkent,Dinamo Moskva,2,0,H,NaN,NaN,NaN
+URS,15/07/1965,,FK SKA Rostov,Spartak Moskva,1,1,D,NaN,NaN,NaN
+URS,15/07/1965,,Torpedo Kutaisi,Lokomotiv Moskva,1,5,A,NaN,NaN,NaN
+URS,15/07/1965,,Torpedo Moskva,Zenit Leningrad,1,1,D,NaN,NaN,NaN
+URS,15/07/1965,,Chernomorets Odessa,Dinamo Minsk,0,2,A,NaN,NaN,NaN
+URS,19/07/1965,,Dinamo Kiev,Pakhtakor Tashkent,3,2,H,NaN,NaN,NaN
+URS,19/07/1965,,Dinamo Minsk,Zenit Leningrad,0,0,D,NaN,NaN,NaN
+URS,19/07/1965,,Dinamo Tbilisi,FK SKA Rostov,0,2,A,NaN,NaN,NaN
+URS,19/07/1965,,Krylia Sovetov,SKA Odessa,4,0,H,NaN,NaN,NaN
+URS,19/07/1965,,Lokomotiv Moskva,Torpedo Moskva,1,3,A,NaN,NaN,NaN
+URS,19/07/1965,,Torpedo Kutaisi,Neftyanik Baku,1,0,H,NaN,NaN,NaN
+URS,19/07/1965,,Chernomorets Odessa,Dinamo Moskva,0,0,D,NaN,NaN,NaN
+URS,19/07/1965,,Shakhtyor Donetsk,CSKA Moskva,0,0,D,NaN,NaN,NaN
+URS,23/07/1965,,Dinamo Minsk,Lokomotiv Moskva,0,0,D,NaN,NaN,NaN
+URS,23/07/1965,,Krylia Sovetov,Dinamo Moskva,0,0,D,NaN,NaN,NaN
+URS,23/07/1965,,Neftyanik Baku,Pakhtakor Tashkent,0,1,A,NaN,NaN,NaN
+URS,23/07/1965,,FK SKA Rostov,Dinamo Kiev,0,2,A,NaN,NaN,NaN
+URS,23/07/1965,,SKA Odessa,Torpedo Kutaisi,0,0,D,NaN,NaN,NaN
+URS,23/07/1965,,CSKA Moskva,Dinamo Tbilisi,1,0,H,NaN,NaN,NaN
+URS,23/07/1965,,Shakhtyor Donetsk,Spartak Moskva,0,0,D,NaN,NaN,NaN
+URS,24/07/1965,,Torpedo Moskva,Chernomorets Odessa,1,0,H,NaN,NaN,NaN
+URS,27/07/1965,,Dinamo Minsk,CSKA Moskva,1,0,H,NaN,NaN,NaN
+URS,27/07/1965,,Dinamo Tbilisi,Pakhtakor Tashkent,0,0,D,NaN,NaN,NaN
+URS,27/07/1965,,Zenit Leningrad,Dinamo Moskva,1,1,D,NaN,NaN,NaN
+URS,27/07/1965,,Lokomotiv Moskva,Dinamo Kiev,1,4,A,NaN,NaN,NaN
+URS,27/07/1965,,Torpedo Kutaisi,Krylia Sovetov,4,1,H,NaN,NaN,NaN
+URS,27/07/1965,,Shakhtyor Donetsk,SKA Odessa,1,3,A,NaN,NaN,NaN
+URS,28/07/1965,,Torpedo Moskva,FK SKA Rostov,2,0,H,NaN,NaN,NaN
+URS,29/07/1965,,Spartak Moskva,Chernomorets Odessa,1,0,H,NaN,NaN,NaN
+URS,10/08/1965,,Krylia Sovetov,Dinamo Tbilisi,0,1,A,NaN,NaN,NaN
+URS,10/08/1965,,Neftyanik Baku,CSKA Moskva,0,2,A,NaN,NaN,NaN
+URS,10/08/1965,,Pakhtakor Tashkent,Shakhtyor Donetsk,0,0,D,NaN,NaN,NaN
+URS,10/08/1965,,SKA Odessa,FK SKA Rostov,2,1,H,NaN,NaN,NaN
+URS,10/08/1965,,Torpedo Kutaisi,Zenit Leningrad,2,0,H,NaN,NaN,NaN
+URS,11/08/1965,,Lokomotiv Moskva,Dinamo Moskva,3,1,H,NaN,NaN,NaN
+URS,27/09/1965,,Dinamo Kiev,Chernomorets Odessa,1,0,H,NaN,NaN,NaN
+URS,14/10/1965,,Spartak Moskva,Dinamo Minsk,1,0,H,NaN,NaN,NaN
+URS,16/08/1965,,Lokomotiv Moskva,FK SKA Rostov,1,3,A,NaN,NaN,NaN
+URS,17/08/1965,,Dinamo Moskva,SKA Odessa,4,1,H,NaN,NaN,NaN
+URS,18/08/1965,,Dinamo Minsk,Dinamo Tbilisi,1,0,H,NaN,NaN,NaN
+URS,18/08/1965,,Zenit Leningrad,Shakhtyor Donetsk,0,0,D,NaN,NaN,NaN
+URS,18/08/1965,,Krylia Sovetov,Torpedo Moskva,0,0,D,NaN,NaN,NaN
+URS,18/08/1965,,CSKA Moskva,Dinamo Kiev,2,1,H,NaN,NaN,NaN
+URS,18/08/1965,,Chernomorets Odessa,Torpedo Kutaisi,4,1,H,NaN,NaN,NaN
+URS,19/08/1965,,Spartak Moskva,Neftyanik Baku,0,2,A,NaN,NaN,NaN
+URS,06/08/1965,,Krylia Sovetov,Pakhtakor Tashkent,2,2,D,NaN,NaN,NaN
+URS,22/08/1965,,Torpedo Moskva,CSKA Moskva,1,0,H,NaN,NaN,NaN
+URS,23/08/1965,,Dinamo Tbilisi,Lokomotiv Moskva,2,1,H,NaN,NaN,NaN
+URS,23/08/1965,,Neftyanik Baku,Dinamo Kiev,2,2,D,NaN,NaN,NaN
+URS,23/08/1965,,FK SKA Rostov,Dinamo Minsk,3,0,H,NaN,NaN,NaN
+URS,23/08/1965,,SKA Odessa,Zenit Leningrad,0,1,A,NaN,NaN,NaN
+URS,23/08/1965,,Spartak Moskva,Dinamo Moskva,0,1,A,NaN,NaN,NaN
+URS,23/08/1965,,Shakhtyor Donetsk,Chernomorets Odessa,0,1,A,NaN,NaN,NaN
+URS,27/08/1965,,Torpedo Kutaisi,CSKA Moskva,4,2,H,NaN,NaN,NaN
+URS,28/08/1965,,Krylia Sovetov,Zenit Leningrad,2,1,H,NaN,NaN,NaN
+URS,28/08/1965,,Neftyanik Baku,Dinamo Tbilisi,0,0,D,NaN,NaN,NaN
+URS,28/08/1965,,SKA Odessa,Dinamo Minsk,1,3,A,NaN,NaN,NaN
+URS,28/08/1965,,Spartak Moskva,Dinamo Kiev,0,2,A,NaN,NaN,NaN
+URS,29/08/1965,,Dinamo Moskva,Torpedo Moskva,3,1,H,NaN,NaN,NaN
+URS,30/08/1965,,Lokomotiv Moskva,Chernomorets Odessa,0,0,D,NaN,NaN,NaN
+URS,05/09/1965,,FK SKA Rostov,Pakhtakor Tashkent,1,0,H,NaN,NaN,NaN
+URS,09/09/1965,,Zenit Leningrad,Lokomotiv Moskva,0,2,A,NaN,NaN,NaN
+URS,09/09/1965,,Neftyanik Baku,FK SKA Rostov,1,0,H,NaN,NaN,NaN
+URS,09/09/1965,,Pakhtakor Tashkent,CSKA Moskva,2,0,H,NaN,NaN,NaN
+URS,09/09/1965,,Torpedo Kutaisi,Spartak Moskva,1,1,D,NaN,NaN,NaN
+URS,09/09/1965,,Torpedo Moskva,SKA Odessa,2,0,H,NaN,NaN,NaN
+URS,09/09/1965,,Chernomorets Odessa,Krylia Sovetov,3,2,H,NaN,NaN,NaN
+URS,10/09/1965,,Dinamo Moskva,Shakhtyor Donetsk,1,0,H,NaN,NaN,NaN
+URS,11/10/1965,,Dinamo Kiev,Dinamo Minsk,3,0,H,NaN,NaN,NaN
+URS,05/08/1965,,Chernomorets Odessa,Neftyanik Baku,4,0,H,NaN,NaN,NaN
+URS,13/09/1965,,Spartak Moskva,Lokomotiv Moskva,1,0,H,NaN,NaN,NaN
+URS,14/09/1965,,Dinamo Kiev,Krylia Sovetov,2,0,H,NaN,NaN,NaN
+URS,14/09/1965,,Dinamo Moskva,Torpedo Kutaisi,3,0,H,NaN,NaN,NaN
+URS,14/09/1965,,Zenit Leningrad,Dinamo Tbilisi,2,2,D,NaN,NaN,NaN
+URS,14/09/1965,,Pakhtakor Tashkent,SKA Odessa,1,1,D,NaN,NaN,NaN
+URS,14/09/1965,,FK SKA Rostov,CSKA Moskva,1,0,H,NaN,NaN,NaN
+URS,15/09/1965,,Torpedo Moskva,Shakhtyor Donetsk,1,0,H,NaN,NaN,NaN
+URS,19/09/1965,,Zenit Leningrad,Neftyanik Baku,1,0,H,NaN,NaN,NaN
+URS,19/09/1965,,CSKA Moskva,Lokomotiv Moskva,2,0,H,NaN,NaN,NaN
+URS,20/09/1965,,Dinamo Kiev,Torpedo Moskva,3,2,H,NaN,NaN,NaN
+URS,20/09/1965,,Dinamo Moskva,Dinamo Tbilisi,0,0,D,NaN,NaN,NaN
+URS,21/09/1965,,Spartak Moskva,SKA Odessa,2,2,D,NaN,NaN,NaN
+URS,22/09/1965,,Chernomorets Odessa,Pakhtakor Tashkent,0,1,A,NaN,NaN,NaN
+URS,25/09/1965,,Dinamo Minsk,Krylia Sovetov,1,0,H,NaN,NaN,NaN
+URS,25/09/1965,,Shakhtyor Donetsk,Torpedo Kutaisi,2,0,H,NaN,NaN,NaN
+URS,07/08/1965,,Torpedo Moskva,Spartak Moskva,1,0,H,NaN,NaN,NaN
+URS,26/09/1965,,SKA Odessa,Lokomotiv Moskva,1,3,A,NaN,NaN,NaN
+URS,27/09/1965,,Pakhtakor Tashkent,Zenit Leningrad,0,1,A,NaN,NaN,NaN
+URS,21/10/1965,,CSKA Moskva,Chernomorets Odessa,0,1,A,NaN,NaN,NaN
+URS,04/11/1965,,Dinamo Minsk,Dinamo Moskva,0,0,D,NaN,NaN,NaN
+URS,04/11/1965,,Torpedo Kutaisi,FK SKA Rostov,2,2,D,NaN,NaN,NaN
+URS,04/11/1965,,Shakhtyor Donetsk,Dinamo Tbilisi,0,0,D,NaN,NaN,NaN
+URS,08/11/1965,,Neftyanik Baku,Krylia Sovetov,5,0,H,NaN,NaN,NaN
+URS,05/08/1965,,Dinamo Tbilisi,Dinamo Kiev,0,2,A,NaN,NaN,NaN
+URS,05/09/1965,,Lokomotiv Moskva,Torpedo Kutaisi,2,0,H,NaN,NaN,NaN
+URS,02/10/1965,,Dinamo Moskva,Pakhtakor Tashkent,1,2,A,NaN,NaN,NaN
+URS,03/10/1965,,SKA Odessa,Neftyanik Baku,0,1,A,NaN,NaN,NaN
+URS,03/10/1965,,Spartak Moskva,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,11/10/1965,,Zenit Leningrad,Torpedo Moskva,0,1,A,NaN,NaN,NaN
+URS,18/10/1965,,Shakhtyor Donetsk,Krylia Sovetov,1,1,D,NaN,NaN,NaN
+URS,19/11/1965,,Dinamo Minsk,Chernomorets Odessa,2,1,H,NaN,NaN,NaN
+URS,07/10/1965,,Dinamo Minsk,Torpedo Kutaisi,4,0,H,NaN,NaN,NaN
+URS,07/10/1965,,Dinamo Moskva,Dinamo Kiev,0,0,D,NaN,NaN,NaN
+URS,07/10/1965,,Zenit Leningrad,FK SKA Rostov,2,2,D,NaN,NaN,NaN
+URS,07/10/1965,,Torpedo Moskva,Neftyanik Baku,1,1,D,NaN,NaN,NaN
+URS,07/10/1965,,Chernomorets Odessa,Dinamo Tbilisi,1,1,D,NaN,NaN,NaN
+URS,08/10/1965,,Spartak Moskva,Pakhtakor Tashkent,0,0,D,NaN,NaN,NaN
+URS,15/10/1965,,CSKA Moskva,SKA Odessa,3,2,H,NaN,NaN,NaN
+URS,25/10/1965,,Lokomotiv Moskva,Shakhtyor Donetsk,0,1,A,NaN,NaN,NaN
+URS,01/08/1965,,Torpedo Moskva,Lokomotiv Moskva,3,2,H,NaN,NaN,NaN
+URS,04/09/1965,,Zenit Leningrad,Dinamo Minsk,2,1,H,NaN,NaN,NaN
+URS,10/10/1965,,CSKA Moskva,Shakhtyor Donetsk,1,0,H,NaN,NaN,NaN
+URS,15/10/1965,,Neftyanik Baku,Torpedo Kutaisi,3,0,H,NaN,NaN,NaN
+URS,15/10/1965,,Pakhtakor Tashkent,Dinamo Kiev,1,2,A,NaN,NaN,NaN
+URS,15/10/1965,,FK SKA Rostov,Dinamo Tbilisi,3,2,H,NaN,NaN,NaN
+URS,16/10/1965,,Dinamo Moskva,Chernomorets Odessa,2,0,H,NaN,NaN,NaN
+URS,16/11/1965,,SKA Odessa,Krylia Sovetov,1,1,D,NaN,NaN,NaN
+URS,20/09/1965,,Shakhtyor Donetsk,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+URS,20/10/1965,,Lokomotiv Moskva,Neftyanik Baku,0,0,D,NaN,NaN,NaN
+URS,20/10/1965,,Pakhtakor Tashkent,Torpedo Kutaisi,2,1,H,NaN,NaN,NaN
+URS,23/10/1965,,Dinamo Tbilisi,Torpedo Moskva,1,1,D,NaN,NaN,NaN
+URS,31/10/1965,,FK SKA Rostov,Krylia Sovetov,4,0,H,NaN,NaN,NaN
+URS,31/10/1965,,CSKA Moskva,Spartak Moskva,1,1,D,NaN,NaN,NaN
+URS,31/10/1965,,Chernomorets Odessa,Zenit Leningrad,0,0,D,NaN,NaN,NaN
+URS,20/11/1965,,Dinamo Kiev,SKA Odessa,3,0,H,NaN,NaN,NaN
+URS,22/10/1965,,Dinamo Moskva,FK SKA Rostov,1,1,D,NaN,NaN,NaN
+URS,30/10/1965,,Lokomotiv Moskva,Pakhtakor Tashkent,0,2,A,NaN,NaN,NaN
+URS,31/10/1965,,Dinamo Minsk,Torpedo Moskva,1,3,A,NaN,NaN,NaN
+URS,31/10/1965,,Dinamo Tbilisi,SKA Odessa,1,0,H,NaN,NaN,NaN
+URS,31/10/1965,,Torpedo Kutaisi,Dinamo Kiev,1,0,H,NaN,NaN,NaN
+URS,31/10/1965,,Shakhtyor Donetsk,Neftyanik Baku,0,0,D,NaN,NaN,NaN
+URS,03/11/1965,,Spartak Moskva,Zenit Leningrad,0,1,A,NaN,NaN,NaN
+URS,04/11/1965,,Krylia Sovetov,CSKA Moskva,0,1,A,NaN,NaN,NaN
+URS,05/08/1965,,Dinamo Moskva,CSKA Moskva,1,1,D,NaN,NaN,NaN
+URS,05/08/1965,,Shakhtyor Donetsk,FK SKA Rostov,0,0,D,NaN,NaN,NaN
+URS,04/09/1965,,SKA Odessa,Chernomorets Odessa,0,1,A,NaN,NaN,NaN
+URS,14/09/1965,,Dinamo Minsk,Neftyanik Baku,2,1,H,NaN,NaN,NaN
+URS,11/10/1965,,Dinamo Tbilisi,Torpedo Kutaisi,2,0,H,NaN,NaN,NaN
+URS,23/10/1965,,Spartak Moskva,Krylia Sovetov,1,0,H,NaN,NaN,NaN
+URS,04/11/1965,,Torpedo Moskva,Pakhtakor Tashkent,4,0,H,NaN,NaN,NaN
+URS,15/11/1965,,Dinamo Kiev,Zenit Leningrad,2,0,H,NaN,NaN,NaN
+URS,20/09/1965,,Krylia Sovetov,Torpedo Kutaisi,5,0,H,NaN,NaN,NaN
+URS,04/11/1965,,Dinamo Kiev,Lokomotiv Moskva,1,0,H,NaN,NaN,NaN
+URS,08/11/1965,,Dinamo Moskva,Zenit Leningrad,3,0,H,NaN,NaN,NaN
+URS,08/11/1965,,Pakhtakor Tashkent,Dinamo Tbilisi,2,2,D,NaN,NaN,NaN
+URS,08/11/1965,,FK SKA Rostov,Torpedo Moskva,0,1,A,NaN,NaN,NaN
+URS,08/11/1965,,CSKA Moskva,Dinamo Minsk,3,1,H,NaN,NaN,NaN
+URS,08/11/1965,,Chernomorets Odessa,Spartak Moskva,0,2,A,NaN,NaN,NaN
+URS,12/11/1965,,SKA Odessa,Shakhtyor Donetsk,3,2,H,NaN,NaN,NaN
+URS,18/09/1965,,Chernomorets Odessa,FK SKA Rostov,2,2,D,NaN,NaN,NaN
+URS,14/10/1965,,Krylia Sovetov,Lokomotiv Moskva,1,0,H,NaN,NaN,NaN
+URS,08/11/1965,,Dinamo Kiev,Shakhtyor Donetsk,3,1,H,NaN,NaN,NaN
+URS,12/11/1965,,Dinamo Tbilisi,Spartak Moskva,2,1,H,NaN,NaN,NaN
+URS,12/11/1965,,Neftyanik Baku,Dinamo Moskva,0,0,D,NaN,NaN,NaN
+URS,12/11/1965,,Pakhtakor Tashkent,Dinamo Minsk,1,1,D,NaN,NaN,NaN
+URS,12/11/1965,,Torpedo Kutaisi,Torpedo Moskva,1,3,A,NaN,NaN,NaN
+URS,12/11/1965,,CSKA Moskva,Zenit Leningrad,1,1,D,NaN,NaN,NaN
+URS,06/08/1965,,Lokomotiv Moskva,Dinamo Minsk,1,4,A,NaN,NaN,NaN
+URS,27/10/1965,,Dinamo Moskva,Krylia Sovetov,3,0,H,NaN,NaN,NaN
+URS,08/11/1965,,Torpedo Kutaisi,SKA Odessa,4,1,H,NaN,NaN,NaN
+URS,12/11/1965,,Dinamo Kiev,FK SKA Rostov,3,2,H,NaN,NaN,NaN
+URS,15/11/1965,,Chernomorets Odessa,Torpedo Moskva,1,2,A,NaN,NaN,NaN
+URS,16/11/1965,,Dinamo Tbilisi,CSKA Moskva,2,1,H,NaN,NaN,NaN
+URS,16/11/1965,,Pakhtakor Tashkent,Neftyanik Baku,2,0,H,NaN,NaN,NaN
+URS,16/11/1965,,Spartak Moskva,Shakhtyor Donetsk,2,2,D,NaN,NaN,NaN

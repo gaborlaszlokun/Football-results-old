@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,15/08/1998,14:00,Blackburn Rovers,Derby County,0,0,D,0,0,D
+ENG,15/08/1998,14:00,Coventry City,Chelsea FC,2,1,H,2,1,H
+ENG,15/08/1998,14:00,Everton FC,Aston Villa,0,0,D,0,0,D
+ENG,15/08/1998,14:00,Manchester United,Leicester City,2,2,D,0,1,A
+ENG,15/08/1998,14:00,Middlesbrough FC,Leeds United,0,0,D,0,0,D
+ENG,15/08/1998,14:00,Newcastle United,Charlton Athletic,0,0,D,0,0,D
+ENG,15/08/1998,14:00,Sheffield Wednesday,West Ham United,0,1,A,0,0,D
+ENG,15/08/1998,14:00,Wimbledon FC,Tottenham Hotspur,3,1,H,0,0,D
+ENG,16/08/1998,15:00,Southampton FC,Liverpool FC,1,2,A,1,1,D
+ENG,17/08/1998,19:00,Arsenal FC,Nottingham Forest,2,1,H,0,0,D
+ENG,22/08/1998,14:00,Charlton Athletic,Southampton FC,5,0,H,1,0,H
+ENG,22/08/1998,14:00,Chelsea FC,Newcastle United,1,1,D,1,1,D
+ENG,22/08/1998,14:00,Derby County,Wimbledon FC,0,0,D,0,0,D
+ENG,22/08/1998,14:00,Leicester City,Everton FC,2,0,H,2,0,H
+ENG,22/08/1998,14:00,Liverpool FC,Arsenal FC,0,0,D,0,0,D
+ENG,22/08/1998,14:00,Nottingham Forest,Coventry City,1,0,H,0,0,D
+ENG,22/08/1998,14:00,Tottenham Hotspur,Sheffield Wednesday,0,3,A,0,2,A
+ENG,22/08/1998,14:00,West Ham United,Manchester United,0,0,D,0,0,D
+ENG,23/08/1998,15:00,Aston Villa,Middlesbrough FC,3,1,H,1,0,H
+ENG,24/08/1998,19:00,Leeds United,Blackburn Rovers,1,0,H,1,0,H
+ENG,29/08/1998,14:00,Arsenal FC,Charlton Athletic,0,0,D,0,0,D
+ENG,29/08/1998,14:00,Blackburn Rovers,Leicester City,1,0,H,1,0,H
+ENG,29/08/1998,14:00,Coventry City,West Ham United,0,0,D,0,0,D
+ENG,29/08/1998,14:00,Everton FC,Tottenham Hotspur,0,1,A,0,1,A
+ENG,29/08/1998,14:00,Southampton FC,Nottingham Forest,1,2,A,0,0,D
+ENG,29/08/1998,14:00,Wimbledon FC,Leeds United,1,1,D,0,0,D
+ENG,29/08/1998,14:00,Middlesbrough FC,Derby County,1,1,D,0,1,A
+ENG,29/08/1998,14:00,Sheffield Wednesday,Aston Villa,0,1,A,0,1,A
+ENG,30/08/1998,15:00,Newcastle United,Liverpool FC,1,4,A,1,4,A
+ENG,16/12/1998,18:45,Manchester United,Chelsea FC,1,1,D,1,0,H
+ENG,08/09/1998,19:00,Manchester United,Charlton Athletic,4,1,H,2,1,H
+ENG,08/09/1998,19:00,Nottingham Forest,Everton FC,0,2,A,0,0,D
+ENG,08/09/1998,19:00,Leeds United,Southampton FC,3,0,H,1,0,H
+ENG,09/09/1998,18:45,Tottenham Hotspur,Blackburn Rovers,2,1,H,1,1,D
+ENG,09/09/1998,18:45,West Ham United,Wimbledon FC,3,4,A,3,1,H
+ENG,09/09/1998,19:00,Chelsea FC,Arsenal FC,0,0,D,0,0,D
+ENG,09/09/1998,19:00,Aston Villa,Newcastle United,1,0,H,0,0,D
+ENG,09/09/1998,19:00,Derby County,Sheffield Wednesday,1,0,H,1,0,H
+ENG,09/09/1998,19:00,Leicester City,Middlesbrough FC,0,1,A,0,1,A
+ENG,09/09/1998,19:00,Liverpool FC,Coventry City,2,0,H,1,0,H
+ENG,12/09/1998,14:00,Aston Villa,Wimbledon FC,2,0,H,1,0,H
+ENG,12/09/1998,14:00,Charlton Athletic,Derby County,1,2,A,0,1,A
+ENG,12/09/1998,14:00,Chelsea FC,Nottingham Forest,2,1,H,2,0,H
+ENG,12/09/1998,14:00,Everton FC,Leeds United,0,0,D,0,0,D
+ENG,12/09/1998,14:00,Leicester City,Arsenal FC,1,1,D,1,0,H
+ENG,12/09/1998,14:00,Manchester United,Coventry City,2,0,H,1,0,H
+ENG,12/09/1998,14:00,Newcastle United,Southampton FC,4,0,H,2,0,H
+ENG,12/09/1998,14:00,Sheffield Wednesday,Blackburn Rovers,3,0,H,2,0,H
+ENG,12/09/1998,14:00,West Ham United,Liverpool FC,2,1,H,1,0,H
+ENG,13/09/1998,15:00,Tottenham Hotspur,Middlesbrough FC,0,3,A,0,2,A
+ENG,19/09/1998,14:00,Coventry City,Newcastle United,1,5,A,1,3,A
+ENG,19/09/1998,14:00,Derby County,Leicester City,2,0,H,1,0,H
+ENG,19/09/1998,14:00,Leeds United,Aston Villa,0,0,D,0,0,D
+ENG,19/09/1998,14:00,Liverpool FC,Charlton Athletic,3,3,D,1,1,D
+ENG,19/09/1998,14:00,Middlesbrough FC,Everton FC,2,2,D,2,0,H
+ENG,19/09/1998,14:00,Nottingham Forest,West Ham United,0,0,D,0,0,D
+ENG,19/09/1998,14:00,Southampton FC,Tottenham Hotspur,1,1,D,0,1,A
+ENG,19/09/1998,14:00,Wimbledon FC,Sheffield Wednesday,2,1,H,1,0,H
+ENG,20/09/1998,15:00,Arsenal FC,Manchester United,3,0,H,2,0,H
+ENG,21/09/1998,19:00,Blackburn Rovers,Chelsea FC,3,4,A,1,1,D
+ENG,24/09/1998,18:45,Manchester United,Liverpool FC,2,0,H,1,0,H
+ENG,26/09/1998,14:00,Newcastle United,Nottingham Forest,2,0,H,1,0,H
+ENG,26/09/1998,14:00,Sheffield Wednesday,Arsenal FC,1,0,H,0,0,D
+ENG,26/09/1998,14:00,Tottenham Hotspur,Leeds United,3,3,D,1,2,A
+ENG,26/09/1998,14:00,Aston Villa,Derby County,1,0,H,1,0,H
+ENG,26/09/1998,14:00,Charlton Athletic,Coventry City,1,1,D,0,0,D
+ENG,26/09/1998,14:00,Chelsea FC,Middlesbrough FC,2,0,H,0,0,D
+ENG,26/09/1998,14:00,Everton FC,Blackburn Rovers,0,0,D,0,0,D
+ENG,27/09/1998,15:00,Leicester City,Wimbledon FC,1,1,D,0,0,D
+ENG,28/09/1998,19:00,West Ham United,Southampton FC,1,0,H,0,0,D
+ENG,03/10/1998,14:00,Blackburn Rovers,West Ham United,3,0,H,1,0,H
+ENG,03/10/1998,14:00,Coventry City,Aston Villa,1,2,A,0,2,A
+ENG,03/10/1998,14:00,Derby County,Tottenham Hotspur,0,1,A,0,0,D
+ENG,03/10/1998,14:00,Leeds United,Leicester City,0,1,A,0,0,D
+ENG,03/10/1998,14:00,Middlesbrough FC,Sheffield Wednesday,4,0,H,2,0,H
+ENG,03/10/1998,14:00,Nottingham Forest,Charlton Athletic,0,1,A,0,1,A
+ENG,03/10/1998,14:00,Southampton FC,Manchester United,0,3,A,0,1,A
+ENG,03/10/1998,14:00,Wimbledon FC,Everton FC,1,2,A,1,1,D
+ENG,04/10/1998,14:00,Liverpool FC,Chelsea FC,1,1,D,0,1,A
+ENG,04/10/1998,15:00,Arsenal FC,Newcastle United,3,0,H,2,0,H
+ENG,17/10/1998,14:00,Arsenal FC,Southampton FC,1,1,D,1,0,H
+ENG,17/10/1998,14:00,Chelsea FC,Charlton Athletic,2,1,H,1,0,H
+ENG,17/10/1998,14:00,Everton FC,Liverpool FC,0,0,D,0,0,D
+ENG,17/10/1998,14:00,Manchester United,Wimbledon FC,5,1,H,2,1,H
+ENG,17/10/1998,14:00,Middlesbrough FC,Blackburn Rovers,2,1,H,0,0,D
+ENG,17/10/1998,14:00,Newcastle United,Derby County,2,1,H,2,0,H
+ENG,17/10/1998,14:00,Nottingham Forest,Leeds United,1,1,D,0,0,D
+ENG,17/10/1998,14:00,West Ham United,Aston Villa,0,0,D,0,0,D
+ENG,18/10/1998,15:00,Coventry City,Sheffield Wednesday,1,0,H,0,0,D
+ENG,19/10/1998,19:00,Leicester City,Tottenham Hotspur,2,1,H,1,1,D
+ENG,24/10/1998,14:00,Aston Villa,Leicester City,1,1,D,0,1,A
+ENG,24/10/1998,14:00,Charlton Athletic,West Ham United,4,2,H,1,2,A
+ENG,24/10/1998,14:00,Derby County,Manchester United,1,1,D,0,0,D
+ENG,24/10/1998,14:00,Liverpool FC,Nottingham Forest,5,1,H,3,1,H
+ENG,24/10/1998,14:00,Sheffield Wednesday,Everton FC,0,0,D,0,0,D
+ENG,24/10/1998,14:00,Southampton FC,Coventry City,2,1,H,2,0,H
+ENG,24/10/1998,14:00,Tottenham Hotspur,Newcastle United,2,0,H,1,0,H
+ENG,24/10/1998,14:00,Wimbledon FC,Middlesbrough FC,2,2,D,1,2,A
+ENG,25/10/1998,15:00,Blackburn Rovers,Arsenal FC,1,2,A,0,2,A
+ENG,25/10/1998,15:00,Leeds United,Chelsea FC,0,0,D,0,0,D
+ENG,31/10/1998,14:00,Coventry City,Arsenal FC,0,1,A,0,0,D
+ENG,31/10/1998,14:00,Derby County,Leeds United,2,2,D,1,2,A
+ENG,31/10/1998,14:00,Everton FC,Manchester United,1,4,A,1,2,A
+ENG,31/10/1998,14:00,Leicester City,Liverpool FC,1,0,H,0,0,D
+ENG,31/10/1998,14:00,Newcastle United,West Ham United,0,3,A,0,0,D
+ENG,31/10/1998,14:00,Sheffield Wednesday,Southampton FC,0,0,D,0,0,D
+ENG,31/10/1998,14:00,Wimbledon FC,Blackburn Rovers,1,1,D,0,0,D
+ENG,01/11/1998,15:00,Middlesbrough FC,Nottingham Forest,1,1,D,1,0,H
+ENG,02/11/1998,19:00,Tottenham Hotspur,Charlton Athletic,2,2,D,0,1,A
+ENG,09/12/1998,18:45,Chelsea FC,Aston Villa,2,1,H,1,1,D
+ENG,07/11/1998,10:30,Southampton FC,Middlesbrough FC,3,3,D,0,0,D
+ENG,07/11/1998,14:00,Aston Villa,Tottenham Hotspur,3,2,H,2,0,H
+ENG,07/11/1998,14:00,Blackburn Rovers,Coventry City,1,2,A,0,0,D
+ENG,07/11/1998,14:00,Charlton Athletic,Leicester City,0,0,D,0,0,D
+ENG,07/11/1998,14:00,Liverpool FC,Derby County,1,2,A,0,2,A
+ENG,07/11/1998,14:00,Nottingham Forest,Wimbledon FC,0,1,A,0,1,A
+ENG,08/11/1998,13:00,Manchester United,Newcastle United,0,0,D,0,0,D
+ENG,08/11/1998,13:00,West Ham United,Chelsea FC,1,1,D,1,0,H
+ENG,08/11/1998,14:00,Leeds United,Sheffield Wednesday,2,1,H,1,1,D
+ENG,08/11/1998,15:00,Arsenal FC,Everton FC,1,0,H,1,0,H
+ENG,14/11/1998,14:00,Arsenal FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,14/11/1998,14:00,Charlton Athletic,Middlesbrough FC,1,1,D,1,0,H
+ENG,14/11/1998,14:00,Chelsea FC,Wimbledon FC,3,0,H,1,0,H
+ENG,14/11/1998,14:00,Liverpool FC,Leeds United,1,3,A,0,0,D
+ENG,14/11/1998,14:00,Manchester United,Blackburn Rovers,3,2,H,2,0,H
+ENG,14/11/1998,14:00,Newcastle United,Sheffield Wednesday,1,1,D,1,0,H
+ENG,14/11/1998,14:00,Southampton FC,Aston Villa,1,4,A,0,1,A
+ENG,14/11/1998,14:00,West Ham United,Leicester City,3,2,H,1,1,D
+ENG,15/11/1998,15:00,Coventry City,Everton FC,3,0,H,1,0,H
+ENG,16/11/1998,19:00,Nottingham Forest,Derby County,2,2,D,0,0,D
+ENG,21/11/1998,14:00,Aston Villa,Liverpool FC,2,4,A,0,2,A
+ENG,21/11/1998,14:00,Blackburn Rovers,Southampton FC,0,2,A,0,1,A
+ENG,21/11/1998,14:00,Leeds United,Charlton Athletic,4,1,H,1,0,H
+ENG,21/11/1998,14:00,Leicester City,Chelsea FC,2,4,A,1,2,A
+ENG,21/11/1998,14:00,Middlesbrough FC,Coventry City,2,0,H,0,0,D
+ENG,21/11/1998,14:00,Sheffield Wednesday,Manchester United,3,1,H,1,1,D
+ENG,21/11/1998,14:00,Tottenham Hotspur,Nottingham Forest,2,0,H,0,0,D
+ENG,21/11/1998,14:00,Wimbledon FC,Arsenal FC,1,0,H,0,0,D
+ENG,22/11/1998,15:00,Derby County,West Ham United,0,2,A,0,1,A
+ENG,23/11/1998,19:00,Everton FC,Newcastle United,1,0,H,1,0,H
+ENG,28/11/1998,14:00,Charlton Athletic,Everton FC,1,2,A,0,1,A
+ENG,28/11/1998,14:00,Chelsea FC,Sheffield Wednesday,1,1,D,1,0,H
+ENG,28/11/1998,14:00,Coventry City,Leicester City,1,1,D,0,0,D
+ENG,28/11/1998,14:00,Newcastle United,Wimbledon FC,3,1,H,1,1,D
+ENG,28/11/1998,14:00,Nottingham Forest,Aston Villa,2,2,D,2,0,H
+ENG,28/11/1998,14:00,Southampton FC,Derby County,0,1,A,0,1,A
+ENG,28/11/1998,14:00,West Ham United,Tottenham Hotspur,2,1,H,1,0,H
+ENG,29/11/1998,14:00,Liverpool FC,Blackburn Rovers,2,0,H,2,0,H
+ENG,29/11/1998,14:00,Manchester United,Leeds United,3,2,H,1,1,D
+ENG,29/11/1998,15:00,Arsenal FC,Middlesbrough FC,1,1,D,0,1,A
+ENG,05/12/1998,14:00,Aston Villa,Manchester United,1,1,D,0,0,D
+ENG,05/12/1998,14:00,Blackburn Rovers,Charlton Athletic,1,0,H,0,0,D
+ENG,05/12/1998,14:00,Derby County,Arsenal FC,0,0,D,0,0,D
+ENG,05/12/1998,14:00,Everton FC,Chelsea FC,0,0,D,0,0,D
+ENG,05/12/1998,14:00,Leeds United,West Ham United,4,0,H,1,0,H
+ENG,05/12/1998,14:00,Leicester City,Southampton FC,2,0,H,1,0,H
+ENG,05/12/1998,14:00,Tottenham Hotspur,Liverpool FC,2,1,H,1,0,H
+ENG,05/12/1998,14:00,Wimbledon FC,Coventry City,2,1,H,0,0,D
+ENG,06/12/1998,15:00,Middlesbrough FC,Newcastle United,2,2,D,1,1,D
+ENG,07/12/1998,19:00,Sheffield Wednesday,Nottingham Forest,3,2,H,1,0,H
+ENG,12/12/1998,14:00,Blackburn Rovers,Newcastle United,0,0,D,0,0,D
+ENG,12/12/1998,14:00,Derby County,Chelsea FC,2,2,D,1,0,H
+ENG,12/12/1998,14:00,Everton FC,Southampton FC,1,0,H,1,0,H
+ENG,12/12/1998,14:00,Leicester City,Nottingham Forest,3,1,H,1,1,D
+ENG,12/12/1998,14:00,Middlesbrough FC,West Ham United,1,0,H,1,0,H
+ENG,12/12/1998,14:00,Sheffield Wednesday,Charlton Athletic,3,0,H,1,0,H
+ENG,12/12/1998,14:00,Tottenham Hotspur,Manchester United,2,2,D,0,2,A
+ENG,13/12/1998,14:00,Wimbledon FC,Liverpool FC,1,0,H,0,0,D
+ENG,13/12/1998,15:00,Aston Villa,Arsenal FC,3,2,H,0,2,A
+ENG,14/12/1998,19:00,Leeds United,Coventry City,2,0,H,1,0,H
+ENG,19/12/1998,14:00,Chelsea FC,Tottenham Hotspur,2,0,H,0,0,D
+ENG,19/12/1998,14:00,Coventry City,Derby County,1,1,D,1,0,H
+ENG,19/12/1998,14:00,Liverpool FC,Sheffield Wednesday,2,0,H,2,0,H
+ENG,19/12/1998,14:00,Manchester United,Middlesbrough FC,2,3,A,0,2,A
+ENG,19/12/1998,14:00,Newcastle United,Leicester City,1,0,H,0,0,D
+ENG,19/12/1998,14:00,Nottingham Forest,Blackburn Rovers,2,2,D,2,0,H
+ENG,19/12/1998,14:00,Southampton FC,Wimbledon FC,3,1,H,1,0,H
+ENG,19/12/1998,14:00,West Ham United,Everton FC,2,1,H,1,0,H
+ENG,20/12/1998,15:00,Arsenal FC,Leeds United,3,1,H,1,0,H
+ENG,21/12/1998,19:00,Charlton Athletic,Aston Villa,0,1,A,0,1,A
+ENG,26/12/1998,14:00,Arsenal FC,West Ham United,1,0,H,1,0,H
+ENG,26/12/1998,14:00,Blackburn Rovers,Aston Villa,2,1,H,1,0,H
+ENG,26/12/1998,14:00,Coventry City,Tottenham Hotspur,1,1,D,0,1,A
+ENG,26/12/1998,14:00,Everton FC,Derby County,0,0,D,0,0,D
+ENG,26/12/1998,14:00,Manchester United,Nottingham Forest,3,0,H,1,0,H
+ENG,26/12/1998,14:00,Middlesbrough FC,Liverpool FC,1,3,A,1,2,A
+ENG,26/12/1998,14:00,Newcastle United,Leeds United,0,3,A,0,1,A
+ENG,26/12/1998,14:00,Sheffield Wednesday,Leicester City,0,1,A,0,1,A
+ENG,26/12/1998,14:00,Southampton FC,Chelsea FC,0,2,A,0,1,A
+ENG,26/12/1998,14:00,Wimbledon FC,Charlton Athletic,2,1,H,1,1,D
+ENG,28/12/1998,15:00,Aston Villa,Sheffield Wednesday,2,1,H,1,1,D
+ENG,28/12/1998,15:00,Charlton Athletic,Arsenal FC,0,1,A,0,0,D
+ENG,28/12/1998,15:00,Leicester City,Blackburn Rovers,1,1,D,1,1,D
+ENG,28/12/1998,15:00,West Ham United,Coventry City,2,0,H,1,0,H
+ENG,28/12/1998,15:00,Tottenham Hotspur,Everton FC,4,1,H,1,1,D
+ENG,28/12/1998,15:00,Nottingham Forest,Southampton FC,1,1,D,0,0,D
+ENG,28/12/1998,15:00,Liverpool FC,Newcastle United,4,2,H,0,1,A
+ENG,28/12/1998,15:00,Derby County,Middlesbrough FC,2,1,H,1,0,H
+ENG,29/12/1998,18:45,Chelsea FC,Manchester United,0,0,D,0,0,D
+ENG,29/12/1998,18:45,Leeds United,Wimbledon FC,2,2,D,1,1,D
+ENG,09/01/1999,14:00,Wimbledon FC,Derby County,2,1,H,1,0,H
+ENG,09/01/1999,14:00,Southampton FC,Charlton Athletic,3,1,H,1,1,D
+ENG,09/01/1999,14:00,Sheffield Wednesday,Tottenham Hotspur,0,0,D,0,0,D
+ENG,09/01/1999,14:00,Newcastle United,Chelsea FC,0,1,A,0,1,A
+ENG,09/01/1999,14:00,Middlesbrough FC,Aston Villa,0,0,D,0,0,D
+ENG,09/01/1999,14:00,Everton FC,Leicester City,0,0,D,0,0,D
+ENG,09/01/1999,14:00,Coventry City,Nottingham Forest,4,0,H,1,0,H
+ENG,09/01/1999,14:00,Blackburn Rovers,Leeds United,1,0,H,1,0,H
+ENG,09/01/1999,14:00,Arsenal FC,Liverpool FC,0,0,D,0,0,D
+ENG,10/01/1999,15:00,Manchester United,West Ham United,4,1,H,2,0,H
+ENG,16/01/1999,14:00,Liverpool FC,Southampton FC,7,1,H,3,0,H
+ENG,16/01/1999,14:00,Tottenham Hotspur,Wimbledon FC,0,0,D,0,0,D
+ENG,16/01/1999,14:00,West Ham United,Sheffield Wednesday,0,4,A,0,2,A
+ENG,16/01/1999,14:00,Nottingham Forest,Arsenal FC,0,1,A,0,1,A
+ENG,16/01/1999,14:00,Leicester City,Manchester United,2,6,A,1,1,D
+ENG,16/01/1999,14:00,Chelsea FC,Coventry City,2,1,H,1,1,D
+ENG,16/01/1999,14:00,Derby County,Blackburn Rovers,1,0,H,0,0,D
+ENG,16/01/1999,14:00,Leeds United,Middlesbrough FC,2,0,H,2,0,H
+ENG,17/01/1999,15:00,Charlton Athletic,Newcastle United,2,2,D,0,1,A
+ENG,18/01/1999,19:00,Aston Villa,Everton FC,3,0,H,1,0,H
+ENG,30/01/1999,14:00,Newcastle United,Aston Villa,2,1,H,2,0,H
+ENG,30/01/1999,14:00,Wimbledon FC,West Ham United,0,0,D,0,0,D
+ENG,30/01/1999,14:00,Middlesbrough FC,Leicester City,0,0,D,0,0,D
+ENG,30/01/1999,14:00,Everton FC,Nottingham Forest,0,1,A,0,0,D
+ENG,30/01/1999,14:00,Coventry City,Liverpool FC,2,1,H,0,0,D
+ENG,30/01/1999,14:00,Blackburn Rovers,Tottenham Hotspur,1,1,D,1,0,H
+ENG,30/01/1999,14:00,Southampton FC,Leeds United,3,0,H,1,0,H
+ENG,30/01/1999,14:00,Sheffield Wednesday,Derby County,0,1,A,0,0,D
+ENG,31/01/1999,15:00,Arsenal FC,Chelsea FC,1,0,H,1,0,H
+ENG,31/01/1999,15:00,Charlton Athletic,Manchester United,0,1,A,0,0,D
+ENG,06/02/1999,14:00,Chelsea FC,Southampton FC,1,0,H,1,0,H
+ENG,06/02/1999,14:00,Aston Villa,Blackburn Rovers,1,3,A,0,1,A
+ENG,06/02/1999,14:00,Leeds United,Newcastle United,0,1,A,0,0,D
+ENG,06/02/1999,14:00,West Ham United,Arsenal FC,0,4,A,0,2,A
+ENG,06/02/1999,14:00,Tottenham Hotspur,Coventry City,0,0,D,0,0,D
+ENG,06/02/1999,14:00,Liverpool FC,Middlesbrough FC,3,1,H,3,0,H
+ENG,06/02/1999,14:00,Nottingham Forest,Manchester United,1,8,A,1,2,A
+ENG,06/02/1999,14:00,Leicester City,Sheffield Wednesday,0,2,A,0,0,D
+ENG,07/02/1999,15:00,Derby County,Everton FC,2,1,H,0,1,A
+ENG,08/02/1999,19:00,Charlton Athletic,Wimbledon FC,2,0,H,1,0,H
+ENG,13/02/1999,14:00,West Ham United,Nottingham Forest,2,1,H,2,0,H
+ENG,13/02/1999,14:00,Charlton Athletic,Liverpool FC,1,0,H,0,0,D
+ENG,17/02/1999,18:45,Chelsea FC,Blackburn Rovers,1,1,D,1,0,H
+ENG,17/02/1999,18:45,Everton FC,Middlesbrough FC,5,0,H,2,0,H
+ENG,17/02/1999,19:00,Aston Villa,Leeds United,1,2,A,0,2,A
+ENG,17/02/1999,19:00,Newcastle United,Coventry City,4,1,H,1,1,D
+ENG,17/02/1999,19:00,Manchester United,Arsenal FC,1,1,D,0,0,D
+ENG,02/03/1999,18:45,Tottenham Hotspur,Southampton FC,3,0,H,1,0,H
+ENG,03/03/1999,19:00,Sheffield Wednesday,Wimbledon FC,1,2,A,0,2,A
+ENG,05/05/1999,18:45,Leicester City,Derby County,1,2,A,1,1,D
+ENG,20/02/1999,14:00,Liverpool FC,West Ham United,2,2,D,2,1,H
+ENG,20/02/1999,14:00,Leeds United,Everton FC,1,0,H,0,0,D
+ENG,20/02/1999,14:00,Derby County,Charlton Athletic,0,2,A,0,0,D
+ENG,20/02/1999,14:00,Coventry City,Manchester United,0,1,A,0,0,D
+ENG,20/02/1999,14:00,Blackburn Rovers,Sheffield Wednesday,1,4,A,0,3,A
+ENG,20/02/1999,14:00,Arsenal FC,Leicester City,5,0,H,4,0,H
+ENG,20/02/1999,14:00,Middlesbrough FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,20/02/1999,14:00,Nottingham Forest,Chelsea FC,1,3,A,1,2,A
+ENG,20/02/1999,14:00,Southampton FC,Newcastle United,2,1,H,2,0,H
+ENG,21/02/1999,15:00,Wimbledon FC,Aston Villa,0,0,D,0,0,D
+ENG,27/02/1999,14:00,Chelsea FC,Liverpool FC,2,1,H,2,0,H
+ENG,27/02/1999,14:00,Manchester United,Southampton FC,2,1,H,0,0,D
+ENG,27/02/1999,14:00,Charlton Athletic,Nottingham Forest,0,0,D,0,0,D
+ENG,27/02/1999,14:00,Aston Villa,Coventry City,1,4,A,0,1,A
+ENG,27/02/1999,14:00,Sheffield Wednesday,Middlesbrough FC,3,1,H,1,0,H
+ENG,27/02/1999,14:00,West Ham United,Blackburn Rovers,2,0,H,2,0,H
+ENG,27/02/1999,14:00,Tottenham Hotspur,Derby County,1,1,D,0,0,D
+ENG,27/02/1999,14:00,Everton FC,Wimbledon FC,1,1,D,0,1,A
+ENG,28/02/1999,15:00,Newcastle United,Arsenal FC,1,1,D,0,1,A
+ENG,01/03/1999,19:00,Leicester City,Leeds United,1,2,A,0,1,A
+ENG,06/03/1999,14:00,Wimbledon FC,Leicester City,0,1,A,0,1,A
+ENG,06/03/1999,14:00,Southampton FC,West Ham United,1,0,H,1,0,H
+ENG,06/03/1999,14:00,Coventry City,Charlton Athletic,2,1,H,0,0,D
+ENG,09/03/1999,18:45,Arsenal FC,Sheffield Wednesday,3,0,H,0,0,D
+ENG,10/03/1999,18:45,Nottingham Forest,Newcastle United,1,2,A,1,1,D
+ENG,10/03/1999,19:00,Derby County,Aston Villa,2,1,H,2,1,H
+ENG,10/03/1999,19:00,Leeds United,Tottenham Hotspur,2,0,H,1,0,H
+ENG,10/03/1999,19:00,Blackburn Rovers,Everton FC,1,2,A,1,1,D
+ENG,14/04/1999,19:00,Middlesbrough FC,Chelsea FC,0,0,D,0,0,D
+ENG,05/05/1999,18:45,Liverpool FC,Manchester United,2,2,D,0,1,A
+ENG,13/03/1999,14:00,Newcastle United,Manchester United,1,2,A,1,1,D
+ENG,13/03/1999,14:00,Everton FC,Arsenal FC,0,2,A,0,1,A
+ENG,13/03/1999,14:00,Sheffield Wednesday,Leeds United,0,2,A,0,1,A
+ENG,13/03/1999,14:00,Tottenham Hotspur,Aston Villa,1,0,H,0,0,D
+ENG,13/03/1999,14:00,Wimbledon FC,Nottingham Forest,1,3,A,0,1,A
+ENG,13/03/1999,14:00,Leicester City,Charlton Athletic,1,1,D,0,0,D
+ENG,13/03/1999,14:00,Derby County,Liverpool FC,3,2,H,2,1,H
+ENG,13/03/1999,14:00,Coventry City,Blackburn Rovers,1,1,D,1,0,H
+ENG,13/03/1999,14:00,Chelsea FC,West Ham United,0,1,A,0,0,D
+ENG,14/03/1999,15:00,Middlesbrough FC,Southampton FC,3,0,H,2,0,H
+ENG,20/03/1999,14:00,Arsenal FC,Coventry City,2,0,H,1,0,H
+ENG,20/03/1999,14:00,Blackburn Rovers,Wimbledon FC,3,1,H,3,0,H
+ENG,20/03/1999,14:00,Leeds United,Derby County,4,1,H,3,1,H
+ENG,20/03/1999,14:00,Nottingham Forest,Middlesbrough FC,1,2,A,1,1,D
+ENG,20/03/1999,14:00,Southampton FC,Sheffield Wednesday,1,0,H,1,0,H
+ENG,20/03/1999,14:00,West Ham United,Newcastle United,2,0,H,1,0,H
+ENG,21/03/1999,15:00,Aston Villa,Chelsea FC,0,3,A,0,0,D
+ENG,21/03/1999,15:00,Manchester United,Everton FC,3,1,H,0,0,D
+ENG,20/04/1999,18:45,Charlton Athletic,Tottenham Hotspur,1,4,A,1,0,H
+ENG,21/04/1999,19:00,Liverpool FC,Leicester City,0,1,A,0,0,D
+ENG,02/04/1999,17:00,Aston Villa,West Ham United,0,0,D,0,0,D
+ENG,03/04/1999,14:00,Blackburn Rovers,Middlesbrough FC,0,0,D,0,0,D
+ENG,03/04/1999,14:00,Charlton Athletic,Chelsea FC,0,1,A,0,1,A
+ENG,03/04/1999,14:00,Derby County,Newcastle United,3,4,A,2,3,A
+ENG,03/04/1999,14:00,Leeds United,Nottingham Forest,3,1,H,1,0,H
+ENG,03/04/1999,14:00,Liverpool FC,Everton FC,3,2,H,2,1,H
+ENG,03/04/1999,14:00,Sheffield Wednesday,Coventry City,1,2,A,0,1,A
+ENG,03/04/1999,14:00,Wimbledon FC,Manchester United,1,1,D,1,1,D
+ENG,03/04/1999,14:00,Southampton FC,Arsenal FC,0,0,D,0,0,D
+ENG,03/04/1999,14:00,Tottenham Hotspur,Leicester City,0,2,A,0,1,A
+ENG,03/02/1999,19:00,Manchester United,Derby County,1,0,H,0,0,D
+ENG,05/04/1999,15:00,Middlesbrough FC,Wimbledon FC,3,1,H,3,0,H
+ENG,05/04/1999,15:00,Newcastle United,Tottenham Hotspur,1,1,D,0,0,D
+ENG,05/04/1999,15:00,Coventry City,Southampton FC,1,0,H,0,0,D
+ENG,05/04/1999,15:00,Everton FC,Sheffield Wednesday,1,2,A,1,0,H
+ENG,05/04/1999,15:00,West Ham United,Charlton Athletic,0,1,A,0,0,D
+ENG,05/04/1999,15:00,Nottingham Forest,Liverpool FC,2,2,D,0,1,A
+ENG,06/04/1999,18:45,Leicester City,Aston Villa,2,2,D,0,1,A
+ENG,06/04/1999,18:45,Arsenal FC,Blackburn Rovers,1,0,H,1,0,H
+ENG,05/05/1999,18:45,Chelsea FC,Leeds United,1,0,H,0,0,D
+ENG,10/04/1999,14:00,Aston Villa,Southampton FC,3,0,H,1,0,H
+ENG,10/04/1999,14:00,Derby County,Nottingham Forest,1,0,H,0,0,D
+ENG,10/04/1999,14:00,Leicester City,West Ham United,0,0,D,0,0,D
+ENG,10/04/1999,14:00,Middlesbrough FC,Charlton Athletic,2,0,H,1,0,H
+ENG,11/04/1999,15:00,Everton FC,Coventry City,2,0,H,1,0,H
+ENG,11/04/1999,15:00,Wimbledon FC,Chelsea FC,1,2,A,0,1,A
+ENG,12/04/1999,19:00,Leeds United,Liverpool FC,0,0,D,0,0,D
+ENG,21/04/1999,19:00,Sheffield Wednesday,Newcastle United,1,1,D,0,1,A
+ENG,05/05/1999,18:45,Tottenham Hotspur,Arsenal FC,1,3,A,1,2,A
+ENG,12/05/1999,19:00,Blackburn Rovers,Manchester United,0,0,D,0,0,D
+ENG,17/04/1999,10:30,West Ham United,Derby County,5,1,H,2,0,H
+ENG,17/04/1999,14:00,Charlton Athletic,Leeds United,1,1,D,1,1,D
+ENG,17/04/1999,14:00,Coventry City,Middlesbrough FC,1,2,A,0,0,D
+ENG,17/04/1999,14:00,Liverpool FC,Aston Villa,0,1,A,0,1,A
+ENG,17/04/1999,14:00,Manchester United,Sheffield Wednesday,3,0,H,2,0,H
+ENG,17/04/1999,14:00,Newcastle United,Everton FC,1,3,A,0,2,A
+ENG,17/04/1999,14:00,Nottingham Forest,Tottenham Hotspur,0,1,A,0,0,D
+ENG,17/04/1999,14:00,Southampton FC,Blackburn Rovers,3,3,D,1,2,A
+ENG,18/04/1999,15:00,Chelsea FC,Leicester City,2,2,D,1,0,H
+ENG,19/04/1999,19:00,Arsenal FC,Wimbledon FC,5,1,H,1,0,H
+ENG,24/04/1999,14:00,Middlesbrough FC,Arsenal FC,1,6,A,0,3,A
+ENG,24/04/1999,14:00,Wimbledon FC,Newcastle United,1,1,D,1,1,D
+ENG,24/04/1999,14:00,Tottenham Hotspur,West Ham United,1,2,A,0,1,A
+ENG,24/04/1999,14:00,Blackburn Rovers,Liverpool FC,1,3,A,0,3,A
+ENG,24/04/1999,14:00,Everton FC,Charlton Athletic,4,1,H,2,0,H
+ENG,24/04/1999,14:00,Aston Villa,Nottingham Forest,2,0,H,1,0,H
+ENG,24/04/1999,14:00,Leicester City,Coventry City,1,0,H,1,0,H
+ENG,24/04/1999,14:00,Derby County,Southampton FC,0,0,D,0,0,D
+ENG,25/04/1999,14:00,Sheffield Wednesday,Chelsea FC,0,0,D,0,0,D
+ENG,25/04/1999,15:00,Leeds United,Manchester United,1,1,D,1,0,H
+ENG,01/05/1999,14:00,Newcastle United,Middlesbrough FC,1,1,D,0,0,D
+ENG,01/05/1999,14:00,Manchester United,Aston Villa,2,1,H,1,1,D
+ENG,01/05/1999,14:00,Charlton Athletic,Blackburn Rovers,0,0,D,0,0,D
+ENG,01/05/1999,14:00,West Ham United,Leeds United,1,5,A,0,2,A
+ENG,01/05/1999,14:00,Southampton FC,Leicester City,2,1,H,1,1,D
+ENG,01/05/1999,14:00,Nottingham Forest,Sheffield Wednesday,2,0,H,2,0,H
+ENG,01/05/1999,14:00,Chelsea FC,Everton FC,3,1,H,1,0,H
+ENG,01/05/1999,14:00,Coventry City,Wimbledon FC,2,1,H,2,0,H
+ENG,01/05/1999,14:00,Liverpool FC,Tottenham Hotspur,3,2,H,0,2,A
+ENG,02/05/1999,15:00,Arsenal FC,Derby County,1,0,H,1,0,H
+ENG,08/05/1999,14:00,Aston Villa,Charlton Athletic,3,4,A,1,1,D
+ENG,08/05/1999,14:00,Derby County,Coventry City,0,0,D,0,0,D
+ENG,08/05/1999,14:00,Wimbledon FC,Southampton FC,0,2,A,0,0,D
+ENG,08/05/1999,14:00,Sheffield Wednesday,Liverpool FC,1,0,H,0,0,D
+ENG,08/05/1999,14:00,Leicester City,Newcastle United,2,0,H,2,0,H
+ENG,08/05/1999,14:00,Everton FC,West Ham United,6,0,H,3,0,H
+ENG,08/05/1999,14:00,Blackburn Rovers,Nottingham Forest,1,2,A,1,1,D
+ENG,09/05/1999,15:00,Middlesbrough FC,Manchester United,0,1,A,0,1,A
+ENG,10/05/1999,19:00,Tottenham Hotspur,Chelsea FC,2,2,D,1,1,D
+ENG,11/05/1999,18:45,Leeds United,Arsenal FC,1,0,H,0,0,D
+ENG,16/05/1999,14:00,Manchester United,Tottenham Hotspur,2,1,H,1,1,D
+ENG,16/05/1999,14:00,Coventry City,Leeds United,2,2,D,0,1,A
+ENG,16/05/1999,14:00,Arsenal FC,Aston Villa,1,0,H,0,0,D
+ENG,16/05/1999,14:00,Chelsea FC,Derby County,2,1,H,1,0,H
+ENG,16/05/1999,14:00,West Ham United,Middlesbrough FC,4,0,H,2,0,H
+ENG,16/05/1999,14:00,Charlton Athletic,Sheffield Wednesday,0,1,A,0,0,D
+ENG,16/05/1999,14:00,Liverpool FC,Wimbledon FC,3,0,H,1,0,H
+ENG,16/05/1999,14:00,Newcastle United,Blackburn Rovers,1,1,D,0,1,A
+ENG,16/05/1999,14:00,Southampton FC,Everton FC,2,0,H,1,0,H
+ENG,16/05/1999,14:00,Nottingham Forest,Leicester City,1,0,H,0,0,D

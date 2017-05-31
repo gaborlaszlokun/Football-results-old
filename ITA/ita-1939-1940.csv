@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,17/09/1939,,AS Bari,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,17/09/1939,,ACF Fiorentina,Genova 1893 Circolo del Calcio,1,1,D,NaN,NaN,NaN
+ITA,17/09/1939,,AC Liguria,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,17/09/1939,,Modena FC,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,17/09/1939,,AS Roma,Bologna FC,2,0,H,NaN,NaN,NaN
+ITA,17/09/1939,,Torino FC,AC Milan,2,1,H,NaN,NaN,NaN
+ITA,17/09/1939,,Unione Triestina,Novara Calcio,2,0,H,NaN,NaN,NaN
+ITA,17/09/1939,,Inter,Juventus,4,0,H,NaN,NaN,NaN
+ITA,24/09/1939,,AC Milan,ACF Fiorentina,3,1,H,NaN,NaN,NaN
+ITA,24/09/1939,,AC Venezia,Inter,2,1,H,NaN,NaN,NaN
+ITA,24/09/1939,,SSC Napoli,AC Liguria,3,2,H,NaN,NaN,NaN
+ITA,24/09/1939,,Bologna FC,Unione Triestina,2,0,H,NaN,NaN,NaN
+ITA,24/09/1939,,Juventus,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,24/09/1939,,Genova 1893 Circolo del Calcio,AS Bari,3,0,H,NaN,NaN,NaN
+ITA,24/09/1939,,Lazio Roma,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,24/09/1939,,Novara Calcio,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,01/10/1939,,ACF Fiorentina,Lazio Roma,2,3,A,NaN,NaN,NaN
+ITA,01/10/1939,,Unione Triestina,Juventus,1,0,H,NaN,NaN,NaN
+ITA,01/10/1939,,Torino FC,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,01/10/1939,,AS Roma,AC Venezia,0,2,A,NaN,NaN,NaN
+ITA,01/10/1939,,Genova 1893 Circolo del Calcio,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,01/10/1939,,AS Bari,AC Liguria,1,1,D,NaN,NaN,NaN
+ITA,01/10/1939,,Inter,SSC Napoli,4,0,H,NaN,NaN,NaN
+ITA,01/10/1939,,Modena FC,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,08/10/1939,,SSC Napoli,AS Roma,0,1,A,NaN,NaN,NaN
+ITA,08/10/1939,,AC Milan,AS Bari,4,0,H,NaN,NaN,NaN
+ITA,08/10/1939,,AC Venezia,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,08/10/1939,,Bologna FC,Torino FC,3,1,H,NaN,NaN,NaN
+ITA,08/10/1939,,Lazio Roma,Genova 1893 Circolo del Calcio,4,1,H,NaN,NaN,NaN
+ITA,08/10/1939,,AC Liguria,Inter,0,2,A,NaN,NaN,NaN
+ITA,08/10/1939,,Juventus,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,08/10/1939,,Novara Calcio,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,15/10/1939,,Genova 1893 Circolo del Calcio,Novara Calcio,5,3,H,NaN,NaN,NaN
+ITA,15/10/1939,,Unione Triestina,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,15/10/1939,,Torino FC,Juventus,1,2,A,NaN,NaN,NaN
+ITA,15/10/1939,,AS Roma,AC Liguria,2,2,D,NaN,NaN,NaN
+ITA,15/10/1939,,AC Milan,Lazio Roma,0,2,A,NaN,NaN,NaN
+ITA,15/10/1939,,ACF Fiorentina,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,15/10/1939,,AS Bari,Inter,3,0,H,NaN,NaN,NaN
+ITA,15/10/1939,,Modena FC,AC Venezia,2,2,D,NaN,NaN,NaN
+ITA,22/10/1939,,Juventus,ACF Fiorentina,3,2,H,NaN,NaN,NaN
+ITA,22/10/1939,,Novara Calcio,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,22/10/1939,,SSC Napoli,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,22/10/1939,,AC Venezia,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,22/10/1939,,Lazio Roma,AS Bari,0,1,A,NaN,NaN,NaN
+ITA,22/10/1939,,Bologna FC,Genova 1893 Circolo del Calcio,5,3,H,NaN,NaN,NaN
+ITA,22/10/1939,,Inter,AS Roma,3,0,H,NaN,NaN,NaN
+ITA,22/10/1939,,AC Liguria,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,29/10/1939,,AS Bari,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,29/10/1939,,ACF Fiorentina,AC Venezia,3,1,H,NaN,NaN,NaN
+ITA,29/10/1939,,Genova 1893 Circolo del Calcio,Juventus,3,2,H,NaN,NaN,NaN
+ITA,29/10/1939,,Lazio Roma,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,29/10/1939,,AC Milan,Bologna FC,0,2,A,NaN,NaN,NaN
+ITA,29/10/1939,,Modena FC,AC Liguria,1,1,D,NaN,NaN,NaN
+ITA,29/10/1939,,Torino FC,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,29/10/1939,,Unione Triestina,Inter,2,1,H,NaN,NaN,NaN
+ITA,05/11/1939,,SSC Napoli,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,05/11/1939,,Novara Calcio,AS Bari,1,0,H,NaN,NaN,NaN
+ITA,05/11/1939,,AS Roma,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,05/11/1939,,Juventus,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,05/11/1939,,Inter,Modena FC,2,1,H,NaN,NaN,NaN
+ITA,05/11/1939,,Bologna FC,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,05/11/1939,,AC Liguria,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,05/11/1939,,AC Venezia,Genova 1893 Circolo del Calcio,2,6,A,NaN,NaN,NaN
+ITA,19/11/1939,,Genova 1893 Circolo del Calcio,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,19/11/1939,,Torino FC,Inter,0,1,A,NaN,NaN,NaN
+ITA,19/11/1939,,Novara Calcio,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,19/11/1939,,Modena FC,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,19/11/1939,,Lazio Roma,Juventus,4,0,H,NaN,NaN,NaN
+ITA,19/11/1939,,ACF Fiorentina,AC Liguria,4,0,H,NaN,NaN,NaN
+ITA,19/11/1939,,AS Bari,Unione Triestina,2,2,D,NaN,NaN,NaN
+ITA,19/11/1939,,AC Milan,AC Venezia,2,1,H,NaN,NaN,NaN
+ITA,03/12/1939,,Juventus,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,03/12/1939,,AC Venezia,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,03/12/1939,,Unione Triestina,Modena FC,4,1,H,NaN,NaN,NaN
+ITA,03/12/1939,,AS Roma,Torino FC,0,0,D,NaN,NaN,NaN
+ITA,03/12/1939,,Bologna FC,AS Bari,3,1,H,NaN,NaN,NaN
+ITA,03/12/1939,,Inter,ACF Fiorentina,3,0,H,NaN,NaN,NaN
+ITA,03/12/1939,,SSC Napoli,AC Milan,1,4,A,NaN,NaN,NaN
+ITA,03/12/1939,,AC Liguria,Genova 1893 Circolo del Calcio,2,1,H,NaN,NaN,NaN
+ITA,10/12/1939,,Genova 1893 Circolo del Calcio,Inter,2,2,D,NaN,NaN,NaN
+ITA,10/12/1939,,Torino FC,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,10/12/1939,,Novara Calcio,AC Venezia,2,0,H,NaN,NaN,NaN
+ITA,10/12/1939,,Lazio Roma,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,10/12/1939,,ACF Fiorentina,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,10/12/1939,,Bologna FC,Juventus,1,0,H,NaN,NaN,NaN
+ITA,10/12/1939,,AS Bari,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,10/12/1939,,AC Milan,AC Liguria,1,1,D,NaN,NaN,NaN
+ITA,17/12/1939,,AC Liguria,Lazio Roma,0,0,D,NaN,NaN,NaN
+ITA,17/12/1939,,Unione Triestina,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,17/12/1939,,AS Roma,Genova 1893 Circolo del Calcio,2,0,H,NaN,NaN,NaN
+ITA,17/12/1939,,AC Venezia,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,17/12/1939,,Juventus,AS Bari,6,2,H,NaN,NaN,NaN
+ITA,17/12/1939,,Inter,AC Milan,0,3,A,NaN,NaN,NaN
+ITA,17/12/1939,,SSC Napoli,Novara Calcio,2,1,H,NaN,NaN,NaN
+ITA,17/12/1939,,Modena FC,Torino FC,1,2,A,NaN,NaN,NaN
+ITA,31/12/1939,,Genova 1893 Circolo del Calcio,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,31/12/1939,,Novara Calcio,AC Liguria,1,0,H,NaN,NaN,NaN
+ITA,31/12/1939,,AC Milan,AS Roma,3,0,H,NaN,NaN,NaN
+ITA,31/12/1939,,Juventus,AC Venezia,1,0,H,NaN,NaN,NaN
+ITA,31/12/1939,,ACF Fiorentina,Modena FC,3,2,H,NaN,NaN,NaN
+ITA,31/12/1939,,Bologna FC,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,31/12/1939,,AS Bari,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,31/12/1939,,Lazio Roma,Inter,1,1,D,NaN,NaN,NaN
+ITA,07/01/1940,,Modena FC,Genova 1893 Circolo del Calcio,1,4,A,NaN,NaN,NaN
+ITA,07/01/1940,,Torino FC,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,07/01/1940,,Unione Triestina,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,07/01/1940,,SSC Napoli,Juventus,0,0,D,NaN,NaN,NaN
+ITA,07/01/1940,,AS Bari,AC Venezia,3,0,H,NaN,NaN,NaN
+ITA,07/01/1940,,Inter,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,07/01/1940,,AS Roma,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,07/01/1940,,AC Liguria,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,15/01/1940,,Juventus,AC Liguria,4,0,H,NaN,NaN,NaN
+ITA,15/01/1940,,AC Venezia,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,15/01/1940,,Novara Calcio,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,15/01/1940,,Lazio Roma,Unione Triestina,2,0,H,NaN,NaN,NaN
+ITA,15/01/1940,,Genova 1893 Circolo del Calcio,Torino FC,1,0,H,NaN,NaN,NaN
+ITA,15/01/1940,,ACF Fiorentina,AS Bari,1,1,D,NaN,NaN,NaN
+ITA,15/01/1940,,Bologna FC,Inter,0,0,D,NaN,NaN,NaN
+ITA,15/01/1940,,AC Milan,Modena FC,4,0,H,NaN,NaN,NaN
+ITA,21/01/1940,,SSC Napoli,AS Bari,1,1,D,NaN,NaN,NaN
+ITA,21/01/1940,,Genova 1893 Circolo del Calcio,ACF Fiorentina,3,0,H,NaN,NaN,NaN
+ITA,21/01/1940,,AC Venezia,AC Liguria,2,1,H,NaN,NaN,NaN
+ITA,21/01/1940,,Novara Calcio,Unione Triestina,2,1,H,NaN,NaN,NaN
+ITA,21/01/1940,,Bologna FC,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,21/01/1940,,Juventus,Inter,1,0,H,NaN,NaN,NaN
+ITA,21/01/1940,,Lazio Roma,Modena FC,1,1,D,NaN,NaN,NaN
+ITA,21/01/1940,,AC Milan,Torino FC,1,3,A,NaN,NaN,NaN
+ITA,28/01/1940,,AC Liguria,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,28/01/1940,,Unione Triestina,Bologna FC,0,2,A,NaN,NaN,NaN
+ITA,28/01/1940,,Torino FC,Lazio Roma,0,1,A,NaN,NaN,NaN
+ITA,28/01/1940,,Modena FC,Novara Calcio,4,1,H,NaN,NaN,NaN
+ITA,28/01/1940,,ACF Fiorentina,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,28/01/1940,,AS Bari,Genova 1893 Circolo del Calcio,0,1,A,NaN,NaN,NaN
+ITA,28/01/1940,,Inter,AC Venezia,2,1,H,NaN,NaN,NaN
+ITA,28/01/1940,,AS Roma,Juventus,3,1,H,NaN,NaN,NaN
+ITA,04/02/1940,,AC Liguria,AS Bari,1,0,H,NaN,NaN,NaN
+ITA,04/02/1940,,AC Milan,Genova 1893 Circolo del Calcio,2,2,D,NaN,NaN,NaN
+ITA,04/02/1940,,AC Venezia,AS Roma,2,2,D,NaN,NaN,NaN
+ITA,04/02/1940,,Novara Calcio,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,04/02/1940,,Bologna FC,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,04/02/1940,,Lazio Roma,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,04/02/1940,,Juventus,Unione Triestina,2,6,A,NaN,NaN,NaN
+ITA,04/02/1940,,SSC Napoli,Inter,0,1,A,NaN,NaN,NaN
+ITA,11/02/1940,,Genova 1893 Circolo del Calcio,Lazio Roma,4,0,H,NaN,NaN,NaN
+ITA,11/02/1940,,Unione Triestina,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,11/02/1940,,Torino FC,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,11/02/1940,,Modena FC,Juventus,1,2,A,NaN,NaN,NaN
+ITA,11/02/1940,,ACF Fiorentina,Novara Calcio,2,2,D,NaN,NaN,NaN
+ITA,11/02/1940,,AS Bari,AC Milan,2,0,H,NaN,NaN,NaN
+ITA,11/02/1940,,Inter,AC Liguria,1,0,H,NaN,NaN,NaN
+ITA,11/02/1940,,AS Roma,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,18/02/1940,,Lazio Roma,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,18/02/1940,,AC Liguria,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,18/02/1940,,AC Venezia,Modena FC,0,4,A,NaN,NaN,NaN
+ITA,18/02/1940,,Novara Calcio,Genova 1893 Circolo del Calcio,3,1,H,NaN,NaN,NaN
+ITA,18/02/1940,,Inter,AS Bari,0,0,D,NaN,NaN,NaN
+ITA,18/02/1940,,Juventus,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,18/02/1940,,Bologna FC,ACF Fiorentina,3,2,H,NaN,NaN,NaN
+ITA,18/02/1940,,SSC Napoli,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,25/02/1940,,AC Milan,Novara Calcio,0,2,A,NaN,NaN,NaN
+ITA,25/02/1940,,Unione Triestina,AC Liguria,3,1,H,NaN,NaN,NaN
+ITA,25/02/1940,,Torino FC,AC Venezia,0,0,D,NaN,NaN,NaN
+ITA,25/02/1940,,Modena FC,SSC Napoli,0,0,D,NaN,NaN,NaN
+ITA,25/02/1940,,Genova 1893 Circolo del Calcio,Bologna FC,1,2,A,NaN,NaN,NaN
+ITA,25/02/1940,,ACF Fiorentina,Juventus,0,0,D,NaN,NaN,NaN
+ITA,25/02/1940,,AS Bari,Lazio Roma,1,5,A,NaN,NaN,NaN
+ITA,25/02/1940,,AS Roma,Inter,1,2,A,NaN,NaN,NaN
+ITA,10/03/1940,,AC Liguria,Modena FC,1,1,D,NaN,NaN,NaN
+ITA,10/03/1940,,SSC Napoli,Torino FC,3,1,H,NaN,NaN,NaN
+ITA,10/03/1940,,AC Venezia,ACF Fiorentina,2,0,H,NaN,NaN,NaN
+ITA,10/03/1940,,AS Roma,AS Bari,4,2,H,NaN,NaN,NaN
+ITA,10/03/1940,,Juventus,Genova 1893 Circolo del Calcio,3,1,H,NaN,NaN,NaN
+ITA,10/03/1940,,Bologna FC,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,10/03/1940,,Inter,Unione Triestina,5,1,H,NaN,NaN,NaN
+ITA,10/03/1940,,Novara Calcio,Lazio Roma,0,0,D,NaN,NaN,NaN
+ITA,17/03/1940,,Lazio Roma,Bologna FC,2,2,D,NaN,NaN,NaN
+ITA,17/03/1940,,Torino FC,AC Liguria,3,0,H,NaN,NaN,NaN
+ITA,17/03/1940,,AC Milan,Juventus,1,2,A,NaN,NaN,NaN
+ITA,17/03/1940,,Unione Triestina,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,17/03/1940,,Genova 1893 Circolo del Calcio,AC Venezia,3,1,H,NaN,NaN,NaN
+ITA,17/03/1940,,ACF Fiorentina,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,17/03/1940,,AS Bari,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,17/03/1940,,Modena FC,Inter,1,2,A,NaN,NaN,NaN
+ITA,24/03/1940,,SSC Napoli,Genova 1893 Circolo del Calcio,3,1,H,NaN,NaN,NaN
+ITA,24/03/1940,,Unione Triestina,AS Bari,1,0,H,NaN,NaN,NaN
+ITA,24/03/1940,,AC Venezia,AC Milan,0,2,A,NaN,NaN,NaN
+ITA,24/03/1940,,AS Roma,Modena FC,1,0,H,NaN,NaN,NaN
+ITA,24/03/1940,,Juventus,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,24/03/1940,,Inter,Torino FC,5,1,H,NaN,NaN,NaN
+ITA,24/03/1940,,Bologna FC,Novara Calcio,3,0,H,NaN,NaN,NaN
+ITA,24/03/1940,,AC Liguria,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,31/03/1940,,Lazio Roma,AC Venezia,1,0,H,NaN,NaN,NaN
+ITA,31/03/1940,,Torino FC,AS Roma,4,0,H,NaN,NaN,NaN
+ITA,31/03/1940,,Novara Calcio,Juventus,1,0,H,NaN,NaN,NaN
+ITA,31/03/1940,,AC Milan,SSC Napoli,3,0,H,NaN,NaN,NaN
+ITA,31/03/1940,,Genova 1893 Circolo del Calcio,AC Liguria,2,0,H,NaN,NaN,NaN
+ITA,31/03/1940,,ACF Fiorentina,Inter,0,3,A,NaN,NaN,NaN
+ITA,31/03/1940,,AS Bari,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,31/03/1940,,Modena FC,Unione Triestina,2,1,H,NaN,NaN,NaN
+ITA,21/04/1940,,Modena FC,AS Bari,3,0,H,NaN,NaN,NaN
+ITA,21/04/1940,,SSC Napoli,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,21/04/1940,,AC Venezia,Novara Calcio,3,1,H,NaN,NaN,NaN
+ITA,21/04/1940,,Unione Triestina,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,21/04/1940,,Inter,Genova 1893 Circolo del Calcio,2,1,H,NaN,NaN,NaN
+ITA,21/04/1940,,AC Liguria,AC Milan,0,2,A,NaN,NaN,NaN
+ITA,21/04/1940,,Juventus,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,21/04/1940,,AS Roma,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,12/05/1940,,Genova 1893 Circolo del Calcio,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,12/05/1940,,Novara Calcio,SSC Napoli,0,1,A,NaN,NaN,NaN
+ITA,12/05/1940,,Lazio Roma,AC Liguria,2,2,D,NaN,NaN,NaN
+ITA,12/05/1940,,Torino FC,Modena FC,4,3,H,NaN,NaN,NaN
+ITA,12/05/1940,,ACF Fiorentina,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,12/05/1940,,Bologna FC,AC Venezia,2,0,H,NaN,NaN,NaN
+ITA,12/05/1940,,AS Bari,Juventus,2,1,H,NaN,NaN,NaN
+ITA,12/05/1940,,AC Milan,Inter,1,3,A,NaN,NaN,NaN
+ITA,19/05/1940,,AS Roma,AC Milan,3,1,H,NaN,NaN,NaN
+ITA,19/05/1940,,Unione Triestina,Genova 1893 Circolo del Calcio,0,1,A,NaN,NaN,NaN
+ITA,19/05/1940,,AC Venezia,Juventus,1,1,D,NaN,NaN,NaN
+ITA,19/05/1940,,Torino FC,AS Bari,2,2,D,NaN,NaN,NaN
+ITA,19/05/1940,,Modena FC,ACF Fiorentina,3,0,H,NaN,NaN,NaN
+ITA,19/05/1940,,Inter,Lazio Roma,4,0,H,NaN,NaN,NaN
+ITA,19/05/1940,,SSC Napoli,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,19/05/1940,,AC Liguria,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,26/05/1940,,AC Venezia,AS Bari,2,1,H,NaN,NaN,NaN
+ITA,26/05/1940,,Bologna FC,AC Liguria,2,0,H,NaN,NaN,NaN
+ITA,26/05/1940,,ACF Fiorentina,Torino FC,3,2,H,NaN,NaN,NaN
+ITA,26/05/1940,,Genova 1893 Circolo del Calcio,Modena FC,0,3,A,NaN,NaN,NaN
+ITA,26/05/1940,,Juventus,SSC Napoli,2,1,H,NaN,NaN,NaN
+ITA,26/05/1940,,Lazio Roma,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,26/05/1940,,AC Milan,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,26/05/1940,,Novara Calcio,Inter,1,0,H,NaN,NaN,NaN
+ITA,02/06/1940,,Torino FC,Genova 1893 Circolo del Calcio,3,1,H,NaN,NaN,NaN
+ITA,02/06/1940,,AS Roma,Novara Calcio,3,1,H,NaN,NaN,NaN
+ITA,02/06/1940,,SSC Napoli,AC Venezia,2,0,H,NaN,NaN,NaN
+ITA,02/06/1940,,Modena FC,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,02/06/1940,,AC Liguria,Juventus,0,2,A,NaN,NaN,NaN
+ITA,02/06/1940,,Inter,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,02/06/1940,,Unione Triestina,Lazio Roma,2,3,A,NaN,NaN,NaN
+ITA,02/06/1940,,AS Bari,ACF Fiorentina,2,1,H,NaN,NaN,NaN

@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,27/08/2005,19:00,CD Alavés,FC Barcelona,0,0,D,0,0,D
+ESP,27/08/2005,21:00,Valencia CF,Real Betis,1,0,H,0,0,D
+ESP,27/08/2005,21:00,Athletic Bilbao,Real Sociedad,3,0,H,0,0,D
+ESP,28/08/2005,18:00,Sevilla FC,Racing Santander,1,0,H,1,0,H
+ESP,28/08/2005,18:00,Celta Vigo,Málaga CF,2,0,H,1,0,H
+ESP,28/08/2005,18:00,Espanyol Barcelona,Getafe CF,0,2,A,0,0,D
+ESP,28/08/2005,18:00,RCD Mallorca,Deportivo La Coruña,0,1,A,0,1,A
+ESP,28/08/2005,18:00,Atlético Madrid,Real Zaragoza,0,0,D,0,0,D
+ESP,28/08/2005,18:00,CA Osasuna,Villarreal CF,2,1,H,1,0,H
+ESP,28/08/2005,20:00,Cádiz CF,Real Madrid,1,2,A,0,1,A
+ESP,10/09/2005,19:00,Real Madrid,Celta Vigo,2,3,A,2,2,D
+ESP,10/09/2005,21:00,Real Betis,CA Osasuna,1,0,H,0,0,D
+ESP,10/09/2005,21:00,Deportivo La Coruña,Atlético Madrid,1,0,H,0,0,D
+ESP,11/09/2005,18:00,Villarreal CF,Sevilla FC,1,1,D,0,1,A
+ESP,11/09/2005,18:00,FC Barcelona,RCD Mallorca,2,0,H,2,0,H
+ESP,11/09/2005,18:00,Real Sociedad,CD Alavés,2,1,H,2,0,H
+ESP,11/09/2005,18:00,Getafe CF,Athletic Bilbao,1,1,D,1,1,D
+ESP,11/09/2005,18:00,Racing Santander,Cádiz CF,0,1,A,0,0,D
+ESP,11/09/2005,20:00,Real Zaragoza,Valencia CF,2,2,D,2,1,H
+ESP,11/09/2005,20:00,Málaga CF,Espanyol Barcelona,1,2,A,0,1,A
+ESP,17/09/2005,19:00,Valencia CF,Deportivo La Coruña,2,2,D,0,1,A
+ESP,17/09/2005,21:00,RCD Mallorca,Real Sociedad,5,2,H,1,2,A
+ESP,18/09/2005,16:00,Cádiz CF,Villarreal CF,1,1,D,1,1,D
+ESP,18/09/2005,16:00,Celta Vigo,Racing Santander,0,1,A,0,0,D
+ESP,18/09/2005,16:00,Athletic Bilbao,Málaga CF,1,2,A,0,0,D
+ESP,18/09/2005,16:00,CD Alavés,Getafe CF,3,4,A,2,3,A
+ESP,18/09/2005,16:00,CA Osasuna,Sevilla FC,1,0,H,0,0,D
+ESP,18/09/2005,17:00,Real Betis,Real Zaragoza,0,0,D,0,0,D
+ESP,18/09/2005,18:00,Espanyol Barcelona,Real Madrid,1,0,H,0,0,D
+ESP,18/09/2005,20:00,Atlético Madrid,FC Barcelona,2,1,H,1,1,D
+ESP,21/09/2005,20:00,Villarreal CF,Celta Vigo,1,2,A,0,1,A
+ESP,21/09/2005,20:00,Sevilla FC,Cádiz CF,0,0,D,0,0,D
+ESP,21/09/2005,20:00,Real Zaragoza,CA Osasuna,3,1,H,0,0,D
+ESP,21/09/2005,20:00,Deportivo La Coruña,Real Betis,1,1,D,1,1,D
+ESP,21/09/2005,20:00,FC Barcelona,Valencia CF,2,2,D,1,0,H
+ESP,21/09/2005,20:00,Real Sociedad,Atlético Madrid,3,2,H,0,2,A
+ESP,21/09/2005,20:00,Getafe CF,RCD Mallorca,1,1,D,1,0,H
+ESP,21/09/2005,20:00,Málaga CF,CD Alavés,0,0,D,0,0,D
+ESP,21/09/2005,20:00,Racing Santander,Espanyol Barcelona,1,0,H,0,0,D
+ESP,22/09/2005,21:00,Real Madrid,Athletic Bilbao,3,1,H,0,1,A
+ESP,24/09/2005,19:00,Valencia CF,Real Sociedad,2,1,H,1,0,H
+ESP,24/09/2005,19:00,Real Zaragoza,Deportivo La Coruña,1,1,D,1,1,D
+ESP,24/09/2005,19:00,Espanyol Barcelona,Villarreal CF,1,2,A,0,1,A
+ESP,24/09/2005,19:00,Atlético Madrid,Getafe CF,0,1,A,0,0,D
+ESP,24/09/2005,21:00,Real Betis,FC Barcelona,1,4,A,1,1,D
+ESP,25/09/2005,16:00,CD Alavés,Real Madrid,0,3,A,0,0,D
+ESP,25/09/2005,16:00,RCD Mallorca,Málaga CF,1,4,A,0,2,A
+ESP,25/09/2005,16:00,CA Osasuna,Cádiz CF,2,0,H,1,0,H
+ESP,25/09/2005,18:00,Athletic Bilbao,Racing Santander,0,0,D,0,0,D
+ESP,25/09/2005,20:00,Celta Vigo,Sevilla FC,2,1,H,2,0,H
+ESP,01/10/2005,19:00,FC Barcelona,Real Zaragoza,2,2,D,0,0,D
+ESP,01/10/2005,21:00,Getafe CF,Valencia CF,2,1,H,1,1,D
+ESP,02/10/2005,16:00,Villarreal CF,Athletic Bilbao,3,1,H,1,1,D
+ESP,02/10/2005,16:00,Sevilla FC,Espanyol Barcelona,1,1,D,0,1,A
+ESP,02/10/2005,16:00,Cádiz CF,Celta Vigo,1,1,D,1,1,D
+ESP,02/10/2005,16:00,Deportivo La Coruña,CA Osasuna,0,1,A,0,1,A
+ESP,02/10/2005,16:00,Real Sociedad,Real Betis,1,1,D,0,1,A
+ESP,02/10/2005,16:00,Racing Santander,CD Alavés,1,2,A,0,1,A
+ESP,02/10/2005,18:00,Real Madrid,RCD Mallorca,4,0,H,2,0,H
+ESP,02/10/2005,20:00,Málaga CF,Atlético Madrid,0,2,A,0,0,D
+ESP,15/10/2005,17:00,CD Alavés,Villarreal CF,1,1,D,1,1,D
+ESP,15/10/2005,19:00,Deportivo La Coruña,FC Barcelona,3,3,D,1,2,A
+ESP,15/10/2005,21:00,Atlético Madrid,Real Madrid,0,3,A,0,1,A
+ESP,16/10/2005,16:00,Real Betis,Getafe CF,1,0,H,1,0,H
+ESP,16/10/2005,16:00,Real Zaragoza,Real Sociedad,0,1,A,0,1,A
+ESP,16/10/2005,16:00,RCD Mallorca,Racing Santander,0,0,D,0,0,D
+ESP,16/10/2005,16:00,CA Osasuna,Celta Vigo,2,0,H,0,0,D
+ESP,16/10/2005,18:00,Valencia CF,Málaga CF,2,1,H,1,0,H
+ESP,16/10/2005,18:00,Espanyol Barcelona,Cádiz CF,0,2,A,0,0,D
+ESP,16/10/2005,20:00,Athletic Bilbao,Sevilla FC,0,1,A,0,1,A
+ESP,22/10/2005,19:00,Sevilla FC,CD Alavés,2,0,H,1,0,H
+ESP,22/10/2005,21:00,FC Barcelona,CA Osasuna,3,0,H,0,0,D
+ESP,23/10/2005,16:00,Villarreal CF,RCD Mallorca,3,0,H,3,0,H
+ESP,23/10/2005,16:00,Cádiz CF,Athletic Bilbao,1,0,H,1,0,H
+ESP,23/10/2005,16:00,Celta Vigo,Espanyol Barcelona,1,0,H,0,0,D
+ESP,23/10/2005,16:00,Real Sociedad,Deportivo La Coruña,2,0,H,0,0,D
+ESP,23/10/2005,16:00,Getafe CF,Real Zaragoza,5,2,H,4,0,H
+ESP,23/10/2005,16:00,Málaga CF,Real Betis,5,0,H,2,0,H
+ESP,23/10/2005,18:00,Racing Santander,Atlético Madrid,0,1,A,0,0,D
+ESP,23/10/2005,20:00,Real Madrid,Valencia CF,1,2,A,1,2,A
+ESP,29/10/2005,19:00,Real Betis,Real Madrid,0,2,A,0,1,A
+ESP,29/10/2005,21:00,Athletic Bilbao,Celta Vigo,1,1,D,1,0,H
+ESP,30/10/2005,16:00,Valencia CF,Racing Santander,1,1,D,1,1,D
+ESP,30/10/2005,16:00,Real Zaragoza,Málaga CF,1,1,D,1,1,D
+ESP,30/10/2005,16:00,Deportivo La Coruña,Getafe CF,1,0,H,1,0,H
+ESP,30/10/2005,16:00,CD Alavés,Cádiz CF,0,0,D,0,0,D
+ESP,30/10/2005,16:00,RCD Mallorca,Sevilla FC,1,1,D,1,1,D
+ESP,30/10/2005,16:00,CA Osasuna,Espanyol Barcelona,2,0,H,1,0,H
+ESP,30/10/2005,18:00,FC Barcelona,Real Sociedad,5,0,H,2,0,H
+ESP,30/10/2005,20:00,Atlético Madrid,Villarreal CF,1,1,D,1,0,H
+ESP,05/11/2005,17:00,Real Sociedad,CA Osasuna,1,2,A,1,1,D
+ESP,05/11/2005,19:00,Espanyol Barcelona,Athletic Bilbao,1,1,D,0,1,A
+ESP,05/11/2005,21:00,Villarreal CF,Valencia CF,1,0,H,1,0,H
+ESP,06/11/2005,16:00,Sevilla FC,Atlético Madrid,0,0,D,0,0,D
+ESP,06/11/2005,16:00,Cádiz CF,RCD Mallorca,1,2,A,1,1,D
+ESP,06/11/2005,16:00,Celta Vigo,CD Alavés,2,1,H,1,0,H
+ESP,06/11/2005,16:00,Málaga CF,Deportivo La Coruña,1,1,D,0,0,D
+ESP,06/11/2005,16:00,Racing Santander,Real Betis,1,1,D,0,1,A
+ESP,06/11/2005,18:00,Real Madrid,Real Zaragoza,1,0,H,0,0,D
+ESP,06/11/2005,20:00,Getafe CF,FC Barcelona,1,3,A,0,1,A
+ESP,26/10/2005,19:00,Real Betis,Villarreal CF,2,3,A,1,1,D
+ESP,26/10/2005,19:00,RCD Mallorca,Celta Vigo,1,0,H,0,0,D
+ESP,26/10/2005,19:00,CA Osasuna,Athletic Bilbao,3,2,H,1,1,D
+ESP,26/10/2005,19:30,FC Barcelona,Málaga CF,2,0,H,0,0,D
+ESP,26/10/2005,21:00,Deportivo La Coruña,Real Madrid,3,1,H,2,0,H
+ESP,27/10/2005,19:00,Real Zaragoza,Racing Santander,1,1,D,1,0,H
+ESP,27/10/2005,19:00,Real Sociedad,Getafe CF,3,0,H,3,0,H
+ESP,27/10/2005,19:00,CD Alavés,Espanyol Barcelona,1,1,D,1,1,D
+ESP,27/10/2005,19:00,Atlético Madrid,Cádiz CF,3,0,H,1,0,H
+ESP,27/10/2005,20:00,Valencia CF,Sevilla FC,0,2,A,0,1,A
+ESP,19/11/2005,17:00,Villarreal CF,Real Zaragoza,0,0,D,0,0,D
+ESP,19/11/2005,17:00,Getafe CF,CA Osasuna,0,0,D,0,0,D
+ESP,19/11/2005,19:00,Real Madrid,FC Barcelona,0,3,A,0,1,A
+ESP,19/11/2005,21:00,Sevilla FC,Real Betis,1,0,H,0,0,D
+ESP,20/11/2005,16:00,Cádiz CF,Valencia CF,0,1,A,0,0,D
+ESP,20/11/2005,16:00,Espanyol Barcelona,RCD Mallorca,2,0,H,2,0,H
+ESP,20/11/2005,16:00,Athletic Bilbao,CD Alavés,0,2,A,0,1,A
+ESP,20/11/2005,16:00,Málaga CF,Real Sociedad,3,1,H,0,0,D
+ESP,20/11/2005,18:00,Celta Vigo,Atlético Madrid,2,1,H,1,0,H
+ESP,20/11/2005,20:00,Racing Santander,Deportivo La Coruña,0,3,A,0,1,A
+ESP,26/11/2005,19:00,RCD Mallorca,Athletic Bilbao,0,1,A,0,0,D
+ESP,26/11/2005,21:00,Valencia CF,Celta Vigo,2,0,H,0,0,D
+ESP,27/11/2005,16:00,Real Betis,Cádiz CF,1,1,D,1,0,H
+ESP,27/11/2005,16:00,Real Zaragoza,Sevilla FC,0,2,A,0,0,D
+ESP,27/11/2005,16:00,Deportivo La Coruña,Villarreal CF,0,2,A,0,0,D
+ESP,27/11/2005,16:00,Getafe CF,Málaga CF,3,2,H,2,1,H
+ESP,27/11/2005,16:00,Atlético Madrid,Espanyol Barcelona,1,1,D,1,1,D
+ESP,27/11/2005,16:00,CA Osasuna,CD Alavés,3,2,H,0,0,D
+ESP,27/11/2005,18:00,Real Sociedad,Real Madrid,2,2,D,1,0,H
+ESP,27/11/2005,20:00,FC Barcelona,Racing Santander,4,1,H,1,0,H
+ESP,03/12/2005,17:00,Celta Vigo,Real Betis,2,1,H,2,0,H
+ESP,03/12/2005,19:00,Real Madrid,Getafe CF,1,0,H,1,0,H
+ESP,03/12/2005,21:00,Athletic Bilbao,Atlético Madrid,1,1,D,0,1,A
+ESP,04/12/2005,16:00,Cádiz CF,Real Zaragoza,1,2,A,1,0,H
+ESP,04/12/2005,16:00,Espanyol Barcelona,Valencia CF,1,3,A,0,2,A
+ESP,04/12/2005,16:00,CD Alavés,RCD Mallorca,0,3,A,0,1,A
+ESP,04/12/2005,16:00,Racing Santander,Real Sociedad,2,2,D,0,1,A
+ESP,04/12/2005,17:00,Málaga CF,CA Osasuna,1,2,A,1,2,A
+ESP,04/12/2005,18:00,Villarreal CF,FC Barcelona,0,2,A,0,1,A
+ESP,04/12/2005,20:00,Sevilla FC,Deportivo La Coruña,0,2,A,0,2,A
+ESP,10/12/2005,19:00,Valencia CF,Athletic Bilbao,1,1,D,0,0,D
+ESP,10/12/2005,21:00,Real Sociedad,Villarreal CF,1,3,A,1,1,D
+ESP,11/12/2005,16:00,Real Betis,Espanyol Barcelona,0,0,D,0,0,D
+ESP,11/12/2005,16:00,Real Zaragoza,Celta Vigo,1,0,H,0,0,D
+ESP,11/12/2005,16:00,Deportivo La Coruña,Cádiz CF,1,0,H,0,0,D
+ESP,11/12/2005,16:00,Getafe CF,Racing Santander,1,2,A,1,1,D
+ESP,11/12/2005,16:00,Atlético Madrid,CD Alavés,1,1,D,0,0,D
+ESP,11/12/2005,16:00,CA Osasuna,RCD Mallorca,1,0,H,1,0,H
+ESP,11/12/2005,18:00,Málaga CF,Real Madrid,0,2,A,0,2,A
+ESP,11/12/2005,20:00,FC Barcelona,Sevilla FC,2,1,H,0,0,D
+ESP,17/12/2005,19:00,Athletic Bilbao,Real Betis,2,0,H,2,0,H
+ESP,17/12/2005,19:00,Celta Vigo,Deportivo La Coruña,0,3,A,0,3,A
+ESP,17/12/2005,21:00,Cádiz CF,FC Barcelona,1,3,A,0,2,A
+ESP,18/12/2005,16:00,Villarreal CF,Getafe CF,2,1,H,1,1,D
+ESP,18/12/2005,16:00,Sevilla FC,Real Sociedad,3,2,H,0,1,A
+ESP,18/12/2005,16:00,Espanyol Barcelona,Real Zaragoza,2,2,D,0,0,D
+ESP,18/12/2005,16:00,CD Alavés,Valencia CF,0,1,A,0,1,A
+ESP,18/12/2005,16:00,Racing Santander,Málaga CF,1,1,D,1,1,D
+ESP,18/12/2005,18:00,RCD Mallorca,Atlético Madrid,2,2,D,1,2,A
+ESP,18/12/2005,20:00,Real Madrid,CA Osasuna,1,1,D,0,0,D
+ESP,20/12/2005,20:00,FC Barcelona,Celta Vigo,2,0,H,1,0,H
+ESP,21/12/2005,19:00,Real Betis,CD Alavés,3,0,H,1,0,H
+ESP,21/12/2005,19:00,Real Zaragoza,Athletic Bilbao,3,2,H,0,1,A
+ESP,21/12/2005,19:00,Deportivo La Coruña,Espanyol Barcelona,1,2,A,0,0,D
+ESP,21/12/2005,19:00,Real Sociedad,Cádiz CF,2,0,H,1,0,H
+ESP,21/12/2005,19:00,Getafe CF,Sevilla FC,1,0,H,1,0,H
+ESP,21/12/2005,19:00,Málaga CF,Villarreal CF,0,0,D,0,0,D
+ESP,21/12/2005,19:00,Real Madrid,Racing Santander,1,2,A,0,2,A
+ESP,21/12/2005,20:00,Valencia CF,RCD Mallorca,3,0,H,0,0,D
+ESP,22/12/2005,21:00,CA Osasuna,Atlético Madrid,2,1,H,2,1,H
+ESP,07/01/2006,19:00,Athletic Bilbao,Deportivo La Coruña,1,2,A,0,1,A
+ESP,07/01/2006,21:00,Espanyol Barcelona,FC Barcelona,1,2,A,0,1,A
+ESP,08/01/2006,16:00,Sevilla FC,Málaga CF,3,1,H,1,0,H
+ESP,08/01/2006,16:00,Cádiz CF,Getafe CF,1,0,H,1,0,H
+ESP,08/01/2006,16:00,Celta Vigo,Real Sociedad,1,0,H,1,0,H
+ESP,08/01/2006,16:00,CD Alavés,Real Zaragoza,0,2,A,0,0,D
+ESP,08/01/2006,16:00,RCD Mallorca,Real Betis,1,1,D,1,1,D
+ESP,08/01/2006,16:00,CA Osasuna,Racing Santander,1,1,D,1,1,D
+ESP,08/01/2006,18:00,Villarreal CF,Real Madrid,0,0,D,0,0,D
+ESP,08/01/2006,20:00,Atlético Madrid,Valencia CF,0,0,D,0,0,D
+ESP,14/01/2006,19:00,Real Betis,Atlético Madrid,1,0,H,1,0,H
+ESP,14/01/2006,21:00,Valencia CF,CA Osasuna,2,0,H,1,0,H
+ESP,15/01/2006,16:00,Real Zaragoza,RCD Mallorca,3,1,H,2,0,H
+ESP,15/01/2006,16:00,Deportivo La Coruña,CD Alavés,0,2,A,0,1,A
+ESP,15/01/2006,16:00,Real Sociedad,Espanyol Barcelona,0,1,A,0,0,D
+ESP,15/01/2006,16:00,Getafe CF,Celta Vigo,1,1,D,1,0,H
+ESP,15/01/2006,16:00,Málaga CF,Cádiz CF,0,2,A,0,2,A
+ESP,15/01/2006,16:00,Racing Santander,Villarreal CF,1,0,H,1,0,H
+ESP,15/01/2006,18:00,FC Barcelona,Athletic Bilbao,2,1,H,1,1,D
+ESP,15/01/2006,20:00,Real Madrid,Sevilla FC,4,2,H,1,0,H
+ESP,21/01/2006,19:00,Real Zaragoza,Atlético Madrid,0,2,A,0,1,A
+ESP,21/01/2006,21:00,Real Madrid,Cádiz CF,3,1,H,0,0,D
+ESP,22/01/2006,16:00,Real Betis,Valencia CF,0,2,A,0,1,A
+ESP,22/01/2006,16:00,Racing Santander,Sevilla FC,2,3,A,1,1,D
+ESP,22/01/2006,16:00,Villarreal CF,CA Osasuna,2,1,H,0,1,A
+ESP,22/01/2006,16:00,Deportivo La Coruña,RCD Mallorca,2,2,D,2,0,H
+ESP,22/01/2006,16:00,Getafe CF,Espanyol Barcelona,5,0,H,2,0,H
+ESP,22/01/2006,17:00,Málaga CF,Celta Vigo,0,2,A,0,0,D
+ESP,22/01/2006,18:00,FC Barcelona,CD Alavés,2,0,H,0,0,D
+ESP,22/01/2006,20:00,Real Sociedad,Athletic Bilbao,3,3,D,2,0,H
+ESP,28/01/2006,17:00,Cádiz CF,Racing Santander,1,1,D,0,0,D
+ESP,28/01/2006,19:00,Athletic Bilbao,Getafe CF,1,0,H,0,0,D
+ESP,28/01/2006,21:00,Atlético Madrid,Deportivo La Coruña,3,2,H,1,0,H
+ESP,29/01/2006,16:00,Valencia CF,Real Zaragoza,2,2,D,0,1,A
+ESP,29/01/2006,16:00,Sevilla FC,Villarreal CF,2,0,H,1,0,H
+ESP,29/01/2006,16:00,Espanyol Barcelona,Málaga CF,3,1,H,3,1,H
+ESP,29/01/2006,16:00,CD Alavés,Real Sociedad,3,1,H,1,0,H
+ESP,29/01/2006,16:00,CA Osasuna,Real Betis,0,2,A,0,1,A
+ESP,29/01/2006,18:00,RCD Mallorca,FC Barcelona,0,3,A,0,1,A
+ESP,29/01/2006,20:00,Celta Vigo,Real Madrid,1,2,A,1,1,D
+ESP,04/02/2006,17:00,Málaga CF,Athletic Bilbao,2,1,H,1,1,D
+ESP,04/02/2006,19:00,Real Madrid,Espanyol Barcelona,4,0,H,3,0,H
+ESP,04/02/2006,21:00,Deportivo La Coruña,Valencia CF,0,1,A,0,1,A
+ESP,05/02/2006,16:00,Villarreal CF,Cádiz CF,1,1,D,0,1,A
+ESP,05/02/2006,16:00,Real Zaragoza,Real Betis,4,3,H,4,1,H
+ESP,05/02/2006,16:00,Real Sociedad,RCD Mallorca,2,1,H,1,1,D
+ESP,05/02/2006,16:00,Getafe CF,CD Alavés,2,2,D,1,1,D
+ESP,05/02/2006,16:00,Racing Santander,Celta Vigo,0,1,A,0,0,D
+ESP,05/02/2006,18:00,FC Barcelona,Atlético Madrid,1,3,A,0,1,A
+ESP,05/02/2006,20:00,Sevilla FC,CA Osasuna,0,1,A,0,0,D
+ESP,11/02/2006,19:00,Cádiz CF,Sevilla FC,0,4,A,0,1,A
+ESP,11/02/2006,19:00,CA Osasuna,Real Zaragoza,1,1,D,1,1,D
+ESP,11/02/2006,21:00,Athletic Bilbao,Real Madrid,0,2,A,0,1,A
+ESP,12/02/2006,16:00,Real Betis,Deportivo La Coruña,0,1,A,0,0,D
+ESP,12/02/2006,16:00,Celta Vigo,Villarreal CF,1,0,H,1,0,H
+ESP,12/02/2006,16:00,Espanyol Barcelona,Racing Santander,0,2,A,0,0,D
+ESP,12/02/2006,16:00,CD Alavés,Málaga CF,3,2,H,1,0,H
+ESP,12/02/2006,16:00,RCD Mallorca,Getafe CF,1,1,D,0,0,D
+ESP,12/02/2006,18:00,Atlético Madrid,Real Sociedad,1,0,H,0,0,D
+ESP,12/02/2006,20:00,Valencia CF,FC Barcelona,1,0,H,1,0,H
+ESP,18/02/2006,17:00,Villarreal CF,Espanyol Barcelona,4,0,H,3,0,H
+ESP,18/02/2006,19:00,Real Madrid,CD Alavés,3,0,H,2,0,H
+ESP,18/02/2006,21:00,FC Barcelona,Real Betis,5,1,H,3,0,H
+ESP,18/02/2006,21:00,Sevilla FC,Celta Vigo,1,0,H,1,0,H
+ESP,19/02/2006,16:00,Deportivo La Coruña,Real Zaragoza,1,1,D,0,1,A
+ESP,19/02/2006,16:00,Racing Santander,Athletic Bilbao,0,1,A,0,0,D
+ESP,19/02/2006,16:00,Cádiz CF,CA Osasuna,1,3,A,1,2,A
+ESP,19/02/2006,18:00,Real Sociedad,Valencia CF,1,2,A,1,0,H
+ESP,19/02/2006,18:00,Málaga CF,RCD Mallorca,0,2,A,0,0,D
+ESP,19/02/2006,20:00,Getafe CF,Atlético Madrid,0,3,A,0,1,A
+ESP,25/02/2006,19:00,Atlético Madrid,Málaga CF,5,0,H,3,0,H
+ESP,25/02/2006,21:00,Real Zaragoza,FC Barcelona,0,2,A,0,0,D
+ESP,26/02/2006,16:00,Athletic Bilbao,Villarreal CF,1,1,D,1,1,D
+ESP,26/02/2006,16:00,Espanyol Barcelona,Sevilla FC,5,0,H,1,0,H
+ESP,26/02/2006,16:00,Celta Vigo,Cádiz CF,2,0,H,1,0,H
+ESP,26/02/2006,16:00,Real Betis,Real Sociedad,2,0,H,1,0,H
+ESP,26/02/2006,16:00,Valencia CF,Getafe CF,1,1,D,0,0,D
+ESP,26/02/2006,16:00,CD Alavés,Racing Santander,2,2,D,2,1,H
+ESP,26/02/2006,18:00,RCD Mallorca,Real Madrid,2,1,H,0,1,A
+ESP,26/02/2006,20:00,CA Osasuna,Deportivo La Coruña,1,2,A,1,0,H
+ESP,04/03/2006,17:00,Cádiz CF,Espanyol Barcelona,2,0,H,0,0,D
+ESP,04/03/2006,17:00,Villarreal CF,CD Alavés,3,2,H,1,2,A
+ESP,04/03/2006,19:00,Real Madrid,Atlético Madrid,2,1,H,2,1,H
+ESP,04/03/2006,21:00,FC Barcelona,Deportivo La Coruña,3,2,H,2,2,D
+ESP,05/03/2006,16:00,Getafe CF,Real Betis,1,0,H,1,0,H
+ESP,05/03/2006,16:00,Real Sociedad,Real Zaragoza,1,3,A,1,0,H
+ESP,05/03/2006,16:00,Racing Santander,RCD Mallorca,0,0,D,0,0,D
+ESP,05/03/2006,16:00,Celta Vigo,CA Osasuna,2,0,H,1,0,H
+ESP,05/03/2006,18:00,Sevilla FC,Athletic Bilbao,2,1,H,1,1,D
+ESP,05/03/2006,20:00,Málaga CF,Valencia CF,0,0,D,0,0,D
+ESP,11/03/2006,17:00,Espanyol Barcelona,Celta Vigo,2,0,H,2,0,H
+ESP,11/03/2006,19:00,Deportivo La Coruña,Real Sociedad,0,1,A,0,0,D
+ESP,11/03/2006,21:00,Valencia CF,Real Madrid,0,0,D,0,0,D
+ESP,12/03/2006,16:00,RCD Mallorca,Villarreal CF,1,1,D,1,1,D
+ESP,12/03/2006,16:00,CD Alavés,Sevilla FC,2,1,H,2,1,H
+ESP,12/03/2006,16:00,Athletic Bilbao,Cádiz CF,1,0,H,0,0,D
+ESP,12/03/2006,16:00,Real Zaragoza,Getafe CF,1,2,A,1,1,D
+ESP,12/03/2006,16:00,Real Betis,Málaga CF,1,1,D,1,0,H
+ESP,12/03/2006,18:00,Atlético Madrid,Racing Santander,2,1,H,0,0,D
+ESP,12/03/2006,20:00,CA Osasuna,FC Barcelona,2,1,H,1,0,H
+ESP,18/03/2006,17:00,Getafe CF,Deportivo La Coruña,1,2,A,0,1,A
+ESP,18/03/2006,19:00,Real Sociedad,FC Barcelona,0,2,A,0,1,A
+ESP,18/03/2006,21:00,Villarreal CF,Atlético Madrid,1,1,D,1,0,H
+ESP,19/03/2006,16:00,Racing Santander,Valencia CF,2,1,H,1,0,H
+ESP,19/03/2006,16:00,Cádiz CF,CD Alavés,0,0,D,0,0,D
+ESP,19/03/2006,16:00,Sevilla FC,RCD Mallorca,1,1,D,1,0,H
+ESP,19/03/2006,16:00,Espanyol Barcelona,CA Osasuna,2,4,A,1,3,A
+ESP,19/03/2006,18:00,Real Madrid,Real Betis,0,0,D,0,0,D
+ESP,19/03/2006,18:00,Málaga CF,Real Zaragoza,0,1,A,0,0,D
+ESP,19/03/2006,20:00,Celta Vigo,Athletic Bilbao,0,1,A,0,1,A
+ESP,21/03/2006,20:00,FC Barcelona,Getafe CF,3,1,H,1,1,D
+ESP,22/03/2006,19:00,Valencia CF,Villarreal CF,1,1,D,1,0,H
+ESP,22/03/2006,19:00,RCD Mallorca,Cádiz CF,1,0,H,1,0,H
+ESP,22/03/2006,19:00,CD Alavés,Celta Vigo,1,0,H,0,0,D
+ESP,22/03/2006,19:00,Athletic Bilbao,Espanyol Barcelona,1,1,D,0,1,A
+ESP,22/03/2006,19:00,CA Osasuna,Real Sociedad,2,0,H,1,0,H
+ESP,22/03/2006,19:00,Deportivo La Coruña,Málaga CF,2,1,H,0,1,A
+ESP,22/03/2006,19:00,Real Betis,Racing Santander,1,0,H,1,0,H
+ESP,22/03/2006,20:00,Real Zaragoza,Real Madrid,1,1,D,0,0,D
+ESP,23/03/2006,21:00,Atlético Madrid,Sevilla FC,0,1,A,0,0,D
+ESP,25/03/2006,17:00,Villarreal CF,Real Betis,1,2,A,0,2,A
+ESP,25/03/2006,19:00,Málaga CF,FC Barcelona,0,0,D,0,0,D
+ESP,25/03/2006,21:00,Athletic Bilbao,CA Osasuna,1,0,H,0,0,D
+ESP,26/03/2006,16:00,Sevilla FC,Valencia CF,1,0,H,0,0,D
+ESP,26/03/2006,16:00,Racing Santander,Real Zaragoza,0,0,D,0,0,D
+ESP,26/03/2006,16:00,Getafe CF,Real Sociedad,2,1,H,1,1,D
+ESP,26/03/2006,16:00,Espanyol Barcelona,CD Alavés,0,0,D,0,0,D
+ESP,26/03/2006,16:00,Celta Vigo,RCD Mallorca,2,0,H,2,0,H
+ESP,26/03/2006,18:00,Real Madrid,Deportivo La Coruña,4,0,H,2,0,H
+ESP,26/03/2006,20:00,Cádiz CF,Atlético Madrid,1,1,D,0,1,A
+ESP,01/04/2006,19:00,Real Zaragoza,Villarreal CF,0,1,A,0,1,A
+ESP,01/04/2006,19:00,Real Sociedad,Málaga CF,3,0,H,1,0,H
+ESP,01/04/2006,21:00,FC Barcelona,Real Madrid,1,1,D,1,1,D
+ESP,02/04/2006,16:00,Valencia CF,Cádiz CF,5,3,H,3,1,H
+ESP,02/04/2006,16:00,RCD Mallorca,Espanyol Barcelona,0,0,D,0,0,D
+ESP,02/04/2006,16:00,CD Alavés,Athletic Bilbao,0,0,D,0,0,D
+ESP,02/04/2006,16:00,CA Osasuna,Getafe CF,0,4,A,0,2,A
+ESP,02/04/2006,16:00,Deportivo La Coruña,Racing Santander,2,0,H,1,0,H
+ESP,02/04/2006,18:00,Atlético Madrid,Celta Vigo,0,3,A,0,0,D
+ESP,02/04/2006,20:00,Real Betis,Sevilla FC,2,1,H,2,1,H
+ESP,08/04/2006,16:00,Málaga CF,Getafe CF,1,2,A,0,1,A
+ESP,08/04/2006,17:00,Cádiz CF,Real Betis,1,1,D,0,0,D
+ESP,08/04/2006,19:00,Real Madrid,Real Sociedad,1,1,D,1,0,H
+ESP,08/04/2006,21:00,Celta Vigo,Valencia CF,0,1,A,0,1,A
+ESP,09/04/2006,16:00,Athletic Bilbao,RCD Mallorca,1,1,D,1,1,D
+ESP,09/04/2006,16:00,Espanyol Barcelona,Atlético Madrid,1,1,D,0,0,D
+ESP,09/04/2006,16:00,CD Alavés,CA Osasuna,1,2,A,0,1,A
+ESP,09/04/2006,18:00,Sevilla FC,Real Zaragoza,1,1,D,0,0,D
+ESP,09/04/2006,18:00,Racing Santander,FC Barcelona,2,2,D,2,2,D
+ESP,09/04/2006,20:00,Villarreal CF,Deportivo La Coruña,1,1,D,0,0,D
+ESP,14/04/2006,19:30,FC Barcelona,Villarreal CF,1,0,H,1,0,H
+ESP,15/04/2006,17:00,RCD Mallorca,CD Alavés,0,0,D,0,0,D
+ESP,15/04/2006,19:00,Real Sociedad,Racing Santander,1,0,H,0,0,D
+ESP,15/04/2006,21:00,Deportivo La Coruña,Sevilla FC,0,0,D,0,0,D
+ESP,16/04/2006,16:00,Real Zaragoza,Cádiz CF,1,2,A,1,1,D
+ESP,16/04/2006,16:00,Real Betis,Celta Vigo,0,2,A,0,1,A
+ESP,16/04/2006,16:00,Valencia CF,Espanyol Barcelona,4,0,H,1,0,H
+ESP,16/04/2006,16:00,CA Osasuna,Málaga CF,1,1,D,1,0,H
+ESP,16/04/2006,18:00,Getafe CF,Real Madrid,1,1,D,0,0,D
+ESP,16/04/2006,20:00,Atlético Madrid,Athletic Bilbao,1,0,H,0,0,D
+ESP,22/04/2006,17:00,Villarreal CF,Real Sociedad,0,2,A,0,2,A
+ESP,22/04/2006,19:00,CD Alavés,Atlético Madrid,0,1,A,0,1,A
+ESP,22/04/2006,21:00,Celta Vigo,Real Zaragoza,4,0,H,1,0,H
+ESP,23/04/2006,16:00,Athletic Bilbao,Valencia CF,0,3,A,0,0,D
+ESP,23/04/2006,16:00,Espanyol Barcelona,Real Betis,2,0,H,1,0,H
+ESP,23/04/2006,16:00,Cádiz CF,Deportivo La Coruña,1,1,D,0,1,A
+ESP,23/04/2006,16:00,Racing Santander,Getafe CF,1,3,A,1,1,D
+ESP,23/04/2006,16:00,RCD Mallorca,CA Osasuna,0,1,A,0,0,D
+ESP,23/04/2006,18:00,Real Madrid,Málaga CF,2,1,H,0,1,A
+ESP,13/05/2006,21:00,Sevilla FC,FC Barcelona,3,2,H,2,2,D
+ESP,29/04/2006,19:00,Real Betis,Athletic Bilbao,1,1,D,1,0,H
+ESP,29/04/2006,19:00,Deportivo La Coruña,Celta Vigo,0,2,A,0,1,A
+ESP,29/04/2006,21:00,FC Barcelona,Cádiz CF,1,0,H,1,0,H
+ESP,30/04/2006,16:00,Getafe CF,Villarreal CF,1,1,D,1,1,D
+ESP,30/04/2006,16:00,Real Sociedad,Sevilla FC,1,2,A,0,0,D
+ESP,30/04/2006,16:00,Real Zaragoza,Espanyol Barcelona,1,1,D,1,0,H
+ESP,30/04/2006,16:00,Valencia CF,CD Alavés,3,0,H,2,0,H
+ESP,30/04/2006,16:00,Málaga CF,Racing Santander,2,3,A,2,1,H
+ESP,30/04/2006,18:00,Atlético Madrid,RCD Mallorca,0,1,A,0,0,D
+ESP,30/04/2006,20:00,CA Osasuna,Real Madrid,0,1,A,0,0,D
+ESP,03/05/2006,19:00,RCD Mallorca,Valencia CF,2,1,H,1,1,D
+ESP,03/05/2006,19:00,CD Alavés,Real Betis,2,0,H,1,0,H
+ESP,03/05/2006,19:00,Athletic Bilbao,Real Zaragoza,1,0,H,0,0,D
+ESP,03/05/2006,19:00,Espanyol Barcelona,Deportivo La Coruña,1,2,A,1,0,H
+ESP,03/05/2006,19:00,Cádiz CF,Real Sociedad,2,2,D,0,1,A
+ESP,03/05/2006,19:00,Sevilla FC,Getafe CF,3,0,H,3,0,H
+ESP,03/05/2006,19:00,Villarreal CF,Málaga CF,2,1,H,2,1,H
+ESP,03/05/2006,19:00,Atlético Madrid,CA Osasuna,0,1,A,0,1,A
+ESP,03/05/2006,20:00,Celta Vigo,FC Barcelona,0,1,A,0,0,D
+ESP,04/05/2006,21:00,Racing Santander,Real Madrid,2,3,A,0,1,A
+ESP,06/05/2006,19:00,Málaga CF,Sevilla FC,0,2,A,0,1,A
+ESP,06/05/2006,19:00,FC Barcelona,Espanyol Barcelona,2,0,H,1,0,H
+ESP,06/05/2006,21:00,Valencia CF,Atlético Madrid,1,1,D,1,1,D
+ESP,07/05/2006,16:00,Getafe CF,Cádiz CF,3,1,H,0,1,A
+ESP,07/05/2006,16:00,Real Sociedad,Celta Vigo,2,2,D,2,1,H
+ESP,07/05/2006,16:00,Real Zaragoza,CD Alavés,3,0,H,0,0,D
+ESP,07/05/2006,16:00,Real Betis,RCD Mallorca,2,1,H,2,0,H
+ESP,07/05/2006,16:00,Racing Santander,CA Osasuna,2,1,H,0,0,D
+ESP,07/05/2006,18:00,Real Madrid,Villarreal CF,3,3,D,1,2,A
+ESP,07/05/2006,20:00,Deportivo La Coruña,Athletic Bilbao,1,2,A,1,0,H
+ESP,13/05/2006,19:00,Atlético Madrid,Real Betis,1,1,D,1,0,H
+ESP,13/05/2006,19:00,RCD Mallorca,Real Zaragoza,3,1,H,1,1,D
+ESP,13/05/2006,19:00,Celta Vigo,Getafe CF,1,0,H,1,0,H
+ESP,13/05/2006,19:00,Cádiz CF,Málaga CF,5,0,H,1,0,H
+ESP,13/05/2006,21:00,CD Alavés,Deportivo La Coruña,1,0,H,0,0,D
+ESP,13/05/2006,21:00,Espanyol Barcelona,Real Sociedad,1,0,H,0,0,D
+ESP,13/05/2006,21:00,Villarreal CF,Racing Santander,2,0,H,1,0,H
+ESP,16/05/2006,20:00,CA Osasuna,Valencia CF,2,1,H,0,0,D
+ESP,16/05/2006,20:00,Sevilla FC,Real Madrid,4,3,H,4,2,H
+ESP,20/05/2006,20:00,Athletic Bilbao,FC Barcelona,3,1,H,0,1,A

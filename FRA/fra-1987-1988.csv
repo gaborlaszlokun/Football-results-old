@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,18/07/1987,,Stade Laval,AS Saint-Étienne,4,0,H,2,0,H
+FRA,18/07/1987,,Sporting Toulon Var,OGC Nice,4,1,H,0,0,D
+FRA,18/07/1987,,Lille OSC,FC Nantes,3,0,H,0,0,D
+FRA,18/07/1987,,Toulouse FC,Montpellier La Paillade SC,3,1,H,0,0,D
+FRA,18/07/1987,,AS Monaco,Olympique Marseille,3,1,H,1,0,H
+FRA,18/07/1987,,Paris Saint-Germain,Le Havre AC,2,0,H,1,0,H
+FRA,18/07/1987,,Girondins Bordeaux,FC Metz,3,2,H,1,2,A
+FRA,18/07/1987,,Chamois Niortais,RC Lens,1,1,D,1,1,D
+FRA,18/07/1987,,AS Cannes,AJ Auxerre,0,0,D,0,0,D
+FRA,18/07/1987,,Brest Armorique FC,Matra Racing,0,0,D,0,0,D
+FRA,25/07/1987,,RC Lens,AS Monaco,1,3,A,0,0,D
+FRA,25/07/1987,,AJ Auxerre,Girondins Bordeaux,1,3,A,0,1,A
+FRA,25/07/1987,,Toulouse FC,Stade Laval,1,0,H,1,0,H
+FRA,25/07/1987,,OGC Nice,Lille OSC,2,1,H,1,0,H
+FRA,25/07/1987,,Montpellier La Paillade SC,Paris Saint-Germain,4,1,H,1,0,H
+FRA,25/07/1987,,FC Metz,Sporting Toulon Var,2,0,H,1,0,H
+FRA,25/07/1987,,Olympique Marseille,AS Cannes,3,0,H,2,0,H
+FRA,25/07/1987,,Le Havre AC,Chamois Niortais,3,0,H,1,0,H
+FRA,25/07/1987,,Matra Racing,AS Saint-Étienne,2,2,D,1,0,H
+FRA,25/07/1987,,FC Nantes,Brest Armorique FC,1,0,H,0,0,D
+FRA,01/08/1987,,AS Monaco,Le Havre AC,2,0,H,0,0,D
+FRA,01/08/1987,,Girondins Bordeaux,Olympique Marseille,2,0,H,0,0,D
+FRA,01/08/1987,,Lille OSC,FC Metz,1,0,H,1,0,H
+FRA,01/08/1987,,Paris Saint-Germain,Toulouse FC,2,0,H,2,0,H
+FRA,01/08/1987,,Brest Armorique FC,OGC Nice,0,1,A,0,0,D
+FRA,01/08/1987,,Stade Laval,Matra Racing,1,1,D,0,1,A
+FRA,01/08/1987,,Sporting Toulon Var,AJ Auxerre,0,0,D,0,0,D
+FRA,01/08/1987,,AS Saint-Étienne,FC Nantes,1,1,D,0,0,D
+FRA,01/08/1987,,Chamois Niortais,Montpellier La Paillade SC,1,0,H,1,0,H
+FRA,01/08/1987,,AS Cannes,RC Lens,2,1,H,1,1,D
+FRA,08/08/1987,,Montpellier La Paillade SC,AS Monaco,2,1,H,2,0,H
+FRA,08/08/1987,,RC Lens,Girondins Bordeaux,1,0,H,1,0,H
+FRA,08/08/1987,,Toulouse FC,Chamois Niortais,1,0,H,1,0,H
+FRA,08/08/1987,,Paris Saint-Germain,Brest Armorique FC,0,0,D,0,0,D
+FRA,08/08/1987,,AJ Auxerre,Lille OSC,2,1,H,0,0,D
+FRA,08/08/1987,,FC Metz,Stade Laval,2,1,H,1,0,H
+FRA,08/08/1987,,Olympique Marseille,Sporting Toulon Var,1,1,D,1,1,D
+FRA,08/08/1987,,FC Nantes,Matra Racing,1,1,D,0,0,D
+FRA,08/08/1987,,OGC Nice,AS Saint-Étienne,2,3,A,1,2,A
+FRA,08/08/1987,,Le Havre AC,AS Cannes,2,2,D,0,0,D
+FRA,15/08/1987,,AS Monaco,Toulouse FC,5,1,H,2,1,H
+FRA,15/08/1987,,Girondins Bordeaux,Le Havre AC,2,2,D,1,0,H
+FRA,15/08/1987,,Chamois Niortais,Paris Saint-Germain,1,2,A,1,1,D
+FRA,15/08/1987,,Sporting Toulon Var,RC Lens,2,0,H,1,0,H
+FRA,15/08/1987,,Matra Racing,OGC Nice,2,1,H,2,1,H
+FRA,15/08/1987,,AS Saint-Étienne,FC Metz,2,0,H,0,0,D
+FRA,15/08/1987,,Lille OSC,Olympique Marseille,1,1,D,0,1,A
+FRA,15/08/1987,,AS Cannes,Montpellier La Paillade SC,0,0,D,0,0,D
+FRA,15/08/1987,,Brest Armorique FC,AJ Auxerre,1,1,D,0,0,D
+FRA,15/08/1987,,Stade Laval,FC Nantes,1,1,D,0,1,A
+FRA,18/08/1987,,Chamois Niortais,AS Saint-Étienne,2,1,H,1,0,H
+FRA,19/08/1987,,Paris Saint-Germain,AS Monaco,0,1,A,0,1,A
+FRA,19/08/1987,,Montpellier La Paillade SC,Girondins Bordeaux,0,0,D,0,0,D
+FRA,19/08/1987,,Le Havre AC,Sporting Toulon Var,1,1,D,1,0,H
+FRA,19/08/1987,,FC Metz,Matra Racing,0,0,D,0,0,D
+FRA,19/08/1987,,Toulouse FC,AS Cannes,0,1,A,0,0,D
+FRA,19/08/1987,,RC Lens,Lille OSC,1,1,D,0,0,D
+FRA,19/08/1987,,Olympique Marseille,Brest Armorique FC,1,0,H,0,0,D
+FRA,19/08/1987,,OGC Nice,FC Nantes,3,1,H,2,1,H
+FRA,19/08/1987,,AJ Auxerre,Stade Laval,1,1,D,0,1,A
+FRA,22/08/1987,,AS Monaco,Chamois Niortais,1,3,A,1,2,A
+FRA,22/08/1987,,Girondins Bordeaux,Toulouse FC,2,2,D,2,1,H
+FRA,22/08/1987,,AS Cannes,Paris Saint-Germain,1,3,A,1,1,D
+FRA,22/08/1987,,Sporting Toulon Var,Montpellier La Paillade SC,0,0,D,0,0,D
+FRA,22/08/1987,,Matra Racing,Olympique Marseille,0,0,D,0,0,D
+FRA,22/08/1987,,Stade Laval,OGC Nice,1,2,A,1,0,H
+FRA,22/08/1987,,AS Saint-Étienne,AJ Auxerre,2,1,H,2,0,H
+FRA,22/08/1987,,Lille OSC,Le Havre AC,0,0,D,0,0,D
+FRA,22/08/1987,,FC Nantes,FC Metz,0,0,D,0,0,D
+FRA,22/08/1987,,Brest Armorique FC,RC Lens,4,1,H,1,0,H
+FRA,28/08/1987,,FC Metz,OGC Nice,2,0,H,0,0,D
+FRA,29/08/1987,,AS Monaco,Stade Laval,2,0,H,1,0,H
+FRA,29/08/1987,,Paris Saint-Germain,Girondins Bordeaux,1,0,H,1,0,H
+FRA,29/08/1987,,Olympique Marseille,AS Saint-Étienne,5,1,H,2,1,H
+FRA,29/08/1987,,Montpellier La Paillade SC,Lille OSC,3,1,H,2,0,H
+FRA,29/08/1987,,Chamois Niortais,AS Cannes,2,0,H,2,0,H
+FRA,29/08/1987,,Toulouse FC,Sporting Toulon Var,1,0,H,1,0,H
+FRA,29/08/1987,,Le Havre AC,Brest Armorique FC,3,2,H,1,2,A
+FRA,29/08/1987,,RC Lens,Matra Racing,2,1,H,1,1,D
+FRA,29/08/1987,,AJ Auxerre,FC Nantes,1,0,H,1,0,H
+FRA,01/09/1987,,FC Nantes,Olympique Marseille,5,0,H,1,0,H
+FRA,02/09/1987,,AS Cannes,AS Monaco,1,1,D,1,0,H
+FRA,02/09/1987,,Girondins Bordeaux,Chamois Niortais,1,0,H,1,0,H
+FRA,02/09/1987,,Sporting Toulon Var,Paris Saint-Germain,1,0,H,0,0,D
+FRA,02/09/1987,,Matra Racing,Le Havre AC,2,0,H,1,0,H
+FRA,02/09/1987,,OGC Nice,AJ Auxerre,1,0,H,1,0,H
+FRA,02/09/1987,,AS Saint-Étienne,RC Lens,2,1,H,1,0,H
+FRA,02/09/1987,,Lille OSC,Toulouse FC,2,0,H,0,0,D
+FRA,02/09/1987,,Stade Laval,Montpellier La Paillade SC,1,0,H,1,0,H
+FRA,02/09/1987,,Brest Armorique FC,FC Metz,1,0,H,1,0,H
+FRA,12/09/1987,,AS Monaco,Girondins Bordeaux,1,0,H,0,0,D
+FRA,12/09/1987,,Montpellier La Paillade SC,Matra Racing,6,1,H,1,1,D
+FRA,12/09/1987,,Paris Saint-Germain,Lille OSC,1,3,A,0,3,A
+FRA,12/09/1987,,Olympique Marseille,OGC Nice,2,0,H,2,0,H
+FRA,12/09/1987,,Chamois Niortais,Sporting Toulon Var,2,1,H,1,1,D
+FRA,12/09/1987,,Toulouse FC,Brest Armorique FC,2,1,H,1,0,H
+FRA,12/09/1987,,Le Havre AC,AS Saint-Étienne,1,1,D,0,0,D
+FRA,12/09/1987,,RC Lens,FC Nantes,1,2,A,1,1,D
+FRA,12/09/1987,,AJ Auxerre,FC Metz,0,1,A,0,0,D
+FRA,12/09/1987,,AS Cannes,Stade Laval,1,0,H,1,0,H
+FRA,19/09/1987,,Sporting Toulon Var,AS Monaco,0,0,D,0,0,D
+FRA,19/09/1987,,Lille OSC,Chamois Niortais,0,1,A,0,0,D
+FRA,19/09/1987,,AS Saint-Étienne,Toulouse FC,2,0,H,1,0,H
+FRA,19/09/1987,,Girondins Bordeaux,AS Cannes,3,3,D,0,0,D
+FRA,19/09/1987,,FC Nantes,Le Havre AC,2,0,H,1,0,H
+FRA,19/09/1987,,FC Metz,Olympique Marseille,3,1,H,1,0,H
+FRA,19/09/1987,,Brest Armorique FC,Montpellier La Paillade SC,4,0,H,3,0,H
+FRA,19/09/1987,,Stade Laval,Paris Saint-Germain,2,0,H,1,0,H
+FRA,19/09/1987,,OGC Nice,RC Lens,0,1,A,0,1,A
+FRA,20/09/1987,,Matra Racing,AJ Auxerre,1,0,H,1,0,H
+FRA,26/09/1987,,AS Monaco,Lille OSC,1,0,H,0,0,D
+FRA,26/09/1987,,Chamois Niortais,Brest Armorique FC,3,0,H,2,0,H
+FRA,26/09/1987,,Girondins Bordeaux,Stade Laval,1,0,H,1,0,H
+FRA,26/09/1987,,Montpellier La Paillade SC,FC Nantes,0,0,D,0,0,D
+FRA,26/09/1987,,Paris Saint-Germain,AS Saint-Étienne,3,0,H,0,0,D
+FRA,26/09/1987,,Toulouse FC,Matra Racing,0,0,D,0,0,D
+FRA,26/09/1987,,AS Cannes,Sporting Toulon Var,1,0,H,1,0,H
+FRA,26/09/1987,,RC Lens,FC Metz,2,0,H,1,0,H
+FRA,26/09/1987,,Olympique Marseille,AJ Auxerre,0,1,A,0,0,D
+FRA,26/09/1987,,Le Havre AC,OGC Nice,2,1,H,1,0,H
+FRA,02/10/1987,,Matra Racing,Paris Saint-Germain,2,1,H,1,0,H
+FRA,03/10/1987,,Brest Armorique FC,AS Monaco,0,2,A,0,1,A
+FRA,03/10/1987,,Sporting Toulon Var,Girondins Bordeaux,0,1,A,0,0,D
+FRA,03/10/1987,,FC Nantes,Toulouse FC,3,1,H,1,1,D
+FRA,03/10/1987,,OGC Nice,Chamois Niortais,1,0,H,1,0,H
+FRA,03/10/1987,,AS Saint-Étienne,Montpellier La Paillade SC,2,1,H,0,0,D
+FRA,03/10/1987,,FC Metz,Le Havre AC,1,0,H,1,0,H
+FRA,03/10/1987,,Lille OSC,AS Cannes,0,0,D,0,0,D
+FRA,03/10/1987,,Stade Laval,Olympique Marseille,0,2,A,0,1,A
+FRA,03/10/1987,,AJ Auxerre,RC Lens,2,0,H,1,0,H
+FRA,06/10/1987,,Montpellier La Paillade SC,FC Metz,1,0,H,0,0,D
+FRA,07/10/1987,,AS Monaco,AS Saint-Étienne,2,1,H,1,0,H
+FRA,07/10/1987,,Girondins Bordeaux,Lille OSC,1,0,H,0,0,D
+FRA,07/10/1987,,Paris Saint-Germain,FC Nantes,0,2,A,0,1,A
+FRA,07/10/1987,,Chamois Niortais,Matra Racing,2,2,D,2,2,D
+FRA,07/10/1987,,AS Cannes,Brest Armorique FC,2,1,H,1,1,D
+FRA,07/10/1987,,RC Lens,Olympique Marseille,2,4,A,1,3,A
+FRA,07/10/1987,,Le Havre AC,AJ Auxerre,1,2,A,0,2,A
+FRA,07/10/1987,,Toulouse FC,OGC Nice,2,0,H,1,0,H
+FRA,07/10/1987,,Sporting Toulon Var,Stade Laval,3,0,H,2,0,H
+FRA,17/10/1987,,Matra Racing,AS Monaco,1,0,H,0,0,D
+FRA,17/10/1987,,FC Nantes,Chamois Niortais,2,1,H,1,1,D
+FRA,17/10/1987,,Brest Armorique FC,Girondins Bordeaux,1,1,D,0,0,D
+FRA,17/10/1987,,Olympique Marseille,Le Havre AC,3,1,H,3,1,H
+FRA,17/10/1987,,AS Saint-Étienne,AS Cannes,1,0,H,0,0,D
+FRA,17/10/1987,,FC Metz,Toulouse FC,4,1,H,3,0,H
+FRA,17/10/1987,,AJ Auxerre,Montpellier La Paillade SC,1,1,D,0,0,D
+FRA,17/10/1987,,Lille OSC,Sporting Toulon Var,1,0,H,1,0,H
+FRA,17/10/1987,,OGC Nice,Paris Saint-Germain,2,0,H,0,0,D
+FRA,17/10/1987,,Stade Laval,RC Lens,4,0,H,4,0,H
+FRA,24/10/1987,,AS Monaco,FC Nantes,2,1,H,1,0,H
+FRA,24/10/1987,,Girondins Bordeaux,AS Saint-Étienne,1,0,H,1,0,H
+FRA,24/10/1987,,Paris Saint-Germain,FC Metz,0,2,A,0,1,A
+FRA,24/10/1987,,Chamois Niortais,Olympique Marseille,1,0,H,1,0,H
+FRA,24/10/1987,,AS Cannes,Matra Racing,3,1,H,1,0,H
+FRA,24/10/1987,,Montpellier La Paillade SC,OGC Nice,4,1,H,1,0,H
+FRA,24/10/1987,,Toulouse FC,AJ Auxerre,0,0,D,0,0,D
+FRA,24/10/1987,,Sporting Toulon Var,Brest Armorique FC,3,0,H,0,0,D
+FRA,24/10/1987,,Lille OSC,Stade Laval,0,0,D,0,0,D
+FRA,24/10/1987,,Le Havre AC,RC Lens,0,1,A,0,1,A
+FRA,31/10/1987,,OGC Nice,AS Monaco,0,0,D,0,0,D
+FRA,01/11/1987,,FC Nantes,AS Cannes,2,1,H,0,0,D
+FRA,01/11/1987,,Matra Racing,Girondins Bordeaux,1,0,H,0,0,D
+FRA,01/11/1987,,FC Metz,Chamois Niortais,2,0,H,0,0,D
+FRA,01/11/1987,,Olympique Marseille,Toulouse FC,1,0,H,0,0,D
+FRA,01/11/1987,,AJ Auxerre,Paris Saint-Germain,3,0,H,1,0,H
+FRA,01/11/1987,,AS Saint-Étienne,Sporting Toulon Var,0,0,D,0,0,D
+FRA,01/11/1987,,RC Lens,Montpellier La Paillade SC,2,1,H,1,1,D
+FRA,01/11/1987,,Brest Armorique FC,Lille OSC,2,2,D,1,1,D
+FRA,01/11/1987,,Stade Laval,Le Havre AC,4,3,H,2,1,H
+FRA,07/11/1987,,AS Monaco,FC Metz,2,1,H,1,0,H
+FRA,07/11/1987,,Girondins Bordeaux,FC Nantes,2,1,H,0,0,D
+FRA,07/11/1987,,Lille OSC,AS Saint-Étienne,1,2,A,1,1,D
+FRA,07/11/1987,,Montpellier La Paillade SC,Le Havre AC,3,1,H,0,0,D
+FRA,07/11/1987,,Chamois Niortais,AJ Auxerre,0,0,D,0,0,D
+FRA,07/11/1987,,AS Cannes,OGC Nice,0,1,A,0,0,D
+FRA,07/11/1987,,Toulouse FC,RC Lens,0,1,A,0,1,A
+FRA,08/11/1987,,Paris Saint-Germain,Olympique Marseille,1,1,D,1,1,D
+FRA,02/12/1987,,Brest Armorique FC,Stade Laval,2,1,H,1,0,H
+FRA,02/12/1987,,Sporting Toulon Var,Matra Racing,0,0,D,0,0,D
+FRA,10/11/1987,,Matra Racing,Lille OSC,3,0,H,0,0,D
+FRA,11/11/1987,,AJ Auxerre,AS Monaco,0,0,D,0,0,D
+FRA,11/11/1987,,OGC Nice,Girondins Bordeaux,0,1,A,0,0,D
+FRA,11/11/1987,,FC Nantes,Sporting Toulon Var,1,1,D,1,0,H
+FRA,11/11/1987,,AS Saint-Étienne,Brest Armorique FC,4,0,H,0,0,D
+FRA,11/11/1987,,Olympique Marseille,Montpellier La Paillade SC,1,1,D,0,0,D
+FRA,11/11/1987,,FC Metz,AS Cannes,2,3,A,1,2,A
+FRA,11/11/1987,,Stade Laval,Chamois Niortais,2,0,H,2,0,H
+FRA,11/11/1987,,Le Havre AC,Toulouse FC,0,1,A,0,1,A
+FRA,11/11/1987,,RC Lens,Paris Saint-Germain,0,0,D,0,0,D
+FRA,21/11/1987,,AS Monaco,RC Lens,3,0,H,3,0,H
+FRA,21/11/1987,,Girondins Bordeaux,AJ Auxerre,0,0,D,0,0,D
+FRA,21/11/1987,,AS Saint-Étienne,Matra Racing,0,2,A,0,1,A
+FRA,21/11/1987,,Brest Armorique FC,FC Nantes,0,0,D,0,0,D
+FRA,21/11/1987,,AS Cannes,Olympique Marseille,1,0,H,1,0,H
+FRA,21/11/1987,,Paris Saint-Germain,Montpellier La Paillade SC,2,1,H,1,1,D
+FRA,21/11/1987,,Sporting Toulon Var,FC Metz,1,0,H,0,0,D
+FRA,21/11/1987,,Chamois Niortais,Le Havre AC,1,2,A,0,1,A
+FRA,21/11/1987,,Stade Laval,Toulouse FC,1,0,H,0,0,D
+FRA,21/11/1987,,Lille OSC,OGC Nice,1,0,H,0,0,D
+FRA,27/11/1987,,Olympique Marseille,Girondins Bordeaux,1,0,H,0,0,D
+FRA,28/11/1987,,Le Havre AC,AS Monaco,0,0,D,0,0,D
+FRA,28/11/1987,,Matra Racing,Stade Laval,1,0,H,0,0,D
+FRA,28/11/1987,,FC Nantes,AS Saint-Étienne,2,3,A,2,2,D
+FRA,28/11/1987,,RC Lens,AS Cannes,0,0,D,0,0,D
+FRA,28/11/1987,,Montpellier La Paillade SC,Chamois Niortais,1,0,H,0,0,D
+FRA,28/11/1987,,FC Metz,Lille OSC,3,1,H,1,0,H
+FRA,28/11/1987,,AJ Auxerre,Sporting Toulon Var,0,0,D,0,0,D
+FRA,28/11/1987,,OGC Nice,Brest Armorique FC,2,0,H,0,0,D
+FRA,28/11/1987,,Toulouse FC,Paris Saint-Germain,2,1,H,1,0,H
+FRA,05/12/1987,,AS Monaco,Montpellier La Paillade SC,0,0,D,0,0,D
+FRA,05/12/1987,,Girondins Bordeaux,RC Lens,5,2,H,2,1,H
+FRA,05/12/1987,,Matra Racing,FC Nantes,2,2,D,2,1,H
+FRA,05/12/1987,,AS Saint-Étienne,OGC Nice,3,2,H,2,0,H
+FRA,05/12/1987,,Sporting Toulon Var,Olympique Marseille,1,2,A,1,0,H
+FRA,05/12/1987,,AS Cannes,Le Havre AC,3,0,H,1,0,H
+FRA,05/12/1987,,Lille OSC,AJ Auxerre,0,1,A,0,0,D
+FRA,05/12/1987,,Stade Laval,FC Metz,3,0,H,1,0,H
+FRA,05/12/1987,,Chamois Niortais,Toulouse FC,0,0,D,0,0,D
+FRA,05/12/1987,,Brest Armorique FC,Paris Saint-Germain,0,0,D,0,0,D
+FRA,12/12/1987,,Toulouse FC,AS Monaco,1,1,D,1,1,D
+FRA,12/12/1987,,Le Havre AC,Girondins Bordeaux,0,1,A,0,0,D
+FRA,12/12/1987,,OGC Nice,Matra Racing,1,2,A,0,1,A
+FRA,12/12/1987,,AJ Auxerre,Brest Armorique FC,4,0,H,2,0,H
+FRA,12/12/1987,,FC Metz,AS Saint-Étienne,2,1,H,1,1,D
+FRA,12/12/1987,,Montpellier La Paillade SC,AS Cannes,4,2,H,2,1,H
+FRA,12/12/1987,,Olympique Marseille,Lille OSC,0,1,A,0,1,A
+FRA,12/12/1987,,FC Nantes,Stade Laval,1,2,A,1,1,D
+FRA,12/12/1987,,Paris Saint-Germain,Chamois Niortais,1,3,A,0,0,D
+FRA,12/12/1987,,RC Lens,Sporting Toulon Var,3,1,H,1,0,H
+FRA,18/12/1987,,AS Monaco,Paris Saint-Germain,2,1,H,1,0,H
+FRA,19/12/1987,,Girondins Bordeaux,Montpellier La Paillade SC,1,0,H,0,0,D
+FRA,19/12/1987,,Matra Racing,FC Metz,2,0,H,1,0,H
+FRA,19/12/1987,,AS Saint-Étienne,Chamois Niortais,2,0,H,1,0,H
+FRA,19/12/1987,,Stade Laval,AJ Auxerre,0,0,D,0,0,D
+FRA,19/12/1987,,AS Cannes,Toulouse FC,1,1,D,0,0,D
+FRA,19/12/1987,,Brest Armorique FC,Olympique Marseille,2,1,H,1,1,D
+FRA,19/12/1987,,FC Nantes,OGC Nice,0,1,A,0,1,A
+FRA,19/12/1987,,Sporting Toulon Var,Le Havre AC,3,0,H,0,0,D
+FRA,19/12/1987,,Lille OSC,RC Lens,1,1,D,0,1,A
+FRA,19/02/1988,,Olympique Marseille,Matra Racing,2,0,H,0,0,D
+FRA,20/02/1988,,Chamois Niortais,AS Monaco,0,0,D,0,0,D
+FRA,20/02/1988,,Toulouse FC,Girondins Bordeaux,2,1,H,1,0,H
+FRA,20/02/1988,,AJ Auxerre,AS Saint-Étienne,0,1,A,0,0,D
+FRA,20/02/1988,,FC Metz,FC Nantes,1,0,H,0,0,D
+FRA,20/02/1988,,Montpellier La Paillade SC,Sporting Toulon Var,0,1,A,0,1,A
+FRA,20/02/1988,,OGC Nice,Stade Laval,0,1,A,0,0,D
+FRA,20/02/1988,,RC Lens,Brest Armorique FC,2,1,H,1,1,D
+FRA,20/02/1988,,Le Havre AC,Lille OSC,0,0,D,0,0,D
+FRA,23/02/1988,,Paris Saint-Germain,AS Cannes,1,1,D,1,0,H
+FRA,26/02/1988,,Stade Laval,AS Monaco,0,0,D,0,0,D
+FRA,27/02/1988,,Girondins Bordeaux,Paris Saint-Germain,0,0,D,0,0,D
+FRA,27/02/1988,,FC Nantes,AJ Auxerre,0,0,D,0,0,D
+FRA,27/02/1988,,OGC Nice,FC Metz,0,0,D,0,0,D
+FRA,27/02/1988,,Matra Racing,RC Lens,1,0,H,1,0,H
+FRA,27/02/1988,,AS Saint-Étienne,Olympique Marseille,0,1,A,0,1,A
+FRA,27/02/1988,,AS Cannes,Chamois Niortais,2,1,H,1,0,H
+FRA,27/02/1988,,Sporting Toulon Var,Toulouse FC,1,0,H,1,0,H
+FRA,27/02/1988,,Lille OSC,Montpellier La Paillade SC,3,1,H,2,1,H
+FRA,27/02/1988,,Brest Armorique FC,Le Havre AC,3,1,H,2,0,H
+FRA,04/03/1988,,RC Lens,AS Saint-Étienne,1,0,H,0,0,D
+FRA,05/03/1988,,AS Monaco,AS Cannes,4,1,H,2,1,H
+FRA,05/03/1988,,Le Havre AC,Matra Racing,1,1,D,1,1,D
+FRA,05/03/1988,,Chamois Niortais,Girondins Bordeaux,0,0,D,0,0,D
+FRA,05/03/1988,,Olympique Marseille,FC Nantes,3,0,H,1,0,H
+FRA,05/03/1988,,AJ Auxerre,OGC Nice,2,0,H,0,0,D
+FRA,05/03/1988,,FC Metz,Brest Armorique FC,1,1,D,1,0,H
+FRA,05/03/1988,,Paris Saint-Germain,Sporting Toulon Var,1,0,H,1,0,H
+FRA,05/03/1988,,Montpellier La Paillade SC,Stade Laval,2,1,H,1,0,H
+FRA,05/03/1988,,Toulouse FC,Lille OSC,2,1,H,0,0,D
+FRA,19/03/1988,,Girondins Bordeaux,AS Monaco,3,1,H,2,0,H
+FRA,19/03/1988,,Matra Racing,Montpellier La Paillade SC,0,2,A,0,0,D
+FRA,19/03/1988,,AS Saint-Étienne,Le Havre AC,2,1,H,1,1,D
+FRA,19/03/1988,,OGC Nice,Olympique Marseille,3,1,H,0,0,D
+FRA,19/03/1988,,FC Metz,AJ Auxerre,1,0,H,1,0,H
+FRA,19/03/1988,,Stade Laval,AS Cannes,2,1,H,1,0,H
+FRA,19/03/1988,,Sporting Toulon Var,Chamois Niortais,1,1,D,1,0,H
+FRA,19/03/1988,,FC Nantes,RC Lens,2,0,H,1,0,H
+FRA,19/03/1988,,Lille OSC,Paris Saint-Germain,1,0,H,1,0,H
+FRA,19/03/1988,,Brest Armorique FC,Toulouse FC,1,0,H,0,0,D
+FRA,26/03/1988,,AS Monaco,Sporting Toulon Var,0,0,D,0,0,D
+FRA,26/03/1988,,AS Cannes,Girondins Bordeaux,1,0,H,0,0,D
+FRA,26/03/1988,,AJ Auxerre,Matra Racing,3,0,H,2,0,H
+FRA,26/03/1988,,Toulouse FC,AS Saint-Étienne,2,3,A,1,1,D
+FRA,26/03/1988,,Olympique Marseille,FC Metz,1,0,H,1,0,H
+FRA,26/03/1988,,Montpellier La Paillade SC,Brest Armorique FC,6,0,H,3,0,H
+FRA,26/03/1988,,Paris Saint-Germain,Stade Laval,0,0,D,0,0,D
+FRA,26/03/1988,,Le Havre AC,FC Nantes,1,0,H,1,0,H
+FRA,26/03/1988,,Chamois Niortais,Lille OSC,1,0,H,0,0,D
+FRA,26/03/1988,,RC Lens,OGC Nice,0,1,A,0,0,D
+FRA,02/04/1988,,Lille OSC,AS Monaco,0,1,A,0,1,A
+FRA,02/04/1988,,Stade Laval,Girondins Bordeaux,0,0,D,0,0,D
+FRA,02/04/1988,,Matra Racing,Toulouse FC,0,0,D,0,0,D
+FRA,02/04/1988,,AJ Auxerre,Olympique Marseille,2,0,H,1,0,H
+FRA,02/04/1988,,AS Saint-Étienne,Paris Saint-Germain,1,3,A,0,2,A
+FRA,02/04/1988,,FC Nantes,Montpellier La Paillade SC,0,0,D,0,0,D
+FRA,02/04/1988,,Sporting Toulon Var,AS Cannes,1,0,H,0,0,D
+FRA,02/04/1988,,FC Metz,RC Lens,2,2,D,2,0,H
+FRA,02/04/1988,,Brest Armorique FC,Chamois Niortais,1,0,H,0,0,D
+FRA,02/04/1988,,OGC Nice,Le Havre AC,1,2,A,0,0,D
+FRA,08/04/1988,,Paris Saint-Germain,Matra Racing,1,1,D,0,0,D
+FRA,09/04/1988,,AS Monaco,Brest Armorique FC,2,0,H,0,0,D
+FRA,09/04/1988,,Girondins Bordeaux,Sporting Toulon Var,3,0,H,2,0,H
+FRA,09/04/1988,,Olympique Marseille,Stade Laval,2,1,H,1,0,H
+FRA,09/04/1988,,Montpellier La Paillade SC,AS Saint-Étienne,5,0,H,1,0,H
+FRA,09/04/1988,,RC Lens,AJ Auxerre,2,1,H,1,1,D
+FRA,09/04/1988,,Le Havre AC,FC Metz,1,1,D,0,1,A
+FRA,09/04/1988,,AS Cannes,Lille OSC,1,5,A,0,2,A
+FRA,09/04/1988,,Toulouse FC,FC Nantes,0,1,A,0,0,D
+FRA,09/04/1988,,Chamois Niortais,OGC Nice,0,0,D,0,0,D
+FRA,15/04/1988,,AS Saint-Étienne,AS Monaco,3,0,H,0,0,D
+FRA,16/04/1988,,Lille OSC,Girondins Bordeaux,1,0,H,1,0,H
+FRA,16/04/1988,,Matra Racing,Chamois Niortais,1,1,D,1,0,H
+FRA,16/04/1988,,Olympique Marseille,RC Lens,4,1,H,1,0,H
+FRA,16/04/1988,,FC Metz,Montpellier La Paillade SC,0,1,A,0,0,D
+FRA,16/04/1988,,AJ Auxerre,Le Havre AC,1,1,D,0,0,D
+FRA,16/04/1988,,Stade Laval,Sporting Toulon Var,0,3,A,0,0,D
+FRA,16/04/1988,,FC Nantes,Paris Saint-Germain,0,0,D,0,0,D
+FRA,16/04/1988,,Brest Armorique FC,AS Cannes,1,0,H,1,0,H
+FRA,16/04/1988,,OGC Nice,Toulouse FC,3,0,H,1,0,H
+FRA,30/04/1988,,AS Monaco,Matra Racing,3,0,H,0,0,D
+FRA,30/04/1988,,Girondins Bordeaux,Brest Armorique FC,2,0,H,1,0,H
+FRA,30/04/1988,,Toulouse FC,FC Metz,2,0,H,1,0,H
+FRA,30/04/1988,,Sporting Toulon Var,Lille OSC,3,0,H,1,0,H
+FRA,30/04/1988,,Montpellier La Paillade SC,AJ Auxerre,2,2,D,1,0,H
+FRA,30/04/1988,,Le Havre AC,Olympique Marseille,1,0,H,1,0,H
+FRA,30/04/1988,,AS Cannes,AS Saint-Étienne,1,0,H,1,0,H
+FRA,30/04/1988,,Chamois Niortais,FC Nantes,1,3,A,0,0,D
+FRA,30/04/1988,,RC Lens,Stade Laval,1,2,A,0,1,A
+FRA,30/04/1988,,Paris Saint-Germain,OGC Nice,0,4,A,0,2,A
+FRA,06/05/1988,,Olympique Marseille,Chamois Niortais,1,0,H,1,0,H
+FRA,07/05/1988,,Brest Armorique FC,Sporting Toulon Var,1,0,H,0,0,D
+FRA,07/05/1988,,FC Metz,Paris Saint-Germain,1,0,H,0,0,D
+FRA,07/05/1988,,AS Saint-Étienne,Girondins Bordeaux,1,1,D,0,0,D
+FRA,07/05/1988,,Matra Racing,AS Cannes,0,0,D,0,0,D
+FRA,07/05/1988,,RC Lens,Le Havre AC,0,0,D,0,0,D
+FRA,07/05/1988,,OGC Nice,Montpellier La Paillade SC,2,0,H,1,0,H
+FRA,07/05/1988,,AJ Auxerre,Toulouse FC,0,2,A,0,1,A
+FRA,07/05/1988,,Stade Laval,Lille OSC,0,1,A,0,0,D
+FRA,07/05/1988,,FC Nantes,AS Monaco,1,1,D,1,1,D
+FRA,13/05/1988,,AS Monaco,OGC Nice,1,0,H,0,0,D
+FRA,14/05/1988,,Girondins Bordeaux,Matra Racing,1,0,H,0,0,D
+FRA,14/05/1988,,Toulouse FC,Olympique Marseille,1,0,H,1,0,H
+FRA,14/05/1988,,Montpellier La Paillade SC,RC Lens,4,0,H,0,0,D
+FRA,14/05/1988,,Sporting Toulon Var,AS Saint-Étienne,1,1,D,0,0,D
+FRA,14/05/1988,,Paris Saint-Germain,AJ Auxerre,1,1,D,0,1,A
+FRA,14/05/1988,,AS Cannes,FC Nantes,1,4,A,1,2,A
+FRA,14/05/1988,,Chamois Niortais,FC Metz,1,3,A,1,1,D
+FRA,14/05/1988,,Lille OSC,Brest Armorique FC,2,0,H,0,0,D
+FRA,14/05/1988,,Le Havre AC,Stade Laval,2,1,H,1,1,D
+FRA,20/05/1988,,FC Nantes,Girondins Bordeaux,1,0,H,0,0,D
+FRA,21/05/1988,,FC Metz,AS Monaco,2,2,D,2,1,H
+FRA,21/05/1988,,Le Havre AC,Montpellier La Paillade SC,1,3,A,0,1,A
+FRA,21/05/1988,,AS Saint-Étienne,Lille OSC,4,3,H,2,2,D
+FRA,21/05/1988,,Matra Racing,Sporting Toulon Var,0,0,D,0,0,D
+FRA,21/05/1988,,Olympique Marseille,Paris Saint-Germain,1,2,A,1,1,D
+FRA,21/05/1988,,AJ Auxerre,Chamois Niortais,1,3,A,1,1,D
+FRA,21/05/1988,,OGC Nice,AS Cannes,1,2,A,0,2,A
+FRA,21/05/1988,,Stade Laval,Brest Armorique FC,0,0,D,0,0,D
+FRA,21/05/1988,,RC Lens,Toulouse FC,2,0,H,1,0,H
+FRA,27/05/1988,,AS Monaco,AJ Auxerre,3,2,H,3,2,H
+FRA,27/05/1988,,Girondins Bordeaux,OGC Nice,4,2,H,2,2,D
+FRA,27/05/1988,,Montpellier La Paillade SC,Olympique Marseille,4,0,H,1,0,H
+FRA,27/05/1988,,Brest Armorique FC,AS Saint-Étienne,1,0,H,1,0,H
+FRA,27/05/1988,,Lille OSC,Matra Racing,5,0,H,3,0,H
+FRA,27/05/1988,,Sporting Toulon Var,FC Nantes,5,2,H,2,1,H
+FRA,27/05/1988,,AS Cannes,FC Metz,3,3,D,1,1,D
+FRA,27/05/1988,,Toulouse FC,Le Havre AC,2,1,H,0,0,D
+FRA,27/05/1988,,Chamois Niortais,Stade Laval,0,0,D,0,0,D
+FRA,27/05/1988,,Paris Saint-Germain,RC Lens,4,1,H,3,0,H
+FRA,04/06/1988,,Olympique Marseille,AS Monaco,2,0,H,1,0,H
+FRA,04/06/1988,,FC Metz,Girondins Bordeaux,2,0,H,2,0,H
+FRA,04/06/1988,,Montpellier La Paillade SC,Toulouse FC,4,2,H,2,1,H
+FRA,04/06/1988,,AS Saint-Étienne,Stade Laval,2,1,H,2,0,H
+FRA,04/06/1988,,OGC Nice,Sporting Toulon Var,0,2,A,0,0,D
+FRA,04/06/1988,,Matra Racing,Brest Armorique FC,1,1,D,1,0,H
+FRA,04/06/1988,,AJ Auxerre,AS Cannes,1,0,H,0,0,D
+FRA,04/06/1988,,FC Nantes,Lille OSC,1,1,D,1,1,D
+FRA,04/06/1988,,Le Havre AC,Paris Saint-Germain,0,1,A,0,0,D
+FRA,04/06/1988,,RC Lens,Chamois Niortais,3,1,H,2,1,H

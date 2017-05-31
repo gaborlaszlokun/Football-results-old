@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHI,07/07/2012,00:00,La Serena,CSD Rangers,1,1,D,1,0,H
+CHI,07/07/2012,21:00,Unión Española,Audax Italiano,3,3,D,2,2,D
+CHI,07/07/2012,22:00,Universidad de Concepción,Unión La Calera,0,0,D,0,0,D
+CHI,07/07/2012,23:15,Santiago Wanderers,CD Huachipato,1,1,D,0,0,D
+CHI,08/07/2012,01:30,Unión San Felipe,CD Cobresal,0,0,D,0,0,D
+CHI,08/07/2012,21:00,Deportes Iquique,Colo-Colo,0,1,A,0,0,D
+CHI,08/07/2012,23:30,Universidad Católica,CD Palestino,0,1,A,0,1,A
+CHI,15/08/2012,17:00,Antofagasta,O'Higgins,2,3,A,0,2,A
+CHI,04/09/2012,20:00,CD Cobreloa,Universidad de Chile,0,1,A,0,0,D
+CHI,14/07/2012,01:00,Audax Italiano,Universidad de Concepción,2,2,D,1,0,H
+CHI,14/07/2012,03:00,Deportes Iquique,Antofagasta,2,1,H,2,1,H
+CHI,14/07/2012,21:00,CD Cobresal,Unión Española,2,1,H,1,1,D
+CHI,14/07/2012,21:00,Unión La Calera,CD Cobreloa,1,0,H,1,0,H
+CHI,14/07/2012,23:15,Universidad Católica,Santiago Wanderers,3,2,H,1,1,D
+CHI,15/07/2012,01:30,CD Huachipato,CD Palestino,1,1,D,0,1,A
+CHI,15/07/2012,21:00,O'Higgins,Colo-Colo,1,1,D,1,1,D
+CHI,15/07/2012,23:30,CSD Rangers,Unión San Felipe,1,0,H,0,0,D
+CHI,16/07/2012,21:00,Universidad de Chile,La Serena,5,2,H,2,1,H
+CHI,21/07/2012,01:00,Universidad de Concepción,Antofagasta,0,2,A,0,2,A
+CHI,21/07/2012,17:30,O'Higgins,Unión Española,1,3,A,1,1,D
+CHI,21/07/2012,20:30,CD Palestino,Unión La Calera,1,0,H,0,0,D
+CHI,21/07/2012,21:00,Deportes Iquique,Universidad de Chile,0,0,D,0,0,D
+CHI,21/07/2012,21:00,CD Cobreloa,Audax Italiano,1,2,A,1,2,A
+CHI,21/07/2012,23:15,Santiago Wanderers,CSD Rangers,2,2,D,1,0,H
+CHI,22/07/2012,01:30,La Serena,CD Huachipato,2,1,H,1,0,H
+CHI,22/07/2012,19:15,Colo-Colo,CD Cobresal,1,2,A,1,1,D
+CHI,22/07/2012,21:30,Unión San Felipe,Universidad Católica,0,1,A,0,1,A
+CHI,28/07/2012,01:00,CSD Rangers,Deportes Iquique,5,0,H,2,0,H
+CHI,28/07/2012,17:30,Antofagasta,Universidad Católica,2,2,D,0,1,A
+CHI,28/07/2012,21:00,CD Cobresal,Universidad de Concepción,1,1,D,1,0,H
+CHI,28/07/2012,21:00,Unión Española,Unión San Felipe,3,1,H,1,0,H
+CHI,28/07/2012,23:15,Audax Italiano,Santiago Wanderers,4,1,H,1,0,H
+CHI,28/07/2012,23:15,CD Huachipato,CD Cobreloa,0,1,A,0,1,A
+CHI,29/07/2012,21:00,Unión La Calera,Colo-Colo,1,1,D,0,1,A
+CHI,29/07/2012,23:30,O'Higgins,La Serena,2,1,H,0,0,D
+CHI,09/08/2012,00:30,Universidad de Chile,CD Palestino,3,2,H,2,0,H
+CHI,04/08/2012,01:00,Unión San Felipe,Antofagasta,2,1,H,2,0,H
+CHI,04/08/2012,20:30,CD Palestino,Audax Italiano,0,0,D,0,0,D
+CHI,04/08/2012,21:00,CD Cobreloa,CSD Rangers,0,1,A,0,1,A
+CHI,04/08/2012,22:45,Santiago Wanderers,La Serena,1,1,D,0,1,A
+CHI,05/08/2012,01:00,CD Huachipato,Deportes Iquique,4,1,H,3,1,H
+CHI,05/08/2012,21:00,Unión La Calera,CD Cobresal,1,1,D,0,0,D
+CHI,05/08/2012,21:00,Universidad de Concepción,Colo-Colo,1,1,D,1,1,D
+CHI,05/08/2012,23:30,Universidad Católica,Unión Española,3,0,H,NaN,NaN,NaN
+CHI,30/08/2012,01:00,Universidad de Chile,O'Higgins,1,1,D,1,1,D
+CHI,11/08/2012,01:00,Audax Italiano,Deportes Iquique,0,1,A,0,1,A
+CHI,11/08/2012,17:30,Unión Española,CD Palestino,1,0,H,1,0,H
+CHI,11/08/2012,20:30,CD Cobresal,Universidad de Chile,1,2,A,1,0,H
+CHI,11/08/2012,23:15,CD Huachipato,Unión San Felipe,1,0,H,0,0,D
+CHI,12/08/2012,01:30,La Serena,CD Cobreloa,0,0,D,0,0,D
+CHI,12/08/2012,17:00,Antofagasta,Unión La Calera,2,1,H,1,0,H
+CHI,12/08/2012,17:00,CSD Rangers,Universidad Católica,1,0,H,1,0,H
+CHI,12/08/2012,20:30,O'Higgins,Universidad de Concepción,4,1,H,2,0,H
+CHI,12/08/2012,23:00,Colo-Colo,Santiago Wanderers,1,1,D,0,1,A
+CHI,18/08/2012,01:00,CD Huachipato,Unión Española,2,0,H,2,0,H
+CHI,18/08/2012,17:30,CD Palestino,CSD Rangers,4,1,H,2,0,H
+CHI,18/08/2012,21:00,Universidad de Chile,Audax Italiano,2,1,H,1,0,H
+CHI,18/08/2012,23:15,Unión La Calera,Unión San Felipe,1,3,A,0,2,A
+CHI,19/08/2012,01:30,Santiago Wanderers,Antofagasta,0,1,A,0,0,D
+CHI,19/08/2012,21:00,Deportes Iquique,CD Cobresal,3,2,H,0,2,A
+CHI,19/08/2012,21:00,CD Cobreloa,Universidad de Concepción,3,1,H,2,0,H
+CHI,19/08/2012,21:00,La Serena,Colo-Colo,1,1,D,1,0,H
+CHI,19/08/2012,23:30,Universidad Católica,O'Higgins,1,0,H,1,0,H
+CHI,25/08/2012,01:00,Universidad de Concepción,La Serena,3,1,H,1,1,D
+CHI,25/08/2012,17:30,Unión Española,Universidad de Chile,5,2,H,2,2,D
+CHI,25/08/2012,21:00,Colo-Colo,CD Cobreloa,3,1,H,2,1,H
+CHI,25/08/2012,21:00,CD Cobresal,CD Palestino,0,1,A,0,1,A
+CHI,25/08/2012,23:15,O'Higgins,Deportes Iquique,0,1,A,0,0,D
+CHI,26/08/2012,01:30,Unión San Felipe,Santiago Wanderers,1,0,H,0,0,D
+CHI,26/08/2012,17:00,Antofagasta,CD Huachipato,3,0,H,2,0,H
+CHI,26/08/2012,21:00,CSD Rangers,Audax Italiano,1,0,H,0,0,D
+CHI,26/08/2012,23:30,Universidad Católica,Unión La Calera,1,1,D,0,0,D
+CHI,01/09/2012,01:00,Audax Italiano,CD Cobresal,1,1,D,0,0,D
+CHI,01/09/2012,17:30,Santiago Wanderers,Universidad de Concepción,3,1,H,1,1,D
+CHI,01/09/2012,21:00,Deportes Iquique,Universidad Católica,3,2,H,1,1,D
+CHI,01/09/2012,21:00,CD Cobreloa,Antofagasta,3,1,H,2,1,H
+CHI,01/09/2012,23:15,Universidad de Chile,Unión San Felipe,2,0,H,1,0,H
+CHI,01/09/2012,23:15,CD Huachipato,CSD Rangers,1,2,A,1,2,A
+CHI,02/09/2012,01:30,La Serena,Unión Española,2,1,H,1,0,H
+CHI,02/09/2012,20:00,Unión La Calera,O'Higgins,0,0,D,0,0,D
+CHI,02/09/2012,22:30,CD Palestino,Colo-Colo,0,3,A,0,2,A
+CHI,15/09/2012,00:00,Universidad Católica,Audax Italiano,1,0,H,0,0,D
+CHI,15/09/2012,16:30,CSD Rangers,Universidad de Chile,2,2,D,1,1,D
+CHI,15/09/2012,20:00,CD Cobresal,Santiago Wanderers,2,1,H,1,1,D
+CHI,15/09/2012,20:00,Universidad de Concepción,Deportes Iquique,0,1,A,0,1,A
+CHI,15/09/2012,22:15,O'Higgins,CD Cobreloa,1,0,H,1,0,H
+CHI,16/09/2012,00:30,Unión San Felipe,La Serena,3,0,H,2,0,H
+CHI,16/09/2012,16:00,Antofagasta,CD Palestino,0,1,A,0,0,D
+CHI,16/09/2012,20:00,Colo-Colo,CD Huachipato,3,0,H,1,0,H
+CHI,16/09/2012,22:30,Unión Española,Unión La Calera,0,0,D,0,0,D
+CHI,22/09/2012,00:00,La Serena,Deportes Iquique,2,3,A,2,1,H
+CHI,22/09/2012,16:30,CD Palestino,Universidad de Concepción,1,0,H,0,0,D
+CHI,22/09/2012,20:00,Santiago Wanderers,Universidad de Chile,2,2,D,1,0,H
+CHI,22/09/2012,22:15,Audax Italiano,Antofagasta,1,2,A,1,2,A
+CHI,22/09/2012,22:15,CD Huachipato,CD Cobresal,1,1,D,0,0,D
+CHI,23/09/2012,00:30,Unión San Felipe,O'Higgins,1,1,D,0,1,A
+CHI,23/09/2012,20:00,CD Cobreloa,Universidad Católica,4,3,H,1,1,D
+CHI,23/09/2012,20:00,Unión La Calera,CSD Rangers,2,2,D,0,0,D
+CHI,23/09/2012,22:30,Colo-Colo,Unión Española,3,0,H,2,0,H
+CHI,29/09/2012,00:00,O'Higgins,CD Huachipato,2,4,A,2,3,A
+CHI,29/09/2012,16:30,Universidad de Chile,Unión La Calera,0,0,D,0,0,D
+CHI,29/09/2012,20:00,CD Cobresal,Antofagasta,3,1,H,2,0,H
+CHI,29/09/2012,20:00,Universidad de Concepción,Unión San Felipe,1,1,D,0,1,A
+CHI,29/09/2012,22:15,CSD Rangers,Unión Española,1,0,H,1,0,H
+CHI,30/09/2012,00:30,Audax Italiano,La Serena,3,2,H,3,2,H
+CHI,30/09/2012,16:00,Universidad Católica,Colo-Colo,0,2,A,0,0,D
+CHI,30/09/2012,20:00,Deportes Iquique,CD Cobreloa,1,1,D,0,0,D
+CHI,30/09/2012,22:30,Santiago Wanderers,CD Palestino,2,3,A,2,2,D
+CHI,06/10/2012,00:00,Unión Española,Santiago Wanderers,2,2,D,0,0,D
+CHI,06/10/2012,16:30,CD Palestino,O'Higgins,2,1,H,0,1,A
+CHI,06/10/2012,20:00,CD Huachipato,Universidad de Concepción,2,0,H,1,0,H
+CHI,06/10/2012,22:15,La Serena,Universidad Católica,1,3,A,1,1,D
+CHI,07/10/2012,19:00,Antofagasta,Universidad de Chile,2,4,A,1,2,A
+CHI,07/10/2012,20:00,CD Cobreloa,CD Cobresal,3,0,H,2,0,H
+CHI,07/10/2012,20:00,Unión La Calera,Deportes Iquique,1,1,D,1,0,H
+CHI,07/10/2012,21:30,Colo-Colo,CSD Rangers,2,2,D,1,1,D
+CHI,09/10/2012,00:00,Unión San Felipe,Audax Italiano,1,3,A,1,0,H
+CHI,20/10/2012,16:30,Universidad de Concepción,Unión Española,2,1,H,0,0,D
+CHI,20/10/2012,20:00,Deportes Iquique,CD Palestino,2,1,H,1,1,D
+CHI,20/10/2012,22:15,Universidad Católica,CD Huachipato,0,2,A,0,1,A
+CHI,21/10/2012,00:30,O'Higgins,Santiago Wanderers,1,1,D,1,0,H
+CHI,21/10/2012,16:00,Antofagasta,La Serena,2,1,H,1,1,D
+CHI,21/10/2012,16:00,CSD Rangers,CD Cobresal,2,0,H,1,0,H
+CHI,21/10/2012,20:00,Colo-Colo,Universidad de Chile,1,0,H,0,0,D
+CHI,21/10/2012,20:00,CD Cobreloa,Unión San Felipe,2,1,H,2,1,H
+CHI,21/10/2012,22:30,Audax Italiano,Unión La Calera,2,1,H,2,0,H
+CHI,25/10/2012,00:00,Santiago Wanderers,Deportes Iquique,2,1,H,2,1,H
+CHI,26/10/2012,22:00,Unión San Felipe,Colo-Colo,2,1,H,1,1,D
+CHI,27/10/2012,00:00,CD Huachipato,Audax Italiano,1,1,D,1,1,D
+CHI,27/10/2012,16:00,CSD Rangers,O'Higgins,1,2,A,0,1,A
+CHI,27/10/2012,16:30,CD Palestino,CD Cobreloa,2,1,H,2,0,H
+CHI,27/10/2012,20:00,CD Cobresal,Universidad Católica,2,2,D,1,1,D
+CHI,27/10/2012,22:15,La Serena,Unión La Calera,0,1,A,0,0,D
+CHI,27/10/2012,22:15,Unión Española,Antofagasta,2,1,H,0,0,D
+CHI,14/11/2012,23:00,Universidad de Chile,Universidad de Concepción,3,1,H,2,0,H
+CHI,02/11/2012,23:00,Universidad de Concepción,CSD Rangers,1,0,H,1,0,H
+CHI,03/11/2012,15:30,Antofagasta,Colo-Colo,1,2,A,1,1,D
+CHI,03/11/2012,19:00,CD Cobresal,La Serena,2,2,D,0,1,A
+CHI,03/11/2012,19:00,CD Palestino,Unión San Felipe,1,2,A,0,0,D
+CHI,03/11/2012,21:15,Deportes Iquique,Unión Española,2,4,A,2,3,A
+CHI,03/11/2012,23:30,Audax Italiano,O'Higgins,5,1,H,2,0,H
+CHI,04/11/2012,19:00,Universidad de Chile,Universidad Católica,0,0,D,0,0,D
+CHI,04/11/2012,19:00,CD Cobreloa,Santiago Wanderers,2,4,A,0,1,A
+CHI,04/11/2012,21:30,Unión La Calera,CD Huachipato,0,2,A,0,0,D
+CHI,10/11/2012,15:00,CD Huachipato,Universidad de Chile,0,3,A,0,3,A
+CHI,10/11/2012,21:00,Colo-Colo,Audax Italiano,5,1,H,4,0,H
+CHI,10/11/2012,21:00,La Serena,CD Palestino,1,1,D,0,0,D
+CHI,11/11/2012,15:00,Universidad Católica,Universidad de Concepción,2,2,D,0,1,A
+CHI,11/11/2012,21:30,Unión Española,CD Cobreloa,2,1,H,0,0,D
+CHI,14/11/2012,23:00,Unión San Felipe,Deportes Iquique,1,2,A,1,1,D
+CHI,14/11/2012,23:00,Santiago Wanderers,Unión La Calera,2,0,H,2,0,H
+CHI,14/11/2012,23:00,O'Higgins,CD Cobresal,1,2,A,0,1,A
+CHI,14/11/2012,23:00,CSD Rangers,Antofagasta,2,2,D,2,2,D

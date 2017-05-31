@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CZE,24/07/2002,15:30,Sparta Praha,FK Teplice,1,0,H,NaN,NaN,NaN
+CZE,27/07/2002,13:25,Sigma Olomouc,Slovan Liberec,0,0,D,NaN,NaN,NaN
+CZE,28/07/2002,15:30,FC Bohemians Praha,České Budějovice,2,3,A,NaN,NaN,NaN
+CZE,28/07/2002,15:30,Chmel Blsany,Viktoria Žižkov,1,1,D,NaN,NaN,NaN
+CZE,28/07/2002,15:30,FK Marila Pribram,1. FC Brno,0,0,D,NaN,NaN,NaN
+CZE,28/07/2002,15:30,Tescoma Zlín,Baník Ostrava,1,1,D,NaN,NaN,NaN
+CZE,29/07/2002,15:00,FC Hradec Králové,Slavia Praha,1,1,D,NaN,NaN,NaN
+CZE,31/07/2002,13:30,FK Jablonec,1. FC Synot Stare Mesto,2,1,H,NaN,NaN,NaN
+CZE,03/08/2002,13:25,České Budějovice,Sparta Praha,1,3,A,NaN,NaN,NaN
+CZE,04/08/2002,09:15,Viktoria Žižkov,Tescoma Zlín,1,0,H,NaN,NaN,NaN
+CZE,04/08/2002,15:30,Baník Ostrava,FK Teplice,5,1,H,NaN,NaN,NaN
+CZE,04/08/2002,15:30,1. FC Brno,Slovan Liberec,0,1,A,NaN,NaN,NaN
+CZE,04/08/2002,15:30,Chmel Blsany,FC Hradec Králové,1,0,H,NaN,NaN,NaN
+CZE,04/08/2002,15:30,FK Jablonec,FK Marila Pribram,1,0,H,NaN,NaN,NaN
+CZE,04/08/2002,15:30,1. FC Synot Stare Mesto,Sigma Olomouc,1,1,D,NaN,NaN,NaN
+CZE,05/08/2002,15:00,Slavia Praha,FC Bohemians Praha,4,1,H,NaN,NaN,NaN
+CZE,10/08/2002,13:25,Sparta Praha,Baník Ostrava,3,0,H,NaN,NaN,NaN
+CZE,10/08/2002,16:00,Slovan Liberec,1. FC Synot Stare Mesto,2,0,H,NaN,NaN,NaN
+CZE,11/08/2002,15:30,FC Bohemians Praha,1. FC Brno,2,3,A,NaN,NaN,NaN
+CZE,11/08/2002,15:30,FC Hradec Králové,Viktoria Žižkov,2,3,A,NaN,NaN,NaN
+CZE,11/08/2002,15:30,Sigma Olomouc,Chmel Blsany,1,0,H,NaN,NaN,NaN
+CZE,11/08/2002,15:30,FK Teplice,České Budějovice,2,1,H,NaN,NaN,NaN
+CZE,11/08/2002,15:30,Tescoma Zlín,FK Jablonec,1,1,D,NaN,NaN,NaN
+CZE,28/08/2002,17:00,FK Marila Pribram,Slavia Praha,2,1,H,NaN,NaN,NaN
+CZE,23/11/2002,13:25,Slovan Liberec,Sparta Praha,1,2,A,NaN,NaN,NaN
+CZE,24/11/2002,09:15,Viktoria Žižkov,FC Bohemians Praha,3,2,H,NaN,NaN,NaN
+CZE,24/11/2002,12:30,Baník Ostrava,Sigma Olomouc,2,1,H,NaN,NaN,NaN
+CZE,24/11/2002,12:30,Chmel Blsany,Tescoma Zlín,2,1,H,NaN,NaN,NaN
+CZE,24/11/2002,12:30,1. FC Synot Stare Mesto,FK Teplice,1,1,D,NaN,NaN,NaN
+CZE,24/11/2002,15:30,1. FC Brno,České Budějovice,0,0,D,NaN,NaN,NaN
+CZE,24/11/2002,15:30,FC Hradec Králové,FK Marila Pribram,2,2,D,NaN,NaN,NaN
+CZE,25/11/2002,15:00,Slavia Praha,FK Jablonec,1,1,D,NaN,NaN,NaN
+CZE,23/08/2002,16:00,Sparta Praha,1. FC Synot Stare Mesto,3,0,H,NaN,NaN,NaN
+CZE,24/08/2002,13:20,FK Teplice,Slavia Praha,1,3,A,NaN,NaN,NaN
+CZE,24/08/2002,16:00,FC Bohemians Praha,Slovan Liberec,0,1,A,NaN,NaN,NaN
+CZE,25/08/2002,15:30,FK Jablonec,Viktoria Žižkov,2,1,H,NaN,NaN,NaN
+CZE,25/08/2002,15:30,FK Marila Pribram,Chmel Blsany,1,2,A,NaN,NaN,NaN
+CZE,25/08/2002,15:30,Sigma Olomouc,1. FC Brno,1,2,A,NaN,NaN,NaN
+CZE,25/08/2002,15:30,Tescoma Zlín,FC Hradec Králové,1,1,D,NaN,NaN,NaN
+CZE,26/08/2002,15:00,České Budějovice,Baník Ostrava,2,1,H,NaN,NaN,NaN
+CZE,31/08/2002,13:25,1. FC Brno,Sparta Praha,1,2,A,NaN,NaN,NaN
+CZE,01/09/2002,09:15,Viktoria Žižkov,Sigma Olomouc,2,2,D,NaN,NaN,NaN
+CZE,01/09/2002,15:30,Baník Ostrava,FK Marila Pribram,1,0,H,NaN,NaN,NaN
+CZE,01/09/2002,15:30,Chmel Blsany,FK Jablonec,0,0,D,NaN,NaN,NaN
+CZE,01/09/2002,15:30,Slavia Praha,Tescoma Zlín,5,1,H,NaN,NaN,NaN
+CZE,01/09/2002,15:30,1. FC Synot Stare Mesto,České Budějovice,2,0,H,NaN,NaN,NaN
+CZE,01/09/2002,18:00,FC Hradec Králové,FC Bohemians Praha,1,1,D,NaN,NaN,NaN
+CZE,02/09/2002,15:00,Slovan Liberec,FK Teplice,2,1,H,NaN,NaN,NaN
+CZE,14/09/2002,13:25,České Budějovice,Slavia Praha,1,3,A,NaN,NaN,NaN
+CZE,14/09/2002,15:30,FK Teplice,Viktoria Žižkov,2,1,H,NaN,NaN,NaN
+CZE,14/09/2002,16:30,Sparta Praha,Chmel Blsany,1,1,D,NaN,NaN,NaN
+CZE,15/09/2002,15:30,FC Bohemians Praha,Baník Ostrava,2,1,H,NaN,NaN,NaN
+CZE,15/09/2002,15:30,FK Marila Pribram,Tescoma Zlín,2,1,H,NaN,NaN,NaN
+CZE,15/09/2002,15:30,Sigma Olomouc,FC Hradec Králové,1,1,D,NaN,NaN,NaN
+CZE,15/09/2002,15:30,1. FC Synot Stare Mesto,1. FC Brno,3,2,H,NaN,NaN,NaN
+CZE,16/09/2002,15:00,FK Jablonec,Slovan Liberec,3,3,D,NaN,NaN,NaN
+CZE,22/09/2002,09:15,Viktoria Žižkov,FK Marila Pribram,0,0,D,NaN,NaN,NaN
+CZE,22/09/2002,15:30,Baník Ostrava,1. FC Synot Stare Mesto,1,0,H,NaN,NaN,NaN
+CZE,22/09/2002,15:30,1. FC Brno,FK Teplice,1,2,A,NaN,NaN,NaN
+CZE,22/09/2002,15:30,Chmel Blsany,FC Bohemians Praha,1,3,A,NaN,NaN,NaN
+CZE,22/09/2002,15:30,FC Hradec Králové,FK Jablonec,0,0,D,NaN,NaN,NaN
+CZE,22/09/2002,15:30,Tescoma Zlín,Sigma Olomouc,2,1,H,NaN,NaN,NaN
+CZE,23/09/2002,16:00,Slavia Praha,Sparta Praha,0,0,D,NaN,NaN,NaN
+CZE,23/09/2002,18:00,Slovan Liberec,České Budějovice,5,1,H,NaN,NaN,NaN
+CZE,28/09/2002,13:25,Sparta Praha,FK Marila Pribram,0,0,D,NaN,NaN,NaN
+CZE,29/09/2002,15:30,České Budějovice,Viktoria Žižkov,0,1,A,NaN,NaN,NaN
+CZE,29/09/2002,15:30,FC Bohemians Praha,Tescoma Zlín,1,1,D,NaN,NaN,NaN
+CZE,29/09/2002,15:30,1. FC Brno,Chmel Blsany,1,0,H,NaN,NaN,NaN
+CZE,29/09/2002,15:30,Slovan Liberec,Baník Ostrava,0,2,A,NaN,NaN,NaN
+CZE,29/09/2002,15:30,1. FC Synot Stare Mesto,Slavia Praha,0,0,D,NaN,NaN,NaN
+CZE,29/09/2002,15:30,FK Teplice,FC Hradec Králové,2,0,H,NaN,NaN,NaN
+CZE,30/09/2002,15:30,Sigma Olomouc,FK Jablonec,3,0,H,NaN,NaN,NaN
+CZE,06/10/2002,15:00,Baník Ostrava,1. FC Brno,2,1,H,NaN,NaN,NaN
+CZE,06/10/2002,15:00,Chmel Blsany,České Budějovice,2,0,H,NaN,NaN,NaN
+CZE,06/10/2002,15:00,FK Jablonec,FC Bohemians Praha,3,1,H,NaN,NaN,NaN
+CZE,06/10/2002,15:00,Tescoma Zlín,FK Teplice,1,0,H,NaN,NaN,NaN
+CZE,06/10/2002,15:30,FK Marila Pribram,Sigma Olomouc,1,0,H,NaN,NaN,NaN
+CZE,07/10/2002,13:30,Viktoria Žižkov,1. FC Synot Stare Mesto,2,0,H,NaN,NaN,NaN
+CZE,07/10/2002,16:00,Slavia Praha,Slovan Liberec,1,0,H,NaN,NaN,NaN
+CZE,07/10/2002,18:00,FC Hradec Králové,Sparta Praha,0,2,A,NaN,NaN,NaN
+CZE,19/10/2002,13:25,Sparta Praha,Viktoria Žižkov,2,0,H,NaN,NaN,NaN
+CZE,20/10/2002,14:30,České Budějovice,FK Jablonec,4,1,H,NaN,NaN,NaN
+CZE,20/10/2002,14:30,1. FC Synot Stare Mesto,Tescoma Zlín,3,1,H,NaN,NaN,NaN
+CZE,20/10/2002,15:30,FC Bohemians Praha,Sigma Olomouc,0,0,D,NaN,NaN,NaN
+CZE,20/10/2002,15:30,1. FC Brno,FC Hradec Králové,0,0,D,NaN,NaN,NaN
+CZE,20/10/2002,15:30,Slovan Liberec,Chmel Blsany,3,1,H,NaN,NaN,NaN
+CZE,20/10/2002,15:30,FK Teplice,FK Marila Pribram,2,0,H,NaN,NaN,NaN
+CZE,21/10/2002,15:00,Baník Ostrava,Slavia Praha,1,1,D,NaN,NaN,NaN
+CZE,26/10/2002,09:15,Viktoria Žižkov,Slovan Liberec,4,0,H,NaN,NaN,NaN
+CZE,26/10/2002,13:25,FK Jablonec,Sparta Praha,0,2,A,NaN,NaN,NaN
+CZE,27/10/2002,13:30,Chmel Blsany,Baník Ostrava,1,0,H,NaN,NaN,NaN
+CZE,27/10/2002,13:30,Tescoma Zlín,České Budějovice,1,2,A,NaN,NaN,NaN
+CZE,27/10/2002,15:30,FC Hradec Králové,1. FC Synot Stare Mesto,1,1,D,NaN,NaN,NaN
+CZE,27/10/2002,15:30,Sigma Olomouc,FK Teplice,0,1,A,NaN,NaN,NaN
+CZE,27/10/2002,15:30,Slavia Praha,1. FC Brno,2,0,H,NaN,NaN,NaN
+CZE,28/10/2002,15:00,FK Marila Pribram,FC Bohemians Praha,4,1,H,NaN,NaN,NaN
+CZE,02/11/2002,13:25,1. FC Brno,Viktoria Žižkov,4,1,H,NaN,NaN,NaN
+CZE,03/11/2002,13:00,Baník Ostrava,FC Hradec Králové,4,0,H,NaN,NaN,NaN
+CZE,03/11/2002,13:00,1. FC Synot Stare Mesto,FK Marila Pribram,1,0,H,NaN,NaN,NaN
+CZE,03/11/2002,15:30,České Budějovice,Sigma Olomouc,3,1,H,NaN,NaN,NaN
+CZE,03/11/2002,15:30,FK Teplice,FK Jablonec,3,0,H,NaN,NaN,NaN
+CZE,04/11/2002,15:00,Sparta Praha,FC Bohemians Praha,3,0,H,NaN,NaN,NaN
+CZE,04/11/2002,18:00,Slavia Praha,Chmel Blsany,2,0,H,NaN,NaN,NaN
+CZE,04/11/2002,18:00,Slovan Liberec,Tescoma Zlín,2,0,H,NaN,NaN,NaN
+CZE,09/11/2002,,Sigma Olomouc,Sparta Praha,0,2,A,NaN,NaN,NaN
+CZE,10/11/2002,,Chmel Blsany,1. FC Synot Stare Mesto,1,2,A,NaN,NaN,NaN
+CZE,10/11/2002,,FC Hradec Králové,Slovan Liberec,3,2,H,NaN,NaN,NaN
+CZE,10/11/2002,,FK Marila Pribram,České Budějovice,2,0,H,NaN,NaN,NaN
+CZE,10/11/2002,,Tescoma Zlín,1. FC Brno,2,1,H,NaN,NaN,NaN
+CZE,10/11/2002,,Viktoria Žižkov,Slavia Praha,0,4,A,NaN,NaN,NaN
+CZE,11/11/2002,,FC Bohemians Praha,FK Teplice,2,3,A,NaN,NaN,NaN
+CZE,28/11/2002,,FK Jablonec,Baník Ostrava,2,2,D,NaN,NaN,NaN
+CZE,16/11/2002,13:25,FK Teplice,Chmel Blsany,1,0,H,NaN,NaN,NaN
+CZE,17/11/2002,12:30,Baník Ostrava,Viktoria Žižkov,0,1,A,NaN,NaN,NaN
+CZE,17/11/2002,12:30,1. FC Synot Stare Mesto,FC Bohemians Praha,3,1,H,NaN,NaN,NaN
+CZE,17/11/2002,14:30,České Budějovice,FC Hradec Králové,2,1,H,NaN,NaN,NaN
+CZE,17/11/2002,14:30,Slovan Liberec,FK Marila Pribram,2,0,H,NaN,NaN,NaN
+CZE,17/11/2002,15:30,Slavia Praha,Sigma Olomouc,1,0,H,NaN,NaN,NaN
+CZE,17/11/2002,18:00,Sparta Praha,Tescoma Zlín,0,1,A,NaN,NaN,NaN
+CZE,18/11/2002,15:00,1. FC Brno,FK Jablonec,1,0,H,NaN,NaN,NaN
+CZE,15/02/2003,13:25,FK Teplice,Sparta Praha,1,0,H,NaN,NaN,NaN
+CZE,16/02/2003,09:15,Viktoria Žižkov,Chmel Blsany,1,0,H,NaN,NaN,NaN
+CZE,16/02/2003,13:00,České Budějovice,FC Bohemians Praha,3,3,D,NaN,NaN,NaN
+CZE,16/02/2003,13:00,Baník Ostrava,Tescoma Zlín,2,2,D,NaN,NaN,NaN
+CZE,16/02/2003,13:00,1. FC Synot Stare Mesto,FK Jablonec,1,0,H,NaN,NaN,NaN
+CZE,16/02/2003,15:30,1. FC Brno,FK Marila Pribram,1,1,D,NaN,NaN,NaN
+CZE,16/02/2003,15:30,Slavia Praha,FC Hradec Králové,4,0,H,NaN,NaN,NaN
+CZE,16/02/2003,15:30,Slovan Liberec,Sigma Olomouc,2,1,H,NaN,NaN,NaN
+CZE,22/02/2003,13:25,Slovan Liberec,1. FC Brno,1,0,H,NaN,NaN,NaN
+CZE,23/02/2003,13:00,FK Marila Pribram,FK Jablonec,1,1,D,NaN,NaN,NaN
+CZE,23/02/2003,13:00,Tescoma Zlín,Viktoria Žižkov,0,2,A,NaN,NaN,NaN
+CZE,23/02/2003,13:30,FC Bohemians Praha,Slavia Praha,1,1,D,NaN,NaN,NaN
+CZE,23/02/2003,15:30,FC Hradec Králové,Chmel Blsany,1,3,A,NaN,NaN,NaN
+CZE,23/02/2003,15:30,FK Teplice,Baník Ostrava,0,1,A,NaN,NaN,NaN
+CZE,24/02/2003,15:40,Sparta Praha,České Budějovice,1,0,H,NaN,NaN,NaN
+CZE,19/03/2003,16:00,Sigma Olomouc,1. FC Synot Stare Mesto,2,1,H,NaN,NaN,NaN
+CZE,01/03/2003,13:25,Baník Ostrava,Sparta Praha,3,2,H,NaN,NaN,NaN
+CZE,02/03/2003,09:15,Viktoria Žižkov,FC Hradec Králové,1,1,D,NaN,NaN,NaN
+CZE,02/03/2003,13:30,Chmel Blsany,Sigma Olomouc,1,2,A,NaN,NaN,NaN
+CZE,02/03/2003,13:30,FK Jablonec,Tescoma Zlín,2,2,D,NaN,NaN,NaN
+CZE,02/03/2003,14:30,České Budějovice,FK Teplice,0,0,D,NaN,NaN,NaN
+CZE,02/03/2003,15:30,1. FC Brno,FC Bohemians Praha,1,1,D,NaN,NaN,NaN
+CZE,02/03/2003,16:00,1. FC Synot Stare Mesto,Slovan Liberec,3,1,H,NaN,NaN,NaN
+CZE,03/03/2003,16:40,Slavia Praha,FK Marila Pribram,3,1,H,NaN,NaN,NaN
+CZE,08/03/2003,13:25,Sparta Praha,Slovan Liberec,5,0,H,NaN,NaN,NaN
+CZE,09/03/2003,13:30,České Budějovice,1. FC Brno,2,1,H,NaN,NaN,NaN
+CZE,09/03/2003,13:30,FC Bohemians Praha,Viktoria Žižkov,3,2,H,NaN,NaN,NaN
+CZE,09/03/2003,13:30,FK Jablonec,Slavia Praha,1,1,D,NaN,NaN,NaN
+CZE,09/03/2003,13:30,Tescoma Zlín,Chmel Blsany,1,0,H,NaN,NaN,NaN
+CZE,09/03/2003,15:30,FK Marila Pribram,FC Hradec Králové,5,0,H,NaN,NaN,NaN
+CZE,09/03/2003,15:30,FK Teplice,1. FC Synot Stare Mesto,0,0,D,NaN,NaN,NaN
+CZE,10/03/2003,15:40,Sigma Olomouc,Baník Ostrava,1,0,H,NaN,NaN,NaN
+CZE,15/03/2003,13:25,Slavia Praha,FK Teplice,3,1,H,NaN,NaN,NaN
+CZE,16/03/2003,09:15,Viktoria Žižkov,FK Jablonec,2,1,H,NaN,NaN,NaN
+CZE,16/03/2003,14:00,Baník Ostrava,České Budějovice,1,0,H,NaN,NaN,NaN
+CZE,16/03/2003,14:00,Chmel Blsany,FK Marila Pribram,4,3,H,NaN,NaN,NaN
+CZE,16/03/2003,14:00,1. FC Synot Stare Mesto,Sparta Praha,0,1,A,NaN,NaN,NaN
+CZE,16/03/2003,15:30,1. FC Brno,Sigma Olomouc,0,0,D,NaN,NaN,NaN
+CZE,16/03/2003,15:30,FC Hradec Králové,Tescoma Zlín,1,1,D,NaN,NaN,NaN
+CZE,17/03/2003,15:40,Slovan Liberec,FC Bohemians Praha,2,0,H,NaN,NaN,NaN
+CZE,22/03/2003,13:25,Tescoma Zlín,Slavia Praha,1,1,D,NaN,NaN,NaN
+CZE,23/03/2003,14:00,České Budějovice,1. FC Synot Stare Mesto,2,1,H,NaN,NaN,NaN
+CZE,23/03/2003,14:00,FC Bohemians Praha,FC Hradec Králové,3,1,H,NaN,NaN,NaN
+CZE,23/03/2003,14:00,FK Jablonec,Chmel Blsany,2,1,H,NaN,NaN,NaN
+CZE,23/03/2003,15:30,FK Marila Pribram,Baník Ostrava,2,1,H,NaN,NaN,NaN
+CZE,23/03/2003,15:30,Sigma Olomouc,Viktoria Žižkov,0,0,D,NaN,NaN,NaN
+CZE,23/03/2003,19:00,Sparta Praha,1. FC Brno,1,0,H,NaN,NaN,NaN
+CZE,24/03/2003,15:40,FK Teplice,Slovan Liberec,2,1,H,NaN,NaN,NaN
+CZE,05/04/2003,13:25,Chmel Blsany,Sparta Praha,1,2,A,NaN,NaN,NaN
+CZE,06/04/2003,13:30,FC Hradec Králové,Sigma Olomouc,2,1,H,NaN,NaN,NaN
+CZE,06/04/2003,15:30,Baník Ostrava,FC Bohemians Praha,2,0,H,NaN,NaN,NaN
+CZE,06/04/2003,15:30,1. FC Brno,1. FC Synot Stare Mesto,4,1,H,NaN,NaN,NaN
+CZE,06/04/2003,15:30,Slavia Praha,České Budějovice,6,1,H,NaN,NaN,NaN
+CZE,06/04/2003,15:30,Slovan Liberec,FK Jablonec,2,0,H,NaN,NaN,NaN
+CZE,06/04/2003,15:30,Tescoma Zlín,FK Marila Pribram,1,0,H,NaN,NaN,NaN
+CZE,07/04/2003,15:40,Viktoria Žižkov,FK Teplice,2,0,H,NaN,NaN,NaN
+CZE,12/04/2003,13:25,Sparta Praha,Slavia Praha,2,0,H,NaN,NaN,NaN
+CZE,13/04/2003,15:30,České Budějovice,Slovan Liberec,3,3,D,NaN,NaN,NaN
+CZE,13/04/2003,15:30,FC Bohemians Praha,Chmel Blsany,0,0,D,NaN,NaN,NaN
+CZE,13/04/2003,15:30,FK Jablonec,FC Hradec Králové,0,0,D,NaN,NaN,NaN
+CZE,13/04/2003,15:30,Sigma Olomouc,Tescoma Zlín,1,0,H,NaN,NaN,NaN
+CZE,13/04/2003,15:30,1. FC Synot Stare Mesto,Baník Ostrava,3,1,H,NaN,NaN,NaN
+CZE,13/04/2003,15:30,FK Teplice,1. FC Brno,1,1,D,NaN,NaN,NaN
+CZE,14/04/2003,15:40,FK Marila Pribram,Viktoria Žižkov,1,0,H,NaN,NaN,NaN
+CZE,19/04/2003,13:25,FK Marila Pribram,Sparta Praha,2,2,D,NaN,NaN,NaN
+CZE,20/04/2003,09:15,Viktoria Žižkov,České Budějovice,1,0,H,NaN,NaN,NaN
+CZE,20/04/2003,15:30,Baník Ostrava,Slovan Liberec,0,1,A,NaN,NaN,NaN
+CZE,20/04/2003,15:30,Chmel Blsany,1. FC Brno,0,1,A,NaN,NaN,NaN
+CZE,20/04/2003,15:30,FC Hradec Králové,FK Teplice,0,0,D,NaN,NaN,NaN
+CZE,20/04/2003,15:30,FK Jablonec,Sigma Olomouc,0,0,D,NaN,NaN,NaN
+CZE,20/04/2003,15:30,Tescoma Zlín,FC Bohemians Praha,1,0,H,NaN,NaN,NaN
+CZE,21/04/2003,15:40,Slavia Praha,1. FC Synot Stare Mesto,3,1,H,NaN,NaN,NaN
+CZE,26/04/2003,13:25,Slovan Liberec,Slavia Praha,0,0,D,NaN,NaN,NaN
+CZE,26/04/2003,16:00,České Budějovice,Chmel Blsany,0,0,D,NaN,NaN,NaN
+CZE,26/04/2003,16:00,FC Bohemians Praha,FK Jablonec,1,1,D,NaN,NaN,NaN
+CZE,26/04/2003,16:00,1. FC Brno,Baník Ostrava,1,0,H,NaN,NaN,NaN
+CZE,26/04/2003,16:00,Sigma Olomouc,FK Marila Pribram,0,0,D,NaN,NaN,NaN
+CZE,26/04/2003,16:00,FK Teplice,Tescoma Zlín,1,2,A,NaN,NaN,NaN
+CZE,26/04/2003,19:00,Sparta Praha,FC Hradec Králové,2,0,H,NaN,NaN,NaN
+CZE,28/04/2003,15:40,1. FC Synot Stare Mesto,Viktoria Žižkov,1,2,A,NaN,NaN,NaN
+CZE,03/05/2003,13:25,Viktoria Žižkov,Sparta Praha,2,0,H,NaN,NaN,NaN
+CZE,04/05/2003,15:30,Chmel Blsany,Slovan Liberec,1,1,D,NaN,NaN,NaN
+CZE,04/05/2003,15:30,FC Hradec Králové,1. FC Brno,0,1,A,NaN,NaN,NaN
+CZE,04/05/2003,15:30,FK Jablonec,České Budějovice,1,0,H,NaN,NaN,NaN
+CZE,04/05/2003,15:30,FK Marila Pribram,FK Teplice,2,1,H,NaN,NaN,NaN
+CZE,04/05/2003,15:30,Sigma Olomouc,FC Bohemians Praha,3,1,H,NaN,NaN,NaN
+CZE,04/05/2003,15:30,Tescoma Zlín,1. FC Synot Stare Mesto,3,0,H,NaN,NaN,NaN
+CZE,05/05/2003,15:40,Slavia Praha,Baník Ostrava,7,0,H,NaN,NaN,NaN
+CZE,10/05/2003,13:25,1. FC Brno,Slavia Praha,0,0,D,NaN,NaN,NaN
+CZE,11/05/2003,15:30,České Budějovice,Tescoma Zlín,1,2,A,NaN,NaN,NaN
+CZE,11/05/2003,15:30,Baník Ostrava,Chmel Blsany,3,1,H,NaN,NaN,NaN
+CZE,11/05/2003,15:30,FC Bohemians Praha,FK Marila Pribram,0,0,D,NaN,NaN,NaN
+CZE,11/05/2003,15:30,1. FC Synot Stare Mesto,FC Hradec Králové,5,0,H,NaN,NaN,NaN
+CZE,11/05/2003,15:30,FK Teplice,Sigma Olomouc,3,1,H,NaN,NaN,NaN
+CZE,11/05/2003,18:30,Sparta Praha,FK Jablonec,2,0,H,NaN,NaN,NaN
+CZE,12/05/2003,15:40,Slovan Liberec,Viktoria Žižkov,0,0,D,NaN,NaN,NaN
+CZE,17/05/2003,13:25,FC Bohemians Praha,Sparta Praha,0,3,A,NaN,NaN,NaN
+CZE,18/05/2003,09:15,Viktoria Žižkov,1. FC Brno,1,1,D,NaN,NaN,NaN
+CZE,18/05/2003,15:30,Chmel Blsany,Slavia Praha,1,2,A,NaN,NaN,NaN
+CZE,18/05/2003,15:30,FC Hradec Králové,Baník Ostrava,1,1,D,NaN,NaN,NaN
+CZE,18/05/2003,15:30,FK Jablonec,FK Teplice,0,0,D,NaN,NaN,NaN
+CZE,18/05/2003,15:30,FK Marila Pribram,1. FC Synot Stare Mesto,0,0,D,NaN,NaN,NaN
+CZE,18/05/2003,15:30,Sigma Olomouc,České Budějovice,4,2,H,NaN,NaN,NaN
+CZE,19/05/2003,15:40,Tescoma Zlín,Slovan Liberec,1,1,D,NaN,NaN,NaN
+CZE,24/05/2003,13:25,České Budějovice,FK Marila Pribram,1,1,D,NaN,NaN,NaN
+CZE,24/05/2003,13:25,Baník Ostrava,FK Jablonec,2,0,H,NaN,NaN,NaN
+CZE,24/05/2003,13:25,1. FC Brno,Tescoma Zlín,5,0,H,NaN,NaN,NaN
+CZE,24/05/2003,13:25,Slavia Praha,Viktoria Žižkov,3,0,H,NaN,NaN,NaN
+CZE,24/05/2003,13:25,Slovan Liberec,FC Hradec Králové,3,1,H,NaN,NaN,NaN
+CZE,24/05/2003,13:25,Sparta Praha,Sigma Olomouc,1,1,D,NaN,NaN,NaN
+CZE,24/05/2003,13:25,1. FC Synot Stare Mesto,Chmel Blsany,2,2,D,NaN,NaN,NaN
+CZE,24/05/2003,13:25,FK Teplice,FC Bohemians Praha,0,1,A,NaN,NaN,NaN
+CZE,31/05/2003,13:25,FC Bohemians Praha,1. FC Synot Stare Mesto,1,2,A,NaN,NaN,NaN
+CZE,31/05/2003,13:25,Chmel Blsany,FK Teplice,0,1,A,NaN,NaN,NaN
+CZE,31/05/2003,13:25,FC Hradec Králové,České Budějovice,2,1,H,NaN,NaN,NaN
+CZE,31/05/2003,13:25,FK Jablonec,1. FC Brno,4,1,H,NaN,NaN,NaN
+CZE,31/05/2003,13:25,FK Marila Pribram,Slovan Liberec,1,1,D,NaN,NaN,NaN
+CZE,31/05/2003,13:25,Sigma Olomouc,Slavia Praha,0,2,A,NaN,NaN,NaN
+CZE,31/05/2003,13:25,Tescoma Zlín,Sparta Praha,2,1,H,NaN,NaN,NaN
+CZE,31/05/2003,13:25,Viktoria Žižkov,Baník Ostrava,1,1,D,NaN,NaN,NaN

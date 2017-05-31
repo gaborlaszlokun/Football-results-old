@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,03/10/1971,,ACF Fiorentina,SSC Napoli,2,1,H,1,1,D
+ITA,03/10/1971,,Inter,Atalanta,2,0,H,1,0,H
+ITA,03/10/1971,,Juventus,US Catanzaro,4,2,H,1,0,H
+ITA,03/10/1971,,AC Mantova,Torino FC,1,2,A,0,0,D
+ITA,03/10/1971,,AS Roma,Lanerossi Vicenza,1,0,H,0,0,D
+ITA,03/10/1971,,Sampdoria,Bologna FC,2,1,H,2,1,H
+ITA,03/10/1971,,AS Varese 1910,AC Milan,0,1,A,0,1,A
+ITA,03/10/1971,,Cagliari Calcio,Hellas Verona,3,1,H,2,0,H
+ITA,17/10/1971,,SSC Napoli,AC Mantova,1,0,H,0,0,D
+ITA,17/10/1971,,Hellas Verona,Juventus,1,0,H,0,0,D
+ITA,17/10/1971,,AS Roma,Sampdoria,1,0,H,0,0,D
+ITA,17/10/1971,,Atalanta,Cagliari Calcio,2,1,H,1,0,H
+ITA,17/10/1971,,US Catanzaro,Inter,0,2,A,0,0,D
+ITA,17/10/1971,,Bologna FC,AS Varese 1910,1,0,H,0,0,D
+ITA,17/10/1971,,AC Milan,ACF Fiorentina,2,0,H,1,0,H
+ITA,17/10/1971,,Torino FC,Lanerossi Vicenza,2,1,H,1,1,D
+ITA,24/10/1971,,Inter,Hellas Verona,4,1,H,1,0,H
+ITA,24/10/1971,,AS Varese 1910,Torino FC,2,2,D,0,1,A
+ITA,24/10/1971,,SSC Napoli,Sampdoria,0,0,D,0,0,D
+ITA,24/10/1971,,AC Mantova,Bologna FC,1,1,D,1,1,D
+ITA,24/10/1971,,Juventus,Atalanta,1,0,H,1,0,H
+ITA,24/10/1971,,ACF Fiorentina,AS Roma,2,0,H,2,0,H
+ITA,24/10/1971,,Cagliari Calcio,US Catanzaro,0,0,D,0,0,D
+ITA,24/10/1971,,Lanerossi Vicenza,AC Milan,0,2,A,0,1,A
+ITA,31/10/1971,,Torino FC,Cagliari Calcio,1,0,H,0,0,D
+ITA,31/10/1971,,Sampdoria,US Catanzaro,1,1,D,1,0,H
+ITA,31/10/1971,,Hellas Verona,AC Mantova,1,0,H,1,0,H
+ITA,31/10/1971,,Atalanta,ACF Fiorentina,3,1,H,0,0,D
+ITA,31/10/1971,,AC Milan,Juventus,1,4,A,0,3,A
+ITA,31/10/1971,,AS Roma,Inter,3,1,H,2,0,H
+ITA,31/10/1971,,Bologna FC,Lanerossi Vicenza,2,1,H,2,0,H
+ITA,31/10/1971,,AS Varese 1910,SSC Napoli,0,1,A,0,0,D
+ITA,07/11/1971,,ACF Fiorentina,Bologna FC,2,1,H,0,0,D
+ITA,07/11/1971,,Sampdoria,AC Milan,0,2,A,0,1,A
+ITA,07/11/1971,,AC Mantova,Atalanta,1,0,H,1,0,H
+ITA,07/11/1971,,Lanerossi Vicenza,Hellas Verona,2,1,H,0,0,D
+ITA,07/11/1971,,Inter,Torino FC,2,0,H,0,0,D
+ITA,07/11/1971,,US Catanzaro,AS Varese 1910,1,1,D,1,0,H
+ITA,07/11/1971,,Cagliari Calcio,SSC Napoli,2,1,H,2,1,H
+ITA,07/11/1971,,Juventus,AS Roma,2,1,H,0,1,A
+ITA,14/11/1971,,AC Mantova,US Catanzaro,1,1,D,0,0,D
+ITA,14/11/1971,,AS Varese 1910,AS Roma,1,3,A,1,2,A
+ITA,14/11/1971,,Torino FC,Sampdoria,2,0,H,1,0,H
+ITA,14/11/1971,,Hellas Verona,ACF Fiorentina,0,0,D,0,0,D
+ITA,14/11/1971,,AC Milan,Cagliari Calcio,0,0,D,0,0,D
+ITA,14/11/1971,,Bologna FC,Juventus,1,2,A,1,2,A
+ITA,14/11/1971,,Atalanta,Lanerossi Vicenza,1,3,A,1,2,A
+ITA,14/11/1971,,SSC Napoli,Inter,0,0,D,0,0,D
+ITA,28/11/1971,,Cagliari Calcio,Bologna FC,2,1,H,1,0,H
+ITA,28/11/1971,,US Catanzaro,Lanerossi Vicenza,1,1,D,1,0,H
+ITA,28/11/1971,,ACF Fiorentina,Torino FC,1,1,D,1,1,D
+ITA,28/11/1971,,Inter,AC Milan,2,3,A,2,2,D
+ITA,28/11/1971,,Juventus,SSC Napoli,2,2,D,1,1,D
+ITA,28/11/1971,,AS Roma,AC Mantova,3,1,H,0,1,A
+ITA,28/11/1971,,Sampdoria,Atalanta,1,0,H,0,0,D
+ITA,28/11/1971,,AS Varese 1910,Hellas Verona,0,0,D,0,0,D
+ITA,05/12/1971,,Lanerossi Vicenza,SSC Napoli,6,2,H,2,0,H
+ITA,05/12/1971,,AC Milan,AC Mantova,0,1,A,0,0,D
+ITA,05/12/1971,,AS Roma,Cagliari Calcio,2,2,D,0,1,A
+ITA,05/12/1971,,US Catanzaro,ACF Fiorentina,0,2,A,0,0,D
+ITA,05/12/1971,,Atalanta,AS Varese 1910,1,0,H,1,0,H
+ITA,05/12/1971,,Bologna FC,Inter,0,3,A,0,0,D
+ITA,05/12/1971,,Juventus,Torino FC,2,1,H,1,1,D
+ITA,05/12/1971,,Sampdoria,Hellas Verona,1,0,H,1,0,H
+ITA,12/12/1971,,Inter,Cagliari Calcio,0,0,D,0,0,D
+ITA,12/12/1971,,Hellas Verona,Atalanta,1,2,A,1,1,D
+ITA,12/12/1971,,AS Varese 1910,Juventus,0,1,A,0,1,A
+ITA,12/12/1971,,Torino FC,US Catanzaro,1,0,H,1,0,H
+ITA,12/12/1971,,AC Mantova,Sampdoria,1,2,A,1,2,A
+ITA,12/12/1971,,ACF Fiorentina,Lanerossi Vicenza,2,1,H,1,1,D
+ITA,12/12/1971,,Bologna FC,AC Milan,0,2,A,0,1,A
+ITA,12/12/1971,,SSC Napoli,AS Roma,4,0,H,1,0,H
+ITA,19/12/1971,,Juventus,Sampdoria,3,1,H,2,1,H
+ITA,19/12/1971,,Hellas Verona,Bologna FC,0,0,D,0,0,D
+ITA,19/12/1971,,SSC Napoli,Torino FC,1,1,D,1,1,D
+ITA,19/12/1971,,AC Milan,AS Roma,3,0,H,1,0,H
+ITA,19/12/1971,,Cagliari Calcio,ACF Fiorentina,0,0,D,0,0,D
+ITA,19/12/1971,,Atalanta,US Catanzaro,1,0,H,1,0,H
+ITA,19/12/1971,,AC Mantova,AS Varese 1910,2,2,D,2,2,D
+ITA,19/12/1971,,Lanerossi Vicenza,Inter,0,4,A,0,0,D
+ITA,26/12/1971,,Juventus,AC Mantova,2,1,H,0,0,D
+ITA,26/12/1971,,Sampdoria,AS Varese 1910,2,0,H,2,0,H
+ITA,26/12/1971,,AS Roma,Bologna FC,1,0,H,0,0,D
+ITA,26/12/1971,,Lanerossi Vicenza,Cagliari Calcio,0,1,A,0,1,A
+ITA,26/12/1971,,ACF Fiorentina,Inter,0,0,D,0,0,D
+ITA,26/12/1971,,US Catanzaro,SSC Napoli,0,0,D,0,0,D
+ITA,26/12/1971,,Atalanta,Torino FC,0,0,D,0,0,D
+ITA,26/12/1971,,AC Milan,Hellas Verona,2,0,H,2,0,H
+ITA,02/01/1972,,AC Mantova,ACF Fiorentina,1,2,A,1,2,A
+ITA,02/01/1972,,AS Varese 1910,Cagliari Calcio,0,2,A,0,2,A
+ITA,02/01/1972,,Torino FC,AC Milan,0,0,D,0,0,D
+ITA,02/01/1972,,Hellas Verona,SSC Napoli,1,1,D,0,1,A
+ITA,02/01/1972,,Inter,Juventus,0,0,D,0,0,D
+ITA,02/01/1972,,Bologna FC,US Catanzaro,2,1,H,2,0,H
+ITA,02/01/1972,,Sampdoria,Lanerossi Vicenza,1,1,D,0,0,D
+ITA,02/01/1972,,AS Roma,Atalanta,1,0,H,1,0,H
+ITA,09/01/1972,,ACF Fiorentina,AS Varese 1910,1,0,H,0,0,D
+ITA,09/01/1972,,Torino FC,Hellas Verona,2,2,D,2,1,H
+ITA,09/01/1972,,SSC Napoli,AC Milan,0,0,D,0,0,D
+ITA,09/01/1972,,Inter,Sampdoria,4,4,D,1,1,D
+ITA,09/01/1972,,US Catanzaro,AS Roma,1,1,D,0,1,A
+ITA,09/01/1972,,Cagliari Calcio,Juventus,2,1,H,1,0,H
+ITA,09/01/1972,,Atalanta,Bologna FC,0,0,D,0,0,D
+ITA,09/01/1972,,Lanerossi Vicenza,AC Mantova,1,0,H,0,0,D
+ITA,16/01/1972,,AC Milan,Atalanta,1,0,H,0,0,D
+ITA,16/01/1972,,AS Varese 1910,Lanerossi Vicenza,0,0,D,0,0,D
+ITA,16/01/1972,,Hellas Verona,US Catanzaro,0,0,D,0,0,D
+ITA,16/01/1972,,AS Roma,Torino FC,3,1,H,0,0,D
+ITA,16/01/1972,,Juventus,ACF Fiorentina,1,0,H,0,0,D
+ITA,16/01/1972,,Bologna FC,SSC Napoli,2,2,D,2,2,D
+ITA,16/01/1972,,Sampdoria,Cagliari Calcio,0,0,D,0,0,D
+ITA,16/01/1972,,AC Mantova,Inter,1,6,A,0,1,A
+ITA,23/01/1972,,Inter,AS Varese 1910,2,0,H,0,0,D
+ITA,23/01/1972,,Hellas Verona,AS Roma,1,1,D,1,1,D
+ITA,23/01/1972,,Torino FC,Bologna FC,1,0,H,0,0,D
+ITA,23/01/1972,,Lanerossi Vicenza,Juventus,1,3,A,1,2,A
+ITA,23/01/1972,,ACF Fiorentina,Sampdoria,0,0,D,0,0,D
+ITA,23/01/1972,,US Catanzaro,AC Milan,0,0,D,0,0,D
+ITA,23/01/1972,,Cagliari Calcio,AC Mantova,1,0,H,1,0,H
+ITA,23/01/1972,,SSC Napoli,Atalanta,2,1,H,1,0,H
+ITA,30/01/1972,,SSC Napoli,ACF Fiorentina,0,0,D,0,0,D
+ITA,30/01/1972,,Bologna FC,Sampdoria,1,0,H,0,0,D
+ITA,30/01/1972,,Hellas Verona,Cagliari Calcio,0,2,A,0,2,A
+ITA,30/01/1972,,Torino FC,AC Mantova,1,0,H,1,0,H
+ITA,30/01/1972,,Atalanta,Inter,1,0,H,1,0,H
+ITA,30/01/1972,,US Catanzaro,Juventus,1,0,H,0,0,D
+ITA,30/01/1972,,Lanerossi Vicenza,AS Roma,0,1,A,0,0,D
+ITA,30/01/1972,,AC Milan,AS Varese 1910,3,1,H,0,0,D
+ITA,06/02/1972,,Juventus,Hellas Verona,4,0,H,2,0,H
+ITA,06/02/1972,,AS Varese 1910,Bologna FC,0,0,D,0,0,D
+ITA,06/02/1972,,Sampdoria,AS Roma,1,0,H,0,0,D
+ITA,06/02/1972,,Lanerossi Vicenza,Torino FC,0,0,D,0,0,D
+ITA,06/02/1972,,Inter,US Catanzaro,1,0,H,0,0,D
+ITA,06/02/1972,,ACF Fiorentina,AC Milan,2,0,H,0,0,D
+ITA,06/02/1972,,Cagliari Calcio,Atalanta,2,0,H,0,0,D
+ITA,06/02/1972,,AC Mantova,SSC Napoli,0,0,D,0,0,D
+ITA,13/02/1972,,AC Milan,Lanerossi Vicenza,1,1,D,0,0,D
+ITA,13/02/1972,,AS Roma,ACF Fiorentina,0,0,D,0,0,D
+ITA,13/02/1972,,Hellas Verona,Inter,2,0,H,1,0,H
+ITA,13/02/1972,,Torino FC,AS Varese 1910,2,0,H,2,0,H
+ITA,13/02/1972,,Atalanta,Juventus,0,0,D,0,0,D
+ITA,13/02/1972,,US Catanzaro,Cagliari Calcio,2,2,D,0,0,D
+ITA,13/02/1972,,Bologna FC,AC Mantova,1,1,D,0,0,D
+ITA,13/02/1972,,Sampdoria,SSC Napoli,1,2,A,0,0,D
+ITA,20/02/1972,,Inter,AS Roma,2,2,D,1,1,D
+ITA,20/02/1972,,SSC Napoli,AS Varese 1910,3,0,H,1,0,H
+ITA,20/02/1972,,AC Mantova,Hellas Verona,1,0,H,1,0,H
+ITA,20/02/1972,,Juventus,AC Milan,1,1,D,0,1,A
+ITA,20/02/1972,,ACF Fiorentina,Atalanta,2,0,H,1,0,H
+ITA,20/02/1972,,US Catanzaro,Sampdoria,1,0,H,1,0,H
+ITA,20/02/1972,,Cagliari Calcio,Torino FC,1,2,A,0,1,A
+ITA,20/02/1972,,Lanerossi Vicenza,Bologna FC,2,3,A,1,0,H
+ITA,27/02/1972,,SSC Napoli,Cagliari Calcio,0,0,D,0,0,D
+ITA,27/02/1972,,AS Roma,Juventus,1,1,D,1,0,H
+ITA,27/02/1972,,Hellas Verona,Lanerossi Vicenza,2,2,D,2,1,H
+ITA,27/02/1972,,AS Varese 1910,US Catanzaro,1,1,D,1,0,H
+ITA,27/02/1972,,Atalanta,AC Mantova,2,0,H,1,0,H
+ITA,27/02/1972,,AC Milan,Sampdoria,0,0,D,0,0,D
+ITA,27/02/1972,,Bologna FC,ACF Fiorentina,1,1,D,1,0,H
+ITA,27/02/1972,,Torino FC,Inter,2,1,H,1,0,H
+ITA,12/03/1972,,Inter,SSC Napoli,2,0,H,1,0,H
+ITA,12/03/1972,,Sampdoria,Torino FC,2,1,H,2,1,H
+ITA,12/03/1972,,AS Roma,AS Varese 1910,0,0,D,0,0,D
+ITA,12/03/1972,,Juventus,Bologna FC,2,1,H,0,1,A
+ITA,12/03/1972,,ACF Fiorentina,Hellas Verona,2,1,H,1,0,H
+ITA,12/03/1972,,US Catanzaro,AC Mantova,1,1,D,1,0,H
+ITA,12/03/1972,,Cagliari Calcio,AC Milan,2,1,H,1,0,H
+ITA,12/03/1972,,Lanerossi Vicenza,Atalanta,1,0,H,0,0,D
+ITA,19/03/1972,,AC Mantova,AS Roma,0,2,A,0,1,A
+ITA,19/03/1972,,AC Milan,Inter,1,1,D,0,0,D
+ITA,19/03/1972,,Hellas Verona,AS Varese 1910,1,1,D,1,1,D
+ITA,19/03/1972,,Torino FC,ACF Fiorentina,2,1,H,1,0,H
+ITA,19/03/1972,,Lanerossi Vicenza,US Catanzaro,2,0,H,1,0,H
+ITA,19/03/1972,,Bologna FC,Cagliari Calcio,2,1,H,1,1,D
+ITA,19/03/1972,,Atalanta,Sampdoria,0,0,D,0,0,D
+ITA,19/03/1972,,SSC Napoli,Juventus,1,1,D,0,1,A
+ITA,26/03/1972,,AC Mantova,AC Milan,0,0,D,0,0,D
+ITA,26/03/1972,,AS Varese 1910,Atalanta,0,1,A,0,0,D
+ITA,26/03/1972,,SSC Napoli,Lanerossi Vicenza,1,1,D,0,0,D
+ITA,26/03/1972,,Hellas Verona,Sampdoria,3,2,H,1,1,D
+ITA,26/03/1972,,Inter,Bologna FC,1,1,D,0,0,D
+ITA,26/03/1972,,ACF Fiorentina,US Catanzaro,1,0,H,0,0,D
+ITA,26/03/1972,,Cagliari Calcio,AS Roma,1,0,H,1,0,H
+ITA,26/03/1972,,Torino FC,Juventus,2,1,H,1,1,D
+ITA,02/04/1972,,Lanerossi Vicenza,ACF Fiorentina,0,1,A,0,1,A
+ITA,02/04/1972,,AS Roma,SSC Napoli,1,0,H,0,0,D
+ITA,02/04/1972,,Sampdoria,AC Mantova,0,0,D,0,0,D
+ITA,02/04/1972,,AC Milan,Bologna FC,1,0,H,0,0,D
+ITA,02/04/1972,,US Catanzaro,Torino FC,1,3,A,0,2,A
+ITA,02/04/1972,,Atalanta,Hellas Verona,0,0,D,0,0,D
+ITA,02/04/1972,,Cagliari Calcio,Inter,2,1,H,1,1,D
+ITA,02/04/1972,,Juventus,AS Varese 1910,1,0,H,1,0,H
+ITA,09/04/1972,,Inter,Lanerossi Vicenza,2,1,H,0,0,D
+ITA,09/04/1972,,AS Varese 1910,AC Mantova,2,4,A,2,1,H
+ITA,09/04/1972,,Torino FC,SSC Napoli,1,0,H,0,0,D
+ITA,09/04/1972,,AS Roma,AC Milan,1,2,A,1,0,H
+ITA,09/04/1972,,ACF Fiorentina,Cagliari Calcio,0,1,A,0,1,A
+ITA,09/04/1972,,US Catanzaro,Atalanta,1,1,D,1,0,H
+ITA,09/04/1972,,Bologna FC,Hellas Verona,1,0,H,0,0,D
+ITA,09/04/1972,,Sampdoria,Juventus,0,0,D,0,0,D
+ITA,16/04/1972,,AC Mantova,Juventus,1,1,D,1,0,H
+ITA,16/04/1972,,SSC Napoli,US Catanzaro,0,0,D,0,0,D
+ITA,16/04/1972,,Hellas Verona,AC Milan,1,1,D,0,1,A
+ITA,16/04/1972,,AS Varese 1910,Sampdoria,0,1,A,0,1,A
+ITA,16/04/1972,,Bologna FC,AS Roma,2,2,D,2,1,H
+ITA,16/04/1972,,Inter,ACF Fiorentina,1,1,D,0,1,A
+ITA,16/04/1972,,Cagliari Calcio,Lanerossi Vicenza,3,0,H,2,0,H
+ITA,16/04/1972,,Torino FC,Atalanta,1,0,H,0,0,D
+ITA,23/04/1972,,ACF Fiorentina,AC Mantova,0,1,A,0,0,D
+ITA,23/04/1972,,AC Milan,Torino FC,1,0,H,0,0,D
+ITA,23/04/1972,,Juventus,Inter,3,0,H,2,0,H
+ITA,23/04/1972,,SSC Napoli,Hellas Verona,1,1,D,1,1,D
+ITA,23/04/1972,,US Catanzaro,Bologna FC,1,0,H,0,0,D
+ITA,23/04/1972,,Cagliari Calcio,AS Varese 1910,1,1,D,1,1,D
+ITA,23/04/1972,,Atalanta,AS Roma,1,1,D,0,0,D
+ITA,23/04/1972,,Lanerossi Vicenza,Sampdoria,1,0,H,0,0,D
+ITA,07/05/1972,,AS Roma,US Catanzaro,4,0,H,0,0,D
+ITA,07/05/1972,,AS Varese 1910,ACF Fiorentina,1,1,D,1,0,H
+ITA,07/05/1972,,Hellas Verona,Torino FC,0,0,D,0,0,D
+ITA,07/05/1972,,Sampdoria,Inter,0,0,D,0,0,D
+ITA,07/05/1972,,AC Mantova,Lanerossi Vicenza,0,1,A,0,0,D
+ITA,07/05/1972,,Bologna FC,Atalanta,1,1,D,0,1,A
+ITA,07/05/1972,,AC Milan,SSC Napoli,3,0,H,1,0,H
+ITA,07/05/1972,,Juventus,Cagliari Calcio,2,1,H,1,0,H
+ITA,21/05/1972,,Torino FC,AS Roma,2,0,H,2,0,H
+ITA,21/05/1972,,Atalanta,AC Milan,0,1,A,0,0,D
+ITA,21/05/1972,,Cagliari Calcio,Sampdoria,3,1,H,3,0,H
+ITA,21/05/1972,,US Catanzaro,Hellas Verona,0,0,D,0,0,D
+ITA,21/05/1972,,ACF Fiorentina,Juventus,1,1,D,1,0,H
+ITA,21/05/1972,,Inter,AC Mantova,2,0,H,0,0,D
+ITA,21/05/1972,,Lanerossi Vicenza,AS Varese 1910,0,4,A,0,0,D
+ITA,21/05/1972,,SSC Napoli,Bologna FC,0,0,D,0,0,D
+ITA,28/05/1972,,Sampdoria,ACF Fiorentina,0,0,D,0,0,D
+ITA,28/05/1972,,AS Roma,Hellas Verona,1,0,H,0,0,D
+ITA,28/05/1972,,AC Milan,US Catanzaro,1,0,H,1,0,H
+ITA,28/05/1972,,AC Mantova,Cagliari Calcio,2,1,H,0,1,A
+ITA,28/05/1972,,Juventus,Lanerossi Vicenza,2,0,H,2,0,H
+ITA,28/05/1972,,Atalanta,SSC Napoli,3,1,H,2,0,H
+ITA,28/05/1972,,AS Varese 1910,Inter,0,3,A,0,1,A
+ITA,28/05/1972,,Bologna FC,Torino FC,2,3,A,1,0,H

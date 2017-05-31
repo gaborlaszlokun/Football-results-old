@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRN,04/08/2008,14:15,Saipa FC,Persepolis,0,1,A,NaN,NaN,NaN
+IRN,05/08/2008,13:45,Pas-Hamedan,Sepahan FC,0,0,D,NaN,NaN,NaN
+IRN,05/08/2008,14:30,Moghavemat Shahid Sepasi,Foolad FC,0,1,A,NaN,NaN,NaN
+IRN,05/08/2008,14:30,Payam Mashhad,Bargh Shiraz,1,2,A,NaN,NaN,NaN
+IRN,05/08/2008,14:30,FC Zob Ahan,Mes Kerman FC,1,0,H,NaN,NaN,NaN
+IRN,05/08/2008,14:30,Malavan FC,Rah Ahan,0,1,A,NaN,NaN,NaN
+IRN,05/08/2008,14:30,Saba Qom FC,Paykan FC,1,1,D,NaN,NaN,NaN
+IRN,05/08/2008,16:00,Esteghlal,Abu Moslem,2,0,H,NaN,NaN,NaN
+IRN,05/08/2008,16:00,Esteghlal Ahvaz,Pegah Gilan,1,1,D,NaN,NaN,NaN
+IRN,09/08/2008,13:45,Pegah Gilan,Esteghlal,1,0,H,NaN,NaN,NaN
+IRN,09/08/2008,14:15,Paykan FC,FC Zob Ahan,1,2,A,NaN,NaN,NaN
+IRN,09/08/2008,14:15,Abu Moslem,Saba Qom FC,1,0,H,NaN,NaN,NaN
+IRN,09/08/2008,14:15,Rah Ahan,Moghavemat Shahid Sepasi,0,0,D,NaN,NaN,NaN
+IRN,09/08/2008,14:15,Mes Kerman FC,Esteghlal Ahvaz,4,0,H,NaN,NaN,NaN
+IRN,09/08/2008,14:15,Bargh Shiraz,Malavan FC,3,0,H,NaN,NaN,NaN
+IRN,09/08/2008,16:00,Persepolis,Pas-Hamedan,3,1,H,NaN,NaN,NaN
+IRN,03/11/2008,11:00,Sepahan FC,Payam Mashhad,3,2,H,NaN,NaN,NaN
+IRN,03/11/2008,11:00,Foolad FC,Saipa FC,1,1,D,NaN,NaN,NaN
+IRN,17/08/2008,13:30,Malavan FC,Persepolis,2,2,D,NaN,NaN,NaN
+IRN,17/08/2008,14:00,Moghavemat Shahid Sepasi,Mes Kerman FC,2,0,H,NaN,NaN,NaN
+IRN,17/08/2008,14:00,Pas-Hamedan,Abu Moslem,2,1,H,NaN,NaN,NaN
+IRN,17/08/2008,14:00,Payam Mashhad,Foolad FC,1,2,A,NaN,NaN,NaN
+IRN,17/08/2008,14:00,Saipa FC,Paykan FC,0,1,A,NaN,NaN,NaN
+IRN,17/08/2008,14:00,FC Zob Ahan,Pegah Gilan,2,1,H,NaN,NaN,NaN
+IRN,17/08/2008,15:45,Esteghlal Ahvaz,Rah Ahan,1,1,D,NaN,NaN,NaN
+IRN,17/08/2008,15:45,Esteghlal,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,18/08/2008,14:00,Saba Qom FC,Bargh Shiraz,2,2,D,NaN,NaN,NaN
+IRN,24/08/2008,13:15,Mes Kerman FC,Esteghlal,1,0,H,NaN,NaN,NaN
+IRN,24/08/2008,13:30,Paykan FC,Moghavemat Shahid Sepasi,2,2,D,NaN,NaN,NaN
+IRN,24/08/2008,13:45,Abu Moslem,Esteghlal Ahvaz,0,1,A,NaN,NaN,NaN
+IRN,24/08/2008,13:45,Bargh Shiraz,Pas-Hamedan,2,0,H,NaN,NaN,NaN
+IRN,24/08/2008,13:45,Pegah Gilan,Payam Mashhad,1,1,D,NaN,NaN,NaN
+IRN,24/08/2008,13:45,Rah Ahan,Saipa FC,1,2,A,NaN,NaN,NaN
+IRN,24/08/2008,13:45,Sepahan FC,Saba Qom FC,2,0,H,NaN,NaN,NaN
+IRN,24/08/2008,15:35,Foolad FC,Malavan FC,0,1,A,NaN,NaN,NaN
+IRN,24/08/2008,15:35,Persepolis,FC Zob Ahan,2,2,D,NaN,NaN,NaN
+IRN,17/10/2008,12:30,Malavan FC,Mes Kerman FC,1,0,H,NaN,NaN,NaN
+IRN,17/10/2008,12:30,Moghavemat Shahid Sepasi,Damash Gilan,1,1,D,NaN,NaN,NaN
+IRN,17/10/2008,12:30,Pas-Hamedan,Rah Ahan,1,0,H,NaN,NaN,NaN
+IRN,17/10/2008,12:30,Payam Mashhad,Esteghlal Ahvaz,2,1,H,NaN,NaN,NaN
+IRN,17/10/2008,12:30,Paykan FC,Abu Moslem,2,0,H,NaN,NaN,NaN
+IRN,17/10/2008,12:30,FC Zob Ahan,Saba Qom FC,2,2,D,NaN,NaN,NaN
+IRN,17/10/2008,14:15,Esteghlal,Bargh Shiraz,1,1,D,NaN,NaN,NaN
+IRN,18/10/2008,12:30,Saipa FC,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,18/10/2008,14:30,Foolad FC,Persepolis,3,2,H,NaN,NaN,NaN
+IRN,11/09/2008,17:00,Bargh Shiraz,Foolad FC,1,1,D,NaN,NaN,NaN
+IRN,11/09/2008,17:00,Persepolis,Mes Kerman FC,0,1,A,NaN,NaN,NaN
+IRN,11/09/2008,18:00,Pegah Gilan,Saipa FC,1,1,D,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Abu Moslem,FC Zob Ahan,4,0,H,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Esteghlal Ahvaz,Moghavemat Shahid Sepasi,1,1,D,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Pas-Hamedan,Payam Mashhad,1,0,H,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Rah Ahan,Paykan FC,1,4,A,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Saba Qom FC,Esteghlal,3,1,H,NaN,NaN,NaN
+IRN,12/09/2008,17:00,Sepahan FC,Malavan FC,0,0,D,NaN,NaN,NaN
+IRN,16/09/2008,17:00,Payam Mashhad,Persepolis,1,2,A,NaN,NaN,NaN
+IRN,18/09/2008,16:45,Foolad FC,Abu Moslem,0,0,D,NaN,NaN,NaN
+IRN,18/09/2008,17:00,Mes Kerman FC,Pas-Hamedan,2,0,H,NaN,NaN,NaN
+IRN,18/09/2008,17:00,Moghavemat Shahid Sepasi,Saba Qom FC,1,1,D,NaN,NaN,NaN
+IRN,18/09/2008,17:00,Paykan FC,Malavan FC,3,1,H,NaN,NaN,NaN
+IRN,18/09/2008,17:00,FC Zob Ahan,Sepahan FC,2,1,H,NaN,NaN,NaN
+IRN,18/09/2008,18:00,Esteghlal,Esteghlal Ahvaz,6,0,H,NaN,NaN,NaN
+IRN,18/09/2008,18:00,Pegah Gilan,Rah Ahan,2,2,D,NaN,NaN,NaN
+IRN,21/11/2008,10:45,Saipa FC,Bargh Shiraz,2,2,D,NaN,NaN,NaN
+IRN,25/09/2008,17:00,Bargh Shiraz,Mes Kerman FC,4,1,H,NaN,NaN,NaN
+IRN,25/09/2008,17:30,Esteghlal Ahvaz,Paykan FC,2,3,A,NaN,NaN,NaN
+IRN,25/09/2008,17:30,Pas-Hamedan,FC Zob Ahan,2,2,D,NaN,NaN,NaN
+IRN,25/09/2008,17:30,Persepolis,Pegah Gilan,2,0,H,NaN,NaN,NaN
+IRN,25/09/2008,17:30,Saba Qom FC,Payam Mashhad,0,0,D,NaN,NaN,NaN
+IRN,25/09/2008,17:30,Sepahan FC,Foolad FC,2,0,H,NaN,NaN,NaN
+IRN,25/09/2008,18:00,Abu Moslem,Moghavemat Shahid Sepasi,1,2,A,NaN,NaN,NaN
+IRN,27/09/2008,17:30,Esteghlal,Rah Ahan,2,1,H,NaN,NaN,NaN
+IRN,28/09/2008,17:30,Malavan FC,Saipa FC,2,2,D,NaN,NaN,NaN
+IRN,02/10/2008,13:00,Payam Mashhad,Paykan FC,1,1,D,NaN,NaN,NaN
+IRN,02/10/2008,13:30,Foolad FC,Esteghlal Ahvaz,0,2,A,NaN,NaN,NaN
+IRN,02/10/2008,13:30,Moghavemat Shahid Sepasi,Bargh Shiraz,0,1,A,NaN,NaN,NaN
+IRN,02/10/2008,13:30,Pegah Gilan,Saba Qom FC,1,2,A,NaN,NaN,NaN
+IRN,03/10/2008,12:30,Persepolis,Esteghlal,1,1,D,NaN,NaN,NaN
+IRN,03/10/2008,13:30,Mes Kerman FC,Abu Moslem,3,1,H,NaN,NaN,NaN
+IRN,03/10/2008,13:30,Pas-Hamedan,Malavan FC,0,0,D,NaN,NaN,NaN
+IRN,03/10/2008,13:30,Rah Ahan,Sepahan FC,0,1,A,NaN,NaN,NaN
+IRN,03/10/2008,13:30,FC Zob Ahan,Saipa FC,6,3,H,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Bargh Shiraz,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Esteghlal,Moghavemat Shahid Sepasi,5,2,H,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Foolad FC,Mes Kerman FC,2,2,D,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Malavan FC,Payam Mashhad,0,1,A,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Paykan FC,Pegah Gilan,2,0,H,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Saba Qom FC,Esteghlal Ahvaz,2,0,H,NaN,NaN,NaN
+IRN,07/10/2008,13:15,Saipa FC,Pas-Hamedan,1,3,A,NaN,NaN,NaN
+IRN,07/10/2008,13:15,FC Zob Ahan,Rah Ahan,1,0,H,NaN,NaN,NaN
+IRN,08/10/2008,12:30,Abu Moslem,Persepolis,4,3,H,NaN,NaN,NaN
+IRN,21/10/2008,12:30,Moghavemat Shahid Sepasi,FC Zob Ahan,0,2,A,NaN,NaN,NaN
+IRN,21/10/2008,12:30,Pas-Hamedan,Esteghlal,2,4,A,NaN,NaN,NaN
+IRN,21/10/2008,12:30,Payam Mashhad,Abu Moslem,1,0,H,NaN,NaN,NaN
+IRN,21/10/2008,12:30,Rah Ahan,Saba Qom FC,1,1,D,NaN,NaN,NaN
+IRN,21/10/2008,14:15,Esteghlal Ahvaz,Malavan FC,3,0,H,NaN,NaN,NaN
+IRN,22/10/2008,12:30,Damash Gilan,Foolad FC,0,1,A,NaN,NaN,NaN
+IRN,22/10/2008,12:30,Sepahan FC,Paykan FC,2,4,A,NaN,NaN,NaN
+IRN,22/10/2008,12:45,Mes Kerman FC,Saipa FC,1,1,D,NaN,NaN,NaN
+IRN,22/10/2008,14:30,Persepolis,Bargh Shiraz,3,1,H,NaN,NaN,NaN
+IRN,26/10/2008,11:15,Abu Moslem,Damash Gilan,3,2,H,NaN,NaN,NaN
+IRN,26/10/2008,11:15,Bargh Shiraz,Rah Ahan,0,1,A,NaN,NaN,NaN
+IRN,26/10/2008,11:15,Mes Kerman FC,Payam Mashhad,3,3,D,NaN,NaN,NaN
+IRN,26/10/2008,11:15,Saipa FC,Moghavemat Shahid Sepasi,0,2,A,NaN,NaN,NaN
+IRN,26/10/2008,11:15,FC Zob Ahan,Esteghlal Ahvaz,1,1,D,NaN,NaN,NaN
+IRN,26/10/2008,13:05,Foolad FC,Pas-Hamedan,5,1,H,NaN,NaN,NaN
+IRN,26/10/2008,13:05,Persepolis,Sepahan FC,3,2,H,NaN,NaN,NaN
+IRN,27/10/2008,13:05,Esteghlal,Paykan FC,3,2,H,NaN,NaN,NaN
+IRN,25/11/2008,10:45,Malavan FC,Saba Qom FC,1,1,D,NaN,NaN,NaN
+IRN,30/10/2008,11:15,Moghavemat Shahid Sepasi,Persepolis,1,0,H,NaN,NaN,NaN
+IRN,30/10/2008,11:15,Payam Mashhad,Saipa FC,1,3,A,NaN,NaN,NaN
+IRN,30/10/2008,11:15,Saba Qom FC,Foolad FC,1,1,D,NaN,NaN,NaN
+IRN,30/10/2008,11:15,Sepahan FC,Mes Kerman FC,1,0,H,NaN,NaN,NaN
+IRN,31/10/2008,11:00,Esteghlal Ahvaz,Pas-Hamedan,0,0,D,NaN,NaN,NaN
+IRN,31/10/2008,11:15,Paykan FC,Bargh Shiraz,1,0,H,NaN,NaN,NaN
+IRN,31/10/2008,11:15,Damash Gilan,Malavan FC,1,2,A,NaN,NaN,NaN
+IRN,31/10/2008,11:15,Rah Ahan,Abu Moslem,3,0,H,NaN,NaN,NaN
+IRN,31/10/2008,13:00,Esteghlal,FC Zob Ahan,2,0,H,NaN,NaN,NaN
+IRN,06/11/2008,10:45,Malavan FC,Esteghlal,2,2,D,NaN,NaN,NaN
+IRN,06/11/2008,12:50,Persepolis,Saba Qom FC,2,2,D,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Bargh Shiraz,Abu Moslem,2,2,D,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Foolad FC,Paykan FC,2,2,D,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Mes Kerman FC,Rah Ahan,2,1,H,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Pas-Hamedan,Moghavemat Shahid Sepasi,1,1,D,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Payam Mashhad,FC Zob Ahan,1,3,A,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Saipa FC,Esteghlal Ahvaz,3,2,H,NaN,NaN,NaN
+IRN,07/11/2008,10:45,Sepahan FC,Damash Gilan,1,1,D,NaN,NaN,NaN
+IRN,21/11/2008,10:30,Moghavemat Shahid Sepasi,Malavan FC,2,2,D,NaN,NaN,NaN
+IRN,21/11/2008,10:45,Esteghlal Ahvaz,Sepahan FC,1,3,A,NaN,NaN,NaN
+IRN,21/11/2008,10:45,Damash Gilan,Mes Kerman FC,2,2,D,NaN,NaN,NaN
+IRN,21/11/2008,10:45,Rah Ahan,Payam Mashhad,0,0,D,NaN,NaN,NaN
+IRN,21/11/2008,10:45,Saba Qom FC,Pas-Hamedan,3,1,H,NaN,NaN,NaN
+IRN,21/11/2008,11:30,Esteghlal,Foolad FC,0,1,A,NaN,NaN,NaN
+IRN,22/11/2008,10:45,Paykan FC,Persepolis,2,2,D,NaN,NaN,NaN
+IRN,25/11/2008,10:30,Abu Moslem,Saipa FC,0,0,D,NaN,NaN,NaN
+IRN,25/11/2008,10:45,FC Zob Ahan,Bargh Shiraz,2,1,H,NaN,NaN,NaN
+IRN,25/11/2008,10:45,Foolad FC,Rah Ahan,2,3,A,NaN,NaN,NaN
+IRN,26/11/2008,10:45,Pas-Hamedan,Paykan FC,2,0,H,NaN,NaN,NaN
+IRN,26/11/2008,11:30,Persepolis,Esteghlal Ahvaz,1,0,H,NaN,NaN,NaN
+IRN,29/11/2008,10:30,Bargh Shiraz,Damash Gilan,1,1,D,NaN,NaN,NaN
+IRN,29/11/2008,10:30,Payam Mashhad,Moghavemat Shahid Sepasi,0,1,A,NaN,NaN,NaN
+IRN,29/11/2008,10:45,Malavan FC,FC Zob Ahan,1,1,D,NaN,NaN,NaN
+IRN,29/11/2008,10:45,Sepahan FC,Abu Moslem,2,1,H,NaN,NaN,NaN
+IRN,29/11/2008,11:30,Saipa FC,Esteghlal,0,2,A,NaN,NaN,NaN
+IRN,30/11/2008,10:30,Mes Kerman FC,Saba Qom FC,3,1,H,NaN,NaN,NaN
+IRN,03/12/2008,10:30,Abu Moslem,Malavan FC,2,2,D,NaN,NaN,NaN
+IRN,03/12/2008,11:30,Esteghlal,Payam Mashhad,5,0,H,NaN,NaN,NaN
+IRN,04/12/2008,10:30,Moghavemat Shahid Sepasi,Sepahan FC,1,0,H,NaN,NaN,NaN
+IRN,04/12/2008,10:30,Damash Gilan,Pas-Hamedan,1,0,H,NaN,NaN,NaN
+IRN,04/12/2008,10:45,Esteghlal Ahvaz,Bargh Shiraz,1,0,H,NaN,NaN,NaN
+IRN,04/12/2008,10:45,Paykan FC,Mes Kerman FC,1,1,D,NaN,NaN,NaN
+IRN,04/12/2008,10:45,Saba Qom FC,Saipa FC,2,0,H,NaN,NaN,NaN
+IRN,04/12/2008,10:45,FC Zob Ahan,Foolad FC,2,2,D,NaN,NaN,NaN
+IRN,04/12/2008,11:30,Rah Ahan,Persepolis,1,2,A,NaN,NaN,NaN
+IRN,07/12/2008,10:30,Abu Moslem,Esteghlal,0,2,A,NaN,NaN,NaN
+IRN,08/12/2008,10:30,Mes Kerman FC,FC Zob Ahan,2,2,D,NaN,NaN,NaN
+IRN,08/12/2008,10:30,Damash Gilan,Esteghlal Ahvaz,2,4,A,NaN,NaN,NaN
+IRN,08/12/2008,10:30,Sepahan FC,Pas-Hamedan,2,2,D,NaN,NaN,NaN
+IRN,08/12/2008,10:45,Foolad FC,Moghavemat Shahid Sepasi,0,1,A,NaN,NaN,NaN
+IRN,08/12/2008,10:45,Paykan FC,Saba Qom FC,0,1,A,NaN,NaN,NaN
+IRN,08/12/2008,10:45,Rah Ahan,Malavan FC,1,0,H,NaN,NaN,NaN
+IRN,09/12/2008,11:30,Persepolis,Saipa FC,1,1,D,NaN,NaN,NaN
+IRN,08/03/2009,11:45,Bargh Shiraz,Payam Mashhad,0,1,A,NaN,NaN,NaN
+IRN,12/12/2008,10:30,Moghavemat Shahid Sepasi,Rah Ahan,1,3,A,NaN,NaN,NaN
+IRN,12/12/2008,10:30,Payam Mashhad,Sepahan FC,2,2,D,NaN,NaN,NaN
+IRN,12/12/2008,10:45,Esteghlal Ahvaz,Mes Kerman FC,1,0,H,NaN,NaN,NaN
+IRN,12/12/2008,10:45,Malavan FC,Bargh Shiraz,1,0,H,NaN,NaN,NaN
+IRN,12/12/2008,10:45,Saba Qom FC,Abu Moslem,1,0,H,NaN,NaN,NaN
+IRN,12/12/2008,10:45,FC Zob Ahan,Paykan FC,2,0,H,NaN,NaN,NaN
+IRN,12/12/2008,11:30,Esteghlal,Damash Gilan,4,2,H,NaN,NaN,NaN
+IRN,13/12/2008,10:45,Saipa FC,Foolad FC,3,2,H,NaN,NaN,NaN
+IRN,13/12/2008,11:30,Pas-Hamedan,Persepolis,0,3,A,NaN,NaN,NaN
+IRN,29/12/2008,10:30,Abu Moslem,Pas-Hamedan,2,1,H,NaN,NaN,NaN
+IRN,29/12/2008,10:45,Foolad FC,Payam Mashhad,3,0,H,NaN,NaN,NaN
+IRN,29/12/2008,10:45,Rah Ahan,Esteghlal Ahvaz,2,2,D,NaN,NaN,NaN
+IRN,30/12/2008,10:00,Sepahan FC,Esteghlal,2,1,H,NaN,NaN,NaN
+IRN,30/12/2008,10:30,Bargh Shiraz,Saba Qom FC,1,2,A,NaN,NaN,NaN
+IRN,30/12/2008,10:30,Mes Kerman FC,Moghavemat Shahid Sepasi,2,0,H,NaN,NaN,NaN
+IRN,30/12/2008,10:45,Paykan FC,Saipa FC,0,2,A,NaN,NaN,NaN
+IRN,30/12/2008,12:00,Persepolis,Malavan FC,0,2,A,NaN,NaN,NaN
+IRN,11/01/2009,10:45,Damash Gilan,FC Zob Ahan,2,1,H,NaN,NaN,NaN
+IRN,03/01/2009,10:00,FC Zob Ahan,Persepolis,3,1,H,NaN,NaN,NaN
+IRN,03/01/2009,10:30,Moghavemat Shahid Sepasi,Paykan FC,1,2,A,NaN,NaN,NaN
+IRN,03/01/2009,10:30,Pas-Hamedan,Bargh Shiraz,1,0,H,NaN,NaN,NaN
+IRN,03/01/2009,10:30,Payam Mashhad,Damash Gilan,3,2,H,NaN,NaN,NaN
+IRN,03/01/2009,10:45,Malavan FC,Foolad FC,3,0,H,NaN,NaN,NaN
+IRN,03/01/2009,10:45,Saba Qom FC,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,03/01/2009,10:45,Saipa FC,Rah Ahan,1,0,H,NaN,NaN,NaN
+IRN,03/01/2009,12:00,Esteghlal,Mes Kerman FC,2,1,H,NaN,NaN,NaN
+IRN,04/01/2009,10:45,Esteghlal Ahvaz,Abu Moslem,1,3,A,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Abu Moslem,Paykan FC,1,0,H,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Esteghlal Ahvaz,Payam Mashhad,1,0,H,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Mes Kerman FC,Malavan FC,1,0,H,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Damash Gilan,Moghavemat Shahid Sepasi,1,1,D,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Rah Ahan,Pas-Hamedan,2,1,H,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Saba Qom FC,FC Zob Ahan,0,0,D,NaN,NaN,NaN
+IRN,16/01/2009,10:45,Sepahan FC,Saipa FC,2,0,H,NaN,NaN,NaN
+IRN,16/01/2009,11:30,Persepolis,Foolad FC,1,0,H,NaN,NaN,NaN
+IRN,17/01/2009,10:45,Bargh Shiraz,Esteghlal,1,4,A,NaN,NaN,NaN
+IRN,22/01/2009,11:00,Malavan FC,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,22/01/2009,11:00,Mes Kerman FC,Persepolis,1,1,D,NaN,NaN,NaN
+IRN,22/01/2009,11:00,Saipa FC,Damash Gilan,4,1,H,NaN,NaN,NaN
+IRN,23/01/2009,11:00,Foolad FC,Bargh Shiraz,3,1,H,NaN,NaN,NaN
+IRN,23/01/2009,11:00,Moghavemat Shahid Sepasi,Esteghlal Ahvaz,1,0,H,NaN,NaN,NaN
+IRN,23/01/2009,11:00,Payam Mashhad,Pas-Hamedan,1,4,A,NaN,NaN,NaN
+IRN,23/01/2009,11:00,Paykan FC,Rah Ahan,0,1,A,NaN,NaN,NaN
+IRN,23/01/2009,11:00,FC Zob Ahan,Abu Moslem,0,3,A,NaN,NaN,NaN
+IRN,23/01/2009,11:45,Esteghlal,Saba Qom FC,2,1,H,NaN,NaN,NaN
+IRN,30/01/2009,11:00,Abu Moslem,Foolad FC,1,2,A,NaN,NaN,NaN
+IRN,30/01/2009,11:00,Malavan FC,Paykan FC,1,1,D,NaN,NaN,NaN
+IRN,30/01/2009,11:00,Rah Ahan,Damash Gilan,1,0,H,NaN,NaN,NaN
+IRN,31/01/2009,10:00,Esteghlal Ahvaz,Esteghlal,0,3,A,NaN,NaN,NaN
+IRN,31/01/2009,11:00,Bargh Shiraz,Saipa FC,1,2,A,NaN,NaN,NaN
+IRN,31/01/2009,11:00,Pas-Hamedan,Mes Kerman FC,1,1,D,NaN,NaN,NaN
+IRN,31/01/2009,11:00,Saba Qom FC,Moghavemat Shahid Sepasi,2,0,H,NaN,NaN,NaN
+IRN,31/01/2009,11:00,Sepahan FC,FC Zob Ahan,1,2,A,NaN,NaN,NaN
+IRN,31/01/2009,12:15,Persepolis,Payam Mashhad,1,0,H,NaN,NaN,NaN
+IRN,04/02/2009,10:00,Damash Gilan,Persepolis,1,2,A,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Foolad FC,Sepahan FC,2,2,D,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Mes Kerman FC,Bargh Shiraz,2,1,H,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Moghavemat Shahid Sepasi,Abu Moslem,0,0,D,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Payam Mashhad,Saba Qom FC,1,1,D,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Paykan FC,Esteghlal Ahvaz,1,0,H,NaN,NaN,NaN
+IRN,04/02/2009,11:15,Saipa FC,Malavan FC,2,1,H,NaN,NaN,NaN
+IRN,04/02/2009,11:15,FC Zob Ahan,Pas-Hamedan,2,1,H,NaN,NaN,NaN
+IRN,04/02/2009,12:15,Rah Ahan,Esteghlal,1,5,A,NaN,NaN,NaN
+IRN,12/02/2009,11:30,Bargh Shiraz,Moghavemat Shahid Sepasi,1,2,A,NaN,NaN,NaN
+IRN,12/02/2009,11:30,Esteghlal Ahvaz,Foolad FC,0,1,A,NaN,NaN,NaN
+IRN,12/02/2009,11:30,Malavan FC,Pas-Hamedan,2,1,H,NaN,NaN,NaN
+IRN,12/02/2009,11:30,Paykan FC,Payam Mashhad,2,0,H,NaN,NaN,NaN
+IRN,13/02/2009,10:30,Esteghlal,Persepolis,1,1,D,NaN,NaN,NaN
+IRN,13/02/2009,11:30,Abu Moslem,Mes Kerman FC,1,1,D,NaN,NaN,NaN
+IRN,13/02/2009,11:30,Saba Qom FC,Damash Gilan,2,2,D,NaN,NaN,NaN
+IRN,13/02/2009,11:30,Saipa FC,FC Zob Ahan,1,0,H,NaN,NaN,NaN
+IRN,13/02/2009,11:30,Sepahan FC,Rah Ahan,2,0,H,NaN,NaN,NaN
+IRN,17/02/2009,11:30,Sepahan FC,Bargh Shiraz,1,0,H,NaN,NaN,NaN
+IRN,17/02/2009,12:30,Persepolis,Abu Moslem,1,0,H,NaN,NaN,NaN
+IRN,18/02/2009,10:30,Moghavemat Shahid Sepasi,Esteghlal,4,1,H,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Esteghlal Ahvaz,Saba Qom FC,1,1,D,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Mes Kerman FC,Foolad FC,3,2,H,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Pas-Hamedan,Saipa FC,2,1,H,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Payam Mashhad,Malavan FC,2,0,H,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Damash Gilan,Paykan FC,1,0,H,NaN,NaN,NaN
+IRN,18/02/2009,11:30,Rah Ahan,FC Zob Ahan,0,1,A,NaN,NaN,NaN
+IRN,21/02/2009,10:30,Bargh Shiraz,Persepolis,1,1,D,NaN,NaN,NaN
+IRN,22/02/2009,09:30,Malavan FC,Esteghlal Ahvaz,1,0,H,NaN,NaN,NaN
+IRN,22/02/2009,11:30,Abu Moslem,Payam Mashhad,1,1,D,NaN,NaN,NaN
+IRN,22/02/2009,11:30,Foolad FC,Damash Gilan,3,0,H,NaN,NaN,NaN
+IRN,22/02/2009,11:30,Paykan FC,Sepahan FC,0,1,A,NaN,NaN,NaN
+IRN,22/02/2009,11:30,Saba Qom FC,Rah Ahan,1,1,D,NaN,NaN,NaN
+IRN,22/02/2009,11:30,Saipa FC,Mes Kerman FC,1,1,D,NaN,NaN,NaN
+IRN,22/02/2009,11:30,FC Zob Ahan,Moghavemat Shahid Sepasi,3,1,H,NaN,NaN,NaN
+IRN,22/02/2009,12:30,Esteghlal,Pas-Hamedan,1,0,H,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Esteghlal Ahvaz,FC Zob Ahan,0,2,A,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Moghavemat Shahid Sepasi,Saipa FC,0,0,D,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Pas-Hamedan,Foolad FC,0,0,D,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Payam Mashhad,Mes Kerman FC,1,2,A,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Damash Gilan,Abu Moslem,1,0,H,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Rah Ahan,Bargh Shiraz,3,0,H,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Saba Qom FC,Malavan FC,3,0,H,NaN,NaN,NaN
+IRN,27/02/2009,11:30,Sepahan FC,Persepolis,0,0,D,NaN,NaN,NaN
+IRN,28/02/2009,10:30,Paykan FC,Esteghlal,1,1,D,NaN,NaN,NaN
+IRN,03/03/2009,11:45,Foolad FC,Saba Qom FC,2,2,D,NaN,NaN,NaN
+IRN,03/03/2009,12:30,Persepolis,Moghavemat Shahid Sepasi,1,2,A,NaN,NaN,NaN
+IRN,04/03/2009,10:45,Pas-Hamedan,Esteghlal Ahvaz,5,1,H,NaN,NaN,NaN
+IRN,04/03/2009,11:45,Abu Moslem,Rah Ahan,0,0,D,NaN,NaN,NaN
+IRN,04/03/2009,11:45,Bargh Shiraz,Paykan FC,1,2,A,NaN,NaN,NaN
+IRN,04/03/2009,11:45,Malavan FC,Damash Gilan,1,1,D,NaN,NaN,NaN
+IRN,04/03/2009,11:45,Mes Kerman FC,Sepahan FC,2,1,H,NaN,NaN,NaN
+IRN,04/03/2009,11:45,Saipa FC,Payam Mashhad,1,2,A,NaN,NaN,NaN
+IRN,04/03/2009,11:45,FC Zob Ahan,Esteghlal,1,1,D,NaN,NaN,NaN
+IRN,03/04/2009,12:10,Saba Qom FC,Persepolis,2,0,H,NaN,NaN,NaN
+IRN,03/04/2009,13:00,Abu Moslem,Bargh Shiraz,1,1,D,NaN,NaN,NaN
+IRN,03/04/2009,13:15,Moghavemat Shahid Sepasi,Pas-Hamedan,0,1,A,NaN,NaN,NaN
+IRN,03/04/2009,13:30,Esteghlal Ahvaz,Saipa FC,3,1,H,NaN,NaN,NaN
+IRN,03/04/2009,13:30,Paykan FC,Foolad FC,0,1,A,NaN,NaN,NaN
+IRN,03/04/2009,13:30,Damash Gilan,Sepahan FC,1,1,D,NaN,NaN,NaN
+IRN,03/04/2009,13:30,Rah Ahan,Mes Kerman FC,0,1,A,NaN,NaN,NaN
+IRN,03/04/2009,13:30,FC Zob Ahan,Payam Mashhad,2,0,H,NaN,NaN,NaN
+IRN,03/04/2009,14:10,Esteghlal,Malavan FC,3,0,H,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Bargh Shiraz,FC Zob Ahan,1,2,A,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Foolad FC,Esteghlal,0,0,D,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Malavan FC,Moghavemat Shahid Sepasi,1,0,H,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Mes Kerman FC,Damash Gilan,1,0,H,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Pas-Hamedan,Saba Qom FC,0,0,D,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Payam Mashhad,Rah Ahan,2,1,H,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Saipa FC,Abu Moslem,0,0,D,NaN,NaN,NaN
+IRN,12/04/2009,13:15,Sepahan FC,Esteghlal Ahvaz,2,1,H,NaN,NaN,NaN
+IRN,12/04/2009,15:15,Persepolis,Paykan FC,2,1,H,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Abu Moslem,Sepahan FC,1,2,A,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Esteghlal Ahvaz,Persepolis,2,1,H,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Esteghlal,Saipa FC,1,1,D,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Moghavemat Shahid Sepasi,Payam Mashhad,0,1,A,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Paykan FC,Pas-Hamedan,1,0,H,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Damash Gilan,Bargh Shiraz,3,1,H,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Rah Ahan,Foolad FC,2,1,H,NaN,NaN,NaN
+IRN,16/04/2009,13:45,Saba Qom FC,Mes Kerman FC,1,3,A,NaN,NaN,NaN
+IRN,16/04/2009,13:45,FC Zob Ahan,Malavan FC,3,0,H,NaN,NaN,NaN
+IRN,26/04/2009,11:30,Persepolis,Rah Ahan,2,0,H,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Bargh Shiraz,Esteghlal Ahvaz,0,3,A,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Foolad FC,FC Zob Ahan,4,1,H,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Malavan FC,Abu Moslem,0,0,D,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Mes Kerman FC,Paykan FC,4,0,H,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Pas-Hamedan,Damash Gilan,3,3,D,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Payam Mashhad,Esteghlal,0,1,A,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Saipa FC,Saba Qom FC,2,4,A,NaN,NaN,NaN
+IRN,26/04/2009,13:45,Sepahan FC,Moghavemat Shahid Sepasi,0,0,D,NaN,NaN,NaN

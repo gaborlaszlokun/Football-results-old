@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,13/09/1953,,Inter,Lazio Roma,2,0,H,NaN,NaN,NaN
+ITA,13/09/1953,,Juventus,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,13/09/1953,,Legnano,ACF Fiorentina,1,2,A,NaN,NaN,NaN
+ITA,13/09/1953,,SSC Napoli,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,13/09/1953,,Novara Calcio,SPAL 1907 Ferrara,4,2,H,NaN,NaN,NaN
+ITA,13/09/1953,,AS Roma,Genoa CFC,4,0,H,NaN,NaN,NaN
+ITA,13/09/1953,,Sampdoria,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,13/09/1953,,Udinese Calcio,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,13/09/1953,,Bologna FC,Atalanta,2,1,H,NaN,NaN,NaN
+ITA,20/09/1953,,ACF Fiorentina,AS Roma,2,0,H,NaN,NaN,NaN
+ITA,20/09/1953,,Unione Triestina,Bologna FC,3,1,H,NaN,NaN,NaN
+ITA,20/09/1953,,Torino FC,SSC Napoli,0,2,A,NaN,NaN,NaN
+ITA,20/09/1953,,SPAL 1907 Ferrara,Sampdoria,2,1,H,NaN,NaN,NaN
+ITA,20/09/1953,,US Palermo,Udinese Calcio,4,0,H,NaN,NaN,NaN
+ITA,20/09/1953,,AC Milan,Novara Calcio,0,0,D,NaN,NaN,NaN
+ITA,20/09/1953,,Genoa CFC,Juventus,1,3,A,NaN,NaN,NaN
+ITA,20/09/1953,,Atalanta,Inter,0,2,A,NaN,NaN,NaN
+ITA,20/09/1953,,Lazio Roma,Legnano,1,1,D,NaN,NaN,NaN
+ITA,27/09/1953,,US Palermo,Legnano,3,3,D,NaN,NaN,NaN
+ITA,27/09/1953,,Inter,SPAL 1907 Ferrara,4,2,H,NaN,NaN,NaN
+ITA,27/09/1953,,Unione Triestina,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,27/09/1953,,Sampdoria,AC Milan,2,1,H,NaN,NaN,NaN
+ITA,27/09/1953,,AS Roma,Udinese Calcio,3,0,H,NaN,NaN,NaN
+ITA,27/09/1953,,Bologna FC,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,27/09/1953,,Juventus,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,27/09/1953,,SSC Napoli,Atalanta,6,3,H,NaN,NaN,NaN
+ITA,27/09/1953,,Novara Calcio,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,04/10/1953,,Legnano,Inter,1,1,D,NaN,NaN,NaN
+ITA,04/10/1953,,Udinese Calcio,Sampdoria,1,2,A,NaN,NaN,NaN
+ITA,04/10/1953,,Torino FC,Novara Calcio,1,0,H,NaN,NaN,NaN
+ITA,04/10/1953,,AC Milan,Unione Triestina,4,0,H,NaN,NaN,NaN
+ITA,04/10/1953,,Lazio Roma,Juventus,2,1,H,NaN,NaN,NaN
+ITA,04/10/1953,,Genoa CFC,Bologna FC,3,3,D,NaN,NaN,NaN
+ITA,04/10/1953,,ACF Fiorentina,US Palermo,3,1,H,NaN,NaN,NaN
+ITA,04/10/1953,,Atalanta,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,04/10/1953,,SPAL 1907 Ferrara,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,11/10/1953,,Genoa CFC,Atalanta,1,0,H,NaN,NaN,NaN
+ITA,11/10/1953,,SSC Napoli,AC Milan,0,1,A,NaN,NaN,NaN
+ITA,11/10/1953,,Unione Triestina,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,11/10/1953,,AS Roma,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,11/10/1953,,Novara Calcio,Udinese Calcio,0,0,D,NaN,NaN,NaN
+ITA,11/10/1953,,Bologna FC,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,11/10/1953,,Inter,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,11/10/1953,,Juventus,Sampdoria,1,0,H,NaN,NaN,NaN
+ITA,11/10/1953,,Legnano,SPAL 1907 Ferrara,1,3,A,NaN,NaN,NaN
+ITA,18/10/1953,,Lazio Roma,SSC Napoli,0,4,A,NaN,NaN,NaN
+ITA,18/10/1953,,Udinese Calcio,Unione Triestina,4,2,H,NaN,NaN,NaN
+ITA,18/10/1953,,Torino FC,Juventus,2,4,A,NaN,NaN,NaN
+ITA,18/10/1953,,SPAL 1907 Ferrara,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,18/10/1953,,US Palermo,AC Milan,1,4,A,NaN,NaN,NaN
+ITA,18/10/1953,,Inter,Bologna FC,3,2,H,NaN,NaN,NaN
+ITA,18/10/1953,,ACF Fiorentina,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,18/10/1953,,Atalanta,Novara Calcio,1,1,D,NaN,NaN,NaN
+ITA,18/10/1953,,Sampdoria,Legnano,3,1,H,NaN,NaN,NaN
+ITA,25/10/1953,,AC Milan,Atalanta,3,3,D,NaN,NaN,NaN
+ITA,25/10/1953,,Torino FC,Lazio Roma,0,1,A,NaN,NaN,NaN
+ITA,25/10/1953,,AS Roma,Inter,1,1,D,NaN,NaN,NaN
+ITA,25/10/1953,,Udinese Calcio,SPAL 1907 Ferrara,1,1,D,NaN,NaN,NaN
+ITA,25/10/1953,,Legnano,Juventus,1,1,D,NaN,NaN,NaN
+ITA,25/10/1953,,Genoa CFC,Novara Calcio,2,0,H,NaN,NaN,NaN
+ITA,25/10/1953,,Bologna FC,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,25/10/1953,,US Palermo,Sampdoria,2,1,H,NaN,NaN,NaN
+ITA,25/10/1953,,SSC Napoli,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,01/11/1953,,Juventus,Udinese Calcio,1,0,H,NaN,NaN,NaN
+ITA,01/11/1953,,Unione Triestina,AS Roma,2,2,D,NaN,NaN,NaN
+ITA,01/11/1953,,SPAL 1907 Ferrara,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,01/11/1953,,Novara Calcio,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,01/11/1953,,Lazio Roma,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,01/11/1953,,Inter,AC Milan,3,0,H,NaN,NaN,NaN
+ITA,01/11/1953,,Genoa CFC,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,01/11/1953,,Atalanta,Legnano,4,1,H,NaN,NaN,NaN
+ITA,01/11/1953,,SSC Napoli,Sampdoria,1,1,D,NaN,NaN,NaN
+ITA,08/11/1953,,Sampdoria,Inter,0,0,D,NaN,NaN,NaN
+ITA,08/11/1953,,AC Milan,Genoa CFC,3,0,H,NaN,NaN,NaN
+ITA,08/11/1953,,Torino FC,SPAL 1907 Ferrara,1,0,H,NaN,NaN,NaN
+ITA,08/11/1953,,AS Roma,Novara Calcio,3,0,H,NaN,NaN,NaN
+ITA,08/11/1953,,ACF Fiorentina,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,08/11/1953,,Atalanta,US Palermo,0,1,A,NaN,NaN,NaN
+ITA,08/11/1953,,Bologna FC,Juventus,0,1,A,NaN,NaN,NaN
+ITA,08/11/1953,,Udinese Calcio,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,08/11/1953,,Legnano,Unione Triestina,2,1,H,NaN,NaN,NaN
+ITA,22/11/1953,,AC Milan,Legnano,3,1,H,NaN,NaN,NaN
+ITA,22/11/1953,,Unione Triestina,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,22/11/1953,,SPAL 1907 Ferrara,Atalanta,3,2,H,NaN,NaN,NaN
+ITA,22/11/1953,,US Palermo,AS Roma,1,3,A,NaN,NaN,NaN
+ITA,22/11/1953,,SSC Napoli,Udinese Calcio,2,1,H,NaN,NaN,NaN
+ITA,22/11/1953,,Lazio Roma,ACF Fiorentina,2,3,A,NaN,NaN,NaN
+ITA,22/11/1953,,Juventus,Inter,2,2,D,NaN,NaN,NaN
+ITA,22/11/1953,,Genoa CFC,Sampdoria,0,1,A,NaN,NaN,NaN
+ITA,22/11/1953,,Novara Calcio,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,29/11/1953,,Sampdoria,Novara Calcio,3,1,H,NaN,NaN,NaN
+ITA,29/11/1953,,Torino FC,AC Milan,1,4,A,NaN,NaN,NaN
+ITA,29/11/1953,,Udinese Calcio,Atalanta,2,2,D,NaN,NaN,NaN
+ITA,29/11/1953,,SPAL 1907 Ferrara,Juventus,1,3,A,NaN,NaN,NaN
+ITA,29/11/1953,,US Palermo,Genoa CFC,2,1,H,NaN,NaN,NaN
+ITA,29/11/1953,,Legnano,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,29/11/1953,,ACF Fiorentina,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,29/11/1953,,Inter,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,29/11/1953,,AS Roma,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,06/12/1953,,Novara Calcio,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,06/12/1953,,Atalanta,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,06/12/1953,,Unione Triestina,Sampdoria,2,1,H,NaN,NaN,NaN
+ITA,06/12/1953,,Lazio Roma,SPAL 1907 Ferrara,2,1,H,NaN,NaN,NaN
+ITA,06/12/1953,,Juventus,AS Roma,3,0,H,NaN,NaN,NaN
+ITA,06/12/1953,,Genoa CFC,Legnano,2,1,H,NaN,NaN,NaN
+ITA,06/12/1953,,ACF Fiorentina,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,06/12/1953,,Bologna FC,SSC Napoli,0,0,D,NaN,NaN,NaN
+ITA,06/12/1953,,Inter,Udinese Calcio,0,2,A,NaN,NaN,NaN
+ITA,20/12/1953,,SSC Napoli,Legnano,1,0,H,NaN,NaN,NaN
+ITA,20/12/1953,,Udinese Calcio,Bologna FC,3,2,H,NaN,NaN,NaN
+ITA,20/12/1953,,Torino FC,US Palermo,2,1,H,NaN,NaN,NaN
+ITA,20/12/1953,,SPAL 1907 Ferrara,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,20/12/1953,,Atalanta,Unione Triestina,4,2,H,NaN,NaN,NaN
+ITA,20/12/1953,,Novara Calcio,Inter,2,3,A,NaN,NaN,NaN
+ITA,20/12/1953,,AC Milan,Juventus,1,0,H,NaN,NaN,NaN
+ITA,20/12/1953,,Lazio Roma,Genoa CFC,3,0,H,NaN,NaN,NaN
+ITA,20/12/1953,,Sampdoria,AS Roma,2,1,H,NaN,NaN,NaN
+ITA,27/12/1953,,US Palermo,SPAL 1907 Ferrara,1,0,H,NaN,NaN,NaN
+ITA,27/12/1953,,Sampdoria,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,27/12/1953,,Unione Triestina,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,27/12/1953,,AS Roma,SSC Napoli,0,0,D,NaN,NaN,NaN
+ITA,27/12/1953,,Juventus,Novara Calcio,0,0,D,NaN,NaN,NaN
+ITA,27/12/1953,,Inter,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,27/12/1953,,Bologna FC,AC Milan,2,1,H,NaN,NaN,NaN
+ITA,27/12/1953,,ACF Fiorentina,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,27/12/1953,,Legnano,Udinese Calcio,0,0,D,NaN,NaN,NaN
+ITA,03/01/1954,,Inter,US Palermo,4,0,H,NaN,NaN,NaN
+ITA,03/01/1954,,SPAL 1907 Ferrara,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,03/01/1954,,Novara Calcio,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,03/01/1954,,Legnano,Torino FC,0,0,D,NaN,NaN,NaN
+ITA,03/01/1954,,Juventus,Atalanta,2,0,H,NaN,NaN,NaN
+ITA,03/01/1954,,Genoa CFC,Udinese Calcio,4,1,H,NaN,NaN,NaN
+ITA,03/01/1954,,ACF Fiorentina,Sampdoria,2,0,H,NaN,NaN,NaN
+ITA,03/01/1954,,Bologna FC,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,03/01/1954,,Lazio Roma,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,10/01/1954,,Novara Calcio,Unione Triestina,2,0,H,NaN,NaN,NaN
+ITA,10/01/1954,,Torino FC,Inter,1,1,D,NaN,NaN,NaN
+ITA,10/01/1954,,Sampdoria,Bologna FC,2,2,D,NaN,NaN,NaN
+ITA,10/01/1954,,Udinese Calcio,ACF Fiorentina,1,2,A,NaN,NaN,NaN
+ITA,10/01/1954,,SSC Napoli,Genoa CFC,0,2,A,NaN,NaN,NaN
+ITA,10/01/1954,,AC Milan,SPAL 1907 Ferrara,6,1,H,NaN,NaN,NaN
+ITA,10/01/1954,,Atalanta,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,10/01/1954,,AS Roma,Legnano,5,3,H,NaN,NaN,NaN
+ITA,10/01/1954,,US Palermo,Juventus,1,3,A,NaN,NaN,NaN
+ITA,17/01/1954,,Legnano,Novara Calcio,5,1,H,NaN,NaN,NaN
+ITA,17/01/1954,,Unione Triestina,Inter,0,0,D,NaN,NaN,NaN
+ITA,17/01/1954,,Torino FC,Udinese Calcio,1,0,H,NaN,NaN,NaN
+ITA,17/01/1954,,US Palermo,Bologna FC,3,1,H,NaN,NaN,NaN
+ITA,17/01/1954,,AC Milan,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,17/01/1954,,Lazio Roma,Sampdoria,3,0,H,NaN,NaN,NaN
+ITA,17/01/1954,,Genoa CFC,SPAL 1907 Ferrara,1,0,H,NaN,NaN,NaN
+ITA,17/01/1954,,ACF Fiorentina,Atalanta,3,0,H,NaN,NaN,NaN
+ITA,17/01/1954,,SSC Napoli,Juventus,1,2,A,NaN,NaN,NaN
+ITA,31/01/1954,,US Palermo,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,31/01/1954,,ACF Fiorentina,Legnano,4,0,H,NaN,NaN,NaN
+ITA,31/01/1954,,Unione Triestina,Juventus,2,2,D,NaN,NaN,NaN
+ITA,31/01/1954,,Torino FC,Sampdoria,2,0,H,NaN,NaN,NaN
+ITA,31/01/1954,,SPAL 1907 Ferrara,Novara Calcio,2,1,H,NaN,NaN,NaN
+ITA,31/01/1954,,Atalanta,Bologna FC,1,3,A,NaN,NaN,NaN
+ITA,31/01/1954,,Genoa CFC,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,31/01/1954,,Lazio Roma,Inter,0,1,A,NaN,NaN,NaN
+ITA,31/01/1954,,AC Milan,Udinese Calcio,2,1,H,NaN,NaN,NaN
+ITA,07/02/1954,,Legnano,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,07/02/1954,,Sampdoria,SPAL 1907 Ferrara,0,0,D,NaN,NaN,NaN
+ITA,07/02/1954,,AS Roma,ACF Fiorentina,1,2,A,NaN,NaN,NaN
+ITA,07/02/1954,,SSC Napoli,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,07/02/1954,,Udinese Calcio,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,07/02/1954,,Juventus,Genoa CFC,3,1,H,NaN,NaN,NaN
+ITA,07/02/1954,,Inter,Atalanta,3,1,H,NaN,NaN,NaN
+ITA,07/02/1954,,Bologna FC,Unione Triestina,4,0,H,NaN,NaN,NaN
+ITA,07/02/1954,,Novara Calcio,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,14/02/1954,,Legnano,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,14/02/1954,,Torino FC,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,14/02/1954,,SPAL 1907 Ferrara,Inter,2,2,D,NaN,NaN,NaN
+ITA,14/02/1954,,AC Milan,Sampdoria,1,1,D,NaN,NaN,NaN
+ITA,14/02/1954,,Lazio Roma,Novara Calcio,2,1,H,NaN,NaN,NaN
+ITA,14/02/1954,,Genoa CFC,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,14/02/1954,,Atalanta,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,14/02/1954,,Udinese Calcio,AS Roma,2,1,H,NaN,NaN,NaN
+ITA,14/02/1954,,ACF Fiorentina,Juventus,1,1,D,NaN,NaN,NaN
+ITA,21/02/1954,,US Palermo,ACF Fiorentina,0,1,A,NaN,NaN,NaN
+ITA,21/02/1954,,Unione Triestina,AC Milan,0,6,A,NaN,NaN,NaN
+ITA,21/02/1954,,Sampdoria,Udinese Calcio,1,1,D,NaN,NaN,NaN
+ITA,21/02/1954,,AS Roma,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,21/02/1954,,SSC Napoli,SPAL 1907 Ferrara,3,1,H,NaN,NaN,NaN
+ITA,21/02/1954,,Juventus,Lazio Roma,0,0,D,NaN,NaN,NaN
+ITA,21/02/1954,,Bologna FC,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,21/02/1954,,Inter,Legnano,2,2,D,NaN,NaN,NaN
+ITA,21/02/1954,,Novara Calcio,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,AC Milan,SSC Napoli,3,2,H,NaN,NaN,NaN
+ITA,28/02/1954,,Udinese Calcio,Novara Calcio,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,Torino FC,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,SPAL 1907 Ferrara,Legnano,1,0,H,NaN,NaN,NaN
+ITA,28/02/1954,,US Palermo,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,Lazio Roma,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,ACF Fiorentina,Inter,1,1,D,NaN,NaN,NaN
+ITA,28/02/1954,,Atalanta,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,28/02/1954,,Sampdoria,Juventus,0,1,A,NaN,NaN,NaN
+ITA,07/03/1954,,SSC Napoli,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,07/03/1954,,Unione Triestina,Udinese Calcio,2,1,H,NaN,NaN,NaN
+ITA,07/03/1954,,AS Roma,SPAL 1907 Ferrara,3,0,H,NaN,NaN,NaN
+ITA,07/03/1954,,Novara Calcio,Atalanta,0,4,A,NaN,NaN,NaN
+ITA,07/03/1954,,Legnano,Sampdoria,2,2,D,NaN,NaN,NaN
+ITA,07/03/1954,,Juventus,Torino FC,0,0,D,NaN,NaN,NaN
+ITA,07/03/1954,,Genoa CFC,ACF Fiorentina,1,3,A,NaN,NaN,NaN
+ITA,07/03/1954,,Bologna FC,Inter,0,1,A,NaN,NaN,NaN
+ITA,07/03/1954,,AC Milan,US Palermo,2,1,H,NaN,NaN,NaN
+ITA,14/03/1954,,Juventus,Legnano,2,1,H,NaN,NaN,NaN
+ITA,14/03/1954,,Unione Triestina,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,14/03/1954,,SPAL 1907 Ferrara,Udinese Calcio,2,1,H,NaN,NaN,NaN
+ITA,14/03/1954,,Sampdoria,US Palermo,2,2,D,NaN,NaN,NaN
+ITA,14/03/1954,,Lazio Roma,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,14/03/1954,,Inter,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,14/03/1954,,ACF Fiorentina,Bologna FC,1,3,A,NaN,NaN,NaN
+ITA,14/03/1954,,Atalanta,AC Milan,3,1,H,NaN,NaN,NaN
+ITA,14/03/1954,,Novara Calcio,Genoa CFC,2,0,H,NaN,NaN,NaN
+ITA,21/03/1954,,AC Milan,Inter,2,0,H,NaN,NaN,NaN
+ITA,21/03/1954,,Torino FC,Genoa CFC,3,2,H,NaN,NaN,NaN
+ITA,21/03/1954,,Sampdoria,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,21/03/1954,,Udinese Calcio,Juventus,0,2,A,NaN,NaN,NaN
+ITA,21/03/1954,,Legnano,Atalanta,1,2,A,NaN,NaN,NaN
+ITA,21/03/1954,,ACF Fiorentina,Novara Calcio,2,0,H,NaN,NaN,NaN
+ITA,21/03/1954,,Bologna FC,SPAL 1907 Ferrara,2,1,H,NaN,NaN,NaN
+ITA,21/03/1954,,AS Roma,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,21/03/1954,,US Palermo,Lazio Roma,2,0,H,NaN,NaN,NaN
+ITA,28/03/1954,,Lazio Roma,Udinese Calcio,0,1,A,NaN,NaN,NaN
+ITA,28/03/1954,,Unione Triestina,Legnano,2,1,H,NaN,NaN,NaN
+ITA,28/03/1954,,SPAL 1907 Ferrara,Torino FC,2,3,A,NaN,NaN,NaN
+ITA,28/03/1954,,US Palermo,Atalanta,0,0,D,NaN,NaN,NaN
+ITA,28/03/1954,,SSC Napoli,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,28/03/1954,,Juventus,Bologna FC,2,2,D,NaN,NaN,NaN
+ITA,28/03/1954,,Inter,Sampdoria,2,1,H,NaN,NaN,NaN
+ITA,28/03/1954,,Genoa CFC,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,28/03/1954,,Novara Calcio,AS Roma,2,0,H,NaN,NaN,NaN
+ITA,04/04/1954,,AS Roma,US Palermo,3,1,H,NaN,NaN,NaN
+ITA,04/04/1954,,Torino FC,Unione Triestina,1,1,D,NaN,NaN,NaN
+ITA,04/04/1954,,Udinese Calcio,SSC Napoli,3,3,D,NaN,NaN,NaN
+ITA,04/04/1954,,Sampdoria,Genoa CFC,0,0,D,NaN,NaN,NaN
+ITA,04/04/1954,,Inter,Juventus,6,0,H,NaN,NaN,NaN
+ITA,04/04/1954,,ACF Fiorentina,Lazio Roma,0,1,A,NaN,NaN,NaN
+ITA,04/04/1954,,Atalanta,SPAL 1907 Ferrara,0,1,A,NaN,NaN,NaN
+ITA,04/04/1954,,Bologna FC,Novara Calcio,2,0,H,NaN,NaN,NaN
+ITA,04/04/1954,,Legnano,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,18/04/1954,,Juventus,SPAL 1907 Ferrara,3,1,H,NaN,NaN,NaN
+ITA,18/04/1954,,Unione Triestina,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,18/04/1954,,Novara Calcio,Sampdoria,3,0,H,NaN,NaN,NaN
+ITA,18/04/1954,,SSC Napoli,Inter,2,1,H,NaN,NaN,NaN
+ITA,18/04/1954,,Lazio Roma,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,18/04/1954,,Genoa CFC,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,18/04/1954,,Bologna FC,Legnano,2,0,H,NaN,NaN,NaN
+ITA,18/04/1954,,Atalanta,Udinese Calcio,6,0,H,NaN,NaN,NaN
+ITA,18/04/1954,,AC Milan,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,25/04/1954,,US Palermo,Novara Calcio,1,1,D,NaN,NaN,NaN
+ITA,25/04/1954,,Udinese Calcio,Inter,0,2,A,NaN,NaN,NaN
+ITA,25/04/1954,,Torino FC,Atalanta,1,3,A,NaN,NaN,NaN
+ITA,25/04/1954,,SPAL 1907 Ferrara,Lazio Roma,0,1,A,NaN,NaN,NaN
+ITA,25/04/1954,,SSC Napoli,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,25/04/1954,,AC Milan,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,25/04/1954,,Legnano,Genoa CFC,1,1,D,NaN,NaN,NaN
+ITA,25/04/1954,,Sampdoria,Unione Triestina,2,1,H,NaN,NaN,NaN
+ITA,25/04/1954,,AS Roma,Juventus,1,1,D,NaN,NaN,NaN
+ITA,02/05/1954,,Inter,Novara Calcio,3,1,H,NaN,NaN,NaN
+ITA,02/05/1954,,Unione Triestina,Atalanta,3,2,H,NaN,NaN,NaN
+ITA,02/05/1954,,AS Roma,Sampdoria,3,1,H,NaN,NaN,NaN
+ITA,02/05/1954,,US Palermo,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,02/05/1954,,Juventus,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,02/05/1954,,Genoa CFC,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,02/05/1954,,ACF Fiorentina,SPAL 1907 Ferrara,1,1,D,NaN,NaN,NaN
+ITA,02/05/1954,,Bologna FC,Udinese Calcio,3,1,H,NaN,NaN,NaN
+ITA,02/05/1954,,Legnano,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,09/05/1954,,AC Milan,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,09/05/1954,,Torino FC,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,09/05/1954,,SPAL 1907 Ferrara,US Palermo,0,1,A,NaN,NaN,NaN
+ITA,09/05/1954,,Udinese Calcio,Legnano,1,2,A,NaN,NaN,NaN
+ITA,09/05/1954,,Lazio Roma,Unione Triestina,5,1,H,NaN,NaN,NaN
+ITA,09/05/1954,,Genoa CFC,Inter,1,3,A,NaN,NaN,NaN
+ITA,09/05/1954,,Atalanta,Sampdoria,1,1,D,NaN,NaN,NaN
+ITA,09/05/1954,,Novara Calcio,Juventus,0,1,A,NaN,NaN,NaN
+ITA,09/05/1954,,SSC Napoli,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,16/05/1954,,US Palermo,Inter,2,2,D,NaN,NaN,NaN
+ITA,16/05/1954,,Udinese Calcio,Genoa CFC,3,1,H,NaN,NaN,NaN
+ITA,16/05/1954,,Unione Triestina,SPAL 1907 Ferrara,3,0,H,NaN,NaN,NaN
+ITA,16/05/1954,,Torino FC,Legnano,2,2,D,NaN,NaN,NaN
+ITA,16/05/1954,,AS Roma,Bologna FC,1,3,A,NaN,NaN,NaN
+ITA,16/05/1954,,SSC Napoli,Novara Calcio,5,1,H,NaN,NaN,NaN
+ITA,16/05/1954,,AC Milan,Lazio Roma,3,2,H,NaN,NaN,NaN
+ITA,16/05/1954,,Atalanta,Juventus,3,2,H,NaN,NaN,NaN
+ITA,16/05/1954,,Sampdoria,ACF Fiorentina,2,0,H,NaN,NaN,NaN
+ITA,23/05/1954,,Inter,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,23/05/1954,,SPAL 1907 Ferrara,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,23/05/1954,,Legnano,AS Roma,2,2,D,NaN,NaN,NaN
+ITA,23/05/1954,,Unione Triestina,Novara Calcio,3,1,H,NaN,NaN,NaN
+ITA,23/05/1954,,Genoa CFC,SSC Napoli,1,1,D,NaN,NaN,NaN
+ITA,23/05/1954,,ACF Fiorentina,Udinese Calcio,0,0,D,NaN,NaN,NaN
+ITA,23/05/1954,,Bologna FC,Sampdoria,0,2,A,NaN,NaN,NaN
+ITA,23/05/1954,,Lazio Roma,Atalanta,2,2,D,NaN,NaN,NaN
+ITA,23/05/1954,,Juventus,US Palermo,4,1,H,NaN,NaN,NaN
+ITA,30/05/1954,,Juventus,SSC Napoli,3,2,H,NaN,NaN,NaN
+ITA,30/05/1954,,SPAL 1907 Ferrara,Genoa CFC,1,0,H,NaN,NaN,NaN
+ITA,30/05/1954,,Sampdoria,Lazio Roma,0,0,D,NaN,NaN,NaN
+ITA,30/05/1954,,Novara Calcio,Legnano,0,0,D,NaN,NaN,NaN
+ITA,30/05/1954,,Inter,Unione Triestina,4,2,H,NaN,NaN,NaN
+ITA,30/05/1954,,Bologna FC,US Palermo,0,1,A,NaN,NaN,NaN
+ITA,30/05/1954,,Atalanta,ACF Fiorentina,1,1,D,NaN,NaN,NaN
+ITA,30/05/1954,,Udinese Calcio,Torino FC,3,0,H,NaN,NaN,NaN
+ITA,30/05/1954,,AS Roma,AC Milan,1,2,A,NaN,NaN,NaN

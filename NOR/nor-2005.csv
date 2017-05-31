@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NOR,10/04/2005,17:00,Lyn Oslo,Fredrikstad FK,1,1,D,NaN,NaN,NaN
+NOR,10/04/2005,17:00,Odd Grenland,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,10/04/2005,17:00,Rosenborg BK,Aalesunds FK,2,2,D,NaN,NaN,NaN
+NOR,10/04/2005,17:00,IK Start,Lillestrøm SK,3,1,H,NaN,NaN,NaN
+NOR,10/04/2005,17:00,Viking FK,FK Bodø/Glimt,2,1,H,NaN,NaN,NaN
+NOR,10/04/2005,19:15,Hamarkameratene,Vålerenga IF,3,1,H,NaN,NaN,NaN
+NOR,11/04/2005,18:00,SK Brann,Molde FK,2,0,H,NaN,NaN,NaN
+NOR,16/04/2005,18:05,Aalesunds FK,Odd Grenland,2,1,H,NaN,NaN,NaN
+NOR,17/04/2005,17:00,FK Bodø/Glimt,Rosenborg BK,0,1,A,NaN,NaN,NaN
+NOR,17/04/2005,17:00,Lillestrøm SK,Lyn Oslo,1,0,H,NaN,NaN,NaN
+NOR,17/04/2005,17:00,Molde FK,IK Start,0,1,A,NaN,NaN,NaN
+NOR,17/04/2005,17:00,Tromsø IL,Hamarkameratene,1,0,H,NaN,NaN,NaN
+NOR,17/04/2005,19:05,Vålerenga IF,SK Brann,2,1,H,NaN,NaN,NaN
+NOR,18/04/2005,18:00,Fredrikstad FK,Viking FK,2,1,H,NaN,NaN,NaN
+NOR,24/04/2005,17:00,Lyn Oslo,IK Start,1,1,D,NaN,NaN,NaN
+NOR,24/04/2005,17:00,Hamarkameratene,Aalesunds FK,2,1,H,NaN,NaN,NaN
+NOR,24/04/2005,17:00,Molde FK,Vålerenga IF,1,3,A,NaN,NaN,NaN
+NOR,24/04/2005,17:00,Odd Grenland,FK Bodø/Glimt,2,1,H,NaN,NaN,NaN
+NOR,24/04/2005,17:00,Viking FK,Lillestrøm SK,3,1,H,NaN,NaN,NaN
+NOR,24/04/2005,19:15,Rosenborg BK,Fredrikstad FK,0,1,A,NaN,NaN,NaN
+NOR,25/04/2005,18:00,SK Brann,Tromsø IL,0,0,D,NaN,NaN,NaN
+NOR,01/05/2005,17:00,FK Bodø/Glimt,Hamarkameratene,2,0,H,NaN,NaN,NaN
+NOR,01/05/2005,17:00,Lyn Oslo,Molde FK,6,1,H,NaN,NaN,NaN
+NOR,01/05/2005,17:00,Fredrikstad FK,Odd Grenland,1,1,D,NaN,NaN,NaN
+NOR,01/05/2005,17:00,IK Start,Viking FK,5,2,H,NaN,NaN,NaN
+NOR,01/05/2005,17:00,Tromsø IL,Vålerenga IF,0,1,A,NaN,NaN,NaN
+NOR,01/05/2005,19:05,Lillestrøm SK,Rosenborg BK,1,1,D,NaN,NaN,NaN
+NOR,02/05/2005,18:00,Aalesunds FK,SK Brann,1,3,A,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Hamarkameratene,Fredrikstad FK,1,1,D,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Molde FK,Tromsø IL,2,1,H,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Odd Grenland,Lillestrøm SK,0,2,A,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Rosenborg BK,IK Start,3,0,H,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Viking FK,Lyn Oslo,0,0,D,NaN,NaN,NaN
+NOR,05/05/2005,17:00,Vålerenga IF,Aalesunds FK,3,1,H,NaN,NaN,NaN
+NOR,05/05/2005,19:05,SK Brann,FK Bodø/Glimt,2,3,A,NaN,NaN,NaN
+NOR,08/05/2005,17:00,FK Bodø/Glimt,Vålerenga IF,0,1,A,NaN,NaN,NaN
+NOR,08/05/2005,17:00,Lillestrøm SK,Hamarkameratene,1,0,H,NaN,NaN,NaN
+NOR,08/05/2005,17:00,IK Start,Odd Grenland,4,0,H,NaN,NaN,NaN
+NOR,08/05/2005,17:00,Viking FK,Molde FK,2,3,A,NaN,NaN,NaN
+NOR,08/05/2005,17:00,Aalesunds FK,Tromsø IL,0,1,A,NaN,NaN,NaN
+NOR,08/05/2005,19:05,Lyn Oslo,Rosenborg BK,3,2,H,NaN,NaN,NaN
+NOR,09/05/2005,18:00,Fredrikstad FK,SK Brann,2,3,A,NaN,NaN,NaN
+NOR,16/05/2005,17:00,SK Brann,Lillestrøm SK,6,2,H,NaN,NaN,NaN
+NOR,16/05/2005,17:00,Hamarkameratene,IK Start,0,2,A,NaN,NaN,NaN
+NOR,16/05/2005,17:00,Molde FK,Aalesunds FK,2,2,D,NaN,NaN,NaN
+NOR,16/05/2005,17:00,Odd Grenland,Lyn Oslo,0,2,A,NaN,NaN,NaN
+NOR,16/05/2005,17:00,Rosenborg BK,Viking FK,0,2,A,NaN,NaN,NaN
+NOR,16/05/2005,17:00,Tromsø IL,FK Bodø/Glimt,2,2,D,NaN,NaN,NaN
+NOR,16/05/2005,19:15,Vålerenga IF,Fredrikstad FK,0,0,D,NaN,NaN,NaN
+NOR,22/05/2005,17:00,FK Bodø/Glimt,Aalesunds FK,0,0,D,NaN,NaN,NaN
+NOR,22/05/2005,17:00,Lyn Oslo,Hamarkameratene,1,0,H,NaN,NaN,NaN
+NOR,22/05/2005,17:00,Rosenborg BK,Molde FK,1,1,D,NaN,NaN,NaN
+NOR,22/05/2005,17:00,IK Start,SK Brann,3,2,H,NaN,NaN,NaN
+NOR,22/05/2005,17:00,Viking FK,Odd Grenland,1,0,H,NaN,NaN,NaN
+NOR,22/05/2005,19:05,Lillestrøm SK,Vålerenga IF,2,1,H,NaN,NaN,NaN
+NOR,23/05/2005,18:00,Fredrikstad FK,Tromsø IL,4,2,H,NaN,NaN,NaN
+NOR,29/05/2005,17:00,Hamarkameratene,Viking FK,0,0,D,NaN,NaN,NaN
+NOR,29/05/2005,17:00,Molde FK,FK Bodø/Glimt,1,1,D,NaN,NaN,NaN
+NOR,29/05/2005,17:00,Odd Grenland,Rosenborg BK,0,5,A,NaN,NaN,NaN
+NOR,29/05/2005,17:00,Tromsø IL,Lillestrøm SK,1,1,D,NaN,NaN,NaN
+NOR,29/05/2005,17:00,Aalesunds FK,Fredrikstad FK,1,0,H,NaN,NaN,NaN
+NOR,29/05/2005,19:05,SK Brann,Lyn Oslo,3,0,H,NaN,NaN,NaN
+NOR,30/05/2005,18:00,Vålerenga IF,IK Start,1,1,D,NaN,NaN,NaN
+NOR,12/06/2005,17:00,Fredrikstad FK,FK Bodø/Glimt,3,2,H,NaN,NaN,NaN
+NOR,12/06/2005,17:00,Lillestrøm SK,Aalesunds FK,3,0,H,NaN,NaN,NaN
+NOR,12/06/2005,17:00,Odd Grenland,Molde FK,2,1,H,NaN,NaN,NaN
+NOR,12/06/2005,17:00,Rosenborg BK,Hamarkameratene,4,0,H,NaN,NaN,NaN
+NOR,12/06/2005,17:00,IK Start,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,12/06/2005,19:15,Lyn Oslo,Vålerenga IF,1,1,D,NaN,NaN,NaN
+NOR,13/06/2005,18:00,Viking FK,SK Brann,0,0,D,NaN,NaN,NaN
+NOR,18/06/2005,15:00,Vålerenga IF,Viking FK,1,2,A,NaN,NaN,NaN
+NOR,19/06/2005,17:00,FK Bodø/Glimt,Lillestrøm SK,1,1,D,NaN,NaN,NaN
+NOR,19/06/2005,17:00,Hamarkameratene,Odd Grenland,2,1,H,NaN,NaN,NaN
+NOR,19/06/2005,17:00,Molde FK,Fredrikstad FK,2,1,H,NaN,NaN,NaN
+NOR,19/06/2005,17:00,Tromsø IL,Lyn Oslo,0,0,D,NaN,NaN,NaN
+NOR,19/06/2005,17:00,Aalesunds FK,IK Start,1,2,A,NaN,NaN,NaN
+NOR,19/06/2005,19:15,SK Brann,Rosenborg BK,4,1,H,NaN,NaN,NaN
+NOR,26/06/2005,17:00,Lyn Oslo,Aalesunds FK,0,0,D,NaN,NaN,NaN
+NOR,26/06/2005,17:00,Hamarkameratene,Molde FK,4,1,H,NaN,NaN,NaN
+NOR,26/06/2005,17:00,Odd Grenland,SK Brann,0,0,D,NaN,NaN,NaN
+NOR,26/06/2005,17:00,IK Start,FK Bodø/Glimt,2,0,H,NaN,NaN,NaN
+NOR,26/06/2005,19:05,Lillestrøm SK,Fredrikstad FK,3,0,H,NaN,NaN,NaN
+NOR,27/06/2005,18:00,Rosenborg BK,Vålerenga IF,2,3,A,NaN,NaN,NaN
+NOR,27/06/2005,18:00,Viking FK,Tromsø IL,3,2,H,NaN,NaN,NaN
+NOR,03/07/2005,17:00,FK Bodø/Glimt,Lyn Oslo,1,3,A,NaN,NaN,NaN
+NOR,03/07/2005,17:00,SK Brann,Hamarkameratene,2,0,H,NaN,NaN,NaN
+NOR,03/07/2005,17:00,Molde FK,Lillestrøm SK,2,0,H,NaN,NaN,NaN
+NOR,03/07/2005,17:00,Tromsø IL,Rosenborg BK,1,2,A,NaN,NaN,NaN
+NOR,03/07/2005,17:00,Aalesunds FK,Viking FK,1,2,A,NaN,NaN,NaN
+NOR,03/07/2005,19:15,Fredrikstad FK,IK Start,1,2,A,NaN,NaN,NaN
+NOR,04/07/2005,18:00,Vålerenga IF,Odd Grenland,3,0,H,NaN,NaN,NaN
+NOR,23/07/2005,15:00,Molde FK,SK Brann,3,1,H,NaN,NaN,NaN
+NOR,23/07/2005,18:00,Vålerenga IF,Hamarkameratene,2,1,H,NaN,NaN,NaN
+NOR,24/07/2005,17:00,FK Bodø/Glimt,Viking FK,0,3,A,NaN,NaN,NaN
+NOR,24/07/2005,17:00,Fredrikstad FK,Lyn Oslo,2,1,H,NaN,NaN,NaN
+NOR,24/07/2005,17:00,Tromsø IL,Odd Grenland,0,1,A,NaN,NaN,NaN
+NOR,24/07/2005,19:15,Aalesunds FK,Rosenborg BK,2,1,H,NaN,NaN,NaN
+NOR,25/07/2005,18:00,Lillestrøm SK,IK Start,2,0,H,NaN,NaN,NaN
+NOR,30/07/2005,15:00,Lyn Oslo,Lillestrøm SK,1,0,H,NaN,NaN,NaN
+NOR,30/07/2005,18:00,SK Brann,Vålerenga IF,1,2,A,NaN,NaN,NaN
+NOR,31/07/2005,17:00,Hamarkameratene,Tromsø IL,3,2,H,NaN,NaN,NaN
+NOR,31/07/2005,17:00,Odd Grenland,Aalesunds FK,2,1,H,NaN,NaN,NaN
+NOR,31/07/2005,17:00,Rosenborg BK,FK Bodø/Glimt,2,0,H,NaN,NaN,NaN
+NOR,31/07/2005,17:00,IK Start,Molde FK,1,0,H,NaN,NaN,NaN
+NOR,31/07/2005,17:00,Viking FK,Fredrikstad FK,2,1,H,NaN,NaN,NaN
+NOR,03/08/2005,18:00,FK Bodø/Glimt,Odd Grenland,5,1,H,NaN,NaN,NaN
+NOR,03/08/2005,18:00,Fredrikstad FK,Rosenborg BK,5,1,H,NaN,NaN,NaN
+NOR,03/08/2005,18:00,Lillestrøm SK,Viking FK,2,0,H,NaN,NaN,NaN
+NOR,03/08/2005,18:00,Tromsø IL,SK Brann,1,1,D,NaN,NaN,NaN
+NOR,03/08/2005,18:00,Aalesunds FK,Hamarkameratene,1,1,D,NaN,NaN,NaN
+NOR,03/08/2005,20:00,IK Start,Lyn Oslo,1,1,D,NaN,NaN,NaN
+NOR,10/09/2005,15:00,Vålerenga IF,Molde FK,3,1,H,NaN,NaN,NaN
+NOR,06/08/2005,17:00,Vålerenga IF,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,07/08/2005,17:00,SK Brann,Aalesunds FK,0,0,D,NaN,NaN,NaN
+NOR,07/08/2005,17:00,Hamarkameratene,FK Bodø/Glimt,2,0,H,NaN,NaN,NaN
+NOR,07/08/2005,17:00,Molde FK,Lyn Oslo,1,3,A,NaN,NaN,NaN
+NOR,07/08/2005,17:00,Odd Grenland,Fredrikstad FK,2,1,H,NaN,NaN,NaN
+NOR,07/08/2005,19:05,Rosenborg BK,Lillestrøm SK,1,2,A,NaN,NaN,NaN
+NOR,08/08/2005,18:00,Viking FK,IK Start,1,1,D,NaN,NaN,NaN
+NOR,13/08/2005,17:00,Fredrikstad FK,Hamarkameratene,1,1,D,NaN,NaN,NaN
+NOR,13/08/2005,17:00,Lillestrøm SK,Odd Grenland,2,3,A,NaN,NaN,NaN
+NOR,13/08/2005,17:00,Aalesunds FK,Vålerenga IF,0,2,A,NaN,NaN,NaN
+NOR,13/08/2005,17:30,IK Start,Rosenborg BK,5,2,H,NaN,NaN,NaN
+NOR,14/08/2005,17:00,FK Bodø/Glimt,SK Brann,2,1,H,NaN,NaN,NaN
+NOR,14/08/2005,17:00,Lyn Oslo,Viking FK,2,1,H,NaN,NaN,NaN
+NOR,14/08/2005,17:00,Tromsø IL,Molde FK,2,1,H,NaN,NaN,NaN
+NOR,28/08/2005,17:00,Hamarkameratene,Lillestrøm SK,2,3,A,NaN,NaN,NaN
+NOR,28/08/2005,17:00,Molde FK,Viking FK,1,2,A,NaN,NaN,NaN
+NOR,28/08/2005,17:00,Odd Grenland,IK Start,2,0,H,NaN,NaN,NaN
+NOR,28/08/2005,17:00,Rosenborg BK,Lyn Oslo,0,1,A,NaN,NaN,NaN
+NOR,28/08/2005,17:00,Tromsø IL,Aalesunds FK,1,1,D,NaN,NaN,NaN
+NOR,28/08/2005,19:05,Vålerenga IF,FK Bodø/Glimt,3,1,H,NaN,NaN,NaN
+NOR,29/08/2005,18:00,SK Brann,Fredrikstad FK,4,0,H,NaN,NaN,NaN
+NOR,10/09/2005,15:00,Viking FK,Rosenborg BK,3,2,H,NaN,NaN,NaN
+NOR,11/09/2005,17:00,FK Bodø/Glimt,Tromsø IL,2,1,H,NaN,NaN,NaN
+NOR,11/09/2005,17:00,Lyn Oslo,Odd Grenland,1,2,A,NaN,NaN,NaN
+NOR,11/09/2005,17:00,IK Start,Hamarkameratene,2,1,H,NaN,NaN,NaN
+NOR,11/09/2005,19:15,Lillestrøm SK,SK Brann,1,0,H,NaN,NaN,NaN
+NOR,13/09/2005,18:00,Fredrikstad FK,Vålerenga IF,0,4,A,NaN,NaN,NaN
+NOR,13/09/2005,18:00,Aalesunds FK,Molde FK,1,4,A,NaN,NaN,NaN
+NOR,17/09/2005,15:30,Molde FK,Rosenborg BK,4,1,H,NaN,NaN,NaN
+NOR,18/09/2005,17:00,Hamarkameratene,Lyn Oslo,1,0,H,NaN,NaN,NaN
+NOR,18/09/2005,17:00,Odd Grenland,Viking FK,1,0,H,NaN,NaN,NaN
+NOR,18/09/2005,17:00,Tromsø IL,Fredrikstad FK,2,0,H,NaN,NaN,NaN
+NOR,18/09/2005,17:00,Aalesunds FK,FK Bodø/Glimt,1,1,D,NaN,NaN,NaN
+NOR,18/09/2005,19:15,Vålerenga IF,Lillestrøm SK,0,0,D,NaN,NaN,NaN
+NOR,19/09/2005,18:00,SK Brann,IK Start,1,0,H,NaN,NaN,NaN
+NOR,24/09/2005,15:00,Lillestrøm SK,Tromsø IL,1,2,A,NaN,NaN,NaN
+NOR,25/09/2005,17:00,Lyn Oslo,SK Brann,1,0,H,NaN,NaN,NaN
+NOR,25/09/2005,17:00,Fredrikstad FK,Aalesunds FK,1,4,A,NaN,NaN,NaN
+NOR,25/09/2005,17:00,Rosenborg BK,Odd Grenland,6,0,H,NaN,NaN,NaN
+NOR,25/09/2005,17:00,Viking FK,Hamarkameratene,1,3,A,NaN,NaN,NaN
+NOR,25/09/2005,19:15,IK Start,Vålerenga IF,3,0,H,NaN,NaN,NaN
+NOR,26/09/2005,18:00,FK Bodø/Glimt,Molde FK,2,0,H,NaN,NaN,NaN
+NOR,02/10/2005,17:00,FK Bodø/Glimt,Fredrikstad FK,1,2,A,NaN,NaN,NaN
+NOR,02/10/2005,17:00,Hamarkameratene,Rosenborg BK,0,3,A,NaN,NaN,NaN
+NOR,02/10/2005,17:00,Molde FK,Odd Grenland,4,0,H,NaN,NaN,NaN
+NOR,02/10/2005,17:00,Tromsø IL,IK Start,3,1,H,NaN,NaN,NaN
+NOR,02/10/2005,17:00,Aalesunds FK,Lillestrøm SK,1,0,H,NaN,NaN,NaN
+NOR,02/10/2005,19:05,Vålerenga IF,Lyn Oslo,0,1,A,NaN,NaN,NaN
+NOR,03/10/2005,18:00,SK Brann,Viking FK,2,1,H,NaN,NaN,NaN
+NOR,15/10/2005,15:00,IK Start,Aalesunds FK,4,5,A,NaN,NaN,NaN
+NOR,16/10/2005,17:00,Lyn Oslo,Tromsø IL,0,1,A,NaN,NaN,NaN
+NOR,16/10/2005,17:00,Fredrikstad FK,Molde FK,1,1,D,NaN,NaN,NaN
+NOR,16/10/2005,17:00,Odd Grenland,Hamarkameratene,2,2,D,NaN,NaN,NaN
+NOR,16/10/2005,17:00,Viking FK,Vålerenga IF,0,0,D,NaN,NaN,NaN
+NOR,16/10/2005,19:05,Rosenborg BK,SK Brann,4,1,H,NaN,NaN,NaN
+NOR,17/10/2005,18:00,Lillestrøm SK,FK Bodø/Glimt,2,0,H,NaN,NaN,NaN
+NOR,23/10/2005,17:00,FK Bodø/Glimt,IK Start,1,1,D,NaN,NaN,NaN
+NOR,23/10/2005,17:00,SK Brann,Odd Grenland,2,2,D,NaN,NaN,NaN
+NOR,23/10/2005,17:00,Fredrikstad FK,Lillestrøm SK,1,1,D,NaN,NaN,NaN
+NOR,23/10/2005,17:00,Molde FK,Hamarkameratene,1,1,D,NaN,NaN,NaN
+NOR,23/10/2005,17:00,Tromsø IL,Viking FK,1,0,H,NaN,NaN,NaN
+NOR,23/10/2005,17:00,Vålerenga IF,Rosenborg BK,0,2,A,NaN,NaN,NaN
+NOR,23/10/2005,17:00,Aalesunds FK,Lyn Oslo,1,1,D,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Lyn Oslo,FK Bodø/Glimt,6,0,H,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Hamarkameratene,SK Brann,1,1,D,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Lillestrøm SK,Molde FK,2,2,D,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Odd Grenland,Vålerenga IF,2,2,D,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Rosenborg BK,Tromsø IL,1,1,D,NaN,NaN,NaN
+NOR,29/10/2005,17:00,IK Start,Fredrikstad FK,1,3,A,NaN,NaN,NaN
+NOR,29/10/2005,17:00,Viking FK,Aalesunds FK,3,0,H,NaN,NaN,NaN

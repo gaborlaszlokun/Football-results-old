@@ -1,0 +1,172 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,05/01/2002,,Veracruz (old),CF Atlante,3,2,H,1,0,H
+MEX,05/01/2002,,Cruz Azul,Atletico Celaya,1,0,H,1,0,H
+MEX,05/01/2002,,UANL Tigres,Monarcas Morelia,1,1,D,0,1,A
+MEX,05/01/2002,,Atlas Guadalajara,Santos Laguna,3,3,D,2,2,D
+MEX,06/01/2002,,Pumas UNAM,CF Monterrey,1,0,H,0,0,D
+MEX,06/01/2002,,CF Pachuca,CF América,3,2,H,0,2,A
+MEX,06/01/2002,,Reboceros de la Piedad,Deportivo Guadalajara,1,1,D,0,0,D
+MEX,06/01/2002,,Club León,Deportivo Toluca,0,2,A,0,0,D
+MEX,06/01/2002,,Club Necaxa,Puebla FC,3,0,H,1,0,H
+MEX,12/01/2002,,Deportivo Toluca,Club Necaxa,3,1,H,1,1,D
+MEX,12/01/2002,,UAG Tecos,Reboceros de la Piedad,0,2,A,0,0,D
+MEX,12/01/2002,,CF Monterrey,Club León,4,1,H,1,1,D
+MEX,13/01/2002,,Deportivo Guadalajara,Cruz Azul,3,0,H,1,0,H
+MEX,13/01/2002,,CF Atlante,Atlas Guadalajara,2,3,A,1,1,D
+MEX,13/01/2002,,Monarcas Morelia,Veracruz (old),2,2,D,1,1,D
+MEX,13/01/2002,,Puebla FC,CF Pachuca,1,2,A,1,0,H
+MEX,13/01/2002,,CF América,UANL Tigres,3,1,H,1,0,H
+MEX,13/01/2002,,Atletico Celaya,Pumas UNAM,3,4,A,2,2,D
+MEX,19/01/2002,,Deportivo Toluca,Puebla FC,5,1,H,2,0,H
+MEX,19/01/2002,,Veracruz (old),CF América,0,2,A,0,2,A
+MEX,19/01/2002,,Cruz Azul,UAG Tecos,3,1,H,1,0,H
+MEX,19/01/2002,,UANL Tigres,CF Pachuca,1,1,D,1,0,H
+MEX,19/01/2002,,Atlas Guadalajara,Monarcas Morelia,2,0,H,1,0,H
+MEX,20/01/2002,,Pumas UNAM,Deportivo Guadalajara,2,2,D,0,1,A
+MEX,20/01/2002,,Reboceros de la Piedad,Santos Laguna,1,0,H,0,0,D
+MEX,20/01/2002,,Club Necaxa,CF Monterrey,3,1,H,3,0,H
+MEX,20/01/2002,,Club León,Atletico Celaya,1,1,D,0,0,D
+MEX,26/01/2002,,CF Monterrey,Deportivo Toluca,1,1,D,1,0,H
+MEX,26/01/2002,,UAG Tecos,Pumas UNAM,0,3,A,0,1,A
+MEX,27/01/2002,,CF Pachuca,Veracruz (old),3,2,H,3,0,H
+MEX,27/01/2002,,Deportivo Guadalajara,Club León,2,2,D,0,1,A
+MEX,27/01/2002,,Puebla FC,UANL Tigres,1,1,D,0,0,D
+MEX,27/01/2002,,Atletico Celaya,Club Necaxa,2,2,D,2,1,H
+MEX,27/01/2002,,Santos Laguna,Cruz Azul,2,2,D,2,2,D
+MEX,27/01/2002,,CF América,Atlas Guadalajara,0,1,A,0,0,D
+MEX,27/01/2002,,CF Atlante,Reboceros de la Piedad,0,1,A,0,1,A
+MEX,31/01/2002,,Reboceros de la Piedad,Monarcas Morelia,1,2,A,0,2,A
+MEX,02/02/2002,,Deportivo Toluca,Atletico Celaya,0,1,A,0,1,A
+MEX,02/02/2002,,Veracruz (old),UANL Tigres,0,2,A,0,1,A
+MEX,02/02/2002,,CF Monterrey,Puebla FC,1,1,D,0,1,A
+MEX,02/02/2002,,Cruz Azul,CF Atlante,3,1,H,2,0,H
+MEX,02/02/2002,,Atlas Guadalajara,CF Pachuca,3,1,H,1,1,D
+MEX,03/02/2002,,Pumas UNAM,Santos Laguna,3,4,A,1,2,A
+MEX,03/02/2002,,Club Necaxa,Deportivo Guadalajara,0,1,A,0,1,A
+MEX,03/02/2002,,Club León,UAG Tecos,0,0,D,0,0,D
+MEX,09/02/2002,,Puebla FC,Veracruz (old),1,2,A,0,0,D
+MEX,09/02/2002,,UANL Tigres,Atlas Guadalajara,3,0,H,2,0,H
+MEX,09/02/2002,,CF Atlante,Pumas UNAM,1,1,D,1,0,H
+MEX,09/02/2002,,UAG Tecos,Club Necaxa,3,3,D,2,1,H
+MEX,10/02/2002,,Deportivo Guadalajara,Deportivo Toluca,0,3,A,0,1,A
+MEX,10/02/2002,,Atletico Celaya,CF Monterrey,0,1,A,0,0,D
+MEX,10/02/2002,,Monarcas Morelia,Cruz Azul,1,3,A,1,0,H
+MEX,10/02/2002,,Santos Laguna,Club León,3,0,H,2,0,H
+MEX,10/02/2002,,CF América,Reboceros de la Piedad,2,1,H,2,1,H
+MEX,15/02/2002,,Pumas UNAM,Monarcas Morelia,2,1,H,1,0,H
+MEX,16/02/2002,,Deportivo Toluca,UAG Tecos,2,2,D,1,0,H
+MEX,16/02/2002,,CF Monterrey,Deportivo Guadalajara,3,0,H,3,0,H
+MEX,16/02/2002,,Cruz Azul,CF América,2,0,H,0,0,D
+MEX,16/02/2002,,Atlas Guadalajara,Veracruz (old),1,1,D,1,0,H
+MEX,17/02/2002,,Atletico Celaya,Puebla FC,1,3,A,0,2,A
+MEX,17/02/2002,,Reboceros de la Piedad,CF Pachuca,2,1,H,1,0,H
+MEX,17/02/2002,,Club León,CF Atlante,2,1,H,2,0,H
+MEX,17/02/2002,,Club Necaxa,Santos Laguna,4,1,H,1,0,H
+MEX,23/02/2002,,UAG Tecos,CF Monterrey,2,3,A,2,0,H
+MEX,23/02/2002,,UANL Tigres,Reboceros de la Piedad,0,2,A,0,1,A
+MEX,23/02/2002,,CF Atlante,Club Necaxa,1,1,D,1,1,D
+MEX,23/02/2002,,Puebla FC,Atlas Guadalajara,1,1,D,0,1,A
+MEX,24/02/2002,,CF Pachuca,Cruz Azul,2,1,H,1,1,D
+MEX,24/02/2002,,Deportivo Guadalajara,Atletico Celaya,2,0,H,1,0,H
+MEX,24/02/2002,,Santos Laguna,Deportivo Toluca,0,1,A,0,1,A
+MEX,24/02/2002,,CF América,Pumas UNAM,0,0,D,0,0,D
+MEX,24/02/2002,,Monarcas Morelia,Club León,2,0,H,1,0,H
+MEX,31/01/2002,,Club León,CF América,0,1,A,0,0,D
+MEX,27/02/2002,,Deportivo Toluca,CF Atlante,0,0,D,0,0,D
+MEX,27/02/2002,,Pumas UNAM,CF Pachuca,1,1,D,0,1,A
+MEX,27/02/2002,,Reboceros de la Piedad,Veracruz (old),2,0,H,1,0,H
+MEX,27/02/2002,,Cruz Azul,UANL Tigres,2,3,A,0,1,A
+MEX,27/02/2002,,Atletico Celaya,UAG Tecos,2,0,H,1,0,H
+MEX,27/02/2002,,CF Monterrey,Santos Laguna,2,3,A,1,2,A
+MEX,27/02/2002,,Deportivo Guadalajara,Puebla FC,4,0,H,3,0,H
+MEX,27/03/2002,,Club Necaxa,Monarcas Morelia,1,2,A,1,2,A
+MEX,02/03/2002,,Veracruz (old),Cruz Azul,2,1,H,1,0,H
+MEX,02/03/2002,,Monarcas Morelia,Deportivo Toluca,0,0,D,0,0,D
+MEX,02/03/2002,,UANL Tigres,Pumas UNAM,1,0,H,1,0,H
+MEX,02/03/2002,,CF Atlante,CF Monterrey,2,0,H,1,0,H
+MEX,02/03/2002,,Atlas Guadalajara,Reboceros de la Piedad,1,0,H,0,0,D
+MEX,03/03/2002,,CF Pachuca,Club León,2,1,H,1,1,D
+MEX,03/03/2002,,Santos Laguna,Atletico Celaya,4,1,H,2,0,H
+MEX,03/03/2002,,UAG Tecos,Deportivo Guadalajara,1,1,D,1,0,H
+MEX,05/03/2002,,CF América,Club Necaxa,0,0,D,0,0,D
+MEX,09/03/2002,,Deportivo Toluca,CF América,2,1,H,0,0,D
+MEX,09/03/2002,,UAG Tecos,Puebla FC,2,1,H,0,1,A
+MEX,09/03/2002,,Cruz Azul,Atlas Guadalajara,4,2,H,3,0,H
+MEX,09/03/2002,,CF Monterrey,Monarcas Morelia,0,3,A,0,1,A
+MEX,09/03/2002,,Club Necaxa,CF Pachuca,3,0,H,1,0,H
+MEX,10/03/2002,,Atletico Celaya,CF Atlante,2,1,H,0,0,D
+MEX,10/03/2002,,Pumas UNAM,Veracruz (old),2,1,H,1,0,H
+MEX,10/03/2002,,Deportivo Guadalajara,Santos Laguna,0,0,D,0,0,D
+MEX,10/03/2002,,Club León,UANL Tigres,2,3,A,1,2,A
+MEX,16/03/2002,,Veracruz (old),Club León,1,0,H,0,0,D
+MEX,16/03/2002,,UANL Tigres,Club Necaxa,3,3,D,2,1,H
+MEX,16/03/2002,,CF Atlante,Deportivo Guadalajara,0,0,D,0,0,D
+MEX,16/03/2002,,Puebla FC,Reboceros de la Piedad,2,4,A,2,2,D
+MEX,16/03/2002,,Atlas Guadalajara,Pumas UNAM,2,1,H,1,0,H
+MEX,17/03/2002,,CF Pachuca,Deportivo Toluca,1,2,A,1,0,H
+MEX,17/03/2002,,Monarcas Morelia,Atletico Celaya,2,0,H,0,0,D
+MEX,17/03/2002,,CF América,CF Monterrey,4,2,H,1,1,D
+MEX,17/03/2002,,Santos Laguna,UAG Tecos,3,2,H,3,1,H
+MEX,22/03/2002,,Club Necaxa,Veracruz (old),3,0,H,2,0,H
+MEX,23/03/2002,,Deportivo Toluca,UANL Tigres,3,1,H,1,1,D
+MEX,23/03/2002,,UAG Tecos,CF Atlante,4,0,H,0,0,D
+MEX,23/03/2002,,CF Monterrey,CF Pachuca,1,0,H,0,0,D
+MEX,23/03/2002,,Cruz Azul,Reboceros de la Piedad,1,5,A,0,3,A
+MEX,24/03/2002,,Deportivo Guadalajara,Monarcas Morelia,0,1,A,0,0,D
+MEX,24/03/2002,,Atletico Celaya,CF América,2,2,D,1,0,H
+MEX,24/03/2002,,Santos Laguna,Puebla FC,3,0,H,1,0,H
+MEX,24/03/2002,,Club León,Atlas Guadalajara,1,1,D,0,1,A
+MEX,30/03/2002,,Veracruz (old),Deportivo Toluca,2,1,H,1,0,H
+MEX,30/03/2002,,UANL Tigres,CF Monterrey,0,0,D,0,0,D
+MEX,30/03/2002,,CF Atlante,Santos Laguna,2,1,H,1,1,D
+MEX,30/03/2002,,Puebla FC,Cruz Azul,2,2,D,0,1,A
+MEX,30/03/2002,,Atlas Guadalajara,Club Necaxa,1,3,A,0,0,D
+MEX,31/03/2002,,CF Pachuca,Atletico Celaya,1,1,D,0,1,A
+MEX,31/03/2002,,Monarcas Morelia,UAG Tecos,2,2,D,1,1,D
+MEX,31/03/2002,,Reboceros de la Piedad,Pumas UNAM,3,1,H,0,0,D
+MEX,31/03/2002,,CF América,Deportivo Guadalajara,2,3,A,1,1,D
+MEX,06/04/2002,,Deportivo Toluca,Atlas Guadalajara,5,1,H,5,0,H
+MEX,06/04/2002,,CF Monterrey,Veracruz (old),0,0,D,0,0,D
+MEX,06/04/2002,,UAG Tecos,CF América,2,2,D,1,0,H
+MEX,07/04/2002,,Pumas UNAM,Cruz Azul,0,0,D,0,0,D
+MEX,07/04/2002,,Atletico Celaya,UANL Tigres,1,0,H,0,0,D
+MEX,07/04/2002,,CF Atlante,Puebla FC,3,3,D,2,2,D
+MEX,07/04/2002,,Deportivo Guadalajara,CF Pachuca,1,2,A,0,1,A
+MEX,07/04/2002,,Club León,Reboceros de la Piedad,2,1,H,0,1,A
+MEX,07/04/2002,,Santos Laguna,Monarcas Morelia,4,3,H,1,1,D
+MEX,03/04/2002,,CF América,Santos Laguna,2,2,D,0,0,D
+MEX,10/04/2002,,Reboceros de la Piedad,Club Necaxa,3,1,H,1,0,H
+MEX,10/04/2002,,Veracruz (old),Atletico Celaya,1,2,A,1,1,D
+MEX,10/04/2002,,CF Pachuca,UAG Tecos,2,2,D,1,1,D
+MEX,10/04/2002,,Puebla FC,Pumas UNAM,1,2,A,0,0,D
+MEX,10/04/2002,,UANL Tigres,Deportivo Guadalajara,1,0,H,0,0,D
+MEX,10/04/2002,,Atlas Guadalajara,CF Monterrey,5,1,H,2,1,H
+MEX,11/04/2002,,Cruz Azul,Club León,3,1,H,1,1,D
+MEX,17/04/2002,,Monarcas Morelia,CF Atlante,2,3,A,1,2,A
+MEX,13/04/2002,,Deportivo Toluca,Reboceros de la Piedad,3,1,H,3,0,H
+MEX,13/04/2002,,UAG Tecos,UANL Tigres,1,1,D,0,1,A
+MEX,14/04/2002,,CF Atlante,CF América,0,1,A,0,1,A
+MEX,14/04/2002,,Monarcas Morelia,Puebla FC,5,2,H,3,1,H
+MEX,14/04/2002,,Atletico Celaya,Atlas Guadalajara,0,0,D,0,0,D
+MEX,14/04/2002,,Santos Laguna,CF Pachuca,3,2,H,1,0,H
+MEX,14/04/2002,,Club León,Pumas UNAM,2,4,A,1,2,A
+MEX,14/04/2002,,Club Necaxa,Cruz Azul,1,1,D,0,1,A
+MEX,15/04/2002,,Deportivo Guadalajara,Veracruz (old),1,2,A,1,2,A
+MEX,20/04/2002,,Veracruz (old),UAG Tecos,2,0,H,1,0,H
+MEX,20/04/2002,,Cruz Azul,Deportivo Toluca,2,2,D,0,0,D
+MEX,20/04/2002,,UANL Tigres,Santos Laguna,2,1,H,2,0,H
+MEX,20/04/2002,,CF América,Monarcas Morelia,1,1,D,1,0,H
+MEX,20/04/2002,,Atlas Guadalajara,Deportivo Guadalajara,1,1,D,1,1,D
+MEX,21/04/2002,,CF Pachuca,CF Atlante,1,2,A,0,1,A
+MEX,21/04/2002,,Pumas UNAM,Club Necaxa,1,0,H,0,0,D
+MEX,21/04/2002,,Reboceros de la Piedad,CF Monterrey,1,0,H,0,0,D
+MEX,21/04/2002,,Club León,Puebla FC,2,3,A,1,0,H
+MEX,27/04/2002,,CF Monterrey,Cruz Azul,1,1,D,0,0,D
+MEX,27/04/2002,,CF Atlante,UANL Tigres,2,1,H,1,1,D
+MEX,27/04/2002,,UAG Tecos,Atlas Guadalajara,1,2,A,0,1,A
+MEX,27/04/2002,,Deportivo Toluca,Pumas UNAM,0,2,A,0,0,D
+MEX,27/04/2002,,Monarcas Morelia,CF Pachuca,4,1,H,1,1,D
+MEX,27/04/2002,,Santos Laguna,Veracruz (old),5,1,H,2,0,H
+MEX,27/04/2002,,Club Necaxa,Club León,2,0,H,1,0,H
+MEX,27/04/2002,,Atletico Celaya,Reboceros de la Piedad,0,4,A,0,2,A
+MEX,27/04/2002,,Puebla FC,CF América,1,2,A,1,0,H

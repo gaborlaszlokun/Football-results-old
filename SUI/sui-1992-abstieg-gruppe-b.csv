@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,29/02/1992,16:30,FC Luzern,FC Grenchen,1,1,D,NaN,NaN,NaN
+SUI,01/03/1992,13:30,FC Bulle,FC La Chaux-de-Fonds,3,2,H,NaN,NaN,NaN
+SUI,01/03/1992,13:30,FC Chiasso,FC Wettingen,4,1,H,NaN,NaN,NaN
+SUI,01/03/1992,13:30,FC Schaffhausen,FC Chur,3,0,H,NaN,NaN,NaN
+SUI,08/03/1992,13:30,FC Chur,FC Bulle,3,3,D,NaN,NaN,NaN
+SUI,08/03/1992,13:30,FC Grenchen,FC Chiasso,1,1,D,NaN,NaN,NaN
+SUI,08/03/1992,13:30,FC La Chaux-de-Fonds,FC Schaffhausen,1,2,A,NaN,NaN,NaN
+SUI,08/03/1992,13:30,FC Wettingen,FC Luzern,1,2,A,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC Bulle,FC Wettingen,3,0,H,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC Chiasso,FC La Chaux-de-Fonds,4,2,H,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC Luzern,FC Chur,1,0,H,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC Schaffhausen,FC Grenchen,5,1,H,NaN,NaN,NaN
+SUI,21/03/1992,16:30,FC Chur,FC Chiasso,1,1,D,NaN,NaN,NaN
+SUI,21/03/1992,16:30,FC Wettingen,FC Schaffhausen,1,2,A,NaN,NaN,NaN
+SUI,22/03/1992,13:30,FC Grenchen,FC Bulle,2,2,D,NaN,NaN,NaN
+SUI,22/03/1992,13:30,FC La Chaux-de-Fonds,FC Luzern,2,3,A,NaN,NaN,NaN
+SUI,04/04/1992,16:30,FC Bulle,FC Chiasso,2,3,A,NaN,NaN,NaN
+SUI,04/04/1992,16:30,FC Grenchen,FC La Chaux-de-Fonds,1,1,D,NaN,NaN,NaN
+SUI,04/04/1992,16:30,FC Wettingen,FC Chur,4,1,H,NaN,NaN,NaN
+SUI,04/04/1992,19:00,FC Luzern,FC Schaffhausen,1,1,D,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC Schaffhausen,FC Bulle,0,1,A,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC Chiasso,FC Luzern,1,1,D,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC Chur,FC Grenchen,2,1,H,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC La Chaux-de-Fonds,FC Wettingen,1,3,A,NaN,NaN,NaN
+SUI,11/04/1992,16:30,FC La Chaux-de-Fonds,FC Chur,4,1,H,NaN,NaN,NaN
+SUI,11/04/1992,16:30,FC Wettingen,FC Grenchen,0,0,D,NaN,NaN,NaN
+SUI,11/04/1992,19:00,FC Chiasso,FC Schaffhausen,0,1,A,NaN,NaN,NaN
+SUI,11/04/1992,19:00,FC Luzern,FC Bulle,2,1,H,NaN,NaN,NaN
+SUI,18/04/1992,19:00,FC Schaffhausen,FC Chiasso,0,0,D,NaN,NaN,NaN
+SUI,20/04/1992,13:30,FC Bulle,FC Luzern,2,1,H,NaN,NaN,NaN
+SUI,20/04/1992,13:30,FC Grenchen,FC Wettingen,2,4,A,NaN,NaN,NaN
+SUI,20/04/1992,16:30,FC Chur,FC La Chaux-de-Fonds,0,0,D,NaN,NaN,NaN
+SUI,25/04/1992,16:30,FC Bulle,FC Schaffhausen,1,1,D,NaN,NaN,NaN
+SUI,25/04/1992,16:30,FC Wettingen,FC La Chaux-de-Fonds,1,0,H,NaN,NaN,NaN
+SUI,25/04/1992,19:00,FC Luzern,FC Chiasso,4,1,H,NaN,NaN,NaN
+SUI,25/04/1992,19:00,FC Grenchen,FC Chur,2,1,H,NaN,NaN,NaN
+SUI,02/05/1992,16:30,FC Chur,FC Wettingen,2,4,A,NaN,NaN,NaN
+SUI,02/05/1992,16:30,FC La Chaux-de-Fonds,FC Grenchen,3,1,H,NaN,NaN,NaN
+SUI,02/05/1992,19:00,FC Chiasso,FC Bulle,2,1,H,NaN,NaN,NaN
+SUI,02/05/1992,19:00,FC Schaffhausen,FC Luzern,1,0,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,FC Bulle,FC Grenchen,2,0,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,FC Chiasso,FC Chur,2,1,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,FC Luzern,FC La Chaux-de-Fonds,3,0,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,FC Schaffhausen,FC Wettingen,0,1,A,NaN,NaN,NaN
+SUI,16/05/1992,19:00,FC Wettingen,FC Bulle,0,3,A,NaN,NaN,NaN
+SUI,16/05/1992,19:00,FC La Chaux-de-Fonds,FC Chiasso,1,3,A,NaN,NaN,NaN
+SUI,16/05/1992,19:00,FC Chur,FC Luzern,1,3,A,NaN,NaN,NaN
+SUI,16/05/1992,19:00,FC Grenchen,FC Schaffhausen,4,2,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC Bulle,FC Chur,3,0,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC Chiasso,FC Grenchen,3,0,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC Luzern,FC Wettingen,1,0,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC Schaffhausen,FC La Chaux-de-Fonds,4,3,H,NaN,NaN,NaN
+SUI,30/05/1992,19:00,FC La Chaux-de-Fonds,FC Bulle,1,2,A,NaN,NaN,NaN
+SUI,30/05/1992,19:00,FC Wettingen,FC Chiasso,0,3,A,NaN,NaN,NaN
+SUI,30/05/1992,19:00,FC Chur,FC Schaffhausen,0,2,A,NaN,NaN,NaN
+SUI,30/05/1992,19:00,FC Grenchen,FC Luzern,2,1,H,NaN,NaN,NaN

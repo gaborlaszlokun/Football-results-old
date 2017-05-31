@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,18/08/2001,15:00,Leeds United,Southampton FC,2,0,H,0,0,D
+ENG,18/08/2001,15:00,Derby County,Blackburn Rovers,2,1,H,1,0,H
+ENG,18/08/2001,15:00,Sunderland AFC,Ipswich Town,1,0,H,1,0,H
+ENG,18/08/2001,15:00,Leicester City,Bolton Wanderers,0,5,A,0,4,A
+ENG,18/08/2001,15:00,Liverpool FC,West Ham United,2,1,H,1,1,D
+ENG,18/08/2001,15:00,Charlton Athletic,Everton FC,1,2,A,0,0,D
+ENG,18/08/2001,15:00,Tottenham Hotspur,Aston Villa,0,0,D,0,0,D
+ENG,18/08/2001,15:00,Middlesbrough FC,Arsenal FC,0,4,A,0,1,A
+ENG,19/08/2001,14:00,Chelsea FC,Newcastle United,1,1,D,1,0,H
+ENG,19/08/2001,16:00,Manchester United,Fulham FC,3,2,H,1,1,D
+ENG,20/08/2001,20:00,Everton FC,Tottenham Hotspur,1,1,D,0,1,A
+ENG,21/08/2001,19:45,Bolton Wanderers,Middlesbrough FC,1,0,H,1,0,H
+ENG,21/08/2001,19:45,Ipswich Town,Derby County,3,1,H,1,0,H
+ENG,21/08/2001,20:00,Arsenal FC,Leeds United,1,2,A,1,1,D
+ENG,22/08/2001,19:45,Fulham FC,Sunderland AFC,2,0,H,0,0,D
+ENG,22/08/2001,20:00,Blackburn Rovers,Manchester United,2,2,D,0,1,A
+ENG,26/09/2001,19:45,Newcastle United,Leicester City,1,0,H,1,0,H
+ENG,24/10/2001,19:45,Aston Villa,Charlton Athletic,1,0,H,1,0,H
+ENG,24/10/2001,19:45,West Ham United,Chelsea FC,2,1,H,2,1,H
+ENG,09/01/2002,20:00,Southampton FC,Liverpool FC,2,0,H,0,0,D
+ENG,25/08/2001,15:00,Blackburn Rovers,Tottenham Hotspur,2,1,H,1,0,H
+ENG,25/08/2001,15:00,Arsenal FC,Leicester City,4,0,H,2,0,H
+ENG,25/08/2001,15:00,Fulham FC,Derby County,0,0,D,0,0,D
+ENG,25/08/2001,15:00,Everton FC,Middlesbrough FC,2,0,H,1,0,H
+ENG,25/08/2001,15:00,Ipswich Town,Charlton Athletic,0,1,A,0,0,D
+ENG,25/08/2001,15:00,Southampton FC,Chelsea FC,0,2,A,0,1,A
+ENG,25/08/2001,15:00,West Ham United,Leeds United,0,0,D,0,0,D
+ENG,26/08/2001,14:00,Aston Villa,Manchester United,1,1,D,1,0,H
+ENG,26/08/2001,16:00,Newcastle United,Sunderland AFC,1,1,D,1,1,D
+ENG,27/08/2001,20:00,Bolton Wanderers,Liverpool FC,2,1,H,1,0,H
+ENG,08/09/2001,15:00,Leeds United,Bolton Wanderers,0,0,D,0,0,D
+ENG,08/09/2001,15:00,Manchester United,Everton FC,4,1,H,2,0,H
+ENG,08/09/2001,15:00,Chelsea FC,Arsenal FC,1,1,D,1,1,D
+ENG,08/09/2001,15:00,Derby County,West Ham United,0,0,D,0,0,D
+ENG,08/09/2001,15:00,Sunderland AFC,Blackburn Rovers,1,0,H,0,0,D
+ENG,08/09/2001,15:00,Leicester City,Ipswich Town,1,1,D,0,1,A
+ENG,08/09/2001,15:00,Liverpool FC,Aston Villa,1,3,A,0,1,A
+ENG,08/09/2001,15:00,Middlesbrough FC,Newcastle United,1,4,A,1,1,D
+ENG,09/09/2001,14:00,Tottenham Hotspur,Southampton FC,2,0,H,0,0,D
+ENG,09/09/2001,16:00,Charlton Athletic,Fulham FC,1,1,D,1,1,D
+ENG,15/09/2001,12:00,Everton FC,Liverpool FC,1,3,A,1,2,A
+ENG,15/09/2001,15:00,Derby County,Leicester City,2,3,A,1,1,D
+ENG,15/09/2001,15:00,Bolton Wanderers,Southampton FC,0,1,A,0,0,D
+ENG,15/09/2001,15:00,Newcastle United,Manchester United,4,3,H,2,1,H
+ENG,15/09/2001,15:00,Fulham FC,Arsenal FC,1,3,A,0,1,A
+ENG,15/09/2001,15:00,Middlesbrough FC,West Ham United,2,0,H,2,0,H
+ENG,16/09/2001,14:00,Tottenham Hotspur,Chelsea FC,2,3,A,0,1,A
+ENG,16/09/2001,14:00,Charlton Athletic,Leeds United,0,2,A,0,1,A
+ENG,16/09/2001,15:00,Aston Villa,Sunderland AFC,0,0,D,0,0,D
+ENG,16/09/2001,16:00,Ipswich Town,Blackburn Rovers,1,1,D,1,0,H
+ENG,17/09/2001,20:00,Leicester City,Middlesbrough FC,1,2,A,1,0,H
+ENG,19/09/2001,19:45,Blackburn Rovers,Bolton Wanderers,1,1,D,0,0,D
+ENG,19/09/2001,20:00,Sunderland AFC,Tottenham Hotspur,1,2,A,0,1,A
+ENG,24/10/2001,19:45,Southampton FC,Ipswich Town,3,3,D,2,1,H
+ENG,05/12/2001,19:45,Chelsea FC,Charlton Athletic,0,1,A,0,0,D
+ENG,05/12/2001,19:45,West Ham United,Aston Villa,1,1,D,0,1,A
+ENG,12/12/2001,20:00,Liverpool FC,Fulham FC,0,0,D,0,0,D
+ENG,12/12/2001,20:00,Manchester United,Derby County,5,0,H,2,0,H
+ENG,18/12/2001,20:00,Arsenal FC,Newcastle United,1,3,A,1,0,H
+ENG,19/12/2001,19:45,Leeds United,Everton FC,3,2,H,2,0,H
+ENG,22/09/2001,15:00,Liverpool FC,Tottenham Hotspur,1,0,H,0,0,D
+ENG,22/09/2001,15:00,Arsenal FC,Bolton Wanderers,1,1,D,0,0,D
+ENG,22/09/2001,15:00,Blackburn Rovers,Everton FC,1,0,H,1,0,H
+ENG,22/09/2001,15:00,Leicester City,Fulham FC,0,0,D,0,0,D
+ENG,22/09/2001,15:00,Sunderland AFC,Charlton Athletic,2,2,D,0,1,A
+ENG,22/09/2001,15:00,Manchester United,Ipswich Town,4,0,H,2,0,H
+ENG,23/09/2001,14:00,Chelsea FC,Middlesbrough FC,2,2,D,2,0,H
+ENG,23/09/2001,14:00,Leeds United,Derby County,3,0,H,1,0,H
+ENG,23/09/2001,16:00,West Ham United,Newcastle United,3,0,H,1,0,H
+ENG,24/09/2001,20:00,Southampton FC,Aston Villa,1,3,A,1,2,A
+ENG,29/09/2001,15:00,Derby County,Arsenal FC,0,2,A,0,1,A
+ENG,29/09/2001,15:00,Tottenham Hotspur,Manchester United,3,5,A,3,0,H
+ENG,29/09/2001,15:00,Bolton Wanderers,Sunderland AFC,0,2,A,0,0,D
+ENG,29/09/2001,15:00,Charlton Athletic,Leicester City,2,0,H,1,0,H
+ENG,29/09/2001,15:00,Everton FC,West Ham United,5,0,H,1,0,H
+ENG,29/09/2001,15:00,Middlesbrough FC,Southampton FC,1,3,A,0,0,D
+ENG,30/09/2001,12:00,Fulham FC,Chelsea FC,1,1,D,0,1,A
+ENG,30/09/2001,14:00,Newcastle United,Liverpool FC,0,2,A,0,1,A
+ENG,30/09/2001,15:00,Aston Villa,Blackburn Rovers,2,0,H,0,0,D
+ENG,30/09/2001,16:00,Ipswich Town,Leeds United,1,2,A,1,0,H
+ENG,13/10/2001,12:00,Liverpool FC,Leeds United,1,1,D,0,1,A
+ENG,13/10/2001,15:00,Bolton Wanderers,Newcastle United,0,4,A,0,1,A
+ENG,13/10/2001,15:00,Southampton FC,Arsenal FC,0,2,A,0,1,A
+ENG,13/10/2001,15:00,Charlton Athletic,Middlesbrough FC,0,0,D,0,0,D
+ENG,13/10/2001,15:00,Chelsea FC,Leicester City,2,0,H,2,0,H
+ENG,13/10/2001,15:00,Ipswich Town,Everton FC,0,0,D,0,0,D
+ENG,13/10/2001,15:00,Sunderland AFC,Manchester United,1,3,A,0,1,A
+ENG,14/10/2001,14:00,Blackburn Rovers,West Ham United,7,1,H,3,1,H
+ENG,14/10/2001,16:00,Aston Villa,Fulham FC,2,0,H,0,0,D
+ENG,15/10/2001,20:00,Tottenham Hotspur,Derby County,3,1,H,2,1,H
+ENG,20/10/2001,15:00,Everton FC,Aston Villa,3,2,H,0,0,D
+ENG,20/10/2001,15:00,Manchester United,Bolton Wanderers,1,2,A,1,1,D
+ENG,20/10/2001,15:00,Arsenal FC,Blackburn Rovers,3,3,D,0,1,A
+ENG,20/10/2001,15:00,Derby County,Charlton Athletic,1,1,D,1,0,H
+ENG,20/10/2001,15:00,Leicester City,Liverpool FC,1,4,A,0,3,A
+ENG,20/10/2001,15:00,West Ham United,Southampton FC,2,0,H,0,0,D
+ENG,21/10/2001,13:00,Fulham FC,Ipswich Town,1,1,D,1,0,H
+ENG,21/10/2001,14:00,Newcastle United,Tottenham Hotspur,0,2,A,0,2,A
+ENG,21/10/2001,16:00,Leeds United,Chelsea FC,0,0,D,0,0,D
+ENG,22/10/2001,20:00,Middlesbrough FC,Sunderland AFC,2,0,H,2,0,H
+ENG,27/10/2001,12:00,Manchester United,Leeds United,1,1,D,0,0,D
+ENG,27/10/2001,15:00,Tottenham Hotspur,Middlesbrough FC,2,1,H,0,1,A
+ENG,27/10/2001,15:00,Aston Villa,Bolton Wanderers,3,2,H,2,1,H
+ENG,27/10/2001,15:00,Charlton Athletic,Liverpool FC,0,2,A,0,2,A
+ENG,27/10/2001,15:00,Everton FC,Newcastle United,1,3,A,0,1,A
+ENG,27/10/2001,15:00,Fulham FC,Southampton FC,2,1,H,2,1,H
+ENG,27/10/2001,15:00,Sunderland AFC,Arsenal FC,1,1,D,0,1,A
+ENG,28/10/2001,14:00,Ipswich Town,West Ham United,2,3,A,0,1,A
+ENG,28/10/2001,16:00,Derby County,Chelsea FC,1,1,D,1,0,H
+ENG,29/10/2001,20:00,Blackburn Rovers,Leicester City,0,0,D,0,0,D
+ENG,03/11/2001,12:00,Leicester City,Sunderland AFC,1,0,H,0,0,D
+ENG,03/11/2001,15:00,Bolton Wanderers,Everton FC,2,2,D,1,1,D
+ENG,03/11/2001,15:00,West Ham United,Fulham FC,0,2,A,0,1,A
+ENG,03/11/2001,15:00,Middlesbrough FC,Derby County,5,1,H,0,0,D
+ENG,03/11/2001,15:00,Newcastle United,Aston Villa,3,0,H,1,0,H
+ENG,03/11/2001,15:00,Southampton FC,Blackburn Rovers,1,2,A,1,1,D
+ENG,04/11/2001,11:30,Liverpool FC,Manchester United,3,1,H,2,0,H
+ENG,04/11/2001,12:00,Leeds United,Tottenham Hotspur,2,1,H,0,0,D
+ENG,04/11/2001,14:00,Chelsea FC,Ipswich Town,2,1,H,1,0,H
+ENG,04/11/2001,14:00,Arsenal FC,Charlton Athletic,2,4,A,1,2,A
+ENG,17/11/2001,12:00,Blackburn Rovers,Liverpool FC,1,1,D,0,1,A
+ENG,17/11/2001,15:00,Derby County,Southampton FC,1,0,H,1,0,H
+ENG,17/11/2001,15:00,Tottenham Hotspur,Arsenal FC,1,1,D,0,0,D
+ENG,17/11/2001,15:00,Aston Villa,Middlesbrough FC,0,0,D,0,0,D
+ENG,17/11/2001,15:00,Manchester United,Leicester City,2,0,H,1,0,H
+ENG,17/11/2001,15:00,Fulham FC,Newcastle United,3,1,H,2,0,H
+ENG,18/11/2001,14:00,Everton FC,Chelsea FC,0,0,D,0,0,D
+ENG,18/11/2001,15:00,Sunderland AFC,Leeds United,2,0,H,0,0,D
+ENG,18/11/2001,16:00,Ipswich Town,Bolton Wanderers,1,2,A,1,2,A
+ENG,19/11/2001,20:00,Charlton Athletic,West Ham United,4,4,D,2,2,D
+ENG,24/11/2001,15:00,Chelsea FC,Blackburn Rovers,0,0,D,0,0,D
+ENG,24/11/2001,15:00,Bolton Wanderers,Fulham FC,0,0,D,0,0,D
+ENG,24/11/2001,15:00,West Ham United,Tottenham Hotspur,0,1,A,0,0,D
+ENG,24/11/2001,15:00,Leicester City,Everton FC,0,0,D,0,0,D
+ENG,24/11/2001,15:00,Newcastle United,Derby County,1,0,H,1,0,H
+ENG,24/11/2001,15:00,Southampton FC,Charlton Athletic,1,0,H,0,0,D
+ENG,25/11/2001,14:00,Liverpool FC,Sunderland AFC,1,0,H,1,0,H
+ENG,25/11/2001,15:00,Leeds United,Aston Villa,1,1,D,1,1,D
+ENG,25/11/2001,15:00,Middlesbrough FC,Ipswich Town,0,0,D,0,0,D
+ENG,25/11/2001,16:00,Arsenal FC,Manchester United,3,1,H,0,1,A
+ENG,01/12/2001,12:00,Manchester United,Chelsea FC,0,3,A,0,1,A
+ENG,01/12/2001,15:00,Derby County,Liverpool FC,0,1,A,0,1,A
+ENG,01/12/2001,15:00,Aston Villa,Leicester City,0,2,A,0,1,A
+ENG,01/12/2001,15:00,Blackburn Rovers,Middlesbrough FC,0,1,A,0,1,A
+ENG,01/12/2001,15:00,Charlton Athletic,Newcastle United,1,1,D,0,0,D
+ENG,01/12/2001,15:00,Ipswich Town,Arsenal FC,0,2,A,0,1,A
+ENG,01/12/2001,15:00,Sunderland AFC,West Ham United,1,0,H,0,0,D
+ENG,02/12/2001,14:00,Fulham FC,Leeds United,0,0,D,0,0,D
+ENG,02/12/2001,16:00,Everton FC,Southampton FC,2,0,H,0,0,D
+ENG,03/12/2001,20:00,Tottenham Hotspur,Bolton Wanderers,3,2,H,0,1,A
+ENG,08/12/2001,15:00,Derby County,Bolton Wanderers,1,0,H,0,0,D
+ENG,08/12/2001,15:00,Manchester United,West Ham United,0,1,A,0,0,D
+ENG,08/12/2001,15:00,Charlton Athletic,Tottenham Hotspur,3,1,H,2,0,H
+ENG,08/12/2001,15:00,Leicester City,Southampton FC,0,4,A,0,1,A
+ENG,08/12/2001,15:00,Liverpool FC,Middlesbrough FC,2,0,H,2,0,H
+ENG,08/12/2001,15:00,Fulham FC,Everton FC,2,0,H,1,0,H
+ENG,09/12/2001,13:00,Blackburn Rovers,Leeds United,1,2,A,0,0,D
+ENG,09/12/2001,14:00,Sunderland AFC,Chelsea FC,0,0,D,0,0,D
+ENG,09/12/2001,15:00,Ipswich Town,Newcastle United,0,1,A,0,1,A
+ENG,09/12/2001,16:00,Arsenal FC,Aston Villa,3,2,H,0,2,A
+ENG,15/12/2001,15:00,Newcastle United,Blackburn Rovers,2,1,H,0,1,A
+ENG,15/12/2001,15:00,Bolton Wanderers,Charlton Athletic,0,0,D,0,0,D
+ENG,15/12/2001,15:00,West Ham United,Arsenal FC,1,1,D,1,1,D
+ENG,15/12/2001,15:00,Everton FC,Derby County,1,0,H,0,0,D
+ENG,15/12/2001,15:00,Middlesbrough FC,Manchester United,0,1,A,0,0,D
+ENG,15/12/2001,15:00,Southampton FC,Sunderland AFC,2,0,H,1,0,H
+ENG,15/12/2001,15:00,Tottenham Hotspur,Fulham FC,4,0,H,2,0,H
+ENG,16/12/2001,14:00,Leeds United,Leicester City,2,2,D,1,0,H
+ENG,16/12/2001,16:00,Chelsea FC,Liverpool FC,4,0,H,2,0,H
+ENG,17/12/2001,20:00,Aston Villa,Ipswich Town,2,1,H,1,1,D
+ENG,22/12/2001,12:00,Derby County,Aston Villa,3,1,H,1,1,D
+ENG,22/12/2001,15:00,Leeds United,Newcastle United,3,4,A,1,1,D
+ENG,22/12/2001,15:00,Manchester United,Southampton FC,6,1,H,3,0,H
+ENG,22/12/2001,15:00,Sunderland AFC,Everton FC,1,0,H,0,0,D
+ENG,22/12/2001,15:00,Leicester City,West Ham United,1,1,D,1,0,H
+ENG,22/12/2001,15:00,Charlton Athletic,Blackburn Rovers,0,2,A,0,0,D
+ENG,22/12/2001,15:00,Tottenham Hotspur,Ipswich Town,1,2,A,1,1,D
+ENG,23/12/2001,14:00,Chelsea FC,Bolton Wanderers,5,1,H,2,1,H
+ENG,23/12/2001,16:00,Liverpool FC,Arsenal FC,1,2,A,0,1,A
+ENG,19/02/2002,19:45,Middlesbrough FC,Fulham FC,2,1,H,1,0,H
+ENG,26/12/2001,12:00,Arsenal FC,Chelsea FC,2,1,H,0,1,A
+ENG,26/12/2001,12:00,Fulham FC,Charlton Athletic,0,0,D,0,0,D
+ENG,26/12/2001,12:00,Bolton Wanderers,Leeds United,0,3,A,0,2,A
+ENG,26/12/2001,12:00,Southampton FC,Tottenham Hotspur,1,0,H,0,0,D
+ENG,26/12/2001,12:00,West Ham United,Derby County,4,0,H,1,0,H
+ENG,26/12/2001,15:00,Blackburn Rovers,Sunderland AFC,0,3,A,0,2,A
+ENG,26/12/2001,15:00,Newcastle United,Middlesbrough FC,3,0,H,1,0,H
+ENG,26/12/2001,15:00,Aston Villa,Liverpool FC,1,2,A,1,1,D
+ENG,26/12/2001,15:00,Everton FC,Manchester United,0,2,A,0,0,D
+ENG,26/12/2001,15:00,Ipswich Town,Leicester City,2,0,H,0,0,D
+ENG,29/12/2001,15:00,West Ham United,Liverpool FC,1,1,D,1,0,H
+ENG,29/12/2001,15:00,Southampton FC,Leeds United,0,1,A,0,0,D
+ENG,29/12/2001,15:00,Ipswich Town,Sunderland AFC,5,0,H,4,0,H
+ENG,29/12/2001,15:00,Everton FC,Charlton Athletic,0,3,A,0,1,A
+ENG,29/12/2001,15:00,Bolton Wanderers,Leicester City,2,2,D,1,2,A
+ENG,29/12/2001,15:00,Aston Villa,Tottenham Hotspur,1,1,D,0,1,A
+ENG,29/12/2001,15:00,Arsenal FC,Middlesbrough FC,2,1,H,0,1,A
+ENG,29/12/2001,15:00,Newcastle United,Chelsea FC,1,2,A,1,2,A
+ENG,29/12/2001,15:00,Blackburn Rovers,Derby County,0,1,A,0,1,A
+ENG,30/12/2001,14:00,Fulham FC,Manchester United,2,3,A,1,2,A
+ENG,01/01/2002,15:00,Middlesbrough FC,Everton FC,1,0,H,0,0,D
+ENG,01/01/2002,15:00,Tottenham Hotspur,Blackburn Rovers,1,0,H,1,0,H
+ENG,01/01/2002,15:00,Charlton Athletic,Ipswich Town,3,2,H,2,2,D
+ENG,01/01/2002,15:00,Liverpool FC,Bolton Wanderers,1,1,D,0,0,D
+ENG,01/01/2002,15:00,Sunderland AFC,Aston Villa,1,1,D,0,0,D
+ENG,01/01/2002,15:00,Chelsea FC,Southampton FC,2,4,A,2,1,H
+ENG,01/01/2002,20:00,Leeds United,West Ham United,3,0,H,2,0,H
+ENG,02/01/2002,19:45,Derby County,Fulham FC,0,1,A,0,0,D
+ENG,02/01/2002,20:00,Manchester United,Newcastle United,3,1,H,1,0,H
+ENG,23/01/2002,19:45,Leicester City,Arsenal FC,1,3,A,0,2,A
+ENG,12/01/2002,15:00,West Ham United,Leicester City,1,0,H,1,0,H
+ENG,12/01/2002,15:00,Ipswich Town,Tottenham Hotspur,2,1,H,1,0,H
+ENG,12/01/2002,15:00,Everton FC,Sunderland AFC,1,0,H,1,0,H
+ENG,12/01/2002,15:00,Bolton Wanderers,Chelsea FC,2,2,D,0,0,D
+ENG,12/01/2002,15:00,Fulham FC,Middlesbrough FC,2,1,H,2,1,H
+ENG,12/01/2002,15:00,Aston Villa,Derby County,2,1,H,2,1,H
+ENG,12/01/2002,15:00,Newcastle United,Leeds United,3,1,H,1,1,D
+ENG,12/01/2002,15:00,Blackburn Rovers,Charlton Athletic,4,1,H,2,0,H
+ENG,13/01/2002,14:00,Southampton FC,Manchester United,1,3,A,1,2,A
+ENG,13/01/2002,16:00,Arsenal FC,Liverpool FC,1,1,D,0,0,D
+ENG,19/01/2002,15:00,Middlesbrough FC,Bolton Wanderers,1,1,D,1,0,H
+ENG,19/01/2002,15:00,Tottenham Hotspur,Everton FC,1,1,D,1,1,D
+ENG,19/01/2002,15:00,Liverpool FC,Southampton FC,1,1,D,1,0,H
+ENG,19/01/2002,15:00,Leicester City,Newcastle United,0,0,D,0,0,D
+ENG,19/01/2002,15:00,Sunderland AFC,Fulham FC,1,1,D,0,1,A
+ENG,19/01/2002,15:00,Derby County,Ipswich Town,1,3,A,0,0,D
+ENG,19/01/2002,15:00,Manchester United,Blackburn Rovers,2,1,H,1,0,H
+ENG,20/01/2002,14:00,Chelsea FC,West Ham United,5,1,H,1,0,H
+ENG,20/01/2002,16:00,Leeds United,Arsenal FC,1,1,D,1,1,D
+ENG,21/01/2002,20:00,Charlton Athletic,Aston Villa,1,2,A,0,2,A
+ENG,29/01/2002,19:45,Sunderland AFC,Middlesbrough FC,0,1,A,0,1,A
+ENG,29/01/2002,19:45,Charlton Athletic,Derby County,1,0,H,0,0,D
+ENG,29/01/2002,20:00,Bolton Wanderers,Manchester United,0,4,A,0,2,A
+ENG,30/01/2002,19:45,Tottenham Hotspur,Newcastle United,1,3,A,1,0,H
+ENG,30/01/2002,19:45,Blackburn Rovers,Arsenal FC,2,3,A,2,2,D
+ENG,30/01/2002,19:45,Aston Villa,Everton FC,0,0,D,0,0,D
+ENG,30/01/2002,19:45,Southampton FC,West Ham United,2,0,H,1,0,H
+ENG,30/01/2002,19:45,Ipswich Town,Fulham FC,1,0,H,1,0,H
+ENG,30/01/2002,20:00,Liverpool FC,Leicester City,1,0,H,0,0,D
+ENG,30/01/2002,20:00,Chelsea FC,Leeds United,2,0,H,2,0,H
+ENG,02/02/2002,12:00,Derby County,Tottenham Hotspur,1,0,H,1,0,H
+ENG,02/02/2002,15:00,West Ham United,Blackburn Rovers,2,0,H,1,0,H
+ENG,02/02/2002,15:00,Newcastle United,Bolton Wanderers,3,2,H,2,2,D
+ENG,02/02/2002,15:00,Leicester City,Chelsea FC,2,3,A,1,0,H
+ENG,02/02/2002,15:00,Fulham FC,Aston Villa,0,0,D,0,0,D
+ENG,02/02/2002,15:00,Arsenal FC,Southampton FC,1,1,D,1,0,H
+ENG,02/02/2002,15:00,Manchester United,Sunderland AFC,4,1,H,4,1,H
+ENG,02/02/2002,15:00,Everton FC,Ipswich Town,1,2,A,1,2,A
+ENG,03/02/2002,12:00,Leeds United,Liverpool FC,0,4,A,0,1,A
+ENG,03/02/2002,16:00,Middlesbrough FC,Charlton Athletic,0,0,D,0,0,D
+ENG,09/02/2002,15:00,Middlesbrough FC,Leeds United,2,2,D,0,1,A
+ENG,09/02/2002,15:00,Fulham FC,Blackburn Rovers,2,0,H,1,0,H
+ENG,09/02/2002,15:00,Ipswich Town,Liverpool FC,0,6,A,0,2,A
+ENG,09/02/2002,15:00,Newcastle United,Southampton FC,3,1,H,3,1,H
+ENG,09/02/2002,15:00,Bolton Wanderers,West Ham United,1,0,H,1,0,H
+ENG,09/02/2002,15:00,Aston Villa,Chelsea FC,1,1,D,1,0,H
+ENG,09/02/2002,15:00,Tottenham Hotspur,Leicester City,2,1,H,1,0,H
+ENG,09/02/2002,15:00,Derby County,Sunderland AFC,0,1,A,0,0,D
+ENG,10/02/2002,14:00,Charlton Athletic,Manchester United,0,2,A,0,1,A
+ENG,10/02/2002,16:00,Everton FC,Arsenal FC,0,1,A,0,0,D
+ENG,23/02/2002,12:00,Manchester United,Aston Villa,1,0,H,0,0,D
+ENG,23/02/2002,15:00,Southampton FC,Bolton Wanderers,0,0,D,0,0,D
+ENG,23/02/2002,15:00,Leicester City,Derby County,0,3,A,0,0,D
+ENG,23/02/2002,15:00,West Ham United,Middlesbrough FC,1,0,H,0,0,D
+ENG,23/02/2002,15:00,Arsenal FC,Fulham FC,4,1,H,3,1,H
+ENG,23/02/2002,15:00,Liverpool FC,Everton FC,1,1,D,0,0,D
+ENG,24/02/2002,13:00,Sunderland AFC,Newcastle United,0,1,A,0,0,D
+ENG,24/02/2002,15:00,Leeds United,Charlton Athletic,0,0,D,0,0,D
+ENG,13/03/2002,19:45,Blackburn Rovers,Ipswich Town,2,1,H,2,0,H
+ENG,13/03/2002,19:45,Chelsea FC,Tottenham Hotspur,4,0,H,1,0,H
+ENG,02/03/2002,15:00,Middlesbrough FC,Leicester City,1,0,H,1,0,H
+ENG,02/03/2002,15:00,Fulham FC,Liverpool FC,0,2,A,0,1,A
+ENG,02/03/2002,15:00,Ipswich Town,Southampton FC,1,3,A,0,0,D
+ENG,02/03/2002,15:00,Charlton Athletic,Chelsea FC,2,1,H,0,0,D
+ENG,02/03/2002,15:00,Bolton Wanderers,Blackburn Rovers,1,1,D,1,0,H
+ENG,02/03/2002,15:00,Aston Villa,West Ham United,2,1,H,1,1,D
+ENG,02/03/2002,15:00,Tottenham Hotspur,Sunderland AFC,2,1,H,1,1,D
+ENG,02/03/2002,17:30,Newcastle United,Arsenal FC,0,2,A,0,2,A
+ENG,03/03/2002,15:00,Everton FC,Leeds United,0,0,D,0,0,D
+ENG,03/03/2002,16:00,Derby County,Manchester United,2,2,D,1,1,D
+ENG,05/03/2002,19:45,Arsenal FC,Derby County,1,0,H,0,0,D
+ENG,05/03/2002,20:00,Blackburn Rovers,Aston Villa,3,0,H,1,0,H
+ENG,05/03/2002,20:00,Sunderland AFC,Bolton Wanderers,1,0,H,1,0,H
+ENG,06/03/2002,19:45,Southampton FC,Middlesbrough FC,1,1,D,1,0,H
+ENG,06/03/2002,19:45,West Ham United,Everton FC,1,0,H,0,0,D
+ENG,06/03/2002,19:45,Chelsea FC,Fulham FC,3,2,H,2,1,H
+ENG,06/03/2002,19:45,Leeds United,Ipswich Town,2,0,H,0,0,D
+ENG,06/03/2002,20:00,Manchester United,Tottenham Hotspur,4,0,H,2,0,H
+ENG,06/03/2002,20:00,Liverpool FC,Newcastle United,3,0,H,1,0,H
+ENG,09/03/2002,15:00,Leicester City,Charlton Athletic,1,1,D,1,1,D
+ENG,16/03/2002,12:00,Middlesbrough FC,Liverpool FC,1,2,A,0,1,A
+ENG,16/03/2002,15:00,Southampton FC,Leicester City,2,2,D,1,2,A
+ENG,16/03/2002,15:00,Everton FC,Fulham FC,2,1,H,2,0,H
+ENG,16/03/2002,15:00,West Ham United,Manchester United,3,5,A,2,2,D
+ENG,16/03/2002,15:00,Bolton Wanderers,Derby County,1,3,A,0,1,A
+ENG,16/03/2002,15:00,Newcastle United,Ipswich Town,2,2,D,0,0,D
+ENG,16/03/2002,15:00,Chelsea FC,Sunderland AFC,4,0,H,1,0,H
+ENG,17/03/2002,14:00,Leeds United,Blackburn Rovers,3,1,H,2,0,H
+ENG,17/03/2002,16:00,Aston Villa,Arsenal FC,1,2,A,0,1,A
+ENG,18/03/2002,20:00,Tottenham Hotspur,Charlton Athletic,0,1,A,0,0,D
+ENG,23/03/2002,15:00,Sunderland AFC,Southampton FC,1,1,D,0,0,D
+ENG,23/03/2002,15:00,Ipswich Town,Aston Villa,0,0,D,0,0,D
+ENG,23/03/2002,15:00,Leicester City,Leeds United,0,2,A,0,2,A
+ENG,23/03/2002,15:00,Charlton Athletic,Bolton Wanderers,1,2,A,0,2,A
+ENG,23/03/2002,15:00,Manchester United,Middlesbrough FC,0,1,A,0,1,A
+ENG,23/03/2002,15:00,Derby County,Everton FC,3,4,A,0,1,A
+ENG,24/03/2002,14:00,Liverpool FC,Chelsea FC,1,0,H,0,0,D
+ENG,24/03/2002,16:00,Fulham FC,Tottenham Hotspur,0,2,A,0,2,A
+ENG,23/04/2002,20:00,Blackburn Rovers,Newcastle United,2,2,D,1,0,H
+ENG,24/04/2002,20:00,Arsenal FC,West Ham United,2,0,H,0,0,D
+ENG,29/03/2002,14:00,Newcastle United,Everton FC,6,2,H,2,2,D
+ENG,30/03/2002,12:00,Leeds United,Manchester United,3,4,A,1,3,A
+ENG,30/03/2002,15:00,Southampton FC,Fulham FC,1,1,D,1,1,D
+ENG,30/03/2002,15:00,Leicester City,Blackburn Rovers,2,1,H,1,0,H
+ENG,30/03/2002,15:00,West Ham United,Ipswich Town,3,1,H,1,0,H
+ENG,30/03/2002,15:00,Bolton Wanderers,Aston Villa,3,2,H,2,2,D
+ENG,30/03/2002,15:00,Arsenal FC,Sunderland AFC,3,0,H,3,0,H
+ENG,30/03/2002,15:00,Liverpool FC,Charlton Athletic,2,0,H,2,0,H
+ENG,30/03/2002,15:00,Chelsea FC,Derby County,2,1,H,0,0,D
+ENG,30/03/2002,17:35,Middlesbrough FC,Tottenham Hotspur,1,1,D,0,1,A
+ENG,22/01/2002,20:00,Manchester United,Liverpool FC,0,1,A,0,0,D
+ENG,01/04/2002,15:00,Sunderland AFC,Leicester City,2,1,H,2,1,H
+ENG,01/04/2002,15:00,Fulham FC,West Ham United,0,1,A,0,1,A
+ENG,01/04/2002,15:00,Ipswich Town,Chelsea FC,0,0,D,0,0,D
+ENG,01/04/2002,15:00,Everton FC,Bolton Wanderers,3,1,H,1,0,H
+ENG,01/04/2002,15:00,Charlton Athletic,Arsenal FC,0,3,A,0,3,A
+ENG,01/04/2002,15:00,Tottenham Hotspur,Leeds United,2,1,H,2,0,H
+ENG,01/04/2002,15:00,Derby County,Middlesbrough FC,0,1,A,0,1,A
+ENG,01/04/2002,20:00,Blackburn Rovers,Southampton FC,2,0,H,2,0,H
+ENG,02/04/2002,19:45,Aston Villa,Newcastle United,1,1,D,1,1,D
+ENG,06/04/2002,12:00,Leicester City,Manchester United,0,1,A,0,0,D
+ENG,06/04/2002,15:00,Southampton FC,Derby County,2,0,H,1,0,H
+ENG,06/04/2002,15:00,Middlesbrough FC,Aston Villa,2,1,H,1,0,H
+ENG,06/04/2002,15:00,West Ham United,Charlton Athletic,2,0,H,2,0,H
+ENG,06/04/2002,15:00,Bolton Wanderers,Ipswich Town,4,1,H,4,0,H
+ENG,06/04/2002,15:00,Arsenal FC,Tottenham Hotspur,2,1,H,1,0,H
+ENG,06/04/2002,15:00,Chelsea FC,Everton FC,3,0,H,2,0,H
+ENG,07/04/2002,16:00,Leeds United,Sunderland AFC,2,0,H,1,0,H
+ENG,08/04/2002,20:00,Newcastle United,Fulham FC,1,1,D,1,0,H
+ENG,08/05/2002,20:00,Liverpool FC,Blackburn Rovers,4,3,H,2,1,H
+ENG,10/04/2002,20:00,Blackburn Rovers,Chelsea FC,0,0,D,0,0,D
+ENG,13/04/2002,15:00,Derby County,Newcastle United,2,3,A,0,0,D
+ENG,13/04/2002,15:00,Tottenham Hotspur,West Ham United,1,1,D,0,0,D
+ENG,13/04/2002,15:00,Aston Villa,Leeds United,0,1,A,0,1,A
+ENG,13/04/2002,15:00,Charlton Athletic,Southampton FC,1,1,D,1,0,H
+ENG,13/04/2002,15:00,Everton FC,Leicester City,2,2,D,0,2,A
+ENG,13/04/2002,17:35,Sunderland AFC,Liverpool FC,0,1,A,0,0,D
+ENG,23/04/2002,19:45,Fulham FC,Bolton Wanderers,3,0,H,1,0,H
+ENG,24/04/2002,19:45,Ipswich Town,Middlesbrough FC,1,0,H,0,0,D
+ENG,08/05/2002,20:00,Manchester United,Arsenal FC,0,1,A,0,0,D
+ENG,20/04/2002,12:00,Chelsea FC,Manchester United,0,3,A,0,2,A
+ENG,20/04/2002,15:00,Liverpool FC,Derby County,2,0,H,1,0,H
+ENG,20/04/2002,15:00,Bolton Wanderers,Tottenham Hotspur,1,1,D,0,1,A
+ENG,20/04/2002,15:00,West Ham United,Sunderland AFC,3,0,H,1,0,H
+ENG,20/04/2002,15:00,Leeds United,Fulham FC,0,1,A,0,0,D
+ENG,20/04/2002,15:00,Leicester City,Aston Villa,2,2,D,1,2,A
+ENG,20/04/2002,15:00,Middlesbrough FC,Blackburn Rovers,1,3,A,0,1,A
+ENG,20/04/2002,15:00,Newcastle United,Charlton Athletic,3,0,H,1,0,H
+ENG,20/04/2002,17:15,Southampton FC,Everton FC,0,1,A,0,1,A
+ENG,21/04/2002,16:00,Arsenal FC,Ipswich Town,2,0,H,0,0,D
+ENG,27/04/2002,12:00,Tottenham Hotspur,Liverpool FC,1,0,H,1,0,H
+ENG,27/04/2002,15:00,Derby County,Leeds United,0,1,A,0,1,A
+ENG,27/04/2002,15:00,Aston Villa,Southampton FC,2,1,H,2,0,H
+ENG,27/04/2002,15:00,Charlton Athletic,Sunderland AFC,2,2,D,1,2,A
+ENG,27/04/2002,15:00,Newcastle United,West Ham United,3,1,H,1,1,D
+ENG,27/04/2002,15:00,Fulham FC,Leicester City,0,0,D,0,0,D
+ENG,27/04/2002,15:00,Middlesbrough FC,Chelsea FC,0,2,A,0,2,A
+ENG,27/04/2002,17:35,Ipswich Town,Manchester United,0,1,A,0,1,A
+ENG,28/04/2002,16:00,Everton FC,Blackburn Rovers,1,2,A,0,1,A
+ENG,29/04/2002,20:00,Bolton Wanderers,Arsenal FC,0,2,A,0,2,A
+ENG,11/05/2002,15:00,Chelsea FC,Aston Villa,1,3,A,0,1,A
+ENG,11/05/2002,15:00,Liverpool FC,Ipswich Town,5,0,H,2,0,H
+ENG,11/05/2002,15:00,Arsenal FC,Everton FC,4,3,H,2,2,D
+ENG,11/05/2002,15:00,Blackburn Rovers,Fulham FC,3,0,H,0,0,D
+ENG,11/05/2002,15:00,West Ham United,Bolton Wanderers,2,1,H,1,0,H
+ENG,11/05/2002,15:00,Leeds United,Middlesbrough FC,1,0,H,0,0,D
+ENG,11/05/2002,15:00,Leicester City,Tottenham Hotspur,2,1,H,0,0,D
+ENG,11/05/2002,15:00,Sunderland AFC,Derby County,1,1,D,1,0,H
+ENG,11/05/2002,15:00,Manchester United,Charlton Athletic,0,0,D,0,0,D
+ENG,11/05/2002,15:00,Southampton FC,Newcastle United,3,1,H,2,0,H

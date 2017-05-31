@@ -1,0 +1,136 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUS,07/10/2016,09:50,Brisbane Roar,Melbourne Victory,1,1,D,0,0,D
+AUS,08/10/2016,07:35,Wellington Phoenix,Melbourne City FC,0,1,A,0,1,A
+AUS,08/10/2016,09:50,Western Sydney Wanderers,Sydney FC,0,4,A,0,0,D
+AUS,08/10/2016,12:00,Perth Glory,Central Coast Mariners,3,3,D,3,0,H
+AUS,09/10/2016,07:00,Newcastle United Jets,Adelaide United,1,1,D,1,1,D
+AUS,14/10/2016,09:50,Adelaide United,Western Sydney Wanderers,1,2,A,1,0,H
+AUS,15/10/2016,07:35,Sydney FC,Central Coast Mariners,4,0,H,2,0,H
+AUS,15/10/2016,09:50,Melbourne Victory,Melbourne City FC,1,4,A,0,2,A
+AUS,16/10/2016,07:00,Newcastle United Jets,Brisbane Roar,4,0,H,1,0,H
+AUS,16/10/2016,09:00,Perth Glory,Wellington Phoenix,2,0,H,0,0,D
+AUS,21/10/2016,09:50,Melbourne City FC,Perth Glory,2,3,A,1,1,D
+AUS,22/10/2016,07:35,Central Coast Mariners,Brisbane Roar,0,1,A,0,1,A
+AUS,22/10/2016,09:50,Adelaide United,Melbourne Victory,1,2,A,0,1,A
+AUS,23/10/2016,07:00,Wellington Phoenix,Sydney FC,0,1,A,0,0,D
+AUS,23/10/2016,09:00,Western Sydney Wanderers,Newcastle United Jets,2,2,D,2,0,H
+AUS,28/10/2016,09:50,Melbourne City FC,Adelaide United,2,1,H,1,0,H
+AUS,29/10/2016,07:35,Newcastle United Jets,Sydney FC,0,2,A,0,1,A
+AUS,29/10/2016,09:50,Western Sydney Wanderers,Central Coast Mariners,1,1,D,1,0,H
+AUS,30/10/2016,06:00,Brisbane Roar,Perth Glory,2,1,H,1,0,H
+AUS,31/10/2016,08:50,Melbourne Victory,Wellington Phoenix,6,1,H,2,0,H
+AUS,04/11/2016,08:50,Brisbane Roar,Melbourne City FC,1,0,H,1,0,H
+AUS,05/11/2016,06:35,Wellington Phoenix,Newcastle United Jets,2,0,H,2,0,H
+AUS,05/11/2016,08:50,Sydney FC,Melbourne Victory,2,1,H,0,1,A
+AUS,06/11/2016,06:00,Adelaide United,Central Coast Mariners,1,2,A,1,0,H
+AUS,06/11/2016,08:00,Perth Glory,Western Sydney Wanderers,2,2,D,1,1,D
+AUS,10/11/2016,08:50,Melbourne City FC,Newcastle United Jets,2,1,H,2,1,H
+AUS,11/11/2016,08:50,Adelaide United,Brisbane Roar,1,1,D,0,0,D
+AUS,12/11/2016,06:35,Central Coast Mariners,Wellington Phoenix,0,2,A,0,0,D
+AUS,12/11/2016,08:50,Melbourne Victory,Western Sydney Wanderers,3,0,H,1,0,H
+AUS,13/11/2016,06:00,Sydney FC,Perth Glory,4,1,H,2,0,H
+AUS,18/11/2016,08:50,Western Sydney Wanderers,Melbourne City FC,1,1,D,0,0,D
+AUS,18/11/2016,11:00,Perth Glory,Adelaide United,3,1,H,1,1,D
+AUS,19/11/2016,08:50,Brisbane Roar,Sydney FC,1,1,D,1,1,D
+AUS,20/11/2016,06:00,Newcastle United Jets,Central Coast Mariners,1,1,D,0,1,A
+AUS,17/01/2017,06:45,Wellington Phoenix,Melbourne Victory,3,0,H,1,0,H
+AUS,24/11/2016,08:50,Central Coast Mariners,Perth Glory,2,0,H,1,0,H
+AUS,25/11/2016,08:50,Western Sydney Wanderers,Brisbane Roar,1,1,D,0,1,A
+AUS,26/11/2016,06:35,Melbourne Victory,Newcastle United Jets,2,0,H,0,0,D
+AUS,26/11/2016,08:50,Sydney FC,Adelaide United,0,0,D,0,0,D
+AUS,27/11/2016,06:00,Melbourne City FC,Wellington Phoenix,2,1,H,1,0,H
+AUS,02/12/2016,08:50,Melbourne Victory,Perth Glory,1,1,D,1,1,D
+AUS,03/12/2016,06:35,Central Coast Mariners,Western Sydney Wanderers,1,4,A,1,2,A
+AUS,03/12/2016,08:50,Melbourne City FC,Brisbane Roar,1,1,D,0,1,A
+AUS,04/12/2016,06:00,Newcastle United Jets,Sydney FC,0,2,A,0,0,D
+AUS,04/12/2016,08:00,Adelaide United,Wellington Phoenix,2,0,H,2,0,H
+AUS,09/12/2016,08:50,Sydney FC,Melbourne City FC,1,1,D,0,1,A
+AUS,10/12/2016,06:35,Wellington Phoenix,Central Coast Mariners,3,0,H,1,0,H
+AUS,10/12/2016,08:50,Western Sydney Wanderers,Melbourne Victory,0,3,A,0,1,A
+AUS,10/12/2016,11:00,Perth Glory,Newcastle United Jets,1,2,A,1,2,A
+AUS,11/12/2016,06:00,Brisbane Roar,Adelaide United,4,0,H,2,0,H
+AUS,16/12/2016,08:50,Newcastle United Jets,Adelaide United,2,1,H,1,0,H
+AUS,17/12/2016,06:35,Wellington Phoenix,Western Sydney Wanderers,2,2,D,0,1,A
+AUS,17/12/2016,08:50,Melbourne City FC,Melbourne Victory,1,2,A,1,1,D
+AUS,17/12/2016,11:00,Perth Glory,Sydney FC,1,4,A,1,1,D
+AUS,18/12/2016,06:00,Central Coast Mariners,Brisbane Roar,1,2,A,0,1,A
+AUS,23/12/2016,08:50,Brisbane Roar,Western Sydney Wanderers,1,1,D,0,0,D
+AUS,26/12/2016,06:35,Newcastle United Jets,Wellington Phoenix,2,2,D,0,1,A
+AUS,26/12/2016,08:50,Adelaide United,Sydney FC,0,4,A,0,1,A
+AUS,27/12/2016,08:50,Melbourne City FC,Perth Glory,3,3,D,2,2,D
+AUS,28/12/2016,08:50,Melbourne Victory,Central Coast Mariners,4,1,H,1,0,H
+AUS,30/12/2016,08:50,Sydney FC,Brisbane Roar,2,0,H,1,0,H
+AUS,31/12/2016,08:00,Central Coast Mariners,Melbourne City FC,2,2,D,0,1,A
+AUS,01/01/2017,06:35,Wellington Phoenix,Adelaide United,0,0,D,0,0,D
+AUS,01/01/2017,08:50,Western Sydney Wanderers,Perth Glory,1,1,D,0,1,A
+AUS,02/01/2017,08:50,Melbourne Victory,Newcastle United Jets,4,2,H,2,0,H
+AUS,05/01/2017,10:00,Perth Glory,Wellington Phoenix,2,1,H,1,1,D
+AUS,06/01/2017,08:50,Melbourne City FC,Western Sydney Wanderers,1,0,H,1,0,H
+AUS,07/01/2017,06:35,Brisbane Roar,Newcastle United Jets,2,3,A,1,1,D
+AUS,07/01/2017,08:50,Adelaide United,Melbourne Victory,0,2,A,0,1,A
+AUS,08/01/2017,06:00,Central Coast Mariners,Sydney FC,2,3,A,0,1,A
+AUS,12/01/2017,08:50,Adelaide United,Melbourne City FC,2,1,H,1,1,D
+AUS,13/01/2017,08:50,Melbourne Victory,Brisbane Roar,3,2,H,3,2,H
+AUS,14/01/2017,06:35,Wellington Phoenix,Central Coast Mariners,1,0,H,1,0,H
+AUS,14/01/2017,08:50,Sydney FC,Western Sydney Wanderers,0,0,D,0,0,D
+AUS,15/01/2017,06:00,Newcastle United Jets,Perth Glory,2,2,D,2,1,H
+AUS,19/01/2017,08:50,Melbourne City FC,Central Coast Mariners,2,1,H,2,1,H
+AUS,20/01/2017,08:50,Sydney FC,Adelaide United,2,0,H,0,0,D
+AUS,21/01/2017,06:35,Wellington Phoenix,Brisbane Roar,0,1,A,0,0,D
+AUS,21/01/2017,09:00,Perth Glory,Melbourne Victory,2,1,H,0,0,D
+AUS,22/01/2017,06:00,Western Sydney Wanderers,Newcastle United Jets,2,0,H,1,0,H
+AUS,26/01/2017,08:50,Melbourne Victory,Sydney FC,1,2,A,1,1,D
+AUS,27/01/2017,08:50,Newcastle United Jets,Melbourne City FC,2,1,H,1,0,H
+AUS,28/01/2017,06:35,Central Coast Mariners,Perth Glory,2,0,H,0,0,D
+AUS,28/01/2017,08:50,Brisbane Roar,Western Sydney Wanderers,2,1,H,1,1,D
+AUS,29/01/2017,06:00,Adelaide United,Wellington Phoenix,2,2,D,1,2,A
+AUS,03/02/2017,08:50,Brisbane Roar,Sydney FC,0,0,D,0,0,D
+AUS,04/02/2017,06:35,Wellington Phoenix,Western Sydney Wanderers,1,3,A,0,1,A
+AUS,04/02/2017,08:50,Melbourne Victory,Melbourne City FC,2,1,H,0,0,D
+AUS,04/02/2017,11:00,Perth Glory,Newcastle United Jets,3,2,H,2,1,H
+AUS,05/02/2017,06:00,Central Coast Mariners,Adelaide United,2,1,H,1,0,H
+AUS,09/02/2017,08:50,Sydney FC,Wellington Phoenix,3,1,H,2,1,H
+AUS,10/02/2017,09:50,Adelaide United,Perth Glory,0,5,A,0,3,A
+AUS,11/02/2017,08:50,Melbourne City FC,Brisbane Roar,2,2,D,0,2,A
+AUS,12/02/2017,06:00,Western Sydney Wanderers,Central Coast Mariners,0,2,A,0,0,D
+AUS,13/02/2017,08:50,Newcastle United Jets,Melbourne Victory,0,0,D,0,0,D
+AUS,17/02/2017,08:50,Adelaide United,Newcastle United Jets,1,0,H,0,0,D
+AUS,18/02/2017,06:35,Wellington Phoenix,Melbourne City FC,1,5,A,0,2,A
+AUS,18/02/2017,08:50,Western Sydney Wanderers,Sydney FC,1,0,H,1,0,H
+AUS,18/02/2017,11:00,Perth Glory,Brisbane Roar,2,2,D,1,2,A
+AUS,19/02/2017,06:00,Central Coast Mariners,Melbourne Victory,0,3,A,0,1,A
+AUS,24/02/2017,08:50,Melbourne City FC,Sydney FC,1,3,A,1,1,D
+AUS,25/02/2017,06:35,Brisbane Roar,Wellington Phoenix,1,2,A,0,1,A
+AUS,25/02/2017,08:50,Melbourne Victory,Adelaide United,2,1,H,0,0,D
+AUS,25/02/2017,11:00,Perth Glory,Western Sydney Wanderers,2,0,H,1,0,H
+AUS,26/02/2017,06:00,Newcastle United Jets,Central Coast Mariners,1,1,D,1,0,H
+AUS,03/03/2017,08:50,Sydney FC,Melbourne Victory,1,0,H,0,0,D
+AUS,04/03/2017,06:35,Wellington Phoenix,Perth Glory,3,3,D,2,1,H
+AUS,04/03/2017,08:50,Western Sydney Wanderers,Adelaide United,0,0,D,0,0,D
+AUS,05/03/2017,06:00,Central Coast Mariners,Melbourne City FC,2,3,A,1,2,A
+AUS,05/03/2017,08:00,Newcastle United Jets,Brisbane Roar,1,3,A,1,0,H
+AUS,10/03/2017,08:50,Sydney FC,Central Coast Mariners,1,0,H,1,0,H
+AUS,11/03/2017,08:50,Melbourne Victory,Perth Glory,4,1,H,2,1,H
+AUS,18/03/2017,08:50,Melbourne City FC,Newcastle United Jets,4,0,H,1,0,H
+AUS,19/03/2017,06:00,Adelaide United,Brisbane Roar,2,1,H,1,0,H
+AUS,19/03/2017,08:00,Western Sydney Wanderers,Wellington Phoenix,3,1,H,2,0,H
+AUS,24/03/2017,08:50,Western Sydney Wanderers,Melbourne City FC,3,1,H,1,1,D
+AUS,25/03/2017,06:35,Central Coast Mariners,Adelaide United,2,3,A,1,0,H
+AUS,25/03/2017,08:50,Brisbane Roar,Melbourne Victory,1,0,H,0,0,D
+AUS,26/03/2017,07:00,Wellington Phoenix,Newcastle United Jets,5,0,H,2,0,H
+AUS,26/03/2017,09:00,Perth Glory,Sydney FC,0,3,A,0,2,A
+AUS,31/03/2017,09:50,Adelaide United,Perth Glory,1,1,D,1,1,D
+AUS,01/04/2017,07:35,Newcastle United Jets,Western Sydney Wanderers,0,3,A,0,2,A
+AUS,01/04/2017,09:50,Sydney FC,Melbourne City FC,3,0,H,0,0,D
+AUS,02/04/2017,08:00,Melbourne Victory,Wellington Phoenix,0,3,A,0,2,A
+AUS,02/04/2017,10:00,Brisbane Roar,Central Coast Mariners,5,1,H,0,0,D
+AUS,07/04/2017,10:50,Melbourne City FC,Adelaide United,1,0,H,1,0,H
+AUS,08/04/2017,08:35,Wellington Phoenix,Sydney FC,1,1,D,0,0,D
+AUS,08/04/2017,10:50,Western Sydney Wanderers,Melbourne Victory,0,0,D,0,0,D
+AUS,08/04/2017,13:00,Perth Glory,Brisbane Roar,3,1,H,1,0,H
+AUS,09/04/2017,08:00,Central Coast Mariners,Newcastle United Jets,2,0,H,1,0,H
+AUS,14/04/2017,10:50,Melbourne Victory,Central Coast Mariners,1,0,H,0,0,D
+AUS,15/04/2017,08:35,Sydney FC,Newcastle United Jets,2,0,H,0,0,D
+AUS,15/04/2017,10:50,Adelaide United,Western Sydney Wanderers,2,2,D,2,0,H
+AUS,16/04/2017,08:00,Brisbane Roar,Wellington Phoenix,4,3,H,1,3,A
+AUS,16/04/2017,10:00,Perth Glory,Melbourne City FC,5,4,H,1,1,D

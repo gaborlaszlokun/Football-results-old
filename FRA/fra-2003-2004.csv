@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,01/08/2003,19:45,Lille OSC,Olympique Lyon,1,0,H,1,0,H
+FRA,02/08/2003,16:15,AS Monaco,Girondins Bordeaux,2,0,H,1,0,H
+FRA,02/08/2003,19:00,FC Sochaux,FC Nantes,2,1,H,1,1,D
+FRA,02/08/2003,19:00,EA Guingamp,Olympique Marseille,0,1,A,0,0,D
+FRA,02/08/2003,19:00,Toulouse FC,RC Strasbourg,1,1,D,0,0,D
+FRA,02/08/2003,19:00,FC Metz,AC Ajaccio,0,1,A,0,1,A
+FRA,02/08/2003,19:00,RC Lens,Le Mans UC 72,0,0,D,0,0,D
+FRA,02/08/2003,19:00,Montpellier HSC,Stade Rennes,1,1,D,0,1,A
+FRA,02/08/2003,19:00,Paris Saint-Germain,SC Bastia,0,0,D,0,0,D
+FRA,02/08/2003,19:00,AJ Auxerre,OGC Nice,1,2,A,0,1,A
+FRA,08/08/2003,19:45,Olympique Marseille,AJ Auxerre,1,0,H,0,0,D
+FRA,09/08/2003,16:15,Lille OSC,Paris Saint-Germain,1,0,H,1,0,H
+FRA,09/08/2003,19:00,Stade Rennes,Toulouse FC,1,0,H,1,0,H
+FRA,09/08/2003,19:00,OGC Nice,FC Sochaux,1,0,H,0,0,D
+FRA,09/08/2003,19:00,Le Mans UC 72,AC Ajaccio,0,1,A,0,1,A
+FRA,09/08/2003,19:00,SC Bastia,FC Metz,0,2,A,0,1,A
+FRA,09/08/2003,19:00,FC Nantes,RC Lens,2,0,H,0,0,D
+FRA,09/08/2003,19:00,Girondins Bordeaux,Montpellier HSC,0,1,A,0,0,D
+FRA,09/08/2003,19:00,Olympique Lyon,AS Monaco,3,1,H,3,0,H
+FRA,09/08/2003,19:00,RC Strasbourg,EA Guingamp,2,0,H,1,0,H
+FRA,16/08/2003,16:15,AJ Auxerre,RC Strasbourg,3,2,H,2,1,H
+FRA,16/08/2003,19:00,AC Ajaccio,FC Nantes,1,3,A,0,2,A
+FRA,16/08/2003,19:00,EA Guingamp,Girondins Bordeaux,1,3,A,1,2,A
+FRA,16/08/2003,19:00,Toulouse FC,Lille OSC,0,3,A,0,1,A
+FRA,16/08/2003,19:00,Le Mans UC 72,OGC Nice,1,1,D,1,1,D
+FRA,16/08/2003,19:00,Montpellier HSC,Olympique Lyon,0,2,A,0,2,A
+FRA,16/08/2003,19:00,FC Sochaux,Stade Rennes,1,1,D,0,0,D
+FRA,16/08/2003,19:00,AS Monaco,SC Bastia,2,0,H,2,0,H
+FRA,16/08/2003,19:00,FC Metz,Paris Saint-Germain,0,1,A,0,0,D
+FRA,17/08/2003,19:45,RC Lens,Olympique Marseille,2,1,H,1,1,D
+FRA,23/08/2003,16:15,Girondins Bordeaux,AJ Auxerre,2,0,H,2,0,H
+FRA,23/08/2003,19:00,Lille OSC,FC Metz,1,1,D,0,1,A
+FRA,23/08/2003,19:00,Olympique Marseille,FC Sochaux,2,0,H,1,0,H
+FRA,23/08/2003,19:00,Stade Rennes,EA Guingamp,0,0,D,0,0,D
+FRA,23/08/2003,19:00,OGC Nice,AC Ajaccio,2,2,D,1,1,D
+FRA,23/08/2003,19:00,RC Strasbourg,RC Lens,0,1,A,0,1,A
+FRA,23/08/2003,19:00,SC Bastia,Montpellier HSC,1,0,H,0,0,D
+FRA,23/08/2003,19:00,FC Nantes,Le Mans UC 72,1,0,H,0,0,D
+FRA,23/08/2003,19:00,Olympique Lyon,Toulouse FC,0,0,D,0,0,D
+FRA,24/08/2003,19:45,Paris Saint-Germain,AS Monaco,2,4,A,1,2,A
+FRA,30/08/2003,16:15,EA Guingamp,Olympique Lyon,2,0,H,2,0,H
+FRA,30/08/2003,19:00,Toulouse FC,SC Bastia,0,2,A,0,2,A
+FRA,30/08/2003,19:00,Le Mans UC 72,RC Strasbourg,0,3,A,0,1,A
+FRA,30/08/2003,19:00,Montpellier HSC,Paris Saint-Germain,3,2,H,0,1,A
+FRA,30/08/2003,19:00,FC Sochaux,Lille OSC,2,1,H,2,1,H
+FRA,30/08/2003,19:00,AJ Auxerre,Stade Rennes,2,1,H,1,0,H
+FRA,30/08/2003,19:00,FC Nantes,Girondins Bordeaux,0,0,D,0,0,D
+FRA,31/08/2003,17:30,RC Lens,OGC Nice,1,0,H,0,0,D
+FRA,31/08/2003,17:30,AS Monaco,FC Metz,1,0,H,1,0,H
+FRA,31/08/2003,19:45,AC Ajaccio,Olympique Marseille,0,1,A,0,0,D
+FRA,13/09/2003,16:15,Olympique Lyon,AJ Auxerre,1,1,D,1,1,D
+FRA,13/09/2003,19:00,Lille OSC,AS Monaco,1,1,D,0,1,A
+FRA,13/09/2003,19:00,Olympique Marseille,Le Mans UC 72,5,0,H,2,0,H
+FRA,13/09/2003,19:00,Stade Rennes,RC Lens,2,0,H,1,0,H
+FRA,13/09/2003,19:00,OGC Nice,FC Nantes,1,0,H,1,0,H
+FRA,13/09/2003,19:00,RC Strasbourg,AC Ajaccio,3,2,H,3,2,H
+FRA,13/09/2003,19:00,SC Bastia,EA Guingamp,4,2,H,2,0,H
+FRA,13/09/2003,19:00,FC Metz,Montpellier HSC,2,1,H,1,0,H
+FRA,13/09/2003,19:00,Girondins Bordeaux,FC Sochaux,1,3,A,1,1,D
+FRA,14/09/2003,19:45,Paris Saint-Germain,Toulouse FC,2,1,H,1,0,H
+FRA,20/09/2003,16:15,FC Sochaux,RC Strasbourg,3,0,H,2,0,H
+FRA,20/09/2003,19:00,AC Ajaccio,Stade Rennes,1,0,H,1,0,H
+FRA,20/09/2003,19:00,Toulouse FC,FC Metz,1,0,H,0,0,D
+FRA,20/09/2003,19:00,OGC Nice,Lille OSC,2,0,H,2,0,H
+FRA,20/09/2003,19:00,EA Guingamp,Paris Saint-Germain,0,2,A,0,0,D
+FRA,20/09/2003,19:00,AJ Auxerre,SC Bastia,4,1,H,3,1,H
+FRA,20/09/2003,19:00,RC Lens,Girondins Bordeaux,1,0,H,1,0,H
+FRA,21/09/2003,17:30,Le Mans UC 72,Olympique Lyon,0,2,A,0,1,A
+FRA,21/09/2003,17:30,Montpellier HSC,AS Monaco,1,2,A,1,1,D
+FRA,21/09/2003,19:45,FC Nantes,Olympique Marseille,1,0,H,1,0,H
+FRA,27/09/2003,16:15,Olympique Lyon,RC Lens,4,0,H,3,0,H
+FRA,27/09/2003,19:00,Lille OSC,Montpellier HSC,1,1,D,1,0,H
+FRA,27/09/2003,19:00,SC Bastia,FC Sochaux,2,0,H,2,0,H
+FRA,27/09/2003,19:00,Olympique Marseille,OGC Nice,2,1,H,0,1,A
+FRA,27/09/2003,19:00,Stade Rennes,Le Mans UC 72,2,0,H,1,0,H
+FRA,27/09/2003,19:00,Paris Saint-Germain,AJ Auxerre,1,0,H,1,0,H
+FRA,27/09/2003,19:00,AS Monaco,Toulouse FC,3,0,H,2,0,H
+FRA,27/09/2003,19:00,FC Metz,EA Guingamp,1,1,D,0,1,A
+FRA,28/09/2003,17:00,Girondins Bordeaux,AC Ajaccio,1,0,H,0,0,D
+FRA,28/09/2003,19:45,RC Strasbourg,FC Nantes,1,0,H,0,0,D
+FRA,04/10/2003,16:15,FC Nantes,Stade Rennes,1,0,H,1,0,H
+FRA,04/10/2003,19:00,AC Ajaccio,Olympique Lyon,2,4,A,1,2,A
+FRA,04/10/2003,19:00,Toulouse FC,Montpellier HSC,2,2,D,1,1,D
+FRA,04/10/2003,19:00,OGC Nice,RC Strasbourg,0,0,D,0,0,D
+FRA,04/10/2003,19:00,Le Mans UC 72,Girondins Bordeaux,0,0,D,0,0,D
+FRA,04/10/2003,19:00,RC Lens,FC Metz,0,2,A,0,0,D
+FRA,04/10/2003,19:00,FC Sochaux,Paris Saint-Germain,0,1,A,0,1,A
+FRA,04/10/2003,19:00,EA Guingamp,AS Monaco,1,2,A,0,2,A
+FRA,04/10/2003,19:00,AJ Auxerre,Lille OSC,3,0,H,2,0,H
+FRA,05/10/2003,19:45,Olympique Marseille,SC Bastia,3,1,H,2,0,H
+FRA,17/10/2003,20:00,RC Strasbourg,Olympique Marseille,4,1,H,3,1,H
+FRA,18/10/2003,16:30,AS Monaco,AJ Auxerre,1,1,D,0,1,A
+FRA,18/10/2003,19:00,Lille OSC,AC Ajaccio,0,0,D,0,0,D
+FRA,18/10/2003,19:00,SC Bastia,RC Lens,3,1,H,2,0,H
+FRA,18/10/2003,19:00,Stade Rennes,OGC Nice,0,0,D,0,0,D
+FRA,18/10/2003,19:00,Montpellier HSC,EA Guingamp,2,0,H,1,0,H
+FRA,18/10/2003,19:00,Girondins Bordeaux,Toulouse FC,1,2,A,0,1,A
+FRA,18/10/2003,19:00,Olympique Lyon,FC Sochaux,1,1,D,0,0,D
+FRA,18/10/2003,19:00,Paris Saint-Germain,Le Mans UC 72,5,1,H,2,1,H
+FRA,18/10/2003,19:00,FC Metz,FC Nantes,1,3,A,1,1,D
+FRA,25/10/2003,16:15,FC Nantes,Olympique Lyon,0,1,A,0,0,D
+FRA,25/10/2003,19:00,AC Ajaccio,Paris Saint-Germain,0,0,D,0,0,D
+FRA,25/10/2003,19:00,EA Guingamp,Toulouse FC,1,0,H,0,0,D
+FRA,25/10/2003,19:00,OGC Nice,Girondins Bordeaux,0,0,D,0,0,D
+FRA,25/10/2003,19:00,Le Mans UC 72,SC Bastia,1,1,D,1,1,D
+FRA,25/10/2003,19:00,Olympique Marseille,Stade Rennes,2,0,H,1,0,H
+FRA,25/10/2003,19:00,RC Lens,Lille OSC,2,1,H,0,1,A
+FRA,25/10/2003,19:00,AJ Auxerre,Montpellier HSC,0,1,A,0,1,A
+FRA,25/10/2003,19:00,RC Strasbourg,FC Metz,0,2,A,0,1,A
+FRA,26/10/2003,19:45,FC Sochaux,AS Monaco,1,1,D,0,1,A
+FRA,01/11/2003,16:15,Olympique Lyon,OGC Nice,5,0,H,4,0,H
+FRA,01/11/2003,19:00,Lille OSC,EA Guingamp,1,3,A,0,0,D
+FRA,01/11/2003,19:00,Stade Rennes,RC Strasbourg,1,1,D,1,0,H
+FRA,01/11/2003,19:00,Montpellier HSC,FC Nantes,4,1,H,3,0,H
+FRA,01/11/2003,19:00,Toulouse FC,AJ Auxerre,0,3,A,0,2,A
+FRA,01/11/2003,19:00,Girondins Bordeaux,Olympique Marseille,1,0,H,1,0,H
+FRA,01/11/2003,19:00,SC Bastia,AC Ajaccio,1,1,D,1,0,H
+FRA,01/11/2003,19:00,AS Monaco,Le Mans UC 72,4,2,H,2,2,D
+FRA,01/11/2003,19:00,FC Metz,FC Sochaux,0,1,A,0,1,A
+FRA,02/11/2003,19:45,Paris Saint-Germain,RC Lens,0,1,A,0,0,D
+FRA,08/11/2003,16:15,OGC Nice,SC Bastia,2,0,H,1,0,H
+FRA,08/11/2003,19:00,Le Mans UC 72,FC Metz,2,0,H,1,0,H
+FRA,08/11/2003,19:00,Stade Rennes,Lille OSC,2,2,D,0,1,A
+FRA,08/11/2003,19:00,FC Nantes,Paris Saint-Germain,0,1,A,0,0,D
+FRA,09/11/2003,17:00,AC Ajaccio,AS Monaco,0,1,A,0,0,D
+FRA,09/11/2003,17:00,FC Sochaux,Toulouse FC,3,1,H,1,0,H
+FRA,09/11/2003,17:00,RC Lens,Montpellier HSC,3,2,H,1,2,A
+FRA,09/11/2003,17:00,AJ Auxerre,EA Guingamp,3,0,H,2,0,H
+FRA,09/11/2003,17:00,RC Strasbourg,Girondins Bordeaux,1,1,D,0,1,A
+FRA,09/11/2003,20:00,Olympique Marseille,Olympique Lyon,1,4,A,1,2,A
+FRA,21/11/2003,19:30,Olympique Lyon,RC Strasbourg,1,0,H,0,0,D
+FRA,22/11/2003,16:15,AS Monaco,RC Lens,2,0,H,0,0,D
+FRA,22/11/2003,19:00,Lille OSC,Olympique Marseille,0,2,A,0,1,A
+FRA,22/11/2003,19:00,Montpellier HSC,AC Ajaccio,3,1,H,1,1,D
+FRA,22/11/2003,19:00,EA Guingamp,FC Sochaux,1,2,A,0,1,A
+FRA,22/11/2003,19:00,Toulouse FC,Le Mans UC 72,1,1,D,0,1,A
+FRA,22/11/2003,19:00,Girondins Bordeaux,Stade Rennes,2,1,H,1,1,D
+FRA,22/11/2003,19:00,SC Bastia,FC Nantes,1,3,A,1,1,D
+FRA,22/11/2003,19:00,FC Metz,AJ Auxerre,0,2,A,0,0,D
+FRA,23/11/2003,19:45,Paris Saint-Germain,OGC Nice,0,0,D,0,0,D
+FRA,29/11/2003,16:15,Stade Rennes,Olympique Lyon,3,1,H,2,1,H
+FRA,29/11/2003,19:00,AC Ajaccio,Toulouse FC,2,1,H,1,0,H
+FRA,29/11/2003,19:00,OGC Nice,FC Metz,1,1,D,1,1,D
+FRA,29/11/2003,19:00,Le Mans UC 72,Montpellier HSC,4,0,H,3,0,H
+FRA,29/11/2003,19:00,RC Strasbourg,Lille OSC,2,2,D,0,1,A
+FRA,29/11/2003,19:00,FC Nantes,AS Monaco,0,1,A,0,0,D
+FRA,30/11/2003,17:00,FC Sochaux,AJ Auxerre,3,2,H,3,0,H
+FRA,30/11/2003,17:00,RC Lens,EA Guingamp,2,1,H,1,0,H
+FRA,30/11/2003,17:00,Girondins Bordeaux,SC Bastia,1,1,D,1,0,H
+FRA,30/11/2003,19:45,Olympique Marseille,Paris Saint-Germain,0,1,A,0,0,D
+FRA,03/12/2003,18:00,Lille OSC,FC Nantes,2,0,H,1,0,H
+FRA,03/12/2003,18:00,EA Guingamp,AC Ajaccio,2,0,H,0,0,D
+FRA,03/12/2003,18:00,Toulouse FC,RC Lens,1,2,A,0,0,D
+FRA,03/12/2003,18:00,SC Bastia,Stade Rennes,3,2,H,1,1,D
+FRA,03/12/2003,18:00,AJ Auxerre,Le Mans UC 72,1,0,H,1,0,H
+FRA,03/12/2003,20:00,Paris Saint-Germain,RC Strasbourg,3,2,H,1,1,D
+FRA,21/01/2004,17:00,AS Monaco,OGC Nice,1,1,D,1,0,H
+FRA,21/01/2004,19:00,Montpellier HSC,FC Sochaux,1,3,A,1,3,A
+FRA,27/01/2004,19:45,FC Metz,Olympique Marseille,1,1,D,0,0,D
+FRA,28/01/2004,20:00,Olympique Lyon,Girondins Bordeaux,3,0,H,0,0,D
+FRA,05/12/2003,18:00,Olympique Lyon,FC Metz,2,1,H,1,1,D
+FRA,05/12/2003,20:00,Olympique Marseille,AS Monaco,1,2,A,1,0,H
+FRA,06/12/2003,16:15,RC Lens,FC Sochaux,0,3,A,0,1,A
+FRA,06/12/2003,19:00,AC Ajaccio,AJ Auxerre,1,2,A,0,1,A
+FRA,06/12/2003,19:00,Stade Rennes,Paris Saint-Germain,1,1,D,0,0,D
+FRA,06/12/2003,19:00,FC Nantes,Toulouse FC,1,1,D,1,1,D
+FRA,06/12/2003,19:00,Girondins Bordeaux,Lille OSC,2,1,H,2,0,H
+FRA,06/12/2003,19:00,RC Strasbourg,SC Bastia,4,2,H,3,1,H
+FRA,07/12/2003,17:00,OGC Nice,Montpellier HSC,2,1,H,2,0,H
+FRA,07/12/2003,17:30,Le Mans UC 72,EA Guingamp,2,0,H,1,0,H
+FRA,13/12/2003,16:15,Paris Saint-Germain,Girondins Bordeaux,2,1,H,1,1,D
+FRA,13/12/2003,19:00,Lille OSC,Le Mans UC 72,1,1,D,0,1,A
+FRA,13/12/2003,19:00,FC Sochaux,AC Ajaccio,2,0,H,1,0,H
+FRA,13/12/2003,19:00,EA Guingamp,FC Nantes,1,1,D,0,1,A
+FRA,13/12/2003,19:00,Toulouse FC,OGC Nice,1,1,D,1,0,H
+FRA,13/12/2003,19:00,FC Metz,Stade Rennes,1,1,D,1,0,H
+FRA,13/12/2003,19:00,SC Bastia,Olympique Lyon,0,0,D,0,0,D
+FRA,13/12/2003,19:00,AJ Auxerre,RC Lens,2,0,H,1,0,H
+FRA,14/12/2003,19:45,AS Monaco,RC Strasbourg,2,0,H,1,0,H
+FRA,04/02/2004,18:00,Montpellier HSC,Olympique Marseille,0,1,A,0,0,D
+FRA,19/12/2003,20:00,Olympique Lyon,Paris Saint-Germain,1,1,D,0,1,A
+FRA,20/12/2003,16:15,Olympique Marseille,Toulouse FC,1,0,H,0,0,D
+FRA,20/12/2003,19:00,AC Ajaccio,RC Lens,2,0,H,1,0,H
+FRA,20/12/2003,19:00,Stade Rennes,AS Monaco,1,0,H,0,0,D
+FRA,20/12/2003,19:00,OGC Nice,EA Guingamp,2,0,H,1,0,H
+FRA,20/12/2003,19:00,Le Mans UC 72,FC Sochaux,2,2,D,1,0,H
+FRA,20/12/2003,19:00,SC Bastia,Lille OSC,0,2,A,0,1,A
+FRA,20/12/2003,19:00,FC Nantes,AJ Auxerre,1,0,H,1,0,H
+FRA,20/12/2003,19:00,Girondins Bordeaux,FC Metz,2,0,H,1,0,H
+FRA,20/12/2003,19:00,RC Strasbourg,Montpellier HSC,4,2,H,2,2,D
+FRA,09/01/2004,20:00,AS Monaco,Olympique Lyon,3,0,H,1,0,H
+FRA,10/01/2004,16:15,Paris Saint-Germain,Lille OSC,1,0,H,1,0,H
+FRA,10/01/2004,19:00,Toulouse FC,Stade Rennes,2,0,H,1,0,H
+FRA,10/01/2004,19:00,FC Sochaux,OGC Nice,0,0,D,0,0,D
+FRA,10/01/2004,19:00,AC Ajaccio,Le Mans UC 72,2,0,H,1,0,H
+FRA,10/01/2004,19:00,FC Metz,SC Bastia,1,0,H,0,0,D
+FRA,10/01/2004,19:00,RC Lens,FC Nantes,0,0,D,0,0,D
+FRA,10/01/2004,19:00,AJ Auxerre,Olympique Marseille,2,0,H,2,0,H
+FRA,10/01/2004,19:00,Montpellier HSC,Girondins Bordeaux,1,2,A,0,1,A
+FRA,10/01/2004,19:00,EA Guingamp,RC Strasbourg,3,2,H,2,2,D
+FRA,17/01/2004,16:15,SC Bastia,AS Monaco,0,0,D,0,0,D
+FRA,17/01/2004,19:00,FC Nantes,AC Ajaccio,4,0,H,2,0,H
+FRA,17/01/2004,19:00,Girondins Bordeaux,EA Guingamp,2,0,H,1,0,H
+FRA,17/01/2004,19:00,Lille OSC,Toulouse FC,0,1,A,0,1,A
+FRA,17/01/2004,19:00,OGC Nice,Le Mans UC 72,0,1,A,0,1,A
+FRA,17/01/2004,19:00,Olympique Lyon,Montpellier HSC,3,0,H,2,0,H
+FRA,17/01/2004,19:00,Stade Rennes,FC Sochaux,4,0,H,1,0,H
+FRA,17/01/2004,19:00,RC Strasbourg,AJ Auxerre,0,2,A,0,1,A
+FRA,17/01/2004,19:00,Paris Saint-Germain,FC Metz,0,0,D,0,0,D
+FRA,18/01/2004,19:45,Olympique Marseille,RC Lens,3,2,H,1,1,D
+FRA,30/01/2004,20:00,AS Monaco,Paris Saint-Germain,1,1,D,1,1,D
+FRA,31/01/2004,16:15,AJ Auxerre,Girondins Bordeaux,5,0,H,4,0,H
+FRA,31/01/2004,19:00,FC Metz,Lille OSC,0,1,A,0,1,A
+FRA,31/01/2004,19:00,FC Sochaux,Olympique Marseille,2,1,H,1,1,D
+FRA,31/01/2004,19:00,EA Guingamp,Stade Rennes,0,2,A,0,0,D
+FRA,31/01/2004,19:00,AC Ajaccio,OGC Nice,1,1,D,1,0,H
+FRA,31/01/2004,19:00,RC Lens,RC Strasbourg,2,1,H,0,0,D
+FRA,31/01/2004,19:00,Montpellier HSC,SC Bastia,1,1,D,1,0,H
+FRA,31/01/2004,19:00,Le Mans UC 72,FC Nantes,0,1,A,0,1,A
+FRA,31/01/2004,19:00,Toulouse FC,Olympique Lyon,0,1,A,0,0,D
+FRA,06/02/2004,20:00,Girondins Bordeaux,FC Nantes,2,0,H,2,0,H
+FRA,07/02/2004,16:15,Olympique Marseille,AC Ajaccio,2,1,H,1,0,H
+FRA,07/02/2004,19:00,Olympique Lyon,EA Guingamp,0,1,A,0,0,D
+FRA,07/02/2004,19:00,SC Bastia,Toulouse FC,1,0,H,1,0,H
+FRA,07/02/2004,19:00,RC Strasbourg,Le Mans UC 72,3,0,H,0,0,D
+FRA,07/02/2004,19:00,OGC Nice,RC Lens,4,0,H,3,0,H
+FRA,07/02/2004,19:00,Paris Saint-Germain,Montpellier HSC,6,1,H,2,0,H
+FRA,07/02/2004,19:00,Lille OSC,FC Sochaux,2,0,H,1,0,H
+FRA,07/02/2004,19:00,FC Metz,AS Monaco,0,2,A,0,1,A
+FRA,07/02/2004,19:00,Stade Rennes,AJ Auxerre,0,2,A,0,1,A
+FRA,14/02/2004,16:15,FC Sochaux,Girondins Bordeaux,1,1,D,0,0,D
+FRA,14/02/2004,19:00,AS Monaco,Lille OSC,0,1,A,0,0,D
+FRA,14/02/2004,19:00,Le Mans UC 72,Olympique Marseille,0,0,D,0,0,D
+FRA,14/02/2004,19:00,RC Lens,Stade Rennes,2,1,H,1,0,H
+FRA,14/02/2004,19:00,FC Nantes,OGC Nice,3,1,H,2,1,H
+FRA,14/02/2004,19:00,AC Ajaccio,RC Strasbourg,0,0,D,0,0,D
+FRA,14/02/2004,19:00,EA Guingamp,SC Bastia,1,0,H,1,0,H
+FRA,14/02/2004,19:00,Toulouse FC,Paris Saint-Germain,0,1,A,0,1,A
+FRA,14/02/2004,19:00,Montpellier HSC,FC Metz,0,1,A,0,1,A
+FRA,15/02/2004,19:45,AJ Auxerre,Olympique Lyon,1,2,A,0,1,A
+FRA,20/02/2004,19:00,AS Monaco,Montpellier HSC,4,0,H,0,0,D
+FRA,21/02/2004,16:15,Olympique Lyon,Le Mans UC 72,2,0,H,1,0,H
+FRA,21/02/2004,19:00,Stade Rennes,AC Ajaccio,4,1,H,0,1,A
+FRA,21/02/2004,19:00,FC Metz,Toulouse FC,0,2,A,0,1,A
+FRA,21/02/2004,19:00,Lille OSC,OGC Nice,1,2,A,0,1,A
+FRA,21/02/2004,19:00,RC Strasbourg,FC Sochaux,0,2,A,0,2,A
+FRA,21/02/2004,19:00,Paris Saint-Germain,EA Guingamp,2,0,H,1,0,H
+FRA,21/02/2004,19:00,SC Bastia,AJ Auxerre,0,0,D,0,0,D
+FRA,21/02/2004,19:00,Girondins Bordeaux,RC Lens,0,0,D,0,0,D
+FRA,22/02/2004,19:45,Olympique Marseille,FC Nantes,1,1,D,1,1,D
+FRA,28/02/2004,16:15,FC Nantes,RC Strasbourg,1,1,D,1,0,H
+FRA,28/02/2004,19:00,Montpellier HSC,Lille OSC,0,2,A,0,1,A
+FRA,28/02/2004,19:00,Le Mans UC 72,Stade Rennes,2,2,D,1,1,D
+FRA,28/02/2004,19:00,RC Lens,Olympique Lyon,1,1,D,0,1,A
+FRA,28/02/2004,19:00,Toulouse FC,AS Monaco,1,1,D,0,0,D
+FRA,29/02/2004,17:00,FC Sochaux,SC Bastia,2,1,H,1,0,H
+FRA,29/02/2004,17:00,OGC Nice,Olympique Marseille,0,0,D,0,0,D
+FRA,29/02/2004,17:00,AC Ajaccio,Girondins Bordeaux,1,0,H,1,0,H
+FRA,29/02/2004,20:00,AJ Auxerre,Paris Saint-Germain,1,1,D,1,0,H
+FRA,16/04/2004,19:00,EA Guingamp,FC Metz,1,1,D,1,1,D
+FRA,05/03/2004,19:00,Olympique Lyon,AC Ajaccio,4,0,H,1,0,H
+FRA,05/03/2004,19:00,AS Monaco,EA Guingamp,3,1,H,3,1,H
+FRA,06/03/2004,16:15,Lille OSC,AJ Auxerre,1,0,H,0,0,D
+FRA,06/03/2004,19:00,Montpellier HSC,Toulouse FC,0,1,A,0,1,A
+FRA,06/03/2004,19:00,RC Strasbourg,OGC Nice,2,2,D,0,2,A
+FRA,06/03/2004,19:00,Girondins Bordeaux,Le Mans UC 72,2,0,H,1,0,H
+FRA,06/03/2004,19:00,FC Metz,RC Lens,0,2,A,0,1,A
+FRA,06/03/2004,19:00,Paris Saint-Germain,FC Sochaux,1,1,D,0,0,D
+FRA,06/03/2004,19:00,Stade Rennes,FC Nantes,0,3,A,0,0,D
+FRA,07/03/2004,19:45,SC Bastia,Olympique Marseille,4,1,H,2,0,H
+FRA,13/03/2004,16:15,Le Mans UC 72,Paris Saint-Germain,0,1,A,0,0,D
+FRA,13/03/2004,19:00,AC Ajaccio,Lille OSC,0,3,A,0,1,A
+FRA,13/03/2004,19:00,RC Lens,SC Bastia,0,0,D,0,0,D
+FRA,13/03/2004,19:00,OGC Nice,Stade Rennes,3,1,H,1,0,H
+FRA,13/03/2004,19:00,EA Guingamp,Montpellier HSC,4,3,H,1,2,A
+FRA,13/03/2004,19:00,FC Sochaux,Olympique Lyon,1,2,A,1,1,D
+FRA,13/03/2004,19:00,FC Nantes,FC Metz,2,2,D,2,0,H
+FRA,14/03/2004,17:00,Toulouse FC,Girondins Bordeaux,1,0,H,0,0,D
+FRA,14/03/2004,17:00,Olympique Marseille,RC Strasbourg,4,0,H,2,0,H
+FRA,14/03/2004,19:45,AJ Auxerre,AS Monaco,0,0,D,0,0,D
+FRA,19/03/2004,19:00,Toulouse FC,EA Guingamp,0,0,D,0,0,D
+FRA,20/03/2004,16:15,Olympique Lyon,FC Nantes,1,0,H,1,0,H
+FRA,20/03/2004,19:00,Paris Saint-Germain,AC Ajaccio,1,0,H,0,0,D
+FRA,20/03/2004,19:00,Girondins Bordeaux,OGC Nice,1,1,D,1,1,D
+FRA,20/03/2004,19:00,SC Bastia,Le Mans UC 72,0,0,D,0,0,D
+FRA,20/03/2004,19:00,Lille OSC,RC Lens,1,1,D,1,1,D
+FRA,20/03/2004,19:00,AS Monaco,FC Sochaux,1,1,D,0,0,D
+FRA,20/03/2004,19:00,Montpellier HSC,AJ Auxerre,1,0,H,0,0,D
+FRA,20/03/2004,19:00,FC Metz,RC Strasbourg,1,0,H,1,0,H
+FRA,21/03/2004,19:45,Stade Rennes,Olympique Marseille,4,3,H,2,2,D
+FRA,27/03/2004,16:15,FC Sochaux,FC Metz,2,0,H,0,0,D
+FRA,27/03/2004,19:00,EA Guingamp,Lille OSC,2,1,H,2,1,H
+FRA,27/03/2004,19:00,RC Strasbourg,Stade Rennes,0,3,A,0,0,D
+FRA,27/03/2004,19:00,FC Nantes,Montpellier HSC,3,2,H,1,1,D
+FRA,27/03/2004,19:00,OGC Nice,Olympique Lyon,0,1,A,0,1,A
+FRA,27/03/2004,19:00,AC Ajaccio,SC Bastia,1,0,H,1,0,H
+FRA,27/03/2004,19:00,Le Mans UC 72,AS Monaco,0,1,A,0,0,D
+FRA,28/03/2004,17:30,AJ Auxerre,Toulouse FC,3,2,H,2,1,H
+FRA,28/03/2004,17:30,Olympique Marseille,Girondins Bordeaux,1,1,D,0,1,A
+FRA,28/03/2004,19:45,RC Lens,Paris Saint-Germain,1,0,H,1,0,H
+FRA,02/04/2004,19:00,AS Monaco,AC Ajaccio,3,3,D,0,3,A
+FRA,03/04/2004,16:15,Olympique Lyon,Olympique Marseille,1,2,A,1,1,D
+FRA,03/04/2004,19:00,Toulouse FC,FC Sochaux,0,0,D,0,0,D
+FRA,03/04/2004,19:00,SC Bastia,OGC Nice,2,1,H,2,1,H
+FRA,03/04/2004,19:00,FC Metz,Le Mans UC 72,5,0,H,2,0,H
+FRA,03/04/2004,19:00,Montpellier HSC,RC Lens,1,0,H,1,0,H
+FRA,03/04/2004,19:00,Lille OSC,Stade Rennes,1,0,H,0,0,D
+FRA,03/04/2004,19:00,Girondins Bordeaux,RC Strasbourg,1,1,D,0,0,D
+FRA,03/04/2004,19:00,Paris Saint-Germain,FC Nantes,3,2,H,1,1,D
+FRA,04/04/2004,19:45,EA Guingamp,AJ Auxerre,2,2,D,1,0,H
+FRA,10/04/2004,16:15,RC Lens,AS Monaco,0,0,D,0,0,D
+FRA,10/04/2004,19:00,AC Ajaccio,Montpellier HSC,0,0,D,0,0,D
+FRA,10/04/2004,19:00,FC Sochaux,EA Guingamp,2,0,H,0,0,D
+FRA,10/04/2004,19:00,Le Mans UC 72,Toulouse FC,2,1,H,1,0,H
+FRA,10/04/2004,19:00,FC Nantes,SC Bastia,1,1,D,0,0,D
+FRA,10/04/2004,19:00,OGC Nice,Paris Saint-Germain,1,2,A,1,0,H
+FRA,10/04/2004,19:00,AJ Auxerre,FC Metz,2,1,H,0,0,D
+FRA,11/04/2004,19:45,RC Strasbourg,Olympique Lyon,0,1,A,0,0,D
+FRA,18/04/2004,17:00,Olympique Marseille,Lille OSC,2,1,H,1,1,D
+FRA,18/04/2004,17:00,Stade Rennes,Girondins Bordeaux,3,1,H,1,0,H
+FRA,24/04/2004,16:15,AS Monaco,FC Nantes,0,1,A,0,0,D
+FRA,24/04/2004,19:00,Toulouse FC,AC Ajaccio,3,1,H,1,0,H
+FRA,24/04/2004,19:00,AJ Auxerre,FC Sochaux,2,1,H,0,0,D
+FRA,24/04/2004,19:00,FC Metz,OGC Nice,1,0,H,0,0,D
+FRA,24/04/2004,19:00,Montpellier HSC,Le Mans UC 72,0,3,A,0,3,A
+FRA,24/04/2004,19:00,EA Guingamp,RC Lens,1,0,H,1,0,H
+FRA,24/04/2004,19:00,Olympique Lyon,Stade Rennes,3,0,H,0,0,D
+FRA,24/04/2004,19:00,SC Bastia,Girondins Bordeaux,0,2,A,0,1,A
+FRA,24/04/2004,19:00,Lille OSC,RC Strasbourg,0,1,A,0,1,A
+FRA,25/04/2004,17:15,Paris Saint-Germain,Olympique Marseille,2,1,H,1,0,H
+FRA,30/04/2004,19:30,OGC Nice,AS Monaco,1,2,A,1,2,A
+FRA,01/05/2004,16:15,Olympique Marseille,FC Metz,0,1,A,0,1,A
+FRA,01/05/2004,19:00,FC Nantes,Lille OSC,2,0,H,2,0,H
+FRA,01/05/2004,19:00,FC Sochaux,Montpellier HSC,3,1,H,2,1,H
+FRA,01/05/2004,19:00,AC Ajaccio,EA Guingamp,0,0,D,0,0,D
+FRA,01/05/2004,19:00,RC Lens,Toulouse FC,1,1,D,1,0,H
+FRA,01/05/2004,19:00,Stade Rennes,SC Bastia,4,0,H,3,0,H
+FRA,01/05/2004,19:00,RC Strasbourg,Paris Saint-Germain,0,0,D,0,0,D
+FRA,01/05/2004,19:00,Le Mans UC 72,AJ Auxerre,2,1,H,2,0,H
+FRA,02/05/2004,19:45,Girondins Bordeaux,Olympique Lyon,1,1,D,0,0,D
+FRA,08/05/2004,16:15,Paris Saint-Germain,Stade Rennes,1,0,H,0,0,D
+FRA,08/05/2004,19:00,AJ Auxerre,AC Ajaccio,1,1,D,1,0,H
+FRA,08/05/2004,19:00,Montpellier HSC,OGC Nice,2,2,D,1,1,D
+FRA,08/05/2004,19:00,EA Guingamp,Le Mans UC 72,2,4,A,0,2,A
+FRA,08/05/2004,19:00,Toulouse FC,FC Nantes,0,1,A,0,0,D
+FRA,08/05/2004,19:00,FC Sochaux,RC Lens,0,3,A,0,2,A
+FRA,08/05/2004,19:00,Lille OSC,Girondins Bordeaux,2,1,H,1,0,H
+FRA,08/05/2004,19:00,FC Metz,Olympique Lyon,1,2,A,1,1,D
+FRA,08/05/2004,19:00,SC Bastia,RC Strasbourg,0,0,D,0,0,D
+FRA,09/05/2004,19:45,AS Monaco,Olympique Marseille,1,0,H,0,0,D
+FRA,11/05/2004,17:15,RC Lens,AJ Auxerre,1,3,A,1,1,D
+FRA,11/05/2004,19:45,Girondins Bordeaux,Paris Saint-Germain,3,0,H,1,0,H
+FRA,12/05/2004,19:30,Le Mans UC 72,Lille OSC,1,1,D,1,1,D
+FRA,12/05/2004,19:30,AC Ajaccio,FC Sochaux,1,0,H,1,0,H
+FRA,12/05/2004,19:30,FC Nantes,EA Guingamp,0,0,D,0,0,D
+FRA,12/05/2004,19:30,OGC Nice,Toulouse FC,1,1,D,0,1,A
+FRA,12/05/2004,19:30,Stade Rennes,FC Metz,0,0,D,0,0,D
+FRA,12/05/2004,19:30,Olympique Lyon,SC Bastia,1,0,H,1,0,H
+FRA,12/05/2004,19:30,Olympique Marseille,Montpellier HSC,1,1,D,1,0,H
+FRA,12/05/2004,19:30,RC Strasbourg,AS Monaco,0,0,D,0,0,D
+FRA,15/05/2004,19:00,RC Lens,AC Ajaccio,2,0,H,1,0,H
+FRA,15/05/2004,19:00,AS Monaco,Stade Rennes,1,4,A,1,1,D
+FRA,15/05/2004,19:00,EA Guingamp,OGC Nice,1,2,A,1,0,H
+FRA,15/05/2004,19:00,FC Sochaux,Le Mans UC 72,3,0,H,1,0,H
+FRA,15/05/2004,19:00,Lille OSC,SC Bastia,2,0,H,0,0,D
+FRA,15/05/2004,19:00,AJ Auxerre,FC Nantes,2,0,H,2,0,H
+FRA,15/05/2004,19:00,Toulouse FC,Olympique Marseille,2,1,H,1,1,D
+FRA,15/05/2004,19:00,FC Metz,Girondins Bordeaux,3,1,H,0,1,A
+FRA,15/05/2004,19:00,Paris Saint-Germain,Olympique Lyon,1,0,H,1,0,H
+FRA,15/05/2004,19:00,Montpellier HSC,RC Strasbourg,1,2,A,0,0,D
+FRA,21/05/2004,19:30,Girondins Bordeaux,AS Monaco,1,3,A,1,1,D
+FRA,23/05/2004,19:00,Olympique Lyon,Lille OSC,3,0,H,1,0,H
+FRA,23/05/2004,19:00,FC Nantes,FC Sochaux,3,1,H,2,0,H
+FRA,23/05/2004,19:00,Olympique Marseille,EA Guingamp,2,1,H,2,0,H
+FRA,23/05/2004,19:00,RC Strasbourg,Toulouse FC,0,0,D,0,0,D
+FRA,23/05/2004,19:00,AC Ajaccio,FC Metz,3,1,H,2,1,H
+FRA,23/05/2004,19:00,Le Mans UC 72,RC Lens,3,0,H,1,0,H
+FRA,23/05/2004,19:00,Stade Rennes,Montpellier HSC,4,0,H,2,0,H
+FRA,23/05/2004,19:00,SC Bastia,Paris Saint-Germain,0,1,A,0,0,D
+FRA,23/05/2004,19:00,OGC Nice,AJ Auxerre,1,1,D,0,0,D

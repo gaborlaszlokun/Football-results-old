@@ -1,0 +1,31 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUN,26/02/2017,13:00,ES Sahel,US Ben Guerdane,2,0,H,2,0,H
+TUN,26/02/2017,13:00,ES Métlaoui,Espérance Tunis,0,2,A,0,0,D
+TUN,26/02/2017,15:00,Club Africain,Club Sportif Sfaxien,2,1,H,0,0,D
+TUN,01/03/2017,13:00,US Ben Guerdane,ES Métlaoui,0,1,A,0,0,D
+TUN,01/03/2017,13:00,Club Sportif Sfaxien,ES Sahel,3,2,H,2,2,D
+TUN,01/03/2017,15:30,Espérance Tunis,Club Africain,2,1,H,1,0,H
+TUN,05/03/2017,13:30,ES Métlaoui,Club Sportif Sfaxien,3,1,H,0,1,A
+TUN,05/03/2017,14:15,Espérance Tunis,US Ben Guerdane,2,0,H,1,0,H
+TUN,05/03/2017,15:00,ES Sahel,Club Africain,2,0,H,1,0,H
+TUN,02/04/2017,15:00,ES Métlaoui,ES Sahel,0,1,A,0,1,A
+TUN,02/04/2017,16:00,Club Africain,US Ben Guerdane,6,0,H,2,0,H
+TUN,02/04/2017,16:30,Club Sportif Sfaxien,Espérance Tunis,0,0,D,0,0,D
+TUN,09/04/2017,17:00,ES Sahel,Espérance Tunis,1,1,D,0,0,D
+TUN,19/04/2017,15:00,US Ben Guerdane,Club Sportif Sfaxien,0,0,D,0,0,D
+TUN,19/04/2017,16:30,Club Africain,ES Métlaoui,2,0,H,0,0,D
+TUN,23/04/2017,15:00,US Ben Guerdane,ES Sahel,0,1,A,0,0,D
+TUN,23/04/2017,15:45,Espérance Tunis,ES Métlaoui,3,0,H,1,0,H
+TUN,23/04/2017,17:00,Club Sportif Sfaxien,Club Africain,1,1,D,1,0,H
+TUN,30/04/2017,15:45,Club Africain,Espérance Tunis,0,2,A,0,2,A
+TUN,30/04/2017,15:45,ES Sahel,Club Sportif Sfaxien,1,0,H,1,0,H
+TUN,30/04/2017,15:45,ES Métlaoui,US Ben Guerdane,2,0,H,1,0,H
+TUN,03/05/2017,16:00,US Ben Guerdane,Espérance Tunis,0,2,A,0,1,A
+TUN,03/05/2017,16:00,Club Africain,ES Sahel,1,2,A,0,2,A
+TUN,03/05/2017,16:00,Club Sportif Sfaxien,ES Métlaoui,3,0,H,0,0,D
+TUN,07/05/2017,16:00,US Ben Guerdane,Club Africain,0,2,A,0,0,D
+TUN,07/05/2017,16:00,Espérance Tunis,Club Sportif Sfaxien,1,0,H,0,0,D
+TUN,07/05/2017,16:00,ES Sahel,ES Métlaoui,4,1,H,1,1,D
+TUN,18/05/2017,16:00,Espérance Tunis,ES Sahel,3,0,H,2,0,H
+TUN,18/05/2017,16:00,ES Métlaoui,Club Africain,1,2,A,0,1,A
+TUN,18/05/2017,16:00,Club Sportif Sfaxien,US Ben Guerdane,2,0,H,1,0,H

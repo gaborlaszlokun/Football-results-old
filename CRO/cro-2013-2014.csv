@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CRO,12/07/2013,18:00,HNK Rijeka,NK Istra 1961,3,0,H,2,0,H
+CRO,12/07/2013,20:00,Dinamo Zagreb,NK Osijek,3,1,H,2,0,H
+CRO,13/07/2013,18:00,Hrvatski Dragovoljac,Lokomotiva Zagreb,0,2,A,0,1,A
+CRO,13/07/2013,20:00,NK Zadar,Hajduk Split,1,5,A,1,2,A
+CRO,14/07/2013,20:00,RNK Split,Slaven Belupo,2,1,H,2,0,H
+CRO,19/07/2013,19:15,Dinamo Zagreb,NK Zadar,3,0,H,0,0,D
+CRO,20/07/2013,18:00,Slaven Belupo,Hrvatski Dragovoljac,2,2,D,0,1,A
+CRO,20/07/2013,20:00,NK Istra 1961,RNK Split,1,1,D,1,0,H
+CRO,21/07/2013,18:00,Hajduk Split,HNK Rijeka,1,1,D,1,0,H
+CRO,22/07/2013,19:15,NK Osijek,Lokomotiva Zagreb,1,2,A,1,0,H
+CRO,26/07/2013,19:15,Hrvatski Dragovoljac,NK Istra 1961,0,1,A,0,1,A
+CRO,27/07/2013,20:00,NK Zadar,NK Osijek,3,1,H,2,1,H
+CRO,28/07/2013,18:00,HNK Rijeka,Dinamo Zagreb,0,0,D,0,0,D
+CRO,28/07/2013,20:00,RNK Split,Hajduk Split,0,3,A,0,2,A
+CRO,29/07/2013,19:15,Lokomotiva Zagreb,Slaven Belupo,1,0,H,0,0,D
+CRO,02/08/2013,19:15,NK Osijek,Slaven Belupo,2,1,H,1,1,D
+CRO,03/08/2013,20:00,Dinamo Zagreb,RNK Split,1,0,H,0,0,D
+CRO,04/08/2013,18:00,NK Zadar,HNK Rijeka,1,2,A,0,1,A
+CRO,04/08/2013,20:00,Hajduk Split,Hrvatski Dragovoljac,2,1,H,1,0,H
+CRO,05/08/2013,19:15,NK Istra 1961,Lokomotiva Zagreb,1,2,A,0,0,D
+CRO,09/08/2013,19:15,RNK Split,NK Zadar,1,3,A,1,1,D
+CRO,10/08/2013,18:00,Slaven Belupo,NK Istra 1961,2,2,D,1,1,D
+CRO,10/08/2013,20:00,Hrvatski Dragovoljac,Dinamo Zagreb,1,1,D,0,0,D
+CRO,12/08/2013,19:15,HNK Rijeka,NK Osijek,5,1,H,3,0,H
+CRO,28/08/2013,17:00,Lokomotiva Zagreb,Hajduk Split,1,3,A,0,2,A
+CRO,17/08/2013,18:00,Dinamo Zagreb,Lokomotiva Zagreb,2,1,H,1,0,H
+CRO,17/08/2013,20:00,HNK Rijeka,RNK Split,1,1,D,1,1,D
+CRO,18/08/2013,18:00,Hajduk Split,Slaven Belupo,1,0,H,0,0,D
+CRO,18/08/2013,18:00,NK Zadar,Hrvatski Dragovoljac,1,1,D,1,1,D
+CRO,18/08/2013,20:00,NK Osijek,NK Istra 1961,1,3,A,1,1,D
+CRO,23/08/2013,19:15,Lokomotiva Zagreb,NK Zadar,2,0,H,1,0,H
+CRO,24/08/2013,18:00,Slaven Belupo,Dinamo Zagreb,1,3,A,1,2,A
+CRO,24/08/2013,20:00,NK Istra 1961,Hajduk Split,1,0,H,1,0,H
+CRO,25/08/2013,18:00,Hrvatski Dragovoljac,HNK Rijeka,0,2,A,0,1,A
+CRO,25/08/2013,20:00,RNK Split,NK Osijek,4,0,H,1,0,H
+CRO,30/08/2013,19:15,RNK Split,Hrvatski Dragovoljac,1,0,H,0,0,D
+CRO,31/08/2013,18:00,NK Osijek,Hajduk Split,1,0,H,0,0,D
+CRO,31/08/2013,18:00,NK Zadar,Slaven Belupo,0,2,A,0,0,D
+CRO,31/08/2013,20:00,Dinamo Zagreb,NK Istra 1961,3,1,H,2,0,H
+CRO,02/09/2013,19:15,HNK Rijeka,Lokomotiva Zagreb,1,1,D,0,1,A
+CRO,13/09/2013,17:00,Hrvatski Dragovoljac,NK Osijek,1,0,H,0,0,D
+CRO,14/09/2013,14:00,NK Istra 1961,NK Zadar,0,1,A,0,0,D
+CRO,14/09/2013,18:00,Hajduk Split,Dinamo Zagreb,2,0,H,0,0,D
+CRO,15/09/2013,14:00,Lokomotiva Zagreb,RNK Split,1,1,D,0,1,A
+CRO,15/09/2013,18:00,Slaven Belupo,HNK Rijeka,0,1,A,0,1,A
+CRO,20/09/2013,17:00,Lokomotiva Zagreb,Hrvatski Dragovoljac,2,1,H,0,1,A
+CRO,21/09/2013,14:00,Slaven Belupo,RNK Split,1,2,A,1,0,H
+CRO,21/09/2013,18:00,Hajduk Split,NK Zadar,1,0,H,1,0,H
+CRO,22/09/2013,14:00,NK Osijek,Dinamo Zagreb,0,1,A,0,1,A
+CRO,22/09/2013,18:00,NK Istra 1961,HNK Rijeka,2,3,A,1,1,D
+CRO,28/09/2013,14:00,Lokomotiva Zagreb,NK Osijek,5,0,H,2,0,H
+CRO,28/09/2013,16:00,Hrvatski Dragovoljac,Slaven Belupo,0,0,D,0,0,D
+CRO,28/09/2013,18:00,HNK Rijeka,Hajduk Split,1,1,D,1,0,H
+CRO,29/09/2013,14:00,NK Zadar,Dinamo Zagreb,0,0,D,0,0,D
+CRO,29/09/2013,18:00,RNK Split,NK Istra 1961,0,1,A,0,1,A
+CRO,04/10/2013,17:00,Slaven Belupo,Lokomotiva Zagreb,3,2,H,0,2,A
+CRO,05/10/2013,14:00,NK Osijek,NK Zadar,0,0,D,0,0,D
+CRO,05/10/2013,18:00,Hajduk Split,RNK Split,0,0,D,0,0,D
+CRO,06/10/2013,14:00,NK Istra 1961,Hrvatski Dragovoljac,2,1,H,2,0,H
+CRO,06/10/2013,18:00,Dinamo Zagreb,HNK Rijeka,1,0,H,0,0,D
+CRO,19/10/2013,14:00,HNK Rijeka,NK Zadar,3,0,H,0,0,D
+CRO,19/10/2013,16:00,Lokomotiva Zagreb,NK Istra 1961,2,1,H,0,1,A
+CRO,19/10/2013,18:00,RNK Split,Dinamo Zagreb,1,0,H,1,0,H
+CRO,20/10/2013,14:00,Slaven Belupo,NK Osijek,2,0,H,2,0,H
+CRO,20/10/2013,18:00,Hrvatski Dragovoljac,Hajduk Split,1,2,A,1,0,H
+CRO,25/10/2013,17:00,NK Istra 1961,Slaven Belupo,1,1,D,0,1,A
+CRO,26/10/2013,14:00,NK Zadar,RNK Split,0,1,A,0,0,D
+CRO,26/10/2013,18:00,Hajduk Split,Lokomotiva Zagreb,3,1,H,1,0,H
+CRO,27/10/2013,14:00,Dinamo Zagreb,Hrvatski Dragovoljac,4,1,H,2,0,H
+CRO,27/10/2013,18:00,NK Osijek,HNK Rijeka,1,3,A,0,1,A
+CRO,02/11/2013,14:00,Lokomotiva Zagreb,Dinamo Zagreb,0,3,A,0,1,A
+CRO,02/11/2013,18:00,NK Istra 1961,NK Osijek,1,1,D,0,1,A
+CRO,03/11/2013,14:00,Slaven Belupo,Hajduk Split,3,3,D,1,1,D
+CRO,03/11/2013,18:00,RNK Split,HNK Rijeka,1,0,H,0,0,D
+CRO,04/11/2013,17:00,Hrvatski Dragovoljac,NK Zadar,0,2,A,0,1,A
+CRO,08/11/2013,17:00,NK Zadar,Lokomotiva Zagreb,0,2,A,0,1,A
+CRO,09/11/2013,14:00,NK Osijek,RNK Split,0,0,D,0,0,D
+CRO,09/11/2013,18:00,Hajduk Split,NK Istra 1961,2,0,H,2,0,H
+CRO,10/11/2013,14:00,Dinamo Zagreb,Slaven Belupo,1,0,H,0,0,D
+CRO,04/12/2013,19:00,HNK Rijeka,Hrvatski Dragovoljac,2,0,H,0,0,D
+CRO,22/11/2013,17:00,Slaven Belupo,NK Zadar,1,1,D,0,0,D
+CRO,24/11/2013,14:00,Hrvatski Dragovoljac,RNK Split,2,2,D,0,1,A
+CRO,24/11/2013,18:00,Hajduk Split,NK Osijek,1,1,D,1,1,D
+CRO,19/12/2013,17:00,Lokomotiva Zagreb,HNK Rijeka,0,2,A,0,1,A
+CRO,06/02/2014,16:00,NK Istra 1961,Dinamo Zagreb,1,3,A,1,1,D
+CRO,29/11/2013,17:00,NK Osijek,Hrvatski Dragovoljac,1,1,D,0,0,D
+CRO,30/11/2013,14:00,NK Zadar,NK Istra 1961,0,4,A,0,1,A
+CRO,30/11/2013,18:00,RNK Split,Lokomotiva Zagreb,3,0,H,1,0,H
+CRO,01/12/2013,14:00,Dinamo Zagreb,Hajduk Split,2,2,D,1,1,D
+CRO,01/12/2013,18:00,HNK Rijeka,Slaven Belupo,2,2,D,1,1,D
+CRO,07/12/2013,14:00,RNK Split,Slaven Belupo,0,0,D,0,0,D
+CRO,07/12/2013,18:00,Hrvatski Dragovoljac,Lokomotiva Zagreb,1,3,A,0,1,A
+CRO,08/12/2013,14:00,Dinamo Zagreb,NK Osijek,4,1,H,2,1,H
+CRO,08/12/2013,18:00,HNK Rijeka,NK Istra 1961,3,3,D,2,2,D
+CRO,09/12/2013,17:00,NK Zadar,Hajduk Split,1,1,D,0,1,A
+CRO,13/12/2013,17:00,Slaven Belupo,Hrvatski Dragovoljac,1,1,D,0,0,D
+CRO,14/12/2013,14:00,NK Osijek,Lokomotiva Zagreb,1,1,D,0,1,A
+CRO,14/12/2013,18:00,NK Istra 1961,RNK Split,2,0,H,0,0,D
+CRO,15/12/2013,14:00,Dinamo Zagreb,NK Zadar,3,1,H,2,0,H
+CRO,15/12/2013,18:00,Hajduk Split,HNK Rijeka,2,2,D,0,2,A
+CRO,07/02/2014,17:00,Lokomotiva Zagreb,Slaven Belupo,2,1,H,0,1,A
+CRO,08/02/2014,14:00,NK Zadar,NK Osijek,3,1,H,1,0,H
+CRO,08/02/2014,16:00,RNK Split,Hajduk Split,1,2,A,0,0,D
+CRO,09/02/2014,14:00,Hrvatski Dragovoljac,NK Istra 1961,1,2,A,0,1,A
+CRO,26/02/2014,16:00,HNK Rijeka,Dinamo Zagreb,2,2,D,1,0,H
+CRO,14/02/2014,17:00,Hajduk Split,Hrvatski Dragovoljac,2,1,H,0,0,D
+CRO,15/02/2014,14:00,NK Istra 1961,Lokomotiva Zagreb,2,4,A,1,2,A
+CRO,15/02/2014,16:00,Dinamo Zagreb,RNK Split,2,1,H,1,1,D
+CRO,16/02/2014,14:00,NK Osijek,Slaven Belupo,4,1,H,2,1,H
+CRO,16/02/2014,16:00,NK Zadar,HNK Rijeka,1,0,H,0,0,D
+CRO,21/02/2014,17:00,Hrvatski Dragovoljac,Dinamo Zagreb,0,1,A,0,0,D
+CRO,22/02/2014,14:00,Slaven Belupo,NK Istra 1961,0,2,A,0,1,A
+CRO,22/02/2014,16:00,Lokomotiva Zagreb,Hajduk Split,0,2,A,0,1,A
+CRO,23/02/2014,14:00,RNK Split,NK Zadar,3,1,H,2,0,H
+CRO,23/02/2014,16:00,HNK Rijeka,NK Osijek,1,0,H,1,0,H
+CRO,28/02/2014,17:00,NK Zadar,Hrvatski Dragovoljac,0,4,A,0,2,A
+CRO,01/03/2014,14:00,NK Osijek,NK Istra 1961,0,1,A,0,1,A
+CRO,01/03/2014,16:00,HNK Rijeka,RNK Split,4,1,H,1,0,H
+CRO,02/03/2014,14:00,Dinamo Zagreb,Lokomotiva Zagreb,2,1,H,2,1,H
+CRO,02/03/2014,16:00,Hajduk Split,Slaven Belupo,3,0,H,2,0,H
+CRO,07/03/2014,17:00,Hrvatski Dragovoljac,HNK Rijeka,0,2,A,0,2,A
+CRO,08/03/2014,14:00,RNK Split,NK Osijek,1,0,H,0,0,D
+CRO,08/03/2014,18:00,Slaven Belupo,Dinamo Zagreb,1,6,A,1,3,A
+CRO,09/03/2014,14:00,Lokomotiva Zagreb,NK Zadar,1,3,A,0,3,A
+CRO,09/03/2014,18:00,NK Istra 1961,Hajduk Split,1,1,D,1,1,D
+CRO,14/03/2014,17:00,RNK Split,Hrvatski Dragovoljac,2,1,H,1,1,D
+CRO,15/03/2014,14:00,NK Zadar,Slaven Belupo,2,1,H,0,0,D
+CRO,15/03/2014,18:00,HNK Rijeka,Lokomotiva Zagreb,3,2,H,1,2,A
+CRO,16/03/2014,14:00,Dinamo Zagreb,NK Istra 1961,6,0,H,2,0,H
+CRO,16/03/2014,18:00,NK Osijek,Hajduk Split,1,1,D,0,0,D
+CRO,21/03/2014,17:00,Lokomotiva Zagreb,RNK Split,0,0,D,0,0,D
+CRO,22/03/2014,14:00,Hajduk Split,Dinamo Zagreb,0,2,A,0,1,A
+CRO,22/03/2014,18:00,NK Istra 1961,NK Zadar,0,2,A,0,1,A
+CRO,23/03/2014,14:00,Slaven Belupo,HNK Rijeka,0,3,A,0,0,D
+CRO,23/03/2014,18:00,Hrvatski Dragovoljac,NK Osijek,2,0,H,1,0,H
+CRO,28/03/2014,17:00,Hajduk Split,NK Zadar,3,1,H,1,0,H
+CRO,29/03/2014,18:00,Lokomotiva Zagreb,Hrvatski Dragovoljac,2,1,H,1,0,H
+CRO,30/03/2014,14:00,NK Osijek,Dinamo Zagreb,3,2,H,1,0,H
+CRO,30/03/2014,18:00,NK Istra 1961,HNK Rijeka,0,1,A,0,1,A
+CRO,31/03/2014,17:00,Slaven Belupo,RNK Split,1,2,A,0,1,A
+CRO,04/04/2014,17:00,Lokomotiva Zagreb,NK Osijek,1,2,A,1,1,D
+CRO,05/04/2014,14:00,Hrvatski Dragovoljac,Slaven Belupo,3,3,D,0,3,A
+CRO,05/04/2014,18:00,NK Zadar,Dinamo Zagreb,1,2,A,0,2,A
+CRO,06/04/2014,14:00,HNK Rijeka,Hajduk Split,4,1,H,1,1,D
+CRO,06/04/2014,18:00,RNK Split,NK Istra 1961,2,0,H,1,0,H
+CRO,11/04/2014,17:00,Slaven Belupo,Lokomotiva Zagreb,2,1,H,0,0,D
+CRO,12/04/2014,14:00,Dinamo Zagreb,HNK Rijeka,4,0,H,4,0,H
+CRO,12/04/2014,18:00,NK Osijek,NK Zadar,4,0,H,1,0,H
+CRO,13/04/2014,14:00,NK Istra 1961,Hrvatski Dragovoljac,1,2,A,0,0,D
+CRO,13/04/2014,18:00,Hajduk Split,RNK Split,1,0,H,1,0,H
+CRO,15/04/2014,16:00,Slaven Belupo,NK Osijek,2,1,H,1,1,D
+CRO,15/04/2014,18:00,HNK Rijeka,NK Zadar,3,0,H,2,0,H
+CRO,16/04/2014,16:00,Hrvatski Dragovoljac,Hajduk Split,4,1,H,2,0,H
+CRO,16/04/2014,18:00,Lokomotiva Zagreb,NK Istra 1961,3,2,H,0,1,A
+CRO,16/04/2014,18:00,RNK Split,Dinamo Zagreb,0,3,A,0,2,A
+CRO,19/04/2014,14:00,NK Zadar,RNK Split,0,1,A,0,1,A
+CRO,19/04/2014,18:00,NK Osijek,HNK Rijeka,2,0,H,1,0,H
+CRO,21/04/2014,15:00,NK Istra 1961,Slaven Belupo,3,3,D,1,1,D
+CRO,21/04/2014,17:00,Hajduk Split,Lokomotiva Zagreb,2,2,D,1,0,H
+CRO,22/04/2014,16:00,Dinamo Zagreb,Hrvatski Dragovoljac,5,0,H,1,0,H
+CRO,25/04/2014,17:00,NK Istra 1961,NK Osijek,0,0,D,0,0,D
+CRO,26/04/2014,14:00,Lokomotiva Zagreb,Dinamo Zagreb,1,1,D,1,0,H
+CRO,26/04/2014,18:00,Slaven Belupo,Hajduk Split,3,0,H,2,0,H
+CRO,27/04/2014,14:00,Hrvatski Dragovoljac,NK Zadar,2,1,H,1,0,H
+CRO,27/04/2014,18:00,RNK Split,HNK Rijeka,2,2,D,0,2,A
+CRO,02/05/2014,17:00,HNK Rijeka,Hrvatski Dragovoljac,3,1,H,1,0,H
+CRO,03/05/2014,14:00,Dinamo Zagreb,Slaven Belupo,3,0,H,1,0,H
+CRO,03/05/2014,18:00,NK Osijek,RNK Split,3,1,H,1,0,H
+CRO,04/05/2014,14:00,NK Zadar,Lokomotiva Zagreb,3,4,A,1,2,A
+CRO,04/05/2014,18:00,Hajduk Split,NK Istra 1961,0,1,A,0,0,D
+CRO,09/05/2014,17:00,Hrvatski Dragovoljac,RNK Split,3,2,H,1,0,H
+CRO,10/05/2014,14:00,NK Istra 1961,Dinamo Zagreb,2,1,H,0,1,A
+CRO,10/05/2014,18:00,Lokomotiva Zagreb,HNK Rijeka,1,5,A,1,3,A
+CRO,11/05/2014,14:00,Slaven Belupo,NK Zadar,5,1,H,3,0,H
+CRO,11/05/2014,18:00,Hajduk Split,NK Osijek,4,2,H,2,0,H
+CRO,16/05/2014,17:00,RNK Split,Lokomotiva Zagreb,1,1,D,0,0,D
+CRO,17/05/2014,14:00,Dinamo Zagreb,Hajduk Split,1,0,H,0,0,D
+CRO,17/05/2014,18:00,NK Osijek,Hrvatski Dragovoljac,1,1,D,0,1,A
+CRO,17/05/2014,18:00,HNK Rijeka,Slaven Belupo,2,0,H,0,0,D
+CRO,17/05/2014,18:00,NK Zadar,NK Istra 1961,1,0,H,1,0,H

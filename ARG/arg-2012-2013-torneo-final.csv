@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,08/02/2013,22:10,Unión de Santa Fe,Arsenal Sarandí,1,1,D,1,0,H
+ARG,09/02/2013,00:15,Argentinos Juniors,Vélez Sársfield,0,1,A,0,1,A
+ARG,09/02/2013,20:00,All Boys,CD Godoy Cruz,1,1,D,0,1,A
+ARG,09/02/2013,20:00,Estudiantes,Tigre,1,3,A,1,2,A
+ARG,09/02/2013,22:15,Boca Juniors,Quilmes AC,3,2,H,1,2,A
+ARG,10/02/2013,00:30,CA San Martín,San Lorenzo,0,0,D,0,0,D
+ARG,10/02/2013,21:00,Atlético Rafaela,Racing Club,3,0,H,2,0,H
+ARG,10/02/2013,21:00,Independiente,Newell's Old Boys,1,3,A,1,1,D
+ARG,10/02/2013,23:15,Belgrano Córdoba,River Plate,1,2,A,0,0,D
+ARG,11/02/2013,23:15,CA Lanús,CA Colón,4,0,H,2,0,H
+ARG,16/02/2013,00:15,Racing Club,Argentinos Juniors,2,0,H,1,0,H
+ARG,16/02/2013,20:00,San Lorenzo,Belgrano Córdoba,0,0,D,0,0,D
+ARG,16/02/2013,20:00,CD Godoy Cruz,Unión de Santa Fe,2,1,H,1,1,D
+ARG,16/02/2013,22:15,CA Colón,CA San Martín,1,1,D,0,1,A
+ARG,16/02/2013,23:15,Vélez Sársfield,Independiente,0,1,A,0,1,A
+ARG,17/02/2013,20:00,Tigre,Boca Juniors,0,0,D,0,0,D
+ARG,17/02/2013,20:10,Quilmes AC,All Boys,2,1,H,1,0,H
+ARG,17/02/2013,21:00,Newell's Old Boys,CA Lanús,0,3,A,0,2,A
+ARG,17/02/2013,23:15,River Plate,Estudiantes,1,0,H,1,0,H
+ARG,18/02/2013,22:10,Arsenal Sarandí,Atlético Rafaela,0,0,D,0,0,D
+ARG,22/02/2013,22:10,Argentinos Juniors,Arsenal Sarandí,1,2,A,0,0,D
+ARG,23/02/2013,00:15,Estudiantes,San Lorenzo,1,1,D,1,0,H
+ARG,23/02/2013,20:00,Unión de Santa Fe,Quilmes AC,0,3,A,0,2,A
+ARG,23/02/2013,22:15,All Boys,Boca Juniors,2,0,H,0,0,D
+ARG,23/02/2013,23:15,CA Lanús,Vélez Sársfield,1,0,H,1,0,H
+ARG,24/02/2013,20:00,Independiente,Racing Club,2,0,H,1,0,H
+ARG,24/02/2013,20:00,Atlético Rafaela,CD Godoy Cruz,1,2,A,0,2,A
+ARG,24/02/2013,21:00,Belgrano Córdoba,CA Colón,2,1,H,1,0,H
+ARG,24/02/2013,23:15,River Plate,Tigre,3,2,H,0,0,D
+ARG,26/02/2013,01:15,CA San Martín,Newell's Old Boys,1,1,D,1,0,H
+ARG,01/03/2013,22:10,Quilmes AC,Atlético Rafaela,3,3,D,0,0,D
+ARG,02/03/2013,00:15,Newell's Old Boys,Belgrano Córdoba,2,0,H,1,0,H
+ARG,02/03/2013,20:00,CA Colón,Estudiantes,3,3,D,1,2,A
+ARG,02/03/2013,23:15,Arsenal Sarandí,Independiente,1,0,H,1,0,H
+ARG,03/03/2013,20:00,CD Godoy Cruz,Argentinos Juniors,0,0,D,0,0,D
+ARG,03/03/2013,20:00,San Lorenzo,River Plate,2,0,H,2,0,H
+ARG,03/03/2013,20:00,Tigre,All Boys,2,1,H,2,1,H
+ARG,03/03/2013,22:10,Racing Club,CA Lanús,0,0,D,0,0,D
+ARG,03/03/2013,23:15,Boca Juniors,Unión de Santa Fe,1,3,A,0,2,A
+ARG,05/03/2013,00:15,Vélez Sársfield,CA San Martín,3,0,H,2,0,H
+ARG,08/03/2013,22:10,Belgrano Córdoba,Vélez Sársfield,1,0,H,0,0,D
+ARG,09/03/2013,00:15,Independiente,CD Godoy Cruz,0,1,A,0,0,D
+ARG,09/03/2013,20:00,Unión de Santa Fe,All Boys,1,1,D,0,1,A
+ARG,09/03/2013,22:10,Estudiantes,Newell's Old Boys,2,4,A,1,1,D
+ARG,09/03/2013,23:15,CA San Martín,Racing Club,0,3,A,0,1,A
+ARG,10/03/2013,20:00,San Lorenzo,Tigre,0,1,A,0,1,A
+ARG,10/03/2013,21:10,River Plate,CA Colón,2,1,H,2,0,H
+ARG,10/03/2013,23:15,Atlético Rafaela,Boca Juniors,1,1,D,1,0,H
+ARG,11/03/2013,22:10,CA Lanús,Arsenal Sarandí,2,1,H,2,0,H
+ARG,12/03/2013,00:15,Argentinos Juniors,Quilmes AC,1,3,A,0,1,A
+ARG,16/03/2013,00:30,Tigre,Unión de Santa Fe,1,2,A,0,1,A
+ARG,16/03/2013,19:15,CA Colón,San Lorenzo,0,1,A,0,0,D
+ARG,16/03/2013,23:15,Quilmes AC,Independiente,0,0,D,0,0,D
+ARG,17/03/2013,17:00,CD Godoy Cruz,CA Lanús,0,1,A,0,1,A
+ARG,17/03/2013,19:10,Newell's Old Boys,River Plate,1,0,H,1,0,H
+ARG,17/03/2013,21:10,Racing Club,Belgrano Córdoba,1,1,D,1,0,H
+ARG,17/03/2013,21:10,Vélez Sársfield,Estudiantes,1,1,D,0,0,D
+ARG,17/03/2013,23:15,Boca Juniors,Argentinos Juniors,1,1,D,1,1,D
+ARG,18/03/2013,22:10,Arsenal Sarandí,CA San Martín,3,2,H,2,0,H
+ARG,19/03/2013,00:20,All Boys,Atlético Rafaela,2,1,H,2,0,H
+ARG,29/03/2013,22:00,CA Colón,Tigre,3,2,H,2,2,D
+ARG,30/03/2013,00:15,Belgrano Córdoba,Arsenal Sarandí,1,1,D,1,0,H
+ARG,30/03/2013,17:00,Argentinos Juniors,All Boys,1,0,H,0,0,D
+ARG,30/03/2013,21:10,River Plate,Vélez Sársfield,0,0,D,0,0,D
+ARG,30/03/2013,23:15,Estudiantes,Racing Club,0,1,A,0,0,D
+ARG,31/03/2013,18:15,Independiente,Boca Juniors,1,1,D,0,1,A
+ARG,31/03/2013,20:10,CA San Martín,CD Godoy Cruz,2,3,A,2,1,H
+ARG,31/03/2013,20:30,Atlético Rafaela,Unión de Santa Fe,1,0,H,1,0,H
+ARG,31/03/2013,22:10,San Lorenzo,Newell's Old Boys,0,1,A,0,1,A
+ARG,01/04/2013,23:00,CA Lanús,Quilmes AC,2,2,D,0,1,A
+ARG,06/04/2013,01:30,All Boys,Independiente,2,0,H,1,0,H
+ARG,06/04/2013,16:00,Tigre,Atlético Rafaela,1,3,A,0,1,A
+ARG,06/04/2013,20:10,Vélez Sársfield,San Lorenzo,1,1,D,0,0,D
+ARG,06/04/2013,20:15,Unión de Santa Fe,Argentinos Juniors,0,0,D,0,0,D
+ARG,06/04/2013,22:10,CD Godoy Cruz,Belgrano Córdoba,0,0,D,0,0,D
+ARG,07/04/2013,00:20,Quilmes AC,CA San Martín,0,0,D,0,0,D
+ARG,07/04/2013,18:15,Racing Club,River Plate,0,2,A,0,1,A
+ARG,07/04/2013,22:10,Newell's Old Boys,CA Colón,1,2,A,0,0,D
+ARG,08/04/2013,00:15,Boca Juniors,CA Lanús,0,0,D,0,0,D
+ARG,09/04/2013,00:15,Arsenal Sarandí,Estudiantes,1,0,H,0,0,D
+ARG,12/04/2013,23:00,Independiente,Unión de Santa Fe,1,1,D,1,0,H
+ARG,13/04/2013,01:15,Argentinos Juniors,Atlético Rafaela,0,0,D,0,0,D
+ARG,13/04/2013,20:20,CA San Martín,Boca Juniors,6,1,H,4,1,H
+ARG,13/04/2013,22:10,San Lorenzo,Racing Club,1,4,A,1,2,A
+ARG,14/04/2013,00:15,CA Lanús,All Boys,2,1,H,1,0,H
+ARG,14/04/2013,18:15,Estudiantes,CD Godoy Cruz,0,0,D,0,0,D
+ARG,14/04/2013,20:10,CA Colón,Vélez Sársfield,2,1,H,0,1,A
+ARG,14/04/2013,22:10,Newell's Old Boys,Tigre,3,1,H,1,0,H
+ARG,15/04/2013,00:15,River Plate,Arsenal Sarandí,1,1,D,1,1,D
+ARG,16/04/2013,01:30,Belgrano Córdoba,Quilmes AC,3,0,H,2,0,H
+ARG,19/04/2013,23:00,Vélez Sársfield,Newell's Old Boys,1,3,A,0,1,A
+ARG,20/04/2013,01:15,Racing Club,CA Colón,1,1,D,0,0,D
+ARG,20/04/2013,22:10,All Boys,CA San Martín,1,1,D,0,0,D
+ARG,21/04/2013,00:15,Quilmes AC,Estudiantes,1,0,H,0,0,D
+ARG,21/04/2013,20:10,Atlético Rafaela,Independiente,2,0,H,1,0,H
+ARG,21/04/2013,22:10,Boca Juniors,Belgrano Córdoba,0,0,D,0,0,D
+ARG,21/04/2013,22:10,Arsenal Sarandí,San Lorenzo,1,3,A,0,1,A
+ARG,22/04/2013,00:15,CD Godoy Cruz,River Plate,1,2,A,1,1,D
+ARG,22/04/2013,20:00,Unión de Santa Fe,CA Lanús,0,0,D,0,0,D
+ARG,23/04/2013,00:30,Tigre,Argentinos Juniors,1,0,H,0,0,D
+ARG,27/04/2013,20:10,San Lorenzo,CD Godoy Cruz,1,1,D,0,1,A
+ARG,27/04/2013,20:10,Estudiantes,Boca Juniors,1,0,H,0,0,D
+ARG,27/04/2013,22:10,CA Colón,Arsenal Sarandí,1,0,H,0,0,D
+ARG,28/04/2013,00:15,CA San Martín,Unión de Santa Fe,3,1,H,0,1,A
+ARG,28/04/2013,18:10,Independiente,Argentinos Juniors,3,1,H,0,0,D
+ARG,28/04/2013,22:00,Newell's Old Boys,Racing Club,4,3,H,2,1,H
+ARG,29/04/2013,00:15,River Plate,Quilmes AC,1,1,D,0,0,D
+ARG,29/04/2013,23:05,Belgrano Córdoba,All Boys,0,1,A,0,0,D
+ARG,30/04/2013,01:15,CA Lanús,Atlético Rafaela,1,1,D,1,1,D
+ARG,09/05/2013,00:15,Vélez Sársfield,Tigre,1,2,A,1,1,D
+ARG,03/05/2013,23:00,CD Godoy Cruz,CA Colón,3,0,H,2,0,H
+ARG,04/05/2013,01:15,Quilmes AC,San Lorenzo,1,2,A,1,0,H
+ARG,04/05/2013,18:00,Unión de Santa Fe,Belgrano Córdoba,1,1,D,0,1,A
+ARG,04/05/2013,22:10,Argentinos Juniors,CA Lanús,1,2,A,0,1,A
+ARG,05/05/2013,00:15,Racing Club,Vélez Sársfield,0,0,D,0,0,D
+ARG,05/05/2013,18:00,Tigre,Independiente,0,2,A,0,2,A
+ARG,05/05/2013,20:30,Boca Juniors,River Plate,1,1,D,1,1,D
+ARG,06/05/2013,00:30,Atlético Rafaela,CA San Martín,2,1,H,0,1,A
+ARG,06/05/2013,23:20,All Boys,Estudiantes,0,0,D,0,0,D
+ARG,07/05/2013,01:30,Arsenal Sarandí,Newell's Old Boys,2,0,H,2,0,H
+ARG,11/05/2013,01:15,Belgrano Córdoba,Atlético Rafaela,0,0,D,0,0,D
+ARG,11/05/2013,18:10,San Lorenzo,Boca Juniors,3,0,H,2,0,H
+ARG,11/05/2013,22:10,Newell's Old Boys,CD Godoy Cruz,3,1,H,1,1,D
+ARG,11/05/2013,23:10,Vélez Sársfield,Arsenal Sarandí,2,2,D,1,0,H
+ARG,12/05/2013,00:15,Racing Club,Tigre,2,0,H,1,0,H
+ARG,12/05/2013,18:00,CA Lanús,Independiente,0,0,D,0,0,D
+ARG,12/05/2013,20:10,CA San Martín,Argentinos Juniors,2,1,H,0,0,D
+ARG,12/05/2013,22:20,CA Colón,Quilmes AC,0,3,A,0,1,A
+ARG,13/05/2013,00:30,River Plate,All Boys,2,0,H,0,0,D
+ARG,14/05/2013,01:30,Estudiantes,Unión de Santa Fe,1,0,H,0,0,D
+ARG,18/05/2013,00:15,Arsenal Sarandí,Racing Club,1,0,H,0,0,D
+ARG,18/05/2013,20:10,CD Godoy Cruz,Vélez Sársfield,3,1,H,1,0,H
+ARG,18/05/2013,20:10,Atlético Rafaela,Estudiantes,0,2,A,0,1,A
+ARG,18/05/2013,22:30,Quilmes AC,Newell's Old Boys,1,1,D,0,1,A
+ARG,19/05/2013,00:15,Boca Juniors,CA Colón,1,0,H,0,0,D
+ARG,19/05/2013,17:10,Independiente,CA San Martín,3,1,H,2,0,H
+ARG,19/05/2013,19:15,Unión de Santa Fe,River Plate,2,2,D,2,1,H
+ARG,20/05/2013,00:30,All Boys,San Lorenzo,0,3,A,0,0,D
+ARG,20/05/2013,22:10,Argentinos Juniors,Belgrano Córdoba,1,3,A,1,2,A
+ARG,21/05/2013,00:15,Tigre,CA Lanús,0,0,D,0,0,D
+ARG,24/05/2013,22:10,CA Colón,All Boys,2,0,H,0,0,D
+ARG,25/05/2013,00:15,Vélez Sársfield,Quilmes AC,2,0,H,1,0,H
+ARG,26/05/2013,18:10,Belgrano Córdoba,Independiente,0,0,D,0,0,D
+ARG,26/05/2013,20:00,CA San Martín,CA Lanús,3,1,H,1,1,D
+ARG,26/05/2013,20:00,Racing Club,CD Godoy Cruz,1,1,D,1,0,H
+ARG,26/05/2013,22:10,River Plate,Atlético Rafaela,3,0,H,3,0,H
+ARG,27/05/2013,01:30,Newell's Old Boys,Boca Juniors,4,0,H,1,0,H
+ARG,27/05/2013,20:00,Arsenal Sarandí,Tigre,3,2,H,2,1,H
+ARG,27/05/2013,22:10,Estudiantes,Argentinos Juniors,0,0,D,0,0,D
+ARG,28/05/2013,00:15,San Lorenzo,Unión de Santa Fe,4,2,H,2,2,D
+ARG,01/06/2013,01:00,Quilmes AC,Racing Club,1,0,H,1,0,H
+ARG,01/06/2013,18:00,Independiente,Estudiantes,0,0,D,0,0,D
+ARG,01/06/2013,20:15,CD Godoy Cruz,Arsenal Sarandí,3,0,H,2,0,H
+ARG,02/06/2013,00:15,Atlético Rafaela,San Lorenzo,0,0,D,0,0,D
+ARG,02/06/2013,15:00,Unión de Santa Fe,CA Colón,1,0,H,0,0,D
+ARG,02/06/2013,20:10,CA Lanús,Belgrano Córdoba,0,0,D,0,0,D
+ARG,02/06/2013,22:00,Boca Juniors,Vélez Sársfield,1,1,D,1,1,D
+ARG,03/06/2013,01:30,Argentinos Juniors,River Plate,2,0,H,0,0,D
+ARG,03/06/2013,22:00,Tigre,CA San Martín,1,3,A,1,2,A
+ARG,04/06/2013,00:15,All Boys,Newell's Old Boys,2,1,H,1,0,H
+ARG,08/06/2013,20:00,Belgrano Córdoba,CA San Martín,0,2,A,0,0,D
+ARG,08/06/2013,22:10,CD Godoy Cruz,Tigre,0,1,A,0,0,D
+ARG,08/06/2013,22:10,Arsenal Sarandí,Quilmes AC,1,2,A,1,1,D
+ARG,09/06/2013,18:15,River Plate,Independiente,2,1,H,1,0,H
+ARG,09/06/2013,20:10,CA Colón,Atlético Rafaela,2,2,D,0,0,D
+ARG,10/06/2013,01:30,Racing Club,Boca Juniors,2,0,H,1,0,H
+ARG,10/06/2013,23:10,Newell's Old Boys,Unión de Santa Fe,5,0,H,2,0,H
+ARG,11/06/2013,01:15,San Lorenzo,Argentinos Juniors,1,1,D,0,1,A
+ARG,12/06/2013,18:30,Vélez Sársfield,All Boys,0,0,D,0,0,D
+ARG,19/06/2013,18:00,Estudiantes,CA Lanús,2,0,H,2,0,H
+ARG,15/06/2013,00:15,Tigre,Belgrano Córdoba,0,0,D,0,0,D
+ARG,15/06/2013,19:10,CA San Martín,Estudiantes,2,0,H,1,0,H
+ARG,15/06/2013,19:10,Independiente,San Lorenzo,0,1,A,0,0,D
+ARG,15/06/2013,19:10,Argentinos Juniors,CA Colón,1,0,H,0,0,D
+ARG,16/06/2013,18:15,Unión de Santa Fe,Vélez Sársfield,1,1,D,1,1,D
+ARG,16/06/2013,20:10,All Boys,Racing Club,0,1,A,0,0,D
+ARG,16/06/2013,20:10,Atlético Rafaela,Newell's Old Boys,0,3,A,0,0,D
+ARG,16/06/2013,22:10,Boca Juniors,Arsenal Sarandí,1,0,H,0,0,D
+ARG,17/06/2013,01:30,CA Lanús,River Plate,5,1,H,4,1,H
+ARG,18/06/2013,00:15,Quilmes AC,CD Godoy Cruz,0,0,D,0,0,D
+ARG,22/06/2013,00:30,Racing Club,Unión de Santa Fe,3,0,H,1,0,H
+ARG,22/06/2013,20:15,Estudiantes,Belgrano Córdoba,1,1,D,0,1,A
+ARG,22/06/2013,23:00,Tigre,Quilmes AC,2,3,A,2,2,D
+ARG,23/06/2013,00:15,CA Colón,Independiente,1,1,D,1,1,D
+ARG,23/06/2013,19:15,Newell's Old Boys,Argentinos Juniors,0,1,A,0,0,D
+ARG,23/06/2013,19:15,River Plate,CA San Martín,3,1,H,2,1,H
+ARG,23/06/2013,19:15,Vélez Sársfield,Atlético Rafaela,2,1,H,1,1,D
+ARG,23/06/2013,21:30,Arsenal Sarandí,All Boys,4,0,H,2,0,H
+ARG,23/06/2013,22:00,San Lorenzo,CA Lanús,2,2,D,0,2,A
+ARG,24/06/2013,01:30,CD Godoy Cruz,Boca Juniors,1,1,D,1,1,D

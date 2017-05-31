@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,28/08/2010,17:00,Udinese Calcio,Genoa CFC,0,1,A,0,0,D
+ITA,28/08/2010,19:45,AS Roma,AC Cesena,0,0,D,0,0,D
+ITA,29/08/2010,17:00,AS Bari,Juventus,1,0,H,1,0,H
+ITA,29/08/2010,19:45,Chievo Verona,Calcio Catania,2,1,H,1,1,D
+ITA,29/08/2010,19:45,AC Milan,US Lecce,4,0,H,3,0,H
+ITA,29/08/2010,19:45,Parma FC,Brescia Calcio,2,0,H,2,0,H
+ITA,29/08/2010,19:45,Sampdoria,Lazio Roma,2,0,H,0,0,D
+ITA,29/08/2010,19:45,US Palermo,Cagliari Calcio,0,0,D,0,0,D
+ITA,29/08/2010,19:45,ACF Fiorentina,SSC Napoli,1,1,D,0,1,A
+ITA,30/08/2010,19:45,Bologna FC,Inter,0,0,D,0,0,D
+ITA,11/09/2010,17:00,Inter,Udinese Calcio,2,1,H,1,1,D
+ITA,11/09/2010,19:45,Cagliari Calcio,AS Roma,5,1,H,3,1,H
+ITA,11/09/2010,19:45,AC Cesena,AC Milan,2,0,H,2,0,H
+ITA,12/09/2010,11:30,Brescia Calcio,US Palermo,3,2,H,3,1,H
+ITA,12/09/2010,14:00,Calcio Catania,Parma FC,2,1,H,1,0,H
+ITA,12/09/2010,14:00,Genoa CFC,Chievo Verona,1,3,A,1,1,D
+ITA,12/09/2010,14:00,Juventus,Sampdoria,3,3,D,1,1,D
+ITA,12/09/2010,14:00,Lazio Roma,Bologna FC,3,1,H,0,0,D
+ITA,12/09/2010,14:00,US Lecce,ACF Fiorentina,1,0,H,1,0,H
+ITA,12/09/2010,19:45,SSC Napoli,AS Bari,2,2,D,1,1,D
+ITA,18/09/2010,17:00,ACF Fiorentina,Lazio Roma,1,2,A,1,1,D
+ITA,18/09/2010,19:45,AC Milan,Calcio Catania,1,1,D,1,1,D
+ITA,19/09/2010,11:30,AS Bari,Cagliari Calcio,0,0,D,0,0,D
+ITA,19/09/2010,14:00,AC Cesena,US Lecce,1,0,H,0,0,D
+ITA,19/09/2010,14:00,Chievo Verona,Brescia Calcio,0,1,A,0,1,A
+ITA,19/09/2010,14:00,US Palermo,Inter,1,2,A,1,0,H
+ITA,19/09/2010,14:00,Parma FC,Genoa CFC,1,1,D,0,1,A
+ITA,19/09/2010,14:00,AS Roma,Bologna FC,2,2,D,1,0,H
+ITA,19/09/2010,14:00,Udinese Calcio,Juventus,0,4,A,0,3,A
+ITA,19/09/2010,19:45,Sampdoria,SSC Napoli,1,2,A,0,0,D
+ITA,22/09/2010,19:45,Bologna FC,Udinese Calcio,2,1,H,1,1,D
+ITA,22/09/2010,19:45,Brescia Calcio,AS Roma,2,1,H,1,0,H
+ITA,22/09/2010,19:45,Cagliari Calcio,Sampdoria,0,0,D,0,0,D
+ITA,22/09/2010,19:45,Calcio Catania,AC Cesena,2,0,H,1,0,H
+ITA,22/09/2010,19:45,Genoa CFC,ACF Fiorentina,1,1,D,1,1,D
+ITA,22/09/2010,19:45,Inter,AS Bari,4,0,H,1,0,H
+ITA,22/09/2010,19:45,Lazio Roma,AC Milan,1,1,D,0,0,D
+ITA,22/09/2010,19:45,US Lecce,Parma FC,1,1,D,1,0,H
+ITA,22/09/2010,19:45,SSC Napoli,Chievo Verona,1,3,A,1,1,D
+ITA,23/09/2010,19:45,Juventus,US Palermo,1,3,A,0,1,A
+ITA,25/09/2010,17:00,AC Milan,Genoa CFC,1,0,H,0,0,D
+ITA,25/09/2010,19:45,AS Roma,Inter,1,0,H,0,0,D
+ITA,26/09/2010,11:30,AC Cesena,SSC Napoli,1,4,A,0,0,D
+ITA,26/09/2010,14:00,AS Bari,Brescia Calcio,2,1,H,1,1,D
+ITA,26/09/2010,14:00,Calcio Catania,Bologna FC,1,1,D,0,1,A
+ITA,26/09/2010,14:00,Chievo Verona,Lazio Roma,0,1,A,0,0,D
+ITA,26/09/2010,14:00,ACF Fiorentina,Parma FC,2,0,H,0,0,D
+ITA,26/09/2010,14:00,US Palermo,US Lecce,2,2,D,0,1,A
+ITA,26/09/2010,14:00,Sampdoria,Udinese Calcio,0,0,D,0,0,D
+ITA,26/09/2010,19:45,Juventus,Cagliari Calcio,4,2,H,2,1,H
+ITA,02/10/2010,17:00,Udinese Calcio,AC Cesena,1,0,H,0,0,D
+ITA,02/10/2010,19:45,Parma FC,AC Milan,0,1,A,0,1,A
+ITA,03/10/2010,11:30,US Lecce,Calcio Catania,1,0,H,1,0,H
+ITA,03/10/2010,14:00,Bologna FC,Sampdoria,1,1,D,0,1,A
+ITA,03/10/2010,14:00,Chievo Verona,Cagliari Calcio,0,0,D,0,0,D
+ITA,03/10/2010,14:00,ACF Fiorentina,US Palermo,1,2,A,0,2,A
+ITA,03/10/2010,14:00,Genoa CFC,AS Bari,2,1,H,1,0,H
+ITA,03/10/2010,14:00,Lazio Roma,Brescia Calcio,1,0,H,1,0,H
+ITA,03/10/2010,14:00,SSC Napoli,AS Roma,2,0,H,0,0,D
+ITA,03/10/2010,19:45,Inter,Juventus,0,0,D,0,0,D
+ITA,16/10/2010,17:00,AC Milan,Chievo Verona,3,1,H,2,0,H
+ITA,16/10/2010,19:45,AS Roma,Genoa CFC,2,1,H,1,0,H
+ITA,17/10/2010,11:30,Cagliari Calcio,Inter,0,1,A,0,1,A
+ITA,17/10/2010,14:00,Brescia Calcio,Udinese Calcio,0,1,A,0,0,D
+ITA,17/10/2010,14:00,Calcio Catania,SSC Napoli,1,1,D,0,1,A
+ITA,17/10/2010,14:00,AC Cesena,Parma FC,1,1,D,1,1,D
+ITA,17/10/2010,14:00,Juventus,US Lecce,4,0,H,3,0,H
+ITA,17/10/2010,14:00,US Palermo,Bologna FC,4,1,H,2,0,H
+ITA,17/10/2010,14:00,Sampdoria,ACF Fiorentina,2,1,H,0,1,A
+ITA,17/10/2010,19:45,AS Bari,Lazio Roma,0,2,A,0,0,D
+ITA,23/10/2010,19:45,ACF Fiorentina,AS Bari,2,1,H,1,0,H
+ITA,24/10/2010,11:30,Parma FC,AS Roma,0,0,D,0,0,D
+ITA,24/10/2010,14:00,Bologna FC,Juventus,0,0,D,0,0,D
+ITA,24/10/2010,14:00,Chievo Verona,AC Cesena,2,1,H,1,1,D
+ITA,24/10/2010,14:00,Genoa CFC,Calcio Catania,1,0,H,0,0,D
+ITA,24/10/2010,14:00,Lazio Roma,Cagliari Calcio,2,1,H,1,0,H
+ITA,24/10/2010,14:00,US Lecce,Brescia Calcio,2,1,H,0,1,A
+ITA,24/10/2010,14:00,Udinese Calcio,US Palermo,2,1,H,1,0,H
+ITA,24/10/2010,19:45,Inter,Sampdoria,1,1,D,0,0,D
+ITA,25/10/2010,19:45,SSC Napoli,AC Milan,1,2,A,0,1,A
+ITA,29/10/2010,19:45,Genoa CFC,Inter,0,1,A,0,1,A
+ITA,30/10/2010,17:00,AS Roma,US Lecce,2,0,H,0,0,D
+ITA,30/10/2010,19:45,AC Milan,Juventus,1,2,A,0,1,A
+ITA,31/10/2010,11:30,US Palermo,Lazio Roma,0,1,A,0,1,A
+ITA,31/10/2010,14:00,AS Bari,Udinese Calcio,0,2,A,0,1,A
+ITA,31/10/2010,14:00,Brescia Calcio,SSC Napoli,0,1,A,0,0,D
+ITA,31/10/2010,14:00,Cagliari Calcio,Bologna FC,2,0,H,0,0,D
+ITA,31/10/2010,14:00,AC Cesena,Sampdoria,0,1,A,0,0,D
+ITA,31/10/2010,14:00,Parma FC,Chievo Verona,0,0,D,0,0,D
+ITA,31/10/2010,19:45,Calcio Catania,ACF Fiorentina,0,0,D,0,0,D
+ITA,06/11/2010,17:00,Bologna FC,US Lecce,2,0,H,0,0,D
+ITA,06/11/2010,19:45,Inter,Brescia Calcio,1,1,D,0,1,A
+ITA,07/11/2010,11:30,ACF Fiorentina,Chievo Verona,1,0,H,0,0,D
+ITA,07/11/2010,14:00,AS Bari,AC Milan,2,3,A,0,2,A
+ITA,07/11/2010,14:00,Juventus,AC Cesena,3,1,H,2,1,H
+ITA,07/11/2010,14:00,Lazio Roma,AS Roma,0,2,A,0,0,D
+ITA,07/11/2010,14:00,SSC Napoli,Parma FC,2,0,H,1,0,H
+ITA,07/11/2010,14:00,Sampdoria,Calcio Catania,0,0,D,0,0,D
+ITA,07/11/2010,14:00,Udinese Calcio,Cagliari Calcio,1,1,D,1,1,D
+ITA,07/11/2010,19:45,US Palermo,Genoa CFC,1,0,H,1,0,H
+ITA,10/11/2010,19:45,Brescia Calcio,Juventus,1,1,D,0,0,D
+ITA,10/11/2010,19:45,Cagliari Calcio,SSC Napoli,0,1,A,0,0,D
+ITA,10/11/2010,19:45,Calcio Catania,Udinese Calcio,1,0,H,0,0,D
+ITA,10/11/2010,19:45,AC Cesena,Lazio Roma,1,0,H,0,0,D
+ITA,10/11/2010,19:45,Chievo Verona,AS Bari,0,0,D,0,0,D
+ITA,10/11/2010,19:45,Genoa CFC,Bologna FC,1,0,H,0,0,D
+ITA,10/11/2010,19:45,US Lecce,Inter,1,1,D,0,0,D
+ITA,10/11/2010,19:45,AC Milan,US Palermo,3,1,H,1,0,H
+ITA,10/11/2010,19:45,AS Roma,ACF Fiorentina,3,2,H,1,0,H
+ITA,11/11/2010,19:45,Parma FC,Sampdoria,1,0,H,0,0,D
+ITA,13/11/2010,17:00,ACF Fiorentina,AC Cesena,1,0,H,0,0,D
+ITA,13/11/2010,19:45,Juventus,AS Roma,1,1,D,1,1,D
+ITA,14/11/2010,11:30,Lazio Roma,SSC Napoli,2,0,H,1,0,H
+ITA,14/11/2010,14:00,AS Bari,Parma FC,0,1,A,0,1,A
+ITA,14/11/2010,14:00,Bologna FC,Brescia Calcio,1,0,H,0,0,D
+ITA,14/11/2010,14:00,Cagliari Calcio,Genoa CFC,0,1,A,0,0,D
+ITA,14/11/2010,14:00,US Palermo,Calcio Catania,3,1,H,1,0,H
+ITA,14/11/2010,14:00,Sampdoria,Chievo Verona,0,0,D,0,0,D
+ITA,14/11/2010,14:00,Udinese Calcio,US Lecce,4,0,H,3,0,H
+ITA,14/11/2010,19:45,Inter,AC Milan,0,1,A,0,1,A
+ITA,20/11/2010,17:00,AS Roma,Udinese Calcio,2,0,H,1,0,H
+ITA,20/11/2010,19:45,AC Milan,ACF Fiorentina,1,0,H,1,0,H
+ITA,21/11/2010,11:30,Genoa CFC,Juventus,0,2,A,0,2,A
+ITA,21/11/2010,14:00,Brescia Calcio,Cagliari Calcio,1,2,A,1,0,H
+ITA,21/11/2010,14:00,Calcio Catania,AS Bari,1,0,H,0,0,D
+ITA,21/11/2010,14:00,AC Cesena,US Palermo,1,2,A,1,1,D
+ITA,21/11/2010,14:00,Chievo Verona,Inter,2,1,H,1,0,H
+ITA,21/11/2010,14:00,US Lecce,Sampdoria,2,3,A,0,2,A
+ITA,21/11/2010,14:00,Parma FC,Lazio Roma,1,1,D,1,1,D
+ITA,21/11/2010,19:45,SSC Napoli,Bologna FC,4,1,H,2,0,H
+ITA,27/11/2010,17:00,Sampdoria,AC Milan,1,1,D,0,1,A
+ITA,27/11/2010,19:45,Juventus,ACF Fiorentina,1,1,D,0,1,A
+ITA,28/11/2010,11:30,Inter,Parma FC,5,2,H,3,2,H
+ITA,28/11/2010,14:00,AS Bari,AC Cesena,1,1,D,0,0,D
+ITA,28/11/2010,14:00,Brescia Calcio,Genoa CFC,0,0,D,0,0,D
+ITA,28/11/2010,14:00,Cagliari Calcio,US Lecce,3,2,H,3,0,H
+ITA,28/11/2010,14:00,Lazio Roma,Calcio Catania,1,1,D,1,1,D
+ITA,28/11/2010,14:00,Udinese Calcio,SSC Napoli,3,1,H,2,0,H
+ITA,28/11/2010,19:45,US Palermo,AS Roma,3,1,H,1,0,H
+ITA,08/12/2010,14:00,Bologna FC,Chievo Verona,2,1,H,1,0,H
+ITA,03/12/2010,19:45,Lazio Roma,Inter,3,1,H,1,0,H
+ITA,04/12/2010,17:00,Chievo Verona,AS Roma,2,2,D,0,2,A
+ITA,04/12/2010,19:45,AC Milan,Brescia Calcio,3,0,H,3,0,H
+ITA,05/12/2010,14:00,AC Cesena,Bologna FC,0,2,A,0,1,A
+ITA,05/12/2010,14:00,ACF Fiorentina,Cagliari Calcio,1,0,H,0,0,D
+ITA,05/12/2010,14:00,US Lecce,Genoa CFC,1,3,A,1,0,H
+ITA,05/12/2010,14:00,Parma FC,Udinese Calcio,2,1,H,1,1,D
+ITA,05/12/2010,14:00,Sampdoria,AS Bari,3,0,H,1,0,H
+ITA,05/12/2010,19:45,Calcio Catania,Juventus,1,3,A,1,2,A
+ITA,06/12/2010,19:45,SSC Napoli,US Palermo,1,0,H,0,0,D
+ITA,11/12/2010,17:00,US Palermo,Parma FC,3,1,H,0,1,A
+ITA,11/12/2010,17:00,Udinese Calcio,ACF Fiorentina,2,1,H,0,1,A
+ITA,11/12/2010,19:45,Genoa CFC,SSC Napoli,0,1,A,0,1,A
+ITA,12/12/2010,11:30,Bologna FC,AC Milan,0,3,A,0,2,A
+ITA,12/12/2010,14:00,Brescia Calcio,Sampdoria,1,0,H,1,0,H
+ITA,12/12/2010,14:00,Cagliari Calcio,Calcio Catania,3,0,H,2,0,H
+ITA,12/12/2010,14:00,US Lecce,Chievo Verona,3,2,H,2,0,H
+ITA,12/12/2010,14:00,AS Roma,AS Bari,1,0,H,1,0,H
+ITA,12/12/2010,19:45,Juventus,Lazio Roma,2,1,H,1,1,D
+ITA,19/01/2011,19:45,Inter,AC Cesena,3,2,H,3,2,H
+ITA,18/12/2010,17:00,AC Cesena,Cagliari Calcio,1,0,H,1,0,H
+ITA,18/12/2010,19:45,AC Milan,AS Roma,0,1,A,0,0,D
+ITA,19/12/2010,11:30,Lazio Roma,Udinese Calcio,3,2,H,1,0,H
+ITA,19/12/2010,14:00,AS Bari,US Palermo,1,1,D,0,1,A
+ITA,19/12/2010,14:00,Calcio Catania,Brescia Calcio,1,0,H,1,0,H
+ITA,19/12/2010,14:00,Chievo Verona,Juventus,1,1,D,0,1,A
+ITA,19/12/2010,14:00,SSC Napoli,US Lecce,1,0,H,0,0,D
+ITA,19/12/2010,14:00,Parma FC,Bologna FC,0,0,D,0,0,D
+ITA,16/02/2011,17:30,ACF Fiorentina,Inter,1,2,A,1,1,D
+ITA,16/02/2011,17:30,Sampdoria,Genoa CFC,0,1,A,0,0,D
+ITA,06/01/2011,11:30,Juventus,Parma FC,1,4,A,0,1,A
+ITA,06/01/2011,14:00,Bologna FC,ACF Fiorentina,1,1,D,1,0,H
+ITA,06/01/2011,14:00,Brescia Calcio,AC Cesena,1,2,A,0,2,A
+ITA,06/01/2011,14:00,Cagliari Calcio,AC Milan,0,1,A,0,0,D
+ITA,06/01/2011,14:00,Genoa CFC,Lazio Roma,0,0,D,0,0,D
+ITA,06/01/2011,14:00,US Lecce,AS Bari,0,1,A,0,0,D
+ITA,06/01/2011,14:00,US Palermo,Sampdoria,3,0,H,1,0,H
+ITA,06/01/2011,14:00,AS Roma,Calcio Catania,4,2,H,1,2,A
+ITA,06/01/2011,14:00,Udinese Calcio,Chievo Verona,2,0,H,2,0,H
+ITA,06/01/2011,19:45,Inter,SSC Napoli,3,1,H,2,1,H
+ITA,09/01/2011,11:30,Sampdoria,AS Roma,2,1,H,0,1,A
+ITA,09/01/2011,14:00,AS Bari,Bologna FC,0,2,A,0,1,A
+ITA,09/01/2011,14:00,Calcio Catania,Inter,1,2,A,0,0,D
+ITA,09/01/2011,14:00,AC Cesena,Genoa CFC,0,0,D,0,0,D
+ITA,09/01/2011,14:00,Chievo Verona,US Palermo,0,0,D,0,0,D
+ITA,09/01/2011,14:00,ACF Fiorentina,Brescia Calcio,3,2,H,0,2,A
+ITA,09/01/2011,14:00,Lazio Roma,US Lecce,1,2,A,0,1,A
+ITA,09/01/2011,14:00,AC Milan,Udinese Calcio,4,4,D,1,1,D
+ITA,09/01/2011,14:00,Parma FC,Cagliari Calcio,1,2,A,0,2,A
+ITA,09/01/2011,19:45,SSC Napoli,Juventus,3,0,H,2,0,H
+ITA,15/01/2011,17:00,SSC Napoli,ACF Fiorentina,0,0,D,0,0,D
+ITA,15/01/2011,19:45,Inter,Bologna FC,4,1,H,2,0,H
+ITA,16/01/2011,11:30,Cagliari Calcio,US Palermo,3,1,H,1,0,H
+ITA,16/01/2011,14:00,Juventus,AS Bari,2,1,H,1,0,H
+ITA,16/01/2011,14:00,Calcio Catania,Chievo Verona,1,1,D,1,0,H
+ITA,16/01/2011,14:00,Brescia Calcio,Parma FC,2,0,H,1,0,H
+ITA,16/01/2011,14:00,AC Cesena,AS Roma,0,1,A,0,0,D
+ITA,16/01/2011,14:00,Lazio Roma,Sampdoria,1,0,H,0,0,D
+ITA,16/01/2011,14:00,Genoa CFC,Udinese Calcio,2,4,A,1,1,D
+ITA,16/01/2011,19:45,US Lecce,AC Milan,1,1,D,0,0,D
+ITA,22/01/2011,17:00,US Palermo,Brescia Calcio,1,0,H,0,0,D
+ITA,22/01/2011,17:00,Parma FC,Calcio Catania,2,0,H,0,0,D
+ITA,22/01/2011,19:45,AS Roma,Cagliari Calcio,3,0,H,1,0,H
+ITA,23/01/2011,11:30,Udinese Calcio,Inter,3,1,H,2,1,H
+ITA,23/01/2011,14:00,Chievo Verona,Genoa CFC,0,0,D,0,0,D
+ITA,23/01/2011,14:00,Sampdoria,Juventus,0,0,D,0,0,D
+ITA,23/01/2011,14:00,Bologna FC,Lazio Roma,3,1,H,2,1,H
+ITA,23/01/2011,14:00,ACF Fiorentina,US Lecce,1,1,D,0,1,A
+ITA,23/01/2011,14:00,AS Bari,SSC Napoli,0,2,A,0,1,A
+ITA,23/01/2011,19:45,AC Milan,AC Cesena,2,0,H,1,0,H
+ITA,29/01/2011,17:00,Lazio Roma,ACF Fiorentina,2,0,H,0,0,D
+ITA,29/01/2011,19:45,Calcio Catania,AC Milan,0,2,A,0,0,D
+ITA,30/01/2011,11:30,Brescia Calcio,Chievo Verona,0,3,A,0,1,A
+ITA,30/01/2011,14:00,Cagliari Calcio,AS Bari,2,1,H,2,1,H
+ITA,30/01/2011,14:00,US Lecce,AC Cesena,1,1,D,1,0,H
+ITA,30/01/2011,14:00,Inter,US Palermo,3,2,H,0,2,A
+ITA,30/01/2011,14:00,Genoa CFC,Parma FC,3,1,H,3,1,H
+ITA,30/01/2011,14:00,SSC Napoli,Sampdoria,4,0,H,2,0,H
+ITA,30/01/2011,19:45,Juventus,Udinese Calcio,1,2,A,0,0,D
+ITA,23/02/2011,17:30,Bologna FC,AS Roma,0,1,A,0,1,A
+ITA,01/02/2011,19:45,AC Milan,Lazio Roma,0,0,D,0,0,D
+ITA,02/02/2011,19:45,Udinese Calcio,Bologna FC,1,1,D,0,0,D
+ITA,02/02/2011,19:45,AS Roma,Brescia Calcio,1,1,D,0,0,D
+ITA,02/02/2011,19:45,Sampdoria,Cagliari Calcio,0,1,A,0,1,A
+ITA,02/02/2011,19:45,AC Cesena,Calcio Catania,1,1,D,1,1,D
+ITA,02/02/2011,19:45,ACF Fiorentina,Genoa CFC,1,0,H,1,0,H
+ITA,02/02/2011,19:45,US Palermo,Juventus,2,1,H,2,1,H
+ITA,02/02/2011,19:45,Parma FC,US Lecce,0,1,A,0,0,D
+ITA,02/02/2011,19:45,Chievo Verona,SSC Napoli,2,0,H,1,0,H
+ITA,03/02/2011,19:45,AS Bari,Inter,0,3,A,0,0,D
+ITA,05/02/2011,17:00,Udinese Calcio,Sampdoria,2,0,H,2,0,H
+ITA,05/02/2011,19:45,Cagliari Calcio,Juventus,1,3,A,0,1,A
+ITA,06/02/2011,11:30,Bologna FC,Calcio Catania,1,0,H,1,0,H
+ITA,06/02/2011,14:00,Brescia Calcio,AS Bari,2,0,H,1,0,H
+ITA,06/02/2011,14:00,SSC Napoli,AC Cesena,2,0,H,1,0,H
+ITA,06/02/2011,14:00,Lazio Roma,Chievo Verona,1,1,D,1,0,H
+ITA,06/02/2011,14:00,Parma FC,ACF Fiorentina,1,1,D,1,0,H
+ITA,06/02/2011,14:00,Genoa CFC,AC Milan,1,1,D,1,1,D
+ITA,06/02/2011,14:00,US Lecce,US Palermo,2,4,A,1,1,D
+ITA,06/02/2011,19:45,Inter,AS Roma,5,3,H,2,1,H
+ITA,12/02/2011,17:00,AC Milan,Parma FC,4,0,H,2,0,H
+ITA,12/02/2011,19:45,AS Roma,SSC Napoli,0,2,A,0,0,D
+ITA,13/02/2011,11:30,US Palermo,ACF Fiorentina,2,4,A,1,1,D
+ITA,13/02/2011,14:00,Sampdoria,Bologna FC,3,1,H,3,0,H
+ITA,13/02/2011,14:00,Cagliari Calcio,Chievo Verona,4,1,H,3,0,H
+ITA,13/02/2011,14:00,AS Bari,Genoa CFC,0,0,D,0,0,D
+ITA,13/02/2011,14:00,Brescia Calcio,Lazio Roma,0,2,A,0,1,A
+ITA,13/02/2011,14:00,Calcio Catania,US Lecce,3,2,H,1,0,H
+ITA,13/02/2011,14:00,AC Cesena,Udinese Calcio,0,3,A,0,1,A
+ITA,13/02/2011,19:45,Juventus,Inter,1,0,H,1,0,H
+ITA,19/02/2011,17:00,Bologna FC,US Palermo,1,0,H,0,0,D
+ITA,19/02/2011,19:45,Inter,Cagliari Calcio,1,0,H,1,0,H
+ITA,20/02/2011,11:30,US Lecce,Juventus,2,0,H,1,0,H
+ITA,20/02/2011,14:00,Lazio Roma,AS Bari,1,0,H,1,0,H
+ITA,20/02/2011,14:00,Udinese Calcio,Brescia Calcio,0,0,D,0,0,D
+ITA,20/02/2011,14:00,Parma FC,AC Cesena,2,2,D,0,1,A
+ITA,20/02/2011,14:00,Chievo Verona,AC Milan,1,2,A,0,1,A
+ITA,20/02/2011,14:00,Genoa CFC,AS Roma,4,3,H,0,2,A
+ITA,20/02/2011,14:00,ACF Fiorentina,Sampdoria,0,0,D,0,0,D
+ITA,20/02/2011,19:45,SSC Napoli,Calcio Catania,1,0,H,1,0,H
+ITA,26/02/2011,19:45,Juventus,Bologna FC,0,2,A,0,0,D
+ITA,27/02/2011,11:30,Calcio Catania,Genoa CFC,2,1,H,0,1,A
+ITA,27/02/2011,14:00,AC Cesena,Chievo Verona,1,0,H,0,0,D
+ITA,27/02/2011,14:00,AS Bari,ACF Fiorentina,1,1,D,0,1,A
+ITA,27/02/2011,14:00,Cagliari Calcio,Lazio Roma,1,0,H,1,0,H
+ITA,27/02/2011,14:00,Brescia Calcio,US Lecce,2,2,D,2,1,H
+ITA,27/02/2011,14:00,AS Roma,Parma FC,2,2,D,2,0,H
+ITA,27/02/2011,14:00,US Palermo,Udinese Calcio,0,7,A,0,5,A
+ITA,27/02/2011,19:45,Sampdoria,Inter,0,2,A,0,0,D
+ITA,28/02/2011,19:45,AC Milan,SSC Napoli,3,0,H,0,0,D
+ITA,04/03/2011,19:45,US Lecce,AS Roma,1,2,A,0,1,A
+ITA,05/03/2011,19:45,Juventus,AC Milan,0,1,A,0,0,D
+ITA,06/03/2011,11:30,Sampdoria,AC Cesena,2,3,A,0,1,A
+ITA,06/03/2011,14:00,Udinese Calcio,AS Bari,1,0,H,0,0,D
+ITA,06/03/2011,14:00,SSC Napoli,Brescia Calcio,0,0,D,0,0,D
+ITA,06/03/2011,14:00,Bologna FC,Cagliari Calcio,2,2,D,1,0,H
+ITA,06/03/2011,14:00,ACF Fiorentina,Calcio Catania,3,0,H,2,0,H
+ITA,06/03/2011,14:00,Inter,Genoa CFC,5,2,H,0,1,A
+ITA,06/03/2011,14:00,Chievo Verona,Parma FC,0,0,D,0,0,D
+ITA,06/03/2011,19:45,Lazio Roma,US Palermo,2,0,H,2,0,H
+ITA,11/03/2011,19:45,Brescia Calcio,Inter,1,1,D,0,1,A
+ITA,12/03/2011,19:45,AC Cesena,Juventus,2,2,D,1,2,A
+ITA,13/03/2011,11:30,AC Milan,AS Bari,1,1,D,0,1,A
+ITA,13/03/2011,14:00,US Lecce,Bologna FC,0,1,A,0,1,A
+ITA,13/03/2011,14:00,Chievo Verona,ACF Fiorentina,0,1,A,0,0,D
+ITA,13/03/2011,14:00,AS Roma,Lazio Roma,2,0,H,0,0,D
+ITA,13/03/2011,14:00,Genoa CFC,US Palermo,1,0,H,0,0,D
+ITA,13/03/2011,14:00,Calcio Catania,Sampdoria,1,0,H,0,0,D
+ITA,13/03/2011,14:00,Cagliari Calcio,Udinese Calcio,0,4,A,0,2,A
+ITA,13/03/2011,19:45,Parma FC,SSC Napoli,1,3,A,1,0,H
+ITA,19/03/2011,17:00,Lazio Roma,AC Cesena,1,0,H,1,0,H
+ITA,19/03/2011,19:45,US Palermo,AC Milan,1,0,H,1,0,H
+ITA,20/03/2011,11:30,ACF Fiorentina,AS Roma,2,2,D,2,1,H
+ITA,20/03/2011,14:00,Juventus,Brescia Calcio,2,1,H,1,1,D
+ITA,20/03/2011,14:00,Udinese Calcio,Calcio Catania,2,0,H,1,0,H
+ITA,20/03/2011,14:00,AS Bari,Chievo Verona,1,2,A,1,1,D
+ITA,20/03/2011,14:00,Bologna FC,Genoa CFC,1,1,D,1,1,D
+ITA,20/03/2011,14:00,Inter,US Lecce,1,0,H,0,0,D
+ITA,20/03/2011,14:00,Sampdoria,Parma FC,0,1,A,0,0,D
+ITA,20/03/2011,19:45,SSC Napoli,Cagliari Calcio,2,1,H,0,0,D
+ITA,02/04/2011,17:00,Brescia Calcio,Bologna FC,3,1,H,2,1,H
+ITA,02/04/2011,19:45,AC Milan,Inter,3,0,H,1,0,H
+ITA,03/04/2011,11:30,SSC Napoli,Lazio Roma,4,3,H,0,1,A
+ITA,03/04/2011,14:00,Parma FC,AS Bari,1,2,A,0,0,D
+ITA,03/04/2011,14:00,Genoa CFC,Cagliari Calcio,0,1,A,0,1,A
+ITA,03/04/2011,14:00,AC Cesena,ACF Fiorentina,2,2,D,1,1,D
+ITA,03/04/2011,14:00,Calcio Catania,US Palermo,4,0,H,0,0,D
+ITA,03/04/2011,14:00,Chievo Verona,Sampdoria,0,0,D,0,0,D
+ITA,03/04/2011,14:00,US Lecce,Udinese Calcio,2,0,H,0,0,D
+ITA,03/04/2011,19:45,AS Roma,Juventus,0,2,A,0,0,D
+ITA,09/04/2011,17:00,Inter,Chievo Verona,2,0,H,0,0,D
+ITA,09/04/2011,19:45,Udinese Calcio,AS Roma,1,2,A,0,0,D
+ITA,10/04/2011,11:30,Juventus,Genoa CFC,3,2,H,0,1,A
+ITA,10/04/2011,14:00,Cagliari Calcio,Brescia Calcio,1,1,D,1,0,H
+ITA,10/04/2011,14:00,AS Bari,Calcio Catania,1,1,D,1,1,D
+ITA,10/04/2011,14:00,US Palermo,AC Cesena,2,2,D,2,0,H
+ITA,10/04/2011,14:00,Sampdoria,US Lecce,1,2,A,0,1,A
+ITA,10/04/2011,14:00,Bologna FC,SSC Napoli,0,2,A,0,2,A
+ITA,10/04/2011,14:00,Lazio Roma,Parma FC,2,0,H,1,0,H
+ITA,10/04/2011,19:45,ACF Fiorentina,AC Milan,1,2,A,0,2,A
+ITA,16/04/2011,17:00,AS Roma,US Palermo,2,3,A,1,1,D
+ITA,16/04/2011,19:45,Parma FC,Inter,2,0,H,1,0,H
+ITA,16/04/2011,19:45,AC Milan,Sampdoria,3,0,H,1,0,H
+ITA,17/04/2011,14:00,AC Cesena,AS Bari,1,0,H,0,0,D
+ITA,17/04/2011,14:00,Chievo Verona,Bologna FC,2,0,H,1,0,H
+ITA,17/04/2011,14:00,Genoa CFC,Brescia Calcio,3,0,H,0,0,D
+ITA,17/04/2011,14:00,US Lecce,Cagliari Calcio,3,3,D,0,1,A
+ITA,17/04/2011,14:00,ACF Fiorentina,Juventus,0,0,D,0,0,D
+ITA,17/04/2011,14:00,Calcio Catania,Lazio Roma,1,4,A,0,1,A
+ITA,17/04/2011,19:45,SSC Napoli,Udinese Calcio,1,2,A,0,0,D
+ITA,23/04/2011,11:30,AS Roma,Chievo Verona,1,0,H,1,0,H
+ITA,23/04/2011,14:00,Bologna FC,AC Cesena,0,2,A,0,0,D
+ITA,23/04/2011,14:00,Cagliari Calcio,ACF Fiorentina,1,2,A,0,1,A
+ITA,23/04/2011,14:00,Inter,Lazio Roma,2,1,H,1,1,D
+ITA,23/04/2011,14:00,Genoa CFC,US Lecce,4,2,H,2,2,D
+ITA,23/04/2011,14:00,US Palermo,SSC Napoli,2,1,H,2,1,H
+ITA,23/04/2011,14:00,Udinese Calcio,Parma FC,0,2,A,0,1,A
+ITA,23/04/2011,14:00,AS Bari,Sampdoria,0,1,A,0,0,D
+ITA,23/04/2011,18:00,Brescia Calcio,AC Milan,0,1,A,0,0,D
+ITA,23/04/2011,20:00,Juventus,Calcio Catania,2,2,D,2,0,H
+ITA,30/04/2011,17:00,AC Cesena,Inter,1,2,A,0,0,D
+ITA,30/04/2011,19:45,SSC Napoli,Genoa CFC,1,0,H,0,0,D
+ITA,01/05/2011,14:00,AC Milan,Bologna FC,1,0,H,1,0,H
+ITA,01/05/2011,14:00,Sampdoria,Brescia Calcio,3,3,D,0,0,D
+ITA,01/05/2011,14:00,Calcio Catania,Cagliari Calcio,2,0,H,0,0,D
+ITA,01/05/2011,14:00,Chievo Verona,US Lecce,1,0,H,0,0,D
+ITA,01/05/2011,14:00,Parma FC,US Palermo,3,1,H,2,0,H
+ITA,01/05/2011,14:00,ACF Fiorentina,Udinese Calcio,5,2,H,2,1,H
+ITA,01/05/2011,19:45,AS Bari,AS Roma,2,3,A,2,1,H
+ITA,02/05/2011,19:45,Lazio Roma,Juventus,0,1,A,0,0,D
+ITA,07/05/2011,17:00,US Palermo,AS Bari,2,1,H,1,1,D
+ITA,07/05/2011,19:45,AS Roma,AC Milan,0,0,D,0,0,D
+ITA,08/05/2011,14:00,Brescia Calcio,Calcio Catania,1,2,A,0,1,A
+ITA,08/05/2011,14:00,Cagliari Calcio,AC Cesena,0,2,A,0,0,D
+ITA,08/05/2011,14:00,Inter,ACF Fiorentina,3,1,H,2,0,H
+ITA,08/05/2011,14:00,Udinese Calcio,Lazio Roma,2,1,H,2,0,H
+ITA,08/05/2011,14:00,US Lecce,SSC Napoli,2,1,H,0,0,D
+ITA,08/05/2011,14:00,Bologna FC,Parma FC,0,0,D,0,0,D
+ITA,08/05/2011,19:45,Genoa CFC,Sampdoria,2,1,H,1,0,H
+ITA,09/05/2011,19:45,Juventus,Chievo Verona,2,2,D,1,0,H
+ITA,14/05/2011,17:00,Lazio Roma,Genoa CFC,4,2,H,1,1,D
+ITA,14/05/2011,19:45,AC Milan,Cagliari Calcio,4,1,H,3,1,H
+ITA,15/05/2011,11:30,ACF Fiorentina,Bologna FC,1,1,D,1,0,H
+ITA,15/05/2011,14:00,AC Cesena,Brescia Calcio,1,0,H,0,0,D
+ITA,15/05/2011,14:00,Parma FC,Juventus,1,0,H,0,0,D
+ITA,15/05/2011,14:00,AS Bari,US Lecce,0,2,A,0,0,D
+ITA,15/05/2011,14:00,Sampdoria,US Palermo,1,2,A,0,1,A
+ITA,15/05/2011,14:00,Calcio Catania,AS Roma,2,1,H,0,1,A
+ITA,15/05/2011,14:00,Chievo Verona,Udinese Calcio,0,2,A,0,1,A
+ITA,15/05/2011,19:45,SSC Napoli,Inter,1,1,D,1,1,D
+ITA,22/05/2011,17:00,Bologna FC,AS Bari,0,4,A,0,1,A
+ITA,22/05/2011,17:00,Inter,Calcio Catania,3,1,H,1,0,H
+ITA,22/05/2011,17:00,Genoa CFC,AC Cesena,3,2,H,3,0,H
+ITA,22/05/2011,17:00,US Palermo,Chievo Verona,1,3,A,1,1,D
+ITA,22/05/2011,17:00,Brescia Calcio,ACF Fiorentina,2,2,D,1,1,D
+ITA,22/05/2011,17:00,Cagliari Calcio,Parma FC,1,1,D,0,1,A
+ITA,22/05/2011,19:45,US Lecce,Lazio Roma,2,4,A,2,2,D
+ITA,22/05/2011,19:45,Udinese Calcio,AC Milan,0,0,D,0,0,D
+ITA,22/05/2011,19:45,Juventus,SSC Napoli,2,2,D,0,1,A
+ITA,22/05/2011,19:45,AS Roma,Sampdoria,3,1,H,1,1,D

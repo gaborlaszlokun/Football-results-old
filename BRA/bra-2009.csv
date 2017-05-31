@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BRA,09/05/2009,22:30,SE Palmeiras,Coritiba FC,2,1,H,0,1,A
+BRA,09/05/2009,22:30,Sport Club Recife,Grêmio Barueri,1,1,D,1,0,H
+BRA,09/05/2009,22:30,Avaí FC,Atlético Mineiro,2,2,D,1,0,H
+BRA,10/05/2009,20:00,Corinthians SP,Internacional,0,1,A,0,1,A
+BRA,10/05/2009,20:00,Atlético Paranaense,EC Vitória BA,0,2,A,0,1,A
+BRA,10/05/2009,20:00,Fluminense RJ,São Paulo FC,1,0,H,1,0,H
+BRA,10/05/2009,20:00,Cruzeiro EC,Flamengo RJ,2,0,H,1,0,H
+BRA,10/05/2009,22:30,Santo André EC,Botafogo RJ,1,1,D,1,0,H
+BRA,10/05/2009,22:30,Grêmio Porto Alegre,Santos FC,1,1,D,0,0,D
+BRA,10/05/2009,22:30,Goiás EC,Clube Náutico,3,3,D,2,1,H
+BRA,16/05/2009,22:30,Coritiba FC,Santo André EC,2,4,A,1,3,A
+BRA,16/05/2009,22:30,Flamengo RJ,Avaí FC,0,0,D,0,0,D
+BRA,16/05/2009,22:30,Atlético Mineiro,Grêmio Porto Alegre,2,1,H,0,0,D
+BRA,17/05/2009,20:00,São Paulo FC,Atlético Paranaense,2,2,D,0,1,A
+BRA,17/05/2009,20:00,Santos FC,Goiás EC,3,3,D,2,1,H
+BRA,17/05/2009,20:00,Grêmio Barueri,Fluminense RJ,0,0,D,0,0,D
+BRA,17/05/2009,20:00,Internacional,SE Palmeiras,2,0,H,1,0,H
+BRA,17/05/2009,22:30,EC Vitória BA,Sport Club Recife,1,0,H,1,0,H
+BRA,17/05/2009,22:30,Clube Náutico,Cruzeiro EC,2,0,H,0,0,D
+BRA,17/05/2009,22:30,Botafogo RJ,Corinthians SP,0,0,D,0,0,D
+BRA,23/05/2009,22:30,Corinthians SP,Grêmio Barueri,2,1,H,1,0,H
+BRA,23/05/2009,22:30,Goiás EC,Internacional,0,1,A,0,0,D
+BRA,23/05/2009,22:30,Cruzeiro EC,EC Vitória BA,2,0,H,2,0,H
+BRA,24/05/2009,20:00,SE Palmeiras,São Paulo FC,0,0,D,0,0,D
+BRA,24/05/2009,20:00,Atlético Paranaense,Clube Náutico,2,3,A,2,0,H
+BRA,24/05/2009,20:00,Grêmio Porto Alegre,Botafogo RJ,2,0,H,0,0,D
+BRA,24/05/2009,20:00,Fluminense RJ,Santos FC,1,4,A,1,1,D
+BRA,24/05/2009,22:30,Santo André EC,Flamengo RJ,1,2,A,1,1,D
+BRA,24/05/2009,22:30,Sport Club Recife,Atlético Mineiro,2,3,A,0,3,A
+BRA,24/05/2009,22:30,Avaí FC,Coritiba FC,2,2,D,1,1,D
+BRA,30/05/2009,22:30,Coritiba FC,Goiás EC,1,3,A,0,3,A
+BRA,30/05/2009,22:30,Atlético Mineiro,Santo André EC,0,0,D,0,0,D
+BRA,30/05/2009,22:30,Botafogo RJ,Sport Club Recife,2,2,D,0,2,A
+BRA,31/05/2009,20:00,São Paulo FC,Cruzeiro EC,3,0,H,2,0,H
+BRA,31/05/2009,20:00,Santos FC,Corinthians SP,3,1,H,2,0,H
+BRA,31/05/2009,20:00,Flamengo RJ,Atlético Paranaense,2,1,H,1,0,H
+BRA,31/05/2009,20:00,EC Vitória BA,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,31/05/2009,20:00,Clube Náutico,Fluminense RJ,1,1,D,0,1,A
+BRA,31/05/2009,22:30,Grêmio Barueri,SE Palmeiras,2,2,D,0,0,D
+BRA,31/05/2009,22:30,Internacional,Avaí FC,2,1,H,1,0,H
+BRA,05/06/2009,01:00,Santo André EC,Santos FC,3,3,D,2,2,D
+BRA,05/06/2009,01:00,Grêmio Porto Alegre,Clube Náutico,3,0,H,1,0,H
+BRA,07/06/2009,01:00,Corinthians SP,Coritiba FC,2,0,H,1,0,H
+BRA,07/06/2009,20:00,SE Palmeiras,EC Vitória BA,2,1,H,0,0,D
+BRA,07/06/2009,20:00,Atlético Paranaense,Atlético Mineiro,0,4,A,0,1,A
+BRA,07/06/2009,20:00,Sport Club Recife,Flamengo RJ,4,2,H,4,2,H
+BRA,07/06/2009,20:00,Avaí FC,São Paulo FC,0,0,D,0,0,D
+BRA,07/06/2009,22:30,Fluminense RJ,Botafogo RJ,1,0,H,0,0,D
+BRA,07/06/2009,22:30,Goiás EC,Grêmio Barueri,2,2,D,1,1,D
+BRA,07/06/2009,22:30,Cruzeiro EC,Internacional,1,1,D,0,1,A
+BRA,13/06/2009,22:30,São Paulo FC,Santo André EC,1,1,D,0,1,A
+BRA,13/06/2009,22:30,Sport Club Recife,Atlético Paranaense,0,1,A,0,0,D
+BRA,13/06/2009,22:30,Botafogo RJ,Santos FC,2,0,H,0,0,D
+BRA,14/06/2009,20:00,Coritiba FC,Flamengo RJ,5,0,H,2,0,H
+BRA,14/06/2009,20:00,Fluminense RJ,Grêmio Porto Alegre,0,0,D,0,0,D
+BRA,14/06/2009,20:00,Goiás EC,Corinthians SP,0,0,D,0,0,D
+BRA,14/06/2009,20:00,Atlético Mineiro,Clube Náutico,3,0,H,1,0,H
+BRA,14/06/2009,22:30,SE Palmeiras,Cruzeiro EC,3,1,H,2,1,H
+BRA,14/06/2009,22:30,Grêmio Barueri,Avaí FC,3,1,H,0,1,A
+BRA,14/06/2009,22:30,Internacional,EC Vitória BA,0,0,D,0,0,D
+BRA,20/06/2009,20:10,Santo André EC,Sport Club Recife,2,1,H,1,1,D
+BRA,20/06/2009,20:10,Atlético Paranaense,SE Palmeiras,2,2,D,0,0,D
+BRA,20/06/2009,20:10,EC Vitória BA,Botafogo RJ,4,3,H,3,2,H
+BRA,20/06/2009,22:30,Grêmio Porto Alegre,Goiás EC,2,2,D,0,0,D
+BRA,20/06/2009,22:30,Clube Náutico,Coritiba FC,0,1,A,0,0,D
+BRA,20/06/2009,22:30,Avaí FC,Fluminense RJ,3,2,H,2,0,H
+BRA,21/06/2009,22:30,Corinthians SP,São Paulo FC,3,1,H,1,0,H
+BRA,21/06/2009,22:30,Santos FC,Atlético Mineiro,2,3,A,1,0,H
+BRA,21/06/2009,22:30,Flamengo RJ,Internacional,4,0,H,3,0,H
+BRA,21/06/2009,22:30,Cruzeiro EC,Grêmio Barueri,2,4,A,2,2,D
+BRA,27/06/2009,20:10,São Paulo FC,Clube Náutico,2,0,H,0,0,D
+BRA,27/06/2009,20:10,Grêmio Barueri,Atlético Mineiro,4,2,H,2,0,H
+BRA,27/06/2009,20:10,Atlético Paranaense,Corinthians SP,1,0,H,1,0,H
+BRA,27/06/2009,22:30,Cruzeiro EC,Avaí FC,1,0,H,1,0,H
+BRA,27/06/2009,22:30,Botafogo RJ,Goiás EC,1,4,A,1,2,A
+BRA,28/06/2009,22:30,SE Palmeiras,Santos FC,1,1,D,1,0,H
+BRA,28/06/2009,22:30,Internacional,Coritiba FC,3,0,H,0,0,D
+BRA,28/06/2009,22:30,Fluminense RJ,Flamengo RJ,0,0,D,0,0,D
+BRA,28/06/2009,22:30,EC Vitória BA,Santo André EC,4,1,H,0,0,D
+BRA,28/06/2009,22:30,Sport Club Recife,Grêmio Porto Alegre,3,1,H,1,0,H
+BRA,04/07/2009,22:30,Santos FC,Sport Club Recife,1,0,H,0,0,D
+BRA,04/07/2009,22:30,Santo André EC,Grêmio Barueri,1,1,D,0,1,A
+BRA,04/07/2009,22:30,Flamengo RJ,EC Vitória BA,2,1,H,1,0,H
+BRA,05/07/2009,20:00,Coritiba FC,São Paulo FC,2,0,H,1,0,H
+BRA,05/07/2009,20:00,Grêmio Porto Alegre,Atlético Paranaense,4,1,H,3,1,H
+BRA,05/07/2009,20:00,Goiás EC,Cruzeiro EC,1,0,H,1,0,H
+BRA,05/07/2009,20:00,Atlético Mineiro,Botafogo RJ,1,1,D,1,1,D
+BRA,05/07/2009,22:30,Clube Náutico,Internacional,0,2,A,0,0,D
+BRA,05/07/2009,22:30,Avaí FC,SE Palmeiras,0,3,A,0,1,A
+BRA,09/07/2009,01:50,Corinthians SP,Fluminense RJ,4,2,H,3,0,H
+BRA,11/07/2009,22:30,SE Palmeiras,Clube Náutico,4,1,H,2,0,H
+BRA,11/07/2009,22:30,Grêmio Barueri,Coritiba FC,3,1,H,2,0,H
+BRA,11/07/2009,22:30,Avaí FC,Botafogo RJ,1,2,A,0,2,A
+BRA,12/07/2009,20:00,São Paulo FC,Flamengo RJ,2,2,D,1,2,A
+BRA,12/07/2009,20:00,Atlético Paranaense,Internacional,3,2,H,1,1,D
+BRA,12/07/2009,20:00,Grêmio Porto Alegre,Corinthians SP,3,0,H,3,0,H
+BRA,12/07/2009,20:00,Cruzeiro EC,Atlético Mineiro,0,3,A,0,2,A
+BRA,12/07/2009,22:30,Fluminense RJ,Santo André EC,0,1,A,0,1,A
+BRA,12/07/2009,22:30,EC Vitória BA,Santos FC,6,2,H,4,1,H
+BRA,12/07/2009,22:30,Sport Club Recife,Goiás EC,1,0,H,1,0,H
+BRA,15/07/2009,23:30,Coritiba FC,Grêmio Porto Alegre,2,1,H,1,1,D
+BRA,15/07/2009,23:30,Goiás EC,Avaí FC,0,2,A,0,0,D
+BRA,16/07/2009,01:00,Santos FC,Grêmio Barueri,3,3,D,1,3,A
+BRA,16/07/2009,01:00,Santo André EC,Atlético Paranaense,1,0,H,0,0,D
+BRA,16/07/2009,01:50,Internacional,Fluminense RJ,4,2,H,2,0,H
+BRA,16/07/2009,01:50,Flamengo RJ,SE Palmeiras,1,2,A,0,2,A
+BRA,17/07/2009,01:00,Corinthians SP,Sport Club Recife,4,3,H,2,1,H
+BRA,17/07/2009,01:00,Clube Náutico,EC Vitória BA,1,1,D,0,1,A
+BRA,17/07/2009,01:00,Atlético Mineiro,São Paulo FC,2,0,H,1,0,H
+BRA,28/08/2009,01:00,Botafogo RJ,Cruzeiro EC,1,1,D,1,0,H
+BRA,18/07/2009,22:30,SE Palmeiras,Santo André EC,1,0,H,1,0,H
+BRA,18/07/2009,22:30,Fluminense RJ,Goiás EC,1,4,A,0,0,D
+BRA,19/07/2009,20:00,São Paulo FC,Santos FC,2,1,H,1,1,D
+BRA,19/07/2009,20:00,Atlético Paranaense,Coritiba FC,0,0,D,0,0,D
+BRA,19/07/2009,20:00,Grêmio Porto Alegre,Internacional,2,1,H,1,1,D
+BRA,19/07/2009,20:00,EC Vitória BA,Atlético Mineiro,0,0,D,0,0,D
+BRA,19/07/2009,20:00,Cruzeiro EC,Corinthians SP,1,2,A,0,1,A
+BRA,19/07/2009,22:30,Grêmio Barueri,Clube Náutico,4,0,H,2,0,H
+BRA,19/07/2009,22:30,Sport Club Recife,Avaí FC,1,3,A,1,1,D
+BRA,19/07/2009,22:30,Flamengo RJ,Botafogo RJ,2,2,D,1,1,D
+BRA,22/07/2009,23:30,Santo André EC,Cruzeiro EC,0,2,A,0,0,D
+BRA,22/07/2009,23:30,Flamengo RJ,Grêmio Barueri,1,1,D,0,0,D
+BRA,22/07/2009,23:30,Avaí FC,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,23/07/2009,01:00,Santos FC,Atlético Paranaense,1,0,H,0,0,D
+BRA,23/07/2009,01:50,Internacional,São Paulo FC,2,2,D,2,0,H
+BRA,23/07/2009,01:50,Goiás EC,SE Palmeiras,2,1,H,0,0,D
+BRA,23/07/2009,01:50,Clube Náutico,Botafogo RJ,2,2,D,0,1,A
+BRA,24/07/2009,01:00,Corinthians SP,EC Vitória BA,2,1,H,2,1,H
+BRA,24/07/2009,01:00,Coritiba FC,Sport Club Recife,1,1,D,1,1,D
+BRA,24/07/2009,01:00,Atlético Mineiro,Fluminense RJ,2,1,H,0,0,D
+BRA,25/07/2009,22:30,Atlético Paranaense,Avaí FC,1,3,A,0,2,A
+BRA,25/07/2009,22:30,Grêmio Porto Alegre,Santo André EC,3,2,H,2,1,H
+BRA,25/07/2009,22:30,Botafogo RJ,Internacional,3,2,H,2,0,H
+BRA,26/07/2009,20:00,Corinthians SP,SE Palmeiras,0,3,A,0,1,A
+BRA,26/07/2009,20:00,Santos FC,Flamengo RJ,1,2,A,0,0,D
+BRA,26/07/2009,20:00,Sport Club Recife,Clube Náutico,3,3,D,1,1,D
+BRA,26/07/2009,20:00,Atlético Mineiro,Goiás EC,0,1,A,0,0,D
+BRA,26/07/2009,22:30,Grêmio Barueri,São Paulo FC,1,2,A,1,2,A
+BRA,26/07/2009,22:30,Fluminense RJ,Cruzeiro EC,1,1,D,0,1,A
+BRA,26/07/2009,22:30,EC Vitória BA,Coritiba FC,1,0,H,0,0,D
+BRA,29/07/2009,23:30,Coritiba FC,Botafogo RJ,2,2,D,0,1,A
+BRA,29/07/2009,23:30,Clube Náutico,Santos FC,1,2,A,0,0,D
+BRA,30/07/2009,01:00,Internacional,Grêmio Barueri,3,2,H,2,1,H
+BRA,30/07/2009,01:00,Goiás EC,Atlético Paranaense,3,0,H,2,0,H
+BRA,30/07/2009,01:50,SE Palmeiras,Fluminense RJ,1,0,H,0,0,D
+BRA,30/07/2009,01:50,Santo André EC,Corinthians SP,1,1,D,0,0,D
+BRA,30/07/2009,01:50,Cruzeiro EC,Sport Club Recife,1,0,H,0,0,D
+BRA,31/07/2009,01:00,São Paulo FC,Grêmio Porto Alegre,2,1,H,1,0,H
+BRA,31/07/2009,01:00,Flamengo RJ,Atlético Mineiro,3,1,H,2,1,H
+BRA,31/07/2009,01:00,Avaí FC,EC Vitória BA,4,0,H,2,0,H
+BRA,01/08/2009,22:30,Sport Club Recife,SE Palmeiras,0,1,A,0,0,D
+BRA,01/08/2009,22:30,Botafogo RJ,Grêmio Barueri,2,1,H,1,1,D
+BRA,02/08/2009,20:00,Corinthians SP,Avaí FC,0,0,D,0,0,D
+BRA,02/08/2009,20:00,Atlético Paranaense,Fluminense RJ,1,0,H,1,0,H
+BRA,02/08/2009,20:00,Flamengo RJ,Clube Náutico,1,1,D,0,1,A
+BRA,02/08/2009,20:00,EC Vitória BA,São Paulo FC,0,1,A,0,0,D
+BRA,02/08/2009,22:30,Santo André EC,Goiás EC,1,2,A,0,0,D
+BRA,02/08/2009,22:30,Grêmio Porto Alegre,Cruzeiro EC,4,1,H,0,1,A
+BRA,02/08/2009,22:30,Atlético Mineiro,Coritiba FC,3,2,H,2,1,H
+BRA,27/08/2009,01:00,Santos FC,Internacional,3,3,D,2,2,D
+BRA,05/08/2009,23:30,Cruzeiro EC,Atlético Paranaense,0,2,A,0,0,D
+BRA,06/08/2009,01:00,São Paulo FC,Botafogo RJ,3,1,H,2,1,H
+BRA,06/08/2009,01:00,Avaí FC,Santo André EC,1,0,H,1,0,H
+BRA,06/08/2009,01:50,Coritiba FC,Santos FC,0,1,A,0,1,A
+BRA,06/08/2009,01:50,Goiás EC,Flamengo RJ,3,2,H,2,0,H
+BRA,06/08/2009,01:50,Clube Náutico,Corinthians SP,1,0,H,1,0,H
+BRA,07/08/2009,01:00,SE Palmeiras,Grêmio Porto Alegre,1,1,D,1,1,D
+BRA,07/08/2009,01:00,Grêmio Barueri,EC Vitória BA,4,0,H,2,0,H
+BRA,07/08/2009,01:00,Fluminense RJ,Sport Club Recife,5,1,H,3,0,H
+BRA,03/09/2009,01:00,Internacional,Atlético Mineiro,3,0,H,0,0,D
+BRA,08/08/2009,22:30,Santos FC,Avaí FC,2,2,D,1,0,H
+BRA,08/08/2009,22:30,Clube Náutico,Santo André EC,2,1,H,0,0,D
+BRA,08/08/2009,22:30,Botafogo RJ,Atlético Paranaense,0,1,A,0,0,D
+BRA,09/08/2009,20:00,Flamengo RJ,Corinthians SP,1,0,H,0,0,D
+BRA,09/08/2009,20:00,EC Vitória BA,Fluminense RJ,2,2,D,1,1,D
+BRA,09/08/2009,22:30,São Paulo FC,Goiás EC,3,1,H,1,0,H
+BRA,09/08/2009,22:30,Grêmio Barueri,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,09/08/2009,22:30,Coritiba FC,Cruzeiro EC,1,3,A,0,1,A
+BRA,11/08/2009,01:00,Internacional,Sport Club Recife,3,0,H,1,0,H
+BRA,13/08/2009,01:50,Atlético Mineiro,SE Palmeiras,1,1,D,1,1,D
+BRA,15/08/2009,22:30,SE Palmeiras,Botafogo RJ,1,1,D,1,1,D
+BRA,15/08/2009,22:30,Santo André EC,Internacional,0,2,A,0,0,D
+BRA,15/08/2009,22:30,Avaí FC,Clube Náutico,2,1,H,1,0,H
+BRA,16/08/2009,20:00,Corinthians SP,Atlético Mineiro,2,0,H,1,0,H
+BRA,16/08/2009,20:00,Grêmio Porto Alegre,Flamengo RJ,4,1,H,1,1,D
+BRA,16/08/2009,20:00,Fluminense RJ,Coritiba FC,1,3,A,0,1,A
+BRA,16/08/2009,20:00,Goiás EC,EC Vitória BA,3,2,H,2,1,H
+BRA,16/08/2009,20:00,Sport Club Recife,São Paulo FC,1,2,A,0,1,A
+BRA,16/08/2009,22:30,Atlético Paranaense,Grêmio Barueri,3,0,H,2,0,H
+BRA,16/08/2009,22:30,Cruzeiro EC,Santos FC,0,0,D,0,0,D
+BRA,19/08/2009,23:30,Santos FC,Grêmio Porto Alegre,1,0,H,0,0,D
+BRA,19/08/2009,23:30,EC Vitória BA,Atlético Paranaense,2,1,H,1,0,H
+BRA,19/08/2009,23:30,Botafogo RJ,Santo André EC,1,2,A,1,2,A
+BRA,20/08/2009,01:00,Grêmio Barueri,Sport Club Recife,2,1,H,1,0,H
+BRA,20/08/2009,01:50,São Paulo FC,Fluminense RJ,1,0,H,1,0,H
+BRA,20/08/2009,01:50,Coritiba FC,SE Palmeiras,1,0,H,0,0,D
+BRA,20/08/2009,01:50,Internacional,Corinthians SP,1,2,A,1,1,D
+BRA,21/08/2009,01:00,Flamengo RJ,Cruzeiro EC,1,2,A,1,0,H
+BRA,21/08/2009,01:00,Clube Náutico,Goiás EC,2,0,H,1,0,H
+BRA,21/08/2009,01:00,Atlético Mineiro,Avaí FC,2,2,D,0,0,D
+BRA,22/08/2009,22:30,SE Palmeiras,Internacional,2,1,H,1,0,H
+BRA,22/08/2009,22:30,Santo André EC,Coritiba FC,1,0,H,1,0,H
+BRA,22/08/2009,22:30,Sport Club Recife,EC Vitória BA,2,0,H,2,0,H
+BRA,23/08/2009,20:00,Corinthians SP,Botafogo RJ,3,3,D,1,0,H
+BRA,23/08/2009,20:00,Atlético Paranaense,São Paulo FC,1,0,H,0,0,D
+BRA,23/08/2009,20:00,Grêmio Porto Alegre,Atlético Mineiro,4,1,H,3,0,H
+BRA,23/08/2009,20:00,Fluminense RJ,Grêmio Barueri,0,0,D,0,0,D
+BRA,23/08/2009,22:30,Goiás EC,Santos FC,2,1,H,1,1,D
+BRA,23/08/2009,22:30,Cruzeiro EC,Clube Náutico,4,2,H,3,1,H
+BRA,23/08/2009,22:30,Avaí FC,Flamengo RJ,3,0,H,2,0,H
+BRA,27/08/2009,01:50,Grêmio Barueri,Corinthians SP,2,2,D,1,0,H
+BRA,29/08/2009,22:30,Coritiba FC,Avaí FC,2,0,H,1,0,H
+BRA,29/08/2009,22:30,Flamengo RJ,Santo André EC,3,0,H,2,0,H
+BRA,29/08/2009,22:30,Clube Náutico,Atlético Paranaense,3,0,H,3,0,H
+BRA,30/08/2009,20:00,São Paulo FC,SE Palmeiras,0,0,D,0,0,D
+BRA,30/08/2009,20:00,Santos FC,Fluminense RJ,2,0,H,1,0,H
+BRA,30/08/2009,20:00,Atlético Mineiro,Sport Club Recife,1,1,D,0,0,D
+BRA,30/08/2009,22:30,Internacional,Goiás EC,4,0,H,2,0,H
+BRA,30/08/2009,22:30,EC Vitória BA,Cruzeiro EC,3,3,D,0,1,A
+BRA,30/08/2009,22:30,Botafogo RJ,Grêmio Porto Alegre,3,3,D,1,1,D
+BRA,03/09/2009,01:50,Corinthians SP,Santos FC,2,1,H,0,0,D
+BRA,05/09/2009,22:30,SE Palmeiras,Grêmio Barueri,2,1,H,0,0,D
+BRA,05/09/2009,22:30,Grêmio Porto Alegre,EC Vitória BA,1,1,D,0,1,A
+BRA,05/09/2009,22:30,Sport Club Recife,Botafogo RJ,2,1,H,2,0,H
+BRA,06/09/2009,20:00,Atlético Paranaense,Flamengo RJ,0,0,D,0,0,D
+BRA,06/09/2009,20:00,Goiás EC,Coritiba FC,2,2,D,2,1,H
+BRA,06/09/2009,20:00,Cruzeiro EC,São Paulo FC,1,2,A,1,0,H
+BRA,06/09/2009,22:30,Santo André EC,Atlético Mineiro,1,2,A,0,0,D
+BRA,06/09/2009,22:30,Fluminense RJ,Clube Náutico,1,1,D,1,0,H
+BRA,06/09/2009,22:30,Avaí FC,Internacional,0,2,A,0,1,A
+BRA,12/09/2009,22:30,São Paulo FC,Avaí FC,2,0,H,0,0,D
+BRA,12/09/2009,22:30,Flamengo RJ,Sport Club Recife,3,0,H,2,0,H
+BRA,13/09/2009,20:00,Santos FC,Santo André EC,1,0,H,1,0,H
+BRA,13/09/2009,20:00,Internacional,Cruzeiro EC,2,3,A,1,1,D
+BRA,13/09/2009,20:00,EC Vitória BA,SE Palmeiras,3,2,H,1,1,D
+BRA,13/09/2009,20:00,Atlético Mineiro,Atlético Paranaense,2,1,H,1,1,D
+BRA,13/09/2009,22:30,Grêmio Barueri,Goiás EC,3,1,H,1,1,D
+BRA,13/09/2009,22:30,Clube Náutico,Grêmio Porto Alegre,0,2,A,0,2,A
+BRA,13/09/2009,22:30,Botafogo RJ,Fluminense RJ,0,0,D,0,0,D
+BRA,17/09/2009,01:50,Coritiba FC,Corinthians SP,1,1,D,1,0,H
+BRA,19/09/2009,22:30,Atlético Paranaense,Sport Club Recife,1,0,H,1,0,H
+BRA,19/09/2009,22:30,EC Vitória BA,Internacional,2,0,H,0,0,D
+BRA,19/09/2009,22:30,Clube Náutico,Atlético Mineiro,0,0,D,0,0,D
+BRA,20/09/2009,20:00,Santo André EC,São Paulo FC,1,1,D,0,1,A
+BRA,20/09/2009,20:00,Grêmio Porto Alegre,Fluminense RJ,5,1,H,3,0,H
+BRA,20/09/2009,20:00,Avaí FC,Grêmio Barueri,4,0,H,2,0,H
+BRA,20/09/2009,22:30,Corinthians SP,Goiás EC,1,4,A,0,2,A
+BRA,20/09/2009,22:30,Flamengo RJ,Coritiba FC,3,0,H,1,0,H
+BRA,20/09/2009,22:40,Santos FC,Botafogo RJ,0,0,D,0,0,D
+BRA,24/09/2009,01:50,Cruzeiro EC,SE Palmeiras,1,2,A,1,1,D
+BRA,26/09/2009,22:30,SE Palmeiras,Atlético Paranaense,2,1,H,1,0,H
+BRA,26/09/2009,22:30,Grêmio Barueri,Cruzeiro EC,0,1,A,0,0,D
+BRA,27/09/2009,20:00,São Paulo FC,Corinthians SP,1,1,D,0,1,A
+BRA,27/09/2009,20:00,Coritiba FC,Clube Náutico,2,0,H,1,0,H
+BRA,27/09/2009,20:00,Internacional,Flamengo RJ,0,0,D,0,0,D
+BRA,27/09/2009,20:00,Fluminense RJ,Avaí FC,3,2,H,2,2,D
+BRA,27/09/2009,20:00,Goiás EC,Grêmio Porto Alegre,2,1,H,1,1,D
+BRA,27/09/2009,22:30,Sport Club Recife,Santo André EC,2,1,H,1,1,D
+BRA,27/09/2009,22:30,Atlético Mineiro,Santos FC,3,1,H,1,0,H
+BRA,27/09/2009,22:30,Botafogo RJ,EC Vitória BA,1,3,A,0,1,A
+BRA,01/10/2009,01:50,Clube Náutico,São Paulo FC,1,2,A,1,0,H
+BRA,03/10/2009,22:30,Corinthians SP,Atlético Paranaense,1,3,A,0,0,D
+BRA,03/10/2009,22:30,Santo André EC,EC Vitória BA,1,0,H,1,0,H
+BRA,03/10/2009,22:30,Atlético Mineiro,Grêmio Barueri,2,1,H,1,0,H
+BRA,04/10/2009,20:00,Santos FC,SE Palmeiras,1,3,A,0,0,D
+BRA,04/10/2009,20:00,Grêmio Porto Alegre,Sport Club Recife,3,3,D,2,1,H
+BRA,04/10/2009,20:00,Goiás EC,Botafogo RJ,1,3,A,0,0,D
+BRA,04/10/2009,22:30,Coritiba FC,Internacional,2,0,H,0,0,D
+BRA,04/10/2009,22:30,Flamengo RJ,Fluminense RJ,2,0,H,0,0,D
+BRA,04/10/2009,22:30,Avaí FC,Cruzeiro EC,2,2,D,0,1,A
+BRA,07/10/2009,23:30,Grêmio Barueri,Santo André EC,0,0,D,0,0,D
+BRA,07/10/2009,23:30,Sport Club Recife,Santos FC,0,1,A,0,1,A
+BRA,08/10/2009,01:00,São Paulo FC,Coritiba FC,2,2,D,1,2,A
+BRA,08/10/2009,01:00,Atlético Paranaense,Grêmio Porto Alegre,0,0,D,0,0,D
+BRA,08/10/2009,01:50,Internacional,Clube Náutico,3,1,H,2,1,H
+BRA,08/10/2009,01:50,Fluminense RJ,Corinthians SP,1,1,D,1,1,D
+BRA,08/10/2009,01:50,EC Vitória BA,Flamengo RJ,3,3,D,3,2,H
+BRA,09/10/2009,01:00,SE Palmeiras,Avaí FC,2,2,D,1,2,A
+BRA,09/10/2009,01:00,Cruzeiro EC,Goiás EC,3,0,H,0,0,D
+BRA,09/10/2009,01:00,Botafogo RJ,Atlético Mineiro,3,1,H,3,0,H
+BRA,10/10/2009,20:10,Corinthians SP,Grêmio Porto Alegre,2,1,H,2,0,H
+BRA,10/10/2009,20:10,Santo André EC,Fluminense RJ,1,2,A,0,2,A
+BRA,10/10/2009,20:10,Flamengo RJ,São Paulo FC,2,1,H,0,1,A
+BRA,10/10/2009,22:30,Coritiba FC,Grêmio Barueri,1,2,A,0,0,D
+BRA,10/10/2009,22:30,Internacional,Atlético Paranaense,1,1,D,0,0,D
+BRA,12/10/2009,20:00,Santos FC,EC Vitória BA,0,0,D,0,0,D
+BRA,12/10/2009,20:00,Goiás EC,Sport Club Recife,1,1,D,0,0,D
+BRA,12/10/2009,20:00,Clube Náutico,SE Palmeiras,3,0,H,2,0,H
+BRA,12/10/2009,20:00,Atlético Mineiro,Cruzeiro EC,0,1,A,0,1,A
+BRA,12/10/2009,20:00,Botafogo RJ,Avaí FC,2,2,D,0,2,A
+BRA,17/10/2009,22:30,São Paulo FC,Atlético Mineiro,0,1,A,0,1,A
+BRA,17/10/2009,22:30,Grêmio Barueri,Santos FC,0,0,D,0,0,D
+BRA,17/10/2009,22:30,Avaí FC,Goiás EC,2,1,H,0,1,A
+BRA,18/10/2009,19:00,SE Palmeiras,Flamengo RJ,0,2,A,0,1,A
+BRA,18/10/2009,19:00,Grêmio Porto Alegre,Coritiba FC,2,0,H,1,0,H
+BRA,18/10/2009,19:00,Fluminense RJ,Internacional,2,2,D,1,1,D
+BRA,18/10/2009,19:00,Sport Club Recife,Corinthians SP,2,0,H,1,0,H
+BRA,18/10/2009,21:30,Atlético Paranaense,Santo André EC,3,0,H,2,0,H
+BRA,18/10/2009,21:30,EC Vitória BA,Clube Náutico,3,1,H,0,0,D
+BRA,18/10/2009,21:30,Cruzeiro EC,Botafogo RJ,1,0,H,0,0,D
+BRA,22/10/2009,00:50,Santo André EC,SE Palmeiras,2,0,H,1,0,H
+BRA,24/10/2009,21:30,Clube Náutico,Grêmio Barueri,2,1,H,1,0,H
+BRA,24/10/2009,21:30,Atlético Mineiro,EC Vitória BA,1,0,H,1,0,H
+BRA,25/10/2009,18:00,Santos FC,São Paulo FC,3,4,A,2,2,D
+BRA,25/10/2009,18:00,Coritiba FC,Atlético Paranaense,3,2,H,1,1,D
+BRA,25/10/2009,18:00,Internacional,Grêmio Porto Alegre,1,0,H,1,0,H
+BRA,25/10/2009,18:00,Goiás EC,Fluminense RJ,2,2,D,2,1,H
+BRA,25/10/2009,20:30,Corinthians SP,Cruzeiro EC,0,1,A,0,1,A
+BRA,25/10/2009,20:30,Botafogo RJ,Flamengo RJ,0,1,A,0,1,A
+BRA,25/10/2009,20:30,Avaí FC,Sport Club Recife,2,2,D,1,2,A
+BRA,28/10/2009,21:30,Atlético Paranaense,Santos FC,1,1,D,0,0,D
+BRA,28/10/2009,21:30,Botafogo RJ,Clube Náutico,1,0,H,0,0,D
+BRA,28/10/2009,23:00,Grêmio Porto Alegre,Avaí FC,3,1,H,1,0,H
+BRA,28/10/2009,23:00,Cruzeiro EC,Santo André EC,3,2,H,0,0,D
+BRA,28/10/2009,23:50,São Paulo FC,Internacional,1,0,H,1,0,H
+BRA,28/10/2009,23:50,Grêmio Barueri,Flamengo RJ,2,0,H,1,0,H
+BRA,28/10/2009,23:50,EC Vitória BA,Corinthians SP,0,1,A,0,0,D
+BRA,29/10/2009,23:00,SE Palmeiras,Goiás EC,4,0,H,0,0,D
+BRA,29/10/2009,23:00,Fluminense RJ,Atlético Mineiro,2,1,H,1,0,H
+BRA,29/10/2009,23:00,Sport Club Recife,Coritiba FC,1,1,D,1,1,D
+BRA,31/10/2009,20:30,São Paulo FC,Grêmio Barueri,1,0,H,1,0,H
+BRA,31/10/2009,20:30,Flamengo RJ,Santos FC,1,0,H,1,0,H
+BRA,31/10/2009,20:30,Avaí FC,Atlético Paranaense,2,0,H,1,0,H
+BRA,01/11/2009,18:00,SE Palmeiras,Corinthians SP,2,2,D,0,1,A
+BRA,01/11/2009,18:00,Coritiba FC,EC Vitória BA,1,0,H,1,0,H
+BRA,01/11/2009,18:00,Internacional,Botafogo RJ,0,1,A,0,1,A
+BRA,01/11/2009,18:00,Goiás EC,Atlético Mineiro,2,3,A,2,2,D
+BRA,01/11/2009,20:30,Santo André EC,Grêmio Porto Alegre,2,0,H,1,0,H
+BRA,01/11/2009,20:30,Clube Náutico,Sport Club Recife,3,2,H,2,1,H
+BRA,01/11/2009,20:30,Cruzeiro EC,Fluminense RJ,2,3,A,2,0,H
+BRA,04/11/2009,23:50,Grêmio Porto Alegre,São Paulo FC,1,1,D,1,1,D
+BRA,07/11/2009,20:30,Santos FC,Clube Náutico,3,1,H,1,0,H
+BRA,07/11/2009,20:30,EC Vitória BA,Avaí FC,0,1,A,0,0,D
+BRA,07/11/2009,20:30,Sport Club Recife,Cruzeiro EC,2,3,A,2,1,H
+BRA,08/11/2009,18:00,Corinthians SP,Santo André EC,2,0,H,1,0,H
+BRA,08/11/2009,18:00,Fluminense RJ,SE Palmeiras,1,0,H,0,0,D
+BRA,08/11/2009,18:00,Atlético Mineiro,Flamengo RJ,1,3,A,0,2,A
+BRA,08/11/2009,20:30,Grêmio Barueri,Internacional,1,1,D,1,0,H
+BRA,08/11/2009,20:30,Atlético Paranaense,Goiás EC,2,0,H,1,0,H
+BRA,08/11/2009,20:30,Botafogo RJ,Coritiba FC,2,0,H,1,0,H
+BRA,11/11/2009,23:50,SE Palmeiras,Sport Club Recife,2,2,D,0,2,A
+BRA,14/11/2009,21:30,São Paulo FC,EC Vitória BA,2,0,H,1,0,H
+BRA,14/11/2009,21:30,Coritiba FC,Atlético Mineiro,2,1,H,1,0,H
+BRA,14/11/2009,21:30,Cruzeiro EC,Grêmio Porto Alegre,1,1,D,0,0,D
+BRA,15/11/2009,19:00,Grêmio Barueri,Botafogo RJ,3,0,H,1,0,H
+BRA,15/11/2009,19:00,Clube Náutico,Flamengo RJ,0,2,A,0,2,A
+BRA,15/11/2009,19:00,Avaí FC,Corinthians SP,3,1,H,2,1,H
+BRA,15/11/2009,21:30,Internacional,Santos FC,3,1,H,2,0,H
+BRA,15/11/2009,21:30,Fluminense RJ,Atlético Paranaense,2,1,H,1,0,H
+BRA,15/11/2009,21:30,Goiás EC,Santo André EC,3,1,H,0,1,A
+BRA,18/11/2009,23:50,Grêmio Porto Alegre,SE Palmeiras,2,0,H,1,0,H
+BRA,21/11/2009,21:30,Corinthians SP,Clube Náutico,2,3,A,0,1,A
+BRA,21/11/2009,21:30,Atlético Paranaense,Cruzeiro EC,1,1,D,0,0,D
+BRA,22/11/2009,19:00,Santos FC,Coritiba FC,4,0,H,2,0,H
+BRA,22/11/2009,19:00,Santo André EC,Avaí FC,4,2,H,1,0,H
+BRA,22/11/2009,19:00,Sport Club Recife,Fluminense RJ,0,3,A,0,0,D
+BRA,22/11/2009,19:00,Botafogo RJ,São Paulo FC,3,2,H,1,1,D
+BRA,22/11/2009,21:30,Flamengo RJ,Goiás EC,0,0,D,0,0,D
+BRA,22/11/2009,21:30,EC Vitória BA,Grêmio Barueri,2,1,H,0,0,D
+BRA,22/11/2009,21:30,Atlético Mineiro,Internacional,0,1,A,0,1,A
+BRA,29/11/2009,19:00,Corinthians SP,Flamengo RJ,0,2,A,0,1,A
+BRA,29/11/2009,19:00,SE Palmeiras,Atlético Mineiro,3,1,H,3,1,H
+BRA,29/11/2009,19:00,Santo André EC,Clube Náutico,5,3,H,3,1,H
+BRA,29/11/2009,19:00,Atlético Paranaense,Botafogo RJ,2,0,H,1,0,H
+BRA,29/11/2009,19:00,Grêmio Porto Alegre,Grêmio Barueri,4,2,H,3,0,H
+BRA,29/11/2009,19:00,Fluminense RJ,EC Vitória BA,4,0,H,2,0,H
+BRA,29/11/2009,19:00,Goiás EC,São Paulo FC,4,2,H,2,1,H
+BRA,29/11/2009,19:00,Sport Club Recife,Internacional,1,2,A,1,0,H
+BRA,29/11/2009,19:00,Cruzeiro EC,Coritiba FC,4,1,H,2,1,H
+BRA,29/11/2009,19:00,Avaí FC,Santos FC,2,2,D,2,1,H
+BRA,05/12/2009,21:30,Clube Náutico,Avaí FC,0,1,A,0,1,A
+BRA,05/12/2009,21:30,Atlético Mineiro,Corinthians SP,0,3,A,0,2,A
+BRA,06/12/2009,19:00,São Paulo FC,Sport Club Recife,4,0,H,1,0,H
+BRA,06/12/2009,19:00,Santos FC,Cruzeiro EC,1,2,A,0,1,A
+BRA,06/12/2009,19:00,Grêmio Barueri,Atlético Paranaense,0,0,D,0,0,D
+BRA,06/12/2009,19:00,Coritiba FC,Fluminense RJ,1,1,D,1,1,D
+BRA,06/12/2009,19:00,Internacional,Santo André EC,4,1,H,2,0,H
+BRA,06/12/2009,19:00,Flamengo RJ,Grêmio Porto Alegre,2,1,H,1,1,D
+BRA,06/12/2009,19:00,EC Vitória BA,Goiás EC,2,2,D,1,0,H
+BRA,06/12/2009,19:00,Botafogo RJ,SE Palmeiras,2,1,H,0,0,D

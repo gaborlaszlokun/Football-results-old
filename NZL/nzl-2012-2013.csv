@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NZL,03/11/2012,01:00,Auckland City FC,Canterbury United,5,2,H,3,1,H
+NZL,03/11/2012,23:00,Otago United,YoungHeart Manawatu,0,3,A,0,2,A
+NZL,03/11/2012,23:00,Waikato FC,Hawke’s Bay United FC,0,2,A,0,0,D
+NZL,04/11/2012,01:00,Waitakere United,Team Wellington,3,0,H,1,0,H
+NZL,11/11/2012,00:45,Team Wellington,Canterbury United,0,1,A,0,1,A
+NZL,11/11/2012,01:00,Hawke’s Bay United FC,YoungHeart Manawatu,4,2,H,3,0,H
+NZL,11/11/2012,01:00,Otago United,Auckland City FC,1,3,A,0,0,D
+NZL,11/11/2012,01:00,Waitakere United,Waikato FC,1,0,H,0,0,D
+NZL,18/11/2012,00:00,Waikato FC,Team Wellington,1,4,A,1,1,D
+NZL,18/11/2012,01:00,Canterbury United,Otago United,2,1,H,2,1,H
+NZL,18/11/2012,01:00,Auckland City FC,Hawke’s Bay United FC,1,1,D,0,1,A
+NZL,18/11/2012,01:00,YoungHeart Manawatu,Waitakere United,0,5,A,0,3,A
+NZL,25/11/2012,00:00,Waikato FC,Canterbury United,0,5,A,0,1,A
+NZL,25/11/2012,01:00,Hawke’s Bay United FC,Otago United,2,0,H,0,0,D
+NZL,25/11/2012,01:00,Team Wellington,YoungHeart Manawatu,3,1,H,1,1,D
+NZL,25/11/2012,01:00,Waitakere United,Auckland City FC,1,1,D,1,1,D
+NZL,02/12/2012,00:45,YoungHeart Manawatu,Waikato FC,2,3,A,0,1,A
+NZL,02/12/2012,01:00,Waitakere United,Otago United,4,1,H,1,1,D
+NZL,02/12/2012,01:30,Canterbury United,Hawke’s Bay United FC,4,0,H,2,0,H
+NZL,06/02/2013,01:00,Auckland City FC,Team Wellington,3,2,H,1,1,D
+NZL,09/12/2012,01:00,Waitakere United,Hawke’s Bay United FC,3,1,H,2,1,H
+NZL,09/12/2012,01:00,YoungHeart Manawatu,Canterbury United,0,2,A,0,0,D
+NZL,09/12/2012,01:00,Team Wellington,Otago United,0,1,A,0,0,D
+NZL,09/01/2013,04:30,Waikato FC,Auckland City FC,1,4,A,1,1,D
+NZL,16/12/2012,00:00,Otago United,Waikato FC,1,6,A,0,2,A
+NZL,16/12/2012,01:00,Canterbury United,Waitakere United,1,3,A,1,1,D
+NZL,16/12/2012,01:00,Hawke’s Bay United FC,Team Wellington,3,0,H,2,0,H
+NZL,16/12/2012,01:00,Auckland City FC,YoungHeart Manawatu,4,0,H,3,0,H
+NZL,12/01/2013,01:00,Team Wellington,Waitakere United,1,3,A,1,1,D
+NZL,13/01/2013,01:00,YoungHeart Manawatu,Otago United,1,4,A,0,1,A
+NZL,13/01/2013,01:00,Hawke’s Bay United FC,Waikato FC,4,0,H,1,0,H
+NZL,13/01/2013,01:00,Canterbury United,Auckland City FC,1,3,A,1,1,D
+NZL,20/01/2013,01:00,YoungHeart Manawatu,Hawke’s Bay United FC,1,5,A,0,5,A
+NZL,20/01/2013,01:00,Auckland City FC,Otago United,3,1,H,2,1,H
+NZL,20/01/2013,01:00,Waikato FC,Waitakere United,1,9,A,0,6,A
+NZL,20/01/2013,01:00,Canterbury United,Team Wellington,0,2,A,0,1,A
+NZL,26/01/2013,01:00,Team Wellington,Waikato FC,1,0,H,0,0,D
+NZL,26/01/2013,01:00,Waitakere United,YoungHeart Manawatu,4,0,H,2,0,H
+NZL,27/01/2013,01:00,Hawke’s Bay United FC,Auckland City FC,1,1,D,0,0,D
+NZL,27/01/2013,02:00,Otago United,Canterbury United,1,4,A,0,2,A
+NZL,02/02/2013,00:00,Auckland City FC,Waitakere United,2,3,A,1,2,A
+NZL,02/02/2013,23:00,Otago United,Hawke’s Bay United FC,1,3,A,0,2,A
+NZL,03/02/2013,01:00,Canterbury United,Waikato FC,4,0,H,1,0,H
+NZL,03/02/2013,01:00,YoungHeart Manawatu,Team Wellington,0,6,A,0,4,A
+NZL,10/02/2013,00:00,Otago United,Waitakere United,1,4,A,0,2,A
+NZL,10/02/2013,01:00,Hawke’s Bay United FC,Canterbury United,1,1,D,1,1,D
+NZL,10/02/2013,01:30,Waikato FC,YoungHeart Manawatu,2,3,A,1,2,A
+NZL,10/02/2013,03:00,Team Wellington,Auckland City FC,2,3,A,1,0,H
+NZL,17/02/2013,01:00,Hawke’s Bay United FC,Waitakere United,0,3,A,0,1,A
+NZL,17/02/2013,01:00,Canterbury United,YoungHeart Manawatu,4,1,H,1,1,D
+NZL,17/02/2013,01:00,Otago United,Team Wellington,0,2,A,0,2,A
+NZL,17/02/2013,01:00,Auckland City FC,Waikato FC,7,1,H,4,0,H
+NZL,23/02/2013,00:30,Team Wellington,Hawke’s Bay United FC,4,2,H,3,2,H
+NZL,24/02/2013,00:00,Waikato FC,Otago United,3,1,H,2,0,H
+NZL,24/02/2013,00:00,Waitakere United,Canterbury United,2,3,A,1,1,D
+NZL,24/02/2013,01:00,YoungHeart Manawatu,Auckland City FC,1,4,A,1,1,D

@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,08/07/1975,,Nîmes Olympique,FC Nantes,0,0,D,0,0,D
+FRA,07/08/1975,,Lille OSC,AS Monaco,3,3,D,2,2,D
+FRA,08/08/1975,,Girondins Bordeaux,RC Strasbourg,1,1,D,1,0,H
+FRA,08/08/1975,,RC Lens,FC Metz,4,1,H,2,0,H
+FRA,08/08/1975,,SC Bastia,Paris Saint-Germain,3,0,H,0,0,D
+FRA,08/08/1975,,OGC Nice,FC Sochaux,3,0,H,1,0,H
+FRA,08/08/1975,,Olympique Marseille,Association Sportive Avignonaise,3,1,H,0,0,D
+FRA,08/08/1975,,Troyes AF,Olympique Lyon,3,4,A,1,2,A
+FRA,08/08/1975,,AS Saint-Étienne,Stade Reims,2,1,H,1,0,H
+FRA,08/08/1975,,AS Nancy,US Valenciennes-Anzin,3,3,D,1,3,A
+FRA,13/08/1975,,Association Sportive Avignonaise,OGC Nice,1,5,A,0,5,A
+FRA,13/08/1975,,RC Lens,Olympique Marseille,2,3,A,1,3,A
+FRA,13/08/1975,,SC Bastia,Lille OSC,1,1,D,0,0,D
+FRA,13/08/1975,,Olympique Lyon,US Valenciennes-Anzin,1,1,D,0,0,D
+FRA,13/08/1975,,FC Metz,AS Saint-Étienne,1,1,D,0,1,A
+FRA,13/08/1975,,RC Strasbourg,Nîmes Olympique,0,1,A,0,0,D
+FRA,13/08/1975,,FC Sochaux,AS Nancy,3,0,H,2,0,H
+FRA,13/08/1975,,Stade Reims,Paris Saint-Germain,1,1,D,1,0,H
+FRA,13/08/1975,,FC Nantes,Troyes AF,2,2,D,1,1,D
+FRA,14/08/1975,,AS Monaco,Girondins Bordeaux,1,1,D,1,0,H
+FRA,22/08/1975,,OGC Nice,AS Monaco,4,1,H,3,1,H
+FRA,22/08/1975,,Olympique Marseille,FC Metz,2,1,H,0,0,D
+FRA,22/08/1975,,AS Nancy,Olympique Lyon,1,4,A,1,4,A
+FRA,22/08/1975,,Nîmes Olympique,SC Bastia,3,0,H,2,0,H
+FRA,22/08/1975,,AS Saint-Étienne,RC Lens,2,0,H,0,0,D
+FRA,22/08/1975,,Girondins Bordeaux,FC Sochaux,1,2,A,0,1,A
+FRA,22/08/1975,,Paris Saint-Germain,Association Sportive Avignonaise,6,2,H,3,1,H
+FRA,22/08/1975,,Lille OSC,Stade Reims,2,2,D,1,2,A
+FRA,22/08/1975,,US Valenciennes-Anzin,FC Nantes,1,1,D,1,0,H
+FRA,22/08/1975,,Troyes AF,RC Strasbourg,1,1,D,0,1,A
+FRA,27/08/1975,,AS Saint-Étienne,Girondins Bordeaux,5,2,H,3,1,H
+FRA,27/08/1975,,FC Nantes,Olympique Lyon,2,3,A,2,1,H
+FRA,27/08/1975,,Stade Reims,Olympique Marseille,3,1,H,1,0,H
+FRA,27/08/1975,,AS Monaco,Nîmes Olympique,3,1,H,1,0,H
+FRA,27/08/1975,,FC Sochaux,Troyes AF,2,2,D,1,1,D
+FRA,27/08/1975,,RC Lens,Paris Saint-Germain,3,3,D,2,1,H
+FRA,27/08/1975,,RC Strasbourg,US Valenciennes-Anzin,1,0,H,0,0,D
+FRA,27/08/1975,,FC Metz,Lille OSC,5,2,H,3,1,H
+FRA,27/08/1975,,Association Sportive Avignonaise,AS Nancy,2,3,A,0,1,A
+FRA,30/09/1975,,SC Bastia,OGC Nice,1,1,D,0,1,A
+FRA,09/09/1975,,Olympique Lyon,RC Strasbourg,2,1,H,0,1,A
+FRA,09/09/1975,,OGC Nice,Stade Reims,2,1,H,0,1,A
+FRA,09/09/1975,,Olympique Marseille,AS Saint-Étienne,4,2,H,3,2,H
+FRA,09/09/1975,,Nîmes Olympique,FC Sochaux,0,2,A,0,1,A
+FRA,09/09/1975,,Paris Saint-Germain,FC Metz,3,1,H,2,1,H
+FRA,09/09/1975,,Troyes AF,AS Monaco,3,1,H,1,1,D
+FRA,09/09/1975,,US Valenciennes-Anzin,SC Bastia,3,1,H,2,1,H
+FRA,09/09/1975,,Lille OSC,RC Lens,4,2,H,1,2,A
+FRA,09/09/1975,,AS Nancy,FC Nantes,1,1,D,1,0,H
+FRA,09/09/1975,,Girondins Bordeaux,Association Sportive Avignonaise,2,1,H,0,1,A
+FRA,12/09/1975,,FC Metz,OGC Nice,2,2,D,0,1,A
+FRA,12/09/1975,,FC Sochaux,Olympique Lyon,1,0,H,0,0,D
+FRA,12/09/1975,,AS Saint-Étienne,Paris Saint-Germain,1,1,D,0,0,D
+FRA,12/09/1975,,Olympique Marseille,AS Nancy,1,3,A,1,0,H
+FRA,12/09/1975,,AS Monaco,US Valenciennes-Anzin,3,1,H,3,1,H
+FRA,12/09/1975,,Stade Reims,Girondins Bordeaux,0,0,D,0,0,D
+FRA,12/09/1975,,RC Strasbourg,FC Nantes,1,1,D,0,1,A
+FRA,12/09/1975,,Association Sportive Avignonaise,Lille OSC,1,0,H,0,0,D
+FRA,13/09/1975,,RC Lens,Nîmes Olympique,1,1,D,0,1,A
+FRA,13/09/1975,,SC Bastia,Troyes AF,3,1,H,0,1,A
+FRA,19/09/1975,,US Valenciennes-Anzin,FC Sochaux,3,0,H,0,0,D
+FRA,20/09/1975,,OGC Nice,RC Lens,5,0,H,4,0,H
+FRA,20/09/1975,,Olympique Lyon,AS Monaco,4,1,H,1,0,H
+FRA,20/09/1975,,Paris Saint-Germain,Olympique Marseille,2,3,A,1,1,D
+FRA,20/09/1975,,Lille OSC,AS Saint-Étienne,0,0,D,0,0,D
+FRA,20/09/1975,,Nîmes Olympique,Stade Reims,0,3,A,0,1,A
+FRA,20/09/1975,,FC Nantes,SC Bastia,1,0,H,0,0,D
+FRA,20/09/1975,,Girondins Bordeaux,FC Metz,3,1,H,1,0,H
+FRA,20/09/1975,,AS Nancy,RC Strasbourg,1,1,D,0,0,D
+FRA,20/09/1975,,Troyes AF,Association Sportive Avignonaise,1,1,D,1,0,H
+FRA,25/09/1975,,AS Saint-Étienne,OGC Nice,1,1,D,0,0,D
+FRA,26/09/1975,,Olympique Marseille,Troyes AF,3,2,H,1,1,D
+FRA,26/09/1975,,Stade Reims,Olympique Lyon,3,2,H,1,1,D
+FRA,26/09/1975,,FC Sochaux,RC Strasbourg,1,1,D,1,1,D
+FRA,26/09/1975,,Association Sportive Avignonaise,US Valenciennes-Anzin,1,2,A,0,1,A
+FRA,26/09/1975,,Paris Saint-Germain,Lille OSC,2,2,D,0,1,A
+FRA,26/09/1975,,AS Monaco,FC Nantes,4,4,D,1,3,A
+FRA,26/09/1975,,SC Bastia,AS Nancy,3,0,H,1,0,H
+FRA,26/09/1975,,RC Lens,Girondins Bordeaux,3,2,H,2,0,H
+FRA,26/09/1975,,FC Metz,Nîmes Olympique,4,3,H,2,3,A
+FRA,03/10/1975,,RC Strasbourg,AS Monaco,1,0,H,1,0,H
+FRA,04/10/1975,,OGC Nice,Paris Saint-Germain,2,1,H,1,0,H
+FRA,04/10/1975,,Olympique Lyon,Association Sportive Avignonaise,2,0,H,1,0,H
+FRA,04/10/1975,,Lille OSC,Olympique Marseille,4,3,H,3,2,H
+FRA,04/10/1975,,FC Nantes,FC Sochaux,2,2,D,1,1,D
+FRA,04/10/1975,,US Valenciennes-Anzin,RC Lens,1,1,D,0,0,D
+FRA,04/10/1975,,Nîmes Olympique,AS Saint-Étienne,2,0,H,0,0,D
+FRA,04/10/1975,,Troyes AF,Stade Reims,2,1,H,1,1,D
+FRA,04/10/1975,,Girondins Bordeaux,SC Bastia,3,0,H,2,0,H
+FRA,04/10/1975,,AS Nancy,FC Metz,0,0,D,0,0,D
+FRA,16/10/1975,,RC Lens,Troyes AF,1,1,D,0,0,D
+FRA,17/10/1975,,Olympique Marseille,OGC Nice,2,1,H,0,1,A
+FRA,17/10/1975,,Lille OSC,Olympique Lyon,2,1,H,1,1,D
+FRA,17/10/1975,,AS Monaco,FC Sochaux,0,0,D,0,0,D
+FRA,17/10/1975,,AS Saint-Étienne,FC Nantes,2,2,D,0,2,A
+FRA,17/10/1975,,Stade Reims,AS Nancy,1,1,D,0,1,A
+FRA,17/10/1975,,Paris Saint-Germain,Girondins Bordeaux,2,2,D,0,1,A
+FRA,17/10/1975,,FC Metz,US Valenciennes-Anzin,3,0,H,1,0,H
+FRA,17/10/1975,,SC Bastia,RC Strasbourg,2,1,H,2,0,H
+FRA,17/10/1975,,Association Sportive Avignonaise,Nîmes Olympique,1,0,H,1,0,H
+FRA,25/10/1975,,OGC Nice,Lille OSC,2,2,D,1,2,A
+FRA,25/10/1975,,Olympique Lyon,AS Saint-Étienne,0,0,D,0,0,D
+FRA,25/10/1975,,Girondins Bordeaux,Olympique Marseille,3,1,H,1,1,D
+FRA,25/10/1975,,FC Sochaux,SC Bastia,2,2,D,2,1,H
+FRA,25/10/1975,,FC Nantes,Association Sportive Avignonaise,4,0,H,2,0,H
+FRA,25/10/1975,,US Valenciennes-Anzin,Stade Reims,2,1,H,1,0,H
+FRA,25/10/1975,,Troyes AF,FC Metz,0,1,A,0,1,A
+FRA,25/10/1975,,AS Nancy,AS Monaco,3,0,H,0,0,D
+FRA,25/10/1975,,RC Strasbourg,RC Lens,1,1,D,1,0,H
+FRA,25/10/1975,,Nîmes Olympique,Paris Saint-Germain,2,1,H,1,0,H
+FRA,31/10/1975,,OGC Nice,Girondins Bordeaux,2,0,H,1,0,H
+FRA,31/10/1975,,RC Lens,Olympique Lyon,3,1,H,2,1,H
+FRA,31/10/1975,,AS Saint-Étienne,US Valenciennes-Anzin,2,0,H,0,0,D
+FRA,31/10/1975,,Olympique Marseille,Nîmes Olympique,0,1,A,0,0,D
+FRA,31/10/1975,,FC Metz,FC Nantes,3,0,H,1,0,H
+FRA,31/10/1975,,SC Bastia,AS Monaco,3,0,H,2,0,H
+FRA,31/10/1975,,Association Sportive Avignonaise,FC Sochaux,3,1,H,1,1,D
+FRA,31/10/1975,,Stade Reims,RC Strasbourg,6,0,H,2,0,H
+FRA,31/10/1975,,Paris Saint-Germain,Troyes AF,1,0,H,0,0,D
+FRA,03/11/1975,,Lille OSC,AS Nancy,1,2,A,0,2,A
+FRA,08/11/1975,,Nîmes Olympique,OGC Nice,2,1,H,1,1,D
+FRA,08/11/1975,,Troyes AF,AS Saint-Étienne,0,1,A,0,1,A
+FRA,08/11/1975,,Olympique Lyon,SC Bastia,2,2,D,1,0,H
+FRA,08/11/1975,,RC Strasbourg,FC Metz,1,2,A,0,1,A
+FRA,08/11/1975,,FC Sochaux,RC Lens,3,2,H,2,2,D
+FRA,08/11/1975,,FC Nantes,Stade Reims,4,1,H,3,0,H
+FRA,08/11/1975,,Girondins Bordeaux,Lille OSC,2,1,H,0,1,A
+FRA,08/11/1975,,US Valenciennes-Anzin,Olympique Marseille,1,0,H,1,0,H
+FRA,08/11/1975,,AS Nancy,Paris Saint-Germain,2,4,A,2,2,D
+FRA,08/11/1975,,AS Monaco,Association Sportive Avignonaise,1,0,H,0,0,D
+FRA,18/11/1975,,Lille OSC,Nîmes Olympique,2,1,H,0,1,A
+FRA,19/11/1975,,OGC Nice,AS Nancy,2,1,H,1,0,H
+FRA,19/11/1975,,AS Saint-Étienne,RC Strasbourg,2,1,H,2,0,H
+FRA,19/11/1975,,FC Metz,FC Sochaux,3,1,H,2,0,H
+FRA,19/11/1975,,Olympique Marseille,Olympique Lyon,2,0,H,1,0,H
+FRA,19/11/1975,,Paris Saint-Germain,US Valenciennes-Anzin,2,0,H,1,0,H
+FRA,19/11/1975,,Association Sportive Avignonaise,SC Bastia,1,1,D,0,0,D
+FRA,19/11/1975,,Girondins Bordeaux,Troyes AF,2,2,D,0,1,A
+FRA,19/11/1975,,RC Lens,FC Nantes,3,2,H,1,0,H
+FRA,19/11/1975,,Stade Reims,AS Monaco,2,2,D,1,0,H
+FRA,22/11/1975,,Troyes AF,OGC Nice,2,2,D,1,1,D
+FRA,22/11/1975,,AS Nancy,AS Saint-Étienne,0,0,D,0,0,D
+FRA,22/11/1975,,FC Nantes,Olympique Marseille,0,1,A,0,0,D
+FRA,22/11/1975,,Olympique Lyon,Paris Saint-Germain,2,0,H,1,0,H
+FRA,22/11/1975,,AS Monaco,FC Metz,2,0,H,0,0,D
+FRA,22/11/1975,,Nîmes Olympique,Girondins Bordeaux,1,2,A,1,1,D
+FRA,22/11/1975,,SC Bastia,RC Lens,0,0,D,0,0,D
+FRA,22/11/1975,,RC Strasbourg,Association Sportive Avignonaise,4,0,H,1,0,H
+FRA,23/11/1975,,FC Sochaux,Stade Reims,1,0,H,0,0,D
+FRA,23/11/1975,,US Valenciennes-Anzin,Lille OSC,0,1,A,0,0,D
+FRA,26/11/1975,,OGC Nice,US Valenciennes-Anzin,1,0,H,0,0,D
+FRA,26/11/1975,,AS Saint-Étienne,FC Sochaux,2,0,H,1,0,H
+FRA,26/11/1975,,Olympique Marseille,RC Strasbourg,1,0,H,0,0,D
+FRA,26/11/1975,,FC Metz,SC Bastia,4,1,H,1,0,H
+FRA,26/11/1975,,Lille OSC,Troyes AF,3,0,H,2,0,H
+FRA,26/11/1975,,Girondins Bordeaux,AS Nancy,0,0,D,0,0,D
+FRA,26/11/1975,,Paris Saint-Germain,FC Nantes,2,1,H,1,1,D
+FRA,26/11/1975,,Nîmes Olympique,Olympique Lyon,2,0,H,1,0,H
+FRA,26/11/1975,,RC Lens,AS Monaco,3,0,H,2,0,H
+FRA,26/11/1975,,Stade Reims,Association Sportive Avignonaise,4,1,H,1,1,D
+FRA,29/11/1975,,Olympique Lyon,OGC Nice,1,0,H,0,0,D
+FRA,29/11/1975,,SC Bastia,Stade Reims,2,0,H,1,0,H
+FRA,29/11/1975,,FC Nantes,Lille OSC,4,0,H,2,0,H
+FRA,29/11/1975,,Troyes AF,Nîmes Olympique,1,1,D,1,1,D
+FRA,29/11/1975,,AS Nancy,RC Lens,3,0,H,2,0,H
+FRA,30/11/1975,,AS Monaco,AS Saint-Étienne,0,3,A,0,1,A
+FRA,30/11/1975,,Association Sportive Avignonaise,FC Metz,0,1,A,0,1,A
+FRA,30/11/1975,,FC Sochaux,Olympique Marseille,3,0,H,1,0,H
+FRA,30/11/1975,,US Valenciennes-Anzin,Girondins Bordeaux,1,1,D,0,1,A
+FRA,30/11/1975,,RC Strasbourg,Paris Saint-Germain,1,0,H,0,0,D
+FRA,05/12/1975,,Lille OSC,RC Strasbourg,3,0,H,2,0,H
+FRA,06/12/1975,,FC Metz,Stade Reims,2,4,A,0,2,A
+FRA,06/12/1975,,Girondins Bordeaux,Olympique Lyon,3,1,H,2,1,H
+FRA,06/12/1975,,RC Lens,Association Sportive Avignonaise,3,1,H,1,0,H
+FRA,06/12/1975,,Troyes AF,AS Nancy,3,0,H,2,0,H
+FRA,07/12/1975,,AS Saint-Étienne,SC Bastia,4,2,H,1,0,H
+FRA,07/12/1975,,OGC Nice,FC Nantes,2,2,D,2,1,H
+FRA,07/12/1975,,Olympique Marseille,AS Monaco,1,0,H,0,0,D
+FRA,07/12/1975,,Paris Saint-Germain,FC Sochaux,2,3,A,1,2,A
+FRA,07/12/1975,,Nîmes Olympique,US Valenciennes-Anzin,1,0,H,1,0,H
+FRA,13/12/1975,,Association Sportive Avignonaise,AS Saint-Étienne,1,3,A,0,1,A
+FRA,13/12/1975,,RC Strasbourg,OGC Nice,2,2,D,1,2,A
+FRA,13/12/1975,,Olympique Lyon,FC Metz,2,3,A,0,3,A
+FRA,13/12/1975,,Stade Reims,RC Lens,4,0,H,1,0,H
+FRA,13/12/1975,,US Valenciennes-Anzin,Troyes AF,3,0,H,0,0,D
+FRA,14/12/1975,,SC Bastia,Olympique Marseille,2,3,A,1,1,D
+FRA,14/12/1975,,FC Sochaux,Lille OSC,4,1,H,1,1,D
+FRA,14/12/1975,,FC Nantes,Girondins Bordeaux,5,1,H,2,1,H
+FRA,14/12/1975,,AS Nancy,Nîmes Olympique,1,1,D,1,0,H
+FRA,14/12/1975,,AS Monaco,Paris Saint-Germain,3,0,H,2,0,H
+FRA,20/12/1975,,Girondins Bordeaux,AS Monaco,3,1,H,2,1,H
+FRA,20/12/1975,,Nîmes Olympique,RC Strasbourg,2,1,H,2,1,H
+FRA,20/12/1975,,Lille OSC,SC Bastia,2,0,H,0,0,D
+FRA,20/12/1975,,Troyes AF,FC Nantes,0,0,D,0,0,D
+FRA,20/12/1975,,US Valenciennes-Anzin,Olympique Lyon,0,0,D,0,0,D
+FRA,21/12/1975,,AS Saint-Étienne,FC Metz,1,0,H,0,0,D
+FRA,21/12/1975,,OGC Nice,Association Sportive Avignonaise,2,0,H,2,0,H
+FRA,21/12/1975,,Olympique Marseille,RC Lens,3,2,H,1,1,D
+FRA,21/12/1975,,AS Nancy,FC Sochaux,5,1,H,2,1,H
+FRA,21/12/1975,,Paris Saint-Germain,Stade Reims,2,3,A,1,3,A
+FRA,17/01/1976,,RC Lens,AS Saint-Étienne,1,1,D,0,0,D
+FRA,17/01/1976,,FC Metz,Olympique Marseille,1,0,H,0,0,D
+FRA,17/01/1976,,FC Sochaux,Girondins Bordeaux,2,0,H,1,0,H
+FRA,17/01/1976,,FC Nantes,US Valenciennes-Anzin,2,0,H,1,0,H
+FRA,18/01/1976,,AS Monaco,OGC Nice,4,1,H,2,0,H
+FRA,18/01/1976,,SC Bastia,Nîmes Olympique,1,1,D,1,1,D
+FRA,18/01/1976,,Olympique Lyon,AS Nancy,1,0,H,0,0,D
+FRA,18/01/1976,,Association Sportive Avignonaise,Paris Saint-Germain,1,1,D,0,1,A
+FRA,18/01/1976,,RC Strasbourg,Troyes AF,2,1,H,0,1,A
+FRA,28/01/1976,,Stade Reims,Lille OSC,2,0,H,0,0,D
+FRA,24/01/1976,,Lille OSC,FC Metz,1,1,D,1,1,D
+FRA,24/01/1976,,Troyes AF,FC Sochaux,3,0,H,3,0,H
+FRA,24/01/1976,,US Valenciennes-Anzin,RC Strasbourg,2,0,H,0,0,D
+FRA,25/01/1976,,Girondins Bordeaux,AS Saint-Étienne,1,1,D,1,1,D
+FRA,25/01/1976,,OGC Nice,SC Bastia,1,1,D,0,1,A
+FRA,25/01/1976,,Olympique Marseille,Stade Reims,1,0,H,0,0,D
+FRA,25/01/1976,,Nîmes Olympique,AS Monaco,3,2,H,2,1,H
+FRA,25/01/1976,,Olympique Lyon,FC Nantes,3,3,D,2,0,H
+FRA,25/01/1976,,AS Nancy,Association Sportive Avignonaise,6,0,H,4,0,H
+FRA,25/01/1976,,Paris Saint-Germain,RC Lens,4,2,H,1,0,H
+FRA,06/02/1976,,RC Strasbourg,Olympique Lyon,5,0,H,3,0,H
+FRA,07/02/1976,,FC Sochaux,Nîmes Olympique,2,1,H,1,0,H
+FRA,07/02/1976,,FC Metz,Paris Saint-Germain,1,2,A,0,1,A
+FRA,07/02/1976,,FC Nantes,AS Nancy,3,0,H,0,0,D
+FRA,07/02/1976,,RC Lens,Lille OSC,2,0,H,0,0,D
+FRA,08/02/1976,,AS Saint-Étienne,Olympique Marseille,1,0,H,1,0,H
+FRA,08/02/1976,,Stade Reims,OGC Nice,1,0,H,1,0,H
+FRA,08/02/1976,,Association Sportive Avignonaise,Girondins Bordeaux,3,4,A,1,1,D
+FRA,08/02/1976,,SC Bastia,US Valenciennes-Anzin,1,1,D,0,0,D
+FRA,08/02/1976,,AS Monaco,Troyes AF,1,1,D,1,0,H
+FRA,14/02/1976,,FC Nantes,RC Strasbourg,2,1,H,1,0,H
+FRA,14/02/1976,,US Valenciennes-Anzin,AS Monaco,5,1,H,1,0,H
+FRA,14/02/1976,,Troyes AF,SC Bastia,0,2,A,0,1,A
+FRA,15/02/1976,,Paris Saint-Germain,AS Saint-Étienne,2,1,H,1,0,H
+FRA,15/02/1976,,OGC Nice,FC Metz,4,2,H,2,1,H
+FRA,15/02/1976,,Olympique Lyon,FC Sochaux,1,2,A,1,0,H
+FRA,15/02/1976,,AS Nancy,Olympique Marseille,4,2,H,2,0,H
+FRA,15/02/1976,,Girondins Bordeaux,Stade Reims,2,3,A,1,0,H
+FRA,15/02/1976,,Nîmes Olympique,RC Lens,2,2,D,0,2,A
+FRA,15/02/1976,,Lille OSC,Association Sportive Avignonaise,4,0,H,1,0,H
+FRA,21/02/1976,,FC Sochaux,US Valenciennes-Anzin,3,0,H,1,0,H
+FRA,21/02/1976,,RC Lens,OGC Nice,2,1,H,1,1,D
+FRA,21/02/1976,,Stade Reims,Nîmes Olympique,2,0,H,0,0,D
+FRA,21/02/1976,,SC Bastia,FC Nantes,0,1,A,0,0,D
+FRA,21/02/1976,,FC Metz,Girondins Bordeaux,2,1,H,1,1,D
+FRA,21/02/1976,,RC Strasbourg,AS Nancy,1,5,A,0,2,A
+FRA,21/02/1976,,Association Sportive Avignonaise,Troyes AF,0,1,A,0,0,D
+FRA,22/02/1976,,AS Saint-Étienne,Lille OSC,3,1,H,0,1,A
+FRA,22/02/1976,,Olympique Marseille,Paris Saint-Germain,2,1,H,0,0,D
+FRA,22/02/1976,,AS Monaco,Olympique Lyon,1,0,H,0,0,D
+FRA,11/03/1976,,OGC Nice,AS Saint-Étienne,1,1,D,0,0,D
+FRA,12/03/1976,,RC Strasbourg,FC Sochaux,0,0,D,0,0,D
+FRA,12/03/1976,,FC Nantes,AS Monaco,3,1,H,1,0,H
+FRA,12/03/1976,,Olympique Lyon,Stade Reims,1,2,A,1,1,D
+FRA,12/03/1976,,Troyes AF,Olympique Marseille,2,2,D,0,1,A
+FRA,12/03/1976,,Nîmes Olympique,FC Metz,3,2,H,1,0,H
+FRA,12/03/1976,,Lille OSC,Paris Saint-Germain,2,1,H,1,0,H
+FRA,12/03/1976,,Girondins Bordeaux,RC Lens,2,2,D,0,0,D
+FRA,12/03/1976,,AS Nancy,SC Bastia,0,1,A,0,1,A
+FRA,12/03/1976,,US Valenciennes-Anzin,Association Sportive Avignonaise,2,0,H,1,0,H
+FRA,16/03/1976,,Olympique Marseille,Lille OSC,2,0,H,0,0,D
+FRA,16/03/1976,,FC Sochaux,FC Nantes,1,1,D,1,1,D
+FRA,16/03/1976,,Stade Reims,Troyes AF,1,1,D,1,1,D
+FRA,16/03/1976,,Paris Saint-Germain,OGC Nice,0,0,D,0,0,D
+FRA,16/03/1976,,FC Metz,AS Nancy,4,1,H,1,0,H
+FRA,16/03/1976,,RC Lens,US Valenciennes-Anzin,0,1,A,0,0,D
+FRA,16/03/1976,,Association Sportive Avignonaise,Olympique Lyon,2,1,H,0,1,A
+FRA,09/04/1976,,AS Monaco,RC Strasbourg,1,2,A,1,1,D
+FRA,04/05/1976,,AS Saint-Étienne,Nîmes Olympique,5,2,H,3,2,H
+FRA,29/05/1976,,SC Bastia,Girondins Bordeaux,2,1,H,0,1,A
+FRA,20/03/1976,,FC Nantes,AS Saint-Étienne,3,0,H,1,0,H
+FRA,20/03/1976,,FC Sochaux,AS Monaco,4,0,H,2,0,H
+FRA,20/03/1976,,OGC Nice,Olympique Marseille,2,1,H,2,0,H
+FRA,20/03/1976,,AS Nancy,Stade Reims,3,1,H,2,0,H
+FRA,20/03/1976,,US Valenciennes-Anzin,FC Metz,3,0,H,0,0,D
+FRA,20/03/1976,,Nîmes Olympique,Association Sportive Avignonaise,1,0,H,0,0,D
+FRA,20/03/1976,,Girondins Bordeaux,Paris Saint-Germain,2,1,H,1,0,H
+FRA,20/03/1976,,RC Strasbourg,SC Bastia,1,3,A,1,0,H
+FRA,20/03/1976,,Olympique Lyon,Lille OSC,3,0,H,1,0,H
+FRA,20/03/1976,,Troyes AF,RC Lens,1,1,D,1,1,D
+FRA,30/03/1976,,Association Sportive Avignonaise,FC Nantes,0,2,A,0,0,D
+FRA,30/03/1976,,Lille OSC,OGC Nice,0,3,A,0,3,A
+FRA,30/03/1976,,SC Bastia,FC Sochaux,1,1,D,1,1,D
+FRA,30/03/1976,,Olympique Marseille,Girondins Bordeaux,1,0,H,0,0,D
+FRA,30/03/1976,,Stade Reims,US Valenciennes-Anzin,5,1,H,1,0,H
+FRA,30/03/1976,,FC Metz,Troyes AF,0,1,A,0,1,A
+FRA,30/03/1976,,Paris Saint-Germain,Nîmes Olympique,2,0,H,1,0,H
+FRA,30/03/1976,,AS Monaco,AS Nancy,1,0,H,0,0,D
+FRA,30/03/1976,,RC Lens,RC Strasbourg,1,1,D,0,1,A
+FRA,01/06/1976,,AS Saint-Étienne,Olympique Lyon,1,1,D,0,0,D
+FRA,02/04/1976,,FC Nantes,FC Metz,2,0,H,2,0,H
+FRA,02/04/1976,,FC Sochaux,Association Sportive Avignonaise,1,1,D,1,0,H
+FRA,02/04/1976,,Nîmes Olympique,Olympique Marseille,0,1,A,0,1,A
+FRA,02/04/1976,,Girondins Bordeaux,OGC Nice,1,0,H,0,0,D
+FRA,02/04/1976,,RC Strasbourg,Stade Reims,1,1,D,1,0,H
+FRA,02/04/1976,,AS Nancy,Lille OSC,5,0,H,3,0,H
+FRA,02/04/1976,,Troyes AF,Paris Saint-Germain,1,1,D,1,1,D
+FRA,02/04/1976,,AS Monaco,SC Bastia,2,0,H,1,0,H
+FRA,02/04/1976,,Olympique Lyon,RC Lens,4,1,H,3,1,H
+FRA,28/05/1976,,US Valenciennes-Anzin,AS Saint-Étienne,1,1,D,1,0,H
+FRA,07/04/1976,,AS Saint-Étienne,Troyes AF,3,0,H,1,0,H
+FRA,15/04/1976,,Olympique Marseille,US Valenciennes-Anzin,3,0,H,1,0,H
+FRA,15/04/1976,,Stade Reims,FC Nantes,1,0,H,0,0,D
+FRA,15/04/1976,,OGC Nice,Nîmes Olympique,4,0,H,2,0,H
+FRA,15/04/1976,,RC Lens,FC Sochaux,1,1,D,1,0,H
+FRA,15/04/1976,,Paris Saint-Germain,AS Nancy,1,4,A,0,0,D
+FRA,15/04/1976,,FC Metz,RC Strasbourg,5,0,H,2,0,H
+FRA,15/04/1976,,SC Bastia,Olympique Lyon,4,1,H,2,0,H
+FRA,15/04/1976,,Association Sportive Avignonaise,AS Monaco,1,1,D,0,1,A
+FRA,16/04/1976,,Lille OSC,Girondins Bordeaux,3,2,H,0,2,A
+FRA,30/04/1976,,RC Strasbourg,AS Saint-Étienne,0,2,A,0,0,D
+FRA,30/04/1976,,FC Sochaux,FC Metz,3,2,H,1,0,H
+FRA,30/04/1976,,Olympique Lyon,Olympique Marseille,2,1,H,0,0,D
+FRA,30/04/1976,,AS Nancy,OGC Nice,2,0,H,1,0,H
+FRA,30/04/1976,,AS Monaco,Stade Reims,1,0,H,0,0,D
+FRA,30/04/1976,,SC Bastia,Association Sportive Avignonaise,2,0,H,1,0,H
+FRA,30/04/1976,,Nîmes Olympique,Lille OSC,5,1,H,2,0,H
+FRA,30/04/1976,,Troyes AF,Girondins Bordeaux,2,0,H,1,0,H
+FRA,30/04/1976,,US Valenciennes-Anzin,Paris Saint-Germain,2,2,D,1,1,D
+FRA,01/05/1976,,FC Nantes,RC Lens,1,1,D,1,1,D
+FRA,11/05/1976,,Olympique Marseille,FC Nantes,1,2,A,0,0,D
+FRA,11/05/1976,,Stade Reims,FC Sochaux,1,1,D,0,0,D
+FRA,11/05/1976,,OGC Nice,Troyes AF,5,2,H,2,1,H
+FRA,11/05/1976,,FC Metz,AS Monaco,4,1,H,0,1,A
+FRA,11/05/1976,,RC Lens,SC Bastia,1,1,D,1,1,D
+FRA,11/05/1976,,Girondins Bordeaux,Nîmes Olympique,1,0,H,0,0,D
+FRA,11/05/1976,,Paris Saint-Germain,Olympique Lyon,2,0,H,1,0,H
+FRA,11/05/1976,,Lille OSC,US Valenciennes-Anzin,5,1,H,3,0,H
+FRA,11/05/1976,,Association Sportive Avignonaise,RC Strasbourg,1,0,H,1,0,H
+FRA,08/06/1976,,AS Saint-Étienne,AS Nancy,3,0,H,1,0,H
+FRA,15/05/1976,,US Valenciennes-Anzin,OGC Nice,0,0,D,0,0,D
+FRA,15/05/1976,,FC Nantes,Paris Saint-Germain,1,2,A,1,0,H
+FRA,15/05/1976,,RC Strasbourg,Olympique Marseille,2,0,H,1,0,H
+FRA,15/05/1976,,Association Sportive Avignonaise,Stade Reims,1,0,H,0,0,D
+FRA,15/05/1976,,AS Nancy,Girondins Bordeaux,3,2,H,0,0,D
+FRA,15/05/1976,,SC Bastia,FC Metz,3,2,H,2,1,H
+FRA,15/05/1976,,Olympique Lyon,Nîmes Olympique,1,1,D,0,0,D
+FRA,15/05/1976,,AS Monaco,RC Lens,1,1,D,1,0,H
+FRA,15/05/1976,,Troyes AF,Lille OSC,1,0,H,0,0,D
+FRA,16/05/1976,,FC Sochaux,AS Saint-Étienne,1,1,D,0,1,A
+FRA,25/05/1976,,AS Saint-Étienne,AS Monaco,2,2,D,1,1,D
+FRA,25/05/1976,,Olympique Marseille,FC Sochaux,0,3,A,0,1,A
+FRA,25/05/1976,,OGC Nice,Olympique Lyon,1,0,H,0,0,D
+FRA,25/05/1976,,Lille OSC,FC Nantes,1,0,H,0,0,D
+FRA,25/05/1976,,Stade Reims,SC Bastia,1,2,A,1,1,D
+FRA,25/05/1976,,RC Lens,AS Nancy,4,2,H,2,1,H
+FRA,25/05/1976,,FC Metz,Association Sportive Avignonaise,1,0,H,1,0,H
+FRA,25/05/1976,,Paris Saint-Germain,RC Strasbourg,0,0,D,0,0,D
+FRA,25/05/1976,,Nîmes Olympique,Troyes AF,1,1,D,0,1,A
+FRA,25/05/1976,,Girondins Bordeaux,US Valenciennes-Anzin,0,1,A,0,0,D
+FRA,04/06/1976,,SC Bastia,AS Saint-Étienne,2,2,D,1,1,D
+FRA,04/06/1976,,FC Nantes,OGC Nice,1,1,D,0,0,D
+FRA,04/06/1976,,FC Sochaux,Paris Saint-Germain,1,4,A,0,1,A
+FRA,04/06/1976,,Stade Reims,FC Metz,3,2,H,3,1,H
+FRA,04/06/1976,,AS Monaco,Olympique Marseille,2,1,H,1,0,H
+FRA,04/06/1976,,AS Nancy,Troyes AF,0,0,D,0,0,D
+FRA,04/06/1976,,US Valenciennes-Anzin,Nîmes Olympique,0,3,A,0,1,A
+FRA,04/06/1976,,Olympique Lyon,Girondins Bordeaux,1,2,A,0,2,A
+FRA,04/06/1976,,Association Sportive Avignonaise,RC Lens,0,0,D,0,0,D
+FRA,04/06/1976,,RC Strasbourg,Lille OSC,3,0,H,2,0,H
+FRA,16/06/1976,,AS Saint-Étienne,Association Sportive Avignonaise,4,0,H,2,0,H
+FRA,16/06/1976,,OGC Nice,RC Strasbourg,1,0,H,0,0,D
+FRA,16/06/1976,,Lille OSC,FC Sochaux,1,1,D,1,0,H
+FRA,16/06/1976,,Girondins Bordeaux,FC Nantes,2,1,H,1,1,D
+FRA,16/06/1976,,Olympique Marseille,SC Bastia,4,3,H,1,2,A
+FRA,16/06/1976,,RC Lens,Stade Reims,1,0,H,1,0,H
+FRA,16/06/1976,,Nîmes Olympique,AS Nancy,2,2,D,0,1,A
+FRA,16/06/1976,,FC Metz,Olympique Lyon,3,1,H,2,1,H
+FRA,16/06/1976,,Paris Saint-Germain,AS Monaco,1,2,A,1,1,D
+FRA,16/06/1976,,Troyes AF,US Valenciennes-Anzin,4,0,H,2,0,H
+FRA,19/06/1976,,Stade Reims,AS Saint-Étienne,3,2,H,0,2,A
+FRA,19/06/1976,,FC Sochaux,OGC Nice,0,0,D,0,0,D
+FRA,19/06/1976,,FC Nantes,Nîmes Olympique,1,0,H,0,0,D
+FRA,19/06/1976,,Paris Saint-Germain,SC Bastia,1,1,D,0,0,D
+FRA,19/06/1976,,Association Sportive Avignonaise,Olympique Marseille,2,1,H,1,0,H
+FRA,19/06/1976,,FC Metz,RC Lens,2,1,H,2,0,H
+FRA,19/06/1976,,RC Strasbourg,Girondins Bordeaux,0,2,A,0,1,A
+FRA,19/06/1976,,US Valenciennes-Anzin,AS Nancy,2,0,H,1,0,H
+FRA,19/06/1976,,AS Monaco,Lille OSC,3,4,A,2,0,H
+FRA,19/06/1976,,Olympique Lyon,Troyes AF,2,0,H,1,0,H

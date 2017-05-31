@@ -1,0 +1,143 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+USA,04/03/2017,02:30,Portland Timbers,Minnesota United FC,5,1,H,1,0,H
+USA,04/03/2017,19:00,Columbus Crew,Chicago Fire,1,1,D,1,0,H
+USA,04/03/2017,21:00,Los Angeles Galaxy,FC Dallas,1,2,A,0,0,D
+USA,04/03/2017,21:30,Real Salt Lake,Toronto FC,0,0,D,0,0,D
+USA,04/03/2017,23:00,Colorado Rapids,New England Revolution,1,0,H,0,0,D
+USA,05/03/2017,00:00,D.C. United,Sporting Kansas City,0,0,D,0,0,D
+USA,05/03/2017,01:30,Houston Dynamo,Seattle Sounders,2,1,H,2,0,H
+USA,05/03/2017,03:00,San Jose Earthquakes,Impact de Montréal,1,0,H,1,0,H
+USA,05/03/2017,22:00,Orlando City,New York City FC,1,0,H,1,0,H
+USA,06/03/2017,00:30,Atlanta United FC,New York RB,1,2,A,1,0,H
+USA,06/03/2017,02:30,Vancouver Whitecaps,Philadelphia Union,0,0,D,0,0,D
+USA,11/03/2017,19:00,Chicago Fire,Real Salt Lake,2,0,H,2,0,H
+USA,11/03/2017,21:00,New York RB,Colorado Rapids,1,0,H,1,0,H
+USA,11/03/2017,21:30,Philadelphia Union,Toronto FC,2,2,D,1,1,D
+USA,12/03/2017,00:00,Impact de Montréal,Seattle Sounders,2,2,D,1,0,H
+USA,12/03/2017,01:30,Houston Dynamo,Columbus Crew,3,1,H,2,0,H
+USA,12/03/2017,02:00,Sporting Kansas City,FC Dallas,0,0,D,0,0,D
+USA,12/03/2017,03:00,San Jose Earthquakes,Vancouver Whitecaps,3,2,H,1,2,A
+USA,12/03/2017,18:00,New York City FC,D.C. United,4,0,H,3,0,H
+USA,12/03/2017,21:00,Minnesota United FC,Atlanta United FC,1,6,A,1,3,A
+USA,12/03/2017,23:00,Los Angeles Galaxy,Portland Timbers,0,1,A,0,1,A
+USA,18/03/2017,18:00,New York City FC,Impact de Montréal,1,1,D,1,0,H
+USA,18/03/2017,20:00,Vancouver Whitecaps,Toronto FC,0,2,A,0,0,D
+USA,18/03/2017,20:00,Atlanta United FC,Chicago Fire,4,0,H,1,0,H
+USA,18/03/2017,23:00,D.C. United,Columbus Crew,0,2,A,0,1,A
+USA,18/03/2017,23:30,Orlando City,Philadelphia Union,2,1,H,1,0,H
+USA,19/03/2017,00:00,FC Dallas,New England Revolution,2,1,H,0,1,A
+USA,19/03/2017,00:30,Sporting Kansas City,San Jose Earthquakes,2,1,H,1,0,H
+USA,19/03/2017,01:00,Colorado Rapids,Minnesota United FC,2,2,D,1,0,H
+USA,19/03/2017,01:30,Real Salt Lake,Los Angeles Galaxy,1,2,A,1,0,H
+USA,19/03/2017,02:30,Portland Timbers,Houston Dynamo,4,2,H,1,2,A
+USA,19/03/2017,23:00,Seattle Sounders,New York RB,3,1,H,1,0,H
+USA,25/03/2017,18:00,New England Revolution,Minnesota United FC,5,2,H,4,1,H
+USA,25/03/2017,20:00,New York RB,Real Salt Lake,0,0,D,0,0,D
+USA,25/03/2017,23:30,Columbus Crew,Portland Timbers,3,2,H,2,2,D
+USA,01/04/2017,00:30,Toronto FC,Sporting Kansas City,0,0,D,0,0,D
+USA,01/04/2017,03:00,Seattle Sounders,Atlanta United FC,0,0,D,0,0,D
+USA,01/04/2017,19:00,New York City FC,San Jose Earthquakes,2,1,H,1,1,D
+USA,01/04/2017,20:00,Chicago Fire,Impact de Montréal,2,2,D,1,0,H
+USA,01/04/2017,21:00,Columbus Crew,Orlando City,2,0,H,1,0,H
+USA,02/04/2017,00:00,D.C. United,Philadelphia Union,2,1,H,2,0,H
+USA,02/04/2017,01:00,Minnesota United FC,Real Salt Lake,4,2,H,1,1,D
+USA,02/04/2017,01:30,Houston Dynamo,New York RB,4,1,H,2,1,H
+USA,02/04/2017,03:00,Vancouver Whitecaps,Los Angeles Galaxy,4,2,H,1,2,A
+USA,03/04/2017,02:00,Portland Timbers,New England Revolution,1,1,D,1,0,H
+USA,08/04/2017,03:30,Los Angeles Galaxy,Impact de Montréal,2,0,H,1,0,H
+USA,08/04/2017,19:00,Chicago Fire,Columbus Crew,1,0,H,1,0,H
+USA,08/04/2017,19:00,New England Revolution,Houston Dynamo,2,0,H,0,0,D
+USA,08/04/2017,21:00,D.C. United,New York City FC,2,1,H,0,0,D
+USA,09/04/2017,00:00,Philadelphia Union,Portland Timbers,1,3,A,1,1,D
+USA,09/04/2017,00:30,Toronto FC,Atlanta United FC,2,2,D,2,1,H
+USA,09/04/2017,01:00,FC Dallas,Minnesota United FC,2,0,H,1,0,H
+USA,09/04/2017,02:30,Real Salt Lake,Vancouver Whitecaps,3,0,H,0,0,D
+USA,09/04/2017,03:30,San Jose Earthquakes,Seattle Sounders,1,1,D,0,0,D
+USA,09/04/2017,21:00,Orlando City,New York RB,1,0,H,1,0,H
+USA,10/04/2017,00:00,Sporting Kansas City,Colorado Rapids,3,1,H,1,0,H
+USA,15/04/2017,00:00,Philadelphia Union,New York City FC,0,2,A,0,0,D
+USA,15/04/2017,03:00,Vancouver Whitecaps,Seattle Sounders,2,1,H,0,0,D
+USA,15/04/2017,04:00,San Jose Earthquakes,FC Dallas,1,1,D,0,0,D
+USA,15/04/2017,18:00,Impact de Montréal,Atlanta United FC,2,1,H,1,1,D
+USA,15/04/2017,19:30,Orlando City,Los Angeles Galaxy,2,1,H,1,0,H
+USA,15/04/2017,22:00,Chicago Fire,New England Revolution,3,0,H,1,0,H
+USA,16/04/2017,00:30,New York RB,D.C. United,2,0,H,0,0,D
+USA,16/04/2017,01:00,Columbus Crew,Toronto FC,2,1,H,2,1,H
+USA,16/04/2017,01:30,Houston Dynamo,Minnesota United FC,2,2,D,2,0,H
+USA,16/04/2017,02:00,Colorado Rapids,Real Salt Lake,1,2,A,1,0,H
+USA,16/04/2017,03:30,Portland Timbers,Sporting Kansas City,0,1,A,0,0,D
+USA,20/04/2017,00:30,New England Revolution,San Jose Earthquakes,0,0,D,0,0,D
+USA,22/04/2017,00:30,Toronto FC,Chicago Fire,3,1,H,2,0,H
+USA,22/04/2017,18:00,Philadelphia Union,Impact de Montréal,3,3,D,3,1,H
+USA,22/04/2017,20:55,Houston Dynamo,San Jose Earthquakes,2,0,H,1,0,H
+USA,22/04/2017,21:00,Portland Timbers,Vancouver Whitecaps,2,1,H,2,0,H
+USA,23/04/2017,00:30,New England Revolution,D.C. United,2,2,D,1,2,A
+USA,23/04/2017,00:30,New York RB,Columbus Crew,2,0,H,2,0,H
+USA,23/04/2017,01:00,FC Dallas,Sporting Kansas City,1,0,H,0,0,D
+USA,23/04/2017,02:30,Real Salt Lake,Atlanta United FC,1,3,A,0,1,A
+USA,23/04/2017,18:30,New York City FC,Orlando City,1,2,A,0,1,A
+USA,23/04/2017,21:00,Los Angeles Galaxy,Seattle Sounders,0,3,A,0,3,A
+USA,23/04/2017,23:00,Minnesota United FC,Colorado Rapids,1,0,H,0,0,D
+USA,29/04/2017,00:30,Toronto FC,Houston Dynamo,2,0,H,2,0,H
+USA,29/04/2017,20:00,Impact de Montréal,Vancouver Whitecaps,1,2,A,1,1,D
+USA,29/04/2017,20:55,Orlando City,Colorado Rapids,2,0,H,0,0,D
+USA,30/04/2017,00:30,Columbus Crew,New York City FC,2,3,A,1,1,D
+USA,30/04/2017,00:30,New York RB,Chicago Fire,2,1,H,1,0,H
+USA,30/04/2017,01:00,FC Dallas,Portland Timbers,2,2,D,0,1,A
+USA,30/04/2017,01:00,Minnesota United FC,San Jose Earthquakes,0,1,A,0,0,D
+USA,30/04/2017,01:30,Sporting Kansas City,Real Salt Lake,3,0,H,1,0,H
+USA,30/04/2017,03:00,Seattle Sounders,New England Revolution,3,3,D,0,2,A
+USA,30/04/2017,03:30,Los Angeles Galaxy,Philadelphia Union,0,0,D,0,0,D
+USA,30/04/2017,20:00,Atlanta United FC,D.C. United,1,3,A,1,2,A
+USA,04/05/2017,00:30,Toronto FC,Orlando City,2,1,H,2,1,H
+USA,04/05/2017,01:30,Sporting Kansas City,New York RB,2,0,H,0,0,D
+USA,06/05/2017,03:00,Colorado Rapids,Vancouver Whitecaps,0,1,A,0,0,D
+USA,06/05/2017,20:00,Seattle Sounders,Toronto FC,0,1,A,0,1,A
+USA,06/05/2017,23:00,D.C. United,Impact de Montréal,0,1,A,0,1,A
+USA,07/05/2017,00:00,Philadelphia Union,New York RB,3,0,H,0,0,D
+USA,07/05/2017,00:30,Columbus Crew,New England Revolution,2,0,H,1,0,H
+USA,07/05/2017,01:30,Houston Dynamo,Orlando City,4,0,H,1,0,H
+USA,07/05/2017,02:30,Real Salt Lake,FC Dallas,0,3,A,0,1,A
+USA,07/05/2017,03:30,Los Angeles Galaxy,Chicago Fire,2,2,D,0,2,A
+USA,07/05/2017,03:30,San Jose Earthquakes,Portland Timbers,3,0,H,2,0,H
+USA,07/05/2017,18:30,Minnesota United FC,Sporting Kansas City,2,0,H,2,0,H
+USA,07/05/2017,21:00,New York City FC,Atlanta United FC,3,1,H,1,1,D
+USA,11/05/2017,00:30,Columbus Crew,Toronto FC,1,2,A,1,0,H
+USA,13/05/2017,02:00,Houston Dynamo,Vancouver Whitecaps,2,1,H,1,0,H
+USA,13/05/2017,20:00,Toronto FC,Minnesota United FC,3,2,H,1,0,H
+USA,13/05/2017,21:00,Colorado Rapids,San Jose Earthquakes,3,0,H,2,0,H
+USA,13/05/2017,22:00,Impact de Montréal,Columbus Crew,2,3,A,0,2,A
+USA,14/05/2017,00:00,D.C. United,Philadelphia Union,0,4,A,0,1,A
+USA,14/05/2017,00:00,Orlando City,Sporting Kansas City,2,2,D,2,1,H
+USA,14/05/2017,00:30,New England Revolution,Real Salt Lake,4,0,H,4,0,H
+USA,14/05/2017,02:00,Chicago Fire,Seattle Sounders,4,1,H,1,1,D
+USA,14/05/2017,21:00,Portland Timbers,Atlanta United FC,1,1,D,0,0,D
+USA,14/05/2017,23:00,New York RB,Los Angeles Galaxy,1,3,A,0,2,A
+USA,15/05/2017,01:00,FC Dallas,New York City FC,1,1,D,1,0,H
+USA,18/05/2017,00:30,Philadelphia Union,Houston Dynamo,2,0,H,2,0,H
+USA,18/05/2017,01:30,Chicago Fire,Colorado Rapids,3,0,H,1,0,H
+USA,18/05/2017,01:30,Sporting Kansas City,Seattle Sounders,3,0,H,0,0,D
+USA,18/05/2017,02:00,Real Salt Lake,New York City FC,2,1,H,1,1,D
+USA,18/05/2017,03:30,San Jose Earthquakes,Orlando City,1,1,D,0,0,D
+USA,20/05/2017,00:30,New York RB,Toronto FC,1,1,D,1,0,H
+USA,20/05/2017,20:00,Impact de Montréal,Portland Timbers,4,1,H,2,1,H
+USA,20/05/2017,21:00,D.C. United,Chicago Fire,0,1,A,0,0,D
+USA,20/05/2017,22:00,Seattle Sounders,Real Salt Lake,1,0,H,1,0,H
+USA,21/05/2017,00:00,Atlanta United FC,Houston Dynamo,4,1,H,2,0,H
+USA,21/05/2017,00:00,Vancouver Whitecaps,Sporting Kansas City,2,0,H,1,0,H
+USA,21/05/2017,00:00,Philadelphia Union,Colorado Rapids,2,1,H,0,1,A
+USA,21/05/2017,01:00,FC Dallas,San Jose Earthquakes,0,1,A,0,0,D
+USA,21/05/2017,19:30,New England Revolution,Columbus Crew,2,1,H,2,1,H
+USA,21/05/2017,22:00,Minnesota United FC,Los Angeles Galaxy,1,2,A,0,1,A
+USA,22/05/2017,00:00,Orlando City,New York City FC,0,3,A,0,2,A
+USA,26/05/2017,01:30,Chicago Fire,FC Dallas,2,1,H,2,1,H
+USA,27/05/2017,00:00,Toronto FC,Columbus Crew,5,0,H,2,0,H
+USA,27/05/2017,20:00,Seattle Sounders,Portland Timbers,1,0,H,1,0,H
+USA,28/05/2017,00:00,Vancouver Whitecaps,D.C. United,0,1,A,0,0,D
+USA,28/05/2017,00:30,New York RB,New England Revolution,2,1,H,0,1,A
+USA,28/05/2017,01:00,Colorado Rapids,Sporting Kansas City,1,0,H,1,0,H
+USA,28/05/2017,01:00,Minnesota United FC,Orlando City,1,0,H,0,0,D
+USA,28/05/2017,01:00,Real Salt Lake,Philadelphia Union,1,0,H,1,0,H
+USA,28/05/2017,03:00,San Jose Earthquakes,Los Angeles Galaxy,2,4,A,2,3,A
+USA,28/05/2017,22:00,Atlanta United FC,New York City FC,3,1,H,3,0,H
+USA,29/05/2017,01:00,FC Dallas,Houston Dynamo,0,0,D,0,0,D

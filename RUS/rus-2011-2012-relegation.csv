@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,19/11/2011,10:00,Volga Nizhniy Novgorod,FK Amkar Perm,1,2,A,1,0,H
+RUS,19/11/2011,12:15,Terek Grozny,Krylia Sovetov,0,0,D,0,0,D
+RUS,19/11/2011,14:30,FK Krasnodar,Spartak Nalchik,3,2,H,2,1,H
+RUS,20/11/2011,14:30,FK Rostov,FK Tom Tomsk,3,1,H,0,1,A
+RUS,26/11/2011,10:00,Spartak Nalchik,Terek Grozny,3,0,H,1,0,H
+RUS,26/11/2011,12:15,Krylia Sovetov,Volga Nizhniy Novgorod,1,0,H,1,0,H
+RUS,27/11/2011,08:00,FK Tom Tomsk,FK Krasnodar,0,0,D,0,0,D
+RUS,27/11/2011,10:15,FK Rostov,FK Amkar Perm,1,1,D,1,0,H
+RUS,03/03/2012,10:00,Terek Grozny,FK Tom Tomsk,1,0,H,0,0,D
+RUS,03/03/2012,10:00,Volga Nizhniy Novgorod,Spartak Nalchik,1,0,H,0,0,D
+RUS,05/03/2012,14:30,FK Krasnodar,FK Rostov,1,0,H,0,0,D
+RUS,06/03/2012,13:00,FK Amkar Perm,Krylia Sovetov,2,1,H,1,0,H
+RUS,10/03/2012,11:00,FK Krasnodar,Terek Grozny,1,3,A,0,3,A
+RUS,11/03/2012,14:30,FK Rostov,Krylia Sovetov,1,0,H,1,0,H
+RUS,12/03/2012,10:00,FK Tom Tomsk,Volga Nizhniy Novgorod,1,0,H,1,0,H
+RUS,12/03/2012,12:30,Spartak Nalchik,FK Amkar Perm,1,2,A,0,1,A
+RUS,17/03/2012,10:00,Volga Nizhniy Novgorod,FK Krasnodar,1,2,A,0,0,D
+RUS,17/03/2012,12:30,Terek Grozny,FK Rostov,1,0,H,0,0,D
+RUS,18/03/2012,08:00,FK Amkar Perm,FK Tom Tomsk,0,0,D,0,0,D
+RUS,18/03/2012,14:45,Krylia Sovetov,Spartak Nalchik,1,0,H,0,0,D
+RUS,24/03/2012,10:00,FK Tom Tomsk,Krylia Sovetov,0,0,D,0,0,D
+RUS,24/03/2012,14:30,FK Krasnodar,FK Amkar Perm,0,1,A,0,1,A
+RUS,25/03/2012,11:00,FK Rostov,Spartak Nalchik,2,1,H,2,0,H
+RUS,26/03/2012,15:00,Terek Grozny,Volga Nizhniy Novgorod,1,3,A,1,0,H
+RUS,30/03/2012,13:30,Spartak Nalchik,FK Tom Tomsk,0,2,A,0,1,A
+RUS,31/03/2012,11:00,Volga Nizhniy Novgorod,FK Rostov,2,0,H,2,0,H
+RUS,31/03/2012,15:30,Krylia Sovetov,FK Krasnodar,1,1,D,0,1,A
+RUS,01/04/2012,11:00,FK Amkar Perm,Terek Grozny,2,0,H,0,0,D
+RUS,06/04/2012,11:00,Volga Nizhniy Novgorod,Krylia Sovetov,0,0,D,0,0,D
+RUS,06/04/2012,13:15,Terek Grozny,Spartak Nalchik,2,0,H,1,0,H
+RUS,07/04/2012,11:00,FK Amkar Perm,FK Rostov,1,0,H,0,0,D
+RUS,08/04/2012,13:30,FK Krasnodar,FK Tom Tomsk,3,1,H,1,0,H
+RUS,14/04/2012,11:00,FK Tom Tomsk,Terek Grozny,3,0,H,1,0,H
+RUS,14/04/2012,15:30,Krylia Sovetov,FK Amkar Perm,2,1,H,0,1,A
+RUS,15/04/2012,11:00,Spartak Nalchik,Volga Nizhniy Novgorod,3,0,H,1,0,H
+RUS,16/04/2012,16:00,FK Rostov,FK Krasnodar,1,1,D,0,0,D
+RUS,21/04/2012,09:00,FK Amkar Perm,Spartak Nalchik,1,0,H,1,0,H
+RUS,21/04/2012,11:15,Volga Nizhniy Novgorod,FK Tom Tomsk,2,0,H,1,0,H
+RUS,22/04/2012,11:00,Terek Grozny,FK Krasnodar,0,1,A,0,1,A
+RUS,22/04/2012,14:15,Krylia Sovetov,FK Rostov,2,1,H,1,1,D
+RUS,27/04/2012,12:00,FK Tom Tomsk,FK Amkar Perm,0,0,D,0,0,D
+RUS,27/04/2012,14:15,Spartak Nalchik,Krylia Sovetov,0,0,D,0,0,D
+RUS,27/04/2012,16:30,FK Krasnodar,Volga Nizhniy Novgorod,2,1,H,2,0,H
+RUS,27/04/2012,16:30,FK Rostov,Terek Grozny,1,1,D,1,1,D
+RUS,02/05/2012,13:15,Spartak Nalchik,FK Rostov,2,2,D,1,1,D
+RUS,02/05/2012,14:00,FK Amkar Perm,FK Krasnodar,2,2,D,1,1,D
+RUS,02/05/2012,16:15,Volga Nizhniy Novgorod,Terek Grozny,1,3,A,1,0,H
+RUS,03/05/2012,16:00,Krylia Sovetov,FK Tom Tomsk,1,0,H,1,0,H
+RUS,06/05/2012,15:15,FK Rostov,Volga Nizhniy Novgorod,1,0,H,0,0,D
+RUS,06/05/2012,15:30,Terek Grozny,FK Amkar Perm,3,1,H,2,1,H
+RUS,07/05/2012,08:00,FK Tom Tomsk,Spartak Nalchik,1,1,D,1,1,D
+RUS,07/05/2012,16:30,FK Krasnodar,Krylia Sovetov,0,2,A,0,1,A
+RUS,13/05/2012,12:30,Spartak Nalchik,FK Krasnodar,3,3,D,2,2,D
+RUS,13/05/2012,12:30,Krylia Sovetov,Terek Grozny,1,1,D,1,1,D
+RUS,13/05/2012,12:30,FK Amkar Perm,Volga Nizhniy Novgorod,4,1,H,2,1,H
+RUS,13/05/2012,12:30,FK Tom Tomsk,FK Rostov,2,1,H,0,0,D

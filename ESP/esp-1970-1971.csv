@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,12/09/1970,,Real Madrid,Valencia CF,2,0,H,1,0,H
+ESP,12/09/1970,,UD Las Palmas,Atlético Madrid,1,1,D,0,0,D
+ESP,12/09/1970,,Athletic Bilbao,FC Barcelona,1,1,D,0,1,A
+ESP,13/09/1970,,Espanyol Barcelona,Sevilla FC,0,1,A,0,0,D
+ESP,13/09/1970,,CE Sabadell,Real Sociedad,0,0,D,0,0,D
+ESP,13/09/1970,,Celta Vigo,Sporting Gijón,2,0,H,1,0,H
+ESP,13/09/1970,,Real Zaragoza,CD Málaga,0,0,D,0,0,D
+ESP,13/09/1970,,Elche CF,Granada CF,1,1,D,1,0,H
+ESP,19/09/1970,,Valencia CF,UD Las Palmas,5,1,H,2,0,H
+ESP,20/09/1970,,FC Barcelona,Real Zaragoza,5,2,H,4,1,H
+ESP,20/09/1970,,Sporting Gijón,CE Sabadell,3,2,H,2,0,H
+ESP,20/09/1970,,CD Málaga,Celta Vigo,2,1,H,0,0,D
+ESP,20/09/1970,,Atlético Madrid,Athletic Bilbao,2,0,H,2,0,H
+ESP,20/09/1970,,Sevilla FC,Real Madrid,3,1,H,1,1,D
+ESP,20/09/1970,,Granada CF,Espanyol Barcelona,1,0,H,1,0,H
+ESP,20/09/1970,,Real Sociedad,Elche CF,2,0,H,1,0,H
+ESP,26/09/1970,,Real Madrid,Granada CF,3,2,H,1,1,D
+ESP,26/09/1970,,Valencia CF,Sevilla FC,0,1,A,0,0,D
+ESP,26/09/1970,,UD Las Palmas,Athletic Bilbao,1,1,D,0,1,A
+ESP,27/09/1970,,CE Sabadell,CD Málaga,5,2,H,1,2,A
+ESP,27/09/1970,,Elche CF,Sporting Gijón,5,0,H,2,0,H
+ESP,27/09/1970,,Espanyol Barcelona,Real Sociedad,0,0,D,0,0,D
+ESP,27/09/1970,,Celta Vigo,FC Barcelona,1,1,D,0,1,A
+ESP,27/09/1970,,Real Zaragoza,Atlético Madrid,0,1,A,0,1,A
+ESP,04/10/1970,,Athletic Bilbao,Real Zaragoza,3,0,H,1,0,H
+ESP,04/10/1970,,Atlético Madrid,Celta Vigo,3,1,H,0,1,A
+ESP,04/10/1970,,CD Málaga,Elche CF,1,0,H,0,0,D
+ESP,04/10/1970,,Granada CF,Valencia CF,2,2,D,1,1,D
+ESP,04/10/1970,,Real Sociedad,Real Madrid,0,0,D,0,0,D
+ESP,04/10/1970,,Sporting Gijón,Espanyol Barcelona,0,1,A,0,1,A
+ESP,04/10/1970,,UD Las Palmas,Sevilla FC,0,0,D,0,0,D
+ESP,04/10/1970,,FC Barcelona,CE Sabadell,4,1,H,2,1,H
+ESP,11/10/1970,,CE Sabadell,Atlético Madrid,0,2,A,0,0,D
+ESP,11/10/1970,,Sevilla FC,Granada CF,1,0,H,0,0,D
+ESP,11/10/1970,,Espanyol Barcelona,CD Málaga,1,1,D,0,0,D
+ESP,11/10/1970,,Real Madrid,Sporting Gijón,1,1,D,0,1,A
+ESP,11/10/1970,,Valencia CF,Real Sociedad,0,0,D,0,0,D
+ESP,11/10/1970,,Celta Vigo,Athletic Bilbao,2,1,H,2,1,H
+ESP,11/10/1970,,Elche CF,FC Barcelona,0,1,A,0,1,A
+ESP,11/10/1970,,Real Zaragoza,UD Las Palmas,1,1,D,1,0,H
+ESP,17/10/1970,,Atlético Madrid,Elche CF,3,1,H,3,0,H
+ESP,17/10/1970,,Sporting Gijón,Valencia CF,0,1,A,0,0,D
+ESP,17/10/1970,,FC Barcelona,Espanyol Barcelona,3,0,H,2,0,H
+ESP,17/10/1970,,Athletic Bilbao,CE Sabadell,1,0,H,1,0,H
+ESP,18/10/1970,,Real Zaragoza,Celta Vigo,0,0,D,0,0,D
+ESP,18/10/1970,,Real Sociedad,Sevilla FC,1,0,H,0,0,D
+ESP,18/10/1970,,Granada CF,UD Las Palmas,1,0,H,0,0,D
+ESP,18/10/1970,,CD Málaga,Real Madrid,0,2,A,0,1,A
+ESP,25/10/1970,,Granada CF,Real Sociedad,2,0,H,1,0,H
+ESP,25/10/1970,,Valencia CF,CD Málaga,1,0,H,1,0,H
+ESP,25/10/1970,,Sevilla FC,Sporting Gijón,1,1,D,1,0,H
+ESP,25/10/1970,,CE Sabadell,Real Zaragoza,2,1,H,1,1,D
+ESP,25/10/1970,,Espanyol Barcelona,Atlético Madrid,0,0,D,0,0,D
+ESP,25/10/1970,,Elche CF,Athletic Bilbao,1,1,D,0,0,D
+ESP,25/10/1970,,Real Madrid,FC Barcelona,0,1,A,0,1,A
+ESP,25/10/1970,,UD Las Palmas,Celta Vigo,1,2,A,0,0,D
+ESP,31/10/1970,,FC Barcelona,Valencia CF,0,2,A,0,1,A
+ESP,01/11/1970,,UD Las Palmas,Real Sociedad,4,2,H,2,2,D
+ESP,01/11/1970,,CD Málaga,Sevilla FC,1,1,D,1,0,H
+ESP,01/11/1970,,Celta Vigo,CE Sabadell,1,0,H,1,0,H
+ESP,01/11/1970,,Sporting Gijón,Granada CF,3,2,H,2,2,D
+ESP,01/11/1970,,Athletic Bilbao,Espanyol Barcelona,2,0,H,1,0,H
+ESP,01/11/1970,,Atlético Madrid,Real Madrid,2,2,D,0,2,A
+ESP,01/11/1970,,Real Zaragoza,Elche CF,1,1,D,0,0,D
+ESP,15/11/1970,,Espanyol Barcelona,Real Zaragoza,0,0,D,0,0,D
+ESP,15/11/1970,,Granada CF,CD Málaga,1,1,D,0,1,A
+ESP,15/11/1970,,Real Sociedad,Sporting Gijón,3,1,H,1,0,H
+ESP,15/11/1970,,Elche CF,Celta Vigo,1,1,D,1,1,D
+ESP,15/11/1970,,Valencia CF,Atlético Madrid,1,0,H,0,0,D
+ESP,15/11/1970,,Real Madrid,Athletic Bilbao,1,2,A,0,0,D
+ESP,15/11/1970,,Sevilla FC,FC Barcelona,0,1,A,0,0,D
+ESP,15/11/1970,,CE Sabadell,UD Las Palmas,0,0,D,0,0,D
+ESP,22/11/1970,,Atlético Madrid,Sevilla FC,4,1,H,2,0,H
+ESP,22/11/1970,,CD Málaga,Real Sociedad,0,0,D,0,0,D
+ESP,22/11/1970,,FC Barcelona,Granada CF,2,1,H,1,1,D
+ESP,22/11/1970,,CE Sabadell,Elche CF,1,0,H,0,0,D
+ESP,22/11/1970,,Athletic Bilbao,Valencia CF,0,0,D,0,0,D
+ESP,22/11/1970,,Celta Vigo,Espanyol Barcelona,1,0,H,1,0,H
+ESP,22/11/1970,,Real Zaragoza,Real Madrid,0,5,A,0,2,A
+ESP,22/11/1970,,UD Las Palmas,Sporting Gijón,1,2,A,1,1,D
+ESP,29/11/1970,,Valencia CF,Real Zaragoza,2,0,H,1,0,H
+ESP,29/11/1970,,Espanyol Barcelona,CE Sabadell,3,1,H,0,0,D
+ESP,29/11/1970,,UD Las Palmas,Elche CF,2,2,D,1,2,A
+ESP,29/11/1970,,Real Madrid,Celta Vigo,4,0,H,4,0,H
+ESP,29/11/1970,,Granada CF,Atlético Madrid,0,0,D,0,0,D
+ESP,29/11/1970,,Sevilla FC,Athletic Bilbao,3,2,H,1,1,D
+ESP,29/11/1970,,Real Sociedad,FC Barcelona,1,0,H,0,0,D
+ESP,29/11/1970,,Sporting Gijón,CD Málaga,3,0,H,1,0,H
+ESP,06/12/1970,,Elche CF,Espanyol Barcelona,1,1,D,0,0,D
+ESP,06/12/1970,,Athletic Bilbao,Granada CF,3,0,H,3,0,H
+ESP,06/12/1970,,FC Barcelona,Sporting Gijón,2,0,H,0,0,D
+ESP,06/12/1970,,CD Málaga,UD Las Palmas,1,1,D,0,0,D
+ESP,06/12/1970,,Celta Vigo,Valencia CF,1,0,H,1,0,H
+ESP,06/12/1970,,Atlético Madrid,Real Sociedad,1,0,H,1,0,H
+ESP,06/12/1970,,CE Sabadell,Real Madrid,1,1,D,1,0,H
+ESP,06/12/1970,,Real Zaragoza,Sevilla FC,4,1,H,1,0,H
+ESP,13/12/1970,,Granada CF,Real Zaragoza,3,0,H,1,0,H
+ESP,13/12/1970,,Valencia CF,CE Sabadell,2,1,H,1,1,D
+ESP,13/12/1970,,Real Madrid,Elche CF,1,1,D,0,1,A
+ESP,13/12/1970,,Sevilla FC,Celta Vigo,2,1,H,1,0,H
+ESP,13/12/1970,,Sporting Gijón,Atlético Madrid,1,1,D,1,0,H
+ESP,13/12/1970,,Real Sociedad,Athletic Bilbao,2,1,H,0,1,A
+ESP,13/12/1970,,CD Málaga,FC Barcelona,0,1,A,0,1,A
+ESP,13/12/1970,,Espanyol Barcelona,UD Las Palmas,2,1,H,1,0,H
+ESP,20/12/1970,,UD Las Palmas,FC Barcelona,3,2,H,2,0,H
+ESP,20/12/1970,,Atlético Madrid,CD Málaga,2,1,H,2,1,H
+ESP,20/12/1970,,Celta Vigo,Granada CF,2,0,H,0,0,D
+ESP,20/12/1970,,Athletic Bilbao,Sporting Gijón,3,0,H,1,0,H
+ESP,20/12/1970,,Real Zaragoza,Real Sociedad,1,0,H,1,0,H
+ESP,20/12/1970,,Elche CF,Valencia CF,1,3,A,0,1,A
+ESP,20/12/1970,,Espanyol Barcelona,Real Madrid,0,1,A,0,1,A
+ESP,20/12/1970,,CE Sabadell,Sevilla FC,2,1,H,0,1,A
+ESP,27/12/1970,,Granada CF,CE Sabadell,3,1,H,3,0,H
+ESP,27/12/1970,,CD Málaga,Athletic Bilbao,3,3,D,3,1,H
+ESP,27/12/1970,,Valencia CF,Espanyol Barcelona,2,1,H,0,0,D
+ESP,27/12/1970,,FC Barcelona,Atlético Madrid,2,0,H,2,0,H
+ESP,27/12/1970,,Sporting Gijón,Real Zaragoza,1,1,D,0,0,D
+ESP,27/12/1970,,Real Sociedad,Celta Vigo,1,3,A,1,1,D
+ESP,27/12/1970,,Real Madrid,UD Las Palmas,4,2,H,1,1,D
+ESP,27/12/1970,,Sevilla FC,Elche CF,2,1,H,2,0,H
+ESP,03/01/1971,,FC Barcelona,Athletic Bilbao,0,1,A,0,0,D
+ESP,03/01/1971,,Sevilla FC,Espanyol Barcelona,1,0,H,1,0,H
+ESP,03/01/1971,,CD Málaga,Real Zaragoza,1,0,H,1,0,H
+ESP,03/01/1971,,Sporting Gijón,Celta Vigo,4,0,H,1,0,H
+ESP,03/01/1971,,Atlético Madrid,UD Las Palmas,2,1,H,1,1,D
+ESP,03/01/1971,,Granada CF,Elche CF,3,1,H,1,1,D
+ESP,03/01/1971,,Real Sociedad,CE Sabadell,2,0,H,1,0,H
+ESP,03/01/1971,,Valencia CF,Real Madrid,1,0,H,1,0,H
+ESP,10/01/1971,,Elche CF,Real Sociedad,1,2,A,1,1,D
+ESP,10/01/1971,,Espanyol Barcelona,Granada CF,1,0,H,0,0,D
+ESP,10/01/1971,,CE Sabadell,Sporting Gijón,2,1,H,1,0,H
+ESP,10/01/1971,,Real Zaragoza,FC Barcelona,1,2,A,1,0,H
+ESP,10/01/1971,,Athletic Bilbao,Atlético Madrid,1,0,H,1,0,H
+ESP,10/01/1971,,UD Las Palmas,Valencia CF,0,0,D,0,0,D
+ESP,10/01/1971,,Real Madrid,Sevilla FC,4,0,H,1,0,H
+ESP,10/01/1971,,Celta Vigo,CD Málaga,0,0,D,0,0,D
+ESP,17/01/1971,,Sevilla FC,Valencia CF,2,2,D,0,1,A
+ESP,17/01/1971,,CD Málaga,CE Sabadell,1,0,H,0,0,D
+ESP,17/01/1971,,Sporting Gijón,Elche CF,3,1,H,2,1,H
+ESP,17/01/1971,,Athletic Bilbao,UD Las Palmas,1,0,H,0,0,D
+ESP,17/01/1971,,Atlético Madrid,Real Zaragoza,3,0,H,2,0,H
+ESP,17/01/1971,,Real Sociedad,Espanyol Barcelona,1,0,H,0,0,D
+ESP,17/01/1971,,Granada CF,Real Madrid,2,0,H,1,0,H
+ESP,17/01/1971,,FC Barcelona,Celta Vigo,2,1,H,1,0,H
+ESP,24/01/1971,,Sevilla FC,UD Las Palmas,3,1,H,2,0,H
+ESP,24/01/1971,,Espanyol Barcelona,Sporting Gijón,2,0,H,2,0,H
+ESP,24/01/1971,,Elche CF,CD Málaga,1,1,D,1,0,H
+ESP,24/01/1971,,Celta Vigo,Atlético Madrid,3,2,H,1,2,A
+ESP,24/01/1971,,CE Sabadell,FC Barcelona,2,1,H,1,0,H
+ESP,24/01/1971,,Real Zaragoza,Athletic Bilbao,1,2,A,0,1,A
+ESP,24/01/1971,,Real Madrid,Real Sociedad,1,0,H,0,0,D
+ESP,24/01/1971,,Valencia CF,Granada CF,2,1,H,1,0,H
+ESP,31/01/1971,,Real Sociedad,Valencia CF,0,0,D,0,0,D
+ESP,31/01/1971,,Atlético Madrid,CE Sabadell,4,1,H,2,0,H
+ESP,31/01/1971,,FC Barcelona,Elche CF,0,0,D,0,0,D
+ESP,31/01/1971,,Athletic Bilbao,Celta Vigo,2,0,H,0,0,D
+ESP,31/01/1971,,Granada CF,Sevilla FC,0,0,D,0,0,D
+ESP,31/01/1971,,CD Málaga,Espanyol Barcelona,0,0,D,0,0,D
+ESP,31/01/1971,,Sporting Gijón,Real Madrid,0,1,A,0,1,A
+ESP,31/01/1971,,UD Las Palmas,Real Zaragoza,4,0,H,1,0,H
+ESP,07/02/1971,,Elche CF,Atlético Madrid,0,4,A,0,0,D
+ESP,07/02/1971,,Real Madrid,CD Málaga,2,2,D,2,1,H
+ESP,07/02/1971,,Valencia CF,Sporting Gijón,1,0,H,0,0,D
+ESP,07/02/1971,,UD Las Palmas,Granada CF,2,0,H,1,0,H
+ESP,07/02/1971,,CE Sabadell,Athletic Bilbao,1,0,H,1,0,H
+ESP,07/02/1971,,Espanyol Barcelona,FC Barcelona,0,1,A,0,1,A
+ESP,07/02/1971,,Celta Vigo,Real Zaragoza,2,0,H,0,0,D
+ESP,07/02/1971,,Sevilla FC,Real Sociedad,1,0,H,1,0,H
+ESP,14/02/1971,,Sporting Gijón,Sevilla FC,4,0,H,2,0,H
+ESP,14/02/1971,,Real Zaragoza,CE Sabadell,3,1,H,1,1,D
+ESP,14/02/1971,,Real Sociedad,Granada CF,1,1,D,1,1,D
+ESP,14/02/1971,,Celta Vigo,UD Las Palmas,1,0,H,0,0,D
+ESP,14/02/1971,,CD Málaga,Valencia CF,0,1,A,0,0,D
+ESP,14/02/1971,,Atlético Madrid,Espanyol Barcelona,3,0,H,1,0,H
+ESP,14/02/1971,,FC Barcelona,Real Madrid,0,1,A,0,0,D
+ESP,14/02/1971,,Athletic Bilbao,Elche CF,2,0,H,1,0,H
+ESP,28/02/1971,,CE Sabadell,Celta Vigo,3,2,H,3,2,H
+ESP,28/02/1971,,Sevilla FC,CD Málaga,1,0,H,0,0,D
+ESP,28/02/1971,,Granada CF,Sporting Gijón,3,0,H,1,0,H
+ESP,28/02/1971,,Elche CF,Real Zaragoza,2,1,H,1,1,D
+ESP,28/02/1971,,Real Madrid,Atlético Madrid,1,0,H,1,0,H
+ESP,28/02/1971,,Espanyol Barcelona,Athletic Bilbao,1,0,H,0,0,D
+ESP,28/02/1971,,Valencia CF,FC Barcelona,1,1,D,1,1,D
+ESP,28/02/1971,,Real Sociedad,UD Las Palmas,1,0,H,1,0,H
+ESP,06/03/1971,,Atlético Madrid,Valencia CF,3,0,H,1,0,H
+ESP,07/03/1971,,FC Barcelona,Sevilla FC,5,2,H,2,1,H
+ESP,07/03/1971,,UD Las Palmas,CE Sabadell,5,0,H,3,0,H
+ESP,07/03/1971,,CD Málaga,Granada CF,1,0,H,1,0,H
+ESP,07/03/1971,,Sporting Gijón,Real Sociedad,2,0,H,1,0,H
+ESP,07/03/1971,,Real Zaragoza,Espanyol Barcelona,2,2,D,1,0,H
+ESP,07/03/1971,,Athletic Bilbao,Real Madrid,0,1,A,0,0,D
+ESP,07/03/1971,,Celta Vigo,Elche CF,3,0,H,1,0,H
+ESP,14/03/1971,,Real Madrid,Real Zaragoza,2,1,H,2,0,H
+ESP,14/03/1971,,Espanyol Barcelona,Celta Vigo,0,1,A,0,1,A
+ESP,14/03/1971,,Elche CF,CE Sabadell,0,0,D,0,0,D
+ESP,14/03/1971,,Real Sociedad,CD Málaga,1,2,A,0,2,A
+ESP,14/03/1971,,Sevilla FC,Atlético Madrid,1,1,D,0,1,A
+ESP,14/03/1971,,Valencia CF,Athletic Bilbao,4,0,H,1,0,H
+ESP,14/03/1971,,Granada CF,FC Barcelona,0,2,A,0,0,D
+ESP,14/03/1971,,Sporting Gijón,UD Las Palmas,2,0,H,1,0,H
+ESP,20/03/1971,,Atlético Madrid,Granada CF,3,0,H,1,0,H
+ESP,21/03/1971,,Real Zaragoza,Valencia CF,0,2,A,0,0,D
+ESP,21/03/1971,,CD Málaga,Sporting Gijón,3,0,H,0,0,D
+ESP,21/03/1971,,Elche CF,UD Las Palmas,2,0,H,1,0,H
+ESP,21/03/1971,,Athletic Bilbao,Sevilla FC,1,0,H,0,0,D
+ESP,21/03/1971,,CE Sabadell,Espanyol Barcelona,0,0,D,0,0,D
+ESP,21/03/1971,,Celta Vigo,Real Madrid,2,0,H,0,0,D
+ESP,21/03/1971,,FC Barcelona,Real Sociedad,4,0,H,2,0,H
+ESP,28/03/1971,,Granada CF,Athletic Bilbao,2,2,D,2,2,D
+ESP,28/03/1971,,Real Madrid,CE Sabadell,3,1,H,1,0,H
+ESP,28/03/1971,,Espanyol Barcelona,Elche CF,2,0,H,0,0,D
+ESP,28/03/1971,,UD Las Palmas,CD Málaga,1,2,A,0,1,A
+ESP,28/03/1971,,Real Sociedad,Atlético Madrid,0,1,A,0,1,A
+ESP,28/03/1971,,Valencia CF,Celta Vigo,2,1,H,1,0,H
+ESP,28/03/1971,,Sporting Gijón,FC Barcelona,0,2,A,0,0,D
+ESP,28/03/1971,,Sevilla FC,Real Zaragoza,4,2,H,2,1,H
+ESP,04/04/1971,,Celta Vigo,Sevilla FC,2,0,H,0,0,D
+ESP,04/04/1971,,Real Zaragoza,Granada CF,0,0,D,0,0,D
+ESP,04/04/1971,,FC Barcelona,CD Málaga,1,0,H,0,0,D
+ESP,04/04/1971,,Athletic Bilbao,Real Sociedad,1,1,D,0,0,D
+ESP,04/04/1971,,CE Sabadell,Valencia CF,0,1,A,0,0,D
+ESP,04/04/1971,,UD Las Palmas,Espanyol Barcelona,0,0,D,0,0,D
+ESP,04/04/1971,,Elche CF,Real Madrid,0,1,A,0,0,D
+ESP,04/04/1971,,Atlético Madrid,Sporting Gijón,2,0,H,1,0,H
+ESP,10/04/1971,,CD Málaga,Atlético Madrid,0,0,D,0,0,D
+ESP,10/04/1971,,Real Madrid,Espanyol Barcelona,1,0,H,0,0,D
+ESP,11/04/1971,,Sevilla FC,CE Sabadell,1,0,H,0,0,D
+ESP,11/04/1971,,Valencia CF,Elche CF,3,0,H,2,0,H
+ESP,11/04/1971,,Granada CF,Celta Vigo,1,0,H,1,0,H
+ESP,11/04/1971,,Sporting Gijón,Athletic Bilbao,3,1,H,1,0,H
+ESP,11/04/1971,,Real Sociedad,Real Zaragoza,2,0,H,0,0,D
+ESP,12/04/1971,,FC Barcelona,UD Las Palmas,2,0,H,0,0,D
+ESP,18/04/1971,,CE Sabadell,Granada CF,0,1,A,0,0,D
+ESP,18/04/1971,,UD Las Palmas,Real Madrid,0,0,D,0,0,D
+ESP,18/04/1971,,Atlético Madrid,FC Barcelona,1,1,D,0,0,D
+ESP,18/04/1971,,Espanyol Barcelona,Valencia CF,1,0,H,0,0,D
+ESP,18/04/1971,,Elche CF,Sevilla FC,1,0,H,0,0,D
+ESP,18/04/1971,,Celta Vigo,Real Sociedad,0,0,D,0,0,D
+ESP,18/04/1971,,Real Zaragoza,Sporting Gijón,0,0,D,0,0,D
+ESP,18/04/1971,,Athletic Bilbao,CD Málaga,2,1,H,2,0,H

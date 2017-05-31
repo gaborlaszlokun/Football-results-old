@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KOR,12/03/2006,05:00,Suwon Bluewings,FC Seoul,1,1,D,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Busan IPark,Incheon United,1,2,A,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Daegu FC,Chunnam Dragons,2,2,D,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Daejeon Citizen,Seongnam Ilhwa Chunma,0,1,A,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Gyeongnam FC,Bucheon SK,0,0,D,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Pohang Steelers,Jeonbuk FC,3,1,H,NaN,NaN,NaN
+KOR,12/03/2006,06:00,Ulsan Hyundai,Gwangju Sangmu,1,0,H,NaN,NaN,NaN
+KOR,15/03/2006,10:00,FC Seoul,Jeonbuk FC,1,1,D,NaN,NaN,NaN
+KOR,15/03/2006,10:00,Chunnam Dragons,Ulsan Hyundai,1,0,H,NaN,NaN,NaN
+KOR,15/03/2006,10:00,Seongnam Ilhwa Chunma,Daegu FC,2,1,H,NaN,NaN,NaN
+KOR,15/03/2006,10:00,Daejeon Citizen,Busan IPark,1,0,H,NaN,NaN,NaN
+KOR,15/03/2006,10:30,Gwangju Sangmu,Pohang Steelers,0,3,A,NaN,NaN,NaN
+KOR,15/03/2006,10:30,Incheon United,Gyeongnam FC,3,1,H,NaN,NaN,NaN
+KOR,15/03/2006,11:00,Bucheon SK,Suwon Bluewings,0,0,D,NaN,NaN,NaN
+KOR,18/03/2006,06:00,Gwangju Sangmu,Chunnam Dragons,0,0,D,NaN,NaN,NaN
+KOR,18/03/2006,06:00,Jeonbuk FC,Bucheon SK,2,1,H,NaN,NaN,NaN
+KOR,18/03/2006,06:00,Gyeongnam FC,Daejeon Citizen,0,0,D,NaN,NaN,NaN
+KOR,19/03/2006,06:00,Pohang Steelers,FC Seoul,0,1,A,NaN,NaN,NaN
+KOR,19/03/2006,06:00,Ulsan Hyundai,Seongnam Ilhwa Chunma,1,3,A,NaN,NaN,NaN
+KOR,19/03/2006,06:00,Suwon Bluewings,Incheon United,1,0,H,NaN,NaN,NaN
+KOR,19/03/2006,06:00,Daegu FC,Busan IPark,4,4,D,NaN,NaN,NaN
+KOR,25/03/2006,06:00,Bucheon SK,FC Seoul,0,3,A,NaN,NaN,NaN
+KOR,25/03/2006,06:00,Seongnam Ilhwa Chunma,Gwangju Sangmu,2,0,H,NaN,NaN,NaN
+KOR,25/03/2006,06:00,Incheon United,Jeonbuk FC,0,0,D,NaN,NaN,NaN
+KOR,26/03/2006,06:00,Busan IPark,Ulsan Hyundai,1,1,D,NaN,NaN,NaN
+KOR,26/03/2006,06:00,Daejeon Citizen,Suwon Bluewings,0,0,D,NaN,NaN,NaN
+KOR,26/03/2006,06:00,Daegu FC,Gyeongnam FC,0,1,A,NaN,NaN,NaN
+KOR,26/03/2006,06:30,Chunnam Dragons,Pohang Steelers,2,2,D,NaN,NaN,NaN
+KOR,29/03/2006,11:00,Pohang Steelers,Bucheon SK,1,0,H,NaN,NaN,NaN
+KOR,29/03/2006,11:00,Chunnam Dragons,Seongnam Ilhwa Chunma,1,1,D,NaN,NaN,NaN
+KOR,29/03/2006,11:00,Jeonbuk FC,Daejeon Citizen,1,1,D,NaN,NaN,NaN
+KOR,29/03/2006,11:00,Suwon Bluewings,Daegu FC,0,0,D,NaN,NaN,NaN
+KOR,29/03/2006,11:30,Gwangju Sangmu,Busan IPark,2,0,H,NaN,NaN,NaN
+KOR,29/03/2006,11:30,Ulsan Hyundai,Gyeongnam FC,1,0,H,NaN,NaN,NaN
+KOR,29/03/2006,12:00,FC Seoul,Incheon United,0,0,D,NaN,NaN,NaN
+KOR,01/04/2006,07:00,Gyeongnam FC,Gwangju Sangmu,1,1,D,NaN,NaN,NaN
+KOR,01/04/2006,07:00,Ulsan Hyundai,Suwon Bluewings,1,2,A,NaN,NaN,NaN
+KOR,01/04/2006,08:00,Busan IPark,Chunnam Dragons,1,1,D,NaN,NaN,NaN
+KOR,02/04/2006,07:00,Seongnam Ilhwa Chunma,Pohang Steelers,2,1,H,NaN,NaN,NaN
+KOR,02/04/2006,07:00,Incheon United,Bucheon SK,0,0,D,NaN,NaN,NaN
+KOR,02/04/2006,07:00,Daejeon Citizen,FC Seoul,0,0,D,NaN,NaN,NaN
+KOR,02/04/2006,07:00,Daegu FC,Jeonbuk FC,0,1,A,NaN,NaN,NaN
+KOR,05/04/2006,11:00,Pohang Steelers,Incheon United,2,2,D,NaN,NaN,NaN
+KOR,05/04/2006,11:00,Seongnam Ilhwa Chunma,Busan IPark,4,3,H,NaN,NaN,NaN
+KOR,05/04/2006,11:00,Bucheon SK,Daejeon Citizen,0,1,A,NaN,NaN,NaN
+KOR,05/04/2006,11:00,Chunnam Dragons,Gyeongnam FC,1,1,D,NaN,NaN,NaN
+KOR,05/04/2006,11:00,Jeonbuk FC,Ulsan Hyundai,1,1,D,NaN,NaN,NaN
+KOR,05/04/2006,11:30,Gwangju Sangmu,Suwon Bluewings,0,0,D,NaN,NaN,NaN
+KOR,05/04/2006,12:00,FC Seoul,Daegu FC,1,2,A,NaN,NaN,NaN
+KOR,08/04/2006,08:00,Busan IPark,Pohang Steelers,0,1,A,NaN,NaN,NaN
+KOR,08/04/2006,08:00,Gyeongnam FC,Seongnam Ilhwa Chunma,0,0,D,NaN,NaN,NaN
+KOR,08/04/2006,08:00,Ulsan Hyundai,FC Seoul,1,1,D,NaN,NaN,NaN
+KOR,08/04/2006,08:00,Jeonbuk FC,Gwangju Sangmu,2,1,H,NaN,NaN,NaN
+KOR,09/04/2006,07:00,Daejeon Citizen,Incheon United,1,0,H,NaN,NaN,NaN
+KOR,09/04/2006,07:00,Daegu FC,Bucheon SK,2,2,D,NaN,NaN,NaN
+KOR,09/04/2006,07:00,Suwon Bluewings,Chunnam Dragons,1,1,D,NaN,NaN,NaN
+KOR,15/04/2006,07:00,Pohang Steelers,Daejeon Citizen,5,4,H,NaN,NaN,NaN
+KOR,15/04/2006,08:00,Busan IPark,Gyeongnam FC,3,2,H,NaN,NaN,NaN
+KOR,16/04/2006,07:00,Incheon United,Daegu FC,0,0,D,NaN,NaN,NaN
+KOR,16/04/2006,07:00,Seongnam Ilhwa Chunma,Suwon Bluewings,0,1,A,NaN,NaN,NaN
+KOR,16/04/2006,07:00,Bucheon SK,Ulsan Hyundai,3,0,H,NaN,NaN,NaN
+KOR,16/04/2006,07:00,FC Seoul,Gwangju Sangmu,0,0,D,NaN,NaN,NaN
+KOR,16/04/2006,07:30,Chunnam Dragons,Jeonbuk FC,0,0,D,NaN,NaN,NaN
+KOR,22/04/2006,07:00,Gyeongnam FC,Pohang Steelers,0,1,A,NaN,NaN,NaN
+KOR,22/04/2006,07:00,Ulsan Hyundai,Incheon United,2,2,D,NaN,NaN,NaN
+KOR,22/04/2006,07:00,Jeonbuk FC,Seongnam Ilhwa Chunma,0,1,A,NaN,NaN,NaN
+KOR,22/04/2006,07:30,Gwangju Sangmu,Bucheon SK,2,0,H,NaN,NaN,NaN
+KOR,23/04/2006,07:00,Daegu FC,Daejeon Citizen,1,1,D,NaN,NaN,NaN
+KOR,23/04/2006,07:00,Suwon Bluewings,Busan IPark,1,4,A,NaN,NaN,NaN
+KOR,23/04/2006,07:00,FC Seoul,Chunnam Dragons,0,0,D,NaN,NaN,NaN
+KOR,29/04/2006,06:30,Bucheon SK,Chunnam Dragons,2,2,D,NaN,NaN,NaN
+KOR,29/04/2006,07:00,Pohang Steelers,Daegu FC,0,0,D,NaN,NaN,NaN
+KOR,30/04/2006,07:00,Gyeongnam FC,Suwon Bluewings,2,1,H,NaN,NaN,NaN
+KOR,30/04/2006,07:00,Daejeon Citizen,Ulsan Hyundai,0,0,D,NaN,NaN,NaN
+KOR,30/04/2006,07:00,Busan IPark,Jeonbuk FC,3,1,H,NaN,NaN,NaN
+KOR,30/04/2006,07:00,Incheon United,Gwangju Sangmu,1,1,D,NaN,NaN,NaN
+KOR,30/04/2006,07:00,Seongnam Ilhwa Chunma,FC Seoul,2,0,H,NaN,NaN,NaN
+KOR,05/05/2006,06:00,Suwon Bluewings,Pohang Steelers,1,2,A,NaN,NaN,NaN
+KOR,05/05/2006,06:00,FC Seoul,Busan IPark,5,2,H,NaN,NaN,NaN
+KOR,05/05/2006,06:00,Bucheon SK,Seongnam Ilhwa Chunma,0,1,A,NaN,NaN,NaN
+KOR,05/05/2006,06:30,Gwangju Sangmu,Daejeon Citizen,2,2,D,NaN,NaN,NaN
+KOR,05/05/2006,06:30,Chunnam Dragons,Incheon United,3,0,H,NaN,NaN,NaN
+KOR,07/05/2006,06:00,Ulsan Hyundai,Daegu FC,1,0,H,NaN,NaN,NaN
+KOR,07/05/2006,07:00,Jeonbuk FC,Gyeongnam FC,2,0,H,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Pohang Steelers,Ulsan Hyundai,0,0,D,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Suwon Bluewings,Jeonbuk FC,2,2,D,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Daegu FC,Gwangju Sangmu,2,1,H,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Gyeongnam FC,FC Seoul,2,1,H,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Daejeon Citizen,Chunnam Dragons,2,0,H,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Busan IPark,Bucheon SK,0,0,D,NaN,NaN,NaN
+KOR,10/05/2006,11:00,Incheon United,Seongnam Ilhwa Chunma,1,1,D,NaN,NaN,NaN
+KOR,23/08/2006,11:00,Jeonbuk FC,Pohang Steelers,1,1,D,NaN,NaN,NaN
+KOR,23/08/2006,11:00,Chunnam Dragons,Daegu FC,1,1,D,NaN,NaN,NaN
+KOR,23/08/2006,11:00,Bucheon SK,Gyeongnam FC,2,1,H,NaN,NaN,NaN
+KOR,23/08/2006,11:00,Seongnam Ilhwa Chunma,Daejeon Citizen,4,0,H,NaN,NaN,NaN
+KOR,23/08/2006,11:30,Gwangju Sangmu,Ulsan Hyundai,0,0,D,NaN,NaN,NaN
+KOR,23/08/2006,11:30,Incheon United,Busan IPark,0,0,D,NaN,NaN,NaN
+KOR,23/08/2006,12:00,FC Seoul,Suwon Bluewings,1,1,D,NaN,NaN,NaN
+KOR,26/08/2006,10:00,Jeonbuk FC,FC Seoul,1,2,A,NaN,NaN,NaN
+KOR,26/08/2006,11:00,Suwon Bluewings,Bucheon SK,2,1,H,NaN,NaN,NaN
+KOR,26/08/2006,11:00,Daegu FC,Seongnam Ilhwa Chunma,0,2,A,NaN,NaN,NaN
+KOR,26/08/2006,11:00,Gyeongnam FC,Incheon United,2,2,D,NaN,NaN,NaN
+KOR,26/08/2006,11:00,Busan IPark,Daejeon Citizen,4,2,H,NaN,NaN,NaN
+KOR,26/08/2006,11:30,Pohang Steelers,Gwangju Sangmu,2,1,H,NaN,NaN,NaN
+KOR,26/08/2006,11:30,Ulsan Hyundai,Chunnam Dragons,1,0,H,NaN,NaN,NaN
+KOR,30/08/2006,11:00,Chunnam Dragons,Gwangju Sangmu,2,0,H,NaN,NaN,NaN
+KOR,30/08/2006,11:00,Seongnam Ilhwa Chunma,Ulsan Hyundai,0,1,A,NaN,NaN,NaN
+KOR,30/08/2006,11:00,Busan IPark,Daegu FC,1,3,A,NaN,NaN,NaN
+KOR,30/08/2006,11:00,Daejeon Citizen,Gyeongnam FC,3,1,H,NaN,NaN,NaN
+KOR,30/08/2006,11:30,Incheon United,Suwon Bluewings,1,2,A,NaN,NaN,NaN
+KOR,30/08/2006,12:00,FC Seoul,Pohang Steelers,3,1,H,NaN,NaN,NaN
+KOR,30/08/2006,12:00,Bucheon SK,Jeonbuk FC,2,1,H,NaN,NaN,NaN
+KOR,09/09/2006,10:00,Jeonbuk FC,Incheon United,0,1,A,NaN,NaN,NaN
+KOR,09/09/2006,11:00,Pohang Steelers,Chunnam Dragons,2,1,H,NaN,NaN,NaN
+KOR,09/09/2006,11:00,FC Seoul,Bucheon SK,1,0,H,NaN,NaN,NaN
+KOR,09/09/2006,11:00,Suwon Bluewings,Daejeon Citizen,1,1,D,NaN,NaN,NaN
+KOR,09/09/2006,11:00,Gyeongnam FC,Daegu FC,3,2,H,NaN,NaN,NaN
+KOR,09/09/2006,11:30,Gwangju Sangmu,Seongnam Ilhwa Chunma,1,0,H,NaN,NaN,NaN
+KOR,09/09/2006,11:30,Ulsan Hyundai,Busan IPark,1,1,D,NaN,NaN,NaN
+KOR,16/09/2006,07:00,Bucheon SK,Pohang Steelers,0,0,D,NaN,NaN,NaN
+KOR,16/09/2006,11:00,Incheon United,FC Seoul,1,0,H,NaN,NaN,NaN
+KOR,16/09/2006,11:00,Busan IPark,Gwangju Sangmu,2,0,H,NaN,NaN,NaN
+KOR,16/09/2006,11:00,Daejeon Citizen,Jeonbuk FC,0,1,A,NaN,NaN,NaN
+KOR,16/09/2006,11:00,Gyeongnam FC,Ulsan Hyundai,0,1,A,NaN,NaN,NaN
+KOR,16/09/2006,11:00,Daegu FC,Suwon Bluewings,1,2,A,NaN,NaN,NaN
+KOR,17/09/2006,07:00,Seongnam Ilhwa Chunma,Chunnam Dragons,0,0,D,NaN,NaN,NaN
+KOR,23/09/2006,07:30,Bucheon SK,Incheon United,2,3,A,NaN,NaN,NaN
+KOR,23/09/2006,11:00,Pohang Steelers,Seongnam Ilhwa Chunma,3,2,H,NaN,NaN,NaN
+KOR,23/09/2006,11:00,Chunnam Dragons,Busan IPark,1,3,A,NaN,NaN,NaN
+KOR,23/09/2006,11:00,Jeonbuk FC,Daegu FC,1,3,A,NaN,NaN,NaN
+KOR,23/09/2006,11:30,Gwangju Sangmu,Gyeongnam FC,0,1,A,NaN,NaN,NaN
+KOR,24/09/2006,07:00,FC Seoul,Daejeon Citizen,1,1,D,NaN,NaN,NaN
+KOR,24/09/2006,09:00,Suwon Bluewings,Ulsan Hyundai,1,0,H,NaN,NaN,NaN
+KOR,30/09/2006,08:00,Busan IPark,Seongnam Ilhwa Chunma,0,2,A,NaN,NaN,NaN
+KOR,30/09/2006,09:00,Suwon Bluewings,Gwangju Sangmu,1,0,H,NaN,NaN,NaN
+KOR,30/09/2006,11:00,Incheon United,Pohang Steelers,1,1,D,NaN,NaN,NaN
+KOR,30/09/2006,11:00,Daejeon Citizen,Bucheon SK,0,1,A,NaN,NaN,NaN
+KOR,30/09/2006,11:00,Gyeongnam FC,Chunnam Dragons,0,2,A,NaN,NaN,NaN
+KOR,30/09/2006,11:00,Daegu FC,FC Seoul,2,0,H,NaN,NaN,NaN
+KOR,01/10/2006,07:00,Ulsan Hyundai,Jeonbuk FC,0,0,D,NaN,NaN,NaN
+KOR,03/10/2006,07:00,Pohang Steelers,Busan IPark,4,1,H,NaN,NaN,NaN
+KOR,03/10/2006,07:00,Incheon United,Daejeon Citizen,1,0,H,NaN,NaN,NaN
+KOR,03/10/2006,07:00,Bucheon SK,Daegu FC,0,0,D,NaN,NaN,NaN
+KOR,03/10/2006,07:30,Chunnam Dragons,Suwon Bluewings,1,0,H,NaN,NaN,NaN
+KOR,03/10/2006,11:00,Seongnam Ilhwa Chunma,Gyeongnam FC,3,0,H,NaN,NaN,NaN
+KOR,04/10/2006,11:30,Gwangju Sangmu,Jeonbuk FC,2,1,H,NaN,NaN,NaN
+KOR,04/10/2006,12:00,FC Seoul,Ulsan Hyundai,2,2,D,NaN,NaN,NaN
+KOR,14/10/2006,06:10,Gyeongnam FC,Busan IPark,1,0,H,NaN,NaN,NaN
+KOR,14/10/2006,07:00,Ulsan Hyundai,Bucheon SK,2,2,D,NaN,NaN,NaN
+KOR,14/10/2006,07:00,Jeonbuk FC,Chunnam Dragons,1,0,H,NaN,NaN,NaN
+KOR,14/10/2006,07:30,Gwangju Sangmu,FC Seoul,0,2,A,NaN,NaN,NaN
+KOR,14/10/2006,09:00,Suwon Bluewings,Seongnam Ilhwa Chunma,3,0,H,NaN,NaN,NaN
+KOR,15/10/2006,07:00,Daejeon Citizen,Pohang Steelers,2,1,H,NaN,NaN,NaN
+KOR,15/10/2006,07:00,Daegu FC,Incheon United,3,2,H,NaN,NaN,NaN
+KOR,21/10/2006,07:00,Pohang Steelers,Gyeongnam FC,2,0,H,NaN,NaN,NaN
+KOR,21/10/2006,07:00,Bucheon SK,Gwangju Sangmu,1,0,H,NaN,NaN,NaN
+KOR,21/10/2006,08:00,Busan IPark,Suwon Bluewings,0,2,A,NaN,NaN,NaN
+KOR,21/10/2006,11:00,Chunnam Dragons,FC Seoul,0,2,A,NaN,NaN,NaN
+KOR,22/10/2006,07:00,Daejeon Citizen,Daegu FC,0,1,A,NaN,NaN,NaN
+KOR,22/10/2006,07:00,Incheon United,Ulsan Hyundai,1,0,H,NaN,NaN,NaN
+KOR,22/10/2006,07:00,Seongnam Ilhwa Chunma,Jeonbuk FC,3,3,D,NaN,NaN,NaN
+KOR,25/10/2006,11:00,Daegu FC,Pohang Steelers,1,1,D,NaN,NaN,NaN
+KOR,25/10/2006,11:00,Suwon Bluewings,Gyeongnam FC,2,0,H,NaN,NaN,NaN
+KOR,25/10/2006,11:00,Jeonbuk FC,Busan IPark,0,2,A,NaN,NaN,NaN
+KOR,25/10/2006,11:00,Gwangju Sangmu,Incheon United,2,0,H,NaN,NaN,NaN
+KOR,25/10/2006,11:00,Chunnam Dragons,Bucheon SK,2,1,H,NaN,NaN,NaN
+KOR,25/10/2006,11:30,Ulsan Hyundai,Daejeon Citizen,3,1,H,NaN,NaN,NaN
+KOR,25/10/2006,12:00,FC Seoul,Seongnam Ilhwa Chunma,2,2,D,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Pohang Steelers,Suwon Bluewings,2,0,H,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Daegu FC,Ulsan Hyundai,0,1,A,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Gyeongnam FC,Jeonbuk FC,3,0,H,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Daejeon Citizen,Gwangju Sangmu,3,1,H,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Busan IPark,FC Seoul,1,1,D,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Incheon United,Chunnam Dragons,0,2,A,NaN,NaN,NaN
+KOR,29/10/2006,07:00,Seongnam Ilhwa Chunma,Bucheon SK,3,3,D,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Ulsan Hyundai,Pohang Steelers,0,1,A,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Jeonbuk FC,Suwon Bluewings,1,1,D,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Gwangju Sangmu,Daegu FC,0,1,A,NaN,NaN,NaN
+KOR,05/11/2006,07:00,FC Seoul,Gyeongnam FC,1,0,H,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Chunnam Dragons,Daejeon Citizen,2,2,D,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Bucheon SK,Busan IPark,0,1,A,NaN,NaN,NaN
+KOR,05/11/2006,07:00,Seongnam Ilhwa Chunma,Incheon United,0,0,D,NaN,NaN,NaN

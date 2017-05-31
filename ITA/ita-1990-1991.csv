@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,09/09/1990,,Parma AC,Juventus,1,2,A,0,1,A
+ITA,09/09/1990,,Torino FC,Lazio Roma,0,0,D,0,0,D
+ITA,09/09/1990,,Sampdoria,AC Cesena,1,0,H,0,0,D
+ITA,09/09/1990,,AS Roma,ACF Fiorentina,4,0,H,2,0,H
+ITA,09/09/1990,,US Lecce,SSC Napoli,0,0,D,0,0,D
+ITA,09/09/1990,,Cagliari Calcio,Inter,0,3,A,0,0,D
+ITA,09/09/1990,,Bologna FC,Pisa SC,0,1,A,0,1,A
+ITA,09/09/1990,,Atalanta,AS Bari,2,0,H,0,0,D
+ITA,09/09/1990,,AC Milan,Genoa CFC,1,0,H,0,0,D
+ITA,16/09/1990,,Genoa CFC,AS Roma,3,0,H,2,0,H
+ITA,16/09/1990,,Pisa SC,US Lecce,4,0,H,1,0,H
+ITA,16/09/1990,,SSC Napoli,Cagliari Calcio,1,2,A,1,1,D
+ITA,16/09/1990,,Lazio Roma,Parma AC,0,0,D,0,0,D
+ITA,16/09/1990,,Inter,Bologna FC,1,0,H,0,0,D
+ITA,16/09/1990,,ACF Fiorentina,Sampdoria,0,0,D,0,0,D
+ITA,16/09/1990,,AC Cesena,AC Milan,0,1,A,0,0,D
+ITA,16/09/1990,,AS Bari,Torino FC,2,1,H,1,1,D
+ITA,16/09/1990,,Juventus,Atalanta,1,1,D,1,0,H
+ITA,23/09/1990,,AS Roma,AS Bari,1,0,H,0,0,D
+ITA,23/09/1990,,AC Milan,ACF Fiorentina,2,1,H,1,0,H
+ITA,23/09/1990,,Torino FC,Inter,2,0,H,0,0,D
+ITA,23/09/1990,,Sampdoria,Bologna FC,2,1,H,0,0,D
+ITA,23/09/1990,,Atalanta,Cagliari Calcio,2,1,H,2,1,H
+ITA,23/09/1990,,US Lecce,Lazio Roma,1,0,H,1,0,H
+ITA,23/09/1990,,AC Cesena,Juventus,1,1,D,0,1,A
+ITA,23/09/1990,,Pisa SC,Genoa CFC,0,0,D,0,0,D
+ITA,23/09/1990,,Parma AC,SSC Napoli,1,0,H,0,0,D
+ITA,30/09/1990,,ACF Fiorentina,Atalanta,3,1,H,2,0,H
+ITA,30/09/1990,,SSC Napoli,Pisa SC,2,1,H,1,0,H
+ITA,30/09/1990,,Lazio Roma,AC Milan,1,1,D,0,0,D
+ITA,30/09/1990,,Juventus,Sampdoria,0,0,D,0,0,D
+ITA,30/09/1990,,Genoa CFC,US Lecce,0,0,D,0,0,D
+ITA,30/09/1990,,Cagliari Calcio,AC Cesena,0,0,D,0,0,D
+ITA,30/09/1990,,Bologna FC,Torino FC,1,0,H,0,0,D
+ITA,30/09/1990,,AS Bari,Parma AC,2,2,D,1,0,H
+ITA,30/09/1990,,Inter,AS Roma,2,1,H,0,1,A
+ITA,07/10/1990,,Pisa SC,ACF Fiorentina,0,4,A,0,1,A
+ITA,07/10/1990,,AC Milan,Cagliari Calcio,2,0,H,2,0,H
+ITA,07/10/1990,,Torino FC,AS Roma,1,0,H,0,0,D
+ITA,07/10/1990,,Parma AC,Sampdoria,0,0,D,0,0,D
+ITA,07/10/1990,,Lazio Roma,Bologna FC,3,1,H,1,0,H
+ITA,07/10/1990,,Genoa CFC,SSC Napoli,1,1,D,0,0,D
+ITA,07/10/1990,,Atalanta,Inter,1,1,D,0,0,D
+ITA,07/10/1990,,AC Cesena,AS Bari,4,2,H,2,0,H
+ITA,07/10/1990,,US Lecce,Juventus,0,1,A,0,0,D
+ITA,21/10/1990,,ACF Fiorentina,Parma AC,2,3,A,1,3,A
+ITA,21/10/1990,,Sampdoria,Atalanta,4,1,H,2,1,H
+ITA,21/10/1990,,AS Roma,US Lecce,3,0,H,0,0,D
+ITA,21/10/1990,,SSC Napoli,AC Milan,1,1,D,0,0,D
+ITA,21/10/1990,,Inter,Pisa SC,6,3,H,3,0,H
+ITA,21/10/1990,,Cagliari Calcio,Torino FC,1,2,A,1,0,H
+ITA,21/10/1990,,Bologna FC,AC Cesena,0,1,A,0,0,D
+ITA,21/10/1990,,AS Bari,Genoa CFC,4,0,H,0,0,D
+ITA,21/10/1990,,Juventus,Lazio Roma,0,0,D,0,0,D
+ITA,28/10/1990,,AC Milan,Sampdoria,0,1,A,0,0,D
+ITA,28/10/1990,,Parma AC,AS Roma,2,1,H,2,1,H
+ITA,28/10/1990,,Pisa SC,Cagliari Calcio,1,0,H,1,0,H
+ITA,28/10/1990,,SSC Napoli,ACF Fiorentina,1,0,H,1,0,H
+ITA,28/10/1990,,Lazio Roma,AS Bari,1,1,D,1,1,D
+ITA,28/10/1990,,Juventus,Inter,4,2,H,2,1,H
+ITA,28/10/1990,,Genoa CFC,Bologna FC,0,0,D,0,0,D
+ITA,28/10/1990,,AC Cesena,Torino FC,2,2,D,1,1,D
+ITA,28/10/1990,,US Lecce,Atalanta,0,0,D,0,0,D
+ITA,11/11/1990,,Sampdoria,Pisa SC,4,2,H,1,0,H
+ITA,11/11/1990,,Atalanta,AC Milan,0,2,A,0,1,A
+ITA,11/11/1990,,Torino FC,US Lecce,2,0,H,2,0,H
+ITA,11/11/1990,,AS Roma,AC Cesena,4,1,H,0,0,D
+ITA,11/11/1990,,Inter,Parma AC,2,1,H,2,0,H
+ITA,11/11/1990,,Cagliari Calcio,Lazio Roma,0,1,A,0,0,D
+ITA,11/11/1990,,Bologna FC,Juventus,0,1,A,0,0,D
+ITA,11/11/1990,,AS Bari,SSC Napoli,0,0,D,0,0,D
+ITA,11/11/1990,,ACF Fiorentina,Genoa CFC,2,2,D,1,1,D
+ITA,18/11/1990,,Juventus,AS Roma,5,0,H,2,0,H
+ITA,18/11/1990,,Pisa SC,Parma AC,0,2,A,0,1,A
+ITA,18/11/1990,,SSC Napoli,Sampdoria,1,4,A,1,2,A
+ITA,18/11/1990,,AC Milan,Inter,0,1,A,0,0,D
+ITA,18/11/1990,,Bologna FC,AS Bari,3,0,H,0,0,D
+ITA,18/11/1990,,Lazio Roma,Atalanta,2,2,D,1,2,A
+ITA,18/11/1990,,Genoa CFC,Torino FC,0,0,D,0,0,D
+ITA,18/11/1990,,Cagliari Calcio,ACF Fiorentina,1,1,D,0,1,A
+ITA,18/11/1990,,US Lecce,AC Cesena,2,0,H,1,0,H
+ITA,25/11/1990,,Parma AC,Cagliari Calcio,2,0,H,0,0,D
+ITA,25/11/1990,,Torino FC,AC Milan,1,1,D,1,0,H
+ITA,25/11/1990,,Sampdoria,Genoa CFC,1,2,A,0,1,A
+ITA,25/11/1990,,AS Roma,Bologna FC,4,1,H,1,1,D
+ITA,25/11/1990,,ACF Fiorentina,US Lecce,0,0,D,0,0,D
+ITA,25/11/1990,,AC Cesena,Lazio Roma,1,1,D,1,0,H
+ITA,25/11/1990,,AS Bari,Juventus,2,0,H,2,0,H
+ITA,25/11/1990,,Atalanta,Pisa SC,1,0,H,1,0,H
+ITA,25/11/1990,,Inter,SSC Napoli,2,1,H,0,0,D
+ITA,02/12/1990,,Genoa CFC,Parma AC,2,1,H,2,0,H
+ITA,02/12/1990,,Pisa SC,AC Cesena,3,2,H,2,2,D
+ITA,02/12/1990,,SSC Napoli,Torino FC,2,1,H,0,0,D
+ITA,02/12/1990,,AC Milan,US Lecce,1,0,H,0,0,D
+ITA,02/12/1990,,Juventus,ACF Fiorentina,2,1,H,2,1,H
+ITA,02/12/1990,,Cagliari Calcio,Sampdoria,0,0,D,0,0,D
+ITA,02/12/1990,,Bologna FC,Atalanta,1,1,D,0,1,A
+ITA,02/12/1990,,AS Bari,Inter,1,1,D,1,1,D
+ITA,02/12/1990,,Lazio Roma,AS Roma,1,1,D,0,1,A
+ITA,09/12/1990,,Lazio Roma,Genoa CFC,1,1,D,1,0,H
+ITA,09/12/1990,,Torino FC,Juventus,1,1,D,1,0,H
+ITA,09/12/1990,,Sampdoria,AS Roma,2,1,H,1,1,D
+ITA,09/12/1990,,Parma AC,Bologna FC,1,1,D,1,0,H
+ITA,09/12/1990,,ACF Fiorentina,AS Bari,1,1,D,1,1,D
+ITA,09/12/1990,,AC Cesena,Inter,1,5,A,1,1,D
+ITA,09/12/1990,,Atalanta,SSC Napoli,0,0,D,0,0,D
+ITA,09/12/1990,,AC Milan,Pisa SC,1,0,H,1,0,H
+ITA,09/12/1990,,US Lecce,Cagliari Calcio,2,0,H,1,0,H
+ITA,16/12/1990,,Inter,ACF Fiorentina,1,1,D,0,1,A
+ITA,16/12/1990,,AS Roma,AC Milan,0,0,D,0,0,D
+ITA,16/12/1990,,Pisa SC,Torino FC,2,0,H,2,0,H
+ITA,16/12/1990,,Parma AC,Atalanta,1,0,H,1,0,H
+ITA,16/12/1990,,Juventus,Cagliari Calcio,2,2,D,2,1,H
+ITA,16/12/1990,,Genoa CFC,AC Cesena,4,1,H,2,1,H
+ITA,16/12/1990,,Bologna FC,US Lecce,1,1,D,0,1,A
+ITA,16/12/1990,,AS Bari,Sampdoria,1,1,D,1,1,D
+ITA,16/12/1990,,SSC Napoli,Lazio Roma,2,1,H,2,1,H
+ITA,30/12/1990,,ACF Fiorentina,Bologna FC,1,0,H,1,0,H
+ITA,30/12/1990,,Sampdoria,Inter,3,1,H,1,0,H
+ITA,30/12/1990,,AC Milan,Juventus,2,0,H,0,0,D
+ITA,30/12/1990,,Torino FC,Parma AC,0,0,D,0,0,D
+ITA,30/12/1990,,AC Cesena,SSC Napoli,0,0,D,0,0,D
+ITA,30/12/1990,,Cagliari Calcio,Genoa CFC,1,0,H,1,0,H
+ITA,30/12/1990,,Atalanta,AS Roma,2,2,D,2,0,H
+ITA,30/12/1990,,US Lecce,AS Bari,1,1,D,1,0,H
+ITA,30/12/1990,,Lazio Roma,Pisa SC,0,0,D,0,0,D
+ITA,06/01/1991,,ACF Fiorentina,Lazio Roma,1,1,D,1,1,D
+ITA,06/01/1991,,Sampdoria,Torino FC,1,2,A,0,1,A
+ITA,06/01/1991,,AS Roma,Cagliari Calcio,0,0,D,0,0,D
+ITA,06/01/1991,,Parma AC,US Lecce,0,0,D,0,0,D
+ITA,06/01/1991,,Inter,Genoa CFC,2,1,H,1,0,H
+ITA,06/01/1991,,Bologna FC,AC Milan,1,1,D,1,1,D
+ITA,06/01/1991,,AS Bari,Pisa SC,2,0,H,1,0,H
+ITA,06/01/1991,,Atalanta,AC Cesena,3,0,H,3,0,H
+ITA,06/01/1991,,Juventus,SSC Napoli,1,0,H,0,0,D
+ITA,13/01/1991,,Lazio Roma,Inter,0,0,D,0,0,D
+ITA,13/01/1991,,Pisa SC,Juventus,1,5,A,0,2,A
+ITA,13/01/1991,,SSC Napoli,AS Roma,1,1,D,1,0,H
+ITA,13/01/1991,,Torino FC,ACF Fiorentina,1,1,D,1,0,H
+ITA,13/01/1991,,Genoa CFC,Atalanta,2,0,H,2,0,H
+ITA,13/01/1991,,AC Cesena,Parma AC,0,1,A,0,1,A
+ITA,13/01/1991,,Cagliari Calcio,Bologna FC,0,0,D,0,0,D
+ITA,13/01/1991,,AC Milan,AS Bari,2,0,H,1,0,H
+ITA,13/01/1991,,US Lecce,Sampdoria,1,0,H,0,0,D
+ITA,20/01/1991,,ACF Fiorentina,AC Cesena,2,0,H,2,0,H
+ITA,20/01/1991,,Sampdoria,Lazio Roma,1,1,D,0,0,D
+ITA,20/01/1991,,AS Roma,Pisa SC,0,2,A,0,0,D
+ITA,20/01/1991,,Parma AC,AC Milan,2,0,H,2,0,H
+ITA,20/01/1991,,Inter,US Lecce,5,0,H,2,0,H
+ITA,20/01/1991,,Bologna FC,SSC Napoli,1,0,H,0,0,D
+ITA,20/01/1991,,AS Bari,Cagliari Calcio,4,1,H,1,1,D
+ITA,20/01/1991,,Atalanta,Torino FC,0,1,A,0,0,D
+ITA,20/01/1991,,Juventus,Genoa CFC,0,1,A,0,1,A
+ITA,27/01/1991,,Juventus,Parma AC,5,0,H,1,0,H
+ITA,27/01/1991,,SSC Napoli,US Lecce,2,2,D,1,1,D
+ITA,27/01/1991,,AC Cesena,Sampdoria,0,1,A,0,1,A
+ITA,27/01/1991,,Lazio Roma,Torino FC,2,1,H,1,0,H
+ITA,27/01/1991,,Pisa SC,Bologna FC,2,2,D,1,0,H
+ITA,27/01/1991,,ACF Fiorentina,AS Roma,1,1,D,1,0,H
+ITA,27/01/1991,,AS Bari,Atalanta,4,1,H,2,0,H
+ITA,27/01/1991,,Genoa CFC,AC Milan,1,1,D,0,0,D
+ITA,27/01/1991,,Inter,Cagliari Calcio,1,1,D,1,0,H
+ITA,03/02/1991,,US Lecce,Pisa SC,1,1,D,1,0,H
+ITA,03/02/1991,,Torino FC,AS Bari,4,0,H,1,0,H
+ITA,03/02/1991,,Sampdoria,ACF Fiorentina,1,0,H,0,0,D
+ITA,03/02/1991,,AS Roma,Genoa CFC,3,1,H,2,0,H
+ITA,03/02/1991,,AC Milan,AC Cesena,2,0,H,1,0,H
+ITA,03/02/1991,,Cagliari Calcio,SSC Napoli,1,1,D,1,0,H
+ITA,03/02/1991,,Bologna FC,Inter,0,0,D,0,0,D
+ITA,03/02/1991,,Atalanta,Juventus,0,0,D,0,0,D
+ITA,03/02/1991,,Parma AC,Lazio Roma,0,0,D,0,0,D
+ITA,10/02/1991,,Juventus,AC Cesena,3,0,H,1,0,H
+ITA,10/02/1991,,ACF Fiorentina,AC Milan,0,0,D,0,0,D
+ITA,10/02/1991,,SSC Napoli,Parma AC,4,2,H,2,0,H
+ITA,10/02/1991,,Lazio Roma,US Lecce,2,0,H,2,0,H
+ITA,10/02/1991,,AS Bari,AS Roma,0,1,A,0,0,D
+ITA,10/02/1991,,Cagliari Calcio,Atalanta,1,1,D,0,1,A
+ITA,10/02/1991,,Bologna FC,Sampdoria,0,3,A,0,1,A
+ITA,10/02/1991,,Inter,Torino FC,1,0,H,1,0,H
+ITA,10/02/1991,,Genoa CFC,Pisa SC,4,2,H,1,1,D
+ITA,17/02/1991,,AC Milan,Lazio Roma,3,1,H,1,0,H
+ITA,17/02/1991,,Torino FC,Bologna FC,4,1,H,1,1,D
+ITA,17/02/1991,,Sampdoria,Juventus,1,0,H,0,0,D
+ITA,17/02/1991,,AS Roma,Inter,1,1,D,0,0,D
+ITA,17/02/1991,,Parma AC,AS Bari,1,0,H,0,0,D
+ITA,17/02/1991,,US Lecce,Genoa CFC,0,3,A,0,2,A
+ITA,17/02/1991,,AC Cesena,Cagliari Calcio,3,0,H,1,0,H
+ITA,17/02/1991,,Atalanta,ACF Fiorentina,2,1,H,1,0,H
+ITA,17/02/1991,,Pisa SC,SSC Napoli,1,1,D,0,0,D
+ITA,24/02/1991,,ACF Fiorentina,Pisa SC,4,0,H,2,0,H
+ITA,24/02/1991,,SSC Napoli,Genoa CFC,1,0,H,0,0,D
+ITA,24/02/1991,,Sampdoria,Parma AC,1,0,H,0,0,D
+ITA,24/02/1991,,AS Roma,Torino FC,2,0,H,1,0,H
+ITA,24/02/1991,,AS Bari,AC Cesena,1,0,H,1,0,H
+ITA,24/02/1991,,Juventus,US Lecce,0,0,D,0,0,D
+ITA,24/02/1991,,Cagliari Calcio,AC Milan,1,1,D,0,1,A
+ITA,24/02/1991,,Bologna FC,Lazio Roma,1,2,A,0,1,A
+ITA,24/02/1991,,Inter,Atalanta,3,1,H,1,1,D
+ITA,03/03/1991,,Lazio Roma,Juventus,1,0,H,1,0,H
+ITA,03/03/1991,,Torino FC,Cagliari Calcio,1,1,D,0,1,A
+ITA,03/03/1991,,Pisa SC,Inter,0,1,A,0,0,D
+ITA,03/03/1991,,Parma AC,ACF Fiorentina,1,0,H,1,0,H
+ITA,03/03/1991,,US Lecce,AS Roma,1,1,D,1,1,D
+ITA,03/03/1991,,Genoa CFC,AS Bari,3,1,H,1,1,D
+ITA,03/03/1991,,AC Cesena,Bologna FC,3,2,H,0,1,A
+ITA,03/03/1991,,Atalanta,Sampdoria,1,1,D,0,1,A
+ITA,03/03/1991,,AC Milan,SSC Napoli,4,1,H,2,0,H
+ITA,10/03/1991,,Cagliari Calcio,Pisa SC,2,1,H,1,0,H
+ITA,10/03/1991,,Sampdoria,AC Milan,2,0,H,0,0,D
+ITA,10/03/1991,,AS Roma,Parma AC,1,1,D,1,1,D
+ITA,10/03/1991,,Torino FC,AC Cesena,2,1,H,0,1,A
+ITA,10/03/1991,,Bologna FC,Genoa CFC,0,3,A,0,1,A
+ITA,10/03/1991,,AS Bari,Lazio Roma,0,0,D,0,0,D
+ITA,10/03/1991,,Atalanta,US Lecce,2,1,H,1,1,D
+ITA,10/03/1991,,Inter,Juventus,2,0,H,1,0,H
+ITA,10/03/1991,,ACF Fiorentina,SSC Napoli,0,0,D,0,0,D
+ITA,17/03/1991,,Lazio Roma,Cagliari Calcio,1,1,D,0,0,D
+ITA,17/03/1991,,Pisa SC,Sampdoria,0,3,A,0,0,D
+ITA,17/03/1991,,Parma AC,Inter,0,0,D,0,0,D
+ITA,17/03/1991,,SSC Napoli,AS Bari,1,0,H,0,0,D
+ITA,17/03/1991,,US Lecce,Torino FC,1,1,D,1,1,D
+ITA,17/03/1991,,Juventus,Bologna FC,1,1,D,0,1,A
+ITA,17/03/1991,,Genoa CFC,ACF Fiorentina,3,2,H,1,1,D
+ITA,17/03/1991,,AC Cesena,AS Roma,1,1,D,0,0,D
+ITA,17/03/1991,,AC Milan,Atalanta,0,1,A,0,0,D
+ITA,24/03/1991,,AS Roma,Juventus,0,1,A,0,0,D
+ITA,24/03/1991,,Sampdoria,SSC Napoli,4,1,H,2,0,H
+ITA,24/03/1991,,Inter,AC Milan,0,1,A,0,0,D
+ITA,24/03/1991,,Parma AC,Pisa SC,2,3,A,0,1,A
+ITA,24/03/1991,,AC Cesena,US Lecce,3,1,H,2,0,H
+ITA,24/03/1991,,AS Bari,Bologna FC,4,0,H,2,0,H
+ITA,24/03/1991,,Atalanta,Lazio Roma,4,1,H,2,1,H
+ITA,24/03/1991,,ACF Fiorentina,Cagliari Calcio,4,1,H,1,1,D
+ITA,24/03/1991,,Torino FC,Genoa CFC,5,2,H,3,1,H
+ITA,30/03/1991,,Juventus,AS Bari,3,1,H,1,1,D
+ITA,30/03/1991,,Pisa SC,Atalanta,0,2,A,0,0,D
+ITA,30/03/1991,,SSC Napoli,Inter,1,1,D,0,0,D
+ITA,30/03/1991,,AC Milan,Torino FC,1,0,H,0,0,D
+ITA,30/03/1991,,Lazio Roma,AC Cesena,1,1,D,1,0,H
+ITA,30/03/1991,,Genoa CFC,Sampdoria,0,0,D,0,0,D
+ITA,30/03/1991,,Cagliari Calcio,Parma AC,2,1,H,1,0,H
+ITA,30/03/1991,,Bologna FC,AS Roma,2,3,A,2,1,H
+ITA,30/03/1991,,US Lecce,ACF Fiorentina,2,0,H,1,0,H
+ITA,07/04/1991,,AS Roma,Lazio Roma,1,1,D,0,0,D
+ITA,07/04/1991,,Inter,AS Bari,5,1,H,1,0,H
+ITA,07/04/1991,,Torino FC,SSC Napoli,1,1,D,1,1,D
+ITA,07/04/1991,,Sampdoria,Cagliari Calcio,2,2,D,2,0,H
+ITA,07/04/1991,,Atalanta,Bologna FC,4,0,H,3,0,H
+ITA,07/04/1991,,ACF Fiorentina,Juventus,1,0,H,1,0,H
+ITA,07/04/1991,,AC Cesena,Pisa SC,1,1,D,1,1,D
+ITA,07/04/1991,,Parma AC,Genoa CFC,2,1,H,1,1,D
+ITA,07/04/1991,,US Lecce,AC Milan,0,3,A,0,1,A
+ITA,14/04/1991,,Genoa CFC,Lazio Roma,3,1,H,1,0,H
+ITA,14/04/1991,,AS Roma,Sampdoria,0,1,A,0,0,D
+ITA,14/04/1991,,Pisa SC,AC Milan,0,1,A,0,0,D
+ITA,14/04/1991,,SSC Napoli,Atalanta,2,0,H,2,0,H
+ITA,14/04/1991,,Inter,AC Cesena,2,0,H,1,0,H
+ITA,14/04/1991,,Cagliari Calcio,US Lecce,2,0,H,1,0,H
+ITA,14/04/1991,,Bologna FC,Parma AC,1,3,A,1,1,D
+ITA,14/04/1991,,AS Bari,ACF Fiorentina,0,0,D,0,0,D
+ITA,14/04/1991,,Juventus,Torino FC,1,2,A,0,1,A
+ITA,21/04/1991,,US Lecce,Bologna FC,1,3,A,1,0,H
+ITA,21/04/1991,,Lazio Roma,SSC Napoli,0,2,A,0,0,D
+ITA,21/04/1991,,AC Milan,AS Roma,1,1,D,0,0,D
+ITA,21/04/1991,,Torino FC,Pisa SC,1,0,H,0,0,D
+ITA,21/04/1991,,AC Cesena,Genoa CFC,1,1,D,1,1,D
+ITA,21/04/1991,,Cagliari Calcio,Juventus,0,0,D,0,0,D
+ITA,21/04/1991,,Atalanta,Parma AC,0,0,D,0,0,D
+ITA,21/04/1991,,ACF Fiorentina,Inter,0,0,D,0,0,D
+ITA,21/04/1991,,Sampdoria,AS Bari,3,2,H,2,0,H
+ITA,05/05/1991,,Inter,Sampdoria,0,2,A,0,0,D
+ITA,05/05/1991,,AS Roma,Atalanta,2,1,H,0,1,A
+ITA,05/05/1991,,Pisa SC,Lazio Roma,0,1,A,0,0,D
+ITA,05/05/1991,,Parma AC,Torino FC,0,0,D,0,0,D
+ITA,05/05/1991,,Juventus,AC Milan,0,3,A,0,2,A
+ITA,05/05/1991,,Genoa CFC,Cagliari Calcio,2,2,D,1,2,A
+ITA,05/05/1991,,Bologna FC,ACF Fiorentina,1,1,D,1,1,D
+ITA,05/05/1991,,AS Bari,US Lecce,1,1,D,0,0,D
+ITA,05/05/1991,,SSC Napoli,AC Cesena,1,0,H,1,0,H
+ITA,12/05/1991,,US Lecce,Parma AC,1,0,H,0,0,D
+ITA,12/05/1991,,AC Milan,Bologna FC,6,0,H,1,0,H
+ITA,12/05/1991,,SSC Napoli,Juventus,1,1,D,1,0,H
+ITA,12/05/1991,,Torino FC,Sampdoria,1,1,D,0,1,A
+ITA,12/05/1991,,Genoa CFC,Inter,3,0,H,1,0,H
+ITA,12/05/1991,,AC Cesena,Atalanta,0,1,A,0,0,D
+ITA,12/05/1991,,Cagliari Calcio,AS Roma,0,0,D,0,0,D
+ITA,12/05/1991,,Pisa SC,AS Bari,1,0,H,0,0,D
+ITA,12/05/1991,,Lazio Roma,ACF Fiorentina,2,1,H,1,1,D
+ITA,19/05/1991,,Juventus,Pisa SC,4,2,H,2,0,H
+ITA,19/05/1991,,Sampdoria,US Lecce,3,0,H,3,0,H
+ITA,19/05/1991,,Parma AC,AC Cesena,2,0,H,1,0,H
+ITA,19/05/1991,,Inter,Lazio Roma,2,0,H,0,0,D
+ITA,19/05/1991,,ACF Fiorentina,Torino FC,0,0,D,0,0,D
+ITA,19/05/1991,,Bologna FC,Cagliari Calcio,1,2,A,0,1,A
+ITA,19/05/1991,,AS Bari,AC Milan,2,1,H,1,0,H
+ITA,19/05/1991,,Atalanta,Genoa CFC,0,0,D,0,0,D
+ITA,19/05/1991,,AS Roma,SSC Napoli,1,1,D,1,0,H
+ITA,26/05/1991,,Pisa SC,AS Roma,0,1,A,0,0,D
+ITA,26/05/1991,,Cagliari Calcio,AS Bari,1,1,D,0,1,A
+ITA,26/05/1991,,AC Cesena,ACF Fiorentina,0,4,A,0,1,A
+ITA,26/05/1991,,Genoa CFC,Juventus,2,0,H,1,0,H
+ITA,26/05/1991,,Lazio Roma,Sampdoria,3,3,D,2,2,D
+ITA,26/05/1991,,US Lecce,Inter,0,2,A,0,0,D
+ITA,26/05/1991,,AC Milan,Parma AC,0,0,D,0,0,D
+ITA,26/05/1991,,SSC Napoli,Bologna FC,3,2,H,2,0,H
+ITA,26/05/1991,,Torino FC,Atalanta,0,0,D,0,0,D

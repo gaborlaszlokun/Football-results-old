@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+EST,04/03/2016,17:00,JK Tammeka,JK Narva Trans,2,2,D,0,1,A
+EST,05/03/2016,11:00,Paide Linnameeskond,FC Infonet,0,2,A,0,1,A
+EST,05/03/2016,11:00,Pärnu Linnameeskond,Rakvere JK Tarvas,3,0,H,0,0,D
+EST,05/03/2016,11:00,JK Nõmme Kalju,JK Sillamäe Kalev,2,0,H,0,0,D
+EST,05/03/2016,14:00,FC Levadia,FC Flora,0,0,D,0,0,D
+EST,08/03/2016,16:00,FC Levadia,Pärnu Linnameeskond,1,0,H,0,0,D
+EST,08/03/2016,16:00,JK Narva Trans,JK Sillamäe Kalev,3,3,D,0,0,D
+EST,08/03/2016,17:00,JK Tammeka,Paide Linnameeskond,2,0,H,1,0,H
+EST,08/03/2016,18:00,FC Flora,Rakvere JK Tarvas,6,0,H,5,0,H
+EST,09/03/2016,17:00,FC Infonet,JK Nõmme Kalju,2,1,H,2,1,H
+EST,12/03/2016,11:00,JK Nõmme Kalju,Rakvere JK Tarvas,3,1,H,2,1,H
+EST,12/03/2016,11:00,JK Sillamäe Kalev,Pärnu Linnameeskond,4,1,H,1,1,D
+EST,12/03/2016,11:00,Paide Linnameeskond,FC Levadia,0,1,A,0,1,A
+EST,12/03/2016,14:00,FC Flora,JK Narva Trans,3,0,H,1,0,H
+EST,12/03/2016,17:00,FC Infonet,JK Tammeka,4,0,H,3,0,H
+EST,18/03/2016,17:00,JK Narva Trans,FC Levadia,1,1,D,1,0,H
+EST,19/03/2016,11:00,Pärnu Linnameeskond,FC Infonet,0,2,A,0,1,A
+EST,19/03/2016,11:00,JK Sillamäe Kalev,Paide Linnameeskond,1,1,D,0,1,A
+EST,19/03/2016,11:00,JK Tammeka,Rakvere JK Tarvas,3,1,H,2,0,H
+EST,19/03/2016,14:00,JK Nõmme Kalju,FC Flora,2,0,H,1,0,H
+EST,01/04/2016,17:00,JK Tammeka,JK Sillamäe Kalev,4,0,H,1,0,H
+EST,01/04/2016,17:00,FC Infonet,FC Flora,1,1,D,1,0,H
+EST,02/04/2016,11:00,JK Narva Trans,Rakvere JK Tarvas,2,2,D,2,1,H
+EST,02/04/2016,11:00,Paide Linnameeskond,Pärnu Linnameeskond,4,0,H,2,0,H
+EST,02/04/2016,14:00,FC Levadia,JK Nõmme Kalju,1,1,D,1,0,H
+EST,04/04/2016,16:00,JK Sillamäe Kalev,FC Infonet,2,2,D,1,0,H
+EST,04/04/2016,18:00,FC Flora,JK Tammeka,0,0,D,0,0,D
+EST,05/04/2016,16:00,Pärnu Linnameeskond,JK Nõmme Kalju,0,1,A,0,0,D
+EST,05/04/2016,17:00,FC Levadia,Rakvere JK Tarvas,2,0,H,2,0,H
+EST,05/04/2016,17:00,JK Narva Trans,Paide Linnameeskond,2,3,A,1,0,H
+EST,08/04/2016,17:00,FC Flora,JK Sillamäe Kalev,0,0,D,0,0,D
+EST,09/04/2016,11:00,Pärnu Linnameeskond,JK Tammeka,0,1,A,0,0,D
+EST,09/04/2016,11:00,Rakvere JK Tarvas,Paide Linnameeskond,0,5,A,0,3,A
+EST,09/04/2016,14:00,JK Nõmme Kalju,JK Narva Trans,6,0,H,3,0,H
+EST,09/04/2016,16:30,FC Levadia,FC Infonet,1,0,H,1,0,H
+EST,15/04/2016,17:00,JK Tammeka,JK Nõmme Kalju,0,3,A,0,1,A
+EST,16/04/2016,11:00,FC Infonet,Rakvere JK Tarvas,4,1,H,2,0,H
+EST,16/04/2016,11:00,Paide Linnameeskond,FC Flora,1,1,D,1,1,D
+EST,16/04/2016,14:00,JK Sillamäe Kalev,FC Levadia,0,2,A,0,1,A
+EST,16/04/2016,17:00,JK Narva Trans,Pärnu Linnameeskond,4,0,H,2,0,H
+EST,22/04/2016,17:00,FC Levadia,JK Tammeka,1,1,D,1,0,H
+EST,22/04/2016,17:00,Pärnu Linnameeskond,FC Flora,0,3,A,0,1,A
+EST,23/04/2016,11:00,JK Narva Trans,FC Infonet,0,3,A,0,3,A
+EST,23/04/2016,14:00,JK Sillamäe Kalev,Rakvere JK Tarvas,1,0,H,1,0,H
+EST,23/04/2016,17:00,JK Nõmme Kalju,Paide Linnameeskond,1,0,H,0,0,D
+EST,29/04/2016,17:00,Rakvere JK Tarvas,JK Narva Trans,0,1,A,0,1,A
+EST,29/04/2016,17:00,JK Tammeka,FC Levadia,1,4,A,1,2,A
+EST,29/04/2016,17:00,FC Flora,Pärnu Linnameeskond,6,0,H,3,0,H
+EST,30/04/2016,14:00,Paide Linnameeskond,JK Nõmme Kalju,1,1,D,0,0,D
+EST,30/04/2016,17:00,FC Infonet,JK Sillamäe Kalev,0,0,D,0,0,D
+EST,06/05/2016,17:00,Pärnu Linnameeskond,JK Narva Trans,0,1,A,0,1,A
+EST,06/05/2016,17:00,FC Flora,Paide Linnameeskond,2,0,H,0,0,D
+EST,07/05/2016,11:00,JK Nõmme Kalju,JK Tammeka,2,0,H,1,0,H
+EST,07/05/2016,14:00,Rakvere JK Tarvas,FC Infonet,0,1,A,0,0,D
+EST,07/05/2016,17:00,FC Levadia,JK Sillamäe Kalev,2,1,H,0,0,D
+EST,13/05/2016,17:00,JK Tammeka,Pärnu Linnameeskond,2,1,H,1,0,H
+EST,13/05/2016,17:00,Paide Linnameeskond,Rakvere JK Tarvas,4,2,H,1,1,D
+EST,13/05/2016,17:00,JK Sillamäe Kalev,FC Flora,2,4,A,0,3,A
+EST,14/05/2016,14:00,FC Infonet,FC Levadia,3,2,H,1,1,D
+EST,14/05/2016,17:00,JK Narva Trans,JK Nõmme Kalju,1,1,D,0,1,A
+EST,16/05/2016,17:00,FC Flora,JK Tammeka,0,0,D,0,0,D
+EST,17/05/2016,16:00,FC Infonet,JK Narva Trans,2,1,H,1,0,H
+EST,17/05/2016,17:00,JK Sillamäe Kalev,Paide Linnameeskond,0,0,D,0,0,D
+EST,17/05/2016,17:00,JK Nõmme Kalju,Pärnu Linnameeskond,3,0,H,2,0,H
+EST,17/05/2016,18:00,Rakvere JK Tarvas,FC Levadia,0,4,A,0,2,A
+EST,23/05/2016,17:00,JK Tammeka,FC Infonet,1,2,A,1,0,H
+EST,24/05/2016,16:00,JK Narva Trans,FC Flora,1,2,A,0,0,D
+EST,24/05/2016,17:00,Rakvere JK Tarvas,JK Sillamäe Kalev,0,3,A,0,2,A
+EST,24/05/2016,17:00,Pärnu Linnameeskond,Paide Linnameeskond,0,3,A,0,2,A
+EST,24/05/2016,18:00,JK Nõmme Kalju,FC Levadia,0,1,A,0,1,A
+EST,10/05/2016,16:00,FC Levadia,JK Narva Trans,1,0,H,1,0,H
+EST,10/05/2016,17:00,Paide Linnameeskond,FC Infonet,1,4,A,1,2,A
+EST,10/05/2016,18:00,FC Flora,JK Nõmme Kalju,0,0,D,0,0,D
+EST,09/06/2016,16:00,Rakvere JK Tarvas,JK Tammeka,0,1,A,0,0,D
+EST,09/06/2016,18:00,Pärnu Linnameeskond,JK Sillamäe Kalev,0,2,A,0,1,A
+EST,19/06/2016,11:00,FC Infonet,Pärnu Linnameeskond,3,1,H,3,1,H
+EST,19/06/2016,11:00,JK Narva Trans,JK Tammeka,4,1,H,0,1,A
+EST,19/06/2016,11:00,Rakvere JK Tarvas,FC Flora,0,5,A,0,4,A
+EST,19/06/2016,14:00,JK Sillamäe Kalev,JK Nõmme Kalju,1,3,A,1,0,H
+EST,19/06/2016,17:00,FC Levadia,Paide Linnameeskond,4,0,H,3,0,H
+EST,26/04/2016,17:00,JK Nõmme Kalju,FC Infonet,2,1,H,0,0,D
+EST,26/04/2016,17:00,FC Flora,FC Levadia,1,2,A,0,1,A
+EST,01/07/2016,17:00,JK Tammeka,JK Sillamäe Kalev,0,0,D,0,0,D
+EST,02/07/2016,14:00,Paide Linnameeskond,JK Narva Trans,3,2,H,1,2,A
+EST,02/07/2016,17:00,Rakvere JK Tarvas,Pärnu Linnameeskond,1,2,A,0,0,D
+EST,08/07/2016,17:00,JK Sillamäe Kalev,JK Narva Trans,3,0,H,1,0,H
+EST,09/07/2016,14:00,Paide Linnameeskond,JK Tammeka,3,0,H,1,0,H
+EST,10/07/2016,14:00,Pärnu Linnameeskond,FC Levadia,1,0,H,0,0,D
+EST,10/07/2016,14:00,Rakvere JK Tarvas,JK Nõmme Kalju,1,6,A,0,1,A
+EST,10/07/2016,14:00,FC Infonet,FC Flora,4,3,H,3,1,H
+EST,15/07/2016,17:00,JK Sillamäe Kalev,Rakvere JK Tarvas,4,0,H,3,0,H
+EST,16/07/2016,14:00,JK Tammeka,Pärnu Linnameeskond,2,0,H,1,0,H
+EST,16/07/2016,17:00,JK Narva Trans,Paide Linnameeskond,3,1,H,0,0,D
+EST,01/08/2016,17:00,FC Flora,FC Levadia,6,1,H,2,1,H
+EST,27/09/2016,11:05,FC Infonet,JK Nõmme Kalju,2,2,D,0,2,A
+EST,22/07/2016,17:00,JK Tammeka,FC Flora,0,4,A,0,2,A
+EST,23/07/2016,14:00,JK Narva Trans,JK Sillamäe Kalev,1,3,A,1,1,D
+EST,23/07/2016,17:00,FC Infonet,Rakvere JK Tarvas,6,0,H,2,0,H
+EST,24/07/2016,17:00,JK Nõmme Kalju,Pärnu Linnameeskond,0,0,D,0,0,D
+EST,24/07/2016,17:00,FC Levadia,Paide Linnameeskond,7,1,H,3,1,H
+EST,29/07/2016,17:00,Paide Linnameeskond,FC Flora,0,3,A,0,2,A
+EST,29/07/2016,17:00,Pärnu Linnameeskond,FC Levadia,0,4,A,0,2,A
+EST,30/07/2016,14:00,FC Infonet,JK Narva Trans,4,3,H,3,1,H
+EST,30/07/2016,17:00,JK Sillamäe Kalev,JK Tammeka,5,1,H,1,1,D
+EST,25/10/2016,17:00,Rakvere JK Tarvas,JK Nõmme Kalju,1,2,A,0,1,A
+EST,05/08/2016,17:00,JK Tammeka,FC Infonet,0,1,A,0,0,D
+EST,05/08/2016,17:00,Pärnu Linnameeskond,Rakvere JK Tarvas,2,1,H,1,0,H
+EST,06/08/2016,14:00,FC Levadia,JK Sillamäe Kalev,2,1,H,1,1,D
+EST,06/08/2016,17:00,FC Flora,JK Narva Trans,4,1,H,1,0,H
+EST,07/08/2016,17:00,JK Nõmme Kalju,Paide Linnameeskond,1,1,D,0,0,D
+EST,12/08/2016,17:00,FC Flora,Pärnu Linnameeskond,3,0,H,1,0,H
+EST,12/08/2016,17:00,JK Narva Trans,Rakvere JK Tarvas,1,1,D,1,1,D
+EST,12/08/2016,17:00,JK Sillamäe Kalev,JK Nõmme Kalju,0,1,A,0,0,D
+EST,13/08/2016,14:00,Paide Linnameeskond,JK Tammeka,3,1,H,1,1,D
+EST,13/08/2016,17:00,FC Infonet,FC Levadia,0,0,D,0,0,D
+EST,15/08/2016,17:00,JK Nõmme Kalju,JK Narva Trans,2,0,H,0,0,D
+EST,16/08/2016,16:00,Pärnu Linnameeskond,FC Infonet,0,5,A,0,2,A
+EST,16/08/2016,17:00,Paide Linnameeskond,JK Sillamäe Kalev,1,3,A,1,1,D
+EST,16/08/2016,17:00,Rakvere JK Tarvas,FC Flora,1,4,A,0,3,A
+EST,16/08/2016,18:00,JK Tammeka,FC Levadia,1,2,A,1,0,H
+EST,19/08/2016,17:00,FC Infonet,Paide Linnameeskond,1,0,H,0,0,D
+EST,19/08/2016,17:00,JK Narva Trans,Pärnu Linnameeskond,3,1,H,1,1,D
+EST,19/08/2016,17:00,JK Sillamäe Kalev,FC Flora,1,4,A,1,4,A
+EST,20/08/2016,14:00,FC Levadia,Rakvere JK Tarvas,4,0,H,1,0,H
+EST,20/08/2016,17:00,JK Nõmme Kalju,JK Tammeka,3,0,H,0,0,D
+EST,22/08/2016,17:00,Pärnu Linnameeskond,JK Sillamäe Kalev,2,5,A,1,3,A
+EST,23/08/2016,16:00,FC Levadia,JK Nõmme Kalju,1,2,A,1,2,A
+EST,23/08/2016,17:00,Paide Linnameeskond,Rakvere JK Tarvas,7,0,H,2,0,H
+EST,23/08/2016,17:00,JK Tammeka,JK Narva Trans,0,2,A,0,1,A
+EST,23/08/2016,18:00,FC Flora,FC Infonet,3,0,H,1,0,H
+EST,26/08/2016,16:45,Rakvere JK Tarvas,JK Tammeka,1,3,A,1,1,D
+EST,26/08/2016,16:45,JK Narva Trans,FC Levadia,3,1,H,2,0,H
+EST,27/08/2016,11:00,Pärnu Linnameeskond,Paide Linnameeskond,3,1,H,0,0,D
+EST,27/08/2016,14:00,JK Nõmme Kalju,FC Flora,3,3,D,0,1,A
+EST,27/08/2016,16:45,JK Sillamäe Kalev,FC Infonet,0,0,D,0,0,D
+EST,09/09/2016,16:00,Paide Linnameeskond,Pärnu Linnameeskond,4,1,H,3,1,H
+EST,09/09/2016,17:00,JK Tammeka,Rakvere JK Tarvas,5,0,H,2,0,H
+EST,10/09/2016,11:00,FC Infonet,JK Sillamäe Kalev,4,2,H,3,1,H
+EST,10/09/2016,14:00,FC Flora,JK Nõmme Kalju,1,1,D,1,1,D
+EST,10/09/2016,16:00,FC Levadia,JK Narva Trans,5,0,H,3,0,H
+EST,12/09/2016,16:00,Rakvere JK Tarvas,Paide Linnameeskond,0,1,A,0,1,A
+EST,13/09/2016,16:00,JK Sillamäe Kalev,Pärnu Linnameeskond,4,2,H,3,1,H
+EST,13/09/2016,16:00,JK Nõmme Kalju,FC Levadia,0,3,A,0,2,A
+EST,13/09/2016,17:00,JK Narva Trans,JK Tammeka,4,2,H,1,1,D
+EST,13/09/2016,18:00,FC Flora,FC Infonet,2,1,H,1,1,D
+EST,16/09/2016,17:00,JK Tammeka,FC Flora,3,2,H,1,0,H
+EST,17/09/2016,11:00,Paide Linnameeskond,FC Levadia,0,4,A,0,2,A
+EST,17/09/2016,11:00,JK Sillamäe Kalev,JK Narva Trans,2,1,H,2,1,H
+EST,17/09/2016,11:00,Rakvere JK Tarvas,FC Infonet,0,1,A,0,0,D
+EST,17/09/2016,14:00,Pärnu Linnameeskond,JK Nõmme Kalju,1,5,A,0,3,A
+EST,23/09/2016,17:00,FC Flora,Rakvere JK Tarvas,4,0,H,2,0,H
+EST,23/09/2016,17:00,FC Infonet,Pärnu Linnameeskond,1,0,H,1,0,H
+EST,24/09/2016,11:00,Paide Linnameeskond,JK Sillamäe Kalev,2,1,H,2,0,H
+EST,24/09/2016,14:00,FC Levadia,JK Tammeka,4,0,H,2,0,H
+EST,24/09/2016,17:00,JK Narva Trans,JK Nõmme Kalju,0,3,A,0,1,A
+EST,30/09/2016,17:00,JK Tammeka,Paide Linnameeskond,1,4,A,1,0,H
+EST,01/10/2016,11:00,Pärnu Linnameeskond,FC Flora,1,6,A,0,2,A
+EST,01/10/2016,11:00,Rakvere JK Tarvas,JK Narva Trans,0,6,A,0,0,D
+EST,01/10/2016,11:00,JK Nõmme Kalju,JK Sillamäe Kalev,3,1,H,2,1,H
+EST,01/10/2016,14:00,FC Levadia,FC Infonet,2,2,D,1,1,D
+EST,14/10/2016,17:00,FC Infonet,JK Tammeka,1,0,H,1,0,H
+EST,15/10/2016,11:00,Pärnu Linnameeskond,Rakvere JK Tarvas,1,1,D,0,0,D
+EST,15/10/2016,11:00,JK Sillamäe Kalev,FC Levadia,3,2,H,2,0,H
+EST,15/10/2016,11:00,Paide Linnameeskond,JK Nõmme Kalju,2,0,H,1,0,H
+EST,15/10/2016,14:00,JK Narva Trans,FC Flora,0,2,A,0,2,A
+EST,21/10/2016,17:00,JK Narva Trans,FC Infonet,0,0,D,0,0,D
+EST,22/10/2016,11:00,JK Sillamäe Kalev,JK Tammeka,1,2,A,0,1,A
+EST,22/10/2016,11:00,FC Levadia,Pärnu Linnameeskond,2,0,H,1,0,H
+EST,22/10/2016,11:00,JK Nõmme Kalju,Rakvere JK Tarvas,2,0,H,1,0,H
+EST,22/10/2016,14:00,FC Flora,Paide Linnameeskond,4,0,H,2,0,H
+EST,28/10/2016,17:00,FC Infonet,Paide Linnameeskond,3,1,H,1,1,D
+EST,29/10/2016,11:00,Rakvere JK Tarvas,FC Levadia,0,1,A,0,0,D
+EST,29/10/2016,11:00,Pärnu Linnameeskond,JK Narva Trans,1,7,A,0,5,A
+EST,29/10/2016,14:00,FC Flora,JK Sillamäe Kalev,3,3,D,0,0,D
+EST,29/10/2016,17:00,JK Tammeka,JK Nõmme Kalju,0,1,A,0,0,D
+EST,05/11/2016,11:05,JK Nõmme Kalju,FC Infonet,1,2,A,1,0,H
+EST,05/11/2016,11:05,Rakvere JK Tarvas,JK Sillamäe Kalev,0,3,A,0,2,A
+EST,05/11/2016,11:05,Pärnu Linnameeskond,JK Tammeka,0,3,A,0,0,D
+EST,05/11/2016,11:05,FC Levadia,FC Flora,2,1,H,0,1,A
+EST,05/11/2016,11:05,Paide Linnameeskond,JK Narva Trans,0,0,D,0,0,D

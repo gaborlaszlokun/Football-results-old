@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IND,25/01/1997,,Indian Bank,Salgaocar SC,1,1,D,NaN,NaN,NaN
+IND,25/01/1997,,Dempo SC,Churchill Brothers,2,3,A,NaN,NaN,NaN
+IND,27/01/1997,,East Bengal FC,Indian Bank,0,0,D,NaN,NaN,NaN
+IND,28/01/1997,,Air India,Mahindra & Mahindra SC,1,0,H,NaN,NaN,NaN
+IND,28/01/1997,,Dempo SC,Salgaocar SC,0,0,D,NaN,NaN,NaN
+IND,28/01/1997,,JCT FC,Churchill Brothers,0,2,A,NaN,NaN,NaN
+IND,01/02/1997,,Churchill Brothers,Air India,1,1,D,NaN,NaN,NaN
+IND,02/02/1997,,East Bengal FC,Salgaocar SC,3,0,H,NaN,NaN,NaN
+IND,02/02/1997,,Dempo SC,Mahindra & Mahindra SC,4,1,H,NaN,NaN,NaN
+IND,02/02/1997,,JCT FC,Indian Bank,3,0,H,NaN,NaN,NaN
+IND,05/02/1997,,Mahindra & Mahindra SC,Salgaocar SC,0,1,A,NaN,NaN,NaN
+IND,05/02/1997,,East Bengal FC,Air India,2,0,H,NaN,NaN,NaN
+IND,05/02/1997,,JCT FC,Dempo SC,1,1,D,NaN,NaN,NaN
+IND,06/02/1997,,Churchill Brothers,Indian Bank,2,0,H,NaN,NaN,NaN
+IND,08/02/1997,,East Bengal FC,Dempo SC,1,0,H,NaN,NaN,NaN
+IND,09/02/1997,,JCT FC,Mahindra & Mahindra SC,6,1,H,NaN,NaN,NaN
+IND,09/02/1997,,Air India,Indian Bank,1,0,H,NaN,NaN,NaN
+IND,09/02/1997,,Churchill Brothers,Salgaocar SC,1,0,H,NaN,NaN,NaN
+IND,12/02/1997,,JCT FC,Salgaocar SC,1,0,H,NaN,NaN,NaN
+IND,12/02/1997,,Air India,Dempo SC,0,1,A,NaN,NaN,NaN
+IND,13/02/1997,,Mahindra & Mahindra SC,Indian Bank,1,4,A,NaN,NaN,NaN
+IND,13/02/1997,,Churchill Brothers,East Bengal FC,2,1,H,NaN,NaN,NaN
+IND,15/02/1997,,Air India,Salgaocar SC,0,3,A,NaN,NaN,NaN
+IND,16/02/1997,,Churchill Brothers,Mahindra & Mahindra SC,3,2,H,NaN,NaN,NaN
+IND,16/02/1997,,Indian Bank,Dempo SC,1,1,D,NaN,NaN,NaN
+IND,16/02/1997,,East Bengal FC,JCT FC,1,0,H,NaN,NaN,NaN
+IND,19/02/1997,,Mahindra & Mahindra SC,Dempo SC,1,0,H,NaN,NaN,NaN
+IND,19/02/1997,,JCT FC,Indian Bank,1,1,D,NaN,NaN,NaN
+IND,19/02/1997,,Salgaocar SC,East Bengal FC,1,1,D,NaN,NaN,NaN
+IND,20/02/1997,,Air India,Churchill Brothers,0,0,D,NaN,NaN,NaN
+IND,22/02/1997,,Dempo SC,Indian Bank,3,1,H,NaN,NaN,NaN
+IND,23/02/1997,,East Bengal FC,JCT FC,0,2,A,NaN,NaN,NaN
+IND,23/02/1997,,Churchill Brothers,Mahindra & Mahindra SC,3,1,H,NaN,NaN,NaN
+IND,23/02/1997,,Salgaocar SC,Air India,0,0,D,NaN,NaN,NaN
+IND,27/02/1997,,JCT FC,Salgaocar SC,1,0,H,NaN,NaN,NaN
+IND,28/02/1997,,Dempo SC,Air India,1,1,D,NaN,NaN,NaN
+IND,28/02/1997,,Indian Bank,Mahindra & Mahindra SC,1,0,H,NaN,NaN,NaN
+IND,28/02/1997,,Churchill Brothers,East Bengal FC,1,0,H,NaN,NaN,NaN
+IND,02/03/1997,,Churchill Brothers,Salgaocar SC,0,0,D,NaN,NaN,NaN
+IND,02/03/1997,,Indian Bank,Air India,2,2,D,NaN,NaN,NaN
+IND,03/03/1997,,East Bengal FC,Dempo SC,2,2,D,NaN,NaN,NaN
+IND,03/03/1997,,Mahindra & Mahindra SC,JCT FC,0,3,A,NaN,NaN,NaN
+IND,05/03/1997,,JCT FC,Air India,2,0,H,NaN,NaN,NaN
+IND,06/03/1997,,East Bengal FC,Mahindra & Mahindra SC,1,0,H,NaN,NaN,NaN
+IND,08/03/1997,,JCT FC,Churchill Brothers,1,0,H,NaN,NaN,NaN
+IND,09/03/1997,,Mahindra & Mahindra SC,Air India,1,2,A,NaN,NaN,NaN
+IND,09/03/1997,,Indian Bank,East Bengal FC,0,2,A,NaN,NaN,NaN
+IND,09/03/1997,,Dempo SC,Salgaocar SC,2,0,H,NaN,NaN,NaN
+IND,12/03/1997,,Salgaocar SC,Indian Bank,0,2,A,NaN,NaN,NaN
+IND,12/03/1997,,JCT FC,Air India,1,1,D,NaN,NaN,NaN
+IND,12/03/1997,,East Bengal FC,Mahindra & Mahindra SC,3,1,H,NaN,NaN,NaN
+IND,13/03/1997,,Churchill Brothers,Dempo SC,1,1,D,NaN,NaN,NaN
+IND,15/03/1997,,Salgaocar SC,Mahindra & Mahindra SC,2,1,H,NaN,NaN,NaN
+IND,16/03/1997,,JCT FC,Dempo SC,4,1,H,NaN,NaN,NaN
+IND,16/03/1997,,Churchill Brothers,Indian Bank,1,1,D,NaN,NaN,NaN
+IND,16/03/1997,,Air India,East Bengal FC,2,2,D,NaN,NaN,NaN

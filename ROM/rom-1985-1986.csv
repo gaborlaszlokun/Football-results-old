@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,04/08/1985,,Petrolul Ploieşti,Gloria Buzau,3,1,H,NaN,NaN,NaN
+ROM,04/08/1985,,Chimia Râmnicu-Vâlcea,CS Politechnica Timisoara,4,1,H,NaN,NaN,NaN
+ROM,04/08/1985,,Sportul Studenţesc,FC Bihor Oradea,5,0,H,NaN,NaN,NaN
+ROM,04/08/1985,,ASA Târgu Mureș (old),Argeș Pitești,0,1,A,NaN,NaN,NaN
+ROM,04/08/1985,,Olt Scornicesti,FCM Brașov,0,0,D,NaN,NaN,NaN
+ROM,04/08/1985,,Universitatea Cluj,Rapid Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,04/08/1985,,SC Bacau,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,04/08/1985,,Steaua Bucureşti,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,04/08/1985,,Victoria Bucuresti,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,11/08/1985,,FC Universitatea Craiova,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,11/08/1985,,Corvinul Hunedoara,Chimia Râmnicu-Vâlcea,3,1,H,NaN,NaN,NaN
+ROM,11/08/1985,,FC Bihor Oradea,Victoria Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,11/08/1985,,FCM Brașov,Sportul Studenţesc,1,4,A,NaN,NaN,NaN
+ROM,11/08/1985,,Rapid Bucureşti,Petrolul Ploieşti,2,0,H,NaN,NaN,NaN
+ROM,11/08/1985,,CS Politechnica Timisoara,Olt Scornicesti,1,2,A,NaN,NaN,NaN
+ROM,11/08/1985,,Gloria Buzau,SC Bacau,3,0,H,NaN,NaN,NaN
+ROM,11/08/1985,,Argeș Pitești,Steaua Bucureşti,0,2,A,NaN,NaN,NaN
+ROM,11/08/1985,,Dinamo Bucureşti,Universitatea Cluj,1,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,FC Universitatea Craiova,Sportul Studenţesc,2,1,H,NaN,NaN,NaN
+ROM,14/08/1985,,ASA Târgu Mureș (old),Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Dinamo Bucureşti,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Argeș Pitești,FC Bihor Oradea,0,0,D,NaN,NaN,NaN
+ROM,14/08/1985,,Universitatea Cluj,FCM Brașov,1,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Petrolul Ploieşti,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Corvinul Hunedoara,Rapid Bucureşti,9,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Victoria Bucuresti,SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,14/08/1985,,Olt Scornicesti,Steaua Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,18/08/1985,,Chimia Râmnicu-Vâlcea,Universitatea Cluj,4,1,H,NaN,NaN,NaN
+ROM,18/08/1985,,SC Bacau,Argeș Pitești,2,0,H,NaN,NaN,NaN
+ROM,18/08/1985,,FCM Brașov,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,18/08/1985,,CS Politechnica Timisoara,FC Universitatea Craiova,1,2,A,NaN,NaN,NaN
+ROM,18/08/1985,,Rapid Bucureşti,Gloria Buzau,0,0,D,NaN,NaN,NaN
+ROM,18/08/1985,,Steaua Bucureşti,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,18/08/1985,,FC Bihor Oradea,Petrolul Ploieşti,1,1,D,NaN,NaN,NaN
+ROM,18/08/1985,,Sportul Studenţesc,Victoria Bucuresti,4,0,H,NaN,NaN,NaN
+ROM,18/08/1985,,Olt Scornicesti,Corvinul Hunedoara,3,2,H,NaN,NaN,NaN
+ROM,01/09/1985,,Dinamo Bucureşti,Olt Scornicesti,2,0,H,NaN,NaN,NaN
+ROM,01/09/1985,,Argeș Pitești,Chimia Râmnicu-Vâlcea,2,1,H,NaN,NaN,NaN
+ROM,01/09/1985,,Corvinul Hunedoara,FCM Brașov,4,0,H,NaN,NaN,NaN
+ROM,01/09/1985,,Petrolul Ploieşti,Victoria Bucuresti,1,1,D,NaN,NaN,NaN
+ROM,01/09/1985,,Gloria Buzau,CS Politechnica Timisoara,3,0,H,NaN,NaN,NaN
+ROM,01/09/1985,,Rapid Bucureşti,FC Bihor Oradea,4,0,H,NaN,NaN,NaN
+ROM,01/09/1985,,FC Universitatea Craiova,SC Bacau,3,1,H,NaN,NaN,NaN
+ROM,01/09/1985,,ASA Târgu Mureș (old),Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,01/09/1985,,Universitatea Cluj,Sportul Studenţesc,1,1,D,NaN,NaN,NaN
+ROM,14/09/1985,,Dinamo Bucureşti,Argeș Pitești,0,2,A,NaN,NaN,NaN
+ROM,14/09/1985,,SC Bacau,FCM Brașov,3,0,H,NaN,NaN,NaN
+ROM,15/09/1985,,CS Politechnica Timisoara,Rapid Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,15/09/1985,,Steaua Bucureşti,Petrolul Ploieşti,6,1,H,NaN,NaN,NaN
+ROM,15/09/1985,,FC Universitatea Craiova,Universitatea Cluj,1,0,H,NaN,NaN,NaN
+ROM,15/09/1985,,ASA Târgu Mureș (old),Olt Scornicesti,2,0,H,NaN,NaN,NaN
+ROM,15/09/1985,,FC Bihor Oradea,Gloria Buzau,1,2,A,NaN,NaN,NaN
+ROM,19/09/1985,,Victoria Bucuresti,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,30/10/1985,,Chimia Râmnicu-Vâlcea,Sportul Studenţesc,0,2,A,NaN,NaN,NaN
+ROM,22/09/1985,,Sportul Studenţesc,CS Politechnica Timisoara,2,2,D,NaN,NaN,NaN
+ROM,22/09/1985,,FCM Brașov,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,22/09/1985,,Corvinul Hunedoara,FC Bihor Oradea,5,1,H,NaN,NaN,NaN
+ROM,22/09/1985,,Olt Scornicesti,Petrolul Ploieşti,0,0,D,NaN,NaN,NaN
+ROM,22/09/1985,,Rapid Bucureşti,Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,22/09/1985,,Universitatea Cluj,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,22/09/1985,,Gloria Buzau,FC Universitatea Craiova,1,0,H,NaN,NaN,NaN
+ROM,24/09/1985,,Dinamo Bucureşti,Victoria Bucuresti,3,2,H,NaN,NaN,NaN
+ROM,26/09/1985,,Chimia Râmnicu-Vâlcea,ASA Târgu Mureș (old),3,1,H,NaN,NaN,NaN
+ROM,28/09/1985,,Sportul Studenţesc,ASA Târgu Mureș (old),4,0,H,NaN,NaN,NaN
+ROM,28/09/1985,,Argeș Pitești,FC Universitatea Craiova,2,1,H,NaN,NaN,NaN
+ROM,29/09/1985,,SC Bacau,Rapid Bucureşti,4,2,H,NaN,NaN,NaN
+ROM,29/09/1985,,FCM Brașov,Chimia Râmnicu-Vâlcea,1,3,A,NaN,NaN,NaN
+ROM,29/09/1985,,Victoria Bucuresti,Universitatea Cluj,1,1,D,NaN,NaN,NaN
+ROM,29/09/1985,,CS Politechnica Timisoara,Corvinul Hunedoara,3,2,H,NaN,NaN,NaN
+ROM,29/09/1985,,FC Bihor Oradea,Olt Scornicesti,3,0,H,NaN,NaN,NaN
+ROM,29/09/1985,,Gloria Buzau,Steaua Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,29/09/1985,,Petrolul Ploieşti,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,05/10/1985,,FC Universitatea Craiova,FCM Brașov,3,0,H,NaN,NaN,NaN
+ROM,05/10/1985,,Universitatea Cluj,CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,05/10/1985,,Petrolul Ploieşti,Argeș Pitești,3,1,H,NaN,NaN,NaN
+ROM,05/10/1985,,SC Bacau,FC Bihor Oradea,4,0,H,NaN,NaN,NaN
+ROM,05/10/1985,,Olt Scornicesti,Victoria Bucuresti,2,1,H,NaN,NaN,NaN
+ROM,05/10/1985,,Chimia Râmnicu-Vâlcea,Gloria Buzau,0,0,D,NaN,NaN,NaN
+ROM,05/10/1985,,ASA Târgu Mureș (old),Corvinul Hunedoara,2,1,H,NaN,NaN,NaN
+ROM,06/10/1985,,Steaua Bucureşti,Sportul Studenţesc,1,1,D,NaN,NaN,NaN
+ROM,06/10/1985,,Dinamo Bucureşti,Rapid Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,18/10/1985,,Rapid Bucureşti,FC Universitatea Craiova,0,1,A,NaN,NaN,NaN
+ROM,19/10/1985,,Steaua Bucureşti,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,19/10/1985,,FCM Brașov,Petrolul Ploieşti,0,0,D,NaN,NaN,NaN
+ROM,19/10/1985,,CS Politechnica Timisoara,Dinamo Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,20/10/1985,,Sportul Studenţesc,Gloria Buzau,3,2,H,NaN,NaN,NaN
+ROM,20/10/1985,,Corvinul Hunedoara,SC Bacau,3,0,H,NaN,NaN,NaN
+ROM,20/10/1985,,Argeș Pitești,Olt Scornicesti,0,0,D,NaN,NaN,NaN
+ROM,20/10/1985,,ASA Târgu Mureș (old),Victoria Bucuresti,3,1,H,NaN,NaN,NaN
+ROM,20/10/1985,,FC Bihor Oradea,Universitatea Cluj,2,1,H,NaN,NaN,NaN
+ROM,27/10/1985,,Sportul Studenţesc,Rapid Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,27/10/1985,,FC Universitatea Craiova,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,27/10/1985,,Dinamo Bucureşti,FCM Brașov,4,0,H,NaN,NaN,NaN
+ROM,27/10/1985,,Universitatea Cluj,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,27/10/1985,,Victoria Bucuresti,Steaua Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,27/10/1985,,Olt Scornicesti,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,27/10/1985,,Gloria Buzau,Argeș Pitești,3,2,H,NaN,NaN,NaN
+ROM,27/10/1985,,CS Politechnica Timisoara,SC Bacau,5,0,H,NaN,NaN,NaN
+ROM,27/10/1985,,FC Bihor Oradea,ASA Târgu Mureș (old),1,2,A,NaN,NaN,NaN
+ROM,31/10/1985,,Steaua Bucureşti,CS Politechnica Timisoara,4,2,H,NaN,NaN,NaN
+ROM,01/11/1985,,Corvinul Hunedoara,FC Universitatea Craiova,3,0,H,NaN,NaN,NaN
+ROM,03/11/1985,,Dinamo Bucureşti,ASA Târgu Mureș (old),1,1,D,NaN,NaN,NaN
+ROM,03/11/1985,,Petrolul Ploieşti,Sportul Studenţesc,0,0,D,NaN,NaN,NaN
+ROM,03/11/1985,,SC Bacau,Olt Scornicesti,3,0,H,NaN,NaN,NaN
+ROM,03/11/1985,,FCM Brașov,Rapid Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,03/11/1985,,Victoria Bucuresti,Argeș Pitești,0,2,A,NaN,NaN,NaN
+ROM,03/11/1985,,Chimia Râmnicu-Vâlcea,FC Bihor Oradea,2,1,H,NaN,NaN,NaN
+ROM,03/11/1985,,Gloria Buzau,Universitatea Cluj,3,0,H,NaN,NaN,NaN
+ROM,17/11/1985,,Steaua Bucureşti,Universitatea Cluj,2,0,H,NaN,NaN,NaN
+ROM,17/11/1985,,Sportul Studenţesc,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,17/11/1985,,FC Universitatea Craiova,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,17/11/1985,,Argeș Pitești,Corvinul Hunedoara,1,1,D,NaN,NaN,NaN
+ROM,17/11/1985,,Rapid Bucureşti,Olt Scornicesti,4,3,H,NaN,NaN,NaN
+ROM,17/11/1985,,FCM Brașov,Gloria Buzau,2,1,H,NaN,NaN,NaN
+ROM,17/11/1985,,Chimia Râmnicu-Vâlcea,Victoria Bucuresti,2,0,H,NaN,NaN,NaN
+ROM,17/11/1985,,CS Politechnica Timisoara,FC Bihor Oradea,2,0,H,NaN,NaN,NaN
+ROM,17/11/1985,,ASA Târgu Mureș (old),Petrolul Ploieşti,0,0,D,NaN,NaN,NaN
+ROM,20/11/1985,,Sportul Studenţesc,Dinamo Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,20/11/1985,,Universitatea Cluj,Argeș Pitești,4,0,H,NaN,NaN,NaN
+ROM,20/11/1985,,Rapid Bucureşti,Victoria Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,20/11/1985,,Petrolul Ploieşti,Chimia Râmnicu-Vâlcea,0,0,D,NaN,NaN,NaN
+ROM,20/11/1985,,SC Bacau,ASA Târgu Mureș (old),3,0,H,NaN,NaN,NaN
+ROM,20/11/1985,,Gloria Buzau,Corvinul Hunedoara,3,1,H,NaN,NaN,NaN
+ROM,20/11/1985,,CS Politechnica Timisoara,FCM Brașov,2,0,H,NaN,NaN,NaN
+ROM,20/11/1985,,FC Bihor Oradea,Steaua Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,27/11/1985,,Olt Scornicesti,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,24/11/1985,,Steaua Bucureşti,FCM Brașov,6,0,H,NaN,NaN,NaN
+ROM,24/11/1985,,Dinamo Bucureşti,FC Bihor Oradea,5,1,H,NaN,NaN,NaN
+ROM,24/11/1985,,Corvinul Hunedoara,Sportul Studenţesc,4,3,H,NaN,NaN,NaN
+ROM,24/11/1985,,Argeș Pitești,Rapid Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,24/11/1985,,Petrolul Ploieşti,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,24/11/1985,,Victoria Bucuresti,CS Politechnica Timisoara,2,4,A,NaN,NaN,NaN
+ROM,24/11/1985,,Olt Scornicesti,Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,24/11/1985,,Chimia Râmnicu-Vâlcea,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,24/11/1985,,ASA Târgu Mureș (old),Universitatea Cluj,0,0,D,NaN,NaN,NaN
+ROM,01/12/1985,,Sportul Studenţesc,Argeș Pitești,0,0,D,NaN,NaN,NaN
+ROM,01/12/1985,,FC Universitatea Craiova,FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,01/12/1985,,Corvinul Hunedoara,Petrolul Ploieşti,5,0,H,NaN,NaN,NaN
+ROM,01/12/1985,,Universitatea Cluj,Olt Scornicesti,2,0,H,NaN,NaN,NaN
+ROM,01/12/1985,,Rapid Bucureşti,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,01/12/1985,,SC Bacau,Steaua Bucureşti,0,2,A,NaN,NaN,NaN
+ROM,01/12/1985,,FCM Brașov,Victoria Bucuresti,1,0,H,NaN,NaN,NaN
+ROM,01/12/1985,,Gloria Buzau,Dinamo Bucureşti,1,3,A,NaN,NaN,NaN
+ROM,01/12/1985,,CS Politechnica Timisoara,ASA Târgu Mureș (old),3,0,H,NaN,NaN,NaN
+ROM,08/12/1985,,Steaua Bucureşti,FC Universitatea Craiova,2,0,H,NaN,NaN,NaN
+ROM,08/12/1985,,Dinamo Bucureşti,Corvinul Hunedoara,0,0,D,NaN,NaN,NaN
+ROM,08/12/1985,,Argeș Pitești,CS Politechnica Timisoara,4,3,H,NaN,NaN,NaN
+ROM,08/12/1985,,Petrolul Ploieşti,Universitatea Cluj,2,0,H,NaN,NaN,NaN
+ROM,08/12/1985,,Victoria Bucuresti,Gloria Buzau,1,0,H,NaN,NaN,NaN
+ROM,08/12/1985,,Olt Scornicesti,Sportul Studenţesc,2,2,D,NaN,NaN,NaN
+ROM,08/12/1985,,Chimia Râmnicu-Vâlcea,SC Bacau,0,1,A,NaN,NaN,NaN
+ROM,08/12/1985,,ASA Târgu Mureș (old),Rapid Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,08/12/1985,,FC Bihor Oradea,FCM Brașov,2,0,H,NaN,NaN,NaN
+ROM,08/03/1986,,FC Universitatea Craiova,Victoria Bucuresti,2,1,H,NaN,NaN,NaN
+ROM,08/03/1986,,Dinamo Bucureşti,SC Bacau,3,1,H,NaN,NaN,NaN
+ROM,08/03/1986,,Argeș Pitești,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,08/03/1986,,Rapid Bucureşti,Universitatea Cluj,1,0,H,NaN,NaN,NaN
+ROM,08/03/1986,,FCM Brașov,Olt Scornicesti,2,1,H,NaN,NaN,NaN
+ROM,08/03/1986,,Gloria Buzau,Petrolul Ploieşti,2,2,D,NaN,NaN,NaN
+ROM,08/03/1986,,CS Politechnica Timisoara,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,08/03/1986,,FC Bihor Oradea,Sportul Studenţesc,1,2,A,NaN,NaN,NaN
+ROM,09/03/1986,,Corvinul Hunedoara,Steaua Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,11/03/1986,,Sportul Studenţesc,FCM Brașov,5,1,H,NaN,NaN,NaN
+ROM,11/03/1986,,Universitatea Cluj,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,11/03/1986,,Petrolul Ploieşti,Rapid Bucureşti,2,0,H,NaN,NaN,NaN
+ROM,11/03/1986,,SC Bacau,Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,11/03/1986,,Victoria Bucuresti,FC Bihor Oradea,4,2,H,NaN,NaN,NaN
+ROM,11/03/1986,,Olt Scornicesti,CS Politechnica Timisoara,1,2,A,NaN,NaN,NaN
+ROM,11/03/1986,,ASA Târgu Mureș (old),FC Universitatea Craiova,0,1,A,NaN,NaN,NaN
+ROM,12/03/1986,,Chimia Râmnicu-Vâlcea,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,13/03/1986,,Steaua Bucureşti,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,15/03/1986,,FCM Brașov,Universitatea Cluj,1,0,H,NaN,NaN,NaN
+ROM,21/03/1986,,Gloria Buzau,ASA Târgu Mureș (old),1,1,D,NaN,NaN,NaN
+ROM,22/03/1986,,Sportul Studenţesc,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,22/03/1986,,Rapid Bucureşti,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,22/03/1986,,SC Bacau,Victoria Bucuresti,1,0,H,NaN,NaN,NaN
+ROM,22/03/1986,,Chimia Râmnicu-Vâlcea,Dinamo Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,22/03/1986,,CS Politechnica Timisoara,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,22/03/1986,,FC Bihor Oradea,Argeș Pitești,0,2,A,NaN,NaN,NaN
+ROM,23/03/1986,,Steaua Bucureşti,Olt Scornicesti,3,0,H,NaN,NaN,NaN
+ROM,30/03/1986,,FC Universitatea Craiova,CS Politechnica Timisoara,5,0,H,NaN,NaN,NaN
+ROM,30/03/1986,,Corvinul Hunedoara,Olt Scornicesti,6,0,H,NaN,NaN,NaN
+ROM,30/03/1986,,Argeș Pitești,SC Bacau,4,3,H,NaN,NaN,NaN
+ROM,30/03/1986,,Universitatea Cluj,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,30/03/1986,,Petrolul Ploieşti,FC Bihor Oradea,2,0,H,NaN,NaN,NaN
+ROM,30/03/1986,,Gloria Buzau,Rapid Bucureşti,4,2,H,NaN,NaN,NaN
+ROM,30/03/1986,,ASA Târgu Mureș (old),FCM Brașov,0,0,D,NaN,NaN,NaN
+ROM,28/05/1986,,Dinamo Bucureşti,Steaua Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,28/05/1986,,Victoria Bucuresti,Sportul Studenţesc,2,2,D,NaN,NaN,NaN
+ROM,02/04/1986,,Sportul Studenţesc,Universitatea Cluj,6,1,H,NaN,NaN,NaN
+ROM,02/04/1986,,SC Bacau,FC Universitatea Craiova,2,2,D,NaN,NaN,NaN
+ROM,02/04/1986,,FCM Brașov,Corvinul Hunedoara,3,0,H,NaN,NaN,NaN
+ROM,02/04/1986,,Olt Scornicesti,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,02/04/1986,,Chimia Râmnicu-Vâlcea,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,02/04/1986,,CS Politechnica Timisoara,Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,02/04/1986,,Steaua Bucureşti,ASA Târgu Mureș (old),4,1,H,NaN,NaN,NaN
+ROM,02/04/1986,,FC Bihor Oradea,Rapid Bucureşti,1,1,D,NaN,NaN,NaN
+ROM,03/04/1986,,Victoria Bucuresti,Petrolul Ploieşti,2,1,H,NaN,NaN,NaN
+ROM,27/03/1986,,Petrolul Ploieşti,Steaua Bucureşti,0,2,A,NaN,NaN,NaN
+ROM,06/04/1986,,Sportul Studenţesc,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,06/04/1986,,Universitatea Cluj,FC Universitatea Craiova,3,2,H,NaN,NaN,NaN
+ROM,06/04/1986,,Corvinul Hunedoara,Victoria Bucuresti,3,1,H,NaN,NaN,NaN
+ROM,06/04/1986,,Argeș Pitești,Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,06/04/1986,,Gloria Buzau,FC Bihor Oradea,2,0,H,NaN,NaN,NaN
+ROM,06/04/1986,,FCM Brașov,SC Bacau,3,1,H,NaN,NaN,NaN
+ROM,06/04/1986,,Olt Scornicesti,ASA Târgu Mureș (old),2,1,H,NaN,NaN,NaN
+ROM,06/04/1986,,Rapid Bucureşti,CS Politechnica Timisoara,1,0,H,NaN,NaN,NaN
+ROM,12/04/1986,,Steaua Bucureşti,Rapid Bucureşti,3,1,H,NaN,NaN,NaN
+ROM,13/04/1986,,FC Universitatea Craiova,Gloria Buzau,7,0,H,NaN,NaN,NaN
+ROM,13/04/1986,,Argeș Pitești,FCM Brașov,1,1,D,NaN,NaN,NaN
+ROM,13/04/1986,,Petrolul Ploieşti,Olt Scornicesti,1,0,H,NaN,NaN,NaN
+ROM,13/04/1986,,SC Bacau,Universitatea Cluj,2,1,H,NaN,NaN,NaN
+ROM,13/04/1986,,Victoria Bucuresti,Dinamo Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,13/04/1986,,CS Politechnica Timisoara,Sportul Studenţesc,0,1,A,NaN,NaN,NaN
+ROM,13/04/1986,,ASA Târgu Mureș (old),Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,13/04/1986,,FC Bihor Oradea,Corvinul Hunedoara,2,2,D,NaN,NaN,NaN
+ROM,19/04/1986,,ASA Târgu Mureș (old),Sportul Studenţesc,1,4,A,NaN,NaN,NaN
+ROM,19/04/1986,,Dinamo Bucureşti,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,19/04/1986,,Olt Scornicesti,FC Bihor Oradea,2,1,H,NaN,NaN,NaN
+ROM,19/04/1986,,Chimia Râmnicu-Vâlcea,FCM Brașov,2,0,H,NaN,NaN,NaN
+ROM,19/04/1986,,Corvinul Hunedoara,CS Politechnica Timisoara,4,0,H,NaN,NaN,NaN
+ROM,19/04/1986,,Rapid Bucureşti,SC Bacau,4,0,H,NaN,NaN,NaN
+ROM,19/04/1986,,FC Universitatea Craiova,Argeș Pitești,3,1,H,NaN,NaN,NaN
+ROM,19/04/1986,,Universitatea Cluj,Victoria Bucuresti,1,0,H,NaN,NaN,NaN
+ROM,11/05/1986,,Steaua Bucureşti,Gloria Buzau,4,1,H,NaN,NaN,NaN
+ROM,27/04/1986,,Sportul Studenţesc,Steaua Bucureşti,1,2,A,NaN,NaN,NaN
+ROM,27/04/1986,,Corvinul Hunedoara,ASA Târgu Mureș (old),5,0,H,NaN,NaN,NaN
+ROM,27/04/1986,,Argeș Pitești,Petrolul Ploieşti,2,1,H,NaN,NaN,NaN
+ROM,27/04/1986,,Rapid Bucureşti,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,27/04/1986,,FCM Brașov,FC Universitatea Craiova,1,1,D,NaN,NaN,NaN
+ROM,27/04/1986,,Victoria Bucuresti,Olt Scornicesti,2,0,H,NaN,NaN,NaN
+ROM,27/04/1986,,Gloria Buzau,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,27/04/1986,,CS Politechnica Timisoara,Universitatea Cluj,1,2,A,NaN,NaN,NaN
+ROM,27/04/1986,,FC Bihor Oradea,SC Bacau,1,0,H,NaN,NaN,NaN
+ROM,30/04/1986,,Chimia Râmnicu-Vâlcea,Steaua Bucureşti,0,4,A,NaN,NaN,NaN
+ROM,10/05/1986,,Olt Scornicesti,Argeș Pitești,0,1,A,NaN,NaN,NaN
+ROM,10/05/1986,,Victoria Bucuresti,ASA Târgu Mureș (old),1,0,H,NaN,NaN,NaN
+ROM,10/05/1986,,Gloria Buzau,Sportul Studenţesc,2,2,D,NaN,NaN,NaN
+ROM,10/05/1986,,Dinamo Bucureşti,CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,10/05/1986,,Petrolul Ploieşti,FCM Brașov,2,0,H,NaN,NaN,NaN
+ROM,10/05/1986,,FC Universitatea Craiova,Rapid Bucureşti,7,0,H,NaN,NaN,NaN
+ROM,10/05/1986,,SC Bacau,Corvinul Hunedoara,1,0,H,NaN,NaN,NaN
+ROM,10/05/1986,,Universitatea Cluj,FC Bihor Oradea,5,1,H,NaN,NaN,NaN
+ROM,18/05/1986,,Chimia Râmnicu-Vâlcea,Olt Scornicesti,2,2,D,NaN,NaN,NaN
+ROM,18/05/1986,,Corvinul Hunedoara,Universitatea Cluj,4,3,H,NaN,NaN,NaN
+ROM,18/05/1986,,Rapid Bucureşti,Sportul Studenţesc,3,1,H,NaN,NaN,NaN
+ROM,18/05/1986,,FCM Brașov,Dinamo Bucureşti,1,0,H,NaN,NaN,NaN
+ROM,18/05/1986,,Argeș Pitești,Gloria Buzau,3,1,H,NaN,NaN,NaN
+ROM,18/05/1986,,Petrolul Ploieşti,FC Universitatea Craiova,1,2,A,NaN,NaN,NaN
+ROM,18/05/1986,,SC Bacau,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,18/05/1986,,ASA Târgu Mureș (old),FC Bihor Oradea,1,0,H,NaN,NaN,NaN
+ROM,18/05/1986,,Steaua Bucureşti,Victoria Bucuresti,4,0,H,NaN,NaN,NaN
+ROM,21/05/1986,,FC Bihor Oradea,Chimia Râmnicu-Vâlcea,4,0,H,NaN,NaN,NaN
+ROM,21/05/1986,,Sportul Studenţesc,Petrolul Ploieşti,3,1,H,NaN,NaN,NaN
+ROM,21/05/1986,,CS Politechnica Timisoara,Steaua Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,21/05/1986,,FC Universitatea Craiova,Corvinul Hunedoara,4,1,H,NaN,NaN,NaN
+ROM,21/05/1986,,ASA Târgu Mureș (old),Dinamo Bucureşti,0,1,A,NaN,NaN,NaN
+ROM,21/05/1986,,Argeș Pitești,Victoria Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,21/05/1986,,Rapid Bucureşti,FCM Brașov,2,1,H,NaN,NaN,NaN
+ROM,21/05/1986,,Olt Scornicesti,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,21/05/1986,,Universitatea Cluj,Gloria Buzau,4,2,H,NaN,NaN,NaN
+ROM,25/05/1986,,SC Bacau,Sportul Studenţesc,1,0,H,NaN,NaN,NaN
+ROM,25/05/1986,,Petrolul Ploieşti,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,25/05/1986,,Victoria Bucuresti,Chimia Râmnicu-Vâlcea,2,4,A,NaN,NaN,NaN
+ROM,25/05/1986,,Corvinul Hunedoara,Argeș Pitești,3,0,H,NaN,NaN,NaN
+ROM,25/05/1986,,Dinamo Bucureşti,FC Universitatea Craiova,4,0,H,NaN,NaN,NaN
+ROM,25/05/1986,,Olt Scornicesti,Rapid Bucureşti,3,0,H,NaN,NaN,NaN
+ROM,25/05/1986,,Gloria Buzau,FCM Brașov,2,2,D,NaN,NaN,NaN
+ROM,25/05/1986,,FC Bihor Oradea,CS Politechnica Timisoara,0,0,D,NaN,NaN,NaN
+ROM,25/05/1986,,Universitatea Cluj,Steaua Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,31/05/1986,,Dinamo Bucureşti,Sportul Studenţesc,0,5,A,NaN,NaN,NaN
+ROM,31/05/1986,,ASA Târgu Mureș (old),SC Bacau,2,0,H,NaN,NaN,NaN
+ROM,31/05/1986,,Chimia Râmnicu-Vâlcea,Petrolul Ploieşti,2,1,H,NaN,NaN,NaN
+ROM,31/05/1986,,Argeș Pitești,Universitatea Cluj,2,0,H,NaN,NaN,NaN
+ROM,31/05/1986,,Corvinul Hunedoara,Gloria Buzau,5,1,H,NaN,NaN,NaN
+ROM,31/05/1986,,Steaua Bucureşti,FC Bihor Oradea,5,0,H,NaN,NaN,NaN
+ROM,31/05/1986,,FCM Brașov,CS Politechnica Timisoara,2,2,D,NaN,NaN,NaN
+ROM,31/05/1986,,FC Universitatea Craiova,Olt Scornicesti,1,2,A,NaN,NaN,NaN
+ROM,31/05/1986,,Victoria Bucuresti,Rapid Bucureşti,4,1,H,NaN,NaN,NaN
+ROM,08/06/1986,,Sportul Studenţesc,Corvinul Hunedoara,5,1,H,NaN,NaN,NaN
+ROM,08/06/1986,,FC Universitatea Craiova,Chimia Râmnicu-Vâlcea,1,0,H,NaN,NaN,NaN
+ROM,08/06/1986,,Universitatea Cluj,ASA Târgu Mureș (old),2,2,D,NaN,NaN,NaN
+ROM,08/06/1986,,Rapid Bucureşti,Argeș Pitești,1,0,H,NaN,NaN,NaN
+ROM,08/06/1986,,FCM Brașov,Steaua Bucureşti,2,2,D,NaN,NaN,NaN
+ROM,08/06/1986,,Gloria Buzau,Olt Scornicesti,0,0,D,NaN,NaN,NaN
+ROM,08/06/1986,,SC Bacau,Petrolul Ploieşti,3,0,H,NaN,NaN,NaN
+ROM,08/06/1986,,CS Politechnica Timisoara,Victoria Bucuresti,1,1,D,NaN,NaN,NaN
+ROM,08/06/1986,,FC Bihor Oradea,Dinamo Bucureşti,0,2,A,NaN,NaN,NaN
+ROM,14/06/1986,,Steaua Bucureşti,SC Bacau,2,1,H,NaN,NaN,NaN
+ROM,14/06/1986,,Dinamo Bucureşti,Gloria Buzau,2,0,H,NaN,NaN,NaN
+ROM,15/06/1986,,Argeș Pitești,Sportul Studenţesc,3,3,D,NaN,NaN,NaN
+ROM,15/06/1986,,Petrolul Ploieşti,Corvinul Hunedoara,4,1,H,NaN,NaN,NaN
+ROM,15/06/1986,,Victoria Bucuresti,FCM Brașov,3,1,H,NaN,NaN,NaN
+ROM,15/06/1986,,Olt Scornicesti,Universitatea Cluj,4,2,H,NaN,NaN,NaN
+ROM,15/06/1986,,Chimia Râmnicu-Vâlcea,Rapid Bucureşti,0,0,D,NaN,NaN,NaN
+ROM,15/06/1986,,ASA Târgu Mureș (old),CS Politechnica Timisoara,2,1,H,NaN,NaN,NaN
+ROM,15/06/1986,,FC Bihor Oradea,FC Universitatea Craiova,0,2,A,NaN,NaN,NaN
+ROM,18/06/1986,,Sportul Studenţesc,Olt Scornicesti,7,5,H,NaN,NaN,NaN
+ROM,18/06/1986,,SC Bacau,Chimia Râmnicu-Vâlcea,3,0,H,NaN,NaN,NaN
+ROM,18/06/1986,,Universitatea Cluj,Petrolul Ploieşti,1,0,H,NaN,NaN,NaN
+ROM,18/06/1986,,Rapid Bucureşti,ASA Târgu Mureș (old),2,0,H,NaN,NaN,NaN
+ROM,18/06/1986,,Corvinul Hunedoara,Dinamo Bucureşti,2,1,H,NaN,NaN,NaN
+ROM,18/06/1986,,FCM Brașov,FC Bihor Oradea,5,0,H,NaN,NaN,NaN
+ROM,18/06/1986,,CS Politechnica Timisoara,Argeș Pitești,1,2,A,NaN,NaN,NaN
+ROM,18/06/1986,,Gloria Buzau,Victoria Bucuresti,0,0,D,NaN,NaN,NaN
+ROM,18/06/1986,,FC Universitatea Craiova,Steaua Bucureşti,5,4,H,NaN,NaN,NaN

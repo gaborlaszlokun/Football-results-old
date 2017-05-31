@@ -1,0 +1,451 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,13/02/2015,21:00,Vélez Sársfield,Aldosivi,2,0,H,1,0,H
+ARG,14/02/2015,00:10,Racing Club,Rosario Central,0,1,A,0,1,A
+ARG,14/02/2015,20:00,San Lorenzo,CA Colón,2,0,H,1,0,H
+ARG,14/02/2015,20:00,GyE La Plata,Defensa y Justicia,0,1,A,0,1,A
+ARG,14/02/2015,22:15,CD Godoy Cruz,CA San Martín,1,1,D,1,0,H
+ARG,14/02/2015,23:00,Newell's Old Boys,Independiente,2,3,A,0,2,A
+ARG,14/02/2015,23:30,CA Banfield,CA Temperley,0,1,A,0,0,D
+ARG,15/02/2015,00:30,Crucero del Norte,Tigre,0,0,D,0,0,D
+ARG,15/02/2015,20:00,Unión de Santa Fe,Huracán,1,0,H,0,0,D
+ARG,15/02/2015,20:00,Quilmes AC,CA Lanús,0,1,A,0,0,D
+ARG,15/02/2015,21:15,Boca Juniors,Olimpo,3,1,H,1,1,D
+ARG,15/02/2015,22:10,Argentinos Juniors,Atlético Rafaela,2,0,H,1,0,H
+ARG,16/02/2015,00:30,Sarmiento de Junín,River Plate,1,4,A,0,2,A
+ARG,16/02/2015,21:00,Arsenal Sarandí,Estudiantes,0,1,A,0,1,A
+ARG,17/02/2015,00:10,Belgrano Córdoba,Nueva Chicago,3,1,H,2,1,H
+ARG,21/02/2015,00:10,Atlético Rafaela,CA Banfield,1,4,A,0,3,A
+ARG,21/02/2015,20:00,Huracán,Arsenal Sarandí,1,0,H,1,0,H
+ARG,21/02/2015,20:15,Estudiantes,CD Godoy Cruz,2,1,H,0,0,D
+ARG,21/02/2015,22:15,Rosario Central,Tigre,2,1,H,0,0,D
+ARG,21/02/2015,23:00,Olimpo,Racing Club,0,0,D,0,0,D
+ARG,21/02/2015,23:30,Vélez Sársfield,Crucero del Norte,2,1,H,0,0,D
+ARG,22/02/2015,00:30,CA San Martín,GyE La Plata,1,1,D,0,1,A
+ARG,22/02/2015,20:00,Aldosivi,Newell's Old Boys,0,1,A,0,0,D
+ARG,22/02/2015,20:00,Independiente,Sarmiento de Junín,1,1,D,0,0,D
+ARG,22/02/2015,20:00,Nueva Chicago,Unión de Santa Fe,2,2,D,1,2,A
+ARG,22/02/2015,21:15,River Plate,Quilmes AC,2,2,D,0,0,D
+ARG,22/02/2015,22:10,CA Colón,Argentinos Juniors,1,1,D,1,0,H
+ARG,23/02/2015,00:30,CA Temperley,Boca Juniors,0,2,A,0,1,A
+ARG,23/02/2015,21:00,CA Lanús,Belgrano Córdoba,0,0,D,0,0,D
+ARG,24/02/2015,00:10,Defensa y Justicia,San Lorenzo,1,2,A,1,1,D
+ARG,27/02/2015,21:00,Arsenal Sarandí,Nueva Chicago,1,1,D,1,1,D
+ARG,28/02/2015,00:10,CD Godoy Cruz,Huracán,2,1,H,1,0,H
+ARG,28/02/2015,20:00,Tigre,Olimpo,1,0,H,1,0,H
+ARG,28/02/2015,21:00,Crucero del Norte,Rosario Central,0,1,A,0,0,D
+ARG,28/02/2015,22:15,Unión de Santa Fe,CA Lanús,1,1,D,1,1,D
+ARG,28/02/2015,23:10,Quilmes AC,Independiente,1,2,A,1,1,D
+ARG,28/02/2015,23:30,San Lorenzo,CA San Martín,1,2,A,0,1,A
+ARG,01/03/2015,20:00,GyE La Plata,Estudiantes,1,3,A,0,1,A
+ARG,01/03/2015,21:15,Boca Juniors,Atlético Rafaela,1,0,H,1,0,H
+ARG,01/03/2015,22:15,Racing Club,CA Temperley,2,1,H,2,0,H
+ARG,01/03/2015,22:15,Argentinos Juniors,Defensa y Justicia,1,0,H,1,0,H
+ARG,02/03/2015,00:30,Belgrano Córdoba,River Plate,1,2,A,0,0,D
+ARG,02/03/2015,21:00,Sarmiento de Junín,Aldosivi,2,2,D,1,0,H
+ARG,02/03/2015,23:15,CA Banfield,CA Colón,0,0,D,0,0,D
+ARG,03/03/2015,00:10,Newell's Old Boys,Vélez Sársfield,0,0,D,0,0,D
+ARG,06/03/2015,21:00,Huracán,GyE La Plata,1,1,D,0,1,A
+ARG,07/03/2015,00:10,Atlético Rafaela,Racing Club,1,1,D,0,1,A
+ARG,07/03/2015,20:00,Nueva Chicago,CD Godoy Cruz,0,2,A,0,1,A
+ARG,07/03/2015,21:00,Olimpo,Rosario Central,1,3,A,1,0,H
+ARG,07/03/2015,22:15,Aldosivi,Quilmes AC,1,1,D,0,1,A
+ARG,07/03/2015,23:10,Independiente,Belgrano Córdoba,1,2,A,1,1,D
+ARG,07/03/2015,23:30,Newell's Old Boys,Crucero del Norte,2,0,H,1,0,H
+ARG,08/03/2015,20:00,Vélez Sársfield,Sarmiento de Junín,1,1,D,1,1,D
+ARG,08/03/2015,20:00,CA Lanús,Arsenal Sarandí,0,0,D,0,0,D
+ARG,08/03/2015,20:00,Defensa y Justicia,CA Banfield,1,0,H,0,0,D
+ARG,08/03/2015,21:15,River Plate,Unión de Santa Fe,2,2,D,2,0,H
+ARG,08/03/2015,22:15,CA San Martín,Argentinos Juniors,0,0,D,0,0,D
+ARG,09/03/2015,00:30,CA Colón,Boca Juniors,1,1,D,0,1,A
+ARG,09/03/2015,23:00,CA Temperley,Tigre,1,1,D,0,0,D
+ARG,10/03/2015,00:10,Estudiantes,San Lorenzo,0,2,A,0,1,A
+ARG,13/03/2015,21:00,Crucero del Norte,Olimpo,0,0,D,0,0,D
+ARG,14/03/2015,00:10,Racing Club,CA Colón,4,1,H,2,0,H
+ARG,14/03/2015,19:00,CA Banfield,CA San Martín,3,2,H,2,1,H
+ARG,14/03/2015,21:15,Boca Juniors,Defensa y Justicia,2,1,H,2,0,H
+ARG,14/03/2015,23:10,Unión de Santa Fe,Independiente,1,1,D,1,1,D
+ARG,14/03/2015,23:30,Sarmiento de Junín,Newell's Old Boys,1,2,A,0,1,A
+ARG,15/03/2015,20:00,Quilmes AC,Vélez Sársfield,2,1,H,1,0,H
+ARG,15/03/2015,21:10,Argentinos Juniors,Estudiantes,2,2,D,0,1,A
+ARG,15/03/2015,21:15,Tigre,Atlético Rafaela,2,1,H,2,0,H
+ARG,15/03/2015,21:15,San Lorenzo,Huracán,3,1,H,2,1,H
+ARG,16/03/2015,00:30,CD Godoy Cruz,CA Lanús,1,5,A,1,2,A
+ARG,16/03/2015,19:00,Rosario Central,CA Temperley,1,0,H,0,0,D
+ARG,16/03/2015,23:00,Belgrano Córdoba,Aldosivi,0,1,A,0,0,D
+ARG,17/03/2015,00:10,Arsenal Sarandí,River Plate,3,3,D,3,1,H
+ARG,17/03/2015,19:00,GyE La Plata,Nueva Chicago,2,1,H,0,0,D
+ARG,20/03/2015,23:30,Newell's Old Boys,Quilmes AC,1,1,D,0,0,D
+ARG,21/03/2015,00:10,CA Lanús,GyE La Plata,2,0,H,0,0,D
+ARG,21/03/2015,20:00,CA Colón,Tigre,0,1,A,0,0,D
+ARG,21/03/2015,21:00,Vélez Sársfield,Belgrano Córdoba,1,2,A,1,0,H
+ARG,21/03/2015,23:15,Independiente,Arsenal Sarandí,4,0,H,2,0,H
+ARG,21/03/2015,23:30,Sarmiento de Junín,Crucero del Norte,2,1,H,0,1,A
+ARG,21/03/2015,23:30,Huracán,Argentinos Juniors,4,0,H,3,0,H
+ARG,22/03/2015,19:00,Atlético Rafaela,Rosario Central,1,1,D,1,0,H
+ARG,22/03/2015,20:00,Estudiantes,CA Banfield,1,2,A,1,0,H
+ARG,22/03/2015,20:00,Defensa y Justicia,Racing Club,1,1,D,0,1,A
+ARG,22/03/2015,21:15,River Plate,CD Godoy Cruz,1,0,H,1,0,H
+ARG,23/03/2015,00:30,CA San Martín,Boca Juniors,1,1,D,0,1,A
+ARG,23/03/2015,19:00,Nueva Chicago,San Lorenzo,0,1,A,0,0,D
+ARG,23/03/2015,21:10,Aldosivi,Unión de Santa Fe,3,3,D,1,2,A
+ARG,24/03/2015,00:10,CA Temperley,Olimpo,0,0,D,0,0,D
+ARG,27/03/2015,21:00,Quilmes AC,Sarmiento de Junín,0,4,A,0,2,A
+ARG,28/03/2015,00:10,Rosario Central,CA Colón,1,1,D,1,1,D
+ARG,28/03/2015,18:00,Olimpo,Atlético Rafaela,0,0,D,0,0,D
+ARG,28/03/2015,23:00,CA Banfield,Huracán,1,0,H,0,0,D
+ARG,28/03/2015,23:10,CD Godoy Cruz,Independiente,2,2,D,1,1,D
+ARG,28/03/2015,23:30,San Lorenzo,CA Lanús,4,0,H,1,0,H
+ARG,29/03/2015,00:00,Crucero del Norte,CA Temperley,1,0,H,1,0,H
+ARG,29/03/2015,20:00,Belgrano Córdoba,Newell's Old Boys,2,0,H,1,0,H
+ARG,29/03/2015,21:00,Racing Club,CA San Martín,2,0,H,2,0,H
+ARG,29/03/2015,22:15,Boca Juniors,Estudiantes,3,0,H,2,0,H
+ARG,29/03/2015,22:15,Unión de Santa Fe,Vélez Sársfield,1,0,H,1,0,H
+ARG,30/03/2015,01:30,GyE La Plata,River Plate,2,3,A,0,2,A
+ARG,31/03/2015,01:10,Tigre,Defensa y Justicia,0,0,D,0,0,D
+ARG,31/03/2015,01:10,Argentinos Juniors,Nueva Chicago,1,1,D,1,1,D
+ARG,25/04/2015,,Arsenal Sarandí,Aldosivi,0,3,A,0,1,A
+ARG,03/04/2015,22:10,Sarmiento de Junín,Belgrano Córdoba,1,3,A,1,1,D
+ARG,04/04/2015,01:10,Estudiantes,Racing Club,1,1,D,0,0,D
+ARG,04/04/2015,21:00,Atlético Rafaela,CA Temperley,1,1,D,1,1,D
+ARG,04/04/2015,22:10,Defensa y Justicia,Rosario Central,3,3,D,1,2,A
+ARG,04/04/2015,23:15,Aldosivi,CD Godoy Cruz,2,0,H,1,0,H
+ARG,05/04/2015,00:15,Independiente,GyE La Plata,1,1,D,1,1,D
+ARG,05/04/2015,00:30,Vélez Sársfield,Arsenal Sarandí,2,1,H,1,0,H
+ARG,05/04/2015,20:00,River Plate,San Lorenzo,1,0,H,0,0,D
+ARG,05/04/2015,21:00,CA Lanús,Argentinos Juniors,0,1,A,0,0,D
+ARG,05/04/2015,22:15,Huracán,Boca Juniors,0,2,A,0,1,A
+ARG,05/04/2015,22:15,CA Colón,Olimpo,1,0,H,0,0,D
+ARG,06/04/2015,00:30,Quilmes AC,Crucero del Norte,3,1,H,2,0,H
+ARG,06/04/2015,01:30,CA San Martín,Tigre,3,1,H,1,1,D
+ARG,06/04/2015,20:00,Nueva Chicago,CA Banfield,1,2,A,0,1,A
+ARG,07/04/2015,01:10,Newell's Old Boys,Unión de Santa Fe,2,0,H,2,0,H
+ARG,10/04/2015,22:00,Crucero del Norte,Atlético Rafaela,1,1,D,0,0,D
+ARG,11/04/2015,01:10,CA Temperley,CA Colón,2,1,H,2,0,H
+ARG,11/04/2015,19:00,CD Godoy Cruz,Vélez Sársfield,2,2,D,0,1,A
+ARG,11/04/2015,21:10,GyE La Plata,Aldosivi,4,1,H,0,1,A
+ARG,11/04/2015,22:10,Rosario Central,CA San Martín,2,1,H,1,0,H
+ARG,12/04/2015,00:15,Racing Club,Huracán,2,0,H,0,0,D
+ARG,12/04/2015,00:30,San Lorenzo,Independiente,1,0,H,1,0,H
+ARG,12/04/2015,20:00,Olimpo,Defensa y Justicia,0,0,D,0,0,D
+ARG,12/04/2015,20:00,CA Banfield,CA Lanús,1,2,A,0,1,A
+ARG,12/04/2015,21:15,Unión de Santa Fe,Sarmiento de Junín,0,1,A,0,1,A
+ARG,12/04/2015,22:15,Boca Juniors,Nueva Chicago,0,0,D,0,0,D
+ARG,13/04/2015,01:30,Argentinos Juniors,River Plate,1,2,A,0,1,A
+ARG,13/04/2015,20:00,Arsenal Sarandí,Newell's Old Boys,3,0,H,1,0,H
+ARG,14/04/2015,00:10,Tigre,Estudiantes,2,0,H,1,0,H
+ARG,14/04/2015,01:10,Belgrano Córdoba,Quilmes AC,2,1,H,1,1,D
+ARG,18/04/2015,01:10,Estudiantes,Rosario Central,1,1,D,0,0,D
+ARG,18/04/2015,20:10,Sarmiento de Junín,Arsenal Sarandí,2,0,H,1,0,H
+ARG,18/04/2015,22:10,Huracán,Tigre,1,2,A,0,1,A
+ARG,18/04/2015,22:30,Defensa y Justicia,CA Temperley,0,1,A,0,0,D
+ARG,19/04/2015,00:15,Independiente,Argentinos Juniors,0,0,D,0,0,D
+ARG,19/04/2015,00:30,Vélez Sársfield,GyE La Plata,0,1,A,0,0,D
+ARG,19/04/2015,01:00,Belgrano Córdoba,Crucero del Norte,1,0,H,1,0,H
+ARG,19/04/2015,19:00,Nueva Chicago,Racing Club,0,0,D,0,0,D
+ARG,19/04/2015,21:10,Aldosivi,San Lorenzo,1,0,H,1,0,H
+ARG,19/04/2015,22:15,River Plate,CA Banfield,4,1,H,1,0,H
+ARG,19/04/2015,22:30,CA San Martín,Olimpo,2,0,H,1,0,H
+ARG,20/04/2015,01:30,CA Lanús,Boca Juniors,1,3,A,1,1,D
+ARG,21/04/2015,01:10,Quilmes AC,Unión de Santa Fe,1,3,A,1,2,A
+ARG,21/04/2015,22:00,CA Colón,Atlético Rafaela,2,1,H,1,0,H
+ARG,22/04/2015,00:30,Newell's Old Boys,CD Godoy Cruz,2,0,H,1,0,H
+ARG,30/04/2015,22:00,CD Godoy Cruz,Sarmiento de Junín,1,0,H,0,0,D
+ARG,02/05/2015,19:00,Olimpo,Estudiantes,0,0,D,0,0,D
+ARG,02/05/2015,21:15,GyE La Plata,Newell's Old Boys,0,0,D,0,0,D
+ARG,02/05/2015,22:10,San Lorenzo,Vélez Sársfield,1,0,H,0,0,D
+ARG,02/05/2015,23:30,Argentinos Juniors,Aldosivi,0,1,A,0,1,A
+ARG,03/05/2015,00:15,Racing Club,CA Lanús,2,0,H,0,0,D
+ARG,03/05/2015,00:30,Rosario Central,Huracán,1,1,D,0,1,A
+ARG,03/05/2015,19:00,Atlético Rafaela,Defensa y Justicia,2,1,H,2,0,H
+ARG,03/05/2015,20:00,CA Banfield,Independiente,1,1,D,0,1,A
+ARG,03/05/2015,21:10,Tigre,Nueva Chicago,2,0,H,1,0,H
+ARG,03/05/2015,22:15,Boca Juniors,River Plate,2,0,H,0,0,D
+ARG,04/05/2015,01:30,Unión de Santa Fe,Belgrano Córdoba,1,1,D,1,1,D
+ARG,04/05/2015,20:00,Arsenal Sarandí,Quilmes AC,0,1,A,0,0,D
+ARG,05/05/2015,01:00,Crucero del Norte,CA Colón,0,0,D,0,0,D
+ARG,05/05/2015,01:10,CA Temperley,CA San Martín,0,1,A,0,1,A
+ARG,08/05/2015,19:00,Nueva Chicago,Rosario Central,0,2,A,0,1,A
+ARG,09/05/2015,00:00,CA Lanús,Tigre,1,1,D,1,0,H
+ARG,09/05/2015,01:10,Estudiantes,CA Temperley,2,1,H,0,1,A
+ARG,09/05/2015,20:10,Quilmes AC,CD Godoy Cruz,0,0,D,0,0,D
+ARG,09/05/2015,22:10,Huracán,Olimpo,1,3,A,1,0,H
+ARG,09/05/2015,22:30,Unión de Santa Fe,Crucero del Norte,5,2,H,3,1,H
+ARG,10/05/2015,00:15,Newell's Old Boys,San Lorenzo,1,1,D,1,1,D
+ARG,10/05/2015,00:30,Vélez Sársfield,Argentinos Juniors,0,1,A,0,0,D
+ARG,10/05/2015,20:00,Belgrano Córdoba,Arsenal Sarandí,2,0,H,1,0,H
+ARG,10/05/2015,20:00,Aldosivi,CA Banfield,0,3,A,0,2,A
+ARG,10/05/2015,22:15,River Plate,Racing Club,0,0,D,0,0,D
+ARG,11/05/2015,00:00,CA San Martín,Atlético Rafaela,1,1,D,0,1,A
+ARG,11/05/2015,01:30,Independiente,Boca Juniors,1,1,D,1,1,D
+ARG,11/05/2015,22:00,Sarmiento de Junín,GyE La Plata,0,0,D,0,0,D
+ARG,12/05/2015,01:10,Defensa y Justicia,CA Colón,2,3,A,1,1,D
+ARG,22/05/2015,22:00,GyE La Plata,Quilmes AC,3,2,H,2,1,H
+ARG,23/05/2015,00:00,Crucero del Norte,Defensa y Justicia,3,1,H,0,0,D
+ARG,23/05/2015,01:10,CA Temperley,Huracán,0,0,D,0,0,D
+ARG,23/05/2015,19:00,Arsenal Sarandí,Unión de Santa Fe,1,1,D,0,0,D
+ARG,23/05/2015,21:10,Rosario Central,CA Lanús,1,1,D,0,1,A
+ARG,23/05/2015,21:40,CA Colón,CA San Martín,2,2,D,2,1,H
+ARG,23/05/2015,22:10,CA Banfield,Vélez Sársfield,1,3,A,1,2,A
+ARG,23/05/2015,23:30,Olimpo,Nueva Chicago,0,0,D,0,0,D
+ARG,24/05/2015,00:15,San Lorenzo,Sarmiento de Junín,3,0,H,0,0,D
+ARG,24/05/2015,00:30,Atlético Rafaela,Estudiantes,1,2,A,1,0,H
+ARG,24/05/2015,19:00,Racing Club,Independiente,1,0,H,1,0,H
+ARG,24/05/2015,20:00,Argentinos Juniors,Newell's Old Boys,2,1,H,1,0,H
+ARG,24/05/2015,22:15,Boca Juniors,Aldosivi,0,3,A,0,1,A
+ARG,24/05/2015,22:20,CD Godoy Cruz,Belgrano Córdoba,1,0,H,0,0,D
+ARG,09/07/2015,00:10,Tigre,River Plate,0,0,D,0,0,D
+ARG,30/05/2015,01:10,Quilmes AC,San Lorenzo,1,2,A,1,2,A
+ARG,30/05/2015,19:00,Nueva Chicago,CA Temperley,0,2,A,0,0,D
+ARG,30/05/2015,21:10,Sarmiento de Junín,Argentinos Juniors,0,0,D,0,0,D
+ARG,30/05/2015,22:10,Belgrano Córdoba,GyE La Plata,0,1,A,0,1,A
+ARG,31/05/2015,00:15,Independiente,Tigre,1,0,H,1,0,H
+ARG,31/05/2015,00:30,Unión de Santa Fe,CD Godoy Cruz,1,0,H,0,0,D
+ARG,31/05/2015,00:30,Newell's Old Boys,CA Banfield,1,1,D,1,1,D
+ARG,31/05/2015,20:00,Aldosivi,Racing Club,1,2,A,1,2,A
+ARG,31/05/2015,20:00,CA San Martín,Defensa y Justicia,2,2,D,0,1,A
+ARG,31/05/2015,22:15,River Plate,Rosario Central,2,0,H,1,0,H
+ARG,31/05/2015,23:30,Estudiantes,CA Colón,0,0,D,0,0,D
+ARG,01/06/2015,01:30,Vélez Sársfield,Boca Juniors,2,0,H,0,0,D
+ARG,01/06/2015,20:00,Arsenal Sarandí,Crucero del Norte,1,0,H,0,0,D
+ARG,02/06/2015,01:10,CA Lanús,Olimpo,2,0,H,2,0,H
+ARG,02/06/2015,01:10,Huracán,Atlético Rafaela,3,2,H,1,0,H
+ARG,05/06/2015,22:00,GyE La Plata,Unión de Santa Fe,5,2,H,3,0,H
+ARG,06/06/2015,00:00,CA Banfield,Sarmiento de Junín,0,0,D,0,0,D
+ARG,06/06/2015,01:10,Argentinos Juniors,Quilmes AC,0,2,A,0,2,A
+ARG,06/06/2015,19:00,CA Colón,Huracán,1,1,D,1,0,H
+ARG,06/06/2015,21:15,CA Temperley,CA Lanús,1,1,D,0,0,D
+ARG,06/06/2015,22:00,San Lorenzo,Belgrano Córdoba,0,0,D,0,0,D
+ARG,07/06/2015,15:00,Crucero del Norte,CA San Martín,3,1,H,2,0,H
+ARG,07/06/2015,19:00,Rosario Central,Independiente,1,1,D,0,1,A
+ARG,07/06/2015,20:05,Atlético Rafaela,Nueva Chicago,2,0,H,1,0,H
+ARG,07/06/2015,21:00,Racing Club,Vélez Sársfield,3,1,H,1,0,H
+ARG,07/06/2015,22:15,Boca Juniors,Newell's Old Boys,4,0,H,1,0,H
+ARG,08/06/2015,00:00,CD Godoy Cruz,Arsenal Sarandí,0,0,D,0,0,D
+ARG,08/06/2015,01:30,Olimpo,River Plate,1,1,D,0,0,D
+ARG,08/06/2015,22:00,Tigre,Aldosivi,2,1,H,1,0,H
+ARG,09/06/2015,00:10,Defensa y Justicia,Estudiantes,0,1,A,0,0,D
+ARG,10/07/2015,22:00,Arsenal Sarandí,GyE La Plata,0,1,A,0,0,D
+ARG,11/07/2015,01:10,Estudiantes,CA San Martín,0,0,D,0,0,D
+ARG,11/07/2015,19:00,Belgrano Córdoba,Argentinos Juniors,2,1,H,0,1,A
+ARG,11/07/2015,21:00,River Plate,CA Temperley,1,1,D,1,1,D
+ARG,11/07/2015,23:10,Unión de Santa Fe,San Lorenzo,1,1,D,1,1,D
+ARG,11/07/2015,23:10,Quilmes AC,CA Banfield,0,1,A,0,1,A
+ARG,12/07/2015,00:30,Huracán,Defensa y Justicia,0,0,D,0,0,D
+ARG,12/07/2015,01:30,CA Lanús,Atlético Rafaela,3,0,H,0,0,D
+ARG,12/07/2015,18:00,Nueva Chicago,CA Colón,0,0,D,0,0,D
+ARG,12/07/2015,19:00,Independiente,Olimpo,3,1,H,1,1,D
+ARG,12/07/2015,21:00,Newell's Old Boys,Racing Club,3,0,H,2,0,H
+ARG,12/07/2015,22:15,CD Godoy Cruz,Crucero del Norte,3,0,H,2,0,H
+ARG,13/07/2015,01:30,Sarmiento de Junín,Boca Juniors,0,1,A,0,1,A
+ARG,13/07/2015,22:00,Aldosivi,Rosario Central,1,3,A,0,2,A
+ARG,14/07/2015,01:10,Vélez Sársfield,Tigre,2,2,D,0,0,D
+ARG,17/07/2015,23:00,San Lorenzo,Arsenal Sarandí,3,0,H,2,0,H
+ARG,18/07/2015,01:30,CA Banfield,Belgrano Córdoba,1,2,A,1,0,H
+ARG,18/07/2015,18:00,Olimpo,Aldosivi,3,1,H,3,0,H
+ARG,18/07/2015,20:10,Defensa y Justicia,Nueva Chicago,2,1,H,0,1,A
+ARG,18/07/2015,20:10,Boca Juniors,Quilmes AC,2,1,H,1,0,H
+ARG,18/07/2015,22:30,Atlético Rafaela,River Plate,1,5,A,1,2,A
+ARG,19/07/2015,00:10,Racing Club,Sarmiento de Junín,2,1,H,2,0,H
+ARG,19/07/2015,00:30,CA Colón,CA Lanús,1,2,A,1,1,D
+ARG,19/07/2015,20:00,CA San Martín,Huracán,3,2,H,1,2,A
+ARG,19/07/2015,20:00,Tigre,Newell's Old Boys,0,0,D,0,0,D
+ARG,19/07/2015,22:15,Rosario Central,Vélez Sársfield,0,0,D,0,0,D
+ARG,20/07/2015,01:30,CA Temperley,Independiente,0,1,A,0,0,D
+ARG,20/07/2015,19:15,GyE La Plata,CD Godoy Cruz,2,0,H,0,0,D
+ARG,21/07/2015,00:00,Crucero del Norte,Estudiantes,1,2,A,0,0,D
+ARG,21/07/2015,01:10,Argentinos Juniors,Unión de Santa Fe,1,2,A,0,1,A
+ARG,25/07/2015,01:10,Aldosivi,CA Temperley,0,0,D,0,0,D
+ARG,25/07/2015,19:00,GyE La Plata,Crucero del Norte,2,1,H,1,0,H
+ARG,25/07/2015,20:15,Sarmiento de Junín,Tigre,0,1,A,0,1,A
+ARG,25/07/2015,21:15,River Plate,CA Colón,3,1,H,0,1,A
+ARG,25/07/2015,22:45,Unión de Santa Fe,CA Banfield,0,0,D,0,0,D
+ARG,26/07/2015,00:10,Independiente,Atlético Rafaela,2,0,H,1,0,H
+ARG,26/07/2015,00:30,Vélez Sársfield,Olimpo,0,2,A,0,0,D
+ARG,26/07/2015,19:00,CD Godoy Cruz,San Lorenzo,1,1,D,0,0,D
+ARG,26/07/2015,19:00,Newell's Old Boys,Rosario Central,0,1,A,0,0,D
+ARG,26/07/2015,21:20,Quilmes AC,Racing Club,2,1,H,1,1,D
+ARG,26/07/2015,22:15,Huracán,Estudiantes,1,0,H,1,0,H
+ARG,26/07/2015,23:45,CA Lanús,Defensa y Justicia,0,1,A,0,0,D
+ARG,27/07/2015,01:30,Belgrano Córdoba,Boca Juniors,0,1,A,0,1,A
+ARG,27/07/2015,19:00,Nueva Chicago,CA San Martín,0,0,D,0,0,D
+ARG,27/07/2015,22:00,Arsenal Sarandí,Argentinos Juniors,3,2,H,1,0,H
+ARG,31/07/2015,22:00,Atlético Rafaela,Aldosivi,2,1,H,1,1,D
+ARG,01/08/2015,01:10,CA Temperley,Vélez Sársfield,2,1,H,0,1,A
+ARG,01/08/2015,19:30,Argentinos Juniors,CD Godoy Cruz,0,0,D,0,0,D
+ARG,01/08/2015,21:15,Estudiantes,Nueva Chicago,1,0,H,0,0,D
+ARG,01/08/2015,22:10,San Lorenzo,GyE La Plata,1,0,H,0,0,D
+ARG,02/08/2015,00:00,CA Colón,Independiente,0,1,A,0,0,D
+ARG,02/08/2015,00:00,Rosario Central,Sarmiento de Junín,1,1,D,0,1,A
+ARG,02/08/2015,19:30,Olimpo,Newell's Old Boys,2,0,H,0,0,D
+ARG,02/08/2015,20:00,Racing Club,Belgrano Córdoba,0,0,D,0,0,D
+ARG,02/08/2015,21:30,Crucero del Norte,Huracán,3,3,D,2,0,H
+ARG,02/08/2015,22:15,Boca Juniors,Unión de Santa Fe,3,4,A,1,2,A
+ARG,03/08/2015,22:00,Tigre,Quilmes AC,0,1,A,0,1,A
+ARG,04/08/2015,01:10,CA Banfield,Arsenal Sarandí,4,1,H,3,1,H
+ARG,12/08/2015,01:30,CA San Martín,CA Lanús,1,1,D,0,1,A
+ARG,15/10/2015,00:45,Defensa y Justicia,River Plate,1,0,H,1,0,H
+ARG,14/08/2015,22:00,Sarmiento de Junín,Olimpo,0,0,D,0,0,D
+ARG,15/08/2015,00:00,Belgrano Córdoba,Tigre,1,0,H,1,0,H
+ARG,15/08/2015,01:10,Independiente,Defensa y Justicia,1,0,H,1,0,H
+ARG,15/08/2015,19:00,Nueva Chicago,Huracán,3,0,H,1,0,H
+ARG,15/08/2015,20:00,CD Godoy Cruz,CA Banfield,1,2,A,1,2,A
+ARG,15/08/2015,21:10,Aldosivi,CA Colón,1,1,D,1,1,D
+ARG,15/08/2015,22:10,Unión de Santa Fe,Racing Club,1,2,A,0,2,A
+ARG,16/08/2015,00:30,CA Lanús,Estudiantes,0,0,D,0,0,D
+ARG,16/08/2015,20:00,San Lorenzo,Crucero del Norte,2,1,H,1,1,D
+ARG,16/08/2015,20:00,GyE La Plata,Argentinos Juniors,4,2,H,0,2,A
+ARG,16/08/2015,22:15,Vélez Sársfield,Atlético Rafaela,2,2,D,1,1,D
+ARG,16/08/2015,23:20,Newell's Old Boys,CA Temperley,0,0,D,0,0,D
+ARG,17/08/2015,01:30,Arsenal Sarandí,Boca Juniors,1,2,A,0,1,A
+ARG,17/08/2015,22:00,River Plate,CA San Martín,0,1,A,0,0,D
+ARG,18/08/2015,01:10,Quilmes AC,Rosario Central,3,1,H,0,1,A
+ARG,22/08/2015,00:00,Atlético Rafaela,Newell's Old Boys,1,1,D,0,0,D
+ARG,22/08/2015,01:10,CA Banfield,GyE La Plata,1,0,H,0,0,D
+ARG,22/08/2015,19:00,Olimpo,Quilmes AC,0,1,A,0,1,A
+ARG,22/08/2015,20:30,Racing Club,Arsenal Sarandí,2,1,H,1,1,D
+ARG,22/08/2015,21:10,CA Colón,Vélez Sársfield,0,0,D,0,0,D
+ARG,22/08/2015,22:10,CA San Martín,Independiente,1,1,D,1,0,H
+ARG,23/08/2015,00:30,Argentinos Juniors,San Lorenzo,2,3,A,0,2,A
+ARG,23/08/2015,19:10,Crucero del Norte,Nueva Chicago,0,1,A,0,0,D
+ARG,23/08/2015,20:00,Huracán,CA Lanús,0,0,D,0,0,D
+ARG,23/08/2015,20:00,Rosario Central,Belgrano Córdoba,3,1,H,1,0,H
+ARG,23/08/2015,21:20,Tigre,Unión de Santa Fe,2,1,H,2,1,H
+ARG,23/08/2015,22:15,Boca Juniors,CD Godoy Cruz,2,0,H,1,0,H
+ARG,24/08/2015,01:30,Estudiantes,River Plate,2,1,H,0,1,A
+ARG,25/08/2015,00:00,Defensa y Justicia,Aldosivi,4,0,H,1,0,H
+ARG,25/08/2015,01:10,CA Temperley,Sarmiento de Junín,0,0,D,0,0,D
+ARG,29/08/2015,01:10,Argentinos Juniors,Crucero del Norte,4,0,H,1,0,H
+ARG,29/08/2015,20:00,Quilmes AC,CA Temperley,0,0,D,0,0,D
+ARG,29/08/2015,21:10,Aldosivi,CA San Martín,2,0,H,2,0,H
+ARG,29/08/2015,22:15,GyE La Plata,Boca Juniors,1,2,A,0,0,D
+ARG,30/08/2015,00:30,Newell's Old Boys,CA Colón,0,1,A,0,0,D
+ARG,30/08/2015,00:30,Vélez Sársfield,Defensa y Justicia,2,1,H,0,0,D
+ARG,30/08/2015,19:10,Arsenal Sarandí,Tigre,2,0,H,0,0,D
+ARG,30/08/2015,20:10,San Lorenzo,CA Banfield,0,0,D,0,0,D
+ARG,30/08/2015,21:20,Sarmiento de Junín,Atlético Rafaela,0,1,A,0,0,D
+ARG,30/08/2015,22:15,River Plate,Huracán,1,1,D,1,1,D
+ARG,30/08/2015,23:30,Unión de Santa Fe,Rosario Central,0,1,A,0,0,D
+ARG,31/08/2015,01:30,Independiente,Estudiantes,1,1,D,0,0,D
+ARG,01/09/2015,00:10,Belgrano Córdoba,Olimpo,0,0,D,0,0,D
+ARG,01/09/2015,01:10,CA Lanús,Nueva Chicago,1,0,H,0,0,D
+ARG,30/09/2015,19:00,CD Godoy Cruz,Racing Club,1,2,A,1,1,D
+ARG,04/09/2015,23:10,Tigre,CD Godoy Cruz,2,1,H,1,0,H
+ARG,04/09/2015,23:10,CA Banfield,Argentinos Juniors,1,1,D,0,1,A
+ARG,05/09/2015,19:10,Crucero del Norte,CA Lanús,1,3,A,1,2,A
+ARG,05/09/2015,20:45,Rosario Central,Arsenal Sarandí,1,0,H,0,0,D
+ARG,05/09/2015,21:20,CA Colón,Sarmiento de Junín,0,1,A,0,1,A
+ARG,05/09/2015,22:10,Huracán,Independiente,1,1,D,0,0,D
+ARG,05/09/2015,23:00,Defensa y Justicia,Newell's Old Boys,1,0,H,0,0,D
+ARG,06/09/2015,00:30,CA Temperley,Belgrano Córdoba,2,1,H,1,1,D
+ARG,06/09/2015,20:00,Nueva Chicago,River Plate,1,4,A,1,2,A
+ARG,06/09/2015,21:10,CA San Martín,Vélez Sársfield,3,1,H,2,0,H
+ARG,06/09/2015,22:15,Boca Juniors,San Lorenzo,0,1,A,0,0,D
+ARG,06/09/2015,23:20,Olimpo,Unión de Santa Fe,0,0,D,0,0,D
+ARG,07/09/2015,01:30,Racing Club,GyE La Plata,2,0,H,1,0,H
+ARG,08/09/2015,00:00,Atlético Rafaela,Quilmes AC,2,4,A,0,1,A
+ARG,08/09/2015,01:10,Estudiantes,Aldosivi,2,1,H,1,1,D
+ARG,12/09/2015,01:10,Defensa y Justicia,Arsenal Sarandí,1,0,H,1,0,H
+ARG,12/09/2015,18:00,Nueva Chicago,Argentinos Juniors,1,2,A,0,1,A
+ARG,12/09/2015,20:10,CA San Martín,CD Godoy Cruz,1,2,A,1,0,H
+ARG,12/09/2015,20:10,Independiente,Racing Club,3,0,H,1,0,H
+ARG,12/09/2015,22:10,Huracán,San Lorenzo,1,0,H,0,0,D
+ARG,12/09/2015,22:20,Olimpo,Sarmiento de Junín,1,0,H,0,0,D
+ARG,13/09/2015,00:30,Atlético Rafaela,Belgrano Córdoba,1,1,D,0,0,D
+ARG,13/09/2015,01:30,Tigre,Vélez Sársfield,3,0,H,1,0,H
+ARG,13/09/2015,19:10,Rosario Central,Newell's Old Boys,0,0,D,0,0,D
+ARG,13/09/2015,20:00,Estudiantes,GyE La Plata,1,1,D,0,1,A
+ARG,13/09/2015,20:40,CA Colón,Unión de Santa Fe,0,0,D,0,0,D
+ARG,13/09/2015,22:15,River Plate,Boca Juniors,0,1,A,0,1,A
+ARG,14/09/2015,01:30,CA Lanús,CA Banfield,0,1,A,0,1,A
+ARG,14/09/2015,22:00,Aldosivi,Crucero del Norte,2,0,H,1,0,H
+ARG,15/09/2015,01:10,CA Temperley,Quilmes AC,0,0,D,0,0,D
+ARG,19/09/2015,01:10,Sarmiento de Junín,Defensa y Justicia,2,1,H,1,0,H
+ARG,19/09/2015,15:00,Aldosivi,Huracán,0,0,D,0,0,D
+ARG,19/09/2015,20:30,Argentinos Juniors,Boca Juniors,1,3,A,0,1,A
+ARG,19/09/2015,20:30,CD Godoy Cruz,Rosario Central,1,3,A,0,2,A
+ARG,19/09/2015,22:10,Independiente,Nueva Chicago,2,1,H,1,1,D
+ARG,19/09/2015,22:45,GyE La Plata,Tigre,1,1,D,0,1,A
+ARG,19/09/2015,23:00,Newell's Old Boys,CA San Martín,1,0,H,0,0,D
+ARG,20/09/2015,00:30,Vélez Sársfield,Estudiantes,0,1,A,0,0,D
+ARG,20/09/2015,19:00,Arsenal Sarandí,Olimpo,2,1,H,2,1,H
+ARG,20/09/2015,20:00,CA Banfield,Crucero del Norte,2,1,H,2,0,H
+ARG,20/09/2015,21:10,Unión de Santa Fe,CA Temperley,2,1,H,1,0,H
+ARG,20/09/2015,22:15,River Plate,CA Lanús,1,1,D,0,1,A
+ARG,21/09/2015,01:30,San Lorenzo,Racing Club,2,1,H,1,0,H
+ARG,22/09/2015,00:00,Belgrano Córdoba,Atlético Rafaela,0,0,D,0,0,D
+ARG,22/09/2015,01:10,Quilmes AC,CA Colón,1,0,H,1,0,H
+ARG,26/09/2015,01:10,Olimpo,CD Godoy Cruz,1,0,H,0,0,D
+ARG,26/09/2015,20:00,Nueva Chicago,Aldosivi,3,1,H,2,0,H
+ARG,26/09/2015,20:00,Atlético Rafaela,Unión de Santa Fe,2,3,A,2,0,H
+ARG,26/09/2015,22:10,Tigre,San Lorenzo,1,1,D,0,0,D
+ARG,26/09/2015,22:15,CA Colón,Belgrano Córdoba,0,1,A,0,1,A
+ARG,27/09/2015,00:30,Crucero del Norte,River Plate,0,1,A,0,0,D
+ARG,27/09/2015,00:30,Racing Club,Argentinos Juniors,1,0,H,0,0,D
+ARG,27/09/2015,20:00,Huracán,Vélez Sársfield,0,0,D,0,0,D
+ARG,27/09/2015,20:00,Rosario Central,GyE La Plata,4,0,H,3,0,H
+ARG,27/09/2015,21:10,Defensa y Justicia,Quilmes AC,0,1,A,0,1,A
+ARG,27/09/2015,22:15,Boca Juniors,CA Banfield,3,0,H,1,0,H
+ARG,27/09/2015,23:20,CA San Martín,Sarmiento de Junín,0,1,A,0,0,D
+ARG,28/09/2015,01:30,CA Lanús,Independiente,1,1,D,1,0,H
+ARG,28/09/2015,23:00,CA Temperley,Arsenal Sarandí,1,2,A,0,1,A
+ARG,29/09/2015,01:10,Estudiantes,Newell's Old Boys,0,2,A,0,2,A
+ARG,03/10/2015,00:00,Belgrano Córdoba,Defensa y Justicia,1,0,H,1,0,H
+ARG,03/10/2015,01:10,Quilmes AC,CA San Martín,2,0,H,1,0,H
+ARG,03/10/2015,19:00,Arsenal Sarandí,Atlético Rafaela,1,1,D,1,0,H
+ARG,03/10/2015,20:15,Sarmiento de Junín,Estudiantes,0,1,A,0,0,D
+ARG,03/10/2015,21:15,Argentinos Juniors,Tigre,2,1,H,1,0,H
+ARG,03/10/2015,22:10,San Lorenzo,Rosario Central,2,2,D,1,1,D
+ARG,04/10/2015,00:30,GyE La Plata,Olimpo,2,2,D,1,1,D
+ARG,04/10/2015,18:00,Vélez Sársfield,Nueva Chicago,1,2,A,1,1,D
+ARG,04/10/2015,20:00,Unión de Santa Fe,CA Colón,0,0,D,0,0,D
+ARG,04/10/2015,20:15,CD Godoy Cruz,CA Temperley,3,0,H,2,0,H
+ARG,04/10/2015,22:30,Boca Juniors,Crucero del Norte,1,0,H,1,0,H
+ARG,04/10/2015,23:30,Newell's Old Boys,Huracán,2,0,H,1,0,H
+ARG,05/10/2015,01:30,Independiente,River Plate,3,0,H,2,0,H
+ARG,06/10/2015,00:00,Aldosivi,CA Lanús,3,1,H,1,0,H
+ARG,06/10/2015,01:10,CA Banfield,Racing Club,0,0,D,0,0,D
+ARG,17/10/2015,00:00,Huracán,Sarmiento de Junín,3,0,H,1,0,H
+ARG,17/10/2015,01:10,Crucero del Norte,Independiente,0,4,A,0,2,A
+ARG,17/10/2015,19:15,Nueva Chicago,Newell's Old Boys,5,0,H,3,0,H
+ARG,17/10/2015,20:15,Atlético Rafaela,CD Godoy Cruz,1,4,A,1,1,D
+ARG,17/10/2015,21:30,CA Colón,Arsenal Sarandí,3,1,H,3,0,H
+ARG,17/10/2015,22:30,CA San Martín,Belgrano Córdoba,1,1,D,0,0,D
+ARG,18/10/2015,00:30,Estudiantes,Quilmes AC,4,1,H,0,1,A
+ARG,18/10/2015,00:45,CA Lanús,Vélez Sársfield,0,1,A,0,0,D
+ARG,18/10/2015,20:10,Olimpo,San Lorenzo,2,1,H,1,0,H
+ARG,18/10/2015,20:10,Rosario Central,Argentinos Juniors,2,0,H,1,0,H
+ARG,18/10/2015,20:15,Tigre,CA Banfield,3,1,H,2,0,H
+ARG,18/10/2015,22:30,River Plate,Aldosivi,1,1,D,0,1,A
+ARG,19/10/2015,01:30,Racing Club,Boca Juniors,3,1,H,2,1,H
+ARG,20/10/2015,00:15,Defensa y Justicia,Unión de Santa Fe,0,0,D,0,0,D
+ARG,20/10/2015,21:00,CA Temperley,GyE La Plata,1,3,A,1,2,A
+ARG,31/10/2015,00:10,CD Godoy Cruz,CA Colón,1,3,A,0,1,A
+ARG,31/10/2015,00:10,Sarmiento de Junín,Nueva Chicago,1,2,A,0,0,D
+ARG,31/10/2015,19:30,Belgrano Córdoba,Estudiantes,2,1,H,1,1,D
+ARG,31/10/2015,20:10,GyE La Plata,Atlético Rafaela,1,0,H,1,0,H
+ARG,31/10/2015,22:00,Vélez Sársfield,River Plate,0,1,A,0,0,D
+ARG,31/10/2015,22:20,Unión de Santa Fe,CA San Martín,0,0,D,0,0,D
+ARG,31/10/2015,23:30,Racing Club,Crucero del Norte,3,0,H,1,0,H
+ARG,01/11/2015,00:10,Newell's Old Boys,CA Lanús,1,1,D,0,0,D
+ARG,01/11/2015,18:30,Quilmes AC,Huracán,2,1,H,1,0,H
+ARG,01/11/2015,21:00,Boca Juniors,Tigre,1,0,H,1,0,H
+ARG,01/11/2015,21:00,CA Banfield,Rosario Central,2,1,H,2,0,H
+ARG,01/11/2015,21:00,San Lorenzo,CA Temperley,2,0,H,1,0,H
+ARG,02/11/2015,00:30,Aldosivi,Independiente,1,0,H,1,0,H
+ARG,02/11/2015,23:00,Arsenal Sarandí,Defensa y Justicia,1,0,H,1,0,H
+ARG,03/11/2015,00:10,Argentinos Juniors,Olimpo,0,1,A,0,1,A
+ARG,07/11/2015,00:10,CA Lanús,Sarmiento de Junín,2,1,H,1,0,H
+ARG,07/11/2015,18:30,Defensa y Justicia,CD Godoy Cruz,1,1,D,1,1,D
+ARG,07/11/2015,21:00,CA Colón,GyE La Plata,2,1,H,1,1,D
+ARG,07/11/2015,21:30,CA San Martín,Arsenal Sarandí,1,0,H,1,0,H
+ARG,07/11/2015,23:30,Estudiantes,Unión de Santa Fe,2,0,H,2,0,H
+ARG,07/11/2015,23:30,Olimpo,CA Banfield,1,2,A,1,2,A
+ARG,08/11/2015,19:00,River Plate,Newell's Old Boys,0,2,A,0,0,D
+ARG,08/11/2015,21:15,Atlético Rafaela,San Lorenzo,0,1,A,0,1,A
+ARG,08/11/2015,21:15,Rosario Central,Boca Juniors,3,1,H,0,1,A
+ARG,08/11/2015,21:15,Tigre,Racing Club,0,0,D,0,0,D
+ARG,09/11/2015,00:30,Independiente,Vélez Sársfield,1,0,H,0,0,D
+ARG,09/11/2015,18:30,Nueva Chicago,Quilmes AC,2,1,H,1,1,D
+ARG,09/11/2015,18:30,Huracán,Belgrano Córdoba,1,1,D,1,1,D
+ARG,09/11/2015,18:30,CA Temperley,Argentinos Juniors,0,0,D,0,0,D
+ARG,09/11/2015,23:10,Crucero del Norte,Aldosivi,0,2,A,0,1,A

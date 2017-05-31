@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,22/09/1935,,Brescia Calcio,Inter,1,0,H,NaN,NaN,NaN
+ITA,22/09/1935,,Unione Triestina,ACF Fiorentina,5,1,H,NaN,NaN,NaN
+ITA,22/09/1935,,Sampierdarenese,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,22/09/1935,,AS Roma,Torino FC,1,0,H,NaN,NaN,NaN
+ITA,22/09/1935,,Juventus,US Palermo,3,1,H,NaN,NaN,NaN
+ITA,22/09/1935,,Bologna FC,Genova 1893 Circolo del Calcio,4,1,H,NaN,NaN,NaN
+ITA,22/09/1935,,AS Bari,Lazio Roma,1,1,D,NaN,NaN,NaN
+ITA,22/09/1935,,AC Milan,US Alessandria 1912,2,0,H,NaN,NaN,NaN
+ITA,29/09/1935,,ACF Fiorentina,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,29/09/1935,,US Palermo,AS Bari,2,1,H,NaN,NaN,NaN
+ITA,29/09/1935,,SSC Napoli,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,29/09/1935,,Torino FC,Juventus,2,2,D,NaN,NaN,NaN
+ITA,29/09/1935,,Genova 1893 Circolo del Calcio,AS Roma,2,1,H,NaN,NaN,NaN
+ITA,29/09/1935,,Inter,AC Milan,1,1,D,NaN,NaN,NaN
+ITA,29/09/1935,,US Alessandria 1912,Sampierdarenese,1,1,D,NaN,NaN,NaN
+ITA,29/09/1935,,Lazio Roma,Unione Triestina,3,2,H,NaN,NaN,NaN
+ITA,06/10/1935,,Bologna FC,Inter,3,0,H,NaN,NaN,NaN
+ITA,06/10/1935,,Brescia Calcio,Torino FC,2,2,D,NaN,NaN,NaN
+ITA,06/10/1935,,Juventus,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,06/10/1935,,AC Milan,ACF Fiorentina,1,0,H,NaN,NaN,NaN
+ITA,06/10/1935,,US Palermo,US Alessandria 1912,1,0,H,NaN,NaN,NaN
+ITA,06/10/1935,,AS Roma,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,06/10/1935,,Sampierdarenese,Genova 1893 Circolo del Calcio,1,2,A,NaN,NaN,NaN
+ITA,06/10/1935,,Unione Triestina,AS Bari,4,1,H,NaN,NaN,NaN
+ITA,13/10/1935,,Lazio Roma,AS Roma,0,1,A,NaN,NaN,NaN
+ITA,13/10/1935,,Genova 1893 Circolo del Calcio,Juventus,1,1,D,NaN,NaN,NaN
+ITA,13/10/1935,,Torino FC,Unione Triestina,5,3,H,NaN,NaN,NaN
+ITA,13/10/1935,,US Alessandria 1912,Brescia Calcio,5,0,H,NaN,NaN,NaN
+ITA,13/10/1935,,AS Bari,AC Milan,0,2,A,NaN,NaN,NaN
+ITA,13/10/1935,,ACF Fiorentina,Sampierdarenese,1,1,D,NaN,NaN,NaN
+ITA,13/10/1935,,Inter,US Palermo,4,0,H,NaN,NaN,NaN
+ITA,13/10/1935,,SSC Napoli,Bologna FC,0,1,A,NaN,NaN,NaN
+ITA,20/10/1935,,AC Milan,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,20/10/1935,,Unione Triestina,US Alessandria 1912,0,0,D,NaN,NaN,NaN
+ITA,20/10/1935,,Sampierdarenese,AS Bari,2,1,H,NaN,NaN,NaN
+ITA,20/10/1935,,AS Roma,Inter,0,0,D,NaN,NaN,NaN
+ITA,20/10/1935,,SSC Napoli,ACF Fiorentina,4,0,H,NaN,NaN,NaN
+ITA,20/10/1935,,Juventus,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,20/10/1935,,Brescia Calcio,Genova 1893 Circolo del Calcio,0,0,D,NaN,NaN,NaN
+ITA,20/10/1935,,US Palermo,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,03/11/1935,,AS Bari,AS Roma,0,1,A,NaN,NaN,NaN
+ITA,03/11/1935,,Torino FC,US Palermo,5,0,H,NaN,NaN,NaN
+ITA,03/11/1935,,Lazio Roma,Sampierdarenese,5,0,H,NaN,NaN,NaN
+ITA,03/11/1935,,Genova 1893 Circolo del Calcio,AC Milan,3,3,D,NaN,NaN,NaN
+ITA,03/11/1935,,Inter,Unione Triestina,5,0,H,NaN,NaN,NaN
+ITA,03/11/1935,,US Alessandria 1912,SSC Napoli,2,3,A,NaN,NaN,NaN
+ITA,03/11/1935,,ACF Fiorentina,Juventus,1,1,D,NaN,NaN,NaN
+ITA,03/11/1935,,Bologna FC,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,10/11/1935,,AC Milan,Bologna FC,1,2,A,NaN,NaN,NaN
+ITA,10/11/1935,,Sampierdarenese,Unione Triestina,2,2,D,NaN,NaN,NaN
+ITA,10/11/1935,,AS Roma,ACF Fiorentina,0,1,A,NaN,NaN,NaN
+ITA,10/11/1935,,SSC Napoli,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,10/11/1935,,Juventus,AS Bari,0,0,D,NaN,NaN,NaN
+ITA,10/11/1935,,Brescia Calcio,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,10/11/1935,,US Alessandria 1912,Inter,2,2,D,NaN,NaN,NaN
+ITA,10/11/1935,,US Palermo,Genova 1893 Circolo del Calcio,0,1,A,NaN,NaN,NaN
+ITA,17/11/1935,,Bologna FC,AS Roma,2,0,H,NaN,NaN,NaN
+ITA,17/11/1935,,Torino FC,Sampierdarenese,3,0,H,NaN,NaN,NaN
+ITA,17/11/1935,,Lazio Roma,AC Milan,2,2,D,NaN,NaN,NaN
+ITA,17/11/1935,,Unione Triestina,US Palermo,5,0,H,NaN,NaN,NaN
+ITA,17/11/1935,,AS Bari,SSC Napoli,0,0,D,NaN,NaN,NaN
+ITA,17/11/1935,,Inter,Juventus,4,0,H,NaN,NaN,NaN
+ITA,17/11/1935,,ACF Fiorentina,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,17/11/1935,,Genova 1893 Circolo del Calcio,US Alessandria 1912,0,0,D,NaN,NaN,NaN
+ITA,01/12/1935,,Lazio Roma,Genova 1893 Circolo del Calcio,1,1,D,NaN,NaN,NaN
+ITA,01/12/1935,,Sampierdarenese,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,01/12/1935,,US Palermo,ACF Fiorentina,1,3,A,NaN,NaN,NaN
+ITA,01/12/1935,,AC Milan,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,01/12/1935,,Juventus,Unione Triestina,3,0,H,NaN,NaN,NaN
+ITA,01/12/1935,,Brescia Calcio,AS Bari,1,2,A,NaN,NaN,NaN
+ITA,01/12/1935,,US Alessandria 1912,Torino FC,0,2,A,NaN,NaN,NaN
+ITA,01/12/1935,,SSC Napoli,Inter,3,2,H,NaN,NaN,NaN
+ITA,08/12/1935,,ACF Fiorentina,AS Bari,2,2,D,NaN,NaN,NaN
+ITA,08/12/1935,,Torino FC,Lazio Roma,0,2,A,NaN,NaN,NaN
+ITA,08/12/1935,,AS Roma,Juventus,1,1,D,NaN,NaN,NaN
+ITA,08/12/1935,,Unione Triestina,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,08/12/1935,,Genova 1893 Circolo del Calcio,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,08/12/1935,,Bologna FC,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,08/12/1935,,Inter,Sampierdarenese,3,0,H,NaN,NaN,NaN
+ITA,08/12/1935,,US Palermo,Brescia Calcio,3,2,H,NaN,NaN,NaN
+ITA,15/12/1935,,US Alessandria 1912,ACF Fiorentina,2,1,H,NaN,NaN,NaN
+ITA,15/12/1935,,AS Bari,Genova 1893 Circolo del Calcio,3,2,H,NaN,NaN,NaN
+ITA,15/12/1935,,Brescia Calcio,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,15/12/1935,,Lazio Roma,Inter,0,0,D,NaN,NaN,NaN
+ITA,15/12/1935,,AC Milan,US Palermo,3,1,H,NaN,NaN,NaN
+ITA,15/12/1935,,SSC Napoli,Juventus,0,1,A,NaN,NaN,NaN
+ITA,15/12/1935,,Sampierdarenese,AS Roma,0,2,A,NaN,NaN,NaN
+ITA,15/12/1935,,Torino FC,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,22/12/1935,,US Palermo,Sampierdarenese,2,0,H,NaN,NaN,NaN
+ITA,22/12/1935,,Juventus,AC Milan,3,1,H,NaN,NaN,NaN
+ITA,22/12/1935,,Unione Triestina,SSC Napoli,6,1,H,NaN,NaN,NaN
+ITA,22/12/1935,,Inter,ACF Fiorentina,0,2,A,NaN,NaN,NaN
+ITA,22/12/1935,,Bologna FC,Lazio Roma,2,0,H,NaN,NaN,NaN
+ITA,22/12/1935,,Genova 1893 Circolo del Calcio,Torino FC,0,2,A,NaN,NaN,NaN
+ITA,22/12/1935,,AS Bari,US Alessandria 1912,4,0,H,NaN,NaN,NaN
+ITA,22/12/1935,,AS Roma,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,29/12/1935,,Lazio Roma,US Alessandria 1912,3,0,H,NaN,NaN,NaN
+ITA,29/12/1935,,Unione Triestina,AS Roma,0,0,D,NaN,NaN,NaN
+ITA,29/12/1935,,Torino FC,Inter,3,3,D,NaN,NaN,NaN
+ITA,29/12/1935,,Sampierdarenese,Juventus,0,1,A,NaN,NaN,NaN
+ITA,29/12/1935,,AC Milan,Brescia Calcio,2,1,H,NaN,NaN,NaN
+ITA,29/12/1935,,ACF Fiorentina,Genova 1893 Circolo del Calcio,2,1,H,NaN,NaN,NaN
+ITA,29/12/1935,,Bologna FC,AS Bari,0,2,A,NaN,NaN,NaN
+ITA,29/12/1935,,SSC Napoli,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,05/01/1936,,Brescia Calcio,Juventus,0,1,A,NaN,NaN,NaN
+ITA,05/01/1936,,Torino FC,ACF Fiorentina,5,0,H,NaN,NaN,NaN
+ITA,05/01/1936,,US Palermo,Bologna FC,2,0,H,NaN,NaN,NaN
+ITA,05/01/1936,,AC Milan,Sampierdarenese,1,2,A,NaN,NaN,NaN
+ITA,05/01/1936,,AS Bari,Inter,2,1,H,NaN,NaN,NaN
+ITA,05/01/1936,,US Alessandria 1912,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,05/01/1936,,Lazio Roma,SSC Napoli,3,1,H,NaN,NaN,NaN
+ITA,05/01/1936,,Genova 1893 Circolo del Calcio,Unione Triestina,2,2,D,NaN,NaN,NaN
+ITA,12/01/1936,,Juventus,US Alessandria 1912,4,0,H,NaN,NaN,NaN
+ITA,12/01/1936,,Unione Triestina,Bologna FC,2,2,D,NaN,NaN,NaN
+ITA,12/01/1936,,Sampierdarenese,Brescia Calcio,2,0,H,NaN,NaN,NaN
+ITA,12/01/1936,,SSC Napoli,AC Milan,1,0,H,NaN,NaN,NaN
+ITA,12/01/1936,,ACF Fiorentina,Lazio Roma,2,1,H,NaN,NaN,NaN
+ITA,12/01/1936,,AS Bari,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,12/01/1936,,Inter,Genova 1893 Circolo del Calcio,3,0,H,NaN,NaN,NaN
+ITA,12/01/1936,,AS Roma,US Palermo,0,1,A,NaN,NaN,NaN
+ITA,26/01/1936,,ACF Fiorentina,Unione Triestina,3,1,H,NaN,NaN,NaN
+ITA,26/01/1936,,Torino FC,AS Roma,1,0,H,NaN,NaN,NaN
+ITA,26/01/1936,,US Palermo,Juventus,1,0,H,NaN,NaN,NaN
+ITA,26/01/1936,,SSC Napoli,Sampierdarenese,4,2,H,NaN,NaN,NaN
+ITA,26/01/1936,,Lazio Roma,AS Bari,2,1,H,NaN,NaN,NaN
+ITA,26/01/1936,,Inter,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,26/01/1936,,US Alessandria 1912,AC Milan,6,1,H,NaN,NaN,NaN
+ITA,26/01/1936,,Genova 1893 Circolo del Calcio,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,02/02/1936,,Juventus,Torino FC,2,1,H,NaN,NaN,NaN
+ITA,02/02/1936,,Unione Triestina,Lazio Roma,3,3,D,NaN,NaN,NaN
+ITA,02/02/1936,,Sampierdarenese,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,02/02/1936,,AC Milan,Inter,2,2,D,NaN,NaN,NaN
+ITA,02/02/1936,,Brescia Calcio,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,02/02/1936,,Bologna FC,ACF Fiorentina,1,0,H,NaN,NaN,NaN
+ITA,02/02/1936,,AS Bari,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,02/02/1936,,AS Roma,Genova 1893 Circolo del Calcio,0,0,D,NaN,NaN,NaN
+ITA,09/02/1936,,ACF Fiorentina,AC Milan,3,1,H,NaN,NaN,NaN
+ITA,09/02/1936,,SSC Napoli,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,09/02/1936,,Torino FC,Brescia Calcio,2,0,H,NaN,NaN,NaN
+ITA,09/02/1936,,Genova 1893 Circolo del Calcio,Sampierdarenese,3,0,H,NaN,NaN,NaN
+ITA,09/02/1936,,Inter,Bologna FC,3,1,H,NaN,NaN,NaN
+ITA,09/02/1936,,US Alessandria 1912,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,09/02/1936,,Lazio Roma,Juventus,3,0,H,NaN,NaN,NaN
+ITA,09/02/1936,,AS Bari,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,16/02/1936,,AC Milan,AS Bari,4,0,H,NaN,NaN,NaN
+ITA,16/02/1936,,Unione Triestina,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,16/02/1936,,Sampierdarenese,ACF Fiorentina,1,0,H,NaN,NaN,NaN
+ITA,16/02/1936,,US Palermo,Inter,1,1,D,NaN,NaN,NaN
+ITA,16/02/1936,,Juventus,Genova 1893 Circolo del Calcio,4,0,H,NaN,NaN,NaN
+ITA,16/02/1936,,Brescia Calcio,US Alessandria 1912,1,1,D,NaN,NaN,NaN
+ITA,16/02/1936,,Bologna FC,SSC Napoli,2,1,H,NaN,NaN,NaN
+ITA,16/02/1936,,AS Roma,Lazio Roma,1,0,H,NaN,NaN,NaN
+ITA,23/02/1936,,AS Bari,Sampierdarenese,1,1,D,NaN,NaN,NaN
+ITA,23/02/1936,,Lazio Roma,US Palermo,3,0,H,NaN,NaN,NaN
+ITA,23/02/1936,,Genova 1893 Circolo del Calcio,Brescia Calcio,2,0,H,NaN,NaN,NaN
+ITA,23/02/1936,,Torino FC,AC Milan,2,1,H,NaN,NaN,NaN
+ITA,23/02/1936,,Inter,AS Roma,5,1,H,NaN,NaN,NaN
+ITA,23/02/1936,,US Alessandria 1912,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,23/02/1936,,ACF Fiorentina,SSC Napoli,2,0,H,NaN,NaN,NaN
+ITA,23/02/1936,,Bologna FC,Juventus,2,1,H,NaN,NaN,NaN
+ITA,01/03/1936,,SSC Napoli,US Alessandria 1912,1,0,H,NaN,NaN,NaN
+ITA,01/03/1936,,Unione Triestina,Inter,2,1,H,NaN,NaN,NaN
+ITA,01/03/1936,,Sampierdarenese,Lazio Roma,2,2,D,NaN,NaN,NaN
+ITA,01/03/1936,,US Palermo,Torino FC,0,1,A,NaN,NaN,NaN
+ITA,01/03/1936,,AC Milan,Genova 1893 Circolo del Calcio,1,0,H,NaN,NaN,NaN
+ITA,01/03/1936,,Juventus,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,01/03/1936,,Brescia Calcio,Bologna FC,2,1,H,NaN,NaN,NaN
+ITA,01/03/1936,,AS Roma,AS Bari,3,0,H,NaN,NaN,NaN
+ITA,08/03/1936,,ACF Fiorentina,AS Roma,1,2,A,NaN,NaN,NaN
+ITA,08/03/1936,,Genova 1893 Circolo del Calcio,US Palermo,2,0,H,NaN,NaN,NaN
+ITA,08/03/1936,,Unione Triestina,Sampierdarenese,1,0,H,NaN,NaN,NaN
+ITA,08/03/1936,,Torino FC,SSC Napoli,1,0,H,NaN,NaN,NaN
+ITA,08/03/1936,,Bologna FC,AC Milan,4,1,H,NaN,NaN,NaN
+ITA,08/03/1936,,AS Bari,Juventus,1,1,D,NaN,NaN,NaN
+ITA,08/03/1936,,Inter,US Alessandria 1912,2,1,H,NaN,NaN,NaN
+ITA,08/03/1936,,Lazio Roma,Brescia Calcio,3,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,AC Milan,Lazio Roma,5,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,Sampierdarenese,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,AS Roma,Bologna FC,1,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,SSC Napoli,AS Bari,2,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,Juventus,Inter,1,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,Brescia Calcio,ACF Fiorentina,2,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,US Alessandria 1912,Genova 1893 Circolo del Calcio,1,0,H,NaN,NaN,NaN
+ITA,15/03/1936,,US Palermo,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,22/03/1936,,ACF Fiorentina,US Palermo,2,1,H,NaN,NaN,NaN
+ITA,22/03/1936,,Torino FC,US Alessandria 1912,1,0,H,NaN,NaN,NaN
+ITA,22/03/1936,,Unione Triestina,Juventus,1,0,H,NaN,NaN,NaN
+ITA,22/03/1936,,Genova 1893 Circolo del Calcio,Lazio Roma,3,2,H,NaN,NaN,NaN
+ITA,22/03/1936,,AS Bari,Brescia Calcio,1,1,D,NaN,NaN,NaN
+ITA,22/03/1936,,Inter,SSC Napoli,4,2,H,NaN,NaN,NaN
+ITA,22/03/1936,,AS Roma,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,22/03/1936,,Bologna FC,Sampierdarenese,0,0,D,NaN,NaN,NaN
+ITA,29/03/1936,,Juventus,AS Roma,1,3,A,NaN,NaN,NaN
+ITA,29/03/1936,,Sampierdarenese,Inter,1,0,H,NaN,NaN,NaN
+ITA,29/03/1936,,SSC Napoli,Genova 1893 Circolo del Calcio,2,1,H,NaN,NaN,NaN
+ITA,29/03/1936,,Lazio Roma,Torino FC,1,1,D,NaN,NaN,NaN
+ITA,29/03/1936,,Brescia Calcio,US Palermo,0,1,A,NaN,NaN,NaN
+ITA,29/03/1936,,AS Bari,ACF Fiorentina,0,0,D,NaN,NaN,NaN
+ITA,29/03/1936,,US Alessandria 1912,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,29/03/1936,,AC Milan,Unione Triestina,0,0,D,NaN,NaN,NaN
+ITA,12/04/1936,,Genova 1893 Circolo del Calcio,AS Bari,0,0,D,NaN,NaN,NaN
+ITA,12/04/1936,,AS Roma,Sampierdarenese,2,0,H,NaN,NaN,NaN
+ITA,12/04/1936,,Unione Triestina,Brescia Calcio,2,0,H,NaN,NaN,NaN
+ITA,12/04/1936,,Juventus,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,12/04/1936,,Bologna FC,Torino FC,2,0,H,NaN,NaN,NaN
+ITA,12/04/1936,,Inter,Lazio Roma,3,1,H,NaN,NaN,NaN
+ITA,12/04/1936,,US Palermo,AC Milan,0,0,D,NaN,NaN,NaN
+ITA,12/04/1936,,ACF Fiorentina,US Alessandria 1912,0,0,D,NaN,NaN,NaN
+ITA,19/04/1936,,Lazio Roma,Bologna FC,1,1,D,NaN,NaN,NaN
+ITA,19/04/1936,,Torino FC,Genova 1893 Circolo del Calcio,4,4,D,NaN,NaN,NaN
+ITA,19/04/1936,,Sampierdarenese,US Palermo,2,0,H,NaN,NaN,NaN
+ITA,19/04/1936,,AC Milan,Juventus,2,1,H,NaN,NaN,NaN
+ITA,19/04/1936,,ACF Fiorentina,Inter,2,3,A,NaN,NaN,NaN
+ITA,19/04/1936,,Brescia Calcio,AS Roma,1,1,D,NaN,NaN,NaN
+ITA,19/04/1936,,US Alessandria 1912,AS Bari,2,0,H,NaN,NaN,NaN
+ITA,19/04/1936,,SSC Napoli,Unione Triestina,2,2,D,NaN,NaN,NaN
+ITA,26/04/1936,,Genova 1893 Circolo del Calcio,ACF Fiorentina,2,2,D,NaN,NaN,NaN
+ITA,26/04/1936,,US Palermo,SSC Napoli,2,2,D,NaN,NaN,NaN
+ITA,26/04/1936,,AS Roma,Unione Triestina,1,0,H,NaN,NaN,NaN
+ITA,26/04/1936,,Juventus,Sampierdarenese,7,2,H,NaN,NaN,NaN
+ITA,26/04/1936,,AS Bari,Bologna FC,0,0,D,NaN,NaN,NaN
+ITA,26/04/1936,,Brescia Calcio,AC Milan,1,2,A,NaN,NaN,NaN
+ITA,26/04/1936,,Inter,Torino FC,4,0,H,NaN,NaN,NaN
+ITA,26/04/1936,,US Alessandria 1912,Lazio Roma,2,0,H,NaN,NaN,NaN
+ITA,03/05/1936,,Juventus,Brescia Calcio,1,0,H,NaN,NaN,NaN
+ITA,03/05/1936,,Unione Triestina,Genova 1893 Circolo del Calcio,0,0,D,NaN,NaN,NaN
+ITA,03/05/1936,,Sampierdarenese,AC Milan,3,1,H,NaN,NaN,NaN
+ITA,03/05/1936,,SSC Napoli,Lazio Roma,1,2,A,NaN,NaN,NaN
+ITA,03/05/1936,,ACF Fiorentina,Torino FC,0,2,A,NaN,NaN,NaN
+ITA,03/05/1936,,Bologna FC,US Palermo,1,0,H,NaN,NaN,NaN
+ITA,03/05/1936,,Inter,AS Bari,2,0,H,NaN,NaN,NaN
+ITA,03/05/1936,,AS Roma,US Alessandria 1912,3,1,H,NaN,NaN,NaN
+ITA,10/05/1936,,Genova 1893 Circolo del Calcio,Inter,2,2,D,NaN,NaN,NaN
+ITA,10/05/1936,,Lazio Roma,ACF Fiorentina,1,0,H,NaN,NaN,NaN
+ITA,10/05/1936,,Torino FC,AS Bari,2,0,H,NaN,NaN,NaN
+ITA,10/05/1936,,US Palermo,AS Roma,1,3,A,NaN,NaN,NaN
+ITA,10/05/1936,,US Alessandria 1912,Juventus,3,2,H,NaN,NaN,NaN
+ITA,10/05/1936,,Brescia Calcio,Sampierdarenese,1,2,A,NaN,NaN,NaN
+ITA,10/05/1936,,Bologna FC,Unione Triestina,3,0,H,NaN,NaN,NaN
+ITA,10/05/1936,,AC Milan,SSC Napoli,0,1,A,NaN,NaN,NaN

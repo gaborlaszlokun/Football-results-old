@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,21/08/2009,18:30,Birkirkara FC,Valletta FC,1,3,A,NaN,NaN,NaN
+MLT,22/08/2009,16:00,Dingli Swallows,Tarxien Rainbows,1,4,A,NaN,NaN,NaN
+MLT,23/08/2009,16:00,Floriana FC,Qormi FC,1,1,D,NaN,NaN,NaN
+MLT,30/09/2009,17:00,Sliema Wanderers,Msida St. Joseph FC,2,0,H,NaN,NaN,NaN
+MLT,30/09/2009,19:00,Hibernians FC,Hamrun Spartans,4,2,H,NaN,NaN,NaN
+MLT,29/08/2009,18:30,Valletta FC,Floriana FC,6,0,H,NaN,NaN,NaN
+MLT,30/08/2009,16:00,Tarxien Rainbows,Birkirkara FC,0,2,A,NaN,NaN,NaN
+MLT,30/08/2009,18:00,Qormi FC,Sliema Wanderers,1,0,H,NaN,NaN,NaN
+MLT,04/11/2009,17:00,Msida St. Joseph FC,Hibernians FC,0,1,A,NaN,NaN,NaN
+MLT,04/11/2009,19:00,Hamrun Spartans,Dingli Swallows,3,0,H,NaN,NaN,NaN
+MLT,25/09/2009,18:30,Sliema Wanderers,Valletta FC,0,1,A,NaN,NaN,NaN
+MLT,26/09/2009,15:00,Msida St. Joseph FC,Qormi FC,0,3,A,NaN,NaN,NaN
+MLT,26/09/2009,17:00,Birkirkara FC,Hamrun Spartans,2,1,H,NaN,NaN,NaN
+MLT,27/09/2009,15:00,Floriana FC,Tarxien Rainbows,1,1,D,NaN,NaN,NaN
+MLT,27/09/2009,17:00,Hibernians FC,Dingli Swallows,2,1,H,NaN,NaN,NaN
+MLT,02/10/2009,18:30,Dingli Swallows,Birkirkara FC,1,3,A,NaN,NaN,NaN
+MLT,03/10/2009,15:00,Tarxien Rainbows,Sliema Wanderers,3,1,H,NaN,NaN,NaN
+MLT,03/10/2009,17:00,Valletta FC,Msida St. Joseph FC,0,0,D,NaN,NaN,NaN
+MLT,04/10/2009,15:00,Hamrun Spartans,Floriana FC,0,1,A,NaN,NaN,NaN
+MLT,04/10/2009,17:00,Qormi FC,Hibernians FC,3,1,H,NaN,NaN,NaN
+MLT,17/10/2009,14:00,Msida St. Joseph FC,Tarxien Rainbows,1,1,D,NaN,NaN,NaN
+MLT,17/10/2009,16:00,Sliema Wanderers,Hamrun Spartans,5,0,H,NaN,NaN,NaN
+MLT,18/10/2009,14:00,Floriana FC,Dingli Swallows,1,2,A,NaN,NaN,NaN
+MLT,18/10/2009,16:00,Hibernians FC,Birkirkara FC,2,2,D,NaN,NaN,NaN
+MLT,19/10/2009,18:30,Qormi FC,Valletta FC,0,2,A,NaN,NaN,NaN
+MLT,23/10/2009,18:30,Valletta FC,Hibernians FC,0,1,A,NaN,NaN,NaN
+MLT,24/10/2009,14:00,Hamrun Spartans,Msida St. Joseph FC,1,0,H,NaN,NaN,NaN
+MLT,24/10/2009,16:00,Birkirkara FC,Floriana FC,0,1,A,NaN,NaN,NaN
+MLT,25/10/2009,14:00,Dingli Swallows,Sliema Wanderers,0,2,A,NaN,NaN,NaN
+MLT,25/10/2009,16:00,Tarxien Rainbows,Qormi FC,1,2,A,NaN,NaN,NaN
+MLT,21/11/2009,13:00,Msida St. Joseph FC,Dingli Swallows,2,1,H,NaN,NaN,NaN
+MLT,21/11/2009,15:00,Hibernians FC,Floriana FC,2,3,A,NaN,NaN,NaN
+MLT,22/11/2009,14:00,Qormi FC,Hamrun Spartans,2,0,H,NaN,NaN,NaN
+MLT,23/11/2009,18:30,Sliema Wanderers,Birkirkara FC,0,3,A,NaN,NaN,NaN
+MLT,24/11/2009,17:30,Valletta FC,Tarxien Rainbows,2,2,D,NaN,NaN,NaN
+MLT,27/11/2009,18:30,Dingli Swallows,Qormi FC,1,4,A,NaN,NaN,NaN
+MLT,28/11/2009,13:00,Tarxien Rainbows,Hibernians FC,1,2,A,NaN,NaN,NaN
+MLT,28/11/2009,15:00,Hamrun Spartans,Valletta FC,2,3,A,NaN,NaN,NaN
+MLT,29/11/2009,13:00,Floriana FC,Sliema Wanderers,1,1,D,NaN,NaN,NaN
+MLT,29/11/2009,15:00,Birkirkara FC,Msida St. Joseph FC,4,1,H,NaN,NaN,NaN
+MLT,11/12/2009,18:30,Tarxien Rainbows,Hamrun Spartans,0,1,A,NaN,NaN,NaN
+MLT,12/12/2009,13:00,Qormi FC,Birkirkara FC,2,5,A,NaN,NaN,NaN
+MLT,12/12/2009,15:00,Hibernians FC,Sliema Wanderers,0,1,A,NaN,NaN,NaN
+MLT,13/12/2009,13:00,Msida St. Joseph FC,Floriana FC,1,2,A,NaN,NaN,NaN
+MLT,13/12/2009,15:00,Valletta FC,Dingli Swallows,4,1,H,NaN,NaN,NaN
+MLT,18/12/2009,18:30,Qormi FC,Floriana FC,6,2,H,NaN,NaN,NaN
+MLT,19/12/2009,13:00,Hamrun Spartans,Hibernians FC,2,2,D,NaN,NaN,NaN
+MLT,19/12/2009,15:00,Valletta FC,Birkirkara FC,1,1,D,NaN,NaN,NaN
+MLT,20/12/2009,13:00,Tarxien Rainbows,Dingli Swallows,2,1,H,NaN,NaN,NaN
+MLT,22/12/2009,18:30,Msida St. Joseph FC,Sliema Wanderers,1,0,H,NaN,NaN,NaN
+MLT,26/12/2009,13:00,Sliema Wanderers,Qormi FC,1,2,A,NaN,NaN,NaN
+MLT,26/12/2009,15:00,Floriana FC,Valletta FC,0,4,A,NaN,NaN,NaN
+MLT,27/12/2009,13:00,Birkirkara FC,Tarxien Rainbows,5,1,H,NaN,NaN,NaN
+MLT,27/12/2009,15:00,Hibernians FC,Msida St. Joseph FC,3,0,H,NaN,NaN,NaN
+MLT,28/12/2009,18:30,Dingli Swallows,Hamrun Spartans,1,3,A,NaN,NaN,NaN
+MLT,02/01/2010,13:00,Qormi FC,Msida St. Joseph FC,3,0,H,NaN,NaN,NaN
+MLT,02/01/2010,15:00,Dingli Swallows,Hibernians FC,1,2,A,NaN,NaN,NaN
+MLT,03/01/2010,13:00,Hamrun Spartans,Birkirkara FC,0,2,A,NaN,NaN,NaN
+MLT,03/01/2010,15:00,Valletta FC,Sliema Wanderers,1,3,A,NaN,NaN,NaN
+MLT,04/01/2010,18:30,Tarxien Rainbows,Floriana FC,2,1,H,NaN,NaN,NaN
+MLT,08/01/2010,18:30,Hibernians FC,Qormi FC,2,2,D,NaN,NaN,NaN
+MLT,09/01/2010,13:00,Birkirkara FC,Dingli Swallows,2,0,H,NaN,NaN,NaN
+MLT,09/01/2010,15:00,Msida St. Joseph FC,Valletta FC,0,1,A,NaN,NaN,NaN
+MLT,10/01/2010,13:00,Floriana FC,Hamrun Spartans,1,1,D,NaN,NaN,NaN
+MLT,10/01/2010,15:00,Sliema Wanderers,Tarxien Rainbows,4,2,H,NaN,NaN,NaN
+MLT,15/01/2010,18:30,Hamrun Spartans,Sliema Wanderers,3,0,H,NaN,NaN,NaN
+MLT,16/01/2010,14:00,Valletta FC,Qormi FC,1,0,H,NaN,NaN,NaN
+MLT,17/01/2010,13:00,Tarxien Rainbows,Msida St. Joseph FC,3,1,H,NaN,NaN,NaN
+MLT,17/01/2010,15:00,Dingli Swallows,Floriana FC,0,2,A,NaN,NaN,NaN
+MLT,18/01/2010,18:30,Birkirkara FC,Hibernians FC,2,2,D,NaN,NaN,NaN
+MLT,22/01/2010,18:30,Msida St. Joseph FC,Hamrun Spartans,0,2,A,NaN,NaN,NaN
+MLT,23/01/2010,14:00,Hibernians FC,Valletta FC,2,4,A,NaN,NaN,NaN
+MLT,24/01/2010,13:00,Qormi FC,Tarxien Rainbows,0,2,A,NaN,NaN,NaN
+MLT,24/01/2010,15:00,Sliema Wanderers,Dingli Swallows,3,1,H,NaN,NaN,NaN
+MLT,25/01/2010,18:30,Floriana FC,Birkirkara FC,1,2,A,NaN,NaN,NaN
+MLT,30/01/2010,13:00,Floriana FC,Hibernians FC,1,1,D,NaN,NaN,NaN
+MLT,30/01/2010,15:00,Birkirkara FC,Sliema Wanderers,0,1,A,NaN,NaN,NaN
+MLT,31/01/2010,13:00,Dingli Swallows,Msida St. Joseph FC,1,2,A,NaN,NaN,NaN
+MLT,31/01/2010,15:00,Tarxien Rainbows,Valletta FC,2,2,D,NaN,NaN,NaN
+MLT,01/02/2010,18:30,Hamrun Spartans,Qormi FC,1,2,A,NaN,NaN,NaN
+MLT,05/02/2010,18:30,Qormi FC,Dingli Swallows,4,0,H,NaN,NaN,NaN
+MLT,06/02/2010,13:00,Hibernians FC,Tarxien Rainbows,0,1,A,NaN,NaN,NaN
+MLT,06/02/2010,15:00,Valletta FC,Hamrun Spartans,4,0,H,NaN,NaN,NaN
+MLT,07/02/2010,13:00,Msida St. Joseph FC,Birkirkara FC,1,2,A,NaN,NaN,NaN
+MLT,07/02/2010,15:00,Sliema Wanderers,Floriana FC,3,0,H,NaN,NaN,NaN
+MLT,13/02/2010,13:00,Birkirkara FC,Qormi FC,2,0,H,NaN,NaN,NaN
+MLT,13/02/2010,15:00,Sliema Wanderers,Hibernians FC,2,2,D,NaN,NaN,NaN
+MLT,15/02/2010,18:30,Dingli Swallows,Valletta FC,0,6,A,NaN,NaN,NaN
+MLT,16/02/2010,17:00,Floriana FC,Msida St. Joseph FC,4,2,H,NaN,NaN,NaN
+MLT,16/02/2010,17:00,Hamrun Spartans,Tarxien Rainbows,2,2,D,NaN,NaN,NaN

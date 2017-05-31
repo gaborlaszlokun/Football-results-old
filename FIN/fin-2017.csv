@@ -1,0 +1,62 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FIN,05/04/2017,16:30,HJK Helsinki,Vaasan PS,5,0,H,3,0,H
+FIN,05/04/2017,17:30,SJK Seinäjoki,FC Lahti,1,1,D,0,0,D
+FIN,08/04/2017,14:00,Ilves Tampere,FC Lahti,1,1,D,1,0,H
+FIN,08/04/2017,14:00,IFK Mariehamn,JJK Jyväskylä,5,2,H,1,2,A
+FIN,08/04/2017,14:00,PS Kemi Kings,Helsingfors IFK,0,0,D,0,0,D
+FIN,08/04/2017,14:00,Vaasan PS,SJK Seinäjoki,1,3,A,1,1,D
+FIN,10/04/2017,16:30,HJK Helsinki,Kuopion PS,2,0,H,1,0,H
+FIN,12/04/2017,16:30,Inter Turku,Rovaniemi PS,6,2,H,4,0,H
+FIN,15/04/2017,13:30,SJK Seinäjoki,Ilves Tampere,1,2,A,0,1,A
+FIN,15/04/2017,14:00,Helsingfors IFK,JJK Jyväskylä,0,0,D,0,0,D
+FIN,15/04/2017,14:00,IFK Mariehamn,HJK Helsinki,1,1,D,0,1,A
+FIN,17/04/2017,14:00,Kuopion PS,Inter Turku,2,1,H,1,1,D
+FIN,17/04/2017,14:00,Rovaniemi PS,Vaasan PS,2,4,A,2,1,H
+FIN,21/04/2017,16:00,Inter Turku,IFK Mariehamn,1,1,D,1,1,D
+FIN,22/04/2017,14:00,Ilves Tampere,Rovaniemi PS,0,2,A,0,1,A
+FIN,22/04/2017,14:00,PS Kemi Kings,SJK Seinäjoki,3,1,H,1,0,H
+FIN,22/04/2017,14:00,Vaasan PS,Kuopion PS,2,2,D,1,2,A
+FIN,23/04/2017,15:00,JJK Jyväskylä,HJK Helsinki,1,5,A,0,1,A
+FIN,24/04/2017,16:30,Helsingfors IFK,FC Lahti,1,2,A,0,0,D
+FIN,28/04/2017,18:00,SJK Seinäjoki,Helsingfors IFK,3,3,D,0,1,A
+FIN,29/04/2017,14:00,HJK Helsinki,Inter Turku,1,1,D,1,0,H
+FIN,29/04/2017,14:00,Kuopion PS,Ilves Tampere,0,1,A,0,0,D
+FIN,29/04/2017,14:00,FC Lahti,JJK Jyväskylä,1,1,D,1,0,H
+FIN,29/04/2017,14:00,Rovaniemi PS,PS Kemi Kings,3,1,H,1,1,D
+FIN,30/04/2017,14:00,IFK Mariehamn,Vaasan PS,1,1,D,1,0,H
+FIN,06/05/2017,15:00,Ilves Tampere,IFK Mariehamn,3,0,H,1,0,H
+FIN,06/05/2017,15:00,JJK Jyväskylä,Inter Turku,1,2,A,1,0,H
+FIN,06/05/2017,15:00,FC Lahti,SJK Seinäjoki,1,0,H,0,0,D
+FIN,06/05/2017,15:00,PS Kemi Kings,Kuopion PS,1,4,A,0,2,A
+FIN,06/05/2017,15:00,Vaasan PS,HJK Helsinki,2,1,H,1,0,H
+FIN,06/05/2017,16:00,Helsingfors IFK,Rovaniemi PS,1,0,H,1,0,H
+FIN,11/05/2017,16:30,HJK Helsinki,Ilves Tampere,2,0,H,1,0,H
+FIN,12/05/2017,16:30,Inter Turku,Vaasan PS,0,1,A,0,1,A
+FIN,12/05/2017,16:30,Kuopion PS,Helsingfors IFK,2,1,H,0,0,D
+FIN,12/05/2017,16:30,IFK Mariehamn,PS Kemi Kings,3,0,H,0,0,D
+FIN,12/05/2017,16:30,Rovaniemi PS,FC Lahti,1,0,H,1,0,H
+FIN,12/05/2017,18:00,SJK Seinäjoki,JJK Jyväskylä,1,0,H,0,0,D
+FIN,19/05/2017,16:00,PS Kemi Kings,HJK Helsinki,0,1,A,0,1,A
+FIN,19/05/2017,16:30,Helsingfors IFK,IFK Mariehamn,1,1,D,1,1,D
+FIN,19/05/2017,16:30,Ilves Tampere,Inter Turku,0,2,A,0,0,D
+FIN,19/05/2017,16:30,JJK Jyväskylä,Vaasan PS,1,4,A,1,1,D
+FIN,19/05/2017,16:30,FC Lahti,Kuopion PS,1,2,A,0,0,D
+FIN,19/05/2017,18:00,SJK Seinäjoki,Rovaniemi PS,3,0,H,2,0,H
+FIN,23/05/2017,16:30,Helsingfors IFK,HJK Helsinki,0,0,D,0,0,D
+FIN,23/05/2017,16:30,Inter Turku,PS Kemi Kings,1,3,A,1,1,D
+FIN,23/05/2017,16:30,IFK Mariehamn,FC Lahti,0,2,A,0,0,D
+FIN,24/05/2017,16:30,Kuopion PS,SJK Seinäjoki,1,1,D,0,1,A
+FIN,24/05/2017,16:30,Rovaniemi PS,JJK Jyväskylä,2,1,H,2,0,H
+FIN,24/05/2017,16:30,Vaasan PS,Ilves Tampere,0,2,A,0,0,D
+FIN,27/05/2017,13:00,Helsingfors IFK,Inter Turku,0,2,A,0,1,A
+FIN,27/05/2017,13:00,FC Lahti,HJK Helsinki,0,0,D,0,0,D
+FIN,27/05/2017,13:00,PS Kemi Kings,Vaasan PS,0,1,A,0,1,A
+FIN,27/05/2017,15:00,JJK Jyväskylä,Ilves Tampere,3,1,H,2,0,H
+FIN,27/05/2017,15:00,Rovaniemi PS,Kuopion PS,0,1,A,0,0,D
+FIN,27/05/2017,16:00,SJK Seinäjoki,IFK Mariehamn,1,1,D,0,1,A
+FIN,31/05/2017,16:30,HJK Helsinki,SJK Seinäjoki,5,0,H,NaN,NaN,NaN
+FIN,31/05/2017,16:30,Ilves Tampere,PS Kemi Kings,1,4,A,NaN,NaN,NaN
+FIN,31/05/2017,16:30,Inter Turku,FC Lahti,0,0,D,NaN,NaN,NaN
+FIN,31/05/2017,16:30,JJK Jyväskylä,Kuopion PS,0,0,D,NaN,NaN,NaN
+FIN,31/05/2017,16:30,IFK Mariehamn,Rovaniemi PS,2,1,H,NaN,NaN,NaN
+FIN,31/05/2017,16:30,Vaasan PS,Helsingfors IFK,0,0,D,NaN,NaN,NaN

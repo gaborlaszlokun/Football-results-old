@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,08/09/1951,,Aberdeen FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,08/09/1951,,Greenock Morton FC,Queen Of The South,2,2,D,NaN,NaN,NaN
+SCO,08/09/1951,,Heart of Midlothian,East Fife FC,3,1,H,NaN,NaN,NaN
+SCO,08/09/1951,,Motherwell FC,Celtic FC,2,2,D,NaN,NaN,NaN
+SCO,08/09/1951,,Raith Rovers,Hibernian FC,0,2,A,NaN,NaN,NaN
+SCO,08/09/1951,,Rangers FC,Partick Thistle,4,1,H,NaN,NaN,NaN
+SCO,08/09/1951,,Stirling Albion FC,Dundee FC,2,2,D,NaN,NaN,NaN
+SCO,08/09/1951,,Third Lanark,Airdrieonians FC (old),4,0,H,NaN,NaN,NaN
+SCO,15/09/1951,,Airdrieonians FC (old),Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,15/09/1951,,East Fife FC,Stirling Albion FC,4,0,H,NaN,NaN,NaN
+SCO,15/09/1951,,Hibernian FC,Aberdeen FC,4,4,D,NaN,NaN,NaN
+SCO,15/09/1951,,Partick Thistle,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,15/09/1951,,Queen Of The South,Third Lanark,1,0,H,NaN,NaN,NaN
+SCO,15/09/1951,,St. Mirren FC,Raith Rovers,3,0,H,NaN,NaN,NaN
+SCO,22/09/1951,,Aberdeen FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,22/09/1951,,Greenock Morton FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,22/09/1951,,Heart of Midlothian,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,22/09/1951,,Motherwell FC,Airdrieonians FC (old),4,1,H,NaN,NaN,NaN
+SCO,22/09/1951,,Raith Rovers,East Fife FC,2,3,A,NaN,NaN,NaN
+SCO,22/09/1951,,Rangers FC,Celtic FC,1,1,D,NaN,NaN,NaN
+SCO,22/09/1951,,Stirling Albion FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,22/09/1951,,Third Lanark,Partick Thistle,0,0,D,NaN,NaN,NaN
+SCO,29/09/1951,,Airdrieonians FC (old),Greenock Morton FC,3,5,A,NaN,NaN,NaN
+SCO,29/09/1951,,Celtic FC,Heart of Midlothian,1,3,A,NaN,NaN,NaN
+SCO,29/09/1951,,Dundee FC,Rangers FC,1,0,H,NaN,NaN,NaN
+SCO,29/09/1951,,East Fife FC,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,29/09/1951,,Hibernian FC,Third Lanark,5,2,H,NaN,NaN,NaN
+SCO,29/09/1951,,Partick Thistle,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,29/09/1951,,Queen Of The South,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,29/09/1951,,St. Mirren FC,Stirling Albion FC,4,1,H,NaN,NaN,NaN
+SCO,06/10/1951,,Aberdeen FC,Airdrieonians FC (old),1,4,A,NaN,NaN,NaN
+SCO,06/10/1951,,Greenock Morton FC,East Fife FC,0,2,A,NaN,NaN,NaN
+SCO,06/10/1951,,Heart of Midlothian,Dundee FC,4,2,H,NaN,NaN,NaN
+SCO,06/10/1951,,Motherwell FC,Queen Of The South,4,0,H,NaN,NaN,NaN
+SCO,06/10/1951,,Raith Rovers,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,06/10/1951,,Stirling Albion FC,Hibernian FC,1,4,A,NaN,NaN,NaN
+SCO,06/10/1951,,Third Lanark,St. Mirren FC,4,2,H,NaN,NaN,NaN
+SCO,10/10/1951,,Greenock Morton FC,Celtic FC,0,1,A,NaN,NaN,NaN
+SCO,10/10/1951,,Rangers FC,East Fife FC,1,1,D,NaN,NaN,NaN
+SCO,13/10/1951,,Airdrieonians FC (old),Raith Rovers,2,1,H,NaN,NaN,NaN
+SCO,13/10/1951,,East Fife FC,Third Lanark,3,2,H,NaN,NaN,NaN
+SCO,13/10/1951,,Hibernian FC,Greenock Morton FC,1,0,H,NaN,NaN,NaN
+SCO,13/10/1951,,Partick Thistle,Stirling Albion FC,2,1,H,NaN,NaN,NaN
+SCO,13/10/1951,,Queen Of The South,Aberdeen FC,1,2,A,NaN,NaN,NaN
+SCO,13/10/1951,,St. Mirren FC,Heart of Midlothian,1,0,H,NaN,NaN,NaN
+SCO,20/10/1951,,Airdrieonians FC (old),Queen Of The South,3,0,H,NaN,NaN,NaN
+SCO,20/10/1951,,Dundee FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,20/10/1951,,East Fife FC,St. Mirren FC,3,3,D,NaN,NaN,NaN
+SCO,20/10/1951,,Greenock Morton FC,Raith Rovers,1,4,A,NaN,NaN,NaN
+SCO,20/10/1951,,Hibernian FC,Partick Thistle,5,0,H,NaN,NaN,NaN
+SCO,20/10/1951,,Rangers FC,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,20/10/1951,,Stirling Albion FC,Motherwell FC,2,1,H,NaN,NaN,NaN
+SCO,20/10/1951,,Third Lanark,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,27/10/1951,,Celtic FC,Hibernian FC,1,1,D,NaN,NaN,NaN
+SCO,27/10/1951,,Heart of Midlothian,Third Lanark,2,2,D,NaN,NaN,NaN
+SCO,27/10/1951,,Motherwell FC,Greenock Morton FC,1,2,A,NaN,NaN,NaN
+SCO,27/10/1951,,Queen Of The South,East Fife FC,2,3,A,NaN,NaN,NaN
+SCO,27/10/1951,,Raith Rovers,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,27/10/1951,,St. Mirren FC,Airdrieonians FC (old),2,0,H,NaN,NaN,NaN
+SCO,03/11/1951,,Aberdeen FC,Queen Of The South,1,1,D,NaN,NaN,NaN
+SCO,03/11/1951,,Airdrieonians FC (old),Stirling Albion FC,2,2,D,NaN,NaN,NaN
+SCO,03/11/1951,,Celtic FC,Third Lanark,2,2,D,NaN,NaN,NaN
+SCO,03/11/1951,,Dundee FC,Raith Rovers,2,0,H,NaN,NaN,NaN
+SCO,03/11/1951,,East Fife FC,Greenock Morton FC,4,1,H,NaN,NaN,NaN
+SCO,03/11/1951,,Hibernian FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,03/11/1951,,Partick Thistle,Heart of Midlothian,2,0,H,NaN,NaN,NaN
+SCO,03/11/1951,,St. Mirren FC,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,10/11/1951,,Aberdeen FC,Partick Thistle,4,2,H,NaN,NaN,NaN
+SCO,10/11/1951,,Greenock Morton FC,Hibernian FC,2,1,H,NaN,NaN,NaN
+SCO,10/11/1951,,Heart of Midlothian,Queen Of The South,4,3,H,NaN,NaN,NaN
+SCO,10/11/1951,,Motherwell FC,Dundee FC,2,1,H,NaN,NaN,NaN
+SCO,10/11/1951,,Raith Rovers,Airdrieonians FC (old),1,1,D,NaN,NaN,NaN
+SCO,10/11/1951,,Rangers FC,St. Mirren FC,5,1,H,NaN,NaN,NaN
+SCO,10/11/1951,,Stirling Albion FC,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,10/11/1951,,Third Lanark,East Fife FC,1,3,A,NaN,NaN,NaN
+SCO,17/11/1951,,Celtic FC,Airdrieonians FC (old),3,1,H,NaN,NaN,NaN
+SCO,17/11/1951,,Dundee FC,Queen Of The South,0,0,D,NaN,NaN,NaN
+SCO,17/11/1951,,Greenock Morton FC,Third Lanark,3,1,H,NaN,NaN,NaN
+SCO,17/11/1951,,Hibernian FC,East Fife FC,4,2,H,NaN,NaN,NaN
+SCO,17/11/1951,,Motherwell FC,Heart of Midlothian,0,5,A,NaN,NaN,NaN
+SCO,17/11/1951,,Partick Thistle,St. Mirren FC,0,0,D,NaN,NaN,NaN
+SCO,17/11/1951,,Raith Rovers,Rangers FC,3,1,H,NaN,NaN,NaN
+SCO,17/11/1951,,Stirling Albion FC,Aberdeen FC,0,4,A,NaN,NaN,NaN
+SCO,24/11/1951,,Aberdeen FC,Raith Rovers,2,2,D,NaN,NaN,NaN
+SCO,24/11/1951,,Airdrieonians FC (old),Hibernian FC,0,2,A,NaN,NaN,NaN
+SCO,24/11/1951,,East Fife FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,24/11/1951,,Heart of Midlothian,Greenock Morton FC,4,1,H,NaN,NaN,NaN
+SCO,24/11/1951,,Queen Of The South,Celtic FC,4,0,H,NaN,NaN,NaN
+SCO,24/11/1951,,Rangers FC,Stirling Albion FC,3,0,H,NaN,NaN,NaN
+SCO,24/11/1951,,St. Mirren FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,24/11/1951,,Third Lanark,Motherwell FC,0,1,A,NaN,NaN,NaN
+SCO,01/12/1951,,Celtic FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,01/12/1951,,Dundee FC,Hibernian FC,1,4,A,NaN,NaN,NaN
+SCO,01/12/1951,,East Fife FC,Airdrieonians FC (old),3,1,H,NaN,NaN,NaN
+SCO,01/12/1951,,Greenock Morton FC,Stirling Albion FC,7,1,H,NaN,NaN,NaN
+SCO,01/12/1951,,Heart of Midlothian,Aberdeen FC,2,2,D,NaN,NaN,NaN
+SCO,01/12/1951,,Motherwell FC,Raith Rovers,1,3,A,NaN,NaN,NaN
+SCO,01/12/1951,,Queen Of The South,St. Mirren FC,3,1,H,NaN,NaN,NaN
+SCO,01/12/1951,,Rangers FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,08/12/1951,,Celtic FC,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,08/12/1951,,Dundee FC,East Fife FC,3,4,A,NaN,NaN,NaN
+SCO,08/12/1951,,Greenock Morton FC,Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,08/12/1951,,Hibernian FC,Queen Of The South,5,0,H,NaN,NaN,NaN
+SCO,08/12/1951,,Motherwell FC,Aberdeen FC,3,3,D,NaN,NaN,NaN
+SCO,08/12/1951,,Partick Thistle,Airdrieonians FC (old),5,2,H,NaN,NaN,NaN
+SCO,08/12/1951,,Raith Rovers,Third Lanark,1,0,H,NaN,NaN,NaN
+SCO,08/12/1951,,Stirling Albion FC,Heart of Midlothian,0,4,A,NaN,NaN,NaN
+SCO,15/12/1951,,Aberdeen FC,Greenock Morton FC,3,1,H,NaN,NaN,NaN
+SCO,15/12/1951,,Airdrieonians FC (old),Dundee FC,4,3,H,NaN,NaN,NaN
+SCO,15/12/1951,,East Fife FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,15/12/1951,,Heart of Midlothian,Raith Rovers,4,2,H,NaN,NaN,NaN
+SCO,15/12/1951,,Queen Of The South,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,15/12/1951,,Rangers FC,Motherwell FC,3,0,H,NaN,NaN,NaN
+SCO,15/12/1951,,St. Mirren FC,Hibernian FC,0,4,A,NaN,NaN,NaN
+SCO,15/12/1951,,Third Lanark,Stirling Albion FC,1,3,A,NaN,NaN,NaN
+SCO,22/12/1951,,Airdrieonians FC (old),Third Lanark,2,4,A,NaN,NaN,NaN
+SCO,22/12/1951,,Celtic FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,22/12/1951,,Dundee FC,Stirling Albion FC,4,1,H,NaN,NaN,NaN
+SCO,22/12/1951,,East Fife FC,Heart of Midlothian,2,4,A,NaN,NaN,NaN
+SCO,22/12/1951,,Hibernian FC,Raith Rovers,5,0,H,NaN,NaN,NaN
+SCO,22/12/1951,,Partick Thistle,Rangers FC,1,3,A,NaN,NaN,NaN
+SCO,22/12/1951,,Queen Of The South,Greenock Morton FC,4,1,H,NaN,NaN,NaN
+SCO,22/12/1951,,St. Mirren FC,Aberdeen FC,3,1,H,NaN,NaN,NaN
+SCO,25/12/1951,,Partick Thistle,Dundee FC,1,3,A,NaN,NaN,NaN
+SCO,29/12/1951,,Aberdeen FC,Celtic FC,3,4,A,NaN,NaN,NaN
+SCO,29/12/1951,,Greenock Morton FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,29/12/1951,,Heart of Midlothian,Airdrieonians FC (old),6,1,H,NaN,NaN,NaN
+SCO,29/12/1951,,Motherwell FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,29/12/1951,,Raith Rovers,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,29/12/1951,,Rangers FC,Queen Of The South,3,2,H,NaN,NaN,NaN
+SCO,29/12/1951,,Stirling Albion FC,East Fife FC,3,2,H,NaN,NaN,NaN
+SCO,29/12/1951,,Third Lanark,Dundee FC,0,2,A,NaN,NaN,NaN
+SCO,01/01/1952,,Celtic FC,Rangers FC,1,4,A,NaN,NaN,NaN
+SCO,01/01/1952,,Dundee FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,01/01/1952,,East Fife FC,Raith Rovers,0,1,A,NaN,NaN,NaN
+SCO,01/01/1952,,Hibernian FC,Heart of Midlothian,2,3,A,NaN,NaN,NaN
+SCO,01/01/1952,,Partick Thistle,Third Lanark,4,2,H,NaN,NaN,NaN
+SCO,01/01/1952,,Queen Of The South,Stirling Albion FC,2,0,H,NaN,NaN,NaN
+SCO,01/01/1952,,St. Mirren FC,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,02/01/1952,,Aberdeen FC,East Fife FC,2,1,H,NaN,NaN,NaN
+SCO,02/01/1952,,Heart of Midlothian,Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,02/01/1952,,Motherwell FC,Partick Thistle,1,1,D,NaN,NaN,NaN
+SCO,02/01/1952,,Raith Rovers,Queen Of The South,0,0,D,NaN,NaN,NaN
+SCO,02/01/1952,,Rangers FC,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,02/01/1952,,Third Lanark,Hibernian FC,0,5,A,NaN,NaN,NaN
+SCO,05/01/1952,,Airdrieonians FC (old),Aberdeen FC,3,0,H,NaN,NaN,NaN
+SCO,05/01/1952,,Dundee FC,Heart of Midlothian,3,3,D,NaN,NaN,NaN
+SCO,05/01/1952,,East Fife FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,05/01/1952,,Hibernian FC,Stirling Albion FC,8,0,H,NaN,NaN,NaN
+SCO,09/01/1952,,Partick Thistle,Raith Rovers,1,1,D,NaN,NaN,NaN
+SCO,09/01/1952,,Queen Of The South,Motherwell FC,4,1,H,NaN,NaN,NaN
+SCO,12/01/1952,,Aberdeen FC,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,12/01/1952,,Greenock Morton FC,Dundee FC,3,0,H,NaN,NaN,NaN
+SCO,12/01/1952,,Heart of Midlothian,St. Mirren FC,2,1,H,NaN,NaN,NaN
+SCO,12/01/1952,,Motherwell FC,East Fife FC,2,1,H,NaN,NaN,NaN
+SCO,12/01/1952,,Raith Rovers,Celtic FC,1,0,H,NaN,NaN,NaN
+SCO,12/01/1952,,Rangers FC,Airdrieonians FC (old),1,0,H,NaN,NaN,NaN
+SCO,12/01/1952,,Stirling Albion FC,Partick Thistle,2,1,H,NaN,NaN,NaN
+SCO,12/01/1952,,Third Lanark,Queen Of The South,2,1,H,NaN,NaN,NaN
+SCO,15/01/1952,,St. Mirren FC,Third Lanark,3,0,H,NaN,NaN,NaN
+SCO,19/01/1952,,Aberdeen FC,Third Lanark,2,3,A,NaN,NaN,NaN
+SCO,19/01/1952,,Celtic FC,Dundee FC,1,1,D,NaN,NaN,NaN
+SCO,19/01/1952,,Heart of Midlothian,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,19/01/1952,,Motherwell FC,Stirling Albion FC,5,2,H,NaN,NaN,NaN
+SCO,19/01/1952,,Partick Thistle,Hibernian FC,1,2,A,NaN,NaN,NaN
+SCO,19/01/1952,,Queen Of The South,Airdrieonians FC (old),4,2,H,NaN,NaN,NaN
+SCO,19/01/1952,,Raith Rovers,Greenock Morton FC,2,0,H,NaN,NaN,NaN
+SCO,19/01/1952,,St. Mirren FC,East Fife FC,0,2,A,NaN,NaN,NaN
+SCO,23/01/1952,,Stirling Albion FC,St. Mirren FC,0,3,A,NaN,NaN,NaN
+SCO,26/01/1952,,Aberdeen FC,Heart of Midlothian,3,0,H,NaN,NaN,NaN
+SCO,26/01/1952,,St. Mirren FC,Rangers FC,0,5,A,NaN,NaN,NaN
+SCO,26/01/1952,,Stirling Albion FC,Airdrieonians FC (old),3,6,A,NaN,NaN,NaN
+SCO,02/02/1952,,Airdrieonians FC (old),St. Mirren FC,2,2,D,NaN,NaN,NaN
+SCO,02/02/1952,,East Fife FC,Queen Of The South,5,0,H,NaN,NaN,NaN
+SCO,02/02/1952,,Hibernian FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,02/02/1952,,Rangers FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,02/02/1952,,Stirling Albion FC,Raith Rovers,1,2,A,NaN,NaN,NaN
+SCO,13/02/1952,,Greenock Morton FC,Airdrieonians FC (old),2,3,A,NaN,NaN,NaN
+SCO,13/02/1952,,Heart of Midlothian,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,13/02/1952,,Motherwell FC,St. Mirren FC,2,0,H,NaN,NaN,NaN
+SCO,13/02/1952,,Raith Rovers,Dundee FC,1,2,A,NaN,NaN,NaN
+SCO,13/02/1952,,Rangers FC,Hibernian FC,2,2,D,NaN,NaN,NaN
+SCO,16/02/1952,,Airdrieonians FC (old),Rangers FC,0,1,A,NaN,NaN,NaN
+SCO,16/02/1952,,Celtic FC,Stirling Albion FC,3,1,H,NaN,NaN,NaN
+SCO,16/02/1952,,Dundee FC,Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,16/02/1952,,Hibernian FC,St. Mirren FC,5,0,H,NaN,NaN,NaN
+SCO,16/02/1952,,Partick Thistle,Aberdeen FC,1,4,A,NaN,NaN,NaN
+SCO,16/02/1952,,Queen Of The South,Heart of Midlothian,1,1,D,NaN,NaN,NaN
+SCO,23/02/1952,,Celtic FC,Raith Rovers,0,1,A,NaN,NaN,NaN
+SCO,23/02/1952,,East Fife FC,Hibernian FC,3,1,H,NaN,NaN,NaN
+SCO,23/02/1952,,St. Mirren FC,Partick Thistle,1,2,A,NaN,NaN,NaN
+SCO,27/02/1952,,Airdrieonians FC (old),Celtic FC,2,1,H,NaN,NaN,NaN
+SCO,27/02/1952,,Queen Of The South,Dundee FC,1,0,H,NaN,NaN,NaN
+SCO,27/02/1952,,Rangers FC,Raith Rovers,1,0,H,NaN,NaN,NaN
+SCO,27/02/1952,,Third Lanark,Greenock Morton FC,3,1,H,NaN,NaN,NaN
+SCO,01/03/1952,,Celtic FC,Queen Of The South,6,1,H,NaN,NaN,NaN
+SCO,01/03/1952,,Dundee FC,St. Mirren FC,3,0,H,NaN,NaN,NaN
+SCO,01/03/1952,,Greenock Morton FC,Heart of Midlothian,3,1,H,NaN,NaN,NaN
+SCO,01/03/1952,,Hibernian FC,Airdrieonians FC (old),4,0,H,NaN,NaN,NaN
+SCO,01/03/1952,,Motherwell FC,Third Lanark,1,1,D,NaN,NaN,NaN
+SCO,01/03/1952,,Partick Thistle,East Fife FC,2,0,H,NaN,NaN,NaN
+SCO,01/03/1952,,Raith Rovers,Aberdeen FC,2,1,H,NaN,NaN,NaN
+SCO,01/03/1952,,Stirling Albion FC,Rangers FC,1,5,A,NaN,NaN,NaN
+SCO,05/03/1952,,Celtic FC,Greenock Morton FC,2,2,D,NaN,NaN,NaN
+SCO,08/03/1952,,Partick Thistle,Celtic FC,2,4,A,NaN,NaN,NaN
+SCO,08/03/1952,,St. Mirren FC,Queen Of The South,3,1,H,NaN,NaN,NaN
+SCO,08/03/1952,,Stirling Albion FC,Greenock Morton FC,1,1,D,NaN,NaN,NaN
+SCO,12/03/1952,,Aberdeen FC,Stirling Albion FC,6,0,H,NaN,NaN,NaN
+SCO,15/03/1952,,Aberdeen FC,Motherwell FC,2,2,D,NaN,NaN,NaN
+SCO,15/03/1952,,Airdrieonians FC (old),Partick Thistle,2,2,D,NaN,NaN,NaN
+SCO,15/03/1952,,East Fife FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,15/03/1952,,Heart of Midlothian,Stirling Albion FC,5,2,H,NaN,NaN,NaN
+SCO,15/03/1952,,Queen Of The South,Hibernian FC,5,2,H,NaN,NaN,NaN
+SCO,15/03/1952,,Rangers FC,Greenock Morton FC,1,0,H,NaN,NaN,NaN
+SCO,15/03/1952,,St. Mirren FC,Celtic FC,3,1,H,NaN,NaN,NaN
+SCO,15/03/1952,,Third Lanark,Raith Rovers,3,1,H,NaN,NaN,NaN
+SCO,22/03/1952,,Celtic FC,East Fife FC,2,1,H,NaN,NaN,NaN
+SCO,22/03/1952,,Dundee FC,Airdrieonians FC (old),0,1,A,NaN,NaN,NaN
+SCO,22/03/1952,,Greenock Morton FC,Aberdeen FC,3,2,H,NaN,NaN,NaN
+SCO,22/03/1952,,Motherwell FC,Rangers FC,2,1,H,NaN,NaN,NaN
+SCO,22/03/1952,,Partick Thistle,Queen Of The South,3,0,H,NaN,NaN,NaN
+SCO,22/03/1952,,Raith Rovers,Heart of Midlothian,2,1,H,NaN,NaN,NaN
+SCO,22/03/1952,,Stirling Albion FC,Third Lanark,3,3,D,NaN,NaN,NaN
+SCO,29/03/1952,,Celtic FC,Aberdeen FC,2,0,H,NaN,NaN,NaN
+SCO,29/03/1952,,Queen Of The South,Rangers FC,2,2,D,NaN,NaN,NaN
+SCO,02/04/1952,,Dundee FC,Greenock Morton FC,2,2,D,NaN,NaN,NaN
+SCO,09/04/1952,,Hibernian FC,Dundee FC,3,1,H,NaN,NaN,NaN
+SCO,12/04/1952,,Dundee FC,Partick Thistle,0,2,A,NaN,NaN,NaN
+SCO,12/04/1952,,Greenock Morton FC,Motherwell FC,0,2,A,NaN,NaN,NaN
+SCO,12/04/1952,,Third Lanark,Celtic FC,3,3,D,NaN,NaN,NaN
+SCO,14/04/1952,,Third Lanark,Heart of Midlothian,4,0,H,NaN,NaN,NaN
+SCO,16/04/1952,,Third Lanark,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,19/04/1952,,Aberdeen FC,Rangers FC,1,1,D,NaN,NaN,NaN
+SCO,19/04/1952,,Airdrieonians FC (old),East Fife FC,3,1,H,NaN,NaN,NaN
+SCO,21/04/1952,,Hibernian FC,Motherwell FC,3,1,H,NaN,NaN,NaN
+SCO,23/04/1952,,Airdrieonians FC (old),Motherwell FC,1,2,A,NaN,NaN,NaN
+SCO,26/04/1952,,Dundee FC,Third Lanark,6,0,H,NaN,NaN,NaN
+SCO,26/04/1952,,East Fife FC,Motherwell FC,6,1,H,NaN,NaN,NaN
+SCO,28/04/1952,,Raith Rovers,Motherwell FC,2,0,H,NaN,NaN,NaN
+SCO,30/04/1952,,Heart of Midlothian,Motherwell FC,2,2,D,NaN,NaN,NaN

@@ -1,0 +1,31 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CYP,22/03/2014,14:00,Aris Limassol FC,AEK Larnaca,3,1,H,NaN,NaN,NaN
+CYP,22/03/2014,14:00,Nea Salamina,AE Kouklion,2,1,H,NaN,NaN,NaN
+CYP,22/03/2014,14:00,Ethnikos Achna,Doxa Katokopias FC,3,2,H,NaN,NaN,NaN
+CYP,29/03/2014,13:30,Doxa Katokopias FC,Nea Salamina,1,3,A,0,1,A
+CYP,30/03/2014,15:00,AE Kouklion,Aris Limassol FC,1,2,A,1,1,D
+CYP,30/03/2014,15:00,AEK Larnaca,Ethnikos Achna,0,0,D,0,0,D
+CYP,05/04/2014,15:00,AE Kouklion,Doxa Katokopias FC,1,1,D,1,1,D
+CYP,06/04/2014,15:00,Nea Salamina,AEK Larnaca,1,0,H,0,0,D
+CYP,06/04/2014,15:00,Aris Limassol FC,Ethnikos Achna,1,1,D,1,0,H
+CYP,12/04/2014,15:00,AEK Larnaca,AE Kouklion,1,0,H,0,0,D
+CYP,12/04/2014,15:00,Ethnikos Achna,Nea Salamina,1,1,D,1,0,H
+CYP,12/04/2014,15:00,Aris Limassol FC,Doxa Katokopias FC,3,1,H,1,1,D
+CYP,23/04/2014,15:00,AE Kouklion,Ethnikos Achna,1,4,A,0,1,A
+CYP,23/04/2014,15:00,Nea Salamina,Aris Limassol FC,3,4,A,2,2,D
+CYP,23/04/2014,15:00,Doxa Katokopias FC,AEK Larnaca,0,0,D,0,0,D
+CYP,27/04/2014,15:00,Doxa Katokopias FC,Ethnikos Achna,1,0,H,0,0,D
+CYP,27/04/2014,15:00,AEK Larnaca,Aris Limassol FC,1,1,D,0,1,A
+CYP,27/04/2014,15:00,AE Kouklion,Nea Salamina,1,4,A,1,1,D
+CYP,04/05/2014,15:00,Nea Salamina,Doxa Katokopias FC,0,4,A,0,1,A
+CYP,04/05/2014,15:00,Ethnikos Achna,AEK Larnaca,2,0,H,2,0,H
+CYP,04/05/2014,15:00,Aris Limassol FC,AE Kouklion,7,2,H,5,2,H
+CYP,07/05/2014,15:00,AEK Larnaca,Nea Salamina,3,0,H,3,0,H
+CYP,07/05/2014,15:00,Doxa Katokopias FC,AE Kouklion,4,0,H,3,0,H
+CYP,07/05/2014,15:00,Ethnikos Achna,Aris Limassol FC,3,0,H,1,0,H
+CYP,11/05/2014,15:00,Nea Salamina,Ethnikos Achna,1,2,A,1,1,D
+CYP,11/05/2014,15:00,Doxa Katokopias FC,Aris Limassol FC,2,0,H,1,0,H
+CYP,11/05/2014,15:00,AE Kouklion,AEK Larnaca,0,0,D,0,0,D
+CYP,18/05/2014,15:00,AEK Larnaca,Doxa Katokopias FC,6,1,H,2,0,H
+CYP,18/05/2014,15:00,Aris Limassol FC,Nea Salamina,1,2,A,0,1,A
+CYP,18/05/2014,15:00,Ethnikos Achna,AE Kouklion,5,0,H,1,0,H

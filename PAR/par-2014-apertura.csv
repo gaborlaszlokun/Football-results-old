@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PAR,14/02/2014,22:00,Libertad,Guaraní,2,0,H,2,0,H
+PAR,15/02/2014,20:30,3 de Febrero,Deportivo Capiatá,0,0,D,0,0,D
+PAR,15/02/2014,22:00,General Díaz,Club Olimpia,1,3,A,0,2,A
+PAR,16/02/2014,20:15,Club Nacional,Sportivo Luqueño,3,0,H,1,0,H
+PAR,16/02/2014,22:00,Sol de América,Rubio Ñu,2,2,D,1,1,D
+PAR,16/02/2014,22:20,12 de Octubre,Cerro Porteño,1,3,A,0,3,A
+PAR,21/02/2014,22:00,Cerro Porteño,3 de Febrero,2,1,H,1,0,H
+PAR,22/02/2014,22:00,Guaraní,Club Olimpia,2,1,H,1,0,H
+PAR,23/02/2014,20:15,Deportivo Capiatá,Sol de América,0,0,D,0,0,D
+PAR,23/02/2014,20:15,Rubio Ñu,Club Nacional,4,1,H,1,0,H
+PAR,23/02/2014,22:00,12 de Octubre,General Díaz,1,1,D,0,0,D
+PAR,23/02/2014,22:20,Sportivo Luqueño,Libertad,0,0,D,0,0,D
+PAR,28/02/2014,22:00,General Díaz,Guaraní,3,1,H,1,0,H
+PAR,01/03/2014,20:30,3 de Febrero,12 de Octubre,3,2,H,2,1,H
+PAR,01/03/2014,22:00,Libertad,Rubio Ñu,3,1,H,2,1,H
+PAR,01/03/2014,22:00,Club Nacional,Deportivo Capiatá,3,1,H,3,0,H
+PAR,02/03/2014,20:30,Club Olimpia,Sportivo Luqueño,1,1,D,1,0,H
+PAR,02/03/2014,22:40,Sol de América,Cerro Porteño,4,4,D,1,1,D
+PAR,07/03/2014,22:00,12 de Octubre,Sol de América,0,3,A,0,1,A
+PAR,08/03/2014,22:00,Cerro Porteño,Club Nacional,0,1,A,0,0,D
+PAR,09/03/2014,20:00,Sportivo Luqueño,Guaraní,1,4,A,1,1,D
+PAR,09/03/2014,22:00,3 de Febrero,General Díaz,1,1,D,1,1,D
+PAR,09/03/2014,22:10,Rubio Ñu,Club Olimpia,2,1,H,1,1,D
+PAR,10/03/2014,22:30,Deportivo Capiatá,Libertad,1,5,A,0,3,A
+PAR,14/03/2014,22:00,General Díaz,Sportivo Luqueño,0,1,A,0,0,D
+PAR,14/03/2014,22:00,Sol de América,3 de Febrero,1,1,D,1,1,D
+PAR,15/03/2014,22:00,Club Olimpia,Deportivo Capiatá,2,1,H,2,0,H
+PAR,16/03/2014,20:30,Guaraní,Rubio Ñu,2,2,D,1,0,H
+PAR,16/03/2014,22:00,Club Nacional,12 de Octubre,1,0,H,1,0,H
+PAR,16/03/2014,22:30,Libertad,Cerro Porteño,3,1,H,2,1,H
+PAR,21/03/2014,22:00,Deportivo Capiatá,Guaraní,0,2,A,0,0,D
+PAR,22/03/2014,20:00,Rubio Ñu,Sportivo Luqueño,1,4,A,1,2,A
+PAR,22/03/2014,22:00,Sol de América,General Díaz,4,2,H,2,2,D
+PAR,22/03/2014,22:15,12 de Octubre,Libertad,1,2,A,1,0,H
+PAR,23/03/2014,20:00,Cerro Porteño,Club Olimpia,2,2,D,0,1,A
+PAR,29/05/2014,21:00,3 de Febrero,Club Nacional,0,2,A,0,0,D
+PAR,29/03/2014,19:15,General Díaz,Rubio Ñu,1,1,D,0,1,A
+PAR,29/03/2014,22:15,Club Olimpia,12 de Octubre,1,1,D,1,0,H
+PAR,30/03/2014,21:00,Sportivo Luqueño,Deportivo Capiatá,1,1,D,1,0,H
+PAR,30/03/2014,21:00,Libertad,3 de Febrero,4,1,H,1,0,H
+PAR,30/03/2014,23:15,Guaraní,Cerro Porteño,3,0,H,0,0,D
+PAR,31/03/2014,23:00,Club Nacional,Sol de América,2,1,H,1,1,D
+PAR,05/04/2014,00:00,Cerro Porteño,Sportivo Luqueño,0,0,D,0,0,D
+PAR,05/04/2014,20:30,12 de Octubre,Guaraní,2,2,D,0,0,D
+PAR,05/04/2014,23:15,Club Nacional,General Díaz,0,0,D,0,0,D
+PAR,06/04/2014,20:15,Deportivo Capiatá,Rubio Ñu,4,0,H,1,0,H
+PAR,06/04/2014,21:00,Sol de América,Libertad,1,1,D,1,1,D
+PAR,06/04/2014,23:15,3 de Febrero,Club Olimpia,1,5,A,1,4,A
+PAR,12/04/2014,20:15,General Díaz,Deportivo Capiatá,1,1,D,0,0,D
+PAR,13/04/2014,00:00,Rubio Ñu,Cerro Porteño,3,3,D,1,1,D
+PAR,13/04/2014,21:45,Guaraní,3 de Febrero,2,1,H,1,1,D
+PAR,13/04/2014,22:30,Sportivo Luqueño,12 de Octubre,1,2,A,1,0,H
+PAR,14/04/2014,00:00,Club Olimpia,Sol de América,1,1,D,1,0,H
+PAR,15/04/2014,00:00,Libertad,Club Nacional,1,0,H,0,0,D
+PAR,19/04/2014,22:00,3 de Febrero,Sportivo Luqueño,0,2,A,0,0,D
+PAR,19/04/2014,23:00,12 de Octubre,Rubio Ñu,0,3,A,0,2,A
+PAR,20/04/2014,00:00,Club Nacional,Club Olimpia,0,2,A,0,2,A
+PAR,20/04/2014,21:45,Libertad,General Díaz,5,0,H,1,0,H
+PAR,21/04/2014,00:00,Sol de América,Guaraní,0,4,A,0,1,A
+PAR,22/04/2014,00:00,Cerro Porteño,Deportivo Capiatá,7,0,H,4,0,H
+PAR,25/04/2014,20:30,General Díaz,Cerro Porteño,1,1,D,1,1,D
+PAR,26/04/2014,22:30,Rubio Ñu,3 de Febrero,5,1,H,3,1,H
+PAR,26/04/2014,23:15,Guaraní,Club Nacional,0,4,A,0,1,A
+PAR,27/04/2014,20:15,Deportivo Capiatá,12 de Octubre,2,2,D,2,1,H
+PAR,27/04/2014,21:00,Sportivo Luqueño,Sol de América,1,3,A,0,1,A
+PAR,27/04/2014,23:15,Club Olimpia,Libertad,2,1,H,2,0,H
+PAR,03/05/2014,21:00,Sportivo Luqueño,Club Nacional,1,1,D,0,0,D
+PAR,03/05/2014,22:30,Rubio Ñu,Sol de América,0,2,A,0,1,A
+PAR,03/05/2014,23:15,Cerro Porteño,12 de Octubre,4,1,H,4,1,H
+PAR,04/05/2014,20:15,Deportivo Capiatá,3 de Febrero,2,2,D,0,1,A
+PAR,04/05/2014,21:45,Guaraní,Libertad,2,4,A,1,2,A
+PAR,05/05/2014,00:00,Club Olimpia,General Díaz,1,0,H,1,0,H
+PAR,09/05/2014,20:15,General Díaz,12 de Octubre,1,0,H,0,0,D
+PAR,09/05/2014,21:30,Libertad,Sportivo Luqueño,3,2,H,1,1,D
+PAR,09/05/2014,23:00,Sol de América,Deportivo Capiatá,3,0,H,1,0,H
+PAR,10/05/2014,00:15,Club Olimpia,Guaraní,1,1,D,1,0,H
+PAR,10/05/2014,22:50,3 de Febrero,Cerro Porteño,1,1,D,0,0,D
+PAR,11/05/2014,01:00,Club Nacional,Rubio Ñu,0,1,A,0,1,A
+PAR,14/05/2014,00:00,Sportivo Luqueño,Club Olimpia,1,0,H,0,0,D
+PAR,14/05/2014,00:00,Guaraní,General Díaz,2,0,H,1,0,H
+PAR,14/05/2014,21:00,12 de Octubre,3 de Febrero,1,1,D,0,1,A
+PAR,14/05/2014,21:30,Rubio Ñu,Libertad,0,1,A,0,0,D
+PAR,15/05/2014,00:00,Cerro Porteño,Sol de América,6,3,H,4,0,H
+PAR,04/06/2014,21:00,Deportivo Capiatá,Club Nacional,2,1,H,1,1,D
+PAR,17/05/2014,21:00,Guaraní,Sportivo Luqueño,1,0,H,1,0,H
+PAR,17/05/2014,23:30,Club Olimpia,Rubio Ñu,3,0,H,3,0,H
+PAR,18/05/2014,20:15,General Díaz,3 de Febrero,2,3,A,1,2,A
+PAR,18/05/2014,21:00,Libertad,Deportivo Capiatá,0,0,D,0,0,D
+PAR,18/05/2014,23:00,Sol de América,12 de Octubre,1,1,D,1,0,H
+PAR,18/05/2014,23:30,Club Nacional,Cerro Porteño,2,1,H,2,0,H
+PAR,24/05/2014,20:30,12 de Octubre,Club Nacional,1,1,D,1,0,H
+PAR,24/05/2014,23:00,Rubio Ñu,Guaraní,1,4,A,1,0,H
+PAR,25/05/2014,21:00,Deportivo Capiatá,Club Olimpia,2,0,H,1,0,H
+PAR,25/05/2014,22:00,Sportivo Luqueño,General Díaz,0,0,D,0,0,D
+PAR,25/05/2014,23:00,3 de Febrero,Sol de América,0,1,A,0,1,A
+PAR,25/05/2014,23:30,Cerro Porteño,Libertad,4,0,H,2,0,H
+PAR,30/05/2014,23:00,Sportivo Luqueño,Rubio Ñu,1,1,D,1,0,H
+PAR,31/05/2014,20:00,General Díaz,Sol de América,2,1,H,0,0,D
+PAR,01/06/2014,21:00,Club Nacional,3 de Febrero,0,0,D,0,0,D
+PAR,01/06/2014,22:10,Guaraní,Deportivo Capiatá,6,0,H,2,0,H
+PAR,02/06/2014,00:15,Libertad,12 de Octubre,1,0,H,0,0,D
+PAR,19/06/2014,23:30,Club Olimpia,Cerro Porteño,0,2,A,0,1,A
+PAR,06/06/2014,21:00,Rubio Ñu,General Díaz,4,0,H,0,0,D
+PAR,06/06/2014,23:30,Cerro Porteño,Guaraní,5,5,D,4,1,H
+PAR,07/06/2014,21:00,3 de Febrero,Libertad,0,2,A,0,1,A
+PAR,07/06/2014,23:30,12 de Octubre,Club Olimpia,1,1,D,1,0,H
+PAR,08/06/2014,21:00,Deportivo Capiatá,Sportivo Luqueño,1,1,D,0,1,A
+PAR,08/06/2014,21:00,Sol de América,Club Nacional,1,1,D,1,0,H
+PAR,10/06/2014,23:00,Guaraní,12 de Octubre,2,1,H,1,0,H
+PAR,11/06/2014,20:00,General Díaz,Club Nacional,2,0,H,1,0,H
+PAR,11/06/2014,20:30,Rubio Ñu,Deportivo Capiatá,1,0,H,1,0,H
+PAR,11/06/2014,21:45,Sportivo Luqueño,Cerro Porteño,1,0,H,1,0,H
+PAR,12/06/2014,00:00,Club Olimpia,3 de Febrero,3,2,H,1,0,H
+PAR,12/06/2014,23:15,Libertad,Sol de América,0,0,D,0,0,D
+PAR,14/06/2014,23:00,Cerro Porteño,Rubio Ñu,1,4,A,0,1,A
+PAR,15/06/2014,20:30,Deportivo Capiatá,General Díaz,1,0,H,0,0,D
+PAR,15/06/2014,20:30,12 de Octubre,Sportivo Luqueño,1,1,D,1,1,D
+PAR,15/06/2014,21:00,3 de Febrero,Guaraní,0,2,A,0,1,A
+PAR,15/06/2014,23:00,Sol de América,Club Olimpia,3,0,H,1,0,H
+PAR,16/06/2014,21:00,Club Nacional,Libertad,1,1,D,0,0,D
+PAR,20/06/2014,21:00,Rubio Ñu,12 de Octubre,1,2,A,0,1,A
+PAR,21/06/2014,20:00,General Díaz,Libertad,0,1,A,0,0,D
+PAR,21/06/2014,20:00,Guaraní,Sol de América,3,1,H,2,0,H
+PAR,22/06/2014,20:00,Deportivo Capiatá,Cerro Porteño,1,0,H,1,0,H
+PAR,22/06/2014,20:30,Sportivo Luqueño,3 de Febrero,3,2,H,1,0,H
+PAR,22/06/2014,22:10,Club Olimpia,Club Nacional,2,0,H,0,0,D
+PAR,26/06/2014,22:00,Club Nacional,Guaraní,2,6,A,0,1,A
+PAR,27/06/2014,20:15,12 de Octubre,Deportivo Capiatá,0,2,A,0,0,D
+PAR,27/06/2014,21:00,Sol de América,Sportivo Luqueño,0,0,D,0,0,D
+PAR,27/06/2014,23:10,Cerro Porteño,General Díaz,2,1,H,1,1,D
+PAR,28/06/2014,21:00,3 de Febrero,Rubio Ñu,1,1,D,1,1,D
+PAR,28/06/2014,22:00,Libertad,Club Olimpia,1,0,H,0,0,D

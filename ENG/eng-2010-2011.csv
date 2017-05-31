@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ENG,14/08/2010,12:45,Tottenham Hotspur,Manchester City,0,0,D,0,0,D
+ENG,14/08/2010,15:00,Wigan Athletic,Blackpool FC,0,4,A,0,3,A
+ENG,14/08/2010,15:00,Bolton Wanderers,Fulham FC,0,0,D,0,0,D
+ENG,14/08/2010,15:00,Wolverhampton Wanderers,Stoke City,2,1,H,2,0,H
+ENG,14/08/2010,15:00,Aston Villa,West Ham United,3,0,H,2,0,H
+ENG,14/08/2010,15:00,Blackburn Rovers,Everton FC,1,0,H,1,0,H
+ENG,14/08/2010,15:00,Sunderland AFC,Birmingham City,2,2,D,1,0,H
+ENG,14/08/2010,17:30,Chelsea FC,West Bromwich Albion,6,0,H,2,0,H
+ENG,15/08/2010,16:00,Liverpool FC,Arsenal FC,1,1,D,0,0,D
+ENG,16/08/2010,20:00,Manchester United,Newcastle United,3,0,H,2,0,H
+ENG,21/08/2010,15:00,Arsenal FC,Blackpool FC,6,0,H,3,0,H
+ENG,21/08/2010,15:00,West Bromwich Albion,Sunderland AFC,1,0,H,0,0,D
+ENG,21/08/2010,15:00,West Ham United,Bolton Wanderers,1,3,A,0,0,D
+ENG,21/08/2010,15:00,Birmingham City,Blackburn Rovers,2,1,H,0,0,D
+ENG,21/08/2010,15:00,Stoke City,Tottenham Hotspur,1,2,A,1,2,A
+ENG,21/08/2010,15:00,Everton FC,Wolverhampton Wanderers,1,1,D,1,0,H
+ENG,21/08/2010,17:15,Wigan Athletic,Chelsea FC,0,6,A,0,1,A
+ENG,22/08/2010,13:30,Newcastle United,Aston Villa,6,0,H,3,0,H
+ENG,22/08/2010,16:00,Fulham FC,Manchester United,2,2,D,0,1,A
+ENG,23/08/2010,20:00,Manchester City,Liverpool FC,3,0,H,1,0,H
+ENG,28/08/2010,12:45,Blackburn Rovers,Arsenal FC,1,2,A,1,1,D
+ENG,28/08/2010,15:00,Tottenham Hotspur,Wigan Athletic,0,1,A,0,0,D
+ENG,28/08/2010,15:00,Wolverhampton Wanderers,Newcastle United,1,1,D,1,0,H
+ENG,28/08/2010,15:00,Chelsea FC,Stoke City,2,0,H,1,0,H
+ENG,28/08/2010,15:00,Blackpool FC,Fulham FC,2,2,D,0,1,A
+ENG,28/08/2010,17:30,Manchester United,West Ham United,3,0,H,1,0,H
+ENG,29/08/2010,13:30,Bolton Wanderers,Birmingham City,2,2,D,0,1,A
+ENG,29/08/2010,15:00,Liverpool FC,West Bromwich Albion,1,0,H,0,0,D
+ENG,29/08/2010,15:00,Sunderland AFC,Manchester City,1,0,H,0,0,D
+ENG,29/08/2010,16:00,Aston Villa,Everton FC,1,0,H,1,0,H
+ENG,11/09/2010,12:45,Everton FC,Manchester United,3,3,D,1,1,D
+ENG,11/09/2010,15:00,West Bromwich Albion,Tottenham Hotspur,1,1,D,1,1,D
+ENG,11/09/2010,15:00,Fulham FC,Wolverhampton Wanderers,2,1,H,0,1,A
+ENG,11/09/2010,15:00,Wigan Athletic,Sunderland AFC,1,1,D,0,0,D
+ENG,11/09/2010,15:00,Arsenal FC,Bolton Wanderers,4,1,H,1,1,D
+ENG,11/09/2010,15:00,Newcastle United,Blackpool FC,0,2,A,0,1,A
+ENG,11/09/2010,15:00,Manchester City,Blackburn Rovers,1,1,D,0,1,A
+ENG,11/09/2010,15:00,West Ham United,Chelsea FC,1,3,A,0,2,A
+ENG,12/09/2010,16:00,Birmingham City,Liverpool FC,0,0,D,0,0,D
+ENG,13/09/2010,20:00,Stoke City,Aston Villa,2,1,H,0,1,A
+ENG,18/09/2010,12:45,Stoke City,West Ham United,1,1,D,0,1,A
+ENG,18/09/2010,15:00,Tottenham Hotspur,Wolverhampton Wanderers,3,1,H,0,1,A
+ENG,18/09/2010,15:00,West Bromwich Albion,Birmingham City,3,1,H,0,1,A
+ENG,18/09/2010,15:00,Everton FC,Newcastle United,0,1,A,0,1,A
+ENG,18/09/2010,15:00,Blackburn Rovers,Fulham FC,1,1,D,1,0,H
+ENG,18/09/2010,15:00,Aston Villa,Bolton Wanderers,1,1,D,1,1,D
+ENG,18/09/2010,17:30,Sunderland AFC,Arsenal FC,1,1,D,0,1,A
+ENG,19/09/2010,13:30,Manchester United,Liverpool FC,3,2,H,1,0,H
+ENG,19/09/2010,15:00,Wigan Athletic,Manchester City,0,2,A,0,1,A
+ENG,19/09/2010,16:00,Chelsea FC,Blackpool FC,4,0,H,4,0,H
+ENG,25/09/2010,12:45,Manchester City,Chelsea FC,1,0,H,0,0,D
+ENG,25/09/2010,15:00,Liverpool FC,Sunderland AFC,2,2,D,1,1,D
+ENG,25/09/2010,15:00,Fulham FC,Everton FC,0,0,D,0,0,D
+ENG,25/09/2010,15:00,Blackpool FC,Blackburn Rovers,1,2,A,0,1,A
+ENG,25/09/2010,15:00,Arsenal FC,West Bromwich Albion,2,3,A,0,0,D
+ENG,25/09/2010,15:00,West Ham United,Tottenham Hotspur,1,0,H,1,0,H
+ENG,25/09/2010,15:00,Birmingham City,Wigan Athletic,0,0,D,0,0,D
+ENG,26/09/2010,12:00,Bolton Wanderers,Manchester United,2,2,D,1,1,D
+ENG,26/09/2010,14:05,Wolverhampton Wanderers,Aston Villa,1,2,A,0,1,A
+ENG,26/09/2010,16:10,Newcastle United,Stoke City,1,2,A,1,0,H
+ENG,02/10/2010,12:45,Wigan Athletic,Wolverhampton Wanderers,2,0,H,0,0,D
+ENG,02/10/2010,15:00,Tottenham Hotspur,Aston Villa,2,1,H,1,1,D
+ENG,02/10/2010,15:00,Stoke City,Blackburn Rovers,1,0,H,0,0,D
+ENG,02/10/2010,15:00,West Ham United,Fulham FC,1,1,D,0,1,A
+ENG,02/10/2010,15:00,West Bromwich Albion,Bolton Wanderers,1,1,D,0,0,D
+ENG,02/10/2010,15:00,Birmingham City,Everton FC,0,2,A,0,0,D
+ENG,02/10/2010,15:15,Sunderland AFC,Manchester United,0,0,D,0,0,D
+ENG,03/10/2010,13:30,Manchester City,Newcastle United,2,1,H,1,1,D
+ENG,03/10/2010,15:00,Liverpool FC,Blackpool FC,1,2,A,0,2,A
+ENG,03/10/2010,16:00,Chelsea FC,Arsenal FC,2,0,H,1,0,H
+ENG,16/10/2010,15:00,Fulham FC,Tottenham Hotspur,1,2,A,1,1,D
+ENG,16/10/2010,15:00,Wolverhampton Wanderers,West Ham United,1,1,D,1,0,H
+ENG,16/10/2010,15:00,Arsenal FC,Birmingham City,2,1,H,1,1,D
+ENG,16/10/2010,15:00,Bolton Wanderers,Stoke City,2,1,H,1,0,H
+ENG,16/10/2010,15:00,Manchester United,West Bromwich Albion,2,2,D,2,0,H
+ENG,16/10/2010,15:00,Newcastle United,Wigan Athletic,2,2,D,0,2,A
+ENG,16/10/2010,17:30,Aston Villa,Chelsea FC,0,0,D,0,0,D
+ENG,17/10/2010,13:30,Everton FC,Liverpool FC,2,0,H,1,0,H
+ENG,17/10/2010,16:00,Blackpool FC,Manchester City,2,3,A,0,0,D
+ENG,18/10/2010,20:00,Blackburn Rovers,Sunderland AFC,0,0,D,0,0,D
+ENG,23/10/2010,12:45,Tottenham Hotspur,Everton FC,1,1,D,1,1,D
+ENG,23/10/2010,15:00,Birmingham City,Blackpool FC,2,0,H,1,0,H
+ENG,23/10/2010,15:00,Wigan Athletic,Bolton Wanderers,1,1,D,0,0,D
+ENG,23/10/2010,15:00,West Bromwich Albion,Fulham FC,2,1,H,2,1,H
+ENG,23/10/2010,15:00,Sunderland AFC,Aston Villa,1,0,H,1,0,H
+ENG,23/10/2010,15:00,Chelsea FC,Wolverhampton Wanderers,2,0,H,1,0,H
+ENG,23/10/2010,17:30,West Ham United,Newcastle United,1,2,A,1,1,D
+ENG,24/10/2010,13:30,Stoke City,Manchester United,1,2,A,0,1,A
+ENG,24/10/2010,15:00,Liverpool FC,Blackburn Rovers,2,1,H,0,0,D
+ENG,24/10/2010,16:00,Manchester City,Arsenal FC,0,3,A,0,1,A
+ENG,30/10/2010,15:00,Blackburn Rovers,Chelsea FC,1,2,A,1,1,D
+ENG,30/10/2010,15:00,Arsenal FC,West Ham United,1,0,H,0,0,D
+ENG,30/10/2010,15:00,Wolverhampton Wanderers,Manchester City,2,1,H,1,1,D
+ENG,30/10/2010,15:00,Everton FC,Stoke City,1,0,H,0,0,D
+ENG,30/10/2010,15:00,Fulham FC,Wigan Athletic,2,0,H,2,0,H
+ENG,30/10/2010,17:30,Manchester United,Tottenham Hotspur,2,0,H,1,0,H
+ENG,31/10/2010,12:00,Aston Villa,Birmingham City,0,0,D,0,0,D
+ENG,31/10/2010,13:30,Newcastle United,Sunderland AFC,5,1,H,3,0,H
+ENG,31/10/2010,16:00,Bolton Wanderers,Liverpool FC,0,1,A,0,0,D
+ENG,01/11/2010,20:00,Blackpool FC,West Bromwich Albion,2,1,H,1,0,H
+ENG,06/11/2010,12:45,Bolton Wanderers,Tottenham Hotspur,4,2,H,1,0,H
+ENG,06/11/2010,15:00,Sunderland AFC,Stoke City,2,0,H,1,0,H
+ENG,06/11/2010,15:00,Blackpool FC,Everton FC,2,2,D,1,1,D
+ENG,06/11/2010,15:00,Fulham FC,Aston Villa,1,1,D,0,1,A
+ENG,06/11/2010,15:00,Birmingham City,West Ham United,2,2,D,0,0,D
+ENG,06/11/2010,15:00,Manchester United,Wolverhampton Wanderers,2,1,H,1,0,H
+ENG,06/11/2010,15:00,Blackburn Rovers,Wigan Athletic,2,1,H,0,0,D
+ENG,07/11/2010,13:30,Arsenal FC,Newcastle United,0,1,A,0,1,A
+ENG,07/11/2010,15:00,West Bromwich Albion,Manchester City,0,2,A,0,2,A
+ENG,07/11/2010,16:00,Liverpool FC,Chelsea FC,2,0,H,2,0,H
+ENG,09/11/2010,19:45,Stoke City,Birmingham City,3,2,H,1,0,H
+ENG,09/11/2010,20:00,Tottenham Hotspur,Sunderland AFC,1,1,D,0,0,D
+ENG,10/11/2010,19:45,Wolverhampton Wanderers,Arsenal FC,0,2,A,0,1,A
+ENG,10/11/2010,19:45,West Ham United,West Bromwich Albion,2,2,D,1,1,D
+ENG,10/11/2010,19:45,Wigan Athletic,Liverpool FC,1,1,D,0,1,A
+ENG,10/11/2010,19:45,Newcastle United,Blackburn Rovers,1,2,A,0,1,A
+ENG,10/11/2010,19:45,Aston Villa,Blackpool FC,3,2,H,1,1,D
+ENG,10/11/2010,19:45,Chelsea FC,Fulham FC,1,0,H,1,0,H
+ENG,10/11/2010,20:00,Manchester City,Manchester United,0,0,D,0,0,D
+ENG,10/11/2010,20:00,Everton FC,Bolton Wanderers,1,1,D,0,0,D
+ENG,13/11/2010,12:45,Aston Villa,Manchester United,2,2,D,0,0,D
+ENG,13/11/2010,15:00,Wolverhampton Wanderers,Bolton Wanderers,2,3,A,0,1,A
+ENG,13/11/2010,15:00,Wigan Athletic,West Bromwich Albion,1,0,H,0,0,D
+ENG,13/11/2010,15:00,Newcastle United,Fulham FC,0,0,D,0,0,D
+ENG,13/11/2010,15:00,West Ham United,Blackpool FC,0,0,D,0,0,D
+ENG,13/11/2010,15:00,Tottenham Hotspur,Blackburn Rovers,4,2,H,2,0,H
+ENG,13/11/2010,15:00,Manchester City,Birmingham City,0,0,D,0,0,D
+ENG,13/11/2010,17:30,Stoke City,Liverpool FC,2,0,H,0,0,D
+ENG,14/11/2010,14:00,Everton FC,Arsenal FC,1,2,A,0,1,A
+ENG,14/11/2010,16:10,Chelsea FC,Sunderland AFC,0,3,A,0,1,A
+ENG,20/11/2010,12:45,Arsenal FC,Tottenham Hotspur,2,3,A,2,0,H
+ENG,20/11/2010,15:00,West Bromwich Albion,Stoke City,0,3,A,0,0,D
+ENG,20/11/2010,15:00,Bolton Wanderers,Newcastle United,5,1,H,2,0,H
+ENG,20/11/2010,15:00,Birmingham City,Chelsea FC,1,0,H,1,0,H
+ENG,20/11/2010,15:00,Blackpool FC,Wolverhampton Wanderers,2,1,H,2,0,H
+ENG,20/11/2010,15:00,Manchester United,Wigan Athletic,2,0,H,1,0,H
+ENG,20/11/2010,17:30,Liverpool FC,West Ham United,3,0,H,3,0,H
+ENG,21/11/2010,13:30,Blackburn Rovers,Aston Villa,2,0,H,1,0,H
+ENG,21/11/2010,16:00,Fulham FC,Manchester City,1,4,A,0,3,A
+ENG,22/11/2010,20:00,Sunderland AFC,Everton FC,2,2,D,1,1,D
+ENG,27/11/2010,12:45,Aston Villa,Arsenal FC,2,4,A,0,2,A
+ENG,27/11/2010,15:00,West Ham United,Wigan Athletic,3,1,H,1,0,H
+ENG,27/11/2010,15:00,Fulham FC,Birmingham City,1,1,D,0,1,A
+ENG,27/11/2010,15:00,Everton FC,West Bromwich Albion,1,4,A,1,2,A
+ENG,27/11/2010,15:00,Wolverhampton Wanderers,Sunderland AFC,3,2,H,0,0,D
+ENG,27/11/2010,15:00,Bolton Wanderers,Blackpool FC,2,2,D,0,1,A
+ENG,27/11/2010,15:00,Manchester United,Blackburn Rovers,7,1,H,3,0,H
+ENG,27/11/2010,15:00,Stoke City,Manchester City,1,1,D,0,0,D
+ENG,28/11/2010,13:30,Newcastle United,Chelsea FC,1,1,D,1,1,D
+ENG,28/11/2010,16:00,Tottenham Hotspur,Liverpool FC,2,1,H,0,1,A
+ENG,04/12/2010,15:00,Wigan Athletic,Stoke City,2,2,D,2,2,D
+ENG,04/12/2010,15:00,Manchester City,Bolton Wanderers,1,0,H,1,0,H
+ENG,04/12/2010,15:00,Chelsea FC,Everton FC,1,1,D,1,0,H
+ENG,04/12/2010,15:00,Blackburn Rovers,Wolverhampton Wanderers,3,0,H,2,0,H
+ENG,04/12/2010,15:00,Birmingham City,Tottenham Hotspur,1,1,D,0,1,A
+ENG,04/12/2010,15:00,Arsenal FC,Fulham FC,2,1,H,1,1,D
+ENG,05/12/2010,13:30,West Bromwich Albion,Newcastle United,3,1,H,1,0,H
+ENG,05/12/2010,16:00,Sunderland AFC,West Ham United,1,0,H,1,0,H
+ENG,06/12/2010,20:00,Liverpool FC,Aston Villa,3,0,H,2,0,H
+ENG,25/01/2011,19:30,Blackpool FC,Manchester United,2,3,A,2,0,H
+ENG,11/12/2010,15:00,Fulham FC,Sunderland AFC,0,0,D,0,0,D
+ENG,11/12/2010,15:00,Stoke City,Blackpool FC,0,1,A,0,0,D
+ENG,11/12/2010,15:00,Aston Villa,West Bromwich Albion,2,1,H,1,0,H
+ENG,11/12/2010,15:00,Everton FC,Wigan Athletic,0,0,D,0,0,D
+ENG,11/12/2010,15:00,West Ham United,Manchester City,1,3,A,0,1,A
+ENG,11/12/2010,17:30,Newcastle United,Liverpool FC,3,1,H,1,0,H
+ENG,12/12/2010,13:30,Wolverhampton Wanderers,Birmingham City,1,0,H,1,0,H
+ENG,12/12/2010,13:30,Bolton Wanderers,Blackburn Rovers,2,1,H,0,0,D
+ENG,12/12/2010,16:00,Tottenham Hotspur,Chelsea FC,1,1,D,1,0,H
+ENG,13/12/2010,20:00,Manchester United,Arsenal FC,1,0,H,1,0,H
+ENG,18/12/2010,12:45,Sunderland AFC,Bolton Wanderers,1,0,H,1,0,H
+ENG,18/12/2010,15:00,Blackburn Rovers,West Ham United,1,1,D,0,0,D
+ENG,20/12/2010,20:00,Manchester City,Everton FC,1,2,A,0,2,A
+ENG,25/01/2011,19:45,Wigan Athletic,Aston Villa,1,2,A,0,0,D
+ENG,26/01/2011,20:00,Liverpool FC,Fulham FC,1,0,H,0,0,D
+ENG,15/02/2011,19:45,Birmingham City,Newcastle United,0,2,A,0,1,A
+ENG,20/02/2011,12:00,West Bromwich Albion,Wolverhampton Wanderers,1,1,D,0,1,A
+ENG,22/02/2011,20:00,Blackpool FC,Tottenham Hotspur,3,1,H,2,0,H
+ENG,23/02/2011,19:45,Arsenal FC,Stoke City,1,0,H,1,0,H
+ENG,01/03/2011,19:45,Chelsea FC,Manchester United,2,1,H,0,1,A
+ENG,26/12/2010,12:00,Fulham FC,West Ham United,1,3,A,1,2,A
+ENG,26/12/2010,15:00,Manchester United,Sunderland AFC,2,0,H,1,0,H
+ENG,26/12/2010,15:00,Newcastle United,Manchester City,1,3,A,0,2,A
+ENG,26/12/2010,15:00,Wolverhampton Wanderers,Wigan Athletic,1,2,A,0,2,A
+ENG,26/12/2010,15:00,Bolton Wanderers,West Bromwich Albion,2,0,H,1,0,H
+ENG,26/12/2010,15:00,Blackburn Rovers,Stoke City,0,2,A,0,0,D
+ENG,26/12/2010,17:30,Aston Villa,Tottenham Hotspur,1,2,A,0,1,A
+ENG,27/12/2010,20:00,Arsenal FC,Chelsea FC,3,1,H,1,0,H
+ENG,12/01/2011,20:00,Blackpool FC,Liverpool FC,2,1,H,1,1,D
+ENG,09/03/2011,20:00,Everton FC,Birmingham City,1,1,D,1,1,D
+ENG,28/12/2010,15:00,Tottenham Hotspur,Newcastle United,2,0,H,0,0,D
+ENG,28/12/2010,15:00,Sunderland AFC,Blackpool FC,0,2,A,0,0,D
+ENG,28/12/2010,15:00,Manchester City,Aston Villa,4,0,H,3,0,H
+ENG,28/12/2010,15:00,West Bromwich Albion,Blackburn Rovers,1,3,A,1,1,D
+ENG,28/12/2010,15:00,Stoke City,Fulham FC,0,2,A,0,2,A
+ENG,28/12/2010,17:30,West Ham United,Everton FC,1,1,D,1,1,D
+ENG,28/12/2010,20:00,Birmingham City,Manchester United,1,1,D,0,0,D
+ENG,29/12/2010,19:45,Chelsea FC,Bolton Wanderers,1,0,H,0,0,D
+ENG,29/12/2010,19:45,Wigan Athletic,Arsenal FC,2,2,D,1,2,A
+ENG,29/12/2010,20:00,Liverpool FC,Wolverhampton Wanderers,0,1,A,0,0,D
+ENG,01/01/2011,12:45,West Bromwich Albion,Manchester United,1,2,A,1,1,D
+ENG,01/01/2011,15:00,Manchester City,Blackpool FC,1,0,H,1,0,H
+ENG,01/01/2011,15:00,Tottenham Hotspur,Fulham FC,1,0,H,1,0,H
+ENG,01/01/2011,15:00,Sunderland AFC,Blackburn Rovers,3,0,H,2,0,H
+ENG,01/01/2011,15:00,West Ham United,Wolverhampton Wanderers,2,0,H,0,0,D
+ENG,01/01/2011,15:00,Stoke City,Everton FC,2,0,H,1,0,H
+ENG,01/01/2011,15:00,Liverpool FC,Bolton Wanderers,2,1,H,0,1,A
+ENG,01/01/2011,17:30,Birmingham City,Arsenal FC,0,3,A,0,1,A
+ENG,02/01/2011,13:30,Chelsea FC,Aston Villa,3,3,D,1,1,D
+ENG,02/01/2011,16:00,Wigan Athletic,Newcastle United,0,1,A,0,1,A
+ENG,04/01/2011,20:00,Blackpool FC,Birmingham City,1,2,A,0,1,A
+ENG,04/01/2011,20:00,Manchester United,Stoke City,2,1,H,1,0,H
+ENG,04/01/2011,20:00,Fulham FC,West Bromwich Albion,3,0,H,1,0,H
+ENG,05/01/2011,19:45,Wolverhampton Wanderers,Chelsea FC,1,0,H,1,0,H
+ENG,05/01/2011,19:45,Arsenal FC,Manchester City,0,0,D,0,0,D
+ENG,05/01/2011,19:45,Newcastle United,West Ham United,5,0,H,3,0,H
+ENG,05/01/2011,19:45,Aston Villa,Sunderland AFC,0,1,A,0,0,D
+ENG,05/01/2011,20:00,Bolton Wanderers,Wigan Athletic,1,1,D,0,0,D
+ENG,05/01/2011,20:00,Blackburn Rovers,Liverpool FC,3,1,H,2,0,H
+ENG,05/01/2011,20:00,Everton FC,Tottenham Hotspur,2,1,H,1,1,D
+ENG,15/01/2011,15:00,Manchester City,Wolverhampton Wanderers,4,3,H,1,1,D
+ENG,15/01/2011,15:00,Stoke City,Bolton Wanderers,2,0,H,1,0,H
+ENG,15/01/2011,15:00,Wigan Athletic,Fulham FC,1,1,D,0,0,D
+ENG,15/01/2011,15:00,Chelsea FC,Blackburn Rovers,2,0,H,0,0,D
+ENG,15/01/2011,15:00,West Bromwich Albion,Blackpool FC,3,2,H,1,1,D
+ENG,15/01/2011,17:30,West Ham United,Arsenal FC,0,3,A,0,2,A
+ENG,16/01/2011,12:00,Birmingham City,Aston Villa,1,1,D,0,0,D
+ENG,16/01/2011,12:00,Sunderland AFC,Newcastle United,1,1,D,0,0,D
+ENG,16/01/2011,14:05,Liverpool FC,Everton FC,2,2,D,1,0,H
+ENG,16/01/2011,16:10,Tottenham Hotspur,Manchester United,0,0,D,0,0,D
+ENG,22/01/2011,12:45,Wolverhampton Wanderers,Liverpool FC,0,3,A,0,1,A
+ENG,22/01/2011,15:00,Blackpool FC,Sunderland AFC,1,2,A,0,2,A
+ENG,22/01/2011,15:00,Arsenal FC,Wigan Athletic,3,0,H,1,0,H
+ENG,22/01/2011,15:00,Manchester United,Birmingham City,5,0,H,3,0,H
+ENG,22/01/2011,15:00,Everton FC,West Ham United,2,2,D,0,1,A
+ENG,22/01/2011,15:00,Newcastle United,Tottenham Hotspur,1,1,D,0,0,D
+ENG,22/01/2011,15:00,Fulham FC,Stoke City,2,0,H,1,0,H
+ENG,22/01/2011,17:30,Aston Villa,Manchester City,1,0,H,1,0,H
+ENG,23/01/2011,16:00,Blackburn Rovers,West Bromwich Albion,2,0,H,1,0,H
+ENG,24/01/2011,20:00,Bolton Wanderers,Chelsea FC,0,4,A,0,2,A
+ENG,01/02/2011,19:45,Sunderland AFC,Chelsea FC,2,4,A,2,2,D
+ENG,01/02/2011,19:45,Arsenal FC,Everton FC,2,1,H,0,1,A
+ENG,01/02/2011,20:00,Manchester United,Aston Villa,3,1,H,2,0,H
+ENG,01/02/2011,20:00,West Bromwich Albion,Wigan Athletic,2,2,D,1,2,A
+ENG,02/02/2011,19:45,Birmingham City,Manchester City,2,2,D,1,2,A
+ENG,02/02/2011,20:00,Blackpool FC,West Ham United,1,3,A,1,3,A
+ENG,02/02/2011,20:00,Bolton Wanderers,Wolverhampton Wanderers,1,0,H,0,0,D
+ENG,02/02/2011,20:00,Blackburn Rovers,Tottenham Hotspur,0,1,A,0,1,A
+ENG,02/02/2011,20:00,Liverpool FC,Stoke City,2,0,H,0,0,D
+ENG,02/02/2011,20:00,Fulham FC,Newcastle United,1,0,H,0,0,D
+ENG,05/02/2011,12:45,Stoke City,Sunderland AFC,3,2,H,1,1,D
+ENG,05/02/2011,15:00,Aston Villa,Fulham FC,2,2,D,1,0,H
+ENG,05/02/2011,15:00,Manchester City,West Bromwich Albion,3,0,H,3,0,H
+ENG,05/02/2011,15:00,Everton FC,Blackpool FC,5,3,H,1,1,D
+ENG,05/02/2011,15:00,Wigan Athletic,Blackburn Rovers,4,3,H,1,1,D
+ENG,05/02/2011,15:00,Newcastle United,Arsenal FC,4,4,D,0,4,A
+ENG,05/02/2011,15:00,Tottenham Hotspur,Bolton Wanderers,2,1,H,1,0,H
+ENG,05/02/2011,17:30,Wolverhampton Wanderers,Manchester United,2,1,H,2,1,H
+ENG,06/02/2011,13:30,West Ham United,Birmingham City,0,1,A,0,0,D
+ENG,06/02/2011,16:00,Chelsea FC,Liverpool FC,0,1,A,0,0,D
+ENG,12/02/2011,12:45,Manchester United,Manchester City,2,1,H,1,0,H
+ENG,12/02/2011,15:00,Blackburn Rovers,Newcastle United,0,0,D,0,0,D
+ENG,12/02/2011,15:00,Liverpool FC,Wigan Athletic,1,1,D,1,0,H
+ENG,12/02/2011,15:00,West Bromwich Albion,West Ham United,3,3,D,3,0,H
+ENG,12/02/2011,15:00,Blackpool FC,Aston Villa,1,1,D,1,1,D
+ENG,12/02/2011,15:00,Birmingham City,Stoke City,1,0,H,0,0,D
+ENG,12/02/2011,15:00,Arsenal FC,Wolverhampton Wanderers,2,0,H,1,0,H
+ENG,12/02/2011,17:30,Sunderland AFC,Tottenham Hotspur,1,2,A,1,1,D
+ENG,13/02/2011,16:00,Bolton Wanderers,Everton FC,2,0,H,1,0,H
+ENG,14/02/2011,20:00,Fulham FC,Chelsea FC,0,0,D,0,0,D
+ENG,26/02/2011,15:00,Aston Villa,Blackburn Rovers,4,1,H,0,0,D
+ENG,26/02/2011,15:00,Everton FC,Sunderland AFC,2,0,H,2,0,H
+ENG,26/02/2011,15:00,Wigan Athletic,Manchester United,0,4,A,0,1,A
+ENG,26/02/2011,15:00,Wolverhampton Wanderers,Blackpool FC,4,0,H,1,0,H
+ENG,26/02/2011,15:00,Newcastle United,Bolton Wanderers,1,1,D,1,1,D
+ENG,27/02/2011,13:30,West Ham United,Liverpool FC,3,1,H,2,0,H
+ENG,27/02/2011,15:00,Manchester City,Fulham FC,1,1,D,1,0,H
+ENG,28/02/2011,20:00,Stoke City,West Bromwich Albion,1,1,D,0,0,D
+ENG,20/04/2011,19:45,Chelsea FC,Birmingham City,3,1,H,2,0,H
+ENG,20/04/2011,19:45,Tottenham Hotspur,Arsenal FC,3,3,D,2,3,A
+ENG,05/03/2011,12:45,Birmingham City,West Bromwich Albion,1,3,A,0,0,D
+ENG,05/03/2011,15:00,Arsenal FC,Sunderland AFC,0,0,D,0,0,D
+ENG,05/03/2011,15:00,Newcastle United,Everton FC,1,2,A,1,2,A
+ENG,05/03/2011,15:00,Fulham FC,Blackburn Rovers,3,2,H,1,1,D
+ENG,05/03/2011,15:00,Bolton Wanderers,Aston Villa,3,2,H,1,1,D
+ENG,05/03/2011,15:00,West Ham United,Stoke City,3,0,H,2,0,H
+ENG,05/03/2011,17:30,Manchester City,Wigan Athletic,1,0,H,1,0,H
+ENG,06/03/2011,13:30,Liverpool FC,Manchester United,3,1,H,2,0,H
+ENG,06/03/2011,16:00,Wolverhampton Wanderers,Tottenham Hotspur,3,3,D,2,2,D
+ENG,07/03/2011,20:00,Blackpool FC,Chelsea FC,1,3,A,0,1,A
+ENG,19/03/2011,12:45,Tottenham Hotspur,West Ham United,0,0,D,0,0,D
+ENG,19/03/2011,15:00,Manchester United,Bolton Wanderers,1,0,H,0,0,D
+ENG,19/03/2011,15:00,Aston Villa,Wolverhampton Wanderers,0,1,A,0,1,A
+ENG,19/03/2011,15:00,Wigan Athletic,Birmingham City,2,1,H,1,1,D
+ENG,19/03/2011,15:00,Stoke City,Newcastle United,4,0,H,1,0,H
+ENG,19/03/2011,15:00,West Bromwich Albion,Arsenal FC,2,2,D,1,0,H
+ENG,19/03/2011,15:00,Blackburn Rovers,Blackpool FC,2,2,D,0,2,A
+ENG,19/03/2011,17:30,Everton FC,Fulham FC,2,1,H,1,0,H
+ENG,20/03/2011,13:30,Sunderland AFC,Liverpool FC,0,2,A,0,1,A
+ENG,20/03/2011,16:00,Chelsea FC,Manchester City,2,0,H,0,0,D
+ENG,02/04/2011,12:45,West Ham United,Manchester United,2,4,A,2,0,H
+ENG,02/04/2011,15:00,Everton FC,Aston Villa,2,2,D,1,0,H
+ENG,02/04/2011,15:00,Stoke City,Chelsea FC,1,1,D,1,1,D
+ENG,02/04/2011,15:00,Newcastle United,Wolverhampton Wanderers,4,1,H,2,0,H
+ENG,02/04/2011,15:00,Wigan Athletic,Tottenham Hotspur,0,0,D,0,0,D
+ENG,02/04/2011,15:00,Birmingham City,Bolton Wanderers,2,1,H,1,0,H
+ENG,02/04/2011,15:00,West Bromwich Albion,Liverpool FC,2,1,H,0,0,D
+ENG,02/04/2011,17:30,Arsenal FC,Blackburn Rovers,0,0,D,0,0,D
+ENG,03/04/2011,13:30,Fulham FC,Blackpool FC,3,0,H,2,0,H
+ENG,03/04/2011,16:00,Manchester City,Sunderland AFC,5,0,H,2,0,H
+ENG,09/04/2011,12:45,Wolverhampton Wanderers,Everton FC,0,3,A,0,3,A
+ENG,09/04/2011,15:00,Sunderland AFC,West Bromwich Albion,2,3,A,2,1,H
+ENG,09/04/2011,15:00,Manchester United,Fulham FC,2,0,H,2,0,H
+ENG,09/04/2011,15:00,Chelsea FC,Wigan Athletic,1,0,H,0,0,D
+ENG,09/04/2011,15:00,Blackburn Rovers,Birmingham City,1,1,D,1,1,D
+ENG,09/04/2011,15:00,Tottenham Hotspur,Stoke City,3,2,H,3,2,H
+ENG,09/04/2011,15:00,Bolton Wanderers,West Ham United,3,0,H,2,0,H
+ENG,10/04/2011,13:30,Blackpool FC,Arsenal FC,1,3,A,0,2,A
+ENG,10/04/2011,16:00,Aston Villa,Newcastle United,1,0,H,1,0,H
+ENG,11/04/2011,20:00,Liverpool FC,Manchester City,3,0,H,3,0,H
+ENG,16/04/2011,15:00,West Ham United,Aston Villa,1,2,A,1,1,D
+ENG,16/04/2011,15:00,Birmingham City,Sunderland AFC,2,0,H,1,0,H
+ENG,16/04/2011,15:00,Blackpool FC,Wigan Athletic,1,3,A,0,2,A
+ENG,16/04/2011,15:00,Everton FC,Blackburn Rovers,2,0,H,0,0,D
+ENG,16/04/2011,15:00,West Bromwich Albion,Chelsea FC,1,3,A,1,3,A
+ENG,17/04/2011,16:00,Arsenal FC,Liverpool FC,1,1,D,0,0,D
+ENG,19/04/2011,19:45,Newcastle United,Manchester United,0,0,D,0,0,D
+ENG,26/04/2011,19:45,Stoke City,Wolverhampton Wanderers,3,0,H,2,0,H
+ENG,27/04/2011,20:00,Fulham FC,Bolton Wanderers,3,0,H,1,0,H
+ENG,10/05/2011,19:45,Manchester City,Tottenham Hotspur,1,0,H,1,0,H
+ENG,23/04/2011,12:45,Manchester United,Everton FC,1,0,H,0,0,D
+ENG,23/04/2011,15:00,Blackpool FC,Newcastle United,1,1,D,1,1,D
+ENG,23/04/2011,15:00,Tottenham Hotspur,West Bromwich Albion,2,2,D,1,1,D
+ENG,23/04/2011,15:00,Liverpool FC,Birmingham City,5,0,H,2,0,H
+ENG,23/04/2011,15:00,Wolverhampton Wanderers,Fulham FC,1,1,D,1,0,H
+ENG,23/04/2011,15:00,Aston Villa,Stoke City,1,1,D,1,1,D
+ENG,23/04/2011,15:00,Sunderland AFC,Wigan Athletic,4,2,H,0,0,D
+ENG,23/04/2011,17:30,Chelsea FC,West Ham United,3,0,H,1,0,H
+ENG,24/04/2011,16:00,Bolton Wanderers,Arsenal FC,2,1,H,1,0,H
+ENG,25/04/2011,20:00,Blackburn Rovers,Manchester City,0,1,A,0,0,D
+ENG,30/04/2011,15:00,Sunderland AFC,Fulham FC,0,3,A,0,1,A
+ENG,30/04/2011,15:00,West Bromwich Albion,Aston Villa,2,1,H,0,1,A
+ENG,30/04/2011,15:00,Blackpool FC,Stoke City,0,0,D,0,0,D
+ENG,30/04/2011,15:00,Wigan Athletic,Everton FC,1,1,D,1,0,H
+ENG,30/04/2011,15:00,Blackburn Rovers,Bolton Wanderers,1,0,H,1,0,H
+ENG,30/04/2011,17:30,Chelsea FC,Tottenham Hotspur,2,1,H,1,1,D
+ENG,01/05/2011,12:00,Liverpool FC,Newcastle United,3,0,H,1,0,H
+ENG,01/05/2011,12:00,Birmingham City,Wolverhampton Wanderers,1,1,D,1,1,D
+ENG,01/05/2011,14:05,Arsenal FC,Manchester United,1,0,H,0,0,D
+ENG,01/05/2011,16:10,Manchester City,West Ham United,2,1,H,2,1,H
+ENG,07/05/2011,15:00,Everton FC,Manchester City,2,1,H,0,1,A
+ENG,07/05/2011,15:00,Bolton Wanderers,Sunderland AFC,1,2,A,0,1,A
+ENG,07/05/2011,15:00,Newcastle United,Birmingham City,2,1,H,2,1,H
+ENG,07/05/2011,15:00,Aston Villa,Wigan Athletic,1,1,D,1,1,D
+ENG,07/05/2011,15:00,West Ham United,Blackburn Rovers,1,1,D,0,1,A
+ENG,07/05/2011,17:30,Tottenham Hotspur,Blackpool FC,1,1,D,0,0,D
+ENG,08/05/2011,12:00,Wolverhampton Wanderers,West Bromwich Albion,3,1,H,2,0,H
+ENG,08/05/2011,14:05,Stoke City,Arsenal FC,3,1,H,2,0,H
+ENG,08/05/2011,16:10,Manchester United,Chelsea FC,2,1,H,2,0,H
+ENG,09/05/2011,20:00,Fulham FC,Liverpool FC,2,5,A,0,3,A
+ENG,14/05/2011,12:45,Blackpool FC,Bolton Wanderers,4,3,H,3,2,H
+ENG,14/05/2011,12:45,Sunderland AFC,Wolverhampton Wanderers,1,3,A,1,1,D
+ENG,14/05/2011,12:45,Blackburn Rovers,Manchester United,1,1,D,1,0,H
+ENG,14/05/2011,12:45,West Bromwich Albion,Everton FC,1,0,H,1,0,H
+ENG,15/05/2011,13:30,Chelsea FC,Newcastle United,2,2,D,1,1,D
+ENG,15/05/2011,16:00,Birmingham City,Fulham FC,0,2,A,0,1,A
+ENG,15/05/2011,16:00,Arsenal FC,Aston Villa,1,2,A,0,2,A
+ENG,15/05/2011,16:00,Liverpool FC,Tottenham Hotspur,0,2,A,0,1,A
+ENG,15/05/2011,16:00,Wigan Athletic,West Ham United,3,2,H,0,2,A
+ENG,17/05/2011,19:45,Manchester City,Stoke City,3,0,H,1,0,H
+ENG,22/05/2011,16:00,West Ham United,Sunderland AFC,0,3,A,0,1,A
+ENG,22/05/2011,16:00,Aston Villa,Liverpool FC,1,0,H,1,0,H
+ENG,22/05/2011,16:00,Wolverhampton Wanderers,Blackburn Rovers,2,3,A,0,3,A
+ENG,22/05/2011,16:00,Tottenham Hotspur,Birmingham City,2,1,H,0,0,D
+ENG,22/05/2011,16:00,Fulham FC,Arsenal FC,2,2,D,1,1,D
+ENG,22/05/2011,16:00,Everton FC,Chelsea FC,1,0,H,0,0,D
+ENG,22/05/2011,16:00,Manchester United,Blackpool FC,4,2,H,1,1,D
+ENG,22/05/2011,16:00,Stoke City,Wigan Athletic,0,1,A,0,0,D
+ENG,22/05/2011,16:00,Bolton Wanderers,Manchester City,0,2,A,0,1,A
+ENG,22/05/2011,16:00,Newcastle United,West Bromwich Albion,3,3,D,2,0,H

@@ -1,0 +1,81 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BLR,01/04/2017,12:00,FK Minsk,Dinamo Brest,2,2,D,0,0,D
+BLR,01/04/2017,12:30,Naftan Novopolotsk,FK Slutsk,0,1,A,0,0,D
+BLR,01/04/2017,13:00,FK Gorodeya,Shakhter Soligorsk,0,1,A,0,0,D
+BLR,01/04/2017,14:00,Torpedo-BelAZ Zhodino,FK Isloch Minsk,2,1,H,0,1,A
+BLR,01/04/2017,15:00,Dnepr Mogilev,Dinamo Minsk,0,3,A,0,1,A
+BLR,01/04/2017,17:30,FK Gomel,BATE Borisov,1,1,D,0,1,A
+BLR,02/04/2017,14:00,Neman Grodno,FK Slaviya Mozyr,0,0,D,0,0,D
+BLR,02/04/2017,17:30,FK Krumkachy Minsk,FK Vitebsk,1,0,H,1,0,H
+BLR,08/04/2017,12:00,FK Isloch Minsk,Neman Grodno,0,1,A,0,0,D
+BLR,08/04/2017,14:00,FK Slaviya Mozyr,FK Gorodeya,1,0,H,0,0,D
+BLR,08/04/2017,16:00,FK Vitebsk,Dnepr Mogilev,0,4,A,0,3,A
+BLR,09/04/2017,13:00,Dinamo Minsk,Naftan Novopolotsk,1,0,H,0,0,D
+BLR,09/04/2017,14:30,Shakhter Soligorsk,FK Gomel,0,0,D,0,0,D
+BLR,09/04/2017,15:00,BATE Borisov,FK Minsk,1,0,H,0,0,D
+BLR,09/04/2017,16:00,FK Krumkachy Minsk,Dinamo Brest,1,1,D,0,0,D
+BLR,10/04/2017,15:30,FK Slutsk,Torpedo-BelAZ Zhodino,4,1,H,1,0,H
+BLR,14/04/2017,15:30,Naftan Novopolotsk,FK Vitebsk,0,0,D,0,0,D
+BLR,14/04/2017,17:00,Dnepr Mogilev,FK Krumkachy Minsk,2,1,H,0,1,A
+BLR,15/04/2017,13:30,Torpedo-BelAZ Zhodino,Dinamo Minsk,1,0,H,0,0,D
+BLR,15/04/2017,14:00,Neman Grodno,FK Slutsk,2,1,H,1,1,D
+BLR,15/04/2017,15:00,FK Minsk,Shakhter Soligorsk,0,1,A,0,1,A
+BLR,15/04/2017,16:00,FK Gomel,FK Slaviya Mozyr,2,0,H,1,0,H
+BLR,15/04/2017,16:30,FK Gorodeya,FK Isloch Minsk,2,0,H,1,0,H
+BLR,15/04/2017,18:00,Dinamo Brest,BATE Borisov,1,1,D,0,0,D
+BLR,21/04/2017,16:30,FK Vitebsk,Torpedo-BelAZ Zhodino,1,1,D,0,0,D
+BLR,21/04/2017,17:30,FK Krumkachy Minsk,BATE Borisov,2,3,A,1,1,D
+BLR,22/04/2017,14:00,Dinamo Minsk,Neman Grodno,1,0,H,1,0,H
+BLR,22/04/2017,15:00,Dnepr Mogilev,Naftan Novopolotsk,4,0,H,3,0,H
+BLR,22/04/2017,16:00,FK Slutsk,FK Gorodeya,1,1,D,0,1,A
+BLR,22/04/2017,17:30,Shakhter Soligorsk,Dinamo Brest,3,0,H,0,0,D
+BLR,23/04/2017,15:00,FK Slaviya Mozyr,FK Minsk,2,2,D,2,1,H
+BLR,23/04/2017,17:00,FK Isloch Minsk,FK Gomel,0,1,A,0,1,A
+BLR,29/04/2017,14:00,Naftan Novopolotsk,FK Krumkachy Minsk,0,3,A,0,0,D
+BLR,29/04/2017,16:00,FK Minsk,FK Isloch Minsk,2,0,H,1,0,H
+BLR,29/04/2017,17:00,Neman Grodno,FK Vitebsk,1,4,A,1,2,A
+BLR,30/04/2017,14:30,Torpedo-BelAZ Zhodino,Dnepr Mogilev,0,0,D,0,0,D
+BLR,30/04/2017,15:30,Dinamo Brest,FK Slaviya Mozyr,3,1,H,2,0,H
+BLR,30/04/2017,16:30,BATE Borisov,Shakhter Soligorsk,1,0,H,0,0,D
+BLR,30/04/2017,17:00,FK Gorodeya,Dinamo Minsk,1,0,H,1,0,H
+BLR,30/04/2017,17:30,FK Gomel,FK Slutsk,0,1,A,0,1,A
+BLR,05/05/2017,16:00,FK Isloch Minsk,Dinamo Brest,3,1,H,1,1,D
+BLR,05/05/2017,17:00,FK Vitebsk,FK Gorodeya,0,0,D,0,0,D
+BLR,06/05/2017,15:00,FK Slaviya Mozyr,BATE Borisov,0,6,A,0,4,A
+BLR,06/05/2017,15:30,FK Slutsk,FK Minsk,2,0,H,1,0,H
+BLR,06/05/2017,16:00,Dinamo Minsk,FK Gomel,1,0,H,0,0,D
+BLR,07/05/2017,13:30,FK Krumkachy Minsk,Shakhter Soligorsk,0,2,A,0,1,A
+BLR,07/05/2017,15:00,Naftan Novopolotsk,Torpedo-BelAZ Zhodino,0,1,A,0,0,D
+BLR,07/05/2017,16:00,Dnepr Mogilev,Neman Grodno,0,3,A,0,1,A
+BLR,10/05/2017,16:30,FK Gomel,FK Vitebsk,0,1,A,0,1,A
+BLR,10/05/2017,17:00,Dinamo Brest,FK Slutsk,0,0,D,0,0,D
+BLR,10/05/2017,17:30,FK Minsk,Dinamo Minsk,0,2,A,0,0,D
+BLR,10/05/2017,18:00,BATE Borisov,FK Isloch Minsk,2,0,H,1,0,H
+BLR,11/05/2017,16:00,Shakhter Soligorsk,FK Slaviya Mozyr,1,0,H,1,0,H
+BLR,11/05/2017,16:30,Torpedo-BelAZ Zhodino,FK Krumkachy Minsk,3,0,H,2,0,H
+BLR,11/05/2017,17:00,Neman Grodno,Naftan Novopolotsk,2,1,H,0,0,D
+BLR,11/05/2017,17:30,FK Gorodeya,Dnepr Mogilev,2,2,D,0,1,A
+BLR,14/05/2017,13:00,Dinamo Minsk,Dinamo Brest,1,0,H,1,0,H
+BLR,14/05/2017,15:00,FK Slutsk,BATE Borisov,1,0,H,0,0,D
+BLR,14/05/2017,17:00,FK Vitebsk,FK Minsk,3,0,H,2,0,H
+BLR,15/05/2017,16:00,Naftan Novopolotsk,FK Gorodeya,1,0,H,1,0,H
+BLR,15/05/2017,16:30,Dnepr Mogilev,FK Gomel,0,4,A,0,3,A
+BLR,15/05/2017,17:00,Torpedo-BelAZ Zhodino,Neman Grodno,1,1,D,1,0,H
+BLR,15/05/2017,17:30,FK Isloch Minsk,Shakhter Soligorsk,1,2,A,1,0,H
+BLR,16/05/2017,17:00,FK Krumkachy Minsk,FK Slaviya Mozyr,1,1,D,0,0,D
+BLR,20/05/2017,14:00,FK Minsk,Dnepr Mogilev,0,0,D,0,0,D
+BLR,20/05/2017,16:00,Shakhter Soligorsk,FK Slutsk,2,1,H,0,0,D
+BLR,20/05/2017,17:00,BATE Borisov,Dinamo Minsk,1,0,H,1,0,H
+BLR,20/05/2017,17:30,FK Gomel,Naftan Novopolotsk,3,1,H,3,1,H
+BLR,20/05/2017,18:00,Dinamo Brest,FK Vitebsk,2,0,H,1,0,H
+BLR,21/05/2017,13:00,Neman Grodno,FK Krumkachy Minsk,2,0,H,2,0,H
+BLR,21/05/2017,15:00,FK Slaviya Mozyr,FK Isloch Minsk,2,3,A,1,2,A
+BLR,21/05/2017,17:00,FK Gorodeya,Torpedo-BelAZ Zhodino,3,2,H,0,2,A
+BLR,24/05/2017,16:15,Dinamo Minsk,Shakhter Soligorsk,2,2,D,1,1,D
+BLR,24/05/2017,17:00,Dnepr Mogilev,Dinamo Brest,1,0,H,0,0,D
+BLR,26/05/2017,16:00,FK Gorodeya,Neman Grodno,1,0,H,0,0,D
+BLR,26/05/2017,17:00,FK Krumkachy Minsk,FK Isloch Minsk,2,0,H,2,0,H
+BLR,26/05/2017,18:00,FK Vitebsk,BATE Borisov,1,0,H,0,0,D
+BLR,27/05/2017,14:00,Naftan Novopolotsk,FK Minsk,0,1,A,0,1,A
+BLR,27/05/2017,15:00,FK Slutsk,FK Slaviya Mozyr,0,0,D,0,0,D
+BLR,27/05/2017,16:00,Torpedo-BelAZ Zhodino,FK Gomel,1,0,H,1,0,H

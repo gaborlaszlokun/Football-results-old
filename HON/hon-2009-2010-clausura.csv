@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+HON,30/01/2010,23:00,Hispano FC,CDS Vida,0,1,A,NaN,NaN,NaN
+HON,31/01/2010,01:00,CD Victoria,CD Motagua,1,0,H,NaN,NaN,NaN
+HON,31/01/2010,01:30,CD Marathón,CD Platense,0,1,A,NaN,NaN,NaN
+HON,31/01/2010,21:00,CD Real Juventud,Real España,2,0,H,NaN,NaN,NaN
+HON,31/01/2010,23:00,CD Olimpia,Deportes Savio,0,0,D,NaN,NaN,NaN
+HON,04/02/2010,00:30,Deportes Savio,CD Victoria,2,0,H,NaN,NaN,NaN
+HON,04/02/2010,00:30,CD Motagua,CD Real Juventud,3,1,H,NaN,NaN,NaN
+HON,04/02/2010,01:30,Real España,CD Platense,3,1,H,NaN,NaN,NaN
+HON,04/02/2010,01:30,Hispano FC,CD Marathón,1,1,D,NaN,NaN,NaN
+HON,04/02/2010,01:30,CDS Vida,CD Olimpia,1,1,D,NaN,NaN,NaN
+HON,07/02/2010,01:00,CD Victoria,Hispano FC,1,2,A,NaN,NaN,NaN
+HON,07/02/2010,01:30,CD Marathón,CD Motagua,3,4,A,NaN,NaN,NaN
+HON,07/02/2010,01:30,CD Platense,CDS Vida,1,1,D,NaN,NaN,NaN
+HON,07/02/2010,21:00,CD Real Juventud,Deportes Savio,3,2,H,NaN,NaN,NaN
+HON,07/02/2010,21:30,CD Olimpia,Real España,2,0,H,NaN,NaN,NaN
+HON,13/02/2010,22:00,CD Victoria,CD Real Juventud,3,2,H,NaN,NaN,NaN
+HON,14/02/2010,01:30,Real España,CDS Vida,1,2,A,NaN,NaN,NaN
+HON,14/02/2010,20:00,Deportes Savio,CD Marathón,0,2,A,NaN,NaN,NaN
+HON,14/02/2010,21:30,Hispano FC,CD Motagua,3,1,H,NaN,NaN,NaN
+HON,14/02/2010,21:30,CD Olimpia,CD Platense,1,1,D,NaN,NaN,NaN
+HON,17/02/2010,21:00,CD Real Juventud,Hispano FC,3,1,H,NaN,NaN,NaN
+HON,18/02/2010,00:30,CD Motagua,Real España,1,0,H,NaN,NaN,NaN
+HON,18/02/2010,01:30,CD Marathón,CD Olimpia,1,1,D,NaN,NaN,NaN
+HON,18/02/2010,01:30,CD Platense,CD Victoria,2,0,H,NaN,NaN,NaN
+HON,18/02/2010,01:30,CDS Vida,Deportes Savio,1,0,H,NaN,NaN,NaN
+HON,21/02/2010,20:00,Deportes Savio,CD Platense,0,0,D,NaN,NaN,NaN
+HON,21/02/2010,21:00,CDS Vida,CD Motagua,0,1,A,NaN,NaN,NaN
+HON,21/02/2010,21:00,CD Real Juventud,CD Marathón,1,1,D,NaN,NaN,NaN
+HON,21/02/2010,21:30,CD Olimpia,CD Victoria,6,0,H,NaN,NaN,NaN
+HON,22/02/2010,00:45,Real España,Hispano FC,1,0,H,NaN,NaN,NaN
+HON,27/02/2010,23:00,Hispano FC,Deportes Savio,1,0,H,NaN,NaN,NaN
+HON,28/02/2010,01:00,CD Victoria,CDS Vida,1,3,A,NaN,NaN,NaN
+HON,28/02/2010,01:30,Real España,CD Marathón,1,1,D,NaN,NaN,NaN
+HON,28/02/2010,01:30,CD Platense,CD Real Juventud,3,1,H,NaN,NaN,NaN
+HON,28/02/2010,22:00,CD Motagua,CD Olimpia,1,0,H,NaN,NaN,NaN
+HON,07/03/2010,01:30,CD Marathón,CD Victoria,2,2,D,NaN,NaN,NaN
+HON,07/03/2010,01:30,CDS Vida,CD Real Juventud,4,1,H,NaN,NaN,NaN
+HON,07/03/2010,20:00,Deportes Savio,Real España,1,2,A,NaN,NaN,NaN
+HON,07/03/2010,21:30,CD Platense,CD Motagua,2,1,H,NaN,NaN,NaN
+HON,07/03/2010,21:30,CD Olimpia,Hispano FC,4,0,H,NaN,NaN,NaN
+HON,10/03/2010,22:00,CD Real Juventud,CD Olimpia,1,2,A,NaN,NaN,NaN
+HON,11/03/2010,01:00,CD Victoria,Real España,2,2,D,NaN,NaN,NaN
+HON,11/03/2010,01:30,Hispano FC,CD Platense,1,1,D,NaN,NaN,NaN
+HON,12/03/2010,00:30,CD Motagua,Deportes Savio,1,1,D,NaN,NaN,NaN
+HON,26/03/2010,02:30,CD Marathón,CDS Vida,0,1,A,NaN,NaN,NaN
+HON,14/03/2010,01:30,CDS Vida,Hispano FC,2,1,H,NaN,NaN,NaN
+HON,14/03/2010,01:30,Real España,CD Real Juventud,2,2,D,NaN,NaN,NaN
+HON,14/03/2010,20:00,Deportes Savio,CD Olimpia,0,1,A,NaN,NaN,NaN
+HON,14/03/2010,21:30,CD Platense,CD Marathón,0,1,A,NaN,NaN,NaN
+HON,14/03/2010,22:00,CD Motagua,CD Victoria,3,0,H,NaN,NaN,NaN
+HON,17/03/2010,22:00,CD Real Juventud,CD Motagua,0,3,A,NaN,NaN,NaN
+HON,18/03/2010,00:30,CD Olimpia,CDS Vida,2,1,H,NaN,NaN,NaN
+HON,18/03/2010,01:00,CD Victoria,Deportes Savio,0,0,D,NaN,NaN,NaN
+HON,18/03/2010,01:30,CD Platense,Real España,3,2,H,NaN,NaN,NaN
+HON,05/04/2010,01:30,CD Marathón,Hispano FC,2,3,A,NaN,NaN,NaN
+HON,21/03/2010,01:30,Real España,CD Olimpia,2,2,D,NaN,NaN,NaN
+HON,21/03/2010,21:00,Hispano FC,CD Victoria,2,0,H,NaN,NaN,NaN
+HON,21/03/2010,21:00,CDS Vida,CD Platense,1,1,D,NaN,NaN,NaN
+HON,21/03/2010,22:00,CD Motagua,CD Marathón,1,0,H,NaN,NaN,NaN
+HON,21/03/2010,22:00,Deportes Savio,CD Real Juventud,0,2,A,NaN,NaN,NaN
+HON,28/03/2010,22:00,CD Real Juventud,CD Victoria,1,1,D,NaN,NaN,NaN
+HON,28/03/2010,22:00,CDS Vida,Real España,1,2,A,NaN,NaN,NaN
+HON,28/03/2010,22:30,CD Platense,CD Olimpia,0,0,D,NaN,NaN,NaN
+HON,28/03/2010,23:00,CD Motagua,Hispano FC,1,0,H,NaN,NaN,NaN
+HON,29/03/2010,01:00,CD Marathón,Deportes Savio,3,0,H,NaN,NaN,NaN
+HON,01/04/2010,01:00,Hispano FC,CD Real Juventud,1,0,H,NaN,NaN,NaN
+HON,01/04/2010,01:30,Deportes Savio,CDS Vida,1,0,H,NaN,NaN,NaN
+HON,01/04/2010,02:00,CD Olimpia,CD Marathón,2,0,H,NaN,NaN,NaN
+HON,01/04/2010,02:30,Real España,CD Motagua,2,1,H,NaN,NaN,NaN
+HON,01/04/2010,02:30,CD Victoria,CD Platense,1,3,A,NaN,NaN,NaN
+HON,08/04/2010,02:00,CD Platense,Deportes Savio,3,0,H,NaN,NaN,NaN
+HON,08/04/2010,02:00,CD Victoria,CD Olimpia,1,2,A,NaN,NaN,NaN
+HON,08/04/2010,02:30,Hispano FC,Real España,2,1,H,NaN,NaN,NaN
+HON,08/04/2010,02:30,CD Motagua,CDS Vida,3,2,H,NaN,NaN,NaN
+HON,08/04/2010,02:30,CD Marathón,CD Real Juventud,2,1,H,NaN,NaN,NaN
+HON,11/04/2010,02:30,CD Marathón,Real España,1,2,A,NaN,NaN,NaN
+HON,11/04/2010,21:00,Deportes Savio,Hispano FC,2,1,H,NaN,NaN,NaN
+HON,11/04/2010,22:00,CD Real Juventud,CD Platense,2,0,H,NaN,NaN,NaN
+HON,11/04/2010,22:30,CD Olimpia,CD Motagua,0,0,D,NaN,NaN,NaN
+HON,12/04/2010,00:00,CDS Vida,CD Victoria,2,0,H,NaN,NaN,NaN
+HON,15/04/2010,02:30,CD Victoria,CD Marathón,1,1,D,NaN,NaN,NaN
+HON,15/04/2010,02:30,Real España,Deportes Savio,3,4,A,NaN,NaN,NaN
+HON,15/04/2010,02:30,CD Motagua,CD Platense,3,0,H,NaN,NaN,NaN
+HON,15/04/2010,02:30,Hispano FC,CD Olimpia,2,0,H,NaN,NaN,NaN
+HON,16/04/2010,02:30,CD Real Juventud,CDS Vida,2,0,H,NaN,NaN,NaN
+HON,18/04/2010,02:30,CD Olimpia,CD Real Juventud,0,0,D,NaN,NaN,NaN
+HON,18/04/2010,02:30,Real España,CD Victoria,2,1,H,NaN,NaN,NaN
+HON,18/04/2010,02:30,CD Platense,Hispano FC,1,1,D,NaN,NaN,NaN
+HON,18/04/2010,02:30,CDS Vida,CD Marathón,2,2,D,NaN,NaN,NaN
+HON,18/04/2010,02:30,Deportes Savio,CD Motagua,0,0,D,NaN,NaN,NaN

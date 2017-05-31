@@ -1,0 +1,73 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NZL,01/11/2014,01:00,Waitakere United,Wanderers SC,3,2,H,2,2,D
+NZL,01/11/2014,01:00,Canterbury United,WaiBOP United,2,0,H,1,0,H
+NZL,02/11/2014,01:00,Auckland City FC,Hawke’s Bay United FC,3,2,H,2,1,H
+NZL,02/11/2014,02:00,Team Wellington,Wellington Phoenix (R),2,1,H,1,1,D
+NZL,08/11/2014,01:00,Canterbury United,Southern United,0,1,A,0,1,A
+NZL,09/11/2014,01:00,Hawke’s Bay United FC,Team Wellington,2,2,D,1,1,D
+NZL,09/11/2014,02:00,Wellington Phoenix (R),Wanderers SC,3,0,H,2,0,H
+NZL,18/02/2015,05:00,WaiBOP United,Auckland City FC,0,2,A,0,1,A
+NZL,15/11/2014,00:00,Southern United,Waitakere United,2,1,H,1,0,H
+NZL,16/11/2014,02:00,Team Wellington,WaiBOP United,3,2,H,1,2,A
+NZL,16/11/2014,02:00,Wanderers SC,Hawke’s Bay United FC,1,2,A,1,2,A
+NZL,22/02/2015,01:00,Auckland City FC,Canterbury United,3,1,H,1,1,D
+NZL,25/10/2014,01:00,Southern United,Auckland City FC,0,3,A,0,2,A
+NZL,22/11/2014,02:00,WaiBOP United,Wanderers SC,0,3,A,NaN,NaN,NaN
+NZL,23/11/2014,02:00,Wellington Phoenix (R),Waitakere United,1,2,A,1,0,H
+NZL,23/11/2014,02:30,Canterbury United,Team Wellington,2,2,D,1,0,H
+NZL,29/11/2014,01:00,Waitakere United,Hawke’s Bay United FC,1,1,D,1,1,D
+NZL,29/11/2014,02:00,Team Wellington,Auckland City FC,4,0,H,1,0,H
+NZL,30/11/2014,01:00,Southern United,Wellington Phoenix (R),3,4,A,2,2,D
+NZL,30/11/2014,02:00,Wanderers SC,Canterbury United,3,1,H,1,1,D
+NZL,12/11/2014,05:00,Auckland City FC,Wanderers SC,3,0,H,2,0,H
+NZL,06/12/2014,02:00,WaiBOP United,Waitakere United,1,1,D,0,1,A
+NZL,07/12/2014,01:00,Hawke’s Bay United FC,Wellington Phoenix (R),2,5,A,1,3,A
+NZL,07/12/2014,02:00,Team Wellington,Southern United,2,0,H,2,0,H
+NZL,13/12/2014,01:00,Waitakere United,Canterbury United,0,2,A,0,1,A
+NZL,13/12/2014,01:00,Wellington Phoenix (R),WaiBOP United,0,2,A,0,2,A
+NZL,14/12/2014,01:00,Hawke’s Bay United FC,Southern United,3,1,H,2,1,H
+NZL,14/12/2014,02:00,Wanderers SC,Team Wellington,1,4,A,1,1,D
+NZL,08/11/2014,00:00,Waitakere United,Auckland City FC,0,1,A,0,0,D
+NZL,20/12/2014,01:00,Canterbury United,Wellington Phoenix (R),2,0,H,2,0,H
+NZL,20/12/2014,03:00,WaiBOP United,Hawke’s Bay United FC,2,4,A,1,2,A
+NZL,21/12/2014,01:00,Wanderers SC,Southern United,3,3,D,2,1,H
+NZL,10/01/2015,01:00,Canterbury United,Hawke’s Bay United FC,1,1,D,0,0,D
+NZL,11/01/2015,01:00,Auckland City FC,Wellington Phoenix (R),1,3,A,1,3,A
+NZL,11/01/2015,01:00,Southern United,WaiBOP United,0,1,A,0,1,A
+NZL,11/01/2015,02:00,Team Wellington,Waitakere United,1,2,A,1,0,H
+NZL,17/01/2015,02:00,WaiBOP United,Canterbury United,4,3,H,0,1,A
+NZL,17/01/2015,02:00,Wanderers SC,Waitakere United,2,0,H,1,0,H
+NZL,17/01/2015,04:00,Wellington Phoenix (R),Team Wellington,3,4,A,2,1,H
+NZL,18/01/2015,01:00,Hawke’s Bay United FC,Auckland City FC,0,3,A,0,0,D
+NZL,25/01/2015,00:00,Wanderers SC,Wellington Phoenix (R),2,1,H,1,0,H
+NZL,25/01/2015,01:00,Auckland City FC,WaiBOP United,3,2,H,2,1,H
+NZL,25/01/2015,01:00,Southern United,Canterbury United,1,3,A,0,1,A
+NZL,25/01/2015,02:00,Team Wellington,Hawke’s Bay United FC,1,0,H,0,0,D
+NZL,31/01/2015,01:00,Canterbury United,Auckland City FC,0,1,A,0,0,D
+NZL,31/01/2015,02:00,WaiBOP United,Team Wellington,2,1,H,2,1,H
+NZL,01/02/2015,00:00,Waitakere United,Southern United,3,1,H,2,0,H
+NZL,01/02/2015,01:00,Hawke’s Bay United FC,Wanderers SC,3,1,H,2,0,H
+NZL,08/02/2015,01:00,Auckland City FC,Southern United,4,2,H,2,1,H
+NZL,08/02/2015,01:00,Waitakere United,Wellington Phoenix (R),6,3,H,3,1,H
+NZL,08/02/2015,02:00,Wanderers SC,WaiBOP United,1,2,A,0,0,D
+NZL,08/02/2015,02:00,Team Wellington,Canterbury United,3,0,H,1,0,H
+NZL,14/02/2015,01:00,Wellington Phoenix (R),Southern United,6,2,H,0,2,A
+NZL,15/02/2015,01:00,Hawke’s Bay United FC,Waitakere United,3,2,H,1,1,D
+NZL,15/02/2015,01:00,Canterbury United,Wanderers SC,1,4,A,0,1,A
+NZL,15/02/2015,01:00,Auckland City FC,Team Wellington,3,0,H,2,0,H
+NZL,14/01/2015,05:00,Wanderers SC,Auckland City FC,0,1,A,0,0,D
+NZL,21/02/2015,01:00,Wellington Phoenix (R),Hawke’s Bay United FC,2,4,A,1,0,H
+NZL,21/02/2015,01:00,Waitakere United,WaiBOP United,2,1,H,1,1,D
+NZL,22/02/2015,01:00,Southern United,Team Wellington,1,2,A,1,1,D
+NZL,28/02/2015,01:00,Canterbury United,Waitakere United,1,2,A,0,0,D
+NZL,28/02/2015,02:00,WaiBOP United,Wellington Phoenix (R),2,3,A,2,1,H
+NZL,01/03/2015,00:00,Southern United,Hawke’s Bay United FC,1,2,A,1,1,D
+NZL,01/03/2015,02:00,Team Wellington,Wanderers SC,1,1,D,1,1,D
+NZL,07/03/2015,01:00,Wellington Phoenix (R),Canterbury United,2,1,H,0,0,D
+NZL,08/03/2015,01:00,Southern United,Wanderers SC,1,0,H,0,0,D
+NZL,08/03/2015,01:00,Auckland City FC,Waitakere United,1,0,H,1,0,H
+NZL,08/03/2015,02:00,Hawke’s Bay United FC,WaiBOP United,0,1,A,0,0,D
+NZL,14/03/2015,01:00,Wellington Phoenix (R),Auckland City FC,0,7,A,0,4,A
+NZL,14/03/2015,01:00,Waitakere United,Team Wellington,4,0,H,3,0,H
+NZL,14/03/2015,04:00,WaiBOP United,Southern United,2,1,H,0,1,A
+NZL,15/03/2015,01:00,Hawke’s Bay United FC,Canterbury United,5,2,H,3,2,H

@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,10/09/1993,,Independiente,Vélez Sársfield,1,1,D,NaN,NaN,NaN
+ARG,11/09/1993,,GyE La Plata,Huracán,0,0,D,NaN,NaN,NaN
+ARG,12/09/1993,,San Lorenzo,Racing Club,1,1,D,NaN,NaN,NaN
+ARG,12/09/1993,,Rosario Central,Belgrano Córdoba,1,1,D,NaN,NaN,NaN
+ARG,12/09/1993,,Platense,Ferro Carril Oeste,0,0,D,NaN,NaN,NaN
+ARG,12/09/1993,,Deportivo Español,CA Lanús,0,0,D,NaN,NaN,NaN
+ARG,12/09/1993,,Deportivo Mandiyú,Newell's Old Boys,3,1,H,NaN,NaN,NaN
+ARG,12/09/1993,,Boca Juniors,Estudiantes,0,0,D,NaN,NaN,NaN
+ARG,12/09/1993,,CA Banfield,River Plate,0,0,D,NaN,NaN,NaN
+ARG,12/09/1993,,Argentinos Juniors,GyT Salta,0,0,D,NaN,NaN,NaN
+ARG,17/09/1993,,Racing Club,Deportivo Español,1,0,H,NaN,NaN,NaN
+ARG,18/09/1993,,Estudiantes,San Lorenzo,0,1,A,NaN,NaN,NaN
+ARG,19/09/1993,,Vélez Sársfield,GyE La Plata,1,0,H,NaN,NaN,NaN
+ARG,19/09/1993,,River Plate,Independiente,2,2,D,NaN,NaN,NaN
+ARG,19/09/1993,,Newell's Old Boys,Rosario Central,1,1,D,NaN,NaN,NaN
+ARG,19/09/1993,,CA Lanús,Platense,1,1,D,NaN,NaN,NaN
+ARG,19/09/1993,,Huracán,Boca Juniors,2,0,H,NaN,NaN,NaN
+ARG,19/09/1993,,GyT Salta,CA Banfield,1,2,A,NaN,NaN,NaN
+ARG,19/09/1993,,Ferro Carril Oeste,Deportivo Mandiyú,1,1,D,NaN,NaN,NaN
+ARG,19/09/1993,,Belgrano Córdoba,Argentinos Juniors,2,0,H,NaN,NaN,NaN
+ARG,24/09/1993,,Independiente,GyT Salta,4,0,H,NaN,NaN,NaN
+ARG,25/09/1993,,GyE La Plata,River Plate,1,0,H,NaN,NaN,NaN
+ARG,25/09/1993,,Argentinos Juniors,Newell's Old Boys,0,0,D,NaN,NaN,NaN
+ARG,26/09/1993,,Rosario Central,Ferro Carril Oeste,0,1,A,NaN,NaN,NaN
+ARG,26/09/1993,,Platense,Racing Club,0,3,A,NaN,NaN,NaN
+ARG,26/09/1993,,Huracán,Vélez Sársfield,0,1,A,NaN,NaN,NaN
+ARG,26/09/1993,,Deportivo Español,Estudiantes,0,0,D,NaN,NaN,NaN
+ARG,26/09/1993,,Deportivo Mandiyú,CA Lanús,1,2,A,NaN,NaN,NaN
+ARG,26/09/1993,,Boca Juniors,San Lorenzo,1,0,H,NaN,NaN,NaN
+ARG,26/09/1993,,CA Banfield,Belgrano Córdoba,0,0,D,NaN,NaN,NaN
+ARG,29/09/1993,,Vélez Sársfield,Boca Juniors,1,0,H,NaN,NaN,NaN
+ARG,29/09/1993,,River Plate,Huracán,2,1,H,NaN,NaN,NaN
+ARG,29/09/1993,,Racing Club,Deportivo Mandiyú,1,0,H,NaN,NaN,NaN
+ARG,29/09/1993,,Newell's Old Boys,CA Banfield,1,1,D,NaN,NaN,NaN
+ARG,29/09/1993,,CA Lanús,Rosario Central,3,0,H,NaN,NaN,NaN
+ARG,29/09/1993,,Belgrano Córdoba,Independiente,1,1,D,NaN,NaN,NaN
+ARG,30/09/1993,,Estudiantes,Platense,3,0,H,NaN,NaN,NaN
+ARG,01/10/1993,,GyT Salta,GyE La Plata,0,0,D,NaN,NaN,NaN
+ARG,04/10/1993,,San Lorenzo,Deportivo Español,1,2,A,NaN,NaN,NaN
+ARG,04/10/1993,,Ferro Carril Oeste,Argentinos Juniors,1,0,H,NaN,NaN,NaN
+ARG,08/10/1993,,Boca Juniors,Deportivo Español,2,0,H,NaN,NaN,NaN
+ARG,09/10/1993,,Rosario Central,Racing Club,0,0,D,NaN,NaN,NaN
+ARG,09/10/1993,,Argentinos Juniors,CA Lanús,1,1,D,NaN,NaN,NaN
+ARG,10/10/1993,,Vélez Sársfield,River Plate,0,1,A,NaN,NaN,NaN
+ARG,10/10/1993,,Platense,San Lorenzo,2,2,D,NaN,NaN,NaN
+ARG,10/10/1993,,Independiente,Newell's Old Boys,3,1,H,NaN,NaN,NaN
+ARG,10/10/1993,,Huracán,GyT Salta,0,1,A,NaN,NaN,NaN
+ARG,10/10/1993,,GyE La Plata,Belgrano Córdoba,3,0,H,NaN,NaN,NaN
+ARG,10/10/1993,,Deportivo Mandiyú,Estudiantes,3,1,H,NaN,NaN,NaN
+ARG,10/10/1993,,CA Banfield,Ferro Carril Oeste,0,1,A,NaN,NaN,NaN
+ARG,15/10/1993,,San Lorenzo,Deportivo Mandiyú,1,0,H,NaN,NaN,NaN
+ARG,16/10/1993,,Belgrano Córdoba,Huracán,1,0,H,NaN,NaN,NaN
+ARG,17/10/1993,,River Plate,Boca Juniors,0,1,A,NaN,NaN,NaN
+ARG,17/10/1993,,Racing Club,Argentinos Juniors,0,2,A,NaN,NaN,NaN
+ARG,17/10/1993,,CA Lanús,CA Banfield,0,0,D,NaN,NaN,NaN
+ARG,17/10/1993,,GyT Salta,Vélez Sársfield,2,0,H,NaN,NaN,NaN
+ARG,17/10/1993,,Ferro Carril Oeste,Independiente,0,1,A,NaN,NaN,NaN
+ARG,17/10/1993,,Estudiantes,Rosario Central,1,2,A,NaN,NaN,NaN
+ARG,17/10/1993,,Deportivo Español,Platense,0,1,A,NaN,NaN,NaN
+ARG,24/11/1993,,Newell's Old Boys,GyE La Plata,0,0,D,NaN,NaN,NaN
+ARG,23/10/1993,,Rosario Central,San Lorenzo,2,0,H,NaN,NaN,NaN
+ARG,24/10/1993,,Vélez Sársfield,Belgrano Córdoba,3,0,H,NaN,NaN,NaN
+ARG,24/10/1993,,River Plate,GyT Salta,1,0,H,NaN,NaN,NaN
+ARG,24/10/1993,,Independiente,CA Lanús,1,2,A,NaN,NaN,NaN
+ARG,24/10/1993,,GyE La Plata,Ferro Carril Oeste,0,2,A,NaN,NaN,NaN
+ARG,24/10/1993,,Deportivo Mandiyú,Deportivo Español,0,1,A,NaN,NaN,NaN
+ARG,24/10/1993,,CA Banfield,Racing Club,2,1,H,NaN,NaN,NaN
+ARG,24/10/1993,,Argentinos Juniors,Estudiantes,0,0,D,NaN,NaN,NaN
+ARG,25/10/1993,,Platense,Boca Juniors,0,0,D,NaN,NaN,NaN
+ARG,02/12/1993,,Huracán,Newell's Old Boys,1,1,D,NaN,NaN,NaN
+ARG,30/10/1993,,Newell's Old Boys,Vélez Sársfield,1,2,A,NaN,NaN,NaN
+ARG,31/10/1993,,San Lorenzo,Argentinos Juniors,5,3,H,NaN,NaN,NaN
+ARG,31/10/1993,,Racing Club,Independiente,1,0,H,NaN,NaN,NaN
+ARG,31/10/1993,,Platense,Deportivo Mandiyú,1,1,D,NaN,NaN,NaN
+ARG,31/10/1993,,CA Lanús,GyE La Plata,3,1,H,NaN,NaN,NaN
+ARG,31/10/1993,,Ferro Carril Oeste,Huracán,1,1,D,NaN,NaN,NaN
+ARG,31/10/1993,,Estudiantes,CA Banfield,0,2,A,NaN,NaN,NaN
+ARG,31/10/1993,,Deportivo Español,Rosario Central,1,1,D,NaN,NaN,NaN
+ARG,31/10/1993,,Boca Juniors,GyT Salta,2,0,H,NaN,NaN,NaN
+ARG,31/10/1993,,Belgrano Córdoba,River Plate,1,5,A,NaN,NaN,NaN
+ARG,05/11/1993,,CA Banfield,San Lorenzo,0,1,A,NaN,NaN,NaN
+ARG,06/11/1993,,Rosario Central,Platense,0,2,A,NaN,NaN,NaN
+ARG,07/11/1993,,Vélez Sársfield,Ferro Carril Oeste,2,0,H,NaN,NaN,NaN
+ARG,07/11/1993,,River Plate,Newell's Old Boys,4,1,H,NaN,NaN,NaN
+ARG,07/11/1993,,Independiente,Estudiantes,2,0,H,NaN,NaN,NaN
+ARG,07/11/1993,,Huracán,CA Lanús,1,1,D,NaN,NaN,NaN
+ARG,07/11/1993,,GyT Salta,Belgrano Córdoba,3,1,H,NaN,NaN,NaN
+ARG,07/11/1993,,GyE La Plata,Racing Club,0,0,D,NaN,NaN,NaN
+ARG,07/11/1993,,Deportivo Mandiyú,Boca Juniors,2,0,H,NaN,NaN,NaN
+ARG,07/11/1993,,Argentinos Juniors,Deportivo Español,6,0,H,NaN,NaN,NaN
+ARG,12/11/1993,,Racing Club,Huracán,2,2,D,NaN,NaN,NaN
+ARG,13/11/1993,,Newell's Old Boys,GyT Salta,2,0,H,NaN,NaN,NaN
+ARG,14/11/1993,,San Lorenzo,Independiente,3,1,H,NaN,NaN,NaN
+ARG,14/11/1993,,Platense,Argentinos Juniors,0,0,D,NaN,NaN,NaN
+ARG,14/11/1993,,CA Lanús,Vélez Sársfield,1,1,D,NaN,NaN,NaN
+ARG,14/11/1993,,Ferro Carril Oeste,River Plate,0,2,A,NaN,NaN,NaN
+ARG,14/11/1993,,Estudiantes,GyE La Plata,0,2,A,NaN,NaN,NaN
+ARG,14/11/1993,,Deportivo Español,CA Banfield,0,2,A,NaN,NaN,NaN
+ARG,14/11/1993,,Deportivo Mandiyú,Rosario Central,3,3,D,NaN,NaN,NaN
+ARG,14/11/1993,,Boca Juniors,Belgrano Córdoba,0,1,A,NaN,NaN,NaN
+ARG,19/11/1993,,River Plate,CA Lanús,2,0,H,NaN,NaN,NaN
+ARG,20/11/1993,,Rosario Central,Boca Juniors,1,1,D,NaN,NaN,NaN
+ARG,20/11/1993,,Argentinos Juniors,Deportivo Mandiyú,0,0,D,NaN,NaN,NaN
+ARG,21/11/1993,,Vélez Sársfield,Racing Club,0,2,A,NaN,NaN,NaN
+ARG,21/11/1993,,Independiente,Deportivo Español,0,0,D,NaN,NaN,NaN
+ARG,21/11/1993,,Huracán,Estudiantes,3,1,H,NaN,NaN,NaN
+ARG,21/11/1993,,GyT Salta,Ferro Carril Oeste,2,2,D,NaN,NaN,NaN
+ARG,21/11/1993,,GyE La Plata,San Lorenzo,1,1,D,NaN,NaN,NaN
+ARG,21/11/1993,,Belgrano Córdoba,Newell's Old Boys,1,0,H,NaN,NaN,NaN
+ARG,21/11/1993,,CA Banfield,Platense,1,1,D,NaN,NaN,NaN
+ARG,27/11/1993,,Rosario Central,Argentinos Juniors,1,1,D,NaN,NaN,NaN
+ARG,27/11/1993,,Estudiantes,Vélez Sársfield,0,0,D,NaN,NaN,NaN
+ARG,28/11/1993,,San Lorenzo,Huracán,1,0,H,NaN,NaN,NaN
+ARG,28/11/1993,,Racing Club,River Plate,1,0,H,NaN,NaN,NaN
+ARG,28/11/1993,,Platense,Independiente,0,1,A,NaN,NaN,NaN
+ARG,28/11/1993,,CA Lanús,GyT Salta,4,1,H,NaN,NaN,NaN
+ARG,28/11/1993,,Ferro Carril Oeste,Belgrano Córdoba,1,1,D,NaN,NaN,NaN
+ARG,28/11/1993,,Deportivo Español,GyE La Plata,1,1,D,NaN,NaN,NaN
+ARG,28/11/1993,,Deportivo Mandiyú,CA Banfield,3,0,H,NaN,NaN,NaN
+ARG,28/11/1993,,Boca Juniors,Newell's Old Boys,2,0,H,NaN,NaN,NaN
+ARG,03/12/1993,,Independiente,Deportivo Mandiyú,2,1,H,NaN,NaN,NaN
+ARG,04/12/1993,,Argentinos Juniors,Boca Juniors,1,1,D,NaN,NaN,NaN
+ARG,05/12/1993,,Vélez Sársfield,San Lorenzo,1,0,H,NaN,NaN,NaN
+ARG,05/12/1993,,River Plate,Estudiantes,0,2,A,NaN,NaN,NaN
+ARG,05/12/1993,,Newell's Old Boys,Ferro Carril Oeste,2,2,D,NaN,NaN,NaN
+ARG,05/12/1993,,Huracán,Deportivo Español,2,0,H,NaN,NaN,NaN
+ARG,05/12/1993,,GyE La Plata,Platense,3,0,H,NaN,NaN,NaN
+ARG,05/12/1993,,Belgrano Córdoba,CA Lanús,1,1,D,NaN,NaN,NaN
+ARG,05/12/1993,,CA Banfield,Rosario Central,4,1,H,NaN,NaN,NaN
+ARG,07/12/1993,,GyT Salta,Racing Club,2,2,D,NaN,NaN,NaN
+ARG,11/12/1993,,Rosario Central,Independiente,1,1,D,NaN,NaN,NaN
+ARG,11/12/1993,,Argentinos Juniors,CA Banfield,2,1,H,NaN,NaN,NaN
+ARG,12/12/1993,,San Lorenzo,River Plate,1,1,D,NaN,NaN,NaN
+ARG,12/12/1993,,Racing Club,Belgrano Córdoba,2,0,H,NaN,NaN,NaN
+ARG,12/12/1993,,Platense,Huracán,5,0,H,NaN,NaN,NaN
+ARG,12/12/1993,,CA Lanús,Newell's Old Boys,1,1,D,NaN,NaN,NaN
+ARG,12/12/1993,,Estudiantes,GyT Salta,0,0,D,NaN,NaN,NaN
+ARG,12/12/1993,,Deportivo Español,Vélez Sársfield,0,0,D,NaN,NaN,NaN
+ARG,12/12/1993,,Deportivo Mandiyú,GyE La Plata,1,1,D,NaN,NaN,NaN
+ARG,12/12/1993,,Boca Juniors,Ferro Carril Oeste,3,0,H,NaN,NaN,NaN
+ARG,17/12/1993,,CA Banfield,Boca Juniors,1,0,H,NaN,NaN,NaN
+ARG,18/12/1993,,Newell's Old Boys,Racing Club,1,0,H,NaN,NaN,NaN
+ARG,18/12/1993,,GyE La Plata,Rosario Central,2,0,H,NaN,NaN,NaN
+ARG,19/12/1993,,Vélez Sársfield,Platense,2,2,D,NaN,NaN,NaN
+ARG,19/12/1993,,River Plate,Deportivo Español,1,0,H,NaN,NaN,NaN
+ARG,19/12/1993,,Independiente,Argentinos Juniors,1,2,A,NaN,NaN,NaN
+ARG,19/12/1993,,Huracán,Deportivo Mandiyú,3,1,H,NaN,NaN,NaN
+ARG,19/12/1993,,GyT Salta,San Lorenzo,1,3,A,NaN,NaN,NaN
+ARG,19/12/1993,,Ferro Carril Oeste,CA Lanús,0,0,D,NaN,NaN,NaN
+ARG,19/12/1993,,Belgrano Córdoba,Estudiantes,3,3,D,NaN,NaN,NaN
+ARG,26/02/1993,,Rosario Central,Huracán,0,0,D,NaN,NaN,NaN
+ARG,26/02/1993,,Deportivo Mandiyú,Vélez Sársfield,1,0,H,NaN,NaN,NaN
+ARG,27/02/1993,,Platense,River Plate,2,2,D,NaN,NaN,NaN
+ARG,27/02/1993,,Estudiantes,Newell's Old Boys,1,1,D,NaN,NaN,NaN
+ARG,27/02/1993,,Deportivo Español,GyT Salta,1,0,H,NaN,NaN,NaN
+ARG,27/02/1993,,Boca Juniors,CA Lanús,3,0,H,NaN,NaN,NaN
+ARG,27/02/1993,,CA Banfield,Independiente,0,0,D,NaN,NaN,NaN
+ARG,01/03/1993,,San Lorenzo,Belgrano Córdoba,1,0,H,NaN,NaN,NaN
+ARG,09/03/1993,,Argentinos Juniors,GyE La Plata,2,2,D,NaN,NaN,NaN
+ARG,25/02/1994,,Racing Club,Ferro Carril Oeste,2,2,D,NaN,NaN,NaN
+ARG,04/03/1993,,River Plate,Deportivo Mandiyú,5,3,H,NaN,NaN,NaN
+ARG,04/03/1993,,GyT Salta,Platense,2,1,H,NaN,NaN,NaN
+ARG,05/03/1993,,Newell's Old Boys,San Lorenzo,1,0,H,NaN,NaN,NaN
+ARG,06/03/1993,,Vélez Sársfield,Rosario Central,1,1,D,NaN,NaN,NaN
+ARG,06/03/1993,,CA Lanús,Racing Club,1,1,D,NaN,NaN,NaN
+ARG,06/03/1993,,Independiente,Boca Juniors,2,2,D,NaN,NaN,NaN
+ARG,06/03/1993,,Huracán,Argentinos Juniors,2,1,H,NaN,NaN,NaN
+ARG,06/03/1993,,GyE La Plata,CA Banfield,1,0,H,NaN,NaN,NaN
+ARG,06/03/1993,,Ferro Carril Oeste,Estudiantes,1,1,D,NaN,NaN,NaN
+ARG,06/03/1993,,Belgrano Córdoba,Deportivo Español,1,1,D,NaN,NaN,NaN
+ARG,11/03/1993,,San Lorenzo,Ferro Carril Oeste,1,1,D,NaN,NaN,NaN
+ARG,12/03/1993,,Argentinos Juniors,Vélez Sársfield,1,2,A,NaN,NaN,NaN
+ARG,13/03/1993,,Rosario Central,River Plate,0,0,D,NaN,NaN,NaN
+ARG,13/03/1993,,Platense,Belgrano Córdoba,4,2,H,NaN,NaN,NaN
+ARG,13/03/1993,,Independiente,GyE La Plata,3,2,H,NaN,NaN,NaN
+ARG,13/03/1993,,Estudiantes,CA Lanús,2,0,H,NaN,NaN,NaN
+ARG,13/03/1993,,Deportivo Español,Newell's Old Boys,0,0,D,NaN,NaN,NaN
+ARG,13/03/1993,,Deportivo Mandiyú,GyT Salta,0,0,D,NaN,NaN,NaN
+ARG,13/03/1993,,Boca Juniors,Racing Club,6,0,H,NaN,NaN,NaN
+ARG,13/03/1993,,CA Banfield,Huracán,3,3,D,NaN,NaN,NaN
+ARG,18/03/1993,,Huracán,Independiente,1,1,D,NaN,NaN,NaN
+ARG,18/03/1993,,GyT Salta,Rosario Central,1,0,H,NaN,NaN,NaN
+ARG,18/03/1993,,Boca Juniors,GyE La Plata,1,1,D,NaN,NaN,NaN
+ARG,19/03/1993,,Vélez Sársfield,CA Banfield,1,1,D,NaN,NaN,NaN
+ARG,19/03/1993,,River Plate,Argentinos Juniors,1,1,D,NaN,NaN,NaN
+ARG,19/03/1993,,Racing Club,Estudiantes,3,1,H,NaN,NaN,NaN
+ARG,19/03/1993,,Newell's Old Boys,Platense,1,0,H,NaN,NaN,NaN
+ARG,19/03/1993,,CA Lanús,San Lorenzo,2,0,H,NaN,NaN,NaN
+ARG,19/03/1993,,Ferro Carril Oeste,Deportivo Español,1,1,D,NaN,NaN,NaN
+ARG,19/03/1993,,Belgrano Córdoba,Deportivo Mandiyú,1,1,D,NaN,NaN,NaN

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,16/08/2002,19:00,RBC Roosendaal,FC Zwolle,1,1,D,1,0,H
+NED,17/08/2002,18:30,SBV Excelsior,PSV Eindhoven,0,2,A,0,2,A
+NED,17/08/2002,18:30,NAC Breda,Roda JC Kerkrade,2,2,D,1,0,H
+NED,17/08/2002,19:00,FC Twente,Willem II,0,2,A,0,0,D
+NED,17/08/2002,19:00,AZ Alkmaar,sc Heerenveen,3,3,D,1,2,A
+NED,18/08/2002,13:30,FC Groningen,Vitesse,1,2,A,1,1,D
+NED,18/08/2002,13:30,AFC Ajax,FC Utrecht,3,1,H,1,1,D
+NED,18/08/2002,13:30,Feyenoord,NEC Nijmegen,2,0,H,0,0,D
+NED,18/08/2002,13:30,RKC Waalwijk,De Graafschap,4,2,H,1,0,H
+NED,23/08/2002,19:00,NEC Nijmegen,AZ Alkmaar,2,0,H,1,0,H
+NED,24/08/2002,18:30,Roda JC Kerkrade,Feyenoord,2,2,D,1,1,D
+NED,24/08/2002,18:30,PSV Eindhoven,FC Groningen,1,0,H,0,0,D
+NED,24/08/2002,18:30,De Graafschap,RBC Roosendaal,2,0,H,1,0,H
+NED,24/08/2002,18:30,sc Heerenveen,RKC Waalwijk,1,2,A,1,0,H
+NED,24/08/2002,18:30,FC Zwolle,SBV Excelsior,1,1,D,1,0,H
+NED,25/08/2002,13:30,Willem II,NAC Breda,1,1,D,1,1,D
+NED,25/08/2002,13:30,Vitesse,AFC Ajax,1,2,A,1,0,H
+NED,25/08/2002,13:30,FC Twente,FC Utrecht,1,1,D,1,1,D
+NED,30/08/2002,19:00,RKC Waalwijk,FC Twente,3,2,H,1,1,D
+NED,31/08/2002,18:30,Roda JC Kerkrade,Willem II,1,0,H,0,0,D
+NED,31/08/2002,18:30,NAC Breda,NEC Nijmegen,0,0,D,0,0,D
+NED,31/08/2002,18:30,FC Zwolle,Vitesse,1,0,H,0,0,D
+NED,01/09/2002,13:30,RBC Roosendaal,sc Heerenveen,3,0,H,2,0,H
+NED,01/09/2002,13:30,FC Groningen,AFC Ajax,1,3,A,0,2,A
+NED,10/09/2002,19:00,FC Utrecht,De Graafschap,4,0,H,2,0,H
+NED,10/09/2002,19:00,AZ Alkmaar,PSV Eindhoven,0,4,A,0,3,A
+NED,10/09/2002,19:00,Feyenoord,SBV Excelsior,4,1,H,2,1,H
+NED,13/09/2002,19:00,Vitesse,RBC Roosendaal,3,0,H,1,0,H
+NED,14/09/2002,18:30,SBV Excelsior,FC Groningen,4,2,H,2,1,H
+NED,14/09/2002,18:30,Willem II,FC Utrecht,2,0,H,1,0,H
+NED,14/09/2002,18:30,sc Heerenveen,NAC Breda,0,2,A,0,2,A
+NED,14/09/2002,18:30,PSV Eindhoven,RKC Waalwijk,4,0,H,1,0,H
+NED,14/09/2002,18:30,AFC Ajax,FC Zwolle,2,0,H,0,0,D
+NED,14/09/2002,19:00,FC Twente,Feyenoord,1,5,A,1,3,A
+NED,15/09/2002,13:30,De Graafschap,AZ Alkmaar,1,2,A,1,2,A
+NED,15/09/2002,13:30,NEC Nijmegen,Roda JC Kerkrade,2,4,A,2,1,H
+NED,20/09/2002,19:00,SBV Excelsior,AZ Alkmaar,1,2,A,0,2,A
+NED,20/09/2002,19:00,NAC Breda,FC Twente,2,0,H,1,0,H
+NED,21/09/2002,18:30,RBC Roosendaal,AFC Ajax,2,3,A,0,0,D
+NED,21/09/2002,18:30,FC Zwolle,PSV Eindhoven,1,3,A,0,1,A
+NED,21/09/2002,18:30,Willem II,NEC Nijmegen,1,1,D,0,1,A
+NED,21/09/2002,19:00,Feyenoord,De Graafschap,2,0,H,1,0,H
+NED,22/09/2002,13:30,FC Groningen,FC Utrecht,0,0,D,0,0,D
+NED,22/09/2002,13:30,Roda JC Kerkrade,sc Heerenveen,1,0,H,1,0,H
+NED,22/09/2002,13:30,Vitesse,RKC Waalwijk,1,1,D,0,0,D
+NED,27/09/2002,19:00,AZ Alkmaar,FC Groningen,4,1,H,3,0,H
+NED,28/09/2002,18:30,PSV Eindhoven,De Graafschap,4,0,H,3,0,H
+NED,28/09/2002,18:30,RBC Roosendaal,Feyenoord,4,2,H,1,1,D
+NED,28/09/2002,18:30,Willem II,FC Zwolle,5,2,H,3,0,H
+NED,28/09/2002,19:00,FC Twente,Roda JC Kerkrade,3,3,D,0,0,D
+NED,29/09/2002,12:00,AFC Ajax,NAC Breda,2,2,D,0,2,A
+NED,29/09/2002,13:30,FC Utrecht,Vitesse,1,0,H,1,0,H
+NED,29/09/2002,13:30,NEC Nijmegen,sc Heerenveen,4,2,H,2,0,H
+NED,29/09/2002,13:30,RKC Waalwijk,SBV Excelsior,0,3,A,0,1,A
+NED,02/10/2002,19:00,NEC Nijmegen,FC Groningen,2,0,H,1,0,H
+NED,04/10/2002,19:00,RKC Waalwijk,FC Zwolle,0,2,A,0,2,A
+NED,05/10/2002,18:30,De Graafschap,FC Twente,0,1,A,0,0,D
+NED,05/10/2002,18:30,Roda JC Kerkrade,SBV Excelsior,2,3,A,0,1,A
+NED,05/10/2002,18:30,NAC Breda,PSV Eindhoven,2,2,D,1,0,H
+NED,06/10/2002,12:00,Feyenoord,AFC Ajax,1,2,A,0,2,A
+NED,06/10/2002,13:30,AZ Alkmaar,Vitesse,1,3,A,1,1,D
+NED,06/10/2002,13:30,FC Utrecht,RBC Roosendaal,2,2,D,1,1,D
+NED,06/10/2002,13:30,sc Heerenveen,Willem II,1,1,D,1,0,H
+NED,18/10/2002,19:00,De Graafschap,NEC Nijmegen,1,3,A,0,0,D
+NED,19/10/2002,18:30,PSV Eindhoven,Roda JC Kerkrade,0,0,D,0,0,D
+NED,19/10/2002,18:30,Willem II,RBC Roosendaal,3,1,H,2,0,H
+NED,19/10/2002,18:30,AFC Ajax,AZ Alkmaar,6,2,H,3,1,H
+NED,19/10/2002,18:30,Vitesse,Feyenoord,1,1,D,1,0,H
+NED,19/10/2002,19:00,FC Twente,sc Heerenveen,1,1,D,0,0,D
+NED,20/10/2002,13:30,SBV Excelsior,FC Utrecht,1,1,D,1,1,D
+NED,20/10/2002,13:30,FC Groningen,RKC Waalwijk,2,3,A,0,1,A
+NED,20/10/2002,13:30,FC Zwolle,NAC Breda,0,3,A,0,2,A
+NED,25/10/2002,19:00,NAC Breda,Vitesse,0,0,D,0,0,D
+NED,26/10/2002,18:30,sc Heerenveen,SBV Excelsior,2,0,H,0,0,D
+NED,26/10/2002,18:30,Roda JC Kerkrade,De Graafschap,5,0,H,3,0,H
+NED,26/10/2002,19:00,RKC Waalwijk,AFC Ajax,1,1,D,0,0,D
+NED,26/10/2002,19:00,NEC Nijmegen,PSV Eindhoven,0,5,A,0,2,A
+NED,26/10/2002,19:00,AZ Alkmaar,FC Twente,1,2,A,0,2,A
+NED,26/10/2002,19:00,Feyenoord,Willem II,5,1,H,2,1,H
+NED,12/11/2002,19:00,RBC Roosendaal,FC Groningen,2,0,H,0,0,D
+NED,13/11/2002,19:00,FC Utrecht,FC Zwolle,2,0,H,2,0,H
+NED,22/10/2002,19:00,Vitesse,Roda JC Kerkrade,0,2,A,0,1,A
+NED,01/11/2002,19:00,FC Zwolle,AZ Alkmaar,5,1,H,5,0,H
+NED,02/11/2002,18:30,SBV Excelsior,NEC Nijmegen,0,0,D,0,0,D
+NED,02/11/2002,18:30,FC Twente,PSV Eindhoven,0,0,D,0,0,D
+NED,02/11/2002,18:30,RBC Roosendaal,RKC Waalwijk,0,0,D,0,0,D
+NED,02/11/2002,18:30,sc Heerenveen,De Graafschap,3,1,H,1,1,D
+NED,03/11/2002,13:30,FC Utrecht,NAC Breda,1,0,H,0,0,D
+NED,03/11/2002,13:30,AFC Ajax,Willem II,3,0,H,1,0,H
+NED,03/11/2002,13:30,FC Groningen,Feyenoord,0,2,A,0,0,D
+NED,08/11/2002,19:00,Roda JC Kerkrade,AFC Ajax,1,1,D,0,0,D
+NED,09/11/2002,18:30,Willem II,Vitesse,1,3,A,1,2,A
+NED,09/11/2002,18:30,PSV Eindhoven,sc Heerenveen,3,1,H,0,0,D
+NED,09/11/2002,18:30,De Graafschap,SBV Excelsior,1,1,D,0,0,D
+NED,09/11/2002,18:30,NAC Breda,FC Groningen,0,0,D,0,0,D
+NED,09/11/2002,19:00,AZ Alkmaar,RBC Roosendaal,2,0,H,1,0,H
+NED,10/11/2002,13:30,Feyenoord,FC Zwolle,2,0,H,0,0,D
+NED,10/11/2002,13:30,NEC Nijmegen,FC Twente,1,2,A,0,2,A
+NED,10/11/2002,13:30,RKC Waalwijk,FC Utrecht,0,1,A,0,0,D
+NED,15/11/2002,19:00,Willem II,RKC Waalwijk,0,1,A,0,1,A
+NED,16/11/2002,18:30,FC Groningen,De Graafschap,3,1,H,0,0,D
+NED,17/11/2002,12:00,PSV Eindhoven,Feyenoord,1,2,A,0,2,A
+NED,17/11/2002,13:30,RBC Roosendaal,Roda JC Kerkrade,4,0,H,1,0,H
+NED,17/11/2002,13:30,Vitesse,sc Heerenveen,1,2,A,0,2,A
+NED,17/11/2002,13:30,AFC Ajax,NEC Nijmegen,6,0,H,1,0,H
+NED,17/11/2002,13:30,FC Zwolle,FC Twente,1,1,D,0,0,D
+NED,17/11/2002,13:30,FC Utrecht,AZ Alkmaar,2,2,D,0,1,A
+NED,17/11/2002,13:30,SBV Excelsior,NAC Breda,0,3,A,0,1,A
+NED,22/11/2002,19:00,SBV Excelsior,Willem II,0,3,A,0,1,A
+NED,23/11/2002,18:30,sc Heerenveen,AFC Ajax,0,3,A,0,2,A
+NED,23/11/2002,18:30,De Graafschap,NAC Breda,3,2,H,0,2,A
+NED,23/11/2002,18:30,RBC Roosendaal,PSV Eindhoven,0,3,A,0,1,A
+NED,23/11/2002,18:30,Roda JC Kerkrade,AZ Alkmaar,1,3,A,0,3,A
+NED,23/11/2002,19:00,FC Twente,Vitesse,1,0,H,1,0,H
+NED,23/11/2002,19:00,RKC Waalwijk,Feyenoord,1,0,H,0,0,D
+NED,24/11/2002,13:30,FC Zwolle,FC Groningen,0,2,A,0,0,D
+NED,24/11/2002,13:30,FC Utrecht,NEC Nijmegen,3,2,H,1,0,H
+NED,29/11/2002,19:00,Roda JC Kerkrade,FC Zwolle,2,0,H,0,0,D
+NED,30/11/2002,18:30,PSV Eindhoven,Willem II,2,1,H,2,0,H
+NED,30/11/2002,18:30,NAC Breda,RBC Roosendaal,1,0,H,0,0,D
+NED,30/11/2002,19:00,AZ Alkmaar,RKC Waalwijk,2,0,H,0,0,D
+NED,01/12/2002,13:30,Vitesse,De Graafschap,1,1,D,0,0,D
+NED,01/12/2002,13:30,Feyenoord,FC Utrecht,2,1,H,1,0,H
+NED,01/12/2002,13:30,AFC Ajax,FC Twente,2,1,H,1,1,D
+NED,01/12/2002,13:30,FC Groningen,sc Heerenveen,1,1,D,0,0,D
+NED,06/12/2002,19:00,RBC Roosendaal,SBV Excelsior,1,1,D,1,0,H
+NED,17/12/2002,19:00,NEC Nijmegen,RBC Roosendaal,3,0,H,0,0,D
+NED,07/12/2002,18:30,sc Heerenveen,Feyenoord,3,1,H,0,0,D
+NED,07/12/2002,18:30,De Graafschap,AFC Ajax,1,1,D,0,1,A
+NED,07/12/2002,19:00,Willem II,AZ Alkmaar,3,1,H,1,0,H
+NED,08/12/2002,12:00,FC Utrecht,PSV Eindhoven,1,3,A,1,2,A
+NED,08/12/2002,13:30,FC Twente,FC Groningen,0,0,D,0,0,D
+NED,08/12/2002,13:30,NEC Nijmegen,Vitesse,2,0,H,1,0,H
+NED,08/12/2002,13:30,RKC Waalwijk,Roda JC Kerkrade,2,1,H,1,0,H
+NED,19/02/2003,19:00,AZ Alkmaar,NAC Breda,3,1,H,2,0,H
+NED,13/12/2002,18:30,FC Groningen,Roda JC Kerkrade,3,2,H,1,2,A
+NED,14/12/2002,18:30,NAC Breda,RKC Waalwijk,1,0,H,1,0,H
+NED,14/12/2002,18:30,FC Zwolle,NEC Nijmegen,0,0,D,0,0,D
+NED,14/12/2002,18:30,De Graafschap,Willem II,1,1,D,0,1,A
+NED,14/12/2002,18:30,SBV Excelsior,FC Twente,2,2,D,1,1,D
+NED,15/12/2002,12:00,AFC Ajax,PSV Eindhoven,2,4,A,1,1,D
+NED,15/12/2002,13:30,Feyenoord,AZ Alkmaar,6,1,H,3,0,H
+NED,15/12/2002,13:30,sc Heerenveen,FC Utrecht,2,2,D,1,0,H
+NED,18/12/2002,19:00,Vitesse,SBV Excelsior,1,2,A,1,2,A
+NED,18/12/2002,19:00,sc Heerenveen,FC Zwolle,2,0,H,1,0,H
+NED,20/12/2002,19:00,FC Twente,RBC Roosendaal,3,0,H,1,0,H
+NED,20/12/2002,19:00,Roda JC Kerkrade,FC Utrecht,1,0,H,1,0,H
+NED,21/12/2002,18:30,De Graafschap,FC Zwolle,3,2,H,1,1,D
+NED,21/12/2002,18:30,PSV Eindhoven,Vitesse,1,0,H,1,0,H
+NED,21/12/2002,18:30,Willem II,FC Groningen,1,0,H,0,0,D
+NED,21/12/2002,19:00,NEC Nijmegen,RKC Waalwijk,0,0,D,0,0,D
+NED,22/12/2002,13:30,NAC Breda,Feyenoord,1,1,D,0,1,A
+NED,22/12/2002,13:30,SBV Excelsior,AFC Ajax,0,2,A,0,1,A
+NED,31/01/2003,19:00,PSV Eindhoven,RBC Roosendaal,3,0,H,1,0,H
+NED,01/02/2003,18:30,NAC Breda,sc Heerenveen,1,1,D,1,1,D
+NED,01/02/2003,19:00,AZ Alkmaar,NEC Nijmegen,0,0,D,0,0,D
+NED,02/02/2003,13:30,Feyenoord,FC Twente,4,2,H,1,1,D
+NED,02/02/2003,13:30,RKC Waalwijk,FC Groningen,1,0,H,0,0,D
+NED,02/02/2003,13:30,Willem II,AFC Ajax,0,6,A,0,3,A
+NED,19/02/2003,19:00,Vitesse,FC Zwolle,2,1,H,1,0,H
+NED,19/02/2003,19:00,SBV Excelsior,Roda JC Kerkrade,0,2,A,0,2,A
+NED,12/03/2003,19:00,De Graafschap,FC Utrecht,1,0,H,0,0,D
+NED,07/02/2003,19:00,FC Zwolle,Willem II,0,3,A,0,2,A
+NED,08/02/2003,18:30,sc Heerenveen,AZ Alkmaar,5,0,H,3,0,H
+NED,08/02/2003,18:30,RBC Roosendaal,De Graafschap,1,0,H,1,0,H
+NED,08/02/2003,18:30,RKC Waalwijk,PSV Eindhoven,0,1,A,0,1,A
+NED,08/02/2003,18:30,Roda JC Kerkrade,Vitesse,2,0,H,1,0,H
+NED,09/02/2003,12:00,AFC Ajax,Feyenoord,1,1,D,1,1,D
+NED,09/02/2003,13:00,NEC Nijmegen,NAC Breda,2,0,H,0,0,D
+NED,09/02/2003,13:00,FC Utrecht,SBV Excelsior,2,2,D,0,1,A
+NED,09/02/2003,13:00,FC Groningen,FC Twente,0,0,D,0,0,D
+NED,14/02/2003,19:00,RBC Roosendaal,FC Utrecht,0,1,A,0,1,A
+NED,15/02/2003,18:30,Willem II,Roda JC Kerkrade,5,0,H,2,0,H
+NED,15/02/2003,18:30,AFC Ajax,FC Groningen,2,1,H,1,0,H
+NED,15/02/2003,18:30,PSV Eindhoven,FC Zwolle,6,0,H,5,0,H
+NED,15/02/2003,18:30,NAC Breda,SBV Excelsior,2,1,H,1,0,H
+NED,15/02/2003,19:00,AZ Alkmaar,Feyenoord,1,4,A,0,4,A
+NED,16/02/2003,13:30,RKC Waalwijk,Vitesse,1,0,H,1,0,H
+NED,16/02/2003,13:30,De Graafschap,sc Heerenveen,1,5,A,1,1,D
+NED,16/02/2003,13:30,FC Twente,NEC Nijmegen,1,2,A,0,2,A
+NED,21/02/2003,19:00,NEC Nijmegen,De Graafschap,1,0,H,0,0,D
+NED,22/02/2003,18:30,Roda JC Kerkrade,FC Twente,2,0,H,1,0,H
+NED,22/02/2003,18:30,PSV Eindhoven,NAC Breda,1,0,H,1,0,H
+NED,22/02/2003,18:30,SBV Excelsior,RBC Roosendaal,1,2,A,0,0,D
+NED,22/02/2003,19:00,Vitesse,AZ Alkmaar,2,2,D,0,1,A
+NED,23/02/2003,12:00,FC Utrecht,AFC Ajax,1,0,H,0,0,D
+NED,23/02/2003,13:30,FC Zwolle,RKC Waalwijk,2,1,H,1,0,H
+NED,23/02/2003,13:30,Feyenoord,FC Groningen,4,1,H,3,0,H
+NED,26/02/2003,19:00,FC Utrecht,sc Heerenveen,2,2,D,2,2,D
+NED,25/02/2003,19:00,NEC Nijmegen,Willem II,1,0,H,1,0,H
+NED,28/02/2003,19:00,RBC Roosendaal,Willem II,1,0,H,0,0,D
+NED,28/02/2003,19:00,De Graafschap,Roda JC Kerkrade,1,1,D,1,0,H
+NED,01/03/2003,18:30,SBV Excelsior,RKC Waalwijk,1,2,A,0,1,A
+NED,01/03/2003,18:30,sc Heerenveen,PSV Eindhoven,0,1,A,0,0,D
+NED,01/03/2003,19:00,FC Twente,AZ Alkmaar,0,0,D,0,0,D
+NED,02/03/2003,13:30,AFC Ajax,Vitesse,2,0,H,1,0,H
+NED,02/03/2003,13:30,FC Groningen,FC Zwolle,4,0,H,1,0,H
+NED,02/03/2003,13:30,Feyenoord,NAC Breda,2,1,H,1,1,D
+NED,07/03/2003,19:00,AZ Alkmaar,Roda JC Kerkrade,1,0,H,0,0,D
+NED,08/03/2003,18:30,Willem II,FC Twente,1,2,A,0,2,A
+NED,08/03/2003,18:30,SBV Excelsior,Feyenoord,2,6,A,1,3,A
+NED,08/03/2003,18:30,FC Zwolle,AFC Ajax,0,5,A,0,3,A
+NED,08/03/2003,18:30,PSV Eindhoven,NEC Nijmegen,2,1,H,1,0,H
+NED,08/03/2003,18:30,NAC Breda,De Graafschap,1,0,H,1,0,H
+NED,09/03/2003,13:30,RKC Waalwijk,sc Heerenveen,3,0,H,1,0,H
+NED,09/03/2003,13:30,Vitesse,FC Utrecht,1,4,A,0,2,A
+NED,09/03/2003,13:30,FC Groningen,RBC Roosendaal,1,0,H,0,0,D
+NED,15/03/2003,18:30,FC Zwolle,RBC Roosendaal,1,1,D,1,0,H
+NED,15/03/2003,18:30,Roda JC Kerkrade,NAC Breda,0,0,D,0,0,D
+NED,15/03/2003,18:30,De Graafschap,RKC Waalwijk,2,4,A,1,2,A
+NED,15/03/2003,18:30,sc Heerenveen,FC Twente,3,0,H,0,0,D
+NED,15/03/2003,18:30,Vitesse,PSV Eindhoven,0,5,A,0,3,A
+NED,16/03/2003,13:30,NEC Nijmegen,Feyenoord,1,2,A,1,1,D
+NED,16/03/2003,13:30,AZ Alkmaar,FC Utrecht,2,0,H,2,0,H
+NED,16/03/2003,13:30,FC Groningen,Willem II,1,1,D,0,0,D
+NED,16/03/2003,13:30,AFC Ajax,SBV Excelsior,2,1,H,1,1,D
+NED,21/03/2003,19:00,SBV Excelsior,FC Zwolle,0,1,A,0,0,D
+NED,22/03/2003,18:30,RBC Roosendaal,Vitesse,3,1,H,2,0,H
+NED,22/03/2003,18:30,Roda JC Kerkrade,NEC Nijmegen,2,1,H,1,1,D
+NED,22/03/2003,18:30,Feyenoord,sc Heerenveen,5,0,H,1,0,H
+NED,22/03/2003,19:00,FC Twente,RKC Waalwijk,2,1,H,1,1,D
+NED,22/03/2003,19:00,AZ Alkmaar,De Graafschap,3,1,H,2,0,H
+NED,23/03/2003,12:00,PSV Eindhoven,AFC Ajax,2,0,H,1,0,H
+NED,23/03/2003,13:30,NAC Breda,Willem II,0,0,D,0,0,D
+NED,23/03/2003,13:30,FC Utrecht,FC Groningen,0,0,D,0,0,D
+NED,05/04/2003,18:30,AFC Ajax,RBC Roosendaal,4,1,H,3,0,H
+NED,05/04/2003,18:30,De Graafschap,Feyenoord,3,4,A,0,2,A
+NED,05/04/2003,18:30,sc Heerenveen,Roda JC Kerkrade,3,2,H,0,2,A
+NED,05/04/2003,19:00,Vitesse,FC Groningen,0,0,D,0,0,D
+NED,05/04/2003,19:00,FC Twente,NAC Breda,0,0,D,0,0,D
+NED,06/04/2003,12:00,NEC Nijmegen,SBV Excelsior,1,0,H,0,0,D
+NED,06/04/2003,13:30,FC Zwolle,FC Utrecht,3,1,H,0,0,D
+NED,06/04/2003,13:30,RKC Waalwijk,AZ Alkmaar,2,0,H,2,0,H
+NED,06/04/2003,13:30,Willem II,PSV Eindhoven,1,1,D,0,0,D
+NED,11/04/2003,18:30,FC Utrecht,Willem II,1,1,D,0,1,A
+NED,11/04/2003,19:00,Roda JC Kerkrade,PSV Eindhoven,2,3,A,2,2,D
+NED,12/04/2003,18:30,sc Heerenveen,NEC Nijmegen,2,3,A,1,1,D
+NED,12/04/2003,18:30,Feyenoord,Vitesse,2,1,H,1,1,D
+NED,12/04/2003,19:00,FC Twente,De Graafschap,3,0,H,2,0,H
+NED,12/04/2003,19:00,AZ Alkmaar,FC Zwolle,1,1,D,1,0,H
+NED,13/04/2003,12:00,NAC Breda,AFC Ajax,0,3,A,0,1,A
+NED,13/04/2003,13:30,FC Groningen,SBV Excelsior,1,0,H,0,0,D
+NED,13/04/2003,13:30,RKC Waalwijk,RBC Roosendaal,1,2,A,1,1,D
+NED,18/04/2003,19:00,FC Utrecht,RKC Waalwijk,4,3,H,2,1,H
+NED,19/04/2003,18:30,SBV Excelsior,sc Heerenveen,1,0,H,0,0,D
+NED,19/04/2003,18:30,PSV Eindhoven,FC Twente,2,0,H,1,0,H
+NED,19/04/2003,18:30,AFC Ajax,Roda JC Kerkrade,4,2,H,3,1,H
+NED,19/04/2003,18:30,RBC Roosendaal,AZ Alkmaar,0,0,D,0,0,D
+NED,19/04/2003,18:30,Willem II,De Graafschap,3,0,H,2,0,H
+NED,20/04/2003,13:30,FC Zwolle,Feyenoord,1,3,A,0,2,A
+NED,20/04/2003,13:30,Vitesse,NEC Nijmegen,1,1,D,1,0,H
+NED,27/04/2003,13:30,FC Groningen,NAC Breda,0,0,D,0,0,D
+NED,25/04/2003,19:00,RKC Waalwijk,Willem II,3,1,H,1,0,H
+NED,26/04/2003,18:30,De Graafschap,PSV Eindhoven,1,6,A,1,3,A
+NED,26/04/2003,18:30,sc Heerenveen,Vitesse,2,2,D,1,2,A
+NED,26/04/2003,19:00,FC Twente,SBV Excelsior,1,0,H,1,0,H
+NED,27/04/2003,12:00,AZ Alkmaar,AFC Ajax,1,3,A,0,1,A
+NED,27/04/2003,13:30,Feyenoord,RBC Roosendaal,1,0,H,0,0,D
+NED,27/04/2003,13:30,NEC Nijmegen,FC Utrecht,1,2,A,1,1,D
+NED,06/05/2003,19:00,NAC Breda,FC Zwolle,2,0,H,1,0,H
+NED,13/05/2003,19:00,Roda JC Kerkrade,FC Groningen,5,1,H,1,0,H
+NED,02/05/2003,19:00,SBV Excelsior,De Graafschap,3,4,A,1,3,A
+NED,03/05/2003,18:30,PSV Eindhoven,AZ Alkmaar,2,2,D,0,2,A
+NED,03/05/2003,18:30,Willem II,sc Heerenveen,1,5,A,0,3,A
+NED,03/05/2003,18:30,AFC Ajax,RKC Waalwijk,6,1,H,3,0,H
+NED,03/05/2003,18:30,FC Zwolle,Roda JC Kerkrade,3,1,H,2,0,H
+NED,03/05/2003,19:00,Vitesse,NAC Breda,3,1,H,1,0,H
+NED,04/05/2003,12:00,FC Utrecht,Feyenoord,1,2,A,1,1,D
+NED,04/05/2003,13:30,FC Groningen,NEC Nijmegen,0,0,D,0,0,D
+NED,04/05/2003,13:30,RBC Roosendaal,FC Twente,1,0,H,0,0,D
+NED,09/05/2003,19:00,Roda JC Kerkrade,RBC Roosendaal,1,0,H,1,0,H
+NED,09/05/2003,19:00,sc Heerenveen,FC Groningen,2,1,H,1,0,H
+NED,10/05/2003,18:30,PSV Eindhoven,SBV Excelsior,7,0,H,3,0,H
+NED,10/05/2003,18:30,NAC Breda,FC Utrecht,2,0,H,1,0,H
+NED,10/05/2003,19:00,FC Twente,FC Zwolle,0,0,D,0,0,D
+NED,10/05/2003,19:00,AZ Alkmaar,Willem II,3,2,H,0,1,A
+NED,11/05/2003,13:30,NEC Nijmegen,AFC Ajax,1,2,A,1,0,H
+NED,11/05/2003,13:30,Feyenoord,RKC Waalwijk,2,1,H,1,1,D
+NED,11/05/2003,13:30,De Graafschap,Vitesse,0,1,A,0,1,A
+NED,16/05/2003,19:00,FC Utrecht,Roda JC Kerkrade,4,4,D,3,1,H
+NED,17/05/2003,18:30,Willem II,SBV Excelsior,2,1,H,0,1,A
+NED,17/05/2003,18:30,RBC Roosendaal,NEC Nijmegen,0,2,A,0,1,A
+NED,17/05/2003,18:30,FC Zwolle,sc Heerenveen,0,1,A,0,1,A
+NED,17/05/2003,19:00,Vitesse,FC Twente,0,1,A,0,0,D
+NED,18/05/2003,12:00,Feyenoord,PSV Eindhoven,3,1,H,2,0,H
+NED,18/05/2003,12:00,AFC Ajax,De Graafschap,7,1,H,2,1,H
+NED,18/05/2003,13:30,FC Groningen,AZ Alkmaar,1,0,H,0,0,D
+NED,18/05/2003,13:30,RKC Waalwijk,NAC Breda,2,3,A,0,0,D
+NED,25/05/2003,13:30,sc Heerenveen,RBC Roosendaal,6,0,H,4,0,H
+NED,25/05/2003,13:30,Willem II,Feyenoord,1,1,D,1,0,H
+NED,25/05/2003,13:30,De Graafschap,FC Groningen,1,0,H,1,0,H
+NED,25/05/2003,13:30,SBV Excelsior,Vitesse,4,4,D,2,2,D
+NED,25/05/2003,13:30,FC Twente,AFC Ajax,1,2,A,0,0,D
+NED,25/05/2003,13:30,Roda JC Kerkrade,RKC Waalwijk,1,0,H,1,0,H
+NED,25/05/2003,13:30,PSV Eindhoven,FC Utrecht,2,0,H,2,0,H
+NED,25/05/2003,13:30,NEC Nijmegen,FC Zwolle,0,0,D,0,0,D
+NED,25/05/2003,13:30,NAC Breda,AZ Alkmaar,4,0,H,2,0,H
+NED,29/05/2003,13:30,Feyenoord,Roda JC Kerkrade,3,1,H,2,0,H
+NED,29/05/2003,13:30,FC Groningen,PSV Eindhoven,0,0,D,0,0,D
+NED,29/05/2003,13:30,FC Utrecht,FC Twente,3,2,H,0,1,A
+NED,29/05/2003,13:30,AZ Alkmaar,SBV Excelsior,4,1,H,2,0,H
+NED,29/05/2003,13:30,Vitesse,Willem II,2,0,H,0,0,D
+NED,29/05/2003,13:30,AFC Ajax,sc Heerenveen,3,0,H,1,0,H
+NED,29/05/2003,13:30,RBC Roosendaal,NAC Breda,1,2,A,0,1,A
+NED,29/05/2003,13:30,FC Zwolle,De Graafschap,2,1,H,2,0,H
+NED,29/05/2003,13:30,RKC Waalwijk,NEC Nijmegen,0,1,A,0,0,D

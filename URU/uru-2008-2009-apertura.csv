@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URU,23/08/2008,19:30,CA Juventud,Nacional,0,1,A,NaN,NaN,NaN
+URU,23/08/2008,19:30,CA Cerro,Danubio FC,0,1,A,NaN,NaN,NaN
+URU,23/08/2008,19:30,Defensor Sporting,CA Cerro,0,0,D,NaN,NaN,NaN
+URU,24/08/2008,14:10,Racing Club,River Plate,1,1,D,NaN,NaN,NaN
+URU,24/08/2008,19:30,Tacuarembó FC,Bella Vista,3,0,H,NaN,NaN,NaN
+URU,24/08/2008,19:30,Montevideo Wanderers,CA Peñarol,1,2,A,NaN,NaN,NaN
+URU,24/08/2008,19:30,Rampla Juniors,Central Español,0,0,D,NaN,NaN,NaN
+URU,24/08/2008,19:30,Villa Española,Liverpool FC,0,0,D,NaN,NaN,NaN
+URU,30/08/2008,19:30,Central Español,Cerro Largo FC,1,1,D,NaN,NaN,NaN
+URU,30/08/2008,19:30,CA Peñarol,Racing Club,3,3,D,NaN,NaN,NaN
+URU,30/08/2008,19:30,CA Cerro,Tacuarembó FC,2,0,H,NaN,NaN,NaN
+URU,31/08/2008,14:10,Danubio FC,Montevideo Wanderers,2,1,H,NaN,NaN,NaN
+URU,31/08/2008,19:30,Bella Vista,Defensor Sporting,0,3,A,NaN,NaN,NaN
+URU,31/08/2008,19:30,River Plate,Rampla Juniors,2,1,H,NaN,NaN,NaN
+URU,31/08/2008,19:30,Liverpool FC,CA Juventud,1,0,H,NaN,NaN,NaN
+URU,03/12/2008,21:10,Nacional,Villa Española,2,0,H,NaN,NaN,NaN
+URU,25/10/2008,19:30,Central Español,CA Peñarol,0,0,D,NaN,NaN,NaN
+URU,25/10/2008,19:30,Rampla Juniors,Montevideo Wanderers,1,1,D,NaN,NaN,NaN
+URU,25/10/2008,19:30,Cerro Largo FC,Racing Club,0,0,D,NaN,NaN,NaN
+URU,26/10/2008,00:00,Tacuarembó FC,CA Juventud,0,1,A,NaN,NaN,NaN
+URU,26/10/2008,12:15,Liverpool FC,CA Cerro,1,2,A,NaN,NaN,NaN
+URU,26/10/2008,18:30,Bella Vista,Nacional,0,1,A,NaN,NaN,NaN
+URU,26/10/2008,18:30,Danubio FC,River Plate,3,0,H,NaN,NaN,NaN
+URU,26/10/2008,18:30,Villa Española,Defensor Sporting,1,3,A,NaN,NaN,NaN
+URU,13/09/2008,19:30,CA Juventud,CA Cerro,1,1,D,NaN,NaN,NaN
+URU,13/09/2008,19:30,Tacuarembó FC,Nacional,0,2,A,NaN,NaN,NaN
+URU,13/09/2008,19:30,Cerro Largo FC,River Plate,0,2,A,NaN,NaN,NaN
+URU,14/09/2008,14:10,Montevideo Wanderers,Bella Vista,1,2,A,NaN,NaN,NaN
+URU,14/09/2008,19:30,Rampla Juniors,CA Peñarol,3,2,H,NaN,NaN,NaN
+URU,14/09/2008,19:30,Racing Club,Central Español,4,0,H,NaN,NaN,NaN
+URU,14/09/2008,19:30,Defensor Sporting,Liverpool FC,0,1,A,NaN,NaN,NaN
+URU,14/09/2008,19:30,Villa Española,Danubio FC,2,3,A,NaN,NaN,NaN
+URU,20/09/2008,19:30,Bella Vista,Rampla Juniors,0,0,D,NaN,NaN,NaN
+URU,20/09/2008,19:30,CA Peñarol,Cerro Largo FC,3,0,H,NaN,NaN,NaN
+URU,20/09/2008,19:30,River Plate,Defensor Sporting,1,3,A,NaN,NaN,NaN
+URU,21/09/2008,14:10,Danubio FC,CA Juventud,4,0,H,NaN,NaN,NaN
+URU,21/09/2008,19:30,Nacional,Racing Club,2,0,H,NaN,NaN,NaN
+URU,21/09/2008,19:30,Central Español,Villa Española,1,1,D,NaN,NaN,NaN
+URU,21/09/2008,19:30,CA Cerro,Montevideo Wanderers,3,0,H,NaN,NaN,NaN
+URU,21/09/2008,19:30,Liverpool FC,Tacuarembó FC,2,0,H,NaN,NaN,NaN
+URU,27/09/2008,19:30,Tacuarembó FC,Danubio FC,3,2,H,NaN,NaN,NaN
+URU,27/09/2008,19:30,Montevideo Wanderers,River Plate,0,0,D,NaN,NaN,NaN
+URU,27/09/2008,19:30,Cerro Largo FC,Nacional,2,3,A,NaN,NaN,NaN
+URU,28/09/2008,14:10,Rampla Juniors,CA Cerro,0,3,A,NaN,NaN,NaN
+URU,28/09/2008,19:30,CA Juventud,Central Español,1,3,A,NaN,NaN,NaN
+URU,28/09/2008,19:30,Racing Club,Liverpool FC,0,0,D,NaN,NaN,NaN
+URU,28/09/2008,19:30,Defensor Sporting,CA Peñarol,0,0,D,NaN,NaN,NaN
+URU,28/09/2008,19:30,Villa Española,Bella Vista,0,1,A,NaN,NaN,NaN
+URU,04/10/2008,20:30,CA Peñarol,Tacuarembó FC,3,0,H,NaN,NaN,NaN
+URU,04/10/2008,20:30,CA Cerro,Cerro Largo FC,1,1,D,NaN,NaN,NaN
+URU,05/10/2008,13:15,Liverpool FC,Rampla Juniors,2,2,D,NaN,NaN,NaN
+URU,05/10/2008,19:30,Nacional,Defensor Sporting,2,2,D,NaN,NaN,NaN
+URU,05/10/2008,19:30,Bella Vista,CA Juventud,1,0,H,NaN,NaN,NaN
+URU,05/10/2008,19:30,Central Español,Montevideo Wanderers,0,4,A,NaN,NaN,NaN
+URU,05/10/2008,19:30,River Plate,Villa Española,0,0,D,NaN,NaN,NaN
+URU,05/10/2008,19:30,Danubio FC,Racing Club,1,3,A,NaN,NaN,NaN
+URU,18/10/2008,19:30,Montevideo Wanderers,Nacional,0,1,A,NaN,NaN,NaN
+URU,18/10/2008,19:30,Cerro Largo FC,Liverpool FC,1,1,D,NaN,NaN,NaN
+URU,18/10/2008,19:30,Villa Española,CA Cerro,0,3,A,NaN,NaN,NaN
+URU,19/10/2008,13:15,Racing Club,Bella Vista,1,0,H,NaN,NaN,NaN
+URU,19/10/2008,19:30,CA Juventud,CA Peñarol,0,3,A,NaN,NaN,NaN
+URU,19/10/2008,19:30,Tacuarembó FC,River Plate,1,1,D,NaN,NaN,NaN
+URU,19/10/2008,19:30,Rampla Juniors,Danubio FC,1,0,H,NaN,NaN,NaN
+URU,19/10/2008,19:30,Defensor Sporting,Central Español,2,0,H,NaN,NaN,NaN
+URU,01/11/2008,19:00,Nacional,Liverpool FC,1,2,A,NaN,NaN,NaN
+URU,01/11/2008,19:00,Racing Club,Rampla Juniors,3,2,H,NaN,NaN,NaN
+URU,01/11/2008,19:00,Defensor Sporting,Cerro Largo FC,3,1,H,NaN,NaN,NaN
+URU,02/11/2008,12:15,River Plate,Central Español,1,2,A,NaN,NaN,NaN
+URU,02/11/2008,19:00,CA Juventud,Villa Española,1,3,A,NaN,NaN,NaN
+URU,02/11/2008,19:00,CA Peñarol,Bella Vista,3,1,H,NaN,NaN,NaN
+URU,02/11/2008,19:00,Montevideo Wanderers,Tacuarembó FC,0,1,A,NaN,NaN,NaN
+URU,02/11/2008,19:00,CA Cerro,Danubio FC,0,1,A,NaN,NaN,NaN
+URU,08/11/2008,19:00,Nacional,Rampla Juniors,2,0,H,NaN,NaN,NaN
+URU,08/11/2008,19:00,Central Español,Tacuarembó FC,2,1,H,NaN,NaN,NaN
+URU,09/11/2008,12:10,Bella Vista,Cerro Largo FC,5,2,H,NaN,NaN,NaN
+URU,09/11/2008,19:00,River Plate,CA Juventud,2,1,H,NaN,NaN,NaN
+URU,09/11/2008,19:00,Danubio FC,Defensor Sporting,1,0,H,NaN,NaN,NaN
+URU,09/11/2008,19:00,CA Cerro,Racing Club,0,0,D,NaN,NaN,NaN
+URU,09/11/2008,19:00,Liverpool FC,Montevideo Wanderers,2,1,H,NaN,NaN,NaN
+URU,09/11/2008,22:10,CA Peñarol,Villa Española,3,0,H,NaN,NaN,NaN
+URU,15/11/2008,19:00,CA Peñarol,Liverpool FC,3,2,H,NaN,NaN,NaN
+URU,15/11/2008,19:00,Montevideo Wanderers,CA Juventud,3,0,H,NaN,NaN,NaN
+URU,15/11/2008,19:00,Cerro Largo FC,Villa Española,2,0,H,NaN,NaN,NaN
+URU,15/11/2008,19:00,CA Cerro,River Plate,1,0,H,NaN,NaN,NaN
+URU,16/11/2008,12:15,Racing Club,Defensor Sporting,2,0,H,NaN,NaN,NaN
+URU,16/11/2008,19:00,Central Español,Bella Vista,2,0,H,NaN,NaN,NaN
+URU,16/11/2008,19:00,Rampla Juniors,Tacuarembó FC,3,1,H,NaN,NaN,NaN
+URU,16/11/2008,19:00,Danubio FC,Nacional,1,0,H,NaN,NaN,NaN
+URU,06/12/2008,19:00,Nacional,CA Cerro,3,3,D,NaN,NaN,NaN
+URU,06/12/2008,19:00,CA Juventud,Cerro Largo FC,1,1,D,NaN,NaN,NaN
+URU,06/12/2008,19:00,Liverpool FC,Central Español,2,1,H,NaN,NaN,NaN
+URU,07/12/2008,12:15,Bella Vista,Danubio FC,0,2,A,NaN,NaN,NaN
+URU,07/12/2008,19:00,Tacuarembó FC,Racing Club,1,1,D,NaN,NaN,NaN
+URU,07/12/2008,19:00,River Plate,CA Peñarol,1,1,D,NaN,NaN,NaN
+URU,07/12/2008,19:00,Defensor Sporting,Montevideo Wanderers,3,2,H,NaN,NaN,NaN
+URU,07/12/2008,19:00,Villa Española,Rampla Juniors,2,0,H,NaN,NaN,NaN
+URU,13/12/2008,19:00,River Plate,Bella Vista,3,1,H,NaN,NaN,NaN
+URU,13/12/2008,19:00,CA Cerro,Central Español,0,1,A,NaN,NaN,NaN
+URU,13/12/2008,19:00,Liverpool FC,Danubio FC,2,2,D,NaN,NaN,NaN
+URU,13/12/2008,19:00,Villa Española,Montevideo Wanderers,1,0,H,NaN,NaN,NaN
+URU,13/12/2008,23:15,Defensor Sporting,Rampla Juniors,2,1,H,NaN,NaN,NaN
+URU,14/12/2008,12:15,Cerro Largo FC,Tacuarembó FC,0,2,A,NaN,NaN,NaN
+URU,14/12/2008,19:00,CA Peñarol,Nacional,0,1,A,NaN,NaN,NaN
+URU,14/12/2008,19:00,Racing Club,CA Juventud,2,1,H,NaN,NaN,NaN
+URU,17/12/2008,19:00,Villa Española,Racing Club,1,4,A,NaN,NaN,NaN
+URU,17/12/2008,22:00,Tacuarembó FC,Defensor Sporting,0,1,A,NaN,NaN,NaN
+URU,17/12/2008,22:30,Nacional,River Plate,0,2,A,NaN,NaN,NaN
+URU,17/12/2008,22:30,Central Español,Danubio FC,2,2,D,NaN,NaN,NaN
+URU,18/12/2008,19:00,CA Juventud,Rampla Juniors,2,0,H,NaN,NaN,NaN
+URU,18/12/2008,19:00,Bella Vista,Liverpool FC,1,1,D,NaN,NaN,NaN
+URU,18/12/2008,19:00,Montevideo Wanderers,Cerro Largo FC,1,0,H,NaN,NaN,NaN
+URU,18/12/2008,19:00,CA Cerro,CA Peñarol,1,2,A,NaN,NaN,NaN
+URU,07/02/2009,19:00,Tacuarembó FC,Villa Española,3,0,H,NaN,NaN,NaN
+URU,07/02/2009,19:00,Central Español,Nacional,1,2,A,NaN,NaN,NaN
+URU,07/02/2009,19:00,Racing Club,Montevideo Wanderers,0,2,A,NaN,NaN,NaN
+URU,07/02/2009,19:00,Danubio FC,CA Peñarol,2,1,H,NaN,NaN,NaN
+URU,07/02/2009,19:00,Defensor Sporting,CA Juventud,1,0,H,NaN,NaN,NaN
+URU,08/02/2009,18:15,Liverpool FC,River Plate,2,1,H,NaN,NaN,NaN
+URU,08/02/2009,19:00,Bella Vista,CA Cerro,1,0,H,NaN,NaN,NaN
+URU,08/02/2009,19:00,Rampla Juniors,Cerro Largo FC,2,2,D,NaN,NaN,NaN

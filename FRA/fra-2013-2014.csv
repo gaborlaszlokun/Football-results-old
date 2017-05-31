@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,09/08/2013,19:30,Montpellier HSC,Paris Saint-Germain,1,1,D,1,0,H
+FRA,10/08/2013,20:00,Girondins Bordeaux,AS Monaco,0,2,A,0,0,D
+FRA,10/08/2013,20:00,Évian Thonon Gaillard,FC Sochaux,1,1,D,1,0,H
+FRA,10/08/2013,20:00,Lille OSC,FC Lorient,1,0,H,1,0,H
+FRA,10/08/2013,20:00,Olympique Lyon,OGC Nice,4,0,H,1,0,H
+FRA,10/08/2013,20:00,FC Nantes,SC Bastia,0,0,D,0,0,D
+FRA,10/08/2013,20:00,Stade Rennes,Stade Reims,2,1,H,1,1,D
+FRA,10/08/2013,20:00,Valenciennes FC,Toulouse FC,3,0,H,1,0,H
+FRA,11/08/2013,16:00,AC Ajaccio,AS Saint-Étienne,0,1,A,0,1,A
+FRA,11/08/2013,20:00,EA Guingamp,Olympique Marseille,1,3,A,0,3,A
+FRA,16/08/2013,19:30,FC Sochaux,Olympique Lyon,1,3,A,1,2,A
+FRA,17/08/2013,16:00,Olympique Marseille,Évian Thonon Gaillard,2,0,H,1,0,H
+FRA,17/08/2013,19:00,SC Bastia,Valenciennes FC,2,0,H,0,0,D
+FRA,17/08/2013,19:00,OGC Nice,Stade Rennes,2,1,H,1,1,D
+FRA,17/08/2013,19:00,Stade Reims,Lille OSC,2,1,H,1,0,H
+FRA,17/08/2013,19:00,AS Saint-Étienne,EA Guingamp,1,0,H,0,0,D
+FRA,17/08/2013,19:00,Toulouse FC,Girondins Bordeaux,1,1,D,1,1,D
+FRA,18/08/2013,13:00,AS Monaco,Montpellier HSC,4,1,H,2,1,H
+FRA,18/08/2013,16:00,FC Lorient,FC Nantes,2,1,H,1,1,D
+FRA,18/08/2013,20:00,Paris Saint-Germain,AC Ajaccio,1,1,D,0,1,A
+FRA,23/08/2013,19:30,AS Monaco,Toulouse FC,0,0,D,0,0,D
+FRA,24/08/2013,16:00,Valenciennes FC,Olympique Marseille,0,1,A,0,0,D
+FRA,24/08/2013,19:00,Girondins Bordeaux,SC Bastia,1,0,H,1,0,H
+FRA,24/08/2013,19:00,Évian Thonon Gaillard,Stade Rennes,1,2,A,0,2,A
+FRA,24/08/2013,19:00,EA Guingamp,FC Lorient,2,0,H,1,0,H
+FRA,24/08/2013,19:00,Olympique Lyon,Stade Reims,0,1,A,0,0,D
+FRA,24/08/2013,19:00,Montpellier HSC,FC Sochaux,2,1,H,1,1,D
+FRA,25/08/2013,13:00,Lille OSC,AS Saint-Étienne,1,0,H,1,0,H
+FRA,25/08/2013,16:00,AC Ajaccio,OGC Nice,0,0,D,0,0,D
+FRA,25/08/2013,20:00,FC Nantes,Paris Saint-Germain,1,2,A,0,1,A
+FRA,31/08/2013,13:00,Évian Thonon Gaillard,Olympique Lyon,2,1,H,2,0,H
+FRA,31/08/2013,16:00,Paris Saint-Germain,EA Guingamp,2,0,H,0,0,D
+FRA,31/08/2013,19:00,SC Bastia,Toulouse FC,2,1,H,1,0,H
+FRA,31/08/2013,19:00,FC Lorient,Valenciennes FC,1,0,H,1,0,H
+FRA,31/08/2013,19:00,Stade Reims,FC Nantes,0,0,D,0,0,D
+FRA,31/08/2013,19:00,Stade Rennes,Lille OSC,0,0,D,0,0,D
+FRA,31/08/2013,19:00,FC Sochaux,AC Ajaccio,0,0,D,0,0,D
+FRA,01/09/2013,13:00,AS Saint-Étienne,Girondins Bordeaux,2,1,H,1,0,H
+FRA,01/09/2013,16:00,OGC Nice,Montpellier HSC,2,2,D,2,1,H
+FRA,01/09/2013,20:00,Olympique Marseille,AS Monaco,1,2,A,1,0,H
+FRA,13/09/2013,19:30,Girondins Bordeaux,Paris Saint-Germain,0,2,A,0,1,A
+FRA,14/09/2013,16:00,Toulouse FC,Olympique Marseille,1,1,D,0,0,D
+FRA,14/09/2013,19:00,AC Ajaccio,Évian Thonon Gaillard,2,3,A,0,2,A
+FRA,14/09/2013,19:00,EA Guingamp,SC Bastia,1,1,D,0,0,D
+FRA,14/09/2013,19:00,Montpellier HSC,Stade Reims,0,0,D,0,0,D
+FRA,14/09/2013,19:00,FC Nantes,FC Sochaux,1,0,H,0,0,D
+FRA,14/09/2013,19:00,Valenciennes FC,AS Saint-Étienne,1,3,A,0,1,A
+FRA,15/09/2013,13:00,AS Monaco,FC Lorient,1,0,H,1,0,H
+FRA,15/09/2013,16:00,Lille OSC,OGC Nice,0,2,A,0,2,A
+FRA,15/09/2013,20:00,Olympique Lyon,Stade Rennes,0,0,D,0,0,D
+FRA,20/09/2013,19:30,AS Saint-Étienne,Toulouse FC,1,2,A,1,0,H
+FRA,21/09/2013,16:00,SC Bastia,Olympique Marseille,0,0,D,0,0,D
+FRA,21/09/2013,19:00,Évian Thonon Gaillard,Montpellier HSC,2,2,D,0,1,A
+FRA,21/09/2013,19:00,Stade Reims,EA Guingamp,1,1,D,0,1,A
+FRA,21/09/2013,19:00,Stade Rennes,AC Ajaccio,2,0,H,2,0,H
+FRA,21/09/2013,19:00,FC Sochaux,Lille OSC,0,2,A,0,2,A
+FRA,22/09/2013,13:00,FC Lorient,Girondins Bordeaux,3,3,D,2,3,A
+FRA,22/09/2013,16:00,Olympique Lyon,FC Nantes,3,1,H,1,1,D
+FRA,22/09/2013,16:00,OGC Nice,Valenciennes FC,4,0,H,2,0,H
+FRA,22/09/2013,20:00,Paris Saint-Germain,AS Monaco,1,1,D,1,1,D
+FRA,24/09/2013,18:00,Lille OSC,Évian Thonon Gaillard,3,0,H,2,0,H
+FRA,24/09/2013,20:00,Olympique Marseille,AS Saint-Étienne,2,1,H,2,1,H
+FRA,25/09/2013,18:00,AC Ajaccio,Olympique Lyon,2,1,H,1,0,H
+FRA,25/09/2013,18:00,Girondins Bordeaux,Stade Reims,0,0,D,0,0,D
+FRA,25/09/2013,18:00,EA Guingamp,FC Sochaux,5,1,H,3,0,H
+FRA,25/09/2013,18:00,FC Nantes,OGC Nice,2,0,H,1,0,H
+FRA,25/09/2013,18:00,Toulouse FC,FC Lorient,1,0,H,0,0,D
+FRA,25/09/2013,18:00,Valenciennes FC,Paris Saint-Germain,0,1,A,0,1,A
+FRA,25/09/2013,20:00,AS Monaco,SC Bastia,3,0,H,2,0,H
+FRA,26/09/2013,20:00,Montpellier HSC,Stade Rennes,0,0,D,0,0,D
+FRA,28/09/2013,13:00,FC Lorient,Olympique Marseille,0,2,A,0,0,D
+FRA,28/09/2013,16:00,Paris Saint-Germain,Toulouse FC,2,0,H,1,0,H
+FRA,28/09/2013,19:00,Évian Thonon Gaillard,Girondins Bordeaux,1,1,D,1,0,H
+FRA,28/09/2013,19:00,Olympique Lyon,Lille OSC,0,0,D,0,0,D
+FRA,28/09/2013,19:00,OGC Nice,EA Guingamp,1,0,H,0,0,D
+FRA,28/09/2013,19:00,AS Saint-Étienne,SC Bastia,2,2,D,1,0,H
+FRA,28/09/2013,19:00,FC Sochaux,Valenciennes FC,2,0,H,2,0,H
+FRA,29/09/2013,13:00,Stade Rennes,FC Nantes,1,3,A,0,2,A
+FRA,29/09/2013,16:00,AC Ajaccio,Montpellier HSC,1,1,D,1,1,D
+FRA,29/09/2013,20:00,Stade Reims,AS Monaco,1,1,D,1,1,D
+FRA,04/10/2013,19:30,SC Bastia,FC Lorient,4,1,H,2,1,H
+FRA,05/10/2013,16:00,AS Monaco,AS Saint-Étienne,2,1,H,1,0,H
+FRA,05/10/2013,19:00,EA Guingamp,Stade Rennes,2,0,H,0,0,D
+FRA,05/10/2013,19:00,Lille OSC,AC Ajaccio,3,0,H,1,0,H
+FRA,05/10/2013,19:00,FC Nantes,Évian Thonon Gaillard,3,0,H,2,0,H
+FRA,05/10/2013,19:00,Toulouse FC,OGC Nice,1,0,H,1,0,H
+FRA,05/10/2013,19:00,Valenciennes FC,Stade Reims,1,1,D,0,1,A
+FRA,06/10/2013,13:00,Montpellier HSC,Olympique Lyon,5,1,H,2,0,H
+FRA,06/10/2013,16:00,Girondins Bordeaux,FC Sochaux,4,1,H,2,1,H
+FRA,06/10/2013,20:00,Olympique Marseille,Paris Saint-Germain,1,2,A,1,1,D
+FRA,18/10/2013,19:30,OGC Nice,Olympique Marseille,1,0,H,1,0,H
+FRA,18/10/2013,19:30,Stade Reims,Toulouse FC,1,2,A,0,1,A
+FRA,19/10/2013,16:00,Paris Saint-Germain,SC Bastia,4,0,H,2,0,H
+FRA,19/10/2013,19:00,AC Ajaccio,FC Nantes,0,1,A,0,0,D
+FRA,19/10/2013,19:00,Évian Thonon Gaillard,EA Guingamp,1,2,A,1,0,H
+FRA,19/10/2013,19:00,Montpellier HSC,Lille OSC,0,1,A,0,1,A
+FRA,19/10/2013,19:00,Stade Rennes,Valenciennes FC,2,2,D,1,0,H
+FRA,20/10/2013,13:00,FC Sochaux,AS Monaco,2,2,D,0,2,A
+FRA,20/10/2013,16:00,AS Saint-Étienne,FC Lorient,3,2,H,2,1,H
+FRA,20/10/2013,20:00,Olympique Lyon,Girondins Bordeaux,1,1,D,0,0,D
+FRA,25/10/2013,19:30,FC Nantes,Lille OSC,0,1,A,0,1,A
+FRA,26/10/2013,16:00,Olympique Marseille,Stade Reims,2,3,A,0,2,A
+FRA,26/10/2013,19:00,SC Bastia,OGC Nice,1,0,H,1,0,H
+FRA,26/10/2013,19:00,EA Guingamp,AC Ajaccio,2,1,H,0,1,A
+FRA,26/10/2013,19:00,FC Lorient,FC Sochaux,2,1,H,1,0,H
+FRA,26/10/2013,19:00,Toulouse FC,Stade Rennes,0,5,A,0,3,A
+FRA,26/10/2013,19:00,Valenciennes FC,Évian Thonon Gaillard,0,1,A,0,0,D
+FRA,27/10/2013,13:00,Girondins Bordeaux,Montpellier HSC,2,0,H,0,0,D
+FRA,27/10/2013,16:00,AS Monaco,Olympique Lyon,2,1,H,2,0,H
+FRA,27/10/2013,20:00,AS Saint-Étienne,Paris Saint-Germain,2,2,D,1,0,H
+FRA,01/11/2013,19:30,Paris Saint-Germain,FC Lorient,4,0,H,3,0,H
+FRA,02/11/2013,16:00,Stade Rennes,Olympique Marseille,1,1,D,1,1,D
+FRA,02/11/2013,19:00,AC Ajaccio,Valenciennes FC,1,3,A,1,1,D
+FRA,02/11/2013,19:00,Évian Thonon Gaillard,Toulouse FC,2,1,H,0,0,D
+FRA,02/11/2013,19:00,Olympique Lyon,EA Guingamp,2,0,H,2,0,H
+FRA,02/11/2013,19:00,Stade Reims,SC Bastia,4,2,H,2,0,H
+FRA,02/11/2013,19:00,FC Sochaux,AS Saint-Étienne,0,0,D,0,0,D
+FRA,03/11/2013,13:00,OGC Nice,Girondins Bordeaux,1,2,A,0,1,A
+FRA,03/11/2013,16:00,Montpellier HSC,FC Nantes,1,1,D,0,1,A
+FRA,03/11/2013,20:00,Lille OSC,AS Monaco,2,0,H,1,0,H
+FRA,08/11/2013,19:30,AS Monaco,Évian Thonon Gaillard,1,1,D,1,1,D
+FRA,09/11/2013,16:00,Paris Saint-Germain,OGC Nice,3,1,H,1,0,H
+FRA,09/11/2013,19:00,SC Bastia,Stade Rennes,1,0,H,1,0,H
+FRA,09/11/2013,19:00,EA Guingamp,Lille OSC,0,0,D,0,0,D
+FRA,09/11/2013,19:00,FC Lorient,Stade Reims,0,0,D,0,0,D
+FRA,09/11/2013,19:00,Toulouse FC,AC Ajaccio,1,1,D,1,1,D
+FRA,09/11/2013,19:00,Valenciennes FC,Montpellier HSC,1,1,D,1,0,H
+FRA,10/11/2013,13:00,Girondins Bordeaux,FC Nantes,0,3,A,0,1,A
+FRA,10/11/2013,16:00,Olympique Marseille,FC Sochaux,2,1,H,1,0,H
+FRA,10/11/2013,20:00,AS Saint-Étienne,Olympique Lyon,1,2,A,0,0,D
+FRA,22/11/2013,19:30,AC Ajaccio,Olympique Marseille,1,3,A,1,2,A
+FRA,23/11/2013,16:00,Stade Reims,Paris Saint-Germain,0,3,A,0,1,A
+FRA,23/11/2013,19:00,Évian Thonon Gaillard,FC Lorient,0,4,A,0,2,A
+FRA,23/11/2013,19:00,Olympique Lyon,Valenciennes FC,1,1,D,1,0,H
+FRA,23/11/2013,19:00,Montpellier HSC,EA Guingamp,1,1,D,0,0,D
+FRA,23/11/2013,19:00,Stade Rennes,Girondins Bordeaux,1,1,D,0,0,D
+FRA,23/11/2013,19:00,FC Sochaux,SC Bastia,1,1,D,0,1,A
+FRA,24/11/2013,13:00,Lille OSC,Toulouse FC,1,0,H,0,0,D
+FRA,24/11/2013,16:00,OGC Nice,AS Saint-Étienne,0,1,A,0,1,A
+FRA,24/11/2013,20:00,FC Nantes,AS Monaco,0,1,A,0,0,D
+FRA,29/11/2013,19:30,Olympique Marseille,Montpellier HSC,2,0,H,1,0,H
+FRA,30/11/2013,14:00,AS Saint-Étienne,Stade Reims,4,0,H,0,0,D
+FRA,30/11/2013,16:00,AS Monaco,Stade Rennes,2,0,H,2,0,H
+FRA,30/11/2013,19:00,EA Guingamp,FC Nantes,1,0,H,0,0,D
+FRA,30/11/2013,19:00,FC Lorient,OGC Nice,3,0,H,1,0,H
+FRA,30/11/2013,19:00,Toulouse FC,FC Sochaux,5,1,H,2,1,H
+FRA,30/11/2013,19:00,Valenciennes FC,Lille OSC,0,1,A,0,0,D
+FRA,01/12/2013,13:00,Girondins Bordeaux,AC Ajaccio,4,0,H,1,0,H
+FRA,01/12/2013,16:00,SC Bastia,Évian Thonon Gaillard,2,0,H,0,0,D
+FRA,01/12/2013,20:00,Paris Saint-Germain,Olympique Lyon,4,0,H,2,0,H
+FRA,03/12/2013,18:00,Lille OSC,Olympique Marseille,1,0,H,0,0,D
+FRA,03/12/2013,18:00,FC Nantes,Valenciennes FC,2,1,H,0,0,D
+FRA,03/12/2013,20:00,OGC Nice,AS Monaco,0,3,A,0,2,A
+FRA,04/12/2013,18:00,AC Ajaccio,SC Bastia,1,1,D,0,1,A
+FRA,04/12/2013,18:00,EA Guingamp,Girondins Bordeaux,0,1,A,0,1,A
+FRA,04/12/2013,18:00,Montpellier HSC,FC Lorient,0,2,A,0,0,D
+FRA,04/12/2013,18:00,Stade Rennes,AS Saint-Étienne,3,1,H,1,0,H
+FRA,04/12/2013,18:00,FC Sochaux,Stade Reims,0,2,A,0,1,A
+FRA,04/12/2013,20:00,Évian Thonon Gaillard,Paris Saint-Germain,2,0,H,0,0,D
+FRA,05/12/2013,20:00,Olympique Lyon,Toulouse FC,1,1,D,1,0,H
+FRA,06/12/2013,19:30,Olympique Marseille,FC Nantes,0,1,A,0,1,A
+FRA,07/12/2013,16:00,Paris Saint-Germain,FC Sochaux,5,0,H,1,0,H
+FRA,07/12/2013,19:00,FC Lorient,Stade Rennes,2,0,H,1,0,H
+FRA,07/12/2013,19:00,Stade Reims,OGC Nice,1,0,H,0,0,D
+FRA,07/12/2013,19:00,Valenciennes FC,EA Guingamp,1,1,D,1,0,H
+FRA,08/12/2013,13:00,Girondins Bordeaux,Lille OSC,1,0,H,1,0,H
+FRA,08/12/2013,16:00,SC Bastia,Olympique Lyon,1,3,A,1,0,H
+FRA,08/12/2013,16:00,Toulouse FC,Montpellier HSC,1,1,D,0,1,A
+FRA,08/12/2013,20:00,AS Monaco,AC Ajaccio,1,0,H,0,0,D
+FRA,08/01/2014,19:45,AS Saint-Étienne,Évian Thonon Gaillard,1,0,H,1,0,H
+FRA,13/12/2013,19:30,Montpellier HSC,AS Saint-Étienne,0,1,A,0,0,D
+FRA,14/12/2013,16:00,Stade Rennes,Paris Saint-Germain,1,3,A,0,1,A
+FRA,14/12/2013,19:00,AC Ajaccio,FC Lorient,1,2,A,1,1,D
+FRA,14/12/2013,19:00,Évian Thonon Gaillard,Stade Reims,1,1,D,0,0,D
+FRA,14/12/2013,19:00,EA Guingamp,AS Monaco,0,2,A,0,2,A
+FRA,14/12/2013,19:00,FC Nantes,Toulouse FC,1,2,A,0,0,D
+FRA,14/12/2013,19:00,OGC Nice,FC Sochaux,1,0,H,1,0,H
+FRA,15/12/2013,13:00,Girondins Bordeaux,Valenciennes FC,2,1,H,0,0,D
+FRA,15/12/2013,16:00,Lille OSC,SC Bastia,2,1,H,2,1,H
+FRA,15/12/2013,20:00,Olympique Lyon,Olympique Marseille,2,2,D,2,1,H
+FRA,20/12/2013,19:30,AS Monaco,Valenciennes FC,1,2,A,0,1,A
+FRA,21/12/2013,16:00,AS Saint-Étienne,FC Nantes,2,0,H,1,0,H
+FRA,21/12/2013,19:00,SC Bastia,Montpellier HSC,0,0,D,0,0,D
+FRA,21/12/2013,19:00,OGC Nice,Évian Thonon Gaillard,3,1,H,0,1,A
+FRA,21/12/2013,19:00,Stade Reims,AC Ajaccio,4,1,H,0,0,D
+FRA,21/12/2013,19:00,FC Sochaux,Stade Rennes,2,1,H,1,1,D
+FRA,21/12/2013,19:00,Toulouse FC,EA Guingamp,0,0,D,0,0,D
+FRA,22/12/2013,13:00,Olympique Marseille,Girondins Bordeaux,2,2,D,0,1,A
+FRA,22/12/2013,16:00,FC Lorient,Olympique Lyon,2,2,D,0,1,A
+FRA,22/12/2013,20:00,Paris Saint-Germain,Lille OSC,2,2,D,1,1,D
+FRA,10/01/2014,19:30,Montpellier HSC,AS Monaco,1,1,D,0,0,D
+FRA,11/01/2014,16:00,AC Ajaccio,Paris Saint-Germain,1,2,A,1,1,D
+FRA,11/01/2014,19:00,Girondins Bordeaux,Toulouse FC,0,1,A,0,0,D
+FRA,11/01/2014,19:00,EA Guingamp,AS Saint-Étienne,0,0,D,0,0,D
+FRA,11/01/2014,19:00,Olympique Lyon,FC Sochaux,2,0,H,0,0,D
+FRA,11/01/2014,19:00,Stade Rennes,OGC Nice,0,0,D,0,0,D
+FRA,11/01/2014,19:00,Valenciennes FC,SC Bastia,3,2,H,2,0,H
+FRA,12/01/2014,13:00,FC Nantes,FC Lorient,1,0,H,0,0,D
+FRA,12/01/2014,16:00,Évian Thonon Gaillard,Olympique Marseille,1,2,A,1,2,A
+FRA,12/01/2014,20:00,Lille OSC,Stade Reims,1,2,A,0,0,D
+FRA,17/01/2014,19:30,AS Saint-Étienne,Lille OSC,2,0,H,0,0,D
+FRA,18/01/2014,19:00,SC Bastia,Girondins Bordeaux,1,0,H,1,0,H
+FRA,18/01/2014,19:00,FC Lorient,EA Guingamp,2,0,H,2,0,H
+FRA,18/01/2014,19:00,OGC Nice,AC Ajaccio,2,0,H,1,0,H
+FRA,18/01/2014,19:00,Stade Rennes,Évian Thonon Gaillard,0,0,D,0,0,D
+FRA,18/01/2014,19:00,FC Sochaux,Montpellier HSC,0,2,A,0,1,A
+FRA,19/01/2014,13:00,Stade Reims,Olympique Lyon,0,2,A,0,1,A
+FRA,19/01/2014,16:00,Toulouse FC,AS Monaco,0,2,A,0,1,A
+FRA,19/01/2014,20:00,Paris Saint-Germain,FC Nantes,5,0,H,2,0,H
+FRA,29/01/2014,18:00,Olympique Marseille,Valenciennes FC,2,1,H,1,1,D
+FRA,24/01/2014,19:30,Lille OSC,Stade Rennes,1,1,D,1,1,D
+FRA,25/01/2014,16:00,EA Guingamp,Paris Saint-Germain,1,1,D,0,0,D
+FRA,25/01/2014,19:00,AC Ajaccio,FC Sochaux,1,1,D,1,0,H
+FRA,25/01/2014,19:00,Montpellier HSC,OGC Nice,3,1,H,1,0,H
+FRA,25/01/2014,19:00,FC Nantes,Stade Reims,0,0,D,0,0,D
+FRA,25/01/2014,19:00,Valenciennes FC,FC Lorient,1,1,D,0,1,A
+FRA,26/01/2014,13:00,Olympique Lyon,Évian Thonon Gaillard,3,0,H,2,0,H
+FRA,26/01/2014,16:00,Girondins Bordeaux,AS Saint-Étienne,2,0,H,1,0,H
+FRA,26/01/2014,20:00,AS Monaco,Olympique Marseille,2,0,H,1,0,H
+FRA,11/02/2014,19:30,Toulouse FC,SC Bastia,1,3,A,1,2,A
+FRA,31/01/2014,19:30,Paris Saint-Germain,Girondins Bordeaux,2,0,H,0,0,D
+FRA,01/02/2014,15:30,FC Lorient,AS Monaco,2,2,D,1,1,D
+FRA,01/02/2014,19:00,SC Bastia,EA Guingamp,3,2,H,0,0,D
+FRA,01/02/2014,19:00,Évian Thonon Gaillard,AC Ajaccio,1,1,D,0,0,D
+FRA,01/02/2014,19:00,Stade Reims,Montpellier HSC,2,4,A,0,1,A
+FRA,01/02/2014,19:00,AS Saint-Étienne,Valenciennes FC,3,0,H,1,0,H
+FRA,01/02/2014,19:00,FC Sochaux,FC Nantes,1,0,H,1,0,H
+FRA,02/02/2014,13:00,OGC Nice,Lille OSC,1,0,H,1,0,H
+FRA,02/02/2014,16:00,Stade Rennes,Olympique Lyon,2,0,H,1,0,H
+FRA,02/02/2014,20:00,Olympique Marseille,Toulouse FC,2,2,D,2,1,H
+FRA,07/02/2014,19:30,Toulouse FC,AS Saint-Étienne,0,0,D,0,0,D
+FRA,08/02/2014,16:00,Olympique Marseille,SC Bastia,3,0,H,2,0,H
+FRA,08/02/2014,19:00,AC Ajaccio,Stade Rennes,3,1,H,2,1,H
+FRA,08/02/2014,19:00,EA Guingamp,Stade Reims,1,2,A,0,0,D
+FRA,08/02/2014,19:00,Lille OSC,FC Sochaux,2,0,H,1,0,H
+FRA,08/02/2014,19:00,Montpellier HSC,Évian Thonon Gaillard,1,1,D,1,1,D
+FRA,08/02/2014,19:00,Valenciennes FC,OGC Nice,2,1,H,1,0,H
+FRA,09/02/2014,13:00,FC Nantes,Olympique Lyon,1,2,A,0,1,A
+FRA,09/02/2014,20:00,AS Monaco,Paris Saint-Germain,1,1,D,0,1,A
+FRA,25/02/2014,17:30,Girondins Bordeaux,FC Lorient,3,2,H,2,1,H
+FRA,14/02/2014,19:30,Paris Saint-Germain,Valenciennes FC,3,0,H,1,0,H
+FRA,15/02/2014,16:00,SC Bastia,AS Monaco,0,2,A,0,1,A
+FRA,15/02/2014,19:00,FC Lorient,Toulouse FC,1,3,A,1,0,H
+FRA,15/02/2014,19:00,OGC Nice,FC Nantes,0,0,D,0,0,D
+FRA,15/02/2014,19:00,Stade Reims,Girondins Bordeaux,1,0,H,0,0,D
+FRA,15/02/2014,19:00,Stade Rennes,Montpellier HSC,2,2,D,1,0,H
+FRA,15/02/2014,19:00,FC Sochaux,EA Guingamp,1,0,H,0,0,D
+FRA,16/02/2014,13:00,Olympique Lyon,AC Ajaccio,3,1,H,1,0,H
+FRA,16/02/2014,16:00,Évian Thonon Gaillard,Lille OSC,2,2,D,1,1,D
+FRA,16/02/2014,20:00,AS Saint-Étienne,Olympique Marseille,1,1,D,0,0,D
+FRA,21/02/2014,19:30,AS Monaco,Stade Reims,3,2,H,1,0,H
+FRA,22/02/2014,16:00,Olympique Marseille,FC Lorient,1,0,H,0,0,D
+FRA,22/02/2014,19:00,SC Bastia,AS Saint-Étienne,0,2,A,0,1,A
+FRA,22/02/2014,19:00,Girondins Bordeaux,Évian Thonon Gaillard,2,1,H,0,0,D
+FRA,22/02/2014,19:00,EA Guingamp,OGC Nice,1,0,H,0,0,D
+FRA,22/02/2014,19:00,Montpellier HSC,AC Ajaccio,2,0,H,0,0,D
+FRA,22/02/2014,19:00,Valenciennes FC,FC Sochaux,2,2,D,0,0,D
+FRA,23/02/2014,13:00,Toulouse FC,Paris Saint-Germain,2,4,A,1,1,D
+FRA,23/02/2014,16:00,FC Nantes,Stade Rennes,0,3,A,0,1,A
+FRA,23/02/2014,20:00,Lille OSC,Olympique Lyon,0,0,D,0,0,D
+FRA,28/02/2014,19:30,Évian Thonon Gaillard,FC Nantes,2,0,H,0,0,D
+FRA,01/03/2014,16:00,AS Saint-Étienne,AS Monaco,2,0,H,1,0,H
+FRA,01/03/2014,19:00,FC Lorient,SC Bastia,1,1,D,1,0,H
+FRA,01/03/2014,19:00,OGC Nice,Toulouse FC,0,2,A,0,0,D
+FRA,01/03/2014,19:00,Stade Reims,Valenciennes FC,3,1,H,2,0,H
+FRA,01/03/2014,19:00,Stade Rennes,EA Guingamp,0,2,A,0,1,A
+FRA,01/03/2014,19:00,FC Sochaux,Girondins Bordeaux,2,0,H,0,0,D
+FRA,02/03/2014,13:00,AC Ajaccio,Lille OSC,2,3,A,2,2,D
+FRA,02/03/2014,16:00,Olympique Lyon,Montpellier HSC,0,0,D,0,0,D
+FRA,02/03/2014,20:00,Paris Saint-Germain,Olympique Marseille,2,0,H,0,0,D
+FRA,07/03/2014,19:30,Olympique Marseille,OGC Nice,0,1,A,0,0,D
+FRA,08/03/2014,15:30,SC Bastia,Paris Saint-Germain,0,3,A,0,2,A
+FRA,08/03/2014,19:00,EA Guingamp,Évian Thonon Gaillard,0,1,A,0,0,D
+FRA,08/03/2014,19:00,AS Monaco,FC Sochaux,2,1,H,1,0,H
+FRA,08/03/2014,19:00,FC Nantes,AC Ajaccio,2,2,D,1,1,D
+FRA,08/03/2014,19:00,Toulouse FC,Stade Reims,3,2,H,0,2,A
+FRA,08/03/2014,19:00,Valenciennes FC,Stade Rennes,2,1,H,0,0,D
+FRA,09/03/2014,13:00,Lille OSC,Montpellier HSC,2,0,H,1,0,H
+FRA,09/03/2014,16:00,FC Lorient,AS Saint-Étienne,1,0,H,0,0,D
+FRA,09/03/2014,20:00,Girondins Bordeaux,Olympique Lyon,1,2,A,1,0,H
+FRA,14/03/2014,19:30,Stade Reims,Olympique Marseille,1,1,D,0,0,D
+FRA,15/03/2014,15:30,Lille OSC,FC Nantes,0,0,D,0,0,D
+FRA,15/03/2014,19:00,AC Ajaccio,EA Guingamp,1,2,A,1,1,D
+FRA,15/03/2014,19:00,Évian Thonon Gaillard,Valenciennes FC,0,1,A,0,0,D
+FRA,15/03/2014,19:00,OGC Nice,SC Bastia,2,0,H,1,0,H
+FRA,15/03/2014,19:00,Stade Rennes,Toulouse FC,2,3,A,0,2,A
+FRA,15/03/2014,19:00,FC Sochaux,FC Lorient,2,0,H,1,0,H
+FRA,16/03/2014,13:00,Montpellier HSC,Girondins Bordeaux,1,1,D,1,1,D
+FRA,16/03/2014,16:00,Olympique Lyon,AS Monaco,2,3,A,1,2,A
+FRA,16/03/2014,20:00,Paris Saint-Germain,AS Saint-Étienne,2,0,H,2,0,H
+FRA,21/03/2014,19:30,FC Lorient,Paris Saint-Germain,0,1,A,0,1,A
+FRA,22/03/2014,16:00,Olympique Marseille,Stade Rennes,0,1,A,0,0,D
+FRA,22/03/2014,19:00,SC Bastia,Stade Reims,2,0,H,2,0,H
+FRA,22/03/2014,19:00,Girondins Bordeaux,OGC Nice,1,1,D,0,0,D
+FRA,22/03/2014,19:00,FC Nantes,Montpellier HSC,2,1,H,2,1,H
+FRA,22/03/2014,19:00,Toulouse FC,Évian Thonon Gaillard,1,1,D,0,0,D
+FRA,22/03/2014,19:00,Valenciennes FC,AC Ajaccio,2,3,A,0,0,D
+FRA,23/03/2014,13:00,AS Saint-Étienne,FC Sochaux,3,1,H,0,0,D
+FRA,23/03/2014,16:00,EA Guingamp,Olympique Lyon,0,1,A,0,0,D
+FRA,23/03/2014,20:00,AS Monaco,Lille OSC,1,1,D,1,1,D
+FRA,28/03/2014,19:30,OGC Nice,Paris Saint-Germain,0,1,A,0,0,D
+FRA,29/03/2014,16:00,FC Sochaux,Olympique Marseille,1,1,D,1,0,H
+FRA,29/03/2014,19:00,AC Ajaccio,Toulouse FC,2,2,D,2,1,H
+FRA,29/03/2014,19:00,Évian Thonon Gaillard,AS Monaco,1,0,H,0,0,D
+FRA,29/03/2014,19:00,Montpellier HSC,Valenciennes FC,0,0,D,0,0,D
+FRA,29/03/2014,19:00,FC Nantes,Girondins Bordeaux,0,0,D,0,0,D
+FRA,29/03/2014,19:00,Stade Reims,FC Lorient,1,1,D,0,1,A
+FRA,30/03/2014,13:00,Stade Rennes,SC Bastia,3,0,H,2,0,H
+FRA,30/03/2014,16:00,Lille OSC,EA Guingamp,1,0,H,0,0,D
+FRA,30/03/2014,20:00,Olympique Lyon,AS Saint-Étienne,1,2,A,1,1,D
+FRA,04/04/2014,19:30,Olympique Marseille,AC Ajaccio,3,1,H,1,0,H
+FRA,05/04/2014,16:00,Paris Saint-Germain,Stade Reims,3,0,H,1,0,H
+FRA,05/04/2014,19:00,SC Bastia,FC Sochaux,2,2,D,0,2,A
+FRA,05/04/2014,19:00,Girondins Bordeaux,Stade Rennes,2,2,D,1,0,H
+FRA,05/04/2014,19:00,EA Guingamp,Montpellier HSC,1,2,A,0,2,A
+FRA,05/04/2014,19:00,FC Lorient,Évian Thonon Gaillard,1,1,D,1,0,H
+FRA,05/04/2014,19:00,Toulouse FC,Lille OSC,1,2,A,0,2,A
+FRA,06/04/2014,13:00,AS Saint-Étienne,OGC Nice,1,1,D,0,0,D
+FRA,06/04/2014,16:00,Valenciennes FC,Olympique Lyon,1,2,A,0,1,A
+FRA,06/04/2014,20:00,AS Monaco,FC Nantes,3,1,H,1,0,H
+FRA,11/04/2014,19:30,Montpellier HSC,Olympique Marseille,2,3,A,0,1,A
+FRA,12/04/2014,16:00,Lille OSC,Valenciennes FC,1,0,H,0,0,D
+FRA,12/04/2014,19:00,AC Ajaccio,Girondins Bordeaux,1,1,D,0,0,D
+FRA,12/04/2014,19:00,Évian Thonon Gaillard,SC Bastia,2,1,H,1,1,D
+FRA,12/04/2014,19:00,OGC Nice,FC Lorient,1,2,A,1,1,D
+FRA,12/04/2014,19:00,Stade Rennes,AS Monaco,0,1,A,0,0,D
+FRA,12/04/2014,19:00,FC Sochaux,Toulouse FC,2,0,H,1,0,H
+FRA,13/04/2014,13:00,FC Nantes,EA Guingamp,1,0,H,1,0,H
+FRA,13/04/2014,16:00,Stade Reims,AS Saint-Étienne,2,2,D,1,0,H
+FRA,13/04/2014,20:00,Olympique Lyon,Paris Saint-Germain,1,0,H,1,0,H
+FRA,18/04/2014,19:30,AS Saint-Étienne,Stade Rennes,0,0,D,0,0,D
+FRA,20/04/2014,13:00,AS Monaco,OGC Nice,1,0,H,1,0,H
+FRA,20/04/2014,16:00,SC Bastia,AC Ajaccio,2,1,H,1,1,D
+FRA,20/04/2014,16:00,Girondins Bordeaux,EA Guingamp,5,1,H,3,1,H
+FRA,20/04/2014,16:00,FC Lorient,Montpellier HSC,4,4,D,1,1,D
+FRA,20/04/2014,16:00,Stade Reims,FC Sochaux,0,1,A,0,1,A
+FRA,20/04/2014,16:00,Valenciennes FC,FC Nantes,2,6,A,0,3,A
+FRA,20/04/2014,20:00,Olympique Marseille,Lille OSC,0,0,D,0,0,D
+FRA,23/04/2014,17:30,Paris Saint-Germain,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,23/04/2014,17:30,Toulouse FC,Olympique Lyon,0,0,D,0,0,D
+FRA,25/04/2014,19:30,FC Nantes,Olympique Marseille,1,1,D,0,1,A
+FRA,26/04/2014,16:00,AC Ajaccio,AS Monaco,1,4,A,0,0,D
+FRA,26/04/2014,19:00,Évian Thonon Gaillard,AS Saint-Étienne,1,2,A,0,2,A
+FRA,26/04/2014,19:00,EA Guingamp,Valenciennes FC,1,0,H,0,0,D
+FRA,26/04/2014,19:00,Montpellier HSC,Toulouse FC,2,1,H,0,1,A
+FRA,26/04/2014,19:00,OGC Nice,Stade Reims,1,0,H,0,0,D
+FRA,26/04/2014,19:00,Stade Rennes,FC Lorient,1,1,D,0,1,A
+FRA,27/04/2014,13:00,FC Sochaux,Paris Saint-Germain,1,1,D,0,1,A
+FRA,27/04/2014,16:00,Olympique Lyon,SC Bastia,4,1,H,2,0,H
+FRA,27/04/2014,20:00,Lille OSC,Girondins Bordeaux,2,1,H,1,0,H
+FRA,02/05/2014,19:30,SC Bastia,Lille OSC,1,1,D,0,1,A
+FRA,04/05/2014,13:00,AS Saint-Étienne,Montpellier HSC,2,0,H,0,0,D
+FRA,04/05/2014,16:00,FC Lorient,AC Ajaccio,1,0,H,1,0,H
+FRA,04/05/2014,16:00,Stade Reims,Évian Thonon Gaillard,1,0,H,1,0,H
+FRA,04/05/2014,16:00,FC Sochaux,OGC Nice,2,0,H,1,0,H
+FRA,04/05/2014,16:00,Toulouse FC,FC Nantes,1,1,D,0,1,A
+FRA,04/05/2014,16:00,Valenciennes FC,Girondins Bordeaux,0,1,A,0,0,D
+FRA,04/05/2014,20:00,Olympique Marseille,Olympique Lyon,4,2,H,2,1,H
+FRA,07/05/2014,18:00,AS Monaco,EA Guingamp,1,1,D,0,0,D
+FRA,07/05/2014,20:00,Paris Saint-Germain,Stade Rennes,1,2,A,1,2,A
+FRA,10/05/2014,20:00,AC Ajaccio,Stade Reims,2,1,H,2,1,H
+FRA,10/05/2014,20:00,Girondins Bordeaux,Olympique Marseille,1,1,D,0,1,A
+FRA,10/05/2014,20:00,Évian Thonon Gaillard,OGC Nice,2,0,H,1,0,H
+FRA,10/05/2014,20:00,EA Guingamp,Toulouse FC,2,0,H,2,0,H
+FRA,10/05/2014,20:00,Lille OSC,Paris Saint-Germain,1,3,A,0,1,A
+FRA,10/05/2014,20:00,Olympique Lyon,FC Lorient,0,1,A,0,0,D
+FRA,10/05/2014,20:00,Montpellier HSC,SC Bastia,0,2,A,0,1,A
+FRA,10/05/2014,20:00,FC Nantes,AS Saint-Étienne,1,3,A,0,3,A
+FRA,10/05/2014,20:00,Stade Rennes,FC Sochaux,1,2,A,0,1,A
+FRA,10/05/2014,20:00,Valenciennes FC,AS Monaco,1,2,A,0,1,A
+FRA,17/05/2014,20:00,SC Bastia,FC Nantes,0,0,D,0,0,D
+FRA,17/05/2014,20:00,FC Lorient,Lille OSC,1,4,A,1,1,D
+FRA,17/05/2014,20:00,Olympique Marseille,EA Guingamp,1,0,H,0,0,D
+FRA,17/05/2014,20:00,AS Monaco,Girondins Bordeaux,1,1,D,0,1,A
+FRA,17/05/2014,20:00,OGC Nice,Olympique Lyon,0,1,A,0,1,A
+FRA,17/05/2014,20:00,Paris Saint-Germain,Montpellier HSC,4,0,H,2,0,H
+FRA,17/05/2014,20:00,Stade Reims,Stade Rennes,1,3,A,0,1,A
+FRA,17/05/2014,20:00,AS Saint-Étienne,AC Ajaccio,3,1,H,2,0,H
+FRA,17/05/2014,20:00,FC Sochaux,Évian Thonon Gaillard,0,3,A,0,2,A
+FRA,17/05/2014,20:00,Toulouse FC,Valenciennes FC,3,1,H,2,0,H

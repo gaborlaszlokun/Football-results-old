@@ -1,0 +1,88 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHN,03/03/2017,11:35,Guizhou Zhicheng,Liáoníng Hóngyùn,1,1,D,0,1,A
+CHN,04/03/2017,07:30,Guangzhou R&F;,Tianjin Quanjian FC,2,0,H,1,0,H
+CHN,04/03/2017,11:35,Shandong Luneng,Tianjin Teda,2,0,H,0,0,D
+CHN,04/03/2017,11:35,Shanghai SIPG,Changchun Yatai,5,1,H,2,1,H
+CHN,05/03/2017,07:30,Chongqing Lifan,Yanbian FC,0,0,D,0,0,D
+CHN,05/03/2017,11:35,Guangzhou Evergrande,Beijing Guoan,2,1,H,1,1,D
+CHN,05/03/2017,11:35,Henan Jianye,Hebei China Fortune FC,0,0,D,0,0,D
+CHN,05/03/2017,11:35,Shanghai Greenland,Jiangsu Suning,4,0,H,2,0,H
+CHN,10/03/2017,11:35,Jiangsu Suning,Tianjin Teda,0,0,D,0,0,D
+CHN,10/03/2017,11:35,Shanghai SIPG,Yanbian FC,2,0,H,1,0,H
+CHN,10/03/2017,11:35,Shandong Luneng,Guangzhou Evergrande,2,1,H,0,1,A
+CHN,11/03/2017,07:30,Guizhou Zhicheng,Beijing Guoan,1,1,D,1,1,D
+CHN,11/03/2017,07:30,Chongqing Lifan,Hebei China Fortune FC,1,1,D,1,1,D
+CHN,11/03/2017,11:35,Shanghai Greenland,Tianjin Quanjian FC,1,1,D,0,0,D
+CHN,12/03/2017,07:30,Guangzhou R&F;,Changchun Yatai,1,0,H,0,0,D
+CHN,12/03/2017,11:35,Henan Jianye,Liáoníng Hóngyùn,1,1,D,0,0,D
+CHN,01/04/2017,08:30,Yanbian FC,Guangzhou R&F;,0,1,A,0,0,D
+CHN,01/04/2017,12:35,Hebei China Fortune FC,Guizhou Zhicheng,1,0,H,1,0,H
+CHN,01/04/2017,12:35,Tianjin Quanjian FC,Henan Jianye,1,0,H,1,0,H
+CHN,01/04/2017,12:35,Guangzhou Evergrande,Shanghai SIPG,3,2,H,2,0,H
+CHN,02/04/2017,08:00,Changchun Yatai,Shandong Luneng,0,2,A,0,0,D
+CHN,02/04/2017,08:30,Liáoníng Hóngyùn,Jiangsu Suning,3,1,H,1,1,D
+CHN,02/04/2017,12:35,Tianjin Teda,Chongqing Lifan,2,0,H,0,0,D
+CHN,02/04/2017,12:35,Beijing Guoan,Shanghai Greenland,2,1,H,1,1,D
+CHN,07/04/2017,12:35,Beijing Guoan,Henan Jianye,1,0,H,0,0,D
+CHN,07/04/2017,12:35,Jiangsu Suning,Chongqing Lifan,1,2,A,0,0,D
+CHN,07/04/2017,12:35,Shanghai SIPG,Shandong Luneng,2,1,H,1,0,H
+CHN,08/04/2017,08:30,Guizhou Zhicheng,Tianjin Teda,0,0,D,0,0,D
+CHN,08/04/2017,12:35,Guangzhou Evergrande,Guangzhou R&F;,2,2,D,1,1,D
+CHN,08/04/2017,12:35,Hebei China Fortune FC,Shanghai Greenland,4,2,H,3,1,H
+CHN,09/04/2017,08:00,Changchun Yatai,Liáoníng Hóngyùn,1,1,D,0,0,D
+CHN,09/04/2017,12:35,Tianjin Quanjian FC,Yanbian FC,1,0,H,0,0,D
+CHN,14/04/2017,12:35,Chongqing Lifan,Guizhou Zhicheng,2,1,H,1,0,H
+CHN,15/04/2017,08:00,Shanghai Greenland,Changchun Yatai,3,2,H,1,1,D
+CHN,15/04/2017,12:35,Henan Jianye,Jiangsu Suning,1,1,D,1,0,H
+CHN,15/04/2017,12:35,Tianjin Quanjian FC,Shanghai SIPG,1,1,D,0,1,A
+CHN,15/04/2017,12:35,Shandong Luneng,Beijing Guoan,1,0,H,1,0,H
+CHN,16/04/2017,08:30,Yanbian FC,Hebei China Fortune FC,1,1,D,0,0,D
+CHN,16/04/2017,12:35,Tianjin Teda,Guangzhou Evergrande,0,3,A,0,1,A
+CHN,17/04/2017,08:30,Guangzhou R&F;,Liáoníng Hóngyùn,4,1,H,1,1,D
+CHN,21/04/2017,12:35,Beijing Guoan,Tianjin Quanjian FC,1,1,D,0,1,A
+CHN,21/04/2017,12:35,Guangzhou Evergrande,Liáoníng Hóngyùn,2,1,H,0,0,D
+CHN,21/04/2017,12:35,Shanghai SIPG,Hebei China Fortune FC,3,0,H,2,0,H
+CHN,21/04/2017,12:35,Jiangsu Suning,Guangzhou R&F;,1,2,A,1,0,H
+CHN,22/04/2017,08:30,Tianjin Teda,Yanbian FC,3,1,H,0,0,D
+CHN,22/04/2017,12:35,Guizhou Zhicheng,Shanghai Greenland,0,2,A,0,2,A
+CHN,23/04/2017,08:00,Changchun Yatai,Henan Jianye,1,0,H,0,0,D
+CHN,23/04/2017,12:35,Shandong Luneng,Chongqing Lifan,1,1,D,0,1,A
+CHN,28/04/2017,12:35,Guangzhou R&F;,Guizhou Zhicheng,1,3,A,1,1,D
+CHN,29/04/2017,08:30,Liáoníng Hóngyùn,Beijing Guoan,2,4,A,0,1,A
+CHN,29/04/2017,08:30,Yanbian FC,Changchun Yatai,1,0,H,0,0,D
+CHN,29/04/2017,08:30,Tianjin Quanjian FC,Jiangsu Suning,2,2,D,1,1,D
+CHN,29/04/2017,12:35,Hebei China Fortune FC,Tianjin Teda,4,0,H,4,0,H
+CHN,29/04/2017,12:35,Henan Jianye,Guangzhou Evergrande,2,4,A,1,3,A
+CHN,30/04/2017,12:35,Chongqing Lifan,Shanghai SIPG,1,1,D,0,0,D
+CHN,05/05/2017,12:35,Jiangsu Suning,Yanbian FC,1,1,D,0,1,A
+CHN,05/05/2017,12:35,Guangzhou Evergrande,Shanghai Greenland,3,2,H,1,2,A
+CHN,06/05/2017,08:30,Tianjin Quanjian FC,Changchun Yatai,1,3,A,1,2,A
+CHN,06/05/2017,12:35,Shanghai SIPG,Guizhou Zhicheng,3,0,H,1,0,H
+CHN,06/05/2017,12:35,Chongqing Lifan,Henan Jianye,2,3,A,0,2,A
+CHN,07/05/2017,08:30,Tianjin Teda,Liáoníng Hóngyùn,1,1,D,0,0,D
+CHN,07/05/2017,12:35,Beijing Guoan,Hebei China Fortune FC,1,4,A,1,2,A
+CHN,07/05/2017,12:35,Shandong Luneng,Guangzhou R&F;,3,0,H,2,0,H
+CHN,12/05/2017,12:35,Guangzhou R&F;,Hebei China Fortune FC,1,1,D,0,0,D
+CHN,13/05/2017,08:30,Liáoníng Hóngyùn,Chongqing Lifan,2,1,H,1,0,H
+CHN,13/05/2017,08:30,Yanbian FC,Beijing Guoan,1,2,A,1,1,D
+CHN,13/05/2017,12:35,Henan Jianye,Shanghai Greenland,0,0,D,0,0,D
+CHN,13/05/2017,12:35,Guizhou Zhicheng,Tianjin Quanjian FC,2,1,H,1,0,H
+CHN,14/05/2017,08:00,Changchun Yatai,Guangzhou Evergrande,0,1,A,0,0,D
+CHN,14/05/2017,12:35,Jiangsu Suning,Shandong Luneng,2,1,H,0,1,A
+CHN,14/05/2017,12:35,Tianjin Teda,Shanghai SIPG,0,1,A,0,1,A
+CHN,19/05/2017,11:00,Beijing Guoan,Guangzhou R&F;,2,2,D,0,0,D
+CHN,19/05/2017,13:00,Guangzhou Evergrande,Jiangsu Suning,2,1,H,2,0,H
+CHN,20/05/2017,08:30,Yanbian FC,Shandong Luneng,1,1,D,1,1,D
+CHN,20/05/2017,08:30,Shanghai Greenland,Shanghai SIPG,1,3,A,1,1,D
+CHN,20/05/2017,12:35,Hebei China Fortune FC,Liáoníng Hóngyùn,2,0,H,1,0,H
+CHN,20/05/2017,12:35,Chongqing Lifan,Tianjin Quanjian FC,0,1,A,0,1,A
+CHN,21/05/2017,08:30,Changchun Yatai,Tianjin Teda,1,1,D,1,0,H
+CHN,21/05/2017,12:35,Henan Jianye,Guizhou Zhicheng,0,1,A,0,0,D
+CHN,26/05/2017,11:00,Guangzhou Evergrande,Chongqing Lifan,2,0,H,1,0,H
+CHN,26/05/2017,13:00,Guangzhou R&F;,Shanghai Greenland,0,0,D,0,0,D
+CHN,27/05/2017,08:30,Liáoníng Hóngyùn,Yanbian FC,3,1,H,1,0,H
+CHN,27/05/2017,08:30,Guizhou Zhicheng,Jiangsu Suning,2,2,D,0,1,A
+CHN,27/05/2017,12:35,Hebei China Fortune FC,Changchun Yatai,2,1,H,1,0,H
+CHN,27/05/2017,12:35,Tianjin Quanjian FC,Tianjin Teda,3,0,H,1,0,H
+CHN,27/05/2017,12:35,Shanghai SIPG,Beijing Guoan,5,1,H,1,0,H
+CHN,28/05/2017,12:35,Shandong Luneng,Henan Jianye,3,2,H,1,1,D

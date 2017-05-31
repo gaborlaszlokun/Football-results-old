@@ -1,0 +1,53 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROU,10/03/2017,18:30,FC Botoşani,ACS Poli Timişoara,1,2,A,1,1,D
+ROU,11/03/2017,16:00,CSMS Iaşi,Concordia Chiajna,3,1,H,2,0,H
+ROU,12/03/2017,11:30,FC Voluntari,Pandurii Târgu Jiu,1,1,D,1,1,D
+ROU,13/03/2017,16:00,Gaz Metan Mediaş,ASA Târgu Mureş,2,0,H,0,0,D
+ROU,18/03/2017,16:00,ASA Târgu Mureş,Concordia Chiajna,2,1,H,1,0,H
+ROU,19/03/2017,16:00,Gaz Metan Mediaş,FC Botoşani,0,0,D,0,0,D
+ROU,20/03/2017,16:00,ACS Poli Timişoara,FC Voluntari,1,0,H,0,0,D
+ROU,20/03/2017,18:30,Pandurii Târgu Jiu,CSMS Iaşi,0,0,D,0,0,D
+ROU,31/03/2017,16:00,Concordia Chiajna,Pandurii Târgu Jiu,0,1,A,0,0,D
+ROU,31/03/2017,18:30,FC Botoşani,ASA Târgu Mureş,2,0,H,0,0,D
+ROU,01/04/2017,16:00,CSMS Iaşi,ACS Poli Timişoara,1,0,H,0,0,D
+ROU,02/04/2017,13:00,FC Voluntari,Gaz Metan Mediaş,2,2,D,1,1,D
+ROU,04/04/2017,16:00,ASA Târgu Mureş,Pandurii Târgu Jiu,0,0,D,0,0,D
+ROU,04/04/2017,18:30,ACS Poli Timişoara,Concordia Chiajna,0,0,D,0,0,D
+ROU,05/04/2017,14:00,FC Botoşani,FC Voluntari,3,0,H,1,0,H
+ROU,05/04/2017,16:30,Gaz Metan Mediaş,CSMS Iaşi,0,2,A,0,1,A
+ROU,07/04/2017,15:30,Pandurii Târgu Jiu,ACS Poli Timişoara,1,3,A,1,0,H
+ROU,08/04/2017,12:30,FC Voluntari,ASA Târgu Mureş,2,1,H,1,0,H
+ROU,08/04/2017,18:30,CSMS Iaşi,FC Botoşani,2,1,H,2,0,H
+ROU,10/04/2017,16:00,Concordia Chiajna,Gaz Metan Mediaş,1,1,D,0,0,D
+ROU,14/04/2017,18:00,FC Botoşani,Concordia Chiajna,1,1,D,1,0,H
+ROU,15/04/2017,13:30,ASA Târgu Mureş,ACS Poli Timişoara,0,0,D,0,0,D
+ROU,16/04/2017,13:30,Gaz Metan Mediaş,Pandurii Târgu Jiu,3,1,H,0,1,A
+ROU,17/04/2017,15:30,FC Voluntari,CSMS Iaşi,0,0,D,0,0,D
+ROU,20/04/2017,16:00,ACS Poli Timişoara,Gaz Metan Mediaş,1,0,H,0,0,D
+ROU,21/04/2017,16:00,Concordia Chiajna,FC Voluntari,0,2,A,0,2,A
+ROU,21/04/2017,18:30,Pandurii Târgu Jiu,FC Botoşani,1,1,D,0,1,A
+ROU,24/04/2017,16:00,CSMS Iaşi,ASA Târgu Mureş,0,0,D,0,0,D
+ROU,28/04/2017,18:30,Concordia Chiajna,CSMS Iaşi,0,0,D,0,0,D
+ROU,29/04/2017,13:00,ASA Târgu Mureş,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,30/04/2017,16:00,Pandurii Târgu Jiu,FC Voluntari,1,3,A,0,2,A
+ROU,01/05/2017,15:30,ACS Poli Timişoara,FC Botoşani,1,1,D,1,0,H
+ROU,05/05/2017,16:00,FC Voluntari,ACS Poli Timişoara,2,1,H,1,1,D
+ROU,05/05/2017,18:30,Concordia Chiajna,ASA Târgu Mureş,2,0,H,0,0,D
+ROU,07/05/2017,11:30,FC Botoşani,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,08/05/2017,16:00,CSMS Iaşi,Pandurii Târgu Jiu,3,0,H,1,0,H
+ROU,12/05/2017,18:30,Gaz Metan Mediaş,FC Voluntari,4,1,H,0,0,D
+ROU,14/05/2017,16:00,ACS Poli Timişoara,CSMS Iaşi,1,1,D,0,1,A
+ROU,15/05/2017,16:00,ASA Târgu Mureş,FC Botoşani,0,2,A,0,2,A
+ROU,15/05/2017,18:30,Pandurii Târgu Jiu,Concordia Chiajna,3,2,H,0,1,A
+ROU,10/05/2017,15:30,Concordia Chiajna,ACS Poli Timişoara,3,1,H,1,0,H
+ROU,19/05/2017,16:00,Pandurii Târgu Jiu,ASA Târgu Mureş,1,0,H,0,0,D
+ROU,19/05/2017,18:30,CSMS Iaşi,Gaz Metan Mediaş,1,0,H,1,0,H
+ROU,21/05/2017,11:00,FC Voluntari,FC Botoşani,1,0,H,1,0,H
+ROU,23/05/2017,16:00,Gaz Metan Mediaş,Concordia Chiajna,3,0,H,1,0,H
+ROU,23/05/2017,18:30,ACS Poli Timişoara,Pandurii Târgu Jiu,0,1,A,0,1,A
+ROU,24/05/2017,16:00,ASA Târgu Mureş,FC Voluntari,0,2,A,0,0,D
+ROU,25/05/2017,18:30,FC Botoşani,CSMS Iaşi,0,1,A,0,0,D
+ROU,26/05/2017,18:30,Pandurii Târgu Jiu,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,28/05/2017,18:30,ACS Poli Timişoara,ASA Târgu Mureş,3,1,H,2,0,H
+ROU,29/05/2017,18:30,Concordia Chiajna,FC Botoşani,2,1,H,0,1,A
+ROU,31/05/2017,19:00,CSMS Iaşi,FC Voluntari,0,0,D,NaN,NaN,NaN

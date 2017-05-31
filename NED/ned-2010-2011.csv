@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NED,06/08/2010,19:45,Roda JC Kerkrade,FC Twente,0,0,D,0,0,D
+NED,07/08/2010,17:45,NEC Nijmegen,VVV-Venlo,1,0,H,0,0,D
+NED,07/08/2010,18:45,Heracles Almelo,Willem II,3,0,H,1,0,H
+NED,07/08/2010,18:45,De Graafschap,SBV Excelsior,3,0,H,1,0,H
+NED,07/08/2010,19:45,sc Heerenveen,PSV Eindhoven,1,3,A,0,0,D
+NED,08/08/2010,13:30,Vitesse,ADO Den Haag,3,1,H,1,1,D
+NED,08/08/2010,13:30,Feyenoord,FC Utrecht,3,1,H,0,1,A
+NED,08/08/2010,13:30,FC Groningen,AFC Ajax,2,2,D,0,0,D
+NED,08/08/2010,15:30,NAC Breda,AZ Alkmaar,1,1,D,0,0,D
+NED,14/08/2010,17:45,AFC Ajax,Vitesse,4,2,H,2,2,D
+NED,14/08/2010,18:45,PSV Eindhoven,De Graafschap,6,0,H,2,0,H
+NED,14/08/2010,18:45,VVV-Venlo,Heracles Almelo,1,0,H,1,0,H
+NED,14/08/2010,18:45,AZ Alkmaar,FC Groningen,1,1,D,0,0,D
+NED,14/08/2010,19:45,FC Twente,sc Heerenveen,0,0,D,0,0,D
+NED,15/08/2010,11:30,SBV Excelsior,Feyenoord,3,2,H,1,1,D
+NED,15/08/2010,13:30,FC Utrecht,NAC Breda,3,1,H,1,1,D
+NED,15/08/2010,13:30,Willem II,NEC Nijmegen,3,5,A,2,1,H
+NED,15/08/2010,13:30,ADO Den Haag,Roda JC Kerkrade,1,3,A,1,2,A
+NED,20/08/2010,19:45,SBV Excelsior,NEC Nijmegen,4,2,H,0,1,A
+NED,21/08/2010,17:45,Vitesse,FC Twente,0,3,A,0,0,D
+NED,21/08/2010,18:45,FC Groningen,De Graafschap,2,1,H,2,0,H
+NED,21/08/2010,18:45,sc Heerenveen,NAC Breda,3,1,H,1,1,D
+NED,21/08/2010,19:45,AFC Ajax,Roda JC Kerkrade,3,0,H,1,0,H
+NED,22/08/2010,13:30,FC Utrecht,Willem II,3,0,H,3,0,H
+NED,22/08/2010,13:30,Heracles Almelo,Feyenoord,1,1,D,1,0,H
+NED,22/08/2010,13:30,VVV-Venlo,ADO Den Haag,2,3,A,1,1,D
+NED,22/08/2010,15:30,PSV Eindhoven,AZ Alkmaar,3,1,H,1,0,H
+NED,27/08/2010,19:45,Willem II,FC Groningen,0,3,A,0,1,A
+NED,28/08/2010,18:45,NAC Breda,VVV-Venlo,2,0,H,2,0,H
+NED,28/08/2010,18:45,Roda JC Kerkrade,Heracles Almelo,4,2,H,3,0,H
+NED,28/08/2010,19:45,NEC Nijmegen,sc Heerenveen,2,2,D,0,0,D
+NED,29/08/2010,11:30,De Graafschap,AFC Ajax,0,5,A,0,2,A
+NED,29/08/2010,13:30,FC Twente,FC Utrecht,4,0,H,0,0,D
+NED,29/08/2010,13:30,Feyenoord,Vitesse,4,0,H,2,0,H
+NED,29/08/2010,13:30,ADO Den Haag,PSV Eindhoven,2,2,D,0,1,A
+NED,29/08/2010,15:30,AZ Alkmaar,SBV Excelsior,1,1,D,0,1,A
+NED,11/09/2010,17:45,VVV-Venlo,FC Twente,1,2,A,1,1,D
+NED,11/09/2010,17:45,AFC Ajax,Willem II,2,0,H,1,0,H
+NED,11/09/2010,18:45,PSV Eindhoven,NEC Nijmegen,3,1,H,0,1,A
+NED,11/09/2010,18:45,sc Heerenveen,Vitesse,2,1,H,0,0,D
+NED,11/09/2010,19:45,SBV Excelsior,Heracles Almelo,2,1,H,0,1,A
+NED,11/09/2010,19:45,AZ Alkmaar,Roda JC Kerkrade,1,2,A,1,1,D
+NED,12/09/2010,11:30,NAC Breda,Feyenoord,2,0,H,0,0,D
+NED,12/09/2010,13:30,ADO Den Haag,De Graafschap,2,2,D,1,0,H
+NED,12/09/2010,15:30,FC Groningen,FC Utrecht,1,0,H,0,0,D
+NED,17/09/2010,19:45,De Graafschap,sc Heerenveen,3,2,H,1,1,D
+NED,18/09/2010,17:45,FC Groningen,SBV Excelsior,2,0,H,0,0,D
+NED,18/09/2010,18:45,Vitesse,NAC Breda,0,0,D,0,0,D
+NED,18/09/2010,19:45,Willem II,ADO Den Haag,2,4,A,1,1,D
+NED,19/09/2010,11:30,Feyenoord,AFC Ajax,1,2,A,0,1,A
+NED,19/09/2010,13:30,NEC Nijmegen,AZ Alkmaar,0,1,A,0,1,A
+NED,19/09/2010,13:30,Roda JC Kerkrade,PSV Eindhoven,0,0,D,0,0,D
+NED,19/09/2010,13:30,FC Utrecht,VVV-Venlo,3,2,H,1,1,D
+NED,19/09/2010,15:30,Heracles Almelo,FC Twente,0,0,D,0,0,D
+NED,25/09/2010,17:45,sc Heerenveen,Roda JC Kerkrade,2,2,D,2,0,H
+NED,25/09/2010,18:45,PSV Eindhoven,FC Groningen,1,1,D,0,0,D
+NED,25/09/2010,18:45,AZ Alkmaar,FC Utrecht,1,0,H,1,0,H
+NED,25/09/2010,18:45,ADO Den Haag,Heracles Almelo,3,2,H,2,1,H
+NED,25/09/2010,19:45,FC Twente,AFC Ajax,2,2,D,1,1,D
+NED,26/09/2010,13:30,SBV Excelsior,Vitesse,0,2,A,0,0,D
+NED,26/09/2010,13:30,NAC Breda,Willem II,2,1,H,0,1,A
+NED,26/09/2010,13:30,NEC Nijmegen,Feyenoord,3,0,H,1,0,H
+NED,26/09/2010,15:30,VVV-Venlo,De Graafschap,1,0,H,1,0,H
+NED,01/10/2010,19:45,Vitesse,Willem II,0,0,D,0,0,D
+NED,02/10/2010,17:45,NAC Breda,NEC Nijmegen,2,0,H,1,0,H
+NED,02/10/2010,19:45,SBV Excelsior,Roda JC Kerkrade,1,2,A,1,0,H
+NED,03/10/2010,11:30,AFC Ajax,FC Utrecht,1,2,A,0,2,A
+NED,03/10/2010,13:30,FC Twente,FC Groningen,4,2,H,1,1,D
+NED,03/10/2010,13:30,AZ Alkmaar,Heracles Almelo,2,1,H,1,1,D
+NED,03/10/2010,13:30,De Graafschap,Feyenoord,1,1,D,1,1,D
+NED,03/10/2010,13:30,sc Heerenveen,ADO Den Haag,0,0,D,0,0,D
+NED,03/10/2010,15:30,PSV Eindhoven,VVV-Venlo,3,0,H,0,0,D
+NED,16/10/2010,17:45,AFC Ajax,NAC Breda,3,0,H,2,0,H
+NED,16/10/2010,18:45,FC Utrecht,De Graafschap,2,2,D,2,0,H
+NED,16/10/2010,18:45,ADO Den Haag,SBV Excelsior,2,1,H,0,1,A
+NED,16/10/2010,18:45,VVV-Venlo,AZ Alkmaar,0,1,A,0,0,D
+NED,16/10/2010,19:45,Feyenoord,FC Twente,0,1,A,0,0,D
+NED,17/10/2010,13:30,Willem II,PSV Eindhoven,2,4,A,2,3,A
+NED,17/10/2010,13:30,FC Groningen,sc Heerenveen,1,0,H,0,0,D
+NED,17/10/2010,13:30,Roda JC Kerkrade,Vitesse,4,1,H,3,0,H
+NED,17/10/2010,15:30,Heracles Almelo,NEC Nijmegen,3,2,H,1,0,H
+NED,22/10/2010,19:45,NAC Breda,Roda JC Kerkrade,1,2,A,1,0,H
+NED,23/10/2010,17:45,De Graafschap,Heracles Almelo,1,1,D,1,0,H
+NED,23/10/2010,18:45,NEC Nijmegen,FC Groningen,3,2,H,2,0,H
+NED,23/10/2010,19:45,sc Heerenveen,VVV-Venlo,2,0,H,0,0,D
+NED,24/10/2010,11:30,SBV Excelsior,AFC Ajax,2,2,D,2,0,H
+NED,24/10/2010,13:30,PSV Eindhoven,Feyenoord,10,0,H,2,0,H
+NED,24/10/2010,13:30,FC Twente,ADO Den Haag,3,2,H,1,1,D
+NED,24/10/2010,13:30,AZ Alkmaar,Willem II,3,0,H,2,0,H
+NED,24/10/2010,15:30,Vitesse,FC Utrecht,1,4,A,0,2,A
+NED,26/10/2010,19:00,Roda JC Kerkrade,NEC Nijmegen,1,1,D,0,0,D
+NED,26/10/2010,19:00,Heracles Almelo,NAC Breda,4,1,H,3,0,H
+NED,27/10/2010,18:00,FC Groningen,ADO Den Haag,3,1,H,0,1,A
+NED,27/10/2010,18:00,AFC Ajax,sc Heerenveen,3,1,H,1,1,D
+NED,27/10/2010,18:00,De Graafschap,AZ Alkmaar,2,1,H,0,0,D
+NED,27/10/2010,19:00,Willem II,FC Twente,1,3,A,1,2,A
+NED,27/10/2010,20:00,Feyenoord,VVV-Venlo,3,0,H,0,0,D
+NED,27/10/2010,20:00,Vitesse,PSV Eindhoven,0,2,A,0,1,A
+NED,27/10/2010,20:00,FC Utrecht,SBV Excelsior,2,0,H,1,0,H
+NED,30/10/2010,17:45,VVV-Venlo,FC Groningen,3,5,A,1,2,A
+NED,30/10/2010,18:45,NAC Breda,De Graafschap,2,0,H,0,0,D
+NED,30/10/2010,18:45,SBV Excelsior,sc Heerenveen,0,2,A,0,0,D
+NED,30/10/2010,18:45,Heracles Almelo,AFC Ajax,1,4,A,1,1,D
+NED,30/10/2010,19:45,PSV Eindhoven,FC Twente,0,1,A,0,0,D
+NED,31/10/2010,11:30,ADO Den Haag,FC Utrecht,1,0,H,1,0,H
+NED,31/10/2010,11:30,NEC Nijmegen,Vitesse,0,0,D,0,0,D
+NED,31/10/2010,13:30,Roda JC Kerkrade,Willem II,2,2,D,1,1,D
+NED,31/10/2010,13:30,AZ Alkmaar,Feyenoord,2,1,H,1,0,H
+NED,05/11/2010,19:45,Willem II,VVV-Venlo,1,4,A,0,1,A
+NED,06/11/2010,17:45,FC Twente,SBV Excelsior,2,1,H,1,1,D
+NED,06/11/2010,18:45,FC Groningen,NAC Breda,2,1,H,2,1,H
+NED,06/11/2010,18:45,sc Heerenveen,Heracles Almelo,3,2,H,2,0,H
+NED,06/11/2010,19:45,De Graafschap,NEC Nijmegen,1,4,A,0,1,A
+NED,07/11/2010,11:30,AFC Ajax,ADO Den Haag,0,1,A,0,1,A
+NED,07/11/2010,13:30,FC Utrecht,PSV Eindhoven,1,2,A,0,1,A
+NED,07/11/2010,13:30,Vitesse,AZ Alkmaar,1,1,D,0,0,D
+NED,07/11/2010,13:30,Feyenoord,Roda JC Kerkrade,1,1,D,0,1,A
+NED,13/11/2010,17:45,PSV Eindhoven,SBV Excelsior,4,2,H,2,1,H
+NED,13/11/2010,19:45,NAC Breda,FC Twente,2,1,H,0,1,A
+NED,14/11/2010,13:30,NEC Nijmegen,ADO Den Haag,1,1,D,0,1,A
+NED,14/11/2010,13:30,VVV-Venlo,Vitesse,1,5,A,0,2,A
+NED,14/11/2010,13:30,AZ Alkmaar,AFC Ajax,2,0,H,0,0,D
+NED,14/11/2010,15:30,Heracles Almelo,FC Groningen,3,0,H,1,0,H
+NED,14/11/2010,15:30,Feyenoord,sc Heerenveen,2,2,D,1,0,H
+NED,24/11/2010,19:00,Willem II,De Graafschap,0,1,A,0,0,D
+NED,24/11/2010,19:00,Roda JC Kerkrade,FC Utrecht,1,1,D,1,0,H
+NED,20/11/2010,17:45,SBV Excelsior,VVV-Venlo,1,0,H,0,0,D
+NED,20/11/2010,18:45,Vitesse,Heracles Almelo,2,0,H,1,0,H
+NED,20/11/2010,18:45,De Graafschap,Roda JC Kerkrade,3,1,H,2,1,H
+NED,20/11/2010,18:45,FC Twente,AZ Alkmaar,1,2,A,1,1,D
+NED,20/11/2010,19:45,AFC Ajax,PSV Eindhoven,0,0,D,0,0,D
+NED,21/11/2010,13:30,FC Groningen,Feyenoord,2,0,H,1,0,H
+NED,21/11/2010,13:30,ADO Den Haag,NAC Breda,3,0,H,1,0,H
+NED,21/11/2010,13:30,sc Heerenveen,Willem II,5,0,H,2,0,H
+NED,21/11/2010,15:30,FC Utrecht,NEC Nijmegen,4,0,H,1,0,H
+NED,26/11/2010,19:45,NAC Breda,PSV Eindhoven,4,2,H,2,2,D
+NED,27/11/2010,17:45,AZ Alkmaar,sc Heerenveen,2,2,D,1,0,H
+NED,27/11/2010,18:45,Willem II,SBV Excelsior,1,1,D,0,0,D
+NED,27/11/2010,18:45,Roda JC Kerkrade,FC Groningen,1,0,H,1,0,H
+NED,27/11/2010,19:45,NEC Nijmegen,FC Twente,2,4,A,1,3,A
+NED,28/11/2010,11:30,Feyenoord,ADO Den Haag,2,1,H,0,1,A
+NED,28/11/2010,11:30,De Graafschap,Vitesse,1,1,D,1,1,D
+NED,28/11/2010,13:30,VVV-Venlo,AFC Ajax,0,2,A,0,0,D
+NED,28/11/2010,13:30,Heracles Almelo,FC Utrecht,2,1,H,0,0,D
+NED,03/12/2010,19:45,FC Groningen,Vitesse,4,1,H,0,0,D
+NED,04/12/2010,17:45,AFC Ajax,NEC Nijmegen,1,1,D,0,0,D
+NED,04/12/2010,18:45,PSV Eindhoven,Heracles Almelo,5,2,H,2,1,H
+NED,04/12/2010,19:45,FC Twente,De Graafschap,2,0,H,1,0,H
+NED,05/12/2010,11:30,Willem II,Feyenoord,1,1,D,0,1,A
+NED,05/12/2010,13:30,FC Utrecht,sc Heerenveen,2,1,H,1,1,D
+NED,05/12/2010,13:30,ADO Den Haag,AZ Alkmaar,0,2,A,0,1,A
+NED,14/12/2010,19:00,VVV-Venlo,Roda JC Kerkrade,0,4,A,0,3,A
+NED,15/12/2010,19:00,SBV Excelsior,NAC Breda,1,3,A,0,1,A
+NED,10/12/2010,19:45,Heracles Almelo,VVV-Venlo,2,2,D,2,0,H
+NED,11/12/2010,17:45,NAC Breda,FC Utrecht,3,1,H,1,1,D
+NED,11/12/2010,18:45,NEC Nijmegen,Willem II,3,1,H,1,1,D
+NED,11/12/2010,18:45,Roda JC Kerkrade,ADO Den Haag,1,1,D,1,1,D
+NED,11/12/2010,19:45,De Graafschap,PSV Eindhoven,0,0,D,0,0,D
+NED,12/12/2010,11:30,Vitesse,AFC Ajax,0,1,A,0,1,A
+NED,12/12/2010,13:30,FC Groningen,AZ Alkmaar,2,0,H,1,0,H
+NED,12/12/2010,13:30,sc Heerenveen,FC Twente,6,2,H,2,1,H
+NED,12/12/2010,13:30,Feyenoord,SBV Excelsior,1,0,H,1,0,H
+NED,18/12/2010,17:45,sc Heerenveen,De Graafschap,4,0,H,3,0,H
+NED,18/12/2010,18:45,SBV Excelsior,FC Groningen,2,2,D,0,2,A
+NED,18/12/2010,18:45,NAC Breda,Vitesse,1,1,D,0,1,A
+NED,18/12/2010,19:45,ADO Den Haag,Willem II,2,1,H,1,0,H
+NED,19/12/2010,13:30,PSV Eindhoven,Roda JC Kerkrade,3,1,H,1,1,D
+NED,19/01/2011,17:45,FC Twente,Heracles Almelo,5,0,H,3,0,H
+NED,19/01/2011,17:45,VVV-Venlo,FC Utrecht,1,2,A,1,1,D
+NED,19/01/2011,19:45,AFC Ajax,Feyenoord,2,0,H,1,0,H
+NED,19/01/2011,19:45,AZ Alkmaar,NEC Nijmegen,2,2,D,2,1,H
+NED,21/01/2011,19:45,ADO Den Haag,sc Heerenveen,3,1,H,1,0,H
+NED,22/01/2011,17:45,Heracles Almelo,AZ Alkmaar,0,0,D,0,0,D
+NED,22/01/2011,18:45,NEC Nijmegen,NAC Breda,2,2,D,1,0,H
+NED,22/01/2011,18:45,Willem II,Vitesse,1,0,H,1,0,H
+NED,22/01/2011,19:45,Feyenoord,De Graafschap,0,1,A,0,0,D
+NED,23/01/2011,11:30,FC Utrecht,AFC Ajax,3,0,H,2,0,H
+NED,23/01/2011,13:30,Roda JC Kerkrade,SBV Excelsior,3,0,H,2,0,H
+NED,23/01/2011,13:30,FC Groningen,FC Twente,1,2,A,1,1,D
+NED,23/01/2011,13:30,VVV-Venlo,PSV Eindhoven,0,3,A,0,2,A
+NED,28/01/2011,19:45,NEC Nijmegen,Heracles Almelo,1,1,D,0,0,D
+NED,29/01/2011,17:45,Vitesse,Roda JC Kerkrade,5,2,H,3,1,H
+NED,29/01/2011,18:45,AZ Alkmaar,VVV-Venlo,6,1,H,3,1,H
+NED,29/01/2011,19:45,PSV Eindhoven,Willem II,2,1,H,0,1,A
+NED,30/01/2011,11:30,SBV Excelsior,ADO Den Haag,1,5,A,1,3,A
+NED,30/01/2011,13:30,NAC Breda,AFC Ajax,0,3,A,0,1,A
+NED,30/01/2011,13:30,sc Heerenveen,FC Groningen,1,4,A,0,2,A
+NED,30/01/2011,13:30,FC Twente,Feyenoord,2,1,H,0,0,D
+NED,01/02/2011,19:00,De Graafschap,FC Utrecht,0,0,D,0,0,D
+NED,04/02/2011,19:45,AFC Ajax,De Graafschap,2,0,H,1,0,H
+NED,05/02/2011,17:45,sc Heerenveen,NEC Nijmegen,0,0,D,0,0,D
+NED,05/02/2011,18:45,PSV Eindhoven,ADO Den Haag,0,1,A,0,0,D
+NED,05/02/2011,18:45,SBV Excelsior,AZ Alkmaar,2,1,H,0,1,A
+NED,05/02/2011,19:45,VVV-Venlo,NAC Breda,3,0,H,1,0,H
+NED,06/02/2011,11:30,Vitesse,Feyenoord,1,1,D,0,0,D
+NED,06/02/2011,13:30,FC Groningen,Willem II,7,1,H,3,0,H
+NED,06/02/2011,13:30,FC Utrecht,FC Twente,1,1,D,1,0,H
+NED,06/02/2011,13:30,Heracles Almelo,Roda JC Kerkrade,1,0,H,0,0,D
+NED,12/02/2011,17:45,ADO Den Haag,VVV-Venlo,3,0,H,0,0,D
+NED,12/02/2011,18:45,Willem II,FC Utrecht,3,3,D,2,1,H
+NED,12/02/2011,18:45,Feyenoord,Heracles Almelo,2,1,H,2,1,H
+NED,12/02/2011,18:45,FC Twente,Vitesse,1,0,H,1,0,H
+NED,12/02/2011,19:45,AZ Alkmaar,PSV Eindhoven,0,4,A,0,2,A
+NED,13/02/2011,13:30,NAC Breda,sc Heerenveen,0,2,A,0,0,D
+NED,13/02/2011,13:30,Roda JC Kerkrade,AFC Ajax,2,2,D,1,2,A
+NED,13/02/2011,13:30,NEC Nijmegen,SBV Excelsior,2,0,H,0,0,D
+NED,13/02/2011,15:30,De Graafschap,FC Groningen,1,1,D,0,1,A
+NED,18/02/2011,19:45,FC Utrecht,Heracles Almelo,1,1,D,1,0,H
+NED,19/02/2011,17:45,SBV Excelsior,Willem II,4,0,H,1,0,H
+NED,19/02/2011,18:45,sc Heerenveen,AZ Alkmaar,0,2,A,0,1,A
+NED,19/02/2011,19:45,FC Groningen,Roda JC Kerkrade,1,4,A,0,1,A
+NED,20/02/2011,11:30,ADO Den Haag,Feyenoord,2,2,D,0,2,A
+NED,20/02/2011,13:30,FC Twente,NEC Nijmegen,1,1,D,1,1,D
+NED,20/02/2011,13:30,AFC Ajax,VVV-Venlo,1,0,H,1,0,H
+NED,20/02/2011,13:30,Vitesse,De Graafschap,2,0,H,0,0,D
+NED,20/02/2011,15:30,PSV Eindhoven,NAC Breda,4,1,H,1,0,H
+NED,25/02/2011,19:45,VVV-Venlo,SBV Excelsior,1,0,H,1,0,H
+NED,26/02/2011,17:45,Willem II,sc Heerenveen,4,3,H,0,2,A
+NED,26/02/2011,18:45,Heracles Almelo,Vitesse,6,1,H,1,0,H
+NED,26/02/2011,18:45,Roda JC Kerkrade,De Graafschap,1,1,D,1,0,H
+NED,26/02/2011,19:45,NAC Breda,ADO Den Haag,3,2,H,1,2,A
+NED,27/02/2011,13:30,Feyenoord,FC Groningen,5,1,H,2,1,H
+NED,27/02/2011,13:30,AZ Alkmaar,FC Twente,2,1,H,1,0,H
+NED,27/02/2011,13:30,PSV Eindhoven,AFC Ajax,0,0,D,0,0,D
+NED,27/02/2011,15:30,NEC Nijmegen,FC Utrecht,1,1,D,1,0,H
+NED,04/03/2011,19:45,De Graafschap,Willem II,2,1,H,0,0,D
+NED,05/03/2011,17:45,FC Twente,NAC Breda,2,0,H,0,0,D
+NED,05/03/2011,18:45,Vitesse,VVV-Venlo,2,0,H,0,0,D
+NED,05/03/2011,18:45,ADO Den Haag,NEC Nijmegen,5,1,H,2,1,H
+NED,05/03/2011,19:45,SBV Excelsior,PSV Eindhoven,2,3,A,1,0,H
+NED,06/03/2011,13:30,sc Heerenveen,Feyenoord,0,1,A,0,0,D
+NED,06/03/2011,13:30,FC Utrecht,Roda JC Kerkrade,1,1,D,0,1,A
+NED,06/03/2011,13:30,FC Groningen,Heracles Almelo,1,4,A,1,2,A
+NED,06/03/2011,15:30,AFC Ajax,AZ Alkmaar,4,0,H,1,0,H
+NED,11/03/2011,19:45,FC Utrecht,FC Groningen,1,0,H,0,0,D
+NED,12/03/2011,17:45,Heracles Almelo,SBV Excelsior,4,1,H,1,0,H
+NED,12/03/2011,18:45,Roda JC Kerkrade,AZ Alkmaar,1,2,A,0,0,D
+NED,12/03/2011,19:45,Vitesse,sc Heerenveen,1,1,D,1,0,H
+NED,13/03/2011,11:30,De Graafschap,ADO Den Haag,1,0,H,1,0,H
+NED,13/03/2011,13:30,FC Twente,VVV-Venlo,2,1,H,1,1,D
+NED,13/03/2011,13:30,Feyenoord,NAC Breda,2,1,H,1,0,H
+NED,13/03/2011,13:30,Willem II,AFC Ajax,1,3,A,1,0,H
+NED,13/03/2011,15:30,NEC Nijmegen,PSV Eindhoven,2,2,D,1,1,D
+NED,18/03/2011,19:45,AZ Alkmaar,Vitesse,3,1,H,0,1,A
+NED,19/03/2011,17:45,NAC Breda,FC Groningen,0,1,A,0,0,D
+NED,19/03/2011,18:45,VVV-Venlo,Willem II,0,0,D,0,0,D
+NED,19/03/2011,18:45,Heracles Almelo,sc Heerenveen,4,2,H,2,1,H
+NED,19/03/2011,19:45,NEC Nijmegen,De Graafschap,1,0,H,1,0,H
+NED,20/03/2011,11:30,ADO Den Haag,AFC Ajax,3,2,H,1,0,H
+NED,20/03/2011,13:30,PSV Eindhoven,FC Utrecht,1,0,H,0,0,D
+NED,20/03/2011,13:30,Roda JC Kerkrade,Feyenoord,3,0,H,2,0,H
+NED,20/03/2011,13:30,SBV Excelsior,FC Twente,0,2,A,0,1,A
+NED,02/04/2011,17:45,FC Twente,PSV Eindhoven,2,0,H,0,0,D
+NED,02/04/2011,18:45,De Graafschap,NAC Breda,1,3,A,0,1,A
+NED,02/04/2011,18:45,sc Heerenveen,SBV Excelsior,2,3,A,2,0,H
+NED,02/04/2011,18:45,Willem II,Roda JC Kerkrade,4,5,A,1,0,H
+NED,02/04/2011,19:45,Feyenoord,AZ Alkmaar,0,1,A,0,1,A
+NED,03/04/2011,11:30,Vitesse,NEC Nijmegen,2,1,H,1,0,H
+NED,03/04/2011,11:30,FC Utrecht,ADO Den Haag,2,3,A,1,1,D
+NED,03/04/2011,13:30,AFC Ajax,Heracles Almelo,3,0,H,0,0,D
+NED,03/04/2011,13:30,FC Groningen,VVV-Venlo,3,2,H,3,1,H
+NED,08/04/2011,19:45,AZ Alkmaar,NAC Breda,1,1,D,1,0,H
+NED,09/04/2011,17:45,VVV-Venlo,NEC Nijmegen,1,4,A,0,1,A
+NED,09/04/2011,18:45,ADO Den Haag,Vitesse,1,0,H,1,0,H
+NED,09/04/2011,18:45,SBV Excelsior,De Graafschap,0,0,D,0,0,D
+NED,09/04/2011,19:45,Willem II,Heracles Almelo,2,6,A,1,3,A
+NED,10/04/2011,13:30,FC Twente,Roda JC Kerkrade,1,1,D,0,0,D
+NED,10/04/2011,13:30,AFC Ajax,FC Groningen,2,0,H,0,0,D
+NED,10/04/2011,13:30,FC Utrecht,Feyenoord,0,4,A,0,2,A
+NED,10/04/2011,15:30,PSV Eindhoven,sc Heerenveen,2,2,D,0,0,D
+NED,15/04/2011,19:45,sc Heerenveen,FC Utrecht,3,0,H,2,0,H
+NED,16/04/2011,17:45,Vitesse,FC Groningen,2,1,H,0,0,D
+NED,16/04/2011,18:45,Roda JC Kerkrade,VVV-Venlo,5,2,H,3,0,H
+NED,16/04/2011,18:45,NAC Breda,SBV Excelsior,1,2,A,1,1,D
+NED,16/04/2011,19:45,AZ Alkmaar,ADO Den Haag,3,1,H,1,0,H
+NED,17/04/2011,13:30,Heracles Almelo,PSV Eindhoven,0,2,A,0,1,A
+NED,17/04/2011,13:30,De Graafschap,FC Twente,1,1,D,0,0,D
+NED,17/04/2011,13:30,NEC Nijmegen,AFC Ajax,1,2,A,1,1,D
+NED,17/04/2011,15:30,Feyenoord,Willem II,6,1,H,2,1,H
+NED,22/04/2011,19:45,ADO Den Haag,FC Twente,1,2,A,0,0,D
+NED,23/04/2011,17:45,Willem II,AZ Alkmaar,2,1,H,1,1,D
+NED,23/04/2011,18:45,Heracles Almelo,De Graafschap,2,0,H,1,0,H
+NED,23/04/2011,18:45,Roda JC Kerkrade,NAC Breda,5,1,H,3,1,H
+NED,23/04/2011,19:45,VVV-Venlo,sc Heerenveen,2,2,D,0,1,A
+NED,24/04/2011,13:30,AFC Ajax,SBV Excelsior,4,1,H,1,0,H
+NED,24/04/2011,13:30,FC Utrecht,Vitesse,4,2,H,0,0,D
+NED,24/04/2011,13:30,Feyenoord,PSV Eindhoven,3,1,H,1,0,H
+NED,24/04/2011,15:30,FC Groningen,NEC Nijmegen,3,1,H,1,1,D
+NED,01/05/2011,13:30,SBV Excelsior,FC Utrecht,3,1,H,2,0,H
+NED,01/05/2011,13:30,FC Twente,Willem II,4,0,H,1,0,H
+NED,01/05/2011,13:30,sc Heerenveen,AFC Ajax,1,2,A,1,1,D
+NED,01/05/2011,13:30,VVV-Venlo,Feyenoord,3,2,H,1,0,H
+NED,01/05/2011,13:30,NAC Breda,Heracles Almelo,1,2,A,1,0,H
+NED,01/05/2011,13:30,PSV Eindhoven,Vitesse,2,1,H,1,0,H
+NED,01/05/2011,13:30,AZ Alkmaar,De Graafschap,5,1,H,2,0,H
+NED,01/05/2011,13:30,ADO Den Haag,FC Groningen,2,4,A,2,2,D
+NED,01/05/2011,13:30,NEC Nijmegen,Roda JC Kerkrade,5,0,H,2,0,H
+NED,15/05/2011,13:30,Willem II,NAC Breda,0,1,A,0,0,D
+NED,15/05/2011,13:30,Roda JC Kerkrade,sc Heerenveen,0,0,D,0,0,D
+NED,15/05/2011,13:30,Heracles Almelo,ADO Den Haag,3,0,H,0,0,D
+NED,15/05/2011,13:30,Feyenoord,NEC Nijmegen,1,1,D,1,1,D
+NED,15/05/2011,13:30,De Graafschap,VVV-Venlo,1,0,H,1,0,H
+NED,15/05/2011,13:30,FC Utrecht,AZ Alkmaar,5,1,H,2,0,H
+NED,15/05/2011,13:30,Vitesse,SBV Excelsior,1,4,A,0,1,A
+NED,15/05/2011,13:30,FC Groningen,PSV Eindhoven,0,0,D,0,0,D
+NED,15/05/2011,13:30,AFC Ajax,FC Twente,3,1,H,1,0,H

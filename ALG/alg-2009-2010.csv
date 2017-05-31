@@ -1,0 +1,306 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ALG,06/08/2009,16:00,USM El Harrach,ASO Chlef,1,0,H,0,0,D
+ALG,06/08/2009,16:00,NA Hussein Dey,USM Blida,2,0,H,2,0,H
+ALG,06/08/2009,16:00,MC Alger,USM Annaba,4,0,H,2,0,H
+ALG,06/08/2009,16:00,AS Khroub,ES Sétif,1,1,D,0,0,D
+ALG,06/08/2009,16:30,WA Tlemcen,MSP Batna,3,2,H,1,1,D
+ALG,06/08/2009,18:00,CA Bordj Bou Arreridj,JS Kabylie,1,0,H,0,0,D
+ALG,06/08/2009,18:00,CA Batna,USM Alger,2,0,H,0,0,D
+ALG,06/08/2009,18:00,MC Oran,CR Bélouizdad,4,1,H,0,0,D
+ALG,06/08/2009,18:00,JSM Béjaïa,MC El Eulma,1,1,D,0,0,D
+ALG,14/08/2009,18:00,MSP Batna,MC Oran,1,0,H,1,0,H
+ALG,14/08/2009,18:00,USM Annaba,CA Batna,1,0,H,1,0,H
+ALG,14/08/2009,18:00,USM Blida,AS Khroub,1,0,H,1,0,H
+ALG,15/08/2009,16:00,USM Alger,WA Tlemcen,1,2,A,1,0,H
+ALG,15/08/2009,16:30,CR Bélouizdad,JSM Béjaïa,1,0,H,1,0,H
+ALG,15/08/2009,18:00,ASO Chlef,NA Hussein Dey,0,0,D,0,0,D
+ALG,15/08/2009,18:00,JS Kabylie,USM El Harrach,1,0,H,1,0,H
+ALG,25/08/2009,16:00,MC El Eulma,ES Sétif,3,2,H,2,0,H
+ALG,21/08/2009,15:30,WA Tlemcen,USM Annaba,0,0,D,0,0,D
+ALG,21/08/2009,21:00,CA Batna,ASO Chlef,0,0,D,0,0,D
+ALG,21/08/2009,21:00,JSM Béjaïa,MSP Batna,0,0,D,0,0,D
+ALG,22/08/2009,15:30,USM El Harrach,CA Bordj Bou Arreridj,3,2,H,2,0,H
+ALG,22/08/2009,15:30,NA Hussein Dey,JS Kabylie,1,1,D,0,1,A
+ALG,22/08/2009,15:30,MC Oran,MC El Eulma,2,0,H,1,0,H
+ALG,22/08/2009,15:30,AS Khroub,USM Alger,1,0,H,0,0,D
+ALG,22/08/2009,21:00,ES Sétif,CR Bélouizdad,1,1,D,0,1,A
+ALG,22/08/2009,21:00,MC Alger,USM Blida,1,0,H,1,0,H
+ALG,28/08/2009,22:00,CA Bordj Bou Arreridj,NA Hussein Dey,1,0,H,0,0,D
+ALG,28/08/2009,22:00,CR Bélouizdad,AS Khroub,1,0,H,0,0,D
+ALG,28/08/2009,22:00,MSP Batna,MC El Eulma,0,1,A,0,0,D
+ALG,28/08/2009,22:00,ASO Chlef,MC Alger,0,2,A,0,2,A
+ALG,28/08/2009,22:00,JS Kabylie,MC Oran,0,0,D,0,0,D
+ALG,29/08/2009,16:30,USM El Harrach,WA Tlemcen,1,0,H,1,0,H
+ALG,29/08/2009,16:30,USM Alger,JSM Béjaïa,1,0,H,1,0,H
+ALG,29/08/2009,22:00,USM Blida,CA Batna,1,0,H,0,0,D
+ALG,08/09/2009,22:00,USM Annaba,ES Sétif,0,0,D,0,0,D
+ALG,11/09/2009,22:00,CA Batna,CA Bordj Bou Arreridj,0,0,D,0,0,D
+ALG,11/09/2009,22:00,MC Alger,JS Kabylie,1,0,H,0,0,D
+ALG,11/09/2009,22:00,JSM Béjaïa,USM Blida,2,3,A,1,2,A
+ALG,12/09/2009,16:30,MC El Eulma,CR Bélouizdad,2,1,H,2,0,H
+ALG,12/09/2009,16:30,WA Tlemcen,ASO Chlef,2,1,H,1,0,H
+ALG,12/09/2009,16:30,MC Oran,USM Annaba,0,2,A,0,1,A
+ALG,12/09/2009,16:30,AS Khroub,MSP Batna,1,1,D,0,1,A
+ALG,12/09/2009,22:00,NA Hussein Dey,USM El Harrach,1,4,A,1,1,D
+ALG,29/09/2009,19:00,ES Sétif,USM Alger,2,2,D,1,2,A
+ALG,18/09/2009,16:00,USM El Harrach,CA Batna,1,1,D,0,0,D
+ALG,18/09/2009,16:00,USM Alger,MC El Eulma,2,1,H,1,0,H
+ALG,18/09/2009,22:00,CA Bordj Bou Arreridj,MC Oran,3,1,H,1,0,H
+ALG,18/09/2009,22:00,MSP Batna,CR Bélouizdad,1,1,D,1,1,D
+ALG,18/09/2009,22:00,USM Annaba,JSM Béjaïa,3,1,H,2,0,H
+ALG,18/09/2009,22:00,ASO Chlef,AS Khroub,3,0,H,2,0,H
+ALG,18/09/2009,22:00,JS Kabylie,WA Tlemcen,3,1,H,1,1,D
+ALG,19/09/2009,22:00,NA Hussein Dey,MC Alger,0,1,A,0,1,A
+ALG,13/10/2009,19:00,USM Blida,ES Sétif,1,2,A,0,1,A
+ALG,25/09/2009,15:00,JSM Béjaïa,JS Kabylie,1,0,H,1,0,H
+ALG,25/09/2009,19:00,ES Sétif,MSP Batna,4,1,H,2,0,H
+ALG,25/09/2009,19:00,CA Batna,NA Hussein Dey,2,1,H,1,0,H
+ALG,26/09/2009,16:00,MC El Eulma,CA Bordj Bou Arreridj,3,3,D,2,0,H
+ALG,26/09/2009,16:00,CR Bélouizdad,USM Alger,2,2,D,1,1,D
+ALG,26/09/2009,16:00,WA Tlemcen,USM Blida,1,1,D,1,0,H
+ALG,26/09/2009,16:00,MC Oran,ASO Chlef,1,0,H,1,0,H
+ALG,26/09/2009,16:00,AS Khroub,USM Annaba,1,1,D,1,0,H
+ALG,18/12/2009,17:00,MC Alger,USM El Harrach,2,1,H,1,1,D
+ALG,02/10/2009,15:00,JS Kabylie,AS Khroub,3,0,H,2,0,H
+ALG,02/10/2009,19:00,CA Batna,MC Alger,1,2,A,0,1,A
+ALG,02/10/2009,19:00,ASO Chlef,JSM Béjaïa,0,1,A,0,0,D
+ALG,02/10/2009,19:00,USM Annaba,CR Bélouizdad,3,0,H,2,0,H
+ALG,03/10/2009,16:00,USM El Harrach,MC El Eulma,1,0,H,1,0,H
+ALG,03/10/2009,16:00,NA Hussein Dey,WA Tlemcen,1,0,H,0,0,D
+ALG,03/10/2009,16:00,USM Alger,MSP Batna,3,1,H,2,0,H
+ALG,03/10/2009,16:00,MC Oran,USM Blida,1,0,H,0,0,D
+ALG,03/11/2009,17:00,CA Bordj Bou Arreridj,ES Sétif,2,0,H,1,0,H
+ALG,16/10/2009,19:00,CR Bélouizdad,USM Blida,1,0,H,1,0,H
+ALG,16/10/2009,19:00,MSP Batna,USM Annaba,0,1,A,0,1,A
+ALG,16/10/2009,19:00,MC Alger,USM Alger,0,0,D,0,0,D
+ALG,17/10/2009,16:00,MC El Eulma,ASO Chlef,1,1,D,1,1,D
+ALG,17/10/2009,16:00,WA Tlemcen,CA Batna,2,0,H,0,0,D
+ALG,17/10/2009,16:00,MC Oran,NA Hussein Dey,2,1,H,1,0,H
+ALG,17/10/2009,16:00,JSM Béjaïa,CA Bordj Bou Arreridj,2,1,H,1,1,D
+ALG,17/10/2009,16:00,AS Khroub,USM El Harrach,1,0,H,0,0,D
+ALG,08/12/2009,17:00,ES Sétif,JS Kabylie,2,0,H,1,0,H
+ALG,23/10/2009,18:00,MC Alger,AS Khroub,1,1,D,0,0,D
+ALG,23/10/2009,19:00,CA Bordj Bou Arreridj,WA Tlemcen,0,2,A,0,0,D
+ALG,23/10/2009,19:00,CA Batna,MC Oran,2,0,H,1,0,H
+ALG,23/10/2009,19:00,USM Annaba,USM Alger,1,0,H,1,0,H
+ALG,23/10/2009,19:00,USM Blida,MSP Batna,1,0,H,0,0,D
+ALG,23/10/2009,19:00,ASO Chlef,CR Bélouizdad,5,0,H,2,0,H
+ALG,24/10/2009,15:00,JS Kabylie,MC El Eulma,1,0,H,1,0,H
+ALG,24/10/2009,16:00,USM El Harrach,JSM Béjaïa,1,2,A,1,1,D
+ALG,24/10/2009,16:00,NA Hussein Dey,ES Sétif,0,2,A,0,1,A
+ALG,30/10/2009,17:00,ES Sétif,ASO Chlef,1,1,D,1,1,D
+ALG,30/10/2009,17:00,CR Bélouizdad,JS Kabylie,1,0,H,1,0,H
+ALG,30/10/2009,17:00,MSP Batna,CA Bordj Bou Arreridj,0,1,A,0,0,D
+ALG,31/10/2009,13:30,MC El Eulma,USM Annaba,3,0,H,2,0,H
+ALG,31/10/2009,13:30,USM Alger,USM Blida,1,0,H,1,0,H
+ALG,31/10/2009,13:30,WA Tlemcen,MC Alger,2,1,H,2,1,H
+ALG,31/10/2009,13:30,JSM Béjaïa,NA Hussein Dey,2,1,H,0,0,D
+ALG,31/10/2009,13:30,AS Khroub,CA Batna,0,1,A,0,1,A
+ALG,31/10/2009,18:00,MC Oran,USM El Harrach,2,1,H,2,0,H
+ALG,06/11/2009,14:00,USM El Harrach,ES Sétif,0,1,A,0,0,D
+ALG,06/11/2009,17:00,CA Bordj Bou Arreridj,CR Bélouizdad,1,0,H,0,0,D
+ALG,06/11/2009,17:00,CA Batna,JSM Béjaïa,0,0,D,0,0,D
+ALG,06/11/2009,17:00,ASO Chlef,USM Alger,2,0,H,2,0,H
+ALG,07/11/2009,13:30,NA Hussein Dey,MC El Eulma,1,2,A,0,2,A
+ALG,07/11/2009,13:30,WA Tlemcen,AS Khroub,1,1,D,0,0,D
+ALG,07/11/2009,13:30,USM Blida,USM Annaba,0,0,D,0,0,D
+ALG,07/11/2009,13:30,JS Kabylie,MSP Batna,2,1,H,1,0,H
+ALG,07/11/2009,14:45,MC Alger,MC Oran,4,1,H,1,0,H
+ALG,20/11/2009,17:00,ES Sétif,CA Batna,2,1,H,1,0,H
+ALG,20/11/2009,17:00,USM Annaba,CA Bordj Bou Arreridj,3,3,D,2,1,H
+ALG,21/11/2009,13:30,MC El Eulma,USM Blida,0,0,D,0,0,D
+ALG,21/11/2009,13:30,MSP Batna,ASO Chlef,2,3,A,0,2,A
+ALG,21/11/2009,13:30,MC Oran,WA Tlemcen,1,0,H,1,0,H
+ALG,21/11/2009,13:30,JSM Béjaïa,MC Alger,1,1,D,0,0,D
+ALG,21/11/2009,13:30,AS Khroub,NA Hussein Dey,1,0,H,1,0,H
+ALG,24/11/2009,13:30,USM Alger,JS Kabylie,1,1,D,1,0,H
+ALG,22/12/2009,13:00,CR Bélouizdad,USM El Harrach,1,1,D,0,1,A
+ALG,13/11/2009,17:00,NA Hussein Dey,CR Bélouizdad,1,2,A,1,1,D
+ALG,01/12/2009,13:00,USM El Harrach,MSP Batna,3,1,H,1,1,D
+ALG,01/12/2009,13:00,CA Batna,MC El Eulma,2,0,H,1,0,H
+ALG,01/12/2009,13:00,WA Tlemcen,JSM Béjaïa,1,1,D,1,1,D
+ALG,01/12/2009,13:00,MC Oran,AS Khroub,2,1,H,1,0,H
+ALG,01/12/2009,13:00,JS Kabylie,USM Annaba,4,0,H,1,0,H
+ALG,01/12/2009,17:00,CA Bordj Bou Arreridj,USM Alger,1,1,D,0,0,D
+ALG,01/12/2009,17:00,ASO Chlef,USM Blida,2,0,H,0,0,D
+ALG,09/02/2010,17:00,MC Alger,ES Sétif,1,1,D,0,0,D
+ALG,04/12/2009,17:00,CR Bélouizdad,CA Batna,0,1,A,0,1,A
+ALG,04/12/2009,17:00,USM Alger,USM El Harrach,0,0,D,0,0,D
+ALG,04/12/2009,17:00,USM Annaba,ASO Chlef,1,0,H,0,0,D
+ALG,05/12/2009,13:30,MC El Eulma,MC Alger,1,1,D,0,0,D
+ALG,05/12/2009,13:30,MSP Batna,NA Hussein Dey,1,1,D,1,1,D
+ALG,05/12/2009,13:30,USM Blida,JS Kabylie,1,1,D,1,1,D
+ALG,05/12/2009,13:30,JSM Béjaïa,MC Oran,2,0,H,1,0,H
+ALG,05/12/2009,13:30,AS Khroub,CA Bordj Bou Arreridj,2,0,H,2,0,H
+ALG,22/12/2009,17:00,ES Sétif,WA Tlemcen,0,1,A,0,1,A
+ALG,11/12/2009,17:00,CA Bordj Bou Arreridj,USM Blida,1,0,H,0,0,D
+ALG,11/12/2009,17:00,NA Hussein Dey,USM Alger,1,2,A,0,1,A
+ALG,11/12/2009,17:00,MC Alger,CR Bélouizdad,4,2,H,1,1,D
+ALG,12/12/2009,13:30,USM El Harrach,USM Annaba,1,0,H,0,0,D
+ALG,12/12/2009,13:30,CA Batna,MSP Batna,0,0,D,0,0,D
+ALG,12/12/2009,13:30,WA Tlemcen,MC El Eulma,1,0,H,0,0,D
+ALG,12/12/2009,13:30,JSM Béjaïa,AS Khroub,3,2,H,2,0,H
+ALG,12/12/2009,13:30,JS Kabylie,ASO Chlef,1,0,H,0,0,D
+ALG,23/02/2010,13:00,MC Oran,ES Sétif,1,1,D,1,1,D
+ALG,15/12/2009,13:00,MC El Eulma,AS Khroub,2,0,H,0,0,D
+ALG,15/12/2009,13:00,CR Bélouizdad,WA Tlemcen,1,0,H,1,0,H
+ALG,15/12/2009,13:00,MSP Batna,MC Alger,1,1,D,1,0,H
+ALG,15/12/2009,13:00,USM Alger,MC Oran,1,1,D,1,1,D
+ALG,15/12/2009,13:00,USM Blida,USM El Harrach,1,1,D,0,0,D
+ALG,15/12/2009,13:00,JS Kabylie,CA Batna,3,1,H,1,1,D
+ALG,15/12/2009,17:00,ES Sétif,JSM Béjaïa,1,0,H,1,0,H
+ALG,15/12/2009,17:00,USM Annaba,NA Hussein Dey,1,1,D,1,0,H
+ALG,15/12/2009,17:00,ASO Chlef,CA Bordj Bou Arreridj,1,1,D,0,0,D
+ALG,16/01/2010,13:30,JS Kabylie,CA Bordj Bou Arreridj,2,0,H,2,0,H
+ALG,16/01/2010,13:30,ASO Chlef,USM El Harrach,2,3,A,1,2,A
+ALG,16/01/2010,13:30,USM Blida,NA Hussein Dey,0,0,D,0,0,D
+ALG,16/01/2010,13:30,USM Alger,CA Batna,6,0,H,2,0,H
+ALG,16/01/2010,13:30,USM Annaba,MC Alger,2,0,H,0,0,D
+ALG,16/01/2010,13:30,MSP Batna,WA Tlemcen,1,1,D,0,0,D
+ALG,16/01/2010,13:30,CR Bélouizdad,MC Oran,2,0,H,1,0,H
+ALG,16/01/2010,13:30,MC El Eulma,JSM Béjaïa,0,1,A,0,0,D
+ALG,09/03/2010,17:00,ES Sétif,AS Khroub,4,1,H,1,1,D
+ALG,22/01/2010,17:00,MC Alger,CA Bordj Bou Arreridj,3,1,H,3,1,H
+ALG,23/01/2010,13:30,JSM Béjaïa,CR Bélouizdad,1,1,D,0,0,D
+ALG,23/01/2010,13:30,MC Oran,MSP Batna,2,0,H,1,0,H
+ALG,23/01/2010,13:30,WA Tlemcen,USM Alger,2,2,D,1,1,D
+ALG,23/01/2010,13:30,CA Batna,USM Annaba,2,1,H,1,1,D
+ALG,23/01/2010,13:30,AS Khroub,USM Blida,3,2,H,1,1,D
+ALG,23/01/2010,13:30,NA Hussein Dey,ASO Chlef,0,1,A,0,1,A
+ALG,23/01/2010,13:30,USM El Harrach,JS Kabylie,2,1,H,1,0,H
+ALG,26/03/2010,18:00,ES Sétif,MC El Eulma,0,0,D,NaN,NaN,NaN
+ALG,30/01/2010,13:30,CA Bordj Bou Arreridj,USM El Harrach,1,1,D,1,0,H
+ALG,30/01/2010,13:30,JS Kabylie,NA Hussein Dey,2,0,H,2,0,H
+ALG,30/01/2010,13:30,ASO Chlef,CA Batna,1,0,H,0,0,D
+ALG,30/01/2010,13:30,USM Blida,MC Alger,1,1,D,1,0,H
+ALG,30/01/2010,13:30,USM Annaba,WA Tlemcen,4,2,H,1,2,A
+ALG,30/01/2010,13:30,MC El Eulma,MC Oran,0,0,D,0,0,D
+ALG,30/01/2010,13:30,MSP Batna,JSM Béjaïa,0,3,A,0,2,A
+ALG,30/01/2010,13:30,USM Alger,AS Khroub,1,1,D,0,0,D
+ALG,29/03/2010,18:00,CR Bélouizdad,ES Sétif,0,1,A,0,0,D
+ALG,05/02/2010,17:00,ES Sétif,USM Annaba,1,0,H,0,0,D
+ALG,05/02/2010,17:00,MC Alger,ASO Chlef,1,0,H,0,0,D
+ALG,06/02/2010,13:30,NA Hussein Dey,CA Bordj Bou Arreridj,1,1,D,1,1,D
+ALG,06/02/2010,13:30,WA Tlemcen,USM El Harrach,2,0,H,0,0,D
+ALG,06/02/2010,13:30,AS Khroub,CR Bélouizdad,1,1,D,1,1,D
+ALG,06/02/2010,13:30,MC El Eulma,MSP Batna,0,1,A,0,1,A
+ALG,06/02/2010,13:30,JSM Béjaïa,USM Alger,1,0,H,0,0,D
+ALG,06/02/2010,13:30,CA Batna,USM Blida,0,0,D,0,0,D
+ALG,06/02/2010,13:30,MC Oran,JS Kabylie,0,1,A,0,1,A
+ALG,13/02/2010,13:30,USM El Harrach,NA Hussein Dey,0,0,D,0,0,D
+ALG,13/02/2010,13:30,CA Bordj Bou Arreridj,CA Batna,2,1,H,0,0,D
+ALG,13/02/2010,13:30,ASO Chlef,WA Tlemcen,1,0,H,1,0,H
+ALG,13/02/2010,13:30,USM Annaba,MC Oran,0,0,D,0,0,D
+ALG,13/02/2010,13:30,USM Blida,JSM Béjaïa,0,2,A,0,0,D
+ALG,16/02/2010,13:00,CR Bélouizdad,MC El Eulma,3,0,H,2,0,H
+ALG,20/02/2010,13:30,MSP Batna,AS Khroub,1,0,H,0,0,D
+ALG,23/02/2010,13:00,JS Kabylie,MC Alger,0,0,D,0,0,D
+ALG,09/04/2010,15:00,USM Alger,ES Sétif,2,0,H,0,0,D
+ALG,23/02/2010,13:00,CR Bélouizdad,MSP Batna,4,0,H,2,0,H
+ALG,26/02/2010,17:00,MC Alger,NA Hussein Dey,2,0,H,1,0,H
+ALG,27/02/2010,13:30,MC Oran,CA Bordj Bou Arreridj,0,0,D,0,0,D
+ALG,27/02/2010,13:30,CA Batna,USM El Harrach,2,3,A,1,2,A
+ALG,27/02/2010,13:30,MC El Eulma,USM Alger,1,0,H,1,0,H
+ALG,27/02/2010,13:30,JSM Béjaïa,USM Annaba,2,2,D,1,1,D
+ALG,27/02/2010,13:30,AS Khroub,ASO Chlef,4,1,H,1,0,H
+ALG,26/03/2010,13:30,WA Tlemcen,JS Kabylie,1,1,D,1,0,H
+ALG,16/04/2010,19:00,ES Sétif,USM Blida,2,1,H,1,1,D
+ALG,05/03/2010,13:30,USM Alger,CR Bélouizdad,1,0,H,0,0,D
+ALG,06/03/2010,13:30,MSP Batna,ES Sétif,0,1,A,0,0,D
+ALG,06/03/2010,13:30,CA Bordj Bou Arreridj,MC El Eulma,1,1,D,0,1,A
+ALG,06/03/2010,13:30,NA Hussein Dey,CA Batna,2,1,H,2,1,H
+ALG,06/03/2010,13:30,USM Blida,WA Tlemcen,1,1,D,0,0,D
+ALG,06/03/2010,13:30,ASO Chlef,MC Oran,3,1,H,1,1,D
+ALG,06/03/2010,13:30,JS Kabylie,JSM Béjaïa,1,1,D,1,1,D
+ALG,06/03/2010,13:30,USM Annaba,AS Khroub,0,0,D,0,0,D
+ALG,30/03/2010,14:00,USM El Harrach,MC Alger,0,0,D,0,0,D
+ALG,19/03/2010,13:30,MC Alger,CA Batna,2,1,H,0,1,A
+ALG,20/03/2010,13:30,USM Blida,MC Oran,2,1,H,2,1,H
+ALG,20/03/2010,13:30,MC El Eulma,USM El Harrach,1,1,D,0,1,A
+ALG,20/03/2010,13:30,WA Tlemcen,NA Hussein Dey,2,0,H,1,0,H
+ALG,20/03/2010,13:30,MSP Batna,USM Alger,0,1,A,0,1,A
+ALG,20/03/2010,13:30,JSM Béjaïa,ASO Chlef,0,1,A,0,0,D
+ALG,26/03/2010,13:30,CR Bélouizdad,USM Annaba,0,0,D,0,0,D
+ALG,16/04/2010,15:00,AS Khroub,JS Kabylie,1,0,H,1,0,H
+ALG,27/04/2010,19:00,ES Sétif,CA Bordj Bou Arreridj,2,0,H,2,0,H
+ALG,23/03/2010,13:30,ASO Chlef,MC El Eulma,2,1,H,0,0,D
+ALG,23/03/2010,13:30,USM Blida,CR Bélouizdad,0,0,D,0,0,D
+ALG,23/03/2010,13:30,USM Annaba,MSP Batna,3,0,H,1,0,H
+ALG,23/03/2010,13:30,CA Batna,WA Tlemcen,3,1,H,2,1,H
+ALG,23/03/2010,13:30,NA Hussein Dey,MC Oran,1,1,D,1,0,H
+ALG,23/03/2010,13:30,CA Bordj Bou Arreridj,JSM Béjaïa,1,1,D,0,0,D
+ALG,23/03/2010,13:30,USM El Harrach,AS Khroub,5,0,H,3,0,H
+ALG,23/03/2010,17:00,USM Alger,MC Alger,1,2,A,0,1,A
+ALG,16/05/2010,16:00,JS Kabylie,ES Sétif,1,1,D,0,1,A
+ALG,06/04/2010,15:00,WA Tlemcen,CA Bordj Bou Arreridj,3,1,H,1,0,H
+ALG,06/04/2010,15:00,JSM Béjaïa,USM El Harrach,2,2,D,0,2,A
+ALG,06/04/2010,15:00,MC Oran,CA Batna,0,0,D,0,0,D
+ALG,06/04/2010,15:00,AS Khroub,MC Alger,0,2,A,0,0,D
+ALG,06/04/2010,15:00,USM Alger,USM Annaba,2,1,H,2,1,H
+ALG,06/04/2010,15:00,MSP Batna,USM Blida,0,2,A,0,0,D
+ALG,06/04/2010,15:00,CR Bélouizdad,ASO Chlef,2,0,H,1,0,H
+ALG,06/04/2010,15:00,MC El Eulma,JS Kabylie,1,0,H,1,0,H
+ALG,06/04/2010,17:00,ES Sétif,NA Hussein Dey,3,0,H,1,0,H
+ALG,23/04/2010,18:00,USM Annaba,MC El Eulma,1,1,D,1,0,H
+ALG,24/04/2010,16:00,CA Bordj Bou Arreridj,MSP Batna,3,2,H,2,1,H
+ALG,24/04/2010,16:00,USM Blida,USM Alger,2,1,H,2,0,H
+ALG,24/04/2010,16:00,MC Alger,WA Tlemcen,1,0,H,1,0,H
+ALG,24/04/2010,16:00,USM El Harrach,MC Oran,5,2,H,3,1,H
+ALG,24/04/2010,16:00,NA Hussein Dey,JSM Béjaïa,1,1,D,1,0,H
+ALG,24/04/2010,16:00,CA Batna,AS Khroub,1,0,H,0,0,D
+ALG,30/04/2010,16:00,JS Kabylie,CR Bélouizdad,2,1,H,1,1,D
+ALG,19/05/2010,16:00,ASO Chlef,ES Sétif,3,3,D,1,1,D
+ALG,04/05/2010,16:00,CR Bélouizdad,CA Bordj Bou Arreridj,1,2,A,0,1,A
+ALG,04/05/2010,16:00,MC El Eulma,NA Hussein Dey,2,0,H,1,0,H
+ALG,04/05/2010,16:00,JSM Béjaïa,CA Batna,5,1,H,4,0,H
+ALG,04/05/2010,16:00,MC Oran,MC Alger,0,0,D,0,0,D
+ALG,04/05/2010,16:00,AS Khroub,WA Tlemcen,1,1,D,1,1,D
+ALG,04/05/2010,16:00,USM Annaba,USM Blida,1,2,A,0,0,D
+ALG,04/05/2010,16:00,USM Alger,ASO Chlef,5,0,H,2,0,H
+ALG,04/05/2010,19:00,ES Sétif,USM El Harrach,1,1,D,1,1,D
+ALG,19/05/2010,16:00,MSP Batna,JS Kabylie,1,0,H,1,0,H
+ALG,13/05/2010,16:00,CA Batna,ES Sétif,0,1,A,0,0,D
+ALG,13/05/2010,16:00,USM Blida,MC El Eulma,2,0,H,1,0,H
+ALG,13/05/2010,16:00,ASO Chlef,MSP Batna,3,2,H,1,1,D
+ALG,13/05/2010,16:00,JS Kabylie,USM Alger,2,2,D,1,0,H
+ALG,13/05/2010,16:00,CA Bordj Bou Arreridj,USM Annaba,3,2,H,2,2,D
+ALG,13/05/2010,16:00,WA Tlemcen,MC Oran,2,2,D,1,0,H
+ALG,13/05/2010,16:00,MC Alger,JSM Béjaïa,1,1,D,1,1,D
+ALG,13/05/2010,16:00,NA Hussein Dey,AS Khroub,1,2,A,0,1,A
+ALG,14/05/2010,16:00,USM El Harrach,CR Bélouizdad,0,0,D,0,0,D
+ALG,22/05/2010,16:00,USM Alger,CA Bordj Bou Arreridj,2,1,H,2,0,H
+ALG,22/05/2010,16:00,MSP Batna,USM El Harrach,0,0,D,0,0,D
+ALG,22/05/2010,16:00,CR Bélouizdad,NA Hussein Dey,3,1,H,2,0,H
+ALG,22/05/2010,16:00,MC El Eulma,CA Batna,1,0,H,1,0,H
+ALG,22/05/2010,16:00,ES Sétif,MC Alger,2,1,H,2,1,H
+ALG,22/05/2010,16:00,JSM Béjaïa,WA Tlemcen,4,2,H,1,0,H
+ALG,22/05/2010,16:00,AS Khroub,MC Oran,2,1,H,1,0,H
+ALG,22/05/2010,16:00,USM Blida,ASO Chlef,2,0,H,0,0,D
+ALG,22/05/2010,16:00,USM Annaba,JS Kabylie,3,0,H,2,0,H
+ALG,25/05/2010,16:00,WA Tlemcen,ES Sétif,2,1,H,1,1,D
+ALG,25/05/2010,16:00,MC Alger,MC El Eulma,3,1,H,2,0,H
+ALG,25/05/2010,16:00,CA Batna,CR Bélouizdad,1,0,H,1,0,H
+ALG,25/05/2010,16:00,NA Hussein Dey,MSP Batna,1,1,D,0,1,A
+ALG,25/05/2010,16:00,USM El Harrach,USM Alger,0,1,A,0,0,D
+ALG,25/05/2010,16:00,ASO Chlef,USM Annaba,1,1,D,0,1,A
+ALG,25/05/2010,16:00,JS Kabylie,USM Blida,3,1,H,1,1,D
+ALG,25/05/2010,16:00,MC Oran,JSM Béjaïa,1,0,H,1,0,H
+ALG,25/05/2010,16:00,CA Bordj Bou Arreridj,AS Khroub,1,4,A,0,2,A
+ALG,28/05/2010,16:00,USM Blida,CA Bordj Bou Arreridj,1,0,H,1,0,H
+ALG,28/05/2010,16:00,USM Annaba,USM El Harrach,1,1,D,1,1,D
+ALG,28/05/2010,16:00,USM Alger,NA Hussein Dey,2,1,H,1,0,H
+ALG,28/05/2010,16:00,MSP Batna,CA Batna,1,0,H,0,0,D
+ALG,28/05/2010,16:00,CR Bélouizdad,MC Alger,0,0,D,0,0,D
+ALG,28/05/2010,16:00,MC El Eulma,WA Tlemcen,2,0,H,1,0,H
+ALG,28/05/2010,16:00,ES Sétif,MC Oran,3,2,H,0,2,A
+ALG,28/05/2010,16:00,AS Khroub,JSM Béjaïa,2,1,H,0,0,D
+ALG,28/05/2010,16:00,ASO Chlef,JS Kabylie,0,1,A,0,0,D
+ALG,31/05/2010,16:00,JSM Béjaïa,ES Sétif,2,2,D,2,2,D
+ALG,31/05/2010,16:00,AS Khroub,MC El Eulma,2,1,H,1,0,H
+ALG,31/05/2010,16:00,WA Tlemcen,CR Bélouizdad,2,3,A,1,1,D
+ALG,31/05/2010,16:00,MC Alger,MSP Batna,4,0,H,2,0,H
+ALG,31/05/2010,16:00,MC Oran,USM Alger,1,1,D,1,0,H
+ALG,31/05/2010,16:00,NA Hussein Dey,USM Annaba,0,1,A,0,0,D
+ALG,31/05/2010,16:00,USM El Harrach,USM Blida,2,1,H,1,0,H
+ALG,31/05/2010,16:00,CA Bordj Bou Arreridj,ASO Chlef,1,0,H,1,0,H
+ALG,31/05/2010,16:00,CA Batna,JS Kabylie,0,1,A,0,0,D

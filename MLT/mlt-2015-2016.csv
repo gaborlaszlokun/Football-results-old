@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,21/08/2015,17:30,Birkirkara FC,Naxxar Lions FC,4,0,H,3,0,H
+MLT,21/08/2015,17:30,Qormi FC,Pembroke Athleta FC,1,2,A,0,1,A
+MLT,21/08/2015,19:30,Sliema Wanderers,Tarxien Rainbows,0,2,A,0,0,D
+MLT,21/08/2015,19:45,St. Andrews FC,Valletta FC,0,3,A,0,1,A
+MLT,22/08/2015,17:30,Floriana FC,Mosta FC,1,2,A,1,0,H
+MLT,22/08/2015,19:30,Balzan Youths,Hibernians FC,1,1,D,0,0,D
+MLT,28/08/2015,17:30,Naxxar Lions FC,Balzan Youths,0,2,A,0,0,D
+MLT,28/08/2015,17:30,Tarxien Rainbows,Birkirkara FC,2,2,D,1,2,A
+MLT,28/08/2015,19:30,Hibernians FC,Floriana FC,2,1,H,1,0,H
+MLT,28/08/2015,19:30,Valletta FC,Sliema Wanderers,1,0,H,0,0,D
+MLT,29/08/2015,17:30,Pembroke Athleta FC,St. Andrews FC,4,3,H,3,1,H
+MLT,29/08/2015,19:45,Mosta FC,Qormi FC,1,0,H,0,0,D
+MLT,12/09/2015,16:00,St. Andrews FC,Mosta FC,0,3,A,0,1,A
+MLT,12/09/2015,16:00,Sliema Wanderers,Pembroke Athleta FC,1,0,H,1,0,H
+MLT,12/09/2015,18:00,Floriana FC,Qormi FC,3,0,H,1,0,H
+MLT,12/09/2015,18:15,Hibernians FC,Naxxar Lions FC,4,1,H,1,1,D
+MLT,13/09/2015,16:00,Balzan Youths,Tarxien Rainbows,0,0,D,0,0,D
+MLT,13/09/2015,18:00,Birkirkara FC,Valletta FC,1,2,A,1,1,D
+MLT,19/09/2015,16:00,Qormi FC,St. Andrews FC,3,0,H,2,0,H
+MLT,19/09/2015,16:00,Pembroke Athleta FC,Birkirkara FC,1,4,A,1,2,A
+MLT,19/09/2015,18:00,Valletta FC,Balzan Youths,0,1,A,0,0,D
+MLT,19/09/2015,18:15,Mosta FC,Sliema Wanderers,1,2,A,1,0,H
+MLT,20/09/2015,16:00,Naxxar Lions FC,Floriana FC,0,1,A,0,0,D
+MLT,20/09/2015,18:00,Tarxien Rainbows,Hibernians FC,0,1,A,0,1,A
+MLT,22/09/2015,17:00,Balzan Youths,Pembroke Athleta FC,5,1,H,2,1,H
+MLT,22/09/2015,19:15,Birkirkara FC,Mosta FC,1,1,D,1,0,H
+MLT,23/09/2015,17:00,Naxxar Lions FC,Tarxien Rainbows,0,5,A,0,3,A
+MLT,23/09/2015,17:00,Floriana FC,St. Andrews FC,3,2,H,3,0,H
+MLT,23/09/2015,19:00,Sliema Wanderers,Qormi FC,0,0,D,0,0,D
+MLT,23/09/2015,19:00,Hibernians FC,Valletta FC,1,0,H,1,0,H
+MLT,26/09/2015,16:00,Tarxien Rainbows,Floriana FC,1,1,D,1,0,H
+MLT,26/09/2015,18:00,Pembroke Athleta FC,Hibernians FC,1,1,D,0,0,D
+MLT,27/09/2015,16:00,Valletta FC,Naxxar Lions FC,3,1,H,1,0,H
+MLT,27/09/2015,16:00,St. Andrews FC,Sliema Wanderers,0,1,A,0,1,A
+MLT,27/09/2015,18:00,Qormi FC,Birkirkara FC,1,2,A,0,2,A
+MLT,27/09/2015,18:15,Mosta FC,Balzan Youths,1,3,A,1,1,D
+MLT,03/10/2015,14:00,Tarxien Rainbows,Valletta FC,1,3,A,1,2,A
+MLT,03/10/2015,14:00,Naxxar Lions FC,Pembroke Athleta FC,1,5,A,1,1,D
+MLT,03/10/2015,16:00,Floriana FC,Sliema Wanderers,3,0,H,1,0,H
+MLT,03/10/2015,16:15,Balzan Youths,Qormi FC,1,0,H,0,0,D
+MLT,04/10/2015,14:00,Birkirkara FC,St. Andrews FC,4,0,H,1,0,H
+MLT,04/10/2015,16:00,Hibernians FC,Mosta FC,1,4,A,1,1,D
+MLT,17/10/2015,14:00,Qormi FC,Hibernians FC,1,2,A,0,1,A
+MLT,17/10/2015,14:00,Pembroke Athleta FC,Tarxien Rainbows,1,2,A,1,0,H
+MLT,17/10/2015,16:00,Mosta FC,Naxxar Lions FC,0,2,A,0,2,A
+MLT,17/10/2015,16:15,St. Andrews FC,Balzan Youths,0,2,A,0,0,D
+MLT,18/10/2015,14:00,Sliema Wanderers,Birkirkara FC,1,3,A,1,0,H
+MLT,18/10/2015,16:00,Valletta FC,Floriana FC,3,1,H,3,1,H
+MLT,24/10/2015,14:00,Pembroke Athleta FC,Mosta FC,0,2,A,0,0,D
+MLT,24/10/2015,14:00,Tarxien Rainbows,St. Andrews FC,1,0,H,0,0,D
+MLT,24/10/2015,16:00,Naxxar Lions FC,Sliema Wanderers,1,2,A,1,2,A
+MLT,24/10/2015,16:15,Valletta FC,Qormi FC,2,1,H,1,1,D
+MLT,25/10/2015,14:00,Floriana FC,Balzan Youths,2,0,H,1,0,H
+MLT,25/10/2015,16:00,Hibernians FC,Birkirkara FC,1,1,D,1,1,D
+MLT,31/10/2015,13:00,St. Andrews FC,Naxxar Lions FC,1,2,A,1,1,D
+MLT,31/10/2015,15:15,Pembroke Athleta FC,Floriana FC,1,2,A,1,0,H
+MLT,02/11/2015,17:00,Birkirkara FC,Balzan Youths,4,1,H,1,1,D
+MLT,02/11/2015,19:15,Sliema Wanderers,Hibernians FC,2,2,D,1,1,D
+MLT,03/11/2015,17:00,Qormi FC,Tarxien Rainbows,1,4,A,1,3,A
+MLT,03/11/2015,19:15,Mosta FC,Valletta FC,2,2,D,0,1,A
+MLT,06/11/2015,17:00,Tarxien Rainbows,Mosta FC,0,0,D,0,0,D
+MLT,06/11/2015,17:00,Valletta FC,Pembroke Athleta FC,0,2,A,0,1,A
+MLT,06/11/2015,19:00,Hibernians FC,St. Andrews FC,3,0,H,0,0,D
+MLT,06/11/2015,19:15,Naxxar Lions FC,Qormi FC,1,1,D,1,1,D
+MLT,07/11/2015,13:00,Balzan Youths,Sliema Wanderers,1,0,H,0,0,D
+MLT,07/11/2015,15:15,Floriana FC,Birkirkara FC,0,0,D,0,0,D
+MLT,20/11/2015,17:00,Tarxien Rainbows,Sliema Wanderers,3,2,H,2,0,H
+MLT,20/11/2015,19:15,Valletta FC,St. Andrews FC,4,0,H,2,0,H
+MLT,21/11/2015,13:00,Pembroke Athleta FC,Qormi FC,0,0,D,0,0,D
+MLT,21/11/2015,15:15,Naxxar Lions FC,Birkirkara FC,2,2,D,0,2,A
+MLT,22/11/2015,13:00,Mosta FC,Floriana FC,0,1,A,0,0,D
+MLT,22/11/2015,15:15,Hibernians FC,Balzan Youths,3,2,H,2,1,H
+MLT,01/12/2015,17:00,Balzan Youths,Naxxar Lions FC,4,2,H,2,0,H
+MLT,01/12/2015,17:00,Qormi FC,Mosta FC,1,3,A,1,1,D
+MLT,01/12/2015,19:00,Sliema Wanderers,Valletta FC,2,4,A,0,2,A
+MLT,01/12/2015,19:15,St. Andrews FC,Pembroke Athleta FC,0,4,A,0,3,A
+MLT,02/12/2015,17:00,Birkirkara FC,Tarxien Rainbows,1,0,H,0,0,D
+MLT,02/12/2015,19:00,Floriana FC,Hibernians FC,2,4,A,2,1,H
+MLT,05/12/2015,13:00,Pembroke Athleta FC,Sliema Wanderers,0,2,A,0,0,D
+MLT,05/12/2015,15:00,Valletta FC,Birkirkara FC,4,0,H,2,0,H
+MLT,06/12/2015,13:00,Mosta FC,St. Andrews FC,3,1,H,1,0,H
+MLT,06/12/2015,13:00,Qormi FC,Floriana FC,0,1,A,0,1,A
+MLT,06/12/2015,15:00,Naxxar Lions FC,Hibernians FC,0,7,A,0,2,A
+MLT,06/12/2015,15:15,Tarxien Rainbows,Balzan Youths,3,0,H,0,0,D
+MLT,12/12/2015,13:00,St. Andrews FC,Qormi FC,0,4,A,0,2,A
+MLT,12/12/2015,13:00,Floriana FC,Naxxar Lions FC,2,1,H,0,1,A
+MLT,12/12/2015,15:00,Hibernians FC,Tarxien Rainbows,2,0,H,0,0,D
+MLT,12/12/2015,15:15,Sliema Wanderers,Mosta FC,1,1,D,0,1,A
+MLT,13/12/2015,13:00,Birkirkara FC,Pembroke Athleta FC,3,0,H,1,0,H
+MLT,13/12/2015,15:00,Balzan Youths,Valletta FC,1,2,A,0,2,A
+MLT,19/12/2015,13:00,Tarxien Rainbows,Naxxar Lions FC,4,0,H,0,0,D
+MLT,19/12/2015,13:00,St. Andrews FC,Floriana FC,0,5,A,0,1,A
+MLT,19/12/2015,15:00,Mosta FC,Birkirkara FC,0,3,A,0,1,A
+MLT,19/12/2015,15:15,Pembroke Athleta FC,Balzan Youths,0,0,D,0,0,D
+MLT,20/12/2015,13:00,Qormi FC,Sliema Wanderers,3,6,A,2,2,D
+MLT,20/12/2015,15:00,Valletta FC,Hibernians FC,3,2,H,0,0,D
+MLT,09/01/2016,13:00,Hibernians FC,Pembroke Athleta FC,2,1,H,1,1,D
+MLT,09/01/2016,15:15,Balzan Youths,Mosta FC,4,1,H,2,0,H
+MLT,10/01/2016,13:00,Naxxar Lions FC,Valletta FC,1,2,A,1,0,H
+MLT,10/01/2016,13:00,Sliema Wanderers,St. Andrews FC,6,1,H,4,0,H
+MLT,10/01/2016,15:00,Floriana FC,Tarxien Rainbows,0,3,A,0,2,A
+MLT,10/01/2016,15:00,Birkirkara FC,Qormi FC,1,0,H,1,0,H
+MLT,16/01/2016,13:00,Pembroke Athleta FC,Naxxar Lions FC,2,0,H,0,0,D
+MLT,16/01/2016,15:15,Valletta FC,Tarxien Rainbows,1,1,D,1,1,D
+MLT,17/01/2016,13:00,Mosta FC,Hibernians FC,0,4,A,0,2,A
+MLT,17/01/2016,15:00,Sliema Wanderers,Floriana FC,1,2,A,1,1,D
+MLT,27/01/2016,17:00,St. Andrews FC,Birkirkara FC,1,3,A,1,1,D
+MLT,27/01/2016,19:00,Qormi FC,Balzan Youths,0,5,A,0,1,A
+MLT,23/01/2016,13:00,Birkirkara FC,Sliema Wanderers,2,0,H,2,0,H
+MLT,23/01/2016,15:00,Floriana FC,Valletta FC,1,2,A,1,0,H
+MLT,24/01/2016,13:00,Hibernians FC,Qormi FC,4,2,H,2,0,H
+MLT,24/01/2016,13:00,Tarxien Rainbows,Pembroke Athleta FC,0,1,A,0,0,D
+MLT,24/01/2016,15:00,Naxxar Lions FC,Mosta FC,0,1,A,0,0,D
+MLT,24/01/2016,15:15,Balzan Youths,St. Andrews FC,5,1,H,2,0,H
+MLT,30/01/2016,13:00,St. Andrews FC,Hibernians FC,2,2,D,0,0,D
+MLT,30/01/2016,15:15,Qormi FC,Naxxar Lions FC,0,5,A,0,1,A
+MLT,31/01/2016,13:00,Mosta FC,Tarxien Rainbows,0,0,D,0,0,D
+MLT,31/01/2016,13:00,Pembroke Athleta FC,Valletta FC,2,3,A,1,1,D
+MLT,31/01/2016,15:00,Sliema Wanderers,Balzan Youths,0,2,A,0,2,A
+MLT,31/01/2016,15:00,Birkirkara FC,Floriana FC,0,0,D,0,0,D
+MLT,05/02/2016,17:00,Naxxar Lions FC,St. Andrews FC,0,1,A,0,1,A
+MLT,05/02/2016,17:00,Tarxien Rainbows,Qormi FC,4,0,H,1,0,H
+MLT,05/02/2016,19:00,Mosta FC,Valletta FC,0,3,A,0,1,A
+MLT,05/02/2016,19:15,Floriana FC,Pembroke Athleta FC,4,2,H,1,0,H
+MLT,06/02/2016,13:00,Balzan Youths,Birkirkara FC,1,0,H,0,0,D
+MLT,06/02/2016,15:00,Hibernians FC,Sliema Wanderers,2,1,H,1,0,H
+MLT,13/02/2016,13:00,Mosta FC,Pembroke Athleta FC,3,3,D,1,3,A
+MLT,13/02/2016,13:00,St. Andrews FC,Tarxien Rainbows,1,1,D,0,0,D
+MLT,13/02/2016,15:00,Qormi FC,Valletta FC,0,2,A,0,0,D
+MLT,13/02/2016,15:15,Sliema Wanderers,Naxxar Lions FC,1,2,A,0,0,D
+MLT,14/02/2016,13:00,Balzan Youths,Floriana FC,1,0,H,0,0,D
+MLT,14/02/2016,15:00,Birkirkara FC,Hibernians FC,0,2,A,0,1,A

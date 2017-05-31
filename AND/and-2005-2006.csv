@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AND,25/09/2005,,FC Rànger's,UE Extremenya,7,1,H,NaN,NaN,NaN
+AND,25/09/2005,,Atlétic Escaldes,FC Lusitanos la Posa,0,1,A,NaN,NaN,NaN
+AND,25/09/2005,,Inter Club d'Escaldes,UE Sant Julià,2,2,D,NaN,NaN,NaN
+AND,25/09/2005,,CE Principat,FC Santa Coloma,0,2,A,NaN,NaN,NaN
+AND,02/10/2005,,FC Lusitanos la Posa,FC Rànger's,1,7,A,NaN,NaN,NaN
+AND,02/10/2005,,UE Sant Julià,Atlétic Escaldes,5,0,H,NaN,NaN,NaN
+AND,02/10/2005,,FC Santa Coloma,UE Extremenya,9,0,H,NaN,NaN,NaN
+AND,02/10/2005,,Inter Club d'Escaldes,CE Principat,5,1,H,NaN,NaN,NaN
+AND,09/10/2005,,Inter Club d'Escaldes,Atlétic Escaldes,0,0,D,NaN,NaN,NaN
+AND,09/10/2005,,UE Extremenya,UE Sant Julià,0,9,A,NaN,NaN,NaN
+AND,09/10/2005,,FC Rànger's,FC Santa Coloma,2,0,H,NaN,NaN,NaN
+AND,09/10/2005,,CE Principat,FC Lusitanos la Posa,2,4,A,NaN,NaN,NaN
+AND,16/10/2005,,FC Lusitanos la Posa,FC Santa Coloma,1,3,A,NaN,NaN,NaN
+AND,16/10/2005,,Atlétic Escaldes,CE Principat,0,0,D,NaN,NaN,NaN
+AND,16/10/2005,,UE Extremenya,Inter Club d'Escaldes,0,2,A,NaN,NaN,NaN
+AND,16/10/2005,,UE Sant Julià,FC Rànger's,0,2,A,NaN,NaN,NaN
+AND,23/10/2005,,CE Principat,UE Extremenya,5,2,H,NaN,NaN,NaN
+AND,23/10/2005,,FC Lusitanos la Posa,UE Sant Julià,1,6,A,NaN,NaN,NaN
+AND,23/10/2005,,Inter Club d'Escaldes,FC Rànger's,1,4,A,NaN,NaN,NaN
+AND,23/10/2005,,FC Santa Coloma,Atlétic Escaldes,2,1,H,NaN,NaN,NaN
+AND,06/11/2005,,FC Rànger's,CE Principat,6,0,H,NaN,NaN,NaN
+AND,06/11/2005,,UE Sant Julià,FC Santa Coloma,2,0,H,NaN,NaN,NaN
+AND,06/11/2005,,Inter Club d'Escaldes,FC Lusitanos la Posa,0,1,A,NaN,NaN,NaN
+AND,06/11/2005,,Atlétic Escaldes,UE Extremenya,2,0,H,NaN,NaN,NaN
+AND,13/11/2005,,UE Extremenya,FC Lusitanos la Posa,2,3,A,NaN,NaN,NaN
+AND,13/11/2005,,FC Santa Coloma,Inter Club d'Escaldes,3,1,H,NaN,NaN,NaN
+AND,13/11/2005,,Atlétic Escaldes,FC Rànger's,0,0,D,NaN,NaN,NaN
+AND,13/11/2005,,CE Principat,UE Sant Julià,0,5,A,NaN,NaN,NaN
+AND,20/11/2005,,UE Extremenya,FC Rànger's,0,14,A,NaN,NaN,NaN
+AND,20/11/2005,,FC Lusitanos la Posa,Atlétic Escaldes,2,1,H,NaN,NaN,NaN
+AND,20/11/2005,,UE Sant Julià,Inter Club d'Escaldes,1,2,A,NaN,NaN,NaN
+AND,20/11/2005,,FC Santa Coloma,CE Principat,5,0,H,NaN,NaN,NaN
+AND,27/11/2005,,FC Rànger's,FC Lusitanos la Posa,2,0,H,NaN,NaN,NaN
+AND,27/11/2005,,Atlétic Escaldes,UE Sant Julià,1,3,A,NaN,NaN,NaN
+AND,27/11/2005,,UE Extremenya,FC Santa Coloma,0,8,A,NaN,NaN,NaN
+AND,04/12/2005,,CE Principat,Inter Club d'Escaldes,1,4,A,NaN,NaN,NaN
+AND,11/12/2005,,Atlétic Escaldes,Inter Club d'Escaldes,0,1,A,NaN,NaN,NaN
+AND,11/12/2005,,FC Santa Coloma,FC Rànger's,0,1,A,NaN,NaN,NaN
+AND,11/12/2005,,FC Lusitanos la Posa,CE Principat,3,1,H,NaN,NaN,NaN
+AND,13/12/2005,,UE Sant Julià,UE Extremenya,10,0,H,NaN,NaN,NaN
+AND,18/12/2005,,FC Santa Coloma,FC Lusitanos la Posa,0,2,A,NaN,NaN,NaN
+AND,18/12/2005,,CE Principat,Atlétic Escaldes,0,1,A,NaN,NaN,NaN
+AND,18/12/2005,,Inter Club d'Escaldes,UE Extremenya,3,1,H,NaN,NaN,NaN
+AND,18/12/2005,,FC Rànger's,UE Sant Julià,1,3,A,NaN,NaN,NaN
+AND,12/02/2006,,UE Extremenya,CE Principat,1,1,D,NaN,NaN,NaN
+AND,12/02/2006,,UE Sant Julià,FC Lusitanos la Posa,3,1,H,NaN,NaN,NaN
+AND,12/02/2006,,FC Rànger's,Inter Club d'Escaldes,4,0,H,NaN,NaN,NaN
+AND,12/02/2006,,Atlétic Escaldes,FC Santa Coloma,0,2,A,NaN,NaN,NaN
+AND,19/02/2006,,CE Principat,FC Rànger's,1,5,A,NaN,NaN,NaN
+AND,19/02/2006,,FC Santa Coloma,UE Sant Julià,2,2,D,NaN,NaN,NaN
+AND,19/02/2006,,FC Lusitanos la Posa,Inter Club d'Escaldes,0,1,A,NaN,NaN,NaN
+AND,19/02/2006,,UE Extremenya,Atlétic Escaldes,1,4,A,NaN,NaN,NaN
+AND,05/03/2006,,FC Rànger's,Atlétic Escaldes,7,0,H,NaN,NaN,NaN
+AND,12/03/2006,,FC Lusitanos la Posa,UE Extremenya,6,1,H,NaN,NaN,NaN
+AND,12/03/2006,,Inter Club d'Escaldes,FC Santa Coloma,0,5,A,NaN,NaN,NaN
+AND,12/03/2006,,UE Sant Julià,CE Principat,2,0,H,NaN,NaN,NaN

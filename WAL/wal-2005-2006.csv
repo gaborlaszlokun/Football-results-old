@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+WAL,27/08/2005,14:30,Caernarfon Town,Caersws FC,6,0,H,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Airbus UK,Grange Quins,3,0,H,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Haverfordwest County,Connah's Quay Nomads,2,0,H,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Llanelli AFC,Bangor City,5,0,H,NaN,NaN,NaN
+WAL,27/08/2005,14:30,NEWI Cefn Druids,Aberystwyth Town,2,2,D,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Newtown AFC,Carmarthen Town,2,1,H,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Porthmadog FC,TNS Llansantffraid,2,2,D,NaN,NaN,NaN
+WAL,27/08/2005,14:30,Port Talbot Town,Welshpool Town,1,1,D,NaN,NaN,NaN
+WAL,10/09/2005,14:30,Rhyl FC,Cwmbran Town,1,2,A,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Aberystwyth Town,Grange Quins,0,0,D,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Airbus UK,Rhyl FC,1,2,A,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Bangor City,Welshpool Town,2,4,A,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Caersws FC,Llanelli AFC,1,4,A,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Connah's Quay Nomads,Newtown AFC,0,2,A,NaN,NaN,NaN
+WAL,30/08/2005,19:30,NEWI Cefn Druids,Porthmadog FC,1,1,D,NaN,NaN,NaN
+WAL,30/08/2005,19:30,Port Talbot Town,TNS Llansantffraid,1,1,D,NaN,NaN,NaN
+WAL,31/08/2005,19:30,Cwmbran Town,Haverfordwest County,3,2,H,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Carmarthen Town,Caernarfon Town,1,1,D,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Grange Quins,NEWI Cefn Druids,3,1,H,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Haverfordwest County,Airbus UK,1,1,D,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Newtown AFC,Cwmbran Town,4,1,H,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Porthmadog FC,Port Talbot Town,1,1,D,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Rhyl FC,Aberystwyth Town,4,1,H,NaN,NaN,NaN
+WAL,04/09/2005,14:30,TNS Llansantffraid,Bangor City,2,0,H,NaN,NaN,NaN
+WAL,04/09/2005,14:30,Welshpool Town,Caersws FC,2,2,D,NaN,NaN,NaN
+WAL,07/09/2005,19:30,Caernarfon Town,Connah's Quay Nomads,4,2,H,NaN,NaN,NaN
+WAL,07/09/2005,19:30,Llanelli AFC,Carmarthen Town,0,2,A,NaN,NaN,NaN
+WAL,09/09/2005,19:30,Aberystwyth Town,Haverfordwest County,1,1,D,NaN,NaN,NaN
+WAL,10/09/2005,14:30,Caersws FC,TNS Llansantffraid,0,2,A,NaN,NaN,NaN
+WAL,10/09/2005,14:30,Carmarthen Town,Welshpool Town,2,0,H,NaN,NaN,NaN
+WAL,20/09/2005,19:30,NEWI Cefn Druids,Rhyl FC,1,1,D,NaN,NaN,NaN
+WAL,20/09/2005,19:30,Airbus UK,Newtown AFC,0,2,A,NaN,NaN,NaN
+WAL,04/02/2006,14:30,Grange Quins,Porthmadog FC,0,2,A,NaN,NaN,NaN
+WAL,19/03/2006,14:30,Cwmbran Town,Caernarfon Town,0,1,A,NaN,NaN,NaN
+WAL,25/03/2006,14:30,Bangor City,Port Talbot Town,3,2,H,NaN,NaN,NaN
+WAL,25/04/2006,14:30,Connah's Quay Nomads,Llanelli AFC,1,0,H,NaN,NaN,NaN
+WAL,16/09/2005,19:30,Llanelli AFC,Cwmbran Town,0,1,A,NaN,NaN,NaN
+WAL,16/09/2005,19:30,Welshpool Town,Connah's Quay Nomads,4,1,H,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Caernarfon Town,Airbus UK,0,1,A,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Haverfordwest County,NEWI Cefn Druids,0,0,D,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Newtown AFC,Aberystwyth Town,1,3,A,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Porthmadog FC,Bangor City,1,2,A,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Port Talbot Town,Caersws FC,0,0,D,NaN,NaN,NaN
+WAL,17/09/2005,14:30,Rhyl FC,Grange Quins,5,2,H,NaN,NaN,NaN
+WAL,17/09/2005,14:30,TNS Llansantffraid,Carmarthen Town,4,1,H,NaN,NaN,NaN
+WAL,23/09/2005,19:30,Connah's Quay Nomads,TNS Llansantffraid,0,2,A,NaN,NaN,NaN
+WAL,23/09/2005,19:30,NEWI Cefn Druids,Newtown AFC,3,0,H,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Grange Quins,Haverfordwest County,1,0,H,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Aberystwyth Town,Caernarfon Town,1,1,D,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Airbus UK,Llanelli AFC,1,0,H,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Caersws FC,Bangor City,0,6,A,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Carmarthen Town,Port Talbot Town,1,1,D,NaN,NaN,NaN
+WAL,24/09/2005,14:30,Cwmbran Town,Welshpool Town,1,2,A,NaN,NaN,NaN
+WAL,25/09/2005,14:00,Porthmadog FC,Rhyl FC,2,1,H,NaN,NaN,NaN
+WAL,07/10/2005,19:30,Caernarfon Town,NEWI Cefn Druids,1,1,D,NaN,NaN,NaN
+WAL,07/10/2005,19:30,Llanelli AFC,Aberystwyth Town,2,1,H,NaN,NaN,NaN
+WAL,07/10/2005,19:30,Welshpool Town,Airbus UK,3,3,D,NaN,NaN,NaN
+WAL,08/10/2005,14:30,Bangor City,Carmarthen Town,1,2,A,NaN,NaN,NaN
+WAL,08/10/2005,14:30,Haverfordwest County,Rhyl FC,2,2,D,NaN,NaN,NaN
+WAL,08/10/2005,14:30,Newtown AFC,Grange Quins,5,0,H,NaN,NaN,NaN
+WAL,08/10/2005,14:30,Porthmadog FC,Caersws FC,3,3,D,NaN,NaN,NaN
+WAL,08/10/2005,14:30,Port Talbot Town,Connah's Quay Nomads,0,0,D,NaN,NaN,NaN
+WAL,09/10/2005,14:30,TNS Llansantffraid,Cwmbran Town,1,0,H,NaN,NaN,NaN
+WAL,14/10/2005,19:30,Aberystwyth Town,Welshpool Town,6,2,H,NaN,NaN,NaN
+WAL,14/10/2005,19:30,Airbus UK,TNS Llansantffraid,0,5,A,NaN,NaN,NaN
+WAL,14/10/2005,19:30,Connah's Quay Nomads,Bangor City,0,1,A,NaN,NaN,NaN
+WAL,15/10/2005,14:30,Grange Quins,Caernarfon Town,4,1,H,NaN,NaN,NaN
+WAL,15/10/2005,14:30,Carmarthen Town,Caersws FC,1,3,A,NaN,NaN,NaN
+WAL,15/10/2005,14:30,Cwmbran Town,Port Talbot Town,2,5,A,NaN,NaN,NaN
+WAL,15/10/2005,14:30,Haverfordwest County,Porthmadog FC,1,1,D,NaN,NaN,NaN
+WAL,15/10/2005,14:30,Rhyl FC,Newtown AFC,3,1,H,NaN,NaN,NaN
+WAL,16/10/2005,14:30,NEWI Cefn Druids,Llanelli AFC,2,5,A,NaN,NaN,NaN
+WAL,21/10/2005,19:30,Caernarfon Town,Rhyl FC,0,2,A,NaN,NaN,NaN
+WAL,21/10/2005,19:30,Welshpool Town,NEWI Cefn Druids,3,2,H,NaN,NaN,NaN
+WAL,22/10/2005,14:00,Bangor City,Cwmbran Town,3,0,H,NaN,NaN,NaN
+WAL,22/10/2005,14:30,Caersws FC,Connah's Quay Nomads,1,0,H,NaN,NaN,NaN
+WAL,22/10/2005,14:30,Newtown AFC,Haverfordwest County,2,3,A,NaN,NaN,NaN
+WAL,22/10/2005,14:30,Port Talbot Town,Airbus UK,4,0,H,NaN,NaN,NaN
+WAL,22/10/2005,14:30,TNS Llansantffraid,Aberystwyth Town,5,0,H,NaN,NaN,NaN
+WAL,21/12/2005,19:30,Llanelli AFC,Grange Quins,1,0,H,NaN,NaN,NaN
+WAL,14/03/2006,19:30,Porthmadog FC,Carmarthen Town,3,0,H,NaN,NaN,NaN
+WAL,28/10/2005,19:30,Airbus UK,Bangor City,2,1,H,NaN,NaN,NaN
+WAL,28/10/2005,19:30,NEWI Cefn Druids,TNS Llansantffraid,0,6,A,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Aberystwyth Town,Port Talbot Town,0,3,A,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Grange Quins,Welshpool Town,0,5,A,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Connah's Quay Nomads,Carmarthen Town,0,1,A,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Cwmbran Town,Caersws FC,2,2,D,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Haverfordwest County,Caernarfon Town,2,2,D,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Newtown AFC,Porthmadog FC,3,1,H,NaN,NaN,NaN
+WAL,29/10/2005,14:30,Rhyl FC,Llanelli AFC,0,1,A,NaN,NaN,NaN
+WAL,12/11/2005,14:00,Llanelli AFC,Haverfordwest County,0,1,A,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Welshpool Town,Rhyl FC,3,1,H,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Bangor City,Aberystwyth Town,3,1,H,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Caersws FC,Airbus UK,3,1,H,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Carmarthen Town,Cwmbran Town,1,1,D,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Porthmadog FC,Connah's Quay Nomads,2,2,D,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Port Talbot Town,NEWI Cefn Druids,1,0,H,NaN,NaN,NaN
+WAL,12/11/2005,14:30,TNS Llansantffraid,Grange Quins,7,0,H,NaN,NaN,NaN
+WAL,12/11/2005,14:30,Caernarfon Town,Newtown AFC,0,0,D,NaN,NaN,NaN
+WAL,18/11/2005,19:30,Aberystwyth Town,Caersws FC,0,0,D,NaN,NaN,NaN
+WAL,18/11/2005,19:30,Caernarfon Town,Porthmadog FC,1,2,A,NaN,NaN,NaN
+WAL,18/11/2005,19:30,Port Talbot Town,Grange Quins,0,1,A,NaN,NaN,NaN
+WAL,18/11/2005,19:30,NEWI Cefn Druids,Bangor City,2,2,D,NaN,NaN,NaN
+WAL,18/11/2005,19:30,Rhyl FC,TNS Llansantffraid,0,0,D,NaN,NaN,NaN
+WAL,19/11/2005,14:00,Newtown AFC,Llanelli AFC,0,3,A,NaN,NaN,NaN
+WAL,19/11/2005,14:30,Airbus UK,Carmarthen Town,1,3,A,NaN,NaN,NaN
+WAL,19/11/2005,14:30,Cwmbran Town,Connah's Quay Nomads,2,1,H,NaN,NaN,NaN
+WAL,19/11/2005,14:30,Haverfordwest County,Welshpool Town,2,1,H,NaN,NaN,NaN
+WAL,25/11/2005,19:30,Connah's Quay Nomads,Airbus UK,3,0,H,NaN,NaN,NaN
+WAL,25/11/2005,19:30,Welshpool Town,Newtown AFC,1,2,A,NaN,NaN,NaN
+WAL,26/11/2005,14:30,Bangor City,Grange Quins,5,1,H,NaN,NaN,NaN
+WAL,26/11/2005,14:30,Porthmadog FC,Cwmbran Town,5,1,H,NaN,NaN,NaN
+WAL,26/11/2005,14:30,Port Talbot Town,Rhyl FC,1,0,H,NaN,NaN,NaN
+WAL,28/02/2006,19:30,Carmarthen Town,Aberystwyth Town,1,0,H,NaN,NaN,NaN
+WAL,11/04/2006,19:30,TNS Llansantffraid,Haverfordwest County,2,0,H,NaN,NaN,NaN
+WAL,17/04/2006,14:30,Llanelli AFC,Caernarfon Town,3,1,H,NaN,NaN,NaN
+WAL,25/04/2006,19:30,Caersws FC,NEWI Cefn Druids,1,0,H,NaN,NaN,NaN
+WAL,02/12/2005,19:30,Haverfordwest County,Port Talbot Town,1,3,A,NaN,NaN,NaN
+WAL,03/12/2005,14:00,Newtown AFC,TNS Llansantffraid,0,3,A,NaN,NaN,NaN
+WAL,03/12/2005,14:30,Aberystwyth Town,Connah's Quay Nomads,1,2,A,NaN,NaN,NaN
+WAL,03/12/2005,14:30,Grange Quins,Caersws FC,0,5,A,NaN,NaN,NaN
+WAL,04/12/2005,14:30,Rhyl FC,Bangor City,4,1,H,NaN,NaN,NaN
+WAL,28/03/2006,19:30,Porthmadog FC,Llanelli AFC,1,2,A,NaN,NaN,NaN
+WAL,17/04/2006,14:30,NEWI Cefn Druids,Carmarthen Town,1,2,A,NaN,NaN,NaN
+WAL,29/04/2006,14:30,Airbus UK,Cwmbran Town,1,3,A,NaN,NaN,NaN
+WAL,29/04/2006,14:30,Caernarfon Town,Welshpool Town,1,1,D,NaN,NaN,NaN
+WAL,09/12/2005,19:30,Connah's Quay Nomads,NEWI Cefn Druids,1,0,H,NaN,NaN,NaN
+WAL,09/12/2005,19:30,Cwmbran Town,Aberystwyth Town,1,3,A,NaN,NaN,NaN
+WAL,10/12/2005,14:00,Carmarthen Town,Grange Quins,8,0,H,NaN,NaN,NaN
+WAL,10/12/2005,14:30,Bangor City,Haverfordwest County,0,1,A,NaN,NaN,NaN
+WAL,10/12/2005,14:30,Caersws FC,Rhyl FC,1,1,D,NaN,NaN,NaN
+WAL,10/12/2005,14:30,Porthmadog FC,Airbus UK,3,1,H,NaN,NaN,NaN
+WAL,10/12/2005,14:30,Port Talbot Town,Newtown AFC,3,2,H,NaN,NaN,NaN
+WAL,10/12/2005,14:30,Welshpool Town,Llanelli AFC,3,2,H,NaN,NaN,NaN
+WAL,10/12/2005,14:30,TNS Llansantffraid,Caernarfon Town,2,1,H,NaN,NaN,NaN
+WAL,17/12/2005,14:00,Llanelli AFC,TNS Llansantffraid,0,2,A,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Newtown AFC,Bangor City,0,1,A,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Aberystwyth Town,Airbus UK,2,2,D,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Caernarfon Town,Port Talbot Town,0,1,A,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Haverfordwest County,Caersws FC,0,0,D,NaN,NaN,NaN
+WAL,17/12/2005,14:30,NEWI Cefn Druids,Cwmbran Town,0,0,D,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Rhyl FC,Carmarthen Town,1,0,H,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Welshpool Town,Porthmadog FC,1,0,H,NaN,NaN,NaN
+WAL,17/12/2005,14:30,Grange Quins,Connah's Quay Nomads,1,4,A,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Aberystwyth Town,Porthmadog FC,4,1,H,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Airbus UK,NEWI Cefn Druids,3,2,H,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Bangor City,Caernarfon Town,1,0,H,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Caersws FC,Newtown AFC,2,1,H,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Carmarthen Town,Haverfordwest County,2,3,A,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Connah's Quay Nomads,Rhyl FC,0,1,A,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Port Talbot Town,Llanelli AFC,0,1,A,NaN,NaN,NaN
+WAL,26/12/2005,14:30,Welshpool Town,TNS Llansantffraid,1,2,A,NaN,NaN,NaN
+WAL,28/02/2006,19:30,Grange Quins,Cwmbran Town,1,1,D,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Caernarfon Town,Bangor City,1,1,D,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Haverfordwest County,Carmarthen Town,1,2,A,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Llanelli AFC,Port Talbot Town,3,1,H,NaN,NaN,NaN
+WAL,02/01/2006,14:30,NEWI Cefn Druids,Airbus UK,0,0,D,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Newtown AFC,Caersws FC,0,2,A,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Porthmadog FC,Aberystwyth Town,0,2,A,NaN,NaN,NaN
+WAL,02/01/2006,14:30,Rhyl FC,Connah's Quay Nomads,2,1,H,NaN,NaN,NaN
+WAL,02/01/2006,14:30,TNS Llansantffraid,Welshpool Town,1,1,D,NaN,NaN,NaN
+WAL,04/01/2006,19:30,Cwmbran Town,Grange Quins,1,1,D,NaN,NaN,NaN
+WAL,07/01/2006,14:00,Welshpool Town,Port Talbot Town,2,1,H,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Aberystwyth Town,NEWI Cefn Druids,2,1,H,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Grange Quins,Airbus UK,0,1,A,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Bangor City,Llanelli AFC,1,3,A,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Caersws FC,Caernarfon Town,3,4,A,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Carmarthen Town,Newtown AFC,6,0,H,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Connah's Quay Nomads,Haverfordwest County,1,1,D,NaN,NaN,NaN
+WAL,07/01/2006,14:30,Cwmbran Town,Rhyl FC,1,7,A,NaN,NaN,NaN
+WAL,07/01/2006,14:30,TNS Llansantffraid,Porthmadog FC,7,0,H,NaN,NaN,NaN
+WAL,13/01/2006,19:30,Rhyl FC,Airbus UK,1,1,D,NaN,NaN,NaN
+WAL,14/01/2006,14:00,TNS Llansantffraid,Port Talbot Town,1,0,H,NaN,NaN,NaN
+WAL,14/01/2006,14:30,Grange Quins,Aberystwyth Town,2,5,A,NaN,NaN,NaN
+WAL,14/01/2006,14:30,Welshpool Town,Bangor City,2,0,H,NaN,NaN,NaN
+WAL,14/01/2006,14:30,Caernarfon Town,Carmarthen Town,0,2,A,NaN,NaN,NaN
+WAL,14/01/2006,14:30,Llanelli AFC,Caersws FC,5,0,H,NaN,NaN,NaN
+WAL,14/01/2006,14:30,Porthmadog FC,NEWI Cefn Druids,5,0,H,NaN,NaN,NaN
+WAL,21/02/2006,19:30,Haverfordwest County,Cwmbran Town,3,0,H,NaN,NaN,NaN
+WAL,11/04/2006,19:30,Newtown AFC,Connah's Quay Nomads,1,1,D,NaN,NaN,NaN
+WAL,20/01/2006,19:30,Carmarthen Town,Llanelli AFC,0,1,A,NaN,NaN,NaN
+WAL,20/01/2006,19:30,Connah's Quay Nomads,Caernarfon Town,2,1,H,NaN,NaN,NaN
+WAL,21/01/2006,14:30,Airbus UK,Haverfordwest County,1,2,A,NaN,NaN,NaN
+WAL,21/01/2006,14:30,Caersws FC,Welshpool Town,0,2,A,NaN,NaN,NaN
+WAL,21/01/2006,14:30,Cwmbran Town,Newtown AFC,0,1,A,NaN,NaN,NaN
+WAL,21/01/2006,14:30,Port Talbot Town,Porthmadog FC,2,1,H,NaN,NaN,NaN
+WAL,22/01/2006,14:00,Aberystwyth Town,Rhyl FC,1,2,A,NaN,NaN,NaN
+WAL,22/01/2006,14:30,Bangor City,TNS Llansantffraid,2,3,A,NaN,NaN,NaN
+WAL,22/01/2006,14:30,NEWI Cefn Druids,Grange Quins,7,0,H,NaN,NaN,NaN
+WAL,27/01/2006,19:30,Haverfordwest County,Aberystwyth Town,1,1,D,NaN,NaN,NaN
+WAL,27/01/2006,19:30,Rhyl FC,NEWI Cefn Druids,1,1,D,NaN,NaN,NaN
+WAL,27/01/2006,19:30,TNS Llansantffraid,Caersws FC,2,0,H,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Caernarfon Town,Cwmbran Town,2,2,D,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Llanelli AFC,Connah's Quay Nomads,2,0,H,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Newtown AFC,Airbus UK,0,3,A,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Porthmadog FC,Grange Quins,4,0,H,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Port Talbot Town,Bangor City,0,2,A,NaN,NaN,NaN
+WAL,28/01/2006,14:30,Welshpool Town,Carmarthen Town,3,0,H,NaN,NaN,NaN
+WAL,03/02/2006,19:30,Connah's Quay Nomads,Welshpool Town,2,0,H,NaN,NaN,NaN
+WAL,07/02/2006,19:30,Airbus UK,Caernarfon Town,1,2,A,NaN,NaN,NaN
+WAL,07/02/2006,19:30,Caersws FC,Port Talbot Town,1,1,D,NaN,NaN,NaN
+WAL,08/02/2006,19:30,Cwmbran Town,Llanelli AFC,0,1,A,NaN,NaN,NaN
+WAL,14/03/2006,19:30,Aberystwyth Town,Newtown AFC,3,1,H,NaN,NaN,NaN
+WAL,04/04/2006,19:30,Bangor City,Porthmadog FC,1,2,A,NaN,NaN,NaN
+WAL,04/04/2006,19:30,Carmarthen Town,TNS Llansantffraid,2,1,H,NaN,NaN,NaN
+WAL,17/04/2006,14:30,Grange Quins,Rhyl FC,0,2,A,NaN,NaN,NaN
+WAL,29/04/2006,14:30,NEWI Cefn Druids,Haverfordwest County,0,1,A,NaN,NaN,NaN
+WAL,10/02/2006,19:30,Haverfordwest County,Grange Quins,7,0,H,NaN,NaN,NaN
+WAL,10/02/2006,19:30,TNS Llansantffraid,Connah's Quay Nomads,2,0,H,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Bangor City,Caersws FC,1,2,A,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Caernarfon Town,Aberystwyth Town,4,2,H,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Llanelli AFC,Airbus UK,3,0,H,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Newtown AFC,NEWI Cefn Druids,2,3,A,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Rhyl FC,Porthmadog FC,3,0,H,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Port Talbot Town,Carmarthen Town,3,0,H,NaN,NaN,NaN
+WAL,11/02/2006,14:30,Welshpool Town,Cwmbran Town,5,1,H,NaN,NaN,NaN
+WAL,17/02/2006,19:30,Airbus UK,Welshpool Town,0,2,A,NaN,NaN,NaN
+WAL,17/02/2006,19:30,Cwmbran Town,TNS Llansantffraid,1,4,A,NaN,NaN,NaN
+WAL,17/02/2006,19:30,NEWI Cefn Druids,Caernarfon Town,3,2,H,NaN,NaN,NaN
+WAL,18/02/2006,14:00,Aberystwyth Town,Llanelli AFC,4,1,H,NaN,NaN,NaN
+WAL,18/02/2006,14:30,Caersws FC,Porthmadog FC,2,1,H,NaN,NaN,NaN
+WAL,18/02/2006,14:30,Grange Quins,Newtown AFC,0,1,A,NaN,NaN,NaN
+WAL,18/02/2006,14:30,Rhyl FC,Haverfordwest County,1,1,D,NaN,NaN,NaN
+WAL,19/02/2006,14:30,Carmarthen Town,Bangor City,0,2,A,NaN,NaN,NaN
+WAL,04/04/2006,19:30,Connah's Quay Nomads,Port Talbot Town,0,1,A,NaN,NaN,NaN
+WAL,24/02/2006,19:30,Bangor City,Connah's Quay Nomads,0,2,A,NaN,NaN,NaN
+WAL,24/02/2006,19:30,Port Talbot Town,Cwmbran Town,2,1,H,NaN,NaN,NaN
+WAL,25/02/2006,14:00,Caersws FC,Carmarthen Town,1,2,A,NaN,NaN,NaN
+WAL,25/02/2006,14:30,Caernarfon Town,Grange Quins,2,1,H,NaN,NaN,NaN
+WAL,25/02/2006,14:30,Llanelli AFC,NEWI Cefn Druids,1,0,H,NaN,NaN,NaN
+WAL,25/02/2006,14:30,Porthmadog FC,Haverfordwest County,1,4,A,NaN,NaN,NaN
+WAL,26/02/2006,15:00,TNS Llansantffraid,Airbus UK,3,0,H,NaN,NaN,NaN
+WAL,04/04/2006,19:30,Newtown AFC,Rhyl FC,1,4,A,NaN,NaN,NaN
+WAL,18/04/2006,19:30,Welshpool Town,Aberystwyth Town,1,4,A,NaN,NaN,NaN
+WAL,04/03/2006,14:30,Haverfordwest County,Newtown AFC,1,1,D,NaN,NaN,NaN
+WAL,21/03/2006,19:30,Grange Quins,Llanelli AFC,0,5,A,NaN,NaN,NaN
+WAL,28/03/2006,19:30,NEWI Cefn Druids,Welshpool Town,1,0,H,NaN,NaN,NaN
+WAL,28/03/2006,19:30,Connah's Quay Nomads,Caersws FC,1,3,A,NaN,NaN,NaN
+WAL,29/03/2006,19:30,Rhyl FC,Caernarfon Town,2,1,H,NaN,NaN,NaN
+WAL,15/04/2006,14:30,Carmarthen Town,Porthmadog FC,3,1,H,NaN,NaN,NaN
+WAL,17/04/2006,14:30,Airbus UK,Port Talbot Town,0,1,A,NaN,NaN,NaN
+WAL,17/04/2006,14:30,Cwmbran Town,Bangor City,1,2,A,NaN,NaN,NaN
+WAL,25/04/2006,19:30,Aberystwyth Town,TNS Llansantffraid,2,0,H,NaN,NaN,NaN
+WAL,10/03/2006,19:30,Port Talbot Town,Aberystwyth Town,0,0,D,NaN,NaN,NaN
+WAL,11/03/2006,14:30,Porthmadog FC,Newtown AFC,1,1,D,NaN,NaN,NaN
+WAL,11/03/2006,14:30,Welshpool Town,Grange Quins,2,1,H,NaN,NaN,NaN
+WAL,11/03/2006,14:30,Caernarfon Town,Haverfordwest County,0,2,A,NaN,NaN,NaN
+WAL,14/03/2006,19:30,Bangor City,Airbus UK,1,2,A,NaN,NaN,NaN
+WAL,04/04/2006,19:30,Caersws FC,Cwmbran Town,1,2,A,NaN,NaN,NaN
+WAL,19/04/2006,19:30,TNS Llansantffraid,NEWI Cefn Druids,4,1,H,NaN,NaN,NaN
+WAL,29/04/2006,14:30,Carmarthen Town,Connah's Quay Nomads,1,1,D,NaN,NaN,NaN
+WAL,29/04/2006,14:30,Llanelli AFC,Rhyl FC,1,1,D,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Airbus UK,Caersws FC,1,1,D,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Connah's Quay Nomads,Porthmadog FC,0,2,A,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Cwmbran Town,Carmarthen Town,3,2,H,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Haverfordwest County,Llanelli AFC,0,2,A,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Newtown AFC,Caernarfon Town,1,2,A,NaN,NaN,NaN
+WAL,17/03/2006,19:30,Rhyl FC,Welshpool Town,3,0,H,NaN,NaN,NaN
+WAL,18/03/2006,13:30,Aberystwyth Town,Bangor City,1,0,H,NaN,NaN,NaN
+WAL,18/03/2006,14:30,NEWI Cefn Druids,Port Talbot Town,0,0,D,NaN,NaN,NaN
+WAL,19/03/2006,14:30,Grange Quins,TNS Llansantffraid,0,3,A,NaN,NaN,NaN
+WAL,21/03/2006,19:30,Bangor City,NEWI Cefn Druids,2,1,H,NaN,NaN,NaN
+WAL,24/03/2006,19:30,Caersws FC,Aberystwyth Town,1,1,D,NaN,NaN,NaN
+WAL,25/03/2006,14:30,Carmarthen Town,Airbus UK,2,1,H,NaN,NaN,NaN
+WAL,25/03/2006,14:30,Connah's Quay Nomads,Cwmbran Town,2,2,D,NaN,NaN,NaN
+WAL,25/03/2006,14:30,Porthmadog FC,Caernarfon Town,2,3,A,NaN,NaN,NaN
+WAL,25/03/2006,14:30,Welshpool Town,Haverfordwest County,1,1,D,NaN,NaN,NaN
+WAL,26/03/2006,14:30,TNS Llansantffraid,Rhyl FC,1,0,H,NaN,NaN,NaN
+WAL,28/03/2006,19:30,Grange Quins,Port Talbot Town,0,5,A,NaN,NaN,NaN
+WAL,19/04/2006,19:30,Llanelli AFC,Newtown AFC,2,2,D,NaN,NaN,NaN
+WAL,31/03/2006,19:30,Aberystwyth Town,Carmarthen Town,1,1,D,NaN,NaN,NaN
+WAL,31/03/2006,19:30,Airbus UK,Connah's Quay Nomads,2,2,D,NaN,NaN,NaN
+WAL,31/03/2006,19:30,Haverfordwest County,TNS Llansantffraid,0,1,A,NaN,NaN,NaN
+WAL,01/04/2006,14:30,NEWI Cefn Druids,Caersws FC,2,0,H,NaN,NaN,NaN
+WAL,05/04/2006,19:30,Caernarfon Town,Llanelli AFC,0,3,A,NaN,NaN,NaN
+WAL,19/04/2006,19:00,Cwmbran Town,Porthmadog FC,3,1,H,NaN,NaN,NaN
+WAL,25/04/2006,14:30,Rhyl FC,Port Talbot Town,3,0,H,NaN,NaN,NaN
+WAL,25/04/2006,19:30,Newtown AFC,Welshpool Town,1,1,D,NaN,NaN,NaN
+WAL,30/04/2006,14:30,Grange Quins,Bangor City,2,3,A,NaN,NaN,NaN
+WAL,07/04/2006,19:30,TNS Llansantffraid,Newtown AFC,3,1,H,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Caersws FC,Grange Quins,2,2,D,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Carmarthen Town,NEWI Cefn Druids,3,0,H,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Connah's Quay Nomads,Aberystwyth Town,1,0,H,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Cwmbran Town,Airbus UK,1,1,D,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Llanelli AFC,Porthmadog FC,2,2,D,NaN,NaN,NaN
+WAL,08/04/2006,14:30,Welshpool Town,Caernarfon Town,0,0,D,NaN,NaN,NaN
+WAL,11/04/2006,19:30,Bangor City,Rhyl FC,0,3,A,NaN,NaN,NaN
+WAL,20/04/2006,19:30,Port Talbot Town,Haverfordwest County,1,1,D,NaN,NaN,NaN
+WAL,11/04/2006,19:30,Grange Quins,Carmarthen Town,0,6,A,NaN,NaN,NaN
+WAL,11/04/2006,19:30,Airbus UK,Porthmadog FC,0,1,A,NaN,NaN,NaN
+WAL,14/04/2006,14:30,Aberystwyth Town,Cwmbran Town,3,1,H,NaN,NaN,NaN
+WAL,14/04/2006,14:30,Caernarfon Town,TNS Llansantffraid,1,3,A,NaN,NaN,NaN
+WAL,14/04/2006,14:30,NEWI Cefn Druids,Connah's Quay Nomads,2,2,D,NaN,NaN,NaN
+WAL,15/04/2006,14:30,Haverfordwest County,Bangor City,1,1,D,NaN,NaN,NaN
+WAL,15/04/2006,14:30,Llanelli AFC,Welshpool Town,0,0,D,NaN,NaN,NaN
+WAL,15/04/2006,14:30,Newtown AFC,Port Talbot Town,0,1,A,NaN,NaN,NaN
+WAL,15/04/2006,14:30,Rhyl FC,Caersws FC,0,0,D,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Airbus UK,Aberystwyth Town,0,1,A,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Bangor City,Newtown AFC,0,1,A,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Caersws FC,Haverfordwest County,1,0,H,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Carmarthen Town,Rhyl FC,1,1,D,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Connah's Quay Nomads,Grange Quins,1,0,H,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Cwmbran Town,NEWI Cefn Druids,1,2,A,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Port Talbot Town,Caernarfon Town,1,1,D,NaN,NaN,NaN
+WAL,22/04/2006,14:30,TNS Llansantffraid,Llanelli AFC,0,0,D,NaN,NaN,NaN
+WAL,22/04/2006,14:30,Porthmadog FC,Welshpool Town,2,0,H,NaN,NaN,NaN

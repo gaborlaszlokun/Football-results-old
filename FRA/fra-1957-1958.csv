@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+FRA,18/08/1957,,OGC Nice,FC Metz,6,2,H,NaN,NaN,NaN
+FRA,18/08/1957,,Racing Club de France,FC Sochaux,6,4,H,NaN,NaN,NaN
+FRA,18/08/1957,,RC Lens,Toulouse FC,3,1,H,NaN,NaN,NaN
+FRA,18/08/1957,,Olympique Marseille,Lille OSC,3,4,A,NaN,NaN,NaN
+FRA,18/08/1957,,UA Sedan-Torcy,AS Monaco,2,1,H,NaN,NaN,NaN
+FRA,18/08/1957,,Olympique Lyon,Nîmes Olympique,1,0,H,NaN,NaN,NaN
+FRA,18/08/1957,,Olympique Alès,US Valenciennes-Anzin,0,1,A,NaN,NaN,NaN
+FRA,18/08/1957,,AS Béziers,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
+FRA,20/08/1957,,Angers SCO,Stade Reims,0,1,A,NaN,NaN,NaN
+FRA,25/08/1957,,Nîmes Olympique,RC Lens,2,3,A,NaN,NaN,NaN
+FRA,25/08/1957,,US Valenciennes-Anzin,UA Sedan-Torcy,3,1,H,NaN,NaN,NaN
+FRA,25/08/1957,,Olympique Lyon,FC Metz,2,0,H,NaN,NaN,NaN
+FRA,25/08/1957,,Stade Reims,OGC Nice,3,2,H,NaN,NaN,NaN
+FRA,25/08/1957,,Olympique Marseille,Racing Club de France,1,1,D,NaN,NaN,NaN
+FRA,25/08/1957,,Lille OSC,AS Saint-Étienne,1,2,A,NaN,NaN,NaN
+FRA,25/08/1957,,AS Monaco,FC Sochaux,5,2,H,NaN,NaN,NaN
+FRA,25/08/1957,,AS Béziers,Angers SCO,4,4,D,NaN,NaN,NaN
+FRA,25/08/1957,,Toulouse FC,Olympique Alès,2,3,A,NaN,NaN,NaN
+FRA,08/09/1957,,RC Lens,Olympique Lyon,4,4,D,NaN,NaN,NaN
+FRA,08/09/1957,,US Valenciennes-Anzin,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,08/09/1957,,AS Monaco,Stade Reims,3,0,H,NaN,NaN,NaN
+FRA,08/09/1957,,UA Sedan-Torcy,Nîmes Olympique,3,1,H,NaN,NaN,NaN
+FRA,08/09/1957,,Olympique Alès,Lille OSC,2,1,H,NaN,NaN,NaN
+FRA,08/09/1957,,AS Saint-Étienne,Toulouse FC,1,1,D,NaN,NaN,NaN
+FRA,08/09/1957,,Racing Club de France,Angers SCO,1,2,A,NaN,NaN,NaN
+FRA,08/09/1957,,FC Metz,Olympique Marseille,1,2,A,NaN,NaN,NaN
+FRA,08/09/1957,,FC Sochaux,AS Béziers,4,0,H,NaN,NaN,NaN
+FRA,15/09/1957,,FC Metz,RC Lens,1,4,A,NaN,NaN,NaN
+FRA,15/09/1957,,Stade Reims,Olympique Lyon,4,0,H,NaN,NaN,NaN
+FRA,15/09/1957,,OGC Nice,UA Sedan-Torcy,8,0,H,NaN,NaN,NaN
+FRA,15/09/1957,,Lille OSC,Racing Club de France,1,3,A,NaN,NaN,NaN
+FRA,15/09/1957,,FC Sochaux,US Valenciennes-Anzin,1,0,H,NaN,NaN,NaN
+FRA,15/09/1957,,Angers SCO,AS Monaco,3,2,H,NaN,NaN,NaN
+FRA,15/09/1957,,AS Saint-Étienne,Olympique Alès,2,2,D,NaN,NaN,NaN
+FRA,15/09/1957,,Toulouse FC,Olympique Marseille,1,1,D,NaN,NaN,NaN
+FRA,15/09/1957,,Nîmes Olympique,AS Béziers,2,0,H,NaN,NaN,NaN
+FRA,18/09/1957,,RC Lens,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,18/09/1957,,Racing Club de France,Nîmes Olympique,3,1,H,NaN,NaN,NaN
+FRA,18/09/1957,,FC Metz,AS Saint-Étienne,0,2,A,NaN,NaN,NaN
+FRA,18/09/1957,,AS Béziers,AS Monaco,0,3,A,NaN,NaN,NaN
+FRA,18/09/1957,,FC Sochaux,Toulouse FC,4,2,H,NaN,NaN,NaN
+FRA,19/09/1957,,Angers SCO,Lille OSC,0,0,D,NaN,NaN,NaN
+FRA,19/09/1957,,Stade Reims,US Valenciennes-Anzin,4,2,H,NaN,NaN,NaN
+FRA,19/09/1957,,Olympique Alès,UA Sedan-Torcy,2,0,H,NaN,NaN,NaN
+FRA,19/09/1957,,Olympique Marseille,Olympique Lyon,2,3,A,NaN,NaN,NaN
+FRA,21/09/1957,,AS Béziers,RC Lens,1,1,D,NaN,NaN,NaN
+FRA,22/09/1957,,Olympique Lyon,Racing Club de France,2,0,H,NaN,NaN,NaN
+FRA,22/09/1957,,Toulouse FC,Stade Reims,1,0,H,NaN,NaN,NaN
+FRA,22/09/1957,,AS Saint-Étienne,FC Sochaux,2,2,D,NaN,NaN,NaN
+FRA,22/09/1957,,OGC Nice,Olympique Alès,6,1,H,NaN,NaN,NaN
+FRA,22/09/1957,,Lille OSC,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,22/09/1957,,US Valenciennes-Anzin,FC Metz,2,2,D,NaN,NaN,NaN
+FRA,22/09/1957,,Nîmes Olympique,Angers SCO,5,1,H,NaN,NaN,NaN
+FRA,22/09/1957,,UA Sedan-Torcy,Olympique Marseille,2,1,H,NaN,NaN,NaN
+FRA,28/09/1957,,Stade Reims,AS Béziers,5,0,H,NaN,NaN,NaN
+FRA,29/09/1957,,US Valenciennes-Anzin,RC Lens,1,1,D,NaN,NaN,NaN
+FRA,29/09/1957,,Olympique Marseille,FC Sochaux,0,3,A,NaN,NaN,NaN
+FRA,29/09/1957,,Olympique Alès,Racing Club de France,1,3,A,NaN,NaN,NaN
+FRA,29/09/1957,,AS Saint-Étienne,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,29/09/1957,,Toulouse FC,Olympique Lyon,3,1,H,NaN,NaN,NaN
+FRA,29/09/1957,,AS Monaco,Nîmes Olympique,1,1,D,NaN,NaN,NaN
+FRA,29/09/1957,,FC Metz,Angers SCO,0,3,A,NaN,NaN,NaN
+FRA,29/09/1957,,Lille OSC,UA Sedan-Torcy,3,0,H,NaN,NaN,NaN
+FRA,13/10/1957,,RC Lens,Stade Reims,0,1,A,NaN,NaN,NaN
+FRA,13/10/1957,,FC Sochaux,Olympique Alès,3,1,H,NaN,NaN,NaN
+FRA,13/10/1957,,Olympique Lyon,Lille OSC,2,0,H,NaN,NaN,NaN
+FRA,13/10/1957,,AS Monaco,US Valenciennes-Anzin,4,0,H,NaN,NaN,NaN
+FRA,13/10/1957,,Racing Club de France,AS Saint-Étienne,1,1,D,NaN,NaN,NaN
+FRA,13/10/1957,,Angers SCO,Olympique Marseille,2,2,D,NaN,NaN,NaN
+FRA,13/10/1957,,Nîmes Olympique,OGC Nice,3,2,H,NaN,NaN,NaN
+FRA,13/10/1957,,UA Sedan-Torcy,Toulouse FC,3,0,H,NaN,NaN,NaN
+FRA,13/10/1957,,AS Béziers,FC Metz,0,1,A,NaN,NaN,NaN
+FRA,20/10/1957,,Stade Reims,Lille OSC,3,1,H,NaN,NaN,NaN
+FRA,20/10/1957,,Racing Club de France,AS Monaco,2,3,A,NaN,NaN,NaN
+FRA,20/10/1957,,RC Lens,FC Sochaux,1,1,D,NaN,NaN,NaN
+FRA,20/10/1957,,AS Saint-Étienne,US Valenciennes-Anzin,5,1,H,NaN,NaN,NaN
+FRA,20/10/1957,,Olympique Alès,Olympique Lyon,2,2,D,NaN,NaN,NaN
+FRA,20/10/1957,,OGC Nice,AS Béziers,6,1,H,NaN,NaN,NaN
+FRA,20/10/1957,,Olympique Marseille,Nîmes Olympique,1,3,A,NaN,NaN,NaN
+FRA,20/10/1957,,Angers SCO,Toulouse FC,0,1,A,NaN,NaN,NaN
+FRA,20/10/1957,,FC Metz,UA Sedan-Torcy,3,2,H,NaN,NaN,NaN
+FRA,01/11/1957,,FC Sochaux,Stade Reims,0,4,A,NaN,NaN,NaN
+FRA,01/11/1957,,AS Monaco,Olympique Marseille,3,2,H,NaN,NaN,NaN
+FRA,01/11/1957,,UA Sedan-Torcy,RC Lens,2,3,A,NaN,NaN,NaN
+FRA,01/11/1957,,Nîmes Olympique,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
+FRA,01/11/1957,,US Valenciennes-Anzin,Racing Club de France,0,5,A,NaN,NaN,NaN
+FRA,01/11/1957,,Olympique Lyon,Angers SCO,2,3,A,NaN,NaN,NaN
+FRA,01/11/1957,,Toulouse FC,OGC Nice,2,1,H,NaN,NaN,NaN
+FRA,01/11/1957,,Lille OSC,FC Metz,2,1,H,NaN,NaN,NaN
+FRA,01/11/1957,,AS Béziers,Olympique Alès,3,2,H,NaN,NaN,NaN
+FRA,03/11/1957,,Stade Reims,UA Sedan-Torcy,3,0,H,NaN,NaN,NaN
+FRA,03/11/1957,,OGC Nice,AS Monaco,0,1,A,NaN,NaN,NaN
+FRA,03/11/1957,,RC Lens,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,03/11/1957,,AS Saint-Étienne,Olympique Lyon,1,1,D,NaN,NaN,NaN
+FRA,03/11/1957,,Racing Club de France,Toulouse FC,1,2,A,NaN,NaN,NaN
+FRA,03/11/1957,,FC Metz,FC Sochaux,1,0,H,NaN,NaN,NaN
+FRA,03/11/1957,,Olympique Alès,Nîmes Olympique,1,1,D,NaN,NaN,NaN
+FRA,03/11/1957,,Angers SCO,US Valenciennes-Anzin,3,4,A,NaN,NaN,NaN
+FRA,03/11/1957,,Olympique Marseille,AS Béziers,0,1,A,NaN,NaN,NaN
+FRA,10/11/1957,,Stade Reims,FC Metz,5,1,H,NaN,NaN,NaN
+FRA,10/11/1957,,RC Lens,Angers SCO,2,1,H,NaN,NaN,NaN
+FRA,10/11/1957,,Olympique Alès,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,10/11/1957,,AS Saint-Étienne,Olympique Marseille,1,1,D,NaN,NaN,NaN
+FRA,10/11/1957,,FC Sochaux,Olympique Lyon,1,0,H,NaN,NaN,NaN
+FRA,10/11/1957,,US Valenciennes-Anzin,Nîmes Olympique,0,3,A,NaN,NaN,NaN
+FRA,10/11/1957,,OGC Nice,Racing Club de France,2,0,H,NaN,NaN,NaN
+FRA,10/11/1957,,Toulouse FC,Lille OSC,1,2,A,NaN,NaN,NaN
+FRA,10/11/1957,,AS Béziers,UA Sedan-Torcy,0,2,A,NaN,NaN,NaN
+FRA,17/11/1957,,Nîmes Olympique,Stade Reims,3,0,H,NaN,NaN,NaN
+FRA,17/11/1957,,AS Monaco,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
+FRA,17/11/1957,,Racing Club de France,RC Lens,5,0,H,NaN,NaN,NaN
+FRA,17/11/1957,,Olympique Lyon,AS Béziers,2,1,H,NaN,NaN,NaN
+FRA,17/11/1957,,UA Sedan-Torcy,FC Sochaux,4,1,H,NaN,NaN,NaN
+FRA,17/11/1957,,Toulouse FC,FC Metz,4,1,H,NaN,NaN,NaN
+FRA,17/11/1957,,Olympique Marseille,OGC Nice,2,1,H,NaN,NaN,NaN
+FRA,17/11/1957,,Angers SCO,Olympique Alès,1,1,D,NaN,NaN,NaN
+FRA,17/11/1957,,Lille OSC,US Valenciennes-Anzin,2,3,A,NaN,NaN,NaN
+FRA,24/11/1957,,Stade Reims,Olympique Alès,4,2,H,NaN,NaN,NaN
+FRA,24/11/1957,,RC Lens,Olympique Marseille,3,1,H,NaN,NaN,NaN
+FRA,24/11/1957,,Olympique Lyon,AS Monaco,2,0,H,NaN,NaN,NaN
+FRA,24/11/1957,,Nîmes Olympique,Toulouse FC,3,2,H,NaN,NaN,NaN
+FRA,24/11/1957,,UA Sedan-Torcy,AS Saint-Étienne,1,1,D,NaN,NaN,NaN
+FRA,24/11/1957,,FC Metz,Racing Club de France,1,1,D,NaN,NaN,NaN
+FRA,24/11/1957,,FC Sochaux,Lille OSC,2,4,A,NaN,NaN,NaN
+FRA,24/11/1957,,OGC Nice,Angers SCO,0,0,D,NaN,NaN,NaN
+FRA,11/12/1957,,US Valenciennes-Anzin,AS Béziers,1,1,D,NaN,NaN,NaN
+FRA,01/12/1957,,AS Saint-Étienne,Stade Reims,0,0,D,NaN,NaN,NaN
+FRA,01/12/1957,,AS Monaco,RC Lens,2,1,H,NaN,NaN,NaN
+FRA,01/12/1957,,OGC Nice,Olympique Lyon,2,2,D,NaN,NaN,NaN
+FRA,01/12/1957,,Racing Club de France,UA Sedan-Torcy,4,2,H,NaN,NaN,NaN
+FRA,01/12/1957,,Lille OSC,Nîmes Olympique,3,1,H,NaN,NaN,NaN
+FRA,01/12/1957,,Angers SCO,FC Sochaux,5,1,H,NaN,NaN,NaN
+FRA,01/12/1957,,AS Béziers,Toulouse FC,2,0,H,NaN,NaN,NaN
+FRA,01/12/1957,,Olympique Alès,FC Metz,4,1,H,NaN,NaN,NaN
+FRA,01/12/1957,,Olympique Marseille,US Valenciennes-Anzin,1,1,D,NaN,NaN,NaN
+FRA,08/12/1957,,Stade Reims,Racing Club de France,4,1,H,NaN,NaN,NaN
+FRA,08/12/1957,,AS Monaco,Toulouse FC,0,2,A,NaN,NaN,NaN
+FRA,08/12/1957,,AS Saint-Étienne,RC Lens,3,1,H,NaN,NaN,NaN
+FRA,08/12/1957,,FC Metz,Nîmes Olympique,0,1,A,NaN,NaN,NaN
+FRA,08/12/1957,,US Valenciennes-Anzin,Olympique Lyon,2,0,H,NaN,NaN,NaN
+FRA,08/12/1957,,Lille OSC,AS Béziers,10,1,H,NaN,NaN,NaN
+FRA,08/12/1957,,FC Sochaux,OGC Nice,4,0,H,NaN,NaN,NaN
+FRA,08/12/1957,,UA Sedan-Torcy,Angers SCO,1,0,H,NaN,NaN,NaN
+FRA,08/12/1957,,Olympique Alès,Olympique Marseille,1,0,H,NaN,NaN,NaN
+FRA,15/12/1957,,Olympique Marseille,Stade Reims,3,3,D,NaN,NaN,NaN
+FRA,15/12/1957,,RC Lens,Olympique Alès,5,0,H,NaN,NaN,NaN
+FRA,15/12/1957,,Nîmes Olympique,FC Sochaux,2,0,H,NaN,NaN,NaN
+FRA,15/12/1957,,FC Metz,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,15/12/1957,,Angers SCO,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
+FRA,15/12/1957,,Racing Club de France,AS Béziers,1,0,H,NaN,NaN,NaN
+FRA,15/12/1957,,Toulouse FC,US Valenciennes-Anzin,3,2,H,NaN,NaN,NaN
+FRA,15/12/1957,,Olympique Lyon,UA Sedan-Torcy,0,3,A,NaN,NaN,NaN
+FRA,15/12/1957,,OGC Nice,Lille OSC,5,5,D,NaN,NaN,NaN
+FRA,22/12/1957,,Olympique Lyon,Stade Reims,1,2,A,NaN,NaN,NaN
+FRA,22/12/1957,,AS Monaco,AS Béziers,2,0,H,NaN,NaN,NaN
+FRA,22/12/1957,,Toulouse FC,AS Saint-Étienne,2,3,A,NaN,NaN,NaN
+FRA,22/12/1957,,FC Sochaux,RC Lens,1,0,H,NaN,NaN,NaN
+FRA,22/12/1957,,Nîmes Olympique,Racing Club de France,0,1,A,NaN,NaN,NaN
+FRA,22/12/1957,,Lille OSC,Olympique Alès,1,0,H,NaN,NaN,NaN
+FRA,22/12/1957,,UA Sedan-Torcy,US Valenciennes-Anzin,2,1,H,NaN,NaN,NaN
+FRA,22/12/1957,,Angers SCO,OGC Nice,2,1,H,NaN,NaN,NaN
+FRA,22/12/1957,,Olympique Marseille,FC Metz,2,2,D,NaN,NaN,NaN
+FRA,29/12/1957,,Stade Reims,Angers SCO,2,3,A,NaN,NaN,NaN
+FRA,29/12/1957,,US Valenciennes-Anzin,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,29/12/1957,,AS Saint-Étienne,UA Sedan-Torcy,3,3,D,NaN,NaN,NaN
+FRA,29/12/1957,,RC Lens,Nîmes Olympique,1,1,D,NaN,NaN,NaN
+FRA,29/12/1957,,FC Metz,Lille OSC,2,3,A,NaN,NaN,NaN
+FRA,29/12/1957,,Racing Club de France,Olympique Lyon,2,4,A,NaN,NaN,NaN
+FRA,29/12/1957,,Olympique Alès,Toulouse FC,2,0,H,NaN,NaN,NaN
+FRA,29/12/1957,,AS Béziers,FC Sochaux,2,1,H,NaN,NaN,NaN
+FRA,29/12/1957,,OGC Nice,Olympique Marseille,3,0,H,NaN,NaN,NaN
+FRA,05/01/1958,,Lille OSC,Stade Reims,2,1,H,NaN,NaN,NaN
+FRA,05/01/1958,,AS Monaco,Olympique Alès,3,1,H,NaN,NaN,NaN
+FRA,05/01/1958,,AS Saint-Étienne,FC Metz,2,2,D,NaN,NaN,NaN
+FRA,05/01/1958,,Nîmes Olympique,Olympique Marseille,5,0,H,NaN,NaN,NaN
+FRA,05/01/1958,,Toulouse FC,RC Lens,3,2,H,NaN,NaN,NaN
+FRA,05/01/1958,,Angers SCO,Olympique Lyon,2,1,H,NaN,NaN,NaN
+FRA,05/01/1958,,UA Sedan-Torcy,OGC Nice,3,2,H,NaN,NaN,NaN
+FRA,05/01/1958,,FC Sochaux,Racing Club de France,5,0,H,NaN,NaN,NaN
+FRA,05/01/1958,,AS Béziers,US Valenciennes-Anzin,3,1,H,NaN,NaN,NaN
+FRA,19/01/1958,,Stade Reims,AS Monaco,1,1,D,NaN,NaN,NaN
+FRA,19/01/1958,,US Valenciennes-Anzin,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
+FRA,19/01/1958,,Racing Club de France,Lille OSC,1,3,A,NaN,NaN,NaN
+FRA,19/01/1958,,OGC Nice,Nîmes Olympique,2,0,H,NaN,NaN,NaN
+FRA,19/01/1958,,Olympique Marseille,Angers SCO,1,2,A,NaN,NaN,NaN
+FRA,19/01/1958,,RC Lens,UA Sedan-Torcy,2,3,A,NaN,NaN,NaN
+FRA,19/01/1958,,Olympique Lyon,FC Sochaux,1,1,D,NaN,NaN,NaN
+FRA,19/01/1958,,FC Metz,Toulouse FC,2,1,H,NaN,NaN,NaN
+FRA,19/01/1958,,Olympique Alès,AS Béziers,2,0,H,NaN,NaN,NaN
+FRA,26/01/1958,,Olympique Alès,Stade Reims,2,0,H,NaN,NaN,NaN
+FRA,26/01/1958,,FC Sochaux,AS Monaco,1,2,A,NaN,NaN,NaN
+FRA,26/01/1958,,Lille OSC,Olympique Lyon,3,0,H,NaN,NaN,NaN
+FRA,26/01/1958,,AS Béziers,Nîmes Olympique,0,1,A,NaN,NaN,NaN
+FRA,26/01/1958,,AS Saint-Étienne,Racing Club de France,0,1,A,NaN,NaN,NaN
+FRA,26/01/1958,,Toulouse FC,Angers SCO,1,3,A,NaN,NaN,NaN
+FRA,26/01/1958,,UA Sedan-Torcy,FC Metz,6,3,H,NaN,NaN,NaN
+FRA,26/01/1958,,OGC Nice,RC Lens,0,2,A,NaN,NaN,NaN
+FRA,26/01/1958,,US Valenciennes-Anzin,Olympique Marseille,2,1,H,NaN,NaN,NaN
+FRA,09/02/1958,,RC Lens,AS Saint-Étienne,1,3,A,NaN,NaN,NaN
+FRA,09/02/1958,,Angers SCO,AS Béziers,3,1,H,NaN,NaN,NaN
+FRA,09/02/1958,,Nîmes Olympique,UA Sedan-Torcy,2,2,D,NaN,NaN,NaN
+FRA,09/02/1958,,Racing Club de France,US Valenciennes-Anzin,2,2,D,NaN,NaN,NaN
+FRA,09/02/1958,,Olympique Lyon,Toulouse FC,3,1,H,NaN,NaN,NaN
+FRA,09/02/1958,,Olympique Marseille,Olympique Alès,1,0,H,NaN,NaN,NaN
+FRA,19/02/1958,,Stade Reims,FC Sochaux,3,1,H,NaN,NaN,NaN
+FRA,20/02/1958,,AS Monaco,Lille OSC,1,0,H,NaN,NaN,NaN
+FRA,09/04/1958,,FC Metz,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,16/02/1958,,Racing Club de France,Stade Reims,1,5,A,NaN,NaN,NaN
+FRA,16/02/1958,,AS Monaco,FC Metz,2,1,H,NaN,NaN,NaN
+FRA,16/02/1958,,Lille OSC,Angers SCO,2,3,A,NaN,NaN,NaN
+FRA,16/02/1958,,UA Sedan-Torcy,AS Béziers,8,4,H,NaN,NaN,NaN
+FRA,16/02/1958,,FC Sochaux,Nîmes Olympique,1,1,D,NaN,NaN,NaN
+FRA,16/02/1958,,Olympique Marseille,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
+FRA,16/02/1958,,Olympique Alès,RC Lens,0,1,A,NaN,NaN,NaN
+FRA,16/02/1958,,Olympique Lyon,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,16/02/1958,,US Valenciennes-Anzin,Toulouse FC,2,0,H,NaN,NaN,NaN
+FRA,23/02/1958,,Stade Reims,Olympique Marseille,4,1,H,NaN,NaN,NaN
+FRA,23/02/1958,,AS Saint-Étienne,AS Monaco,2,1,H,NaN,NaN,NaN
+FRA,23/02/1958,,Angers SCO,Racing Club de France,0,0,D,NaN,NaN,NaN
+FRA,23/02/1958,,Nîmes Olympique,Lille OSC,2,0,H,NaN,NaN,NaN
+FRA,23/02/1958,,RC Lens,US Valenciennes-Anzin,2,0,H,NaN,NaN,NaN
+FRA,23/02/1958,,Toulouse FC,UA Sedan-Torcy,2,1,H,NaN,NaN,NaN
+FRA,23/02/1958,,AS Béziers,Olympique Lyon,1,1,D,NaN,NaN,NaN
+FRA,23/02/1958,,FC Metz,Olympique Alès,0,1,A,NaN,NaN,NaN
+FRA,23/02/1958,,OGC Nice,FC Sochaux,4,3,H,NaN,NaN,NaN
+FRA,09/03/1958,,OGC Nice,Stade Reims,1,2,A,NaN,NaN,NaN
+FRA,09/03/1958,,Toulouse FC,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,09/03/1958,,Angers SCO,FC Metz,3,1,H,NaN,NaN,NaN
+FRA,09/03/1958,,Nîmes Olympique,US Valenciennes-Anzin,5,0,H,NaN,NaN,NaN
+FRA,09/03/1958,,UA Sedan-Torcy,Olympique Alès,5,2,H,NaN,NaN,NaN
+FRA,09/03/1958,,FC Sochaux,AS Saint-Étienne,4,1,H,NaN,NaN,NaN
+FRA,09/03/1958,,Olympique Lyon,RC Lens,3,1,H,NaN,NaN,NaN
+FRA,09/03/1958,,AS Béziers,Racing Club de France,1,0,H,NaN,NaN,NaN
+FRA,06/04/1958,,Lille OSC,Olympique Marseille,3,1,H,NaN,NaN,NaN
+FRA,16/03/1958,,Stade Reims,Nîmes Olympique,2,1,H,NaN,NaN,NaN
+FRA,16/03/1958,,AS Monaco,UA Sedan-Torcy,1,1,D,NaN,NaN,NaN
+FRA,16/03/1958,,Olympique Alès,Angers SCO,0,0,D,NaN,NaN,NaN
+FRA,16/03/1958,,AS Saint-Étienne,Lille OSC,6,2,H,NaN,NaN,NaN
+FRA,16/03/1958,,RC Lens,AS Béziers,3,1,H,NaN,NaN,NaN
+FRA,16/03/1958,,Racing Club de France,OGC Nice,3,1,H,NaN,NaN,NaN
+FRA,16/03/1958,,FC Metz,Olympique Lyon,2,1,H,NaN,NaN,NaN
+FRA,16/03/1958,,US Valenciennes-Anzin,FC Sochaux,1,1,D,NaN,NaN,NaN
+FRA,16/03/1958,,Olympique Marseille,Toulouse FC,3,0,H,NaN,NaN,NaN
+FRA,23/03/1958,,UA Sedan-Torcy,Stade Reims,2,5,A,NaN,NaN,NaN
+FRA,23/03/1958,,AS Monaco,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,23/03/1958,,Nîmes Olympique,Olympique Alès,3,0,H,NaN,NaN,NaN
+FRA,23/03/1958,,Olympique Lyon,AS Saint-Étienne,0,2,A,NaN,NaN,NaN
+FRA,23/03/1958,,US Valenciennes-Anzin,Angers SCO,2,1,H,NaN,NaN,NaN
+FRA,23/03/1958,,Lille OSC,RC Lens,4,1,H,NaN,NaN,NaN
+FRA,23/03/1958,,Toulouse FC,Racing Club de France,1,1,D,NaN,NaN,NaN
+FRA,23/03/1958,,FC Sochaux,FC Metz,1,0,H,NaN,NaN,NaN
+FRA,23/03/1958,,AS Béziers,Olympique Marseille,0,0,D,NaN,NaN,NaN
+FRA,30/03/1958,,FC Metz,Stade Reims,3,1,H,NaN,NaN,NaN
+FRA,30/03/1958,,RC Lens,AS Monaco,0,1,A,NaN,NaN,NaN
+FRA,30/03/1958,,Angers SCO,Nîmes Olympique,1,2,A,NaN,NaN,NaN
+FRA,30/03/1958,,Olympique Alès,AS Saint-Étienne,0,2,A,NaN,NaN,NaN
+FRA,30/03/1958,,UA Sedan-Torcy,Racing Club de France,2,0,H,NaN,NaN,NaN
+FRA,30/03/1958,,AS Béziers,Lille OSC,2,0,H,NaN,NaN,NaN
+FRA,30/03/1958,,Toulouse FC,FC Sochaux,0,0,D,NaN,NaN,NaN
+FRA,30/03/1958,,Olympique Lyon,Olympique Marseille,1,1,D,NaN,NaN,NaN
+FRA,30/03/1958,,OGC Nice,US Valenciennes-Anzin,1,1,D,NaN,NaN,NaN
+FRA,13/04/1958,,Stade Reims,Toulouse FC,2,2,D,NaN,NaN,NaN
+FRA,13/04/1958,,Nîmes Olympique,Olympique Lyon,2,0,H,NaN,NaN,NaN
+FRA,13/04/1958,,AS Monaco,Angers SCO,0,2,A,NaN,NaN,NaN
+FRA,13/04/1958,,AS Saint-Étienne,AS Béziers,1,2,A,NaN,NaN,NaN
+FRA,13/04/1958,,FC Sochaux,UA Sedan-Torcy,2,1,H,NaN,NaN,NaN
+FRA,13/04/1958,,Lille OSC,OGC Nice,1,0,H,NaN,NaN,NaN
+FRA,13/04/1958,,Olympique Marseille,RC Lens,3,2,H,NaN,NaN,NaN
+FRA,13/04/1958,,Racing Club de France,FC Metz,1,2,A,NaN,NaN,NaN
+FRA,13/04/1958,,US Valenciennes-Anzin,Olympique Alès,0,0,D,NaN,NaN,NaN
+FRA,20/04/1958,,Stade Reims,RC Lens,5,0,H,NaN,NaN,NaN
+FRA,20/04/1958,,AS Saint-Étienne,Nîmes Olympique,1,1,D,NaN,NaN,NaN
+FRA,20/04/1958,,AS Monaco,Olympique Lyon,1,2,A,NaN,NaN,NaN
+FRA,20/04/1958,,Angers SCO,UA Sedan-Torcy,1,1,D,NaN,NaN,NaN
+FRA,20/04/1958,,Lille OSC,Toulouse FC,1,3,A,NaN,NaN,NaN
+FRA,20/04/1958,,Olympique Alès,FC Sochaux,2,1,H,NaN,NaN,NaN
+FRA,20/04/1958,,Racing Club de France,Olympique Marseille,4,3,H,NaN,NaN,NaN
+FRA,20/04/1958,,AS Béziers,OGC Nice,0,1,A,NaN,NaN,NaN
+FRA,20/04/1958,,FC Metz,US Valenciennes-Anzin,1,0,H,NaN,NaN,NaN
+FRA,01/05/1958,,US Valenciennes-Anzin,Stade Reims,0,6,A,NaN,NaN,NaN
+FRA,01/05/1958,,Nîmes Olympique,FC Metz,1,1,D,NaN,NaN,NaN
+FRA,01/05/1958,,Olympique Marseille,AS Monaco,2,1,H,NaN,NaN,NaN
+FRA,01/05/1958,,FC Sochaux,Angers SCO,2,1,H,NaN,NaN,NaN
+FRA,01/05/1958,,OGC Nice,AS Saint-Étienne,6,1,H,NaN,NaN,NaN
+FRA,01/05/1958,,UA Sedan-Torcy,Lille OSC,3,2,H,NaN,NaN,NaN
+FRA,01/05/1958,,RC Lens,Racing Club de France,1,1,D,NaN,NaN,NaN
+FRA,01/05/1958,,Olympique Lyon,Olympique Alès,2,0,H,NaN,NaN,NaN
+FRA,01/05/1958,,Toulouse FC,AS Béziers,3,2,H,NaN,NaN,NaN
+FRA,04/05/1958,,AS Béziers,Stade Reims,2,0,H,NaN,NaN,NaN
+FRA,04/05/1958,,Nîmes Olympique,AS Monaco,0,0,D,NaN,NaN,NaN
+FRA,04/05/1958,,AS Saint-Étienne,Angers SCO,0,3,A,NaN,NaN,NaN
+FRA,04/05/1958,,UA Sedan-Torcy,Olympique Lyon,2,3,A,NaN,NaN,NaN
+FRA,04/05/1958,,US Valenciennes-Anzin,Lille OSC,0,1,A,NaN,NaN,NaN
+FRA,04/05/1958,,Racing Club de France,Olympique Alès,3,2,H,NaN,NaN,NaN
+FRA,04/05/1958,,RC Lens,FC Metz,2,2,D,NaN,NaN,NaN
+FRA,04/05/1958,,FC Sochaux,Olympique Marseille,1,2,A,NaN,NaN,NaN
+FRA,04/05/1958,,OGC Nice,Toulouse FC,2,2,D,NaN,NaN,NaN
+FRA,10/05/1958,,Olympique Alès,OGC Nice,1,1,D,NaN,NaN,NaN
+FRA,11/05/1958,,Stade Reims,AS Saint-Étienne,4,0,H,NaN,NaN,NaN
+FRA,11/05/1958,,Toulouse FC,Nîmes Olympique,4,0,H,NaN,NaN,NaN
+FRA,11/05/1958,,Angers SCO,RC Lens,5,0,H,NaN,NaN,NaN
+FRA,11/05/1958,,AS Monaco,Racing Club de France,3,2,H,NaN,NaN,NaN
+FRA,11/05/1958,,Olympique Marseille,UA Sedan-Torcy,1,1,D,NaN,NaN,NaN
+FRA,11/05/1958,,Lille OSC,FC Sochaux,3,2,H,NaN,NaN,NaN
+FRA,11/05/1958,,Olympique Lyon,US Valenciennes-Anzin,1,1,D,NaN,NaN,NaN
+FRA,11/05/1958,,FC Metz,AS Béziers,4,0,H,NaN,NaN,NaN

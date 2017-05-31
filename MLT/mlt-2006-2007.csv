@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,19/08/2006,16:00,Sliema Wanderers,St. George's FC,1,0,H,NaN,NaN,NaN
+MLT,19/08/2006,18:00,Floriana FC,Hibernians FC,4,1,H,NaN,NaN,NaN
+MLT,20/08/2006,16:00,Marsa FC,Msida St. Joseph FC,0,1,A,NaN,NaN,NaN
+MLT,20/08/2006,18:00,Pietá Hotspurs,Valletta FC,0,5,A,NaN,NaN,NaN
+MLT,21/08/2006,19:00,Birkirkara FC,Marsaxlokk FC,1,0,H,NaN,NaN,NaN
+MLT,24/08/2006,19:00,Hibernians FC,Sliema Wanderers,2,1,H,NaN,NaN,NaN
+MLT,25/08/2006,17:30,St. George's FC,Marsa FC,0,0,D,NaN,NaN,NaN
+MLT,25/08/2006,19:30,Valletta FC,Floriana FC,2,2,D,NaN,NaN,NaN
+MLT,26/08/2006,16:00,Marsaxlokk FC,Pietá Hotspurs,5,0,H,NaN,NaN,NaN
+MLT,26/08/2006,18:00,Msida St. Joseph FC,Birkirkara FC,5,1,H,NaN,NaN,NaN
+MLT,09/09/2006,15:00,Marsa FC,Hibernians FC,1,3,A,NaN,NaN,NaN
+MLT,09/09/2006,17:00,Birkirkara FC,St. George's FC,4,0,H,NaN,NaN,NaN
+MLT,10/09/2006,15:00,Pietá Hotspurs,Msida St. Joseph FC,0,3,A,NaN,NaN,NaN
+MLT,10/09/2006,17:00,Floriana FC,Sliema Wanderers,1,1,D,NaN,NaN,NaN
+MLT,11/09/2006,18:00,Valletta FC,Marsaxlokk FC,1,2,A,NaN,NaN,NaN
+MLT,15/09/2006,18:00,Hibernians FC,Birkirkara FC,3,2,H,NaN,NaN,NaN
+MLT,16/09/2006,15:00,Sliema Wanderers,Marsa FC,2,0,H,NaN,NaN,NaN
+MLT,16/09/2006,17:00,Marsaxlokk FC,Floriana FC,4,2,H,NaN,NaN,NaN
+MLT,17/09/2006,15:00,St. George's FC,Pietá Hotspurs,1,1,D,NaN,NaN,NaN
+MLT,17/09/2006,17:00,Msida St. Joseph FC,Valletta FC,2,2,D,NaN,NaN,NaN
+MLT,22/09/2006,19:30,Birkirkara FC,Sliema Wanderers,3,3,D,NaN,NaN,NaN
+MLT,23/09/2006,15:00,Pietá Hotspurs,Hibernians FC,1,2,A,NaN,NaN,NaN
+MLT,23/09/2006,17:00,Valletta FC,St. George's FC,4,1,H,NaN,NaN,NaN
+MLT,24/09/2006,15:00,Floriana FC,Marsa FC,4,1,H,NaN,NaN,NaN
+MLT,24/09/2006,17:00,Marsaxlokk FC,Msida St. Joseph FC,3,0,H,NaN,NaN,NaN
+MLT,29/09/2006,19:30,Hibernians FC,Valletta FC,3,1,H,NaN,NaN,NaN
+MLT,30/09/2006,11:00,Msida St. Joseph FC,Floriana FC,1,0,H,NaN,NaN,NaN
+MLT,30/09/2006,11:00,Marsa FC,Birkirkara FC,1,2,A,NaN,NaN,NaN
+MLT,01/10/2006,15:00,St. George's FC,Marsaxlokk FC,1,5,A,NaN,NaN,NaN
+MLT,01/10/2006,17:00,Sliema Wanderers,Pietá Hotspurs,4,1,H,NaN,NaN,NaN
+MLT,14/10/2006,15:00,Valletta FC,Sliema Wanderers,1,0,H,NaN,NaN,NaN
+MLT,14/10/2006,17:00,Pietá Hotspurs,Marsa FC,1,1,D,NaN,NaN,NaN
+MLT,15/10/2006,14:00,Msida St. Joseph FC,St. George's FC,2,0,H,NaN,NaN,NaN
+MLT,15/10/2006,16:00,Marsaxlokk FC,Hibernians FC,2,1,H,NaN,NaN,NaN
+MLT,16/10/2006,18:30,Floriana FC,Birkirkara FC,1,1,D,NaN,NaN,NaN
+MLT,20/10/2006,19:00,Sliema Wanderers,Marsaxlokk FC,1,3,A,NaN,NaN,NaN
+MLT,21/10/2006,14:00,Marsa FC,Valletta FC,0,3,A,NaN,NaN,NaN
+MLT,21/10/2006,16:00,Hibernians FC,Msida St. Joseph FC,0,4,A,NaN,NaN,NaN
+MLT,22/10/2006,15:00,Birkirkara FC,Pietá Hotspurs,2,1,H,NaN,NaN,NaN
+MLT,22/10/2006,17:00,St. George's FC,Floriana FC,0,0,D,NaN,NaN,NaN
+MLT,25/11/2006,13:00,Msida St. Joseph FC,Sliema Wanderers,1,1,D,NaN,NaN,NaN
+MLT,25/11/2006,15:00,Valletta FC,Birkirkara FC,1,0,H,NaN,NaN,NaN
+MLT,26/11/2006,11:45,Marsaxlokk FC,Marsa FC,4,0,H,NaN,NaN,NaN
+MLT,26/11/2006,13:45,St. George's FC,Hibernians FC,0,3,A,NaN,NaN,NaN
+MLT,02/12/2006,13:00,Floriana FC,Pietá Hotspurs,4,0,H,NaN,NaN,NaN
+MLT,02/12/2006,15:00,Marsaxlokk FC,Birkirkara FC,2,2,D,NaN,NaN,NaN
+MLT,03/12/2006,11:45,Msida St. Joseph FC,Marsa FC,1,1,D,NaN,NaN,NaN
+MLT,03/12/2006,13:45,St. George's FC,Sliema Wanderers,2,3,A,NaN,NaN,NaN
+MLT,10/12/2006,13:00,Valletta FC,Pietá Hotspurs,6,0,H,NaN,NaN,NaN
+MLT,10/12/2006,15:00,Hibernians FC,Floriana FC,1,2,A,NaN,NaN,NaN
+MLT,10/12/2006,11:45,Marsa FC,St. George's FC,1,2,A,NaN,NaN,NaN
+MLT,10/12/2006,13:45,Birkirkara FC,Msida St. Joseph FC,1,3,A,NaN,NaN,NaN
+MLT,13/12/2006,13:00,Sliema Wanderers,Hibernians FC,3,1,H,NaN,NaN,NaN
+MLT,13/12/2006,15:00,Floriana FC,Valletta FC,1,2,A,NaN,NaN,NaN
+MLT,16/12/2006,11:45,Pietá Hotspurs,Marsaxlokk FC,0,1,A,NaN,NaN,NaN
+MLT,16/12/2006,13:45,Hibernians FC,Marsa FC,4,0,H,NaN,NaN,NaN
+MLT,19/12/2006,17:00,St. George's FC,Birkirkara FC,0,1,A,NaN,NaN,NaN
+MLT,19/12/2006,17:00,Sliema Wanderers,Floriana FC,2,0,H,NaN,NaN,NaN
+MLT,22/12/2006,17:00,Marsaxlokk FC,Valletta FC,1,0,H,NaN,NaN,NaN
+MLT,23/12/2006,11:45,Msida St. Joseph FC,Pietá Hotspurs,3,1,H,NaN,NaN,NaN
+MLT,22/12/2006,19:00,Birkirkara FC,Hibernians FC,3,2,H,NaN,NaN,NaN
+MLT,23/12/2006,13:45,Marsa FC,Sliema Wanderers,1,2,A,NaN,NaN,NaN
+MLT,29/12/2006,19:00,Valletta FC,Msida St. Joseph FC,1,1,D,NaN,NaN,NaN
+MLT,30/12/2006,11:45,Pietá Hotspurs,St. George's FC,0,0,D,NaN,NaN,NaN
+MLT,30/12/2006,13:45,Floriana FC,Marsaxlokk FC,0,1,A,NaN,NaN,NaN
+MLT,29/12/2006,17:00,Sliema Wanderers,Birkirkara FC,1,0,H,NaN,NaN,NaN
+MLT,06/01/2007,13:00,Hibernians FC,Pietá Hotspurs,0,1,A,NaN,NaN,NaN
+MLT,06/01/2007,15:00,Msida St. Joseph FC,Marsaxlokk FC,0,1,A,NaN,NaN,NaN
+MLT,07/01/2007,12:00,Marsa FC,Floriana FC,0,2,A,NaN,NaN,NaN
+MLT,07/01/2007,14:00,St. George's FC,Valletta FC,0,2,A,NaN,NaN,NaN
+MLT,13/01/2007,13:00,Pietá Hotspurs,Sliema Wanderers,2,2,D,NaN,NaN,NaN
+MLT,13/01/2007,15:00,Birkirkara FC,Marsa FC,3,0,H,NaN,NaN,NaN
+MLT,14/01/2007,12:00,Marsaxlokk FC,St. George's FC,1,1,D,NaN,NaN,NaN
+MLT,14/01/2007,14:00,Floriana FC,Msida St. Joseph FC,1,1,D,NaN,NaN,NaN
+MLT,20/01/2007,17:00,Valletta FC,Hibernians FC,1,2,A,NaN,NaN,NaN
+MLT,20/01/2007,15:00,Birkirkara FC,Floriana FC,1,0,H,NaN,NaN,NaN
+MLT,21/01/2007,12:00,Marsa FC,Pietá Hotspurs,3,5,A,NaN,NaN,NaN
+MLT,21/01/2007,14:00,St. George's FC,Msida St. Joseph FC,1,1,D,NaN,NaN,NaN
+MLT,27/01/2007,15:00,Hibernians FC,Marsaxlokk FC,2,2,D,NaN,NaN,NaN
+MLT,27/01/2007,17:00,Sliema Wanderers,Valletta FC,1,0,H,NaN,NaN,NaN
+MLT,28/01/2007,12:00,Floriana FC,St. George's FC,3,0,H,NaN,NaN,NaN
+MLT,28/01/2007,14:00,Pietá Hotspurs,Birkirkara FC,1,4,A,NaN,NaN,NaN
+MLT,02/02/2007,17:00,Marsaxlokk FC,Sliema Wanderers,3,2,H,NaN,NaN,NaN
+MLT,02/02/2007,19:00,Msida St. Joseph FC,Hibernians FC,3,0,H,NaN,NaN,NaN
+MLT,03/02/2007,12:00,Valletta FC,Marsa FC,6,1,H,NaN,NaN,NaN
+MLT,03/02/2007,14:00,Pietá Hotspurs,Floriana FC,1,1,D,NaN,NaN,NaN
+MLT,10/02/2007,12:00,Hibernians FC,St. George's FC,1,2,A,NaN,NaN,NaN
+MLT,10/02/2007,14:00,Marsa FC,Marsaxlokk FC,1,5,A,NaN,NaN,NaN
+MLT,11/02/2007,15:00,Sliema Wanderers,Msida St. Joseph FC,3,0,H,NaN,NaN,NaN
+MLT,11/02/2007,17:00,Birkirkara FC,Valletta FC,1,3,A,NaN,NaN,NaN
