@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,19/08/2016,19:45,Málaga CF,CA Osasuna,1,1,D,0,0,D
+ESP,19/08/2016,21:00,Deportivo La Coruña,SD Eibar,2,1,H,0,0,D
+ESP,20/08/2016,17:15,FC Barcelona,Real Betis,6,2,H,3,1,H
+ESP,20/08/2016,19:15,Granada CF,Villarreal CF,1,1,D,0,0,D
+ESP,20/08/2016,21:15,Sevilla FC,Espanyol Barcelona,6,4,H,3,3,D
+ESP,21/08/2016,17:15,Sporting Gijón,Athletic Bilbao,2,1,H,0,0,D
+ESP,21/08/2016,19:15,Real Sociedad,Real Madrid,0,3,A,0,2,A
+ESP,21/08/2016,21:15,Atlético Madrid,CD Alavés,1,1,D,0,0,D
+ESP,22/08/2016,19:00,Celta Vigo,CD Leganés,0,1,A,0,0,D
+ESP,22/08/2016,21:00,Valencia CF,UD Las Palmas,2,4,A,2,3,A
+ESP,26/08/2016,19:45,Real Betis,Deportivo La Coruña,0,0,D,0,0,D
+ESP,26/08/2016,21:00,Espanyol Barcelona,Málaga CF,2,2,D,1,0,H
+ESP,27/08/2016,17:15,CA Osasuna,Real Sociedad,0,2,A,0,1,A
+ESP,27/08/2016,17:15,SD Eibar,Valencia CF,1,0,H,0,0,D
+ESP,27/08/2016,19:15,Real Madrid,Celta Vigo,2,1,H,0,0,D
+ESP,27/08/2016,21:15,CD Leganés,Atlético Madrid,0,0,D,0,0,D
+ESP,28/08/2016,17:15,UD Las Palmas,Granada CF,5,1,H,1,1,D
+ESP,28/08/2016,17:15,CD Alavés,Sporting Gijón,0,0,D,0,0,D
+ESP,28/08/2016,19:15,Athletic Bilbao,FC Barcelona,0,1,A,0,1,A
+ESP,28/08/2016,21:15,Villarreal CF,Sevilla FC,0,0,D,0,0,D
+ESP,09/09/2016,19:45,Real Sociedad,Espanyol Barcelona,1,1,D,0,0,D
+ESP,10/09/2016,12:00,Celta Vigo,Atlético Madrid,0,4,A,0,0,D
+ESP,10/09/2016,15:00,Real Madrid,CA Osasuna,5,2,H,3,0,H
+ESP,10/09/2016,17:15,Málaga CF,Villarreal CF,0,2,A,0,2,A
+ESP,10/09/2016,17:15,Sevilla FC,UD Las Palmas,2,1,H,0,1,A
+ESP,10/09/2016,19:30,FC Barcelona,CD Alavés,1,2,A,0,1,A
+ESP,11/09/2016,11:00,Sporting Gijón,CD Leganés,2,1,H,2,0,H
+ESP,11/09/2016,15:00,Valencia CF,Real Betis,2,3,A,0,1,A
+ESP,11/09/2016,17:15,Granada CF,SD Eibar,1,2,A,0,1,A
+ESP,11/09/2016,19:30,Deportivo La Coruña,Athletic Bilbao,0,1,A,0,1,A
+ESP,16/09/2016,19:45,Real Betis,Granada CF,2,2,D,1,2,A
+ESP,17/09/2016,12:00,CD Leganés,FC Barcelona,1,5,A,0,3,A
+ESP,17/09/2016,15:15,Atlético Madrid,Sporting Gijón,5,0,H,3,0,H
+ESP,17/09/2016,17:30,SD Eibar,Sevilla FC,1,1,D,0,1,A
+ESP,17/09/2016,19:45,UD Las Palmas,Málaga CF,1,0,H,1,0,H
+ESP,18/09/2016,11:00,CA Osasuna,Celta Vigo,0,0,D,0,0,D
+ESP,18/09/2016,15:15,Athletic Bilbao,Valencia CF,2,1,H,2,1,H
+ESP,18/09/2016,17:30,Villarreal CF,Real Sociedad,2,1,H,2,1,H
+ESP,18/09/2016,19:45,Espanyol Barcelona,Real Madrid,0,2,A,0,1,A
+ESP,19/09/2016,19:45,CD Alavés,Deportivo La Coruña,0,0,D,0,0,D
+ESP,20/09/2016,19:00,Málaga CF,SD Eibar,2,1,H,1,1,D
+ESP,20/09/2016,21:00,Sevilla FC,Real Betis,1,0,H,0,0,D
+ESP,21/09/2016,19:00,Real Madrid,Villarreal CF,1,1,D,0,1,A
+ESP,21/09/2016,19:00,Celta Vigo,Sporting Gijón,2,1,H,0,0,D
+ESP,21/09/2016,21:00,Real Sociedad,UD Las Palmas,4,1,H,3,0,H
+ESP,21/09/2016,21:00,Granada CF,Athletic Bilbao,1,2,A,1,1,D
+ESP,21/09/2016,21:00,FC Barcelona,Atlético Madrid,1,1,D,1,0,H
+ESP,22/09/2016,19:00,CA Osasuna,Espanyol Barcelona,1,2,A,0,1,A
+ESP,22/09/2016,19:00,Deportivo La Coruña,CD Leganés,1,2,A,1,0,H
+ESP,22/09/2016,21:00,Valencia CF,CD Alavés,2,1,H,1,1,D
+ESP,23/09/2016,19:45,Real Betis,Málaga CF,1,0,H,1,0,H
+ESP,24/09/2016,12:00,SD Eibar,Real Sociedad,2,0,H,0,0,D
+ESP,24/09/2016,15:15,Sporting Gijón,FC Barcelona,0,5,A,0,2,A
+ESP,24/09/2016,17:30,Athletic Bilbao,Sevilla FC,3,1,H,1,0,H
+ESP,24/09/2016,19:45,UD Las Palmas,Real Madrid,2,2,D,1,1,D
+ESP,25/09/2016,11:00,CD Leganés,Valencia CF,1,2,A,1,1,D
+ESP,25/09/2016,15:15,Atlético Madrid,Deportivo La Coruña,1,0,H,0,0,D
+ESP,25/09/2016,17:30,Villarreal CF,CA Osasuna,3,1,H,3,1,H
+ESP,25/09/2016,19:45,Espanyol Barcelona,Celta Vigo,0,2,A,0,0,D
+ESP,26/09/2016,19:45,CD Alavés,Granada CF,3,1,H,0,0,D
+ESP,30/09/2016,19:45,Real Sociedad,Real Betis,1,0,H,0,0,D
+ESP,01/10/2016,12:00,Granada CF,CD Leganés,0,1,A,0,0,D
+ESP,01/10/2016,15:15,Sevilla FC,CD Alavés,2,1,H,0,0,D
+ESP,01/10/2016,17:30,CA Osasuna,UD Las Palmas,2,2,D,2,0,H
+ESP,01/10/2016,19:45,Deportivo La Coruña,Sporting Gijón,2,1,H,1,0,H
+ESP,02/10/2016,11:00,Valencia CF,Atlético Madrid,0,2,A,0,0,D
+ESP,02/10/2016,15:15,Real Madrid,SD Eibar,1,1,D,1,1,D
+ESP,02/10/2016,17:30,Espanyol Barcelona,Villarreal CF,0,0,D,0,0,D
+ESP,02/10/2016,17:30,Málaga CF,Athletic Bilbao,2,1,H,0,1,A
+ESP,02/10/2016,19:45,Celta Vigo,FC Barcelona,4,3,H,3,0,H
+ESP,14/10/2016,19:45,UD Las Palmas,Espanyol Barcelona,0,0,D,0,0,D
+ESP,15/10/2016,12:00,CD Leganés,Sevilla FC,2,3,A,0,1,A
+ESP,15/10/2016,15:15,FC Barcelona,Deportivo La Coruña,4,0,H,3,0,H
+ESP,15/10/2016,17:30,Atlético Madrid,Granada CF,7,1,H,2,1,H
+ESP,15/10/2016,19:45,Real Betis,Real Madrid,1,6,A,0,4,A
+ESP,16/10/2016,11:00,CD Alavés,Málaga CF,1,1,D,1,0,H
+ESP,16/10/2016,15:15,Athletic Bilbao,Real Sociedad,3,2,H,0,1,A
+ESP,16/10/2016,17:30,Sporting Gijón,Valencia CF,1,2,A,1,1,D
+ESP,16/10/2016,19:45,Villarreal CF,Celta Vigo,5,0,H,3,0,H
+ESP,17/10/2016,19:45,SD Eibar,CA Osasuna,2,3,A,2,2,D
+ESP,21/10/2016,19:45,CA Osasuna,Real Betis,1,2,A,0,1,A
+ESP,22/10/2016,12:00,Espanyol Barcelona,SD Eibar,3,3,D,0,3,A
+ESP,22/10/2016,15:15,Valencia CF,FC Barcelona,2,3,A,0,1,A
+ESP,22/10/2016,17:30,Real Sociedad,CD Alavés,3,0,H,1,0,H
+ESP,22/10/2016,19:45,Granada CF,Sporting Gijón,0,0,D,0,0,D
+ESP,23/10/2016,11:00,Celta Vigo,Deportivo La Coruña,4,1,H,1,1,D
+ESP,23/10/2016,15:15,Sevilla FC,Atlético Madrid,1,0,H,0,0,D
+ESP,23/10/2016,17:30,Villarreal CF,UD Las Palmas,2,1,H,0,1,A
+ESP,23/10/2016,17:30,Málaga CF,CD Leganés,4,0,H,2,0,H
+ESP,23/10/2016,19:45,Real Madrid,Athletic Bilbao,2,1,H,1,1,D
+ESP,28/10/2016,19:45,CD Leganés,Real Sociedad,0,2,A,0,1,A
+ESP,29/10/2016,12:00,Sporting Gijón,Sevilla FC,1,1,D,1,1,D
+ESP,29/10/2016,15:15,CD Alavés,Real Madrid,1,4,A,1,2,A
+ESP,29/10/2016,17:30,Atlético Madrid,Málaga CF,4,2,H,3,1,H
+ESP,29/10/2016,19:45,FC Barcelona,Granada CF,1,0,H,0,0,D
+ESP,30/10/2016,11:00,SD Eibar,Villarreal CF,2,1,H,0,1,A
+ESP,30/10/2016,15:15,Athletic Bilbao,CA Osasuna,1,1,D,1,1,D
+ESP,30/10/2016,17:30,Real Betis,Espanyol Barcelona,0,1,A,0,0,D
+ESP,30/10/2016,19:30,UD Las Palmas,Celta Vigo,3,3,D,0,3,A
+ESP,31/10/2016,19:45,Deportivo La Coruña,Valencia CF,1,1,D,1,0,H
+ESP,04/11/2016,19:45,Málaga CF,Sporting Gijón,3,2,H,1,1,D
+ESP,05/11/2016,12:00,Granada CF,Deportivo La Coruña,1,1,D,0,0,D
+ESP,05/11/2016,15:15,Real Sociedad,Atlético Madrid,2,0,H,0,0,D
+ESP,05/11/2016,17:30,CA Osasuna,CD Alavés,0,1,A,0,0,D
+ESP,05/11/2016,19:45,UD Las Palmas,SD Eibar,1,0,H,0,0,D
+ESP,06/11/2016,11:00,Real Madrid,CD Leganés,3,0,H,2,0,H
+ESP,06/11/2016,15:15,Espanyol Barcelona,Athletic Bilbao,0,0,D,0,0,D
+ESP,06/11/2016,15:15,Celta Vigo,Valencia CF,2,1,H,1,1,D
+ESP,06/11/2016,17:30,Villarreal CF,Real Betis,2,0,H,1,0,H
+ESP,06/11/2016,19:45,Sevilla FC,FC Barcelona,1,2,A,1,1,D
+ESP,18/11/2016,19:45,Real Betis,UD Las Palmas,2,0,H,2,0,H
+ESP,19/11/2016,12:00,Deportivo La Coruña,Sevilla FC,2,3,A,2,1,H
+ESP,19/11/2016,15:15,FC Barcelona,Málaga CF,0,0,D,0,0,D
+ESP,19/11/2016,17:30,SD Eibar,Celta Vigo,1,0,H,1,0,H
+ESP,19/11/2016,19:45,Atlético Madrid,Real Madrid,0,3,A,0,1,A
+ESP,20/11/2016,11:00,CD Alavés,Espanyol Barcelona,0,1,A,0,0,D
+ESP,20/11/2016,15:15,Valencia CF,Granada CF,1,1,D,0,1,A
+ESP,20/11/2016,17:30,Sporting Gijón,Real Sociedad,1,3,A,1,1,D
+ESP,20/11/2016,19:45,Athletic Bilbao,Villarreal CF,1,0,H,0,0,D
+ESP,21/11/2016,19:45,CD Leganés,CA Osasuna,2,0,H,1,0,H
+ESP,25/11/2016,19:45,SD Eibar,Real Betis,3,1,H,2,0,H
+ESP,26/11/2016,12:00,Málaga CF,Deportivo La Coruña,4,3,H,2,1,H
+ESP,26/11/2016,15:15,Real Madrid,Sporting Gijón,2,1,H,2,1,H
+ESP,26/11/2016,17:30,Espanyol Barcelona,CD Leganés,3,0,H,0,0,D
+ESP,26/11/2016,19:45,Sevilla FC,Valencia CF,2,1,H,0,0,D
+ESP,27/11/2016,11:00,Villarreal CF,CD Alavés,0,2,A,0,2,A
+ESP,27/11/2016,15:15,CA Osasuna,Atlético Madrid,0,3,A,0,2,A
+ESP,27/11/2016,17:30,Celta Vigo,Granada CF,3,1,H,2,0,H
+ESP,27/11/2016,19:45,Real Sociedad,FC Barcelona,1,1,D,0,0,D
+ESP,28/11/2016,19:45,UD Las Palmas,Athletic Bilbao,3,1,H,1,0,H
+ESP,03/12/2016,12:00,Granada CF,Sevilla FC,2,1,H,1,0,H
+ESP,03/12/2016,15:15,FC Barcelona,Real Madrid,1,1,D,0,0,D
+ESP,03/12/2016,17:30,CD Leganés,Villarreal CF,0,0,D,0,0,D
+ESP,03/12/2016,19:45,Atlético Madrid,Espanyol Barcelona,0,0,D,0,0,D
+ESP,04/12/2016,11:00,Real Betis,Celta Vigo,3,3,D,1,1,D
+ESP,04/12/2016,15:15,Athletic Bilbao,SD Eibar,3,1,H,1,0,H
+ESP,04/12/2016,17:30,CD Alavés,UD Las Palmas,1,1,D,1,0,H
+ESP,04/12/2016,17:30,Sporting Gijón,CA Osasuna,3,1,H,1,0,H
+ESP,04/12/2016,19:45,Valencia CF,Málaga CF,2,2,D,2,1,H
+ESP,05/12/2016,19:45,Deportivo La Coruña,Real Sociedad,5,1,H,3,0,H
+ESP,09/12/2016,19:45,Málaga CF,Granada CF,1,1,D,1,0,H
+ESP,10/12/2016,12:00,CA Osasuna,FC Barcelona,0,3,A,0,0,D
+ESP,10/12/2016,15:15,Real Sociedad,Valencia CF,3,2,H,2,1,H
+ESP,10/12/2016,17:30,UD Las Palmas,CD Leganés,1,1,D,1,0,H
+ESP,10/12/2016,19:45,Real Madrid,Deportivo La Coruña,3,2,H,0,0,D
+ESP,11/12/2016,11:00,SD Eibar,CD Alavés,0,0,D,0,0,D
+ESP,11/12/2016,15:15,Celta Vigo,Sevilla FC,0,3,A,0,0,D
+ESP,11/12/2016,17:30,Espanyol Barcelona,Sporting Gijón,2,1,H,0,0,D
+ESP,11/12/2016,19:45,Real Betis,Athletic Bilbao,1,0,H,1,0,H
+ESP,12/12/2016,19:45,Villarreal CF,Atlético Madrid,3,0,H,2,0,H
+ESP,16/12/2016,19:45,CD Alavés,Real Betis,1,0,H,0,0,D
+ESP,17/12/2016,12:00,Sporting Gijón,Villarreal CF,1,3,A,0,2,A
+ESP,17/12/2016,15:15,Atlético Madrid,UD Las Palmas,1,0,H,0,0,D
+ESP,17/12/2016,17:30,Granada CF,Real Sociedad,0,2,A,0,0,D
+ESP,17/12/2016,19:45,Sevilla FC,Málaga CF,4,1,H,4,0,H
+ESP,18/12/2016,15:15,CD Leganés,SD Eibar,1,1,D,1,0,H
+ESP,18/12/2016,17:30,Deportivo La Coruña,CA Osasuna,2,0,H,2,0,H
+ESP,18/12/2016,19:45,FC Barcelona,Espanyol Barcelona,4,1,H,1,0,H
+ESP,19/12/2016,19:45,Athletic Bilbao,Celta Vigo,2,1,H,0,0,D
+ESP,22/02/2017,17:45,Valencia CF,Real Madrid,2,1,H,2,1,H
+ESP,06/01/2017,19:45,Espanyol Barcelona,Deportivo La Coruña,1,1,D,0,0,D
+ESP,07/01/2017,12:00,Real Madrid,Granada CF,5,0,H,4,0,H
+ESP,07/01/2017,15:15,SD Eibar,Atlético Madrid,0,2,A,0,0,D
+ESP,07/01/2017,17:30,UD Las Palmas,Sporting Gijón,1,0,H,0,0,D
+ESP,07/01/2017,19:45,Real Sociedad,Sevilla FC,0,4,A,0,2,A
+ESP,08/01/2017,11:00,Athletic Bilbao,CD Alavés,0,0,D,0,0,D
+ESP,08/01/2017,15:15,Real Betis,CD Leganés,2,0,H,0,0,D
+ESP,08/01/2017,17:30,Celta Vigo,Málaga CF,3,1,H,1,0,H
+ESP,08/01/2017,19:45,Villarreal CF,FC Barcelona,1,1,D,0,0,D
+ESP,09/01/2017,19:45,CA Osasuna,Valencia CF,3,3,D,1,2,A
+ESP,14/01/2017,12:00,CD Leganés,Athletic Bilbao,0,0,D,0,0,D
+ESP,14/01/2017,15:15,FC Barcelona,UD Las Palmas,5,0,H,1,0,H
+ESP,14/01/2017,17:30,Atlético Madrid,Real Betis,1,0,H,1,0,H
+ESP,14/01/2017,19:45,Deportivo La Coruña,Villarreal CF,0,0,D,0,0,D
+ESP,15/01/2017,11:00,Valencia CF,Espanyol Barcelona,2,1,H,1,0,H
+ESP,15/01/2017,15:15,Celta Vigo,CD Alavés,1,0,H,0,0,D
+ESP,15/01/2017,17:30,Sporting Gijón,SD Eibar,2,3,A,1,3,A
+ESP,15/01/2017,17:30,Granada CF,CA Osasuna,1,1,D,0,1,A
+ESP,15/01/2017,19:45,Sevilla FC,Real Madrid,2,1,H,0,0,D
+ESP,16/01/2017,19:45,Málaga CF,Real Sociedad,0,2,A,0,0,D
+ESP,20/01/2017,19:45,UD Las Palmas,Deportivo La Coruña,1,1,D,1,0,H
+ESP,21/01/2017,12:00,Espanyol Barcelona,Granada CF,3,1,H,2,1,H
+ESP,21/01/2017,15:15,Real Madrid,Málaga CF,2,1,H,2,0,H
+ESP,21/01/2017,17:30,CD Alavés,CD Leganés,2,2,D,1,1,D
+ESP,21/01/2017,19:45,Villarreal CF,Valencia CF,0,2,A,0,2,A
+ESP,22/01/2017,11:00,CA Osasuna,Sevilla FC,3,4,A,1,1,D
+ESP,22/01/2017,15:15,Athletic Bilbao,Atlético Madrid,2,2,D,1,1,D
+ESP,22/01/2017,17:30,Real Betis,Sporting Gijón,0,0,D,0,0,D
+ESP,22/01/2017,17:30,Real Sociedad,Celta Vigo,1,0,H,0,0,D
+ESP,22/01/2017,19:45,SD Eibar,FC Barcelona,0,4,A,0,1,A
+ESP,27/01/2017,19:45,CA Osasuna,Málaga CF,1,1,D,0,0,D
+ESP,28/01/2017,12:00,Villarreal CF,Granada CF,2,0,H,1,0,H
+ESP,28/01/2017,15:15,CD Alavés,Atlético Madrid,0,0,D,0,0,D
+ESP,28/01/2017,17:30,SD Eibar,Deportivo La Coruña,3,1,H,2,1,H
+ESP,28/01/2017,19:45,CD Leganés,Celta Vigo,0,2,A,0,1,A
+ESP,29/01/2017,11:00,Real Betis,FC Barcelona,1,1,D,0,0,D
+ESP,29/01/2017,15:15,Espanyol Barcelona,Sevilla FC,3,1,H,2,1,H
+ESP,29/01/2017,17:30,Athletic Bilbao,Sporting Gijón,2,1,H,0,1,A
+ESP,29/01/2017,19:45,Real Madrid,Real Sociedad,3,0,H,1,0,H
+ESP,30/01/2017,19:45,UD Las Palmas,Valencia CF,3,1,H,1,1,D
+ESP,04/02/2017,12:00,Málaga CF,Espanyol Barcelona,0,1,A,0,1,A
+ESP,04/02/2017,15:15,FC Barcelona,Athletic Bilbao,3,0,H,2,0,H
+ESP,04/02/2017,17:30,Atlético Madrid,CD Leganés,2,0,H,1,0,H
+ESP,04/02/2017,19:45,Valencia CF,SD Eibar,0,4,A,0,2,A
+ESP,05/02/2017,11:00,Sevilla FC,Villarreal CF,0,0,D,0,0,D
+ESP,05/02/2017,15:15,Sporting Gijón,CD Alavés,2,4,A,0,1,A
+ESP,05/02/2017,17:30,Real Sociedad,CA Osasuna,3,2,H,0,1,A
+ESP,06/02/2017,19:45,Granada CF,UD Las Palmas,1,0,H,1,0,H
+ESP,08/03/2017,17:45,Deportivo La Coruña,Real Betis,1,1,D,0,0,D
+ESP,17/05/2017,20:00,Celta Vigo,Real Madrid,1,4,A,0,1,A
+ESP,10/02/2017,19:45,Espanyol Barcelona,Real Sociedad,1,2,A,1,1,D
+ESP,11/02/2017,12:00,Real Betis,Valencia CF,0,0,D,0,0,D
+ESP,11/02/2017,15:15,CD Alavés,FC Barcelona,0,6,A,0,2,A
+ESP,11/02/2017,17:30,Athletic Bilbao,Deportivo La Coruña,2,1,H,0,1,A
+ESP,11/02/2017,19:45,CA Osasuna,Real Madrid,1,3,A,1,1,D
+ESP,12/02/2017,11:00,Villarreal CF,Málaga CF,1,1,D,0,1,A
+ESP,12/02/2017,15:15,CD Leganés,Sporting Gijón,0,2,A,0,0,D
+ESP,12/02/2017,17:30,UD Las Palmas,Sevilla FC,0,1,A,0,0,D
+ESP,12/02/2017,19:45,Atlético Madrid,Celta Vigo,3,2,H,1,1,D
+ESP,13/02/2017,19:45,SD Eibar,Granada CF,4,0,H,2,0,H
+ESP,17/02/2017,19:45,Granada CF,Real Betis,4,1,H,3,0,H
+ESP,18/02/2017,12:00,Sporting Gijón,Atlético Madrid,1,4,A,0,0,D
+ESP,18/02/2017,15:15,Real Madrid,Espanyol Barcelona,2,0,H,1,0,H
+ESP,18/02/2017,17:30,Deportivo La Coruña,CD Alavés,0,1,A,0,0,D
+ESP,18/02/2017,19:45,Sevilla FC,SD Eibar,2,0,H,1,0,H
+ESP,19/02/2017,11:00,Real Sociedad,Villarreal CF,0,1,A,0,0,D
+ESP,19/02/2017,15:15,Valencia CF,Athletic Bilbao,2,0,H,2,0,H
+ESP,19/02/2017,17:30,Celta Vigo,CA Osasuna,3,0,H,1,0,H
+ESP,19/02/2017,19:45,FC Barcelona,CD Leganés,2,1,H,1,0,H
+ESP,20/02/2017,19:45,Málaga CF,UD Las Palmas,2,1,H,2,1,H
+ESP,24/02/2017,19:45,UD Las Palmas,Real Sociedad,0,1,A,0,0,D
+ESP,25/02/2017,12:00,CD Alavés,Valencia CF,2,1,H,0,0,D
+ESP,25/02/2017,15:15,Real Betis,Sevilla FC,1,2,A,1,0,H
+ESP,25/02/2017,17:30,CD Leganés,Deportivo La Coruña,4,0,H,2,0,H
+ESP,25/02/2017,19:45,SD Eibar,Málaga CF,3,0,H,1,0,H
+ESP,26/02/2017,11:00,Espanyol Barcelona,CA Osasuna,3,0,H,1,0,H
+ESP,26/02/2017,15:15,Atlético Madrid,FC Barcelona,1,2,A,0,0,D
+ESP,26/02/2017,17:30,Athletic Bilbao,Granada CF,3,1,H,2,1,H
+ESP,26/02/2017,17:30,Sporting Gijón,Celta Vigo,1,1,D,0,0,D
+ESP,26/02/2017,19:45,Villarreal CF,Real Madrid,2,3,A,0,0,D
+ESP,28/02/2017,18:30,Real Sociedad,SD Eibar,2,2,D,1,1,D
+ESP,28/02/2017,20:30,Málaga CF,Real Betis,1,2,A,1,0,H
+ESP,28/02/2017,20:30,Valencia CF,CD Leganés,1,0,H,1,0,H
+ESP,01/03/2017,18:30,CA Osasuna,Villarreal CF,1,4,A,0,2,A
+ESP,01/03/2017,18:30,FC Barcelona,Sporting Gijón,6,1,H,3,1,H
+ESP,01/03/2017,20:30,Celta Vigo,Espanyol Barcelona,2,2,D,2,2,D
+ESP,01/03/2017,20:30,Real Madrid,UD Las Palmas,3,3,D,1,1,D
+ESP,01/03/2017,20:30,Granada CF,CD Alavés,2,1,H,1,0,H
+ESP,02/03/2017,19:45,Deportivo La Coruña,Atlético Madrid,1,1,D,1,0,H
+ESP,02/03/2017,20:30,Sevilla FC,Athletic Bilbao,1,0,H,1,0,H
+ESP,03/03/2017,19:45,Real Betis,Real Sociedad,2,3,A,1,2,A
+ESP,04/03/2017,12:00,CD Leganés,Granada CF,1,0,H,0,0,D
+ESP,04/03/2017,15:15,SD Eibar,Real Madrid,1,4,A,0,3,A
+ESP,04/03/2017,17:30,Villarreal CF,Espanyol Barcelona,2,0,H,1,0,H
+ESP,04/03/2017,19:45,FC Barcelona,Celta Vigo,5,0,H,2,0,H
+ESP,05/03/2017,11:00,Sporting Gijón,Deportivo La Coruña,0,1,A,0,1,A
+ESP,05/03/2017,15:15,Atlético Madrid,Valencia CF,3,0,H,1,0,H
+ESP,05/03/2017,17:30,UD Las Palmas,CA Osasuna,5,2,H,1,2,A
+ESP,05/03/2017,19:45,Athletic Bilbao,Málaga CF,1,0,H,0,0,D
+ESP,06/03/2017,19:45,CD Alavés,Sevilla FC,1,1,D,0,1,A
+ESP,10/03/2017,19:45,Espanyol Barcelona,UD Las Palmas,4,3,H,2,1,H
+ESP,11/03/2017,12:00,Valencia CF,Sporting Gijón,1,1,D,0,0,D
+ESP,11/03/2017,15:15,Sevilla FC,CD Leganés,1,1,D,1,1,D
+ESP,11/03/2017,17:30,Málaga CF,CD Alavés,1,2,A,0,1,A
+ESP,11/03/2017,19:45,Granada CF,Atlético Madrid,0,1,A,0,0,D
+ESP,12/03/2017,11:00,Real Sociedad,Athletic Bilbao,0,2,A,0,1,A
+ESP,12/03/2017,15:15,Deportivo La Coruña,FC Barcelona,2,1,H,1,0,H
+ESP,12/03/2017,17:30,Celta Vigo,Villarreal CF,0,1,A,0,1,A
+ESP,12/03/2017,19:45,Real Madrid,Real Betis,2,1,H,1,1,D
+ESP,13/03/2017,19:45,CA Osasuna,SD Eibar,1,1,D,0,0,D
+ESP,17/03/2017,19:45,UD Las Palmas,Villarreal CF,1,0,H,1,0,H
+ESP,18/03/2017,12:00,SD Eibar,Espanyol Barcelona,1,1,D,1,0,H
+ESP,18/03/2017,15:15,Athletic Bilbao,Real Madrid,1,2,A,0,1,A
+ESP,18/03/2017,17:30,CD Alavés,Real Sociedad,1,0,H,1,0,H
+ESP,18/03/2017,19:45,Real Betis,CA Osasuna,2,0,H,2,0,H
+ESP,19/03/2017,11:00,CD Leganés,Málaga CF,0,0,D,0,0,D
+ESP,19/03/2017,15:15,Atlético Madrid,Sevilla FC,3,1,H,1,0,H
+ESP,19/03/2017,17:30,Sporting Gijón,Granada CF,3,1,H,0,0,D
+ESP,19/03/2017,17:30,Deportivo La Coruña,Celta Vigo,0,1,A,0,0,D
+ESP,19/03/2017,19:45,FC Barcelona,Valencia CF,4,2,H,2,2,D
+ESP,31/03/2017,19:45,Espanyol Barcelona,Real Betis,2,1,H,0,0,D
+ESP,01/04/2017,12:00,Villarreal CF,SD Eibar,2,3,A,1,0,H
+ESP,01/04/2017,15:15,CA Osasuna,Athletic Bilbao,1,2,A,0,2,A
+ESP,01/04/2017,17:30,Real Sociedad,CD Leganés,1,1,D,0,1,A
+ESP,01/04/2017,19:45,Málaga CF,Atlético Madrid,0,2,A,0,1,A
+ESP,02/04/2017,11:00,Sevilla FC,Sporting Gijón,0,0,D,0,0,D
+ESP,02/04/2017,15:15,Real Madrid,CD Alavés,3,0,H,1,0,H
+ESP,02/04/2017,17:30,Valencia CF,Deportivo La Coruña,3,0,H,2,0,H
+ESP,02/04/2017,19:45,Granada CF,FC Barcelona,1,4,A,0,1,A
+ESP,03/04/2017,19:45,Celta Vigo,UD Las Palmas,3,1,H,2,0,H
+ESP,04/04/2017,18:30,Athletic Bilbao,Espanyol Barcelona,2,0,H,2,0,H
+ESP,04/04/2017,20:30,Real Betis,Villarreal CF,0,1,A,0,0,D
+ESP,04/04/2017,20:30,Atlético Madrid,Real Sociedad,1,0,H,1,0,H
+ESP,05/04/2017,18:30,FC Barcelona,Sevilla FC,3,0,H,3,0,H
+ESP,05/04/2017,19:30,CD Alavés,CA Osasuna,0,1,A,0,0,D
+ESP,05/04/2017,19:30,Sporting Gijón,Málaga CF,0,1,A,0,1,A
+ESP,05/04/2017,19:30,Deportivo La Coruña,Granada CF,0,0,D,0,0,D
+ESP,05/04/2017,20:30,CD Leganés,Real Madrid,2,4,A,2,3,A
+ESP,06/04/2017,18:30,SD Eibar,UD Las Palmas,3,1,H,2,0,H
+ESP,06/04/2017,20:30,Valencia CF,Celta Vigo,3,2,H,1,1,D
+ESP,07/04/2017,19:45,Villarreal CF,Athletic Bilbao,3,1,H,1,1,D
+ESP,08/04/2017,12:00,Espanyol Barcelona,CD Alavés,1,0,H,0,0,D
+ESP,08/04/2017,15:15,Real Madrid,Atlético Madrid,1,1,D,0,0,D
+ESP,08/04/2017,17:30,Sevilla FC,Deportivo La Coruña,4,2,H,3,2,H
+ESP,08/04/2017,19:45,Málaga CF,FC Barcelona,2,0,H,1,0,H
+ESP,09/04/2017,11:00,Granada CF,Valencia CF,1,3,A,0,2,A
+ESP,09/04/2017,15:15,Celta Vigo,SD Eibar,0,2,A,0,1,A
+ESP,09/04/2017,17:30,CA Osasuna,CD Leganés,2,1,H,1,1,D
+ESP,09/04/2017,19:45,UD Las Palmas,Real Betis,4,1,H,1,0,H
+ESP,10/04/2017,19:45,Real Sociedad,Sporting Gijón,3,1,H,2,0,H
+ESP,14/04/2017,19:45,Athletic Bilbao,UD Las Palmas,5,1,H,3,1,H
+ESP,15/04/2017,12:00,Deportivo La Coruña,Málaga CF,2,0,H,0,0,D
+ESP,15/04/2017,15:15,Sporting Gijón,Real Madrid,2,3,A,1,1,D
+ESP,15/04/2017,17:30,Atlético Madrid,CA Osasuna,3,0,H,1,0,H
+ESP,15/04/2017,19:45,FC Barcelona,Real Sociedad,3,2,H,3,2,H
+ESP,16/04/2017,11:00,CD Leganés,Espanyol Barcelona,0,1,A,0,0,D
+ESP,16/04/2017,15:15,Valencia CF,Sevilla FC,0,0,D,0,0,D
+ESP,16/04/2017,17:30,Real Betis,SD Eibar,2,0,H,1,0,H
+ESP,16/04/2017,19:45,Granada CF,Celta Vigo,0,3,A,0,1,A
+ESP,17/04/2017,19:45,CD Alavés,Villarreal CF,2,1,H,2,0,H
+ESP,21/04/2017,20:00,Sevilla FC,Granada CF,2,0,H,1,0,H
+ESP,22/04/2017,12:00,Málaga CF,Valencia CF,2,0,H,2,0,H
+ESP,22/04/2017,15:15,Villarreal CF,CD Leganés,2,1,H,0,0,D
+ESP,22/04/2017,17:30,CA Osasuna,Sporting Gijón,2,2,D,1,0,H
+ESP,22/04/2017,19:45,Espanyol Barcelona,Atlético Madrid,0,1,A,0,0,D
+ESP,23/04/2017,11:00,Real Sociedad,Deportivo La Coruña,1,0,H,1,0,H
+ESP,23/04/2017,15:15,Celta Vigo,Real Betis,0,1,A,0,0,D
+ESP,23/04/2017,17:30,UD Las Palmas,CD Alavés,1,1,D,1,0,H
+ESP,23/04/2017,19:45,Real Madrid,FC Barcelona,2,3,A,1,1,D
+ESP,24/04/2017,19:45,SD Eibar,Athletic Bilbao,0,1,A,0,0,D
+ESP,25/04/2017,18:30,Sporting Gijón,Espanyol Barcelona,1,1,D,1,0,H
+ESP,25/04/2017,19:30,Granada CF,Málaga CF,0,2,A,0,0,D
+ESP,25/04/2017,20:30,Atlético Madrid,Villarreal CF,0,1,A,0,0,D
+ESP,26/04/2017,18:30,FC Barcelona,CA Osasuna,7,1,H,2,0,H
+ESP,26/04/2017,19:30,CD Leganés,UD Las Palmas,3,0,H,0,0,D
+ESP,26/04/2017,19:30,Valencia CF,Real Sociedad,2,3,A,0,2,A
+ESP,26/04/2017,20:30,Deportivo La Coruña,Real Madrid,2,6,A,1,3,A
+ESP,27/04/2017,18:30,CD Alavés,SD Eibar,0,0,D,0,0,D
+ESP,27/04/2017,19:30,Sevilla FC,Celta Vigo,2,1,H,0,0,D
+ESP,27/04/2017,20:30,Athletic Bilbao,Real Betis,2,1,H,0,0,D
+ESP,28/04/2017,19:45,Villarreal CF,Sporting Gijón,3,1,H,1,0,H
+ESP,29/04/2017,12:00,Real Sociedad,Granada CF,2,1,H,1,0,H
+ESP,29/04/2017,15:15,Real Madrid,Valencia CF,2,1,H,1,0,H
+ESP,29/04/2017,17:30,UD Las Palmas,Atlético Madrid,0,5,A,0,3,A
+ESP,29/04/2017,19:45,Espanyol Barcelona,FC Barcelona,0,3,A,0,0,D
+ESP,30/04/2017,11:00,CA Osasuna,Deportivo La Coruña,2,2,D,1,1,D
+ESP,30/04/2017,15:15,Real Betis,CD Alavés,1,4,A,1,0,H
+ESP,30/04/2017,17:30,SD Eibar,CD Leganés,2,0,H,0,0,D
+ESP,30/04/2017,19:45,Celta Vigo,Athletic Bilbao,0,3,A,0,1,A
+ESP,01/05/2017,20:00,Málaga CF,Sevilla FC,4,2,H,1,1,D
+ESP,05/05/2017,20:00,Sevilla FC,Real Sociedad,1,1,D,1,0,H
+ESP,06/05/2017,12:00,Sporting Gijón,UD Las Palmas,1,0,H,0,0,D
+ESP,06/05/2017,15:15,Atlético Madrid,SD Eibar,1,0,H,0,0,D
+ESP,06/05/2017,17:30,FC Barcelona,Villarreal CF,4,1,H,2,1,H
+ESP,06/05/2017,19:45,Granada CF,Real Madrid,0,4,A,0,4,A
+ESP,07/05/2017,11:00,CD Alavés,Athletic Bilbao,1,0,H,0,0,D
+ESP,07/05/2017,15:15,Valencia CF,CA Osasuna,4,1,H,2,0,H
+ESP,07/05/2017,17:30,Deportivo La Coruña,Espanyol Barcelona,1,2,A,0,2,A
+ESP,07/05/2017,19:45,Málaga CF,Celta Vigo,3,0,H,1,0,H
+ESP,08/05/2017,19:45,CD Leganés,Real Betis,4,0,H,2,0,H
+ESP,13/05/2017,15:00,Espanyol Barcelona,Valencia CF,0,1,A,0,0,D
+ESP,13/05/2017,17:30,CA Osasuna,Granada CF,2,1,H,1,1,D
+ESP,14/05/2017,15:00,CD Alavés,Celta Vigo,3,1,H,3,0,H
+ESP,14/05/2017,19:00,Athletic Bilbao,CD Leganés,1,1,D,1,0,H
+ESP,14/05/2017,19:00,Real Betis,Atlético Madrid,1,1,D,0,0,D
+ESP,14/05/2017,19:00,SD Eibar,Sporting Gijón,0,1,A,0,1,A
+ESP,14/05/2017,19:00,UD Las Palmas,FC Barcelona,1,4,A,0,2,A
+ESP,14/05/2017,19:00,Villarreal CF,Deportivo La Coruña,0,0,D,0,0,D
+ESP,14/05/2017,19:00,Real Madrid,Sevilla FC,4,1,H,2,0,H
+ESP,14/05/2017,19:00,Real Sociedad,Málaga CF,2,2,D,1,1,D
+ESP,19/05/2017,19:45,Granada CF,Espanyol Barcelona,1,2,A,1,2,A
+ESP,20/05/2017,16:00,Sporting Gijón,Real Betis,2,2,D,1,1,D
+ESP,20/05/2017,18:00,CD Leganés,CD Alavés,1,1,D,0,0,D
+ESP,20/05/2017,18:00,Deportivo La Coruña,UD Las Palmas,3,0,H,3,0,H
+ESP,20/05/2017,20:00,Sevilla FC,CA Osasuna,5,0,H,3,0,H
+ESP,21/05/2017,15:45,Atlético Madrid,Athletic Bilbao,3,1,H,2,0,H
+ESP,21/05/2017,15:45,Valencia CF,Villarreal CF,1,3,A,0,1,A
+ESP,21/05/2017,15:45,Celta Vigo,Real Sociedad,2,2,D,0,0,D
+ESP,21/05/2017,19:00,FC Barcelona,SD Eibar,4,2,H,0,1,A
+ESP,21/05/2017,19:00,Málaga CF,Real Madrid,0,2,A,0,1,A

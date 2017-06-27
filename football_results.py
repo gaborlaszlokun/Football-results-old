@@ -16,6 +16,7 @@ filenames = t.read()
 t.close()
 links = links.split("\n")
 filenames = filenames.split("\n")
+
 for i in range(3096,len(links)):
     get_results(links[i],filenames[i])
     print i

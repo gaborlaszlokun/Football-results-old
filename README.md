@@ -1,9 +1,11 @@
 # Football-results
-Football results from Europe since 1993
+Football results
 
 Main attributes:
 
+- Division
 - Date
+- Time
 - Home Team
 - Away Team
 - FullTime Home Goals
@@ -15,6 +17,12 @@ Main attributes:
 
 Countires:
 
+- Albania
+- Algeria
+- Andorra
+- Argentina
+- Armenia
+- Australia
 - Austria
 - Belgium
 - Croatia
