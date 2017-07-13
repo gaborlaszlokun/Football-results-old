@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,15/07/2000,16:30,Grasshopper Club Zürich,Lausanne Sports,3,0,H,NaN,NaN,NaN
+SUI,15/07/2000,17:00,FC Basel,FC Sion,4,1,H,NaN,NaN,NaN
+SUI,15/07/2000,18:30,FC Lugano,FC St. Gallen,1,0,H,NaN,NaN,NaN
+SUI,15/07/2000,18:30,Servette Genève,FC Aarau,2,1,H,NaN,NaN,NaN
+SUI,15/07/2000,18:30,Yverdon-Sport FC,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,15/07/2000,18:30,FC Luzern,Neuchâtel Xamax FC,2,0,H,NaN,NaN,NaN
+SUI,18/07/2000,18:30,FC Zürich,Servette Genève,2,2,D,NaN,NaN,NaN
+SUI,18/07/2000,18:30,FC Aarau,FC Lugano,0,2,A,NaN,NaN,NaN
+SUI,18/07/2000,18:30,Lausanne Sports,Yverdon-Sport FC,4,2,H,NaN,NaN,NaN
+SUI,18/07/2000,18:30,Neuchâtel Xamax FC,FC Basel,2,0,H,NaN,NaN,NaN
+SUI,18/07/2000,18:30,FC Sion,Grasshopper Club Zürich,1,0,H,NaN,NaN,NaN
+SUI,18/07/2000,18:30,FC St. Gallen,FC Luzern,2,1,H,NaN,NaN,NaN
+SUI,22/07/2000,16:30,Grasshopper Club Zürich,Neuchâtel Xamax FC,6,0,H,NaN,NaN,NaN
+SUI,22/07/2000,17:00,FC St. Gallen,FC Aarau,3,0,H,NaN,NaN,NaN
+SUI,22/07/2000,18:30,FC Basel,FC Luzern,7,4,H,NaN,NaN,NaN
+SUI,22/07/2000,18:30,FC Lugano,FC Zürich,1,0,H,NaN,NaN,NaN
+SUI,22/07/2000,18:30,Servette Genève,Lausanne Sports,0,4,A,NaN,NaN,NaN
+SUI,22/07/2000,18:30,Yverdon-Sport FC,FC Sion,0,1,A,NaN,NaN,NaN
+SUI,29/07/2000,17:00,FC Basel,Grasshopper Club Zürich,1,0,H,NaN,NaN,NaN
+SUI,29/07/2000,18:30,Lausanne Sports,FC Lugano,1,0,H,NaN,NaN,NaN
+SUI,29/07/2000,18:30,FC Luzern,FC Aarau,0,0,D,NaN,NaN,NaN
+SUI,29/07/2000,18:30,Neuchâtel Xamax FC,Yverdon-Sport FC,1,1,D,NaN,NaN,NaN
+SUI,29/07/2000,18:30,FC Sion,Servette Genève,1,0,H,NaN,NaN,NaN
+SUI,29/07/2000,18:30,FC Zürich,FC St. Gallen,0,0,D,NaN,NaN,NaN
+SUI,04/08/2000,18:30,Servette Genève,Neuchâtel Xamax FC,5,2,H,NaN,NaN,NaN
+SUI,04/08/2000,18:30,FC St. Gallen,Lausanne Sports,3,1,H,NaN,NaN,NaN
+SUI,05/08/2000,17:00,Grasshopper Club Zürich,FC Luzern,4,0,H,NaN,NaN,NaN
+SUI,05/08/2000,18:30,FC Aarau,FC Zürich,2,1,H,NaN,NaN,NaN
+SUI,05/08/2000,18:30,FC Lugano,FC Sion,0,0,D,NaN,NaN,NaN
+SUI,05/08/2000,18:30,Yverdon-Sport FC,FC Basel,1,0,H,NaN,NaN,NaN
+SUI,12/08/2000,18:30,FC Luzern,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,12/08/2000,18:30,Neuchâtel Xamax FC,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,12/08/2000,18:30,FC Sion,FC Aarau,0,1,A,NaN,NaN,NaN
+SUI,13/08/2000,15:15,Grasshopper Club Zürich,Servette Genève,1,1,D,NaN,NaN,NaN
+SUI,13/08/2000,15:15,Lausanne Sports,FC Zürich,2,0,H,NaN,NaN,NaN
+SUI,13/08/2000,15:15,FC Basel,FC Lugano,2,3,A,NaN,NaN,NaN
+SUI,18/08/2000,18:30,FC St. Gallen,FC Sion,3,1,H,NaN,NaN,NaN
+SUI,19/08/2000,18:30,FC Aarau,Lausanne Sports,1,2,A,NaN,NaN,NaN
+SUI,19/08/2000,18:30,FC Lugano,Neuchâtel Xamax FC,3,0,H,NaN,NaN,NaN
+SUI,19/08/2000,18:30,Servette Genève,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,19/08/2000,18:30,Yverdon-Sport FC,Grasshopper Club Zürich,2,3,A,NaN,NaN,NaN
+SUI,20/08/2000,15:15,FC Zürich,FC Luzern,4,2,H,NaN,NaN,NaN
+SUI,26/08/2000,18:30,Neuchâtel Xamax FC,FC Aarau,1,5,A,NaN,NaN,NaN
+SUI,26/08/2000,18:30,FC Sion,FC Zürich,3,3,D,NaN,NaN,NaN
+SUI,26/08/2000,18:30,Yverdon-Sport FC,Servette Genève,2,1,H,NaN,NaN,NaN
+SUI,27/08/2000,15:15,FC Basel,FC St. Gallen,2,2,D,NaN,NaN,NaN
+SUI,27/08/2000,15:15,Grasshopper Club Zürich,FC Lugano,0,3,A,NaN,NaN,NaN
+SUI,27/08/2000,15:15,FC Luzern,Lausanne Sports,2,1,H,NaN,NaN,NaN
+SUI,05/09/2000,18:30,FC Aarau,FC Basel,0,1,A,NaN,NaN,NaN
+SUI,05/09/2000,18:30,Lausanne Sports,FC Sion,3,2,H,NaN,NaN,NaN
+SUI,05/09/2000,18:30,FC Lugano,Yverdon-Sport FC,3,0,H,NaN,NaN,NaN
+SUI,05/09/2000,18:30,Servette Genève,FC Luzern,2,0,H,NaN,NaN,NaN
+SUI,05/09/2000,18:30,FC St. Gallen,Grasshopper Club Zürich,1,0,H,NaN,NaN,NaN
+SUI,05/09/2000,18:30,FC Zürich,Neuchâtel Xamax FC,3,0,H,NaN,NaN,NaN
+SUI,08/09/2000,18:30,FC Basel,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,09/09/2000,18:30,Neuchâtel Xamax FC,Lausanne Sports,2,4,A,NaN,NaN,NaN
+SUI,09/09/2000,18:30,Servette Genève,FC Lugano,2,0,H,NaN,NaN,NaN
+SUI,09/09/2000,18:30,Yverdon-Sport FC,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,10/09/2000,15:15,Grasshopper Club Zürich,FC Aarau,6,0,H,NaN,NaN,NaN
+SUI,10/09/2000,15:15,FC Luzern,FC Sion,3,1,H,NaN,NaN,NaN
+SUI,16/09/2000,18:30,FC Aarau,Yverdon-Sport FC,4,3,H,NaN,NaN,NaN
+SUI,17/09/2000,15:15,Lausanne Sports,FC Basel,3,0,H,NaN,NaN,NaN
+SUI,17/09/2000,15:15,FC Lugano,FC Luzern,3,0,H,NaN,NaN,NaN
+SUI,17/09/2000,18:30,FC Sion,Neuchâtel Xamax FC,2,1,H,NaN,NaN,NaN
+SUI,18/09/2000,18:30,FC St. Gallen,Servette Genève,0,0,D,NaN,NaN,NaN
+SUI,18/09/2000,18:30,FC Zürich,Grasshopper Club Zürich,1,1,D,NaN,NaN,NaN
+SUI,22/09/2000,18:30,Neuchâtel Xamax FC,FC Luzern,1,1,D,NaN,NaN,NaN
+SUI,22/09/2000,18:30,FC Zürich,Yverdon-Sport FC,5,0,H,NaN,NaN,NaN
+SUI,23/09/2000,13:30,FC Aarau,Servette Genève,0,3,A,NaN,NaN,NaN
+SUI,23/09/2000,15:15,FC St. Gallen,FC Lugano,1,1,D,NaN,NaN,NaN
+SUI,23/09/2000,16:30,Lausanne Sports,Grasshopper Club Zürich,0,2,A,NaN,NaN,NaN
+SUI,23/09/2000,18:30,FC Sion,FC Basel,1,1,D,NaN,NaN,NaN
+SUI,29/09/2000,18:30,FC Lugano,FC Aarau,1,1,D,NaN,NaN,NaN
+SUI,01/10/2000,15:15,FC Basel,Neuchâtel Xamax FC,5,1,H,NaN,NaN,NaN
+SUI,01/10/2000,15:15,Grasshopper Club Zürich,FC Sion,5,0,H,NaN,NaN,NaN
+SUI,01/10/2000,15:15,FC Luzern,FC St. Gallen,1,5,A,NaN,NaN,NaN
+SUI,01/10/2000,15:15,Yverdon-Sport FC,Lausanne Sports,2,0,H,NaN,NaN,NaN
+SUI,01/10/2000,17:00,Servette Genève,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,14/10/2000,18:30,Lausanne Sports,Servette Genève,1,1,D,NaN,NaN,NaN
+SUI,14/10/2000,18:30,FC Luzern,FC Basel,0,2,A,NaN,NaN,NaN
+SUI,14/10/2000,18:30,Neuchâtel Xamax FC,Grasshopper Club Zürich,1,3,A,NaN,NaN,NaN
+SUI,15/10/2000,13:30,FC Aarau,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,15/10/2000,15:15,FC Zürich,FC Lugano,1,2,A,NaN,NaN,NaN
+SUI,24/10/2000,18:00,FC Sion,Yverdon-Sport FC,0,0,D,NaN,NaN,NaN
+SUI,21/10/2000,16:30,FC St. Gallen,FC Zürich,2,0,H,NaN,NaN,NaN
+SUI,21/10/2000,16:30,Yverdon-Sport FC,Neuchâtel Xamax FC,4,0,H,NaN,NaN,NaN
+SUI,21/10/2000,18:30,FC Lugano,Lausanne Sports,2,2,D,NaN,NaN,NaN
+SUI,21/10/2000,18:30,Servette Genève,FC Sion,0,1,A,NaN,NaN,NaN
+SUI,22/10/2000,13:30,FC Aarau,FC Luzern,3,3,D,NaN,NaN,NaN
+SUI,22/10/2000,15:15,Grasshopper Club Zürich,FC Basel,1,2,A,NaN,NaN,NaN
+SUI,28/10/2000,18:30,FC Luzern,Grasshopper Club Zürich,2,3,A,NaN,NaN,NaN
+SUI,28/10/2000,18:30,FC Sion,FC Lugano,3,2,H,NaN,NaN,NaN
+SUI,29/10/2000,13:30,Neuchâtel Xamax FC,Servette Genève,2,1,H,NaN,NaN,NaN
+SUI,29/10/2000,13:30,FC Zürich,FC Aarau,1,0,H,NaN,NaN,NaN
+SUI,29/10/2000,15:15,FC Basel,Yverdon-Sport FC,2,1,H,NaN,NaN,NaN
+SUI,29/10/2000,15:15,Lausanne Sports,FC St. Gallen,0,2,A,NaN,NaN,NaN
+SUI,01/11/2000,18:30,Yverdon-Sport FC,FC Luzern,3,1,H,NaN,NaN,NaN
+SUI,01/11/2000,18:30,FC Aarau,FC Sion,1,1,D,NaN,NaN,NaN
+SUI,01/11/2000,18:30,Servette Genève,Grasshopper Club Zürich,3,1,H,NaN,NaN,NaN
+SUI,12/11/2000,13:30,FC Lugano,FC Basel,1,0,H,NaN,NaN,NaN
+SUI,12/11/2000,13:30,FC St. Gallen,Neuchâtel Xamax FC,2,0,H,NaN,NaN,NaN
+SUI,12/11/2000,13:30,FC Zürich,Lausanne Sports,3,1,H,NaN,NaN,NaN
+SUI,04/11/2000,18:30,FC Basel,Servette Genève,4,2,H,NaN,NaN,NaN
+SUI,04/11/2000,18:30,Lausanne Sports,FC Aarau,1,3,A,NaN,NaN,NaN
+SUI,05/11/2000,13:30,Neuchâtel Xamax FC,FC Lugano,1,0,H,NaN,NaN,NaN
+SUI,05/11/2000,13:30,FC Sion,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,05/11/2000,15:15,Grasshopper Club Zürich,Yverdon-Sport FC,1,0,H,NaN,NaN,NaN
+SUI,05/11/2000,15:15,FC Luzern,FC Zürich,0,2,A,NaN,NaN,NaN
+SUI,18/11/2000,18:30,Servette Genève,Yverdon-Sport FC,2,0,H,NaN,NaN,NaN
+SUI,18/11/2000,18:30,Lausanne Sports,FC Luzern,1,2,A,NaN,NaN,NaN
+SUI,19/11/2000,13:30,FC Aarau,Neuchâtel Xamax FC,2,0,H,NaN,NaN,NaN
+SUI,19/11/2000,13:30,FC Lugano,Grasshopper Club Zürich,2,0,H,NaN,NaN,NaN
+SUI,19/11/2000,13:30,FC Zürich,FC Sion,1,3,A,NaN,NaN,NaN
+SUI,19/11/2000,15:15,FC St. Gallen,FC Basel,4,0,H,NaN,NaN,NaN
+SUI,25/11/2000,16:30,Yverdon-Sport FC,FC Lugano,1,1,D,NaN,NaN,NaN
+SUI,25/11/2000,18:30,FC Luzern,Servette Genève,0,2,A,NaN,NaN,NaN
+SUI,26/11/2000,13:30,Neuchâtel Xamax FC,FC Zürich,3,1,H,NaN,NaN,NaN
+SUI,26/11/2000,13:30,FC Sion,Lausanne Sports,0,1,A,NaN,NaN,NaN
+SUI,26/11/2000,15:15,FC Basel,FC Aarau,5,2,H,NaN,NaN,NaN
+SUI,26/11/2000,15:15,Grasshopper Club Zürich,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,02/12/2000,16:30,Lausanne Sports,Neuchâtel Xamax FC,2,0,H,NaN,NaN,NaN
+SUI,03/12/2000,13:30,FC Lugano,Servette Genève,1,0,H,NaN,NaN,NaN
+SUI,03/12/2000,15:15,FC Aarau,Grasshopper Club Zürich,1,3,A,NaN,NaN,NaN
+SUI,03/12/2000,15:15,FC Sion,FC Luzern,3,0,H,NaN,NaN,NaN
+SUI,03/12/2000,15:15,FC St. Gallen,Yverdon-Sport FC,7,0,H,NaN,NaN,NaN
+SUI,03/12/2000,15:15,FC Zürich,FC Basel,2,0,H,NaN,NaN,NaN
+SUI,10/12/2000,13:30,FC Luzern,FC Lugano,1,1,D,NaN,NaN,NaN
+SUI,10/12/2000,15:15,Grasshopper Club Zürich,FC Zürich,2,3,A,NaN,NaN,NaN
+SUI,10/12/2000,15:15,FC Basel,Lausanne Sports,2,3,A,NaN,NaN,NaN
+SUI,10/12/2000,15:15,Servette Genève,FC St. Gallen,3,1,H,NaN,NaN,NaN
+SUI,10/12/2000,15:15,Neuchâtel Xamax FC,FC Sion,1,0,H,NaN,NaN,NaN
+SUI,10/12/2000,15:15,Yverdon-Sport FC,FC Aarau,3,3,D,NaN,NaN,NaN

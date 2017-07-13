@@ -16,9 +16,20 @@ def format_result(result):
     halftime_letter = ""
     half_line = ""
     if "|" in result:
-        result = result.split("|")
-        fulltime = result[0]
-        halftime = result[1]
+        if "," not in result:
+            result = result.split("|")
+            fulltime = result[0]
+            halftime = result[1]
+        elif result.count(",") == 1:
+            result = result.split("|")
+            result = result[1].split(",")
+            fulltime = result[1]
+            halftime = result[0]
+        elif result.count(",") == 2:
+            result = result.split("|")
+            result = result[1].split(",")
+            fulltime = result[1]
+            halftime = result[0]
     else:
         fulltime = result
         half_line = "NaN,NaN,NaN\n"
@@ -42,12 +53,16 @@ def format_result(result):
     result_line += "," + fulltime_letter + "," + half_line
     return result_line
 
-def get_results(url, filename):
+
+
+def get_results(url):
     
+    filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
     country_short = (filename.split("-")[0]).upper()
-    if not os.path.exists(country_short):
-        os.makedirs(country_short)
-    filename = country_short + "/" + filename + ".csv"
+    path = "archive/" + country_short
+    if not os.path.exists(path):
+        os.makedirs(path)
+    filename = path + "/" + filename + ".csv"
     full_results = "Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR\n"
     usock = urllib2.urlopen(url)
     data = usock.read()
@@ -68,7 +83,7 @@ def get_results(url, filename):
             if "-" not in res:
                 result = ""
                 for char in res:
-                    if char.isdigit() or char == ":":
+                    if char.isdigit() or char == ":" or char == ",":
                         result += char
                     elif char == "(":
                         result += "|"
@@ -87,3 +102,31 @@ def get_results(url, filename):
         text = open(filename, "w")
         text.write(full_results)
         text.close()
+
+def sort_links(links):
+    active = ""
+    archive = ""
+    for link in links:
+        usock = urllib2.urlopen(link)
+        data = usock.read()
+        usock.close()
+        if "-:-" in data:
+            active += link + "\n"
+        else:
+            archive += link + "\n"
+        print link
+    text = open("active_links.txt", "w")
+    text.write(active)
+    text.close()
+    text = open("archive_links.txt", "w")
+    text.write(archive)
+    text.close()
+            
+
+def check_file(links):
+    for link in links:
+        usock = urllib2.urlopen(link)
+        data = usock.read()
+        usock.close()
+        if ") aet" in data or ") pso" in data:
+            print link

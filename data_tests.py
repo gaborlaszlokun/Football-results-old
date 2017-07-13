@@ -10,7 +10,7 @@ import pandas as pd
 
 offset = 5
 
-filename = "tests/esp-2016-2017.csv"
+filename = "tests/usa-2016.csv"
 teams = []
 block_letters = ""
 
@@ -29,10 +29,18 @@ for team in teams:
         if results.iat[i,3] == team or results.iat[i,4] == team:
             team_string += results.iat[i,7]
     print team, team_string
+    betweens = team_string.split("H")
+    bet_lens = []
+    for bet in betweens:
+        bet_lens.append(len(bet))
+    print max(bet_lens)
+    """
     for j in range(offset,len(team_string)):
         block = team_string[j-offset:j]
         print block, team_string[j]
         if "D" not in block:
             block_letters += team_string[j]
     print 
-print len(block_letters), block_letters.count("D")
+    """
+    
+#print len(block_letters), block_letters.count("D")

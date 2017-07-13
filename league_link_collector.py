@@ -10,6 +10,7 @@ import bs4
 from django.utils.encoding import smart_str
 
 base_url ="http://www.worldfootball.net"
+final_urls = ""
 
 usock = urllib2.urlopen(base_url)
 data = usock.read()
@@ -29,7 +30,10 @@ for i in countries:
     for j in seasons:
         if "all_matches" in j['value']:
             final_url = base_url + str(j['value']) + "\n"
+#            if "2018" in final_url or ("2017" in final_url and "2016" not in final_url):
+            final_urls += final_url
             print final_url
-            text = open("league_links.txt", "a")
-            text.write(final_url)
-            text.close()
+				
+text = open("league_links.txt", "w")
+text.write(final_urls)
+text.close()

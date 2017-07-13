@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,13/05/2016,19:30,Defensor La Bocana,Juan Aurich,1,1,D,0,0,D
+PER,13/05/2016,21:30,Comerciantes Unidos,Universidad Cesar Vallejo,3,1,H,3,1,H
+PER,14/05/2016,18:30,Real Garcilaso,CD Unión Comercio,0,1,A,0,0,D
+PER,14/05/2016,21:00,Deportivo Municipal,Universidad San Martín,1,0,H,1,0,H
+PER,15/05/2016,02:00,FBC Melgar,Universidad Técnica,1,1,D,0,0,D
+PER,15/05/2016,17:15,Sport Huancayo,Sporting Cristal,3,1,H,2,1,H
+PER,15/05/2016,19:30,Alianza Atlético,Alianza Lima,0,1,A,0,1,A
+PER,15/05/2016,22:00,Universitario de Deportes,Ayacucho FC,0,2,A,0,1,A
+PER,17/05/2016,19:15,Universidad San Martín,Comerciantes Unidos,1,1,D,1,0,H
+PER,18/05/2016,02:00,Universidad Cesar Vallejo,Real Garcilaso,1,1,D,1,0,H
+PER,18/05/2016,19:15,Ayacucho FC,Defensor La Bocana,3,0,H,1,0,H
+PER,18/05/2016,21:30,Universidad Técnica,Sport Huancayo,0,0,D,0,0,D
+PER,18/05/2016,21:30,Sporting Cristal,FBC Melgar,2,1,H,1,0,H
+PER,19/05/2016,02:00,Alianza Lima,Deportivo Municipal,1,1,D,0,0,D
+PER,19/05/2016,19:15,CD Unión Comercio,Alianza Atlético,2,2,D,2,1,H
+PER,20/05/2016,02:00,Juan Aurich,Universitario de Deportes,2,0,H,0,0,D
+PER,21/05/2016,18:30,Real Garcilaso,Universidad San Martín,1,0,H,1,0,H
+PER,21/05/2016,21:00,Deportivo Municipal,Universidad Técnica,0,0,D,0,0,D
+PER,22/05/2016,17:15,Sport Huancayo,Juan Aurich,3,1,H,1,0,H
+PER,22/05/2016,19:30,Defensor La Bocana,Universitario de Deportes,2,2,D,0,0,D
+PER,22/05/2016,22:00,Alianza Lima,CD Unión Comercio,0,1,A,0,1,A
+PER,23/05/2016,00:15,FBC Melgar,Ayacucho FC,2,0,H,1,0,H
+PER,23/05/2016,19:15,Alianza Atlético,Universidad Cesar Vallejo,3,1,H,0,0,D
+PER,23/06/2016,21:30,Comerciantes Unidos,Sporting Cristal,1,3,A,1,2,A
+PER,27/05/2016,19:15,Universidad San Martín,Alianza Atlético,2,1,H,1,1,D
+PER,27/05/2016,21:30,Universidad Técnica,Comerciantes Unidos,2,0,H,2,0,H
+PER,28/05/2016,02:00,Juan Aurich,FBC Melgar,1,1,D,1,0,H
+PER,28/05/2016,18:30,Sporting Cristal,Real Garcilaso,3,1,H,2,0,H
+PER,29/05/2016,02:00,Universidad Cesar Vallejo,Alianza Lima,0,0,D,0,0,D
+PER,29/05/2016,17:15,CD Unión Comercio,Defensor La Bocana,3,0,H,2,0,H
+PER,29/05/2016,19:30,Ayacucho FC,Deportivo Municipal,1,1,D,0,1,A
+PER,12/06/2016,21:00,Universitario de Deportes,Sport Huancayo,0,3,A,0,1,A
+PER,28/06/2016,19:15,CD Unión Comercio,Universidad Cesar Vallejo,0,1,A,0,1,A
+PER,28/06/2016,21:30,Deportivo Municipal,Juan Aurich,2,1,H,2,0,H
+PER,29/06/2016,02:00,Alianza Lima,Universidad San Martín,3,0,H,0,0,D
+PER,29/06/2016,17:00,Sport Huancayo,Defensor La Bocana,0,0,D,0,0,D
+PER,29/06/2016,19:15,Real Garcilaso,Universidad Técnica,0,1,A,0,0,D
+PER,29/06/2016,21:30,Comerciantes Unidos,Ayacucho FC,2,0,H,1,0,H
+PER,30/06/2016,02:00,FBC Melgar,Universitario de Deportes,5,2,H,1,2,A
+PER,30/06/2016,21:30,Alianza Atlético,Sporting Cristal,0,2,A,0,0,D
+PER,01/07/2016,21:30,Universidad San Martín,CD Unión Comercio,1,1,D,1,0,H
+PER,02/07/2016,21:00,Juan Aurich,Comerciantes Unidos,1,1,D,0,1,A
+PER,02/07/2016,23:45,Universidad Cesar Vallejo,Sport Huancayo,3,1,H,1,0,H
+PER,03/07/2016,02:00,Universitario de Deportes,Deportivo Municipal,2,0,H,0,0,D
+PER,03/07/2016,17:00,Defensor La Bocana,FBC Melgar,2,2,D,0,0,D
+PER,03/07/2016,19:15,Ayacucho FC,Real Garcilaso,1,2,A,0,0,D
+PER,03/07/2016,21:30,Universidad Técnica,Alianza Atlético,1,2,A,0,0,D
+PER,03/07/2016,21:30,Sporting Cristal,Alianza Lima,0,2,A,0,1,A
+PER,05/07/2016,21:30,Deportivo Municipal,Defensor La Bocana,1,1,D,0,0,D
+PER,06/07/2016,02:00,Universidad Cesar Vallejo,Universidad San Martín,2,2,D,1,2,A
+PER,06/07/2016,17:00,Alianza Atlético,Ayacucho FC,2,0,H,0,0,D
+PER,06/07/2016,19:15,Real Garcilaso,Juan Aurich,3,2,H,1,1,D
+PER,06/07/2016,21:30,CD Unión Comercio,Sporting Cristal,1,2,A,0,1,A
+PER,06/07/2016,23:45,FBC Melgar,Sport Huancayo,1,2,A,1,1,D
+PER,07/07/2016,02:00,Alianza Lima,Universidad Técnica,0,1,A,0,0,D
+PER,07/07/2016,21:30,Comerciantes Unidos,Universitario de Deportes,0,0,D,0,0,D
+PER,09/07/2016,18:30,Sport Huancayo,Deportivo Municipal,2,1,H,1,0,H
+PER,09/07/2016,21:00,Sporting Cristal,Universidad Cesar Vallejo,1,1,D,1,0,H
+PER,09/07/2016,23:45,Juan Aurich,Alianza Atlético,0,0,D,0,0,D
+PER,10/07/2016,02:00,FBC Melgar,Universidad San Martín,1,0,H,0,0,D
+PER,10/07/2016,19:15,Ayacucho FC,Alianza Lima,1,1,D,1,1,D
+PER,10/07/2016,22:00,Universitario de Deportes,Real Garcilaso,4,1,H,3,0,H
+PER,11/07/2016,19:15,Defensor La Bocana,Comerciantes Unidos,2,0,H,1,0,H
+PER,11/07/2016,21:30,Universidad Técnica,CD Unión Comercio,1,1,D,1,0,H
+PER,15/07/2016,21:30,Comerciantes Unidos,Sport Huancayo,1,0,H,1,0,H
+PER,16/07/2016,02:00,Universidad San Martín,Sporting Cristal,1,2,A,0,1,A
+PER,16/07/2016,18:30,Alianza Atlético,Universitario de Deportes,2,3,A,2,2,D
+PER,16/07/2016,21:00,Deportivo Municipal,FBC Melgar,1,0,H,1,0,H
+PER,17/07/2016,02:00,Universidad Cesar Vallejo,Universidad Técnica,1,1,D,0,0,D
+PER,17/07/2016,17:15,CD Unión Comercio,Ayacucho FC,0,1,A,0,1,A
+PER,17/07/2016,19:30,Real Garcilaso,Defensor La Bocana,4,1,H,2,0,H
+PER,17/07/2016,22:00,Alianza Lima,Juan Aurich,0,2,A,0,0,D
+PER,19/07/2016,21:30,Universidad Técnica,Universidad San Martín,3,1,H,2,0,H
+PER,20/07/2016,02:00,FBC Melgar,Comerciantes Unidos,3,2,H,2,0,H
+PER,20/07/2016,17:00,Defensor La Bocana,Alianza Atlético,1,0,H,0,0,D
+PER,20/07/2016,19:15,Sport Huancayo,Real Garcilaso,3,0,H,2,0,H
+PER,20/07/2016,21:15,Deportivo Municipal,Sporting Cristal,0,0,D,0,0,D
+PER,21/07/2016,02:00,Juan Aurich,CD Unión Comercio,1,1,D,1,1,D
+PER,21/07/2016,19:15,Ayacucho FC,Universidad Cesar Vallejo,0,1,A,0,1,A
+PER,22/07/2016,02:00,Universitario de Deportes,Alianza Lima,1,0,H,0,0,D
+PER,23/07/2016,18:30,Real Garcilaso,FBC Melgar,1,2,A,0,0,D
+PER,23/07/2016,21:00,Sporting Cristal,Universidad Técnica,4,0,H,0,0,D
+PER,24/07/2016,02:00,Universidad Cesar Vallejo,Juan Aurich,1,3,A,1,0,H
+PER,24/07/2016,17:15,Alianza Atlético,Sport Huancayo,0,0,D,0,0,D
+PER,24/07/2016,19:30,CD Unión Comercio,Universitario de Deportes,2,1,H,1,0,H
+PER,24/07/2016,22:00,Alianza Lima,Defensor La Bocana,2,0,H,0,0,D
+PER,25/07/2016,19:15,Universidad San Martín,Ayacucho FC,1,1,D,0,1,A
+PER,25/07/2016,21:30,Comerciantes Unidos,Deportivo Municipal,1,0,H,0,0,D
+PER,29/07/2016,21:30,Comerciantes Unidos,CD Unión Comercio,0,0,D,0,0,D
+PER,30/07/2016,18:30,Ayacucho FC,Sporting Cristal,1,1,D,1,0,H
+PER,30/07/2016,21:00,Deportivo Municipal,Real Garcilaso,3,0,H,2,0,H
+PER,30/07/2016,23:45,FBC Melgar,Alianza Atlético,2,0,H,0,0,D
+PER,31/07/2016,02:00,Juan Aurich,Universidad San Martín,1,3,A,1,2,A
+PER,31/07/2016,17:15,Defensor La Bocana,Universidad Técnica,1,1,D,1,0,H
+PER,31/07/2016,19:30,Sport Huancayo,Alianza Lima,2,1,H,1,1,D
+PER,31/07/2016,22:00,Universitario de Deportes,Universidad Cesar Vallejo,1,1,D,0,0,D
+PER,02/08/2016,19:15,Real Garcilaso,Comerciantes Unidos,1,3,A,1,1,D
+PER,02/08/2016,21:30,Sporting Cristal,Juan Aurich,1,1,D,1,0,H
+PER,03/08/2016,17:00,Alianza Atlético,Deportivo Municipal,2,0,H,1,0,H
+PER,03/08/2016,19:15,CD Unión Comercio,Sport Huancayo,2,1,H,1,1,D
+PER,03/08/2016,21:30,Universidad Técnica,Ayacucho FC,1,1,D,1,1,D
+PER,03/08/2016,23:45,Universidad Cesar Vallejo,Defensor La Bocana,1,0,H,1,0,H
+PER,04/08/2016,02:00,Alianza Lima,FBC Melgar,2,1,H,1,0,H
+PER,05/08/2016,02:00,Universidad San Martín,Universitario de Deportes,3,1,H,2,0,H
+PER,06/08/2016,18:30,Sport Huancayo,Ayacucho FC,2,1,H,0,1,A
+PER,06/08/2016,21:00,Deportivo Municipal,CD Unión Comercio,4,1,H,1,0,H
+PER,06/08/2016,23:45,Juan Aurich,Universidad Técnica,2,0,H,2,0,H
+PER,07/08/2016,02:00,FBC Melgar,Universidad Cesar Vallejo,1,1,D,0,1,A
+PER,07/08/2016,17:00,Defensor La Bocana,Universidad San Martín,2,1,H,1,0,H
+PER,07/08/2016,19:15,Real Garcilaso,Alianza Lima,1,0,H,0,0,D
+PER,07/08/2016,22:00,Universitario de Deportes,Sporting Cristal,2,2,D,0,1,A
+PER,08/08/2016,21:30,Comerciantes Unidos,Alianza Atlético,3,1,H,1,0,H
+PER,13/08/2016,21:30,Universidad Técnica,Universitario de Deportes,2,1,H,1,1,D
+PER,14/08/2016,19:00,CD Unión Comercio,FBC Melgar,3,1,H,2,0,H
+PER,14/08/2016,21:30,Alianza Lima,Comerciantes Unidos,0,0,D,0,0,D
+PER,14/08/2016,21:30,Ayacucho FC,Juan Aurich,1,0,H,0,0,D
+PER,14/08/2016,21:30,Universidad San Martín,Sport Huancayo,2,0,H,0,0,D
+PER,14/08/2016,21:30,Sporting Cristal,Defensor La Bocana,1,1,D,0,0,D
+PER,14/08/2016,21:30,Universidad Cesar Vallejo,Deportivo Municipal,2,2,D,1,0,H
+PER,14/08/2016,21:30,Alianza Atlético,Real Garcilaso,2,1,H,0,0,D

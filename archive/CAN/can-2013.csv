@@ -1,0 +1,140 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CAN,05/05/2013,18:00,Kingston FC,Brampton United,6,2,H,NaN,NaN,NaN
+CAN,11/05/2013,01:30,London City,Niagara United,0,0,D,NaN,NaN,NaN
+CAN,12/05/2013,23:30,York Region Shooters,North York Astros,1,0,H,NaN,NaN,NaN
+CAN,13/05/2013,00:00,SC Waterloo,Niagara United,1,1,D,NaN,NaN,NaN
+CAN,13/05/2013,01:00,Toronto Croatia,Kingston FC,3,2,H,NaN,NaN,NaN
+CAN,18/05/2013,02:00,Serbian White Eagles,North York Astros,3,0,H,NaN,NaN,NaN
+CAN,19/05/2013,18:00,Kingston FC,Burlington SC,2,1,H,NaN,NaN,NaN
+CAN,25/05/2013,01:30,London City,York Region Shooters,2,2,D,NaN,NaN,NaN
+CAN,25/05/2013,02:00,Serbian White Eagles,Roma Wolves,1,3,A,NaN,NaN,NaN
+CAN,26/05/2013,00:00,Niagara United,Brampton United,1,3,A,NaN,NaN,NaN
+CAN,26/05/2013,21:30,North York Astros,Kingston FC,1,3,A,NaN,NaN,NaN
+CAN,26/05/2013,23:30,York Region Shooters,Serbian White Eagles,0,1,A,NaN,NaN,NaN
+CAN,27/05/2013,00:00,SC Waterloo,Burlington SC,4,2,H,NaN,NaN,NaN
+CAN,27/05/2013,01:00,Toronto Croatia,London City,4,1,H,NaN,NaN,NaN
+CAN,01/06/2013,22:00,Kingston FC,Niagara United,5,2,H,NaN,NaN,NaN
+CAN,01/06/2013,22:00,Burlington SC,SC Waterloo,3,2,H,NaN,NaN,NaN
+CAN,02/06/2013,21:30,North York Astros,London City,2,0,H,NaN,NaN,NaN
+CAN,02/06/2013,23:30,York Region Shooters,Brampton United,1,2,A,NaN,NaN,NaN
+CAN,03/06/2013,01:00,Toronto Croatia,Serbian White Eagles,2,0,H,NaN,NaN,NaN
+CAN,08/06/2013,01:30,London City,Serbian White Eagles,2,2,D,NaN,NaN,NaN
+CAN,09/06/2013,00:00,Niagara United,York Region Shooters,1,2,A,NaN,NaN,NaN
+CAN,09/06/2013,18:00,Kingston FC,Windsor Stars,2,1,H,NaN,NaN,NaN
+CAN,09/06/2013,21:30,North York Astros,Toronto Croatia,0,3,A,NaN,NaN,NaN
+CAN,10/06/2013,00:00,Brampton United,Burlington SC,1,0,H,NaN,NaN,NaN
+CAN,10/06/2013,00:00,SC Waterloo,Serbian White Eagles,4,0,H,NaN,NaN,NaN
+CAN,15/06/2013,02:00,Serbian White Eagles,Niagara United,0,1,A,NaN,NaN,NaN
+CAN,16/06/2013,00:00,Windsor Stars,North York Astros,4,1,H,NaN,NaN,NaN
+CAN,16/06/2013,18:00,Kingston FC,London City,6,3,H,NaN,NaN,NaN
+CAN,16/06/2013,22:30,Brampton United,SC Waterloo,4,1,H,NaN,NaN,NaN
+CAN,16/06/2013,23:30,York Region Shooters,Roma Wolves,6,1,H,NaN,NaN,NaN
+CAN,17/06/2013,01:00,Toronto Croatia,Niagara United,1,1,D,NaN,NaN,NaN
+CAN,20/06/2013,01:00,Roma Wolves,Brampton United,1,3,A,NaN,NaN,NaN
+CAN,22/06/2013,01:30,London City,Windsor Stars,3,1,H,NaN,NaN,NaN
+CAN,23/06/2013,00:00,Niagara United,Burlington SC,0,2,A,NaN,NaN,NaN
+CAN,23/06/2013,21:30,North York Astros,York Region Shooters,0,4,A,NaN,NaN,NaN
+CAN,23/06/2013,22:00,Burlington SC,Windsor Stars,1,4,A,NaN,NaN,NaN
+CAN,23/06/2013,22:30,Brampton United,Kingston FC,2,1,H,NaN,NaN,NaN
+CAN,24/06/2013,00:00,SC Waterloo,London City,4,2,H,NaN,NaN,NaN
+CAN,24/06/2013,01:00,Toronto Croatia,Roma Wolves,3,0,H,NaN,NaN,NaN
+CAN,29/06/2013,01:15,SC Waterloo,North York Astros,0,0,D,NaN,NaN,NaN
+CAN,30/06/2013,18:00,Kingston FC,Roma Wolves,5,1,H,NaN,NaN,NaN
+CAN,30/06/2013,22:00,Windsor Stars,Toronto Croatia,2,2,D,NaN,NaN,NaN
+CAN,06/07/2013,01:00,Windsor Stars,Burlington SC,3,0,H,NaN,NaN,NaN
+CAN,06/07/2013,01:30,London City,North York Astros,2,0,H,NaN,NaN,NaN
+CAN,06/07/2013,02:00,Serbian White Eagles,York Region Shooters,1,2,A,NaN,NaN,NaN
+CAN,06/07/2013,22:00,Kingston FC,Toronto Croatia,0,1,A,NaN,NaN,NaN
+CAN,07/07/2013,00:00,Niagara United,Roma Wolves,0,2,A,NaN,NaN,NaN
+CAN,07/07/2013,21:30,North York Astros,Serbian White Eagles,1,0,H,NaN,NaN,NaN
+CAN,08/07/2013,00:00,SC Waterloo,Brampton United,3,2,H,NaN,NaN,NaN
+CAN,08/07/2013,00:00,Burlington SC,London City,3,2,H,NaN,NaN,NaN
+CAN,08/07/2013,00:30,York Region Shooters,Windsor Stars,3,0,H,NaN,NaN,NaN
+CAN,11/07/2013,01:00,Roma Wolves,London City,1,2,A,NaN,NaN,NaN
+CAN,13/07/2013,01:00,Toronto Croatia,North York Astros,3,3,D,NaN,NaN,NaN
+CAN,14/07/2013,00:00,Windsor Stars,Kingston FC,2,2,D,NaN,NaN,NaN
+CAN,14/07/2013,22:30,Brampton United,Niagara United,3,0,H,NaN,NaN,NaN
+CAN,15/07/2013,00:00,Windsor Stars,SC Waterloo,2,2,D,NaN,NaN,NaN
+CAN,15/07/2013,00:00,Burlington SC,York Region Shooters,0,3,A,NaN,NaN,NaN
+CAN,18/07/2013,01:00,Roma Wolves,Toronto Croatia,2,1,H,NaN,NaN,NaN
+CAN,20/07/2013,22:00,Kingston FC,Serbian White Eagles,6,0,H,NaN,NaN,NaN
+CAN,21/07/2013,00:00,Niagara United,London City,2,3,A,NaN,NaN,NaN
+CAN,21/07/2013,21:30,North York Astros,Burlington SC,0,2,A,NaN,NaN,NaN
+CAN,21/07/2013,22:30,Brampton United,Roma Wolves,3,0,H,NaN,NaN,NaN
+CAN,21/07/2013,23:30,York Region Shooters,Toronto Croatia,2,0,H,NaN,NaN,NaN
+CAN,22/07/2013,00:00,SC Waterloo,Windsor Stars,2,0,H,NaN,NaN,NaN
+CAN,28/07/2013,00:00,Niagara United,North York Astros,2,4,A,NaN,NaN,NaN
+CAN,28/07/2013,00:00,Windsor Stars,Serbian White Eagles,0,3,A,NaN,NaN,NaN
+CAN,28/07/2013,01:00,Roma Wolves,Kingston FC,0,2,A,NaN,NaN,NaN
+CAN,28/07/2013,22:30,Brampton United,London City,0,2,A,NaN,NaN,NaN
+CAN,28/07/2013,23:30,York Region Shooters,SC Waterloo,1,0,H,NaN,NaN,NaN
+CAN,29/07/2013,01:00,Burlington SC,Toronto Croatia,2,3,A,NaN,NaN,NaN
+CAN,01/08/2013,01:00,Roma Wolves,North York Astros,2,3,A,NaN,NaN,NaN
+CAN,03/08/2013,01:30,London City,Toronto Croatia,0,2,A,NaN,NaN,NaN
+CAN,04/08/2013,00:00,Niagara United,Windsor Stars,1,4,A,NaN,NaN,NaN
+CAN,04/08/2013,22:30,Brampton United,Serbian White Eagles,1,0,H,NaN,NaN,NaN
+CAN,05/08/2013,00:00,SC Waterloo,Toronto Croatia,0,4,A,NaN,NaN,NaN
+CAN,10/08/2013,01:00,Windsor Stars,London City,3,1,H,NaN,NaN,NaN
+CAN,11/08/2013,18:00,Kingston FC,SC Waterloo,4,2,H,NaN,NaN,NaN
+CAN,11/08/2013,21:30,North York Astros,Roma Wolves,0,1,A,NaN,NaN,NaN
+CAN,12/08/2013,00:00,Windsor Stars,York Region Shooters,1,0,H,NaN,NaN,NaN
+CAN,12/08/2013,00:00,Burlington SC,Niagara United,0,2,A,NaN,NaN,NaN
+CAN,18/08/2013,00:00,Niagara United,Kingston FC,2,4,A,NaN,NaN,NaN
+CAN,18/08/2013,00:30,London City,Roma Wolves,2,0,H,NaN,NaN,NaN
+CAN,18/08/2013,20:00,Brampton United,Windsor Stars,3,1,H,NaN,NaN,NaN
+CAN,18/08/2013,23:30,York Region Shooters,Burlington SC,4,1,H,NaN,NaN,NaN
+CAN,19/08/2013,01:00,Toronto Croatia,SC Waterloo,0,0,D,NaN,NaN,NaN
+CAN,22/08/2013,01:00,Roma Wolves,Burlington SC,0,2,A,NaN,NaN,NaN
+CAN,24/08/2013,02:00,Serbian White Eagles,London City,2,1,H,NaN,NaN,NaN
+CAN,25/08/2013,00:00,Niagara United,Toronto Croatia,1,2,A,NaN,NaN,NaN
+CAN,25/08/2013,18:00,Kingston FC,North York Astros,6,0,H,NaN,NaN,NaN
+CAN,25/08/2013,23:30,York Region Shooters,London City,3,0,H,NaN,NaN,NaN
+CAN,26/08/2013,00:00,Burlington SC,Brampton United,1,3,A,NaN,NaN,NaN
+CAN,29/08/2013,01:00,Roma Wolves,SC Waterloo,1,3,A,NaN,NaN,NaN
+CAN,31/08/2013,01:30,London City,Kingston FC,1,3,A,NaN,NaN,NaN
+CAN,31/08/2013,02:00,Serbian White Eagles,Brampton United,0,2,A,NaN,NaN,NaN
+CAN,31/08/2013,23:00,Windsor Stars,Niagara United,3,2,H,NaN,NaN,NaN
+CAN,01/09/2013,22:30,Brampton United,North York Astros,1,2,A,NaN,NaN,NaN
+CAN,05/09/2013,01:00,Roma Wolves,Serbian White Eagles,2,1,H,NaN,NaN,NaN
+CAN,07/09/2013,01:30,London City,SC Waterloo,3,2,H,NaN,NaN,NaN
+CAN,08/09/2013,00:00,Niagara United,Serbian White Eagles,1,3,A,NaN,NaN,NaN
+CAN,08/09/2013,21:30,North York Astros,SC Waterloo,1,4,A,NaN,NaN,NaN
+CAN,08/09/2013,22:00,Burlington SC,Roma Wolves,1,2,A,NaN,NaN,NaN
+CAN,08/09/2013,22:30,Brampton United,York Region Shooters,2,3,A,NaN,NaN,NaN
+CAN,09/09/2013,01:00,Toronto Croatia,Windsor Stars,2,1,H,NaN,NaN,NaN
+CAN,12/09/2013,01:00,Roma Wolves,Niagara United,2,3,A,NaN,NaN,NaN
+CAN,14/09/2013,01:30,London City,Burlington SC,3,4,A,NaN,NaN,NaN
+CAN,14/09/2013,22:30,Brampton United,Toronto Croatia,0,4,A,NaN,NaN,NaN
+CAN,15/09/2013,22:00,Burlington SC,North York Astros,1,2,A,NaN,NaN,NaN
+CAN,15/09/2013,23:30,York Region Shooters,Niagara United,5,1,H,NaN,NaN,NaN
+CAN,16/09/2013,00:00,SC Waterloo,Kingston FC,0,2,A,NaN,NaN,NaN
+CAN,16/09/2013,00:00,Roma Wolves,Windsor Stars,1,0,H,NaN,NaN,NaN
+CAN,19/09/2013,01:00,Roma Wolves,York Region Shooters,0,1,A,NaN,NaN,NaN
+CAN,19/09/2013,02:00,Serbian White Eagles,Burlington SC,6,2,H,NaN,NaN,NaN
+CAN,21/09/2013,02:00,Serbian White Eagles,Kingston FC,1,1,D,NaN,NaN,NaN
+CAN,22/09/2013,00:00,Windsor Stars,Roma Wolves,2,0,H,NaN,NaN,NaN
+CAN,22/09/2013,00:00,Niagara United,SC Waterloo,0,2,A,NaN,NaN,NaN
+CAN,22/09/2013,18:00,Kingston FC,York Region Shooters,2,1,H,NaN,NaN,NaN
+CAN,22/09/2013,21:30,North York Astros,Brampton United,2,2,D,NaN,NaN,NaN
+CAN,23/09/2013,01:00,Toronto Croatia,Burlington SC,4,1,H,NaN,NaN,NaN
+CAN,26/09/2013,02:00,Serbian White Eagles,SC Waterloo,1,2,A,NaN,NaN,NaN
+CAN,26/09/2013,02:00,London City,Brampton United,4,2,H,NaN,NaN,NaN
+CAN,28/09/2013,01:00,Burlington SC,Serbian White Eagles,2,1,H,NaN,NaN,NaN
+CAN,28/09/2013,21:30,North York Astros,Niagara United,3,3,D,NaN,NaN,NaN
+CAN,29/09/2013,00:00,Windsor Stars,Brampton United,1,2,A,NaN,NaN,NaN
+CAN,29/09/2013,22:00,Burlington SC,Kingston FC,3,5,A,NaN,NaN,NaN
+CAN,30/09/2013,00:00,SC Waterloo,Roma Wolves,9,0,H,NaN,NaN,NaN
+CAN,30/09/2013,01:00,Toronto Croatia,York Region Shooters,2,2,D,NaN,NaN,NaN
+CAN,03/10/2013,02:00,Serbian White Eagles,Toronto Croatia,1,0,H,NaN,NaN,NaN
+CAN,03/10/2013,02:00,SC Waterloo,York Region Shooters,5,0,H,NaN,NaN,NaN
+CAN,05/10/2013,02:00,Serbian White Eagles,Windsor Stars,3,1,H,NaN,NaN,NaN
+CAN,06/10/2013,00:00,Toronto Croatia,Brampton United,2,0,H,NaN,NaN,NaN
+CAN,06/10/2013,20:30,North York Astros,Windsor Stars,4,1,H,NaN,NaN,NaN
+CAN,06/10/2013,23:30,York Region Shooters,Kingston FC,1,0,H,NaN,NaN,NaN
+CAN,12/10/2013,01:00,York Region Shooters,London City,2,4,A,NaN,NaN,NaN
+CAN,13/10/2013,00:00,Toronto Croatia,Windsor Stars,2,0,H,NaN,NaN,NaN
+CAN,13/10/2013,18:00,Kingston FC,Serbian White Eagles,2,1,H,NaN,NaN,NaN
+CAN,15/10/2013,00:00,Brampton United,SC Waterloo,0,4,A,NaN,NaN,NaN
+CAN,20/10/2013,00:00,Toronto Croatia,SC Waterloo,4,5,A,NaN,NaN,NaN
+CAN,20/10/2013,23:30,Kingston FC,London City,4,2,H,NaN,NaN,NaN
+CAN,03/11/2013,19:30,SC Waterloo,Kingston FC,3,1,H,NaN,NaN,NaN

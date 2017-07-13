@@ -1,0 +1,97 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CRC,24/07/2010,22:00,Brujas de Escazú,Barrio México,0,1,A,0,1,A
+CRC,25/07/2010,03:00,LD Alajuelense,CS Cartaginés,2,0,H,0,0,D
+CRC,25/07/2010,21:00,Limón FC,Santos de Guápiles,0,1,A,0,0,D
+CRC,25/07/2010,22:00,Municipal Pérez Zeledón,Universidad de Costa Rica,2,1,H,0,0,D
+CRC,25/07/2010,23:00,AD San Carlos,Deportivo Saprissa,1,0,H,1,0,H
+CRC,25/07/2010,23:00,CS Herediano,Puntarenas FC,2,0,H,0,0,D
+CRC,01/08/2010,02:00,Barrio México,CS Herediano,1,0,H,1,0,H
+CRC,01/08/2010,22:00,Santos de Guápiles,Municipal Pérez Zeledón,1,1,D,1,0,H
+CRC,01/08/2010,22:00,Universidad de Costa Rica,Limón FC,0,1,A,0,1,A
+CRC,01/08/2010,23:00,Puntarenas FC,Brujas de Escazú,5,2,H,1,1,D
+CRC,02/08/2010,19:00,CS Cartaginés,AD San Carlos,0,0,D,0,0,D
+CRC,05/08/2010,03:00,Deportivo Saprissa,LD Alajuelense,0,0,D,0,0,D
+CRC,08/08/2010,02:00,Barrio México,AD San Carlos,2,1,H,2,1,H
+CRC,08/08/2010,03:00,Puntarenas FC,LD Alajuelense,0,2,A,0,0,D
+CRC,08/08/2010,18:00,CS Cartaginés,Santos de Guápiles,7,1,H,3,1,H
+CRC,08/08/2010,18:00,CS Herediano,Municipal Pérez Zeledón,3,2,H,1,2,A
+CRC,09/08/2010,22:00,Brujas de Escazú,Limón FC,3,1,H,2,0,H
+CRC,10/08/2010,02:00,Deportivo Saprissa,Universidad de Costa Rica,4,1,H,1,1,D
+CRC,15/08/2010,02:00,Santos de Guápiles,Deportivo Saprissa,0,0,D,1,0,H
+CRC,15/08/2010,03:00,LD Alajuelense,Barrio México,2,1,H,1,1,D
+CRC,15/08/2010,18:00,Universidad de Costa Rica,CS Cartaginés,3,0,H,0,0,D
+CRC,15/08/2010,22:00,Limón FC,CS Herediano,1,2,A,0,1,A
+CRC,15/08/2010,23:00,AD San Carlos,Puntarenas FC,2,1,H,1,1,D
+CRC,16/08/2010,18:00,Municipal Pérez Zeledón,Brujas de Escazú,0,2,A,0,1,A
+CRC,22/08/2010,02:00,Barrio México,Santos de Guápiles,0,0,D,0,0,D
+CRC,22/08/2010,03:00,CS Herediano,Deportivo Saprissa,3,1,H,1,0,H
+CRC,22/08/2010,18:00,Municipal Pérez Zeledón,LD Alajuelense,0,1,A,0,0,D
+CRC,22/08/2010,18:00,Puntarenas FC,Universidad de Costa Rica,3,0,H,1,0,H
+CRC,22/08/2010,22:00,Brujas de Escazú,CS Cartaginés,3,3,D,2,2,D
+CRC,22/08/2010,22:00,Limón FC,AD San Carlos,2,0,H,1,0,H
+CRC,29/08/2010,02:30,AD San Carlos,Municipal Pérez Zeledón,1,0,H,0,0,D
+CRC,29/08/2010,03:00,LD Alajuelense,Limón FC,2,1,H,0,1,A
+CRC,29/08/2010,18:00,CS Cartaginés,CS Herediano,0,0,D,0,0,D
+CRC,29/08/2010,22:00,Santos de Guápiles,Puntarenas FC,1,1,D,1,0,H
+CRC,30/08/2010,00:00,Deportivo Saprissa,Brujas de Escazú,3,2,H,2,1,H
+CRC,31/08/2010,22:00,Universidad de Costa Rica,Barrio México,1,3,A,0,0,D
+CRC,05/09/2010,02:30,AD San Carlos,Universidad de Costa Rica,2,0,H,0,0,D
+CRC,05/09/2010,18:00,LD Alajuelense,CS Herediano,3,1,H,2,1,H
+CRC,05/09/2010,18:00,Puntarenas FC,Barrio México,2,5,A,1,5,A
+CRC,05/09/2010,22:00,Santos de Guápiles,Brujas de Escazú,0,2,A,0,2,A
+CRC,05/09/2010,22:00,Limón FC,Deportivo Saprissa,0,0,D,0,0,D
+CRC,06/09/2010,18:00,Municipal Pérez Zeledón,CS Cartaginés,1,2,A,0,0,D
+CRC,11/09/2010,23:00,Barrio México,Limón FC,1,0,H,0,0,D
+CRC,12/09/2010,00:00,Deportivo Saprissa,Municipal Pérez Zeledón,4,1,H,1,1,D
+CRC,12/09/2010,03:00,CS Herediano,Santos de Guápiles,1,1,D,1,1,D
+CRC,12/09/2010,18:00,Universidad de Costa Rica,LD Alajuelense,0,1,A,0,1,A
+CRC,12/09/2010,18:00,CS Cartaginés,Puntarenas FC,3,1,H,1,1,D
+CRC,12/09/2010,21:00,Brujas de Escazú,AD San Carlos,0,0,D,0,0,D
+CRC,19/09/2010,02:30,AD San Carlos,Santos de Guápiles,2,3,A,1,1,D
+CRC,19/09/2010,18:00,Puntarenas FC,Municipal Pérez Zeledón,1,2,A,0,2,A
+CRC,19/09/2010,18:00,Universidad de Costa Rica,CS Herediano,0,4,A,0,1,A
+CRC,19/09/2010,22:00,Barrio México,Deportivo Saprissa,3,2,H,1,1,D
+CRC,19/09/2010,22:00,Limón FC,CS Cartaginés,2,1,H,1,1,D
+CRC,21/09/2010,02:30,LD Alajuelense,Brujas de Escazú,3,2,H,0,1,A
+CRC,26/09/2010,18:00,CS Cartaginés,Barrio México,0,0,D,0,0,D
+CRC,26/09/2010,18:00,Municipal Pérez Zeledón,Limón FC,2,1,H,1,0,H
+CRC,26/09/2010,22:00,Santos de Guápiles,LD Alajuelense,0,0,D,0,0,D
+CRC,26/09/2010,23:00,AD San Carlos,CS Herediano,0,0,D,0,1,A
+CRC,27/09/2010,21:00,Brujas de Escazú,Universidad de Costa Rica,0,1,A,0,0,D
+CRC,07/10/2010,03:00,Puntarenas FC,Deportivo Saprissa,0,0,D,0,1,A
+CRC,03/10/2010,18:00,Municipal Pérez Zeledón,Barrio México,1,1,D,0,1,A
+CRC,03/10/2010,18:00,LD Alajuelense,AD San Carlos,0,1,A,0,1,A
+CRC,03/10/2010,22:00,Santos de Guápiles,Universidad de Costa Rica,2,0,H,1,0,H
+CRC,03/10/2010,22:00,CS Herediano,Brujas de Escazú,1,1,D,1,0,H
+CRC,03/10/2010,22:00,Limón FC,Puntarenas FC,4,1,H,1,1,D
+CRC,03/10/2010,22:00,Deportivo Saprissa,CS Cartaginés,0,0,D,1,2,A
+CRC,09/10/2010,22:00,Brujas de Escazú,Santos de Guápiles,5,0,H,2,0,H
+CRC,10/10/2010,03:00,CS Herediano,LD Alajuelense,2,2,D,1,2,A
+CRC,10/10/2010,18:00,Universidad de Costa Rica,AD San Carlos,1,1,D,0,1,A
+CRC,10/10/2010,18:00,CS Cartaginés,Municipal Pérez Zeledón,1,0,H,0,0,D
+CRC,10/10/2010,18:00,Deportivo Saprissa,Limón FC,3,1,H,1,0,H
+CRC,10/10/2010,22:00,Barrio México,Puntarenas FC,1,1,D,1,0,H
+CRC,17/10/2010,04:00,Municipal Pérez Zeledón,Deportivo Saprissa,4,3,H,2,0,H
+CRC,17/10/2010,18:00,Puntarenas FC,CS Cartaginés,2,0,H,0,0,D
+CRC,17/10/2010,18:00,LD Alajuelense,Universidad de Costa Rica,3,0,H,1,0,H
+CRC,17/10/2010,22:00,Santos de Guápiles,CS Herediano,2,2,D,0,1,A
+CRC,17/10/2010,22:00,Limón FC,Barrio México,3,2,H,1,1,D
+CRC,19/10/2010,02:30,AD San Carlos,Brujas de Escazú,4,1,H,2,1,H
+CRC,24/10/2010,03:00,CS Herediano,AD San Carlos,4,1,H,3,0,H
+CRC,24/10/2010,18:00,Universidad de Costa Rica,Brujas de Escazú,2,6,A,0,3,A
+CRC,24/10/2010,18:00,LD Alajuelense,Santos de Guápiles,3,0,H,2,0,H
+CRC,24/10/2010,22:00,Barrio México,CS Cartaginés,2,0,H,1,0,H
+CRC,24/10/2010,22:00,Limón FC,Municipal Pérez Zeledón,0,0,D,0,0,D
+CRC,25/10/2010,01:00,Deportivo Saprissa,Puntarenas FC,1,2,A,0,1,A
+CRC,31/10/2010,17:00,CS Cartaginés,Limón FC,2,1,H,2,0,H
+CRC,31/10/2010,17:00,CS Herediano,Universidad de Costa Rica,4,1,H,1,1,D
+CRC,31/10/2010,17:00,Deportivo Saprissa,Barrio México,2,3,A,2,2,D
+CRC,31/10/2010,21:00,Brujas de Escazú,LD Alajuelense,2,4,A,1,2,A
+CRC,31/10/2010,21:00,Santos de Guápiles,AD San Carlos,0,0,D,0,0,D
+CRC,31/10/2010,22:00,Municipal Pérez Zeledón,Puntarenas FC,1,0,H,1,0,H
+CRC,10/11/2010,17:00,Universidad de Costa Rica,Santos de Guápiles,2,2,D,2,1,H
+CRC,10/11/2010,21:00,Brujas de Escazú,CS Herediano,2,1,H,0,1,A
+CRC,11/11/2010,02:00,CS Cartaginés,Deportivo Saprissa,1,1,D,0,0,D
+CRC,11/11/2010,02:00,AD San Carlos,LD Alajuelense,3,1,H,2,0,H
+CRC,11/11/2010,02:00,Puntarenas FC,Limón FC,2,0,H,1,0,H
+CRC,11/11/2010,17:00,Barrio México,Municipal Pérez Zeledón,0,3,A,NaN,NaN,NaN

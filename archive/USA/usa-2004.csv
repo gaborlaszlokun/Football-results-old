@@ -1,0 +1,162 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+USA,03/04/2004,21:00,D.C. United,San Jose Earthquakes,2,1,H,NaN,NaN,NaN
+USA,04/04/2004,00:30,Columbus Crew,MetroStars,1,3,A,NaN,NaN,NaN
+USA,04/04/2004,01:30,Kansas City Wizards,Chicago Fire,0,0,D,NaN,NaN,NaN
+USA,04/04/2004,01:30,Dallas Burn,Colorado Rapids,1,1,D,NaN,NaN,NaN
+USA,04/04/2004,03:00,Los Angeles Galaxy,New England Revolution,3,2,H,NaN,NaN,NaN
+USA,10/04/2004,21:00,San Jose Earthquakes,Chicago Fire,0,0,D,NaN,NaN,NaN
+USA,11/04/2004,03:00,Los Angeles Galaxy,D.C. United,1,1,D,NaN,NaN,NaN
+USA,17/04/2004,21:00,MetroStars,D.C. United,3,2,H,NaN,NaN,NaN
+USA,18/04/2004,00:30,New England Revolution,San Jose Earthquakes,1,3,A,NaN,NaN,NaN
+USA,18/04/2004,01:30,Chicago Fire,Dallas Burn,0,2,A,NaN,NaN,NaN
+USA,18/04/2004,01:30,Kansas City Wizards,Columbus Crew,1,0,H,NaN,NaN,NaN
+USA,18/04/2004,02:00,Colorado Rapids,Los Angeles Galaxy,1,1,D,NaN,NaN,NaN
+USA,24/04/2004,22:00,D.C. United,Chicago Fire,0,1,A,NaN,NaN,NaN
+USA,25/04/2004,00:30,Dallas Burn,Kansas City Wizards,1,0,H,NaN,NaN,NaN
+USA,25/04/2004,02:00,Colorado Rapids,San Jose Earthquakes,1,0,H,NaN,NaN,NaN
+USA,25/04/2004,03:00,Los Angeles Galaxy,Columbus Crew,2,0,H,NaN,NaN,NaN
+USA,25/04/2004,21:00,MetroStars,New England Revolution,1,1,D,NaN,NaN,NaN
+USA,01/05/2004,21:00,San Jose Earthquakes,D.C. United,1,1,D,NaN,NaN,NaN
+USA,02/05/2004,00:30,Columbus Crew,Dallas Burn,0,0,D,NaN,NaN,NaN
+USA,02/05/2004,00:30,New England Revolution,Los Angeles Galaxy,2,1,H,NaN,NaN,NaN
+USA,02/05/2004,01:30,Chicago Fire,MetroStars,3,0,H,NaN,NaN,NaN
+USA,02/05/2004,01:30,Kansas City Wizards,Colorado Rapids,2,0,H,NaN,NaN,NaN
+USA,08/05/2004,02:30,Colorado Rapids,New England Revolution,0,0,D,NaN,NaN,NaN
+USA,08/05/2004,21:00,Dallas Burn,Los Angeles Galaxy,1,3,A,NaN,NaN,NaN
+USA,09/05/2004,00:30,D.C. United,Columbus Crew,1,1,D,NaN,NaN,NaN
+USA,09/05/2004,01:30,Kansas City Wizards,Chicago Fire,2,2,D,NaN,NaN,NaN
+USA,09/05/2004,03:00,San Jose Earthquakes,MetroStars,5,5,D,NaN,NaN,NaN
+USA,15/05/2004,21:00,Columbus Crew,New England Revolution,1,0,H,NaN,NaN,NaN
+USA,16/05/2004,00:30,D.C. United,Kansas City Wizards,1,0,H,NaN,NaN,NaN
+USA,16/05/2004,00:30,MetroStars,Chicago Fire,1,1,D,NaN,NaN,NaN
+USA,16/05/2004,01:30,Dallas Burn,San Jose Earthquakes,1,2,A,NaN,NaN,NaN
+USA,16/05/2004,03:00,Los Angeles Galaxy,Colorado Rapids,1,1,D,NaN,NaN,NaN
+USA,20/05/2004,00:30,D.C. United,Los Angeles Galaxy,2,4,A,NaN,NaN,NaN
+USA,22/05/2004,22:00,New England Revolution,MetroStars,1,1,D,NaN,NaN,NaN
+USA,23/05/2004,01:30,Kansas City Wizards,Dallas Burn,2,0,H,NaN,NaN,NaN
+USA,23/05/2004,02:00,Colorado Rapids,D.C. United,2,1,H,NaN,NaN,NaN
+USA,23/05/2004,03:00,San Jose Earthquakes,Los Angeles Galaxy,4,2,H,NaN,NaN,NaN
+USA,23/05/2004,21:00,Chicago Fire,Columbus Crew,1,3,A,NaN,NaN,NaN
+USA,30/05/2004,00:30,Columbus Crew,San Jose Earthquakes,1,0,H,NaN,NaN,NaN
+USA,30/05/2004,00:30,New England Revolution,D.C. United,0,1,A,NaN,NaN,NaN
+USA,30/05/2004,01:30,Chicago Fire,Colorado Rapids,1,0,H,NaN,NaN,NaN
+USA,30/05/2004,03:00,Los Angeles Galaxy,Dallas Burn,4,1,H,NaN,NaN,NaN
+USA,31/05/2004,00:30,MetroStars,Kansas City Wizards,1,0,H,NaN,NaN,NaN
+USA,03/06/2004,01:30,Kansas City Wizards,New England Revolution,2,3,A,NaN,NaN,NaN
+USA,05/06/2004,21:00,Chicago Fire,D.C. United,3,0,H,NaN,NaN,NaN
+USA,06/06/2004,00:30,MetroStars,Dallas Burn,0,2,A,NaN,NaN,NaN
+USA,06/06/2004,03:00,Los Angeles Galaxy,Kansas City Wizards,1,2,A,NaN,NaN,NaN
+USA,06/06/2004,21:00,New England Revolution,Columbus Crew,1,2,A,NaN,NaN,NaN
+USA,10/06/2004,02:30,Colorado Rapids,Kansas City Wizards,0,1,A,NaN,NaN,NaN
+USA,12/06/2004,21:00,Los Angeles Galaxy,Chicago Fire,3,2,H,NaN,NaN,NaN
+USA,13/06/2004,00:30,Columbus Crew,Kansas City Wizards,2,2,D,NaN,NaN,NaN
+USA,13/06/2004,00:30,D.C. United,Colorado Rapids,0,0,D,NaN,NaN,NaN
+USA,13/06/2004,01:30,Dallas Burn,New England Revolution,3,1,H,NaN,NaN,NaN
+USA,13/06/2004,03:00,San Jose Earthquakes,MetroStars,3,1,H,NaN,NaN,NaN
+USA,19/06/2004,21:00,MetroStars,Los Angeles Galaxy,2,1,H,NaN,NaN,NaN
+USA,20/06/2004,00:30,D.C. United,Columbus Crew,3,1,H,NaN,NaN,NaN
+USA,20/06/2004,00:30,New England Revolution,Kansas City Wizards,1,3,A,NaN,NaN,NaN
+USA,20/06/2004,01:30,Chicago Fire,San Jose Earthquakes,1,1,D,NaN,NaN,NaN
+USA,20/06/2004,02:00,Colorado Rapids,Dallas Burn,1,1,D,NaN,NaN,NaN
+USA,24/06/2004,03:30,Los Angeles Galaxy,MetroStars,0,3,A,NaN,NaN,NaN
+USA,26/06/2004,21:00,Dallas Burn,D.C. United,1,1,D,NaN,NaN,NaN
+USA,27/06/2004,00:30,Columbus Crew,Colorado Rapids,1,2,A,NaN,NaN,NaN
+USA,27/06/2004,00:30,New England Revolution,MetroStars,2,1,H,NaN,NaN,NaN
+USA,27/06/2004,03:00,San Jose Earthquakes,Kansas City Wizards,1,1,D,NaN,NaN,NaN
+USA,28/06/2004,00:00,Chicago Fire,Los Angeles Galaxy,0,1,A,NaN,NaN,NaN
+USA,01/07/2004,00:00,MetroStars,Colorado Rapids,2,3,A,NaN,NaN,NaN
+USA,03/07/2004,22:00,D.C. United,MetroStars,6,2,H,NaN,NaN,NaN
+USA,04/07/2004,00:30,Columbus Crew,Chicago Fire,2,0,H,NaN,NaN,NaN
+USA,04/07/2004,01:30,Kansas City Wizards,Dallas Burn,5,1,H,NaN,NaN,NaN
+USA,05/07/2004,02:30,Colorado Rapids,New England Revolution,1,0,H,NaN,NaN,NaN
+USA,05/07/2004,03:00,Los Angeles Galaxy,San Jose Earthquakes,2,1,H,NaN,NaN,NaN
+USA,08/07/2004,03:30,San Jose Earthquakes,Dallas Burn,1,2,A,NaN,NaN,NaN
+USA,10/07/2004,21:00,MetroStars,San Jose Earthquakes,2,0,H,NaN,NaN,NaN
+USA,11/07/2004,01:30,Dallas Burn,Columbus Crew,0,0,D,NaN,NaN,NaN
+USA,11/07/2004,01:30,Kansas City Wizards,D.C. United,1,0,H,NaN,NaN,NaN
+USA,11/07/2004,03:00,Los Angeles Galaxy,Colorado Rapids,2,0,H,NaN,NaN,NaN
+USA,12/07/2004,02:30,Chicago Fire,New England Revolution,1,1,D,NaN,NaN,NaN
+USA,15/07/2004,00:30,New England Revolution,Chicago Fire,3,1,H,NaN,NaN,NaN
+USA,15/07/2004,02:30,Colorado Rapids,Los Angeles Galaxy,0,0,D,NaN,NaN,NaN
+USA,17/07/2004,21:00,San Jose Earthquakes,Colorado Rapids,3,1,H,NaN,NaN,NaN
+USA,18/07/2004,00:30,Columbus Crew,New England Revolution,1,1,D,NaN,NaN,NaN
+USA,18/07/2004,00:30,D.C. United,Los Angeles Galaxy,1,1,D,NaN,NaN,NaN
+USA,18/07/2004,01:00,Chicago Fire,MetroStars,1,1,D,NaN,NaN,NaN
+USA,18/07/2004,01:30,Dallas Burn,Kansas City Wizards,0,1,A,NaN,NaN,NaN
+USA,24/07/2004,22:00,Colorado Rapids,Columbus Crew,0,0,D,NaN,NaN,NaN
+USA,25/07/2004,00:30,MetroStars,Chicago Fire,2,1,H,NaN,NaN,NaN
+USA,25/07/2004,01:30,Dallas Burn,D.C. United,5,1,H,NaN,NaN,NaN
+USA,25/07/2004,01:30,Kansas City Wizards,Los Angeles Galaxy,2,2,D,NaN,NaN,NaN
+USA,25/07/2004,03:00,San Jose Earthquakes,New England Revolution,2,2,D,NaN,NaN,NaN
+USA,29/07/2004,00:30,Columbus Crew,Dallas Burn,2,1,H,NaN,NaN,NaN
+USA,29/07/2004,01:30,Kansas City Wizards,MetroStars,1,2,A,NaN,NaN,NaN
+USA,29/07/2004,02:30,Colorado Rapids,Chicago Fire,2,0,H,NaN,NaN,NaN
+USA,07/08/2004,21:00,New England Revolution,Columbus Crew,2,2,D,NaN,NaN,NaN
+USA,08/08/2004,00:00,Dallas Burn,Colorado Rapids,1,0,H,NaN,NaN,NaN
+USA,08/08/2004,03:00,San Jose Earthquakes,D.C. United,2,0,H,NaN,NaN,NaN
+USA,08/08/2004,23:00,MetroStars,Los Angeles Galaxy,3,0,H,NaN,NaN,NaN
+USA,12/08/2004,00:30,D.C. United,Colorado Rapids,3,1,H,NaN,NaN,NaN
+USA,12/08/2004,01:00,Dallas Burn,New England Revolution,0,3,A,NaN,NaN,NaN
+USA,12/08/2004,01:30,Chicago Fire,San Jose Earthquakes,2,1,H,NaN,NaN,NaN
+USA,14/08/2004,21:00,Kansas City Wizards,San Jose Earthquakes,0,2,A,NaN,NaN,NaN
+USA,15/08/2004,00:30,D.C. United,New England Revolution,2,2,D,NaN,NaN,NaN
+USA,15/08/2004,01:30,Chicago Fire,Colorado Rapids,0,3,A,NaN,NaN,NaN
+USA,15/08/2004,03:00,Los Angeles Galaxy,Columbus Crew,0,0,D,NaN,NaN,NaN
+USA,15/08/2004,23:00,MetroStars,Dallas Burn,0,1,A,NaN,NaN,NaN
+USA,19/08/2004,00:30,Columbus Crew,Kansas City Wizards,2,1,H,NaN,NaN,NaN
+USA,22/08/2004,00:30,Columbus Crew,D.C. United,2,2,D,NaN,NaN,NaN
+USA,22/08/2004,00:30,New England Revolution,Kansas City Wizards,1,2,A,NaN,NaN,NaN
+USA,22/08/2004,02:00,Colorado Rapids,MetroStars,1,0,H,NaN,NaN,NaN
+USA,22/08/2004,03:00,Los Angeles Galaxy,Chicago Fire,1,1,D,NaN,NaN,NaN
+USA,22/08/2004,03:00,San Jose Earthquakes,Dallas Burn,3,0,H,NaN,NaN,NaN
+USA,28/08/2004,21:00,New England Revolution,D.C. United,0,0,D,NaN,NaN,NaN
+USA,29/08/2004,01:30,Dallas Burn,Chicago Fire,4,1,H,NaN,NaN,NaN
+USA,29/08/2004,03:00,San Jose Earthquakes,Colorado Rapids,0,0,D,NaN,NaN,NaN
+USA,29/08/2004,23:00,MetroStars,Columbus Crew,1,1,D,NaN,NaN,NaN
+USA,02/09/2004,01:30,Chicago Fire,Kansas City Wizards,3,1,H,NaN,NaN,NaN
+USA,04/09/2004,23:30,New England Revolution,San Jose Earthquakes,0,1,A,NaN,NaN,NaN
+USA,05/09/2004,00:30,Columbus Crew,Los Angeles Galaxy,3,1,H,NaN,NaN,NaN
+USA,05/09/2004,01:30,Kansas City Wizards,MetroStars,1,0,H,NaN,NaN,NaN
+USA,05/09/2004,01:30,Chicago Fire,D.C. United,3,1,H,NaN,NaN,NaN
+USA,05/09/2004,02:00,Colorado Rapids,Dallas Burn,2,1,H,NaN,NaN,NaN
+USA,09/09/2004,03:30,San Jose Earthquakes,Columbus Crew,0,1,A,NaN,NaN,NaN
+USA,11/09/2004,02:30,Colorado Rapids,Kansas City Wizards,3,1,H,NaN,NaN,NaN
+USA,11/09/2004,21:00,D.C. United,Dallas Burn,3,0,H,NaN,NaN,NaN
+USA,12/09/2004,,MetroStars,New England Revolution,3,2,H,NaN,NaN,NaN
+USA,12/09/2004,03:00,Los Angeles Galaxy,San Jose Earthquakes,2,1,H,NaN,NaN,NaN
+USA,19/09/2004,00:30,Columbus Crew,MetroStars,4,2,H,NaN,NaN,NaN
+USA,19/09/2004,00:30,D.C. United,Chicago Fire,3,1,H,NaN,NaN,NaN
+USA,19/09/2004,00:30,New England Revolution,Colorado Rapids,6,1,H,NaN,NaN,NaN
+USA,19/09/2004,01:30,Dallas Burn,Los Angeles Galaxy,2,0,H,NaN,NaN,NaN
+USA,19/09/2004,01:30,Kansas City Wizards,San Jose Earthquakes,1,0,H,NaN,NaN,NaN
+USA,26/09/2004,00:30,Columbus Crew,D.C. United,1,0,H,NaN,NaN,NaN
+USA,26/09/2004,01:30,Dallas Burn,MetroStars,0,2,A,NaN,NaN,NaN
+USA,26/09/2004,01:30,Kansas City Wizards,Colorado Rapids,1,0,H,NaN,NaN,NaN
+USA,26/09/2004,02:00,Chicago Fire,New England Revolution,2,0,H,NaN,NaN,NaN
+USA,26/09/2004,03:00,San Jose Earthquakes,Los Angeles Galaxy,0,0,D,NaN,NaN,NaN
+USA,03/10/2004,00:30,Columbus Crew,Chicago Fire,3,3,D,NaN,NaN,NaN
+USA,03/10/2004,00:30,New England Revolution,Dallas Burn,2,0,H,NaN,NaN,NaN
+USA,03/10/2004,00:30,MetroStars,D.C. United,0,1,A,NaN,NaN,NaN
+USA,03/10/2004,02:00,Colorado Rapids,San Jose Earthquakes,1,1,D,NaN,NaN,NaN
+USA,03/10/2004,03:00,Los Angeles Galaxy,Kansas City Wizards,1,1,D,NaN,NaN,NaN
+USA,07/10/2004,01:30,Chicago Fire,Columbus Crew,0,1,A,NaN,NaN,NaN
+USA,10/10/2004,00:30,D.C. United,New England Revolution,1,0,H,NaN,NaN,NaN
+USA,10/10/2004,00:30,MetroStars,Columbus Crew,1,1,D,NaN,NaN,NaN
+USA,10/10/2004,03:00,Los Angeles Galaxy,Dallas Burn,2,0,H,NaN,NaN,NaN
+USA,10/10/2004,03:00,San Jose Earthquakes,Kansas City Wizards,0,0,D,NaN,NaN,NaN
+USA,17/10/2004,00:30,New England Revolution,Chicago Fire,2,1,H,NaN,NaN,NaN
+USA,17/10/2004,01:30,Dallas Burn,San Jose Earthquakes,2,2,D,NaN,NaN,NaN
+USA,17/10/2004,01:30,Kansas City Wizards,Los Angeles Galaxy,1,0,H,NaN,NaN,NaN
+USA,17/10/2004,02:00,Colorado Rapids,Columbus Crew,1,1,D,NaN,NaN,NaN
+USA,17/10/2004,22:00,D.C. United,MetroStars,3,2,H,NaN,NaN,NaN
+USA,23/10/2004,02:30,Colorado Rapids,Los Angeles Galaxy,1,0,H,NaN,NaN,NaN
+USA,24/10/2004,00:30,New England Revolution,Columbus Crew,1,0,H,NaN,NaN,NaN
+USA,24/10/2004,00:30,MetroStars,D.C. United,0,2,A,NaN,NaN,NaN
+USA,24/10/2004,22:00,San Jose Earthquakes,Kansas City Wizards,2,0,H,NaN,NaN,NaN
+USA,31/10/2004,00:00,D.C. United,MetroStars,2,0,H,NaN,NaN,NaN
+USA,31/10/2004,01:30,Kansas City Wizards,San Jose Earthquakes,3,0,H,NaN,NaN,NaN
+USA,31/10/2004,02:00,Los Angeles Galaxy,Colorado Rapids,2,0,H,NaN,NaN,NaN
+USA,31/10/2004,22:00,Columbus Crew,New England Revolution,1,1,D,NaN,NaN,NaN
+USA,05/11/2004,23:30,Kansas City Wizards,Los Angeles Galaxy,2,0,H,NaN,NaN,NaN
+USA,06/11/2004,22:00,D.C. United,New England Revolution,7,6,H,NaN,NaN,NaN
+USA,14/11/2004,20:30,Kansas City Wizards,D.C. United,2,3,A,NaN,NaN,NaN

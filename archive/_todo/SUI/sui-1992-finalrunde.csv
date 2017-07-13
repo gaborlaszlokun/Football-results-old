@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,01/03/1992,13:30,Servette Genève,Grasshopper Club Zürich,1,2,A,NaN,NaN,NaN
+SUI,01/03/1992,13:30,Neuchâtel Xamax FC,BSC Young Boys,0,1,A,NaN,NaN,NaN
+SUI,01/03/1992,13:30,FC Zürich,Lausanne Sports,2,2,D,NaN,NaN,NaN
+SUI,01/03/1992,13:30,FC St. Gallen,FC Sion,3,2,H,NaN,NaN,NaN
+SUI,08/03/1992,13:30,BSC Young Boys,FC Zürich,1,2,A,NaN,NaN,NaN
+SUI,08/03/1992,13:30,Lausanne Sports,Neuchâtel Xamax FC,1,1,D,NaN,NaN,NaN
+SUI,08/03/1992,13:30,Grasshopper Club Zürich,FC St. Gallen,4,1,H,NaN,NaN,NaN
+SUI,08/03/1992,13:30,FC Sion,Servette Genève,4,3,H,NaN,NaN,NaN
+SUI,15/03/1992,13:30,Servette Genève,Lausanne Sports,1,0,H,NaN,NaN,NaN
+SUI,15/03/1992,13:30,Neuchâtel Xamax FC,FC Sion,2,2,D,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC Zürich,Grasshopper Club Zürich,0,2,A,NaN,NaN,NaN
+SUI,15/03/1992,13:30,FC St. Gallen,BSC Young Boys,4,1,H,NaN,NaN,NaN
+SUI,21/03/1992,16:30,BSC Young Boys,Servette Genève,0,0,D,NaN,NaN,NaN
+SUI,21/03/1992,16:30,Grasshopper Club Zürich,Neuchâtel Xamax FC,0,0,D,NaN,NaN,NaN
+SUI,21/03/1992,19:00,FC Sion,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,21/03/1992,19:00,Lausanne Sports,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,04/04/1992,16:30,Grasshopper Club Zürich,BSC Young Boys,0,3,A,NaN,NaN,NaN
+SUI,04/04/1992,19:00,Servette Genève,FC Zürich,3,3,D,NaN,NaN,NaN
+SUI,04/04/1992,19:00,Neuchâtel Xamax FC,FC St. Gallen,3,1,H,NaN,NaN,NaN
+SUI,04/04/1992,19:00,FC Sion,Lausanne Sports,1,0,H,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC Zürich,Neuchâtel Xamax FC,1,3,A,NaN,NaN,NaN
+SUI,08/04/1992,19:00,FC St. Gallen,Servette Genève,0,2,A,NaN,NaN,NaN
+SUI,08/04/1992,19:00,BSC Young Boys,FC Sion,4,1,H,NaN,NaN,NaN
+SUI,08/04/1992,19:00,Lausanne Sports,Grasshopper Club Zürich,1,1,D,NaN,NaN,NaN
+SUI,11/04/1992,16:30,BSC Young Boys,Lausanne Sports,2,0,H,NaN,NaN,NaN
+SUI,11/04/1992,19:00,Servette Genève,Neuchâtel Xamax FC,1,1,D,NaN,NaN,NaN
+SUI,11/04/1992,19:00,FC Zürich,FC St. Gallen,2,1,H,NaN,NaN,NaN
+SUI,11/04/1992,19:00,FC Sion,Grasshopper Club Zürich,3,1,H,NaN,NaN,NaN
+SUI,20/04/1992,16:30,Neuchâtel Xamax FC,Servette Genève,5,1,H,NaN,NaN,NaN
+SUI,20/04/1992,16:30,FC St. Gallen,FC Zürich,1,1,D,NaN,NaN,NaN
+SUI,20/04/1992,16:30,Grasshopper Club Zürich,FC Sion,0,1,A,NaN,NaN,NaN
+SUI,20/04/1992,19:00,Lausanne Sports,BSC Young Boys,1,3,A,NaN,NaN,NaN
+SUI,25/04/1992,16:30,Grasshopper Club Zürich,Lausanne Sports,0,0,D,NaN,NaN,NaN
+SUI,25/04/1992,19:00,Neuchâtel Xamax FC,FC Zürich,3,1,H,NaN,NaN,NaN
+SUI,25/04/1992,19:00,Servette Genève,FC St. Gallen,4,0,H,NaN,NaN,NaN
+SUI,25/04/1992,19:00,FC Sion,BSC Young Boys,0,0,D,NaN,NaN,NaN
+SUI,02/05/1992,16:30,FC St. Gallen,Neuchâtel Xamax FC,2,2,D,NaN,NaN,NaN
+SUI,02/05/1992,19:00,FC Zürich,Servette Genève,2,2,D,NaN,NaN,NaN
+SUI,02/05/1992,19:00,BSC Young Boys,Grasshopper Club Zürich,2,1,H,NaN,NaN,NaN
+SUI,02/05/1992,19:00,Lausanne Sports,FC Sion,0,3,A,NaN,NaN,NaN
+SUI,09/05/1992,16:30,FC St. Gallen,Lausanne Sports,1,0,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,FC Zürich,FC Sion,0,0,D,NaN,NaN,NaN
+SUI,09/05/1992,19:00,Servette Genève,BSC Young Boys,3,0,H,NaN,NaN,NaN
+SUI,09/05/1992,19:00,Neuchâtel Xamax FC,Grasshopper Club Zürich,1,0,H,NaN,NaN,NaN
+SUI,16/05/1992,16:30,BSC Young Boys,FC St. Gallen,1,1,D,NaN,NaN,NaN
+SUI,16/05/1992,19:00,Lausanne Sports,Servette Genève,3,2,H,NaN,NaN,NaN
+SUI,16/05/1992,19:00,FC Sion,Neuchâtel Xamax FC,3,1,H,NaN,NaN,NaN
+SUI,16/05/1992,19:00,Grasshopper Club Zürich,FC Zürich,3,0,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC Zürich,BSC Young Boys,1,5,A,NaN,NaN,NaN
+SUI,23/05/1992,19:00,Neuchâtel Xamax FC,Lausanne Sports,3,1,H,NaN,NaN,NaN
+SUI,23/05/1992,19:00,FC St. Gallen,Grasshopper Club Zürich,1,2,A,NaN,NaN,NaN
+SUI,23/05/1992,19:00,Servette Genève,FC Sion,0,0,D,NaN,NaN,NaN
+SUI,30/05/1992,19:00,Grasshopper Club Zürich,Servette Genève,2,0,H,NaN,NaN,NaN
+SUI,30/05/1992,19:00,BSC Young Boys,Neuchâtel Xamax FC,1,2,A,NaN,NaN,NaN
+SUI,30/05/1992,19:00,Lausanne Sports,FC Zürich,0,1,A,NaN,NaN,NaN
+SUI,30/05/1992,19:00,FC Sion,FC St. Gallen,2,1,H,NaN,NaN,NaN

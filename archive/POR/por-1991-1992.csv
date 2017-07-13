@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+POR,17/08/1991,,SL Benfica,Boavista,0,1,A,NaN,NaN,NaN
+POR,18/08/1991,,União da Madeira,FC Penafiel,1,0,H,NaN,NaN,NaN
+POR,18/08/1991,,Paços de Ferreira,União Torreense,1,1,D,NaN,NaN,NaN
+POR,18/08/1991,,SC Farense,CS Marítimo,3,1,H,NaN,NaN,NaN
+POR,18/08/1991,,FC Famalicão,Vitória Guimarães,1,4,A,NaN,NaN,NaN
+POR,18/08/1991,,GD Chaves,GD Estoril,1,0,H,NaN,NaN,NaN
+POR,18/08/1991,,Sporting Braga,Gil Vicente,2,1,H,NaN,NaN,NaN
+POR,18/08/1991,,SC Beira-Mar,SC Salgueiros,1,1,D,NaN,NaN,NaN
+POR,25/09/1991,,FC Porto,Sporting CP,0,0,D,NaN,NaN,NaN
+POR,24/08/1991,,Vitória Guimarães,Sporting Braga,2,1,H,NaN,NaN,NaN
+POR,24/08/1991,,União Torreense,GD Chaves,0,1,A,NaN,NaN,NaN
+POR,24/08/1991,,SC Salgueiros,União da Madeira,1,0,H,NaN,NaN,NaN
+POR,24/08/1991,,FC Penafiel,SC Farense,1,0,H,NaN,NaN,NaN
+POR,24/08/1991,,CS Marítimo,Paços de Ferreira,1,0,H,NaN,NaN,NaN
+POR,24/08/1991,,Gil Vicente,SL Benfica,0,1,A,NaN,NaN,NaN
+POR,24/08/1991,,GD Estoril,FC Porto,0,2,A,NaN,NaN,NaN
+POR,24/08/1991,,Boavista,SC Beira-Mar,3,2,H,NaN,NaN,NaN
+POR,25/08/1991,,Sporting CP,FC Famalicão,3,0,H,NaN,NaN,NaN
+POR,31/08/1991,,Sporting Braga,Sporting CP,1,1,D,NaN,NaN,NaN
+POR,01/09/1991,,União da Madeira,Boavista,2,0,H,NaN,NaN,NaN
+POR,01/09/1991,,FC Porto,União Torreense,5,0,H,NaN,NaN,NaN
+POR,01/09/1991,,FC Penafiel,SC Salgueiros,2,0,H,NaN,NaN,NaN
+POR,01/09/1991,,SC Farense,Paços de Ferreira,1,0,H,NaN,NaN,NaN
+POR,01/09/1991,,FC Famalicão,GD Estoril,2,1,H,NaN,NaN,NaN
+POR,01/09/1991,,GD Chaves,CS Marítimo,2,1,H,NaN,NaN,NaN
+POR,01/09/1991,,SL Benfica,Vitória Guimarães,2,0,H,NaN,NaN,NaN
+POR,01/09/1991,,SC Beira-Mar,Gil Vicente,0,0,D,NaN,NaN,NaN
+POR,14/09/1991,,Sporting CP,SL Benfica,0,0,D,NaN,NaN,NaN
+POR,15/09/1991,,Vitória Guimarães,SC Beira-Mar,1,1,D,NaN,NaN,NaN
+POR,15/09/1991,,União Torreense,FC Famalicão,6,1,H,NaN,NaN,NaN
+POR,15/09/1991,,SC Salgueiros,SC Farense,2,1,H,NaN,NaN,NaN
+POR,15/09/1991,,Paços de Ferreira,GD Chaves,3,0,H,NaN,NaN,NaN
+POR,15/09/1991,,CS Marítimo,FC Porto,1,0,H,NaN,NaN,NaN
+POR,15/09/1991,,Gil Vicente,União da Madeira,2,1,H,NaN,NaN,NaN
+POR,15/09/1991,,GD Estoril,Sporting Braga,1,0,H,NaN,NaN,NaN
+POR,15/09/1991,,Boavista,FC Penafiel,3,0,H,NaN,NaN,NaN
+POR,22/09/1991,,União da Madeira,Vitória Guimarães,0,2,A,NaN,NaN,NaN
+POR,22/09/1991,,SC Salgueiros,Boavista,1,1,D,NaN,NaN,NaN
+POR,22/09/1991,,FC Porto,Paços de Ferreira,2,0,H,NaN,NaN,NaN
+POR,22/09/1991,,FC Penafiel,Gil Vicente,0,0,D,NaN,NaN,NaN
+POR,22/09/1991,,SC Farense,GD Chaves,1,1,D,NaN,NaN,NaN
+POR,22/09/1991,,FC Famalicão,CS Marítimo,2,2,D,NaN,NaN,NaN
+POR,22/09/1991,,Sporting Braga,União Torreense,2,1,H,NaN,NaN,NaN
+POR,22/09/1991,,SL Benfica,GD Estoril,2,2,D,NaN,NaN,NaN
+POR,22/09/1991,,SC Beira-Mar,Sporting CP,1,0,H,NaN,NaN,NaN
+POR,28/09/1991,,Sporting CP,União da Madeira,3,0,H,NaN,NaN,NaN
+POR,29/09/1991,,Vitória Guimarães,FC Penafiel,2,2,D,NaN,NaN,NaN
+POR,29/09/1991,,União Torreense,SL Benfica,1,3,A,NaN,NaN,NaN
+POR,29/09/1991,,Paços de Ferreira,FC Famalicão,0,1,A,NaN,NaN,NaN
+POR,29/09/1991,,CS Marítimo,Sporting Braga,0,0,D,NaN,NaN,NaN
+POR,29/09/1991,,Gil Vicente,SC Salgueiros,1,0,H,NaN,NaN,NaN
+POR,29/09/1991,,GD Estoril,SC Beira-Mar,1,0,H,NaN,NaN,NaN
+POR,29/09/1991,,GD Chaves,FC Porto,0,1,A,NaN,NaN,NaN
+POR,29/09/1991,,Boavista,SC Farense,2,0,H,NaN,NaN,NaN
+POR,05/10/1991,,União da Madeira,GD Estoril,1,1,D,NaN,NaN,NaN
+POR,05/10/1991,,SC Salgueiros,Vitória Guimarães,0,1,A,NaN,NaN,NaN
+POR,05/10/1991,,FC Penafiel,Sporting CP,0,2,A,NaN,NaN,NaN
+POR,05/10/1991,,SC Farense,FC Porto,0,0,D,NaN,NaN,NaN
+POR,05/10/1991,,FC Famalicão,GD Chaves,1,0,H,NaN,NaN,NaN
+POR,05/10/1991,,Sporting Braga,Paços de Ferreira,3,1,H,NaN,NaN,NaN
+POR,05/10/1991,,Boavista,Gil Vicente,1,0,H,NaN,NaN,NaN
+POR,05/10/1991,,SL Benfica,CS Marítimo,2,0,H,NaN,NaN,NaN
+POR,05/10/1991,,SC Beira-Mar,União Torreense,1,0,H,NaN,NaN,NaN
+POR,20/10/1991,,Vitória Guimarães,Boavista,2,0,H,NaN,NaN,NaN
+POR,20/10/1991,,União Torreense,União da Madeira,2,0,H,NaN,NaN,NaN
+POR,20/10/1991,,Sporting CP,SC Salgueiros,3,0,H,NaN,NaN,NaN
+POR,20/10/1991,,FC Porto,FC Famalicão,1,0,H,NaN,NaN,NaN
+POR,20/10/1991,,Paços de Ferreira,SL Benfica,1,1,D,NaN,NaN,NaN
+POR,20/10/1991,,CS Marítimo,SC Beira-Mar,0,0,D,NaN,NaN,NaN
+POR,20/10/1991,,Gil Vicente,SC Farense,0,0,D,NaN,NaN,NaN
+POR,20/10/1991,,GD Estoril,FC Penafiel,2,1,H,NaN,NaN,NaN
+POR,20/10/1991,,GD Chaves,Sporting Braga,1,2,A,NaN,NaN,NaN
+POR,27/10/1991,,União da Madeira,CS Marítimo,1,1,D,NaN,NaN,NaN
+POR,27/10/1991,,SC Salgueiros,GD Estoril,3,0,H,NaN,NaN,NaN
+POR,27/10/1991,,FC Penafiel,União Torreense,1,0,H,NaN,NaN,NaN
+POR,27/10/1991,,Gil Vicente,Vitória Guimarães,0,2,A,NaN,NaN,NaN
+POR,27/10/1991,,SC Farense,FC Famalicão,1,0,H,NaN,NaN,NaN
+POR,27/10/1991,,Sporting Braga,FC Porto,0,0,D,NaN,NaN,NaN
+POR,27/10/1991,,Boavista,Sporting CP,2,1,H,NaN,NaN,NaN
+POR,27/10/1991,,SL Benfica,GD Chaves,4,1,H,NaN,NaN,NaN
+POR,27/10/1991,,SC Beira-Mar,Paços de Ferreira,3,0,H,NaN,NaN,NaN
+POR,03/11/1991,,Vitória Guimarães,SC Farense,3,1,H,NaN,NaN,NaN
+POR,03/11/1991,,União Torreense,SC Salgueiros,2,0,H,NaN,NaN,NaN
+POR,03/11/1991,,Sporting CP,Gil Vicente,2,0,H,NaN,NaN,NaN
+POR,03/11/1991,,FC Porto,SL Benfica,0,0,D,NaN,NaN,NaN
+POR,03/11/1991,,Paços de Ferreira,União da Madeira,3,0,H,NaN,NaN,NaN
+POR,03/11/1991,,CS Marítimo,FC Penafiel,2,0,H,NaN,NaN,NaN
+POR,03/11/1991,,FC Famalicão,Sporting Braga,3,1,H,NaN,NaN,NaN
+POR,03/11/1991,,GD Estoril,Boavista,0,0,D,NaN,NaN,NaN
+POR,03/11/1991,,GD Chaves,SC Beira-Mar,3,0,H,NaN,NaN,NaN
+POR,10/11/1991,,União da Madeira,GD Chaves,1,1,D,NaN,NaN,NaN
+POR,10/11/1991,,SC Salgueiros,CS Marítimo,1,0,H,NaN,NaN,NaN
+POR,10/11/1991,,FC Penafiel,Paços de Ferreira,0,0,D,NaN,NaN,NaN
+POR,10/11/1991,,Gil Vicente,GD Estoril,1,1,D,NaN,NaN,NaN
+POR,10/11/1991,,SC Farense,Sporting Braga,3,1,H,NaN,NaN,NaN
+POR,10/11/1991,,Boavista,União Torreense,1,1,D,NaN,NaN,NaN
+POR,10/11/1991,,SL Benfica,FC Famalicão,2,1,H,NaN,NaN,NaN
+POR,10/11/1991,,SC Beira-Mar,FC Porto,0,1,A,NaN,NaN,NaN
+POR,10/11/1991,,Vitória Guimarães,Sporting CP,2,1,H,NaN,NaN,NaN
+POR,24/11/1991,,União Torreense,Gil Vicente,0,2,A,NaN,NaN,NaN
+POR,24/11/1991,,Sporting CP,SC Farense,2,1,H,NaN,NaN,NaN
+POR,24/11/1991,,FC Porto,União da Madeira,3,0,H,NaN,NaN,NaN
+POR,24/11/1991,,Paços de Ferreira,SC Salgueiros,2,1,H,NaN,NaN,NaN
+POR,24/11/1991,,CS Marítimo,Boavista,0,0,D,NaN,NaN,NaN
+POR,24/11/1991,,FC Famalicão,SC Beira-Mar,1,1,D,NaN,NaN,NaN
+POR,24/11/1991,,GD Estoril,Vitória Guimarães,2,0,H,NaN,NaN,NaN
+POR,24/11/1991,,GD Chaves,FC Penafiel,1,0,H,NaN,NaN,NaN
+POR,24/11/1991,,Sporting Braga,SL Benfica,0,2,A,NaN,NaN,NaN
+POR,01/12/1991,,Vitória Guimarães,União Torreense,1,1,D,NaN,NaN,NaN
+POR,01/12/1991,,União da Madeira,FC Famalicão,1,0,H,NaN,NaN,NaN
+POR,01/12/1991,,Sporting CP,GD Estoril,1,0,H,NaN,NaN,NaN
+POR,01/12/1991,,SC Salgueiros,GD Chaves,1,1,D,NaN,NaN,NaN
+POR,01/12/1991,,FC Penafiel,FC Porto,0,2,A,NaN,NaN,NaN
+POR,01/12/1991,,Gil Vicente,CS Marítimo,1,1,D,NaN,NaN,NaN
+POR,01/12/1991,,SC Farense,SL Benfica,2,2,D,NaN,NaN,NaN
+POR,01/12/1991,,Boavista,Paços de Ferreira,3,0,H,NaN,NaN,NaN
+POR,01/12/1991,,SC Beira-Mar,Sporting Braga,1,0,H,NaN,NaN,NaN
+POR,08/12/1991,,União Torreense,Sporting CP,1,2,A,NaN,NaN,NaN
+POR,08/12/1991,,FC Porto,SC Salgueiros,2,0,H,NaN,NaN,NaN
+POR,08/12/1991,,Paços de Ferreira,Gil Vicente,0,1,A,NaN,NaN,NaN
+POR,08/12/1991,,CS Marítimo,Vitória Guimarães,3,1,H,NaN,NaN,NaN
+POR,08/12/1991,,FC Famalicão,FC Penafiel,1,1,D,NaN,NaN,NaN
+POR,08/12/1991,,GD Estoril,SC Farense,3,1,H,NaN,NaN,NaN
+POR,08/12/1991,,GD Chaves,Boavista,3,0,H,NaN,NaN,NaN
+POR,08/12/1991,,Sporting Braga,União da Madeira,1,2,A,NaN,NaN,NaN
+POR,08/12/1991,,SL Benfica,SC Beira-Mar,3,0,H,NaN,NaN,NaN
+POR,22/12/1991,,Vitória Guimarães,Paços de Ferreira,1,1,D,NaN,NaN,NaN
+POR,22/12/1991,,União da Madeira,SL Benfica,0,1,A,NaN,NaN,NaN
+POR,22/12/1991,,Sporting CP,CS Marítimo,2,1,H,NaN,NaN,NaN
+POR,22/12/1991,,SC Salgueiros,FC Famalicão,0,0,D,NaN,NaN,NaN
+POR,22/12/1991,,FC Penafiel,Sporting Braga,2,1,H,NaN,NaN,NaN
+POR,22/12/1991,,Gil Vicente,GD Chaves,1,0,H,NaN,NaN,NaN
+POR,22/12/1991,,SC Farense,SC Beira-Mar,0,0,D,NaN,NaN,NaN
+POR,22/12/1991,,GD Estoril,União Torreense,0,0,D,NaN,NaN,NaN
+POR,22/12/1991,,Boavista,FC Porto,0,0,D,NaN,NaN,NaN
+POR,29/12/1991,,FC Porto,Gil Vicente,1,0,H,NaN,NaN,NaN
+POR,29/12/1991,,Paços de Ferreira,Sporting CP,1,0,H,NaN,NaN,NaN
+POR,29/12/1991,,CS Marítimo,GD Estoril,0,0,D,NaN,NaN,NaN
+POR,29/12/1991,,SC Farense,União Torreense,1,0,H,NaN,NaN,NaN
+POR,29/12/1991,,FC Famalicão,Boavista,0,0,D,NaN,NaN,NaN
+POR,29/12/1991,,GD Chaves,Vitória Guimarães,1,1,D,NaN,NaN,NaN
+POR,29/12/1991,,Sporting Braga,SC Salgueiros,0,0,D,NaN,NaN,NaN
+POR,29/12/1991,,SL Benfica,FC Penafiel,1,1,D,NaN,NaN,NaN
+POR,29/12/1991,,SC Beira-Mar,União da Madeira,2,0,H,NaN,NaN,NaN
+POR,05/01/1992,,Vitória Guimarães,FC Porto,1,1,D,NaN,NaN,NaN
+POR,05/01/1992,,União da Madeira,SC Farense,0,2,A,NaN,NaN,NaN
+POR,05/01/1992,,União Torreense,CS Marítimo,2,2,D,NaN,NaN,NaN
+POR,05/01/1992,,Sporting CP,GD Chaves,3,0,H,NaN,NaN,NaN
+POR,05/01/1992,,SC Salgueiros,SL Benfica,1,1,D,NaN,NaN,NaN
+POR,05/01/1992,,FC Penafiel,SC Beira-Mar,2,2,D,NaN,NaN,NaN
+POR,05/01/1992,,Gil Vicente,FC Famalicão,2,0,H,NaN,NaN,NaN
+POR,05/01/1992,,GD Estoril,Paços de Ferreira,3,1,H,NaN,NaN,NaN
+POR,05/01/1992,,Boavista,Sporting Braga,2,1,H,NaN,NaN,NaN
+POR,19/01/1992,,Vitória Guimarães,FC Famalicão,1,1,D,NaN,NaN,NaN
+POR,19/01/1992,,União Torreense,Paços de Ferreira,2,0,H,NaN,NaN,NaN
+POR,19/01/1992,,Sporting CP,FC Porto,0,2,A,NaN,NaN,NaN
+POR,19/01/1992,,SC Salgueiros,SC Beira-Mar,1,1,D,NaN,NaN,NaN
+POR,19/01/1992,,FC Penafiel,União da Madeira,1,1,D,NaN,NaN,NaN
+POR,19/01/1992,,CS Marítimo,SC Farense,1,1,D,NaN,NaN,NaN
+POR,19/01/1992,,Gil Vicente,Sporting Braga,2,3,A,NaN,NaN,NaN
+POR,19/01/1992,,GD Estoril,GD Chaves,1,1,D,NaN,NaN,NaN
+POR,19/01/1992,,Boavista,SL Benfica,1,0,H,NaN,NaN,NaN
+POR,26/01/1992,,União da Madeira,SC Salgueiros,2,1,H,NaN,NaN,NaN
+POR,26/01/1992,,FC Porto,GD Estoril,5,0,H,NaN,NaN,NaN
+POR,26/01/1992,,Paços de Ferreira,CS Marítimo,2,1,H,NaN,NaN,NaN
+POR,26/01/1992,,SC Farense,FC Penafiel,4,1,H,NaN,NaN,NaN
+POR,26/01/1992,,FC Famalicão,Sporting CP,0,0,D,NaN,NaN,NaN
+POR,26/01/1992,,GD Chaves,União Torreense,4,1,H,NaN,NaN,NaN
+POR,26/01/1992,,Sporting Braga,Vitória Guimarães,2,1,H,NaN,NaN,NaN
+POR,26/01/1992,,SL Benfica,Gil Vicente,5,0,H,NaN,NaN,NaN
+POR,26/01/1992,,SC Beira-Mar,Boavista,2,1,H,NaN,NaN,NaN
+POR,02/02/1992,,Vitória Guimarães,SL Benfica,1,3,A,NaN,NaN,NaN
+POR,02/02/1992,,União Torreense,FC Porto,0,0,D,NaN,NaN,NaN
+POR,02/02/1992,,Sporting CP,Sporting Braga,4,2,H,NaN,NaN,NaN
+POR,02/02/1992,,SC Salgueiros,FC Penafiel,1,1,D,NaN,NaN,NaN
+POR,02/02/1992,,Paços de Ferreira,SC Farense,1,0,H,NaN,NaN,NaN
+POR,02/02/1992,,CS Marítimo,GD Chaves,1,0,H,NaN,NaN,NaN
+POR,02/02/1992,,Gil Vicente,SC Beira-Mar,2,0,H,NaN,NaN,NaN
+POR,02/02/1992,,GD Estoril,FC Famalicão,2,1,H,NaN,NaN,NaN
+POR,02/02/1992,,Boavista,União da Madeira,3,0,H,NaN,NaN,NaN
+POR,09/02/1992,,União da Madeira,Gil Vicente,4,1,H,NaN,NaN,NaN
+POR,09/02/1992,,FC Porto,CS Marítimo,3,1,H,NaN,NaN,NaN
+POR,09/02/1992,,FC Penafiel,Boavista,0,0,D,NaN,NaN,NaN
+POR,09/02/1992,,SC Farense,SC Salgueiros,1,1,D,NaN,NaN,NaN
+POR,09/02/1992,,FC Famalicão,União Torreense,2,0,H,NaN,NaN,NaN
+POR,09/02/1992,,GD Chaves,Paços de Ferreira,1,1,D,NaN,NaN,NaN
+POR,09/02/1992,,Sporting Braga,GD Estoril,1,3,A,NaN,NaN,NaN
+POR,09/02/1992,,SL Benfica,Sporting CP,2,0,H,NaN,NaN,NaN
+POR,09/02/1992,,SC Beira-Mar,Vitória Guimarães,1,2,A,NaN,NaN,NaN
+POR,16/02/1992,,Vitória Guimarães,União da Madeira,1,1,D,NaN,NaN,NaN
+POR,16/02/1992,,União Torreense,Sporting Braga,0,0,D,NaN,NaN,NaN
+POR,16/02/1992,,Sporting CP,SC Beira-Mar,3,1,H,NaN,NaN,NaN
+POR,16/02/1992,,Paços de Ferreira,FC Porto,0,3,A,NaN,NaN,NaN
+POR,16/02/1992,,CS Marítimo,FC Famalicão,3,1,H,NaN,NaN,NaN
+POR,16/02/1992,,Gil Vicente,FC Penafiel,2,0,H,NaN,NaN,NaN
+POR,16/02/1992,,GD Estoril,SL Benfica,0,2,A,NaN,NaN,NaN
+POR,16/02/1992,,GD Chaves,SC Farense,0,0,D,NaN,NaN,NaN
+POR,16/02/1992,,Boavista,SC Salgueiros,2,0,H,NaN,NaN,NaN
+POR,23/02/1992,,União da Madeira,Sporting CP,1,5,A,NaN,NaN,NaN
+POR,23/02/1992,,SC Salgueiros,Gil Vicente,1,0,H,NaN,NaN,NaN
+POR,23/02/1992,,FC Porto,GD Chaves,4,1,H,NaN,NaN,NaN
+POR,23/02/1992,,FC Penafiel,Vitória Guimarães,0,1,A,NaN,NaN,NaN
+POR,23/02/1992,,SC Farense,Boavista,0,0,D,NaN,NaN,NaN
+POR,23/02/1992,,FC Famalicão,Paços de Ferreira,1,0,H,NaN,NaN,NaN
+POR,23/02/1992,,Sporting Braga,CS Marítimo,2,0,H,NaN,NaN,NaN
+POR,23/02/1992,,SL Benfica,União Torreense,0,0,D,NaN,NaN,NaN
+POR,23/02/1992,,SC Beira-Mar,GD Estoril,1,0,H,NaN,NaN,NaN
+POR,01/03/1992,,Vitória Guimarães,SC Salgueiros,1,0,H,NaN,NaN,NaN
+POR,01/03/1992,,União Torreense,SC Beira-Mar,1,0,H,NaN,NaN,NaN
+POR,01/03/1992,,Sporting CP,FC Penafiel,3,1,H,NaN,NaN,NaN
+POR,01/03/1992,,FC Porto,SC Farense,2,0,H,NaN,NaN,NaN
+POR,01/03/1992,,Paços de Ferreira,Sporting Braga,2,1,H,NaN,NaN,NaN
+POR,01/03/1992,,CS Marítimo,SL Benfica,0,4,A,NaN,NaN,NaN
+POR,01/03/1992,,Gil Vicente,Boavista,1,3,A,NaN,NaN,NaN
+POR,01/03/1992,,GD Estoril,União da Madeira,2,1,H,NaN,NaN,NaN
+POR,01/03/1992,,GD Chaves,FC Famalicão,2,0,H,NaN,NaN,NaN
+POR,08/03/1992,,União da Madeira,União Torreense,2,0,H,NaN,NaN,NaN
+POR,08/03/1992,,SC Salgueiros,Sporting CP,1,1,D,NaN,NaN,NaN
+POR,08/03/1992,,FC Penafiel,GD Estoril,4,3,H,NaN,NaN,NaN
+POR,08/03/1992,,SC Farense,Gil Vicente,1,0,H,NaN,NaN,NaN
+POR,08/03/1992,,FC Famalicão,FC Porto,0,1,A,NaN,NaN,NaN
+POR,08/03/1992,,Sporting Braga,GD Chaves,3,1,H,NaN,NaN,NaN
+POR,08/03/1992,,Boavista,Vitória Guimarães,1,1,D,NaN,NaN,NaN
+POR,08/03/1992,,SL Benfica,Paços de Ferreira,4,0,H,NaN,NaN,NaN
+POR,08/03/1992,,SC Beira-Mar,CS Marítimo,1,4,A,NaN,NaN,NaN
+POR,15/03/1992,,CS Marítimo,União da Madeira,3,1,H,NaN,NaN,NaN
+POR,15/03/1992,,Vitória Guimarães,Gil Vicente,0,0,D,NaN,NaN,NaN
+POR,15/03/1992,,União Torreense,FC Penafiel,1,0,H,NaN,NaN,NaN
+POR,15/03/1992,,Sporting CP,Boavista,1,1,D,NaN,NaN,NaN
+POR,15/03/1992,,FC Porto,Sporting Braga,2,0,H,NaN,NaN,NaN
+POR,15/03/1992,,Paços de Ferreira,SC Beira-Mar,1,1,D,NaN,NaN,NaN
+POR,15/03/1992,,FC Famalicão,SC Farense,0,1,A,NaN,NaN,NaN
+POR,15/03/1992,,GD Estoril,SC Salgueiros,0,2,A,NaN,NaN,NaN
+POR,15/03/1992,,GD Chaves,SL Benfica,1,0,H,NaN,NaN,NaN
+POR,22/03/1992,,União da Madeira,Paços de Ferreira,1,2,A,NaN,NaN,NaN
+POR,22/03/1992,,SC Salgueiros,União Torreense,1,1,D,NaN,NaN,NaN
+POR,22/03/1992,,FC Penafiel,CS Marítimo,0,1,A,NaN,NaN,NaN
+POR,22/03/1992,,Gil Vicente,Sporting CP,0,3,A,NaN,NaN,NaN
+POR,22/03/1992,,SC Farense,Vitória Guimarães,3,0,H,NaN,NaN,NaN
+POR,22/03/1992,,Sporting Braga,FC Famalicão,1,0,H,NaN,NaN,NaN
+POR,22/03/1992,,Boavista,GD Estoril,5,0,H,NaN,NaN,NaN
+POR,22/03/1992,,SL Benfica,FC Porto,2,3,A,NaN,NaN,NaN
+POR,22/03/1992,,SC Beira-Mar,GD Chaves,1,0,H,NaN,NaN,NaN
+POR,05/04/1992,,União Torreense,Boavista,1,0,H,NaN,NaN,NaN
+POR,05/04/1992,,FC Porto,SC Beira-Mar,4,1,H,NaN,NaN,NaN
+POR,05/04/1992,,Paços de Ferreira,FC Penafiel,2,1,H,NaN,NaN,NaN
+POR,05/04/1992,,CS Marítimo,SC Salgueiros,1,1,D,NaN,NaN,NaN
+POR,05/04/1992,,FC Famalicão,SL Benfica,0,0,D,NaN,NaN,NaN
+POR,05/04/1992,,GD Estoril,Gil Vicente,0,1,A,NaN,NaN,NaN
+POR,05/04/1992,,GD Chaves,União da Madeira,0,2,A,NaN,NaN,NaN
+POR,05/04/1992,,Sporting Braga,SC Farense,4,1,H,NaN,NaN,NaN
+POR,05/04/1992,,Sporting CP,Vitória Guimarães,0,1,A,NaN,NaN,NaN
+POR,11/04/1992,,Vitória Guimarães,GD Estoril,1,1,D,NaN,NaN,NaN
+POR,11/04/1992,,União da Madeira,FC Porto,2,2,D,NaN,NaN,NaN
+POR,11/04/1992,,SC Salgueiros,Paços de Ferreira,0,0,D,NaN,NaN,NaN
+POR,11/04/1992,,FC Penafiel,GD Chaves,1,0,H,NaN,NaN,NaN
+POR,11/04/1992,,Gil Vicente,União Torreense,2,1,H,NaN,NaN,NaN
+POR,11/04/1992,,SC Farense,Sporting CP,0,2,A,NaN,NaN,NaN
+POR,11/04/1992,,Boavista,CS Marítimo,1,0,H,NaN,NaN,NaN
+POR,11/04/1992,,SL Benfica,Sporting Braga,2,0,H,NaN,NaN,NaN
+POR,11/04/1992,,SC Beira-Mar,FC Famalicão,0,0,D,NaN,NaN,NaN
+POR,18/04/1992,,União Torreense,Vitória Guimarães,1,1,D,NaN,NaN,NaN
+POR,18/04/1992,,FC Porto,FC Penafiel,2,1,H,NaN,NaN,NaN
+POR,18/04/1992,,Paços de Ferreira,Boavista,1,1,D,NaN,NaN,NaN
+POR,18/04/1992,,CS Marítimo,Gil Vicente,4,0,H,NaN,NaN,NaN
+POR,18/04/1992,,FC Famalicão,União da Madeira,2,0,H,NaN,NaN,NaN
+POR,18/04/1992,,GD Estoril,Sporting CP,1,1,D,NaN,NaN,NaN
+POR,18/04/1992,,GD Chaves,SC Salgueiros,2,0,H,NaN,NaN,NaN
+POR,18/04/1992,,Sporting Braga,SC Beira-Mar,2,1,H,NaN,NaN,NaN
+POR,18/04/1992,,SL Benfica,SC Farense,1,1,D,NaN,NaN,NaN
+POR,25/04/1992,,Vitória Guimarães,CS Marítimo,3,1,H,NaN,NaN,NaN
+POR,25/04/1992,,União da Madeira,Sporting Braga,0,2,A,NaN,NaN,NaN
+POR,25/04/1992,,Sporting CP,União Torreense,4,0,H,NaN,NaN,NaN
+POR,25/04/1992,,SC Salgueiros,FC Porto,0,1,A,NaN,NaN,NaN
+POR,25/04/1992,,FC Penafiel,FC Famalicão,1,1,D,NaN,NaN,NaN
+POR,25/04/1992,,Gil Vicente,Paços de Ferreira,1,2,A,NaN,NaN,NaN
+POR,25/04/1992,,SC Farense,GD Estoril,2,0,H,NaN,NaN,NaN
+POR,25/04/1992,,Boavista,GD Chaves,4,4,D,NaN,NaN,NaN
+POR,25/04/1992,,SC Beira-Mar,SL Benfica,2,1,H,NaN,NaN,NaN
+POR,02/05/1992,,União Torreense,GD Estoril,8,1,H,NaN,NaN,NaN
+POR,02/05/1992,,FC Porto,Boavista,2,0,H,NaN,NaN,NaN
+POR,02/05/1992,,Paços de Ferreira,Vitória Guimarães,1,1,D,NaN,NaN,NaN
+POR,02/05/1992,,CS Marítimo,Sporting CP,1,0,H,NaN,NaN,NaN
+POR,02/05/1992,,FC Famalicão,SC Salgueiros,2,1,H,NaN,NaN,NaN
+POR,02/05/1992,,GD Chaves,Gil Vicente,1,1,D,NaN,NaN,NaN
+POR,02/05/1992,,Sporting Braga,FC Penafiel,1,2,A,NaN,NaN,NaN
+POR,02/05/1992,,SL Benfica,União da Madeira,6,0,H,NaN,NaN,NaN
+POR,02/05/1992,,SC Beira-Mar,SC Farense,1,0,H,NaN,NaN,NaN
+POR,09/05/1992,,Vitória Guimarães,GD Chaves,4,0,H,NaN,NaN,NaN
+POR,09/05/1992,,União da Madeira,SC Beira-Mar,2,1,H,NaN,NaN,NaN
+POR,09/05/1992,,União Torreense,SC Farense,1,1,D,NaN,NaN,NaN
+POR,09/05/1992,,Sporting CP,Paços de Ferreira,2,1,H,NaN,NaN,NaN
+POR,09/05/1992,,SC Salgueiros,Sporting Braga,3,0,H,NaN,NaN,NaN
+POR,09/05/1992,,FC Penafiel,SL Benfica,2,2,D,NaN,NaN,NaN
+POR,09/05/1992,,Gil Vicente,FC Porto,1,0,H,NaN,NaN,NaN
+POR,09/05/1992,,GD Estoril,CS Marítimo,1,1,D,NaN,NaN,NaN
+POR,09/05/1992,,Boavista,FC Famalicão,1,0,H,NaN,NaN,NaN
+POR,16/05/1992,,FC Porto,Vitória Guimarães,1,0,H,NaN,NaN,NaN
+POR,16/05/1992,,Paços de Ferreira,GD Estoril,1,2,A,NaN,NaN,NaN
+POR,16/05/1992,,CS Marítimo,União Torreense,1,0,H,NaN,NaN,NaN
+POR,16/05/1992,,SC Farense,União da Madeira,1,0,H,NaN,NaN,NaN
+POR,16/05/1992,,FC Famalicão,Gil Vicente,2,0,H,NaN,NaN,NaN
+POR,16/05/1992,,GD Chaves,Sporting CP,1,1,D,NaN,NaN,NaN
+POR,16/05/1992,,Sporting Braga,Boavista,1,2,A,NaN,NaN,NaN
+POR,16/05/1992,,SL Benfica,SC Salgueiros,1,1,D,NaN,NaN,NaN
+POR,16/05/1992,,SC Beira-Mar,FC Penafiel,2,1,H,NaN,NaN,NaN

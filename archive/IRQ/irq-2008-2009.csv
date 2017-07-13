@@ -1,0 +1,341 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRQ,01/11/2008,12:00,Al Kufa,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Al Zawraa,Al Minaa,4,1,H,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Al-Amana,Al Nasiriya,1,1,D,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Al Semawah,Misan FC,2,0,H,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Al-Bareed,Al Sinaa,0,1,A,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Al Shorta,Al Ramadi,2,0,H,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Sulaymaniyah FC,Diyala FC,0,0,D,NaN,NaN,NaN
+IRQ,01/11/2008,12:00,Samaraa FC,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,02/11/2008,12:00,Kirkuk FC,Salahaddin FC,2,3,A,NaN,NaN,NaN
+IRQ,02/11/2008,12:00,Al Hedood,Erbil,0,2,A,NaN,NaN,NaN
+IRQ,03/11/2008,12:00,Al Quwa Al Jawiya,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,11/11/2008,11:30,Naft Al Janoob,Al Najaf,1,1,D,NaN,NaN,NaN
+IRQ,18/11/2008,12:00,Peris FC,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,07/11/2008,12:00,Al Minaa,Al Nasiriya,1,0,H,NaN,NaN,NaN
+IRQ,07/11/2008,12:30,Al Talaba,Al-Amana,0,1,A,NaN,NaN,NaN
+IRQ,07/11/2008,12:30,Naft Al Janoob,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,07/11/2008,12:30,Karbalaa FC,Al Kufa,0,0,D,NaN,NaN,NaN
+IRQ,07/11/2008,12:30,Al Sinaa,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,08/11/2008,11:30,Al Kahraba,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,08/11/2008,11:30,Misan FC,Al-Bareed,0,0,D,NaN,NaN,NaN
+IRQ,08/11/2008,12:00,Erbil,Peris FC,2,0,H,NaN,NaN,NaN
+IRQ,08/11/2008,12:00,Diyala FC,Samaraa FC,1,0,H,NaN,NaN,NaN
+IRQ,09/11/2008,11:30,Kirkuk FC,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,09/11/2008,12:00,Salahaddin FC,Sulaymaniyah FC,1,3,A,NaN,NaN,NaN
+IRQ,20/01/2009,12:30,Al Naft,Al Ramadi,1,0,H,NaN,NaN,NaN
+IRQ,28/01/2009,12:30,Duhok,Al Quwa Al Jawiya,2,1,H,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Al-Amana,Karbalaa FC,3,0,H,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Erbil,Al Ramadi,3,1,H,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Al Kahraba,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Al Minaa,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Al Nasiriya,Al Talaba,1,2,A,NaN,NaN,NaN
+IRQ,14/11/2008,11:30,Al Quwa Al Jawiya,Al Shorta,4,1,H,NaN,NaN,NaN
+IRQ,15/11/2008,11:00,Samaraa FC,Salahaddin FC,1,2,A,NaN,NaN,NaN
+IRQ,15/11/2008,11:30,Al Zawraa,Misan FC,1,1,D,NaN,NaN,NaN
+IRQ,15/11/2008,11:30,Peris FC,Kirkuk FC,0,0,D,NaN,NaN,NaN
+IRQ,16/11/2008,11:30,Al-Bareed,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,16/11/2008,11:30,Al Kufa,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,16/11/2008,11:30,Duhok,Diyala FC,4,0,H,NaN,NaN,NaN
+IRQ,16/11/2008,11:30,Al Hedood,Sulaymaniyah FC,0,0,D,NaN,NaN,NaN
+IRQ,21/11/2008,11:30,Al Najaf,Al-Amana,1,1,D,NaN,NaN,NaN
+IRQ,21/11/2008,11:30,Karbalaa FC,Al Talaba,1,2,A,NaN,NaN,NaN
+IRQ,21/11/2008,11:30,Misan FC,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,21/11/2008,11:30,Erbil,Al Kahraba,3,1,H,NaN,NaN,NaN
+IRQ,21/11/2008,11:30,Al Semawah,Al Kufa,0,2,A,NaN,NaN,NaN
+IRQ,22/11/2008,11:00,Samaraa FC,Al Hedood,2,0,H,NaN,NaN,NaN
+IRQ,22/11/2008,11:30,Al Sinaa,Al Nasiriya,0,0,D,NaN,NaN,NaN
+IRQ,22/11/2008,11:30,Salahaddin FC,Duhok,0,2,A,NaN,NaN,NaN
+IRQ,22/11/2008,11:30,Naft Al Janoob,Al Zawraa,2,1,H,NaN,NaN,NaN
+IRQ,23/11/2008,11:30,Al Naft,Al Shorta,2,2,D,NaN,NaN,NaN
+IRQ,23/11/2008,11:30,Kirkuk FC,Al Ramadi,1,2,A,NaN,NaN,NaN
+IRQ,23/11/2008,11:30,Sulaymaniyah FC,Peris FC,1,0,H,NaN,NaN,NaN
+IRQ,09/12/2008,10:30,Diyala FC,Al Quwa Al Jawiya,1,2,A,NaN,NaN,NaN
+IRQ,28/11/2008,11:30,Al Talaba,Al Najaf,2,0,H,NaN,NaN,NaN
+IRQ,28/11/2008,11:30,Al Nasiriya,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,28/11/2008,11:30,Al Kufa,Al-Bareed,1,0,H,NaN,NaN,NaN
+IRQ,28/11/2008,11:30,Diyala FC,Salahaddin FC,0,0,D,NaN,NaN,NaN
+IRQ,28/11/2008,11:30,Al-Amana,Al Semawah,2,0,H,NaN,NaN,NaN
+IRQ,29/11/2008,11:30,Al Minaa,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,30/11/2008,09:00,Peris FC,Samaraa FC,2,0,H,NaN,NaN,NaN
+IRQ,30/11/2008,11:30,Duhok,Al Hedood,2,1,H,NaN,NaN,NaN
+IRQ,30/11/2008,11:30,Al Sinaa,Misan FC,1,1,D,NaN,NaN,NaN
+IRQ,30/11/2008,11:30,Sulaymaniyah FC,Al Ramadi,2,1,H,NaN,NaN,NaN
+IRQ,30/11/2008,11:30,Al Shorta,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,30/11/2008,11:30,Al Kahraba,Kirkuk FC,1,0,H,NaN,NaN,NaN
+IRQ,02/12/2008,11:30,Al Quwa Al Jawiya,Al Naft,2,2,D,NaN,NaN,NaN
+IRQ,05/12/2008,11:30,Al Najaf,Karbalaa FC,2,0,H,NaN,NaN,NaN
+IRQ,05/12/2008,12:00,Al Semawah,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,05/12/2008,12:00,Al-Bareed,Al-Amana,0,1,A,NaN,NaN,NaN
+IRQ,05/12/2008,12:30,Al Hedood,Diyala FC,3,0,H,NaN,NaN,NaN
+IRQ,06/12/2008,11:00,Salahaddin FC,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,06/12/2008,12:00,Samaraa FC,Al Ramadi,1,2,A,NaN,NaN,NaN
+IRQ,06/12/2008,12:00,Misan FC,Al Nasiriya,1,2,A,NaN,NaN,NaN
+IRQ,06/12/2008,12:30,Erbil,Al Naft,3,0,H,NaN,NaN,NaN
+IRQ,06/12/2008,12:30,Al Zawraa,Al Kufa,2,2,D,NaN,NaN,NaN
+IRQ,06/12/2008,12:30,Naft Al Janoob,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,07/12/2008,11:30,Peris FC,Duhok,2,2,D,NaN,NaN,NaN
+IRQ,07/12/2008,11:30,Kirkuk FC,Al Shorta,2,2,D,NaN,NaN,NaN
+IRQ,07/12/2008,11:30,Sulaymaniyah FC,Al Kahraba,3,1,H,NaN,NaN,NaN
+IRQ,12/12/2008,11:30,Al Najaf,Al Nasiriya,1,1,D,NaN,NaN,NaN
+IRQ,12/12/2008,11:30,Misan FC,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,12/12/2008,11:30,Karbalaa FC,Al Semawah,4,0,H,NaN,NaN,NaN
+IRQ,12/12/2008,11:30,Al Talaba,Al-Bareed,1,0,H,NaN,NaN,NaN
+IRQ,12/12/2008,11:30,Salahaddin FC,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,13/12/2008,11:30,Al-Amana,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,13/12/2008,11:30,Al Kahraba,Samaraa FC,1,1,D,NaN,NaN,NaN
+IRQ,13/12/2008,11:30,Al Minaa,Al Kufa,2,2,D,NaN,NaN,NaN
+IRQ,14/12/2008,11:30,Al Shorta,Sulaymaniyah FC,2,1,H,NaN,NaN,NaN
+IRQ,14/12/2008,11:30,Duhok,Al Ramadi,4,0,H,NaN,NaN,NaN
+IRQ,14/12/2008,11:30,Al Naft,Kirkuk FC,0,0,D,NaN,NaN,NaN
+IRQ,14/12/2008,11:30,Diyala FC,Peris FC,0,3,A,NaN,NaN,NaN
+IRQ,03/02/2009,11:30,Al Quwa Al Jawiya,Erbil,0,2,A,NaN,NaN,NaN
+IRQ,19/12/2008,11:30,Al Zawraa,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,19/12/2008,11:30,Al Najaf,Al Semawah,3,0,H,NaN,NaN,NaN
+IRQ,19/12/2008,11:30,Al-Bareed,Karbalaa FC,0,2,A,NaN,NaN,NaN
+IRQ,20/12/2008,11:30,Al-Amana,Al Minaa,3,0,H,NaN,NaN,NaN
+IRQ,20/12/2008,11:30,Al Kufa,Al Sinaa,0,0,D,NaN,NaN,NaN
+IRQ,20/12/2008,11:30,Al Ramadi,Diyala FC,2,1,H,NaN,NaN,NaN
+IRQ,20/12/2008,11:30,Naft Al Janoob,Al Nasiriya,1,2,A,NaN,NaN,NaN
+IRQ,20/12/2008,11:30,Samaraa FC,Al Shorta,3,2,H,NaN,NaN,NaN
+IRQ,21/12/2008,11:30,Erbil,Kirkuk FC,3,1,H,NaN,NaN,NaN
+IRQ,21/12/2008,11:30,Sulaymaniyah FC,Al Naft,1,2,A,NaN,NaN,NaN
+IRQ,21/12/2008,11:30,Al Hedood,Al Quwa Al Jawiya,2,3,A,NaN,NaN,NaN
+IRQ,21/12/2008,11:30,Peris FC,Salahaddin FC,2,1,H,NaN,NaN,NaN
+IRQ,21/12/2008,11:30,Al Kahraba,Duhok,1,1,D,NaN,NaN,NaN
+IRQ,26/12/2008,11:30,Karbalaa FC,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,26/12/2008,11:30,Misan FC,Al Kufa,0,1,A,NaN,NaN,NaN
+IRQ,26/12/2008,11:30,Al Shorta,Duhok,1,0,H,NaN,NaN,NaN
+IRQ,26/12/2008,11:30,Al-Bareed,Al Najaf,0,0,D,NaN,NaN,NaN
+IRQ,27/12/2008,11:30,Al Sinaa,Al-Amana,0,1,A,NaN,NaN,NaN
+IRQ,27/12/2008,11:30,Al Semawah,Al Nasiriya,1,1,D,NaN,NaN,NaN
+IRQ,27/12/2008,11:30,Al Naft,Samaraa FC,1,1,D,NaN,NaN,NaN
+IRQ,28/12/2008,11:00,Salahaddin FC,Al Ramadi,0,1,A,NaN,NaN,NaN
+IRQ,28/12/2008,11:30,Al Talaba,Al Minaa,2,1,H,NaN,NaN,NaN
+IRQ,28/12/2008,11:30,Sulaymaniyah FC,Erbil,0,2,A,NaN,NaN,NaN
+IRQ,28/12/2008,11:30,Al Hedood,Peris FC,1,1,D,NaN,NaN,NaN
+IRQ,28/12/2008,11:30,Diyala FC,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,08/02/2009,11:30,Kirkuk FC,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
+IRQ,02/01/2009,11:30,Al Najaf,Al Zawraa,1,2,A,NaN,NaN,NaN
+IRQ,02/01/2009,11:30,Al Talaba,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,02/01/2009,11:30,Al Hedood,Al Ramadi,0,0,D,NaN,NaN,NaN
+IRQ,02/01/2009,11:30,Erbil,Samaraa FC,1,0,H,NaN,NaN,NaN
+IRQ,03/01/2009,10:30,Al Shorta,Diyala FC,3,0,H,NaN,NaN,NaN
+IRQ,03/01/2009,10:30,Al Quwa Al Jawiya,Peris FC,3,1,H,NaN,NaN,NaN
+IRQ,03/01/2009,11:30,Al Semawah,Al Itesalat,1,0,H,NaN,NaN,NaN
+IRQ,03/01/2009,11:30,Al Kufa,Naft Al Janoob,1,1,D,NaN,NaN,NaN
+IRQ,03/01/2009,11:30,Al-Amana,Misan FC,3,2,H,NaN,NaN,NaN
+IRQ,03/01/2009,11:30,Al Minaa,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,03/01/2009,11:30,Al Kahraba,Salahaddin FC,1,1,D,NaN,NaN,NaN
+IRQ,04/01/2009,11:30,Duhok,Al Naft,3,0,H,NaN,NaN,NaN
+IRQ,04/01/2009,11:30,Kirkuk FC,Sulaymaniyah FC,1,0,H,NaN,NaN,NaN
+IRQ,11/01/2009,10:30,Al Naft,Diyala FC,1,0,H,NaN,NaN,NaN
+IRQ,11/01/2009,11:00,Salahaddin FC,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,11/01/2009,11:00,Samaraa FC,Kirkuk FC,0,0,D,NaN,NaN,NaN
+IRQ,11/01/2009,11:30,Peris FC,Al Ramadi,2,0,H,NaN,NaN,NaN
+IRQ,11/01/2009,11:30,Al Hedood,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,11/01/2009,11:30,Erbil,Duhok,1,2,A,NaN,NaN,NaN
+IRQ,11/01/2009,11:30,Sulaymaniyah FC,Al Quwa Al Jawiya,1,2,A,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Al Najaf,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Karbalaa FC,Al Sinaa,2,1,H,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Al Itesalat,Al Nasiriya,1,0,H,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Al Zawraa,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Naft Al Janoob,Al-Amana,0,0,D,NaN,NaN,NaN
+IRQ,12/01/2009,11:30,Misan FC,Al Talaba,0,2,A,NaN,NaN,NaN
+IRQ,16/01/2009,11:30,Al Quwa Al Jawiya,Al Ramadi,1,1,D,NaN,NaN,NaN
+IRQ,16/01/2009,11:30,Kirkuk FC,Duhok,0,1,A,NaN,NaN,NaN
+IRQ,17/01/2009,10:30,Diyala FC,Erbil,0,2,A,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Shorta,Al Hedood,0,0,D,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Naft,Salahaddin FC,2,0,H,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Nasiriya,Al Kufa,0,0,D,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Zawraa,Al Itesalat,3,1,H,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Semawah,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,17/01/2009,11:30,Al Sinaa,Al Najaf,0,0,D,NaN,NaN,NaN
+IRQ,18/01/2009,11:00,Samaraa FC,Sulaymaniyah FC,2,0,H,NaN,NaN,NaN
+IRQ,18/01/2009,11:30,Karbalaa FC,Misan FC,2,1,H,NaN,NaN,NaN
+IRQ,18/01/2009,11:30,Al Kahraba,Peris FC,0,0,D,NaN,NaN,NaN
+IRQ,18/01/2009,11:30,Al Talaba,Naft Al Janoob,3,2,H,NaN,NaN,NaN
+IRQ,23/01/2009,11:30,Al Quwa Al Jawiya,Samaraa FC,2,1,H,NaN,NaN,NaN
+IRQ,23/01/2009,11:30,Erbil,Salahaddin FC,3,1,H,NaN,NaN,NaN
+IRQ,24/01/2009,10:30,Diyala FC,Kirkuk FC,1,1,D,NaN,NaN,NaN
+IRQ,24/01/2009,11:00,Al Kahraba,Al Ramadi,1,3,A,NaN,NaN,NaN
+IRQ,24/01/2009,11:30,Naft Al Janoob,Karbalaa FC,3,1,H,NaN,NaN,NaN
+IRQ,24/01/2009,11:30,Al Nasiriya,Al Zawraa,1,2,A,NaN,NaN,NaN
+IRQ,24/01/2009,11:30,Al Kufa,Al-Amana,2,2,D,NaN,NaN,NaN
+IRQ,24/01/2009,11:30,Al Sinaa,Al Semawah,0,0,D,NaN,NaN,NaN
+IRQ,24/01/2009,11:30,Duhok,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,25/01/2009,11:30,Misan FC,Al Najaf,0,3,A,NaN,NaN,NaN
+IRQ,25/01/2009,11:30,Al Minaa,Al Itesalat,1,0,H,NaN,NaN,NaN
+IRQ,25/01/2009,11:30,Peris FC,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,25/01/2009,11:30,Al Naft,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,20/02/2009,11:30,Al Ramadi,Al Shorta,2,0,H,NaN,NaN,NaN
+IRQ,20/02/2009,11:30,Al Kahraba,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,20/02/2009,11:30,Al Najaf,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Al Talaba,Al Kufa,3,0,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Al Minaa,Al Zawraa,1,0,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Al Nasiriya,Al-Amana,0,1,A,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Al Sinaa,Al Itesalat,1,0,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Diyala FC,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Salahaddin FC,Kirkuk FC,1,0,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Erbil,Al Hedood,3,0,H,NaN,NaN,NaN
+IRQ,21/02/2009,11:30,Al Naft,Peris FC,1,0,H,NaN,NaN,NaN
+IRQ,22/02/2009,11:30,Misan FC,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,22/02/2009,11:30,Duhok,Samaraa FC,2,0,H,NaN,NaN,NaN
+IRQ,27/02/2009,11:30,Al Nasiriya,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,27/02/2009,11:30,Al-Amana,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,27/02/2009,11:30,Al Semawah,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,27/02/2009,11:30,Al Zawraa,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,28/02/2009,11:00,Samaraa FC,Diyala FC,1,0,H,NaN,NaN,NaN
+IRQ,28/02/2009,11:00,Al Ramadi,Al Naft,1,1,D,NaN,NaN,NaN
+IRQ,28/02/2009,11:30,Al Kufa,Karbalaa FC,1,1,D,NaN,NaN,NaN
+IRQ,28/02/2009,11:30,Al Shorta,Al Kahraba,2,0,H,NaN,NaN,NaN
+IRQ,28/02/2009,11:30,Al Itesalat,Misan FC,1,1,D,NaN,NaN,NaN
+IRQ,28/02/2009,11:30,Al Quwa Al Jawiya,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,01/03/2009,11:30,Al Hedood,Kirkuk FC,3,0,H,NaN,NaN,NaN
+IRQ,01/03/2009,11:30,Sulaymaniyah FC,Salahaddin FC,2,1,H,NaN,NaN,NaN
+IRQ,25/06/2009,14:00,Peris FC,Erbil,0,3,A,NaN,NaN,NaN
+IRQ,06/03/2009,10:30,Diyala FC,Duhok,0,2,A,NaN,NaN,NaN
+IRQ,06/03/2009,11:30,Karbalaa FC,Al-Amana,1,2,A,NaN,NaN,NaN
+IRQ,06/03/2009,11:30,Al Shorta,Al Quwa Al Jawiya,1,2,A,NaN,NaN,NaN
+IRQ,06/03/2009,11:30,Naft Al Janoob,Al Itesalat,1,0,H,NaN,NaN,NaN
+IRQ,06/03/2009,11:30,Al Najaf,Al Kufa,1,0,H,NaN,NaN,NaN
+IRQ,07/03/2009,11:00,Salahaddin FC,Samaraa FC,0,0,D,NaN,NaN,NaN
+IRQ,07/03/2009,11:30,Al Naft,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,07/03/2009,11:30,Al Sinaa,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,07/03/2009,11:30,Al Talaba,Al Nasiriya,3,0,H,NaN,NaN,NaN
+IRQ,08/03/2009,11:30,Kirkuk FC,Peris FC,2,0,H,NaN,NaN,NaN
+IRQ,08/03/2009,11:30,Sulaymaniyah FC,Al Hedood,2,1,H,NaN,NaN,NaN
+IRQ,10/06/2009,14:00,Misan FC,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,13/06/2009,14:00,Al Ramadi,Erbil,2,2,D,NaN,NaN,NaN
+IRQ,13/03/2009,11:30,Al Minaa,Misan FC,2,1,H,NaN,NaN,NaN
+IRQ,13/03/2009,11:30,Al Nasiriya,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,13/03/2009,11:30,Al Shorta,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,13/03/2009,11:30,Al Quwa Al Jawiya,Diyala FC,4,0,H,NaN,NaN,NaN
+IRQ,14/03/2009,11:30,Al-Amana,Al Najaf,1,1,D,NaN,NaN,NaN
+IRQ,14/03/2009,11:30,Al Talaba,Karbalaa FC,2,0,H,NaN,NaN,NaN
+IRQ,14/03/2009,11:30,Al Kufa,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,14/03/2009,11:30,Al Hedood,Samaraa FC,0,0,D,NaN,NaN,NaN
+IRQ,14/03/2009,11:30,Duhok,Salahaddin FC,1,0,H,NaN,NaN,NaN
+IRQ,15/03/2009,11:30,Al Ramadi,Kirkuk FC,2,1,H,NaN,NaN,NaN
+IRQ,15/03/2009,11:30,Peris FC,Sulaymaniyah FC,2,1,H,NaN,NaN,NaN
+IRQ,05/06/2009,14:00,Al Kahraba,Erbil,0,6,A,NaN,NaN,NaN
+IRQ,13/06/2009,14:00,Al Zawraa,Naft Al Janoob,1,3,A,NaN,NaN,NaN
+IRQ,20/03/2009,11:30,Karbalaa FC,Al Nasiriya,1,1,D,NaN,NaN,NaN
+IRQ,20/03/2009,11:30,Al Semawah,Al-Amana,0,1,A,NaN,NaN,NaN
+IRQ,20/03/2009,11:30,Naft Al Janoob,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,20/03/2009,11:30,Al Naft,Al Quwa Al Jawiya,1,3,A,NaN,NaN,NaN
+IRQ,21/03/2009,11:00,Salahaddin FC,Diyala FC,1,1,D,NaN,NaN,NaN
+IRQ,21/03/2009,11:30,Al Itesalat,Al Kufa,0,1,A,NaN,NaN,NaN
+IRQ,21/03/2009,11:30,Misan FC,Al Sinaa,2,4,A,NaN,NaN,NaN
+IRQ,22/03/2009,12:30,Kirkuk FC,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,17/05/2009,14:00,Al Najaf,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,17/05/2009,14:00,Samaraa FC,Peris FC,1,1,D,NaN,NaN,NaN
+IRQ,17/05/2009,14:00,Al Hedood,Duhok,0,4,A,NaN,NaN,NaN
+IRQ,17/05/2009,14:00,Al Ramadi,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,17/06/2009,14:00,Erbil,Al Shorta,1,0,H,NaN,NaN,NaN
+IRQ,27/03/2009,12:00,Karbalaa FC,Al Najaf,0,3,A,NaN,NaN,NaN
+IRQ,27/03/2009,12:00,Diyala FC,Al Hedood,0,1,A,NaN,NaN,NaN
+IRQ,27/03/2009,12:00,Al Quwa Al Jawiya,Salahaddin FC,0,0,D,NaN,NaN,NaN
+IRQ,27/03/2009,12:00,Al Nasiriya,Misan FC,2,1,H,NaN,NaN,NaN
+IRQ,28/03/2009,12:00,Al-Amana,Al Itesalat,1,1,D,NaN,NaN,NaN
+IRQ,28/03/2009,12:00,Al Ramadi,Samaraa FC,0,1,A,NaN,NaN,NaN
+IRQ,28/03/2009,12:00,Al Kufa,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,28/03/2009,12:00,Al Sinaa,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,29/03/2009,13:00,Duhok,Peris FC,0,0,D,NaN,NaN,NaN
+IRQ,29/03/2009,13:00,Al Shorta,Kirkuk FC,0,0,D,NaN,NaN,NaN
+IRQ,29/03/2009,13:00,Al Kahraba,Sulaymaniyah FC,2,1,H,NaN,NaN,NaN
+IRQ,03/06/2009,14:00,Al Talaba,Al Semawah,1,1,D,NaN,NaN,NaN
+IRQ,09/06/2009,14:00,Al Naft,Erbil,0,0,D,NaN,NaN,NaN
+IRQ,03/04/2009,13:00,Al Semawah,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,03/04/2009,13:00,Al Ramadi,Duhok,1,2,A,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Al Nasiriya,Al Najaf,1,2,A,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Naft Al Janoob,Misan FC,2,2,D,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Al Itesalat,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Al Hedood,Salahaddin FC,1,0,H,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Samaraa FC,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,04/04/2009,13:00,Al Kufa,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,05/04/2009,13:00,Kirkuk FC,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,05/04/2009,13:00,Peris FC,Diyala FC,4,1,H,NaN,NaN,NaN
+IRQ,06/04/2009,13:00,Sulaymaniyah FC,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,16/06/2009,14:00,Al Zawraa,Al-Amana,0,2,A,NaN,NaN,NaN
+IRQ,21/06/2009,17:30,Erbil,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,10/04/2009,13:00,Karbalaa FC,Al Itesalat,1,1,D,NaN,NaN,NaN
+IRQ,10/04/2009,13:30,Al Nasiriya,Naft Al Janoob,2,0,H,NaN,NaN,NaN
+IRQ,10/04/2009,13:30,Al Quwa Al Jawiya,Al Hedood,2,0,H,NaN,NaN,NaN
+IRQ,11/04/2009,13:00,Al Semawah,Al Najaf,0,0,D,NaN,NaN,NaN
+IRQ,11/04/2009,13:30,Al Minaa,Al-Amana,1,1,D,NaN,NaN,NaN
+IRQ,11/04/2009,13:30,Al Sinaa,Al Kufa,1,1,D,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Al Talaba,Al Zawraa,0,2,A,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Diyala FC,Al Ramadi,1,3,A,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Al Shorta,Samaraa FC,1,0,H,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Kirkuk FC,Erbil,2,2,D,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Al Naft,Sulaymaniyah FC,1,0,H,NaN,NaN,NaN
+IRQ,12/04/2009,13:30,Salahaddin FC,Peris FC,3,0,H,NaN,NaN,NaN
+IRQ,29/05/2009,14:00,Duhok,Al Kahraba,3,2,H,NaN,NaN,NaN
+IRQ,16/04/2009,13:30,Al Zawraa,Karbalaa FC,0,0,D,NaN,NaN,NaN
+IRQ,17/04/2009,13:30,Al Najaf,Al Itesalat,3,0,H,NaN,NaN,NaN
+IRQ,17/04/2009,13:30,Al-Amana,Al Sinaa,1,1,D,NaN,NaN,NaN
+IRQ,17/04/2009,13:30,Al Nasiriya,Al Semawah,1,2,A,NaN,NaN,NaN
+IRQ,17/04/2009,13:30,Al Ramadi,Salahaddin FC,0,0,D,NaN,NaN,NaN
+IRQ,17/04/2009,13:30,Al Minaa,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,18/04/2009,13:30,Al Kufa,Misan FC,3,1,H,NaN,NaN,NaN
+IRQ,18/04/2009,13:30,Samaraa FC,Al Naft,4,0,H,NaN,NaN,NaN
+IRQ,18/04/2009,13:30,Al Kahraba,Diyala FC,1,1,D,NaN,NaN,NaN
+IRQ,18/04/2009,13:30,Al Quwa Al Jawiya,Kirkuk FC,0,1,A,NaN,NaN,NaN
+IRQ,19/04/2009,13:30,Duhok,Al Shorta,4,0,H,NaN,NaN,NaN
+IRQ,20/04/2009,13:30,Peris FC,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,29/06/2009,17:00,Erbil,Sulaymaniyah FC,4,1,H,NaN,NaN,NaN
+IRQ,24/04/2009,13:30,Karbalaa FC,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,25/04/2009,13:30,Al Itesalat,Al Semawah,2,2,D,NaN,NaN,NaN
+IRQ,25/04/2009,13:30,Naft Al Janoob,Al Kufa,2,1,H,NaN,NaN,NaN
+IRQ,25/04/2009,13:30,Salahaddin FC,Al Kahraba,2,2,D,NaN,NaN,NaN
+IRQ,25/04/2009,13:30,Al Naft,Duhok,0,1,A,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Al Sinaa,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Al Ramadi,Al Hedood,2,0,H,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Samaraa FC,Erbil,1,2,A,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Peris FC,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Misan FC,Al-Amana,0,2,A,NaN,NaN,NaN
+IRQ,26/04/2009,13:30,Sulaymaniyah FC,Kirkuk FC,1,1,D,NaN,NaN,NaN
+IRQ,27/04/2009,13:30,Diyala FC,Al Shorta,0,3,A,NaN,NaN,NaN
+IRQ,19/06/2009,14:00,Al Zawraa,Al Najaf,0,2,A,NaN,NaN,NaN
+IRQ,30/04/2009,13:30,Al Semawah,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,01/05/2009,13:30,Al Kahraba,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al Shorta,Salahaddin FC,2,3,A,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al Minaa,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al Sinaa,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al Nasiriya,Al Itesalat,3,0,H,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al-Amana,Naft Al Janoob,2,2,D,NaN,NaN,NaN
+IRQ,02/05/2009,13:30,Al Talaba,Misan FC,4,1,H,NaN,NaN,NaN
+IRQ,03/05/2009,13:30,Diyala FC,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,03/05/2009,13:30,Kirkuk FC,Samaraa FC,0,1,A,NaN,NaN,NaN
+IRQ,03/05/2009,13:30,Al Ramadi,Peris FC,0,0,D,NaN,NaN,NaN
+IRQ,29/05/2009,14:00,Al Quwa Al Jawiya,Sulaymaniyah FC,1,1,D,NaN,NaN,NaN
+IRQ,03/07/2009,14:00,Duhok,Erbil,3,0,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Al Ramadi,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Al Hedood,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Al Kufa,Al Nasiriya,3,1,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Al Minaa,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Al Najaf,Al Sinaa,3,1,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Misan FC,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,09/05/2009,14:00,Naft Al Janoob,Al Talaba,2,1,H,NaN,NaN,NaN
+IRQ,10/05/2009,14:00,Duhok,Kirkuk FC,1,0,H,NaN,NaN,NaN
+IRQ,10/05/2009,14:00,Erbil,Diyala FC,2,0,H,NaN,NaN,NaN
+IRQ,10/05/2009,14:00,Salahaddin FC,Al Naft,2,1,H,NaN,NaN,NaN
+IRQ,10/05/2009,14:00,Sulaymaniyah FC,Samaraa FC,1,4,A,NaN,NaN,NaN
+IRQ,10/05/2009,14:00,Peris FC,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,11/05/2009,14:00,Al Itesalat,Al Zawraa,1,4,A,NaN,NaN,NaN
+IRQ,22/05/2009,14:00,Karbalaa FC,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,22/05/2009,14:00,Al-Amana,Al Kufa,4,1,H,NaN,NaN,NaN
+IRQ,22/05/2009,14:00,Al Semawah,Al Sinaa,0,0,D,NaN,NaN,NaN
+IRQ,22/05/2009,14:00,Al Najaf,Misan FC,6,1,H,NaN,NaN,NaN
+IRQ,23/05/2009,14:00,Samaraa FC,Al Quwa Al Jawiya,2,1,H,NaN,NaN,NaN
+IRQ,23/05/2009,14:00,Al Itesalat,Al Minaa,2,0,H,NaN,NaN,NaN
+IRQ,23/05/2009,14:00,Al Hedood,Al Naft,0,3,A,NaN,NaN,NaN
+IRQ,24/05/2009,14:00,Kirkuk FC,Diyala FC,1,0,H,NaN,NaN,NaN
+IRQ,24/05/2009,14:00,Al Ramadi,Al Kahraba,1,2,A,NaN,NaN,NaN
+IRQ,24/05/2009,14:00,Sulaymaniyah FC,Duhok,0,0,D,NaN,NaN,NaN
+IRQ,24/05/2009,14:00,Al Shorta,Peris FC,1,1,D,NaN,NaN,NaN
+IRQ,01/06/2009,14:00,Salahaddin FC,Erbil,0,0,D,NaN,NaN,NaN
+IRQ,01/06/2009,14:00,Al Zawraa,Al Nasiriya,2,1,H,NaN,NaN,NaN
+IRQ,15/07/2009,16:30,Baghdad FC,Duhok,0,1,A,NaN,NaN,NaN
+IRQ,16/07/2009,16:30,Al Najaf,Erbil,2,3,A,NaN,NaN,NaN

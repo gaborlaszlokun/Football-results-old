@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUD,29/02/2012,13:30,Al Rabta Kosti,Khartoum 3,1,0,H,NaN,NaN,NaN
+SUD,29/02/2012,13:30,Al-Hilal Kadougli,Al-Mawrada,1,0,H,NaN,NaN,NaN
+SUD,29/02/2012,13:30,Al-Hilal Port Sudan,Al-Nil Al-Hasahesa,2,2,D,NaN,NaN,NaN
+SUD,29/02/2012,13:30,Al Ahly Shendi,Al-Hilal Omdurman,0,0,D,NaN,NaN,NaN
+SUD,29/02/2012,13:30,Al-Ahli Wad Madani,El Nsoor,0,2,A,NaN,NaN,NaN
+SUD,29/02/2012,13:30,Al-Merrikh SC,Alamal Atbara,0,1,A,NaN,NaN,NaN
+SUD,01/03/2012,17:00,Ahli Al Khartoum,Jazeerat Al-Feel,0,1,A,NaN,NaN,NaN
+SUD,05/03/2012,13:45,Khartoum 3,Al Ahly Shendi,2,1,H,NaN,NaN,NaN
+SUD,05/03/2012,17:00,El Nsoor,Al-Hilal Omdurman,0,1,A,NaN,NaN,NaN
+SUD,06/03/2012,16:30,Alamal Atbara,Ahli Al Khartoum,3,1,H,NaN,NaN,NaN
+SUD,06/03/2012,17:00,Al-Mawrada,Al-Merrikh SC,2,3,A,NaN,NaN,NaN
+SUD,07/03/2012,13:45,Al-Nil Al-Hasahesa,Al-Hilal Kadougli,1,0,H,NaN,NaN,NaN
+SUD,07/03/2012,13:45,Al Rabta Kosti,Al-Hilal Port Sudan,1,1,D,NaN,NaN,NaN
+SUD,07/03/2012,17:00,Al-Ahli Wad Madani,Jazeerat Al-Feel,1,1,D,NaN,NaN,NaN
+SUD,10/03/2012,17:00,Al-Merrikh SC,Al Rabta Kosti,6,0,H,NaN,NaN,NaN
+SUD,11/03/2012,13:45,Al-Hilal Kadougli,Al Ahly Shendi,1,1,D,NaN,NaN,NaN
+SUD,11/03/2012,13:45,Al-Nil Al-Hasahesa,Al-Mawrada,3,2,H,NaN,NaN,NaN
+SUD,11/03/2012,16:30,Al-Hilal Port Sudan,El Nsoor,1,2,A,NaN,NaN,NaN
+SUD,11/03/2012,16:30,Alamal Atbara,Al-Ahli Wad Madani,1,1,D,NaN,NaN,NaN
+SUD,11/03/2012,17:00,Jazeerat Al-Feel,Khartoum 3,1,2,A,NaN,NaN,NaN
+SUD,11/03/2012,17:00,Al-Hilal Omdurman,Ahli Al Khartoum,2,1,H,NaN,NaN,NaN
+SUD,15/03/2012,,Al-Mawrada,Alamal Atbara,3,0,H,NaN,NaN,NaN
+SUD,16/03/2012,13:45,Al-Nil Al-Hasahesa,Al-Merrikh SC,0,5,A,NaN,NaN,NaN
+SUD,16/03/2012,17:00,Al Ahly Shendi,Al-Hilal Port Sudan,2,0,H,NaN,NaN,NaN
+SUD,16/03/2012,17:00,Al-Hilal Omdurman,Jazeerat Al-Feel,4,0,H,NaN,NaN,NaN
+SUD,21/03/2012,13:45,Al-Hilal Kadougli,Al Rabta Kosti,3,1,H,NaN,NaN,NaN
+SUD,21/03/2012,17:00,El Nsoor,Khartoum 3,1,2,A,NaN,NaN,NaN
+SUD,21/03/2012,17:00,Al-Ahli Wad Madani,Ahli Al Khartoum,1,1,D,NaN,NaN,NaN
+SUD,28/03/2012,14:45,Al Rabta Kosti,Al-Hilal Omdurman,0,3,A,NaN,NaN,NaN
+SUD,28/03/2012,15:00,Khartoum 3,Al-Nil Al-Hasahesa,0,2,A,NaN,NaN,NaN
+SUD,28/03/2012,18:00,Al-Merrikh SC,Al-Hilal Kadougli,2,0,H,NaN,NaN,NaN
+SUD,28/03/2012,19:00,Al-Ahli Wad Madani,Al Ahly Shendi,0,1,A,NaN,NaN,NaN
+SUD,29/03/2012,14:45,Al-Mawrada,Al-Hilal Port Sudan,2,1,H,NaN,NaN,NaN
+SUD,29/03/2012,18:00,Jazeerat Al-Feel,Alamal Atbara,0,0,D,NaN,NaN,NaN
+SUD,29/03/2012,18:00,Ahli Al Khartoum,El Nsoor,1,0,H,NaN,NaN,NaN
+SUD,01/04/2012,18:00,Al-Merrikh SC,Khartoum 3,3,2,H,NaN,NaN,NaN
+SUD,02/04/2012,18:00,Alamal Atbara,El Nsoor,0,1,A,NaN,NaN,NaN
+SUD,02/04/2012,18:00,Al Ahly Shendi,Jazeerat Al-Feel,1,1,D,NaN,NaN,NaN
+SUD,02/04/2012,18:00,Al-Hilal Omdurman,Al-Mawrada,2,1,H,NaN,NaN,NaN
+SUD,04/04/2012,14:45,Al-Nil Al-Hasahesa,Al-Ahli Wad Madani,2,0,H,NaN,NaN,NaN
+SUD,04/04/2012,14:45,Al Rabta Kosti,Ahli Al Khartoum,2,3,A,NaN,NaN,NaN
+SUD,04/04/2012,14:45,Al-Hilal Kadougli,Al-Hilal Port Sudan,3,3,D,NaN,NaN,NaN
+SUD,10/04/2012,18:00,Ahli Al Khartoum,Al-Nil Al-Hasahesa,1,1,D,NaN,NaN,NaN
+SUD,11/04/2012,14:45,Al-Mawrada,Al-Ahli Wad Madani,0,1,A,NaN,NaN,NaN
+SUD,11/04/2012,14:45,Al Rabta Kosti,Jazeerat Al-Feel,2,1,H,NaN,NaN,NaN
+SUD,11/04/2012,17:30,Al-Hilal Port Sudan,Alamal Atbara,3,0,H,NaN,NaN,NaN
+SUD,11/04/2012,18:00,Khartoum 3,Al-Hilal Kadougli,3,0,H,NaN,NaN,NaN
+SUD,12/04/2012,18:00,El Nsoor,Al Ahly Shendi,1,1,D,NaN,NaN,NaN
+SUD,12/04/2012,18:00,Al-Hilal Omdurman,Al-Merrikh SC,1,0,H,NaN,NaN,NaN
+SUD,17/04/2012,18:00,Al-Mawrada,El Nsoor,1,2,A,NaN,NaN,NaN
+SUD,17/04/2012,18:00,Al-Ahli Wad Madani,Al-Hilal Port Sudan,4,0,H,NaN,NaN,NaN
+SUD,18/04/2012,14:45,Al-Hilal Kadougli,Ahli Al Khartoum,3,2,H,NaN,NaN,NaN
+SUD,18/04/2012,18:00,Jazeerat Al-Feel,Al-Merrikh SC,0,3,A,NaN,NaN,NaN
+SUD,18/04/2012,18:00,Alamal Atbara,Al Rabta Kosti,2,0,H,NaN,NaN,NaN
+SUD,18/04/2012,18:00,Al Ahly Shendi,Al-Nil Al-Hasahesa,0,0,D,NaN,NaN,NaN
+SUD,18/04/2012,18:00,Khartoum 3,Al-Hilal Omdurman,0,4,A,NaN,NaN,NaN
+SUD,23/04/2012,14:45,Al-Hilal Kadougli,Al-Hilal Omdurman,0,1,A,NaN,NaN,NaN
+SUD,23/04/2012,18:00,Alamal Atbara,Al Ahly Shendi,0,0,D,NaN,NaN,NaN
+SUD,23/04/2012,18:00,Al-Merrikh SC,Al-Ahli Wad Madani,2,1,H,NaN,NaN,NaN
+SUD,25/04/2012,14:45,Al Rabta Kosti,El Nsoor,0,0,D,NaN,NaN,NaN
+SUD,25/04/2012,17:30,Al-Hilal Port Sudan,Khartoum 3,2,1,H,NaN,NaN,NaN
+SUD,25/04/2012,18:00,Al-Mawrada,Ahli Al Khartoum,1,1,D,NaN,NaN,NaN
+SUD,25/04/2012,18:00,Jazeerat Al-Feel,Al-Nil Al-Hasahesa,0,1,A,NaN,NaN,NaN
+SUD,02/05/2012,14:45,Al-Nil Al-Hasahesa,Al Rabta Kosti,0,0,D,NaN,NaN,NaN
+SUD,02/05/2012,18:00,Jazeerat Al-Feel,Al-Hilal Kadougli,1,0,H,NaN,NaN,NaN
+SUD,02/05/2012,18:00,Khartoum 3,Al-Ahli Wad Madani,1,0,H,NaN,NaN,NaN
+SUD,03/05/2012,18:00,Ahli Al Khartoum,Al-Hilal Port Sudan,2,0,H,NaN,NaN,NaN
+SUD,04/05/2012,17:30,Al-Hilal Omdurman,Alamal Atbara,3,0,H,NaN,NaN,NaN
+SUD,04/05/2012,18:00,Al Ahly Shendi,Al-Mawrada,4,1,H,NaN,NaN,NaN
+SUD,04/05/2012,18:00,Al-Merrikh SC,El Nsoor,5,1,H,NaN,NaN,NaN
+SUD,07/05/2012,18:00,Al-Hilal Omdurman,Al-Nil Al-Hasahesa,3,0,H,NaN,NaN,NaN
+SUD,08/05/2012,15:00,Alamal Atbara,Al-Hilal Kadougli,1,2,A,NaN,NaN,NaN
+SUD,08/05/2012,17:30,Al-Hilal Port Sudan,Al-Merrikh SC,0,3,A,NaN,NaN,NaN
+SUD,08/05/2012,18:00,El Nsoor,Jazeerat Al-Feel,2,1,H,NaN,NaN,NaN
+SUD,08/05/2012,18:00,Ahli Al Khartoum,Al Ahly Shendi,1,1,D,NaN,NaN,NaN
+SUD,09/05/2012,18:00,Al-Ahli Wad Madani,Al Rabta Kosti,1,0,H,NaN,NaN,NaN
+SUD,09/05/2012,18:00,Khartoum 3,Al-Mawrada,0,1,A,NaN,NaN,NaN
+SUD,16/05/2012,18:00,El Nsoor,Al-Nil Al-Hasahesa,1,1,D,NaN,NaN,NaN
+SUD,16/05/2012,18:00,Jazeerat Al-Feel,Al-Mawrada,2,3,A,NaN,NaN,NaN
+SUD,16/05/2012,18:00,Al-Merrikh SC,Ahli Al Khartoum,2,0,H,NaN,NaN,NaN
+SUD,17/05/2012,18:00,Alamal Atbara,Khartoum 3,0,1,A,NaN,NaN,NaN
+SUD,17/05/2012,18:00,Al-Ahli Wad Madani,Al-Hilal Kadougli,1,0,H,NaN,NaN,NaN
+SUD,17/05/2012,18:00,Al Ahly Shendi,Al Rabta Kosti,1,0,H,NaN,NaN,NaN
+SUD,17/05/2012,18:00,Al-Hilal Omdurman,Al-Hilal Port Sudan,2,1,H,NaN,NaN,NaN
+SUD,21/05/2012,14:45,Al-Nil Al-Hasahesa,Alamal Atbara,1,0,H,NaN,NaN,NaN
+SUD,21/05/2012,17:30,Al-Hilal Port Sudan,Jazeerat Al-Feel,2,1,H,NaN,NaN,NaN
+SUD,21/05/2012,18:00,El Nsoor,Al-Hilal Kadougli,1,0,H,NaN,NaN,NaN
+SUD,21/05/2012,18:00,Al-Ahli Wad Madani,Al-Hilal Omdurman,1,3,A,NaN,NaN,NaN
+SUD,21/05/2012,18:00,Ahli Al Khartoum,Khartoum 3,0,0,D,NaN,NaN,NaN
+SUD,22/05/2012,18:00,Al Ahly Shendi,Al-Merrikh SC,0,2,A,NaN,NaN,NaN
+SUD,22/05/2012,18:00,Al-Mawrada,Al Rabta Kosti,1,1,D,NaN,NaN,NaN
+SUD,05/07/2012,18:00,Alamal Atbara,Al-Merrikh SC,0,3,A,NaN,NaN,NaN
+SUD,06/07/2012,18:00,Al-Hilal Omdurman,Al Ahly Shendi,4,1,H,NaN,NaN,NaN
+SUD,07/07/2012,14:45,Al-Nil Al-Hasahesa,Al-Hilal Port Sudan,1,1,D,NaN,NaN,NaN
+SUD,07/07/2012,18:00,Al-Mawrada,Al-Hilal Kadougli,1,0,H,NaN,NaN,NaN
+SUD,07/07/2012,18:00,Jazeerat Al-Feel,Ahli Al Khartoum,1,2,A,NaN,NaN,NaN
+SUD,08/07/2012,18:00,El Nsoor,Al-Ahli Wad Madani,1,1,D,NaN,NaN,NaN
+SUD,09/07/2012,18:00,Khartoum 3,Al Rabta Kosti,1,0,H,NaN,NaN,NaN
+SUD,14/07/2012,14:45,Al-Hilal Kadougli,Al-Nil Al-Hasahesa,0,0,D,NaN,NaN,NaN
+SUD,14/07/2012,17:30,Al-Hilal Port Sudan,Al Rabta Kosti,3,0,H,NaN,NaN,NaN
+SUD,14/07/2012,18:00,Ahli Al Khartoum,Alamal Atbara,0,0,D,NaN,NaN,NaN
+SUD,15/07/2012,18:00,Jazeerat Al-Feel,Al-Ahli Wad Madani,0,1,A,NaN,NaN,NaN
+SUD,18/07/2012,18:00,Al Ahly Shendi,Khartoum 3,1,0,H,NaN,NaN,NaN
+SUD,19/07/2012,18:00,Al-Merrikh SC,Al-Mawrada,3,0,H,NaN,NaN,NaN
+SUD,19/07/2012,19:00,Al-Hilal Omdurman,El Nsoor,2,0,H,NaN,NaN,NaN
+SUD,19/07/2012,18:00,Al-Ahli Wad Madani,Alamal Atbara,1,0,H,NaN,NaN,NaN
+SUD,22/07/2012,20:00,Al Ahly Shendi,Al-Hilal Kadougli,1,1,D,NaN,NaN,NaN
+SUD,22/07/2012,20:00,Ahli Al Khartoum,Al-Hilal Omdurman,1,5,A,NaN,NaN,NaN
+SUD,23/07/2012,20:00,Al-Mawrada,Al-Nil Al-Hasahesa,1,1,D,NaN,NaN,NaN
+SUD,23/07/2012,20:00,Al Rabta Kosti,Al-Merrikh SC,1,1,D,NaN,NaN,NaN
+SUD,23/07/2012,20:00,Khartoum 3,Jazeerat Al-Feel,4,2,H,NaN,NaN,NaN
+SUD,24/07/2012,20:00,El Nsoor,Al-Hilal Port Sudan,3,0,H,NaN,NaN,NaN
+SUD,27/07/2012,20:00,Alamal Atbara,Al-Mawrada,2,1,H,NaN,NaN,NaN
+SUD,27/07/2012,20:00,Ahli Al Khartoum,Al-Ahli Wad Madani,3,1,H,NaN,NaN,NaN
+SUD,28/07/2012,20:00,Al-Merrikh SC,Al-Nil Al-Hasahesa,3,0,H,NaN,NaN,NaN
+SUD,29/07/2012,20:00,Al Rabta Kosti,Al-Hilal Kadougli,2,1,H,NaN,NaN,NaN
+SUD,29/07/2012,20:00,Al-Hilal Port Sudan,Al Ahly Shendi,1,0,H,NaN,NaN,NaN
+SUD,29/07/2012,20:00,Khartoum 3,El Nsoor,0,2,A,NaN,NaN,NaN
+SUD,29/07/2012,20:00,Jazeerat Al-Feel,Al-Hilal Omdurman,0,3,A,NaN,NaN,NaN
+SUD,07/08/2012,20:00,Al-Nil Al-Hasahesa,Khartoum 3,1,1,D,NaN,NaN,NaN
+SUD,07/08/2012,20:00,Al-Hilal Port Sudan,Al-Mawrada,1,1,D,NaN,NaN,NaN
+SUD,07/08/2012,20:00,Alamal Atbara,Jazeerat Al-Feel,3,1,H,NaN,NaN,NaN
+SUD,07/08/2012,20:00,El Nsoor,Ahli Al Khartoum,1,3,A,NaN,NaN,NaN
+SUD,10/08/2012,20:00,Al-Hilal Omdurman,Al Rabta Kosti,3,1,H,NaN,NaN,NaN
+SUD,10/08/2012,20:00,Al Ahly Shendi,Al-Ahli Wad Madani,3,2,H,NaN,NaN,NaN
+SUD,24/08/2012,,Al-Hilal Kadougli,Al-Merrikh SC,0,2,A,NaN,NaN,NaN
+SUD,10/09/2012,17:30,Al-Hilal Port Sudan,Al-Hilal Kadougli,1,3,A,NaN,NaN,NaN
+SUD,10/09/2012,18:00,El Nsoor,Alamal Atbara,1,2,A,NaN,NaN,NaN
+SUD,10/09/2012,18:00,Jazeerat Al-Feel,Al Ahly Shendi,1,0,H,NaN,NaN,NaN
+SUD,11/09/2012,18:00,Ahli Al Khartoum,Al Rabta Kosti,2,1,H,NaN,NaN,NaN
+SUD,11/09/2012,18:00,Al-Ahli Wad Madani,Al-Nil Al-Hasahesa,2,1,H,NaN,NaN,NaN
+SUD,12/09/2012,18:00,Khartoum 3,Al-Merrikh SC,0,7,A,NaN,NaN,NaN
+SUD,16/09/2012,18:00,Al-Mawrada,Al-Hilal Omdurman,0,2,A,NaN,NaN,NaN
+SUD,17/09/2012,14:45,Al-Nil Al-Hasahesa,Ahli Al Khartoum,0,0,D,NaN,NaN,NaN
+SUD,17/09/2012,14:45,Al-Hilal Kadougli,Khartoum 3,0,1,A,NaN,NaN,NaN
+SUD,17/09/2012,18:00,Jazeerat Al-Feel,Al Rabta Kosti,0,0,D,NaN,NaN,NaN
+SUD,17/09/2012,18:00,Alamal Atbara,Al-Hilal Port Sudan,2,0,H,NaN,NaN,NaN
+SUD,20/09/2012,18:00,Al Ahly Shendi,El Nsoor,2,0,H,NaN,NaN,NaN
+SUD,20/09/2012,18:00,Al-Ahli Wad Madani,Al-Mawrada,1,1,D,NaN,NaN,NaN
+SUD,20/09/2012,18:00,Al-Merrikh SC,Al-Hilal Omdurman,1,1,D,NaN,NaN,NaN
+SUD,23/09/2012,18:00,El Nsoor,Al-Mawrada,2,0,H,NaN,NaN,NaN
+SUD,24/09/2012,18:00,Ahli Al Khartoum,Al-Hilal Kadougli,1,3,A,NaN,NaN,NaN
+SUD,24/09/2012,18:00,Al-Hilal Omdurman,Khartoum 3,2,2,D,NaN,NaN,NaN
+SUD,25/09/2012,18:00,Al-Nil Al-Hasahesa,Al Ahly Shendi,1,2,A,NaN,NaN,NaN
+SUD,25/09/2012,18:00,Al-Hilal Port Sudan,Al-Ahli Wad Madani,2,0,H,NaN,NaN,NaN
+SUD,26/09/2012,18:00,Al-Merrikh SC,Jazeerat Al-Feel,6,1,H,NaN,NaN,NaN
+SUD,30/10/2012,14:00,Al Rabta Kosti,Alamal Atbara,0,1,A,NaN,NaN,NaN
+SUD,28/09/2012,18:00,El Nsoor,Al Rabta Kosti,0,2,A,NaN,NaN,NaN
+SUD,30/09/2012,14:45,Al-Nil Al-Hasahesa,Jazeerat Al-Feel,1,1,D,NaN,NaN,NaN
+SUD,30/09/2012,18:00,Khartoum 3,Al-Hilal Port Sudan,2,1,H,NaN,NaN,NaN
+SUD,30/09/2012,18:00,Ahli Al Khartoum,Al-Mawrada,2,0,H,NaN,NaN,NaN
+SUD,30/09/2012,18:00,Al-Ahli Wad Madani,Al-Merrikh SC,1,2,A,NaN,NaN,NaN
+SUD,16/10/2012,18:00,Al-Hilal Omdurman,Al-Hilal Kadougli,3,1,H,NaN,NaN,NaN
+SUD,16/10/2012,18:00,Al Ahly Shendi,Alamal Atbara,1,0,H,NaN,NaN,NaN
+SUD,28/09/2012,18:00,Alamal Atbara,Al-Hilal Omdurman,0,0,D,NaN,NaN,NaN
+SUD,29/09/2012,18:00,Al-Mawrada,Al Ahly Shendi,1,0,H,NaN,NaN,NaN
+SUD,03/10/2012,18:00,Al-Ahli Wad Madani,Khartoum 3,0,2,A,NaN,NaN,NaN
+SUD,05/10/2012,15:00,Al Rabta Kosti,Al-Nil Al-Hasahesa,1,1,D,NaN,NaN,NaN
+SUD,06/10/2012,14:45,Al-Hilal Kadougli,Jazeerat Al-Feel,2,0,H,NaN,NaN,NaN
+SUD,16/10/2012,17:30,Al-Hilal Port Sudan,Ahli Al Khartoum,0,0,D,NaN,NaN,NaN
+SUD,16/10/2012,18:00,El Nsoor,Al-Merrikh SC,1,3,A,NaN,NaN,NaN
+SUD,24/10/2012,14:30,Al-Nil Al-Hasahesa,Al-Hilal Omdurman,0,2,A,NaN,NaN,NaN
+SUD,24/10/2012,17:30,Al-Merrikh SC,Al-Hilal Port Sudan,3,0,H,NaN,NaN,NaN
+SUD,24/10/2012,18:00,Al-Mawrada,Khartoum 3,2,1,H,NaN,NaN,NaN
+SUD,24/10/2012,18:00,Al Ahly Shendi,Ahli Al Khartoum,3,1,H,NaN,NaN,NaN
+SUD,25/10/2012,15:00,Al Rabta Kosti,Al-Ahli Wad Madani,0,0,D,NaN,NaN,NaN
+SUD,25/10/2012,18:00,Jazeerat Al-Feel,El Nsoor,1,2,A,NaN,NaN,NaN
+SUD,10/11/2012,13:45,Al-Hilal Kadougli,Alamal Atbara,0,0,D,NaN,NaN,NaN
+SUD,28/10/2012,16:30,Al-Hilal Port Sudan,Al-Hilal Omdurman,0,3,A,NaN,NaN,NaN
+SUD,03/11/2012,18:00,Al-Mawrada,Jazeerat Al-Feel,2,1,H,NaN,NaN,NaN
+SUD,04/11/2012,17:00,Khartoum 3,Alamal Atbara,4,1,H,NaN,NaN,NaN
+SUD,05/11/2012,13:45,Al-Nil Al-Hasahesa,El Nsoor,1,0,H,NaN,NaN,NaN
+SUD,05/11/2012,13:45,Al-Hilal Kadougli,Al-Ahli Wad Madani,1,0,H,NaN,NaN,NaN
+SUD,05/11/2012,14:00,Al Rabta Kosti,Al Ahly Shendi,2,1,H,NaN,NaN,NaN
+SUD,13/11/2012,17:00,Ahli Al Khartoum,Al-Merrikh SC,1,3,A,NaN,NaN,NaN
+SUD,09/11/2012,17:00,Khartoum 3,Ahli Al Khartoum,1,1,D,NaN,NaN,NaN
+SUD,10/11/2012,14:00,Al Rabta Kosti,Al-Mawrada,1,0,H,NaN,NaN,NaN
+SUD,10/11/2012,17:00,Jazeerat Al-Feel,Al-Hilal Port Sudan,0,2,A,NaN,NaN,NaN
+SUD,15/11/2012,13:45,Al-Hilal Kadougli,El Nsoor,1,0,H,NaN,NaN,NaN
+SUD,15/11/2012,17:00,Alamal Atbara,Al-Nil Al-Hasahesa,1,0,H,NaN,NaN,NaN
+SUD,19/11/2012,17:00,Al-Merrikh SC,Al Ahly Shendi,0,1,A,NaN,NaN,NaN
+SUD,19/11/2012,17:00,Al-Hilal Omdurman,Al-Ahli Wad Madani,3,1,H,NaN,NaN,NaN

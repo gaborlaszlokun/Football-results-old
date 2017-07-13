@@ -1,0 +1,30 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+UKR,01/04/2017,12:00,Dnipro Dnipropetrovsk,Zirka Kropyvnytskyi,1,0,H,1,0,H
+UKR,01/04/2017,15:00,Vorskla Poltava,Volyn Lutsk,2,0,H,1,0,H
+UKR,02/04/2017,12:00,Karpaty Lviv,FK Stal Kamjanske,2,0,H,2,0,H
+UKR,08/04/2017,12:00,FK Stal Kamjanske,Volyn Lutsk,2,0,H,0,0,D
+UKR,08/04/2017,15:00,Zirka Kropyvnytskyi,Vorskla Poltava,1,0,H,0,0,D
+UKR,09/04/2017,12:00,Karpaty Lviv,Dnipro Dnipropetrovsk,2,2,D,1,0,H
+UKR,15/04/2017,12:00,Vorskla Poltava,Karpaty Lviv,0,0,D,0,0,D
+UKR,15/04/2017,15:00,Dnipro Dnipropetrovsk,FK Stal Kamjanske,0,0,D,0,0,D
+UKR,16/04/2017,12:00,Volyn Lutsk,Zirka Kropyvnytskyi,1,0,H,1,0,H
+UKR,22/04/2017,15:00,Dnipro Dnipropetrovsk,Vorskla Poltava,2,0,H,1,0,H
+UKR,23/04/2017,12:00,FK Stal Kamjanske,Zirka Kropyvnytskyi,1,0,H,0,0,D
+UKR,23/04/2017,15:00,Karpaty Lviv,Volyn Lutsk,1,0,H,1,0,H
+UKR,29/04/2017,12:00,Zirka Kropyvnytskyi,Karpaty Lviv,3,2,H,3,1,H
+UKR,29/04/2017,15:00,Vorskla Poltava,FK Stal Kamjanske,2,0,H,2,0,H
+UKR,30/04/2017,12:00,Volyn Lutsk,Dnipro Dnipropetrovsk,0,1,A,0,0,D
+UKR,05/05/2017,17:00,Volyn Lutsk,Vorskla Poltava,0,1,A,0,1,A
+UKR,07/05/2017,12:00,FK Stal Kamjanske,Karpaty Lviv,2,1,H,0,1,A
+UKR,07/05/2017,15:00,Zirka Kropyvnytskyi,Dnipro Dnipropetrovsk,1,1,D,0,1,A
+UKR,12/05/2017,17:00,Volyn Lutsk,FK Stal Kamjanske,0,1,A,0,1,A
+UKR,14/05/2017,12:00,Vorskla Poltava,Zirka Kropyvnytskyi,1,1,D,1,0,H
+UKR,14/05/2017,17:30,Dnipro Dnipropetrovsk,Karpaty Lviv,2,3,A,0,0,D
+UKR,20/05/2017,12:00,Zirka Kropyvnytskyi,Volyn Lutsk,2,0,H,0,0,D
+UKR,20/05/2017,15:00,FK Stal Kamjanske,Dnipro Dnipropetrovsk,0,1,A,0,1,A
+UKR,21/05/2017,12:00,Karpaty Lviv,Vorskla Poltava,0,1,A,0,0,D
+UKR,27/05/2017,15:00,Zirka Kropyvnytskyi,FK Stal Kamjanske,0,1,A,0,0,D
+UKR,27/05/2017,15:00,Volyn Lutsk,Karpaty Lviv,0,1,A,0,1,A
+UKR,27/05/2017,15:00,Vorskla Poltava,Dnipro Dnipropetrovsk,1,0,H,0,0,D
+UKR,31/05/2017,15:00,FK Stal Kamjanske,Vorskla Poltava,0,0,D,0,0,D
+UKR,31/05/2017,15:00,Karpaty Lviv,Zirka Kropyvnytskyi,2,1,H,1,1,D

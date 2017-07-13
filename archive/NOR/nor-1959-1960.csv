@@ -1,0 +1,115 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+NOR,26/07/1959,,Sandefjord BK,SK Brann,2,2,D,NaN,NaN,NaN
+NOR,26/07/1959,,Greåker IF,Larvik Turn og IF,3,2,H,NaN,NaN,NaN
+NOR,26/07/1959,,IK Start,Viking FK,2,3,A,NaN,NaN,NaN
+NOR,26/07/1959,,Vålerenga IF,Lillestrøm SK,3,0,H,NaN,NaN,NaN
+NOR,26/07/1959,,SK Brage,Fredrikstad FK,0,4,A,NaN,NaN,NaN
+NOR,26/07/1959,,IF Odd,Raufoss IL,3,0,H,NaN,NaN,NaN
+NOR,26/07/1959,,Strømmen IF,Eik Tønsberg,1,2,A,NaN,NaN,NaN
+NOR,26/07/1959,,Rapid Moss,Skeid Oslo,1,2,A,NaN,NaN,NaN
+NOR,02/08/1959,,SK Brann,IK Start,2,1,H,NaN,NaN,NaN
+NOR,02/08/1959,,Larvik Turn og IF,Vålerenga IF,4,0,H,NaN,NaN,NaN
+NOR,02/08/1959,,Viking FK,Sandefjord BK,0,0,D,NaN,NaN,NaN
+NOR,02/08/1959,,Lillestrøm SK,Greåker IF,4,2,H,NaN,NaN,NaN
+NOR,02/08/1959,,Fredrikstad FK,Strømmen IF,5,2,H,NaN,NaN,NaN
+NOR,02/08/1959,,Raufoss IL,Rapid Moss,1,1,D,NaN,NaN,NaN
+NOR,02/08/1959,,Eik Tønsberg,SK Brage,2,1,H,NaN,NaN,NaN
+NOR,02/08/1959,,Skeid Oslo,IF Odd,4,2,H,NaN,NaN,NaN
+NOR,16/08/1959,,Greåker IF,SK Brann,0,1,A,NaN,NaN,NaN
+NOR,16/08/1959,,Vålerenga IF,Viking FK,2,1,H,NaN,NaN,NaN
+NOR,16/08/1959,,IK Start,Lillestrøm SK,0,0,D,NaN,NaN,NaN
+NOR,16/08/1959,,Sandefjord BK,Larvik Turn og IF,2,0,H,NaN,NaN,NaN
+NOR,16/08/1959,,SK Brage,Skeid Oslo,1,0,H,NaN,NaN,NaN
+NOR,16/08/1959,,Strømmen IF,Raufoss IL,4,0,H,NaN,NaN,NaN
+NOR,16/08/1959,,Rapid Moss,Fredrikstad FK,1,4,A,NaN,NaN,NaN
+NOR,16/08/1959,,IF Odd,Eik Tønsberg,0,1,A,NaN,NaN,NaN
+NOR,23/08/1959,,Sandefjord BK,IK Start,4,1,H,NaN,NaN,NaN
+NOR,23/08/1959,,SK Brann,Vålerenga IF,0,1,A,NaN,NaN,NaN
+NOR,23/08/1959,,Lillestrøm SK,Larvik Turn og IF,2,5,A,NaN,NaN,NaN
+NOR,23/08/1959,,Viking FK,Greåker IF,1,1,D,NaN,NaN,NaN
+NOR,23/08/1959,,Fredrikstad FK,Eik Tønsberg,4,1,H,NaN,NaN,NaN
+NOR,23/08/1959,,Skeid Oslo,Strømmen IF,1,1,D,NaN,NaN,NaN
+NOR,23/08/1959,,Raufoss IL,SK Brage,4,1,H,NaN,NaN,NaN
+NOR,23/08/1959,,IF Odd,Rapid Moss,5,0,H,NaN,NaN,NaN
+NOR,06/09/1959,,SK Brann,Lillestrøm SK,1,2,A,NaN,NaN,NaN
+NOR,06/09/1959,,Larvik Turn og IF,Viking FK,1,3,A,NaN,NaN,NaN
+NOR,06/09/1959,,IK Start,Greåker IF,3,1,H,NaN,NaN,NaN
+NOR,06/09/1959,,Vålerenga IF,Sandefjord BK,3,0,H,NaN,NaN,NaN
+NOR,06/09/1959,,Raufoss IL,Fredrikstad FK,2,3,A,NaN,NaN,NaN
+NOR,06/09/1959,,SK Brage,IF Odd,1,1,D,NaN,NaN,NaN
+NOR,06/09/1959,,Eik Tønsberg,Skeid Oslo,4,1,H,NaN,NaN,NaN
+NOR,06/09/1959,,Rapid Moss,Strømmen IF,2,3,A,NaN,NaN,NaN
+NOR,27/09/1959,,Greåker IF,Vålerenga IF,0,2,A,NaN,NaN,NaN
+NOR,27/09/1959,,Sandefjord BK,Lillestrøm SK,0,2,A,NaN,NaN,NaN
+NOR,27/09/1959,,IK Start,Larvik Turn og IF,0,2,A,NaN,NaN,NaN
+NOR,27/09/1959,,Strømmen IF,SK Brage,2,2,D,NaN,NaN,NaN
+NOR,27/09/1959,,Rapid Moss,Eik Tønsberg,2,2,D,NaN,NaN,NaN
+NOR,27/09/1959,,IF Odd,Fredrikstad FK,1,1,D,NaN,NaN,NaN
+NOR,27/09/1959,,Skeid Oslo,Raufoss IL,6,1,H,NaN,NaN,NaN
+NOR,24/04/1960,,Viking FK,SK Brann,1,1,D,NaN,NaN,NaN
+NOR,04/10/1959,,Larvik Turn og IF,SK Brann,3,0,H,NaN,NaN,NaN
+NOR,04/10/1959,,Vålerenga IF,IK Start,3,3,D,NaN,NaN,NaN
+NOR,04/10/1959,,SK Brage,Rapid Moss,0,1,A,NaN,NaN,NaN
+NOR,04/10/1959,,Fredrikstad FK,Skeid Oslo,1,5,A,NaN,NaN,NaN
+NOR,04/10/1959,,Eik Tønsberg,Raufoss IL,4,1,H,NaN,NaN,NaN
+NOR,25/10/1959,,Strømmen IF,IF Odd,0,1,A,NaN,NaN,NaN
+NOR,26/04/1960,,Greåker IF,Sandefjord BK,2,1,H,NaN,NaN,NaN
+NOR,04/05/1960,,Lillestrøm SK,Viking FK,1,0,H,NaN,NaN,NaN
+NOR,11/10/1959,,Viking FK,IK Start,5,1,H,NaN,NaN,NaN
+NOR,11/10/1959,,Lillestrøm SK,Vålerenga IF,2,1,H,NaN,NaN,NaN
+NOR,11/10/1959,,Larvik Turn og IF,Greåker IF,1,1,D,NaN,NaN,NaN
+NOR,11/10/1959,,SK Brann,Sandefjord BK,0,1,A,NaN,NaN,NaN
+NOR,11/10/1959,,Raufoss IL,IF Odd,1,2,A,NaN,NaN,NaN
+NOR,11/10/1959,,Eik Tønsberg,Strømmen IF,4,1,H,NaN,NaN,NaN
+NOR,11/10/1959,,Skeid Oslo,Rapid Moss,1,2,A,NaN,NaN,NaN
+NOR,11/10/1959,,Fredrikstad FK,SK Brage,1,1,D,NaN,NaN,NaN
+NOR,30/04/1960,,Greåker IF,Lillestrøm SK,1,1,D,NaN,NaN,NaN
+NOR,30/04/1960,,Vålerenga IF,Larvik Turn og IF,2,1,H,NaN,NaN,NaN
+NOR,30/04/1960,,Sandefjord BK,Viking FK,1,0,H,NaN,NaN,NaN
+NOR,01/05/1960,,IK Start,SK Brann,1,4,A,NaN,NaN,NaN
+NOR,01/05/1960,,IF Odd,Skeid Oslo,1,2,A,NaN,NaN,NaN
+NOR,01/05/1960,,SK Brage,Eik Tønsberg,1,2,A,NaN,NaN,NaN
+NOR,01/05/1960,,Rapid Moss,Raufoss IL,3,1,H,NaN,NaN,NaN
+NOR,01/05/1960,,Strømmen IF,Fredrikstad FK,0,3,A,NaN,NaN,NaN
+NOR,08/05/1960,,Viking FK,Vålerenga IF,4,0,H,NaN,NaN,NaN
+NOR,08/05/1960,,SK Brann,Greåker IF,0,3,A,NaN,NaN,NaN
+NOR,08/05/1960,,Larvik Turn og IF,Sandefjord BK,2,1,H,NaN,NaN,NaN
+NOR,08/05/1960,,Lillestrøm SK,IK Start,1,1,D,NaN,NaN,NaN
+NOR,08/05/1960,,Eik Tønsberg,IF Odd,5,1,H,NaN,NaN,NaN
+NOR,08/05/1960,,Fredrikstad FK,Rapid Moss,4,0,H,NaN,NaN,NaN
+NOR,08/05/1960,,Raufoss IL,Strømmen IF,0,1,A,NaN,NaN,NaN
+NOR,08/05/1960,,Skeid Oslo,SK Brage,1,0,H,NaN,NaN,NaN
+NOR,15/05/1960,,IK Start,Sandefjord BK,1,2,A,NaN,NaN,NaN
+NOR,15/05/1960,,Vålerenga IF,SK Brann,7,0,H,NaN,NaN,NaN
+NOR,15/05/1960,,Greåker IF,Viking FK,1,3,A,NaN,NaN,NaN
+NOR,15/05/1960,,Larvik Turn og IF,Lillestrøm SK,3,0,H,NaN,NaN,NaN
+NOR,15/05/1960,,SK Brage,Raufoss IL,2,2,D,NaN,NaN,NaN
+NOR,15/05/1960,,Eik Tønsberg,Fredrikstad FK,0,1,A,NaN,NaN,NaN
+NOR,15/05/1960,,Rapid Moss,IF Odd,1,1,D,NaN,NaN,NaN
+NOR,15/05/1960,,Strømmen IF,Skeid Oslo,0,0,D,NaN,NaN,NaN
+NOR,22/05/1960,,Lillestrøm SK,SK Brann,5,3,H,NaN,NaN,NaN
+NOR,22/05/1960,,Greåker IF,IK Start,5,0,H,NaN,NaN,NaN
+NOR,22/05/1960,,Viking FK,Larvik Turn og IF,3,2,H,NaN,NaN,NaN
+NOR,22/05/1960,,Sandefjord BK,Vålerenga IF,1,1,D,NaN,NaN,NaN
+NOR,22/05/1960,,Fredrikstad FK,Raufoss IL,1,1,D,NaN,NaN,NaN
+NOR,22/05/1960,,IF Odd,SK Brage,3,1,H,NaN,NaN,NaN
+NOR,22/05/1960,,Skeid Oslo,Eik Tønsberg,3,1,H,NaN,NaN,NaN
+NOR,22/05/1960,,Strømmen IF,Rapid Moss,1,2,A,NaN,NaN,NaN
+NOR,28/05/1960,,Vålerenga IF,Greåker IF,1,5,A,NaN,NaN,NaN
+NOR,28/05/1960,,Larvik Turn og IF,IK Start,5,1,H,NaN,NaN,NaN
+NOR,28/05/1960,,Lillestrøm SK,Sandefjord BK,4,1,H,NaN,NaN,NaN
+NOR,28/05/1960,,SK Brann,Viking FK,1,1,D,NaN,NaN,NaN
+NOR,29/05/1960,,SK Brage,Strømmen IF,3,4,A,NaN,NaN,NaN
+NOR,29/05/1960,,Eik Tønsberg,Rapid Moss,1,2,A,NaN,NaN,NaN
+NOR,29/05/1960,,Fredrikstad FK,IF Odd,5,2,H,NaN,NaN,NaN
+NOR,29/05/1960,,Raufoss IL,Skeid Oslo,4,4,D,NaN,NaN,NaN
+NOR,12/06/1960,,SK Brann,Larvik Turn og IF,4,1,H,NaN,NaN,NaN
+NOR,12/06/1960,,Viking FK,Lillestrøm SK,0,4,A,NaN,NaN,NaN
+NOR,12/06/1960,,IK Start,Vålerenga IF,0,1,A,NaN,NaN,NaN
+NOR,12/06/1960,,Sandefjord BK,Greåker IF,0,0,D,NaN,NaN,NaN
+NOR,12/06/1960,,IF Odd,Strømmen IF,2,3,A,NaN,NaN,NaN
+NOR,12/06/1960,,Skeid Oslo,Fredrikstad FK,0,4,A,NaN,NaN,NaN
+NOR,12/06/1960,,Rapid Moss,SK Brage,3,0,H,NaN,NaN,NaN
+NOR,12/06/1960,,Raufoss IL,Eik Tønsberg,2,1,H,NaN,NaN,NaN
+NOR,15/06/1960,,Fredrikstad FK,Lillestrøm SK,6,2,H,NaN,NaN,NaN
+NOR,16/06/1960,,Eik Tønsberg,Vålerenga IF,4,2,H,NaN,NaN,NaN
