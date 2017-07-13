@@ -15,7 +15,7 @@ Main attributes:
 - HalfTime Away Goals
 - HalfTime Result
 
-Countires:
+108 Countires:
 
 - Albania
 - Algeria
@@ -51,8 +51,8 @@ Countires:
 - Sweden
 - Turkey
 - Ukraine
+-....
 
-Used sources:
+Used source:
 
-- http://www.football-data.co.uk
 - http://www.worldfootball.net/
