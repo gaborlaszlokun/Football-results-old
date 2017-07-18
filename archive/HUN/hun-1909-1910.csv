@@ -1,0 +1,73 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+HUN,19/09/1909,,MTK,Budapesti AK,2,0,H,NoR,NoR,NoR
+HUN,12/09/1909,,Budapesti AK,Budapesti TC,2,1,H,NoR,NoR,NoR
+HUN,12/09/1909,,Terézvárosi TC,UTE,0,2,A,NoR,NoR,NoR
+HUN,12/09/1909,,MAC,Ferenczvárosi TC,0,4,A,NoR,NoR,NoR
+HUN,26/09/1909,,Ferenczvárosi TC,UTE,6,2,H,NoR,NoR,NoR
+HUN,26/09/1909,,MAC,Nemzeti SC,2,4,A,NoR,NoR,NoR
+HUN,19/09/1909,,Nemzeti SC,Törekvés SE,3,2,H,NoR,NoR,NoR
+HUN,19/09/1909,,Budapesti TC,Terézvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,10/10/1909,,Törekvés SE,MTK,1,1,D,NoR,NoR,NoR
+HUN,10/10/1909,,Ferenczvárosi TC,Budapesti TC,4,2,H,NoR,NoR,NoR
+HUN,03/10/1909,,MTK,Budapesti TC,2,1,H,NoR,NoR,NoR
+HUN,26/09/1909,,Budapesti AK,Terézvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,24/10/1909,,Nemzeti SC,Budapesti AK,2,1,H,NoR,NoR,NoR
+HUN,17/10/1909,,Nemzeti SC,Terézvárosi TC,1,0,H,NoR,NoR,NoR
+HUN,17/10/1909,,MAC,Törekvés SE,0,1,A,NoR,NoR,NoR
+HUN,10/10/1909,,Budapesti AK,UTE,1,0,H,NoR,NoR,NoR
+HUN,31/10/1909,,Törekvés SE,Terézvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,26/10/1909,,Budapesti AK,Ferenczvárosi TC,0,3,A,NoR,NoR,NoR
+HUN,24/10/1909,,UTE,Budapesti TC,1,2,A,NoR,NoR,NoR
+HUN,24/10/1909,,Ferenczvárosi TC,MTK,3,3,D,NoR,NoR,NoR
+HUN,14/11/1909,,Budapesti TC,MAC,2,1,H,NoR,NoR,NoR
+HUN,14/11/1909,,Terézvárosi TC,MTK,1,4,A,NoR,NoR,NoR
+HUN,14/11/1909,,Törekvés SE,Budapesti AK,1,2,A,NoR,NoR,NoR
+HUN,31/10/1909,,MAC,UTE,3,3,D,NoR,NoR,NoR
+HUN,28/11/1909,,Nemzeti SC,Budapesti TC,0,4,A,NoR,NoR,NoR
+HUN,28/11/1909,,Budapesti AK,MAC,1,3,A,NoR,NoR,NoR
+HUN,21/11/1909,,UTE,Törekvés SE,2,0,H,NoR,NoR,NoR
+HUN,21/11/1909,,Ferenczvárosi TC,Terézvárosi TC,6,0,H,NoR,NoR,NoR
+HUN,12/12/1909,,Budapesti TC,Törekvés SE,2,1,H,NoR,NoR,NoR
+HUN,05/12/1909,,MTK,UTE,3,1,H,NoR,NoR,NoR
+HUN,05/12/1909,,Nemzeti SC,Ferenczvárosi TC,1,0,H,NoR,NoR,NoR
+HUN,05/09/1909,,Törekvés SE,Ferenczvárosi TC,2,1,H,NoR,NoR,NoR
+HUN,08/12/1909,,Terézvárosi TC,MAC,1,2,A,NoR,NoR,NoR
+HUN,31/10/1909,,MTK,Nemzeti SC,4,2,H,NoR,NoR,NoR
+HUN,05/09/1909,,MTK,MAC,5,2,H,NoR,NoR,NoR
+HUN,05/09/1909,,Nemzeti SC,UTE,3,0,H,NoR,NoR,NoR
+HUN,23/02/1910,,Budapesti TC,Ferenczvárosi TC,3,5,A,NoR,NoR,NoR
+HUN,13/02/1910,,Terézvárosi TC,Budapesti AK,3,2,H,NoR,NoR,NoR
+HUN,13/02/1910,,Nemzeti SC,MTK,2,3,A,NoR,NoR,NoR
+HUN,13/02/1910,,UTE,Ferenczvárosi TC,1,3,A,NoR,NoR,NoR
+HUN,27/02/1910,,Budapesti TC,UTE,1,5,A,NoR,NoR,NoR
+HUN,20/02/1910,,Budapesti AK,Törekvés SE,1,0,H,NoR,NoR,NoR
+HUN,20/02/1910,,UTE,Nemzeti SC,0,1,A,NoR,NoR,NoR
+HUN,20/02/1910,,MTK,Terézvárosi TC,2,0,H,NoR,NoR,NoR
+HUN,06/03/1910,,Ferenczvárosi TC,MAC,2,1,H,NoR,NoR,NoR
+HUN,27/02/1910,,Terézvárosi TC,Nemzeti SC,2,1,H,NoR,NoR,NoR
+HUN,27/02/1910,,Budapesti AK,MTK,0,2,A,NoR,NoR,NoR
+HUN,27/02/1910,,Törekvés SE,MAC,1,2,A,NoR,NoR,NoR
+HUN,13/03/1910,,Budapesti TC,MTK,2,4,A,NoR,NoR,NoR
+HUN,06/03/1910,,UTE,MTK,2,0,H,NoR,NoR,NoR
+HUN,06/03/1910,,Budapesti AK,Nemzeti SC,4,1,H,NoR,NoR,NoR
+HUN,06/03/1910,,Terézvárosi TC,Törekvés SE,1,2,A,NoR,NoR,NoR
+HUN,20/03/1910,,Törekvés SE,Budapesti TC,2,1,H,NoR,NoR,NoR
+HUN,13/03/1910,,UTE,Budapesti AK,2,3,A,NoR,NoR,NoR
+HUN,13/03/1910,,MAC,Terézvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,13/03/1910,,Ferenczvárosi TC,Törekvés SE,4,0,H,NoR,NoR,NoR
+HUN,17/04/1910,,MTK,Törekvés SE,3,3,D,NoR,NoR,NoR
+HUN,17/04/1910,,Budapesti TC,Nemzeti SC,3,1,H,NoR,NoR,NoR
+HUN,03/04/1910,,UTE,Terézvárosi TC,0,4,A,NoR,NoR,NoR
+HUN,03/04/1910,,Ferenczvárosi TC,Nemzeti SC,2,0,H,NoR,NoR,NoR
+HUN,22/05/1910,,MAC,MTK,2,4,A,NoR,NoR,NoR
+HUN,22/05/1910,,Terézvárosi TC,Budapesti TC,3,3,D,NoR,NoR,NoR
+HUN,08/05/1910,15:00,Budapesti TC,Budapesti AK,0,1,A,NoR,NoR,NoR
+HUN,08/05/1910,,MTK,Ferenczvárosi TC,0,2,A,NoR,NoR,NoR
+HUN,29/05/1910,,Nemzeti SC,MAC,8,2,H,NoR,NoR,NoR
+HUN,29/05/1910,,Törekvés SE,UTE,1,3,A,NoR,NoR,NoR
+HUN,28/05/1910,,Ferenczvárosi TC,Budapesti AK,5,1,H,NoR,NoR,NoR
+HUN,17/04/1910,,Terézvárosi TC,Ferenczvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,05/05/1910,,Törekvés SE,Nemzeti SC,1,3,A,NoR,NoR,NoR
+HUN,01/05/1910,,UTE,MAC,3,2,H,NoR,NoR,NoR
+HUN,20/03/1910,,MAC,Budapesti AK,1,3,A,NoR,NoR,NoR
+HUN,13/02/1910,,MAC,Budapesti TC,2,5,A,NoR,NoR,NoR

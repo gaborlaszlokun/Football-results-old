@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+HUN,12/11/1911,,Budapesti TC,MTK,1,2,A,NoR,NoR,NoR
+HUN,03/09/1911,,MAC,33 FC,3,1,H,NoR,NoR,NoR
+HUN,03/09/1911,,Budapesti TC,III. Kerület,1,1,D,NoR,NoR,NoR
+HUN,03/09/1911,,Nemzeti SC,MTK,2,1,H,NoR,NoR,NoR
+HUN,03/09/1911,,Ferenczvárosi TC,Törekvés SE,2,1,H,NoR,NoR,NoR
+HUN,03/12/1911,,Budapesti TC,33 FC,2,3,A,NoR,NoR,NoR
+HUN,03/12/1911,,Budapesti AK,III. Kerület,2,1,H,NoR,NoR,NoR
+HUN,03/12/1911,,MTK,Törekvés SE,1,0,H,NoR,NoR,NoR
+HUN,03/12/1911,,Nemzeti SC,MAC,3,1,H,NoR,NoR,NoR
+HUN,12/09/1911,,Ferenczvárosi TC,III. Kerület,5,1,H,NoR,NoR,NoR
+HUN,12/11/1911,14:30,Budapesti AK,Nemzeti SC,2,2,D,NoR,NoR,NoR
+HUN,12/11/1911,,33 FC,Terézvárosi TC,2,2,D,NoR,NoR,NoR
+HUN,17/09/1911,,Terézvárosi TC,Nemzeti SC,2,1,H,NoR,NoR,NoR
+HUN,17/09/1911,,Törekvés SE,33 FC,0,1,A,NoR,NoR,NoR
+HUN,17/09/1911,,Ferenczvárosi TC,MAC,6,1,H,NoR,NoR,NoR
+HUN,03/12/1911,,Ferenczvárosi TC,Terézvárosi TC,6,0,H,NoR,NoR,NoR
+HUN,24/09/1911,,Nemzeti SC,III. Kerület,2,0,H,NoR,NoR,NoR
+HUN,24/09/1911,,MTK,Budapesti AK,2,2,D,NoR,NoR,NoR
+HUN,24/09/1911,,Budapesti TC,Törekvés SE,2,1,H,NoR,NoR,NoR
+HUN,24/09/1911,,Terézvárosi TC,MAC,1,0,H,NoR,NoR,NoR
+HUN,19/11/1911,,Ferenczvárosi TC,33 FC,5,0,H,NoR,NoR,NoR
+HUN,12/11/1911,,MAC,III. Kerület,1,0,H,NoR,NoR,NoR
+HUN,22/10/1911,,Terézvárosi TC,Budapesti TC,2,1,H,NoR,NoR,NoR
+HUN,01/10/1911,,Törekvés SE,Nemzeti SC,1,1,D,NoR,NoR,NoR
+HUN,01/10/1911,,MTK,33 FC,4,0,H,NoR,NoR,NoR
+HUN,08/12/1911,,Budapesti AK,Budapesti TC,3,2,H,NoR,NoR,NoR
+HUN,09/10/1911,,Budapesti TC,Ferenczvárosi TC,3,2,H,NoR,NoR,NoR
+HUN,08/10/1911,,MTK,MAC,1,1,D,NoR,NoR,NoR
+HUN,08/10/1911,,III. Kerület,33 FC,1,3,A,NoR,NoR,NoR
+HUN,08/09/1911,,MAC,Budapesti TC,1,1,D,NoR,NoR,NoR
+HUN,19/11/1911,14:30,Nemzeti SC,Budapesti TC,5,2,H,NoR,NoR,NoR
+HUN,19/11/1911,,Terézvárosi TC,Törekvés SE,1,0,H,NoR,NoR,NoR
+HUN,01/11/1911,,Törekvés SE,Budapesti AK,2,2,D,NoR,NoR,NoR
+HUN,22/10/1911,,Ferenczvárosi TC,Budapesti AK,4,1,H,NoR,NoR,NoR
+HUN,08/09/1911,,Budapesti AK,Terézvárosi TC,5,2,H,NoR,NoR,NoR
+HUN,08/12/1911,,MTK,Terézvárosi TC,2,0,H,NoR,NoR,NoR
+HUN,15/10/1911,,Terézvárosi TC,III. Kerület,0,1,A,NoR,NoR,NoR
+HUN,15/10/1911,,Törekvés SE,MAC,4,1,H,NoR,NoR,NoR
+HUN,15/10/1911,,33 FC,Budapesti AK,1,1,D,NoR,NoR,NoR
+HUN,10/10/1911,,Nemzeti SC,Ferenczvárosi TC,0,7,A,NoR,NoR,NoR
+HUN,27/11/1911,,Ferenczvárosi TC,MTK,0,0,D,NoR,NoR,NoR
+HUN,26/11/1911,14:00,33 FC,Nemzeti SC,0,3,A,NoR,NoR,NoR
+HUN,26/11/1911,14:00,Törekvés SE,III. Kerület,2,1,H,NoR,NoR,NoR
+HUN,26/11/1911,12:30,MAC,Budapesti AK,3,1,H,NoR,NoR,NoR
+HUN,01/11/1911,,MTK,III. Kerület,4,1,H,NoR,NoR,NoR
+HUN,17/03/1912,,III. Kerület,Nemzeti SC,4,3,H,NoR,NoR,NoR
+HUN,10/03/1912,,Terézvárosi TC,33 FC,1,0,H,NoR,NoR,NoR
+HUN,03/03/1912,,Budapesti TC,Budapesti AK,1,2,A,NoR,NoR,NoR
+HUN,04/02/1912,,Törekvés SE,MTK,2,0,H,NoR,NoR,NoR
+HUN,04/02/1912,,MAC,Ferenczvárosi TC,2,9,A,NoR,NoR,NoR
+HUN,01/05/1912,,33 FC,III. Kerület,3,0,H,NoR,NoR,NoR
+HUN,24/03/1912,,III. Kerület,Terézvárosi TC,5,1,H,NoR,NoR,NoR
+HUN,17/03/1912,,Ferenczvárosi TC,Budapesti TC,2,0,H,NoR,NoR,NoR
+HUN,18/02/1912,,33 FC,MTK,0,4,A,NoR,NoR,NoR
+HUN,18/02/1912,,Budapesti AK,Törekvés SE,3,1,H,NoR,NoR,NoR
+HUN,06/06/1912,,III. Kerület,Budapesti TC,0,2,A,NoR,NoR,NoR
+HUN,07/04/1912,,Nemzeti SC,Terézvárosi TC,0,3,A,NoR,NoR,NoR
+HUN,01/04/1912,,MTK,Ferenczvárosi TC,1,0,H,NoR,NoR,NoR
+HUN,17/03/1912,,33 FC,Törekvés SE,1,0,H,NoR,NoR,NoR
+HUN,10/03/1912,,Budapesti AK,MAC,1,0,H,NoR,NoR,NoR
+HUN,02/06/1912,,Budapesti TC,MAC,4,2,H,NoR,NoR,NoR
+HUN,18/05/1912,,Terézvárosi TC,Ferenczvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,24/03/1912,,Nemzeti SC,Törekvés SE,0,2,A,NoR,NoR,NoR
+HUN,24/03/1912,,Budapesti AK,Ferenczvárosi TC,3,5,A,NoR,NoR,NoR
+HUN,10/03/1912,,III. Kerület,MTK,1,0,H,NoR,NoR,NoR
+HUN,31/03/1912,,III. Kerület,Törekvés SE,1,2,A,NoR,NoR,NoR
+HUN,31/03/1912,,MAC,Nemzeti SC,3,1,H,NoR,NoR,NoR
+HUN,25/03/1912,,33 FC,Ferenczvárosi TC,0,4,A,NoR,NoR,NoR
+HUN,17/03/1912,,Terézvárosi TC,MTK,4,4,D,NoR,NoR,NoR
+HUN,02/02/1912,,Budapesti TC,Nemzeti SC,0,1,A,NoR,NoR,NoR
+HUN,06/06/1912,,MAC,Terézvárosi TC,6,2,H,NoR,NoR,NoR
+HUN,05/05/1912,,Budapesti TC,Terézvárosi TC,6,1,H,NoR,NoR,NoR
+HUN,21/04/1912,,MAC,Törekvés SE,3,0,H,NoR,NoR,NoR
+HUN,21/04/1912,,III. Kerület,Budapesti AK,2,1,H,NoR,NoR,NoR
+HUN,21/04/1912,,Nemzeti SC,33 FC,1,0,H,NoR,NoR,NoR
+HUN,03/10/1912,,III. Kerület,MAC,2,2,D,NoR,NoR,NoR
+HUN,28/04/1912,,MAC,MTK,5,1,H,NoR,NoR,NoR
+HUN,28/04/1912,,Törekvés SE,Terézvárosi TC,4,0,H,NoR,NoR,NoR
+HUN,28/04/1912,,Nemzeti SC,Budapesti AK,1,4,A,NoR,NoR,NoR
+HUN,28/04/1912,,33 FC,Budapesti TC,0,0,D,NoR,NoR,NoR
+HUN,09/06/1912,,MTK,Budapesti TC,0,1,A,NoR,NoR,NoR
+HUN,03/06/1912,,Törekvés SE,Ferenczvárosi TC,1,5,A,NoR,NoR,NoR
+HUN,30/05/1912,,Ferenczvárosi TC,Nemzeti SC,1,0,H,NoR,NoR,NoR
+HUN,26/05/1912,,33 FC,MAC,1,2,A,NoR,NoR,NoR
+HUN,19/05/1912,,Terézvárosi TC,Budapesti AK,2,0,H,NoR,NoR,NoR
+HUN,09/06/1912,,III. Kerület,Ferenczvárosi TC,3,11,H,NoR,NoR,NoR
+HUN,06/06/1912,,Budapesti AK,MTK,2,5,A,NoR,NoR,NoR
+HUN,19/05/1912,,MTK,Nemzeti SC,6,0,H,NoR,NoR,NoR
+HUN,19/05/1912,,Törekvés SE,Budapesti TC,2,0,H,NoR,NoR,NoR
+HUN,12/05/1912,,Budapesti AK,33 FC,1,0,H,NoR,NoR,NoR

@@ -1,0 +1,465 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+HUN,07/11/1945,14:00,Kőbányai Barátság,Szolnoki MÁV SE,3,3,D,NoR,NoR,NoR
+HUN,29/09/1945,15:30,Törekvés SE,Zuglói MaDISz,1,3,A,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Győri Vasas ETO,MTK,1,3,A,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Dorogi AC,Haladás VSE,3,3,D,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Csepeli MTK,Dózsa MaDISz,2,1,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Pécsi VSK,Szentlőrinci AC Barátság,4,2,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Diósgyőri VTK,Budai Barátság,3,1,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Újpesti TE,Kispesti AC,5,1,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,ErSo MaDISz,Vasas SC,3,8,A,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Herminamezei AC,Szegedi AK,2,4,A,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Békéscsabai Törekvés MTE,Salgótarjáni BTC,6,2,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Ferencvárosi TC,Újpesti MTE,5,1,H,NoR,NoR,NoR
+HUN,23/09/1945,15:30,Budafoki MTE,Erzsébeti MTK,3,2,H,NoR,NoR,NoR
+HUN,23/09/1945,15:00,Elektromos MSE,Debreceni VSC,2,3,A,NoR,NoR,NoR
+HUN,25/10/1945,15:00,Erzsébeti MTK,Csepeli MTK,1,3,A,NoR,NoR,NoR
+HUN,24/10/1945,15:00,Szentlőrinci AC Barátság,Kőbányai Barátság,13,0,H,NoR,NoR,NoR
+HUN,08/10/1945,15:30,Kispesti AC,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,07/10/1945,15:30,Szolnoki MÁV SE,Budafoki MTE,4,0,H,NoR,NoR,NoR
+HUN,07/10/1945,15:30,Dorogi AC,Pécsi VSK,1,3,A,NoR,NoR,NoR
+HUN,07/10/1945,15:30,Debreceni VSC,Herminamezei AC,4,4,D,NoR,NoR,NoR
+HUN,07/10/1945,15:30,Salgótarjáni BTC,Elektromos MSE,4,1,H,NoR,NoR,NoR
+HUN,07/10/1945,14:30,Szegedi AK,Újpesti TE,2,4,A,NoR,NoR,NoR
+HUN,06/10/1945,15:30,Budai Barátság,Törekvés SE,3,0,H,NoR,NoR,NoR
+HUN,06/10/1945,15:30,Vasas SC,Békéscsabai Törekvés MTE,6,2,H,NoR,NoR,NoR
+HUN,06/10/1945,15:30,MTK,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HUN,06/10/1945,15:30,Zuglói MaDISz,ErSo MaDISz,0,1,A,NoR,NoR,NoR
+HUN,06/10/1945,15:00,Újpesti MTE,Haladás VSE,4,1,H,NoR,NoR,NoR
+HUN,06/10/1945,13:30,Dózsa MaDISz,Győri Vasas ETO,1,1,D,NoR,NoR,NoR
+HUN,10/02/1946,14:30,Békéscsabai Törekvés MTE,Zuglói MaDISz,4,0,H,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Kőbányai Barátság,Dorogi AC,7,3,H,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Haladás VSE,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,14/10/1945,15:00,ErSo MaDISz,Budai Barátság,2,2,D,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Pécsi VSK,Újpesti MTE,0,0,D,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Budafoki MTE,Szentlőrinci AC Barátság,4,2,H,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Kispesti AC,Szegedi AK,6,0,H,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Csepeli MTK,Szolnoki MÁV SE,2,2,D,NoR,NoR,NoR
+HUN,14/10/1945,15:00,Újpesti TE,Debreceni VSC,4,1,H,NoR,NoR,NoR
+HUN,14/10/1945,15:00,MTK,Dózsa MaDISz,5,1,H,NoR,NoR,NoR
+HUN,14/10/1945,14:30,Győri Vasas ETO,Erzsébeti MTK,0,0,D,NoR,NoR,NoR
+HUN,14/10/1945,10:30,Törekvés SE,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,13/10/1945,15:30,Herminamezei AC,Salgótarjáni BTC,4,3,H,NoR,NoR,NoR
+HUN,10/10/1945,15:30,Elektromos MSE,Vasas SC,0,1,A,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Ferencvárosi TC,Pécsi VSK,3,0,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Haladás VSE,MTK,2,0,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Szentlőrinci AC Barátság,Csepeli MTK,2,4,A,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Újpesti MTE,Kőbányai Barátság,3,0,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Szolnoki MÁV SE,Győri Vasas ETO,1,2,A,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Erzsébeti MTK,Dózsa MaDISz,6,1,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Dorogi AC,Budafoki MTE,3,2,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Diósgyőri VTK,ErSo MaDISz,5,1,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Budai Barátság,Békéscsabai Törekvés MTE,3,2,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Törekvés SE,Kispesti AC,0,5,A,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Vasas SC,Herminamezei AC,5,2,H,NoR,NoR,NoR
+HUN,21/10/1945,15:00,Zuglói MaDISz,Elektromos MSE,0,0,D,NoR,NoR,NoR
+HUN,21/10/1945,14:00,Debreceni VSC,Szegedi AK,1,4,A,NoR,NoR,NoR
+HUN,21/10/1945,14:00,Salgótarjáni BTC,Újpesti TE,2,3,A,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Pécsi VSK,Haladás VSE,2,1,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Budafoki MTE,Újpesti MTE,3,3,D,NoR,NoR,NoR
+HUN,28/10/1945,15:00,MTK,Erzsébeti MTK,5,4,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Csepeli MTK,Dorogi AC,8,5,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Győri Vasas ETO,Szentlőrinci AC Barátság,1,2,A,NoR,NoR,NoR
+HUN,28/10/1945,15:00,ErSo MaDISz,Törekvés SE,2,1,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Szegedi AK,Salgótarjáni BTC,1,1,D,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Elektromos MSE,Budai Barátság,4,2,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Herminamezei AC,Zuglói MaDISz,2,0,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Békéscsabai Törekvés MTE,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Kispesti AC,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HUN,28/10/1945,15:00,Kőbányai Barátság,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,28/10/1945,14:30,Újpesti TE,Vasas SC,7,2,H,NoR,NoR,NoR
+HUN,28/10/1945,13:00,Dózsa MaDISz,Szolnoki MÁV SE,1,2,A,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Szolnoki MÁV SE,Erzsébeti MTK,3,0,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Zuglói MaDISz,Újpesti TE,2,4,A,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Törekvés SE,Békéscsabai Törekvés MTE,0,1,A,NoR,NoR,NoR
+HUN,01/11/1945,14:30,ErSo MaDISz,Kispesti AC,5,3,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Budai Barátság,Herminamezei AC,1,3,A,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Szentlőrinci AC Barátság,Dózsa MaDISz,6,2,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Vasas SC,Szegedi AK,3,1,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Pécsi VSK,MTK,2,5,A,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Újpesti MTE,Csepeli MTK,1,0,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Ferencvárosi TC,Budafoki MTE,5,2,H,NoR,NoR,NoR
+HUN,01/11/1945,14:30,Haladás VSE,Kőbányai Barátság,1,2,A,NoR,NoR,NoR
+HUN,01/11/1945,14:00,Diósgyőri VTK,Elektromos MSE,4,3,H,NoR,NoR,NoR
+HUN,01/11/1945,14:00,Dorogi AC,Győri Vasas ETO,3,1,H,NoR,NoR,NoR
+HUN,01/11/1945,12:30,Salgótarjáni BTC,Debreceni VSC,2,4,A,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Békéscsabai Törekvés MTE,ErSo MaDISz,2,2,D,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Szegedi AK,Zuglói MaDISz,3,0,H,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Kispesti AC,Salgótarjáni BTC,3,2,H,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Herminamezei AC,Diósgyőri VTK,0,0,D,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Újpesti TE,Budai Barátság,7,2,H,NoR,NoR,NoR
+HUN,11/11/1945,14:00,MTK,Szolnoki MÁV SE,1,0,H,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Debreceni VSC,Vasas SC,1,2,A,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Budafoki MTE,Haladás VSE,0,5,A,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Erzsébeti MTK,Szentlőrinci AC Barátság,1,4,A,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Kőbányai Barátság,Pécsi VSK,2,5,A,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Győri Vasas ETO,Újpesti MTE,3,2,H,NoR,NoR,NoR
+HUN,11/11/1945,14:00,Csepeli MTK,Ferencvárosi TC,1,0,H,NoR,NoR,NoR
+HUN,11/11/1945,12:00,Dózsa MaDISz,Dorogi AC,0,9,A,NoR,NoR,NoR
+HUN,11/11/1945,12:00,Elektromos MSE,Törekvés SE,8,0,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Budai Barátság,Szegedi AK,4,7,A,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Szentlőrinci AC Barátság,Szolnoki MÁV SE,2,2,D,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Ferencvárosi TC,Győri Vasas ETO,6,0,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Vasas SC,Salgótarjáni BTC,6,2,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Zuglói MaDISz,Debreceni VSC,1,1,D,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Törekvés SE,Herminamezei AC,0,2,A,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Békéscsabai Törekvés MTE,Kispesti AC,0,2,A,NoR,NoR,NoR
+HUN,18/11/1945,14:00,ErSo MaDISz,Elektromos MSE,6,1,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Kőbányai Barátság,MTK,0,0,D,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Pécsi VSK,Budafoki MTE,6,1,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Haladás VSE,Csepeli MTK,2,1,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Újpesti MTE,Dózsa MaDISz,7,1,H,NoR,NoR,NoR
+HUN,18/11/1945,14:00,Dorogi AC,Erzsébeti MTK,4,2,H,NoR,NoR,NoR
+HUN,18/11/1945,11:00,Diósgyőri VTK,Újpesti TE,3,4,A,NoR,NoR,NoR
+HUN,06/12/1945,13:30,Debreceni VSC,Budai Barátság,3,1,H,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Dózsa MaDISz,Ferencvárosi TC,0,11,A,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Újpesti TE,Törekvés SE,7,0,H,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Kispesti AC,Vasas SC,3,3,D,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Csepeli MTK,Pécsi VSK,3,0,H,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Elektromos MSE,Békéscsabai Törekvés MTE,5,1,H,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Szegedi AK,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Győri Vasas ETO,Haladás VSE,2,1,H,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Budafoki MTE,Kőbányai Barátság,0,0,D,NoR,NoR,NoR
+HUN,25/11/1945,14:00,Erzsébeti MTK,Újpesti MTE,2,0,H,NoR,NoR,NoR
+HUN,25/11/1945,13:30,Salgótarjáni BTC,Zuglói MaDISz,5,4,H,NoR,NoR,NoR
+HUN,25/11/1945,13:00,Szolnoki MÁV SE,Dorogi AC,6,1,H,NoR,NoR,NoR
+HUN,25/11/1945,12:00,MTK,Szentlőrinci AC Barátság,2,4,A,NoR,NoR,NoR
+HUN,25/11/1945,12:00,Herminamezei AC,ErSo MaDISz,4,0,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Elektromos MSE,Kispesti AC,4,3,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Budai Barátság,Salgótarjáni BTC,2,1,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Diósgyőri VTK,Debreceni VSC,3,2,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Zuglói MaDISz,Vasas SC,2,5,A,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Budafoki MTE,MTK,3,3,D,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Kőbányai Barátság,Csepeli MTK,1,2,A,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Pécsi VSK,Győri Vasas ETO,4,1,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Haladás VSE,Dózsa MaDISz,5,0,H,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Újpesti MTE,Szolnoki MÁV SE,0,1,A,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Dorogi AC,Szentlőrinci AC Barátság,4,4,D,NoR,NoR,NoR
+HUN,02/12/1945,13:30,Törekvés SE,Szegedi AK,2,9,A,NoR,NoR,NoR
+HUN,02/12/1945,13:30,ErSo MaDISz,Újpesti TE,0,6,A,NoR,NoR,NoR
+HUN,02/12/1945,11:00,Békéscsabai Törekvés MTE,Herminamezei AC,1,1,D,NoR,NoR,NoR
+HUN,02/12/1945,10:00,Ferencvárosi TC,Erzsébeti MTK,7,2,H,NoR,NoR,NoR
+HUN,12/12/1945,13:30,Salgótarjáni BTC,Diósgyőri VTK,4,0,H,NoR,NoR,NoR
+HUN,09/12/1945,14:00,Erzsébeti MTK,Haladás VSE,0,6,A,NoR,NoR,NoR
+HUN,09/12/1945,13:55,Dózsa MaDISz,Pécsi VSK,2,12,H,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Szolnoki MÁV SE,Ferencvárosi TC,0,2,A,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Debreceni VSC,Törekvés SE,8,1,H,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Szegedi AK,ErSo MaDISz,1,0,H,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Kispesti AC,Zuglói MaDISz,3,3,D,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Csepeli MTK,Budafoki MTE,10,3,A,NoR,NoR,NoR
+HUN,09/12/1945,13:30,Szentlőrinci AC Barátság,Újpesti MTE,0,2,A,NoR,NoR,NoR
+HUN,09/12/1945,13:15,Győri Vasas ETO,Kőbányai Barátság,6,0,H,NoR,NoR,NoR
+HUN,09/12/1945,12:30,Vasas SC,Budai Barátság,3,2,H,NoR,NoR,NoR
+HUN,09/12/1945,10:30,MTK,Dorogi AC,5,0,H,NoR,NoR,NoR
+HUN,09/12/1945,10:30,Herminamezei AC,Elektromos MSE,2,3,A,NoR,NoR,NoR
+HUN,27/11/1945,,Újpesti TE,Békéscsabai Törekvés MTE,11,0,H,NoR,NoR,NoR
+HUN,10/02/1946,14:30,Diósgyőri VTK,Vasas SC,3,2,H,NoR,NoR,NoR
+HUN,02/01/1946,13:30,Békéscsabai Törekvés MTE,Szegedi AK,2,4,A,NoR,NoR,NoR
+HUN,19/12/1945,13:30,ErSo MaDISz,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,16/12/1945,14:00,Budai Barátság,Zuglói MaDISz,3,2,H,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Újpesti MTE,Dorogi AC,2,2,D,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Haladás VSE,Szolnoki MÁV SE,1,1,D,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Pécsi VSK,Erzsébeti MTK,5,0,H,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Kőbányai Barátság,Dózsa MaDISz,8,2,H,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Csepeli MTK,MTK,2,2,D,NoR,NoR,NoR
+HUN,16/12/1945,13:30,Törekvés SE,Salgótarjáni BTC,2,1,H,NoR,NoR,NoR
+HUN,16/12/1945,13:00,Budafoki MTE,Győri Vasas ETO,2,2,D,NoR,NoR,NoR
+HUN,16/12/1945,12:00,Herminamezei AC,Kispesti AC,2,3,A,NoR,NoR,NoR
+HUN,16/12/1945,10:30,Ferencvárosi TC,Szentlőrinci AC Barátság,7,2,H,NoR,NoR,NoR
+HUN,16/12/1945,10:00,Elektromos MSE,Újpesti TE,2,4,A,NoR,NoR,NoR
+HUN,03/02/1946,13:30,Zuglói MaDISz,Diósgyőri VTK,2,2,D,NoR,NoR,NoR
+HUN,26/12/1945,13:30,Dózsa MaDISz,Budafoki MTE,5,1,H,NoR,NoR,NoR
+HUN,25/12/1945,10:30,MTK,Újpesti MTE,7,0,H,NoR,NoR,NoR
+HUN,24/12/1945,13:30,Debreceni VSC,Békéscsabai Törekvés MTE,6,1,H,NoR,NoR,NoR
+HUN,24/12/1945,13:30,Salgótarjáni BTC,ErSo MaDISz,2,2,D,NoR,NoR,NoR
+HUN,23/12/1945,14:00,Dorogi AC,Ferencvárosi TC,1,3,A,NoR,NoR,NoR
+HUN,23/12/1945,13:30,Újpesti TE,Herminamezei AC,9,1,H,NoR,NoR,NoR
+HUN,23/12/1945,13:30,Erzsébeti MTK,Kőbányai Barátság,3,4,A,NoR,NoR,NoR
+HUN,23/12/1945,13:30,Szentlőrinci AC Barátság,Haladás VSE,3,2,H,NoR,NoR,NoR
+HUN,23/12/1945,13:30,Vasas SC,Törekvés SE,6,0,H,NoR,NoR,NoR
+HUN,23/12/1945,13:15,Győri Vasas ETO,Csepeli MTK,4,1,H,NoR,NoR,NoR
+HUN,23/12/1945,13:00,Szegedi AK,Elektromos MSE,4,1,H,NoR,NoR,NoR
+HUN,23/12/1945,11:00,Szolnoki MÁV SE,Pécsi VSK,2,2,D,NoR,NoR,NoR
+HUN,13/12/1945,13:30,Kispesti AC,Budai Barátság,3,0,H,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Budai MSE,Elektromos MSE,2,4,A,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Diósgyőri VTK,Békéscsabai Törekvés MTE,1,1,D,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Debreceni VSC,Kispesti AC,2,1,H,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Törekvés SE,ErSo MaDISz,1,4,A,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Haladás VSE,Pécsi VSK,3,1,H,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Újpesti MTE,Budafoki MTE,2,0,H,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Szolnoki MÁV SE,Dózsa MaDISz,2,0,H,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Erzsébeti MTK,MTK,1,1,D,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Dorogi AC,Csepeli MTK,0,2,A,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Vasas SC,Újpesti TE,1,3,A,NoR,NoR,NoR
+HUN,17/02/1946,14:30,Zuglói MaDISz,Herminamezei AC,2,0,H,NoR,NoR,NoR
+HUN,17/02/1946,13:30,Szentlőrinci AC Barátság,Győri Vasas ETO,1,3,A,NoR,NoR,NoR
+HUN,17/02/1946,11:00,Salgótarjáni BTC,Szegedi AK,2,2,D,NoR,NoR,NoR
+HUN,16/02/1946,14:30,Ferencvárosi TC,Kőbányai Barátság,6,1,H,NoR,NoR,NoR
+HUN,24/02/1946,14:50,Kőbányai Barátság,Újpesti MTE,8,1,H,NoR,NoR,NoR
+HUN,24/02/1946,14:45,Kispesti AC,Törekvés SE,7,0,H,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Békéscsabai Törekvés MTE,Budai MSE,0,0,D,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Szegedi AK,Debreceni VSC,4,1,H,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Pécsi VSK,Ferencvárosi TC,1,4,A,NoR,NoR,NoR
+HUN,24/02/1946,14:30,MTK,Haladás VSE,6,4,H,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Herminamezei AC,Vasas SC,2,4,A,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Budafoki MTE,Dorogi AC,2,2,D,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Csepeli MTK,Szentlőrinci AC Barátság,4,4,D,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Győri Vasas ETO,Szolnoki MÁV SE,4,1,H,NoR,NoR,NoR
+HUN,24/02/1946,14:30,Dózsa MaDISz,Erzsébeti MTK,4,7,A,NoR,NoR,NoR
+HUN,24/02/1946,14:30,ErSo MaDISz,Diósgyőri VTK,5,0,H,NoR,NoR,NoR
+HUN,24/02/1946,14:00,Újpesti TE,Salgótarjáni BTC,9,1,H,NoR,NoR,NoR
+HUN,24/02/1946,12:30,Elektromos MSE,Zuglói MaDISz,2,3,A,NoR,NoR,NoR
+HUN,03/03/1946,15:45,Debreceni VSC,Újpesti TE,3,4,A,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Ferencvárosi TC,Haladás VSE,2,2,D,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Salgótarjáni BTC,Herminamezei AC,6,1,H,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Budai MSE,ErSo MaDISz,0,1,A,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Vasas SC,Elektromos MSE,0,3,A,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Dorogi AC,Kőbányai Barátság,5,4,H,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Szentlőrinci AC Barátság,Budafoki MTE,5,0,H,NoR,NoR,NoR
+HUN,03/03/1946,15:00,Újpesti MTE,Pécsi VSK,0,2,A,NoR,NoR,NoR
+HUN,03/03/1946,14:30,Diósgyőri VTK,Törekvés SE,3,0,H,NoR,NoR,NoR
+HUN,03/03/1946,14:30,Szegedi AK,Kispesti AC,2,0,H,NoR,NoR,NoR
+HUN,03/03/1946,14:30,Szolnoki MÁV SE,Csepeli MTK,0,0,D,NoR,NoR,NoR
+HUN,03/03/1946,14:00,Erzsébeti MTK,Győri Vasas ETO,1,1,D,NoR,NoR,NoR
+HUN,03/03/1946,12:30,Dózsa MaDISz,MTK,2,3,A,NoR,NoR,NoR
+HUN,03/03/1946,11:00,Zuglói MaDISz,Békéscsabai Törekvés MTE,3,1,H,NoR,NoR,NoR
+HUN,21/03/1946,15:45,Csepeli MTK,Erzsébeti MTK,5,1,H,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Újpesti TE,Szegedi AK,5,0,H,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Kőbányai Barátság,Szentlőrinci AC Barátság,4,3,H,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Ferencvárosi TC,MTK,3,0,H,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Herminamezei AC,Debreceni VSC,0,1,A,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Törekvés SE,Budai MSE,1,1,D,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Békéscsabai Törekvés MTE,Vasas SC,1,3,A,NoR,NoR,NoR
+HUN,10/03/1946,15:00,ErSo MaDISz,Zuglói MaDISz,4,5,A,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Diósgyőri VTK,Kispesti AC,1,1,D,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Pécsi VSK,Dorogi AC,0,2,A,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Haladás VSE,Újpesti MTE,0,0,D,NoR,NoR,NoR
+HUN,10/03/1946,15:00,Budafoki MTE,Szolnoki MÁV SE,2,1,H,NoR,NoR,NoR
+HUN,10/03/1946,14:30,Elektromos MSE,Salgótarjáni BTC,0,0,D,NoR,NoR,NoR
+HUN,10/03/1946,13:30,Győri Vasas ETO,Dózsa MaDISz,0,0,D,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Újpesti MTE,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Budai MSE,Diósgyőri VTK,1,3,A,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Vasas SC,ErSo MaDISz,6,1,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Szegedi AK,Herminamezei AC,2,5,A,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Zuglói MaDISz,Törekvés SE,11,0,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Debreceni VSC,Elektromos MSE,2,1,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Szolnoki MÁV SE,Kőbányai Barátság,1,1,D,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Salgótarjáni BTC,Békéscsabai Törekvés MTE,3,2,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Haladás VSE,Dorogi AC,3,1,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Szentlőrinci AC Barátság,Pécsi VSK,6,2,H,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Dózsa MaDISz,Csepeli MTK,0,4,A,NoR,NoR,NoR
+HUN,17/03/1946,15:30,Erzsébeti MTK,Budafoki MTE,2,1,H,NoR,NoR,NoR
+HUN,17/03/1946,13:30,MTK,Győri Vasas ETO,1,5,A,NoR,NoR,NoR
+HUN,16/03/1946,15:30,Kispesti AC,Újpesti TE,0,2,A,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Budafoki MTE,Ferencvárosi TC,2,6,A,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Dózsa MaDISz,Szentlőrinci AC Barátság,1,3,A,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Szegedi AK,Vasas SC,5,0,H,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Békéscsabai Törekvés MTE,Törekvés SE,5,1,H,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Kispesti AC,ErSo MaDISz,3,2,H,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Csepeli MTK,Újpesti MTE,4,0,H,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Debreceni VSC,Salgótarjáni BTC,0,0,D,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Újpesti TE,Zuglói MaDISz,3,2,H,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Győri Vasas ETO,Dorogi AC,1,2,A,NoR,NoR,NoR
+HUN,24/03/1946,15:30,Erzsébeti MTK,Szolnoki MÁV SE,4,3,H,NoR,NoR,NoR
+HUN,24/03/1946,15:00,Kőbányai Barátság,Haladás VSE,0,2,A,NoR,NoR,NoR
+HUN,24/03/1946,14:00,MTK,Pécsi VSK,3,0,H,NoR,NoR,NoR
+HUN,24/03/1946,12:00,Elektromos MSE,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,23/03/1946,15:30,Herminamezei AC,Budai MSE,3,2,H,NoR,NoR,NoR
+HUN,31/03/1946,15:30,ErSo MaDISz,Békéscsabai Törekvés MTE,3,1,H,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Ferencvárosi TC,Csepeli MTK,2,4,A,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Zuglói MaDISz,Szegedi AK,1,2,A,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Haladás VSE,Budafoki MTE,6,0,H,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Vasas SC,Debreceni VSC,3,3,D,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Pécsi VSK,Kőbányai Barátság,1,3,A,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Szentlőrinci AC Barátság,Erzsébeti MTK,1,2,A,NoR,NoR,NoR
+HUN,31/03/1946,15:30,Dorogi AC,Dózsa MaDISz,4,2,H,NoR,NoR,NoR
+HUN,31/03/1946,15:00,Szolnoki MÁV SE,MTK,4,4,D,NoR,NoR,NoR
+HUN,31/03/1946,15:00,Újpesti MTE,Győri Vasas ETO,3,0,H,NoR,NoR,NoR
+HUN,31/03/1946,14:30,Salgótarjáni BTC,Kispesti AC,1,0,H,NoR,NoR,NoR
+HUN,31/03/1946,11:00,Diósgyőri VTK,Herminamezei AC,3,2,H,NoR,NoR,NoR
+HUN,30/03/1946,16:00,Törekvés SE,Elektromos MSE,0,4,A,NoR,NoR,NoR
+HUN,30/03/1946,15:30,Budai MSE,Újpesti TE,0,10,A,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Újpesti TE,Diósgyőri VTK,4,0,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Herminamezei AC,Törekvés SE,2,0,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Kispesti AC,Békéscsabai Törekvés MTE,5,1,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Szolnoki MÁV SE,Szentlőrinci AC Barátság,4,6,A,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Erzsébeti MTK,Dorogi AC,4,1,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Debreceni VSC,Zuglói MaDISz,1,0,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Dózsa MaDISz,Újpesti MTE,0,3,A,NoR,NoR,NoR
+HUN,04/04/1946,16:00,MTK,Kőbányai Barátság,5,2,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Salgótarjáni BTC,Vasas SC,2,0,H,NoR,NoR,NoR
+HUN,04/04/1946,16:00,Budafoki MTE,Pécsi VSK,2,5,A,NoR,NoR,NoR
+HUN,04/04/1946,15:30,Szegedi AK,Budai MSE,0,0,D,NoR,NoR,NoR
+HUN,04/04/1946,15:00,Csepeli MTK,Haladás VSE,5,0,H,NoR,NoR,NoR
+HUN,04/04/1946,15:00,Győri Vasas ETO,Ferencvárosi TC,0,2,A,NoR,NoR,NoR
+HUN,04/04/1946,14:00,Elektromos MSE,ErSo MaDISz,0,1,A,NoR,NoR,NoR
+HUN,28/07/1946,17:00,Zuglói MaDISz,Salgótarjáni BTC,4,5,A,NoR,NoR,NoR
+HUN,14/04/1946,15:30,Diósgyőri VTK,Szegedi AK,1,1,D,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Kőbányai Barátság,Budafoki MTE,3,3,D,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Szentlőrinci AC Barátság,MTK,2,2,D,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Törekvés SE,Újpesti TE,0,5,A,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Vasas SC,Kispesti AC,3,0,H,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Békéscsabai Törekvés MTE,Elektromos MSE,1,1,D,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Dorogi AC,Szolnoki MÁV SE,4,2,H,NoR,NoR,NoR
+HUN,07/04/1946,16:00,ErSo MaDISz,Herminamezei AC,2,1,H,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Budai MSE,Debreceni VSC,1,2,A,NoR,NoR,NoR
+HUN,07/04/1946,16:00,Újpesti MTE,Erzsébeti MTK,0,1,A,NoR,NoR,NoR
+HUN,07/04/1946,15:00,Haladás VSE,Győri Vasas ETO,0,2,A,NoR,NoR,NoR
+HUN,07/04/1946,15:00,Pécsi VSK,Csepeli MTK,2,1,H,NoR,NoR,NoR
+HUN,15/03/1946,15:30,Ferencvárosi TC,Dózsa MaDISz,6,0,H,NoR,NoR,NoR
+HUN,28/04/1946,17:30,Herminamezei AC,Békéscsabai Törekvés MTE,4,1,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Debreceni VSC,Diósgyőri VTK,4,0,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Vasas SC,Zuglói MaDISz,6,1,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Újpesti TE,ErSo MaDISz,9,2,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Kispesti AC,Elektromos MSE,4,0,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Győri Vasas ETO,Pécsi VSK,5,2,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Szegedi AK,Törekvés SE,3,1,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Erzsébeti MTK,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,28/04/1946,16:30,Szentlőrinci AC Barátság,Dorogi AC,5,3,H,NoR,NoR,NoR
+HUN,28/04/1946,16:30,MTK,Budafoki MTE,5,1,H,NoR,NoR,NoR
+HUN,28/04/1946,16:00,Salgótarjáni BTC,Budai MSE,2,3,A,NoR,NoR,NoR
+HUN,28/04/1946,16:00,Szolnoki MÁV SE,Újpesti MTE,1,0,H,NoR,NoR,NoR
+HUN,28/04/1946,14:30,Dózsa MaDISz,Haladás VSE,1,4,A,NoR,NoR,NoR
+HUN,28/04/1946,14:30,Csepeli MTK,Kőbányai Barátság,2,3,A,NoR,NoR,NoR
+HUN,19/05/1946,17:00,Haladás VSE,Erzsébeti MTK,4,1,H,NoR,NoR,NoR
+HUN,01/05/1946,17:30,Ferencvárosi TC,Szolnoki MÁV SE,2,1,H,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Elektromos MSE,Herminamezei AC,3,2,H,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Diósgyőri VTK,Salgótarjáni BTC,1,0,H,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Budai MSE,Vasas SC,0,1,A,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Kőbányai Barátság,Győri Vasas ETO,4,2,H,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Budafoki MTE,Csepeli MTK,1,5,A,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Újpesti MTE,Szentlőrinci AC Barátság,2,5,A,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Pécsi VSK,Dózsa MaDISz,13,2,A,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Törekvés SE,Debreceni VSC,0,0,D,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Zuglói MaDISz,Kispesti AC,3,2,H,NoR,NoR,NoR
+HUN,01/05/1946,17:00,Dorogi AC,MTK,0,0,D,NoR,NoR,NoR
+HUN,01/05/1946,16:00,ErSo MaDISz,Szegedi AK,1,3,A,NoR,NoR,NoR
+HUN,25/04/1946,17:30,Békéscsabai Törekvés MTE,Újpesti TE,0,5,A,NoR,NoR,NoR
+HUN,05/05/1946,17:30,Szentlőrinci AC Barátság,Ferencvárosi TC,7,3,H,NoR,NoR,NoR
+HUN,05/05/1946,17:30,MTK,Csepeli MTK,2,3,A,NoR,NoR,NoR
+HUN,05/05/1946,17:30,Dorogi AC,Újpesti MTE,1,0,H,NoR,NoR,NoR
+HUN,05/05/1946,17:30,Zuglói MaDISz,Budai MSE,3,1,H,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Szolnoki MÁV SE,Haladás VSE,1,1,D,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Salgótarjáni BTC,Törekvés SE,1,0,H,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Vasas SC,Diósgyőri VTK,5,0,H,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Erzsébeti MTK,Pécsi VSK,0,0,D,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Kispesti AC,Herminamezei AC,4,0,H,NoR,NoR,NoR
+HUN,05/05/1946,17:00,Szegedi AK,Békéscsabai Törekvés MTE,2,1,H,NoR,NoR,NoR
+HUN,05/05/1946,16:00,Győri Vasas ETO,Budafoki MTE,4,0,H,NoR,NoR,NoR
+HUN,05/05/1946,16:00,Debreceni VSC,ErSo MaDISz,2,3,A,NoR,NoR,NoR
+HUN,05/05/1946,15:30,Dózsa MaDISz,Kőbányai Barátság,0,7,A,NoR,NoR,NoR
+HUN,18/04/1946,15:00,Újpesti TE,Elektromos MSE,10,0,H,NoR,NoR,NoR
+HUN,12/05/1946,17:55,Budafoki MTE,Dózsa MaDISz,3,1,H,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Ferencvárosi TC,Dorogi AC,8,2,H,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Kőbányai Barátság,Erzsébeti MTK,5,1,H,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Törekvés SE,Vasas SC,0,2,A,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Újpesti MTE,MTK,0,4,A,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Budai MSE,Kispesti AC,2,2,D,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Haladás VSE,Szentlőrinci AC Barátság,7,2,H,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Csepeli MTK,Győri Vasas ETO,4,4,D,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Pécsi VSK,Szolnoki MÁV SE,1,1,D,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Diósgyőri VTK,Zuglói MaDISz,2,2,D,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Békéscsabai Törekvés MTE,Debreceni VSC,3,6,A,NoR,NoR,NoR
+HUN,12/05/1946,17:00,Elektromos MSE,Szegedi AK,1,2,A,NoR,NoR,NoR
+HUN,12/05/1946,16:30,ErSo MaDISz,Salgótarjáni BTC,4,2,H,NoR,NoR,NoR
+HUN,12/05/1946,11:00,Herminamezei AC,Újpesti TE,2,3,A,NoR,NoR,NoR
+HUN,30/05/1946,,Haladás VSE,Vasas SC,0,0,D,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Csepeli MTK,Debreceni VSC,4,1,H,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Szentlőrinci AC Barátság,Kispesti AC,3,2,H,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Ferencvárosi TC,Szegedi AK,2,3,A,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Győri Vasas ETO,Zuglói MaDISz,0,0,D,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Pécsi VSK,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,19/05/1946,17:30,Kőbányai Barátság,ErSo MaDISz,3,4,A,NoR,NoR,NoR
+HUN,19/05/1946,17:00,Szolnoki MÁV SE,Elektromos MSE,1,1,D,NoR,NoR,NoR
+HUN,19/05/1946,15:30,MTK,Újpesti TE,1,3,A,NoR,NoR,NoR
+HUN,18/05/1946,17:00,Dorogi AC,Salgótarjáni BTC,1,2,A,NoR,NoR,NoR
+HUN,26/05/1946,17:45,ErSo MaDISz,Szolnoki MÁV SE,1,1,D,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Kispesti AC,Ferencvárosi TC,1,4,A,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Újpesti TE,Haladás VSE,5,1,H,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Szegedi AK,Csepeli MTK,5,2,H,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Elektromos MSE,Győri Vasas ETO,2,0,H,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Salgótarjáni BTC,Kőbányai Barátság,4,2,H,NoR,NoR,NoR
+HUN,26/05/1946,17:30,Diósgyőri VTK,Dorogi AC,1,1,D,NoR,NoR,NoR
+HUN,26/05/1946,17:00,Debreceni VSC,MTK,5,4,H,NoR,NoR,NoR
+HUN,26/05/1946,11:00,Zuglói MaDISz,Pécsi VSK,3,2,H,NoR,NoR,NoR
+HUN,25/05/1946,17:30,Vasas SC,Szentlőrinci AC Barátság,4,1,H,NoR,NoR,NoR
+HUN,09/06/1946,18:00,Ferencvárosi TC,Újpesti TE,1,1,D,NoR,NoR,NoR
+HUN,09/06/1946,17:30,Szegedi AK,Haladás VSE,0,0,D,NoR,NoR,NoR
+HUN,09/06/1946,17:30,Debreceni VSC,Szentlőrinci AC Barátság,6,2,H,NoR,NoR,NoR
+HUN,09/06/1946,17:30,Győri Vasas ETO,ErSo MaDISz,1,0,H,NoR,NoR,NoR
+HUN,09/06/1946,17:00,Pécsi VSK,Elektromos MSE,4,1,H,NoR,NoR,NoR
+HUN,09/06/1946,16:00,Vasas SC,Csepeli MTK,4,1,H,NoR,NoR,NoR
+HUN,08/06/1946,17:30,Kőbányai Barátság,Diósgyőri VTK,5,0,H,NoR,NoR,NoR
+HUN,08/06/1946,17:30,Kispesti AC,MTK,6,5,H,NoR,NoR,NoR
+HUN,02/06/1946,17:30,Szolnoki MÁV SE,Salgótarjáni BTC,2,0,H,NoR,NoR,NoR
+HUN,02/06/1946,17:30,Dorogi AC,Zuglói MaDISz,2,1,H,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Ferencvárosi TC,Vasas SC,2,4,A,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Szentlőrinci AC Barátság,Újpesti TE,1,0,H,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Haladás VSE,Debreceni VSC,0,0,D,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Csepeli MTK,Kispesti AC,7,3,H,NoR,NoR,NoR
+HUN,16/06/1946,18:00,ErSo MaDISz,Pécsi VSK,1,1,D,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Diósgyőri VTK,Szolnoki MÁV SE,1,0,H,NoR,NoR,NoR
+HUN,16/06/1946,18:00,Elektromos MSE,Dorogi AC,1,3,A,NoR,NoR,NoR
+HUN,16/06/1946,17:30,Salgótarjáni BTC,Győri Vasas ETO,0,0,D,NoR,NoR,NoR
+HUN,16/06/1946,16:00,MTK,Szegedi AK,3,1,H,NoR,NoR,NoR
+HUN,15/06/1946,18:00,Zuglói MaDISz,Kőbányai Barátság,4,3,H,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Szentlőrinci AC Barátság,Szegedi AK,2,2,D,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Kispesti AC,Haladás VSE,0,0,D,NoR,NoR,NoR
+HUN,20/06/1946,18:00,MTK,Vasas SC,3,1,H,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Csepeli MTK,Újpesti TE,1,4,A,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Kőbányai Barátság,Elektromos MSE,2,2,D,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Szolnoki MÁV SE,Zuglói MaDISz,5,2,H,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Dorogi AC,ErSo MaDISz,2,2,D,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Pécsi VSK,Salgótarjáni BTC,4,3,H,NoR,NoR,NoR
+HUN,20/06/1946,18:00,Győri Vasas ETO,Diósgyőri VTK,2,1,H,NoR,NoR,NoR
+HUN,20/06/1946,16:00,Ferencvárosi TC,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HUN,23/06/1946,18:20,Debreceni VSC,Csepeli MTK,7,5,H,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Kispesti AC,Szentlőrinci AC Barátság,7,2,H,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Vasas SC,Haladás VSE,0,0,D,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Újpesti TE,MTK,4,4,D,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Szegedi AK,Ferencvárosi TC,6,3,H,NoR,NoR,NoR
+HUN,23/06/1946,18:00,ErSo MaDISz,Kőbányai Barátság,4,0,H,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Salgótarjáni BTC,Dorogi AC,2,3,A,NoR,NoR,NoR
+HUN,23/06/1946,18:00,Diósgyőri VTK,Pécsi VSK,3,0,H,NoR,NoR,NoR
+HUN,23/06/1946,17:30,Elektromos MSE,Szolnoki MÁV SE,0,1,A,NoR,NoR,NoR
+HUN,23/06/1946,17:30,Zuglói MaDISz,Győri Vasas ETO,2,0,H,NoR,NoR,NoR
+HUN,28/07/1946,17:00,Győri Vasas ETO,Elektromos MSE,2,1,H,NoR,NoR,NoR
+HUN,10/07/1946,18:00,MTK,Debreceni VSC,6,1,H,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Ferencvárosi TC,Kispesti AC,2,2,D,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Haladás VSE,Újpesti TE,0,0,D,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Szentlőrinci AC Barátság,Vasas SC,1,3,A,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Szolnoki MÁV SE,ErSo MaDISz,3,1,H,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Csepeli MTK,Szegedi AK,6,4,H,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Kőbányai Barátság,Salgótarjáni BTC,5,0,H,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Pécsi VSK,Zuglói MaDISz,4,1,H,NoR,NoR,NoR
+HUN,30/06/1946,18:00,Dorogi AC,Diósgyőri VTK,1,1,D,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Debreceni VSC,Haladás VSE,0,0,D,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Elektromos MSE,Pécsi VSK,3,4,A,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Szegedi AK,MTK,1,2,A,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Kispesti AC,Csepeli MTK,5,4,H,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Újpesti TE,Szentlőrinci AC Barátság,9,0,H,NoR,NoR,NoR
+HUN,07/07/1946,18:00,ErSo MaDISz,Győri Vasas ETO,3,1,H,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Zuglói MaDISz,Dorogi AC,2,0,H,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Diósgyőri VTK,Kőbányai Barátság,2,1,H,NoR,NoR,NoR
+HUN,07/07/1946,18:00,Salgótarjáni BTC,Szolnoki MÁV SE,1,1,D,NoR,NoR,NoR
+HUN,06/07/1946,18:15,Vasas SC,Ferencvárosi TC,3,1,H,NoR,NoR,NoR
+HUN,28/07/1946,18:00,Haladás VSE,Szegedi AK,4,1,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Csepeli MTK,Vasas SC,4,3,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Újpesti TE,Ferencvárosi TC,2,2,D,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Szentlőrinci AC Barátság,Debreceni VSC,9,5,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Szolnoki MÁV SE,Diósgyőri VTK,1,0,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Pécsi VSK,ErSo MaDISz,2,1,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Győri Vasas ETO,Salgótarjáni BTC,1,0,H,NoR,NoR,NoR
+HUN,14/07/1946,18:00,Kőbányai Barátság,Zuglói MaDISz,0,3,A,NoR,NoR,NoR
+HUN,14/07/1946,17:00,Dorogi AC,Elektromos MSE,2,1,H,NoR,NoR,NoR
+HUN,13/07/1946,18:00,MTK,Kispesti AC,2,1,H,NoR,NoR,NoR
+HUN,21/07/1946,18:20,Zuglói MaDISz,Szolnoki MÁV SE,2,2,D,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Debreceni VSC,Ferencvárosi TC,2,1,H,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Szegedi AK,Szentlőrinci AC Barátság,6,3,H,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Haladás VSE,Kispesti AC,4,0,H,NoR,NoR,NoR
+HUN,21/07/1946,18:00,ErSo MaDISz,Dorogi AC,1,0,H,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Salgótarjáni BTC,Pécsi VSK,7,1,H,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Diósgyőri VTK,Győri Vasas ETO,1,3,A,NoR,NoR,NoR
+HUN,21/07/1946,18:00,Újpesti TE,Csepeli MTK,9,2,H,NoR,NoR,NoR
+HUN,20/07/1946,18:00,Vasas SC,MTK,2,1,H,NoR,NoR,NoR
+HUN,18/07/1946,18:00,Elektromos MSE,Kőbányai Barátság,4,1,H,NoR,NoR,NoR
