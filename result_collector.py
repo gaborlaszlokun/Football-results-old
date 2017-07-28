@@ -10,7 +10,6 @@ import bs4
 from django.utils.encoding import smart_str
 import os
 import pandas as pd
-from io import StringIO
 
 def format_result(result):
     result_line = ""
