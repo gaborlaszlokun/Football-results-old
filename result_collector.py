@@ -9,6 +9,8 @@ import urllib2
 import bs4
 from django.utils.encoding import smart_str
 import os
+import pandas as pd
+from io import StringIO
 
 def format_result(result):
     result_line = ""
@@ -32,7 +34,7 @@ def format_result(result):
             halftime = result[0]
     else:
         fulltime = result
-        half_line = "NaN,NaN,NaN\n"
+        half_line = "NaN,NaN,NaN"
     fulltime = fulltime.split(":")
     result_line += fulltime[0] + "," + fulltime[1]
     if fulltime[0] > fulltime[1]:
@@ -49,7 +51,7 @@ def format_result(result):
             halftime_letter = "A"
         else:
             halftime_letter = "D"
-        half_line = halftime[0] + "," + halftime[1] + "," + halftime_letter + "\n"
+        half_line = halftime[0] + "," + halftime[1] + "," + halftime_letter
     result_line += "," + fulltime_letter + "," + half_line
     return result_line
 
@@ -64,10 +66,93 @@ def format_filename(filename):
             was_num = True
         elif was_num is True:
             new_filename += "-" + filename_arr[i]
-#        if let.isdigit():
     new_filename += ".csv"
     return new_filename
 
+def get_results(url, where):
+    index = 0
+    filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
+    div = (filename.split("-")[0]).upper()
+    div = div.replace("BUNDESLIGA","GER")
+    filename = format_filename(filename)
+    
+    path = where + "/" + div
+    filename = path + "/" + filename
+    
+    columns = ['Div','Date','Time','HomeTeam','AwayTeam','FTHG','FTAG','FTR','HTHG','HTAG','HTR']
+    result_df = pd.DataFrame(columns=columns)
+    usock = urllib2.urlopen(url)
+    data = usock.read()
+    usock.close()     
+    soup = bs4.BeautifulSoup(data,"html.parser")   
+    table= soup.findAll('table', { "class" : "standard_tabelle" }) 
+    soup = bs4.BeautifulSoup(str(table[0]),"html.parser")
+    tr =  soup.findAll('tr')
+    
+    temptime = ""
+    for i in tr:
+        soup = bs4.BeautifulSoup(str(i),"html.parser")
+        try:
+            td = table= soup.findAll('td')
+            res = str(td[5].getText())
+            soup = bs4.BeautifulSoup(str(td[6]),"html.parser")
+            img = soup.findAll('img')
+            if "-" not in res and len(img) == 0:
+                result = ""
+                for char in res:
+                    if char.isdigit() or char == ":" or char == ",":
+                        result += char
+                    elif char == "(":
+                        result += "|"
+                if "/" in str(td[0].getText()):
+                    date = td[0].getText()
+                    temptime = date
+                else:
+                    date = temptime
+                if result != "":
+                    result = format_result(result).split(",")
+                    time = td[1].getText()
+                    homeTeam = td[2].getText()
+                    awayTeam = td[4].getText()
+                    fthg = result[0]
+                    ftag = result[1]
+                    ftr = result[2]
+                    hthg = result[3]
+                    htag = result[4]
+                    htr = result[5]
+                    result_line_df = pd.DataFrame([[div, date, time, homeTeam, awayTeam, fthg, ftag, ftr, hthg, htag, htr]], columns=columns, index = [index])
+                    index += 1
+                    result_df = result_df.append(result_line_df)
+            
+        except:
+            None
+    if result_df.empty is False:
+        if not os.path.exists(path):
+                os.makedirs(path)
+        result_df['Date'] =pd.to_datetime(result_df['Date'], dayfirst = [True])
+        result_df = result_df.sort_values(['Date', 'Time'], ascending=[True, True])
+        result_df.to_csv(filename, sep=',', encoding='utf-8', index=False)
+    
+def sort_links(links):
+    active = ""
+    archive = ""
+    for link in links:
+        usock = urllib2.urlopen(link)
+        data = usock.read()
+        usock.close()
+        if "-:-" in data:
+            active += link + "\n"
+        else:
+            archive += link + "\n"
+        print link
+    text = open("active_links.txt", "w")
+    text.write(active)
+    text.close()
+    text = open("archive_links.txt", "w")
+    text.write(archive)
+    text.close()
+            
+"""
 def get_results(url, where):
     
     filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
@@ -120,23 +205,4 @@ def get_results(url, where):
             text = open(filename, "w")
             text.write(full_results)
             text.close()
-
-def sort_links(links):
-    active = ""
-    archive = ""
-    for link in links:
-        usock = urllib2.urlopen(link)
-        data = usock.read()
-        usock.close()
-        if "-:-" in data:
-            active += link + "\n"
-        else:
-            archive += link + "\n"
-        print link
-    text = open("active_links.txt", "w")
-    text.write(active)
-    text.close()
-    text = open("archive_links.txt", "w")
-    text.write(archive)
-    text.close()
-            
+"""

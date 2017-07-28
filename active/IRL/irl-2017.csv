@@ -1,0 +1,136 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRL,2017-02-24,19:45,Bohemian FC,Derry City,1,4,A,0,2,A
+IRL,2017-02-24,19:45,Galway United,Drogheda United,0,1,A,0,0,D
+IRL,2017-02-24,19:45,St Patrick's Athletic,Bray Wanderers,1,2,A,0,1,A
+IRL,2017-02-24,19:45,Limerick FC,Sligo Rovers,5,1,H,3,0,H
+IRL,2017-02-24,20:00,Dundalk FC,Shamrock Rovers,2,1,H,1,0,H
+IRL,2017-02-24,20:00,Finn Harps,Cork City,0,1,A,0,1,A
+IRL,2017-03-03,19:30,Shamrock Rovers,Bohemian FC,2,1,H,0,0,D
+IRL,2017-03-03,19:45,Bray Wanderers,Finn Harps,5,3,H,3,1,H
+IRL,2017-03-03,19:45,Cork City,Galway United,4,0,H,1,0,H
+IRL,2017-03-03,19:45,Drogheda United,St Patrick's Athletic,2,0,H,0,0,D
+IRL,2017-03-04,19:45,Sligo Rovers,Dundalk FC,0,4,A,0,2,A
+IRL,2017-03-10,19:45,Bohemian FC,Bray Wanderers,3,2,H,0,0,D
+IRL,2017-03-10,19:45,Dundalk FC,Limerick FC,1,0,H,1,0,H
+IRL,2017-03-10,19:45,Sligo Rovers,St Patrick's Athletic,1,1,D,1,0,H
+IRL,2017-03-10,20:00,Drogheda United,Cork City,1,4,A,1,2,A
+IRL,2017-03-10,20:00,Finn Harps,Galway United,1,1,D,1,0,H
+IRL,2017-03-10,20:00,Shamrock Rovers,Derry City,0,1,A,0,0,D
+IRL,2017-03-13,19:00,Galway United,Shamrock Rovers,1,2,A,0,1,A
+IRL,2017-03-13,19:45,Bray Wanderers,Drogheda United,2,1,H,2,1,H
+IRL,2017-03-13,19:45,Cork City,Sligo Rovers,2,1,H,0,0,D
+IRL,2017-03-13,19:45,Derry City,Dundalk FC,3,1,H,1,1,D
+IRL,2017-03-13,19:45,Limerick FC,Bohemian FC,0,1,A,0,0,D
+IRL,2017-03-13,19:45,St Patrick's Athletic,Finn Harps,1,2,A,1,2,A
+IRL,2017-03-17,17:00,Shamrock Rovers,Cork City,1,2,A,1,1,D
+IRL,2017-03-17,19:45,Bohemian FC,Galway United,1,1,D,1,1,D
+IRL,2017-03-18,14:00,Limerick FC,Finn Harps,1,1,D,0,1,A
+IRL,2017-03-18,15:00,Derry City,Drogheda United,4,0,H,1,0,H
+IRL,2017-03-18,19:00,Dundalk FC,St Patrick's Athletic,3,0,H,1,0,H
+IRL,2017-03-18,19:45,Sligo Rovers,Bray Wanderers,3,2,H,2,2,D
+IRL,2017-03-25,15:00,Cork City,Dundalk FC,2,1,H,2,0,H
+IRL,2017-03-25,17:00,St Patrick's Athletic,Shamrock Rovers,2,1,H,0,1,A
+IRL,2017-03-25,17:30,Drogheda United,Bohemian FC,0,1,A,0,0,D
+IRL,2017-03-25,19:30,Bray Wanderers,Limerick FC,0,1,A,0,1,A
+IRL,2017-03-25,19:45,Finn Harps,Sligo Rovers,2,1,H,0,0,D
+IRL,2017-03-31,19:30,Dundalk FC,Drogheda United,3,1,H,2,1,H
+IRL,2017-03-31,19:45,Bohemian FC,St Patrick's Athletic,0,4,A,0,2,A
+IRL,2017-03-31,19:45,Limerick FC,Cork City,0,3,A,0,2,A
+IRL,2017-03-31,19:45,Derry City,Bray Wanderers,2,3,A,0,2,A
+IRL,2017-03-31,20:00,Shamrock Rovers,Finn Harps,3,2,H,2,0,H
+IRL,2017-04-03,19:45,Galway United,Sligo Rovers,1,1,D,1,1,D
+IRL,2017-04-07,19:30,Cork City,Derry City,3,0,H,1,0,H
+IRL,2017-04-07,19:45,Bray Wanderers,Galway United,1,0,H,1,0,H
+IRL,2017-04-07,19:45,Drogheda United,Shamrock Rovers,2,1,H,1,0,H
+IRL,2017-04-07,19:45,St Patrick's Athletic,Limerick FC,0,2,A,0,1,A
+IRL,2017-04-07,20:00,Finn Harps,Dundalk FC,0,2,A,0,1,A
+IRL,2017-04-08,19:45,Sligo Rovers,Bohemian FC,2,0,H,1,0,H
+IRL,2017-04-14,19:45,Bohemian FC,Cork City,0,2,A,0,1,A
+IRL,2017-04-14,19:45,Derry City,Finn Harps,0,2,A,0,1,A
+IRL,2017-04-14,19:45,Dundalk FC,Bray Wanderers,1,3,A,0,0,D
+IRL,2017-04-14,19:45,Galway United,St Patrick's Athletic,1,1,D,0,1,A
+IRL,2017-04-14,20:00,Shamrock Rovers,Sligo Rovers,1,0,H,0,0,D
+IRL,2017-04-15,18:30,Limerick FC,Drogheda United,3,0,H,2,0,H
+IRL,2017-04-21,19:45,Bray Wanderers,Shamrock Rovers,4,2,H,3,1,H
+IRL,2017-04-21,19:45,Dundalk FC,Bohemian FC,2,0,H,1,0,H
+IRL,2017-04-21,19:45,St Patrick's Athletic,Cork City,0,3,A,0,0,D
+IRL,2017-04-21,19:45,Limerick FC,Galway United,1,1,D,1,0,H
+IRL,2017-04-21,20:00,Finn Harps,Drogheda United,0,2,A,0,1,A
+IRL,2017-04-22,19:45,Sligo Rovers,Derry City,1,1,D,1,1,D
+IRL,2017-04-25,19:45,Derry City,Limerick FC,1,1,D,0,1,A
+IRL,2017-04-28,19:45,Bohemian FC,Finn Harps,2,0,H,1,0,H
+IRL,2017-04-28,19:45,Cork City,Bray Wanderers,2,1,H,1,0,H
+IRL,2017-04-28,19:45,Derry City,St Patrick's Athletic,2,2,D,1,1,D
+IRL,2017-04-28,19:45,Drogheda United,Sligo Rovers,1,1,D,1,1,D
+IRL,2017-04-28,19:45,Galway United,Dundalk FC,2,1,H,1,1,D
+IRL,2017-04-28,20:00,Shamrock Rovers,Limerick FC,1,1,D,1,0,H
+IRL,2017-05-05,19:45,Bray Wanderers,St Patrick's Athletic,1,1,D,1,0,H
+IRL,2017-05-05,19:45,Cork City,Finn Harps,5,0,H,1,0,H
+IRL,2017-05-05,19:45,Drogheda United,Galway United,2,2,D,1,0,H
+IRL,2017-05-05,19:45,Derry City,Bohemian FC,2,0,H,1,0,H
+IRL,2017-05-05,20:00,Shamrock Rovers,Dundalk FC,2,1,H,2,0,H
+IRL,2017-05-06,19:45,Sligo Rovers,Limerick FC,3,0,H,2,0,H
+IRL,2017-05-08,19:45,Galway United,Derry City,0,0,D,0,0,D
+IRL,2017-05-12,19:45,Bohemian FC,Shamrock Rovers,0,2,A,0,2,A
+IRL,2017-05-12,19:45,Dundalk FC,Sligo Rovers,4,0,H,0,0,D
+IRL,2017-05-12,19:45,Galway United,Cork City,1,1,D,0,0,D
+IRL,2017-05-12,19:45,St Patrick's Athletic,Drogheda United,2,0,H,1,0,H
+IRL,2017-05-12,20:00,Finn Harps,Bray Wanderers,0,3,A,0,2,A
+IRL,2017-05-13,18:30,Limerick FC,Derry City,1,1,D,0,0,D
+IRL,2017-05-19,19:45,Bray Wanderers,Bohemian FC,1,2,A,1,2,A
+IRL,2017-05-19,19:45,Cork City,Drogheda United,5,0,H,4,0,H
+IRL,2017-05-19,19:45,Derry City,Shamrock Rovers,3,1,H,2,1,H
+IRL,2017-05-19,19:45,Galway United,Finn Harps,2,1,H,0,1,A
+IRL,2017-05-19,19:45,St Patrick's Athletic,Sligo Rovers,1,1,D,1,0,H
+IRL,2017-05-19,19:45,Limerick FC,Dundalk FC,0,3,A,0,2,A
+IRL,2017-05-22,19:45,Sligo Rovers,Cork City,1,2,A,1,0,H
+IRL,2017-05-22,20:00,Finn Harps,St Patrick's Athletic,3,1,H,3,0,H
+IRL,2017-05-22,20:00,Shamrock Rovers,Galway United,2,0,H,1,0,H
+IRL,2017-05-23,19:45,Drogheda United,Bray Wanderers,0,0,D,0,0,D
+IRL,2017-05-23,19:45,Bohemian FC,Limerick FC,1,2,A,1,1,D
+IRL,2017-05-23,19:45,Dundalk FC,Derry City,0,0,D,0,0,D
+IRL,2017-05-26,19:45,Bray Wanderers,Sligo Rovers,2,2,D,2,1,H
+IRL,2017-05-26,19:45,Cork City,Shamrock Rovers,4,1,H,1,1,D
+IRL,2017-05-26,19:45,Drogheda United,Derry City,0,0,D,0,0,D
+IRL,2017-05-26,19:45,Galway United,Bohemian FC,1,2,A,0,2,A
+IRL,2017-05-26,19:45,St Patrick's Athletic,Dundalk FC,0,2,A,0,1,A
+IRL,2017-05-26,20:00,Finn Harps,Limerick FC,3,2,H,3,1,H
+IRL,2017-05-30,20:00,Shamrock Rovers,Bray Wanderers,2,0,H,2,0,H
+IRL,2017-06-02,19:30,Dundalk FC,Cork City,0,3,A,0,1,A
+IRL,2017-06-02,19:45,Bohemian FC,Drogheda United,0,0,D,0,0,D
+IRL,2017-06-02,19:45,Derry City,Galway United,2,1,H,2,1,H
+IRL,2017-06-02,19:45,Limerick FC,Bray Wanderers,5,3,H,3,2,H
+IRL,2017-06-02,19:45,Sligo Rovers,Finn Harps,0,0,D,0,0,D
+IRL,2017-06-02,20:00,Shamrock Rovers,St Patrick's Athletic,1,1,D,1,0,H
+IRL,2017-06-16,19:45,Bray Wanderers,Derry City,3,2,H,2,1,H
+IRL,2017-06-16,19:45,Drogheda United,Dundalk FC,0,6,A,0,3,A
+IRL,2017-06-16,19:45,St Patrick's Athletic,Bohemian FC,1,3,A,1,0,H
+IRL,2017-06-16,20:00,Cork City,Limerick FC,4,1,H,2,1,H
+IRL,2017-06-16,20:00,Finn Harps,Shamrock Rovers,0,1,A,0,1,A
+IRL,2017-06-17,19:45,Sligo Rovers,Galway United,1,1,D,1,1,D
+IRL,2017-06-23,19:45,Bohemian FC,Sligo Rovers,2,0,H,1,0,H
+IRL,2017-06-23,19:45,Derry City,Cork City,1,2,A,1,2,A
+IRL,2017-06-23,19:45,Galway United,Bray Wanderers,1,2,A,0,2,A
+IRL,2017-06-23,20:00,Dundalk FC,Finn Harps,4,0,H,0,0,D
+IRL,2017-06-23,20:00,Shamrock Rovers,Drogheda United,4,1,H,0,0,D
+IRL,2017-06-24,18:30,Limerick FC,St Patrick's Athletic,2,2,D,1,0,H
+IRL,2017-06-26,19:45,Dundalk FC,Galway United,2,0,H,1,0,H
+IRL,2017-06-30,19:45,Bray Wanderers,Dundalk FC,0,3,A,0,2,A
+IRL,2017-06-30,19:45,Drogheda United,Limerick FC,0,2,A,0,1,A
+IRL,2017-06-30,19:45,St Patrick's Athletic,Galway United,1,1,D,0,0,D
+IRL,2017-07-02,18:00,Sligo Rovers,Shamrock Rovers,1,0,H,1,0,H
+IRL,2017-07-05,19:45,Bohemian FC,Dundalk FC,0,1,A,0,0,D
+IRL,2017-07-07,19:45,Drogheda United,Finn Harps,0,2,A,0,1,A
+IRL,2017-07-07,19:45,Galway United,Limerick FC,3,1,H,2,0,H
+IRL,2017-07-09,14:00,Cork City,St Patrick's Athletic,1,0,H,1,0,H
+IRL,2017-07-09,14:30,Derry City,Sligo Rovers,4,0,H,1,0,H
+IRL,2017-07-14,19:45,St Patrick's Athletic,Derry City,2,1,H,0,1,A
+IRL,2017-07-14,20:00,Finn Harps,Bohemian FC,2,1,H,1,1,D
+IRL,2017-07-15,19:45,Sligo Rovers,Drogheda United,1,1,D,0,0,D
+IRL,2017-07-16,16:00,Bray Wanderers,Cork City,0,2,A,0,1,A
+IRL,2017-07-21,19:45,Bohemian FC,Derry City,0,1,A,0,1,A
+IRL,2017-07-21,19:45,Galway United,Drogheda United,4,1,H,2,0,H
+IRL,2017-07-21,20:00,St Patrick's Athletic,Bray Wanderers,3,1,H,0,1,A
+IRL,2017-07-22,18:30,Limerick FC,Sligo Rovers,0,0,D,0,0,D
+IRL,2017-07-23,17:00,Dundalk FC,Shamrock Rovers,0,1,A,0,1,A
+IRL,2017-07-24,20:00,Finn Harps,Derry City,0,2,A,0,0,D

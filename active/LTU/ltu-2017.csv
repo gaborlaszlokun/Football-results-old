@@ -1,0 +1,71 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+LTU,2017-03-03,17:30,FK Trakai,FC Stumbras,1,0,H,0,0,D
+LTU,2017-03-04,11:00,FK Atlantas,FK Žalgiris,1,2,A,0,2,A
+LTU,2017-03-04,13:00,FK Sūduva,FK Lietava Jonava,3,3,D,1,1,D
+LTU,2017-03-09,16:00,FC Stumbras,FK Sūduva,1,2,A,1,0,H
+LTU,2017-03-11,11:00,Kauno Žalgiris,FK Atlantas,0,1,A,0,1,A
+LTU,2017-03-12,11:00,FK Lietava Jonava,FK Trakai,0,0,D,0,0,D
+LTU,2017-03-12,17:30,FK Žalgiris,Utenis Utena,0,1,A,0,1,A
+LTU,2017-03-15,16:00,FK Atlantas,FC Stumbras,4,1,H,2,0,H
+LTU,2017-03-16,16:00,FK Sūduva,FK Trakai,1,1,D,1,0,H
+LTU,2017-03-16,17:30,FK Žalgiris,Kauno Žalgiris,1,0,H,0,0,D
+LTU,2017-03-18,11:00,Utenis Utena,FK Lietava Jonava,1,1,D,1,1,D
+LTU,2017-03-29,16:00,FK Trakai,FK Žalgiris,0,1,A,0,0,D
+LTU,2017-03-30,16:00,FC Stumbras,Utenis Utena,1,1,D,0,1,A
+LTU,2017-03-30,18:00,FK Sūduva,FK Atlantas,0,0,D,0,0,D
+LTU,2017-04-01,11:00,FK Lietava Jonava,Kauno Žalgiris,5,2,H,2,0,H
+LTU,2017-04-04,16:00,FK Atlantas,FK Trakai,1,1,D,0,0,D
+LTU,2017-04-05,16:00,Kauno Žalgiris,FC Stumbras,0,0,D,0,0,D
+LTU,2017-04-05,18:00,FK Žalgiris,FK Lietava Jonava,2,1,H,0,0,D
+LTU,2017-04-09,11:00,Utenis Utena,FK Sūduva,2,4,A,0,2,A
+LTU,2017-04-12,15:00,FK Lietava Jonava,FK Atlantas,0,2,A,0,1,A
+LTU,2017-04-12,16:00,FC Stumbras,FK Žalgiris,1,3,A,0,0,D
+LTU,2017-04-13,16:00,FK Sūduva,Kauno Žalgiris,3,1,H,2,1,H
+LTU,2017-04-13,18:00,FK Trakai,Utenis Utena,1,0,H,0,0,D
+LTU,2017-04-17,11:00,Utenis Utena,Kauno Žalgiris,1,0,H,0,0,D
+LTU,2017-04-19,16:00,FC Stumbras,FK Lietava Jonava,1,0,H,1,0,H
+LTU,2017-04-19,18:00,FK Žalgiris,FK Sūduva,3,1,H,2,1,H
+LTU,2017-04-20,16:00,Utenis Utena,FK Atlantas,0,3,A,0,1,A
+LTU,2017-04-20,18:00,Kauno Žalgiris,FK Trakai,1,1,D,0,0,D
+LTU,2017-04-25,16:00,Utenis Utena,FK Žalgiris,0,4,A,0,1,A
+LTU,2017-04-25,18:00,FK Sūduva,FC Stumbras,2,0,H,2,0,H
+LTU,2017-04-26,16:00,FK Atlantas,Kauno Žalgiris,3,1,H,2,1,H
+LTU,2017-04-26,18:00,FK Trakai,FK Lietava Jonava,1,0,H,1,0,H
+LTU,2017-04-29,11:00,FK Lietava Jonava,FK Sūduva,1,4,A,0,1,A
+LTU,2017-04-29,13:00,FC Stumbras,FK Trakai,1,1,D,0,1,A
+LTU,2017-04-30,15:00,Kauno Žalgiris,Utenis Utena,0,1,A,0,1,A
+LTU,2017-04-30,16:30,FK Žalgiris,FK Atlantas,1,0,H,1,0,H
+LTU,2017-05-03,16:00,Utenis Utena,FK Trakai,1,0,H,0,0,D
+LTU,2017-05-03,18:00,FK Žalgiris,FC Stumbras,4,1,H,3,0,H
+LTU,2017-05-04,16:00,Kauno Žalgiris,FK Lietava Jonava,1,3,A,0,1,A
+LTU,2017-05-04,18:00,FK Atlantas,FK Sūduva,1,1,D,0,1,A
+LTU,2017-05-10,16:00,FK Lietava Jonava,FK Žalgiris,0,2,A,0,2,A
+LTU,2017-05-10,18:00,FK Trakai,FK Atlantas,4,1,H,2,1,H
+LTU,2017-05-11,16:00,FK Sūduva,Utenis Utena,2,1,H,1,1,D
+LTU,2017-05-11,18:00,FC Stumbras,Kauno Žalgiris,3,0,H,0,0,D
+LTU,2017-05-16,16:00,Kauno Žalgiris,FK Sūduva,0,2,A,0,1,A
+LTU,2017-05-16,18:00,FK Žalgiris,FK Trakai,1,1,D,1,0,H
+LTU,2017-05-17,16:00,Utenis Utena,FC Stumbras,0,0,D,0,0,D
+LTU,2017-05-17,18:00,FK Atlantas,FK Lietava Jonava,0,1,A,0,0,D
+LTU,2017-05-23,16:00,FK Lietava Jonava,Utenis Utena,1,0,H,1,0,H
+LTU,2017-05-23,18:00,FK Trakai,Kauno Žalgiris,4,1,H,1,1,D
+LTU,2017-05-24,16:00,FK Sūduva,FK Žalgiris,0,0,D,0,0,D
+LTU,2017-05-24,18:00,FC Stumbras,FK Atlantas,1,1,D,0,1,A
+LTU,2017-05-31,16:00,FK Lietava Jonava,FC Stumbras,1,2,A,0,1,A
+LTU,2017-05-31,18:00,FK Trakai,FK Sūduva,2,0,H,1,0,H
+LTU,2017-06-01,16:00,Kauno Žalgiris,FK Žalgiris,2,0,H,1,0,H
+LTU,2017-06-01,18:00,FK Atlantas,Utenis Utena,2,2,D,1,2,A
+LTU,2017-06-14,16:00,FK Žalgiris,FK Atlantas,3,0,H,1,0,H
+LTU,2017-06-14,18:00,FC Stumbras,FK Trakai,0,0,D,0,0,D
+LTU,2017-06-15,16:00,Utenis Utena,Kauno Žalgiris,0,0,D,0,0,D
+LTU,2017-06-15,18:00,FK Sūduva,FK Lietava Jonava,1,1,D,1,0,H
+LTU,2017-06-20,16:00,FK Lietava Jonava,FK Žalgiris,1,2,A,1,1,D
+LTU,2017-06-20,18:00,FC Stumbras,Kauno Žalgiris,0,1,A,0,0,D
+LTU,2017-06-21,16:00,FK Sūduva,FK Atlantas,1,1,D,0,0,D
+LTU,2017-06-21,18:00,FK Trakai,Utenis Utena,3,0,H,2,0,H
+LTU,2017-07-22,15:00,Kauno Žalgiris,FK Lietava Jonava,1,0,H,0,0,D
+LTU,2017-07-22,17:00,FK Žalgiris,FC Stumbras,1,0,H,1,0,H
+LTU,2017-07-23,16:00,Utenis Utena,FK Sūduva,1,0,H,0,0,D
+LTU,2017-07-23,18:00,FK Atlantas,FK Trakai,0,1,A,0,0,D
+LTU,2017-07-25,16:00,Kauno Žalgiris,FK Žalgiris,1,1,D,1,1,D
+LTU,2017-07-26,16:00,Utenis Utena,FK Atlantas,1,1,D,0,1,A
