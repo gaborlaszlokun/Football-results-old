@@ -53,15 +53,29 @@ def format_result(result):
     result_line += "," + fulltime_letter + "," + half_line
     return result_line
 
-
+def format_filename(filename):
+    filename = filename.replace("bundesliga","ger")
+    new_filename = filename[:3]
+    filename_arr = filename[3:].split("-")
+    was_num = False
+    for i in range(len(filename_arr)):
+        if filename_arr[i].isdigit() and len(filename_arr[i]) == 4:
+            new_filename += "-" + filename_arr[i]
+            was_num = True
+        elif was_num is True:
+            new_filename += "-" + filename_arr[i]
+#        if let.isdigit():
+    new_filename += ".csv"
+    return new_filename
 
 def get_results(url, where):
     
     filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
     country_short = (filename.split("-")[0]).upper()
+    country_short = country_short.replace("BUNDESLIGA","GER")
+    filename = format_filename(filename)
+    
     path = where + "/" + country_short
-    if not os.path.exists(path):
-        os.makedirs(path)
     filename = path + "/" + filename + ".csv"
     full_results = "Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR\n"
     usock = urllib2.urlopen(url)
@@ -80,7 +94,9 @@ def get_results(url, where):
         try:
             td = table= soup.findAll('td')
             res = str(td[5].getText())
-            if "-" not in res:
+            soup = bs4.BeautifulSoup(str(td[6]),"html.parser")
+            img = soup.findAll('img')
+            if "-" not in res and len(img) == 0:
                 result = ""
                 for char in res:
                     if char.isdigit() or char == ":" or char == ",":
@@ -98,9 +114,12 @@ def get_results(url, where):
                     full_results += smart_str(line)
         except:
             None
-        text = open(filename, "w")
-        text.write(full_results)
-        text.close()
+        if full_results != "Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR\n":
+            if not os.path.exists(path):
+                os.makedirs(path)
+            text = open(filename, "w")
+            text.write(full_results)
+            text.close()
 
 def sort_links(links):
     active = ""

@@ -1,0 +1,313 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IRQ,15/09/2016,13:45,Al Kahraba,Al Zawraa,0,2,A,NaN,NaN,NaN
+IRQ,15/09/2016,13:45,Al Minaa,Al Hussein,3,1,H,NaN,NaN,NaN
+IRQ,15/09/2016,13:45,Al Najaf,Al Bahri,1,0,H,NaN,NaN,NaN
+IRQ,15/09/2016,16:00,Al Talaba,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,16/09/2016,13:45,Al Hedood,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,16/09/2016,13:45,Naft Al Wasat,Al Naft,2,2,D,NaN,NaN,NaN
+IRQ,16/09/2016,13:45,Baghdad FC,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,16/09/2016,13:45,Naft Maysan,Naft Al Janoob,1,1,D,NaN,NaN,NaN
+IRQ,28/01/2017,11:00,Zakho,Al Quwa Al Jawiya,0,3,A,NaN,NaN,NaN
+IRQ,20/09/2016,13:45,Al Hussein,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,20/09/2016,13:45,Naft Al Janoob,Al Karkh SC,1,1,D,NaN,NaN,NaN
+IRQ,20/09/2016,13:45,Al Semawah,Naft Al Wasat,0,1,A,NaN,NaN,NaN
+IRQ,20/09/2016,13:45,Al Naft,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,20/09/2016,16:00,Al Zawraa,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,21/09/2016,13:45,Al Bahri,Al Minaa,2,1,H,NaN,NaN,NaN
+IRQ,21/09/2016,13:45,Baghdad FC,Naft Maysan,2,1,H,NaN,NaN,NaN
+IRQ,21/09/2016,13:45,Karbalaa FC,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,04/02/2017,11:00,Al Quwa Al Jawiya,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,25/09/2016,13:45,Al Talaba,Al Hussein,1,0,H,NaN,NaN,NaN
+IRQ,25/09/2016,13:45,Al Shorta,Al Bahri,2,1,H,NaN,NaN,NaN
+IRQ,25/09/2016,13:45,Al Kahraba,Karbalaa FC,2,2,D,NaN,NaN,NaN
+IRQ,26/09/2016,13:45,Al Minaa,Al Naft,1,0,H,NaN,NaN,NaN
+IRQ,26/09/2016,13:45,Naft Al Wasat,Naft Maysan,2,0,H,NaN,NaN,NaN
+IRQ,26/09/2016,13:45,Al Karkh SC,Baghdad FC,0,1,A,NaN,NaN,NaN
+IRQ,27/09/2016,13:30,Al Najaf,Al Semawah,2,2,D,NaN,NaN,NaN
+IRQ,27/09/2016,13:30,Al Hedood,Naft Al Janoob,0,1,A,NaN,NaN,NaN
+IRQ,10/02/2017,15:00,Al Quwa Al Jawiya,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,15/10/2016,13:30,Al Hussein,Al Bahri,2,2,D,NaN,NaN,NaN
+IRQ,15/10/2016,16:00,Naft Al Janoob,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,16/10/2016,13:30,Al Zawraa,Karbalaa FC,5,0,H,NaN,NaN,NaN
+IRQ,16/10/2016,13:30,Al Semawah,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,16/10/2016,13:30,Naft Maysan,Al Najaf,1,0,H,NaN,NaN,NaN
+IRQ,16/10/2016,13:30,Naft Al Wasat,Al Karkh SC,3,1,H,NaN,NaN,NaN
+IRQ,06/11/2016,12:30,Baghdad FC,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,28/01/2017,11:00,Al Naft,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,15/02/2017,15:00,Al Talaba,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,20/10/2016,13:00,Al Bahri,Al Talaba,2,2,D,NaN,NaN,NaN
+IRQ,20/10/2016,14:00,Al Shorta,Al Semawah,4,1,H,NaN,NaN,NaN
+IRQ,20/10/2016,14:00,Al Hedood,Naft Al Wasat,0,1,A,NaN,NaN,NaN
+IRQ,21/10/2016,13:00,Al Najaf,Al Karkh SC,0,0,D,NaN,NaN,NaN
+IRQ,21/10/2016,13:00,Al Minaa,Naft Maysan,1,0,H,NaN,NaN,NaN
+IRQ,21/10/2016,14:00,Al Kahraba,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,22/10/2016,13:00,Karbalaa FC,Al Quwa Al Jawiya,0,2,A,NaN,NaN,NaN
+IRQ,12/11/2016,12:00,Zakho,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,04/02/2017,13:00,Al Naft,Al Hussein,3,0,H,NaN,NaN,NaN
+IRQ,25/10/2016,13:00,Al Semawah,Al Hussein,1,1,D,NaN,NaN,NaN
+IRQ,26/10/2016,13:00,Al Karkh SC,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,26/10/2016,13:00,Al Najaf,Al Hedood,2,2,D,NaN,NaN,NaN
+IRQ,26/10/2016,13:00,Naft Maysan,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,26/10/2016,13:00,Naft Al Wasat,Zakho,0,0,D,NaN,NaN,NaN
+IRQ,27/10/2016,12:30,Baghdad FC,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,27/10/2016,12:30,Naft Al Janoob,Al Zawraa,1,1,D,NaN,NaN,NaN
+IRQ,27/10/2016,14:00,Al Talaba,Karbalaa FC,3,0,H,NaN,NaN,NaN
+IRQ,29/10/2016,13:00,Al Bahri,Al Naft,0,3,A,NaN,NaN,NaN
+IRQ,31/10/2016,11:30,Al Hussein,Naft Maysan,0,0,D,NaN,NaN,NaN
+IRQ,31/10/2016,11:30,Al Kahraba,Naft Al Wasat,0,2,A,NaN,NaN,NaN
+IRQ,31/10/2016,11:30,Al Hedood,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,31/10/2016,11:30,Zakho,Al Najaf,1,2,A,NaN,NaN,NaN
+IRQ,31/10/2016,13:00,Al Shorta,Al Karkh SC,4,0,H,NaN,NaN,NaN
+IRQ,01/11/2016,13:00,Al Zawraa,Baghdad FC,1,2,A,NaN,NaN,NaN
+IRQ,03/11/2016,11:30,Al Naft,Al Talaba,2,2,D,NaN,NaN,NaN
+IRQ,04/11/2016,11:30,Al Semawah,Al Bahri,0,0,D,NaN,NaN,NaN
+IRQ,24/04/2017,14:00,Al Quwa Al Jawiya,Naft Al Janoob,3,0,H,NaN,NaN,NaN
+IRQ,25/11/2016,11:00,Al Naft,Al Semawah,3,0,H,NaN,NaN,NaN
+IRQ,25/11/2016,11:00,Naft Maysan,Al Bahri,4,1,H,NaN,NaN,NaN
+IRQ,25/11/2016,11:00,Naft Al Wasat,Al Zawraa,1,0,H,NaN,NaN,NaN
+IRQ,26/11/2016,11:00,Al Karkh SC,Al Hussein,1,1,D,NaN,NaN,NaN
+IRQ,26/11/2016,11:00,Al Najaf,Al Kahraba,2,2,D,NaN,NaN,NaN
+IRQ,26/11/2016,11:00,Karbalaa FC,Naft Al Janoob,1,2,A,NaN,NaN,NaN
+IRQ,26/11/2016,11:00,Al Minaa,Zakho,3,1,H,NaN,NaN,NaN
+IRQ,26/11/2016,11:00,Baghdad FC,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,26/11/2016,13:00,Al Shorta,Al Hedood,3,2,H,NaN,NaN,NaN
+IRQ,30/11/2016,11:00,Al Semawah,Al Talaba,1,1,D,NaN,NaN,NaN
+IRQ,30/11/2016,11:00,Al Hussein,Al Hedood,0,1,A,NaN,NaN,NaN
+IRQ,30/11/2016,11:00,Al Bahri,Al Karkh SC,2,1,H,NaN,NaN,NaN
+IRQ,30/11/2016,11:00,Naft Maysan,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,01/12/2016,11:00,Zakho,Al Shorta,1,2,A,NaN,NaN,NaN
+IRQ,01/12/2016,11:00,Karbalaa FC,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,01/12/2016,11:00,Al Kahraba,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,01/12/2016,13:00,Al Zawraa,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,28/04/2017,13:30,Al Quwa Al Jawiya,Naft Al Wasat,1,0,H,NaN,NaN,NaN
+IRQ,05/12/2016,11:00,Al Karkh SC,Al Naft,1,2,A,NaN,NaN,NaN
+IRQ,05/12/2016,11:00,Al Semawah,Naft Maysan,0,1,A,NaN,NaN,NaN
+IRQ,05/12/2016,11:00,Al Hedood,Al Bahri,2,0,H,NaN,NaN,NaN
+IRQ,05/12/2016,11:00,Naft Al Wasat,Karbalaa FC,2,1,H,NaN,NaN,NaN
+IRQ,06/12/2016,11:00,Al Talaba,Naft Al Janoob,2,0,H,NaN,NaN,NaN
+IRQ,06/12/2016,11:00,Al Zawraa,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,06/12/2016,11:00,Zakho,Al Hussein,0,2,A,NaN,NaN,NaN
+IRQ,06/12/2016,11:00,Al Najaf,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
+IRQ,06/12/2016,11:00,Al Shorta,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,10/12/2016,11:00,Al Karkh SC,Al Semawah,1,1,D,NaN,NaN,NaN
+IRQ,10/12/2016,11:00,Al Naft,Al Hedood,4,0,H,NaN,NaN,NaN
+IRQ,10/12/2016,11:00,Al Bahri,Zakho,1,2,A,NaN,NaN,NaN
+IRQ,11/12/2016,11:00,Naft Maysan,Al Talaba,1,2,A,NaN,NaN,NaN
+IRQ,11/12/2016,11:00,Baghdad FC,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,11/12/2016,11:00,Al Kahraba,Al Hussein,0,0,D,NaN,NaN,NaN
+IRQ,11/12/2016,11:00,Al Quwa Al Jawiya,Al Minaa,2,1,H,NaN,NaN,NaN
+IRQ,11/12/2016,13:30,Al Zawraa,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,29/01/2017,11:00,Karbalaa FC,Al Najaf,0,0,D,NaN,NaN,NaN
+IRQ,15/12/2016,11:00,Zakho,Al Naft,0,2,A,NaN,NaN,NaN
+IRQ,15/12/2016,11:00,Al Hussein,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,15/12/2016,11:00,Al Hedood,Al Semawah,0,0,D,NaN,NaN,NaN
+IRQ,15/12/2016,11:00,Naft Maysan,Al Karkh SC,2,0,H,NaN,NaN,NaN
+IRQ,16/12/2016,11:00,Al Minaa,Karbalaa FC,1,0,H,NaN,NaN,NaN
+IRQ,16/12/2016,11:00,Al Talaba,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,16/12/2016,12:00,Al Bahri,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,16/12/2016,13:30,Al Shorta,Al Quwa Al Jawiya,1,3,A,NaN,NaN,NaN
+IRQ,17/12/2016,11:00,Naft Al Janoob,Naft Al Wasat,0,1,A,NaN,NaN,NaN
+IRQ,20/12/2016,11:00,Al Karkh SC,Al Talaba,0,3,A,NaN,NaN,NaN
+IRQ,20/12/2016,11:00,Al Hedood,Naft Maysan,1,1,D,NaN,NaN,NaN
+IRQ,21/12/2016,11:00,Al Naft,Al Kahraba,1,0,H,NaN,NaN,NaN
+IRQ,21/12/2016,11:00,Al Quwa Al Jawiya,Al Hussein,3,1,H,NaN,NaN,NaN
+IRQ,21/12/2016,11:00,Naft Al Janoob,Al Najaf,1,1,D,NaN,NaN,NaN
+IRQ,21/12/2016,14:00,Al Zawraa,Al Bahri,3,0,H,NaN,NaN,NaN
+IRQ,21/12/2016,16:00,Karbalaa FC,Al Shorta,2,0,H,NaN,NaN,NaN
+IRQ,30/01/2017,11:00,Naft Al Wasat,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,20/02/2017,11:00,Al Semawah,Zakho,0,0,D,NaN,NaN,NaN
+IRQ,25/12/2016,11:00,Al Naft,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,25/12/2016,11:00,Al Karkh SC,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,25/12/2016,11:00,Al Kahraba,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,26/12/2016,11:00,Baghdad FC,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,26/12/2016,11:00,Al Hussein,Karbalaa FC,0,3,A,NaN,NaN,NaN
+IRQ,26/12/2016,11:00,Al Bahri,Al Quwa Al Jawiya,0,2,A,NaN,NaN,NaN
+IRQ,26/12/2016,11:00,Al Minaa,Naft Al Janoob,0,1,A,NaN,NaN,NaN
+IRQ,08/02/2017,13:30,Al Talaba,Naft Al Wasat,1,2,A,NaN,NaN,NaN
+IRQ,11/02/2017,11:00,Zakho,Naft Maysan,0,0,D,NaN,NaN,NaN
+IRQ,30/12/2016,11:00,Al Semawah,Al Zawraa,0,2,A,NaN,NaN,NaN
+IRQ,30/12/2016,11:00,Al Hedood,Al Talaba,0,1,A,NaN,NaN,NaN
+IRQ,30/12/2016,11:00,Naft Maysan,Al Kahraba,2,0,H,NaN,NaN,NaN
+IRQ,31/12/2016,11:00,Karbalaa FC,Al Bahri,1,0,H,NaN,NaN,NaN
+IRQ,31/12/2016,11:00,Al Quwa Al Jawiya,Al Naft,2,1,H,NaN,NaN,NaN
+IRQ,31/12/2016,11:00,Naft Al Janoob,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,31/12/2016,11:00,Baghdad FC,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,15/02/2017,11:00,Zakho,Al Karkh SC,0,0,D,NaN,NaN,NaN
+IRQ,17/02/2017,11:00,Naft Al Wasat,Al Najaf,1,3,A,NaN,NaN,NaN
+IRQ,04/01/2017,11:00,Al Kahraba,Al Karkh SC,5,3,H,NaN,NaN,NaN
+IRQ,04/01/2017,11:00,Al Hedood,Zakho,1,0,H,NaN,NaN,NaN
+IRQ,04/01/2017,13:30,Al Zawraa,Naft Maysan,3,0,H,NaN,NaN,NaN
+IRQ,05/01/2017,11:00,Al Naft,Karbalaa FC,3,0,H,NaN,NaN,NaN
+IRQ,05/01/2017,11:00,Al Talaba,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,05/01/2017,11:00,Al Quwa Al Jawiya,Al Semawah,1,1,D,NaN,NaN,NaN
+IRQ,05/01/2017,11:00,Al Hussein,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,05/01/2017,14:00,Al Shorta,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,07/01/2017,11:00,Naft Al Wasat,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,09/01/2017,11:00,Al Karkh SC,Al Zawraa,0,3,A,NaN,NaN,NaN
+IRQ,09/01/2017,11:00,Al Kahraba,Al Hedood,0,0,D,NaN,NaN,NaN
+IRQ,10/01/2017,11:00,Karbalaa FC,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,10/01/2017,11:00,Baghdad FC,Al Hussein,1,0,H,NaN,NaN,NaN
+IRQ,10/01/2017,11:00,Naft Maysan,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
+IRQ,11/01/2017,11:00,Zakho,Al Talaba,3,4,A,NaN,NaN,NaN
+IRQ,11/01/2017,11:00,Al Bahri,Naft Al Janoob,1,1,D,NaN,NaN,NaN
+IRQ,12/01/2017,11:00,Naft Al Wasat,Al Shorta,0,1,A,NaN,NaN,NaN
+IRQ,12/01/2017,13:30,Al Minaa,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,14/01/2017,13:30,Al Zawraa,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,15/01/2017,11:00,Karbalaa FC,Naft Maysan,0,0,D,NaN,NaN,NaN
+IRQ,15/01/2017,13:30,Al Quwa Al Jawiya,Al Karkh SC,0,0,D,NaN,NaN,NaN
+IRQ,16/01/2017,11:00,Baghdad FC,Al Bahri,2,2,D,NaN,NaN,NaN
+IRQ,16/01/2017,11:00,Naft Al Janoob,Al Naft,0,1,A,NaN,NaN,NaN
+IRQ,17/01/2017,11:00,Al Hussein,Naft Al Wasat,0,2,A,NaN,NaN,NaN
+IRQ,17/01/2017,11:00,Zakho,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,17/01/2017,11:00,Al Najaf,Al Shorta,1,1,D,NaN,NaN,NaN
+IRQ,17/01/2017,14:30,Al Minaa,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,20/01/2017,11:00,Karbalaa FC,Al Karkh SC,1,0,H,NaN,NaN,NaN
+IRQ,20/01/2017,12:30,Al Quwa Al Jawiya,Al Hedood,5,2,H,NaN,NaN,NaN
+IRQ,21/01/2017,11:00,Al Naft,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,21/01/2017,13:30,Naft Al Janoob,Al Semawah,3,1,H,NaN,NaN,NaN
+IRQ,22/01/2017,11:00,Naft Al Wasat,Al Bahri,2,1,H,NaN,NaN,NaN
+IRQ,22/01/2017,11:00,Al Talaba,Al Kahraba,2,0,H,NaN,NaN,NaN
+IRQ,22/01/2017,11:00,Al Najaf,Al Hussein,1,0,H,NaN,NaN,NaN
+IRQ,22/01/2017,14:00,Al Zawraa,Zakho,4,1,H,NaN,NaN,NaN
+IRQ,23/01/2017,13:30,Al Shorta,Al Minaa,1,0,H,NaN,NaN,NaN
+IRQ,24/02/2017,11:00,Al Hussein,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,24/02/2017,11:00,Al Bahri,Al Najaf,1,2,A,NaN,NaN,NaN
+IRQ,24/02/2017,11:00,Baghdad FC,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,24/02/2017,11:00,Naft Al Janoob,Naft Maysan,2,2,D,NaN,NaN,NaN
+IRQ,24/02/2017,11:00,Al Quwa Al Jawiya,Zakho,1,0,H,NaN,NaN,NaN
+IRQ,24/02/2017,13:00,Karbalaa FC,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,25/02/2017,11:00,Al Zawraa,Al Kahraba,4,0,H,NaN,NaN,NaN
+IRQ,25/02/2017,11:00,Al Naft,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,25/02/2017,14:00,Al Shorta,Al Talaba,1,0,H,NaN,NaN,NaN
+IRQ,01/03/2017,12:00,Zakho,Karbalaa FC,0,0,D,NaN,NaN,NaN
+IRQ,01/03/2017,12:00,Al Kahraba,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
+IRQ,01/03/2017,12:00,Naft Maysan,Baghdad FC,1,1,D,NaN,NaN,NaN
+IRQ,01/03/2017,13:30,Al Shorta,Al Hussein,0,1,A,NaN,NaN,NaN
+IRQ,01/03/2017,16:00,Al Minaa,Al Bahri,2,2,D,NaN,NaN,NaN
+IRQ,02/03/2017,12:00,Al Karkh SC,Naft Al Janoob,2,1,H,NaN,NaN,NaN
+IRQ,02/03/2017,12:00,Al Najaf,Al Naft,2,2,D,NaN,NaN,NaN
+IRQ,02/03/2017,12:00,Naft Al Wasat,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,02/03/2017,14:00,Al Talaba,Al Zawraa,1,2,A,NaN,NaN,NaN
+IRQ,05/03/2017,12:00,Al Bahri,Al Shorta,3,7,A,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Naft Maysan,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Al Semawah,Al Najaf,1,2,A,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Naft Al Janoob,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Baghdad FC,Al Karkh SC,2,0,H,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Al Hussein,Al Talaba,2,2,D,NaN,NaN,NaN
+IRQ,06/03/2017,12:00,Naft Maysan,Naft Al Wasat,0,0,D,NaN,NaN,NaN
+IRQ,07/03/2017,15:00,Karbalaa FC,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,18/06/2017,16:00,Al Zawraa,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Shorta,Al Naft,0,0,D,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Karkh SC,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Najaf,Naft Maysan,0,0,D,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Minaa,Al Semawah,2,0,H,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Bahri,Al Hussein,4,2,H,NaN,NaN,NaN
+IRQ,10/03/2017,12:00,Al Hedood,Baghdad FC,0,3,A,NaN,NaN,NaN
+IRQ,11/03/2017,12:00,Naft Al Janoob,Zakho,2,0,H,NaN,NaN,NaN
+IRQ,24/04/2017,14:00,Karbalaa FC,Al Zawraa,0,0,D,NaN,NaN,NaN
+IRQ,22/06/2017,20:00,Al Quwa Al Jawiya,Al Talaba,2,1,H,NaN,NaN,NaN
+IRQ,14/03/2017,12:00,Al Semawah,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,14/03/2017,12:00,Al Hussein,Al Naft,0,2,A,NaN,NaN,NaN
+IRQ,14/03/2017,12:00,Naft Al Wasat,Al Hedood,2,1,H,NaN,NaN,NaN
+IRQ,14/03/2017,12:00,Naft Maysan,Al Minaa,1,1,D,NaN,NaN,NaN
+IRQ,15/03/2017,12:00,Baghdad FC,Zakho,1,0,H,NaN,NaN,NaN
+IRQ,16/03/2017,12:00,Al Karkh SC,Al Najaf,0,1,A,NaN,NaN,NaN
+IRQ,16/03/2017,14:00,Al Talaba,Al Bahri,2,0,H,NaN,NaN,NaN
+IRQ,17/03/2017,12:00,Naft Al Janoob,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,01/04/2017,13:00,Al Hussein,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,02/04/2017,13:00,Al Naft,Al Bahri,2,0,H,NaN,NaN,NaN
+IRQ,02/04/2017,13:00,Al Hedood,Al Najaf,2,1,H,NaN,NaN,NaN
+IRQ,02/04/2017,15:00,Karbalaa FC,Al Talaba,1,1,D,NaN,NaN,NaN
+IRQ,03/04/2017,13:00,Al Shorta,Naft Maysan,2,0,H,NaN,NaN,NaN
+IRQ,03/04/2017,13:00,Zakho,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,03/04/2017,13:00,Al Minaa,Al Karkh SC,4,0,H,NaN,NaN,NaN
+IRQ,03/04/2017,13:00,Al Kahraba,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,28/04/2017,15:00,Al Zawraa,Naft Al Janoob,4,1,H,NaN,NaN,NaN
+IRQ,07/04/2017,13:00,Al Bahri,Al Semawah,2,1,H,NaN,NaN,NaN
+IRQ,07/04/2017,13:00,Al Minaa,Al Hedood,1,0,H,NaN,NaN,NaN
+IRQ,07/04/2017,16:00,Al Talaba,Al Naft,2,2,D,NaN,NaN,NaN
+IRQ,08/04/2017,13:00,Al Karkh SC,Al Shorta,1,2,A,NaN,NaN,NaN
+IRQ,08/04/2017,13:00,Al Najaf,Zakho,0,0,D,NaN,NaN,NaN
+IRQ,08/04/2017,13:00,Naft Al Wasat,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,08/04/2017,13:00,Baghdad FC,Al Zawraa,1,0,H,NaN,NaN,NaN
+IRQ,08/04/2017,13:00,Naft Maysan,Al Hussein,1,0,H,NaN,NaN,NaN
+IRQ,02/07/2017,16:00,Naft Al Janoob,Al Quwa Al Jawiya,1,1,D,0,0,D
+IRQ,12/04/2017,14:00,Al Semawah,Al Naft,1,3,A,NaN,NaN,NaN
+IRQ,12/04/2017,14:00,Al Bahri,Naft Maysan,1,0,H,NaN,NaN,NaN
+IRQ,12/04/2017,14:00,Naft Al Janoob,Karbalaa FC,3,1,H,NaN,NaN,NaN
+IRQ,12/04/2017,14:00,Al Hedood,Al Shorta,2,3,A,NaN,NaN,NaN
+IRQ,12/04/2017,14:00,Zakho,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,13/04/2017,14:00,Al Hussein,Al Karkh SC,1,1,D,NaN,NaN,NaN
+IRQ,13/04/2017,14:00,Al Quwa Al Jawiya,Baghdad FC,2,0,H,NaN,NaN,NaN
+IRQ,13/04/2017,14:00,Al Kahraba,Al Najaf,1,2,A,NaN,NaN,NaN
+IRQ,13/04/2017,16:00,Al Zawraa,Naft Al Wasat,1,2,A,NaN,NaN,NaN
+IRQ,16/04/2017,14:00,Al Talaba,Al Semawah,1,0,H,NaN,NaN,NaN
+IRQ,17/04/2017,14:00,Al Shorta,Zakho,4,0,H,NaN,NaN,NaN
+IRQ,17/04/2017,14:00,Al Naft,Naft Maysan,2,0,H,NaN,NaN,NaN
+IRQ,17/04/2017,14:00,Al Karkh SC,Al Bahri,1,2,A,NaN,NaN,NaN
+IRQ,17/04/2017,14:00,Baghdad FC,Karbalaa FC,0,0,D,NaN,NaN,NaN
+IRQ,17/04/2017,14:00,Al Hedood,Al Hussein,0,0,D,NaN,NaN,NaN
+IRQ,18/04/2017,14:00,Al Minaa,Al Kahraba,2,1,H,NaN,NaN,NaN
+IRQ,22/06/2017,20:00,Al Najaf,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,13/07/2017,20:00,Naft Al Wasat,Al Quwa Al Jawiya,1,1,D,0,0,D
+IRQ,05/05/2017,14:30,Al Shorta,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,05/05/2017,14:30,Al Naft,Al Karkh SC,1,0,H,NaN,NaN,NaN
+IRQ,05/05/2017,14:30,Zakho,Al Hussein,0,0,D,NaN,NaN,NaN
+IRQ,05/05/2017,14:30,Naft Al Janoob,Al Talaba,3,0,H,NaN,NaN,NaN
+IRQ,05/05/2017,14:30,Naft Maysan,Al Semawah,1,3,A,NaN,NaN,NaN
+IRQ,05/05/2017,14:30,Al Bahri,Al Hedood,2,3,A,NaN,NaN,NaN
+IRQ,05/05/2017,17:00,Karbalaa FC,Naft Al Wasat,1,1,D,NaN,NaN,NaN
+IRQ,06/05/2017,14:30,Al Quwa Al Jawiya,Al Najaf,2,0,H,NaN,NaN,NaN
+IRQ,06/05/2017,16:00,Al Zawraa,Al Minaa,2,1,H,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Naft Al Janoob,Baghdad FC,1,0,H,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Al Najaf,Karbalaa FC,4,1,H,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Al Semawah,Al Karkh SC,4,1,H,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Zakho,Al Bahri,2,1,H,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Al Hedood,Al Naft,0,0,D,NaN,NaN,NaN
+IRQ,10/05/2017,14:30,Al Hussein,Al Kahraba,0,0,D,NaN,NaN,NaN
+IRQ,10/05/2017,16:00,Al Zawraa,Al Shorta,2,2,D,NaN,NaN,NaN
+IRQ,10/05/2017,18:00,Al Minaa,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
+IRQ,11/05/2017,14:30,Al Talaba,Naft Maysan,1,2,A,NaN,NaN,NaN
+IRQ,16/05/2017,14:30,Al Semawah,Al Hedood,0,0,D,NaN,NaN,NaN
+IRQ,16/05/2017,14:30,Al Zawraa,Al Hussein,6,4,H,NaN,NaN,NaN
+IRQ,16/05/2017,14:30,Baghdad FC,Al Talaba,0,0,D,NaN,NaN,NaN
+IRQ,16/05/2017,14:30,Al Karkh SC,Naft Maysan,1,1,D,NaN,NaN,NaN
+IRQ,16/05/2017,14:45,Al Kahraba,Al Bahri,0,0,D,NaN,NaN,NaN
+IRQ,17/05/2017,14:30,Naft Al Wasat,Naft Al Janoob,1,0,H,NaN,NaN,NaN
+IRQ,17/05/2017,14:30,Al Naft,Zakho,5,0,H,NaN,NaN,NaN
+IRQ,17/05/2017,16:00,Al Quwa Al Jawiya,Al Shorta,0,0,D,NaN,NaN,NaN
+IRQ,01/07/2017,16:45,Karbalaa FC,Al Minaa,1,0,H,1,0,H
+IRQ,21/05/2017,14:45,Al Najaf,Naft Al Janoob,0,0,D,NaN,NaN,NaN
+IRQ,21/05/2017,16:00,Al Talaba,Al Karkh SC,4,1,H,NaN,NaN,NaN
+IRQ,22/05/2017,14:45,Baghdad FC,Naft Al Wasat,0,0,D,NaN,NaN,NaN
+IRQ,22/05/2017,14:45,Naft Maysan,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,22/05/2017,14:45,Zakho,Al Semawah,0,0,D,NaN,NaN,NaN
+IRQ,22/05/2017,14:45,Al Kahraba,Al Naft,0,2,A,NaN,NaN,NaN
+IRQ,23/05/2017,16:00,Al Shorta,Karbalaa FC,2,0,H,NaN,NaN,NaN
+IRQ,01/07/2017,15:00,Al Bahri,Al Zawraa,2,3,A,1,2,A
+IRQ,26/07/2017,14:45,Al Quwa Al Jawiya,Al Hussein,2,1,H,1,1,D
+IRQ,03/07/2017,14:45,Al Najaf,Baghdad FC,0,0,D,NaN,NaN,NaN
+IRQ,03/07/2017,14:45,Naft Maysan,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,03/07/2017,14:45,Al Semawah,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,03/07/2017,14:45,Al Hedood,Al Karkh SC,2,0,H,NaN,NaN,NaN
+IRQ,05/07/2017,14:45,Naft Al Wasat,Al Talaba,2,0,H,NaN,NaN,NaN
+IRQ,05/07/2017,14:45,Al Quwa Al Jawiya,Al Minaa,2,0,H,0,0,D
+IRQ,05/07/2017,16:00,Al Zawraa,Al Naft,0,2,A,0,0,D
+IRQ,06/07/2017,14:45,Karbalaa FC,Al Hussein,0,0,D,NaN,NaN,NaN
+IRQ,06/07/2017,14:45,Naft Al Janoob,Al Minaa,0,0,D,NaN,NaN,NaN
+IRQ,07/07/2017,15:00,Al Karkh SC,Zakho,1,1,D,NaN,NaN,NaN
+IRQ,08/07/2017,16:00,Al Kahraba,Naft Maysan,2,0,H,NaN,NaN,NaN
+IRQ,09/07/2017,15:00,Al Naft,Al Quwa Al Jawiya,0,2,A,NaN,NaN,NaN
+IRQ,09/07/2017,15:00,Al Najaf,Naft Al Wasat,1,2,A,NaN,NaN,NaN
+IRQ,09/07/2017,16:00,Al Zawraa,Al Semawah,2,1,H,NaN,NaN,NaN
+IRQ,10/07/2017,16:00,Al Shorta,Naft Al Janoob,2,0,H,NaN,NaN,NaN
+IRQ,10/07/2017,17:00,Al Minaa,Baghdad FC,1,1,D,NaN,NaN,NaN
+IRQ,11/07/2017,15:00,Al Bahri,Karbalaa FC,1,1,D,NaN,NaN,NaN
+IRQ,11/07/2017,16:00,Al Talaba,Al Hedood,1,1,D,NaN,NaN,NaN
+IRQ,20/06/2017,20:00,Al Minaa,Naft Al Wasat,1,0,H,NaN,NaN,NaN
+IRQ,26/07/2017,20:00,Naft Maysan,Al Zawraa,0,1,A,NaN,NaN,NaN
+IRQ,27/07/2017,14:45,Al Karkh SC,Al Kahraba,0,1,A,NaN,NaN,NaN
+IRQ,27/07/2017,14:45,Zakho,Al Hedood,1,3,A,NaN,NaN,NaN
+IRQ,28/06/2017,20:00,Al Shorta,Naft Al Wasat,2,1,H,NaN,NaN,NaN
+IRQ,28/06/2017,20:00,Al Quwa Al Jawiya,Karbalaa FC,3,1,H,NaN,NaN,NaN
+IRQ,02/07/2017,15:00,Naft Al Wasat,Al Hussein,3,0,H,NaN,NaN,NaN

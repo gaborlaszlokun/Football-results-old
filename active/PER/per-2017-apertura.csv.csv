@@ -1,0 +1,96 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,26/05/2017,21:30,Universidad Técnica,Juan Aurich,3,0,H,3,0,H
+PER,27/05/2017,18:30,Ayacucho FC,Comerciantes Unidos,5,3,H,2,3,A
+PER,27/05/2017,21:00,Sporting Cristal,Sport Huancayo,2,0,H,2,0,H
+PER,27/05/2017,23:45,Sport Rosario,Deportivo Municipal,1,0,H,0,0,D
+PER,28/05/2017,02:00,Academia Cantolao,Alianza Atlético,2,1,H,0,0,D
+PER,28/05/2017,17:15,FBC Melgar,Universidad San Martín,2,3,A,1,1,D
+PER,28/05/2017,19:30,CD Unión Comercio,Universitario de Deportes,1,2,A,0,1,A
+PER,28/05/2017,22:00,Alianza Lima,Real Garcilaso,2,0,H,1,0,H
+PER,02/06/2017,19:15,Sport Huancayo,Sport Rosario,2,0,H,1,0,H
+PER,02/06/2017,21:30,Universidad San Martín,Ayacucho FC,1,1,D,0,1,A
+PER,03/06/2017,18:30,Alianza Atlético,CD Unión Comercio,1,3,A,0,0,D
+PER,03/06/2017,21:00,Deportivo Municipal,Universidad Técnica,0,1,A,0,0,D
+PER,04/06/2017,02:00,Universitario de Deportes,Alianza Lima,1,2,A,1,1,D
+PER,04/06/2017,17:00,Juan Aurich,Academia Cantolao,1,0,H,0,0,D
+PER,04/06/2017,19:15,Real Garcilaso,FBC Melgar,1,0,H,0,0,D
+PER,04/06/2017,21:30,Comerciantes Unidos,Sporting Cristal,4,2,H,2,0,H
+PER,09/06/2017,21:30,Universidad Técnica,Sport Huancayo,1,1,D,1,1,D
+PER,10/06/2017,18:30,Ayacucho FC,Real Garcilaso,2,1,H,1,1,D
+PER,10/06/2017,21:00,Sporting Cristal,Universidad San Martín,2,1,H,1,0,H
+PER,10/06/2017,23:45,Sport Rosario,Comerciantes Unidos,1,1,D,0,0,D
+PER,11/06/2017,02:00,Academia Cantolao,Deportivo Municipal,0,2,A,0,2,A
+PER,11/06/2017,17:00,CD Unión Comercio,Juan Aurich,2,2,D,0,2,A
+PER,11/06/2017,21:00,FBC Melgar,Alianza Lima,1,0,H,0,0,D
+PER,22/06/2017,01:00,Universitario de Deportes,Alianza Atlético,1,1,D,0,0,D
+PER,13/06/2017,17:00,Sport Huancayo,Academia Cantolao,2,0,H,0,0,D
+PER,13/06/2017,19:15,Real Garcilaso,Sporting Cristal,1,0,H,0,0,D
+PER,14/06/2017,19:15,Juan Aurich,Universitario de Deportes,1,1,D,0,1,A
+PER,14/06/2017,21:30,Deportivo Municipal,CD Unión Comercio,1,0,H,0,0,D
+PER,15/06/2017,01:00,Alianza Lima,Ayacucho FC,4,0,H,1,0,H
+PER,15/06/2017,19:15,Alianza Atlético,FBC Melgar,1,0,H,1,0,H
+PER,15/06/2017,21:30,Comerciantes Unidos,Universidad Técnica,1,0,H,1,0,H
+PER,28/06/2017,21:30,Universidad San Martín,Sport Rosario,1,1,D,1,0,H
+PER,17/06/2017,18:30,CD Unión Comercio,Sport Huancayo,4,0,H,1,0,H
+PER,17/06/2017,21:00,Sport Rosario,Real Garcilaso,1,1,D,1,0,H
+PER,18/06/2017,02:00,Universitario de Deportes,Deportivo Municipal,1,1,D,1,1,D
+PER,18/06/2017,17:00,Ayacucho FC,FBC Melgar,1,2,A,1,1,D
+PER,18/06/2017,19:00,Alianza Atlético,Juan Aurich,1,1,D,1,0,H
+PER,19/06/2017,19:15,Academia Cantolao,Comerciantes Unidos,0,1,A,0,1,A
+PER,19/06/2017,21:30,Universidad Técnica,Universidad San Martín,3,1,H,1,0,H
+PER,20/07/2017,01:00,Sporting Cristal,Alianza Lima,0,1,A,0,1,A
+PER,23/06/2017,21:30,Universidad San Martín,Academia Cantolao,3,2,H,3,1,H
+PER,24/06/2017,18:30,Ayacucho FC,Juan Aurich,3,1,H,2,1,H
+PER,24/06/2017,21:00,Deportivo Municipal,Alianza Atlético,3,1,H,2,0,H
+PER,25/06/2017,02:00,FBC Melgar,Sporting Cristal,4,1,H,3,1,H
+PER,25/06/2017,17:00,Real Garcilaso,Universidad Técnica,2,1,H,1,0,H
+PER,25/06/2017,19:15,Sport Huancayo,Universitario de Deportes,1,0,H,0,0,D
+PER,25/06/2017,22:00,Alianza Lima,Sport Rosario,4,1,H,3,1,H
+PER,26/06/2017,21:30,Comerciantes Unidos,CD Unión Comercio,2,0,H,0,0,D
+PER,01/07/2017,01:00,Academia Cantolao,Real Garcilaso,2,3,A,2,0,H
+PER,01/07/2017,18:30,CD Unión Comercio,Universidad San Martín,3,1,H,0,0,D
+PER,01/07/2017,21:00,Juan Aurich,Deportivo Municipal,1,1,D,1,1,D
+PER,01/07/2017,23:45,Sport Rosario,FBC Melgar,2,1,H,1,0,H
+PER,02/07/2017,02:00,Universitario de Deportes,Comerciantes Unidos,1,0,H,0,0,D
+PER,02/07/2017,17:00,Sporting Cristal,Ayacucho FC,2,0,H,1,0,H
+PER,02/07/2017,19:00,Alianza Atlético,Sport Huancayo,1,3,A,1,0,H
+PER,02/07/2017,21:30,Universidad Técnica,Alianza Lima,1,0,H,0,0,D
+PER,04/07/2017,21:30,Real Garcilaso,CD Unión Comercio,2,1,H,0,1,A
+PER,05/07/2017,02:00,Universidad San Martín,Universitario de Deportes,2,4,A,1,2,A
+PER,05/07/2017,17:00,Sport Huancayo,Juan Aurich,3,0,H,1,0,H
+PER,05/07/2017,19:15,FBC Melgar,Universidad Técnica,2,0,H,0,0,D
+PER,05/07/2017,21:30,Comerciantes Unidos,Alianza Atlético,0,2,A,0,0,D
+PER,05/07/2017,21:30,Sporting Cristal,Deportivo Municipal,2,2,D,1,0,H
+PER,06/07/2017,02:00,Alianza Lima,Academia Cantolao,1,1,D,0,1,A
+PER,06/07/2017,19:15,Ayacucho FC,Sport Rosario,0,1,A,0,1,A
+PER,08/07/2017,18:30,Alianza Atlético,Universidad San Martín,0,2,A,0,1,A
+PER,08/07/2017,21:00,Deportivo Municipal,Sport Huancayo,2,1,H,1,1,D
+PER,09/07/2017,02:00,Academia Cantolao,FBC Melgar,0,0,D,0,0,D
+PER,09/07/2017,17:15,Juan Aurich,Comerciantes Unidos,2,2,D,1,1,D
+PER,09/07/2017,19:30,CD Unión Comercio,Alianza Lima,0,1,A,0,0,D
+PER,09/07/2017,22:00,Universitario de Deportes,Real Garcilaso,2,1,H,2,0,H
+PER,10/07/2017,00:15,Sport Rosario,Sporting Cristal,1,3,A,1,2,A
+PER,10/07/2017,21:30,Universidad Técnica,Ayacucho FC,3,0,H,1,0,H
+PER,14/07/2017,19:15,Real Garcilaso,Alianza Atlético,2,1,H,1,1,D
+PER,14/07/2017,21:30,Universidad San Martín,Juan Aurich,4,1,H,0,0,D
+PER,15/07/2017,18:30,Ayacucho FC,Academia Cantolao,0,0,D,0,0,D
+PER,15/07/2017,21:00,Comerciantes Unidos,Deportivo Municipal,0,0,D,0,0,D
+PER,16/07/2017,02:00,Sport Rosario,Universitario de Deportes,0,0,D,0,0,D
+PER,16/07/2017,17:00,Sporting Cristal,Universidad Técnica,1,0,H,1,0,H
+PER,16/07/2017,19:15,FBC Melgar,CD Unión Comercio,2,1,H,2,1,H
+PER,16/07/2017,21:30,Alianza Lima,Sport Huancayo,3,3,D,2,0,H
+PER,21/07/2017,19:15,Sport Huancayo,Comerciantes Unidos,3,1,H,1,0,H
+PER,21/07/2017,21:30,Universidad Técnica,Sport Rosario,2,1,H,0,0,D
+PER,22/07/2017,18:30,CD Unión Comercio,Ayacucho FC,3,1,H,1,0,H
+PER,22/07/2017,21:00,Deportivo Municipal,Universidad San Martín,1,0,H,0,0,D
+PER,23/07/2017,02:00,Academia Cantolao,Sporting Cristal,1,1,D,1,0,H
+PER,23/07/2017,17:00,Juan Aurich,Real Garcilaso,1,2,A,0,1,A
+PER,23/07/2017,19:15,Alianza Atlético,Alianza Lima,1,0,H,0,0,D
+PER,23/07/2017,21:30,Universitario de Deportes,FBC Melgar,2,1,H,1,0,H
+PER,25/07/2017,21:30,Universidad Técnica,CD Unión Comercio,1,0,H,0,0,D
+PER,26/07/2017,19:15,Ayacucho FC,Alianza Atlético,1,0,H,0,0,D
+PER,26/07/2017,21:30,FBC Melgar,Comerciantes Unidos,1,1,D,0,0,D
+PER,26/07/2017,23:45,Sport Rosario,Academia Cantolao,3,1,H,2,0,H
+PER,27/07/2017,02:00,Sporting Cristal,Universitario de Deportes,1,1,D,0,1,A
+PER,27/07/2017,21:30,Universidad San Martín,Sport Huancayo,0,0,D,0,0,D
+PER,28/07/2017,02:00,Alianza Lima,Juan Aurich,2,0,H,2,0,H
