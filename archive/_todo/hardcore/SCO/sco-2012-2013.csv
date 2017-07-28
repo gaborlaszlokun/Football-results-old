@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2012-08-04,12:45,Celtic FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2012-08-04,15:00,Heart of Midlothian,St. Johnstone FC,2,0,H,1,0,H
+SCO,2012-08-04,15:00,Ross County FC,Motherwell FC,0,0,D,0,0,D
+SCO,2012-08-04,15:00,St. Mirren FC,Inverness CT,2,2,D,1,0,H
+SCO,2012-08-04,15:00,Kilmarnock FC,Dundee FC,0,0,D,0,0,D
+SCO,2012-08-05,13:00,Dundee United,Hibernian FC,3,0,H,1,0,H
+SCO,2012-08-11,15:00,Aberdeen FC,Ross County FC,0,0,D,0,0,D
+SCO,2012-08-11,15:00,Inverness CT,Kilmarnock FC,1,1,D,1,1,D
+SCO,2012-08-11,15:00,Motherwell FC,St. Johnstone FC,1,1,D,0,0,D
+SCO,2012-08-11,15:00,Dundee FC,St. Mirren FC,0,2,A,0,1,A
+SCO,2012-08-12,12:30,Hibernian FC,Heart of Midlothian,1,1,D,1,1,D
+SCO,2012-08-18,12:15,Ross County FC,Celtic FC,1,1,D,0,0,D
+SCO,2012-08-18,15:00,Heart of Midlothian,Inverness CT,2,2,D,2,0,H
+SCO,2012-08-18,15:00,Kilmarnock FC,Motherwell FC,1,2,A,1,2,A
+SCO,2012-08-18,15:00,St. Johnstone FC,Aberdeen FC,1,2,A,0,1,A
+SCO,2012-08-18,15:00,St. Mirren FC,Hibernian FC,1,2,A,0,1,A
+SCO,2012-08-19,12:45,Dundee United,Dundee FC,3,0,H,3,0,H
+SCO,2012-08-25,12:45,Inverness CT,Celtic FC,2,4,A,0,2,A
+SCO,2012-08-25,15:00,Hibernian FC,St. Johnstone FC,2,0,H,1,0,H
+SCO,2012-08-25,15:00,Kilmarnock FC,Dundee United,3,1,H,0,0,D
+SCO,2012-08-25,15:00,Dundee FC,Ross County FC,0,1,A,0,0,D
+SCO,2012-08-26,15:00,Motherwell FC,St. Mirren FC,1,1,D,1,0,H
+SCO,2012-08-26,15:00,Aberdeen FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2012-09-01,15:00,Aberdeen FC,St. Mirren FC,0,0,D,0,0,D
+SCO,2012-09-01,15:00,Celtic FC,Hibernian FC,2,2,D,1,0,H
+SCO,2012-09-01,15:00,Ross County FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2012-09-01,15:00,St. Johnstone FC,Dundee United,0,0,D,0,0,D
+SCO,2012-09-02,15:00,Motherwell FC,Inverness CT,4,1,H,2,1,H
+SCO,2012-09-02,15:00,Heart of Midlothian,Dundee FC,0,1,A,0,1,A
+SCO,2012-09-14,19:45,Dundee United,Ross County FC,0,0,D,0,0,D
+SCO,2012-09-15,12:30,St. Johnstone FC,Celtic FC,2,1,H,1,1,D
+SCO,2012-09-15,15:00,Hibernian FC,Kilmarnock FC,2,1,H,2,1,H
+SCO,2012-09-15,15:00,Inverness CT,Aberdeen FC,1,1,D,0,0,D
+SCO,2012-09-15,15:00,St. Mirren FC,Heart of Midlothian,2,0,H,1,0,H
+SCO,2012-09-15,15:00,Dundee FC,Motherwell FC,1,2,A,1,0,H
+SCO,2012-09-22,15:00,Dundee United,Heart of Midlothian,0,3,A,0,2,A
+SCO,2012-09-22,15:00,Hibernian FC,Inverness CT,2,2,D,2,1,H
+SCO,2012-09-22,15:00,Kilmarnock FC,St. Mirren FC,3,1,H,1,0,H
+SCO,2012-09-22,15:00,Ross County FC,St. Johnstone FC,1,2,A,0,1,A
+SCO,2012-09-22,15:00,Celtic FC,Dundee FC,2,0,H,1,0,H
+SCO,2012-09-23,12:45,Aberdeen FC,Motherwell FC,3,3,D,1,1,D
+SCO,2012-09-29,12:00,Aberdeen FC,Hibernian FC,2,1,H,1,1,D
+SCO,2012-09-29,15:00,Heart of Midlothian,Kilmarnock FC,1,3,A,0,1,A
+SCO,2012-09-29,15:00,Inverness CT,Dundee United,4,0,H,2,0,H
+SCO,2012-09-29,15:00,Motherwell FC,Celtic FC,0,2,A,0,2,A
+SCO,2012-09-29,15:00,St. Mirren FC,Ross County FC,5,4,H,1,2,A
+SCO,2012-09-29,15:00,Dundee FC,St. Johnstone FC,1,3,A,1,2,A
+SCO,2012-10-05,19:45,Inverness CT,Ross County FC,3,1,H,2,0,H
+SCO,2012-10-06,15:00,Kilmarnock FC,Aberdeen FC,1,3,A,1,0,H
+SCO,2012-10-06,15:00,St. Johnstone FC,St. Mirren FC,2,1,H,2,0,H
+SCO,2012-10-06,15:00,Hibernian FC,Dundee FC,3,0,H,1,0,H
+SCO,2012-10-07,12:45,Celtic FC,Heart of Midlothian,1,0,H,1,0,H
+SCO,2012-10-19,19:45,Dundee FC,Inverness CT,1,4,A,1,2,A
+SCO,2012-10-20,12:30,St. Mirren FC,Celtic FC,0,5,A,0,4,A
+SCO,2012-10-20,15:00,Dundee United,Aberdeen FC,1,1,D,1,0,H
+SCO,2012-10-20,15:00,Ross County FC,Hibernian FC,3,2,H,2,2,D
+SCO,2012-10-20,15:00,St. Johnstone FC,Kilmarnock FC,2,1,H,1,0,H
+SCO,2012-10-21,12:45,Heart of Midlothian,Motherwell FC,1,0,H,1,0,H
+SCO,2012-10-26,19:45,Motherwell FC,Hibernian FC,0,4,A,0,1,A
+SCO,2012-10-27,15:00,Celtic FC,Kilmarnock FC,0,2,A,0,1,A
+SCO,2012-10-27,15:00,Heart of Midlothian,Ross County FC,2,2,D,1,0,H
+SCO,2012-10-27,15:00,Inverness CT,St. Johnstone FC,1,1,D,0,0,D
+SCO,2012-10-27,15:00,St. Mirren FC,Dundee United,0,1,A,0,0,D
+SCO,2012-10-27,15:00,Aberdeen FC,Dundee FC,2,0,H,1,0,H
+SCO,2012-11-03,15:00,Hibernian FC,St. Mirren FC,2,1,H,1,1,D
+SCO,2012-11-03,15:00,Kilmarnock FC,Inverness CT,1,2,A,0,1,A
+SCO,2012-11-03,15:00,Ross County FC,Aberdeen FC,2,1,H,1,0,H
+SCO,2012-11-03,15:00,St. Johnstone FC,Motherwell FC,1,3,A,0,2,A
+SCO,2012-11-03,15:00,Dundee FC,Heart of Midlothian,1,0,H,1,0,H
+SCO,2012-11-04,12:45,Dundee United,Celtic FC,2,2,D,0,0,D
+SCO,2012-11-07,19:45,Motherwell FC,Dundee United,0,1,A,0,0,D
+SCO,2012-11-10,12:00,Inverness CT,Heart of Midlothian,1,1,D,1,0,H
+SCO,2012-11-10,15:00,Kilmarnock FC,Ross County FC,3,0,H,0,0,D
+SCO,2012-11-10,15:00,St. Mirren FC,Aberdeen FC,1,4,A,0,2,A
+SCO,2012-11-10,15:00,Motherwell FC,Dundee FC,1,1,D,1,1,D
+SCO,2012-11-11,12:45,Hibernian FC,Dundee United,2,1,H,1,0,H
+SCO,2012-11-11,15:00,Celtic FC,St. Johnstone FC,1,1,D,0,0,D
+SCO,2012-11-16,19:45,Dundee United,Kilmarnock FC,3,3,D,0,2,A
+SCO,2012-11-17,12:00,Aberdeen FC,Celtic FC,0,2,A,0,0,D
+SCO,2012-11-17,15:00,Heart of Midlothian,St. Mirren FC,1,0,H,0,0,D
+SCO,2012-11-17,15:00,St. Johnstone FC,Ross County FC,1,1,D,0,0,D
+SCO,2012-11-17,15:00,Dundee FC,Hibernian FC,3,1,H,1,0,H
+SCO,2012-11-18,12:45,Inverness CT,Motherwell FC,1,5,A,0,2,A
+SCO,2012-11-24,12:45,Motherwell FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2012-11-24,15:00,Celtic FC,Inverness CT,0,1,A,0,0,D
+SCO,2012-11-24,15:00,Hibernian FC,Aberdeen FC,0,1,A,0,0,D
+SCO,2012-11-24,15:00,Kilmarnock FC,St. Johnstone FC,1,2,A,0,1,A
+SCO,2012-11-24,15:00,Ross County FC,Dundee United,1,2,A,0,0,D
+SCO,2012-11-24,15:00,St. Mirren FC,Dundee FC,3,1,H,1,0,H
+SCO,2012-11-27,19:45,Aberdeen FC,Inverness CT,2,3,A,1,1,D
+SCO,2012-11-27,19:45,Dundee United,Motherwell FC,1,2,A,1,2,A
+SCO,2012-11-27,19:45,Ross County FC,St. Mirren FC,0,0,D,0,0,D
+SCO,2012-11-28,19:30,Heart of Midlothian,Celtic FC,0,4,A,0,3,A
+SCO,2012-11-28,19:45,St. Johnstone FC,Hibernian FC,0,1,A,0,0,D
+SCO,2012-12-08,12:30,Kilmarnock FC,Celtic FC,1,3,A,0,1,A
+SCO,2012-12-08,15:00,Heart of Midlothian,Aberdeen FC,2,0,H,1,0,H
+SCO,2012-12-08,15:00,Inverness CT,Hibernian FC,3,0,H,1,0,H
+SCO,2012-12-08,15:00,Motherwell FC,Ross County FC,3,2,H,1,1,D
+SCO,2012-12-08,15:00,St. Mirren FC,St. Johnstone FC,1,1,D,0,1,A
+SCO,2012-12-09,12:45,Dundee FC,Dundee United,0,3,A,0,1,A
+SCO,2012-12-15,15:00,Aberdeen FC,Kilmarnock FC,0,2,A,0,1,A
+SCO,2012-12-15,15:00,Celtic FC,St. Mirren FC,2,0,H,1,0,H
+SCO,2012-12-15,15:00,Dundee United,Inverness CT,4,4,D,3,2,H
+SCO,2012-12-15,15:00,Hibernian FC,Motherwell FC,2,3,A,1,0,H
+SCO,2012-12-15,15:00,St. Johnstone FC,Heart of Midlothian,2,2,D,1,2,A
+SCO,2012-12-15,15:00,Ross County FC,Dundee FC,1,1,D,0,1,A
+SCO,2012-12-21,19:45,St. Mirren FC,Motherwell FC,2,1,H,2,0,H
+SCO,2012-12-22,15:00,Aberdeen FC,St. Johnstone FC,2,0,H,0,0,D
+SCO,2012-12-22,15:00,Celtic FC,Ross County FC,4,0,H,0,0,D
+SCO,2012-12-22,15:00,Inverness CT,Dundee FC,4,1,H,2,1,H
+SCO,2012-12-23,12:45,Kilmarnock FC,Hibernian FC,1,1,D,1,1,D
+SCO,2012-12-23,16:30,Heart of Midlothian,Dundee United,2,1,H,2,0,H
+SCO,2012-12-26,12:00,Dundee United,St. Johnstone FC,1,1,D,1,0,H
+SCO,2012-12-26,15:00,Hibernian FC,Ross County FC,0,1,A,0,0,D
+SCO,2012-12-26,15:00,Inverness CT,St. Mirren FC,2,2,D,1,1,D
+SCO,2012-12-26,15:00,Kilmarnock FC,Heart of Midlothian,1,0,H,1,0,H
+SCO,2012-12-26,15:00,Motherwell FC,Aberdeen FC,4,1,H,3,1,H
+SCO,2012-12-26,19:30,Dundee FC,Celtic FC,0,2,A,0,1,A
+SCO,2012-12-29,15:00,Hibernian FC,Celtic FC,1,0,H,1,0,H
+SCO,2012-12-29,15:00,Motherwell FC,Kilmarnock FC,2,2,D,0,1,A
+SCO,2012-12-29,15:00,St. Johnstone FC,Inverness CT,0,0,D,0,0,D
+SCO,2012-12-29,15:00,Dundee FC,Aberdeen FC,1,3,A,0,0,D
+SCO,2012-12-30,15:00,Dundee United,St. Mirren FC,3,4,A,2,1,H
+SCO,2013-01-02,14:00,St. Johnstone FC,Dundee FC,1,0,H,1,0,H
+SCO,2013-01-02,15:00,Aberdeen FC,Dundee United,2,2,D,1,2,A
+SCO,2013-01-02,15:00,Celtic FC,Motherwell FC,1,0,H,0,0,D
+SCO,2013-01-02,15:00,St. Mirren FC,Kilmarnock FC,1,1,D,0,1,A
+SCO,2013-01-03,19:45,Heart of Midlothian,Hibernian FC,0,0,D,0,0,D
+SCO,2013-01-19,12:45,St. Mirren FC,Ross County FC,1,4,A,0,1,A
+SCO,2013-01-19,15:00,Celtic FC,Heart of Midlothian,4,1,H,2,0,H
+SCO,2013-01-19,15:00,Inverness CT,Aberdeen FC,3,0,H,0,0,D
+SCO,2013-01-19,15:00,Kilmarnock FC,Dundee United,2,3,A,1,1,D
+SCO,2013-01-19,15:00,Hibernian FC,Dundee FC,1,1,D,0,1,A
+SCO,2013-01-20,14:15,Motherwell FC,St. Johnstone FC,3,2,H,2,0,H
+SCO,2013-01-22,19:45,Celtic FC,Dundee United,4,0,H,2,0,H
+SCO,2013-01-26,15:00,Dundee United,Ross County FC,1,1,D,0,0,D
+SCO,2013-01-27,12:30,Aberdeen FC,Hibernian FC,0,0,D,0,0,D
+SCO,2013-01-27,15:00,Dundee FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2013-01-30,19:30,St. Johnstone FC,Aberdeen FC,3,1,H,1,1,D
+SCO,2013-01-30,19:45,Celtic FC,Kilmarnock FC,4,1,H,1,0,H
+SCO,2013-01-30,19:45,Ross County FC,Hibernian FC,1,0,H,1,0,H
+SCO,2013-01-30,19:45,St. Mirren FC,Inverness CT,2,1,H,1,1,D
+SCO,2013-01-30,19:45,Heart of Midlothian,Dundee FC,1,0,H,0,0,D
+SCO,2013-02-02,15:00,Ross County FC,Heart of Midlothian,2,2,D,1,1,D
+SCO,2013-02-08,19:45,Dundee FC,Ross County FC,0,2,A,0,0,D
+SCO,2013-02-09,12:00,Inverness CT,Celtic FC,1,3,A,1,1,D
+SCO,2013-02-09,15:00,Aberdeen FC,St. Mirren FC,0,0,D,0,0,D
+SCO,2013-02-09,15:00,Dundee United,Heart of Midlothian,3,1,H,1,0,H
+SCO,2013-02-09,15:00,Kilmarnock FC,Motherwell FC,2,0,H,1,0,H
+SCO,2013-02-11,19:30,Hibernian FC,St. Johnstone FC,1,3,A,0,2,A
+SCO,2013-02-13,19:45,Inverness CT,Kilmarnock FC,1,1,D,1,0,H
+SCO,2013-02-15,19:45,Aberdeen FC,Dundee FC,1,0,H,1,0,H
+SCO,2013-02-16,15:00,Celtic FC,Dundee United,6,2,H,3,1,H
+SCO,2013-02-16,15:00,Heart of Midlothian,Kilmarnock FC,0,3,A,0,1,A
+SCO,2013-02-16,15:00,Motherwell FC,Inverness CT,3,0,H,1,0,H
+SCO,2013-02-16,15:00,Ross County FC,St. Johnstone FC,1,0,H,1,0,H
+SCO,2013-02-16,15:00,St. Mirren FC,Hibernian FC,0,1,A,0,0,D
+SCO,2013-02-19,19:45,St. Johnstone FC,Celtic FC,1,1,D,0,1,A
+SCO,2013-02-19,19:45,Motherwell FC,Dundee United,0,1,A,0,1,A
+SCO,2013-02-23,15:00,Heart of Midlothian,Inverness CT,2,3,A,0,1,A
+SCO,2013-02-23,15:00,Kilmarnock FC,Aberdeen FC,1,1,D,1,1,D
+SCO,2013-02-23,15:00,Ross County FC,Motherwell FC,3,0,H,1,0,H
+SCO,2013-02-23,15:00,St. Johnstone FC,St. Mirren FC,1,0,H,0,0,D
+SCO,2013-02-24,12:45,Celtic FC,Dundee FC,5,0,H,1,0,H
+SCO,2013-02-24,16:30,Dundee United,Hibernian FC,2,2,D,1,1,D
+SCO,2013-02-26,19:30,Aberdeen FC,Ross County FC,0,1,A,0,0,D
+SCO,2013-02-27,19:45,Hibernian FC,Kilmarnock FC,2,2,D,0,0,D
+SCO,2013-02-27,19:45,Inverness CT,Dundee United,0,0,D,0,0,D
+SCO,2013-02-27,19:45,Motherwell FC,Celtic FC,2,1,H,1,0,H
+SCO,2013-02-27,19:45,St. Mirren FC,Heart of Midlothian,2,0,H,2,0,H
+SCO,2013-02-27,19:45,Dundee FC,St. Johnstone FC,2,2,D,1,1,D
+SCO,2013-03-02,15:00,Ross County FC,Inverness CT,0,0,D,0,0,D
+SCO,2013-03-02,15:00,Heart of Midlothian,Motherwell FC,1,2,A,0,2,A
+SCO,2013-03-05,19:45,Heart of Midlothian,St. Johnstone FC,2,0,H,1,0,H
+SCO,2013-03-06,19:45,Dundee FC,St. Mirren FC,2,1,H,0,1,A
+SCO,2013-03-09,15:00,Aberdeen FC,Motherwell FC,0,0,D,0,0,D
+SCO,2013-03-09,15:00,Ross County FC,Celtic FC,3,2,H,2,2,D
+SCO,2013-03-09,15:00,St. Johnstone FC,Kilmarnock FC,2,0,H,0,0,D
+SCO,2013-03-09,15:00,St. Mirren FC,Dundee United,0,0,D,0,0,D
+SCO,2013-03-09,15:00,Dundee FC,Inverness CT,1,1,D,1,0,H
+SCO,2013-03-10,12:45,Hibernian FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2013-03-15,19:45,Motherwell FC,Hibernian FC,4,1,H,0,1,A
+SCO,2013-03-16,15:00,Celtic FC,Aberdeen FC,4,3,H,1,1,D
+SCO,2013-03-16,15:00,Inverness CT,Ross County FC,2,1,H,1,1,D
+SCO,2013-03-17,12:00,Dundee United,Dundee FC,1,1,D,0,0,D
+SCO,2013-03-30,15:00,Aberdeen FC,Heart of Midlothian,2,0,H,1,0,H
+SCO,2013-03-30,15:00,Hibernian FC,Inverness CT,1,2,A,0,0,D
+SCO,2013-03-30,15:00,Ross County FC,Kilmarnock FC,0,1,A,0,1,A
+SCO,2013-03-30,15:00,Dundee FC,Motherwell FC,0,3,A,0,1,A
+SCO,2013-03-31,12:45,St. Mirren FC,Celtic FC,1,1,D,0,1,A
+SCO,2013-04-01,20:00,St. Johnstone FC,Dundee United,1,1,D,0,1,A
+SCO,2013-04-03,19:45,Kilmarnock FC,St. Mirren FC,1,1,D,0,1,A
+SCO,2013-04-05,19:45,Inverness CT,St. Johnstone FC,0,0,D,0,0,D
+SCO,2013-04-06,12:00,Heart of Midlothian,Ross County FC,4,2,H,0,1,A
+SCO,2013-04-06,15:00,Celtic FC,Hibernian FC,3,0,H,1,0,H
+SCO,2013-04-06,15:00,Dundee United,Aberdeen FC,1,0,H,0,0,D
+SCO,2013-04-06,15:00,Motherwell FC,St. Mirren FC,2,2,D,1,1,D
+SCO,2013-04-06,15:00,Kilmarnock FC,Dundee FC,1,2,A,0,1,A

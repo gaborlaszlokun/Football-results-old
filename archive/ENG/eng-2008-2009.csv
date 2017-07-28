@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ENG,16/08/2008,12:45,Arsenal FC,West Bromwich Albion,1,0,H,1,0,H
-ENG,16/08/2008,15:00,Bolton Wanderers,Stoke City,3,1,H,3,0,H
-ENG,16/08/2008,15:00,Middlesbrough FC,Tottenham Hotspur,2,1,H,0,0,D
-ENG,16/08/2008,15:00,West Ham United,Wigan Athletic,2,1,H,2,0,H
-ENG,16/08/2008,15:00,Everton FC,Blackburn Rovers,2,3,A,1,1,D
-ENG,16/08/2008,15:00,Hull City,Fulham FC,2,1,H,1,1,D
-ENG,16/08/2008,17:30,Sunderland AFC,Liverpool FC,0,1,A,0,0,D
-ENG,17/08/2008,13:30,Chelsea FC,Portsmouth FC,4,0,H,3,0,H
-ENG,17/08/2008,15:00,Aston Villa,Manchester City,4,2,H,0,0,D
-ENG,17/08/2008,16:00,Manchester United,Newcastle United,1,1,D,1,1,D
-ENG,23/08/2008,15:00,Blackburn Rovers,Hull City,1,1,D,1,1,D
-ENG,23/08/2008,15:00,Liverpool FC,Middlesbrough FC,2,1,H,0,0,D
-ENG,23/08/2008,15:00,Newcastle United,Bolton Wanderers,1,0,H,0,0,D
-ENG,23/08/2008,15:00,Stoke City,Aston Villa,3,2,H,1,0,H
-ENG,23/08/2008,15:00,Tottenham Hotspur,Sunderland AFC,1,2,A,0,0,D
-ENG,23/08/2008,15:00,West Bromwich Albion,Everton FC,1,2,A,0,0,D
-ENG,23/08/2008,17:30,Fulham FC,Arsenal FC,1,0,H,1,0,H
-ENG,24/08/2008,13:30,Wigan Athletic,Chelsea FC,0,1,A,0,1,A
-ENG,24/08/2008,16:00,Manchester City,West Ham United,3,0,H,0,0,D
-ENG,25/08/2008,20:00,Portsmouth FC,Manchester United,0,1,A,0,1,A
-ENG,30/08/2008,15:00,Bolton Wanderers,West Bromwich Albion,0,0,D,0,0,D
-ENG,30/08/2008,15:00,Everton FC,Portsmouth FC,0,3,A,0,2,A
-ENG,30/08/2008,15:00,Hull City,Wigan Athletic,0,5,A,0,2,A
-ENG,30/08/2008,15:00,Middlesbrough FC,Stoke City,2,1,H,1,0,H
-ENG,30/08/2008,15:00,West Ham United,Blackburn Rovers,4,1,H,2,1,H
-ENG,30/08/2008,17:30,Arsenal FC,Newcastle United,3,0,H,2,0,H
-ENG,31/08/2008,13:30,Chelsea FC,Tottenham Hotspur,1,1,D,1,1,D
-ENG,31/08/2008,15:00,Sunderland AFC,Manchester City,0,3,A,0,1,A
-ENG,31/08/2008,16:00,Aston Villa,Liverpool FC,0,0,D,0,0,D
-ENG,18/02/2009,20:00,Manchester United,Fulham FC,3,0,H,2,0,H
-ENG,13/09/2008,12:45,Liverpool FC,Manchester United,2,1,H,1,1,D
-ENG,13/09/2008,15:00,Blackburn Rovers,Arsenal FC,0,4,A,0,2,A
-ENG,13/09/2008,15:00,Fulham FC,Bolton Wanderers,2,1,H,2,0,H
-ENG,13/09/2008,15:00,Newcastle United,Hull City,1,2,A,0,1,A
-ENG,13/09/2008,15:00,Portsmouth FC,Middlesbrough FC,2,1,H,0,1,A
-ENG,13/09/2008,15:00,West Bromwich Albion,West Ham United,3,2,H,2,2,D
-ENG,13/09/2008,15:00,Wigan Athletic,Sunderland AFC,1,1,D,0,1,A
-ENG,13/09/2008,17:30,Manchester City,Chelsea FC,1,3,A,1,1,D
-ENG,14/09/2008,13:30,Stoke City,Everton FC,2,3,A,0,1,A
-ENG,15/09/2008,20:00,Tottenham Hotspur,Aston Villa,1,2,A,0,1,A
-ENG,20/09/2008,12:45,Sunderland AFC,Middlesbrough FC,2,0,H,0,0,D
-ENG,20/09/2008,15:00,Blackburn Rovers,Fulham FC,1,0,H,0,0,D
-ENG,20/09/2008,15:00,Liverpool FC,Stoke City,0,0,D,0,0,D
-ENG,20/09/2008,15:00,West Ham United,Newcastle United,3,1,H,2,0,H
-ENG,20/09/2008,17:30,Bolton Wanderers,Arsenal FC,1,3,A,1,2,A
-ENG,21/09/2008,12:00,West Bromwich Albion,Aston Villa,1,2,A,1,2,A
-ENG,21/09/2008,14:00,Chelsea FC,Manchester United,1,1,D,0,1,A
-ENG,21/09/2008,15:00,Hull City,Everton FC,2,2,D,1,0,H
-ENG,21/09/2008,15:00,Manchester City,Portsmouth FC,6,0,H,2,0,H
-ENG,21/09/2008,15:00,Tottenham Hotspur,Wigan Athletic,0,0,D,0,0,D
-ENG,27/09/2008,12:45,Everton FC,Liverpool FC,0,2,A,0,0,D
-ENG,27/09/2008,15:00,Aston Villa,Sunderland AFC,2,1,H,2,1,H
-ENG,27/09/2008,15:00,Fulham FC,West Ham United,1,2,A,0,2,A
-ENG,27/09/2008,15:00,Manchester United,Bolton Wanderers,2,0,H,0,0,D
-ENG,27/09/2008,15:00,Middlesbrough FC,West Bromwich Albion,0,1,A,0,0,D
-ENG,27/09/2008,15:00,Newcastle United,Blackburn Rovers,1,2,A,0,2,A
-ENG,27/09/2008,15:00,Stoke City,Chelsea FC,0,2,A,0,1,A
-ENG,27/09/2008,17:30,Arsenal FC,Hull City,1,2,A,0,0,D
-ENG,28/09/2008,13:30,Portsmouth FC,Tottenham Hotspur,2,0,H,1,0,H
-ENG,28/09/2008,16:00,Wigan Athletic,Manchester City,2,1,H,2,1,H
-ENG,04/10/2008,15:00,Sunderland AFC,Arsenal FC,1,1,D,0,0,D
-ENG,04/10/2008,15:00,West Bromwich Albion,Fulham FC,1,0,H,0,0,D
-ENG,04/10/2008,15:00,Wigan Athletic,Middlesbrough FC,0,1,A,0,0,D
-ENG,04/10/2008,17:30,Blackburn Rovers,Manchester United,0,2,A,0,1,A
-ENG,05/10/2008,13:30,West Ham United,Bolton Wanderers,1,3,A,0,2,A
-ENG,05/10/2008,15:00,Chelsea FC,Aston Villa,2,0,H,2,0,H
-ENG,05/10/2008,15:00,Manchester City,Liverpool FC,2,3,A,2,0,H
-ENG,05/10/2008,15:00,Portsmouth FC,Stoke City,2,1,H,1,0,H
-ENG,05/10/2008,15:00,Tottenham Hotspur,Hull City,0,1,A,0,1,A
-ENG,05/10/2008,16:00,Everton FC,Newcastle United,2,2,D,2,1,H
-ENG,18/10/2008,12:45,Middlesbrough FC,Chelsea FC,0,5,A,0,1,A
-ENG,18/10/2008,15:00,Arsenal FC,Everton FC,3,1,H,0,1,A
-ENG,18/10/2008,15:00,Aston Villa,Portsmouth FC,0,0,D,0,0,D
-ENG,18/10/2008,15:00,Bolton Wanderers,Blackburn Rovers,0,0,D,0,0,D
-ENG,18/10/2008,15:00,Fulham FC,Sunderland AFC,0,0,D,0,0,D
-ENG,18/10/2008,15:00,Liverpool FC,Wigan Athletic,3,2,H,1,2,A
-ENG,18/10/2008,17:30,Manchester United,West Bromwich Albion,4,0,H,0,0,D
-ENG,19/10/2008,15:00,Hull City,West Ham United,1,0,H,0,0,D
-ENG,19/10/2008,16:00,Stoke City,Tottenham Hotspur,2,1,H,1,1,D
-ENG,20/10/2008,20:00,Newcastle United,Manchester City,2,2,D,1,1,D
-ENG,25/10/2008,12:00,Everton FC,Manchester United,1,1,D,0,1,A
-ENG,25/10/2008,12:45,Sunderland AFC,Newcastle United,2,1,H,1,1,D
-ENG,25/10/2008,15:00,West Bromwich Albion,Hull City,0,3,A,0,0,D
-ENG,25/10/2008,17:30,Blackburn Rovers,Middlesbrough FC,1,1,D,0,0,D
-ENG,26/10/2008,13:30,Chelsea FC,Liverpool FC,0,1,A,0,1,A
-ENG,26/10/2008,15:00,Manchester City,Stoke City,3,0,H,1,0,H
-ENG,26/10/2008,15:00,Tottenham Hotspur,Bolton Wanderers,2,0,H,1,0,H
-ENG,26/10/2008,15:00,Wigan Athletic,Aston Villa,0,4,A,0,1,A
-ENG,26/10/2008,16:00,West Ham United,Arsenal FC,0,2,A,0,0,D
-ENG,26/10/2008,17:00,Portsmouth FC,Fulham FC,1,1,D,0,0,D
-ENG,28/10/2008,19:45,Newcastle United,West Bromwich Albion,2,1,H,2,0,H
-ENG,29/10/2008,19:45,Hull City,Chelsea FC,0,3,A,0,1,A
-ENG,29/10/2008,19:45,Stoke City,Sunderland AFC,1,0,H,0,0,D
-ENG,29/10/2008,19:45,Aston Villa,Blackburn Rovers,3,2,H,1,1,D
-ENG,29/10/2008,19:45,Fulham FC,Wigan Athletic,2,0,H,1,0,H
-ENG,29/10/2008,20:00,Arsenal FC,Tottenham Hotspur,4,4,D,1,1,D
-ENG,29/10/2008,20:00,Bolton Wanderers,Everton FC,0,1,A,0,0,D
-ENG,29/10/2008,20:00,Manchester United,West Ham United,2,0,H,2,0,H
-ENG,29/10/2008,20:00,Middlesbrough FC,Manchester City,2,0,H,0,0,D
-ENG,29/10/2008,20:00,Liverpool FC,Portsmouth FC,1,0,H,0,0,D
-ENG,01/11/2008,12:45,Everton FC,Fulham FC,1,0,H,0,0,D
-ENG,01/11/2008,15:00,Chelsea FC,Sunderland AFC,5,0,H,3,0,H
-ENG,01/11/2008,15:00,Manchester United,Hull City,4,3,H,3,1,H
-ENG,01/11/2008,15:00,Middlesbrough FC,West Ham United,1,1,D,0,1,A
-ENG,01/11/2008,15:00,Portsmouth FC,Wigan Athletic,1,2,A,0,1,A
-ENG,01/11/2008,15:00,Stoke City,Arsenal FC,2,1,H,1,0,H
-ENG,01/11/2008,15:00,West Bromwich Albion,Blackburn Rovers,2,2,D,0,1,A
-ENG,01/11/2008,17:30,Tottenham Hotspur,Liverpool FC,2,1,H,0,1,A
-ENG,02/11/2008,16:00,Bolton Wanderers,Manchester City,2,0,H,0,0,D
-ENG,03/11/2008,20:00,Newcastle United,Aston Villa,2,0,H,0,0,D
-ENG,08/11/2008,12:45,Arsenal FC,Manchester United,2,1,H,1,0,H
-ENG,08/11/2008,12:45,Wigan Athletic,Stoke City,0,0,D,0,0,D
-ENG,08/11/2008,15:00,Hull City,Bolton Wanderers,0,1,A,0,0,D
-ENG,08/11/2008,15:00,Sunderland AFC,Portsmouth FC,1,2,A,1,0,H
-ENG,08/11/2008,15:00,West Ham United,Everton FC,1,3,A,0,0,D
-ENG,08/11/2008,17:30,Liverpool FC,West Bromwich Albion,3,0,H,2,0,H
-ENG,09/11/2008,13:30,Blackburn Rovers,Chelsea FC,0,2,A,0,1,A
-ENG,09/11/2008,15:00,Aston Villa,Middlesbrough FC,1,2,A,1,1,D
-ENG,09/11/2008,15:00,Manchester City,Tottenham Hotspur,1,2,A,1,1,D
-ENG,09/11/2008,16:00,Fulham FC,Newcastle United,2,1,H,1,0,H
-ENG,15/11/2008,12:45,Bolton Wanderers,Liverpool FC,0,2,A,0,1,A
-ENG,15/11/2008,15:00,Arsenal FC,Aston Villa,0,2,A,0,0,D
-ENG,15/11/2008,15:00,Blackburn Rovers,Sunderland AFC,1,2,A,1,0,H
-ENG,15/11/2008,15:00,Fulham FC,Tottenham Hotspur,2,1,H,1,0,H
-ENG,15/11/2008,15:00,Manchester United,Stoke City,5,0,H,2,0,H
-ENG,15/11/2008,15:00,Newcastle United,Wigan Athletic,2,2,D,0,1,A
-ENG,15/11/2008,15:00,West Ham United,Portsmouth FC,0,0,D,0,0,D
-ENG,15/11/2008,17:30,West Bromwich Albion,Chelsea FC,0,3,A,0,3,A
-ENG,16/11/2008,13:30,Everton FC,Middlesbrough FC,1,1,D,0,1,A
-ENG,16/11/2008,16:00,Hull City,Manchester City,2,2,D,1,2,A
-ENG,22/11/2008,15:00,Chelsea FC,Newcastle United,0,0,D,0,0,D
-ENG,22/11/2008,15:00,Liverpool FC,Fulham FC,0,0,D,0,0,D
-ENG,22/11/2008,15:00,Manchester City,Arsenal FC,3,0,H,1,0,H
-ENG,22/11/2008,15:00,Middlesbrough FC,Bolton Wanderers,1,3,A,0,2,A
-ENG,22/11/2008,15:00,Portsmouth FC,Hull City,2,2,D,1,0,H
-ENG,22/11/2008,15:00,Stoke City,West Bromwich Albion,1,0,H,0,0,D
-ENG,22/11/2008,17:30,Aston Villa,Manchester United,0,0,D,0,0,D
-ENG,23/11/2008,13:30,Tottenham Hotspur,Blackburn Rovers,1,0,H,1,0,H
-ENG,23/11/2008,16:00,Sunderland AFC,West Ham United,0,1,A,0,1,A
-ENG,24/11/2008,20:00,Wigan Athletic,Everton FC,1,0,H,0,0,D
-ENG,29/11/2008,15:00,Aston Villa,Fulham FC,0,0,D,0,0,D
-ENG,29/11/2008,15:00,Middlesbrough FC,Newcastle United,0,0,D,0,0,D
-ENG,29/11/2008,15:00,Stoke City,Hull City,1,1,D,0,1,A
-ENG,29/11/2008,15:00,Sunderland AFC,Bolton Wanderers,1,4,A,1,3,A
-ENG,29/11/2008,15:00,Wigan Athletic,West Bromwich Albion,2,1,H,0,0,D
-ENG,30/11/2008,13:30,Manchester City,Manchester United,0,1,A,0,1,A
-ENG,30/11/2008,15:00,Portsmouth FC,Blackburn Rovers,3,2,H,0,0,D
-ENG,30/11/2008,15:00,Tottenham Hotspur,Everton FC,0,1,A,0,0,D
-ENG,30/11/2008,16:00,Chelsea FC,Arsenal FC,1,2,A,1,0,H
-ENG,01/12/2008,20:00,Liverpool FC,West Ham United,0,0,D,0,0,D
-ENG,06/12/2008,12:45,Fulham FC,Manchester City,1,1,D,1,1,D
-ENG,06/12/2008,15:00,Arsenal FC,Wigan Athletic,1,0,H,1,0,H
-ENG,06/12/2008,15:00,Blackburn Rovers,Liverpool FC,1,3,A,0,0,D
-ENG,06/12/2008,15:00,Bolton Wanderers,Chelsea FC,0,2,A,0,2,A
-ENG,06/12/2008,15:00,Hull City,Middlesbrough FC,2,1,H,0,0,D
-ENG,06/12/2008,15:00,Newcastle United,Stoke City,2,2,D,2,0,H
-ENG,06/12/2008,17:30,Manchester United,Sunderland AFC,1,0,H,0,0,D
-ENG,07/12/2008,15:00,West Bromwich Albion,Portsmouth FC,1,1,D,1,0,H
-ENG,07/12/2008,16:00,Everton FC,Aston Villa,2,3,A,1,1,D
-ENG,08/12/2008,20:00,West Ham United,Tottenham Hotspur,0,2,A,0,0,D
-ENG,13/12/2008,12:45,Middlesbrough FC,Arsenal FC,1,1,D,1,1,D
-ENG,13/12/2008,15:00,Aston Villa,Bolton Wanderers,4,2,H,2,1,H
-ENG,13/12/2008,15:00,Liverpool FC,Hull City,2,2,D,2,2,D
-ENG,13/12/2008,15:00,Manchester City,Everton FC,0,1,A,0,0,D
-ENG,13/12/2008,15:00,Stoke City,Fulham FC,0,0,D,0,0,D
-ENG,13/12/2008,15:00,Sunderland AFC,West Bromwich Albion,4,0,H,3,0,H
-ENG,13/12/2008,15:00,Wigan Athletic,Blackburn Rovers,3,0,H,2,0,H
-ENG,13/12/2008,17:30,Tottenham Hotspur,Manchester United,0,0,D,0,0,D
-ENG,14/12/2008,13:30,Portsmouth FC,Newcastle United,0,3,A,0,0,D
-ENG,14/12/2008,16:00,Chelsea FC,West Ham United,1,1,D,0,1,A
-ENG,20/12/2008,15:00,Blackburn Rovers,Stoke City,3,0,H,3,0,H
-ENG,20/12/2008,15:00,Bolton Wanderers,Portsmouth FC,2,1,H,2,1,H
-ENG,20/12/2008,15:00,Fulham FC,Middlesbrough FC,3,0,H,1,0,H
-ENG,20/12/2008,15:00,Hull City,Sunderland AFC,1,4,A,1,1,D
-ENG,20/12/2008,17:30,West Ham United,Aston Villa,0,1,A,0,0,D
-ENG,21/12/2008,13:30,West Bromwich Albion,Manchester City,2,1,H,0,0,D
-ENG,21/12/2008,15:00,Newcastle United,Tottenham Hotspur,2,1,H,1,1,D
-ENG,21/12/2008,16:00,Arsenal FC,Liverpool FC,1,1,D,1,1,D
-ENG,22/12/2008,20:00,Everton FC,Chelsea FC,0,0,D,0,0,D
-ENG,14/01/2009,20:00,Manchester United,Wigan Athletic,1,0,H,1,0,H
-ENG,26/12/2008,12:45,Stoke City,Manchester United,0,1,A,0,0,D
-ENG,26/12/2008,13:00,Chelsea FC,West Bromwich Albion,2,0,H,2,0,H
-ENG,26/12/2008,13:00,Portsmouth FC,West Ham United,1,4,A,1,1,D
-ENG,26/12/2008,13:00,Tottenham Hotspur,Fulham FC,0,0,D,0,0,D
-ENG,26/12/2008,15:00,Liverpool FC,Bolton Wanderers,3,0,H,1,0,H
-ENG,26/12/2008,15:00,Manchester City,Hull City,5,1,H,4,0,H
-ENG,26/12/2008,15:00,Middlesbrough FC,Everton FC,0,1,A,0,0,D
-ENG,26/12/2008,15:00,Sunderland AFC,Blackburn Rovers,0,0,D,0,0,D
-ENG,26/12/2008,15:00,Wigan Athletic,Newcastle United,2,1,H,1,0,H
-ENG,26/12/2008,17:15,Aston Villa,Arsenal FC,2,2,D,0,1,A
-ENG,28/12/2008,12:00,Newcastle United,Liverpool FC,1,5,A,1,2,A
-ENG,28/12/2008,14:00,Arsenal FC,Portsmouth FC,1,0,H,0,0,D
-ENG,28/12/2008,14:00,Bolton Wanderers,Wigan Athletic,0,1,A,0,1,A
-ENG,28/12/2008,14:00,Everton FC,Sunderland AFC,3,0,H,2,0,H
-ENG,28/12/2008,14:00,Fulham FC,Chelsea FC,2,2,D,1,0,H
-ENG,28/12/2008,14:00,West Bromwich Albion,Tottenham Hotspur,2,0,H,0,0,D
-ENG,28/12/2008,14:00,West Ham United,Stoke City,2,1,H,0,1,A
-ENG,28/12/2008,16:15,Blackburn Rovers,Manchester City,2,2,D,1,0,H
-ENG,29/12/2008,20:00,Manchester United,Middlesbrough FC,1,0,H,0,0,D
-ENG,30/12/2008,20:00,Hull City,Aston Villa,0,1,A,0,0,D
-ENG,10/01/2009,12:45,Aston Villa,West Bromwich Albion,2,1,H,2,0,H
-ENG,10/01/2009,15:00,Arsenal FC,Bolton Wanderers,1,0,H,0,0,D
-ENG,10/01/2009,15:00,Everton FC,Hull City,2,0,H,2,0,H
-ENG,10/01/2009,15:00,Middlesbrough FC,Sunderland AFC,1,1,D,1,0,H
-ENG,10/01/2009,15:00,Newcastle United,West Ham United,2,2,D,1,1,D
-ENG,10/01/2009,17:30,Stoke City,Liverpool FC,0,0,D,0,0,D
-ENG,11/01/2009,13:30,Wigan Athletic,Tottenham Hotspur,1,0,H,0,0,D
-ENG,11/01/2009,16:00,Manchester United,Chelsea FC,3,0,H,1,0,H
-ENG,14/02/2009,15:00,Portsmouth FC,Manchester City,2,0,H,0,0,D
-ENG,11/03/2009,20:00,Fulham FC,Blackburn Rovers,1,2,A,1,0,H
-ENG,17/01/2009,15:00,Blackburn Rovers,Newcastle United,3,0,H,0,0,D
-ENG,17/01/2009,15:00,Bolton Wanderers,Manchester United,0,1,A,0,0,D
-ENG,17/01/2009,15:00,Chelsea FC,Stoke City,2,1,H,0,0,D
-ENG,17/01/2009,15:00,Manchester City,Wigan Athletic,1,0,H,0,0,D
-ENG,17/01/2009,15:00,Sunderland AFC,Aston Villa,1,2,A,1,0,H
-ENG,17/01/2009,15:00,West Bromwich Albion,Middlesbrough FC,3,0,H,1,0,H
-ENG,17/01/2009,17:30,Hull City,Arsenal FC,1,3,A,0,1,A
-ENG,18/01/2009,13:30,West Ham United,Fulham FC,3,1,H,1,1,D
-ENG,18/01/2009,16:00,Tottenham Hotspur,Portsmouth FC,1,1,D,0,0,D
-ENG,19/01/2009,20:00,Liverpool FC,Everton FC,1,1,D,0,0,D
-ENG,27/01/2009,19:45,Sunderland AFC,Fulham FC,1,0,H,0,0,D
-ENG,27/01/2009,20:00,Portsmouth FC,Aston Villa,0,1,A,0,1,A
-ENG,27/01/2009,20:00,Tottenham Hotspur,Stoke City,3,1,H,3,0,H
-ENG,27/01/2009,20:15,West Bromwich Albion,Manchester United,0,5,A,0,2,A
-ENG,28/01/2009,19:45,Wigan Athletic,Liverpool FC,1,1,D,0,1,A
-ENG,28/01/2009,19:45,Chelsea FC,Middlesbrough FC,2,0,H,0,0,D
-ENG,28/01/2009,19:45,Manchester City,Newcastle United,2,1,H,1,0,H
-ENG,28/01/2009,20:00,West Ham United,Hull City,2,0,H,1,0,H
-ENG,28/01/2009,20:00,Blackburn Rovers,Bolton Wanderers,2,2,D,0,2,A
-ENG,28/01/2009,20:00,Everton FC,Arsenal FC,1,1,D,0,0,D
-ENG,31/01/2009,12:45,Stoke City,Manchester City,1,0,H,1,0,H
-ENG,31/01/2009,15:00,Arsenal FC,West Ham United,0,0,D,0,0,D
-ENG,31/01/2009,15:00,Aston Villa,Wigan Athletic,0,0,D,0,0,D
-ENG,31/01/2009,15:00,Bolton Wanderers,Tottenham Hotspur,3,2,H,1,0,H
-ENG,31/01/2009,15:00,Fulham FC,Portsmouth FC,3,1,H,1,0,H
-ENG,31/01/2009,15:00,Hull City,West Bromwich Albion,2,2,D,1,0,H
-ENG,31/01/2009,15:00,Middlesbrough FC,Blackburn Rovers,0,0,D,0,0,D
-ENG,31/01/2009,17:30,Manchester United,Everton FC,1,0,H,1,0,H
-ENG,01/02/2009,13:30,Newcastle United,Sunderland AFC,1,1,D,0,1,A
-ENG,01/02/2009,16:00,Liverpool FC,Chelsea FC,2,0,H,0,0,D
-ENG,07/02/2009,12:45,Manchester City,Middlesbrough FC,1,0,H,0,0,D
-ENG,07/02/2009,15:00,Blackburn Rovers,Aston Villa,0,2,A,0,1,A
-ENG,07/02/2009,15:00,Chelsea FC,Hull City,0,0,D,0,0,D
-ENG,07/02/2009,15:00,Everton FC,Bolton Wanderers,3,0,H,1,0,H
-ENG,07/02/2009,15:00,Sunderland AFC,Stoke City,2,0,H,0,0,D
-ENG,07/02/2009,15:00,West Bromwich Albion,Newcastle United,2,3,A,1,3,A
-ENG,07/02/2009,15:00,Wigan Athletic,Fulham FC,0,0,D,0,0,D
-ENG,07/02/2009,17:30,Portsmouth FC,Liverpool FC,2,3,A,0,0,D
-ENG,08/02/2009,13:30,Tottenham Hotspur,Arsenal FC,0,0,D,0,0,D
-ENG,08/02/2009,16:00,West Ham United,Manchester United,0,1,A,0,0,D
-ENG,21/02/2009,12:45,Aston Villa,Chelsea FC,0,1,A,0,1,A
-ENG,21/02/2009,15:00,Arsenal FC,Sunderland AFC,0,0,D,0,0,D
-ENG,21/02/2009,15:00,Bolton Wanderers,West Ham United,2,1,H,2,0,H
-ENG,21/02/2009,15:00,Middlesbrough FC,Wigan Athletic,0,0,D,0,0,D
-ENG,21/02/2009,15:00,Stoke City,Portsmouth FC,2,2,D,0,0,D
-ENG,21/02/2009,17:30,Manchester United,Blackburn Rovers,2,1,H,1,1,D
-ENG,22/02/2009,13:30,Fulham FC,West Bromwich Albion,2,0,H,0,0,D
-ENG,22/02/2009,15:00,Liverpool FC,Manchester City,1,1,D,0,0,D
-ENG,22/02/2009,16:00,Newcastle United,Everton FC,0,0,D,0,0,D
-ENG,23/02/2009,20:00,Hull City,Tottenham Hotspur,1,2,A,1,1,D
-ENG,28/02/2009,12:45,Everton FC,West Bromwich Albion,2,0,H,1,0,H
-ENG,28/02/2009,15:00,Arsenal FC,Fulham FC,0,0,D,0,0,D
-ENG,28/02/2009,15:00,Chelsea FC,Wigan Athletic,2,1,H,1,0,H
-ENG,28/02/2009,15:00,Middlesbrough FC,Liverpool FC,2,0,H,1,0,H
-ENG,01/03/2009,12:30,Hull City,Blackburn Rovers,1,2,A,0,2,A
-ENG,01/03/2009,12:45,West Ham United,Manchester City,1,0,H,0,0,D
-ENG,01/03/2009,13:00,Bolton Wanderers,Newcastle United,1,0,H,0,0,D
-ENG,01/03/2009,15:00,Aston Villa,Stoke City,2,2,D,1,0,H
-ENG,07/03/2009,15:00,Sunderland AFC,Tottenham Hotspur,1,1,D,1,0,H
-ENG,22/04/2009,20:00,Manchester United,Portsmouth FC,2,0,H,1,0,H
-ENG,03/03/2009,19:45,Portsmouth FC,Chelsea FC,0,1,A,0,0,D
-ENG,03/03/2009,19:45,West Bromwich Albion,Arsenal FC,1,3,A,1,3,A
-ENG,03/03/2009,20:00,Liverpool FC,Sunderland AFC,2,0,H,0,0,D
-ENG,04/03/2009,19:45,Stoke City,Bolton Wanderers,2,0,H,1,0,H
-ENG,04/03/2009,19:45,Wigan Athletic,West Ham United,0,1,A,0,1,A
-ENG,04/03/2009,19:45,Manchester City,Aston Villa,2,0,H,1,0,H
-ENG,04/03/2009,19:45,Newcastle United,Manchester United,1,2,A,1,1,D
-ENG,04/03/2009,20:00,Tottenham Hotspur,Middlesbrough FC,4,0,H,3,0,H
-ENG,04/03/2009,20:00,Blackburn Rovers,Everton FC,0,0,D,0,0,D
-ENG,04/03/2009,20:00,Fulham FC,Hull City,0,1,A,0,0,D
-ENG,14/03/2009,12:45,Manchester United,Liverpool FC,1,4,A,1,2,A
-ENG,14/03/2009,15:00,Arsenal FC,Blackburn Rovers,4,0,H,1,0,H
-ENG,14/03/2009,15:00,Bolton Wanderers,Fulham FC,1,3,A,1,1,D
-ENG,14/03/2009,15:00,Everton FC,Stoke City,3,1,H,2,0,H
-ENG,14/03/2009,15:00,Hull City,Newcastle United,1,1,D,1,1,D
-ENG,14/03/2009,15:00,Middlesbrough FC,Portsmouth FC,1,1,D,0,1,A
-ENG,14/03/2009,15:00,Sunderland AFC,Wigan Athletic,1,2,A,1,2,A
-ENG,15/03/2009,13:30,Chelsea FC,Manchester City,1,0,H,1,0,H
-ENG,15/03/2009,16:00,Aston Villa,Tottenham Hotspur,1,2,A,0,1,A
-ENG,16/03/2009,20:00,West Ham United,West Bromwich Albion,0,0,D,0,0,D
-ENG,21/03/2009,12:45,Portsmouth FC,Everton FC,2,1,H,1,1,D
-ENG,21/03/2009,15:00,Blackburn Rovers,West Ham United,1,1,D,0,1,A
-ENG,21/03/2009,15:00,Fulham FC,Manchester United,2,0,H,1,0,H
-ENG,21/03/2009,15:00,Stoke City,Middlesbrough FC,1,0,H,0,0,D
-ENG,21/03/2009,15:00,West Bromwich Albion,Bolton Wanderers,1,1,D,0,0,D
-ENG,21/03/2009,15:30,Tottenham Hotspur,Chelsea FC,1,0,H,0,0,D
-ENG,21/03/2009,17:30,Newcastle United,Arsenal FC,1,3,A,0,0,D
-ENG,22/03/2009,13:30,Wigan Athletic,Hull City,1,0,H,0,0,D
-ENG,22/03/2009,15:00,Manchester City,Sunderland AFC,1,0,H,0,0,D
-ENG,22/03/2009,16:00,Liverpool FC,Aston Villa,5,0,H,3,0,H
-ENG,04/04/2009,12:45,Blackburn Rovers,Tottenham Hotspur,2,1,H,0,1,A
-ENG,04/04/2009,15:00,Arsenal FC,Manchester City,2,0,H,1,0,H
-ENG,04/04/2009,15:00,Bolton Wanderers,Middlesbrough FC,4,1,H,2,1,H
-ENG,04/04/2009,15:00,Hull City,Portsmouth FC,0,0,D,0,0,D
-ENG,04/04/2009,15:00,Newcastle United,Chelsea FC,0,2,A,0,0,D
-ENG,04/04/2009,15:00,West Bromwich Albion,Stoke City,0,2,A,0,1,A
-ENG,04/04/2009,15:00,West Ham United,Sunderland AFC,2,0,H,1,0,H
-ENG,04/04/2009,17:30,Fulham FC,Liverpool FC,0,1,A,0,0,D
-ENG,05/04/2009,15:00,Everton FC,Wigan Athletic,4,0,H,1,0,H
-ENG,05/04/2009,16:00,Manchester United,Aston Villa,3,2,H,1,1,D
-ENG,11/04/2009,12:45,Liverpool FC,Blackburn Rovers,4,0,H,2,0,H
-ENG,11/04/2009,15:00,Chelsea FC,Bolton Wanderers,4,3,H,1,0,H
-ENG,11/04/2009,15:00,Middlesbrough FC,Hull City,3,1,H,2,1,H
-ENG,11/04/2009,15:00,Portsmouth FC,West Bromwich Albion,2,2,D,1,0,H
-ENG,11/04/2009,15:00,Sunderland AFC,Manchester United,1,2,A,0,1,A
-ENG,11/04/2009,15:00,Tottenham Hotspur,West Ham United,1,0,H,0,0,D
-ENG,11/04/2009,15:00,Wigan Athletic,Arsenal FC,1,4,A,1,0,H
-ENG,11/04/2009,17:30,Stoke City,Newcastle United,1,1,D,1,0,H
-ENG,12/04/2009,14:00,Aston Villa,Everton FC,3,3,D,1,2,A
-ENG,12/04/2009,16:00,Manchester City,Fulham FC,1,3,A,1,0,H
-ENG,18/04/2009,15:00,Aston Villa,West Ham United,1,1,D,1,0,H
-ENG,18/04/2009,15:00,Middlesbrough FC,Fulham FC,0,0,D,0,0,D
-ENG,18/04/2009,15:00,Portsmouth FC,Bolton Wanderers,1,0,H,0,0,D
-ENG,18/04/2009,15:00,Stoke City,Blackburn Rovers,1,0,H,0,0,D
-ENG,18/04/2009,15:00,Sunderland AFC,Hull City,1,0,H,1,0,H
-ENG,19/04/2009,13:30,Tottenham Hotspur,Newcastle United,1,0,H,1,0,H
-ENG,19/04/2009,15:00,Manchester City,West Bromwich Albion,4,2,H,2,1,H
-ENG,21/04/2009,20:00,Liverpool FC,Arsenal FC,4,4,D,0,1,A
-ENG,22/04/2009,20:00,Chelsea FC,Everton FC,0,0,D,0,0,D
-ENG,13/05/2009,20:00,Wigan Athletic,Manchester United,1,2,A,1,0,H
-ENG,25/04/2009,15:00,Bolton Wanderers,Aston Villa,1,1,D,0,1,A
-ENG,25/04/2009,15:00,Everton FC,Manchester City,1,2,A,0,1,A
-ENG,25/04/2009,15:00,Fulham FC,Stoke City,1,0,H,1,0,H
-ENG,25/04/2009,15:00,Hull City,Liverpool FC,1,3,A,0,1,A
-ENG,25/04/2009,15:00,West Bromwich Albion,Sunderland AFC,3,0,H,1,0,H
-ENG,25/04/2009,15:00,West Ham United,Chelsea FC,0,1,A,0,0,D
-ENG,25/04/2009,17:30,Manchester United,Tottenham Hotspur,5,2,H,0,2,A
-ENG,26/04/2009,13:30,Arsenal FC,Middlesbrough FC,2,0,H,1,0,H
-ENG,26/04/2009,16:00,Blackburn Rovers,Wigan Athletic,2,0,H,1,0,H
-ENG,27/04/2009,20:00,Newcastle United,Portsmouth FC,0,0,D,0,0,D
-ENG,02/05/2009,12:45,Middlesbrough FC,Manchester United,0,2,A,0,1,A
-ENG,02/05/2009,15:00,Chelsea FC,Fulham FC,3,1,H,2,1,H
-ENG,02/05/2009,15:00,Manchester City,Blackburn Rovers,3,1,H,3,0,H
-ENG,02/05/2009,15:00,Portsmouth FC,Arsenal FC,0,3,A,0,2,A
-ENG,02/05/2009,15:00,Stoke City,West Ham United,0,1,A,0,1,A
-ENG,02/05/2009,15:00,Tottenham Hotspur,West Bromwich Albion,1,0,H,1,0,H
-ENG,02/05/2009,15:00,Wigan Athletic,Bolton Wanderers,0,0,D,0,0,D
-ENG,03/05/2009,13:30,Liverpool FC,Newcastle United,3,0,H,2,0,H
-ENG,03/05/2009,16:00,Sunderland AFC,Everton FC,0,2,A,0,0,D
-ENG,04/05/2009,20:00,Aston Villa,Hull City,1,0,H,1,0,H
-ENG,09/05/2009,15:00,Blackburn Rovers,Portsmouth FC,2,0,H,1,0,H
-ENG,09/05/2009,15:00,Bolton Wanderers,Sunderland AFC,0,0,D,0,0,D
-ENG,09/05/2009,15:00,Everton FC,Tottenham Hotspur,0,0,D,0,0,D
-ENG,09/05/2009,15:00,Fulham FC,Aston Villa,3,1,H,1,1,D
-ENG,09/05/2009,15:00,Hull City,Stoke City,1,2,A,0,1,A
-ENG,09/05/2009,15:00,West Bromwich Albion,Wigan Athletic,3,1,H,1,1,D
-ENG,09/05/2009,17:30,West Ham United,Liverpool FC,0,3,A,0,2,A
-ENG,10/05/2009,13:30,Manchester United,Manchester City,2,0,H,2,0,H
-ENG,10/05/2009,16:00,Arsenal FC,Chelsea FC,1,4,A,0,2,A
-ENG,11/05/2009,20:00,Newcastle United,Middlesbrough FC,3,1,H,1,1,D
-ENG,16/05/2009,12:45,Manchester United,Arsenal FC,0,0,D,0,0,D
-ENG,16/05/2009,15:00,Bolton Wanderers,Hull City,1,1,D,1,0,H
-ENG,16/05/2009,15:00,Everton FC,West Ham United,3,1,H,1,1,D
-ENG,16/05/2009,15:00,Middlesbrough FC,Aston Villa,1,1,D,1,0,H
-ENG,16/05/2009,15:00,Newcastle United,Fulham FC,0,1,A,0,1,A
-ENG,16/05/2009,15:00,Stoke City,Wigan Athletic,2,0,H,0,0,D
-ENG,16/05/2009,15:00,Tottenham Hotspur,Manchester City,2,1,H,1,0,H
-ENG,17/05/2009,13:30,West Bromwich Albion,Liverpool FC,0,2,A,0,1,A
-ENG,17/05/2009,16:00,Chelsea FC,Blackburn Rovers,2,0,H,1,0,H
-ENG,18/05/2009,20:00,Portsmouth FC,Sunderland AFC,3,1,H,0,0,D
-ENG,24/05/2009,16:00,Arsenal FC,Stoke City,4,1,H,4,1,H
-ENG,24/05/2009,16:00,Aston Villa,Newcastle United,1,0,H,1,0,H
-ENG,24/05/2009,16:00,Blackburn Rovers,West Bromwich Albion,0,0,D,0,0,D
-ENG,24/05/2009,16:00,Fulham FC,Everton FC,0,2,A,0,1,A
-ENG,24/05/2009,16:00,Hull City,Manchester United,0,1,A,0,1,A
-ENG,24/05/2009,16:00,Liverpool FC,Tottenham Hotspur,3,1,H,1,0,H
-ENG,24/05/2009,16:00,Manchester City,Bolton Wanderers,1,0,H,1,0,H
-ENG,24/05/2009,16:00,Sunderland AFC,Chelsea FC,2,3,A,0,0,D
-ENG,24/05/2009,16:00,West Ham United,Middlesbrough FC,2,1,H,1,0,H
-ENG,24/05/2009,16:00,Wigan Athletic,Portsmouth FC,1,0,H,1,0,H
+ENG,2008-08-16,12:45,Arsenal FC,West Bromwich Albion,1,0,H,1,0,H
+ENG,2008-08-16,15:00,Bolton Wanderers,Stoke City,3,1,H,3,0,H
+ENG,2008-08-16,15:00,Middlesbrough FC,Tottenham Hotspur,2,1,H,0,0,D
+ENG,2008-08-16,15:00,West Ham United,Wigan Athletic,2,1,H,2,0,H
+ENG,2008-08-16,15:00,Everton FC,Blackburn Rovers,2,3,A,1,1,D
+ENG,2008-08-16,15:00,Hull City,Fulham FC,2,1,H,1,1,D
+ENG,2008-08-16,17:30,Sunderland AFC,Liverpool FC,0,1,A,0,0,D
+ENG,2008-08-17,13:30,Chelsea FC,Portsmouth FC,4,0,H,3,0,H
+ENG,2008-08-17,15:00,Aston Villa,Manchester City,4,2,H,0,0,D
+ENG,2008-08-17,16:00,Manchester United,Newcastle United,1,1,D,1,1,D
+ENG,2008-08-23,15:00,Blackburn Rovers,Hull City,1,1,D,1,1,D
+ENG,2008-08-23,15:00,Liverpool FC,Middlesbrough FC,2,1,H,0,0,D
+ENG,2008-08-23,15:00,Newcastle United,Bolton Wanderers,1,0,H,0,0,D
+ENG,2008-08-23,15:00,Stoke City,Aston Villa,3,2,H,1,0,H
+ENG,2008-08-23,15:00,Tottenham Hotspur,Sunderland AFC,1,2,A,0,0,D
+ENG,2008-08-23,15:00,West Bromwich Albion,Everton FC,1,2,A,0,0,D
+ENG,2008-08-23,17:30,Fulham FC,Arsenal FC,1,0,H,1,0,H
+ENG,2008-08-24,13:30,Wigan Athletic,Chelsea FC,0,1,A,0,1,A
+ENG,2008-08-24,16:00,Manchester City,West Ham United,3,0,H,0,0,D
+ENG,2008-08-25,20:00,Portsmouth FC,Manchester United,0,1,A,0,1,A
+ENG,2008-08-30,15:00,Bolton Wanderers,West Bromwich Albion,0,0,D,0,0,D
+ENG,2008-08-30,15:00,Everton FC,Portsmouth FC,0,3,A,0,2,A
+ENG,2008-08-30,15:00,Hull City,Wigan Athletic,0,5,A,0,2,A
+ENG,2008-08-30,15:00,Middlesbrough FC,Stoke City,2,1,H,1,0,H
+ENG,2008-08-30,15:00,West Ham United,Blackburn Rovers,4,1,H,2,1,H
+ENG,2008-08-30,17:30,Arsenal FC,Newcastle United,3,0,H,2,0,H
+ENG,2008-08-31,13:30,Chelsea FC,Tottenham Hotspur,1,1,D,1,1,D
+ENG,2008-08-31,15:00,Sunderland AFC,Manchester City,0,3,A,0,1,A
+ENG,2008-08-31,16:00,Aston Villa,Liverpool FC,0,0,D,0,0,D
+ENG,2008-09-13,12:45,Liverpool FC,Manchester United,2,1,H,1,1,D
+ENG,2008-09-13,15:00,Blackburn Rovers,Arsenal FC,0,4,A,0,2,A
+ENG,2008-09-13,15:00,Fulham FC,Bolton Wanderers,2,1,H,2,0,H
+ENG,2008-09-13,15:00,Newcastle United,Hull City,1,2,A,0,1,A
+ENG,2008-09-13,15:00,Portsmouth FC,Middlesbrough FC,2,1,H,0,1,A
+ENG,2008-09-13,15:00,West Bromwich Albion,West Ham United,3,2,H,2,2,D
+ENG,2008-09-13,15:00,Wigan Athletic,Sunderland AFC,1,1,D,0,1,A
+ENG,2008-09-13,17:30,Manchester City,Chelsea FC,1,3,A,1,1,D
+ENG,2008-09-14,13:30,Stoke City,Everton FC,2,3,A,0,1,A
+ENG,2008-09-15,20:00,Tottenham Hotspur,Aston Villa,1,2,A,0,1,A
+ENG,2008-09-20,12:45,Sunderland AFC,Middlesbrough FC,2,0,H,0,0,D
+ENG,2008-09-20,15:00,Blackburn Rovers,Fulham FC,1,0,H,0,0,D
+ENG,2008-09-20,15:00,Liverpool FC,Stoke City,0,0,D,0,0,D
+ENG,2008-09-20,15:00,West Ham United,Newcastle United,3,1,H,2,0,H
+ENG,2008-09-20,17:30,Bolton Wanderers,Arsenal FC,1,3,A,1,2,A
+ENG,2008-09-21,12:00,West Bromwich Albion,Aston Villa,1,2,A,1,2,A
+ENG,2008-09-21,14:00,Chelsea FC,Manchester United,1,1,D,0,1,A
+ENG,2008-09-21,15:00,Hull City,Everton FC,2,2,D,1,0,H
+ENG,2008-09-21,15:00,Manchester City,Portsmouth FC,6,0,H,2,0,H
+ENG,2008-09-21,15:00,Tottenham Hotspur,Wigan Athletic,0,0,D,0,0,D
+ENG,2008-09-27,12:45,Everton FC,Liverpool FC,0,2,A,0,0,D
+ENG,2008-09-27,15:00,Aston Villa,Sunderland AFC,2,1,H,2,1,H
+ENG,2008-09-27,15:00,Fulham FC,West Ham United,1,2,A,0,2,A
+ENG,2008-09-27,15:00,Manchester United,Bolton Wanderers,2,0,H,0,0,D
+ENG,2008-09-27,15:00,Middlesbrough FC,West Bromwich Albion,0,1,A,0,0,D
+ENG,2008-09-27,15:00,Newcastle United,Blackburn Rovers,1,2,A,0,2,A
+ENG,2008-09-27,15:00,Stoke City,Chelsea FC,0,2,A,0,1,A
+ENG,2008-09-27,17:30,Arsenal FC,Hull City,1,2,A,0,0,D
+ENG,2008-09-28,13:30,Portsmouth FC,Tottenham Hotspur,2,0,H,1,0,H
+ENG,2008-09-28,16:00,Wigan Athletic,Manchester City,2,1,H,2,1,H
+ENG,2008-10-04,15:00,Sunderland AFC,Arsenal FC,1,1,D,0,0,D
+ENG,2008-10-04,15:00,West Bromwich Albion,Fulham FC,1,0,H,0,0,D
+ENG,2008-10-04,15:00,Wigan Athletic,Middlesbrough FC,0,1,A,0,0,D
+ENG,2008-10-04,17:30,Blackburn Rovers,Manchester United,0,2,A,0,1,A
+ENG,2008-10-05,13:30,West Ham United,Bolton Wanderers,1,3,A,0,2,A
+ENG,2008-10-05,15:00,Chelsea FC,Aston Villa,2,0,H,2,0,H
+ENG,2008-10-05,15:00,Manchester City,Liverpool FC,2,3,A,2,0,H
+ENG,2008-10-05,15:00,Portsmouth FC,Stoke City,2,1,H,1,0,H
+ENG,2008-10-05,15:00,Tottenham Hotspur,Hull City,0,1,A,0,1,A
+ENG,2008-10-05,16:00,Everton FC,Newcastle United,2,2,D,2,1,H
+ENG,2008-10-18,12:45,Middlesbrough FC,Chelsea FC,0,5,A,0,1,A
+ENG,2008-10-18,15:00,Arsenal FC,Everton FC,3,1,H,0,1,A
+ENG,2008-10-18,15:00,Aston Villa,Portsmouth FC,0,0,D,0,0,D
+ENG,2008-10-18,15:00,Bolton Wanderers,Blackburn Rovers,0,0,D,0,0,D
+ENG,2008-10-18,15:00,Fulham FC,Sunderland AFC,0,0,D,0,0,D
+ENG,2008-10-18,15:00,Liverpool FC,Wigan Athletic,3,2,H,1,2,A
+ENG,2008-10-18,17:30,Manchester United,West Bromwich Albion,4,0,H,0,0,D
+ENG,2008-10-19,15:00,Hull City,West Ham United,1,0,H,0,0,D
+ENG,2008-10-19,16:00,Stoke City,Tottenham Hotspur,2,1,H,1,1,D
+ENG,2008-10-20,20:00,Newcastle United,Manchester City,2,2,D,1,1,D
+ENG,2008-10-25,12:00,Everton FC,Manchester United,1,1,D,0,1,A
+ENG,2008-10-25,12:45,Sunderland AFC,Newcastle United,2,1,H,1,1,D
+ENG,2008-10-25,15:00,West Bromwich Albion,Hull City,0,3,A,0,0,D
+ENG,2008-10-25,17:30,Blackburn Rovers,Middlesbrough FC,1,1,D,0,0,D
+ENG,2008-10-26,13:30,Chelsea FC,Liverpool FC,0,1,A,0,1,A
+ENG,2008-10-26,15:00,Manchester City,Stoke City,3,0,H,1,0,H
+ENG,2008-10-26,15:00,Tottenham Hotspur,Bolton Wanderers,2,0,H,1,0,H
+ENG,2008-10-26,15:00,Wigan Athletic,Aston Villa,0,4,A,0,1,A
+ENG,2008-10-26,16:00,West Ham United,Arsenal FC,0,2,A,0,0,D
+ENG,2008-10-26,17:00,Portsmouth FC,Fulham FC,1,1,D,0,0,D
+ENG,2008-10-28,19:45,Newcastle United,West Bromwich Albion,2,1,H,2,0,H
+ENG,2008-10-29,19:45,Hull City,Chelsea FC,0,3,A,0,1,A
+ENG,2008-10-29,19:45,Stoke City,Sunderland AFC,1,0,H,0,0,D
+ENG,2008-10-29,19:45,Aston Villa,Blackburn Rovers,3,2,H,1,1,D
+ENG,2008-10-29,19:45,Fulham FC,Wigan Athletic,2,0,H,1,0,H
+ENG,2008-10-29,20:00,Arsenal FC,Tottenham Hotspur,4,4,D,1,1,D
+ENG,2008-10-29,20:00,Bolton Wanderers,Everton FC,0,1,A,0,0,D
+ENG,2008-10-29,20:00,Manchester United,West Ham United,2,0,H,2,0,H
+ENG,2008-10-29,20:00,Middlesbrough FC,Manchester City,2,0,H,0,0,D
+ENG,2008-10-29,20:00,Liverpool FC,Portsmouth FC,1,0,H,0,0,D
+ENG,2008-11-01,12:45,Everton FC,Fulham FC,1,0,H,0,0,D
+ENG,2008-11-01,15:00,Chelsea FC,Sunderland AFC,5,0,H,3,0,H
+ENG,2008-11-01,15:00,Manchester United,Hull City,4,3,H,3,1,H
+ENG,2008-11-01,15:00,Middlesbrough FC,West Ham United,1,1,D,0,1,A
+ENG,2008-11-01,15:00,Portsmouth FC,Wigan Athletic,1,2,A,0,1,A
+ENG,2008-11-01,15:00,Stoke City,Arsenal FC,2,1,H,1,0,H
+ENG,2008-11-01,15:00,West Bromwich Albion,Blackburn Rovers,2,2,D,0,1,A
+ENG,2008-11-01,17:30,Tottenham Hotspur,Liverpool FC,2,1,H,0,1,A
+ENG,2008-11-02,16:00,Bolton Wanderers,Manchester City,2,0,H,0,0,D
+ENG,2008-11-03,20:00,Newcastle United,Aston Villa,2,0,H,0,0,D
+ENG,2008-11-08,12:45,Arsenal FC,Manchester United,2,1,H,1,0,H
+ENG,2008-11-08,12:45,Wigan Athletic,Stoke City,0,0,D,0,0,D
+ENG,2008-11-08,15:00,Hull City,Bolton Wanderers,0,1,A,0,0,D
+ENG,2008-11-08,15:00,Sunderland AFC,Portsmouth FC,1,2,A,1,0,H
+ENG,2008-11-08,15:00,West Ham United,Everton FC,1,3,A,0,0,D
+ENG,2008-11-08,17:30,Liverpool FC,West Bromwich Albion,3,0,H,2,0,H
+ENG,2008-11-09,13:30,Blackburn Rovers,Chelsea FC,0,2,A,0,1,A
+ENG,2008-11-09,15:00,Aston Villa,Middlesbrough FC,1,2,A,1,1,D
+ENG,2008-11-09,15:00,Manchester City,Tottenham Hotspur,1,2,A,1,1,D
+ENG,2008-11-09,16:00,Fulham FC,Newcastle United,2,1,H,1,0,H
+ENG,2008-11-15,12:45,Bolton Wanderers,Liverpool FC,0,2,A,0,1,A
+ENG,2008-11-15,15:00,Arsenal FC,Aston Villa,0,2,A,0,0,D
+ENG,2008-11-15,15:00,Blackburn Rovers,Sunderland AFC,1,2,A,1,0,H
+ENG,2008-11-15,15:00,Fulham FC,Tottenham Hotspur,2,1,H,1,0,H
+ENG,2008-11-15,15:00,Manchester United,Stoke City,5,0,H,2,0,H
+ENG,2008-11-15,15:00,Newcastle United,Wigan Athletic,2,2,D,0,1,A
+ENG,2008-11-15,15:00,West Ham United,Portsmouth FC,0,0,D,0,0,D
+ENG,2008-11-15,17:30,West Bromwich Albion,Chelsea FC,0,3,A,0,3,A
+ENG,2008-11-16,13:30,Everton FC,Middlesbrough FC,1,1,D,0,1,A
+ENG,2008-11-16,16:00,Hull City,Manchester City,2,2,D,1,2,A
+ENG,2008-11-22,15:00,Chelsea FC,Newcastle United,0,0,D,0,0,D
+ENG,2008-11-22,15:00,Liverpool FC,Fulham FC,0,0,D,0,0,D
+ENG,2008-11-22,15:00,Manchester City,Arsenal FC,3,0,H,1,0,H
+ENG,2008-11-22,15:00,Middlesbrough FC,Bolton Wanderers,1,3,A,0,2,A
+ENG,2008-11-22,15:00,Portsmouth FC,Hull City,2,2,D,1,0,H
+ENG,2008-11-22,15:00,Stoke City,West Bromwich Albion,1,0,H,0,0,D
+ENG,2008-11-22,17:30,Aston Villa,Manchester United,0,0,D,0,0,D
+ENG,2008-11-23,13:30,Tottenham Hotspur,Blackburn Rovers,1,0,H,1,0,H
+ENG,2008-11-23,16:00,Sunderland AFC,West Ham United,0,1,A,0,1,A
+ENG,2008-11-24,20:00,Wigan Athletic,Everton FC,1,0,H,0,0,D
+ENG,2008-11-29,15:00,Aston Villa,Fulham FC,0,0,D,0,0,D
+ENG,2008-11-29,15:00,Middlesbrough FC,Newcastle United,0,0,D,0,0,D
+ENG,2008-11-29,15:00,Stoke City,Hull City,1,1,D,0,1,A
+ENG,2008-11-29,15:00,Sunderland AFC,Bolton Wanderers,1,4,A,1,3,A
+ENG,2008-11-29,15:00,Wigan Athletic,West Bromwich Albion,2,1,H,0,0,D
+ENG,2008-11-30,13:30,Manchester City,Manchester United,0,1,A,0,1,A
+ENG,2008-11-30,15:00,Portsmouth FC,Blackburn Rovers,3,2,H,0,0,D
+ENG,2008-11-30,15:00,Tottenham Hotspur,Everton FC,0,1,A,0,0,D
+ENG,2008-11-30,16:00,Chelsea FC,Arsenal FC,1,2,A,1,0,H
+ENG,2008-12-01,20:00,Liverpool FC,West Ham United,0,0,D,0,0,D
+ENG,2008-12-06,12:45,Fulham FC,Manchester City,1,1,D,1,1,D
+ENG,2008-12-06,15:00,Arsenal FC,Wigan Athletic,1,0,H,1,0,H
+ENG,2008-12-06,15:00,Blackburn Rovers,Liverpool FC,1,3,A,0,0,D
+ENG,2008-12-06,15:00,Bolton Wanderers,Chelsea FC,0,2,A,0,2,A
+ENG,2008-12-06,15:00,Hull City,Middlesbrough FC,2,1,H,0,0,D
+ENG,2008-12-06,15:00,Newcastle United,Stoke City,2,2,D,2,0,H
+ENG,2008-12-06,17:30,Manchester United,Sunderland AFC,1,0,H,0,0,D
+ENG,2008-12-07,15:00,West Bromwich Albion,Portsmouth FC,1,1,D,1,0,H
+ENG,2008-12-07,16:00,Everton FC,Aston Villa,2,3,A,1,1,D
+ENG,2008-12-08,20:00,West Ham United,Tottenham Hotspur,0,2,A,0,0,D
+ENG,2008-12-13,12:45,Middlesbrough FC,Arsenal FC,1,1,D,1,1,D
+ENG,2008-12-13,15:00,Aston Villa,Bolton Wanderers,4,2,H,2,1,H
+ENG,2008-12-13,15:00,Liverpool FC,Hull City,2,2,D,2,2,D
+ENG,2008-12-13,15:00,Manchester City,Everton FC,0,1,A,0,0,D
+ENG,2008-12-13,15:00,Stoke City,Fulham FC,0,0,D,0,0,D
+ENG,2008-12-13,15:00,Sunderland AFC,West Bromwich Albion,4,0,H,3,0,H
+ENG,2008-12-13,15:00,Wigan Athletic,Blackburn Rovers,3,0,H,2,0,H
+ENG,2008-12-13,17:30,Tottenham Hotspur,Manchester United,0,0,D,0,0,D
+ENG,2008-12-14,13:30,Portsmouth FC,Newcastle United,0,3,A,0,0,D
+ENG,2008-12-14,16:00,Chelsea FC,West Ham United,1,1,D,0,1,A
+ENG,2008-12-20,15:00,Blackburn Rovers,Stoke City,3,0,H,3,0,H
+ENG,2008-12-20,15:00,Bolton Wanderers,Portsmouth FC,2,1,H,2,1,H
+ENG,2008-12-20,15:00,Fulham FC,Middlesbrough FC,3,0,H,1,0,H
+ENG,2008-12-20,15:00,Hull City,Sunderland AFC,1,4,A,1,1,D
+ENG,2008-12-20,17:30,West Ham United,Aston Villa,0,1,A,0,0,D
+ENG,2008-12-21,13:30,West Bromwich Albion,Manchester City,2,1,H,0,0,D
+ENG,2008-12-21,15:00,Newcastle United,Tottenham Hotspur,2,1,H,1,1,D
+ENG,2008-12-21,16:00,Arsenal FC,Liverpool FC,1,1,D,1,1,D
+ENG,2008-12-22,20:00,Everton FC,Chelsea FC,0,0,D,0,0,D
+ENG,2008-12-26,12:45,Stoke City,Manchester United,0,1,A,0,0,D
+ENG,2008-12-26,13:00,Chelsea FC,West Bromwich Albion,2,0,H,2,0,H
+ENG,2008-12-26,13:00,Portsmouth FC,West Ham United,1,4,A,1,1,D
+ENG,2008-12-26,13:00,Tottenham Hotspur,Fulham FC,0,0,D,0,0,D
+ENG,2008-12-26,15:00,Liverpool FC,Bolton Wanderers,3,0,H,1,0,H
+ENG,2008-12-26,15:00,Manchester City,Hull City,5,1,H,4,0,H
+ENG,2008-12-26,15:00,Middlesbrough FC,Everton FC,0,1,A,0,0,D
+ENG,2008-12-26,15:00,Sunderland AFC,Blackburn Rovers,0,0,D,0,0,D
+ENG,2008-12-26,15:00,Wigan Athletic,Newcastle United,2,1,H,1,0,H
+ENG,2008-12-26,17:15,Aston Villa,Arsenal FC,2,2,D,0,1,A
+ENG,2008-12-28,12:00,Newcastle United,Liverpool FC,1,5,A,1,2,A
+ENG,2008-12-28,14:00,Arsenal FC,Portsmouth FC,1,0,H,0,0,D
+ENG,2008-12-28,14:00,Bolton Wanderers,Wigan Athletic,0,1,A,0,1,A
+ENG,2008-12-28,14:00,Everton FC,Sunderland AFC,3,0,H,2,0,H
+ENG,2008-12-28,14:00,Fulham FC,Chelsea FC,2,2,D,1,0,H
+ENG,2008-12-28,14:00,West Bromwich Albion,Tottenham Hotspur,2,0,H,0,0,D
+ENG,2008-12-28,14:00,West Ham United,Stoke City,2,1,H,0,1,A
+ENG,2008-12-28,16:15,Blackburn Rovers,Manchester City,2,2,D,1,0,H
+ENG,2008-12-29,20:00,Manchester United,Middlesbrough FC,1,0,H,0,0,D
+ENG,2008-12-30,20:00,Hull City,Aston Villa,0,1,A,0,0,D
+ENG,2009-01-10,12:45,Aston Villa,West Bromwich Albion,2,1,H,2,0,H
+ENG,2009-01-10,15:00,Arsenal FC,Bolton Wanderers,1,0,H,0,0,D
+ENG,2009-01-10,15:00,Everton FC,Hull City,2,0,H,2,0,H
+ENG,2009-01-10,15:00,Middlesbrough FC,Sunderland AFC,1,1,D,1,0,H
+ENG,2009-01-10,15:00,Newcastle United,West Ham United,2,2,D,1,1,D
+ENG,2009-01-10,17:30,Stoke City,Liverpool FC,0,0,D,0,0,D
+ENG,2009-01-11,13:30,Wigan Athletic,Tottenham Hotspur,1,0,H,0,0,D
+ENG,2009-01-11,16:00,Manchester United,Chelsea FC,3,0,H,1,0,H
+ENG,2009-01-14,20:00,Manchester United,Wigan Athletic,1,0,H,1,0,H
+ENG,2009-01-17,15:00,Blackburn Rovers,Newcastle United,3,0,H,0,0,D
+ENG,2009-01-17,15:00,Bolton Wanderers,Manchester United,0,1,A,0,0,D
+ENG,2009-01-17,15:00,Chelsea FC,Stoke City,2,1,H,0,0,D
+ENG,2009-01-17,15:00,Manchester City,Wigan Athletic,1,0,H,0,0,D
+ENG,2009-01-17,15:00,Sunderland AFC,Aston Villa,1,2,A,1,0,H
+ENG,2009-01-17,15:00,West Bromwich Albion,Middlesbrough FC,3,0,H,1,0,H
+ENG,2009-01-17,17:30,Hull City,Arsenal FC,1,3,A,0,1,A
+ENG,2009-01-18,13:30,West Ham United,Fulham FC,3,1,H,1,1,D
+ENG,2009-01-18,16:00,Tottenham Hotspur,Portsmouth FC,1,1,D,0,0,D
+ENG,2009-01-19,20:00,Liverpool FC,Everton FC,1,1,D,0,0,D
+ENG,2009-01-27,19:45,Sunderland AFC,Fulham FC,1,0,H,0,0,D
+ENG,2009-01-27,20:00,Portsmouth FC,Aston Villa,0,1,A,0,1,A
+ENG,2009-01-27,20:00,Tottenham Hotspur,Stoke City,3,1,H,3,0,H
+ENG,2009-01-27,20:15,West Bromwich Albion,Manchester United,0,5,A,0,2,A
+ENG,2009-01-28,19:45,Wigan Athletic,Liverpool FC,1,1,D,0,1,A
+ENG,2009-01-28,19:45,Chelsea FC,Middlesbrough FC,2,0,H,0,0,D
+ENG,2009-01-28,19:45,Manchester City,Newcastle United,2,1,H,1,0,H
+ENG,2009-01-28,20:00,West Ham United,Hull City,2,0,H,1,0,H
+ENG,2009-01-28,20:00,Blackburn Rovers,Bolton Wanderers,2,2,D,0,2,A
+ENG,2009-01-28,20:00,Everton FC,Arsenal FC,1,1,D,0,0,D
+ENG,2009-01-31,12:45,Stoke City,Manchester City,1,0,H,1,0,H
+ENG,2009-01-31,15:00,Arsenal FC,West Ham United,0,0,D,0,0,D
+ENG,2009-01-31,15:00,Aston Villa,Wigan Athletic,0,0,D,0,0,D
+ENG,2009-01-31,15:00,Bolton Wanderers,Tottenham Hotspur,3,2,H,1,0,H
+ENG,2009-01-31,15:00,Fulham FC,Portsmouth FC,3,1,H,1,0,H
+ENG,2009-01-31,15:00,Hull City,West Bromwich Albion,2,2,D,1,0,H
+ENG,2009-01-31,15:00,Middlesbrough FC,Blackburn Rovers,0,0,D,0,0,D
+ENG,2009-01-31,17:30,Manchester United,Everton FC,1,0,H,1,0,H
+ENG,2009-02-01,13:30,Newcastle United,Sunderland AFC,1,1,D,0,1,A
+ENG,2009-02-01,16:00,Liverpool FC,Chelsea FC,2,0,H,0,0,D
+ENG,2009-02-07,12:45,Manchester City,Middlesbrough FC,1,0,H,0,0,D
+ENG,2009-02-07,15:00,Blackburn Rovers,Aston Villa,0,2,A,0,1,A
+ENG,2009-02-07,15:00,Chelsea FC,Hull City,0,0,D,0,0,D
+ENG,2009-02-07,15:00,Everton FC,Bolton Wanderers,3,0,H,1,0,H
+ENG,2009-02-07,15:00,Sunderland AFC,Stoke City,2,0,H,0,0,D
+ENG,2009-02-07,15:00,West Bromwich Albion,Newcastle United,2,3,A,1,3,A
+ENG,2009-02-07,15:00,Wigan Athletic,Fulham FC,0,0,D,0,0,D
+ENG,2009-02-07,17:30,Portsmouth FC,Liverpool FC,2,3,A,0,0,D
+ENG,2009-02-08,13:30,Tottenham Hotspur,Arsenal FC,0,0,D,0,0,D
+ENG,2009-02-08,16:00,West Ham United,Manchester United,0,1,A,0,0,D
+ENG,2009-02-14,15:00,Portsmouth FC,Manchester City,2,0,H,0,0,D
+ENG,2009-02-18,20:00,Manchester United,Fulham FC,3,0,H,2,0,H
+ENG,2009-02-21,12:45,Aston Villa,Chelsea FC,0,1,A,0,1,A
+ENG,2009-02-21,15:00,Arsenal FC,Sunderland AFC,0,0,D,0,0,D
+ENG,2009-02-21,15:00,Bolton Wanderers,West Ham United,2,1,H,2,0,H
+ENG,2009-02-21,15:00,Middlesbrough FC,Wigan Athletic,0,0,D,0,0,D
+ENG,2009-02-21,15:00,Stoke City,Portsmouth FC,2,2,D,0,0,D
+ENG,2009-02-21,17:30,Manchester United,Blackburn Rovers,2,1,H,1,1,D
+ENG,2009-02-22,13:30,Fulham FC,West Bromwich Albion,2,0,H,0,0,D
+ENG,2009-02-22,15:00,Liverpool FC,Manchester City,1,1,D,0,0,D
+ENG,2009-02-22,16:00,Newcastle United,Everton FC,0,0,D,0,0,D
+ENG,2009-02-23,20:00,Hull City,Tottenham Hotspur,1,2,A,1,1,D
+ENG,2009-02-28,12:45,Everton FC,West Bromwich Albion,2,0,H,1,0,H
+ENG,2009-02-28,15:00,Arsenal FC,Fulham FC,0,0,D,0,0,D
+ENG,2009-02-28,15:00,Chelsea FC,Wigan Athletic,2,1,H,1,0,H
+ENG,2009-02-28,15:00,Middlesbrough FC,Liverpool FC,2,0,H,1,0,H
+ENG,2009-03-01,12:30,Hull City,Blackburn Rovers,1,2,A,0,2,A
+ENG,2009-03-01,12:45,West Ham United,Manchester City,1,0,H,0,0,D
+ENG,2009-03-01,13:00,Bolton Wanderers,Newcastle United,1,0,H,0,0,D
+ENG,2009-03-01,15:00,Aston Villa,Stoke City,2,2,D,1,0,H
+ENG,2009-03-03,19:45,Portsmouth FC,Chelsea FC,0,1,A,0,0,D
+ENG,2009-03-03,19:45,West Bromwich Albion,Arsenal FC,1,3,A,1,3,A
+ENG,2009-03-03,20:00,Liverpool FC,Sunderland AFC,2,0,H,0,0,D
+ENG,2009-03-04,19:45,Stoke City,Bolton Wanderers,2,0,H,1,0,H
+ENG,2009-03-04,19:45,Wigan Athletic,West Ham United,0,1,A,0,1,A
+ENG,2009-03-04,19:45,Manchester City,Aston Villa,2,0,H,1,0,H
+ENG,2009-03-04,19:45,Newcastle United,Manchester United,1,2,A,1,1,D
+ENG,2009-03-04,20:00,Tottenham Hotspur,Middlesbrough FC,4,0,H,3,0,H
+ENG,2009-03-04,20:00,Blackburn Rovers,Everton FC,0,0,D,0,0,D
+ENG,2009-03-04,20:00,Fulham FC,Hull City,0,1,A,0,0,D
+ENG,2009-03-07,15:00,Sunderland AFC,Tottenham Hotspur,1,1,D,1,0,H
+ENG,2009-03-11,20:00,Fulham FC,Blackburn Rovers,1,2,A,1,0,H
+ENG,2009-03-14,12:45,Manchester United,Liverpool FC,1,4,A,1,2,A
+ENG,2009-03-14,15:00,Arsenal FC,Blackburn Rovers,4,0,H,1,0,H
+ENG,2009-03-14,15:00,Bolton Wanderers,Fulham FC,1,3,A,1,1,D
+ENG,2009-03-14,15:00,Everton FC,Stoke City,3,1,H,2,0,H
+ENG,2009-03-14,15:00,Hull City,Newcastle United,1,1,D,1,1,D
+ENG,2009-03-14,15:00,Middlesbrough FC,Portsmouth FC,1,1,D,0,1,A
+ENG,2009-03-14,15:00,Sunderland AFC,Wigan Athletic,1,2,A,1,2,A
+ENG,2009-03-15,13:30,Chelsea FC,Manchester City,1,0,H,1,0,H
+ENG,2009-03-15,16:00,Aston Villa,Tottenham Hotspur,1,2,A,0,1,A
+ENG,2009-03-16,20:00,West Ham United,West Bromwich Albion,0,0,D,0,0,D
+ENG,2009-03-21,12:45,Portsmouth FC,Everton FC,2,1,H,1,1,D
+ENG,2009-03-21,15:00,Blackburn Rovers,West Ham United,1,1,D,0,1,A
+ENG,2009-03-21,15:00,Fulham FC,Manchester United,2,0,H,1,0,H
+ENG,2009-03-21,15:00,Stoke City,Middlesbrough FC,1,0,H,0,0,D
+ENG,2009-03-21,15:00,West Bromwich Albion,Bolton Wanderers,1,1,D,0,0,D
+ENG,2009-03-21,15:30,Tottenham Hotspur,Chelsea FC,1,0,H,0,0,D
+ENG,2009-03-21,17:30,Newcastle United,Arsenal FC,1,3,A,0,0,D
+ENG,2009-03-22,13:30,Wigan Athletic,Hull City,1,0,H,0,0,D
+ENG,2009-03-22,15:00,Manchester City,Sunderland AFC,1,0,H,0,0,D
+ENG,2009-03-22,16:00,Liverpool FC,Aston Villa,5,0,H,3,0,H
+ENG,2009-04-04,12:45,Blackburn Rovers,Tottenham Hotspur,2,1,H,0,1,A
+ENG,2009-04-04,15:00,Arsenal FC,Manchester City,2,0,H,1,0,H
+ENG,2009-04-04,15:00,Bolton Wanderers,Middlesbrough FC,4,1,H,2,1,H
+ENG,2009-04-04,15:00,Hull City,Portsmouth FC,0,0,D,0,0,D
+ENG,2009-04-04,15:00,Newcastle United,Chelsea FC,0,2,A,0,0,D
+ENG,2009-04-04,15:00,West Bromwich Albion,Stoke City,0,2,A,0,1,A
+ENG,2009-04-04,15:00,West Ham United,Sunderland AFC,2,0,H,1,0,H
+ENG,2009-04-04,17:30,Fulham FC,Liverpool FC,0,1,A,0,0,D
+ENG,2009-04-05,15:00,Everton FC,Wigan Athletic,4,0,H,1,0,H
+ENG,2009-04-05,16:00,Manchester United,Aston Villa,3,2,H,1,1,D
+ENG,2009-04-11,12:45,Liverpool FC,Blackburn Rovers,4,0,H,2,0,H
+ENG,2009-04-11,15:00,Chelsea FC,Bolton Wanderers,4,3,H,1,0,H
+ENG,2009-04-11,15:00,Middlesbrough FC,Hull City,3,1,H,2,1,H
+ENG,2009-04-11,15:00,Portsmouth FC,West Bromwich Albion,2,2,D,1,0,H
+ENG,2009-04-11,15:00,Sunderland AFC,Manchester United,1,2,A,0,1,A
+ENG,2009-04-11,15:00,Tottenham Hotspur,West Ham United,1,0,H,0,0,D
+ENG,2009-04-11,15:00,Wigan Athletic,Arsenal FC,1,4,A,1,0,H
+ENG,2009-04-11,17:30,Stoke City,Newcastle United,1,1,D,1,0,H
+ENG,2009-04-12,14:00,Aston Villa,Everton FC,3,3,D,1,2,A
+ENG,2009-04-12,16:00,Manchester City,Fulham FC,1,3,A,1,0,H
+ENG,2009-04-18,15:00,Aston Villa,West Ham United,1,1,D,1,0,H
+ENG,2009-04-18,15:00,Middlesbrough FC,Fulham FC,0,0,D,0,0,D
+ENG,2009-04-18,15:00,Portsmouth FC,Bolton Wanderers,1,0,H,0,0,D
+ENG,2009-04-18,15:00,Stoke City,Blackburn Rovers,1,0,H,0,0,D
+ENG,2009-04-18,15:00,Sunderland AFC,Hull City,1,0,H,1,0,H
+ENG,2009-04-19,13:30,Tottenham Hotspur,Newcastle United,1,0,H,1,0,H
+ENG,2009-04-19,15:00,Manchester City,West Bromwich Albion,4,2,H,2,1,H
+ENG,2009-04-21,20:00,Liverpool FC,Arsenal FC,4,4,D,0,1,A
+ENG,2009-04-22,20:00,Manchester United,Portsmouth FC,2,0,H,1,0,H
+ENG,2009-04-22,20:00,Chelsea FC,Everton FC,0,0,D,0,0,D
+ENG,2009-04-25,15:00,Bolton Wanderers,Aston Villa,1,1,D,0,1,A
+ENG,2009-04-25,15:00,Everton FC,Manchester City,1,2,A,0,1,A
+ENG,2009-04-25,15:00,Fulham FC,Stoke City,1,0,H,1,0,H
+ENG,2009-04-25,15:00,Hull City,Liverpool FC,1,3,A,0,1,A
+ENG,2009-04-25,15:00,West Bromwich Albion,Sunderland AFC,3,0,H,1,0,H
+ENG,2009-04-25,15:00,West Ham United,Chelsea FC,0,1,A,0,0,D
+ENG,2009-04-25,17:30,Manchester United,Tottenham Hotspur,5,2,H,0,2,A
+ENG,2009-04-26,13:30,Arsenal FC,Middlesbrough FC,2,0,H,1,0,H
+ENG,2009-04-26,16:00,Blackburn Rovers,Wigan Athletic,2,0,H,1,0,H
+ENG,2009-04-27,20:00,Newcastle United,Portsmouth FC,0,0,D,0,0,D
+ENG,2009-05-02,12:45,Middlesbrough FC,Manchester United,0,2,A,0,1,A
+ENG,2009-05-02,15:00,Chelsea FC,Fulham FC,3,1,H,2,1,H
+ENG,2009-05-02,15:00,Manchester City,Blackburn Rovers,3,1,H,3,0,H
+ENG,2009-05-02,15:00,Portsmouth FC,Arsenal FC,0,3,A,0,2,A
+ENG,2009-05-02,15:00,Stoke City,West Ham United,0,1,A,0,1,A
+ENG,2009-05-02,15:00,Tottenham Hotspur,West Bromwich Albion,1,0,H,1,0,H
+ENG,2009-05-02,15:00,Wigan Athletic,Bolton Wanderers,0,0,D,0,0,D
+ENG,2009-05-03,13:30,Liverpool FC,Newcastle United,3,0,H,2,0,H
+ENG,2009-05-03,16:00,Sunderland AFC,Everton FC,0,2,A,0,0,D
+ENG,2009-05-04,20:00,Aston Villa,Hull City,1,0,H,1,0,H
+ENG,2009-05-09,15:00,Blackburn Rovers,Portsmouth FC,2,0,H,1,0,H
+ENG,2009-05-09,15:00,Bolton Wanderers,Sunderland AFC,0,0,D,0,0,D
+ENG,2009-05-09,15:00,Everton FC,Tottenham Hotspur,0,0,D,0,0,D
+ENG,2009-05-09,15:00,Fulham FC,Aston Villa,3,1,H,1,1,D
+ENG,2009-05-09,15:00,Hull City,Stoke City,1,2,A,0,1,A
+ENG,2009-05-09,15:00,West Bromwich Albion,Wigan Athletic,3,1,H,1,1,D
+ENG,2009-05-09,17:30,West Ham United,Liverpool FC,0,3,A,0,2,A
+ENG,2009-05-10,13:30,Manchester United,Manchester City,2,0,H,2,0,H
+ENG,2009-05-10,16:00,Arsenal FC,Chelsea FC,1,4,A,0,2,A
+ENG,2009-05-11,20:00,Newcastle United,Middlesbrough FC,3,1,H,1,1,D
+ENG,2009-05-13,20:00,Wigan Athletic,Manchester United,1,2,A,1,0,H
+ENG,2009-05-16,12:45,Manchester United,Arsenal FC,0,0,D,0,0,D
+ENG,2009-05-16,15:00,Bolton Wanderers,Hull City,1,1,D,1,0,H
+ENG,2009-05-16,15:00,Everton FC,West Ham United,3,1,H,1,1,D
+ENG,2009-05-16,15:00,Middlesbrough FC,Aston Villa,1,1,D,1,0,H
+ENG,2009-05-16,15:00,Newcastle United,Fulham FC,0,1,A,0,1,A
+ENG,2009-05-16,15:00,Stoke City,Wigan Athletic,2,0,H,0,0,D
+ENG,2009-05-16,15:00,Tottenham Hotspur,Manchester City,2,1,H,1,0,H
+ENG,2009-05-17,13:30,West Bromwich Albion,Liverpool FC,0,2,A,0,1,A
+ENG,2009-05-17,16:00,Chelsea FC,Blackburn Rovers,2,0,H,1,0,H
+ENG,2009-05-18,20:00,Portsmouth FC,Sunderland AFC,3,1,H,0,0,D
+ENG,2009-05-24,16:00,Arsenal FC,Stoke City,4,1,H,4,1,H
+ENG,2009-05-24,16:00,Aston Villa,Newcastle United,1,0,H,1,0,H
+ENG,2009-05-24,16:00,Blackburn Rovers,West Bromwich Albion,0,0,D,0,0,D
+ENG,2009-05-24,16:00,Fulham FC,Everton FC,0,2,A,0,1,A
+ENG,2009-05-24,16:00,Hull City,Manchester United,0,1,A,0,1,A
+ENG,2009-05-24,16:00,Liverpool FC,Tottenham Hotspur,3,1,H,1,0,H
+ENG,2009-05-24,16:00,Manchester City,Bolton Wanderers,1,0,H,1,0,H
+ENG,2009-05-24,16:00,Sunderland AFC,Chelsea FC,2,3,A,0,0,D
+ENG,2009-05-24,16:00,West Ham United,Middlesbrough FC,2,1,H,1,0,H
+ENG,2009-05-24,16:00,Wigan Athletic,Portsmouth FC,1,0,H,1,0,H

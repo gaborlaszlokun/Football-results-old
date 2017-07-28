@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2002-02-10,,Argentinos Juniors,Racing Club,2,2,D,2,1,H
+ARG,2002-02-10,,Belgrano Córdoba,Boca Juniors,2,3,A,1,1,D
+ARG,2002-02-10,,Chacarita Juniors,Huracán,0,2,A,0,0,D
+ARG,2002-02-10,,CA Colón,Estudiantes,3,0,H,1,0,H
+ARG,2002-02-10,,GyE La Plata,Unión de Santa Fe,3,2,H,0,2,A
+ARG,2002-02-10,,Independiente,Vélez Sársfield,0,3,A,0,2,A
+ARG,2002-02-10,,CA Lanús,Rosario Central,0,0,D,0,0,D
+ARG,2002-02-10,,Newell's Old Boys,CA Banfield,0,3,A,0,1,A
+ARG,2002-02-10,,River Plate,Talleres Córdoba,3,1,H,1,1,D
+ARG,2002-02-10,,San Lorenzo,Nueva Chicago,4,2,H,0,2,A
+ARG,2002-02-15,,CA Banfield,Belgrano Córdoba,0,1,A,0,0,D
+ARG,2002-02-15,,Vélez Sársfield,Newell's Old Boys,2,2,D,1,0,H
+ARG,2002-02-17,,Boca Juniors,San Lorenzo,0,0,D,0,0,D
+ARG,2002-02-17,,Estudiantes,GyE La Plata,3,2,H,1,1,D
+ARG,2002-02-17,,Huracán,River Plate,0,4,A,0,1,A
+ARG,2002-02-17,,Nueva Chicago,CA Colón,1,0,H,1,0,H
+ARG,2002-02-17,,Racing Club,Independiente,1,2,A,0,1,A
+ARG,2002-02-17,,Rosario Central,Argentinos Juniors,2,1,H,1,1,D
+ARG,2002-02-17,,Talleres Córdoba,CA Lanús,2,0,H,1,0,H
+ARG,2002-02-17,,Unión de Santa Fe,Chacarita Juniors,2,2,D,1,1,D
+ARG,2002-02-20,,Argentinos Juniors,Talleres Córdoba,1,0,H,0,0,D
+ARG,2002-02-20,,Belgrano Córdoba,Vélez Sársfield,2,1,H,1,1,D
+ARG,2002-02-20,,Chacarita Juniors,Estudiantes,2,1,H,1,1,D
+ARG,2002-02-20,,CA Colón,Boca Juniors,1,3,A,0,2,A
+ARG,2002-02-20,,GyE La Plata,Nueva Chicago,2,0,H,1,0,H
+ARG,2002-02-20,,CA Lanús,Huracán,2,0,H,1,0,H
+ARG,2002-02-20,,Newell's Old Boys,Independiente,3,2,H,1,2,A
+ARG,2002-02-20,,Racing Club,Rosario Central,1,0,H,1,0,H
+ARG,2002-02-20,,River Plate,Unión de Santa Fe,6,0,H,3,0,H
+ARG,2002-02-20,,San Lorenzo,CA Banfield,2,0,H,0,0,D
+ARG,2002-02-24,,CA Banfield,CA Colón,2,1,H,1,1,D
+ARG,2002-02-24,,Boca Juniors,GyE La Plata,1,1,D,0,1,A
+ARG,2002-02-24,,Estudiantes,River Plate,2,3,A,1,0,H
+ARG,2002-02-24,,Huracán,Argentinos Juniors,3,0,H,2,0,H
+ARG,2002-02-24,,Independiente,Belgrano Córdoba,2,0,H,0,0,D
+ARG,2002-02-24,,Newell's Old Boys,Racing Club,3,1,H,1,1,D
+ARG,2002-02-24,,Nueva Chicago,Chacarita Juniors,1,1,D,0,1,A
+ARG,2002-02-24,,Talleres Córdoba,Rosario Central,2,1,H,1,0,H
+ARG,2002-02-24,,Unión de Santa Fe,CA Lanús,2,1,H,1,1,D
+ARG,2002-02-24,,Vélez Sársfield,San Lorenzo,2,1,H,1,1,D
+ARG,2002-03-03,,Argentinos Juniors,Unión de Santa Fe,1,1,D,0,0,D
+ARG,2002-03-03,,Belgrano Córdoba,Newell's Old Boys,0,1,A,0,1,A
+ARG,2002-03-03,,Chacarita Juniors,Boca Juniors,1,1,D,0,0,D
+ARG,2002-03-03,,CA Colón,Vélez Sársfield,1,1,D,0,1,A
+ARG,2002-03-03,,GyE La Plata,CA Banfield,1,1,D,1,1,D
+ARG,2002-03-03,,CA Lanús,Estudiantes,1,1,D,0,1,A
+ARG,2002-03-03,,Racing Club,Talleres Córdoba,3,0,H,1,0,H
+ARG,2002-03-03,,River Plate,Nueva Chicago,0,0,D,0,0,D
+ARG,2002-03-03,,Rosario Central,Huracán,0,2,A,0,0,D
+ARG,2002-03-03,,San Lorenzo,Independiente,0,1,A,0,1,A
+ARG,2002-03-10,,CA Banfield,Chacarita Juniors,1,0,H,1,0,H
+ARG,2002-03-10,,Belgrano Córdoba,Racing Club,0,1,A,0,0,D
+ARG,2002-03-10,,Boca Juniors,River Plate,0,3,A,0,2,A
+ARG,2002-03-10,,Estudiantes,Argentinos Juniors,2,1,H,0,1,A
+ARG,2002-03-10,,Huracán,Talleres Córdoba,0,1,A,0,0,D
+ARG,2002-03-10,,Independiente,CA Colón,0,1,A,0,1,A
+ARG,2002-03-10,,Newell's Old Boys,San Lorenzo,1,4,A,0,1,A
+ARG,2002-03-10,,Nueva Chicago,CA Lanús,1,1,D,0,0,D
+ARG,2002-03-10,,Unión de Santa Fe,Rosario Central,3,1,H,1,0,H
+ARG,2002-03-10,,Vélez Sársfield,GyE La Plata,1,2,A,0,2,A
+ARG,2002-03-17,,Argentinos Juniors,Nueva Chicago,1,1,D,1,1,D
+ARG,2002-03-17,,Chacarita Juniors,Vélez Sársfield,1,1,D,1,0,H
+ARG,2002-03-17,,CA Colón,Newell's Old Boys,2,2,D,1,2,A
+ARG,2002-03-17,,GyE La Plata,Independiente,2,1,H,1,1,D
+ARG,2002-03-17,,CA Lanús,Boca Juniors,1,0,H,0,0,D
+ARG,2002-03-17,,Racing Club,Huracán,2,1,H,0,0,D
+ARG,2002-03-17,,River Plate,CA Banfield,0,0,D,0,0,D
+ARG,2002-03-17,,Rosario Central,Estudiantes,2,0,H,0,0,D
+ARG,2002-03-17,,San Lorenzo,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2002-03-17,,Talleres Córdoba,Unión de Santa Fe,1,0,H,0,0,D
+ARG,2002-03-24,,CA Banfield,CA Lanús,2,2,D,2,1,H
+ARG,2002-03-24,,Belgrano Córdoba,CA Colón,0,1,A,0,1,A
+ARG,2002-03-24,,Boca Juniors,Argentinos Juniors,3,2,H,2,1,H
+ARG,2002-03-24,,Estudiantes,Talleres Córdoba,4,0,H,2,0,H
+ARG,2002-03-24,,Independiente,Chacarita Juniors,1,3,A,1,3,A
+ARG,2002-03-24,,Newell's Old Boys,GyE La Plata,0,1,A,0,0,D
+ARG,2002-03-24,,Nueva Chicago,Rosario Central,0,1,A,0,0,D
+ARG,2002-03-24,,San Lorenzo,Racing Club,0,1,A,0,1,A
+ARG,2002-03-24,,Unión de Santa Fe,Huracán,0,1,A,0,0,D
+ARG,2002-03-24,,Vélez Sársfield,River Plate,0,1,A,0,0,D
+ARG,2002-03-27,,Argentinos Juniors,CA Banfield,2,1,H,2,0,H
+ARG,2002-03-27,,Chacarita Juniors,Newell's Old Boys,2,1,H,1,1,D
+ARG,2002-03-27,,CA Colón,San Lorenzo,0,1,A,0,0,D
+ARG,2002-03-27,,GyE La Plata,Belgrano Córdoba,4,3,H,1,2,A
+ARG,2002-03-27,,Huracán,Estudiantes,1,6,A,1,4,A
+ARG,2002-03-27,,CA Lanús,Vélez Sársfield,1,1,D,0,1,A
+ARG,2002-03-27,,Racing Club,Unión de Santa Fe,0,0,D,0,0,D
+ARG,2002-03-27,,River Plate,Independiente,1,0,H,1,0,H
+ARG,2002-03-27,,Rosario Central,Boca Juniors,1,3,A,0,2,A
+ARG,2002-03-27,,Talleres Córdoba,Nueva Chicago,0,1,A,0,1,A
+ARG,2002-03-31,,CA Banfield,Rosario Central,2,1,H,0,1,A
+ARG,2002-03-31,,Belgrano Córdoba,Chacarita Juniors,1,0,H,1,0,H
+ARG,2002-03-31,,Boca Juniors,Talleres Córdoba,1,0,H,0,0,D
+ARG,2002-03-31,,CA Colón,Racing Club,2,0,H,0,0,D
+ARG,2002-03-31,,Estudiantes,Unión de Santa Fe,3,2,H,0,1,A
+ARG,2002-03-31,,Independiente,CA Lanús,1,1,D,0,0,D
+ARG,2002-03-31,,Newell's Old Boys,River Plate,1,0,H,1,0,H
+ARG,2002-03-31,,Nueva Chicago,Huracán,0,4,A,0,3,A
+ARG,2002-03-31,,San Lorenzo,GyE La Plata,3,3,D,1,1,D
+ARG,2002-03-31,,Vélez Sársfield,Argentinos Juniors,0,1,A,0,1,A
+ARG,2002-04-03,,Argentinos Juniors,Independiente,1,0,H,0,0,D
+ARG,2002-04-03,,Chacarita Juniors,San Lorenzo,0,1,A,0,0,D
+ARG,2002-04-03,,GyE La Plata,CA Colón,1,0,H,0,0,D
+ARG,2002-04-03,,Huracán,Boca Juniors,0,2,A,0,1,A
+ARG,2002-04-03,,CA Lanús,Newell's Old Boys,1,0,H,1,0,H
+ARG,2002-04-03,,Racing Club,Estudiantes,0,0,D,0,0,D
+ARG,2002-04-03,,River Plate,Belgrano Córdoba,2,1,H,2,1,H
+ARG,2002-04-03,,Rosario Central,Vélez Sársfield,0,3,A,0,1,A
+ARG,2002-04-03,,Talleres Córdoba,CA Banfield,1,2,A,0,0,D
+ARG,2002-04-03,,Unión de Santa Fe,Nueva Chicago,0,2,A,0,1,A
+ARG,2002-04-07,,CA Banfield,Huracán,0,0,D,0,0,D
+ARG,2002-04-07,,Belgrano Córdoba,CA Lanús,1,0,H,1,0,H
+ARG,2002-04-07,,Boca Juniors,Unión de Santa Fe,3,0,H,2,0,H
+ARG,2002-04-07,,CA Colón,Chacarita Juniors,1,1,D,1,0,H
+ARG,2002-04-07,,GyE La Plata,Racing Club,2,3,A,0,2,A
+ARG,2002-04-07,,Independiente,Rosario Central,1,4,A,0,2,A
+ARG,2002-04-07,,Newell's Old Boys,Argentinos Juniors,2,1,H,1,1,D
+ARG,2002-04-07,,Nueva Chicago,Estudiantes,1,0,H,0,0,D
+ARG,2002-04-07,,San Lorenzo,River Plate,0,0,D,0,0,D
+ARG,2002-04-07,,Vélez Sársfield,Talleres Córdoba,2,0,H,2,0,H
+ARG,2002-04-14,,Argentinos Juniors,Belgrano Córdoba,1,2,A,0,1,A
+ARG,2002-04-14,,Chacarita Juniors,GyE La Plata,0,1,A,0,1,A
+ARG,2002-04-14,,Estudiantes,Boca Juniors,0,1,A,0,0,D
+ARG,2002-04-14,,Huracán,Vélez Sársfield,1,0,H,0,0,D
+ARG,2002-04-14,,CA Lanús,San Lorenzo,2,2,D,1,2,A
+ARG,2002-04-14,,Racing Club,Nueva Chicago,1,0,H,1,0,H
+ARG,2002-04-14,,River Plate,CA Colón,4,2,H,1,1,D
+ARG,2002-04-14,,Rosario Central,Newell's Old Boys,0,0,D,0,0,D
+ARG,2002-04-14,,Talleres Córdoba,Independiente,0,0,D,0,0,D
+ARG,2002-04-14,,Unión de Santa Fe,CA Banfield,0,2,A,0,0,D
+ARG,2002-04-17,,CA Banfield,Estudiantes,2,2,D,1,1,D
+ARG,2002-04-17,,Belgrano Córdoba,Rosario Central,1,1,D,0,1,A
+ARG,2002-04-17,,Boca Juniors,Nueva Chicago,0,0,D,0,0,D
+ARG,2002-04-17,,Chacarita Juniors,Racing Club,1,1,D,0,0,D
+ARG,2002-04-17,,CA Colón,CA Lanús,2,1,H,0,1,A
+ARG,2002-04-17,,GyE La Plata,River Plate,0,1,A,0,0,D
+ARG,2002-04-17,,Independiente,Huracán,0,4,A,0,4,A
+ARG,2002-04-17,,Newell's Old Boys,Talleres Córdoba,3,0,H,1,0,H
+ARG,2002-04-17,,San Lorenzo,Argentinos Juniors,1,1,D,0,1,A
+ARG,2002-04-17,,Vélez Sársfield,Unión de Santa Fe,1,1,D,0,0,D
+ARG,2002-04-21,,Argentinos Juniors,CA Colón,0,0,D,0,0,D
+ARG,2002-04-21,,Estudiantes,Vélez Sársfield,3,2,H,0,1,A
+ARG,2002-04-21,,Huracán,Newell's Old Boys,0,2,A,0,2,A
+ARG,2002-04-21,,CA Lanús,GyE La Plata,0,2,A,0,1,A
+ARG,2002-04-21,,Nueva Chicago,CA Banfield,2,0,H,1,0,H
+ARG,2002-04-21,,Racing Club,Boca Juniors,2,1,H,1,1,D
+ARG,2002-04-21,,River Plate,Chacarita Juniors,2,2,D,0,1,A
+ARG,2002-04-21,,Rosario Central,San Lorenzo,0,0,D,0,0,D
+ARG,2002-04-21,,Talleres Córdoba,Belgrano Córdoba,3,1,H,1,0,H
+ARG,2002-04-21,,Unión de Santa Fe,Independiente,0,0,D,0,0,D
+ARG,2002-04-28,,CA Banfield,Boca Juniors,1,0,H,1,0,H
+ARG,2002-04-28,,Belgrano Córdoba,Huracán,0,1,A,0,0,D
+ARG,2002-04-28,,Chacarita Juniors,CA Lanús,1,1,D,0,0,D
+ARG,2002-04-28,,CA Colón,Rosario Central,2,2,D,0,0,D
+ARG,2002-04-28,,GyE La Plata,Argentinos Juniors,3,0,H,1,0,H
+ARG,2002-04-28,,Independiente,Estudiantes,0,0,D,0,0,D
+ARG,2002-04-28,,Newell's Old Boys,Unión de Santa Fe,0,2,A,0,1,A
+ARG,2002-04-28,,River Plate,Racing Club,1,0,H,0,0,D
+ARG,2002-04-28,,San Lorenzo,Talleres Córdoba,3,1,H,1,0,H
+ARG,2002-04-28,,Vélez Sársfield,Nueva Chicago,2,1,H,0,1,A
+ARG,2002-05-05,,Argentinos Juniors,Chacarita Juniors,3,2,H,0,0,D
+ARG,2002-05-05,,Boca Juniors,Vélez Sársfield,2,1,H,1,0,H
+ARG,2002-05-05,,Estudiantes,Newell's Old Boys,3,3,D,1,1,D
+ARG,2002-05-05,,Huracán,San Lorenzo,1,1,D,1,1,D
+ARG,2002-05-05,,CA Lanús,River Plate,1,0,H,1,0,H
+ARG,2002-05-05,,Nueva Chicago,Independiente,1,1,D,1,0,H
+ARG,2002-05-05,,Racing Club,CA Banfield,0,0,D,0,0,D
+ARG,2002-05-05,,Rosario Central,GyE La Plata,2,0,H,1,0,H
+ARG,2002-05-05,,Talleres Córdoba,CA Colón,0,3,A,0,2,A
+ARG,2002-05-05,,Unión de Santa Fe,Belgrano Córdoba,1,0,H,0,0,D
+ARG,2002-05-12,,Belgrano Córdoba,Estudiantes,0,0,D,0,0,D
+ARG,2002-05-12,,Chacarita Juniors,Rosario Central,2,0,H,1,0,H
+ARG,2002-05-12,,CA Colón,Huracán,2,4,A,2,0,H
+ARG,2002-05-12,,GyE La Plata,Talleres Córdoba,1,0,H,0,0,D
+ARG,2002-05-12,,Independiente,Boca Juniors,1,1,D,1,0,H
+ARG,2002-05-12,,CA Lanús,Racing Club,2,0,H,1,0,H
+ARG,2002-05-12,,Newell's Old Boys,Nueva Chicago,2,0,H,1,0,H
+ARG,2002-05-12,,River Plate,Argentinos Juniors,5,1,H,4,1,H
+ARG,2002-05-12,,San Lorenzo,Unión de Santa Fe,0,4,A,0,1,A
+ARG,2002-05-12,,Vélez Sársfield,CA Banfield,3,0,H,3,0,H
+ARG,2002-05-19,,Argentinos Juniors,CA Lanús,0,2,A,0,1,A
+ARG,2002-05-19,,CA Banfield,Independiente,2,1,H,0,0,D
+ARG,2002-05-19,,Boca Juniors,Newell's Old Boys,1,0,H,1,0,H
+ARG,2002-05-19,,Estudiantes,San Lorenzo,4,1,H,1,0,H
+ARG,2002-05-19,,Huracán,GyE La Plata,2,2,D,1,2,A
+ARG,2002-05-19,,Nueva Chicago,Belgrano Córdoba,2,1,H,0,1,A
+ARG,2002-05-19,,Racing Club,Vélez Sársfield,0,1,A,0,0,D
+ARG,2002-05-19,,Rosario Central,River Plate,2,3,A,2,2,D
+ARG,2002-05-19,,Talleres Córdoba,Chacarita Juniors,2,2,D,0,1,A
+ARG,2002-05-19,,Unión de Santa Fe,CA Colón,0,0,D,0,0,D

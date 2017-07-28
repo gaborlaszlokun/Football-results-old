@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GEO,2015-08-13,14:00,Spartaki Tskhinvali,FC Saburtalo,1,2,A,1,0,H
+GEO,2015-08-13,14:00,Chikhura Sachkhere,Lokomotiv Tbilisi,1,0,H,0,0,D
+GEO,2015-08-14,14:00,Dila Gori,Kolkheti Poti,2,0,H,1,0,H
+GEO,2015-08-14,14:00,Dinamo Batumi,FC Zugdidi,5,0,H,4,0,H
+GEO,2015-08-14,14:00,FC Samtredia,FC Kobuleti,2,0,H,0,0,D
+GEO,2015-08-14,14:00,Guria Lanchkhuti,Sioni Bolnisi,1,1,D,1,0,H
+GEO,2015-08-14,16:00,Torpedo Kutaisi,FC Merani Martvili,4,0,H,1,0,H
+GEO,2015-08-14,17:00,Dinamo Tbilisi,FC Sapovnela,4,0,H,2,0,H
+GEO,2015-08-21,14:00,Dila Gori,Dinamo Batumi,1,1,D,1,0,H
+GEO,2015-08-21,17:00,Lokomotiv Tbilisi,Dinamo Tbilisi,1,4,A,1,3,A
+GEO,2015-08-22,14:00,Kolkheti Poti,Sioni Bolnisi,0,1,A,0,1,A
+GEO,2015-08-22,14:00,FC Kobuleti,Guria Lanchkhuti,2,1,H,1,1,D
+GEO,2015-08-22,14:00,FC Sapovnela,FC Samtredia,2,3,A,1,1,D
+GEO,2015-08-22,14:00,FC Merani Martvili,Spartaki Tskhinvali,2,3,A,1,1,D
+GEO,2015-08-22,14:00,FC Zugdidi,Torpedo Kutaisi,1,1,D,0,0,D
+GEO,2015-08-22,14:00,FC Saburtalo,Chikhura Sachkhere,1,0,H,0,0,D
+GEO,2015-08-29,15:00,Dinamo Tbilisi,FC Saburtalo,4,0,H,2,0,H
+GEO,2015-08-30,14:00,Dinamo Batumi,Kolkheti Poti,2,0,H,2,0,H
+GEO,2015-08-30,14:00,Spartaki Tskhinvali,FC Zugdidi,5,1,H,3,1,H
+GEO,2015-08-30,14:00,Chikhura Sachkhere,FC Merani Martvili,3,0,H,0,0,D
+GEO,2015-08-30,14:00,FC Samtredia,Lokomotiv Tbilisi,3,2,H,2,1,H
+GEO,2015-08-30,14:00,Guria Lanchkhuti,FC Sapovnela,3,0,H,1,0,H
+GEO,2015-08-30,14:00,Sioni Bolnisi,FC Kobuleti,2,0,H,0,0,D
+GEO,2015-08-30,17:00,Torpedo Kutaisi,Dila Gori,0,2,A,0,0,D
+GEO,2015-09-11,13:00,FC Merani Martvili,Dinamo Tbilisi,1,4,A,0,1,A
+GEO,2015-09-11,17:00,Lokomotiv Tbilisi,Guria Lanchkhuti,3,0,H,2,0,H
+GEO,2015-09-12,13:00,Kolkheti Poti,FC Kobuleti,1,0,H,1,0,H
+GEO,2015-09-12,13:00,FC Sapovnela,Sioni Bolnisi,0,0,D,0,0,D
+GEO,2015-09-12,13:00,FC Zugdidi,Chikhura Sachkhere,1,4,A,0,1,A
+GEO,2015-09-12,13:00,Dila Gori,Spartaki Tskhinvali,3,0,H,3,0,H
+GEO,2015-09-12,13:00,Dinamo Batumi,Torpedo Kutaisi,1,1,D,0,0,D
+GEO,2015-09-12,13:00,FC Saburtalo,FC Samtredia,3,2,H,2,0,H
+GEO,2015-09-20,13:00,Sioni Bolnisi,Lokomotiv Tbilisi,1,0,H,0,0,D
+GEO,2015-09-20,13:00,FC Kobuleti,FC Sapovnela,4,0,H,1,0,H
+GEO,2015-09-20,13:00,Spartaki Tskhinvali,Dinamo Batumi,3,2,H,3,0,H
+GEO,2015-09-20,13:00,Chikhura Sachkhere,Dila Gori,0,1,A,0,0,D
+GEO,2015-09-20,13:00,FC Samtredia,FC Merani Martvili,4,0,H,2,0,H
+GEO,2015-09-20,13:00,Guria Lanchkhuti,FC Saburtalo,0,0,D,0,0,D
+GEO,2015-09-20,15:00,Torpedo Kutaisi,Kolkheti Poti,1,0,H,0,0,D
+GEO,2015-09-20,15:00,Dinamo Tbilisi,FC Zugdidi,3,1,H,1,0,H
+GEO,2015-09-25,13:00,FC Saburtalo,Sioni Bolnisi,2,3,A,1,1,D
+GEO,2015-09-25,15:00,Lokomotiv Tbilisi,FC Kobuleti,0,0,D,0,0,D
+GEO,2015-09-26,13:00,Kolkheti Poti,FC Sapovnela,0,0,D,0,0,D
+GEO,2015-09-26,13:00,FC Merani Martvili,Guria Lanchkhuti,2,0,H,1,0,H
+GEO,2015-09-26,13:00,FC Zugdidi,FC Samtredia,3,3,D,2,2,D
+GEO,2015-09-26,13:00,Dila Gori,Dinamo Tbilisi,2,0,H,1,0,H
+GEO,2015-09-26,13:00,Dinamo Batumi,Chikhura Sachkhere,1,1,D,1,0,H
+GEO,2015-09-26,15:00,Torpedo Kutaisi,Spartaki Tskhinvali,1,3,A,0,3,A
+GEO,2015-10-03,12:00,Spartaki Tskhinvali,Kolkheti Poti,5,1,H,1,0,H
+GEO,2015-10-03,12:00,FC Sapovnela,Lokomotiv Tbilisi,2,1,H,1,1,D
+GEO,2015-10-03,12:00,FC Samtredia,Dila Gori,5,0,H,3,0,H
+GEO,2015-10-03,15:00,Dinamo Tbilisi,Dinamo Batumi,1,0,H,0,0,D
+GEO,2015-10-04,12:00,Chikhura Sachkhere,Torpedo Kutaisi,3,0,H,1,0,H
+GEO,2015-10-04,12:00,FC Kobuleti,FC Saburtalo,1,0,H,0,0,D
+GEO,2015-10-04,12:00,Sioni Bolnisi,FC Merani Martvili,3,0,H,2,0,H
+GEO,2015-10-10,12:00,Guria Lanchkhuti,FC Zugdidi,2,0,H,1,0,H
+GEO,2015-10-16,16:00,FC Saburtalo,FC Sapovnela,2,1,H,0,0,D
+GEO,2015-10-17,12:00,Kolkheti Poti,Lokomotiv Tbilisi,4,0,H,4,0,H
+GEO,2015-10-17,12:00,FC Merani Martvili,FC Kobuleti,1,2,A,1,1,D
+GEO,2015-10-17,12:00,Dinamo Batumi,FC Samtredia,2,0,H,1,0,H
+GEO,2015-10-17,12:00,Torpedo Kutaisi,Dinamo Tbilisi,1,1,D,0,0,D
+GEO,2015-10-18,12:00,Dila Gori,Guria Lanchkhuti,5,0,H,2,0,H
+GEO,2015-10-18,12:00,Spartaki Tskhinvali,Chikhura Sachkhere,1,1,D,0,0,D
+GEO,2015-10-23,12:00,Chikhura Sachkhere,Kolkheti Poti,0,1,A,0,1,A
+GEO,2015-10-23,12:00,Guria Lanchkhuti,Dinamo Batumi,1,1,D,0,0,D
+GEO,2015-10-23,12:00,Sioni Bolnisi,Dila Gori,0,1,A,0,0,D
+GEO,2015-10-23,12:00,FC Samtredia,Torpedo Kutaisi,3,1,H,1,1,D
+GEO,2015-10-23,12:00,FC Kobuleti,FC Zugdidi,2,1,H,2,1,H
+GEO,2015-10-23,15:00,Dinamo Tbilisi,Spartaki Tskhinvali,2,1,H,1,1,D
+GEO,2015-10-24,12:00,FC Sapovnela,FC Merani Martvili,2,1,H,1,0,H
+GEO,2015-10-25,16:00,Lokomotiv Tbilisi,FC Saburtalo,3,2,H,2,0,H
+GEO,2015-10-31,11:00,Kolkheti Poti,FC Saburtalo,1,0,H,1,0,H
+GEO,2015-11-01,10:00,FC Zugdidi,FC Sapovnela,2,1,H,0,1,A
+GEO,2015-11-01,10:00,Dila Gori,FC Kobuleti,1,3,A,1,0,H
+GEO,2015-11-01,10:00,Dinamo Batumi,Sioni Bolnisi,3,5,A,1,1,D
+GEO,2015-11-01,10:00,Spartaki Tskhinvali,FC Samtredia,1,0,H,1,0,H
+GEO,2015-11-01,10:00,FC Merani Martvili,Lokomotiv Tbilisi,0,3,A,0,2,A
+GEO,2015-11-01,12:00,Chikhura Sachkhere,Dinamo Tbilisi,0,2,A,0,1,A
+GEO,2015-11-01,14:00,Torpedo Kutaisi,Guria Lanchkhuti,2,1,H,0,1,A
+GEO,2015-11-06,16:00,Lokomotiv Tbilisi,FC Zugdidi,3,0,H,2,0,H
+GEO,2015-11-07,10:00,FC Kobuleti,Dinamo Batumi,0,1,A,0,1,A
+GEO,2015-11-07,10:00,FC Sapovnela,Dila Gori,1,5,A,0,3,A
+GEO,2015-11-07,10:00,FC Saburtalo,FC Merani Martvili,4,2,H,1,1,D
+GEO,2015-11-08,10:00,FC Samtredia,Chikhura Sachkhere,0,1,A,0,1,A
+GEO,2015-11-08,10:00,Guria Lanchkhuti,Spartaki Tskhinvali,1,2,A,0,2,A
+GEO,2015-11-08,10:00,Sioni Bolnisi,Torpedo Kutaisi,6,2,H,1,1,D
+GEO,2015-11-08,14:00,Dinamo Tbilisi,Kolkheti Poti,5,2,H,3,0,H
+GEO,2015-11-14,10:00,FC Zugdidi,Sioni Bolnisi,1,3,A,0,2,A
+GEO,2015-11-21,10:00,Kolkheti Poti,FC Merani Martvili,2,1,H,0,0,D
+GEO,2015-11-21,10:00,Dila Gori,Lokomotiv Tbilisi,1,0,H,1,0,H
+GEO,2015-11-21,10:00,Dinamo Batumi,FC Sapovnela,1,0,H,1,0,H
+GEO,2015-11-21,10:00,Chikhura Sachkhere,Guria Lanchkhuti,5,0,H,1,0,H
+GEO,2015-11-21,12:00,Dinamo Tbilisi,FC Samtredia,3,1,H,2,1,H
+GEO,2015-11-21,13:00,Torpedo Kutaisi,FC Kobuleti,0,0,D,0,0,D
+GEO,2015-11-22,10:00,FC Saburtalo,FC Zugdidi,1,0,H,0,0,D
+GEO,2015-11-22,10:00,Spartaki Tskhinvali,Sioni Bolnisi,2,0,H,0,0,D
+GEO,2015-11-27,16:00,Lokomotiv Tbilisi,Dinamo Batumi,1,1,D,1,0,H
+GEO,2015-11-28,10:00,FC Samtredia,Kolkheti Poti,1,0,H,0,0,D
+GEO,2015-11-28,10:00,Guria Lanchkhuti,Dinamo Tbilisi,0,2,A,0,0,D
+GEO,2015-11-28,10:00,FC Kobuleti,Spartaki Tskhinvali,2,2,D,2,1,H
+GEO,2015-11-28,10:00,FC Sapovnela,Torpedo Kutaisi,1,5,A,1,4,A
+GEO,2015-11-28,10:00,FC Merani Martvili,FC Zugdidi,0,0,D,0,0,D
+GEO,2015-11-28,11:00,Sioni Bolnisi,Chikhura Sachkhere,4,0,H,0,0,D
+GEO,2015-11-29,10:00,FC Saburtalo,Dila Gori,1,3,A,0,1,A
+GEO,2015-12-06,10:00,Dinamo Batumi,FC Saburtalo,2,1,H,1,1,D
+GEO,2015-12-06,10:00,Spartaki Tskhinvali,FC Sapovnela,3,0,H,2,0,H
+GEO,2015-12-06,10:00,Kolkheti Poti,FC Zugdidi,0,0,D,0,0,D
+GEO,2015-12-06,10:00,Torpedo Kutaisi,Lokomotiv Tbilisi,2,0,H,1,0,H
+GEO,2015-12-06,10:00,Chikhura Sachkhere,FC Kobuleti,1,0,H,1,0,H
+GEO,2015-12-06,10:00,FC Samtredia,Guria Lanchkhuti,3,1,H,2,0,H
+GEO,2015-12-06,14:00,Dinamo Tbilisi,Sioni Bolnisi,5,2,H,1,0,H
+GEO,2015-12-07,10:00,Dila Gori,FC Merani Martvili,2,0,H,1,0,H
+GEO,2015-12-11,10:00,Guria Lanchkhuti,Kolkheti Poti,1,1,D,1,0,H
+GEO,2015-12-11,16:00,Lokomotiv Tbilisi,Spartaki Tskhinvali,0,1,A,0,0,D
+GEO,2015-12-12,10:00,Sioni Bolnisi,FC Samtredia,0,2,A,0,2,A
+GEO,2015-12-12,10:00,FC Merani Martvili,Dinamo Batumi,0,4,A,0,1,A
+GEO,2015-12-12,10:00,FC Zugdidi,Dila Gori,1,1,D,1,0,H
+GEO,2015-12-12,10:00,FC Kobuleti,Dinamo Tbilisi,1,3,A,0,1,A
+GEO,2015-12-12,10:00,FC Sapovnela,Chikhura Sachkhere,0,2,A,0,0,D
+GEO,2015-12-12,10:00,FC Saburtalo,Torpedo Kutaisi,4,4,D,2,3,A
+GEO,2016-02-19,10:00,FC Saburtalo,Spartaki Tskhinvali,2,2,D,2,0,H
+GEO,2016-02-19,10:00,FC Zugdidi,Dinamo Batumi,0,1,A,0,1,A
+GEO,2016-02-19,10:00,FC Sapovnela,Dinamo Tbilisi,1,2,A,0,0,D
+GEO,2016-02-19,10:00,FC Kobuleti,FC Samtredia,1,1,D,1,0,H
+GEO,2016-02-19,10:00,FC Merani Martvili,Torpedo Kutaisi,2,1,H,1,0,H
+GEO,2016-02-19,10:00,Kolkheti Poti,Dila Gori,0,1,A,0,0,D
+GEO,2016-02-19,10:00,Sioni Bolnisi,Guria Lanchkhuti,1,1,D,1,1,D
+GEO,2016-02-19,16:00,Lokomotiv Tbilisi,Chikhura Sachkhere,2,2,D,1,1,D
+GEO,2016-02-23,10:00,Chikhura Sachkhere,FC Saburtalo,5,0,H,3,0,H
+GEO,2016-02-23,10:00,Sioni Bolnisi,Kolkheti Poti,3,1,H,1,0,H
+GEO,2016-02-23,10:00,Spartaki Tskhinvali,FC Merani Martvili,1,1,D,1,1,D
+GEO,2016-02-23,10:00,Torpedo Kutaisi,FC Zugdidi,2,0,H,1,0,H
+GEO,2016-02-23,10:00,FC Samtredia,FC Sapovnela,3,0,H,2,0,H
+GEO,2016-02-23,10:00,Guria Lanchkhuti,FC Kobuleti,0,0,D,0,0,D
+GEO,2016-02-23,10:00,Dinamo Batumi,Dila Gori,2,2,D,2,1,H
+GEO,2016-02-23,14:00,Dinamo Tbilisi,Lokomotiv Tbilisi,2,1,H,0,0,D
+GEO,2016-02-27,08:00,FC Saburtalo,Dinamo Tbilisi,0,4,A,0,2,A
+GEO,2016-02-27,10:00,FC Sapovnela,Guria Lanchkhuti,0,2,A,0,1,A
+GEO,2016-02-27,10:00,Dila Gori,Torpedo Kutaisi,0,1,A,0,0,D
+GEO,2016-02-27,10:00,FC Merani Martvili,Chikhura Sachkhere,3,2,H,1,0,H
+GEO,2016-02-27,10:00,Kolkheti Poti,Dinamo Batumi,0,1,A,0,1,A
+GEO,2016-02-27,10:00,FC Kobuleti,Sioni Bolnisi,0,0,D,0,0,D
+GEO,2016-02-27,10:00,FC Zugdidi,Spartaki Tskhinvali,1,1,D,0,0,D
+GEO,2016-02-27,16:00,Lokomotiv Tbilisi,FC Samtredia,0,1,A,0,0,D
+GEO,2016-03-06,11:00,Chikhura Sachkhere,FC Zugdidi,4,0,H,1,0,H
+GEO,2016-03-06,11:00,FC Kobuleti,Kolkheti Poti,1,0,H,1,0,H
+GEO,2016-03-06,11:00,Spartaki Tskhinvali,Dila Gori,0,0,D,0,0,D
+GEO,2016-03-06,11:00,Sioni Bolnisi,FC Sapovnela,4,1,H,1,0,H
+GEO,2016-03-06,11:00,Torpedo Kutaisi,Dinamo Batumi,1,0,H,0,0,D
+GEO,2016-03-06,11:00,Guria Lanchkhuti,Lokomotiv Tbilisi,0,0,D,0,0,D
+GEO,2016-03-06,14:00,Dinamo Tbilisi,FC Merani Martvili,2,0,H,2,0,H
+GEO,2016-03-07,11:00,FC Samtredia,FC Saburtalo,8,2,H,2,0,H
+GEO,2016-03-11,16:00,Lokomotiv Tbilisi,Sioni Bolnisi,0,0,D,0,0,D
+GEO,2016-03-12,11:00,Dila Gori,Chikhura Sachkhere,1,1,D,1,1,D
+GEO,2016-03-12,11:00,FC Zugdidi,Dinamo Tbilisi,2,3,A,1,1,D
+GEO,2016-03-13,11:00,Kolkheti Poti,Torpedo Kutaisi,2,0,H,0,0,D
+GEO,2016-03-13,11:00,Dinamo Batumi,Spartaki Tskhinvali,2,0,H,1,0,H
+GEO,2016-03-13,11:00,FC Merani Martvili,FC Samtredia,2,3,A,0,0,D
+GEO,2016-03-13,11:00,FC Saburtalo,Guria Lanchkhuti,4,2,H,1,0,H
+GEO,2016-03-13,11:00,FC Sapovnela,FC Kobuleti,2,0,H,1,0,H
+GEO,2016-03-17,14:00,Dinamo Tbilisi,Dila Gori,0,1,A,0,1,A
+GEO,2016-03-18,11:00,FC Samtredia,FC Zugdidi,2,0,H,1,0,H
+GEO,2016-03-18,11:00,Sioni Bolnisi,FC Saburtalo,0,0,D,0,0,D
+GEO,2016-03-18,11:00,Spartaki Tskhinvali,Torpedo Kutaisi,0,0,D,0,0,D
+GEO,2016-03-18,11:00,Chikhura Sachkhere,Dinamo Batumi,2,0,H,1,0,H
+GEO,2016-03-18,11:00,FC Kobuleti,Lokomotiv Tbilisi,2,1,H,2,0,H
+GEO,2016-03-19,11:00,Guria Lanchkhuti,FC Merani Martvili,0,0,D,0,0,D
+GEO,2016-03-19,11:00,FC Sapovnela,Kolkheti Poti,0,0,D,0,0,D
+GEO,2016-04-02,13:00,FC Saburtalo,FC Kobuleti,3,2,H,1,1,D
+GEO,2016-04-02,13:00,Dinamo Batumi,Dinamo Tbilisi,1,2,A,0,1,A
+GEO,2016-04-02,13:00,Dila Gori,FC Samtredia,1,2,A,0,1,A
+GEO,2016-04-02,13:00,FC Merani Martvili,Sioni Bolnisi,1,1,D,1,0,H
+GEO,2016-04-02,13:00,FC Zugdidi,Guria Lanchkhuti,3,2,H,2,1,H
+GEO,2016-04-02,13:00,Kolkheti Poti,Spartaki Tskhinvali,0,0,D,0,0,D
+GEO,2016-04-02,15:00,Lokomotiv Tbilisi,FC Sapovnela,0,0,D,0,0,D
+GEO,2016-04-02,15:00,Torpedo Kutaisi,Chikhura Sachkhere,0,2,A,0,1,A
+GEO,2016-04-06,13:00,Sioni Bolnisi,FC Zugdidi,3,1,H,1,0,H
+GEO,2016-04-06,13:00,Chikhura Sachkhere,Spartaki Tskhinvali,2,1,H,2,1,H
+GEO,2016-04-06,13:00,FC Kobuleti,FC Merani Martvili,0,0,D,0,0,D
+GEO,2016-04-06,13:00,Guria Lanchkhuti,Dila Gori,0,1,A,0,0,D
+GEO,2016-04-06,13:00,FC Samtredia,Dinamo Batumi,2,0,H,0,0,D
+GEO,2016-04-06,13:00,FC Sapovnela,FC Saburtalo,0,0,D,0,0,D
+GEO,2016-04-06,15:00,Dinamo Tbilisi,Torpedo Kutaisi,2,1,H,1,0,H
+GEO,2016-04-06,15:00,Lokomotiv Tbilisi,Kolkheti Poti,1,0,H,1,0,H
+GEO,2016-04-10,13:00,FC Zugdidi,FC Kobuleti,3,0,H,1,0,H
+GEO,2016-04-10,13:00,Dinamo Batumi,Guria Lanchkhuti,1,2,A,1,2,A
+GEO,2016-04-10,13:00,Dila Gori,Sioni Bolnisi,2,1,H,1,0,H
+GEO,2016-04-10,13:00,FC Merani Martvili,FC Sapovnela,2,0,H,0,0,D
+GEO,2016-04-10,13:00,Torpedo Kutaisi,FC Samtredia,2,1,H,1,1,D
+GEO,2016-04-10,13:00,Spartaki Tskhinvali,Dinamo Tbilisi,2,4,A,1,2,A
+GEO,2016-04-11,13:00,Kolkheti Poti,Chikhura Sachkhere,2,0,H,1,0,H
+GEO,2016-04-11,13:00,FC Saburtalo,Lokomotiv Tbilisi,0,0,D,0,0,D
+GEO,2016-04-15,16:00,Lokomotiv Tbilisi,FC Merani Martvili,1,1,D,1,0,H
+GEO,2016-04-16,13:00,Sioni Bolnisi,Dinamo Batumi,1,0,H,0,0,D
+GEO,2016-04-16,13:00,Chikhura Sachkhere,Dinamo Tbilisi,1,0,H,0,0,D
+GEO,2016-04-17,13:00,FC Kobuleti,Dila Gori,1,0,H,0,0,D
+GEO,2016-04-17,13:00,FC Sapovnela,FC Zugdidi,2,2,D,2,1,H
+GEO,2016-04-17,13:00,FC Saburtalo,Kolkheti Poti,5,0,H,1,0,H
+GEO,2016-04-17,13:00,FC Samtredia,Spartaki Tskhinvali,2,1,H,0,0,D
+GEO,2016-04-17,13:00,Guria Lanchkhuti,Torpedo Kutaisi,3,2,H,1,1,D
+GEO,2016-04-23,13:00,Dila Gori,FC Sapovnela,3,1,H,1,0,H
+GEO,2016-04-23,13:00,Dinamo Batumi,FC Kobuleti,2,2,D,2,1,H
+GEO,2016-04-23,13:00,FC Merani Martvili,FC Saburtalo,2,5,A,1,1,D
+GEO,2016-04-23,13:00,FC Zugdidi,Lokomotiv Tbilisi,1,1,D,1,0,H
+GEO,2016-04-23,13:00,Spartaki Tskhinvali,Guria Lanchkhuti,0,0,D,0,0,D
+GEO,2016-04-24,13:00,Kolkheti Poti,Dinamo Tbilisi,1,3,A,0,2,A
+GEO,2016-04-24,13:00,Chikhura Sachkhere,FC Samtredia,1,1,D,1,0,H
+GEO,2016-04-24,16:00,Torpedo Kutaisi,Sioni Bolnisi,1,0,H,0,0,D
+GEO,2016-04-30,13:00,FC Merani Martvili,Kolkheti Poti,1,1,D,1,1,D
+GEO,2016-04-30,13:00,FC Samtredia,Dinamo Tbilisi,2,1,H,1,1,D
+GEO,2016-04-30,13:00,Guria Lanchkhuti,Chikhura Sachkhere,1,3,A,1,3,A
+GEO,2016-04-30,13:00,FC Sapovnela,Dinamo Batumi,2,1,H,1,0,H
+GEO,2016-04-30,13:00,FC Kobuleti,Torpedo Kutaisi,2,3,A,1,3,A
+GEO,2016-04-30,13:00,Sioni Bolnisi,Spartaki Tskhinvali,1,3,A,0,0,D
+GEO,2016-04-30,13:00,FC Zugdidi,FC Saburtalo,0,1,A,0,0,D
+GEO,2016-04-30,17:00,Lokomotiv Tbilisi,Dila Gori,0,2,A,0,2,A
+GEO,2016-05-08,14:00,Spartaki Tskhinvali,FC Kobuleti,5,0,H,2,0,H
+GEO,2016-05-08,14:00,Kolkheti Poti,FC Samtredia,0,3,A,0,0,D
+GEO,2016-05-08,14:00,FC Zugdidi,FC Merani Martvili,3,0,H,0,0,D
+GEO,2016-05-08,14:00,Dila Gori,FC Saburtalo,2,1,H,1,0,H
+GEO,2016-05-08,14:00,Dinamo Batumi,Lokomotiv Tbilisi,1,0,H,1,0,H
+GEO,2016-05-08,15:00,Torpedo Kutaisi,FC Sapovnela,4,1,H,0,0,D
+GEO,2016-05-09,14:00,Chikhura Sachkhere,Sioni Bolnisi,1,1,D,1,0,H
+GEO,2016-05-09,15:00,Dinamo Tbilisi,Guria Lanchkhuti,3,2,H,2,1,H
+GEO,2016-05-13,14:00,Lokomotiv Tbilisi,Torpedo Kutaisi,1,2,A,0,1,A
+GEO,2016-05-14,14:00,FC Kobuleti,Chikhura Sachkhere,0,2,A,0,1,A
+GEO,2016-05-14,14:00,FC Zugdidi,Kolkheti Poti,2,1,H,0,1,A
+GEO,2016-05-14,14:00,Sioni Bolnisi,Dinamo Tbilisi,1,2,A,0,2,A
+GEO,2016-05-14,14:00,FC Saburtalo,Dinamo Batumi,1,2,A,0,0,D
+GEO,2016-05-14,14:00,Guria Lanchkhuti,FC Samtredia,0,2,A,0,1,A
+GEO,2016-05-14,14:00,FC Sapovnela,Spartaki Tskhinvali,2,1,H,0,1,A
+GEO,2016-05-14,14:00,FC Merani Martvili,Dila Gori,3,2,H,2,1,H
+GEO,2016-05-22,14:00,Torpedo Kutaisi,FC Saburtalo,5,0,H,2,0,H
+GEO,2016-05-22,14:00,Dila Gori,FC Zugdidi,3,0,H,1,0,H
+GEO,2016-05-22,14:00,Dinamo Batumi,FC Merani Martvili,0,0,D,0,0,D
+GEO,2016-05-22,14:00,FC Samtredia,Sioni Bolnisi,1,2,A,0,0,D
+GEO,2016-05-22,14:00,Dinamo Tbilisi,FC Kobuleti,1,0,H,0,0,D
+GEO,2016-05-22,14:00,Kolkheti Poti,Guria Lanchkhuti,0,1,A,0,0,D
+GEO,2016-05-22,14:00,Spartaki Tskhinvali,Lokomotiv Tbilisi,1,1,D,0,0,D
+GEO,2016-05-22,14:00,Chikhura Sachkhere,FC Sapovnela,3,2,H,0,0,D

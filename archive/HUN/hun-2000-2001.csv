@@ -1,138 +1,245 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-
-
-
-
-
-HUN,22/11/2000,18:00,MTK-Hungária FC,Dunaferr SE,4,1,H,NoR,NoR,NoR
-HUN,21/11/2000,17:00,Újpest FC,Zalahús-Zalaegerszegi TE FC,3,0,H,NoR,NoR,NoR
-HUN,04/11/2000,17:00,Győri ETO FC,Kispest-Honvéd FC,3,2,H,NoR,NoR,NoR
-HUN,04/11/2000,17:00,Videoton FC Fehérvár,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HUN,04/11/2000,13:00,Lombard FC Tatabánya,MATÁV Compaq-Sopron,2,2,D,NoR,NoR,NoR
-HUN,03/11/2000,17:15,Debreceni VSC,Vasas Danubius Hotels,1,2,A,NoR,NoR,NoR
-HUN,12/11/2000,13:00,Dunaferr SE,Újpest FC,2,1,H,NoR,NoR,NoR
-HUN,12/11/2000,13:00,MATÁV Compaq-Sopron,MTK-Hungária FC,0,0,D,NoR,NoR,NoR
-HUN,11/11/2000,17:00,Zalahús-Zalaegerszegi TE FC,Debreceni VSC,3,2,H,NoR,NoR,NoR
-HUN,11/11/2000,17:00,Vasas Danubius Hotels,Videoton FC Fehérvár,0,2,A,NoR,NoR,NoR
-HUN,11/11/2000,17:00,Ferencvárosi TC,Győri ETO FC,2,0,H,NoR,NoR,NoR
-HUN,10/11/2000,17:30,Kispest-Honvéd FC,Lombard FC Tatabánya,3,1,H,NoR,NoR,NoR
-HUN,19/11/2000,13:00,Lombard FC Tatabánya,Ferencvárosi TC,0,5,A,NoR,NoR,NoR
-HUN,18/11/2000,17:00,Zalahús-Zalaegerszegi TE FC,Dunaferr SE,0,1,A,NoR,NoR,NoR
-HUN,18/11/2000,17:00,MTK-Hungária FC,Kispest-Honvéd FC,1,1,D,NoR,NoR,NoR
-HUN,18/11/2000,15:00,Győri ETO FC,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
-HUN,18/11/2000,15:00,Videoton FC Fehérvár,Debreceni VSC,3,1,H,NoR,NoR,NoR
-HUN,17/11/2000,17:15,Újpest FC,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
-HUN,27/11/2000,19:00,Vasas Danubius Hotels,Lombard FC Tatabánya,2,0,H,NoR,NoR,NoR
-HUN,25/11/2000,17:00,Ferencvárosi TC,MTK-Hungária FC,0,0,D,NoR,NoR,NoR
-HUN,25/11/2000,15:00,Videoton FC Fehérvár,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
-HUN,25/11/2000,13:00,Debreceni VSC,Győri ETO FC,3,2,H,NoR,NoR,NoR
-HUN,25/11/2000,13:00,MATÁV Compaq-Sopron,Dunaferr SE,1,2,A,NoR,NoR,NoR
-HUN,24/11/2000,17:15,Kispest-Honvéd FC,Újpest FC,2,3,A,NoR,NoR,NoR
-HUN,30/11/2000,19:00,Újpest FC,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
-HUN,30/11/2000,17:00,MTK-Hungária FC,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
-HUN,30/11/2000,13:00,Lombard FC Tatabánya,Debreceni VSC,3,2,H,NoR,NoR,NoR
-HUN,29/11/2000,17:00,Győri ETO FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
-HUN,29/11/2000,17:00,Zalahús-Zalaegerszegi TE FC,MATÁV Compaq-Sopron,1,1,D,NoR,NoR,NoR
-HUN,29/11/2000,13:00,Dunaferr SE,Kispest-Honvéd FC,0,3,A,NoR,NoR,NoR
-HUN,04/03/2001,17:00,Videoton FC Fehérvár,Lombard FC Tatabánya,1,0,H,NoR,NoR,NoR
-HUN,03/03/2001,18:30,Vasas Danubius Hotels,Újpest FC,6,2,H,NoR,NoR,NoR
-HUN,03/03/2001,16:45,Ferencvárosi TC,Dunaferr SE,2,0,H,NoR,NoR,NoR
-HUN,03/03/2001,14:30,Győri ETO FC,Zalahús-Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
-HUN,03/03/2001,14:30,Kispest-Honvéd FC,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
-HUN,02/03/2001,18:00,Debreceni VSC,MTK-Hungária FC,0,4,A,NoR,NoR,NoR
-HUN,11/03/2001,14:30,Dunaferr SE,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
-HUN,11/03/2001,13:00,MATÁV Compaq-Sopron,Ferencvárosi TC,2,3,A,NoR,NoR,NoR
-HUN,10/03/2001,17:00,MTK-Hungária FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
-HUN,10/03/2001,17:00,Zalahús-Zalaegerszegi TE FC,Kispest-Honvéd FC,3,1,H,NoR,NoR,NoR
-HUN,10/03/2001,16:45,Újpest FC,Debreceni VSC,3,0,H,NoR,NoR,NoR
-HUN,10/03/2001,14:30,Lombard FC Tatabánya,Győri ETO FC,0,2,A,NoR,NoR,NoR
-HUN,18/03/2001,18:00,Debreceni VSC,Dunaferr SE,2,0,H,NoR,NoR,NoR
-HUN,17/03/2001,18:45,Videoton FC Fehérvár,Újpest FC,4,0,H,NoR,NoR,NoR
-HUN,17/03/2001,16:45,Ferencvárosi TC,Kispest-Honvéd FC,1,2,A,NoR,NoR,NoR
-HUN,17/03/2001,15:00,Lombard FC Tatabánya,Zalahús-Zalaegerszegi TE FC,1,3,A,NoR,NoR,NoR
-HUN,17/03/2001,14:00,Vasas Danubius Hotels,MATÁV Compaq-Sopron,1,1,D,NoR,NoR,NoR
-HUN,16/03/2001,18:00,Győri ETO FC,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
-HUN,01/04/2001,18:00,MTK-Hungária FC,Lombard FC Tatabánya,1,0,H,NoR,NoR,NoR
-HUN,01/04/2001,18:00,Újpest FC,Győri ETO FC,1,1,D,NoR,NoR,NoR
-HUN,31/03/2001,16:00,Dunaferr SE,Videoton FC Fehérvár,1,0,H,NoR,NoR,NoR
-HUN,31/03/2001,16:00,MATÁV Compaq-Sopron,Debreceni VSC,2,1,H,NoR,NoR,NoR
-HUN,31/03/2001,15:30,Kispest-Honvéd FC,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
-HUN,30/03/2001,18:00,Zalahús-Zalaegerszegi TE FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HUN,08/04/2001,13:00,Lombard FC Tatabánya,Újpest FC,0,2,A,NoR,NoR,NoR
-HUN,07/04/2001,19:00,Videoton FC Fehérvár,MATÁV Compaq-Sopron,1,2,A,NoR,NoR,NoR
-HUN,07/04/2001,18:00,MTK-Hungária FC,Zalahús-Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
-HUN,07/04/2001,16:45,Vasas Danubius Hotels,Ferencvárosi TC,0,3,A,NoR,NoR,NoR
-HUN,07/04/2001,16:30,Debreceni VSC,Kispest-Honvéd FC,2,4,A,NoR,NoR,NoR
-HUN,06/04/2001,18:00,Győri ETO FC,Dunaferr SE,1,3,A,NoR,NoR,NoR
-HUN,15/04/2001,13:00,Dunaferr SE,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
-HUN,14/04/2001,19:00,Zalahús-Zalaegerszegi TE FC,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
-HUN,14/04/2001,16:45,Újpest FC,MTK-Hungária FC,2,1,H,NoR,NoR,NoR
-HUN,14/04/2001,16:30,MATÁV Compaq-Sopron,Győri ETO FC,0,2,A,NoR,NoR,NoR
-HUN,14/04/2001,16:30,Kispest-Honvéd FC,Videoton FC Fehérvár,1,0,H,NoR,NoR,NoR
-HUN,13/04/2001,18:00,Ferencvárosi TC,Debreceni VSC,2,1,H,NoR,NoR,NoR
-HUN,18/04/2001,19:00,Ferencvárosi TC,Videoton FC Fehérvár,5,0,H,NoR,NoR,NoR
-HUN,18/04/2001,18:00,Vasas Danubius Hotels,Debreceni VSC,2,1,H,NoR,NoR,NoR
-HUN,18/04/2001,18:00,Zalahús-Zalaegerszegi TE FC,Újpest FC,1,1,D,NoR,NoR,NoR
-HUN,18/04/2001,17:00,MATÁV Compaq-Sopron,Lombard FC Tatabánya,2,0,H,NoR,NoR,NoR
-HUN,18/04/2001,17:00,Dunaferr SE,MTK-Hungária FC,1,2,A,NoR,NoR,NoR
-HUN,18/04/2001,17:00,Kispest-Honvéd FC,Győri ETO FC,0,0,D,NoR,NoR,NoR
-HUN,22/04/2001,14:30,Győri ETO FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HUN,21/04/2001,19:00,Videoton FC Fehérvár,Vasas Danubius Hotels,2,3,A,NoR,NoR,NoR
-HUN,21/04/2001,19:00,MTK-Hungária FC,MATÁV Compaq-Sopron,0,0,D,NoR,NoR,NoR
-HUN,21/04/2001,19:00,Debreceni VSC,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
-HUN,21/04/2001,17:00,Lombard FC Tatabánya,Kispest-Honvéd FC,0,1,A,NoR,NoR,NoR
-HUN,21/04/2001,16:45,Újpest FC,Dunaferr SE,3,2,H,NoR,NoR,NoR
-HUN,29/04/2001,18:00,Kispest-Honvéd FC,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
-HUN,28/04/2001,19:00,Debreceni VSC,Videoton FC Fehérvár,1,1,D,NoR,NoR,NoR
-HUN,28/04/2001,18:30,Vasas Danubius Hotels,Győri ETO FC,1,0,H,NoR,NoR,NoR
-HUN,28/04/2001,17:00,MATÁV Compaq-Sopron,Újpest FC,2,1,H,NoR,NoR,NoR
-HUN,28/04/2001,17:00,Dunaferr SE,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
-HUN,28/04/2001,16:45,Ferencvárosi TC,Lombard FC Tatabánya,0,0,D,NoR,NoR,NoR
-HUN,06/05/2001,18:00,MTK-Hungária FC,Ferencvárosi TC,5,2,H,NoR,NoR,NoR
-HUN,05/05/2001,19:00,Győri ETO FC,Debreceni VSC,2,2,D,NoR,NoR,NoR
-HUN,05/05/2001,17:00,Dunaferr SE,MATÁV Compaq-Sopron,1,0,H,NoR,NoR,NoR
-HUN,05/05/2001,17:00,Lombard FC Tatabánya,Vasas Danubius Hotels,1,4,A,NoR,NoR,NoR
-HUN,05/05/2001,16:45,Zalahús-Zalaegerszegi TE FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
-HUN,04/05/2001,18:00,Újpest FC,Kispest-Honvéd FC,0,1,A,NoR,NoR,NoR
-HUN,13/05/2001,18:00,Vasas Danubius Hotels,MTK-Hungária FC,2,2,D,NoR,NoR,NoR
-HUN,12/05/2001,19:00,Debreceni VSC,Lombard FC Tatabánya,2,1,H,NoR,NoR,NoR
-HUN,12/05/2001,17:00,MATÁV Compaq-Sopron,Zalahús-Zalaegerszegi TE FC,0,0,D,NoR,NoR,NoR
-HUN,12/05/2001,17:00,Kispest-Honvéd FC,Dunaferr SE,3,4,A,NoR,NoR,NoR
-HUN,12/05/2001,16:45,Ferencvárosi TC,Újpest FC,2,2,D,NoR,NoR,NoR
-HUN,11/05/2001,18:00,Videoton FC Fehérvár,Győri ETO FC,4,1,H,NoR,NoR,NoR
-HUN,20/05/2001,17:15,Dunaferr SE,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HUN,19/05/2001,19:00,Zalahús-Zalaegerszegi TE FC,Győri ETO FC,2,3,A,NoR,NoR,NoR
-HUN,19/05/2001,17:00,MATÁV Compaq-Sopron,Kispest-Honvéd FC,2,1,H,NoR,NoR,NoR
-HUN,19/05/2001,17:00,Lombard FC Tatabánya,Videoton FC Fehérvár,1,3,A,NoR,NoR,NoR
-HUN,19/05/2001,16:45,Újpest FC,Vasas Danubius Hotels,1,1,D,NoR,NoR,NoR
-HUN,18/05/2001,18:00,MTK-Hungária FC,Debreceni VSC,0,1,A,NoR,NoR,NoR
-HUN,27/05/2001,18:00,Ferencvárosi TC,MATÁV Compaq-Sopron,1,0,H,NoR,NoR,NoR
-HUN,26/05/2001,19:00,Győri ETO FC,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
-HUN,26/05/2001,17:00,Debreceni VSC,Újpest FC,3,4,A,NoR,NoR,NoR
-HUN,26/05/2001,17:00,Kispest-Honvéd FC,Zalahús-Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
-HUN,26/05/2001,16:45,Videoton FC Fehérvár,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
-HUN,25/05/2001,18:00,Vasas Danubius Hotels,Dunaferr SE,3,2,H,NoR,NoR,NoR
-HUN,10/06/2001,18:15,Kispest-Honvéd FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
-HUN,09/06/2001,19:00,MTK-Hungária FC,Győri ETO FC,1,2,A,NoR,NoR,NoR
-HUN,09/06/2001,19:00,Zalahús-Zalaegerszegi TE FC,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
-HUN,09/06/2001,17:00,Dunaferr SE,Debreceni VSC,2,1,H,NoR,NoR,NoR
-HUN,09/06/2001,16:15,MATÁV Compaq-Sopron,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
-HUN,08/06/2001,18:15,Újpest FC,Videoton FC Fehérvár,5,3,H,NoR,NoR,NoR
-HUN,16/06/2001,16:45,Győri ETO FC,Újpest FC,2,1,H,NoR,NoR,NoR
-HUN,16/06/2001,16:45,Ferencvárosi TC,Zalahús-Zalaegerszegi TE FC,3,2,H,NoR,NoR,NoR
-HUN,16/06/2001,16:45,Debreceni VSC,MATÁV Compaq-Sopron,3,1,H,NoR,NoR,NoR
-HUN,16/06/2001,16:45,Videoton FC Fehérvár,Dunaferr SE,1,2,A,NoR,NoR,NoR
-HUN,15/06/2001,18:15,Vasas Danubius Hotels,Kispest-Honvéd FC,3,1,H,NoR,NoR,NoR
-HUN,13/06/2001,,Lombard FC Tatabánya,MTK-Hungária FC,1,5,A,NoR,NoR,NoR
-HUN,20/06/2001,17:00,Ferencvárosi TC,Vasas Danubius Hotels,2,0,H,NoR,NoR,NoR
-HUN,20/06/2001,17:00,Dunaferr SE,Győri ETO FC,4,1,H,NoR,NoR,NoR
-HUN,20/06/2001,17:00,Újpest FC,Lombard FC Tatabánya,1,1,D,NoR,NoR,NoR
-HUN,20/06/2001,17:00,Zalahús-Zalaegerszegi TE FC,MTK-Hungária FC,2,1,H,NoR,NoR,NoR
-HUN,20/06/2001,17:00,Kispest-Honvéd FC,Debreceni VSC,0,0,D,NoR,NoR,NoR
-HUN,20/06/2001,17:00,MATÁV Compaq-Sopron,Videoton FC Fehérvár,3,2,H,NoR,NoR,NoR
-HUN,23/06/2001,17:15,Vasas Danubius Hotels,Zalahús-Zalaegerszegi TE FC,6,3,H,NoR,NoR,NoR
-HUN,23/06/2001,17:15,MTK-Hungária FC,Újpest FC,1,2,A,NoR,NoR,NoR
-HUN,23/06/2001,17:15,Videoton FC Fehérvár,Kispest-Honvéd FC,4,1,H,NoR,NoR,NoR
-HUN,23/06/2001,17:15,Debreceni VSC,Ferencvárosi TC,0,2,A,NoR,NoR,NoR
-HUN,23/06/2001,17:15,Győri ETO FC,MATÁV Compaq-Sopron,4,2,H,NoR,NoR,NoR
-HUN,03/06/2001,,Lombard FC Tatabánya,Dunaferr SE,2,5,A,NoR,NoR,NoR
+HUN,2000-07-22,17:00,Nyírség-Spartacus FC,Győri ETO FC,2,0,H,NoR,NoR,NoR
+HUN,2000-07-22,17:00,Kispest-Honvéd FC,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HUN,2000-07-22,17:00,Újpest FC,Vasas Danubius Hotels,0,0,D,NoR,NoR,NoR
+HUN,2000-07-22,20:00,Ferencvárosi TC,Haladás FC,4,0,H,NoR,NoR,NoR
+HUN,2000-07-22,20:00,Videoton FC Fehérvár,Nagykanizsa FC,2,0,H,NoR,NoR,NoR
+HUN,2000-07-22,20:00,Zalahús-Zalaegerszegi TE FC,Pécsi MFC,1,1,D,NoR,NoR,NoR
+HUN,2000-07-23,19:30,MTK-Hungária FC,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,2000-07-28,17:30,Győri ETO FC,Kispest-Honvéd FC,2,1,H,NoR,NoR,NoR
+HUN,2000-07-29,17:00,Nyírség-Spartacus FC,Lombard FC Tatabánya,0,2,A,NoR,NoR,NoR
+HUN,2000-07-29,17:00,Újpest FC,Debreceni VSC,8,3,H,NoR,NoR,NoR
+HUN,2000-07-29,17:00,Pécsi MFC,MTK-Hungária FC,0,3,A,NoR,NoR,NoR
+HUN,2000-07-29,20:00,Haladás FC,MATÁV Compaq-Sopron,3,0,H,NoR,NoR,NoR
+HUN,2000-07-29,20:00,Vasas Danubius Hotels,Videoton FC Fehérvár,2,2,D,NoR,NoR,NoR
+HUN,2000-07-30,17:00,Nagykanizsa FC,Zalahús-Zalaegerszegi TE FC,0,0,D,NoR,NoR,NoR
+HUN,2000-08-04,20:10,Videoton FC Fehérvár,Újpest FC,1,4,A,NoR,NoR,NoR
+HUN,2000-08-05,17:00,Lombard FC Tatabánya,Haladás FC,2,1,H,NoR,NoR,NoR
+HUN,2000-08-05,17:00,MATÁV Compaq-Sopron,Dunaferr SE,1,2,A,NoR,NoR,NoR
+HUN,2000-08-05,17:00,Kispest-Honvéd FC,Nyírség-Spartacus FC,2,0,H,NoR,NoR,NoR
+HUN,2000-08-05,17:00,Ferencvárosi TC,Győri ETO FC,1,3,A,NoR,NoR,NoR
+HUN,2000-08-05,20:00,Debreceni VSC,Pécsi MFC,2,0,H,NoR,NoR,NoR
+HUN,2000-08-05,20:00,Zalahús-Zalaegerszegi TE FC,Vasas Danubius Hotels,3,2,H,NoR,NoR,NoR
+HUN,2000-08-05,20:00,MTK-Hungária FC,Nagykanizsa FC,6,0,H,NoR,NoR,NoR
+HUN,2000-08-11,17:30,Ferencvárosi TC,Kispest-Honvéd FC,2,2,D,NoR,NoR,NoR
+HUN,2000-08-12,17:00,MATÁV Compaq-Sopron,Nyírség-Spartacus FC,2,1,H,NoR,NoR,NoR
+HUN,2000-08-12,17:00,Lombard FC Tatabánya,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HUN,2000-08-12,20:00,Haladás FC,Győri ETO FC,0,3,A,NoR,NoR,NoR
+HUN,2000-08-12,20:00,Debreceni VSC,Nagykanizsa FC,3,0,H,NoR,NoR,NoR
+HUN,2000-08-12,20:00,Zalahús-Zalaegerszegi TE FC,Videoton FC Fehérvár,1,4,A,NoR,NoR,NoR
+HUN,2000-08-13,17:00,Pécsi MFC,Vasas Danubius Hotels,1,3,A,NoR,NoR,NoR
+HUN,2000-08-13,19:30,MTK-Hungária FC,Újpest FC,2,1,H,NoR,NoR,NoR
+HUN,2000-08-18,17:30,Kispest-Honvéd FC,Lombard FC Tatabánya,1,1,D,NoR,NoR,NoR
+HUN,2000-08-19,17:00,Dunaferr SE,Haladás FC,4,0,H,NoR,NoR,NoR
+HUN,2000-08-19,17:00,Nyírség-Spartacus FC,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HUN,2000-08-19,20:00,Győri ETO FC,MATÁV Compaq-Sopron,0,2,A,NoR,NoR,NoR
+HUN,2000-08-19,20:00,Vasas Danubius Hotels,MTK-Hungária FC,0,0,D,NoR,NoR,NoR
+HUN,2000-08-19,20:00,Újpest FC,Zalahús-Zalaegerszegi TE FC,5,0,H,NoR,NoR,NoR
+HUN,2000-08-19,20:00,Videoton FC Fehérvár,Debreceni VSC,0,3,A,NoR,NoR,NoR
+HUN,2000-08-20,17:00,Nagykanizsa FC,Pécsi MFC,3,1,H,NoR,NoR,NoR
+HUN,2000-08-25,17:30,Győri ETO FC,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
+HUN,2000-08-26,17:00,Pécsi MFC,Videoton FC Fehérvár,0,2,A,NoR,NoR,NoR
+HUN,2000-08-26,17:00,Nagykanizsa FC,Újpest FC,2,4,A,NoR,NoR,NoR
+HUN,2000-08-26,20:00,Haladás FC,Kispest-Honvéd FC,1,1,D,NoR,NoR,NoR
+HUN,2000-08-27,17:00,MATÁV Compaq-Sopron,Ferencvárosi TC,2,1,H,NoR,NoR,NoR
+HUN,2000-08-27,17:00,Dunaferr SE,Nyírség-Spartacus FC,3,0,H,NoR,NoR,NoR
+HUN,2000-08-27,19:00,Debreceni VSC,Vasas Danubius Hotels,0,1,A,NoR,NoR,NoR
+HUN,2000-08-27,19:30,MTK-Hungária FC,Zalahús-Zalaegerszegi TE FC,0,0,D,NoR,NoR,NoR
+HUN,2000-09-02,,Lombard FC Tatabánya,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
+HUN,2000-09-06,,Dunaferr SE,Ferencvárosi TC,5,2,H,NoR,NoR,NoR
+HUN,2000-09-08,17:30,Videoton FC Fehérvár,MTK-Hungária FC,1,3,A,NoR,NoR,NoR
+HUN,2000-09-08,20:00,Vasas Danubius Hotels,Nagykanizsa FC,4,0,H,NoR,NoR,NoR
+HUN,2000-09-09,16:30,Kispest-Honvéd FC,MATÁV Compaq-Sopron,1,1,D,NoR,NoR,NoR
+HUN,2000-09-09,16:30,Nyírség-Spartacus FC,Haladás FC,1,0,H,NoR,NoR,NoR
+HUN,2000-09-09,17:00,Győri ETO FC,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HUN,2000-09-09,19:00,Ferencvárosi TC,Lombard FC Tatabánya,2,2,D,NoR,NoR,NoR
+HUN,2000-09-09,19:00,Újpest FC,Pécsi MFC,1,1,D,NoR,NoR,NoR
+HUN,2000-09-09,19:00,Zalahús-Zalaegerszegi TE FC,Debreceni VSC,0,0,D,NoR,NoR,NoR
+HUN,2000-09-15,17:30,Haladás FC,Ferencvárosi TC,3,0,H,NoR,NoR,NoR
+HUN,2000-09-16,16:00,MATÁV Compaq-Sopron,Lombard FC Tatabánya,3,4,A,NoR,NoR,NoR
+HUN,2000-09-16,16:00,Nagykanizsa FC,Videoton FC Fehérvár,1,0,H,NoR,NoR,NoR
+HUN,2000-09-16,16:00,Pécsi MFC,Zalahús-Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
+HUN,2000-09-16,17:00,Vasas Danubius Hotels,Újpest FC,1,2,A,NoR,NoR,NoR
+HUN,2000-09-16,19:00,Győri ETO FC,Nyírség-Spartacus FC,2,0,H,NoR,NoR,NoR
+HUN,2000-09-17,18:00,Debreceni VSC,MTK-Hungária FC,2,2,D,NoR,NoR,NoR
+HUN,2000-09-19,19:00,Kispest-Honvéd FC,Győri ETO FC,2,0,H,NoR,NoR,NoR
+HUN,2000-09-20,16:00,MATÁV Compaq-Sopron,Haladás FC,3,1,H,NoR,NoR,NoR
+HUN,2000-09-20,16:00,Lombard FC Tatabánya,Nyírség-Spartacus FC,1,0,H,NoR,NoR,NoR
+HUN,2000-09-20,19:00,Ferencvárosi TC,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HUN,2000-09-20,19:00,Videoton FC Fehérvár,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
+HUN,2000-09-20,19:00,Zalahús-Zalaegerszegi TE FC,Nagykanizsa FC,2,2,D,NoR,NoR,NoR
+HUN,2000-09-20,19:00,MTK-Hungária FC,Pécsi MFC,1,0,H,NoR,NoR,NoR
+HUN,2000-09-20,19:00,Debreceni VSC,Újpest FC,2,0,H,NoR,NoR,NoR
+HUN,2000-09-23,16:00,Dunaferr SE,MATÁV Compaq-Sopron,4,1,H,NoR,NoR,NoR
+HUN,2000-09-23,16:00,Nyírség-Spartacus FC,Kispest-Honvéd FC,3,1,H,NoR,NoR,NoR
+HUN,2000-09-23,16:00,Győri ETO FC,Ferencvárosi TC,0,3,A,NoR,NoR,NoR
+HUN,2000-09-23,16:00,Pécsi MFC,Debreceni VSC,1,0,H,NoR,NoR,NoR
+HUN,2000-09-23,19:00,Haladás FC,Lombard FC Tatabánya,1,1,D,NoR,NoR,NoR
+HUN,2000-09-23,19:00,Újpest FC,Videoton FC Fehérvár,0,0,D,NoR,NoR,NoR
+HUN,2000-09-23,19:00,Vasas Danubius Hotels,Zalahús-Zalaegerszegi TE FC,0,0,D,NoR,NoR,NoR
+HUN,2000-09-29,17:30,Videoton FC Fehérvár,Zalahús-Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
+HUN,2000-09-30,16:00,Nyírség-Spartacus FC,MATÁV Compaq-Sopron,1,2,A,NoR,NoR,NoR
+HUN,2000-09-30,17:00,Kispest-Honvéd FC,Ferencvárosi TC,1,2,A,NoR,NoR,NoR
+HUN,2000-09-30,19:00,Győri ETO FC,Haladás FC,2,2,D,NoR,NoR,NoR
+HUN,2000-10-01,15:00,Dunaferr SE,Lombard FC Tatabánya,2,5,A,NoR,NoR,NoR
+HUN,2000-10-01,15:00,Nagykanizsa FC,Debreceni VSC,1,3,A,NoR,NoR,NoR
+HUN,2000-10-01,19:00,Vasas Danubius Hotels,Pécsi MFC,2,0,H,NoR,NoR,NoR
+HUN,2000-10-02,19:00,Újpest FC,MTK-Hungária FC,1,4,A,NoR,NoR,NoR
+HUN,2000-10-04,15:00,Dunaferr SE,Kispest-Honvéd FC,5,3,H,NoR,NoR,NoR
+HUN,2000-10-08,,Nagykanizsa FC,MTK-Hungária FC,0,5,A,NoR,NoR,NoR
+HUN,2000-10-13,17:30,Debreceni VSC,Videoton FC Fehérvár,3,1,H,NoR,NoR,NoR
+HUN,2000-10-14,15:00,Haladás FC,Dunaferr SE,1,1,D,NoR,NoR,NoR
+HUN,2000-10-14,15:00,MATÁV Compaq-Sopron,Győri ETO FC,2,1,H,NoR,NoR,NoR
+HUN,2000-10-14,15:00,Lombard FC Tatabánya,Kispest-Honvéd FC,2,0,H,NoR,NoR,NoR
+HUN,2000-10-14,15:00,Pécsi MFC,Nagykanizsa FC,5,1,H,NoR,NoR,NoR
+HUN,2000-10-14,15:00,Zalahús-Zalaegerszegi TE FC,Újpest FC,0,2,A,NoR,NoR,NoR
+HUN,2000-10-14,17:00,MTK-Hungária FC,Vasas Danubius Hotels,1,2,A,NoR,NoR,NoR
+HUN,2000-10-16,19:00,Ferencvárosi TC,Nyírség-Spartacus FC,2,0,H,NoR,NoR,NoR
+HUN,2000-10-20,17:15,Kispest-Honvéd FC,Haladás FC,2,0,H,NoR,NoR,NoR
+HUN,2000-10-21,14:30,Lombard FC Tatabánya,Győri ETO FC,3,3,D,NoR,NoR,NoR
+HUN,2000-10-21,14:30,Nyírség-Spartacus FC,Dunaferr SE,2,5,A,NoR,NoR,NoR
+HUN,2000-10-21,14:30,Videoton FC Fehérvár,Pécsi MFC,3,2,H,NoR,NoR,NoR
+HUN,2000-10-21,14:30,Újpest FC,Nagykanizsa FC,4,2,H,NoR,NoR,NoR
+HUN,2000-10-21,14:30,Zalahús-Zalaegerszegi TE FC,MTK-Hungária FC,2,1,H,NoR,NoR,NoR
+HUN,2000-10-21,17:00,Ferencvárosi TC,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
+HUN,2000-10-23,19:00,Vasas Danubius Hotels,Debreceni VSC,3,1,H,NoR,NoR,NoR
+HUN,2000-10-27,17:15,Haladás FC,Nyírség-Spartacus FC,1,0,H,NoR,NoR,NoR
+HUN,2000-10-28,14:30,MATÁV Compaq-Sopron,Kispest-Honvéd FC,0,0,D,NoR,NoR,NoR
+HUN,2000-10-28,14:30,Nagykanizsa FC,Vasas Danubius Hotels,0,4,A,NoR,NoR,NoR
+HUN,2000-10-28,14:30,Pécsi MFC,Újpest FC,1,1,D,NoR,NoR,NoR
+HUN,2000-10-28,14:30,Debreceni VSC,Zalahús-Zalaegerszegi TE FC,4,1,H,NoR,NoR,NoR
+HUN,2000-10-28,14:35,Dunaferr SE,Győri ETO FC,2,1,H,NoR,NoR,NoR
+HUN,2000-10-29,13:30,Lombard FC Tatabánya,Ferencvárosi TC,1,0,H,NoR,NoR,NoR
+HUN,2000-10-29,17:00,MTK-Hungária FC,Videoton FC Fehérvár,2,3,A,NoR,NoR,NoR
+HUN,2000-11-03,17:15,Debreceni VSC,Vasas Danubius Hotels,1,2,A,NoR,NoR,NoR
+HUN,2000-11-04,13:00,Lombard FC Tatabánya,MATÁV Compaq-Sopron,2,2,D,NoR,NoR,NoR
+HUN,2000-11-04,17:00,Győri ETO FC,Kispest-Honvéd FC,3,2,H,NoR,NoR,NoR
+HUN,2000-11-04,17:00,Videoton FC Fehérvár,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,2000-11-10,17:30,Kispest-Honvéd FC,Lombard FC Tatabánya,3,1,H,NoR,NoR,NoR
+HUN,2000-11-11,17:00,Zalahús-Zalaegerszegi TE FC,Debreceni VSC,3,2,H,NoR,NoR,NoR
+HUN,2000-11-11,17:00,Vasas Danubius Hotels,Videoton FC Fehérvár,0,2,A,NoR,NoR,NoR
+HUN,2000-11-11,17:00,Ferencvárosi TC,Győri ETO FC,2,0,H,NoR,NoR,NoR
+HUN,2000-11-12,13:00,Dunaferr SE,Újpest FC,2,1,H,NoR,NoR,NoR
+HUN,2000-11-12,13:00,MATÁV Compaq-Sopron,MTK-Hungária FC,0,0,D,NoR,NoR,NoR
+HUN,2000-11-17,17:15,Újpest FC,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
+HUN,2000-11-18,15:00,Győri ETO FC,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
+HUN,2000-11-18,15:00,Videoton FC Fehérvár,Debreceni VSC,3,1,H,NoR,NoR,NoR
+HUN,2000-11-18,17:00,Zalahús-Zalaegerszegi TE FC,Dunaferr SE,0,1,A,NoR,NoR,NoR
+HUN,2000-11-18,17:00,MTK-Hungária FC,Kispest-Honvéd FC,1,1,D,NoR,NoR,NoR
+HUN,2000-11-19,13:00,Lombard FC Tatabánya,Ferencvárosi TC,0,5,A,NoR,NoR,NoR
+HUN,2000-11-21,17:00,Újpest FC,Zalahús-Zalaegerszegi TE FC,3,0,H,NoR,NoR,NoR
+HUN,2000-11-22,18:00,MTK-Hungária FC,Dunaferr SE,4,1,H,NoR,NoR,NoR
+HUN,2000-11-24,17:15,Kispest-Honvéd FC,Újpest FC,2,3,A,NoR,NoR,NoR
+HUN,2000-11-25,13:00,Debreceni VSC,Győri ETO FC,3,2,H,NoR,NoR,NoR
+HUN,2000-11-25,13:00,MATÁV Compaq-Sopron,Dunaferr SE,1,2,A,NoR,NoR,NoR
+HUN,2000-11-25,15:00,Videoton FC Fehérvár,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
+HUN,2000-11-25,17:00,Ferencvárosi TC,MTK-Hungária FC,0,0,D,NoR,NoR,NoR
+HUN,2000-11-27,19:00,Vasas Danubius Hotels,Lombard FC Tatabánya,2,0,H,NoR,NoR,NoR
+HUN,2000-11-29,13:00,Dunaferr SE,Kispest-Honvéd FC,0,3,A,NoR,NoR,NoR
+HUN,2000-11-29,17:00,Győri ETO FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
+HUN,2000-11-29,17:00,Zalahús-Zalaegerszegi TE FC,MATÁV Compaq-Sopron,1,1,D,NoR,NoR,NoR
+HUN,2000-11-30,13:00,Lombard FC Tatabánya,Debreceni VSC,3,2,H,NoR,NoR,NoR
+HUN,2000-11-30,17:00,MTK-Hungária FC,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
+HUN,2000-11-30,19:00,Újpest FC,Ferencvárosi TC,0,1,A,NoR,NoR,NoR
+HUN,2001-03-02,18:00,Debreceni VSC,MTK-Hungária FC,0,4,A,NoR,NoR,NoR
+HUN,2001-03-03,14:30,Győri ETO FC,Zalahús-Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
+HUN,2001-03-03,14:30,Kispest-Honvéd FC,MATÁV Compaq-Sopron,2,1,H,NoR,NoR,NoR
+HUN,2001-03-03,16:45,Ferencvárosi TC,Dunaferr SE,2,0,H,NoR,NoR,NoR
+HUN,2001-03-03,18:30,Vasas Danubius Hotels,Újpest FC,6,2,H,NoR,NoR,NoR
+HUN,2001-03-04,17:00,Videoton FC Fehérvár,Lombard FC Tatabánya,1,0,H,NoR,NoR,NoR
+HUN,2001-03-10,14:30,Lombard FC Tatabánya,Győri ETO FC,0,2,A,NoR,NoR,NoR
+HUN,2001-03-10,16:45,Újpest FC,Debreceni VSC,3,0,H,NoR,NoR,NoR
+HUN,2001-03-10,17:00,MTK-Hungária FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
+HUN,2001-03-10,17:00,Zalahús-Zalaegerszegi TE FC,Kispest-Honvéd FC,3,1,H,NoR,NoR,NoR
+HUN,2001-03-11,13:00,MATÁV Compaq-Sopron,Ferencvárosi TC,2,3,A,NoR,NoR,NoR
+HUN,2001-03-11,14:30,Dunaferr SE,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
+HUN,2001-03-16,18:00,Győri ETO FC,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
+HUN,2001-03-17,14:00,Vasas Danubius Hotels,MATÁV Compaq-Sopron,1,1,D,NoR,NoR,NoR
+HUN,2001-03-17,15:00,Lombard FC Tatabánya,Zalahús-Zalaegerszegi TE FC,1,3,A,NoR,NoR,NoR
+HUN,2001-03-17,16:45,Ferencvárosi TC,Kispest-Honvéd FC,1,2,A,NoR,NoR,NoR
+HUN,2001-03-17,18:45,Videoton FC Fehérvár,Újpest FC,4,0,H,NoR,NoR,NoR
+HUN,2001-03-18,18:00,Debreceni VSC,Dunaferr SE,2,0,H,NoR,NoR,NoR
+HUN,2001-03-30,18:00,Zalahús-Zalaegerszegi TE FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,2001-03-31,15:30,Kispest-Honvéd FC,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
+HUN,2001-03-31,16:00,Dunaferr SE,Videoton FC Fehérvár,1,0,H,NoR,NoR,NoR
+HUN,2001-03-31,16:00,MATÁV Compaq-Sopron,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-01,18:00,MTK-Hungária FC,Lombard FC Tatabánya,1,0,H,NoR,NoR,NoR
+HUN,2001-04-01,18:00,Újpest FC,Győri ETO FC,1,1,D,NoR,NoR,NoR
+HUN,2001-04-06,18:00,Győri ETO FC,Dunaferr SE,1,3,A,NoR,NoR,NoR
+HUN,2001-04-07,16:30,Debreceni VSC,Kispest-Honvéd FC,2,4,A,NoR,NoR,NoR
+HUN,2001-04-07,16:45,Vasas Danubius Hotels,Ferencvárosi TC,0,3,A,NoR,NoR,NoR
+HUN,2001-04-07,18:00,MTK-Hungária FC,Zalahús-Zalaegerszegi TE FC,0,1,A,NoR,NoR,NoR
+HUN,2001-04-07,19:00,Videoton FC Fehérvár,MATÁV Compaq-Sopron,1,2,A,NoR,NoR,NoR
+HUN,2001-04-08,13:00,Lombard FC Tatabánya,Újpest FC,0,2,A,NoR,NoR,NoR
+HUN,2001-04-13,18:00,Ferencvárosi TC,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-14,16:30,MATÁV Compaq-Sopron,Győri ETO FC,0,2,A,NoR,NoR,NoR
+HUN,2001-04-14,16:30,Kispest-Honvéd FC,Videoton FC Fehérvár,1,0,H,NoR,NoR,NoR
+HUN,2001-04-14,16:45,Újpest FC,MTK-Hungária FC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-14,19:00,Zalahús-Zalaegerszegi TE FC,Vasas Danubius Hotels,2,2,D,NoR,NoR,NoR
+HUN,2001-04-15,13:00,Dunaferr SE,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
+HUN,2001-04-18,17:00,MATÁV Compaq-Sopron,Lombard FC Tatabánya,2,0,H,NoR,NoR,NoR
+HUN,2001-04-18,17:00,Dunaferr SE,MTK-Hungária FC,1,2,A,NoR,NoR,NoR
+HUN,2001-04-18,17:00,Kispest-Honvéd FC,Győri ETO FC,0,0,D,NoR,NoR,NoR
+HUN,2001-04-18,18:00,Vasas Danubius Hotels,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-18,18:00,Zalahús-Zalaegerszegi TE FC,Újpest FC,1,1,D,NoR,NoR,NoR
+HUN,2001-04-18,19:00,Ferencvárosi TC,Videoton FC Fehérvár,5,0,H,NoR,NoR,NoR
+HUN,2001-04-21,16:45,Újpest FC,Dunaferr SE,3,2,H,NoR,NoR,NoR
+HUN,2001-04-21,17:00,Lombard FC Tatabánya,Kispest-Honvéd FC,0,1,A,NoR,NoR,NoR
+HUN,2001-04-21,19:00,Videoton FC Fehérvár,Vasas Danubius Hotels,2,3,A,NoR,NoR,NoR
+HUN,2001-04-21,19:00,MTK-Hungária FC,MATÁV Compaq-Sopron,0,0,D,NoR,NoR,NoR
+HUN,2001-04-21,19:00,Debreceni VSC,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-22,14:30,Győri ETO FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,2001-04-28,16:45,Ferencvárosi TC,Lombard FC Tatabánya,0,0,D,NoR,NoR,NoR
+HUN,2001-04-28,17:00,MATÁV Compaq-Sopron,Újpest FC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-28,17:00,Dunaferr SE,Zalahús-Zalaegerszegi TE FC,2,1,H,NoR,NoR,NoR
+HUN,2001-04-28,18:30,Vasas Danubius Hotels,Győri ETO FC,1,0,H,NoR,NoR,NoR
+HUN,2001-04-28,19:00,Debreceni VSC,Videoton FC Fehérvár,1,1,D,NoR,NoR,NoR
+HUN,2001-04-29,18:00,Kispest-Honvéd FC,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
+HUN,2001-05-04,18:00,Újpest FC,Kispest-Honvéd FC,0,1,A,NoR,NoR,NoR
+HUN,2001-05-05,16:45,Zalahús-Zalaegerszegi TE FC,Videoton FC Fehérvár,2,1,H,NoR,NoR,NoR
+HUN,2001-05-05,17:00,Dunaferr SE,MATÁV Compaq-Sopron,1,0,H,NoR,NoR,NoR
+HUN,2001-05-05,17:00,Lombard FC Tatabánya,Vasas Danubius Hotels,1,4,A,NoR,NoR,NoR
+HUN,2001-05-05,19:00,Győri ETO FC,Debreceni VSC,2,2,D,NoR,NoR,NoR
+HUN,2001-05-06,18:00,MTK-Hungária FC,Ferencvárosi TC,5,2,H,NoR,NoR,NoR
+HUN,2001-05-11,18:00,Videoton FC Fehérvár,Győri ETO FC,4,1,H,NoR,NoR,NoR
+HUN,2001-05-12,16:45,Ferencvárosi TC,Újpest FC,2,2,D,NoR,NoR,NoR
+HUN,2001-05-12,17:00,MATÁV Compaq-Sopron,Zalahús-Zalaegerszegi TE FC,0,0,D,NoR,NoR,NoR
+HUN,2001-05-12,17:00,Kispest-Honvéd FC,Dunaferr SE,3,4,A,NoR,NoR,NoR
+HUN,2001-05-12,19:00,Debreceni VSC,Lombard FC Tatabánya,2,1,H,NoR,NoR,NoR
+HUN,2001-05-13,18:00,Vasas Danubius Hotels,MTK-Hungária FC,2,2,D,NoR,NoR,NoR
+HUN,2001-05-18,18:00,MTK-Hungária FC,Debreceni VSC,0,1,A,NoR,NoR,NoR
+HUN,2001-05-19,16:45,Újpest FC,Vasas Danubius Hotels,1,1,D,NoR,NoR,NoR
+HUN,2001-05-19,17:00,MATÁV Compaq-Sopron,Kispest-Honvéd FC,2,1,H,NoR,NoR,NoR
+HUN,2001-05-19,17:00,Lombard FC Tatabánya,Videoton FC Fehérvár,1,3,A,NoR,NoR,NoR
+HUN,2001-05-19,19:00,Zalahús-Zalaegerszegi TE FC,Győri ETO FC,2,3,A,NoR,NoR,NoR
+HUN,2001-05-20,17:15,Dunaferr SE,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,2001-05-25,18:00,Vasas Danubius Hotels,Dunaferr SE,3,2,H,NoR,NoR,NoR
+HUN,2001-05-26,16:45,Videoton FC Fehérvár,MTK-Hungária FC,1,0,H,NoR,NoR,NoR
+HUN,2001-05-26,17:00,Debreceni VSC,Újpest FC,3,4,A,NoR,NoR,NoR
+HUN,2001-05-26,17:00,Kispest-Honvéd FC,Zalahús-Zalaegerszegi TE FC,1,1,D,NoR,NoR,NoR
+HUN,2001-05-26,19:00,Győri ETO FC,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
+HUN,2001-05-27,18:00,Ferencvárosi TC,MATÁV Compaq-Sopron,1,0,H,NoR,NoR,NoR
+HUN,2001-06-03,,Lombard FC Tatabánya,Dunaferr SE,2,5,A,NoR,NoR,NoR
+HUN,2001-06-08,18:15,Újpest FC,Videoton FC Fehérvár,5,3,H,NoR,NoR,NoR
+HUN,2001-06-09,16:15,MATÁV Compaq-Sopron,Vasas Danubius Hotels,1,0,H,NoR,NoR,NoR
+HUN,2001-06-09,17:00,Dunaferr SE,Debreceni VSC,2,1,H,NoR,NoR,NoR
+HUN,2001-06-09,19:00,MTK-Hungária FC,Győri ETO FC,1,2,A,NoR,NoR,NoR
+HUN,2001-06-09,19:00,Zalahús-Zalaegerszegi TE FC,Lombard FC Tatabánya,3,2,H,NoR,NoR,NoR
+HUN,2001-06-10,18:15,Kispest-Honvéd FC,Ferencvárosi TC,0,0,D,NoR,NoR,NoR
+HUN,2001-06-13,,Lombard FC Tatabánya,MTK-Hungária FC,1,5,A,NoR,NoR,NoR
+HUN,2001-06-15,18:15,Vasas Danubius Hotels,Kispest-Honvéd FC,3,1,H,NoR,NoR,NoR
+HUN,2001-06-16,16:45,Győri ETO FC,Újpest FC,2,1,H,NoR,NoR,NoR
+HUN,2001-06-16,16:45,Ferencvárosi TC,Zalahús-Zalaegerszegi TE FC,3,2,H,NoR,NoR,NoR
+HUN,2001-06-16,16:45,Debreceni VSC,MATÁV Compaq-Sopron,3,1,H,NoR,NoR,NoR
+HUN,2001-06-16,16:45,Videoton FC Fehérvár,Dunaferr SE,1,2,A,NoR,NoR,NoR
+HUN,2001-06-20,17:00,Ferencvárosi TC,Vasas Danubius Hotels,2,0,H,NoR,NoR,NoR
+HUN,2001-06-20,17:00,Dunaferr SE,Győri ETO FC,4,1,H,NoR,NoR,NoR
+HUN,2001-06-20,17:00,Újpest FC,Lombard FC Tatabánya,1,1,D,NoR,NoR,NoR
+HUN,2001-06-20,17:00,Zalahús-Zalaegerszegi TE FC,MTK-Hungária FC,2,1,H,NoR,NoR,NoR
+HUN,2001-06-20,17:00,Kispest-Honvéd FC,Debreceni VSC,0,0,D,NoR,NoR,NoR
+HUN,2001-06-20,17:00,MATÁV Compaq-Sopron,Videoton FC Fehérvár,3,2,H,NoR,NoR,NoR
+HUN,2001-06-23,17:15,Vasas Danubius Hotels,Zalahús-Zalaegerszegi TE FC,6,3,H,NoR,NoR,NoR
+HUN,2001-06-23,17:15,MTK-Hungária FC,Újpest FC,1,2,A,NoR,NoR,NoR
+HUN,2001-06-23,17:15,Videoton FC Fehérvár,Kispest-Honvéd FC,4,1,H,NoR,NoR,NoR
+HUN,2001-06-23,17:15,Debreceni VSC,Ferencvárosi TC,0,2,A,NoR,NoR,NoR
+HUN,2001-06-23,17:15,Győri ETO FC,MATÁV Compaq-Sopron,4,2,H,NoR,NoR,NoR

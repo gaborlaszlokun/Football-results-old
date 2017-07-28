@@ -1,136 +1,136 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRO,01/04/2007,14:45,VB/Sumba,AB Argir,1,0,H,NaN,NaN,NaN
-FRO,01/04/2007,15:00,B36 Tórshavn,KÍ Klaksvík,1,0,H,NaN,NaN,NaN
-FRO,01/04/2007,15:00,B71 Sandoy,NSÍ Runavík,0,1,A,NaN,NaN,NaN
-FRO,01/04/2007,15:00,GÍ Gøta,EB/Streymur,0,2,A,NaN,NaN,NaN
-FRO,01/04/2007,17:00,Skála ÍF,HB Tórshavn,2,5,A,NaN,NaN,NaN
-FRO,05/04/2007,15:00,AB Argir,GÍ Gøta,4,4,D,NaN,NaN,NaN
-FRO,05/04/2007,15:00,EB/Streymur,Skála ÍF,3,0,H,NaN,NaN,NaN
-FRO,05/04/2007,15:00,NSÍ Runavík,B36 Tórshavn,3,0,H,NaN,NaN,NaN
-FRO,05/04/2007,16:30,KÍ Klaksvík,VB/Sumba,5,0,H,NaN,NaN,NaN
-FRO,05/04/2007,17:00,HB Tórshavn,B71 Sandoy,0,3,A,NaN,NaN,NaN
-FRO,09/04/2007,14:45,VB/Sumba,B36 Tórshavn,0,4,A,NaN,NaN,NaN
-FRO,09/04/2007,15:00,HB Tórshavn,GÍ Gøta,2,3,A,NaN,NaN,NaN
-FRO,09/04/2007,15:00,EB/Streymur,AB Argir,3,0,H,NaN,NaN,NaN
-FRO,09/04/2007,15:00,NSÍ Runavík,Skála ÍF,3,1,H,NaN,NaN,NaN
-FRO,09/04/2007,15:00,KÍ Klaksvík,B71 Sandoy,3,3,D,NaN,NaN,NaN
-FRO,15/04/2007,14:45,VB/Sumba,GÍ Gøta,0,1,A,NaN,NaN,NaN
-FRO,15/04/2007,15:00,B71 Sandoy,EB/Streymur,2,3,A,NaN,NaN,NaN
-FRO,15/04/2007,15:00,Skála ÍF,AB Argir,0,2,A,NaN,NaN,NaN
-FRO,15/04/2007,15:00,KÍ Klaksvík,NSÍ Runavík,2,0,H,NaN,NaN,NaN
-FRO,15/04/2007,15:00,B36 Tórshavn,HB Tórshavn,1,1,D,NaN,NaN,NaN
-FRO,22/04/2007,15:00,EB/Streymur,B36 Tórshavn,0,1,A,NaN,NaN,NaN
-FRO,22/04/2007,15:00,HB Tórshavn,KÍ Klaksvík,3,1,H,NaN,NaN,NaN
-FRO,22/04/2007,15:00,NSÍ Runavík,VB/Sumba,5,2,H,NaN,NaN,NaN
-FRO,22/04/2007,15:00,GÍ Gøta,Skála ÍF,0,3,A,NaN,NaN,NaN
-FRO,22/04/2007,17:00,AB Argir,B71 Sandoy,1,2,A,NaN,NaN,NaN
-FRO,28/04/2007,15:00,B36 Tórshavn,AB Argir,4,1,H,NaN,NaN,NaN
-FRO,29/04/2007,14:45,VB/Sumba,Skála ÍF,0,1,A,NaN,NaN,NaN
-FRO,29/04/2007,15:00,B71 Sandoy,GÍ Gøta,1,1,D,NaN,NaN,NaN
-FRO,29/04/2007,15:00,HB Tórshavn,NSÍ Runavík,2,0,H,NaN,NaN,NaN
-FRO,29/04/2007,15:00,KÍ Klaksvík,EB/Streymur,1,2,A,NaN,NaN,NaN
-FRO,02/05/2007,17:00,HB Tórshavn,VB/Sumba,3,1,H,NaN,NaN,NaN
-FRO,02/05/2007,17:30,GÍ Gøta,B36 Tórshavn,0,3,A,NaN,NaN,NaN
-FRO,02/05/2007,18:00,Skála ÍF,B71 Sandoy,2,0,H,NaN,NaN,NaN
-FRO,02/05/2007,18:00,AB Argir,KÍ Klaksvík,1,3,A,NaN,NaN,NaN
-FRO,02/05/2007,19:00,EB/Streymur,NSÍ Runavík,1,0,H,NaN,NaN,NaN
-FRO,06/05/2007,15:00,Skála ÍF,KÍ Klaksvík,1,0,H,NaN,NaN,NaN
-FRO,06/05/2007,15:00,GÍ Gøta,NSÍ Runavík,1,2,A,NaN,NaN,NaN
-FRO,06/05/2007,15:00,AB Argir,HB Tórshavn,2,2,D,NaN,NaN,NaN
-FRO,06/05/2007,15:00,EB/Streymur,VB/Sumba,4,2,H,NaN,NaN,NaN
-FRO,06/05/2007,15:30,B71 Sandoy,B36 Tórshavn,1,2,A,NaN,NaN,NaN
-FRO,13/05/2007,14:45,VB/Sumba,B71 Sandoy,1,4,A,NaN,NaN,NaN
-FRO,13/05/2007,15:00,KÍ Klaksvík,GÍ Gøta,2,3,A,NaN,NaN,NaN
-FRO,13/05/2007,15:00,B36 Tórshavn,Skála ÍF,0,0,D,NaN,NaN,NaN
-FRO,13/05/2007,17:00,NSÍ Runavík,AB Argir,2,1,H,NaN,NaN,NaN
-FRO,14/05/2007,18:00,HB Tórshavn,EB/Streymur,3,0,H,NaN,NaN,NaN
-FRO,20/05/2007,15:00,B36 Tórshavn,VB/Sumba,2,0,H,NaN,NaN,NaN
-FRO,20/05/2007,15:00,B71 Sandoy,KÍ Klaksvík,3,3,D,NaN,NaN,NaN
-FRO,20/05/2007,15:00,Skála ÍF,NSÍ Runavík,0,1,A,NaN,NaN,NaN
-FRO,20/05/2007,15:00,GÍ Gøta,HB Tórshavn,3,2,H,NaN,NaN,NaN
-FRO,20/05/2007,15:00,AB Argir,EB/Streymur,1,2,A,NaN,NaN,NaN
-FRO,26/05/2007,16:00,KÍ Klaksvík,B36 Tórshavn,1,1,D,NaN,NaN,NaN
-FRO,28/05/2007,15:00,EB/Streymur,GÍ Gøta,1,1,D,NaN,NaN,NaN
-FRO,28/05/2007,15:00,NSÍ Runavík,B71 Sandoy,3,0,H,NaN,NaN,NaN
-FRO,28/05/2007,16:00,AB Argir,VB/Sumba,2,2,D,NaN,NaN,NaN
-FRO,28/05/2007,18:00,HB Tórshavn,Skála ÍF,5,2,H,NaN,NaN,NaN
-FRO,10/06/2007,14:30,VB/Sumba,KÍ Klaksvík,1,0,H,NaN,NaN,NaN
-FRO,10/06/2007,15:00,B71 Sandoy,HB Tórshavn,2,1,H,NaN,NaN,NaN
-FRO,10/06/2007,15:00,Skála ÍF,EB/Streymur,2,1,H,NaN,NaN,NaN
-FRO,10/06/2007,15:00,GÍ Gøta,AB Argir,1,1,D,NaN,NaN,NaN
-FRO,10/06/2007,15:00,B36 Tórshavn,NSÍ Runavík,1,1,D,NaN,NaN,NaN
-FRO,16/06/2007,18:30,NSÍ Runavík,HB Tórshavn,1,0,H,NaN,NaN,NaN
-FRO,16/06/2007,19:00,EB/Streymur,KÍ Klaksvík,2,1,H,NaN,NaN,NaN
-FRO,17/06/2007,15:00,Skála ÍF,VB/Sumba,1,1,D,NaN,NaN,NaN
-FRO,17/06/2007,15:00,GÍ Gøta,B71 Sandoy,3,2,H,NaN,NaN,NaN
-FRO,17/06/2007,15:00,AB Argir,B36 Tórshavn,2,1,H,NaN,NaN,NaN
-FRO,20/06/2007,18:00,KÍ Klaksvík,HB Tórshavn,0,2,A,NaN,NaN,NaN
-FRO,23/06/2007,13:00,VB/Sumba,NSÍ Runavík,1,2,A,NaN,NaN,NaN
-FRO,24/06/2007,15:00,B36 Tórshavn,EB/Streymur,1,0,H,NaN,NaN,NaN
-FRO,24/06/2007,15:00,B71 Sandoy,AB Argir,1,0,H,NaN,NaN,NaN
-FRO,24/06/2007,15:00,Skála ÍF,GÍ Gøta,0,1,A,NaN,NaN,NaN
-FRO,01/07/2007,14:30,VB/Sumba,HB Tórshavn,0,0,D,0,0,D
-FRO,01/07/2007,15:00,B71 Sandoy,Skála ÍF,0,2,A,0,0,D
-FRO,01/07/2007,15:00,NSÍ Runavík,EB/Streymur,1,1,D,0,1,A
-FRO,01/07/2007,15:00,B36 Tórshavn,GÍ Gøta,4,0,H,2,0,H
-FRO,04/07/2007,18:00,KÍ Klaksvík,AB Argir,1,0,H,1,0,H
-FRO,27/06/2007,18:00,HB Tórshavn,B36 Tórshavn,0,2,A,0,1,A
-FRO,07/07/2007,16:00,GÍ Gøta,VB/Sumba,2,2,D,2,1,H
-FRO,08/07/2007,15:00,AB Argir,Skála ÍF,1,2,A,1,1,D
-FRO,08/07/2007,15:00,EB/Streymur,B71 Sandoy,2,4,A,0,2,A
-FRO,08/07/2007,15:00,NSÍ Runavík,KÍ Klaksvík,3,1,H,1,1,D
-FRO,04/08/2007,15:00,KÍ Klaksvík,Skála ÍF,1,0,H,1,0,H
-FRO,05/08/2007,15:00,VB/Sumba,EB/Streymur,1,2,A,1,0,H
-FRO,05/08/2007,15:00,NSÍ Runavík,GÍ Gøta,3,1,H,2,0,H
-FRO,07/08/2007,19:00,HB Tórshavn,AB Argir,4,0,H,3,0,H
-FRO,08/08/2007,19:00,B36 Tórshavn,B71 Sandoy,3,0,H,1,0,H
-FRO,12/08/2007,15:00,AB Argir,NSÍ Runavík,0,2,A,0,0,D
-FRO,12/08/2007,15:00,EB/Streymur,HB Tórshavn,1,2,A,1,2,A
-FRO,12/08/2007,15:00,B71 Sandoy,VB/Sumba,0,0,D,0,0,D
-FRO,12/08/2007,15:00,Skála ÍF,B36 Tórshavn,0,2,A,0,1,A
-FRO,12/08/2007,15:00,GÍ Gøta,KÍ Klaksvík,0,1,A,0,1,A
-FRO,19/08/2007,14:00,EB/Streymur,AB Argir,2,2,D,1,2,A
-FRO,19/08/2007,14:00,NSÍ Runavík,Skála ÍF,1,2,A,0,1,A
-FRO,19/08/2007,14:00,KÍ Klaksvík,B71 Sandoy,3,1,H,1,1,D
-FRO,19/08/2007,14:00,B36 Tórshavn,VB/Sumba,2,0,H,0,0,D
-FRO,20/08/2007,18:00,HB Tórshavn,GÍ Gøta,4,1,H,0,1,A
-FRO,26/08/2007,14:45,VB/Sumba,AB Argir,1,2,A,1,0,H
-FRO,26/08/2007,15:00,B71 Sandoy,NSÍ Runavík,1,3,A,0,1,A
-FRO,26/08/2007,15:00,Skála ÍF,HB Tórshavn,1,3,A,0,1,A
-FRO,26/08/2007,15:00,GÍ Gøta,EB/Streymur,1,4,A,1,1,D
-FRO,26/08/2007,15:00,B36 Tórshavn,KÍ Klaksvík,2,2,D,1,0,H
-FRO,02/09/2007,15:00,AB Argir,GÍ Gøta,1,3,A,0,1,A
-FRO,02/09/2007,15:00,EB/Streymur,Skála ÍF,2,0,H,1,0,H
-FRO,02/09/2007,15:00,HB Tórshavn,B71 Sandoy,3,1,H,1,0,H
-FRO,02/09/2007,15:00,NSÍ Runavík,B36 Tórshavn,1,1,D,1,1,D
-FRO,02/09/2007,15:00,KÍ Klaksvík,VB/Sumba,6,3,H,4,2,H
-FRO,16/09/2007,15:00,AB Argir,KÍ Klaksvík,3,1,H,1,1,D
-FRO,16/09/2007,15:00,EB/Streymur,NSÍ Runavík,0,1,A,0,0,D
-FRO,16/09/2007,15:00,HB Tórshavn,VB/Sumba,6,2,H,3,1,H
-FRO,16/09/2007,15:00,Skála ÍF,B71 Sandoy,0,0,D,0,0,D
-FRO,16/09/2007,15:00,GÍ Gøta,B36 Tórshavn,0,1,A,0,0,D
-FRO,23/09/2007,14:45,VB/Sumba,B71 Sandoy,2,3,A,1,2,A
-FRO,23/09/2007,15:00,HB Tórshavn,EB/Streymur,0,1,A,0,0,D
-FRO,23/09/2007,15:00,NSÍ Runavík,AB Argir,2,1,H,1,0,H
-FRO,23/09/2007,15:00,KÍ Klaksvík,GÍ Gøta,0,4,A,0,1,A
-FRO,24/09/2007,19:00,B36 Tórshavn,Skála ÍF,1,1,D,0,0,D
-FRO,30/09/2007,14:45,VB/Sumba,Skála ÍF,0,1,A,0,1,A
-FRO,30/09/2007,15:00,B71 Sandoy,GÍ Gøta,2,3,A,1,1,D
-FRO,30/09/2007,15:00,NSÍ Runavík,HB Tórshavn,2,1,H,1,0,H
-FRO,30/09/2007,15:00,KÍ Klaksvík,EB/Streymur,2,5,A,1,2,A
-FRO,30/09/2007,15:00,B36 Tórshavn,AB Argir,4,1,H,2,0,H
-FRO,07/10/2007,15:00,B71 Sandoy,B36 Tórshavn,1,0,H,1,0,H
-FRO,07/10/2007,15:00,Skála ÍF,KÍ Klaksvík,0,1,A,0,0,D
-FRO,07/10/2007,15:00,GÍ Gøta,NSÍ Runavík,0,4,A,0,3,A
-FRO,07/10/2007,15:00,AB Argir,HB Tórshavn,1,2,A,1,1,D
-FRO,07/10/2007,15:00,EB/Streymur,VB/Sumba,6,1,H,3,0,H
-FRO,21/10/2007,15:00,AB Argir,B71 Sandoy,0,1,A,0,0,D
-FRO,21/10/2007,15:00,EB/Streymur,B36 Tórshavn,4,2,H,2,2,D
-FRO,21/10/2007,15:00,HB Tórshavn,KÍ Klaksvík,1,1,D,0,0,D
-FRO,21/10/2007,15:00,NSÍ Runavík,VB/Sumba,3,1,H,2,1,H
-FRO,21/10/2007,15:00,GÍ Gøta,Skála ÍF,5,0,H,3,0,H
-FRO,27/10/2007,14:00,VB/Sumba,GÍ Gøta,2,4,A,2,0,H
-FRO,27/10/2007,14:00,B71 Sandoy,EB/Streymur,1,4,A,0,2,A
-FRO,27/10/2007,14:00,Skála ÍF,AB Argir,2,0,H,2,0,H
-FRO,27/10/2007,14:00,KÍ Klaksvík,NSÍ Runavík,2,2,D,1,1,D
-FRO,27/10/2007,14:00,B36 Tórshavn,HB Tórshavn,0,2,A,0,1,A
+FRO,2007-04-01,14:45,VB/Sumba,AB Argir,1,0,H,,,
+FRO,2007-04-01,15:00,B36 Tórshavn,KÍ Klaksvík,1,0,H,,,
+FRO,2007-04-01,15:00,B71 Sandoy,NSÍ Runavík,0,1,A,,,
+FRO,2007-04-01,15:00,GÍ Gøta,EB/Streymur,0,2,A,,,
+FRO,2007-04-01,17:00,Skála ÍF,HB Tórshavn,2,5,A,,,
+FRO,2007-04-05,15:00,AB Argir,GÍ Gøta,4,4,D,,,
+FRO,2007-04-05,15:00,EB/Streymur,Skála ÍF,3,0,H,,,
+FRO,2007-04-05,15:00,NSÍ Runavík,B36 Tórshavn,3,0,H,,,
+FRO,2007-04-05,16:30,KÍ Klaksvík,VB/Sumba,5,0,H,,,
+FRO,2007-04-05,17:00,HB Tórshavn,B71 Sandoy,0,3,A,,,
+FRO,2007-04-09,14:45,VB/Sumba,B36 Tórshavn,0,4,A,,,
+FRO,2007-04-09,15:00,HB Tórshavn,GÍ Gøta,2,3,A,,,
+FRO,2007-04-09,15:00,EB/Streymur,AB Argir,3,0,H,,,
+FRO,2007-04-09,15:00,NSÍ Runavík,Skála ÍF,3,1,H,,,
+FRO,2007-04-09,15:00,KÍ Klaksvík,B71 Sandoy,3,3,D,,,
+FRO,2007-04-15,14:45,VB/Sumba,GÍ Gøta,0,1,A,,,
+FRO,2007-04-15,15:00,B71 Sandoy,EB/Streymur,2,3,A,,,
+FRO,2007-04-15,15:00,Skála ÍF,AB Argir,0,2,A,,,
+FRO,2007-04-15,15:00,KÍ Klaksvík,NSÍ Runavík,2,0,H,,,
+FRO,2007-04-15,15:00,B36 Tórshavn,HB Tórshavn,1,1,D,,,
+FRO,2007-04-22,15:00,EB/Streymur,B36 Tórshavn,0,1,A,,,
+FRO,2007-04-22,15:00,HB Tórshavn,KÍ Klaksvík,3,1,H,,,
+FRO,2007-04-22,15:00,NSÍ Runavík,VB/Sumba,5,2,H,,,
+FRO,2007-04-22,15:00,GÍ Gøta,Skála ÍF,0,3,A,,,
+FRO,2007-04-22,17:00,AB Argir,B71 Sandoy,1,2,A,,,
+FRO,2007-04-28,15:00,B36 Tórshavn,AB Argir,4,1,H,,,
+FRO,2007-04-29,14:45,VB/Sumba,Skála ÍF,0,1,A,,,
+FRO,2007-04-29,15:00,B71 Sandoy,GÍ Gøta,1,1,D,,,
+FRO,2007-04-29,15:00,HB Tórshavn,NSÍ Runavík,2,0,H,,,
+FRO,2007-04-29,15:00,KÍ Klaksvík,EB/Streymur,1,2,A,,,
+FRO,2007-05-02,17:00,HB Tórshavn,VB/Sumba,3,1,H,,,
+FRO,2007-05-02,17:30,GÍ Gøta,B36 Tórshavn,0,3,A,,,
+FRO,2007-05-02,18:00,Skála ÍF,B71 Sandoy,2,0,H,,,
+FRO,2007-05-02,18:00,AB Argir,KÍ Klaksvík,1,3,A,,,
+FRO,2007-05-02,19:00,EB/Streymur,NSÍ Runavík,1,0,H,,,
+FRO,2007-05-06,15:00,Skála ÍF,KÍ Klaksvík,1,0,H,,,
+FRO,2007-05-06,15:00,GÍ Gøta,NSÍ Runavík,1,2,A,,,
+FRO,2007-05-06,15:00,AB Argir,HB Tórshavn,2,2,D,,,
+FRO,2007-05-06,15:00,EB/Streymur,VB/Sumba,4,2,H,,,
+FRO,2007-05-06,15:30,B71 Sandoy,B36 Tórshavn,1,2,A,,,
+FRO,2007-05-13,14:45,VB/Sumba,B71 Sandoy,1,4,A,,,
+FRO,2007-05-13,15:00,KÍ Klaksvík,GÍ Gøta,2,3,A,,,
+FRO,2007-05-13,15:00,B36 Tórshavn,Skála ÍF,0,0,D,,,
+FRO,2007-05-13,17:00,NSÍ Runavík,AB Argir,2,1,H,,,
+FRO,2007-05-14,18:00,HB Tórshavn,EB/Streymur,3,0,H,,,
+FRO,2007-05-20,15:00,B36 Tórshavn,VB/Sumba,2,0,H,,,
+FRO,2007-05-20,15:00,B71 Sandoy,KÍ Klaksvík,3,3,D,,,
+FRO,2007-05-20,15:00,Skála ÍF,NSÍ Runavík,0,1,A,,,
+FRO,2007-05-20,15:00,GÍ Gøta,HB Tórshavn,3,2,H,,,
+FRO,2007-05-20,15:00,AB Argir,EB/Streymur,1,2,A,,,
+FRO,2007-05-26,16:00,KÍ Klaksvík,B36 Tórshavn,1,1,D,,,
+FRO,2007-05-28,15:00,EB/Streymur,GÍ Gøta,1,1,D,,,
+FRO,2007-05-28,15:00,NSÍ Runavík,B71 Sandoy,3,0,H,,,
+FRO,2007-05-28,16:00,AB Argir,VB/Sumba,2,2,D,,,
+FRO,2007-05-28,18:00,HB Tórshavn,Skála ÍF,5,2,H,,,
+FRO,2007-06-10,14:30,VB/Sumba,KÍ Klaksvík,1,0,H,,,
+FRO,2007-06-10,15:00,B71 Sandoy,HB Tórshavn,2,1,H,,,
+FRO,2007-06-10,15:00,Skála ÍF,EB/Streymur,2,1,H,,,
+FRO,2007-06-10,15:00,GÍ Gøta,AB Argir,1,1,D,,,
+FRO,2007-06-10,15:00,B36 Tórshavn,NSÍ Runavík,1,1,D,,,
+FRO,2007-06-16,18:30,NSÍ Runavík,HB Tórshavn,1,0,H,,,
+FRO,2007-06-16,19:00,EB/Streymur,KÍ Klaksvík,2,1,H,,,
+FRO,2007-06-17,15:00,Skála ÍF,VB/Sumba,1,1,D,,,
+FRO,2007-06-17,15:00,GÍ Gøta,B71 Sandoy,3,2,H,,,
+FRO,2007-06-17,15:00,AB Argir,B36 Tórshavn,2,1,H,,,
+FRO,2007-06-20,18:00,KÍ Klaksvík,HB Tórshavn,0,2,A,,,
+FRO,2007-06-23,13:00,VB/Sumba,NSÍ Runavík,1,2,A,,,
+FRO,2007-06-24,15:00,B36 Tórshavn,EB/Streymur,1,0,H,,,
+FRO,2007-06-24,15:00,B71 Sandoy,AB Argir,1,0,H,,,
+FRO,2007-06-24,15:00,Skála ÍF,GÍ Gøta,0,1,A,,,
+FRO,2007-06-27,18:00,HB Tórshavn,B36 Tórshavn,0,2,A,0.0,1.0,A
+FRO,2007-07-01,14:30,VB/Sumba,HB Tórshavn,0,0,D,0.0,0.0,D
+FRO,2007-07-01,15:00,B71 Sandoy,Skála ÍF,0,2,A,0.0,0.0,D
+FRO,2007-07-01,15:00,NSÍ Runavík,EB/Streymur,1,1,D,0.0,1.0,A
+FRO,2007-07-01,15:00,B36 Tórshavn,GÍ Gøta,4,0,H,2.0,0.0,H
+FRO,2007-07-04,18:00,KÍ Klaksvík,AB Argir,1,0,H,1.0,0.0,H
+FRO,2007-07-07,16:00,GÍ Gøta,VB/Sumba,2,2,D,2.0,1.0,H
+FRO,2007-07-08,15:00,AB Argir,Skála ÍF,1,2,A,1.0,1.0,D
+FRO,2007-07-08,15:00,EB/Streymur,B71 Sandoy,2,4,A,0.0,2.0,A
+FRO,2007-07-08,15:00,NSÍ Runavík,KÍ Klaksvík,3,1,H,1.0,1.0,D
+FRO,2007-08-04,15:00,KÍ Klaksvík,Skála ÍF,1,0,H,1.0,0.0,H
+FRO,2007-08-05,15:00,VB/Sumba,EB/Streymur,1,2,A,1.0,0.0,H
+FRO,2007-08-05,15:00,NSÍ Runavík,GÍ Gøta,3,1,H,2.0,0.0,H
+FRO,2007-08-07,19:00,HB Tórshavn,AB Argir,4,0,H,3.0,0.0,H
+FRO,2007-08-08,19:00,B36 Tórshavn,B71 Sandoy,3,0,H,1.0,0.0,H
+FRO,2007-08-12,15:00,AB Argir,NSÍ Runavík,0,2,A,0.0,0.0,D
+FRO,2007-08-12,15:00,EB/Streymur,HB Tórshavn,1,2,A,1.0,2.0,A
+FRO,2007-08-12,15:00,B71 Sandoy,VB/Sumba,0,0,D,0.0,0.0,D
+FRO,2007-08-12,15:00,Skála ÍF,B36 Tórshavn,0,2,A,0.0,1.0,A
+FRO,2007-08-12,15:00,GÍ Gøta,KÍ Klaksvík,0,1,A,0.0,1.0,A
+FRO,2007-08-19,14:00,EB/Streymur,AB Argir,2,2,D,1.0,2.0,A
+FRO,2007-08-19,14:00,NSÍ Runavík,Skála ÍF,1,2,A,0.0,1.0,A
+FRO,2007-08-19,14:00,KÍ Klaksvík,B71 Sandoy,3,1,H,1.0,1.0,D
+FRO,2007-08-19,14:00,B36 Tórshavn,VB/Sumba,2,0,H,0.0,0.0,D
+FRO,2007-08-20,18:00,HB Tórshavn,GÍ Gøta,4,1,H,0.0,1.0,A
+FRO,2007-08-26,14:45,VB/Sumba,AB Argir,1,2,A,1.0,0.0,H
+FRO,2007-08-26,15:00,B71 Sandoy,NSÍ Runavík,1,3,A,0.0,1.0,A
+FRO,2007-08-26,15:00,Skála ÍF,HB Tórshavn,1,3,A,0.0,1.0,A
+FRO,2007-08-26,15:00,GÍ Gøta,EB/Streymur,1,4,A,1.0,1.0,D
+FRO,2007-08-26,15:00,B36 Tórshavn,KÍ Klaksvík,2,2,D,1.0,0.0,H
+FRO,2007-09-02,15:00,AB Argir,GÍ Gøta,1,3,A,0.0,1.0,A
+FRO,2007-09-02,15:00,EB/Streymur,Skála ÍF,2,0,H,1.0,0.0,H
+FRO,2007-09-02,15:00,HB Tórshavn,B71 Sandoy,3,1,H,1.0,0.0,H
+FRO,2007-09-02,15:00,NSÍ Runavík,B36 Tórshavn,1,1,D,1.0,1.0,D
+FRO,2007-09-02,15:00,KÍ Klaksvík,VB/Sumba,6,3,H,4.0,2.0,H
+FRO,2007-09-16,15:00,AB Argir,KÍ Klaksvík,3,1,H,1.0,1.0,D
+FRO,2007-09-16,15:00,EB/Streymur,NSÍ Runavík,0,1,A,0.0,0.0,D
+FRO,2007-09-16,15:00,HB Tórshavn,VB/Sumba,6,2,H,3.0,1.0,H
+FRO,2007-09-16,15:00,Skála ÍF,B71 Sandoy,0,0,D,0.0,0.0,D
+FRO,2007-09-16,15:00,GÍ Gøta,B36 Tórshavn,0,1,A,0.0,0.0,D
+FRO,2007-09-23,14:45,VB/Sumba,B71 Sandoy,2,3,A,1.0,2.0,A
+FRO,2007-09-23,15:00,HB Tórshavn,EB/Streymur,0,1,A,0.0,0.0,D
+FRO,2007-09-23,15:00,NSÍ Runavík,AB Argir,2,1,H,1.0,0.0,H
+FRO,2007-09-23,15:00,KÍ Klaksvík,GÍ Gøta,0,4,A,0.0,1.0,A
+FRO,2007-09-24,19:00,B36 Tórshavn,Skála ÍF,1,1,D,0.0,0.0,D
+FRO,2007-09-30,14:45,VB/Sumba,Skála ÍF,0,1,A,0.0,1.0,A
+FRO,2007-09-30,15:00,B71 Sandoy,GÍ Gøta,2,3,A,1.0,1.0,D
+FRO,2007-09-30,15:00,NSÍ Runavík,HB Tórshavn,2,1,H,1.0,0.0,H
+FRO,2007-09-30,15:00,KÍ Klaksvík,EB/Streymur,2,5,A,1.0,2.0,A
+FRO,2007-09-30,15:00,B36 Tórshavn,AB Argir,4,1,H,2.0,0.0,H
+FRO,2007-10-07,15:00,B71 Sandoy,B36 Tórshavn,1,0,H,1.0,0.0,H
+FRO,2007-10-07,15:00,Skála ÍF,KÍ Klaksvík,0,1,A,0.0,0.0,D
+FRO,2007-10-07,15:00,GÍ Gøta,NSÍ Runavík,0,4,A,0.0,3.0,A
+FRO,2007-10-07,15:00,AB Argir,HB Tórshavn,1,2,A,1.0,1.0,D
+FRO,2007-10-07,15:00,EB/Streymur,VB/Sumba,6,1,H,3.0,0.0,H
+FRO,2007-10-21,15:00,AB Argir,B71 Sandoy,0,1,A,0.0,0.0,D
+FRO,2007-10-21,15:00,EB/Streymur,B36 Tórshavn,4,2,H,2.0,2.0,D
+FRO,2007-10-21,15:00,HB Tórshavn,KÍ Klaksvík,1,1,D,0.0,0.0,D
+FRO,2007-10-21,15:00,NSÍ Runavík,VB/Sumba,3,1,H,2.0,1.0,H
+FRO,2007-10-21,15:00,GÍ Gøta,Skála ÍF,5,0,H,3.0,0.0,H
+FRO,2007-10-27,14:00,VB/Sumba,GÍ Gøta,2,4,A,2.0,0.0,H
+FRO,2007-10-27,14:00,B71 Sandoy,EB/Streymur,1,4,A,0.0,2.0,A
+FRO,2007-10-27,14:00,Skála ÍF,AB Argir,2,0,H,2.0,0.0,H
+FRO,2007-10-27,14:00,KÍ Klaksvík,NSÍ Runavík,2,2,D,1.0,1.0,D
+FRO,2007-10-27,14:00,B36 Tórshavn,HB Tórshavn,0,2,A,0.0,1.0,A

@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2014-06-07,17:30,Real Garcilaso,León de Huánuco,3,1,H,3.0,0.0,H
+PER,2014-06-07,21:45,Universidad San Martín,Universidad Cesar Vallejo,1,1,D,0.0,0.0,D
+PER,2014-06-08,00:00,Juan Aurich,CD San Simón,2,1,H,1.0,1.0,D
+PER,2014-06-08,02:10,FBC Melgar,Cienciano,0,0,D,0.0,0.0,D
+PER,2014-06-08,17:00,CD Unión Comercio,Los Caimanes,4,0,H,,,
+PER,2014-06-08,19:15,Inti Gas,Alianza Lima,1,1,D,,,
+PER,2014-06-08,22:00,Universitario de Deportes,Sport Huancayo,3,0,H,,,
+PER,2014-06-09,22:00,Universidad Técnica,Sporting Cristal,1,1,D,,,
+PER,2014-06-13,17:15,Los Caimanes,Universidad Técnica,0,0,D,,,
+PER,2014-06-13,19:30,CD San Simón,CD Unión Comercio,0,1,A,,,
+PER,2014-06-14,17:00,Sport Huancayo,Inti Gas,1,3,A,1.0,2.0,A
+PER,2014-06-14,19:15,Sporting Cristal,FBC Melgar,1,2,A,1.0,0.0,H
+PER,2014-06-14,22:00,Universidad Cesar Vallejo,Juan Aurich,2,0,H,2.0,0.0,H
+PER,2014-06-15,17:00,León de Huánuco,Universidad San Martín,1,1,D,0.0,1.0,A
+PER,2014-06-15,19:15,Cienciano,Universitario de Deportes,1,2,A,1.0,1.0,D
+PER,2014-06-15,22:00,Alianza Lima,Real Garcilaso,2,0,H,1.0,0.0,H
+PER,2014-06-20,22:00,Universidad Técnica,CD Unión Comercio,1,1,D,1.0,0.0,H
+PER,2014-06-21,17:00,FBC Melgar,Los Caimanes,3,0,H,0.0,0.0,D
+PER,2014-06-21,19:15,Inti Gas,Cienciano,3,1,H,0.0,1.0,A
+PER,2014-06-21,21:45,Juan Aurich,León de Huánuco,2,1,H,1.0,0.0,H
+PER,2014-06-22,02:00,Universidad San Martín,Alianza Lima,1,1,D,0.0,0.0,D
+PER,2014-06-22,17:15,Real Garcilaso,Sport Huancayo,1,2,A,1.0,1.0,D
+PER,2014-06-22,19:30,CD San Simón,Universidad Cesar Vallejo,2,1,H,0.0,0.0,D
+PER,2014-06-22,22:00,Universitario de Deportes,Sporting Cristal,0,0,D,0.0,0.0,D
+PER,2014-06-27,19:00,León de Huánuco,CD San Simón,4,0,H,1.0,0.0,H
+PER,2014-06-28,17:00,Sporting Cristal,Inti Gas,3,0,H,2.0,0.0,H
+PER,2014-06-28,19:15,Universidad Cesar Vallejo,Universidad Técnica,3,0,H,2.0,0.0,H
+PER,2014-06-28,21:30,Cienciano,Real Garcilaso,2,0,H,1.0,0.0,H
+PER,2014-06-29,17:00,CD Unión Comercio,FBC Melgar,0,2,A,0.0,0.0,D
+PER,2014-06-29,19:30,Sport Huancayo,Universidad San Martín,2,4,A,1.0,1.0,D
+PER,2014-06-29,22:00,Alianza Lima,Juan Aurich,0,0,D,0.0,0.0,D
+PER,2014-06-30,00:15,Los Caimanes,Universitario de Deportes,2,4,A,1.0,2.0,A
+PER,2014-07-05,16:30,Real Garcilaso,Sporting Cristal,2,1,H,0.0,0.0,D
+PER,2014-07-05,18:30,FBC Melgar,Universidad Técnica,2,2,D,1.0,0.0,H
+PER,2014-07-05,21:00,Universidad San Martín,Cienciano,0,1,A,0.0,0.0,D
+PER,2014-07-05,23:30,Juan Aurich,Sport Huancayo,6,0,H,3.0,0.0,H
+PER,2014-07-06,02:00,Universidad Cesar Vallejo,León de Huánuco,3,1,H,2.0,0.0,H
+PER,2014-07-06,17:00,Inti Gas,Los Caimanes,2,1,H,2.0,0.0,H
+PER,2014-07-06,19:15,CD San Simón,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2014-07-06,22:00,Universitario de Deportes,CD Unión Comercio,0,0,D,0.0,0.0,D
+PER,2014-07-11,19:15,CD Unión Comercio,Inti Gas,0,1,A,0.0,1.0,A
+PER,2014-07-12,01:30,FBC Melgar,León de Huánuco,1,1,D,0.0,1.0,A
+PER,2014-07-12,17:00,Sporting Cristal,Universidad San Martín,0,0,D,0.0,0.0,D
+PER,2014-07-12,19:30,Sport Huancayo,CD San Simón,1,1,D,0.0,1.0,A
+PER,2014-07-12,21:45,Universidad Técnica,Universitario de Deportes,2,1,H,0.0,0.0,D
+PER,2014-07-13,00:00,Los Caimanes,Real Garcilaso,0,1,A,0.0,0.0,D
+PER,2014-07-13,02:10,Alianza Lima,Universidad Cesar Vallejo,0,0,D,0.0,0.0,D
+PER,2014-07-13,17:00,Cienciano,Juan Aurich,1,1,D,0.0,0.0,D
+PER,2014-07-15,21:30,Universidad San Martín,Los Caimanes,3,1,H,1.0,0.0,H
+PER,2014-07-16,17:00,Real Garcilaso,CD Unión Comercio,1,0,H,1.0,0.0,H
+PER,2014-07-16,19:15,Inti Gas,Universidad Técnica,1,1,D,1.0,0.0,H
+PER,2014-07-16,21:30,León de Huánuco,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2014-07-16,23:45,Universidad Cesar Vallejo,Sport Huancayo,2,0,H,0.0,0.0,D
+PER,2014-07-17,02:00,Universitario de Deportes,FBC Melgar,1,2,A,1.0,1.0,D
+PER,2014-07-17,21:00,CD San Simón,Cienciano,0,2,A,0.0,2.0,A
+PER,2014-07-18,02:00,Juan Aurich,Sporting Cristal,3,4,A,2.0,4.0,A
+PER,2014-07-19,17:00,Sport Huancayo,León de Huánuco,0,1,A,0.0,1.0,A
+PER,2014-07-19,21:45,Universidad Técnica,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2014-07-20,02:00,Universitario de Deportes,Alianza Lima,1,0,H,1.0,0.0,H
+PER,2014-07-20,18:00,Cienciano,Universidad Cesar Vallejo,2,0,H,0.0,0.0,D
+PER,2014-07-20,21:30,Sporting Cristal,CD San Simón,6,0,H,2.0,0.0,H
+PER,2014-07-21,00:15,Los Caimanes,Juan Aurich,0,4,A,0.0,1.0,A
+PER,2014-07-21,19:15,CD Unión Comercio,Universidad San Martín,1,0,H,0.0,0.0,D
+PER,2014-07-21,21:30,FBC Melgar,Inti Gas,2,2,D,0.0,1.0,A
+PER,2014-07-24,02:00,Alianza Lima,Sport Huancayo,4,3,H,2.0,0.0,H
+PER,2014-07-25,17:00,Real Garcilaso,FBC Melgar,1,1,D,0.0,1.0,A
+PER,2014-07-26,18:00,León de Huánuco,Cienciano,2,2,D,1.0,0.0,H
+PER,2014-07-26,21:00,Universidad San Martín,Universidad Técnica,4,0,H,3.0,0.0,H
+PER,2014-07-26,23:30,Universidad Cesar Vallejo,Sporting Cristal,3,2,H,1.0,2.0,A
+PER,2014-07-27,02:00,Juan Aurich,CD Unión Comercio,2,1,H,0.0,0.0,D
+PER,2014-07-27,19:00,CD San Simón,Los Caimanes,2,4,A,1.0,2.0,A
+PER,2014-07-27,21:30,Inti Gas,Universitario de Deportes,2,0,H,2.0,0.0,H
+PER,2014-07-29,21:30,Cienciano,Alianza Lima,2,1,H,1.0,0.0,H
+PER,2014-07-30,19:15,Los Caimanes,Universidad Cesar Vallejo,1,0,H,1.0,0.0,H
+PER,2014-07-30,21:45,Universidad Técnica,Juan Aurich,3,1,H,1.0,0.0,H
+PER,2014-07-31,02:00,Universitario de Deportes,Real Garcilaso,2,1,H,2.0,0.0,H
+PER,2014-07-31,17:00,CD Unión Comercio,Sport Huancayo,3,0,H,1.0,0.0,H
+PER,2014-07-31,19:15,FBC Melgar,Universidad San Martín,2,1,H,1.0,0.0,H
+PER,2014-07-31,21:30,Sporting Cristal,León de Huánuco,4,0,H,2.0,0.0,H
+PER,2014-08-03,19:15,Inti Gas,CD San Simón,3,2,H,3.0,0.0,H
+PER,2014-08-08,19:15,León de Huánuco,Los Caimanes,1,0,H,1.0,0.0,H
+PER,2014-08-09,19:00,Sport Huancayo,Cienciano,3,1,H,3.0,1.0,H
+PER,2014-08-09,21:30,Juan Aurich,FBC Melgar,3,1,H,2.0,1.0,H
+PER,2014-08-09,23:45,Universidad Cesar Vallejo,CD Unión Comercio,1,0,H,1.0,0.0,H
+PER,2014-08-10,02:00,Universidad San Martín,Universitario de Deportes,3,3,D,3.0,1.0,H
+PER,2014-08-10,17:15,Real Garcilaso,Inti Gas,3,0,H,2.0,0.0,H
+PER,2014-08-10,19:30,CD San Simón,Universidad Técnica,2,1,H,0.0,0.0,D
+PER,2014-08-10,22:00,Alianza Lima,Sporting Cristal,2,1,H,0.0,0.0,D
+PER,2014-08-13,17:00,FBC Melgar,Universidad Cesar Vallejo,2,1,H,1.0,1.0,D
+PER,2014-08-13,19:15,Real Garcilaso,Juan Aurich,2,2,D,2.0,0.0,H
+PER,2014-08-13,21:30,Inti Gas,Universidad San Martín,2,4,A,1.0,2.0,A
+PER,2014-08-13,23:45,Los Caimanes,Alianza Lima,0,0,D,0.0,0.0,D
+PER,2014-08-14,02:00,Universitario de Deportes,CD San Simón,1,0,H,0.0,0.0,D
+PER,2014-08-14,17:00,Sporting Cristal,Sport Huancayo,1,2,A,1.0,1.0,D
+PER,2014-08-14,19:15,CD Unión Comercio,León de Huánuco,1,0,H,0.0,0.0,D
+PER,2014-08-14,21:45,Universidad Técnica,Cienciano,2,1,H,1.0,1.0,D
+PER,2014-08-16,21:00,Universidad San Martín,Real Garcilaso,2,0,H,2.0,0.0,H
+PER,2014-08-17,02:00,Universidad Cesar Vallejo,Universitario de Deportes,1,2,A,0.0,0.0,D
+PER,2014-08-17,17:00,CD San Simón,FBC Melgar,1,0,H,0.0,0.0,D
+PER,2014-08-17,19:30,Cienciano,Sporting Cristal,1,1,D,1.0,0.0,H
+PER,2014-08-17,22:00,Alianza Lima,CD Unión Comercio,2,2,D,1.0,0.0,H
+PER,2014-08-18,00:15,Juan Aurich,Inti Gas,4,1,H,3.0,0.0,H
+PER,2014-08-18,17:00,Sport Huancayo,Los Caimanes,5,1,H,3.0,0.0,H
+PER,2014-08-23,19:00,Los Caimanes,Cienciano,2,1,H,0.0,1.0,A
+PER,2014-08-24,18:30,CD Unión Comercio,Sporting Cristal,2,0,H,1.0,0.0,H
+PER,2014-08-24,21:00,Universitario de Deportes,León de Huánuco,1,2,A,0.0,0.0,D
+PER,2014-08-24,21:00,Inti Gas,Universidad Cesar Vallejo,3,3,D,2.0,1.0,H
+PER,2014-08-24,21:00,FBC Melgar,Sport Huancayo,2,2,D,2.0,2.0,D
+PER,2014-08-24,21:00,Real Garcilaso,CD San Simón,4,1,H,2.0,1.0,H
+PER,2014-08-24,21:00,Universidad San Martín,Juan Aurich,1,2,A,1.0,1.0,D
+PER,2014-08-24,21:45,Universidad Técnica,Alianza Lima,0,2,A,0.0,1.0,A
+PER,2014-08-30,19:00,Cienciano,CD Unión Comercio,2,1,H,1.0,0.0,H
+PER,2014-08-30,21:30,Universidad Cesar Vallejo,Real Garcilaso,2,0,H,1.0,0.0,H
+PER,2014-08-30,21:30,CD San Simón,Universidad San Martín,0,0,D,0.0,0.0,D
+PER,2014-08-30,21:30,Alianza Lima,FBC Melgar,1,1,D,0.0,1.0,A
+PER,2014-08-30,21:30,Juan Aurich,Universitario de Deportes,2,0,H,1.0,0.0,H
+PER,2014-08-31,17:00,Sporting Cristal,Los Caimanes,1,1,D,0.0,1.0,A
+PER,2014-08-31,19:15,Sport Huancayo,Universidad Técnica,1,1,D,1.0,0.0,H
+PER,2014-08-31,21:30,León de Huánuco,Inti Gas,1,1,D,0.0,0.0,D
+PER,2014-09-03,22:00,León de Huánuco,Universidad Técnica,1,0,H,0.0,0.0,D

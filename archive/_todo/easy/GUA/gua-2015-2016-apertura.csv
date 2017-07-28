@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GUA,2015-08-01,23:00,Comunicaciones,Deportivo Petapa,0,2,A,0.0,1.0,A
+GUA,2015-08-02,03:00,Deportivo Mictlán,CSD Municipal,1,0,H,1.0,0.0,H
+GUA,2015-08-02,18:30,Antigua GFC,Deportivo Suchitepéquez,1,0,H,1.0,0.0,H
+GUA,2015-08-02,21:30,Deportivo Guastatoya,Deportivo Malacateco,4,1,H,1.0,0.0,H
+GUA,2015-08-02,22:00,Cobán Imperial,Xelaju MC,0,0,D,0.0,0.0,D
+GUA,2015-08-02,23:00,Deportivo Marquense,Universidad SC,2,1,H,1.0,1.0,D
+GUA,2015-08-09,03:00,Deportivo Petapa,Antigua GFC,0,2,A,0.0,1.0,A
+GUA,2015-08-09,03:00,Xelaju MC,Deportivo Mictlán,1,0,H,0.0,0.0,D
+GUA,2015-08-09,18:00,Deportivo Suchitepéquez,Deportivo Guastatoya,1,0,H,0.0,0.0,D
+GUA,2015-08-09,18:00,Deportivo Malacateco,Comunicaciones,2,1,H,1.0,0.0,H
+GUA,2015-08-09,18:00,CSD Municipal,Deportivo Marquense,3,1,H,0.0,1.0,A
+GUA,2015-08-09,18:05,Universidad SC,Cobán Imperial,1,2,A,0.0,2.0,A
+GUA,2015-08-12,20:00,Deportivo Malacateco,Deportivo Petapa,1,1,D,1.0,0.0,H
+GUA,2015-08-12,22:00,Deportivo Guastatoya,Antigua GFC,1,2,A,0.0,1.0,A
+GUA,2015-08-12,22:05,Universidad SC,Xelaju MC,1,2,A,0.0,0.0,D
+GUA,2015-08-12,23:00,Comunicaciones,Deportivo Suchitepéquez,0,1,A,0.0,0.0,D
+GUA,2015-08-13,02:00,Cobán Imperial,CSD Municipal,1,0,H,0.0,0.0,D
+GUA,2015-08-13,03:00,Deportivo Marquense,Deportivo Mictlán,3,1,H,1.0,0.0,H
+GUA,2015-08-15,22:30,Antigua GFC,Comunicaciones,0,1,A,0.0,0.0,D
+GUA,2015-08-16,18:00,Deportivo Suchitepéquez,Deportivo Malacateco,4,1,H,3.0,0.0,H
+GUA,2015-08-16,18:00,Deportivo Mictlán,Cobán Imperial,3,0,H,1.0,0.0,H
+GUA,2015-08-16,18:00,CSD Municipal,Universidad SC,3,2,H,2.0,1.0,H
+GUA,2015-08-16,20:00,Deportivo Marquense,Xelaju MC,1,0,H,0.0,0.0,D
+GUA,2015-08-16,21:30,Deportivo Guastatoya,Deportivo Petapa,1,1,D,1.0,0.0,H
+GUA,2015-08-22,23:00,Comunicaciones,Deportivo Guastatoya,0,0,D,0.0,0.0,D
+GUA,2015-08-23,03:00,Deportivo Petapa,Deportivo Suchitepéquez,1,1,D,0.0,0.0,D
+GUA,2015-08-23,18:00,Deportivo Malacateco,Antigua GFC,1,3,A,1.0,2.0,A
+GUA,2015-08-23,18:00,Cobán Imperial,Deportivo Marquense,1,0,H,0.0,0.0,D
+GUA,2015-08-23,18:05,Universidad SC,Deportivo Mictlán,2,0,H,1.0,0.0,H
+GUA,2015-08-23,19:00,Xelaju MC,CSD Municipal,1,0,H,1.0,0.0,H
+GUA,2015-08-30,03:00,Xelaju MC,Deportivo Petapa,2,1,H,1.0,0.0,H
+GUA,2015-08-30,03:00,Deportivo Marquense,Deportivo Guastatoya,2,0,H,2.0,0.0,H
+GUA,2015-08-30,18:05,Universidad SC,Deportivo Malacateco,2,2,D,2.0,1.0,H
+GUA,2015-09-05,03:00,Deportivo Suchitepéquez,Universidad SC,2,0,H,1.0,0.0,H
+GUA,2015-09-09,20:00,Deportivo Malacateco,Deportivo Mictlán,2,0,H,2.0,0.0,H
+GUA,2015-09-09,22:00,Deportivo Guastatoya,CSD Municipal,3,1,H,2.0,1.0,H
+GUA,2015-09-10,03:00,Deportivo Petapa,Deportivo Marquense,0,2,A,0.0,1.0,A
+GUA,2015-09-10,23:00,Comunicaciones,Xelaju MC,2,0,H,1.0,0.0,H
+GUA,2015-09-13,02:00,Cobán Imperial,Deportivo Malacateco,1,0,H,1.0,0.0,H
+GUA,2015-09-13,18:00,Deportivo Mictlán,Deportivo Suchitepéquez,2,0,H,2.0,0.0,H
+GUA,2015-09-13,18:00,CSD Municipal,Deportivo Petapa,4,1,H,0.0,0.0,D
+GUA,2015-09-13,18:05,Universidad SC,Deportivo Guastatoya,2,3,A,2.0,1.0,H
+GUA,2015-09-13,20:00,Deportivo Marquense,Comunicaciones,0,3,A,0.0,2.0,A
+GUA,2015-09-13,23:00,Xelaju MC,Antigua GFC,1,0,H,0.0,0.0,D
+GUA,2015-09-17,,Deportivo Mictlán,Antigua GFC,1,2,A,,,
+GUA,2015-09-20,03:00,Deportivo Petapa,Universidad SC,2,1,H,0.0,0.0,D
+GUA,2015-09-20,18:00,Deportivo Suchitepéquez,Cobán Imperial,1,1,D,1.0,0.0,H
+GUA,2015-09-20,18:00,Deportivo Malacateco,Xelaju MC,0,1,A,0.0,0.0,D
+GUA,2015-09-20,18:30,Antigua GFC,Deportivo Marquense,2,1,H,2.0,0.0,H
+GUA,2015-09-20,19:00,Comunicaciones,CSD Municipal,1,0,H,1.0,0.0,H
+GUA,2015-09-20,21:30,Deportivo Guastatoya,Deportivo Mictlán,0,0,D,0.0,0.0,D
+GUA,2015-09-23,19:30,CSD Municipal,Deportivo Suchitepéquez,3,2,H,1.0,1.0,D
+GUA,2015-09-25,02:00,Cobán Imperial,Comunicaciones,2,1,H,1.0,1.0,D
+GUA,2015-09-27,03:00,Deportivo Marquense,Deportivo Malacateco,2,2,D,1.0,0.0,H
+GUA,2015-09-27,18:00,Deportivo Mictlán,Deportivo Petapa,1,0,H,1.0,0.0,H
+GUA,2015-09-27,18:00,CSD Municipal,Antigua GFC,1,1,D,1.0,1.0,D
+GUA,2015-09-27,18:05,Universidad SC,Comunicaciones,1,1,D,0.0,1.0,A
+GUA,2015-09-27,19:00,Xelaju MC,Deportivo Suchitepéquez,2,0,H,1.0,0.0,H
+GUA,2015-09-27,22:00,Cobán Imperial,Deportivo Guastatoya,2,2,D,0.0,2.0,A
+GUA,2015-09-30,20:00,Deportivo Malacateco,CSD Municipal,2,2,D,1.0,1.0,D
+GUA,2015-09-30,22:00,Deportivo Guastatoya,Xelaju MC,2,0,H,2.0,0.0,H
+GUA,2015-09-30,22:00,Antigua GFC,Universidad SC,1,4,A,1.0,2.0,A
+GUA,2015-09-30,23:00,Comunicaciones,Deportivo Mictlán,2,1,H,1.0,0.0,H
+GUA,2015-10-01,03:00,Deportivo Petapa,Cobán Imperial,1,0,H,1.0,0.0,H
+GUA,2015-10-01,03:00,Deportivo Suchitepéquez,Deportivo Marquense,3,0,H,1.0,0.0,H
+GUA,2015-10-04,18:00,Deportivo Suchitepéquez,Antigua GFC,3,1,H,2.0,0.0,H
+GUA,2015-10-04,18:00,Deportivo Malacateco,Deportivo Guastatoya,0,2,A,0.0,1.0,A
+GUA,2015-10-04,18:00,CSD Municipal,Deportivo Mictlán,2,0,H,0.0,0.0,D
+GUA,2015-10-04,18:05,Universidad SC,Deportivo Marquense,0,1,A,0.0,0.0,D
+GUA,2015-10-04,19:00,Xelaju MC,Cobán Imperial,3,0,H,1.0,0.0,H
+GUA,2015-10-04,23:00,Deportivo Petapa,Comunicaciones,1,4,A,0.0,3.0,A
+GUA,2015-10-10,23:00,Comunicaciones,Deportivo Malacateco,2,1,H,1.0,1.0,D
+GUA,2015-10-11,02:00,Cobán Imperial,Universidad SC,2,2,D,1.0,1.0,D
+GUA,2015-10-11,18:00,Deportivo Mictlán,Xelaju MC,3,1,H,3.0,0.0,H
+GUA,2015-10-11,18:30,Antigua GFC,Deportivo Petapa,1,2,A,0.0,1.0,A
+GUA,2015-10-11,21:30,Deportivo Guastatoya,Deportivo Suchitepéquez,3,0,H,0.0,0.0,D
+GUA,2015-10-16,19:30,CSD Municipal,Cobán Imperial,1,0,H,1.0,0.0,H
+GUA,2015-10-17,22:30,Antigua GFC,Deportivo Guastatoya,3,0,H,2.0,0.0,H
+GUA,2015-10-18,03:00,Xelaju MC,Universidad SC,1,0,H,0.0,0.0,D
+GUA,2015-10-18,18:00,Deportivo Suchitepéquez,Comunicaciones,2,0,H,1.0,0.0,H
+GUA,2015-10-18,18:00,Deportivo Mictlán,Deportivo Marquense,0,0,D,0.0,0.0,D
+GUA,2015-10-18,23:00,Deportivo Petapa,Deportivo Malacateco,4,1,H,3.0,0.0,H
+GUA,2015-10-23,22:30,Antigua GFC,Cobán Imperial,0,0,D,0.0,0.0,D
+GUA,2015-10-27,18:00,Universidad SC,CSD Municipal,2,4,A,1.0,1.0,D
+GUA,2015-10-28,19:00,Deportivo Malacateco,Deportivo Suchitepéquez,0,2,A,0.0,0.0,D
+GUA,2015-10-28,22:00,Comunicaciones,Antigua GFC,1,0,H,1.0,0.0,H
+GUA,2015-10-29,01:00,Cobán Imperial,Deportivo Mictlán,1,0,H,1.0,0.0,H
+GUA,2015-10-29,02:00,Xelaju MC,Deportivo Marquense,1,0,H,1.0,0.0,H
+GUA,2015-10-29,02:00,Deportivo Petapa,Deportivo Guastatoya,0,0,D,0.0,0.0,D
+GUA,2015-10-31,21:30,Antigua GFC,Deportivo Malacateco,2,0,H,0.0,0.0,D
+GUA,2015-11-01,02:00,Deportivo Suchitepéquez,Deportivo Petapa,6,0,H,2.0,0.0,H
+GUA,2015-11-01,02:00,Deportivo Marquense,Cobán Imperial,0,1,A,0.0,0.0,D
+GUA,2015-11-01,17:00,Deportivo Mictlán,Universidad SC,1,1,D,0.0,1.0,A
+GUA,2015-11-01,17:00,CSD Municipal,Xelaju MC,0,0,D,0.0,0.0,D
+GUA,2015-11-01,20:30,Deportivo Guastatoya,Comunicaciones,1,1,D,1.0,0.0,H
+GUA,2015-11-04,19:00,Deportivo Malacateco,Universidad SC,0,3,A,0.0,1.0,A
+GUA,2015-11-04,21:00,Deportivo Guastatoya,Deportivo Marquense,2,0,H,0.0,0.0,D
+GUA,2015-11-04,21:30,Antigua GFC,Deportivo Mictlán,2,1,H,1.0,0.0,H
+GUA,2015-11-04,22:00,Comunicaciones,Cobán Imperial,2,1,H,2.0,0.0,H
+GUA,2015-11-05,02:00,Deportivo Petapa,Xelaju MC,2,1,H,1.0,0.0,H
+GUA,2015-11-05,02:00,Deportivo Suchitepéquez,CSD Municipal,0,2,A,0.0,1.0,A
+GUA,2015-11-08,02:00,Deportivo Marquense,Deportivo Petapa,0,0,D,0.0,0.0,D
+GUA,2015-11-08,02:00,Xelaju MC,Comunicaciones,1,0,H,0.0,0.0,D
+GUA,2015-11-08,17:00,CSD Municipal,Deportivo Guastatoya,0,3,A,0.0,1.0,A
+GUA,2015-11-08,17:00,Deportivo Mictlán,Deportivo Malacateco,2,2,D,1.0,0.0,H
+GUA,2015-11-08,17:05,Universidad SC,Deportivo Suchitepéquez,2,2,D,2.0,1.0,H
+GUA,2015-11-08,21:00,Cobán Imperial,Antigua GFC,0,0,D,0.0,0.0,D
+GUA,2015-11-12,02:00,Deportivo Marquense,CSD Municipal,2,1,H,0.0,1.0,A
+GUA,2015-11-14,22:00,Comunicaciones,Deportivo Marquense,2,2,D,0.0,1.0,A
+GUA,2015-11-15,17:00,Deportivo Suchitepéquez,Deportivo Mictlán,2,3,A,2.0,0.0,H
+GUA,2015-11-15,17:00,Deportivo Malacateco,Cobán Imperial,1,0,H,0.0,0.0,D
+GUA,2015-11-15,17:30,Antigua GFC,Xelaju MC,3,0,H,2.0,0.0,H
+GUA,2015-11-15,20:30,Deportivo Guastatoya,Universidad SC,2,3,A,0.0,2.0,A
+GUA,2015-11-15,22:00,Deportivo Petapa,CSD Municipal,3,0,H,1.0,0.0,H
+GUA,2015-11-21,21:05,Universidad SC,Deportivo Petapa,1,1,D,1.0,0.0,H
+GUA,2015-11-22,01:00,Cobán Imperial,Deportivo Suchitepéquez,3,3,D,1.0,0.0,H
+GUA,2015-11-22,02:00,Deportivo Marquense,Antigua GFC,1,1,D,0.0,1.0,A
+GUA,2015-11-22,02:00,Xelaju MC,Deportivo Malacateco,2,1,H,2.0,0.0,H
+GUA,2015-11-22,17:00,Deportivo Mictlán,Deportivo Guastatoya,2,2,D,1.0,1.0,D
+GUA,2015-11-22,17:00,CSD Municipal,Comunicaciones,0,1,A,0.0,1.0,A
+GUA,2015-11-25,19:00,Deportivo Malacateco,Deportivo Marquense,4,0,H,2.0,0.0,H
+GUA,2015-11-25,21:00,Deportivo Guastatoya,Cobán Imperial,2,0,H,0.0,0.0,D
+GUA,2015-11-25,21:30,Antigua GFC,CSD Municipal,0,0,D,0.0,0.0,D
+GUA,2015-11-25,22:00,Comunicaciones,Universidad SC,1,0,H,0.0,0.0,D
+GUA,2015-11-26,02:00,Deportivo Petapa,Deportivo Mictlán,3,0,H,2.0,0.0,H
+GUA,2015-11-26,02:00,Deportivo Suchitepéquez,Xelaju MC,1,0,H,1.0,0.0,H
+GUA,2015-11-29,17:00,Universidad SC,Antigua GFC,0,1,A,0.0,0.0,D
+GUA,2015-11-29,17:00,CSD Municipal,Deportivo Malacateco,1,0,H,1.0,0.0,H
+GUA,2015-11-29,17:00,Deportivo Mictlán,Comunicaciones,2,0,H,2.0,0.0,H
+GUA,2015-11-29,17:00,Cobán Imperial,Deportivo Petapa,2,3,A,0.0,1.0,A
+GUA,2015-11-29,17:00,Deportivo Marquense,Deportivo Suchitepéquez,2,0,H,1.0,0.0,H
+GUA,2015-11-29,17:00,Xelaju MC,Deportivo Guastatoya,2,0,H,1.0,0.0,H

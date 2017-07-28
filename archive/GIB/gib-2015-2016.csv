@@ -1,136 +1,136 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-GIB,25/09/2015,19:30,St. Joseph's FC,Lions Gibraltar,1,1,D,NaN,NaN,NaN
-GIB,26/09/2015,16:00,Angels FC,Lynx FC,1,2,A,NaN,NaN,NaN
-GIB,26/09/2015,18:30,Manchester 62 FC,Glacis United FC,1,0,H,NaN,NaN,NaN
-GIB,27/09/2015,15:30,Britannia FC,Gibraltar United FC,1,1,D,NaN,NaN,NaN
-GIB,28/09/2015,19:30,Europa FC,Lincoln Red Imps,1,1,D,NaN,NaN,NaN
-GIB,01/10/2015,19:30,St. Joseph's FC,Angels FC,4,0,H,NaN,NaN,NaN
-GIB,02/10/2015,19:30,Lynx FC,Manchester 62 FC,2,2,D,NaN,NaN,NaN
-GIB,03/10/2015,16:00,Lions Gibraltar,Lincoln Red Imps,0,2,A,NaN,NaN,NaN
-GIB,03/10/2015,18:30,Gibraltar United FC,Europa FC,0,2,A,NaN,NaN,NaN
-GIB,14/10/2015,19:30,Glacis United FC,Britannia FC,0,3,A,NaN,NaN,NaN
-GIB,16/10/2015,19:30,Lincoln Red Imps,Gibraltar United FC,7,0,H,NaN,NaN,NaN
-GIB,17/10/2015,17:00,Angels FC,Lions Gibraltar,0,3,A,NaN,NaN,NaN
-GIB,17/10/2015,19:30,Manchester 62 FC,St. Joseph's FC,0,1,A,NaN,NaN,NaN
-GIB,18/10/2015,15:30,Britannia FC,Lynx FC,0,1,A,NaN,NaN,NaN
-GIB,19/10/2015,19:30,Europa FC,Glacis United FC,6,0,H,NaN,NaN,NaN
-GIB,23/10/2015,19:30,Lynx FC,Europa FC,1,2,A,NaN,NaN,NaN
-GIB,24/10/2015,16:00,Glacis United FC,Lincoln Red Imps,1,6,A,NaN,NaN,NaN
-GIB,24/10/2015,18:30,St. Joseph's FC,Britannia FC,1,1,D,NaN,NaN,NaN
-GIB,25/10/2015,15:30,Angels FC,Manchester 62 FC,1,5,A,NaN,NaN,NaN
-GIB,02/12/2015,19:30,Lions Gibraltar,Gibraltar United FC,3,0,H,NaN,NaN,NaN
-GIB,29/10/2015,19:30,Europa FC,St. Joseph's FC,2,0,H,NaN,NaN,NaN
-GIB,31/10/2015,15:00,Britannia FC,Angels FC,3,1,H,NaN,NaN,NaN
-GIB,31/10/2015,17:00,Manchester 62 FC,Lions Gibraltar,2,3,A,NaN,NaN,NaN
-GIB,02/11/2015,19:30,Lincoln Red Imps,Lynx FC,4,0,H,NaN,NaN,NaN
-GIB,31/01/2016,19:30,Gibraltar United FC,Glacis United FC,1,0,H,NaN,NaN,NaN
-GIB,06/11/2015,19:30,Lions Gibraltar,Glacis United FC,5,0,H,NaN,NaN,NaN
-GIB,07/11/2015,16:00,Manchester 62 FC,Britannia FC,0,2,A,NaN,NaN,NaN
-GIB,07/11/2015,18:30,Lynx FC,Gibraltar United FC,3,0,H,NaN,NaN,NaN
-GIB,08/11/2015,15:30,St. Joseph's FC,Lincoln Red Imps,0,2,A,NaN,NaN,NaN
-GIB,09/11/2015,19:30,Angels FC,Europa FC,2,3,A,NaN,NaN,NaN
-GIB,13/11/2015,19:30,Gibraltar United FC,St. Joseph's FC,0,2,A,NaN,NaN,NaN
-GIB,14/11/2015,16:00,Europa FC,Manchester 62 FC,4,0,H,NaN,NaN,NaN
-GIB,14/11/2015,18:30,Lincoln Red Imps,Angels FC,5,0,H,NaN,NaN,NaN
-GIB,15/11/2015,15:30,Glacis United FC,Lynx FC,0,2,A,NaN,NaN,NaN
-GIB,16/11/2015,19:30,Britannia FC,Lions Gibraltar,0,4,A,NaN,NaN,NaN
-GIB,20/11/2015,19:30,St. Joseph's FC,Glacis United FC,3,0,H,NaN,NaN,NaN
-GIB,21/11/2015,16:00,Lions Gibraltar,Lynx FC,1,1,D,NaN,NaN,NaN
-GIB,21/11/2015,18:30,Britannia FC,Europa FC,1,4,A,NaN,NaN,NaN
-GIB,22/11/2015,15:30,Manchester 62 FC,Lincoln Red Imps,0,4,A,NaN,NaN,NaN
-GIB,23/11/2015,19:30,Angels FC,Gibraltar United FC,1,2,A,NaN,NaN,NaN
-GIB,27/11/2015,19:30,Lincoln Red Imps,Britannia FC,3,2,H,NaN,NaN,NaN
-GIB,28/11/2015,16:00,Gibraltar United FC,Manchester 62 FC,1,0,H,NaN,NaN,NaN
-GIB,28/11/2015,18:30,Glacis United FC,Angels FC,0,2,A,NaN,NaN,NaN
-GIB,29/11/2015,15:30,Europa FC,Lions Gibraltar,2,0,H,NaN,NaN,NaN
-GIB,30/11/2015,19:30,Lynx FC,St. Joseph's FC,1,0,H,NaN,NaN,NaN
-GIB,04/12/2015,19:30,Glacis United FC,Manchester 62 FC,1,1,D,NaN,NaN,NaN
-GIB,05/12/2015,16:00,Gibraltar United FC,Britannia FC,1,3,A,NaN,NaN,NaN
-GIB,05/12/2015,18:30,Lincoln Red Imps,Europa FC,2,0,H,NaN,NaN,NaN
-GIB,06/12/2015,15:30,Lynx FC,Angels FC,6,0,H,NaN,NaN,NaN
-GIB,07/12/2015,19:30,Lions Gibraltar,St. Joseph's FC,3,1,H,NaN,NaN,NaN
-GIB,11/12/2015,19:30,Europa FC,Gibraltar United FC,2,0,H,NaN,NaN,NaN
-GIB,12/12/2015,16:00,Angels FC,St. Joseph's FC,0,3,A,NaN,NaN,NaN
-GIB,12/12/2015,18:30,Britannia FC,Glacis United FC,2,3,A,NaN,NaN,NaN
-GIB,13/12/2015,15:30,Lincoln Red Imps,Lions Gibraltar,4,0,H,NaN,NaN,NaN
-GIB,14/12/2015,19:30,Manchester 62 FC,Lynx FC,1,2,A,NaN,NaN,NaN
-GIB,18/12/2015,19:30,Lions Gibraltar,Angels FC,2,0,H,NaN,NaN,NaN
-GIB,19/12/2015,16:00,Lynx FC,Britannia FC,0,3,A,NaN,NaN,NaN
-GIB,19/12/2015,18:30,St. Joseph's FC,Manchester 62 FC,2,0,H,NaN,NaN,NaN
-GIB,20/12/2015,15:30,Glacis United FC,Europa FC,0,2,A,NaN,NaN,NaN
-GIB,21/12/2015,19:30,Gibraltar United FC,Lincoln Red Imps,0,6,A,NaN,NaN,NaN
-GIB,02/01/2016,16:00,Gibraltar United FC,Lions Gibraltar,1,0,H,NaN,NaN,NaN
-GIB,02/01/2016,18:30,Lincoln Red Imps,Glacis United FC,11,0,H,NaN,NaN,NaN
-GIB,03/01/2016,15:30,Manchester 62 FC,Angels FC,4,1,H,NaN,NaN,NaN
-GIB,03/01/2016,18:30,Britannia FC,St. Joseph's FC,4,3,H,NaN,NaN,NaN
-GIB,04/01/2016,19:30,Europa FC,Lynx FC,2,1,H,NaN,NaN,NaN
-GIB,08/01/2016,19:30,Lions Gibraltar,Manchester 62 FC,0,1,A,NaN,NaN,NaN
-GIB,09/01/2016,16:00,Angels FC,Britannia FC,0,3,A,NaN,NaN,NaN
-GIB,09/01/2016,18:30,Lynx FC,Lincoln Red Imps,0,2,A,NaN,NaN,NaN
-GIB,10/01/2016,15:30,St. Joseph's FC,Europa FC,3,1,H,NaN,NaN,NaN
-GIB,11/01/2016,19:30,Glacis United FC,Gibraltar United FC,1,2,A,NaN,NaN,NaN
-GIB,15/01/2016,19:30,Europa FC,Angels FC,3,0,H,NaN,NaN,NaN
-GIB,16/01/2016,16:00,Lincoln Red Imps,St. Joseph's FC,4,0,H,NaN,NaN,NaN
-GIB,16/01/2016,18:30,Britannia FC,Manchester 62 FC,0,2,A,NaN,NaN,NaN
-GIB,17/01/2016,15:30,Gibraltar United FC,Lynx FC,1,3,A,NaN,NaN,NaN
-GIB,18/01/2016,19:30,Glacis United FC,Lions Gibraltar,6,0,H,NaN,NaN,NaN
-GIB,22/01/2016,19:30,Angels FC,Lincoln Red Imps,0,13,A,NaN,NaN,NaN
-GIB,23/01/2016,16:00,St. Joseph's FC,Gibraltar United FC,4,0,H,NaN,NaN,NaN
-GIB,23/01/2016,18:30,Manchester 62 FC,Europa FC,1,1,D,NaN,NaN,NaN
-GIB,24/01/2016,15:30,Lynx FC,Glacis United FC,0,1,A,NaN,NaN,NaN
-GIB,25/01/2016,19:30,Lions Gibraltar,Britannia FC,1,0,H,NaN,NaN,NaN
-GIB,29/01/2016,19:30,Lincoln Red Imps,Manchester 62 FC,4,0,H,NaN,NaN,NaN
-GIB,30/01/2016,16:00,Europa FC,Britannia FC,10,1,H,NaN,NaN,NaN
-GIB,30/01/2016,18:30,Lynx FC,Lions Gibraltar,1,2,A,NaN,NaN,NaN
-GIB,05/02/2016,19:30,Glacis United FC,St. Joseph's FC,3,5,A,NaN,NaN,NaN
-GIB,06/02/2016,17:30,Gibraltar United FC,Angels FC,1,2,A,NaN,NaN,NaN
-GIB,19/02/2016,19:30,Lions Gibraltar,Europa FC,0,3,A,NaN,NaN,NaN
-GIB,20/02/2016,16:00,Angels FC,Glacis United FC,0,3,A,NaN,NaN,NaN
-GIB,20/02/2016,18:30,St. Joseph's FC,Lynx FC,1,0,H,NaN,NaN,NaN
-GIB,21/02/2016,15:30,Manchester 62 FC,Gibraltar United FC,1,0,H,NaN,NaN,NaN
-GIB,22/02/2016,19:30,Britannia FC,Lincoln Red Imps,0,1,A,NaN,NaN,NaN
-GIB,26/02/2016,19:30,St. Joseph's FC,Lions Gibraltar,2,1,H,NaN,NaN,NaN
-GIB,27/02/2016,15:30,Angels FC,Lynx FC,1,2,A,NaN,NaN,NaN
-GIB,27/02/2016,18:30,Manchester 62 FC,Glacis United FC,1,3,A,NaN,NaN,NaN
-GIB,28/02/2016,15:30,Britannia FC,Gibraltar United FC,0,2,A,NaN,NaN,NaN
-GIB,29/02/2016,19:30,Europa FC,Lincoln Red Imps,2,0,H,NaN,NaN,NaN
-GIB,04/03/2016,19:30,Glacis United FC,Britannia FC,1,0,H,NaN,NaN,NaN
-GIB,05/03/2016,16:00,Gibraltar United FC,Europa FC,1,3,A,NaN,NaN,NaN
-GIB,05/03/2016,18:30,Lynx FC,Manchester 62 FC,3,0,H,NaN,NaN,NaN
-GIB,06/03/2016,15:30,St. Joseph's FC,Angels FC,0,1,A,NaN,NaN,NaN
-GIB,07/03/2016,19:30,Lions Gibraltar,Lincoln Red Imps,1,7,A,NaN,NaN,NaN
-GIB,11/03/2016,19:30,Manchester 62 FC,St. Joseph's FC,3,0,H,NaN,NaN,NaN
-GIB,12/03/2016,16:00,Lincoln Red Imps,Gibraltar United FC,4,0,H,NaN,NaN,NaN
-GIB,12/03/2016,18:30,Europa FC,Glacis United FC,0,1,A,NaN,NaN,NaN
-GIB,13/03/2016,15:30,Angels FC,Lions Gibraltar,0,1,A,NaN,NaN,NaN
-GIB,15/03/2016,19:30,Britannia FC,Lynx FC,0,2,A,NaN,NaN,NaN
-GIB,01/04/2016,19:30,Glacis United FC,Lincoln Red Imps,1,4,A,NaN,NaN,NaN
-GIB,02/04/2016,16:00,Lynx FC,Europa FC,0,1,A,NaN,NaN,NaN
-GIB,02/04/2016,18:30,St. Joseph's FC,Britannia FC,4,0,H,NaN,NaN,NaN
-GIB,03/04/2016,15:30,Angels FC,Manchester 62 FC,1,6,A,NaN,NaN,NaN
-GIB,04/04/2016,19:30,Lions Gibraltar,Gibraltar United FC,1,3,A,NaN,NaN,NaN
-GIB,08/04/2016,19:30,Britannia FC,Angels FC,4,3,H,NaN,NaN,NaN
-GIB,09/04/2016,16:00,Europa FC,St. Joseph's FC,2,1,H,NaN,NaN,NaN
-GIB,09/04/2016,18:30,Manchester 62 FC,Lions Gibraltar,2,2,D,NaN,NaN,NaN
-GIB,10/04/2016,15:30,Gibraltar United FC,Glacis United FC,0,2,A,NaN,NaN,NaN
-GIB,11/04/2016,19:30,Lincoln Red Imps,Lynx FC,4,0,H,NaN,NaN,NaN
-GIB,15/04/2016,19:30,Lions Gibraltar,Glacis United FC,6,3,H,NaN,NaN,NaN
-GIB,16/04/2016,16:00,Manchester 62 FC,Britannia FC,6,0,H,NaN,NaN,NaN
-GIB,16/04/2016,18:30,Lynx FC,Gibraltar United FC,0,1,A,NaN,NaN,NaN
-GIB,17/04/2016,15:30,St. Joseph's FC,Lincoln Red Imps,0,3,A,NaN,NaN,NaN
-GIB,18/04/2016,19:30,Angels FC,Europa FC,0,3,A,NaN,NaN,NaN
-GIB,27/04/2016,19:30,Britannia FC,Lions Gibraltar,1,4,A,NaN,NaN,NaN
-GIB,29/04/2016,19:30,Gibraltar United FC,St. Joseph's FC,1,3,A,NaN,NaN,NaN
-GIB,30/04/2016,16:00,Europa FC,Manchester 62 FC,5,0,H,NaN,NaN,NaN
-GIB,30/04/2016,18:30,Lincoln Red Imps,Angels FC,13,1,H,NaN,NaN,NaN
-GIB,01/05/2016,15:30,Glacis United FC,Lynx FC,2,1,H,NaN,NaN,NaN
-GIB,06/05/2016,19:30,Manchester 62 FC,Lincoln Red Imps,0,4,A,NaN,NaN,NaN
-GIB,07/05/2016,16:00,St. Joseph's FC,Glacis United FC,2,2,D,NaN,NaN,NaN
-GIB,07/05/2016,18:30,Britannia FC,Europa FC,1,16,A,NaN,NaN,NaN
-GIB,08/05/2016,15:30,Lions Gibraltar,Lynx FC,4,1,H,NaN,NaN,NaN
-GIB,09/05/2016,19:30,Angels FC,Gibraltar United FC,1,7,A,NaN,NaN,NaN
-GIB,13/05/2016,19:30,Lincoln Red Imps,Britannia FC,10,0,H,NaN,NaN,NaN
-GIB,14/05/2016,16:00,Gibraltar United FC,Manchester 62 FC,2,2,D,NaN,NaN,NaN
-GIB,14/05/2016,18:30,Lynx FC,St. Joseph's FC,2,4,A,NaN,NaN,NaN
-GIB,15/05/2016,15:30,Europa FC,Lions Gibraltar,0,1,A,NaN,NaN,NaN
-GIB,16/05/2016,19:30,Glacis United FC,Angels FC,6,1,H,NaN,NaN,NaN
+GIB,2015-09-25,19:30,St. Joseph's FC,Lions Gibraltar,1,1,D,,,
+GIB,2015-09-26,16:00,Angels FC,Lynx FC,1,2,A,,,
+GIB,2015-09-26,18:30,Manchester 62 FC,Glacis United FC,1,0,H,,,
+GIB,2015-09-27,15:30,Britannia FC,Gibraltar United FC,1,1,D,,,
+GIB,2015-09-28,19:30,Europa FC,Lincoln Red Imps,1,1,D,,,
+GIB,2015-10-01,19:30,St. Joseph's FC,Angels FC,4,0,H,,,
+GIB,2015-10-02,19:30,Lynx FC,Manchester 62 FC,2,2,D,,,
+GIB,2015-10-03,16:00,Lions Gibraltar,Lincoln Red Imps,0,2,A,,,
+GIB,2015-10-03,18:30,Gibraltar United FC,Europa FC,0,2,A,,,
+GIB,2015-10-14,19:30,Glacis United FC,Britannia FC,0,3,A,,,
+GIB,2015-10-16,19:30,Lincoln Red Imps,Gibraltar United FC,7,0,H,,,
+GIB,2015-10-17,17:00,Angels FC,Lions Gibraltar,0,3,A,,,
+GIB,2015-10-17,19:30,Manchester 62 FC,St. Joseph's FC,0,1,A,,,
+GIB,2015-10-18,15:30,Britannia FC,Lynx FC,0,1,A,,,
+GIB,2015-10-19,19:30,Europa FC,Glacis United FC,6,0,H,,,
+GIB,2015-10-23,19:30,Lynx FC,Europa FC,1,2,A,,,
+GIB,2015-10-24,16:00,Glacis United FC,Lincoln Red Imps,1,6,A,,,
+GIB,2015-10-24,18:30,St. Joseph's FC,Britannia FC,1,1,D,,,
+GIB,2015-10-25,15:30,Angels FC,Manchester 62 FC,1,5,A,,,
+GIB,2015-10-29,19:30,Europa FC,St. Joseph's FC,2,0,H,,,
+GIB,2015-10-31,15:00,Britannia FC,Angels FC,3,1,H,,,
+GIB,2015-10-31,17:00,Manchester 62 FC,Lions Gibraltar,2,3,A,,,
+GIB,2015-11-02,19:30,Lincoln Red Imps,Lynx FC,4,0,H,,,
+GIB,2015-11-06,19:30,Lions Gibraltar,Glacis United FC,5,0,H,,,
+GIB,2015-11-07,16:00,Manchester 62 FC,Britannia FC,0,2,A,,,
+GIB,2015-11-07,18:30,Lynx FC,Gibraltar United FC,3,0,H,,,
+GIB,2015-11-08,15:30,St. Joseph's FC,Lincoln Red Imps,0,2,A,,,
+GIB,2015-11-09,19:30,Angels FC,Europa FC,2,3,A,,,
+GIB,2015-11-13,19:30,Gibraltar United FC,St. Joseph's FC,0,2,A,,,
+GIB,2015-11-14,16:00,Europa FC,Manchester 62 FC,4,0,H,,,
+GIB,2015-11-14,18:30,Lincoln Red Imps,Angels FC,5,0,H,,,
+GIB,2015-11-15,15:30,Glacis United FC,Lynx FC,0,2,A,,,
+GIB,2015-11-16,19:30,Britannia FC,Lions Gibraltar,0,4,A,,,
+GIB,2015-11-20,19:30,St. Joseph's FC,Glacis United FC,3,0,H,,,
+GIB,2015-11-21,16:00,Lions Gibraltar,Lynx FC,1,1,D,,,
+GIB,2015-11-21,18:30,Britannia FC,Europa FC,1,4,A,,,
+GIB,2015-11-22,15:30,Manchester 62 FC,Lincoln Red Imps,0,4,A,,,
+GIB,2015-11-23,19:30,Angels FC,Gibraltar United FC,1,2,A,,,
+GIB,2015-11-27,19:30,Lincoln Red Imps,Britannia FC,3,2,H,,,
+GIB,2015-11-28,16:00,Gibraltar United FC,Manchester 62 FC,1,0,H,,,
+GIB,2015-11-28,18:30,Glacis United FC,Angels FC,0,2,A,,,
+GIB,2015-11-29,15:30,Europa FC,Lions Gibraltar,2,0,H,,,
+GIB,2015-11-30,19:30,Lynx FC,St. Joseph's FC,1,0,H,,,
+GIB,2015-12-02,19:30,Lions Gibraltar,Gibraltar United FC,3,0,H,,,
+GIB,2015-12-04,19:30,Glacis United FC,Manchester 62 FC,1,1,D,,,
+GIB,2015-12-05,16:00,Gibraltar United FC,Britannia FC,1,3,A,,,
+GIB,2015-12-05,18:30,Lincoln Red Imps,Europa FC,2,0,H,,,
+GIB,2015-12-06,15:30,Lynx FC,Angels FC,6,0,H,,,
+GIB,2015-12-07,19:30,Lions Gibraltar,St. Joseph's FC,3,1,H,,,
+GIB,2015-12-11,19:30,Europa FC,Gibraltar United FC,2,0,H,,,
+GIB,2015-12-12,16:00,Angels FC,St. Joseph's FC,0,3,A,,,
+GIB,2015-12-12,18:30,Britannia FC,Glacis United FC,2,3,A,,,
+GIB,2015-12-13,15:30,Lincoln Red Imps,Lions Gibraltar,4,0,H,,,
+GIB,2015-12-14,19:30,Manchester 62 FC,Lynx FC,1,2,A,,,
+GIB,2015-12-18,19:30,Lions Gibraltar,Angels FC,2,0,H,,,
+GIB,2015-12-19,16:00,Lynx FC,Britannia FC,0,3,A,,,
+GIB,2015-12-19,18:30,St. Joseph's FC,Manchester 62 FC,2,0,H,,,
+GIB,2015-12-20,15:30,Glacis United FC,Europa FC,0,2,A,,,
+GIB,2015-12-21,19:30,Gibraltar United FC,Lincoln Red Imps,0,6,A,,,
+GIB,2016-01-02,16:00,Gibraltar United FC,Lions Gibraltar,1,0,H,,,
+GIB,2016-01-02,18:30,Lincoln Red Imps,Glacis United FC,11,0,H,,,
+GIB,2016-01-03,15:30,Manchester 62 FC,Angels FC,4,1,H,,,
+GIB,2016-01-03,18:30,Britannia FC,St. Joseph's FC,4,3,H,,,
+GIB,2016-01-04,19:30,Europa FC,Lynx FC,2,1,H,,,
+GIB,2016-01-08,19:30,Lions Gibraltar,Manchester 62 FC,0,1,A,,,
+GIB,2016-01-09,16:00,Angels FC,Britannia FC,0,3,A,,,
+GIB,2016-01-09,18:30,Lynx FC,Lincoln Red Imps,0,2,A,,,
+GIB,2016-01-10,15:30,St. Joseph's FC,Europa FC,3,1,H,,,
+GIB,2016-01-11,19:30,Glacis United FC,Gibraltar United FC,1,2,A,,,
+GIB,2016-01-15,19:30,Europa FC,Angels FC,3,0,H,,,
+GIB,2016-01-16,16:00,Lincoln Red Imps,St. Joseph's FC,4,0,H,,,
+GIB,2016-01-16,18:30,Britannia FC,Manchester 62 FC,0,2,A,,,
+GIB,2016-01-17,15:30,Gibraltar United FC,Lynx FC,1,3,A,,,
+GIB,2016-01-18,19:30,Glacis United FC,Lions Gibraltar,6,0,H,,,
+GIB,2016-01-22,19:30,Angels FC,Lincoln Red Imps,0,13,A,,,
+GIB,2016-01-23,16:00,St. Joseph's FC,Gibraltar United FC,4,0,H,,,
+GIB,2016-01-23,18:30,Manchester 62 FC,Europa FC,1,1,D,,,
+GIB,2016-01-24,15:30,Lynx FC,Glacis United FC,0,1,A,,,
+GIB,2016-01-25,19:30,Lions Gibraltar,Britannia FC,1,0,H,,,
+GIB,2016-01-29,19:30,Lincoln Red Imps,Manchester 62 FC,4,0,H,,,
+GIB,2016-01-30,16:00,Europa FC,Britannia FC,10,1,H,,,
+GIB,2016-01-30,18:30,Lynx FC,Lions Gibraltar,1,2,A,,,
+GIB,2016-01-31,19:30,Gibraltar United FC,Glacis United FC,1,0,H,,,
+GIB,2016-02-05,19:30,Glacis United FC,St. Joseph's FC,3,5,A,,,
+GIB,2016-02-06,17:30,Gibraltar United FC,Angels FC,1,2,A,,,
+GIB,2016-02-19,19:30,Lions Gibraltar,Europa FC,0,3,A,,,
+GIB,2016-02-20,16:00,Angels FC,Glacis United FC,0,3,A,,,
+GIB,2016-02-20,18:30,St. Joseph's FC,Lynx FC,1,0,H,,,
+GIB,2016-02-21,15:30,Manchester 62 FC,Gibraltar United FC,1,0,H,,,
+GIB,2016-02-22,19:30,Britannia FC,Lincoln Red Imps,0,1,A,,,
+GIB,2016-02-26,19:30,St. Joseph's FC,Lions Gibraltar,2,1,H,,,
+GIB,2016-02-27,15:30,Angels FC,Lynx FC,1,2,A,,,
+GIB,2016-02-27,18:30,Manchester 62 FC,Glacis United FC,1,3,A,,,
+GIB,2016-02-28,15:30,Britannia FC,Gibraltar United FC,0,2,A,,,
+GIB,2016-02-29,19:30,Europa FC,Lincoln Red Imps,2,0,H,,,
+GIB,2016-03-04,19:30,Glacis United FC,Britannia FC,1,0,H,,,
+GIB,2016-03-05,16:00,Gibraltar United FC,Europa FC,1,3,A,,,
+GIB,2016-03-05,18:30,Lynx FC,Manchester 62 FC,3,0,H,,,
+GIB,2016-03-06,15:30,St. Joseph's FC,Angels FC,0,1,A,,,
+GIB,2016-03-07,19:30,Lions Gibraltar,Lincoln Red Imps,1,7,A,,,
+GIB,2016-03-11,19:30,Manchester 62 FC,St. Joseph's FC,3,0,H,,,
+GIB,2016-03-12,16:00,Lincoln Red Imps,Gibraltar United FC,4,0,H,,,
+GIB,2016-03-12,18:30,Europa FC,Glacis United FC,0,1,A,,,
+GIB,2016-03-13,15:30,Angels FC,Lions Gibraltar,0,1,A,,,
+GIB,2016-03-15,19:30,Britannia FC,Lynx FC,0,2,A,,,
+GIB,2016-04-01,19:30,Glacis United FC,Lincoln Red Imps,1,4,A,,,
+GIB,2016-04-02,16:00,Lynx FC,Europa FC,0,1,A,,,
+GIB,2016-04-02,18:30,St. Joseph's FC,Britannia FC,4,0,H,,,
+GIB,2016-04-03,15:30,Angels FC,Manchester 62 FC,1,6,A,,,
+GIB,2016-04-04,19:30,Lions Gibraltar,Gibraltar United FC,1,3,A,,,
+GIB,2016-04-08,19:30,Britannia FC,Angels FC,4,3,H,,,
+GIB,2016-04-09,16:00,Europa FC,St. Joseph's FC,2,1,H,,,
+GIB,2016-04-09,18:30,Manchester 62 FC,Lions Gibraltar,2,2,D,,,
+GIB,2016-04-10,15:30,Gibraltar United FC,Glacis United FC,0,2,A,,,
+GIB,2016-04-11,19:30,Lincoln Red Imps,Lynx FC,4,0,H,,,
+GIB,2016-04-15,19:30,Lions Gibraltar,Glacis United FC,6,3,H,,,
+GIB,2016-04-16,16:00,Manchester 62 FC,Britannia FC,6,0,H,,,
+GIB,2016-04-16,18:30,Lynx FC,Gibraltar United FC,0,1,A,,,
+GIB,2016-04-17,15:30,St. Joseph's FC,Lincoln Red Imps,0,3,A,,,
+GIB,2016-04-18,19:30,Angels FC,Europa FC,0,3,A,,,
+GIB,2016-04-27,19:30,Britannia FC,Lions Gibraltar,1,4,A,,,
+GIB,2016-04-29,19:30,Gibraltar United FC,St. Joseph's FC,1,3,A,,,
+GIB,2016-04-30,16:00,Europa FC,Manchester 62 FC,5,0,H,,,
+GIB,2016-04-30,18:30,Lincoln Red Imps,Angels FC,13,1,H,,,
+GIB,2016-05-01,15:30,Glacis United FC,Lynx FC,2,1,H,,,
+GIB,2016-05-06,19:30,Manchester 62 FC,Lincoln Red Imps,0,4,A,,,
+GIB,2016-05-07,16:00,St. Joseph's FC,Glacis United FC,2,2,D,,,
+GIB,2016-05-07,18:30,Britannia FC,Europa FC,1,16,A,,,
+GIB,2016-05-08,15:30,Lions Gibraltar,Lynx FC,4,1,H,,,
+GIB,2016-05-09,19:30,Angels FC,Gibraltar United FC,1,7,A,,,
+GIB,2016-05-13,19:30,Lincoln Red Imps,Britannia FC,10,0,H,,,
+GIB,2016-05-14,16:00,Gibraltar United FC,Manchester 62 FC,2,2,D,,,
+GIB,2016-05-14,18:30,Lynx FC,St. Joseph's FC,2,4,A,,,
+GIB,2016-05-15,15:30,Europa FC,Lions Gibraltar,0,1,A,,,
+GIB,2016-05-16,19:30,Glacis United FC,Angels FC,6,1,H,,,

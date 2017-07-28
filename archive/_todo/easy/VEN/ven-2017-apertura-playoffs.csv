@@ -1,0 +1,15 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+VEN,2017-05-26,20:00,Caracas FC,Deportivo Anzoátegui,1,0,H,0.0,0.0,D
+VEN,2017-05-27,22:00,Deportivo La Guaira,Deportivo Táchira,3,2,H,1.0,1.0,D
+VEN,2017-05-30,00:00,Monagas,Zamora FC,3,1,H,1.0,1.0,D
+VEN,2017-06-04,20:30,Aragua FC,Carabobo FC,1,0,H,1.0,0.0,H
+VEN,2017-06-11,00:00,Zamora FC,Monagas,1,3,A,1.0,0.0,H
+VEN,2017-06-11,22:00,Deportivo Táchira,Deportivo La Guaira,2,2,D,1.0,1.0,D
+VEN,2017-06-12,00:30,Carabobo FC,Aragua FC,2,0,H,2.0,0.0,H
+VEN,2017-06-12,20:30,Deportivo Anzoátegui,Caracas FC,0,0,D,0.0,0.0,D
+VEN,2017-06-17,22:30,Deportivo La Guaira,Caracas FC,1,2,A,1.0,1.0,D
+VEN,2017-06-18,01:00,Monagas,Carabobo FC,0,0,D,0.0,0.0,D
+VEN,2017-06-21,22:00,Caracas FC,Deportivo La Guaira,1,2,A,0.0,1.0,A
+VEN,2017-06-22,00:30,Carabobo FC,Monagas,1,1,D,,,
+VEN,2017-06-25,23:30,Monagas,Caracas FC,1,0,H,,,
+VEN,2017-07-02,22:00,Caracas FC,Monagas,2,1,H,,,

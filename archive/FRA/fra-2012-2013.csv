@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,10/08/2012,19:45,Montpellier HSC,Toulouse FC,1,1,D,1,0,H
-FRA,11/08/2012,20:00,AS Nancy,Stade Brest,1,0,H,0,0,D
-FRA,11/08/2012,20:00,AS Saint-Étienne,Lille OSC,1,2,A,0,0,D
-FRA,11/08/2012,20:00,ESTAC Troyes,Valenciennes FC,0,1,A,0,1,A
-FRA,11/08/2012,20:00,Évian Thonon Gaillard,Girondins Bordeaux,2,3,A,1,2,A
-FRA,11/08/2012,20:00,FC Sochaux,SC Bastia,2,3,A,1,0,H
-FRA,11/08/2012,20:00,OGC Nice,AC Ajaccio,0,1,A,0,1,A
-FRA,11/08/2012,20:00,Paris Saint-Germain,FC Lorient,2,2,D,0,2,A
-FRA,11/08/2012,20:00,Stade Rennes,Olympique Lyon,0,1,A,0,1,A
-FRA,12/08/2012,20:00,Stade Reims,Olympique Marseille,0,1,A,0,0,D
-FRA,17/08/2012,19:45,Lille OSC,AS Nancy,1,1,D,1,1,D
-FRA,18/08/2012,16:00,Olympique Lyon,ESTAC Troyes,4,1,H,0,0,D
-FRA,18/08/2012,19:00,FC Lorient,Montpellier HSC,2,1,H,0,1,A
-FRA,18/08/2012,19:00,SC Bastia,Stade Reims,2,1,H,0,1,A
-FRA,18/08/2012,19:00,Stade Brest,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,18/08/2012,19:00,Toulouse FC,AS Saint-Étienne,2,1,H,1,0,H
-FRA,18/08/2012,19:00,Valenciennes FC,OGC Nice,0,0,D,0,0,D
-FRA,19/08/2012,16:00,Girondins Bordeaux,Stade Rennes,1,0,H,0,0,D
-FRA,19/08/2012,16:00,Olympique Marseille,FC Sochaux,2,0,H,0,0,D
-FRA,19/08/2012,20:00,AC Ajaccio,Paris Saint-Germain,0,0,D,0,0,D
-FRA,24/08/2012,19:45,Évian Thonon Gaillard,Olympique Lyon,1,1,D,0,0,D
-FRA,25/08/2012,16:00,OGC Nice,Lille OSC,2,2,D,1,1,D
-FRA,25/08/2012,19:00,AS Nancy,Toulouse FC,0,1,A,0,1,A
-FRA,25/08/2012,19:00,ESTAC Troyes,FC Lorient,2,2,D,1,1,D
-FRA,25/08/2012,19:00,Stade Reims,FC Sochaux,1,0,H,0,0,D
-FRA,25/08/2012,19:00,Stade Rennes,SC Bastia,3,2,H,2,1,H
-FRA,25/08/2012,19:00,Valenciennes FC,AC Ajaccio,3,0,H,1,0,H
-FRA,26/08/2012,16:00,AS Saint-Étienne,Stade Brest,4,0,H,2,0,H
-FRA,26/08/2012,16:00,Montpellier HSC,Olympique Marseille,0,1,A,0,0,D
-FRA,26/08/2012,20:00,Paris Saint-Germain,Girondins Bordeaux,0,0,D,0,0,D
-FRA,01/09/2012,16:00,Olympique Lyon,Valenciennes FC,3,2,H,2,1,H
-FRA,01/09/2012,19:00,AC Ajaccio,Évian Thonon Gaillard,2,0,H,2,0,H
-FRA,01/09/2012,19:00,FC Lorient,AS Nancy,3,0,H,2,0,H
-FRA,01/09/2012,19:00,FC Sochaux,Montpellier HSC,1,3,A,0,1,A
-FRA,01/09/2012,19:00,SC Bastia,AS Saint-Étienne,0,3,A,0,2,A
-FRA,01/09/2012,19:00,Stade Brest,ESTAC Troyes,2,1,H,1,0,H
-FRA,01/09/2012,19:00,Toulouse FC,Stade Reims,1,1,D,0,0,D
-FRA,02/09/2012,13:00,Girondins Bordeaux,OGC Nice,1,1,D,0,0,D
-FRA,02/09/2012,16:00,Olympique Marseille,Stade Rennes,3,1,H,1,0,H
-FRA,02/09/2012,20:00,Lille OSC,Paris Saint-Germain,1,2,A,1,2,A
-FRA,14/09/2012,19:45,Paris Saint-Germain,Toulouse FC,2,0,H,1,0,H
-FRA,14/09/2012,19:45,Stade Reims,Montpellier HSC,3,1,H,1,0,H
-FRA,15/09/2012,16:00,ESTAC Troyes,Lille OSC,1,1,D,0,1,A
-FRA,15/09/2012,19:00,AS Saint-Étienne,FC Sochaux,0,1,A,0,0,D
-FRA,15/09/2012,19:00,Évian Thonon Gaillard,SC Bastia,3,0,H,1,0,H
-FRA,15/09/2012,19:00,OGC Nice,Stade Brest,4,2,H,0,0,D
-FRA,15/09/2012,19:00,Valenciennes FC,Girondins Bordeaux,0,0,D,0,0,D
-FRA,16/09/2012,13:00,Stade Rennes,FC Lorient,1,2,A,0,2,A
-FRA,16/09/2012,16:00,Olympique Lyon,AC Ajaccio,2,0,H,1,0,H
-FRA,16/09/2012,20:00,AS Nancy,Olympique Marseille,0,1,A,0,0,D
-FRA,21/09/2012,19:45,Montpellier HSC,AS Saint-Étienne,1,1,D,0,1,A
-FRA,22/09/2012,16:00,SC Bastia,Paris Saint-Germain,0,4,A,0,2,A
-FRA,22/09/2012,19:00,FC Lorient,OGC Nice,1,1,D,0,1,A
-FRA,22/09/2012,19:00,FC Sochaux,ESTAC Troyes,3,1,H,1,1,D
-FRA,22/09/2012,19:00,Stade Brest,Valenciennes FC,2,1,H,0,1,A
-FRA,22/09/2012,19:00,Stade Reims,AS Nancy,2,0,H,1,0,H
-FRA,22/09/2012,19:00,Toulouse FC,Stade Rennes,2,2,D,1,1,D
-FRA,23/09/2012,13:00,Girondins Bordeaux,AC Ajaccio,2,2,D,0,0,D
-FRA,23/09/2012,16:00,Olympique Marseille,Évian Thonon Gaillard,1,0,H,1,0,H
-FRA,23/09/2012,20:00,Lille OSC,Olympique Lyon,1,1,D,1,0,H
-FRA,28/09/2012,19:45,Stade Rennes,Lille OSC,2,0,H,0,0,D
-FRA,29/09/2012,16:30,Paris Saint-Germain,FC Sochaux,2,0,H,2,0,H
-FRA,29/09/2012,19:00,AC Ajaccio,Stade Brest,1,0,H,0,0,D
-FRA,29/09/2012,19:00,AS Nancy,Montpellier HSC,0,2,A,0,0,D
-FRA,29/09/2012,19:00,ESTAC Troyes,Toulouse FC,0,2,A,0,0,D
-FRA,29/09/2012,19:00,Évian Thonon Gaillard,FC Lorient,1,1,D,1,0,H
-FRA,29/09/2012,19:00,OGC Nice,SC Bastia,2,2,D,1,1,D
-FRA,30/09/2012,13:00,Valenciennes FC,Olympique Marseille,4,1,H,3,0,H
-FRA,30/09/2012,16:00,AS Saint-Étienne,Stade Reims,0,0,D,0,0,D
-FRA,30/09/2012,20:00,Olympique Lyon,Girondins Bordeaux,0,2,A,0,0,D
-FRA,05/10/2012,19:45,AS Saint-Étienne,AS Nancy,4,0,H,4,0,H
-FRA,06/10/2012,16:00,Montpellier HSC,Évian Thonon Gaillard,2,3,A,2,1,H
-FRA,06/10/2012,19:00,FC Sochaux,Stade Rennes,0,1,A,0,1,A
-FRA,06/10/2012,19:00,Lille OSC,AC Ajaccio,2,0,H,1,0,H
-FRA,06/10/2012,19:00,SC Bastia,ESTAC Troyes,3,2,H,2,1,H
-FRA,06/10/2012,19:00,Stade Reims,OGC Nice,3,1,H,1,0,H
-FRA,06/10/2012,19:00,Toulouse FC,Valenciennes FC,2,2,D,0,2,A
-FRA,07/10/2012,13:00,Stade Brest,Girondins Bordeaux,1,1,D,1,0,H
-FRA,07/10/2012,16:00,FC Lorient,Olympique Lyon,1,1,D,0,1,A
-FRA,07/10/2012,20:00,Olympique Marseille,Paris Saint-Germain,2,2,D,2,2,D
-FRA,19/10/2012,19:45,Girondins Bordeaux,Lille OSC,1,1,D,1,0,H
-FRA,20/10/2012,16:00,Paris Saint-Germain,Stade Reims,1,0,H,0,0,D
-FRA,20/10/2012,19:00,AS Nancy,FC Sochaux,1,1,D,1,0,H
-FRA,20/10/2012,19:00,Évian Thonon Gaillard,Toulouse FC,0,4,A,0,2,A
-FRA,20/10/2012,19:00,OGC Nice,AS Saint-Étienne,1,1,D,1,0,H
-FRA,20/10/2012,19:00,Stade Rennes,Montpellier HSC,2,1,H,1,0,H
-FRA,20/10/2012,19:00,Valenciennes FC,FC Lorient,6,1,H,2,1,H
-FRA,21/10/2012,13:00,AC Ajaccio,SC Bastia,0,0,D,0,0,D
-FRA,21/10/2012,16:00,Olympique Lyon,Stade Brest,1,0,H,0,0,D
-FRA,21/10/2012,20:00,ESTAC Troyes,Olympique Marseille,1,0,H,0,0,D
-FRA,26/10/2012,19:45,AS Saint-Étienne,Stade Rennes,2,0,H,1,0,H
-FRA,27/10/2012,16:00,Lille OSC,Valenciennes FC,2,1,H,2,0,H
-FRA,27/10/2012,19:00,AS Nancy,Paris Saint-Germain,0,1,A,0,0,D
-FRA,27/10/2012,19:00,Montpellier HSC,OGC Nice,3,1,H,0,0,D
-FRA,27/10/2012,19:00,Stade Reims,ESTAC Troyes,1,1,D,1,0,H
-FRA,27/10/2012,19:00,Toulouse FC,Stade Brest,3,1,H,2,0,H
-FRA,28/10/2012,13:00,FC Lorient,AC Ajaccio,4,4,D,1,4,A
-FRA,28/10/2012,16:00,SC Bastia,Girondins Bordeaux,3,1,H,2,1,H
-FRA,07/11/2012,17:30,FC Sochaux,Évian Thonon Gaillard,2,1,H,2,0,H
-FRA,28/11/2012,20:00,Olympique Marseille,Olympique Lyon,1,4,A,0,2,A
-FRA,02/11/2012,19:45,Stade Brest,FC Lorient,2,0,H,1,0,H
-FRA,03/11/2012,16:00,Paris Saint-Germain,AS Saint-Étienne,1,2,A,0,0,D
-FRA,03/11/2012,19:00,ESTAC Troyes,Montpellier HSC,1,1,D,1,1,D
-FRA,03/11/2012,19:00,Évian Thonon Gaillard,Lille OSC,0,2,A,0,1,A
-FRA,03/11/2012,19:00,OGC Nice,AS Nancy,2,1,H,1,1,D
-FRA,03/11/2012,19:00,Stade Rennes,Stade Reims,1,0,H,1,0,H
-FRA,03/11/2012,19:00,Valenciennes FC,FC Sochaux,3,1,H,2,0,H
-FRA,04/11/2012,13:00,AC Ajaccio,Olympique Marseille,0,2,A,0,0,D
-FRA,04/11/2012,16:00,Olympique Lyon,SC Bastia,5,2,H,2,2,D
-FRA,04/11/2012,20:00,Girondins Bordeaux,Toulouse FC,1,0,H,0,0,D
-FRA,09/11/2012,19:45,AS Nancy,Stade Rennes,1,3,A,0,1,A
-FRA,10/11/2012,16:00,Lille OSC,Stade Brest,1,0,H,1,0,H
-FRA,10/11/2012,19:00,AS Saint-Étienne,ESTAC Troyes,2,0,H,0,0,D
-FRA,10/11/2012,19:00,SC Bastia,Valenciennes FC,2,3,A,1,1,D
-FRA,10/11/2012,19:00,Stade Reims,Évian Thonon Gaillard,1,2,A,0,1,A
-FRA,10/11/2012,19:00,Toulouse FC,AC Ajaccio,2,4,A,1,2,A
-FRA,11/11/2012,13:00,Olympique Marseille,OGC Nice,2,2,D,1,0,H
-FRA,11/11/2012,16:00,FC Lorient,Girondins Bordeaux,0,4,A,0,2,A
-FRA,11/11/2012,16:00,FC Sochaux,Olympique Lyon,1,1,D,0,1,A
-FRA,11/11/2012,20:00,Montpellier HSC,Paris Saint-Germain,1,1,D,0,1,A
-FRA,16/11/2012,19:45,FC Lorient,Lille OSC,2,0,H,1,0,H
-FRA,17/11/2012,16:00,Paris Saint-Germain,Stade Rennes,1,2,A,1,2,A
-FRA,17/11/2012,19:00,AC Ajaccio,FC Sochaux,0,1,A,0,1,A
-FRA,17/11/2012,19:00,ESTAC Troyes,AS Nancy,3,3,D,1,3,A
-FRA,17/11/2012,19:00,Évian Thonon Gaillard,AS Saint-Étienne,2,2,D,0,2,A
-FRA,17/11/2012,19:00,Stade Brest,SC Bastia,3,0,H,1,0,H
-FRA,17/11/2012,19:00,Valenciennes FC,Montpellier HSC,1,1,D,1,1,D
-FRA,18/11/2012,13:00,Olympique Lyon,Stade Reims,3,0,H,1,0,H
-FRA,18/11/2012,16:00,OGC Nice,Toulouse FC,1,0,H,0,0,D
-FRA,18/11/2012,20:00,Girondins Bordeaux,Olympique Marseille,1,0,H,0,0,D
-FRA,23/11/2012,19:45,AS Saint-Étienne,Valenciennes FC,1,0,H,0,0,D
-FRA,24/11/2012,16:00,Paris Saint-Germain,ESTAC Troyes,4,0,H,1,0,H
-FRA,24/11/2012,19:00,AS Nancy,AC Ajaccio,1,1,D,1,0,H
-FRA,24/11/2012,19:00,FC Sochaux,OGC Nice,0,1,A,0,1,A
-FRA,24/11/2012,19:00,SC Bastia,FC Lorient,2,1,H,2,1,H
-FRA,24/11/2012,19:00,Stade Reims,Stade Brest,0,0,D,0,0,D
-FRA,24/11/2012,19:00,Stade Rennes,Évian Thonon Gaillard,0,1,A,0,0,D
-FRA,25/11/2012,13:00,Montpellier HSC,Girondins Bordeaux,1,0,H,0,0,D
-FRA,25/11/2012,16:00,Toulouse FC,Olympique Lyon,3,0,H,0,0,D
-FRA,25/11/2012,20:00,Olympique Marseille,Lille OSC,1,0,H,0,0,D
-FRA,30/11/2012,19:45,AC Ajaccio,AS Saint-Étienne,0,0,D,0,0,D
-FRA,01/12/2012,16:00,Olympique Lyon,Montpellier HSC,1,0,H,1,0,H
-FRA,01/12/2012,19:00,Évian Thonon Gaillard,AS Nancy,1,1,D,1,0,H
-FRA,01/12/2012,19:00,Girondins Bordeaux,FC Sochaux,2,2,D,1,1,D
-FRA,01/12/2012,19:00,Lille OSC,SC Bastia,0,0,D,0,0,D
-FRA,01/12/2012,19:00,OGC Nice,Paris Saint-Germain,2,1,H,0,0,D
-FRA,01/12/2012,19:00,Valenciennes FC,Stade Reims,1,0,H,1,0,H
-FRA,02/12/2012,13:00,Stade Brest,Olympique Marseille,1,2,A,1,1,D
-FRA,02/12/2012,16:00,ESTAC Troyes,Stade Rennes,2,3,A,2,0,H
-FRA,02/12/2012,20:00,FC Lorient,Toulouse FC,1,0,H,1,0,H
-FRA,07/12/2012,19:45,Toulouse FC,SC Bastia,0,0,D,0,0,D
-FRA,08/12/2012,16:00,Paris Saint-Germain,Évian Thonon Gaillard,4,0,H,2,0,H
-FRA,08/12/2012,19:00,AS Nancy,Valenciennes FC,1,1,D,1,0,H
-FRA,08/12/2012,19:00,ESTAC Troyes,OGC Nice,1,1,D,1,0,H
-FRA,08/12/2012,19:00,FC Sochaux,Lille OSC,1,1,D,0,0,D
-FRA,08/12/2012,19:00,Montpellier HSC,AC Ajaccio,3,0,H,2,0,H
-FRA,08/12/2012,19:00,Stade Rennes,Stade Brest,2,2,D,0,0,D
-FRA,09/12/2012,13:00,Stade Reims,Girondins Bordeaux,0,0,D,0,0,D
-FRA,09/12/2012,16:00,Olympique Marseille,FC Lorient,0,3,A,0,1,A
-FRA,09/12/2012,20:00,AS Saint-Étienne,Olympique Lyon,0,1,A,0,0,D
-FRA,11/12/2012,18:00,OGC Nice,Stade Rennes,1,0,H,0,0,D
-FRA,11/12/2012,18:00,Valenciennes FC,Paris Saint-Germain,0,4,A,0,1,A
-FRA,11/12/2012,20:00,Lille OSC,Toulouse FC,2,0,H,0,0,D
-FRA,12/12/2012,18:00,AC Ajaccio,Stade Reims,2,0,H,1,0,H
-FRA,12/12/2012,18:00,Évian Thonon Gaillard,ESTAC Troyes,2,0,H,1,0,H
-FRA,12/12/2012,18:00,FC Lorient,FC Sochaux,2,0,H,1,0,H
-FRA,12/12/2012,18:00,Olympique Lyon,AS Nancy,1,1,D,0,0,D
-FRA,12/12/2012,18:00,Stade Brest,Montpellier HSC,1,2,A,1,1,D
-FRA,12/12/2012,20:00,SC Bastia,Olympique Marseille,1,2,A,0,1,A
-FRA,13/12/2012,20:00,Girondins Bordeaux,AS Saint-Étienne,0,0,D,0,0,D
-FRA,14/12/2012,19:45,Stade Rennes,Valenciennes FC,2,0,H,1,0,H
-FRA,15/12/2012,16:00,Toulouse FC,Olympique Marseille,0,1,A,0,0,D
-FRA,15/12/2012,19:00,ESTAC Troyes,AC Ajaccio,3,2,H,3,0,H
-FRA,15/12/2012,19:00,FC Sochaux,Stade Brest,1,2,A,0,0,D
-FRA,15/12/2012,19:00,Montpellier HSC,SC Bastia,4,0,H,1,0,H
-FRA,15/12/2012,19:00,OGC Nice,Évian Thonon Gaillard,3,2,H,1,2,A
-FRA,15/12/2012,19:00,Stade Reims,Lille OSC,1,1,D,1,0,H
-FRA,16/12/2012,13:00,AS Nancy,Girondins Bordeaux,1,1,D,1,0,H
-FRA,16/12/2012,16:00,AS Saint-Étienne,FC Lorient,0,2,A,0,2,A
-FRA,16/12/2012,20:00,Paris Saint-Germain,Olympique Lyon,1,0,H,1,0,H
-FRA,21/12/2012,19:45,Stade Brest,Paris Saint-Germain,0,3,A,0,0,D
-FRA,22/12/2012,16:00,Lille OSC,Montpellier HSC,4,1,H,2,0,H
-FRA,22/12/2012,19:00,AC Ajaccio,Stade Rennes,2,4,A,2,2,D
-FRA,22/12/2012,19:00,FC Lorient,Stade Reims,2,2,D,0,1,A
-FRA,22/12/2012,19:00,Girondins Bordeaux,ESTAC Troyes,0,0,D,0,0,D
-FRA,22/12/2012,19:00,Olympique Lyon,OGC Nice,3,0,H,1,0,H
-FRA,22/12/2012,19:00,SC Bastia,AS Nancy,4,2,H,3,0,H
-FRA,23/12/2012,13:00,Valenciennes FC,Évian Thonon Gaillard,2,1,H,1,1,D
-FRA,23/12/2012,16:00,Toulouse FC,FC Sochaux,2,0,H,1,0,H
-FRA,23/12/2012,20:00,Olympique Marseille,AS Saint-Étienne,1,0,H,1,0,H
-FRA,11/01/2013,18:00,AS Saint-Étienne,Toulouse FC,2,2,D,1,2,A
-FRA,11/01/2013,20:00,Paris Saint-Germain,AC Ajaccio,0,0,D,0,0,D
-FRA,12/01/2013,16:00,ESTAC Troyes,Olympique Lyon,1,2,A,1,1,D
-FRA,12/01/2013,19:00,AS Nancy,Lille OSC,2,2,D,1,2,A
-FRA,12/01/2013,19:00,Évian Thonon Gaillard,Stade Brest,0,2,A,0,1,A
-FRA,12/01/2013,19:00,Montpellier HSC,FC Lorient,2,0,H,0,0,D
-FRA,12/01/2013,19:00,Stade Rennes,Girondins Bordeaux,0,2,A,0,0,D
-FRA,13/01/2013,13:00,Stade Reims,SC Bastia,1,2,A,0,1,A
-FRA,13/01/2013,16:00,OGC Nice,Valenciennes FC,5,0,H,1,0,H
-FRA,13/01/2013,20:00,FC Sochaux,Olympique Marseille,3,1,H,2,0,H
-FRA,18/01/2013,19:30,Olympique Lyon,Évian Thonon Gaillard,0,0,D,0,0,D
-FRA,19/01/2013,15:00,FC Sochaux,Stade Reims,1,0,H,1,0,H
-FRA,19/01/2013,16:00,Olympique Marseille,Montpellier HSC,3,2,H,1,1,D
-FRA,19/01/2013,19:00,AC Ajaccio,Valenciennes FC,1,1,D,1,0,H
-FRA,19/01/2013,19:00,FC Lorient,ESTAC Troyes,3,2,H,2,0,H
-FRA,19/01/2013,19:00,Stade Brest,AS Saint-Étienne,0,1,A,0,0,D
-FRA,19/01/2013,19:00,Toulouse FC,AS Nancy,2,1,H,0,0,D
-FRA,20/01/2013,13:00,SC Bastia,Stade Rennes,0,2,A,0,1,A
-FRA,20/01/2013,16:00,Lille OSC,OGC Nice,0,2,A,0,0,D
-FRA,20/01/2013,20:00,Girondins Bordeaux,Paris Saint-Germain,0,1,A,0,1,A
-FRA,25/01/2013,19:30,Valenciennes FC,Olympique Lyon,0,2,A,0,2,A
-FRA,26/01/2013,16:00,Stade Rennes,Olympique Marseille,2,2,D,0,1,A
-FRA,26/01/2013,19:00,AS Nancy,FC Lorient,2,1,H,1,0,H
-FRA,26/01/2013,19:00,ESTAC Troyes,Stade Brest,2,1,H,1,0,H
-FRA,26/01/2013,19:00,Évian Thonon Gaillard,AC Ajaccio,1,1,D,0,1,A
-FRA,26/01/2013,19:00,Montpellier HSC,FC Sochaux,2,0,H,2,0,H
-FRA,26/01/2013,19:00,Stade Reims,Toulouse FC,1,1,D,0,0,D
-FRA,27/01/2013,13:00,AS Saint-Étienne,SC Bastia,3,0,H,1,0,H
-FRA,27/01/2013,16:00,OGC Nice,Girondins Bordeaux,0,1,A,0,0,D
-FRA,27/01/2013,20:00,Paris Saint-Germain,Lille OSC,1,0,H,0,0,D
-FRA,01/02/2013,19:30,Toulouse FC,Paris Saint-Germain,0,4,A,0,2,A
-FRA,02/02/2013,16:00,FC Lorient,Stade Rennes,2,2,D,1,0,H
-FRA,02/02/2013,19:00,FC Sochaux,AS Saint-Étienne,1,2,A,0,1,A
-FRA,02/02/2013,19:00,Girondins Bordeaux,Valenciennes FC,2,0,H,1,0,H
-FRA,02/02/2013,19:00,Lille OSC,ESTAC Troyes,1,1,D,0,1,A
-FRA,02/02/2013,19:00,SC Bastia,Évian Thonon Gaillard,0,0,D,0,0,D
-FRA,02/02/2013,19:00,Stade Brest,OGC Nice,0,2,A,0,1,A
-FRA,03/02/2013,13:00,AC Ajaccio,Olympique Lyon,3,1,H,0,0,D
-FRA,03/02/2013,16:00,Montpellier HSC,Stade Reims,3,1,H,0,1,A
-FRA,03/02/2013,20:00,Olympique Marseille,AS Nancy,0,1,A,0,0,D
-FRA,08/02/2013,19:30,Paris Saint-Germain,SC Bastia,3,1,H,0,0,D
-FRA,09/02/2013,16:00,AS Saint-Étienne,Montpellier HSC,4,1,H,2,0,H
-FRA,09/02/2013,19:00,AC Ajaccio,Girondins Bordeaux,1,0,H,1,0,H
-FRA,09/02/2013,19:00,AS Nancy,Stade Reims,1,2,A,1,0,H
-FRA,09/02/2013,19:00,ESTAC Troyes,FC Sochaux,0,0,D,0,0,D
-FRA,09/02/2013,19:00,OGC Nice,FC Lorient,1,1,D,0,0,D
-FRA,09/02/2013,19:00,Valenciennes FC,Stade Brest,2,1,H,2,0,H
-FRA,10/02/2013,13:00,Évian Thonon Gaillard,Olympique Marseille,1,1,D,0,0,D
-FRA,10/02/2013,16:00,Stade Rennes,Toulouse FC,2,0,H,0,0,D
-FRA,10/02/2013,20:00,Olympique Lyon,Lille OSC,1,3,A,0,2,A
-FRA,15/02/2013,19:30,Lille OSC,Stade Rennes,2,0,H,1,0,H
-FRA,16/02/2013,16:00,Olympique Marseille,Valenciennes FC,1,0,H,0,0,D
-FRA,16/02/2013,19:00,FC Lorient,Évian Thonon Gaillard,2,1,H,1,0,H
-FRA,16/02/2013,19:00,Montpellier HSC,AS Nancy,1,0,H,1,0,H
-FRA,16/02/2013,19:00,SC Bastia,OGC Nice,0,1,A,0,0,D
-FRA,16/02/2013,19:00,Stade Brest,AC Ajaccio,1,1,D,1,0,H
-FRA,16/02/2013,19:00,Toulouse FC,ESTAC Troyes,2,2,D,0,0,D
-FRA,17/02/2013,13:00,Girondins Bordeaux,Olympique Lyon,0,4,A,0,1,A
-FRA,17/02/2013,16:00,Stade Reims,AS Saint-Étienne,1,1,D,0,1,A
-FRA,17/02/2013,20:00,FC Sochaux,Paris Saint-Germain,3,2,H,1,1,D
-FRA,22/02/2013,19:30,OGC Nice,Stade Reims,2,0,H,1,0,H
-FRA,23/02/2013,16:00,Stade Rennes,FC Sochaux,2,2,D,1,1,D
-FRA,23/02/2013,19:00,AC Ajaccio,Lille OSC,1,3,A,0,1,A
-FRA,23/02/2013,19:00,AS Nancy,AS Saint-Étienne,0,3,A,0,2,A
-FRA,23/02/2013,19:00,ESTAC Troyes,SC Bastia,0,0,D,0,0,D
-FRA,23/02/2013,19:00,Évian Thonon Gaillard,Montpellier HSC,0,1,A,0,0,D
-FRA,23/02/2013,19:00,Valenciennes FC,Toulouse FC,0,0,D,0,0,D
-FRA,24/02/2013,13:00,Olympique Lyon,FC Lorient,3,1,H,1,1,D
-FRA,24/02/2013,16:00,Girondins Bordeaux,Stade Brest,0,2,A,0,1,A
-FRA,24/02/2013,20:00,Paris Saint-Germain,Olympique Marseille,2,0,H,1,0,H
-FRA,01/03/2013,19:30,Montpellier HSC,Stade Rennes,2,0,H,0,0,D
-FRA,02/03/2013,16:00,Stade Reims,Paris Saint-Germain,1,0,H,0,0,D
-FRA,02/03/2013,19:00,AS Saint-Étienne,OGC Nice,4,0,H,1,0,H
-FRA,02/03/2013,19:00,FC Lorient,Valenciennes FC,1,1,D,1,0,H
-FRA,02/03/2013,19:00,FC Sochaux,AS Nancy,1,2,A,0,2,A
-FRA,02/03/2013,19:00,SC Bastia,AC Ajaccio,1,0,H,0,0,D
-FRA,02/03/2013,19:00,Toulouse FC,Évian Thonon Gaillard,0,0,D,0,0,D
-FRA,03/03/2013,13:00,Stade Brest,Olympique Lyon,1,1,D,1,0,H
-FRA,03/03/2013,16:00,Olympique Marseille,ESTAC Troyes,2,1,H,0,0,D
-FRA,03/03/2013,20:00,Lille OSC,Girondins Bordeaux,2,1,H,0,1,A
-FRA,08/03/2013,19:30,Stade Rennes,AS Saint-Étienne,2,2,D,1,1,D
-FRA,09/03/2013,16:00,Paris Saint-Germain,AS Nancy,2,1,H,0,1,A
-FRA,09/03/2013,19:00,AC Ajaccio,FC Lorient,1,0,H,0,0,D
-FRA,09/03/2013,19:00,ESTAC Troyes,Stade Reims,4,2,H,1,0,H
-FRA,09/03/2013,19:00,Évian Thonon Gaillard,FC Sochaux,5,1,H,1,0,H
-FRA,09/03/2013,19:00,Stade Brest,Toulouse FC,0,1,A,0,1,A
-FRA,09/03/2013,19:00,Valenciennes FC,Lille OSC,1,3,A,1,0,H
-FRA,10/03/2013,13:00,OGC Nice,Montpellier HSC,2,0,H,2,0,H
-FRA,10/03/2013,16:00,Girondins Bordeaux,SC Bastia,1,0,H,0,0,D
-FRA,10/03/2013,20:00,Olympique Lyon,Olympique Marseille,0,0,D,0,0,D
-FRA,15/03/2013,19:30,Olympique Marseille,AC Ajaccio,0,0,D,0,0,D
-FRA,16/03/2013,16:00,SC Bastia,Olympique Lyon,4,1,H,1,0,H
-FRA,16/03/2013,19:00,FC Lorient,Stade Brest,4,0,H,3,0,H
-FRA,16/03/2013,19:00,FC Sochaux,Valenciennes FC,1,1,D,1,0,H
-FRA,16/03/2013,19:00,Lille OSC,Évian Thonon Gaillard,1,2,A,1,1,D
-FRA,16/03/2013,19:00,Montpellier HSC,ESTAC Troyes,1,1,D,1,0,H
-FRA,16/03/2013,19:00,Stade Reims,Stade Rennes,1,0,H,1,0,H
-FRA,17/03/2013,13:00,AS Nancy,OGC Nice,1,0,H,1,0,H
-FRA,17/03/2013,16:00,Toulouse FC,Girondins Bordeaux,0,0,D,0,0,D
-FRA,17/03/2013,20:00,AS Saint-Étienne,Paris Saint-Germain,2,2,D,1,2,A
-FRA,29/03/2013,19:30,Paris Saint-Germain,Montpellier HSC,1,0,H,0,0,D
-FRA,30/03/2013,16:00,ESTAC Troyes,AS Saint-Étienne,2,2,D,2,2,D
-FRA,30/03/2013,19:00,AC Ajaccio,Toulouse FC,2,3,A,2,2,D
-FRA,30/03/2013,19:00,Évian Thonon Gaillard,Stade Reims,2,2,D,0,1,A
-FRA,30/03/2013,19:00,Girondins Bordeaux,FC Lorient,1,1,D,0,1,A
-FRA,30/03/2013,19:00,Stade Rennes,AS Nancy,0,2,A,0,0,D
-FRA,30/03/2013,19:00,Valenciennes FC,SC Bastia,3,4,A,2,1,H
-FRA,31/03/2013,13:00,OGC Nice,Olympique Marseille,0,1,A,0,1,A
-FRA,31/03/2013,16:00,Stade Brest,Lille OSC,1,2,A,1,1,D
-FRA,31/03/2013,20:00,Olympique Lyon,FC Sochaux,1,2,A,0,0,D
-FRA,05/04/2013,19:30,Olympique Marseille,Girondins Bordeaux,1,0,H,1,0,H
-FRA,06/04/2013,16:00,Stade Rennes,Paris Saint-Germain,0,2,A,0,0,D
-FRA,06/04/2013,19:00,AS Nancy,ESTAC Troyes,1,0,H,0,0,D
-FRA,06/04/2013,19:00,FC Sochaux,AC Ajaccio,0,0,D,0,0,D
-FRA,06/04/2013,19:00,Montpellier HSC,Valenciennes FC,3,1,H,1,1,D
-FRA,06/04/2013,19:00,SC Bastia,Stade Brest,4,0,H,1,0,H
-FRA,06/04/2013,19:00,Toulouse FC,OGC Nice,3,4,A,2,2,D
-FRA,07/04/2013,13:00,AS Saint-Étienne,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,07/04/2013,16:00,Stade Reims,Olympique Lyon,1,0,H,0,0,D
-FRA,07/04/2013,20:00,Lille OSC,FC Lorient,5,0,H,4,0,H
-FRA,12/04/2013,19:30,Valenciennes FC,AS Saint-Étienne,0,0,D,0,0,D
-FRA,13/04/2013,16:00,ESTAC Troyes,Paris Saint-Germain,0,1,A,0,0,D
-FRA,13/04/2013,19:00,AC Ajaccio,AS Nancy,1,1,D,1,1,D
-FRA,13/04/2013,19:00,Évian Thonon Gaillard,Stade Rennes,4,2,H,2,1,H
-FRA,13/04/2013,19:00,FC Lorient,SC Bastia,4,1,H,1,0,H
-FRA,13/04/2013,19:00,Girondins Bordeaux,Montpellier HSC,4,2,H,3,1,H
-FRA,13/04/2013,19:00,Stade Brest,Stade Reims,0,2,A,0,1,A
-FRA,14/04/2013,13:00,OGC Nice,FC Sochaux,3,0,H,0,0,D
-FRA,14/04/2013,16:00,Olympique Lyon,Toulouse FC,3,1,H,1,1,D
-FRA,14/04/2013,20:00,Lille OSC,Olympique Marseille,0,0,D,0,0,D
-FRA,19/04/2013,19:30,Montpellier HSC,Olympique Lyon,1,2,A,1,1,D
-FRA,20/04/2013,16:00,Olympique Marseille,Stade Brest,1,0,H,1,0,H
-FRA,21/04/2013,13:00,SC Bastia,Lille OSC,1,2,A,0,0,D
-FRA,21/04/2013,16:00,AS Nancy,Évian Thonon Gaillard,3,1,H,1,1,D
-FRA,21/04/2013,16:00,FC Sochaux,Girondins Bordeaux,2,2,D,1,0,H
-FRA,21/04/2013,16:00,Stade Reims,Valenciennes FC,0,1,A,0,0,D
-FRA,21/04/2013,16:00,Toulouse FC,FC Lorient,0,1,A,0,0,D
-FRA,21/04/2013,20:00,Paris Saint-Germain,OGC Nice,3,0,H,1,0,H
-FRA,24/04/2013,17:30,AS Saint-Étienne,AC Ajaccio,4,2,H,1,1,D
-FRA,24/04/2013,17:30,Stade Rennes,ESTAC Troyes,1,2,A,1,2,A
-FRA,26/04/2013,19:30,Lille OSC,FC Sochaux,3,3,D,2,0,H
-FRA,27/04/2013,16:00,FC Lorient,Olympique Marseille,0,1,A,0,1,A
-FRA,27/04/2013,19:00,AC Ajaccio,Montpellier HSC,2,1,H,0,0,D
-FRA,27/04/2013,19:00,Girondins Bordeaux,Stade Reims,0,0,D,0,0,D
-FRA,27/04/2013,19:00,SC Bastia,Toulouse FC,0,0,D,0,0,D
-FRA,27/04/2013,19:00,Stade Brest,Stade Rennes,0,2,A,0,2,A
-FRA,27/04/2013,19:00,Valenciennes FC,AS Nancy,0,0,D,0,0,D
-FRA,28/04/2013,13:00,Olympique Lyon,AS Saint-Étienne,1,1,D,0,1,A
-FRA,28/04/2013,16:00,OGC Nice,ESTAC Troyes,3,1,H,2,1,H
-FRA,28/04/2013,20:00,Évian Thonon Gaillard,Paris Saint-Germain,0,1,A,0,0,D
-FRA,03/05/2013,19:30,AS Saint-Étienne,Girondins Bordeaux,0,0,D,0,0,D
-FRA,04/05/2013,16:00,Olympique Marseille,SC Bastia,2,1,H,1,0,H
-FRA,04/05/2013,19:00,ESTAC Troyes,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,04/05/2013,19:00,FC Sochaux,FC Lorient,1,0,H,1,0,H
-FRA,04/05/2013,19:00,Montpellier HSC,Stade Brest,2,1,H,1,1,D
-FRA,04/05/2013,19:00,Stade Reims,AC Ajaccio,1,1,D,1,1,D
-FRA,04/05/2013,19:00,Toulouse FC,Lille OSC,4,2,H,2,1,H
-FRA,05/05/2013,13:00,Stade Rennes,OGC Nice,0,3,A,0,0,D
-FRA,05/05/2013,16:00,AS Nancy,Olympique Lyon,0,3,A,0,0,D
-FRA,05/05/2013,20:00,Paris Saint-Germain,Valenciennes FC,1,1,D,0,1,A
-FRA,10/05/2013,19:30,Lille OSC,Stade Reims,3,0,H,1,0,H
-FRA,11/05/2013,16:00,Olympique Marseille,Toulouse FC,2,1,H,1,0,H
-FRA,11/05/2013,19:00,AC Ajaccio,ESTAC Troyes,0,1,A,0,1,A
-FRA,11/05/2013,19:00,Girondins Bordeaux,AS Nancy,3,2,H,2,0,H
-FRA,11/05/2013,19:00,SC Bastia,Montpellier HSC,3,1,H,2,1,H
-FRA,11/05/2013,19:00,Stade Brest,FC Sochaux,0,2,A,0,0,D
-FRA,11/05/2013,19:00,Valenciennes FC,Stade Rennes,4,1,H,1,1,D
-FRA,12/05/2013,13:00,FC Lorient,AS Saint-Étienne,3,1,H,0,0,D
-FRA,12/05/2013,16:00,Évian Thonon Gaillard,OGC Nice,4,0,H,1,0,H
-FRA,12/05/2013,20:00,Olympique Lyon,Paris Saint-Germain,0,1,A,0,0,D
-FRA,18/05/2013,20:00,AS Nancy,SC Bastia,1,2,A,0,0,D
-FRA,18/05/2013,20:00,AS Saint-Étienne,Olympique Marseille,2,0,H,2,0,H
-FRA,18/05/2013,20:00,ESTAC Troyes,Girondins Bordeaux,1,0,H,0,0,D
-FRA,18/05/2013,20:00,Évian Thonon Gaillard,Valenciennes FC,2,0,H,2,0,H
-FRA,18/05/2013,20:00,FC Sochaux,Toulouse FC,1,2,A,1,2,A
-FRA,18/05/2013,20:00,Montpellier HSC,Lille OSC,0,0,D,0,0,D
-FRA,18/05/2013,20:00,Paris Saint-Germain,Stade Brest,3,1,H,3,0,H
-FRA,18/05/2013,20:00,Stade Reims,FC Lorient,1,0,H,1,0,H
-FRA,18/05/2013,20:00,Stade Rennes,AC Ajaccio,1,1,D,1,1,D
-FRA,19/05/2013,14:05,OGC Nice,Olympique Lyon,1,1,D,0,0,D
-FRA,26/05/2013,20:00,AC Ajaccio,OGC Nice,0,2,A,0,0,D
-FRA,26/05/2013,20:00,FC Lorient,Paris Saint-Germain,1,3,A,0,0,D
-FRA,26/05/2013,20:00,Girondins Bordeaux,Évian Thonon Gaillard,2,1,H,2,1,H
-FRA,26/05/2013,20:00,Lille OSC,AS Saint-Étienne,1,1,D,1,0,H
-FRA,26/05/2013,20:00,Olympique Marseille,Stade Reims,0,0,D,0,0,D
-FRA,26/05/2013,20:00,Olympique Lyon,Stade Rennes,2,0,H,1,0,H
-FRA,26/05/2013,20:00,SC Bastia,FC Sochaux,0,0,D,0,0,D
-FRA,26/05/2013,20:00,Stade Brest,AS Nancy,1,2,A,0,2,A
-FRA,26/05/2013,20:00,Toulouse FC,Montpellier HSC,2,0,H,2,0,H
-FRA,26/05/2013,20:00,Valenciennes FC,ESTAC Troyes,2,1,H,0,1,A
+FRA,2012-08-10,19:45,Montpellier HSC,Toulouse FC,1,1,D,1,0,H
+FRA,2012-08-11,20:00,AS Nancy,Stade Brest,1,0,H,0,0,D
+FRA,2012-08-11,20:00,AS Saint-Étienne,Lille OSC,1,2,A,0,0,D
+FRA,2012-08-11,20:00,ESTAC Troyes,Valenciennes FC,0,1,A,0,1,A
+FRA,2012-08-11,20:00,Évian Thonon Gaillard,Girondins Bordeaux,2,3,A,1,2,A
+FRA,2012-08-11,20:00,FC Sochaux,SC Bastia,2,3,A,1,0,H
+FRA,2012-08-11,20:00,OGC Nice,AC Ajaccio,0,1,A,0,1,A
+FRA,2012-08-11,20:00,Paris Saint-Germain,FC Lorient,2,2,D,0,2,A
+FRA,2012-08-11,20:00,Stade Rennes,Olympique Lyon,0,1,A,0,1,A
+FRA,2012-08-12,20:00,Stade Reims,Olympique Marseille,0,1,A,0,0,D
+FRA,2012-08-17,19:45,Lille OSC,AS Nancy,1,1,D,1,1,D
+FRA,2012-08-18,16:00,Olympique Lyon,ESTAC Troyes,4,1,H,0,0,D
+FRA,2012-08-18,19:00,FC Lorient,Montpellier HSC,2,1,H,0,1,A
+FRA,2012-08-18,19:00,SC Bastia,Stade Reims,2,1,H,0,1,A
+FRA,2012-08-18,19:00,Stade Brest,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2012-08-18,19:00,Toulouse FC,AS Saint-Étienne,2,1,H,1,0,H
+FRA,2012-08-18,19:00,Valenciennes FC,OGC Nice,0,0,D,0,0,D
+FRA,2012-08-19,16:00,Girondins Bordeaux,Stade Rennes,1,0,H,0,0,D
+FRA,2012-08-19,16:00,Olympique Marseille,FC Sochaux,2,0,H,0,0,D
+FRA,2012-08-19,20:00,AC Ajaccio,Paris Saint-Germain,0,0,D,0,0,D
+FRA,2012-08-24,19:45,Évian Thonon Gaillard,Olympique Lyon,1,1,D,0,0,D
+FRA,2012-08-25,16:00,OGC Nice,Lille OSC,2,2,D,1,1,D
+FRA,2012-08-25,19:00,AS Nancy,Toulouse FC,0,1,A,0,1,A
+FRA,2012-08-25,19:00,ESTAC Troyes,FC Lorient,2,2,D,1,1,D
+FRA,2012-08-25,19:00,Stade Reims,FC Sochaux,1,0,H,0,0,D
+FRA,2012-08-25,19:00,Stade Rennes,SC Bastia,3,2,H,2,1,H
+FRA,2012-08-25,19:00,Valenciennes FC,AC Ajaccio,3,0,H,1,0,H
+FRA,2012-08-26,16:00,AS Saint-Étienne,Stade Brest,4,0,H,2,0,H
+FRA,2012-08-26,16:00,Montpellier HSC,Olympique Marseille,0,1,A,0,0,D
+FRA,2012-08-26,20:00,Paris Saint-Germain,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2012-09-01,16:00,Olympique Lyon,Valenciennes FC,3,2,H,2,1,H
+FRA,2012-09-01,19:00,AC Ajaccio,Évian Thonon Gaillard,2,0,H,2,0,H
+FRA,2012-09-01,19:00,FC Lorient,AS Nancy,3,0,H,2,0,H
+FRA,2012-09-01,19:00,FC Sochaux,Montpellier HSC,1,3,A,0,1,A
+FRA,2012-09-01,19:00,SC Bastia,AS Saint-Étienne,0,3,A,0,2,A
+FRA,2012-09-01,19:00,Stade Brest,ESTAC Troyes,2,1,H,1,0,H
+FRA,2012-09-01,19:00,Toulouse FC,Stade Reims,1,1,D,0,0,D
+FRA,2012-09-02,13:00,Girondins Bordeaux,OGC Nice,1,1,D,0,0,D
+FRA,2012-09-02,16:00,Olympique Marseille,Stade Rennes,3,1,H,1,0,H
+FRA,2012-09-02,20:00,Lille OSC,Paris Saint-Germain,1,2,A,1,2,A
+FRA,2012-09-14,19:45,Paris Saint-Germain,Toulouse FC,2,0,H,1,0,H
+FRA,2012-09-14,19:45,Stade Reims,Montpellier HSC,3,1,H,1,0,H
+FRA,2012-09-15,16:00,ESTAC Troyes,Lille OSC,1,1,D,0,1,A
+FRA,2012-09-15,19:00,AS Saint-Étienne,FC Sochaux,0,1,A,0,0,D
+FRA,2012-09-15,19:00,Évian Thonon Gaillard,SC Bastia,3,0,H,1,0,H
+FRA,2012-09-15,19:00,OGC Nice,Stade Brest,4,2,H,0,0,D
+FRA,2012-09-15,19:00,Valenciennes FC,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2012-09-16,13:00,Stade Rennes,FC Lorient,1,2,A,0,2,A
+FRA,2012-09-16,16:00,Olympique Lyon,AC Ajaccio,2,0,H,1,0,H
+FRA,2012-09-16,20:00,AS Nancy,Olympique Marseille,0,1,A,0,0,D
+FRA,2012-09-21,19:45,Montpellier HSC,AS Saint-Étienne,1,1,D,0,1,A
+FRA,2012-09-22,16:00,SC Bastia,Paris Saint-Germain,0,4,A,0,2,A
+FRA,2012-09-22,19:00,FC Lorient,OGC Nice,1,1,D,0,1,A
+FRA,2012-09-22,19:00,FC Sochaux,ESTAC Troyes,3,1,H,1,1,D
+FRA,2012-09-22,19:00,Stade Brest,Valenciennes FC,2,1,H,0,1,A
+FRA,2012-09-22,19:00,Stade Reims,AS Nancy,2,0,H,1,0,H
+FRA,2012-09-22,19:00,Toulouse FC,Stade Rennes,2,2,D,1,1,D
+FRA,2012-09-23,13:00,Girondins Bordeaux,AC Ajaccio,2,2,D,0,0,D
+FRA,2012-09-23,16:00,Olympique Marseille,Évian Thonon Gaillard,1,0,H,1,0,H
+FRA,2012-09-23,20:00,Lille OSC,Olympique Lyon,1,1,D,1,0,H
+FRA,2012-09-28,19:45,Stade Rennes,Lille OSC,2,0,H,0,0,D
+FRA,2012-09-29,16:30,Paris Saint-Germain,FC Sochaux,2,0,H,2,0,H
+FRA,2012-09-29,19:00,AC Ajaccio,Stade Brest,1,0,H,0,0,D
+FRA,2012-09-29,19:00,AS Nancy,Montpellier HSC,0,2,A,0,0,D
+FRA,2012-09-29,19:00,ESTAC Troyes,Toulouse FC,0,2,A,0,0,D
+FRA,2012-09-29,19:00,Évian Thonon Gaillard,FC Lorient,1,1,D,1,0,H
+FRA,2012-09-29,19:00,OGC Nice,SC Bastia,2,2,D,1,1,D
+FRA,2012-09-30,13:00,Valenciennes FC,Olympique Marseille,4,1,H,3,0,H
+FRA,2012-09-30,16:00,AS Saint-Étienne,Stade Reims,0,0,D,0,0,D
+FRA,2012-09-30,20:00,Olympique Lyon,Girondins Bordeaux,0,2,A,0,0,D
+FRA,2012-10-05,19:45,AS Saint-Étienne,AS Nancy,4,0,H,4,0,H
+FRA,2012-10-06,16:00,Montpellier HSC,Évian Thonon Gaillard,2,3,A,2,1,H
+FRA,2012-10-06,19:00,FC Sochaux,Stade Rennes,0,1,A,0,1,A
+FRA,2012-10-06,19:00,Lille OSC,AC Ajaccio,2,0,H,1,0,H
+FRA,2012-10-06,19:00,SC Bastia,ESTAC Troyes,3,2,H,2,1,H
+FRA,2012-10-06,19:00,Stade Reims,OGC Nice,3,1,H,1,0,H
+FRA,2012-10-06,19:00,Toulouse FC,Valenciennes FC,2,2,D,0,2,A
+FRA,2012-10-07,13:00,Stade Brest,Girondins Bordeaux,1,1,D,1,0,H
+FRA,2012-10-07,16:00,FC Lorient,Olympique Lyon,1,1,D,0,1,A
+FRA,2012-10-07,20:00,Olympique Marseille,Paris Saint-Germain,2,2,D,2,2,D
+FRA,2012-10-19,19:45,Girondins Bordeaux,Lille OSC,1,1,D,1,0,H
+FRA,2012-10-20,16:00,Paris Saint-Germain,Stade Reims,1,0,H,0,0,D
+FRA,2012-10-20,19:00,AS Nancy,FC Sochaux,1,1,D,1,0,H
+FRA,2012-10-20,19:00,Évian Thonon Gaillard,Toulouse FC,0,4,A,0,2,A
+FRA,2012-10-20,19:00,OGC Nice,AS Saint-Étienne,1,1,D,1,0,H
+FRA,2012-10-20,19:00,Stade Rennes,Montpellier HSC,2,1,H,1,0,H
+FRA,2012-10-20,19:00,Valenciennes FC,FC Lorient,6,1,H,2,1,H
+FRA,2012-10-21,13:00,AC Ajaccio,SC Bastia,0,0,D,0,0,D
+FRA,2012-10-21,16:00,Olympique Lyon,Stade Brest,1,0,H,0,0,D
+FRA,2012-10-21,20:00,ESTAC Troyes,Olympique Marseille,1,0,H,0,0,D
+FRA,2012-10-26,19:45,AS Saint-Étienne,Stade Rennes,2,0,H,1,0,H
+FRA,2012-10-27,16:00,Lille OSC,Valenciennes FC,2,1,H,2,0,H
+FRA,2012-10-27,19:00,AS Nancy,Paris Saint-Germain,0,1,A,0,0,D
+FRA,2012-10-27,19:00,Montpellier HSC,OGC Nice,3,1,H,0,0,D
+FRA,2012-10-27,19:00,Stade Reims,ESTAC Troyes,1,1,D,1,0,H
+FRA,2012-10-27,19:00,Toulouse FC,Stade Brest,3,1,H,2,0,H
+FRA,2012-10-28,13:00,FC Lorient,AC Ajaccio,4,4,D,1,4,A
+FRA,2012-10-28,16:00,SC Bastia,Girondins Bordeaux,3,1,H,2,1,H
+FRA,2012-11-02,19:45,Stade Brest,FC Lorient,2,0,H,1,0,H
+FRA,2012-11-03,16:00,Paris Saint-Germain,AS Saint-Étienne,1,2,A,0,0,D
+FRA,2012-11-03,19:00,ESTAC Troyes,Montpellier HSC,1,1,D,1,1,D
+FRA,2012-11-03,19:00,Évian Thonon Gaillard,Lille OSC,0,2,A,0,1,A
+FRA,2012-11-03,19:00,OGC Nice,AS Nancy,2,1,H,1,1,D
+FRA,2012-11-03,19:00,Stade Rennes,Stade Reims,1,0,H,1,0,H
+FRA,2012-11-03,19:00,Valenciennes FC,FC Sochaux,3,1,H,2,0,H
+FRA,2012-11-04,13:00,AC Ajaccio,Olympique Marseille,0,2,A,0,0,D
+FRA,2012-11-04,16:00,Olympique Lyon,SC Bastia,5,2,H,2,2,D
+FRA,2012-11-04,20:00,Girondins Bordeaux,Toulouse FC,1,0,H,0,0,D
+FRA,2012-11-07,17:30,FC Sochaux,Évian Thonon Gaillard,2,1,H,2,0,H
+FRA,2012-11-09,19:45,AS Nancy,Stade Rennes,1,3,A,0,1,A
+FRA,2012-11-10,16:00,Lille OSC,Stade Brest,1,0,H,1,0,H
+FRA,2012-11-10,19:00,AS Saint-Étienne,ESTAC Troyes,2,0,H,0,0,D
+FRA,2012-11-10,19:00,SC Bastia,Valenciennes FC,2,3,A,1,1,D
+FRA,2012-11-10,19:00,Stade Reims,Évian Thonon Gaillard,1,2,A,0,1,A
+FRA,2012-11-10,19:00,Toulouse FC,AC Ajaccio,2,4,A,1,2,A
+FRA,2012-11-11,13:00,Olympique Marseille,OGC Nice,2,2,D,1,0,H
+FRA,2012-11-11,16:00,FC Lorient,Girondins Bordeaux,0,4,A,0,2,A
+FRA,2012-11-11,16:00,FC Sochaux,Olympique Lyon,1,1,D,0,1,A
+FRA,2012-11-11,20:00,Montpellier HSC,Paris Saint-Germain,1,1,D,0,1,A
+FRA,2012-11-16,19:45,FC Lorient,Lille OSC,2,0,H,1,0,H
+FRA,2012-11-17,16:00,Paris Saint-Germain,Stade Rennes,1,2,A,1,2,A
+FRA,2012-11-17,19:00,AC Ajaccio,FC Sochaux,0,1,A,0,1,A
+FRA,2012-11-17,19:00,ESTAC Troyes,AS Nancy,3,3,D,1,3,A
+FRA,2012-11-17,19:00,Évian Thonon Gaillard,AS Saint-Étienne,2,2,D,0,2,A
+FRA,2012-11-17,19:00,Stade Brest,SC Bastia,3,0,H,1,0,H
+FRA,2012-11-17,19:00,Valenciennes FC,Montpellier HSC,1,1,D,1,1,D
+FRA,2012-11-18,13:00,Olympique Lyon,Stade Reims,3,0,H,1,0,H
+FRA,2012-11-18,16:00,OGC Nice,Toulouse FC,1,0,H,0,0,D
+FRA,2012-11-18,20:00,Girondins Bordeaux,Olympique Marseille,1,0,H,0,0,D
+FRA,2012-11-23,19:45,AS Saint-Étienne,Valenciennes FC,1,0,H,0,0,D
+FRA,2012-11-24,16:00,Paris Saint-Germain,ESTAC Troyes,4,0,H,1,0,H
+FRA,2012-11-24,19:00,AS Nancy,AC Ajaccio,1,1,D,1,0,H
+FRA,2012-11-24,19:00,FC Sochaux,OGC Nice,0,1,A,0,1,A
+FRA,2012-11-24,19:00,SC Bastia,FC Lorient,2,1,H,2,1,H
+FRA,2012-11-24,19:00,Stade Reims,Stade Brest,0,0,D,0,0,D
+FRA,2012-11-24,19:00,Stade Rennes,Évian Thonon Gaillard,0,1,A,0,0,D
+FRA,2012-11-25,13:00,Montpellier HSC,Girondins Bordeaux,1,0,H,0,0,D
+FRA,2012-11-25,16:00,Toulouse FC,Olympique Lyon,3,0,H,0,0,D
+FRA,2012-11-25,20:00,Olympique Marseille,Lille OSC,1,0,H,0,0,D
+FRA,2012-11-28,20:00,Olympique Marseille,Olympique Lyon,1,4,A,0,2,A
+FRA,2012-11-30,19:45,AC Ajaccio,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2012-12-01,16:00,Olympique Lyon,Montpellier HSC,1,0,H,1,0,H
+FRA,2012-12-01,19:00,Évian Thonon Gaillard,AS Nancy,1,1,D,1,0,H
+FRA,2012-12-01,19:00,Girondins Bordeaux,FC Sochaux,2,2,D,1,1,D
+FRA,2012-12-01,19:00,Lille OSC,SC Bastia,0,0,D,0,0,D
+FRA,2012-12-01,19:00,OGC Nice,Paris Saint-Germain,2,1,H,0,0,D
+FRA,2012-12-01,19:00,Valenciennes FC,Stade Reims,1,0,H,1,0,H
+FRA,2012-12-02,13:00,Stade Brest,Olympique Marseille,1,2,A,1,1,D
+FRA,2012-12-02,16:00,ESTAC Troyes,Stade Rennes,2,3,A,2,0,H
+FRA,2012-12-02,20:00,FC Lorient,Toulouse FC,1,0,H,1,0,H
+FRA,2012-12-07,19:45,Toulouse FC,SC Bastia,0,0,D,0,0,D
+FRA,2012-12-08,16:00,Paris Saint-Germain,Évian Thonon Gaillard,4,0,H,2,0,H
+FRA,2012-12-08,19:00,AS Nancy,Valenciennes FC,1,1,D,1,0,H
+FRA,2012-12-08,19:00,ESTAC Troyes,OGC Nice,1,1,D,1,0,H
+FRA,2012-12-08,19:00,FC Sochaux,Lille OSC,1,1,D,0,0,D
+FRA,2012-12-08,19:00,Montpellier HSC,AC Ajaccio,3,0,H,2,0,H
+FRA,2012-12-08,19:00,Stade Rennes,Stade Brest,2,2,D,0,0,D
+FRA,2012-12-09,13:00,Stade Reims,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2012-12-09,16:00,Olympique Marseille,FC Lorient,0,3,A,0,1,A
+FRA,2012-12-09,20:00,AS Saint-Étienne,Olympique Lyon,0,1,A,0,0,D
+FRA,2012-12-11,18:00,OGC Nice,Stade Rennes,1,0,H,0,0,D
+FRA,2012-12-11,18:00,Valenciennes FC,Paris Saint-Germain,0,4,A,0,1,A
+FRA,2012-12-11,20:00,Lille OSC,Toulouse FC,2,0,H,0,0,D
+FRA,2012-12-12,18:00,AC Ajaccio,Stade Reims,2,0,H,1,0,H
+FRA,2012-12-12,18:00,Évian Thonon Gaillard,ESTAC Troyes,2,0,H,1,0,H
+FRA,2012-12-12,18:00,FC Lorient,FC Sochaux,2,0,H,1,0,H
+FRA,2012-12-12,18:00,Olympique Lyon,AS Nancy,1,1,D,0,0,D
+FRA,2012-12-12,18:00,Stade Brest,Montpellier HSC,1,2,A,1,1,D
+FRA,2012-12-12,20:00,SC Bastia,Olympique Marseille,1,2,A,0,1,A
+FRA,2012-12-13,20:00,Girondins Bordeaux,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2012-12-14,19:45,Stade Rennes,Valenciennes FC,2,0,H,1,0,H
+FRA,2012-12-15,16:00,Toulouse FC,Olympique Marseille,0,1,A,0,0,D
+FRA,2012-12-15,19:00,ESTAC Troyes,AC Ajaccio,3,2,H,3,0,H
+FRA,2012-12-15,19:00,FC Sochaux,Stade Brest,1,2,A,0,0,D
+FRA,2012-12-15,19:00,Montpellier HSC,SC Bastia,4,0,H,1,0,H
+FRA,2012-12-15,19:00,OGC Nice,Évian Thonon Gaillard,3,2,H,1,2,A
+FRA,2012-12-15,19:00,Stade Reims,Lille OSC,1,1,D,1,0,H
+FRA,2012-12-16,13:00,AS Nancy,Girondins Bordeaux,1,1,D,1,0,H
+FRA,2012-12-16,16:00,AS Saint-Étienne,FC Lorient,0,2,A,0,2,A
+FRA,2012-12-16,20:00,Paris Saint-Germain,Olympique Lyon,1,0,H,1,0,H
+FRA,2012-12-21,19:45,Stade Brest,Paris Saint-Germain,0,3,A,0,0,D
+FRA,2012-12-22,16:00,Lille OSC,Montpellier HSC,4,1,H,2,0,H
+FRA,2012-12-22,19:00,AC Ajaccio,Stade Rennes,2,4,A,2,2,D
+FRA,2012-12-22,19:00,FC Lorient,Stade Reims,2,2,D,0,1,A
+FRA,2012-12-22,19:00,Girondins Bordeaux,ESTAC Troyes,0,0,D,0,0,D
+FRA,2012-12-22,19:00,Olympique Lyon,OGC Nice,3,0,H,1,0,H
+FRA,2012-12-22,19:00,SC Bastia,AS Nancy,4,2,H,3,0,H
+FRA,2012-12-23,13:00,Valenciennes FC,Évian Thonon Gaillard,2,1,H,1,1,D
+FRA,2012-12-23,16:00,Toulouse FC,FC Sochaux,2,0,H,1,0,H
+FRA,2012-12-23,20:00,Olympique Marseille,AS Saint-Étienne,1,0,H,1,0,H
+FRA,2013-01-11,18:00,AS Saint-Étienne,Toulouse FC,2,2,D,1,2,A
+FRA,2013-01-11,20:00,Paris Saint-Germain,AC Ajaccio,0,0,D,0,0,D
+FRA,2013-01-12,16:00,ESTAC Troyes,Olympique Lyon,1,2,A,1,1,D
+FRA,2013-01-12,19:00,AS Nancy,Lille OSC,2,2,D,1,2,A
+FRA,2013-01-12,19:00,Évian Thonon Gaillard,Stade Brest,0,2,A,0,1,A
+FRA,2013-01-12,19:00,Montpellier HSC,FC Lorient,2,0,H,0,0,D
+FRA,2013-01-12,19:00,Stade Rennes,Girondins Bordeaux,0,2,A,0,0,D
+FRA,2013-01-13,13:00,Stade Reims,SC Bastia,1,2,A,0,1,A
+FRA,2013-01-13,16:00,OGC Nice,Valenciennes FC,5,0,H,1,0,H
+FRA,2013-01-13,20:00,FC Sochaux,Olympique Marseille,3,1,H,2,0,H
+FRA,2013-01-18,19:30,Olympique Lyon,Évian Thonon Gaillard,0,0,D,0,0,D
+FRA,2013-01-19,15:00,FC Sochaux,Stade Reims,1,0,H,1,0,H
+FRA,2013-01-19,16:00,Olympique Marseille,Montpellier HSC,3,2,H,1,1,D
+FRA,2013-01-19,19:00,AC Ajaccio,Valenciennes FC,1,1,D,1,0,H
+FRA,2013-01-19,19:00,FC Lorient,ESTAC Troyes,3,2,H,2,0,H
+FRA,2013-01-19,19:00,Stade Brest,AS Saint-Étienne,0,1,A,0,0,D
+FRA,2013-01-19,19:00,Toulouse FC,AS Nancy,2,1,H,0,0,D
+FRA,2013-01-20,13:00,SC Bastia,Stade Rennes,0,2,A,0,1,A
+FRA,2013-01-20,16:00,Lille OSC,OGC Nice,0,2,A,0,0,D
+FRA,2013-01-20,20:00,Girondins Bordeaux,Paris Saint-Germain,0,1,A,0,1,A
+FRA,2013-01-25,19:30,Valenciennes FC,Olympique Lyon,0,2,A,0,2,A
+FRA,2013-01-26,16:00,Stade Rennes,Olympique Marseille,2,2,D,0,1,A
+FRA,2013-01-26,19:00,AS Nancy,FC Lorient,2,1,H,1,0,H
+FRA,2013-01-26,19:00,ESTAC Troyes,Stade Brest,2,1,H,1,0,H
+FRA,2013-01-26,19:00,Évian Thonon Gaillard,AC Ajaccio,1,1,D,0,1,A
+FRA,2013-01-26,19:00,Montpellier HSC,FC Sochaux,2,0,H,2,0,H
+FRA,2013-01-26,19:00,Stade Reims,Toulouse FC,1,1,D,0,0,D
+FRA,2013-01-27,13:00,AS Saint-Étienne,SC Bastia,3,0,H,1,0,H
+FRA,2013-01-27,16:00,OGC Nice,Girondins Bordeaux,0,1,A,0,0,D
+FRA,2013-01-27,20:00,Paris Saint-Germain,Lille OSC,1,0,H,0,0,D
+FRA,2013-02-01,19:30,Toulouse FC,Paris Saint-Germain,0,4,A,0,2,A
+FRA,2013-02-02,16:00,FC Lorient,Stade Rennes,2,2,D,1,0,H
+FRA,2013-02-02,19:00,FC Sochaux,AS Saint-Étienne,1,2,A,0,1,A
+FRA,2013-02-02,19:00,Girondins Bordeaux,Valenciennes FC,2,0,H,1,0,H
+FRA,2013-02-02,19:00,Lille OSC,ESTAC Troyes,1,1,D,0,1,A
+FRA,2013-02-02,19:00,SC Bastia,Évian Thonon Gaillard,0,0,D,0,0,D
+FRA,2013-02-02,19:00,Stade Brest,OGC Nice,0,2,A,0,1,A
+FRA,2013-02-03,13:00,AC Ajaccio,Olympique Lyon,3,1,H,0,0,D
+FRA,2013-02-03,16:00,Montpellier HSC,Stade Reims,3,1,H,0,1,A
+FRA,2013-02-03,20:00,Olympique Marseille,AS Nancy,0,1,A,0,0,D
+FRA,2013-02-08,19:30,Paris Saint-Germain,SC Bastia,3,1,H,0,0,D
+FRA,2013-02-09,16:00,AS Saint-Étienne,Montpellier HSC,4,1,H,2,0,H
+FRA,2013-02-09,19:00,AC Ajaccio,Girondins Bordeaux,1,0,H,1,0,H
+FRA,2013-02-09,19:00,AS Nancy,Stade Reims,1,2,A,1,0,H
+FRA,2013-02-09,19:00,ESTAC Troyes,FC Sochaux,0,0,D,0,0,D
+FRA,2013-02-09,19:00,OGC Nice,FC Lorient,1,1,D,0,0,D
+FRA,2013-02-09,19:00,Valenciennes FC,Stade Brest,2,1,H,2,0,H
+FRA,2013-02-10,13:00,Évian Thonon Gaillard,Olympique Marseille,1,1,D,0,0,D
+FRA,2013-02-10,16:00,Stade Rennes,Toulouse FC,2,0,H,0,0,D
+FRA,2013-02-10,20:00,Olympique Lyon,Lille OSC,1,3,A,0,2,A
+FRA,2013-02-15,19:30,Lille OSC,Stade Rennes,2,0,H,1,0,H
+FRA,2013-02-16,16:00,Olympique Marseille,Valenciennes FC,1,0,H,0,0,D
+FRA,2013-02-16,19:00,FC Lorient,Évian Thonon Gaillard,2,1,H,1,0,H
+FRA,2013-02-16,19:00,Montpellier HSC,AS Nancy,1,0,H,1,0,H
+FRA,2013-02-16,19:00,SC Bastia,OGC Nice,0,1,A,0,0,D
+FRA,2013-02-16,19:00,Stade Brest,AC Ajaccio,1,1,D,1,0,H
+FRA,2013-02-16,19:00,Toulouse FC,ESTAC Troyes,2,2,D,0,0,D
+FRA,2013-02-17,13:00,Girondins Bordeaux,Olympique Lyon,0,4,A,0,1,A
+FRA,2013-02-17,16:00,Stade Reims,AS Saint-Étienne,1,1,D,0,1,A
+FRA,2013-02-17,20:00,FC Sochaux,Paris Saint-Germain,3,2,H,1,1,D
+FRA,2013-02-22,19:30,OGC Nice,Stade Reims,2,0,H,1,0,H
+FRA,2013-02-23,16:00,Stade Rennes,FC Sochaux,2,2,D,1,1,D
+FRA,2013-02-23,19:00,AC Ajaccio,Lille OSC,1,3,A,0,1,A
+FRA,2013-02-23,19:00,AS Nancy,AS Saint-Étienne,0,3,A,0,2,A
+FRA,2013-02-23,19:00,ESTAC Troyes,SC Bastia,0,0,D,0,0,D
+FRA,2013-02-23,19:00,Évian Thonon Gaillard,Montpellier HSC,0,1,A,0,0,D
+FRA,2013-02-23,19:00,Valenciennes FC,Toulouse FC,0,0,D,0,0,D
+FRA,2013-02-24,13:00,Olympique Lyon,FC Lorient,3,1,H,1,1,D
+FRA,2013-02-24,16:00,Girondins Bordeaux,Stade Brest,0,2,A,0,1,A
+FRA,2013-02-24,20:00,Paris Saint-Germain,Olympique Marseille,2,0,H,1,0,H
+FRA,2013-03-01,19:30,Montpellier HSC,Stade Rennes,2,0,H,0,0,D
+FRA,2013-03-02,16:00,Stade Reims,Paris Saint-Germain,1,0,H,0,0,D
+FRA,2013-03-02,19:00,AS Saint-Étienne,OGC Nice,4,0,H,1,0,H
+FRA,2013-03-02,19:00,FC Lorient,Valenciennes FC,1,1,D,1,0,H
+FRA,2013-03-02,19:00,FC Sochaux,AS Nancy,1,2,A,0,2,A
+FRA,2013-03-02,19:00,SC Bastia,AC Ajaccio,1,0,H,0,0,D
+FRA,2013-03-02,19:00,Toulouse FC,Évian Thonon Gaillard,0,0,D,0,0,D
+FRA,2013-03-03,13:00,Stade Brest,Olympique Lyon,1,1,D,1,0,H
+FRA,2013-03-03,16:00,Olympique Marseille,ESTAC Troyes,2,1,H,0,0,D
+FRA,2013-03-03,20:00,Lille OSC,Girondins Bordeaux,2,1,H,0,1,A
+FRA,2013-03-08,19:30,Stade Rennes,AS Saint-Étienne,2,2,D,1,1,D
+FRA,2013-03-09,16:00,Paris Saint-Germain,AS Nancy,2,1,H,0,1,A
+FRA,2013-03-09,19:00,AC Ajaccio,FC Lorient,1,0,H,0,0,D
+FRA,2013-03-09,19:00,ESTAC Troyes,Stade Reims,4,2,H,1,0,H
+FRA,2013-03-09,19:00,Évian Thonon Gaillard,FC Sochaux,5,1,H,1,0,H
+FRA,2013-03-09,19:00,Stade Brest,Toulouse FC,0,1,A,0,1,A
+FRA,2013-03-09,19:00,Valenciennes FC,Lille OSC,1,3,A,1,0,H
+FRA,2013-03-10,13:00,OGC Nice,Montpellier HSC,2,0,H,2,0,H
+FRA,2013-03-10,16:00,Girondins Bordeaux,SC Bastia,1,0,H,0,0,D
+FRA,2013-03-10,20:00,Olympique Lyon,Olympique Marseille,0,0,D,0,0,D
+FRA,2013-03-15,19:30,Olympique Marseille,AC Ajaccio,0,0,D,0,0,D
+FRA,2013-03-16,16:00,SC Bastia,Olympique Lyon,4,1,H,1,0,H
+FRA,2013-03-16,19:00,FC Lorient,Stade Brest,4,0,H,3,0,H
+FRA,2013-03-16,19:00,FC Sochaux,Valenciennes FC,1,1,D,1,0,H
+FRA,2013-03-16,19:00,Lille OSC,Évian Thonon Gaillard,1,2,A,1,1,D
+FRA,2013-03-16,19:00,Montpellier HSC,ESTAC Troyes,1,1,D,1,0,H
+FRA,2013-03-16,19:00,Stade Reims,Stade Rennes,1,0,H,1,0,H
+FRA,2013-03-17,13:00,AS Nancy,OGC Nice,1,0,H,1,0,H
+FRA,2013-03-17,16:00,Toulouse FC,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2013-03-17,20:00,AS Saint-Étienne,Paris Saint-Germain,2,2,D,1,2,A
+FRA,2013-03-29,19:30,Paris Saint-Germain,Montpellier HSC,1,0,H,0,0,D
+FRA,2013-03-30,16:00,ESTAC Troyes,AS Saint-Étienne,2,2,D,2,2,D
+FRA,2013-03-30,19:00,AC Ajaccio,Toulouse FC,2,3,A,2,2,D
+FRA,2013-03-30,19:00,Évian Thonon Gaillard,Stade Reims,2,2,D,0,1,A
+FRA,2013-03-30,19:00,Girondins Bordeaux,FC Lorient,1,1,D,0,1,A
+FRA,2013-03-30,19:00,Stade Rennes,AS Nancy,0,2,A,0,0,D
+FRA,2013-03-30,19:00,Valenciennes FC,SC Bastia,3,4,A,2,1,H
+FRA,2013-03-31,13:00,OGC Nice,Olympique Marseille,0,1,A,0,1,A
+FRA,2013-03-31,16:00,Stade Brest,Lille OSC,1,2,A,1,1,D
+FRA,2013-03-31,20:00,Olympique Lyon,FC Sochaux,1,2,A,0,0,D
+FRA,2013-04-05,19:30,Olympique Marseille,Girondins Bordeaux,1,0,H,1,0,H
+FRA,2013-04-06,16:00,Stade Rennes,Paris Saint-Germain,0,2,A,0,0,D
+FRA,2013-04-06,19:00,AS Nancy,ESTAC Troyes,1,0,H,0,0,D
+FRA,2013-04-06,19:00,FC Sochaux,AC Ajaccio,0,0,D,0,0,D
+FRA,2013-04-06,19:00,Montpellier HSC,Valenciennes FC,3,1,H,1,1,D
+FRA,2013-04-06,19:00,SC Bastia,Stade Brest,4,0,H,1,0,H
+FRA,2013-04-06,19:00,Toulouse FC,OGC Nice,3,4,A,2,2,D
+FRA,2013-04-07,13:00,AS Saint-Étienne,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2013-04-07,16:00,Stade Reims,Olympique Lyon,1,0,H,0,0,D
+FRA,2013-04-07,20:00,Lille OSC,FC Lorient,5,0,H,4,0,H
+FRA,2013-04-12,19:30,Valenciennes FC,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2013-04-13,16:00,ESTAC Troyes,Paris Saint-Germain,0,1,A,0,0,D
+FRA,2013-04-13,19:00,AC Ajaccio,AS Nancy,1,1,D,1,1,D
+FRA,2013-04-13,19:00,Évian Thonon Gaillard,Stade Rennes,4,2,H,2,1,H
+FRA,2013-04-13,19:00,FC Lorient,SC Bastia,4,1,H,1,0,H
+FRA,2013-04-13,19:00,Girondins Bordeaux,Montpellier HSC,4,2,H,3,1,H
+FRA,2013-04-13,19:00,Stade Brest,Stade Reims,0,2,A,0,1,A
+FRA,2013-04-14,13:00,OGC Nice,FC Sochaux,3,0,H,0,0,D
+FRA,2013-04-14,16:00,Olympique Lyon,Toulouse FC,3,1,H,1,1,D
+FRA,2013-04-14,20:00,Lille OSC,Olympique Marseille,0,0,D,0,0,D
+FRA,2013-04-19,19:30,Montpellier HSC,Olympique Lyon,1,2,A,1,1,D
+FRA,2013-04-20,16:00,Olympique Marseille,Stade Brest,1,0,H,1,0,H
+FRA,2013-04-21,13:00,SC Bastia,Lille OSC,1,2,A,0,0,D
+FRA,2013-04-21,16:00,AS Nancy,Évian Thonon Gaillard,3,1,H,1,1,D
+FRA,2013-04-21,16:00,FC Sochaux,Girondins Bordeaux,2,2,D,1,0,H
+FRA,2013-04-21,16:00,Stade Reims,Valenciennes FC,0,1,A,0,0,D
+FRA,2013-04-21,16:00,Toulouse FC,FC Lorient,0,1,A,0,0,D
+FRA,2013-04-21,20:00,Paris Saint-Germain,OGC Nice,3,0,H,1,0,H
+FRA,2013-04-24,17:30,AS Saint-Étienne,AC Ajaccio,4,2,H,1,1,D
+FRA,2013-04-24,17:30,Stade Rennes,ESTAC Troyes,1,2,A,1,2,A
+FRA,2013-04-26,19:30,Lille OSC,FC Sochaux,3,3,D,2,0,H
+FRA,2013-04-27,16:00,FC Lorient,Olympique Marseille,0,1,A,0,1,A
+FRA,2013-04-27,19:00,AC Ajaccio,Montpellier HSC,2,1,H,0,0,D
+FRA,2013-04-27,19:00,Girondins Bordeaux,Stade Reims,0,0,D,0,0,D
+FRA,2013-04-27,19:00,SC Bastia,Toulouse FC,0,0,D,0,0,D
+FRA,2013-04-27,19:00,Stade Brest,Stade Rennes,0,2,A,0,2,A
+FRA,2013-04-27,19:00,Valenciennes FC,AS Nancy,0,0,D,0,0,D
+FRA,2013-04-28,13:00,Olympique Lyon,AS Saint-Étienne,1,1,D,0,1,A
+FRA,2013-04-28,16:00,OGC Nice,ESTAC Troyes,3,1,H,2,1,H
+FRA,2013-04-28,20:00,Évian Thonon Gaillard,Paris Saint-Germain,0,1,A,0,0,D
+FRA,2013-05-03,19:30,AS Saint-Étienne,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2013-05-04,16:00,Olympique Marseille,SC Bastia,2,1,H,1,0,H
+FRA,2013-05-04,19:00,ESTAC Troyes,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2013-05-04,19:00,FC Sochaux,FC Lorient,1,0,H,1,0,H
+FRA,2013-05-04,19:00,Montpellier HSC,Stade Brest,2,1,H,1,1,D
+FRA,2013-05-04,19:00,Stade Reims,AC Ajaccio,1,1,D,1,1,D
+FRA,2013-05-04,19:00,Toulouse FC,Lille OSC,4,2,H,2,1,H
+FRA,2013-05-05,13:00,Stade Rennes,OGC Nice,0,3,A,0,0,D
+FRA,2013-05-05,16:00,AS Nancy,Olympique Lyon,0,3,A,0,0,D
+FRA,2013-05-05,20:00,Paris Saint-Germain,Valenciennes FC,1,1,D,0,1,A
+FRA,2013-05-10,19:30,Lille OSC,Stade Reims,3,0,H,1,0,H
+FRA,2013-05-11,16:00,Olympique Marseille,Toulouse FC,2,1,H,1,0,H
+FRA,2013-05-11,19:00,AC Ajaccio,ESTAC Troyes,0,1,A,0,1,A
+FRA,2013-05-11,19:00,Girondins Bordeaux,AS Nancy,3,2,H,2,0,H
+FRA,2013-05-11,19:00,SC Bastia,Montpellier HSC,3,1,H,2,1,H
+FRA,2013-05-11,19:00,Stade Brest,FC Sochaux,0,2,A,0,0,D
+FRA,2013-05-11,19:00,Valenciennes FC,Stade Rennes,4,1,H,1,1,D
+FRA,2013-05-12,13:00,FC Lorient,AS Saint-Étienne,3,1,H,0,0,D
+FRA,2013-05-12,16:00,Évian Thonon Gaillard,OGC Nice,4,0,H,1,0,H
+FRA,2013-05-12,20:00,Olympique Lyon,Paris Saint-Germain,0,1,A,0,0,D
+FRA,2013-05-18,20:00,AS Nancy,SC Bastia,1,2,A,0,0,D
+FRA,2013-05-18,20:00,AS Saint-Étienne,Olympique Marseille,2,0,H,2,0,H
+FRA,2013-05-18,20:00,ESTAC Troyes,Girondins Bordeaux,1,0,H,0,0,D
+FRA,2013-05-18,20:00,Évian Thonon Gaillard,Valenciennes FC,2,0,H,2,0,H
+FRA,2013-05-18,20:00,FC Sochaux,Toulouse FC,1,2,A,1,2,A
+FRA,2013-05-18,20:00,Montpellier HSC,Lille OSC,0,0,D,0,0,D
+FRA,2013-05-18,20:00,Paris Saint-Germain,Stade Brest,3,1,H,3,0,H
+FRA,2013-05-18,20:00,Stade Reims,FC Lorient,1,0,H,1,0,H
+FRA,2013-05-18,20:00,Stade Rennes,AC Ajaccio,1,1,D,1,1,D
+FRA,2013-05-19,14:05,OGC Nice,Olympique Lyon,1,1,D,0,0,D
+FRA,2013-05-26,20:00,AC Ajaccio,OGC Nice,0,2,A,0,0,D
+FRA,2013-05-26,20:00,FC Lorient,Paris Saint-Germain,1,3,A,0,0,D
+FRA,2013-05-26,20:00,Girondins Bordeaux,Évian Thonon Gaillard,2,1,H,2,1,H
+FRA,2013-05-26,20:00,Lille OSC,AS Saint-Étienne,1,1,D,1,0,H
+FRA,2013-05-26,20:00,Olympique Marseille,Stade Reims,0,0,D,0,0,D
+FRA,2013-05-26,20:00,Olympique Lyon,Stade Rennes,2,0,H,1,0,H
+FRA,2013-05-26,20:00,SC Bastia,FC Sochaux,0,0,D,0,0,D
+FRA,2013-05-26,20:00,Stade Brest,AS Nancy,1,2,A,0,2,A
+FRA,2013-05-26,20:00,Toulouse FC,Montpellier HSC,2,0,H,2,0,H
+FRA,2013-05-26,20:00,Valenciennes FC,ESTAC Troyes,2,1,H,0,1,A

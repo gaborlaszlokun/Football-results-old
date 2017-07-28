@@ -1,133 +1,133 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-NOR,28/04/1974,,Hamarkameratene,Mjøndalen IF,2,0,H,NaN,NaN,NaN
-NOR,28/04/1974,,Molde FK,Raufoss IL,2,1,H,NaN,NaN,NaN
-NOR,28/04/1974,,Sarpsborg FK,SK Brann,2,5,A,NaN,NaN,NaN
-NOR,28/04/1974,,Skeid Oslo,IK Start,1,0,H,NaN,NaN,NaN
-NOR,28/04/1974,,Strømsgodset IF,Vålerenga IF,2,0,H,NaN,NaN,NaN
-NOR,28/04/1974,,Viking FK,Rosenborg BK,0,0,D,NaN,NaN,NaN
-NOR,05/05/1974,,Raufoss IL,Viking FK,0,1,A,NaN,NaN,NaN
-NOR,05/05/1974,,Rosenborg BK,Hamarkameratene,1,1,D,NaN,NaN,NaN
-NOR,05/05/1974,,Mjøndalen IF,Skeid Oslo,3,1,H,NaN,NaN,NaN
-NOR,05/05/1974,,IK Start,Strømsgodset IF,1,1,D,NaN,NaN,NaN
-NOR,06/05/1974,,SK Brann,Molde FK,0,4,A,NaN,NaN,NaN
-NOR,06/05/1974,,Vålerenga IF,Sarpsborg FK,3,0,H,NaN,NaN,NaN
-NOR,12/05/1974,,Hamarkameratene,IK Start,0,1,A,NaN,NaN,NaN
-NOR,12/05/1974,,Molde FK,Mjøndalen IF,2,0,H,NaN,NaN,NaN
-NOR,12/05/1974,,Sarpsborg FK,Rosenborg BK,0,3,A,NaN,NaN,NaN
-NOR,12/05/1974,,Strømsgodset IF,Raufoss IL,5,0,H,NaN,NaN,NaN
-NOR,12/05/1974,,Vålerenga IF,SK Brann,0,3,A,NaN,NaN,NaN
-NOR,12/05/1974,,Skeid Oslo,Viking FK,0,1,A,NaN,NaN,NaN
-NOR,15/05/1974,,SK Brann,Strømsgodset IF,0,0,D,NaN,NaN,NaN
-NOR,15/05/1974,,Mjøndalen IF,Viking FK,0,2,A,NaN,NaN,NaN
-NOR,15/05/1974,,Rosenborg BK,Molde FK,2,1,H,NaN,NaN,NaN
-NOR,16/05/1974,,Raufoss IL,Sarpsborg FK,0,2,A,NaN,NaN,NaN
-NOR,16/05/1974,,Skeid Oslo,Hamarkameratene,2,1,H,NaN,NaN,NaN
-NOR,16/05/1974,,IK Start,Vålerenga IF,2,0,H,NaN,NaN,NaN
-NOR,19/05/1974,,SK Brann,IK Start,2,2,D,NaN,NaN,NaN
-NOR,19/05/1974,,Molde FK,Skeid Oslo,0,1,A,NaN,NaN,NaN
-NOR,19/05/1974,,Sarpsborg FK,Mjøndalen IF,3,0,H,NaN,NaN,NaN
-NOR,19/05/1974,,Strømsgodset IF,Rosenborg BK,2,1,H,NaN,NaN,NaN
-NOR,19/05/1974,,Viking FK,Hamarkameratene,2,0,H,NaN,NaN,NaN
-NOR,19/05/1974,,Vålerenga IF,Raufoss IL,1,1,D,NaN,NaN,NaN
-NOR,26/05/1974,,Hamarkameratene,Molde FK,1,1,D,NaN,NaN,NaN
-NOR,26/05/1974,,Mjøndalen IF,Strømsgodset IF,1,0,H,NaN,NaN,NaN
-NOR,26/05/1974,,Raufoss IL,SK Brann,0,1,A,NaN,NaN,NaN
-NOR,26/05/1974,,IK Start,Viking FK,0,0,D,NaN,NaN,NaN
-NOR,27/05/1974,,Rosenborg BK,Vålerenga IF,1,0,H,NaN,NaN,NaN
-NOR,27/05/1974,,Skeid Oslo,Sarpsborg FK,1,1,D,NaN,NaN,NaN
-NOR,03/06/1974,,Molde FK,IK Start,3,0,H,NaN,NaN,NaN
-NOR,03/06/1974,,Raufoss IL,Rosenborg BK,1,1,D,NaN,NaN,NaN
-NOR,03/06/1974,,Sarpsborg FK,Viking FK,1,0,H,NaN,NaN,NaN
-NOR,03/06/1974,,Strømsgodset IF,Hamarkameratene,3,1,H,NaN,NaN,NaN
-NOR,03/06/1974,,Vålerenga IF,Skeid Oslo,4,0,H,NaN,NaN,NaN
-NOR,04/06/1974,,SK Brann,Mjøndalen IF,2,0,H,NaN,NaN,NaN
-NOR,09/06/1974,,Hamarkameratene,Sarpsborg FK,0,0,D,NaN,NaN,NaN
-NOR,09/06/1974,,Mjøndalen IF,Vålerenga IF,1,2,A,NaN,NaN,NaN
-NOR,09/06/1974,,Rosenborg BK,SK Brann,0,3,A,NaN,NaN,NaN
-NOR,09/06/1974,,Skeid Oslo,Strømsgodset IF,2,0,H,NaN,NaN,NaN
-NOR,09/06/1974,,IK Start,Raufoss IL,5,0,H,NaN,NaN,NaN
-NOR,09/06/1974,,Viking FK,Molde FK,0,0,D,NaN,NaN,NaN
-NOR,12/06/1974,,Hamarkameratene,Raufoss IL,1,0,H,NaN,NaN,NaN
-NOR,12/06/1974,,Mjøndalen IF,IK Start,1,1,D,NaN,NaN,NaN
-NOR,12/06/1974,,Molde FK,Vålerenga IF,1,1,D,NaN,NaN,NaN
-NOR,12/06/1974,,Sarpsborg FK,Strømsgodset IF,0,3,A,NaN,NaN,NaN
-NOR,12/06/1974,,Skeid Oslo,Rosenborg BK,2,0,H,NaN,NaN,NaN
-NOR,12/06/1974,,Viking FK,SK Brann,0,0,D,NaN,NaN,NaN
-NOR,16/06/1974,,Raufoss IL,Skeid Oslo,0,3,A,NaN,NaN,NaN
-NOR,16/06/1974,,Sarpsborg FK,IK Start,1,3,A,NaN,NaN,NaN
-NOR,16/06/1974,,Strømsgodset IF,Molde FK,2,2,D,NaN,NaN,NaN
-NOR,16/06/1974,,Vålerenga IF,Viking FK,0,0,D,NaN,NaN,NaN
-NOR,17/06/1974,,SK Brann,Hamarkameratene,1,1,D,NaN,NaN,NaN
-NOR,17/06/1974,,Rosenborg BK,Mjøndalen IF,1,4,A,NaN,NaN,NaN
-NOR,23/06/1974,,Mjøndalen IF,Raufoss IL,5,1,H,NaN,NaN,NaN
-NOR,23/06/1974,,Molde FK,Sarpsborg FK,5,1,H,NaN,NaN,NaN
-NOR,24/06/1974,,Hamarkameratene,Vålerenga IF,1,3,A,NaN,NaN,NaN
-NOR,24/06/1974,,IK Start,Rosenborg BK,4,0,H,NaN,NaN,NaN
-NOR,24/06/1974,,Viking FK,Strømsgodset IF,3,1,H,NaN,NaN,NaN
-NOR,25/06/1974,,Skeid Oslo,SK Brann,2,2,D,NaN,NaN,NaN
-NOR,29/07/1974,,Raufoss IL,Molde FK,0,1,A,NaN,NaN,NaN
-NOR,29/07/1974,,Rosenborg BK,Viking FK,3,2,H,NaN,NaN,NaN
-NOR,29/07/1974,,IK Start,Skeid Oslo,1,0,H,NaN,NaN,NaN
-NOR,29/07/1974,,Vålerenga IF,Strømsgodset IF,4,1,H,NaN,NaN,NaN
-NOR,29/07/1974,,SK Brann,Sarpsborg FK,3,1,H,NaN,NaN,NaN
-NOR,29/07/1974,,Mjøndalen IF,Hamarkameratene,6,1,H,NaN,NaN,NaN
-NOR,04/08/1974,,Hamarkameratene,Rosenborg BK,2,0,H,NaN,NaN,NaN
-NOR,04/08/1974,,Molde FK,SK Brann,1,0,H,NaN,NaN,NaN
-NOR,04/08/1974,,Strømsgodset IF,IK Start,4,2,H,NaN,NaN,NaN
-NOR,05/08/1974,,Sarpsborg FK,Vålerenga IF,0,1,A,NaN,NaN,NaN
-NOR,05/08/1974,,Skeid Oslo,Mjøndalen IF,3,0,H,NaN,NaN,NaN
-NOR,05/08/1974,,Viking FK,Raufoss IL,6,0,H,NaN,NaN,NaN
-NOR,11/08/1974,,Mjøndalen IF,Molde FK,0,2,A,NaN,NaN,NaN
-NOR,11/08/1974,,Raufoss IL,Strømsgodset IF,0,1,A,NaN,NaN,NaN
-NOR,11/08/1974,,IK Start,Hamarkameratene,5,1,H,NaN,NaN,NaN
-NOR,11/08/1974,,Viking FK,Skeid Oslo,1,1,D,NaN,NaN,NaN
-NOR,12/08/1974,,SK Brann,Vålerenga IF,0,0,D,NaN,NaN,NaN
-NOR,12/08/1974,,Rosenborg BK,Sarpsborg FK,5,0,H,NaN,NaN,NaN
-NOR,22/08/1974,,Strømsgodset IF,SK Brann,1,0,H,NaN,NaN,NaN
-NOR,22/08/1974,,Molde FK,Rosenborg BK,2,1,H,NaN,NaN,NaN
-NOR,22/08/1974,,Sarpsborg FK,Raufoss IL,1,1,D,NaN,NaN,NaN
-NOR,22/08/1974,,Vålerenga IF,IK Start,2,1,H,NaN,NaN,NaN
-NOR,22/08/1974,,Hamarkameratene,Skeid Oslo,2,1,H,NaN,NaN,NaN
-NOR,22/08/1974,,Viking FK,Mjøndalen IF,2,0,H,NaN,NaN,NaN
-NOR,25/08/1974,,Hamarkameratene,Viking FK,1,3,A,NaN,NaN,NaN
-NOR,25/08/1974,,Mjøndalen IF,Sarpsborg FK,0,3,A,NaN,NaN,NaN
-NOR,25/08/1974,,Raufoss IL,Vålerenga IF,0,2,A,NaN,NaN,NaN
-NOR,25/08/1974,,IK Start,SK Brann,0,3,A,NaN,NaN,NaN
-NOR,26/08/1974,,Rosenborg BK,Strømsgodset IF,6,2,H,NaN,NaN,NaN
-NOR,27/08/1974,,Skeid Oslo,Molde FK,0,2,A,NaN,NaN,NaN
-NOR,01/09/1974,,Molde FK,Hamarkameratene,5,0,H,NaN,NaN,NaN
-NOR,01/09/1974,,Sarpsborg FK,Skeid Oslo,2,3,A,NaN,NaN,NaN
-NOR,01/09/1974,,Strømsgodset IF,Mjøndalen IF,3,0,H,NaN,NaN,NaN
-NOR,02/09/1974,,SK Brann,Raufoss IL,5,1,H,NaN,NaN,NaN
-NOR,02/09/1974,,Viking FK,IK Start,0,0,D,NaN,NaN,NaN
-NOR,02/09/1974,,Vålerenga IF,Rosenborg BK,0,5,A,NaN,NaN,NaN
-NOR,15/09/1974,,Hamarkameratene,Strømsgodset IF,1,3,A,NaN,NaN,NaN
-NOR,15/09/1974,,Mjøndalen IF,SK Brann,2,2,D,NaN,NaN,NaN
-NOR,15/09/1974,,Rosenborg BK,Raufoss IL,1,1,D,NaN,NaN,NaN
-NOR,15/09/1974,,Viking FK,Sarpsborg FK,4,2,H,NaN,NaN,NaN
-NOR,15/09/1974,,IK Start,Molde FK,0,0,D,NaN,NaN,NaN
-NOR,17/09/1974,,Skeid Oslo,Vålerenga IF,0,2,A,NaN,NaN,NaN
-NOR,22/09/1974,,SK Brann,Rosenborg BK,2,0,H,NaN,NaN,NaN
-NOR,22/09/1974,,Molde FK,Viking FK,0,2,A,NaN,NaN,NaN
-NOR,22/09/1974,,Raufoss IL,IK Start,1,2,A,NaN,NaN,NaN
-NOR,22/09/1974,,Sarpsborg FK,Hamarkameratene,0,1,A,NaN,NaN,NaN
-NOR,22/09/1974,,Strømsgodset IF,Skeid Oslo,1,2,A,NaN,NaN,NaN
-NOR,22/09/1974,,Vålerenga IF,Mjøndalen IF,1,0,H,NaN,NaN,NaN
-NOR,29/09/1974,,SK Brann,Viking FK,0,0,D,NaN,NaN,NaN
-NOR,29/09/1974,,Raufoss IL,Hamarkameratene,7,1,H,NaN,NaN,NaN
-NOR,29/09/1974,,Rosenborg BK,Skeid Oslo,1,0,H,NaN,NaN,NaN
-NOR,29/09/1974,,IK Start,Mjøndalen IF,2,4,A,NaN,NaN,NaN
-NOR,29/09/1974,,Strømsgodset IF,Sarpsborg FK,1,0,H,NaN,NaN,NaN
-NOR,29/09/1974,,Vålerenga IF,Molde FK,4,3,H,NaN,NaN,NaN
-NOR,06/10/1974,,Hamarkameratene,SK Brann,1,1,D,NaN,NaN,NaN
-NOR,06/10/1974,,Mjøndalen IF,Rosenborg BK,1,1,D,NaN,NaN,NaN
-NOR,06/10/1974,,Molde FK,Strømsgodset IF,2,2,D,NaN,NaN,NaN
-NOR,06/10/1974,,Skeid Oslo,Raufoss IL,3,1,H,NaN,NaN,NaN
-NOR,06/10/1974,,IK Start,Sarpsborg FK,4,1,H,NaN,NaN,NaN
-NOR,06/10/1974,,Viking FK,Vålerenga IF,2,1,H,NaN,NaN,NaN
-NOR,13/10/1974,,SK Brann,Skeid Oslo,1,2,A,NaN,NaN,NaN
-NOR,13/10/1974,,Raufoss IL,Mjøndalen IF,0,1,A,NaN,NaN,NaN
-NOR,13/10/1974,,Rosenborg BK,IK Start,6,1,H,NaN,NaN,NaN
-NOR,13/10/1974,,Sarpsborg FK,Molde FK,0,1,A,NaN,NaN,NaN
-NOR,13/10/1974,,Strømsgodset IF,Viking FK,0,0,D,NaN,NaN,NaN
-NOR,13/10/1974,,Vålerenga IF,Hamarkameratene,2,1,H,NaN,NaN,NaN
+NOR,1974-04-28,,Hamarkameratene,Mjøndalen IF,2,0,H,,,
+NOR,1974-04-28,,Molde FK,Raufoss IL,2,1,H,,,
+NOR,1974-04-28,,Sarpsborg FK,SK Brann,2,5,A,,,
+NOR,1974-04-28,,Skeid Oslo,IK Start,1,0,H,,,
+NOR,1974-04-28,,Strømsgodset IF,Vålerenga IF,2,0,H,,,
+NOR,1974-04-28,,Viking FK,Rosenborg BK,0,0,D,,,
+NOR,1974-05-05,,Raufoss IL,Viking FK,0,1,A,,,
+NOR,1974-05-05,,Rosenborg BK,Hamarkameratene,1,1,D,,,
+NOR,1974-05-05,,Mjøndalen IF,Skeid Oslo,3,1,H,,,
+NOR,1974-05-05,,IK Start,Strømsgodset IF,1,1,D,,,
+NOR,1974-05-06,,SK Brann,Molde FK,0,4,A,,,
+NOR,1974-05-06,,Vålerenga IF,Sarpsborg FK,3,0,H,,,
+NOR,1974-05-12,,Hamarkameratene,IK Start,0,1,A,,,
+NOR,1974-05-12,,Molde FK,Mjøndalen IF,2,0,H,,,
+NOR,1974-05-12,,Sarpsborg FK,Rosenborg BK,0,3,A,,,
+NOR,1974-05-12,,Strømsgodset IF,Raufoss IL,5,0,H,,,
+NOR,1974-05-12,,Vålerenga IF,SK Brann,0,3,A,,,
+NOR,1974-05-12,,Skeid Oslo,Viking FK,0,1,A,,,
+NOR,1974-05-15,,SK Brann,Strømsgodset IF,0,0,D,,,
+NOR,1974-05-15,,Mjøndalen IF,Viking FK,0,2,A,,,
+NOR,1974-05-15,,Rosenborg BK,Molde FK,2,1,H,,,
+NOR,1974-05-16,,Raufoss IL,Sarpsborg FK,0,2,A,,,
+NOR,1974-05-16,,Skeid Oslo,Hamarkameratene,2,1,H,,,
+NOR,1974-05-16,,IK Start,Vålerenga IF,2,0,H,,,
+NOR,1974-05-19,,SK Brann,IK Start,2,2,D,,,
+NOR,1974-05-19,,Molde FK,Skeid Oslo,0,1,A,,,
+NOR,1974-05-19,,Sarpsborg FK,Mjøndalen IF,3,0,H,,,
+NOR,1974-05-19,,Strømsgodset IF,Rosenborg BK,2,1,H,,,
+NOR,1974-05-19,,Viking FK,Hamarkameratene,2,0,H,,,
+NOR,1974-05-19,,Vålerenga IF,Raufoss IL,1,1,D,,,
+NOR,1974-05-26,,Hamarkameratene,Molde FK,1,1,D,,,
+NOR,1974-05-26,,Mjøndalen IF,Strømsgodset IF,1,0,H,,,
+NOR,1974-05-26,,Raufoss IL,SK Brann,0,1,A,,,
+NOR,1974-05-26,,IK Start,Viking FK,0,0,D,,,
+NOR,1974-05-27,,Rosenborg BK,Vålerenga IF,1,0,H,,,
+NOR,1974-05-27,,Skeid Oslo,Sarpsborg FK,1,1,D,,,
+NOR,1974-06-03,,Molde FK,IK Start,3,0,H,,,
+NOR,1974-06-03,,Raufoss IL,Rosenborg BK,1,1,D,,,
+NOR,1974-06-03,,Sarpsborg FK,Viking FK,1,0,H,,,
+NOR,1974-06-03,,Strømsgodset IF,Hamarkameratene,3,1,H,,,
+NOR,1974-06-03,,Vålerenga IF,Skeid Oslo,4,0,H,,,
+NOR,1974-06-04,,SK Brann,Mjøndalen IF,2,0,H,,,
+NOR,1974-06-09,,Hamarkameratene,Sarpsborg FK,0,0,D,,,
+NOR,1974-06-09,,Mjøndalen IF,Vålerenga IF,1,2,A,,,
+NOR,1974-06-09,,Rosenborg BK,SK Brann,0,3,A,,,
+NOR,1974-06-09,,Skeid Oslo,Strømsgodset IF,2,0,H,,,
+NOR,1974-06-09,,IK Start,Raufoss IL,5,0,H,,,
+NOR,1974-06-09,,Viking FK,Molde FK,0,0,D,,,
+NOR,1974-06-12,,Hamarkameratene,Raufoss IL,1,0,H,,,
+NOR,1974-06-12,,Mjøndalen IF,IK Start,1,1,D,,,
+NOR,1974-06-12,,Molde FK,Vålerenga IF,1,1,D,,,
+NOR,1974-06-12,,Sarpsborg FK,Strømsgodset IF,0,3,A,,,
+NOR,1974-06-12,,Skeid Oslo,Rosenborg BK,2,0,H,,,
+NOR,1974-06-12,,Viking FK,SK Brann,0,0,D,,,
+NOR,1974-06-16,,Raufoss IL,Skeid Oslo,0,3,A,,,
+NOR,1974-06-16,,Sarpsborg FK,IK Start,1,3,A,,,
+NOR,1974-06-16,,Strømsgodset IF,Molde FK,2,2,D,,,
+NOR,1974-06-16,,Vålerenga IF,Viking FK,0,0,D,,,
+NOR,1974-06-17,,SK Brann,Hamarkameratene,1,1,D,,,
+NOR,1974-06-17,,Rosenborg BK,Mjøndalen IF,1,4,A,,,
+NOR,1974-06-23,,Mjøndalen IF,Raufoss IL,5,1,H,,,
+NOR,1974-06-23,,Molde FK,Sarpsborg FK,5,1,H,,,
+NOR,1974-06-24,,Hamarkameratene,Vålerenga IF,1,3,A,,,
+NOR,1974-06-24,,IK Start,Rosenborg BK,4,0,H,,,
+NOR,1974-06-24,,Viking FK,Strømsgodset IF,3,1,H,,,
+NOR,1974-06-25,,Skeid Oslo,SK Brann,2,2,D,,,
+NOR,1974-07-29,,Raufoss IL,Molde FK,0,1,A,,,
+NOR,1974-07-29,,Rosenborg BK,Viking FK,3,2,H,,,
+NOR,1974-07-29,,IK Start,Skeid Oslo,1,0,H,,,
+NOR,1974-07-29,,Vålerenga IF,Strømsgodset IF,4,1,H,,,
+NOR,1974-07-29,,SK Brann,Sarpsborg FK,3,1,H,,,
+NOR,1974-07-29,,Mjøndalen IF,Hamarkameratene,6,1,H,,,
+NOR,1974-08-04,,Hamarkameratene,Rosenborg BK,2,0,H,,,
+NOR,1974-08-04,,Molde FK,SK Brann,1,0,H,,,
+NOR,1974-08-04,,Strømsgodset IF,IK Start,4,2,H,,,
+NOR,1974-08-05,,Sarpsborg FK,Vålerenga IF,0,1,A,,,
+NOR,1974-08-05,,Skeid Oslo,Mjøndalen IF,3,0,H,,,
+NOR,1974-08-05,,Viking FK,Raufoss IL,6,0,H,,,
+NOR,1974-08-11,,Mjøndalen IF,Molde FK,0,2,A,,,
+NOR,1974-08-11,,Raufoss IL,Strømsgodset IF,0,1,A,,,
+NOR,1974-08-11,,IK Start,Hamarkameratene,5,1,H,,,
+NOR,1974-08-11,,Viking FK,Skeid Oslo,1,1,D,,,
+NOR,1974-08-12,,SK Brann,Vålerenga IF,0,0,D,,,
+NOR,1974-08-12,,Rosenborg BK,Sarpsborg FK,5,0,H,,,
+NOR,1974-08-22,,Strømsgodset IF,SK Brann,1,0,H,,,
+NOR,1974-08-22,,Molde FK,Rosenborg BK,2,1,H,,,
+NOR,1974-08-22,,Sarpsborg FK,Raufoss IL,1,1,D,,,
+NOR,1974-08-22,,Vålerenga IF,IK Start,2,1,H,,,
+NOR,1974-08-22,,Hamarkameratene,Skeid Oslo,2,1,H,,,
+NOR,1974-08-22,,Viking FK,Mjøndalen IF,2,0,H,,,
+NOR,1974-08-25,,Hamarkameratene,Viking FK,1,3,A,,,
+NOR,1974-08-25,,Mjøndalen IF,Sarpsborg FK,0,3,A,,,
+NOR,1974-08-25,,Raufoss IL,Vålerenga IF,0,2,A,,,
+NOR,1974-08-25,,IK Start,SK Brann,0,3,A,,,
+NOR,1974-08-26,,Rosenborg BK,Strømsgodset IF,6,2,H,,,
+NOR,1974-08-27,,Skeid Oslo,Molde FK,0,2,A,,,
+NOR,1974-09-01,,Molde FK,Hamarkameratene,5,0,H,,,
+NOR,1974-09-01,,Sarpsborg FK,Skeid Oslo,2,3,A,,,
+NOR,1974-09-01,,Strømsgodset IF,Mjøndalen IF,3,0,H,,,
+NOR,1974-09-02,,SK Brann,Raufoss IL,5,1,H,,,
+NOR,1974-09-02,,Viking FK,IK Start,0,0,D,,,
+NOR,1974-09-02,,Vålerenga IF,Rosenborg BK,0,5,A,,,
+NOR,1974-09-15,,Hamarkameratene,Strømsgodset IF,1,3,A,,,
+NOR,1974-09-15,,Mjøndalen IF,SK Brann,2,2,D,,,
+NOR,1974-09-15,,Rosenborg BK,Raufoss IL,1,1,D,,,
+NOR,1974-09-15,,Viking FK,Sarpsborg FK,4,2,H,,,
+NOR,1974-09-15,,IK Start,Molde FK,0,0,D,,,
+NOR,1974-09-17,,Skeid Oslo,Vålerenga IF,0,2,A,,,
+NOR,1974-09-22,,SK Brann,Rosenborg BK,2,0,H,,,
+NOR,1974-09-22,,Molde FK,Viking FK,0,2,A,,,
+NOR,1974-09-22,,Raufoss IL,IK Start,1,2,A,,,
+NOR,1974-09-22,,Sarpsborg FK,Hamarkameratene,0,1,A,,,
+NOR,1974-09-22,,Strømsgodset IF,Skeid Oslo,1,2,A,,,
+NOR,1974-09-22,,Vålerenga IF,Mjøndalen IF,1,0,H,,,
+NOR,1974-09-29,,SK Brann,Viking FK,0,0,D,,,
+NOR,1974-09-29,,Raufoss IL,Hamarkameratene,7,1,H,,,
+NOR,1974-09-29,,Rosenborg BK,Skeid Oslo,1,0,H,,,
+NOR,1974-09-29,,IK Start,Mjøndalen IF,2,4,A,,,
+NOR,1974-09-29,,Strømsgodset IF,Sarpsborg FK,1,0,H,,,
+NOR,1974-09-29,,Vålerenga IF,Molde FK,4,3,H,,,
+NOR,1974-10-06,,Hamarkameratene,SK Brann,1,1,D,,,
+NOR,1974-10-06,,Mjøndalen IF,Rosenborg BK,1,1,D,,,
+NOR,1974-10-06,,Molde FK,Strømsgodset IF,2,2,D,,,
+NOR,1974-10-06,,Skeid Oslo,Raufoss IL,3,1,H,,,
+NOR,1974-10-06,,IK Start,Sarpsborg FK,4,1,H,,,
+NOR,1974-10-06,,Viking FK,Vålerenga IF,2,1,H,,,
+NOR,1974-10-13,,SK Brann,Skeid Oslo,1,2,A,,,
+NOR,1974-10-13,,Raufoss IL,Mjøndalen IF,0,1,A,,,
+NOR,1974-10-13,,Rosenborg BK,IK Start,6,1,H,,,
+NOR,1974-10-13,,Sarpsborg FK,Molde FK,0,1,A,,,
+NOR,1974-10-13,,Strømsgodset IF,Viking FK,0,0,D,,,
+NOR,1974-10-13,,Vålerenga IF,Hamarkameratene,2,1,H,,,

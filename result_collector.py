@@ -55,11 +55,11 @@ def format_result(result):
 
 
 
-def get_results(url):
+def get_results(url, where):
     
     filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
     country_short = (filename.split("-")[0]).upper()
-    path = "archive/" + country_short
+    path = where + "/" + country_short
     if not os.path.exists(path):
         os.makedirs(path)
     filename = path + "/" + filename + ".csv"
@@ -98,7 +98,6 @@ def get_results(url):
                     full_results += smart_str(line)
         except:
             None
-#        print full_results
         text = open(filename, "w")
         text.write(full_results)
         text.close()
@@ -122,11 +121,3 @@ def sort_links(links):
     text.write(archive)
     text.close()
             
-
-def check_file(links):
-    for link in links:
-        usock = urllib2.urlopen(link)
-        data = usock.read()
-        usock.close()
-        if ") aet" in data or ") pso" in data:
-            print link

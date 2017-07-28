@@ -1,0 +1,383 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2004-09-11,17:00,Chievo Verona,Inter,2,2,D,2.0,1.0,H
+ITA,2004-09-11,19:30,AC Milan,AS Livorno,2,2,D,1.0,1.0,D
+ITA,2004-09-12,14:00,Parma FC,FC Messina,0,0,D,0.0,0.0,D
+ITA,2004-09-12,14:00,Reggina Calcio,Udinese Calcio,0,0,D,0.0,0.0,D
+ITA,2004-09-12,14:00,AS Roma,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,2004-09-12,14:00,US Palermo,AC Siena,1,0,H,1.0,0.0,H
+ITA,2004-09-12,14:00,Atalanta,US Lecce,2,2,D,1.0,1.0,D
+ITA,2004-09-12,14:00,Brescia Calcio,Juventus,0,3,A,0.0,2.0,A
+ITA,2004-09-12,14:00,Cagliari Calcio,Bologna FC,1,0,H,1.0,0.0,H
+ITA,2004-09-12,19:30,Sampdoria,Lazio Roma,0,1,A,0.0,1.0,A
+ITA,2004-09-18,17:00,US Lecce,Brescia Calcio,4,1,H,1.0,1.0,D
+ITA,2004-09-18,19:30,Inter,US Palermo,1,1,D,0.0,0.0,D
+ITA,2004-09-19,14:00,AS Livorno,Chievo Verona,1,2,A,1.0,0.0,H
+ITA,2004-09-19,14:00,FC Messina,AS Roma,4,3,H,1.0,1.0,D
+ITA,2004-09-19,14:00,AC Siena,Sampdoria,2,1,H,1.0,1.0,D
+ITA,2004-09-19,14:00,Juventus,Atalanta,2,0,H,1.0,0.0,H
+ITA,2004-09-19,14:00,Lazio Roma,Reggina Calcio,1,1,D,1.0,1.0,D
+ITA,2004-09-19,14:00,Bologna FC,AC Milan,0,2,A,0.0,0.0,D
+ITA,2004-09-19,14:00,ACF Fiorentina,Cagliari Calcio,2,1,H,1.0,0.0,H
+ITA,2004-09-19,19:30,Udinese Calcio,Parma FC,4,0,H,1.0,0.0,H
+ITA,2004-09-22,19:30,Chievo Verona,Udinese Calcio,0,0,D,0.0,0.0,D
+ITA,2004-09-22,19:30,Sampdoria,Juventus,0,3,A,0.0,1.0,A
+ITA,2004-09-22,19:30,Parma FC,Bologna FC,1,2,A,0.0,2.0,A
+ITA,2004-09-22,19:30,Reggina Calcio,AS Livorno,2,1,H,1.0,1.0,D
+ITA,2004-09-22,19:30,AS Roma,US Lecce,2,2,D,0.0,1.0,A
+ITA,2004-09-22,19:30,AC Milan,FC Messina,1,2,A,0.0,0.0,D
+ITA,2004-09-22,19:30,US Palermo,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,2004-09-22,19:30,Atalanta,Inter,2,3,A,1.0,0.0,H
+ITA,2004-09-22,19:30,Brescia Calcio,Lazio Roma,0,2,A,0.0,2.0,A
+ITA,2004-09-22,19:30,Cagliari Calcio,AC Siena,2,0,H,1.0,0.0,H
+ITA,2004-09-25,18:00,Bologna FC,AS Roma,3,1,H,3.0,0.0,H
+ITA,2004-09-25,19:30,Juventus,US Palermo,1,1,D,0.0,1.0,A
+ITA,2004-09-26,14:00,Udinese Calcio,Brescia Calcio,1,2,A,0.0,1.0,A
+ITA,2004-09-26,14:00,AS Livorno,Atalanta,1,1,D,0.0,0.0,D
+ITA,2004-09-26,14:00,FC Messina,Chievo Verona,0,0,D,0.0,0.0,D
+ITA,2004-09-26,14:00,AC Siena,Reggina Calcio,0,0,D,0.0,0.0,D
+ITA,2004-09-26,14:00,US Lecce,Cagliari Calcio,3,1,H,0.0,0.0,D
+ITA,2004-09-26,14:00,ACF Fiorentina,Sampdoria,0,2,A,0.0,1.0,A
+ITA,2004-09-26,14:00,Inter,Parma FC,2,2,D,0.0,1.0,A
+ITA,2004-09-26,19:30,Lazio Roma,AC Milan,1,2,A,1.0,0.0,H
+ITA,2004-10-02,17:00,Cagliari Calcio,Brescia Calcio,2,1,H,1.0,1.0,D
+ITA,2004-10-02,19:30,Chievo Verona,US Lecce,2,1,H,0.0,0.0,D
+ITA,2004-10-03,14:00,Udinese Calcio,Juventus,0,1,A,0.0,0.0,D
+ITA,2004-10-03,14:00,Parma FC,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,2004-10-03,14:00,Sampdoria,AS Livorno,2,0,H,0.0,0.0,D
+ITA,2004-10-03,14:00,FC Messina,AC Siena,4,1,H,2.0,1.0,H
+ITA,2004-10-03,14:00,AC Milan,Reggina Calcio,3,1,H,1.0,0.0,H
+ITA,2004-10-03,14:00,US Palermo,Bologna FC,1,0,H,1.0,0.0,H
+ITA,2004-10-03,14:00,Atalanta,Lazio Roma,1,1,D,1.0,0.0,H
+ITA,2004-10-03,19:30,AS Roma,Inter,3,3,D,1.0,0.0,H
+ITA,2004-10-16,17:00,AS Livorno,AS Roma,0,2,A,0.0,1.0,A
+ITA,2004-10-16,19:30,Juventus,FC Messina,2,1,H,1.0,0.0,H
+ITA,2004-10-17,14:00,Lazio Roma,Chievo Verona,0,1,A,0.0,0.0,D
+ITA,2004-10-17,14:00,US Lecce,US Palermo,2,0,H,0.0,0.0,D
+ITA,2004-10-17,14:00,ACF Fiorentina,AC Siena,0,0,D,0.0,0.0,D
+ITA,2004-10-17,14:00,Inter,Udinese Calcio,3,1,H,2.0,0.0,H
+ITA,2004-10-17,14:00,Bologna FC,Atalanta,2,1,H,1.0,1.0,D
+ITA,2004-10-17,14:00,Brescia Calcio,Parma FC,3,1,H,2.0,1.0,H
+ITA,2004-10-17,14:00,Cagliari Calcio,AC Milan,0,1,A,0.0,1.0,A
+ITA,2004-10-17,19:30,Reggina Calcio,Sampdoria,0,1,A,0.0,1.0,A
+ITA,2004-10-23,17:00,Atalanta,Cagliari Calcio,2,2,D,2.0,2.0,D
+ITA,2004-10-23,19:30,AC Siena,Juventus,0,3,A,0.0,0.0,D
+ITA,2004-10-24,14:00,Udinese Calcio,ACF Fiorentina,2,2,D,1.0,1.0,D
+ITA,2004-10-24,14:00,AS Roma,US Palermo,1,1,D,0.0,1.0,A
+ITA,2004-10-24,14:00,Sampdoria,Brescia Calcio,0,1,A,0.0,0.0,D
+ITA,2004-10-24,14:00,FC Messina,US Lecce,1,4,A,1.0,3.0,A
+ITA,2004-10-24,14:00,Parma FC,Lazio Roma,3,1,H,2.0,1.0,H
+ITA,2004-10-24,14:00,Chievo Verona,Reggina Calcio,0,0,D,0.0,0.0,D
+ITA,2004-10-24,14:00,AS Livorno,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2004-10-24,19:30,AC Milan,Inter,0,0,D,0.0,0.0,D
+ITA,2004-10-27,19:30,Reggina Calcio,ACF Fiorentina,1,2,A,0.0,0.0,D
+ITA,2004-10-27,19:30,US Lecce,Inter,2,2,D,1.0,2.0,A
+ITA,2004-10-27,19:30,AC Milan,Atalanta,3,0,H,0.0,0.0,D
+ITA,2004-10-27,19:30,US Palermo,AS Livorno,1,2,A,1.0,1.0,D
+ITA,2004-10-27,19:30,Chievo Verona,Sampdoria,0,2,A,0.0,2.0,A
+ITA,2004-10-27,19:30,Lazio Roma,FC Messina,2,0,H,1.0,0.0,H
+ITA,2004-10-27,19:30,Bologna FC,Udinese Calcio,0,1,A,0.0,0.0,D
+ITA,2004-10-27,19:30,Brescia Calcio,AC Siena,0,1,A,0.0,1.0,A
+ITA,2004-10-27,19:30,Cagliari Calcio,Parma FC,2,1,H,1.0,0.0,H
+ITA,2004-10-28,19:30,Juventus,AS Roma,2,0,H,1.0,0.0,H
+ITA,2004-10-30,17:00,Sampdoria,AC Milan,0,1,A,0.0,0.0,D
+ITA,2004-10-30,19:30,Inter,Lazio Roma,1,1,D,0.0,0.0,D
+ITA,2004-10-31,14:00,AS Roma,Cagliari Calcio,5,1,H,2.0,1.0,H
+ITA,2004-10-31,14:00,AC Siena,Bologna FC,1,1,D,0.0,1.0,A
+ITA,2004-10-31,14:00,AS Livorno,Brescia Calcio,2,1,H,1.0,1.0,D
+ITA,2004-10-31,14:00,FC Messina,Reggina Calcio,2,1,H,0.0,1.0,A
+ITA,2004-10-31,14:00,Parma FC,Atalanta,2,2,D,1.0,1.0,D
+ITA,2004-10-31,14:00,ACF Fiorentina,US Lecce,4,0,H,1.0,0.0,H
+ITA,2004-10-31,14:00,Juventus,Chievo Verona,3,0,H,1.0,0.0,H
+ITA,2004-10-31,19:30,Udinese Calcio,US Palermo,1,0,H,0.0,0.0,D
+ITA,2004-11-06,17:00,Brescia Calcio,Chievo Verona,1,0,H,0.0,0.0,D
+ITA,2004-11-06,19:30,Reggina Calcio,Juventus,2,1,H,2.0,1.0,H
+ITA,2004-11-07,14:00,US Lecce,Udinese Calcio,3,4,A,1.0,1.0,D
+ITA,2004-11-07,14:00,US Palermo,Parma FC,1,1,D,0.0,1.0,A
+ITA,2004-11-07,14:00,Cagliari Calcio,AS Livorno,0,0,D,0.0,0.0,D
+ITA,2004-11-07,14:00,ACF Fiorentina,Inter,1,1,D,1.0,0.0,H
+ITA,2004-11-07,14:00,Lazio Roma,AC Siena,1,1,D,0.0,0.0,D
+ITA,2004-11-07,14:00,Atalanta,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2004-11-07,14:00,Bologna FC,FC Messina,2,2,D,1.0,2.0,A
+ITA,2004-11-07,19:30,AC Milan,AS Roma,1,1,D,1.0,0.0,H
+ITA,2004-11-10,19:30,AC Siena,US Lecce,1,1,D,1.0,0.0,H
+ITA,2004-11-10,19:30,Parma FC,Reggina Calcio,1,0,H,0.0,0.0,D
+ITA,2004-11-10,19:30,AS Roma,Udinese Calcio,0,3,A,0.0,1.0,A
+ITA,2004-11-10,19:30,Sampdoria,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,2004-11-10,19:30,Juventus,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,2004-11-10,19:30,AS Livorno,Lazio Roma,1,0,H,1.0,0.0,H
+ITA,2004-11-10,19:30,Brescia Calcio,AC Milan,0,0,D,0.0,0.0,D
+ITA,2004-11-10,19:30,Chievo Verona,Atalanta,1,0,H,0.0,0.0,D
+ITA,2004-11-10,19:30,Inter,Bologna FC,2,2,D,1.0,0.0,H
+ITA,2004-11-11,19:30,FC Messina,US Palermo,0,0,D,0.0,0.0,D
+ITA,2004-11-14,14:00,Udinese Calcio,FC Messina,1,1,D,0.0,1.0,A
+ITA,2004-11-14,14:00,US Palermo,Sampdoria,2,0,H,1.0,0.0,H
+ITA,2004-11-14,14:00,Parma FC,Chievo Verona,2,2,D,0.0,0.0,D
+ITA,2004-11-14,14:00,Reggina Calcio,AS Roma,1,0,H,1.0,0.0,H
+ITA,2004-11-14,14:00,Lazio Roma,Bologna FC,2,1,H,1.0,0.0,H
+ITA,2004-11-14,14:00,US Lecce,Juventus,0,1,A,0.0,1.0,A
+ITA,2004-11-14,14:00,AC Milan,AC Siena,2,1,H,2.0,1.0,H
+ITA,2004-11-14,14:00,Atalanta,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,2004-11-14,14:00,Cagliari Calcio,Inter,3,3,D,2.0,1.0,H
+ITA,2004-11-14,14:00,ACF Fiorentina,AS Livorno,1,1,D,0.0,0.0,D
+ITA,2004-11-27,17:00,AS Livorno,Udinese Calcio,1,2,A,0.0,1.0,A
+ITA,2004-11-27,19:30,AC Siena,AS Roma,0,4,A,0.0,0.0,D
+ITA,2004-11-28,14:00,FC Messina,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,2004-11-28,14:00,Sampdoria,Parma FC,1,0,H,0.0,0.0,D
+ITA,2004-11-28,14:00,Chievo Verona,AC Milan,0,1,A,0.0,0.0,D
+ITA,2004-11-28,14:00,Lazio Roma,Cagliari Calcio,2,3,A,1.0,1.0,D
+ITA,2004-11-28,14:00,Atalanta,Reggina Calcio,0,1,A,0.0,1.0,A
+ITA,2004-11-28,14:00,Bologna FC,US Lecce,0,0,D,0.0,0.0,D
+ITA,2004-11-28,14:00,Brescia Calcio,US Palermo,0,2,A,0.0,2.0,A
+ITA,2004-11-28,19:30,Inter,Juventus,2,2,D,0.0,0.0,D
+ITA,2004-12-04,17:00,Parma FC,AC Milan,1,2,A,0.0,0.0,D
+ITA,2004-12-04,19:30,Inter,FC Messina,5,0,H,3.0,0.0,H
+ITA,2004-12-05,14:00,Udinese Calcio,AC Siena,1,0,H,1.0,0.0,H
+ITA,2004-12-05,14:00,Reggina Calcio,Brescia Calcio,1,3,A,0.0,2.0,A
+ITA,2004-12-05,14:00,Juventus,Lazio Roma,2,1,H,1.0,1.0,D
+ITA,2004-12-05,14:00,US Lecce,AS Livorno,3,2,H,1.0,2.0,A
+ITA,2004-12-05,14:00,US Palermo,Atalanta,1,0,H,1.0,0.0,H
+ITA,2004-12-05,14:00,Cagliari Calcio,Chievo Verona,4,2,H,3.0,0.0,H
+ITA,2004-12-05,14:00,ACF Fiorentina,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2004-12-05,19:30,AS Roma,Sampdoria,1,1,D,0.0,0.0,D
+ITA,2004-12-11,17:00,Atalanta,Udinese Calcio,0,1,A,0.0,1.0,A
+ITA,2004-12-11,19:30,Lazio Roma,US Lecce,3,3,D,0.0,2.0,A
+ITA,2004-12-12,14:00,AC Siena,Inter,2,2,D,1.0,1.0,D
+ITA,2004-12-12,14:00,AC Milan,ACF Fiorentina,6,0,H,2.0,0.0,H
+ITA,2004-12-12,14:00,Reggina Calcio,Cagliari Calcio,3,2,H,1.0,1.0,D
+ITA,2004-12-12,14:00,Sampdoria,FC Messina,1,0,H,1.0,0.0,H
+ITA,2004-12-12,14:00,Chievo Verona,US Palermo,2,1,H,2.0,0.0,H
+ITA,2004-12-12,14:00,AS Livorno,Parma FC,2,0,H,1.0,0.0,H
+ITA,2004-12-12,14:00,Brescia Calcio,AS Roma,0,1,A,0.0,0.0,D
+ITA,2004-12-12,19:30,Bologna FC,Juventus,0,1,A,0.0,0.0,D
+ITA,2004-12-18,19:30,Juventus,AC Milan,0,0,D,0.0,0.0,D
+ITA,2004-12-19,14:00,Udinese Calcio,Lazio Roma,3,0,H,3.0,0.0,H
+ITA,2004-12-19,14:00,AS Roma,Parma FC,5,1,H,2.0,1.0,H
+ITA,2004-12-19,14:00,AC Siena,AS Livorno,1,1,D,1.0,0.0,H
+ITA,2004-12-19,14:00,US Lecce,Sampdoria,1,4,A,0.0,1.0,A
+ITA,2004-12-19,14:00,Bologna FC,Reggina Calcio,2,0,H,1.0,0.0,H
+ITA,2004-12-19,14:00,ACF Fiorentina,Chievo Verona,2,0,H,1.0,0.0,H
+ITA,2004-12-19,14:00,Inter,Brescia Calcio,1,0,H,1.0,0.0,H
+ITA,2004-12-19,19:30,US Palermo,Cagliari Calcio,3,0,H,3.0,0.0,H
+ITA,2005-01-06,14:00,Sampdoria,Udinese Calcio,2,0,H,0.0,0.0,D
+ITA,2005-01-06,14:00,AC Milan,US Lecce,5,2,H,2.0,0.0,H
+ITA,2005-01-06,14:00,Parma FC,Juventus,1,1,D,0.0,0.0,D
+ITA,2005-01-06,14:00,Reggina Calcio,US Palermo,1,0,H,1.0,0.0,H
+ITA,2005-01-06,14:00,Chievo Verona,AC Siena,1,3,A,0.0,1.0,A
+ITA,2005-01-06,14:00,AS Livorno,Inter,0,2,A,0.0,1.0,A
+ITA,2005-01-06,14:00,Atalanta,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,2005-01-06,14:00,Brescia Calcio,Bologna FC,1,1,D,0.0,1.0,A
+ITA,2005-01-06,14:00,Cagliari Calcio,FC Messina,2,1,H,0.0,1.0,A
+ITA,2005-01-06,19:30,Lazio Roma,AS Roma,3,1,H,1.0,0.0,H
+ITA,2005-01-09,14:00,Udinese Calcio,Cagliari Calcio,2,0,H,1.0,0.0,H
+ITA,2005-01-09,14:00,AS Roma,Atalanta,2,1,H,1.0,0.0,H
+ITA,2005-01-09,14:00,AC Siena,Parma FC,0,1,A,0.0,1.0,A
+ITA,2005-01-09,14:00,Juventus,AS Livorno,4,2,H,2.0,1.0,H
+ITA,2005-01-09,14:00,US Lecce,Reggina Calcio,1,1,D,1.0,1.0,D
+ITA,2005-01-09,14:00,FC Messina,Brescia Calcio,2,0,H,1.0,0.0,H
+ITA,2005-01-09,14:00,Bologna FC,Chievo Verona,3,1,H,1.0,0.0,H
+ITA,2005-01-09,14:00,ACF Fiorentina,Lazio Roma,2,3,A,1.0,1.0,D
+ITA,2005-01-09,14:00,Inter,Sampdoria,3,2,H,0.0,1.0,A
+ITA,2005-01-09,19:30,US Palermo,AC Milan,0,0,D,0.0,0.0,D
+ITA,2005-01-15,17:00,Brescia Calcio,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,2005-01-15,19:30,Reggina Calcio,Inter,0,0,D,0.0,0.0,D
+ITA,2005-01-16,14:00,Sampdoria,Bologna FC,0,0,D,0.0,0.0,D
+ITA,2005-01-16,14:00,AC Milan,Udinese Calcio,3,1,H,1.0,1.0,D
+ITA,2005-01-16,14:00,Parma FC,US Lecce,2,1,H,0.0,0.0,D
+ITA,2005-01-16,14:00,Chievo Verona,AS Roma,2,2,D,2.0,1.0,H
+ITA,2005-01-16,14:00,Lazio Roma,US Palermo,1,3,A,1.0,1.0,D
+ITA,2005-01-16,14:00,AS Livorno,FC Messina,3,1,H,0.0,0.0,D
+ITA,2005-01-16,14:00,Atalanta,AC Siena,1,1,D,1.0,1.0,D
+ITA,2005-01-16,19:30,Cagliari Calcio,Juventus,1,1,D,0.0,0.0,D
+ITA,2005-01-19,19:30,FC Messina,Atalanta,1,0,H,1.0,0.0,H
+ITA,2005-01-22,17:00,Bologna FC,Cagliari Calcio,1,0,H,0.0,0.0,D
+ITA,2005-01-22,19:30,Inter,Chievo Verona,1,1,D,0.0,0.0,D
+ITA,2005-01-23,14:00,Lazio Roma,Sampdoria,1,2,A,0.0,2.0,A
+ITA,2005-01-23,14:00,FC Messina,Parma FC,1,0,H,0.0,0.0,D
+ITA,2005-01-23,14:00,Udinese Calcio,Reggina Calcio,0,2,A,0.0,1.0,A
+ITA,2005-01-23,14:00,AS Livorno,AC Milan,1,0,H,1.0,0.0,H
+ITA,2005-01-23,14:00,AC Siena,US Palermo,0,0,D,0.0,0.0,D
+ITA,2005-01-23,14:00,US Lecce,Atalanta,1,0,H,1.0,0.0,H
+ITA,2005-01-23,14:00,Juventus,Brescia Calcio,2,0,H,2.0,0.0,H
+ITA,2005-01-23,19:30,ACF Fiorentina,AS Roma,1,2,A,1.0,1.0,D
+ITA,2005-01-29,17:00,Chievo Verona,AS Livorno,1,0,H,1.0,0.0,H
+ITA,2005-01-29,19:30,Parma FC,Udinese Calcio,1,0,H,1.0,0.0,H
+ITA,2005-01-30,14:00,AS Roma,FC Messina,3,2,H,0.0,2.0,A
+ITA,2005-01-30,14:00,Sampdoria,AC Siena,1,1,D,0.0,0.0,D
+ITA,2005-01-30,14:00,Atalanta,Juventus,1,2,A,0.0,1.0,A
+ITA,2005-01-30,14:00,Reggina Calcio,Lazio Roma,2,1,H,0.0,1.0,A
+ITA,2005-01-30,14:00,Brescia Calcio,US Lecce,0,1,A,0.0,1.0,A
+ITA,2005-01-30,14:00,AC Milan,Bologna FC,0,1,A,0.0,1.0,A
+ITA,2005-01-30,14:00,Cagliari Calcio,ACF Fiorentina,1,0,H,1.0,0.0,H
+ITA,2005-01-30,19:30,US Palermo,Inter,0,2,A,0.0,1.0,A
+ITA,2005-02-02,19:30,Udinese Calcio,Chievo Verona,3,0,H,0.0,0.0,D
+ITA,2005-02-02,19:30,Juventus,Sampdoria,0,1,A,0.0,1.0,A
+ITA,2005-02-02,19:30,AS Livorno,Reggina Calcio,1,1,D,0.0,1.0,A
+ITA,2005-02-02,19:30,US Lecce,AS Roma,1,1,D,0.0,0.0,D
+ITA,2005-02-02,19:30,FC Messina,AC Milan,1,4,A,1.0,2.0,A
+ITA,2005-02-02,19:30,ACF Fiorentina,US Palermo,1,2,A,0.0,0.0,D
+ITA,2005-02-02,19:30,Inter,Atalanta,1,0,H,1.0,0.0,H
+ITA,2005-02-02,19:30,Lazio Roma,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,2005-02-02,19:30,AC Siena,Cagliari Calcio,2,2,D,2.0,0.0,H
+ITA,2005-02-03,19:30,Bologna FC,Parma FC,3,1,H,0.0,0.0,D
+ITA,2005-02-05,17:00,Sampdoria,ACF Fiorentina,3,0,H,2.0,0.0,H
+ITA,2005-02-05,19:30,US Palermo,Juventus,1,0,H,1.0,0.0,H
+ITA,2005-02-06,14:00,Brescia Calcio,Udinese Calcio,0,1,A,0.0,0.0,D
+ITA,2005-02-06,14:00,Atalanta,AS Livorno,1,0,H,1.0,0.0,H
+ITA,2005-02-06,14:00,Chievo Verona,FC Messina,1,0,H,1.0,0.0,H
+ITA,2005-02-06,14:00,Reggina Calcio,AC Siena,3,3,D,1.0,2.0,A
+ITA,2005-02-06,14:00,Cagliari Calcio,US Lecce,3,1,H,1.0,1.0,D
+ITA,2005-02-06,14:00,AS Roma,Bologna FC,1,1,D,1.0,0.0,H
+ITA,2005-02-06,14:00,Parma FC,Inter,2,2,D,1.0,0.0,H
+ITA,2005-02-06,19:30,AC Milan,Lazio Roma,2,1,H,0.0,0.0,D
+ITA,2005-02-12,17:00,Lazio Roma,Atalanta,2,1,H,1.0,1.0,D
+ITA,2005-02-12,19:30,Inter,AS Roma,2,0,H,1.0,0.0,H
+ITA,2005-02-13,14:00,Juventus,Udinese Calcio,2,1,H,1.0,0.0,H
+ITA,2005-02-13,14:00,ACF Fiorentina,Parma FC,2,1,H,0.0,0.0,D
+ITA,2005-02-13,14:00,AS Livorno,Sampdoria,1,0,H,0.0,0.0,D
+ITA,2005-02-13,14:00,AC Siena,FC Messina,2,2,D,0.0,1.0,A
+ITA,2005-02-13,14:00,Bologna FC,US Palermo,1,1,D,0.0,1.0,A
+ITA,2005-02-13,14:00,Brescia Calcio,Cagliari Calcio,2,0,H,1.0,0.0,H
+ITA,2005-02-13,14:00,US Lecce,Chievo Verona,3,0,H,1.0,0.0,H
+ITA,2005-02-13,19:30,Reggina Calcio,AC Milan,0,1,A,0.0,1.0,A
+ITA,2005-02-19,17:00,FC Messina,Juventus,0,0,D,0.0,0.0,D
+ITA,2005-02-19,19:30,Udinese Calcio,Inter,1,1,D,0.0,0.0,D
+ITA,2005-02-19,19:30,AC Milan,Cagliari Calcio,1,0,H,0.0,0.0,D
+ITA,2005-02-20,14:00,Sampdoria,Reggina Calcio,3,2,H,2.0,0.0,H
+ITA,2005-02-20,14:00,Chievo Verona,Lazio Roma,0,1,A,0.0,0.0,D
+ITA,2005-02-20,14:00,US Palermo,US Lecce,3,2,H,2.0,1.0,H
+ITA,2005-02-20,14:00,AS Roma,AS Livorno,3,0,H,1.0,0.0,H
+ITA,2005-02-20,14:00,AC Siena,ACF Fiorentina,1,0,H,1.0,0.0,H
+ITA,2005-02-20,14:00,Atalanta,Bologna FC,2,0,H,1.0,0.0,H
+ITA,2005-02-20,14:00,Parma FC,Brescia Calcio,2,1,H,1.0,0.0,H
+ITA,2005-02-26,17:00,Brescia Calcio,Sampdoria,0,1,A,0.0,0.0,D
+ITA,2005-02-26,19:30,ACF Fiorentina,Udinese Calcio,2,2,D,2.0,1.0,H
+ITA,2005-02-27,14:00,US Palermo,AS Roma,2,0,H,0.0,0.0,D
+ITA,2005-02-27,14:00,Juventus,AC Siena,3,0,H,1.0,0.0,H
+ITA,2005-02-27,14:00,US Lecce,FC Messina,1,0,H,0.0,0.0,D
+ITA,2005-02-27,14:00,Lazio Roma,Parma FC,2,0,H,1.0,0.0,H
+ITA,2005-02-27,14:00,Cagliari Calcio,Atalanta,3,3,D,2.0,1.0,H
+ITA,2005-02-27,14:00,Reggina Calcio,Chievo Verona,1,0,H,1.0,0.0,H
+ITA,2005-02-27,14:00,Bologna FC,AS Livorno,0,0,D,0.0,0.0,D
+ITA,2005-02-27,19:30,Inter,AC Milan,0,1,A,0.0,0.0,D
+ITA,2005-03-05,17:00,Atalanta,AC Milan,1,2,A,0.0,0.0,D
+ITA,2005-03-05,19:30,AS Roma,Juventus,1,2,A,1.0,2.0,A
+ITA,2005-03-06,14:00,ACF Fiorentina,Reggina Calcio,2,1,H,0.0,0.0,D
+ITA,2005-03-06,14:00,Inter,US Lecce,2,1,H,1.0,1.0,D
+ITA,2005-03-06,14:00,Sampdoria,Chievo Verona,1,0,H,0.0,0.0,D
+ITA,2005-03-06,14:00,FC Messina,Lazio Roma,1,0,H,1.0,0.0,H
+ITA,2005-03-06,14:00,Udinese Calcio,Bologna FC,0,1,A,0.0,1.0,A
+ITA,2005-03-06,14:00,AC Siena,Brescia Calcio,2,3,A,0.0,2.0,A
+ITA,2005-03-06,14:00,Parma FC,Cagliari Calcio,3,2,H,2.0,1.0,H
+ITA,2005-03-06,19:30,AS Livorno,US Palermo,2,2,D,0.0,1.0,A
+ITA,2005-03-12,17:00,US Lecce,ACF Fiorentina,2,2,D,2.0,0.0,H
+ITA,2005-03-12,19:30,Lazio Roma,Inter,1,1,D,1.0,0.0,H
+ITA,2005-03-13,14:00,US Palermo,Udinese Calcio,1,5,A,0.0,2.0,A
+ITA,2005-03-13,14:00,Cagliari Calcio,AS Roma,3,0,H,2.0,0.0,H
+ITA,2005-03-13,14:00,AC Milan,Sampdoria,1,0,H,0.0,0.0,D
+ITA,2005-03-13,14:00,Bologna FC,AC Siena,1,1,D,0.0,0.0,D
+ITA,2005-03-13,14:00,Brescia Calcio,AS Livorno,2,3,A,1.0,0.0,H
+ITA,2005-03-13,14:00,Reggina Calcio,FC Messina,0,2,A,0.0,2.0,A
+ITA,2005-03-13,14:00,Atalanta,Parma FC,1,0,H,0.0,0.0,D
+ITA,2005-03-13,19:30,Chievo Verona,Juventus,0,1,A,0.0,0.0,D
+ITA,2005-03-19,17:00,AC Siena,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,2005-03-19,19:30,Juventus,Reggina Calcio,1,0,H,1.0,0.0,H
+ITA,2005-03-20,14:00,Udinese Calcio,US Lecce,2,1,H,1.0,1.0,D
+ITA,2005-03-20,14:00,Parma FC,US Palermo,3,3,D,1.0,2.0,A
+ITA,2005-03-20,14:00,AS Livorno,Cagliari Calcio,3,3,D,2.0,2.0,D
+ITA,2005-03-20,14:00,Inter,ACF Fiorentina,3,2,H,1.0,1.0,D
+ITA,2005-03-20,14:00,Sampdoria,Atalanta,1,2,A,1.0,1.0,D
+ITA,2005-03-20,14:00,FC Messina,Bologna FC,0,0,D,0.0,0.0,D
+ITA,2005-03-20,14:00,Chievo Verona,Brescia Calcio,3,1,H,0.0,1.0,A
+ITA,2005-03-20,19:30,AS Roma,AC Milan,0,2,A,0.0,0.0,D
+ITA,2005-04-09,17:00,AC Milan,Brescia Calcio,1,1,D,1.0,0.0,H
+ITA,2005-04-09,17:00,Bologna FC,Inter,0,1,A,0.0,1.0,A
+ITA,2005-04-09,19:30,ACF Fiorentina,Juventus,3,3,D,2.0,1.0,H
+ITA,2005-04-10,14:00,US Lecce,AC Siena,2,2,D,1.0,1.0,D
+ITA,2005-04-10,14:00,Reggina Calcio,Parma FC,1,3,A,0.0,1.0,A
+ITA,2005-04-10,14:00,Udinese Calcio,AS Roma,3,3,D,2.0,3.0,A
+ITA,2005-04-10,14:00,Cagliari Calcio,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2005-04-10,14:00,Lazio Roma,AS Livorno,3,1,H,2.0,0.0,H
+ITA,2005-04-10,14:00,US Palermo,FC Messina,2,1,H,0.0,0.0,D
+ITA,2005-04-10,14:00,Atalanta,Chievo Verona,3,0,H,2.0,0.0,H
+ITA,2005-04-16,17:00,FC Messina,Udinese Calcio,1,0,H,0.0,0.0,D
+ITA,2005-04-16,19:30,Sampdoria,US Palermo,1,0,H,0.0,0.0,D
+ITA,2005-04-16,19:30,AS Roma,Reggina Calcio,1,2,A,1.0,0.0,H
+ITA,2005-04-17,14:00,Chievo Verona,Parma FC,2,0,H,0.0,0.0,D
+ITA,2005-04-17,14:00,Bologna FC,Lazio Roma,1,2,A,1.0,0.0,H
+ITA,2005-04-17,14:00,Juventus,US Lecce,5,2,H,3.0,1.0,H
+ITA,2005-04-17,14:00,AC Siena,AC Milan,2,1,H,0.0,0.0,D
+ITA,2005-04-17,14:00,Brescia Calcio,Atalanta,1,0,H,0.0,0.0,D
+ITA,2005-04-17,14:00,Inter,Cagliari Calcio,2,0,H,1.0,0.0,H
+ITA,2005-04-17,14:00,AS Livorno,ACF Fiorentina,2,0,H,2.0,0.0,H
+ITA,2005-04-20,19:30,AS Roma,AC Siena,0,2,A,0.0,0.0,D
+ITA,2005-04-20,19:30,Udinese Calcio,AS Livorno,1,1,D,1.0,0.0,H
+ITA,2005-04-20,19:30,ACF Fiorentina,FC Messina,1,1,D,0.0,0.0,D
+ITA,2005-04-20,19:30,Parma FC,Sampdoria,1,1,D,1.0,1.0,D
+ITA,2005-04-20,19:30,AC Milan,Chievo Verona,1,0,H,0.0,0.0,D
+ITA,2005-04-20,19:30,Juventus,Inter,0,1,A,0.0,1.0,A
+ITA,2005-04-20,19:30,Cagliari Calcio,Lazio Roma,1,1,D,0.0,0.0,D
+ITA,2005-04-20,19:30,Reggina Calcio,Atalanta,0,0,D,0.0,0.0,D
+ITA,2005-04-20,19:30,US Lecce,Bologna FC,1,1,D,1.0,1.0,D
+ITA,2005-04-20,19:30,US Palermo,Brescia Calcio,3,3,D,2.0,2.0,D
+ITA,2005-04-23,17:00,AC Siena,Udinese Calcio,2,3,A,1.0,1.0,D
+ITA,2005-04-23,19:30,AC Milan,Parma FC,3,0,H,1.0,0.0,H
+ITA,2005-04-24,14:00,Brescia Calcio,Reggina Calcio,2,0,H,0.0,0.0,D
+ITA,2005-04-24,14:00,Sampdoria,AS Roma,2,1,H,1.0,0.0,H
+ITA,2005-04-24,14:00,AS Livorno,US Lecce,1,0,H,0.0,0.0,D
+ITA,2005-04-24,14:00,Atalanta,US Palermo,1,0,H,0.0,0.0,D
+ITA,2005-04-24,14:00,Chievo Verona,Cagliari Calcio,1,1,D,1.0,0.0,H
+ITA,2005-04-24,14:00,Bologna FC,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,2005-04-24,14:00,FC Messina,Inter,2,1,H,0.0,0.0,D
+ITA,2005-04-24,19:30,Lazio Roma,Juventus,0,1,A,0.0,0.0,D
+ITA,2005-04-30,17:00,Cagliari Calcio,Reggina Calcio,1,1,D,0.0,1.0,A
+ITA,2005-04-30,19:30,ACF Fiorentina,AC Milan,1,2,A,1.0,0.0,H
+ITA,2005-05-01,14:00,Inter,AC Siena,2,0,H,2.0,0.0,H
+ITA,2005-05-01,14:00,FC Messina,Sampdoria,2,2,D,1.0,1.0,D
+ITA,2005-05-01,14:00,US Lecce,Lazio Roma,5,3,H,2.0,1.0,H
+ITA,2005-05-01,14:00,Parma FC,AS Livorno,6,4,H,3.0,2.0,H
+ITA,2005-05-01,14:00,Udinese Calcio,Atalanta,2,1,H,2.0,1.0,H
+ITA,2005-05-01,14:00,Juventus,Bologna FC,2,1,H,2.0,1.0,H
+ITA,2005-05-01,14:00,AS Roma,Brescia Calcio,2,2,D,1.0,0.0,H
+ITA,2005-05-01,19:30,US Palermo,Chievo Verona,2,2,D,2.0,1.0,H
+ITA,2005-05-08,14:00,Lazio Roma,Udinese Calcio,0,1,A,0.0,0.0,D
+ITA,2005-05-08,14:00,Cagliari Calcio,US Palermo,0,0,D,0.0,0.0,D
+ITA,2005-05-08,14:00,Parma FC,AS Roma,2,1,H,0.0,1.0,A
+ITA,2005-05-08,14:00,AS Livorno,AC Siena,3,6,A,1.0,2.0,A
+ITA,2005-05-08,14:00,AC Milan,Juventus,0,1,A,0.0,1.0,A
+ITA,2005-05-08,14:00,Sampdoria,US Lecce,3,0,H,2.0,0.0,H
+ITA,2005-05-08,14:00,Atalanta,FC Messina,2,1,H,0.0,1.0,A
+ITA,2005-05-08,14:00,Reggina Calcio,Bologna FC,1,1,D,1.0,1.0,D
+ITA,2005-05-08,14:00,Chievo Verona,ACF Fiorentina,1,2,A,0.0,1.0,A
+ITA,2005-05-08,14:00,Brescia Calcio,Inter,0,3,A,0.0,0.0,D
+ITA,2005-05-15,14:00,Udinese Calcio,Sampdoria,1,1,D,1.0,1.0,D
+ITA,2005-05-15,14:00,US Lecce,AC Milan,2,2,D,0.0,1.0,A
+ITA,2005-05-15,14:00,Juventus,Parma FC,2,0,H,2.0,0.0,H
+ITA,2005-05-15,14:00,US Palermo,Reggina Calcio,1,1,D,0.0,1.0,A
+ITA,2005-05-15,14:00,AC Siena,Chievo Verona,0,1,A,0.0,0.0,D
+ITA,2005-05-15,14:00,AS Roma,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,2005-05-15,14:00,Inter,AS Livorno,1,0,H,1.0,0.0,H
+ITA,2005-05-15,14:00,ACF Fiorentina,Atalanta,0,0,D,0.0,0.0,D
+ITA,2005-05-15,14:00,Bologna FC,Brescia Calcio,1,2,A,0.0,0.0,D
+ITA,2005-05-15,14:00,FC Messina,Cagliari Calcio,2,1,H,1.0,0.0,H
+ITA,2005-05-20,19:30,AC Milan,US Palermo,3,3,D,3.0,1.0,H
+ITA,2005-05-22,14:00,Cagliari Calcio,Udinese Calcio,1,1,D,0.0,0.0,D
+ITA,2005-05-22,14:00,Atalanta,AS Roma,0,1,A,0.0,0.0,D
+ITA,2005-05-22,14:00,Parma FC,AC Siena,0,0,D,0.0,0.0,D
+ITA,2005-05-22,14:00,AS Livorno,Juventus,2,2,D,0.0,1.0,A
+ITA,2005-05-22,14:00,Reggina Calcio,US Lecce,2,2,D,2.0,2.0,D
+ITA,2005-05-22,14:00,Brescia Calcio,FC Messina,2,1,H,0.0,0.0,D
+ITA,2005-05-22,14:00,Chievo Verona,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2005-05-22,14:00,Lazio Roma,ACF Fiorentina,1,1,D,1.0,1.0,D
+ITA,2005-05-22,14:00,Sampdoria,Inter,0,1,A,0.0,1.0,A
+ITA,2005-05-29,14:00,Bologna FC,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2005-05-29,14:00,Udinese Calcio,AC Milan,1,1,D,0.0,0.0,D
+ITA,2005-05-29,14:00,US Lecce,Parma FC,3,3,D,2.0,2.0,D
+ITA,2005-05-29,14:00,Inter,Reggina Calcio,0,0,D,0.0,0.0,D
+ITA,2005-05-29,14:00,AS Roma,Chievo Verona,0,0,D,0.0,0.0,D
+ITA,2005-05-29,14:00,US Palermo,Lazio Roma,3,3,D,1.0,1.0,D
+ITA,2005-05-29,14:00,FC Messina,AS Livorno,1,1,D,0.0,0.0,D
+ITA,2005-05-29,14:00,AC Siena,Atalanta,2,1,H,1.0,0.0,H
+ITA,2005-05-29,14:00,ACF Fiorentina,Brescia Calcio,3,0,H,1.0,0.0,H
+ITA,2005-05-29,14:00,Juventus,Cagliari Calcio,4,2,H,1.0,0.0,H
+ITA,2005-06-14,19:30,Parma FC,Bologna FC,0,1,A,,,
+ITA,2005-06-18,19:30,Bologna FC,Parma FC,0,2,A,,,

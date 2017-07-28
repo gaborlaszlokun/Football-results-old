@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SVK,2009-07-10,18:30,Slovan Bratislava,FK Senica,3,0,H,1,0,H
+SVK,2009-07-11,16:30,MFK Petržalka,Tatran Prešov,0,1,A,0,0,D
+SVK,2009-07-11,16:30,MFK Ružomberok,MFK Dubnica,1,1,D,1,0,H
+SVK,2009-07-11,18:30,MFK Košice,DAC Dunajská Streda,2,0,H,1,0,H
+SVK,2009-07-11,18:30,MŠK Žilina,FC Nitra,1,1,D,1,0,H
+SVK,2009-07-12,18:30,Spartak Trnava,Dukla Banská Bystrica,0,0,D,0,0,D
+SVK,2009-07-18,16:30,FK Senica,Tatran Prešov,3,2,H,2,1,H
+SVK,2009-07-18,18:30,Dukla Banská Bystrica,MFK Košice,0,0,D,0,0,D
+SVK,2009-07-18,18:30,MFK Dubnica,MFK Petržalka,0,0,D,0,0,D
+SVK,2009-07-18,18:30,DAC Dunajská Streda,MFK Ružomberok,1,1,D,1,0,H
+SVK,2009-07-19,16:30,FC Nitra,Spartak Trnava,1,0,H,0,0,D
+SVK,2009-07-25,16:30,MFK Petržalka,DAC Dunajská Streda,1,0,H,0,0,D
+SVK,2009-07-25,16:30,MFK Ružomberok,Dukla Banská Bystrica,1,1,D,0,1,A
+SVK,2009-07-25,18:30,MFK Košice,FC Nitra,0,1,A,0,1,A
+SVK,2009-07-25,18:30,Tatran Prešov,MFK Dubnica,0,0,D,0,0,D
+SVK,2009-07-26,16:30,MŠK Žilina,FK Senica,3,0,H,2,0,H
+SVK,2009-07-26,18:30,Spartak Trnava,Slovan Bratislava,0,2,A,0,1,A
+SVK,2009-08-01,15:30,FK Senica,MFK Dubnica,2,1,H,2,1,H
+SVK,2009-08-01,18:30,Dukla Banská Bystrica,MFK Petržalka,3,0,H,2,0,H
+SVK,2009-08-01,18:30,FC Nitra,MFK Ružomberok,2,0,H,0,0,D
+SVK,2009-08-01,18:30,DAC Dunajská Streda,Tatran Prešov,3,0,H,1,0,H
+SVK,2009-08-02,18:30,Slovan Bratislava,MFK Košice,3,0,H,1,0,H
+SVK,2009-08-02,18:30,MŠK Žilina,Spartak Trnava,2,1,H,0,1,A
+SVK,2009-08-08,16:30,MFK Petržalka,FC Nitra,0,0,D,0,0,D
+SVK,2009-08-08,18:30,MFK Dubnica,DAC Dunajská Streda,1,3,A,0,2,A
+SVK,2009-08-08,18:30,Tatran Prešov,Dukla Banská Bystrica,0,1,A,0,1,A
+SVK,2009-08-08,18:30,Spartak Trnava,FK Senica,3,0,H,3,0,H
+SVK,2009-08-09,18:30,MFK Ružomberok,Slovan Bratislava,1,3,A,1,0,H
+SVK,2009-08-09,18:30,MFK Košice,MŠK Žilina,0,2,A,0,0,D
+SVK,2009-08-15,15:30,FK Senica,DAC Dunajská Streda,0,1,A,0,0,D
+SVK,2009-08-15,18:30,Dukla Banská Bystrica,MFK Dubnica,3,0,H,2,0,H
+SVK,2009-08-15,18:30,FC Nitra,Tatran Prešov,1,0,H,1,0,H
+SVK,2009-08-15,18:30,Slovan Bratislava,MFK Petržalka,1,1,D,1,1,D
+SVK,2009-08-15,18:30,MŠK Žilina,MFK Ružomberok,1,0,H,0,0,D
+SVK,2009-08-16,18:30,Spartak Trnava,MFK Košice,5,4,H,4,3,H
+SVK,2009-08-22,16:30,MFK Ružomberok,Spartak Trnava,2,1,H,0,1,A
+SVK,2009-08-22,18:30,DAC Dunajská Streda,Dukla Banská Bystrica,0,2,A,0,1,A
+SVK,2009-08-22,18:30,MFK Dubnica,FC Nitra,3,0,H,1,0,H
+SVK,2009-08-23,16:30,MFK Petržalka,MŠK Žilina,1,0,H,1,0,H
+SVK,2009-08-23,18:30,MFK Košice,FK Senica,0,1,A,0,1,A
+SVK,2009-08-23,18:30,Tatran Prešov,Slovan Bratislava,3,0,H,1,0,H
+SVK,2009-08-29,15:00,FK Senica,Dukla Banská Bystrica,2,2,D,1,1,D
+SVK,2009-08-29,18:30,Spartak Trnava,MFK Petržalka,2,0,H,1,0,H
+SVK,2009-08-30,18:30,FC Nitra,DAC Dunajská Streda,2,0,H,1,0,H
+SVK,2009-08-30,18:30,MFK Košice,MFK Ružomberok,3,1,H,3,0,H
+SVK,2009-08-30,18:30,Slovan Bratislava,MFK Dubnica,1,1,D,0,1,A
+SVK,2009-08-30,18:30,MŠK Žilina,Tatran Prešov,1,0,H,0,0,D
+SVK,2009-09-12,16:30,Dukla Banská Bystrica,FC Nitra,0,3,A,0,2,A
+SVK,2009-09-12,16:30,MFK Ružomberok,FK Senica,0,1,A,0,1,A
+SVK,2009-09-12,18:30,Tatran Prešov,Spartak Trnava,1,2,A,0,2,A
+SVK,2009-09-12,18:30,MFK Dubnica,MŠK Žilina,0,1,A,0,0,D
+SVK,2009-09-13,16:30,MFK Petržalka,MFK Košice,3,0,H,3,0,H
+SVK,2009-09-16,16:00,Slovan Bratislava,MŠK Žilina,2,1,H,0,0,D
+SVK,2009-09-19,14:00,FK Senica,FC Nitra,0,0,D,0,0,D
+SVK,2009-09-19,16:30,Slovan Bratislava,Dukla Banská Bystrica,3,0,H,2,0,H
+SVK,2009-09-19,18:30,MFK Ružomberok,MFK Petržalka,2,0,H,1,0,H
+SVK,2009-09-19,18:30,Spartak Trnava,MFK Dubnica,1,0,H,1,0,H
+SVK,2009-09-19,18:30,MŠK Žilina,DAC Dunajská Streda,1,0,H,0,0,D
+SVK,2009-09-20,18:15,MFK Košice,Tatran Prešov,0,1,A,0,1,A
+SVK,2009-09-26,16:30,Dukla Banská Bystrica,MŠK Žilina,1,0,H,1,0,H
+SVK,2009-09-26,16:30,FC Nitra,Slovan Bratislava,0,1,A,0,1,A
+SVK,2009-09-26,18:30,MFK Dubnica,MFK Košice,1,0,H,1,0,H
+SVK,2009-09-26,18:30,Tatran Prešov,MFK Ružomberok,1,0,H,1,0,H
+SVK,2009-09-27,18:30,MFK Petržalka,FK Senica,1,2,A,1,1,D
+SVK,2009-09-27,18:30,DAC Dunajská Streda,Spartak Trnava,2,1,H,1,0,H
+SVK,2009-10-03,13:30,FK Senica,Slovan Bratislava,0,2,A,0,1,A
+SVK,2009-10-03,16:30,MFK Dubnica,MFK Ružomberok,1,2,A,1,1,D
+SVK,2009-10-03,16:30,DAC Dunajská Streda,MFK Košice,1,1,D,0,1,A
+SVK,2009-10-03,16:30,Dukla Banská Bystrica,Spartak Trnava,1,0,H,1,0,H
+SVK,2009-10-03,16:30,FC Nitra,MŠK Žilina,0,1,A,0,1,A
+SVK,2009-10-03,16:30,Tatran Prešov,MFK Petržalka,2,0,H,2,0,H
+SVK,2009-10-17,16:30,MFK Ružomberok,DAC Dunajská Streda,0,0,D,0,0,D
+SVK,2009-10-17,16:30,Spartak Trnava,FC Nitra,1,2,A,1,1,D
+SVK,2009-10-17,16:30,Tatran Prešov,FK Senica,0,0,D,0,0,D
+SVK,2009-10-17,16:30,MFK Košice,Dukla Banská Bystrica,0,5,A,0,4,A
+SVK,2009-10-17,16:30,MFK Petržalka,MFK Dubnica,7,0,H,3,0,H
+SVK,2009-10-18,16:30,MŠK Žilina,Slovan Bratislava,2,0,H,1,0,H
+SVK,2009-10-24,13:00,FK Senica,MŠK Žilina,0,1,A,0,0,D
+SVK,2009-10-24,16:30,Dukla Banská Bystrica,MFK Ružomberok,1,1,D,1,0,H
+SVK,2009-10-24,16:30,DAC Dunajská Streda,MFK Petržalka,3,2,H,2,2,D
+SVK,2009-10-24,16:30,MFK Dubnica,Tatran Prešov,1,0,H,0,0,D
+SVK,2009-10-24,16:30,FC Nitra,MFK Košice,4,0,H,2,0,H
+SVK,2009-10-25,16:30,Slovan Bratislava,Spartak Trnava,1,1,D,0,0,D
+SVK,2009-10-28,16:30,DAC Dunajská Streda,Slovan Bratislava,0,0,D,0,0,D
+SVK,2009-10-31,16:30,MFK Ružomberok,FC Nitra,1,0,H,0,0,D
+SVK,2009-10-31,16:30,Spartak Trnava,MŠK Žilina,1,1,D,0,0,D
+SVK,2009-10-31,16:30,MFK Dubnica,FK Senica,0,1,A,0,0,D
+SVK,2009-10-31,16:30,MFK Petržalka,Dukla Banská Bystrica,1,1,D,1,1,D
+SVK,2009-10-31,16:30,Tatran Prešov,DAC Dunajská Streda,0,0,D,0,0,D
+SVK,2009-11-01,14:00,MFK Košice,Slovan Bratislava,1,2,A,1,0,H
+SVK,2009-11-07,12:30,FK Senica,Spartak Trnava,0,0,D,0,0,D
+SVK,2009-11-07,16:30,Dukla Banská Bystrica,Tatran Prešov,2,1,H,1,1,D
+SVK,2009-11-07,16:30,DAC Dunajská Streda,MFK Dubnica,1,1,D,0,0,D
+SVK,2009-11-07,16:30,FC Nitra,MFK Petržalka,1,3,A,0,2,A
+SVK,2009-11-07,16:30,Slovan Bratislava,MFK Ružomberok,0,2,A,0,0,D
+SVK,2009-11-08,14:00,MŠK Žilina,MFK Košice,4,1,H,3,1,H
+SVK,2009-11-21,14:30,MFK Ružomberok,MŠK Žilina,0,3,A,0,1,A
+SVK,2009-11-21,14:30,MFK Košice,Spartak Trnava,1,4,A,0,3,A
+SVK,2009-11-21,14:30,Tatran Prešov,FC Nitra,3,1,H,2,0,H
+SVK,2009-11-21,16:30,DAC Dunajská Streda,FK Senica,1,2,A,0,1,A
+SVK,2009-11-21,16:30,MFK Dubnica,Dukla Banská Bystrica,1,2,A,0,0,D
+SVK,2009-11-22,14:00,MFK Petržalka,Slovan Bratislava,0,2,A,0,1,A
+SVK,2009-11-28,14:30,Spartak Trnava,MFK Ružomberok,3,1,H,1,1,D
+SVK,2009-11-28,14:30,Dukla Banská Bystrica,DAC Dunajská Streda,2,0,H,2,0,H
+SVK,2009-11-28,14:30,Slovan Bratislava,Tatran Prešov,3,1,H,0,0,D
+SVK,2009-11-28,16:30,FK Senica,MFK Košice,2,2,D,2,0,H
+SVK,2009-11-28,16:30,MŠK Žilina,MFK Petržalka,2,0,H,1,0,H
+SVK,2009-11-29,14:00,FC Nitra,MFK Dubnica,0,1,A,0,1,A
+SVK,2009-12-05,14:30,MFK Ružomberok,MFK Košice,2,0,H,1,0,H
+SVK,2009-12-05,14:30,MFK Petržalka,Spartak Trnava,2,1,H,0,1,A
+SVK,2009-12-05,14:30,DAC Dunajská Streda,FC Nitra,2,2,D,1,2,A
+SVK,2009-12-05,14:30,Tatran Prešov,MŠK Žilina,1,0,H,1,0,H
+SVK,2009-12-05,14:30,MFK Dubnica,Slovan Bratislava,0,1,A,0,1,A
+SVK,2009-12-06,14:00,Dukla Banská Bystrica,FK Senica,1,0,H,0,0,D
+SVK,2010-02-27,14:30,MFK Košice,MFK Petržalka,1,0,H,1,0,H
+SVK,2010-02-27,14:30,Spartak Trnava,Tatran Prešov,2,0,H,0,0,D
+SVK,2010-02-27,14:30,Slovan Bratislava,DAC Dunajská Streda,2,0,H,0,0,D
+SVK,2010-02-27,14:30,FC Nitra,Dukla Banská Bystrica,0,0,D,0,0,D
+SVK,2010-02-27,16:30,MŠK Žilina,MFK Dubnica,4,0,H,1,0,H
+SVK,2010-02-27,16:30,FK Senica,MFK Ružomberok,2,1,H,2,1,H
+SVK,2010-03-06,14:30,FC Nitra,FK Senica,2,1,H,0,1,A
+SVK,2010-03-06,14:30,MFK Petržalka,MFK Ružomberok,2,2,D,0,1,A
+SVK,2010-03-06,14:30,MFK Dubnica,Spartak Trnava,2,1,H,0,0,D
+SVK,2010-03-06,14:30,Dukla Banská Bystrica,Slovan Bratislava,2,1,H,2,0,H
+SVK,2010-03-06,16:30,DAC Dunajská Streda,MŠK Žilina,0,2,A,0,1,A
+SVK,2010-03-07,13:30,Tatran Prešov,MFK Košice,1,1,D,0,0,D
+SVK,2010-03-13,14:30,MFK Ružomberok,Tatran Prešov,2,0,H,2,0,H
+SVK,2010-03-13,14:30,Slovan Bratislava,FC Nitra,2,1,H,0,0,D
+SVK,2010-03-13,14:30,Spartak Trnava,DAC Dunajská Streda,7,0,H,3,0,H
+SVK,2010-03-13,14:30,MFK Košice,MFK Dubnica,1,1,D,0,1,A
+SVK,2010-03-13,16:30,FK Senica,MFK Petržalka,2,0,H,0,0,D
+SVK,2010-03-14,13:30,MŠK Žilina,Dukla Banská Bystrica,3,1,H,1,1,D
+SVK,2010-03-20,14:30,MFK Petržalka,Tatran Prešov,2,3,A,1,2,A
+SVK,2010-03-20,14:30,MFK Ružomberok,MFK Dubnica,1,0,H,0,0,D
+SVK,2010-03-20,14:30,MFK Košice,DAC Dunajská Streda,2,1,H,2,0,H
+SVK,2010-03-20,14:30,Spartak Trnava,Dukla Banská Bystrica,2,0,H,0,0,D
+SVK,2010-03-20,16:30,MŠK Žilina,FC Nitra,0,1,A,0,0,D
+SVK,2010-03-21,13:30,Slovan Bratislava,FK Senica,2,0,H,0,0,D
+SVK,2010-03-24,16:30,FK Senica,Tatran Prešov,1,2,A,0,1,A
+SVK,2010-03-24,16:30,Dukla Banská Bystrica,MFK Košice,2,2,D,2,1,H
+SVK,2010-03-24,16:30,MFK Dubnica,MFK Petržalka,2,0,H,2,0,H
+SVK,2010-03-24,16:30,DAC Dunajská Streda,MFK Ružomberok,0,0,D,0,0,D
+SVK,2010-03-24,16:30,FC Nitra,Spartak Trnava,2,2,D,1,1,D
+SVK,2010-03-24,19:00,Slovan Bratislava,MŠK Žilina,2,0,H,1,0,H
+SVK,2010-03-27,14:30,MFK Petržalka,DAC Dunajská Streda,1,1,D,0,1,A
+SVK,2010-03-27,14:30,MFK Ružomberok,Dukla Banská Bystrica,1,0,H,0,0,D
+SVK,2010-03-27,14:30,MFK Košice,FC Nitra,2,0,H,0,0,D
+SVK,2010-03-27,14:30,Tatran Prešov,MFK Dubnica,2,0,H,2,0,H
+SVK,2010-03-27,14:30,MŠK Žilina,FK Senica,2,1,H,1,0,H
+SVK,2010-03-28,13:30,Spartak Trnava,Slovan Bratislava,0,3,A,0,1,A
+SVK,2010-04-03,16:30,Dukla Banská Bystrica,MFK Petržalka,4,0,H,3,0,H
+SVK,2010-04-03,16:30,Slovan Bratislava,MFK Košice,0,0,D,0,0,D
+SVK,2010-04-03,18:30,FK Senica,MFK Dubnica,1,1,D,1,0,H
+SVK,2010-04-03,18:30,DAC Dunajská Streda,Tatran Prešov,2,1,H,1,1,D
+SVK,2010-04-03,18:30,MŠK Žilina,Spartak Trnava,5,1,H,3,1,H
+SVK,2010-04-04,13:30,FC Nitra,MFK Ružomberok,3,1,H,2,1,H
+SVK,2010-04-10,16:30,MFK Ružomberok,Slovan Bratislava,2,0,H,1,0,H
+SVK,2010-04-10,16:30,MFK Petržalka,FC Nitra,3,2,H,3,0,H
+SVK,2010-04-10,16:30,MFK Dubnica,DAC Dunajská Streda,1,1,D,1,0,H
+SVK,2010-04-10,16:30,Tatran Prešov,Dukla Banská Bystrica,0,1,A,0,1,A
+SVK,2010-04-10,16:30,Spartak Trnava,FK Senica,1,2,A,1,1,D
+SVK,2010-04-11,13:30,MFK Košice,MŠK Žilina,0,4,A,0,2,A
+SVK,2010-04-17,16:30,Dukla Banská Bystrica,MFK Dubnica,1,1,D,0,1,A
+SVK,2010-04-17,16:30,FC Nitra,Tatran Prešov,4,2,H,3,1,H
+SVK,2010-04-17,16:30,Slovan Bratislava,MFK Petržalka,1,1,D,1,0,H
+SVK,2010-04-17,16:30,Spartak Trnava,MFK Košice,4,0,H,2,0,H
+SVK,2010-04-17,18:30,FK Senica,DAC Dunajská Streda,2,2,D,0,0,D
+SVK,2010-04-18,13:30,MŠK Žilina,MFK Ružomberok,1,0,H,0,0,D
+SVK,2010-04-24,16:30,MFK Ružomberok,Spartak Trnava,2,1,H,1,0,H
+SVK,2010-04-24,16:30,MFK Petržalka,MŠK Žilina,0,4,A,0,2,A
+SVK,2010-04-24,16:30,MFK Dubnica,FC Nitra,1,0,H,0,0,D
+SVK,2010-04-24,16:30,MFK Košice,FK Senica,2,0,H,1,0,H
+SVK,2010-04-24,16:30,Tatran Prešov,Slovan Bratislava,0,1,A,0,1,A
+SVK,2010-04-25,13:30,DAC Dunajská Streda,Dukla Banská Bystrica,1,1,D,1,0,H
+SVK,2010-05-01,16:30,FK Senica,Dukla Banská Bystrica,2,1,H,1,0,H
+SVK,2010-05-01,16:30,MFK Košice,MFK Ružomberok,2,0,H,1,0,H
+SVK,2010-05-01,16:30,Slovan Bratislava,MFK Dubnica,2,2,D,0,1,A
+SVK,2010-05-01,16:30,Spartak Trnava,MFK Petržalka,3,1,H,2,1,H
+SVK,2010-05-01,18:30,FC Nitra,DAC Dunajská Streda,1,0,H,1,0,H
+SVK,2010-05-01,18:30,MŠK Žilina,Tatran Prešov,1,0,H,0,0,D
+SVK,2010-05-05,17:00,Dukla Banská Bystrica,FC Nitra,3,1,H,1,1,D
+SVK,2010-05-05,17:00,MFK Petržalka,MFK Košice,0,0,D,0,0,D
+SVK,2010-05-05,17:00,MFK Ružomberok,FK Senica,2,1,H,0,1,A
+SVK,2010-05-05,17:00,DAC Dunajská Streda,Slovan Bratislava,0,1,A,0,1,A
+SVK,2010-05-05,17:00,MFK Dubnica,MŠK Žilina,1,1,D,0,1,A
+SVK,2010-05-05,17:00,Tatran Prešov,Spartak Trnava,3,0,H,0,0,D
+SVK,2010-05-08,17:00,FK Senica,FC Nitra,1,2,A,0,0,D
+SVK,2010-05-08,17:00,MFK Ružomberok,MFK Petržalka,1,0,H,0,0,D
+SVK,2010-05-08,17:00,Slovan Bratislava,Dukla Banská Bystrica,2,0,H,1,0,H
+SVK,2010-05-08,17:00,MFK Košice,Tatran Prešov,3,1,H,1,0,H
+SVK,2010-05-08,17:00,Spartak Trnava,MFK Dubnica,0,1,A,0,0,D
+SVK,2010-05-08,17:00,MŠK Žilina,DAC Dunajská Streda,4,0,H,1,0,H
+SVK,2010-05-15,17:00,Dukla Banská Bystrica,MŠK Žilina,1,1,D,1,0,H
+SVK,2010-05-15,17:00,FC Nitra,Slovan Bratislava,2,5,A,0,1,A
+SVK,2010-05-15,17:00,MFK Petržalka,FK Senica,1,2,A,1,1,D
+SVK,2010-05-15,17:00,DAC Dunajská Streda,Spartak Trnava,2,1,H,0,0,D
+SVK,2010-05-15,17:00,MFK Dubnica,MFK Košice,1,1,D,0,0,D
+SVK,2010-05-15,17:00,Tatran Prešov,MFK Ružomberok,0,0,D,0,0,D

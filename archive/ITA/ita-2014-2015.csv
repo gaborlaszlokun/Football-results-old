@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2014-08-30,17:00,Chievo Verona,Juventus,0,1,A,0,1,A
+ITA,2014-08-30,19:45,AS Roma,ACF Fiorentina,2,0,H,1,0,H
+ITA,2014-08-31,17:00,Atalanta,Hellas Verona,0,0,D,0,0,D
+ITA,2014-08-31,17:00,AC Milan,Lazio Roma,3,1,H,1,0,H
+ITA,2014-08-31,19:45,AC Cesena,Parma FC,1,0,H,1,0,H
+ITA,2014-08-31,19:45,Genoa CFC,SSC Napoli,1,2,A,1,1,D
+ITA,2014-08-31,19:45,US Palermo,Sampdoria,1,1,D,1,0,H
+ITA,2014-08-31,19:45,Sassuolo Calcio,Cagliari Calcio,1,1,D,1,1,D
+ITA,2014-08-31,19:45,Torino FC,Inter,0,0,D,0,0,D
+ITA,2014-08-31,19:45,Udinese Calcio,Empoli FC,2,0,H,0,0,D
+ITA,2014-09-13,17:00,Empoli FC,AS Roma,0,1,A,0,1,A
+ITA,2014-09-13,19:45,Juventus,Udinese Calcio,2,0,H,1,0,H
+ITA,2014-09-14,11:30,Sampdoria,Torino FC,2,0,H,1,0,H
+ITA,2014-09-14,14:00,Cagliari Calcio,Atalanta,1,2,A,0,1,A
+ITA,2014-09-14,14:00,ACF Fiorentina,Genoa CFC,0,0,D,0,0,D
+ITA,2014-09-14,14:00,Inter,Sassuolo Calcio,7,0,H,4,0,H
+ITA,2014-09-14,14:00,Lazio Roma,AC Cesena,3,0,H,1,0,H
+ITA,2014-09-14,14:00,SSC Napoli,Chievo Verona,0,1,A,0,0,D
+ITA,2014-09-14,19:45,Parma FC,AC Milan,4,5,A,1,3,A
+ITA,2014-09-15,19:45,Hellas Verona,US Palermo,2,1,H,1,1,D
+ITA,2014-09-20,17:00,AC Cesena,Empoli FC,2,2,D,2,0,H
+ITA,2014-09-20,19:45,AC Milan,Juventus,0,1,A,0,0,D
+ITA,2014-09-21,11:30,Chievo Verona,Parma FC,2,3,A,1,0,H
+ITA,2014-09-21,14:00,Genoa CFC,Lazio Roma,1,0,H,0,0,D
+ITA,2014-09-21,14:00,AS Roma,Cagliari Calcio,2,0,H,2,0,H
+ITA,2014-09-21,14:00,Sassuolo Calcio,Sampdoria,0,0,D,0,0,D
+ITA,2014-09-21,17:00,Atalanta,ACF Fiorentina,0,1,A,0,0,D
+ITA,2014-09-21,17:00,Udinese Calcio,SSC Napoli,1,0,H,0,0,D
+ITA,2014-09-21,19:45,US Palermo,Inter,1,1,D,1,1,D
+ITA,2014-09-21,19:45,Torino FC,Hellas Verona,0,1,A,0,0,D
+ITA,2014-09-23,19:45,Empoli FC,AC Milan,2,2,D,2,1,H
+ITA,2014-09-24,19:45,Cagliari Calcio,Torino FC,1,2,A,1,2,A
+ITA,2014-09-24,19:45,ACF Fiorentina,Sassuolo Calcio,0,0,D,0,0,D
+ITA,2014-09-24,19:45,Hellas Verona,Genoa CFC,2,2,D,0,1,A
+ITA,2014-09-24,19:45,Inter,Atalanta,2,0,H,1,0,H
+ITA,2014-09-24,19:45,Juventus,AC Cesena,3,0,H,1,0,H
+ITA,2014-09-24,19:45,SSC Napoli,US Palermo,3,3,D,3,2,H
+ITA,2014-09-24,19:45,Parma FC,AS Roma,1,2,A,0,1,A
+ITA,2014-09-24,19:45,Sampdoria,Chievo Verona,2,1,H,1,0,H
+ITA,2014-09-25,19:45,Lazio Roma,Udinese Calcio,0,1,A,0,1,A
+ITA,2014-09-27,17:00,AS Roma,Hellas Verona,2,0,H,0,0,D
+ITA,2014-09-27,19:45,Atalanta,Juventus,0,3,A,0,1,A
+ITA,2014-09-28,11:30,Sassuolo Calcio,SSC Napoli,0,1,A,0,1,A
+ITA,2014-09-28,14:00,AC Cesena,AC Milan,1,1,D,1,1,D
+ITA,2014-09-28,14:00,Chievo Verona,Empoli FC,1,1,D,0,0,D
+ITA,2014-09-28,14:00,Inter,Cagliari Calcio,1,4,A,1,4,A
+ITA,2014-09-28,14:00,Torino FC,ACF Fiorentina,1,1,D,0,0,D
+ITA,2014-09-28,19:45,Genoa CFC,Sampdoria,0,1,A,0,0,D
+ITA,2014-09-29,18:00,Udinese Calcio,Parma FC,4,2,H,2,2,D
+ITA,2014-09-29,20:00,US Palermo,Lazio Roma,0,4,A,0,1,A
+ITA,2014-10-04,17:00,Hellas Verona,Cagliari Calcio,1,0,H,0,0,D
+ITA,2014-10-04,19:45,AC Milan,Chievo Verona,2,0,H,0,0,D
+ITA,2014-10-05,11:30,Empoli FC,US Palermo,3,0,H,2,0,H
+ITA,2014-10-05,14:00,Lazio Roma,Sassuolo Calcio,3,2,H,3,1,H
+ITA,2014-10-05,14:00,Parma FC,Genoa CFC,1,2,A,0,0,D
+ITA,2014-10-05,14:00,Sampdoria,Atalanta,1,0,H,1,0,H
+ITA,2014-10-05,14:00,Udinese Calcio,AC Cesena,1,1,D,0,0,D
+ITA,2014-10-05,17:00,Juventus,AS Roma,3,2,H,2,2,D
+ITA,2014-10-05,19:45,ACF Fiorentina,Inter,3,0,H,2,0,H
+ITA,2014-10-05,19:45,SSC Napoli,Torino FC,2,1,H,0,1,A
+ITA,2014-10-18,17:00,AS Roma,Chievo Verona,3,0,H,3,0,H
+ITA,2014-10-18,19:45,Sassuolo Calcio,Juventus,1,1,D,1,1,D
+ITA,2014-10-19,11:30,ACF Fiorentina,Lazio Roma,0,2,A,0,1,A
+ITA,2014-10-19,14:00,Atalanta,Parma FC,1,0,H,0,0,D
+ITA,2014-10-19,14:00,Cagliari Calcio,Sampdoria,2,2,D,0,2,A
+ITA,2014-10-19,14:00,Hellas Verona,AC Milan,1,3,A,0,2,A
+ITA,2014-10-19,14:00,US Palermo,AC Cesena,2,1,H,1,0,H
+ITA,2014-10-19,14:00,Torino FC,Udinese Calcio,1,0,H,0,0,D
+ITA,2014-10-19,19:45,Inter,SSC Napoli,2,2,D,0,0,D
+ITA,2014-10-20,19:45,Genoa CFC,Empoli FC,1,1,D,1,0,H
+ITA,2014-10-25,14:00,Empoli FC,Cagliari Calcio,0,4,A,0,4,A
+ITA,2014-10-25,17:00,Parma FC,Sassuolo Calcio,1,3,A,0,2,A
+ITA,2014-10-25,19:45,Sampdoria,AS Roma,0,0,D,0,0,D
+ITA,2014-10-26,14:00,Chievo Verona,Genoa CFC,1,2,A,1,0,H
+ITA,2014-10-26,14:00,Juventus,US Palermo,2,0,H,1,0,H
+ITA,2014-10-26,14:00,Udinese Calcio,Atalanta,2,0,H,2,0,H
+ITA,2014-10-26,17:00,AC Cesena,Inter,0,1,A,0,1,A
+ITA,2014-10-26,17:00,Lazio Roma,Torino FC,2,1,H,1,0,H
+ITA,2014-10-26,17:00,SSC Napoli,Hellas Verona,6,2,H,1,1,D
+ITA,2014-10-26,19:45,AC Milan,ACF Fiorentina,1,1,D,1,0,H
+ITA,2014-10-28,19:45,Sassuolo Calcio,Empoli FC,3,1,H,0,1,A
+ITA,2014-10-29,19:45,Atalanta,SSC Napoli,1,1,D,0,0,D
+ITA,2014-10-29,19:45,Cagliari Calcio,AC Milan,1,1,D,1,1,D
+ITA,2014-10-29,19:45,ACF Fiorentina,Udinese Calcio,3,0,H,1,0,H
+ITA,2014-10-29,19:45,Genoa CFC,Juventus,1,0,H,0,0,D
+ITA,2014-10-29,19:45,Inter,Sampdoria,1,0,H,0,0,D
+ITA,2014-10-29,19:45,US Palermo,Chievo Verona,1,0,H,0,0,D
+ITA,2014-10-29,19:45,AS Roma,AC Cesena,2,0,H,1,0,H
+ITA,2014-10-29,19:45,Torino FC,Parma FC,1,0,H,1,0,H
+ITA,2014-10-30,19:45,Hellas Verona,Lazio Roma,1,1,D,0,1,A
+ITA,2014-11-01,14:00,SSC Napoli,AS Roma,2,0,H,1,0,H
+ITA,2014-11-01,17:00,Empoli FC,Juventus,0,2,A,0,0,D
+ITA,2014-11-01,19:45,Parma FC,Inter,2,0,H,1,0,H
+ITA,2014-11-02,14:00,Chievo Verona,Sassuolo Calcio,0,0,D,0,0,D
+ITA,2014-11-02,14:00,Sampdoria,ACF Fiorentina,3,1,H,2,1,H
+ITA,2014-11-02,14:00,Torino FC,Atalanta,0,0,D,0,0,D
+ITA,2014-11-02,14:00,Udinese Calcio,Genoa CFC,2,4,A,2,2,D
+ITA,2014-11-02,19:45,AC Milan,US Palermo,0,2,A,0,2,A
+ITA,2014-11-03,18:00,AC Cesena,Hellas Verona,1,1,D,1,0,H
+ITA,2014-11-03,20:00,Lazio Roma,Cagliari Calcio,4,2,H,3,0,H
+ITA,2014-11-08,17:00,Sassuolo Calcio,Atalanta,0,0,D,0,0,D
+ITA,2014-11-08,19:45,Sampdoria,AC Milan,2,2,D,0,1,A
+ITA,2014-11-09,11:30,Cagliari Calcio,Genoa CFC,1,1,D,1,0,H
+ITA,2014-11-09,14:00,Chievo Verona,AC Cesena,2,1,H,0,0,D
+ITA,2014-11-09,14:00,Empoli FC,Lazio Roma,2,1,H,0,0,D
+ITA,2014-11-09,14:00,Juventus,Parma FC,7,0,H,3,0,H
+ITA,2014-11-09,14:00,US Palermo,Udinese Calcio,1,1,D,1,1,D
+ITA,2014-11-09,17:00,ACF Fiorentina,SSC Napoli,0,1,A,0,0,D
+ITA,2014-11-09,19:45,Inter,Hellas Verona,2,2,D,1,1,D
+ITA,2014-11-09,19:45,AS Roma,Torino FC,3,0,H,2,0,H
+ITA,2014-11-22,17:00,Atalanta,AS Roma,1,2,A,1,2,A
+ITA,2014-11-22,19:45,Lazio Roma,Juventus,0,3,A,0,1,A
+ITA,2014-11-23,11:30,Torino FC,Sassuolo Calcio,0,1,A,0,0,D
+ITA,2014-11-23,14:00,AC Cesena,Sampdoria,1,1,D,0,0,D
+ITA,2014-11-23,14:00,Hellas Verona,ACF Fiorentina,1,2,A,1,1,D
+ITA,2014-11-23,14:00,SSC Napoli,Cagliari Calcio,3,3,D,2,1,H
+ITA,2014-11-23,14:00,Parma FC,Empoli FC,0,2,A,0,1,A
+ITA,2014-11-23,14:00,Udinese Calcio,Chievo Verona,1,1,D,1,0,H
+ITA,2014-11-23,19:45,AC Milan,Inter,1,1,D,1,0,H
+ITA,2014-11-24,19:45,Genoa CFC,US Palermo,1,1,D,1,1,D
+ITA,2014-11-29,17:00,Sassuolo Calcio,Hellas Verona,2,1,H,0,1,A
+ITA,2014-11-29,19:45,Chievo Verona,Lazio Roma,0,0,D,0,0,D
+ITA,2014-11-30,14:00,Cagliari Calcio,ACF Fiorentina,0,4,A,0,1,A
+ITA,2014-11-30,14:00,AC Cesena,Genoa CFC,0,3,A,0,3,A
+ITA,2014-11-30,14:00,Empoli FC,Atalanta,0,0,D,0,0,D
+ITA,2014-11-30,14:00,AC Milan,Udinese Calcio,2,0,H,0,0,D
+ITA,2014-11-30,14:00,US Palermo,Parma FC,2,1,H,1,1,D
+ITA,2014-11-30,17:00,Juventus,Torino FC,2,1,H,1,1,D
+ITA,2014-11-30,19:45,AS Roma,Inter,4,2,H,1,1,D
+ITA,2014-12-01,20:00,Sampdoria,SSC Napoli,1,1,D,0,0,D
+ITA,2014-12-05,19:45,ACF Fiorentina,Juventus,0,0,D,0,0,D
+ITA,2014-12-06,17:00,AS Roma,Sassuolo Calcio,2,2,D,0,2,A
+ITA,2014-12-06,19:45,Torino FC,US Palermo,2,2,D,1,2,A
+ITA,2014-12-07,11:30,SSC Napoli,Empoli FC,2,2,D,0,1,A
+ITA,2014-12-07,14:00,Atalanta,AC Cesena,3,2,H,1,2,A
+ITA,2014-12-07,14:00,Genoa CFC,AC Milan,1,0,H,1,0,H
+ITA,2014-12-07,14:00,Parma FC,Lazio Roma,1,2,A,1,1,D
+ITA,2014-12-07,19:45,Inter,Udinese Calcio,1,2,A,1,0,H
+ITA,2014-12-08,18:00,Cagliari Calcio,Chievo Verona,0,2,A,0,2,A
+ITA,2014-12-08,20:00,Hellas Verona,Sampdoria,1,3,A,1,1,D
+ITA,2014-12-13,17:00,US Palermo,Sassuolo Calcio,2,1,H,1,0,H
+ITA,2014-12-13,19:45,Lazio Roma,Atalanta,3,0,H,0,0,D
+ITA,2014-12-14,11:30,Juventus,Sampdoria,1,1,D,1,0,H
+ITA,2014-12-14,14:00,Genoa CFC,AS Roma,0,1,A,0,1,A
+ITA,2014-12-14,14:00,Parma FC,Cagliari Calcio,0,0,D,0,0,D
+ITA,2014-12-14,14:00,Udinese Calcio,Hellas Verona,1,2,A,1,1,D
+ITA,2014-12-14,17:00,AC Cesena,ACF Fiorentina,1,4,A,0,1,A
+ITA,2014-12-14,19:45,AC Milan,SSC Napoli,2,0,H,1,0,H
+ITA,2014-12-15,18:00,Empoli FC,Torino FC,0,0,D,0,0,D
+ITA,2014-12-15,20:00,Chievo Verona,Inter,0,2,A,0,1,A
+ITA,2014-12-18,18:00,Cagliari Calcio,Juventus,1,3,A,0,2,A
+ITA,2014-12-18,20:00,SSC Napoli,Parma FC,2,0,H,2,0,H
+ITA,2014-12-20,17:00,Sassuolo Calcio,AC Cesena,1,1,D,0,0,D
+ITA,2014-12-20,19:45,AS Roma,AC Milan,0,0,D,0,0,D
+ITA,2014-12-21,11:30,Hellas Verona,Chievo Verona,0,1,A,0,0,D
+ITA,2014-12-21,14:00,Atalanta,US Palermo,3,3,D,1,3,A
+ITA,2014-12-21,14:00,ACF Fiorentina,Empoli FC,1,1,D,1,0,H
+ITA,2014-12-21,14:00,Sampdoria,Udinese Calcio,2,2,D,1,2,A
+ITA,2014-12-21,14:00,Torino FC,Genoa CFC,2,1,H,0,1,A
+ITA,2014-12-21,19:45,Inter,Lazio Roma,2,2,D,0,2,A
+ITA,2015-01-05,19:45,Lazio Roma,Sampdoria,3,0,H,2,0,H
+ITA,2015-01-06,11:30,Udinese Calcio,AS Roma,0,1,A,0,1,A
+ITA,2015-01-06,14:00,Chievo Verona,Torino FC,0,0,D,0,0,D
+ITA,2015-01-06,14:00,Empoli FC,Hellas Verona,0,0,D,0,0,D
+ITA,2015-01-06,14:00,Genoa CFC,Atalanta,2,2,D,0,1,A
+ITA,2015-01-06,14:00,AC Milan,Sassuolo Calcio,1,2,A,1,1,D
+ITA,2015-01-06,14:00,US Palermo,Cagliari Calcio,5,0,H,3,0,H
+ITA,2015-01-06,14:00,Parma FC,ACF Fiorentina,1,0,H,1,0,H
+ITA,2015-01-06,17:00,AC Cesena,SSC Napoli,1,4,A,0,2,A
+ITA,2015-01-06,20:00,Juventus,Inter,1,1,D,1,0,H
+ITA,2015-01-10,17:00,Sassuolo Calcio,Udinese Calcio,1,1,D,1,1,D
+ITA,2015-01-10,19:45,Torino FC,AC Milan,1,1,D,0,1,A
+ITA,2015-01-11,11:30,Inter,Genoa CFC,3,1,H,2,0,H
+ITA,2015-01-11,14:00,Atalanta,Chievo Verona,1,1,D,0,0,D
+ITA,2015-01-11,14:00,Cagliari Calcio,AC Cesena,2,1,H,2,0,H
+ITA,2015-01-11,14:00,ACF Fiorentina,US Palermo,4,3,H,1,0,H
+ITA,2015-01-11,14:00,Hellas Verona,Parma FC,3,1,H,1,0,H
+ITA,2015-01-11,14:00,AS Roma,Lazio Roma,2,2,D,0,2,A
+ITA,2015-01-11,14:00,Sampdoria,Empoli FC,1,0,H,0,0,D
+ITA,2015-01-11,19:45,SSC Napoli,Juventus,1,3,A,0,1,A
+ITA,2015-01-17,17:00,Empoli FC,Inter,0,0,D,0,0,D
+ITA,2015-01-17,19:45,US Palermo,AS Roma,1,1,D,1,0,H
+ITA,2015-01-18,11:30,Lazio Roma,SSC Napoli,0,1,A,0,1,A
+ITA,2015-01-18,14:00,AC Cesena,Torino FC,2,3,A,1,2,A
+ITA,2015-01-18,14:00,Chievo Verona,ACF Fiorentina,1,2,A,0,1,A
+ITA,2015-01-18,14:00,Genoa CFC,Sassuolo Calcio,3,3,D,1,1,D
+ITA,2015-01-18,14:00,AC Milan,Atalanta,0,1,A,0,1,A
+ITA,2015-01-18,14:00,Parma FC,Sampdoria,0,2,A,0,0,D
+ITA,2015-01-18,14:00,Udinese Calcio,Cagliari Calcio,2,2,D,0,1,A
+ITA,2015-01-18,19:45,Juventus,Hellas Verona,4,0,H,2,0,H
+ITA,2015-01-24,17:00,Cagliari Calcio,Sassuolo Calcio,2,1,H,1,0,H
+ITA,2015-01-24,19:45,Lazio Roma,AC Milan,3,1,H,0,1,A
+ITA,2015-01-25,14:00,Hellas Verona,Atalanta,1,0,H,0,0,D
+ITA,2015-01-25,14:00,Parma FC,AC Cesena,1,2,A,0,1,A
+ITA,2015-01-25,14:00,Juventus,Chievo Verona,2,0,H,0,0,D
+ITA,2015-01-25,14:00,Sampdoria,US Palermo,1,1,D,1,0,H
+ITA,2015-01-25,14:00,Inter,Torino FC,0,1,A,0,0,D
+ITA,2015-01-25,19:45,ACF Fiorentina,AS Roma,1,1,D,1,0,H
+ITA,2015-01-26,18:00,Empoli FC,Udinese Calcio,1,2,A,1,1,D
+ITA,2015-01-26,20:00,SSC Napoli,Genoa CFC,2,1,H,1,0,H
+ITA,2015-01-31,17:00,Genoa CFC,ACF Fiorentina,1,1,D,1,0,H
+ITA,2015-01-31,19:45,AS Roma,Empoli FC,1,1,D,0,1,A
+ITA,2015-02-01,11:30,Sassuolo Calcio,Inter,3,1,H,2,0,H
+ITA,2015-02-01,14:00,Atalanta,Cagliari Calcio,2,1,H,1,1,D
+ITA,2015-02-01,14:00,US Palermo,Hellas Verona,2,1,H,1,1,D
+ITA,2015-02-01,14:00,Udinese Calcio,Juventus,0,0,D,0,0,D
+ITA,2015-02-01,14:00,AC Cesena,Lazio Roma,2,1,H,0,0,D
+ITA,2015-02-01,14:00,Chievo Verona,SSC Napoli,1,2,A,1,1,D
+ITA,2015-02-01,14:00,Torino FC,Sampdoria,5,1,H,2,0,H
+ITA,2015-02-01,19:45,AC Milan,Parma FC,3,1,H,1,1,D
+ITA,2015-02-07,17:00,Hellas Verona,Torino FC,1,3,A,0,1,A
+ITA,2015-02-07,19:45,Juventus,AC Milan,3,1,H,2,1,H
+ITA,2015-02-08,11:30,ACF Fiorentina,Atalanta,3,2,H,1,1,D
+ITA,2015-02-08,14:00,Empoli FC,AC Cesena,2,0,H,1,0,H
+ITA,2015-02-08,14:00,Cagliari Calcio,AS Roma,1,2,A,0,1,A
+ITA,2015-02-08,14:00,Sampdoria,Sassuolo Calcio,1,1,D,1,1,D
+ITA,2015-02-08,14:00,SSC Napoli,Udinese Calcio,3,1,H,2,1,H
+ITA,2015-02-08,19:45,Inter,US Palermo,3,0,H,1,0,H
+ITA,2015-02-09,19:45,Lazio Roma,Genoa CFC,0,1,A,0,1,A
+ITA,2015-02-11,17:00,Parma FC,Chievo Verona,0,1,A,0,0,D
+ITA,2015-02-14,17:00,Sassuolo Calcio,ACF Fiorentina,1,3,A,0,2,A
+ITA,2015-02-14,19:45,US Palermo,SSC Napoli,3,1,H,2,0,H
+ITA,2015-02-15,11:30,AC Milan,Empoli FC,1,1,D,1,0,H
+ITA,2015-02-15,14:00,Torino FC,Cagliari Calcio,1,1,D,1,1,D
+ITA,2015-02-15,14:00,Genoa CFC,Hellas Verona,5,2,H,3,1,H
+ITA,2015-02-15,14:00,Atalanta,Inter,1,4,A,1,2,A
+ITA,2015-02-15,14:00,Udinese Calcio,Lazio Roma,0,1,A,0,1,A
+ITA,2015-02-15,14:00,AS Roma,Parma FC,0,0,D,0,0,D
+ITA,2015-02-15,17:00,Chievo Verona,Sampdoria,2,1,H,2,0,H
+ITA,2015-02-15,19:45,AC Cesena,Juventus,2,2,D,1,2,A
+ITA,2015-02-20,19:45,Juventus,Atalanta,2,1,H,2,1,H
+ITA,2015-02-22,14:00,AC Milan,AC Cesena,2,0,H,1,0,H
+ITA,2015-02-22,14:00,Empoli FC,Chievo Verona,3,0,H,1,0,H
+ITA,2015-02-22,14:00,Lazio Roma,US Palermo,2,1,H,1,1,D
+ITA,2015-02-22,14:00,Hellas Verona,AS Roma,1,1,D,1,1,D
+ITA,2015-02-22,19:45,ACF Fiorentina,Torino FC,1,1,D,0,0,D
+ITA,2015-02-23,18:00,SSC Napoli,Sassuolo Calcio,2,0,H,0,0,D
+ITA,2015-02-23,20:00,Cagliari Calcio,Inter,1,2,A,0,0,D
+ITA,2015-02-24,17:30,Sampdoria,Genoa CFC,1,1,D,1,1,D
+ITA,2015-02-28,19:45,Chievo Verona,AC Milan,0,0,D,0,0,D
+ITA,2015-03-01,11:30,Cagliari Calcio,Hellas Verona,1,2,A,0,1,A
+ITA,2015-03-01,14:00,US Palermo,Empoli FC,0,0,D,0,0,D
+ITA,2015-03-01,14:00,Sassuolo Calcio,Lazio Roma,0,3,A,0,1,A
+ITA,2015-03-01,14:00,Atalanta,Sampdoria,1,2,A,1,0,H
+ITA,2015-03-01,14:00,AC Cesena,Udinese Calcio,1,0,H,0,0,D
+ITA,2015-03-01,17:00,Inter,ACF Fiorentina,0,1,A,0,0,D
+ITA,2015-03-01,19:45,Torino FC,SSC Napoli,1,0,H,0,0,D
+ITA,2015-03-02,20:00,AS Roma,Juventus,1,1,D,0,0,D
+ITA,2015-03-07,17:00,Sampdoria,Cagliari Calcio,2,0,H,1,0,H
+ITA,2015-03-07,19:45,AC Milan,Hellas Verona,2,2,D,1,1,D
+ITA,2015-03-08,11:30,AC Cesena,US Palermo,0,0,D,0,0,D
+ITA,2015-03-08,14:00,Parma FC,Atalanta,0,0,D,0,0,D
+ITA,2015-03-08,14:00,Empoli FC,Genoa CFC,1,1,D,0,1,A
+ITA,2015-03-08,14:00,Chievo Verona,AS Roma,0,0,D,0,0,D
+ITA,2015-03-08,14:00,Udinese Calcio,Torino FC,3,2,H,2,1,H
+ITA,2015-03-08,19:45,SSC Napoli,Inter,2,2,D,0,0,D
+ITA,2015-03-09,18:00,Lazio Roma,ACF Fiorentina,4,0,H,1,0,H
+ITA,2015-03-09,20:00,Juventus,Sassuolo Calcio,1,0,H,0,0,D
+ITA,2015-03-14,17:00,US Palermo,Juventus,0,1,A,0,0,D
+ITA,2015-03-14,19:45,Cagliari Calcio,Empoli FC,1,1,D,1,0,H
+ITA,2015-03-15,14:00,Genoa CFC,Chievo Verona,0,2,A,0,0,D
+ITA,2015-03-15,14:00,Sassuolo Calcio,Parma FC,4,1,H,2,1,H
+ITA,2015-03-15,14:00,Atalanta,Udinese Calcio,0,0,D,0,0,D
+ITA,2015-03-15,17:00,Hellas Verona,SSC Napoli,2,0,H,1,0,H
+ITA,2015-03-15,19:45,Inter,AC Cesena,1,1,D,0,1,A
+ITA,2015-03-16,18:00,Torino FC,Lazio Roma,0,2,A,0,0,D
+ITA,2015-03-16,18:00,ACF Fiorentina,AC Milan,2,1,H,0,0,D
+ITA,2015-03-16,20:00,AS Roma,Sampdoria,0,2,A,0,0,D
+ITA,2015-03-21,17:00,Chievo Verona,US Palermo,1,0,H,1,0,H
+ITA,2015-03-21,19:45,AC Milan,Cagliari Calcio,3,1,H,1,0,H
+ITA,2015-03-22,11:30,Empoli FC,Sassuolo Calcio,3,1,H,0,0,D
+ITA,2015-03-22,14:00,Juventus,Genoa CFC,1,0,H,1,0,H
+ITA,2015-03-22,19:45,SSC Napoli,Atalanta,1,1,D,0,0,D
+ITA,2015-03-22,19:45,Udinese Calcio,ACF Fiorentina,2,2,D,1,0,H
+ITA,2015-03-22,19:45,Lazio Roma,Hellas Verona,2,0,H,2,0,H
+ITA,2015-03-22,19:45,Sampdoria,Inter,1,0,H,0,0,D
+ITA,2015-03-22,19:45,AC Cesena,AS Roma,0,1,A,0,1,A
+ITA,2015-03-22,19:45,Parma FC,Torino FC,0,2,A,0,1,A
+ITA,2015-04-04,11:30,AS Roma,SSC Napoli,1,0,H,1,0,H
+ITA,2015-04-04,14:00,Hellas Verona,AC Cesena,3,3,D,2,0,H
+ITA,2015-04-04,14:00,Sassuolo Calcio,Chievo Verona,1,0,H,1,0,H
+ITA,2015-04-04,14:00,Cagliari Calcio,Lazio Roma,1,3,A,0,1,A
+ITA,2015-04-04,14:00,US Palermo,AC Milan,1,2,A,0,1,A
+ITA,2015-04-04,14:00,Inter,Parma FC,1,1,D,1,1,D
+ITA,2015-04-04,14:00,Atalanta,Torino FC,1,2,A,0,2,A
+ITA,2015-04-04,14:00,Genoa CFC,Udinese Calcio,1,1,D,1,0,H
+ITA,2015-04-04,17:30,ACF Fiorentina,Sampdoria,2,0,H,0,0,D
+ITA,2015-04-04,20:00,Juventus,Empoli FC,2,0,H,1,0,H
+ITA,2015-04-08,17:30,Parma FC,Udinese Calcio,1,0,H,0,0,D
+ITA,2015-04-11,17:00,Genoa CFC,Cagliari Calcio,2,0,H,0,0,D
+ITA,2015-04-11,17:00,Parma FC,Juventus,1,0,H,0,0,D
+ITA,2015-04-11,19:45,Hellas Verona,Inter,0,3,A,0,1,A
+ITA,2015-04-12,11:30,AC Cesena,Chievo Verona,0,1,A,0,0,D
+ITA,2015-04-12,14:00,Lazio Roma,Empoli FC,4,0,H,3,0,H
+ITA,2015-04-12,14:00,SSC Napoli,ACF Fiorentina,3,0,H,1,0,H
+ITA,2015-04-12,14:00,Udinese Calcio,US Palermo,1,3,A,0,2,A
+ITA,2015-04-12,14:00,Torino FC,AS Roma,1,1,D,0,0,D
+ITA,2015-04-12,14:00,Atalanta,Sassuolo Calcio,2,1,H,1,0,H
+ITA,2015-04-12,19:45,AC Milan,Sampdoria,1,1,D,0,0,D
+ITA,2015-04-15,17:30,Genoa CFC,Parma FC,2,0,H,1,0,H
+ITA,2015-04-18,17:00,Sampdoria,AC Cesena,0,0,D,0,0,D
+ITA,2015-04-18,19:45,Juventus,Lazio Roma,2,0,H,2,0,H
+ITA,2015-04-19,11:30,Sassuolo Calcio,Torino FC,1,1,D,1,0,H
+ITA,2015-04-19,14:00,AS Roma,Atalanta,1,1,D,1,1,D
+ITA,2015-04-19,14:00,US Palermo,Genoa CFC,2,1,H,2,0,H
+ITA,2015-04-19,14:00,Empoli FC,Parma FC,2,2,D,2,1,H
+ITA,2015-04-19,14:00,Chievo Verona,Udinese Calcio,1,1,D,1,0,H
+ITA,2015-04-19,17:00,Cagliari Calcio,SSC Napoli,0,3,A,0,2,A
+ITA,2015-04-19,19:45,Inter,AC Milan,0,0,D,0,0,D
+ITA,2015-04-20,19:45,ACF Fiorentina,Hellas Verona,0,1,A,0,0,D
+ITA,2015-04-25,17:00,Udinese Calcio,AC Milan,2,1,H,0,0,D
+ITA,2015-04-25,19:45,Inter,AS Roma,2,1,H,1,0,H
+ITA,2015-04-26,11:30,Atalanta,Empoli FC,2,2,D,1,1,D
+ITA,2015-04-26,14:00,Genoa CFC,AC Cesena,3,1,H,2,0,H
+ITA,2015-04-26,14:00,Lazio Roma,Chievo Verona,1,1,D,1,0,H
+ITA,2015-04-26,14:00,Torino FC,Juventus,2,1,H,1,1,D
+ITA,2015-04-26,14:00,Parma FC,US Palermo,1,0,H,1,0,H
+ITA,2015-04-26,14:00,Hellas Verona,Sassuolo Calcio,3,2,H,1,1,D
+ITA,2015-04-26,17:00,ACF Fiorentina,Cagliari Calcio,1,3,A,0,1,A
+ITA,2015-04-26,19:45,SSC Napoli,Sampdoria,4,2,H,2,1,H
+ITA,2015-04-28,19:45,Udinese Calcio,Inter,1,2,A,0,0,D
+ITA,2015-04-29,19:45,AC Cesena,Atalanta,2,2,D,0,0,D
+ITA,2015-04-29,19:45,Chievo Verona,Cagliari Calcio,1,0,H,1,0,H
+ITA,2015-04-29,19:45,Juventus,ACF Fiorentina,3,2,H,2,1,H
+ITA,2015-04-29,19:45,AC Milan,Genoa CFC,1,3,A,0,1,A
+ITA,2015-04-29,19:45,Sampdoria,Hellas Verona,1,1,D,0,0,D
+ITA,2015-04-29,19:45,Lazio Roma,Parma FC,4,0,H,3,0,H
+ITA,2015-04-29,19:45,Sassuolo Calcio,AS Roma,0,3,A,0,2,A
+ITA,2015-04-29,19:45,US Palermo,Torino FC,2,2,D,2,1,H
+ITA,2015-04-30,19:45,Empoli FC,SSC Napoli,4,2,H,3,0,H
+ITA,2015-05-02,17:00,Sampdoria,Juventus,0,1,A,0,1,A
+ITA,2015-05-02,19:45,Sassuolo Calcio,US Palermo,0,0,D,0,0,D
+ITA,2015-05-03,11:30,AS Roma,Genoa CFC,2,0,H,1,0,H
+ITA,2015-05-03,14:00,ACF Fiorentina,AC Cesena,3,1,H,2,0,H
+ITA,2015-05-03,14:00,Inter,Chievo Verona,0,0,D,0,0,D
+ITA,2015-05-03,14:00,Atalanta,Lazio Roma,1,1,D,0,0,D
+ITA,2015-05-03,14:00,Hellas Verona,Udinese Calcio,0,1,A,0,0,D
+ITA,2015-05-03,19:45,SSC Napoli,AC Milan,3,0,H,0,0,D
+ITA,2015-05-04,19:45,Cagliari Calcio,Parma FC,4,0,H,3,0,H
+ITA,2015-05-06,14:00,Torino FC,Empoli FC,0,1,A,0,1,A
+ITA,2015-05-09,17:00,Juventus,Cagliari Calcio,1,1,D,1,0,H
+ITA,2015-05-09,19:45,AC Milan,AS Roma,2,1,H,1,0,H
+ITA,2015-05-10,11:30,Chievo Verona,Hellas Verona,2,2,D,2,2,D
+ITA,2015-05-10,14:00,US Palermo,Atalanta,2,3,A,1,2,A
+ITA,2015-05-10,14:00,Udinese Calcio,Sampdoria,1,4,A,0,1,A
+ITA,2015-05-10,14:00,AC Cesena,Sassuolo Calcio,2,3,A,2,0,H
+ITA,2015-05-10,17:00,Empoli FC,ACF Fiorentina,2,3,A,1,1,D
+ITA,2015-05-10,17:00,Parma FC,SSC Napoli,2,2,D,2,1,H
+ITA,2015-05-10,19:45,Lazio Roma,Inter,1,2,A,1,1,D
+ITA,2015-05-11,19:45,Genoa CFC,Torino FC,5,1,H,1,0,H
+ITA,2015-05-16,17:00,Inter,Juventus,1,2,A,1,1,D
+ITA,2015-05-16,19:45,Sampdoria,Lazio Roma,0,1,A,0,0,D
+ITA,2015-05-17,11:30,Sassuolo Calcio,AC Milan,3,2,H,2,1,H
+ITA,2015-05-17,14:00,Torino FC,Chievo Verona,2,0,H,0,0,D
+ITA,2015-05-17,14:00,Hellas Verona,Empoli FC,2,1,H,1,1,D
+ITA,2015-05-17,14:00,Atalanta,Genoa CFC,1,4,A,1,1,D
+ITA,2015-05-17,14:00,Cagliari Calcio,US Palermo,0,1,A,0,1,A
+ITA,2015-05-17,19:45,AS Roma,Udinese Calcio,2,1,H,1,1,D
+ITA,2015-05-18,18:00,ACF Fiorentina,Parma FC,3,0,H,2,0,H
+ITA,2015-05-18,20:00,SSC Napoli,AC Cesena,3,2,H,2,2,D
+ITA,2015-05-23,17:00,Juventus,SSC Napoli,3,1,H,1,0,H
+ITA,2015-05-23,19:45,Genoa CFC,Inter,3,2,H,2,2,D
+ITA,2015-05-24,11:30,Empoli FC,Sampdoria,1,1,D,0,0,D
+ITA,2015-05-24,14:00,Chievo Verona,Atalanta,1,1,D,0,0,D
+ITA,2015-05-24,14:00,AC Cesena,Cagliari Calcio,0,1,A,0,0,D
+ITA,2015-05-24,14:00,US Palermo,ACF Fiorentina,2,3,A,1,2,A
+ITA,2015-05-24,14:00,Parma FC,Hellas Verona,2,2,D,2,1,H
+ITA,2015-05-24,14:00,Udinese Calcio,Sassuolo Calcio,0,1,A,0,0,D
+ITA,2015-05-24,19:45,AC Milan,Torino FC,3,0,H,1,0,H
+ITA,2015-05-25,17:00,Lazio Roma,AS Roma,1,2,A,0,0,D
+ITA,2015-05-30,17:00,Hellas Verona,Juventus,2,2,D,0,1,A
+ITA,2015-05-30,19:45,Atalanta,AC Milan,1,3,A,1,2,A
+ITA,2015-05-31,17:00,Cagliari Calcio,Udinese Calcio,4,3,H,2,1,H
+ITA,2015-05-31,19:45,Torino FC,AC Cesena,5,0,H,3,0,H
+ITA,2015-05-31,19:45,ACF Fiorentina,Chievo Verona,3,0,H,1,0,H
+ITA,2015-05-31,19:45,Inter,Empoli FC,4,3,H,0,0,D
+ITA,2015-05-31,19:45,Sassuolo Calcio,Genoa CFC,3,1,H,3,1,H
+ITA,2015-05-31,19:45,SSC Napoli,Lazio Roma,2,4,A,0,2,A
+ITA,2015-05-31,19:45,AS Roma,US Palermo,1,2,A,0,1,A
+ITA,2015-05-31,19:45,Sampdoria,Parma FC,2,2,D,0,0,D

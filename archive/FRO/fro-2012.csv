@@ -1,136 +1,136 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRO,24/03/2012,16:00,B36 Tórshavn,FC Suðuroy,1,0,H,0,0,D
-FRO,25/03/2012,14:45,TB Tvøroyri,Víkingur,0,2,A,0,0,D
-FRO,25/03/2012,15:00,EB/Streymur,KÍ Klaksvík,1,1,D,1,0,H
-FRO,25/03/2012,15:00,ÍF Fuglafjørður,NSÍ Runavík,2,1,H,0,0,D
-FRO,25/03/2012,15:00,HB Tórshavn,B68 Toftir,4,0,H,0,0,D
-FRO,30/03/2012,17:30,Víkingur,EB/Streymur,2,1,H,1,0,H
-FRO,31/03/2012,16:00,B68 Toftir,ÍF Fuglafjørður,0,2,A,0,0,D
-FRO,01/04/2012,14:45,FC Suðuroy,HB Tórshavn,0,1,A,0,0,D
-FRO,01/04/2012,15:00,NSÍ Runavík,TB Tvøroyri,2,0,H,1,0,H
-FRO,01/04/2012,15:00,KÍ Klaksvík,B36 Tórshavn,0,2,A,0,0,D
-FRO,05/04/2012,15:00,Víkingur,B68 Toftir,2,0,H,1,0,H
-FRO,05/04/2012,15:00,B36 Tórshavn,ÍF Fuglafjørður,1,1,D,0,0,D
-FRO,05/04/2012,15:00,NSÍ Runavík,FC Suðuroy,0,0,D,0,0,D
-FRO,05/04/2012,15:00,KÍ Klaksvík,HB Tórshavn,1,1,D,1,1,D
-FRO,05/04/2012,16:00,EB/Streymur,TB Tvøroyri,1,1,D,0,0,D
-FRO,15/04/2012,14:45,TB Tvøroyri,B36 Tórshavn,1,4,A,0,1,A
-FRO,15/04/2012,15:00,HB Tórshavn,Víkingur,1,1,D,1,0,H
-FRO,15/04/2012,15:00,EB/Streymur,FC Suðuroy,3,0,H,1,0,H
-FRO,15/04/2012,15:00,ÍF Fuglafjørður,KÍ Klaksvík,2,0,H,2,0,H
-FRO,15/04/2012,15:00,B68 Toftir,NSÍ Runavík,3,2,H,1,2,A
-FRO,21/04/2012,15:00,B36 Tórshavn,EB/Streymur,1,2,A,0,0,D
-FRO,21/04/2012,15:00,ÍF Fuglafjørður,Víkingur,1,2,A,0,1,A
-FRO,21/04/2012,15:00,NSÍ Runavík,HB Tórshavn,2,4,A,2,0,H
-FRO,21/04/2012,15:30,FC Suðuroy,B68 Toftir,0,1,A,0,0,D
-FRO,21/04/2012,17:00,KÍ Klaksvík,TB Tvøroyri,0,0,D,0,0,D
-FRO,28/04/2012,17:00,KÍ Klaksvík,NSÍ Runavík,3,2,H,1,2,A
-FRO,29/04/2012,15:00,EB/Streymur,HB Tórshavn,2,2,D,1,2,A
-FRO,29/04/2012,15:00,B36 Tórshavn,B68 Toftir,1,2,A,0,1,A
-FRO,29/04/2012,15:00,TB Tvøroyri,ÍF Fuglafjørður,1,0,H,1,0,H
-FRO,29/04/2012,16:00,Víkingur,FC Suðuroy,4,0,H,0,0,D
-FRO,04/05/2012,16:00,NSÍ Runavík,Víkingur,0,2,A,0,0,D
-FRO,04/05/2012,18:00,HB Tórshavn,B36 Tórshavn,2,1,H,1,0,H
-FRO,05/05/2012,15:00,B68 Toftir,KÍ Klaksvík,0,2,A,0,0,D
-FRO,05/05/2012,15:00,FC Suðuroy,TB Tvøroyri,1,1,D,1,0,H
-FRO,05/05/2012,15:00,ÍF Fuglafjørður,EB/Streymur,1,2,A,1,2,A
-FRO,12/05/2012,15:00,TB Tvøroyri,B68 Toftir,3,1,H,1,1,D
-FRO,12/05/2012,17:00,HB Tórshavn,ÍF Fuglafjørður,1,4,A,0,2,A
-FRO,13/05/2012,15:00,EB/Streymur,NSÍ Runavík,1,0,H,0,0,D
-FRO,13/05/2012,15:00,B36 Tórshavn,Víkingur,3,0,H,3,0,H
-FRO,13/05/2012,15:00,KÍ Klaksvík,FC Suðuroy,5,1,H,5,0,H
-FRO,19/05/2012,15:00,TB Tvøroyri,HB Tórshavn,4,2,H,3,0,H
-FRO,19/05/2012,17:00,B68 Toftir,EB/Streymur,1,2,A,1,1,D
-FRO,20/05/2012,15:00,Víkingur,KÍ Klaksvík,0,1,A,0,0,D
-FRO,20/05/2012,15:00,FC Suðuroy,ÍF Fuglafjørður,0,6,A,0,2,A
-FRO,20/05/2012,15:00,NSÍ Runavík,B36 Tórshavn,3,1,H,1,0,H
-FRO,28/05/2012,14:45,FC Suðuroy,NSÍ Runavík,0,2,A,0,1,A
-FRO,28/05/2012,15:00,HB Tórshavn,KÍ Klaksvík,5,0,H,3,0,H
-FRO,28/05/2012,15:00,ÍF Fuglafjørður,B36 Tórshavn,1,1,D,0,1,A
-FRO,28/05/2012,15:00,B68 Toftir,Víkingur,1,1,D,0,0,D
-FRO,28/05/2012,15:00,TB Tvøroyri,EB/Streymur,0,3,A,0,0,D
-FRO,09/06/2012,18:30,NSÍ Runavík,KÍ Klaksvík,0,2,A,0,1,A
-FRO,10/06/2012,14:45,FC Suðuroy,Víkingur,1,1,D,1,0,H
-FRO,10/06/2012,15:00,HB Tórshavn,EB/Streymur,0,1,A,0,1,A
-FRO,10/06/2012,15:00,ÍF Fuglafjørður,TB Tvøroyri,1,1,D,0,0,D
-FRO,10/06/2012,15:00,B68 Toftir,B36 Tórshavn,1,1,D,1,0,H
-FRO,13/06/2012,19:00,Víkingur,NSÍ Runavík,1,1,D,0,1,A
-FRO,13/06/2012,19:00,TB Tvøroyri,FC Suðuroy,3,0,H,1,0,H
-FRO,13/06/2012,19:00,KÍ Klaksvík,B68 Toftir,3,0,H,2,0,H
-FRO,13/06/2012,19:00,EB/Streymur,ÍF Fuglafjørður,2,1,H,0,0,D
-FRO,13/06/2012,19:15,B36 Tórshavn,HB Tórshavn,1,0,H,0,0,D
-FRO,16/06/2012,15:00,B36 Tórshavn,KÍ Klaksvík,2,3,A,2,2,D
-FRO,16/06/2012,18:00,EB/Streymur,Víkingur,0,1,A,0,1,A
-FRO,17/06/2012,15:00,TB Tvøroyri,NSÍ Runavík,1,3,A,1,1,D
-FRO,17/06/2012,15:00,HB Tórshavn,FC Suðuroy,6,0,H,1,0,H
-FRO,17/06/2012,15:00,ÍF Fuglafjørður,B68 Toftir,2,0,H,1,0,H
-FRO,23/06/2012,18:30,FC Suðuroy,EB/Streymur,0,2,A,0,1,A
-FRO,24/06/2012,15:00,Víkingur,HB Tórshavn,2,2,D,0,0,D
-FRO,24/06/2012,15:00,B36 Tórshavn,TB Tvøroyri,2,2,D,2,2,D
-FRO,24/06/2012,15:00,NSÍ Runavík,B68 Toftir,0,2,A,0,1,A
-FRO,24/06/2012,15:00,KÍ Klaksvík,ÍF Fuglafjørður,1,0,H,1,0,H
-FRO,29/06/2012,18:30,NSÍ Runavík,EB/Streymur,1,0,H,0,0,D
-FRO,29/06/2012,19:00,Víkingur,B36 Tórshavn,3,2,H,2,1,H
-FRO,30/06/2012,15:00,ÍF Fuglafjørður,HB Tórshavn,2,0,H,2,0,H
-FRO,30/06/2012,15:00,FC Suðuroy,KÍ Klaksvík,1,4,A,0,1,A
-FRO,30/06/2012,17:00,B68 Toftir,TB Tvøroyri,1,1,D,1,0,H
-FRO,22/07/2012,15:00,TB Tvøroyri,KÍ Klaksvík,1,6,A,1,1,D
-FRO,22/07/2012,15:00,B68 Toftir,FC Suðuroy,2,0,H,1,0,H
-FRO,22/07/2012,15:00,EB/Streymur,B36 Tórshavn,1,1,D,0,1,A
-FRO,22/07/2012,15:00,HB Tórshavn,NSÍ Runavík,2,4,A,0,2,A
-FRO,01/08/2012,19:00,Víkingur,ÍF Fuglafjørður,1,4,A,0,1,A
-FRO,27/07/2012,19:00,KÍ Klaksvík,Víkingur,3,3,D,0,2,A
-FRO,27/07/2012,19:00,EB/Streymur,B68 Toftir,0,0,D,0,0,D
-FRO,27/07/2012,20:00,ÍF Fuglafjørður,FC Suðuroy,3,2,H,1,0,H
-FRO,28/07/2012,18:00,HB Tórshavn,TB Tvøroyri,4,1,H,3,1,H
-FRO,29/07/2012,16:00,B36 Tórshavn,NSÍ Runavík,5,1,H,1,0,H
-FRO,03/08/2012,18:00,KÍ Klaksvík,EB/Streymur,1,3,A,0,2,A
-FRO,04/08/2012,17:00,B68 Toftir,HB Tórshavn,1,2,A,0,1,A
-FRO,05/08/2012,14:45,FC Suðuroy,B36 Tórshavn,0,2,A,0,1,A
-FRO,05/08/2012,15:00,NSÍ Runavík,ÍF Fuglafjørður,1,2,A,0,2,A
-FRO,05/08/2012,15:00,Víkingur,TB Tvøroyri,1,0,H,0,0,D
-FRO,10/08/2012,18:00,HB Tórshavn,Víkingur,0,0,D,0,0,D
-FRO,11/08/2012,15:00,TB Tvøroyri,B36 Tórshavn,0,0,D,0,0,D
-FRO,11/08/2012,15:00,EB/Streymur,FC Suðuroy,4,2,H,1,1,D
-FRO,11/08/2012,17:00,B68 Toftir,NSÍ Runavík,1,1,D,0,0,D
-FRO,11/08/2012,18:00,ÍF Fuglafjørður,KÍ Klaksvík,5,2,H,1,1,D
-FRO,18/08/2012,16:00,Víkingur,B68 Toftir,2,0,H,0,0,D
-FRO,19/08/2012,15:00,KÍ Klaksvík,HB Tórshavn,1,2,A,1,0,H
-FRO,19/08/2012,15:00,EB/Streymur,TB Tvøroyri,3,2,H,0,1,A
-FRO,19/08/2012,15:00,B36 Tórshavn,ÍF Fuglafjørður,0,2,A,0,1,A
-FRO,19/08/2012,15:00,NSÍ Runavík,FC Suðuroy,5,1,H,1,1,D
-FRO,29/08/2012,18:00,HB Tórshavn,B36 Tórshavn,2,0,H,1,0,H
-FRO,29/08/2012,18:00,ÍF Fuglafjørður,EB/Streymur,1,1,D,0,0,D
-FRO,29/08/2012,18:00,B68 Toftir,KÍ Klaksvík,1,3,A,1,2,A
-FRO,29/08/2012,18:00,NSÍ Runavík,Víkingur,1,0,H,0,0,D
-FRO,29/08/2012,19:00,FC Suðuroy,TB Tvøroyri,1,0,H,0,0,D
-FRO,02/09/2012,15:00,B36 Tórshavn,B68 Toftir,1,0,H,0,0,D
-FRO,02/09/2012,15:00,TB Tvøroyri,ÍF Fuglafjørður,1,2,A,0,1,A
-FRO,02/09/2012,15:00,KÍ Klaksvík,NSÍ Runavík,2,1,H,0,0,D
-FRO,02/09/2012,15:00,EB/Streymur,HB Tórshavn,3,2,H,1,2,A
-FRO,02/09/2012,15:00,Víkingur,FC Suðuroy,3,1,H,2,1,H
-FRO,12/09/2012,16:30,KÍ Klaksvík,TB Tvøroyri,1,1,D,1,0,H
-FRO,12/09/2012,17:30,Víkingur,ÍF Fuglafjørður,0,3,A,0,1,A
-FRO,12/09/2012,17:30,FC Suðuroy,B68 Toftir,2,1,H,0,1,A
-FRO,12/09/2012,18:00,NSÍ Runavík,HB Tórshavn,2,0,H,0,0,D
-FRO,12/09/2012,18:00,B36 Tórshavn,EB/Streymur,1,4,A,0,2,A
-FRO,15/09/2012,17:30,B36 Tórshavn,FC Suðuroy,3,1,H,1,1,D
-FRO,16/09/2012,15:00,HB Tórshavn,B68 Toftir,4,0,H,0,0,D
-FRO,16/09/2012,15:00,EB/Streymur,KÍ Klaksvík,1,1,D,1,0,H
-FRO,16/09/2012,15:00,ÍF Fuglafjørður,NSÍ Runavík,3,1,H,0,0,D
-FRO,16/09/2012,15:00,TB Tvøroyri,Víkingur,2,2,D,2,2,D
-FRO,23/09/2012,14:45,FC Suðuroy,HB Tórshavn,0,4,A,0,2,A
-FRO,23/09/2012,14:45,NSÍ Runavík,TB Tvøroyri,0,1,A,0,0,D
-FRO,23/09/2012,14:45,KÍ Klaksvík,B36 Tórshavn,3,4,A,2,2,D
-FRO,23/09/2012,14:45,B68 Toftir,ÍF Fuglafjørður,0,0,D,0,0,D
-FRO,23/09/2012,14:45,Víkingur,EB/Streymur,2,3,A,0,2,A
-FRO,29/09/2012,16:00,FC Suðuroy,ÍF Fuglafjørður,1,4,A,0,1,A
-FRO,29/09/2012,16:00,Víkingur,KÍ Klaksvík,4,3,H,2,0,H
-FRO,29/09/2012,16:00,B68 Toftir,EB/Streymur,0,1,A,0,0,D
-FRO,29/09/2012,16:00,NSÍ Runavík,B36 Tórshavn,0,0,D,0,0,D
-FRO,29/09/2012,16:00,HB Tórshavn,TB Tvøroyri,3,1,H,2,0,H
-FRO,06/10/2012,15:00,ÍF Fuglafjørður,HB Tórshavn,0,0,D,0,0,D
-FRO,06/10/2012,15:00,B36 Tórshavn,Víkingur,1,1,D,0,1,A
-FRO,06/10/2012,15:00,TB Tvøroyri,B68 Toftir,1,4,A,0,0,D
-FRO,06/10/2012,15:00,KÍ Klaksvík,FC Suðuroy,7,1,H,1,0,H
-FRO,06/10/2012,15:00,EB/Streymur,NSÍ Runavík,3,2,H,2,1,H
+FRO,2012-03-24,16:00,B36 Tórshavn,FC Suðuroy,1,0,H,0,0,D
+FRO,2012-03-25,14:45,TB Tvøroyri,Víkingur,0,2,A,0,0,D
+FRO,2012-03-25,15:00,EB/Streymur,KÍ Klaksvík,1,1,D,1,0,H
+FRO,2012-03-25,15:00,ÍF Fuglafjørður,NSÍ Runavík,2,1,H,0,0,D
+FRO,2012-03-25,15:00,HB Tórshavn,B68 Toftir,4,0,H,0,0,D
+FRO,2012-03-30,17:30,Víkingur,EB/Streymur,2,1,H,1,0,H
+FRO,2012-03-31,16:00,B68 Toftir,ÍF Fuglafjørður,0,2,A,0,0,D
+FRO,2012-04-01,14:45,FC Suðuroy,HB Tórshavn,0,1,A,0,0,D
+FRO,2012-04-01,15:00,NSÍ Runavík,TB Tvøroyri,2,0,H,1,0,H
+FRO,2012-04-01,15:00,KÍ Klaksvík,B36 Tórshavn,0,2,A,0,0,D
+FRO,2012-04-05,15:00,Víkingur,B68 Toftir,2,0,H,1,0,H
+FRO,2012-04-05,15:00,B36 Tórshavn,ÍF Fuglafjørður,1,1,D,0,0,D
+FRO,2012-04-05,15:00,NSÍ Runavík,FC Suðuroy,0,0,D,0,0,D
+FRO,2012-04-05,15:00,KÍ Klaksvík,HB Tórshavn,1,1,D,1,1,D
+FRO,2012-04-05,16:00,EB/Streymur,TB Tvøroyri,1,1,D,0,0,D
+FRO,2012-04-15,14:45,TB Tvøroyri,B36 Tórshavn,1,4,A,0,1,A
+FRO,2012-04-15,15:00,HB Tórshavn,Víkingur,1,1,D,1,0,H
+FRO,2012-04-15,15:00,EB/Streymur,FC Suðuroy,3,0,H,1,0,H
+FRO,2012-04-15,15:00,ÍF Fuglafjørður,KÍ Klaksvík,2,0,H,2,0,H
+FRO,2012-04-15,15:00,B68 Toftir,NSÍ Runavík,3,2,H,1,2,A
+FRO,2012-04-21,15:00,B36 Tórshavn,EB/Streymur,1,2,A,0,0,D
+FRO,2012-04-21,15:00,ÍF Fuglafjørður,Víkingur,1,2,A,0,1,A
+FRO,2012-04-21,15:00,NSÍ Runavík,HB Tórshavn,2,4,A,2,0,H
+FRO,2012-04-21,15:30,FC Suðuroy,B68 Toftir,0,1,A,0,0,D
+FRO,2012-04-21,17:00,KÍ Klaksvík,TB Tvøroyri,0,0,D,0,0,D
+FRO,2012-04-28,17:00,KÍ Klaksvík,NSÍ Runavík,3,2,H,1,2,A
+FRO,2012-04-29,15:00,EB/Streymur,HB Tórshavn,2,2,D,1,2,A
+FRO,2012-04-29,15:00,B36 Tórshavn,B68 Toftir,1,2,A,0,1,A
+FRO,2012-04-29,15:00,TB Tvøroyri,ÍF Fuglafjørður,1,0,H,1,0,H
+FRO,2012-04-29,16:00,Víkingur,FC Suðuroy,4,0,H,0,0,D
+FRO,2012-05-04,16:00,NSÍ Runavík,Víkingur,0,2,A,0,0,D
+FRO,2012-05-04,18:00,HB Tórshavn,B36 Tórshavn,2,1,H,1,0,H
+FRO,2012-05-05,15:00,B68 Toftir,KÍ Klaksvík,0,2,A,0,0,D
+FRO,2012-05-05,15:00,FC Suðuroy,TB Tvøroyri,1,1,D,1,0,H
+FRO,2012-05-05,15:00,ÍF Fuglafjørður,EB/Streymur,1,2,A,1,2,A
+FRO,2012-05-12,15:00,TB Tvøroyri,B68 Toftir,3,1,H,1,1,D
+FRO,2012-05-12,17:00,HB Tórshavn,ÍF Fuglafjørður,1,4,A,0,2,A
+FRO,2012-05-13,15:00,EB/Streymur,NSÍ Runavík,1,0,H,0,0,D
+FRO,2012-05-13,15:00,B36 Tórshavn,Víkingur,3,0,H,3,0,H
+FRO,2012-05-13,15:00,KÍ Klaksvík,FC Suðuroy,5,1,H,5,0,H
+FRO,2012-05-19,15:00,TB Tvøroyri,HB Tórshavn,4,2,H,3,0,H
+FRO,2012-05-19,17:00,B68 Toftir,EB/Streymur,1,2,A,1,1,D
+FRO,2012-05-20,15:00,Víkingur,KÍ Klaksvík,0,1,A,0,0,D
+FRO,2012-05-20,15:00,FC Suðuroy,ÍF Fuglafjørður,0,6,A,0,2,A
+FRO,2012-05-20,15:00,NSÍ Runavík,B36 Tórshavn,3,1,H,1,0,H
+FRO,2012-05-28,14:45,FC Suðuroy,NSÍ Runavík,0,2,A,0,1,A
+FRO,2012-05-28,15:00,HB Tórshavn,KÍ Klaksvík,5,0,H,3,0,H
+FRO,2012-05-28,15:00,ÍF Fuglafjørður,B36 Tórshavn,1,1,D,0,1,A
+FRO,2012-05-28,15:00,B68 Toftir,Víkingur,1,1,D,0,0,D
+FRO,2012-05-28,15:00,TB Tvøroyri,EB/Streymur,0,3,A,0,0,D
+FRO,2012-06-09,18:30,NSÍ Runavík,KÍ Klaksvík,0,2,A,0,1,A
+FRO,2012-06-10,14:45,FC Suðuroy,Víkingur,1,1,D,1,0,H
+FRO,2012-06-10,15:00,HB Tórshavn,EB/Streymur,0,1,A,0,1,A
+FRO,2012-06-10,15:00,ÍF Fuglafjørður,TB Tvøroyri,1,1,D,0,0,D
+FRO,2012-06-10,15:00,B68 Toftir,B36 Tórshavn,1,1,D,1,0,H
+FRO,2012-06-13,19:00,Víkingur,NSÍ Runavík,1,1,D,0,1,A
+FRO,2012-06-13,19:00,TB Tvøroyri,FC Suðuroy,3,0,H,1,0,H
+FRO,2012-06-13,19:00,KÍ Klaksvík,B68 Toftir,3,0,H,2,0,H
+FRO,2012-06-13,19:00,EB/Streymur,ÍF Fuglafjørður,2,1,H,0,0,D
+FRO,2012-06-13,19:15,B36 Tórshavn,HB Tórshavn,1,0,H,0,0,D
+FRO,2012-06-16,15:00,B36 Tórshavn,KÍ Klaksvík,2,3,A,2,2,D
+FRO,2012-06-16,18:00,EB/Streymur,Víkingur,0,1,A,0,1,A
+FRO,2012-06-17,15:00,TB Tvøroyri,NSÍ Runavík,1,3,A,1,1,D
+FRO,2012-06-17,15:00,HB Tórshavn,FC Suðuroy,6,0,H,1,0,H
+FRO,2012-06-17,15:00,ÍF Fuglafjørður,B68 Toftir,2,0,H,1,0,H
+FRO,2012-06-23,18:30,FC Suðuroy,EB/Streymur,0,2,A,0,1,A
+FRO,2012-06-24,15:00,Víkingur,HB Tórshavn,2,2,D,0,0,D
+FRO,2012-06-24,15:00,B36 Tórshavn,TB Tvøroyri,2,2,D,2,2,D
+FRO,2012-06-24,15:00,NSÍ Runavík,B68 Toftir,0,2,A,0,1,A
+FRO,2012-06-24,15:00,KÍ Klaksvík,ÍF Fuglafjørður,1,0,H,1,0,H
+FRO,2012-06-29,18:30,NSÍ Runavík,EB/Streymur,1,0,H,0,0,D
+FRO,2012-06-29,19:00,Víkingur,B36 Tórshavn,3,2,H,2,1,H
+FRO,2012-06-30,15:00,ÍF Fuglafjørður,HB Tórshavn,2,0,H,2,0,H
+FRO,2012-06-30,15:00,FC Suðuroy,KÍ Klaksvík,1,4,A,0,1,A
+FRO,2012-06-30,17:00,B68 Toftir,TB Tvøroyri,1,1,D,1,0,H
+FRO,2012-07-22,15:00,TB Tvøroyri,KÍ Klaksvík,1,6,A,1,1,D
+FRO,2012-07-22,15:00,B68 Toftir,FC Suðuroy,2,0,H,1,0,H
+FRO,2012-07-22,15:00,EB/Streymur,B36 Tórshavn,1,1,D,0,1,A
+FRO,2012-07-22,15:00,HB Tórshavn,NSÍ Runavík,2,4,A,0,2,A
+FRO,2012-07-27,19:00,KÍ Klaksvík,Víkingur,3,3,D,0,2,A
+FRO,2012-07-27,19:00,EB/Streymur,B68 Toftir,0,0,D,0,0,D
+FRO,2012-07-27,20:00,ÍF Fuglafjørður,FC Suðuroy,3,2,H,1,0,H
+FRO,2012-07-28,18:00,HB Tórshavn,TB Tvøroyri,4,1,H,3,1,H
+FRO,2012-07-29,16:00,B36 Tórshavn,NSÍ Runavík,5,1,H,1,0,H
+FRO,2012-08-01,19:00,Víkingur,ÍF Fuglafjørður,1,4,A,0,1,A
+FRO,2012-08-03,18:00,KÍ Klaksvík,EB/Streymur,1,3,A,0,2,A
+FRO,2012-08-04,17:00,B68 Toftir,HB Tórshavn,1,2,A,0,1,A
+FRO,2012-08-05,14:45,FC Suðuroy,B36 Tórshavn,0,2,A,0,1,A
+FRO,2012-08-05,15:00,NSÍ Runavík,ÍF Fuglafjørður,1,2,A,0,2,A
+FRO,2012-08-05,15:00,Víkingur,TB Tvøroyri,1,0,H,0,0,D
+FRO,2012-08-10,18:00,HB Tórshavn,Víkingur,0,0,D,0,0,D
+FRO,2012-08-11,15:00,TB Tvøroyri,B36 Tórshavn,0,0,D,0,0,D
+FRO,2012-08-11,15:00,EB/Streymur,FC Suðuroy,4,2,H,1,1,D
+FRO,2012-08-11,17:00,B68 Toftir,NSÍ Runavík,1,1,D,0,0,D
+FRO,2012-08-11,18:00,ÍF Fuglafjørður,KÍ Klaksvík,5,2,H,1,1,D
+FRO,2012-08-18,16:00,Víkingur,B68 Toftir,2,0,H,0,0,D
+FRO,2012-08-19,15:00,KÍ Klaksvík,HB Tórshavn,1,2,A,1,0,H
+FRO,2012-08-19,15:00,EB/Streymur,TB Tvøroyri,3,2,H,0,1,A
+FRO,2012-08-19,15:00,B36 Tórshavn,ÍF Fuglafjørður,0,2,A,0,1,A
+FRO,2012-08-19,15:00,NSÍ Runavík,FC Suðuroy,5,1,H,1,1,D
+FRO,2012-08-29,18:00,HB Tórshavn,B36 Tórshavn,2,0,H,1,0,H
+FRO,2012-08-29,18:00,ÍF Fuglafjørður,EB/Streymur,1,1,D,0,0,D
+FRO,2012-08-29,18:00,B68 Toftir,KÍ Klaksvík,1,3,A,1,2,A
+FRO,2012-08-29,18:00,NSÍ Runavík,Víkingur,1,0,H,0,0,D
+FRO,2012-08-29,19:00,FC Suðuroy,TB Tvøroyri,1,0,H,0,0,D
+FRO,2012-09-02,15:00,B36 Tórshavn,B68 Toftir,1,0,H,0,0,D
+FRO,2012-09-02,15:00,TB Tvøroyri,ÍF Fuglafjørður,1,2,A,0,1,A
+FRO,2012-09-02,15:00,KÍ Klaksvík,NSÍ Runavík,2,1,H,0,0,D
+FRO,2012-09-02,15:00,EB/Streymur,HB Tórshavn,3,2,H,1,2,A
+FRO,2012-09-02,15:00,Víkingur,FC Suðuroy,3,1,H,2,1,H
+FRO,2012-09-12,16:30,KÍ Klaksvík,TB Tvøroyri,1,1,D,1,0,H
+FRO,2012-09-12,17:30,Víkingur,ÍF Fuglafjørður,0,3,A,0,1,A
+FRO,2012-09-12,17:30,FC Suðuroy,B68 Toftir,2,1,H,0,1,A
+FRO,2012-09-12,18:00,NSÍ Runavík,HB Tórshavn,2,0,H,0,0,D
+FRO,2012-09-12,18:00,B36 Tórshavn,EB/Streymur,1,4,A,0,2,A
+FRO,2012-09-15,17:30,B36 Tórshavn,FC Suðuroy,3,1,H,1,1,D
+FRO,2012-09-16,15:00,HB Tórshavn,B68 Toftir,4,0,H,0,0,D
+FRO,2012-09-16,15:00,EB/Streymur,KÍ Klaksvík,1,1,D,1,0,H
+FRO,2012-09-16,15:00,ÍF Fuglafjørður,NSÍ Runavík,3,1,H,0,0,D
+FRO,2012-09-16,15:00,TB Tvøroyri,Víkingur,2,2,D,2,2,D
+FRO,2012-09-23,14:45,FC Suðuroy,HB Tórshavn,0,4,A,0,2,A
+FRO,2012-09-23,14:45,NSÍ Runavík,TB Tvøroyri,0,1,A,0,0,D
+FRO,2012-09-23,14:45,KÍ Klaksvík,B36 Tórshavn,3,4,A,2,2,D
+FRO,2012-09-23,14:45,B68 Toftir,ÍF Fuglafjørður,0,0,D,0,0,D
+FRO,2012-09-23,14:45,Víkingur,EB/Streymur,2,3,A,0,2,A
+FRO,2012-09-29,16:00,FC Suðuroy,ÍF Fuglafjørður,1,4,A,0,1,A
+FRO,2012-09-29,16:00,Víkingur,KÍ Klaksvík,4,3,H,2,0,H
+FRO,2012-09-29,16:00,B68 Toftir,EB/Streymur,0,1,A,0,0,D
+FRO,2012-09-29,16:00,NSÍ Runavík,B36 Tórshavn,0,0,D,0,0,D
+FRO,2012-09-29,16:00,HB Tórshavn,TB Tvøroyri,3,1,H,2,0,H
+FRO,2012-10-06,15:00,ÍF Fuglafjørður,HB Tórshavn,0,0,D,0,0,D
+FRO,2012-10-06,15:00,B36 Tórshavn,Víkingur,1,1,D,0,1,A
+FRO,2012-10-06,15:00,TB Tvøroyri,B68 Toftir,1,4,A,0,0,D
+FRO,2012-10-06,15:00,KÍ Klaksvík,FC Suðuroy,7,1,H,1,0,H
+FRO,2012-10-06,15:00,EB/Streymur,NSÍ Runavík,3,2,H,2,1,H

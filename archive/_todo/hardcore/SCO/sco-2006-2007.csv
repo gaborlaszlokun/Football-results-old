@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2006-07-29,12:30,Celtic FC,Kilmarnock FC,4,1,H,2,0,H
+SCO,2006-07-29,15:00,Dundee United,Falkirk FC,1,2,A,1,1,D
+SCO,2006-07-29,15:00,Dunfermline Athletic,Heart of Midlothian,1,2,A,0,1,A
+SCO,2006-07-29,15:00,Hibernian FC,Aberdeen FC,1,1,D,1,1,D
+SCO,2006-07-29,15:00,Inverness CT,St. Mirren FC,1,2,A,0,0,D
+SCO,2006-07-30,14:00,Motherwell FC,Rangers FC,1,2,A,0,1,A
+SCO,2006-08-05,15:00,Aberdeen FC,Inverness CT,1,1,D,1,0,H
+SCO,2006-08-05,15:00,Falkirk FC,Dunfermline Athletic,1,0,H,1,0,H
+SCO,2006-08-05,15:00,Kilmarnock FC,Hibernian FC,2,1,H,0,1,A
+SCO,2006-08-05,15:00,Rangers FC,Dundee United,2,2,D,0,1,A
+SCO,2006-08-05,15:00,St. Mirren FC,Motherwell FC,2,0,H,1,0,H
+SCO,2006-08-06,14:00,Heart of Midlothian,Celtic FC,2,1,H,0,0,D
+SCO,2006-08-12,15:00,Celtic FC,St. Mirren FC,2,0,H,1,0,H
+SCO,2006-08-12,15:00,Heart of Midlothian,Falkirk FC,0,0,D,0,0,D
+SCO,2006-08-12,15:00,Inverness CT,Hibernian FC,0,0,D,0,0,D
+SCO,2006-08-12,15:00,Kilmarnock FC,Dundee United,0,0,D,0,0,D
+SCO,2006-08-12,15:00,Motherwell FC,Aberdeen FC,0,2,A,0,1,A
+SCO,2006-08-13,14:00,Dunfermline Athletic,Rangers FC,1,1,D,0,0,D
+SCO,2006-08-19,12:30,St. Mirren FC,Aberdeen FC,1,1,D,0,1,A
+SCO,2006-08-19,15:00,Dundee United,Dunfermline Athletic,0,0,D,0,0,D
+SCO,2006-08-19,15:00,Falkirk FC,Kilmarnock FC,1,2,A,1,1,D
+SCO,2006-08-19,15:00,Hibernian FC,Motherwell FC,3,1,H,1,0,H
+SCO,2006-08-19,15:00,Rangers FC,Heart of Midlothian,2,0,H,0,0,D
+SCO,2006-08-20,14:00,Inverness CT,Celtic FC,1,1,D,0,1,A
+SCO,2006-08-26,15:00,Aberdeen FC,Dunfermline Athletic,1,0,H,0,0,D
+SCO,2006-08-26,15:00,Celtic FC,Hibernian FC,2,1,H,0,1,A
+SCO,2006-08-26,15:00,Falkirk FC,Motherwell FC,0,1,A,0,0,D
+SCO,2006-08-26,15:00,Heart of Midlothian,Inverness CT,4,1,H,2,1,H
+SCO,2006-08-26,15:00,St. Mirren FC,Dundee United,1,3,A,0,2,A
+SCO,2006-08-27,14:00,Kilmarnock FC,Rangers FC,2,2,D,0,1,A
+SCO,2006-09-09,12:30,Aberdeen FC,Celtic FC,0,1,A,0,0,D
+SCO,2006-09-09,15:00,Dunfermline Athletic,Kilmarnock FC,3,2,H,1,1,D
+SCO,2006-09-09,15:00,Heart of Midlothian,St. Mirren FC,0,1,A,0,0,D
+SCO,2006-09-09,15:00,Motherwell FC,Inverness CT,1,4,A,0,1,A
+SCO,2006-09-09,15:00,Rangers FC,Falkirk FC,4,0,H,2,0,H
+SCO,2006-09-10,14:00,Dundee United,Hibernian FC,0,3,A,0,0,D
+SCO,2006-09-16,15:00,Celtic FC,Dunfermline Athletic,1,0,H,1,0,H
+SCO,2006-09-16,15:00,Falkirk FC,Aberdeen FC,0,2,A,0,0,D
+SCO,2006-09-16,15:00,Inverness CT,Dundee United,0,0,D,0,0,D
+SCO,2006-09-16,15:00,St. Mirren FC,Kilmarnock FC,0,1,A,0,0,D
+SCO,2006-09-17,14:00,Hibernian FC,Rangers FC,2,1,H,1,0,H
+SCO,2006-09-17,15:00,Motherwell FC,Heart of Midlothian,0,1,A,0,0,D
+SCO,2006-09-23,12:30,Celtic FC,Rangers FC,2,0,H,1,0,H
+SCO,2006-09-23,15:00,Dundee United,Motherwell FC,1,1,D,0,0,D
+SCO,2006-09-23,15:00,Dunfermline Athletic,St. Mirren FC,2,1,H,0,1,A
+SCO,2006-09-23,15:00,Hibernian FC,Falkirk FC,0,1,A,0,1,A
+SCO,2006-09-23,15:00,Kilmarnock FC,Inverness CT,1,1,D,1,1,D
+SCO,2006-09-24,14:00,Aberdeen FC,Heart of Midlothian,1,3,A,0,0,D
+SCO,2006-09-30,15:00,Inverness CT,Dunfermline Athletic,1,0,H,0,0,D
+SCO,2006-09-30,15:00,Motherwell FC,Kilmarnock FC,5,0,H,3,0,H
+SCO,2006-09-30,15:00,St. Mirren FC,Hibernian FC,1,0,H,1,0,H
+SCO,2006-10-01,14:00,Falkirk FC,Celtic FC,0,1,A,0,0,D
+SCO,2006-10-01,15:00,Heart of Midlothian,Dundee United,4,0,H,2,0,H
+SCO,2006-10-01,15:00,Rangers FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2006-10-14,12:30,Dundee United,Celtic FC,1,4,A,1,1,D
+SCO,2006-10-14,15:00,Falkirk FC,St. Mirren FC,1,1,D,0,0,D
+SCO,2006-10-14,15:00,Kilmarnock FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2006-10-14,15:00,Motherwell FC,Dunfermline Athletic,2,1,H,0,0,D
+SCO,2006-10-14,15:00,Rangers FC,Inverness CT,0,1,A,0,0,D
+SCO,2006-10-15,14:00,Hibernian FC,Heart of Midlothian,2,2,D,2,1,H
+SCO,2006-10-21,15:00,Aberdeen FC,Dundee United,3,1,H,1,0,H
+SCO,2006-10-21,15:00,Celtic FC,Motherwell FC,2,1,H,1,0,H
+SCO,2006-10-21,15:00,Heart of Midlothian,Kilmarnock FC,0,2,A,0,2,A
+SCO,2006-10-21,15:00,Inverness CT,Falkirk FC,3,2,H,0,1,A
+SCO,2006-10-22,14:00,St. Mirren FC,Rangers FC,2,3,A,1,2,A
+SCO,2006-10-23,19:45,Dunfermline Athletic,Hibernian FC,0,4,A,0,1,A
+SCO,2006-10-28,15:00,Falkirk FC,Dundee United,5,1,H,2,0,H
+SCO,2006-10-28,15:00,Heart of Midlothian,Dunfermline Athletic,1,1,D,1,0,H
+SCO,2006-10-28,15:00,Rangers FC,Motherwell FC,1,1,D,1,0,H
+SCO,2006-10-28,15:00,St. Mirren FC,Inverness CT,1,1,D,0,1,A
+SCO,2006-10-29,14:00,Kilmarnock FC,Celtic FC,1,2,A,0,0,D
+SCO,2006-10-30,19:45,Aberdeen FC,Hibernian FC,2,1,H,0,0,D
+SCO,2006-11-04,15:00,Celtic FC,Heart of Midlothian,2,1,H,0,0,D
+SCO,2006-11-04,15:00,Dunfermline Athletic,Falkirk FC,0,3,A,0,1,A
+SCO,2006-11-04,15:00,Hibernian FC,Kilmarnock FC,2,2,D,0,0,D
+SCO,2006-11-04,15:00,Motherwell FC,St. Mirren FC,0,0,D,0,0,D
+SCO,2006-11-05,14:00,Dundee United,Rangers FC,2,1,H,0,0,D
+SCO,2006-11-06,19:45,Inverness CT,Aberdeen FC,1,1,D,0,0,D
+SCO,2006-11-11,15:00,Aberdeen FC,Motherwell FC,2,1,H,0,0,D
+SCO,2006-11-11,15:00,Dundee United,Kilmarnock FC,1,0,H,0,0,D
+SCO,2006-11-11,15:00,Hibernian FC,Inverness CT,2,0,H,0,0,D
+SCO,2006-11-11,15:00,Rangers FC,Dunfermline Athletic,2,0,H,0,0,D
+SCO,2006-11-12,14:00,St. Mirren FC,Celtic FC,1,3,A,0,2,A
+SCO,2006-11-13,19:45,Falkirk FC,Heart of Midlothian,1,1,D,0,0,D
+SCO,2006-11-18,15:00,Aberdeen FC,St. Mirren FC,2,0,H,0,0,D
+SCO,2006-11-18,15:00,Celtic FC,Inverness CT,3,0,H,1,0,H
+SCO,2006-11-18,15:00,Dunfermline Athletic,Dundee United,2,1,H,0,0,D
+SCO,2006-11-18,15:00,Kilmarnock FC,Falkirk FC,2,1,H,0,1,A
+SCO,2006-11-18,15:00,Motherwell FC,Hibernian FC,1,6,A,0,4,A
+SCO,2006-11-19,14:00,Heart of Midlothian,Rangers FC,0,1,A,0,0,D
+SCO,2006-11-25,15:00,Dunfermline Athletic,Aberdeen FC,0,3,A,0,0,D
+SCO,2006-11-25,15:00,Inverness CT,Heart of Midlothian,0,0,D,0,0,D
+SCO,2006-11-25,15:00,Motherwell FC,Falkirk FC,4,2,H,1,1,D
+SCO,2006-11-26,14:00,Hibernian FC,Celtic FC,2,2,D,1,0,H
+SCO,2006-11-26,15:00,Dundee United,St. Mirren FC,1,0,H,0,0,D
+SCO,2006-11-26,15:00,Rangers FC,Kilmarnock FC,3,0,H,2,0,H
+SCO,2006-12-02,15:00,Celtic FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2006-12-02,15:00,Hibernian FC,Dundee United,2,1,H,1,1,D
+SCO,2006-12-02,15:00,Inverness CT,Motherwell FC,0,1,A,0,0,D
+SCO,2006-12-02,15:00,Kilmarnock FC,Dunfermline Athletic,5,1,H,4,1,H
+SCO,2006-12-02,15:00,St. Mirren FC,Heart of Midlothian,2,2,D,2,1,H
+SCO,2006-12-03,14:00,Falkirk FC,Rangers FC,1,0,H,1,0,H
+SCO,2006-12-09,15:00,Aberdeen FC,Falkirk FC,2,1,H,2,0,H
+SCO,2006-12-09,15:00,Dundee United,Inverness CT,3,1,H,1,1,D
+SCO,2006-12-09,15:00,Heart of Midlothian,Motherwell FC,4,1,H,1,1,D
+SCO,2006-12-09,15:00,Kilmarnock FC,St. Mirren FC,1,1,D,0,0,D
+SCO,2006-12-09,15:00,Rangers FC,Hibernian FC,3,0,H,3,0,H
+SCO,2006-12-10,14:00,Dunfermline Athletic,Celtic FC,1,2,A,0,0,D
+SCO,2006-12-16,15:00,Falkirk FC,Hibernian FC,2,1,H,2,0,H
+SCO,2006-12-16,15:00,Heart of Midlothian,Aberdeen FC,0,1,A,0,0,D
+SCO,2006-12-16,15:00,Inverness CT,Kilmarnock FC,3,4,A,3,2,H
+SCO,2006-12-16,15:00,Motherwell FC,Dundee United,2,3,A,0,2,A
+SCO,2006-12-16,15:00,St. Mirren FC,Dunfermline Athletic,0,0,D,0,0,D
+SCO,2006-12-17,12:30,Rangers FC,Celtic FC,1,1,D,0,1,A
+SCO,2006-12-23,12:30,Aberdeen FC,Rangers FC,1,2,A,0,2,A
+SCO,2006-12-23,15:00,Celtic FC,Falkirk FC,1,0,H,1,0,H
+SCO,2006-12-23,15:00,Dundee United,Heart of Midlothian,0,1,A,0,0,D
+SCO,2006-12-23,15:00,Dunfermline Athletic,Inverness CT,0,0,D,0,0,D
+SCO,2006-12-23,15:00,Hibernian FC,St. Mirren FC,5,1,H,2,1,H
+SCO,2006-12-23,15:00,Kilmarnock FC,Motherwell FC,1,2,A,1,2,A
+SCO,2006-12-26,14:00,Heart of Midlothian,Hibernian FC,3,2,H,1,0,H
+SCO,2006-12-26,15:00,Aberdeen FC,Kilmarnock FC,3,1,H,2,0,H
+SCO,2006-12-26,15:00,Celtic FC,Dundee United,2,2,D,0,1,A
+SCO,2006-12-26,15:00,Dunfermline Athletic,Motherwell FC,0,2,A,0,1,A
+SCO,2006-12-26,15:00,St. Mirren FC,Falkirk FC,1,0,H,0,0,D
+SCO,2006-12-27,20:00,Inverness CT,Rangers FC,2,1,H,1,1,D
+SCO,2006-12-30,12:30,Motherwell FC,Celtic FC,1,1,D,0,1,A
+SCO,2006-12-30,15:00,Dundee United,Aberdeen FC,3,1,H,0,0,D
+SCO,2006-12-30,15:00,Falkirk FC,Inverness CT,3,1,H,3,0,H
+SCO,2006-12-30,15:00,Hibernian FC,Dunfermline Athletic,2,0,H,0,0,D
+SCO,2006-12-30,15:00,Kilmarnock FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2006-12-30,15:00,Rangers FC,St. Mirren FC,1,1,D,1,1,D
+SCO,2007-01-01,15:00,Dundee United,Falkirk FC,1,5,A,1,2,A
+SCO,2007-01-01,15:00,Inverness CT,St. Mirren FC,2,1,H,2,0,H
+SCO,2007-01-02,14:00,Dunfermline Athletic,Heart of Midlothian,0,1,A,0,1,A
+SCO,2007-01-02,15:00,Celtic FC,Kilmarnock FC,2,0,H,1,0,H
+SCO,2007-01-02,15:00,Hibernian FC,Aberdeen FC,0,0,D,0,0,D
+SCO,2007-01-02,15:00,Motherwell FC,Rangers FC,0,1,A,0,0,D
+SCO,2007-01-13,15:00,Aberdeen FC,Inverness CT,1,1,D,0,0,D
+SCO,2007-01-13,15:00,Falkirk FC,Dunfermline Athletic,1,0,H,0,0,D
+SCO,2007-01-13,15:00,Rangers FC,Dundee United,5,0,H,2,0,H
+SCO,2007-01-14,14:00,Heart of Midlothian,Celtic FC,1,2,A,1,0,H
+SCO,2007-01-15,19:45,Kilmarnock FC,Hibernian FC,0,2,A,0,0,D
+SCO,2007-01-20,15:00,Celtic FC,St. Mirren FC,5,1,H,1,0,H
+SCO,2007-01-20,15:00,Heart of Midlothian,Falkirk FC,1,0,H,0,0,D
+SCO,2007-01-20,15:00,Kilmarnock FC,Dundee United,1,0,H,0,0,D
+SCO,2007-01-21,14:00,Dunfermline Athletic,Rangers FC,0,1,A,0,1,A
+SCO,2007-01-21,15:00,Inverness CT,Hibernian FC,3,0,H,3,0,H
+SCO,2007-01-27,15:00,Dundee United,Dunfermline Athletic,0,0,D,0,0,D
+SCO,2007-01-27,15:00,Falkirk FC,Kilmarnock FC,0,2,A,0,2,A
+SCO,2007-01-27,15:00,Hibernian FC,Motherwell FC,2,0,H,0,0,D
+SCO,2007-01-27,15:00,Rangers FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2007-01-27,15:00,St. Mirren FC,Aberdeen FC,0,2,A,0,2,A
+SCO,2007-01-28,14:00,Inverness CT,Celtic FC,1,2,A,0,1,A
+SCO,2007-02-10,14:00,Heart of Midlothian,Inverness CT,1,0,H,0,0,D
+SCO,2007-02-10,15:00,Aberdeen FC,Dunfermline Athletic,3,0,H,1,0,H
+SCO,2007-02-10,15:00,Celtic FC,Hibernian FC,1,0,H,0,0,D
+SCO,2007-02-10,15:00,Falkirk FC,Motherwell FC,1,2,A,0,0,D
+SCO,2007-02-10,15:00,St. Mirren FC,Dundee United,0,1,A,0,0,D
+SCO,2007-02-11,14:00,Kilmarnock FC,Rangers FC,1,3,A,0,2,A
+SCO,2007-02-17,12:30,Aberdeen FC,Celtic FC,1,2,A,0,2,A
+SCO,2007-02-17,15:00,Dunfermline Athletic,Kilmarnock FC,1,1,D,1,1,D
+SCO,2007-02-17,15:00,Heart of Midlothian,St. Mirren FC,1,1,D,0,1,A
+SCO,2007-02-17,15:00,Motherwell FC,Inverness CT,1,0,H,1,0,H
+SCO,2007-02-18,14:00,Dundee United,Hibernian FC,0,0,D,0,0,D
+SCO,2007-02-18,15:00,Rangers FC,Falkirk FC,2,1,H,1,0,H
+SCO,2007-02-20,19:45,St. Mirren FC,Motherwell FC,0,0,D,0,0,D
+SCO,2007-03-03,15:00,Celtic FC,Dunfermline Athletic,2,1,H,1,0,H
+SCO,2007-03-03,15:00,Falkirk FC,Aberdeen FC,1,2,A,0,1,A
+SCO,2007-03-03,15:00,Inverness CT,Dundee United,1,0,H,0,0,D
+SCO,2007-03-03,15:00,St. Mirren FC,Kilmarnock FC,0,2,A,0,0,D
+SCO,2007-03-04,14:00,Hibernian FC,Rangers FC,0,2,A,0,1,A
+SCO,2007-03-05,19:45,Motherwell FC,Heart of Midlothian,0,2,A,0,1,A
+SCO,2007-03-10,15:00,Aberdeen FC,Heart of Midlothian,1,0,H,1,0,H
+SCO,2007-03-10,15:00,Dundee United,Motherwell FC,1,1,D,1,1,D
+SCO,2007-03-10,15:00,Dunfermline Athletic,St. Mirren FC,0,0,D,0,0,D
+SCO,2007-03-10,15:00,Hibernian FC,Falkirk FC,2,0,H,0,0,D
+SCO,2007-03-10,15:00,Kilmarnock FC,Inverness CT,3,2,H,3,1,H
+SCO,2007-03-11,12:30,Celtic FC,Rangers FC,0,1,A,0,0,D
+SCO,2007-03-13,19:45,Motherwell FC,Aberdeen FC,0,2,A,0,1,A
+SCO,2007-03-17,15:00,Heart of Midlothian,Dundee United,0,4,A,0,0,D
+SCO,2007-03-17,15:00,Inverness CT,Dunfermline Athletic,1,3,A,1,0,H
+SCO,2007-03-17,15:00,Rangers FC,Aberdeen FC,3,0,H,3,0,H
+SCO,2007-03-18,13:00,Falkirk FC,Celtic FC,1,0,H,1,0,H
+SCO,2007-03-31,12:30,Dundee United,Celtic FC,1,1,D,0,0,D
+SCO,2007-03-31,15:00,Falkirk FC,St. Mirren FC,2,0,H,2,0,H
+SCO,2007-03-31,15:00,Kilmarnock FC,Aberdeen FC,1,2,A,0,0,D
+SCO,2007-03-31,15:00,Motherwell FC,Dunfermline Athletic,2,0,H,0,0,D
+SCO,2007-03-31,15:00,Rangers FC,Inverness CT,1,1,D,1,0,H
+SCO,2007-04-01,14:00,Hibernian FC,Heart of Midlothian,0,1,A,0,0,D
+SCO,2007-04-03,19:45,Motherwell FC,Kilmarnock FC,0,1,A,0,0,D
+SCO,2007-04-04,19:45,St. Mirren FC,Hibernian FC,1,1,D,0,1,A
+SCO,2007-04-07,15:00,Aberdeen FC,Dundee United,2,4,A,2,3,A
+SCO,2007-04-07,15:00,Celtic FC,Motherwell FC,1,0,H,0,0,D
+SCO,2007-04-07,15:00,Dunfermline Athletic,Hibernian FC,1,0,H,0,0,D
+SCO,2007-04-07,15:00,Heart of Midlothian,Kilmarnock FC,1,0,H,0,0,D
+SCO,2007-04-07,15:00,Inverness CT,Falkirk FC,1,1,D,0,0,D
+SCO,2007-04-08,14:00,St. Mirren FC,Rangers FC,0,1,A,0,1,A

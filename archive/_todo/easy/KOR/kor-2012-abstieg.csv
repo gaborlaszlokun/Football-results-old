@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KOR,2012-09-15,07:00,Seongnam Ilhwa Chunma,Daejeon Citizen,1,2,A,1.0,1.0,D
+KOR,2012-09-15,07:00,Chunnam Dragons,Gwangju FC,1,1,D,0.0,1.0,A
+KOR,2012-09-16,09:00,Incheon United,Gangwon FC,2,1,H,0.0,0.0,D
+KOR,2012-09-16,,Daegu FC,Sangju Sangmu,2,0,H,,,
+KOR,2012-09-22,07:00,Gangwon FC,Seongnam Ilhwa Chunma,0,1,A,0.0,1.0,A
+KOR,2012-09-22,09:00,Daejeon Citizen,Incheon United,1,1,D,0.0,0.0,D
+KOR,2012-09-23,07:00,Gwangju FC,Daegu FC,1,1,D,1.0,1.0,D
+KOR,2012-09-23,,Sangju Sangmu,Chunnam Dragons,0,2,A,,,
+KOR,2012-09-26,11:00,Daegu FC,Seongnam Ilhwa Chunma,1,0,H,0.0,0.0,D
+KOR,2012-09-26,,Sangju Sangmu,Incheon United,0,2,A,,,
+KOR,2012-09-27,11:00,Gangwon FC,Gwangju FC,1,0,H,0.0,0.0,D
+KOR,2012-09-27,11:30,Daejeon Citizen,Chunnam Dragons,1,0,H,0.0,0.0,D
+KOR,2012-10-03,07:00,Incheon United,Daegu FC,2,1,H,1.0,0.0,H
+KOR,2012-10-03,07:00,Chunnam Dragons,Gangwon FC,0,0,D,0.0,0.0,D
+KOR,2012-10-03,07:00,Gwangju FC,Daejeon Citizen,1,1,D,1.0,1.0,D
+KOR,2012-10-03,,Seongnam Ilhwa Chunma,Sangju Sangmu,2,0,H,,,
+KOR,2012-10-06,07:00,Incheon United,Seongnam Ilhwa Chunma,0,0,D,0.0,0.0,D
+KOR,2012-10-06,,Sangju Sangmu,Gwangju FC,0,2,A,,,
+KOR,2012-10-07,07:00,Chunnam Dragons,Daegu FC,2,2,D,1.0,0.0,H
+KOR,2012-10-07,07:00,Daejeon Citizen,Gangwon FC,5,3,H,3.0,1.0,H
+KOR,2012-10-21,07:00,Chunnam Dragons,Incheon United,0,0,D,0.0,0.0,D
+KOR,2012-10-21,07:00,Gwangju FC,Seongnam Ilhwa Chunma,2,3,A,1.0,1.0,D
+KOR,2012-10-21,09:00,Gangwon FC,Daegu FC,3,0,H,1.0,0.0,H
+KOR,2012-10-21,,Daejeon Citizen,Sangju Sangmu,0,2,A,,,
+KOR,2012-10-27,07:00,Incheon United,Gwangju FC,3,2,H,2.0,2.0,D
+KOR,2012-10-27,,Sangju Sangmu,Gangwon FC,0,2,A,,,
+KOR,2012-10-28,06:00,Daegu FC,Daejeon Citizen,4,1,H,3.0,0.0,H
+KOR,2012-10-28,08:00,Seongnam Ilhwa Chunma,Chunnam Dragons,2,2,D,1.0,1.0,D
+KOR,2012-11-03,06:00,Seongnam Ilhwa Chunma,Incheon United,1,2,A,0.0,2.0,A
+KOR,2012-11-03,,Gwangju FC,Sangju Sangmu,2,0,H,,,
+KOR,2012-11-04,06:00,Daegu FC,Chunnam Dragons,0,1,A,0.0,1.0,A
+KOR,2012-11-04,06:00,Gangwon FC,Daejeon Citizen,5,1,H,2.0,1.0,H
+KOR,2012-11-11,06:00,Incheon United,Chunnam Dragons,0,0,D,0.0,0.0,D
+KOR,2012-11-11,06:00,Daejeon Citizen,Seongnam Ilhwa Chunma,1,1,D,1.0,1.0,D
+KOR,2012-11-11,06:00,Gwangju FC,Gangwon FC,1,1,D,0.0,0.0,D
+KOR,2012-11-11,,Sangju Sangmu,Daegu FC,0,2,A,,,
+KOR,2012-11-17,06:00,Seongnam Ilhwa Chunma,Gwangju FC,3,4,A,3.0,2.0,H
+KOR,2012-11-17,08:00,Daegu FC,Gangwon FC,2,2,D,1.0,1.0,D
+KOR,2012-11-18,06:00,Incheon United,Daejeon Citizen,1,0,H,1.0,0.0,H
+KOR,2012-11-18,,Chunnam Dragons,Sangju Sangmu,2,0,H,,,
+KOR,2012-11-21,10:00,Gwangju FC,Incheon United,1,1,D,0.0,1.0,A
+KOR,2012-11-21,10:00,Gangwon FC,Chunnam Dragons,2,3,A,1.0,2.0,A
+KOR,2012-11-21,10:30,Seongnam Ilhwa Chunma,Daegu FC,0,2,A,0.0,1.0,A
+KOR,2012-11-21,11:00,Sangju Sangmu,Daejeon Citizen,0,2,A,,,
+KOR,2012-11-24,06:00,Chunnam Dragons,Seongnam Ilhwa Chunma,2,0,H,0.0,0.0,D
+KOR,2012-11-24,07:00,Gangwon FC,Sangju Sangmu,2,0,H,,,
+KOR,2012-11-25,06:00,Daejeon Citizen,Gwangju FC,1,1,D,0.0,0.0,D
+KOR,2012-11-25,06:00,Daegu FC,Incheon United,2,2,D,1.0,2.0,A
+KOR,2012-11-28,10:00,Daegu FC,Gwangju FC,2,0,H,1.0,0.0,H
+KOR,2012-11-28,10:00,Chunnam Dragons,Daejeon Citizen,3,1,H,2.0,1.0,H
+KOR,2012-11-28,10:30,Seongnam Ilhwa Chunma,Gangwon FC,0,1,A,0.0,1.0,A
+KOR,2012-11-28,,Incheon United,Sangju Sangmu,2,0,H,,,
+KOR,2012-12-01,05:00,Daejeon Citizen,Daegu FC,1,0,H,1.0,0.0,H
+KOR,2012-12-01,05:00,Gwangju FC,Chunnam Dragons,1,0,H,0.0,0.0,D
+KOR,2012-12-01,05:00,Gangwon FC,Incheon United,2,1,H,1.0,0.0,H
+KOR,2012-12-01,,Sangju Sangmu,Seongnam Ilhwa Chunma,0,2,A,,,

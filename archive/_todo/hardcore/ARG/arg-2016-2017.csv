@@ -1,0 +1,451 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2016-08-26,23:00,Sarmiento de Junín,Arsenal Sarandí,1,0,H,1,0,H
+ARG,2016-08-27,01:15,CD Godoy Cruz,Huracán,1,0,H,1,0,H
+ARG,2016-08-27,18:00,GyE La Plata,Vélez Sársfield,2,0,H,0,0,D
+ARG,2016-08-27,20:00,Rosario Central,Defensa y Justicia,0,0,D,0,0,D
+ARG,2016-08-27,22:00,Racing Club,Talleres Córdoba,1,1,D,0,1,A
+ARG,2016-08-27,23:00,Atlético Tucumán,Atlético Rafaela,1,0,H,0,0,D
+ARG,2016-08-28,00:00,San Lorenzo,CA San Martín,2,2,D,1,2,A
+ARG,2016-08-28,18:00,Tigre,Estudiantes,0,3,A,0,1,A
+ARG,2016-08-28,18:10,Quilmes AC,Newell's Old Boys,0,1,A,0,0,D
+ARG,2016-08-28,20:00,Belgrano Córdoba,Independiente,0,1,A,0,1,A
+ARG,2016-08-28,20:15,Unión de Santa Fe,Olimpo,1,0,H,1,0,H
+ARG,2016-08-28,22:00,River Plate,CA Banfield,4,1,H,1,1,D
+ARG,2016-08-29,00:00,CA Lanús,Boca Juniors,1,0,H,0,0,D
+ARG,2016-08-29,23:00,Aldosivi,CA Colón,0,2,A,0,1,A
+ARG,2016-08-30,01:15,CA Temperley,Patronato,1,0,H,1,0,H
+ARG,2016-09-09,23:00,Patronato,GyE La Plata,0,1,A,0,1,A
+ARG,2016-09-10,01:15,Huracán,Quilmes AC,1,1,D,0,1,A
+ARG,2016-09-10,18:00,Olimpo,CA Lanús,0,0,D,0,0,D
+ARG,2016-09-10,18:45,CA Banfield,CA Colón,0,0,D,0,0,D
+ARG,2016-09-10,20:00,CA San Martín,Racing Club,0,2,A,0,1,A
+ARG,2016-09-10,21:00,Unión de Santa Fe,Aldosivi,0,0,D,0,0,D
+ARG,2016-09-10,22:00,Defensa y Justicia,San Lorenzo,0,2,A,0,1,A
+ARG,2016-09-11,00:00,Independiente,CD Godoy Cruz,2,0,H,0,0,D
+ARG,2016-09-11,18:00,Newell's Old Boys,Tigre,1,0,H,0,0,D
+ARG,2016-09-11,20:00,Vélez Sársfield,Rosario Central,2,0,H,1,0,H
+ARG,2016-09-11,20:15,Estudiantes,Sarmiento de Junín,1,0,H,1,0,H
+ARG,2016-09-11,22:00,Boca Juniors,Belgrano Córdoba,3,0,H,2,0,H
+ARG,2016-09-12,00:00,Talleres Córdoba,River Plate,0,1,A,0,0,D
+ARG,2016-09-12,23:00,Arsenal Sarandí,Atlético Tucumán,1,3,A,0,2,A
+ARG,2016-09-13,01:15,Atlético Rafaela,CA Temperley,1,0,H,1,0,H
+ARG,2016-09-17,01:15,CA Colón,Talleres Córdoba,1,0,H,0,0,D
+ARG,2016-09-17,18:00,CA Lanús,Unión de Santa Fe,0,1,A,0,0,D
+ARG,2016-09-17,20:00,San Lorenzo,Vélez Sársfield,2,1,H,1,0,H
+ARG,2016-09-17,20:15,Rosario Central,Patronato,2,1,H,0,0,D
+ARG,2016-09-17,21:00,Aldosivi,CA Banfield,1,3,A,1,1,D
+ARG,2016-09-17,22:00,Quilmes AC,Independiente,1,1,D,0,0,D
+ARG,2016-09-18,00:15,Sarmiento de Junín,Newell's Old Boys,1,1,D,0,1,A
+ARG,2016-09-18,18:00,Atlético Tucumán,Estudiantes,0,2,A,0,1,A
+ARG,2016-09-18,18:15,CA Temperley,Arsenal Sarandí,1,1,D,1,1,D
+ARG,2016-09-18,20:00,CD Godoy Cruz,Boca Juniors,1,1,D,0,0,D
+ARG,2016-09-18,20:00,Belgrano Córdoba,Olimpo,0,0,D,0,0,D
+ARG,2016-09-18,22:00,River Plate,CA San Martín,1,1,D,1,0,H
+ARG,2016-09-19,00:00,Racing Club,Defensa y Justicia,1,1,D,1,0,H
+ARG,2016-09-19,23:00,Tigre,Huracán,1,1,D,1,0,H
+ARG,2016-09-20,01:15,GyE La Plata,Atlético Rafaela,0,1,A,0,0,D
+ARG,2016-09-24,01:15,Olimpo,CD Godoy Cruz,3,0,H,1,0,H
+ARG,2016-09-24,18:00,Newell's Old Boys,Atlético Tucumán,3,1,H,2,0,H
+ARG,2016-09-24,20:15,Atlético Rafaela,Rosario Central,0,0,D,0,0,D
+ARG,2016-09-24,22:00,Vélez Sársfield,Racing Club,0,3,A,0,3,A
+ARG,2016-09-25,00:00,Independiente,Tigre,1,1,D,1,1,D
+ARG,2016-09-25,00:15,Huracán,Sarmiento de Junín,0,0,D,0,0,D
+ARG,2016-09-25,18:00,Estudiantes,CA Temperley,3,0,H,1,0,H
+ARG,2016-09-25,19:00,Unión de Santa Fe,Belgrano Córdoba,0,2,A,0,0,D
+ARG,2016-09-25,19:45,Talleres Córdoba,CA Banfield,0,0,D,0,0,D
+ARG,2016-09-25,20:00,Patronato,San Lorenzo,1,1,D,1,1,D
+ARG,2016-09-25,22:00,CA Lanús,Aldosivi,0,0,D,0,0,D
+ARG,2016-09-25,22:00,Boca Juniors,Quilmes AC,4,1,H,4,1,H
+ARG,2016-09-26,00:00,Defensa y Justicia,River Plate,3,3,D,2,2,D
+ARG,2016-09-26,23:00,Arsenal Sarandí,GyE La Plata,2,2,D,0,2,A
+ARG,2016-09-27,01:15,CA San Martín,CA Colón,0,0,D,0,0,D
+ARG,2016-09-30,23:00,Quilmes AC,Olimpo,2,1,H,1,0,H
+ARG,2016-10-01,01:15,CD Godoy Cruz,Unión de Santa Fe,2,1,H,1,0,H
+ARG,2016-10-01,18:00,Rosario Central,Arsenal Sarandí,5,0,H,1,0,H
+ARG,2016-10-01,18:30,Aldosivi,Talleres Córdoba,2,1,H,1,0,H
+ARG,2016-10-01,20:45,CA Temperley,Newell's Old Boys,0,0,D,0,0,D
+ARG,2016-10-01,22:00,Racing Club,Patronato,2,0,H,0,0,D
+ARG,2016-10-02,00:00,River Plate,Vélez Sársfield,3,0,H,2,0,H
+ARG,2016-10-02,18:00,San Lorenzo,Atlético Rafaela,2,1,H,2,0,H
+ARG,2016-10-02,18:10,Belgrano Córdoba,CA Lanús,1,1,D,1,0,H
+ARG,2016-10-02,20:00,GyE La Plata,Estudiantes,0,0,D,0,0,D
+ARG,2016-10-02,20:15,CA Banfield,CA San Martín,3,2,H,1,2,A
+ARG,2016-10-02,22:00,CA Colón,Defensa y Justicia,1,0,H,1,0,H
+ARG,2016-10-02,22:00,Sarmiento de Junín,Independiente,0,1,A,0,1,A
+ARG,2016-10-03,00:00,Tigre,Boca Juniors,1,1,D,1,0,H
+ARG,2016-10-04,01:00,Atlético Tucumán,Huracán,0,2,A,0,2,A
+ARG,2016-10-14,23:00,Defensa y Justicia,CA Banfield,1,0,H,0,0,D
+ARG,2016-10-15,01:15,Belgrano Córdoba,Aldosivi,0,0,D,0,0,D
+ARG,2016-10-15,18:00,Vélez Sársfield,CA Colón,2,1,H,0,1,A
+ARG,2016-10-15,20:00,Huracán,CA Temperley,1,2,A,1,1,D
+ARG,2016-10-15,20:00,Atlético Rafaela,Racing Club,3,2,H,1,1,D
+ARG,2016-10-15,22:00,Estudiantes,Rosario Central,3,2,H,2,1,H
+ARG,2016-10-15,22:15,CA San Martín,Talleres Córdoba,1,3,A,0,1,A
+ARG,2016-10-16,00:00,Independiente,Atlético Tucumán,0,2,A,0,1,A
+ARG,2016-10-16,18:00,CA Lanús,CD Godoy Cruz,3,0,H,0,0,D
+ARG,2016-10-16,20:00,Olimpo,Tigre,1,4,A,1,2,A
+ARG,2016-10-16,20:00,Boca Juniors,Sarmiento de Junín,2,0,H,1,0,H
+ARG,2016-10-16,20:15,Newell's Old Boys,GyE La Plata,1,0,H,0,0,D
+ARG,2016-10-16,22:00,Arsenal Sarandí,San Lorenzo,1,3,A,0,2,A
+ARG,2016-10-17,00:00,Patronato,River Plate,2,1,H,0,1,A
+ARG,2016-10-18,01:00,Unión de Santa Fe,Quilmes AC,1,1,D,1,1,D
+ARG,2016-10-21,23:00,Sarmiento de Junín,Olimpo,1,1,D,1,1,D
+ARG,2016-10-22,01:15,Talleres Córdoba,Defensa y Justicia,2,0,H,1,0,H
+ARG,2016-10-22,18:00,Quilmes AC,CA Lanús,1,0,H,1,0,H
+ARG,2016-10-22,19:15,CD Godoy Cruz,Belgrano Córdoba,2,0,H,1,0,H
+ARG,2016-10-22,20:00,CA Temperley,Independiente,0,1,A,0,0,D
+ARG,2016-10-22,21:30,CA Colón,Patronato,0,1,A,0,1,A
+ARG,2016-10-22,22:00,Racing Club,Arsenal Sarandí,1,0,H,1,0,H
+ARG,2016-10-23,00:00,River Plate,Atlético Rafaela,1,0,H,0,0,D
+ARG,2016-10-23,18:00,GyE La Plata,Huracán,1,0,H,0,0,D
+ARG,2016-10-23,20:00,CA Banfield,Vélez Sársfield,1,0,H,0,0,D
+ARG,2016-10-23,20:00,Rosario Central,Newell's Old Boys,0,1,A,0,0,D
+ARG,2016-10-23,20:00,Tigre,Unión de Santa Fe,3,1,H,0,1,A
+ARG,2016-10-23,22:00,San Lorenzo,Estudiantes,1,2,A,1,1,D
+ARG,2016-10-24,00:00,Atlético Tucumán,Boca Juniors,2,2,D,1,1,D
+ARG,2016-10-25,01:00,Aldosivi,CA San Martín,1,2,A,1,0,H
+ARG,2016-10-28,23:00,Olimpo,Atlético Tucumán,2,1,H,1,0,H
+ARG,2016-10-29,01:15,Patronato,CA Banfield,2,0,H,0,0,D
+ARG,2016-10-29,18:00,Vélez Sársfield,Talleres Córdoba,0,2,A,0,1,A
+ARG,2016-10-29,20:00,Belgrano Córdoba,Quilmes AC,0,0,D,0,0,D
+ARG,2016-10-29,20:00,Boca Juniors,CA Temperley,4,0,H,3,0,H
+ARG,2016-10-29,22:00,Independiente,GyE La Plata,0,0,D,0,0,D
+ARG,2016-10-29,22:15,Huracán,Rosario Central,1,1,D,1,0,H
+ARG,2016-10-30,00:00,Estudiantes,Racing Club,2,1,H,1,1,D
+ARG,2016-10-30,17:00,CA Lanús,Tigre,1,1,D,0,0,D
+ARG,2016-10-30,18:00,CD Godoy Cruz,Aldosivi,3,1,H,0,0,D
+ARG,2016-10-30,19:00,Newell's Old Boys,San Lorenzo,2,2,D,2,1,H
+ARG,2016-10-30,21:00,Atlético Rafaela,CA Colón,0,2,A,0,1,A
+ARG,2016-10-30,23:00,Arsenal Sarandí,River Plate,2,2,D,0,1,A
+ARG,2016-10-31,22:00,Defensa y Justicia,CA San Martín,0,0,D,0,0,D
+ARG,2016-11-01,00:15,Unión de Santa Fe,Sarmiento de Junín,1,0,H,1,0,H
+ARG,2016-11-05,00:15,CA Temperley,Olimpo,0,0,D,0,0,D
+ARG,2016-11-05,17:00,Quilmes AC,CD Godoy Cruz,1,0,H,0,0,D
+ARG,2016-11-05,19:00,River Plate,Estudiantes,1,1,D,1,0,H
+ARG,2016-11-05,19:15,Sarmiento de Junín,CA Lanús,1,2,A,1,1,D
+ARG,2016-11-05,20:00,CA Colón,Arsenal Sarandí,1,0,H,1,0,H
+ARG,2016-11-05,21:00,Racing Club,Newell's Old Boys,2,1,H,2,1,H
+ARG,2016-11-05,22:15,CA San Martín,Vélez Sársfield,2,0,H,2,0,H
+ARG,2016-11-06,17:00,CA Banfield,Atlético Rafaela,1,1,D,0,1,A
+ARG,2016-11-06,19:00,San Lorenzo,Huracán,2,0,H,1,0,H
+ARG,2016-11-06,19:00,Tigre,Belgrano Córdoba,2,1,H,1,1,D
+ARG,2016-11-06,21:00,Talleres Córdoba,Patronato,1,0,H,0,0,D
+ARG,2016-11-06,21:15,Rosario Central,Independiente,0,0,D,0,0,D
+ARG,2016-11-06,23:00,GyE La Plata,Boca Juniors,0,3,A,0,3,A
+ARG,2016-11-07,22:00,Aldosivi,Defensa y Justicia,0,0,D,0,0,D
+ARG,2016-11-09,00:00,Atlético Tucumán,Unión de Santa Fe,1,1,D,1,0,H
+ARG,2016-11-13,19:00,Vélez Sársfield,Defensa y Justicia,2,1,H,0,1,A
+ARG,2016-11-19,00:15,Arsenal Sarandí,CA Banfield,1,3,A,1,2,A
+ARG,2016-11-19,20:00,Estudiantes,CA Colón,1,0,H,0,0,D
+ARG,2016-11-19,21:00,CD Godoy Cruz,Tigre,2,1,H,2,1,H
+ARG,2016-11-19,21:00,CA Lanús,Atlético Tucumán,1,0,H,0,0,D
+ARG,2016-11-19,21:00,Unión de Santa Fe,CA Temperley,2,1,H,2,1,H
+ARG,2016-11-19,23:00,Huracán,Racing Club,1,1,D,0,1,A
+ARG,2016-11-20,20:00,Quilmes AC,Aldosivi,1,0,H,1,0,H
+ARG,2016-11-20,20:00,Belgrano Córdoba,Sarmiento de Junín,1,2,A,0,2,A
+ARG,2016-11-20,20:00,Independiente,San Lorenzo,1,2,A,0,1,A
+ARG,2016-11-20,21:30,Boca Juniors,Rosario Central,1,1,D,1,1,D
+ARG,2016-11-20,22:15,Atlético Rafaela,Talleres Córdoba,0,1,A,0,1,A
+ARG,2016-11-20,23:00,Newell's Old Boys,River Plate,1,0,H,0,0,D
+ARG,2016-11-21,22:00,Olimpo,GyE La Plata,0,0,D,0,0,D
+ARG,2016-11-22,00:15,Patronato,CA San Martín,3,0,H,2,0,H
+ARG,2016-11-25,22:00,CA Temperley,CA Lanús,1,3,A,1,3,A
+ARG,2016-11-26,00:15,Talleres Córdoba,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2016-11-26,20:00,CA Colón,Newell's Old Boys,1,2,A,1,1,D
+ARG,2016-11-26,20:00,Tigre,Quilmes AC,3,0,H,2,0,H
+ARG,2016-11-26,21:30,CA Banfield,Estudiantes,3,2,H,3,1,H
+ARG,2016-11-26,23:00,Rosario Central,Olimpo,1,1,D,1,0,H
+ARG,2016-11-26,23:00,Atlético Tucumán,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2016-11-27,20:00,Aldosivi,Vélez Sársfield,0,0,D,0,0,D
+ARG,2016-11-27,20:00,River Plate,Huracán,1,0,H,0,0,D
+ARG,2016-11-27,21:00,Sarmiento de Junín,CD Godoy Cruz,2,2,D,1,1,D
+ARG,2016-11-27,21:30,San Lorenzo,Boca Juniors,1,2,A,1,2,A
+ARG,2016-11-27,23:00,Racing Club,Independiente,3,0,H,1,0,H
+ARG,2016-11-28,20:00,Defensa y Justicia,Patronato,1,2,A,1,0,H
+ARG,2016-11-28,22:10,GyE La Plata,Unión de Santa Fe,1,1,D,1,1,D
+ARG,2016-11-29,00:15,CA San Martín,Atlético Rafaela,0,3,A,0,1,A
+ARG,2016-12-03,00:15,Quilmes AC,Sarmiento de Junín,1,3,A,1,0,H
+ARG,2016-12-03,20:00,Huracán,CA Colón,1,3,A,0,1,A
+ARG,2016-12-03,20:45,Atlético Rafaela,Defensa y Justicia,0,1,A,0,1,A
+ARG,2016-12-03,21:00,Tigre,Aldosivi,1,1,D,1,0,H
+ARG,2016-12-03,21:00,Newell's Old Boys,CA Banfield,0,2,A,0,0,D
+ARG,2016-12-03,23:00,CD Godoy Cruz,Atlético Tucumán,1,2,A,0,1,A
+ARG,2016-12-03,23:00,Olimpo,San Lorenzo,1,2,A,1,1,D
+ARG,2016-12-04,20:00,Unión de Santa Fe,Rosario Central,2,0,H,0,0,D
+ARG,2016-12-04,20:00,Estudiantes,Talleres Córdoba,0,0,D,0,0,D
+ARG,2016-12-04,21:00,Boca Juniors,Racing Club,4,2,H,2,0,H
+ARG,2016-12-04,21:00,Patronato,Vélez Sársfield,0,0,D,0,0,D
+ARG,2016-12-04,22:15,Belgrano Córdoba,CA Temperley,0,0,D,0,0,D
+ARG,2016-12-04,23:10,Independiente,River Plate,1,0,H,0,0,D
+ARG,2016-12-05,22:00,Arsenal Sarandí,CA San Martín,0,0,D,0,0,D
+ARG,2016-12-06,00:15,CA Lanús,GyE La Plata,1,0,H,1,0,H
+ARG,2016-12-09,20:00,Aldosivi,Patronato,1,1,D,0,1,A
+ARG,2016-12-09,22:10,Sarmiento de Junín,Tigre,2,0,H,2,0,H
+ARG,2016-12-10,00:15,CA Temperley,CD Godoy Cruz,1,0,H,0,0,D
+ARG,2016-12-10,20:00,Vélez Sársfield,Atlético Rafaela,2,0,H,0,0,D
+ARG,2016-12-10,20:00,Talleres Córdoba,Newell's Old Boys,1,1,D,1,0,H
+ARG,2016-12-10,20:00,San Lorenzo,Unión de Santa Fe,3,2,H,1,0,H
+ARG,2016-12-10,22:15,GyE La Plata,Belgrano Córdoba,1,1,D,0,0,D
+ARG,2016-12-10,23:00,Racing Club,Olimpo,0,2,A,0,1,A
+ARG,2016-12-11,20:00,River Plate,Boca Juniors,2,4,A,2,1,H
+ARG,2016-12-11,22:00,CA San Martín,Estudiantes,3,2,H,2,0,H
+ARG,2016-12-11,22:00,CA Banfield,Huracán,1,0,H,1,0,H
+ARG,2016-12-11,22:15,CA Colón,Independiente,0,2,A,0,1,A
+ARG,2016-12-11,23:00,Rosario Central,CA Lanús,1,2,A,0,0,D
+ARG,2016-12-12,00:15,Atlético Tucumán,Quilmes AC,3,0,H,1,0,H
+ARG,2016-12-13,00:15,Defensa y Justicia,Arsenal Sarandí,2,0,H,0,0,D
+ARG,2016-12-16,22:00,Huracán,Talleres Córdoba,1,0,H,0,0,D
+ARG,2016-12-17,00:15,CD Godoy Cruz,GyE La Plata,0,3,A,0,1,A
+ARG,2016-12-17,20:00,Sarmiento de Junín,Aldosivi,0,2,A,0,1,A
+ARG,2016-12-17,20:00,Estudiantes,Defensa y Justicia,1,2,A,0,0,D
+ARG,2016-12-17,21:15,Unión de Santa Fe,Racing Club,1,0,H,1,0,H
+ARG,2016-12-17,22:30,Atlético Rafaela,Patronato,3,0,H,1,0,H
+ARG,2016-12-17,23:00,Independiente,CA Banfield,0,1,A,0,0,D
+ARG,2016-12-18,20:00,Belgrano Córdoba,Rosario Central,0,2,A,0,1,A
+ARG,2016-12-18,20:00,CA Lanús,San Lorenzo,2,2,D,1,0,H
+ARG,2016-12-18,21:00,Arsenal Sarandí,Vélez Sársfield,2,1,H,2,0,H
+ARG,2016-12-18,21:30,Boca Juniors,CA Colón,4,1,H,2,1,H
+ARG,2016-12-18,22:30,Newell's Old Boys,CA San Martín,6,1,H,3,0,H
+ARG,2016-12-18,23:00,Olimpo,River Plate,1,2,A,1,1,D
+ARG,2016-12-19,22:00,Quilmes AC,CA Temperley,1,0,H,0,0,D
+ARG,2016-12-20,00:15,Tigre,Atlético Tucumán,0,0,D,0,0,D
+ARG,2017-03-10,00:00,Vélez Sársfield,Estudiantes,3,2,H,2,1,H
+ARG,2017-03-11,00:00,Patronato,Arsenal Sarandí,4,2,H,2,0,H
+ARG,2017-03-11,20:00,Defensa y Justicia,Newell's Old Boys,1,0,H,0,0,D
+ARG,2017-03-11,20:00,San Lorenzo,Belgrano Córdoba,2,1,H,2,0,H
+ARG,2017-03-11,22:10,CA Banfield,Boca Juniors,0,2,A,0,1,A
+ARG,2017-03-11,23:00,CA San Martín,Huracán,0,1,A,0,1,A
+ARG,2017-03-12,20:00,Racing Club,CA Lanús,3,0,H,2,0,H
+ARG,2017-03-12,20:00,GyE La Plata,Quilmes AC,3,1,H,2,0,H
+ARG,2017-03-12,20:00,CA Temperley,Tigre,3,1,H,1,0,H
+ARG,2017-03-12,22:10,River Plate,Unión de Santa Fe,0,0,D,0,0,D
+ARG,2017-03-12,22:10,Rosario Central,CD Godoy Cruz,0,1,A,0,0,D
+ARG,2017-03-13,00:20,Atlético Tucumán,Sarmiento de Junín,2,1,H,1,0,H
+ARG,2017-03-13,22:00,Aldosivi,Atlético Rafaela,1,0,H,0,0,D
+ARG,2017-03-14,00:15,CA Colón,Olimpo,1,1,D,0,1,A
+ARG,2017-03-18,00:00,Quilmes AC,Rosario Central,0,1,A,0,0,D
+ARG,2017-03-18,19:00,Unión de Santa Fe,CA Colón,0,2,A,0,0,D
+ARG,2017-03-18,20:00,Newell's Old Boys,Vélez Sársfield,3,0,H,2,0,H
+ARG,2017-03-18,21:15,Tigre,GyE La Plata,0,1,A,0,0,D
+ARG,2017-03-18,22:30,Independiente,CA San Martín,0,0,D,0,0,D
+ARG,2017-03-18,23:30,Huracán,Defensa y Justicia,2,0,H,2,0,H
+ARG,2017-03-19,18:00,Belgrano Córdoba,Racing Club,2,0,H,0,0,D
+ARG,2017-03-19,20:10,Sarmiento de Junín,CA Temperley,2,1,H,0,1,A
+ARG,2017-03-19,20:15,CD Godoy Cruz,San Lorenzo,2,0,H,1,0,H
+ARG,2017-03-19,20:15,Estudiantes,Patronato,1,0,H,1,0,H
+ARG,2017-03-19,22:20,Olimpo,CA Banfield,1,0,H,0,0,D
+ARG,2017-03-19,22:30,Boca Juniors,Talleres Córdoba,1,2,A,1,1,D
+ARG,2017-03-20,22:00,Arsenal Sarandí,Atlético Rafaela,1,2,A,0,1,A
+ARG,2017-03-21,00:15,Atlético Tucumán,Aldosivi,0,0,D,0,0,D
+ARG,2017-03-22,00:15,CA Lanús,River Plate,1,3,A,1,0,H
+ARG,2017-03-25,00:00,Patronato,Newell's Old Boys,1,1,D,1,0,H
+ARG,2017-03-25,19:00,CA Banfield,Unión de Santa Fe,3,1,H,2,1,H
+ARG,2017-03-25,19:00,Rosario Central,Tigre,1,0,H,0,0,D
+ARG,2017-03-25,21:00,San Lorenzo,Quilmes AC,3,0,H,0,0,D
+ARG,2017-03-25,21:15,GyE La Plata,Sarmiento de Junín,1,0,H,1,0,H
+ARG,2017-03-25,23:00,Racing Club,CD Godoy Cruz,2,1,H,0,0,D
+ARG,2017-03-25,23:30,Atlético Rafaela,Estudiantes,2,2,D,0,1,A
+ARG,2017-03-26,20:00,CA Colón,CA Lanús,1,0,H,1,0,H
+ARG,2017-03-26,20:30,CA San Martín,Boca Juniors,1,2,A,0,1,A
+ARG,2017-03-26,22:30,River Plate,Belgrano Córdoba,2,1,H,0,0,D
+ARG,2017-03-26,22:30,CA Temperley,Atlético Tucumán,2,2,D,1,0,H
+ARG,2017-03-27,00:40,Aldosivi,Arsenal Sarandí,2,1,H,1,0,H
+ARG,2017-03-27,23:00,Vélez Sársfield,Huracán,1,1,D,1,0,H
+ARG,2017-03-28,01:15,Talleres Córdoba,Olimpo,1,0,H,0,0,D
+ARG,2017-04-01,01:00,Atlético Tucumán,GyE La Plata,0,1,A,0,1,A
+ARG,2017-04-01,01:15,Independiente,Vélez Sársfield,1,1,D,1,0,H
+ARG,2017-04-01,20:00,Newell's Old Boys,Atlético Rafaela,1,0,H,0,0,D
+ARG,2017-04-01,21:00,CA Temperley,Aldosivi,1,0,H,1,0,H
+ARG,2017-04-01,22:00,Quilmes AC,Racing Club,2,3,A,2,0,H
+ARG,2017-04-01,23:15,Belgrano Córdoba,CA Colón,0,1,A,0,0,D
+ARG,2017-04-02,00:00,Boca Juniors,Defensa y Justicia,1,0,H,0,0,D
+ARG,2017-04-02,19:00,Estudiantes,Arsenal Sarandí,2,0,H,1,0,H
+ARG,2017-04-02,20:15,CA Lanús,CA Banfield,4,2,H,1,1,D
+ARG,2017-04-02,21:15,Sarmiento de Junín,Rosario Central,2,2,D,1,1,D
+ARG,2017-04-02,22:15,Tigre,San Lorenzo,4,3,H,0,0,D
+ARG,2017-04-02,23:30,Huracán,Patronato,0,0,D,0,0,D
+ARG,2017-04-03,00:15,CD Godoy Cruz,River Plate,1,2,A,1,1,D
+ARG,2017-04-03,23:00,Olimpo,CA San Martín,0,0,D,0,0,D
+ARG,2017-04-04,01:15,Unión de Santa Fe,Talleres Córdoba,4,2,H,2,1,H
+ARG,2017-04-07,23:00,Aldosivi,Estudiantes,1,4,A,1,2,A
+ARG,2017-04-08,01:15,CA Colón,CD Godoy Cruz,1,0,H,0,0,D
+ARG,2017-04-08,01:15,Rosario Central,Atlético Tucumán,2,1,H,1,0,H
+ARG,2017-04-08,18:00,Arsenal Sarandí,Newell's Old Boys,0,1,A,0,1,A
+ARG,2017-04-08,20:00,San Lorenzo,Sarmiento de Junín,1,0,H,1,0,H
+ARG,2017-04-08,21:15,Atlético Rafaela,Huracán,1,1,D,0,0,D
+ARG,2017-04-08,23:30,Talleres Córdoba,CA Lanús,3,1,H,0,0,D
+ARG,2017-04-09,18:00,CA Banfield,Belgrano Córdoba,2,0,H,2,0,H
+ARG,2017-04-09,20:15,Patronato,Independiente,0,5,A,0,2,A
+ARG,2017-04-09,21:00,CA San Martín,Unión de Santa Fe,0,0,D,0,0,D
+ARG,2017-04-09,22:15,River Plate,Quilmes AC,2,0,H,0,0,D
+ARG,2017-04-10,00:15,Vélez Sársfield,Boca Juniors,1,3,A,0,1,A
+ARG,2017-04-10,23:00,Defensa y Justicia,Olimpo,1,1,D,0,1,A
+ARG,2017-04-11,01:15,GyE La Plata,CA Temperley,1,1,D,1,0,H
+ARG,2017-04-14,23:00,Huracán,Arsenal Sarandí,1,2,A,0,1,A
+ARG,2017-04-15,01:15,CA Lanús,CA San Martín,0,0,D,0,0,D
+ARG,2017-04-15,15:00,Newell's Old Boys,Estudiantes,0,0,D,0,0,D
+ARG,2017-04-15,20:00,Belgrano Córdoba,Talleres Córdoba,1,1,D,0,0,D
+ARG,2017-04-15,22:00,Independiente,Atlético Rafaela,1,1,D,0,0,D
+ARG,2017-04-15,23:00,Olimpo,Vélez Sársfield,0,1,A,0,1,A
+ARG,2017-04-16,00:00,Sarmiento de Junín,Racing Club,1,2,A,0,0,D
+ARG,2017-04-16,20:00,CD Godoy Cruz,CA Banfield,3,1,H,1,1,D
+ARG,2017-04-16,20:15,Atlético Tucumán,San Lorenzo,1,0,H,0,0,D
+ARG,2017-04-16,22:15,Boca Juniors,Patronato,1,1,D,1,0,H
+ARG,2017-04-16,22:20,Quilmes AC,CA Colón,0,1,A,0,1,A
+ARG,2017-04-17,00:15,Tigre,River Plate,0,2,A,0,0,D
+ARG,2017-04-17,00:30,Unión de Santa Fe,Defensa y Justicia,0,2,A,0,1,A
+ARG,2017-04-17,23:00,CA Temperley,Rosario Central,1,2,A,0,1,A
+ARG,2017-04-18,01:15,GyE La Plata,Aldosivi,1,0,H,1,0,H
+ARG,2017-04-19,23:30,Racing Club,Tigre,4,1,H,2,1,H
+ARG,2017-04-20,01:15,Talleres Córdoba,Independiente,0,2,A,0,1,A
+ARG,2017-04-22,01:15,San Lorenzo,CA Temperley,0,1,A,0,1,A
+ARG,2017-04-22,18:00,Aldosivi,Newell's Old Boys,0,3,A,0,0,D
+ARG,2017-04-22,20:00,Racing Club,Atlético Tucumán,4,3,H,2,1,H
+ARG,2017-04-22,20:10,Defensa y Justicia,CA Lanús,1,0,H,0,0,D
+ARG,2017-04-22,20:10,CA Banfield,Quilmes AC,2,0,H,1,0,H
+ARG,2017-04-22,22:20,Vélez Sársfield,Unión de Santa Fe,2,1,H,1,1,D
+ARG,2017-04-23,00:30,Rosario Central,GyE La Plata,2,1,H,0,1,A
+ARG,2017-04-23,19:15,Estudiantes,Huracán,1,1,D,0,0,D
+ARG,2017-04-23,20:15,Atlético Rafaela,Boca Juniors,0,0,D,0,0,D
+ARG,2017-04-23,21:00,CA San Martín,Belgrano Córdoba,2,1,H,0,0,D
+ARG,2017-04-23,22:15,River Plate,Sarmiento de Junín,1,1,D,0,0,D
+ARG,2017-04-23,23:30,Talleres Córdoba,CD Godoy Cruz,1,0,H,0,0,D
+ARG,2017-04-24,00:15,Arsenal Sarandí,Independiente,0,2,A,0,2,A
+ARG,2017-04-24,23:00,Patronato,Olimpo,3,4,A,1,1,D
+ARG,2017-04-25,01:15,CA Colón,Tigre,2,1,H,1,0,H
+ARG,2017-04-28,23:00,Quilmes AC,Talleres Córdoba,1,0,H,0,0,D
+ARG,2017-04-29,01:15,Independiente,Estudiantes,2,2,D,1,1,D
+ARG,2017-04-29,20:00,GyE La Plata,San Lorenzo,0,1,A,0,0,D
+ARG,2017-04-29,20:00,Huracán,Newell's Old Boys,0,1,A,0,0,D
+ARG,2017-04-29,20:10,Sarmiento de Junín,CA Colón,0,4,A,0,2,A
+ARG,2017-04-29,22:20,Tigre,CA Banfield,0,1,A,0,1,A
+ARG,2017-04-30,00:00,CA Temperley,Racing Club,3,0,H,2,0,H
+ARG,2017-04-30,00:30,Unión de Santa Fe,Patronato,0,0,D,0,0,D
+ARG,2017-04-30,20:00,CD Godoy Cruz,CA San Martín,0,0,D,0,0,D
+ARG,2017-04-30,21:00,Rosario Central,Aldosivi,2,0,H,0,0,D
+ARG,2017-04-30,23:10,Boca Juniors,Arsenal Sarandí,3,0,H,2,0,H
+ARG,2017-04-30,23:30,Olimpo,Atlético Rafaela,1,2,A,1,1,D
+ARG,2017-05-02,20:30,Belgrano Córdoba,Defensa y Justicia,0,1,A,0,0,D
+ARG,2017-05-03,01:00,CA Lanús,Vélez Sársfield,2,0,H,1,0,H
+ARG,2017-05-06,01:00,CA San Martín,Quilmes AC,1,0,H,0,0,D
+ARG,2017-05-06,01:15,Talleres Córdoba,Tigre,1,2,A,1,2,A
+ARG,2017-05-06,20:00,Patronato,CA Lanús,0,2,A,0,0,D
+ARG,2017-05-06,21:00,Racing Club,GyE La Plata,1,0,H,1,0,H
+ARG,2017-05-06,23:00,Atlético Rafaela,Unión de Santa Fe,3,0,H,0,0,D
+ARG,2017-05-07,00:15,Estudiantes,Boca Juniors,0,0,D,0,0,D
+ARG,2017-05-07,00:15,River Plate,CA Temperley,4,1,H,1,1,D
+ARG,2017-05-07,19:15,Aldosivi,Huracán,0,3,A,0,1,A
+ARG,2017-05-07,22:00,Defensa y Justicia,CD Godoy Cruz,0,0,D,0,0,D
+ARG,2017-05-07,22:15,San Lorenzo,Rosario Central,2,1,H,1,0,H
+ARG,2017-05-08,00:15,Newell's Old Boys,Independiente,2,4,A,1,1,D
+ARG,2017-05-08,00:15,CA Colón,Atlético Tucumán,2,2,D,1,1,D
+ARG,2017-05-09,00:10,CA Banfield,Sarmiento de Junín,2,0,H,1,0,H
+ARG,2017-05-09,01:15,Vélez Sársfield,Belgrano Córdoba,1,2,A,0,0,D
+ARG,2017-05-13,01:15,CA San Martín,CD Godoy Cruz,1,2,A,0,1,A
+ARG,2017-05-13,18:00,Estudiantes,GyE La Plata,1,0,H,1,0,H
+ARG,2017-05-13,18:00,Talleres Córdoba,Belgrano Córdoba,1,1,D,1,1,D
+ARG,2017-05-13,20:00,CA Banfield,CA Lanús,1,0,H,1,0,H
+ARG,2017-05-13,21:15,Atlético Rafaela,Atlético Tucumán,1,0,H,0,0,D
+ARG,2017-05-13,22:00,Huracán,San Lorenzo,0,1,A,0,0,D
+ARG,2017-05-13,23:30,Olimpo,Aldosivi,2,0,H,1,0,H
+ARG,2017-05-14,18:00,CA Colón,Unión de Santa Fe,1,1,D,0,1,A
+ARG,2017-05-14,19:00,Newell's Old Boys,Rosario Central,1,3,A,0,2,A
+ARG,2017-05-14,21:00,Boca Juniors,River Plate,1,3,A,1,2,A
+ARG,2017-05-14,23:00,Independiente,Racing Club,2,0,H,0,0,D
+ARG,2017-05-14,23:15,Patronato,Sarmiento de Junín,2,2,D,0,0,D
+ARG,2017-05-15,23:00,Arsenal Sarandí,CA Temperley,2,0,H,0,0,D
+ARG,2017-05-15,23:00,Defensa y Justicia,Quilmes AC,2,0,H,0,0,D
+ARG,2017-05-16,01:15,Vélez Sársfield,Tigre,2,1,H,1,1,D
+ARG,2017-05-20,01:15,Atlético Tucumán,CA Banfield,3,0,H,1,0,H
+ARG,2017-05-20,18:00,Belgrano Córdoba,Patronato,1,1,D,0,1,A
+ARG,2017-05-20,20:15,CA Lanús,Atlético Rafaela,2,0,H,0,0,D
+ARG,2017-05-20,21:15,Sarmiento de Junín,Talleres Córdoba,1,4,A,0,2,A
+ARG,2017-05-20,22:00,Boca Juniors,Newell's Old Boys,1,0,H,1,0,H
+ARG,2017-05-20,23:30,Tigre,CA San Martín,1,1,D,1,0,H
+ARG,2017-05-21,00:00,Unión de Santa Fe,Arsenal Sarandí,0,1,A,0,0,D
+ARG,2017-05-21,00:15,Independiente,Huracán,2,1,H,0,1,A
+ARG,2017-05-21,19:00,CD Godoy Cruz,Vélez Sársfield,3,0,H,2,0,H
+ARG,2017-05-21,20:15,San Lorenzo,Aldosivi,0,1,A,0,0,D
+ARG,2017-05-21,21:00,CA Temperley,CA Colón,3,0,H,1,0,H
+ARG,2017-05-21,23:15,Quilmes AC,Defensa y Justicia,0,2,A,0,1,A
+ARG,2017-05-22,00:15,Rosario Central,Racing Club,4,1,H,1,0,H
+ARG,2017-05-22,23:00,Olimpo,Estudiantes,3,1,H,2,1,H
+ARG,2017-05-23,01:15,GyE La Plata,River Plate,0,3,A,0,1,A
+ARG,2017-05-26,23:00,Aldosivi,Independiente,0,0,D,0,0,D
+ARG,2017-05-27,18:00,CA Colón,GyE La Plata,1,2,A,1,0,H
+ARG,2017-05-27,20:15,CA Banfield,CA Temperley,3,1,H,2,0,H
+ARG,2017-05-27,21:15,Newell's Old Boys,Olimpo,3,2,H,1,0,H
+ARG,2017-05-27,23:30,Huracán,Boca Juniors,1,1,D,0,0,D
+ARG,2017-05-27,23:30,CA San Martín,Sarmiento de Junín,4,2,H,1,1,D
+ARG,2017-05-28,01:15,Racing Club,San Lorenzo,2,1,H,0,0,D
+ARG,2017-05-28,18:00,Defensa y Justicia,Tigre,1,0,H,0,0,D
+ARG,2017-05-28,20:15,Arsenal Sarandí,CA Lanús,0,2,A,0,0,D
+ARG,2017-05-28,21:00,Talleres Córdoba,Atlético Tucumán,2,1,H,1,0,H
+ARG,2017-05-28,22:15,River Plate,Rosario Central,0,0,D,0,0,D
+ARG,2017-05-28,22:30,Atlético Rafaela,Belgrano Córdoba,1,2,A,1,2,A
+ARG,2017-05-29,00:45,Patronato,CD Godoy Cruz,0,3,A,0,2,A
+ARG,2017-05-29,23:00,Estudiantes,Unión de Santa Fe,2,0,H,2,0,H
+ARG,2017-05-30,01:15,Vélez Sársfield,Quilmes AC,0,0,D,0,0,D
+ARG,2017-06-01,00:15,Atlético Tucumán,River Plate,0,3,A,0,1,A
+ARG,2017-06-01,19:00,Arsenal Sarandí,Olimpo,1,0,H,0,0,D
+ARG,2017-06-02,23:00,Sarmiento de Junín,Defensa y Justicia,1,0,H,0,0,D
+ARG,2017-06-03,01:15,CD Godoy Cruz,Atlético Rafaela,0,2,A,0,0,D
+ARG,2017-06-03,18:00,Tigre,Vélez Sársfield,0,3,A,0,1,A
+ARG,2017-06-03,20:15,CA Temperley,Talleres Córdoba,2,1,H,1,0,H
+ARG,2017-06-03,21:15,Rosario Central,CA Colón,0,0,D,0,0,D
+ARG,2017-06-03,23:30,Unión de Santa Fe,Newell's Old Boys,2,1,H,1,0,H
+ARG,2017-06-04,00:00,CA Lanús,Estudiantes,1,0,H,1,0,H
+ARG,2017-06-04,18:00,San Lorenzo,River Plate,2,1,H,1,1,D
+ARG,2017-06-04,20:00,GyE La Plata,CA Banfield,1,2,A,0,1,A
+ARG,2017-06-04,20:15,Belgrano Córdoba,Arsenal Sarandí,1,2,A,0,0,D
+ARG,2017-06-04,21:00,Olimpo,Huracán,3,1,H,3,1,H
+ARG,2017-06-04,22:30,Atlético Tucumán,CA San Martín,1,2,A,0,1,A
+ARG,2017-06-04,23:00,Boca Juniors,Independiente,3,0,H,2,0,H
+ARG,2017-06-05,23:00,Quilmes AC,Patronato,0,1,A,0,1,A
+ARG,2017-06-06,01:15,Racing Club,Aldosivi,1,1,D,1,1,D
+ARG,2017-06-15,23:45,Defensa y Justicia,Independiente,1,2,A,1,1,D
+ARG,2017-06-16,01:30,CA Colón,San Lorenzo,2,1,H,1,0,H
+ARG,2017-06-16,21:45,CA San Martín,CA Temperley,0,1,A,0,0,D
+ARG,2017-06-16,23:00,Huracán,Unión de Santa Fe,1,0,H,1,0,H
+ARG,2017-06-17,00:00,Talleres Córdoba,GyE La Plata,0,1,A,0,0,D
+ARG,2017-06-17,01:15,CA Banfield,Rosario Central,3,1,H,1,0,H
+ARG,2017-06-17,18:00,Arsenal Sarandí,CD Godoy Cruz,1,2,A,0,0,D
+ARG,2017-06-17,20:15,Estudiantes,Belgrano Córdoba,2,0,H,2,0,H
+ARG,2017-06-17,21:15,Atlético Rafaela,Quilmes AC,1,1,D,1,0,H
+ARG,2017-06-17,21:45,Aldosivi,Boca Juniors,0,4,A,0,2,A
+ARG,2017-06-17,23:30,Vélez Sársfield,Sarmiento de Junín,5,1,H,2,0,H
+ARG,2017-06-18,18:00,Newell's Old Boys,CA Lanús,1,1,D,1,0,H
+ARG,2017-06-18,18:45,Patronato,Tigre,0,2,A,0,1,A
+ARG,2017-06-18,20:15,Independiente,Olimpo,1,1,D,1,0,H
+ARG,2017-06-18,21:00,Defensa y Justicia,Atlético Tucumán,3,0,H,1,0,H
+ARG,2017-06-18,21:15,River Plate,Racing Club,2,3,A,0,1,A
+ARG,2017-06-20,22:00,San Lorenzo,CA Banfield,1,0,H,0,0,D
+ARG,2017-06-20,23:00,GyE La Plata,CA San Martín,2,0,H,2,0,H
+ARG,2017-06-21,01:15,Rosario Central,Talleres Córdoba,3,3,D,2,2,D
+ARG,2017-06-21,21:00,Quilmes AC,Arsenal Sarandí,2,2,D,2,2,D
+ARG,2017-06-21,22:30,CA Temperley,Defensa y Justicia,2,3,A,0,1,A
+ARG,2017-06-21,23:10,Racing Club,CA Colón,1,0,H,0,0,D
+ARG,2017-06-21,23:45,Olimpo,Boca Juniors,2,2,D,0,2,A
+ARG,2017-06-22,01:30,River Plate,Aldosivi,1,0,H,0,0,D
+ARG,2017-06-22,19:00,Belgrano Córdoba,Newell's Old Boys,2,1,H,1,0,H
+ARG,2017-06-22,21:10,Sarmiento de Junín,Patronato,1,3,A,1,1,D
+ARG,2017-06-22,21:10,CA Lanús,Huracán,2,0,H,0,0,D
+ARG,2017-06-22,23:20,Tigre,Atlético Rafaela,1,0,H,0,0,D
+ARG,2017-06-22,23:20,CD Godoy Cruz,Estudiantes,0,2,A,0,1,A
+ARG,2017-06-23,01:30,Atlético Tucumán,Vélez Sársfield,1,1,D,1,1,D
+ARG,2017-06-23,01:30,Unión de Santa Fe,Independiente,0,3,A,0,1,A
+ARG,2017-06-24,20:00,Defensa y Justicia,GyE La Plata,1,0,H,0,0,D
+ARG,2017-06-24,23:00,CA San Martín,Rosario Central,1,1,D,1,1,D
+ARG,2017-06-25,20:15,Boca Juniors,Unión de Santa Fe,2,1,H,1,0,H
+ARG,2017-06-25,21:00,Atlético Rafaela,Sarmiento de Junín,2,3,A,1,2,A
+ARG,2017-06-25,23:10,CA Banfield,Racing Club,1,3,A,0,0,D
+ARG,2017-06-26,00:00,CA Colón,River Plate,0,0,D,0,0,D
+ARG,2017-06-26,22:00,Arsenal Sarandí,Tigre,2,1,H,1,1,D
+ARG,2017-06-26,22:00,Patronato,Atlético Tucumán,1,1,D,0,1,A
+ARG,2017-06-27,00:15,Aldosivi,Olimpo,0,3,A,0,2,A
+ARG,2017-06-27,00:15,Huracán,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2017-06-27,00:15,Vélez Sársfield,CA Temperley,0,0,D,0,0,D
+ARG,2017-06-27,22:00,Newell's Old Boys,CD Godoy Cruz,0,2,A,0,0,D
+ARG,2017-06-27,22:00,Estudiantes,Quilmes AC,1,0,H,0,0,D
+ARG,2017-06-28,00:15,Talleres Córdoba,San Lorenzo,1,1,D,0,0,D
+ARG,2017-06-28,00:30,Independiente,CA Lanús,1,1,D,1,0,H

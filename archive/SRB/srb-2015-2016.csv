@@ -1,0 +1,297 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SRB,2015-07-17,19:00,Borac Čačak,Radnički Niš,2,1,H,0,1,A
+SRB,2015-07-17,19:00,Partizan,FK Metalac,4,0,H,3,0,H
+SRB,2015-07-18,16:00,FK Rad Beograd,FK Voždovac,0,2,A,0,1,A
+SRB,2015-07-18,16:00,Spartak Subotica,Radnik Surdulica,0,0,D,0,0,D
+SRB,2015-07-18,18:00,FK Jagodina,Mladost Lučani,0,3,A,0,2,A
+SRB,2015-07-18,18:00,FK Novi Pazar,FK Javor,0,1,A,0,0,D
+SRB,2015-07-19,16:00,OFK Beograd,Crvena Zvezda,2,6,A,2,0,H
+SRB,2015-07-19,18:00,Vojvodina,FK Čukarički-Stankom,0,4,A,0,1,A
+SRB,2015-07-24,19:00,Radnički Niš,OFK Beograd,1,0,H,0,0,D
+SRB,2015-07-25,17:00,FK Javor,Spartak Subotica,2,0,H,2,0,H
+SRB,2015-07-25,17:00,Mladost Lučani,FK Novi Pazar,1,1,D,1,1,D
+SRB,2015-07-25,18:00,Partizan,FK Jagodina,6,0,H,3,0,H
+SRB,2015-07-25,19:00,FK Voždovac,Borac Čačak,0,2,A,0,1,A
+SRB,2015-07-26,17:00,Radnik Surdulica,Vojvodina,2,2,D,2,1,H
+SRB,2015-07-26,18:00,FK Metalac,Crvena Zvezda,0,0,D,0,0,D
+SRB,2015-07-26,19:00,FK Čukarički-Stankom,FK Rad Beograd,1,1,D,1,1,D
+SRB,2015-07-31,19:00,Crvena Zvezda,Radnički Niš,1,1,D,0,1,A
+SRB,2015-08-01,16:00,FK Novi Pazar,Partizan,3,2,H,2,2,D
+SRB,2015-08-01,17:00,OFK Beograd,FK Voždovac,2,1,H,0,1,A
+SRB,2015-08-01,17:00,FK Rad Beograd,Radnik Surdulica,4,1,H,2,1,H
+SRB,2015-08-01,17:00,Spartak Subotica,Mladost Lučani,2,0,H,1,0,H
+SRB,2015-08-01,19:00,Borac Čačak,FK Čukarički-Stankom,1,0,H,1,0,H
+SRB,2015-08-02,18:00,FK Jagodina,FK Metalac,0,1,A,0,1,A
+SRB,2015-08-02,19:00,Vojvodina,FK Javor,2,0,H,1,0,H
+SRB,2015-08-07,19:00,FK Jagodina,FK Novi Pazar,1,2,A,0,0,D
+SRB,2015-08-08,16:00,FK Javor,FK Rad Beograd,3,0,H,1,0,H
+SRB,2015-08-08,16:00,Radnik Surdulica,Borac Čačak,1,0,H,0,0,D
+SRB,2015-08-08,18:00,FK Čukarički-Stankom,OFK Beograd,1,0,H,1,0,H
+SRB,2015-08-08,18:00,FK Metalac,Radnički Niš,0,2,A,0,0,D
+SRB,2015-08-08,18:00,Partizan,Spartak Subotica,2,1,H,1,0,H
+SRB,2015-08-09,16:00,FK Voždovac,Crvena Zvezda,2,3,A,2,1,H
+SRB,2015-08-09,16:00,Mladost Lučani,Vojvodina,1,2,A,0,0,D
+SRB,2015-08-12,16:00,OFK Beograd,Radnik Surdulica,3,0,H,1,0,H
+SRB,2015-08-12,16:00,FK Rad Beograd,Mladost Lučani,4,2,H,0,2,A
+SRB,2015-08-12,16:00,Spartak Subotica,FK Jagodina,0,0,D,0,0,D
+SRB,2015-08-12,18:00,Crvena Zvezda,FK Čukarički-Stankom,3,1,H,0,1,A
+SRB,2015-08-12,19:00,Borac Čačak,FK Javor,0,1,A,0,0,D
+SRB,2015-08-12,19:00,FK Novi Pazar,FK Metalac,2,2,D,1,1,D
+SRB,2015-08-12,19:00,Radnički Niš,FK Voždovac,0,0,D,0,0,D
+SRB,2015-08-13,19:00,Vojvodina,Partizan,3,2,H,2,1,H
+SRB,2015-08-15,19:00,FK Metalac,FK Voždovac,1,1,D,0,1,A
+SRB,2015-08-16,16:00,FK Javor,OFK Beograd,2,1,H,2,0,H
+SRB,2015-08-16,16:00,Mladost Lučani,Borac Čačak,1,1,D,0,1,A
+SRB,2015-08-16,16:00,Radnik Surdulica,Crvena Zvezda,0,2,A,0,0,D
+SRB,2015-08-16,18:00,FK Čukarički-Stankom,Radnički Niš,0,1,A,0,1,A
+SRB,2015-08-16,18:00,FK Novi Pazar,Spartak Subotica,0,0,D,0,0,D
+SRB,2015-08-21,19:00,Radnički Niš,Radnik Surdulica,1,1,D,1,1,D
+SRB,2015-08-22,16:00,OFK Beograd,Mladost Lučani,0,1,A,0,1,A
+SRB,2015-08-22,16:00,FK Rad Beograd,FK Jagodina,0,0,D,0,0,D
+SRB,2015-08-22,16:00,Spartak Subotica,FK Metalac,0,3,A,0,2,A
+SRB,2015-08-22,18:00,Borac Čačak,Partizan,1,3,A,0,1,A
+SRB,2015-08-23,18:00,Crvena Zvezda,FK Javor,1,0,H,1,0,H
+SRB,2015-08-23,18:00,FK Voždovac,FK Čukarički-Stankom,0,0,D,0,0,D
+SRB,2015-08-23,18:00,Vojvodina,FK Novi Pazar,4,1,H,1,0,H
+SRB,2015-08-28,19:00,FK Jagodina,Borac Čačak,0,0,D,0,0,D
+SRB,2015-08-29,16:00,Radnik Surdulica,FK Voždovac,1,3,A,1,1,D
+SRB,2015-08-29,18:00,FK Novi Pazar,FK Rad Beograd,1,0,H,1,0,H
+SRB,2015-08-29,18:00,Partizan,OFK Beograd,2,1,H,2,0,H
+SRB,2015-08-29,19:00,FK Javor,Radnički Niš,0,0,D,0,0,D
+SRB,2015-08-30,16:00,Spartak Subotica,Vojvodina,2,1,H,1,0,H
+SRB,2015-08-30,18:00,FK Metalac,FK Čukarički-Stankom,1,2,A,0,0,D
+SRB,2015-08-30,18:00,Mladost Lučani,Crvena Zvezda,0,3,A,0,0,D
+SRB,2015-09-11,19:00,FK Čukarički-Stankom,Radnik Surdulica,2,0,H,2,0,H
+SRB,2015-09-12,17:00,Crvena Zvezda,Partizan,3,1,H,1,1,D
+SRB,2015-09-13,16:00,Borac Čačak,FK Novi Pazar,3,0,H,1,0,H
+SRB,2015-09-13,16:00,OFK Beograd,FK Jagodina,0,2,A,0,1,A
+SRB,2015-09-13,16:00,FK Rad Beograd,Spartak Subotica,3,3,D,1,2,A
+SRB,2015-09-13,18:00,FK Voždovac,FK Javor,0,2,A,0,0,D
+SRB,2015-09-13,18:00,Radnički Niš,Mladost Lučani,1,1,D,0,0,D
+SRB,2015-09-13,18:00,Vojvodina,FK Metalac,3,2,H,3,0,H
+SRB,2015-09-18,17:00,FK Jagodina,Crvena Zvezda,0,3,A,0,2,A
+SRB,2015-09-19,15:00,Spartak Subotica,Borac Čačak,0,0,D,0,0,D
+SRB,2015-09-19,17:00,Vojvodina,FK Rad Beograd,1,2,A,1,1,D
+SRB,2015-09-19,18:00,FK Javor,FK Čukarički-Stankom,0,0,D,0,0,D
+SRB,2015-09-19,18:00,FK Metalac,Radnik Surdulica,2,2,D,2,1,H
+SRB,2015-09-19,18:00,Mladost Lučani,FK Voždovac,0,0,D,0,0,D
+SRB,2015-09-19,18:00,FK Novi Pazar,OFK Beograd,1,0,H,1,0,H
+SRB,2015-09-20,19:00,Partizan,Radnički Niš,0,0,D,0,0,D
+SRB,2015-09-23,17:30,Partizan,FK Rad Beograd,1,1,D,1,1,D
+SRB,2015-09-23,18:00,FK Jagodina,Vojvodina,1,1,D,1,1,D
+SRB,2015-09-25,19:00,FK Čukarički-Stankom,Mladost Lučani,0,1,A,0,1,A
+SRB,2015-09-26,14:00,OFK Beograd,Spartak Subotica,2,0,H,1,0,H
+SRB,2015-09-26,17:00,Crvena Zvezda,FK Novi Pazar,2,0,H,1,0,H
+SRB,2015-09-26,18:00,Radnik Surdulica,FK Javor,1,1,D,1,0,H
+SRB,2015-09-27,14:00,Borac Čačak,Vojvodina,4,2,H,2,1,H
+SRB,2015-09-27,14:00,FK Rad Beograd,FK Metalac,0,1,A,0,1,A
+SRB,2015-09-27,14:00,Radnički Niš,FK Jagodina,0,0,D,0,0,D
+SRB,2015-09-27,15:00,FK Voždovac,Partizan,1,2,A,1,0,H
+SRB,2015-10-02,18:00,FK Metalac,FK Javor,0,0,D,0,0,D
+SRB,2015-10-03,14:00,FK Novi Pazar,Radnički Niš,1,0,H,0,0,D
+SRB,2015-10-03,14:00,FK Rad Beograd,Borac Čačak,2,3,A,2,1,H
+SRB,2015-10-03,14:00,Spartak Subotica,Crvena Zvezda,2,3,A,1,2,A
+SRB,2015-10-03,14:00,Vojvodina,OFK Beograd,1,0,H,0,0,D
+SRB,2015-10-03,18:00,FK Jagodina,FK Voždovac,0,0,D,0,0,D
+SRB,2015-10-03,18:00,Mladost Lučani,Radnik Surdulica,0,0,D,0,0,D
+SRB,2015-10-05,18:00,Partizan,FK Čukarički-Stankom,0,1,A,0,1,A
+SRB,2015-10-14,14:00,Borac Čačak,FK Metalac,2,1,H,1,0,H
+SRB,2015-10-14,14:00,FK Voždovac,FK Novi Pazar,1,0,H,1,0,H
+SRB,2015-10-14,14:00,OFK Beograd,FK Rad Beograd,2,0,H,1,0,H
+SRB,2015-10-14,14:00,Radnički Niš,Spartak Subotica,1,0,H,0,0,D
+SRB,2015-10-14,16:00,Radnik Surdulica,Partizan,2,2,D,0,2,A
+SRB,2015-10-14,18:00,FK Javor,Mladost Lučani,0,0,D,0,0,D
+SRB,2015-10-15,18:00,FK Čukarički-Stankom,FK Jagodina,2,0,H,0,0,D
+SRB,2015-10-17,12:00,FK Rad Beograd,Crvena Zvezda,0,3,A,0,1,A
+SRB,2015-10-17,14:00,Vojvodina,Radnički Niš,0,2,A,0,0,D
+SRB,2015-10-18,14:00,Borac Čačak,OFK Beograd,1,0,H,0,0,D
+SRB,2015-10-18,14:00,FK Metalac,Mladost Lučani,0,0,D,0,0,D
+SRB,2015-10-18,14:00,FK Novi Pazar,FK Čukarički-Stankom,0,0,D,0,0,D
+SRB,2015-10-18,14:00,Spartak Subotica,FK Voždovac,0,2,A,0,1,A
+SRB,2015-10-18,18:00,FK Jagodina,Radnik Surdulica,1,1,D,0,1,A
+SRB,2015-10-18,18:00,Partizan,FK Javor,3,2,H,2,1,H
+SRB,2015-10-21,16:30,Crvena Zvezda,Vojvodina,3,0,H,1,0,H
+SRB,2015-10-23,17:00,FK Čukarički-Stankom,Spartak Subotica,3,0,H,2,0,H
+SRB,2015-10-24,14:00,OFK Beograd,FK Metalac,1,0,H,1,0,H
+SRB,2015-10-24,14:00,Radnički Niš,FK Rad Beograd,1,0,H,0,0,D
+SRB,2015-10-24,16:00,Crvena Zvezda,Borac Čačak,4,2,H,2,2,D
+SRB,2015-10-24,17:00,FK Javor,FK Jagodina,1,1,D,0,1,A
+SRB,2015-10-24,17:00,Radnik Surdulica,FK Novi Pazar,2,0,H,2,0,H
+SRB,2015-10-25,14:00,FK Voždovac,Vojvodina,0,0,D,0,0,D
+SRB,2015-10-25,16:00,Mladost Lučani,Partizan,2,2,D,1,0,H
+SRB,2015-10-31,13:00,FK Voždovac,FK Rad Beograd,1,0,H,1,0,H
+SRB,2015-10-31,14:00,FK Javor,FK Novi Pazar,1,1,D,0,0,D
+SRB,2015-10-31,16:00,Crvena Zvezda,OFK Beograd,4,1,H,1,0,H
+SRB,2015-11-01,13:00,Mladost Lučani,FK Jagodina,2,0,H,1,0,H
+SRB,2015-11-01,13:00,Radnički Niš,Borac Čačak,0,1,A,0,0,D
+SRB,2015-11-01,13:00,Radnik Surdulica,Spartak Subotica,1,0,H,0,0,D
+SRB,2015-11-01,15:00,FK Metalac,Partizan,1,0,H,1,0,H
+SRB,2015-11-01,16:00,FK Čukarički-Stankom,Vojvodina,1,1,D,1,0,H
+SRB,2015-11-06,17:00,Vojvodina,Radnik Surdulica,2,3,A,1,1,D
+SRB,2015-11-07,12:00,Borac Čačak,FK Voždovac,1,1,D,0,0,D
+SRB,2015-11-07,12:00,FK Novi Pazar,Mladost Lučani,1,3,A,1,0,H
+SRB,2015-11-07,12:00,OFK Beograd,Radnički Niš,0,2,A,0,0,D
+SRB,2015-11-07,12:00,Spartak Subotica,FK Javor,0,0,D,0,0,D
+SRB,2015-11-07,17:00,Crvena Zvezda,FK Metalac,2,0,H,1,0,H
+SRB,2015-11-08,12:00,FK Rad Beograd,FK Čukarički-Stankom,0,1,A,0,1,A
+SRB,2015-11-08,16:00,FK Jagodina,Partizan,2,2,D,2,0,H
+SRB,2015-11-20,16:00,FK Čukarički-Stankom,Borac Čačak,1,0,H,0,0,D
+SRB,2015-11-20,16:00,FK Metalac,FK Jagodina,1,4,A,0,2,A
+SRB,2015-11-20,16:00,Mladost Lučani,Spartak Subotica,0,0,D,0,0,D
+SRB,2015-11-21,12:00,FK Voždovac,OFK Beograd,2,3,A,1,2,A
+SRB,2015-11-21,12:00,FK Javor,Vojvodina,0,1,A,0,1,A
+SRB,2015-11-21,12:00,Radnik Surdulica,FK Rad Beograd,1,1,D,1,0,H
+SRB,2015-11-21,14:00,Partizan,FK Novi Pazar,3,0,H,1,0,H
+SRB,2015-11-22,16:00,Radnički Niš,Crvena Zvezda,1,2,A,0,0,D
+SRB,2015-11-27,17:00,Radnički Niš,FK Metalac,2,1,H,1,0,H
+SRB,2015-11-28,12:00,Borac Čačak,Radnik Surdulica,4,2,H,1,1,D
+SRB,2015-11-28,12:00,Crvena Zvezda,FK Voždovac,2,0,H,0,0,D
+SRB,2015-11-28,12:00,OFK Beograd,FK Čukarički-Stankom,0,3,A,0,2,A
+SRB,2015-11-28,12:00,FK Rad Beograd,FK Javor,1,1,D,1,1,D
+SRB,2015-11-28,14:00,Vojvodina,Mladost Lučani,3,0,H,1,0,H
+SRB,2015-11-29,12:00,Spartak Subotica,Partizan,0,1,A,0,0,D
+SRB,2015-12-04,17:00,FK Metalac,FK Novi Pazar,3,2,H,1,0,H
+SRB,2015-12-05,12:00,FK Voždovac,Radnički Niš,3,1,H,1,1,D
+SRB,2015-12-05,12:00,Mladost Lučani,FK Rad Beograd,1,0,H,0,0,D
+SRB,2015-12-05,13:00,Partizan,Vojvodina,0,2,A,0,0,D
+SRB,2015-12-06,12:00,FK Jagodina,Spartak Subotica,1,1,D,0,1,A
+SRB,2015-12-06,12:00,FK Javor,Borac Čačak,0,1,A,0,0,D
+SRB,2015-12-06,12:00,Radnik Surdulica,OFK Beograd,2,1,H,0,0,D
+SRB,2015-12-06,15:00,FK Čukarički-Stankom,Crvena Zvezda,2,7,A,2,3,A
+SRB,2015-12-09,12:00,FK Novi Pazar,FK Jagodina,1,0,H,0,0,D
+SRB,2015-12-11,17:00,Radnički Niš,FK Čukarički-Stankom,0,0,D,0,0,D
+SRB,2015-12-12,12:00,Borac Čačak,Mladost Lučani,1,2,A,0,2,A
+SRB,2015-12-12,12:00,FK Voždovac,FK Metalac,1,0,H,1,0,H
+SRB,2015-12-12,12:00,OFK Beograd,FK Javor,0,1,A,0,0,D
+SRB,2015-12-12,12:00,Spartak Subotica,FK Novi Pazar,2,0,H,1,0,H
+SRB,2015-12-12,14:00,Vojvodina,FK Jagodina,3,1,H,2,1,H
+SRB,2015-12-12,17:00,Crvena Zvezda,Radnik Surdulica,5,0,H,2,0,H
+SRB,2015-12-13,12:00,FK Rad Beograd,Partizan,2,2,D,1,0,H
+SRB,2015-12-16,12:00,FK Jagodina,FK Rad Beograd,1,0,H,1,0,H
+SRB,2015-12-16,12:00,Mladost Lučani,OFK Beograd,0,0,D,0,0,D
+SRB,2015-12-16,12:00,FK Novi Pazar,Vojvodina,1,1,D,0,1,A
+SRB,2015-12-16,12:00,Radnik Surdulica,Radnički Niš,2,1,H,1,1,D
+SRB,2015-12-16,14:00,FK Javor,Crvena Zvezda,0,3,A,0,1,A
+SRB,2015-12-16,16:00,FK Čukarički-Stankom,FK Voždovac,0,0,D,0,0,D
+SRB,2015-12-16,16:00,FK Metalac,Spartak Subotica,1,0,H,1,0,H
+SRB,2015-12-16,16:00,Partizan,Borac Čačak,2,1,H,1,1,D
+SRB,2016-02-19,15:00,FK Čukarički-Stankom,FK Metalac,1,1,D,0,0,D
+SRB,2016-02-20,13:00,Borac Čačak,FK Jagodina,3,0,H,2,0,H
+SRB,2016-02-20,13:00,Crvena Zvezda,Mladost Lučani,2,1,H,0,0,D
+SRB,2016-02-20,13:00,FK Rad Beograd,FK Novi Pazar,1,0,H,1,0,H
+SRB,2016-02-20,14:00,Vojvodina,Spartak Subotica,1,1,D,0,1,A
+SRB,2016-02-21,13:00,FK Voždovac,Radnik Surdulica,2,1,H,0,0,D
+SRB,2016-02-21,13:00,OFK Beograd,Partizan,2,1,H,0,1,A
+SRB,2016-02-21,13:00,Radnički Niš,FK Javor,2,0,H,1,0,H
+SRB,2016-02-26,15:00,FK Metalac,Vojvodina,0,0,D,0,0,D
+SRB,2016-02-27,13:00,FK Jagodina,OFK Beograd,3,1,H,2,1,H
+SRB,2016-02-27,13:00,Mladost Lučani,Radnički Niš,0,1,A,0,0,D
+SRB,2016-02-27,13:00,FK Novi Pazar,Borac Čačak,0,0,D,0,0,D
+SRB,2016-02-27,13:00,Spartak Subotica,FK Rad Beograd,2,1,H,2,0,H
+SRB,2016-02-27,13:00,Radnik Surdulica,FK Čukarički-Stankom,2,1,H,1,1,D
+SRB,2016-02-27,15:00,FK Javor,FK Voždovac,0,0,D,0,0,D
+SRB,2016-02-27,16:00,Partizan,Crvena Zvezda,1,2,A,1,2,A
+SRB,2016-03-05,13:00,FK Voždovac,Mladost Lučani,4,1,H,3,0,H
+SRB,2016-03-05,17:00,Crvena Zvezda,FK Jagodina,3,1,H,0,0,D
+SRB,2016-03-06,12:00,FK Rad Beograd,Vojvodina,2,2,D,0,1,A
+SRB,2016-03-06,13:00,Borac Čačak,Spartak Subotica,0,0,D,0,0,D
+SRB,2016-03-06,13:00,FK Čukarički-Stankom,FK Javor,1,0,H,0,0,D
+SRB,2016-03-06,13:00,OFK Beograd,FK Novi Pazar,0,0,D,0,0,D
+SRB,2016-03-06,13:00,Radnik Surdulica,FK Metalac,0,0,D,0,0,D
+SRB,2016-03-06,18:00,Radnički Niš,Partizan,0,1,A,0,0,D
+SRB,2016-03-11,15:00,Vojvodina,Borac Čačak,1,1,D,0,0,D
+SRB,2016-03-12,13:00,FK Jagodina,Radnički Niš,1,2,A,0,2,A
+SRB,2016-03-12,14:00,Partizan,FK Voždovac,3,0,H,2,0,H
+SRB,2016-03-12,14:00,Spartak Subotica,OFK Beograd,2,1,H,1,1,D
+SRB,2016-03-12,17:00,FK Javor,Radnik Surdulica,0,1,A,0,1,A
+SRB,2016-03-13,16:00,FK Metalac,FK Rad Beograd,2,2,D,1,0,H
+SRB,2016-03-18,16:00,Radnički Niš,FK Novi Pazar,0,0,D,0,0,D
+SRB,2016-03-19,13:00,OFK Beograd,Vojvodina,1,0,H,0,0,D
+SRB,2016-03-19,14:00,FK Voždovac,FK Jagodina,1,0,H,0,0,D
+SRB,2016-03-19,14:00,Radnik Surdulica,Mladost Lučani,3,1,H,1,1,D
+SRB,2016-03-19,17:00,Crvena Zvezda,Spartak Subotica,4,0,H,1,0,H
+SRB,2016-03-20,14:00,Borac Čačak,FK Rad Beograd,0,0,D,0,0,D
+SRB,2016-03-20,14:00,FK Javor,FK Metalac,1,0,H,1,0,H
+SRB,2016-03-20,18:00,FK Čukarički-Stankom,Partizan,1,2,A,1,0,H
+SRB,2016-03-22,14:00,FK Novi Pazar,Crvena Zvezda,0,4,A,0,3,A
+SRB,2016-03-27,14:00,Mladost Lučani,FK Čukarički-Stankom,0,2,A,0,1,A
+SRB,2016-04-01,15:00,Mladost Lučani,FK Javor,1,1,D,1,0,H
+SRB,2016-04-02,14:00,Spartak Subotica,Radnički Niš,1,2,A,0,0,D
+SRB,2016-04-02,15:00,FK Metalac,Borac Čačak,2,0,H,2,0,H
+SRB,2016-04-02,15:00,FK Novi Pazar,FK Voždovac,1,1,D,0,0,D
+SRB,2016-04-02,15:00,Partizan,Radnik Surdulica,3,2,H,0,2,A
+SRB,2016-04-02,15:00,FK Rad Beograd,OFK Beograd,1,1,D,1,0,H
+SRB,2016-04-02,17:00,FK Jagodina,FK Čukarički-Stankom,1,3,A,1,1,D
+SRB,2016-04-02,17:00,Vojvodina,Crvena Zvezda,0,0,D,0,0,D
+SRB,2016-04-06,15:00,Crvena Zvezda,FK Rad Beograd,1,0,H,0,0,D
+SRB,2016-04-06,15:00,FK Čukarički-Stankom,FK Novi Pazar,1,0,H,1,0,H
+SRB,2016-04-06,15:00,FK Voždovac,Spartak Subotica,0,1,A,0,1,A
+SRB,2016-04-06,15:00,FK Javor,Partizan,1,2,A,0,2,A
+SRB,2016-04-06,15:00,Mladost Lučani,FK Metalac,0,0,D,0,0,D
+SRB,2016-04-06,15:00,OFK Beograd,Borac Čačak,1,1,D,0,1,A
+SRB,2016-04-06,15:00,Radnički Niš,Vojvodina,0,3,A,0,2,A
+SRB,2016-04-06,15:00,Radnik Surdulica,FK Jagodina,0,0,D,0,0,D
+SRB,2016-04-10,15:00,Borac Čačak,Crvena Zvezda,1,1,D,1,0,H
+SRB,2016-04-10,15:00,FK Jagodina,FK Javor,1,0,H,0,0,D
+SRB,2016-04-10,15:00,FK Metalac,OFK Beograd,3,1,H,2,1,H
+SRB,2016-04-10,15:00,FK Novi Pazar,Radnik Surdulica,2,0,H,1,0,H
+SRB,2016-04-10,15:00,Partizan,Mladost Lučani,4,0,H,2,0,H
+SRB,2016-04-10,15:00,FK Rad Beograd,Radnički Niš,2,0,H,0,0,D
+SRB,2016-04-10,15:00,Spartak Subotica,FK Čukarički-Stankom,0,2,A,0,2,A
+SRB,2016-04-10,15:00,Vojvodina,FK Voždovac,2,1,H,2,0,H
+SRB,2016-04-15,17:00,FK Čukarički-Stankom,Borac Čačak,3,1,H,2,1,H
+SRB,2016-04-16,14:00,Vojvodina,Radnički Niš,4,0,H,4,0,H
+SRB,2016-04-16,15:00,FK Voždovac,Radnik Surdulica,1,2,A,0,1,A
+SRB,2016-04-16,15:00,FK Javor,Spartak Subotica,0,2,A,0,1,A
+SRB,2016-04-16,15:00,FK Metalac,OFK Beograd,1,1,D,0,0,D
+SRB,2016-04-16,15:00,FK Novi Pazar,FK Jagodina,3,2,H,1,0,H
+SRB,2016-04-16,17:00,Crvena Zvezda,Partizan,1,1,D,0,0,D
+SRB,2016-04-17,16:00,Mladost Lučani,FK Rad Beograd,1,3,A,0,1,A
+SRB,2016-04-22,17:00,FK Jagodina,Mladost Lučani,0,1,A,0,1,A
+SRB,2016-04-23,16:00,FK Rad Beograd,FK Javor,1,0,H,1,0,H
+SRB,2016-04-23,16:00,OFK Beograd,FK Novi Pazar,1,2,A,0,2,A
+SRB,2016-04-23,16:00,Spartak Subotica,FK Metalac,5,1,H,5,1,H
+SRB,2016-04-23,18:00,Partizan,FK Čukarički-Stankom,1,2,A,1,1,D
+SRB,2016-04-23,18:00,Radnički Niš,FK Voždovac,2,0,H,1,0,H
+SRB,2016-04-23,18:00,Radnik Surdulica,Vojvodina,1,0,H,0,0,D
+SRB,2016-04-27,17:00,Crvena Zvezda,FK Čukarički-Stankom,1,2,A,0,1,A
+SRB,2016-04-28,16:00,Partizan,Borac Čačak,2,0,H,1,0,H
+SRB,2016-04-28,16:00,FK Novi Pazar,FK Rad Beograd,1,0,H,1,0,H
+SRB,2016-04-28,16:30,Vojvodina,FK Voždovac,0,0,D,0,0,D
+SRB,2016-04-28,17:00,Radnički Niš,Radnik Surdulica,5,1,H,3,1,H
+SRB,2016-04-28,17:00,FK Javor,OFK Beograd,1,0,H,0,0,D
+SRB,2016-04-28,17:00,FK Metalac,FK Jagodina,2,1,H,0,0,D
+SRB,2016-04-28,17:00,Mladost Lučani,Spartak Subotica,0,0,D,0,0,D
+SRB,2016-05-03,15:00,FK Voždovac,Crvena Zvezda,0,1,A,0,0,D
+SRB,2016-05-03,16:00,FK Novi Pazar,FK Javor,0,2,A,0,1,A
+SRB,2016-05-03,16:00,Spartak Subotica,FK Jagodina,5,1,H,3,1,H
+SRB,2016-05-03,16:00,FK Rad Beograd,OFK Beograd,2,1,H,0,0,D
+SRB,2016-05-03,16:30,FK Čukarički-Stankom,Vojvodina,1,2,A,1,0,H
+SRB,2016-05-03,17:00,Radnik Surdulica,Partizan,0,4,A,0,2,A
+SRB,2016-05-03,17:00,Borac Čačak,Radnički Niš,4,1,H,1,0,H
+SRB,2016-05-03,17:00,FK Metalac,Mladost Lučani,2,2,D,2,2,D
+SRB,2016-05-07,16:00,Crvena Zvezda,Vojvodina,1,3,A,1,1,D
+SRB,2016-05-07,18:00,Borac Čačak,Radnik Surdulica,3,1,H,2,0,H
+SRB,2016-05-07,18:00,Partizan,FK Voždovac,2,1,H,0,0,D
+SRB,2016-05-07,18:00,FK Čukarički-Stankom,Radnički Niš,1,5,A,0,4,A
+SRB,2016-05-07,18:00,FK Javor,FK Metalac,1,1,D,1,1,D
+SRB,2016-05-07,18:00,FK Jagodina,FK Rad Beograd,1,1,D,1,1,D
+SRB,2016-05-08,16:00,OFK Beograd,Spartak Subotica,1,3,A,1,2,A
+SRB,2016-05-08,18:00,Mladost Lučani,FK Novi Pazar,1,0,H,0,0,D
+SRB,2016-05-14,18:00,Radnik Surdulica,Crvena Zvezda,1,4,A,1,2,A
+SRB,2016-05-14,18:00,Vojvodina,Borac Čačak,2,0,H,1,0,H
+SRB,2016-05-14,18:00,FK Voždovac,FK Čukarički-Stankom,2,0,H,0,0,D
+SRB,2016-05-15,16:00,FK Jagodina,FK Javor,0,0,D,0,0,D
+SRB,2016-05-15,16:00,Mladost Lučani,OFK Beograd,3,1,H,1,1,D
+SRB,2016-05-15,16:00,FK Rad Beograd,FK Metalac,1,1,D,1,1,D
+SRB,2016-05-15,16:00,FK Novi Pazar,Spartak Subotica,0,1,A,0,0,D
+SRB,2016-05-15,18:00,Radnički Niš,Partizan,1,0,H,1,0,H
+SRB,2016-05-18,16:00,Borac Čačak,Crvena Zvezda,1,5,A,0,3,A
+SRB,2016-05-21,16:00,FK Javor,Mladost Lučani,0,1,A,0,0,D
+SRB,2016-05-21,16:00,OFK Beograd,FK Jagodina,6,2,H,4,1,H
+SRB,2016-05-21,16:00,FK Metalac,FK Novi Pazar,4,2,H,3,1,H
+SRB,2016-05-21,16:00,Spartak Subotica,FK Rad Beograd,1,2,A,0,0,D
+SRB,2016-05-21,18:00,Crvena Zvezda,Radnički Niš,2,0,H,0,0,D
+SRB,2016-05-21,18:00,Partizan,Vojvodina,3,2,H,2,1,H
+SRB,2016-05-21,18:00,FK Čukarički-Stankom,Radnik Surdulica,2,1,H,0,0,D
+SRB,2016-05-21,18:00,Borac Čačak,FK Voždovac,0,0,D,0,0,D

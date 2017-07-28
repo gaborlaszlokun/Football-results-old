@@ -1,0 +1,31 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,2014-02-22,13:00,Rabat Ajax,Naxxar Lions FC,1,1,D,,,
+MLT,2014-02-22,13:00,Floriana FC,Qormi FC,3,2,H,,,
+MLT,2014-02-22,15:15,Tarxien Rainbows,Vittoriosa Stars,1,1,D,,,
+MLT,2014-02-25,17:00,Vittoriosa Stars,Floriana FC,1,3,A,,,
+MLT,2014-02-25,19:15,Rabat Ajax,Qormi FC,0,3,A,,,
+MLT,2014-02-26,17:00,Naxxar Lions FC,Tarxien Rainbows,1,2,A,,,
+MLT,2014-03-08,13:00,Vittoriosa Stars,Rabat Ajax,3,1,H,,,
+MLT,2014-03-09,13:00,Floriana FC,Tarxien Rainbows,0,3,A,,,
+MLT,2014-03-09,15:15,Qormi FC,Naxxar Lions FC,5,1,H,,,
+MLT,2014-03-15,13:00,Qormi FC,Vittoriosa Stars,5,1,H,1.0,0.0,H
+MLT,2014-03-15,15:15,Rabat Ajax,Tarxien Rainbows,0,2,A,0.0,0.0,D
+MLT,2014-03-16,13:00,Floriana FC,Naxxar Lions FC,1,1,D,1.0,0.0,H
+MLT,2014-03-22,13:00,Tarxien Rainbows,Qormi FC,4,0,H,1.0,0.0,H
+MLT,2014-03-22,15:15,Naxxar Lions FC,Vittoriosa Stars,3,3,D,1.0,1.0,D
+MLT,2014-03-23,13:00,Rabat Ajax,Floriana FC,0,5,A,0.0,2.0,A
+MLT,2014-03-29,13:00,Naxxar Lions FC,Rabat Ajax,2,0,H,0.0,0.0,D
+MLT,2014-03-29,13:00,Vittoriosa Stars,Tarxien Rainbows,1,1,D,1.0,1.0,D
+MLT,2014-03-29,15:15,Qormi FC,Floriana FC,2,1,H,1.0,1.0,D
+MLT,2014-04-05,15:00,Qormi FC,Rabat Ajax,3,1,H,3.0,0.0,H
+MLT,2014-04-05,15:00,Tarxien Rainbows,Naxxar Lions FC,0,1,A,0.0,1.0,A
+MLT,2014-04-05,17:15,Floriana FC,Vittoriosa Stars,1,2,A,0.0,0.0,D
+MLT,2014-04-12,15:00,Rabat Ajax,Vittoriosa Stars,1,2,A,1.0,2.0,A
+MLT,2014-04-12,15:00,Naxxar Lions FC,Qormi FC,0,1,A,0.0,0.0,D
+MLT,2014-04-12,17:15,Tarxien Rainbows,Floriana FC,0,2,A,0.0,1.0,A
+MLT,2014-04-19,15:00,Naxxar Lions FC,Floriana FC,0,2,A,0.0,0.0,D
+MLT,2014-04-19,15:00,Vittoriosa Stars,Qormi FC,2,0,H,0.0,0.0,D
+MLT,2014-04-19,17:00,Tarxien Rainbows,Rabat Ajax,7,1,H,6.0,0.0,H
+MLT,2014-04-24,17:00,Floriana FC,Rabat Ajax,2,1,H,1.0,0.0,H
+MLT,2014-04-24,19:15,Qormi FC,Tarxien Rainbows,2,4,A,0.0,2.0,A
+MLT,2014-04-25,18:00,Vittoriosa Stars,Naxxar Lions FC,1,3,A,0.0,3.0,A

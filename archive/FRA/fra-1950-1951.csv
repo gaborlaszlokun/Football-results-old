@@ -1,307 +1,307 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,26/08/1950,,Girondins Bordeaux,OGC Nice,2,0,H,NaN,NaN,NaN
-FRA,27/08/1950,,Stade Rennes,AS Saint-Étienne,6,0,H,NaN,NaN,NaN
-FRA,27/08/1950,,FC Sète,Stade Reims,5,2,H,NaN,NaN,NaN
-FRA,27/08/1950,,Racing Club de France,FC Sochaux,4,1,H,NaN,NaN,NaN
-FRA,27/08/1950,,RC Lens,AS Nancy,0,2,A,NaN,NaN,NaN
-FRA,27/08/1950,,RC Strasbourg,Nîmes Olympique,2,1,H,NaN,NaN,NaN
-FRA,27/08/1950,,Le Havre AC,Olympique Marseille,1,0,H,NaN,NaN,NaN
-FRA,27/08/1950,,Lille OSC,Stade Français FC,1,1,D,NaN,NaN,NaN
-FRA,27/08/1950,,Toulouse FC,RC Roubaix,1,1,D,NaN,NaN,NaN
-FRA,03/09/1950,,OGC Nice,Stade Rennes,3,6,A,NaN,NaN,NaN
-FRA,03/09/1950,,RC Roubaix,Racing Club de France,1,4,A,NaN,NaN,NaN
-FRA,03/09/1950,,FC Sochaux,Lille OSC,0,4,A,NaN,NaN,NaN
-FRA,03/09/1950,,AS Nancy,FC Sète,2,2,D,NaN,NaN,NaN
-FRA,03/09/1950,,Nîmes Olympique,Girondins Bordeaux,2,2,D,NaN,NaN,NaN
-FRA,03/09/1950,,Stade Français FC,RC Strasbourg,0,0,D,NaN,NaN,NaN
-FRA,03/09/1950,,Olympique Marseille,Toulouse FC,3,1,H,NaN,NaN,NaN
-FRA,03/09/1950,,Stade Reims,Le Havre AC,2,0,H,NaN,NaN,NaN
-FRA,03/09/1950,,AS Saint-Étienne,RC Lens,4,1,H,NaN,NaN,NaN
-FRA,10/09/1950,,Stade Rennes,Toulouse FC,6,0,H,NaN,NaN,NaN
-FRA,10/09/1950,,Girondins Bordeaux,Racing Club de France,0,3,A,NaN,NaN,NaN
-FRA,10/09/1950,,Lille OSC,Olympique Marseille,2,1,H,NaN,NaN,NaN
-FRA,10/09/1950,,RC Strasbourg,RC Roubaix,3,1,H,NaN,NaN,NaN
-FRA,10/09/1950,,FC Sète,FC Sochaux,1,1,D,NaN,NaN,NaN
-FRA,10/09/1950,,Nîmes Olympique,AS Nancy,3,0,H,NaN,NaN,NaN
-FRA,10/09/1950,,Stade Français FC,Stade Reims,1,1,D,NaN,NaN,NaN
-FRA,10/09/1950,,OGC Nice,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
-FRA,10/09/1950,,RC Lens,Le Havre AC,2,1,H,NaN,NaN,NaN
-FRA,17/09/1950,,Racing Club de France,Stade Rennes,4,2,H,NaN,NaN,NaN
-FRA,17/09/1950,,Olympique Marseille,RC Strasbourg,2,2,D,NaN,NaN,NaN
-FRA,17/09/1950,,Stade Reims,Lille OSC,4,3,H,NaN,NaN,NaN
-FRA,17/09/1950,,AS Nancy,Stade Français FC,2,1,H,NaN,NaN,NaN
-FRA,17/09/1950,,Le Havre AC,FC Sète,1,0,H,NaN,NaN,NaN
-FRA,17/09/1950,,AS Saint-Étienne,Nîmes Olympique,1,1,D,NaN,NaN,NaN
-FRA,17/09/1950,,RC Roubaix,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
-FRA,17/09/1950,,FC Sochaux,OGC Nice,3,2,H,NaN,NaN,NaN
-FRA,17/09/1950,,Toulouse FC,RC Lens,3,2,H,NaN,NaN,NaN
-FRA,21/09/1950,,Lille OSC,Racing Club de France,1,1,D,NaN,NaN,NaN
-FRA,21/09/1950,,Stade Rennes,FC Sète,2,0,H,NaN,NaN,NaN
-FRA,21/09/1950,,RC Strasbourg,Toulouse FC,6,1,H,NaN,NaN,NaN
-FRA,21/09/1950,,OGC Nice,Stade Reims,1,2,A,NaN,NaN,NaN
-FRA,21/09/1950,,Nîmes Olympique,Olympique Marseille,2,1,H,NaN,NaN,NaN
-FRA,21/09/1950,,Girondins Bordeaux,Le Havre AC,0,1,A,NaN,NaN,NaN
-FRA,21/09/1950,,AS Saint-Étienne,AS Nancy,3,1,H,NaN,NaN,NaN
-FRA,21/09/1950,,Stade Français FC,RC Roubaix,1,0,H,NaN,NaN,NaN
-FRA,21/09/1950,,RC Lens,FC Sochaux,3,1,H,NaN,NaN,NaN
-FRA,24/09/1950,,RC Lens,Stade Rennes,1,2,A,NaN,NaN,NaN
-FRA,24/09/1950,,Racing Club de France,Stade Français FC,1,1,D,NaN,NaN,NaN
-FRA,24/09/1950,,Le Havre AC,RC Strasbourg,0,1,A,NaN,NaN,NaN
-FRA,24/09/1950,,Toulouse FC,Lille OSC,0,2,A,NaN,NaN,NaN
-FRA,24/09/1950,,Stade Reims,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
-FRA,24/09/1950,,RC Roubaix,Nîmes Olympique,2,0,H,NaN,NaN,NaN
-FRA,24/09/1950,,FC Sète,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,24/09/1950,,FC Sochaux,AS Nancy,3,3,D,NaN,NaN,NaN
-FRA,24/09/1950,,Olympique Marseille,OGC Nice,3,0,H,NaN,NaN,NaN
-FRA,01/10/1950,,Racing Club de France,RC Strasbourg,2,4,A,NaN,NaN,NaN
-FRA,01/10/1950,,Le Havre AC,Stade Rennes,3,1,H,NaN,NaN,NaN
-FRA,01/10/1950,,Stade Reims,Nîmes Olympique,1,1,D,NaN,NaN,NaN
-FRA,01/10/1950,,FC Sochaux,AS Saint-Étienne,0,2,A,NaN,NaN,NaN
-FRA,01/10/1950,,RC Roubaix,Lille OSC,3,0,H,NaN,NaN,NaN
-FRA,01/10/1950,,FC Sète,RC Lens,1,1,D,NaN,NaN,NaN
-FRA,01/10/1950,,Olympique Marseille,Stade Français FC,0,0,D,NaN,NaN,NaN
-FRA,01/10/1950,,Toulouse FC,Girondins Bordeaux,1,2,A,NaN,NaN,NaN
-FRA,01/10/1950,,AS Nancy,OGC Nice,1,2,A,NaN,NaN,NaN
-FRA,08/10/1950,,RC Strasbourg,FC Sète,1,0,H,NaN,NaN,NaN
-FRA,08/10/1950,,Stade Rennes,FC Sochaux,2,1,H,NaN,NaN,NaN
-FRA,08/10/1950,,AS Nancy,Stade Reims,0,2,A,NaN,NaN,NaN
-FRA,08/10/1950,,Nîmes Olympique,Racing Club de France,4,2,H,NaN,NaN,NaN
-FRA,08/10/1950,,Lille OSC,Le Havre AC,1,0,H,NaN,NaN,NaN
-FRA,08/10/1950,,AS Saint-Étienne,Olympique Marseille,1,2,A,NaN,NaN,NaN
-FRA,08/10/1950,,Girondins Bordeaux,RC Lens,4,0,H,NaN,NaN,NaN
-FRA,08/10/1950,,Stade Français FC,Toulouse FC,1,2,A,NaN,NaN,NaN
-FRA,08/10/1950,,OGC Nice,RC Roubaix,3,0,H,NaN,NaN,NaN
-FRA,15/10/1950,,RC Lens,RC Strasbourg,1,1,D,NaN,NaN,NaN
-FRA,15/10/1950,,Stade Rennes,Girondins Bordeaux,4,2,H,NaN,NaN,NaN
-FRA,15/10/1950,,FC Sète,Lille OSC,1,1,D,NaN,NaN,NaN
-FRA,15/10/1950,,FC Sochaux,Stade Reims,2,0,H,NaN,NaN,NaN
-FRA,15/10/1950,,Racing Club de France,OGC Nice,0,3,A,NaN,NaN,NaN
-FRA,15/10/1950,,Olympique Marseille,AS Nancy,2,1,H,NaN,NaN,NaN
-FRA,15/10/1950,,Toulouse FC,Nîmes Olympique,1,1,D,NaN,NaN,NaN
-FRA,15/10/1950,,Le Havre AC,Stade Français FC,3,0,H,NaN,NaN,NaN
-FRA,15/10/1950,,RC Roubaix,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
-FRA,22/10/1950,,RC Strasbourg,Stade Rennes,1,0,H,NaN,NaN,NaN
-FRA,22/10/1950,,Lille OSC,RC Lens,5,0,H,NaN,NaN,NaN
-FRA,22/10/1950,,Nîmes Olympique,Le Havre AC,2,3,A,NaN,NaN,NaN
-FRA,22/10/1950,,Stade Reims,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,22/10/1950,,AS Saint-Étienne,Racing Club de France,2,1,H,NaN,NaN,NaN
-FRA,22/10/1950,,Girondins Bordeaux,FC Sochaux,3,1,H,NaN,NaN,NaN
-FRA,22/10/1950,,OGC Nice,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,22/10/1950,,Stade Français FC,FC Sète,3,2,H,NaN,NaN,NaN
-FRA,22/10/1950,,AS Nancy,RC Roubaix,2,1,H,NaN,NaN,NaN
-FRA,29/10/1950,,RC Strasbourg,Lille OSC,1,0,H,NaN,NaN,NaN
-FRA,29/10/1950,,Stade Rennes,Nîmes Olympique,1,2,A,NaN,NaN,NaN
-FRA,29/10/1950,,Toulouse FC,Stade Reims,1,3,A,NaN,NaN,NaN
-FRA,29/10/1950,,Le Havre AC,AS Nancy,1,1,D,NaN,NaN,NaN
-FRA,29/10/1950,,Girondins Bordeaux,Stade Français FC,4,1,H,NaN,NaN,NaN
-FRA,29/10/1950,,Racing Club de France,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,29/10/1950,,FC Sète,AS Saint-Étienne,4,1,H,NaN,NaN,NaN
-FRA,29/10/1950,,RC Lens,OGC Nice,2,0,H,NaN,NaN,NaN
-FRA,29/10/1950,,RC Roubaix,FC Sochaux,1,2,A,NaN,NaN,NaN
-FRA,05/11/1950,,FC Sochaux,RC Strasbourg,5,0,H,NaN,NaN,NaN
-FRA,05/11/1950,,Lille OSC,Girondins Bordeaux,3,0,H,NaN,NaN,NaN
-FRA,05/11/1950,,Stade Reims,Racing Club de France,2,2,D,NaN,NaN,NaN
-FRA,05/11/1950,,Stade Français FC,Stade Rennes,6,0,H,NaN,NaN,NaN
-FRA,05/11/1950,,Nîmes Olympique,RC Lens,5,3,H,NaN,NaN,NaN
-FRA,05/11/1950,,AS Saint-Étienne,Le Havre AC,1,0,H,NaN,NaN,NaN
-FRA,05/11/1950,,Olympique Marseille,RC Roubaix,1,2,A,NaN,NaN,NaN
-FRA,05/11/1950,,OGC Nice,FC Sète,2,1,H,NaN,NaN,NaN
-FRA,05/11/1950,,AS Nancy,Toulouse FC,0,3,A,NaN,NaN,NaN
-FRA,11/11/1950,,Racing Club de France,AS Nancy,2,0,H,NaN,NaN,NaN
-FRA,12/11/1950,,Girondins Bordeaux,RC Strasbourg,3,0,H,NaN,NaN,NaN
-FRA,12/11/1950,,Stade Rennes,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,12/11/1950,,Le Havre AC,OGC Nice,4,1,H,NaN,NaN,NaN
-FRA,12/11/1950,,FC Sète,Nîmes Olympique,1,1,D,NaN,NaN,NaN
-FRA,12/11/1950,,RC Roubaix,Stade Reims,2,1,H,NaN,NaN,NaN
-FRA,12/11/1950,,Toulouse FC,AS Saint-Étienne,3,2,H,NaN,NaN,NaN
-FRA,12/11/1950,,RC Lens,Stade Français FC,5,0,H,NaN,NaN,NaN
-FRA,23/11/1950,,FC Sochaux,Olympique Marseille,1,2,A,NaN,NaN,NaN
-FRA,19/11/1950,,RC Strasbourg,AS Saint-Étienne,2,6,A,NaN,NaN,NaN
-FRA,19/11/1950,,Le Havre AC,Racing Club de France,2,0,H,NaN,NaN,NaN
-FRA,19/11/1950,,Stade Français FC,Nîmes Olympique,2,3,A,NaN,NaN,NaN
-FRA,19/11/1950,,Stade Rennes,Stade Reims,2,2,D,NaN,NaN,NaN
-FRA,19/11/1950,,Lille OSC,OGC Nice,1,3,A,NaN,NaN,NaN
-FRA,19/11/1950,,Girondins Bordeaux,AS Nancy,3,1,H,NaN,NaN,NaN
-FRA,19/11/1950,,FC Sète,RC Roubaix,2,0,H,NaN,NaN,NaN
-FRA,19/11/1950,,RC Lens,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,19/11/1950,,Toulouse FC,FC Sochaux,0,2,A,NaN,NaN,NaN
-FRA,26/11/1950,,RC Roubaix,Le Havre AC,2,3,A,NaN,NaN,NaN
-FRA,26/11/1950,,OGC Nice,RC Strasbourg,4,1,H,NaN,NaN,NaN
-FRA,26/11/1950,,Nîmes Olympique,Lille OSC,2,4,A,NaN,NaN,NaN
-FRA,26/11/1950,,Stade Reims,RC Lens,4,2,H,NaN,NaN,NaN
-FRA,26/11/1950,,AS Saint-Étienne,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,26/11/1950,,AS Nancy,Stade Rennes,3,2,H,NaN,NaN,NaN
-FRA,26/11/1950,,Olympique Marseille,FC Sète,1,2,A,NaN,NaN,NaN
-FRA,26/11/1950,,Racing Club de France,Toulouse FC,1,1,D,NaN,NaN,NaN
-FRA,26/11/1950,,FC Sochaux,Stade Français FC,0,1,A,NaN,NaN,NaN
-FRA,03/12/1950,,RC Strasbourg,Stade Reims,0,1,A,NaN,NaN,NaN
-FRA,03/12/1950,,Lille OSC,AS Nancy,0,0,D,NaN,NaN,NaN
-FRA,03/12/1950,,Stade Rennes,RC Roubaix,4,1,H,NaN,NaN,NaN
-FRA,03/12/1950,,Nîmes Olympique,OGC Nice,1,1,D,NaN,NaN,NaN
-FRA,03/12/1950,,Stade Français FC,AS Saint-Étienne,4,0,H,NaN,NaN,NaN
-FRA,03/12/1950,,Girondins Bordeaux,Olympique Marseille,0,0,D,NaN,NaN,NaN
-FRA,03/12/1950,,RC Lens,Racing Club de France,1,1,D,NaN,NaN,NaN
-FRA,03/12/1950,,FC Sète,Toulouse FC,0,1,A,NaN,NaN,NaN
-FRA,05/12/1950,,Le Havre AC,FC Sochaux,3,1,H,NaN,NaN,NaN
-FRA,17/12/1950,,Toulouse FC,Le Havre AC,2,0,H,NaN,NaN,NaN
-FRA,17/12/1950,,Stade Reims,Girondins Bordeaux,2,3,A,NaN,NaN,NaN
-FRA,17/12/1950,,AS Saint-Étienne,Lille OSC,5,1,H,NaN,NaN,NaN
-FRA,17/12/1950,,Olympique Marseille,Stade Rennes,1,1,D,NaN,NaN,NaN
-FRA,17/12/1950,,AS Nancy,RC Strasbourg,2,1,H,NaN,NaN,NaN
-FRA,17/12/1950,,Racing Club de France,FC Sète,3,2,H,NaN,NaN,NaN
-FRA,17/12/1950,,OGC Nice,Stade Français FC,5,1,H,NaN,NaN,NaN
-FRA,17/12/1950,,FC Sochaux,Nîmes Olympique,4,0,H,NaN,NaN,NaN
-FRA,17/12/1950,,RC Roubaix,RC Lens,4,1,H,NaN,NaN,NaN
-FRA,24/12/1950,,AS Saint-Étienne,Stade Rennes,3,0,H,NaN,NaN,NaN
-FRA,24/12/1950,,Stade Reims,FC Sète,3,1,H,NaN,NaN,NaN
-FRA,24/12/1950,,Stade Français FC,Lille OSC,0,2,A,NaN,NaN,NaN
-FRA,24/12/1950,,Olympique Marseille,Le Havre AC,3,1,H,NaN,NaN,NaN
-FRA,24/12/1950,,OGC Nice,Girondins Bordeaux,4,1,H,NaN,NaN,NaN
-FRA,24/12/1950,,FC Sochaux,Racing Club de France,0,1,A,NaN,NaN,NaN
-FRA,24/12/1950,,Nîmes Olympique,RC Strasbourg,1,0,H,NaN,NaN,NaN
-FRA,24/12/1950,,AS Nancy,RC Lens,4,2,H,NaN,NaN,NaN
-FRA,24/12/1950,,RC Roubaix,Toulouse FC,3,2,H,NaN,NaN,NaN
-FRA,31/12/1950,,RC Lens,AS Saint-Étienne,2,3,A,NaN,NaN,NaN
-FRA,31/12/1950,,Lille OSC,FC Sochaux,2,1,H,NaN,NaN,NaN
-FRA,31/12/1950,,Le Havre AC,Stade Reims,3,0,H,NaN,NaN,NaN
-FRA,31/12/1950,,Stade Rennes,OGC Nice,3,1,H,NaN,NaN,NaN
-FRA,31/12/1950,,Toulouse FC,Olympique Marseille,0,4,A,NaN,NaN,NaN
-FRA,31/12/1950,,Girondins Bordeaux,Nîmes Olympique,2,1,H,NaN,NaN,NaN
-FRA,31/12/1950,,RC Strasbourg,Stade Français FC,2,1,H,NaN,NaN,NaN
-FRA,31/12/1950,,Racing Club de France,RC Roubaix,1,2,A,NaN,NaN,NaN
-FRA,31/12/1950,,FC Sète,AS Nancy,2,1,H,NaN,NaN,NaN
-FRA,07/01/1951,,AS Saint-Étienne,OGC Nice,3,2,H,NaN,NaN,NaN
-FRA,07/01/1951,,Le Havre AC,RC Lens,4,1,H,NaN,NaN,NaN
-FRA,07/01/1951,,Olympique Marseille,Lille OSC,1,1,D,NaN,NaN,NaN
-FRA,07/01/1951,,Stade Reims,Stade Français FC,2,0,H,NaN,NaN,NaN
-FRA,07/01/1951,,Toulouse FC,Stade Rennes,0,1,A,NaN,NaN,NaN
-FRA,07/01/1951,,RC Roubaix,RC Strasbourg,0,1,A,NaN,NaN,NaN
-FRA,07/01/1951,,Racing Club de France,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,07/01/1951,,AS Nancy,Nîmes Olympique,3,0,H,NaN,NaN,NaN
-FRA,07/01/1951,,FC Sochaux,FC Sète,1,0,H,NaN,NaN,NaN
-FRA,21/01/1951,,FC Sète,Le Havre AC,1,2,A,NaN,NaN,NaN
-FRA,21/01/1951,,Nîmes Olympique,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
-FRA,21/01/1951,,Lille OSC,Stade Reims,1,1,D,NaN,NaN,NaN
-FRA,21/01/1951,,Stade Rennes,Racing Club de France,3,4,A,NaN,NaN,NaN
-FRA,21/01/1951,,RC Strasbourg,Olympique Marseille,2,2,D,NaN,NaN,NaN
-FRA,21/01/1951,,OGC Nice,FC Sochaux,2,1,H,NaN,NaN,NaN
-FRA,21/01/1951,,Girondins Bordeaux,RC Roubaix,2,2,D,NaN,NaN,NaN
-FRA,21/01/1951,,Stade Français FC,AS Nancy,1,4,A,NaN,NaN,NaN
-FRA,21/01/1951,,RC Lens,Toulouse FC,2,2,D,NaN,NaN,NaN
-FRA,28/01/1951,,Le Havre AC,Girondins Bordeaux,2,2,D,NaN,NaN,NaN
-FRA,28/01/1951,,Racing Club de France,Lille OSC,2,0,H,NaN,NaN,NaN
-FRA,28/01/1951,,AS Nancy,AS Saint-Étienne,4,2,H,NaN,NaN,NaN
-FRA,28/01/1951,,FC Sète,Stade Rennes,1,2,A,NaN,NaN,NaN
-FRA,28/01/1951,,Stade Reims,OGC Nice,2,4,A,NaN,NaN,NaN
-FRA,28/01/1951,,Olympique Marseille,Nîmes Olympique,1,1,D,NaN,NaN,NaN
-FRA,28/01/1951,,Toulouse FC,RC Strasbourg,1,0,H,NaN,NaN,NaN
-FRA,28/01/1951,,RC Roubaix,Stade Français FC,3,1,H,NaN,NaN,NaN
-FRA,28/01/1951,,FC Sochaux,RC Lens,3,2,H,NaN,NaN,NaN
-FRA,11/02/1951,,RC Strasbourg,Le Havre AC,1,4,A,NaN,NaN,NaN
-FRA,11/02/1951,,Stade Français FC,Racing Club de France,0,3,A,NaN,NaN,NaN
-FRA,11/02/1951,,AS Saint-Étienne,Stade Reims,1,1,D,NaN,NaN,NaN
-FRA,11/02/1951,,Stade Rennes,RC Lens,1,2,A,NaN,NaN,NaN
-FRA,11/02/1951,,OGC Nice,Olympique Marseille,2,2,D,NaN,NaN,NaN
-FRA,11/02/1951,,Girondins Bordeaux,FC Sète,4,0,H,NaN,NaN,NaN
-FRA,11/02/1951,,Lille OSC,Toulouse FC,1,2,A,NaN,NaN,NaN
-FRA,11/02/1951,,Nîmes Olympique,RC Roubaix,2,1,H,NaN,NaN,NaN
-FRA,11/02/1951,,AS Nancy,FC Sochaux,3,4,A,NaN,NaN,NaN
-FRA,18/02/1951,,Stade Rennes,Le Havre AC,0,4,A,NaN,NaN,NaN
-FRA,18/02/1951,,AS Saint-Étienne,FC Sochaux,3,0,H,NaN,NaN,NaN
-FRA,18/02/1951,,RC Strasbourg,Racing Club de France,3,0,H,NaN,NaN,NaN
-FRA,18/02/1951,,OGC Nice,AS Nancy,5,0,H,NaN,NaN,NaN
-FRA,18/02/1951,,Stade Français FC,Olympique Marseille,2,4,A,NaN,NaN,NaN
-FRA,18/02/1951,,Girondins Bordeaux,Toulouse FC,3,1,H,NaN,NaN,NaN
-FRA,18/02/1951,,Nîmes Olympique,Stade Reims,3,0,H,NaN,NaN,NaN
-FRA,18/02/1951,,Lille OSC,RC Roubaix,0,1,A,NaN,NaN,NaN
-FRA,18/02/1951,,RC Lens,FC Sète,3,0,H,NaN,NaN,NaN
-FRA,04/03/1951,,Le Havre AC,Lille OSC,0,1,A,NaN,NaN,NaN
-FRA,04/03/1951,,Olympique Marseille,AS Saint-Étienne,7,0,H,NaN,NaN,NaN
-FRA,04/03/1951,,Racing Club de France,Nîmes Olympique,0,2,A,NaN,NaN,NaN
-FRA,04/03/1951,,RC Roubaix,OGC Nice,0,0,D,NaN,NaN,NaN
-FRA,04/03/1951,,RC Lens,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
-FRA,04/03/1951,,Stade Reims,AS Nancy,2,2,D,NaN,NaN,NaN
-FRA,04/03/1951,,FC Sète,RC Strasbourg,2,1,H,NaN,NaN,NaN
-FRA,04/03/1951,,FC Sochaux,Stade Rennes,2,2,D,NaN,NaN,NaN
-FRA,04/03/1951,,Toulouse FC,Stade Français FC,0,0,D,NaN,NaN,NaN
-FRA,11/03/1951,,Stade Français FC,Le Havre AC,1,0,H,NaN,NaN,NaN
-FRA,11/03/1951,,Nîmes Olympique,Toulouse FC,3,1,H,NaN,NaN,NaN
-FRA,11/03/1951,,AS Saint-Étienne,RC Roubaix,3,0,H,NaN,NaN,NaN
-FRA,11/03/1951,,OGC Nice,Racing Club de France,3,0,H,NaN,NaN,NaN
-FRA,11/03/1951,,AS Nancy,Olympique Marseille,5,1,H,NaN,NaN,NaN
-FRA,11/03/1951,,Girondins Bordeaux,Stade Rennes,1,1,D,NaN,NaN,NaN
-FRA,11/03/1951,,Lille OSC,FC Sète,3,1,H,NaN,NaN,NaN
-FRA,11/03/1951,,Stade Reims,FC Sochaux,3,1,H,NaN,NaN,NaN
-FRA,11/03/1951,,RC Strasbourg,RC Lens,1,1,D,NaN,NaN,NaN
-FRA,24/03/1951,,Racing Club de France,AS Saint-Étienne,2,2,D,NaN,NaN,NaN
-FRA,24/03/1951,,Stade Rennes,RC Strasbourg,2,4,A,NaN,NaN,NaN
-FRA,24/03/1951,,RC Roubaix,AS Nancy,3,0,H,NaN,NaN,NaN
-FRA,25/03/1951,,Le Havre AC,Nîmes Olympique,2,4,A,NaN,NaN,NaN
-FRA,25/03/1951,,Toulouse FC,OGC Nice,0,1,A,NaN,NaN,NaN
-FRA,25/03/1951,,Olympique Marseille,Stade Reims,0,2,A,NaN,NaN,NaN
-FRA,25/03/1951,,FC Sochaux,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,25/03/1951,,RC Lens,Lille OSC,2,1,H,NaN,NaN,NaN
-FRA,25/03/1951,,FC Sète,Stade Français FC,2,0,H,NaN,NaN,NaN
-FRA,01/04/1951,,Nîmes Olympique,Stade Rennes,3,0,H,NaN,NaN,NaN
-FRA,01/04/1951,,OGC Nice,RC Lens,5,0,H,NaN,NaN,NaN
-FRA,01/04/1951,,Stade Reims,Toulouse FC,4,1,H,NaN,NaN,NaN
-FRA,01/04/1951,,AS Nancy,Le Havre AC,6,1,H,NaN,NaN,NaN
-FRA,01/04/1951,,AS Saint-Étienne,FC Sète,0,2,A,NaN,NaN,NaN
-FRA,01/04/1951,,Olympique Marseille,Racing Club de France,4,2,H,NaN,NaN,NaN
-FRA,01/04/1951,,Stade Français FC,Girondins Bordeaux,1,2,A,NaN,NaN,NaN
-FRA,01/04/1951,,Lille OSC,RC Strasbourg,3,1,H,NaN,NaN,NaN
-FRA,01/04/1951,,FC Sochaux,RC Roubaix,1,1,D,NaN,NaN,NaN
-FRA,07/04/1951,,RC Roubaix,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,08/04/1951,,RC Lens,Nîmes Olympique,4,2,H,NaN,NaN,NaN
-FRA,08/04/1951,,FC Sète,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,08/04/1951,,Le Havre AC,AS Saint-Étienne,4,1,H,NaN,NaN,NaN
-FRA,08/04/1951,,Racing Club de France,Stade Reims,0,0,D,NaN,NaN,NaN
-FRA,08/04/1951,,Girondins Bordeaux,Lille OSC,1,3,A,NaN,NaN,NaN
-FRA,08/04/1951,,RC Strasbourg,FC Sochaux,2,0,H,NaN,NaN,NaN
-FRA,08/04/1951,,Stade Rennes,Stade Français FC,1,3,A,NaN,NaN,NaN
-FRA,08/04/1951,,Toulouse FC,AS Nancy,3,0,H,NaN,NaN,NaN
-FRA,21/04/1951,,Stade Français FC,RC Lens,2,2,D,NaN,NaN,NaN
-FRA,22/04/1951,,Lille OSC,Stade Rennes,2,0,H,NaN,NaN,NaN
-FRA,22/04/1951,,Nîmes Olympique,FC Sète,1,0,H,NaN,NaN,NaN
-FRA,22/04/1951,,Stade Reims,RC Roubaix,3,1,H,NaN,NaN,NaN
-FRA,22/04/1951,,OGC Nice,Le Havre AC,0,0,D,NaN,NaN,NaN
-FRA,22/04/1951,,AS Saint-Étienne,Toulouse FC,4,0,H,NaN,NaN,NaN
-FRA,22/04/1951,,Olympique Marseille,FC Sochaux,0,0,D,NaN,NaN,NaN
-FRA,22/04/1951,,RC Strasbourg,Girondins Bordeaux,0,2,A,NaN,NaN,NaN
-FRA,22/04/1951,,AS Nancy,Racing Club de France,0,1,A,NaN,NaN,NaN
-FRA,29/04/1951,,Nîmes Olympique,Stade Français FC,6,2,H,NaN,NaN,NaN
-FRA,29/04/1951,,OGC Nice,Lille OSC,4,1,H,NaN,NaN,NaN
-FRA,29/04/1951,,Racing Club de France,Le Havre AC,2,3,A,NaN,NaN,NaN
-FRA,29/04/1951,,Stade Reims,Stade Rennes,0,1,A,NaN,NaN,NaN
-FRA,29/04/1951,,Olympique Marseille,RC Lens,3,0,H,NaN,NaN,NaN
-FRA,29/04/1951,,AS Saint-Étienne,RC Strasbourg,1,1,D,NaN,NaN,NaN
-FRA,29/04/1951,,AS Nancy,Girondins Bordeaux,2,2,D,NaN,NaN,NaN
-FRA,29/04/1951,,RC Roubaix,FC Sète,6,0,H,NaN,NaN,NaN
-FRA,29/04/1951,,FC Sochaux,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,15/04/1951,,Lille OSC,Nîmes Olympique,1,0,H,NaN,NaN,NaN
-FRA,05/05/1951,,Stade Rennes,AS Nancy,3,5,A,NaN,NaN,NaN
-FRA,05/05/1951,,Stade Français FC,FC Sochaux,0,3,A,NaN,NaN,NaN
-FRA,06/05/1951,,Le Havre AC,RC Roubaix,1,0,H,NaN,NaN,NaN
-FRA,06/05/1951,,Girondins Bordeaux,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
-FRA,06/05/1951,,RC Lens,Stade Reims,2,1,H,NaN,NaN,NaN
-FRA,06/05/1951,,FC Sète,Olympique Marseille,3,1,H,NaN,NaN,NaN
-FRA,06/05/1951,,Toulouse FC,Racing Club de France,1,0,H,NaN,NaN,NaN
-FRA,13/05/1951,,RC Strasbourg,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,20/05/1951,,OGC Nice,Nîmes Olympique,2,0,H,NaN,NaN,NaN
-FRA,20/05/1951,,FC Sochaux,Le Havre AC,1,0,H,NaN,NaN,NaN
-FRA,20/05/1951,,AS Nancy,Lille OSC,1,2,A,NaN,NaN,NaN
-FRA,20/05/1951,,Stade Reims,RC Strasbourg,3,1,H,NaN,NaN,NaN
-FRA,20/05/1951,,Olympique Marseille,Girondins Bordeaux,3,3,D,NaN,NaN,NaN
-FRA,20/05/1951,,AS Saint-Étienne,Stade Français FC,3,0,H,NaN,NaN,NaN
-FRA,20/05/1951,,Racing Club de France,RC Lens,1,3,A,NaN,NaN,NaN
-FRA,20/05/1951,,RC Roubaix,Stade Rennes,3,0,H,NaN,NaN,NaN
-FRA,20/05/1951,,Toulouse FC,FC Sète,0,0,D,NaN,NaN,NaN
-FRA,27/05/1951,,Stade Français FC,OGC Nice,0,4,A,NaN,NaN,NaN
-FRA,27/05/1951,,Lille OSC,AS Saint-Étienne,4,3,H,NaN,NaN,NaN
-FRA,27/05/1951,,Le Havre AC,Toulouse FC,2,2,D,NaN,NaN,NaN
-FRA,27/05/1951,,Nîmes Olympique,FC Sochaux,3,3,D,NaN,NaN,NaN
-FRA,27/05/1951,,Girondins Bordeaux,Stade Reims,2,4,A,NaN,NaN,NaN
-FRA,27/05/1951,,Stade Rennes,Olympique Marseille,2,1,H,NaN,NaN,NaN
-FRA,27/05/1951,,RC Strasbourg,AS Nancy,1,5,A,NaN,NaN,NaN
-FRA,27/05/1951,,RC Lens,RC Roubaix,4,4,D,NaN,NaN,NaN
-FRA,27/05/1951,,FC Sète,Racing Club de France,5,1,H,NaN,NaN,NaN
+FRA,1950-08-26,,Girondins Bordeaux,OGC Nice,2,0,H,,,
+FRA,1950-08-27,,Stade Rennes,AS Saint-Étienne,6,0,H,,,
+FRA,1950-08-27,,FC Sète,Stade Reims,5,2,H,,,
+FRA,1950-08-27,,Racing Club de France,FC Sochaux,4,1,H,,,
+FRA,1950-08-27,,RC Lens,AS Nancy,0,2,A,,,
+FRA,1950-08-27,,RC Strasbourg,Nîmes Olympique,2,1,H,,,
+FRA,1950-08-27,,Le Havre AC,Olympique Marseille,1,0,H,,,
+FRA,1950-08-27,,Lille OSC,Stade Français FC,1,1,D,,,
+FRA,1950-08-27,,Toulouse FC,RC Roubaix,1,1,D,,,
+FRA,1950-09-03,,OGC Nice,Stade Rennes,3,6,A,,,
+FRA,1950-09-03,,RC Roubaix,Racing Club de France,1,4,A,,,
+FRA,1950-09-03,,FC Sochaux,Lille OSC,0,4,A,,,
+FRA,1950-09-03,,AS Nancy,FC Sète,2,2,D,,,
+FRA,1950-09-03,,Nîmes Olympique,Girondins Bordeaux,2,2,D,,,
+FRA,1950-09-03,,Stade Français FC,RC Strasbourg,0,0,D,,,
+FRA,1950-09-03,,Olympique Marseille,Toulouse FC,3,1,H,,,
+FRA,1950-09-03,,Stade Reims,Le Havre AC,2,0,H,,,
+FRA,1950-09-03,,AS Saint-Étienne,RC Lens,4,1,H,,,
+FRA,1950-09-10,,Stade Rennes,Toulouse FC,6,0,H,,,
+FRA,1950-09-10,,Girondins Bordeaux,Racing Club de France,0,3,A,,,
+FRA,1950-09-10,,Lille OSC,Olympique Marseille,2,1,H,,,
+FRA,1950-09-10,,RC Strasbourg,RC Roubaix,3,1,H,,,
+FRA,1950-09-10,,FC Sète,FC Sochaux,1,1,D,,,
+FRA,1950-09-10,,Nîmes Olympique,AS Nancy,3,0,H,,,
+FRA,1950-09-10,,Stade Français FC,Stade Reims,1,1,D,,,
+FRA,1950-09-10,,OGC Nice,AS Saint-Étienne,0,0,D,,,
+FRA,1950-09-10,,RC Lens,Le Havre AC,2,1,H,,,
+FRA,1950-09-17,,Racing Club de France,Stade Rennes,4,2,H,,,
+FRA,1950-09-17,,Olympique Marseille,RC Strasbourg,2,2,D,,,
+FRA,1950-09-17,,Stade Reims,Lille OSC,4,3,H,,,
+FRA,1950-09-17,,AS Nancy,Stade Français FC,2,1,H,,,
+FRA,1950-09-17,,Le Havre AC,FC Sète,1,0,H,,,
+FRA,1950-09-17,,AS Saint-Étienne,Nîmes Olympique,1,1,D,,,
+FRA,1950-09-17,,RC Roubaix,Girondins Bordeaux,1,1,D,,,
+FRA,1950-09-17,,FC Sochaux,OGC Nice,3,2,H,,,
+FRA,1950-09-17,,Toulouse FC,RC Lens,3,2,H,,,
+FRA,1950-09-21,,Lille OSC,Racing Club de France,1,1,D,,,
+FRA,1950-09-21,,Stade Rennes,FC Sète,2,0,H,,,
+FRA,1950-09-21,,RC Strasbourg,Toulouse FC,6,1,H,,,
+FRA,1950-09-21,,OGC Nice,Stade Reims,1,2,A,,,
+FRA,1950-09-21,,Nîmes Olympique,Olympique Marseille,2,1,H,,,
+FRA,1950-09-21,,Girondins Bordeaux,Le Havre AC,0,1,A,,,
+FRA,1950-09-21,,AS Saint-Étienne,AS Nancy,3,1,H,,,
+FRA,1950-09-21,,Stade Français FC,RC Roubaix,1,0,H,,,
+FRA,1950-09-21,,RC Lens,FC Sochaux,3,1,H,,,
+FRA,1950-09-24,,RC Lens,Stade Rennes,1,2,A,,,
+FRA,1950-09-24,,Racing Club de France,Stade Français FC,1,1,D,,,
+FRA,1950-09-24,,Le Havre AC,RC Strasbourg,0,1,A,,,
+FRA,1950-09-24,,Toulouse FC,Lille OSC,0,2,A,,,
+FRA,1950-09-24,,Stade Reims,AS Saint-Étienne,0,0,D,,,
+FRA,1950-09-24,,RC Roubaix,Nîmes Olympique,2,0,H,,,
+FRA,1950-09-24,,FC Sète,Girondins Bordeaux,1,0,H,,,
+FRA,1950-09-24,,FC Sochaux,AS Nancy,3,3,D,,,
+FRA,1950-09-24,,Olympique Marseille,OGC Nice,3,0,H,,,
+FRA,1950-10-01,,Racing Club de France,RC Strasbourg,2,4,A,,,
+FRA,1950-10-01,,Le Havre AC,Stade Rennes,3,1,H,,,
+FRA,1950-10-01,,Stade Reims,Nîmes Olympique,1,1,D,,,
+FRA,1950-10-01,,FC Sochaux,AS Saint-Étienne,0,2,A,,,
+FRA,1950-10-01,,RC Roubaix,Lille OSC,3,0,H,,,
+FRA,1950-10-01,,FC Sète,RC Lens,1,1,D,,,
+FRA,1950-10-01,,Olympique Marseille,Stade Français FC,0,0,D,,,
+FRA,1950-10-01,,Toulouse FC,Girondins Bordeaux,1,2,A,,,
+FRA,1950-10-01,,AS Nancy,OGC Nice,1,2,A,,,
+FRA,1950-10-08,,RC Strasbourg,FC Sète,1,0,H,,,
+FRA,1950-10-08,,Stade Rennes,FC Sochaux,2,1,H,,,
+FRA,1950-10-08,,AS Nancy,Stade Reims,0,2,A,,,
+FRA,1950-10-08,,Nîmes Olympique,Racing Club de France,4,2,H,,,
+FRA,1950-10-08,,Lille OSC,Le Havre AC,1,0,H,,,
+FRA,1950-10-08,,AS Saint-Étienne,Olympique Marseille,1,2,A,,,
+FRA,1950-10-08,,Girondins Bordeaux,RC Lens,4,0,H,,,
+FRA,1950-10-08,,Stade Français FC,Toulouse FC,1,2,A,,,
+FRA,1950-10-08,,OGC Nice,RC Roubaix,3,0,H,,,
+FRA,1950-10-15,,RC Lens,RC Strasbourg,1,1,D,,,
+FRA,1950-10-15,,Stade Rennes,Girondins Bordeaux,4,2,H,,,
+FRA,1950-10-15,,FC Sète,Lille OSC,1,1,D,,,
+FRA,1950-10-15,,FC Sochaux,Stade Reims,2,0,H,,,
+FRA,1950-10-15,,Racing Club de France,OGC Nice,0,3,A,,,
+FRA,1950-10-15,,Olympique Marseille,AS Nancy,2,1,H,,,
+FRA,1950-10-15,,Toulouse FC,Nîmes Olympique,1,1,D,,,
+FRA,1950-10-15,,Le Havre AC,Stade Français FC,3,0,H,,,
+FRA,1950-10-15,,RC Roubaix,AS Saint-Étienne,2,2,D,,,
+FRA,1950-10-22,,RC Strasbourg,Stade Rennes,1,0,H,,,
+FRA,1950-10-22,,Lille OSC,RC Lens,5,0,H,,,
+FRA,1950-10-22,,Nîmes Olympique,Le Havre AC,2,3,A,,,
+FRA,1950-10-22,,Stade Reims,Olympique Marseille,1,1,D,,,
+FRA,1950-10-22,,AS Saint-Étienne,Racing Club de France,2,1,H,,,
+FRA,1950-10-22,,Girondins Bordeaux,FC Sochaux,3,1,H,,,
+FRA,1950-10-22,,OGC Nice,Toulouse FC,2,1,H,,,
+FRA,1950-10-22,,Stade Français FC,FC Sète,3,2,H,,,
+FRA,1950-10-22,,AS Nancy,RC Roubaix,2,1,H,,,
+FRA,1950-10-29,,RC Strasbourg,Lille OSC,1,0,H,,,
+FRA,1950-10-29,,Stade Rennes,Nîmes Olympique,1,2,A,,,
+FRA,1950-10-29,,Toulouse FC,Stade Reims,1,3,A,,,
+FRA,1950-10-29,,Le Havre AC,AS Nancy,1,1,D,,,
+FRA,1950-10-29,,Girondins Bordeaux,Stade Français FC,4,1,H,,,
+FRA,1950-10-29,,Racing Club de France,Olympique Marseille,1,1,D,,,
+FRA,1950-10-29,,FC Sète,AS Saint-Étienne,4,1,H,,,
+FRA,1950-10-29,,RC Lens,OGC Nice,2,0,H,,,
+FRA,1950-10-29,,RC Roubaix,FC Sochaux,1,2,A,,,
+FRA,1950-11-05,,FC Sochaux,RC Strasbourg,5,0,H,,,
+FRA,1950-11-05,,Lille OSC,Girondins Bordeaux,3,0,H,,,
+FRA,1950-11-05,,Stade Reims,Racing Club de France,2,2,D,,,
+FRA,1950-11-05,,Stade Français FC,Stade Rennes,6,0,H,,,
+FRA,1950-11-05,,Nîmes Olympique,RC Lens,5,3,H,,,
+FRA,1950-11-05,,AS Saint-Étienne,Le Havre AC,1,0,H,,,
+FRA,1950-11-05,,Olympique Marseille,RC Roubaix,1,2,A,,,
+FRA,1950-11-05,,OGC Nice,FC Sète,2,1,H,,,
+FRA,1950-11-05,,AS Nancy,Toulouse FC,0,3,A,,,
+FRA,1950-11-11,,Racing Club de France,AS Nancy,2,0,H,,,
+FRA,1950-11-12,,Girondins Bordeaux,RC Strasbourg,3,0,H,,,
+FRA,1950-11-12,,Stade Rennes,Lille OSC,0,0,D,,,
+FRA,1950-11-12,,Le Havre AC,OGC Nice,4,1,H,,,
+FRA,1950-11-12,,FC Sète,Nîmes Olympique,1,1,D,,,
+FRA,1950-11-12,,RC Roubaix,Stade Reims,2,1,H,,,
+FRA,1950-11-12,,Toulouse FC,AS Saint-Étienne,3,2,H,,,
+FRA,1950-11-12,,RC Lens,Stade Français FC,5,0,H,,,
+FRA,1950-11-19,,RC Strasbourg,AS Saint-Étienne,2,6,A,,,
+FRA,1950-11-19,,Le Havre AC,Racing Club de France,2,0,H,,,
+FRA,1950-11-19,,Stade Français FC,Nîmes Olympique,2,3,A,,,
+FRA,1950-11-19,,Stade Rennes,Stade Reims,2,2,D,,,
+FRA,1950-11-19,,Lille OSC,OGC Nice,1,3,A,,,
+FRA,1950-11-19,,Girondins Bordeaux,AS Nancy,3,1,H,,,
+FRA,1950-11-19,,FC Sète,RC Roubaix,2,0,H,,,
+FRA,1950-11-19,,RC Lens,Olympique Marseille,1,1,D,,,
+FRA,1950-11-19,,Toulouse FC,FC Sochaux,0,2,A,,,
+FRA,1950-11-23,,FC Sochaux,Olympique Marseille,1,2,A,,,
+FRA,1950-11-26,,RC Roubaix,Le Havre AC,2,3,A,,,
+FRA,1950-11-26,,OGC Nice,RC Strasbourg,4,1,H,,,
+FRA,1950-11-26,,Nîmes Olympique,Lille OSC,2,4,A,,,
+FRA,1950-11-26,,Stade Reims,RC Lens,4,2,H,,,
+FRA,1950-11-26,,AS Saint-Étienne,Girondins Bordeaux,1,0,H,,,
+FRA,1950-11-26,,AS Nancy,Stade Rennes,3,2,H,,,
+FRA,1950-11-26,,Olympique Marseille,FC Sète,1,2,A,,,
+FRA,1950-11-26,,Racing Club de France,Toulouse FC,1,1,D,,,
+FRA,1950-11-26,,FC Sochaux,Stade Français FC,0,1,A,,,
+FRA,1950-12-03,,RC Strasbourg,Stade Reims,0,1,A,,,
+FRA,1950-12-03,,Lille OSC,AS Nancy,0,0,D,,,
+FRA,1950-12-03,,Stade Rennes,RC Roubaix,4,1,H,,,
+FRA,1950-12-03,,Nîmes Olympique,OGC Nice,1,1,D,,,
+FRA,1950-12-03,,Stade Français FC,AS Saint-Étienne,4,0,H,,,
+FRA,1950-12-03,,Girondins Bordeaux,Olympique Marseille,0,0,D,,,
+FRA,1950-12-03,,RC Lens,Racing Club de France,1,1,D,,,
+FRA,1950-12-03,,FC Sète,Toulouse FC,0,1,A,,,
+FRA,1950-12-05,,Le Havre AC,FC Sochaux,3,1,H,,,
+FRA,1950-12-17,,Toulouse FC,Le Havre AC,2,0,H,,,
+FRA,1950-12-17,,Stade Reims,Girondins Bordeaux,2,3,A,,,
+FRA,1950-12-17,,AS Saint-Étienne,Lille OSC,5,1,H,,,
+FRA,1950-12-17,,Olympique Marseille,Stade Rennes,1,1,D,,,
+FRA,1950-12-17,,AS Nancy,RC Strasbourg,2,1,H,,,
+FRA,1950-12-17,,Racing Club de France,FC Sète,3,2,H,,,
+FRA,1950-12-17,,OGC Nice,Stade Français FC,5,1,H,,,
+FRA,1950-12-17,,FC Sochaux,Nîmes Olympique,4,0,H,,,
+FRA,1950-12-17,,RC Roubaix,RC Lens,4,1,H,,,
+FRA,1950-12-24,,AS Saint-Étienne,Stade Rennes,3,0,H,,,
+FRA,1950-12-24,,Stade Reims,FC Sète,3,1,H,,,
+FRA,1950-12-24,,Stade Français FC,Lille OSC,0,2,A,,,
+FRA,1950-12-24,,Olympique Marseille,Le Havre AC,3,1,H,,,
+FRA,1950-12-24,,OGC Nice,Girondins Bordeaux,4,1,H,,,
+FRA,1950-12-24,,FC Sochaux,Racing Club de France,0,1,A,,,
+FRA,1950-12-24,,Nîmes Olympique,RC Strasbourg,1,0,H,,,
+FRA,1950-12-24,,AS Nancy,RC Lens,4,2,H,,,
+FRA,1950-12-24,,RC Roubaix,Toulouse FC,3,2,H,,,
+FRA,1950-12-31,,RC Lens,AS Saint-Étienne,2,3,A,,,
+FRA,1950-12-31,,Lille OSC,FC Sochaux,2,1,H,,,
+FRA,1950-12-31,,Le Havre AC,Stade Reims,3,0,H,,,
+FRA,1950-12-31,,Stade Rennes,OGC Nice,3,1,H,,,
+FRA,1950-12-31,,Toulouse FC,Olympique Marseille,0,4,A,,,
+FRA,1950-12-31,,Girondins Bordeaux,Nîmes Olympique,2,1,H,,,
+FRA,1950-12-31,,RC Strasbourg,Stade Français FC,2,1,H,,,
+FRA,1950-12-31,,Racing Club de France,RC Roubaix,1,2,A,,,
+FRA,1950-12-31,,FC Sète,AS Nancy,2,1,H,,,
+FRA,1951-01-07,,AS Saint-Étienne,OGC Nice,3,2,H,,,
+FRA,1951-01-07,,Le Havre AC,RC Lens,4,1,H,,,
+FRA,1951-01-07,,Olympique Marseille,Lille OSC,1,1,D,,,
+FRA,1951-01-07,,Stade Reims,Stade Français FC,2,0,H,,,
+FRA,1951-01-07,,Toulouse FC,Stade Rennes,0,1,A,,,
+FRA,1951-01-07,,RC Roubaix,RC Strasbourg,0,1,A,,,
+FRA,1951-01-07,,Racing Club de France,Girondins Bordeaux,1,0,H,,,
+FRA,1951-01-07,,AS Nancy,Nîmes Olympique,3,0,H,,,
+FRA,1951-01-07,,FC Sochaux,FC Sète,1,0,H,,,
+FRA,1951-01-21,,FC Sète,Le Havre AC,1,2,A,,,
+FRA,1951-01-21,,Nîmes Olympique,AS Saint-Étienne,1,0,H,,,
+FRA,1951-01-21,,Lille OSC,Stade Reims,1,1,D,,,
+FRA,1951-01-21,,Stade Rennes,Racing Club de France,3,4,A,,,
+FRA,1951-01-21,,RC Strasbourg,Olympique Marseille,2,2,D,,,
+FRA,1951-01-21,,OGC Nice,FC Sochaux,2,1,H,,,
+FRA,1951-01-21,,Girondins Bordeaux,RC Roubaix,2,2,D,,,
+FRA,1951-01-21,,Stade Français FC,AS Nancy,1,4,A,,,
+FRA,1951-01-21,,RC Lens,Toulouse FC,2,2,D,,,
+FRA,1951-01-28,,Le Havre AC,Girondins Bordeaux,2,2,D,,,
+FRA,1951-01-28,,Racing Club de France,Lille OSC,2,0,H,,,
+FRA,1951-01-28,,AS Nancy,AS Saint-Étienne,4,2,H,,,
+FRA,1951-01-28,,FC Sète,Stade Rennes,1,2,A,,,
+FRA,1951-01-28,,Stade Reims,OGC Nice,2,4,A,,,
+FRA,1951-01-28,,Olympique Marseille,Nîmes Olympique,1,1,D,,,
+FRA,1951-01-28,,Toulouse FC,RC Strasbourg,1,0,H,,,
+FRA,1951-01-28,,RC Roubaix,Stade Français FC,3,1,H,,,
+FRA,1951-01-28,,FC Sochaux,RC Lens,3,2,H,,,
+FRA,1951-02-11,,RC Strasbourg,Le Havre AC,1,4,A,,,
+FRA,1951-02-11,,Stade Français FC,Racing Club de France,0,3,A,,,
+FRA,1951-02-11,,AS Saint-Étienne,Stade Reims,1,1,D,,,
+FRA,1951-02-11,,Stade Rennes,RC Lens,1,2,A,,,
+FRA,1951-02-11,,OGC Nice,Olympique Marseille,2,2,D,,,
+FRA,1951-02-11,,Girondins Bordeaux,FC Sète,4,0,H,,,
+FRA,1951-02-11,,Lille OSC,Toulouse FC,1,2,A,,,
+FRA,1951-02-11,,Nîmes Olympique,RC Roubaix,2,1,H,,,
+FRA,1951-02-11,,AS Nancy,FC Sochaux,3,4,A,,,
+FRA,1951-02-18,,Stade Rennes,Le Havre AC,0,4,A,,,
+FRA,1951-02-18,,AS Saint-Étienne,FC Sochaux,3,0,H,,,
+FRA,1951-02-18,,RC Strasbourg,Racing Club de France,3,0,H,,,
+FRA,1951-02-18,,OGC Nice,AS Nancy,5,0,H,,,
+FRA,1951-02-18,,Stade Français FC,Olympique Marseille,2,4,A,,,
+FRA,1951-02-18,,Girondins Bordeaux,Toulouse FC,3,1,H,,,
+FRA,1951-02-18,,Nîmes Olympique,Stade Reims,3,0,H,,,
+FRA,1951-02-18,,Lille OSC,RC Roubaix,0,1,A,,,
+FRA,1951-02-18,,RC Lens,FC Sète,3,0,H,,,
+FRA,1951-03-04,,Le Havre AC,Lille OSC,0,1,A,,,
+FRA,1951-03-04,,Olympique Marseille,AS Saint-Étienne,7,0,H,,,
+FRA,1951-03-04,,Racing Club de France,Nîmes Olympique,0,2,A,,,
+FRA,1951-03-04,,RC Roubaix,OGC Nice,0,0,D,,,
+FRA,1951-03-04,,RC Lens,Girondins Bordeaux,1,1,D,,,
+FRA,1951-03-04,,Stade Reims,AS Nancy,2,2,D,,,
+FRA,1951-03-04,,FC Sète,RC Strasbourg,2,1,H,,,
+FRA,1951-03-04,,FC Sochaux,Stade Rennes,2,2,D,,,
+FRA,1951-03-04,,Toulouse FC,Stade Français FC,0,0,D,,,
+FRA,1951-03-11,,Stade Français FC,Le Havre AC,1,0,H,,,
+FRA,1951-03-11,,Nîmes Olympique,Toulouse FC,3,1,H,,,
+FRA,1951-03-11,,AS Saint-Étienne,RC Roubaix,3,0,H,,,
+FRA,1951-03-11,,OGC Nice,Racing Club de France,3,0,H,,,
+FRA,1951-03-11,,AS Nancy,Olympique Marseille,5,1,H,,,
+FRA,1951-03-11,,Girondins Bordeaux,Stade Rennes,1,1,D,,,
+FRA,1951-03-11,,Lille OSC,FC Sète,3,1,H,,,
+FRA,1951-03-11,,Stade Reims,FC Sochaux,3,1,H,,,
+FRA,1951-03-11,,RC Strasbourg,RC Lens,1,1,D,,,
+FRA,1951-03-24,,Racing Club de France,AS Saint-Étienne,2,2,D,,,
+FRA,1951-03-24,,Stade Rennes,RC Strasbourg,2,4,A,,,
+FRA,1951-03-24,,RC Roubaix,AS Nancy,3,0,H,,,
+FRA,1951-03-25,,Le Havre AC,Nîmes Olympique,2,4,A,,,
+FRA,1951-03-25,,Toulouse FC,OGC Nice,0,1,A,,,
+FRA,1951-03-25,,Olympique Marseille,Stade Reims,0,2,A,,,
+FRA,1951-03-25,,FC Sochaux,Girondins Bordeaux,1,0,H,,,
+FRA,1951-03-25,,RC Lens,Lille OSC,2,1,H,,,
+FRA,1951-03-25,,FC Sète,Stade Français FC,2,0,H,,,
+FRA,1951-04-01,,Nîmes Olympique,Stade Rennes,3,0,H,,,
+FRA,1951-04-01,,OGC Nice,RC Lens,5,0,H,,,
+FRA,1951-04-01,,Stade Reims,Toulouse FC,4,1,H,,,
+FRA,1951-04-01,,AS Nancy,Le Havre AC,6,1,H,,,
+FRA,1951-04-01,,AS Saint-Étienne,FC Sète,0,2,A,,,
+FRA,1951-04-01,,Olympique Marseille,Racing Club de France,4,2,H,,,
+FRA,1951-04-01,,Stade Français FC,Girondins Bordeaux,1,2,A,,,
+FRA,1951-04-01,,Lille OSC,RC Strasbourg,3,1,H,,,
+FRA,1951-04-01,,FC Sochaux,RC Roubaix,1,1,D,,,
+FRA,1951-04-07,,RC Roubaix,Olympique Marseille,1,1,D,,,
+FRA,1951-04-08,,RC Lens,Nîmes Olympique,4,2,H,,,
+FRA,1951-04-08,,FC Sète,OGC Nice,2,1,H,,,
+FRA,1951-04-08,,Le Havre AC,AS Saint-Étienne,4,1,H,,,
+FRA,1951-04-08,,Racing Club de France,Stade Reims,0,0,D,,,
+FRA,1951-04-08,,Girondins Bordeaux,Lille OSC,1,3,A,,,
+FRA,1951-04-08,,RC Strasbourg,FC Sochaux,2,0,H,,,
+FRA,1951-04-08,,Stade Rennes,Stade Français FC,1,3,A,,,
+FRA,1951-04-08,,Toulouse FC,AS Nancy,3,0,H,,,
+FRA,1951-04-15,,Lille OSC,Nîmes Olympique,1,0,H,,,
+FRA,1951-04-21,,Stade Français FC,RC Lens,2,2,D,,,
+FRA,1951-04-22,,Lille OSC,Stade Rennes,2,0,H,,,
+FRA,1951-04-22,,Nîmes Olympique,FC Sète,1,0,H,,,
+FRA,1951-04-22,,Stade Reims,RC Roubaix,3,1,H,,,
+FRA,1951-04-22,,OGC Nice,Le Havre AC,0,0,D,,,
+FRA,1951-04-22,,AS Saint-Étienne,Toulouse FC,4,0,H,,,
+FRA,1951-04-22,,Olympique Marseille,FC Sochaux,0,0,D,,,
+FRA,1951-04-22,,RC Strasbourg,Girondins Bordeaux,0,2,A,,,
+FRA,1951-04-22,,AS Nancy,Racing Club de France,0,1,A,,,
+FRA,1951-04-29,,Nîmes Olympique,Stade Français FC,6,2,H,,,
+FRA,1951-04-29,,OGC Nice,Lille OSC,4,1,H,,,
+FRA,1951-04-29,,Racing Club de France,Le Havre AC,2,3,A,,,
+FRA,1951-04-29,,Stade Reims,Stade Rennes,0,1,A,,,
+FRA,1951-04-29,,Olympique Marseille,RC Lens,3,0,H,,,
+FRA,1951-04-29,,AS Saint-Étienne,RC Strasbourg,1,1,D,,,
+FRA,1951-04-29,,AS Nancy,Girondins Bordeaux,2,2,D,,,
+FRA,1951-04-29,,RC Roubaix,FC Sète,6,0,H,,,
+FRA,1951-04-29,,FC Sochaux,Toulouse FC,2,1,H,,,
+FRA,1951-05-05,,Stade Rennes,AS Nancy,3,5,A,,,
+FRA,1951-05-05,,Stade Français FC,FC Sochaux,0,3,A,,,
+FRA,1951-05-06,,Le Havre AC,RC Roubaix,1,0,H,,,
+FRA,1951-05-06,,Girondins Bordeaux,AS Saint-Étienne,1,0,H,,,
+FRA,1951-05-06,,RC Lens,Stade Reims,2,1,H,,,
+FRA,1951-05-06,,FC Sète,Olympique Marseille,3,1,H,,,
+FRA,1951-05-06,,Toulouse FC,Racing Club de France,1,0,H,,,
+FRA,1951-05-13,,RC Strasbourg,OGC Nice,2,1,H,,,
+FRA,1951-05-20,,OGC Nice,Nîmes Olympique,2,0,H,,,
+FRA,1951-05-20,,FC Sochaux,Le Havre AC,1,0,H,,,
+FRA,1951-05-20,,AS Nancy,Lille OSC,1,2,A,,,
+FRA,1951-05-20,,Stade Reims,RC Strasbourg,3,1,H,,,
+FRA,1951-05-20,,Olympique Marseille,Girondins Bordeaux,3,3,D,,,
+FRA,1951-05-20,,AS Saint-Étienne,Stade Français FC,3,0,H,,,
+FRA,1951-05-20,,Racing Club de France,RC Lens,1,3,A,,,
+FRA,1951-05-20,,RC Roubaix,Stade Rennes,3,0,H,,,
+FRA,1951-05-20,,Toulouse FC,FC Sète,0,0,D,,,
+FRA,1951-05-27,,Stade Français FC,OGC Nice,0,4,A,,,
+FRA,1951-05-27,,Lille OSC,AS Saint-Étienne,4,3,H,,,
+FRA,1951-05-27,,Le Havre AC,Toulouse FC,2,2,D,,,
+FRA,1951-05-27,,Nîmes Olympique,FC Sochaux,3,3,D,,,
+FRA,1951-05-27,,Girondins Bordeaux,Stade Reims,2,4,A,,,
+FRA,1951-05-27,,Stade Rennes,Olympique Marseille,2,1,H,,,
+FRA,1951-05-27,,RC Strasbourg,AS Nancy,1,5,A,,,
+FRA,1951-05-27,,RC Lens,RC Roubaix,4,4,D,,,
+FRA,1951-05-27,,FC Sète,Racing Club de France,5,1,H,,,

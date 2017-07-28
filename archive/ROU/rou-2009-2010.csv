@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,2009-07-31,16:30,International Curtea de Arges,Oţelul Galaţi,0,1,A,0,0,D
+ROM,2009-07-31,18:30,Rapid Bucureşti,Politehnica Iasi,4,1,H,1,0,H
+ROM,2009-08-01,16:00,FC Unirea Alba Iulia,FC Braşov,0,1,A,0,1,A
+ROM,2009-08-01,17:30,FC Timişoara,Gloria Bistrita,1,0,H,0,0,D
+ROM,2009-08-01,18:30,CFR Cluj,FC Unirea,2,0,H,1,0,H
+ROM,2009-08-01,19:30,FC Universitatea Craiova,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,2009-08-02,16:30,Astra Ploieşti,Pandurii Târgu Jiu,0,1,A,0,0,D
+ROM,2009-08-02,18:45,Ceahlăul Piatra Neamt,Steaua Bucureşti,0,2,A,0,0,D
+ROM,2009-08-07,16:00,Gaz Metan Mediaş,FC Universitatea Craiova,2,1,H,0,1,A
+ROM,2009-08-07,18:00,Dinamo Bucureşti,International Curtea de Arges,0,1,A,0,0,D
+ROM,2009-08-08,16:30,FC Braşov,Astra Ploieşti,0,0,D,0,0,D
+ROM,2009-08-08,17:00,Pandurii Târgu Jiu,FC Vaslui,1,0,H,1,0,H
+ROM,2009-08-08,19:00,FC Unirea,Rapid Bucureşti,1,0,H,1,0,H
+ROM,2009-08-08,19:00,Gloria Bistrita,FC Unirea Alba Iulia,1,1,D,0,0,D
+ROM,2009-08-09,16:00,Oţelul Galaţi,Ceahlăul Piatra Neamt,0,0,D,0,0,D
+ROM,2009-08-09,17:00,Politehnica Iasi,FC Timişoara,1,1,D,0,0,D
+ROM,2009-08-09,18:45,Steaua Bucureşti,CFR Cluj,2,2,D,1,1,D
+ROM,2009-08-12,17:00,FC Vaslui,Gaz Metan Mediaş,2,1,H,1,0,H
+ROM,2009-08-14,16:00,FC Unirea Alba Iulia,Politehnica Iasi,2,1,H,0,1,A
+ROM,2009-08-14,18:30,FC Timişoara,Rapid Bucureşti,1,0,H,1,0,H
+ROM,2009-08-15,16:00,Astra Ploieşti,Gloria Bistrita,0,0,D,0,0,D
+ROM,2009-08-15,17:15,CFR Cluj,Oţelul Galaţi,1,0,H,0,0,D
+ROM,2009-08-15,19:15,Ceahlăul Piatra Neamt,Dinamo Bucureşti,0,4,A,0,2,A
+ROM,2009-08-16,16:00,International Curtea de Arges,Gaz Metan Mediaş,2,4,A,1,0,H
+ROM,2009-08-16,16:00,FC Universitatea Craiova,Pandurii Târgu Jiu,2,0,H,2,0,H
+ROM,2009-08-16,17:00,FC Vaslui,FC Braşov,2,2,D,0,1,A
+ROM,2009-08-16,18:45,Steaua Bucureşti,FC Unirea,0,1,A,0,0,D
+ROM,2009-08-21,16:00,FC Braşov,FC Universitatea Craiova,2,0,H,1,0,H
+ROM,2009-08-21,18:00,Rapid Bucureşti,FC Unirea Alba Iulia,2,0,H,1,0,H
+ROM,2009-08-21,18:30,Politehnica Iasi,Astra Ploieşti,2,0,H,2,0,H
+ROM,2009-08-22,15:30,Gaz Metan Mediaş,Ceahlăul Piatra Neamt,0,2,A,0,1,A
+ROM,2009-08-22,17:30,FC Unirea,FC Timişoara,0,0,D,0,0,D
+ROM,2009-08-23,15:00,Oţelul Galaţi,Steaua Bucureşti,0,1,A,0,0,D
+ROM,2009-08-23,17:00,Gloria Bistrita,FC Vaslui,1,3,A,1,0,H
+ROM,2009-08-23,18:30,Pandurii Târgu Jiu,International Curtea de Arges,2,3,A,0,0,D
+ROM,2009-08-23,18:45,Dinamo Bucureşti,CFR Cluj,1,0,H,0,0,D
+ROM,2009-08-28,15:30,Oţelul Galaţi,FC Unirea,1,4,A,1,2,A
+ROM,2009-08-28,18:30,International Curtea de Arges,FC Braşov,0,3,A,0,3,A
+ROM,2009-08-29,17:00,Ceahlăul Piatra Neamt,Pandurii Târgu Jiu,1,2,A,1,1,D
+ROM,2009-08-29,17:30,FC Universitatea Craiova,Gloria Bistrita,5,1,H,2,0,H
+ROM,2009-08-29,19:30,Astra Ploieşti,Rapid Bucureşti,3,1,H,2,1,H
+ROM,2009-08-30,16:00,FC Unirea Alba Iulia,FC Timişoara,3,3,D,1,2,A
+ROM,2009-08-30,17:00,CFR Cluj,Gaz Metan Mediaş,2,0,H,0,0,D
+ROM,2009-08-30,18:00,FC Vaslui,Politehnica Iasi,2,1,H,0,0,D
+ROM,2009-08-30,18:45,Steaua Bucureşti,Dinamo Bucureşti,0,1,A,0,1,A
+ROM,2009-09-11,18:00,Pandurii Târgu Jiu,CFR Cluj,1,0,H,0,0,D
+ROM,2009-09-11,19:30,FC Braşov,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+ROM,2009-09-12,15:00,FC Unirea,FC Unirea Alba Iulia,1,0,H,1,0,H
+ROM,2009-09-12,17:00,Dinamo Bucureşti,Oţelul Galaţi,0,1,A,0,1,A
+ROM,2009-09-12,17:30,Gloria Bistrita,International Curtea de Arges,0,1,A,0,1,A
+ROM,2009-09-13,16:00,Rapid Bucureşti,FC Vaslui,3,2,H,1,1,D
+ROM,2009-09-13,18:00,Gaz Metan Mediaş,Steaua Bucureşti,2,4,A,2,1,H
+ROM,2009-09-13,19:00,FC Timişoara,Astra Ploieşti,0,0,D,0,0,D
+ROM,2009-09-14,18:00,Politehnica Iasi,FC Universitatea Craiova,1,0,H,0,0,D
+ROM,2009-09-18,17:00,International Curtea de Arges,Politehnica Iasi,0,2,A,0,2,A
+ROM,2009-09-18,19:00,Astra Ploieşti,FC Unirea Alba Iulia,4,2,H,2,1,H
+ROM,2009-09-19,15:00,Oţelul Galaţi,Gaz Metan Mediaş,0,1,A,0,0,D
+ROM,2009-09-19,17:00,Ceahlăul Piatra Neamt,Gloria Bistrita,2,1,H,0,1,A
+ROM,2009-09-19,19:00,FC Universitatea Craiova,Rapid Bucureşti,3,4,A,2,2,D
+ROM,2009-09-20,14:00,Steaua Bucureşti,Pandurii Târgu Jiu,1,0,H,0,0,D
+ROM,2009-09-20,16:00,CFR Cluj,FC Braşov,2,1,H,2,1,H
+ROM,2009-09-20,18:00,Dinamo Bucureşti,FC Unirea,2,1,H,0,1,A
+ROM,2009-09-20,19:45,FC Vaslui,FC Timişoara,0,1,A,0,0,D
+ROM,2009-09-25,18:00,FC Unirea,Astra Ploieşti,4,1,H,1,0,H
+ROM,2009-09-26,14:00,Gaz Metan Mediaş,Dinamo Bucureşti,1,0,H,0,0,D
+ROM,2009-09-26,15:00,FC Unirea Alba Iulia,FC Vaslui,2,0,H,1,0,H
+ROM,2009-09-26,16:00,Politehnica Iasi,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,2009-09-26,19:00,FC Timişoara,FC Universitatea Craiova,1,1,D,0,1,A
+ROM,2009-09-27,14:00,Pandurii Târgu Jiu,Oţelul Galaţi,2,3,A,2,1,H
+ROM,2009-09-27,16:00,Gloria Bistrita,CFR Cluj,0,2,A,0,1,A
+ROM,2009-09-27,18:00,FC Braşov,Steaua Bucureşti,0,0,D,0,0,D
+ROM,2009-09-27,19:45,Rapid Bucureşti,International Curtea de Arges,4,0,H,2,0,H
+ROM,2009-10-02,14:00,Oţelul Galaţi,FC Braşov,1,1,D,0,1,A
+ROM,2009-10-02,19:45,Ceahlăul Piatra Neamt,Rapid Bucureşti,0,4,A,0,2,A
+ROM,2009-10-03,16:00,FC Vaslui,Astra Ploieşti,3,1,H,2,1,H
+ROM,2009-10-03,18:00,Gaz Metan Mediaş,FC Unirea,0,0,D,0,0,D
+ROM,2009-10-03,19:45,FC Universitatea Craiova,FC Unirea Alba Iulia,3,1,H,2,1,H
+ROM,2009-10-04,16:00,Steaua Bucureşti,Gloria Bistrita,1,1,D,1,1,D
+ROM,2009-10-04,18:00,Dinamo Bucureşti,Pandurii Târgu Jiu,1,1,D,1,0,H
+ROM,2009-10-04,19:45,CFR Cluj,Politehnica Iasi,1,1,D,1,0,H
+ROM,2009-10-05,16:00,International Curtea de Arges,FC Timişoara,0,3,A,0,0,D
+ROM,2009-10-16,13:00,FC Unirea Alba Iulia,International Curtea de Arges,1,2,A,1,0,H
+ROM,2009-10-16,16:30,FC Unirea,FC Vaslui,1,2,A,1,0,H
+ROM,2009-10-17,13:00,Pandurii Târgu Jiu,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,2009-10-17,16:00,Rapid Bucureşti,CFR Cluj,1,4,A,1,2,A
+ROM,2009-10-17,19:00,FC Timişoara,Ceahlăul Piatra Neamt,6,0,H,2,0,H
+ROM,2009-10-18,12:00,Gloria Bistrita,Oţelul Galaţi,2,1,H,0,1,A
+ROM,2009-10-18,14:00,Astra Ploieşti,FC Universitatea Craiova,3,1,H,2,0,H
+ROM,2009-10-18,16:00,FC Braşov,Dinamo Bucureşti,0,1,A,0,1,A
+ROM,2009-10-18,18:00,Politehnica Iasi,Steaua Bucureşti,0,2,A,0,0,D
+ROM,2009-10-23,13:00,Oţelul Galaţi,Politehnica Iasi,4,0,H,1,0,H
+ROM,2009-10-23,18:00,Gaz Metan Mediaş,FC Braşov,1,1,D,0,1,A
+ROM,2009-10-24,14:00,Ceahlăul Piatra Neamt,FC Unirea Alba Iulia,1,1,D,1,0,H
+ROM,2009-10-24,16:15,FC Universitatea Craiova,FC Vaslui,1,2,A,0,1,A
+ROM,2009-10-24,18:00,Pandurii Târgu Jiu,FC Unirea,0,0,D,0,0,D
+ROM,2009-10-25,14:00,International Curtea de Arges,Astra Ploieşti,2,1,H,1,1,D
+ROM,2009-10-25,16:00,Dinamo Bucureşti,Gloria Bistrita,1,1,D,1,0,H
+ROM,2009-10-25,18:00,Steaua Bucureşti,Rapid Bucureşti,1,1,D,0,1,A
+ROM,2009-10-25,19:45,CFR Cluj,FC Timişoara,0,0,D,0,0,D
+ROM,2009-10-31,16:00,Astra Ploieşti,Ceahlăul Piatra Neamt,1,1,D,0,0,D
+ROM,2009-10-31,19:30,FC Unirea,FC Universitatea Craiova,3,2,H,1,0,H
+ROM,2009-11-01,12:00,FC Unirea Alba Iulia,CFR Cluj,1,1,D,0,0,D
+ROM,2009-11-01,14:00,FC Vaslui,International Curtea de Arges,1,0,H,1,0,H
+ROM,2009-11-01,16:00,Rapid Bucureşti,Oţelul Galaţi,3,0,H,1,0,H
+ROM,2009-11-01,18:00,Politehnica Iasi,Dinamo Bucureşti,1,3,A,1,1,D
+ROM,2009-11-01,19:45,FC Timişoara,Steaua Bucureşti,0,1,A,0,0,D
+ROM,2009-11-02,16:00,Gloria Bistrita,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,2009-11-02,18:00,FC Braşov,Pandurii Târgu Jiu,2,0,H,1,0,H
+ROM,2009-11-06,14:00,Pandurii Târgu Jiu,Gloria Bistrita,1,1,D,0,1,A
+ROM,2009-11-06,18:30,International Curtea de Arges,FC Universitatea Craiova,0,1,A,0,1,A
+ROM,2009-11-07,13:00,Gaz Metan Mediaş,Politehnica Iasi,2,1,H,1,1,D
+ROM,2009-11-07,17:00,Ceahlăul Piatra Neamt,FC Vaslui,0,1,A,0,1,A
+ROM,2009-11-07,19:15,FC Braşov,FC Unirea,0,0,D,0,0,D
+ROM,2009-11-08,12:00,Oţelul Galaţi,FC Timişoara,3,3,D,2,0,H
+ROM,2009-11-08,16:00,CFR Cluj,Astra Ploieşti,1,0,H,0,0,D
+ROM,2009-11-08,18:00,Dinamo Bucureşti,Rapid Bucureşti,1,1,D,0,1,A
+ROM,2009-11-09,18:30,Steaua Bucureşti,FC Unirea Alba Iulia,2,0,H,0,0,D
+ROM,2009-11-20,12:00,FC Unirea Alba Iulia,Oţelul Galaţi,3,1,H,0,0,D
+ROM,2009-11-20,18:00,Rapid Bucureşti,Gaz Metan Mediaş,4,1,H,1,0,H
+ROM,2009-11-21,13:30,International Curtea de Arges,FC Unirea,1,2,A,0,2,A
+ROM,2009-11-22,15:00,Gloria Bistrita,FC Braşov,2,1,H,1,1,D
+ROM,2009-11-23,12:00,FC Universitatea Craiova,Ceahlăul Piatra Neamt,3,2,H,2,1,H
+ROM,2009-11-23,14:00,Astra Ploieşti,Steaua Bucureşti,2,1,H,0,1,A
+ROM,2009-11-23,16:00,FC Vaslui,CFR Cluj,2,0,H,1,0,H
+ROM,2009-11-23,18:45,FC Timişoara,Dinamo Bucureşti,2,0,H,0,0,D
+ROM,2009-11-24,15:00,Politehnica Iasi,Pandurii Târgu Jiu,1,0,H,1,0,H
+ROM,2009-11-28,14:00,Ceahlăul Piatra Neamt,International Curtea de Arges,2,2,D,1,1,D
+ROM,2009-11-28,16:00,Dinamo Bucureşti,FC Unirea Alba Iulia,2,0,H,1,0,H
+ROM,2009-11-28,18:00,CFR Cluj,FC Universitatea Craiova,2,0,H,0,0,D
+ROM,2009-11-29,12:00,Pandurii Târgu Jiu,Rapid Bucureşti,1,1,D,0,1,A
+ROM,2009-11-29,14:00,Gaz Metan Mediaş,FC Timişoara,2,6,A,2,2,D
+ROM,2009-11-29,18:00,Steaua Bucureşti,FC Vaslui,2,1,H,0,1,A
+ROM,2009-11-30,16:00,FC Braşov,Politehnica Iasi,2,0,H,0,0,D
+ROM,2009-11-30,18:00,FC Unirea,Gloria Bistrita,2,0,H,1,0,H
+ROM,2009-12-01,12:00,Oţelul Galaţi,Astra Ploieşti,3,2,H,1,0,H
+ROM,2009-12-04,18:30,Ceahlăul Piatra Neamt,FC Unirea,2,3,A,2,1,H
+ROM,2009-12-05,13:00,Politehnica Iasi,Gloria Bistrita,0,0,D,0,0,D
+ROM,2009-12-05,18:00,Rapid Bucureşti,FC Braşov,2,1,H,1,0,H
+ROM,2009-12-06,12:00,FC Unirea Alba Iulia,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,2009-12-06,14:00,FC Vaslui,Oţelul Galaţi,1,1,D,1,1,D
+ROM,2009-12-06,16:00,FC Timişoara,Pandurii Târgu Jiu,1,0,H,1,0,H
+ROM,2009-12-07,17:00,International Curtea de Arges,CFR Cluj,0,1,A,0,0,D
+ROM,2009-12-07,18:45,FC Universitatea Craiova,Steaua Bucureşti,1,2,A,1,1,D
+ROM,2009-12-08,18:00,Astra Ploieşti,Dinamo Bucureşti,1,1,D,0,0,D
+ROM,2009-12-11,16:00,Pandurii Târgu Jiu,FC Unirea Alba Iulia,2,0,H,1,0,H
+ROM,2009-12-11,18:00,Gloria Bistrita,Rapid Bucureşti,1,1,D,0,1,A
+ROM,2009-12-12,12:00,Oţelul Galaţi,FC Universitatea Craiova,1,0,H,1,0,H
+ROM,2009-12-12,16:00,CFR Cluj,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,2009-12-13,12:00,Gaz Metan Mediaş,Astra Ploieşti,0,0,D,0,0,D
+ROM,2009-12-13,14:00,Steaua Bucureşti,International Curtea de Arges,3,2,H,2,1,H
+ROM,2009-12-13,16:00,FC Braşov,FC Timişoara,1,0,H,0,0,D
+ROM,2009-12-13,18:00,Dinamo Bucureşti,FC Vaslui,1,1,D,0,0,D
+ROM,2009-12-14,18:30,FC Unirea,Politehnica Iasi,2,0,H,0,0,D
+ROM,2010-02-19,12:00,Oţelul Galaţi,International Curtea de Arges,1,0,H,0,0,D
+ROM,2010-02-20,11:30,FC Braşov,FC Unirea Alba Iulia,2,1,H,1,1,D
+ROM,2010-02-20,13:15,Gloria Bistrita,FC Timişoara,0,0,D,0,0,D
+ROM,2010-02-20,17:00,Politehnica Iasi,Rapid Bucureşti,2,1,H,0,0,D
+ROM,2010-02-20,18:30,Steaua Bucureşti,Ceahlăul Piatra Neamt,1,3,A,1,1,D
+ROM,2010-02-21,12:00,Gaz Metan Mediaş,FC Vaslui,0,0,D,0,0,D
+ROM,2010-02-21,14:00,Pandurii Târgu Jiu,Astra Ploieşti,0,2,A,0,0,D
+ROM,2010-02-21,17:30,Dinamo Bucureşti,FC Universitatea Craiova,2,1,H,2,1,H
+ROM,2010-02-22,15:30,FC Unirea,CFR Cluj,0,1,A,0,1,A
+ROM,2010-02-26,12:00,FC Unirea Alba Iulia,Gloria Bistrita,1,2,A,1,1,D
+ROM,2010-02-26,15:00,Ceahlăul Piatra Neamt,Oţelul Galaţi,0,1,A,0,1,A
+ROM,2010-02-26,18:30,FC Timişoara,Politehnica Iasi,2,1,H,0,1,A
+ROM,2010-02-27,12:00,FC Universitatea Craiova,Gaz Metan Mediaş,1,2,A,0,1,A
+ROM,2010-02-27,15:00,FC Vaslui,Pandurii Târgu Jiu,2,1,H,1,0,H
+ROM,2010-02-27,17:00,International Curtea de Arges,Dinamo Bucureşti,1,3,A,1,0,H
+ROM,2010-02-28,13:00,Astra Ploieşti,FC Braşov,2,1,H,1,0,H
+ROM,2010-02-28,15:00,Rapid Bucureşti,FC Unirea,1,1,D,1,1,D
+ROM,2010-02-28,18:30,CFR Cluj,Steaua Bucureşti,1,1,D,1,1,D
+ROM,2010-03-05,18:30,Rapid Bucureşti,FC Timişoara,0,3,A,1,0,H
+ROM,2010-03-06,13:00,Gloria Bistrita,Astra Ploieşti,3,1,H,1,0,H
+ROM,2010-03-06,16:30,Dinamo Bucureşti,Ceahlăul Piatra Neamt,1,1,D,1,0,H
+ROM,2010-03-07,13:00,Gaz Metan Mediaş,International Curtea de Arges,0,0,D,0,0,D
+ROM,2010-03-07,13:00,Oţelul Galaţi,CFR Cluj,1,0,H,1,0,H
+ROM,2010-03-07,15:00,Politehnica Iasi,FC Unirea Alba Iulia,1,0,H,1,0,H
+ROM,2010-03-07,18:30,FC Unirea,Steaua Bucureşti,2,2,D,1,1,D
+ROM,2010-03-08,15:00,FC Braşov,FC Vaslui,1,1,D,0,1,A
+ROM,2010-03-08,18:00,Pandurii Târgu Jiu,FC Universitatea Craiova,0,0,D,0,0,D
+ROM,2010-03-12,13:00,Ceahlăul Piatra Neamt,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,2010-03-12,17:00,Astra Ploieşti,Politehnica Iasi,1,1,D,0,0,D
+ROM,2010-03-12,18:30,Steaua Bucureşti,Oţelul Galaţi,1,0,H,1,0,H
+ROM,2010-03-13,13:00,FC Universitatea Craiova,FC Braşov,3,0,H,3,0,H
+ROM,2010-03-13,15:00,International Curtea de Arges,Pandurii Târgu Jiu,0,0,D,0,0,D
+ROM,2010-03-13,18:00,CFR Cluj,Dinamo Bucureşti,2,2,D,0,1,A
+ROM,2010-03-14,12:00,FC Unirea Alba Iulia,Rapid Bucureşti,0,1,A,0,1,A
+ROM,2010-03-14,14:00,FC Vaslui,Gloria Bistrita,0,1,A,0,1,A
+ROM,2010-03-14,16:00,FC Timişoara,FC Unirea,0,0,D,0,0,D
+ROM,2010-03-16,16:00,FC Braşov,International Curtea de Arges,1,2,A,1,1,D
+ROM,2010-03-17,13:00,Pandurii Târgu Jiu,Ceahlăul Piatra Neamt,0,0,D,0,0,D
+ROM,2010-03-17,14:30,Gloria Bistrita,FC Universitatea Craiova,2,1,H,1,1,D
+ROM,2010-03-17,16:30,Gaz Metan Mediaş,CFR Cluj,0,0,D,0,0,D
+ROM,2010-03-17,18:30,Dinamo Bucureşti,Steaua Bucureşti,2,0,H,1,0,H
+ROM,2010-03-18,12:30,FC Timişoara,FC Unirea Alba Iulia,6,0,H,3,0,H
+ROM,2010-03-18,14:30,Politehnica Iasi,FC Vaslui,1,3,A,0,1,A
+ROM,2010-03-18,16:30,FC Unirea,Oţelul Galaţi,0,0,D,0,0,D
+ROM,2010-03-18,18:30,Rapid Bucureşti,Astra Ploieşti,0,1,A,0,0,D
+ROM,2010-03-20,13:00,Ceahlăul Piatra Neamt,FC Braşov,2,1,H,2,1,H
+ROM,2010-03-20,15:00,CFR Cluj,Pandurii Târgu Jiu,1,0,H,1,0,H
+ROM,2010-03-21,11:30,FC Universitatea Craiova,Politehnica Iasi,2,1,H,0,0,D
+ROM,2010-03-21,13:30,Oţelul Galaţi,Dinamo Bucureşti,2,3,A,0,2,A
+ROM,2010-03-21,15:30,International Curtea de Arges,Gloria Bistrita,2,1,H,1,0,H
+ROM,2010-03-21,18:00,Steaua Bucureşti,Gaz Metan Mediaş,2,0,H,0,0,D
+ROM,2010-03-22,13:00,FC Unirea Alba Iulia,FC Unirea,1,2,A,1,0,H
+ROM,2010-03-22,15:00,Astra Ploieşti,FC Timişoara,1,3,A,1,2,A
+ROM,2010-03-22,18:30,FC Vaslui,Rapid Bucureşti,1,0,H,1,0,H
+ROM,2010-03-26,16:30,Gaz Metan Mediaş,Oţelul Galaţi,0,1,A,0,1,A
+ROM,2010-03-26,18:30,Pandurii Târgu Jiu,Steaua Bucureşti,0,0,D,0,0,D
+ROM,2010-03-27,13:00,FC Unirea Alba Iulia,Astra Ploieşti,2,1,H,2,1,H
+ROM,2010-03-27,16:00,Politehnica Iasi,International Curtea de Arges,0,0,D,0,0,D
+ROM,2010-03-27,19:30,Rapid Bucureşti,FC Universitatea Craiova,0,1,A,0,0,D
+ROM,2010-03-28,14:00,Gloria Bistrita,Ceahlăul Piatra Neamt,1,0,H,1,0,H
+ROM,2010-03-28,18:00,FC Unirea,Dinamo Bucureşti,4,4,D,2,2,D
+ROM,2010-03-29,15:00,FC Timişoara,FC Vaslui,0,1,A,0,1,A
+ROM,2010-03-29,18:00,FC Braşov,CFR Cluj,0,1,A,0,1,A
+ROM,2010-04-02,12:00,Oţelul Galaţi,Pandurii Târgu Jiu,1,1,D,1,1,D
+ROM,2010-04-02,14:30,Astra Ploieşti,FC Unirea,0,2,A,0,1,A
+ROM,2010-04-02,15:00,Ceahlăul Piatra Neamt,Politehnica Iasi,1,0,H,0,0,D
+ROM,2010-04-02,16:30,Steaua Bucureşti,FC Braşov,1,0,H,1,0,H
+ROM,2010-04-02,18:30,Dinamo Bucureşti,Gaz Metan Mediaş,1,0,H,0,0,D
+ROM,2010-04-03,12:30,International Curtea de Arges,Rapid Bucureşti,1,2,A,1,0,H
+ROM,2010-04-03,14:30,FC Universitatea Craiova,FC Timişoara,1,2,A,1,1,D
+ROM,2010-04-03,17:00,FC Vaslui,FC Unirea Alba Iulia,3,0,H,0,0,D
+ROM,2010-04-03,19:00,CFR Cluj,Gloria Bistrita,1,0,H,1,0,H
+ROM,2010-04-06,18:00,FC Braşov,Oţelul Galaţi,3,0,H,2,0,H
+ROM,2010-04-07,12:30,FC Unirea,Gaz Metan Mediaş,1,1,D,1,0,H
+ROM,2010-04-07,14:00,FC Unirea Alba Iulia,FC Universitatea Craiova,2,0,H,0,0,D
+ROM,2010-04-07,14:30,Astra Ploieşti,FC Vaslui,0,0,D,0,0,D
+ROM,2010-04-07,16:30,FC Timişoara,International Curtea de Arges,0,0,D,0,0,D
+ROM,2010-04-07,18:30,Gloria Bistrita,Steaua Bucureşti,1,2,A,0,1,A
+ROM,2010-04-08,12:30,Rapid Bucureşti,Ceahlăul Piatra Neamt,1,1,D,0,0,D
+ROM,2010-04-08,16:30,Politehnica Iasi,CFR Cluj,0,2,A,0,0,D
+ROM,2010-04-08,18:30,Pandurii Târgu Jiu,Dinamo Bucureşti,0,0,D,0,0,D
+ROM,2010-04-10,13:00,Oţelul Galaţi,Gloria Bistrita,3,0,H,1,0,H
+ROM,2010-04-10,15:00,FC Universitatea Craiova,Astra Ploieşti,1,0,H,0,0,D
+ROM,2010-04-10,17:00,International Curtea de Arges,FC Unirea Alba Iulia,2,1,H,2,0,H
+ROM,2010-04-10,19:00,FC Vaslui,FC Unirea,1,1,D,1,0,H
+ROM,2010-04-11,13:00,Gaz Metan Mediaş,Pandurii Târgu Jiu,1,0,H,0,0,D
+ROM,2010-04-11,15:00,Ceahlăul Piatra Neamt,FC Timişoara,1,1,D,0,0,D
+ROM,2010-04-11,17:30,Dinamo Bucureşti,FC Braşov,0,0,D,0,0,D
+ROM,2010-04-11,19:30,CFR Cluj,Rapid Bucureşti,1,0,H,0,0,D
+ROM,2010-04-12,18:30,Steaua Bucureşti,Politehnica Iasi,2,1,H,0,1,A
+ROM,2010-04-16,15:00,FC Unirea Alba Iulia,Ceahlăul Piatra Neamt,3,2,H,2,1,H
+ROM,2010-04-16,16:00,Astra Ploieşti,International Curtea de Arges,1,1,D,0,1,A
+ROM,2010-04-16,18:30,FC Unirea,Pandurii Târgu Jiu,3,0,H,2,0,H
+ROM,2010-04-17,19:30,Gloria Bistrita,Dinamo Bucureşti,3,2,H,2,2,D
+ROM,2010-04-18,14:00,Politehnica Iasi,Oţelul Galaţi,1,1,D,0,1,A
+ROM,2010-04-18,16:00,FC Braşov,Gaz Metan Mediaş,3,2,H,2,0,H
+ROM,2010-04-18,18:00,Rapid Bucureşti,Steaua Bucureşti,5,1,H,4,1,H
+ROM,2010-04-19,16:30,FC Vaslui,FC Universitatea Craiova,0,1,A,0,0,D
+ROM,2010-04-19,18:30,FC Timişoara,CFR Cluj,1,1,D,0,0,D
+ROM,2010-04-23,16:00,Ceahlăul Piatra Neamt,Astra Ploieşti,0,0,D,0,0,D
+ROM,2010-04-23,18:30,Dinamo Bucureşti,Politehnica Iasi,1,1,D,1,0,H
+ROM,2010-04-24,13:00,Pandurii Târgu Jiu,FC Braşov,1,0,H,0,0,D
+ROM,2010-04-24,15:00,Oţelul Galaţi,Rapid Bucureşti,0,0,D,0,0,D
+ROM,2010-04-24,19:30,CFR Cluj,FC Unirea Alba Iulia,3,2,H,1,0,H
+ROM,2010-04-25,13:00,Gaz Metan Mediaş,Gloria Bistrita,1,1,D,1,1,D
+ROM,2010-04-25,15:00,FC Universitatea Craiova,FC Unirea,1,4,A,0,1,A
+ROM,2010-04-25,18:30,Steaua Bucureşti,FC Timişoara,3,3,D,1,0,H
+ROM,2010-04-26,18:30,International Curtea de Arges,FC Vaslui,1,2,A,1,0,H
+ROM,2010-04-30,15:00,Gloria Bistrita,Pandurii Târgu Jiu,1,0,H,1,0,H
+ROM,2010-04-30,18:30,Astra Ploieşti,CFR Cluj,1,0,H,0,0,D
+ROM,2010-05-01,13:00,FC Universitatea Craiova,International Curtea de Arges,1,3,A,1,2,A
+ROM,2010-05-01,15:00,FC Unirea Alba Iulia,Steaua Bucureşti,2,1,H,1,1,D
+ROM,2010-05-01,17:00,FC Timişoara,Oţelul Galaţi,2,1,H,2,0,H
+ROM,2010-05-01,19:00,FC Vaslui,Ceahlăul Piatra Neamt,1,0,H,0,0,D
+ROM,2010-05-02,14:30,Politehnica Iasi,Gaz Metan Mediaş,1,1,D,0,0,D
+ROM,2010-05-02,16:30,FC Unirea,FC Braşov,1,0,H,0,0,D
+ROM,2010-05-02,18:30,Rapid Bucureşti,Dinamo Bucureşti,2,2,D,2,2,D
+ROM,2010-05-05,13:00,Ceahlăul Piatra Neamt,FC Universitatea Craiova,2,1,H,0,0,D
+ROM,2010-05-05,14:30,Pandurii Târgu Jiu,Politehnica Iasi,1,1,D,1,0,H
+ROM,2010-05-05,16:30,Gaz Metan Mediaş,Rapid Bucureşti,0,0,D,0,0,D
+ROM,2010-05-05,18:30,Steaua Bucureşti,Astra Ploieşti,2,0,H,1,0,H
+ROM,2010-05-06,12:30,Oţelul Galaţi,FC Unirea Alba Iulia,1,0,H,1,0,H
+ROM,2010-05-06,14:30,FC Braşov,Gloria Bistrita,6,0,H,0,0,D
+ROM,2010-05-06,16:00,CFR Cluj,FC Vaslui,0,0,D,0,0,D
+ROM,2010-05-06,17:30,FC Unirea,International Curtea de Arges,1,0,H,0,0,D
+ROM,2010-05-06,19:30,Dinamo Bucureşti,FC Timişoara,1,2,A,0,1,A
+ROM,2010-05-09,14:00,International Curtea de Arges,Ceahlăul Piatra Neamt,2,0,H,1,0,H
+ROM,2010-05-09,16:00,Astra Ploieşti,Oţelul Galaţi,0,3,A,0,1,A
+ROM,2010-05-10,12:00,FC Unirea Alba Iulia,Dinamo Bucureşti,1,2,A,1,1,D
+ROM,2010-05-10,14:00,FC Universitatea Craiova,CFR Cluj,2,3,A,2,0,H
+ROM,2010-05-10,16:00,FC Timişoara,Gaz Metan Mediaş,0,2,A,0,1,A
+ROM,2010-05-10,18:00,FC Vaslui,Steaua Bucureşti,2,1,H,0,1,A
+ROM,2010-05-10,19:45,Rapid Bucureşti,Pandurii Târgu Jiu,1,0,H,0,0,D
+ROM,2010-05-11,16:00,Politehnica Iasi,FC Braşov,0,0,D,0,0,D
+ROM,2010-05-11,18:30,Gloria Bistrita,FC Unirea,0,0,D,0,0,D
+ROM,2010-05-15,15:00,Gaz Metan Mediaş,FC Unirea Alba Iulia,5,0,H,1,0,H
+ROM,2010-05-15,17:00,CFR Cluj,International Curtea de Arges,2,1,H,1,0,H
+ROM,2010-05-16,14:00,Gloria Bistrita,Politehnica Iasi,5,0,H,3,0,H
+ROM,2010-05-16,16:00,FC Braşov,Rapid Bucureşti,1,1,D,1,0,H
+ROM,2010-05-16,16:00,Dinamo Bucureşti,Astra Ploieşti,3,3,D,2,1,H
+ROM,2010-05-16,20:00,Steaua Bucureşti,FC Universitatea Craiova,2,0,H,0,0,D
+ROM,2010-05-17,15:00,Oţelul Galaţi,FC Vaslui,1,0,H,0,0,D
+ROM,2010-05-17,18:00,FC Unirea,Ceahlăul Piatra Neamt,4,0,H,2,0,H
+ROM,2010-05-17,19:45,Pandurii Târgu Jiu,FC Timişoara,0,0,D,0,0,D
+ROM,2010-05-22,12:30,Ceahlăul Piatra Neamt,CFR Cluj,2,4,A,1,1,D
+ROM,2010-05-22,14:30,FC Universitatea Craiova,Oţelul Galaţi,3,0,H,1,0,H
+ROM,2010-05-22,14:30,International Curtea de Arges,Steaua Bucureşti,0,2,A,0,1,A
+ROM,2010-05-22,14:30,Politehnica Iasi,FC Unirea,1,2,A,1,0,H
+ROM,2010-05-22,14:30,FC Timişoara,FC Braşov,1,2,A,0,2,A
+ROM,2010-05-22,14:30,Rapid Bucureşti,Gloria Bistrita,2,1,H,1,0,H
+ROM,2010-05-22,14:30,FC Unirea Alba Iulia,Pandurii Târgu Jiu,0,1,A,0,0,D
+ROM,2010-05-22,14:30,Astra Ploieşti,Gaz Metan Mediaş,0,0,D,0,0,D
+ROM,2010-05-22,14:30,FC Vaslui,Dinamo Bucureşti,2,0,H,1,0,H

@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CRO,2012-07-20,19:00,NK Zagreb,Lokomotiva Zagreb,0,2,A,0,1,A
+CRO,2012-07-20,20:00,RNK Split,HNK Rijeka,2,0,H,1,0,H
+CRO,2012-07-21,20:00,Dinamo Zagreb,NK Inter Zaprešić,1,1,D,1,0,H
+CRO,2012-07-22,18:00,Cibalia Vinkovci,Slaven Belupo,0,3,A,0,1,A
+CRO,2012-07-22,19:00,NK Zadar,NK Osijek,0,0,D,0,0,D
+CRO,2012-07-22,20:00,NK Istra 1961,Hajduk Split,0,0,D,0,0,D
+CRO,2012-07-27,19:00,NK Inter Zaprešić,Lokomotiva Zagreb,0,1,A,0,0,D
+CRO,2012-07-27,19:00,HNK Rijeka,NK Zadar,0,0,D,0,0,D
+CRO,2012-07-28,20:00,Dinamo Zagreb,Cibalia Vinkovci,2,1,H,1,0,H
+CRO,2012-07-29,18:00,NK Osijek,NK Zagreb,1,0,H,1,0,H
+CRO,2012-07-29,18:00,Slaven Belupo,NK Istra 1961,3,1,H,2,0,H
+CRO,2012-07-29,20:00,Hajduk Split,RNK Split,1,0,H,1,0,H
+CRO,2012-08-03,19:00,NK Zagreb,HNK Rijeka,0,1,A,0,0,D
+CRO,2012-08-03,19:00,Lokomotiva Zagreb,NK Osijek,0,0,D,0,0,D
+CRO,2012-08-04,19:00,Cibalia Vinkovci,NK Inter Zaprešić,1,1,D,0,0,D
+CRO,2012-08-04,20:00,NK Istra 1961,Dinamo Zagreb,0,1,A,0,1,A
+CRO,2012-08-05,18:00,NK Zadar,Hajduk Split,2,4,A,1,1,D
+CRO,2012-08-05,20:00,RNK Split,Slaven Belupo,2,0,H,1,0,H
+CRO,2012-08-10,19:00,NK Inter Zaprešić,NK Osijek,0,3,A,0,0,D
+CRO,2012-08-11,19:00,Cibalia Vinkovci,NK Istra 1961,0,1,A,0,0,D
+CRO,2012-08-11,20:00,HNK Rijeka,Lokomotiva Zagreb,2,2,D,0,2,A
+CRO,2012-08-12,18:00,Hajduk Split,NK Zagreb,5,1,H,2,1,H
+CRO,2012-08-12,18:00,Slaven Belupo,NK Zadar,2,0,H,1,0,H
+CRO,2012-08-12,20:00,Dinamo Zagreb,RNK Split,4,2,H,0,2,A
+CRO,2012-08-17,19:00,NK Zagreb,Slaven Belupo,1,2,A,1,1,D
+CRO,2012-08-18,18:00,NK Osijek,HNK Rijeka,1,1,D,1,0,H
+CRO,2012-08-18,19:00,NK Istra 1961,NK Inter Zaprešić,3,1,H,1,1,D
+CRO,2012-08-18,19:00,RNK Split,Cibalia Vinkovci,3,1,H,1,1,D
+CRO,2012-08-18,20:00,NK Zadar,Dinamo Zagreb,1,3,A,0,1,A
+CRO,2012-08-19,20:00,Lokomotiva Zagreb,Hajduk Split,2,0,H,1,0,H
+CRO,2012-08-24,19:00,NK Inter Zaprešić,HNK Rijeka,2,0,H,0,0,D
+CRO,2012-08-24,19:00,Slaven Belupo,Lokomotiva Zagreb,3,2,H,2,2,D
+CRO,2012-08-25,19:00,Cibalia Vinkovci,NK Zadar,0,0,D,0,0,D
+CRO,2012-08-25,19:00,NK Istra 1961,RNK Split,1,0,H,1,0,H
+CRO,2012-08-25,20:00,Dinamo Zagreb,NK Zagreb,6,0,H,3,0,H
+CRO,2012-08-26,20:00,Hajduk Split,NK Osijek,1,1,D,1,0,H
+CRO,2012-08-31,18:00,NK Zagreb,Cibalia Vinkovci,0,1,A,0,0,D
+CRO,2012-09-01,18:00,RNK Split,NK Inter Zaprešić,1,0,H,0,0,D
+CRO,2012-09-01,18:00,NK Zadar,NK Istra 1961,1,1,D,0,1,A
+CRO,2012-09-01,18:00,Lokomotiva Zagreb,Dinamo Zagreb,1,3,A,1,2,A
+CRO,2012-09-01,20:00,HNK Rijeka,Hajduk Split,1,0,H,0,0,D
+CRO,2012-09-02,20:00,NK Osijek,Slaven Belupo,1,2,A,0,1,A
+CRO,2012-09-14,18:00,Dinamo Zagreb,NK Osijek,0,0,D,0,0,D
+CRO,2012-09-15,17:00,NK Inter Zaprešić,Hajduk Split,1,1,D,0,1,A
+CRO,2012-09-15,18:00,Cibalia Vinkovci,Lokomotiva Zagreb,3,2,H,1,1,D
+CRO,2012-09-15,18:00,NK Istra 1961,NK Zagreb,0,0,D,0,0,D
+CRO,2012-09-15,18:00,RNK Split,NK Zadar,3,1,H,0,0,D
+CRO,2012-09-16,18:00,Slaven Belupo,HNK Rijeka,1,3,A,0,2,A
+CRO,2012-09-21,17:00,NK Zagreb,RNK Split,2,1,H,0,1,A
+CRO,2012-09-21,18:00,Lokomotiva Zagreb,NK Istra 1961,1,0,H,0,0,D
+CRO,2012-09-22,14:00,NK Osijek,Cibalia Vinkovci,1,0,H,0,0,D
+CRO,2012-09-22,18:00,NK Zadar,NK Inter Zaprešić,1,5,A,0,2,A
+CRO,2012-09-22,18:00,HNK Rijeka,Dinamo Zagreb,3,0,H,1,0,H
+CRO,2012-09-23,18:00,Hajduk Split,Slaven Belupo,3,1,H,2,0,H
+CRO,2012-09-29,14:30,Cibalia Vinkovci,HNK Rijeka,4,1,H,3,0,H
+CRO,2012-09-29,17:00,Dinamo Zagreb,Hajduk Split,3,1,H,2,1,H
+CRO,2012-09-29,18:00,NK Inter Zaprešić,Slaven Belupo,2,2,D,1,0,H
+CRO,2012-09-29,18:00,NK Istra 1961,NK Osijek,1,3,A,0,0,D
+CRO,2012-09-29,18:00,NK Zadar,NK Zagreb,4,0,H,1,0,H
+CRO,2012-09-30,18:00,RNK Split,Lokomotiva Zagreb,1,1,D,0,0,D
+CRO,2012-10-05,15:00,Lokomotiva Zagreb,NK Zadar,2,1,H,0,1,A
+CRO,2012-10-05,17:00,NK Zagreb,NK Inter Zaprešić,1,1,D,0,1,A
+CRO,2012-10-05,18:00,Hajduk Split,Cibalia Vinkovci,4,0,H,1,0,H
+CRO,2012-10-06,14:00,NK Osijek,RNK Split,2,2,D,2,0,H
+CRO,2012-10-06,18:00,HNK Rijeka,NK Istra 1961,2,1,H,1,1,D
+CRO,2012-10-07,18:00,Slaven Belupo,Dinamo Zagreb,1,4,A,1,2,A
+CRO,2012-10-19,18:00,Lokomotiva Zagreb,NK Zagreb,1,1,D,1,0,H
+CRO,2012-10-20,14:00,NK Inter Zaprešić,Dinamo Zagreb,0,2,A,0,0,D
+CRO,2012-10-20,17:00,Slaven Belupo,Cibalia Vinkovci,2,1,H,1,1,D
+CRO,2012-10-20,17:00,NK Osijek,NK Zadar,2,0,H,1,0,H
+CRO,2012-10-20,18:00,HNK Rijeka,RNK Split,2,3,A,1,2,A
+CRO,2012-10-21,18:00,Hajduk Split,NK Istra 1961,0,1,A,0,0,D
+CRO,2012-10-26,15:00,Lokomotiva Zagreb,NK Inter Zaprešić,2,3,A,2,1,H
+CRO,2012-10-26,15:00,NK Zagreb,NK Osijek,2,1,H,0,1,A
+CRO,2012-10-26,18:00,NK Istra 1961,Slaven Belupo,0,0,D,0,0,D
+CRO,2012-10-27,14:00,Cibalia Vinkovci,Dinamo Zagreb,0,1,A,0,0,D
+CRO,2012-10-27,18:00,NK Zadar,HNK Rijeka,2,4,A,0,1,A
+CRO,2012-10-28,18:00,RNK Split,Hajduk Split,0,1,A,0,0,D
+CRO,2012-11-02,17:00,Dinamo Zagreb,NK Istra 1961,3,1,H,2,1,H
+CRO,2012-11-03,14:00,NK Inter Zaprešić,Cibalia Vinkovci,0,0,D,0,0,D
+CRO,2012-11-03,14:00,Slaven Belupo,RNK Split,2,2,D,1,1,D
+CRO,2012-11-03,14:00,HNK Rijeka,NK Zagreb,1,0,H,1,0,H
+CRO,2012-11-03,18:00,Hajduk Split,NK Zadar,3,0,H,0,0,D
+CRO,2012-11-04,18:00,NK Osijek,Lokomotiva Zagreb,1,2,A,0,0,D
+CRO,2012-11-09,16:00,NK Zagreb,Hajduk Split,0,1,A,0,0,D
+CRO,2012-11-10,14:00,NK Osijek,NK Inter Zaprešić,1,1,D,0,1,A
+CRO,2012-11-10,14:00,NK Zadar,Slaven Belupo,1,0,H,1,0,H
+CRO,2012-11-10,14:00,NK Istra 1961,Cibalia Vinkovci,3,0,H,2,0,H
+CRO,2012-11-10,18:00,RNK Split,Dinamo Zagreb,1,0,H,1,0,H
+CRO,2012-11-11,18:00,Lokomotiva Zagreb,HNK Rijeka,2,1,H,1,0,H
+CRO,2012-11-16,15:00,NK Inter Zaprešić,NK Istra 1961,2,0,H,1,0,H
+CRO,2012-11-17,14:00,Cibalia Vinkovci,RNK Split,2,1,H,1,1,D
+CRO,2012-11-17,14:00,Dinamo Zagreb,NK Zadar,5,0,H,2,0,H
+CRO,2012-11-17,14:00,Slaven Belupo,NK Zagreb,1,0,H,1,0,H
+CRO,2012-11-17,18:00,Hajduk Split,Lokomotiva Zagreb,0,0,D,0,0,D
+CRO,2012-11-18,18:00,HNK Rijeka,NK Osijek,3,1,H,2,1,H
+CRO,2012-11-23,17:00,Lokomotiva Zagreb,Slaven Belupo,3,1,H,1,1,D
+CRO,2012-11-24,14:00,NK Osijek,Hajduk Split,0,0,D,0,0,D
+CRO,2012-11-24,14:00,NK Zadar,Cibalia Vinkovci,4,1,H,1,0,H
+CRO,2012-11-24,14:00,RNK Split,NK Istra 1961,2,1,H,0,0,D
+CRO,2012-11-24,18:00,HNK Rijeka,NK Inter Zaprešić,2,1,H,0,1,A
+CRO,2012-11-25,18:00,NK Zagreb,Dinamo Zagreb,1,0,H,0,0,D
+CRO,2012-11-30,15:00,NK Inter Zaprešić,RNK Split,0,2,A,0,1,A
+CRO,2012-11-30,17:00,Dinamo Zagreb,Lokomotiva Zagreb,1,0,H,1,0,H
+CRO,2012-12-01,14:00,NK Istra 1961,NK Zadar,1,1,D,1,0,H
+CRO,2012-12-01,14:00,Cibalia Vinkovci,NK Zagreb,1,1,D,0,0,D
+CRO,2012-12-01,18:00,Slaven Belupo,NK Osijek,2,0,H,2,0,H
+CRO,2012-12-02,18:00,Hajduk Split,HNK Rijeka,1,1,D,0,1,A
+CRO,2012-12-07,15:00,Lokomotiva Zagreb,Cibalia Vinkovci,1,0,H,0,0,D
+CRO,2012-12-07,15:00,NK Zagreb,NK Istra 1961,2,1,H,1,1,D
+CRO,2012-12-07,17:00,Hajduk Split,NK Inter Zaprešić,1,0,H,1,0,H
+CRO,2012-12-08,14:00,NK Zadar,RNK Split,1,0,H,1,0,H
+CRO,2012-12-08,18:00,HNK Rijeka,Slaven Belupo,0,0,D,0,0,D
+CRO,2013-02-10,16:00,NK Osijek,Dinamo Zagreb,2,1,H,1,0,H
+CRO,2013-02-15,16:00,NK Inter Zaprešić,NK Zadar,0,1,A,0,0,D
+CRO,2013-02-15,16:00,RNK Split,NK Zagreb,3,2,H,1,0,H
+CRO,2013-02-16,14:00,NK Istra 1961,Lokomotiva Zagreb,2,2,D,1,1,D
+CRO,2013-02-16,14:00,Cibalia Vinkovci,NK Osijek,2,0,H,1,0,H
+CRO,2013-02-16,17:00,Slaven Belupo,Hajduk Split,0,2,A,0,1,A
+CRO,2013-02-17,17:00,Dinamo Zagreb,HNK Rijeka,4,1,H,3,0,H
+CRO,2013-02-22,16:00,Lokomotiva Zagreb,RNK Split,3,2,H,1,1,D
+CRO,2013-02-22,16:00,NK Zagreb,NK Zadar,2,1,H,2,1,H
+CRO,2013-02-23,14:00,Slaven Belupo,NK Inter Zaprešić,2,2,D,2,1,H
+CRO,2013-02-23,14:00,NK Osijek,NK Istra 1961,0,0,D,0,0,D
+CRO,2013-02-23,17:00,HNK Rijeka,Cibalia Vinkovci,0,0,D,0,0,D
+CRO,2013-02-27,18:00,Hajduk Split,Dinamo Zagreb,1,2,A,1,2,A
+CRO,2013-03-01,16:00,NK Inter Zaprešić,NK Zagreb,1,2,A,1,0,H
+CRO,2013-03-01,16:00,RNK Split,NK Osijek,0,0,D,0,0,D
+CRO,2013-03-02,14:00,NK Zadar,Lokomotiva Zagreb,1,0,H,1,0,H
+CRO,2013-03-02,14:00,Cibalia Vinkovci,Hajduk Split,0,2,A,0,1,A
+CRO,2013-03-02,17:00,Dinamo Zagreb,Slaven Belupo,3,0,H,1,0,H
+CRO,2013-03-03,17:00,NK Istra 1961,HNK Rijeka,1,1,D,1,1,D
+CRO,2013-03-08,16:00,Lokomotiva Zagreb,NK Zadar,4,1,H,1,1,D
+CRO,2013-03-09,14:00,RNK Split,NK Zagreb,4,1,H,1,0,H
+CRO,2013-03-09,14:00,HNK Rijeka,NK Inter Zaprešić,2,1,H,2,1,H
+CRO,2013-03-09,14:00,Slaven Belupo,Cibalia Vinkovci,0,2,A,0,2,A
+CRO,2013-03-09,17:00,Hajduk Split,NK Istra 1961,1,2,A,0,1,A
+CRO,2013-03-10,17:00,Dinamo Zagreb,NK Osijek,0,0,D,0,0,D
+CRO,2013-03-15,16:00,NK Zagreb,Lokomotiva Zagreb,2,4,A,1,2,A
+CRO,2013-03-15,16:00,NK Inter Zaprešić,RNK Split,0,0,D,0,0,D
+CRO,2013-03-15,16:00,Slaven Belupo,NK Osijek,0,0,D,0,0,D
+CRO,2013-03-16,14:00,Cibalia Vinkovci,HNK Rijeka,0,1,A,0,1,A
+CRO,2013-03-16,17:00,NK Istra 1961,Dinamo Zagreb,0,0,D,0,0,D
+CRO,2013-03-17,17:00,NK Zadar,Hajduk Split,1,1,D,1,1,D
+CRO,2013-03-28,16:00,Lokomotiva Zagreb,NK Inter Zaprešić,2,2,D,1,1,D
+CRO,2013-03-29,16:00,NK Osijek,NK Istra 1961,0,4,A,0,2,A
+CRO,2013-03-29,18:00,HNK Rijeka,Slaven Belupo,2,1,H,1,0,H
+CRO,2013-03-30,14:00,RNK Split,Cibalia Vinkovci,1,0,H,1,0,H
+CRO,2013-03-30,16:00,Dinamo Zagreb,NK Zadar,5,0,H,2,0,H
+CRO,2013-03-30,18:00,Hajduk Split,NK Zagreb,3,2,H,2,0,H
+CRO,2013-04-05,17:00,NK Zagreb,Dinamo Zagreb,0,3,A,0,0,D
+CRO,2013-04-06,15:00,Slaven Belupo,RNK Split,0,0,D,0,0,D
+CRO,2013-04-06,15:00,NK Zadar,NK Istra 1961,3,2,H,0,1,A
+CRO,2013-04-06,18:00,Cibalia Vinkovci,Lokomotiva Zagreb,2,0,H,1,0,H
+CRO,2013-04-06,18:00,HNK Rijeka,NK Osijek,1,0,H,1,0,H
+CRO,2013-04-07,18:00,NK Inter Zaprešić,Hajduk Split,1,1,D,0,1,A
+CRO,2013-04-12,17:00,RNK Split,HNK Rijeka,3,1,H,0,0,D
+CRO,2013-04-13,15:00,NK Istra 1961,NK Zagreb,0,0,D,0,0,D
+CRO,2013-04-13,15:00,NK Osijek,NK Zadar,1,0,H,1,0,H
+CRO,2013-04-13,18:00,Hajduk Split,Cibalia Vinkovci,2,1,H,1,1,D
+CRO,2013-04-13,18:00,Lokomotiva Zagreb,Slaven Belupo,5,1,H,0,0,D
+CRO,2013-04-14,18:00,Dinamo Zagreb,NK Inter Zaprešić,2,0,H,0,0,D
+CRO,2013-04-19,17:00,NK Inter Zaprešić,NK Istra 1961,0,2,A,0,0,D
+CRO,2013-04-19,17:00,NK Zagreb,NK Zadar,1,1,D,0,0,D
+CRO,2013-04-20,14:00,Cibalia Vinkovci,Dinamo Zagreb,0,1,A,0,1,A
+CRO,2013-04-20,18:00,HNK Rijeka,Lokomotiva Zagreb,1,3,A,0,1,A
+CRO,2013-04-20,18:00,RNK Split,NK Osijek,4,1,H,2,0,H
+CRO,2013-04-21,18:00,Slaven Belupo,Hajduk Split,1,1,D,1,0,H
+CRO,2013-04-26,17:00,Lokomotiva Zagreb,RNK Split,1,0,H,1,0,H
+CRO,2013-04-27,15:30,NK Zadar,NK Inter Zaprešić,1,2,A,0,0,D
+CRO,2013-04-27,15:30,NK Osijek,NK Zagreb,1,0,H,1,0,H
+CRO,2013-04-27,18:00,Dinamo Zagreb,Slaven Belupo,1,0,H,0,0,D
+CRO,2013-04-27,18:00,NK Istra 1961,Cibalia Vinkovci,2,1,H,0,0,D
+CRO,2013-04-28,18:00,Hajduk Split,HNK Rijeka,1,2,A,0,2,A
+CRO,2013-05-03,19:00,Lokomotiva Zagreb,NK Osijek,1,0,H,0,0,D
+CRO,2013-05-03,19:00,NK Inter Zaprešić,NK Zagreb,2,0,H,0,0,D
+CRO,2013-05-04,18:00,RNK Split,Hajduk Split,2,1,H,2,1,H
+CRO,2013-05-04,18:00,Slaven Belupo,NK Istra 1961,1,0,H,0,0,D
+CRO,2013-05-04,18:00,Cibalia Vinkovci,NK Zadar,2,3,A,1,2,A
+CRO,2013-05-05,18:00,HNK Rijeka,Dinamo Zagreb,0,0,D,0,0,D
+CRO,2013-05-10,19:00,NK Istra 1961,HNK Rijeka,1,0,H,0,0,D
+CRO,2013-05-10,19:00,NK Zagreb,Cibalia Vinkovci,0,2,A,0,0,D
+CRO,2013-05-11,18:00,Dinamo Zagreb,RNK Split,2,0,H,2,0,H
+CRO,2013-05-11,18:00,NK Zadar,Slaven Belupo,1,1,D,0,0,D
+CRO,2013-05-11,18:00,NK Osijek,NK Inter Zaprešić,0,2,A,0,0,D
+CRO,2013-05-12,18:00,Hajduk Split,Lokomotiva Zagreb,0,0,D,0,0,D
+CRO,2013-05-17,17:00,Hajduk Split,NK Osijek,1,0,H,1,0,H
+CRO,2013-05-17,19:00,Lokomotiva Zagreb,Dinamo Zagreb,1,2,A,1,0,H
+CRO,2013-05-18,18:00,RNK Split,NK Istra 1961,0,1,A,0,0,D
+CRO,2013-05-18,18:00,Slaven Belupo,NK Zagreb,0,3,A,0,0,D
+CRO,2013-05-18,18:00,Cibalia Vinkovci,NK Inter Zaprešić,1,0,H,1,0,H
+CRO,2013-05-19,18:00,HNK Rijeka,NK Zadar,2,3,A,1,1,D
+CRO,2013-05-26,17:00,Dinamo Zagreb,Hajduk Split,3,1,H,1,1,D
+CRO,2013-05-26,17:00,NK Istra 1961,Lokomotiva Zagreb,1,1,D,0,0,D
+CRO,2013-05-26,17:00,NK Zadar,RNK Split,2,2,D,1,1,D
+CRO,2013-05-26,17:00,NK Zagreb,HNK Rijeka,1,4,A,0,2,A
+CRO,2013-05-26,17:00,NK Inter Zaprešić,Slaven Belupo,2,0,H,1,0,H
+CRO,2013-05-26,17:00,NK Osijek,Cibalia Vinkovci,1,0,H,1,0,H

@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+KOR,2012-03-03,06:00,Jeonbuk FC,Seongnam Ilhwa Chunma,3,2,H,2,1,H
+KOR,2012-03-03,06:00,Pohang Steelers,Ulsan Hyundai,0,1,A,0,1,A
+KOR,2012-03-04,06:00,Chunnam Dragons,Gangwon FC,0,0,D,0,0,D
+KOR,2012-03-04,06:00,Jeju United,Incheon United,3,1,H,1,0,H
+KOR,2012-03-04,06:00,Daegu FC,FC Seoul,1,1,D,1,0,H
+KOR,2012-03-04,06:00,Sangju Sangmu,Gwangju FC,0,1,A,0,0,D
+KOR,2012-03-04,06:00,Suwon Bluewings,Busan IPark,1,0,H,1,0,H
+KOR,2012-03-04,08:00,Gyeongnam FC,Daejeon Citizen,3,0,H,1,0,H
+KOR,2012-03-10,06:00,Gangwon FC,Daegu FC,2,0,H,0,0,D
+KOR,2012-03-10,06:00,FC Seoul,Chunnam Dragons,2,0,H,1,0,H
+KOR,2012-03-10,08:00,Busan IPark,Jeju United,1,1,D,1,0,H
+KOR,2012-03-11,05:00,Incheon United,Suwon Bluewings,0,2,A,0,1,A
+KOR,2012-03-11,06:00,Seongnam Ilhwa Chunma,Sangju Sangmu,1,1,D,0,0,D
+KOR,2012-03-11,06:00,Gwangju FC,Pohang Steelers,1,1,D,1,1,D
+KOR,2012-03-11,06:00,Daejeon Citizen,Jeonbuk FC,0,1,A,0,0,D
+KOR,2012-03-11,08:00,Ulsan Hyundai,Gyeongnam FC,2,1,H,1,0,H
+KOR,2012-03-16,10:00,Ulsan Hyundai,Seongnam Ilhwa Chunma,3,0,H,1,0,H
+KOR,2012-03-17,06:00,Jeonbuk FC,Chunnam Dragons,1,1,D,1,1,D
+KOR,2012-03-17,06:00,Suwon Bluewings,Gangwon FC,3,0,H,1,0,H
+KOR,2012-03-17,06:00,Gyeongnam FC,Sangju Sangmu,2,3,A,1,1,D
+KOR,2012-03-17,08:00,Pohang Steelers,Busan IPark,2,2,D,2,1,H
+KOR,2012-03-18,06:00,Daegu FC,Incheon United,1,0,H,1,0,H
+KOR,2012-03-18,06:00,FC Seoul,Daejeon Citizen,2,0,H,0,0,D
+KOR,2012-03-18,08:00,Gwangju FC,Jeju United,3,2,H,1,1,D
+KOR,2012-03-24,06:00,Busan IPark,Gwangju FC,1,2,A,0,1,A
+KOR,2012-03-24,06:00,Chunnam Dragons,Gyeongnam FC,3,1,H,0,0,D
+KOR,2012-03-24,06:00,Jeju United,Suwon Bluewings,2,1,H,0,1,A
+KOR,2012-03-24,08:00,Incheon United,Daejeon Citizen,2,1,H,0,0,D
+KOR,2012-03-25,07:00,Gangwon FC,Seongnam Ilhwa Chunma,1,2,A,0,2,A
+KOR,2012-03-25,07:00,Sangju Sangmu,Pohang Steelers,1,2,A,1,0,H
+KOR,2012-03-25,07:00,FC Seoul,Jeonbuk FC,2,1,H,1,1,D
+KOR,2012-03-25,09:00,Daegu FC,Ulsan Hyundai,1,0,H,1,0,H
+KOR,2012-03-30,11:30,Pohang Steelers,Chunnam Dragons,1,0,H,1,0,H
+KOR,2012-03-30,11:30,Seongnam Ilhwa Chunma,Busan IPark,0,1,A,0,0,D
+KOR,2012-03-31,07:00,Ulsan Hyundai,Sangju Sangmu,2,2,D,0,2,A
+KOR,2012-03-31,09:00,Jeonbuk FC,Daegu FC,2,3,A,1,0,H
+KOR,2012-04-01,07:00,Gwangju FC,Gangwon FC,1,1,D,0,1,A
+KOR,2012-04-01,07:00,Suwon Bluewings,FC Seoul,2,0,H,2,0,H
+KOR,2012-04-01,07:00,Incheon United,Gyeongnam FC,0,0,D,0,0,D
+KOR,2012-04-01,09:00,Daejeon Citizen,Jeju United,0,3,A,0,2,A
+KOR,2012-04-07,07:00,Daejeon Citizen,Busan IPark,0,1,A,0,0,D
+KOR,2012-04-07,07:00,Gangwon FC,Incheon United,2,1,H,1,0,H
+KOR,2012-04-07,09:00,Jeju United,Daegu FC,2,0,H,0,0,D
+KOR,2012-04-07,09:00,Chunnam Dragons,Suwon Bluewings,1,1,D,1,0,H
+KOR,2012-04-08,07:00,Seongnam Ilhwa Chunma,Pohang Steelers,0,2,A,0,0,D
+KOR,2012-04-08,07:00,Gwangju FC,Ulsan Hyundai,0,1,A,0,0,D
+KOR,2012-04-08,07:00,Gyeongnam FC,Jeonbuk FC,0,2,A,0,1,A
+KOR,2012-04-08,09:00,FC Seoul,Sangju Sangmu,2,0,H,1,0,H
+KOR,2012-04-11,05:00,Suwon Bluewings,Pohang Steelers,2,0,H,1,0,H
+KOR,2012-04-11,07:00,Busan IPark,FC Seoul,0,0,D,0,0,D
+KOR,2012-04-11,07:00,Daegu FC,Gyeongnam FC,2,3,A,1,2,A
+KOR,2012-04-11,07:00,Sangju Sangmu,Daejeon Citizen,1,2,A,0,2,A
+KOR,2012-04-11,07:00,Incheon United,Gwangju FC,1,1,D,1,1,D
+KOR,2012-04-11,07:00,Chunnam Dragons,Seongnam Ilhwa Chunma,0,1,A,0,0,D
+KOR,2012-04-11,07:00,Jeju United,Ulsan Hyundai,0,0,D,0,0,D
+KOR,2012-04-11,09:00,Gangwon FC,Jeonbuk FC,0,1,A,0,0,D
+KOR,2012-04-14,07:00,Pohang Steelers,Jeju United,2,3,A,1,3,A
+KOR,2012-04-14,07:00,Daejeon Citizen,Seongnam Ilhwa Chunma,0,1,A,0,1,A
+KOR,2012-04-14,07:00,Suwon Bluewings,Daegu FC,1,0,H,0,0,D
+KOR,2012-04-14,09:00,Jeonbuk FC,Busan IPark,0,0,D,0,0,D
+KOR,2012-04-15,07:00,Gyeongnam FC,Gangwon FC,0,2,A,0,1,A
+KOR,2012-04-15,07:00,Sangju Sangmu,Incheon United,1,0,H,1,0,H
+KOR,2012-04-15,09:00,Chunnam Dragons,Gwangju FC,2,2,D,1,0,H
+KOR,2012-04-21,07:00,Gyeongnam FC,Suwon Bluewings,0,0,D,0,0,D
+KOR,2012-04-21,07:00,Daegu FC,Sangju Sangmu,2,1,H,1,0,H
+KOR,2012-04-21,07:00,FC Seoul,Jeju United,1,1,D,0,0,D
+KOR,2012-04-21,09:00,Busan IPark,Gangwon FC,1,0,H,1,0,H
+KOR,2012-04-22,07:00,Pohang Steelers,Jeonbuk FC,1,0,H,1,0,H
+KOR,2012-04-22,07:00,Incheon United,Ulsan Hyundai,0,1,A,0,0,D
+KOR,2012-04-22,07:00,Chunnam Dragons,Daejeon Citizen,3,1,H,1,0,H
+KOR,2012-04-22,09:00,Seongnam Ilhwa Chunma,Gwangju FC,4,2,H,0,1,A
+KOR,2012-04-25,11:00,Ulsan Hyundai,FC Seoul,2,2,D,0,1,A
+KOR,2012-04-27,11:00,Jeonbuk FC,Gwangju FC,5,2,H,2,1,H
+KOR,2012-04-28,07:00,Ulsan Hyundai,Daejeon Citizen,2,0,H,0,0,D
+KOR,2012-04-28,07:00,Suwon Bluewings,Seongnam Ilhwa Chunma,2,1,H,0,1,A
+KOR,2012-04-28,07:00,Daegu FC,Pohang Steelers,1,0,H,0,0,D
+KOR,2012-04-28,09:00,Sangju Sangmu,Busan IPark,1,2,A,0,1,A
+KOR,2012-04-29,07:00,Chunnam Dragons,Incheon United,0,0,D,0,0,D
+KOR,2012-04-29,07:00,Gangwon FC,FC Seoul,1,2,A,0,1,A
+KOR,2012-04-29,09:00,Jeju United,Gyeongnam FC,3,1,H,2,0,H
+KOR,2012-05-05,07:00,Seongnam Ilhwa Chunma,Jeju United,1,1,D,0,0,D
+KOR,2012-05-05,07:00,FC Seoul,Pohang Steelers,2,1,H,1,0,H
+KOR,2012-05-05,07:00,Incheon United,Jeonbuk FC,3,3,D,2,1,H
+KOR,2012-05-05,07:00,Gangwon FC,Sangju Sangmu,0,3,A,0,0,D
+KOR,2012-05-05,07:00,Busan IPark,Gyeongnam FC,1,0,H,1,0,H
+KOR,2012-05-05,07:00,Daejeon Citizen,Suwon Bluewings,2,1,H,1,1,D
+KOR,2012-05-05,07:00,Gwangju FC,Daegu FC,2,2,D,1,2,A
+KOR,2012-05-06,06:00,Ulsan Hyundai,Chunnam Dragons,1,0,H,0,0,D
+KOR,2012-05-11,11:00,Jeonbuk FC,Ulsan Hyundai,2,1,H,2,0,H
+KOR,2012-05-11,11:30,Seongnam Ilhwa Chunma,Incheon United,1,0,H,0,0,D
+KOR,2012-05-11,11:30,Pohang Steelers,Daejeon Citizen,0,0,D,0,0,D
+KOR,2012-05-12,07:00,Sangju Sangmu,Chunnam Dragons,1,2,A,0,0,D
+KOR,2012-05-12,09:00,Gyeongnam FC,FC Seoul,0,1,A,0,0,D
+KOR,2012-05-13,07:00,Busan IPark,Daegu FC,2,0,H,1,0,H
+KOR,2012-05-13,07:00,Jeju United,Gangwon FC,4,2,H,2,2,D
+KOR,2012-05-13,08:50,Suwon Bluewings,Gwangju FC,4,1,H,0,1,A
+KOR,2012-05-19,07:00,Incheon United,Busan IPark,0,0,D,0,0,D
+KOR,2012-05-19,07:00,Daegu FC,Daejeon Citizen,1,1,D,0,0,D
+KOR,2012-05-19,07:00,Gwangju FC,FC Seoul,1,2,A,0,2,A
+KOR,2012-05-19,08:40,Chunnam Dragons,Jeju United,1,0,H,1,0,H
+KOR,2012-05-20,07:00,Gangwon FC,Pohang Steelers,1,2,A,0,1,A
+KOR,2012-05-20,07:00,Suwon Bluewings,Ulsan Hyundai,2,1,H,1,1,D
+KOR,2012-05-20,09:00,Gyeongnam FC,Seongnam Ilhwa Chunma,2,0,H,0,0,D
+KOR,2012-05-20,09:00,Sangju Sangmu,Jeonbuk FC,0,3,A,0,2,A
+KOR,2012-05-26,07:00,Pohang Steelers,Gyeongnam FC,0,1,A,0,0,D
+KOR,2012-05-26,07:00,Jeonbuk FC,Suwon Bluewings,3,0,H,2,0,H
+KOR,2012-05-26,09:00,Seongnam Ilhwa Chunma,Daegu FC,0,0,D,0,0,D
+KOR,2012-05-26,09:00,Ulsan Hyundai,Gangwon FC,1,2,A,1,2,A
+KOR,2012-05-27,07:00,Jeju United,Sangju Sangmu,2,1,H,1,1,D
+KOR,2012-05-28,07:00,FC Seoul,Incheon United,3,1,H,2,0,H
+KOR,2012-05-28,07:00,Busan IPark,Chunnam Dragons,0,0,D,0,0,D
+KOR,2012-05-28,07:00,Daejeon Citizen,Gwangju FC,2,1,H,2,0,H
+KOR,2012-06-09,11:00,Seongnam Ilhwa Chunma,Gyeongnam FC,2,0,H,1,0,H
+KOR,2012-06-13,11:00,Jeju United,Jeonbuk FC,1,3,A,0,2,A
+KOR,2012-06-14,11:00,Ulsan Hyundai,Busan IPark,2,1,H,2,1,H
+KOR,2012-06-14,11:00,Sangju Sangmu,Suwon Bluewings,0,3,A,0,1,A
+KOR,2012-06-14,11:30,Incheon United,Pohang Steelers,1,1,D,1,0,H
+KOR,2012-06-14,11:30,Gyeongnam FC,Gwangju FC,1,0,H,0,0,D
+KOR,2012-06-14,11:30,Chunnam Dragons,Daegu FC,0,3,A,0,1,A
+KOR,2012-06-14,11:30,Gangwon FC,Daejeon Citizen,0,2,A,0,2,A
+KOR,2012-06-14,12:00,FC Seoul,Seongnam Ilhwa Chunma,1,0,H,1,0,H
+KOR,2012-06-17,09:00,Pohang Steelers,FC Seoul,1,0,H,0,0,D
+KOR,2012-06-17,09:00,Daejeon Citizen,Chunnam Dragons,0,1,A,0,0,D
+KOR,2012-06-17,11:00,Gwangju FC,Incheon United,0,0,D,0,0,D
+KOR,2012-06-17,11:00,Daegu FC,Jeonbuk FC,1,5,A,0,1,A
+KOR,2012-06-17,11:00,Busan IPark,Seongnam Ilhwa Chunma,1,0,H,0,0,D
+KOR,2012-06-17,11:00,Gyeongnam FC,Ulsan Hyundai,3,2,H,1,0,H
+KOR,2012-06-17,11:00,Sangju Sangmu,Gangwon FC,2,1,H,0,0,D
+KOR,2012-06-17,11:00,Suwon Bluewings,Jeju United,1,1,D,1,0,H
+KOR,2012-06-23,09:00,Gwangju FC,Chunnam Dragons,6,0,H,5,0,H
+KOR,2012-06-23,11:00,Seongnam Ilhwa Chunma,Daejeon Citizen,0,3,A,0,2,A
+KOR,2012-06-23,11:00,Gangwon FC,Suwon Bluewings,1,4,A,0,2,A
+KOR,2012-06-23,11:00,Jeju United,Pohang Steelers,0,1,A,0,0,D
+KOR,2012-06-23,11:00,Incheon United,Sangju Sangmu,1,0,H,0,0,D
+KOR,2012-06-24,09:00,Jeonbuk FC,Gyeongnam FC,5,3,H,1,0,H
+KOR,2012-06-24,11:00,Daegu FC,Busan IPark,2,1,H,1,1,D
+KOR,2012-06-24,11:00,FC Seoul,Ulsan Hyundai,1,1,D,1,0,H
+KOR,2012-06-27,11:00,Daejeon Citizen,Daegu FC,2,2,D,1,2,A
+KOR,2012-06-27,11:00,Ulsan Hyundai,Pohang Steelers,3,1,H,1,1,D
+KOR,2012-06-27,11:00,Jeju United,Busan IPark,5,2,H,2,0,H
+KOR,2012-06-27,11:30,Incheon United,Seongnam Ilhwa Chunma,0,0,D,0,0,D
+KOR,2012-06-27,11:30,Gangwon FC,Gyeongnam FC,0,3,A,0,1,A
+KOR,2012-06-27,11:30,Suwon Bluewings,Chunnam Dragons,3,2,H,2,0,H
+KOR,2012-06-27,12:00,Gwangju FC,Jeonbuk FC,0,3,A,0,1,A
+KOR,2012-06-28,11:30,Sangju Sangmu,FC Seoul,0,1,A,0,1,A
+KOR,2012-06-30,09:00,Gyeongnam FC,Incheon United,0,0,D,0,0,D
+KOR,2012-06-30,11:00,Daegu FC,Jeju United,2,0,H,1,0,H
+KOR,2012-06-30,11:00,Seongnam Ilhwa Chunma,Gangwon FC,1,2,A,0,1,A
+KOR,2012-06-30,11:00,Busan IPark,Daejeon Citizen,3,1,H,1,1,D
+KOR,2012-07-01,09:00,FC Seoul,Gwangju FC,3,2,H,0,1,A
+KOR,2012-07-01,11:00,Pohang Steelers,Suwon Bluewings,5,0,H,3,0,H
+KOR,2012-07-01,11:00,Jeonbuk FC,Sangju Sangmu,2,0,H,1,0,H
+KOR,2012-07-01,11:00,Chunnam Dragons,Ulsan Hyundai,0,1,A,0,0,D
+KOR,2012-07-07,11:00,Daegu FC,Gwangju FC,1,1,D,0,1,A
+KOR,2012-07-08,11:00,Pohang Steelers,Sangju Sangmu,0,1,A,0,1,A
+KOR,2012-07-08,11:00,Suwon Bluewings,Gyeongnam FC,0,3,A,0,2,A
+KOR,2012-07-08,11:00,Seongnam Ilhwa Chunma,Chunnam Dragons,1,1,D,0,0,D
+KOR,2012-07-08,11:00,Busan IPark,Incheon United,1,2,A,0,0,D
+KOR,2012-07-11,11:00,Jeonbuk FC,FC Seoul,0,0,D,0,0,D
+KOR,2012-07-11,11:00,Daejeon Citizen,Gangwon FC,0,3,A,0,1,A
+KOR,2012-07-12,11:00,Ulsan Hyundai,Jeju United,2,2,D,1,1,D
+KOR,2012-07-14,09:00,Gwangju FC,Seongnam Ilhwa Chunma,1,2,A,1,1,D
+KOR,2012-07-14,11:00,Gyeongnam FC,Pohang Steelers,0,1,A,0,0,D
+KOR,2012-07-14,11:00,Suwon Bluewings,Jeonbuk FC,0,3,A,0,1,A
+KOR,2012-07-14,11:30,Sangju Sangmu,Daegu FC,1,1,D,0,1,A
+KOR,2012-07-15,09:00,Gangwon FC,Ulsan Hyundai,1,2,A,1,1,D
+KOR,2012-07-15,11:00,Chunnam Dragons,Busan IPark,2,3,A,1,2,A
+KOR,2012-07-15,11:00,Jeju United,Daejeon Citizen,4,1,H,2,0,H
+KOR,2012-07-15,11:00,Incheon United,FC Seoul,3,2,H,1,1,D
+KOR,2012-07-21,09:00,Daegu FC,Suwon Bluewings,0,0,D,0,0,D
+KOR,2012-07-21,11:00,Daejeon Citizen,Sangju Sangmu,2,2,D,2,1,H
+KOR,2012-07-21,11:00,Jeju United,Chunnam Dragons,6,0,H,4,0,H
+KOR,2012-07-21,11:00,FC Seoul,Busan IPark,6,0,H,3,0,H
+KOR,2012-07-22,09:00,Jeonbuk FC,Gangwon FC,2,1,H,2,0,H
+KOR,2012-07-22,11:00,Pohang Steelers,Incheon United,2,1,H,0,1,A
+KOR,2012-07-22,11:00,Ulsan Hyundai,Gwangju FC,2,1,H,0,1,A
+KOR,2012-07-25,11:00,Daejeon Citizen,FC Seoul,0,2,A,0,1,A
+KOR,2012-07-25,11:30,Seongnam Ilhwa Chunma,Jeonbuk FC,0,0,D,0,0,D
+KOR,2012-07-25,11:30,Pohang Steelers,Gangwon FC,1,2,A,0,1,A
+KOR,2012-07-25,11:30,Gyeongnam FC,Jeju United,3,1,H,0,0,D
+KOR,2012-07-25,11:30,Busan IPark,Ulsan Hyundai,1,0,H,0,0,D
+KOR,2012-07-25,11:30,Chunnam Dragons,Sangju Sangmu,0,0,D,0,0,D
+KOR,2012-07-26,11:30,Incheon United,Daegu FC,1,0,H,0,0,D
+KOR,2012-07-26,11:30,Gwangju FC,Suwon Bluewings,2,2,D,2,1,H
+KOR,2012-07-28,11:00,Sangju Sangmu,Gyeongnam FC,1,0,H,0,0,D
+KOR,2012-07-28,11:00,Chunnam Dragons,Jeonbuk FC,2,3,A,1,0,H
+KOR,2012-07-28,11:00,Jeju United,FC Seoul,3,3,D,2,2,D
+KOR,2012-07-28,11:00,Daejeon Citizen,Ulsan Hyundai,0,0,D,0,0,D
+KOR,2012-07-29,09:00,Suwon Bluewings,Incheon United,3,1,H,2,0,H
+KOR,2012-07-29,11:00,Daegu FC,Seongnam Ilhwa Chunma,1,2,A,1,0,H
+KOR,2012-07-29,11:00,Busan IPark,Pohang Steelers,0,0,D,0,0,D
+KOR,2012-07-29,11:00,Gangwon FC,Gwangju FC,0,0,D,0,0,D
+KOR,2012-08-04,11:00,Gyeongnam FC,Daegu FC,4,1,H,1,0,H
+KOR,2012-08-04,11:00,FC Seoul,Gangwon FC,3,2,H,1,1,D
+KOR,2012-08-04,11:00,Gwangju FC,Busan IPark,0,2,A,0,1,A
+KOR,2012-08-04,11:00,Incheon United,Chunnam Dragons,1,0,H,0,0,D
+KOR,2012-08-04,11:30,Sangju Sangmu,Jeju United,2,1,H,0,1,A
+KOR,2012-08-05,11:00,Ulsan Hyundai,Suwon Bluewings,3,2,H,2,1,H
+KOR,2012-08-05,11:00,Jeonbuk FC,Daejeon Citizen,0,1,A,0,0,D
+KOR,2012-08-05,11:00,Pohang Steelers,Seongnam Ilhwa Chunma,3,1,H,0,1,A
+KOR,2012-08-08,11:00,Jeonbuk FC,Pohang Steelers,2,0,H,1,0,H
+KOR,2012-08-08,11:30,Seongnam Ilhwa Chunma,Ulsan Hyundai,0,1,A,0,0,D
+KOR,2012-08-08,11:30,Gangwon FC,Jeju United,1,1,D,0,0,D
+KOR,2012-08-08,12:00,Busan IPark,Suwon Bluewings,0,0,D,0,0,D
+KOR,2012-08-08,12:00,FC Seoul,Gyeongnam FC,2,1,H,0,1,A
+KOR,2012-08-08,12:00,Gwangju FC,Sangju Sangmu,1,0,H,0,0,D
+KOR,2012-08-09,11:00,Daejeon Citizen,Incheon United,0,2,A,0,0,D
+KOR,2012-08-09,11:00,Daegu FC,Chunnam Dragons,1,0,H,1,0,H
+KOR,2012-08-11,11:00,Jeju United,Gwangju FC,0,2,A,0,1,A
+KOR,2012-08-11,11:00,Suwon Bluewings,Sangju Sangmu,3,1,H,0,0,D
+KOR,2012-08-11,11:00,Busan IPark,Jeonbuk FC,0,0,D,0,0,D
+KOR,2012-08-11,11:00,Seongnam Ilhwa Chunma,FC Seoul,2,3,A,0,1,A
+KOR,2012-08-12,10:00,Daejeon Citizen,Gyeongnam FC,1,1,D,0,1,A
+KOR,2012-08-12,11:00,Chunnam Dragons,Pohang Steelers,3,4,A,2,1,H
+KOR,2012-08-12,11:00,Incheon United,Gangwon FC,2,0,H,1,0,H
+KOR,2012-08-12,11:00,Ulsan Hyundai,Daegu FC,1,1,D,0,0,D
+KOR,2012-08-18,11:00,Gangwon FC,Busan IPark,1,2,A,0,1,A
+KOR,2012-08-18,11:00,Ulsan Hyundai,Incheon United,0,1,A,0,1,A
+KOR,2012-08-18,11:00,Gwangju FC,Daejeon Citizen,1,2,A,0,2,A
+KOR,2012-08-18,11:00,FC Seoul,Suwon Bluewings,0,2,A,0,1,A
+KOR,2012-08-19,11:00,Sangju Sangmu,Seongnam Ilhwa Chunma,0,3,A,0,1,A
+KOR,2012-08-19,11:00,Jeonbuk FC,Jeju United,3,3,D,2,1,H
+KOR,2012-08-19,11:00,Gyeongnam FC,Chunnam Dragons,0,1,A,0,0,D
+KOR,2012-08-19,11:00,Pohang Steelers,Daegu FC,4,2,H,2,1,H
+KOR,2012-08-22,11:00,Daegu FC,Gangwon FC,2,0,H,1,0,H
+KOR,2012-08-22,11:30,Sangju Sangmu,Ulsan Hyundai,3,4,A,1,3,A
+KOR,2012-08-22,11:30,Gyeongnam FC,Busan IPark,2,0,H,0,0,D
+KOR,2012-08-22,11:30,Pohang Steelers,Gwangju FC,1,0,H,1,0,H
+KOR,2012-08-22,11:30,Chunnam Dragons,FC Seoul,0,3,A,0,2,A
+KOR,2012-08-23,11:00,Jeonbuk FC,Incheon United,1,2,A,0,0,D
+KOR,2012-08-23,11:00,Jeju United,Seongnam Ilhwa Chunma,1,2,A,1,0,H
+KOR,2012-08-23,11:30,Suwon Bluewings,Daejeon Citizen,2,2,D,1,1,D
+KOR,2012-08-26,11:00,Seongnam Ilhwa Chunma,Suwon Bluewings,1,1,D,1,0,H
+KOR,2012-08-26,11:00,Incheon United,Jeju United,0,0,D,0,0,D
+KOR,2012-08-26,11:00,FC Seoul,Daegu FC,2,0,H,1,0,H
+KOR,2012-08-26,11:00,Daejeon Citizen,Pohang Steelers,0,1,A,0,0,D
+KOR,2012-08-26,11:00,Busan IPark,Sangju Sangmu,0,0,D,0,0,D
+KOR,2012-08-26,11:00,Gangwon FC,Chunnam Dragons,3,4,A,2,3,A
+KOR,2012-08-26,11:00,Ulsan Hyundai,Jeonbuk FC,1,1,D,1,0,H
+KOR,2012-08-26,11:00,Gwangju FC,Gyeongnam FC,1,2,A,1,0,H

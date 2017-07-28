@@ -1,0 +1,137 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2015-05-01,17:00,Cienciano,León de Huánuco,4,2,H,1,2,A
+PER,2015-05-01,19:15,CD Unión Comercio,Universitario de Deportes,1,0,H,0,0,D
+PER,2015-05-01,21:30,Universidad Técnica,Real Garcilaso,2,3,A,1,2,A
+PER,2015-05-01,21:30,Alianza Atlético,Sport Loreto,1,0,H,0,0,D
+PER,2015-05-02,18:30,Ayacucho FC,Sport Huancayo,0,1,A,0,1,A
+PER,2015-05-02,21:00,Deportivo Municipal,Universidad Cesar Vallejo,1,0,H,0,0,D
+PER,2015-05-03,01:00,FBC Melgar,Universidad San Martín,1,1,D,1,0,H
+PER,2015-05-03,22:00,Alianza Lima,Juan Aurich,0,1,A,0,0,D
+PER,2015-05-05,19:15,Real Garcilaso,Ayacucho FC,3,2,H,1,0,H
+PER,2015-05-05,21:30,Sporting Cristal,CD Unión Comercio,1,1,D,0,1,A
+PER,2015-05-05,23:45,Sport Loreto,Universidad Técnica,2,1,H,1,1,D
+PER,2015-05-06,02:00,Universitario de Deportes,Alianza Atlético,1,1,D,1,1,D
+PER,2015-05-06,19:15,León de Huánuco,FBC Melgar,0,3,A,0,2,A
+PER,2015-05-06,21:30,Sport Huancayo,Cienciano,0,0,D,0,0,D
+PER,2015-05-06,23:45,Juan Aurich,Deportivo Municipal,1,1,D,0,0,D
+PER,2015-05-07,02:00,Universidad San Martín,Alianza Lima,2,3,A,0,2,A
+PER,2015-05-08,21:30,Alianza Atlético,Sporting Cristal,1,1,D,0,1,A
+PER,2015-05-09,18:30,Ayacucho FC,Sport Loreto,1,0,H,0,0,D
+PER,2015-05-09,21:00,Deportivo Municipal,Universidad San Martín,2,0,H,1,0,H
+PER,2015-05-09,23:45,Universidad Cesar Vallejo,Juan Aurich,2,0,H,1,0,H
+PER,2015-05-10,02:00,Alianza Lima,León de Huánuco,1,0,H,0,0,D
+PER,2015-05-10,17:15,Cienciano,Real Garcilaso,1,1,D,1,0,H
+PER,2015-05-10,19:30,FBC Melgar,Sport Huancayo,1,0,H,1,0,H
+PER,2015-05-10,22:00,Universidad Técnica,Universitario de Deportes,2,0,H,1,0,H
+PER,2015-05-12,19:15,CD Unión Comercio,Alianza Atlético,5,2,H,1,1,D
+PER,2015-05-12,21:30,León de Huánuco,Deportivo Municipal,1,1,D,0,0,D
+PER,2015-05-12,23:45,Universidad San Martín,Universidad Cesar Vallejo,3,2,H,1,1,D
+PER,2015-05-13,17:00,Sport Huancayo,Alianza Lima,1,1,D,1,0,H
+PER,2015-05-13,19:15,Real Garcilaso,FBC Melgar,1,0,H,0,0,D
+PER,2015-05-13,21:30,Sporting Cristal,Universidad Técnica,3,2,H,1,0,H
+PER,2015-05-13,23:45,Sport Loreto,Cienciano,1,0,H,1,0,H
+PER,2015-05-14,02:00,Universitario de Deportes,Ayacucho FC,2,0,H,2,0,H
+PER,2015-05-15,21:30,Juan Aurich,Universidad San Martín,1,0,H,0,0,D
+PER,2015-05-16,18:30,Cienciano,Universitario de Deportes,1,0,H,1,0,H
+PER,2015-05-16,21:00,Deportivo Municipal,Sport Huancayo,3,3,D,1,1,D
+PER,2015-05-17,02:00,Universidad Cesar Vallejo,León de Huánuco,2,2,D,1,1,D
+PER,2015-05-17,17:15,Ayacucho FC,Sporting Cristal,1,2,A,1,1,D
+PER,2015-05-17,19:30,FBC Melgar,Sport Loreto,2,2,D,0,0,D
+PER,2015-05-17,21:30,Universidad Técnica,CD Unión Comercio,4,2,H,3,2,H
+PER,2015-05-17,22:00,Alianza Lima,Real Garcilaso,0,1,A,0,0,D
+PER,2015-05-19,19:15,León de Huánuco,Juan Aurich,0,2,A,0,1,A
+PER,2015-05-19,21:20,Sport Huancayo,Universidad Cesar Vallejo,1,1,D,1,0,H
+PER,2015-05-20,02:00,Universitario de Deportes,FBC Melgar,0,0,D,0,0,D
+PER,2015-05-20,17:15,Alianza Atlético,Universidad Técnica,2,0,H,1,0,H
+PER,2015-05-20,19:15,CD Unión Comercio,Ayacucho FC,1,1,D,0,0,D
+PER,2015-05-20,21:30,Sporting Cristal,Cienciano,3,2,H,2,2,D
+PER,2015-05-20,21:30,Real Garcilaso,Deportivo Municipal,1,0,H,0,0,D
+PER,2015-05-21,02:00,Sport Loreto,Alianza Lima,1,0,H,0,0,D
+PER,2015-05-23,02:00,Universidad San Martín,León de Huánuco,3,1,H,0,1,A
+PER,2015-05-23,18:30,Ayacucho FC,Alianza Atlético,2,1,H,0,0,D
+PER,2015-05-23,21:00,FBC Melgar,Sporting Cristal,0,0,D,0,0,D
+PER,2015-05-24,17:15,Cienciano,CD Unión Comercio,3,2,H,3,0,H
+PER,2015-05-24,19:30,Universidad Cesar Vallejo,Real Garcilaso,2,0,H,1,0,H
+PER,2015-05-24,21:30,Deportivo Municipal,Sport Loreto,0,0,D,0,0,D
+PER,2015-05-25,00:00,Alianza Lima,Universitario de Deportes,1,0,H,0,0,D
+PER,2015-05-25,18:30,Juan Aurich,Sport Huancayo,4,0,H,2,0,H
+PER,2015-07-03,19:15,Sport Huancayo,Universidad San Martín,2,1,H,0,0,D
+PER,2015-07-03,21:30,Universidad Técnica,Ayacucho FC,1,0,H,1,0,H
+PER,2015-07-04,18:30,Alianza Atlético,Cienciano,3,2,H,2,1,H
+PER,2015-07-04,23:45,Sport Loreto,Universidad Cesar Vallejo,1,1,D,1,0,H
+PER,2015-07-05,02:00,Universitario de Deportes,Deportivo Municipal,0,1,A,0,1,A
+PER,2015-07-05,17:15,Real Garcilaso,Juan Aurich,2,1,H,2,0,H
+PER,2015-07-05,19:30,CD Unión Comercio,FBC Melgar,1,0,H,1,0,H
+PER,2015-07-05,22:00,Sporting Cristal,Alianza Lima,1,3,A,0,3,A
+PER,2015-07-11,02:00,Universidad San Martín,Real Garcilaso,2,0,H,0,0,D
+PER,2015-07-11,18:30,Juan Aurich,Sport Loreto,0,0,D,0,0,D
+PER,2015-07-11,21:00,Deportivo Municipal,Sporting Cristal,1,0,H,1,0,H
+PER,2015-07-11,23:45,León de Huánuco,Sport Huancayo,0,1,A,0,0,D
+PER,2015-07-12,02:00,Universidad Cesar Vallejo,Universitario de Deportes,4,2,H,2,1,H
+PER,2015-07-12,17:15,Cienciano,Universidad Técnica,2,0,H,0,0,D
+PER,2015-07-12,19:30,FBC Melgar,Alianza Atlético,2,1,H,1,0,H
+PER,2015-07-12,22:00,Alianza Lima,CD Unión Comercio,3,0,H,2,0,H
+PER,2015-07-14,19:15,Real Garcilaso,León de Huánuco,1,2,A,0,0,D
+PER,2015-07-14,21:30,Sporting Cristal,Universidad Cesar Vallejo,1,2,A,0,0,D
+PER,2015-07-14,23:45,Sport Loreto,Universidad San Martín,4,1,H,1,1,D
+PER,2015-07-15,02:00,Universitario de Deportes,Juan Aurich,1,1,D,0,1,A
+PER,2015-07-15,19:30,CD Unión Comercio,Deportivo Municipal,0,0,D,0,0,D
+PER,2015-07-15,19:30,Ayacucho FC,Cienciano,0,0,D,0,0,D
+PER,2015-07-15,21:30,Universidad Técnica,FBC Melgar,0,0,D,0,0,D
+PER,2015-07-16,19:00,Alianza Atlético,Alianza Lima,0,1,A,0,0,D
+PER,2015-07-17,21:30,Juan Aurich,Sporting Cristal,1,2,A,0,2,A
+PER,2015-07-18,18:30,Sport Huancayo,Real Garcilaso,1,1,D,1,0,H
+PER,2015-07-18,21:00,Deportivo Municipal,Alianza Atlético,2,0,H,0,0,D
+PER,2015-07-19,02:00,Universidad San Martín,Universitario de Deportes,0,1,A,0,0,D
+PER,2015-07-19,17:15,León de Huánuco,Sport Loreto,2,1,H,2,0,H
+PER,2015-07-19,19:30,FBC Melgar,Ayacucho FC,1,0,H,0,0,D
+PER,2015-07-19,22:00,Alianza Lima,Universidad Técnica,4,1,H,2,0,H
+PER,2015-07-20,00:15,Universidad Cesar Vallejo,CD Unión Comercio,0,1,A,0,0,D
+PER,2015-07-24,19:15,Alianza Atlético,Universidad Cesar Vallejo,1,1,D,0,0,D
+PER,2015-07-24,21:30,Universidad Técnica,Deportivo Municipal,2,3,A,1,2,A
+PER,2015-07-25,18:30,CD Unión Comercio,Juan Aurich,3,1,H,1,0,H
+PER,2015-07-25,21:00,Sporting Cristal,Universidad San Martín,2,0,H,1,0,H
+PER,2015-07-25,23:45,Sport Loreto,Sport Huancayo,1,1,D,0,1,A
+PER,2015-07-26,17:15,Cienciano,FBC Melgar,1,3,A,0,2,A
+PER,2015-07-26,19:30,Ayacucho FC,Alianza Lima,2,1,H,0,0,D
+PER,2015-07-26,22:00,Universitario de Deportes,León de Huánuco,1,4,A,0,2,A
+PER,2015-07-28,19:15,Real Garcilaso,Sport Loreto,4,0,H,1,0,H
+PER,2015-07-28,21:30,Deportivo Municipal,Ayacucho FC,2,1,H,1,1,D
+PER,2015-07-28,23:45,Universidad Cesar Vallejo,Universidad Técnica,1,1,D,1,0,H
+PER,2015-07-29,02:00,Universidad San Martín,CD Unión Comercio,0,0,D,0,0,D
+PER,2015-07-29,17:00,Sport Huancayo,Universitario de Deportes,0,0,D,0,0,D
+PER,2015-07-29,19:15,León de Huánuco,Sporting Cristal,1,2,A,0,1,A
+PER,2015-07-29,21:30,Juan Aurich,Alianza Atlético,0,1,A,0,1,A
+PER,2015-07-30,02:00,Alianza Lima,Cienciano,1,0,H,0,0,D
+PER,2015-08-01,18:30,CD Unión Comercio,León de Huánuco,2,0,H,0,0,D
+PER,2015-08-01,21:00,Sporting Cristal,Sport Huancayo,1,0,H,0,0,D
+PER,2015-08-02,02:00,FBC Melgar,Alianza Lima,3,1,H,1,1,D
+PER,2015-08-02,17:15,Cienciano,Deportivo Municipal,3,1,H,0,1,A
+PER,2015-08-02,19:30,Ayacucho FC,Universidad Cesar Vallejo,2,2,D,1,0,H
+PER,2015-08-02,22:00,Universitario de Deportes,Real Garcilaso,1,1,D,0,0,D
+PER,2015-08-03,19:15,Alianza Atlético,Universidad San Martín,2,0,H,0,0,D
+PER,2015-08-03,21:30,Universidad Técnica,Juan Aurich,2,2,D,2,1,H
+PER,2015-08-07,21:15,Juan Aurich,Ayacucho FC,5,0,H,2,0,H
+PER,2015-08-08,02:00,Universidad San Martín,Universidad Técnica,0,0,D,0,0,D
+PER,2015-08-08,18:30,Sport Huancayo,CD Unión Comercio,3,0,H,2,0,H
+PER,2015-08-08,21:00,Deportivo Municipal,FBC Melgar,1,1,D,0,1,A
+PER,2015-08-09,02:00,Universidad Cesar Vallejo,Cienciano,3,2,H,2,1,H
+PER,2015-08-09,17:15,Real Garcilaso,Sporting Cristal,0,4,A,0,3,A
+PER,2015-08-09,19:30,León de Huánuco,Alianza Atlético,1,0,H,1,0,H
+PER,2015-08-09,22:00,Sport Loreto,Universitario de Deportes,0,1,A,0,0,D
+PER,2015-08-14,19:15,Alianza Atlético,Sport Huancayo,2,0,H,1,0,H
+PER,2015-08-14,21:30,Cienciano,Juan Aurich,1,2,A,0,1,A
+PER,2015-08-15,18:30,Ayacucho FC,Universidad San Martín,1,0,H,0,0,D
+PER,2015-08-15,21:00,Sporting Cristal,Sport Loreto,2,1,H,0,0,D
+PER,2015-08-16,17:00,FBC Melgar,Universidad Cesar Vallejo,2,0,H,0,0,D
+PER,2015-08-16,19:15,CD Unión Comercio,Real Garcilaso,1,1,D,1,1,D
+PER,2015-08-16,21:30,Universidad Técnica,León de Huánuco,2,2,D,1,2,A
+PER,2015-08-16,22:00,Alianza Lima,Deportivo Municipal,0,0,D,0,0,D
+PER,2015-08-22,18:30,Sport Huancayo,Universidad Técnica,5,1,H,3,1,H
+PER,2015-08-22,21:00,Universidad San Martín,Cienciano,1,1,D,0,0,D
+PER,2015-08-23,17:15,Real Garcilaso,Alianza Atlético,2,1,H,0,0,D
+PER,2015-08-23,21:30,Juan Aurich,FBC Melgar,2,3,A,1,0,H
+PER,2015-08-23,21:30,Universidad Cesar Vallejo,Alianza Lima,1,0,H,0,0,D
+PER,2015-08-23,21:30,Universitario de Deportes,Sporting Cristal,0,0,D,0,0,D
+PER,2015-08-23,23:45,Sport Loreto,CD Unión Comercio,0,1,A,0,0,D
+PER,2015-08-24,21:30,León de Huánuco,Ayacucho FC,3,2,H,1,0,H

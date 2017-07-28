@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,2014-08-23,18:00,Málaga CF,Athletic Bilbao,1,0,H,1,0,H
+ESP,2014-08-23,20:00,Sevilla FC,Valencia CF,1,1,D,1,0,H
+ESP,2014-08-23,20:00,Granada CF,Deportivo La Coruña,2,1,H,0,1,A
+ESP,2014-08-23,22:00,UD Almería,Espanyol Barcelona,1,1,D,0,0,D
+ESP,2014-08-24,18:00,SD Eibar,Real Sociedad,1,0,H,1,0,H
+ESP,2014-08-24,20:00,Celta Vigo,Getafe CF,3,1,H,1,0,H
+ESP,2014-08-24,20:00,FC Barcelona,Elche CF,3,0,H,1,0,H
+ESP,2014-08-24,22:00,Levante UD,Villarreal CF,0,2,A,0,0,D
+ESP,2014-08-25,19:00,Real Madrid,Córdoba CF,2,0,H,1,0,H
+ESP,2014-08-25,21:00,Rayo Vallecano,Atlético Madrid,0,0,D,0,0,D
+ESP,2014-08-29,19:00,Getafe CF,UD Almería,1,0,H,1,0,H
+ESP,2014-08-29,21:00,Valencia CF,Málaga CF,3,0,H,2,0,H
+ESP,2014-08-30,18:00,Córdoba CF,Celta Vigo,1,1,D,0,0,D
+ESP,2014-08-30,18:00,Athletic Bilbao,Levante UD,3,0,H,1,0,H
+ESP,2014-08-30,20:00,Atlético Madrid,SD Eibar,2,1,H,2,1,H
+ESP,2014-08-30,22:00,Espanyol Barcelona,Sevilla FC,1,2,A,0,1,A
+ESP,2014-08-31,18:00,Villarreal CF,FC Barcelona,0,1,A,0,0,D
+ESP,2014-08-31,20:00,Real Sociedad,Real Madrid,4,2,H,2,2,D
+ESP,2014-08-31,20:00,Deportivo La Coruña,Rayo Vallecano,2,2,D,1,1,D
+ESP,2014-08-31,22:00,Elche CF,Granada CF,1,1,D,0,0,D
+ESP,2014-09-12,20:00,UD Almería,Córdoba CF,1,1,D,1,1,D
+ESP,2014-09-13,15:00,FC Barcelona,Athletic Bilbao,2,0,H,0,0,D
+ESP,2014-09-13,17:00,Málaga CF,Levante UD,0,0,D,0,0,D
+ESP,2014-09-13,19:00,Real Madrid,Atlético Madrid,1,2,A,1,1,D
+ESP,2014-09-13,21:00,Celta Vigo,Real Sociedad,2,2,D,1,0,H
+ESP,2014-09-14,11:00,Rayo Vallecano,Elche CF,2,3,A,1,1,D
+ESP,2014-09-14,16:00,Valencia CF,Espanyol Barcelona,3,1,H,1,0,H
+ESP,2014-09-14,18:00,Sevilla FC,Getafe CF,2,0,H,1,0,H
+ESP,2014-09-14,20:00,Granada CF,Villarreal CF,0,0,D,0,0,D
+ESP,2014-09-15,19:45,SD Eibar,Deportivo La Coruña,0,1,A,0,1,A
+ESP,2014-09-19,20:00,Elche CF,SD Eibar,0,2,A,0,2,A
+ESP,2014-09-20,15:00,Deportivo La Coruña,Real Madrid,2,8,A,0,3,A
+ESP,2014-09-20,17:00,Athletic Bilbao,Granada CF,0,1,A,0,1,A
+ESP,2014-09-20,19:00,Atlético Madrid,Celta Vigo,2,2,D,2,1,H
+ESP,2014-09-20,21:00,Espanyol Barcelona,Málaga CF,2,2,D,1,0,H
+ESP,2014-09-21,11:00,Real Sociedad,UD Almería,1,2,A,0,1,A
+ESP,2014-09-21,16:00,Villarreal CF,Rayo Vallecano,4,2,H,1,2,A
+ESP,2014-09-21,18:00,Córdoba CF,Sevilla FC,1,3,A,0,1,A
+ESP,2014-09-21,20:00,Levante UD,FC Barcelona,0,5,A,0,2,A
+ESP,2014-09-22,19:45,Getafe CF,Valencia CF,0,3,A,0,2,A
+ESP,2014-09-23,19:00,Real Madrid,Elche CF,5,1,H,3,1,H
+ESP,2014-09-23,21:00,Celta Vigo,Deportivo La Coruña,2,1,H,1,0,H
+ESP,2014-09-24,19:00,UD Almería,Atlético Madrid,0,1,A,0,0,D
+ESP,2014-09-24,19:00,SD Eibar,Villarreal CF,1,1,D,1,0,H
+ESP,2014-09-24,19:00,Rayo Vallecano,Athletic Bilbao,2,1,H,1,1,D
+ESP,2014-09-24,21:00,Sevilla FC,Real Sociedad,1,0,H,1,0,H
+ESP,2014-09-24,21:00,Granada CF,Levante UD,0,1,A,0,0,D
+ESP,2014-09-24,21:00,Málaga CF,FC Barcelona,0,0,D,0,0,D
+ESP,2014-09-25,19:00,Espanyol Barcelona,Getafe CF,2,0,H,0,0,D
+ESP,2014-09-25,21:00,Valencia CF,Córdoba CF,3,0,H,2,0,H
+ESP,2014-09-26,20:00,Elche CF,Celta Vigo,0,1,A,0,0,D
+ESP,2014-09-27,15:00,Villarreal CF,Real Madrid,0,2,A,0,2,A
+ESP,2014-09-27,17:00,FC Barcelona,Granada CF,6,0,H,3,0,H
+ESP,2014-09-27,19:00,Atlético Madrid,Sevilla FC,4,0,H,2,0,H
+ESP,2014-09-27,21:00,Athletic Bilbao,SD Eibar,0,0,D,0,0,D
+ESP,2014-09-27,21:00,Levante UD,Rayo Vallecano,0,2,A,0,2,A
+ESP,2014-09-28,11:00,Getafe CF,Málaga CF,1,0,H,1,0,H
+ESP,2014-09-28,16:00,Deportivo La Coruña,UD Almería,0,1,A,0,0,D
+ESP,2014-09-28,18:00,Real Sociedad,Valencia CF,1,1,D,1,1,D
+ESP,2014-09-28,20:00,Córdoba CF,Espanyol Barcelona,0,0,D,0,0,D
+ESP,2014-10-03,20:00,Getafe CF,Córdoba CF,1,1,D,0,0,D
+ESP,2014-10-04,15:00,Valencia CF,Atlético Madrid,3,1,H,3,1,H
+ESP,2014-10-04,17:00,Rayo Vallecano,FC Barcelona,0,2,A,0,2,A
+ESP,2014-10-04,19:00,SD Eibar,Levante UD,3,3,D,0,2,A
+ESP,2014-10-04,21:00,UD Almería,Elche CF,2,2,D,1,1,D
+ESP,2014-10-04,21:00,Málaga CF,Granada CF,2,1,H,0,1,A
+ESP,2014-10-05,11:00,Sevilla FC,Deportivo La Coruña,4,1,H,2,1,H
+ESP,2014-10-05,16:00,Celta Vigo,Villarreal CF,1,3,A,1,2,A
+ESP,2014-10-05,18:00,Espanyol Barcelona,Real Sociedad,2,0,H,1,0,H
+ESP,2014-10-05,20:00,Real Madrid,Athletic Bilbao,5,0,H,2,0,H
+ESP,2014-10-17,20:00,Granada CF,Rayo Vallecano,0,1,A,0,0,D
+ESP,2014-10-18,15:00,Levante UD,Real Madrid,0,5,A,0,2,A
+ESP,2014-10-18,17:00,Athletic Bilbao,Celta Vigo,1,1,D,1,0,H
+ESP,2014-10-18,19:00,FC Barcelona,SD Eibar,3,0,H,0,0,D
+ESP,2014-10-18,21:00,Córdoba CF,Málaga CF,1,2,A,0,2,A
+ESP,2014-10-19,11:00,Atlético Madrid,Espanyol Barcelona,2,0,H,1,0,H
+ESP,2014-10-19,16:00,Deportivo La Coruña,Valencia CF,3,0,H,2,0,H
+ESP,2014-10-19,18:00,Elche CF,Sevilla FC,0,2,A,0,0,D
+ESP,2014-10-19,20:00,Villarreal CF,UD Almería,2,0,H,1,0,H
+ESP,2014-10-20,19:45,Real Sociedad,Getafe CF,1,2,A,0,0,D
+ESP,2014-10-24,20:00,Celta Vigo,Levante UD,3,0,H,1,0,H
+ESP,2014-10-25,15:00,UD Almería,Athletic Bilbao,0,1,A,0,0,D
+ESP,2014-10-25,17:00,Real Madrid,FC Barcelona,3,1,H,1,1,D
+ESP,2014-10-25,19:00,Valencia CF,Elche CF,3,1,H,2,0,H
+ESP,2014-10-25,21:00,Córdoba CF,Real Sociedad,1,1,D,0,1,A
+ESP,2014-10-25,21:00,SD Eibar,Granada CF,1,1,D,1,1,D
+ESP,2014-10-26,11:00,Málaga CF,Rayo Vallecano,4,0,H,3,0,H
+ESP,2014-10-26,16:00,Espanyol Barcelona,Deportivo La Coruña,0,0,D,0,0,D
+ESP,2014-10-26,18:00,Sevilla FC,Villarreal CF,2,1,H,0,0,D
+ESP,2014-10-26,20:00,Getafe CF,Atlético Madrid,0,1,A,0,1,A
+ESP,2014-10-31,19:45,Deportivo La Coruña,Getafe CF,1,2,A,0,1,A
+ESP,2014-11-01,15:00,Granada CF,Real Madrid,0,4,A,0,2,A
+ESP,2014-11-01,17:00,Atlético Madrid,Córdoba CF,4,2,H,1,0,H
+ESP,2014-11-01,19:00,FC Barcelona,Celta Vigo,0,1,A,0,0,D
+ESP,2014-11-01,21:00,Real Sociedad,Málaga CF,0,1,A,0,0,D
+ESP,2014-11-02,11:00,Athletic Bilbao,Sevilla FC,1,0,H,1,0,H
+ESP,2014-11-02,16:00,Villarreal CF,Valencia CF,1,3,A,0,1,A
+ESP,2014-11-02,18:00,Levante UD,UD Almería,2,1,H,1,0,H
+ESP,2014-11-02,20:00,Elche CF,Espanyol Barcelona,2,1,H,1,0,H
+ESP,2014-11-03,19:45,Rayo Vallecano,SD Eibar,2,3,A,0,1,A
+ESP,2014-11-07,19:45,Córdoba CF,Deportivo La Coruña,0,0,D,0,0,D
+ESP,2014-11-08,15:00,UD Almería,FC Barcelona,1,2,A,1,0,H
+ESP,2014-11-08,17:00,Getafe CF,Elche CF,0,0,D,0,0,D
+ESP,2014-11-08,19:00,Real Madrid,Rayo Vallecano,5,1,H,2,1,H
+ESP,2014-11-08,21:00,Celta Vigo,Granada CF,0,0,D,0,0,D
+ESP,2014-11-08,21:00,Málaga CF,SD Eibar,2,1,H,0,1,A
+ESP,2014-11-09,11:00,Sevilla FC,Levante UD,1,1,D,1,0,H
+ESP,2014-11-09,16:00,Espanyol Barcelona,Villarreal CF,1,1,D,0,1,A
+ESP,2014-11-09,18:00,Valencia CF,Athletic Bilbao,0,0,D,0,0,D
+ESP,2014-11-09,20:00,Real Sociedad,Atlético Madrid,2,1,H,1,1,D
+ESP,2014-11-21,19:45,Athletic Bilbao,Espanyol Barcelona,3,1,H,2,0,H
+ESP,2014-11-22,15:00,Atlético Madrid,Málaga CF,3,1,H,2,0,H
+ESP,2014-11-22,17:00,SD Eibar,Real Madrid,0,4,A,0,2,A
+ESP,2014-11-22,19:00,FC Barcelona,Sevilla FC,5,1,H,1,0,H
+ESP,2014-11-22,21:00,Deportivo La Coruña,Real Sociedad,0,0,D,0,0,D
+ESP,2014-11-23,11:00,Rayo Vallecano,Celta Vigo,1,0,H,1,0,H
+ESP,2014-11-23,16:00,Levante UD,Valencia CF,2,1,H,0,0,D
+ESP,2014-11-23,18:00,Elche CF,Córdoba CF,2,2,D,0,1,A
+ESP,2014-11-23,20:00,Villarreal CF,Getafe CF,2,1,H,2,0,H
+ESP,2014-11-24,19:45,Granada CF,UD Almería,0,0,D,0,0,D
+ESP,2014-11-28,19:45,Real Sociedad,Elche CF,3,0,H,2,0,H
+ESP,2014-11-29,15:00,Getafe CF,Athletic Bilbao,1,2,A,0,1,A
+ESP,2014-11-29,17:00,Espanyol Barcelona,Levante UD,2,1,H,2,1,H
+ESP,2014-11-29,19:00,Málaga CF,Real Madrid,1,2,A,0,1,A
+ESP,2014-11-29,21:00,Celta Vigo,SD Eibar,0,1,A,0,1,A
+ESP,2014-11-30,11:00,Atlético Madrid,Deportivo La Coruña,2,0,H,1,0,H
+ESP,2014-11-30,16:00,Sevilla FC,Granada CF,5,1,H,1,1,D
+ESP,2014-11-30,18:00,Córdoba CF,Villarreal CF,0,2,A,0,1,A
+ESP,2014-11-30,20:00,Valencia CF,FC Barcelona,0,1,A,0,0,D
+ESP,2014-12-01,19:45,UD Almería,Rayo Vallecano,0,1,A,0,0,D
+ESP,2014-12-06,15:00,Elche CF,Atlético Madrid,0,2,A,0,1,A
+ESP,2014-12-06,17:00,Athletic Bilbao,Córdoba CF,0,1,A,0,1,A
+ESP,2014-12-06,19:00,Real Madrid,Celta Vigo,3,0,H,1,0,H
+ESP,2014-12-06,21:00,Deportivo La Coruña,Málaga CF,0,1,A,0,1,A
+ESP,2014-12-07,11:00,Rayo Vallecano,Sevilla FC,0,1,A,0,1,A
+ESP,2014-12-07,16:00,FC Barcelona,Espanyol Barcelona,5,1,H,1,1,D
+ESP,2014-12-07,18:00,Villarreal CF,Real Sociedad,4,0,H,0,0,D
+ESP,2014-12-07,20:00,Granada CF,Valencia CF,1,1,D,0,0,D
+ESP,2014-12-08,16:00,SD Eibar,UD Almería,5,2,H,2,1,H
+ESP,2014-12-08,18:00,Levante UD,Getafe CF,1,1,D,0,0,D
+ESP,2014-12-12,19:45,UD Almería,Real Madrid,1,4,A,1,2,A
+ESP,2014-12-13,15:00,Getafe CF,FC Barcelona,0,0,D,0,0,D
+ESP,2014-12-13,17:00,Valencia CF,Rayo Vallecano,3,0,H,3,0,H
+ESP,2014-12-13,19:00,Córdoba CF,Levante UD,0,0,D,0,0,D
+ESP,2014-12-13,21:00,Málaga CF,Celta Vigo,1,0,H,1,0,H
+ESP,2014-12-14,11:00,Espanyol Barcelona,Granada CF,2,1,H,1,0,H
+ESP,2014-12-14,16:00,Sevilla FC,SD Eibar,0,0,D,0,0,D
+ESP,2014-12-14,18:00,Atlético Madrid,Villarreal CF,0,1,A,0,0,D
+ESP,2014-12-14,20:00,Real Sociedad,Athletic Bilbao,1,1,D,1,0,H
+ESP,2014-12-15,19:45,Deportivo La Coruña,Elche CF,1,0,H,1,0,H
+ESP,2014-12-19,19:45,Celta Vigo,UD Almería,0,1,A,0,1,A
+ESP,2014-12-20,15:00,FC Barcelona,Córdoba CF,5,0,H,1,0,H
+ESP,2014-12-20,17:00,Levante UD,Real Sociedad,1,1,D,0,0,D
+ESP,2014-12-20,19:00,SD Eibar,Valencia CF,0,1,A,0,1,A
+ESP,2014-12-20,21:00,Rayo Vallecano,Espanyol Barcelona,1,3,A,1,1,D
+ESP,2014-12-21,11:00,Villarreal CF,Deportivo La Coruña,3,0,H,1,0,H
+ESP,2014-12-21,16:00,Granada CF,Getafe CF,1,1,D,1,0,H
+ESP,2014-12-21,18:00,Elche CF,Málaga CF,1,2,A,1,0,H
+ESP,2014-12-21,20:00,Athletic Bilbao,Atlético Madrid,1,4,A,1,0,H
+ESP,2015-01-03,15:00,Atlético Madrid,Levante UD,3,1,H,1,0,H
+ESP,2015-01-03,17:00,Sevilla FC,Celta Vigo,1,0,H,1,0,H
+ESP,2015-01-03,19:00,Elche CF,Villarreal CF,2,2,D,2,2,D
+ESP,2015-01-03,21:00,Deportivo La Coruña,Athletic Bilbao,1,0,H,1,0,H
+ESP,2015-01-03,21:00,Málaga CF,UD Almería,1,2,A,0,1,A
+ESP,2015-01-04,11:00,Getafe CF,Rayo Vallecano,1,2,A,1,1,D
+ESP,2015-01-04,16:00,Valencia CF,Real Madrid,2,1,H,0,1,A
+ESP,2015-01-04,18:00,Espanyol Barcelona,SD Eibar,1,2,A,0,2,A
+ESP,2015-01-04,20:00,Real Sociedad,FC Barcelona,1,0,H,1,0,H
+ESP,2015-01-05,19:45,Córdoba CF,Granada CF,2,0,H,2,0,H
+ESP,2015-01-09,19:45,Levante UD,Deportivo La Coruña,0,0,D,0,0,D
+ESP,2015-01-10,15:00,Real Madrid,Espanyol Barcelona,3,0,H,2,0,H
+ESP,2015-01-10,17:00,Málaga CF,Villarreal CF,1,1,D,0,1,A
+ESP,2015-01-10,19:00,Celta Vigo,Valencia CF,1,1,D,0,1,A
+ESP,2015-01-10,21:00,SD Eibar,Getafe CF,2,1,H,1,0,H
+ESP,2015-01-11,11:00,UD Almería,Sevilla FC,0,2,A,0,0,D
+ESP,2015-01-11,16:00,Athletic Bilbao,Elche CF,1,2,A,0,1,A
+ESP,2015-01-11,18:00,Granada CF,Real Sociedad,1,1,D,0,1,A
+ESP,2015-01-11,20:00,FC Barcelona,Atlético Madrid,3,1,H,2,0,H
+ESP,2015-01-12,19:45,Rayo Vallecano,Córdoba CF,0,1,A,0,1,A
+ESP,2015-01-16,19:45,Córdoba CF,SD Eibar,1,1,D,1,0,H
+ESP,2015-01-17,15:00,Real Sociedad,Rayo Vallecano,0,1,A,0,0,D
+ESP,2015-01-17,17:00,Valencia CF,UD Almería,3,2,H,2,2,D
+ESP,2015-01-17,19:00,Villarreal CF,Athletic Bilbao,2,0,H,1,0,H
+ESP,2015-01-17,21:00,Espanyol Barcelona,Celta Vigo,1,0,H,0,0,D
+ESP,2015-01-18,11:00,Getafe CF,Real Madrid,0,3,A,0,0,D
+ESP,2015-01-18,16:00,Atlético Madrid,Granada CF,2,0,H,1,0,H
+ESP,2015-01-18,18:00,Deportivo La Coruña,FC Barcelona,0,4,A,0,2,A
+ESP,2015-01-18,20:00,Elche CF,Levante UD,1,0,H,1,0,H
+ESP,2015-01-18,20:00,Sevilla FC,Málaga CF,2,0,H,1,0,H
+ESP,2015-01-24,15:00,Córdoba CF,Real Madrid,1,2,A,1,1,D
+ESP,2015-01-24,17:00,Elche CF,FC Barcelona,0,6,A,0,1,A
+ESP,2015-01-24,19:00,Atlético Madrid,Rayo Vallecano,3,1,H,2,1,H
+ESP,2015-01-24,21:00,Villarreal CF,Levante UD,1,0,H,0,0,D
+ESP,2015-01-24,21:00,Real Sociedad,SD Eibar,1,0,H,0,0,D
+ESP,2015-01-25,11:00,Deportivo La Coruña,Granada CF,2,2,D,2,1,H
+ESP,2015-01-25,16:00,Athletic Bilbao,Málaga CF,1,1,D,0,0,D
+ESP,2015-01-25,18:00,Espanyol Barcelona,UD Almería,3,0,H,2,0,H
+ESP,2015-01-25,20:00,Valencia CF,Sevilla FC,3,1,H,2,1,H
+ESP,2015-01-26,19:45,Getafe CF,Celta Vigo,2,1,H,1,1,D
+ESP,2015-01-30,19:45,Rayo Vallecano,Deportivo La Coruña,1,2,A,1,1,D
+ESP,2015-01-31,15:00,Real Madrid,Real Sociedad,4,1,H,2,1,H
+ESP,2015-01-31,17:00,SD Eibar,Atlético Madrid,1,3,A,0,3,A
+ESP,2015-01-31,19:00,Granada CF,Elche CF,1,0,H,0,0,D
+ESP,2015-01-31,21:00,Celta Vigo,Córdoba CF,1,0,H,0,0,D
+ESP,2015-02-01,11:00,Levante UD,Athletic Bilbao,0,2,A,0,0,D
+ESP,2015-02-01,16:00,UD Almería,Getafe CF,1,0,H,1,0,H
+ESP,2015-02-01,18:00,Sevilla FC,Espanyol Barcelona,3,2,H,2,1,H
+ESP,2015-02-01,20:00,FC Barcelona,Villarreal CF,3,2,H,1,1,D
+ESP,2015-02-02,19:45,Málaga CF,Valencia CF,1,0,H,1,0,H
+ESP,2015-02-04,19:45,Real Madrid,Sevilla FC,2,1,H,2,0,H
+ESP,2015-02-06,19:45,Deportivo La Coruña,SD Eibar,2,0,H,0,0,D
+ESP,2015-02-07,15:00,Atlético Madrid,Real Madrid,4,0,H,2,0,H
+ESP,2015-02-07,17:00,Villarreal CF,Granada CF,2,0,H,1,0,H
+ESP,2015-02-07,19:00,Levante UD,Málaga CF,4,1,H,2,1,H
+ESP,2015-02-07,21:00,Real Sociedad,Celta Vigo,1,1,D,1,0,H
+ESP,2015-02-08,11:00,Córdoba CF,UD Almería,1,2,A,1,0,H
+ESP,2015-02-08,16:00,Getafe CF,Sevilla FC,2,1,H,1,0,H
+ESP,2015-02-08,18:00,Espanyol Barcelona,Valencia CF,1,2,A,0,0,D
+ESP,2015-02-08,20:00,Athletic Bilbao,FC Barcelona,2,5,A,0,2,A
+ESP,2015-02-09,19:45,Elche CF,Rayo Vallecano,2,0,H,1,0,H
+ESP,2015-02-13,19:45,UD Almería,Real Sociedad,2,2,D,2,1,H
+ESP,2015-02-14,15:00,Sevilla FC,Córdoba CF,3,0,H,2,0,H
+ESP,2015-02-14,17:00,Real Madrid,Deportivo La Coruña,2,0,H,1,0,H
+ESP,2015-02-14,19:00,Granada CF,Athletic Bilbao,0,0,D,0,0,D
+ESP,2015-02-14,21:00,Málaga CF,Espanyol Barcelona,0,2,A,0,1,A
+ESP,2015-02-15,11:00,Valencia CF,Getafe CF,1,0,H,0,0,D
+ESP,2015-02-15,16:00,FC Barcelona,Levante UD,5,0,H,2,0,H
+ESP,2015-02-15,18:00,Rayo Vallecano,Villarreal CF,2,0,H,0,0,D
+ESP,2015-02-15,20:00,Celta Vigo,Atlético Madrid,2,0,H,0,0,D
+ESP,2015-02-16,19:45,SD Eibar,Elche CF,0,1,A,0,0,D
+ESP,2015-02-20,19:45,Getafe CF,Espanyol Barcelona,2,1,H,1,0,H
+ESP,2015-02-21,15:00,FC Barcelona,Málaga CF,0,1,A,0,1,A
+ESP,2015-02-21,17:00,Córdoba CF,Valencia CF,1,2,A,0,1,A
+ESP,2015-02-21,19:00,Atlético Madrid,UD Almería,3,0,H,3,0,H
+ESP,2015-02-21,21:00,Deportivo La Coruña,Celta Vigo,0,2,A,0,0,D
+ESP,2015-02-22,11:00,Real Sociedad,Sevilla FC,4,3,H,1,1,D
+ESP,2015-02-22,16:00,Athletic Bilbao,Rayo Vallecano,1,0,H,0,0,D
+ESP,2015-02-22,18:00,Villarreal CF,SD Eibar,1,0,H,0,0,D
+ESP,2015-02-22,20:00,Elche CF,Real Madrid,0,2,A,0,0,D
+ESP,2015-02-23,19:45,Levante UD,Granada CF,2,1,H,0,1,A
+ESP,2015-02-27,19:45,Espanyol Barcelona,Córdoba CF,1,0,H,1,0,H
+ESP,2015-02-28,15:00,Granada CF,FC Barcelona,1,3,A,0,1,A
+ESP,2015-02-28,17:00,Rayo Vallecano,Levante UD,4,2,H,4,1,H
+ESP,2015-02-28,19:00,UD Almería,Deportivo La Coruña,0,0,D,0,0,D
+ESP,2015-02-28,21:00,Málaga CF,Getafe CF,3,2,H,1,0,H
+ESP,2015-03-01,11:00,Valencia CF,Real Sociedad,2,0,H,0,0,D
+ESP,2015-03-01,16:00,SD Eibar,Athletic Bilbao,0,1,A,0,1,A
+ESP,2015-03-01,18:00,Sevilla FC,Atlético Madrid,0,0,D,0,0,D
+ESP,2015-03-01,20:00,Real Madrid,Villarreal CF,1,1,D,0,0,D
+ESP,2015-03-02,19:45,Celta Vigo,Elche CF,1,1,D,0,0,D
+ESP,2015-03-06,19:45,Levante UD,SD Eibar,2,1,H,0,0,D
+ESP,2015-03-07,15:00,Deportivo La Coruña,Sevilla FC,3,4,A,1,1,D
+ESP,2015-03-07,17:00,Athletic Bilbao,Real Madrid,1,0,H,1,0,H
+ESP,2015-03-07,19:00,Elche CF,UD Almería,1,0,H,1,0,H
+ESP,2015-03-07,21:00,Granada CF,Málaga CF,1,0,H,0,0,D
+ESP,2015-03-08,11:00,FC Barcelona,Rayo Vallecano,6,1,H,1,0,H
+ESP,2015-03-08,16:00,Real Sociedad,Espanyol Barcelona,1,0,H,1,0,H
+ESP,2015-03-08,18:00,Villarreal CF,Celta Vigo,4,1,H,2,0,H
+ESP,2015-03-08,20:00,Atlético Madrid,Valencia CF,1,1,D,1,0,H
+ESP,2015-03-09,19:45,Córdoba CF,Getafe CF,1,2,A,0,0,D
+ESP,2015-03-13,19:45,Valencia CF,Deportivo La Coruña,2,0,H,0,0,D
+ESP,2015-03-14,15:00,Espanyol Barcelona,Atlético Madrid,0,0,D,0,0,D
+ESP,2015-03-14,17:00,SD Eibar,FC Barcelona,0,2,A,0,1,A
+ESP,2015-03-14,19:00,Rayo Vallecano,Granada CF,3,1,H,0,1,A
+ESP,2015-03-14,21:00,Celta Vigo,Athletic Bilbao,1,2,A,0,2,A
+ESP,2015-03-15,11:00,UD Almería,Villarreal CF,0,0,D,0,0,D
+ESP,2015-03-15,16:00,Málaga CF,Córdoba CF,2,0,H,0,0,D
+ESP,2015-03-15,18:00,Sevilla FC,Elche CF,3,0,H,2,0,H
+ESP,2015-03-15,20:00,Real Madrid,Levante UD,2,0,H,2,0,H
+ESP,2015-03-16,19:45,Getafe CF,Real Sociedad,0,1,A,0,0,D
+ESP,2015-03-20,19:45,Elche CF,Valencia CF,0,4,A,0,1,A
+ESP,2015-03-21,15:00,Atlético Madrid,Getafe CF,2,0,H,2,0,H
+ESP,2015-03-21,17:00,Rayo Vallecano,Málaga CF,1,0,H,1,0,H
+ESP,2015-03-21,19:00,Levante UD,Celta Vigo,0,1,A,0,0,D
+ESP,2015-03-21,21:00,Athletic Bilbao,UD Almería,2,1,H,2,0,H
+ESP,2015-03-21,21:00,Granada CF,SD Eibar,0,0,D,0,0,D
+ESP,2015-03-22,11:00,Deportivo La Coruña,Espanyol Barcelona,0,0,D,0,0,D
+ESP,2015-03-22,16:00,Villarreal CF,Sevilla FC,0,2,A,0,0,D
+ESP,2015-03-22,18:00,Real Sociedad,Córdoba CF,3,1,H,1,1,D
+ESP,2015-03-22,20:00,FC Barcelona,Real Madrid,2,1,H,1,1,D
+ESP,2015-04-03,19:45,SD Eibar,Rayo Vallecano,1,2,A,1,2,A
+ESP,2015-04-04,15:00,Sevilla FC,Athletic Bilbao,2,0,H,2,0,H
+ESP,2015-04-04,17:00,Córdoba CF,Atlético Madrid,0,2,A,0,2,A
+ESP,2015-04-04,19:00,UD Almería,Levante UD,1,4,A,0,2,A
+ESP,2015-04-04,21:00,Málaga CF,Real Sociedad,1,1,D,0,0,D
+ESP,2015-04-05,11:00,Real Madrid,Granada CF,9,1,H,4,0,H
+ESP,2015-04-05,16:00,Valencia CF,Villarreal CF,0,0,D,0,0,D
+ESP,2015-04-05,18:00,Getafe CF,Deportivo La Coruña,2,1,H,2,0,H
+ESP,2015-04-05,20:00,Celta Vigo,FC Barcelona,0,1,A,0,0,D
+ESP,2015-04-06,19:00,Espanyol Barcelona,Elche CF,1,1,D,1,0,H
+ESP,2015-04-07,19:00,Atlético Madrid,Real Sociedad,2,0,H,2,0,H
+ESP,2015-04-07,21:00,Levante UD,Sevilla FC,1,2,A,0,2,A
+ESP,2015-04-07,21:00,SD Eibar,Málaga CF,1,0,H,0,0,D
+ESP,2015-04-08,19:00,Deportivo La Coruña,Córdoba CF,1,1,D,0,0,D
+ESP,2015-04-08,19:00,FC Barcelona,UD Almería,4,0,H,1,0,H
+ESP,2015-04-08,21:00,Granada CF,Celta Vigo,1,1,D,1,0,H
+ESP,2015-04-08,21:00,Rayo Vallecano,Real Madrid,0,2,A,0,0,D
+ESP,2015-04-09,19:00,Athletic Bilbao,Valencia CF,1,1,D,0,0,D
+ESP,2015-04-09,21:00,Elche CF,Getafe CF,0,1,A,0,0,D
+ESP,2015-04-09,21:00,Villarreal CF,Espanyol Barcelona,0,3,A,0,1,A
+ESP,2015-04-11,15:00,Real Madrid,SD Eibar,3,0,H,2,0,H
+ESP,2015-04-11,17:00,Málaga CF,Atlético Madrid,2,2,D,1,1,D
+ESP,2015-04-11,19:00,Sevilla FC,FC Barcelona,2,2,D,1,2,A
+ESP,2015-04-11,21:00,UD Almería,Granada CF,3,0,H,1,0,H
+ESP,2015-04-11,21:00,Celta Vigo,Rayo Vallecano,6,1,H,4,1,H
+ESP,2015-04-12,11:00,Getafe CF,Villarreal CF,1,1,D,0,0,D
+ESP,2015-04-12,16:00,Espanyol Barcelona,Athletic Bilbao,1,0,H,1,0,H
+ESP,2015-04-12,18:00,Real Sociedad,Deportivo La Coruña,2,2,D,1,1,D
+ESP,2015-04-12,20:00,Córdoba CF,Elche CF,0,2,A,0,1,A
+ESP,2015-04-13,19:30,Valencia CF,Levante UD,3,0,H,2,0,H
+ESP,2015-04-17,19:45,Levante UD,Espanyol Barcelona,2,2,D,1,2,A
+ESP,2015-04-18,15:00,FC Barcelona,Valencia CF,2,0,H,1,0,H
+ESP,2015-04-18,17:00,Deportivo La Coruña,Atlético Madrid,1,2,A,0,2,A
+ESP,2015-04-18,19:00,Real Madrid,Málaga CF,3,1,H,1,0,H
+ESP,2015-04-18,21:00,Athletic Bilbao,Getafe CF,4,0,H,1,0,H
+ESP,2015-04-19,11:00,Rayo Vallecano,UD Almería,2,0,H,1,0,H
+ESP,2015-04-19,16:00,Granada CF,Sevilla FC,1,1,D,1,0,H
+ESP,2015-04-19,18:00,Villarreal CF,Córdoba CF,0,0,D,0,0,D
+ESP,2015-04-19,20:00,SD Eibar,Celta Vigo,0,1,A,0,1,A
+ESP,2015-04-20,19:45,Elche CF,Real Sociedad,1,0,H,1,0,H
+ESP,2015-04-24,19:45,Córdoba CF,Athletic Bilbao,0,1,A,0,0,D
+ESP,2015-04-25,15:00,Espanyol Barcelona,FC Barcelona,0,2,A,0,2,A
+ESP,2015-04-25,17:00,Atlético Madrid,Elche CF,3,0,H,0,0,D
+ESP,2015-04-25,19:00,Getafe CF,Levante UD,0,1,A,0,1,A
+ESP,2015-04-25,21:00,Real Sociedad,Villarreal CF,0,0,D,0,0,D
+ESP,2015-04-26,11:00,Málaga CF,Deportivo La Coruña,1,1,D,0,0,D
+ESP,2015-04-26,16:00,UD Almería,SD Eibar,2,0,H,1,0,H
+ESP,2015-04-26,18:00,Sevilla FC,Rayo Vallecano,2,0,H,2,0,H
+ESP,2015-04-26,20:00,Celta Vigo,Real Madrid,2,4,A,2,3,A
+ESP,2015-04-27,19:45,Valencia CF,Granada CF,4,0,H,2,0,H
+ESP,2015-04-28,19:00,FC Barcelona,Getafe CF,6,0,H,5,0,H
+ESP,2015-04-28,21:00,Athletic Bilbao,Real Sociedad,1,1,D,0,0,D
+ESP,2015-04-28,21:00,Levante UD,Córdoba CF,1,0,H,1,0,H
+ESP,2015-04-29,19:00,SD Eibar,Sevilla FC,1,3,A,0,2,A
+ESP,2015-04-29,19:00,Real Madrid,UD Almería,3,0,H,1,0,H
+ESP,2015-04-29,19:00,Celta Vigo,Málaga CF,1,0,H,0,0,D
+ESP,2015-04-29,21:00,Elche CF,Deportivo La Coruña,4,0,H,2,0,H
+ESP,2015-04-29,21:00,Villarreal CF,Atlético Madrid,0,1,A,0,0,D
+ESP,2015-04-30,19:00,Rayo Vallecano,Valencia CF,1,1,D,1,0,H
+ESP,2015-04-30,21:00,Granada CF,Espanyol Barcelona,1,2,A,0,1,A
+ESP,2015-05-01,19:45,Real Sociedad,Levante UD,3,0,H,1,0,H
+ESP,2015-05-02,15:00,Córdoba CF,FC Barcelona,0,8,A,0,2,A
+ESP,2015-05-02,17:00,Atlético Madrid,Athletic Bilbao,0,0,D,0,0,D
+ESP,2015-05-02,19:00,Sevilla FC,Real Madrid,2,3,A,1,2,A
+ESP,2015-05-02,21:00,Deportivo La Coruña,Villarreal CF,1,1,D,0,0,D
+ESP,2015-05-03,11:00,Espanyol Barcelona,Rayo Vallecano,1,1,D,0,1,A
+ESP,2015-05-03,16:00,Getafe CF,Granada CF,1,2,A,1,1,D
+ESP,2015-05-03,18:00,Valencia CF,SD Eibar,3,1,H,1,0,H
+ESP,2015-05-03,20:00,Málaga CF,Elche CF,1,2,A,0,1,A
+ESP,2015-05-04,19:45,UD Almería,Celta Vigo,2,2,D,0,2,A
+ESP,2015-05-08,19:45,SD Eibar,Espanyol Barcelona,0,2,A,0,1,A
+ESP,2015-05-09,15:00,Granada CF,Córdoba CF,2,0,H,1,0,H
+ESP,2015-05-09,17:00,FC Barcelona,Real Sociedad,2,0,H,0,0,D
+ESP,2015-05-09,19:00,Real Madrid,Valencia CF,2,2,D,0,2,A
+ESP,2015-05-09,21:00,Athletic Bilbao,Deportivo La Coruña,1,1,D,1,0,H
+ESP,2015-05-10,11:00,Levante UD,Atlético Madrid,2,2,D,1,1,D
+ESP,2015-05-10,16:00,Villarreal CF,Elche CF,1,0,H,1,0,H
+ESP,2015-05-10,18:00,UD Almería,Málaga CF,1,2,A,1,1,D
+ESP,2015-05-10,20:00,Celta Vigo,Sevilla FC,1,1,D,0,1,A
+ESP,2015-05-11,19:45,Rayo Vallecano,Getafe CF,2,0,H,1,0,H
+ESP,2015-05-17,18:00,Villarreal CF,Málaga CF,2,1,H,0,0,D
+ESP,2015-05-17,18:00,Elche CF,Athletic Bilbao,2,3,A,2,0,H
+ESP,2015-05-17,18:00,Deportivo La Coruña,Levante UD,2,0,H,1,0,H
+ESP,2015-05-17,18:00,Atlético Madrid,FC Barcelona,0,1,A,0,0,D
+ESP,2015-05-17,18:00,Real Sociedad,Granada CF,0,3,A,0,0,D
+ESP,2015-05-17,18:00,Córdoba CF,Rayo Vallecano,1,2,A,0,1,A
+ESP,2015-05-17,18:00,Getafe CF,SD Eibar,1,1,D,1,1,D
+ESP,2015-05-17,18:00,Espanyol Barcelona,Real Madrid,1,4,A,0,0,D
+ESP,2015-05-17,18:00,Valencia CF,Celta Vigo,1,1,D,0,1,A
+ESP,2015-05-17,18:00,Sevilla FC,UD Almería,2,1,H,0,1,A
+ESP,2015-05-23,15:30,Levante UD,Elche CF,0,0,D,0,0,D
+ESP,2015-05-23,17:30,Athletic Bilbao,Villarreal CF,4,0,H,3,0,H
+ESP,2015-05-23,17:30,FC Barcelona,Deportivo La Coruña,2,2,D,1,0,H
+ESP,2015-05-23,17:30,Granada CF,Atlético Madrid,0,0,D,0,0,D
+ESP,2015-05-23,17:30,Rayo Vallecano,Real Sociedad,2,4,A,1,2,A
+ESP,2015-05-23,17:30,SD Eibar,Córdoba CF,3,0,H,3,0,H
+ESP,2015-05-23,17:30,Celta Vigo,Espanyol Barcelona,3,2,H,1,1,D
+ESP,2015-05-23,17:30,UD Almería,Valencia CF,2,3,A,2,2,D
+ESP,2015-05-23,17:30,Málaga CF,Sevilla FC,2,3,A,0,0,D
+ESP,2015-05-23,19:30,Real Madrid,Getafe CF,7,3,H,3,3,D

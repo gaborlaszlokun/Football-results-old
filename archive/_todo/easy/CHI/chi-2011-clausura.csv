@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHI,2011-07-30,01:00,O'Higgins,Unión San Felipe,3,0,H,2,0,H
+CHI,2011-07-30,20:00,CD Palestino,Audax Italiano,0,0,D,0,0,D
+CHI,2011-07-30,22:30,Universidad Católica,Deportes Iquique,4,1,H,2,0,H
+CHI,2011-07-31,01:00,Universidad de Chile,La Serena,3,0,H,2,0,H
+CHI,2011-07-31,21:00,CD Cobreloa,Unión Española,0,0,D,0,0,D
+CHI,2011-07-31,21:00,Santiago Wanderers,Deportivo Ñublense,0,1,A,0,0,D
+CHI,2011-07-31,21:00,Unión La Calera,Santiago Morning,2,0,H,0,0,D
+CHI,2011-07-31,23:30,Universidad de Concepción,CD Huachipato,1,1,D,0,1,A
+CHI,2011-08-06,01:00,Unión Española,CD Palestino,0,0,D,0,0,D
+CHI,2011-08-06,23:00,Audax Italiano,Universidad Católica,0,0,D,0,0,D
+CHI,2011-08-06,23:00,CD Huachipato,CD Cobresal,1,0,H,0,0,D
+CHI,2011-08-07,01:30,Unión San Felipe,Unión La Calera,1,1,D,0,1,A
+CHI,2011-08-07,21:00,Deportes Iquique,CD Cobreloa,2,4,A,1,2,A
+CHI,2011-08-07,21:00,La Serena,Universidad de Concepción,2,0,H,0,0,D
+CHI,2011-08-07,21:00,O'Higgins,Santiago Morning,2,1,H,1,0,H
+CHI,2011-08-07,23:30,Colo-Colo,Santiago Wanderers,3,1,H,1,1,D
+CHI,2011-08-13,01:00,Unión San Felipe,Deportes Iquique,2,1,H,1,0,H
+CHI,2011-08-13,20:30,CD Palestino,O'Higgins,2,2,D,0,1,A
+CHI,2011-08-13,21:00,CD Cobresal,Audax Italiano,3,2,H,1,2,A
+CHI,2011-08-13,23:00,Santiago Wanderers,Unión Española,1,1,D,0,1,A
+CHI,2011-08-14,01:30,Universidad Católica,Unión La Calera,4,0,H,3,0,H
+CHI,2011-08-14,20:30,Santiago Morning,La Serena,4,1,H,2,1,H
+CHI,2011-08-14,20:30,Deportivo Ñublense,CD Huachipato,2,4,A,2,1,H
+CHI,2011-08-14,20:30,Universidad de Concepción,Colo-Colo,3,0,H,0,0,D
+CHI,2011-08-14,23:00,Universidad de Chile,CD Cobreloa,3,1,H,1,0,H
+CHI,2011-08-20,01:00,Unión La Calera,CD Cobresal,0,1,A,0,0,D
+CHI,2011-08-20,01:00,Audax Italiano,La Serena,2,1,H,0,0,D
+CHI,2011-08-20,20:00,CD Palestino,Santiago Wanderers,1,1,D,0,0,D
+CHI,2011-08-20,21:00,CD Cobreloa,Universidad de Concepción,1,1,D,0,0,D
+CHI,2011-08-20,22:30,CD Huachipato,Universidad Católica,1,1,D,1,0,H
+CHI,2011-08-21,01:00,O'Higgins,Deportivo Ñublense,1,1,D,0,0,D
+CHI,2011-08-21,20:00,Deportes Iquique,Santiago Morning,4,2,H,1,1,D
+CHI,2011-08-21,20:00,Unión Española,Universidad de Chile,0,1,A,0,0,D
+CHI,2011-08-21,22:30,Colo-Colo,Unión San Felipe,2,2,D,1,2,A
+CHI,2011-08-23,00:00,La Serena,Unión La Calera,0,0,D,0,0,D
+CHI,2011-08-23,20:00,CD Cobreloa,Deportivo Ñublense,2,0,H,1,0,H
+CHI,2011-08-24,00:00,Universidad Católica,O'Higgins,2,0,H,1,0,H
+CHI,2011-08-24,19:00,Santiago Wanderers,CD Huachipato,2,1,H,1,0,H
+CHI,2011-08-24,20:00,CD Cobresal,Unión Española,2,2,D,1,1,D
+CHI,2011-08-24,20:00,Universidad de Concepción,Deportes Iquique,3,1,H,0,0,D
+CHI,2011-08-25,00:00,Colo-Colo,CD Palestino,3,1,H,2,0,H
+CHI,2011-08-25,00:00,Unión San Felipe,Audax Italiano,2,2,D,0,0,D
+CHI,2011-08-26,00:00,Santiago Morning,Universidad de Chile,0,2,A,0,1,A
+CHI,2011-08-27,00:00,O'Higgins,La Serena,1,1,D,0,0,D
+CHI,2011-08-27,19:00,CD Palestino,CD Cobresal,2,1,H,0,1,A
+CHI,2011-08-27,21:30,CD Huachipato,Colo-Colo,1,2,A,0,1,A
+CHI,2011-08-28,00:00,Unión Española,Unión San Felipe,3,0,H,2,0,H
+CHI,2011-08-28,20:00,Santiago Wanderers,Universidad Católica,2,0,H,1,0,H
+CHI,2011-08-28,20:00,Unión La Calera,CD Cobreloa,0,1,A,0,0,D
+CHI,2011-08-28,20:00,Audax Italiano,Santiago Morning,5,0,H,3,0,H
+CHI,2011-08-28,20:00,Deportivo Ñublense,Deportes Iquique,1,2,A,1,0,H
+CHI,2011-08-28,22:30,Universidad de Chile,Universidad de Concepción,2,0,H,1,0,H
+CHI,2011-09-03,17:00,CD Cobresal,Colo-Colo,0,2,A,0,2,A
+CHI,2011-09-03,19:00,Deportivo Ñublense,Universidad de Chile,1,4,A,0,3,A
+CHI,2011-09-10,00:00,La Serena,Deportivo Ñublense,3,1,H,1,0,H
+CHI,2011-09-10,19:30,Santiago Morning,Santiago Wanderers,3,0,H,2,0,H
+CHI,2011-09-10,19:30,Universidad de Concepción,Unión La Calera,0,0,D,0,0,D
+CHI,2011-09-10,22:00,Unión San Felipe,Universidad de Chile,0,3,A,0,2,A
+CHI,2011-09-11,00:30,Colo-Colo,Unión Española,3,2,H,2,2,D
+CHI,2011-09-11,20:00,Deportes Iquique,CD Huachipato,3,2,H,1,1,D
+CHI,2011-09-11,20:00,CD Cobreloa,Audax Italiano,3,4,A,2,2,D
+CHI,2011-09-11,20:00,CD Cobresal,O'Higgins,1,0,H,0,0,D
+CHI,2011-09-11,22:30,Universidad Católica,CD Palestino,2,1,H,2,0,H
+CHI,2011-09-16,00:00,Audax Italiano,Universidad de Concepción,2,1,H,1,0,H
+CHI,2011-09-16,21:30,CD Huachipato,Unión San Felipe,2,2,D,1,0,H
+CHI,2011-09-17,00:00,Unión Española,Santiago Morning,1,0,H,1,0,H
+CHI,2011-09-17,16:00,Universidad de Chile,CD Cobresal,3,1,H,0,1,A
+CHI,2011-09-17,19:30,Unión La Calera,Colo-Colo,3,0,H,2,0,H
+CHI,2011-09-17,20:00,Santiago Wanderers,Deportes Iquique,2,2,D,1,0,H
+CHI,2011-09-17,20:00,CD Palestino,La Serena,1,1,D,0,0,D
+CHI,2011-09-17,20:00,O'Higgins,CD Cobreloa,2,2,D,0,0,D
+CHI,2011-09-17,22:00,Deportivo Ñublense,Universidad Católica,2,0,H,1,0,H
+CHI,2011-09-23,23:00,Audax Italiano,Unión La Calera,2,1,H,0,0,D
+CHI,2011-09-24,01:00,La Serena,CD Huachipato,1,0,H,0,0,D
+CHI,2011-09-24,02:00,Deportes Iquique,Unión Española,1,5,A,1,2,A
+CHI,2011-09-24,20:00,CD Cobresal,Santiago Wanderers,3,2,H,1,0,H
+CHI,2011-09-24,20:00,Unión San Felipe,Deportivo Ñublense,1,2,A,0,0,D
+CHI,2011-09-24,20:00,Santiago Morning,Universidad Católica,3,2,H,2,1,H
+CHI,2011-09-24,22:30,Universidad de Concepción,CD Palestino,0,0,D,0,0,D
+CHI,2011-09-25,20:00,CD Cobreloa,Colo-Colo,0,1,A,0,0,D
+CHI,2011-09-25,22:30,Universidad de Chile,O'Higgins,3,0,H,1,0,H
+CHI,2011-09-27,23:00,Unión La Calera,Unión Española,2,0,H,0,0,D
+CHI,2011-09-28,01:30,Universidad Católica,Unión San Felipe,0,1,A,0,0,D
+CHI,2011-09-28,20:00,CD Palestino,CD Cobreloa,0,2,A,0,1,A
+CHI,2011-09-28,22:00,Santiago Wanderers,Universidad de Chile,1,1,D,1,1,D
+CHI,2011-09-28,23:00,O'Higgins,Universidad de Concepción,3,0,H,0,0,D
+CHI,2011-09-29,00:30,Deportivo Ñublense,CD Cobresal,0,2,A,0,0,D
+CHI,2011-09-29,02:00,Deportes Iquique,La Serena,1,1,D,0,1,A
+CHI,2011-09-29,22:00,CD Huachipato,Santiago Morning,1,3,A,0,1,A
+CHI,2011-09-30,00:30,Colo-Colo,Audax Italiano,3,0,H,1,0,H
+CHI,2011-10-01,20:00,CD Cobreloa,Universidad Católica,2,0,H,1,0,H
+CHI,2011-10-01,22:15,Universidad de Concepción,CD Cobresal,0,0,D,0,0,D
+CHI,2011-10-02,00:30,Universidad de Chile,Deportes Iquique,2,2,D,1,0,H
+CHI,2011-10-02,20:00,La Serena,Colo-Colo,4,0,H,3,0,H
+CHI,2011-10-02,20:00,Unión San Felipe,Santiago Wanderers,0,2,A,0,1,A
+CHI,2011-10-02,20:00,Unión La Calera,CD Palestino,3,2,H,3,1,H
+CHI,2011-10-02,20:00,Santiago Morning,Deportivo Ñublense,1,3,A,1,2,A
+CHI,2011-10-02,22:30,Unión Española,O'Higgins,3,1,H,3,0,H
+CHI,2011-10-04,00:00,Audax Italiano,CD Huachipato,1,1,D,1,1,D
+CHI,2011-10-13,01:00,Universidad de Chile,Unión La Calera,3,2,H,1,1,D
+CHI,2011-10-15,00:00,CD Huachipato,Unión Española,2,1,H,0,1,A
+CHI,2011-10-15,20:00,Santiago Morning,Unión San Felipe,1,1,D,1,0,H
+CHI,2011-10-15,22:30,Santiago Wanderers,La Serena,0,2,A,0,1,A
+CHI,2011-10-16,01:00,Deportivo Ñublense,Universidad de Concepción,2,1,H,2,0,H
+CHI,2011-10-16,02:00,Deportes Iquique,CD Palestino,1,3,A,0,2,A
+CHI,2011-10-16,20:00,Universidad Católica,Colo-Colo,4,0,H,4,0,H
+CHI,2011-10-16,20:00,CD Cobresal,CD Cobreloa,0,3,A,0,2,A
+CHI,2011-10-16,22:30,O'Higgins,Audax Italiano,0,1,A,0,1,A
+CHI,2011-10-22,00:00,Audax Italiano,Deportes Iquique,3,0,H,3,0,H
+CHI,2011-10-22,20:00,Unión La Calera,O'Higgins,1,0,H,1,0,H
+CHI,2011-10-22,22:00,La Serena,Unión San Felipe,2,1,H,1,1,D
+CHI,2011-10-22,22:00,Universidad de Concepción,Santiago Wanderers,2,2,D,1,0,H
+CHI,2011-10-22,22:15,CD Palestino,Universidad de Chile,1,1,D,0,1,A
+CHI,2011-10-23,00:30,Unión Española,Deportivo Ñublense,3,1,H,2,1,H
+CHI,2011-10-23,20:00,CD Cobreloa,CD Huachipato,1,0,H,0,0,D
+CHI,2011-10-23,20:00,CD Cobresal,Universidad Católica,2,2,D,2,0,H
+CHI,2011-10-23,22:30,Colo-Colo,Santiago Morning,3,1,H,1,1,D
+CHI,2011-10-29,00:00,Unión San Felipe,CD Cobreloa,1,1,D,0,1,A
+CHI,2011-10-29,20:00,Deportes Iquique,O'Higgins,3,2,H,0,1,A
+CHI,2011-10-29,20:00,Santiago Wanderers,Audax Italiano,2,0,H,0,0,D
+CHI,2011-10-29,21:00,Santiago Morning,CD Cobresal,5,0,H,1,0,H
+CHI,2011-10-29,22:15,CD Huachipato,Unión La Calera,1,0,H,1,0,H
+CHI,2011-10-30,00:30,La Serena,Unión Española,3,2,H,1,0,H
+CHI,2011-10-30,00:30,Deportivo Ñublense,CD Palestino,3,1,H,3,0,H
+CHI,2011-10-30,20:00,Colo-Colo,Universidad de Chile,2,2,D,1,1,D
+CHI,2011-10-30,22:30,Universidad Católica,Universidad de Concepción,2,1,H,0,1,A
+CHI,2011-11-04,23:00,Audax Italiano,Deportivo Ñublense,2,0,H,0,0,D
+CHI,2011-11-05,19:00,CD Palestino,Santiago Morning,2,4,A,1,2,A
+CHI,2011-11-05,21:00,Universidad de Concepción,Unión San Felipe,2,1,H,0,1,A
+CHI,2011-11-05,21:15,Unión Española,Universidad Católica,1,2,A,0,0,D
+CHI,2011-11-05,23:30,Unión La Calera,Deportes Iquique,1,2,A,1,0,H
+CHI,2011-11-06,19:00,CD Cobreloa,Santiago Wanderers,1,0,H,1,0,H
+CHI,2011-11-06,19:00,CD Cobresal,La Serena,2,1,H,1,0,H
+CHI,2011-11-06,19:00,O'Higgins,Colo-Colo,2,0,H,2,0,H
+CHI,2011-11-06,21:30,Universidad de Chile,CD Huachipato,5,3,H,3,1,H
+CHI,2011-11-18,23:00,CD Huachipato,CD Palestino,0,1,A,0,1,A
+CHI,2011-11-19,19:00,Deportes Iquique,Colo-Colo,1,1,D,0,0,D
+CHI,2011-11-19,20:00,Santiago Morning,Universidad de Concepción,0,3,A,0,0,D
+CHI,2011-11-19,21:15,Santiago Wanderers,O'Higgins,1,0,H,0,0,D
+CHI,2011-11-19,22:30,La Serena,CD Cobreloa,2,1,H,0,1,A
+CHI,2011-11-19,22:30,Unión San Felipe,CD Cobresal,1,1,D,1,0,H
+CHI,2011-11-19,23:30,Unión Española,Audax Italiano,5,2,H,3,2,H
+CHI,2011-11-20,20:00,Universidad de Chile,Universidad Católica,0,0,D,0,0,D
+CHI,2011-11-20,22:30,Deportivo Ñublense,Unión La Calera,1,3,A,0,0,D
+CHI,2011-11-26,20:30,Universidad Católica,La Serena,4,1,H,2,1,H
+CHI,2011-11-26,23:00,Colo-Colo,Deportivo Ñublense,2,1,H,0,0,D
+CHI,2011-11-27,19:30,CD Cobreloa,Santiago Morning,2,1,H,1,1,D
+CHI,2011-11-27,19:30,CD Cobresal,Deportes Iquique,3,3,D,3,1,H
+CHI,2011-11-27,19:30,Unión La Calera,Santiago Wanderers,1,0,H,0,0,D
+CHI,2011-11-27,19:30,CD Palestino,Unión San Felipe,1,0,H,0,0,D
+CHI,2011-11-27,19:30,O'Higgins,CD Huachipato,4,4,D,2,2,D
+CHI,2011-11-27,19:30,Universidad de Concepción,Unión Española,2,2,D,2,1,H
+CHI,2011-11-27,22:00,Audax Italiano,Universidad de Chile,1,1,D,0,0,D

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ROM,2008-07-26,16:00,FC Universitatea Craiova,Politehnica Iasi,2,0,H,0.0,0.0,D
+ROM,2008-07-26,16:00,FC Braşov,FC Unirea,1,0,H,0.0,0.0,D
+ROM,2008-07-26,17:30,Argeș Pitești,FC Timişoara,1,1,D,1.0,1.0,D
+ROM,2008-07-26,19:00,Gloria Buzau,Farul Constanta,0,1,A,0.0,0.0,D
+ROM,2008-07-26,19:15,Rapid Bucureşti,Gloria Bistrita,3,0,H,3.0,0.0,H
+ROM,2008-07-27,16:00,Gaz Metan Mediaş,Oţelul Galaţi,2,2,D,2.0,1.0,H
+ROM,2008-07-27,17:30,CS Otopeni,CFR Cluj,0,4,A,0.0,2.0,A
+ROM,2008-07-27,19:15,Pandurii Târgu Jiu,Dinamo Bucureşti,1,1,D,0.0,0.0,D
+ROM,2008-07-30,18:30,FC Vaslui,Steaua Bucureşti,1,0,H,1.0,0.0,H
+ROM,2008-08-01,16:00,Gloria Bistrita,FC Universitatea Craiova,2,0,H,0.0,0.0,D
+ROM,2008-08-02,16:00,Oţelul Galaţi,CS Otopeni,3,1,H,2.0,0.0,H
+ROM,2008-08-02,17:30,FC Unirea,Argeș Pitești,3,2,H,1.0,2.0,A
+ROM,2008-08-02,19:00,Farul Constanta,Rapid Bucureşti,0,2,A,0.0,1.0,A
+ROM,2008-08-02,19:45,FC Timişoara,Pandurii Târgu Jiu,3,0,H,2.0,0.0,H
+ROM,2008-08-03,17:30,Politehnica Iasi,FC Vaslui,1,3,A,1.0,2.0,A
+ROM,2008-08-03,18:30,Dinamo Bucureşti,Gaz Metan Mediaş,1,0,H,1.0,0.0,H
+ROM,2008-08-03,19:00,Steaua Bucureşti,FC Braşov,2,1,H,1.0,0.0,H
+ROM,2008-08-03,19:45,CFR Cluj,Gloria Buzau,2,0,H,1.0,0.0,H
+ROM,2008-08-08,18:00,Politehnica Iasi,Steaua Bucureşti,0,2,A,0.0,0.0,D
+ROM,2008-08-08,18:30,FC Vaslui,Gloria Bistrita,1,0,H,0.0,0.0,D
+ROM,2008-08-09,16:00,FC Universitatea Craiova,Farul Constanta,3,2,H,1.0,1.0,D
+ROM,2008-08-09,16:00,Gaz Metan Mediaş,FC Timişoara,5,1,H,0.0,0.0,D
+ROM,2008-08-09,17:00,Gloria Buzau,Oţelul Galaţi,0,2,A,0.0,2.0,A
+ROM,2008-08-09,19:45,Rapid Bucureşti,CFR Cluj,1,0,H,0.0,0.0,D
+ROM,2008-08-10,17:30,Pandurii Târgu Jiu,FC Unirea,1,5,A,0.0,2.0,A
+ROM,2008-08-10,18:00,CS Otopeni,Dinamo Bucureşti,2,3,A,1.0,2.0,A
+ROM,2008-08-10,19:30,Argeș Pitești,FC Braşov,1,0,H,1.0,0.0,H
+ROM,2008-08-15,15:45,Gloria Bistrita,Politehnica Iasi,3,1,H,1.0,1.0,D
+ROM,2008-08-15,17:45,FC Unirea,Gaz Metan Mediaş,4,0,H,1.0,0.0,H
+ROM,2008-08-15,19:45,FC Timişoara,CS Otopeni,3,1,H,1.0,0.0,H
+ROM,2008-08-16,15:45,FC Braşov,Pandurii Târgu Jiu,2,1,H,1.0,1.0,D
+ROM,2008-08-16,18:30,Steaua Bucureşti,Argeș Pitești,2,0,H,1.0,0.0,H
+ROM,2008-08-16,19:45,Dinamo Bucureşti,Gloria Buzau,4,1,H,2.0,0.0,H
+ROM,2008-08-17,15:45,Oţelul Galaţi,Rapid Bucureşti,2,1,H,0.0,0.0,D
+ROM,2008-08-17,17:45,Farul Constanta,FC Vaslui,1,0,H,0.0,0.0,D
+ROM,2008-08-17,19:45,CFR Cluj,FC Universitatea Craiova,1,1,D,1.0,0.0,H
+ROM,2008-08-22,15:45,Gaz Metan Mediaş,FC Braşov,0,0,D,0.0,0.0,D
+ROM,2008-08-23,16:00,FC Universitatea Craiova,Oţelul Galaţi,1,0,H,0.0,0.0,D
+ROM,2008-08-23,16:00,Gloria Bistrita,Steaua Bucureşti,2,2,D,1.0,1.0,D
+ROM,2008-08-24,17:00,FC Vaslui,CFR Cluj,2,1,H,1.0,0.0,H
+ROM,2008-08-24,17:45,Gloria Buzau,FC Timişoara,1,2,A,0.0,2.0,A
+ROM,2008-08-24,18:45,Rapid Bucureşti,Dinamo Bucureşti,2,1,H,0.0,0.0,D
+ROM,2008-08-25,17:00,CS Otopeni,FC Unirea,1,2,A,1.0,2.0,A
+ROM,2008-08-25,19:00,Pandurii Târgu Jiu,Argeș Pitești,3,1,H,2.0,0.0,H
+ROM,2008-08-29,15:45,FC Braşov,CS Otopeni,2,0,H,1.0,0.0,H
+ROM,2008-08-29,17:45,Argeș Pitești,Gaz Metan Mediaş,2,0,H,0.0,0.0,D
+ROM,2008-08-29,19:45,CFR Cluj,Politehnica Iasi,0,0,D,0.0,0.0,D
+ROM,2008-08-30,17:45,Farul Constanta,Gloria Bistrita,2,1,H,1.0,1.0,D
+ROM,2008-08-30,18:45,Dinamo Bucureşti,FC Universitatea Craiova,1,0,H,0.0,0.0,D
+ROM,2008-08-31,15:45,Oţelul Galaţi,FC Vaslui,0,1,A,0.0,0.0,D
+ROM,2008-08-31,17:45,FC Unirea,Gloria Buzau,2,1,H,1.0,1.0,D
+ROM,2008-08-31,19:45,FC Timişoara,Rapid Bucureşti,1,0,H,0.0,0.0,D
+ROM,2008-09-01,18:00,Steaua Bucureşti,Pandurii Târgu Jiu,1,0,H,1.0,0.0,H
+ROM,2008-09-12,15:00,Gloria Bistrita,CFR Cluj,1,2,A,1.0,1.0,D
+ROM,2008-09-12,18:00,CS Otopeni,Argeș Pitești,1,2,A,0.0,2.0,A
+ROM,2008-09-13,15:00,FC Universitatea Craiova,FC Timişoara,1,3,A,0.0,0.0,D
+ROM,2008-09-13,17:00,FC Vaslui,Dinamo Bucureşti,1,2,A,1.0,0.0,H
+ROM,2008-09-13,18:45,Rapid Bucureşti,FC Unirea,1,2,A,0.0,1.0,A
+ROM,2008-09-13,19:30,Farul Constanta,Steaua Bucureşti,1,4,A,0.0,2.0,A
+ROM,2008-09-14,15:00,Gaz Metan Mediaş,Pandurii Târgu Jiu,2,1,H,2.0,1.0,H
+ROM,2008-09-14,17:00,Politehnica Iasi,Oţelul Galaţi,2,1,H,1.0,0.0,H
+ROM,2008-09-14,19:00,Gloria Buzau,FC Braşov,0,2,A,0.0,0.0,D
+ROM,2008-09-20,15:00,Oţelul Galaţi,Gloria Bistrita,1,0,H,0.0,0.0,D
+ROM,2008-09-20,17:00,Argeș Pitești,Gloria Buzau,1,1,D,0.0,0.0,D
+ROM,2008-09-20,19:00,Pandurii Târgu Jiu,CS Otopeni,1,1,D,1.0,1.0,D
+ROM,2008-09-21,17:00,FC Timişoara,FC Vaslui,3,1,H,1.0,1.0,D
+ROM,2008-09-21,18:45,Steaua Bucureşti,Gaz Metan Mediaş,4,0,H,2.0,0.0,H
+ROM,2008-09-21,19:45,CFR Cluj,Farul Constanta,3,0,H,2.0,0.0,H
+ROM,2008-09-22,15:00,FC Braşov,Rapid Bucureşti,0,0,D,0.0,0.0,D
+ROM,2008-09-22,17:00,FC Unirea,FC Universitatea Craiova,1,2,A,1.0,1.0,D
+ROM,2008-09-22,19:00,Dinamo Bucureşti,Politehnica Iasi,2,0,H,0.0,0.0,D
+ROM,2008-09-26,14:30,Gloria Bistrita,Dinamo Bucureşti,1,2,A,0.0,2.0,A
+ROM,2008-09-26,17:00,Politehnica Iasi,FC Timişoara,0,2,A,0.0,1.0,A
+ROM,2008-09-26,18:45,CFR Cluj,Steaua Bucureşti,1,1,D,1.0,1.0,D
+ROM,2008-09-27,14:30,FC Universitatea Craiova,FC Braşov,0,0,D,0.0,0.0,D
+ROM,2008-09-27,17:00,FC Vaslui,FC Unirea,0,2,A,0.0,1.0,A
+ROM,2008-09-27,19:00,Farul Constanta,Oţelul Galaţi,1,1,D,1.0,0.0,H
+ROM,2008-09-28,15:00,Gloria Buzau,Pandurii Târgu Jiu,0,1,A,0.0,1.0,A
+ROM,2008-09-28,17:00,CS Otopeni,Gaz Metan Mediaş,2,0,H,0.0,0.0,D
+ROM,2008-09-28,19:00,Rapid Bucureşti,Argeș Pitești,1,3,A,1.0,2.0,A
+ROM,2008-10-03,13:00,Gaz Metan Mediaş,Gloria Buzau,2,0,H,2.0,0.0,H
+ROM,2008-10-03,17:00,Argeș Pitești,FC Universitatea Craiova,1,1,D,1.0,0.0,H
+ROM,2008-10-04,18:00,Steaua Bucureşti,CS Otopeni,1,1,D,0.0,0.0,D
+ROM,2008-10-05,13:00,Oţelul Galaţi,CFR Cluj,1,1,D,1.0,1.0,D
+ROM,2008-10-05,15:00,Pandurii Târgu Jiu,Rapid Bucureşti,2,0,H,0.0,0.0,D
+ROM,2008-10-05,17:00,Dinamo Bucureşti,Farul Constanta,1,0,H,0.0,0.0,D
+ROM,2008-10-05,19:00,FC Timişoara,Gloria Bistrita,1,0,H,0.0,0.0,D
+ROM,2008-10-06,13:00,FC Braşov,FC Vaslui,0,0,D,0.0,0.0,D
+ROM,2008-10-06,17:00,FC Unirea,Politehnica Iasi,0,1,A,0.0,1.0,A
+ROM,2008-10-12,17:00,Politehnica Iasi,Farul Constanta,2,1,H,1.0,1.0,D
+ROM,2008-10-17,13:00,Oţelul Galaţi,Steaua Bucureşti,2,0,H,1.0,0.0,H
+ROM,2008-10-17,17:00,Gloria Buzau,CS Otopeni,0,1,A,0.0,0.0,D
+ROM,2008-10-17,18:45,CFR Cluj,Dinamo Bucureşti,1,0,H,1.0,0.0,H
+ROM,2008-10-18,15:00,Farul Constanta,FC Timişoara,1,1,D,0.0,1.0,A
+ROM,2008-10-18,17:00,Politehnica Iasi,FC Braşov,1,1,D,0.0,0.0,D
+ROM,2008-10-19,13:00,FC Universitatea Craiova,Pandurii Târgu Jiu,2,0,H,2.0,0.0,H
+ROM,2008-10-19,15:00,FC Vaslui,Argeș Pitești,0,1,A,0.0,0.0,D
+ROM,2008-10-19,17:00,Rapid Bucureşti,Gaz Metan Mediaş,4,2,H,1.0,1.0,D
+ROM,2008-10-20,13:00,Gloria Bistrita,FC Unirea,0,1,A,0.0,0.0,D
+ROM,2008-10-24,15:00,Pandurii Târgu Jiu,FC Vaslui,1,0,H,0.0,0.0,D
+ROM,2008-10-24,17:00,Argeș Pitești,Politehnica Iasi,3,0,H,1.0,0.0,H
+ROM,2008-10-25,13:00,FC Braşov,Gloria Bistrita,0,0,D,0.0,0.0,D
+ROM,2008-10-25,17:00,FC Unirea,Farul Constanta,1,0,H,1.0,0.0,H
+ROM,2008-10-25,18:45,Dinamo Bucureşti,Oţelul Galaţi,1,0,H,0.0,0.0,D
+ROM,2008-10-26,13:00,Gaz Metan Mediaş,FC Universitatea Craiova,2,5,A,0.0,2.0,A
+ROM,2008-10-26,17:00,Steaua Bucureşti,Gloria Buzau,1,1,D,0.0,0.0,D
+ROM,2008-10-26,19:00,FC Timişoara,CFR Cluj,2,1,H,2.0,1.0,H
+ROM,2008-10-27,15:00,CS Otopeni,Rapid Bucureşti,1,2,A,1.0,0.0,H
+ROM,2008-10-31,13:00,Gloria Bistrita,Argeș Pitești,2,0,H,0.0,0.0,D
+ROM,2008-10-31,15:00,CFR Cluj,FC Unirea,1,0,H,0.0,0.0,D
+ROM,2008-10-31,17:00,Politehnica Iasi,Pandurii Târgu Jiu,1,1,D,1.0,1.0,D
+ROM,2008-10-31,19:00,FC Vaslui,Gaz Metan Mediaş,1,1,D,0.0,0.0,D
+ROM,2008-11-01,15:00,Farul Constanta,FC Braşov,1,1,D,1.0,1.0,D
+ROM,2008-11-01,17:00,FC Universitatea Craiova,CS Otopeni,2,2,D,1.0,0.0,H
+ROM,2008-11-01,19:00,Dinamo Bucureşti,Steaua Bucureşti,1,1,D,0.0,1.0,A
+ROM,2008-11-02,12:00,Oţelul Galaţi,FC Timişoara,2,2,D,2.0,1.0,H
+ROM,2008-11-02,18:30,Rapid Bucureşti,Gloria Buzau,1,0,H,1.0,0.0,H
+ROM,2008-11-07,15:00,Gloria Buzau,FC Universitatea Craiova,0,2,A,0.0,1.0,A
+ROM,2008-11-07,18:30,FC Unirea,Oţelul Galaţi,3,1,H,0.0,0.0,D
+ROM,2008-11-08,12:00,Gaz Metan Mediaş,Politehnica Iasi,1,0,H,0.0,0.0,D
+ROM,2008-11-08,14:00,Pandurii Târgu Jiu,Gloria Bistrita,1,1,D,1.0,1.0,D
+ROM,2008-11-08,16:00,Argeș Pitești,Farul Constanta,3,0,H,1.0,0.0,H
+ROM,2008-11-08,18:30,FC Timişoara,Dinamo Bucureşti,0,3,A,0.0,1.0,A
+ROM,2008-11-09,12:00,FC Braşov,CFR Cluj,1,1,D,1.0,1.0,D
+ROM,2008-11-09,16:00,CS Otopeni,FC Vaslui,0,2,A,0.0,0.0,D
+ROM,2008-11-09,19:30,Rapid Bucureşti,Steaua Bucureşti,0,0,D,0.0,0.0,D
+ROM,2008-11-15,15:00,Farul Constanta,Pandurii Târgu Jiu,1,1,D,0.0,0.0,D
+ROM,2008-11-15,17:00,FC Universitatea Craiova,Rapid Bucureşti,0,0,D,0.0,0.0,D
+ROM,2008-11-15,19:00,Steaua Bucureşti,FC Timişoara,2,2,D,0.0,0.0,D
+ROM,2008-11-16,12:00,Oţelul Galaţi,FC Braşov,2,1,H,1.0,1.0,D
+ROM,2008-11-16,14:00,FC Vaslui,Gloria Buzau,3,0,H,2.0,0.0,H
+ROM,2008-11-16,16:00,CFR Cluj,Argeș Pitești,2,0,H,1.0,0.0,H
+ROM,2008-11-16,19:00,Dinamo Bucureşti,FC Unirea,0,1,A,0.0,0.0,D
+ROM,2008-11-17,12:00,Gloria Bistrita,Gaz Metan Mediaş,1,0,H,1.0,0.0,H
+ROM,2008-11-17,16:00,Politehnica Iasi,CS Otopeni,2,0,H,0.0,0.0,D
+ROM,2008-11-21,15:00,Pandurii Târgu Jiu,CFR Cluj,2,1,H,2.0,0.0,H
+ROM,2008-11-21,18:45,FC Universitatea Craiova,Steaua Bucureşti,0,0,D,0.0,0.0,D
+ROM,2008-11-22,12:00,FC Braşov,Dinamo Bucureşti,2,0,H,0.0,0.0,D
+ROM,2008-11-22,15:00,Gloria Buzau,Politehnica Iasi,1,1,D,0.0,0.0,D
+ROM,2008-11-22,19:00,Rapid Bucureşti,FC Vaslui,2,2,D,2.0,0.0,H
+ROM,2008-11-23,12:00,Gaz Metan Mediaş,Farul Constanta,0,1,A,0.0,1.0,A
+ROM,2008-11-23,15:00,CS Otopeni,Gloria Bistrita,0,1,A,0.0,0.0,D
+ROM,2008-11-23,17:00,Argeș Pitești,Oţelul Galaţi,3,2,H,1.0,2.0,A
+ROM,2008-11-23,19:00,FC Unirea,FC Timişoara,1,1,D,1.0,1.0,D
+ROM,2008-11-28,16:00,Farul Constanta,CS Otopeni,1,0,H,1.0,0.0,H
+ROM,2008-11-28,18:00,FC Vaslui,FC Universitatea Craiova,1,1,D,0.0,1.0,A
+ROM,2008-11-29,12:00,Oţelul Galaţi,Pandurii Târgu Jiu,0,0,D,0.0,0.0,D
+ROM,2008-11-29,14:00,Politehnica Iasi,Rapid Bucureşti,1,2,A,1.0,1.0,D
+ROM,2008-11-29,16:00,FC Timişoara,FC Braşov,4,0,H,2.0,0.0,H
+ROM,2008-11-29,18:00,Dinamo Bucureşti,Argeș Pitești,2,0,H,0.0,0.0,D
+ROM,2008-12-01,12:00,Gloria Bistrita,Gloria Buzau,2,0,H,2.0,0.0,H
+ROM,2008-12-01,16:30,CFR Cluj,Gaz Metan Mediaş,2,1,H,1.0,0.0,H
+ROM,2008-12-01,18:30,Steaua Bucureşti,FC Unirea,1,0,H,0.0,0.0,D
+ROM,2009-02-27,17:00,Politehnica Iasi,FC Universitatea Craiova,1,0,H,0.0,0.0,D
+ROM,2009-02-27,18:45,Steaua Bucureşti,FC Vaslui,1,1,D,1.0,1.0,D
+ROM,2009-02-28,13:00,Oţelul Galaţi,Gaz Metan Mediaş,3,1,H,3.0,1.0,H
+ROM,2009-02-28,15:00,Farul Constanta,Gloria Buzau,2,0,H,1.0,0.0,H
+ROM,2009-02-28,16:00,FC Timişoara,Argeș Pitești,2,1,H,1.0,1.0,D
+ROM,2009-02-28,18:30,FC Unirea,FC Braşov,0,0,D,0.0,0.0,D
+ROM,2009-03-01,13:00,Gloria Bistrita,Rapid Bucureşti,1,3,A,0.0,2.0,A
+ROM,2009-03-01,16:00,CFR Cluj,CS Otopeni,1,0,H,0.0,0.0,D
+ROM,2009-03-01,18:30,Dinamo Bucureşti,Pandurii Târgu Jiu,3,0,H,2.0,0.0,H
+ROM,2009-03-06,17:00,FC Vaslui,Politehnica Iasi,2,0,H,2.0,0.0,H
+ROM,2009-03-06,18:45,Rapid Bucureşti,Farul Constanta,1,0,H,0.0,0.0,D
+ROM,2009-03-07,13:00,Gaz Metan Mediaş,Dinamo Bucureşti,1,1,D,1.0,1.0,D
+ROM,2009-03-07,15:00,CS Otopeni,Oţelul Galaţi,0,1,A,0.0,1.0,A
+ROM,2009-03-07,16:00,Gloria Buzau,CFR Cluj,0,1,A,0.0,0.0,D
+ROM,2009-03-07,18:30,FC Universitatea Craiova,Gloria Bistrita,0,0,D,0.0,0.0,D
+ROM,2009-03-08,13:00,FC Braşov,Steaua Bucureşti,1,0,H,0.0,0.0,D
+ROM,2009-03-08,16:00,Argeș Pitești,FC Unirea,0,0,D,0.0,0.0,D
+ROM,2009-03-08,18:30,Pandurii Târgu Jiu,FC Timişoara,0,1,A,0.0,0.0,D
+ROM,2009-03-13,17:00,FC Unirea,Pandurii Târgu Jiu,2,0,H,0.0,0.0,D
+ROM,2009-03-13,18:45,CFR Cluj,Rapid Bucureşti,0,0,D,0.0,0.0,D
+ROM,2009-03-14,13:00,Gloria Bistrita,FC Vaslui,0,3,A,0.0,1.0,A
+ROM,2009-03-14,13:00,Oţelul Galaţi,Gloria Buzau,1,2,A,1.0,1.0,D
+ROM,2009-03-14,16:00,FC Timişoara,Gaz Metan Mediaş,0,0,D,0.0,0.0,D
+ROM,2009-03-14,18:30,Steaua Bucureşti,Politehnica Iasi,1,0,H,1.0,0.0,H
+ROM,2009-03-15,13:00,FC Braşov,Argeș Pitești,1,0,H,0.0,0.0,D
+ROM,2009-03-15,16:00,Dinamo Bucureşti,CS Otopeni,0,0,D,0.0,0.0,D
+ROM,2009-03-15,18:30,Farul Constanta,FC Universitatea Craiova,0,3,A,0.0,1.0,A
+ROM,2009-03-20,17:00,Politehnica Iasi,Gloria Bistrita,1,0,H,1.0,0.0,H
+ROM,2009-03-20,18:45,Argeș Pitești,Steaua Bucureşti,2,2,D,1.0,1.0,D
+ROM,2009-03-21,13:00,Gaz Metan Mediaş,FC Unirea,1,0,H,0.0,0.0,D
+ROM,2009-03-21,16:00,Pandurii Târgu Jiu,FC Braşov,0,0,D,0.0,0.0,D
+ROM,2009-03-21,17:00,FC Vaslui,Farul Constanta,4,2,H,4.0,1.0,H
+ROM,2009-03-21,18:30,Rapid Bucureşti,Oţelul Galaţi,4,0,H,1.0,0.0,H
+ROM,2009-03-22,13:00,CS Otopeni,FC Timişoara,2,2,D,1.0,0.0,H
+ROM,2009-03-22,15:00,Gloria Buzau,Dinamo Bucureşti,1,3,A,0.0,2.0,A
+ROM,2009-03-22,18:45,FC Universitatea Craiova,CFR Cluj,4,1,H,2.0,1.0,H
+ROM,2009-04-03,16:00,Farul Constanta,Politehnica Iasi,0,3,A,0.0,0.0,D
+ROM,2009-04-04,10:00,FC Unirea,CS Otopeni,1,0,H,0.0,0.0,D
+ROM,2009-04-04,12:00,FC Timişoara,Gloria Buzau,4,1,H,2.0,1.0,H
+ROM,2009-04-04,14:00,CFR Cluj,FC Vaslui,3,0,H,1.0,0.0,H
+ROM,2009-04-04,16:00,Argeș Pitești,Pandurii Târgu Jiu,2,1,H,1.0,1.0,D
+ROM,2009-04-04,16:30,Steaua Bucureşti,Gloria Bistrita,1,0,H,0.0,0.0,D
+ROM,2009-04-04,19:00,Dinamo Bucureşti,Rapid Bucureşti,3,0,H,1.0,0.0,H
+ROM,2009-04-05,15:00,Oţelul Galaţi,FC Universitatea Craiova,0,2,A,0.0,2.0,A
+ROM,2009-04-05,18:30,FC Braşov,Gaz Metan Mediaş,2,1,H,0.0,0.0,D
+ROM,2009-04-07,14:00,Gloria Bistrita,Farul Constanta,1,0,H,1.0,0.0,H
+ROM,2009-04-07,15:00,Gloria Buzau,FC Unirea,1,5,A,1.0,4.0,A
+ROM,2009-04-07,17:00,Politehnica Iasi,CFR Cluj,0,1,A,0.0,0.0,D
+ROM,2009-04-07,19:00,Pandurii Târgu Jiu,Steaua Bucureşti,2,0,H,1.0,0.0,H
+ROM,2009-04-08,13:00,CS Otopeni,FC Braşov,2,2,D,0.0,1.0,A
+ROM,2009-04-08,15:00,Gaz Metan Mediaş,Argeș Pitești,2,2,D,2.0,0.0,H
+ROM,2009-04-08,15:00,FC Vaslui,Oţelul Galaţi,2,1,H,2.0,0.0,H
+ROM,2009-04-08,17:00,Rapid Bucureşti,FC Timişoara,0,2,A,0.0,2.0,A
+ROM,2009-04-08,19:00,FC Universitatea Craiova,Dinamo Bucureşti,2,0,H,2.0,0.0,H
+ROM,2009-04-10,16:00,CFR Cluj,Gloria Bistrita,2,2,D,1.0,1.0,D
+ROM,2009-04-10,18:45,Steaua Bucureşti,Farul Constanta,1,1,D,0.0,0.0,D
+ROM,2009-04-11,13:00,FC Unirea,Rapid Bucureşti,1,1,D,0.0,1.0,A
+ROM,2009-04-11,15:00,Pandurii Târgu Jiu,Gaz Metan Mediaş,1,0,H,1.0,0.0,H
+ROM,2009-04-11,16:00,FC Timişoara,FC Universitatea Craiova,1,0,H,0.0,0.0,D
+ROM,2009-04-11,18:30,Dinamo Bucureşti,FC Vaslui,4,1,H,1.0,0.0,H
+ROM,2009-04-12,15:00,Argeș Pitești,CS Otopeni,1,1,D,1.0,0.0,H
+ROM,2009-04-12,15:00,Oţelul Galaţi,Politehnica Iasi,3,2,H,2.0,2.0,D
+ROM,2009-04-12,18:30,FC Braşov,Gloria Buzau,4,0,H,3.0,0.0,H
+ROM,2009-04-17,14:00,Gaz Metan Mediaş,Steaua Bucureşti,0,1,A,0.0,1.0,A
+ROM,2009-04-17,16:45,Gloria Buzau,Argeș Pitești,3,1,H,1.0,1.0,D
+ROM,2009-04-17,18:45,FC Universitatea Craiova,FC Unirea,0,0,D,0.0,0.0,D
+ROM,2009-04-18,12:00,Farul Constanta,CFR Cluj,0,1,A,0.0,0.0,D
+ROM,2009-04-18,13:00,CS Otopeni,Pandurii Târgu Jiu,0,1,A,0.0,0.0,D
+ROM,2009-04-18,13:00,Gloria Bistrita,Oţelul Galaţi,3,0,H,1.0,0.0,H
+ROM,2009-04-18,14:00,Politehnica Iasi,Dinamo Bucureşti,1,0,H,0.0,0.0,D
+ROM,2009-04-18,16:30,FC Vaslui,FC Timişoara,4,3,H,2.0,2.0,D
+ROM,2009-04-18,18:30,Rapid Bucureşti,FC Braşov,3,1,H,1.0,0.0,H
+ROM,2009-04-21,15:00,Dinamo Bucureşti,Gloria Bistrita,5,0,H,1.0,0.0,H
+ROM,2009-04-21,15:00,Oţelul Galaţi,Farul Constanta,2,0,H,0.0,0.0,D
+ROM,2009-04-21,17:00,Argeș Pitești,Rapid Bucureşti,1,0,H,1.0,0.0,H
+ROM,2009-04-21,19:00,FC Unirea,FC Vaslui,1,0,H,1.0,0.0,H
+ROM,2009-04-22,13:00,Gaz Metan Mediaş,CS Otopeni,3,0,H,0.0,0.0,D
+ROM,2009-04-22,15:00,Pandurii Târgu Jiu,Gloria Buzau,1,0,H,1.0,0.0,H
+ROM,2009-04-22,15:00,FC Timişoara,Politehnica Iasi,3,0,H,1.0,0.0,H
+ROM,2009-04-22,17:00,FC Braşov,FC Universitatea Craiova,1,1,D,1.0,0.0,H
+ROM,2009-04-22,19:00,Steaua Bucureşti,CFR Cluj,1,1,D,0.0,1.0,A
+ROM,2009-04-24,16:00,Farul Constanta,Dinamo Bucureşti,1,4,A,1.0,2.0,A
+ROM,2009-04-24,18:45,Rapid Bucureşti,Pandurii Târgu Jiu,2,0,H,1.0,0.0,H
+ROM,2009-04-25,14:00,Gloria Bistrita,FC Timişoara,0,1,A,0.0,0.0,D
+ROM,2009-04-25,15:00,Politehnica Iasi,FC Unirea,0,2,A,0.0,2.0,A
+ROM,2009-04-25,16:00,FC Vaslui,FC Braşov,0,1,A,0.0,1.0,A
+ROM,2009-04-25,18:30,CFR Cluj,Oţelul Galaţi,1,1,D,0.0,1.0,A
+ROM,2009-04-26,15:00,FC Universitatea Craiova,Argeș Pitești,1,0,H,0.0,0.0,D
+ROM,2009-04-26,15:00,Gloria Buzau,Gaz Metan Mediaş,1,2,A,1.0,1.0,D
+ROM,2009-04-26,18:30,CS Otopeni,Steaua Bucureşti,0,1,A,0.0,0.0,D
+ROM,2009-05-01,16:00,FC Unirea,Gloria Bistrita,3,0,H,1.0,0.0,H
+ROM,2009-05-01,18:45,Steaua Bucureşti,Oţelul Galaţi,5,0,H,2.0,0.0,H
+ROM,2009-05-02,14:00,Gaz Metan Mediaş,Rapid Bucureşti,1,0,H,0.0,0.0,D
+ROM,2009-05-02,15:00,CS Otopeni,Gloria Buzau,2,0,H,2.0,0.0,H
+ROM,2009-05-02,15:00,FC Braşov,Politehnica Iasi,2,0,H,2.0,0.0,H
+ROM,2009-05-02,16:30,FC Timişoara,Farul Constanta,3,2,H,1.0,1.0,D
+ROM,2009-05-02,19:00,Dinamo Bucureşti,CFR Cluj,1,0,H,1.0,0.0,H
+ROM,2009-05-03,15:00,Argeș Pitești,FC Vaslui,0,0,D,0.0,0.0,D
+ROM,2009-05-03,18:30,Pandurii Târgu Jiu,FC Universitatea Craiova,1,0,H,1.0,0.0,H
+ROM,2009-05-05,14:00,Oţelul Galaţi,Dinamo Bucureşti,0,1,A,0.0,1.0,A
+ROM,2009-05-05,15:00,Gloria Bistrita,FC Braşov,1,0,H,0.0,0.0,D
+ROM,2009-05-05,16:30,Farul Constanta,FC Unirea,0,1,A,0.0,1.0,A
+ROM,2009-05-05,19:00,Gloria Buzau,Steaua Bucureşti,0,1,A,0.0,1.0,A
+ROM,2009-05-06,13:00,Politehnica Iasi,Argeș Pitești,4,0,H,,,
+ROM,2009-05-06,15:00,Rapid Bucureşti,CS Otopeni,3,0,H,,,
+ROM,2009-05-06,16:00,FC Vaslui,Pandurii Târgu Jiu,1,0,H,,,
+ROM,2009-05-06,17:00,FC Universitatea Craiova,Gaz Metan Mediaş,2,0,H,1.0,0.0,H
+ROM,2009-05-06,19:00,CFR Cluj,FC Timişoara,2,0,H,0.0,0.0,D
+ROM,2009-05-08,16:00,FC Braşov,Farul Constanta,2,1,H,2.0,0.0,H
+ROM,2009-05-08,19:00,Steaua Bucureşti,Dinamo Bucureşti,1,1,D,0.0,0.0,D
+ROM,2009-05-09,14:00,Gaz Metan Mediaş,FC Vaslui,1,2,A,0.0,0.0,D
+ROM,2009-05-09,15:00,FC Timişoara,Oţelul Galaţi,1,0,H,1.0,0.0,H
+ROM,2009-05-09,17:00,Pandurii Târgu Jiu,Politehnica Iasi,1,1,D,0.0,1.0,A
+ROM,2009-05-09,19:00,Gloria Buzau,Rapid Bucureşti,0,1,A,0.0,0.0,D
+ROM,2009-05-10,15:00,CS Otopeni,FC Universitatea Craiova,0,1,A,0.0,0.0,D
+ROM,2009-05-10,15:00,Argeș Pitești,Gloria Bistrita,2,1,H,1.0,1.0,D
+ROM,2009-05-10,18:30,FC Unirea,CFR Cluj,1,1,D,1.0,1.0,D
+ROM,2009-05-15,16:00,FC Universitatea Craiova,Gloria Buzau,1,1,D,0.0,1.0,A
+ROM,2009-05-15,19:00,Steaua Bucureşti,Rapid Bucureşti,1,2,A,0.0,0.0,D
+ROM,2009-05-16,15:00,Politehnica Iasi,Gaz Metan Mediaş,2,0,H,1.0,0.0,H
+ROM,2009-05-16,16:00,Gloria Bistrita,Pandurii Târgu Jiu,1,0,H,0.0,0.0,D
+ROM,2009-05-16,17:00,Farul Constanta,Argeș Pitești,2,0,H,2.0,0.0,H
+ROM,2009-05-16,19:00,CFR Cluj,FC Braşov,2,0,H,0.0,0.0,D
+ROM,2009-05-17,15:00,Oţelul Galaţi,FC Unirea,0,2,A,0.0,0.0,D
+ROM,2009-05-17,17:00,FC Vaslui,CS Otopeni,2,0,H,1.0,0.0,H
+ROM,2009-05-17,18:30,Dinamo Bucureşti,FC Timişoara,3,1,H,2.0,1.0,H
+ROM,2009-05-22,16:00,FC Braşov,Oţelul Galaţi,1,1,D,1.0,0.0,H
+ROM,2009-05-22,19:00,FC Timişoara,Steaua Bucureşti,1,0,H,1.0,0.0,H
+ROM,2009-05-23,15:00,Gloria Buzau,FC Vaslui,4,1,H,1.0,0.0,H
+ROM,2009-05-23,16:00,CS Otopeni,Politehnica Iasi,4,1,H,2.0,0.0,H
+ROM,2009-05-23,17:00,Gaz Metan Mediaş,Gloria Bistrita,3,1,H,2.0,0.0,H
+ROM,2009-05-23,19:00,Rapid Bucureşti,FC Universitatea Craiova,0,3,A,0.0,0.0,D
+ROM,2009-05-24,15:00,Argeș Pitești,CFR Cluj,0,2,A,0.0,1.0,A
+ROM,2009-05-24,16:00,Pandurii Târgu Jiu,Farul Constanta,0,0,D,0.0,0.0,D
+ROM,2009-05-24,18:30,FC Unirea,Dinamo Bucureşti,1,0,H,1.0,0.0,H
+ROM,2009-05-29,16:00,Gloria Bistrita,CS Otopeni,3,1,H,2.0,1.0,H
+ROM,2009-05-29,19:00,Steaua Bucureşti,FC Universitatea Craiova,2,1,H,1.0,1.0,D
+ROM,2009-05-30,15:30,CFR Cluj,Pandurii Târgu Jiu,1,1,D,1.0,1.0,D
+ROM,2009-05-30,17:30,Farul Constanta,Gaz Metan Mediaş,2,0,H,2.0,0.0,H
+ROM,2009-05-30,17:30,Politehnica Iasi,Gloria Buzau,1,1,D,0.0,0.0,D
+ROM,2009-05-30,19:30,FC Vaslui,Rapid Bucureşti,1,0,H,1.0,0.0,H
+ROM,2009-05-31,16:00,Oţelul Galaţi,Argeș Pitești,2,0,H,2.0,0.0,H
+ROM,2009-05-31,18:30,Dinamo Bucureşti,FC Braşov,0,2,A,0.0,1.0,A
+ROM,2009-05-31,18:30,FC Timişoara,FC Unirea,1,2,A,1.0,0.0,H
+ROM,2009-06-10,18:00,FC Universitatea Craiova,FC Vaslui,0,1,A,0.0,1.0,A
+ROM,2009-06-10,18:00,Gloria Buzau,Gloria Bistrita,2,1,H,1.0,0.0,H
+ROM,2009-06-10,18:00,Rapid Bucureşti,Politehnica Iasi,2,2,D,0.0,2.0,A
+ROM,2009-06-10,18:00,FC Unirea,Steaua Bucureşti,1,1,D,0.0,0.0,D
+ROM,2009-06-10,18:00,Argeș Pitești,Dinamo Bucureşti,5,2,H,2.0,1.0,H
+ROM,2009-06-10,18:00,FC Braşov,FC Timişoara,1,0,H,0.0,0.0,D
+ROM,2009-06-10,18:00,Pandurii Târgu Jiu,Oţelul Galaţi,1,0,H,1.0,0.0,H
+ROM,2009-06-10,18:00,Gaz Metan Mediaş,CFR Cluj,2,0,H,0.0,0.0,D
+ROM,2009-06-10,18:00,CS Otopeni,Farul Constanta,6,0,H,2.0,0.0,H

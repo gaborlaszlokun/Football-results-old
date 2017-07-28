@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+WAL,2014-08-22,19:30,Cefn Druids,Aberystwyth Town,0,5,A,0,2,A
+WAL,2014-08-22,19:30,Prestatyn Town,Gap Connah's Quay FC,3,2,H,1,1,D
+WAL,2014-08-22,19:45,The New Saints,Bangor City,2,0,H,1,0,H
+WAL,2014-08-23,14:30,Carmarthen Town,Rhyl FC,1,0,H,1,0,H
+WAL,2014-08-23,14:30,Newtown AFC,Bala Town,1,2,A,1,1,D
+WAL,2014-08-25,14:30,Aberystwyth Town,The New Saints,1,1,D,1,0,H
+WAL,2014-08-25,14:30,Bangor City,Newtown AFC,1,3,A,1,2,A
+WAL,2014-08-25,14:30,Gap Connah's Quay FC,Carmarthen Town,1,1,D,0,0,D
+WAL,2014-08-25,14:30,Port Talbot Town,Prestatyn Town,3,0,H,1,0,H
+WAL,2014-08-25,14:30,Rhyl FC,Cefn Druids,1,1,D,0,0,D
+WAL,2014-08-25,14:30,Bala Town,Airbus UK,0,0,D,0,0,D
+WAL,2014-08-29,19:30,Aberystwyth Town,Bangor City,3,3,D,2,0,H
+WAL,2014-08-29,19:30,Carmarthen Town,Port Talbot Town,2,1,H,1,0,H
+WAL,2014-08-29,19:30,Cefn Druids,Gap Connah's Quay FC,3,2,H,1,1,D
+WAL,2014-08-29,19:45,Airbus UK,Newtown AFC,3,0,H,2,0,H
+WAL,2014-08-29,19:45,The New Saints,Rhyl FC,6,1,H,5,1,H
+WAL,2014-08-30,14:30,Prestatyn Town,Bala Town,3,3,D,1,0,H
+WAL,2014-09-05,19:30,Gap Connah's Quay FC,The New Saints,1,5,A,0,1,A
+WAL,2014-09-05,19:45,Bangor City,Airbus UK,1,2,A,1,1,D
+WAL,2014-09-06,14:30,Newtown AFC,Prestatyn Town,4,3,H,0,2,A
+WAL,2014-09-06,14:30,Port Talbot Town,Cefn Druids,4,1,H,2,1,H
+WAL,2014-09-07,13:00,Rhyl FC,Aberystwyth Town,0,1,A,0,1,A
+WAL,2014-09-07,14:30,Bala Town,Carmarthen Town,8,1,H,3,1,H
+WAL,2014-09-12,19:30,Cefn Druids,Bala Town,0,1,A,0,1,A
+WAL,2014-09-12,19:45,Aberystwyth Town,Gap Connah's Quay FC,1,1,D,0,1,A
+WAL,2014-09-13,14:30,Carmarthen Town,Newtown AFC,1,1,D,1,1,D
+WAL,2014-09-13,14:30,Prestatyn Town,Airbus UK,0,2,A,0,1,A
+WAL,2014-09-13,14:30,The New Saints,Port Talbot Town,2,0,H,1,0,H
+WAL,2014-09-14,13:00,Rhyl FC,Bangor City,3,2,H,0,2,A
+WAL,2014-09-19,19:30,Bangor City,Prestatyn Town,3,3,D,2,1,H
+WAL,2014-09-19,19:30,Gap Connah's Quay FC,Rhyl FC,1,3,A,0,1,A
+WAL,2014-09-19,19:30,Port Talbot Town,Aberystwyth Town,1,2,A,1,1,D
+WAL,2014-09-19,19:45,Bala Town,The New Saints,0,3,A,0,0,D
+WAL,2014-09-20,14:30,Newtown AFC,Cefn Druids,4,1,H,2,0,H
+WAL,2014-09-21,13:30,Airbus UK,Carmarthen Town,2,0,H,0,0,D
+WAL,2014-09-26,19:45,Aberystwyth Town,Bala Town,4,0,H,2,0,H
+WAL,2014-09-27,14:30,Airbus UK,Cefn Druids,2,3,A,0,1,A
+WAL,2014-09-27,14:30,Carmarthen Town,Prestatyn Town,3,1,H,0,1,A
+WAL,2014-09-27,14:30,Rhyl FC,Port Talbot Town,0,3,A,0,1,A
+WAL,2014-09-28,13:00,The New Saints,Newtown AFC,1,1,D,1,1,D
+WAL,2014-10-03,19:45,Bala Town,Rhyl FC,1,2,A,0,2,A
+WAL,2014-10-04,14:30,Airbus UK,The New Saints,2,3,A,1,2,A
+WAL,2014-10-04,14:30,Bangor City,Carmarthen Town,1,2,A,0,0,D
+WAL,2014-10-04,14:30,Newtown AFC,Aberystwyth Town,6,3,H,4,1,H
+WAL,2014-10-04,14:30,Prestatyn Town,Cefn Druids,0,4,A,0,2,A
+WAL,2014-10-05,14:30,Port Talbot Town,Gap Connah's Quay FC,1,1,D,1,0,H
+WAL,2014-10-08,19:30,Airbus UK,Port Talbot Town,3,0,H,1,0,H
+WAL,2014-10-11,14:30,Aberystwyth Town,Airbus UK,2,1,H,1,0,H
+WAL,2014-10-11,14:30,Gap Connah's Quay FC,Bala Town,0,1,A,0,0,D
+WAL,2014-10-11,14:30,Cefn Druids,Carmarthen Town,1,3,A,0,1,A
+WAL,2014-10-11,14:30,Port Talbot Town,Bangor City,2,0,H,0,0,D
+WAL,2014-10-11,14:30,The New Saints,Prestatyn Town,6,0,H,3,0,H
+WAL,2014-10-12,14:30,Rhyl FC,Newtown AFC,2,2,D,1,2,A
+WAL,2014-10-17,19:30,Carmarthen Town,The New Saints,1,2,A,0,2,A
+WAL,2014-10-17,19:45,Bangor City,Cefn Druids,0,1,A,0,0,D
+WAL,2014-10-18,14:30,Airbus UK,Rhyl FC,2,1,H,1,1,D
+WAL,2014-10-18,14:30,Newtown AFC,Gap Connah's Quay FC,1,2,A,0,0,D
+WAL,2014-10-18,14:30,Prestatyn Town,Aberystwyth Town,2,1,H,1,0,H
+WAL,2014-10-19,13:30,Bala Town,Port Talbot Town,4,1,H,3,1,H
+WAL,2014-10-24,19:30,Bangor City,Gap Connah's Quay FC,0,2,A,0,1,A
+WAL,2014-10-24,19:45,Bala Town,Aberystwyth Town,4,0,H,2,0,H
+WAL,2014-10-25,14:30,Newtown AFC,The New Saints,2,3,A,1,2,A
+WAL,2014-10-25,14:30,Port Talbot Town,Rhyl FC,3,0,H,2,0,H
+WAL,2014-10-25,14:30,Prestatyn Town,Carmarthen Town,1,3,A,0,1,A
+WAL,2014-10-26,14:00,Cefn Druids,Airbus UK,1,1,D,0,0,D
+WAL,2014-10-31,19:30,Cefn Druids,Prestatyn Town,3,1,H,3,0,H
+WAL,2014-10-31,19:45,Aberystwyth Town,Newtown AFC,1,0,H,1,0,H
+WAL,2014-11-01,14:30,Carmarthen Town,Bangor City,0,2,A,0,0,D
+WAL,2014-11-01,14:30,Gap Connah's Quay FC,Port Talbot Town,1,1,D,0,0,D
+WAL,2014-11-01,14:30,Rhyl FC,Bala Town,0,1,A,0,0,D
+WAL,2014-11-02,13:00,The New Saints,Airbus UK,1,1,D,1,1,D
+WAL,2014-11-07,19:45,Aberystwyth Town,Cefn Druids,4,2,H,1,0,H
+WAL,2014-11-07,19:45,Bangor City,The New Saints,0,5,A,0,4,A
+WAL,2014-11-08,14:30,Port Talbot Town,Airbus UK,2,0,H,1,0,H
+WAL,2014-11-09,13:00,Gap Connah's Quay FC,Prestatyn Town,3,1,H,0,0,D
+WAL,2014-11-12,19:30,Gap Connah's Quay FC,Bangor City,1,0,H,0,0,D
+WAL,2014-11-14,19:30,Cefn Druids,Rhyl FC,0,1,A,0,1,A
+WAL,2014-11-14,19:45,The New Saints,Aberystwyth Town,1,1,D,1,0,H
+WAL,2014-11-15,14:30,Airbus UK,Bala Town,2,1,H,1,0,H
+WAL,2014-11-15,14:30,Carmarthen Town,Gap Connah's Quay FC,1,1,D,1,0,H
+WAL,2014-11-15,14:30,Prestatyn Town,Port Talbot Town,2,1,H,1,1,D
+WAL,2014-11-16,13:00,Newtown AFC,Bangor City,2,1,H,2,0,H
+WAL,2014-11-21,19:30,Gap Connah's Quay FC,Cefn Druids,1,1,D,0,0,D
+WAL,2014-11-21,19:45,Bangor City,Aberystwyth Town,2,2,D,1,1,D
+WAL,2014-11-21,19:45,Bala Town,Prestatyn Town,4,2,H,4,2,H
+WAL,2014-11-22,14:30,Newtown AFC,Airbus UK,1,0,H,1,0,H
+WAL,2014-11-22,14:30,Rhyl FC,The New Saints,2,2,D,0,2,A
+WAL,2014-11-23,13:00,Port Talbot Town,Carmarthen Town,2,0,H,0,0,D
+WAL,2014-12-05,19:45,The New Saints,Gap Connah's Quay FC,2,0,H,1,0,H
+WAL,2014-12-06,14:30,Airbus UK,Bangor City,5,1,H,2,0,H
+WAL,2014-12-06,14:30,Carmarthen Town,Bala Town,1,2,A,0,1,A
+WAL,2014-12-06,14:30,Cefn Druids,Port Talbot Town,2,1,H,0,1,A
+WAL,2014-12-06,14:30,Prestatyn Town,Newtown AFC,2,2,D,1,0,H
+WAL,2014-12-07,15:30,Aberystwyth Town,Rhyl FC,2,0,H,2,0,H
+WAL,2014-12-12,19:30,Port Talbot Town,The New Saints,1,5,A,0,2,A
+WAL,2014-12-12,19:45,Gap Connah's Quay FC,Aberystwyth Town,2,4,A,1,0,H
+WAL,2014-12-13,14:30,Airbus UK,Prestatyn Town,2,1,H,2,1,H
+WAL,2014-12-13,14:30,Newtown AFC,Carmarthen Town,0,2,A,0,1,A
+WAL,2014-12-13,14:30,Bala Town,Cefn Druids,3,1,H,2,0,H
+WAL,2014-12-14,13:00,Bangor City,Rhyl FC,0,0,D,0,0,D
+WAL,2014-12-19,19:30,Cefn Druids,Newtown AFC,0,2,A,0,2,A
+WAL,2014-12-20,14:30,Aberystwyth Town,Port Talbot Town,0,3,A,0,0,D
+WAL,2014-12-20,14:30,Carmarthen Town,Airbus UK,2,1,H,1,0,H
+WAL,2014-12-20,14:30,Rhyl FC,Gap Connah's Quay FC,1,1,D,0,1,A
+WAL,2014-12-20,17:00,The New Saints,Bala Town,1,0,H,1,0,H
+WAL,2014-12-21,13:00,Prestatyn Town,Bangor City,1,2,A,0,1,A
+WAL,2014-12-26,14:30,Airbus UK,Gap Connah's Quay FC,4,0,H,1,0,H
+WAL,2014-12-26,14:30,Carmarthen Town,Aberystwyth Town,1,3,A,0,1,A
+WAL,2014-12-26,14:30,Port Talbot Town,Newtown AFC,2,0,H,0,0,D
+WAL,2014-12-27,14:30,Rhyl FC,Prestatyn Town,2,2,D,1,2,A
+WAL,2015-01-01,14:30,Aberystwyth Town,Carmarthen Town,5,3,H,2,2,D
+WAL,2015-01-01,14:30,Gap Connah's Quay FC,Airbus UK,0,3,A,0,2,A
+WAL,2015-01-01,14:30,Cefn Druids,The New Saints,0,4,A,0,0,D
+WAL,2015-01-01,14:30,Newtown AFC,Port Talbot Town,3,3,D,1,2,A
+WAL,2015-01-02,19:30,Prestatyn Town,Rhyl FC,1,2,A,0,1,A
+WAL,2015-01-02,19:45,Bangor City,Bala Town,0,3,A,0,0,D
+WAL,2015-01-05,19:45,Bala Town,Newtown AFC,3,1,H,2,0,H
+WAL,2015-01-06,19:30,Rhyl FC,Carmarthen Town,1,1,D,0,1,A
+WAL,2015-01-06,19:45,The New Saints,Cefn Druids,3,1,H,1,0,H
+WAL,2015-01-09,19:30,Airbus UK,Aberystwyth Town,1,1,D,1,1,D
+WAL,2015-01-10,14:30,Bangor City,Port Talbot Town,2,1,H,1,1,D
+WAL,2015-01-10,14:30,Carmarthen Town,Cefn Druids,2,1,H,1,1,D
+WAL,2015-01-10,14:30,Prestatyn Town,The New Saints,1,3,A,1,1,D
+WAL,2015-01-11,13:00,Newtown AFC,Rhyl FC,1,0,H,1,0,H
+WAL,2015-01-14,19:45,Bala Town,Bangor City,3,0,H,1,0,H
+WAL,2015-01-17,14:30,Aberystwyth Town,Prestatyn Town,3,1,H,1,1,D
+WAL,2015-01-18,13:00,Port Talbot Town,Bala Town,4,3,H,1,0,H
+WAL,2015-01-24,14:30,Gap Connah's Quay FC,Newtown AFC,2,3,A,1,0,H
+WAL,2015-01-24,14:30,Cefn Druids,Bangor City,2,2,D,1,1,D
+WAL,2015-01-24,14:30,Rhyl FC,Airbus UK,1,2,A,1,1,D
+WAL,2015-01-28,19:45,Bala Town,Gap Connah's Quay FC,0,1,A,0,0,D
+WAL,2015-01-28,19:45,The New Saints,Carmarthen Town,3,0,H,0,0,D

@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2013-08-24,17:00,Hellas Verona,AC Milan,2,1,H,1,1,D
+ITA,2013-08-24,19:45,Sampdoria,Juventus,0,1,A,0,0,D
+ITA,2013-08-25,17:00,Inter,Genoa CFC,2,0,H,0,0,D
+ITA,2013-08-25,19:45,Cagliari Calcio,Atalanta,2,1,H,1,1,D
+ITA,2013-08-25,19:45,Lazio Roma,Udinese Calcio,2,1,H,2,0,H
+ITA,2013-08-25,19:45,AS Livorno,AS Roma,0,2,A,0,0,D
+ITA,2013-08-25,19:45,SSC Napoli,Bologna FC,3,0,H,2,0,H
+ITA,2013-08-25,19:45,Parma FC,Chievo Verona,0,0,D,0,0,D
+ITA,2013-08-25,19:45,Torino FC,Sassuolo Calcio,2,0,H,1,0,H
+ITA,2013-08-26,19:45,ACF Fiorentina,Calcio Catania,2,1,H,2,1,H
+ITA,2013-08-31,17:00,Chievo Verona,SSC Napoli,2,4,A,2,2,D
+ITA,2013-08-31,19:45,Juventus,Lazio Roma,4,1,H,2,1,H
+ITA,2013-09-01,17:00,AS Roma,Hellas Verona,3,0,H,0,0,D
+ITA,2013-09-01,19:45,Atalanta,Torino FC,2,0,H,0,0,D
+ITA,2013-09-01,19:45,Bologna FC,Sampdoria,2,2,D,1,1,D
+ITA,2013-09-01,19:45,Calcio Catania,Inter,0,3,A,0,1,A
+ITA,2013-09-01,19:45,Genoa CFC,ACF Fiorentina,2,5,A,0,3,A
+ITA,2013-09-01,19:45,AC Milan,Cagliari Calcio,3,1,H,2,1,H
+ITA,2013-09-01,19:45,Sassuolo Calcio,AS Livorno,1,4,A,0,1,A
+ITA,2013-09-01,19:45,Udinese Calcio,Parma FC,3,1,H,1,0,H
+ITA,2013-09-14,17:00,Inter,Juventus,1,1,D,0,0,D
+ITA,2013-09-14,19:45,SSC Napoli,Atalanta,2,0,H,0,0,D
+ITA,2013-09-14,19:45,Torino FC,AC Milan,2,2,D,0,0,D
+ITA,2013-09-15,11:30,ACF Fiorentina,Cagliari Calcio,1,1,D,0,0,D
+ITA,2013-09-15,14:00,Hellas Verona,Sassuolo Calcio,2,0,H,1,0,H
+ITA,2013-09-15,14:00,Lazio Roma,Chievo Verona,3,0,H,3,0,H
+ITA,2013-09-15,14:00,AS Livorno,Calcio Catania,2,0,H,0,0,D
+ITA,2013-09-15,14:00,Udinese Calcio,Bologna FC,1,1,D,0,0,D
+ITA,2013-09-15,19:45,Sampdoria,Genoa CFC,0,3,A,0,1,A
+ITA,2013-09-16,19:45,Parma FC,AS Roma,1,3,A,1,0,H
+ITA,2013-09-21,17:00,Cagliari Calcio,Sampdoria,2,2,D,1,0,H
+ITA,2013-09-21,17:00,Chievo Verona,Udinese Calcio,2,1,H,2,1,H
+ITA,2013-09-21,19:45,Genoa CFC,AS Livorno,0,0,D,0,0,D
+ITA,2013-09-22,11:30,Sassuolo Calcio,Inter,0,7,A,0,3,A
+ITA,2013-09-22,14:00,Atalanta,ACF Fiorentina,0,2,A,0,1,A
+ITA,2013-09-22,14:00,Bologna FC,Torino FC,1,2,A,1,2,A
+ITA,2013-09-22,14:00,Calcio Catania,Parma FC,0,0,D,0,0,D
+ITA,2013-09-22,14:00,Juventus,Hellas Verona,2,1,H,2,1,H
+ITA,2013-09-22,14:00,AS Roma,Lazio Roma,2,0,H,0,0,D
+ITA,2013-09-22,19:45,AC Milan,SSC Napoli,1,2,A,0,1,A
+ITA,2013-09-24,19:45,Udinese Calcio,Genoa CFC,1,0,H,0,0,D
+ITA,2013-09-25,19:45,Bologna FC,AC Milan,3,3,D,1,1,D
+ITA,2013-09-25,19:45,Chievo Verona,Juventus,1,2,A,1,0,H
+ITA,2013-09-25,19:45,Lazio Roma,Calcio Catania,3,1,H,2,1,H
+ITA,2013-09-25,19:45,AS Livorno,Cagliari Calcio,1,1,D,1,0,H
+ITA,2013-09-25,19:45,SSC Napoli,Sassuolo Calcio,1,1,D,1,1,D
+ITA,2013-09-25,19:45,Parma FC,Atalanta,4,3,H,4,2,H
+ITA,2013-09-25,19:45,Sampdoria,AS Roma,0,2,A,0,0,D
+ITA,2013-09-25,19:45,Torino FC,Hellas Verona,2,2,D,1,1,D
+ITA,2013-09-26,19:45,Inter,ACF Fiorentina,2,1,H,0,0,D
+ITA,2013-09-28,17:00,Genoa CFC,SSC Napoli,0,2,A,0,2,A
+ITA,2013-09-28,19:45,AC Milan,Sampdoria,1,0,H,0,0,D
+ITA,2013-09-29,11:30,Torino FC,Juventus,0,1,A,0,0,D
+ITA,2013-09-29,14:00,Atalanta,Udinese Calcio,2,0,H,1,0,H
+ITA,2013-09-29,14:00,Cagliari Calcio,Inter,1,1,D,0,0,D
+ITA,2013-09-29,14:00,Calcio Catania,Chievo Verona,2,0,H,1,0,H
+ITA,2013-09-29,14:00,Hellas Verona,AS Livorno,2,1,H,1,1,D
+ITA,2013-09-29,14:00,Sassuolo Calcio,Lazio Roma,2,2,D,0,0,D
+ITA,2013-09-29,19:45,AS Roma,Bologna FC,5,0,H,3,0,H
+ITA,2013-09-30,19:45,ACF Fiorentina,Parma FC,2,2,D,0,1,A
+ITA,2013-10-05,17:00,Chievo Verona,Atalanta,0,1,A,0,1,A
+ITA,2013-10-05,19:45,Inter,AS Roma,0,3,A,0,3,A
+ITA,2013-10-06,11:30,Parma FC,Sassuolo Calcio,3,1,H,1,1,D
+ITA,2013-10-06,14:00,Bologna FC,Hellas Verona,1,4,A,0,2,A
+ITA,2013-10-06,14:00,Calcio Catania,Genoa CFC,1,1,D,0,0,D
+ITA,2013-10-06,14:00,SSC Napoli,AS Livorno,4,0,H,2,0,H
+ITA,2013-10-06,14:00,Sampdoria,Torino FC,2,2,D,1,0,H
+ITA,2013-10-06,14:00,Udinese Calcio,Cagliari Calcio,2,0,H,1,0,H
+ITA,2013-10-06,19:45,Juventus,AC Milan,3,2,H,1,1,D
+ITA,2013-10-06,19:45,Lazio Roma,ACF Fiorentina,0,0,D,0,0,D
+ITA,2013-10-18,19:45,AS Roma,SSC Napoli,2,0,H,1,0,H
+ITA,2013-10-19,17:00,Cagliari Calcio,Calcio Catania,2,1,H,1,1,D
+ITA,2013-10-19,19:45,AC Milan,Udinese Calcio,1,0,H,1,0,H
+ITA,2013-10-20,11:30,Atalanta,Lazio Roma,2,1,H,1,0,H
+ITA,2013-10-20,14:00,ACF Fiorentina,Juventus,4,2,H,0,2,A
+ITA,2013-10-20,14:00,Genoa CFC,Chievo Verona,2,1,H,1,0,H
+ITA,2013-10-20,14:00,Hellas Verona,Parma FC,3,2,H,1,2,A
+ITA,2013-10-20,14:00,AS Livorno,Sampdoria,1,2,A,0,1,A
+ITA,2013-10-20,14:00,Sassuolo Calcio,Bologna FC,2,1,H,2,1,H
+ITA,2013-10-20,19:45,Torino FC,Inter,3,3,D,1,1,D
+ITA,2013-10-26,17:00,Sampdoria,Atalanta,1,0,H,0,0,D
+ITA,2013-10-26,19:45,Inter,Hellas Verona,4,2,H,3,1,H
+ITA,2013-10-27,11:30,SSC Napoli,Torino FC,2,0,H,2,0,H
+ITA,2013-10-27,14:00,Bologna FC,AS Livorno,1,0,H,1,0,H
+ITA,2013-10-27,14:00,Calcio Catania,Sassuolo Calcio,0,0,D,0,0,D
+ITA,2013-10-27,14:00,Chievo Verona,ACF Fiorentina,1,2,A,1,1,D
+ITA,2013-10-27,14:00,Juventus,Genoa CFC,2,0,H,2,0,H
+ITA,2013-10-27,14:00,Parma FC,AC Milan,3,2,H,2,0,H
+ITA,2013-10-27,14:00,Udinese Calcio,AS Roma,0,1,A,0,0,D
+ITA,2013-10-27,19:45,Lazio Roma,Cagliari Calcio,2,0,H,0,0,D
+ITA,2013-10-29,19:45,Atalanta,Inter,1,1,D,1,1,D
+ITA,2013-10-30,19:45,Cagliari Calcio,Bologna FC,0,3,A,0,1,A
+ITA,2013-10-30,19:45,ACF Fiorentina,SSC Napoli,1,2,A,1,2,A
+ITA,2013-10-30,19:45,Genoa CFC,Parma FC,1,0,H,0,0,D
+ITA,2013-10-30,19:45,Hellas Verona,Sampdoria,2,0,H,0,0,D
+ITA,2013-10-30,19:45,Juventus,Calcio Catania,4,0,H,2,0,H
+ITA,2013-10-30,19:45,AS Livorno,Torino FC,3,3,D,2,2,D
+ITA,2013-10-30,19:45,AC Milan,Lazio Roma,1,1,D,0,0,D
+ITA,2013-10-30,19:45,Sassuolo Calcio,Udinese Calcio,1,2,A,1,1,D
+ITA,2013-10-31,19:45,AS Roma,Chievo Verona,1,0,H,0,0,D
+ITA,2013-11-02,17:00,Parma FC,Juventus,0,1,A,0,0,D
+ITA,2013-11-02,19:45,AC Milan,ACF Fiorentina,0,2,A,0,1,A
+ITA,2013-11-02,19:45,SSC Napoli,Calcio Catania,2,1,H,2,1,H
+ITA,2013-11-03,11:30,AS Livorno,Atalanta,1,0,H,1,0,H
+ITA,2013-11-03,14:00,Hellas Verona,Cagliari Calcio,2,1,H,1,0,H
+ITA,2013-11-03,14:00,Lazio Roma,Genoa CFC,0,2,A,0,0,D
+ITA,2013-11-03,14:00,Sampdoria,Sassuolo Calcio,3,4,A,1,0,H
+ITA,2013-11-03,14:00,Udinese Calcio,Inter,0,3,A,0,2,A
+ITA,2013-11-03,19:45,Torino FC,AS Roma,1,1,D,0,1,A
+ITA,2013-11-04,19:45,Bologna FC,Chievo Verona,0,0,D,0,0,D
+ITA,2013-11-09,17:00,Calcio Catania,Udinese Calcio,1,0,H,1,0,H
+ITA,2013-11-09,19:45,Inter,AS Livorno,2,0,H,1,0,H
+ITA,2013-11-10,11:30,Genoa CFC,Hellas Verona,2,0,H,2,0,H
+ITA,2013-11-10,14:00,Atalanta,Bologna FC,2,1,H,0,0,D
+ITA,2013-11-10,14:00,Cagliari Calcio,Torino FC,2,1,H,1,0,H
+ITA,2013-11-10,14:00,Chievo Verona,AC Milan,0,0,D,0,0,D
+ITA,2013-11-10,14:00,Parma FC,Lazio Roma,1,1,D,0,0,D
+ITA,2013-11-10,14:00,AS Roma,Sassuolo Calcio,1,1,D,1,0,H
+ITA,2013-11-10,19:45,ACF Fiorentina,Sampdoria,2,1,H,2,0,H
+ITA,2013-11-10,19:45,Juventus,SSC Napoli,3,0,H,1,0,H
+ITA,2013-11-23,17:00,Hellas Verona,Chievo Verona,0,1,A,0,0,D
+ITA,2013-11-23,19:45,AC Milan,Genoa CFC,1,1,D,1,1,D
+ITA,2013-11-23,19:45,SSC Napoli,Parma FC,0,1,A,0,0,D
+ITA,2013-11-24,14:00,AS Livorno,Juventus,0,2,A,0,0,D
+ITA,2013-11-24,14:00,Sampdoria,Lazio Roma,1,1,D,0,0,D
+ITA,2013-11-24,14:00,Sassuolo Calcio,Atalanta,2,0,H,0,0,D
+ITA,2013-11-24,14:00,Torino FC,Calcio Catania,4,1,H,2,0,H
+ITA,2013-11-24,14:00,Udinese Calcio,ACF Fiorentina,1,0,H,1,0,H
+ITA,2013-11-24,19:45,Bologna FC,Inter,1,1,D,1,0,H
+ITA,2013-11-25,19:45,AS Roma,Cagliari Calcio,0,0,D,0,0,D
+ITA,2013-11-30,17:00,Parma FC,Bologna FC,1,1,D,1,1,D
+ITA,2013-11-30,19:45,Genoa CFC,Torino FC,1,1,D,0,1,A
+ITA,2013-12-01,11:30,Calcio Catania,AC Milan,1,3,A,1,1,D
+ITA,2013-12-01,14:00,Atalanta,AS Roma,1,1,D,0,0,D
+ITA,2013-12-01,14:00,Cagliari Calcio,Sassuolo Calcio,2,2,D,0,2,A
+ITA,2013-12-01,14:00,Chievo Verona,AS Livorno,3,0,H,1,0,H
+ITA,2013-12-01,14:00,Inter,Sampdoria,1,1,D,1,0,H
+ITA,2013-12-01,17:30,Juventus,Udinese Calcio,1,0,H,0,0,D
+ITA,2013-12-02,18:00,ACF Fiorentina,Hellas Verona,4,3,H,3,2,H
+ITA,2013-12-02,20:00,Lazio Roma,SSC Napoli,2,4,A,1,1,D
+ITA,2013-12-06,19:45,Bologna FC,Juventus,0,2,A,0,1,A
+ITA,2013-12-07,17:00,AS Livorno,AC Milan,2,2,D,1,1,D
+ITA,2013-12-07,19:45,SSC Napoli,Udinese Calcio,3,3,D,2,1,H
+ITA,2013-12-08,11:30,AS Roma,ACF Fiorentina,2,1,H,1,1,D
+ITA,2013-12-08,14:00,Cagliari Calcio,Genoa CFC,2,1,H,0,1,A
+ITA,2013-12-08,14:00,Hellas Verona,Atalanta,2,1,H,0,1,A
+ITA,2013-12-08,14:00,Sampdoria,Calcio Catania,2,0,H,0,0,D
+ITA,2013-12-08,14:00,Sassuolo Calcio,Chievo Verona,0,1,A,0,0,D
+ITA,2013-12-08,14:00,Torino FC,Lazio Roma,1,0,H,1,0,H
+ITA,2013-12-08,19:45,Inter,Parma FC,3,3,D,1,2,A
+ITA,2013-12-14,19:45,Calcio Catania,Hellas Verona,0,0,D,0,0,D
+ITA,2013-12-15,14:00,Chievo Verona,Sampdoria,0,1,A,0,1,A
+ITA,2013-12-15,14:00,ACF Fiorentina,Bologna FC,3,0,H,2,0,H
+ITA,2013-12-15,14:00,Genoa CFC,Atalanta,1,1,D,0,0,D
+ITA,2013-12-15,14:00,Lazio Roma,AS Livorno,2,0,H,2,0,H
+ITA,2013-12-15,14:00,Parma FC,Cagliari Calcio,0,0,D,0,0,D
+ITA,2013-12-15,14:00,Udinese Calcio,Torino FC,0,2,A,0,0,D
+ITA,2013-12-15,17:30,Juventus,Sassuolo Calcio,4,0,H,3,0,H
+ITA,2013-12-15,19:45,SSC Napoli,Inter,4,2,H,3,2,H
+ITA,2013-12-16,19:45,AC Milan,AS Roma,2,2,D,1,1,D
+ITA,2013-12-21,17:00,AS Livorno,Udinese Calcio,1,2,A,1,1,D
+ITA,2013-12-21,19:45,Cagliari Calcio,SSC Napoli,1,1,D,1,1,D
+ITA,2013-12-22,11:30,Bologna FC,Genoa CFC,1,0,H,0,0,D
+ITA,2013-12-22,14:00,Atalanta,Juventus,1,4,A,1,1,D
+ITA,2013-12-22,14:00,Hellas Verona,Lazio Roma,4,1,H,2,1,H
+ITA,2013-12-22,14:00,AS Roma,Calcio Catania,4,0,H,1,0,H
+ITA,2013-12-22,14:00,Sampdoria,Parma FC,1,1,D,1,0,H
+ITA,2013-12-22,14:00,Sassuolo Calcio,ACF Fiorentina,0,1,A,0,0,D
+ITA,2013-12-22,14:00,Torino FC,Chievo Verona,4,1,H,1,1,D
+ITA,2013-12-22,19:45,Inter,AC Milan,1,0,H,0,0,D
+ITA,2014-01-05,14:00,Chievo Verona,Cagliari Calcio,0,0,D,0,0,D
+ITA,2014-01-05,17:00,ACF Fiorentina,AS Livorno,1,0,H,0,0,D
+ITA,2014-01-05,19:45,Juventus,AS Roma,3,0,H,1,0,H
+ITA,2014-01-06,11:30,SSC Napoli,Sampdoria,2,0,H,0,0,D
+ITA,2014-01-06,14:00,Calcio Catania,Bologna FC,2,0,H,1,0,H
+ITA,2014-01-06,14:00,Genoa CFC,Sassuolo Calcio,2,0,H,2,0,H
+ITA,2014-01-06,14:00,AC Milan,Atalanta,3,0,H,1,0,H
+ITA,2014-01-06,14:00,Parma FC,Torino FC,3,1,H,2,1,H
+ITA,2014-01-06,14:00,Udinese Calcio,Hellas Verona,1,3,A,1,2,A
+ITA,2014-01-06,17:30,Lazio Roma,Inter,1,0,H,0,0,D
+ITA,2014-01-11,17:00,AS Livorno,Parma FC,0,3,A,0,1,A
+ITA,2014-01-11,19:45,Bologna FC,Lazio Roma,0,0,D,0,0,D
+ITA,2014-01-12,11:30,Torino FC,ACF Fiorentina,0,0,D,0,0,D
+ITA,2014-01-12,14:00,Atalanta,Calcio Catania,2,1,H,0,0,D
+ITA,2014-01-12,14:00,Cagliari Calcio,Juventus,1,4,A,1,1,D
+ITA,2014-01-12,14:00,Hellas Verona,SSC Napoli,0,3,A,0,1,A
+ITA,2014-01-12,14:00,AS Roma,Genoa CFC,4,0,H,3,0,H
+ITA,2014-01-12,19:45,Sassuolo Calcio,AC Milan,4,3,H,3,2,H
+ITA,2014-01-13,18:00,Sampdoria,Udinese Calcio,3,0,H,1,0,H
+ITA,2014-01-13,20:00,Inter,Chievo Verona,1,1,D,1,1,D
+ITA,2014-01-18,17:00,AS Roma,AS Livorno,3,0,H,2,0,H
+ITA,2014-01-18,19:45,Juventus,Sampdoria,4,2,H,3,1,H
+ITA,2014-01-19,11:30,Udinese Calcio,Lazio Roma,2,3,A,1,0,H
+ITA,2014-01-19,14:00,Atalanta,Cagliari Calcio,1,0,H,0,0,D
+ITA,2014-01-19,14:00,Calcio Catania,ACF Fiorentina,0,3,A,0,3,A
+ITA,2014-01-19,14:00,Genoa CFC,Inter,1,0,H,0,0,D
+ITA,2014-01-19,14:00,Bologna FC,SSC Napoli,2,2,D,1,0,H
+ITA,2014-01-19,14:00,Chievo Verona,Parma FC,1,2,A,1,1,D
+ITA,2014-01-19,14:00,Sassuolo Calcio,Torino FC,0,2,A,0,1,A
+ITA,2014-01-19,19:45,AC Milan,Hellas Verona,1,0,H,0,0,D
+ITA,2014-01-25,17:00,SSC Napoli,Chievo Verona,1,1,D,0,1,A
+ITA,2014-01-25,19:45,Lazio Roma,Juventus,1,1,D,1,0,H
+ITA,2014-01-26,11:30,Hellas Verona,AS Roma,1,3,A,0,1,A
+ITA,2014-01-26,14:00,Torino FC,Atalanta,1,0,H,0,0,D
+ITA,2014-01-26,14:00,Sampdoria,Bologna FC,1,1,D,0,0,D
+ITA,2014-01-26,14:00,Inter,Calcio Catania,0,0,D,0,0,D
+ITA,2014-01-26,14:00,Cagliari Calcio,AC Milan,1,2,A,1,0,H
+ITA,2014-01-26,14:00,AS Livorno,Sassuolo Calcio,3,1,H,3,1,H
+ITA,2014-01-26,14:00,Parma FC,Udinese Calcio,1,0,H,1,0,H
+ITA,2014-01-26,19:45,ACF Fiorentina,Genoa CFC,3,3,D,2,2,D
+ITA,2014-02-01,17:00,Cagliari Calcio,ACF Fiorentina,1,0,H,1,0,H
+ITA,2014-02-01,17:00,Bologna FC,Udinese Calcio,0,2,A,0,1,A
+ITA,2014-02-01,19:45,AC Milan,Torino FC,1,1,D,0,1,A
+ITA,2014-02-02,14:00,Sassuolo Calcio,Hellas Verona,1,2,A,0,0,D
+ITA,2014-02-02,14:00,Chievo Verona,Lazio Roma,0,2,A,0,1,A
+ITA,2014-02-02,14:00,Calcio Catania,AS Livorno,3,3,D,0,0,D
+ITA,2014-02-02,14:00,Atalanta,SSC Napoli,3,0,H,0,0,D
+ITA,2014-02-02,19:45,Juventus,Inter,3,1,H,1,0,H
+ITA,2014-02-03,19:45,Genoa CFC,Sampdoria,0,1,A,0,1,A
+ITA,2014-02-08,17:00,ACF Fiorentina,Atalanta,2,0,H,1,0,H
+ITA,2014-02-08,17:00,Udinese Calcio,Chievo Verona,3,0,H,0,0,D
+ITA,2014-02-08,19:45,SSC Napoli,AC Milan,3,1,H,1,1,D
+ITA,2014-02-09,11:30,Torino FC,Bologna FC,1,2,A,1,2,A
+ITA,2014-02-09,14:00,Sampdoria,Cagliari Calcio,1,0,H,1,0,H
+ITA,2014-02-09,14:00,Parma FC,Calcio Catania,0,0,D,0,0,D
+ITA,2014-02-09,14:00,AS Livorno,Genoa CFC,0,1,A,0,1,A
+ITA,2014-02-09,14:00,Hellas Verona,Juventus,2,2,D,0,2,A
+ITA,2014-02-09,14:00,Lazio Roma,AS Roma,0,0,D,0,0,D
+ITA,2014-02-09,19:45,Inter,Sassuolo Calcio,1,0,H,0,0,D
+ITA,2014-02-14,19:45,AC Milan,Bologna FC,1,0,H,0,0,D
+ITA,2014-02-15,19:45,ACF Fiorentina,Inter,1,2,A,0,1,A
+ITA,2014-02-16,11:30,Calcio Catania,Lazio Roma,3,1,H,1,1,D
+ITA,2014-02-16,14:00,Juventus,Chievo Verona,3,1,H,2,0,H
+ITA,2014-02-16,14:00,Cagliari Calcio,AS Livorno,1,2,A,0,1,A
+ITA,2014-02-16,14:00,Sassuolo Calcio,SSC Napoli,0,2,A,0,1,A
+ITA,2014-02-16,14:00,Atalanta,Parma FC,0,4,A,0,1,A
+ITA,2014-02-16,14:00,Genoa CFC,Udinese Calcio,3,3,D,1,2,A
+ITA,2014-02-16,19:45,AS Roma,Sampdoria,3,0,H,1,0,H
+ITA,2014-02-17,19:45,Hellas Verona,Torino FC,1,3,A,1,0,H
+ITA,2014-02-22,19:45,Bologna FC,AS Roma,0,1,A,0,1,A
+ITA,2014-02-23,11:30,AS Livorno,Hellas Verona,2,3,A,0,3,A
+ITA,2014-02-23,14:00,Udinese Calcio,Atalanta,1,1,D,0,1,A
+ITA,2014-02-23,14:00,Inter,Cagliari Calcio,1,1,D,0,1,A
+ITA,2014-02-23,14:00,Chievo Verona,Calcio Catania,2,0,H,1,0,H
+ITA,2014-02-23,14:00,Sampdoria,AC Milan,0,2,A,0,1,A
+ITA,2014-02-23,17:30,Juventus,Torino FC,1,0,H,1,0,H
+ITA,2014-02-23,19:45,Lazio Roma,Sassuolo Calcio,3,2,H,1,0,H
+ITA,2014-02-24,18:00,Parma FC,ACF Fiorentina,2,2,D,1,1,D
+ITA,2014-02-24,20:00,SSC Napoli,Genoa CFC,1,1,D,1,0,H
+ITA,2014-03-01,19:45,AS Roma,Inter,0,0,D,0,0,D
+ITA,2014-03-02,11:30,Cagliari Calcio,Udinese Calcio,3,0,H,1,0,H
+ITA,2014-03-02,14:00,Hellas Verona,Bologna FC,0,0,D,0,0,D
+ITA,2014-03-02,14:00,Genoa CFC,Calcio Catania,2,0,H,1,0,H
+ITA,2014-03-02,14:00,Atalanta,Chievo Verona,2,1,H,1,0,H
+ITA,2014-03-02,14:00,Sassuolo Calcio,Parma FC,0,1,A,0,1,A
+ITA,2014-03-02,14:00,Torino FC,Sampdoria,0,2,A,0,1,A
+ITA,2014-03-02,17:30,AS Livorno,SSC Napoli,1,1,D,1,1,D
+ITA,2014-03-02,19:45,AC Milan,Juventus,0,2,A,0,1,A
+ITA,2014-03-02,19:45,ACF Fiorentina,Lazio Roma,0,1,A,0,1,A
+ITA,2014-03-08,17:00,Udinese Calcio,AC Milan,1,0,H,0,0,D
+ITA,2014-03-08,19:45,Calcio Catania,Cagliari Calcio,1,1,D,0,0,D
+ITA,2014-03-09,11:30,Juventus,ACF Fiorentina,1,0,H,1,0,H
+ITA,2014-03-09,14:00,Lazio Roma,Atalanta,0,1,A,0,0,D
+ITA,2014-03-09,14:00,Chievo Verona,Genoa CFC,2,1,H,1,0,H
+ITA,2014-03-09,14:00,Parma FC,Hellas Verona,2,0,H,1,0,H
+ITA,2014-03-09,14:00,Sampdoria,AS Livorno,4,2,H,0,2,A
+ITA,2014-03-09,14:00,Bologna FC,Sassuolo Calcio,0,0,D,0,0,D
+ITA,2014-03-09,14:00,Inter,Torino FC,1,0,H,1,0,H
+ITA,2014-03-09,19:45,SSC Napoli,AS Roma,1,0,H,0,0,D
+ITA,2014-03-15,19:45,Hellas Verona,Inter,0,2,A,0,1,A
+ITA,2014-03-16,11:30,Atalanta,Sampdoria,3,0,H,2,0,H
+ITA,2014-03-16,14:00,AS Livorno,Bologna FC,2,1,H,0,0,D
+ITA,2014-03-16,14:00,Sassuolo Calcio,Calcio Catania,3,1,H,0,1,A
+ITA,2014-03-16,14:00,Cagliari Calcio,Lazio Roma,0,2,A,0,1,A
+ITA,2014-03-16,14:00,AC Milan,Parma FC,2,4,A,0,1,A
+ITA,2014-03-16,19:45,ACF Fiorentina,Chievo Verona,3,1,H,2,0,H
+ITA,2014-03-16,19:45,Genoa CFC,Juventus,0,1,A,0,0,D
+ITA,2014-03-17,18:00,Torino FC,SSC Napoli,0,1,A,0,0,D
+ITA,2014-03-17,20:00,AS Roma,Udinese Calcio,3,2,H,2,0,H
+ITA,2014-03-22,17:00,Torino FC,AS Livorno,3,1,H,1,0,H
+ITA,2014-03-22,19:45,Chievo Verona,AS Roma,0,2,A,0,2,A
+ITA,2014-03-23,11:30,Parma FC,Genoa CFC,1,1,D,1,1,D
+ITA,2014-03-23,14:00,Inter,Atalanta,1,2,A,1,1,D
+ITA,2014-03-23,14:00,Bologna FC,Cagliari Calcio,1,0,H,0,0,D
+ITA,2014-03-23,14:00,Sampdoria,Hellas Verona,5,0,H,3,0,H
+ITA,2014-03-23,14:00,Udinese Calcio,Sassuolo Calcio,1,0,H,1,0,H
+ITA,2014-03-23,17:30,SSC Napoli,ACF Fiorentina,0,1,A,0,0,D
+ITA,2014-03-23,19:45,Calcio Catania,Juventus,0,1,A,0,0,D
+ITA,2014-03-23,19:45,Lazio Roma,AC Milan,1,1,D,0,1,A
+ITA,2014-03-25,19:45,AS Roma,Torino FC,2,1,H,1,0,H
+ITA,2014-03-26,19:45,Chievo Verona,Bologna FC,3,0,H,1,0,H
+ITA,2014-03-26,19:45,Cagliari Calcio,Hellas Verona,1,0,H,1,0,H
+ITA,2014-03-26,19:45,Genoa CFC,Lazio Roma,2,0,H,0,0,D
+ITA,2014-03-26,19:45,Atalanta,AS Livorno,2,0,H,1,0,H
+ITA,2014-03-26,19:45,ACF Fiorentina,AC Milan,0,2,A,0,1,A
+ITA,2014-03-26,19:45,Calcio Catania,SSC Napoli,2,4,A,0,4,A
+ITA,2014-03-26,19:45,Juventus,Parma FC,2,1,H,2,0,H
+ITA,2014-03-26,19:45,Sassuolo Calcio,Sampdoria,1,2,A,1,1,D
+ITA,2014-03-27,19:45,Inter,Udinese Calcio,0,0,D,0,0,D
+ITA,2014-03-29,17:00,Bologna FC,Atalanta,0,2,A,0,2,A
+ITA,2014-03-29,19:45,AC Milan,Chievo Verona,3,0,H,2,0,H
+ITA,2014-03-30,11:30,Sassuolo Calcio,AS Roma,0,2,A,0,1,A
+ITA,2014-03-30,14:00,Torino FC,Cagliari Calcio,2,1,H,1,0,H
+ITA,2014-03-30,14:00,Sampdoria,ACF Fiorentina,0,0,D,0,0,D
+ITA,2014-03-30,14:00,Hellas Verona,Genoa CFC,3,0,H,1,0,H
+ITA,2014-03-30,14:00,Lazio Roma,Parma FC,3,2,H,1,1,D
+ITA,2014-03-30,19:45,SSC Napoli,Juventus,2,0,H,1,0,H
+ITA,2014-03-31,18:00,Udinese Calcio,Calcio Catania,1,0,H,0,0,D
+ITA,2014-03-31,20:00,AS Livorno,Inter,2,2,D,0,2,A
+ITA,2014-04-02,17:30,AS Roma,Parma FC,4,2,H,2,1,H
+ITA,2014-04-05,17:00,Chievo Verona,Hellas Verona,0,1,A,0,0,D
+ITA,2014-04-05,19:45,Inter,Bologna FC,2,2,D,1,1,D
+ITA,2014-04-06,11:30,Lazio Roma,Sampdoria,2,0,H,1,0,H
+ITA,2014-04-06,14:00,Cagliari Calcio,AS Roma,1,3,A,0,1,A
+ITA,2014-04-06,14:00,Atalanta,Sassuolo Calcio,0,2,A,0,1,A
+ITA,2014-04-06,14:00,Calcio Catania,Torino FC,1,2,A,1,0,H
+ITA,2014-04-06,14:00,ACF Fiorentina,Udinese Calcio,2,1,H,1,0,H
+ITA,2014-04-06,19:45,Parma FC,SSC Napoli,1,0,H,0,0,D
+ITA,2014-04-07,18:00,Juventus,AS Livorno,2,0,H,2,0,H
+ITA,2014-04-07,20:00,Genoa CFC,AC Milan,1,2,A,0,1,A
+ITA,2014-04-12,17:00,Sassuolo Calcio,Cagliari Calcio,1,1,D,1,0,H
+ITA,2014-04-12,19:45,AS Roma,Atalanta,3,1,H,2,0,H
+ITA,2014-04-13,11:30,Bologna FC,Parma FC,1,1,D,1,0,H
+ITA,2014-04-13,14:00,AS Livorno,Chievo Verona,2,4,A,2,3,A
+ITA,2014-04-13,14:00,Hellas Verona,ACF Fiorentina,3,5,A,1,2,A
+ITA,2014-04-13,14:00,Torino FC,Genoa CFC,2,1,H,0,0,D
+ITA,2014-04-13,14:00,Sampdoria,Inter,0,4,A,0,1,A
+ITA,2014-04-13,14:00,SSC Napoli,Lazio Roma,4,2,H,1,1,D
+ITA,2014-04-13,19:45,AC Milan,Calcio Catania,1,0,H,1,0,H
+ITA,2014-04-14,19:45,Udinese Calcio,Juventus,0,2,A,0,2,A
+ITA,2014-04-19,14:00,Genoa CFC,Cagliari Calcio,1,2,A,1,1,D
+ITA,2014-04-19,14:00,Atalanta,Hellas Verona,1,2,A,0,0,D
+ITA,2014-04-19,14:00,Parma FC,Inter,0,2,A,0,0,D
+ITA,2014-04-19,14:00,AC Milan,AS Livorno,3,0,H,1,0,H
+ITA,2014-04-19,14:00,Udinese Calcio,SSC Napoli,1,1,D,0,1,A
+ITA,2014-04-19,14:00,Calcio Catania,Sampdoria,2,1,H,1,0,H
+ITA,2014-04-19,14:00,Chievo Verona,Sassuolo Calcio,0,1,A,0,1,A
+ITA,2014-04-19,14:00,Lazio Roma,Torino FC,3,3,D,1,0,H
+ITA,2014-04-19,17:30,Juventus,Bologna FC,1,0,H,0,0,D
+ITA,2014-04-19,20:00,ACF Fiorentina,AS Roma,0,1,A,0,1,A
+ITA,2014-04-25,19:45,AS Roma,AC Milan,2,0,H,1,0,H
+ITA,2014-04-26,17:00,Bologna FC,ACF Fiorentina,0,3,A,0,2,A
+ITA,2014-04-26,19:45,Inter,SSC Napoli,0,0,D,0,0,D
+ITA,2014-04-27,11:30,Hellas Verona,Calcio Catania,4,0,H,3,0,H
+ITA,2014-04-27,14:00,Sampdoria,Chievo Verona,2,1,H,0,0,D
+ITA,2014-04-27,14:00,AS Livorno,Lazio Roma,0,2,A,0,1,A
+ITA,2014-04-27,14:00,Cagliari Calcio,Parma FC,1,0,H,1,0,H
+ITA,2014-04-27,14:00,Torino FC,Udinese Calcio,2,0,H,1,0,H
+ITA,2014-04-27,19:45,Atalanta,Genoa CFC,1,1,D,0,1,A
+ITA,2014-04-28,19:45,Sassuolo Calcio,Juventus,1,3,A,1,1,D
+ITA,2014-05-04,14:00,Genoa CFC,Bologna FC,0,0,D,0,0,D
+ITA,2014-05-04,14:00,Udinese Calcio,AS Livorno,5,3,H,5,2,H
+ITA,2014-05-04,14:00,Calcio Catania,AS Roma,4,1,H,2,1,H
+ITA,2014-05-04,14:00,Parma FC,Sampdoria,2,0,H,1,0,H
+ITA,2014-05-04,14:00,Chievo Verona,Torino FC,0,1,A,0,0,D
+ITA,2014-05-04,19:45,AC Milan,Inter,1,0,H,0,0,D
+ITA,2014-05-05,18:00,Lazio Roma,Hellas Verona,3,3,D,1,1,D
+ITA,2014-05-05,20:00,Juventus,Atalanta,1,0,H,0,0,D
+ITA,2014-05-06,18:00,ACF Fiorentina,Sassuolo Calcio,3,4,A,0,3,A
+ITA,2014-05-06,20:00,SSC Napoli,Cagliari Calcio,3,0,H,2,0,H
+ITA,2014-05-10,17:00,Hellas Verona,Udinese Calcio,2,2,D,1,0,H
+ITA,2014-05-10,19:45,Inter,Lazio Roma,4,1,H,3,1,H
+ITA,2014-05-11,11:30,Atalanta,AC Milan,2,1,H,0,0,D
+ITA,2014-05-11,14:00,Bologna FC,Calcio Catania,1,2,A,0,1,A
+ITA,2014-05-11,14:00,Cagliari Calcio,Chievo Verona,0,1,A,0,0,D
+ITA,2014-05-11,14:00,AS Livorno,ACF Fiorentina,0,1,A,0,0,D
+ITA,2014-05-11,14:00,Sassuolo Calcio,Genoa CFC,4,2,H,1,1,D
+ITA,2014-05-11,14:00,Sampdoria,SSC Napoli,2,5,A,1,3,A
+ITA,2014-05-11,14:00,Torino FC,Parma FC,1,1,D,1,0,H
+ITA,2014-05-11,16:45,AS Roma,Juventus,0,1,A,0,0,D
+ITA,2014-05-17,19:45,Udinese Calcio,Sampdoria,3,3,D,2,1,H
+ITA,2014-05-18,14:00,Calcio Catania,Atalanta,2,1,H,0,0,D
+ITA,2014-05-18,14:00,Juventus,Cagliari Calcio,3,0,H,3,0,H
+ITA,2014-05-18,14:00,Genoa CFC,AS Roma,1,0,H,0,0,D
+ITA,2014-05-18,19:45,Lazio Roma,Bologna FC,1,0,H,0,0,D
+ITA,2014-05-18,19:45,SSC Napoli,Hellas Verona,5,1,H,3,0,H
+ITA,2014-05-18,19:45,Chievo Verona,Inter,2,1,H,0,1,A
+ITA,2014-05-18,19:45,Parma FC,AS Livorno,2,0,H,0,0,D
+ITA,2014-05-18,19:45,AC Milan,Sassuolo Calcio,2,1,H,2,0,H
+ITA,2014-05-18,19:45,ACF Fiorentina,Torino FC,2,2,D,0,0,D

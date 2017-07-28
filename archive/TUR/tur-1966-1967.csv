@@ -1,0 +1,273 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,1966-09-10,,MKE Ankaragücü,Gençlerbirliği,1,1,D,0,0,D
+TUR,1966-09-10,,Karşıyaka SK,Eskişehirspor,2,2,D,1,1,D
+TUR,1966-09-10,,Altay Izmir,Feriköy,0,1,A,0,1,A
+TUR,1966-09-10,,Fenerbahçe,Altınordu FSG,2,1,H,1,1,D
+TUR,1966-09-10,,Türk Telekom,Istanbulspor,2,0,H,1,0,H
+TUR,1966-09-11,,Vefa Istanbul,Ankara Demirspor,0,1,A,0,0,D
+TUR,1966-09-11,,Hacettepe,Galatasaray,1,1,D,1,1,D
+TUR,1966-09-11,,Beşiktaş,Izmirspor,4,0,H,2,0,H
+TUR,1966-09-17,,MKE Ankaragücü,Vefa Istanbul,4,1,H,3,0,H
+TUR,1966-09-17,,Feriköy,Türk Telekom,1,0,H,0,0,D
+TUR,1966-09-17,,Göztepe,Altınordu FSG,4,2,H,3,0,H
+TUR,1966-09-18,,Eskişehirspor,Altay Izmir,3,1,H,1,1,D
+TUR,1966-09-18,,Izmirspor,Fenerbahçe,0,0,D,0,0,D
+TUR,1966-09-18,,Istanbulspor,Hacettepe,1,1,D,0,0,D
+TUR,1966-09-18,,Ankara Demirspor,Beşiktaş,1,5,A,0,1,A
+TUR,1966-09-18,,Galatasaray,Gençlerbirliği,3,3,D,1,0,H
+TUR,1966-09-24,,Beşiktaş,MKE Ankaragücü,1,1,D,1,0,H
+TUR,1966-09-24,,Gençlerbirliği,Istanbulspor,0,0,D,0,0,D
+TUR,1966-09-25,,Altay Izmir,Karşıyaka SK,0,0,D,0,0,D
+TUR,1966-09-25,,Galatasaray,Vefa Istanbul,3,2,H,1,1,D
+TUR,1966-09-25,,Türk Telekom,Eskişehirspor,0,0,D,0,0,D
+TUR,1966-09-25,,Hacettepe,Feriköy,0,0,D,0,0,D
+TUR,1966-09-25,,Fenerbahçe,Ankara Demirspor,2,0,H,0,0,D
+TUR,1966-09-25,,Izmirspor,Göztepe,1,2,A,0,0,D
+TUR,1966-10-08,,Istanbulspor,Vefa Istanbul,2,0,H,0,0,D
+TUR,1966-10-08,,Feriköy,Gençlerbirliği,2,1,H,1,0,H
+TUR,1966-10-08,,Ankara Demirspor,Göztepe,0,3,A,0,1,A
+TUR,1966-10-09,,MKE Ankaragücü,Fenerbahçe,0,1,A,0,0,D
+TUR,1966-10-09,,Eskişehirspor,Hacettepe,1,0,H,0,0,D
+TUR,1966-10-09,,Karşıyaka SK,Türk Telekom,0,2,A,0,1,A
+TUR,1966-10-09,,Izmirspor,Altınordu FSG,0,2,A,0,1,A
+TUR,1966-10-09,,Beşiktaş,Galatasaray,2,2,D,0,2,A
+TUR,1966-10-22,,Altınordu FSG,MKE Ankaragücü,1,1,D,1,1,D
+TUR,1966-10-22,,Feriköy,Beşiktaş,1,1,D,1,0,H
+TUR,1966-10-22,,Izmirspor,Ankara Demirspor,1,1,D,0,0,D
+TUR,1966-10-23,,Gençlerbirliği,Karşıyaka SK,1,0,H,1,0,H
+TUR,1966-10-23,,Hacettepe,Altay Izmir,0,0,D,0,0,D
+TUR,1966-10-23,,Vefa Istanbul,Eskişehirspor,0,0,D,0,0,D
+TUR,1966-10-23,,Göztepe,Galatasaray,2,1,H,2,1,H
+TUR,1966-10-23,,Fenerbahçe,Istanbulspor,1,0,H,1,0,H
+TUR,1966-10-29,,Fenerbahçe,Feriköy,2,1,H,0,1,A
+TUR,1966-10-30,,Karşıyaka SK,Vefa Istanbul,0,1,A,0,1,A
+TUR,1966-10-30,,Eskişehirspor,Beşiktaş,0,6,A,0,2,A
+TUR,1966-10-30,,Hacettepe,Türk Telekom,1,0,H,0,0,D
+TUR,1966-10-30,,Altay Izmir,Gençlerbirliği,0,0,D,0,0,D
+TUR,1966-10-30,,Galatasaray,Altınordu FSG,3,1,H,1,1,D
+TUR,1966-10-30,,MKE Ankaragücü,Izmirspor,0,0,D,0,0,D
+TUR,1966-10-30,,Istanbulspor,Göztepe,0,2,A,0,1,A
+TUR,1966-11-05,,Göztepe,Feriköy,1,1,D,1,1,D
+TUR,1966-11-05,,Galatasaray,Izmirspor,1,1,D,1,1,D
+TUR,1966-11-05,,Altınordu FSG,Istanbulspor,2,1,H,2,0,H
+TUR,1966-11-06,,Vefa Istanbul,Altay Izmir,0,1,A,0,0,D
+TUR,1966-11-06,,Karşıyaka SK,Beşiktaş,0,1,A,0,1,A
+TUR,1966-11-06,,Gençlerbirliği,Türk Telekom,2,0,H,0,0,D
+TUR,1966-11-06,,Fenerbahçe,Eskişehirspor,3,1,H,1,0,H
+TUR,1966-11-06,,MKE Ankaragücü,Ankara Demirspor,1,0,H,0,0,D
+TUR,1966-11-12,,Feriköy,Vefa Istanbul,0,0,D,0,0,D
+TUR,1966-11-12,,Beşiktaş,Istanbulspor,1,0,H,0,0,D
+TUR,1966-11-13,,Hacettepe,Karşıyaka SK,1,0,H,1,0,H
+TUR,1966-11-13,,Altay Izmir,Türk Telekom,1,1,D,1,1,D
+TUR,1966-11-13,,Eskişehirspor,Gençlerbirliği,1,0,H,1,0,H
+TUR,1966-11-13,,Altınordu FSG,Ankara Demirspor,1,1,D,0,0,D
+TUR,1966-11-13,,Fenerbahçe,Galatasaray,0,2,A,0,2,A
+TUR,1966-11-13,,MKE Ankaragücü,Göztepe,0,3,A,0,1,A
+TUR,1966-11-19,,Beşiktaş,Altay Izmir,0,0,D,0,0,D
+TUR,1966-11-19,,Türk Telekom,Vefa Istanbul,1,0,H,0,0,D
+TUR,1966-11-19,,Gençlerbirliği,Hacettepe,0,1,A,0,0,D
+TUR,1966-11-19,,Göztepe,Eskişehirspor,2,2,D,1,0,H
+TUR,1966-11-20,,Karşıyaka SK,Fenerbahçe,0,0,D,0,0,D
+TUR,1966-11-20,,Feriköy,Altınordu FSG,2,4,A,2,1,H
+TUR,1966-11-20,,Ankara Demirspor,Galatasaray,1,1,D,0,1,A
+TUR,1966-11-20,,Istanbulspor,Izmirspor,2,0,H,1,0,H
+TUR,1966-11-26,,Galatasaray,MKE Ankaragücü,2,1,H,1,1,D
+TUR,1966-11-26,,Ankara Demirspor,Istanbulspor,0,1,A,0,0,D
+TUR,1966-11-27,,Fenerbahçe,Altay Izmir,4,1,H,2,0,H
+TUR,1966-11-27,,Vefa Istanbul,Hacettepe,2,0,H,1,0,H
+TUR,1966-11-27,,Türk Telekom,Beşiktaş,0,2,A,0,0,D
+TUR,1966-11-27,,Izmirspor,Feriköy,1,2,A,1,1,D
+TUR,1966-11-27,,Eskişehirspor,Altınordu FSG,1,0,H,1,0,H
+TUR,1966-11-27,,Karşıyaka SK,Göztepe,0,1,A,0,1,A
+TUR,1966-12-03,,Beşiktaş,Hacettepe,1,1,D,0,1,A
+TUR,1966-12-03,,Izmirspor,Eskişehirspor,0,0,D,0,0,D
+TUR,1966-12-04,,Gençlerbirliği,Vefa Istanbul,2,2,D,1,2,A
+TUR,1966-12-04,,Fenerbahçe,Türk Telekom,2,0,H,1,0,H
+TUR,1966-12-04,,Feriköy,Ankara Demirspor,2,1,H,2,1,H
+TUR,1966-12-04,,MKE Ankaragücü,Istanbulspor,0,1,A,0,1,A
+TUR,1966-12-04,,Altay Izmir,Göztepe,2,1,H,1,0,H
+TUR,1966-12-10,,Beşiktaş,Gençlerbirliği,2,0,H,1,0,H
+TUR,1966-12-10,,Türk Telekom,Göztepe,2,0,H,2,0,H
+TUR,1966-12-11,,Feriköy,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1966-12-11,,Izmirspor,Karşıyaka SK,1,0,H,0,0,D
+TUR,1966-12-11,,Hacettepe,Fenerbahçe,2,2,D,1,0,H
+TUR,1966-12-11,,Altay Izmir,Altınordu FSG,1,1,D,0,1,A
+TUR,1966-12-11,,Eskişehirspor,Ankara Demirspor,0,0,D,0,0,D
+TUR,1966-12-11,,Galatasaray,Istanbulspor,2,1,H,0,0,D
+TUR,1966-12-17,,Ankara Demirspor,Karşıyaka SK,2,1,H,1,0,H
+TUR,1966-12-17,,Izmirspor,Altay Izmir,0,0,D,0,0,D
+TUR,1966-12-17,,Beşiktaş,Vefa Istanbul,4,2,H,2,1,H
+TUR,1966-12-17,,MKE Ankaragücü,Eskişehirspor,4,1,H,1,0,H
+TUR,1966-12-18,,Gençlerbirliği,Fenerbahçe,1,2,A,0,1,A
+TUR,1966-12-18,,Göztepe,Hacettepe,2,1,H,1,1,D
+TUR,1966-12-18,,Altınordu FSG,Türk Telekom,2,1,H,1,1,D
+TUR,1966-12-24,,Istanbulspor,Feriköy,1,0,H,0,0,D
+TUR,1966-12-24,,Gençlerbirliği,Göztepe,2,2,D,1,0,H
+TUR,1966-12-25,,Karşıyaka SK,MKE Ankaragücü,1,1,D,0,0,D
+TUR,1966-12-25,,Fenerbahçe,Vefa Istanbul,1,0,H,1,0,H
+TUR,1966-12-25,,Hacettepe,Altınordu FSG,2,2,D,1,2,A
+TUR,1966-12-25,,Altay Izmir,Ankara Demirspor,4,0,H,2,0,H
+TUR,1966-12-25,,Eskişehirspor,Galatasaray,2,2,D,1,1,D
+TUR,1966-12-25,,Türk Telekom,Izmirspor,1,1,D,1,1,D
+TUR,1966-12-31,,Galatasaray,Karşıyaka SK,4,0,H,1,0,H
+TUR,1966-12-31,,Izmirspor,Hacettepe,1,0,H,0,0,D
+TUR,1966-12-31,,Istanbulspor,Eskişehirspor,1,0,H,0,0,D
+TUR,1967-01-01,,MKE Ankaragücü,Altay Izmir,1,0,H,0,0,D
+TUR,1967-01-01,,Beşiktaş,Fenerbahçe,0,1,A,0,0,D
+TUR,1967-01-01,,Göztepe,Vefa Istanbul,6,1,H,4,0,H
+TUR,1967-01-01,,Ankara Demirspor,Türk Telekom,2,1,H,1,1,D
+TUR,1967-01-01,,Altınordu FSG,Gençlerbirliği,0,1,A,0,1,A
+TUR,1967-01-04,,Feriköy,Galatasaray,0,2,A,0,1,A
+TUR,1967-01-07,,Vefa Istanbul,Altınordu FSG,0,0,D,0,0,D
+TUR,1967-01-07,,Gençlerbirliği,Izmirspor,1,0,H,1,0,H
+TUR,1967-01-07,,Karşıyaka SK,Istanbulspor,2,1,H,0,0,D
+TUR,1967-01-08,,MKE Ankaragücü,Türk Telekom,0,3,A,0,1,A
+TUR,1967-01-08,,Eskişehirspor,Feriköy,3,1,H,2,0,H
+TUR,1967-01-08,,Hacettepe,Ankara Demirspor,0,0,D,0,0,D
+TUR,1967-01-08,,Altay Izmir,Galatasaray,2,0,H,1,0,H
+TUR,1967-01-08,,Beşiktaş,Göztepe,0,0,D,0,0,D
+TUR,1967-01-14,,Izmirspor,Vefa Istanbul,1,1,D,1,0,H
+TUR,1967-01-14,,Galatasaray,Türk Telekom,2,1,H,0,0,D
+TUR,1967-01-14,,Altay Izmir,Istanbulspor,1,0,H,1,0,H
+TUR,1967-01-15,,Feriköy,Karşıyaka SK,0,0,D,0,0,D
+TUR,1967-01-15,,MKE Ankaragücü,Hacettepe,1,1,D,0,1,A
+TUR,1967-01-15,,Altınordu FSG,Beşiktaş,0,1,A,0,0,D
+TUR,1967-01-15,,Gençlerbirliği,Ankara Demirspor,1,1,D,1,1,D
+TUR,1967-01-15,,Fenerbahçe,Göztepe,0,1,A,0,1,A
+TUR,1967-01-22,,Altınordu FSG,Karşıyaka SK,1,2,A,0,1,A
+TUR,1967-02-04,,Hacettepe,MKE Ankaragücü,1,2,A,0,0,D
+TUR,1967-02-04,,Ankara Demirspor,Gençlerbirliği,1,1,D,0,0,D
+TUR,1967-02-04,,Karşıyaka SK,Feriköy,1,0,H,1,0,H
+TUR,1967-02-04,,Vefa Istanbul,Izmirspor,5,0,H,4,0,H
+TUR,1967-02-05,,Istanbulspor,Altay Izmir,1,0,H,0,0,D
+TUR,1967-02-05,,Göztepe,Fenerbahçe,1,0,H,0,0,D
+TUR,1967-02-05,,Beşiktaş,Altınordu FSG,4,1,H,2,1,H
+TUR,1967-02-05,,Türk Telekom,Galatasaray,0,0,D,0,0,D
+TUR,1967-02-11,,Feriköy,Altay Izmir,1,0,H,0,0,D
+TUR,1967-02-11,,Izmirspor,Beşiktaş,0,0,D,0,0,D
+TUR,1967-02-12,,Gençlerbirliği,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1967-02-12,,Eskişehirspor,Karşıyaka SK,1,0,H,1,0,H
+TUR,1967-02-12,,Altınordu FSG,Fenerbahçe,1,0,H,0,0,D
+TUR,1967-02-12,,Ankara Demirspor,Vefa Istanbul,1,2,A,0,2,A
+TUR,1967-02-12,,Galatasaray,Hacettepe,4,0,H,2,0,H
+TUR,1967-02-12,,Istanbulspor,Türk Telekom,1,1,D,1,1,D
+TUR,1967-02-18,,Türk Telekom,Feriköy,1,1,D,1,0,H
+TUR,1967-02-18,,Fenerbahçe,Izmirspor,2,0,H,1,0,H
+TUR,1967-02-18,,Hacettepe,Istanbulspor,1,1,D,0,0,D
+TUR,1967-02-19,,Vefa Istanbul,MKE Ankaragücü,2,1,H,1,0,H
+TUR,1967-02-19,,Altay Izmir,Eskişehirspor,1,0,H,1,0,H
+TUR,1967-02-19,,Beşiktaş,Ankara Demirspor,1,0,H,0,0,D
+TUR,1967-02-19,,Gençlerbirliği,Galatasaray,1,1,D,0,0,D
+TUR,1967-02-19,,Altınordu FSG,Göztepe,2,0,H,2,0,H
+TUR,1967-02-25,,Feriköy,Hacettepe,1,0,H,1,0,H
+TUR,1967-02-25,,MKE Ankaragücü,Beşiktaş,1,2,A,0,1,A
+TUR,1967-02-26,,Karşıyaka SK,Altay Izmir,1,0,H,1,0,H
+TUR,1967-02-26,,Ankara Demirspor,Fenerbahçe,0,0,D,0,0,D
+TUR,1967-02-26,,Eskişehirspor,Türk Telekom,1,0,H,0,0,D
+TUR,1967-02-26,,Istanbulspor,Gençlerbirliği,0,2,A,0,2,A
+TUR,1967-02-26,,Vefa Istanbul,Galatasaray,1,1,D,1,1,D
+TUR,1967-02-26,,Göztepe,Izmirspor,1,2,A,1,0,H
+TUR,1967-03-04,,Fenerbahçe,MKE Ankaragücü,1,0,H,1,0,H
+TUR,1967-03-04,,Hacettepe,Eskişehirspor,1,0,H,1,0,H
+TUR,1967-03-04,,Vefa Istanbul,Istanbulspor,1,0,H,0,0,D
+TUR,1967-03-05,,Türk Telekom,Karşıyaka SK,4,0,H,2,0,H
+TUR,1967-03-05,,Galatasaray,Beşiktaş,1,1,D,0,1,A
+TUR,1967-03-05,,Gençlerbirliği,Feriköy,0,0,D,0,0,D
+TUR,1967-03-05,,Göztepe,Ankara Demirspor,0,0,D,0,0,D
+TUR,1967-03-05,,Altınordu FSG,Izmirspor,0,1,A,0,0,D
+TUR,1967-03-11,,Galatasaray,Göztepe,0,0,D,0,0,D
+TUR,1967-03-12,,Istanbulspor,Fenerbahçe,0,0,D,0,0,D
+TUR,1967-03-12,,Eskişehirspor,Vefa Istanbul,3,1,H,1,0,H
+TUR,1967-03-12,,Altay Izmir,Hacettepe,2,1,H,1,1,D
+TUR,1967-03-12,,Karşıyaka SK,Gençlerbirliği,2,1,H,1,0,H
+TUR,1967-03-12,,Beşiktaş,Feriköy,0,0,D,0,0,D
+TUR,1967-03-12,,MKE Ankaragücü,Altınordu FSG,2,1,H,1,0,H
+TUR,1967-03-12,,Ankara Demirspor,Izmirspor,1,0,H,1,0,H
+TUR,1967-03-18,,Izmirspor,MKE Ankaragücü,1,2,A,0,0,D
+TUR,1967-03-18,,Beşiktaş,Eskişehirspor,1,0,H,0,0,D
+TUR,1967-03-18,,Göztepe,Istanbulspor,2,1,H,0,0,D
+TUR,1967-03-19,,Vefa Istanbul,Karşıyaka SK,0,0,D,0,0,D
+TUR,1967-03-19,,Gençlerbirliği,Altay Izmir,3,0,H,2,0,H
+TUR,1967-03-19,,Feriköy,Fenerbahçe,0,2,A,0,1,A
+TUR,1967-03-19,,Türk Telekom,Hacettepe,1,1,D,0,0,D
+TUR,1967-03-19,,Altınordu FSG,Galatasaray,1,1,D,0,1,A
+TUR,1967-03-25,,Altay Izmir,Vefa Istanbul,1,0,H,1,0,H
+TUR,1967-03-25,,Feriköy,Göztepe,2,1,H,0,0,D
+TUR,1967-03-26,,Ankara Demirspor,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1967-03-26,,Beşiktaş,Karşıyaka SK,1,0,H,1,0,H
+TUR,1967-03-26,,Eskişehirspor,Fenerbahçe,1,1,D,0,0,D
+TUR,1967-03-26,,Türk Telekom,Gençlerbirliği,2,1,H,1,0,H
+TUR,1967-03-26,,Istanbulspor,Altınordu FSG,4,1,H,1,0,H
+TUR,1967-03-26,,Izmirspor,Galatasaray,0,0,D,0,0,D
+TUR,1967-04-01,,Istanbulspor,Beşiktaş,0,0,D,0,0,D
+TUR,1967-04-01,,Gençlerbirliği,Eskişehirspor,4,0,H,1,0,H
+TUR,1967-04-01,,Vefa Istanbul,Feriköy,3,0,H,1,0,H
+TUR,1967-04-02,,Göztepe,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1967-04-02,,Türk Telekom,Altay Izmir,2,0,H,1,0,H
+TUR,1967-04-02,,Galatasaray,Fenerbahçe,1,3,A,1,2,A
+TUR,1967-04-02,,Karşıyaka SK,Hacettepe,0,0,D,0,0,D
+TUR,1967-04-02,,Ankara Demirspor,Altınordu FSG,2,0,H,1,0,H
+TUR,1967-04-08,,Fenerbahçe,Karşıyaka SK,1,0,H,0,0,D
+TUR,1967-04-08,,Altınordu FSG,Feriköy,2,1,H,0,1,A
+TUR,1967-04-08,,Izmirspor,Istanbulspor,2,0,H,0,0,D
+TUR,1967-04-09,,Altay Izmir,Beşiktaş,2,0,H,0,0,D
+TUR,1967-04-09,,Vefa Istanbul,Türk Telekom,0,0,D,0,0,D
+TUR,1967-04-09,,Hacettepe,Gençlerbirliği,2,1,H,0,1,A
+TUR,1967-04-09,,Galatasaray,Ankara Demirspor,2,2,D,1,1,D
+TUR,1967-04-09,,Eskişehirspor,Göztepe,2,1,H,2,0,H
+TUR,1967-04-15,,Göztepe,Karşıyaka SK,1,2,A,0,1,A
+TUR,1967-04-15,,Hacettepe,Vefa Istanbul,0,1,A,0,1,A
+TUR,1967-04-15,,Altınordu FSG,Eskişehirspor,5,0,H,3,0,H
+TUR,1967-04-15,,Feriköy,Izmirspor,3,1,H,0,1,A
+TUR,1967-04-16,,Altay Izmir,Fenerbahçe,2,1,H,1,1,D
+TUR,1967-04-16,,Beşiktaş,Türk Telekom,0,0,D,0,0,D
+TUR,1967-04-16,,Istanbulspor,Ankara Demirspor,0,0,D,0,0,D
+TUR,1967-04-16,,MKE Ankaragücü,Galatasaray,0,0,D,0,0,D
+TUR,1967-04-22,,Türk Telekom,Fenerbahçe,1,1,D,0,0,D
+TUR,1967-04-23,,Istanbulspor,MKE Ankaragücü,3,0,H,2,0,H
+TUR,1967-04-23,,Göztepe,Altay Izmir,0,0,D,0,0,D
+TUR,1967-04-23,,Vefa Istanbul,Gençlerbirliği,0,0,D,0,0,D
+TUR,1967-04-23,,Ankara Demirspor,Feriköy,4,1,H,3,1,H
+TUR,1967-04-23,,Karşıyaka SK,Altınordu FSG,1,1,D,1,1,D
+TUR,1967-04-23,,Eskişehirspor,Izmirspor,0,0,D,0,0,D
+TUR,1967-04-24,,Hacettepe,Beşiktaş,1,0,H,1,0,H
+TUR,1967-04-29,,Fenerbahçe,Hacettepe,1,1,D,1,0,H
+TUR,1967-04-29,,Göztepe,Türk Telekom,3,1,H,1,1,D
+TUR,1967-04-29,,Ankara Demirspor,Eskişehirspor,1,0,H,1,0,H
+TUR,1967-04-29,,MKE Ankaragücü,Feriköy,1,1,D,0,1,A
+TUR,1967-04-30,,Altınordu FSG,Altay Izmir,1,0,H,1,0,H
+TUR,1967-04-30,,Gençlerbirliği,Beşiktaş,0,0,D,0,0,D
+TUR,1967-04-30,,Istanbulspor,Galatasaray,0,2,A,0,1,A
+TUR,1967-04-30,,Karşıyaka SK,Izmirspor,0,0,D,0,0,D
+TUR,1967-05-06,,Eskişehirspor,MKE Ankaragücü,1,1,D,1,1,D
+TUR,1967-05-06,,Galatasaray,Feriköy,4,0,H,0,0,D
+TUR,1967-05-07,,Vefa Istanbul,Beşiktaş,0,1,A,0,0,D
+TUR,1967-05-07,,Fenerbahçe,Gençlerbirliği,1,0,H,0,0,D
+TUR,1967-05-07,,Türk Telekom,Altınordu FSG,2,1,H,0,1,A
+TUR,1967-05-07,,Karşıyaka SK,Ankara Demirspor,0,1,A,0,0,D
+TUR,1967-05-07,,Altay Izmir,Izmirspor,0,4,A,0,1,A
+TUR,1967-05-07,,Hacettepe,Göztepe,0,3,A,0,1,A
+TUR,1967-05-14,,Türk Telekom,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1967-05-14,,Ankara Demirspor,Hacettepe,0,1,A,0,0,D
+TUR,1967-05-20,,Vefa Istanbul,Fenerbahçe,2,0,H,1,0,H
+TUR,1967-05-20,,Altınordu FSG,Hacettepe,1,0,H,1,0,H
+TUR,1967-05-21,,MKE Ankaragücü,Karşıyaka SK,3,1,H,1,1,D
+TUR,1967-05-21,,Ankara Demirspor,Altay Izmir,0,0,D,0,0,D
+TUR,1967-05-21,,Izmirspor,Türk Telekom,1,1,D,0,0,D
+TUR,1967-05-21,,Göztepe,Gençlerbirliği,1,1,D,0,0,D
+TUR,1967-05-21,,Galatasaray,Eskişehirspor,2,2,D,1,1,D
+TUR,1967-05-21,,Feriköy,Istanbulspor,1,2,A,0,2,A
+TUR,1967-05-27,,Türk Telekom,Ankara Demirspor,3,3,D,1,2,A
+TUR,1967-05-28,,Altay Izmir,MKE Ankaragücü,5,0,H,1,0,H
+TUR,1967-05-28,,Gençlerbirliği,Altınordu FSG,1,1,D,0,0,D
+TUR,1967-05-28,,Hacettepe,Izmirspor,2,1,H,1,1,D
+TUR,1967-05-28,,Eskişehirspor,Istanbulspor,1,0,H,1,0,H
+TUR,1967-06-03,,Galatasaray,Altay Izmir,0,0,D,0,0,D
+TUR,1967-06-03,,Altınordu FSG,Vefa Istanbul,0,0,D,0,0,D
+TUR,1967-06-03,,Izmirspor,Gençlerbirliği,0,3,A,0,1,A
+TUR,1967-06-04,,Istanbulspor,Karşıyaka SK,0,0,D,0,0,D
+TUR,1967-06-04,,Göztepe,Beşiktaş,0,2,A,0,0,D
+TUR,1967-06-04,,Feriköy,Eskişehirspor,3,0,H,3,0,H
+TUR,1967-06-10,,Vefa Istanbul,Göztepe,1,1,D,1,1,D
+TUR,1967-06-11,,Karşıyaka SK,Galatasaray,2,3,A,2,1,H
+TUR,1967-06-25,,Fenerbahçe,Beşiktaş,0,0,D,0,0,D

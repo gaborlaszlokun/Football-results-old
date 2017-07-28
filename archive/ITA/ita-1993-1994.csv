@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,1993-08-29,,Genoa CFC,AS Roma,2,0,H,1,0,H
+ITA,1993-08-29,,Inter,AC Reggiana,2,1,H,1,1,D
+ITA,1993-08-29,,Juventus,US Cremonese,1,0,H,1,0,H
+ITA,1993-08-29,,Lazio Roma,US Foggia,0,0,D,0,0,D
+ITA,1993-08-29,,US Lecce,AC Milan,0,1,A,0,0,D
+ITA,1993-08-29,,SSC Napoli,Sampdoria,1,2,A,0,2,A
+ITA,1993-08-29,,Piacenza Calcio,Torino FC,0,3,A,0,1,A
+ITA,1993-08-29,,Udinese Calcio,Parma AC,0,1,A,0,1,A
+ITA,1993-08-29,,Atalanta,Cagliari Calcio,5,2,H,2,1,H
+ITA,1993-09-05,,US Cremonese,SSC Napoli,2,0,H,1,0,H
+ITA,1993-09-05,,Torino FC,Atalanta,2,1,H,2,0,H
+ITA,1993-09-05,,Sampdoria,Piacenza Calcio,2,1,H,2,1,H
+ITA,1993-09-05,,AS Roma,Juventus,2,1,H,1,0,H
+ITA,1993-09-05,,AC Reggiana,Lazio Roma,0,0,D,0,0,D
+ITA,1993-09-05,,Parma AC,US Lecce,1,0,H,1,0,H
+ITA,1993-09-05,,US Foggia,Inter,1,1,D,0,1,A
+ITA,1993-09-05,,Cagliari Calcio,Udinese Calcio,1,2,A,0,1,A
+ITA,1993-09-05,,AC Milan,Genoa CFC,1,0,H,1,0,H
+ITA,1993-09-08,,US Lecce,US Foggia,0,2,A,0,1,A
+ITA,1993-09-08,,Genoa CFC,Cagliari Calcio,1,1,D,1,1,D
+ITA,1993-09-08,,Udinese Calcio,AS Roma,0,0,D,0,0,D
+ITA,1993-09-08,,Piacenza Calcio,AC Milan,0,0,D,0,0,D
+ITA,1993-09-08,,SSC Napoli,Torino FC,0,0,D,0,0,D
+ITA,1993-09-08,,Atalanta,AC Reggiana,2,1,H,1,0,H
+ITA,1993-09-08,,Inter,US Cremonese,2,1,H,1,0,H
+ITA,1993-09-08,,Juventus,Sampdoria,3,1,H,1,1,D
+ITA,1993-09-08,,Lazio Roma,Parma AC,2,1,H,1,1,D
+ITA,1993-09-12,,Parma AC,Genoa CFC,2,1,H,1,1,D
+ITA,1993-09-12,,Torino FC,Udinese Calcio,1,0,H,0,0,D
+ITA,1993-09-12,,Sampdoria,US Lecce,2,1,H,1,1,D
+ITA,1993-09-12,,AC Reggiana,Piacenza Calcio,1,1,D,0,1,A
+ITA,1993-09-12,,AC Milan,Atalanta,2,0,H,1,0,H
+ITA,1993-09-12,,US Foggia,Juventus,1,1,D,0,0,D
+ITA,1993-09-12,,US Cremonese,Lazio Roma,1,0,H,1,0,H
+ITA,1993-09-12,,Cagliari Calcio,Inter,1,0,H,1,0,H
+ITA,1993-09-12,,AS Roma,SSC Napoli,2,3,A,1,1,D
+ITA,1993-09-19,,US Foggia,Cagliari Calcio,0,1,A,0,0,D
+ITA,1993-09-19,,AC Milan,AS Roma,2,0,H,1,0,H
+ITA,1993-09-19,,Udinese Calcio,Sampdoria,0,2,A,0,0,D
+ITA,1993-09-19,,Piacenza Calcio,US Lecce,2,1,H,0,1,A
+ITA,1993-09-19,,Parma AC,Torino FC,3,0,H,0,0,D
+ITA,1993-09-19,,Atalanta,US Cremonese,0,0,D,0,0,D
+ITA,1993-09-19,,Genoa CFC,SSC Napoli,0,0,D,0,0,D
+ITA,1993-09-19,,Juventus,AC Reggiana,4,0,H,0,0,D
+ITA,1993-09-19,,Lazio Roma,Inter,0,0,D,0,0,D
+ITA,1993-09-26,,US Lecce,Juventus,1,1,D,1,0,H
+ITA,1993-09-26,,Torino FC,Genoa CFC,2,0,H,0,0,D
+ITA,1993-09-26,,Sampdoria,Parma AC,1,1,D,1,1,D
+ITA,1993-09-26,,AS Roma,Atalanta,2,1,H,0,1,A
+ITA,1993-09-26,,SSC Napoli,Udinese Calcio,2,1,H,1,1,D
+ITA,1993-09-26,,Inter,Piacenza Calcio,2,0,H,1,0,H
+ITA,1993-09-26,,US Cremonese,AC Milan,0,2,A,0,2,A
+ITA,1993-09-26,,Cagliari Calcio,Lazio Roma,4,1,H,2,1,H
+ITA,1993-09-26,,AC Reggiana,US Foggia,0,0,D,0,0,D
+ITA,1993-10-03,,AC Milan,Lazio Roma,0,0,D,0,0,D
+ITA,1993-10-03,,AS Roma,US Cremonese,1,2,A,0,1,A
+ITA,1993-10-03,,Piacenza Calcio,Cagliari Calcio,1,1,D,0,0,D
+ITA,1993-10-03,,Udinese Calcio,US Lecce,2,1,H,0,0,D
+ITA,1993-10-03,,Juventus,Torino FC,3,2,H,2,2,D
+ITA,1993-10-03,,Genoa CFC,AC Reggiana,0,0,D,0,0,D
+ITA,1993-10-03,,Atalanta,Sampdoria,1,4,A,0,2,A
+ITA,1993-10-03,,Parma AC,US Foggia,3,0,H,1,0,H
+ITA,1993-10-03,,SSC Napoli,Inter,0,0,D,0,0,D
+ITA,1993-10-17,,Inter,Torino FC,0,0,D,0,0,D
+ITA,1993-10-17,,Sampdoria,AS Roma,0,1,A,0,1,A
+ITA,1993-10-17,,AC Reggiana,Udinese Calcio,1,1,D,1,1,D
+ITA,1993-10-17,,US Lecce,Genoa CFC,0,0,D,0,0,D
+ITA,1993-10-17,,Juventus,Atalanta,2,1,H,0,0,D
+ITA,1993-10-17,,US Foggia,AC Milan,1,1,D,0,0,D
+ITA,1993-10-17,,US Cremonese,Parma AC,0,0,D,0,0,D
+ITA,1993-10-17,,Cagliari Calcio,SSC Napoli,1,2,A,1,2,A
+ITA,1993-10-17,,Lazio Roma,Piacenza Calcio,1,0,H,0,0,D
+ITA,1993-10-24,,AS Roma,Lazio Roma,1,1,D,0,0,D
+ITA,1993-10-24,,SSC Napoli,US Lecce,3,1,H,1,1,D
+ITA,1993-10-24,,Torino FC,Sampdoria,2,3,A,1,0,H
+ITA,1993-10-24,,Parma AC,AC Reggiana,1,0,H,1,0,H
+ITA,1993-10-24,,Genoa CFC,Piacenza Calcio,0,1,A,0,0,D
+ITA,1993-10-24,,Atalanta,US Foggia,1,1,D,1,1,D
+ITA,1993-10-24,,US Cremonese,Cagliari Calcio,3,1,H,2,0,H
+ITA,1993-10-24,,Udinese Calcio,Inter,0,1,A,0,1,A
+ITA,1993-10-24,,AC Milan,Juventus,1,1,D,0,0,D
+ITA,1993-10-31,,Juventus,Genoa CFC,4,0,H,1,0,H
+ITA,1993-10-31,,Sampdoria,AC Milan,3,2,H,0,2,A
+ITA,1993-10-31,,AC Reggiana,AS Roma,0,0,D,0,0,D
+ITA,1993-10-31,,Piacenza Calcio,SSC Napoli,1,1,D,1,1,D
+ITA,1993-10-31,,Lazio Roma,Udinese Calcio,2,1,H,2,0,H
+ITA,1993-10-31,,Inter,Parma AC,3,2,H,2,1,H
+ITA,1993-10-31,,US Foggia,US Cremonese,1,1,D,0,0,D
+ITA,1993-10-31,,Cagliari Calcio,Torino FC,2,1,H,1,1,D
+ITA,1993-10-31,,US Lecce,Atalanta,5,1,H,0,1,A
+ITA,1993-11-07,,AS Roma,US Foggia,0,0,D,0,0,D
+ITA,1993-11-07,,Torino FC,AC Reggiana,2,0,H,2,0,H
+ITA,1993-11-07,,Udinese Calcio,Genoa CFC,0,4,A,0,3,A
+ITA,1993-11-07,,Sampdoria,Cagliari Calcio,1,2,A,1,0,H
+ITA,1993-11-07,,SSC Napoli,Lazio Roma,1,2,A,0,0,D
+ITA,1993-11-07,,Inter,AC Milan,1,2,A,0,1,A
+ITA,1993-11-07,,Atalanta,Piacenza Calcio,0,0,D,0,0,D
+ITA,1993-11-07,,US Cremonese,US Lecce,2,1,H,1,1,D
+ITA,1993-11-07,,Parma AC,Juventus,2,0,H,0,0,D
+ITA,1993-11-21,,Piacenza Calcio,Udinese Calcio,0,0,D,0,0,D
+ITA,1993-11-21,,Atalanta,Parma AC,0,2,A,0,0,D
+ITA,1993-11-21,,AC Reggiana,US Cremonese,2,0,H,0,0,D
+ITA,1993-11-21,,AC Milan,SSC Napoli,2,1,H,0,1,A
+ITA,1993-11-21,,US Lecce,AS Roma,0,2,A,0,0,D
+ITA,1993-11-21,,Juventus,Cagliari Calcio,1,1,D,0,0,D
+ITA,1993-11-21,,Genoa CFC,Inter,1,0,H,0,0,D
+ITA,1993-11-21,,US Foggia,Sampdoria,1,2,A,1,1,D
+ITA,1993-11-21,,Lazio Roma,Torino FC,1,2,A,1,0,H
+ITA,1993-11-28,,SSC Napoli,AC Reggiana,5,0,H,2,0,H
+ITA,1993-11-28,,Udinese Calcio,Atalanta,0,0,D,0,0,D
+ITA,1993-11-28,,Torino FC,US Lecce,3,0,H,1,0,H
+ITA,1993-11-28,,Sampdoria,US Cremonese,3,1,H,1,1,D
+ITA,1993-11-28,,Cagliari Calcio,AS Roma,1,1,D,1,0,H
+ITA,1993-11-28,,Parma AC,AC Milan,0,0,D,0,0,D
+ITA,1993-11-28,,Lazio Roma,Genoa CFC,4,0,H,1,0,H
+ITA,1993-11-28,,Inter,Juventus,2,2,D,1,0,H
+ITA,1993-11-28,,Piacenza Calcio,US Foggia,5,4,H,3,2,H
+ITA,1993-12-05,,US Lecce,Inter,1,3,A,0,1,A
+ITA,1993-12-05,,AC Reggiana,Cagliari Calcio,3,1,H,2,0,H
+ITA,1993-12-05,,AS Roma,Parma AC,2,0,H,1,0,H
+ITA,1993-12-05,,AC Milan,Torino FC,1,0,H,1,0,H
+ITA,1993-12-05,,Genoa CFC,Sampdoria,1,1,D,1,1,D
+ITA,1993-12-05,,US Foggia,Udinese Calcio,2,2,D,1,1,D
+ITA,1993-12-05,,Atalanta,Lazio Roma,1,1,D,0,1,A
+ITA,1993-12-05,,US Cremonese,Piacenza Calcio,4,0,H,2,0,H
+ITA,1993-12-05,,Juventus,SSC Napoli,1,0,H,1,0,H
+ITA,1993-12-12,,Lazio Roma,Juventus,3,1,H,0,0,D
+ITA,1993-12-12,,Udinese Calcio,AC Milan,0,0,D,0,0,D
+ITA,1993-12-12,,Torino FC,US Cremonese,1,1,D,0,0,D
+ITA,1993-12-12,,AC Reggiana,US Lecce,1,0,H,0,0,D
+ITA,1993-12-12,,SSC Napoli,Atalanta,4,0,H,0,0,D
+ITA,1993-12-12,,Inter,Sampdoria,3,0,H,2,0,H
+ITA,1993-12-12,,Genoa CFC,US Foggia,1,4,A,1,1,D
+ITA,1993-12-12,,Cagliari Calcio,Parma AC,0,4,A,0,1,A
+ITA,1993-12-12,,Piacenza Calcio,AS Roma,1,0,H,0,0,D
+ITA,1993-12-19,,Juventus,Piacenza Calcio,2,0,H,0,0,D
+ITA,1993-12-19,,AS Roma,Inter,1,1,D,1,0,H
+ITA,1993-12-19,,Parma AC,SSC Napoli,1,3,A,1,1,D
+ITA,1993-12-19,,Sampdoria,AC Reggiana,1,0,H,0,0,D
+ITA,1993-12-19,,US Foggia,Torino FC,1,0,H,1,0,H
+ITA,1993-12-19,,US Cremonese,Udinese Calcio,1,1,D,1,1,D
+ITA,1993-12-19,,Atalanta,Genoa CFC,2,1,H,1,1,D
+ITA,1993-12-19,,AC Milan,Cagliari Calcio,2,1,H,2,1,H
+ITA,1993-12-19,,US Lecce,Lazio Roma,1,2,A,1,1,D
+ITA,1994-01-02,,Lazio Roma,Sampdoria,1,1,D,1,1,D
+ITA,1994-01-02,,Udinese Calcio,Juventus,0,3,A,0,1,A
+ITA,1994-01-02,,Torino FC,AS Roma,1,1,D,0,0,D
+ITA,1994-01-02,,AC Reggiana,AC Milan,0,1,A,0,1,A
+ITA,1994-01-02,,SSC Napoli,US Foggia,1,1,D,0,1,A
+ITA,1994-01-02,,Inter,Atalanta,1,2,A,0,1,A
+ITA,1994-01-02,,Genoa CFC,US Cremonese,1,0,H,1,0,H
+ITA,1994-01-02,,Cagliari Calcio,US Lecce,2,1,H,1,1,D
+ITA,1994-01-02,,Piacenza Calcio,Parma AC,1,1,D,1,1,D
+ITA,1994-01-09,,AC Milan,US Lecce,0,0,D,0,0,D
+ITA,1994-01-09,,AS Roma,Genoa CFC,1,1,D,0,1,A
+ITA,1994-01-09,,Parma AC,Udinese Calcio,0,1,A,0,1,A
+ITA,1994-01-09,,Torino FC,Piacenza Calcio,1,0,H,0,0,D
+ITA,1994-01-09,,Sampdoria,SSC Napoli,4,1,H,1,0,H
+ITA,1994-01-09,,Cagliari Calcio,Atalanta,1,1,D,0,0,D
+ITA,1994-01-09,,AC Reggiana,Inter,1,0,H,0,0,D
+ITA,1994-01-09,,US Cremonese,Juventus,1,1,D,1,1,D
+ITA,1994-01-09,,US Foggia,Lazio Roma,4,1,H,2,0,H
+ITA,1994-01-16,,Genoa CFC,AC Milan,0,0,D,0,0,D
+ITA,1994-01-16,,Piacenza Calcio,Sampdoria,2,1,H,1,0,H
+ITA,1994-01-16,,Juventus,AS Roma,0,0,D,0,0,D
+ITA,1994-01-16,,US Lecce,Parma AC,1,1,D,1,0,H
+ITA,1994-01-16,,Atalanta,Torino FC,2,2,D,1,1,D
+ITA,1994-01-16,,Inter,US Foggia,3,1,H,2,0,H
+ITA,1994-01-16,,SSC Napoli,US Cremonese,2,1,H,2,0,H
+ITA,1994-01-16,,Udinese Calcio,Cagliari Calcio,1,1,D,1,0,H
+ITA,1994-01-16,,Lazio Roma,AC Reggiana,2,0,H,1,0,H
+ITA,1994-01-23,,Parma AC,Lazio Roma,2,0,H,1,0,H
+ITA,1994-01-23,,AC Milan,Piacenza Calcio,2,0,H,0,0,D
+ITA,1994-01-23,,Torino FC,SSC Napoli,1,1,D,0,0,D
+ITA,1994-01-23,,US Foggia,US Lecce,5,0,H,1,0,H
+ITA,1994-01-23,,Sampdoria,Juventus,1,1,D,1,0,H
+ITA,1994-01-23,,US Cremonese,Inter,1,4,A,0,3,A
+ITA,1994-01-23,,AC Reggiana,Atalanta,3,0,H,2,0,H
+ITA,1994-01-23,,AS Roma,Udinese Calcio,0,2,A,0,2,A
+ITA,1994-01-23,,Cagliari Calcio,Genoa CFC,0,0,D,0,0,D
+ITA,1994-01-30,,Piacenza Calcio,AC Reggiana,3,2,H,0,1,A
+ITA,1994-01-30,,Udinese Calcio,Torino FC,1,1,D,0,0,D
+ITA,1994-01-30,,US Lecce,Sampdoria,0,3,A,0,0,D
+ITA,1994-01-30,,SSC Napoli,AS Roma,1,1,D,0,0,D
+ITA,1994-01-30,,Atalanta,AC Milan,0,1,A,0,0,D
+ITA,1994-01-30,,Juventus,US Foggia,2,0,H,0,0,D
+ITA,1994-01-30,,Inter,Cagliari Calcio,3,3,D,1,2,A
+ITA,1994-01-30,,Lazio Roma,US Cremonese,4,2,H,2,1,H
+ITA,1994-01-30,,Genoa CFC,Parma AC,0,4,A,0,2,A
+ITA,1994-02-06,,AC Reggiana,Juventus,0,0,D,0,0,D
+ITA,1994-02-06,,Sampdoria,Udinese Calcio,6,2,H,3,0,H
+ITA,1994-02-06,,US Lecce,Piacenza Calcio,1,1,D,0,0,D
+ITA,1994-02-06,,Torino FC,Parma AC,1,2,A,0,1,A
+ITA,1994-02-06,,Inter,Lazio Roma,1,2,A,1,0,H
+ITA,1994-02-06,,SSC Napoli,Genoa CFC,1,1,D,0,1,A
+ITA,1994-02-06,,Cagliari Calcio,US Foggia,1,1,D,1,1,D
+ITA,1994-02-06,,US Cremonese,Atalanta,2,0,H,0,0,D
+ITA,1994-02-06,,AS Roma,AC Milan,0,2,A,0,1,A
+ITA,1994-02-13,,US Foggia,AC Reggiana,1,0,H,1,0,H
+ITA,1994-02-13,,Genoa CFC,Torino FC,1,1,D,1,0,H
+ITA,1994-02-13,,Parma AC,Sampdoria,2,1,H,0,1,A
+ITA,1994-02-13,,Atalanta,AS Roma,1,1,D,0,1,A
+ITA,1994-02-13,,Juventus,US Lecce,5,1,H,3,0,H
+ITA,1994-02-13,,Piacenza Calcio,Inter,2,1,H,1,0,H
+ITA,1994-02-13,,AC Milan,US Cremonese,1,0,H,0,0,D
+ITA,1994-02-13,,Lazio Roma,Cagliari Calcio,4,0,H,1,0,H
+ITA,1994-02-13,,Udinese Calcio,SSC Napoli,3,1,H,0,0,D
+ITA,1994-02-20,,Lazio Roma,AC Milan,0,1,A,0,1,A
+ITA,1994-02-20,,US Lecce,Udinese Calcio,1,0,H,0,0,D
+ITA,1994-02-20,,US Cremonese,AS Roma,1,1,D,1,1,D
+ITA,1994-02-20,,Cagliari Calcio,Piacenza Calcio,2,0,H,0,0,D
+ITA,1994-02-20,,Inter,SSC Napoli,0,0,D,0,0,D
+ITA,1994-02-20,,Torino FC,Juventus,1,1,D,0,0,D
+ITA,1994-02-20,,AC Reggiana,Genoa CFC,1,1,D,0,0,D
+ITA,1994-02-20,,Sampdoria,Atalanta,3,1,H,2,0,H
+ITA,1994-02-20,,US Foggia,Parma AC,3,2,H,1,2,A
+ITA,1994-02-27,,Torino FC,Inter,2,0,H,1,0,H
+ITA,1994-02-27,,Udinese Calcio,AC Reggiana,2,1,H,0,0,D
+ITA,1994-02-27,,Genoa CFC,US Lecce,2,0,H,2,0,H
+ITA,1994-02-27,,AS Roma,Sampdoria,0,1,A,0,1,A
+ITA,1994-02-27,,AC Milan,US Foggia,2,1,H,0,0,D
+ITA,1994-02-27,,Parma AC,US Cremonese,2,1,H,0,0,D
+ITA,1994-02-27,,SSC Napoli,Cagliari Calcio,1,2,A,0,1,A
+ITA,1994-02-27,,Piacenza Calcio,Lazio Roma,1,2,A,0,0,D
+ITA,1994-02-27,,Atalanta,Juventus,1,3,A,1,0,H
+ITA,1994-03-06,,Juventus,AC Milan,0,1,A,0,0,D
+ITA,1994-03-06,,Inter,Udinese Calcio,1,0,H,0,0,D
+ITA,1994-03-06,,Sampdoria,Torino FC,1,0,H,1,0,H
+ITA,1994-03-06,,Lazio Roma,AS Roma,1,0,H,1,0,H
+ITA,1994-03-06,,US Lecce,SSC Napoli,0,1,A,0,0,D
+ITA,1994-03-06,,Piacenza Calcio,Genoa CFC,1,1,D,1,1,D
+ITA,1994-03-06,,Cagliari Calcio,US Cremonese,0,0,D,0,0,D
+ITA,1994-03-06,,US Foggia,Atalanta,1,1,D,1,1,D
+ITA,1994-03-06,,AC Reggiana,Parma AC,2,0,H,0,0,D
+ITA,1994-03-13,,Atalanta,US Lecce,3,4,A,1,2,A
+ITA,1994-03-13,,AS Roma,AC Reggiana,0,0,D,0,0,D
+ITA,1994-03-13,,AC Milan,Sampdoria,1,0,H,1,0,H
+ITA,1994-03-13,,SSC Napoli,Piacenza Calcio,0,0,D,0,0,D
+ITA,1994-03-13,,Genoa CFC,Juventus,1,1,D,0,1,A
+ITA,1994-03-13,,Parma AC,Inter,4,1,H,1,0,H
+ITA,1994-03-13,,Torino FC,Cagliari Calcio,2,1,H,0,0,D
+ITA,1994-03-13,,US Cremonese,US Foggia,2,0,H,0,0,D
+ITA,1994-03-13,,Udinese Calcio,Lazio Roma,2,2,D,2,2,D
+ITA,1994-03-20,,Lazio Roma,SSC Napoli,3,0,H,1,0,H
+ITA,1994-03-20,,Genoa CFC,Udinese Calcio,3,0,H,1,0,H
+ITA,1994-03-20,,AC Reggiana,Torino FC,1,0,H,1,0,H
+ITA,1994-03-20,,Cagliari Calcio,Sampdoria,0,0,D,0,0,D
+ITA,1994-03-20,,Juventus,Parma AC,4,0,H,1,0,H
+ITA,1994-03-20,,AC Milan,Inter,2,1,H,0,0,D
+ITA,1994-03-20,,US Lecce,US Cremonese,2,4,A,1,1,D
+ITA,1994-03-20,,Piacenza Calcio,Atalanta,4,0,H,2,0,H
+ITA,1994-03-20,,US Foggia,AS Roma,1,1,D,1,0,H
+ITA,1994-03-27,,Cagliari Calcio,Juventus,0,1,A,0,0,D
+ITA,1994-03-27,,US Cremonese,AC Reggiana,1,1,D,0,1,A
+ITA,1994-03-27,,Udinese Calcio,Piacenza Calcio,2,2,D,1,1,D
+ITA,1994-03-27,,SSC Napoli,AC Milan,1,0,H,0,0,D
+ITA,1994-03-27,,Inter,Genoa CFC,1,3,A,1,2,A
+ITA,1994-03-27,,Sampdoria,US Foggia,6,0,H,2,0,H
+ITA,1994-03-27,,Parma AC,Atalanta,2,1,H,1,1,D
+ITA,1994-03-27,,AS Roma,US Lecce,3,0,H,2,0,H
+ITA,1994-03-27,,Torino FC,Lazio Roma,1,1,D,0,0,D
+ITA,1994-04-04,,AC Reggiana,SSC Napoli,1,0,H,0,0,D
+ITA,1994-04-04,,Atalanta,Udinese Calcio,1,1,D,1,0,H
+ITA,1994-04-04,,US Lecce,Torino FC,1,2,A,1,2,A
+ITA,1994-04-04,,US Cremonese,Sampdoria,0,0,D,0,0,D
+ITA,1994-04-04,,AC Milan,Parma AC,1,1,D,0,0,D
+ITA,1994-04-04,,Genoa CFC,Lazio Roma,1,1,D,0,0,D
+ITA,1994-04-04,,Juventus,Inter,1,0,H,0,0,D
+ITA,1994-04-04,,AS Roma,Cagliari Calcio,2,0,H,1,0,H
+ITA,1994-04-04,,US Foggia,Piacenza Calcio,1,0,H,1,0,H
+ITA,1994-04-10,,Sampdoria,Genoa CFC,1,1,D,1,1,D
+ITA,1994-04-10,,Cagliari Calcio,AC Reggiana,3,0,H,3,0,H
+ITA,1994-04-10,,Torino FC,AC Milan,0,0,D,0,0,D
+ITA,1994-04-10,,Parma AC,AS Roma,0,2,A,0,1,A
+ITA,1994-04-10,,Udinese Calcio,US Foggia,3,0,H,1,0,H
+ITA,1994-04-10,,Piacenza Calcio,US Cremonese,1,1,D,1,0,H
+ITA,1994-04-10,,Lazio Roma,Atalanta,3,1,H,0,0,D
+ITA,1994-04-10,,Inter,US Lecce,4,1,H,2,0,H
+ITA,1994-04-10,,SSC Napoli,Juventus,0,0,D,0,0,D
+ITA,1994-04-17,,Juventus,Lazio Roma,6,1,H,3,0,H
+ITA,1994-04-17,,AC Milan,Udinese Calcio,2,2,D,0,0,D
+ITA,1994-04-17,,US Cremonese,Torino FC,1,1,D,1,1,D
+ITA,1994-04-17,,US Lecce,AC Reggiana,2,4,A,1,3,A
+ITA,1994-04-17,,Atalanta,SSC Napoli,1,1,D,1,1,D
+ITA,1994-04-17,,Sampdoria,Inter,3,1,H,1,1,D
+ITA,1994-04-17,,US Foggia,Genoa CFC,3,0,H,1,0,H
+ITA,1994-04-17,,Parma AC,Cagliari Calcio,3,1,H,2,0,H
+ITA,1994-04-17,,AS Roma,Piacenza Calcio,3,1,H,3,1,H
+ITA,1994-04-24,,Piacenza Calcio,Juventus,0,0,D,0,0,D
+ITA,1994-04-24,,Inter,AS Roma,2,2,D,1,1,D
+ITA,1994-04-24,,SSC Napoli,Parma AC,2,0,H,2,0,H
+ITA,1994-04-24,,AC Reggiana,Sampdoria,1,1,D,0,0,D
+ITA,1994-04-24,,Torino FC,US Foggia,1,4,A,0,2,A
+ITA,1994-04-24,,Udinese Calcio,US Cremonese,3,3,D,2,0,H
+ITA,1994-04-24,,Genoa CFC,Atalanta,2,1,H,1,1,D
+ITA,1994-04-24,,Cagliari Calcio,AC Milan,0,0,D,0,0,D
+ITA,1994-04-24,,Lazio Roma,US Lecce,3,0,H,2,0,H
+ITA,1994-05-01,,Sampdoria,Lazio Roma,3,4,A,1,1,D
+ITA,1994-05-01,,AS Roma,Torino FC,2,0,H,1,0,H
+ITA,1994-05-01,,AC Milan,AC Reggiana,0,1,A,0,0,D
+ITA,1994-05-01,,US Foggia,SSC Napoli,0,1,A,0,0,D
+ITA,1994-05-01,,Atalanta,Inter,2,1,H,1,1,D
+ITA,1994-05-01,,US Cremonese,Genoa CFC,1,1,D,1,0,H
+ITA,1994-05-01,,US Lecce,Cagliari Calcio,0,1,A,0,1,A
+ITA,1994-05-01,,Juventus,Udinese Calcio,1,0,H,1,0,H
+ITA,1994-05-01,,Parma AC,Piacenza Calcio,0,0,D,0,0,D

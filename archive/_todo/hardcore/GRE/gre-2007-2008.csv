@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GRE,2007-09-01,17:00,Aris Saloniki,Panionios GSS,0,0,D,0,0,D
+GRE,2007-09-01,19:15,Skoda Xanthi,PAOK Saloniki,1,0,H,0,0,D
+GRE,2007-09-02,17:00,OFI Heraklion,Apollon Kalamarias,3,2,H,0,0,D
+GRE,2007-09-02,17:00,Asteras Tripolis,AE Larisa,0,1,A,0,0,D
+GRE,2007-09-02,17:00,Iraklis Saloniki,Ergotelis,0,1,A,0,0,D
+GRE,2007-09-02,19:15,Atromitos,Levadiakos,2,1,H,2,1,H
+GRE,2007-09-02,19:15,Panathinaikos,Olympiakos Piräus,0,0,D,0,0,D
+GRE,2007-09-22,17:00,Skoda Xanthi,Asteras Tripolis,2,0,H,0,0,D
+GRE,2007-09-22,17:00,PAOK Saloniki,Iraklis Saloniki,3,0,H,1,0,H
+GRE,2007-09-23,15:00,Panionios GSS,Levadiakos,2,0,H,2,0,H
+GRE,2007-09-23,15:00,AE Larisa,Veria FC,1,1,D,0,1,A
+GRE,2007-09-23,17:00,Apollon Kalamarias,Aris Saloniki,0,0,D,0,0,D
+GRE,2007-09-23,17:00,AEK Athen,Atromitos,2,0,H,0,0,D
+GRE,2007-09-23,17:00,Olympiakos Piräus,OFI Heraklion,6,2,H,5,1,H
+GRE,2007-09-23,19:15,Ergotelis,Panathinaikos,0,3,A,0,1,A
+GRE,2007-09-26,17:00,Veria FC,AEK Athen,0,1,A,0,1,A
+GRE,2007-09-29,14:45,Aris Saloniki,Olympiakos Piräus,1,1,D,0,1,A
+GRE,2007-09-29,17:00,Atromitos,AE Larisa,2,0,H,0,0,D
+GRE,2007-09-29,17:00,Panathinaikos,PAOK Saloniki,2,0,H,1,0,H
+GRE,2007-09-30,14:45,Levadiakos,AEK Athen,0,4,A,0,2,A
+GRE,2007-09-30,15:00,Apollon Kalamarias,Panionios GSS,0,2,A,0,0,D
+GRE,2007-09-30,17:00,Veria FC,Skoda Xanthi,1,1,D,1,1,D
+GRE,2007-09-30,17:00,Asteras Tripolis,Iraklis Saloniki,0,0,D,0,0,D
+GRE,2007-09-30,19:15,OFI Heraklion,Ergotelis,4,1,H,4,0,H
+GRE,2007-10-06,17:00,Olympiakos Piräus,Apollon Kalamarias,1,0,H,1,0,H
+GRE,2007-10-06,17:00,PAOK Saloniki,OFI Heraklion,2,2,D,2,2,D
+GRE,2007-10-07,15:00,Ergotelis,Aris Saloniki,0,1,A,0,0,D
+GRE,2007-10-07,15:00,Skoda Xanthi,Atromitos,0,1,A,0,1,A
+GRE,2007-10-07,15:00,Iraklis Saloniki,Veria FC,1,1,D,0,0,D
+GRE,2007-10-07,17:00,AE Larisa,Levadiakos,3,3,D,2,2,D
+GRE,2007-10-07,17:00,Asteras Tripolis,Panathinaikos,1,0,H,0,0,D
+GRE,2007-10-07,19:15,Panionios GSS,AEK Athen,0,3,A,0,1,A
+GRE,2007-10-20,17:00,Olympiakos Piräus,Panionios GSS,4,1,H,1,0,H
+GRE,2007-10-20,17:45,AEK Athen,AE Larisa,1,0,H,1,0,H
+GRE,2007-10-21,15:00,Levadiakos,Skoda Xanthi,2,1,H,1,1,D
+GRE,2007-10-21,15:00,OFI Heraklion,Asteras Tripolis,0,3,A,0,1,A
+GRE,2007-10-21,17:00,Apollon Kalamarias,Ergotelis,2,1,H,1,1,D
+GRE,2007-10-21,17:00,Aris Saloniki,PAOK Saloniki,3,1,H,1,1,D
+GRE,2007-10-21,17:00,Veria FC,Panathinaikos,0,2,A,0,0,D
+GRE,2007-10-21,19:15,Atromitos,Iraklis Saloniki,1,1,D,1,0,H
+GRE,2007-10-27,17:00,Iraklis Saloniki,Levadiakos,1,0,H,1,0,H
+GRE,2007-10-27,17:00,Asteras Tripolis,Aris Saloniki,0,0,D,0,0,D
+GRE,2007-10-28,14:45,Panionios GSS,AE Larisa,3,1,H,0,1,A
+GRE,2007-10-28,14:45,Ergotelis,Olympiakos Piräus,3,3,D,2,2,D
+GRE,2007-10-28,14:45,Skoda Xanthi,AEK Athen,0,1,A,0,1,A
+GRE,2007-10-28,14:45,Veria FC,OFI Heraklion,2,1,H,1,1,D
+GRE,2007-10-28,17:00,PAOK Saloniki,Apollon Kalamarias,4,1,H,1,0,H
+GRE,2007-10-28,17:00,Panathinaikos,Atromitos,2,0,H,1,0,H
+GRE,2007-11-03,14:45,Ergotelis,Panionios GSS,1,1,D,1,0,H
+GRE,2007-11-03,17:00,Olympiakos Piräus,PAOK Saloniki,2,1,H,0,1,A
+GRE,2007-11-04,13:00,Apollon Kalamarias,Asteras Tripolis,2,2,D,1,1,D
+GRE,2007-11-04,13:00,Atromitos,OFI Heraklion,1,0,H,0,0,D
+GRE,2007-11-04,14:30,AEK Athen,Iraklis Saloniki,1,2,A,1,1,D
+GRE,2007-11-04,14:45,Levadiakos,Panathinaikos,0,4,A,0,2,A
+GRE,2007-11-04,17:00,AE Larisa,Skoda Xanthi,0,0,D,0,0,D
+GRE,2007-11-04,17:00,Aris Saloniki,Veria FC,1,0,H,1,0,H
+GRE,2007-11-10,17:00,Asteras Tripolis,Olympiakos Piräus,1,0,H,1,0,H
+GRE,2007-11-11,13:00,Veria FC,Apollon Kalamarias,0,2,A,0,0,D
+GRE,2007-11-11,13:00,OFI Heraklion,Levadiakos,1,2,A,0,0,D
+GRE,2007-11-11,14:45,Panionios GSS,Skoda Xanthi,3,2,H,0,1,A
+GRE,2007-11-11,14:45,PAOK Saloniki,Ergotelis,1,0,H,0,0,D
+GRE,2007-11-11,14:45,Atromitos,Aris Saloniki,1,2,A,1,1,D
+GRE,2007-11-11,17:00,Iraklis Saloniki,AE Larisa,1,1,D,0,0,D
+GRE,2007-11-11,17:00,Panathinaikos,AEK Athen,2,1,H,2,1,H
+GRE,2007-11-24,14:45,Levadiakos,Aris Saloniki,2,0,H,2,0,H
+GRE,2007-11-24,17:00,Olympiakos Piräus,Veria FC,1,0,H,1,0,H
+GRE,2007-11-25,13:00,Apollon Kalamarias,Atromitos,0,2,A,0,2,A
+GRE,2007-11-25,14:45,PAOK Saloniki,Panionios GSS,3,1,H,3,1,H
+GRE,2007-11-25,14:45,Skoda Xanthi,Iraklis Saloniki,0,3,A,0,1,A
+GRE,2007-11-25,14:45,Ergotelis,Asteras Tripolis,0,3,A,0,1,A
+GRE,2007-11-25,17:00,AE Larisa,Panathinaikos,2,2,D,1,1,D
+GRE,2007-11-25,17:00,AEK Athen,OFI Heraklion,4,0,H,0,0,D
+GRE,2007-12-01,17:00,Panathinaikos,Skoda Xanthi,0,0,D,0,0,D
+GRE,2007-12-02,13:00,Apollon Kalamarias,Levadiakos,2,0,H,0,0,D
+GRE,2007-12-02,14:45,Panionios GSS,Iraklis Saloniki,1,1,D,1,0,H
+GRE,2007-12-02,14:45,Veria FC,Ergotelis,1,1,D,1,1,D
+GRE,2007-12-02,14:45,OFI Heraklion,AE Larisa,0,0,D,0,0,D
+GRE,2007-12-02,14:45,Aris Saloniki,AEK Athen,0,1,A,0,0,D
+GRE,2007-12-02,17:00,Asteras Tripolis,PAOK Saloniki,2,0,H,1,0,H
+GRE,2007-12-02,17:00,Atromitos,Olympiakos Piräus,1,3,A,0,2,A
+GRE,2007-12-08,14:45,PAOK Saloniki,Veria FC,2,0,H,1,0,H
+GRE,2007-12-08,17:00,Olympiakos Piräus,Levadiakos,4,0,H,2,0,H
+GRE,2007-12-09,13:00,Skoda Xanthi,OFI Heraklion,1,0,H,0,0,D
+GRE,2007-12-09,13:00,Ergotelis,Atromitos,0,0,D,0,0,D
+GRE,2007-12-09,14:45,AE Larisa,Aris Saloniki,1,0,H,0,0,D
+GRE,2007-12-09,14:45,AEK Athen,Apollon Kalamarias,4,0,H,3,0,H
+GRE,2007-12-09,17:00,Asteras Tripolis,Panionios GSS,1,0,H,0,0,D
+GRE,2007-12-09,17:00,Iraklis Saloniki,Panathinaikos,0,1,A,0,1,A
+GRE,2007-12-15,14:45,Atromitos,PAOK Saloniki,0,0,D,0,0,D
+GRE,2007-12-15,17:00,Panionios GSS,Panathinaikos,1,0,H,1,0,H
+GRE,2007-12-15,17:00,Aris Saloniki,Skoda Xanthi,2,0,H,1,0,H
+GRE,2007-12-16,13:00,Veria FC,Asteras Tripolis,1,0,H,1,0,H
+GRE,2007-12-16,13:00,Levadiakos,Ergotelis,0,0,D,0,0,D
+GRE,2007-12-16,14:45,OFI Heraklion,Iraklis Saloniki,2,0,H,1,0,H
+GRE,2007-12-16,14:45,Apollon Kalamarias,AE Larisa,1,1,D,0,1,A
+GRE,2007-12-16,17:00,Olympiakos Piräus,AEK Athen,1,0,H,0,0,D
+GRE,2007-12-22,14:45,PAOK Saloniki,Levadiakos,1,0,H,0,0,D
+GRE,2007-12-22,17:00,Skoda Xanthi,Apollon Kalamarias,6,1,H,3,0,H
+GRE,2007-12-23,13:00,Veria FC,Panionios GSS,1,1,D,0,0,D
+GRE,2007-12-23,13:00,Asteras Tripolis,Atromitos,1,0,H,0,0,D
+GRE,2007-12-23,14:45,Ergotelis,AEK Athen,1,4,A,1,1,D
+GRE,2007-12-23,17:00,Panathinaikos,OFI Heraklion,3,1,H,1,0,H
+GRE,2007-12-23,17:00,Iraklis Saloniki,Aris Saloniki,0,2,A,0,1,A
+GRE,2007-12-23,17:00,AE Larisa,Olympiakos Piräus,0,0,D,0,0,D
+GRE,2007-12-29,14:45,Ergotelis,AE Larisa,0,0,D,0,0,D
+GRE,2007-12-29,17:00,Olympiakos Piräus,Skoda Xanthi,2,1,H,1,1,D
+GRE,2007-12-30,13:00,Atromitos,Veria FC,1,0,H,0,0,D
+GRE,2007-12-30,13:00,Levadiakos,Asteras Tripolis,0,0,D,0,0,D
+GRE,2007-12-30,14:45,Panionios GSS,OFI Heraklion,1,3,A,0,0,D
+GRE,2007-12-30,14:45,Apollon Kalamarias,Iraklis Saloniki,1,1,D,1,1,D
+GRE,2007-12-30,17:00,Aris Saloniki,Panathinaikos,0,1,A,0,1,A
+GRE,2007-12-30,17:00,AEK Athen,PAOK Saloniki,2,0,H,1,0,H
+GRE,2008-01-05,14:45,Iraklis Saloniki,Olympiakos Piräus,1,2,A,0,0,D
+GRE,2008-01-06,13:00,Veria FC,Levadiakos,3,1,H,2,1,H
+GRE,2008-01-06,13:00,Skoda Xanthi,Ergotelis,1,0,H,1,0,H
+GRE,2008-01-06,14:45,Atromitos,Panionios GSS,0,2,A,0,0,D
+GRE,2008-01-06,14:45,OFI Heraklion,Aris Saloniki,0,1,A,0,0,D
+GRE,2008-01-06,14:45,Panathinaikos,Apollon Kalamarias,1,0,H,0,0,D
+GRE,2008-01-06,17:00,Asteras Tripolis,AEK Athen,2,1,H,0,0,D
+GRE,2008-01-06,17:00,PAOK Saloniki,AE Larisa,1,0,H,1,0,H
+GRE,2008-01-12,14:45,Panionios GSS,Aris Saloniki,0,3,A,0,1,A
+GRE,2008-01-12,17:00,AEK Athen,Veria FC,5,1,H,3,1,H
+GRE,2008-01-13,13:00,Apollon Kalamarias,OFI Heraklion,1,1,D,0,1,A
+GRE,2008-01-13,13:00,AE Larisa,Asteras Tripolis,1,1,D,1,0,H
+GRE,2008-01-13,14:45,Levadiakos,Atromitos,2,1,H,0,1,A
+GRE,2008-01-13,14:45,PAOK Saloniki,Skoda Xanthi,0,1,A,0,1,A
+GRE,2008-01-13,17:00,Olympiakos Piräus,Panathinaikos,1,1,D,1,1,D
+GRE,2008-01-13,17:00,Ergotelis,Iraklis Saloniki,1,0,H,0,0,D
+GRE,2008-01-19,17:00,Aris Saloniki,Apollon Kalamarias,2,2,D,2,0,H
+GRE,2008-01-19,17:00,Atromitos,AEK Athen,0,1,A,0,1,A
+GRE,2008-01-20,13:00,Veria FC,AE Larisa,1,0,H,0,0,D
+GRE,2008-01-20,13:00,Asteras Tripolis,Skoda Xanthi,0,0,D,0,0,D
+GRE,2008-01-20,14:45,Levadiakos,Panionios GSS,1,0,H,1,0,H
+GRE,2008-01-20,14:45,OFI Heraklion,Olympiakos Piräus,0,1,A,0,1,A
+GRE,2008-01-20,17:00,Panathinaikos,Ergotelis,1,0,H,1,0,H
+GRE,2008-01-20,17:00,Iraklis Saloniki,PAOK Saloniki,1,0,H,1,0,H
+GRE,2008-01-26,17:00,Ergotelis,OFI Heraklion,1,1,D,0,1,A
+GRE,2008-01-26,17:00,Skoda Xanthi,Veria FC,2,0,H,2,0,H
+GRE,2008-01-27,13:00,Panionios GSS,Apollon Kalamarias,2,1,H,0,0,D
+GRE,2008-01-27,13:00,Iraklis Saloniki,Asteras Tripolis,0,0,D,0,0,D
+GRE,2008-01-27,14:45,AEK Athen,Levadiakos,3,0,H,1,0,H
+GRE,2008-01-27,14:45,AE Larisa,Atromitos,2,0,H,1,0,H
+GRE,2008-01-27,17:00,Olympiakos Piräus,Aris Saloniki,1,0,H,0,0,D
+GRE,2008-01-27,17:00,PAOK Saloniki,Panathinaikos,0,1,A,0,1,A
+GRE,2008-02-02,14:45,Levadiakos,AE Larisa,0,1,A,0,1,A
+GRE,2008-02-02,14:45,Atromitos,Skoda Xanthi,2,3,A,0,2,A
+GRE,2008-02-03,13:00,Veria FC,Iraklis Saloniki,1,2,A,1,1,D
+GRE,2008-02-03,14:45,Aris Saloniki,Ergotelis,2,0,H,1,0,H
+GRE,2008-02-03,14:45,OFI Heraklion,PAOK Saloniki,2,0,H,1,0,H
+GRE,2008-02-03,17:00,AEK Athen,Panionios GSS,2,3,A,0,2,A
+GRE,2008-02-03,17:00,Panathinaikos,Asteras Tripolis,2,0,H,0,0,D
+GRE,2008-02-03,,Apollon Kalamarias,Olympiakos Piräus,0,3,A,0,0,D
+GRE,2008-02-09,14:45,AE Larisa,AEK Athen,1,0,H,0,0,D
+GRE,2008-02-09,17:00,Iraklis Saloniki,Atromitos,1,1,D,0,0,D
+GRE,2008-02-09,17:00,Panathinaikos,Veria FC,1,0,H,0,0,D
+GRE,2008-02-10,13:00,Ergotelis,Apollon Kalamarias,2,2,D,0,1,A
+GRE,2008-02-10,13:00,Skoda Xanthi,Levadiakos,4,1,H,2,0,H
+GRE,2008-02-10,14:45,PAOK Saloniki,Aris Saloniki,3,0,H,3,0,H
+GRE,2008-02-10,17:00,Panionios GSS,Olympiakos Piräus,0,4,A,0,2,A
+GRE,2008-02-10,17:00,Asteras Tripolis,OFI Heraklion,1,1,D,0,0,D
+GRE,2008-02-16,14:45,AE Larisa,Panionios GSS,1,0,H,0,0,D
+GRE,2008-02-16,17:00,Olympiakos Piräus,Ergotelis,1,0,H,1,0,H
+GRE,2008-02-17,13:00,OFI Heraklion,Veria FC,3,0,H,0,0,D
+GRE,2008-02-17,14:45,Apollon Kalamarias,PAOK Saloniki,0,2,A,0,1,A
+GRE,2008-02-17,17:45,Aris Saloniki,Asteras Tripolis,2,0,H,1,0,H
+GRE,2008-02-20,13:00,Levadiakos,Iraklis Saloniki,3,0,H,2,0,H
+GRE,2008-02-23,14:45,Veria FC,Aris Saloniki,1,0,H,1,0,H
+GRE,2008-02-23,17:00,PAOK Saloniki,Olympiakos Piräus,1,1,D,1,1,D
+GRE,2008-02-23,17:00,Asteras Tripolis,Apollon Kalamarias,1,1,D,1,1,D
+GRE,2008-02-24,13:00,Panionios GSS,Ergotelis,2,1,H,2,0,H
+GRE,2008-02-24,13:00,Skoda Xanthi,AE Larisa,1,1,D,1,1,D
+GRE,2008-02-24,14:45,OFI Heraklion,Atromitos,0,1,A,0,0,D
+GRE,2008-02-24,17:00,Iraklis Saloniki,AEK Athen,0,1,A,0,0,D
+GRE,2008-02-24,17:00,Panathinaikos,Levadiakos,1,0,H,1,0,H
+GRE,2008-03-01,14:45,Ergotelis,PAOK Saloniki,2,0,H,0,0,D
+GRE,2008-03-01,17:00,Olympiakos Piräus,Asteras Tripolis,1,1,D,1,1,D
+GRE,2008-03-02,13:00,Skoda Xanthi,Panionios GSS,1,2,A,1,1,D
+GRE,2008-03-02,13:00,Levadiakos,OFI Heraklion,0,3,A,0,2,A
+GRE,2008-03-02,14:45,AE Larisa,Iraklis Saloniki,1,0,H,0,0,D
+GRE,2008-03-02,14:45,Apollon Kalamarias,Veria FC,1,0,H,0,0,D
+GRE,2008-03-02,17:00,AEK Athen,Panathinaikos,1,1,D,0,0,D
+GRE,2008-03-02,17:00,Aris Saloniki,Atromitos,2,0,H,1,0,H
+GRE,2008-03-05,14:30,AEK Athen,Skoda Xanthi,3,0,H,1,0,H
+GRE,2008-03-05,16:30,Atromitos,Panathinaikos,0,1,A,0,0,D
+GRE,2008-03-08,17:00,Panionios GSS,PAOK Saloniki,0,0,D,0,0,D
+GRE,2008-03-08,17:00,Aris Saloniki,Levadiakos,1,0,H,0,0,D
+GRE,2008-03-09,13:00,Asteras Tripolis,Ergotelis,1,1,D,1,0,H
+GRE,2008-03-09,13:00,Atromitos,Apollon Kalamarias,3,0,H,0,0,D
+GRE,2008-03-09,14:45,Veria FC,Olympiakos Piräus,0,1,A,0,1,A
+GRE,2008-03-09,14:45,OFI Heraklion,AEK Athen,1,4,A,1,2,A
+GRE,2008-03-09,17:00,Iraklis Saloniki,Skoda Xanthi,1,1,D,1,0,H
+GRE,2008-03-09,17:00,Panathinaikos,AE Larisa,2,0,H,0,0,D
+GRE,2008-03-15,14:45,PAOK Saloniki,Asteras Tripolis,0,1,A,0,0,D
+GRE,2008-03-15,14:45,Ergotelis,Veria FC,2,0,H,1,0,H
+GRE,2008-03-15,17:00,Olympiakos Piräus,Atromitos,2,0,H,0,0,D
+GRE,2008-03-16,13:00,Iraklis Saloniki,Panionios GSS,1,0,H,1,0,H
+GRE,2008-03-16,14:45,AE Larisa,OFI Heraklion,5,1,H,3,0,H
+GRE,2008-03-16,14:45,Levadiakos,Apollon Kalamarias,2,0,H,0,0,D
+GRE,2008-03-16,17:00,Skoda Xanthi,Panathinaikos,3,2,H,1,0,H
+GRE,2008-03-16,17:00,AEK Athen,Aris Saloniki,1,1,D,1,0,H
+GRE,2008-03-22,14:45,Atromitos,Ergotelis,1,2,A,1,0,H
+GRE,2008-03-22,17:00,Panathinaikos,Iraklis Saloniki,1,1,D,1,1,D
+GRE,2008-03-22,17:00,Veria FC,PAOK Saloniki,0,0,D,0,0,D
+GRE,2008-03-23,13:00,Panionios GSS,Asteras Tripolis,4,1,H,2,0,H
+GRE,2008-03-23,14:45,OFI Heraklion,Skoda Xanthi,2,0,H,1,0,H
+GRE,2008-03-23,14:45,Levadiakos,Olympiakos Piräus,1,3,A,1,3,A
+GRE,2008-03-23,17:00,Aris Saloniki,AE Larisa,1,1,D,0,0,D
+GRE,2008-03-23,17:00,Apollon Kalamarias,AEK Athen,0,1,A,0,0,D
+GRE,2008-03-30,17:00,Panathinaikos,Panionios GSS,2,1,H,0,1,A
+GRE,2008-03-30,17:00,Asteras Tripolis,Veria FC,2,0,H,1,0,H
+GRE,2008-03-30,17:00,Iraklis Saloniki,OFI Heraklion,1,0,H,0,0,D
+GRE,2008-03-30,17:00,PAOK Saloniki,Atromitos,1,0,H,1,0,H
+GRE,2008-03-30,17:00,Skoda Xanthi,Aris Saloniki,0,2,A,0,0,D
+GRE,2008-03-30,17:00,Ergotelis,Levadiakos,2,1,H,1,1,D
+GRE,2008-03-30,17:00,AE Larisa,Apollon Kalamarias,2,1,H,1,0,H
+GRE,2008-03-30,17:00,AEK Athen,Olympiakos Piräus,4,0,H,3,0,H
+GRE,2008-04-06,17:00,Panionios GSS,Veria FC,2,2,D,1,2,A
+GRE,2008-04-06,17:00,OFI Heraklion,Panathinaikos,4,1,H,2,1,H
+GRE,2008-04-06,17:00,Atromitos,Asteras Tripolis,0,2,A,0,0,D
+GRE,2008-04-06,17:00,Aris Saloniki,Iraklis Saloniki,2,2,D,1,0,H
+GRE,2008-04-06,17:00,Levadiakos,PAOK Saloniki,2,0,H,1,0,H
+GRE,2008-04-06,17:00,Apollon Kalamarias,Skoda Xanthi,1,0,H,0,0,D
+GRE,2008-04-06,17:00,AEK Athen,Ergotelis,3,1,H,2,0,H
+GRE,2008-04-06,17:00,Olympiakos Piräus,AE Larisa,2,1,H,0,1,A
+GRE,2008-04-13,17:00,OFI Heraklion,Panionios GSS,1,2,A,1,1,D
+GRE,2008-04-13,17:00,Veria FC,Atromitos,1,1,D,0,0,D
+GRE,2008-04-13,17:00,Panathinaikos,Aris Saloniki,1,0,H,0,0,D
+GRE,2008-04-13,17:00,Asteras Tripolis,Levadiakos,1,2,A,0,1,A
+GRE,2008-04-13,17:00,Iraklis Saloniki,Apollon Kalamarias,5,2,H,2,0,H
+GRE,2008-04-13,17:00,PAOK Saloniki,AEK Athen,0,4,A,0,3,A
+GRE,2008-04-13,17:00,Skoda Xanthi,Olympiakos Piräus,1,4,A,0,2,A
+GRE,2008-04-13,17:00,AE Larisa,Ergotelis,3,2,H,0,1,A
+GRE,2008-04-20,17:00,Panionios GSS,Atromitos,2,1,H,0,1,A
+GRE,2008-04-20,17:00,Aris Saloniki,OFI Heraklion,2,0,H,0,0,D
+GRE,2008-04-20,17:00,Levadiakos,Veria FC,5,3,H,3,1,H
+GRE,2008-04-20,17:00,Apollon Kalamarias,Panathinaikos,1,3,A,1,2,A
+GRE,2008-04-20,17:00,AEK Athen,Asteras Tripolis,2,0,H,1,0,H
+GRE,2008-04-20,17:00,Olympiakos Piräus,Iraklis Saloniki,3,1,H,2,0,H
+GRE,2008-04-20,17:00,AE Larisa,PAOK Saloniki,4,3,H,1,3,A
+GRE,2008-04-20,17:00,Ergotelis,Skoda Xanthi,2,0,H,2,0,H

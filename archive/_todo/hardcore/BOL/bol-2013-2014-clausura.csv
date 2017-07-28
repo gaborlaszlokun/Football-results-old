@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,2014-01-18,22:00,Club Aurora,Universitario Sucre,0,0,D,0,0,D
+BOL,2014-01-19,19:30,Real Potosí,The Strongest,1,0,H,1,0,H
+BOL,2014-01-19,20:00,Sport Boys Warnes,Jorge Wilstermann,2,0,H,1,0,H
+BOL,2014-01-19,20:00,Club Bolívar,Nacional Potosí,2,1,H,2,1,H
+BOL,2014-01-19,21:00,Guabirá,Oriente Petrolero,2,3,A,0,1,A
+BOL,2014-01-19,23:00,Club Blooming,Club San José,2,1,H,2,0,H
+BOL,2014-01-23,00:00,The Strongest,Nacional Potosí,1,0,H,0,0,D
+BOL,2014-01-25,20:30,Nacional Potosí,Oriente Petrolero,3,1,H,1,0,H
+BOL,2014-01-26,19:00,Sport Boys Warnes,The Strongest,0,1,A,0,0,D
+BOL,2014-01-26,19:30,Club San José,Real Potosí,1,1,D,0,1,A
+BOL,2014-01-26,20:00,Jorge Wilstermann,Club Aurora,2,1,H,1,0,H
+BOL,2014-01-26,21:00,Universitario Sucre,Club Bolívar,3,1,H,1,0,H
+BOL,2014-01-26,23:00,Club Blooming,Guabirá,1,0,H,1,0,H
+BOL,2014-02-01,00:30,Oriente Petrolero,Universitario Sucre,0,1,A,0,0,D
+BOL,2014-02-02,19:30,Guabirá,Nacional Potosí,2,0,H,0,0,D
+BOL,2014-02-02,19:30,Club Bolívar,Jorge Wilstermann,2,1,H,1,1,D
+BOL,2014-02-02,20:00,Sport Boys Warnes,Club San José,1,0,H,0,0,D
+BOL,2014-02-02,20:00,Real Potosí,Club Blooming,2,0,H,1,0,H
+BOL,2014-02-02,22:00,Club Aurora,The Strongest,1,2,A,0,2,A
+BOL,2014-02-08,00:00,The Strongest,Club Bolívar,3,3,D,2,1,H
+BOL,2014-02-08,19:30,Real Potosí,Guabirá,1,1,D,0,1,A
+BOL,2014-02-09,19:30,Club San José,Club Aurora,2,1,H,2,0,H
+BOL,2014-02-09,19:30,Universitario Sucre,Nacional Potosí,2,0,H,1,0,H
+BOL,2014-02-09,22:00,Jorge Wilstermann,Oriente Petrolero,2,2,D,1,0,H
+BOL,2014-02-11,00:30,Club Blooming,Sport Boys Warnes,1,3,A,1,2,A
+BOL,2014-02-15,20:00,Sport Boys Warnes,Real Potosí,2,2,D,0,1,A
+BOL,2014-02-15,22:00,Nacional Potosí,Jorge Wilstermann,2,3,A,0,1,A
+BOL,2014-02-16,19:30,Guabirá,Universitario Sucre,2,0,H,0,0,D
+BOL,2014-02-16,19:30,Club Bolívar,Club San José,0,1,A,0,0,D
+BOL,2014-02-16,19:30,Club Aurora,Club Blooming,3,2,H,1,1,D
+BOL,2014-02-16,22:30,Oriente Petrolero,The Strongest,2,0,H,0,0,D
+BOL,2014-02-19,20:00,Sport Boys Warnes,Guabirá,2,0,H,1,0,H
+BOL,2014-02-20,00:00,Real Potosí,Club Aurora,3,3,D,1,1,D
+BOL,2014-02-20,00:00,Club San José,Oriente Petrolero,2,0,H,0,0,D
+BOL,2014-02-21,00:00,Jorge Wilstermann,Universitario Sucre,1,1,D,1,1,D
+BOL,2014-02-23,19:00,Guabirá,Jorge Wilstermann,1,1,D,0,1,A
+BOL,2014-02-23,19:30,Nacional Potosí,Club San José,1,4,A,1,4,A
+BOL,2014-02-23,20:00,Club Bolívar,Real Potosí,1,3,A,0,2,A
+BOL,2014-02-23,20:00,Club Aurora,Sport Boys Warnes,3,0,H,1,0,H
+BOL,2014-02-23,21:00,Universitario Sucre,The Strongest,2,1,H,1,0,H
+BOL,2014-02-23,23:00,Club Blooming,Oriente Petrolero,2,3,A,1,2,A
+BOL,2014-02-26,20:00,Sport Boys Warnes,Club Bolívar,0,0,D,0,0,D
+BOL,2014-02-28,00:00,The Strongest,Jorge Wilstermann,3,1,H,3,0,H
+BOL,2014-03-08,19:30,Guabirá,The Strongest,3,2,H,3,2,H
+BOL,2014-03-08,22:00,Universitario Sucre,Club Blooming,4,2,H,1,0,H
+BOL,2014-03-09,00:00,Club Bolívar,Club Aurora,3,0,H,2,0,H
+BOL,2014-03-09,19:30,Jorge Wilstermann,Club San José,0,0,D,0,0,D
+BOL,2014-03-09,19:30,Nacional Potosí,Real Potosí,2,2,D,0,1,A
+BOL,2014-03-09,22:00,Oriente Petrolero,Sport Boys Warnes,1,0,H,0,0,D
+BOL,2014-03-13,00:00,Club Aurora,Guabirá,4,0,H,2,0,H
+BOL,2014-03-13,00:00,Real Potosí,Oriente Petrolero,3,0,H,0,0,D
+BOL,2014-03-13,00:00,Club San José,Universitario Sucre,4,3,H,1,2,A
+BOL,2014-03-14,00:30,Club Blooming,Nacional Potosí,3,0,H,2,0,H
+BOL,2014-03-15,20:00,The Strongest,Club San José,3,1,H,1,1,D
+BOL,2014-03-16,19:00,Sport Boys Warnes,Nacional Potosí,3,1,H,2,1,H
+BOL,2014-03-16,19:30,Real Potosí,Universitario Sucre,2,2,D,2,2,D
+BOL,2014-03-16,20:00,Club Bolívar,Guabirá,2,0,H,1,0,H
+BOL,2014-03-16,20:00,Club Aurora,Oriente Petrolero,0,0,D,0,0,D
+BOL,2014-03-16,21:00,Club Blooming,Jorge Wilstermann,2,0,H,2,0,H
+BOL,2014-03-22,19:30,Universitario Sucre,Sport Boys Warnes,1,1,D,1,0,H
+BOL,2014-03-22,21:30,Nacional Potosí,Club Aurora,3,2,H,0,2,A
+BOL,2014-03-23,19:30,Guabirá,Club San José,3,4,A,3,1,H
+BOL,2014-03-23,20:00,The Strongest,Club Blooming,2,1,H,0,1,A
+BOL,2014-03-23,20:00,Jorge Wilstermann,Real Potosí,0,2,A,0,1,A
+BOL,2014-03-23,22:30,Oriente Petrolero,Club Bolívar,4,0,H,2,0,H
+BOL,2014-03-29,20:00,Club San José,Club Blooming,3,1,H,2,0,H
+BOL,2014-03-29,22:00,Jorge Wilstermann,Sport Boys Warnes,1,0,H,0,0,D
+BOL,2014-03-30,20:30,Universitario Sucre,Club Aurora,1,0,H,1,0,H
+BOL,2014-03-30,21:00,Nacional Potosí,Club Bolívar,1,1,D,0,1,A
+BOL,2014-03-30,23:00,Oriente Petrolero,Guabirá,2,2,D,1,1,D
+BOL,2014-04-01,00:00,The Strongest,Real Potosí,2,1,H,1,0,H
+BOL,2014-04-04,00:30,Club Blooming,Club Bolívar,0,1,A,0,1,A
+BOL,2014-04-05,01:00,The Strongest,Sport Boys Warnes,1,1,D,0,1,A
+BOL,2014-04-06,20:30,Real Potosí,Club San José,1,2,A,0,1,A
+BOL,2014-04-06,21:00,Guabirá,Club Blooming,3,0,H,0,0,D
+BOL,2014-04-06,21:00,Club Bolívar,Universitario Sucre,4,3,H,2,1,H
+BOL,2014-04-06,23:00,Oriente Petrolero,Nacional Potosí,1,0,H,0,0,D
+BOL,2014-04-08,01:00,Club Aurora,Jorge Wilstermann,2,0,H,1,0,H
+BOL,2014-04-12,20:00,Club San José,Sport Boys Warnes,4,0,H,3,0,H
+BOL,2014-04-12,22:00,Club Blooming,Real Potosí,2,0,H,1,0,H
+BOL,2014-04-13,20:30,Nacional Potosí,Guabirá,1,0,H,1,0,H
+BOL,2014-04-13,20:30,Jorge Wilstermann,Club Bolívar,1,2,A,1,0,H
+BOL,2014-04-13,21:00,The Strongest,Club Aurora,4,1,H,3,0,H
+BOL,2014-04-13,23:00,Universitario Sucre,Oriente Petrolero,2,1,H,1,0,H
+BOL,2014-04-20,20:00,Sport Boys Warnes,Club Blooming,4,1,H,4,0,H
+BOL,2014-04-20,20:30,Guabirá,Real Potosí,0,1,A,0,1,A
+BOL,2014-04-20,20:30,Nacional Potosí,Universitario Sucre,0,1,A,0,1,A
+BOL,2014-04-20,21:00,Club Bolívar,The Strongest,0,1,A,0,0,D
+BOL,2014-04-20,22:00,Club Aurora,Club San José,2,1,H,0,1,A
+BOL,2014-04-21,00:00,Oriente Petrolero,Jorge Wilstermann,0,0,D,0,0,D
+BOL,2014-04-24,01:00,Nacional Potosí,The Strongest,3,1,H,2,1,H
+BOL,2014-04-26,20:30,Real Potosí,Sport Boys Warnes,1,0,H,1,0,H
+BOL,2014-04-26,23:00,Universitario Sucre,Guabirá,1,0,H,0,0,D
+BOL,2014-04-26,23:00,The Strongest,Oriente Petrolero,2,0,H,0,0,D
+BOL,2014-04-27,20:00,Club San José,Club Bolívar,3,1,H,1,1,D
+BOL,2014-04-27,20:30,Jorge Wilstermann,Nacional Potosí,3,1,H,2,0,H
+BOL,2014-04-27,21:00,Club Blooming,Club Aurora,1,2,A,0,1,A
+BOL,2014-05-01,00:00,Universitario Sucre,Jorge Wilstermann,3,0,H,1,0,H
+BOL,2014-05-01,01:00,Club Aurora,Real Potosí,2,1,H,2,0,H
+BOL,2014-05-01,01:00,Club Bolívar,Club Blooming,6,0,H,3,0,H
+BOL,2014-05-01,01:30,Guabirá,Sport Boys Warnes,2,0,H,2,0,H
+BOL,2014-05-01,02:00,Oriente Petrolero,Club San José,1,2,A,0,0,D
+BOL,2014-05-04,20:30,Club San José,Nacional Potosí,1,2,A,1,0,H
+BOL,2014-05-04,21:00,Jorge Wilstermann,Guabirá,2,0,H,1,0,H
+BOL,2014-05-04,22:00,Real Potosí,Club Bolívar,2,0,H,1,0,H
+BOL,2014-05-05,00:00,Oriente Petrolero,Club Blooming,4,3,H,1,2,A
+BOL,2014-05-05,20:00,Sport Boys Warnes,Club Aurora,1,1,D,1,0,H
+BOL,2014-05-06,01:00,The Strongest,Universitario Sucre,2,2,D,2,1,H
+BOL,2014-05-10,01:00,The Strongest,Guabirá,5,1,H,0,0,D
+BOL,2014-05-10,21:00,Club Blooming,Universitario Sucre,5,0,H,3,0,H
+BOL,2014-05-11,20:00,Club San José,Jorge Wilstermann,0,1,A,0,0,D
+BOL,2014-05-11,20:30,Real Potosí,Nacional Potosí,2,0,H,1,0,H
+BOL,2014-05-11,20:30,Sport Boys Warnes,Oriente Petrolero,1,3,A,1,1,D
+BOL,2014-05-11,22:00,Club Aurora,Club Bolívar,3,1,H,2,0,H
+BOL,2014-05-15,00:00,Nacional Potosí,Club Blooming,3,0,H,2,0,H
+BOL,2014-05-15,01:00,Universitario Sucre,Club San José,4,1,H,3,1,H
+BOL,2014-05-15,01:00,Jorge Wilstermann,The Strongest,0,0,D,0,0,D
+BOL,2014-05-15,02:00,Guabirá,Club Aurora,1,1,D,0,0,D
+BOL,2014-05-16,01:00,Oriente Petrolero,Real Potosí,1,3,A,1,1,D
+BOL,2014-05-18,20:30,Universitario Sucre,Real Potosí,1,0,H,1,0,H
+BOL,2014-05-18,20:30,Jorge Wilstermann,Club Blooming,4,2,H,1,1,D
+BOL,2014-05-18,20:30,Club San José,The Strongest,7,2,H,3,1,H
+BOL,2014-05-18,23:00,Guabirá,Club Bolívar,2,1,H,2,0,H
+BOL,2014-05-18,23:00,Oriente Petrolero,Club Aurora,1,0,H,1,0,H
+BOL,2014-05-18,23:00,Nacional Potosí,Sport Boys Warnes,2,3,A,0,2,A
+BOL,2014-05-22,01:00,Club Bolívar,Sport Boys Warnes,5,0,H,4,0,H
+BOL,2014-05-25,20:15,Club San José,Guabirá,7,0,H,1,0,H
+BOL,2014-05-25,20:15,Club Blooming,The Strongest,1,2,A,0,1,A
+BOL,2014-05-25,20:15,Real Potosí,Jorge Wilstermann,4,2,H,2,1,H
+BOL,2014-05-25,20:15,Sport Boys Warnes,Universitario Sucre,1,1,D,1,0,H
+BOL,2014-05-25,20:15,Club Aurora,Nacional Potosí,1,0,H,0,0,D
+BOL,2014-05-25,20:15,Club Bolívar,Oriente Petrolero,2,0,H,2,0,H

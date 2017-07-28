@@ -1,241 +1,241 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-POR,12/09/1971,,Vitória Setúbal,SC Beira-Mar,4,0,H,NaN,NaN,NaN
-POR,12/09/1971,,Vitória Guimarães,FC Barreirense,2,0,H,NaN,NaN,NaN
-POR,12/09/1971,,Sporting CP,Boavista,4,1,H,NaN,NaN,NaN
-POR,12/09/1971,,FC Porto,SL Benfica,1,3,A,NaN,NaN,NaN
-POR,12/09/1971,,SC Farense,União Tomar,1,0,H,NaN,NaN,NaN
-POR,12/09/1971,,CD da CUF Barreiro,FC Tirsense,4,0,H,NaN,NaN,NaN
-POR,12/09/1971,,Os Belenenses,Leixões SC,0,1,A,NaN,NaN,NaN
-POR,12/09/1971,,Académica de Coimbra,Atlético CP,0,2,A,NaN,NaN,NaN
-POR,19/09/1971,,União Tomar,FC Porto,0,2,A,NaN,NaN,NaN
-POR,19/09/1971,,FC Tirsense,Vitória Setúbal,0,1,A,NaN,NaN,NaN
-POR,19/09/1971,,Leixões SC,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,19/09/1971,,Boavista,SC Farense,1,0,H,NaN,NaN,NaN
-POR,19/09/1971,,SL Benfica,CD da CUF Barreiro,1,1,D,NaN,NaN,NaN
-POR,19/09/1971,,SC Beira-Mar,Os Belenenses,1,3,A,NaN,NaN,NaN
-POR,19/09/1971,,FC Barreirense,Sporting CP,1,2,A,NaN,NaN,NaN
-POR,19/09/1971,,Atlético CP,Vitória Guimarães,2,2,D,NaN,NaN,NaN
-POR,26/09/1971,,Vitória Setúbal,SL Benfica,1,3,A,NaN,NaN,NaN
-POR,26/09/1971,,Vitória Guimarães,Leixões SC,3,2,H,NaN,NaN,NaN
-POR,26/09/1971,,Sporting CP,Atlético CP,2,0,H,NaN,NaN,NaN
-POR,26/09/1971,,FC Porto,Boavista,6,0,H,NaN,NaN,NaN
-POR,26/09/1971,,SC Farense,FC Barreirense,1,0,H,NaN,NaN,NaN
-POR,26/09/1971,,CD da CUF Barreiro,União Tomar,2,1,H,NaN,NaN,NaN
-POR,26/09/1971,,Os Belenenses,Académica de Coimbra,0,1,A,NaN,NaN,NaN
-POR,26/09/1971,,SC Beira-Mar,FC Tirsense,0,0,D,NaN,NaN,NaN
-POR,03/10/1971,,União Tomar,Vitória Setúbal,0,3,A,NaN,NaN,NaN
-POR,03/10/1971,,FC Tirsense,Os Belenenses,1,0,H,NaN,NaN,NaN
-POR,03/10/1971,,Leixões SC,Sporting CP,1,3,A,NaN,NaN,NaN
-POR,03/10/1971,,Boavista,CD da CUF Barreiro,2,0,H,NaN,NaN,NaN
-POR,03/10/1971,,SL Benfica,SC Beira-Mar,2,1,H,NaN,NaN,NaN
-POR,03/10/1971,,FC Barreirense,FC Porto,1,1,D,NaN,NaN,NaN
-POR,03/10/1971,,Atlético CP,SC Farense,3,2,H,NaN,NaN,NaN
-POR,03/10/1971,,Académica de Coimbra,Vitória Guimarães,4,1,H,NaN,NaN,NaN
-POR,17/10/1971,,Vitória Setúbal,Boavista,5,1,H,NaN,NaN,NaN
-POR,17/10/1971,,FC Tirsense,SL Benfica,0,3,A,NaN,NaN,NaN
-POR,17/10/1971,,Sporting CP,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,17/10/1971,,FC Porto,Atlético CP,1,3,A,NaN,NaN,NaN
-POR,17/10/1971,,SC Farense,Leixões SC,4,3,H,NaN,NaN,NaN
-POR,17/10/1971,,CD da CUF Barreiro,FC Barreirense,1,1,D,NaN,NaN,NaN
-POR,17/10/1971,,Os Belenenses,Vitória Guimarães,0,1,A,NaN,NaN,NaN
-POR,17/10/1971,,SC Beira-Mar,União Tomar,2,1,H,NaN,NaN,NaN
-POR,24/10/1971,,União Tomar,FC Tirsense,2,0,H,NaN,NaN,NaN
-POR,24/10/1971,,Leixões SC,FC Porto,0,1,A,NaN,NaN,NaN
-POR,24/10/1971,,Boavista,SC Beira-Mar,0,0,D,NaN,NaN,NaN
-POR,24/10/1971,,SL Benfica,Os Belenenses,1,0,H,NaN,NaN,NaN
-POR,24/10/1971,,FC Barreirense,Vitória Setúbal,1,1,D,NaN,NaN,NaN
-POR,24/10/1971,,Atlético CP,CD da CUF Barreiro,0,1,A,NaN,NaN,NaN
-POR,24/10/1971,,Académica de Coimbra,SC Farense,0,0,D,NaN,NaN,NaN
-POR,24/10/1971,,Vitória Guimarães,Sporting CP,1,2,A,NaN,NaN,NaN
-POR,31/10/1971,,Vitória Setúbal,Atlético CP,3,0,H,NaN,NaN,NaN
-POR,31/10/1971,,FC Tirsense,Boavista,1,0,H,NaN,NaN,NaN
-POR,31/10/1971,,FC Porto,Académica de Coimbra,2,3,A,NaN,NaN,NaN
-POR,31/10/1971,,SC Farense,Vitória Guimarães,1,0,H,NaN,NaN,NaN
-POR,31/10/1971,,CD da CUF Barreiro,Leixões SC,4,0,H,NaN,NaN,NaN
-POR,31/10/1971,,SL Benfica,União Tomar,3,0,H,NaN,NaN,NaN
-POR,31/10/1971,,Os Belenenses,Sporting CP,2,1,H,NaN,NaN,NaN
-POR,31/10/1971,,SC Beira-Mar,FC Barreirense,1,2,A,NaN,NaN,NaN
-POR,07/11/1971,,Vitória Guimarães,FC Porto,0,4,A,NaN,NaN,NaN
-POR,07/11/1971,,União Tomar,Os Belenenses,0,0,D,NaN,NaN,NaN
-POR,07/11/1971,,Sporting CP,SC Farense,2,0,H,NaN,NaN,NaN
-POR,07/11/1971,,Leixões SC,Vitória Setúbal,1,3,A,NaN,NaN,NaN
-POR,07/11/1971,,Boavista,SL Benfica,2,2,D,NaN,NaN,NaN
-POR,07/11/1971,,FC Barreirense,FC Tirsense,2,1,H,NaN,NaN,NaN
-POR,07/11/1971,,Atlético CP,SC Beira-Mar,2,3,A,NaN,NaN,NaN
-POR,07/11/1971,,Académica de Coimbra,CD da CUF Barreiro,0,1,A,NaN,NaN,NaN
-POR,28/11/1971,,Vitória Setúbal,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,28/11/1971,,União Tomar,Boavista,0,0,D,NaN,NaN,NaN
-POR,28/11/1971,,FC Tirsense,Atlético CP,1,0,H,NaN,NaN,NaN
-POR,28/11/1971,,FC Porto,Sporting CP,0,0,D,NaN,NaN,NaN
-POR,28/11/1971,,CD da CUF Barreiro,Vitória Guimarães,5,3,H,NaN,NaN,NaN
-POR,28/11/1971,,SL Benfica,FC Barreirense,5,1,H,NaN,NaN,NaN
-POR,28/11/1971,,Os Belenenses,SC Farense,2,1,H,NaN,NaN,NaN
-POR,28/11/1971,,SC Beira-Mar,Leixões SC,0,0,D,NaN,NaN,NaN
-POR,05/12/1971,,Vitória Guimarães,Vitória Setúbal,1,1,D,NaN,NaN,NaN
-POR,05/12/1971,,Sporting CP,CD da CUF Barreiro,3,0,H,NaN,NaN,NaN
-POR,05/12/1971,,Leixões SC,FC Tirsense,1,1,D,NaN,NaN,NaN
-POR,05/12/1971,,SC Farense,FC Porto,0,0,D,NaN,NaN,NaN
-POR,05/12/1971,,Boavista,Os Belenenses,2,0,H,NaN,NaN,NaN
-POR,05/12/1971,,FC Barreirense,União Tomar,0,3,A,NaN,NaN,NaN
-POR,05/12/1971,,Atlético CP,SL Benfica,1,5,A,NaN,NaN,NaN
-POR,05/12/1971,,Académica de Coimbra,SC Beira-Mar,0,1,A,NaN,NaN,NaN
-POR,12/12/1971,,Vitória Setúbal,Sporting CP,0,0,D,NaN,NaN,NaN
-POR,12/12/1971,,União Tomar,Atlético CP,3,1,H,NaN,NaN,NaN
-POR,12/12/1971,,FC Tirsense,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,12/12/1971,,CD da CUF Barreiro,SC Farense,2,1,H,NaN,NaN,NaN
-POR,12/12/1971,,Boavista,FC Barreirense,1,2,A,NaN,NaN,NaN
-POR,12/12/1971,,SL Benfica,Leixões SC,6,0,H,NaN,NaN,NaN
-POR,12/12/1971,,Os Belenenses,FC Porto,3,2,H,NaN,NaN,NaN
-POR,12/12/1971,,SC Beira-Mar,Vitória Guimarães,2,1,H,NaN,NaN,NaN
-POR,19/12/1971,,Vitória Guimarães,FC Tirsense,7,1,H,NaN,NaN,NaN
-POR,19/12/1971,,Sporting CP,SC Beira-Mar,0,1,A,NaN,NaN,NaN
-POR,19/12/1971,,FC Porto,CD da CUF Barreiro,1,0,H,NaN,NaN,NaN
-POR,19/12/1971,,Leixões SC,União Tomar,0,1,A,NaN,NaN,NaN
-POR,19/12/1971,,SC Farense,Vitória Setúbal,0,2,A,NaN,NaN,NaN
-POR,19/12/1971,,FC Barreirense,Os Belenenses,1,2,A,NaN,NaN,NaN
-POR,19/12/1971,,Atlético CP,Boavista,1,1,D,NaN,NaN,NaN
-POR,19/12/1971,,Académica de Coimbra,SL Benfica,0,3,A,NaN,NaN,NaN
-POR,26/12/1971,,Vitória Setúbal,FC Porto,2,0,H,NaN,NaN,NaN
-POR,26/12/1971,,União Tomar,Académica de Coimbra,2,1,H,NaN,NaN,NaN
-POR,26/12/1971,,FC Tirsense,Sporting CP,3,5,A,NaN,NaN,NaN
-POR,26/12/1971,,Boavista,Leixões SC,1,3,A,NaN,NaN,NaN
-POR,26/12/1971,,SL Benfica,Vitória Guimarães,3,0,H,NaN,NaN,NaN
-POR,26/12/1971,,Os Belenenses,CD da CUF Barreiro,1,1,D,NaN,NaN,NaN
-POR,26/12/1971,,SC Beira-Mar,SC Farense,1,1,D,NaN,NaN,NaN
-POR,26/12/1971,,FC Barreirense,Atlético CP,2,1,H,NaN,NaN,NaN
-POR,02/01/1972,,Vitória Guimarães,União Tomar,2,0,H,NaN,NaN,NaN
-POR,02/01/1972,,Sporting CP,SL Benfica,0,3,A,NaN,NaN,NaN
-POR,02/01/1972,,FC Porto,SC Beira-Mar,1,0,H,NaN,NaN,NaN
-POR,02/01/1972,,Leixões SC,FC Barreirense,2,0,H,NaN,NaN,NaN
-POR,02/01/1972,,SC Farense,FC Tirsense,2,0,H,NaN,NaN,NaN
-POR,02/01/1972,,CD da CUF Barreiro,Vitória Setúbal,2,2,D,NaN,NaN,NaN
-POR,02/01/1972,,Os Belenenses,Atlético CP,3,1,H,NaN,NaN,NaN
-POR,02/01/1972,,Académica de Coimbra,Boavista,3,1,H,NaN,NaN,NaN
-POR,16/01/1972,,Vitória Setúbal,Os Belenenses,1,1,D,NaN,NaN,NaN
-POR,16/01/1972,,União Tomar,Sporting CP,0,2,A,NaN,NaN,NaN
-POR,16/01/1972,,FC Tirsense,FC Porto,3,3,D,NaN,NaN,NaN
-POR,16/01/1972,,Boavista,Vitória Guimarães,0,1,A,NaN,NaN,NaN
-POR,16/01/1972,,SL Benfica,SC Farense,2,0,H,NaN,NaN,NaN
-POR,16/01/1972,,SC Beira-Mar,CD da CUF Barreiro,1,1,D,NaN,NaN,NaN
-POR,16/01/1972,,FC Barreirense,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,16/01/1972,,Atlético CP,Leixões SC,2,0,H,NaN,NaN,NaN
-POR,23/01/1972,,União Tomar,SC Farense,0,0,D,NaN,NaN,NaN
-POR,23/01/1972,,FC Tirsense,CD da CUF Barreiro,1,1,D,NaN,NaN,NaN
-POR,23/01/1972,,Leixões SC,Os Belenenses,1,3,A,NaN,NaN,NaN
-POR,23/01/1972,,Boavista,Sporting CP,1,1,D,NaN,NaN,NaN
-POR,23/01/1972,,SL Benfica,FC Porto,1,0,H,NaN,NaN,NaN
-POR,23/01/1972,,SC Beira-Mar,Vitória Setúbal,2,2,D,NaN,NaN,NaN
-POR,23/01/1972,,FC Barreirense,Vitória Guimarães,2,2,D,NaN,NaN,NaN
-POR,23/01/1972,,Atlético CP,Académica de Coimbra,1,1,D,NaN,NaN,NaN
-POR,30/01/1972,,Vitória Setúbal,FC Tirsense,6,0,H,NaN,NaN,NaN
-POR,30/01/1972,,Vitória Guimarães,Atlético CP,1,1,D,NaN,NaN,NaN
-POR,30/01/1972,,Sporting CP,FC Barreirense,3,0,H,NaN,NaN,NaN
-POR,30/01/1972,,FC Porto,União Tomar,1,1,D,NaN,NaN,NaN
-POR,30/01/1972,,SC Farense,Boavista,1,1,D,NaN,NaN,NaN
-POR,30/01/1972,,CD da CUF Barreiro,SL Benfica,0,2,A,NaN,NaN,NaN
-POR,30/01/1972,,Os Belenenses,SC Beira-Mar,0,0,D,NaN,NaN,NaN
-POR,30/01/1972,,Académica de Coimbra,Leixões SC,0,0,D,NaN,NaN,NaN
-POR,06/02/1972,,União Tomar,CD da CUF Barreiro,1,1,D,NaN,NaN,NaN
-POR,06/02/1972,,FC Tirsense,SC Beira-Mar,1,1,D,NaN,NaN,NaN
-POR,06/02/1972,,Leixões SC,Vitória Guimarães,1,1,D,NaN,NaN,NaN
-POR,06/02/1972,,Boavista,FC Porto,1,2,A,NaN,NaN,NaN
-POR,06/02/1972,,SL Benfica,Vitória Setúbal,0,0,D,NaN,NaN,NaN
-POR,06/02/1972,,FC Barreirense,SC Farense,3,1,H,NaN,NaN,NaN
-POR,06/02/1972,,Atlético CP,Sporting CP,0,0,D,NaN,NaN,NaN
-POR,06/02/1972,,Académica de Coimbra,Os Belenenses,2,0,H,NaN,NaN,NaN
-POR,13/02/1972,,Vitória Setúbal,União Tomar,5,0,H,NaN,NaN,NaN
-POR,13/02/1972,,Vitória Guimarães,Académica de Coimbra,0,0,D,NaN,NaN,NaN
-POR,13/02/1972,,Sporting CP,Leixões SC,2,2,D,NaN,NaN,NaN
-POR,13/02/1972,,FC Porto,FC Barreirense,1,1,D,NaN,NaN,NaN
-POR,13/02/1972,,SC Farense,Atlético CP,3,1,H,NaN,NaN,NaN
-POR,13/02/1972,,CD da CUF Barreiro,Boavista,2,0,H,NaN,NaN,NaN
-POR,13/02/1972,,Os Belenenses,FC Tirsense,1,0,H,NaN,NaN,NaN
-POR,13/02/1972,,SC Beira-Mar,SL Benfica,1,3,A,NaN,NaN,NaN
-POR,20/02/1972,,Vitória Guimarães,Os Belenenses,1,1,D,NaN,NaN,NaN
-POR,20/02/1972,,União Tomar,SC Beira-Mar,2,0,H,NaN,NaN,NaN
-POR,20/02/1972,,Leixões SC,SC Farense,1,0,H,NaN,NaN,NaN
-POR,20/02/1972,,Boavista,Vitória Setúbal,1,1,D,NaN,NaN,NaN
-POR,20/02/1972,,SL Benfica,FC Tirsense,7,0,H,NaN,NaN,NaN
-POR,20/02/1972,,FC Barreirense,CD da CUF Barreiro,0,2,A,NaN,NaN,NaN
-POR,20/02/1972,,Atlético CP,FC Porto,1,1,D,NaN,NaN,NaN
-POR,20/02/1972,,Académica de Coimbra,Sporting CP,3,3,D,NaN,NaN,NaN
-POR,27/02/1972,,Vitória Setúbal,FC Barreirense,4,0,H,NaN,NaN,NaN
-POR,27/02/1972,,FC Tirsense,União Tomar,1,0,H,NaN,NaN,NaN
-POR,27/02/1972,,FC Porto,Leixões SC,2,0,H,NaN,NaN,NaN
-POR,27/02/1972,,SC Farense,Académica de Coimbra,4,2,H,NaN,NaN,NaN
-POR,27/02/1972,,CD da CUF Barreiro,Atlético CP,1,1,D,NaN,NaN,NaN
-POR,27/02/1972,,Os Belenenses,SL Benfica,0,1,A,NaN,NaN,NaN
-POR,27/02/1972,,SC Beira-Mar,Boavista,1,1,D,NaN,NaN,NaN
-POR,27/02/1972,,Sporting CP,Vitória Guimarães,3,0,H,NaN,NaN,NaN
-POR,12/03/1972,,Vitória Guimarães,SC Farense,5,1,H,NaN,NaN,NaN
-POR,12/03/1972,,União Tomar,SL Benfica,0,1,A,NaN,NaN,NaN
-POR,12/03/1972,,Sporting CP,Os Belenenses,2,1,H,NaN,NaN,NaN
-POR,12/03/1972,,Leixões SC,CD da CUF Barreiro,0,0,D,NaN,NaN,NaN
-POR,12/03/1972,,Boavista,FC Tirsense,1,1,D,NaN,NaN,NaN
-POR,12/03/1972,,FC Barreirense,SC Beira-Mar,4,0,H,NaN,NaN,NaN
-POR,12/03/1972,,Atlético CP,Vitória Setúbal,2,2,D,NaN,NaN,NaN
-POR,12/03/1972,,Académica de Coimbra,FC Porto,0,1,A,NaN,NaN,NaN
-POR,19/03/1972,,Vitória Setúbal,Leixões SC,4,0,H,NaN,NaN,NaN
-POR,19/03/1972,,FC Tirsense,FC Barreirense,0,1,A,NaN,NaN,NaN
-POR,19/03/1972,,FC Porto,Vitória Guimarães,1,2,A,NaN,NaN,NaN
-POR,19/03/1972,,SC Farense,Sporting CP,1,1,D,NaN,NaN,NaN
-POR,19/03/1972,,CD da CUF Barreiro,Académica de Coimbra,2,2,D,NaN,NaN,NaN
-POR,19/03/1972,,SL Benfica,Boavista,2,0,H,NaN,NaN,NaN
-POR,19/03/1972,,Os Belenenses,União Tomar,2,0,H,NaN,NaN,NaN
-POR,19/03/1972,,SC Beira-Mar,Atlético CP,5,0,H,NaN,NaN,NaN
-POR,26/03/1972,,Vitória Guimarães,CD da CUF Barreiro,0,0,D,NaN,NaN,NaN
-POR,26/03/1972,,Sporting CP,FC Porto,2,1,H,NaN,NaN,NaN
-POR,26/03/1972,,Leixões SC,SC Beira-Mar,2,1,H,NaN,NaN,NaN
-POR,26/03/1972,,SC Farense,Os Belenenses,3,1,H,NaN,NaN,NaN
-POR,26/03/1972,,Boavista,União Tomar,2,0,H,NaN,NaN,NaN
-POR,26/03/1972,,FC Barreirense,SL Benfica,1,0,H,NaN,NaN,NaN
-POR,26/03/1972,,Atlético CP,FC Tirsense,2,1,H,NaN,NaN,NaN
-POR,26/03/1972,,Académica de Coimbra,Vitória Setúbal,0,2,A,NaN,NaN,NaN
-POR,09/04/1972,,Vitória Setúbal,Vitória Guimarães,1,0,H,NaN,NaN,NaN
-POR,09/04/1972,,União Tomar,FC Barreirense,4,1,H,NaN,NaN,NaN
-POR,09/04/1972,,FC Tirsense,Leixões SC,2,4,A,NaN,NaN,NaN
-POR,09/04/1972,,FC Porto,SC Farense,2,0,H,NaN,NaN,NaN
-POR,09/04/1972,,CD da CUF Barreiro,Sporting CP,0,0,D,NaN,NaN,NaN
-POR,09/04/1972,,SL Benfica,Atlético CP,5,1,H,NaN,NaN,NaN
-POR,09/04/1972,,Os Belenenses,Boavista,4,1,H,NaN,NaN,NaN
-POR,09/04/1972,,SC Beira-Mar,Académica de Coimbra,1,0,H,NaN,NaN,NaN
-POR,16/04/1972,,Vitória Guimarães,SC Beira-Mar,5,1,H,NaN,NaN,NaN
-POR,16/04/1972,,Sporting CP,Vitória Setúbal,0,0,D,NaN,NaN,NaN
-POR,16/04/1972,,FC Porto,Os Belenenses,3,2,H,NaN,NaN,NaN
-POR,16/04/1972,,Leixões SC,SL Benfica,0,1,A,NaN,NaN,NaN
-POR,16/04/1972,,SC Farense,CD da CUF Barreiro,2,2,D,NaN,NaN,NaN
-POR,16/04/1972,,FC Barreirense,Boavista,0,1,A,NaN,NaN,NaN
-POR,16/04/1972,,Atlético CP,União Tomar,2,0,H,NaN,NaN,NaN
-POR,16/04/1972,,Académica de Coimbra,FC Tirsense,1,1,D,NaN,NaN,NaN
-POR,07/05/1972,,Vitória Setúbal,SC Farense,4,0,H,NaN,NaN,NaN
-POR,07/05/1972,,União Tomar,Leixões SC,1,0,H,NaN,NaN,NaN
-POR,07/05/1972,,FC Tirsense,Vitória Guimarães,1,2,A,NaN,NaN,NaN
-POR,07/05/1972,,CD da CUF Barreiro,FC Porto,1,0,H,NaN,NaN,NaN
-POR,07/05/1972,,Boavista,Atlético CP,2,1,H,NaN,NaN,NaN
-POR,07/05/1972,,SL Benfica,Académica de Coimbra,3,1,H,NaN,NaN,NaN
-POR,07/05/1972,,Os Belenenses,FC Barreirense,1,2,A,NaN,NaN,NaN
-POR,07/05/1972,,SC Beira-Mar,Sporting CP,0,1,A,NaN,NaN,NaN
-POR,14/05/1972,,Vitória Guimarães,SL Benfica,1,3,A,NaN,NaN,NaN
-POR,14/05/1972,,Sporting CP,FC Tirsense,3,2,H,NaN,NaN,NaN
-POR,14/05/1972,,FC Porto,Vitória Setúbal,0,1,A,NaN,NaN,NaN
-POR,14/05/1972,,Leixões SC,Boavista,0,0,D,NaN,NaN,NaN
-POR,14/05/1972,,SC Farense,SC Beira-Mar,2,0,H,NaN,NaN,NaN
-POR,14/05/1972,,CD da CUF Barreiro,Os Belenenses,0,1,A,NaN,NaN,NaN
-POR,14/05/1972,,Atlético CP,FC Barreirense,1,0,H,NaN,NaN,NaN
-POR,14/05/1972,,Académica de Coimbra,União Tomar,3,0,H,NaN,NaN,NaN
-POR,21/05/1972,,Vitória Setúbal,CD da CUF Barreiro,0,1,A,NaN,NaN,NaN
-POR,21/05/1972,,União Tomar,Vitória Guimarães,3,2,H,NaN,NaN,NaN
-POR,21/05/1972,,FC Tirsense,SC Farense,2,0,H,NaN,NaN,NaN
-POR,21/05/1972,,Boavista,Académica de Coimbra,2,0,H,NaN,NaN,NaN
-POR,21/05/1972,,SL Benfica,Sporting CP,2,1,H,NaN,NaN,NaN
-POR,21/05/1972,,SC Beira-Mar,FC Porto,1,5,A,NaN,NaN,NaN
-POR,21/05/1972,,FC Barreirense,Leixões SC,4,0,H,NaN,NaN,NaN
-POR,21/05/1972,,Atlético CP,Os Belenenses,1,1,D,NaN,NaN,NaN
-POR,28/05/1972,,Vitória Guimarães,Boavista,2,1,H,NaN,NaN,NaN
-POR,28/05/1972,,Sporting CP,União Tomar,2,0,H,NaN,NaN,NaN
-POR,28/05/1972,,FC Porto,FC Tirsense,6,0,H,NaN,NaN,NaN
-POR,28/05/1972,,Leixões SC,Atlético CP,0,1,A,NaN,NaN,NaN
-POR,28/05/1972,,SC Farense,SL Benfica,2,5,A,NaN,NaN,NaN
-POR,28/05/1972,,CD da CUF Barreiro,SC Beira-Mar,5,1,H,NaN,NaN,NaN
-POR,28/05/1972,,Os Belenenses,Vitória Setúbal,0,0,D,NaN,NaN,NaN
-POR,28/05/1972,,Académica de Coimbra,FC Barreirense,2,0,H,NaN,NaN,NaN
+POR,1971-09-12,,Vitória Setúbal,SC Beira-Mar,4,0,H,,,
+POR,1971-09-12,,Vitória Guimarães,FC Barreirense,2,0,H,,,
+POR,1971-09-12,,Sporting CP,Boavista,4,1,H,,,
+POR,1971-09-12,,FC Porto,SL Benfica,1,3,A,,,
+POR,1971-09-12,,SC Farense,União Tomar,1,0,H,,,
+POR,1971-09-12,,CD da CUF Barreiro,FC Tirsense,4,0,H,,,
+POR,1971-09-12,,Os Belenenses,Leixões SC,0,1,A,,,
+POR,1971-09-12,,Académica de Coimbra,Atlético CP,0,2,A,,,
+POR,1971-09-19,,União Tomar,FC Porto,0,2,A,,,
+POR,1971-09-19,,FC Tirsense,Vitória Setúbal,0,1,A,,,
+POR,1971-09-19,,Leixões SC,Académica de Coimbra,1,0,H,,,
+POR,1971-09-19,,Boavista,SC Farense,1,0,H,,,
+POR,1971-09-19,,SL Benfica,CD da CUF Barreiro,1,1,D,,,
+POR,1971-09-19,,SC Beira-Mar,Os Belenenses,1,3,A,,,
+POR,1971-09-19,,FC Barreirense,Sporting CP,1,2,A,,,
+POR,1971-09-19,,Atlético CP,Vitória Guimarães,2,2,D,,,
+POR,1971-09-26,,Vitória Setúbal,SL Benfica,1,3,A,,,
+POR,1971-09-26,,Vitória Guimarães,Leixões SC,3,2,H,,,
+POR,1971-09-26,,Sporting CP,Atlético CP,2,0,H,,,
+POR,1971-09-26,,FC Porto,Boavista,6,0,H,,,
+POR,1971-09-26,,SC Farense,FC Barreirense,1,0,H,,,
+POR,1971-09-26,,CD da CUF Barreiro,União Tomar,2,1,H,,,
+POR,1971-09-26,,Os Belenenses,Académica de Coimbra,0,1,A,,,
+POR,1971-09-26,,SC Beira-Mar,FC Tirsense,0,0,D,,,
+POR,1971-10-03,,União Tomar,Vitória Setúbal,0,3,A,,,
+POR,1971-10-03,,FC Tirsense,Os Belenenses,1,0,H,,,
+POR,1971-10-03,,Leixões SC,Sporting CP,1,3,A,,,
+POR,1971-10-03,,Boavista,CD da CUF Barreiro,2,0,H,,,
+POR,1971-10-03,,SL Benfica,SC Beira-Mar,2,1,H,,,
+POR,1971-10-03,,FC Barreirense,FC Porto,1,1,D,,,
+POR,1971-10-03,,Atlético CP,SC Farense,3,2,H,,,
+POR,1971-10-03,,Académica de Coimbra,Vitória Guimarães,4,1,H,,,
+POR,1971-10-17,,Vitória Setúbal,Boavista,5,1,H,,,
+POR,1971-10-17,,FC Tirsense,SL Benfica,0,3,A,,,
+POR,1971-10-17,,Sporting CP,Académica de Coimbra,1,0,H,,,
+POR,1971-10-17,,FC Porto,Atlético CP,1,3,A,,,
+POR,1971-10-17,,SC Farense,Leixões SC,4,3,H,,,
+POR,1971-10-17,,CD da CUF Barreiro,FC Barreirense,1,1,D,,,
+POR,1971-10-17,,Os Belenenses,Vitória Guimarães,0,1,A,,,
+POR,1971-10-17,,SC Beira-Mar,União Tomar,2,1,H,,,
+POR,1971-10-24,,União Tomar,FC Tirsense,2,0,H,,,
+POR,1971-10-24,,Leixões SC,FC Porto,0,1,A,,,
+POR,1971-10-24,,Boavista,SC Beira-Mar,0,0,D,,,
+POR,1971-10-24,,SL Benfica,Os Belenenses,1,0,H,,,
+POR,1971-10-24,,FC Barreirense,Vitória Setúbal,1,1,D,,,
+POR,1971-10-24,,Atlético CP,CD da CUF Barreiro,0,1,A,,,
+POR,1971-10-24,,Académica de Coimbra,SC Farense,0,0,D,,,
+POR,1971-10-24,,Vitória Guimarães,Sporting CP,1,2,A,,,
+POR,1971-10-31,,Vitória Setúbal,Atlético CP,3,0,H,,,
+POR,1971-10-31,,FC Tirsense,Boavista,1,0,H,,,
+POR,1971-10-31,,FC Porto,Académica de Coimbra,2,3,A,,,
+POR,1971-10-31,,SC Farense,Vitória Guimarães,1,0,H,,,
+POR,1971-10-31,,CD da CUF Barreiro,Leixões SC,4,0,H,,,
+POR,1971-10-31,,SL Benfica,União Tomar,3,0,H,,,
+POR,1971-10-31,,Os Belenenses,Sporting CP,2,1,H,,,
+POR,1971-10-31,,SC Beira-Mar,FC Barreirense,1,2,A,,,
+POR,1971-11-07,,Vitória Guimarães,FC Porto,0,4,A,,,
+POR,1971-11-07,,União Tomar,Os Belenenses,0,0,D,,,
+POR,1971-11-07,,Sporting CP,SC Farense,2,0,H,,,
+POR,1971-11-07,,Leixões SC,Vitória Setúbal,1,3,A,,,
+POR,1971-11-07,,Boavista,SL Benfica,2,2,D,,,
+POR,1971-11-07,,FC Barreirense,FC Tirsense,2,1,H,,,
+POR,1971-11-07,,Atlético CP,SC Beira-Mar,2,3,A,,,
+POR,1971-11-07,,Académica de Coimbra,CD da CUF Barreiro,0,1,A,,,
+POR,1971-11-28,,Vitória Setúbal,Académica de Coimbra,1,0,H,,,
+POR,1971-11-28,,União Tomar,Boavista,0,0,D,,,
+POR,1971-11-28,,FC Tirsense,Atlético CP,1,0,H,,,
+POR,1971-11-28,,FC Porto,Sporting CP,0,0,D,,,
+POR,1971-11-28,,CD da CUF Barreiro,Vitória Guimarães,5,3,H,,,
+POR,1971-11-28,,SL Benfica,FC Barreirense,5,1,H,,,
+POR,1971-11-28,,Os Belenenses,SC Farense,2,1,H,,,
+POR,1971-11-28,,SC Beira-Mar,Leixões SC,0,0,D,,,
+POR,1971-12-05,,Vitória Guimarães,Vitória Setúbal,1,1,D,,,
+POR,1971-12-05,,Sporting CP,CD da CUF Barreiro,3,0,H,,,
+POR,1971-12-05,,Leixões SC,FC Tirsense,1,1,D,,,
+POR,1971-12-05,,SC Farense,FC Porto,0,0,D,,,
+POR,1971-12-05,,Boavista,Os Belenenses,2,0,H,,,
+POR,1971-12-05,,FC Barreirense,União Tomar,0,3,A,,,
+POR,1971-12-05,,Atlético CP,SL Benfica,1,5,A,,,
+POR,1971-12-05,,Académica de Coimbra,SC Beira-Mar,0,1,A,,,
+POR,1971-12-12,,Vitória Setúbal,Sporting CP,0,0,D,,,
+POR,1971-12-12,,União Tomar,Atlético CP,3,1,H,,,
+POR,1971-12-12,,FC Tirsense,Académica de Coimbra,1,0,H,,,
+POR,1971-12-12,,CD da CUF Barreiro,SC Farense,2,1,H,,,
+POR,1971-12-12,,Boavista,FC Barreirense,1,2,A,,,
+POR,1971-12-12,,SL Benfica,Leixões SC,6,0,H,,,
+POR,1971-12-12,,Os Belenenses,FC Porto,3,2,H,,,
+POR,1971-12-12,,SC Beira-Mar,Vitória Guimarães,2,1,H,,,
+POR,1971-12-19,,Vitória Guimarães,FC Tirsense,7,1,H,,,
+POR,1971-12-19,,Sporting CP,SC Beira-Mar,0,1,A,,,
+POR,1971-12-19,,FC Porto,CD da CUF Barreiro,1,0,H,,,
+POR,1971-12-19,,Leixões SC,União Tomar,0,1,A,,,
+POR,1971-12-19,,SC Farense,Vitória Setúbal,0,2,A,,,
+POR,1971-12-19,,FC Barreirense,Os Belenenses,1,2,A,,,
+POR,1971-12-19,,Atlético CP,Boavista,1,1,D,,,
+POR,1971-12-19,,Académica de Coimbra,SL Benfica,0,3,A,,,
+POR,1971-12-26,,Vitória Setúbal,FC Porto,2,0,H,,,
+POR,1971-12-26,,União Tomar,Académica de Coimbra,2,1,H,,,
+POR,1971-12-26,,FC Tirsense,Sporting CP,3,5,A,,,
+POR,1971-12-26,,Boavista,Leixões SC,1,3,A,,,
+POR,1971-12-26,,SL Benfica,Vitória Guimarães,3,0,H,,,
+POR,1971-12-26,,Os Belenenses,CD da CUF Barreiro,1,1,D,,,
+POR,1971-12-26,,SC Beira-Mar,SC Farense,1,1,D,,,
+POR,1971-12-26,,FC Barreirense,Atlético CP,2,1,H,,,
+POR,1972-01-02,,Vitória Guimarães,União Tomar,2,0,H,,,
+POR,1972-01-02,,Sporting CP,SL Benfica,0,3,A,,,
+POR,1972-01-02,,FC Porto,SC Beira-Mar,1,0,H,,,
+POR,1972-01-02,,Leixões SC,FC Barreirense,2,0,H,,,
+POR,1972-01-02,,SC Farense,FC Tirsense,2,0,H,,,
+POR,1972-01-02,,CD da CUF Barreiro,Vitória Setúbal,2,2,D,,,
+POR,1972-01-02,,Os Belenenses,Atlético CP,3,1,H,,,
+POR,1972-01-02,,Académica de Coimbra,Boavista,3,1,H,,,
+POR,1972-01-16,,Vitória Setúbal,Os Belenenses,1,1,D,,,
+POR,1972-01-16,,União Tomar,Sporting CP,0,2,A,,,
+POR,1972-01-16,,FC Tirsense,FC Porto,3,3,D,,,
+POR,1972-01-16,,Boavista,Vitória Guimarães,0,1,A,,,
+POR,1972-01-16,,SL Benfica,SC Farense,2,0,H,,,
+POR,1972-01-16,,SC Beira-Mar,CD da CUF Barreiro,1,1,D,,,
+POR,1972-01-16,,FC Barreirense,Académica de Coimbra,1,0,H,,,
+POR,1972-01-16,,Atlético CP,Leixões SC,2,0,H,,,
+POR,1972-01-23,,União Tomar,SC Farense,0,0,D,,,
+POR,1972-01-23,,FC Tirsense,CD da CUF Barreiro,1,1,D,,,
+POR,1972-01-23,,Leixões SC,Os Belenenses,1,3,A,,,
+POR,1972-01-23,,Boavista,Sporting CP,1,1,D,,,
+POR,1972-01-23,,SL Benfica,FC Porto,1,0,H,,,
+POR,1972-01-23,,SC Beira-Mar,Vitória Setúbal,2,2,D,,,
+POR,1972-01-23,,FC Barreirense,Vitória Guimarães,2,2,D,,,
+POR,1972-01-23,,Atlético CP,Académica de Coimbra,1,1,D,,,
+POR,1972-01-30,,Vitória Setúbal,FC Tirsense,6,0,H,,,
+POR,1972-01-30,,Vitória Guimarães,Atlético CP,1,1,D,,,
+POR,1972-01-30,,Sporting CP,FC Barreirense,3,0,H,,,
+POR,1972-01-30,,FC Porto,União Tomar,1,1,D,,,
+POR,1972-01-30,,SC Farense,Boavista,1,1,D,,,
+POR,1972-01-30,,CD da CUF Barreiro,SL Benfica,0,2,A,,,
+POR,1972-01-30,,Os Belenenses,SC Beira-Mar,0,0,D,,,
+POR,1972-01-30,,Académica de Coimbra,Leixões SC,0,0,D,,,
+POR,1972-02-06,,União Tomar,CD da CUF Barreiro,1,1,D,,,
+POR,1972-02-06,,FC Tirsense,SC Beira-Mar,1,1,D,,,
+POR,1972-02-06,,Leixões SC,Vitória Guimarães,1,1,D,,,
+POR,1972-02-06,,Boavista,FC Porto,1,2,A,,,
+POR,1972-02-06,,SL Benfica,Vitória Setúbal,0,0,D,,,
+POR,1972-02-06,,FC Barreirense,SC Farense,3,1,H,,,
+POR,1972-02-06,,Atlético CP,Sporting CP,0,0,D,,,
+POR,1972-02-06,,Académica de Coimbra,Os Belenenses,2,0,H,,,
+POR,1972-02-13,,Vitória Setúbal,União Tomar,5,0,H,,,
+POR,1972-02-13,,Vitória Guimarães,Académica de Coimbra,0,0,D,,,
+POR,1972-02-13,,Sporting CP,Leixões SC,2,2,D,,,
+POR,1972-02-13,,FC Porto,FC Barreirense,1,1,D,,,
+POR,1972-02-13,,SC Farense,Atlético CP,3,1,H,,,
+POR,1972-02-13,,CD da CUF Barreiro,Boavista,2,0,H,,,
+POR,1972-02-13,,Os Belenenses,FC Tirsense,1,0,H,,,
+POR,1972-02-13,,SC Beira-Mar,SL Benfica,1,3,A,,,
+POR,1972-02-20,,Vitória Guimarães,Os Belenenses,1,1,D,,,
+POR,1972-02-20,,União Tomar,SC Beira-Mar,2,0,H,,,
+POR,1972-02-20,,Leixões SC,SC Farense,1,0,H,,,
+POR,1972-02-20,,Boavista,Vitória Setúbal,1,1,D,,,
+POR,1972-02-20,,SL Benfica,FC Tirsense,7,0,H,,,
+POR,1972-02-20,,FC Barreirense,CD da CUF Barreiro,0,2,A,,,
+POR,1972-02-20,,Atlético CP,FC Porto,1,1,D,,,
+POR,1972-02-20,,Académica de Coimbra,Sporting CP,3,3,D,,,
+POR,1972-02-27,,Vitória Setúbal,FC Barreirense,4,0,H,,,
+POR,1972-02-27,,FC Tirsense,União Tomar,1,0,H,,,
+POR,1972-02-27,,FC Porto,Leixões SC,2,0,H,,,
+POR,1972-02-27,,SC Farense,Académica de Coimbra,4,2,H,,,
+POR,1972-02-27,,CD da CUF Barreiro,Atlético CP,1,1,D,,,
+POR,1972-02-27,,Os Belenenses,SL Benfica,0,1,A,,,
+POR,1972-02-27,,SC Beira-Mar,Boavista,1,1,D,,,
+POR,1972-02-27,,Sporting CP,Vitória Guimarães,3,0,H,,,
+POR,1972-03-12,,Vitória Guimarães,SC Farense,5,1,H,,,
+POR,1972-03-12,,União Tomar,SL Benfica,0,1,A,,,
+POR,1972-03-12,,Sporting CP,Os Belenenses,2,1,H,,,
+POR,1972-03-12,,Leixões SC,CD da CUF Barreiro,0,0,D,,,
+POR,1972-03-12,,Boavista,FC Tirsense,1,1,D,,,
+POR,1972-03-12,,FC Barreirense,SC Beira-Mar,4,0,H,,,
+POR,1972-03-12,,Atlético CP,Vitória Setúbal,2,2,D,,,
+POR,1972-03-12,,Académica de Coimbra,FC Porto,0,1,A,,,
+POR,1972-03-19,,Vitória Setúbal,Leixões SC,4,0,H,,,
+POR,1972-03-19,,FC Tirsense,FC Barreirense,0,1,A,,,
+POR,1972-03-19,,FC Porto,Vitória Guimarães,1,2,A,,,
+POR,1972-03-19,,SC Farense,Sporting CP,1,1,D,,,
+POR,1972-03-19,,CD da CUF Barreiro,Académica de Coimbra,2,2,D,,,
+POR,1972-03-19,,SL Benfica,Boavista,2,0,H,,,
+POR,1972-03-19,,Os Belenenses,União Tomar,2,0,H,,,
+POR,1972-03-19,,SC Beira-Mar,Atlético CP,5,0,H,,,
+POR,1972-03-26,,Vitória Guimarães,CD da CUF Barreiro,0,0,D,,,
+POR,1972-03-26,,Sporting CP,FC Porto,2,1,H,,,
+POR,1972-03-26,,Leixões SC,SC Beira-Mar,2,1,H,,,
+POR,1972-03-26,,SC Farense,Os Belenenses,3,1,H,,,
+POR,1972-03-26,,Boavista,União Tomar,2,0,H,,,
+POR,1972-03-26,,FC Barreirense,SL Benfica,1,0,H,,,
+POR,1972-03-26,,Atlético CP,FC Tirsense,2,1,H,,,
+POR,1972-03-26,,Académica de Coimbra,Vitória Setúbal,0,2,A,,,
+POR,1972-04-09,,Vitória Setúbal,Vitória Guimarães,1,0,H,,,
+POR,1972-04-09,,União Tomar,FC Barreirense,4,1,H,,,
+POR,1972-04-09,,FC Tirsense,Leixões SC,2,4,A,,,
+POR,1972-04-09,,FC Porto,SC Farense,2,0,H,,,
+POR,1972-04-09,,CD da CUF Barreiro,Sporting CP,0,0,D,,,
+POR,1972-04-09,,SL Benfica,Atlético CP,5,1,H,,,
+POR,1972-04-09,,Os Belenenses,Boavista,4,1,H,,,
+POR,1972-04-09,,SC Beira-Mar,Académica de Coimbra,1,0,H,,,
+POR,1972-04-16,,Vitória Guimarães,SC Beira-Mar,5,1,H,,,
+POR,1972-04-16,,Sporting CP,Vitória Setúbal,0,0,D,,,
+POR,1972-04-16,,FC Porto,Os Belenenses,3,2,H,,,
+POR,1972-04-16,,Leixões SC,SL Benfica,0,1,A,,,
+POR,1972-04-16,,SC Farense,CD da CUF Barreiro,2,2,D,,,
+POR,1972-04-16,,FC Barreirense,Boavista,0,1,A,,,
+POR,1972-04-16,,Atlético CP,União Tomar,2,0,H,,,
+POR,1972-04-16,,Académica de Coimbra,FC Tirsense,1,1,D,,,
+POR,1972-05-07,,Vitória Setúbal,SC Farense,4,0,H,,,
+POR,1972-05-07,,União Tomar,Leixões SC,1,0,H,,,
+POR,1972-05-07,,FC Tirsense,Vitória Guimarães,1,2,A,,,
+POR,1972-05-07,,CD da CUF Barreiro,FC Porto,1,0,H,,,
+POR,1972-05-07,,Boavista,Atlético CP,2,1,H,,,
+POR,1972-05-07,,SL Benfica,Académica de Coimbra,3,1,H,,,
+POR,1972-05-07,,Os Belenenses,FC Barreirense,1,2,A,,,
+POR,1972-05-07,,SC Beira-Mar,Sporting CP,0,1,A,,,
+POR,1972-05-14,,Vitória Guimarães,SL Benfica,1,3,A,,,
+POR,1972-05-14,,Sporting CP,FC Tirsense,3,2,H,,,
+POR,1972-05-14,,FC Porto,Vitória Setúbal,0,1,A,,,
+POR,1972-05-14,,Leixões SC,Boavista,0,0,D,,,
+POR,1972-05-14,,SC Farense,SC Beira-Mar,2,0,H,,,
+POR,1972-05-14,,CD da CUF Barreiro,Os Belenenses,0,1,A,,,
+POR,1972-05-14,,Atlético CP,FC Barreirense,1,0,H,,,
+POR,1972-05-14,,Académica de Coimbra,União Tomar,3,0,H,,,
+POR,1972-05-21,,Vitória Setúbal,CD da CUF Barreiro,0,1,A,,,
+POR,1972-05-21,,União Tomar,Vitória Guimarães,3,2,H,,,
+POR,1972-05-21,,FC Tirsense,SC Farense,2,0,H,,,
+POR,1972-05-21,,Boavista,Académica de Coimbra,2,0,H,,,
+POR,1972-05-21,,SL Benfica,Sporting CP,2,1,H,,,
+POR,1972-05-21,,SC Beira-Mar,FC Porto,1,5,A,,,
+POR,1972-05-21,,FC Barreirense,Leixões SC,4,0,H,,,
+POR,1972-05-21,,Atlético CP,Os Belenenses,1,1,D,,,
+POR,1972-05-28,,Vitória Guimarães,Boavista,2,1,H,,,
+POR,1972-05-28,,Sporting CP,União Tomar,2,0,H,,,
+POR,1972-05-28,,FC Porto,FC Tirsense,6,0,H,,,
+POR,1972-05-28,,Leixões SC,Atlético CP,0,1,A,,,
+POR,1972-05-28,,SC Farense,SL Benfica,2,5,A,,,
+POR,1972-05-28,,CD da CUF Barreiro,SC Beira-Mar,5,1,H,,,
+POR,1972-05-28,,Os Belenenses,Vitória Setúbal,0,0,D,,,
+POR,1972-05-28,,Académica de Coimbra,FC Barreirense,2,0,H,,,

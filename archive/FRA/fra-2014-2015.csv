@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,08/08/2014,19:30,Stade Reims,Paris Saint-Germain,2,2,D,2,1,H
-FRA,09/08/2014,20:00,SC Bastia,Olympique Marseille,3,3,D,1,2,A
-FRA,09/08/2014,20:00,Évian Thonon Gaillard,SM Caen,0,3,A,0,3,A
-FRA,09/08/2014,20:00,EA Guingamp,AS Saint-Étienne,0,2,A,0,1,A
-FRA,09/08/2014,20:00,Lille OSC,FC Metz,0,0,D,0,0,D
-FRA,09/08/2014,20:00,Montpellier HSC,Girondins Bordeaux,0,1,A,0,1,A
-FRA,09/08/2014,20:00,FC Nantes,RC Lens,1,0,H,0,0,D
-FRA,09/08/2014,20:00,OGC Nice,Toulouse FC,3,2,H,1,2,A
-FRA,10/08/2014,16:00,Olympique Lyon,Stade Rennes,2,0,H,0,0,D
-FRA,10/08/2014,20:00,AS Monaco,FC Lorient,1,2,A,0,1,A
-FRA,15/08/2014,19:30,SM Caen,Lille OSC,0,1,A,0,0,D
-FRA,16/08/2014,16:00,Paris Saint-Germain,SC Bastia,2,0,H,1,0,H
-FRA,16/08/2014,19:00,RC Lens,EA Guingamp,0,1,A,0,0,D
-FRA,16/08/2014,19:00,FC Lorient,OGC Nice,0,0,D,0,0,D
-FRA,16/08/2014,19:00,FC Metz,FC Nantes,1,1,D,1,1,D
-FRA,16/08/2014,19:00,Stade Rennes,Évian Thonon Gaillard,6,2,H,3,1,H
-FRA,16/08/2014,19:00,Toulouse FC,Olympique Lyon,2,1,H,2,0,H
-FRA,17/08/2014,16:00,Olympique Marseille,Montpellier HSC,0,2,A,0,1,A
-FRA,17/08/2014,16:00,AS Saint-Étienne,Stade Reims,3,1,H,0,1,A
-FRA,17/08/2014,20:00,Girondins Bordeaux,AS Monaco,4,1,H,0,1,A
-FRA,22/08/2014,19:30,Évian Thonon Gaillard,Paris Saint-Germain,0,0,D,0,0,D
-FRA,23/08/2014,16:00,EA Guingamp,Olympique Marseille,0,1,A,0,0,D
-FRA,23/08/2014,19:00,SC Bastia,Toulouse FC,1,0,H,1,0,H
-FRA,23/08/2014,19:00,Lille OSC,FC Lorient,2,0,H,0,0,D
-FRA,23/08/2014,19:00,Montpellier HSC,FC Metz,2,0,H,1,0,H
-FRA,23/08/2014,19:00,OGC Nice,Girondins Bordeaux,1,3,A,1,1,D
-FRA,23/08/2014,19:00,Stade Reims,SM Caen,0,2,A,0,0,D
-FRA,24/08/2014,13:00,Olympique Lyon,RC Lens,0,1,A,0,1,A
-FRA,24/08/2014,16:00,AS Saint-Étienne,Stade Rennes,0,0,D,0,0,D
-FRA,24/08/2014,20:00,FC Nantes,AS Monaco,0,1,A,0,1,A
-FRA,29/08/2014,19:30,Olympique Marseille,OGC Nice,4,0,H,2,0,H
-FRA,30/08/2014,16:00,AS Monaco,Lille OSC,1,1,D,0,1,A
-FRA,30/08/2014,19:00,SM Caen,Stade Rennes,0,1,A,0,0,D
-FRA,30/08/2014,19:00,RC Lens,Stade Reims,4,2,H,1,1,D
-FRA,30/08/2014,19:00,FC Lorient,EA Guingamp,4,0,H,0,0,D
-FRA,30/08/2014,19:00,FC Nantes,Montpellier HSC,1,0,H,0,0,D
-FRA,30/08/2014,19:00,Toulouse FC,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,31/08/2014,13:00,Girondins Bordeaux,SC Bastia,1,1,D,0,1,A
-FRA,31/08/2014,16:00,FC Metz,Olympique Lyon,2,1,H,0,0,D
-FRA,31/08/2014,20:00,Paris Saint-Germain,AS Saint-Étienne,5,0,H,2,0,H
-FRA,12/09/2014,19:30,Olympique Lyon,AS Monaco,2,1,H,1,1,D
-FRA,13/09/2014,16:00,Stade Rennes,Paris Saint-Germain,1,1,D,0,1,A
-FRA,13/09/2014,19:00,SC Bastia,RC Lens,1,1,D,0,1,A
-FRA,13/09/2014,19:00,Montpellier HSC,FC Lorient,1,0,H,1,0,H
-FRA,13/09/2014,19:00,OGC Nice,FC Metz,1,0,H,0,0,D
-FRA,13/09/2014,19:00,Stade Reims,Toulouse FC,2,0,H,1,0,H
-FRA,13/09/2014,19:00,AS Saint-Étienne,SM Caen,1,0,H,0,0,D
-FRA,14/09/2014,13:00,Lille OSC,FC Nantes,2,0,H,0,0,D
-FRA,14/09/2014,16:00,EA Guingamp,Girondins Bordeaux,2,1,H,2,0,H
-FRA,14/09/2014,20:00,Évian Thonon Gaillard,Olympique Marseille,1,3,A,0,2,A
-FRA,19/09/2014,19:30,Girondins Bordeaux,Évian Thonon Gaillard,2,1,H,1,0,H
-FRA,20/09/2014,16:00,Olympique Marseille,Stade Rennes,3,0,H,0,0,D
-FRA,20/09/2014,19:00,FC Lorient,Stade Reims,0,1,A,0,0,D
-FRA,20/09/2014,19:00,FC Metz,SC Bastia,3,1,H,1,1,D
-FRA,20/09/2014,19:00,FC Nantes,OGC Nice,2,1,H,2,0,H
-FRA,20/09/2014,19:00,Toulouse FC,SM Caen,3,3,D,1,1,D
-FRA,21/09/2014,13:00,Lille OSC,Montpellier HSC,0,0,D,0,0,D
-FRA,21/09/2014,16:00,RC Lens,AS Saint-Étienne,0,1,A,0,0,D
-FRA,21/09/2014,16:00,AS Monaco,EA Guingamp,1,0,H,1,0,H
-FRA,21/09/2014,20:00,Paris Saint-Germain,Olympique Lyon,1,1,D,1,0,H
-FRA,23/09/2014,18:00,Stade Reims,Olympique Marseille,0,5,A,0,2,A
-FRA,23/09/2014,20:00,Stade Rennes,Toulouse FC,0,3,A,0,1,A
-FRA,24/09/2014,18:00,SC Bastia,FC Nantes,0,0,D,0,0,D
-FRA,24/09/2014,18:00,Évian Thonon Gaillard,RC Lens,2,1,H,2,0,H
-FRA,24/09/2014,18:00,EA Guingamp,FC Metz,0,1,A,0,1,A
-FRA,24/09/2014,18:00,Olympique Lyon,FC Lorient,4,0,H,2,0,H
-FRA,24/09/2014,18:00,Montpellier HSC,AS Monaco,0,1,A,0,0,D
-FRA,24/09/2014,18:00,OGC Nice,Lille OSC,1,0,H,1,0,H
-FRA,24/09/2014,20:00,SM Caen,Paris Saint-Germain,0,2,A,0,1,A
-FRA,25/09/2014,20:00,AS Saint-Étienne,Girondins Bordeaux,1,1,D,1,1,D
-FRA,27/09/2014,13:00,AS Monaco,OGC Nice,0,1,A,0,1,A
-FRA,27/09/2014,16:00,Toulouse FC,Paris Saint-Germain,1,1,D,1,1,D
-FRA,27/09/2014,19:00,Lille OSC,SC Bastia,1,0,H,1,0,H
-FRA,27/09/2014,19:00,FC Lorient,Évian Thonon Gaillard,0,2,A,0,1,A
-FRA,27/09/2014,19:00,FC Metz,Stade Reims,3,0,H,0,0,D
-FRA,27/09/2014,19:00,Montpellier HSC,EA Guingamp,2,1,H,0,0,D
-FRA,28/09/2014,13:00,Girondins Bordeaux,Stade Rennes,2,1,H,0,0,D
-FRA,28/09/2014,16:00,RC Lens,SM Caen,0,0,D,0,0,D
-FRA,28/09/2014,16:00,FC Nantes,Olympique Lyon,1,1,D,0,0,D
-FRA,28/09/2014,20:00,Olympique Marseille,AS Saint-Étienne,2,1,H,2,0,H
-FRA,03/10/2014,19:30,Stade Reims,Girondins Bordeaux,1,0,H,1,0,H
-FRA,04/10/2014,16:00,SM Caen,Olympique Marseille,1,2,A,0,0,D
-FRA,04/10/2014,19:00,SC Bastia,FC Lorient,0,2,A,0,0,D
-FRA,04/10/2014,19:00,Évian Thonon Gaillard,FC Metz,3,0,H,0,0,D
-FRA,04/10/2014,19:00,OGC Nice,Montpellier HSC,1,1,D,0,0,D
-FRA,04/10/2014,19:00,Stade Rennes,RC Lens,2,0,H,0,0,D
-FRA,05/10/2014,13:00,AS Saint-Étienne,Toulouse FC,0,1,A,0,1,A
-FRA,05/10/2014,16:00,EA Guingamp,FC Nantes,0,1,A,0,1,A
-FRA,05/10/2014,16:00,Olympique Lyon,Lille OSC,3,0,H,2,0,H
-FRA,05/10/2014,20:00,Paris Saint-Germain,AS Monaco,1,1,D,0,0,D
-FRA,17/10/2014,19:30,RC Lens,Paris Saint-Germain,1,3,A,1,2,A
-FRA,18/10/2014,16:00,FC Lorient,AS Saint-Étienne,0,1,A,0,0,D
-FRA,18/10/2014,19:00,Lille OSC,EA Guingamp,1,2,A,0,1,A
-FRA,18/10/2014,19:00,FC Metz,Stade Rennes,0,0,D,0,0,D
-FRA,18/10/2014,19:00,AS Monaco,Évian Thonon Gaillard,2,0,H,1,0,H
-FRA,18/10/2014,19:00,FC Nantes,Stade Reims,1,1,D,1,0,H
-FRA,18/10/2014,19:00,OGC Nice,SC Bastia,0,1,A,0,0,D
-FRA,19/10/2014,13:00,Olympique Marseille,Toulouse FC,2,0,H,2,0,H
-FRA,19/10/2014,16:00,Girondins Bordeaux,SM Caen,1,1,D,1,0,H
-FRA,19/10/2014,20:00,Olympique Lyon,Montpellier HSC,5,1,H,2,0,H
-FRA,24/10/2014,19:30,Toulouse FC,RC Lens,0,2,A,0,2,A
-FRA,25/10/2014,16:00,Paris Saint-Germain,Girondins Bordeaux,3,0,H,1,0,H
-FRA,25/10/2014,19:00,SC Bastia,AS Monaco,1,3,A,1,1,D
-FRA,25/10/2014,19:00,SM Caen,FC Lorient,2,1,H,1,1,D
-FRA,25/10/2014,19:00,Évian Thonon Gaillard,FC Nantes,0,2,A,0,1,A
-FRA,25/10/2014,19:00,Stade Reims,Montpellier HSC,1,0,H,0,0,D
-FRA,26/10/2014,13:00,Stade Rennes,Lille OSC,2,0,H,0,0,D
-FRA,26/10/2014,16:00,EA Guingamp,OGC Nice,2,7,A,1,4,A
-FRA,26/10/2014,16:00,AS Saint-Étienne,FC Metz,1,0,H,0,0,D
-FRA,26/10/2014,20:00,Olympique Lyon,Olympique Marseille,1,0,H,0,0,D
-FRA,31/10/2014,19:30,AS Monaco,Stade Reims,1,1,D,1,0,H
-FRA,01/11/2014,16:00,FC Lorient,Paris Saint-Germain,1,2,A,1,0,H
-FRA,01/11/2014,19:00,EA Guingamp,SC Bastia,1,0,H,1,0,H
-FRA,01/11/2014,19:00,Lille OSC,AS Saint-Étienne,1,1,D,1,0,H
-FRA,01/11/2014,19:00,FC Metz,SM Caen,3,2,H,1,0,H
-FRA,01/11/2014,19:00,Montpellier HSC,Évian Thonon Gaillard,2,0,H,1,0,H
-FRA,01/11/2014,19:00,OGC Nice,Olympique Lyon,1,3,A,0,0,D
-FRA,02/11/2014,13:00,FC Nantes,Stade Rennes,1,1,D,1,1,D
-FRA,02/11/2014,16:00,Girondins Bordeaux,Toulouse FC,2,1,H,0,0,D
-FRA,02/11/2014,20:00,Olympique Marseille,RC Lens,2,1,H,1,1,D
-FRA,07/11/2014,19:30,Stade Rennes,FC Lorient,1,0,H,0,0,D
-FRA,08/11/2014,16:00,RC Lens,Girondins Bordeaux,1,2,A,0,2,A
-FRA,08/11/2014,19:00,SC Bastia,Montpellier HSC,2,0,H,2,0,H
-FRA,08/11/2014,19:00,SM Caen,FC Nantes,1,2,A,1,1,D
-FRA,08/11/2014,19:00,Évian Thonon Gaillard,OGC Nice,1,0,H,0,0,D
-FRA,08/11/2014,19:00,Toulouse FC,FC Metz,3,0,H,1,0,H
-FRA,09/11/2014,13:00,Olympique Lyon,EA Guingamp,3,1,H,2,1,H
-FRA,09/11/2014,16:00,Stade Reims,Lille OSC,2,0,H,2,0,H
-FRA,09/11/2014,16:00,AS Saint-Étienne,AS Monaco,1,1,D,0,1,A
-FRA,09/11/2014,20:00,Paris Saint-Germain,Olympique Marseille,2,0,H,1,0,H
-FRA,21/11/2014,19:30,FC Metz,Paris Saint-Germain,2,3,A,0,2,A
-FRA,22/11/2014,16:00,SC Bastia,Olympique Lyon,0,0,D,0,0,D
-FRA,22/11/2014,19:00,EA Guingamp,Stade Rennes,0,1,A,0,1,A
-FRA,22/11/2014,19:00,FC Lorient,RC Lens,1,0,H,1,0,H
-FRA,22/11/2014,19:00,AS Monaco,SM Caen,2,2,D,1,0,H
-FRA,22/11/2014,19:00,OGC Nice,Stade Reims,0,0,D,0,0,D
-FRA,23/11/2014,13:00,FC Nantes,AS Saint-Étienne,0,0,D,0,0,D
-FRA,23/11/2014,16:00,Montpellier HSC,Toulouse FC,2,0,H,1,0,H
-FRA,23/11/2014,20:00,Olympique Marseille,Girondins Bordeaux,3,1,H,0,0,D
-FRA,07/01/2015,19:30,Lille OSC,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,28/11/2014,19:30,Olympique Marseille,FC Nantes,2,0,H,2,0,H
-FRA,29/11/2014,16:00,Paris Saint-Germain,OGC Nice,1,0,H,1,0,H
-FRA,29/11/2014,19:00,SM Caen,Montpellier HSC,1,1,D,1,1,D
-FRA,29/11/2014,19:00,RC Lens,FC Metz,2,0,H,0,0,D
-FRA,29/11/2014,19:00,Stade Reims,SC Bastia,2,1,H,1,1,D
-FRA,29/11/2014,19:00,Stade Rennes,AS Monaco,2,0,H,2,0,H
-FRA,29/11/2014,19:00,Toulouse FC,FC Lorient,2,3,A,1,0,H
-FRA,30/11/2014,13:00,Girondins Bordeaux,Lille OSC,1,0,H,0,0,D
-FRA,30/11/2014,16:00,Évian Thonon Gaillard,EA Guingamp,2,0,H,0,0,D
-FRA,30/11/2014,20:00,AS Saint-Étienne,Olympique Lyon,3,0,H,2,0,H
-FRA,02/12/2014,18:00,FC Lorient,Olympique Marseille,1,1,D,1,1,D
-FRA,02/12/2014,18:00,FC Nantes,Toulouse FC,1,2,A,0,1,A
-FRA,02/12/2014,20:00,AS Monaco,RC Lens,2,0,H,0,0,D
-FRA,03/12/2014,18:00,SC Bastia,Évian Thonon Gaillard,1,2,A,1,0,H
-FRA,03/12/2014,18:00,EA Guingamp,SM Caen,5,1,H,2,1,H
-FRA,03/12/2014,18:00,FC Metz,Girondins Bordeaux,0,0,D,0,0,D
-FRA,03/12/2014,18:00,Montpellier HSC,AS Saint-Étienne,0,2,A,0,2,A
-FRA,03/12/2014,18:00,OGC Nice,Stade Rennes,1,2,A,0,1,A
-FRA,03/12/2014,20:00,Lille OSC,Paris Saint-Germain,1,1,D,1,1,D
-FRA,04/12/2014,20:00,Olympique Lyon,Stade Reims,2,1,H,1,1,D
-FRA,05/12/2014,19:30,Toulouse FC,AS Monaco,0,2,A,0,1,A
-FRA,06/12/2014,16:00,Paris Saint-Germain,FC Nantes,2,1,H,1,1,D
-FRA,06/12/2014,19:00,Girondins Bordeaux,FC Lorient,3,2,H,1,1,D
-FRA,06/12/2014,19:00,SM Caen,OGC Nice,2,3,A,2,1,H
-FRA,06/12/2014,19:00,Stade Rennes,Montpellier HSC,0,4,A,0,1,A
-FRA,06/12/2014,19:00,AS Saint-Étienne,SC Bastia,1,0,H,0,0,D
-FRA,07/12/2014,13:00,Évian Thonon Gaillard,Olympique Lyon,2,3,A,1,0,H
-FRA,07/12/2014,16:00,RC Lens,Lille OSC,1,1,D,0,0,D
-FRA,07/12/2014,16:00,Stade Reims,EA Guingamp,2,3,A,1,1,D
-FRA,07/12/2014,20:00,Olympique Marseille,FC Metz,3,1,H,1,0,H
-FRA,12/12/2014,19:30,Olympique Lyon,SM Caen,3,0,H,1,0,H
-FRA,13/12/2014,16:00,FC Nantes,Girondins Bordeaux,2,1,H,1,1,D
-FRA,13/12/2014,19:00,SC Bastia,Stade Rennes,2,0,H,1,0,H
-FRA,13/12/2014,19:00,FC Lorient,FC Metz,3,1,H,3,0,H
-FRA,13/12/2014,19:00,Montpellier HSC,RC Lens,3,3,D,2,2,D
-FRA,13/12/2014,19:00,Stade Reims,Évian Thonon Gaillard,3,2,H,1,0,H
-FRA,14/12/2014,13:00,OGC Nice,AS Saint-Étienne,0,0,D,0,0,D
-FRA,14/12/2014,16:00,EA Guingamp,Paris Saint-Germain,1,0,H,1,0,H
-FRA,14/12/2014,16:00,Lille OSC,Toulouse FC,3,0,H,1,0,H
-FRA,14/12/2014,20:00,AS Monaco,Olympique Marseille,1,0,H,0,0,D
-FRA,19/12/2014,19:30,RC Lens,OGC Nice,2,0,H,1,0,H
-FRA,20/12/2014,16:00,Paris Saint-Germain,Montpellier HSC,0,0,D,0,0,D
-FRA,20/12/2014,19:00,SM Caen,SC Bastia,1,1,D,0,1,A
-FRA,20/12/2014,19:00,FC Lorient,FC Nantes,1,2,A,0,1,A
-FRA,20/12/2014,19:00,FC Metz,AS Monaco,0,1,A,0,0,D
-FRA,20/12/2014,19:00,Stade Rennes,Stade Reims,1,3,A,1,0,H
-FRA,20/12/2014,19:00,Toulouse FC,EA Guingamp,1,1,D,1,1,D
-FRA,21/12/2014,13:00,Olympique Marseille,Lille OSC,2,1,H,1,0,H
-FRA,21/12/2014,16:00,AS Saint-Étienne,Évian Thonon Gaillard,3,0,H,2,0,H
-FRA,21/12/2014,20:00,Girondins Bordeaux,Olympique Lyon,0,5,A,0,1,A
-FRA,09/01/2015,19:30,Montpellier HSC,Olympique Marseille,2,1,H,1,0,H
-FRA,10/01/2015,16:00,SC Bastia,Paris Saint-Germain,4,2,H,2,2,D
-FRA,10/01/2015,19:00,Lille OSC,SM Caen,1,0,H,1,0,H
-FRA,10/01/2015,19:00,EA Guingamp,RC Lens,2,0,H,1,0,H
-FRA,10/01/2015,19:00,OGC Nice,FC Lorient,3,1,H,1,1,D
-FRA,10/01/2015,19:00,Évian Thonon Gaillard,Stade Rennes,1,1,D,0,0,D
-FRA,10/01/2015,19:00,Stade Reims,AS Saint-Étienne,1,2,A,0,1,A
-FRA,11/01/2015,16:00,FC Nantes,FC Metz,0,0,D,0,0,D
-FRA,11/01/2015,16:00,Olympique Lyon,Toulouse FC,3,0,H,2,0,H
-FRA,11/01/2015,20:00,AS Monaco,Girondins Bordeaux,0,0,D,0,0,D
-FRA,16/01/2015,19:30,Girondins Bordeaux,OGC Nice,1,2,A,1,0,H
-FRA,17/01/2015,16:00,RC Lens,Olympique Lyon,0,2,A,0,2,A
-FRA,17/01/2015,19:00,Toulouse FC,SC Bastia,1,1,D,0,0,D
-FRA,17/01/2015,19:00,FC Lorient,Lille OSC,1,0,H,0,0,D
-FRA,17/01/2015,19:00,FC Metz,Montpellier HSC,2,3,A,2,1,H
-FRA,17/01/2015,19:00,AS Monaco,FC Nantes,1,0,H,0,0,D
-FRA,17/01/2015,19:00,SM Caen,Stade Reims,4,1,H,3,1,H
-FRA,18/01/2015,13:00,Paris Saint-Germain,Évian Thonon Gaillard,4,2,H,2,1,H
-FRA,18/01/2015,16:00,Stade Rennes,AS Saint-Étienne,0,0,D,0,0,D
-FRA,18/01/2015,20:00,Olympique Marseille,EA Guingamp,2,1,H,0,0,D
-FRA,23/01/2015,19:30,OGC Nice,Olympique Marseille,2,1,H,0,0,D
-FRA,24/01/2015,16:00,Lille OSC,AS Monaco,0,1,A,0,0,D
-FRA,24/01/2015,19:00,SC Bastia,Girondins Bordeaux,0,0,D,0,0,D
-FRA,24/01/2015,19:00,EA Guingamp,FC Lorient,3,2,H,1,0,H
-FRA,24/01/2015,19:00,Montpellier HSC,FC Nantes,4,0,H,1,0,H
-FRA,25/01/2015,13:00,Olympique Lyon,FC Metz,2,0,H,1,0,H
-FRA,25/01/2015,13:00,Évian Thonon Gaillard,Toulouse FC,1,0,H,1,0,H
-FRA,25/01/2015,16:00,Stade Rennes,SM Caen,1,4,A,1,1,D
-FRA,25/01/2015,16:00,Stade Reims,RC Lens,0,0,D,0,0,D
-FRA,25/01/2015,20:00,AS Saint-Étienne,Paris Saint-Germain,0,1,A,0,0,D
-FRA,30/01/2015,19:30,Paris Saint-Germain,Stade Rennes,1,0,H,1,0,H
-FRA,31/01/2015,15:30,Olympique Marseille,Évian Thonon Gaillard,1,0,H,0,0,D
-FRA,31/01/2015,19:00,RC Lens,SC Bastia,1,1,D,0,0,D
-FRA,31/01/2015,19:00,FC Nantes,Lille OSC,1,1,D,0,1,A
-FRA,31/01/2015,19:00,FC Lorient,Montpellier HSC,0,0,D,0,0,D
-FRA,31/01/2015,19:00,FC Metz,OGC Nice,0,0,D,0,0,D
-FRA,31/01/2015,19:00,Toulouse FC,Stade Reims,1,0,H,1,0,H
-FRA,01/02/2015,13:00,SM Caen,AS Saint-Étienne,1,0,H,1,0,H
-FRA,01/02/2015,16:00,Girondins Bordeaux,EA Guingamp,1,1,D,0,1,A
-FRA,01/02/2015,20:00,AS Monaco,Olympique Lyon,0,0,D,0,0,D
-FRA,06/02/2015,19:30,AS Saint-Étienne,RC Lens,3,3,D,1,0,H
-FRA,07/02/2015,15:00,Stade Rennes,Olympique Marseille,1,1,D,1,0,H
-FRA,07/02/2015,19:00,Évian Thonon Gaillard,Girondins Bordeaux,0,1,A,0,1,A
-FRA,07/02/2015,19:00,Montpellier HSC,Lille OSC,1,2,A,0,1,A
-FRA,07/02/2015,19:00,Stade Reims,FC Lorient,1,3,A,1,0,H
-FRA,07/02/2015,19:00,SC Bastia,FC Metz,2,0,H,0,0,D
-FRA,07/02/2015,19:00,SM Caen,Toulouse FC,2,0,H,1,0,H
-FRA,08/02/2015,13:00,EA Guingamp,AS Monaco,1,0,H,0,0,D
-FRA,08/02/2015,16:00,OGC Nice,FC Nantes,0,0,D,0,0,D
-FRA,08/02/2015,20:00,Olympique Lyon,Paris Saint-Germain,1,1,D,1,0,H
-FRA,13/02/2015,19:30,Olympique Marseille,Stade Reims,2,2,D,0,1,A
-FRA,14/02/2015,15:00,Paris Saint-Germain,SM Caen,2,2,D,2,0,H
-FRA,14/02/2015,19:00,FC Nantes,SC Bastia,0,2,A,0,1,A
-FRA,14/02/2015,19:00,RC Lens,Évian Thonon Gaillard,0,2,A,0,2,A
-FRA,14/02/2015,19:00,Lille OSC,OGC Nice,0,0,D,0,0,D
-FRA,14/02/2015,19:00,Toulouse FC,Stade Rennes,2,1,H,1,0,H
-FRA,15/02/2015,13:00,Girondins Bordeaux,AS Saint-Étienne,1,0,H,1,0,H
-FRA,15/02/2015,16:00,FC Metz,EA Guingamp,0,2,A,0,2,A
-FRA,15/02/2015,20:00,FC Lorient,Olympique Lyon,1,1,D,0,0,D
-FRA,07/04/2015,18:00,AS Monaco,Montpellier HSC,0,0,D,0,0,D
-FRA,20/02/2015,19:30,OGC Nice,AS Monaco,0,1,A,0,0,D
-FRA,21/02/2015,16:00,Paris Saint-Germain,Toulouse FC,3,1,H,1,0,H
-FRA,21/02/2015,19:00,Stade Rennes,Girondins Bordeaux,1,1,D,1,0,H
-FRA,21/02/2015,19:00,SM Caen,RC Lens,4,1,H,3,1,H
-FRA,21/02/2015,19:00,SC Bastia,Lille OSC,2,1,H,2,1,H
-FRA,22/02/2015,13:00,EA Guingamp,Montpellier HSC,0,2,A,0,1,A
-FRA,22/02/2015,16:00,Stade Reims,FC Metz,0,0,D,0,0,D
-FRA,22/02/2015,16:00,Olympique Lyon,FC Nantes,1,0,H,0,0,D
-FRA,22/02/2015,20:00,AS Saint-Étienne,Olympique Marseille,2,2,D,0,0,D
-FRA,04/03/2015,18:00,Évian Thonon Gaillard,FC Lorient,1,0,H,1,0,H
-FRA,27/02/2015,19:30,Olympique Marseille,SM Caen,2,3,A,1,0,H
-FRA,28/02/2015,15:00,Lille OSC,Olympique Lyon,2,1,H,0,1,A
-FRA,28/02/2015,19:00,FC Lorient,SC Bastia,2,0,H,1,0,H
-FRA,28/02/2015,19:00,FC Metz,Évian Thonon Gaillard,1,2,A,1,1,D
-FRA,28/02/2015,19:00,Girondins Bordeaux,Stade Reims,1,1,D,1,1,D
-FRA,28/02/2015,19:00,RC Lens,Stade Rennes,0,1,A,0,1,A
-FRA,28/02/2015,19:00,Toulouse FC,AS Saint-Étienne,1,1,D,0,1,A
-FRA,01/03/2015,13:00,FC Nantes,EA Guingamp,1,0,H,0,0,D
-FRA,01/03/2015,16:00,Montpellier HSC,OGC Nice,2,1,H,1,1,D
-FRA,01/03/2015,20:00,AS Monaco,Paris Saint-Germain,0,0,D,0,0,D
-FRA,06/03/2015,19:30,Toulouse FC,Olympique Marseille,1,6,A,0,4,A
-FRA,07/03/2015,16:00,Paris Saint-Germain,RC Lens,4,1,H,1,0,H
-FRA,07/03/2015,19:00,SM Caen,Girondins Bordeaux,1,2,A,0,0,D
-FRA,07/03/2015,19:00,Stade Rennes,FC Metz,1,0,H,1,0,H
-FRA,07/03/2015,19:00,Évian Thonon Gaillard,AS Monaco,1,3,A,0,2,A
-FRA,07/03/2015,19:00,Stade Reims,FC Nantes,3,1,H,2,0,H
-FRA,07/03/2015,19:00,SC Bastia,OGC Nice,2,1,H,1,1,D
-FRA,08/03/2015,13:00,AS Saint-Étienne,FC Lorient,2,0,H,0,0,D
-FRA,08/03/2015,16:00,EA Guingamp,Lille OSC,0,1,A,0,0,D
-FRA,08/03/2015,20:00,Montpellier HSC,Olympique Lyon,1,5,A,1,2,A
-FRA,13/03/2015,19:30,AS Monaco,SC Bastia,3,0,H,2,0,H
-FRA,13/03/2015,19:30,OGC Nice,EA Guingamp,1,2,A,0,0,D
-FRA,14/03/2015,16:00,FC Metz,AS Saint-Étienne,2,3,A,0,2,A
-FRA,14/03/2015,19:00,FC Lorient,SM Caen,2,1,H,1,1,D
-FRA,14/03/2015,19:00,FC Nantes,Évian Thonon Gaillard,2,1,H,1,0,H
-FRA,14/03/2015,19:00,Montpellier HSC,Stade Reims,3,1,H,1,0,H
-FRA,14/03/2015,19:00,RC Lens,Toulouse FC,1,0,H,0,0,D
-FRA,15/03/2015,13:00,Lille OSC,Stade Rennes,3,0,H,1,0,H
-FRA,15/03/2015,16:00,Girondins Bordeaux,Paris Saint-Germain,3,2,H,1,0,H
-FRA,15/03/2015,20:00,Olympique Marseille,Olympique Lyon,0,0,D,0,0,D
-FRA,20/03/2015,19:30,Paris Saint-Germain,FC Lorient,3,1,H,1,0,H
-FRA,21/03/2015,15:00,Olympique Lyon,OGC Nice,1,2,A,0,1,A
-FRA,21/03/2015,19:00,Toulouse FC,Girondins Bordeaux,2,1,H,1,1,D
-FRA,21/03/2015,19:00,SC Bastia,EA Guingamp,0,0,D,0,0,D
-FRA,21/03/2015,19:00,SM Caen,FC Metz,0,0,D,0,0,D
-FRA,21/03/2015,19:00,Évian Thonon Gaillard,Montpellier HSC,1,0,H,0,0,D
-FRA,21/03/2015,19:00,Stade Rennes,FC Nantes,0,0,D,0,0,D
-FRA,22/03/2015,13:00,AS Saint-Étienne,Lille OSC,2,0,H,0,0,D
-FRA,22/03/2015,16:00,Stade Reims,AS Monaco,1,3,A,0,2,A
-FRA,22/03/2015,20:00,RC Lens,Olympique Marseille,0,4,A,0,0,D
-FRA,03/04/2015,19:30,AS Monaco,AS Saint-Étienne,1,1,D,0,0,D
-FRA,04/04/2015,16:00,EA Guingamp,Olympique Lyon,1,3,A,0,2,A
-FRA,04/04/2015,19:00,Montpellier HSC,SC Bastia,3,1,H,0,1,A
-FRA,04/04/2015,19:00,OGC Nice,Évian Thonon Gaillard,2,2,D,1,1,D
-FRA,04/04/2015,19:00,Lille OSC,Stade Reims,3,1,H,1,0,H
-FRA,04/04/2015,19:00,FC Lorient,Stade Rennes,0,3,A,0,2,A
-FRA,04/04/2015,19:00,FC Metz,Toulouse FC,3,2,H,2,1,H
-FRA,05/04/2015,13:00,Girondins Bordeaux,RC Lens,2,1,H,0,0,D
-FRA,05/04/2015,16:00,FC Nantes,SM Caen,1,2,A,1,0,H
-FRA,05/04/2015,20:00,Olympique Marseille,Paris Saint-Germain,2,3,A,2,1,H
-FRA,10/04/2015,19:30,SM Caen,AS Monaco,0,3,A,0,1,A
-FRA,12/04/2015,13:00,AS Saint-Étienne,FC Nantes,1,0,H,1,0,H
-FRA,12/04/2015,16:00,Stade Rennes,EA Guingamp,1,0,H,0,0,D
-FRA,12/04/2015,16:00,Évian Thonon Gaillard,Lille OSC,0,1,A,0,0,D
-FRA,12/04/2015,16:00,RC Lens,FC Lorient,0,0,D,0,0,D
-FRA,12/04/2015,16:00,Toulouse FC,Montpellier HSC,1,0,H,1,0,H
-FRA,12/04/2015,16:00,Stade Reims,OGC Nice,0,1,A,0,1,A
-FRA,12/04/2015,20:00,Girondins Bordeaux,Olympique Marseille,1,0,H,0,0,D
-FRA,15/04/2015,17:30,Olympique Lyon,SC Bastia,2,0,H,0,0,D
-FRA,28/04/2015,20:00,Paris Saint-Germain,FC Metz,3,1,H,2,0,H
-FRA,17/04/2015,19:30,FC Nantes,Olympique Marseille,1,0,H,1,0,H
-FRA,18/04/2015,16:00,OGC Nice,Paris Saint-Germain,1,3,A,1,1,D
-FRA,18/04/2015,19:00,EA Guingamp,Évian Thonon Gaillard,1,1,D,1,0,H
-FRA,18/04/2015,19:00,FC Metz,RC Lens,3,1,H,1,0,H
-FRA,18/04/2015,19:00,SC Bastia,Stade Reims,1,2,A,0,2,A
-FRA,18/04/2015,19:00,AS Monaco,Stade Rennes,1,1,D,1,0,H
-FRA,18/04/2015,19:00,FC Lorient,Toulouse FC,0,1,A,0,1,A
-FRA,19/04/2015,13:00,Lille OSC,Girondins Bordeaux,2,0,H,1,0,H
-FRA,19/04/2015,16:00,Montpellier HSC,SM Caen,1,0,H,1,0,H
-FRA,19/04/2015,20:00,Olympique Lyon,AS Saint-Étienne,2,2,D,1,2,A
-FRA,24/04/2015,19:30,Olympique Marseille,FC Lorient,3,5,A,0,2,A
-FRA,25/04/2015,16:00,Paris Saint-Germain,Lille OSC,6,1,H,4,0,H
-FRA,25/04/2015,19:00,Évian Thonon Gaillard,SC Bastia,1,2,A,1,0,H
-FRA,25/04/2015,19:00,SM Caen,EA Guingamp,0,2,A,0,0,D
-FRA,25/04/2015,19:00,Girondins Bordeaux,FC Metz,1,1,D,0,1,A
-FRA,25/04/2015,19:00,Toulouse FC,FC Nantes,1,1,D,1,0,H
-FRA,25/04/2015,19:00,Stade Rennes,OGC Nice,2,1,H,0,1,A
-FRA,26/04/2015,13:00,AS Saint-Étienne,Montpellier HSC,1,0,H,1,0,H
-FRA,26/04/2015,16:00,RC Lens,AS Monaco,0,3,A,0,2,A
-FRA,26/04/2015,20:00,Stade Reims,Olympique Lyon,2,4,A,1,3,A
-FRA,01/05/2015,19:30,FC Metz,Olympique Marseille,0,2,A,0,1,A
-FRA,02/05/2015,16:00,Olympique Lyon,Évian Thonon Gaillard,2,0,H,2,0,H
-FRA,02/05/2015,19:00,FC Lorient,Girondins Bordeaux,0,0,D,0,0,D
-FRA,02/05/2015,19:00,OGC Nice,SM Caen,1,1,D,1,1,D
-FRA,02/05/2015,19:00,EA Guingamp,Stade Reims,2,0,H,0,0,D
-FRA,02/05/2015,19:00,Montpellier HSC,Stade Rennes,0,0,D,0,0,D
-FRA,02/05/2015,19:00,SC Bastia,AS Saint-Étienne,1,0,H,0,0,D
-FRA,03/05/2015,13:00,Lille OSC,RC Lens,3,1,H,1,1,D
-FRA,03/05/2015,16:00,AS Monaco,Toulouse FC,4,1,H,2,1,H
-FRA,03/05/2015,20:00,FC Nantes,Paris Saint-Germain,0,2,A,0,2,A
-FRA,08/05/2015,19:30,Paris Saint-Germain,EA Guingamp,6,0,H,2,0,H
-FRA,09/05/2015,16:00,SM Caen,Olympique Lyon,3,0,H,2,0,H
-FRA,09/05/2015,19:00,Stade Rennes,SC Bastia,0,1,A,0,0,D
-FRA,09/05/2015,19:00,Toulouse FC,Lille OSC,3,2,H,1,1,D
-FRA,09/05/2015,19:00,FC Metz,FC Lorient,0,4,A,0,2,A
-FRA,09/05/2015,19:00,Girondins Bordeaux,FC Nantes,2,1,H,1,1,D
-FRA,09/05/2015,19:00,Évian Thonon Gaillard,Stade Reims,2,3,A,1,1,D
-FRA,10/05/2015,13:00,RC Lens,Montpellier HSC,0,1,A,0,0,D
-FRA,10/05/2015,16:00,AS Saint-Étienne,OGC Nice,5,0,H,2,0,H
-FRA,10/05/2015,20:00,Olympique Marseille,AS Monaco,2,1,H,0,1,A
-FRA,16/05/2015,20:00,Olympique Lyon,Girondins Bordeaux,1,1,D,1,1,D
-FRA,16/05/2015,20:00,SC Bastia,SM Caen,1,1,D,1,1,D
-FRA,16/05/2015,20:00,OGC Nice,RC Lens,2,1,H,1,1,D
-FRA,16/05/2015,20:00,FC Nantes,FC Lorient,1,1,D,1,1,D
-FRA,16/05/2015,20:00,Lille OSC,Olympique Marseille,0,4,A,0,2,A
-FRA,16/05/2015,20:00,AS Monaco,FC Metz,2,0,H,1,0,H
-FRA,16/05/2015,20:00,Montpellier HSC,Paris Saint-Germain,1,2,A,1,2,A
-FRA,16/05/2015,20:00,Stade Reims,Stade Rennes,1,0,H,0,0,D
-FRA,16/05/2015,20:00,Évian Thonon Gaillard,AS Saint-Étienne,1,2,A,1,1,D
-FRA,16/05/2015,20:00,EA Guingamp,Toulouse FC,2,1,H,1,1,D
-FRA,23/05/2015,20:00,Olympique Marseille,SC Bastia,3,0,H,2,0,H
-FRA,23/05/2015,20:00,SM Caen,Évian Thonon Gaillard,3,2,H,0,0,D
-FRA,23/05/2015,20:00,AS Saint-Étienne,EA Guingamp,2,1,H,1,0,H
-FRA,23/05/2015,20:00,FC Metz,Lille OSC,1,4,A,0,3,A
-FRA,23/05/2015,20:00,Stade Rennes,Olympique Lyon,0,1,A,0,0,D
-FRA,23/05/2015,20:00,FC Lorient,AS Monaco,0,1,A,0,1,A
-FRA,23/05/2015,20:00,Girondins Bordeaux,Montpellier HSC,2,1,H,2,0,H
-FRA,23/05/2015,20:00,RC Lens,FC Nantes,1,0,H,1,0,H
-FRA,23/05/2015,20:00,Toulouse FC,OGC Nice,2,3,A,0,2,A
-FRA,23/05/2015,20:00,Paris Saint-Germain,Stade Reims,3,2,H,2,0,H
+FRA,2014-08-08,19:30,Stade Reims,Paris Saint-Germain,2,2,D,2,1,H
+FRA,2014-08-09,20:00,SC Bastia,Olympique Marseille,3,3,D,1,2,A
+FRA,2014-08-09,20:00,Évian Thonon Gaillard,SM Caen,0,3,A,0,3,A
+FRA,2014-08-09,20:00,EA Guingamp,AS Saint-Étienne,0,2,A,0,1,A
+FRA,2014-08-09,20:00,Lille OSC,FC Metz,0,0,D,0,0,D
+FRA,2014-08-09,20:00,Montpellier HSC,Girondins Bordeaux,0,1,A,0,1,A
+FRA,2014-08-09,20:00,FC Nantes,RC Lens,1,0,H,0,0,D
+FRA,2014-08-09,20:00,OGC Nice,Toulouse FC,3,2,H,1,2,A
+FRA,2014-08-10,16:00,Olympique Lyon,Stade Rennes,2,0,H,0,0,D
+FRA,2014-08-10,20:00,AS Monaco,FC Lorient,1,2,A,0,1,A
+FRA,2014-08-15,19:30,SM Caen,Lille OSC,0,1,A,0,0,D
+FRA,2014-08-16,16:00,Paris Saint-Germain,SC Bastia,2,0,H,1,0,H
+FRA,2014-08-16,19:00,RC Lens,EA Guingamp,0,1,A,0,0,D
+FRA,2014-08-16,19:00,FC Lorient,OGC Nice,0,0,D,0,0,D
+FRA,2014-08-16,19:00,FC Metz,FC Nantes,1,1,D,1,1,D
+FRA,2014-08-16,19:00,Stade Rennes,Évian Thonon Gaillard,6,2,H,3,1,H
+FRA,2014-08-16,19:00,Toulouse FC,Olympique Lyon,2,1,H,2,0,H
+FRA,2014-08-17,16:00,Olympique Marseille,Montpellier HSC,0,2,A,0,1,A
+FRA,2014-08-17,16:00,AS Saint-Étienne,Stade Reims,3,1,H,0,1,A
+FRA,2014-08-17,20:00,Girondins Bordeaux,AS Monaco,4,1,H,0,1,A
+FRA,2014-08-22,19:30,Évian Thonon Gaillard,Paris Saint-Germain,0,0,D,0,0,D
+FRA,2014-08-23,16:00,EA Guingamp,Olympique Marseille,0,1,A,0,0,D
+FRA,2014-08-23,19:00,SC Bastia,Toulouse FC,1,0,H,1,0,H
+FRA,2014-08-23,19:00,Lille OSC,FC Lorient,2,0,H,0,0,D
+FRA,2014-08-23,19:00,Montpellier HSC,FC Metz,2,0,H,1,0,H
+FRA,2014-08-23,19:00,OGC Nice,Girondins Bordeaux,1,3,A,1,1,D
+FRA,2014-08-23,19:00,Stade Reims,SM Caen,0,2,A,0,0,D
+FRA,2014-08-24,13:00,Olympique Lyon,RC Lens,0,1,A,0,1,A
+FRA,2014-08-24,16:00,AS Saint-Étienne,Stade Rennes,0,0,D,0,0,D
+FRA,2014-08-24,20:00,FC Nantes,AS Monaco,0,1,A,0,1,A
+FRA,2014-08-29,19:30,Olympique Marseille,OGC Nice,4,0,H,2,0,H
+FRA,2014-08-30,16:00,AS Monaco,Lille OSC,1,1,D,0,1,A
+FRA,2014-08-30,19:00,SM Caen,Stade Rennes,0,1,A,0,0,D
+FRA,2014-08-30,19:00,RC Lens,Stade Reims,4,2,H,1,1,D
+FRA,2014-08-30,19:00,FC Lorient,EA Guingamp,4,0,H,0,0,D
+FRA,2014-08-30,19:00,FC Nantes,Montpellier HSC,1,0,H,0,0,D
+FRA,2014-08-30,19:00,Toulouse FC,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2014-08-31,13:00,Girondins Bordeaux,SC Bastia,1,1,D,0,1,A
+FRA,2014-08-31,16:00,FC Metz,Olympique Lyon,2,1,H,0,0,D
+FRA,2014-08-31,20:00,Paris Saint-Germain,AS Saint-Étienne,5,0,H,2,0,H
+FRA,2014-09-12,19:30,Olympique Lyon,AS Monaco,2,1,H,1,1,D
+FRA,2014-09-13,16:00,Stade Rennes,Paris Saint-Germain,1,1,D,0,1,A
+FRA,2014-09-13,19:00,SC Bastia,RC Lens,1,1,D,0,1,A
+FRA,2014-09-13,19:00,Montpellier HSC,FC Lorient,1,0,H,1,0,H
+FRA,2014-09-13,19:00,OGC Nice,FC Metz,1,0,H,0,0,D
+FRA,2014-09-13,19:00,Stade Reims,Toulouse FC,2,0,H,1,0,H
+FRA,2014-09-13,19:00,AS Saint-Étienne,SM Caen,1,0,H,0,0,D
+FRA,2014-09-14,13:00,Lille OSC,FC Nantes,2,0,H,0,0,D
+FRA,2014-09-14,16:00,EA Guingamp,Girondins Bordeaux,2,1,H,2,0,H
+FRA,2014-09-14,20:00,Évian Thonon Gaillard,Olympique Marseille,1,3,A,0,2,A
+FRA,2014-09-19,19:30,Girondins Bordeaux,Évian Thonon Gaillard,2,1,H,1,0,H
+FRA,2014-09-20,16:00,Olympique Marseille,Stade Rennes,3,0,H,0,0,D
+FRA,2014-09-20,19:00,FC Lorient,Stade Reims,0,1,A,0,0,D
+FRA,2014-09-20,19:00,FC Metz,SC Bastia,3,1,H,1,1,D
+FRA,2014-09-20,19:00,FC Nantes,OGC Nice,2,1,H,2,0,H
+FRA,2014-09-20,19:00,Toulouse FC,SM Caen,3,3,D,1,1,D
+FRA,2014-09-21,13:00,Lille OSC,Montpellier HSC,0,0,D,0,0,D
+FRA,2014-09-21,16:00,RC Lens,AS Saint-Étienne,0,1,A,0,0,D
+FRA,2014-09-21,16:00,AS Monaco,EA Guingamp,1,0,H,1,0,H
+FRA,2014-09-21,20:00,Paris Saint-Germain,Olympique Lyon,1,1,D,1,0,H
+FRA,2014-09-23,18:00,Stade Reims,Olympique Marseille,0,5,A,0,2,A
+FRA,2014-09-23,20:00,Stade Rennes,Toulouse FC,0,3,A,0,1,A
+FRA,2014-09-24,18:00,SC Bastia,FC Nantes,0,0,D,0,0,D
+FRA,2014-09-24,18:00,Évian Thonon Gaillard,RC Lens,2,1,H,2,0,H
+FRA,2014-09-24,18:00,EA Guingamp,FC Metz,0,1,A,0,1,A
+FRA,2014-09-24,18:00,Olympique Lyon,FC Lorient,4,0,H,2,0,H
+FRA,2014-09-24,18:00,Montpellier HSC,AS Monaco,0,1,A,0,0,D
+FRA,2014-09-24,18:00,OGC Nice,Lille OSC,1,0,H,1,0,H
+FRA,2014-09-24,20:00,SM Caen,Paris Saint-Germain,0,2,A,0,1,A
+FRA,2014-09-25,20:00,AS Saint-Étienne,Girondins Bordeaux,1,1,D,1,1,D
+FRA,2014-09-27,13:00,AS Monaco,OGC Nice,0,1,A,0,1,A
+FRA,2014-09-27,16:00,Toulouse FC,Paris Saint-Germain,1,1,D,1,1,D
+FRA,2014-09-27,19:00,Lille OSC,SC Bastia,1,0,H,1,0,H
+FRA,2014-09-27,19:00,FC Lorient,Évian Thonon Gaillard,0,2,A,0,1,A
+FRA,2014-09-27,19:00,FC Metz,Stade Reims,3,0,H,0,0,D
+FRA,2014-09-27,19:00,Montpellier HSC,EA Guingamp,2,1,H,0,0,D
+FRA,2014-09-28,13:00,Girondins Bordeaux,Stade Rennes,2,1,H,0,0,D
+FRA,2014-09-28,16:00,RC Lens,SM Caen,0,0,D,0,0,D
+FRA,2014-09-28,16:00,FC Nantes,Olympique Lyon,1,1,D,0,0,D
+FRA,2014-09-28,20:00,Olympique Marseille,AS Saint-Étienne,2,1,H,2,0,H
+FRA,2014-10-03,19:30,Stade Reims,Girondins Bordeaux,1,0,H,1,0,H
+FRA,2014-10-04,16:00,SM Caen,Olympique Marseille,1,2,A,0,0,D
+FRA,2014-10-04,19:00,SC Bastia,FC Lorient,0,2,A,0,0,D
+FRA,2014-10-04,19:00,Évian Thonon Gaillard,FC Metz,3,0,H,0,0,D
+FRA,2014-10-04,19:00,OGC Nice,Montpellier HSC,1,1,D,0,0,D
+FRA,2014-10-04,19:00,Stade Rennes,RC Lens,2,0,H,0,0,D
+FRA,2014-10-05,13:00,AS Saint-Étienne,Toulouse FC,0,1,A,0,1,A
+FRA,2014-10-05,16:00,EA Guingamp,FC Nantes,0,1,A,0,1,A
+FRA,2014-10-05,16:00,Olympique Lyon,Lille OSC,3,0,H,2,0,H
+FRA,2014-10-05,20:00,Paris Saint-Germain,AS Monaco,1,1,D,0,0,D
+FRA,2014-10-17,19:30,RC Lens,Paris Saint-Germain,1,3,A,1,2,A
+FRA,2014-10-18,16:00,FC Lorient,AS Saint-Étienne,0,1,A,0,0,D
+FRA,2014-10-18,19:00,Lille OSC,EA Guingamp,1,2,A,0,1,A
+FRA,2014-10-18,19:00,FC Metz,Stade Rennes,0,0,D,0,0,D
+FRA,2014-10-18,19:00,AS Monaco,Évian Thonon Gaillard,2,0,H,1,0,H
+FRA,2014-10-18,19:00,FC Nantes,Stade Reims,1,1,D,1,0,H
+FRA,2014-10-18,19:00,OGC Nice,SC Bastia,0,1,A,0,0,D
+FRA,2014-10-19,13:00,Olympique Marseille,Toulouse FC,2,0,H,2,0,H
+FRA,2014-10-19,16:00,Girondins Bordeaux,SM Caen,1,1,D,1,0,H
+FRA,2014-10-19,20:00,Olympique Lyon,Montpellier HSC,5,1,H,2,0,H
+FRA,2014-10-24,19:30,Toulouse FC,RC Lens,0,2,A,0,2,A
+FRA,2014-10-25,16:00,Paris Saint-Germain,Girondins Bordeaux,3,0,H,1,0,H
+FRA,2014-10-25,19:00,SC Bastia,AS Monaco,1,3,A,1,1,D
+FRA,2014-10-25,19:00,SM Caen,FC Lorient,2,1,H,1,1,D
+FRA,2014-10-25,19:00,Évian Thonon Gaillard,FC Nantes,0,2,A,0,1,A
+FRA,2014-10-25,19:00,Stade Reims,Montpellier HSC,1,0,H,0,0,D
+FRA,2014-10-26,13:00,Stade Rennes,Lille OSC,2,0,H,0,0,D
+FRA,2014-10-26,16:00,EA Guingamp,OGC Nice,2,7,A,1,4,A
+FRA,2014-10-26,16:00,AS Saint-Étienne,FC Metz,1,0,H,0,0,D
+FRA,2014-10-26,20:00,Olympique Lyon,Olympique Marseille,1,0,H,0,0,D
+FRA,2014-10-31,19:30,AS Monaco,Stade Reims,1,1,D,1,0,H
+FRA,2014-11-01,16:00,FC Lorient,Paris Saint-Germain,1,2,A,1,0,H
+FRA,2014-11-01,19:00,EA Guingamp,SC Bastia,1,0,H,1,0,H
+FRA,2014-11-01,19:00,Lille OSC,AS Saint-Étienne,1,1,D,1,0,H
+FRA,2014-11-01,19:00,FC Metz,SM Caen,3,2,H,1,0,H
+FRA,2014-11-01,19:00,Montpellier HSC,Évian Thonon Gaillard,2,0,H,1,0,H
+FRA,2014-11-01,19:00,OGC Nice,Olympique Lyon,1,3,A,0,0,D
+FRA,2014-11-02,13:00,FC Nantes,Stade Rennes,1,1,D,1,1,D
+FRA,2014-11-02,16:00,Girondins Bordeaux,Toulouse FC,2,1,H,0,0,D
+FRA,2014-11-02,20:00,Olympique Marseille,RC Lens,2,1,H,1,1,D
+FRA,2014-11-07,19:30,Stade Rennes,FC Lorient,1,0,H,0,0,D
+FRA,2014-11-08,16:00,RC Lens,Girondins Bordeaux,1,2,A,0,2,A
+FRA,2014-11-08,19:00,SC Bastia,Montpellier HSC,2,0,H,2,0,H
+FRA,2014-11-08,19:00,SM Caen,FC Nantes,1,2,A,1,1,D
+FRA,2014-11-08,19:00,Évian Thonon Gaillard,OGC Nice,1,0,H,0,0,D
+FRA,2014-11-08,19:00,Toulouse FC,FC Metz,3,0,H,1,0,H
+FRA,2014-11-09,13:00,Olympique Lyon,EA Guingamp,3,1,H,2,1,H
+FRA,2014-11-09,16:00,Stade Reims,Lille OSC,2,0,H,2,0,H
+FRA,2014-11-09,16:00,AS Saint-Étienne,AS Monaco,1,1,D,0,1,A
+FRA,2014-11-09,20:00,Paris Saint-Germain,Olympique Marseille,2,0,H,1,0,H
+FRA,2014-11-21,19:30,FC Metz,Paris Saint-Germain,2,3,A,0,2,A
+FRA,2014-11-22,16:00,SC Bastia,Olympique Lyon,0,0,D,0,0,D
+FRA,2014-11-22,19:00,EA Guingamp,Stade Rennes,0,1,A,0,1,A
+FRA,2014-11-22,19:00,FC Lorient,RC Lens,1,0,H,1,0,H
+FRA,2014-11-22,19:00,AS Monaco,SM Caen,2,2,D,1,0,H
+FRA,2014-11-22,19:00,OGC Nice,Stade Reims,0,0,D,0,0,D
+FRA,2014-11-23,13:00,FC Nantes,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2014-11-23,16:00,Montpellier HSC,Toulouse FC,2,0,H,1,0,H
+FRA,2014-11-23,20:00,Olympique Marseille,Girondins Bordeaux,3,1,H,0,0,D
+FRA,2014-11-28,19:30,Olympique Marseille,FC Nantes,2,0,H,2,0,H
+FRA,2014-11-29,16:00,Paris Saint-Germain,OGC Nice,1,0,H,1,0,H
+FRA,2014-11-29,19:00,SM Caen,Montpellier HSC,1,1,D,1,1,D
+FRA,2014-11-29,19:00,RC Lens,FC Metz,2,0,H,0,0,D
+FRA,2014-11-29,19:00,Stade Reims,SC Bastia,2,1,H,1,1,D
+FRA,2014-11-29,19:00,Stade Rennes,AS Monaco,2,0,H,2,0,H
+FRA,2014-11-29,19:00,Toulouse FC,FC Lorient,2,3,A,1,0,H
+FRA,2014-11-30,13:00,Girondins Bordeaux,Lille OSC,1,0,H,0,0,D
+FRA,2014-11-30,16:00,Évian Thonon Gaillard,EA Guingamp,2,0,H,0,0,D
+FRA,2014-11-30,20:00,AS Saint-Étienne,Olympique Lyon,3,0,H,2,0,H
+FRA,2014-12-02,18:00,FC Lorient,Olympique Marseille,1,1,D,1,1,D
+FRA,2014-12-02,18:00,FC Nantes,Toulouse FC,1,2,A,0,1,A
+FRA,2014-12-02,20:00,AS Monaco,RC Lens,2,0,H,0,0,D
+FRA,2014-12-03,18:00,SC Bastia,Évian Thonon Gaillard,1,2,A,1,0,H
+FRA,2014-12-03,18:00,EA Guingamp,SM Caen,5,1,H,2,1,H
+FRA,2014-12-03,18:00,FC Metz,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2014-12-03,18:00,Montpellier HSC,AS Saint-Étienne,0,2,A,0,2,A
+FRA,2014-12-03,18:00,OGC Nice,Stade Rennes,1,2,A,0,1,A
+FRA,2014-12-03,20:00,Lille OSC,Paris Saint-Germain,1,1,D,1,1,D
+FRA,2014-12-04,20:00,Olympique Lyon,Stade Reims,2,1,H,1,1,D
+FRA,2014-12-05,19:30,Toulouse FC,AS Monaco,0,2,A,0,1,A
+FRA,2014-12-06,16:00,Paris Saint-Germain,FC Nantes,2,1,H,1,1,D
+FRA,2014-12-06,19:00,Girondins Bordeaux,FC Lorient,3,2,H,1,1,D
+FRA,2014-12-06,19:00,SM Caen,OGC Nice,2,3,A,2,1,H
+FRA,2014-12-06,19:00,Stade Rennes,Montpellier HSC,0,4,A,0,1,A
+FRA,2014-12-06,19:00,AS Saint-Étienne,SC Bastia,1,0,H,0,0,D
+FRA,2014-12-07,13:00,Évian Thonon Gaillard,Olympique Lyon,2,3,A,1,0,H
+FRA,2014-12-07,16:00,RC Lens,Lille OSC,1,1,D,0,0,D
+FRA,2014-12-07,16:00,Stade Reims,EA Guingamp,2,3,A,1,1,D
+FRA,2014-12-07,20:00,Olympique Marseille,FC Metz,3,1,H,1,0,H
+FRA,2014-12-12,19:30,Olympique Lyon,SM Caen,3,0,H,1,0,H
+FRA,2014-12-13,16:00,FC Nantes,Girondins Bordeaux,2,1,H,1,1,D
+FRA,2014-12-13,19:00,SC Bastia,Stade Rennes,2,0,H,1,0,H
+FRA,2014-12-13,19:00,FC Lorient,FC Metz,3,1,H,3,0,H
+FRA,2014-12-13,19:00,Montpellier HSC,RC Lens,3,3,D,2,2,D
+FRA,2014-12-13,19:00,Stade Reims,Évian Thonon Gaillard,3,2,H,1,0,H
+FRA,2014-12-14,13:00,OGC Nice,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2014-12-14,16:00,EA Guingamp,Paris Saint-Germain,1,0,H,1,0,H
+FRA,2014-12-14,16:00,Lille OSC,Toulouse FC,3,0,H,1,0,H
+FRA,2014-12-14,20:00,AS Monaco,Olympique Marseille,1,0,H,0,0,D
+FRA,2014-12-19,19:30,RC Lens,OGC Nice,2,0,H,1,0,H
+FRA,2014-12-20,16:00,Paris Saint-Germain,Montpellier HSC,0,0,D,0,0,D
+FRA,2014-12-20,19:00,SM Caen,SC Bastia,1,1,D,0,1,A
+FRA,2014-12-20,19:00,FC Lorient,FC Nantes,1,2,A,0,1,A
+FRA,2014-12-20,19:00,FC Metz,AS Monaco,0,1,A,0,0,D
+FRA,2014-12-20,19:00,Stade Rennes,Stade Reims,1,3,A,1,0,H
+FRA,2014-12-20,19:00,Toulouse FC,EA Guingamp,1,1,D,1,1,D
+FRA,2014-12-21,13:00,Olympique Marseille,Lille OSC,2,1,H,1,0,H
+FRA,2014-12-21,16:00,AS Saint-Étienne,Évian Thonon Gaillard,3,0,H,2,0,H
+FRA,2014-12-21,20:00,Girondins Bordeaux,Olympique Lyon,0,5,A,0,1,A
+FRA,2015-01-07,19:30,Lille OSC,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2015-01-09,19:30,Montpellier HSC,Olympique Marseille,2,1,H,1,0,H
+FRA,2015-01-10,16:00,SC Bastia,Paris Saint-Germain,4,2,H,2,2,D
+FRA,2015-01-10,19:00,Lille OSC,SM Caen,1,0,H,1,0,H
+FRA,2015-01-10,19:00,EA Guingamp,RC Lens,2,0,H,1,0,H
+FRA,2015-01-10,19:00,OGC Nice,FC Lorient,3,1,H,1,1,D
+FRA,2015-01-10,19:00,Évian Thonon Gaillard,Stade Rennes,1,1,D,0,0,D
+FRA,2015-01-10,19:00,Stade Reims,AS Saint-Étienne,1,2,A,0,1,A
+FRA,2015-01-11,16:00,FC Nantes,FC Metz,0,0,D,0,0,D
+FRA,2015-01-11,16:00,Olympique Lyon,Toulouse FC,3,0,H,2,0,H
+FRA,2015-01-11,20:00,AS Monaco,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2015-01-16,19:30,Girondins Bordeaux,OGC Nice,1,2,A,1,0,H
+FRA,2015-01-17,16:00,RC Lens,Olympique Lyon,0,2,A,0,2,A
+FRA,2015-01-17,19:00,Toulouse FC,SC Bastia,1,1,D,0,0,D
+FRA,2015-01-17,19:00,FC Lorient,Lille OSC,1,0,H,0,0,D
+FRA,2015-01-17,19:00,FC Metz,Montpellier HSC,2,3,A,2,1,H
+FRA,2015-01-17,19:00,AS Monaco,FC Nantes,1,0,H,0,0,D
+FRA,2015-01-17,19:00,SM Caen,Stade Reims,4,1,H,3,1,H
+FRA,2015-01-18,13:00,Paris Saint-Germain,Évian Thonon Gaillard,4,2,H,2,1,H
+FRA,2015-01-18,16:00,Stade Rennes,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2015-01-18,20:00,Olympique Marseille,EA Guingamp,2,1,H,0,0,D
+FRA,2015-01-23,19:30,OGC Nice,Olympique Marseille,2,1,H,0,0,D
+FRA,2015-01-24,16:00,Lille OSC,AS Monaco,0,1,A,0,0,D
+FRA,2015-01-24,19:00,SC Bastia,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2015-01-24,19:00,EA Guingamp,FC Lorient,3,2,H,1,0,H
+FRA,2015-01-24,19:00,Montpellier HSC,FC Nantes,4,0,H,1,0,H
+FRA,2015-01-25,13:00,Olympique Lyon,FC Metz,2,0,H,1,0,H
+FRA,2015-01-25,13:00,Évian Thonon Gaillard,Toulouse FC,1,0,H,1,0,H
+FRA,2015-01-25,16:00,Stade Rennes,SM Caen,1,4,A,1,1,D
+FRA,2015-01-25,16:00,Stade Reims,RC Lens,0,0,D,0,0,D
+FRA,2015-01-25,20:00,AS Saint-Étienne,Paris Saint-Germain,0,1,A,0,0,D
+FRA,2015-01-30,19:30,Paris Saint-Germain,Stade Rennes,1,0,H,1,0,H
+FRA,2015-01-31,15:30,Olympique Marseille,Évian Thonon Gaillard,1,0,H,0,0,D
+FRA,2015-01-31,19:00,RC Lens,SC Bastia,1,1,D,0,0,D
+FRA,2015-01-31,19:00,FC Nantes,Lille OSC,1,1,D,0,1,A
+FRA,2015-01-31,19:00,FC Lorient,Montpellier HSC,0,0,D,0,0,D
+FRA,2015-01-31,19:00,FC Metz,OGC Nice,0,0,D,0,0,D
+FRA,2015-01-31,19:00,Toulouse FC,Stade Reims,1,0,H,1,0,H
+FRA,2015-02-01,13:00,SM Caen,AS Saint-Étienne,1,0,H,1,0,H
+FRA,2015-02-01,16:00,Girondins Bordeaux,EA Guingamp,1,1,D,0,1,A
+FRA,2015-02-01,20:00,AS Monaco,Olympique Lyon,0,0,D,0,0,D
+FRA,2015-02-06,19:30,AS Saint-Étienne,RC Lens,3,3,D,1,0,H
+FRA,2015-02-07,15:00,Stade Rennes,Olympique Marseille,1,1,D,1,0,H
+FRA,2015-02-07,19:00,Évian Thonon Gaillard,Girondins Bordeaux,0,1,A,0,1,A
+FRA,2015-02-07,19:00,Montpellier HSC,Lille OSC,1,2,A,0,1,A
+FRA,2015-02-07,19:00,Stade Reims,FC Lorient,1,3,A,1,0,H
+FRA,2015-02-07,19:00,SC Bastia,FC Metz,2,0,H,0,0,D
+FRA,2015-02-07,19:00,SM Caen,Toulouse FC,2,0,H,1,0,H
+FRA,2015-02-08,13:00,EA Guingamp,AS Monaco,1,0,H,0,0,D
+FRA,2015-02-08,16:00,OGC Nice,FC Nantes,0,0,D,0,0,D
+FRA,2015-02-08,20:00,Olympique Lyon,Paris Saint-Germain,1,1,D,1,0,H
+FRA,2015-02-13,19:30,Olympique Marseille,Stade Reims,2,2,D,0,1,A
+FRA,2015-02-14,15:00,Paris Saint-Germain,SM Caen,2,2,D,2,0,H
+FRA,2015-02-14,19:00,FC Nantes,SC Bastia,0,2,A,0,1,A
+FRA,2015-02-14,19:00,RC Lens,Évian Thonon Gaillard,0,2,A,0,2,A
+FRA,2015-02-14,19:00,Lille OSC,OGC Nice,0,0,D,0,0,D
+FRA,2015-02-14,19:00,Toulouse FC,Stade Rennes,2,1,H,1,0,H
+FRA,2015-02-15,13:00,Girondins Bordeaux,AS Saint-Étienne,1,0,H,1,0,H
+FRA,2015-02-15,16:00,FC Metz,EA Guingamp,0,2,A,0,2,A
+FRA,2015-02-15,20:00,FC Lorient,Olympique Lyon,1,1,D,0,0,D
+FRA,2015-02-20,19:30,OGC Nice,AS Monaco,0,1,A,0,0,D
+FRA,2015-02-21,16:00,Paris Saint-Germain,Toulouse FC,3,1,H,1,0,H
+FRA,2015-02-21,19:00,Stade Rennes,Girondins Bordeaux,1,1,D,1,0,H
+FRA,2015-02-21,19:00,SM Caen,RC Lens,4,1,H,3,1,H
+FRA,2015-02-21,19:00,SC Bastia,Lille OSC,2,1,H,2,1,H
+FRA,2015-02-22,13:00,EA Guingamp,Montpellier HSC,0,2,A,0,1,A
+FRA,2015-02-22,16:00,Stade Reims,FC Metz,0,0,D,0,0,D
+FRA,2015-02-22,16:00,Olympique Lyon,FC Nantes,1,0,H,0,0,D
+FRA,2015-02-22,20:00,AS Saint-Étienne,Olympique Marseille,2,2,D,0,0,D
+FRA,2015-02-27,19:30,Olympique Marseille,SM Caen,2,3,A,1,0,H
+FRA,2015-02-28,15:00,Lille OSC,Olympique Lyon,2,1,H,0,1,A
+FRA,2015-02-28,19:00,FC Lorient,SC Bastia,2,0,H,1,0,H
+FRA,2015-02-28,19:00,FC Metz,Évian Thonon Gaillard,1,2,A,1,1,D
+FRA,2015-02-28,19:00,Girondins Bordeaux,Stade Reims,1,1,D,1,1,D
+FRA,2015-02-28,19:00,RC Lens,Stade Rennes,0,1,A,0,1,A
+FRA,2015-02-28,19:00,Toulouse FC,AS Saint-Étienne,1,1,D,0,1,A
+FRA,2015-03-01,13:00,FC Nantes,EA Guingamp,1,0,H,0,0,D
+FRA,2015-03-01,16:00,Montpellier HSC,OGC Nice,2,1,H,1,1,D
+FRA,2015-03-01,20:00,AS Monaco,Paris Saint-Germain,0,0,D,0,0,D
+FRA,2015-03-04,18:00,Évian Thonon Gaillard,FC Lorient,1,0,H,1,0,H
+FRA,2015-03-06,19:30,Toulouse FC,Olympique Marseille,1,6,A,0,4,A
+FRA,2015-03-07,16:00,Paris Saint-Germain,RC Lens,4,1,H,1,0,H
+FRA,2015-03-07,19:00,SM Caen,Girondins Bordeaux,1,2,A,0,0,D
+FRA,2015-03-07,19:00,Stade Rennes,FC Metz,1,0,H,1,0,H
+FRA,2015-03-07,19:00,Évian Thonon Gaillard,AS Monaco,1,3,A,0,2,A
+FRA,2015-03-07,19:00,Stade Reims,FC Nantes,3,1,H,2,0,H
+FRA,2015-03-07,19:00,SC Bastia,OGC Nice,2,1,H,1,1,D
+FRA,2015-03-08,13:00,AS Saint-Étienne,FC Lorient,2,0,H,0,0,D
+FRA,2015-03-08,16:00,EA Guingamp,Lille OSC,0,1,A,0,0,D
+FRA,2015-03-08,20:00,Montpellier HSC,Olympique Lyon,1,5,A,1,2,A
+FRA,2015-03-13,19:30,AS Monaco,SC Bastia,3,0,H,2,0,H
+FRA,2015-03-13,19:30,OGC Nice,EA Guingamp,1,2,A,0,0,D
+FRA,2015-03-14,16:00,FC Metz,AS Saint-Étienne,2,3,A,0,2,A
+FRA,2015-03-14,19:00,FC Lorient,SM Caen,2,1,H,1,1,D
+FRA,2015-03-14,19:00,FC Nantes,Évian Thonon Gaillard,2,1,H,1,0,H
+FRA,2015-03-14,19:00,Montpellier HSC,Stade Reims,3,1,H,1,0,H
+FRA,2015-03-14,19:00,RC Lens,Toulouse FC,1,0,H,0,0,D
+FRA,2015-03-15,13:00,Lille OSC,Stade Rennes,3,0,H,1,0,H
+FRA,2015-03-15,16:00,Girondins Bordeaux,Paris Saint-Germain,3,2,H,1,0,H
+FRA,2015-03-15,20:00,Olympique Marseille,Olympique Lyon,0,0,D,0,0,D
+FRA,2015-03-20,19:30,Paris Saint-Germain,FC Lorient,3,1,H,1,0,H
+FRA,2015-03-21,15:00,Olympique Lyon,OGC Nice,1,2,A,0,1,A
+FRA,2015-03-21,19:00,Toulouse FC,Girondins Bordeaux,2,1,H,1,1,D
+FRA,2015-03-21,19:00,SC Bastia,EA Guingamp,0,0,D,0,0,D
+FRA,2015-03-21,19:00,SM Caen,FC Metz,0,0,D,0,0,D
+FRA,2015-03-21,19:00,Évian Thonon Gaillard,Montpellier HSC,1,0,H,0,0,D
+FRA,2015-03-21,19:00,Stade Rennes,FC Nantes,0,0,D,0,0,D
+FRA,2015-03-22,13:00,AS Saint-Étienne,Lille OSC,2,0,H,0,0,D
+FRA,2015-03-22,16:00,Stade Reims,AS Monaco,1,3,A,0,2,A
+FRA,2015-03-22,20:00,RC Lens,Olympique Marseille,0,4,A,0,0,D
+FRA,2015-04-03,19:30,AS Monaco,AS Saint-Étienne,1,1,D,0,0,D
+FRA,2015-04-04,16:00,EA Guingamp,Olympique Lyon,1,3,A,0,2,A
+FRA,2015-04-04,19:00,Montpellier HSC,SC Bastia,3,1,H,0,1,A
+FRA,2015-04-04,19:00,OGC Nice,Évian Thonon Gaillard,2,2,D,1,1,D
+FRA,2015-04-04,19:00,Lille OSC,Stade Reims,3,1,H,1,0,H
+FRA,2015-04-04,19:00,FC Lorient,Stade Rennes,0,3,A,0,2,A
+FRA,2015-04-04,19:00,FC Metz,Toulouse FC,3,2,H,2,1,H
+FRA,2015-04-05,13:00,Girondins Bordeaux,RC Lens,2,1,H,0,0,D
+FRA,2015-04-05,16:00,FC Nantes,SM Caen,1,2,A,1,0,H
+FRA,2015-04-05,20:00,Olympique Marseille,Paris Saint-Germain,2,3,A,2,1,H
+FRA,2015-04-07,18:00,AS Monaco,Montpellier HSC,0,0,D,0,0,D
+FRA,2015-04-10,19:30,SM Caen,AS Monaco,0,3,A,0,1,A
+FRA,2015-04-12,13:00,AS Saint-Étienne,FC Nantes,1,0,H,1,0,H
+FRA,2015-04-12,16:00,Stade Rennes,EA Guingamp,1,0,H,0,0,D
+FRA,2015-04-12,16:00,Évian Thonon Gaillard,Lille OSC,0,1,A,0,0,D
+FRA,2015-04-12,16:00,RC Lens,FC Lorient,0,0,D,0,0,D
+FRA,2015-04-12,16:00,Toulouse FC,Montpellier HSC,1,0,H,1,0,H
+FRA,2015-04-12,16:00,Stade Reims,OGC Nice,0,1,A,0,1,A
+FRA,2015-04-12,20:00,Girondins Bordeaux,Olympique Marseille,1,0,H,0,0,D
+FRA,2015-04-15,17:30,Olympique Lyon,SC Bastia,2,0,H,0,0,D
+FRA,2015-04-17,19:30,FC Nantes,Olympique Marseille,1,0,H,1,0,H
+FRA,2015-04-18,16:00,OGC Nice,Paris Saint-Germain,1,3,A,1,1,D
+FRA,2015-04-18,19:00,EA Guingamp,Évian Thonon Gaillard,1,1,D,1,0,H
+FRA,2015-04-18,19:00,FC Metz,RC Lens,3,1,H,1,0,H
+FRA,2015-04-18,19:00,SC Bastia,Stade Reims,1,2,A,0,2,A
+FRA,2015-04-18,19:00,AS Monaco,Stade Rennes,1,1,D,1,0,H
+FRA,2015-04-18,19:00,FC Lorient,Toulouse FC,0,1,A,0,1,A
+FRA,2015-04-19,13:00,Lille OSC,Girondins Bordeaux,2,0,H,1,0,H
+FRA,2015-04-19,16:00,Montpellier HSC,SM Caen,1,0,H,1,0,H
+FRA,2015-04-19,20:00,Olympique Lyon,AS Saint-Étienne,2,2,D,1,2,A
+FRA,2015-04-24,19:30,Olympique Marseille,FC Lorient,3,5,A,0,2,A
+FRA,2015-04-25,16:00,Paris Saint-Germain,Lille OSC,6,1,H,4,0,H
+FRA,2015-04-25,19:00,Évian Thonon Gaillard,SC Bastia,1,2,A,1,0,H
+FRA,2015-04-25,19:00,SM Caen,EA Guingamp,0,2,A,0,0,D
+FRA,2015-04-25,19:00,Girondins Bordeaux,FC Metz,1,1,D,0,1,A
+FRA,2015-04-25,19:00,Toulouse FC,FC Nantes,1,1,D,1,0,H
+FRA,2015-04-25,19:00,Stade Rennes,OGC Nice,2,1,H,0,1,A
+FRA,2015-04-26,13:00,AS Saint-Étienne,Montpellier HSC,1,0,H,1,0,H
+FRA,2015-04-26,16:00,RC Lens,AS Monaco,0,3,A,0,2,A
+FRA,2015-04-26,20:00,Stade Reims,Olympique Lyon,2,4,A,1,3,A
+FRA,2015-04-28,20:00,Paris Saint-Germain,FC Metz,3,1,H,2,0,H
+FRA,2015-05-01,19:30,FC Metz,Olympique Marseille,0,2,A,0,1,A
+FRA,2015-05-02,16:00,Olympique Lyon,Évian Thonon Gaillard,2,0,H,2,0,H
+FRA,2015-05-02,19:00,FC Lorient,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2015-05-02,19:00,OGC Nice,SM Caen,1,1,D,1,1,D
+FRA,2015-05-02,19:00,EA Guingamp,Stade Reims,2,0,H,0,0,D
+FRA,2015-05-02,19:00,Montpellier HSC,Stade Rennes,0,0,D,0,0,D
+FRA,2015-05-02,19:00,SC Bastia,AS Saint-Étienne,1,0,H,0,0,D
+FRA,2015-05-03,13:00,Lille OSC,RC Lens,3,1,H,1,1,D
+FRA,2015-05-03,16:00,AS Monaco,Toulouse FC,4,1,H,2,1,H
+FRA,2015-05-03,20:00,FC Nantes,Paris Saint-Germain,0,2,A,0,2,A
+FRA,2015-05-08,19:30,Paris Saint-Germain,EA Guingamp,6,0,H,2,0,H
+FRA,2015-05-09,16:00,SM Caen,Olympique Lyon,3,0,H,2,0,H
+FRA,2015-05-09,19:00,Stade Rennes,SC Bastia,0,1,A,0,0,D
+FRA,2015-05-09,19:00,Toulouse FC,Lille OSC,3,2,H,1,1,D
+FRA,2015-05-09,19:00,FC Metz,FC Lorient,0,4,A,0,2,A
+FRA,2015-05-09,19:00,Girondins Bordeaux,FC Nantes,2,1,H,1,1,D
+FRA,2015-05-09,19:00,Évian Thonon Gaillard,Stade Reims,2,3,A,1,1,D
+FRA,2015-05-10,13:00,RC Lens,Montpellier HSC,0,1,A,0,0,D
+FRA,2015-05-10,16:00,AS Saint-Étienne,OGC Nice,5,0,H,2,0,H
+FRA,2015-05-10,20:00,Olympique Marseille,AS Monaco,2,1,H,0,1,A
+FRA,2015-05-16,20:00,Olympique Lyon,Girondins Bordeaux,1,1,D,1,1,D
+FRA,2015-05-16,20:00,SC Bastia,SM Caen,1,1,D,1,1,D
+FRA,2015-05-16,20:00,OGC Nice,RC Lens,2,1,H,1,1,D
+FRA,2015-05-16,20:00,FC Nantes,FC Lorient,1,1,D,1,1,D
+FRA,2015-05-16,20:00,Lille OSC,Olympique Marseille,0,4,A,0,2,A
+FRA,2015-05-16,20:00,AS Monaco,FC Metz,2,0,H,1,0,H
+FRA,2015-05-16,20:00,Montpellier HSC,Paris Saint-Germain,1,2,A,1,2,A
+FRA,2015-05-16,20:00,Stade Reims,Stade Rennes,1,0,H,0,0,D
+FRA,2015-05-16,20:00,Évian Thonon Gaillard,AS Saint-Étienne,1,2,A,1,1,D
+FRA,2015-05-16,20:00,EA Guingamp,Toulouse FC,2,1,H,1,1,D
+FRA,2015-05-23,20:00,Olympique Marseille,SC Bastia,3,0,H,2,0,H
+FRA,2015-05-23,20:00,SM Caen,Évian Thonon Gaillard,3,2,H,0,0,D
+FRA,2015-05-23,20:00,AS Saint-Étienne,EA Guingamp,2,1,H,1,0,H
+FRA,2015-05-23,20:00,FC Metz,Lille OSC,1,4,A,0,3,A
+FRA,2015-05-23,20:00,Stade Rennes,Olympique Lyon,0,1,A,0,0,D
+FRA,2015-05-23,20:00,FC Lorient,AS Monaco,0,1,A,0,1,A
+FRA,2015-05-23,20:00,Girondins Bordeaux,Montpellier HSC,2,1,H,2,0,H
+FRA,2015-05-23,20:00,RC Lens,FC Nantes,1,0,H,1,0,H
+FRA,2015-05-23,20:00,Toulouse FC,OGC Nice,2,3,A,0,2,A
+FRA,2015-05-23,20:00,Paris Saint-Germain,Stade Reims,3,2,H,2,0,H

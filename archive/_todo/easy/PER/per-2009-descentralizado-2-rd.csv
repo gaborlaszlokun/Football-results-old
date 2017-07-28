@@ -1,0 +1,115 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2009-09-12,19:30,Sporting Cristal,Inti Gas,2,1,H,1,1,D
+PER,2009-09-12,19:45,Sport Huancayo,Alianza Atlético,0,0,D,0,0,D
+PER,2009-09-12,21:45,Universitario de Deportes,Coronel Bolognesi,0,0,D,0,0,D
+PER,2009-09-12,22:00,Juan Aurich,Universidad Cesar Vallejo,2,1,H,0,0,D
+PER,2009-09-13,02:00,CN Iquitos,Alianza Lima,0,3,A,0,1,A
+PER,2009-09-13,19:15,Sport Áncash,José Gálvez,1,0,H,0,0,D
+PER,2009-09-13,21:30,Total Chalaco,Universidad San Martín,2,2,D,2,1,H
+PER,2009-09-13,21:30,FBC Melgar,Cienciano,0,0,D,0,0,D
+PER,2009-09-16,19:30,Inti Gas,Juan Aurich,2,2,D,1,1,D
+PER,2009-09-16,21:30,José Gálvez,Sporting Cristal,3,1,H,1,0,H
+PER,2009-09-16,21:30,Universidad San Martín,FBC Melgar,2,2,D,1,1,D
+PER,2009-09-16,23:30,Alianza Lima,Sport Áncash,1,0,H,0,0,D
+PER,2009-09-17,01:30,Universidad Cesar Vallejo,CN Iquitos,1,1,D,1,1,D
+PER,2009-09-17,01:30,Cienciano,Universitario de Deportes,1,1,D,0,0,D
+PER,2009-09-17,02:00,Coronel Bolognesi,Sport Huancayo,2,0,H,0,0,D
+PER,2009-09-19,17:30,Total Chalaco,Coronel Bolognesi,1,2,A,1,1,D
+PER,2009-09-20,02:00,CN Iquitos,Inti Gas,1,1,D,0,1,A
+PER,2009-09-20,17:15,FBC Melgar,Alianza Atlético,1,1,D,1,1,D
+PER,2009-09-20,19:00,Juan Aurich,José Gálvez,1,2,A,1,0,H
+PER,2009-09-20,19:00,Sport Huancayo,Cienciano,3,2,H,0,0,D
+PER,2009-09-20,19:15,Sport Áncash,Universidad Cesar Vallejo,4,0,H,3,0,H
+PER,2009-09-20,21:20,Sporting Cristal,Alianza Lima,1,1,D,0,0,D
+PER,2009-09-20,21:30,Universitario de Deportes,Universidad San Martín,0,0,D,0,0,D
+PER,2009-09-26,17:15,FBC Melgar,Coronel Bolognesi,2,1,H,2,0,H
+PER,2009-09-27,02:00,CN Iquitos,José Gálvez,2,1,H,1,1,D
+PER,2009-09-27,17:30,Sport Áncash,Inti Gas,2,1,H,1,1,D
+PER,2009-09-27,19:30,Alianza Atlético,Universitario de Deportes,0,1,A,0,1,A
+PER,2009-09-27,21:30,Alianza Lima,Juan Aurich,1,0,H,1,0,H
+PER,2009-09-27,21:30,Universidad San Martín,Sport Huancayo,1,2,A,1,1,D
+PER,2009-09-27,23:45,Universidad Cesar Vallejo,Sporting Cristal,1,1,D,0,1,A
+PER,2009-09-28,00:15,Total Chalaco,Cienciano,4,0,H,2,0,H
+PER,2009-10-03,19:30,Inti Gas,Alianza Lima,3,2,H,1,2,A
+PER,2009-10-03,21:45,Sporting Cristal,CN Iquitos,4,0,H,2,0,H
+PER,2009-10-04,01:00,Coronel Bolognesi,Universidad San Martín,1,2,A,0,0,D
+PER,2009-10-04,19:00,Sport Huancayo,FBC Melgar,3,1,H,1,0,H
+PER,2009-10-04,21:00,Juan Aurich,Sport Áncash,1,1,D,0,1,A
+PER,2009-10-04,21:30,Universitario de Deportes,Total Chalaco,2,1,H,1,1,D
+PER,2009-10-04,23:30,José Gálvez,Universidad Cesar Vallejo,0,1,A,0,1,A
+PER,2009-10-05,01:45,Cienciano,Alianza Atlético,1,0,H,0,0,D
+PER,2009-10-17,19:15,Sport Áncash,CN Iquitos,0,0,D,0,0,D
+PER,2009-10-17,19:30,Inti Gas,Universidad Cesar Vallejo,2,1,H,0,0,D
+PER,2009-10-17,21:30,FBC Melgar,Total Chalaco,1,1,D,1,1,D
+PER,2009-10-18,19:00,Juan Aurich,Sporting Cristal,0,0,D,0,0,D
+PER,2009-10-18,19:15,Sport Huancayo,Universitario de Deportes,1,0,H,0,0,D
+PER,2009-10-18,21:30,Alianza Lima,José Gálvez,1,1,D,0,0,D
+PER,2009-10-18,21:30,Universidad San Martín,Cienciano,5,0,H,3,0,H
+PER,2009-10-18,23:45,Coronel Bolognesi,Alianza Atlético,2,0,H,0,0,D
+PER,2009-10-21,19:00,Alianza Atlético,Total Chalaco,1,2,A,0,0,D
+PER,2009-10-24,21:00,Sporting Cristal,Sport Áncash,4,0,H,2,0,H
+PER,2009-10-24,21:30,José Gálvez,Inti Gas,0,3,A,0,0,D
+PER,2009-10-25,00:00,Universitario de Deportes,FBC Melgar,3,1,H,2,1,H
+PER,2009-10-25,01:15,CN Iquitos,Juan Aurich,1,0,H,0,0,D
+PER,2009-10-25,16:00,Cienciano,Coronel Bolognesi,2,0,H,1,0,H
+PER,2009-10-25,18:15,Alianza Atlético,Universidad San Martín,2,1,H,0,1,A
+PER,2009-10-25,20:30,Universidad Cesar Vallejo,Alianza Lima,2,2,D,0,1,A
+PER,2009-10-25,20:30,Total Chalaco,Sport Huancayo,5,1,H,1,0,H
+PER,2009-10-31,18:15,José Gálvez,Sport Áncash,1,0,H,0,0,D
+PER,2009-10-31,18:30,Inti Gas,Sporting Cristal,2,0,H,0,0,D
+PER,2009-10-31,20:30,Alianza Lima,CN Iquitos,2,1,H,1,0,H
+PER,2009-10-31,20:45,Universidad San Martín,Total Chalaco,1,0,H,0,0,D
+PER,2009-10-31,22:45,Universidad Cesar Vallejo,Juan Aurich,0,0,D,0,0,D
+PER,2009-11-01,01:00,Coronel Bolognesi,Universitario de Deportes,0,1,A,0,0,D
+PER,2009-11-01,18:15,Cienciano,FBC Melgar,1,4,A,1,3,A
+PER,2009-11-01,20:30,Alianza Atlético,Sport Huancayo,2,1,H,0,0,D
+PER,2009-11-04,16:00,Sport Huancayo,Coronel Bolognesi,2,1,H,1,0,H
+PER,2009-11-04,16:00,Total Chalaco,Alianza Atlético,0,0,D,0,0,D
+PER,2009-11-04,18:15,Sport Áncash,Alianza Lima,2,0,H,1,0,H
+PER,2009-11-04,19:00,Sporting Cristal,José Gálvez,3,2,H,0,1,A
+PER,2009-11-04,20:30,Universitario de Deportes,Cienciano,2,0,H,1,0,H
+PER,2009-11-04,21:00,Juan Aurich,Inti Gas,2,0,H,2,0,H
+PER,2009-11-05,00:30,FBC Melgar,Universidad San Martín,0,1,A,0,0,D
+PER,2009-11-05,01:00,CN Iquitos,Universidad Cesar Vallejo,1,1,D,0,0,D
+PER,2009-11-07,18:15,Alianza Atlético,FBC Melgar,4,1,H,1,0,H
+PER,2009-11-07,21:00,José Gálvez,Juan Aurich,3,1,H,1,1,D
+PER,2009-11-08,18:00,Inti Gas,CN Iquitos,2,1,H,0,1,A
+PER,2009-11-08,18:15,Cienciano,Sport Huancayo,3,0,H,1,0,H
+PER,2009-11-08,20:30,Alianza Lima,Sporting Cristal,1,0,H,1,0,H
+PER,2009-11-08,22:45,Coronel Bolognesi,Total Chalaco,2,2,D,1,1,D
+PER,2009-11-09,00:45,Universidad Cesar Vallejo,Sport Áncash,1,1,D,0,1,A
+PER,2009-11-14,18:00,Juan Aurich,Alianza Lima,2,1,H,1,1,D
+PER,2009-11-14,18:00,Inti Gas,Sport Áncash,1,0,H,1,0,H
+PER,2009-11-14,18:15,Sport Huancayo,Universidad San Martín,1,0,H,0,0,D
+PER,2009-11-14,21:00,Universitario de Deportes,Alianza Atlético,4,0,H,2,0,H
+PER,2009-11-14,23:15,Coronel Bolognesi,FBC Melgar,1,0,H,1,0,H
+PER,2009-11-15,17:00,Sporting Cristal,Universidad Cesar Vallejo,1,3,A,0,2,A
+PER,2009-11-15,18:15,José Gálvez,CN Iquitos,1,3,A,1,1,D
+PER,2009-11-15,20:30,Cienciano,Total Chalaco,4,1,H,2,0,H
+PER,2009-11-21,18:15,Alianza Atlético,Cienciano,2,0,H,0,0,D
+PER,2009-11-21,20:30,FBC Melgar,Sport Huancayo,3,1,H,0,1,A
+PER,2009-11-21,20:30,Universidad San Martín,Coronel Bolognesi,2,1,H,1,0,H
+PER,2009-11-22,01:00,CN Iquitos,Sporting Cristal,3,1,H,2,0,H
+PER,2009-11-22,18:15,Sport Áncash,Juan Aurich,1,0,H,1,0,H
+PER,2009-11-22,20:30,Alianza Lima,Inti Gas,3,1,H,0,0,D
+PER,2009-11-22,20:30,Total Chalaco,Universitario de Deportes,0,3,A,0,0,D
+PER,2009-11-22,22:45,Universidad Cesar Vallejo,José Gálvez,2,0,H,0,0,D
+PER,2009-11-26,00:30,Universidad San Martín,Universitario de Deportes,1,0,H,0,0,D
+PER,2009-11-29,20:00,José Gálvez,Alianza Lima,0,1,A,0,0,D
+PER,2009-11-29,20:00,Inti Gas,Universidad Cesar Vallejo,1,3,A,1,1,D
+PER,2009-11-29,20:00,Sporting Cristal,Juan Aurich,0,1,A,0,1,A
+PER,2009-11-29,20:00,CN Iquitos,Sport Áncash,1,0,H,0,0,D
+PER,2009-11-29,20:00,Universitario de Deportes,Sport Huancayo,5,0,H,2,0,H
+PER,2009-11-29,20:00,Total Chalaco,FBC Melgar,2,2,D,1,2,A
+PER,2009-11-29,20:00,Alianza Atlético,Coronel Bolognesi,2,2,D,0,1,A
+PER,2009-11-29,20:00,Cienciano,Universidad San Martín,1,1,D,0,1,A
+PER,2009-12-05,16:00,Coronel Bolognesi,Cienciano,2,2,D,2,0,H
+PER,2009-12-05,20:30,Alianza Lima,Universidad Cesar Vallejo,2,2,D,2,1,H
+PER,2009-12-06,20:00,Sport Áncash,Sporting Cristal,1,0,H,0,0,D
+PER,2009-12-06,20:00,Juan Aurich,CN Iquitos,3,0,H,2,0,H
+PER,2009-12-06,20:00,Inti Gas,José Gálvez,2,1,H,1,1,D
+PER,2009-12-06,20:00,Sport Huancayo,Total Chalaco,3,0,H,1,0,H
+PER,2009-12-06,20:00,FBC Melgar,Universitario de Deportes,5,0,H,2,0,H
+PER,2009-12-06,20:00,Universidad San Martín,Alianza Atlético,0,2,A,0,0,D
+PER,2009-12-08,21:00,Alianza Lima,Universitario de Deportes,0,1,A,0,1,A
+PER,2009-12-13,20:30,Universitario de Deportes,Alianza Lima,1,0,H,1,0,H

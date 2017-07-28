@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+LAT,2014-03-21,17:00,FK Liepāja,FS Metta/LU,2,1,H,0.0,0.0,D
+LAT,2014-03-22,13:00,FK Ventspils,FK Daugava Rīga,2,0,H,0.0,0.0,D
+LAT,2014-03-22,13:00,FC Jūrmala,FK Jelgava,1,3,A,1.0,1.0,D
+LAT,2014-03-23,13:00,FK Spartaks,BFC Daugavpils,0,1,A,0.0,0.0,D
+LAT,2014-03-29,11:00,FC Jūrmala,FK Daugava Rīga,1,1,D,0.0,0.0,D
+LAT,2014-03-29,13:00,BFC Daugavpils,FK Liepāja,1,1,D,0.0,0.0,D
+LAT,2014-03-30,13:00,FS Metta/LU,FK Ventspils,0,2,A,0.0,0.0,D
+LAT,2014-03-30,13:00,FC Daugava,FK Jelgava,1,2,A,0.0,1.0,A
+LAT,2014-03-30,17:00,Skonto FC,FK Spartaks,2,1,H,0.0,1.0,A
+LAT,2014-04-05,13:00,FS Metta/LU,BFC Daugavpils,1,0,H,0.0,0.0,D
+LAT,2014-04-09,14:00,FC Daugava,FC Jūrmala,2,0,H,1.0,0.0,H
+LAT,2014-04-09,16:00,FK Jelgava,FK Spartaks,0,0,D,0.0,0.0,D
+LAT,2014-04-09,17:00,FK Liepāja,Skonto FC,1,0,H,0.0,0.0,D
+LAT,2014-04-12,12:00,FS Metta/LU,FC Jūrmala,2,4,A,0.0,2.0,A
+LAT,2014-04-12,12:00,FK Ventspils,FK Liepāja,3,2,H,1.0,1.0,D
+LAT,2014-04-13,11:00,FC Daugava,FK Daugava Rīga,1,0,H,0.0,0.0,D
+LAT,2014-04-13,16:00,FK Jelgava,Skonto FC,0,3,A,0.0,2.0,A
+LAT,2014-04-16,15:00,FK Ventspils,FC Jūrmala,3,1,H,2.0,1.0,H
+LAT,2014-04-16,15:00,BFC Daugavpils,FK Daugava Rīga,3,2,H,1.0,2.0,A
+LAT,2014-04-16,17:00,Skonto FC,FS Metta/LU,3,1,H,,,
+LAT,2014-04-16,17:00,FK Liepāja,FK Jelgava,2,3,A,1.0,1.0,D
+LAT,2014-04-19,12:00,FC Daugava,FS Metta/LU,1,0,H,1.0,0.0,H
+LAT,2014-04-19,15:00,FK Spartaks,FC Jūrmala,1,1,D,1.0,0.0,H
+LAT,2014-04-20,12:00,FK Liepāja,FK Daugava Rīga,1,0,H,0.0,0.0,D
+LAT,2014-04-20,14:00,FK Jelgava,FK Ventspils,1,2,A,0.0,2.0,A
+LAT,2014-04-20,15:00,Skonto FC,BFC Daugavpils,3,1,H,1.0,1.0,D
+LAT,2014-04-26,12:00,BFC Daugavpils,FC Daugava,0,1,A,0.0,0.0,D
+LAT,2014-04-26,13:00,FS Metta/LU,FK Liepāja,1,4,A,1.0,1.0,D
+LAT,2014-04-26,16:00,FK Daugava Rīga,FK Spartaks,0,2,A,0.0,0.0,D
+LAT,2014-04-27,12:00,FK Ventspils,Skonto FC,1,0,H,0.0,0.0,D
+LAT,2014-04-30,15:00,FC Daugava,FK Liepāja,5,3,H,2.0,2.0,D
+LAT,2014-05-01,12:00,FK Jelgava,FK Daugava Rīga,4,1,H,0.0,0.0,D
+LAT,2014-05-01,14:00,BFC Daugavpils,FK Ventspils,0,3,A,0.0,1.0,A
+LAT,2014-05-01,16:00,FK Spartaks,FS Metta/LU,4,1,H,1.0,1.0,D
+LAT,2014-05-01,17:00,Skonto FC,FC Jūrmala,1,0,H,1.0,0.0,H
+LAT,2014-05-05,12:00,FK Jelgava,FS Metta/LU,1,1,D,1.0,1.0,D
+LAT,2014-05-05,14:00,FK Liepāja,FK Spartaks,2,0,H,0.0,0.0,D
+LAT,2014-05-05,16:00,FC Jūrmala,BFC Daugavpils,1,2,A,0.0,0.0,D
+LAT,2014-05-06,15:00,FK Daugava Rīga,Skonto FC,1,6,A,1.0,1.0,D
+LAT,2014-05-06,15:00,FK Ventspils,FC Daugava,3,0,H,0.0,0.0,D
+LAT,2014-05-10,12:00,FC Jūrmala,FK Liepāja,2,3,A,1.0,1.0,D
+LAT,2014-05-10,15:00,Skonto FC,FC Daugava,2,1,H,2.0,1.0,H
+LAT,2014-05-10,15:00,FK Ventspils,FK Spartaks,1,0,H,0.0,0.0,D
+LAT,2014-05-10,16:00,BFC Daugavpils,FK Jelgava,2,3,A,2.0,3.0,A
+LAT,2014-05-10,17:00,FS Metta/LU,FK Daugava Rīga,0,2,A,0.0,2.0,A
+LAT,2014-05-14,15:00,FC Jūrmala,FK Ventspils,0,6,A,0.0,3.0,A
+LAT,2014-05-14,16:00,FC Daugava,FK Spartaks,3,3,D,2.0,0.0,H
+LAT,2014-05-14,16:00,FK Liepāja,FK Jelgava,2,1,H,2.0,1.0,H
+LAT,2014-05-14,16:00,FK Daugava Rīga,BFC Daugavpils,1,0,H,1.0,0.0,H
+LAT,2014-05-14,18:00,FS Metta/LU,Skonto FC,1,2,A,0.0,1.0,A
+LAT,2014-05-17,11:00,FC Daugava,FC Jūrmala,1,0,H,0.0,0.0,D
+LAT,2014-05-17,15:00,FK Daugava Rīga,FK Ventspils,0,4,A,0.0,2.0,A
+LAT,2014-05-18,14:00,BFC Daugavpils,FS Metta/LU,1,1,D,0.0,0.0,D
+LAT,2014-05-21,15:00,FC Daugava,FK Spartaks,1,0,H,0.0,0.0,D
+LAT,2014-05-23,17:00,FK Daugava Rīga,FC Jūrmala,3,0,H,1.0,0.0,H
+LAT,2014-05-24,14:00,FK Jelgava,FC Daugava,1,1,D,0.0,1.0,A
+LAT,2014-05-24,14:00,FK Ventspils,FS Metta/LU,2,0,H,1.0,0.0,H
+LAT,2014-05-24,16:00,BFC Daugavpils,FK Liepāja,0,4,A,0.0,2.0,A
+LAT,2014-05-25,14:00,FK Spartaks,Skonto FC,0,2,A,0.0,0.0,D
+LAT,2014-06-01,14:00,FK Daugava Rīga,FC Daugava,0,1,A,0.0,1.0,A
+LAT,2014-06-01,17:00,BFC Daugavpils,FK Spartaks,1,3,A,1.0,1.0,D
+LAT,2014-06-01,,FC Jūrmala,FS Metta/LU,0,3,A,,,
+LAT,2014-06-03,17:00,Skonto FC,FK Jelgava,1,1,D,0.0,0.0,D
+LAT,2014-06-03,17:00,FK Liepāja,FK Ventspils,2,0,H,1.0,0.0,H
+LAT,2014-06-06,16:00,FK Spartaks,FK Jelgava,0,1,A,0.0,0.0,D
+LAT,2014-06-10,15:00,FC Daugava,Skonto FC,0,4,A,0.0,2.0,A
+LAT,2014-06-10,17:00,FK Jelgava,BFC Daugavpils,1,0,H,0.0,0.0,D
+LAT,2014-06-10,17:00,FK Spartaks,FK Ventspils,1,0,H,0.0,0.0,D
+LAT,2014-06-11,17:00,FK Liepāja,FC Jūrmala,7,0,H,2.0,0.0,H
+LAT,2014-06-11,17:00,FK Daugava Rīga,FS Metta/LU,1,0,H,0.0,0.0,D
+LAT,2014-06-14,13:00,FC Jūrmala,FK Spartaks,0,1,A,0.0,1.0,A
+LAT,2014-06-14,13:00,BFC Daugavpils,Skonto FC,0,2,A,0.0,0.0,D
+LAT,2014-06-14,15:00,FS Metta/LU,FC Daugava,0,1,A,0.0,1.0,A
+LAT,2014-06-14,15:00,FK Ventspils,FK Jelgava,0,0,D,0.0,0.0,D
+LAT,2014-06-15,15:00,FK Daugava Rīga,FK Liepāja,4,0,H,2.0,0.0,H
+LAT,2014-06-18,15:00,Skonto FC,FK Ventspils,2,0,H,0.0,0.0,D
+LAT,2014-06-18,17:00,FK Jelgava,FC Jūrmala,5,0,H,1.0,0.0,H
+LAT,2014-06-18,17:00,FK Spartaks,FK Daugava Rīga,1,0,H,1.0,0.0,H
+LAT,2014-06-18,17:00,FC Daugava,BFC Daugavpils,2,1,H,1.0,1.0,D
+LAT,2014-06-21,13:00,FK Jelgava,FK Daugava Rīga,1,1,D,1.0,1.0,D
+LAT,2014-06-21,15:00,FK Liepāja,FC Daugava,0,3,A,0.0,1.0,A
+LAT,2014-06-21,15:00,FS Metta/LU,FK Spartaks,2,2,D,1.0,0.0,H
+LAT,2014-06-22,14:00,FC Jūrmala,Skonto FC,0,5,A,0.0,0.0,D
+LAT,2014-06-22,15:00,FK Ventspils,BFC Daugavpils,0,1,A,0.0,1.0,A
+LAT,2014-06-25,15:00,BFC Daugavpils,FC Jūrmala,1,1,D,0.0,1.0,A
+LAT,2014-06-25,15:00,Skonto FC,FK Daugava Rīga,5,1,H,3.0,0.0,H
+LAT,2014-06-25,17:00,FS Metta/LU,FK Jelgava,1,1,D,1.0,0.0,H
+LAT,2014-06-25,17:00,FK Spartaks,FK Liepāja,2,0,H,0.0,0.0,D
+LAT,2014-06-25,17:00,FC Daugava,FK Ventspils,1,1,D,0.0,0.0,D
+LAT,2014-06-28,14:00,Skonto FC,FS Metta/LU,3,1,H,2.0,0.0,H
+LAT,2014-06-29,13:00,FK Ventspils,FC Jūrmala,6,1,H,1.0,1.0,D
+LAT,2014-06-29,15:00,FK Spartaks,FC Daugava,0,0,D,0.0,0.0,D
+LAT,2014-06-29,15:00,FK Jelgava,FK Liepāja,3,0,H,2.0,0.0,H
+LAT,2014-06-29,15:00,BFC Daugavpils,FK Daugava Rīga,0,1,A,0.0,1.0,A
+LAT,2014-07-06,15:00,FS Metta/LU,BFC Daugavpils,1,1,D,1.0,1.0,D
+LAT,2014-07-06,17:00,FK Spartaks,FK Jelgava,1,1,D,0.0,1.0,A
+LAT,2014-07-06,,FK Liepāja,Skonto FC,3,0,H,,,
+LAT,2014-07-07,15:00,FC Jūrmala,FC Daugava,2,3,A,1.0,1.0,D
+LAT,2014-07-11,17:00,FS Metta/LU,FK Ventspils,0,3,A,0.0,2.0,A
+LAT,2014-07-12,15:00,FK Liepāja,BFC Daugavpils,2,1,H,1.0,0.0,H
+LAT,2014-07-13,15:00,FK Jelgava,FC Daugava,1,0,H,0.0,0.0,D
+LAT,2014-07-13,17:00,Skonto FC,FK Spartaks,0,1,A,0.0,0.0,D
+LAT,2014-07-13,17:00,FC Jūrmala,FK Daugava Rīga,0,6,A,0.0,0.0,D
+LAT,2014-07-23,17:00,Skonto FC,FK Liepāja,2,0,H,1.0,0.0,H
+LAT,2014-07-26,17:00,FS Metta/LU,FC Jūrmala,1,1,D,0.0,1.0,A
+LAT,2014-07-27,17:00,FK Spartaks,BFC Daugavpils,2,0,H,1.0,0.0,H
+LAT,2014-07-28,17:00,FC Daugava,FK Daugava Rīga,2,2,D,0.0,2.0,A
+LAT,2014-07-28,17:00,FK Jelgava,Skonto FC,0,1,A,0.0,0.0,D
+LAT,2014-07-28,17:00,FK Ventspils,FK Liepāja,1,0,H,0.0,0.0,D
+LAT,2014-08-01,17:00,Skonto FC,FC Daugava,1,0,H,1.0,0.0,H
+LAT,2014-08-01,17:00,FK Daugava Rīga,FS Metta/LU,2,0,H,1.0,0.0,H
+LAT,2014-08-02,15:00,BFC Daugavpils,FK Jelgava,0,2,A,0.0,0.0,D
+LAT,2014-08-03,15:00,FC Jūrmala,FK Liepāja,0,1,A,0.0,1.0,A
+LAT,2014-08-03,17:00,FK Ventspils,FK Spartaks,1,0,H,1.0,0.0,H
+LAT,2014-08-08,17:00,Skonto FC,BFC Daugavpils,2,0,H,2.0,0.0,H
+LAT,2014-08-08,17:00,FK Jelgava,FK Ventspils,1,0,H,0.0,0.0,D
+LAT,2014-08-09,13:00,FK Liepāja,FK Daugava Rīga,1,2,A,0.0,1.0,A
+LAT,2014-08-09,17:00,FC Daugava,FS Metta/LU,2,1,H,1.0,0.0,H
+LAT,2014-08-09,17:00,FK Spartaks,FC Jūrmala,4,1,H,2.0,1.0,H
+LAT,2014-08-13,15:00,FK Ventspils,Skonto FC,2,1,H,0.0,0.0,D
+LAT,2014-08-13,16:00,BFC Daugavpils,FC Daugava,0,2,A,0.0,0.0,D
+LAT,2014-08-13,17:00,FC Jūrmala,FK Jelgava,0,2,A,0.0,0.0,D
+LAT,2014-08-13,17:00,FK Daugava Rīga,FK Spartaks,2,1,H,0.0,1.0,A
+LAT,2014-08-13,17:00,FS Metta/LU,FK Liepāja,0,2,A,0.0,0.0,D
+LAT,2014-08-16,16:00,FK Spartaks,FS Metta/LU,2,0,H,0.0,0.0,D
+LAT,2014-08-16,17:00,FC Daugava,FK Liepāja,3,1,H,2.0,0.0,H
+LAT,2014-08-17,14:00,Skonto FC,FC Jūrmala,4,3,H,1.0,2.0,A
+LAT,2014-08-17,16:00,BFC Daugavpils,FK Ventspils,0,1,A,0.0,0.0,D
+LAT,2014-08-17,16:00,FK Daugava Rīga,FK Jelgava,0,3,A,0.0,2.0,A
+LAT,2014-08-21,15:00,FC Jūrmala,BFC Daugavpils,1,1,D,0.0,1.0,A
+LAT,2014-08-21,16:00,FK Liepāja,FK Spartaks,3,0,H,2.0,0.0,H
+LAT,2014-08-22,16:00,FC Daugava,FK Ventspils,1,1,D,0.0,1.0,A
+LAT,2014-08-22,16:00,FK Jelgava,FS Metta/LU,1,1,D,1.0,1.0,D
+LAT,2014-08-22,17:00,FK Daugava Rīga,Skonto FC,1,2,A,0.0,2.0,A
+LAT,2014-08-26,16:00,FK Spartaks,FC Daugava,0,0,D,0.0,0.0,D
+LAT,2014-08-27,16:00,FK Jelgava,FK Liepāja,1,0,H,1.0,0.0,H
+LAT,2014-08-27,16:00,FS Metta/LU,Skonto FC,0,3,A,0.0,3.0,A
+LAT,2014-08-28,16:00,FC Jūrmala,FK Ventspils,0,7,A,0.0,1.0,A
+LAT,2014-08-28,16:00,FK Daugava Rīga,BFC Daugavpils,4,2,H,3.0,1.0,H
+LAT,2014-09-12,15:00,FC Jūrmala,FC Daugava,1,1,D,0.0,0.0,D
+LAT,2014-09-12,16:00,FK Jelgava,FK Spartaks,0,0,D,0.0,0.0,D
+LAT,2014-09-13,12:00,BFC Daugavpils,FS Metta/LU,4,1,H,2.0,1.0,H
+LAT,2014-09-13,15:00,FK Ventspils,FK Daugava Rīga,0,0,D,0.0,0.0,D
+LAT,2014-09-14,16:00,Skonto FC,FK Liepāja,1,2,A,1.0,0.0,H
+LAT,2014-09-19,16:00,FK Daugava Rīga,FC Jūrmala,3,1,H,1.0,0.0,H
+LAT,2014-09-20,14:00,FK Liepāja,BFC Daugavpils,5,0,H,1.0,0.0,H
+LAT,2014-09-20,14:00,FC Daugava,FK Jelgava,1,0,H,1.0,0.0,H
+LAT,2014-09-21,12:00,FK Ventspils,FS Metta/LU,2,1,H,1.0,0.0,H
+LAT,2014-09-21,14:00,FK Spartaks,Skonto FC,1,0,H,1.0,0.0,H
+LAT,2014-09-24,17:00,FK Daugava Rīga,FK Ventspils,0,3,A,0.0,0.0,D
+LAT,2014-09-27,12:00,FC Jūrmala,FS Metta/LU,1,0,H,0.0,0.0,D
+LAT,2014-09-27,14:00,BFC Daugavpils,FK Spartaks,1,0,H,1.0,0.0,H
+LAT,2014-09-28,10:00,FK Daugava Rīga,FC Daugava,1,4,A,0.0,1.0,A
+LAT,2014-09-28,12:00,FK Liepāja,FK Ventspils,1,1,D,0.0,0.0,D
+LAT,2014-09-29,16:00,Skonto FC,FK Jelgava,0,3,A,0.0,1.0,A
+LAT,2014-10-03,17:00,FS Metta/LU,FK Daugava Rīga,1,2,A,0.0,1.0,A
+LAT,2014-10-04,11:00,FK Jelgava,BFC Daugavpils,2,0,H,2.0,0.0,H
+LAT,2014-10-04,13:00,FK Spartaks,FK Ventspils,1,2,A,0.0,1.0,A
+LAT,2014-10-04,13:00,FC Daugava,Skonto FC,0,1,A,0.0,1.0,A
+LAT,2014-10-04,15:00,FK Liepāja,FC Jūrmala,6,0,H,2.0,0.0,H
+LAT,2014-10-17,17:00,FS Metta/LU,FC Daugava,0,1,A,0.0,1.0,A
+LAT,2014-10-18,12:00,FK Ventspils,FK Jelgava,2,0,H,1.0,0.0,H
+LAT,2014-10-18,13:00,FC Jūrmala,FK Spartaks,1,2,A,1.0,0.0,H
+LAT,2014-10-19,12:00,BFC Daugavpils,Skonto FC,1,0,H,1.0,0.0,H
+LAT,2014-10-20,17:00,FK Daugava Rīga,FK Liepāja,2,4,A,0.0,2.0,A
+LAT,2014-10-24,17:00,FK Liepāja,FS Metta/LU,2,0,H,1.0,0.0,H
+LAT,2014-10-25,12:00,Skonto FC,FK Ventspils,2,4,A,0.0,1.0,A
+LAT,2014-10-25,12:00,FK Jelgava,FC Jūrmala,2,1,H,1.0,1.0,D
+LAT,2014-10-26,12:00,FK Spartaks,FK Daugava Rīga,1,0,H,1.0,0.0,H
+LAT,2014-10-26,12:00,FC Daugava,BFC Daugavpils,5,0,H,2.0,0.0,H
+LAT,2014-11-01,12:00,FK Liepāja,FC Daugava,3,2,H,1.0,1.0,D
+LAT,2014-11-01,12:00,FS Metta/LU,FK Spartaks,2,1,H,2.0,1.0,H
+LAT,2014-11-01,12:00,FK Daugava Rīga,FK Jelgava,1,3,A,1.0,1.0,D
+LAT,2014-11-01,12:00,FC Jūrmala,Skonto FC,1,7,A,1.0,2.0,A
+LAT,2014-11-01,12:00,FK Ventspils,BFC Daugavpils,2,0,H,2.0,0.0,H
+LAT,2014-11-08,12:00,FK Ventspils,FC Daugava,4,0,H,0.0,0.0,D
+LAT,2014-11-08,12:00,BFC Daugavpils,FC Jūrmala,4,2,H,1.0,1.0,D
+LAT,2014-11-08,12:00,Skonto FC,FK Daugava Rīga,4,1,H,1.0,1.0,D
+LAT,2014-11-08,12:00,FS Metta/LU,FK Jelgava,0,3,A,0.0,0.0,D
+LAT,2014-11-08,12:00,FK Spartaks,FK Liepāja,0,0,D,0.0,0.0,D

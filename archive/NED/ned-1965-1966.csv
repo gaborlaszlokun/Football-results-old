@@ -1,241 +1,241 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-NED,22/08/1965,,ADO Den Haag,Sparta Rotterdam,2,2,D,NaN,NaN,NaN
-NED,22/08/1965,,AFC Ajax,DOS Utrecht,2,1,H,NaN,NaN,NaN
-NED,22/08/1965,,USV Elinkwijk,MVV,2,2,D,NaN,NaN,NaN
-NED,22/08/1965,,FC Twente,Telstar,1,1,D,NaN,NaN,NaN
-NED,22/08/1965,,Feijenoord,PSV Eindhoven,3,2,H,NaN,NaN,NaN
-NED,22/08/1965,,Fortuna Sittard,DWS Amsterdam,1,3,A,NaN,NaN,NaN
-NED,22/08/1965,,GVAV Groningen,Heracles Almelo,1,1,D,NaN,NaN,NaN
-NED,22/08/1965,,Willem II,Go Ahead Eagles,1,0,H,NaN,NaN,NaN
-NED,29/08/1965,,DOS Utrecht,Fortuna Sittard,2,2,D,NaN,NaN,NaN
-NED,29/08/1965,,DWS Amsterdam,ADO Den Haag,2,1,H,NaN,NaN,NaN
-NED,29/08/1965,,Go Ahead Eagles,FC Twente,2,0,H,NaN,NaN,NaN
-NED,29/08/1965,,Heracles Almelo,Willem II,0,3,A,NaN,NaN,NaN
-NED,29/08/1965,,MVV,AFC Ajax,0,1,A,NaN,NaN,NaN
-NED,29/08/1965,,PSV Eindhoven,USV Elinkwijk,1,1,D,NaN,NaN,NaN
-NED,29/08/1965,,Sparta Rotterdam,GVAV Groningen,1,2,A,NaN,NaN,NaN
-NED,29/08/1965,,Telstar,Feijenoord,0,2,A,NaN,NaN,NaN
-NED,05/09/1965,,ADO Den Haag,Fortuna Sittard,1,1,D,NaN,NaN,NaN
-NED,05/09/1965,,AFC Ajax,PSV Eindhoven,2,0,H,NaN,NaN,NaN
-NED,05/09/1965,,USV Elinkwijk,Telstar,3,3,D,NaN,NaN,NaN
-NED,05/09/1965,,FC Twente,Heracles Almelo,4,1,H,NaN,NaN,NaN
-NED,05/09/1965,,Feijenoord,Go Ahead Eagles,0,0,D,NaN,NaN,NaN
-NED,05/09/1965,,GVAV Groningen,DWS Amsterdam,0,0,D,NaN,NaN,NaN
-NED,05/09/1965,,MVV,DOS Utrecht,2,2,D,NaN,NaN,NaN
-NED,05/09/1965,,Willem II,Sparta Rotterdam,1,3,A,NaN,NaN,NaN
-NED,12/09/1965,,DOS Utrecht,ADO Den Haag,0,7,A,NaN,NaN,NaN
-NED,12/09/1965,,DWS Amsterdam,Willem II,0,0,D,NaN,NaN,NaN
-NED,12/09/1965,,Fortuna Sittard,GVAV Groningen,0,0,D,NaN,NaN,NaN
-NED,12/09/1965,,Go Ahead Eagles,USV Elinkwijk,3,0,H,NaN,NaN,NaN
-NED,12/09/1965,,Heracles Almelo,Feijenoord,1,3,A,NaN,NaN,NaN
-NED,12/09/1965,,PSV Eindhoven,MVV,2,1,H,NaN,NaN,NaN
-NED,12/09/1965,,Sparta Rotterdam,FC Twente,3,4,A,NaN,NaN,NaN
-NED,12/09/1965,,Telstar,AFC Ajax,1,2,A,NaN,NaN,NaN
-NED,26/09/1965,,AFC Ajax,Go Ahead Eagles,4,0,H,NaN,NaN,NaN
-NED,26/09/1965,,USV Elinkwijk,Heracles Almelo,1,0,H,NaN,NaN,NaN
-NED,26/09/1965,,FC Twente,DWS Amsterdam,0,3,A,NaN,NaN,NaN
-NED,26/09/1965,,Feijenoord,Sparta Rotterdam,2,0,H,NaN,NaN,NaN
-NED,26/09/1965,,GVAV Groningen,ADO Den Haag,1,1,D,NaN,NaN,NaN
-NED,26/09/1965,,MVV,Telstar,0,1,A,NaN,NaN,NaN
-NED,26/09/1965,,PSV Eindhoven,DOS Utrecht,2,0,H,NaN,NaN,NaN
-NED,26/09/1965,,Willem II,Fortuna Sittard,0,2,A,NaN,NaN,NaN
-NED,03/10/1965,,ADO Den Haag,Willem II,4,0,H,NaN,NaN,NaN
-NED,03/10/1965,,DOS Utrecht,GVAV Groningen,3,2,H,NaN,NaN,NaN
-NED,03/10/1965,,DWS Amsterdam,Feijenoord,2,0,H,NaN,NaN,NaN
-NED,03/10/1965,,Fortuna Sittard,FC Twente,1,3,A,NaN,NaN,NaN
-NED,03/10/1965,,Go Ahead Eagles,MVV,1,1,D,NaN,NaN,NaN
-NED,03/10/1965,,Heracles Almelo,AFC Ajax,1,1,D,NaN,NaN,NaN
-NED,03/10/1965,,Sparta Rotterdam,USV Elinkwijk,2,1,H,NaN,NaN,NaN
-NED,03/10/1965,,Telstar,PSV Eindhoven,3,1,H,NaN,NaN,NaN
-NED,10/10/1965,,AFC Ajax,Sparta Rotterdam,0,1,A,NaN,NaN,NaN
-NED,10/10/1965,,USV Elinkwijk,DWS Amsterdam,1,0,H,NaN,NaN,NaN
-NED,10/10/1965,,FC Twente,ADO Den Haag,0,0,D,NaN,NaN,NaN
-NED,10/10/1965,,Feijenoord,Fortuna Sittard,1,0,H,NaN,NaN,NaN
-NED,10/10/1965,,MVV,Heracles Almelo,2,2,D,NaN,NaN,NaN
-NED,10/10/1965,,PSV Eindhoven,Go Ahead Eagles,2,2,D,NaN,NaN,NaN
-NED,10/10/1965,,Telstar,DOS Utrecht,1,0,H,NaN,NaN,NaN
-NED,10/10/1965,,Willem II,GVAV Groningen,4,0,H,NaN,NaN,NaN
-NED,24/10/1965,,ADO Den Haag,Feijenoord,2,1,H,NaN,NaN,NaN
-NED,24/10/1965,,DOS Utrecht,Willem II,0,2,A,NaN,NaN,NaN
-NED,24/10/1965,,DWS Amsterdam,AFC Ajax,0,2,A,NaN,NaN,NaN
-NED,24/10/1965,,Fortuna Sittard,USV Elinkwijk,3,0,H,NaN,NaN,NaN
-NED,24/10/1965,,Go Ahead Eagles,Telstar,2,1,H,NaN,NaN,NaN
-NED,24/10/1965,,GVAV Groningen,FC Twente,0,2,A,NaN,NaN,NaN
-NED,24/10/1965,,Heracles Almelo,PSV Eindhoven,0,3,A,NaN,NaN,NaN
-NED,24/10/1965,,Sparta Rotterdam,MVV,7,2,H,NaN,NaN,NaN
-NED,31/10/1965,,AFC Ajax,Fortuna Sittard,5,1,H,NaN,NaN,NaN
-NED,31/10/1965,,USV Elinkwijk,ADO Den Haag,1,1,D,NaN,NaN,NaN
-NED,31/10/1965,,FC Twente,Willem II,6,1,H,NaN,NaN,NaN
-NED,31/10/1965,,Feijenoord,GVAV Groningen,1,2,A,NaN,NaN,NaN
-NED,31/10/1965,,Go Ahead Eagles,DOS Utrecht,1,1,D,NaN,NaN,NaN
-NED,31/10/1965,,MVV,DWS Amsterdam,0,1,A,NaN,NaN,NaN
-NED,31/10/1965,,PSV Eindhoven,Sparta Rotterdam,2,1,H,NaN,NaN,NaN
-NED,31/10/1965,,Telstar,Heracles Almelo,0,2,A,NaN,NaN,NaN
-NED,28/11/1965,,ADO Den Haag,AFC Ajax,2,3,A,NaN,NaN,NaN
-NED,28/11/1965,,DOS Utrecht,FC Twente,3,0,H,NaN,NaN,NaN
-NED,28/11/1965,,DWS Amsterdam,PSV Eindhoven,2,2,D,NaN,NaN,NaN
-NED,28/11/1965,,Fortuna Sittard,MVV,3,3,D,NaN,NaN,NaN
-NED,28/11/1965,,Sparta Rotterdam,Telstar,1,0,H,NaN,NaN,NaN
-NED,28/11/1965,,Willem II,Feijenoord,3,4,A,NaN,NaN,NaN
-NED,10/03/1966,,GVAV Groningen,USV Elinkwijk,4,0,H,NaN,NaN,NaN
-NED,10/03/1966,,Heracles Almelo,Go Ahead Eagles,0,0,D,NaN,NaN,NaN
-NED,05/12/1965,,AFC Ajax,GVAV Groningen,5,1,H,NaN,NaN,NaN
-NED,05/12/1965,,Go Ahead Eagles,Sparta Rotterdam,2,2,D,NaN,NaN,NaN
-NED,05/12/1965,,Heracles Almelo,DOS Utrecht,2,2,D,NaN,NaN,NaN
-NED,05/12/1965,,PSV Eindhoven,Fortuna Sittard,2,2,D,NaN,NaN,NaN
-NED,05/12/1965,,Telstar,DWS Amsterdam,2,2,D,NaN,NaN,NaN
-NED,16/01/1966,,USV Elinkwijk,Willem II,0,1,A,NaN,NaN,NaN
-NED,16/01/1966,,Feijenoord,FC Twente,4,0,H,NaN,NaN,NaN
-NED,16/01/1966,,MVV,ADO Den Haag,0,3,A,NaN,NaN,NaN
-NED,12/12/1965,,ADO Den Haag,PSV Eindhoven,1,3,A,NaN,NaN,NaN
-NED,12/12/1965,,DOS Utrecht,Feijenoord,0,3,A,NaN,NaN,NaN
-NED,12/12/1965,,DWS Amsterdam,Go Ahead Eagles,1,2,A,NaN,NaN,NaN
-NED,12/12/1965,,FC Twente,USV Elinkwijk,3,1,H,NaN,NaN,NaN
-NED,12/12/1965,,Fortuna Sittard,Telstar,2,1,H,NaN,NaN,NaN
-NED,12/12/1965,,GVAV Groningen,MVV,2,0,H,NaN,NaN,NaN
-NED,12/12/1965,,Sparta Rotterdam,Heracles Almelo,6,0,H,NaN,NaN,NaN
-NED,12/12/1965,,Willem II,AFC Ajax,1,4,A,NaN,NaN,NaN
-NED,26/12/1965,,AFC Ajax,FC Twente,3,1,H,NaN,NaN,NaN
-NED,26/12/1965,,USV Elinkwijk,Feijenoord,1,3,A,NaN,NaN,NaN
-NED,26/12/1965,,Go Ahead Eagles,Fortuna Sittard,0,0,D,NaN,NaN,NaN
-NED,26/12/1965,,Heracles Almelo,DWS Amsterdam,0,1,A,NaN,NaN,NaN
-NED,26/12/1965,,MVV,Willem II,3,1,H,NaN,NaN,NaN
-NED,26/12/1965,,PSV Eindhoven,GVAV Groningen,0,2,A,NaN,NaN,NaN
-NED,26/12/1965,,Sparta Rotterdam,DOS Utrecht,3,1,H,NaN,NaN,NaN
-NED,26/12/1965,,Telstar,ADO Den Haag,2,2,D,NaN,NaN,NaN
-NED,09/01/1966,,ADO Den Haag,Go Ahead Eagles,4,0,H,NaN,NaN,NaN
-NED,09/01/1966,,DWS Amsterdam,Sparta Rotterdam,1,1,D,NaN,NaN,NaN
-NED,09/01/1966,,USV Elinkwijk,DOS Utrecht,6,2,H,NaN,NaN,NaN
-NED,09/01/1966,,FC Twente,MVV,0,0,D,NaN,NaN,NaN
-NED,09/01/1966,,Feijenoord,AFC Ajax,1,1,D,NaN,NaN,NaN
-NED,09/01/1966,,Fortuna Sittard,Heracles Almelo,1,0,H,NaN,NaN,NaN
-NED,09/01/1966,,GVAV Groningen,Telstar,4,2,H,NaN,NaN,NaN
-NED,09/01/1966,,Willem II,PSV Eindhoven,0,0,D,NaN,NaN,NaN
-NED,30/01/1966,,AFC Ajax,USV Elinkwijk,7,0,H,NaN,NaN,NaN
-NED,30/01/1966,,DOS Utrecht,DWS Amsterdam,2,3,A,NaN,NaN,NaN
-NED,30/01/1966,,Go Ahead Eagles,GVAV Groningen,2,0,H,NaN,NaN,NaN
-NED,30/01/1966,,MVV,Feijenoord,0,2,A,NaN,NaN,NaN
-NED,30/01/1966,,PSV Eindhoven,FC Twente,2,2,D,NaN,NaN,NaN
-NED,30/01/1966,,Sparta Rotterdam,Fortuna Sittard,2,1,H,NaN,NaN,NaN
-NED,30/01/1966,,Telstar,Willem II,1,3,A,NaN,NaN,NaN
-NED,16/02/1966,,ADO Den Haag,Heracles Almelo,2,2,D,NaN,NaN,NaN
-NED,06/02/1966,,DOS Utrecht,AFC Ajax,1,2,A,NaN,NaN,NaN
-NED,06/02/1966,,DWS Amsterdam,Fortuna Sittard,4,1,H,NaN,NaN,NaN
-NED,06/02/1966,,Go Ahead Eagles,Willem II,5,2,H,NaN,NaN,NaN
-NED,06/02/1966,,Heracles Almelo,GVAV Groningen,2,1,H,NaN,NaN,NaN
-NED,06/02/1966,,MVV,USV Elinkwijk,1,0,H,NaN,NaN,NaN
-NED,06/02/1966,,PSV Eindhoven,Feijenoord,1,3,A,NaN,NaN,NaN
-NED,06/02/1966,,Sparta Rotterdam,ADO Den Haag,0,4,A,NaN,NaN,NaN
-NED,06/02/1966,,Telstar,FC Twente,1,0,H,NaN,NaN,NaN
-NED,27/02/1966,,ADO Den Haag,DWS Amsterdam,2,0,H,NaN,NaN,NaN
-NED,27/02/1966,,AFC Ajax,MVV,1,1,D,NaN,NaN,NaN
-NED,27/02/1966,,USV Elinkwijk,PSV Eindhoven,1,3,A,NaN,NaN,NaN
-NED,27/02/1966,,FC Twente,Go Ahead Eagles,3,1,H,NaN,NaN,NaN
-NED,27/02/1966,,Feijenoord,Telstar,2,1,H,NaN,NaN,NaN
-NED,27/02/1966,,Fortuna Sittard,DOS Utrecht,0,1,A,NaN,NaN,NaN
-NED,27/02/1966,,GVAV Groningen,Sparta Rotterdam,1,0,H,NaN,NaN,NaN
-NED,27/02/1966,,Willem II,Heracles Almelo,1,0,H,NaN,NaN,NaN
-NED,06/03/1966,,DOS Utrecht,MVV,2,2,D,NaN,NaN,NaN
-NED,06/03/1966,,DWS Amsterdam,GVAV Groningen,3,1,H,NaN,NaN,NaN
-NED,06/03/1966,,Fortuna Sittard,ADO Den Haag,2,1,H,NaN,NaN,NaN
-NED,06/03/1966,,Go Ahead Eagles,Feijenoord,1,2,A,NaN,NaN,NaN
-NED,06/03/1966,,Heracles Almelo,FC Twente,2,0,H,NaN,NaN,NaN
-NED,06/03/1966,,PSV Eindhoven,AFC Ajax,0,2,A,NaN,NaN,NaN
-NED,06/03/1966,,Sparta Rotterdam,Willem II,0,1,A,NaN,NaN,NaN
-NED,06/03/1966,,Telstar,USV Elinkwijk,3,1,H,NaN,NaN,NaN
-NED,13/03/1966,,ADO Den Haag,DOS Utrecht,4,0,H,NaN,NaN,NaN
-NED,13/03/1966,,AFC Ajax,Telstar,6,2,H,NaN,NaN,NaN
-NED,13/03/1966,,USV Elinkwijk,Go Ahead Eagles,0,0,D,NaN,NaN,NaN
-NED,13/03/1966,,FC Twente,Sparta Rotterdam,0,4,A,NaN,NaN,NaN
-NED,13/03/1966,,Feijenoord,Heracles Almelo,5,2,H,NaN,NaN,NaN
-NED,13/03/1966,,GVAV Groningen,Fortuna Sittard,2,0,H,NaN,NaN,NaN
-NED,13/03/1966,,MVV,PSV Eindhoven,1,1,D,NaN,NaN,NaN
-NED,13/03/1966,,Willem II,DWS Amsterdam,0,1,A,NaN,NaN,NaN
-NED,20/03/1966,,ADO Den Haag,GVAV Groningen,0,0,D,NaN,NaN,NaN
-NED,20/03/1966,,DOS Utrecht,PSV Eindhoven,3,1,H,NaN,NaN,NaN
-NED,20/03/1966,,DWS Amsterdam,FC Twente,1,1,D,NaN,NaN,NaN
-NED,20/03/1966,,Fortuna Sittard,Willem II,1,0,H,NaN,NaN,NaN
-NED,20/03/1966,,Go Ahead Eagles,AFC Ajax,1,2,A,NaN,NaN,NaN
-NED,20/03/1966,,Heracles Almelo,USV Elinkwijk,2,2,D,NaN,NaN,NaN
-NED,20/03/1966,,Sparta Rotterdam,Feijenoord,0,2,A,NaN,NaN,NaN
-NED,20/03/1966,,Telstar,MVV,3,1,H,NaN,NaN,NaN
-NED,27/03/1966,,AFC Ajax,Heracles Almelo,1,0,H,NaN,NaN,NaN
-NED,27/03/1966,,USV Elinkwijk,Sparta Rotterdam,1,2,A,NaN,NaN,NaN
-NED,27/03/1966,,FC Twente,Fortuna Sittard,1,0,H,NaN,NaN,NaN
-NED,27/03/1966,,Feijenoord,DWS Amsterdam,1,0,H,NaN,NaN,NaN
-NED,27/03/1966,,GVAV Groningen,DOS Utrecht,5,3,H,NaN,NaN,NaN
-NED,27/03/1966,,MVV,Go Ahead Eagles,1,0,H,NaN,NaN,NaN
-NED,27/03/1966,,PSV Eindhoven,Telstar,3,1,H,NaN,NaN,NaN
-NED,27/03/1966,,Willem II,ADO Den Haag,0,1,A,NaN,NaN,NaN
-NED,03/04/1966,,ADO Den Haag,FC Twente,4,1,H,NaN,NaN,NaN
-NED,03/04/1966,,DOS Utrecht,Telstar,2,0,H,NaN,NaN,NaN
-NED,03/04/1966,,DWS Amsterdam,USV Elinkwijk,2,0,H,NaN,NaN,NaN
-NED,03/04/1966,,Fortuna Sittard,Feijenoord,1,1,D,NaN,NaN,NaN
-NED,03/04/1966,,Go Ahead Eagles,PSV Eindhoven,3,1,H,NaN,NaN,NaN
-NED,03/04/1966,,GVAV Groningen,Willem II,4,1,H,NaN,NaN,NaN
-NED,03/04/1966,,Heracles Almelo,MVV,1,0,H,NaN,NaN,NaN
-NED,03/04/1966,,Sparta Rotterdam,AFC Ajax,1,3,A,NaN,NaN,NaN
-NED,09/04/1966,,AFC Ajax,DWS Amsterdam,2,1,H,NaN,NaN,NaN
-NED,09/04/1966,,USV Elinkwijk,Fortuna Sittard,3,2,H,NaN,NaN,NaN
-NED,09/04/1966,,FC Twente,GVAV Groningen,1,1,D,NaN,NaN,NaN
-NED,09/04/1966,,Feijenoord,ADO Den Haag,3,1,H,NaN,NaN,NaN
-NED,09/04/1966,,MVV,Sparta Rotterdam,2,4,A,NaN,NaN,NaN
-NED,09/04/1966,,PSV Eindhoven,Heracles Almelo,5,1,H,NaN,NaN,NaN
-NED,09/04/1966,,Telstar,Go Ahead Eagles,0,1,A,NaN,NaN,NaN
-NED,09/04/1966,,Willem II,DOS Utrecht,2,2,D,NaN,NaN,NaN
-NED,11/04/1966,,ADO Den Haag,USV Elinkwijk,5,1,H,NaN,NaN,NaN
-NED,11/04/1966,,DOS Utrecht,Go Ahead Eagles,1,5,A,NaN,NaN,NaN
-NED,11/04/1966,,DWS Amsterdam,MVV,4,1,H,NaN,NaN,NaN
-NED,11/04/1966,,Fortuna Sittard,AFC Ajax,2,1,H,NaN,NaN,NaN
-NED,11/04/1966,,GVAV Groningen,Feijenoord,2,1,H,NaN,NaN,NaN
-NED,11/04/1966,,Heracles Almelo,Telstar,1,1,D,NaN,NaN,NaN
-NED,11/04/1966,,Sparta Rotterdam,PSV Eindhoven,1,1,D,NaN,NaN,NaN
-NED,11/04/1966,,Willem II,FC Twente,4,0,H,NaN,NaN,NaN
-NED,24/04/1966,,AFC Ajax,ADO Den Haag,5,1,H,NaN,NaN,NaN
-NED,24/04/1966,,USV Elinkwijk,GVAV Groningen,1,1,D,NaN,NaN,NaN
-NED,24/04/1966,,FC Twente,DOS Utrecht,5,1,H,NaN,NaN,NaN
-NED,24/04/1966,,Feijenoord,Willem II,6,1,H,NaN,NaN,NaN
-NED,24/04/1966,,Go Ahead Eagles,Heracles Almelo,2,0,H,NaN,NaN,NaN
-NED,24/04/1966,,MVV,Fortuna Sittard,5,0,H,NaN,NaN,NaN
-NED,24/04/1966,,PSV Eindhoven,DWS Amsterdam,1,3,A,NaN,NaN,NaN
-NED,24/04/1966,,Telstar,Sparta Rotterdam,0,0,D,NaN,NaN,NaN
-NED,01/05/1966,,ADO Den Haag,MVV,4,0,H,NaN,NaN,NaN
-NED,01/05/1966,,DOS Utrecht,Heracles Almelo,3,2,H,NaN,NaN,NaN
-NED,01/05/1966,,DWS Amsterdam,Telstar,2,0,H,NaN,NaN,NaN
-NED,01/05/1966,,FC Twente,Feijenoord,1,3,A,NaN,NaN,NaN
-NED,01/05/1966,,Fortuna Sittard,PSV Eindhoven,2,1,H,NaN,NaN,NaN
-NED,01/05/1966,,GVAV Groningen,AFC Ajax,0,2,A,NaN,NaN,NaN
-NED,01/05/1966,,Sparta Rotterdam,Go Ahead Eagles,0,3,A,NaN,NaN,NaN
-NED,01/05/1966,,Willem II,USV Elinkwijk,2,3,A,NaN,NaN,NaN
-NED,08/05/1966,,AFC Ajax,Willem II,3,1,H,NaN,NaN,NaN
-NED,08/05/1966,,USV Elinkwijk,FC Twente,2,1,H,NaN,NaN,NaN
-NED,08/05/1966,,Feijenoord,DOS Utrecht,4,1,H,NaN,NaN,NaN
-NED,08/05/1966,,Go Ahead Eagles,DWS Amsterdam,2,1,H,NaN,NaN,NaN
-NED,08/05/1966,,Heracles Almelo,Sparta Rotterdam,3,1,H,NaN,NaN,NaN
-NED,08/05/1966,,MVV,GVAV Groningen,1,0,H,NaN,NaN,NaN
-NED,08/05/1966,,PSV Eindhoven,ADO Den Haag,3,5,A,NaN,NaN,NaN
-NED,08/05/1966,,Telstar,Fortuna Sittard,3,0,H,NaN,NaN,NaN
-NED,15/05/1966,,ADO Den Haag,Telstar,4,2,H,NaN,NaN,NaN
-NED,15/05/1966,,DOS Utrecht,Sparta Rotterdam,5,1,H,NaN,NaN,NaN
-NED,15/05/1966,,DWS Amsterdam,Heracles Almelo,4,1,H,NaN,NaN,NaN
-NED,15/05/1966,,FC Twente,AFC Ajax,0,2,A,NaN,NaN,NaN
-NED,15/05/1966,,Feijenoord,USV Elinkwijk,0,1,A,NaN,NaN,NaN
-NED,15/05/1966,,Fortuna Sittard,Go Ahead Eagles,0,4,A,NaN,NaN,NaN
-NED,15/05/1966,,GVAV Groningen,PSV Eindhoven,2,0,H,NaN,NaN,NaN
-NED,15/05/1966,,Willem II,MVV,2,0,H,NaN,NaN,NaN
-NED,19/05/1966,,AFC Ajax,Feijenoord,2,0,H,NaN,NaN,NaN
-NED,19/05/1966,,DOS Utrecht,USV Elinkwijk,2,0,H,NaN,NaN,NaN
-NED,19/05/1966,,Go Ahead Eagles,ADO Den Haag,0,1,A,NaN,NaN,NaN
-NED,19/05/1966,,Heracles Almelo,Fortuna Sittard,1,1,D,NaN,NaN,NaN
-NED,19/05/1966,,MVV,FC Twente,3,2,H,NaN,NaN,NaN
-NED,19/05/1966,,PSV Eindhoven,Willem II,5,2,H,NaN,NaN,NaN
-NED,19/05/1966,,Sparta Rotterdam,DWS Amsterdam,1,0,H,NaN,NaN,NaN
-NED,19/05/1966,,Telstar,GVAV Groningen,2,0,H,NaN,NaN,NaN
-NED,22/05/1966,,DWS Amsterdam,DOS Utrecht,1,2,A,NaN,NaN,NaN
-NED,22/05/1966,,USV Elinkwijk,AFC Ajax,3,3,D,NaN,NaN,NaN
-NED,22/05/1966,,FC Twente,PSV Eindhoven,1,7,A,NaN,NaN,NaN
-NED,22/05/1966,,Feijenoord,MVV,2,1,H,NaN,NaN,NaN
-NED,22/05/1966,,Fortuna Sittard,Sparta Rotterdam,4,3,H,NaN,NaN,NaN
-NED,22/05/1966,,GVAV Groningen,Go Ahead Eagles,2,4,A,NaN,NaN,NaN
-NED,22/05/1966,,Heracles Almelo,ADO Den Haag,2,2,D,NaN,NaN,NaN
-NED,22/05/1966,,Willem II,Telstar,2,1,H,NaN,NaN,NaN
+NED,1965-08-22,,ADO Den Haag,Sparta Rotterdam,2,2,D,,,
+NED,1965-08-22,,AFC Ajax,DOS Utrecht,2,1,H,,,
+NED,1965-08-22,,USV Elinkwijk,MVV,2,2,D,,,
+NED,1965-08-22,,FC Twente,Telstar,1,1,D,,,
+NED,1965-08-22,,Feijenoord,PSV Eindhoven,3,2,H,,,
+NED,1965-08-22,,Fortuna Sittard,DWS Amsterdam,1,3,A,,,
+NED,1965-08-22,,GVAV Groningen,Heracles Almelo,1,1,D,,,
+NED,1965-08-22,,Willem II,Go Ahead Eagles,1,0,H,,,
+NED,1965-08-29,,DOS Utrecht,Fortuna Sittard,2,2,D,,,
+NED,1965-08-29,,DWS Amsterdam,ADO Den Haag,2,1,H,,,
+NED,1965-08-29,,Go Ahead Eagles,FC Twente,2,0,H,,,
+NED,1965-08-29,,Heracles Almelo,Willem II,0,3,A,,,
+NED,1965-08-29,,MVV,AFC Ajax,0,1,A,,,
+NED,1965-08-29,,PSV Eindhoven,USV Elinkwijk,1,1,D,,,
+NED,1965-08-29,,Sparta Rotterdam,GVAV Groningen,1,2,A,,,
+NED,1965-08-29,,Telstar,Feijenoord,0,2,A,,,
+NED,1965-09-05,,ADO Den Haag,Fortuna Sittard,1,1,D,,,
+NED,1965-09-05,,AFC Ajax,PSV Eindhoven,2,0,H,,,
+NED,1965-09-05,,USV Elinkwijk,Telstar,3,3,D,,,
+NED,1965-09-05,,FC Twente,Heracles Almelo,4,1,H,,,
+NED,1965-09-05,,Feijenoord,Go Ahead Eagles,0,0,D,,,
+NED,1965-09-05,,GVAV Groningen,DWS Amsterdam,0,0,D,,,
+NED,1965-09-05,,MVV,DOS Utrecht,2,2,D,,,
+NED,1965-09-05,,Willem II,Sparta Rotterdam,1,3,A,,,
+NED,1965-09-12,,DOS Utrecht,ADO Den Haag,0,7,A,,,
+NED,1965-09-12,,DWS Amsterdam,Willem II,0,0,D,,,
+NED,1965-09-12,,Fortuna Sittard,GVAV Groningen,0,0,D,,,
+NED,1965-09-12,,Go Ahead Eagles,USV Elinkwijk,3,0,H,,,
+NED,1965-09-12,,Heracles Almelo,Feijenoord,1,3,A,,,
+NED,1965-09-12,,PSV Eindhoven,MVV,2,1,H,,,
+NED,1965-09-12,,Sparta Rotterdam,FC Twente,3,4,A,,,
+NED,1965-09-12,,Telstar,AFC Ajax,1,2,A,,,
+NED,1965-09-26,,AFC Ajax,Go Ahead Eagles,4,0,H,,,
+NED,1965-09-26,,USV Elinkwijk,Heracles Almelo,1,0,H,,,
+NED,1965-09-26,,FC Twente,DWS Amsterdam,0,3,A,,,
+NED,1965-09-26,,Feijenoord,Sparta Rotterdam,2,0,H,,,
+NED,1965-09-26,,GVAV Groningen,ADO Den Haag,1,1,D,,,
+NED,1965-09-26,,MVV,Telstar,0,1,A,,,
+NED,1965-09-26,,PSV Eindhoven,DOS Utrecht,2,0,H,,,
+NED,1965-09-26,,Willem II,Fortuna Sittard,0,2,A,,,
+NED,1965-10-03,,ADO Den Haag,Willem II,4,0,H,,,
+NED,1965-10-03,,DOS Utrecht,GVAV Groningen,3,2,H,,,
+NED,1965-10-03,,DWS Amsterdam,Feijenoord,2,0,H,,,
+NED,1965-10-03,,Fortuna Sittard,FC Twente,1,3,A,,,
+NED,1965-10-03,,Go Ahead Eagles,MVV,1,1,D,,,
+NED,1965-10-03,,Heracles Almelo,AFC Ajax,1,1,D,,,
+NED,1965-10-03,,Sparta Rotterdam,USV Elinkwijk,2,1,H,,,
+NED,1965-10-03,,Telstar,PSV Eindhoven,3,1,H,,,
+NED,1965-10-10,,AFC Ajax,Sparta Rotterdam,0,1,A,,,
+NED,1965-10-10,,USV Elinkwijk,DWS Amsterdam,1,0,H,,,
+NED,1965-10-10,,FC Twente,ADO Den Haag,0,0,D,,,
+NED,1965-10-10,,Feijenoord,Fortuna Sittard,1,0,H,,,
+NED,1965-10-10,,MVV,Heracles Almelo,2,2,D,,,
+NED,1965-10-10,,PSV Eindhoven,Go Ahead Eagles,2,2,D,,,
+NED,1965-10-10,,Telstar,DOS Utrecht,1,0,H,,,
+NED,1965-10-10,,Willem II,GVAV Groningen,4,0,H,,,
+NED,1965-10-24,,ADO Den Haag,Feijenoord,2,1,H,,,
+NED,1965-10-24,,DOS Utrecht,Willem II,0,2,A,,,
+NED,1965-10-24,,DWS Amsterdam,AFC Ajax,0,2,A,,,
+NED,1965-10-24,,Fortuna Sittard,USV Elinkwijk,3,0,H,,,
+NED,1965-10-24,,Go Ahead Eagles,Telstar,2,1,H,,,
+NED,1965-10-24,,GVAV Groningen,FC Twente,0,2,A,,,
+NED,1965-10-24,,Heracles Almelo,PSV Eindhoven,0,3,A,,,
+NED,1965-10-24,,Sparta Rotterdam,MVV,7,2,H,,,
+NED,1965-10-31,,AFC Ajax,Fortuna Sittard,5,1,H,,,
+NED,1965-10-31,,USV Elinkwijk,ADO Den Haag,1,1,D,,,
+NED,1965-10-31,,FC Twente,Willem II,6,1,H,,,
+NED,1965-10-31,,Feijenoord,GVAV Groningen,1,2,A,,,
+NED,1965-10-31,,Go Ahead Eagles,DOS Utrecht,1,1,D,,,
+NED,1965-10-31,,MVV,DWS Amsterdam,0,1,A,,,
+NED,1965-10-31,,PSV Eindhoven,Sparta Rotterdam,2,1,H,,,
+NED,1965-10-31,,Telstar,Heracles Almelo,0,2,A,,,
+NED,1965-11-28,,ADO Den Haag,AFC Ajax,2,3,A,,,
+NED,1965-11-28,,DOS Utrecht,FC Twente,3,0,H,,,
+NED,1965-11-28,,DWS Amsterdam,PSV Eindhoven,2,2,D,,,
+NED,1965-11-28,,Fortuna Sittard,MVV,3,3,D,,,
+NED,1965-11-28,,Sparta Rotterdam,Telstar,1,0,H,,,
+NED,1965-11-28,,Willem II,Feijenoord,3,4,A,,,
+NED,1965-12-05,,AFC Ajax,GVAV Groningen,5,1,H,,,
+NED,1965-12-05,,Go Ahead Eagles,Sparta Rotterdam,2,2,D,,,
+NED,1965-12-05,,Heracles Almelo,DOS Utrecht,2,2,D,,,
+NED,1965-12-05,,PSV Eindhoven,Fortuna Sittard,2,2,D,,,
+NED,1965-12-05,,Telstar,DWS Amsterdam,2,2,D,,,
+NED,1965-12-12,,ADO Den Haag,PSV Eindhoven,1,3,A,,,
+NED,1965-12-12,,DOS Utrecht,Feijenoord,0,3,A,,,
+NED,1965-12-12,,DWS Amsterdam,Go Ahead Eagles,1,2,A,,,
+NED,1965-12-12,,FC Twente,USV Elinkwijk,3,1,H,,,
+NED,1965-12-12,,Fortuna Sittard,Telstar,2,1,H,,,
+NED,1965-12-12,,GVAV Groningen,MVV,2,0,H,,,
+NED,1965-12-12,,Sparta Rotterdam,Heracles Almelo,6,0,H,,,
+NED,1965-12-12,,Willem II,AFC Ajax,1,4,A,,,
+NED,1965-12-26,,AFC Ajax,FC Twente,3,1,H,,,
+NED,1965-12-26,,USV Elinkwijk,Feijenoord,1,3,A,,,
+NED,1965-12-26,,Go Ahead Eagles,Fortuna Sittard,0,0,D,,,
+NED,1965-12-26,,Heracles Almelo,DWS Amsterdam,0,1,A,,,
+NED,1965-12-26,,MVV,Willem II,3,1,H,,,
+NED,1965-12-26,,PSV Eindhoven,GVAV Groningen,0,2,A,,,
+NED,1965-12-26,,Sparta Rotterdam,DOS Utrecht,3,1,H,,,
+NED,1965-12-26,,Telstar,ADO Den Haag,2,2,D,,,
+NED,1966-01-09,,ADO Den Haag,Go Ahead Eagles,4,0,H,,,
+NED,1966-01-09,,DWS Amsterdam,Sparta Rotterdam,1,1,D,,,
+NED,1966-01-09,,USV Elinkwijk,DOS Utrecht,6,2,H,,,
+NED,1966-01-09,,FC Twente,MVV,0,0,D,,,
+NED,1966-01-09,,Feijenoord,AFC Ajax,1,1,D,,,
+NED,1966-01-09,,Fortuna Sittard,Heracles Almelo,1,0,H,,,
+NED,1966-01-09,,GVAV Groningen,Telstar,4,2,H,,,
+NED,1966-01-09,,Willem II,PSV Eindhoven,0,0,D,,,
+NED,1966-01-16,,USV Elinkwijk,Willem II,0,1,A,,,
+NED,1966-01-16,,Feijenoord,FC Twente,4,0,H,,,
+NED,1966-01-16,,MVV,ADO Den Haag,0,3,A,,,
+NED,1966-01-30,,AFC Ajax,USV Elinkwijk,7,0,H,,,
+NED,1966-01-30,,DOS Utrecht,DWS Amsterdam,2,3,A,,,
+NED,1966-01-30,,Go Ahead Eagles,GVAV Groningen,2,0,H,,,
+NED,1966-01-30,,MVV,Feijenoord,0,2,A,,,
+NED,1966-01-30,,PSV Eindhoven,FC Twente,2,2,D,,,
+NED,1966-01-30,,Sparta Rotterdam,Fortuna Sittard,2,1,H,,,
+NED,1966-01-30,,Telstar,Willem II,1,3,A,,,
+NED,1966-02-06,,DOS Utrecht,AFC Ajax,1,2,A,,,
+NED,1966-02-06,,DWS Amsterdam,Fortuna Sittard,4,1,H,,,
+NED,1966-02-06,,Go Ahead Eagles,Willem II,5,2,H,,,
+NED,1966-02-06,,Heracles Almelo,GVAV Groningen,2,1,H,,,
+NED,1966-02-06,,MVV,USV Elinkwijk,1,0,H,,,
+NED,1966-02-06,,PSV Eindhoven,Feijenoord,1,3,A,,,
+NED,1966-02-06,,Sparta Rotterdam,ADO Den Haag,0,4,A,,,
+NED,1966-02-06,,Telstar,FC Twente,1,0,H,,,
+NED,1966-02-16,,ADO Den Haag,Heracles Almelo,2,2,D,,,
+NED,1966-02-27,,ADO Den Haag,DWS Amsterdam,2,0,H,,,
+NED,1966-02-27,,AFC Ajax,MVV,1,1,D,,,
+NED,1966-02-27,,USV Elinkwijk,PSV Eindhoven,1,3,A,,,
+NED,1966-02-27,,FC Twente,Go Ahead Eagles,3,1,H,,,
+NED,1966-02-27,,Feijenoord,Telstar,2,1,H,,,
+NED,1966-02-27,,Fortuna Sittard,DOS Utrecht,0,1,A,,,
+NED,1966-02-27,,GVAV Groningen,Sparta Rotterdam,1,0,H,,,
+NED,1966-02-27,,Willem II,Heracles Almelo,1,0,H,,,
+NED,1966-03-06,,DOS Utrecht,MVV,2,2,D,,,
+NED,1966-03-06,,DWS Amsterdam,GVAV Groningen,3,1,H,,,
+NED,1966-03-06,,Fortuna Sittard,ADO Den Haag,2,1,H,,,
+NED,1966-03-06,,Go Ahead Eagles,Feijenoord,1,2,A,,,
+NED,1966-03-06,,Heracles Almelo,FC Twente,2,0,H,,,
+NED,1966-03-06,,PSV Eindhoven,AFC Ajax,0,2,A,,,
+NED,1966-03-06,,Sparta Rotterdam,Willem II,0,1,A,,,
+NED,1966-03-06,,Telstar,USV Elinkwijk,3,1,H,,,
+NED,1966-03-10,,GVAV Groningen,USV Elinkwijk,4,0,H,,,
+NED,1966-03-10,,Heracles Almelo,Go Ahead Eagles,0,0,D,,,
+NED,1966-03-13,,ADO Den Haag,DOS Utrecht,4,0,H,,,
+NED,1966-03-13,,AFC Ajax,Telstar,6,2,H,,,
+NED,1966-03-13,,USV Elinkwijk,Go Ahead Eagles,0,0,D,,,
+NED,1966-03-13,,FC Twente,Sparta Rotterdam,0,4,A,,,
+NED,1966-03-13,,Feijenoord,Heracles Almelo,5,2,H,,,
+NED,1966-03-13,,GVAV Groningen,Fortuna Sittard,2,0,H,,,
+NED,1966-03-13,,MVV,PSV Eindhoven,1,1,D,,,
+NED,1966-03-13,,Willem II,DWS Amsterdam,0,1,A,,,
+NED,1966-03-20,,ADO Den Haag,GVAV Groningen,0,0,D,,,
+NED,1966-03-20,,DOS Utrecht,PSV Eindhoven,3,1,H,,,
+NED,1966-03-20,,DWS Amsterdam,FC Twente,1,1,D,,,
+NED,1966-03-20,,Fortuna Sittard,Willem II,1,0,H,,,
+NED,1966-03-20,,Go Ahead Eagles,AFC Ajax,1,2,A,,,
+NED,1966-03-20,,Heracles Almelo,USV Elinkwijk,2,2,D,,,
+NED,1966-03-20,,Sparta Rotterdam,Feijenoord,0,2,A,,,
+NED,1966-03-20,,Telstar,MVV,3,1,H,,,
+NED,1966-03-27,,AFC Ajax,Heracles Almelo,1,0,H,,,
+NED,1966-03-27,,USV Elinkwijk,Sparta Rotterdam,1,2,A,,,
+NED,1966-03-27,,FC Twente,Fortuna Sittard,1,0,H,,,
+NED,1966-03-27,,Feijenoord,DWS Amsterdam,1,0,H,,,
+NED,1966-03-27,,GVAV Groningen,DOS Utrecht,5,3,H,,,
+NED,1966-03-27,,MVV,Go Ahead Eagles,1,0,H,,,
+NED,1966-03-27,,PSV Eindhoven,Telstar,3,1,H,,,
+NED,1966-03-27,,Willem II,ADO Den Haag,0,1,A,,,
+NED,1966-04-03,,ADO Den Haag,FC Twente,4,1,H,,,
+NED,1966-04-03,,DOS Utrecht,Telstar,2,0,H,,,
+NED,1966-04-03,,DWS Amsterdam,USV Elinkwijk,2,0,H,,,
+NED,1966-04-03,,Fortuna Sittard,Feijenoord,1,1,D,,,
+NED,1966-04-03,,Go Ahead Eagles,PSV Eindhoven,3,1,H,,,
+NED,1966-04-03,,GVAV Groningen,Willem II,4,1,H,,,
+NED,1966-04-03,,Heracles Almelo,MVV,1,0,H,,,
+NED,1966-04-03,,Sparta Rotterdam,AFC Ajax,1,3,A,,,
+NED,1966-04-09,,AFC Ajax,DWS Amsterdam,2,1,H,,,
+NED,1966-04-09,,USV Elinkwijk,Fortuna Sittard,3,2,H,,,
+NED,1966-04-09,,FC Twente,GVAV Groningen,1,1,D,,,
+NED,1966-04-09,,Feijenoord,ADO Den Haag,3,1,H,,,
+NED,1966-04-09,,MVV,Sparta Rotterdam,2,4,A,,,
+NED,1966-04-09,,PSV Eindhoven,Heracles Almelo,5,1,H,,,
+NED,1966-04-09,,Telstar,Go Ahead Eagles,0,1,A,,,
+NED,1966-04-09,,Willem II,DOS Utrecht,2,2,D,,,
+NED,1966-04-11,,ADO Den Haag,USV Elinkwijk,5,1,H,,,
+NED,1966-04-11,,DOS Utrecht,Go Ahead Eagles,1,5,A,,,
+NED,1966-04-11,,DWS Amsterdam,MVV,4,1,H,,,
+NED,1966-04-11,,Fortuna Sittard,AFC Ajax,2,1,H,,,
+NED,1966-04-11,,GVAV Groningen,Feijenoord,2,1,H,,,
+NED,1966-04-11,,Heracles Almelo,Telstar,1,1,D,,,
+NED,1966-04-11,,Sparta Rotterdam,PSV Eindhoven,1,1,D,,,
+NED,1966-04-11,,Willem II,FC Twente,4,0,H,,,
+NED,1966-04-24,,AFC Ajax,ADO Den Haag,5,1,H,,,
+NED,1966-04-24,,USV Elinkwijk,GVAV Groningen,1,1,D,,,
+NED,1966-04-24,,FC Twente,DOS Utrecht,5,1,H,,,
+NED,1966-04-24,,Feijenoord,Willem II,6,1,H,,,
+NED,1966-04-24,,Go Ahead Eagles,Heracles Almelo,2,0,H,,,
+NED,1966-04-24,,MVV,Fortuna Sittard,5,0,H,,,
+NED,1966-04-24,,PSV Eindhoven,DWS Amsterdam,1,3,A,,,
+NED,1966-04-24,,Telstar,Sparta Rotterdam,0,0,D,,,
+NED,1966-05-01,,ADO Den Haag,MVV,4,0,H,,,
+NED,1966-05-01,,DOS Utrecht,Heracles Almelo,3,2,H,,,
+NED,1966-05-01,,DWS Amsterdam,Telstar,2,0,H,,,
+NED,1966-05-01,,FC Twente,Feijenoord,1,3,A,,,
+NED,1966-05-01,,Fortuna Sittard,PSV Eindhoven,2,1,H,,,
+NED,1966-05-01,,GVAV Groningen,AFC Ajax,0,2,A,,,
+NED,1966-05-01,,Sparta Rotterdam,Go Ahead Eagles,0,3,A,,,
+NED,1966-05-01,,Willem II,USV Elinkwijk,2,3,A,,,
+NED,1966-05-08,,AFC Ajax,Willem II,3,1,H,,,
+NED,1966-05-08,,USV Elinkwijk,FC Twente,2,1,H,,,
+NED,1966-05-08,,Feijenoord,DOS Utrecht,4,1,H,,,
+NED,1966-05-08,,Go Ahead Eagles,DWS Amsterdam,2,1,H,,,
+NED,1966-05-08,,Heracles Almelo,Sparta Rotterdam,3,1,H,,,
+NED,1966-05-08,,MVV,GVAV Groningen,1,0,H,,,
+NED,1966-05-08,,PSV Eindhoven,ADO Den Haag,3,5,A,,,
+NED,1966-05-08,,Telstar,Fortuna Sittard,3,0,H,,,
+NED,1966-05-15,,ADO Den Haag,Telstar,4,2,H,,,
+NED,1966-05-15,,DOS Utrecht,Sparta Rotterdam,5,1,H,,,
+NED,1966-05-15,,DWS Amsterdam,Heracles Almelo,4,1,H,,,
+NED,1966-05-15,,FC Twente,AFC Ajax,0,2,A,,,
+NED,1966-05-15,,Feijenoord,USV Elinkwijk,0,1,A,,,
+NED,1966-05-15,,Fortuna Sittard,Go Ahead Eagles,0,4,A,,,
+NED,1966-05-15,,GVAV Groningen,PSV Eindhoven,2,0,H,,,
+NED,1966-05-15,,Willem II,MVV,2,0,H,,,
+NED,1966-05-19,,AFC Ajax,Feijenoord,2,0,H,,,
+NED,1966-05-19,,DOS Utrecht,USV Elinkwijk,2,0,H,,,
+NED,1966-05-19,,Go Ahead Eagles,ADO Den Haag,0,1,A,,,
+NED,1966-05-19,,Heracles Almelo,Fortuna Sittard,1,1,D,,,
+NED,1966-05-19,,MVV,FC Twente,3,2,H,,,
+NED,1966-05-19,,PSV Eindhoven,Willem II,5,2,H,,,
+NED,1966-05-19,,Sparta Rotterdam,DWS Amsterdam,1,0,H,,,
+NED,1966-05-19,,Telstar,GVAV Groningen,2,0,H,,,
+NED,1966-05-22,,DWS Amsterdam,DOS Utrecht,1,2,A,,,
+NED,1966-05-22,,USV Elinkwijk,AFC Ajax,3,3,D,,,
+NED,1966-05-22,,FC Twente,PSV Eindhoven,1,7,A,,,
+NED,1966-05-22,,Feijenoord,MVV,2,1,H,,,
+NED,1966-05-22,,Fortuna Sittard,Sparta Rotterdam,4,3,H,,,
+NED,1966-05-22,,GVAV Groningen,Go Ahead Eagles,2,4,A,,,
+NED,1966-05-22,,Heracles Almelo,ADO Den Haag,2,2,D,,,
+NED,1966-05-22,,Willem II,Telstar,2,1,H,,,

@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URU,2015-08-15,19:00,Plaza Colonia,CA Rentistas,1,2,A,1.0,1.0,D
+URU,2015-08-15,19:00,River Plate,CA Fénix,1,2,A,0.0,1.0,A
+URU,2015-08-15,22:00,Nacional,Villa Teresa,4,1,H,2.0,1.0,H
+URU,2015-08-16,19:00,CA Juventud,Danubio FC,0,2,A,0.0,0.0,D
+URU,2015-08-16,19:00,El Tanque Sisley,Racing Club,2,3,A,1.0,0.0,H
+URU,2015-08-16,19:00,Montevideo Wanderers,Liverpool FC,1,1,D,0.0,0.0,D
+URU,2015-08-16,19:00,CA Cerro,CA Peñarol,0,3,A,0.0,1.0,A
+URU,2015-08-22,19:00,Villa Teresa,Montevideo Wanderers,2,3,A,0.0,2.0,A
+URU,2015-08-22,19:00,CA Peñarol,El Tanque Sisley,2,2,D,1.0,0.0,H
+URU,2015-08-22,19:00,Racing Club,Defensor Sporting,0,2,A,0.0,1.0,A
+URU,2015-08-22,19:00,Sud América,CA Fénix,1,1,D,0.0,0.0,D
+URU,2015-08-23,19:00,Liverpool FC,Plaza Colonia,1,2,A,0.0,1.0,A
+URU,2015-08-23,19:00,Danubio FC,CA Cerro,3,1,H,1.0,0.0,H
+URU,2015-08-23,22:00,Nacional,River Plate,2,1,H,0.0,1.0,A
+URU,2015-08-29,19:00,River Plate,Sud América,2,0,H,0.0,0.0,D
+URU,2015-08-29,19:00,CA Fénix,Racing Club,3,1,H,2.0,1.0,H
+URU,2015-08-29,19:00,CA Cerro,CA Rentistas,1,0,H,0.0,0.0,D
+URU,2015-08-29,19:00,Plaza Colonia,Villa Teresa,0,1,A,0.0,1.0,A
+URU,2015-08-30,19:00,El Tanque Sisley,Danubio FC,1,0,H,1.0,0.0,H
+URU,2015-08-30,19:00,Montevideo Wanderers,Nacional,2,1,H,2.0,0.0,H
+URU,2015-08-30,22:00,Defensor Sporting,CA Peñarol,3,1,H,1.0,1.0,D
+URU,2015-09-02,19:00,CA Juventud,CA Rentistas,0,3,A,0.0,0.0,D
+URU,2015-09-02,23:00,Defensor Sporting,Sud América,1,2,A,0.0,1.0,A
+URU,2015-09-05,19:00,Montevideo Wanderers,River Plate,5,1,H,1.0,1.0,D
+URU,2015-09-05,19:00,Liverpool FC,CA Cerro,1,0,H,0.0,0.0,D
+URU,2015-09-05,20:00,CA Peñarol,CA Fénix,2,1,H,0.0,0.0,D
+URU,2015-09-06,19:00,Villa Teresa,CA Juventud,0,0,D,0.0,0.0,D
+URU,2015-09-06,19:00,CA Rentistas,El Tanque Sisley,0,2,A,0.0,0.0,D
+URU,2015-09-06,19:00,Racing Club,Sud América,2,0,H,2.0,0.0,H
+URU,2015-09-06,19:15,Danubio FC,Defensor Sporting,2,3,A,0.0,1.0,A
+URU,2015-09-06,22:15,Nacional,Plaza Colonia,1,0,H,0.0,0.0,D
+URU,2015-09-09,19:30,CA Juventud,Liverpool FC,1,0,H,1.0,0.0,H
+URU,2015-09-12,00:15,Defensor Sporting,CA Rentistas,2,0,H,0.0,0.0,D
+URU,2015-09-12,19:30,CA Fénix,Danubio FC,2,1,H,1.0,0.0,H
+URU,2015-09-12,20:00,CA Juventud,Nacional,2,3,A,0.0,0.0,D
+URU,2015-09-13,19:30,River Plate,Racing Club,3,1,H,2.0,1.0,H
+URU,2015-09-13,19:30,El Tanque Sisley,Liverpool FC,0,1,A,0.0,1.0,A
+URU,2015-09-13,19:30,CA Cerro,Villa Teresa,3,1,H,1.0,1.0,D
+URU,2015-09-13,19:30,Plaza Colonia,Montevideo Wanderers,1,1,D,1.0,0.0,H
+URU,2015-09-13,22:30,Sud América,CA Peñarol,1,4,A,0.0,1.0,A
+URU,2015-09-19,19:30,Villa Teresa,El Tanque Sisley,0,1,A,0.0,1.0,A
+URU,2015-09-19,19:30,Liverpool FC,Defensor Sporting,2,1,H,1.0,0.0,H
+URU,2015-09-19,19:30,Danubio FC,Sud América,1,1,D,0.0,0.0,D
+URU,2015-09-19,22:30,CA Peñarol,Racing Club,3,1,H,1.0,0.0,H
+URU,2015-09-20,19:30,Plaza Colonia,River Plate,3,2,H,1.0,1.0,D
+URU,2015-09-20,19:30,Montevideo Wanderers,CA Juventud,0,1,A,0.0,1.0,A
+URU,2015-09-20,19:30,CA Rentistas,CA Fénix,0,0,D,0.0,0.0,D
+URU,2015-09-20,22:30,Nacional,CA Cerro,4,3,H,1.0,1.0,D
+URU,2015-09-26,19:30,Racing Club,Danubio FC,0,0,D,0.0,0.0,D
+URU,2015-09-26,19:30,Sud América,CA Rentistas,3,3,D,0.0,1.0,A
+URU,2015-09-26,19:30,CA Fénix,Liverpool FC,1,1,D,0.0,1.0,A
+URU,2015-09-26,20:00,El Tanque Sisley,Nacional,1,1,D,0.0,1.0,A
+URU,2015-09-27,19:30,Defensor Sporting,Villa Teresa,1,1,D,0.0,1.0,A
+URU,2015-09-27,19:30,CA Cerro,Montevideo Wanderers,1,0,H,0.0,0.0,D
+URU,2015-09-27,19:30,CA Juventud,Plaza Colonia,1,1,D,1.0,1.0,D
+URU,2015-09-27,22:30,River Plate,CA Peñarol,4,0,H,1.0,0.0,H
+URU,2015-10-03,19:30,Villa Teresa,CA Fénix,0,2,A,0.0,2.0,A
+URU,2015-10-03,19:30,CA Rentistas,Racing Club,0,0,D,0.0,0.0,D
+URU,2015-10-03,19:30,Danubio FC,CA Peñarol,0,1,A,0.0,0.0,D
+URU,2015-10-04,19:30,CA Juventud,River Plate,2,3,A,1.0,1.0,D
+URU,2015-10-04,19:30,Plaza Colonia,CA Cerro,0,1,A,0.0,0.0,D
+URU,2015-10-04,19:30,Montevideo Wanderers,El Tanque Sisley,1,0,H,1.0,0.0,H
+URU,2015-10-04,19:30,Liverpool FC,Sud América,1,0,H,1.0,0.0,H
+URU,2015-10-04,22:00,Nacional,Defensor Sporting,4,0,H,3.0,0.0,H
+URU,2015-10-17,00:30,Defensor Sporting,Montevideo Wanderers,2,3,A,0.0,0.0,D
+URU,2015-10-17,19:30,Sud América,Villa Teresa,3,1,H,2.0,0.0,H
+URU,2015-10-17,19:30,CA Cerro,CA Juventud,4,1,H,1.0,0.0,H
+URU,2015-10-17,22:00,CA Fénix,Nacional,0,2,A,0.0,0.0,D
+URU,2015-10-18,19:30,River Plate,Danubio FC,2,1,H,0.0,1.0,A
+URU,2015-10-18,19:30,Racing Club,Liverpool FC,3,1,H,2.0,0.0,H
+URU,2015-10-18,19:30,El Tanque Sisley,Plaza Colonia,0,1,A,0.0,0.0,D
+URU,2015-10-18,22:00,CA Peñarol,CA Rentistas,1,0,H,0.0,0.0,D
+URU,2015-10-24,00:30,Plaza Colonia,Defensor Sporting,0,0,D,,,
+URU,2015-10-24,19:30,Montevideo Wanderers,CA Fénix,1,1,D,0.0,0.0,D
+URU,2015-10-24,19:30,CA Rentistas,Danubio FC,0,2,A,0.0,0.0,D
+URU,2015-10-24,22:00,Nacional,Sud América,1,2,A,1.0,2.0,A
+URU,2015-10-25,14:00,CA Cerro,River Plate,1,1,D,1.0,0.0,H
+URU,2015-10-25,18:30,CA Juventud,El Tanque Sisley,1,0,H,0.0,0.0,D
+URU,2015-10-25,18:30,Villa Teresa,Racing Club,1,2,A,0.0,0.0,D
+URU,2015-10-25,19:00,Liverpool FC,CA Peñarol,1,3,A,0.0,1.0,A
+URU,2015-10-31,18:30,Sud América,Montevideo Wanderers,1,0,H,1.0,0.0,H
+URU,2015-10-31,18:30,CA Fénix,Plaza Colonia,0,0,D,0.0,0.0,D
+URU,2015-10-31,21:00,Racing Club,Nacional,2,2,D,0.0,1.0,A
+URU,2015-10-31,23:00,Defensor Sporting,CA Juventud,4,1,H,2.0,0.0,H
+URU,2015-11-01,18:30,River Plate,CA Rentistas,2,3,A,1.0,0.0,H
+URU,2015-11-01,18:30,Danubio FC,Liverpool FC,4,0,H,3.0,0.0,H
+URU,2015-11-01,18:30,El Tanque Sisley,CA Cerro,2,3,A,0.0,1.0,A
+URU,2015-11-01,21:00,CA Peñarol,Villa Teresa,4,1,H,1.0,0.0,H
+URU,2015-11-06,23:00,Plaza Colonia,Sud América,1,1,D,0.0,1.0,A
+URU,2015-11-06,23:30,El Tanque Sisley,River Plate,2,1,H,2.0,1.0,H
+URU,2015-11-07,19:00,CA Cerro,Defensor Sporting,2,3,A,2.0,2.0,D
+URU,2015-11-07,19:00,Montevideo Wanderers,Racing Club,2,2,D,1.0,2.0,A
+URU,2015-11-07,19:00,Villa Teresa,Danubio FC,0,1,A,0.0,0.0,D
+URU,2015-11-08,14:00,CA Juventud,CA Fénix,0,1,A,0.0,1.0,A
+URU,2015-11-08,14:00,Liverpool FC,CA Rentistas,0,3,A,0.0,0.0,D
+URU,2015-11-08,19:00,Nacional,CA Peñarol,1,1,D,1.0,0.0,H
+URU,2015-11-20,23:30,Defensor Sporting,El Tanque Sisley,2,2,D,0.0,1.0,A
+URU,2015-11-21,19:00,River Plate,Liverpool FC,2,2,D,1.0,2.0,A
+URU,2015-11-21,19:00,CA Rentistas,Villa Teresa,1,0,H,1.0,0.0,H
+URU,2015-11-21,19:00,Danubio FC,Nacional,2,0,H,1.0,0.0,H
+URU,2015-11-21,19:00,Sud América,CA Juventud,1,1,D,0.0,0.0,D
+URU,2015-11-22,13:30,CA Fénix,CA Cerro,0,1,A,0.0,0.0,D
+URU,2015-11-22,19:00,Racing Club,Plaza Colonia,2,2,D,2.0,0.0,H
+URU,2015-11-22,21:00,CA Peñarol,Montevideo Wanderers,1,1,D,0.0,0.0,D
+URU,2015-11-27,23:30,Defensor Sporting,River Plate,1,2,A,1.0,0.0,H
+URU,2015-11-27,23:30,El Tanque Sisley,CA Fénix,1,0,H,1.0,0.0,H
+URU,2015-11-28,19:00,CA Cerro,Sud América,2,0,H,0.0,0.0,D
+URU,2015-11-28,22:00,Plaza Colonia,CA Peñarol,1,1,D,0.0,1.0,A
+URU,2015-11-29,18:00,Montevideo Wanderers,Danubio FC,0,0,D,0.0,0.0,D
+URU,2015-11-29,19:00,CA Juventud,Racing Club,3,2,H,3.0,2.0,H
+URU,2015-11-29,19:00,Villa Teresa,Liverpool FC,0,1,A,0.0,0.0,D
+URU,2015-11-29,21:00,Nacional,CA Rentistas,3,2,H,1.0,1.0,D
+URU,2015-12-05,19:00,River Plate,Villa Teresa,4,0,H,2.0,0.0,H
+URU,2015-12-05,19:00,CA Rentistas,Montevideo Wanderers,1,2,A,1.0,1.0,D
+URU,2015-12-05,19:00,Danubio FC,Plaza Colonia,2,2,D,0.0,0.0,D
+URU,2015-12-05,19:00,Sud América,El Tanque Sisley,1,1,D,0.0,0.0,D
+URU,2015-12-05,19:00,CA Fénix,Defensor Sporting,3,0,H,3.0,0.0,H
+URU,2015-12-06,13:00,Racing Club,CA Cerro,0,2,A,0.0,0.0,D
+URU,2015-12-06,19:00,Liverpool FC,Nacional,2,3,A,1.0,1.0,D
+URU,2015-12-06,19:00,CA Peñarol,CA Juventud,1,0,H,1.0,0.0,H

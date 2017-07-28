@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,2010-07-24,20:30,La Paz FC,Real Potosí,1,2,A,1,1,D
+BOL,2010-07-25,20:15,The Strongest,Club Aurora,4,2,H,2,2,D
+BOL,2010-07-25,20:30,Universitario Sucre,Club San José,2,2,D,2,0,H
+BOL,2010-07-25,21:00,Guabirá,Oriente Petrolero,1,1,D,1,1,D
+BOL,2010-07-25,22:30,Jorge Wilstermann,Club Bolívar,0,1,A,0,0,D
+BOL,2010-07-26,00:30,Real Mamoré,Club Blooming,1,1,D,1,1,D
+BOL,2010-07-31,20:30,Universitario Sucre,La Paz FC,3,1,H,1,0,H
+BOL,2010-07-31,23:00,Club Aurora,Guabirá,1,0,H,0,0,D
+BOL,2010-08-01,20:30,Club San José,Club Blooming,2,0,H,1,0,H
+BOL,2010-08-01,21:00,Real Mamoré,Jorge Wilstermann,0,0,D,0,0,D
+BOL,2010-08-01,21:00,Club Bolívar,The Strongest,2,2,D,0,2,A
+BOL,2010-08-01,23:00,Oriente Petrolero,Real Potosí,3,1,H,2,0,H
+BOL,2010-08-07,23:00,Guabirá,Club Bolívar,1,0,H,1,0,H
+BOL,2010-08-08,19:00,La Paz FC,Oriente Petrolero,0,0,D,0,0,D
+BOL,2010-08-08,21:00,The Strongest,Real Mamoré,3,0,H,2,0,H
+BOL,2010-08-08,21:00,Jorge Wilstermann,Club San José,1,3,A,0,2,A
+BOL,2010-08-08,23:00,Club Blooming,Universitario Sucre,2,1,H,0,0,D
+BOL,2010-08-14,21:00,Club Bolívar,Real Potosí,2,0,H,1,0,H
+BOL,2010-08-14,23:00,Club Blooming,La Paz FC,2,0,H,1,0,H
+BOL,2010-08-15,00:00,Universitario Sucre,Jorge Wilstermann,1,1,D,1,0,H
+BOL,2010-08-15,20:30,Club San José,The Strongest,3,2,H,2,2,D
+BOL,2010-08-15,23:00,Real Mamoré,Guabirá,0,0,D,0,0,D
+BOL,2010-08-15,23:00,Club Aurora,Oriente Petrolero,2,0,H,1,0,H
+BOL,2010-08-21,20:30,Real Potosí,Real Mamoré,4,0,H,2,0,H
+BOL,2010-08-22,19:00,La Paz FC,Club Aurora,1,1,D,1,0,H
+BOL,2010-08-22,21:00,The Strongest,Universitario Sucre,3,0,H,1,0,H
+BOL,2010-08-22,21:00,Guabirá,Club San José,3,1,H,1,0,H
+BOL,2010-08-22,21:00,Jorge Wilstermann,Club Blooming,0,1,A,0,0,D
+BOL,2010-08-26,01:00,Real Potosí,Club Aurora,2,1,H,2,0,H
+BOL,2010-08-28,21:00,Club San José,Real Potosí,2,3,A,0,2,A
+BOL,2010-08-28,23:00,Jorge Wilstermann,La Paz FC,4,2,H,1,0,H
+BOL,2010-08-29,21:00,Universitario Sucre,Guabirá,2,0,H,1,0,H
+BOL,2010-08-29,21:00,Real Mamoré,Oriente Petrolero,3,2,H,3,2,H
+BOL,2010-08-29,21:00,Club Bolívar,Club Aurora,1,0,H,1,0,H
+BOL,2010-08-29,23:00,Club Blooming,The Strongest,2,1,H,2,0,H
+BOL,2010-09-04,21:00,The Strongest,Jorge Wilstermann,2,1,H,1,0,H
+BOL,2010-09-04,23:00,Oriente Petrolero,Club San José,2,1,H,1,0,H
+BOL,2010-09-05,20:30,Real Potosí,Universitario Sucre,1,1,D,0,1,A
+BOL,2010-09-05,21:00,La Paz FC,Club Bolívar,1,3,A,0,2,A
+BOL,2010-09-05,23:00,Guabirá,Club Blooming,0,0,D,0,0,D
+BOL,2010-09-06,01:00,Club Aurora,Real Mamoré,3,0,H,2,0,H
+BOL,2010-09-09,00:00,Jorge Wilstermann,Guabirá,1,1,D,1,0,H
+BOL,2010-09-09,01:00,The Strongest,La Paz FC,1,3,A,0,2,A
+BOL,2010-09-09,01:30,Club Blooming,Real Potosí,2,2,D,0,1,A
+BOL,2010-09-10,01:00,Real Mamoré,Club Bolívar,2,1,H,2,0,H
+BOL,2010-09-11,01:00,Club San José,Club Aurora,3,3,D,0,1,A
+BOL,2010-09-11,23:00,Guabirá,The Strongest,2,1,H,1,1,D
+BOL,2010-09-12,19:00,La Paz FC,Real Mamoré,1,0,H,0,0,D
+BOL,2010-09-12,20:45,Real Potosí,Jorge Wilstermann,2,1,H,1,1,D
+BOL,2010-09-12,21:00,Club Bolívar,Club San José,0,0,D,0,0,D
+BOL,2010-09-12,21:00,Club Aurora,Universitario Sucre,2,1,H,0,0,D
+BOL,2010-09-12,23:00,Oriente Petrolero,Club Blooming,1,0,H,0,0,D
+BOL,2010-09-18,21:00,Club San José,Real Mamoré,1,0,H,0,0,D
+BOL,2010-09-18,23:00,Universitario Sucre,Club Bolívar,1,0,H,1,0,H
+BOL,2010-09-19,21:00,The Strongest,Real Potosí,4,2,H,1,1,D
+BOL,2010-09-19,21:00,Jorge Wilstermann,Oriente Petrolero,4,2,H,1,1,D
+BOL,2010-09-19,22:00,Guabirá,La Paz FC,1,0,H,1,0,H
+BOL,2010-09-19,23:00,Club Blooming,Club Aurora,0,1,A,0,0,D
+BOL,2010-09-23,01:30,Oriente Petrolero,Club Bolívar,2,4,A,0,2,A
+BOL,2010-09-25,21:00,La Paz FC,Club San José,4,3,H,1,2,A
+BOL,2010-09-25,23:00,Real Mamoré,Universitario Sucre,2,0,H,1,0,H
+BOL,2010-09-26,20:30,Real Potosí,Guabirá,4,0,H,1,0,H
+BOL,2010-09-26,21:00,Club Bolívar,Club Blooming,1,0,H,0,0,D
+BOL,2010-09-26,21:00,Club Aurora,Jorge Wilstermann,2,2,D,0,2,A
+BOL,2010-09-26,23:00,Oriente Petrolero,The Strongest,4,0,H,1,0,H
+BOL,2010-09-30,01:00,Universitario Sucre,Oriente Petrolero,1,2,A,1,0,H
+BOL,2010-10-02,20:30,Real Potosí,La Paz FC,2,3,A,1,2,A
+BOL,2010-10-02,23:00,Club Blooming,Real Mamoré,3,0,H,1,0,H
+BOL,2010-10-03,20:30,Club San José,Universitario Sucre,2,1,H,0,0,D
+BOL,2010-10-03,21:00,Club Aurora,The Strongest,2,1,H,1,0,H
+BOL,2010-10-03,21:00,Club Bolívar,Jorge Wilstermann,0,0,D,0,0,D
+BOL,2010-10-03,23:00,Oriente Petrolero,Guabirá,1,0,H,1,0,H
+BOL,2010-10-10,20:30,Club San José,Jorge Wilstermann,2,0,H,0,0,D
+BOL,2010-10-10,21:00,Real Mamoré,The Strongest,1,0,H,0,0,D
+BOL,2010-10-10,21:00,Club Aurora,Real Potosí,0,2,A,0,0,D
+BOL,2010-10-10,21:00,Club Bolívar,Guabirá,4,2,H,1,2,A
+BOL,2010-10-10,23:00,Oriente Petrolero,La Paz FC,1,0,H,1,0,H
+BOL,2010-10-10,23:00,Universitario Sucre,Club Blooming,0,2,A,0,1,A
+BOL,2010-10-14,01:00,The Strongest,Club Bolívar,3,2,H,1,1,D
+BOL,2010-10-14,01:30,Club Blooming,Oriente Petrolero,1,0,H,1,0,H
+BOL,2010-10-17,19:00,La Paz FC,Club Blooming,4,1,H,2,0,H
+BOL,2010-10-17,21:00,Jorge Wilstermann,Universitario Sucre,2,2,D,1,0,H
+BOL,2010-10-17,21:00,The Strongest,Club San José,1,2,A,1,1,D
+BOL,2010-10-17,21:00,Guabirá,Real Mamoré,0,0,D,0,0,D
+BOL,2010-10-17,21:00,Real Potosí,Club Bolívar,1,1,D,1,0,H
+BOL,2010-10-17,23:00,Oriente Petrolero,Club Aurora,2,2,D,1,1,D
+BOL,2010-10-23,23:00,Club Aurora,La Paz FC,2,1,H,0,0,D
+BOL,2010-10-24,21:00,Club Bolívar,Oriente Petrolero,2,1,H,1,0,H
+BOL,2010-10-24,21:00,Real Mamoré,Real Potosí,2,1,H,0,0,D
+BOL,2010-10-24,21:00,Club San José,Guabirá,5,1,H,3,0,H
+BOL,2010-10-24,21:00,Universitario Sucre,The Strongest,1,0,H,0,0,D
+BOL,2010-10-24,23:00,Club Blooming,Jorge Wilstermann,3,0,H,1,0,H
+BOL,2010-10-27,21:00,La Paz FC,Universitario Sucre,1,1,D,1,1,D
+BOL,2010-10-28,01:00,Jorge Wilstermann,Real Mamoré,2,0,H,1,0,H
+BOL,2010-10-28,01:30,Club Blooming,Club San José,2,2,D,2,2,D
+BOL,2010-10-29,01:00,Guabirá,Club Aurora,1,0,H,1,0,H
+BOL,2010-10-31,20:00,Club Bolívar,La Paz FC,4,4,D,3,2,H
+BOL,2010-10-31,20:00,Club San José,Oriente Petrolero,0,3,A,0,2,A
+BOL,2010-10-31,20:00,Universitario Sucre,Real Potosí,1,1,D,1,0,H
+BOL,2010-10-31,20:00,Jorge Wilstermann,The Strongest,3,1,H,1,0,H
+BOL,2010-10-31,22:00,Real Mamoré,Club Aurora,2,1,H,2,1,H
+BOL,2010-10-31,22:00,Club Blooming,Guabirá,2,3,A,1,0,H
+BOL,2010-11-03,22:00,La Paz FC,Jorge Wilstermann,1,0,H,1,0,H
+BOL,2010-11-03,23:00,Guabirá,Universitario Sucre,1,0,H,0,0,D
+BOL,2010-11-04,00:00,Real Potosí,Club San José,1,3,A,0,1,A
+BOL,2010-11-04,00:00,The Strongest,Club Blooming,2,1,H,0,0,D
+BOL,2010-11-04,00:30,Oriente Petrolero,Real Mamoré,2,0,H,1,0,H
+BOL,2010-11-04,00:30,Club Aurora,Club Bolívar,3,2,H,3,0,H
+BOL,2010-11-06,21:30,Guabirá,Jorge Wilstermann,2,1,H,0,1,A
+BOL,2010-11-07,18:00,La Paz FC,The Strongest,0,1,A,0,1,A
+BOL,2010-11-07,20:00,Club Bolívar,Real Mamoré,2,2,D,0,0,D
+BOL,2010-11-07,20:00,Real Potosí,Club Blooming,3,0,H,1,0,H
+BOL,2010-11-07,20:00,Club Aurora,Club San José,4,1,H,4,0,H
+BOL,2010-11-07,22:00,Oriente Petrolero,Universitario Sucre,3,1,H,0,1,A
+BOL,2010-11-13,22:00,Real Mamoré,La Paz FC,2,2,D,2,0,H
+BOL,2010-11-14,19:30,Club San José,Club Bolívar,0,1,A,0,0,D
+BOL,2010-11-14,19:30,Universitario Sucre,Club Aurora,2,0,H,1,0,H
+BOL,2010-11-14,20:00,The Strongest,Guabirá,1,0,H,0,0,D
+BOL,2010-11-14,21:30,Jorge Wilstermann,Real Potosí,1,1,D,1,0,H
+BOL,2010-11-21,18:00,La Paz FC,Guabirá,3,1,H,1,1,D
+BOL,2010-11-21,20:00,Real Potosí,The Strongest,2,3,A,0,1,A
+BOL,2010-11-21,20:00,Club Aurora,Club Blooming,2,1,H,1,1,D
+BOL,2010-11-21,20:00,Club Bolívar,Universitario Sucre,4,1,H,1,0,H
+BOL,2010-11-21,20:00,Real Mamoré,Club San José,3,0,H,0,0,D
+BOL,2010-11-21,22:00,Oriente Petrolero,Jorge Wilstermann,3,1,H,1,1,D
+BOL,2010-11-25,00:00,Real Potosí,Oriente Petrolero,1,2,A,1,0,H
+BOL,2010-11-28,20:00,Club San José,La Paz FC,1,0,H,0,0,D
+BOL,2010-11-28,20:00,Universitario Sucre,Real Mamoré,1,1,D,1,1,D
+BOL,2010-11-28,20:00,Club Blooming,Club Bolívar,2,0,H,1,0,H
+BOL,2010-11-28,20:00,Jorge Wilstermann,Club Aurora,1,0,H,1,0,H
+BOL,2010-11-28,20:00,The Strongest,Oriente Petrolero,1,1,D,0,1,A
+BOL,2010-11-28,20:00,Guabirá,Real Potosí,2,0,H,1,0,H

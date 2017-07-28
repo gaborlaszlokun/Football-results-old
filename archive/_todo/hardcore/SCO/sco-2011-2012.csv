@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2011-07-23,12:30,Rangers FC,Heart of Midlothian,1,1,D,0,1,A
+SCO,2011-07-23,15:00,Aberdeen FC,St. Johnstone FC,0,0,D,0,0,D
+SCO,2011-07-23,15:00,Motherwell FC,Inverness CT,3,0,H,2,0,H
+SCO,2011-07-24,12:30,Hibernian FC,Celtic FC,0,2,A,0,1,A
+SCO,2011-07-24,15:00,Dundee United,Kilmarnock FC,1,1,D,0,0,D
+SCO,2011-07-25,19:45,Dunfermline Athletic,St. Mirren FC,0,0,D,0,0,D
+SCO,2011-07-30,12:00,St. Johnstone FC,Rangers FC,0,2,A,0,1,A
+SCO,2011-07-30,15:00,Inverness CT,Hibernian FC,0,1,A,0,0,D
+SCO,2011-07-30,15:00,Kilmarnock FC,Motherwell FC,0,0,D,0,0,D
+SCO,2011-07-30,15:00,St. Mirren FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2011-07-31,15:00,Heart of Midlothian,Dundee United,0,1,A,0,1,A
+SCO,2011-08-06,15:00,Dundee United,St. Mirren FC,1,1,D,0,1,A
+SCO,2011-08-06,15:00,Dunfermline Athletic,Inverness CT,3,3,D,1,0,H
+SCO,2011-08-07,12:15,Aberdeen FC,Celtic FC,0,1,A,0,0,D
+SCO,2011-08-07,15:00,Motherwell FC,Heart of Midlothian,1,0,H,0,0,D
+SCO,2011-08-13,12:45,Inverness CT,Rangers FC,0,2,A,0,0,D
+SCO,2011-08-13,15:00,Celtic FC,Dundee United,5,1,H,2,1,H
+SCO,2011-08-13,15:00,Heart of Midlothian,Aberdeen FC,3,0,H,2,0,H
+SCO,2011-08-13,15:00,St. Johnstone FC,Dunfermline Athletic,0,1,A,0,1,A
+SCO,2011-08-13,15:00,St. Mirren FC,Motherwell FC,0,1,A,0,0,D
+SCO,2011-08-14,12:15,Kilmarnock FC,Hibernian FC,4,1,H,2,1,H
+SCO,2011-08-20,15:00,Aberdeen FC,Inverness CT,2,1,H,2,0,H
+SCO,2011-08-20,15:00,Dundee United,Dunfermline Athletic,0,1,A,0,0,D
+SCO,2011-08-20,15:00,Hibernian FC,St. Mirren FC,1,2,A,1,2,A
+SCO,2011-08-21,14:15,Motherwell FC,Rangers FC,0,3,A,0,2,A
+SCO,2011-08-21,15:00,Kilmarnock FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2011-08-21,15:00,Celtic FC,St. Johnstone FC,0,1,A,0,0,D
+SCO,2011-08-27,15:00,Dunfermline Athletic,Motherwell FC,2,4,A,0,2,A
+SCO,2011-08-27,15:00,Inverness CT,Kilmarnock FC,2,1,H,1,1,D
+SCO,2011-08-27,15:00,St. Johnstone FC,Dundee United,3,3,D,3,1,H
+SCO,2011-08-28,12:45,St. Mirren FC,Celtic FC,0,2,A,0,2,A
+SCO,2011-08-28,15:00,Rangers FC,Aberdeen FC,2,0,H,1,0,H
+SCO,2011-08-28,15:45,Heart of Midlothian,Hibernian FC,2,0,H,1,0,H
+SCO,2011-09-10,12:30,Dundee United,Rangers FC,0,1,A,0,0,D
+SCO,2011-09-10,15:00,Celtic FC,Motherwell FC,4,0,H,2,0,H
+SCO,2011-09-10,15:00,Inverness CT,Heart of Midlothian,1,1,D,0,0,D
+SCO,2011-09-10,15:00,Kilmarnock FC,Dunfermline Athletic,3,2,H,2,1,H
+SCO,2011-09-10,15:00,St. Mirren FC,St. Johnstone FC,0,0,D,0,0,D
+SCO,2011-09-11,15:00,Hibernian FC,Aberdeen FC,0,0,D,0,0,D
+SCO,2011-09-17,12:30,Dunfermline Athletic,Hibernian FC,2,2,D,0,1,A
+SCO,2011-09-17,15:00,Aberdeen FC,Kilmarnock FC,2,2,D,1,2,A
+SCO,2011-09-17,15:00,Dundee United,Inverness CT,3,1,H,2,1,H
+SCO,2011-09-17,15:00,Heart of Midlothian,St. Mirren FC,2,0,H,1,0,H
+SCO,2011-09-17,15:00,Motherwell FC,St. Johnstone FC,0,3,A,0,1,A
+SCO,2011-09-18,12:30,Rangers FC,Celtic FC,4,2,H,1,2,A
+SCO,2011-09-24,12:45,Dunfermline Athletic,Rangers FC,0,4,A,0,2,A
+SCO,2011-09-24,15:00,Celtic FC,Inverness CT,2,0,H,2,0,H
+SCO,2011-09-24,15:00,Hibernian FC,Dundee United,3,3,D,1,2,A
+SCO,2011-09-24,15:00,Motherwell FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2011-09-24,15:00,St. Mirren FC,Kilmarnock FC,3,0,H,2,0,H
+SCO,2011-09-25,12:00,St. Johnstone FC,Heart of Midlothian,2,0,H,1,0,H
+SCO,2011-09-27,19:45,Rangers FC,Kilmarnock FC,2,0,H,0,0,D
+SCO,2011-09-28,19:45,Hibernian FC,St. Johnstone FC,3,2,H,2,1,H
+SCO,2011-09-30,19:45,Aberdeen FC,Dunfermline Athletic,4,0,H,3,0,H
+SCO,2011-10-01,15:00,Dundee United,Motherwell FC,1,3,A,0,2,A
+SCO,2011-10-01,15:00,Inverness CT,St. Mirren FC,2,1,H,1,1,D
+SCO,2011-10-01,15:00,Kilmarnock FC,St. Johnstone FC,1,2,A,1,1,D
+SCO,2011-10-01,15:00,Rangers FC,Hibernian FC,1,0,H,0,0,D
+SCO,2011-10-02,12:45,Heart of Midlothian,Celtic FC,2,0,H,0,0,D
+SCO,2011-10-15,12:30,Kilmarnock FC,Celtic FC,3,3,D,3,0,H
+SCO,2011-10-15,15:00,Aberdeen FC,Dundee United,3,1,H,1,0,H
+SCO,2011-10-15,15:00,Dunfermline Athletic,Heart of Midlothian,0,2,A,0,1,A
+SCO,2011-10-15,15:00,Hibernian FC,Motherwell FC,0,1,A,0,1,A
+SCO,2011-10-15,15:00,Rangers FC,St. Mirren FC,1,1,D,0,0,D
+SCO,2011-10-15,15:00,St. Johnstone FC,Inverness CT,2,0,H,1,0,H
+SCO,2011-10-22,12:45,Motherwell FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2011-10-22,15:00,Dundee United,St. Johnstone FC,0,0,D,0,0,D
+SCO,2011-10-22,15:00,Inverness CT,Dunfermline Athletic,1,1,D,1,0,H
+SCO,2011-10-22,15:00,St. Mirren FC,Hibernian FC,2,3,A,2,3,A
+SCO,2011-10-23,12:30,Heart of Midlothian,Rangers FC,0,2,A,0,1,A
+SCO,2011-10-23,15:00,Celtic FC,Aberdeen FC,2,1,H,1,0,H
+SCO,2011-10-29,12:00,Aberdeen FC,Rangers FC,1,2,A,0,0,D
+SCO,2011-10-29,15:00,Celtic FC,Hibernian FC,0,0,D,0,0,D
+SCO,2011-10-29,15:00,Dunfermline Athletic,Dundee United,1,4,A,0,2,A
+SCO,2011-10-29,15:00,Heart of Midlothian,Kilmarnock FC,0,1,A,0,0,D
+SCO,2011-10-29,15:00,Inverness CT,Motherwell FC,2,3,A,1,1,D
+SCO,2011-10-29,15:00,St. Johnstone FC,St. Mirren FC,0,1,A,0,0,D
+SCO,2011-11-05,15:00,Hibernian FC,Dunfermline Athletic,0,1,A,0,1,A
+SCO,2011-11-05,15:00,Kilmarnock FC,Inverness CT,3,6,A,1,1,D
+SCO,2011-11-05,15:00,Rangers FC,Dundee United,3,1,H,1,0,H
+SCO,2011-11-05,15:00,St. Mirren FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2011-11-06,12:00,Motherwell FC,Celtic FC,1,2,A,1,1,D
+SCO,2011-11-19,12:30,Inverness CT,Celtic FC,0,2,A,0,0,D
+SCO,2011-11-19,15:00,Aberdeen FC,Motherwell FC,1,2,A,1,1,D
+SCO,2011-11-19,15:00,Dundee United,Heart of Midlothian,1,0,H,1,0,H
+SCO,2011-11-19,15:00,Hibernian FC,Kilmarnock FC,1,1,D,0,1,A
+SCO,2011-11-19,15:00,Rangers FC,St. Johnstone FC,0,0,D,0,0,D
+SCO,2011-11-19,15:00,St. Mirren FC,Dunfermline Athletic,2,1,H,2,0,H
+SCO,2011-11-23,19:45,Celtic FC,Dunfermline Athletic,2,1,H,2,0,H
+SCO,2011-11-26,15:00,Celtic FC,St. Mirren FC,5,0,H,2,0,H
+SCO,2011-11-26,15:00,Dunfermline Athletic,Aberdeen FC,3,3,D,0,1,A
+SCO,2011-11-26,15:00,Heart of Midlothian,Inverness CT,2,1,H,0,0,D
+SCO,2011-11-26,15:00,Motherwell FC,Dundee United,0,0,D,0,0,D
+SCO,2011-11-26,15:00,St. Johnstone FC,Hibernian FC,3,1,H,2,1,H
+SCO,2011-11-27,12:45,Kilmarnock FC,Rangers FC,1,0,H,0,0,D
+SCO,2011-12-03,15:00,Heart of Midlothian,St. Johnstone FC,1,2,A,0,1,A
+SCO,2011-12-03,15:00,Kilmarnock FC,Aberdeen FC,2,0,H,1,0,H
+SCO,2011-12-03,15:00,Rangers FC,Dunfermline Athletic,2,1,H,2,1,H
+SCO,2011-12-03,15:00,St. Mirren FC,Inverness CT,1,2,A,1,1,D
+SCO,2011-12-04,12:45,Dundee United,Celtic FC,0,1,A,0,1,A
+SCO,2011-12-10,12:30,Hibernian FC,Rangers FC,0,2,A,0,0,D
+SCO,2011-12-10,15:00,Aberdeen FC,St. Mirren FC,2,2,D,2,1,H
+SCO,2011-12-10,15:00,Celtic FC,Heart of Midlothian,1,0,H,0,0,D
+SCO,2011-12-10,15:00,Inverness CT,Dundee United,2,3,A,1,0,H
+SCO,2011-12-10,15:00,St. Johnstone FC,Motherwell FC,0,3,A,0,2,A
+SCO,2011-12-13,19:45,St. Johnstone FC,Aberdeen FC,1,2,A,0,1,A
+SCO,2011-12-17,12:30,Aberdeen FC,Hibernian FC,1,0,H,0,0,D
+SCO,2011-12-17,15:00,Heart of Midlothian,Dunfermline Athletic,4,0,H,2,0,H
+SCO,2011-12-17,15:00,Kilmarnock FC,Dundee United,1,1,D,0,0,D
+SCO,2011-12-17,15:00,Motherwell FC,St. Mirren FC,1,1,D,0,0,D
+SCO,2011-12-17,15:00,Rangers FC,Inverness CT,2,1,H,0,0,D
+SCO,2011-12-18,15:00,St. Johnstone FC,Celtic FC,0,2,A,0,0,D
+SCO,2011-12-24,12:30,Inverness CT,Aberdeen FC,2,1,H,0,0,D
+SCO,2011-12-24,12:45,St. Mirren FC,Rangers FC,2,1,H,2,1,H
+SCO,2011-12-24,13:00,Heart of Midlothian,Motherwell FC,2,0,H,2,0,H
+SCO,2011-12-24,13:30,Celtic FC,Kilmarnock FC,2,1,H,1,0,H
+SCO,2011-12-24,13:30,Dundee United,Hibernian FC,3,1,H,0,1,A
+SCO,2011-12-24,13:30,Dunfermline Athletic,St. Johnstone FC,0,3,A,0,1,A
+SCO,2011-12-28,19:45,Aberdeen FC,Heart of Midlothian,0,0,D,0,0,D
+SCO,2011-12-28,19:45,Celtic FC,Rangers FC,1,0,H,0,0,D
+SCO,2011-12-28,19:45,Hibernian FC,Inverness CT,1,1,D,1,1,D
+SCO,2011-12-28,19:45,St. Johnstone FC,Kilmarnock FC,2,0,H,2,0,H
+SCO,2011-12-28,19:45,St. Mirren FC,Dundee United,2,2,D,2,2,D
+SCO,2012-01-02,12:15,Hibernian FC,Heart of Midlothian,1,3,A,0,0,D
+SCO,2012-01-02,15:00,Dundee United,Aberdeen FC,1,2,A,1,0,H
+SCO,2012-01-02,15:00,Dunfermline Athletic,Celtic FC,0,3,A,0,2,A
+SCO,2012-01-02,15:00,Kilmarnock FC,St. Mirren FC,2,1,H,1,1,D
+SCO,2012-01-02,15:00,Rangers FC,Motherwell FC,3,0,H,1,0,H
+SCO,2012-01-14,12:30,St. Johnstone FC,Rangers FC,1,2,A,0,1,A
+SCO,2012-01-14,15:00,Aberdeen FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2012-01-14,15:00,Celtic FC,Dundee United,2,1,H,2,0,H
+SCO,2012-01-14,15:00,Dunfermline Athletic,Hibernian FC,2,3,A,1,1,D
+SCO,2012-01-14,15:00,Heart of Midlothian,St. Mirren FC,5,2,H,2,2,D
+SCO,2012-01-14,15:00,Motherwell FC,Inverness CT,0,1,A,0,0,D
+SCO,2012-01-21,12:30,St. Mirren FC,Celtic FC,0,2,A,0,0,D
+SCO,2012-01-21,15:00,Dundee United,Motherwell FC,1,1,D,1,0,H
+SCO,2012-01-21,15:00,Hibernian FC,St. Johnstone FC,2,3,A,0,1,A
+SCO,2012-01-21,15:00,Inverness CT,Heart of Midlothian,1,0,H,0,0,D
+SCO,2012-01-21,15:00,Kilmarnock FC,Dunfermline Athletic,0,3,A,0,1,A
+SCO,2012-01-21,15:00,Rangers FC,Aberdeen FC,1,1,D,0,0,D
+SCO,2012-01-24,19:45,Motherwell FC,Dunfermline Athletic,3,1,H,1,0,H
+SCO,2012-01-28,15:00,Aberdeen FC,Dunfermline Athletic,1,0,H,1,0,H
+SCO,2012-01-28,15:00,Inverness CT,St. Mirren FC,0,0,D,0,0,D
+SCO,2012-01-28,15:00,Motherwell FC,St. Johnstone FC,3,2,H,1,1,D
+SCO,2012-01-28,15:00,Rangers FC,Hibernian FC,4,0,H,1,0,H
+SCO,2012-02-07,19:45,Dunfermline Athletic,Kilmarnock FC,1,1,D,1,1,D
+SCO,2012-02-08,19:45,Heart of Midlothian,Celtic FC,0,4,A,0,3,A
+SCO,2012-02-11,12:00,Dunfermline Athletic,Rangers FC,1,4,A,1,2,A
+SCO,2012-02-11,15:00,Celtic FC,Inverness CT,1,0,H,1,0,H
+SCO,2012-02-11,15:00,Hibernian FC,Aberdeen FC,0,0,D,0,0,D
+SCO,2012-02-11,15:00,Kilmarnock FC,Heart of Midlothian,1,1,D,0,0,D
+SCO,2012-02-11,15:00,St. Johnstone FC,Dundee United,1,5,A,0,1,A
+SCO,2012-02-11,15:00,St. Mirren FC,Motherwell FC,0,0,D,0,0,D
+SCO,2012-02-18,15:00,Dundee United,St. Mirren FC,0,0,D,0,0,D
+SCO,2012-02-18,15:00,Dunfermline Athletic,Inverness CT,1,1,D,1,0,H
+SCO,2012-02-18,15:00,Motherwell FC,Heart of Midlothian,3,0,H,2,0,H
+SCO,2012-02-18,15:00,Rangers FC,Kilmarnock FC,0,1,A,0,1,A
+SCO,2012-02-19,12:45,Aberdeen FC,St. Johnstone FC,0,0,D,0,0,D
+SCO,2012-02-19,15:00,Hibernian FC,Celtic FC,0,5,A,0,2,A
+SCO,2012-02-21,19:45,Dundee United,Kilmarnock FC,4,0,H,0,0,D
+SCO,2012-02-22,19:45,Motherwell FC,Hibernian FC,4,3,H,0,1,A
+SCO,2012-02-22,19:45,Celtic FC,Dunfermline Athletic,2,0,H,1,0,H
+SCO,2012-02-25,12:00,St. Mirren FC,Aberdeen FC,1,1,D,0,0,D
+SCO,2012-02-25,15:00,Celtic FC,Motherwell FC,1,0,H,0,0,D
+SCO,2012-02-25,15:00,Heart of Midlothian,Dundee United,0,2,A,0,1,A
+SCO,2012-02-25,15:00,Kilmarnock FC,Hibernian FC,1,3,A,0,1,A
+SCO,2012-02-25,15:00,St. Johnstone FC,Dunfermline Athletic,3,1,H,2,0,H
+SCO,2012-02-26,12:45,Inverness CT,Rangers FC,1,4,A,1,3,A
+SCO,2012-03-03,12:00,Aberdeen FC,Celtic FC,1,1,D,1,1,D
+SCO,2012-03-03,15:00,Dunfermline Athletic,Motherwell FC,0,2,A,0,0,D
+SCO,2012-03-03,15:00,Hibernian FC,St. Mirren FC,0,0,D,0,0,D
+SCO,2012-03-03,15:00,Kilmarnock FC,St. Johnstone FC,0,0,D,0,0,D
+SCO,2012-03-03,15:00,Rangers FC,Heart of Midlothian,1,2,A,1,0,H
+SCO,2012-03-05,19:45,Dundee United,Inverness CT,3,0,H,1,0,H
+SCO,2012-03-10,15:00,Inverness CT,Kilmarnock FC,1,1,D,0,1,A
+SCO,2012-03-17,12:45,Dundee United,Rangers FC,2,1,H,1,0,H
+SCO,2012-03-17,15:00,Motherwell FC,Aberdeen FC,1,0,H,1,0,H
+SCO,2012-03-17,15:00,St. Mirren FC,St. Johnstone FC,0,3,A,0,1,A
+SCO,2012-03-18,12:00,Heart of Midlothian,Hibernian FC,2,0,H,1,0,H
+SCO,2012-03-24,15:00,Aberdeen FC,Inverness CT,0,1,A,0,1,A
+SCO,2012-03-24,15:00,Dunfermline Athletic,St. Mirren FC,1,1,D,0,1,A
+SCO,2012-03-24,15:00,Hibernian FC,Dundee United,0,2,A,0,0,D
+SCO,2012-03-24,15:00,Kilmarnock FC,Motherwell FC,2,0,H,0,0,D
+SCO,2012-03-24,15:00,St. Johnstone FC,Heart of Midlothian,2,1,H,1,1,D
+SCO,2012-03-25,13:00,Rangers FC,Celtic FC,3,2,H,1,0,H
+SCO,2012-03-28,19:45,Inverness CT,St. Johnstone FC,0,1,A,0,1,A
+SCO,2012-03-31,12:00,Motherwell FC,Rangers FC,1,2,A,1,1,D
+SCO,2012-03-31,15:00,Dundee United,Dunfermline Athletic,3,0,H,0,0,D
+SCO,2012-03-31,15:00,Heart of Midlothian,Aberdeen FC,3,0,H,1,0,H
+SCO,2012-03-31,15:00,St. Mirren FC,Kilmarnock FC,4,2,H,1,1,D
+SCO,2012-04-01,12:45,Celtic FC,St. Johnstone FC,2,0,H,0,0,D
+SCO,2012-04-01,15:00,Inverness CT,Hibernian FC,2,3,A,0,0,D
+SCO,2012-04-07,12:00,Kilmarnock FC,Celtic FC,0,6,A,0,4,A
+SCO,2012-04-07,15:00,Aberdeen FC,Dundee United,3,1,H,1,1,D
+SCO,2012-04-07,15:00,Dunfermline Athletic,Heart of Midlothian,1,2,A,0,0,D
+SCO,2012-04-07,15:00,Rangers FC,St. Mirren FC,3,1,H,2,0,H
+SCO,2012-04-07,15:00,St. Johnstone FC,Inverness CT,0,0,D,0,0,D
+SCO,2012-04-08,12:30,Hibernian FC,Motherwell FC,1,1,D,1,0,H

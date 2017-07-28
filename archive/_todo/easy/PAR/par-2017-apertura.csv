@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PAR,2017-02-03,22:10,Libertad,Guaraní,3,2,H,2,1,H
+PAR,2017-02-04,21:00,General Díaz,Sportivo Luqueño,2,1,H,1,1,D
+PAR,2017-02-04,23:10,Sol de América,Independiente FBC,1,1,D,1,1,D
+PAR,2017-02-05,21:00,Rubio Ñu,Cerro Porteño,0,3,A,0,2,A
+PAR,2017-02-05,23:10,Club Nacional,Deportivo Capiatá,1,2,A,1,1,D
+PAR,2017-02-06,22:00,Sportivo Trinidense,Club Olimpia,0,3,A,0,1,A
+PAR,2017-02-10,22:10,Independiente FBC,General Díaz,0,0,D,0,0,D
+PAR,2017-02-11,21:00,Rubio Ñu,Sportivo Trinidense,1,1,D,0,0,D
+PAR,2017-02-11,23:10,Guaraní,Sol de América,2,1,H,1,0,H
+PAR,2017-02-12,21:00,Cerro Porteño,Club Nacional,2,1,H,1,1,D
+PAR,2017-02-12,23:10,Deportivo Capiatá,Libertad,1,2,A,0,2,A
+PAR,2017-02-17,21:00,Sportivo Trinidense,Sportivo Luqueño,3,3,D,2,2,D
+PAR,2017-02-17,23:10,General Díaz,Guaraní,1,2,A,1,0,H
+PAR,2017-02-18,21:00,Sol de América,Deportivo Capiatá,1,1,D,0,0,D
+PAR,2017-02-18,23:10,Libertad,Cerro Porteño,2,1,H,0,1,A
+PAR,2017-02-19,21:00,Club Olimpia,Independiente FBC,1,1,D,1,1,D
+PAR,2017-02-19,23:10,Club Nacional,Rubio Ñu,0,3,A,0,0,D
+PAR,2017-02-24,21:00,Independiente FBC,Sportivo Luqueño,1,0,H,0,0,D
+PAR,2017-02-24,23:10,Rubio Ñu,Libertad,0,0,D,0,0,D
+PAR,2017-02-25,21:00,Cerro Porteño,Sol de América,0,3,A,0,1,A
+PAR,2017-02-25,23:10,Club Nacional,Sportivo Trinidense,1,1,D,0,1,A
+PAR,2017-02-26,21:00,Guaraní,Club Olimpia,3,3,D,1,1,D
+PAR,2017-02-26,23:10,Deportivo Capiatá,General Díaz,1,2,A,0,0,D
+PAR,2017-03-03,21:00,Sportivo Trinidense,Independiente FBC,1,4,A,1,3,A
+PAR,2017-03-03,23:10,Libertad,Club Nacional,1,1,D,1,1,D
+PAR,2017-03-04,23:10,Club Olimpia,Deportivo Capiatá,2,0,H,0,0,D
+PAR,2017-03-05,21:00,Sol de América,Rubio Ñu,3,0,H,0,0,D
+PAR,2017-03-05,23:10,General Díaz,Cerro Porteño,1,2,A,0,2,A
+PAR,2017-03-08,22:00,Sportivo Luqueño,Club Olimpia,0,0,D,0,0,D
+PAR,2017-03-10,21:30,Rubio Ñu,General Díaz,2,3,A,0,2,A
+PAR,2017-03-11,21:00,Guaraní,Independiente FBC,3,2,H,2,2,D
+PAR,2017-03-11,23:10,Club Nacional,Sol de América,1,1,D,1,1,D
+PAR,2017-03-12,21:00,Cerro Porteño,Club Olimpia,2,1,H,2,0,H
+PAR,2017-03-12,23:20,Deportivo Capiatá,Sportivo Luqueño,0,1,A,0,0,D
+PAR,2017-03-13,22:00,Libertad,Sportivo Trinidense,2,2,D,1,2,A
+PAR,2017-03-15,23:10,Sportivo Luqueño,Guaraní,0,1,A,0,1,A
+PAR,2017-03-17,21:00,Independiente FBC,Deportivo Capiatá,1,0,H,0,0,D
+PAR,2017-03-17,23:10,General Díaz,Club Nacional,1,1,D,0,0,D
+PAR,2017-03-18,21:00,Club Olimpia,Rubio Ñu,1,1,D,1,0,H
+PAR,2017-03-18,23:10,Sol de América,Libertad,0,1,A,0,1,A
+PAR,2017-03-19,21:00,Sportivo Luqueño,Cerro Porteño,2,0,H,1,0,H
+PAR,2017-03-19,23:10,Sportivo Trinidense,Guaraní,1,2,A,1,1,D
+PAR,2017-03-24,21:00,Sol de América,Sportivo Trinidense,3,0,H,0,0,D
+PAR,2017-03-24,23:10,Rubio Ñu,Sportivo Luqueño,1,1,D,0,0,D
+PAR,2017-03-25,21:00,Club Nacional,Club Olimpia,2,4,A,1,2,A
+PAR,2017-03-25,23:10,Libertad,General Díaz,3,0,H,2,0,H
+PAR,2017-03-27,00:10,Deportivo Capiatá,Guaraní,1,0,H,0,0,D
+PAR,2017-03-29,22:00,Sportivo Luqueño,Club Nacional,1,2,A,0,1,A
+PAR,2017-03-29,23:10,Independiente FBC,Rubio Ñu,0,1,A,0,0,D
+PAR,2017-03-30,00:00,Sportivo Trinidense,Deportivo Capiatá,0,1,A,0,0,D
+PAR,2017-03-30,00:10,Club Olimpia,Libertad,0,3,A,0,1,A
+PAR,2017-03-31,00:10,General Díaz,Sol de América,0,5,A,0,3,A
+PAR,2017-04-01,22:00,Club Nacional,Independiente FBC,1,2,A,0,0,D
+PAR,2017-04-02,00:10,Cerro Porteño,Deportivo Capiatá,2,1,H,0,1,A
+PAR,2017-04-02,22:00,Rubio Ñu,Guaraní,1,2,A,0,1,A
+PAR,2017-04-03,00:10,Sol de América,Club Olimpia,0,1,A,0,0,D
+PAR,2017-04-03,22:00,General Díaz,Sportivo Trinidense,3,0,H,0,0,D
+PAR,2017-04-04,00:10,Libertad,Sportivo Luqueño,3,2,H,0,1,A
+PAR,2017-04-07,22:00,Independiente FBC,Libertad,0,2,A,0,2,A
+PAR,2017-04-08,00:10,Deportivo Capiatá,Rubio Ñu,1,2,A,1,0,H
+PAR,2017-04-08,22:00,Sportivo Trinidense,Cerro Porteño,0,2,A,0,0,D
+PAR,2017-04-09,00:10,Guaraní,Club Nacional,1,3,A,1,2,A
+PAR,2017-04-09,22:00,Club Olimpia,General Díaz,2,0,H,1,0,H
+PAR,2017-04-10,00:10,Sportivo Luqueño,Sol de América,0,3,A,0,1,A
+PAR,2017-04-15,22:00,Sportivo Luqueño,General Díaz,2,1,H,1,0,H
+PAR,2017-04-15,22:00,Independiente FBC,Sol de América,0,0,D,0,0,D
+PAR,2017-04-16,00:10,Cerro Porteño,Rubio Ñu,4,0,H,4,0,H
+PAR,2017-04-16,22:00,Guaraní,Libertad,2,1,H,2,0,H
+PAR,2017-04-17,00:10,Club Olimpia,Sportivo Trinidense,1,1,D,1,0,H
+PAR,2017-04-18,00:10,Deportivo Capiatá,Club Nacional,2,0,H,1,0,H
+PAR,2017-04-19,23:45,Cerro Porteño,Independiente FBC,1,1,D,1,1,D
+PAR,2017-04-22,22:00,Sportivo Trinidense,Rubio Ñu,3,3,D,2,2,D
+PAR,2017-04-23,15:00,Club Olimpia,Sportivo Luqueño,2,1,H,1,0,H
+PAR,2017-04-23,22:00,Club Nacional,Cerro Porteño,2,0,H,2,0,H
+PAR,2017-04-24,00:10,Sol de América,Guaraní,2,2,D,2,1,H
+PAR,2017-04-25,00:10,General Díaz,Independiente FBC,2,1,H,1,1,D
+PAR,2017-04-28,22:00,Rubio Ñu,Club Nacional,1,2,A,1,0,H
+PAR,2017-04-29,00:10,Deportivo Capiatá,Sol de América,0,1,A,0,1,A
+PAR,2017-04-29,22:00,Sportivo Luqueño,Sportivo Trinidense,0,0,D,0,0,D
+PAR,2017-04-30,15:00,Independiente FBC,Club Olimpia,1,1,D,1,0,H
+PAR,2017-04-30,22:00,Cerro Porteño,Libertad,1,0,H,0,0,D
+PAR,2017-05-01,00:10,Guaraní,General Díaz,0,0,D,0,0,D
+PAR,2017-05-05,22:00,Sportivo Luqueño,Independiente FBC,1,2,A,0,1,A
+PAR,2017-05-06,00:10,Sportivo Trinidense,Club Nacional,1,1,D,0,1,A
+PAR,2017-05-06,22:00,Sol de América,Cerro Porteño,1,0,H,0,0,D
+PAR,2017-05-07,22:00,General Díaz,Deportivo Capiatá,1,1,D,0,1,A
+PAR,2017-05-08,22:00,Libertad,Rubio Ñu,1,1,D,1,1,D
+PAR,2017-05-10,00:10,Club Olimpia,Guaraní,0,2,A,0,1,A
+PAR,2017-05-12,22:00,Independiente FBC,Sportivo Trinidense,2,2,D,0,2,A
+PAR,2017-05-13,00:10,Rubio Ñu,Sol de América,0,1,A,0,0,D
+PAR,2017-05-13,22:00,Club Nacional,Libertad,0,1,A,0,0,D
+PAR,2017-05-14,00:10,Guaraní,Sportivo Luqueño,4,2,H,2,1,H
+PAR,2017-05-14,15:00,Deportivo Capiatá,Club Olimpia,1,5,A,0,3,A
+PAR,2017-05-15,00:10,Cerro Porteño,General Díaz,1,0,H,0,0,D
+PAR,2017-05-17,23:45,Guaraní,Cerro Porteño,2,1,H,2,0,H
+PAR,2017-05-19,22:00,General Díaz,Rubio Ñu,0,3,A,0,1,A
+PAR,2017-05-20,00:10,Sportivo Luqueño,Deportivo Capiatá,1,1,D,0,0,D
+PAR,2017-05-20,22:00,Sportivo Trinidense,Libertad,0,2,A,0,0,D
+PAR,2017-05-21,00:10,Sol de América,Club Nacional,0,0,D,0,0,D
+PAR,2017-05-21,19:45,Club Olimpia,Cerro Porteño,2,0,H,0,0,D
+PAR,2017-05-21,23:30,Independiente FBC,Guaraní,4,2,H,3,1,H
+PAR,2017-05-25,00:10,Libertad,Deportivo Capiatá,0,1,A,0,0,D
+PAR,2017-05-27,23:00,Rubio Ñu,Club Olimpia,0,1,A,0,1,A
+PAR,2017-05-28,22:00,Cerro Porteño,Sportivo Luqueño,2,1,H,1,0,H
+PAR,2017-05-29,00:10,Libertad,Sol de América,3,0,H,1,0,H
+PAR,2017-05-29,22:00,Guaraní,Sportivo Trinidense,4,1,H,1,0,H
+PAR,2017-05-29,23:30,Deportivo Capiatá,Independiente FBC,0,1,A,0,0,D
+PAR,2017-05-30,00:10,Club Nacional,General Díaz,2,4,A,2,2,D
+PAR,2017-06-02,22:30,Sportivo Luqueño,Rubio Ñu,1,1,D,0,1,A
+PAR,2017-06-03,00:30,General Díaz,Libertad,0,2,A,0,0,D
+PAR,2017-06-03,21:00,Independiente FBC,Cerro Porteño,1,2,A,1,1,D
+PAR,2017-06-03,23:10,Guaraní,Deportivo Capiatá,4,2,H,2,0,H
+PAR,2017-06-04,21:00,Sportivo Trinidense,Sol de América,2,2,D,1,1,D
+PAR,2017-06-04,23:10,Club Olimpia,Club Nacional,0,0,D,0,0,D
+PAR,2017-06-09,21:00,Deportivo Capiatá,Sportivo Trinidense,0,3,A,0,0,D
+PAR,2017-06-09,23:10,Club Nacional,Sportivo Luqueño,0,0,D,0,0,D
+PAR,2017-06-10,21:00,Libertad,Club Olimpia,3,0,H,2,0,H
+PAR,2017-06-10,23:10,Rubio Ñu,Independiente FBC,2,2,D,1,1,D
+PAR,2017-06-11,21:00,Cerro Porteño,Guaraní,0,4,A,0,1,A
+PAR,2017-06-11,23:10,Sol de América,General Díaz,0,0,D,0,0,D
+PAR,2017-06-16,23:30,Independiente FBC,Club Nacional,0,2,A,0,2,A
+PAR,2017-06-17,21:00,Sportivo Trinidense,General Díaz,1,1,D,0,0,D
+PAR,2017-06-17,23:10,Deportivo Capiatá,Cerro Porteño,1,0,H,0,0,D
+PAR,2017-06-18,15:00,Club Olimpia,Sol de América,2,2,D,0,1,A
+PAR,2017-06-18,21:00,Sportivo Luqueño,Libertad,0,3,A,0,2,A
+PAR,2017-06-18,21:00,Guaraní,Rubio Ñu,2,1,H,1,0,H
+PAR,2017-06-22,21:00,General Díaz,Club Olimpia,0,0,D,0,0,D
+PAR,2017-06-22,23:10,Cerro Porteño,Sportivo Trinidense,0,0,D,0,0,D
+PAR,2017-06-23,21:00,Sol de América,Sportivo Luqueño,1,1,D,1,0,H
+PAR,2017-06-23,23:10,Rubio Ñu,Deportivo Capiatá,1,3,A,0,1,A
+PAR,2017-06-24,20:00,Club Nacional,Guaraní,1,2,A,0,2,A
+PAR,2017-06-24,20:00,Libertad,Independiente FBC,2,0,H,2,0,H

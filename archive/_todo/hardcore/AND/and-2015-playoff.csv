@@ -1,0 +1,13 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AND,2015-03-15,15:00,UE Sant Julià,FC Lusitanos la Posa,0,1,A,,,
+AND,2015-03-15,15:00,UE Santa Coloma,FC Santa Coloma,1,0,H,,,
+AND,2015-03-22,11:00,UE Santa Coloma,UE Sant Julià,0,1,A,,,
+AND,2015-03-22,15:00,FC Santa Coloma,FC Lusitanos la Posa,1,1,D,,,
+AND,2015-04-12,11:00,UE Sant Julià,FC Santa Coloma,2,2,D,,,
+AND,2015-04-12,15:00,FC Lusitanos la Posa,UE Santa Coloma,0,3,A,,,
+AND,2015-04-19,11:00,FC Lusitanos la Posa,UE Sant Julià,1,1,D,,,
+AND,2015-04-19,15:00,FC Santa Coloma,UE Santa Coloma,3,1,H,,,
+AND,2015-04-26,11:00,FC Lusitanos la Posa,FC Santa Coloma,1,2,A,,,
+AND,2015-04-26,11:00,UE Sant Julià,UE Santa Coloma,1,3,A,,,
+AND,2015-05-03,11:00,UE Santa Coloma,FC Lusitanos la Posa,2,4,A,,,
+AND,2015-05-03,11:00,FC Santa Coloma,UE Sant Julià,3,1,H,,,

@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GRE,2011-08-27,17:15,OFI Heraklion,Atromitos,1,1,D,0,1,A
+GRE,2011-08-27,19:30,PAS Giannina,Aris Saloniki,0,0,D,0,0,D
+GRE,2011-08-28,17:15,AO Kerkyra,Panathinaikos,0,2,A,0,0,D
+GRE,2011-08-28,17:15,Panionios GSS,Ergotelis,2,2,D,1,0,H
+GRE,2011-08-28,19:30,PAOK Saloniki,Skoda Xanthi,1,0,H,1,0,H
+GRE,2011-09-10,15:15,Panetolikos,Panionios GSS,0,1,A,0,1,A
+GRE,2011-09-10,17:30,Ergotelis,PAOK Saloniki,2,1,H,0,0,D
+GRE,2011-09-11,14:00,Asteras Tripolis,AO Kerkyra,0,0,D,0,0,D
+GRE,2011-09-11,16:15,Aris Saloniki,Atromitos,0,1,A,0,1,A
+GRE,2011-09-11,18:30,Panathinaikos,PAS Giannina,3,1,H,2,0,H
+GRE,2011-09-14,17:00,Panetolikos,Asteras Tripolis,1,0,H,0,0,D
+GRE,2011-09-17,15:15,AO Kerkyra,Panetolikos,2,3,A,1,0,H
+GRE,2011-09-17,17:30,Atromitos,Panathinaikos,1,1,D,0,0,D
+GRE,2011-09-18,14:00,PAS Giannina,Asteras Tripolis,3,1,H,1,1,D
+GRE,2011-09-18,16:15,AEK Athen,Ergotelis,1,0,H,1,0,H
+GRE,2011-09-18,16:15,Panionios GSS,PAOK Saloniki,1,2,A,1,1,D
+GRE,2011-09-18,18:30,Olympiakos Piräus,Skoda Xanthi,2,1,H,0,1,A
+GRE,2011-09-21,16:30,Skoda Xanthi,AEK Athen,3,4,A,1,2,A
+GRE,2011-09-24,15:15,AO Kerkyra,Panionios GSS,0,3,A,0,1,A
+GRE,2011-09-24,17:30,Ergotelis,Olympiakos Piräus,2,3,A,0,2,A
+GRE,2011-09-25,14:00,Skoda Xanthi,OFI Heraklion,3,1,H,1,0,H
+GRE,2011-09-25,14:00,Asteras Tripolis,Atromitos,0,0,D,0,0,D
+GRE,2011-09-25,16:15,Panetolikos,PAS Giannina,2,2,D,2,2,D
+GRE,2011-09-25,18:30,PAOK Saloniki,AEK Athen,3,0,H,3,0,H
+GRE,2011-10-01,15:15,Atromitos,Panetolikos,2,1,H,1,0,H
+GRE,2011-10-01,17:30,OFI Heraklion,Ergotelis,1,0,H,1,0,H
+GRE,2011-10-02,14:00,Aris Saloniki,Skoda Xanthi,0,0,D,0,0,D
+GRE,2011-10-02,14:00,PAS Giannina,AO Kerkyra,2,1,H,1,1,D
+GRE,2011-10-02,16:15,Panionios GSS,AEK Athen,0,1,A,0,0,D
+GRE,2011-10-02,18:30,Olympiakos Piräus,PAOK Saloniki,2,1,H,2,1,H
+GRE,2011-10-15,15:15,AO Kerkyra,Atromitos,2,2,D,1,1,D
+GRE,2011-10-15,18:30,AEK Athen,Olympiakos Piräus,1,1,D,1,1,D
+GRE,2011-10-16,14:00,Skoda Xanthi,Panathinaikos,2,3,A,0,2,A
+GRE,2011-10-16,14:00,PAS Giannina,Panionios GSS,0,0,D,0,0,D
+GRE,2011-10-16,16:15,Ergotelis,Aris Saloniki,1,1,D,0,1,A
+GRE,2011-10-16,18:30,PAOK Saloniki,OFI Heraklion,0,0,D,0,0,D
+GRE,2011-10-22,15:15,Asteras Tripolis,Skoda Xanthi,1,1,D,1,1,D
+GRE,2011-10-22,15:15,Atromitos,PAS Giannina,1,0,H,1,0,H
+GRE,2011-10-22,17:30,Panathinaikos,Ergotelis,4,0,H,3,0,H
+GRE,2011-10-23,16:15,OFI Heraklion,AEK Athen,3,1,H,1,0,H
+GRE,2011-10-23,16:15,Panionios GSS,Olympiakos Piräus,0,3,A,0,2,A
+GRE,2011-10-23,18:30,Aris Saloniki,PAOK Saloniki,1,1,D,1,0,H
+GRE,2011-10-29,15:15,Atromitos,Panionios GSS,2,1,H,0,0,D
+GRE,2011-10-29,15:15,Panetolikos,Skoda Xanthi,2,0,H,1,0,H
+GRE,2011-10-29,17:30,Olympiakos Piräus,OFI Heraklion,2,2,D,1,0,H
+GRE,2011-10-30,13:00,Ergotelis,Asteras Tripolis,2,0,H,2,0,H
+GRE,2011-10-30,15:15,AEK Athen,Aris Saloniki,3,0,H,2,0,H
+GRE,2011-10-30,17:30,PAOK Saloniki,Panathinaikos,1,3,A,0,1,A
+GRE,2011-11-05,15:15,Panionios GSS,OFI Heraklion,1,3,A,0,2,A
+GRE,2011-11-05,17:30,Aris Saloniki,Olympiakos Piräus,2,3,A,0,2,A
+GRE,2011-11-06,13:00,Ergotelis,Panetolikos,0,0,D,0,0,D
+GRE,2011-11-06,15:15,Skoda Xanthi,AO Kerkyra,1,0,H,0,0,D
+GRE,2011-11-06,15:15,Asteras Tripolis,PAOK Saloniki,1,0,H,1,0,H
+GRE,2011-11-06,17:30,Panathinaikos,AEK Athen,3,2,H,2,0,H
+GRE,2011-11-19,15:15,AEK Athen,Asteras Tripolis,2,0,H,1,0,H
+GRE,2011-11-19,15:15,AO Kerkyra,Ergotelis,2,1,H,1,1,D
+GRE,2011-11-19,17:30,Olympiakos Piräus,Panathinaikos,1,1,D,0,1,A
+GRE,2011-11-20,13:00,Atromitos,Levadiakos,1,1,D,1,0,H
+GRE,2011-11-20,13:00,Doxa Dramas FC,Panionios GSS,0,0,D,0,0,D
+GRE,2011-11-20,15:15,OFI Heraklion,Aris Saloniki,0,1,A,0,1,A
+GRE,2011-11-20,15:15,PAS Giannina,Skoda Xanthi,0,2,A,0,1,A
+GRE,2011-11-20,17:30,PAOK Saloniki,Panetolikos,3,0,H,1,0,H
+GRE,2011-11-23,17:00,AEK Athen,Levadiakos,2,1,H,1,0,H
+GRE,2011-11-26,15:15,Ergotelis,PAS Giannina,2,1,H,1,0,H
+GRE,2011-11-26,15:15,PAOK Saloniki,AO Kerkyra,0,0,D,0,0,D
+GRE,2011-11-26,17:30,Panetolikos,AEK Athen,0,2,A,0,1,A
+GRE,2011-11-27,13:00,Levadiakos,Doxa Dramas FC,1,0,H,0,0,D
+GRE,2011-11-27,15:15,Panathinaikos,OFI Heraklion,3,1,H,1,0,H
+GRE,2011-11-27,15:15,Panionios GSS,Aris Saloniki,2,1,H,1,0,H
+GRE,2011-11-27,17:30,Skoda Xanthi,Atromitos,3,0,H,2,0,H
+GRE,2011-11-27,17:30,Asteras Tripolis,Olympiakos Piräus,2,0,H,1,0,H
+GRE,2011-11-30,17:00,Olympiakos Piräus,Doxa Dramas FC,6,0,H,2,0,H
+GRE,2011-12-03,14:30,OFI Heraklion,Asteras Tripolis,3,0,H,0,0,D
+GRE,2011-12-03,15:15,Atromitos,Ergotelis,1,0,H,1,0,H
+GRE,2011-12-03,17:30,Olympiakos Piräus,Panetolikos,2,0,H,0,0,D
+GRE,2011-12-04,13:00,AEK Athen,AO Kerkyra,1,0,H,0,0,D
+GRE,2011-12-04,13:00,Doxa Dramas FC,Skoda Xanthi,0,2,A,0,1,A
+GRE,2011-12-04,15:15,Levadiakos,Panionios GSS,0,0,D,0,0,D
+GRE,2011-12-04,15:15,PAS Giannina,PAOK Saloniki,2,2,D,1,1,D
+GRE,2011-12-04,17:30,Aris Saloniki,Panathinaikos,3,1,H,2,1,H
+GRE,2011-12-07,17:00,Doxa Dramas FC,OFI Heraklion,0,1,A,0,1,A
+GRE,2011-12-10,15:15,Skoda Xanthi,Levadiakos,1,1,D,0,0,D
+GRE,2011-12-10,15:15,PAOK Saloniki,Atromitos,3,1,H,2,0,H
+GRE,2011-12-10,17:30,AEK Athen,PAS Giannina,2,1,H,1,0,H
+GRE,2011-12-11,13:00,Asteras Tripolis,Aris Saloniki,1,0,H,1,0,H
+GRE,2011-12-11,13:00,Panetolikos,OFI Heraklion,1,0,H,0,0,D
+GRE,2011-12-11,15:15,Ergotelis,Doxa Dramas FC,2,1,H,1,1,D
+GRE,2011-12-11,15:15,Panionios GSS,Panathinaikos,1,2,A,1,0,H
+GRE,2011-12-11,17:30,AO Kerkyra,Olympiakos Piräus,0,4,A,0,3,A
+GRE,2011-12-14,16:00,Levadiakos,Olympiakos Piräus,0,4,A,0,3,A
+GRE,2011-12-17,15:15,Levadiakos,Ergotelis,0,1,A,0,1,A
+GRE,2011-12-17,17:30,Skoda Xanthi,Panionios GSS,1,0,H,1,0,H
+GRE,2011-12-17,17:30,Panathinaikos,Asteras Tripolis,3,1,H,1,0,H
+GRE,2011-12-18,13:00,Doxa Dramas FC,PAOK Saloniki,0,2,A,0,2,A
+GRE,2011-12-18,13:00,OFI Heraklion,AO Kerkyra,0,0,D,0,0,D
+GRE,2011-12-18,15:15,Aris Saloniki,Panetolikos,0,0,D,0,0,D
+GRE,2011-12-18,15:15,Atromitos,AEK Athen,1,0,H,0,0,D
+GRE,2011-12-18,17:30,Olympiakos Piräus,PAS Giannina,2,0,H,2,0,H
+GRE,2011-12-28,14:00,OFI Heraklion,Levadiakos,0,1,A,0,0,D
+GRE,2011-12-28,17:30,Aris Saloniki,Doxa Dramas FC,2,0,H,1,0,H
+GRE,2012-01-03,15:15,Panionios GSS,Asteras Tripolis,2,0,H,1,0,H
+GRE,2012-01-03,15:15,PAS Giannina,OFI Heraklion,0,0,D,0,0,D
+GRE,2012-01-03,17:30,AEK Athen,Doxa Dramas FC,0,0,D,0,0,D
+GRE,2012-01-04,13:00,Ergotelis,Skoda Xanthi,1,2,A,1,0,H
+GRE,2012-01-04,13:00,AO Kerkyra,Aris Saloniki,1,0,H,0,0,D
+GRE,2012-01-04,15:15,PAOK Saloniki,Levadiakos,3,1,H,1,0,H
+GRE,2012-01-04,15:15,Panetolikos,Panathinaikos,1,1,D,0,0,D
+GRE,2012-01-04,17:30,Olympiakos Piräus,Atromitos,1,0,H,0,0,D
+GRE,2012-01-07,15:15,Asteras Tripolis,Panetolikos,1,0,H,1,0,H
+GRE,2012-01-07,15:15,Ergotelis,Panionios GSS,1,0,H,1,0,H
+GRE,2012-01-07,17:30,Levadiakos,AEK Athen,0,2,A,0,1,A
+GRE,2012-01-08,13:00,Skoda Xanthi,PAOK Saloniki,0,0,D,0,0,D
+GRE,2012-01-08,13:00,Aris Saloniki,PAS Giannina,1,0,H,1,0,H
+GRE,2012-01-08,13:00,Atromitos,OFI Heraklion,2,0,H,1,0,H
+GRE,2012-01-08,15:15,Panathinaikos,AO Kerkyra,1,0,H,1,0,H
+GRE,2012-01-08,17:30,Doxa Dramas FC,Olympiakos Piräus,0,0,D,0,0,D
+GRE,2012-01-14,15:15,AEK Athen,Skoda Xanthi,1,1,D,1,1,D
+GRE,2012-01-14,15:15,OFI Heraklion,Doxa Dramas FC,2,0,H,0,0,D
+GRE,2012-01-14,17:30,Olympiakos Piräus,Levadiakos,3,1,H,2,0,H
+GRE,2012-01-15,13:00,Atromitos,Aris Saloniki,0,0,D,0,0,D
+GRE,2012-01-15,13:00,AO Kerkyra,Asteras Tripolis,0,0,D,0,0,D
+GRE,2012-01-15,15:15,PAOK Saloniki,Ergotelis,2,1,H,0,1,A
+GRE,2012-01-15,15:15,Panionios GSS,Panetolikos,1,0,H,0,0,D
+GRE,2012-01-15,18:10,PAS Giannina,Panathinaikos,0,1,A,0,0,D
+GRE,2012-01-18,15:15,Levadiakos,Aris Saloniki,1,1,D,0,1,A
+GRE,2012-01-18,17:30,Panathinaikos,Doxa Dramas FC,1,0,H,0,0,D
+GRE,2012-01-21,15:15,Asteras Tripolis,PAS Giannina,2,1,H,1,1,D
+GRE,2012-01-21,15:15,Ergotelis,AEK Athen,1,1,D,0,0,D
+GRE,2012-01-21,17:30,PAOK Saloniki,Panionios GSS,1,0,H,1,0,H
+GRE,2012-01-22,13:00,Doxa Dramas FC,Aris Saloniki,1,3,A,1,2,A
+GRE,2012-01-22,13:00,Panetolikos,AO Kerkyra,1,1,D,1,1,D
+GRE,2012-01-22,15:15,Skoda Xanthi,Olympiakos Piräus,1,0,H,0,0,D
+GRE,2012-01-22,15:15,Levadiakos,OFI Heraklion,0,2,A,0,1,A
+GRE,2012-01-22,17:30,Panathinaikos,Atromitos,1,0,H,0,0,D
+GRE,2012-01-25,15:15,Doxa Dramas FC,Asteras Tripolis,1,0,H,1,0,H
+GRE,2012-01-25,17:30,Panathinaikos,Levadiakos,3,0,H,1,0,H
+GRE,2012-01-28,15:15,OFI Heraklion,Skoda Xanthi,1,0,H,1,0,H
+GRE,2012-01-28,15:15,Panionios GSS,AO Kerkyra,2,0,H,0,0,D
+GRE,2012-01-28,17:30,Olympiakos Piräus,Ergotelis,3,0,H,0,0,D
+GRE,2012-01-29,13:00,Atromitos,Asteras Tripolis,0,1,A,0,1,A
+GRE,2012-01-29,13:00,PAS Giannina,Panetolikos,1,0,H,0,0,D
+GRE,2012-01-29,15:15,Aris Saloniki,Levadiakos,2,1,H,0,1,A
+GRE,2012-01-29,15:15,Doxa Dramas FC,Panathinaikos,0,1,A,0,0,D
+GRE,2012-01-29,17:30,AEK Athen,PAOK Saloniki,0,2,A,0,1,A
+GRE,2012-02-04,15:15,Ergotelis,OFI Heraklion,0,1,A,0,1,A
+GRE,2012-02-04,15:15,AO Kerkyra,PAS Giannina,1,2,A,0,2,A
+GRE,2012-02-04,17:30,Levadiakos,Panathinaikos,1,0,H,0,0,D
+GRE,2012-02-05,13:00,Asteras Tripolis,Doxa Dramas FC,1,0,H,0,0,D
+GRE,2012-02-05,13:00,Panetolikos,Atromitos,1,1,D,1,0,H
+GRE,2012-02-05,15:15,AEK Athen,Panionios GSS,1,0,H,1,0,H
+GRE,2012-02-05,17:30,Skoda Xanthi,Aris Saloniki,0,2,A,0,0,D
+GRE,2012-02-05,17:30,PAOK Saloniki,Olympiakos Piräus,0,2,A,0,2,A
+GRE,2012-02-08,15:15,Asteras Tripolis,Levadiakos,0,1,A,0,1,A
+GRE,2012-02-08,17:30,Panetolikos,Doxa Dramas FC,0,2,A,0,1,A
+GRE,2012-02-10,19:00,Olympiakos Piräus,AEK Athen,2,0,H,2,0,H
+GRE,2012-02-11,15:15,Panionios GSS,PAS Giannina,0,0,D,0,0,D
+GRE,2012-02-11,17:30,OFI Heraklion,PAOK Saloniki,0,2,A,0,2,A
+GRE,2012-02-12,13:00,Atromitos,AO Kerkyra,3,1,H,2,1,H
+GRE,2012-02-12,13:00,Doxa Dramas FC,Panetolikos,2,1,H,0,0,D
+GRE,2012-02-12,15:15,Aris Saloniki,Ergotelis,1,1,D,1,1,D
+GRE,2012-02-12,15:15,Levadiakos,Asteras Tripolis,0,1,A,0,0,D
+GRE,2012-02-12,17:30,Panathinaikos,Skoda Xanthi,3,0,H,0,0,D
+GRE,2012-02-15,13:00,Doxa Dramas FC,AO Kerkyra,0,1,A,0,1,A
+GRE,2012-02-15,15:00,Levadiakos,Panetolikos,2,0,H,1,0,H
+GRE,2012-02-18,15:15,Skoda Xanthi,Asteras Tripolis,0,1,A,0,0,D
+GRE,2012-02-18,15:15,Ergotelis,Panathinaikos,0,2,A,0,0,D
+GRE,2012-02-19,13:00,Panetolikos,Levadiakos,0,2,A,0,2,A
+GRE,2012-02-19,13:00,PAS Giannina,Atromitos,1,2,A,0,1,A
+GRE,2012-02-19,15:15,AO Kerkyra,Doxa Dramas FC,3,1,H,1,0,H
+GRE,2012-02-19,15:15,Olympiakos Piräus,Panionios GSS,2,0,H,1,0,H
+GRE,2012-02-19,17:30,PAOK Saloniki,Aris Saloniki,0,0,D,0,0,D
+GRE,2012-02-26,17:30,AEK Athen,OFI Heraklion,1,1,D,0,0,D
+GRE,2012-03-03,15:15,Panionios GSS,Atromitos,1,2,A,0,1,A
+GRE,2012-03-03,17:30,Skoda Xanthi,Panetolikos,0,1,A,0,1,A
+GRE,2012-03-03,17:30,Aris Saloniki,AEK Athen,1,0,H,0,0,D
+GRE,2012-03-04,13:00,Asteras Tripolis,Ergotelis,3,0,H,1,0,H
+GRE,2012-03-04,13:00,Levadiakos,AO Kerkyra,4,3,H,3,1,H
+GRE,2012-03-04,15:15,Doxa Dramas FC,PAS Giannina,1,0,H,1,0,H
+GRE,2012-03-04,15:15,OFI Heraklion,Olympiakos Piräus,0,2,A,0,1,A
+GRE,2012-03-04,17:30,Panathinaikos,PAOK Saloniki,0,2,A,0,0,D
+GRE,2012-03-07,13:00,AO Kerkyra,Levadiakos,3,2,H,0,1,A
+GRE,2012-03-07,17:00,PAS Giannina,Doxa Dramas FC,1,0,H,0,0,D
+GRE,2012-03-10,15:15,Atromitos,Doxa Dramas FC,2,0,H,0,0,D
+GRE,2012-03-10,15:15,OFI Heraklion,Panionios GSS,0,1,A,0,0,D
+GRE,2012-03-10,17:30,PAOK Saloniki,Asteras Tripolis,2,3,A,1,3,A
+GRE,2012-03-11,13:00,AO Kerkyra,Skoda Xanthi,2,0,H,0,0,D
+GRE,2012-03-11,13:00,PAS Giannina,Levadiakos,2,0,H,1,0,H
+GRE,2012-03-11,15:15,Olympiakos Piräus,Aris Saloniki,3,0,H,2,0,H
+GRE,2012-03-11,15:15,Panetolikos,Ergotelis,2,0,H,1,0,H
+GRE,2012-03-11,17:30,AEK Athen,Panathinaikos,2,0,H,0,0,D
+GRE,2012-03-14,15:00,Levadiakos,PAS Giannina,1,1,D,1,0,H
+GRE,2012-03-14,17:00,Doxa Dramas FC,Atromitos,0,1,A,0,1,A
+GRE,2012-03-17,15:15,Aris Saloniki,OFI Heraklion,1,0,H,0,0,D
+GRE,2012-03-17,15:15,Ergotelis,AO Kerkyra,1,0,H,0,0,D
+GRE,2012-03-17,17:30,Asteras Tripolis,AEK Athen,1,1,D,0,0,D
+GRE,2012-03-18,13:00,Skoda Xanthi,PAS Giannina,1,2,A,0,0,D
+GRE,2012-03-18,13:00,Levadiakos,Atromitos,2,2,D,2,1,H
+GRE,2012-03-18,13:00,Panionios GSS,Doxa Dramas FC,2,0,H,2,0,H
+GRE,2012-03-18,15:15,Panetolikos,PAOK Saloniki,1,1,D,1,0,H
+GRE,2012-03-18,,Panathinaikos,Olympiakos Piräus,0,3,A,0,0,D
+GRE,2012-03-24,15:15,Aris Saloniki,Panionios GSS,4,2,H,1,1,D
+GRE,2012-03-24,15:15,Atromitos,Skoda Xanthi,1,0,H,0,0,D
+GRE,2012-03-24,17:30,OFI Heraklion,Panathinaikos,0,1,A,0,1,A
+GRE,2012-03-25,13:00,Doxa Dramas FC,Levadiakos,0,2,A,0,1,A
+GRE,2012-03-25,15:15,AEK Athen,Panetolikos,1,0,H,1,0,H
+GRE,2012-03-25,15:15,PAS Giannina,Ergotelis,1,1,D,0,0,D
+GRE,2012-03-25,17:30,AO Kerkyra,PAOK Saloniki,0,4,A,0,2,A
+GRE,2012-03-25,17:30,Olympiakos Piräus,Asteras Tripolis,7,2,H,1,2,A
+GRE,2012-04-01,17:00,Skoda Xanthi,Doxa Dramas FC,1,0,H,1,0,H
+GRE,2012-04-01,17:00,Asteras Tripolis,OFI Heraklion,2,2,D,2,1,H
+GRE,2012-04-01,17:00,Ergotelis,Atromitos,2,2,D,0,0,D
+GRE,2012-04-01,17:00,AO Kerkyra,AEK Athen,2,2,D,1,2,A
+GRE,2012-04-01,17:00,PAOK Saloniki,PAS Giannina,1,2,A,0,1,A
+GRE,2012-04-01,17:00,Panathinaikos,Aris Saloniki,1,0,H,0,0,D
+GRE,2012-04-01,17:00,Panetolikos,Olympiakos Piräus,0,1,A,0,0,D
+GRE,2012-04-01,17:00,Panionios GSS,Levadiakos,2,0,H,0,0,D
+GRE,2012-04-08,17:00,Atromitos,PAOK Saloniki,0,0,D,0,0,D
+GRE,2012-04-08,17:00,Doxa Dramas FC,Ergotelis,1,1,D,1,1,D
+GRE,2012-04-08,17:00,OFI Heraklion,Panetolikos,1,0,H,1,0,H
+GRE,2012-04-08,17:00,Olympiakos Piräus,AO Kerkyra,0,1,A,0,0,D
+GRE,2012-04-08,17:00,Panathinaikos,Panionios GSS,3,0,H,0,0,D
+GRE,2012-04-08,17:00,PAS Giannina,AEK Athen,2,1,H,0,0,D
+GRE,2012-04-08,,Aris Saloniki,Asteras Tripolis,0,3,A,0,0,D
+GRE,2012-04-09,17:00,Levadiakos,Skoda Xanthi,2,0,H,2,0,H
+GRE,2012-04-18,17:00,AEK Athen,Atromitos,0,0,D,0,0,D
+GRE,2012-04-18,17:00,Asteras Tripolis,Panathinaikos,0,2,A,0,0,D
+GRE,2012-04-18,17:00,Ergotelis,Levadiakos,0,1,A,0,0,D
+GRE,2012-04-18,17:00,AO Kerkyra,OFI Heraklion,4,1,H,3,1,H
+GRE,2012-04-18,17:00,PAOK Saloniki,Doxa Dramas FC,2,0,H,1,0,H
+GRE,2012-04-18,17:00,Panetolikos,Aris Saloniki,5,1,H,2,0,H
+GRE,2012-04-18,17:00,Panionios GSS,Skoda Xanthi,1,1,D,0,1,A
+GRE,2012-04-18,17:00,PAS Giannina,Olympiakos Piräus,0,4,A,0,0,D
+GRE,2012-04-22,17:00,Skoda Xanthi,Ergotelis,4,2,H,0,0,D
+GRE,2012-04-22,17:00,Aris Saloniki,AO Kerkyra,1,1,D,1,1,D
+GRE,2012-04-22,17:00,Asteras Tripolis,Panionios GSS,2,0,H,1,0,H
+GRE,2012-04-22,17:00,Atromitos,Olympiakos Piräus,0,2,A,0,0,D
+GRE,2012-04-22,17:00,Doxa Dramas FC,AEK Athen,1,1,D,0,0,D
+GRE,2012-04-22,17:00,OFI Heraklion,PAS Giannina,0,2,A,0,0,D
+GRE,2012-04-22,17:00,Levadiakos,PAOK Saloniki,4,3,H,1,1,D
+GRE,2012-04-22,17:00,Panathinaikos,Panetolikos,4,0,H,1,0,H

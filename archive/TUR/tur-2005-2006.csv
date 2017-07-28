@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,2005-08-05,18:00,Gençlerbirliği,Fenerbahçe,0,0,D,0.0,0.0,D
+TUR,2005-08-06,17:00,Erciyesspor,Beşiktaş,1,1,D,0.0,0.0,D
+TUR,2005-08-06,18:00,Diyarbakirspor,Çaykur Rizespor,1,0,H,1.0,0.0,H
+TUR,2005-08-06,18:00,Sivasspor,Malatyaspor,1,1,D,0.0,0.0,D
+TUR,2005-08-06,19:15,Trabzonspor,Kayserispor,2,1,H,2.0,0.0,H
+TUR,2005-08-07,18:00,Denizlispor,Ankaraspor,1,1,D,1.0,0.0,H
+TUR,2005-08-07,18:00,Galatasaray,Konyaspor,2,1,H,1.0,0.0,H
+TUR,2005-08-07,18:00,Vestel Manisaspor,MKE Ankaragücü,2,2,D,1.0,2.0,A
+TUR,2005-08-07,18:00,Samsunspor,Gaziantepspor,2,3,A,0.0,3.0,A
+TUR,2005-08-12,18:00,MKE Ankaragücü,Galatasaray,0,1,A,0.0,0.0,D
+TUR,2005-08-13,18:00,Malatyaspor,Vestel Manisaspor,0,5,A,0.0,0.0,D
+TUR,2005-08-13,18:00,Fenerbahçe,Diyarbakirspor,2,2,D,0.0,1.0,A
+TUR,2005-08-13,18:00,Çaykur Rizespor,Samsunspor,1,2,A,0.0,1.0,A
+TUR,2005-08-13,18:00,Gaziantepspor,Sivasspor,0,0,D,0.0,0.0,D
+TUR,2005-08-14,17:00,Konyaspor,Trabzonspor,0,0,D,0.0,0.0,D
+TUR,2005-08-14,18:00,Ankaraspor,Gençlerbirliği,0,0,D,0.0,0.0,D
+TUR,2005-08-14,18:00,Kayserispor,Erciyesspor,1,2,A,0.0,0.0,D
+TUR,2005-08-14,19:15,Beşiktaş,Denizlispor,2,0,H,2.0,0.0,H
+TUR,2005-08-20,17:00,Trabzonspor,MKE Ankaragücü,3,1,H,2.0,0.0,H
+TUR,2005-08-20,18:00,Samsunspor,Sivasspor,1,2,A,1.0,0.0,H
+TUR,2005-08-20,18:00,Denizlispor,Kayserispor,1,3,A,0.0,1.0,A
+TUR,2005-08-20,19:15,Gençlerbirliği,Beşiktaş,0,2,A,0.0,0.0,D
+TUR,2005-08-21,17:00,Çaykur Rizespor,Fenerbahçe,1,2,A,1.0,0.0,H
+TUR,2005-08-21,18:00,Diyarbakirspor,Ankaraspor,1,2,A,1.0,1.0,D
+TUR,2005-08-21,18:00,Erciyesspor,Konyaspor,0,0,D,0.0,0.0,D
+TUR,2005-08-21,18:00,Vestel Manisaspor,Gaziantepspor,1,2,A,0.0,2.0,A
+TUR,2005-08-21,19:15,Galatasaray,Malatyaspor,5,2,H,3.0,2.0,H
+TUR,2005-08-26,18:00,Gaziantepspor,Galatasaray,2,2,D,1.0,1.0,D
+TUR,2005-08-27,18:00,Konyaspor,Denizlispor,1,0,H,1.0,0.0,H
+TUR,2005-08-27,18:00,Sivasspor,Vestel Manisaspor,1,0,H,0.0,0.0,D
+TUR,2005-08-27,18:00,Ankaraspor,Çaykur Rizespor,0,0,D,0.0,0.0,D
+TUR,2005-08-27,18:00,Fenerbahçe,Samsunspor,5,2,H,1.0,1.0,D
+TUR,2005-08-28,17:00,Malatyaspor,Trabzonspor,1,1,D,0.0,0.0,D
+TUR,2005-08-28,18:00,MKE Ankaragücü,Erciyesspor,1,2,A,1.0,2.0,A
+TUR,2005-08-28,18:00,Kayserispor,Gençlerbirliği,2,0,H,0.0,0.0,D
+TUR,2005-08-28,19:15,Beşiktaş,Diyarbakirspor,1,1,D,0.0,0.0,D
+TUR,2005-09-10,16:30,Çaykur Rizespor,Beşiktaş,1,0,H,1.0,0.0,H
+TUR,2005-09-10,18:00,Diyarbakirspor,Kayserispor,0,2,A,0.0,1.0,A
+TUR,2005-09-10,18:00,Erciyesspor,Malatyaspor,1,1,D,1.0,1.0,D
+TUR,2005-09-10,19:00,Fenerbahçe,Ankaraspor,2,1,H,2.0,1.0,H
+TUR,2005-09-11,15:00,Trabzonspor,Gaziantepspor,2,0,H,1.0,0.0,H
+TUR,2005-09-11,18:00,Samsunspor,Vestel Manisaspor,1,1,D,1.0,1.0,D
+TUR,2005-09-11,18:00,Gençlerbirliği,Konyaspor,1,1,D,0.0,1.0,A
+TUR,2005-09-11,18:00,Denizlispor,MKE Ankaragücü,0,0,D,0.0,0.0,D
+TUR,2005-09-11,18:00,Galatasaray,Sivasspor,2,0,H,0.0,0.0,D
+TUR,2005-09-16,18:00,Sivasspor,Trabzonspor,2,1,H,1.0,1.0,D
+TUR,2005-09-17,18:00,MKE Ankaragücü,Gençlerbirliği,1,1,D,0.0,0.0,D
+TUR,2005-09-17,18:00,Konyaspor,Diyarbakirspor,5,1,H,2.0,0.0,H
+TUR,2005-09-17,18:00,Kayserispor,Çaykur Rizespor,3,1,H,0.0,0.0,D
+TUR,2005-09-17,18:00,Malatyaspor,Denizlispor,0,1,A,0.0,0.0,D
+TUR,2005-09-18,15:30,Vestel Manisaspor,Galatasaray,1,4,A,1.0,3.0,A
+TUR,2005-09-18,18:00,Beşiktaş,Fenerbahçe,1,2,A,0.0,1.0,A
+TUR,2005-09-18,18:00,Ankaraspor,Samsunspor,3,3,D,2.0,2.0,D
+TUR,2005-09-18,18:00,Gaziantepspor,Erciyesspor,1,2,A,0.0,0.0,D
+TUR,2005-09-23,18:00,Trabzonspor,Vestel Manisaspor,0,2,A,0.0,1.0,A
+TUR,2005-09-24,18:00,Gençlerbirliği,Malatyaspor,2,0,H,1.0,0.0,H
+TUR,2005-09-24,18:00,Denizlispor,Gaziantepspor,1,2,A,0.0,0.0,D
+TUR,2005-09-24,18:00,Fenerbahçe,Kayserispor,3,0,H,0.0,0.0,D
+TUR,2005-09-25,15:30,Ankaraspor,Beşiktaş,2,0,H,0.0,0.0,D
+TUR,2005-09-25,17:00,Diyarbakirspor,MKE Ankaragücü,0,3,A,0.0,1.0,A
+TUR,2005-09-25,18:00,Erciyesspor,Sivasspor,0,0,D,0.0,0.0,D
+TUR,2005-09-25,18:00,Çaykur Rizespor,Konyaspor,1,1,D,0.0,1.0,A
+TUR,2005-09-25,18:00,Samsunspor,Galatasaray,1,2,A,1.0,1.0,D
+TUR,2005-09-30,18:00,Gaziantepspor,Gençlerbirliği,1,1,D,0.0,0.0,D
+TUR,2005-10-01,13:00,Sivasspor,Denizlispor,1,0,H,1.0,0.0,H
+TUR,2005-10-01,18:00,Konyaspor,Fenerbahçe,2,4,A,2.0,0.0,H
+TUR,2005-10-01,18:00,Vestel Manisaspor,Erciyesspor,0,2,A,0.0,0.0,D
+TUR,2005-10-02,16:30,Beşiktaş,Samsunspor,3,2,H,2.0,1.0,H
+TUR,2005-10-02,18:00,MKE Ankaragücü,Çaykur Rizespor,1,0,H,0.0,0.0,D
+TUR,2005-10-02,18:00,Kayserispor,Ankaraspor,2,1,H,2.0,0.0,H
+TUR,2005-10-02,18:00,Malatyaspor,Diyarbakirspor,1,2,A,0.0,1.0,A
+TUR,2005-10-02,19:00,Galatasaray,Trabzonspor,4,1,H,4.0,1.0,H
+TUR,2005-10-15,12:00,Erciyesspor,Galatasaray,1,2,A,1.0,1.0,D
+TUR,2005-10-15,18:00,Diyarbakirspor,Gaziantepspor,1,2,A,1.0,1.0,D
+TUR,2005-10-15,18:00,Ankaraspor,Konyaspor,0,0,D,0.0,0.0,D
+TUR,2005-10-15,18:00,Fenerbahçe,MKE Ankaragücü,2,1,H,1.0,0.0,H
+TUR,2005-10-16,13:00,Denizlispor,Vestel Manisaspor,1,1,D,1.0,0.0,H
+TUR,2005-10-16,13:00,Çaykur Rizespor,Malatyaspor,1,0,H,0.0,0.0,D
+TUR,2005-10-16,13:00,Gençlerbirliği,Sivasspor,0,1,A,0.0,0.0,D
+TUR,2005-10-16,13:00,Samsunspor,Trabzonspor,3,1,H,1.0,1.0,D
+TUR,2005-10-16,18:00,Beşiktaş,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2005-10-21,18:00,Trabzonspor,Erciyesspor,0,0,D,0.0,0.0,D
+TUR,2005-10-22,18:00,MKE Ankaragücü,Ankaraspor,3,2,H,1.0,0.0,H
+TUR,2005-10-22,18:00,Kayserispor,Samsunspor,6,3,H,4.0,1.0,H
+TUR,2005-10-22,18:00,Galatasaray,Denizlispor,1,1,D,1.0,0.0,H
+TUR,2005-10-23,13:00,Vestel Manisaspor,Gençlerbirliği,0,3,A,0.0,2.0,A
+TUR,2005-10-23,13:00,Gaziantepspor,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2005-10-23,13:00,Konyaspor,Beşiktaş,0,1,A,0.0,0.0,D
+TUR,2005-10-23,13:00,Sivasspor,Diyarbakirspor,4,1,H,1.0,0.0,H
+TUR,2005-10-23,18:00,Malatyaspor,Fenerbahçe,0,3,A,0.0,2.0,A
+TUR,2005-10-28,18:00,Denizlispor,Trabzonspor,0,1,A,0.0,0.0,D
+TUR,2005-10-29,18:00,Ankaraspor,Malatyaspor,1,2,A,1.0,1.0,D
+TUR,2005-10-29,18:00,Fenerbahçe,Gaziantepspor,1,0,H,0.0,0.0,D
+TUR,2005-10-30,12:00,Samsunspor,Erciyesspor,1,1,D,1.0,1.0,D
+TUR,2005-10-30,12:00,Diyarbakirspor,Vestel Manisaspor,0,2,A,0.0,0.0,D
+TUR,2005-10-30,12:00,Gençlerbirliği,Galatasaray,2,1,H,1.0,0.0,H
+TUR,2005-10-30,12:00,Kayserispor,Konyaspor,1,0,H,0.0,0.0,D
+TUR,2005-10-30,12:00,Çaykur Rizespor,Sivasspor,1,0,H,0.0,0.0,D
+TUR,2005-10-30,18:00,Beşiktaş,MKE Ankaragücü,4,2,H,1.0,0.0,H
+TUR,2005-11-04,18:00,Galatasaray,Diyarbakirspor,2,0,H,0.0,0.0,D
+TUR,2005-11-05,12:00,Erciyesspor,Denizlispor,2,0,H,1.0,0.0,H
+TUR,2005-11-05,18:00,Trabzonspor,Gençlerbirliği,1,1,D,1.0,0.0,H
+TUR,2005-11-05,18:00,Gaziantepspor,Ankaraspor,3,3,D,2.0,3.0,A
+TUR,2005-11-06,12:00,Vestel Manisaspor,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2005-11-06,12:00,MKE Ankaragücü,Kayserispor,2,0,H,1.0,0.0,H
+TUR,2005-11-06,12:00,Konyaspor,Samsunspor,4,2,H,1.0,1.0,D
+TUR,2005-11-06,12:00,Sivasspor,Fenerbahçe,2,3,A,1.0,2.0,A
+TUR,2005-11-06,18:00,Malatyaspor,Beşiktaş,1,1,D,0.0,0.0,D
+TUR,2005-11-19,12:00,Diyarbakirspor,Trabzonspor,3,0,H,2.0,0.0,H
+TUR,2005-11-19,14:30,Gençlerbirliği,Erciyesspor,3,0,H,1.0,0.0,H
+TUR,2005-11-19,14:30,Samsunspor,Denizlispor,1,2,A,1.0,0.0,H
+TUR,2005-11-19,17:00,Fenerbahçe,Vestel Manisaspor,2,1,H,1.0,0.0,H
+TUR,2005-11-20,12:00,Ankaraspor,Sivasspor,1,1,D,0.0,1.0,A
+TUR,2005-11-20,12:00,Konyaspor,MKE Ankaragücü,2,0,H,1.0,0.0,H
+TUR,2005-11-20,12:00,Kayserispor,Malatyaspor,2,0,H,1.0,0.0,H
+TUR,2005-11-20,14:00,Beşiktaş,Gaziantepspor,0,1,A,0.0,1.0,A
+TUR,2005-11-20,17:00,Çaykur Rizespor,Galatasaray,0,3,A,0.0,2.0,A
+TUR,2005-11-25,18:00,Trabzonspor,Çaykur Rizespor,3,1,H,2.0,0.0,H
+TUR,2005-11-26,14:30,Malatyaspor,Konyaspor,1,0,H,1.0,0.0,H
+TUR,2005-11-26,17:00,Vestel Manisaspor,Ankaraspor,1,0,H,1.0,0.0,H
+TUR,2005-11-26,17:00,Sivasspor,Beşiktaş,1,3,A,1.0,2.0,A
+TUR,2005-11-27,12:00,Denizlispor,Gençlerbirliği,0,2,A,0.0,1.0,A
+TUR,2005-11-27,12:00,Erciyesspor,Diyarbakirspor,0,2,A,0.0,1.0,A
+TUR,2005-11-27,12:00,Gaziantepspor,Kayserispor,1,4,A,1.0,1.0,D
+TUR,2005-11-27,12:00,MKE Ankaragücü,Samsunspor,1,1,D,1.0,1.0,D
+TUR,2005-11-27,17:00,Galatasaray,Fenerbahçe,0,1,A,0.0,1.0,A
+TUR,2005-12-02,18:00,Fenerbahçe,Trabzonspor,2,2,D,0.0,1.0,A
+TUR,2005-12-03,14:30,Konyaspor,Gaziantepspor,3,2,H,2.0,0.0,H
+TUR,2005-12-03,14:30,Çaykur Rizespor,Erciyesspor,2,2,D,1.0,1.0,D
+TUR,2005-12-03,17:00,Ankaraspor,Galatasaray,1,2,A,1.0,2.0,A
+TUR,2005-12-04,12:00,Diyarbakirspor,Denizlispor,1,0,H,1.0,0.0,H
+TUR,2005-12-04,12:00,Gençlerbirliği,Samsunspor,0,1,A,0.0,1.0,A
+TUR,2005-12-04,14:00,Kayserispor,Sivasspor,2,2,D,1.0,1.0,D
+TUR,2005-12-04,17:00,Beşiktaş,Vestel Manisaspor,3,1,H,3.0,0.0,H
+TUR,2005-12-05,11:00,Malatyaspor,MKE Ankaragücü,0,0,D,0.0,0.0,D
+TUR,2005-12-09,18:00,Vestel Manisaspor,Kayserispor,1,0,H,0.0,0.0,D
+TUR,2005-12-10,12:00,Gaziantepspor,MKE Ankaragücü,1,1,D,0.0,0.0,D
+TUR,2005-12-10,14:30,Denizlispor,Çaykur Rizespor,2,0,H,0.0,0.0,D
+TUR,2005-12-10,17:00,Galatasaray,Beşiktaş,3,2,H,1.0,2.0,A
+TUR,2005-12-11,12:00,Samsunspor,Malatyaspor,1,2,A,0.0,1.0,A
+TUR,2005-12-11,12:00,Gençlerbirliği,Diyarbakirspor,4,0,H,3.0,0.0,H
+TUR,2005-12-11,12:00,Sivasspor,Konyaspor,1,1,D,1.0,0.0,H
+TUR,2005-12-11,14:00,Trabzonspor,Ankaraspor,2,3,A,2.0,0.0,H
+TUR,2005-12-11,17:00,Erciyesspor,Fenerbahçe,0,3,A,0.0,2.0,A
+TUR,2005-12-16,18:00,Kayserispor,Galatasaray,1,3,A,0.0,2.0,A
+TUR,2005-12-17,12:00,MKE Ankaragücü,Sivasspor,0,0,D,0.0,0.0,D
+TUR,2005-12-17,12:15,Malatyaspor,Gaziantepspor,2,0,H,0.0,0.0,D
+TUR,2005-12-17,17:00,Fenerbahçe,Denizlispor,6,2,H,2.0,0.0,H
+TUR,2005-12-18,12:00,Diyarbakirspor,Samsunspor,0,0,D,0.0,0.0,D
+TUR,2005-12-18,12:00,Çaykur Rizespor,Gençlerbirliği,1,1,D,0.0,0.0,D
+TUR,2005-12-18,12:00,Konyaspor,Vestel Manisaspor,1,1,D,0.0,0.0,D
+TUR,2005-12-18,12:00,Ankaraspor,Erciyesspor,1,1,D,1.0,1.0,D
+TUR,2005-12-18,17:00,Beşiktaş,Trabzonspor,0,1,A,0.0,0.0,D
+TUR,2006-01-20,18:00,Fenerbahçe,Gençlerbirliği,3,0,H,2.0,0.0,H
+TUR,2006-01-21,14:30,MKE Ankaragücü,Vestel Manisaspor,0,2,A,0.0,1.0,A
+TUR,2006-01-21,17:00,Beşiktaş,Erciyesspor,2,2,D,2.0,1.0,H
+TUR,2006-01-22,12:00,Çaykur Rizespor,Diyarbakirspor,2,0,H,1.0,0.0,H
+TUR,2006-01-22,12:00,Ankaraspor,Denizlispor,1,3,A,0.0,2.0,A
+TUR,2006-01-22,12:00,Malatyaspor,Sivasspor,0,0,D,0.0,0.0,D
+TUR,2006-01-22,12:00,Gaziantepspor,Samsunspor,0,1,A,0.0,0.0,D
+TUR,2006-01-22,14:00,Kayserispor,Trabzonspor,4,2,H,4.0,2.0,H
+TUR,2006-01-22,17:00,Konyaspor,Galatasaray,0,1,A,0.0,0.0,D
+TUR,2006-02-03,18:00,Fenerbahçe,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2006-02-04,14:30,Ankaraspor,Diyarbakirspor,3,3,D,0.0,2.0,A
+TUR,2006-02-04,14:30,Kayserispor,Denizlispor,2,2,D,1.0,0.0,H
+TUR,2006-02-04,17:00,Beşiktaş,Gençlerbirliği,2,1,H,1.0,0.0,H
+TUR,2006-02-05,12:00,Sivasspor,Samsunspor,0,3,A,0.0,2.0,A
+TUR,2006-02-05,12:00,Konyaspor,Erciyesspor,2,0,H,1.0,0.0,H
+TUR,2006-02-05,12:00,Gaziantepspor,Vestel Manisaspor,1,1,D,0.0,1.0,A
+TUR,2006-02-05,14:00,MKE Ankaragücü,Trabzonspor,1,2,A,1.0,0.0,H
+TUR,2006-02-05,17:00,Malatyaspor,Galatasaray,1,1,D,0.0,1.0,A
+TUR,2006-02-10,18:00,Diyarbakirspor,Beşiktaş,1,3,A,0.0,2.0,A
+TUR,2006-02-11,14:30,Vestel Manisaspor,Sivasspor,3,1,H,2.0,1.0,H
+TUR,2006-02-11,14:30,Erciyesspor,MKE Ankaragücü,1,2,A,0.0,0.0,D
+TUR,2006-02-11,17:00,Samsunspor,Fenerbahçe,0,5,A,0.0,2.0,A
+TUR,2006-02-12,12:00,Denizlispor,Konyaspor,5,2,H,3.0,1.0,H
+TUR,2006-02-12,12:00,Gençlerbirliği,Kayserispor,3,2,H,2.0,1.0,H
+TUR,2006-02-12,12:00,Çaykur Rizespor,Ankaraspor,1,1,D,1.0,0.0,H
+TUR,2006-02-12,14:00,Trabzonspor,Malatyaspor,1,0,H,0.0,0.0,D
+TUR,2006-02-12,17:00,Galatasaray,Gaziantepspor,6,0,H,2.0,0.0,H
+TUR,2006-02-17,18:00,Beşiktaş,Çaykur Rizespor,0,1,A,0.0,0.0,D
+TUR,2006-02-18,17:00,Ankaraspor,Fenerbahçe,2,1,H,1.0,0.0,H
+TUR,2006-02-19,12:00,Kayserispor,Diyarbakirspor,3,0,H,2.0,0.0,H
+TUR,2006-02-19,12:00,Vestel Manisaspor,Samsunspor,3,0,H,1.0,0.0,H
+TUR,2006-02-19,12:00,Konyaspor,Gençlerbirliği,0,3,A,0.0,1.0,A
+TUR,2006-02-19,12:00,MKE Ankaragücü,Denizlispor,1,1,D,0.0,0.0,D
+TUR,2006-02-19,12:00,Malatyaspor,Erciyesspor,2,2,D,1.0,0.0,H
+TUR,2006-02-19,14:00,Gaziantepspor,Trabzonspor,0,2,A,0.0,1.0,A
+TUR,2006-02-19,17:00,Sivasspor,Galatasaray,0,0,D,0.0,0.0,D
+TUR,2006-02-25,12:00,Erciyesspor,Gaziantepspor,1,0,H,0.0,0.0,D
+TUR,2006-02-25,17:00,Galatasaray,Vestel Manisaspor,4,2,H,2.0,1.0,H
+TUR,2006-02-26,12:00,Samsunspor,Ankaraspor,0,1,A,0.0,0.0,D
+TUR,2006-02-26,12:00,Gençlerbirliği,MKE Ankaragücü,1,1,D,0.0,1.0,A
+TUR,2006-02-26,12:00,Diyarbakirspor,Konyaspor,0,3,A,,,
+TUR,2006-02-26,12:00,Çaykur Rizespor,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2006-02-26,12:00,Denizlispor,Malatyaspor,1,0,H,0.0,0.0,D
+TUR,2006-02-26,14:00,Trabzonspor,Sivasspor,0,0,D,0.0,0.0,D
+TUR,2006-02-26,17:00,Fenerbahçe,Beşiktaş,2,2,D,0.0,0.0,D
+TUR,2006-03-04,12:00,Vestel Manisaspor,Trabzonspor,1,2,A,1.0,1.0,D
+TUR,2006-03-04,17:00,Galatasaray,Samsunspor,3,2,H,1.0,1.0,D
+TUR,2006-03-05,12:00,MKE Ankaragücü,Diyarbakirspor,5,1,H,2.0,1.0,H
+TUR,2006-03-05,12:00,Sivasspor,Erciyesspor,3,0,H,1.0,0.0,H
+TUR,2006-03-05,12:00,Malatyaspor,Gençlerbirliği,1,3,A,0.0,1.0,A
+TUR,2006-03-05,12:00,Gaziantepspor,Denizlispor,1,0,H,0.0,0.0,D
+TUR,2006-03-05,12:00,Konyaspor,Çaykur Rizespor,3,1,H,1.0,0.0,H
+TUR,2006-03-05,14:00,Beşiktaş,Ankaraspor,3,0,H,1.0,0.0,H
+TUR,2006-03-05,17:00,Kayserispor,Fenerbahçe,1,0,H,0.0,0.0,D
+TUR,2006-03-10,18:00,Erciyesspor,Vestel Manisaspor,2,1,H,2.0,0.0,H
+TUR,2006-03-11,14:00,Gençlerbirliği,Gaziantepspor,3,1,H,2.0,0.0,H
+TUR,2006-03-11,14:00,Çaykur Rizespor,MKE Ankaragücü,1,0,H,0.0,0.0,D
+TUR,2006-03-11,17:00,Fenerbahçe,Konyaspor,5,0,H,1.0,0.0,H
+TUR,2006-03-12,12:00,Denizlispor,Sivasspor,4,0,H,2.0,0.0,H
+TUR,2006-03-12,12:00,Ankaraspor,Kayserispor,1,3,A,1.0,1.0,D
+TUR,2006-03-12,12:00,Diyarbakirspor,Malatyaspor,3,2,H,2.0,1.0,H
+TUR,2006-03-12,14:00,Samsunspor,Beşiktaş,1,3,A,1.0,1.0,D
+TUR,2006-03-12,17:00,Trabzonspor,Galatasaray,1,1,D,0.0,0.0,D
+TUR,2006-03-17,18:00,Kayserispor,Beşiktaş,0,1,A,0.0,1.0,A
+TUR,2006-03-18,14:00,Vestel Manisaspor,Denizlispor,4,2,H,2.0,2.0,D
+TUR,2006-03-18,17:00,MKE Ankaragücü,Fenerbahçe,1,4,A,1.0,1.0,D
+TUR,2006-03-19,12:00,Malatyaspor,Çaykur Rizespor,1,0,H,0.0,0.0,D
+TUR,2006-03-19,12:00,Gaziantepspor,Diyarbakirspor,2,0,H,1.0,0.0,H
+TUR,2006-03-19,12:00,Sivasspor,Gençlerbirliği,2,1,H,1.0,1.0,D
+TUR,2006-03-19,12:00,Konyaspor,Ankaraspor,0,0,D,0.0,0.0,D
+TUR,2006-03-19,14:00,Trabzonspor,Samsunspor,2,1,H,1.0,1.0,D
+TUR,2006-03-19,17:00,Galatasaray,Erciyesspor,4,2,H,2.0,1.0,H
+TUR,2006-03-24,18:00,Beşiktaş,Konyaspor,0,1,A,0.0,1.0,A
+TUR,2006-03-25,14:00,Gençlerbirliği,Vestel Manisaspor,2,1,H,0.0,1.0,A
+TUR,2006-03-25,14:00,Diyarbakirspor,Sivasspor,1,1,D,0.0,1.0,A
+TUR,2006-03-25,17:00,Denizlispor,Galatasaray,1,2,A,1.0,0.0,H
+TUR,2006-03-26,12:30,Çaykur Rizespor,Gaziantepspor,0,0,D,0.0,0.0,D
+TUR,2006-03-26,12:30,Ankaraspor,MKE Ankaragücü,1,2,A,1.0,2.0,A
+TUR,2006-03-26,12:30,Samsunspor,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2006-03-26,14:00,Erciyesspor,Trabzonspor,1,0,H,0.0,0.0,D
+TUR,2006-03-26,17:00,Fenerbahçe,Malatyaspor,2,0,H,0.0,0.0,D
+TUR,2006-03-29,12:30,Gençlerbirliği,Ankaraspor,2,1,H,1.0,0.0,H
+TUR,2006-03-29,12:30,Vestel Manisaspor,Malatyaspor,4,3,H,3.0,1.0,H
+TUR,2006-03-29,12:30,Samsunspor,Çaykur Rizespor,0,0,D,0.0,0.0,D
+TUR,2006-03-29,12:30,Erciyesspor,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2006-03-29,12:30,Sivasspor,Gaziantepspor,0,0,D,0.0,0.0,D
+TUR,2006-03-29,14:30,Denizlispor,Beşiktaş,1,1,D,1.0,0.0,H
+TUR,2006-03-29,18:00,Galatasaray,MKE Ankaragücü,2,0,H,1.0,0.0,H
+TUR,2006-03-30,14:30,Trabzonspor,Konyaspor,1,2,A,1.0,0.0,H
+TUR,2006-03-30,18:00,Diyarbakirspor,Fenerbahçe,0,4,A,0.0,3.0,A
+TUR,2006-04-01,16:30,MKE Ankaragücü,Beşiktaş,2,3,A,1.0,2.0,A
+TUR,2006-04-01,18:45,Galatasaray,Gençlerbirliği,3,0,H,2.0,0.0,H
+TUR,2006-04-02,12:30,Malatyaspor,Ankaraspor,0,2,A,0.0,1.0,A
+TUR,2006-04-02,12:30,Erciyesspor,Samsunspor,2,2,D,1.0,1.0,D
+TUR,2006-04-02,12:30,Vestel Manisaspor,Diyarbakirspor,0,3,A,0.0,2.0,A
+TUR,2006-04-02,12:30,Konyaspor,Kayserispor,1,0,H,1.0,0.0,H
+TUR,2006-04-02,12:30,Sivasspor,Çaykur Rizespor,1,2,A,0.0,0.0,D
+TUR,2006-04-02,14:00,Trabzonspor,Denizlispor,3,0,H,2.0,0.0,H
+TUR,2006-04-02,17:00,Gaziantepspor,Fenerbahçe,0,2,A,0.0,1.0,A
+TUR,2006-04-07,18:00,Diyarbakirspor,Galatasaray,1,3,A,1.0,2.0,A
+TUR,2006-04-08,14:00,Ankaraspor,Gaziantepspor,3,0,H,1.0,0.0,H
+TUR,2006-04-08,17:00,Beşiktaş,Malatyaspor,2,2,D,0.0,1.0,A
+TUR,2006-04-09,12:30,Çaykur Rizespor,Vestel Manisaspor,4,1,H,1.0,1.0,D
+TUR,2006-04-09,12:30,Kayserispor,MKE Ankaragücü,1,2,A,0.0,1.0,A
+TUR,2006-04-09,12:30,Samsunspor,Konyaspor,1,1,D,1.0,1.0,D
+TUR,2006-04-09,12:30,Denizlispor,Erciyesspor,1,1,D,0.0,0.0,D
+TUR,2006-04-09,14:00,Gençlerbirliği,Trabzonspor,1,0,H,1.0,0.0,H
+TUR,2006-04-09,17:00,Fenerbahçe,Sivasspor,3,0,H,2.0,0.0,H
+TUR,2006-04-15,14:00,Malatyaspor,Kayserispor,2,1,H,0.0,0.0,D
+TUR,2006-04-15,14:00,Denizlispor,Samsunspor,1,2,A,1.0,1.0,D
+TUR,2006-04-15,19:00,Vestel Manisaspor,Fenerbahçe,5,3,H,2.0,1.0,H
+TUR,2006-04-16,09:00,Trabzonspor,Diyarbakirspor,3,0,H,0.0,0.0,D
+TUR,2006-04-16,12:30,Sivasspor,Ankaraspor,2,2,D,0.0,1.0,A
+TUR,2006-04-16,12:30,Erciyesspor,Gençlerbirliği,2,0,H,1.0,0.0,H
+TUR,2006-04-16,12:30,MKE Ankaragücü,Konyaspor,3,0,H,1.0,0.0,H
+TUR,2006-04-16,13:30,Gaziantepspor,Beşiktaş,2,2,D,1.0,1.0,D
+TUR,2006-04-16,17:00,Galatasaray,Çaykur Rizespor,4,2,H,1.0,0.0,H
+TUR,2006-04-22,12:00,Ankaraspor,Vestel Manisaspor,3,1,H,0.0,1.0,A
+TUR,2006-04-22,17:00,Fenerbahçe,Galatasaray,4,0,H,2.0,0.0,H
+TUR,2006-04-23,14:00,Gençlerbirliği,Denizlispor,3,3,D,1.0,0.0,H
+TUR,2006-04-23,14:00,Diyarbakirspor,Erciyesspor,2,1,H,1.0,0.0,H
+TUR,2006-04-23,14:00,Konyaspor,Malatyaspor,0,2,A,0.0,1.0,A
+TUR,2006-04-23,14:00,Kayserispor,Gaziantepspor,0,1,A,0.0,1.0,A
+TUR,2006-04-23,14:00,Samsunspor,MKE Ankaragücü,2,1,H,0.0,0.0,D
+TUR,2006-04-23,14:00,Çaykur Rizespor,Trabzonspor,1,6,A,0.0,3.0,A
+TUR,2006-04-23,17:00,Beşiktaş,Sivasspor,0,1,A,0.0,1.0,A
+TUR,2006-04-28,18:00,Vestel Manisaspor,Beşiktaş,0,1,A,0.0,1.0,A
+TUR,2006-04-29,17:00,Denizlispor,Diyarbakirspor,1,0,H,1.0,0.0,H
+TUR,2006-04-29,17:00,Trabzonspor,Fenerbahçe,2,3,A,1.0,0.0,H
+TUR,2006-04-29,17:00,Samsunspor,Gençlerbirliği,2,0,H,0.0,0.0,D
+TUR,2006-04-29,17:00,Gaziantepspor,Konyaspor,2,0,H,1.0,0.0,H
+TUR,2006-04-29,17:00,Galatasaray,Ankaraspor,4,0,H,2.0,0.0,H
+TUR,2006-04-29,17:00,Erciyesspor,Çaykur Rizespor,0,2,A,0.0,2.0,A
+TUR,2006-04-29,17:00,MKE Ankaragücü,Malatyaspor,0,1,A,0.0,0.0,D
+TUR,2006-04-30,17:00,Sivasspor,Kayserispor,0,5,A,0.0,3.0,A
+TUR,2006-05-06,17:00,Kayserispor,Vestel Manisaspor,7,2,H,3.0,2.0,H
+TUR,2006-05-06,17:00,Malatyaspor,Samsunspor,3,0,H,1.0,0.0,H
+TUR,2006-05-06,17:00,Diyarbakirspor,Gençlerbirliği,0,2,A,0.0,1.0,A
+TUR,2006-05-06,17:00,Çaykur Rizespor,Denizlispor,1,2,A,0.0,1.0,A
+TUR,2006-05-06,17:00,Ankaraspor,Trabzonspor,0,2,A,0.0,2.0,A
+TUR,2006-05-07,14:00,MKE Ankaragücü,Gaziantepspor,2,1,H,2.0,0.0,H
+TUR,2006-05-07,14:00,Konyaspor,Sivasspor,2,1,H,0.0,1.0,A
+TUR,2006-05-07,17:00,Fenerbahçe,Erciyesspor,4,2,H,2.0,1.0,H
+TUR,2006-05-07,17:00,Beşiktaş,Galatasaray,1,2,A,0.0,0.0,D
+TUR,2006-05-13,17:00,Sivasspor,MKE Ankaragücü,3,1,H,1.0,1.0,D
+TUR,2006-05-13,17:00,Vestel Manisaspor,Konyaspor,0,0,D,0.0,0.0,D
+TUR,2006-05-14,17:00,Samsunspor,Diyarbakirspor,1,0,H,1.0,0.0,H
+TUR,2006-05-14,17:00,Trabzonspor,Beşiktaş,1,2,A,0.0,0.0,D
+TUR,2006-05-14,17:00,Gençlerbirliği,Çaykur Rizespor,1,3,A,0.0,1.0,A
+TUR,2006-05-14,17:00,Galatasaray,Kayserispor,3,0,H,1.0,0.0,H
+TUR,2006-05-14,17:00,Erciyesspor,Ankaraspor,0,1,A,0.0,0.0,D
+TUR,2006-05-14,17:00,Denizlispor,Fenerbahçe,1,1,D,0.0,0.0,D
+TUR,2006-05-14,17:00,Gaziantepspor,Malatyaspor,1,0,H,0.0,0.0,D

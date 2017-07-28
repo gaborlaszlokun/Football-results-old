@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ECU,2010-07-09,23:00,CD Olmedo,Espoli,3,2,H,1,0,H
+ECU,2010-07-10,17:00,Independiente del Valle,Barcelona SC,1,2,A,0,2,A
+ECU,2010-07-10,22:00,LDU Quito,Manta FC,4,2,H,2,2,D
+ECU,2010-07-10,23:30,Macará,El Nacional,4,1,H,2,1,H
+ECU,2010-07-11,00:00,Deportivo Quito,Deportivo Cuenca,1,2,A,0,0,D
+ECU,2010-07-11,23:00,CS Emelec,CD Universidad Catolica,2,0,H,1,0,H
+ECU,2010-07-16,23:00,Manta FC,CD Olmedo,3,0,H,1,0,H
+ECU,2010-07-17,00:00,Deportivo Cuenca,Independiente del Valle,3,1,H,2,0,H
+ECU,2010-07-17,18:00,CD Universidad Catolica,Deportivo Quito,3,0,H,2,0,H
+ECU,2010-07-18,00:30,Barcelona SC,Macará,2,1,H,1,1,D
+ECU,2010-07-18,18:00,El Nacional,LDU Quito,2,3,A,2,1,H
+ECU,2010-07-18,20:00,Espoli,CS Emelec,1,1,D,0,1,A
+ECU,2010-07-23,01:30,LDU Quito,Barcelona SC,2,1,H,2,1,H
+ECU,2010-07-24,01:00,Deportivo Quito,Independiente del Valle,1,1,D,1,1,D
+ECU,2010-07-24,18:00,CD Universidad Catolica,Espoli,0,0,D,0,0,D
+ECU,2010-07-24,23:30,Macará,Deportivo Cuenca,1,2,A,0,1,A
+ECU,2010-07-25,18:00,CD Olmedo,El Nacional,1,1,D,0,1,A
+ECU,2010-07-25,23:00,CS Emelec,Manta FC,0,0,D,0,0,D
+ECU,2010-07-29,02:35,Deportivo Cuenca,LDU Quito,1,1,D,0,0,D
+ECU,2010-07-29,21:00,Independiente del Valle,Macará,3,1,H,0,0,D
+ECU,2010-07-31,00:00,Manta FC,CD Universidad Catolica,2,2,D,0,0,D
+ECU,2010-07-31,21:00,Espoli,Deportivo Quito,2,3,A,1,1,D
+ECU,2010-08-01,00:30,Barcelona SC,CD Olmedo,2,0,H,1,0,H
+ECU,2010-08-01,18:00,El Nacional,CS Emelec,0,0,D,0,0,D
+ECU,2010-08-07,21:00,Espoli,Manta FC,1,0,H,0,0,D
+ECU,2010-08-07,22:00,Deportivo Quito,Macará,0,0,D,0,0,D
+ECU,2010-08-08,17:30,CD Universidad Catolica,El Nacional,0,1,A,0,0,D
+ECU,2010-08-08,18:00,CD Olmedo,Deportivo Cuenca,0,0,D,0,0,D
+ECU,2010-08-08,21:00,CS Emelec,Barcelona SC,0,0,D,0,0,D
+ECU,2010-08-11,01:30,LDU Quito,Independiente del Valle,2,0,H,1,0,H
+ECU,2010-08-13,17:15,Deportivo Cuenca,CS Emelec,1,1,D,1,0,H
+ECU,2010-08-13,19:30,El Nacional,Espoli,0,0,D,0,0,D
+ECU,2010-08-14,21:00,Independiente del Valle,CD Olmedo,1,1,D,1,0,H
+ECU,2010-08-14,22:00,Manta FC,Deportivo Quito,1,2,A,0,1,A
+ECU,2010-08-15,18:00,Macará,LDU Quito,2,4,A,1,2,A
+ECU,2010-08-16,00:30,Barcelona SC,CD Universidad Catolica,5,1,H,1,1,D
+ECU,2010-08-18,23:00,CD Universidad Catolica,Deportivo Cuenca,2,3,A,0,1,A
+ECU,2010-08-19,00:15,CS Emelec,Independiente del Valle,2,1,H,2,1,H
+ECU,2010-08-19,01:00,CD Olmedo,Macará,0,1,A,0,1,A
+ECU,2010-08-19,01:00,Manta FC,El Nacional,1,0,H,1,0,H
+ECU,2010-08-19,01:15,Deportivo Quito,LDU Quito,1,1,D,0,1,A
+ECU,2010-08-21,23:30,Macará,CS Emelec,1,4,A,0,3,A
+ECU,2010-08-22,00:30,Barcelona SC,Manta FC,1,2,A,0,0,D
+ECU,2010-08-22,17:30,LDU Quito,CD Olmedo,1,0,H,1,0,H
+ECU,2010-08-22,17:30,Independiente del Valle,CD Universidad Catolica,1,3,A,1,1,D
+ECU,2010-08-22,17:40,Deportivo Cuenca,Espoli,2,1,H,2,0,H
+ECU,2010-08-22,17:40,El Nacional,Deportivo Quito,1,3,A,0,2,A
+ECU,2010-08-28,01:15,Deportivo Quito,CD Olmedo,1,0,H,0,0,D
+ECU,2010-08-28,01:30,Manta FC,Deportivo Cuenca,2,0,H,0,0,D
+ECU,2010-08-28,15:45,CD Universidad Catolica,Macará,1,1,D,1,0,H
+ECU,2010-08-28,18:00,El Nacional,Barcelona SC,0,1,A,0,0,D
+ECU,2010-08-28,20:00,Espoli,Independiente del Valle,1,0,H,0,0,D
+ECU,2010-08-29,20:00,CS Emelec,LDU Quito,1,1,D,0,1,A
+ECU,2010-09-11,17:30,Independiente del Valle,Manta FC,2,2,D,2,0,H
+ECU,2010-09-11,18:00,CD Olmedo,CS Emelec,0,1,A,0,1,A
+ECU,2010-09-12,00:30,Barcelona SC,Deportivo Quito,1,0,H,0,0,D
+ECU,2010-09-12,17:45,Deportivo Cuenca,El Nacional,0,0,D,0,0,D
+ECU,2010-09-12,19:45,Macará,Espoli,1,1,D,0,1,A
+ECU,2010-09-14,01:30,LDU Quito,CD Universidad Catolica,1,0,H,0,0,D
+ECU,2010-09-18,01:30,Manta FC,Macará,1,0,H,0,0,D
+ECU,2010-09-18,18:00,El Nacional,Independiente del Valle,3,0,H,1,0,H
+ECU,2010-09-18,21:00,Espoli,LDU Quito,0,1,A,0,1,A
+ECU,2010-09-19,00:30,Barcelona SC,Deportivo Cuenca,1,2,A,0,2,A
+ECU,2010-09-19,15:45,CD Universidad Catolica,CD Olmedo,1,2,A,1,1,D
+ECU,2010-09-19,18:00,Deportivo Quito,CS Emelec,1,0,H,1,0,H
+ECU,2010-09-22,21:00,Espoli,Barcelona SC,0,0,D,0,0,D
+ECU,2010-09-25,18:00,Macará,Manta FC,1,1,D,0,1,A
+ECU,2010-09-25,21:00,Independiente del Valle,El Nacional,0,1,A,0,0,D
+ECU,2010-09-25,22:15,CD Olmedo,CD Universidad Catolica,1,1,D,1,1,D
+ECU,2010-09-26,00:15,LDU Quito,Espoli,3,0,H,0,0,D
+ECU,2010-09-26,18:00,Deportivo Cuenca,Barcelona SC,1,0,H,1,0,H
+ECU,2010-09-29,01:30,CD Universidad Catolica,LDU Quito,2,1,H,1,0,H
+ECU,2010-09-29,21:00,Espoli,Macará,1,1,D,0,1,A
+ECU,2010-09-29,23:00,El Nacional,Deportivo Cuenca,0,0,D,0,0,D
+ECU,2010-09-30,00:00,CS Emelec,CD Olmedo,1,0,H,0,0,D
+ECU,2010-09-30,01:00,Manta FC,Independiente del Valle,0,2,A,0,0,D
+ECU,2010-09-30,01:15,Deportivo Quito,Barcelona SC,4,0,H,2,0,H
+ECU,2010-10-03,17:30,LDU Quito,CS Emelec,0,1,A,0,0,D
+ECU,2010-10-03,17:30,Independiente del Valle,Espoli,1,1,D,1,0,H
+ECU,2010-10-03,18:00,Deportivo Cuenca,Manta FC,3,1,H,1,1,D
+ECU,2010-10-03,18:00,CD Olmedo,Deportivo Quito,3,2,H,1,1,D
+ECU,2010-10-03,18:00,Macará,CD Universidad Catolica,1,0,H,0,0,D
+ECU,2010-10-04,00:30,Barcelona SC,El Nacional,1,2,A,0,1,A
+ECU,2010-10-16,16:00,CD Universidad Catolica,Independiente del Valle,1,2,A,0,1,A
+ECU,2010-10-16,18:00,Deportivo Quito,El Nacional,1,0,H,1,0,H
+ECU,2010-10-16,21:00,Espoli,Deportivo Cuenca,2,5,A,2,1,H
+ECU,2010-10-16,22:00,CD Olmedo,LDU Quito,0,3,A,0,2,A
+ECU,2010-10-17,00:00,Manta FC,Barcelona SC,1,0,H,0,0,D
+ECU,2010-10-17,23:00,CS Emelec,Macará,2,0,H,1,0,H
+ECU,2010-10-20,17:00,El Nacional,Manta FC,4,0,H,2,0,H
+ECU,2010-10-20,22:00,Macará,CD Olmedo,0,1,A,0,0,D
+ECU,2010-10-21,00:05,Deportivo Cuenca,CD Universidad Catolica,2,1,H,0,0,D
+ECU,2010-10-21,01:45,Barcelona SC,Espoli,0,3,A,0,1,A
+ECU,2010-10-24,00:15,LDU Quito,Macará,3,0,H,0,0,D
+ECU,2010-10-24,16:00,Deportivo Quito,Manta FC,4,0,H,2,0,H
+ECU,2010-10-24,18:00,CD Olmedo,Independiente del Valle,2,1,H,0,1,A
+ECU,2010-10-24,18:15,CD Universidad Catolica,Barcelona SC,2,2,D,0,2,A
+ECU,2010-10-24,21:00,Espoli,El Nacional,0,1,A,0,1,A
+ECU,2010-10-27,00:00,CS Emelec,Deportivo Cuenca,0,1,A,0,0,D
+ECU,2010-10-29,21:00,Independiente del Valle,LDU Quito,0,4,A,0,3,A
+ECU,2010-10-30,00:00,El Nacional,CD Universidad Catolica,0,1,A,0,1,A
+ECU,2010-10-30,01:00,Manta FC,Espoli,0,0,D,0,0,D
+ECU,2010-10-30,21:25,Macará,Deportivo Quito,1,0,H,0,0,D
+ECU,2010-10-30,23:30,Deportivo Cuenca,CD Olmedo,2,3,A,1,0,H
+ECU,2010-10-31,00:00,Barcelona SC,CS Emelec,0,0,D,0,0,D
+ECU,2010-11-05,23:00,CS Emelec,El Nacional,2,0,H,0,0,D
+ECU,2010-11-06,17:00,Deportivo Quito,Espoli,2,0,H,2,0,H
+ECU,2010-11-06,23:15,LDU Quito,Deportivo Cuenca,2,0,H,2,0,H
+ECU,2010-11-07,17:00,CD Olmedo,Barcelona SC,0,1,A,0,0,D
+ECU,2010-11-07,17:00,CD Universidad Catolica,Manta FC,3,0,H,2,0,H
+ECU,2010-11-07,17:00,Macará,Independiente del Valle,0,2,A,0,1,A
+ECU,2010-11-10,19:00,CS Emelec,Deportivo Quito,2,1,H,1,1,D
+ECU,2010-11-13,17:00,El Nacional,CD Olmedo,3,1,H,2,0,H
+ECU,2010-11-13,20:00,Independiente del Valle,Deportivo Quito,1,2,A,0,1,A
+ECU,2010-11-13,21:00,Manta FC,CS Emelec,1,2,A,0,2,A
+ECU,2010-11-14,17:00,Deportivo Cuenca,Macará,0,2,A,0,1,A
+ECU,2010-11-14,20:00,Espoli,CD Universidad Catolica,2,1,H,1,0,H
+ECU,2010-11-14,22:00,Barcelona SC,LDU Quito,1,1,D,0,1,A
+ECU,2010-11-20,17:00,CD Olmedo,Manta FC,2,2,D,2,1,H
+ECU,2010-11-20,17:00,Independiente del Valle,Deportivo Cuenca,3,0,H,2,0,H
+ECU,2010-11-20,17:00,Deportivo Quito,CD Universidad Catolica,5,0,H,2,0,H
+ECU,2010-11-20,22:30,CS Emelec,Espoli,3,1,H,2,1,H
+ECU,2010-11-21,17:00,Macará,Barcelona SC,1,1,D,0,0,D
+ECU,2010-11-23,00:30,LDU Quito,El Nacional,3,1,H,1,1,D
+ECU,2010-11-23,14:00,LDU Quito,Deportivo Quito,1,1,D,0,1,A
+ECU,2010-11-23,20:00,Independiente del Valle,CS Emelec,0,1,A,0,0,D
+ECU,2010-11-26,22:30,Deportivo Cuenca,Deportivo Quito,2,0,H,1,0,H
+ECU,2010-11-26,22:30,Barcelona SC,Independiente del Valle,3,0,H,1,0,H
+ECU,2010-11-27,17:00,Manta FC,LDU Quito,1,0,H,0,0,D
+ECU,2010-11-27,17:00,CD Universidad Catolica,CS Emelec,2,3,A,0,1,A
+ECU,2010-11-27,17:00,Espoli,CD Olmedo,3,0,H,3,0,H
+ECU,2010-11-27,17:00,El Nacional,Macará,2,1,H,1,0,H

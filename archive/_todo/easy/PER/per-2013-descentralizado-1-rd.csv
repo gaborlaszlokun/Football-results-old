@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2013-02-09,01:00,Real Garcilaso,Sport Huancayo,4,0,H,2.0,0.0,H
+PER,2013-02-09,18:30,Inti Gas,León de Huánuco,2,0,H,1.0,0.0,H
+PER,2013-02-09,20:45,Sporting Cristal,Universidad San Martín,1,0,H,1.0,0.0,H
+PER,2013-02-09,23:00,Universitario de Deportes,Universidad Cesar Vallejo,1,0,H,1.0,0.0,H
+PER,2013-02-10,01:15,Pacífico FC,Juan Aurich,1,0,H,0.0,0.0,D
+PER,2013-02-10,18:30,CD Unión Comercio,José Gálvez,2,2,D,1.0,0.0,H
+PER,2013-02-10,20:00,Universidad Técnica,Alianza Lima,1,2,A,0.0,2.0,A
+PER,2013-02-16,20:30,Alianza Lima,Pacífico FC,0,0,D,0.0,0.0,D
+PER,2013-02-16,22:45,José Gálvez,Inti Gas,2,2,D,2.0,2.0,D
+PER,2013-02-17,18:00,León de Huánuco,Universidad Técnica,2,0,H,1.0,0.0,H
+PER,2013-02-17,18:00,Juan Aurich,FBC Melgar,2,1,H,0.0,0.0,D
+PER,2013-02-17,20:15,Cienciano,Real Garcilaso,0,1,A,0.0,1.0,A
+PER,2013-02-17,21:00,Universidad San Martín,Universitario de Deportes,0,0,D,0.0,0.0,D
+PER,2013-02-17,23:15,Universidad Cesar Vallejo,CD Unión Comercio,3,1,H,1.0,1.0,D
+PER,2013-02-18,20:00,Sport Huancayo,Sporting Cristal,2,1,H,2.0,0.0,H
+PER,2013-02-23,18:30,José Gálvez,Universidad Cesar Vallejo,1,1,D,1.0,1.0,D
+PER,2013-02-23,20:45,Sporting Cristal,Cienciano,5,0,H,3.0,0.0,H
+PER,2013-02-23,23:00,Universitario de Deportes,Sport Huancayo,2,3,A,0.0,1.0,A
+PER,2013-02-24,01:15,Pacífico FC,León de Huánuco,0,0,D,0.0,0.0,D
+PER,2013-02-24,16:30,FBC Melgar,Alianza Lima,0,2,A,0.0,0.0,D
+PER,2013-02-24,18:45,CD Unión Comercio,Universidad San Martín,2,0,H,0.0,0.0,D
+PER,2013-02-24,21:00,Universidad Técnica,Inti Gas,3,1,H,0.0,0.0,D
+PER,2013-03-01,21:00,Universidad Técnica,Universidad Cesar Vallejo,1,0,H,0.0,0.0,D
+PER,2013-03-02,18:15,Inti Gas,Pacífico FC,1,1,D,0.0,1.0,A
+PER,2013-03-02,20:20,Cienciano,Universitario de Deportes,1,1,D,0.0,0.0,D
+PER,2013-03-02,22:35,Alianza Lima,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2013-03-03,16:00,León de Huánuco,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2013-03-03,18:00,Juan Aurich,Sporting Cristal,3,0,H,1.0,0.0,H
+PER,2013-03-03,20:15,Sport Huancayo,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2013-03-03,21:00,Universidad San Martín,José Gálvez,3,5,A,0.0,2.0,A
+PER,2013-03-06,18:30,FBC Melgar,Cienciano,1,2,A,1.0,1.0,D
+PER,2013-03-09,01:00,Universidad Cesar Vallejo,Universidad San Martín,1,0,H,1.0,0.0,H
+PER,2013-03-09,21:00,José Gálvez,Sport Huancayo,2,1,H,1.0,1.0,D
+PER,2013-03-09,23:05,Pacífico FC,Universidad Técnica,0,0,D,0.0,0.0,D
+PER,2013-03-10,01:10,Sporting Cristal,Alianza Lima,2,2,D,1.0,2.0,A
+PER,2013-03-10,16:30,FBC Melgar,Inti Gas,1,2,A,0.0,0.0,D
+PER,2013-03-10,18:35,CD Unión Comercio,Cienciano,1,1,D,1.0,0.0,H
+PER,2013-03-10,20:40,Real Garcilaso,León de Huánuco,0,0,D,0.0,0.0,D
+PER,2013-03-10,23:00,Universitario de Deportes,Juan Aurich,1,0,H,0.0,0.0,D
+PER,2013-03-15,21:00,Universidad Técnica,FBC Melgar,1,1,D,1.0,0.0,H
+PER,2013-03-16,00:00,Alianza Lima,Universitario de Deportes,1,0,H,0.0,0.0,D
+PER,2013-03-16,18:30,Inti Gas,Real Garcilaso,1,2,A,1.0,0.0,H
+PER,2013-03-16,20:45,Juan Aurich,CD Unión Comercio,2,0,H,2.0,0.0,H
+PER,2013-03-16,23:00,Pacífico FC,Universidad San Martín,3,0,H,0.0,0.0,D
+PER,2013-03-17,01:15,Cienciano,José Gálvez,1,0,H,1.0,0.0,H
+PER,2013-03-17,18:15,León de Huánuco,Sporting Cristal,1,2,A,0.0,1.0,A
+PER,2013-03-17,20:30,Sport Huancayo,Universidad Cesar Vallejo,1,1,D,0.0,1.0,A
+PER,2013-03-21,20:00,Real Garcilaso,Juan Aurich,2,1,H,0.0,0.0,D
+PER,2013-03-30,01:15,Universidad Cesar Vallejo,Cienciano,1,0,H,1.0,0.0,H
+PER,2013-03-30,20:30,Sporting Cristal,Inti Gas,5,0,H,2.0,0.0,H
+PER,2013-03-31,17:15,FBC Melgar,Pacífico FC,2,0,H,1.0,0.0,H
+PER,2013-03-31,19:30,CD Unión Comercio,Alianza Lima,2,1,H,0.0,1.0,A
+PER,2013-03-31,21:45,José Gálvez,Juan Aurich,2,2,D,0.0,2.0,A
+PER,2013-04-01,00:00,Universitario de Deportes,León de Huánuco,4,0,H,2.0,0.0,H
+PER,2013-04-01,22:00,Universidad San Martín,Sport Huancayo,1,1,D,1.0,0.0,H
+PER,2013-04-06,02:00,Real Garcilaso,Pacífico FC,2,0,H,1.0,0.0,H
+PER,2013-04-06,19:30,Inti Gas,Universitario de Deportes,1,3,A,0.0,1.0,A
+PER,2013-04-06,22:00,Universidad Técnica,Sporting Cristal,0,2,A,0.0,1.0,A
+PER,2013-04-07,00:05,Alianza Lima,José Gálvez,1,0,H,1.0,0.0,H
+PER,2013-04-07,02:15,Cienciano,Universidad San Martín,2,0,H,1.0,0.0,H
+PER,2013-04-07,17:15,León de Huánuco,Sport Huancayo,2,2,D,2.0,0.0,H
+PER,2013-04-07,19:30,Juan Aurich,Universidad Cesar Vallejo,1,0,H,0.0,0.0,D
+PER,2013-04-07,21:45,FBC Melgar,CD Unión Comercio,2,1,H,1.0,0.0,H
+PER,2013-04-13,21:45,Real Garcilaso,FBC Melgar,1,1,D,0.0,1.0,A
+PER,2013-04-14,00:00,José Gálvez,León de Huánuco,2,6,A,0.0,2.0,A
+PER,2013-04-14,02:15,Universidad Cesar Vallejo,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2013-04-14,17:15,CD Unión Comercio,Inti Gas,1,1,D,0.0,0.0,D
+PER,2013-04-14,17:15,Sporting Cristal,Pacífico FC,2,2,D,2.0,1.0,H
+PER,2013-04-14,19:30,Universidad San Martín,Juan Aurich,2,2,D,0.0,1.0,A
+PER,2013-04-14,21:45,Sport Huancayo,Cienciano,3,0,H,1.0,0.0,H
+PER,2013-04-15,00:00,Universitario de Deportes,Universidad Técnica,0,1,A,0.0,0.0,D
+PER,2013-04-20,19:30,Inti Gas,Cienciano,3,2,H,1.0,2.0,A
+PER,2013-04-20,21:45,Universidad Técnica,José Gálvez,3,0,H,1.0,0.0,H
+PER,2013-04-21,00:00,Alianza Lima,Universidad San Martín,2,3,A,2.0,0.0,H
+PER,2013-04-21,02:15,Pacífico FC,CD Unión Comercio,1,1,D,1.0,1.0,D
+PER,2013-04-21,17:00,León de Huánuco,Universidad Cesar Vallejo,2,2,D,2.0,1.0,H
+PER,2013-04-21,19:30,FBC Melgar,Sporting Cristal,3,0,H,2.0,0.0,H
+PER,2013-04-23,23:45,Universidad San Martín,León de Huánuco,0,1,A,0.0,0.0,D
+PER,2013-04-24,02:00,Universidad Cesar Vallejo,Inti Gas,1,0,H,0.0,0.0,D
+PER,2013-04-24,19:30,CD Unión Comercio,Universidad Técnica,0,0,D,0.0,0.0,D
+PER,2013-04-24,21:45,Sport Huancayo,Alianza Lima,3,2,H,2.0,1.0,H
+PER,2013-04-25,00:00,Cienciano,Juan Aurich,1,1,D,1.0,1.0,D
+PER,2013-04-25,02:15,Universitario de Deportes,FBC Melgar,3,0,H,2.0,0.0,H
+PER,2013-04-26,00:00,José Gálvez,Pacífico FC,3,1,H,3.0,1.0,H
+PER,2013-04-27,19:30,Inti Gas,Universidad San Martín,2,0,H,1.0,0.0,H
+PER,2013-04-27,21:45,Universidad Técnica,Sport Huancayo,0,2,A,0.0,2.0,A
+PER,2013-04-28,00:00,Alianza Lima,Cienciano,0,1,A,0.0,0.0,D
+PER,2013-04-28,17:15,FBC Melgar,José Gálvez,1,0,H,1.0,0.0,H
+PER,2013-04-28,19:30,León de Huánuco,Juan Aurich,1,1,D,1.0,0.0,H
+PER,2013-04-28,21:45,Sporting Cristal,Universitario de Deportes,4,0,H,0.0,0.0,D
+PER,2013-04-29,00:00,Pacífico FC,Universidad Cesar Vallejo,2,1,H,1.0,1.0,D
+PER,2013-04-29,02:15,Real Garcilaso,CD Unión Comercio,1,0,H,1.0,0.0,H
+PER,2013-04-30,21:45,Sport Huancayo,Inti Gas,0,2,A,0.0,0.0,D
+PER,2013-05-01,00:00,Universidad San Martín,Universidad Técnica,1,1,D,0.0,0.0,D
+PER,2013-05-01,19:30,CD Unión Comercio,Sporting Cristal,0,3,A,0.0,0.0,D
+PER,2013-05-01,21:45,Juan Aurich,Alianza Lima,0,1,A,0.0,1.0,A
+PER,2013-05-02,00:00,Universitario de Deportes,Pacífico FC,0,0,D,0.0,0.0,D
+PER,2013-05-02,02:15,Universidad Cesar Vallejo,FBC Melgar,4,3,H,1.0,1.0,D
+PER,2013-05-02,22:00,José Gálvez,Real Garcilaso,0,0,D,0.0,0.0,D
+PER,2013-05-03,02:00,Cienciano,León de Huánuco,1,0,H,0.0,0.0,D
+PER,2013-05-04,19:30,Inti Gas,Juan Aurich,2,2,D,1.0,1.0,D
+PER,2013-05-04,21:40,Pacífico FC,Sport Huancayo,2,1,H,1.0,1.0,D
+PER,2013-05-05,00:00,Universitario de Deportes,CD Unión Comercio,1,0,H,1.0,0.0,H
+PER,2013-05-05,17:15,Sporting Cristal,José Gálvez,4,0,H,1.0,0.0,H
+PER,2013-05-05,19:30,FBC Melgar,Universidad San Martín,1,0,H,1.0,0.0,H
+PER,2013-05-05,21:45,León de Huánuco,Alianza Lima,2,2,D,1.0,0.0,H
+PER,2013-05-06,00:00,Real Garcilaso,Universidad Cesar Vallejo,4,0,H,2.0,0.0,H
+PER,2013-05-06,22:00,Universidad Técnica,Cienciano,1,1,D,0.0,1.0,A
+PER,2013-05-11,19:15,Alianza Lima,Inti Gas,1,4,A,0.0,2.0,A
+PER,2013-05-11,21:30,Cienciano,Pacífico FC,1,0,H,0.0,0.0,D
+PER,2013-05-12,00:00,Juan Aurich,Universidad Técnica,2,1,H,0.0,0.0,D
+PER,2013-05-12,02:15,Universidad Cesar Vallejo,Sporting Cristal,1,0,H,1.0,0.0,H
+PER,2013-05-12,17:15,Universidad San Martín,Real Garcilaso,0,1,A,0.0,0.0,D
+PER,2013-05-12,19:30,CD Unión Comercio,León de Huánuco,0,0,D,0.0,0.0,D
+PER,2013-05-12,21:45,José Gálvez,Universitario de Deportes,1,3,A,0.0,0.0,D
+PER,2013-05-13,21:45,Sport Huancayo,FBC Melgar,2,2,D,0.0,1.0,A
+PER,2013-05-18,19:30,Alianza Lima,Universidad Técnica,1,0,H,0.0,0.0,D
+PER,2013-05-18,21:45,Sport Huancayo,Real Garcilaso,1,1,D,1.0,0.0,H
+PER,2013-05-19,00:00,José Gálvez,CD Unión Comercio,4,1,H,1.0,0.0,H
+PER,2013-05-19,02:15,Universidad San Martín,Sporting Cristal,0,3,A,0.0,0.0,D
+PER,2013-05-19,17:15,León de Huánuco,Inti Gas,0,0,D,0.0,0.0,D
+PER,2013-05-19,19:30,Cienciano,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2013-05-19,21:45,Universidad Cesar Vallejo,Universitario de Deportes,0,1,A,0.0,0.0,D
+PER,2013-05-20,00:00,Juan Aurich,Pacífico FC,0,0,D,0.0,0.0,D
+PER,2013-05-23,00:00,Juan Aurich,Sport Huancayo,1,1,D,1.0,1.0,D
+PER,2013-05-25,17:15,Sporting Cristal,Sport Huancayo,2,2,D,2.0,1.0,H
+PER,2013-05-25,19:30,Inti Gas,José Gálvez,2,0,H,0.0,0.0,D
+PER,2013-05-25,21:45,Universidad Técnica,León de Huánuco,2,1,H,0.0,1.0,A
+PER,2013-05-26,02:15,Universitario de Deportes,Universidad San Martín,2,0,H,2.0,0.0,H
+PER,2013-05-26,17:15,CD Unión Comercio,Universidad Cesar Vallejo,1,1,D,1.0,0.0,H
+PER,2013-05-26,19:30,FBC Melgar,Juan Aurich,2,0,H,1.0,0.0,H
+PER,2013-05-26,21:45,Pacífico FC,Alianza Lima,1,2,A,0.0,0.0,D
+PER,2013-06-01,02:00,Universidad Cesar Vallejo,José Gálvez,3,1,H,1.0,0.0,H
+PER,2013-06-01,17:15,Universidad San Martín,CD Unión Comercio,3,1,H,2.0,0.0,H
+PER,2013-06-01,19:30,Juan Aurich,Real Garcilaso,0,1,A,0.0,1.0,A
+PER,2013-06-01,21:45,Sport Huancayo,Universitario de Deportes,1,1,D,1.0,0.0,H
+PER,2013-06-02,17:00,León de Huánuco,Pacífico FC,3,0,H,1.0,0.0,H
+PER,2013-06-02,19:15,Inti Gas,Universidad Técnica,0,2,A,0.0,1.0,A
+PER,2013-06-02,21:30,Cienciano,Sporting Cristal,2,0,H,1.0,0.0,H
+PER,2013-06-04,01:00,Alianza Lima,FBC Melgar,1,0,H,1.0,0.0,H
+PER,2013-06-10,19:00,Real Garcilaso,Universidad Técnica,2,0,H,1.0,0.0,H
+PER,2013-06-14,21:00,FBC Melgar,León de Huánuco,1,1,D,0.0,0.0,D
+PER,2013-06-14,23:45,José Gálvez,Universidad San Martín,1,2,A,0.0,1.0,A
+PER,2013-06-15,02:00,Universitario de Deportes,Cienciano,0,0,D,0.0,0.0,D
+PER,2013-06-15,17:30,CD Unión Comercio,Sport Huancayo,4,0,H,1.0,0.0,H
+PER,2013-06-15,19:45,Universidad Cesar Vallejo,Universidad Técnica,2,1,H,0.0,1.0,A
+PER,2013-06-15,21:45,Pacífico FC,Inti Gas,1,0,H,0.0,0.0,D
+PER,2013-06-16,17:25,Sporting Cristal,Juan Aurich,1,0,H,1.0,0.0,H
+PER,2013-06-16,20:45,Real Garcilaso,Alianza Lima,0,0,D,0.0,0.0,D
+PER,2013-06-18,19:15,Cienciano,CD Unión Comercio,0,2,A,0.0,1.0,A
+PER,2013-06-18,21:30,Universidad Técnica,Pacífico FC,1,1,D,0.0,0.0,D
+PER,2013-06-19,17:00,Sport Huancayo,José Gálvez,4,1,H,2.0,0.0,H
+PER,2013-06-19,19:15,León de Huánuco,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2013-06-19,21:30,Juan Aurich,Universitario de Deportes,1,2,A,1.0,1.0,D
+PER,2013-06-20,00:00,Universidad San Martín,Universidad Cesar Vallejo,0,0,D,0.0,0.0,D
+PER,2013-06-20,02:00,Alianza Lima,Sporting Cristal,1,0,H,0.0,0.0,D
+PER,2013-06-20,19:30,Inti Gas,FBC Melgar,2,1,H,1.0,1.0,D
+PER,2013-06-22,19:15,CD Unión Comercio,Juan Aurich,0,1,A,0.0,0.0,D
+PER,2013-06-22,21:30,Sporting Cristal,León de Huánuco,3,1,H,1.0,1.0,D
+PER,2013-06-23,00:00,José Gálvez,Cienciano,3,2,H,2.0,2.0,D
+PER,2013-06-23,17:15,Universidad Cesar Vallejo,Sport Huancayo,1,1,D,1.0,1.0,D
+PER,2013-06-23,19:30,Real Garcilaso,Inti Gas,4,2,H,2.0,2.0,D
+PER,2013-06-23,21:45,Universitario de Deportes,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2013-06-24,00:00,Universidad San Martín,Pacífico FC,3,1,H,1.0,0.0,H
+PER,2013-06-24,19:00,FBC Melgar,Universidad Técnica,0,0,D,0.0,0.0,D
+PER,2013-06-28,19:00,Juan Aurich,José Gálvez,3,1,H,2.0,0.0,H
+PER,2013-06-29,19:15,Inti Gas,Sporting Cristal,0,0,D,0.0,0.0,D
+PER,2013-06-29,21:30,Universidad Técnica,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2013-06-29,23:45,Alianza Lima,CD Unión Comercio,1,1,D,1.0,0.0,H
+PER,2013-06-30,17:00,Pacífico FC,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2013-06-30,19:15,Cienciano,Universidad Cesar Vallejo,2,1,H,0.0,1.0,A
+PER,2013-06-30,21:30,León de Huánuco,Universitario de Deportes,2,0,H,1.0,0.0,H
+PER,2013-07-01,19:00,Sport Huancayo,Universidad San Martín,1,0,H,1.0,0.0,H
+PER,2013-07-03,19:00,Real Garcilaso,Universitario de Deportes,2,1,H,2.0,1.0,H
+PER,2013-07-05,21:30,Universidad San Martín,Cienciano,2,1,H,1.0,1.0,D
+PER,2013-07-06,17:00,Sport Huancayo,León de Huánuco,1,2,A,1.0,1.0,D
+PER,2013-07-06,19:15,Sporting Cristal,Universidad Técnica,1,1,D,0.0,0.0,D
+PER,2013-07-06,21:30,Pacífico FC,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2013-07-07,17:00,CD Unión Comercio,FBC Melgar,1,0,H,1.0,0.0,H
+PER,2013-07-07,19:15,Universidad Cesar Vallejo,Juan Aurich,2,2,D,0.0,1.0,A
+PER,2013-07-07,21:30,José Gálvez,Alianza Lima,2,2,D,1.0,1.0,D
+PER,2013-07-07,23:45,Universitario de Deportes,Inti Gas,1,1,D,1.0,0.0,H
+PER,2013-07-09,19:15,Cienciano,Sport Huancayo,0,1,A,0.0,0.0,D
+PER,2013-07-09,21:30,Pacífico FC,Sporting Cristal,1,1,D,0.0,0.0,D
+PER,2013-07-10,17:00,Inti Gas,CD Unión Comercio,4,0,H,3.0,0.0,H
+PER,2013-07-10,19:15,FBC Melgar,Real Garcilaso,0,2,A,0.0,1.0,A
+PER,2013-07-10,21:30,Universidad Técnica,Universitario de Deportes,2,1,H,2.0,1.0,H
+PER,2013-07-11,17:00,Juan Aurich,Universidad San Martín,0,1,A,0.0,0.0,D
+PER,2013-07-11,19:15,León de Huánuco,José Gálvez,0,0,D,0.0,0.0,D
+PER,2013-07-12,02:00,Alianza Lima,Universidad Cesar Vallejo,0,1,A,0.0,0.0,D
+PER,2013-07-13,19:15,Sport Huancayo,Juan Aurich,2,1,H,2.0,1.0,H
+PER,2013-07-13,21:15,Cienciano,Inti Gas,1,1,D,0.0,0.0,D
+PER,2013-07-14,17:15,Sporting Cristal,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2013-07-14,19:20,Universidad Cesar Vallejo,León de Huánuco,0,0,D,0.0,0.0,D
+PER,2013-07-14,21:30,Universidad San Martín,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2013-07-15,00:00,Universitario de Deportes,Real Garcilaso,0,0,D,0.0,0.0,D
+PER,2013-07-15,02:15,José Gálvez,Universidad Técnica,0,2,A,0.0,1.0,A
+PER,2013-07-15,17:00,CD Unión Comercio,Pacífico FC,2,1,H,1.0,0.0,H
+PER,2013-07-17,21:00,Sporting Cristal,Real Garcilaso,2,1,H,2.0,1.0,H
+PER,2013-07-19,21:45,Universidad Técnica,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2013-07-20,17:00,Juan Aurich,Cienciano,6,1,H,5.0,0.0,H
+PER,2013-07-20,19:15,Inti Gas,Universidad Cesar Vallejo,0,0,D,0.0,0.0,D
+PER,2013-07-20,21:30,Alianza Lima,Sport Huancayo,1,0,H,1.0,0.0,H
+PER,2013-07-21,17:00,León de Huánuco,Universidad San Martín,5,0,H,4.0,0.0,H
+PER,2013-07-21,21:15,FBC Melgar,Universitario de Deportes,2,2,D,0.0,1.0,A
+PER,2013-07-22,21:30,Pacífico FC,José Gálvez,2,1,H,0.0,0.0,D
+PER,2013-07-24,17:15,Real Garcilaso,Sporting Cristal,3,0,H,,,
+PER,2013-07-31,19:30,Real Garcilaso,Cienciano,2,2,D,1.0,1.0,D
+PER,2013-08-02,21:15,Sport Huancayo,Universidad Técnica,0,2,A,0.0,1.0,A
+PER,2013-08-03,17:00,CD Unión Comercio,Real Garcilaso,0,1,A,0.0,1.0,A
+PER,2013-08-03,19:15,Juan Aurich,León de Huánuco,0,2,A,0.0,0.0,D
+PER,2013-08-03,21:30,Universitario de Deportes,Sporting Cristal,3,0,H,0.0,0.0,D
+PER,2013-08-03,23:45,Universidad San Martín,Inti Gas,2,0,H,0.0,0.0,D
+PER,2013-08-04,02:50,José Gálvez,FBC Melgar,1,2,A,0.0,0.0,D
+PER,2013-08-04,19:05,Universidad Cesar Vallejo,Pacífico FC,2,0,H,0.0,0.0,D
+PER,2013-08-04,21:15,Cienciano,Alianza Lima,2,1,H,1.0,0.0,H
+PER,2013-08-09,21:30,Universidad Técnica,Universidad San Martín,2,1,H,1.0,0.0,H
+PER,2013-08-10,17:00,FBC Melgar,Universidad Cesar Vallejo,2,2,D,2.0,2.0,D
+PER,2013-08-10,19:15,Real Garcilaso,José Gálvez,3,1,H,1.0,0.0,H
+PER,2013-08-10,21:30,Inti Gas,Sport Huancayo,1,0,H,0.0,0.0,D
+PER,2013-08-10,23:45,Alianza Lima,Juan Aurich,3,1,H,2.0,0.0,H
+PER,2013-08-11,17:15,Sporting Cristal,CD Unión Comercio,2,0,H,1.0,0.0,H
+PER,2013-08-11,19:15,León de Huánuco,Cienciano,1,0,H,0.0,0.0,D
+PER,2013-08-11,21:30,Pacífico FC,Universitario de Deportes,0,1,A,0.0,0.0,D
+PER,2013-08-17,19:00,Sport Huancayo,Pacífico FC,3,0,H,1.0,0.0,H
+PER,2013-08-18,18:30,Cienciano,Universidad Técnica,3,1,H,1.0,1.0,D
+PER,2013-08-18,21:00,Alianza Lima,León de Huánuco,2,1,H,2.0,1.0,H
+PER,2013-08-18,21:00,Universidad San Martín,FBC Melgar,1,1,D,1.0,1.0,D
+PER,2013-08-18,21:00,José Gálvez,Sporting Cristal,2,1,H,1.0,1.0,D
+PER,2013-08-18,21:00,Universidad Cesar Vallejo,Real Garcilaso,1,0,H,0.0,0.0,D
+PER,2013-08-18,21:00,CD Unión Comercio,Universitario de Deportes,0,1,A,0.0,0.0,D
+PER,2013-08-19,19:15,Juan Aurich,Inti Gas,1,1,D,0.0,1.0,A
+PER,2013-08-25,21:00,Universidad Técnica,Juan Aurich,2,1,H,2.0,0.0,H
+PER,2013-08-25,21:00,Pacífico FC,Cienciano,0,0,D,0.0,0.0,D
+PER,2013-08-25,21:00,León de Huánuco,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2013-08-25,21:00,Inti Gas,Alianza Lima,3,1,H,2.0,0.0,H
+PER,2013-08-25,21:00,Real Garcilaso,Universidad San Martín,1,0,H,0.0,0.0,D
+PER,2013-08-25,21:00,Sporting Cristal,Universidad Cesar Vallejo,4,2,H,2.0,2.0,D
+PER,2013-08-25,21:00,FBC Melgar,Sport Huancayo,2,0,H,1.0,0.0,H
+PER,2013-08-25,21:00,Universitario de Deportes,José Gálvez,5,1,H,2.0,1.0,H

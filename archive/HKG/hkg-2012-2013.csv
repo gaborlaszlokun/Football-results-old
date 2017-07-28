@@ -1,91 +1,91 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-HKG,31/08/2012,13:00,Sun Pegasus,Tai Po FC,3,3,D,NaN,NaN,NaN
-HKG,01/09/2012,07:30,Hong Kong Rangers FC,Southern District,3,1,H,NaN,NaN,NaN
-HKG,01/09/2012,10:30,Citizen,Tuen Mun SA,0,0,D,NaN,NaN,NaN
-HKG,02/09/2012,07:30,South China AA,Yokohama FC Hong Kong,5,2,H,NaN,NaN,NaN
-HKG,02/09/2012,10:30,Sun Hei SC,Kitchee SC,0,3,A,NaN,NaN,NaN
-HKG,06/09/2012,13:00,Kitchee SC,Citizen,3,2,H,NaN,NaN,NaN
-HKG,08/09/2012,07:30,Tuen Mun SA,Southern District,3,0,H,NaN,NaN,NaN
-HKG,08/09/2012,10:30,Sun Pegasus,Hong Kong Rangers FC,1,2,A,NaN,NaN,NaN
-HKG,09/09/2012,07:30,Tai Po FC,Yokohama FC Hong Kong,2,3,A,NaN,NaN,NaN
-HKG,09/09/2012,10:30,Sun Hei SC,South China AA,2,2,D,NaN,NaN,NaN
-HKG,13/09/2012,13:00,Kitchee SC,Southern District,3,0,H,NaN,NaN,NaN
-HKG,15/09/2012,07:30,Tuen Mun SA,Sun Pegasus,2,4,A,NaN,NaN,NaN
-HKG,15/09/2012,10:30,South China AA,Citizen,2,1,H,NaN,NaN,NaN
-HKG,16/09/2012,07:30,Hong Kong Rangers FC,Tai Po FC,1,4,A,NaN,NaN,NaN
-HKG,16/09/2012,10:30,Yokohama FC Hong Kong,Sun Hei SC,2,0,H,NaN,NaN,NaN
-HKG,29/09/2012,07:30,Southern District,Tai Po FC,2,2,D,NaN,NaN,NaN
-HKG,29/09/2012,10:30,South China AA,Kitchee SC,1,0,H,NaN,NaN,NaN
-HKG,30/09/2012,07:30,Tuen Mun SA,Yokohama FC Hong Kong,2,2,D,NaN,NaN,NaN
-HKG,30/09/2012,10:30,Sun Hei SC,Hong Kong Rangers FC,2,2,D,NaN,NaN,NaN
-HKG,01/10/2012,07:30,Citizen,Sun Pegasus,2,1,H,NaN,NaN,NaN
-HKG,05/10/2012,13:00,Citizen,Hong Kong Rangers FC,2,3,A,NaN,NaN,NaN
-HKG,06/10/2012,07:30,Southern District,Sun Pegasus,3,3,D,NaN,NaN,NaN
-HKG,06/10/2012,10:30,Sun Hei SC,Tuen Mun SA,1,2,A,NaN,NaN,NaN
-HKG,07/10/2012,07:30,Tai Po FC,South China AA,0,5,A,NaN,NaN,NaN
-HKG,07/10/2012,10:30,Yokohama FC Hong Kong,Kitchee SC,1,4,A,NaN,NaN,NaN
-HKG,20/10/2012,07:30,Tuen Mun SA,Hong Kong Rangers FC,1,0,H,NaN,NaN,NaN
-HKG,20/10/2012,10:30,South China AA,Southern District,0,0,D,NaN,NaN,NaN
-HKG,21/10/2012,07:30,Tai Po FC,Sun Hei SC,1,1,D,NaN,NaN,NaN
-HKG,21/10/2012,10:30,Kitchee SC,Sun Pegasus,4,2,H,NaN,NaN,NaN
-HKG,23/10/2012,07:30,Citizen,Yokohama FC Hong Kong,3,0,H,NaN,NaN,NaN
-HKG,26/10/2012,13:00,Yokohama FC Hong Kong,Hong Kong Rangers FC,2,4,A,NaN,NaN,NaN
-HKG,27/10/2012,07:30,Kitchee SC,Tuen Mun SA,1,1,D,NaN,NaN,NaN
-HKG,03/11/2012,06:30,Southern District,Citizen,3,1,H,NaN,NaN,NaN
-HKG,03/11/2012,09:30,Sun Pegasus,Sun Hei SC,2,0,H,NaN,NaN,NaN
-HKG,04/11/2012,06:30,Tai Po FC,Kitchee SC,1,3,A,NaN,NaN,NaN
-HKG,04/11/2012,09:30,Hong Kong Rangers FC,South China AA,1,3,A,NaN,NaN,NaN
-HKG,10/11/2012,06:30,Southern District,Sun Hei SC,2,1,H,NaN,NaN,NaN
-HKG,10/11/2012,09:30,Sun Pegasus,Yokohama FC Hong Kong,1,2,A,NaN,NaN,NaN
-HKG,11/11/2012,06:30,South China AA,Tuen Mun SA,2,1,H,NaN,NaN,NaN
-HKG,11/11/2012,09:30,Citizen,Tai Po FC,7,3,H,NaN,NaN,NaN
-HKG,20/12/2012,12:00,Sun Hei SC,Citizen,1,1,D,NaN,NaN,NaN
-HKG,22/12/2012,06:30,Yokohama FC Hong Kong,Southern District,0,0,D,NaN,NaN,NaN
-HKG,22/12/2012,09:30,Sun Pegasus,South China AA,0,3,A,NaN,NaN,NaN
-HKG,23/12/2012,06:30,Tuen Mun SA,Tai Po FC,1,0,H,NaN,NaN,NaN
-HKG,23/12/2012,09:30,Hong Kong Rangers FC,Kitchee SC,2,7,A,NaN,NaN,NaN
-HKG,18/01/2013,12:00,South China AA,Tai Po FC,5,1,H,NaN,NaN,NaN
-HKG,19/01/2013,06:30,Tuen Mun SA,Sun Hei SC,4,2,H,NaN,NaN,NaN
-HKG,19/01/2013,09:30,Sun Pegasus,Southern District,1,1,D,NaN,NaN,NaN
-HKG,20/01/2013,06:30,Hong Kong Rangers FC,Citizen,3,3,D,NaN,NaN,NaN
-HKG,20/01/2013,09:30,Kitchee SC,Yokohama FC Hong Kong,2,2,D,NaN,NaN,NaN
-HKG,31/01/2013,12:00,Kitchee SC,Hong Kong Rangers FC,1,2,A,NaN,NaN,NaN
-HKG,01/02/2013,12:00,Citizen,Sun Hei SC,1,2,A,NaN,NaN,NaN
-HKG,02/02/2013,06:30,Southern District,Yokohama FC Hong Kong,1,0,H,NaN,NaN,NaN
-HKG,02/02/2013,09:30,South China AA,Sun Pegasus,1,1,D,NaN,NaN,NaN
-HKG,03/02/2013,06:30,Tai Po FC,Tuen Mun SA,3,1,H,NaN,NaN,NaN
-HKG,26/01/2013,07:30,South China AA,Hong Kong Rangers FC,6,1,H,NaN,NaN,NaN
-HKG,23/02/2013,06:30,Tai Po FC,Citizen,3,1,H,NaN,NaN,NaN
-HKG,23/02/2013,09:30,Sun Hei SC,Southern District,3,2,H,NaN,NaN,NaN
-HKG,24/02/2013,06:30,Tuen Mun SA,Kitchee SC,0,2,A,NaN,NaN,NaN
-HKG,24/02/2013,09:30,Yokohama FC Hong Kong,Sun Pegasus,1,1,D,NaN,NaN,NaN
-HKG,01/03/2013,12:00,Sun Pegasus,Tuen Mun SA,4,0,H,NaN,NaN,NaN
-HKG,02/03/2013,06:30,Southern District,Kitchee SC,0,1,A,NaN,NaN,NaN
-HKG,03/03/2013,06:30,Tai Po FC,Hong Kong Rangers FC,1,1,D,NaN,NaN,NaN
-HKG,03/03/2013,09:30,Citizen,South China AA,0,1,A,NaN,NaN,NaN
-HKG,24/03/2013,06:30,Sun Hei SC,Yokohama FC Hong Kong,1,1,D,NaN,NaN,NaN
-HKG,16/03/2013,06:30,Tuen Mun SA,South China AA,2,1,H,NaN,NaN,NaN
-HKG,16/03/2013,09:30,Citizen,Southern District,0,1,A,NaN,NaN,NaN
-HKG,17/03/2013,06:30,Hong Kong Rangers FC,Yokohama FC Hong Kong,1,1,D,NaN,NaN,NaN
-HKG,17/03/2013,09:30,Kitchee SC,Tai Po FC,2,2,D,NaN,NaN,NaN
-HKG,18/03/2013,12:00,Sun Hei SC,Sun Pegasus,0,0,D,NaN,NaN,NaN
-HKG,29/03/2013,06:30,Tuen Mun SA,Citizen,0,5,A,NaN,NaN,NaN
-HKG,29/03/2013,09:30,Kitchee SC,Sun Hei SC,1,1,D,NaN,NaN,NaN
-HKG,30/03/2013,06:30,Southern District,Hong Kong Rangers FC,3,1,H,NaN,NaN,NaN
-HKG,31/03/2013,07:30,Tai Po FC,Sun Pegasus,2,2,D,NaN,NaN,NaN
-HKG,04/04/2013,07:30,Yokohama FC Hong Kong,South China AA,1,0,H,NaN,NaN,NaN
-HKG,12/04/2013,13:00,Sun Pegasus,Citizen,0,0,D,NaN,NaN,NaN
-HKG,13/04/2013,07:30,Tai Po FC,Southern District,2,1,H,NaN,NaN,NaN
-HKG,13/04/2013,10:30,Yokohama FC Hong Kong,Tuen Mun SA,2,4,A,NaN,NaN,NaN
-HKG,14/04/2013,07:30,Hong Kong Rangers FC,Sun Hei SC,2,2,D,NaN,NaN,NaN
-HKG,14/04/2013,10:30,Kitchee SC,South China AA,1,4,A,NaN,NaN,NaN
-HKG,18/04/2013,13:00,Yokohama FC Hong Kong,Citizen,1,1,D,NaN,NaN,NaN
-HKG,19/04/2013,13:00,Sun Pegasus,Kitchee SC,1,1,D,NaN,NaN,NaN
-HKG,20/04/2013,07:30,Southern District,South China AA,3,2,H,NaN,NaN,NaN
-HKG,20/04/2013,10:30,Sun Hei SC,Tai Po FC,3,2,H,NaN,NaN,NaN
-HKG,21/04/2013,07:30,Hong Kong Rangers FC,Tuen Mun SA,1,4,A,NaN,NaN,NaN
-HKG,04/05/2013,08:30,Hong Kong Rangers FC,Sun Pegasus,2,8,A,NaN,NaN,NaN
-HKG,04/05/2013,08:30,South China AA,Sun Hei SC,3,4,A,NaN,NaN,NaN
-HKG,04/05/2013,08:30,Yokohama FC Hong Kong,Tai Po FC,2,2,D,NaN,NaN,NaN
-HKG,04/05/2013,08:30,Citizen,Kitchee SC,1,0,H,NaN,NaN,NaN
-HKG,05/05/2013,07:30,Southern District,Tuen Mun SA,1,1,D,NaN,NaN,NaN
+HKG,2012-08-31,13:00,Sun Pegasus,Tai Po FC,3,3,D,,,
+HKG,2012-09-01,07:30,Hong Kong Rangers FC,Southern District,3,1,H,,,
+HKG,2012-09-01,10:30,Citizen,Tuen Mun SA,0,0,D,,,
+HKG,2012-09-02,07:30,South China AA,Yokohama FC Hong Kong,5,2,H,,,
+HKG,2012-09-02,10:30,Sun Hei SC,Kitchee SC,0,3,A,,,
+HKG,2012-09-06,13:00,Kitchee SC,Citizen,3,2,H,,,
+HKG,2012-09-08,07:30,Tuen Mun SA,Southern District,3,0,H,,,
+HKG,2012-09-08,10:30,Sun Pegasus,Hong Kong Rangers FC,1,2,A,,,
+HKG,2012-09-09,07:30,Tai Po FC,Yokohama FC Hong Kong,2,3,A,,,
+HKG,2012-09-09,10:30,Sun Hei SC,South China AA,2,2,D,,,
+HKG,2012-09-13,13:00,Kitchee SC,Southern District,3,0,H,,,
+HKG,2012-09-15,07:30,Tuen Mun SA,Sun Pegasus,2,4,A,,,
+HKG,2012-09-15,10:30,South China AA,Citizen,2,1,H,,,
+HKG,2012-09-16,07:30,Hong Kong Rangers FC,Tai Po FC,1,4,A,,,
+HKG,2012-09-16,10:30,Yokohama FC Hong Kong,Sun Hei SC,2,0,H,,,
+HKG,2012-09-29,07:30,Southern District,Tai Po FC,2,2,D,,,
+HKG,2012-09-29,10:30,South China AA,Kitchee SC,1,0,H,,,
+HKG,2012-09-30,07:30,Tuen Mun SA,Yokohama FC Hong Kong,2,2,D,,,
+HKG,2012-09-30,10:30,Sun Hei SC,Hong Kong Rangers FC,2,2,D,,,
+HKG,2012-10-01,07:30,Citizen,Sun Pegasus,2,1,H,,,
+HKG,2012-10-05,13:00,Citizen,Hong Kong Rangers FC,2,3,A,,,
+HKG,2012-10-06,07:30,Southern District,Sun Pegasus,3,3,D,,,
+HKG,2012-10-06,10:30,Sun Hei SC,Tuen Mun SA,1,2,A,,,
+HKG,2012-10-07,07:30,Tai Po FC,South China AA,0,5,A,,,
+HKG,2012-10-07,10:30,Yokohama FC Hong Kong,Kitchee SC,1,4,A,,,
+HKG,2012-10-20,07:30,Tuen Mun SA,Hong Kong Rangers FC,1,0,H,,,
+HKG,2012-10-20,10:30,South China AA,Southern District,0,0,D,,,
+HKG,2012-10-21,07:30,Tai Po FC,Sun Hei SC,1,1,D,,,
+HKG,2012-10-21,10:30,Kitchee SC,Sun Pegasus,4,2,H,,,
+HKG,2012-10-23,07:30,Citizen,Yokohama FC Hong Kong,3,0,H,,,
+HKG,2012-10-26,13:00,Yokohama FC Hong Kong,Hong Kong Rangers FC,2,4,A,,,
+HKG,2012-10-27,07:30,Kitchee SC,Tuen Mun SA,1,1,D,,,
+HKG,2012-11-03,06:30,Southern District,Citizen,3,1,H,,,
+HKG,2012-11-03,09:30,Sun Pegasus,Sun Hei SC,2,0,H,,,
+HKG,2012-11-04,06:30,Tai Po FC,Kitchee SC,1,3,A,,,
+HKG,2012-11-04,09:30,Hong Kong Rangers FC,South China AA,1,3,A,,,
+HKG,2012-11-10,06:30,Southern District,Sun Hei SC,2,1,H,,,
+HKG,2012-11-10,09:30,Sun Pegasus,Yokohama FC Hong Kong,1,2,A,,,
+HKG,2012-11-11,06:30,South China AA,Tuen Mun SA,2,1,H,,,
+HKG,2012-11-11,09:30,Citizen,Tai Po FC,7,3,H,,,
+HKG,2012-12-20,12:00,Sun Hei SC,Citizen,1,1,D,,,
+HKG,2012-12-22,06:30,Yokohama FC Hong Kong,Southern District,0,0,D,,,
+HKG,2012-12-22,09:30,Sun Pegasus,South China AA,0,3,A,,,
+HKG,2012-12-23,06:30,Tuen Mun SA,Tai Po FC,1,0,H,,,
+HKG,2012-12-23,09:30,Hong Kong Rangers FC,Kitchee SC,2,7,A,,,
+HKG,2013-01-18,12:00,South China AA,Tai Po FC,5,1,H,,,
+HKG,2013-01-19,06:30,Tuen Mun SA,Sun Hei SC,4,2,H,,,
+HKG,2013-01-19,09:30,Sun Pegasus,Southern District,1,1,D,,,
+HKG,2013-01-20,06:30,Hong Kong Rangers FC,Citizen,3,3,D,,,
+HKG,2013-01-20,09:30,Kitchee SC,Yokohama FC Hong Kong,2,2,D,,,
+HKG,2013-01-26,07:30,South China AA,Hong Kong Rangers FC,6,1,H,,,
+HKG,2013-01-31,12:00,Kitchee SC,Hong Kong Rangers FC,1,2,A,,,
+HKG,2013-02-01,12:00,Citizen,Sun Hei SC,1,2,A,,,
+HKG,2013-02-02,06:30,Southern District,Yokohama FC Hong Kong,1,0,H,,,
+HKG,2013-02-02,09:30,South China AA,Sun Pegasus,1,1,D,,,
+HKG,2013-02-03,06:30,Tai Po FC,Tuen Mun SA,3,1,H,,,
+HKG,2013-02-23,06:30,Tai Po FC,Citizen,3,1,H,,,
+HKG,2013-02-23,09:30,Sun Hei SC,Southern District,3,2,H,,,
+HKG,2013-02-24,06:30,Tuen Mun SA,Kitchee SC,0,2,A,,,
+HKG,2013-02-24,09:30,Yokohama FC Hong Kong,Sun Pegasus,1,1,D,,,
+HKG,2013-03-01,12:00,Sun Pegasus,Tuen Mun SA,4,0,H,,,
+HKG,2013-03-02,06:30,Southern District,Kitchee SC,0,1,A,,,
+HKG,2013-03-03,06:30,Tai Po FC,Hong Kong Rangers FC,1,1,D,,,
+HKG,2013-03-03,09:30,Citizen,South China AA,0,1,A,,,
+HKG,2013-03-16,06:30,Tuen Mun SA,South China AA,2,1,H,,,
+HKG,2013-03-16,09:30,Citizen,Southern District,0,1,A,,,
+HKG,2013-03-17,06:30,Hong Kong Rangers FC,Yokohama FC Hong Kong,1,1,D,,,
+HKG,2013-03-17,09:30,Kitchee SC,Tai Po FC,2,2,D,,,
+HKG,2013-03-18,12:00,Sun Hei SC,Sun Pegasus,0,0,D,,,
+HKG,2013-03-24,06:30,Sun Hei SC,Yokohama FC Hong Kong,1,1,D,,,
+HKG,2013-03-29,06:30,Tuen Mun SA,Citizen,0,5,A,,,
+HKG,2013-03-29,09:30,Kitchee SC,Sun Hei SC,1,1,D,,,
+HKG,2013-03-30,06:30,Southern District,Hong Kong Rangers FC,3,1,H,,,
+HKG,2013-03-31,07:30,Tai Po FC,Sun Pegasus,2,2,D,,,
+HKG,2013-04-04,07:30,Yokohama FC Hong Kong,South China AA,1,0,H,,,
+HKG,2013-04-12,13:00,Sun Pegasus,Citizen,0,0,D,,,
+HKG,2013-04-13,07:30,Tai Po FC,Southern District,2,1,H,,,
+HKG,2013-04-13,10:30,Yokohama FC Hong Kong,Tuen Mun SA,2,4,A,,,
+HKG,2013-04-14,07:30,Hong Kong Rangers FC,Sun Hei SC,2,2,D,,,
+HKG,2013-04-14,10:30,Kitchee SC,South China AA,1,4,A,,,
+HKG,2013-04-18,13:00,Yokohama FC Hong Kong,Citizen,1,1,D,,,
+HKG,2013-04-19,13:00,Sun Pegasus,Kitchee SC,1,1,D,,,
+HKG,2013-04-20,07:30,Southern District,South China AA,3,2,H,,,
+HKG,2013-04-20,10:30,Sun Hei SC,Tai Po FC,3,2,H,,,
+HKG,2013-04-21,07:30,Hong Kong Rangers FC,Tuen Mun SA,1,4,A,,,
+HKG,2013-05-04,08:30,Hong Kong Rangers FC,Sun Pegasus,2,8,A,,,
+HKG,2013-05-04,08:30,South China AA,Sun Hei SC,3,4,A,,,
+HKG,2013-05-04,08:30,Yokohama FC Hong Kong,Tai Po FC,2,2,D,,,
+HKG,2013-05-04,08:30,Citizen,Kitchee SC,1,0,H,,,
+HKG,2013-05-05,07:30,Southern District,Tuen Mun SA,1,1,D,,,

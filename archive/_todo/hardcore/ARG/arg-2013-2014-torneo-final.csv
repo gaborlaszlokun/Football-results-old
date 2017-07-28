@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2014-02-07,20:00,Estudiantes,Arsenal Sarandí,1,0,H,1,0,H
+ARG,2014-02-07,22:15,Vélez Sársfield,Tigre,0,0,D,0,0,D
+ARG,2014-02-08,00:30,Olimpo,San Lorenzo,2,0,H,0,0,D
+ARG,2014-02-08,21:30,Argentinos Juniors,CD Godoy Cruz,2,1,H,1,0,H
+ARG,2014-02-08,22:30,Atlético Rafaela,All Boys,1,1,D,0,0,D
+ARG,2014-02-08,23:30,Racing Club,CA Colón,3,0,H,2,0,H
+ARG,2014-02-09,20:00,Quilmes AC,Rosario Central,0,1,A,0,1,A
+ARG,2014-02-09,21:15,Newell's Old Boys,Boca Juniors,0,0,D,0,0,D
+ARG,2014-02-10,00:30,River Plate,GyE La Plata,1,0,H,1,0,H
+ARG,2014-02-11,00:15,Belgrano Córdoba,CA Lanús,2,2,D,2,1,H
+ARG,2014-02-14,22:15,CD Godoy Cruz,Quilmes AC,2,0,H,2,0,H
+ARG,2014-02-15,20:00,All Boys,Estudiantes,0,1,A,0,0,D
+ARG,2014-02-15,21:00,Arsenal Sarandí,Vélez Sársfield,1,3,A,0,0,D
+ARG,2014-02-15,22:10,Tigre,Olimpo,0,0,D,0,0,D
+ARG,2014-02-15,23:30,San Lorenzo,Racing Club,1,0,H,1,0,H
+ARG,2014-02-16,00:15,CA Colón,Argentinos Juniors,1,0,H,0,0,D
+ARG,2014-02-16,20:00,GyE La Plata,Newell's Old Boys,3,0,H,1,0,H
+ARG,2014-02-16,20:00,CA Lanús,Atlético Rafaela,0,3,A,0,2,A
+ARG,2014-02-16,21:15,Rosario Central,River Plate,1,1,D,1,1,D
+ARG,2014-02-17,00:30,Boca Juniors,Belgrano Córdoba,2,3,A,1,0,H
+ARG,2014-02-18,20:00,Olimpo,Arsenal Sarandí,0,2,A,0,1,A
+ARG,2014-02-18,22:15,Vélez Sársfield,All Boys,3,0,H,1,0,H
+ARG,2014-02-19,00:30,Racing Club,Tigre,0,1,A,0,1,A
+ARG,2014-02-19,20:00,Quilmes AC,CA Colón,0,2,A,0,2,A
+ARG,2014-02-19,22:15,Argentinos Juniors,San Lorenzo,0,2,A,0,1,A
+ARG,2014-02-19,22:15,Estudiantes,CA Lanús,2,1,H,1,1,D
+ARG,2014-02-20,00:30,River Plate,CD Godoy Cruz,1,2,A,1,1,D
+ARG,2014-02-20,20:00,Belgrano Córdoba,Newell's Old Boys,1,1,D,0,0,D
+ARG,2014-02-20,22:05,Rosario Central,GyE La Plata,3,1,H,1,1,D
+ARG,2014-02-21,00:15,Atlético Rafaela,Boca Juniors,1,0,H,0,0,D
+ARG,2014-02-22,20:00,CA Lanús,Vélez Sársfield,3,2,H,2,1,H
+ARG,2014-02-22,22:15,All Boys,Olimpo,1,0,H,1,0,H
+ARG,2014-02-22,23:30,Arsenal Sarandí,Racing Club,3,1,H,3,1,H
+ARG,2014-02-23,20:00,Newell's Old Boys,Atlético Rafaela,4,1,H,2,1,H
+ARG,2014-02-23,20:00,San Lorenzo,Quilmes AC,1,0,H,0,0,D
+ARG,2014-02-23,21:15,Boca Juniors,Estudiantes,1,0,H,1,0,H
+ARG,2014-02-24,00:30,CA Colón,River Plate,3,1,H,1,0,H
+ARG,2014-02-24,20:00,CD Godoy Cruz,Rosario Central,3,0,H,1,0,H
+ARG,2014-02-24,22:15,Tigre,Argentinos Juniors,0,0,D,0,0,D
+ARG,2014-02-25,00:30,GyE La Plata,Belgrano Córdoba,2,2,D,2,1,H
+ARG,2014-02-28,21:15,CD Godoy Cruz,GyE La Plata,0,2,A,0,2,A
+ARG,2014-02-28,23:30,Racing Club,All Boys,1,1,D,1,0,H
+ARG,2014-03-01,21:00,Vélez Sársfield,Boca Juniors,1,0,H,1,0,H
+ARG,2014-03-01,21:15,Atlético Rafaela,Belgrano Córdoba,1,2,A,1,1,D
+ARG,2014-03-01,23:10,Argentinos Juniors,Arsenal Sarandí,2,0,H,2,0,H
+ARG,2014-03-01,23:30,Rosario Central,CA Colón,0,1,A,0,1,A
+ARG,2014-03-02,20:00,Quilmes AC,Tigre,1,0,H,1,0,H
+ARG,2014-03-02,20:00,Olimpo,CA Lanús,2,0,H,0,0,D
+ARG,2014-03-02,21:15,River Plate,San Lorenzo,1,0,H,1,0,H
+ARG,2014-03-03,00:30,Estudiantes,Newell's Old Boys,0,0,D,0,0,D
+ARG,2014-03-04,20:00,CA Colón,CD Godoy Cruz,1,1,D,0,0,D
+ARG,2014-03-04,22:10,GyE La Plata,Atlético Rafaela,1,1,D,1,1,D
+ARG,2014-03-05,01:10,All Boys,Argentinos Juniors,0,0,D,0,0,D
+ARG,2014-03-05,21:00,Belgrano Córdoba,Estudiantes,1,1,D,0,0,D
+ARG,2014-03-05,21:00,CA Lanús,Racing Club,1,0,H,1,0,H
+ARG,2014-03-05,23:10,Boca Juniors,Olimpo,2,0,H,0,0,D
+ARG,2014-03-06,01:15,Newell's Old Boys,Vélez Sársfield,4,1,H,1,0,H
+ARG,2014-03-06,20:00,Arsenal Sarandí,Quilmes AC,0,2,A,0,1,A
+ARG,2014-03-06,22:10,San Lorenzo,Rosario Central,2,1,H,0,1,A
+ARG,2014-03-07,01:10,Tigre,River Plate,0,0,D,0,0,D
+ARG,2014-03-08,20:00,CA Colón,GyE La Plata,0,0,D,0,0,D
+ARG,2014-03-08,20:00,Argentinos Juniors,CA Lanús,0,2,A,0,1,A
+ARG,2014-03-08,21:00,Estudiantes,Atlético Rafaela,0,0,D,0,0,D
+ARG,2014-03-09,00:30,Vélez Sársfield,Belgrano Córdoba,3,1,H,0,1,A
+ARG,2014-03-09,20:00,CD Godoy Cruz,San Lorenzo,1,1,D,0,0,D
+ARG,2014-03-09,21:00,Olimpo,Newell's Old Boys,1,0,H,1,0,H
+ARG,2014-03-09,21:15,River Plate,Arsenal Sarandí,1,0,H,0,0,D
+ARG,2014-03-10,00:30,Racing Club,Boca Juniors,1,2,A,0,1,A
+ARG,2014-03-10,22:15,Quilmes AC,All Boys,1,2,A,0,1,A
+ARG,2014-03-11,00:30,Rosario Central,Tigre,1,1,D,0,0,D
+ARG,2014-03-14,22:10,Atlético Rafaela,Vélez Sársfield,3,1,H,2,0,H
+ARG,2014-03-15,19:00,Tigre,CD Godoy Cruz,0,0,D,0,0,D
+ARG,2014-03-15,21:10,Belgrano Córdoba,Olimpo,1,1,D,0,0,D
+ARG,2014-03-15,23:30,San Lorenzo,CA Colón,0,0,D,0,0,D
+ARG,2014-03-16,18:00,GyE La Plata,Estudiantes,0,1,A,0,1,A
+ARG,2014-03-16,20:00,Arsenal Sarandí,Rosario Central,1,1,D,1,0,H
+ARG,2014-03-16,20:10,Newell's Old Boys,Racing Club,2,0,H,1,0,H
+ARG,2014-03-16,21:15,Boca Juniors,Argentinos Juniors,1,1,D,1,0,H
+ARG,2014-03-17,00:30,All Boys,River Plate,3,2,H,1,1,D
+ARG,2014-03-17,22:10,CA Lanús,Quilmes AC,1,0,H,0,0,D
+ARG,2014-03-21,21:15,Olimpo,Atlético Rafaela,2,1,H,1,0,H
+ARG,2014-03-21,23:30,CA Colón,Tigre,1,0,H,1,0,H
+ARG,2014-03-22,20:00,Racing Club,Belgrano Córdoba,2,0,H,1,0,H
+ARG,2014-03-22,21:10,Argentinos Juniors,Newell's Old Boys,0,0,D,0,0,D
+ARG,2014-03-22,22:00,Rosario Central,All Boys,2,0,H,1,0,H
+ARG,2014-03-22,23:30,Vélez Sársfield,Estudiantes,1,1,D,0,0,D
+ARG,2014-03-23,18:00,CD Godoy Cruz,Arsenal Sarandí,2,1,H,1,0,H
+ARG,2014-03-23,20:00,GyE La Plata,San Lorenzo,2,1,H,0,0,D
+ARG,2014-03-23,21:15,River Plate,CA Lanús,2,0,H,1,0,H
+ARG,2014-03-24,00:30,Quilmes AC,Boca Juniors,0,0,D,0,0,D
+ARG,2014-03-28,20:00,All Boys,CD Godoy Cruz,0,0,D,0,0,D
+ARG,2014-03-28,22:10,Estudiantes,Olimpo,0,0,D,0,0,D
+ARG,2014-03-29,00:15,Belgrano Córdoba,Argentinos Juniors,0,0,D,0,0,D
+ARG,2014-03-29,21:10,Vélez Sársfield,GyE La Plata,5,1,H,0,1,A
+ARG,2014-03-29,23:15,Newell's Old Boys,Quilmes AC,1,1,D,0,0,D
+ARG,2014-03-29,23:30,Atlético Rafaela,Racing Club,2,2,D,0,0,D
+ARG,2014-03-30,18:10,CA Lanús,Rosario Central,2,1,H,0,0,D
+ARG,2014-03-30,21:10,Arsenal Sarandí,CA Colón,1,0,H,0,0,D
+ARG,2014-03-30,22:15,Boca Juniors,River Plate,1,2,A,0,0,D
+ARG,2014-03-31,01:30,Tigre,San Lorenzo,2,2,D,0,1,A
+ARG,2014-04-01,19:00,Quilmes AC,Belgrano Córdoba,1,0,H,1,0,H
+ARG,2014-04-01,21:10,Olimpo,Vélez Sársfield,1,2,A,0,1,A
+ARG,2014-04-01,23:20,Argentinos Juniors,Atlético Rafaela,0,0,D,0,0,D
+ARG,2014-04-02,00:15,Racing Club,Estudiantes,3,3,D,1,1,D
+ARG,2014-04-02,19:00,CD Godoy Cruz,CA Lanús,1,0,H,1,0,H
+ARG,2014-04-02,21:10,Rosario Central,Boca Juniors,2,1,H,0,1,A
+ARG,2014-04-02,21:10,CA Colón,All Boys,1,0,H,0,0,D
+ARG,2014-04-03,00:15,River Plate,Newell's Old Boys,1,0,H,1,0,H
+ARG,2014-04-03,21:00,GyE La Plata,Tigre,3,1,H,2,1,H
+ARG,2014-04-04,00:15,San Lorenzo,Arsenal Sarandí,2,0,H,1,0,H
+ARG,2014-04-05,23:15,CA Lanús,CA Colón,1,0,H,1,0,H
+ARG,2014-04-06,00:30,Vélez Sársfield,Racing Club,0,1,A,0,0,D
+ARG,2014-04-06,19:00,Newell's Old Boys,Rosario Central,0,1,A,0,0,D
+ARG,2014-04-06,20:00,Atlético Rafaela,Quilmes AC,2,2,D,1,0,H
+ARG,2014-04-06,21:10,All Boys,San Lorenzo,1,2,A,1,0,H
+ARG,2014-04-06,21:10,Arsenal Sarandí,Tigre,0,1,A,0,0,D
+ARG,2014-04-06,22:15,Boca Juniors,CD Godoy Cruz,3,0,H,1,0,H
+ARG,2014-04-07,01:30,Belgrano Córdoba,River Plate,2,1,H,1,1,D
+ARG,2014-04-08,00:10,Estudiantes,Argentinos Juniors,1,0,H,0,0,D
+ARG,2014-04-08,23:00,Olimpo,GyE La Plata,0,2,A,0,0,D
+ARG,2014-04-11,22:00,Tigre,All Boys,2,0,H,1,0,H
+ARG,2014-04-12,00:10,Rosario Central,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2014-04-12,19:00,Quilmes AC,Estudiantes,1,3,A,1,2,A
+ARG,2014-04-12,21:10,Argentinos Juniors,Vélez Sársfield,2,1,H,0,0,D
+ARG,2014-04-12,23:20,Racing Club,Olimpo,1,1,D,1,1,D
+ARG,2014-04-13,00:30,San Lorenzo,CA Lanús,1,4,A,0,2,A
+ARG,2014-04-13,21:10,CD Godoy Cruz,Newell's Old Boys,0,1,A,0,0,D
+ARG,2014-04-13,21:10,GyE La Plata,Arsenal Sarandí,2,0,H,1,0,H
+ARG,2014-04-13,22:15,River Plate,Atlético Rafaela,2,0,H,0,0,D
+ARG,2014-04-14,01:30,CA Colón,Boca Juniors,0,0,D,0,0,D
+ARG,2014-04-15,19:00,Olimpo,Argentinos Juniors,3,0,H,3,0,H
+ARG,2014-04-15,21:10,Vélez Sársfield,Quilmes AC,1,3,A,1,2,A
+ARG,2014-04-16,19:00,Atlético Rafaela,Rosario Central,2,3,A,0,1,A
+ARG,2014-04-16,21:10,Estudiantes,River Plate,0,0,D,0,0,D
+ARG,2014-04-16,21:10,Newell's Old Boys,CA Colón,0,1,A,0,0,D
+ARG,2014-04-17,00:10,Boca Juniors,San Lorenzo,0,0,D,0,0,D
+ARG,2014-04-17,19:00,All Boys,Arsenal Sarandí,1,1,D,0,0,D
+ARG,2014-04-17,21:10,Belgrano Córdoba,CD Godoy Cruz,1,2,A,1,1,D
+ARG,2014-04-18,00:10,Racing Club,GyE La Plata,0,1,A,0,0,D
+ARG,2014-04-19,21:10,Rosario Central,Estudiantes,0,0,D,0,0,D
+ARG,2014-04-19,22:10,Quilmes AC,Olimpo,0,1,A,0,0,D
+ARG,2014-04-20,00:30,San Lorenzo,Newell's Old Boys,0,0,D,0,0,D
+ARG,2014-04-20,20:00,CA Colón,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2014-04-20,21:00,Argentinos Juniors,Racing Club,0,1,A,0,0,D
+ARG,2014-04-20,21:00,Arsenal Sarandí,CA Lanús,3,1,H,0,0,D
+ARG,2014-04-20,22:15,River Plate,Vélez Sársfield,1,0,H,1,0,H
+ARG,2014-04-21,01:30,Tigre,Boca Juniors,0,1,A,0,0,D
+ARG,2014-04-21,18:00,CD Godoy Cruz,Atlético Rafaela,3,0,H,1,0,H
+ARG,2014-04-21,20:10,GyE La Plata,All Boys,2,1,H,1,0,H
+ARG,2014-04-25,23:10,Newell's Old Boys,Tigre,2,1,H,0,0,D
+ARG,2014-04-26,19:00,Belgrano Córdoba,San Lorenzo,0,0,D,0,0,D
+ARG,2014-04-26,21:10,Atlético Rafaela,CA Colón,1,1,D,0,0,D
+ARG,2014-04-26,22:10,Argentinos Juniors,GyE La Plata,0,2,A,0,1,A
+ARG,2014-04-26,23:20,Vélez Sársfield,Rosario Central,4,1,H,2,0,H
+ARG,2014-04-27,00:30,Racing Club,Quilmes AC,0,1,A,0,0,D
+ARG,2014-04-27,20:00,Estudiantes,CD Godoy Cruz,0,1,A,0,0,D
+ARG,2014-04-27,21:00,CA Lanús,All Boys,1,0,H,0,0,D
+ARG,2014-04-27,22:15,Boca Juniors,Arsenal Sarandí,4,2,H,2,1,H
+ARG,2014-04-28,01:30,Olimpo,River Plate,1,1,D,1,1,D
+ARG,2014-05-01,00:10,CA Lanús,Tigre,0,0,D,0,0,D
+ARG,2014-05-03,00:10,Quilmes AC,Argentinos Juniors,1,0,H,1,0,H
+ARG,2014-05-03,19:00,CA Colón,Estudiantes,0,2,A,0,1,A
+ARG,2014-05-03,21:10,Rosario Central,Olimpo,0,0,D,0,0,D
+ARG,2014-05-03,23:20,CD Godoy Cruz,Vélez Sársfield,1,1,D,1,0,H
+ARG,2014-05-04,00:30,San Lorenzo,Atlético Rafaela,2,0,H,1,0,H
+ARG,2014-05-04,21:00,Arsenal Sarandí,Newell's Old Boys,3,2,H,2,1,H
+ARG,2014-05-04,21:10,GyE La Plata,CA Lanús,0,0,D,0,0,D
+ARG,2014-05-04,22:15,River Plate,Racing Club,3,2,H,2,1,H
+ARG,2014-05-05,01:30,All Boys,Boca Juniors,1,3,A,0,0,D
+ARG,2014-05-06,00:10,Tigre,Belgrano Córdoba,2,1,H,1,1,D
+ARG,2014-05-09,22:00,Olimpo,CD Godoy Cruz,3,1,H,0,0,D
+ARG,2014-05-10,21:00,Estudiantes,San Lorenzo,3,0,H,2,0,H
+ARG,2014-05-10,21:10,Newell's Old Boys,All Boys,4,2,H,3,1,H
+ARG,2014-05-10,22:10,Atlético Rafaela,Tigre,1,1,D,0,0,D
+ARG,2014-05-10,23:20,Vélez Sársfield,CA Colón,2,0,H,2,0,H
+ARG,2014-05-11,00:30,Racing Club,Rosario Central,0,0,D,0,0,D
+ARG,2014-05-11,21:10,Quilmes AC,GyE La Plata,2,0,H,0,0,D
+ARG,2014-05-11,21:10,Belgrano Córdoba,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2014-05-11,22:15,Boca Juniors,CA Lanús,3,1,H,0,0,D
+ARG,2014-05-12,01:30,Argentinos Juniors,River Plate,0,2,A,0,0,D
+ARG,2014-05-17,00:10,All Boys,Belgrano Córdoba,0,0,D,0,0,D
+ARG,2014-05-18,00:30,Rosario Central,Argentinos Juniors,3,2,H,2,0,H
+ARG,2014-05-18,19:00,Arsenal Sarandí,Atlético Rafaela,1,2,A,1,0,H
+ARG,2014-05-18,19:00,CA Colón,Olimpo,2,1,H,0,0,D
+ARG,2014-05-18,19:00,CD Godoy Cruz,Racing Club,2,1,H,1,1,D
+ARG,2014-05-18,21:30,GyE La Plata,Boca Juniors,0,1,A,0,1,A
+ARG,2014-05-18,21:30,Tigre,Estudiantes,2,1,H,1,1,D
+ARG,2014-05-18,21:30,River Plate,Quilmes AC,5,0,H,2,0,H
+ARG,2014-05-19,01:30,CA Lanús,Newell's Old Boys,1,1,D,1,0,H
+ARG,2014-05-20,00:10,San Lorenzo,Vélez Sársfield,2,3,A,1,1,D

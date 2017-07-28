@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+AUS,2000-10-13,09:30,Parramatta Power,Marconi-Fairfield Stallions,0,2,A,0.0,0.0,D
+AUS,2000-10-13,11:30,Adelaide City Force,South Melbourne Lakers,1,3,A,0.0,0.0,D
+AUS,2000-10-14,08:30,Wollongong City Wolves,Perth Glory,1,1,D,0.0,0.0,D
+AUS,2000-10-14,08:30,Canberra Cosmos,Carlton Blues,3,0,H,0.0,1.0,A
+AUS,2000-10-14,09:00,Brisbane Strikers,Melbourne Knights,1,2,A,0.0,1.0,A
+AUS,2000-10-14,09:00,Eastern Pride,Newcastle United,1,1,D,0.0,0.0,D
+AUS,2000-10-15,05:00,Sydney United Pumas,Northern Spirit,2,1,H,0.0,1.0,A
+AUS,2000-10-15,08:30,Sydney Olympic Lions,Auckland Football Kingz,2,0,H,1.0,0.0,H
+AUS,2000-10-20,07:30,Auckland Football Kingz,Eastern Pride,2,1,H,1.0,1.0,D
+AUS,2000-10-20,09:30,Northern Spirit,Sydney Olympic Lions,0,0,D,0.0,0.0,D
+AUS,2000-10-20,09:30,Newcastle United,Brisbane Strikers,0,2,A,0.0,2.0,A
+AUS,2000-10-20,11:30,Adelaide City Force,Sydney United Pumas,0,2,A,0.0,2.0,A
+AUS,2000-10-21,09:00,Marconi-Fairfield Stallions,Canberra Cosmos,1,0,H,0.0,0.0,D
+AUS,2000-10-21,12:00,Perth Glory,South Melbourne Lakers,1,0,H,1.0,0.0,H
+AUS,2000-10-22,08:00,Melbourne Knights,Parramatta Power,2,1,H,1.0,0.0,H
+AUS,2000-10-22,,Carlton Blues,Wollongong City Wolves,0,3,A,1.0,0.0,H
+AUS,2000-10-27,07:30,Auckland Football Kingz,Newcastle United,5,1,H,2.0,0.0,H
+AUS,2000-10-27,09:30,Parramatta Power,Brisbane Strikers,3,1,H,2.0,1.0,H
+AUS,2000-10-28,08:30,Canberra Cosmos,Melbourne Knights,3,0,H,0.0,0.0,D
+AUS,2000-10-28,08:30,Wollongong City Wolves,Marconi-Fairfield Stallions,1,0,H,0.0,0.0,D
+AUS,2000-10-28,09:00,Eastern Pride,Northern Spirit,0,2,A,0.0,2.0,A
+AUS,2000-10-29,04:00,Sydney United Pumas,Perth Glory,2,1,H,1.0,1.0,D
+AUS,2000-10-29,06:00,South Melbourne Lakers,Carlton Blues,3,0,H,1.0,0.0,H
+AUS,2000-10-29,07:30,Sydney Olympic Lions,Adelaide City Force,3,0,H,2.0,0.0,H
+AUS,2000-11-03,08:30,Northern Spirit,Auckland Football Kingz,4,2,H,3.0,1.0,H
+AUS,2000-11-03,08:30,Newcastle United,Parramatta Power,0,2,A,0.0,0.0,D
+AUS,2000-11-03,09:30,Adelaide City Force,Eastern Pride,4,3,H,0.0,2.0,A
+AUS,2000-11-04,08:00,Brisbane Strikers,Canberra Cosmos,2,2,D,1.0,0.0,H
+AUS,2000-11-04,08:00,Marconi-Fairfield Stallions,South Melbourne Lakers,1,1,D,0.0,1.0,A
+AUS,2000-11-04,11:00,Perth Glory,Sydney Olympic Lions,1,1,D,0.0,0.0,D
+AUS,2000-11-05,06:00,Carlton Blues,Sydney United Pumas,0,3,A,2.0,0.0,H
+AUS,2000-11-05,07:00,Melbourne Knights,Wollongong City Wolves,1,2,A,0.0,2.0,A
+AUS,2000-11-10,07:30,Auckland Football Kingz,Adelaide City Force,0,1,A,0.0,0.0,D
+AUS,2000-11-10,08:30,Wollongong City Wolves,Brisbane Strikers,2,1,H,1.0,0.0,H
+AUS,2000-11-11,08:00,Eastern Pride,Perth Glory,2,3,A,0.0,1.0,A
+AUS,2000-11-11,08:30,Northern Spirit,Newcastle United,0,0,D,0.0,0.0,D
+AUS,2000-11-11,08:30,Parramatta Power,Canberra Cosmos,2,3,A,1.0,0.0,H
+AUS,2000-11-12,05:00,Sydney United Pumas,Marconi-Fairfield Stallions,2,2,D,0.0,0.0,D
+AUS,2000-11-12,06:00,South Melbourne Lakers,Melbourne Knights,4,1,H,2.0,0.0,H
+AUS,2000-11-12,07:30,Sydney Olympic Lions,Carlton Blues,3,0,H,2.0,0.0,H
+AUS,2000-11-17,08:30,Newcastle United,Canberra Cosmos,2,1,H,2.0,0.0,H
+AUS,2000-11-17,09:30,Adelaide City Force,Northern Spirit,3,2,H,1.0,2.0,A
+AUS,2000-11-18,08:00,Marconi-Fairfield Stallions,Sydney Olympic Lions,2,3,A,0.0,0.0,D
+AUS,2000-11-18,11:00,Perth Glory,Auckland Football Kingz,5,1,H,4.0,1.0,H
+AUS,2000-11-19,05:00,Parramatta Power,Wollongong City Wolves,0,2,A,0.0,0.0,D
+AUS,2000-11-19,06:00,South Melbourne Lakers,Brisbane Strikers,3,0,H,1.0,0.0,H
+AUS,2000-11-19,06:00,Carlton Blues,Eastern Pride,0,3,A,2.0,1.0,H
+AUS,2000-11-19,07:00,Melbourne Knights,Sydney United Pumas,4,0,H,2.0,0.0,H
+AUS,2000-11-24,06:30,Auckland Football Kingz,Carlton Blues,3,0,H,0.0,0.0,D
+AUS,2000-11-24,08:00,Eastern Pride,Marconi-Fairfield Stallions,0,0,D,0.0,0.0,D
+AUS,2000-11-24,08:30,Northern Spirit,Perth Glory,2,0,H,1.0,0.0,H
+AUS,2000-11-24,08:30,Wollongong City Wolves,Canberra Cosmos,2,3,A,1.0,0.0,H
+AUS,2000-11-24,09:30,Adelaide City Force,Newcastle United,1,1,D,0.0,0.0,D
+AUS,2000-11-26,05:00,Sydney United Pumas,Brisbane Strikers,1,1,D,0.0,0.0,D
+AUS,2000-11-26,06:00,South Melbourne Lakers,Parramatta Power,1,1,D,0.0,1.0,A
+AUS,2000-11-26,07:30,Sydney Olympic Lions,Melbourne Knights,1,0,H,0.0,0.0,D
+AUS,2000-12-01,08:30,Parramatta Power,Sydney United Pumas,3,2,H,3.0,0.0,H
+AUS,2000-12-01,08:30,Newcastle United,Wollongong City Wolves,1,3,A,0.0,2.0,A
+AUS,2000-12-02,07:30,Canberra Cosmos,South Melbourne Lakers,1,3,A,0.0,1.0,A
+AUS,2000-12-02,08:00,Brisbane Strikers,Sydney Olympic Lions,2,1,H,1.0,0.0,H
+AUS,2000-12-02,08:00,Marconi-Fairfield Stallions,Auckland Football Kingz,3,1,H,1.0,1.0,D
+AUS,2000-12-02,11:00,Perth Glory,Adelaide City Force,2,0,H,1.0,0.0,H
+AUS,2000-12-03,06:00,Carlton Blues,Northern Spirit,0,3,A,1.0,0.0,H
+AUS,2000-12-03,07:00,Melbourne Knights,Eastern Pride,2,1,H,0.0,0.0,D
+AUS,2000-12-08,06:30,Auckland Football Kingz,Melbourne Knights,2,2,D,0.0,1.0,A
+AUS,2000-12-08,08:30,Northern Spirit,Marconi-Fairfield Stallions,0,0,D,0.0,0.0,D
+AUS,2000-12-08,,Carlton Blues,Adelaide City Force,0,3,A,,,
+AUS,2000-12-09,08:00,Eastern Pride,Brisbane Strikers,2,2,D,1.0,1.0,D
+AUS,2000-12-10,06:00,South Melbourne Lakers,Wollongong City Wolves,4,2,H,1.0,1.0,D
+AUS,2000-12-10,06:00,Sydney United Pumas,Canberra Cosmos,2,2,D,0.0,1.0,A
+AUS,2000-12-10,07:30,Sydney Olympic Lions,Parramatta Power,0,2,A,0.0,1.0,A
+AUS,2000-12-10,11:00,Perth Glory,Newcastle United,4,0,H,4.0,0.0,H
+AUS,2000-12-15,08:30,Newcastle United,South Melbourne Lakers,0,0,D,0.0,0.0,D
+AUS,2000-12-16,07:30,Canberra Cosmos,Sydney Olympic Lions,2,3,A,1.0,1.0,D
+AUS,2000-12-16,07:30,Wollongong City Wolves,Sydney United Pumas,2,0,H,0.0,0.0,D
+AUS,2000-12-16,08:00,Brisbane Strikers,Auckland Football Kingz,1,1,D,0.0,0.0,D
+AUS,2000-12-16,08:00,Marconi-Fairfield Stallions,Adelaide City Force,0,2,A,0.0,0.0,D
+AUS,2000-12-16,08:30,Parramatta Power,Eastern Pride,2,0,H,2.0,0.0,H
+AUS,2000-12-17,07:00,Melbourne Knights,Northern Spirit,1,1,D,0.0,0.0,D
+AUS,2000-12-17,,Carlton Blues,Perth Glory,0,3,A,,,
+AUS,2000-12-22,06:30,Auckland Football Kingz,Parramatta Power,0,1,A,0.0,1.0,A
+AUS,2000-12-22,08:30,Northern Spirit,Brisbane Strikers,1,0,H,0.0,0.0,D
+AUS,2000-12-22,09:30,Adelaide City Force,Melbourne Knights,3,2,H,2.0,1.0,H
+AUS,2000-12-23,06:00,Sydney United Pumas,South Melbourne Lakers,0,3,A,0.0,2.0,A
+AUS,2000-12-23,07:30,Sydney Olympic Lions,Wollongong City Wolves,2,2,D,0.0,1.0,A
+AUS,2000-12-23,08:00,Eastern Pride,Canberra Cosmos,3,1,H,2.0,0.0,H
+AUS,2000-12-23,11:00,Perth Glory,Marconi-Fairfield Stallions,0,1,A,0.0,1.0,A
+AUS,2000-12-23,,Carlton Blues,Newcastle United,0,3,A,,,
+AUS,2000-12-29,08:30,Parramatta Power,Northern Spirit,3,0,H,0.0,0.0,D
+AUS,2000-12-29,08:30,Newcastle United,Sydney United Pumas,1,1,D,0.0,0.0,D
+AUS,2000-12-29,08:30,Wollongong City Wolves,Eastern Pride,4,2,H,2.0,1.0,H
+AUS,2000-12-30,07:00,Melbourne Knights,Perth Glory,1,1,D,1.0,1.0,D
+AUS,2000-12-30,07:30,Canberra Cosmos,Auckland Football Kingz,0,2,A,0.0,1.0,A
+AUS,2000-12-30,08:00,Brisbane Strikers,Adelaide City Force,6,2,H,1.0,0.0,H
+AUS,2000-12-30,08:30,South Melbourne Lakers,Sydney Olympic Lions,1,0,H,1.0,0.0,H
+AUS,2000-12-30,,Marconi-Fairfield Stallions,Carlton Blues,3,0,H,,,
+AUS,2001-01-05,08:30,Wollongong City Wolves,Auckland Football Kingz,1,1,D,1.0,0.0,H
+AUS,2001-01-05,09:30,Adelaide City Force,Parramatta Power,3,0,H,0.0,0.0,D
+AUS,2001-01-06,08:00,Eastern Pride,South Melbourne Lakers,0,0,D,0.0,0.0,D
+AUS,2001-01-06,08:00,Marconi-Fairfield Stallions,Newcastle United,2,2,D,0.0,1.0,A
+AUS,2001-01-06,08:30,Northern Spirit,Canberra Cosmos,0,2,A,0.0,1.0,A
+AUS,2001-01-06,11:00,Perth Glory,Brisbane Strikers,7,2,H,2.0,0.0,H
+AUS,2001-01-07,07:30,Sydney Olympic Lions,Sydney United Pumas,3,1,H,0.0,1.0,A
+AUS,2001-01-07,,Carlton Blues,Melbourne Knights,0,3,A,,,
+AUS,2001-01-12,08:30,Parramatta Power,Perth Glory,2,3,A,1.0,1.0,D
+AUS,2001-01-12,08:30,Newcastle United,Sydney Olympic Lions,0,1,A,0.0,0.0,D
+AUS,2001-01-13,07:30,Canberra Cosmos,Adelaide City Force,1,1,D,0.0,0.0,D
+AUS,2001-01-13,,Brisbane Strikers,Carlton Blues,3,0,H,,,
+AUS,2001-01-14,06:00,Sydney United Pumas,Eastern Pride,1,0,H,0.0,0.0,D
+AUS,2001-01-14,09:00,Melbourne Knights,Marconi-Fairfield Stallions,1,4,A,1.0,0.0,H
+AUS,2001-01-14,09:00,South Melbourne Lakers,Auckland Football Kingz,3,0,H,2.0,0.0,H
+AUS,2001-01-19,06:30,Auckland Football Kingz,Sydney United Pumas,1,1,D,0.0,1.0,A
+AUS,2001-01-19,08:30,Newcastle United,Melbourne Knights,1,5,A,0.0,3.0,A
+AUS,2001-01-19,08:30,Northern Spirit,South Melbourne Lakers,1,2,A,0.0,0.0,D
+AUS,2001-01-20,08:00,Eastern Pride,Sydney Olympic Lions,0,2,A,0.0,0.0,D
+AUS,2001-01-20,08:00,Marconi-Fairfield Stallions,Brisbane Strikers,2,1,H,0.0,0.0,D
+AUS,2001-01-20,11:00,Perth Glory,Canberra Cosmos,3,0,H,2.0,0.0,H
+AUS,2001-01-21,,Carlton Blues,Parramatta Power,0,3,A,,,
+AUS,2001-01-26,06:00,Northern Spirit,Sydney United Pumas,1,2,A,1.0,1.0,D
+AUS,2001-01-26,06:30,Auckland Football Kingz,Sydney Olympic Lions,1,0,H,0.0,0.0,D
+AUS,2001-01-26,08:30,Newcastle United,Eastern Pride,1,0,H,0.0,0.0,D
+AUS,2001-01-27,08:00,Marconi-Fairfield Stallions,Parramatta Power,2,1,H,1.0,0.0,H
+AUS,2001-01-27,11:00,Perth Glory,Wollongong City Wolves,1,1,D,0.0,0.0,D
+AUS,2001-01-28,06:00,South Melbourne Lakers,Adelaide City Force,1,0,H,0.0,0.0,D
+AUS,2001-01-28,07:00,Melbourne Knights,Brisbane Strikers,2,1,H,0.0,0.0,D
+AUS,2001-01-28,,Carlton Blues,Canberra Cosmos,0,3,A,,,
+AUS,2001-02-02,08:30,Parramatta Power,Melbourne Knights,1,3,A,0.0,1.0,A
+AUS,2001-02-03,07:30,Canberra Cosmos,Marconi-Fairfield Stallions,1,2,A,0.0,2.0,A
+AUS,2001-02-03,08:00,Brisbane Strikers,Newcastle United,0,0,D,0.0,0.0,D
+AUS,2001-02-03,08:00,Eastern Pride,Auckland Football Kingz,1,3,A,0.0,1.0,A
+AUS,2001-02-03,,Wollongong City Wolves,Carlton Blues,3,0,H,,,
+AUS,2001-02-04,06:00,South Melbourne Lakers,Perth Glory,1,1,D,0.0,0.0,D
+AUS,2001-02-04,06:00,Sydney United Pumas,Adelaide City Force,2,1,H,1.0,0.0,H
+AUS,2001-02-04,07:30,Sydney Olympic Lions,Northern Spirit,2,1,H,2.0,1.0,H
+AUS,2001-02-09,08:00,Brisbane Strikers,Parramatta Power,3,1,H,2.0,0.0,H
+AUS,2001-02-09,08:30,Newcastle United,Auckland Football Kingz,1,0,H,1.0,0.0,H
+AUS,2001-02-09,08:30,Northern Spirit,Eastern Pride,0,1,A,0.0,0.0,D
+AUS,2001-02-09,09:30,Adelaide City Force,Sydney Olympic Lions,3,5,A,2.0,2.0,D
+AUS,2001-02-10,08:00,Marconi-Fairfield Stallions,Wollongong City Wolves,1,3,A,1.0,2.0,A
+AUS,2001-02-10,11:00,Perth Glory,Sydney United Pumas,5,1,H,4.0,0.0,H
+AUS,2001-02-11,07:00,Melbourne Knights,Canberra Cosmos,2,0,H,1.0,0.0,H
+AUS,2001-02-11,,Carlton Blues,South Melbourne Lakers,0,3,A,,,
+AUS,2001-02-16,06:30,Auckland Football Kingz,Northern Spirit,1,2,A,0.0,1.0,A
+AUS,2001-02-17,07:30,Canberra Cosmos,Brisbane Strikers,1,1,D,0.0,0.0,D
+AUS,2001-02-17,07:30,Wollongong City Wolves,Melbourne Knights,5,2,H,2.0,1.0,H
+AUS,2001-02-17,08:00,Eastern Pride,Adelaide City Force,1,2,A,1.0,1.0,D
+AUS,2001-02-18,05:00,Parramatta Power,Newcastle United,1,1,D,0.0,0.0,D
+AUS,2001-02-18,06:00,South Melbourne Lakers,Marconi-Fairfield Stallions,6,1,H,3.0,0.0,H
+AUS,2001-02-18,07:30,Sydney Olympic Lions,Perth Glory,3,3,D,0.0,0.0,D
+AUS,2001-02-18,,Sydney United Pumas,Carlton Blues,3,0,H,,,
+AUS,2001-02-23,07:00,Melbourne Knights,South Melbourne Lakers,4,0,H,3.0,0.0,H
+AUS,2001-02-23,08:00,Brisbane Strikers,Wollongong City Wolves,2,4,A,2.0,1.0,H
+AUS,2001-02-23,08:00,Marconi-Fairfield Stallions,Sydney United Pumas,5,2,H,1.0,1.0,D
+AUS,2001-02-23,08:30,Newcastle United,Northern Spirit,2,4,A,0.0,0.0,D
+AUS,2001-02-23,09:30,Adelaide City Force,Auckland Football Kingz,1,1,D,0.0,0.0,D
+AUS,2001-02-24,07:30,Canberra Cosmos,Parramatta Power,0,1,A,0.0,0.0,D
+AUS,2001-02-24,11:00,Perth Glory,Eastern Pride,2,1,H,2.0,0.0,H
+AUS,2001-02-24,,Carlton Blues,Sydney Olympic Lions,0,3,A,,,
+AUS,2001-02-27,07:30,Wollongong City Wolves,Northern Spirit,2,2,D,2.0,1.0,H
+AUS,2001-03-02,06:30,Auckland Football Kingz,Perth Glory,3,3,D,2.0,1.0,H
+AUS,2001-03-02,07:30,Wollongong City Wolves,Parramatta Power,5,1,H,0.0,1.0,A
+AUS,2001-03-03,07:30,Canberra Cosmos,Newcastle United,3,2,H,2.0,0.0,H
+AUS,2001-03-04,05:00,Sydney United Pumas,Melbourne Knights,0,1,A,0.0,1.0,A
+AUS,2001-03-04,07:30,Sydney Olympic Lions,Marconi-Fairfield Stallions,1,0,H,0.0,0.0,D
+AUS,2001-03-04,08:30,Northern Spirit,Adelaide City Force,2,3,A,0.0,1.0,A
+AUS,2001-03-04,,Eastern Pride,Carlton Blues,3,0,H,,,
+AUS,2001-03-09,07:00,Melbourne Knights,Sydney Olympic Lions,2,3,A,1.0,1.0,D
+AUS,2001-03-10,07:30,Canberra Cosmos,Wollongong City Wolves,2,1,H,0.0,1.0,A
+AUS,2001-03-10,08:00,Marconi-Fairfield Stallions,Eastern Pride,2,1,H,1.0,1.0,D
+AUS,2001-03-10,08:30,Newcastle United,Adelaide City Force,0,1,A,0.0,1.0,A
+AUS,2001-03-10,11:00,Perth Glory,Northern Spirit,4,1,H,2.0,1.0,H
+AUS,2001-03-11,05:00,Parramatta Power,South Melbourne Lakers,0,3,A,0.0,1.0,A
+AUS,2001-03-11,08:00,Brisbane Strikers,Sydney United Pumas,4,2,H,1.0,0.0,H
+AUS,2001-03-11,,Carlton Blues,Auckland Football Kingz,0,3,A,,,
+AUS,2001-03-14,08:00,Brisbane Strikers,South Melbourne Lakers,3,2,H,1.0,2.0,A
+AUS,2001-03-16,06:30,Auckland Football Kingz,Marconi-Fairfield Stallions,1,0,H,0.0,0.0,D
+AUS,2001-03-16,08:30,Wollongong City Wolves,Newcastle United,9,4,H,5.0,0.0,H
+AUS,2001-03-16,09:30,Adelaide City Force,Perth Glory,4,6,A,2.0,3.0,A
+AUS,2001-03-17,08:00,Eastern Pride,Melbourne Knights,2,2,D,1.0,0.0,H
+AUS,2001-03-18,05:00,Sydney United Pumas,Parramatta Power,2,1,H,0.0,1.0,A
+AUS,2001-03-18,06:00,South Melbourne Lakers,Canberra Cosmos,1,0,H,0.0,0.0,D
+AUS,2001-03-18,07:30,Sydney Olympic Lions,Brisbane Strikers,2,0,H,0.0,0.0,D
+AUS,2001-03-18,,Northern Spirit,Carlton Blues,3,0,H,,,
+AUS,2001-03-23,08:30,Newcastle United,Perth Glory,1,0,H,0.0,0.0,D
+AUS,2001-03-23,08:30,Wollongong City Wolves,South Melbourne Lakers,0,1,A,0.0,0.0,D
+AUS,2001-03-24,07:30,Canberra Cosmos,Sydney United Pumas,1,2,A,0.0,1.0,A
+AUS,2001-03-24,08:00,Marconi-Fairfield Stallions,Northern Spirit,0,0,D,0.0,0.0,D
+AUS,2001-03-25,07:00,Parramatta Power,Sydney Olympic Lions,3,1,H,2.0,0.0,H
+AUS,2001-03-25,09:00,Brisbane Strikers,Eastern Pride,3,1,H,2.0,0.0,H
+AUS,2001-03-25,09:00,Melbourne Knights,Auckland Football Kingz,2,2,D,1.0,1.0,D
+AUS,2001-03-25,11:30,Adelaide City Force,Wollongong City Wolves,1,1,D,1.0,1.0,D
+AUS,2001-03-25,,Adelaide City Force,Carlton Blues,3,0,H,,,
+AUS,2001-03-30,08:30,Auckland Football Kingz,Brisbane Strikers,3,2,H,3.0,1.0,H
+AUS,2001-03-30,10:30,Northern Spirit,Melbourne Knights,1,4,A,0.0,2.0,A
+AUS,2001-03-30,11:30,Adelaide City Force,Marconi-Fairfield Stallions,0,0,D,0.0,0.0,D
+AUS,2001-03-30,,Perth Glory,Carlton Blues,3,0,H,,,
+AUS,2001-03-31,10:00,Eastern Pride,Parramatta Power,2,1,H,2.0,0.0,H
+AUS,2001-04-01,06:00,Sydney United Pumas,Wollongong City Wolves,1,1,D,0.0,0.0,D
+AUS,2001-04-01,08:00,South Melbourne Lakers,Newcastle United,1,0,H,0.0,0.0,D
+AUS,2001-04-01,09:30,Sydney Olympic Lions,Canberra Cosmos,3,1,H,0.0,1.0,A
+AUS,2001-04-06,10:30,Parramatta Power,Auckland Football Kingz,1,3,A,1.0,1.0,D
+AUS,2001-04-06,,Newcastle United,Carlton Blues,3,0,H,,,
+AUS,2001-04-07,09:30,Wollongong City Wolves,Sydney Olympic Lions,3,1,H,1.0,0.0,H
+AUS,2001-04-07,09:30,Canberra Cosmos,Eastern Pride,7,1,H,2.0,0.0,H
+AUS,2001-04-07,10:00,Marconi-Fairfield Stallions,Perth Glory,0,2,A,0.0,2.0,A
+AUS,2001-04-08,08:00,South Melbourne Lakers,Sydney United Pumas,3,1,H,2.0,1.0,H
+AUS,2001-04-08,09:00,Brisbane Strikers,Northern Spirit,1,1,D,1.0,0.0,H
+AUS,2001-04-08,09:00,Melbourne Knights,Adelaide City Force,1,1,D,1.0,1.0,D
+AUS,2001-04-13,08:30,Auckland Football Kingz,Canberra Cosmos,2,3,A,2.0,2.0,D
+AUS,2001-04-13,10:30,Northern Spirit,Parramatta Power,0,0,D,0.0,0.0,D
+AUS,2001-04-14,12:00,Perth Glory,Melbourne Knights,1,0,H,1.0,0.0,H
+AUS,2001-04-14,,Eastern Pride,Wollongong City Wolves,0,3,A,,,
+AUS,2001-04-15,11:30,Adelaide City Force,Brisbane Strikers,2,2,D,2.0,0.0,H
+AUS,2001-04-15,,Carlton Blues,Marconi-Fairfield Stallions,0,3,A,,,
+AUS,2001-04-16,06:00,Sydney United Pumas,Newcastle United,0,3,A,0.0,1.0,A
+AUS,2001-04-16,09:30,Sydney Olympic Lions,South Melbourne Lakers,2,2,D,1.0,0.0,H
+AUS,2001-04-20,07:30,Auckland Football Kingz,Wollongong City Wolves,3,2,H,1.0,1.0,D
+AUS,2001-04-20,09:00,Brisbane Strikers,Perth Glory,1,4,A,1.0,2.0,A
+AUS,2001-04-20,10:30,Newcastle United,Marconi-Fairfield Stallions,0,1,A,0.0,1.0,A
+AUS,2001-04-20,,South Melbourne Lakers,Eastern Pride,3,0,H,,,
+AUS,2001-04-20,,Melbourne Knights,Carlton Blues,3,0,H,,,
+AUS,2001-04-21,09:30,Canberra Cosmos,Northern Spirit,3,2,H,1.0,1.0,D
+AUS,2001-04-21,10:30,Parramatta Power,Adelaide City Force,1,0,H,0.0,0.0,D
+AUS,2001-04-22,06:00,Sydney United Pumas,Sydney Olympic Lions,3,2,H,2.0,2.0,D
+AUS,2001-04-25,06:00,Northern Spirit,Wollongong City Wolves,0,4,A,0.0,1.0,A
+AUS,2001-04-25,08:00,Adelaide City Force,Canberra Cosmos,6,0,H,2.0,0.0,H
+AUS,2001-04-25,08:30,Auckland Football Kingz,South Melbourne Lakers,1,6,A,1.0,2.0,A
+AUS,2001-04-25,09:30,Sydney Olympic Lions,Newcastle United,2,2,D,1.0,1.0,D
+AUS,2001-04-25,10:00,Marconi-Fairfield Stallions,Melbourne Knights,0,0,D,0.0,0.0,D
+AUS,2001-04-25,12:00,Perth Glory,Parramatta Power,0,1,A,0.0,1.0,A
+AUS,2001-04-25,,Carlton Blues,Brisbane Strikers,0,3,A,,,
+AUS,2001-04-25,,Eastern Pride,Sydney United Pumas,0,3,A,,,
+AUS,2001-04-29,06:00,Melbourne Knights,Newcastle United,6,4,H,5.0,1.0,H
+AUS,2001-04-29,06:00,South Melbourne Lakers,Northern Spirit,6,2,H,2.0,2.0,D
+AUS,2001-04-29,06:00,Sydney United Pumas,Auckland Football Kingz,2,4,A,2.0,3.0,A
+AUS,2001-04-29,06:00,Brisbane Strikers,Marconi-Fairfield Stallions,1,2,A,1.0,2.0,A
+AUS,2001-04-29,06:00,Canberra Cosmos,Perth Glory,0,3,A,0.0,2.0,A
+AUS,2001-04-29,06:00,Wollongong City Wolves,Adelaide City Force,6,2,H,2.0,1.0,H
+AUS,2001-04-29,,Sydney Olympic Lions,Eastern Pride,3,0,H,,,
+AUS,2001-04-29,,Parramatta Power,Carlton Blues,3,0,H,,,

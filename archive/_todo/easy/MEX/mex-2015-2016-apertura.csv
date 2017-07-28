@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,2015-07-25,01:30,Veracruz,Deportivo Guadalajara,2,0,H,0,0,D
+MEX,2015-07-25,23:00,Cruz Azul,Monarcas Morelia,0,3,A,0,2,A
+MEX,2015-07-26,01:00,UANL Tigres,Deportivo Toluca,0,1,A,0,1,A
+MEX,2015-07-26,02:06,CF Pachuca,Club Tijuana,2,1,H,1,0,H
+MEX,2015-07-26,02:30,Atlas Guadalajara,Gallos Blancos,0,2,A,0,1,A
+MEX,2015-07-26,03:00,Santos Laguna,Club León,1,3,A,0,1,A
+MEX,2015-07-26,03:00,Dorados de Sinaloa,Chiapas FC,0,0,D,0,0,D
+MEX,2015-07-26,18:00,Pumas UNAM,CF Monterrey,3,0,H,3,0,H
+MEX,2015-07-26,23:00,Puebla FC,CF América,4,2,H,3,1,H
+MEX,2015-08-01,01:30,Gallos Blancos,CF Pachuca,1,2,A,1,1,D
+MEX,2015-08-01,03:30,Club Tijuana,Dorados de Sinaloa,1,2,A,1,0,H
+MEX,2015-08-01,23:00,CF América,Atlas Guadalajara,1,3,A,1,1,D
+MEX,2015-08-02,02:06,Club León,Veracruz,4,1,H,0,1,A
+MEX,2015-08-02,02:30,Monarcas Morelia,UANL Tigres,1,0,H,0,0,D
+MEX,2015-08-02,03:00,Chiapas FC,Santos Laguna,2,1,H,0,1,A
+MEX,2015-08-02,18:00,Deportivo Toluca,Pumas UNAM,2,1,H,1,0,H
+MEX,2015-08-02,23:00,Deportivo Guadalajara,Cruz Azul,0,1,A,0,0,D
+MEX,2015-08-08,01:30,Veracruz,Chiapas FC,2,1,H,0,1,A
+MEX,2015-08-08,03:30,Santos Laguna,Club Tijuana,0,1,A,0,0,D
+MEX,2015-08-08,23:00,Cruz Azul,Club León,2,0,H,1,0,H
+MEX,2015-08-09,02:06,CF Pachuca,CF América,0,3,A,0,1,A
+MEX,2015-08-09,02:30,Atlas Guadalajara,CF Monterrey,0,3,A,0,2,A
+MEX,2015-08-09,03:00,Dorados de Sinaloa,Gallos Blancos,1,1,D,0,0,D
+MEX,2015-08-09,18:00,Deportivo Toluca,Monarcas Morelia,0,1,A,0,0,D
+MEX,2015-08-09,23:00,Puebla FC,Pumas UNAM,3,2,H,1,1,D
+MEX,2015-08-10,01:00,UANL Tigres,Deportivo Guadalajara,2,2,D,2,0,H
+MEX,2015-08-12,02:30,CF América,Dorados de Sinaloa,4,0,H,1,0,H
+MEX,2015-08-12,02:30,Gallos Blancos,Santos Laguna,1,2,A,1,1,D
+MEX,2015-08-12,03:00,CF Monterrey,CF Pachuca,4,3,H,1,2,A
+MEX,2015-08-12,04:00,Club Tijuana,Veracruz,1,3,A,0,0,D
+MEX,2015-08-13,02:00,Puebla FC,Deportivo Toluca,1,0,H,1,0,H
+MEX,2015-08-13,02:06,Club León,UANL Tigres,2,1,H,2,0,H
+MEX,2015-08-13,02:30,Deportivo Guadalajara,Monarcas Morelia,2,0,H,2,0,H
+MEX,2015-08-13,03:00,Chiapas FC,Cruz Azul,2,1,H,1,1,D
+MEX,2015-08-13,03:00,Pumas UNAM,Atlas Guadalajara,5,0,H,3,0,H
+MEX,2015-08-15,01:30,Veracruz,Gallos Blancos,2,2,D,2,2,D
+MEX,2015-08-15,03:30,Santos Laguna,CF América,0,2,A,0,1,A
+MEX,2015-08-15,23:00,Cruz Azul,Club Tijuana,1,3,A,1,2,A
+MEX,2015-08-16,00:30,Monarcas Morelia,Club León,3,4,A,1,2,A
+MEX,2015-08-16,01:00,UANL Tigres,Chiapas FC,4,1,H,2,0,H
+MEX,2015-08-16,02:06,CF Pachuca,Pumas UNAM,1,2,A,0,1,A
+MEX,2015-08-16,02:30,Atlas Guadalajara,Puebla FC,2,1,H,2,0,H
+MEX,2015-08-16,03:00,Dorados de Sinaloa,CF Monterrey,1,4,A,0,2,A
+MEX,2015-08-16,18:00,Deportivo Toluca,Deportivo Guadalajara,3,1,H,2,0,H
+MEX,2015-08-22,01:30,Gallos Blancos,Cruz Azul,4,2,H,2,0,H
+MEX,2015-08-22,03:30,Club Tijuana,UANL Tigres,1,2,A,0,0,D
+MEX,2015-08-22,23:15,CF América,Veracruz,3,1,H,2,0,H
+MEX,2015-08-23,01:00,CF Monterrey,Santos Laguna,1,1,D,0,0,D
+MEX,2015-08-23,02:06,Club León,Deportivo Guadalajara,1,0,H,1,0,H
+MEX,2015-08-23,02:30,Atlas Guadalajara,Deportivo Toluca,1,2,A,1,1,D
+MEX,2015-08-23,03:00,Chiapas FC,Monarcas Morelia,3,1,H,1,1,D
+MEX,2015-08-23,18:00,Pumas UNAM,Dorados de Sinaloa,2,0,H,1,0,H
+MEX,2015-08-23,23:00,Puebla FC,CF Pachuca,3,2,H,1,2,A
+MEX,2015-08-29,01:30,Veracruz,CF Monterrey,2,1,H,1,1,D
+MEX,2015-08-29,03:30,Santos Laguna,Pumas UNAM,3,4,A,2,3,A
+MEX,2015-08-29,23:00,Cruz Azul,CF América,0,2,A,0,0,D
+MEX,2015-08-30,01:00,UANL Tigres,Gallos Blancos,5,1,H,4,1,H
+MEX,2015-08-30,02:06,CF Pachuca,Atlas Guadalajara,1,1,D,0,1,A
+MEX,2015-08-30,02:30,Monarcas Morelia,Club Tijuana,1,2,A,0,0,D
+MEX,2015-08-30,03:00,Dorados de Sinaloa,Puebla FC,1,0,H,0,0,D
+MEX,2015-08-30,18:00,Deportivo Toluca,Club León,1,3,A,1,0,H
+MEX,2015-08-30,23:30,Deportivo Guadalajara,Chiapas FC,4,1,H,2,0,H
+MEX,2015-09-12,01:30,Gallos Blancos,Monarcas Morelia,0,1,A,0,1,A
+MEX,2015-09-12,03:30,Club Tijuana,Deportivo Guadalajara,2,1,H,1,1,D
+MEX,2015-09-12,23:00,CF América,UANL Tigres,0,1,A,0,1,A
+MEX,2015-09-13,01:00,CF Monterrey,Cruz Azul,1,1,D,0,1,A
+MEX,2015-09-13,02:06,CF Pachuca,Deportivo Toluca,3,4,A,3,1,H
+MEX,2015-09-13,02:30,Atlas Guadalajara,Dorados de Sinaloa,3,2,H,2,0,H
+MEX,2015-09-13,03:00,Chiapas FC,Club León,6,2,H,3,1,H
+MEX,2015-09-13,18:00,Pumas UNAM,Veracruz,3,0,H,3,0,H
+MEX,2015-09-13,23:00,Puebla FC,Santos Laguna,0,1,A,0,0,D
+MEX,2015-09-19,01:30,Veracruz,Puebla FC,2,1,H,0,1,A
+MEX,2015-09-19,03:30,Santos Laguna,Atlas Guadalajara,0,2,A,0,0,D
+MEX,2015-09-19,23:00,Cruz Azul,Pumas UNAM,2,1,H,1,1,D
+MEX,2015-09-20,01:00,UANL Tigres,CF Monterrey,3,1,H,0,1,A
+MEX,2015-09-20,02:06,Club León,Club Tijuana,2,1,H,1,0,H
+MEX,2015-09-20,02:30,Monarcas Morelia,CF América,0,3,A,0,0,D
+MEX,2015-09-20,03:00,Dorados de Sinaloa,CF Pachuca,1,2,A,1,1,D
+MEX,2015-09-20,18:00,Deportivo Toluca,Chiapas FC,1,1,D,0,1,A
+MEX,2015-09-20,23:00,Deportivo Guadalajara,Gallos Blancos,2,1,H,1,0,H
+MEX,2015-09-26,01:30,Gallos Blancos,Club León,3,0,H,1,0,H
+MEX,2015-09-26,03:30,Club Tijuana,Chiapas FC,1,1,D,0,0,D
+MEX,2015-09-26,23:00,CF América,Deportivo Guadalajara,1,2,A,1,2,A
+MEX,2015-09-27,01:00,CF Monterrey,Monarcas Morelia,2,2,D,1,1,D
+MEX,2015-09-27,02:06,CF Pachuca,Santos Laguna,0,0,D,0,0,D
+MEX,2015-09-27,02:30,Atlas Guadalajara,Veracruz,0,1,A,0,0,D
+MEX,2015-09-27,03:00,Dorados de Sinaloa,Deportivo Toluca,1,2,A,1,0,H
+MEX,2015-09-27,18:00,Pumas UNAM,UANL Tigres,1,0,H,0,0,D
+MEX,2015-09-27,23:00,Puebla FC,Cruz Azul,2,1,H,2,1,H
+MEX,2015-09-30,02:00,Deportivo Toluca,Club Tijuana,4,1,H,1,0,H
+MEX,2015-09-30,02:06,Club León,CF América,3,0,H,2,0,H
+MEX,2015-09-30,02:30,Deportivo Guadalajara,CF Monterrey,2,1,H,1,1,D
+MEX,2015-09-30,03:00,Chiapas FC,Gallos Blancos,0,0,D,0,0,D
+MEX,2015-09-30,03:00,Santos Laguna,Dorados de Sinaloa,1,1,D,1,0,H
+MEX,2015-09-30,03:00,Veracruz,CF Pachuca,0,1,A,0,0,D
+MEX,2015-10-01,00:45,Monarcas Morelia,Pumas UNAM,2,2,D,2,2,D
+MEX,2015-10-01,02:30,Cruz Azul,Atlas Guadalajara,1,1,D,0,1,A
+MEX,2015-10-01,02:45,UANL Tigres,Puebla FC,0,1,A,0,1,A
+MEX,2015-10-03,01:30,Gallos Blancos,Club Tijuana,2,1,H,0,0,D
+MEX,2015-10-03,23:00,CF América,Chiapas FC,2,1,H,1,1,D
+MEX,2015-10-04,01:00,Santos Laguna,Deportivo Toluca,0,0,D,0,0,D
+MEX,2015-10-04,01:00,CF Monterrey,Club León,4,0,H,3,0,H
+MEX,2015-10-04,02:30,Atlas Guadalajara,UANL Tigres,0,1,A,0,0,D
+MEX,2015-10-04,18:00,Pumas UNAM,Deportivo Guadalajara,1,0,H,1,0,H
+MEX,2015-10-04,23:00,Puebla FC,Monarcas Morelia,1,3,A,0,1,A
+MEX,2015-10-10,02:30,CF Monterrey,Puebla FC,1,1,D,1,0,H
+MEX,2015-10-17,01:30,Veracruz,Santos Laguna,0,3,A,0,2,A
+MEX,2015-10-17,03:30,Club Tijuana,CF América,0,2,A,0,2,A
+MEX,2015-10-17,23:00,Cruz Azul,Dorados de Sinaloa,1,1,D,1,0,H
+MEX,2015-10-18,01:00,UANL Tigres,CF Pachuca,2,1,H,1,0,H
+MEX,2015-10-18,02:06,Club León,Pumas UNAM,1,3,A,0,1,A
+MEX,2015-10-18,02:30,Monarcas Morelia,Atlas Guadalajara,0,1,A,0,1,A
+MEX,2015-10-18,03:00,Chiapas FC,CF Monterrey,2,2,D,1,1,D
+MEX,2015-10-18,18:00,Deportivo Toluca,Gallos Blancos,4,2,H,3,1,H
+MEX,2015-10-18,23:00,Deportivo Guadalajara,Puebla FC,1,1,D,1,1,D
+MEX,2015-10-24,01:30,Veracruz,Deportivo Toluca,3,2,H,3,1,H
+MEX,2015-10-24,03:30,Santos Laguna,Cruz Azul,1,2,A,1,1,D
+MEX,2015-10-24,23:00,CF América,Gallos Blancos,0,1,A,0,0,D
+MEX,2015-10-25,01:00,CF Monterrey,Club Tijuana,3,1,H,1,0,H
+MEX,2015-10-25,01:06,CF Pachuca,Monarcas Morelia,2,0,H,0,0,D
+MEX,2015-10-25,02:00,Dorados de Sinaloa,UANL Tigres,0,0,D,0,0,D
+MEX,2015-10-25,18:00,Pumas UNAM,Chiapas FC,2,3,A,1,2,A
+MEX,2015-10-25,23:00,Puebla FC,Club León,1,0,H,1,0,H
+MEX,2015-10-31,01:30,Gallos Blancos,CF Monterrey,3,1,H,2,0,H
+MEX,2015-10-31,03:30,Club Tijuana,Pumas UNAM,1,2,A,1,1,D
+MEX,2015-10-31,23:00,Cruz Azul,Veracruz,1,1,D,1,0,H
+MEX,2015-11-01,01:00,UANL Tigres,Santos Laguna,2,2,D,1,0,H
+MEX,2015-11-01,02:06,Club León,Atlas Guadalajara,2,1,H,2,1,H
+MEX,2015-11-01,02:30,Monarcas Morelia,Dorados de Sinaloa,4,0,H,1,0,H
+MEX,2015-11-01,03:00,Chiapas FC,Puebla FC,1,0,H,1,0,H
+MEX,2015-11-01,18:00,Deportivo Toluca,CF América,2,3,A,0,2,A
+MEX,2015-11-01,23:00,Deportivo Guadalajara,CF Pachuca,4,4,D,3,1,H
+MEX,2015-11-07,01:30,Veracruz,UANL Tigres,1,3,A,0,2,A
+MEX,2015-11-07,03:30,Santos Laguna,Monarcas Morelia,2,3,A,2,1,H
+MEX,2015-11-07,23:00,Cruz Azul,Deportivo Toluca,1,2,A,0,2,A
+MEX,2015-11-08,01:00,CF Monterrey,CF América,2,1,H,0,1,A
+MEX,2015-11-08,02:06,CF Pachuca,Club León,3,2,H,1,2,A
+MEX,2015-11-08,02:30,Atlas Guadalajara,Chiapas FC,2,3,A,2,2,D
+MEX,2015-11-08,03:00,Dorados de Sinaloa,Deportivo Guadalajara,2,1,H,0,0,D
+MEX,2015-11-08,18:00,Pumas UNAM,Gallos Blancos,2,1,H,1,0,H
+MEX,2015-11-08,23:00,Puebla FC,Club Tijuana,2,1,H,2,0,H
+MEX,2015-11-11,03:00,Dorados de Sinaloa,Veracruz,0,0,D,0,0,D
+MEX,2015-11-12,02:30,Atlas Guadalajara,Deportivo Guadalajara,0,1,A,0,0,D
+MEX,2015-11-15,02:06,CF Pachuca,Cruz Azul,1,2,A,0,1,A
+MEX,2015-11-21,01:30,Gallos Blancos,Puebla FC,0,0,D,0,0,D
+MEX,2015-11-21,03:30,Club Tijuana,Atlas Guadalajara,2,0,H,0,0,D
+MEX,2015-11-21,23:00,CF América,Pumas UNAM,1,1,D,1,0,H
+MEX,2015-11-22,01:00,UANL Tigres,Cruz Azul,0,0,D,0,0,D
+MEX,2015-11-22,02:06,Club León,Dorados de Sinaloa,3,0,H,2,0,H
+MEX,2015-11-22,02:30,Monarcas Morelia,Veracruz,1,2,A,1,1,D
+MEX,2015-11-22,03:00,Chiapas FC,CF Pachuca,3,2,H,3,1,H
+MEX,2015-11-22,18:00,Deportivo Toluca,CF Monterrey,3,1,H,0,0,D
+MEX,2015-11-22,23:00,Deportivo Guadalajara,Santos Laguna,0,3,A,0,1,A

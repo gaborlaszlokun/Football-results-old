@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,2008-08-23,17:00,Galatasaray,Denizlispor,4,1,H,1,1,D
+TUR,2008-08-23,19:00,İstanbul BBSK,Eskişehirspor,0,0,D,0,0,D
+TUR,2008-08-23,19:00,Hacettepe,Bursaspor,1,2,A,1,1,D
+TUR,2008-08-23,19:00,Sivasspor,Kayserispor,0,0,D,0,0,D
+TUR,2008-08-23,19:45,Gaziantepspor,Fenerbahçe,1,0,H,0,0,D
+TUR,2008-08-24,17:00,Trabzonspor,Ankaraspor,2,0,H,0,0,D
+TUR,2008-08-24,19:00,Gençlerbirliği,Kocaelispor,1,1,D,1,1,D
+TUR,2008-08-24,19:00,Konyaspor,MKE Ankaragücü,3,2,H,2,1,H
+TUR,2008-08-24,19:45,Antalyaspor,Beşiktaş,2,3,A,2,0,H
+TUR,2008-08-29,19:00,MKE Ankaragücü,Trabzonspor,1,2,A,0,2,A
+TUR,2008-08-30,19:00,Ankaraspor,Gaziantepspor,0,2,A,0,1,A
+TUR,2008-08-30,19:00,Fenerbahçe,İstanbul BBSK,2,0,H,0,0,D
+TUR,2008-08-30,19:00,Kocaelispor,Sivasspor,0,2,A,0,0,D
+TUR,2008-08-31,19:00,Bursaspor,Gençlerbirliği,2,0,H,0,0,D
+TUR,2008-08-31,19:00,Denizlispor,Antalyaspor,3,2,H,1,0,H
+TUR,2008-08-31,19:00,Eskişehirspor,Hacettepe,0,0,D,0,0,D
+TUR,2008-08-31,19:00,Kayserispor,Galatasaray,0,0,D,0,0,D
+TUR,2008-09-01,19:00,Beşiktaş,Konyaspor,2,0,H,0,0,D
+TUR,2008-09-13,17:00,Hacettepe,Fenerbahçe,2,1,H,1,1,D
+TUR,2008-09-13,18:00,Kayserispor,Kocaelispor,1,0,H,0,0,D
+TUR,2008-09-13,18:00,Konyaspor,Denizlispor,1,1,D,0,0,D
+TUR,2008-09-13,19:45,Galatasaray,Antalyaspor,1,1,D,1,1,D
+TUR,2008-09-14,17:15,Sivasspor,Bursaspor,3,1,H,3,1,H
+TUR,2008-09-14,18:00,İstanbul BBSK,Ankaraspor,1,2,A,0,0,D
+TUR,2008-09-14,18:00,Gaziantepspor,MKE Ankaragücü,2,2,D,1,0,H
+TUR,2008-09-14,18:00,Gençlerbirliği,Eskişehirspor,3,1,H,2,0,H
+TUR,2008-09-14,19:45,Trabzonspor,Beşiktaş,0,0,D,0,0,D
+TUR,2008-09-19,19:00,Denizlispor,Trabzonspor,0,1,A,0,0,D
+TUR,2008-09-20,18:00,MKE Ankaragücü,İstanbul BBSK,0,0,D,0,0,D
+TUR,2008-09-20,18:00,Eskişehirspor,Sivasspor,2,2,D,1,0,H
+TUR,2008-09-20,19:00,Fenerbahçe,Gençlerbirliği,3,0,H,1,0,H
+TUR,2008-09-21,17:00,Kocaelispor,Galatasaray,1,4,A,1,1,D
+TUR,2008-09-21,18:00,Ankaraspor,Hacettepe,4,0,H,4,0,H
+TUR,2008-09-21,18:00,Antalyaspor,Konyaspor,0,1,A,0,0,D
+TUR,2008-09-21,18:00,Bursaspor,Kayserispor,1,0,H,1,0,H
+TUR,2008-09-21,19:45,Beşiktaş,Gaziantepspor,3,0,H,1,0,H
+TUR,2008-09-26,18:00,Sivasspor,Fenerbahçe,2,1,H,0,1,A
+TUR,2008-09-27,17:15,İstanbul BBSK,Beşiktaş,1,1,D,0,1,A
+TUR,2008-09-27,18:00,Gençlerbirliği,Ankaraspor,1,1,D,0,0,D
+TUR,2008-09-27,18:00,Kocaelispor,Bursaspor,2,3,A,2,2,D
+TUR,2008-09-27,19:45,Trabzonspor,Antalyaspor,3,2,H,1,1,D
+TUR,2008-09-28,18:00,Gaziantepspor,Denizlispor,2,1,H,1,0,H
+TUR,2008-09-28,18:00,Hacettepe,MKE Ankaragücü,0,1,A,0,0,D
+TUR,2008-09-28,18:00,Kayserispor,Eskişehirspor,1,0,H,1,0,H
+TUR,2008-09-28,19:00,Galatasaray,Konyaspor,4,1,H,1,1,D
+TUR,2008-10-04,18:00,Ankaraspor,Sivasspor,2,0,H,0,0,D
+TUR,2008-10-04,18:00,Antalyaspor,Gaziantepspor,1,4,A,1,1,D
+TUR,2008-10-04,18:00,Konyaspor,Trabzonspor,2,3,A,2,1,H
+TUR,2008-10-05,14:00,Denizlispor,İstanbul BBSK,2,1,H,2,0,H
+TUR,2008-10-05,16:00,Bursaspor,Galatasaray,2,1,H,1,0,H
+TUR,2008-10-05,18:00,MKE Ankaragücü,Gençlerbirliği,0,2,A,0,0,D
+TUR,2008-10-05,18:00,Eskişehirspor,Kocaelispor,2,1,H,1,1,D
+TUR,2008-10-05,19:00,Fenerbahçe,Kayserispor,1,4,A,0,2,A
+TUR,2008-10-06,18:00,Beşiktaş,Hacettepe,2,1,H,1,1,D
+TUR,2008-10-18,12:00,İstanbul BBSK,Antalyaspor,2,1,H,1,1,D
+TUR,2008-10-18,12:00,Hacettepe,Denizlispor,1,0,H,0,0,D
+TUR,2008-10-18,14:00,Bursaspor,Eskişehirspor,1,2,A,0,2,A
+TUR,2008-10-18,17:00,Kocaelispor,Fenerbahçe,2,3,A,1,0,H
+TUR,2008-10-19,12:00,Gaziantepspor,Konyaspor,0,1,A,0,0,D
+TUR,2008-10-19,12:00,Kayserispor,Ankaraspor,1,2,A,1,1,D
+TUR,2008-10-19,12:00,Sivasspor,MKE Ankaragücü,3,0,H,1,0,H
+TUR,2008-10-19,14:00,Gençlerbirliği,Beşiktaş,1,3,A,0,3,A
+TUR,2008-10-19,17:00,Galatasaray,Trabzonspor,3,0,H,2,0,H
+TUR,2008-10-24,18:00,Beşiktaş,Sivasspor,1,1,D,1,1,D
+TUR,2008-10-25,12:00,Ankaraspor,Kocaelispor,4,0,H,1,0,H
+TUR,2008-10-25,12:00,Denizlispor,Gençlerbirliği,2,2,D,1,2,A
+TUR,2008-10-25,17:00,Fenerbahçe,Bursaspor,5,2,H,1,0,H
+TUR,2008-10-26,12:00,MKE Ankaragücü,Kayserispor,1,3,A,0,2,A
+TUR,2008-10-26,12:00,Antalyaspor,Hacettepe,1,1,D,1,0,H
+TUR,2008-10-26,12:00,Konyaspor,İstanbul BBSK,1,2,A,0,0,D
+TUR,2008-10-26,14:00,Trabzonspor,Gaziantepspor,1,1,D,0,0,D
+TUR,2008-10-26,17:00,Eskişehirspor,Galatasaray,4,2,H,1,1,D
+TUR,2008-11-01,12:00,Hacettepe,Konyaspor,1,2,A,0,0,D
+TUR,2008-11-01,13:00,İstanbul BBSK,Trabzonspor,0,4,A,0,1,A
+TUR,2008-11-01,17:00,Eskişehirspor,Fenerbahçe,2,2,D,2,2,D
+TUR,2008-11-02,12:00,Bursaspor,Ankaraspor,0,1,A,0,1,A
+TUR,2008-11-02,12:00,Gençlerbirliği,Antalyaspor,1,2,A,0,2,A
+TUR,2008-11-02,12:00,Kocaelispor,MKE Ankaragücü,1,1,D,1,1,D
+TUR,2008-11-02,12:00,Sivasspor,Denizlispor,3,1,H,1,0,H
+TUR,2008-11-02,13:00,Kayserispor,Beşiktaş,1,0,H,0,0,D
+TUR,2008-11-02,17:00,Galatasaray,Gaziantepspor,3,1,H,2,1,H
+TUR,2008-11-07,18:00,Beşiktaş,Kocaelispor,5,2,H,2,2,D
+TUR,2008-11-08,12:00,MKE Ankaragücü,Bursaspor,1,1,D,0,0,D
+TUR,2008-11-08,17:00,Trabzonspor,Hacettepe,1,0,H,1,0,H
+TUR,2008-11-09,12:00,Ankaraspor,Eskişehirspor,2,0,H,0,0,D
+TUR,2008-11-09,12:00,Antalyaspor,Sivasspor,2,1,H,1,0,H
+TUR,2008-11-09,12:00,Denizlispor,Kayserispor,1,0,H,1,0,H
+TUR,2008-11-09,12:00,Gaziantepspor,İstanbul BBSK,1,4,A,0,3,A
+TUR,2008-11-09,12:00,Konyaspor,Gençlerbirliği,2,2,D,0,0,D
+TUR,2008-11-09,17:00,Fenerbahçe,Galatasaray,4,1,H,2,1,H
+TUR,2008-11-14,18:00,Gençlerbirliği,Trabzonspor,0,1,A,0,0,D
+TUR,2008-11-15,12:00,Kocaelispor,Denizlispor,3,2,H,2,2,D
+TUR,2008-11-15,17:00,Fenerbahçe,Ankaraspor,2,0,H,1,0,H
+TUR,2008-11-16,12:00,Eskişehirspor,MKE Ankaragücü,1,3,A,0,1,A
+TUR,2008-11-16,12:00,Hacettepe,Gaziantepspor,0,0,D,0,0,D
+TUR,2008-11-16,12:00,Kayserispor,Antalyaspor,0,0,D,0,0,D
+TUR,2008-11-16,12:00,Sivasspor,Konyaspor,1,0,H,1,0,H
+TUR,2008-11-16,13:00,Bursaspor,Beşiktaş,0,0,D,0,0,D
+TUR,2008-11-16,17:00,Galatasaray,İstanbul BBSK,2,0,H,1,0,H
+TUR,2008-11-22,12:00,Antalyaspor,Kocaelispor,0,0,D,0,0,D
+TUR,2008-11-22,12:00,Gaziantepspor,Gençlerbirliği,2,0,H,0,0,D
+TUR,2008-11-22,13:00,MKE Ankaragücü,Fenerbahçe,0,0,D,0,0,D
+TUR,2008-11-22,17:00,Ankaraspor,Galatasaray,0,0,D,0,0,D
+TUR,2008-11-23,12:00,İstanbul BBSK,Hacettepe,1,0,H,0,0,D
+TUR,2008-11-23,12:00,Denizlispor,Bursaspor,4,3,H,0,0,D
+TUR,2008-11-23,12:00,Konyaspor,Kayserispor,0,0,D,0,0,D
+TUR,2008-11-23,13:00,Trabzonspor,Sivasspor,0,0,D,0,0,D
+TUR,2008-11-23,17:00,Beşiktaş,Eskişehirspor,2,0,H,1,0,H
+TUR,2008-11-28,18:00,Kayserispor,Trabzonspor,1,1,D,0,0,D
+TUR,2008-11-29,12:00,Ankaraspor,MKE Ankaragücü,0,1,A,0,0,D
+TUR,2008-11-29,12:00,Eskişehirspor,Denizlispor,4,3,H,1,3,A
+TUR,2008-11-29,12:00,Sivasspor,Gaziantepspor,3,0,H,1,0,H
+TUR,2008-11-29,17:00,Fenerbahçe,Beşiktaş,2,1,H,2,1,H
+TUR,2008-11-30,12:00,Bursaspor,Antalyaspor,1,1,D,0,0,D
+TUR,2008-11-30,12:00,Gençlerbirliği,İstanbul BBSK,0,0,D,0,0,D
+TUR,2008-11-30,12:00,Kocaelispor,Konyaspor,3,0,H,0,0,D
+TUR,2008-11-30,17:00,Galatasaray,Hacettepe,3,1,H,1,1,D
+TUR,2008-12-05,18:00,Denizlispor,Fenerbahçe,0,1,A,0,0,D
+TUR,2008-12-06,12:00,Antalyaspor,Eskişehirspor,0,0,D,0,0,D
+TUR,2008-12-06,12:00,Gaziantepspor,Kayserispor,0,0,D,0,0,D
+TUR,2008-12-06,12:00,Hacettepe,Gençlerbirliği,0,3,A,0,1,A
+TUR,2008-12-06,17:00,Beşiktaş,Ankaraspor,1,3,A,1,1,D
+TUR,2008-12-07,12:00,İstanbul BBSK,Sivasspor,0,3,A,0,1,A
+TUR,2008-12-07,12:00,Konyaspor,Bursaspor,0,0,D,0,0,D
+TUR,2008-12-07,13:00,Trabzonspor,Kocaelispor,2,1,H,1,1,D
+TUR,2008-12-07,17:00,MKE Ankaragücü,Galatasaray,0,3,A,0,0,D
+TUR,2008-12-12,18:00,Gençlerbirliği,Galatasaray,1,3,A,1,3,A
+TUR,2008-12-13,12:00,Kayserispor,İstanbul BBSK,2,0,H,0,0,D
+TUR,2008-12-13,12:00,Sivasspor,Hacettepe,2,1,H,1,1,D
+TUR,2008-12-13,13:00,Bursaspor,Trabzonspor,2,1,H,1,0,H
+TUR,2008-12-13,17:00,Beşiktaş,MKE Ankaragücü,1,0,H,1,0,H
+TUR,2008-12-14,12:00,Ankaraspor,Denizlispor,2,0,H,1,0,H
+TUR,2008-12-14,12:00,Eskişehirspor,Konyaspor,0,0,D,0,0,D
+TUR,2008-12-14,12:00,Kocaelispor,Gaziantepspor,2,5,A,1,3,A
+TUR,2008-12-14,17:00,Fenerbahçe,Antalyaspor,2,0,H,1,0,H
+TUR,2008-12-19,18:00,Konyaspor,Fenerbahçe,1,2,A,0,2,A
+TUR,2008-12-20,12:00,İstanbul BBSK,Kocaelispor,5,0,H,1,0,H
+TUR,2008-12-20,12:00,Hacettepe,Kayserispor,0,3,A,0,2,A
+TUR,2008-12-20,17:00,Trabzonspor,Eskişehirspor,2,1,H,1,1,D
+TUR,2008-12-21,12:00,Antalyaspor,Ankaraspor,1,1,D,0,0,D
+TUR,2008-12-21,12:00,Denizlispor,MKE Ankaragücü,1,1,D,0,1,A
+TUR,2008-12-21,12:00,Gençlerbirliği,Sivasspor,1,2,A,1,1,D
+TUR,2008-12-21,13:00,Gaziantepspor,Bursaspor,2,0,H,1,0,H
+TUR,2008-12-21,17:00,Galatasaray,Beşiktaş,4,2,H,2,1,H
+TUR,2009-01-23,18:00,Ankaraspor,Konyaspor,3,0,H,2,0,H
+TUR,2009-01-24,12:00,MKE Ankaragücü,Antalyaspor,0,1,A,0,0,D
+TUR,2009-01-24,12:00,Eskişehirspor,Gaziantepspor,1,1,D,0,1,A
+TUR,2009-01-24,12:00,Kayserispor,Gençlerbirliği,1,3,A,0,1,A
+TUR,2009-01-24,12:00,Sivasspor,Galatasaray,2,0,H,0,0,D
+TUR,2009-01-24,17:00,Beşiktaş,Denizlispor,1,0,H,1,0,H
+TUR,2009-01-25,12:00,Bursaspor,İstanbul BBSK,2,0,H,1,0,H
+TUR,2009-01-25,12:00,Kocaelispor,Hacettepe,4,0,H,2,0,H
+TUR,2009-01-25,17:00,Fenerbahçe,Trabzonspor,0,0,D,0,0,D
+TUR,2009-01-31,11:30,Kayserispor,Sivasspor,0,0,D,0,0,D
+TUR,2009-01-31,12:00,Kocaelispor,Gençlerbirliği,0,2,A,0,1,A
+TUR,2009-01-31,14:00,Ankaraspor,Trabzonspor,0,2,A,0,1,A
+TUR,2009-01-31,17:00,Denizlispor,Galatasaray,0,2,A,0,1,A
+TUR,2009-02-01,12:00,MKE Ankaragücü,Konyaspor,1,3,A,0,1,A
+TUR,2009-02-01,12:00,Bursaspor,Hacettepe,0,0,D,0,0,D
+TUR,2009-02-01,12:00,Eskişehirspor,İstanbul BBSK,6,1,H,4,0,H
+TUR,2009-02-01,15:00,Fenerbahçe,Gaziantepspor,1,1,D,0,0,D
+TUR,2009-02-01,18:00,Beşiktaş,Antalyaspor,1,0,H,1,0,H
+TUR,2009-02-06,18:00,Trabzonspor,MKE Ankaragücü,2,1,H,1,0,H
+TUR,2009-02-07,12:00,Hacettepe,Eskişehirspor,2,2,D,0,1,A
+TUR,2009-02-07,13:00,Sivasspor,Kocaelispor,2,0,H,1,0,H
+TUR,2009-02-07,17:00,Galatasaray,Kayserispor,1,1,D,1,0,H
+TUR,2009-02-08,12:00,Antalyaspor,Denizlispor,2,1,H,2,1,H
+TUR,2009-02-08,12:00,Gaziantepspor,Ankaraspor,2,0,H,1,0,H
+TUR,2009-02-08,12:00,Gençlerbirliği,Bursaspor,1,2,A,1,2,A
+TUR,2009-02-08,13:00,Konyaspor,Beşiktaş,0,0,D,0,0,D
+TUR,2009-02-08,17:00,İstanbul BBSK,Fenerbahçe,2,0,H,1,0,H
+TUR,2009-02-14,12:00,MKE Ankaragücü,Gaziantepspor,3,1,H,2,0,H
+TUR,2009-02-14,12:00,Eskişehirspor,Gençlerbirliği,0,0,D,0,0,D
+TUR,2009-02-14,13:00,Antalyaspor,Galatasaray,1,0,H,0,0,D
+TUR,2009-02-14,17:00,Fenerbahçe,Hacettepe,7,0,H,5,0,H
+TUR,2009-02-15,12:00,Ankaraspor,İstanbul BBSK,1,2,A,0,2,A
+TUR,2009-02-15,12:00,Denizlispor,Konyaspor,2,1,H,1,0,H
+TUR,2009-02-15,12:00,Kocaelispor,Kayserispor,1,2,A,1,0,H
+TUR,2009-02-15,13:00,Bursaspor,Sivasspor,1,1,D,0,0,D
+TUR,2009-02-15,17:00,Beşiktaş,Trabzonspor,1,1,D,0,1,A
+TUR,2009-02-20,18:00,Gaziantepspor,Beşiktaş,0,3,A,0,0,D
+TUR,2009-02-21,12:00,İstanbul BBSK,MKE Ankaragücü,1,2,A,1,1,D
+TUR,2009-02-21,12:00,Kayserispor,Bursaspor,0,0,D,0,0,D
+TUR,2009-02-21,12:00,Konyaspor,Antalyaspor,2,0,H,1,0,H
+TUR,2009-02-21,13:00,Trabzonspor,Denizlispor,0,2,A,0,1,A
+TUR,2009-02-21,17:00,Gençlerbirliği,Fenerbahçe,1,0,H,1,0,H
+TUR,2009-02-22,12:00,Hacettepe,Ankaraspor,3,1,H,1,0,H
+TUR,2009-02-22,13:00,Sivasspor,Eskişehirspor,1,0,H,1,0,H
+TUR,2009-02-22,17:00,Galatasaray,Kocaelispor,2,5,A,1,2,A
+TUR,2009-02-27,18:00,Beşiktaş,İstanbul BBSK,2,1,H,0,0,D
+TUR,2009-02-28,11:30,Ankaraspor,Gençlerbirliği,0,0,D,0,0,D
+TUR,2009-02-28,11:30,Denizlispor,Gaziantepspor,2,0,H,1,0,H
+TUR,2009-02-28,11:30,Eskişehirspor,Kayserispor,1,0,H,1,0,H
+TUR,2009-02-28,17:00,Fenerbahçe,Sivasspor,4,2,H,3,2,H
+TUR,2009-03-01,11:30,MKE Ankaragücü,Hacettepe,1,0,H,0,0,D
+TUR,2009-03-01,11:30,Bursaspor,Kocaelispor,1,1,D,1,0,H
+TUR,2009-03-01,13:15,Antalyaspor,Trabzonspor,0,1,A,0,0,D
+TUR,2009-03-01,17:00,Konyaspor,Galatasaray,0,1,A,0,1,A
+TUR,2009-03-06,18:00,Galatasaray,Bursaspor,2,1,H,2,0,H
+TUR,2009-03-07,11:30,İstanbul BBSK,Denizlispor,0,2,A,0,0,D
+TUR,2009-03-07,11:30,Gaziantepspor,Antalyaspor,1,1,D,0,0,D
+TUR,2009-03-07,13:15,Trabzonspor,Konyaspor,0,1,A,0,0,D
+TUR,2009-03-07,17:00,Hacettepe,Beşiktaş,2,3,A,1,2,A
+TUR,2009-03-08,11:30,Gençlerbirliği,MKE Ankaragücü,2,0,H,0,0,D
+TUR,2009-03-08,11:30,Kocaelispor,Eskişehirspor,1,0,H,0,0,D
+TUR,2009-03-08,13:15,Sivasspor,Ankaraspor,1,1,D,1,0,H
+TUR,2009-03-08,17:00,Kayserispor,Fenerbahçe,0,2,A,0,2,A
+TUR,2009-03-13,18:00,Fenerbahçe,Kocaelispor,1,1,D,1,0,H
+TUR,2009-03-14,11:30,Antalyaspor,İstanbul BBSK,1,0,H,0,0,D
+TUR,2009-03-14,11:30,Konyaspor,Gaziantepspor,2,3,A,1,2,A
+TUR,2009-03-14,13:15,MKE Ankaragücü,Sivasspor,0,2,A,0,0,D
+TUR,2009-03-14,17:00,Beşiktaş,Gençlerbirliği,3,0,H,0,0,D
+TUR,2009-03-15,11:30,Denizlispor,Hacettepe,0,0,D,0,0,D
+TUR,2009-03-15,11:30,Eskişehirspor,Bursaspor,1,2,A,0,2,A
+TUR,2009-03-15,13:15,Ankaraspor,Kayserispor,2,2,D,1,0,H
+TUR,2009-03-15,17:00,Trabzonspor,Galatasaray,2,2,D,1,1,D
+TUR,2009-03-20,18:00,Bursaspor,Fenerbahçe,2,1,H,0,1,A
+TUR,2009-03-21,11:30,İstanbul BBSK,Konyaspor,2,0,H,0,0,D
+TUR,2009-03-21,11:30,Hacettepe,Antalyaspor,1,2,A,1,1,D
+TUR,2009-03-21,11:30,Kayserispor,MKE Ankaragücü,2,0,H,0,0,D
+TUR,2009-03-21,11:30,Kocaelispor,Ankaraspor,3,1,H,3,0,H
+TUR,2009-03-21,13:15,Gaziantepspor,Trabzonspor,3,2,H,2,1,H
+TUR,2009-03-21,17:00,Sivasspor,Beşiktaş,1,1,D,0,0,D
+TUR,2009-03-22,11:30,Gençlerbirliği,Denizlispor,0,0,D,0,0,D
+TUR,2009-03-22,17:00,Galatasaray,Eskişehirspor,0,1,A,0,0,D
+TUR,2009-04-04,11:30,Ankaraspor,Bursaspor,0,2,A,0,2,A
+TUR,2009-04-04,11:30,Konyaspor,Hacettepe,2,0,H,2,0,H
+TUR,2009-04-04,14:15,Denizlispor,Sivasspor,0,2,A,0,2,A
+TUR,2009-04-04,18:00,Beşiktaş,Kayserispor,1,0,H,1,0,H
+TUR,2009-04-05,11:30,MKE Ankaragücü,Kocaelispor,4,0,H,2,0,H
+TUR,2009-04-05,11:30,Antalyaspor,Gençlerbirliği,4,2,H,1,1,D
+TUR,2009-04-05,13:15,Trabzonspor,İstanbul BBSK,0,0,D,0,0,D
+TUR,2009-04-05,17:00,Fenerbahçe,Eskişehirspor,2,1,H,0,0,D
+TUR,2009-04-06,18:00,Gaziantepspor,Galatasaray,0,1,A,0,1,A
+TUR,2009-04-10,18:00,Kocaelispor,Beşiktaş,1,3,A,1,0,H
+TUR,2009-04-11,11:30,Bursaspor,MKE Ankaragücü,2,0,H,0,0,D
+TUR,2009-04-11,11:30,İstanbul BBSK,Gaziantepspor,1,1,D,0,1,A
+TUR,2009-04-11,13:15,Sivasspor,Antalyaspor,1,0,H,0,0,D
+TUR,2009-04-11,17:00,Hacettepe,Trabzonspor,1,4,A,0,1,A
+TUR,2009-04-12,11:30,Eskişehirspor,Ankaraspor,2,0,H,1,0,H
+TUR,2009-04-12,11:30,Gençlerbirliği,Konyaspor,1,0,H,0,0,D
+TUR,2009-04-12,11:30,Kayserispor,Denizlispor,2,0,H,1,0,H
+TUR,2009-04-12,17:00,Galatasaray,Fenerbahçe,0,0,D,0,0,D
+TUR,2009-04-17,18:00,Trabzonspor,Gençlerbirliği,2,0,H,1,0,H
+TUR,2009-04-18,14:15,Konyaspor,Sivasspor,0,0,D,0,0,D
+TUR,2009-04-18,18:00,Ankaraspor,Fenerbahçe,1,0,H,0,0,D
+TUR,2009-04-19,12:00,MKE Ankaragücü,Eskişehirspor,3,2,H,1,1,D
+TUR,2009-04-19,12:00,Antalyaspor,Kayserispor,2,1,H,1,0,H
+TUR,2009-04-19,12:00,Denizlispor,Kocaelispor,2,1,H,0,0,D
+TUR,2009-04-19,12:00,Gaziantepspor,Hacettepe,0,0,D,0,0,D
+TUR,2009-04-19,14:15,İstanbul BBSK,Galatasaray,0,1,A,0,0,D
+TUR,2009-04-19,18:00,Beşiktaş,Bursaspor,0,0,D,0,0,D
+TUR,2009-04-25,12:00,Hacettepe,İstanbul BBSK,2,1,H,1,0,H
+TUR,2009-04-25,14:15,Sivasspor,Trabzonspor,3,0,H,2,0,H
+TUR,2009-04-25,18:00,Fenerbahçe,MKE Ankaragücü,1,2,A,0,1,A
+TUR,2009-04-26,12:00,Bursaspor,Denizlispor,2,0,H,2,0,H
+TUR,2009-04-26,12:00,Gençlerbirliği,Gaziantepspor,1,0,H,0,0,D
+TUR,2009-04-26,12:00,Kayserispor,Konyaspor,1,1,D,0,0,D
+TUR,2009-04-26,12:00,Kocaelispor,Antalyaspor,1,0,H,0,0,D
+TUR,2009-04-26,14:15,Eskişehirspor,Beşiktaş,0,2,A,0,0,D
+TUR,2009-04-26,18:00,Galatasaray,Ankaraspor,1,1,D,1,0,H
+TUR,2009-05-01,18:00,Hacettepe,Galatasaray,2,0,H,0,0,D
+TUR,2009-05-02,18:00,Trabzonspor,Kayserispor,4,1,H,2,1,H
+TUR,2009-05-03,13:00,MKE Ankaragücü,Ankaraspor,1,0,H,0,0,D
+TUR,2009-05-03,13:00,Antalyaspor,Bursaspor,2,3,A,0,1,A
+TUR,2009-05-03,13:00,İstanbul BBSK,Gençlerbirliği,3,1,H,0,0,D
+TUR,2009-05-03,13:00,Denizlispor,Eskişehirspor,3,2,H,1,1,D
+TUR,2009-05-03,13:00,Gaziantepspor,Sivasspor,2,1,H,0,1,A
+TUR,2009-05-03,13:00,Konyaspor,Kocaelispor,2,0,H,1,0,H
+TUR,2009-05-03,18:00,Beşiktaş,Fenerbahçe,1,2,A,0,1,A
+TUR,2009-05-09,17:00,Ankaraspor,Beşiktaş,1,4,A,0,1,A
+TUR,2009-05-09,17:00,Bursaspor,Konyaspor,3,0,H,0,0,D
+TUR,2009-05-09,17:00,Eskişehirspor,Antalyaspor,2,0,H,1,0,H
+TUR,2009-05-09,17:00,Fenerbahçe,Denizlispor,1,0,H,0,0,D
+TUR,2009-05-09,17:00,Galatasaray,MKE Ankaragücü,1,0,H,1,0,H
+TUR,2009-05-09,17:00,Gençlerbirliği,Hacettepe,3,1,H,2,0,H
+TUR,2009-05-09,17:00,Kocaelispor,Trabzonspor,1,3,A,0,2,A
+TUR,2009-05-09,17:00,Sivasspor,İstanbul BBSK,1,2,A,0,2,A
+TUR,2009-05-10,17:00,Kayserispor,Gaziantepspor,3,0,H,1,0,H
+TUR,2009-05-16,18:00,Hacettepe,Sivasspor,1,2,A,0,0,D
+TUR,2009-05-17,18:00,MKE Ankaragücü,Beşiktaş,1,3,A,1,2,A
+TUR,2009-05-17,18:00,Antalyaspor,Fenerbahçe,1,1,D,0,0,D
+TUR,2009-05-17,18:00,İstanbul BBSK,Kayserispor,1,0,H,1,0,H
+TUR,2009-05-17,18:00,Denizlispor,Ankaraspor,2,0,H,2,0,H
+TUR,2009-05-17,18:00,Galatasaray,Gençlerbirliği,2,1,H,0,0,D
+TUR,2009-05-17,18:00,Gaziantepspor,Kocaelispor,5,2,H,1,1,D
+TUR,2009-05-17,18:00,Konyaspor,Eskişehirspor,1,2,A,0,0,D
+TUR,2009-05-17,18:00,Trabzonspor,Bursaspor,1,0,H,0,0,D
+TUR,2009-05-23,18:00,Kayserispor,Hacettepe,1,0,H,1,0,H
+TUR,2009-05-24,18:00,MKE Ankaragücü,Denizlispor,3,0,H,1,0,H
+TUR,2009-05-24,18:00,Ankaraspor,Antalyaspor,0,0,D,0,0,D
+TUR,2009-05-24,18:00,Beşiktaş,Galatasaray,2,1,H,1,0,H
+TUR,2009-05-24,18:00,Bursaspor,Gaziantepspor,2,2,D,1,0,H
+TUR,2009-05-24,18:00,Eskişehirspor,Trabzonspor,2,5,A,0,2,A
+TUR,2009-05-24,18:00,Fenerbahçe,Konyaspor,4,2,H,4,0,H
+TUR,2009-05-24,18:00,Kocaelispor,İstanbul BBSK,2,3,A,1,0,H
+TUR,2009-05-24,18:00,Sivasspor,Gençlerbirliği,3,2,H,0,1,A
+TUR,2009-05-29,18:00,Gaziantepspor,Eskişehirspor,1,1,D,0,0,D
+TUR,2009-05-29,18:00,Hacettepe,Kocaelispor,0,4,A,0,0,D
+TUR,2009-05-30,18:00,Antalyaspor,MKE Ankaragücü,1,0,H,0,0,D
+TUR,2009-05-30,18:00,İstanbul BBSK,Bursaspor,0,1,A,0,1,A
+TUR,2009-05-30,18:00,Denizlispor,Beşiktaş,1,2,A,0,1,A
+TUR,2009-05-30,18:00,Galatasaray,Sivasspor,2,1,H,1,0,H
+TUR,2009-05-30,18:00,Gençlerbirliği,Kayserispor,0,4,A,0,3,A
+TUR,2009-05-30,18:00,Konyaspor,Ankaraspor,3,0,H,0,0,D
+TUR,2009-05-30,18:00,Trabzonspor,Fenerbahçe,1,2,A,1,1,D

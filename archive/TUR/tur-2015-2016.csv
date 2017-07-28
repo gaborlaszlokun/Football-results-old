@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,2015-08-14,20:00,Fenerbahçe,Eskişehirspor,2,0,H,2.0,0.0,H
+TUR,2015-08-15,19:00,Trabzonspor,Bursaspor,1,0,H,0.0,0.0,D
+TUR,2015-08-15,20:00,Medipol Başakşehir F.K,Antalyaspor,2,3,A,0.0,1.0,A
+TUR,2015-08-15,20:00,Sivasspor,Galatasaray,2,2,D,1.0,0.0,H
+TUR,2015-08-16,19:00,Torku Konyaspor,Akhisar Belediyespor,1,1,D,0.0,1.0,A
+TUR,2015-08-16,19:00,Osmanlıspor FK,Kayserispor,1,1,D,0.0,0.0,D
+TUR,2015-08-16,20:00,Gaziantepspor,Kasımpaşa SK,0,3,A,0.0,0.0,D
+TUR,2015-08-16,20:00,Mersin Idmanyurdu,Beşiktaş,2,5,A,1.0,2.0,A
+TUR,2015-08-17,20:00,Gençlerbirliği,Çaykur Rizespor,2,3,A,0.0,1.0,A
+TUR,2015-08-21,19:45,Kasımpaşa SK,Medipol Başakşehir F.K,1,0,H,1.0,0.0,H
+TUR,2015-08-22,17:30,Kayserispor,Torku Konyaspor,1,1,D,1.0,1.0,D
+TUR,2015-08-22,19:45,Akhisar Belediyespor,Mersin Idmanyurdu,2,0,H,0.0,0.0,D
+TUR,2015-08-22,19:45,Beşiktaş,Trabzonspor,1,2,A,0.0,0.0,D
+TUR,2015-08-23,17:30,Eskişehirspor,Sivasspor,4,2,H,2.0,0.0,H
+TUR,2015-08-23,17:30,Bursaspor,Gaziantepspor,0,1,A,0.0,0.0,D
+TUR,2015-08-23,19:45,Antalyaspor,Gençlerbirliği,3,1,H,0.0,1.0,A
+TUR,2015-08-23,19:45,Çaykur Rizespor,Fenerbahçe,1,1,D,0.0,1.0,A
+TUR,2015-08-24,19:45,Galatasaray,Osmanlıspor FK,1,2,A,1.0,1.0,D
+TUR,2015-08-28,19:15,Gaziantepspor,Beşiktaş,0,4,A,0.0,0.0,D
+TUR,2015-08-29,17:00,Gençlerbirliği,Kasımpaşa SK,1,0,H,0.0,0.0,D
+TUR,2015-08-29,17:00,Medipol Başakşehir F.K,Bursaspor,2,1,H,1.0,1.0,D
+TUR,2015-08-29,19:15,Torku Konyaspor,Galatasaray,1,4,A,1.0,2.0,A
+TUR,2015-08-29,19:15,Mersin Idmanyurdu,Kayserispor,1,2,A,0.0,0.0,D
+TUR,2015-08-30,17:00,Trabzonspor,Akhisar Belediyespor,2,2,D,1.0,0.0,H
+TUR,2015-08-30,17:00,Eskişehirspor,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2015-08-30,19:15,Sivasspor,Osmanlıspor FK,1,1,D,0.0,0.0,D
+TUR,2015-08-30,19:15,Fenerbahçe,Antalyaspor,2,1,H,1.0,0.0,H
+TUR,2015-09-12,15:00,Akhisar Belediyespor,Gaziantepspor,0,0,D,0.0,0.0,D
+TUR,2015-09-12,15:00,Bursaspor,Gençlerbirliği,3,2,H,1.0,0.0,H
+TUR,2015-09-12,18:15,Antalyaspor,Eskişehirspor,2,0,H,0.0,0.0,D
+TUR,2015-09-12,18:15,Galatasaray,Mersin Idmanyurdu,1,1,D,0.0,0.0,D
+TUR,2015-09-13,15:00,Beşiktaş,Medipol Başakşehir F.K,2,0,H,1.0,0.0,H
+TUR,2015-09-13,15:00,Çaykur Rizespor,Sivasspor,1,1,D,0.0,1.0,A
+TUR,2015-09-13,18:15,Osmanlıspor FK,Torku Konyaspor,1,2,A,1.0,0.0,H
+TUR,2015-09-13,19:00,Kasımpaşa SK,Fenerbahçe,0,1,A,0.0,1.0,A
+TUR,2015-09-14,19:00,Kayserispor,Trabzonspor,0,1,A,0.0,0.0,D
+TUR,2015-09-18,18:00,Medipol Başakşehir F.K,Akhisar Belediyespor,2,0,H,1.0,0.0,H
+TUR,2015-09-18,18:00,Mersin Idmanyurdu,Osmanlıspor FK,0,4,A,0.0,2.0,A
+TUR,2015-09-19,15:00,Çaykur Rizespor,Antalyaspor,5,1,H,3.0,1.0,H
+TUR,2015-09-19,15:00,Sivasspor,Torku Konyaspor,0,0,D,0.0,0.0,D
+TUR,2015-09-19,18:00,Eskişehirspor,Kasımpaşa SK,0,3,A,0.0,1.0,A
+TUR,2015-09-19,18:00,Trabzonspor,Galatasaray,0,1,A,0.0,0.0,D
+TUR,2015-09-20,15:00,Gaziantepspor,Kayserispor,1,0,H,0.0,0.0,D
+TUR,2015-09-20,18:00,Fenerbahçe,Bursaspor,2,1,H,1.0,0.0,H
+TUR,2015-09-21,18:00,Gençlerbirliği,Beşiktaş,1,1,D,1.0,0.0,H
+TUR,2015-09-26,14:00,Osmanlıspor FK,Trabzonspor,3,1,H,1.0,0.0,H
+TUR,2015-09-26,17:00,Galatasaray,Gaziantepspor,2,1,H,1.0,1.0,D
+TUR,2015-09-26,17:00,Akhisar Belediyespor,Gençlerbirliği,1,0,H,0.0,0.0,D
+TUR,2015-09-27,12:00,Torku Konyaspor,Mersin Idmanyurdu,2,0,H,1.0,0.0,H
+TUR,2015-09-27,15:00,Antalyaspor,Sivasspor,1,1,D,1.0,1.0,D
+TUR,2015-09-27,17:00,Beşiktaş,Fenerbahçe,3,2,H,2.0,1.0,H
+TUR,2015-09-28,17:00,Kasımpaşa SK,Çaykur Rizespor,1,1,D,1.0,0.0,H
+TUR,2015-09-28,17:00,Kayserispor,Medipol Başakşehir F.K,0,1,A,0.0,0.0,D
+TUR,2015-09-28,18:00,Bursaspor,Eskişehirspor,2,0,H,0.0,0.0,D
+TUR,2015-10-02,18:00,Trabzonspor,Torku Konyaspor,1,2,A,0.0,0.0,D
+TUR,2015-10-02,18:00,Sivasspor,Mersin Idmanyurdu,2,2,D,2.0,0.0,H
+TUR,2015-10-03,14:00,Gaziantepspor,Osmanlıspor FK,2,1,H,2.0,1.0,H
+TUR,2015-10-03,17:00,Gençlerbirliği,Kayserispor,2,0,H,0.0,0.0,D
+TUR,2015-10-03,17:00,Medipol Başakşehir F.K,Galatasaray,0,2,A,0.0,0.0,D
+TUR,2015-10-04,12:00,Çaykur Rizespor,Bursaspor,2,3,A,1.0,1.0,D
+TUR,2015-10-04,15:00,Eskişehirspor,Beşiktaş,1,2,A,0.0,1.0,A
+TUR,2015-10-04,17:00,Antalyaspor,Kasımpaşa SK,0,0,D,0.0,0.0,D
+TUR,2015-10-04,18:00,Fenerbahçe,Akhisar Belediyespor,2,2,D,2.0,0.0,H
+TUR,2015-10-17,14:00,Bursaspor,Antalyaspor,0,2,A,0.0,0.0,D
+TUR,2015-10-17,17:00,Galatasaray,Gençlerbirliği,4,1,H,0.0,1.0,A
+TUR,2015-10-17,17:00,Torku Konyaspor,Gaziantepspor,2,1,H,1.0,0.0,H
+TUR,2015-10-18,11:30,Kasımpaşa SK,Sivasspor,2,1,H,1.0,0.0,H
+TUR,2015-10-18,15:00,Kayserispor,Fenerbahçe,0,1,A,0.0,1.0,A
+TUR,2015-10-18,17:00,Akhisar Belediyespor,Eskişehirspor,1,0,H,0.0,0.0,D
+TUR,2015-10-18,18:00,Beşiktaş,Çaykur Rizespor,1,0,H,0.0,0.0,D
+TUR,2015-10-19,18:00,Osmanlıspor FK,Medipol Başakşehir F.K,0,3,A,0.0,0.0,D
+TUR,2015-10-19,18:00,Mersin Idmanyurdu,Trabzonspor,3,2,H,2.0,0.0,H
+TUR,2015-10-23,17:00,Çaykur Rizespor,Akhisar Belediyespor,0,2,A,0.0,2.0,A
+TUR,2015-10-23,18:00,Eskişehirspor,Kayserispor,1,3,A,1.0,2.0,A
+TUR,2015-10-24,14:00,Kasımpaşa SK,Bursaspor,0,1,A,0.0,0.0,D
+TUR,2015-10-24,14:00,Gençlerbirliği,Osmanlıspor FK,1,0,H,1.0,0.0,H
+TUR,2015-10-24,17:00,Gaziantepspor,Mersin Idmanyurdu,1,0,H,0.0,0.0,D
+TUR,2015-10-24,17:00,Sivasspor,Trabzonspor,0,2,A,0.0,1.0,A
+TUR,2015-10-25,11:00,Medipol Başakşehir F.K,Torku Konyaspor,4,0,H,1.0,0.0,H
+TUR,2015-10-25,16:00,Fenerbahçe,Galatasaray,1,1,D,1.0,0.0,H
+TUR,2015-10-26,17:00,Antalyaspor,Beşiktaş,1,5,A,1.0,2.0,A
+TUR,2015-10-28,16:00,Kayserispor,Çaykur Rizespor,0,0,D,0.0,0.0,D
+TUR,2015-10-28,16:00,Bursaspor,Sivasspor,1,0,H,0.0,0.0,D
+TUR,2015-10-28,18:45,Trabzonspor,Gaziantepspor,2,2,D,0.0,1.0,A
+TUR,2015-10-29,16:00,Mersin Idmanyurdu,Medipol Başakşehir F.K,1,1,D,1.0,0.0,H
+TUR,2015-10-29,16:00,Osmanlıspor FK,Fenerbahçe,0,1,A,0.0,0.0,D
+TUR,2015-10-29,18:45,Galatasaray,Eskişehirspor,4,0,H,3.0,0.0,H
+TUR,2015-10-30,16:00,Torku Konyaspor,Gençlerbirliği,0,0,D,0.0,0.0,D
+TUR,2015-10-30,16:00,Akhisar Belediyespor,Antalyaspor,2,1,H,1.0,0.0,H
+TUR,2015-10-30,18:45,Beşiktaş,Kasımpaşa SK,3,3,D,1.0,2.0,A
+TUR,2015-11-06,16:00,Eskişehirspor,Osmanlıspor FK,0,2,A,0.0,2.0,A
+TUR,2015-11-06,17:00,Gençlerbirliği,Mersin Idmanyurdu,1,1,D,1.0,0.0,H
+TUR,2015-11-07,11:00,Antalyaspor,Kayserispor,1,1,D,1.0,0.0,H
+TUR,2015-11-07,13:00,Medipol Başakşehir F.K,Trabzonspor,1,0,H,1.0,0.0,H
+TUR,2015-11-07,16:00,Kasımpaşa SK,Akhisar Belediyespor,2,1,H,0.0,1.0,A
+TUR,2015-11-07,16:00,Çaykur Rizespor,Galatasaray,4,3,H,2.0,1.0,H
+TUR,2015-11-08,12:00,Sivasspor,Gaziantepspor,3,0,H,0.0,0.0,D
+TUR,2015-11-08,15:00,Fenerbahçe,Torku Konyaspor,1,0,H,0.0,0.0,D
+TUR,2015-11-08,18:15,Bursaspor,Beşiktaş,0,1,A,0.0,0.0,D
+TUR,2015-11-21,11:30,Akhisar Belediyespor,Bursaspor,3,1,H,1.0,0.0,H
+TUR,2015-11-21,15:00,Mersin Idmanyurdu,Fenerbahçe,1,3,A,0.0,1.0,A
+TUR,2015-11-21,17:00,Kayserispor,Kasımpaşa SK,0,0,D,0.0,0.0,D
+TUR,2015-11-21,18:15,Galatasaray,Antalyaspor,3,3,D,1.0,0.0,H
+TUR,2015-11-22,12:00,Torku Konyaspor,Eskişehirspor,3,2,H,0.0,1.0,A
+TUR,2015-11-22,12:00,Osmanlıspor FK,Çaykur Rizespor,0,1,A,0.0,0.0,D
+TUR,2015-11-22,14:30,Trabzonspor,Gençlerbirliği,1,0,H,0.0,0.0,D
+TUR,2015-11-22,17:00,Beşiktaş,Sivasspor,2,0,H,1.0,0.0,H
+TUR,2015-11-23,18:00,Gaziantepspor,Medipol Başakşehir F.K,0,1,A,0.0,0.0,D
+TUR,2015-11-27,17:00,Antalyaspor,Osmanlıspor FK,1,1,D,0.0,0.0,D
+TUR,2015-11-27,17:00,Çaykur Rizespor,Torku Konyaspor,0,0,D,0.0,0.0,D
+TUR,2015-11-27,17:00,Bursaspor,Kayserispor,1,2,A,1.0,1.0,D
+TUR,2015-11-28,14:00,Sivasspor,Medipol Başakşehir F.K,2,2,D,2.0,1.0,H
+TUR,2015-11-28,17:00,Eskişehirspor,Mersin Idmanyurdu,3,2,H,2.0,0.0,H
+TUR,2015-11-29,12:00,Gençlerbirliği,Gaziantepspor,2,2,D,2.0,0.0,H
+TUR,2015-11-29,15:00,Beşiktaş,Akhisar Belediyespor,0,2,A,0.0,2.0,A
+TUR,2015-11-29,18:15,Kasımpaşa SK,Galatasaray,2,2,D,1.0,1.0,D
+TUR,2015-11-30,18:00,Fenerbahçe,Trabzonspor,2,0,H,1.0,0.0,H
+TUR,2015-12-04,18:00,Galatasaray,Bursaspor,3,0,H,0.0,0.0,D
+TUR,2015-12-05,11:30,Osmanlıspor FK,Kasımpaşa SK,0,1,A,0.0,0.0,D
+TUR,2015-12-05,14:00,Torku Konyaspor,Antalyaspor,3,2,H,2.0,0.0,H
+TUR,2015-12-05,17:00,Kayserispor,Beşiktaş,1,2,A,1.0,2.0,A
+TUR,2015-12-06,14:00,Medipol Başakşehir F.K,Gençlerbirliği,2,0,H,0.0,0.0,D
+TUR,2015-12-06,17:00,Gaziantepspor,Fenerbahçe,2,2,D,1.0,0.0,H
+TUR,2015-12-06,17:00,Mersin Idmanyurdu,Çaykur Rizespor,3,0,H,1.0,0.0,H
+TUR,2015-12-07,16:00,Akhisar Belediyespor,Sivasspor,1,0,H,0.0,0.0,D
+TUR,2015-12-07,18:00,Trabzonspor,Eskişehirspor,3,1,H,1.0,0.0,H
+TUR,2015-12-11,17:00,Bursaspor,Osmanlıspor FK,0,4,A,0.0,3.0,A
+TUR,2015-12-12,11:30,Kasımpaşa SK,Torku Konyaspor,2,1,H,2.0,0.0,H
+TUR,2015-12-12,14:00,Eskişehirspor,Gaziantepspor,1,2,A,0.0,1.0,A
+TUR,2015-12-12,17:00,Çaykur Rizespor,Trabzonspor,3,0,H,2.0,0.0,H
+TUR,2015-12-12,17:00,Antalyaspor,Mersin Idmanyurdu,3,2,H,0.0,2.0,A
+TUR,2015-12-13,11:00,Kayserispor,Akhisar Belediyespor,3,2,H,2.0,1.0,H
+TUR,2015-12-13,12:00,Gençlerbirliği,Sivasspor,0,1,A,0.0,1.0,A
+TUR,2015-12-13,17:00,Fenerbahçe,Medipol Başakşehir F.K,1,0,H,0.0,0.0,D
+TUR,2015-12-14,18:00,Beşiktaş,Galatasaray,2,1,H,0.0,0.0,D
+TUR,2015-12-19,11:30,Gaziantepspor,Çaykur Rizespor,2,0,H,2.0,0.0,H
+TUR,2015-12-19,14:00,Torku Konyaspor,Bursaspor,1,0,H,1.0,0.0,H
+TUR,2015-12-19,17:00,Trabzonspor,Antalyaspor,3,0,H,1.0,0.0,H
+TUR,2015-12-19,17:00,Mersin Idmanyurdu,Kasımpaşa SK,1,2,A,1.0,1.0,D
+TUR,2015-12-20,11:00,Sivasspor,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2015-12-20,14:00,Galatasaray,Akhisar Belediyespor,3,2,H,2.0,0.0,H
+TUR,2015-12-20,17:00,Gençlerbirliği,Fenerbahçe,0,1,A,0.0,1.0,A
+TUR,2015-12-20,17:00,Medipol Başakşehir F.K,Eskişehirspor,2,1,H,0.0,1.0,A
+TUR,2015-12-21,18:00,Osmanlıspor FK,Beşiktaş,2,3,A,2.0,1.0,H
+TUR,2015-12-26,12:00,Çaykur Rizespor,Medipol Başakşehir F.K,2,1,H,0.0,1.0,A
+TUR,2015-12-26,14:30,Antalyaspor,Gaziantepspor,0,0,D,0.0,0.0,D
+TUR,2015-12-26,17:00,Kasımpaşa SK,Trabzonspor,1,1,D,1.0,1.0,D
+TUR,2015-12-27,12:00,Bursaspor,Mersin Idmanyurdu,2,1,H,0.0,1.0,A
+TUR,2015-12-27,14:00,Kayserispor,Galatasaray,1,1,D,1.0,0.0,H
+TUR,2015-12-27,14:30,Akhisar Belediyespor,Osmanlıspor FK,0,0,D,0.0,0.0,D
+TUR,2015-12-27,17:00,Beşiktaş,Torku Konyaspor,4,0,H,0.0,0.0,D
+TUR,2015-12-28,17:00,Eskişehirspor,Gençlerbirliği,2,0,H,2.0,0.0,H
+TUR,2015-12-28,18:00,Fenerbahçe,Sivasspor,2,1,H,1.0,1.0,D
+TUR,2016-01-16,11:30,Kasımpaşa SK,Gaziantepspor,1,2,A,1.0,1.0,D
+TUR,2016-01-16,11:30,Kayserispor,Osmanlıspor FK,1,0,H,1.0,0.0,H
+TUR,2016-01-16,14:00,Akhisar Belediyespor,Torku Konyaspor,0,2,A,0.0,2.0,A
+TUR,2016-01-16,17:00,Galatasaray,Sivasspor,3,1,H,2.0,0.0,H
+TUR,2016-01-17,11:30,Antalyaspor,Medipol Başakşehir F.K,1,2,A,1.0,1.0,D
+TUR,2016-01-17,11:30,Çaykur Rizespor,Gençlerbirliği,2,3,A,1.0,2.0,A
+TUR,2016-01-17,14:00,Bursaspor,Trabzonspor,4,2,H,2.0,2.0,D
+TUR,2016-01-18,17:00,Eskişehirspor,Fenerbahçe,0,3,A,0.0,1.0,A
+TUR,2016-01-23,11:30,Torku Konyaspor,Kayserispor,1,0,H,0.0,0.0,D
+TUR,2016-01-23,14:00,Mersin Idmanyurdu,Akhisar Belediyespor,0,0,D,0.0,0.0,D
+TUR,2016-01-23,17:00,Osmanlıspor FK,Galatasaray,3,2,H,2.0,2.0,D
+TUR,2016-01-24,11:00,Gençlerbirliği,Antalyaspor,1,0,H,0.0,0.0,D
+TUR,2016-01-24,11:00,Sivasspor,Eskişehirspor,1,2,A,0.0,1.0,A
+TUR,2016-01-24,14:00,Fenerbahçe,Çaykur Rizespor,2,1,H,2.0,0.0,H
+TUR,2016-01-24,14:00,Gaziantepspor,Bursaspor,2,3,A,1.0,0.0,H
+TUR,2016-01-25,18:00,Medipol Başakşehir F.K,Kasımpaşa SK,1,1,D,0.0,1.0,A
+TUR,2016-02-05,17:00,Osmanlıspor FK,Sivasspor,4,0,H,2.0,0.0,H
+TUR,2016-02-05,18:00,Antalyaspor,Fenerbahçe,4,2,H,1.0,0.0,H
+TUR,2016-02-06,11:30,Kayserispor,Mersin Idmanyurdu,0,1,A,0.0,1.0,A
+TUR,2016-02-06,14:00,Bursaspor,Medipol Başakşehir F.K,3,3,D,1.0,0.0,H
+TUR,2016-02-06,17:00,Galatasaray,Torku Konyaspor,0,0,D,0.0,0.0,D
+TUR,2016-02-07,11:30,Çaykur Rizespor,Eskişehirspor,1,1,D,0.0,1.0,A
+TUR,2016-02-07,13:00,Akhisar Belediyespor,Trabzonspor,2,1,H,1.0,1.0,D
+TUR,2016-02-07,17:00,Beşiktaş,Gaziantepspor,4,0,H,2.0,0.0,H
+TUR,2016-02-08,18:00,Kasımpaşa SK,Gençlerbirliği,0,1,A,0.0,0.0,D
+TUR,2016-02-12,18:00,Fenerbahçe,Kasımpaşa SK,3,1,H,2.0,0.0,H
+TUR,2016-02-13,11:30,Gençlerbirliği,Bursaspor,2,0,H,0.0,0.0,D
+TUR,2016-02-13,14:00,Torku Konyaspor,Osmanlıspor FK,1,1,D,0.0,0.0,D
+TUR,2016-02-13,17:00,Mersin Idmanyurdu,Galatasaray,2,1,H,1.0,0.0,H
+TUR,2016-02-14,11:30,Gaziantepspor,Akhisar Belediyespor,0,1,A,0.0,0.0,D
+TUR,2016-02-14,11:30,Sivasspor,Çaykur Rizespor,2,1,H,1.0,0.0,H
+TUR,2016-02-14,14:00,Eskişehirspor,Antalyaspor,3,2,H,0.0,1.0,A
+TUR,2016-02-14,17:00,Medipol Başakşehir F.K,Beşiktaş,2,2,D,1.0,0.0,H
+TUR,2016-02-15,18:00,Trabzonspor,Kayserispor,2,1,H,2.0,0.0,H
+TUR,2016-02-17,17:30,Beşiktaş,Mersin Idmanyurdu,1,0,H,0.0,0.0,D
+TUR,2016-02-19,18:00,Torku Konyaspor,Sivasspor,2,1,H,1.0,0.0,H
+TUR,2016-02-20,11:30,Kasımpaşa SK,Eskişehirspor,2,1,H,2.0,0.0,H
+TUR,2016-02-20,14:00,Antalyaspor,Çaykur Rizespor,2,1,H,1.0,1.0,D
+TUR,2016-02-20,17:00,Bursaspor,Fenerbahçe,0,0,D,0.0,0.0,D
+TUR,2016-02-21,11:00,Kayserispor,Gaziantepspor,2,2,D,1.0,0.0,H
+TUR,2016-02-21,11:00,Osmanlıspor FK,Mersin Idmanyurdu,3,1,H,1.0,1.0,D
+TUR,2016-02-21,13:30,Akhisar Belediyespor,Medipol Başakşehir F.K,0,0,D,0.0,0.0,D
+TUR,2016-02-21,17:00,Galatasaray,Trabzonspor,2,1,H,0.0,1.0,A
+TUR,2016-02-22,18:00,Beşiktaş,Gençlerbirliği,1,0,H,0.0,0.0,D
+TUR,2016-02-26,18:00,Medipol Başakşehir F.K,Kayserispor,1,0,H,0.0,0.0,D
+TUR,2016-02-27,11:30,Çaykur Rizespor,Kasımpaşa SK,2,0,H,1.0,0.0,H
+TUR,2016-02-27,11:30,Mersin Idmanyurdu,Torku Konyaspor,0,2,A,0.0,0.0,D
+TUR,2016-02-27,14:00,Eskişehirspor,Bursaspor,0,1,A,0.0,1.0,A
+TUR,2016-02-27,17:00,Trabzonspor,Osmanlıspor FK,1,2,A,0.0,1.0,A
+TUR,2016-02-28,11:30,Sivasspor,Antalyaspor,0,0,D,0.0,0.0,D
+TUR,2016-02-28,14:00,Gençlerbirliği,Akhisar Belediyespor,3,1,H,0.0,1.0,A
+TUR,2016-02-28,17:00,Gaziantepspor,Galatasaray,2,0,H,1.0,0.0,H
+TUR,2016-02-29,18:00,Fenerbahçe,Beşiktaş,2,0,H,1.0,0.0,H
+TUR,2016-03-04,18:00,Mersin Idmanyurdu,Sivasspor,1,0,H,0.0,0.0,D
+TUR,2016-03-05,11:30,Kayserispor,Gençlerbirliği,0,2,A,0.0,2.0,A
+TUR,2016-03-05,14:00,Bursaspor,Çaykur Rizespor,1,0,H,1.0,0.0,H
+TUR,2016-03-05,17:00,Osmanlıspor FK,Gaziantepspor,1,1,D,0.0,0.0,D
+TUR,2016-03-06,11:30,Kasımpaşa SK,Antalyaspor,2,1,H,0.0,0.0,D
+TUR,2016-03-06,14:00,Galatasaray,Medipol Başakşehir F.K,3,3,D,0.0,2.0,A
+TUR,2016-03-06,17:00,Akhisar Belediyespor,Fenerbahçe,0,3,A,0.0,1.0,A
+TUR,2016-03-06,17:00,Torku Konyaspor,Trabzonspor,2,0,H,1.0,0.0,H
+TUR,2016-03-07,18:00,Beşiktaş,Eskişehirspor,3,1,H,2.0,0.0,H
+TUR,2016-03-11,18:00,Trabzonspor,Mersin Idmanyurdu,1,0,H,0.0,0.0,D
+TUR,2016-03-12,11:00,Gaziantepspor,Torku Konyaspor,0,1,A,0.0,1.0,A
+TUR,2016-03-12,13:30,Medipol Başakşehir F.K,Osmanlıspor FK,2,3,A,1.0,2.0,A
+TUR,2016-03-12,17:00,Çaykur Rizespor,Beşiktaş,1,2,A,0.0,2.0,A
+TUR,2016-03-13,11:30,Eskişehirspor,Akhisar Belediyespor,3,3,D,2.0,1.0,H
+TUR,2016-03-13,14:00,Gençlerbirliği,Galatasaray,1,1,D,1.0,0.0,H
+TUR,2016-03-13,17:00,Fenerbahçe,Kayserispor,1,0,H,0.0,0.0,D
+TUR,2016-03-14,17:00,Sivasspor,Kasımpaşa SK,1,0,H,1.0,0.0,H
+TUR,2016-03-14,18:00,Antalyaspor,Bursaspor,3,0,H,0.0,0.0,D
+TUR,2016-03-15,17:30,Trabzonspor,Beşiktaş,0,2,A,0.0,0.0,D
+TUR,2016-03-18,17:00,Kayserispor,Eskişehirspor,0,0,D,0.0,0.0,D
+TUR,2016-03-18,18:00,Akhisar Belediyespor,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2016-03-19,11:30,Osmanlıspor FK,Gençlerbirliği,3,1,H,1.0,1.0,D
+TUR,2016-03-19,14:00,Trabzonspor,Sivasspor,1,0,H,0.0,0.0,D
+TUR,2016-03-19,17:00,Beşiktaş,Antalyaspor,1,0,H,1.0,0.0,H
+TUR,2016-03-20,11:30,Torku Konyaspor,Medipol Başakşehir F.K,1,1,D,1.0,0.0,H
+TUR,2016-03-20,11:30,Mersin Idmanyurdu,Gaziantepspor,0,0,D,0.0,0.0,D
+TUR,2016-03-20,14:00,Bursaspor,Kasımpaşa SK,4,1,H,3.0,0.0,H
+TUR,2016-04-02,11:30,Gençlerbirliği,Torku Konyaspor,0,1,A,0.0,0.0,D
+TUR,2016-04-02,14:00,Gaziantepspor,Trabzonspor,0,1,A,0.0,0.0,D
+TUR,2016-04-02,17:00,Eskişehirspor,Galatasaray,4,3,H,1.0,1.0,D
+TUR,2016-04-03,11:30,Sivasspor,Bursaspor,1,2,A,1.0,1.0,D
+TUR,2016-04-03,11:30,Medipol Başakşehir F.K,Mersin Idmanyurdu,3,0,H,2.0,0.0,H
+TUR,2016-04-03,14:00,Antalyaspor,Akhisar Belediyespor,2,2,D,0.0,1.0,A
+TUR,2016-04-03,17:00,Fenerbahçe,Osmanlıspor FK,0,0,D,0.0,0.0,D
+TUR,2016-04-04,17:00,Çaykur Rizespor,Kayserispor,0,0,D,0.0,0.0,D
+TUR,2016-04-04,18:00,Kasımpaşa SK,Beşiktaş,2,1,H,1.0,1.0,D
+TUR,2016-04-08,18:00,Gaziantepspor,Sivasspor,0,1,A,0.0,1.0,A
+TUR,2016-04-09,11:00,Osmanlıspor FK,Eskişehirspor,0,0,D,0.0,0.0,D
+TUR,2016-04-09,15:00,Galatasaray,Çaykur Rizespor,1,1,D,0.0,0.0,D
+TUR,2016-04-09,18:00,Torku Konyaspor,Fenerbahçe,2,1,H,1.0,1.0,D
+TUR,2016-04-10,11:30,Mersin Idmanyurdu,Gençlerbirliği,1,3,A,0.0,2.0,A
+TUR,2016-04-10,14:00,Kayserispor,Antalyaspor,0,0,D,0.0,0.0,D
+TUR,2016-04-10,17:00,Trabzonspor,Medipol Başakşehir F.K,1,1,D,1.0,1.0,D
+TUR,2016-04-11,17:00,Akhisar Belediyespor,Kasımpaşa SK,0,1,A,0.0,0.0,D
+TUR,2016-04-11,18:00,Beşiktaş,Bursaspor,3,2,H,1.0,1.0,D
+TUR,2016-04-13,17:30,Galatasaray,Fenerbahçe,0,0,D,0.0,0.0,D
+TUR,2016-04-16,11:00,Eskişehirspor,Torku Konyaspor,1,2,A,0.0,1.0,A
+TUR,2016-04-16,11:00,Çaykur Rizespor,Osmanlıspor FK,0,1,A,0.0,0.0,D
+TUR,2016-04-16,14:00,Antalyaspor,Galatasaray,4,2,H,1.0,1.0,D
+TUR,2016-04-16,17:00,Sivasspor,Beşiktaş,1,2,A,0.0,0.0,D
+TUR,2016-04-17,11:30,Kasımpaşa SK,Kayserispor,1,2,A,1.0,1.0,D
+TUR,2016-04-17,11:30,Medipol Başakşehir F.K,Gaziantepspor,4,1,H,3.0,1.0,H
+TUR,2016-04-17,14:00,Bursaspor,Akhisar Belediyespor,0,2,A,0.0,0.0,D
+TUR,2016-04-17,17:00,Fenerbahçe,Mersin Idmanyurdu,4,1,H,2.0,1.0,H
+TUR,2016-04-18,18:00,Gençlerbirliği,Trabzonspor,3,1,H,2.0,0.0,H
+TUR,2016-04-22,18:00,Kayserispor,Bursaspor,2,1,H,2.0,1.0,H
+TUR,2016-04-23,11:30,Osmanlıspor FK,Antalyaspor,3,0,H,1.0,0.0,H
+TUR,2016-04-23,14:00,Medipol Başakşehir F.K,Sivasspor,2,2,D,1.0,2.0,A
+TUR,2016-04-23,17:00,Akhisar Belediyespor,Beşiktaş,3,3,D,1.0,1.0,D
+TUR,2016-04-24,11:30,Atiker Konyaspor,Çaykur Rizespor,3,1,H,1.0,1.0,D
+TUR,2016-04-24,11:30,Mersin Idmanyurdu,Eskişehirspor,1,2,A,1.0,0.0,H
+TUR,2016-04-24,14:00,Galatasaray,Kasımpaşa SK,4,1,H,1.0,1.0,D
+TUR,2016-04-24,18:00,Trabzonspor,Fenerbahçe,0,4,A,,,
+TUR,2016-04-25,18:00,Gaziantepspor,Gençlerbirliği,1,3,A,0.0,1.0,A
+TUR,2016-04-29,17:00,Çaykur Rizespor,Mersin Idmanyurdu,2,0,H,1.0,0.0,H
+TUR,2016-04-29,18:00,Bursaspor,Galatasaray,1,1,D,1.0,0.0,H
+TUR,2016-04-30,11:30,Gençlerbirliği,Medipol Başakşehir F.K,0,0,D,0.0,0.0,D
+TUR,2016-04-30,14:00,Eskişehirspor,Trabzonspor,1,0,H,1.0,0.0,H
+TUR,2016-04-30,17:00,Beşiktaş,Kayserispor,4,0,H,3.0,0.0,H
+TUR,2016-05-01,14:00,Sivasspor,Akhisar Belediyespor,1,1,D,0.0,0.0,D
+TUR,2016-05-01,17:00,Fenerbahçe,Gaziantepspor,3,0,H,1.0,0.0,H
+TUR,2016-05-01,17:00,Antalyaspor,Atiker Konyaspor,1,0,H,0.0,0.0,D
+TUR,2016-05-02,18:00,Kasımpaşa SK,Osmanlıspor FK,1,1,D,1.0,1.0,D
+TUR,2016-05-07,11:30,Sivasspor,Gençlerbirliği,2,1,H,0.0,1.0,A
+TUR,2016-05-07,14:00,Gaziantepspor,Eskişehirspor,1,1,D,1.0,0.0,H
+TUR,2016-05-07,17:00,Osmanlıspor FK,Bursaspor,3,3,D,0.0,2.0,A
+TUR,2016-05-08,11:00,Akhisar Belediyespor,Kayserispor,1,1,D,1.0,0.0,H
+TUR,2016-05-08,13:30,Trabzonspor,Çaykur Rizespor,6,0,H,4.0,0.0,H
+TUR,2016-05-08,17:00,Mersin Idmanyurdu,Antalyaspor,0,1,A,0.0,1.0,A
+TUR,2016-05-08,18:00,Galatasaray,Beşiktaş,0,1,A,0.0,0.0,D
+TUR,2016-05-09,18:00,Medipol Başakşehir F.K,Fenerbahçe,2,1,H,0.0,0.0,D
+TUR,2016-05-09,18:00,Atiker Konyaspor,Kasımpaşa SK,2,0,H,1.0,0.0,H
+TUR,2016-05-13,18:00,Antalyaspor,Trabzonspor,7,0,H,3.0,0.0,H
+TUR,2016-05-14,14:00,Bursaspor,Atiker Konyaspor,1,1,D,1.0,1.0,D
+TUR,2016-05-14,17:00,Çaykur Rizespor,Gaziantepspor,1,0,H,1.0,0.0,H
+TUR,2016-05-14,17:00,Kayserispor,Sivasspor,1,1,D,1.0,0.0,H
+TUR,2016-05-14,17:00,Eskişehirspor,Medipol Başakşehir F.K,1,2,A,0.0,0.0,D
+TUR,2016-05-15,17:00,Akhisar Belediyespor,Galatasaray,1,2,A,0.0,1.0,A
+TUR,2016-05-15,17:00,Fenerbahçe,Gençlerbirliği,2,1,H,1.0,0.0,H
+TUR,2016-05-15,17:00,Kasımpaşa SK,Mersin Idmanyurdu,7,0,H,3.0,0.0,H
+TUR,2016-05-15,17:00,Beşiktaş,Osmanlıspor FK,3,1,H,2.0,0.0,H
+TUR,2016-05-18,17:00,Atiker Konyaspor,Beşiktaş,2,1,H,2.0,1.0,H
+TUR,2016-05-18,18:00,Mersin Idmanyurdu,Bursaspor,2,5,A,1.0,2.0,A
+TUR,2016-05-18,18:00,Medipol Başakşehir F.K,Çaykur Rizespor,1,0,H,0.0,0.0,D
+TUR,2016-05-19,18:00,Sivasspor,Fenerbahçe,2,2,D,2.0,1.0,H
+TUR,2016-05-19,18:00,Trabzonspor,Kasımpaşa SK,0,6,A,0.0,3.0,A
+TUR,2016-05-19,18:00,Gençlerbirliği,Eskişehirspor,3,1,H,2.0,1.0,H
+TUR,2016-05-19,18:00,Osmanlıspor FK,Akhisar Belediyespor,1,0,H,0.0,0.0,D
+TUR,2016-05-19,18:00,Gaziantepspor,Antalyaspor,2,0,H,1.0,0.0,H
+TUR,2016-05-19,18:00,Galatasaray,Kayserispor,6,0,H,3.0,0.0,H

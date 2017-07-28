@@ -1,0 +1,135 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BOL,2009-02-07,19:15,Club Aurora,La Paz FC,1,1,D,0,0,D
+BOL,2009-02-08,19:30,Club Bolívar,Club San José,2,1,H,1,0,H
+BOL,2009-02-08,19:30,Universitario Sucre,The Strongest,3,0,H,2,0,H
+BOL,2009-02-08,19:30,Nacional Potosí,Club Blooming,2,0,H,2,0,H
+BOL,2009-02-08,20:00,Jorge Wilstermann,Real Mamoré,2,0,H,2,0,H
+BOL,2009-02-08,22:00,Oriente Petrolero,Real Potosí,2,3,A,1,2,A
+BOL,2009-02-14,19:30,The Strongest,Nacional Potosí,0,1,A,0,0,D
+BOL,2009-02-15,19:30,Club Bolívar,Universitario Sucre,0,1,A,0,0,D
+BOL,2009-02-15,19:30,Real Potosí,Club San José,2,1,H,0,1,A
+BOL,2009-02-15,19:30,Club Bolívar,Universitario Sucre,0,1,A,0,0,D
+BOL,2009-02-15,20:00,Club Aurora,Jorge Wilstermann,3,0,H,1,0,H
+BOL,2009-02-15,20:00,Real Mamoré,Oriente Petrolero,1,1,D,1,1,D
+BOL,2009-02-15,22:00,Club Blooming,La Paz FC,3,5,A,2,3,A
+BOL,2009-02-28,19:30,Club Bolívar,Real Potosí,2,3,A,1,1,D
+BOL,2009-02-28,22:00,Oriente Petrolero,Club Aurora,1,1,D,1,0,H
+BOL,2009-02-28,22:00,Oriente Petrolero,Club Aurora,1,1,D,1,0,H
+BOL,2009-03-01,19:30,Club San José,Real Mamoré,4,2,H,0,1,A
+BOL,2009-03-01,19:30,La Paz FC,The Strongest,0,3,A,0,1,A
+BOL,2009-03-01,19:30,Nacional Potosí,Universitario Sucre,2,1,H,2,1,H
+BOL,2009-03-01,22:00,Jorge Wilstermann,Club Blooming,0,0,D,0,0,D
+BOL,2009-03-07,19:30,Nacional Potosí,Club Bolívar,2,2,D,1,0,H
+BOL,2009-03-08,19:30,Universitario Sucre,La Paz FC,1,1,D,1,0,H
+BOL,2009-03-08,19:30,The Strongest,Jorge Wilstermann,1,1,D,1,0,H
+BOL,2009-03-08,20:00,Club Aurora,Club San José,4,1,H,0,1,A
+BOL,2009-03-08,20:00,Real Mamoré,Real Potosí,2,1,H,2,0,H
+BOL,2009-03-08,22:00,Club Blooming,Oriente Petrolero,2,0,H,0,0,D
+BOL,2009-03-15,19:30,La Paz FC,Nacional Potosí,2,1,H,1,1,D
+BOL,2009-03-15,19:30,Real Potosí,Club Aurora,2,1,H,1,1,D
+BOL,2009-03-15,19:30,Club San José,Club Blooming,2,1,H,1,1,D
+BOL,2009-03-15,20:00,Jorge Wilstermann,Universitario Sucre,2,2,D,0,0,D
+BOL,2009-03-15,22:00,Oriente Petrolero,The Strongest,2,1,H,1,0,H
+BOL,2009-03-18,00:00,Club Bolívar,Real Mamoré,2,0,H,1,0,H
+BOL,2009-03-21,19:30,La Paz FC,Club Bolívar,1,3,A,0,1,A
+BOL,2009-03-21,19:30,Club Aurora,Real Mamoré,2,0,H,2,0,H
+BOL,2009-03-22,19:30,The Strongest,Club San José,2,1,H,1,1,D
+BOL,2009-03-22,19:30,Nacional Potosí,Jorge Wilstermann,3,3,D,2,0,H
+BOL,2009-03-22,22:00,Universitario Sucre,Oriente Petrolero,4,1,H,1,0,H
+BOL,2009-03-22,22:00,Club Blooming,Real Potosí,3,1,H,1,0,H
+BOL,2009-04-04,21:00,Club Aurora,Club Bolívar,1,1,D,0,0,D
+BOL,2009-04-05,20:30,Real Potosí,The Strongest,2,1,H,2,1,H
+BOL,2009-04-05,20:30,Club San José,Universitario Sucre,3,0,H,2,0,H
+BOL,2009-04-05,21:00,Real Mamoré,Club Blooming,0,0,D,0,0,D
+BOL,2009-04-05,21:00,Jorge Wilstermann,La Paz FC,1,2,A,0,0,D
+BOL,2009-04-05,23:00,Oriente Petrolero,Nacional Potosí,3,0,H,0,0,D
+BOL,2009-04-11,01:00,Universitario Sucre,Real Potosí,4,2,H,2,0,H
+BOL,2009-04-11,20:30,The Strongest,Real Mamoré,6,0,H,4,0,H
+BOL,2009-04-12,20:30,La Paz FC,Oriente Petrolero,1,0,H,1,0,H
+BOL,2009-04-12,20:30,Nacional Potosí,Club San José,2,1,H,0,0,D
+BOL,2009-04-12,21:00,Jorge Wilstermann,Club Bolívar,0,2,A,0,1,A
+BOL,2009-04-12,23:00,Club Blooming,Club Aurora,3,2,H,0,1,A
+BOL,2009-04-18,20:30,La Paz FC,Club San José,3,2,H,3,1,H
+BOL,2009-04-18,23:00,Oriente Petrolero,Jorge Wilstermann,2,1,H,2,0,H
+BOL,2009-04-19,20:30,Real Potosí,Nacional Potosí,1,1,D,1,0,H
+BOL,2009-04-19,20:30,Club Bolívar,Club Blooming,0,0,D,0,0,D
+BOL,2009-04-19,21:00,Real Mamoré,Universitario Sucre,1,1,D,0,0,D
+BOL,2009-04-19,21:00,Club Aurora,The Strongest,3,1,H,1,0,H
+BOL,2009-04-26,19:00,La Paz FC,Real Potosí,1,1,D,0,0,D
+BOL,2009-04-26,20:30,Universitario Sucre,Club Aurora,2,1,H,1,1,D
+BOL,2009-04-26,21:00,Jorge Wilstermann,Club San José,0,3,A,0,1,A
+BOL,2009-04-26,21:00,The Strongest,Club Blooming,3,2,H,1,1,D
+BOL,2009-04-26,21:30,Nacional Potosí,Real Mamoré,2,0,H,1,0,H
+BOL,2009-04-26,23:00,Oriente Petrolero,Club Bolívar,1,0,H,0,0,D
+BOL,2009-05-02,20:30,Real Potosí,Jorge Wilstermann,4,0,H,2,0,H
+BOL,2009-05-03,20:30,Club Bolívar,The Strongest,2,2,D,2,1,H
+BOL,2009-05-03,20:30,Club San José,Oriente Petrolero,6,1,H,1,0,H
+BOL,2009-05-03,21:00,Club Aurora,Nacional Potosí,0,3,A,0,1,A
+BOL,2009-05-03,21:00,Real Mamoré,La Paz FC,1,3,A,0,1,A
+BOL,2009-05-03,23:00,Club Blooming,Universitario Sucre,2,1,H,1,0,H
+BOL,2009-05-10,20:30,La Paz FC,Club Aurora,2,3,A,0,1,A
+BOL,2009-05-10,20:30,Real Potosí,Oriente Petrolero,0,0,D,0,0,D
+BOL,2009-05-10,20:30,Club San José,Club Bolívar,2,2,D,2,1,H
+BOL,2009-05-10,20:30,The Strongest,Universitario Sucre,2,1,H,0,1,A
+BOL,2009-05-10,21:00,Real Mamoré,Jorge Wilstermann,2,1,H,0,0,D
+BOL,2009-05-10,23:00,Club Blooming,Nacional Potosí,2,0,H,0,0,D
+BOL,2009-05-13,23:00,La Paz FC,Club Blooming,2,0,H,2,0,H
+BOL,2009-05-14,01:00,Club San José,Real Potosí,5,3,H,3,2,H
+BOL,2009-05-14,01:00,Nacional Potosí,The Strongest,3,0,H,1,0,H
+BOL,2009-05-14,01:00,Universitario Sucre,Club Bolívar,2,1,H,0,1,A
+BOL,2009-05-15,01:00,Jorge Wilstermann,Club Aurora,0,2,A,0,0,D
+BOL,2009-05-15,01:30,Oriente Petrolero,Real Mamoré,1,0,H,0,0,D
+BOL,2009-05-17,20:30,The Strongest,La Paz FC,2,1,H,0,0,D
+BOL,2009-05-17,20:30,Universitario Sucre,Nacional Potosí,3,1,H,1,1,D
+BOL,2009-05-17,20:30,Real Potosí,Club Bolívar,2,2,D,0,1,A
+BOL,2009-05-17,21:00,Real Mamoré,Club San José,2,3,A,2,1,H
+BOL,2009-05-17,23:00,Club Blooming,Jorge Wilstermann,1,1,D,0,0,D
+BOL,2009-05-19,01:30,Club Aurora,Oriente Petrolero,0,0,D,0,0,D
+BOL,2009-05-23,20:30,Club Bolívar,Nacional Potosí,4,2,H,4,1,H
+BOL,2009-05-24,20:30,La Paz FC,Universitario Sucre,2,1,H,1,1,D
+BOL,2009-05-24,20:30,Real Potosí,Real Mamoré,4,0,H,1,0,H
+BOL,2009-05-24,20:30,Club San José,Club Aurora,3,0,H,1,0,H
+BOL,2009-05-24,21:00,Jorge Wilstermann,The Strongest,1,2,A,0,2,A
+BOL,2009-05-24,23:15,Oriente Petrolero,Club Blooming,2,0,H,1,0,H
+BOL,2009-05-27,21:00,La Paz FC,Real Mamoré,5,1,H,1,1,D
+BOL,2009-05-28,01:00,Universitario Sucre,Club Blooming,4,0,H,1,0,H
+BOL,2009-05-29,01:00,Jorge Wilstermann,Real Potosí,2,1,H,0,0,D
+BOL,2009-05-29,01:00,The Strongest,Club Bolívar,1,2,A,0,1,A
+BOL,2009-05-29,01:00,Nacional Potosí,Club Aurora,0,0,D,0,0,D
+BOL,2009-05-29,01:30,Oriente Petrolero,Club San José,3,1,H,1,0,H
+BOL,2009-05-31,20:30,Club Bolívar,La Paz FC,1,0,H,0,0,D
+BOL,2009-05-31,20:30,Real Potosí,Club Blooming,3,1,H,3,0,H
+BOL,2009-05-31,20:30,Club San José,The Strongest,5,1,H,1,1,D
+BOL,2009-05-31,21:00,Real Mamoré,Club Aurora,4,0,H,3,0,H
+BOL,2009-05-31,21:00,Jorge Wilstermann,Nacional Potosí,3,1,H,1,0,H
+BOL,2009-05-31,23:00,Oriente Petrolero,Universitario Sucre,2,0,H,1,0,H
+BOL,2009-06-14,20:30,Universitario Sucre,Club San José,1,0,H,0,0,D
+BOL,2009-06-14,20:30,Nacional Potosí,Oriente Petrolero,1,5,A,1,2,A
+BOL,2009-06-14,21:00,The Strongest,Real Potosí,0,0,D,0,0,D
+BOL,2009-06-14,21:00,La Paz FC,Jorge Wilstermann,2,2,D,2,1,H
+BOL,2009-06-14,23:00,Club Blooming,Real Mamoré,1,1,D,1,1,D
+BOL,2009-06-16,01:00,Club Bolívar,Club Aurora,3,0,H,0,0,D
+BOL,2009-06-20,20:30,Club San José,Nacional Potosí,2,2,D,2,1,H
+BOL,2009-06-21,20:30,Club Bolívar,Jorge Wilstermann,0,0,D,0,0,D
+BOL,2009-06-21,20:30,Real Potosí,Universitario Sucre,2,0,H,1,0,H
+BOL,2009-06-21,21:00,Real Mamoré,The Strongest,1,1,D,1,0,H
+BOL,2009-06-21,23:00,Club Aurora,Club Blooming,0,1,A,0,0,D
+BOL,2009-06-21,23:00,Oriente Petrolero,La Paz FC,2,1,H,2,1,H
+BOL,2009-06-25,01:00,Universitario Sucre,Real Mamoré,4,1,H,2,1,H
+BOL,2009-06-25,01:00,Nacional Potosí,Real Potosí,1,1,D,0,1,A
+BOL,2009-06-25,01:30,Club Blooming,Club Bolívar,0,2,A,0,0,D
+BOL,2009-06-26,01:00,The Strongest,Club Aurora,1,0,H,1,0,H
+BOL,2009-06-26,01:00,Jorge Wilstermann,Oriente Petrolero,1,1,D,0,1,A
+BOL,2009-06-26,01:00,Club San José,La Paz FC,5,0,H,2,0,H
+BOL,2009-06-28,21:00,Club San José,Jorge Wilstermann,2,1,H,1,1,D
+BOL,2009-06-28,21:00,Club Aurora,Universitario Sucre,1,0,H,1,0,H
+BOL,2009-06-28,21:00,Club Bolívar,Oriente Petrolero,1,0,H,0,0,D
+BOL,2009-06-28,21:00,Real Potosí,La Paz FC,3,1,H,2,0,H
+BOL,2009-06-28,21:00,Real Mamoré,Nacional Potosí,5,4,H,4,0,H
+BOL,2009-06-28,23:00,Club Blooming,The Strongest,1,1,D,1,0,H
+BOL,2009-07-05,21:00,Nacional Potosí,La Paz FC,2,2,D,1,1,D
+BOL,2009-07-05,21:00,Club Aurora,Real Potosí,1,4,A,1,2,A
+BOL,2009-07-05,21:00,The Strongest,Oriente Petrolero,5,3,H,3,0,H
+BOL,2009-07-05,21:00,Universitario Sucre,Jorge Wilstermann,2,0,H,0,0,D
+BOL,2009-07-05,21:00,Real Mamoré,Club Bolívar,1,2,A,0,1,A
+BOL,2009-07-05,21:00,Club Blooming,Club San José,1,0,H,0,0,D

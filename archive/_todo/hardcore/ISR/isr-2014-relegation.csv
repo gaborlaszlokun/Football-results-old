@@ -1,0 +1,29 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISR,2014-03-29,15:00,FC Ashdod,Ironi Ramat HaSharon,0,1,A,0,1,A
+ISR,2014-03-29,15:00,Hapoel Acre FC,Hapoel Ra'anana,1,1,D,1,0,H
+ISR,2014-03-29,17:00,Hapoel Haifa,Bnei Yehuda Tel Aviv,0,1,A,0,1,A
+ISR,2014-03-30,18:15,Beitar Jerusalem,Maccabi Petach-Tikva,3,0,H,0,0,D
+ISR,2014-04-05,16:00,FC Ashdod,Hapoel Haifa,4,1,H,2,0,H
+ISR,2014-04-05,16:00,Maccabi Petach-Tikva,Hapoel Acre FC,0,0,D,0,0,D
+ISR,2014-04-05,16:00,Ironi Ramat HaSharon,Hapoel Ra'anana,0,0,D,0,0,D
+ISR,2014-04-06,18:15,Bnei Yehuda Tel Aviv,Beitar Jerusalem,1,0,H,0,0,D
+ISR,2014-04-12,16:00,Hapoel Haifa,Ironi Ramat HaSharon,0,1,A,0,1,A
+ISR,2014-04-12,16:00,Hapoel Acre FC,Bnei Yehuda Tel Aviv,1,1,D,0,1,A
+ISR,2014-04-12,16:00,Hapoel Ra'anana,Maccabi Petach-Tikva,4,2,H,1,0,H
+ISR,2014-04-13,18:15,Beitar Jerusalem,FC Ashdod,1,0,H,0,0,D
+ISR,2014-04-19,16:00,FC Ashdod,Hapoel Acre FC,1,0,H,0,0,D
+ISR,2014-04-19,16:00,Bnei Yehuda Tel Aviv,Hapoel Ra'anana,1,3,A,1,1,D
+ISR,2014-04-19,16:00,Ironi Ramat HaSharon,Maccabi Petach-Tikva,4,1,H,0,1,A
+ISR,2014-04-21,18:00,Hapoel Haifa,Beitar Jerusalem,1,0,H,1,0,H
+ISR,2014-04-26,15:00,Beitar Jerusalem,Ironi Ramat HaSharon,4,0,H,1,0,H
+ISR,2014-04-26,15:00,Hapoel Acre FC,Hapoel Haifa,1,0,H,1,0,H
+ISR,2014-04-26,15:00,Hapoel Ra'anana,FC Ashdod,1,1,D,1,1,D
+ISR,2014-04-26,15:00,Maccabi Petach-Tikva,Bnei Yehuda Tel Aviv,1,0,H,0,0,D
+ISR,2014-05-03,16:30,Beitar Jerusalem,Hapoel Acre FC,0,2,A,0,1,A
+ISR,2014-05-03,16:30,FC Ashdod,Maccabi Petach-Tikva,0,5,A,0,3,A
+ISR,2014-05-03,16:30,Ironi Ramat HaSharon,Bnei Yehuda Tel Aviv,0,1,A,0,0,D
+ISR,2014-05-03,18:00,Hapoel Haifa,Hapoel Ra'anana,0,2,A,0,0,D
+ISR,2014-05-10,18:00,Hapoel Acre FC,Ironi Ramat HaSharon,1,2,A,1,1,D
+ISR,2014-05-10,18:00,Hapoel Ra'anana,Beitar Jerusalem,0,2,A,0,0,D
+ISR,2014-05-10,18:00,Maccabi Petach-Tikva,Hapoel Haifa,2,1,H,0,0,D
+ISR,2014-05-10,18:00,Bnei Yehuda Tel Aviv,FC Ashdod,1,1,D,0,0,D

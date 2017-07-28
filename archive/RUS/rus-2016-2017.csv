@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+RUS,2016-07-30,15:30,Zenit St. Petersburg,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,2016-07-30,18:00,Anzhi Makhachkala,CSKA Moskva,0,0,D,0,0,D
+RUS,2016-07-30,19:30,FK Rostov,FK Orenburg,1,0,H,0,0,D
+RUS,2016-07-31,13:30,FK Ural,FC Ufa,2,0,H,2,0,H
+RUS,2016-07-31,16:00,Spartak Moskva,Arsenal Tula,4,0,H,2,0,H
+RUS,2016-07-31,18:30,Terek Grozny,Krylia Sovetov,1,0,H,0,0,D
+RUS,2016-08-01,17:30,FK Krasnodar,FK Tom Tomsk,3,0,H,1,0,H
+RUS,2016-08-01,17:30,Rubin Kazan,FK Amkar Perm,0,0,D,0,0,D
+RUS,2016-08-06,15:00,FC Ufa,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,2016-08-06,17:30,Arsenal Tula,Rubin Kazan,1,0,H,1,0,H
+RUS,2016-08-07,14:00,FK Orenburg,CSKA Moskva,0,1,A,0,0,D
+RUS,2016-08-07,14:30,FK Amkar Perm,Anzhi Makhachkala,2,0,H,1,0,H
+RUS,2016-08-07,17:00,Lokomotiv Moskva,FK Tom Tomsk,2,2,D,2,0,H
+RUS,2016-08-07,19:30,FK Rostov,FK Ural,0,0,D,0,0,D
+RUS,2016-08-08,17:30,Spartak Moskva,Krylia Sovetov,1,0,H,0,0,D
+RUS,2016-08-08,17:30,FK Krasnodar,Terek Grozny,4,0,H,1,0,H
+RUS,2016-08-12,17:30,Zenit St. Petersburg,FK Rostov,3,2,H,0,2,A
+RUS,2016-08-13,13:30,FK Ural,CSKA Moskva,0,1,A,0,0,D
+RUS,2016-08-13,16:00,Krylia Sovetov,FK Krasnodar,1,1,D,1,0,H
+RUS,2016-08-13,18:30,Rubin Kazan,Spartak Moskva,1,1,D,1,1,D
+RUS,2016-08-14,13:30,FK Tom Tomsk,FC Ufa,1,0,H,1,0,H
+RUS,2016-08-14,18:00,Anzhi Makhachkala,Arsenal Tula,1,0,H,1,0,H
+RUS,2016-08-14,18:30,Terek Grozny,Lokomotiv Moskva,1,1,D,1,1,D
+RUS,2016-08-15,15:30,FK Orenburg,FK Amkar Perm,0,0,D,0,0,D
+RUS,2016-08-19,17:30,Rubin Kazan,Anzhi Makhachkala,1,2,A,1,1,D
+RUS,2016-08-20,12:30,FC Ufa,Terek Grozny,1,3,A,0,0,D
+RUS,2016-08-20,15:00,Zenit St. Petersburg,CSKA Moskva,1,1,D,1,1,D
+RUS,2016-08-20,19:30,FK Rostov,FK Tom Tomsk,3,0,H,2,0,H
+RUS,2016-08-21,13:30,FK Amkar Perm,FK Ural,1,0,H,0,0,D
+RUS,2016-08-21,16:00,Spartak Moskva,FK Krasnodar,2,0,H,1,0,H
+RUS,2016-08-21,18:30,Lokomotiv Moskva,Krylia Sovetov,0,0,D,0,0,D
+RUS,2016-08-22,17:30,Arsenal Tula,FK Orenburg,0,0,D,0,0,D
+RUS,2016-08-26,16:30,Krylia Sovetov,FC Ufa,0,1,A,0,0,D
+RUS,2016-08-27,11:00,FK Orenburg,Rubin Kazan,1,1,D,1,0,H
+RUS,2016-08-27,13:30,FK Tom Tomsk,CSKA Moskva,0,1,A,0,0,D
+RUS,2016-08-27,16:00,Zenit St. Petersburg,FK Amkar Perm,3,0,H,2,0,H
+RUS,2016-08-28,15:00,FK Ural,Arsenal Tula,1,1,D,0,0,D
+RUS,2016-08-28,17:15,Terek Grozny,FK Rostov,2,1,H,2,1,H
+RUS,2016-08-28,17:15,FK Krasnodar,Lokomotiv Moskva,1,2,A,0,1,A
+RUS,2016-08-28,19:30,Anzhi Makhachkala,Spartak Moskva,0,2,A,0,1,A
+RUS,2016-09-09,18:00,FK Rostov,Krylia Sovetov,2,1,H,1,0,H
+RUS,2016-09-10,13:30,FK Amkar Perm,FK Tom Tomsk,1,0,H,0,0,D
+RUS,2016-09-10,16:00,FK Orenburg,Anzhi Makhachkala,0,0,D,0,0,D
+RUS,2016-09-10,18:30,CSKA Moskva,Terek Grozny,3,0,H,2,0,H
+RUS,2016-09-11,12:00,FC Ufa,FK Krasnodar,0,0,D,0,0,D
+RUS,2016-09-11,14:30,Spartak Moskva,Lokomotiv Moskva,1,0,H,1,0,H
+RUS,2016-09-11,17:00,Arsenal Tula,Zenit St. Petersburg,0,5,A,0,2,A
+RUS,2016-09-12,17:30,Rubin Kazan,FK Ural,3,1,H,1,0,H
+RUS,2016-09-16,15:00,FK Orenburg,Spartak Moskva,1,3,A,1,1,D
+RUS,2016-09-17,12:00,FK Tom Tomsk,Arsenal Tula,1,0,H,1,0,H
+RUS,2016-09-17,14:30,FK Ural,Anzhi Makhachkala,0,1,A,0,1,A
+RUS,2016-09-17,17:00,Terek Grozny,FK Amkar Perm,1,3,A,1,1,D
+RUS,2016-09-17,17:00,Lokomotiv Moskva,FC Ufa,0,1,A,0,0,D
+RUS,2016-09-18,15:15,Krylia Sovetov,CSKA Moskva,1,2,A,1,1,D
+RUS,2016-09-18,18:00,FK Krasnodar,FK Rostov,2,1,H,0,1,A
+RUS,2016-09-19,17:30,Zenit St. Petersburg,Rubin Kazan,4,1,H,1,0,H
+RUS,2016-09-24,15:00,CSKA Moskva,FK Krasnodar,1,1,D,1,1,D
+RUS,2016-09-24,19:30,FK Rostov,Lokomotiv Moskva,1,0,H,1,0,H
+RUS,2016-09-25,10:00,FK Orenburg,FK Ural,0,1,A,0,0,D
+RUS,2016-09-25,12:30,Arsenal Tula,Terek Grozny,0,0,D,0,0,D
+RUS,2016-09-25,15:00,Spartak Moskva,FC Ufa,0,1,A,0,1,A
+RUS,2016-09-25,17:30,Anzhi Makhachkala,Zenit St. Petersburg,2,2,D,1,2,A
+RUS,2016-09-26,15:00,FK Amkar Perm,Krylia Sovetov,0,0,D,0,0,D
+RUS,2016-09-26,17:30,Rubin Kazan,FK Tom Tomsk,2,1,H,1,0,H
+RUS,2016-10-01,10:00,FK Tom Tomsk,FK Ural,1,1,D,1,1,D
+RUS,2016-10-01,12:30,Krylia Sovetov,Anzhi Makhachkala,2,1,H,2,0,H
+RUS,2016-10-01,15:00,Lokomotiv Moskva,Arsenal Tula,1,1,D,0,1,A
+RUS,2016-10-01,17:30,Terek Grozny,FK Orenburg,2,1,H,1,0,H
+RUS,2016-10-02,12:00,FC Ufa,FK Amkar Perm,1,1,D,0,0,D
+RUS,2016-10-02,14:30,Zenit St. Petersburg,Spartak Moskva,4,2,H,2,2,D
+RUS,2016-10-02,17:00,FK Krasnodar,Rubin Kazan,1,0,H,1,0,H
+RUS,2016-10-02,17:00,FK Rostov,CSKA Moskva,2,0,H,0,0,D
+RUS,2016-10-14,17:30,CSKA Moskva,FC Ufa,1,0,H,1,0,H
+RUS,2016-10-15,12:30,FK Amkar Perm,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,2016-10-15,15:00,Rubin Kazan,Krylia Sovetov,3,0,H,1,0,H
+RUS,2016-10-15,17:30,Spartak Moskva,FK Rostov,1,0,H,0,0,D
+RUS,2016-10-16,12:00,FK Ural,Zenit St. Petersburg,0,2,A,0,1,A
+RUS,2016-10-16,14:30,FK Orenburg,FK Tom Tomsk,3,1,H,2,0,H
+RUS,2016-10-16,17:00,Arsenal Tula,FK Krasnodar,0,0,D,0,0,D
+RUS,2016-10-17,17:30,Anzhi Makhachkala,Terek Grozny,0,0,D,0,0,D
+RUS,2016-10-21,16:00,Krylia Sovetov,Arsenal Tula,1,1,D,1,1,D
+RUS,2016-10-22,10:00,FK Tom Tomsk,Anzhi Makhachkala,0,3,A,0,0,D
+RUS,2016-10-22,12:30,FC Ufa,FK Rostov,0,0,D,0,0,D
+RUS,2016-10-22,15:00,FK Ural,Spartak Moskva,0,1,A,0,0,D
+RUS,2016-10-22,17:30,Terek Grozny,Rubin Kazan,3,1,H,1,1,D
+RUS,2016-10-23,14:30,Lokomotiv Moskva,CSKA Moskva,1,0,H,0,0,D
+RUS,2016-10-23,17:00,FK Krasnodar,FK Amkar Perm,1,0,H,1,0,H
+RUS,2016-10-24,17:30,Zenit St. Petersburg,FK Orenburg,1,0,H,1,0,H
+RUS,2016-10-29,13:30,FK Amkar Perm,FK Rostov,1,0,H,1,0,H
+RUS,2016-10-29,16:00,Spartak Moskva,CSKA Moskva,3,1,H,1,0,H
+RUS,2016-10-30,09:00,FK Ural,Terek Grozny,1,4,A,1,1,D
+RUS,2016-10-30,11:30,Arsenal Tula,FC Ufa,0,2,A,0,1,A
+RUS,2016-10-30,14:00,Zenit St. Petersburg,FK Tom Tomsk,1,0,H,1,0,H
+RUS,2016-10-30,16:30,Anzhi Makhachkala,FK Krasnodar,0,0,D,0,0,D
+RUS,2016-10-31,14:00,FK Orenburg,Krylia Sovetov,1,0,H,0,0,D
+RUS,2016-10-31,16:30,Rubin Kazan,Lokomotiv Moskva,2,0,H,0,0,D
+RUS,2016-11-05,08:00,FK Tom Tomsk,Spartak Moskva,0,1,A,0,1,A
+RUS,2016-11-05,10:30,FC Ufa,Rubin Kazan,2,3,A,1,2,A
+RUS,2016-11-05,13:00,Krylia Sovetov,FK Ural,2,2,D,1,1,D
+RUS,2016-11-05,15:30,Lokomotiv Moskva,Anzhi Makhachkala,4,0,H,2,0,H
+RUS,2016-11-06,14:00,Terek Grozny,Zenit St. Petersburg,2,1,H,2,1,H
+RUS,2016-11-06,14:00,FK Rostov,Arsenal Tula,4,1,H,2,1,H
+RUS,2016-11-06,16:00,CSKA Moskva,FK Amkar Perm,2,2,D,2,2,D
+RUS,2016-11-06,16:30,FK Krasnodar,FK Orenburg,3,3,D,2,3,A
+RUS,2016-11-18,16:00,Arsenal Tula,CSKA Moskva,0,1,A,0,1,A
+RUS,2016-11-18,16:30,Rubin Kazan,FK Rostov,0,0,D,0,0,D
+RUS,2016-11-19,11:30,FK Orenburg,Lokomotiv Moskva,1,1,D,0,1,A
+RUS,2016-11-19,14:00,Anzhi Makhachkala,FC Ufa,0,1,A,0,0,D
+RUS,2016-11-20,11:30,FK Krasnodar,FK Ural,3,0,H,0,0,D
+RUS,2016-11-20,14:00,Spartak Moskva,FK Amkar Perm,1,0,H,0,0,D
+RUS,2016-11-20,16:30,Zenit St. Petersburg,Krylia Sovetov,3,1,H,2,1,H
+RUS,2016-11-21,16:00,Terek Grozny,FK Tom Tomsk,0,0,D,0,0,D
+RUS,2016-11-25,14:00,FC Ufa,FK Orenburg,1,0,H,1,0,H
+RUS,2016-11-26,08:30,FK Amkar Perm,Arsenal Tula,1,0,H,1,0,H
+RUS,2016-11-26,11:00,CSKA Moskva,Rubin Kazan,0,0,D,0,0,D
+RUS,2016-11-26,14:00,Lokomotiv Moskva,FK Ural,1,1,D,0,0,D
+RUS,2016-11-26,15:00,Terek Grozny,Spartak Moskva,0,1,A,0,1,A
+RUS,2016-11-27,11:00,Krylia Sovetov,FK Tom Tomsk,3,0,H,1,0,H
+RUS,2016-11-27,13:30,FK Rostov,Anzhi Makhachkala,2,0,H,1,0,H
+RUS,2016-11-27,16:00,FK Krasnodar,Zenit St. Petersburg,2,1,H,0,0,D
+RUS,2016-11-30,14:00,FK Ural,FK Rostov,1,0,H,1,0,H
+RUS,2016-11-30,16:00,Rubin Kazan,Arsenal Tula,1,0,H,0,0,D
+RUS,2016-11-30,16:30,CSKA Moskva,FK Orenburg,2,0,H,1,0,H
+RUS,2016-11-30,16:30,Zenit St. Petersburg,FC Ufa,2,0,H,0,0,D
+RUS,2016-12-01,15:00,Krylia Sovetov,Spartak Moskva,4,0,H,2,0,H
+RUS,2016-12-01,15:00,Terek Grozny,FK Krasnodar,2,1,H,2,0,H
+RUS,2016-12-01,16:30,FK Tom Tomsk,Lokomotiv Moskva,1,6,A,0,0,D
+RUS,2016-12-01,17:30,Anzhi Makhachkala,FK Amkar Perm,3,1,H,1,1,D
+RUS,2016-12-03,11:00,CSKA Moskva,FK Ural,4,0,H,4,0,H
+RUS,2016-12-03,16:00,FK Rostov,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,2016-12-04,13:00,Lokomotiv Moskva,Terek Grozny,2,0,H,1,0,H
+RUS,2016-12-05,10:00,FC Ufa,FK Tom Tomsk,1,0,H,0,0,D
+RUS,2016-12-05,11:00,FK Amkar Perm,FK Orenburg,3,0,H,2,0,H
+RUS,2016-12-05,16:00,FK Krasnodar,Krylia Sovetov,1,1,D,0,0,D
+RUS,2016-12-05,16:30,Spartak Moskva,Rubin Kazan,2,1,H,1,1,D
+RUS,2016-12-05,16:30,Arsenal Tula,Anzhi Makhachkala,1,0,H,0,0,D
+RUS,2017-03-03,16:00,FK Tom Tomsk,FK Rostov,0,6,A,0,2,A
+RUS,2017-03-04,11:00,FK Orenburg,Arsenal Tula,3,0,H,2,0,H
+RUS,2017-03-04,13:30,CSKA Moskva,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,2017-03-05,08:30,FK Ural,FK Amkar Perm,1,0,H,1,0,H
+RUS,2017-03-05,11:00,Krylia Sovetov,Lokomotiv Moskva,0,3,A,0,0,D
+RUS,2017-03-05,13:30,FK Krasnodar,Spartak Moskva,2,2,D,1,1,D
+RUS,2017-03-05,16:00,Terek Grozny,FC Ufa,0,1,A,0,0,D
+RUS,2017-03-06,16:30,Anzhi Makhachkala,Rubin Kazan,0,1,A,0,0,D
+RUS,2017-03-10,16:00,Arsenal Tula,FK Ural,2,0,H,1,0,H
+RUS,2017-03-11,08:30,FC Ufa,Krylia Sovetov,1,0,H,1,0,H
+RUS,2017-03-11,11:00,CSKA Moskva,FK Tom Tomsk,4,0,H,3,0,H
+RUS,2017-03-11,13:30,Rubin Kazan,FK Orenburg,0,0,D,0,0,D
+RUS,2017-03-12,08:30,FK Amkar Perm,Zenit St. Petersburg,1,0,H,1,0,H
+RUS,2017-03-12,13:30,Spartak Moskva,Anzhi Makhachkala,1,0,H,0,0,D
+RUS,2017-03-12,16:00,FK Rostov,Terek Grozny,0,0,D,0,0,D
+RUS,2017-03-13,16:30,Lokomotiv Moskva,FK Krasnodar,1,2,A,1,0,H
+RUS,2017-03-17,16:00,Anzhi Makhachkala,FK Orenburg,1,0,H,0,0,D
+RUS,2017-03-18,08:30,FK Tom Tomsk,FK Amkar Perm,1,0,H,1,0,H
+RUS,2017-03-18,11:00,FK Ural,Rubin Kazan,1,0,H,1,0,H
+RUS,2017-03-18,13:30,Lokomotiv Moskva,Spartak Moskva,1,1,D,1,0,H
+RUS,2017-03-19,11:00,Krylia Sovetov,FK Rostov,0,0,D,0,0,D
+RUS,2017-03-19,13:30,Terek Grozny,CSKA Moskva,0,1,A,0,1,A
+RUS,2017-03-19,13:30,FK Krasnodar,FC Ufa,0,0,D,0,0,D
+RUS,2017-03-19,16:30,Zenit St. Petersburg,Arsenal Tula,2,0,H,0,0,D
+RUS,2017-03-31,17:30,Anzhi Makhachkala,FK Ural,2,3,A,0,1,A
+RUS,2017-04-01,13:00,FC Ufa,Lokomotiv Moskva,0,1,A,0,1,A
+RUS,2017-04-01,15:30,Arsenal Tula,FK Tom Tomsk,3,0,H,1,0,H
+RUS,2017-04-02,11:30,FK Amkar Perm,Terek Grozny,1,1,D,1,1,D
+RUS,2017-04-02,12:00,Rubin Kazan,Zenit St. Petersburg,0,2,A,0,2,A
+RUS,2017-04-02,14:30,CSKA Moskva,Krylia Sovetov,2,1,H,1,0,H
+RUS,2017-04-03,17:30,FK Rostov,FK Krasnodar,0,0,D,0,0,D
+RUS,2017-04-03,17:30,Spartak Moskva,FK Orenburg,3,2,H,1,0,H
+RUS,2017-04-08,12:00,Krylia Sovetov,FK Amkar Perm,2,2,D,2,2,D
+RUS,2017-04-08,14:30,Terek Grozny,Arsenal Tula,3,1,H,2,0,H
+RUS,2017-04-08,17:00,Zenit St. Petersburg,Anzhi Makhachkala,1,1,D,0,1,A
+RUS,2017-04-09,12:00,FC Ufa,Spartak Moskva,1,3,A,0,1,A
+RUS,2017-04-09,14:30,FK Krasnodar,CSKA Moskva,1,1,D,0,0,D
+RUS,2017-04-09,17:00,Lokomotiv Moskva,FK Rostov,0,0,D,0,0,D
+RUS,2017-04-10,13:00,FK Tom Tomsk,Rubin Kazan,2,2,D,1,0,H
+RUS,2017-04-10,15:30,FK Ural,FK Orenburg,2,0,H,1,0,H
+RUS,2017-04-15,10:00,FK Amkar Perm,FC Ufa,1,1,D,0,1,A
+RUS,2017-04-15,12:30,CSKA Moskva,FK Rostov,0,0,D,0,0,D
+RUS,2017-04-15,15:00,Anzhi Makhachkala,Krylia Sovetov,1,3,A,0,2,A
+RUS,2017-04-15,17:30,Rubin Kazan,FK Krasnodar,0,1,A,0,0,D
+RUS,2017-04-16,10:30,FK Orenburg,Terek Grozny,2,1,H,1,0,H
+RUS,2017-04-16,13:00,FK Ural,FK Tom Tomsk,1,0,H,1,0,H
+RUS,2017-04-16,15:30,Arsenal Tula,Lokomotiv Moskva,0,3,A,0,0,D
+RUS,2017-04-16,18:00,Spartak Moskva,Zenit St. Petersburg,2,1,H,1,0,H
+RUS,2017-04-21,15:00,FC Ufa,CSKA Moskva,0,2,A,0,0,D
+RUS,2017-04-22,12:00,Zenit St. Petersburg,FK Ural,2,0,H,0,0,D
+RUS,2017-04-22,14:30,FK Rostov,Spartak Moskva,3,0,H,2,0,H
+RUS,2017-04-22,14:30,Lokomotiv Moskva,FK Amkar Perm,3,3,D,1,1,D
+RUS,2017-04-22,17:00,Terek Grozny,Anzhi Makhachkala,0,1,A,0,1,A
+RUS,2017-04-23,10:00,FK Tom Tomsk,FK Orenburg,1,2,A,1,1,D
+RUS,2017-04-23,12:30,Krylia Sovetov,Rubin Kazan,0,0,D,0,0,D
+RUS,2017-04-23,15:00,FK Krasnodar,Arsenal Tula,2,0,H,0,0,D
+RUS,2017-04-25,17:30,Spartak Moskva,FK Ural,1,0,H,1,0,H
+RUS,2017-04-25,17:30,FK Rostov,FC Ufa,1,0,H,1,0,H
+RUS,2017-04-26,15:00,FK Orenburg,Zenit St. Petersburg,0,1,A,0,1,A
+RUS,2017-04-26,17:30,Rubin Kazan,Terek Grozny,0,1,A,0,1,A
+RUS,2017-04-26,17:30,Arsenal Tula,Krylia Sovetov,2,0,H,1,0,H
+RUS,2017-04-26,17:30,CSKA Moskva,Lokomotiv Moskva,4,0,H,3,0,H
+RUS,2017-04-27,15:00,FK Amkar Perm,FK Krasnodar,0,2,A,0,0,D
+RUS,2017-04-27,17:30,Anzhi Makhachkala,FK Tom Tomsk,3,3,D,1,1,D
+RUS,2017-04-29,14:30,Lokomotiv Moskva,Rubin Kazan,0,1,A,0,1,A
+RUS,2017-04-29,17:00,Terek Grozny,FK Ural,5,2,H,1,1,D
+RUS,2017-04-30,12:30,FC Ufa,Arsenal Tula,1,0,H,0,0,D
+RUS,2017-04-30,15:00,CSKA Moskva,Spartak Moskva,1,2,A,1,1,D
+RUS,2017-04-30,17:30,FK Rostov,FK Amkar Perm,1,0,H,0,0,D
+RUS,2017-05-01,11:00,FK Tom Tomsk,Zenit St. Petersburg,0,2,A,0,1,A
+RUS,2017-05-01,13:30,Krylia Sovetov,FK Orenburg,1,1,D,0,0,D
+RUS,2017-05-01,16:00,FK Krasnodar,Anzhi Makhachkala,0,0,D,0,0,D
+RUS,2017-05-06,12:00,FK Amkar Perm,CSKA Moskva,0,2,A,0,0,D
+RUS,2017-05-06,14:30,Arsenal Tula,FK Rostov,1,0,H,1,0,H
+RUS,2017-05-06,17:00,Spartak Moskva,FK Tom Tomsk,1,0,H,1,0,H
+RUS,2017-05-07,12:00,FK Orenburg,FK Krasnodar,1,0,H,0,0,D
+RUS,2017-05-07,14:30,Rubin Kazan,FC Ufa,2,1,H,1,1,D
+RUS,2017-05-07,17:00,Zenit St. Petersburg,Terek Grozny,0,1,A,0,0,D
+RUS,2017-05-08,12:30,FK Ural,Krylia Sovetov,1,3,A,1,0,H
+RUS,2017-05-08,15:00,Anzhi Makhachkala,Lokomotiv Moskva,0,0,D,0,0,D
+RUS,2017-05-12,17:30,CSKA Moskva,Arsenal Tula,3,0,H,2,0,H
+RUS,2017-05-13,10:00,FK Ural,FK Krasnodar,1,1,D,1,0,H
+RUS,2017-05-13,12:30,FK Amkar Perm,Spartak Moskva,0,1,A,0,0,D
+RUS,2017-05-13,14:00,Krylia Sovetov,Zenit St. Petersburg,1,3,A,0,3,A
+RUS,2017-05-13,17:30,Lokomotiv Moskva,FK Orenburg,4,0,H,1,0,H
+RUS,2017-05-14,10:00,FK Tom Tomsk,Terek Grozny,1,2,A,0,0,D
+RUS,2017-05-14,14:30,FC Ufa,Anzhi Makhachkala,2,1,H,1,1,D
+RUS,2017-05-14,17:00,FK Rostov,Rubin Kazan,4,2,H,2,0,H
+RUS,2017-05-17,13:00,FK Tom Tomsk,Krylia Sovetov,0,2,A,0,1,A
+RUS,2017-05-17,15:30,FK Orenburg,FC Ufa,1,1,D,0,0,D
+RUS,2017-05-17,15:30,FK Ural,Lokomotiv Moskva,1,2,A,0,2,A
+RUS,2017-05-17,17:30,Spartak Moskva,Terek Grozny,3,0,H,2,0,H
+RUS,2017-05-17,17:30,Rubin Kazan,CSKA Moskva,0,2,A,0,0,D
+RUS,2017-05-17,17:30,Anzhi Makhachkala,FK Rostov,1,2,A,0,0,D
+RUS,2017-05-17,17:30,Zenit St. Petersburg,FK Krasnodar,1,0,H,1,0,H
+RUS,2017-05-17,17:30,Arsenal Tula,FK Amkar Perm,0,0,D,0,0,D
+RUS,2017-05-21,13:00,Arsenal Tula,Spartak Moskva,3,0,H,2,0,H
+RUS,2017-05-21,13:00,FK Amkar Perm,Rubin Kazan,1,2,A,0,2,A
+RUS,2017-05-21,13:00,CSKA Moskva,Anzhi Makhachkala,4,0,H,3,0,H
+RUS,2017-05-21,13:00,FK Orenburg,FK Rostov,2,0,H,0,0,D
+RUS,2017-05-21,13:00,FC Ufa,FK Ural,1,0,H,1,0,H
+RUS,2017-05-21,13:00,Lokomotiv Moskva,Zenit St. Petersburg,0,2,A,0,1,A
+RUS,2017-05-21,13:00,FK Tom Tomsk,FK Krasnodar,1,5,A,0,3,A
+RUS,2017-05-21,13:00,Krylia Sovetov,Terek Grozny,1,3,A,0,1,A

@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+WAL,2016-08-12,19:45,Bangor City,Cefn Druids,2,1,H,0,0,D
+WAL,2016-08-13,14:30,Newtown AFC,Bala Town,0,0,D,0,0,D
+WAL,2016-08-13,17:15,Carmarthen Town,Gap Connah's Quay FC,0,0,D,0,0,D
+WAL,2016-08-14,15:00,Airbus UK,Cardiff Metropolitan,1,0,H,1,0,H
+WAL,2016-08-14,15:00,Rhyl FC,Llandudno FC,0,0,D,0,0,D
+WAL,2016-08-14,15:00,The New Saints,Aberystwyth Town,2,1,H,2,0,H
+WAL,2016-08-20,14:30,Newtown AFC,Carmarthen Town,4,2,H,3,1,H
+WAL,2016-08-20,14:30,Rhyl FC,Cefn Druids,0,3,A,0,1,A
+WAL,2016-08-20,17:15,Llandudno FC,The New Saints,0,5,A,0,3,A
+WAL,2016-08-21,15:00,Airbus UK,Aberystwyth Town,0,1,A,0,1,A
+WAL,2016-08-21,15:00,Bangor City,Gap Connah's Quay FC,0,2,A,0,2,A
+WAL,2016-08-21,15:00,Cardiff Metropolitan,Bala Town,0,1,A,0,1,A
+WAL,2016-08-27,14:30,Carmarthen Town,Airbus UK,2,1,H,1,1,D
+WAL,2016-08-27,14:30,Cefn Druids,Cardiff Metropolitan,0,0,D,0,0,D
+WAL,2016-08-27,17:15,Bangor City,Bala Town,2,0,H,2,0,H
+WAL,2016-08-28,15:00,Gap Connah's Quay FC,Newtown AFC,1,0,H,0,0,D
+WAL,2016-08-28,15:00,Llandudno FC,Aberystwyth Town,0,1,A,0,0,D
+WAL,2016-08-28,15:00,The New Saints,Rhyl FC,10,0,H,5,0,H
+WAL,2016-08-30,19:45,Bala Town,Carmarthen Town,0,0,D,0,0,D
+WAL,2016-08-30,19:45,Llandudno FC,Airbus UK,2,0,H,1,0,H
+WAL,2016-08-31,19:45,Cardiff Metropolitan,The New Saints,1,2,A,1,2,A
+WAL,2016-08-31,19:45,Bangor City,Newtown AFC,2,1,H,1,1,D
+WAL,2016-08-31,19:45,Cefn Druids,Gap Connah's Quay FC,0,0,D,0,0,D
+WAL,2016-08-31,19:45,Rhyl FC,Aberystwyth Town,3,1,H,3,1,H
+WAL,2016-09-03,14:30,Carmarthen Town,Llandudno FC,0,1,A,0,0,D
+WAL,2016-09-03,14:30,Bangor City,Aberystwyth Town,4,0,H,2,0,H
+WAL,2016-09-03,17:15,Gap Connah's Quay FC,Bala Town,1,1,D,0,1,A
+WAL,2016-09-04,15:00,Airbus UK,The New Saints,1,4,A,1,0,H
+WAL,2016-09-04,15:00,Newtown AFC,Cefn Druids,1,1,D,0,1,A
+WAL,2016-09-04,15:00,Rhyl FC,Cardiff Metropolitan,1,0,H,0,0,D
+WAL,2016-09-10,14:30,Llandudno FC,Newtown AFC,0,0,D,0,0,D
+WAL,2016-09-10,14:30,Aberystwyth Town,Carmarthen Town,0,3,A,0,1,A
+WAL,2016-09-10,17:15,Rhyl FC,Airbus UK,3,1,H,2,0,H
+WAL,2016-09-11,15:00,Bala Town,Cefn Druids,2,0,H,1,0,H
+WAL,2016-09-11,15:00,Cardiff Metropolitan,Gap Connah's Quay FC,1,2,A,0,2,A
+WAL,2016-09-11,15:00,The New Saints,Bangor City,4,0,H,2,0,H
+WAL,2016-09-17,14:30,Carmarthen Town,Bangor City,1,1,D,0,0,D
+WAL,2016-09-17,14:30,Newtown AFC,Rhyl FC,3,3,D,1,1,D
+WAL,2016-09-17,17:15,The New Saints,Bala Town,5,1,H,2,0,H
+WAL,2016-09-18,15:00,Gap Connah's Quay FC,Aberystwyth Town,4,0,H,4,0,H
+WAL,2016-09-18,15:00,Airbus UK,Cefn Druids,3,2,H,3,0,H
+WAL,2016-09-18,15:00,Llandudno FC,Cardiff Metropolitan,0,1,A,0,1,A
+WAL,2016-09-20,19:45,Bala Town,The New Saints,0,2,A,0,2,A
+WAL,2016-09-20,19:45,Cardiff Metropolitan,Newtown AFC,2,1,H,0,1,A
+WAL,2016-09-20,19:45,Carmarthen Town,Aberystwyth Town,0,5,A,0,1,A
+WAL,2016-09-20,19:45,Cefn Druids,Airbus UK,2,2,D,0,1,A
+WAL,2016-09-20,19:45,Gap Connah's Quay FC,Llandudno FC,1,1,D,0,0,D
+WAL,2016-09-20,19:45,Rhyl FC,Bangor City,1,0,H,0,0,D
+WAL,2016-09-23,19:45,Bala Town,Bangor City,1,1,D,0,0,D
+WAL,2016-09-24,14:30,Newtown AFC,Airbus UK,2,4,A,0,2,A
+WAL,2016-09-24,17:15,Cardiff Metropolitan,Aberystwyth Town,1,0,H,0,0,D
+WAL,2016-09-25,15:00,Llandudno FC,Cefn Druids,0,0,D,0,0,D
+WAL,2016-09-25,15:00,Gap Connah's Quay FC,Rhyl FC,2,0,H,1,0,H
+WAL,2016-09-25,15:00,The New Saints,Carmarthen Town,2,1,H,1,1,D
+WAL,2016-09-30,19:45,Cefn Druids,Rhyl FC,4,3,H,3,1,H
+WAL,2016-10-01,14:30,Aberystwyth Town,The New Saints,1,5,A,0,2,A
+WAL,2016-10-01,17:15,Airbus UK,Llandudno FC,2,3,A,1,2,A
+WAL,2016-10-02,15:00,Bala Town,Newtown AFC,1,0,H,0,0,D
+WAL,2016-10-02,15:00,Bangor City,Cardiff Metropolitan,2,1,H,1,0,H
+WAL,2016-10-02,15:00,Gap Connah's Quay FC,Carmarthen Town,1,0,H,0,0,D
+WAL,2016-10-14,19:45,Aberystwyth Town,Rhyl FC,4,0,H,2,0,H
+WAL,2016-10-15,14:30,Carmarthen Town,Newtown AFC,3,1,H,1,1,D
+WAL,2016-10-15,17:15,The New Saints,Llandudno FC,5,0,H,2,0,H
+WAL,2016-10-16,15:00,Bala Town,Airbus UK,3,3,D,0,2,A
+WAL,2016-10-16,15:00,Cardiff Metropolitan,Cefn Druids,5,0,H,3,0,H
+WAL,2016-10-16,15:00,Gap Connah's Quay FC,Bangor City,2,2,D,1,1,D
+WAL,2016-10-21,19:45,Cefn Druids,Bala Town,4,4,D,2,1,H
+WAL,2016-10-22,14:30,Airbus UK,Carmarthen Town,1,1,D,1,0,H
+WAL,2016-10-22,17:15,Bangor City,Rhyl FC,3,2,H,0,2,A
+WAL,2016-10-23,15:00,Aberystwyth Town,Llandudno FC,0,0,D,0,0,D
+WAL,2016-10-23,15:00,Gap Connah's Quay FC,Cardiff Metropolitan,0,0,D,0,0,D
+WAL,2016-10-23,15:00,Newtown AFC,The New Saints,0,1,A,0,0,D
+WAL,2016-10-28,19:45,Cefn Druids,Bangor City,2,3,A,1,1,D
+WAL,2016-10-29,14:30,Carmarthen Town,Bala Town,2,3,A,2,1,H
+WAL,2016-10-29,14:30,Newtown AFC,Llandudno FC,0,0,D,0,0,D
+WAL,2016-10-29,17:15,Aberystwyth Town,Airbus UK,3,1,H,1,0,H
+WAL,2016-10-30,15:00,Cardiff Metropolitan,Rhyl FC,4,0,H,3,0,H
+WAL,2016-10-30,15:00,The New Saints,Gap Connah's Quay FC,3,0,H,0,0,D
+WAL,2016-11-04,19:45,Cefn Druids,Llandudno FC,1,3,A,1,3,A
+WAL,2016-11-05,14:30,Airbus UK,Newtown AFC,0,2,A,0,0,D
+WAL,2016-11-05,14:30,Bala Town,Cardiff Metropolitan,1,0,H,1,0,H
+WAL,2016-11-05,14:30,Aberystwyth Town,Gap Connah's Quay FC,1,3,A,1,0,H
+WAL,2016-11-05,14:30,Rhyl FC,Carmarthen Town,0,1,A,0,0,D
+WAL,2016-11-05,17:15,Bangor City,The New Saints,1,2,A,1,1,D
+WAL,2016-11-11,19:45,Bala Town,Aberystwyth Town,4,0,H,3,0,H
+WAL,2016-11-13,15:00,Newtown AFC,Bangor City,1,2,A,1,2,A
+WAL,2016-11-13,15:00,Cardiff Metropolitan,Airbus UK,2,0,H,1,0,H
+WAL,2016-11-13,15:00,Llandudno FC,Gap Connah's Quay FC,0,2,A,0,2,A
+WAL,2016-11-13,16:30,Carmarthen Town,Cefn Druids,2,2,D,1,1,D
+WAL,2016-11-18,19:45,Carmarthen Town,The New Saints,2,4,A,1,1,D
+WAL,2016-11-19,14:30,Llandudno FC,Bala Town,1,3,A,1,1,D
+WAL,2016-11-19,14:30,Airbus UK,Rhyl FC,0,3,A,0,2,A
+WAL,2016-11-19,14:30,Cardiff Metropolitan,Bangor City,4,0,H,1,0,H
+WAL,2016-11-19,14:30,Newtown AFC,Gap Connah's Quay FC,2,1,H,2,0,H
+WAL,2016-11-25,19:45,Cefn Druids,Newtown AFC,1,0,H,0,0,D
+WAL,2016-11-25,19:45,Rhyl FC,Gap Connah's Quay FC,1,2,A,1,1,D
+WAL,2016-11-25,19:45,Aberystwyth Town,Bala Town,1,3,A,0,2,A
+WAL,2016-11-25,19:45,The New Saints,Airbus UK,4,0,H,4,0,H
+WAL,2016-11-26,14:30,Bangor City,Carmarthen Town,1,2,A,1,1,D
+WAL,2016-11-27,15:00,Cardiff Metropolitan,Llandudno FC,1,1,D,1,0,H
+WAL,2016-12-10,14:30,The New Saints,Cardiff Metropolitan,3,1,H,1,1,D
+WAL,2016-12-10,15:00,Rhyl FC,Newtown AFC,1,3,A,0,1,A
+WAL,2016-12-10,17:15,Llandudno FC,Carmarthen Town,2,0,H,1,0,H
+WAL,2016-12-13,19:45,Gap Connah's Quay FC,Cefn Druids,1,0,H,1,0,H
+WAL,2016-12-14,19:45,Rhyl FC,The New Saints,1,2,A,1,1,D
+WAL,2016-12-16,19:45,Cefn Druids,Aberystwyth Town,0,3,A,0,1,A
+WAL,2016-12-17,14:30,Carmarthen Town,Rhyl FC,5,0,H,2,0,H
+WAL,2016-12-17,14:30,Newtown AFC,Cardiff Metropolitan,0,1,A,0,0,D
+WAL,2016-12-17,14:30,Bala Town,Llandudno FC,3,0,H,0,0,D
+WAL,2016-12-17,14:30,Bangor City,Airbus UK,2,1,H,1,1,D
+WAL,2016-12-17,17:15,Gap Connah's Quay FC,The New Saints,0,3,A,0,1,A
+WAL,2016-12-20,19:45,Airbus UK,Bala Town,2,4,A,2,1,H
+WAL,2016-12-20,20:00,Aberystwyth Town,Bangor City,0,3,A,0,0,D
+WAL,2016-12-26,13:00,Airbus UK,Gap Connah's Quay FC,0,3,A,0,0,D
+WAL,2016-12-26,13:30,Aberystwyth Town,Newtown AFC,1,0,H,0,0,D
+WAL,2016-12-26,14:30,Bala Town,Rhyl FC,6,1,H,5,1,H
+WAL,2016-12-26,14:30,Bangor City,Llandudno FC,2,1,H,0,0,D
+WAL,2016-12-26,14:30,Carmarthen Town,Cardiff Metropolitan,0,0,D,0,0,D
+WAL,2016-12-26,14:30,The New Saints,Cefn Druids,4,0,H,2,0,H
+WAL,2016-12-30,19:45,Cefn Druids,The New Saints,0,2,A,0,1,A
+WAL,2016-12-30,19:45,Gap Connah's Quay FC,Airbus UK,5,1,H,2,0,H
+WAL,2016-12-30,19:45,Rhyl FC,Bala Town,2,0,H,2,0,H
+WAL,2016-12-31,14:30,Cardiff Metropolitan,Carmarthen Town,1,3,A,1,0,H
+WAL,2016-12-31,14:30,Newtown AFC,Aberystwyth Town,2,2,D,0,1,A
+WAL,2017-01-01,17:15,Llandudno FC,Bangor City,1,0,H,0,0,D
+WAL,2017-01-07,13:30,Aberystwyth Town,Cefn Druids,0,1,A,0,0,D
+WAL,2017-01-14,17:15,Aberystwyth Town,Cardiff Metropolitan,0,2,A,0,1,A
+WAL,2017-01-14,17:15,Airbus UK,Bangor City,4,2,H,2,2,D
+WAL,2017-01-14,17:15,Bala Town,Gap Connah's Quay FC,0,0,D,0,0,D
+WAL,2017-01-14,17:15,Cefn Druids,Carmarthen Town,0,0,D,0,0,D
+WAL,2017-01-14,17:15,Llandudno FC,Rhyl FC,2,2,D,1,1,D
+WAL,2017-01-14,17:15,The New Saints,Newtown AFC,3,3,D,2,1,H

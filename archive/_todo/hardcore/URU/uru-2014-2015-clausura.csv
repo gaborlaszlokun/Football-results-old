@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+URU,2015-02-14,19:30,Sud América,Rampla Juniors,1,1,D,1,1,D
+URU,2015-02-14,19:30,El Tanque Sisley,Montevideo Wanderers,1,0,H,0,0,D
+URU,2015-02-14,19:30,River Plate,CA Atenas,2,5,A,0,2,A
+URU,2015-02-14,19:30,CA Cerro,CA Peñarol,0,3,A,0,0,D
+URU,2015-02-15,19:30,Racing Club,Danubio FC,0,1,A,0,0,D
+URU,2015-02-15,19:30,CA Juventud,CA Fénix,1,1,D,0,0,D
+URU,2015-02-15,19:30,Tacuarembó FC,CA Rentistas,0,1,A,0,1,A
+URU,2015-02-15,22:00,Defensor Sporting,Nacional,0,0,D,0,0,D
+URU,2015-02-21,19:30,CA Fénix,Tacuarembó FC,0,1,A,0,1,A
+URU,2015-02-21,19:30,Nacional,Sud América,1,2,A,0,1,A
+URU,2015-02-21,19:30,Rampla Juniors,El Tanque Sisley,3,2,H,2,1,H
+URU,2015-02-21,19:30,Montevideo Wanderers,River Plate,1,1,D,0,1,A
+URU,2015-02-22,19:30,CA Rentistas,Defensor Sporting,2,6,A,0,2,A
+URU,2015-02-22,19:30,CA Cerro,Racing Club,1,0,H,0,0,D
+URU,2015-02-22,19:30,CA Atenas,Danubio FC,3,1,H,1,1,D
+URU,2015-02-22,22:00,CA Peñarol,CA Juventud,4,1,H,2,0,H
+URU,2015-03-07,19:00,Defensor Sporting,CA Fénix,1,0,H,0,0,D
+URU,2015-03-07,19:00,Sud América,CA Rentistas,2,3,A,1,0,H
+URU,2015-03-07,19:00,Danubio FC,Montevideo Wanderers,0,0,D,0,0,D
+URU,2015-03-07,23:00,Tacuarembó FC,CA Peñarol,1,1,D,1,1,D
+URU,2015-03-08,13:00,Racing Club,CA Atenas,3,2,H,2,0,H
+URU,2015-03-08,19:00,River Plate,Rampla Juniors,4,0,H,4,0,H
+URU,2015-03-08,19:00,CA Juventud,CA Cerro,4,3,H,2,2,D
+URU,2015-03-08,23:30,El Tanque Sisley,Nacional,0,1,A,0,0,D
+URU,2015-03-14,19:00,CA Fénix,Sud América,0,0,D,0,0,D
+URU,2015-03-14,19:00,Rampla Juniors,Danubio FC,1,2,A,1,0,H
+URU,2015-03-14,20:00,Nacional,River Plate,1,2,A,1,2,A
+URU,2015-03-15,13:00,Montevideo Wanderers,CA Atenas,1,2,A,1,1,D
+URU,2015-03-15,19:00,CA Juventud,Racing Club,1,0,H,0,0,D
+URU,2015-03-15,19:00,CA Cerro,Tacuarembó FC,2,1,H,0,0,D
+URU,2015-03-15,19:00,CA Rentistas,El Tanque Sisley,0,1,A,0,0,D
+URU,2015-03-15,20:00,CA Peñarol,Defensor Sporting,2,0,H,1,0,H
+URU,2015-03-21,19:00,Sud América,CA Peñarol,1,0,H,1,0,H
+URU,2015-03-21,22:00,Defensor Sporting,CA Cerro,1,1,D,0,0,D
+URU,2015-03-22,19:00,Racing Club,Montevideo Wanderers,2,1,H,0,0,D
+URU,2015-03-22,19:00,Danubio FC,Nacional,2,1,H,2,0,H
+URU,2015-03-22,19:00,River Plate,CA Rentistas,1,0,H,0,0,D
+URU,2015-03-22,19:00,El Tanque Sisley,CA Fénix,0,3,A,0,1,A
+URU,2015-03-22,19:00,Tacuarembó FC,CA Juventud,2,1,H,0,0,D
+URU,2015-03-26,23:00,CA Atenas,Rampla Juniors,1,4,A,1,2,A
+URU,2015-03-28,19:00,CA Rentistas,Danubio FC,1,0,H,0,0,D
+URU,2015-03-28,22:00,CA Peñarol,El Tanque Sisley,2,1,H,2,0,H
+URU,2015-03-29,20:00,Tacuarembó FC,Racing Club,1,0,H,1,0,H
+URU,2015-03-29,20:00,CA Juventud,Defensor Sporting,5,0,H,2,0,H
+URU,2015-03-29,20:00,CA Cerro,Sud América,2,2,D,0,1,A
+URU,2015-03-29,20:00,CA Fénix,River Plate,1,2,A,0,1,A
+URU,2015-03-29,20:00,Rampla Juniors,Montevideo Wanderers,1,3,A,0,2,A
+URU,2015-03-29,21:30,Nacional,CA Atenas,5,3,H,0,0,D
+URU,2015-04-04,20:00,Montevideo Wanderers,Nacional,2,0,H,1,0,H
+URU,2015-04-04,20:00,Sud América,CA Juventud,1,2,A,0,0,D
+URU,2015-04-05,14:30,Racing Club,Rampla Juniors,0,3,A,0,0,D
+URU,2015-04-05,20:00,CA Atenas,CA Rentistas,1,0,H,1,0,H
+URU,2015-04-05,20:00,Danubio FC,CA Fénix,3,0,H,1,0,H
+URU,2015-04-05,20:00,River Plate,CA Peñarol,1,2,A,0,2,A
+URU,2015-04-05,20:00,El Tanque Sisley,CA Cerro,1,2,A,0,1,A
+URU,2015-04-05,20:00,Defensor Sporting,Tacuarembó FC,1,0,H,0,0,D
+URU,2015-04-11,19:30,CA Fénix,CA Atenas,3,2,H,1,0,H
+URU,2015-04-11,20:00,CA Peñarol,Danubio FC,2,3,A,1,2,A
+URU,2015-04-12,14:00,CA Juventud,El Tanque Sisley,1,1,D,1,1,D
+URU,2015-04-12,19:30,Defensor Sporting,Racing Club,2,1,H,1,1,D
+URU,2015-04-12,19:30,Tacuarembó FC,Sud América,2,2,D,2,0,H
+URU,2015-04-12,19:30,CA Cerro,River Plate,2,2,D,1,2,A
+URU,2015-04-12,19:30,CA Rentistas,Montevideo Wanderers,1,1,D,0,1,A
+URU,2015-04-12,20:00,Nacional,Rampla Juniors,3,1,H,3,1,H
+URU,2015-04-18,19:30,Racing Club,Nacional,2,4,A,1,2,A
+URU,2015-04-18,19:30,Rampla Juniors,CA Rentistas,1,0,H,0,0,D
+URU,2015-04-18,19:30,Sud América,Defensor Sporting,0,0,D,0,0,D
+URU,2015-04-19,14:30,River Plate,CA Juventud,2,0,H,2,0,H
+URU,2015-04-19,19:30,CA Atenas,CA Peñarol,1,1,D,0,0,D
+URU,2015-04-19,19:30,Danubio FC,CA Cerro,1,0,H,0,0,D
+URU,2015-04-19,19:30,El Tanque Sisley,Tacuarembó FC,1,1,D,0,1,A
+URU,2015-04-21,19:30,Montevideo Wanderers,CA Fénix,0,1,A,0,1,A
+URU,2015-04-25,19:30,Sud América,Racing Club,3,1,H,2,0,H
+URU,2015-04-25,20:00,CA Peñarol,Montevideo Wanderers,2,1,H,2,0,H
+URU,2015-04-26,19:30,Defensor Sporting,El Tanque Sisley,2,2,D,1,1,D
+URU,2015-04-26,19:30,Tacuarembó FC,River Plate,1,3,A,1,1,D
+URU,2015-04-26,19:30,CA Juventud,Danubio FC,0,1,A,0,0,D
+URU,2015-04-26,19:30,CA Cerro,CA Atenas,2,1,H,1,0,H
+URU,2015-04-26,19:30,CA Fénix,Rampla Juniors,1,0,H,1,0,H
+URU,2015-04-26,22:00,CA Rentistas,Nacional,2,4,A,1,3,A
+URU,2015-05-02,19:30,Montevideo Wanderers,CA Cerro,4,1,H,2,1,H
+URU,2015-05-02,20:00,Nacional,CA Fénix,1,0,H,1,0,H
+URU,2015-05-03,19:30,Racing Club,CA Rentistas,1,4,A,0,1,A
+URU,2015-05-03,19:30,CA Atenas,CA Juventud,0,4,A,0,1,A
+URU,2015-05-03,19:30,Danubio FC,Tacuarembó FC,0,1,A,0,0,D
+URU,2015-05-03,19:30,River Plate,Defensor Sporting,1,2,A,0,0,D
+URU,2015-05-03,19:30,El Tanque Sisley,Sud América,1,1,D,0,1,A
+URU,2015-05-03,22:00,Rampla Juniors,CA Peñarol,0,2,A,0,1,A
+URU,2015-05-16,19:30,Sud América,River Plate,0,4,A,0,1,A
+URU,2015-05-16,19:30,Tacuarembó FC,CA Atenas,4,2,H,1,1,D
+URU,2015-05-16,19:30,CA Cerro,Rampla Juniors,2,0,H,1,0,H
+URU,2015-05-16,19:30,CA Fénix,CA Rentistas,4,1,H,1,0,H
+URU,2015-05-16,22:00,Defensor Sporting,Danubio FC,1,1,D,1,1,D
+URU,2015-05-17,00:00,El Tanque Sisley,Racing Club,1,3,A,0,1,A
+URU,2015-05-17,18:00,CA Juventud,Montevideo Wanderers,1,0,H,0,0,D
+URU,2015-05-17,20:00,CA Peñarol,Nacional,1,1,D,0,0,D
+URU,2015-05-23,19:00,River Plate,El Tanque Sisley,4,0,H,1,0,H
+URU,2015-05-23,22:00,CA Rentistas,CA Peñarol,0,2,A,0,1,A
+URU,2015-05-24,19:00,Racing Club,CA Fénix,2,1,H,2,1,H
+URU,2015-05-24,19:00,CA Cerro,Nacional,1,0,H,0,0,D
+URU,2015-05-24,19:00,Rampla Juniors,CA Juventud,1,3,A,0,0,D
+URU,2015-05-24,19:00,Montevideo Wanderers,Tacuarembó FC,4,1,H,1,0,H
+URU,2015-05-24,19:00,CA Atenas,Defensor Sporting,1,2,A,0,2,A
+URU,2015-05-24,19:00,Danubio FC,Sud América,0,1,A,0,0,D
+URU,2015-05-30,19:00,CA Juventud,Nacional,0,0,D,0,0,D
+URU,2015-05-30,21:30,Defensor Sporting,Montevideo Wanderers,2,0,H,1,0,H
+URU,2015-05-31,19:00,River Plate,Racing Club,1,0,H,0,0,D
+URU,2015-05-31,19:00,El Tanque Sisley,Danubio FC,1,0,H,1,0,H
+URU,2015-05-31,19:00,Sud América,CA Atenas,1,1,D,0,1,A
+URU,2015-05-31,19:00,Tacuarembó FC,Rampla Juniors,4,2,H,1,1,D
+URU,2015-05-31,19:00,CA Cerro,CA Rentistas,2,0,H,2,0,H
+URU,2015-05-31,19:00,CA Peñarol,CA Fénix,2,0,H,1,0,H
+URU,2015-06-06,00:00,Nacional,Tacuarembó FC,2,3,A,1,0,H
+URU,2015-06-06,15:00,CA Fénix,CA Cerro,3,0,H,1,0,H
+URU,2015-06-07,15:00,Montevideo Wanderers,Sud América,1,2,A,0,2,A
+URU,2015-06-07,15:00,CA Atenas,El Tanque Sisley,2,4,A,1,0,H
+URU,2015-06-07,19:00,Racing Club,CA Peñarol,2,2,D,0,1,A
+URU,2015-06-07,19:00,CA Rentistas,CA Juventud,1,1,D,1,1,D
+URU,2015-06-07,19:00,Rampla Juniors,Defensor Sporting,0,0,D,0,0,D
+URU,2015-06-07,19:00,Danubio FC,River Plate,2,0,H,0,0,D

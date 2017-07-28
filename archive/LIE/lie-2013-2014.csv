@@ -1,18 +1,18 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-LIE,20/08/2013,19:30,USV Eschen/Mauren III,FC Vaduz III,5,2,H,NaN,NaN,NaN
-LIE,21/08/2013,19:00,FC Balzers III,USV Eschen/Mauren II,2,1,H,NaN,NaN,NaN
-LIE,21/08/2013,19:00,FC Triesenberg II,FC Azzurri Schaan,2,4,A,NaN,NaN,NaN
-LIE,21/08/2013,19:00,FC Ruggell II,FC Triesen II,0,2,A,NaN,NaN,NaN
-LIE,21/08/2013,19:00,FC Schaan II,FC Triesen,0,4,A,NaN,NaN,NaN
-LIE,28/08/2013,19:00,FC Balzers II,FC Vaduz II,2,0,H,NaN,NaN,NaN
-LIE,01/10/2013,19:00,FC Balzers III,FC Azzurri Schaan,2,3,A,NaN,NaN,NaN
-LIE,02/10/2013,19:00,FC Triesen,FC Ruggell,1,2,A,NaN,NaN,NaN
-LIE,02/10/2013,19:00,FC Balzers II,FC Schaan,0,3,A,NaN,NaN,NaN
-LIE,02/10/2013,19:00,USV Eschen/Mauren III,FC Triesen II,4,3,H,NaN,NaN,NaN
-LIE,29/10/2013,18:30,USV Eschen/Mauren III,FC Azzurri Schaan,0,1,A,NaN,NaN,NaN
-LIE,30/10/2013,19:00,FC Schaan,FC Vaduz,0,6,A,NaN,NaN,NaN
-LIE,05/11/2013,18:30,USV Eschen/Mauren,FC Balzers,4,1,H,NaN,NaN,NaN
-LIE,06/11/2013,19:00,FC Ruggell,FC Triesenberg,2,1,H,NaN,NaN,NaN
-LIE,08/04/2014,19:15,FC Azzurri Schaan,USV Eschen/Mauren,0,5,A,NaN,NaN,NaN
-LIE,09/04/2014,18:30,FC Ruggell,FC Vaduz,0,8,A,NaN,NaN,NaN
-LIE,01/05/2014,16:00,FC Vaduz,USV Eschen/Mauren,6,0,H,NaN,NaN,NaN
+LIE,2013-08-20,19:30,USV Eschen/Mauren III,FC Vaduz III,5,2,H,,,
+LIE,2013-08-21,19:00,FC Balzers III,USV Eschen/Mauren II,2,1,H,,,
+LIE,2013-08-21,19:00,FC Triesenberg II,FC Azzurri Schaan,2,4,A,,,
+LIE,2013-08-21,19:00,FC Ruggell II,FC Triesen II,0,2,A,,,
+LIE,2013-08-21,19:00,FC Schaan II,FC Triesen,0,4,A,,,
+LIE,2013-08-28,19:00,FC Balzers II,FC Vaduz II,2,0,H,,,
+LIE,2013-10-01,19:00,FC Balzers III,FC Azzurri Schaan,2,3,A,,,
+LIE,2013-10-02,19:00,FC Triesen,FC Ruggell,1,2,A,,,
+LIE,2013-10-02,19:00,FC Balzers II,FC Schaan,0,3,A,,,
+LIE,2013-10-02,19:00,USV Eschen/Mauren III,FC Triesen II,4,3,H,,,
+LIE,2013-10-29,18:30,USV Eschen/Mauren III,FC Azzurri Schaan,0,1,A,,,
+LIE,2013-10-30,19:00,FC Schaan,FC Vaduz,0,6,A,,,
+LIE,2013-11-05,18:30,USV Eschen/Mauren,FC Balzers,4,1,H,,,
+LIE,2013-11-06,19:00,FC Ruggell,FC Triesenberg,2,1,H,,,
+LIE,2014-04-08,19:15,FC Azzurri Schaan,USV Eschen/Mauren,0,5,A,,,
+LIE,2014-04-09,18:30,FC Ruggell,FC Vaduz,0,8,A,,,
+LIE,2014-05-01,16:00,FC Vaduz,USV Eschen/Mauren,6,0,H,,,

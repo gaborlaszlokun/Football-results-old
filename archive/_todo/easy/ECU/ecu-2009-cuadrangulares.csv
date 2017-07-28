@@ -1,0 +1,29 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ECU,2009-10-17,01:30,LDU Quito,Manta FC,4,0,H,3,0,H
+ECU,2009-10-18,18:00,Macará,Deportivo Quito,0,1,A,0,1,A
+ECU,2009-10-18,18:00,CS Emelec,Deportivo Cuenca,0,1,A,0,1,A
+ECU,2009-10-18,18:00,CD Olmedo,Espoli,0,0,D,0,0,D
+ECU,2009-10-24,02:00,Deportivo Cuenca,CD Olmedo,2,1,H,1,1,D
+ECU,2009-10-25,17:00,Deportivo Quito,LDU Quito,0,0,D,0,0,D
+ECU,2009-10-25,17:00,Manta FC,Macará,0,2,A,0,0,D
+ECU,2009-10-25,17:00,Espoli,CS Emelec,0,0,D,0,0,D
+ECU,2009-10-31,01:00,Deportivo Cuenca,Espoli,1,0,H,1,0,H
+ECU,2009-10-31,21:00,Deportivo Quito,Manta FC,4,0,H,1,0,H
+ECU,2009-10-31,21:00,Macará,LDU Quito,0,0,D,0,0,D
+ECU,2009-11-01,17:00,CD Olmedo,CS Emelec,2,0,H,0,0,D
+ECU,2009-11-07,21:00,Manta FC,Deportivo Quito,0,0,D,0,0,D
+ECU,2009-11-08,16:45,LDU Quito,Macará,0,0,D,0,0,D
+ECU,2009-11-08,17:00,CS Emelec,CD Olmedo,2,1,H,1,1,D
+ECU,2009-11-08,19:00,Espoli,Deportivo Cuenca,0,1,A,0,1,A
+ECU,2009-11-15,17:00,Macará,Manta FC,0,0,D,0,0,D
+ECU,2009-11-15,17:00,CS Emelec,Espoli,1,1,D,1,1,D
+ECU,2009-11-15,17:00,CD Olmedo,Deportivo Cuenca,1,2,A,1,1,D
+ECU,2009-11-16,20:45,LDU Quito,Deportivo Quito,0,1,A,0,1,A
+ECU,2009-11-21,17:00,Espoli,CD Olmedo,2,3,A,0,0,D
+ECU,2009-11-22,17:00,Manta FC,LDU Quito,1,0,H,0,0,D
+ECU,2009-11-22,17:00,Deportivo Quito,Macará,2,0,H,0,0,D
+ECU,2009-11-22,17:00,Deportivo Cuenca,CS Emelec,1,1,D,0,0,D
+ECU,2009-11-29,17:00,CS Emelec,LDU Quito,1,0,H,1,0,H
+ECU,2009-11-29,17:00,Deportivo Cuenca,Deportivo Quito,1,1,D,0,0,D
+ECU,2009-12-05,20:45,Deportivo Quito,Deportivo Cuenca,3,2,H,0,0,D
+ECU,2009-12-07,21:00,LDU Quito,CS Emelec,0,1,A,0,0,D

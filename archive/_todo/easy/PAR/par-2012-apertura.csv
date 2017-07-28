@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PAR,2012-02-03,21:30,Guaraní,Independiente FBC,3,1,H,1,0,H
+PAR,2012-02-03,23:00,Club Olimpia,Sportivo Carapeguá,3,2,H,2,1,H
+PAR,2012-02-04,21:30,Tacuary,Rubio Ñu,0,1,A,0,1,A
+PAR,2012-02-04,22:00,Libertad,Club Nacional,1,0,H,1,0,H
+PAR,2012-02-05,20:30,Sol de América,Cerro de Franco,4,1,H,0,0,D
+PAR,2012-02-05,21:30,Sportivo Luqueño,Cerro Porteño,2,0,H,0,0,D
+PAR,2012-02-11,20:15,Rubio Ñu,Guaraní,2,1,H,2,1,H
+PAR,2012-02-11,22:30,Sportivo Carapeguá,Cerro Porteño,1,2,A,1,1,D
+PAR,2012-02-12,20:30,Club Nacional,Tacuary,2,0,H,2,0,H
+PAR,2012-02-12,20:30,Independiente FBC,Sol de América,2,4,A,1,1,D
+PAR,2012-02-12,21:30,Cerro de Franco,Club Olimpia,0,0,D,0,0,D
+PAR,2012-02-12,22:00,Libertad,Sportivo Luqueño,1,0,H,1,0,H
+PAR,2012-02-18,20:30,Sol de América,Rubio Ñu,2,0,H,2,0,H
+PAR,2012-02-18,21:30,Guaraní,Club Nacional,1,3,A,1,1,D
+PAR,2012-02-18,22:45,Club Olimpia,Independiente FBC,1,1,D,1,1,D
+PAR,2012-02-19,20:30,Sportivo Luqueño,Sportivo Carapeguá,1,1,D,0,0,D
+PAR,2012-02-19,21:30,Cerro Porteño,Cerro de Franco,1,0,H,1,0,H
+PAR,2012-02-20,22:00,Tacuary,Libertad,1,1,D,0,0,D
+PAR,2012-02-24,22:30,Cerro de Franco,Sportivo Carapeguá,1,0,H,0,0,D
+PAR,2012-02-25,20:30,Club Nacional,Sol de América,2,1,H,2,0,H
+PAR,2012-02-25,21:00,Libertad,Guaraní,2,2,D,2,0,H
+PAR,2012-02-25,23:15,Independiente FBC,Cerro Porteño,1,4,A,0,2,A
+PAR,2012-02-26,21:30,Tacuary,Sportivo Luqueño,0,0,D,0,0,D
+PAR,2012-02-26,21:30,Rubio Ñu,Club Olimpia,2,3,A,1,1,D
+PAR,2012-03-02,22:00,Guaraní,Tacuary,4,0,H,1,0,H
+PAR,2012-03-03,20:15,Sol de América,Libertad,0,3,A,0,2,A
+PAR,2012-03-03,22:45,Club Olimpia,Club Nacional,2,1,H,1,0,H
+PAR,2012-03-04,20:30,Sportivo Carapeguá,Independiente FBC,3,0,H,1,0,H
+PAR,2012-03-04,21:30,Cerro Porteño,Rubio Ñu,5,3,H,3,0,H
+PAR,2012-03-04,22:00,Sportivo Luqueño,Cerro de Franco,3,0,H,1,0,H
+PAR,2012-03-09,23:00,Libertad,Club Olimpia,0,1,A,0,1,A
+PAR,2012-03-10,20:30,Guaraní,Sportivo Luqueño,3,1,H,2,0,H
+PAR,2012-03-10,22:45,Club Nacional,Cerro Porteño,2,0,H,1,0,H
+PAR,2012-03-11,20:15,Rubio Ñu,Sportivo Carapeguá,1,2,A,1,2,A
+PAR,2012-03-11,20:15,Independiente FBC,Cerro de Franco,1,1,D,0,0,D
+PAR,2012-03-11,21:30,Tacuary,Sol de América,2,6,A,1,5,A
+PAR,2012-03-17,20:15,Cerro de Franco,Rubio Ñu,3,1,H,1,0,H
+PAR,2012-03-17,22:30,Cerro Porteño,Libertad,1,0,H,1,0,H
+PAR,2012-03-18,19:50,Sol de América,Guaraní,0,1,A,0,0,D
+PAR,2012-03-18,20:15,Sportivo Carapeguá,Club Nacional,2,1,H,2,0,H
+PAR,2012-03-18,22:00,Sportivo Luqueño,Independiente FBC,1,3,A,0,1,A
+PAR,2012-03-18,22:00,Club Olimpia,Tacuary,2,1,H,1,0,H
+PAR,2012-03-23,19:45,Club Nacional,Cerro de Franco,2,1,H,1,1,D
+PAR,2012-03-24,19:45,Rubio Ñu,Independiente FBC,2,1,H,1,1,D
+PAR,2012-03-24,22:30,Guaraní,Club Olimpia,0,1,A,0,0,D
+PAR,2012-03-25,20:50,Sol de América,Sportivo Luqueño,2,3,A,1,2,A
+PAR,2012-03-25,23:00,Tacuary,Cerro Porteño,2,4,A,2,2,D
+PAR,2012-03-25,23:00,Libertad,Sportivo Carapeguá,1,1,D,0,0,D
+PAR,2012-03-31,20:45,Cerro de Franco,Libertad,0,2,A,0,1,A
+PAR,2012-03-31,23:00,Club Olimpia,Sol de América,1,0,H,0,0,D
+PAR,2012-04-01,20:30,Independiente FBC,Club Nacional,2,5,A,1,2,A
+PAR,2012-04-01,20:45,Sportivo Luqueño,Rubio Ñu,1,1,D,1,0,H
+PAR,2012-04-01,20:45,Sportivo Carapeguá,Tacuary,1,1,D,1,0,H
+PAR,2012-04-01,22:45,Cerro Porteño,Guaraní,1,0,H,0,0,D
+PAR,2012-04-07,20:30,Club Nacional,Rubio Ñu,0,2,A,0,1,A
+PAR,2012-04-07,22:00,Tacuary,Cerro de Franco,1,0,H,1,0,H
+PAR,2012-04-07,23:00,Sol de América,Cerro Porteño,2,2,D,1,0,H
+PAR,2012-04-08,21:30,Guaraní,Sportivo Carapeguá,2,1,H,1,1,D
+PAR,2012-04-08,23:30,Libertad,Independiente FBC,1,1,D,1,0,H
+PAR,2012-04-08,23:40,Club Olimpia,Sportivo Luqueño,2,1,H,0,1,A
+PAR,2012-04-14,20:30,Independiente FBC,Tacuary,2,1,H,0,0,D
+PAR,2012-04-14,20:30,Cerro de Franco,Guaraní,2,1,H,2,1,H
+PAR,2012-04-15,21:00,Cerro Porteño,Club Olimpia,0,1,A,0,1,A
+PAR,2012-04-15,22:00,Sportivo Carapeguá,Sol de América,0,2,A,0,1,A
+PAR,2012-04-15,23:15,Sportivo Luqueño,Club Nacional,2,1,H,1,0,H
+PAR,2012-04-16,20:15,Rubio Ñu,Libertad,1,5,A,0,1,A
+PAR,2012-04-18,20:30,Cerro de Franco,Sol de América,1,1,D,1,0,H
+PAR,2012-04-18,20:30,Independiente FBC,Guaraní,0,1,A,0,0,D
+PAR,2012-04-18,23:00,Cerro Porteño,Sportivo Luqueño,3,0,H,0,0,D
+PAR,2012-04-19,01:10,Sportivo Carapeguá,Club Olimpia,1,2,A,1,1,D
+PAR,2012-04-21,23:00,Club Olimpia,Cerro de Franco,3,3,D,1,1,D
+PAR,2012-04-22,20:30,Sol de América,Independiente FBC,1,2,A,0,1,A
+PAR,2012-04-22,20:45,Sportivo Luqueño,Libertad,0,4,A,0,0,D
+PAR,2012-04-22,22:00,Guaraní,Rubio Ñu,1,0,H,0,0,D
+PAR,2012-04-22,23:00,Cerro Porteño,Sportivo Carapeguá,1,0,H,1,0,H
+PAR,2012-04-23,22:00,Tacuary,Club Nacional,0,3,A,0,2,A
+PAR,2012-04-27,23:15,Libertad,Tacuary,2,1,H,0,1,A
+PAR,2012-04-28,20:00,Club Nacional,Guaraní,1,1,D,0,1,A
+PAR,2012-04-29,20:00,Rubio Ñu,Sol de América,0,3,A,0,1,A
+PAR,2012-04-29,20:00,Sportivo Carapeguá,Sportivo Luqueño,0,0,D,0,0,D
+PAR,2012-04-29,20:50,Cerro de Franco,Cerro Porteño,1,2,A,1,2,A
+PAR,2012-04-29,23:00,Independiente FBC,Club Olimpia,3,0,H,2,0,H
+PAR,2012-05-05,23:00,Guaraní,Libertad,2,3,A,1,2,A
+PAR,2012-05-05,23:15,Club Olimpia,Rubio Ñu,1,0,H,0,0,D
+PAR,2012-05-06,20:00,Sol de América,Club Nacional,3,2,H,1,2,A
+PAR,2012-05-06,20:00,Sportivo Carapeguá,Cerro de Franco,1,2,A,1,2,A
+PAR,2012-05-06,22:10,Cerro Porteño,Independiente FBC,1,2,A,0,0,D
+PAR,2012-05-06,23:00,Sportivo Luqueño,Tacuary,1,1,D,0,0,D
+PAR,2012-05-12,20:00,Cerro de Franco,Sportivo Luqueño,0,1,A,0,1,A
+PAR,2012-05-12,22:00,Libertad,Sol de América,0,1,A,0,0,D
+PAR,2012-05-13,00:10,Tacuary,Guaraní,1,1,D,1,1,D
+PAR,2012-05-13,20:00,Independiente FBC,Sportivo Carapeguá,1,1,D,1,0,H
+PAR,2012-05-13,20:10,Club Nacional,Club Olimpia,0,0,D,0,0,D
+PAR,2012-05-13,22:30,Rubio Ñu,Cerro Porteño,2,3,A,1,1,D
+PAR,2012-05-16,20:00,Rubio Ñu,Tacuary,1,0,H,0,0,D
+PAR,2012-06-06,20:00,Club Nacional,Libertad,1,2,A,1,2,A
+PAR,2012-06-12,19:30,Cerro de Franco,Independiente FBC,1,1,D,1,1,D
+PAR,2012-06-12,20:00,Sol de América,Tacuary,2,0,H,2,0,H
+PAR,2012-06-12,20:00,Sportivo Carapeguá,Rubio Ñu,2,1,H,1,1,D
+PAR,2012-06-12,20:50,Sportivo Luqueño,Guaraní,2,2,D,1,1,D
+PAR,2012-06-12,23:00,Club Olimpia,Libertad,2,1,H,1,1,D
+PAR,2012-06-14,00:00,Cerro Porteño,Club Nacional,2,1,H,0,1,A
+PAR,2012-06-16,22:00,Tacuary,Club Olimpia,0,0,D,0,0,D
+PAR,2012-06-17,20:00,Club Nacional,Sportivo Carapeguá,3,1,H,1,0,H
+PAR,2012-06-17,20:00,Rubio Ñu,Cerro de Franco,1,2,A,0,1,A
+PAR,2012-06-17,20:00,Independiente FBC,Sportivo Luqueño,1,1,D,0,1,A
+PAR,2012-06-17,20:30,Guaraní,Sol de América,2,1,H,0,1,A
+PAR,2012-06-17,22:40,Libertad,Cerro Porteño,2,1,H,1,0,H
+PAR,2012-06-26,19:30,Cerro de Franco,Club Nacional,5,0,H,3,0,H
+PAR,2012-06-26,20:00,Sportivo Carapeguá,Libertad,2,2,D,1,1,D
+PAR,2012-06-26,20:00,Independiente FBC,Rubio Ñu,1,0,H,1,0,H
+PAR,2012-06-26,23:00,Sportivo Luqueño,Sol de América,0,2,A,0,0,D
+PAR,2012-06-27,00:00,Club Olimpia,Guaraní,2,0,H,1,0,H
+PAR,2012-06-28,00:00,Cerro Porteño,Tacuary,2,0,H,0,0,D
+PAR,2012-06-30,20:00,Club Nacional,Independiente FBC,5,0,H,1,0,H
+PAR,2012-06-30,20:00,Rubio Ñu,Sportivo Luqueño,0,0,D,0,0,D
+PAR,2012-06-30,22:30,Sol de América,Club Olimpia,0,1,A,0,1,A
+PAR,2012-06-30,23:00,Tacuary,Sportivo Carapeguá,1,1,D,0,1,A
+PAR,2012-07-01,20:30,Libertad,Cerro de Franco,2,0,H,0,0,D
+PAR,2012-07-01,22:45,Guaraní,Cerro Porteño,0,1,A,0,0,D
+PAR,2012-07-04,19:45,Rubio Ñu,Club Nacional,3,3,D,1,2,A
+PAR,2012-07-04,20:00,Cerro de Franco,Tacuary,2,1,H,2,1,H
+PAR,2012-07-04,20:00,Independiente FBC,Libertad,1,4,A,0,3,A
+PAR,2012-07-04,20:15,Cerro Porteño,Sol de América,2,0,H,0,0,D
+PAR,2012-07-04,20:15,Sportivo Luqueño,Club Olimpia,2,1,H,1,0,H
+PAR,2012-07-04,23:00,Sportivo Carapeguá,Guaraní,0,0,D,0,0,D
+PAR,2012-07-07,20:00,Club Nacional,Sportivo Luqueño,2,1,H,2,0,H
+PAR,2012-07-07,21:15,Guaraní,Cerro de Franco,0,0,D,0,0,D
+PAR,2012-07-07,23:30,Libertad,Rubio Ñu,1,0,H,1,0,H
+PAR,2012-07-08,14:45,Sol de América,Sportivo Carapeguá,1,0,H,0,0,D
+PAR,2012-07-08,20:00,Club Olimpia,Cerro Porteño,1,2,A,0,1,A
+PAR,2012-07-08,21:00,Tacuary,Independiente FBC,1,1,D,0,1,A

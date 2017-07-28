@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,17/08/1967,,Olympique Marseille,FC Nantes,1,0,H,0,0,D
-FRA,18/08/1967,,Olympique Lyon,AC Ajaccio,2,1,H,0,0,D
-FRA,18/08/1967,,RC Strasbourg,AS Saint-Étienne,0,1,A,0,0,D
-FRA,18/08/1967,,Lille OSC,AS Aixoise,2,1,H,0,1,A
-FRA,19/08/1967,,Angers SCO,FC Rouen,3,0,H,1,0,H
-FRA,19/08/1967,,FC Sochaux,OGC Nice,0,2,A,0,2,A
-FRA,19/08/1967,,Stade Rennes,RC Lens,1,0,H,1,0,H
-FRA,19/08/1967,,CS Sedan,US Valenciennes-Anzin,1,1,D,1,1,D
-FRA,19/08/1967,,FC Metz,Red Star FC,1,1,D,0,1,A
-FRA,20/08/1967,,AS Monaco,Girondins Bordeaux,1,2,A,1,1,D
-FRA,24/08/1967,,Lille OSC,Olympique Lyon,1,1,D,0,1,A
-FRA,25/08/1967,,AS Saint-Étienne,RC Lens,3,0,H,1,0,H
-FRA,25/08/1967,,OGC Nice,CS Sedan,1,0,H,1,0,H
-FRA,25/08/1967,,Girondins Bordeaux,Olympique Marseille,1,2,A,0,1,A
-FRA,25/08/1967,,AS Aixoise,Angers SCO,1,3,A,0,2,A
-FRA,26/08/1967,,US Valenciennes-Anzin,FC Metz,1,2,A,0,1,A
-FRA,26/08/1967,,FC Nantes,RC Strasbourg,3,0,H,0,0,D
-FRA,26/08/1967,,FC Rouen,FC Sochaux,1,0,H,1,0,H
-FRA,27/08/1967,,AC Ajaccio,Stade Rennes,2,0,H,1,0,H
-FRA,27/08/1967,,Red Star FC,AS Monaco,2,0,H,1,0,H
-FRA,30/08/1967,,Angers SCO,AC Ajaccio,3,0,H,2,0,H
-FRA,30/08/1967,,AS Saint-Étienne,Girondins Bordeaux,1,0,H,1,0,H
-FRA,30/08/1967,,Olympique Marseille,OGC Nice,0,2,A,0,1,A
-FRA,30/08/1967,,RC Lens,FC Nantes,1,3,A,1,1,D
-FRA,30/08/1967,,CS Sedan,Lille OSC,1,1,D,1,0,H
-FRA,30/08/1967,,FC Metz,FC Rouen,1,1,D,0,0,D
-FRA,30/08/1967,,Stade Rennes,Olympique Lyon,1,0,H,0,0,D
-FRA,30/08/1967,,RC Strasbourg,Red Star FC,2,1,H,1,0,H
-FRA,30/08/1967,,AS Monaco,US Valenciennes-Anzin,0,1,A,0,1,A
-FRA,30/08/1967,,FC Sochaux,AS Aixoise,1,1,D,0,0,D
-FRA,02/09/1967,,FC Nantes,AS Saint-Étienne,1,1,D,1,1,D
-FRA,02/09/1967,,Lille OSC,Stade Rennes,2,0,H,0,0,D
-FRA,02/09/1967,,Olympique Lyon,Angers SCO,8,0,H,3,0,H
-FRA,02/09/1967,,Girondins Bordeaux,RC Lens,6,1,H,3,1,H
-FRA,02/09/1967,,US Valenciennes-Anzin,RC Strasbourg,0,1,A,0,0,D
-FRA,02/09/1967,,FC Rouen,CS Sedan,0,0,D,0,0,D
-FRA,02/09/1967,,AS Aixoise,AS Monaco,0,0,D,0,0,D
-FRA,03/09/1967,,OGC Nice,FC Metz,4,1,H,2,1,H
-FRA,03/09/1967,,Red Star FC,Olympique Marseille,2,0,H,1,0,H
-FRA,03/09/1967,,AC Ajaccio,FC Sochaux,1,1,D,1,0,H
-FRA,08/09/1967,,AS Saint-Étienne,Red Star FC,1,1,D,1,0,H
-FRA,08/09/1967,,Olympique Marseille,Lille OSC,0,0,D,0,0,D
-FRA,08/09/1967,,RC Strasbourg,Girondins Bordeaux,0,1,A,0,0,D
-FRA,09/09/1967,,FC Nantes,FC Rouen,0,0,D,0,0,D
-FRA,09/09/1967,,FC Metz,AS Aixoise,3,1,H,1,1,D
-FRA,09/09/1967,,FC Sochaux,Olympique Lyon,3,1,H,1,0,H
-FRA,09/09/1967,,CS Sedan,AC Ajaccio,2,0,H,1,0,H
-FRA,10/09/1967,,AS Monaco,OGC Nice,2,2,D,2,1,H
-FRA,10/09/1967,,Angers SCO,Stade Rennes,1,1,D,0,0,D
-FRA,10/09/1967,,RC Lens,US Valenciennes-Anzin,1,0,H,1,0,H
-FRA,22/09/1967,,Lille OSC,Angers SCO,2,1,H,1,1,D
-FRA,23/09/1967,,Girondins Bordeaux,FC Nantes,6,2,H,4,1,H
-FRA,23/09/1967,,FC Rouen,Olympique Marseille,1,2,A,0,2,A
-FRA,23/09/1967,,Stade Rennes,FC Sochaux,1,1,D,1,0,H
-FRA,23/09/1967,,Olympique Lyon,AS Monaco,1,2,A,0,2,A
-FRA,24/09/1967,,OGC Nice,RC Strasbourg,2,0,H,1,0,H
-FRA,24/09/1967,,US Valenciennes-Anzin,AS Saint-Étienne,1,2,A,0,2,A
-FRA,24/09/1967,,Red Star FC,RC Lens,3,2,H,1,2,A
-FRA,24/09/1967,,AC Ajaccio,FC Metz,2,1,H,1,0,H
-FRA,24/09/1967,,AS Aixoise,CS Sedan,4,2,H,0,1,A
-FRA,30/09/1967,,RC Lens,OGC Nice,0,0,D,0,0,D
-FRA,30/09/1967,,AS Saint-Étienne,AS Aixoise,3,1,H,2,0,H
-FRA,30/09/1967,,Girondins Bordeaux,Lille OSC,2,1,H,2,1,H
-FRA,30/09/1967,,FC Nantes,Red Star FC,4,2,H,2,1,H
-FRA,30/09/1967,,FC Metz,Olympique Lyon,3,1,H,0,0,D
-FRA,30/09/1967,,CS Sedan,Stade Rennes,3,0,H,1,0,H
-FRA,30/09/1967,,FC Sochaux,Angers SCO,2,0,H,1,0,H
-FRA,30/09/1967,,AS Monaco,AC Ajaccio,0,1,A,0,1,A
-FRA,01/10/1967,,Olympique Marseille,US Valenciennes-Anzin,2,0,H,1,0,H
-FRA,25/10/1967,,RC Strasbourg,FC Rouen,2,1,H,1,0,H
-FRA,04/10/1967,,Red Star FC,Girondins Bordeaux,1,0,H,0,0,D
-FRA,04/10/1967,,AC Ajaccio,Olympique Marseille,2,2,D,2,1,H
-FRA,04/10/1967,,Lille OSC,FC Sochaux,0,1,A,0,1,A
-FRA,04/10/1967,,Stade Rennes,FC Metz,0,0,D,0,0,D
-FRA,04/10/1967,,Angers SCO,AS Monaco,3,0,H,1,0,H
-FRA,04/10/1967,,US Valenciennes-Anzin,FC Nantes,2,1,H,0,0,D
-FRA,04/10/1967,,AS Aixoise,RC Strasbourg,0,3,A,0,1,A
-FRA,04/10/1967,,FC Rouen,RC Lens,0,1,A,0,0,D
-FRA,08/11/1967,,Olympique Lyon,CS Sedan,0,2,A,0,0,D
-FRA,13/12/1967,,OGC Nice,AS Saint-Étienne,1,2,A,1,2,A
-FRA,07/10/1967,,FC Nantes,OGC Nice,0,0,D,0,0,D
-FRA,07/10/1967,,Olympique Marseille,Olympique Lyon,2,1,H,1,0,H
-FRA,07/10/1967,,FC Metz,Angers SCO,1,1,D,1,0,H
-FRA,07/10/1967,,RC Strasbourg,Stade Rennes,1,1,D,0,0,D
-FRA,08/10/1967,,AS Saint-Étienne,FC Rouen,3,0,H,2,0,H
-FRA,08/10/1967,,Red Star FC,AC Ajaccio,4,1,H,3,0,H
-FRA,08/10/1967,,Girondins Bordeaux,US Valenciennes-Anzin,0,1,A,0,1,A
-FRA,08/10/1967,,CS Sedan,FC Sochaux,2,0,H,1,0,H
-FRA,08/10/1967,,AS Monaco,Lille OSC,3,1,H,2,0,H
-FRA,08/10/1967,,RC Lens,AS Aixoise,4,1,H,0,0,D
-FRA,13/10/1967,,Lille OSC,RC Lens,0,1,A,0,1,A
-FRA,14/10/1967,,FC Sochaux,FC Metz,3,2,H,1,2,A
-FRA,14/10/1967,,FC Rouen,AS Monaco,2,1,H,1,1,D
-FRA,15/10/1967,,Olympique Lyon,AS Saint-Étienne,1,1,D,1,1,D
-FRA,15/10/1967,,OGC Nice,Girondins Bordeaux,1,1,D,0,1,A
-FRA,15/10/1967,,AS Aixoise,Olympique Marseille,1,2,A,0,2,A
-FRA,15/10/1967,,US Valenciennes-Anzin,Red Star FC,1,0,H,1,0,H
-FRA,15/10/1967,,Angers SCO,CS Sedan,2,3,A,1,1,D
-FRA,15/10/1967,,Stade Rennes,FC Nantes,1,1,D,0,1,A
-FRA,15/10/1967,,AC Ajaccio,RC Strasbourg,1,0,H,0,0,D
-FRA,21/10/1967,,FC Rouen,Red Star FC,0,2,A,0,2,A
-FRA,21/10/1967,,Stade Rennes,Olympique Marseille,3,1,H,0,1,A
-FRA,21/10/1967,,FC Sochaux,FC Nantes,1,0,H,1,0,H
-FRA,21/10/1967,,Lille OSC,FC Metz,0,0,D,0,0,D
-FRA,22/10/1967,,OGC Nice,US Valenciennes-Anzin,2,1,H,2,0,H
-FRA,22/10/1967,,Angers SCO,AS Saint-Étienne,1,0,H,0,0,D
-FRA,22/10/1967,,CS Sedan,AS Monaco,3,0,H,2,0,H
-FRA,22/10/1967,,AC Ajaccio,RC Lens,2,0,H,1,0,H
-FRA,22/10/1967,,AS Aixoise,Girondins Bordeaux,5,1,H,3,0,H
-FRA,22/10/1967,,Olympique Lyon,RC Strasbourg,0,0,D,0,0,D
-FRA,01/11/1967,,OGC Nice,FC Rouen,4,0,H,2,0,H
-FRA,01/11/1967,,AS Saint-Étienne,Stade Rennes,3,0,H,1,0,H
-FRA,01/11/1967,,Red Star FC,AS Aixoise,2,1,H,1,1,D
-FRA,01/11/1967,,Olympique Marseille,CS Sedan,1,0,H,1,0,H
-FRA,01/11/1967,,RC Strasbourg,FC Sochaux,1,4,A,1,4,A
-FRA,01/11/1967,,Girondins Bordeaux,AC Ajaccio,3,0,H,3,0,H
-FRA,01/11/1967,,FC Nantes,Olympique Lyon,1,0,H,0,0,D
-FRA,01/11/1967,,RC Lens,Angers SCO,4,2,H,1,1,D
-FRA,01/11/1967,,US Valenciennes-Anzin,Lille OSC,3,0,H,1,0,H
-FRA,01/11/1967,,AS Monaco,FC Metz,3,1,H,2,1,H
-FRA,05/11/1967,,AS Aixoise,OGC Nice,3,1,H,1,0,H
-FRA,05/11/1967,,CS Sedan,AS Saint-Étienne,5,2,H,3,1,H
-FRA,05/11/1967,,Lille OSC,Red Star FC,1,1,D,1,1,D
-FRA,05/11/1967,,FC Sochaux,RC Lens,4,1,H,3,0,H
-FRA,05/11/1967,,FC Metz,Olympique Marseille,3,0,H,2,0,H
-FRA,05/11/1967,,Angers SCO,RC Strasbourg,1,0,H,0,0,D
-FRA,05/11/1967,,AC Ajaccio,FC Nantes,5,3,H,2,2,D
-FRA,05/11/1967,,Olympique Lyon,Girondins Bordeaux,2,0,H,1,0,H
-FRA,05/11/1967,,FC Rouen,US Valenciennes-Anzin,1,2,A,1,0,H
-FRA,05/11/1967,,Stade Rennes,AS Monaco,1,1,D,0,0,D
-FRA,11/11/1967,,AS Saint-Étienne,FC Sochaux,2,0,H,0,0,D
-FRA,11/11/1967,,Olympique Marseille,AS Monaco,2,1,H,2,1,H
-FRA,11/11/1967,,RC Lens,CS Sedan,3,0,H,1,0,H
-FRA,11/11/1967,,FC Nantes,Angers SCO,0,1,A,0,1,A
-FRA,11/11/1967,,RC Strasbourg,FC Metz,0,0,D,0,0,D
-FRA,12/11/1967,,OGC Nice,Lille OSC,3,1,H,2,1,H
-FRA,12/11/1967,,Red Star FC,Olympique Lyon,1,1,D,0,1,A
-FRA,12/11/1967,,Girondins Bordeaux,Stade Rennes,6,2,H,3,1,H
-FRA,12/11/1967,,US Valenciennes-Anzin,AS Aixoise,1,0,H,0,0,D
-FRA,12/11/1967,,FC Rouen,AC Ajaccio,3,1,H,1,0,H
-FRA,18/11/1967,,FC Sochaux,Olympique Marseille,1,1,D,0,0,D
-FRA,19/11/1967,,AS Monaco,AS Saint-Étienne,0,3,A,0,2,A
-FRA,19/11/1967,,AC Ajaccio,OGC Nice,2,1,H,0,1,A
-FRA,19/11/1967,,CS Sedan,RC Strasbourg,3,1,H,1,0,H
-FRA,19/11/1967,,Stade Rennes,Red Star FC,3,0,H,1,0,H
-FRA,19/11/1967,,Angers SCO,Girondins Bordeaux,0,0,D,0,0,D
-FRA,19/11/1967,,FC Metz,RC Lens,2,1,H,0,1,A
-FRA,19/11/1967,,Olympique Lyon,US Valenciennes-Anzin,0,0,D,0,0,D
-FRA,19/11/1967,,Lille OSC,FC Nantes,2,0,H,1,0,H
-FRA,19/11/1967,,AS Aixoise,FC Rouen,4,1,H,2,1,H
-FRA,25/11/1967,,AS Saint-Étienne,FC Metz,4,0,H,1,0,H
-FRA,26/11/1967,,FC Nantes,CS Sedan,1,1,D,0,0,D
-FRA,26/11/1967,,OGC Nice,Olympique Lyon,0,3,A,0,1,A
-FRA,26/11/1967,,Red Star FC,Angers SCO,3,3,D,1,1,D
-FRA,26/11/1967,,RC Strasbourg,Olympique Marseille,1,0,H,1,0,H
-FRA,26/11/1967,,Girondins Bordeaux,FC Sochaux,3,0,H,2,0,H
-FRA,26/11/1967,,US Valenciennes-Anzin,AC Ajaccio,0,0,D,0,0,D
-FRA,26/11/1967,,AS Aixoise,Stade Rennes,2,3,A,2,3,A
-FRA,26/11/1967,,FC Rouen,Lille OSC,1,0,H,0,0,D
-FRA,26/11/1967,,RC Lens,AS Monaco,1,3,A,0,1,A
-FRA,03/12/1967,,AS Saint-Étienne,AC Ajaccio,4,0,H,1,0,H
-FRA,03/12/1967,,FC Metz,CS Sedan,1,5,A,1,2,A
-FRA,03/12/1967,,Red Star FC,OGC Nice,1,1,D,1,1,D
-FRA,03/12/1967,,Olympique Marseille,Angers SCO,3,1,H,1,0,H
-FRA,03/12/1967,,Girondins Bordeaux,FC Rouen,1,0,H,1,0,H
-FRA,03/12/1967,,US Valenciennes-Anzin,Stade Rennes,2,1,H,1,0,H
-FRA,03/12/1967,,AS Monaco,FC Sochaux,1,0,H,0,0,D
-FRA,03/12/1967,,FC Nantes,AS Aixoise,5,1,H,1,0,H
-FRA,03/12/1967,,RC Strasbourg,Lille OSC,2,0,H,2,0,H
-FRA,03/12/1967,,RC Lens,Olympique Lyon,1,0,H,1,0,H
-FRA,09/12/1967,,FC Sochaux,Red Star FC,1,0,H,0,0,D
-FRA,10/12/1967,,Lille OSC,AS Saint-Étienne,2,2,D,0,1,A
-FRA,10/12/1967,,Olympique Marseille,RC Lens,2,0,H,2,0,H
-FRA,10/12/1967,,CS Sedan,Girondins Bordeaux,1,2,A,0,2,A
-FRA,10/12/1967,,Stade Rennes,OGC Nice,4,0,H,1,0,H
-FRA,10/12/1967,,AC Ajaccio,AS Aixoise,8,2,H,4,0,H
-FRA,10/12/1967,,FC Metz,FC Nantes,1,1,D,1,0,H
-FRA,10/12/1967,,Olympique Lyon,FC Rouen,2,1,H,1,1,D
-FRA,10/12/1967,,AS Monaco,RC Strasbourg,2,1,H,0,0,D
-FRA,20/04/1968,,Angers SCO,US Valenciennes-Anzin,1,0,H,0,0,D
-FRA,17/12/1967,,AS Saint-Étienne,Olympique Marseille,2,0,H,1,0,H
-FRA,17/12/1967,,Girondins Bordeaux,FC Metz,1,0,H,1,0,H
-FRA,17/12/1967,,OGC Nice,Angers SCO,2,1,H,1,0,H
-FRA,17/12/1967,,Red Star FC,CS Sedan,3,0,H,1,0,H
-FRA,17/12/1967,,US Valenciennes-Anzin,FC Sochaux,0,0,D,0,0,D
-FRA,17/12/1967,,AC Ajaccio,Lille OSC,2,1,H,1,0,H
-FRA,17/12/1967,,FC Nantes,AS Monaco,0,0,D,0,0,D
-FRA,17/12/1967,,RC Lens,RC Strasbourg,1,0,H,0,0,D
-FRA,17/12/1967,,AS Aixoise,Olympique Lyon,2,0,H,0,0,D
-FRA,30/03/1968,,Stade Rennes,FC Rouen,0,1,A,0,1,A
-FRA,07/01/1968,,Girondins Bordeaux,AS Saint-Étienne,1,2,A,0,1,A
-FRA,07/01/1968,,OGC Nice,Olympique Marseille,1,1,D,0,1,A
-FRA,07/01/1968,,AC Ajaccio,Angers SCO,4,0,H,0,0,D
-FRA,07/01/1968,,Lille OSC,CS Sedan,2,0,H,1,0,H
-FRA,07/01/1968,,Red Star FC,RC Strasbourg,0,1,A,0,0,D
-FRA,07/01/1968,,AS Aixoise,FC Sochaux,0,0,D,0,0,D
-FRA,07/01/1968,,FC Nantes,RC Lens,1,0,H,0,0,D
-FRA,07/01/1968,,Olympique Lyon,Stade Rennes,2,1,H,2,1,H
-FRA,07/01/1968,,FC Rouen,FC Metz,0,0,D,0,0,D
-FRA,31/03/1968,,US Valenciennes-Anzin,AS Monaco,1,1,D,0,1,A
-FRA,21/01/1968,,AS Saint-Étienne,FC Nantes,1,2,A,0,1,A
-FRA,21/01/1968,,Olympique Marseille,Red Star FC,2,0,H,1,0,H
-FRA,21/01/1968,,CS Sedan,FC Rouen,2,0,H,0,0,D
-FRA,21/01/1968,,FC Sochaux,AC Ajaccio,3,1,H,1,0,H
-FRA,21/01/1968,,RC Strasbourg,US Valenciennes-Anzin,0,1,A,0,0,D
-FRA,21/01/1968,,Stade Rennes,Lille OSC,4,1,H,1,0,H
-FRA,21/01/1968,,Angers SCO,Olympique Lyon,3,1,H,2,0,H
-FRA,21/01/1968,,AS Monaco,AS Aixoise,1,1,D,1,0,H
-FRA,11/05/1968,,FC Metz,OGC Nice,1,2,A,1,1,D
-FRA,19/06/1968,,RC Lens,Girondins Bordeaux,2,1,H,0,1,A
-FRA,28/01/1968,,Red Star FC,AS Saint-Étienne,1,1,D,0,0,D
-FRA,28/01/1968,,Lille OSC,Olympique Marseille,2,0,H,0,0,D
-FRA,28/01/1968,,Olympique Lyon,FC Sochaux,2,2,D,1,1,D
-FRA,28/01/1968,,AC Ajaccio,CS Sedan,2,0,H,0,0,D
-FRA,28/01/1968,,Girondins Bordeaux,RC Strasbourg,1,2,A,0,0,D
-FRA,28/01/1968,,OGC Nice,AS Monaco,0,2,A,0,1,A
-FRA,28/01/1968,,US Valenciennes-Anzin,RC Lens,1,1,D,0,0,D
-FRA,28/01/1968,,FC Rouen,FC Nantes,1,2,A,1,1,D
-FRA,28/01/1968,,Stade Rennes,Angers SCO,1,1,D,1,1,D
-FRA,01/05/1968,,AS Aixoise,FC Metz,0,1,A,0,1,A
-FRA,03/02/1968,,FC Sochaux,Stade Rennes,1,2,A,1,2,A
-FRA,04/02/1968,,AS Saint-Étienne,US Valenciennes-Anzin,3,0,H,3,0,H
-FRA,04/02/1968,,Olympique Marseille,FC Rouen,2,2,D,0,1,A
-FRA,04/02/1968,,CS Sedan,AS Aixoise,3,0,H,1,0,H
-FRA,04/02/1968,,FC Nantes,Girondins Bordeaux,1,1,D,0,0,D
-FRA,04/02/1968,,RC Lens,Red Star FC,2,4,A,1,1,D
-FRA,04/02/1968,,RC Strasbourg,OGC Nice,0,0,D,0,0,D
-FRA,04/02/1968,,FC Metz,AC Ajaccio,3,0,H,0,0,D
-FRA,04/02/1968,,AS Monaco,Olympique Lyon,2,1,H,2,0,H
-FRA,04/02/1968,,Angers SCO,Lille OSC,1,3,A,1,1,D
-FRA,17/02/1968,,OGC Nice,RC Lens,0,0,D,0,0,D
-FRA,17/02/1968,,Red Star FC,FC Nantes,0,1,A,0,1,A
-FRA,18/02/1968,,AS Aixoise,AS Saint-Étienne,1,1,D,1,0,H
-FRA,18/02/1968,,Lille OSC,Girondins Bordeaux,1,2,A,0,1,A
-FRA,18/02/1968,,Stade Rennes,CS Sedan,1,1,D,1,1,D
-FRA,18/02/1968,,US Valenciennes-Anzin,Olympique Marseille,1,0,H,0,0,D
-FRA,18/02/1968,,Angers SCO,FC Sochaux,1,1,D,0,1,A
-FRA,18/02/1968,,Olympique Lyon,FC Metz,3,1,H,1,0,H
-FRA,10/03/1968,,AC Ajaccio,AS Monaco,1,2,A,1,0,H
-FRA,11/05/1968,,FC Rouen,RC Strasbourg,3,2,H,0,1,A
-FRA,24/02/1968,,FC Sochaux,Lille OSC,2,1,H,0,1,A
-FRA,25/02/1968,,AS Saint-Étienne,OGC Nice,3,1,H,1,1,D
-FRA,25/02/1968,,Girondins Bordeaux,Red Star FC,1,0,H,0,0,D
-FRA,25/02/1968,,Olympique Marseille,AC Ajaccio,2,0,H,1,0,H
-FRA,25/02/1968,,CS Sedan,Olympique Lyon,2,3,A,2,1,H
-FRA,25/02/1968,,FC Nantes,US Valenciennes-Anzin,0,2,A,0,1,A
-FRA,25/02/1968,,FC Metz,Stade Rennes,6,1,H,2,1,H
-FRA,25/02/1968,,AS Monaco,Angers SCO,5,0,H,2,0,H
-FRA,25/02/1968,,RC Strasbourg,AS Aixoise,1,0,H,1,0,H
-FRA,25/02/1968,,RC Lens,FC Rouen,2,1,H,0,1,A
-FRA,02/03/1968,,Olympique Lyon,Olympique Marseille,3,2,H,2,2,D
-FRA,03/03/1968,,FC Rouen,AS Saint-Étienne,3,0,H,0,0,D
-FRA,03/03/1968,,FC Sochaux,CS Sedan,3,0,H,1,0,H
-FRA,03/03/1968,,US Valenciennes-Anzin,Girondins Bordeaux,2,0,H,1,0,H
-FRA,03/03/1968,,OGC Nice,FC Nantes,5,1,H,2,1,H
-FRA,03/03/1968,,AC Ajaccio,Red Star FC,0,0,D,0,0,D
-FRA,03/03/1968,,Stade Rennes,RC Strasbourg,2,1,H,1,0,H
-FRA,03/03/1968,,Lille OSC,AS Monaco,0,1,A,0,0,D
-FRA,03/03/1968,,Angers SCO,FC Metz,0,0,D,0,0,D
-FRA,03/03/1968,,AS Aixoise,RC Lens,2,2,D,1,1,D
-FRA,16/03/1968,,FC Metz,FC Sochaux,2,0,H,0,0,D
-FRA,16/03/1968,,CS Sedan,Angers SCO,3,1,H,2,1,H
-FRA,16/03/1968,,RC Strasbourg,AC Ajaccio,0,0,D,0,0,D
-FRA,16/03/1968,,Girondins Bordeaux,OGC Nice,4,0,H,2,0,H
-FRA,17/03/1968,,AS Saint-Étienne,Olympique Lyon,1,1,D,0,1,A
-FRA,17/03/1968,,Olympique Marseille,AS Aixoise,3,2,H,0,1,A
-FRA,17/03/1968,,Red Star FC,US Valenciennes-Anzin,1,0,H,1,0,H
-FRA,17/03/1968,,FC Nantes,Stade Rennes,2,0,H,1,0,H
-FRA,17/03/1968,,AS Monaco,FC Rouen,1,3,A,1,1,D
-FRA,17/03/1968,,RC Lens,Lille OSC,1,1,D,0,0,D
-FRA,22/03/1968,,Lille OSC,RC Strasbourg,0,0,D,0,0,D
-FRA,23/03/1968,,Angers SCO,Olympique Marseille,2,2,D,1,0,H
-FRA,23/03/1968,,FC Rouen,Girondins Bordeaux,3,0,H,1,0,H
-FRA,23/03/1968,,CS Sedan,FC Metz,3,0,H,1,0,H
-FRA,23/03/1968,,FC Sochaux,AS Monaco,0,0,D,0,0,D
-FRA,23/03/1968,,Stade Rennes,US Valenciennes-Anzin,1,1,D,0,0,D
-FRA,24/03/1968,,AC Ajaccio,AS Saint-Étienne,1,1,D,1,0,H
-FRA,24/03/1968,,AS Aixoise,FC Nantes,2,6,A,1,1,D
-FRA,24/03/1968,,OGC Nice,Red Star FC,2,1,H,1,1,D
-FRA,24/03/1968,,Olympique Lyon,RC Lens,3,0,H,1,0,H
-FRA,06/04/1968,,FC Metz,Lille OSC,1,0,H,1,0,H
-FRA,07/04/1968,,RC Lens,AC Ajaccio,1,2,A,1,1,D
-FRA,07/04/1968,,Red Star FC,FC Rouen,0,2,A,0,0,D
-FRA,09/04/1968,,AS Saint-Étienne,Angers SCO,3,0,H,3,0,H
-FRA,09/04/1968,,Girondins Bordeaux,AS Aixoise,3,0,H,0,0,D
-FRA,09/04/1968,,FC Nantes,FC Sochaux,1,1,D,0,1,A
-FRA,09/04/1968,,US Valenciennes-Anzin,OGC Nice,0,1,A,0,1,A
-FRA,09/04/1968,,AS Monaco,CS Sedan,2,1,H,0,0,D
-FRA,09/04/1968,,RC Strasbourg,Olympique Lyon,0,1,A,0,1,A
-FRA,30/04/1968,,Olympique Marseille,Stade Rennes,3,1,H,1,1,D
-FRA,12/04/1968,,Stade Rennes,AS Saint-Étienne,0,3,A,0,1,A
-FRA,12/04/1968,,Olympique Lyon,FC Nantes,0,3,A,0,2,A
-FRA,12/04/1968,,FC Sochaux,RC Strasbourg,1,1,D,1,0,H
-FRA,12/04/1968,,FC Rouen,OGC Nice,1,0,H,0,0,D
-FRA,13/04/1968,,Lille OSC,US Valenciennes-Anzin,0,3,A,0,2,A
-FRA,13/04/1968,,CS Sedan,Olympique Marseille,1,1,D,0,0,D
-FRA,13/04/1968,,FC Metz,AS Monaco,2,0,H,1,0,H
-FRA,13/04/1968,,AS Aixoise,Red Star FC,0,0,D,0,0,D
-FRA,13/04/1968,,Angers SCO,RC Lens,1,2,A,1,2,A
-FRA,14/04/1968,,AC Ajaccio,Girondins Bordeaux,3,0,H,2,0,H
-FRA,26/04/1968,,Olympique Marseille,FC Metz,2,0,H,1,0,H
-FRA,26/04/1968,,OGC Nice,AS Aixoise,1,0,H,0,0,D
-FRA,26/04/1968,,RC Strasbourg,Angers SCO,5,1,H,1,1,D
-FRA,27/04/1968,,AS Saint-Étienne,CS Sedan,2,1,H,2,1,H
-FRA,27/04/1968,,FC Nantes,AC Ajaccio,1,0,H,1,0,H
-FRA,27/04/1968,,RC Lens,FC Sochaux,0,2,A,0,1,A
-FRA,27/04/1968,,Girondins Bordeaux,Olympique Lyon,0,0,D,0,0,D
-FRA,27/04/1968,,US Valenciennes-Anzin,FC Rouen,0,2,A,0,0,D
-FRA,27/04/1968,,AS Monaco,Stade Rennes,2,1,H,0,1,A
-FRA,28/04/1968,,Red Star FC,Lille OSC,0,2,A,0,1,A
-FRA,03/05/1968,,Lille OSC,OGC Nice,0,2,A,0,0,D
-FRA,03/05/1968,,Olympique Lyon,Red Star FC,0,0,D,0,0,D
-FRA,04/05/1968,,FC Sochaux,AS Saint-Étienne,0,4,A,0,3,A
-FRA,04/05/1968,,AS Monaco,Olympique Marseille,1,0,H,0,0,D
-FRA,04/05/1968,,Stade Rennes,Girondins Bordeaux,1,0,H,1,0,H
-FRA,04/05/1968,,CS Sedan,RC Lens,1,1,D,1,0,H
-FRA,04/05/1968,,FC Metz,RC Strasbourg,1,0,H,0,0,D
-FRA,05/05/1968,,Angers SCO,FC Nantes,1,3,A,1,2,A
-FRA,05/05/1968,,AS Aixoise,US Valenciennes-Anzin,1,1,D,0,1,A
-FRA,05/05/1968,,AC Ajaccio,FC Rouen,5,3,H,3,2,H
-FRA,17/05/1968,,AS Saint-Étienne,AS Monaco,1,0,H,1,0,H
-FRA,17/05/1968,,OGC Nice,AC Ajaccio,1,0,H,0,0,D
-FRA,17/05/1968,,RC Strasbourg,CS Sedan,0,2,A,0,2,A
-FRA,17/05/1968,,Girondins Bordeaux,Angers SCO,1,2,A,0,2,A
-FRA,17/05/1968,,FC Rouen,AS Aixoise,5,0,H,3,0,H
-FRA,18/05/1968,,FC Nantes,Lille OSC,2,1,H,0,1,A
-FRA,18/05/1968,,Olympique Marseille,FC Sochaux,0,1,A,0,0,D
-FRA,18/05/1968,,US Valenciennes-Anzin,Olympique Lyon,2,0,H,1,0,H
-FRA,18/05/1968,,RC Lens,FC Metz,1,1,D,0,1,A
-FRA,19/05/1968,,Red Star FC,Stade Rennes,3,1,H,3,0,H
-FRA,22/05/1968,,FC Metz,AS Saint-Étienne,1,1,D,0,1,A
-FRA,22/05/1968,,CS Sedan,FC Nantes,1,0,H,0,0,D
-FRA,22/05/1968,,Lille OSC,FC Rouen,1,0,H,0,0,D
-FRA,12/06/1968,,Olympique Lyon,OGC Nice,1,1,D,1,1,D
-FRA,12/06/1968,,AC Ajaccio,US Valenciennes-Anzin,1,4,A,1,2,A
-FRA,12/06/1968,,Olympique Marseille,RC Strasbourg,0,0,D,0,0,D
-FRA,12/06/1968,,FC Sochaux,Girondins Bordeaux,0,1,A,0,0,D
-FRA,12/06/1968,,AS Monaco,RC Lens,2,3,A,1,1,D
-FRA,12/06/1968,,Angers SCO,Red Star FC,2,2,D,1,1,D
-FRA,12/06/1968,,Stade Rennes,AS Aixoise,4,0,H,1,0,H
-FRA,14/06/1968,,AS Saint-Étienne,Lille OSC,3,0,H,1,0,H
-FRA,15/06/1968,,FC Nantes,FC Metz,1,1,D,0,0,D
-FRA,15/06/1968,,US Valenciennes-Anzin,Angers SCO,2,1,H,0,1,A
-FRA,15/06/1968,,Girondins Bordeaux,CS Sedan,2,0,H,1,0,H
-FRA,15/06/1968,,RC Lens,Olympique Marseille,5,1,H,3,1,H
-FRA,15/06/1968,,AS Aixoise,AC Ajaccio,2,4,A,0,1,A
-FRA,15/06/1968,,RC Strasbourg,AS Monaco,2,0,H,0,0,D
-FRA,15/06/1968,,FC Rouen,Olympique Lyon,3,1,H,1,0,H
-FRA,16/06/1968,,OGC Nice,Stade Rennes,0,3,A,0,2,A
-FRA,16/06/1968,,Red Star FC,FC Sochaux,1,2,A,0,2,A
-FRA,19/06/1968,,Olympique Marseille,AS Saint-Étienne,2,1,H,1,0,H
-FRA,21/06/1968,,AS Monaco,FC Nantes,3,0,H,2,0,H
-FRA,21/06/1968,,Lille OSC,AC Ajaccio,1,2,A,1,2,A
-FRA,21/06/1968,,FC Rouen,Stade Rennes,2,0,H,1,0,H
-FRA,21/06/1968,,Olympique Lyon,AS Aixoise,4,3,H,3,3,D
-FRA,22/06/1968,,Angers SCO,OGC Nice,1,1,D,0,0,D
-FRA,22/06/1968,,FC Metz,Girondins Bordeaux,2,0,H,1,0,H
-FRA,22/06/1968,,CS Sedan,Red Star FC,0,0,D,0,0,D
-FRA,22/06/1968,,FC Sochaux,US Valenciennes-Anzin,3,1,H,1,0,H
-FRA,23/06/1968,,RC Strasbourg,RC Lens,1,0,H,1,0,H
-FRA,28/06/1968,,AS Saint-Étienne,RC Strasbourg,4,0,H,3,0,H
-FRA,28/06/1968,,OGC Nice,FC Sochaux,1,0,H,0,0,D
-FRA,28/06/1968,,US Valenciennes-Anzin,CS Sedan,3,1,H,1,0,H
-FRA,28/06/1968,,FC Nantes,Olympique Marseille,1,1,D,1,1,D
-FRA,28/06/1968,,Girondins Bordeaux,AS Monaco,3,0,H,2,0,H
-FRA,28/06/1968,,Red Star FC,FC Metz,0,1,A,0,1,A
-FRA,28/06/1968,,AC Ajaccio,Olympique Lyon,2,2,D,0,2,A
-FRA,28/06/1968,,FC Rouen,Angers SCO,0,1,A,0,0,D
-FRA,28/06/1968,,RC Lens,Stade Rennes,1,1,D,0,0,D
-FRA,28/06/1968,,AS Aixoise,Lille OSC,2,1,H,1,0,H
-FRA,03/07/1968,,CS Sedan,OGC Nice,0,1,A,0,1,A
-FRA,03/07/1968,,Olympique Marseille,Girondins Bordeaux,2,0,H,1,0,H
-FRA,05/07/1968,,RC Lens,AS Saint-Étienne,1,3,A,1,1,D
-FRA,05/07/1968,,FC Sochaux,FC Rouen,3,0,H,0,0,D
-FRA,05/07/1968,,FC Metz,US Valenciennes-Anzin,2,0,H,0,0,D
-FRA,05/07/1968,,RC Strasbourg,FC Nantes,3,1,H,0,1,A
-FRA,05/07/1968,,Stade Rennes,AC Ajaccio,1,0,H,0,0,D
-FRA,05/07/1968,,AS Monaco,Red Star FC,0,1,A,0,1,A
-FRA,05/07/1968,,Olympique Lyon,Lille OSC,1,1,D,1,0,H
-FRA,05/07/1968,,Angers SCO,AS Aixoise,9,1,H,4,0,H
+FRA,1967-08-17,,Olympique Marseille,FC Nantes,1,0,H,0,0,D
+FRA,1967-08-18,,Olympique Lyon,AC Ajaccio,2,1,H,0,0,D
+FRA,1967-08-18,,RC Strasbourg,AS Saint-Étienne,0,1,A,0,0,D
+FRA,1967-08-18,,Lille OSC,AS Aixoise,2,1,H,0,1,A
+FRA,1967-08-19,,Angers SCO,FC Rouen,3,0,H,1,0,H
+FRA,1967-08-19,,FC Sochaux,OGC Nice,0,2,A,0,2,A
+FRA,1967-08-19,,Stade Rennes,RC Lens,1,0,H,1,0,H
+FRA,1967-08-19,,CS Sedan,US Valenciennes-Anzin,1,1,D,1,1,D
+FRA,1967-08-19,,FC Metz,Red Star FC,1,1,D,0,1,A
+FRA,1967-08-20,,AS Monaco,Girondins Bordeaux,1,2,A,1,1,D
+FRA,1967-08-24,,Lille OSC,Olympique Lyon,1,1,D,0,1,A
+FRA,1967-08-25,,AS Saint-Étienne,RC Lens,3,0,H,1,0,H
+FRA,1967-08-25,,OGC Nice,CS Sedan,1,0,H,1,0,H
+FRA,1967-08-25,,Girondins Bordeaux,Olympique Marseille,1,2,A,0,1,A
+FRA,1967-08-25,,AS Aixoise,Angers SCO,1,3,A,0,2,A
+FRA,1967-08-26,,US Valenciennes-Anzin,FC Metz,1,2,A,0,1,A
+FRA,1967-08-26,,FC Nantes,RC Strasbourg,3,0,H,0,0,D
+FRA,1967-08-26,,FC Rouen,FC Sochaux,1,0,H,1,0,H
+FRA,1967-08-27,,AC Ajaccio,Stade Rennes,2,0,H,1,0,H
+FRA,1967-08-27,,Red Star FC,AS Monaco,2,0,H,1,0,H
+FRA,1967-08-30,,Angers SCO,AC Ajaccio,3,0,H,2,0,H
+FRA,1967-08-30,,AS Saint-Étienne,Girondins Bordeaux,1,0,H,1,0,H
+FRA,1967-08-30,,Olympique Marseille,OGC Nice,0,2,A,0,1,A
+FRA,1967-08-30,,RC Lens,FC Nantes,1,3,A,1,1,D
+FRA,1967-08-30,,CS Sedan,Lille OSC,1,1,D,1,0,H
+FRA,1967-08-30,,FC Metz,FC Rouen,1,1,D,0,0,D
+FRA,1967-08-30,,Stade Rennes,Olympique Lyon,1,0,H,0,0,D
+FRA,1967-08-30,,RC Strasbourg,Red Star FC,2,1,H,1,0,H
+FRA,1967-08-30,,AS Monaco,US Valenciennes-Anzin,0,1,A,0,1,A
+FRA,1967-08-30,,FC Sochaux,AS Aixoise,1,1,D,0,0,D
+FRA,1967-09-02,,FC Nantes,AS Saint-Étienne,1,1,D,1,1,D
+FRA,1967-09-02,,Lille OSC,Stade Rennes,2,0,H,0,0,D
+FRA,1967-09-02,,Olympique Lyon,Angers SCO,8,0,H,3,0,H
+FRA,1967-09-02,,Girondins Bordeaux,RC Lens,6,1,H,3,1,H
+FRA,1967-09-02,,US Valenciennes-Anzin,RC Strasbourg,0,1,A,0,0,D
+FRA,1967-09-02,,FC Rouen,CS Sedan,0,0,D,0,0,D
+FRA,1967-09-02,,AS Aixoise,AS Monaco,0,0,D,0,0,D
+FRA,1967-09-03,,OGC Nice,FC Metz,4,1,H,2,1,H
+FRA,1967-09-03,,Red Star FC,Olympique Marseille,2,0,H,1,0,H
+FRA,1967-09-03,,AC Ajaccio,FC Sochaux,1,1,D,1,0,H
+FRA,1967-09-08,,AS Saint-Étienne,Red Star FC,1,1,D,1,0,H
+FRA,1967-09-08,,Olympique Marseille,Lille OSC,0,0,D,0,0,D
+FRA,1967-09-08,,RC Strasbourg,Girondins Bordeaux,0,1,A,0,0,D
+FRA,1967-09-09,,FC Nantes,FC Rouen,0,0,D,0,0,D
+FRA,1967-09-09,,FC Metz,AS Aixoise,3,1,H,1,1,D
+FRA,1967-09-09,,FC Sochaux,Olympique Lyon,3,1,H,1,0,H
+FRA,1967-09-09,,CS Sedan,AC Ajaccio,2,0,H,1,0,H
+FRA,1967-09-10,,AS Monaco,OGC Nice,2,2,D,2,1,H
+FRA,1967-09-10,,Angers SCO,Stade Rennes,1,1,D,0,0,D
+FRA,1967-09-10,,RC Lens,US Valenciennes-Anzin,1,0,H,1,0,H
+FRA,1967-09-22,,Lille OSC,Angers SCO,2,1,H,1,1,D
+FRA,1967-09-23,,Girondins Bordeaux,FC Nantes,6,2,H,4,1,H
+FRA,1967-09-23,,FC Rouen,Olympique Marseille,1,2,A,0,2,A
+FRA,1967-09-23,,Stade Rennes,FC Sochaux,1,1,D,1,0,H
+FRA,1967-09-23,,Olympique Lyon,AS Monaco,1,2,A,0,2,A
+FRA,1967-09-24,,OGC Nice,RC Strasbourg,2,0,H,1,0,H
+FRA,1967-09-24,,US Valenciennes-Anzin,AS Saint-Étienne,1,2,A,0,2,A
+FRA,1967-09-24,,Red Star FC,RC Lens,3,2,H,1,2,A
+FRA,1967-09-24,,AC Ajaccio,FC Metz,2,1,H,1,0,H
+FRA,1967-09-24,,AS Aixoise,CS Sedan,4,2,H,0,1,A
+FRA,1967-09-30,,RC Lens,OGC Nice,0,0,D,0,0,D
+FRA,1967-09-30,,AS Saint-Étienne,AS Aixoise,3,1,H,2,0,H
+FRA,1967-09-30,,Girondins Bordeaux,Lille OSC,2,1,H,2,1,H
+FRA,1967-09-30,,FC Nantes,Red Star FC,4,2,H,2,1,H
+FRA,1967-09-30,,FC Metz,Olympique Lyon,3,1,H,0,0,D
+FRA,1967-09-30,,CS Sedan,Stade Rennes,3,0,H,1,0,H
+FRA,1967-09-30,,FC Sochaux,Angers SCO,2,0,H,1,0,H
+FRA,1967-09-30,,AS Monaco,AC Ajaccio,0,1,A,0,1,A
+FRA,1967-10-01,,Olympique Marseille,US Valenciennes-Anzin,2,0,H,1,0,H
+FRA,1967-10-04,,Red Star FC,Girondins Bordeaux,1,0,H,0,0,D
+FRA,1967-10-04,,AC Ajaccio,Olympique Marseille,2,2,D,2,1,H
+FRA,1967-10-04,,Lille OSC,FC Sochaux,0,1,A,0,1,A
+FRA,1967-10-04,,Stade Rennes,FC Metz,0,0,D,0,0,D
+FRA,1967-10-04,,Angers SCO,AS Monaco,3,0,H,1,0,H
+FRA,1967-10-04,,US Valenciennes-Anzin,FC Nantes,2,1,H,0,0,D
+FRA,1967-10-04,,AS Aixoise,RC Strasbourg,0,3,A,0,1,A
+FRA,1967-10-04,,FC Rouen,RC Lens,0,1,A,0,0,D
+FRA,1967-10-07,,FC Nantes,OGC Nice,0,0,D,0,0,D
+FRA,1967-10-07,,Olympique Marseille,Olympique Lyon,2,1,H,1,0,H
+FRA,1967-10-07,,FC Metz,Angers SCO,1,1,D,1,0,H
+FRA,1967-10-07,,RC Strasbourg,Stade Rennes,1,1,D,0,0,D
+FRA,1967-10-08,,AS Saint-Étienne,FC Rouen,3,0,H,2,0,H
+FRA,1967-10-08,,Red Star FC,AC Ajaccio,4,1,H,3,0,H
+FRA,1967-10-08,,Girondins Bordeaux,US Valenciennes-Anzin,0,1,A,0,1,A
+FRA,1967-10-08,,CS Sedan,FC Sochaux,2,0,H,1,0,H
+FRA,1967-10-08,,AS Monaco,Lille OSC,3,1,H,2,0,H
+FRA,1967-10-08,,RC Lens,AS Aixoise,4,1,H,0,0,D
+FRA,1967-10-13,,Lille OSC,RC Lens,0,1,A,0,1,A
+FRA,1967-10-14,,FC Sochaux,FC Metz,3,2,H,1,2,A
+FRA,1967-10-14,,FC Rouen,AS Monaco,2,1,H,1,1,D
+FRA,1967-10-15,,Olympique Lyon,AS Saint-Étienne,1,1,D,1,1,D
+FRA,1967-10-15,,OGC Nice,Girondins Bordeaux,1,1,D,0,1,A
+FRA,1967-10-15,,AS Aixoise,Olympique Marseille,1,2,A,0,2,A
+FRA,1967-10-15,,US Valenciennes-Anzin,Red Star FC,1,0,H,1,0,H
+FRA,1967-10-15,,Angers SCO,CS Sedan,2,3,A,1,1,D
+FRA,1967-10-15,,Stade Rennes,FC Nantes,1,1,D,0,1,A
+FRA,1967-10-15,,AC Ajaccio,RC Strasbourg,1,0,H,0,0,D
+FRA,1967-10-21,,FC Rouen,Red Star FC,0,2,A,0,2,A
+FRA,1967-10-21,,Stade Rennes,Olympique Marseille,3,1,H,0,1,A
+FRA,1967-10-21,,FC Sochaux,FC Nantes,1,0,H,1,0,H
+FRA,1967-10-21,,Lille OSC,FC Metz,0,0,D,0,0,D
+FRA,1967-10-22,,OGC Nice,US Valenciennes-Anzin,2,1,H,2,0,H
+FRA,1967-10-22,,Angers SCO,AS Saint-Étienne,1,0,H,0,0,D
+FRA,1967-10-22,,CS Sedan,AS Monaco,3,0,H,2,0,H
+FRA,1967-10-22,,AC Ajaccio,RC Lens,2,0,H,1,0,H
+FRA,1967-10-22,,AS Aixoise,Girondins Bordeaux,5,1,H,3,0,H
+FRA,1967-10-22,,Olympique Lyon,RC Strasbourg,0,0,D,0,0,D
+FRA,1967-10-25,,RC Strasbourg,FC Rouen,2,1,H,1,0,H
+FRA,1967-11-01,,OGC Nice,FC Rouen,4,0,H,2,0,H
+FRA,1967-11-01,,AS Saint-Étienne,Stade Rennes,3,0,H,1,0,H
+FRA,1967-11-01,,Red Star FC,AS Aixoise,2,1,H,1,1,D
+FRA,1967-11-01,,Olympique Marseille,CS Sedan,1,0,H,1,0,H
+FRA,1967-11-01,,RC Strasbourg,FC Sochaux,1,4,A,1,4,A
+FRA,1967-11-01,,Girondins Bordeaux,AC Ajaccio,3,0,H,3,0,H
+FRA,1967-11-01,,FC Nantes,Olympique Lyon,1,0,H,0,0,D
+FRA,1967-11-01,,RC Lens,Angers SCO,4,2,H,1,1,D
+FRA,1967-11-01,,US Valenciennes-Anzin,Lille OSC,3,0,H,1,0,H
+FRA,1967-11-01,,AS Monaco,FC Metz,3,1,H,2,1,H
+FRA,1967-11-05,,AS Aixoise,OGC Nice,3,1,H,1,0,H
+FRA,1967-11-05,,CS Sedan,AS Saint-Étienne,5,2,H,3,1,H
+FRA,1967-11-05,,Lille OSC,Red Star FC,1,1,D,1,1,D
+FRA,1967-11-05,,FC Sochaux,RC Lens,4,1,H,3,0,H
+FRA,1967-11-05,,FC Metz,Olympique Marseille,3,0,H,2,0,H
+FRA,1967-11-05,,Angers SCO,RC Strasbourg,1,0,H,0,0,D
+FRA,1967-11-05,,AC Ajaccio,FC Nantes,5,3,H,2,2,D
+FRA,1967-11-05,,Olympique Lyon,Girondins Bordeaux,2,0,H,1,0,H
+FRA,1967-11-05,,FC Rouen,US Valenciennes-Anzin,1,2,A,1,0,H
+FRA,1967-11-05,,Stade Rennes,AS Monaco,1,1,D,0,0,D
+FRA,1967-11-08,,Olympique Lyon,CS Sedan,0,2,A,0,0,D
+FRA,1967-11-11,,AS Saint-Étienne,FC Sochaux,2,0,H,0,0,D
+FRA,1967-11-11,,Olympique Marseille,AS Monaco,2,1,H,2,1,H
+FRA,1967-11-11,,RC Lens,CS Sedan,3,0,H,1,0,H
+FRA,1967-11-11,,FC Nantes,Angers SCO,0,1,A,0,1,A
+FRA,1967-11-11,,RC Strasbourg,FC Metz,0,0,D,0,0,D
+FRA,1967-11-12,,OGC Nice,Lille OSC,3,1,H,2,1,H
+FRA,1967-11-12,,Red Star FC,Olympique Lyon,1,1,D,0,1,A
+FRA,1967-11-12,,Girondins Bordeaux,Stade Rennes,6,2,H,3,1,H
+FRA,1967-11-12,,US Valenciennes-Anzin,AS Aixoise,1,0,H,0,0,D
+FRA,1967-11-12,,FC Rouen,AC Ajaccio,3,1,H,1,0,H
+FRA,1967-11-18,,FC Sochaux,Olympique Marseille,1,1,D,0,0,D
+FRA,1967-11-19,,AS Monaco,AS Saint-Étienne,0,3,A,0,2,A
+FRA,1967-11-19,,AC Ajaccio,OGC Nice,2,1,H,0,1,A
+FRA,1967-11-19,,CS Sedan,RC Strasbourg,3,1,H,1,0,H
+FRA,1967-11-19,,Stade Rennes,Red Star FC,3,0,H,1,0,H
+FRA,1967-11-19,,Angers SCO,Girondins Bordeaux,0,0,D,0,0,D
+FRA,1967-11-19,,FC Metz,RC Lens,2,1,H,0,1,A
+FRA,1967-11-19,,Olympique Lyon,US Valenciennes-Anzin,0,0,D,0,0,D
+FRA,1967-11-19,,Lille OSC,FC Nantes,2,0,H,1,0,H
+FRA,1967-11-19,,AS Aixoise,FC Rouen,4,1,H,2,1,H
+FRA,1967-11-25,,AS Saint-Étienne,FC Metz,4,0,H,1,0,H
+FRA,1967-11-26,,FC Nantes,CS Sedan,1,1,D,0,0,D
+FRA,1967-11-26,,OGC Nice,Olympique Lyon,0,3,A,0,1,A
+FRA,1967-11-26,,Red Star FC,Angers SCO,3,3,D,1,1,D
+FRA,1967-11-26,,RC Strasbourg,Olympique Marseille,1,0,H,1,0,H
+FRA,1967-11-26,,Girondins Bordeaux,FC Sochaux,3,0,H,2,0,H
+FRA,1967-11-26,,US Valenciennes-Anzin,AC Ajaccio,0,0,D,0,0,D
+FRA,1967-11-26,,AS Aixoise,Stade Rennes,2,3,A,2,3,A
+FRA,1967-11-26,,FC Rouen,Lille OSC,1,0,H,0,0,D
+FRA,1967-11-26,,RC Lens,AS Monaco,1,3,A,0,1,A
+FRA,1967-12-03,,AS Saint-Étienne,AC Ajaccio,4,0,H,1,0,H
+FRA,1967-12-03,,FC Metz,CS Sedan,1,5,A,1,2,A
+FRA,1967-12-03,,Red Star FC,OGC Nice,1,1,D,1,1,D
+FRA,1967-12-03,,Olympique Marseille,Angers SCO,3,1,H,1,0,H
+FRA,1967-12-03,,Girondins Bordeaux,FC Rouen,1,0,H,1,0,H
+FRA,1967-12-03,,US Valenciennes-Anzin,Stade Rennes,2,1,H,1,0,H
+FRA,1967-12-03,,AS Monaco,FC Sochaux,1,0,H,0,0,D
+FRA,1967-12-03,,FC Nantes,AS Aixoise,5,1,H,1,0,H
+FRA,1967-12-03,,RC Strasbourg,Lille OSC,2,0,H,2,0,H
+FRA,1967-12-03,,RC Lens,Olympique Lyon,1,0,H,1,0,H
+FRA,1967-12-09,,FC Sochaux,Red Star FC,1,0,H,0,0,D
+FRA,1967-12-10,,Lille OSC,AS Saint-Étienne,2,2,D,0,1,A
+FRA,1967-12-10,,Olympique Marseille,RC Lens,2,0,H,2,0,H
+FRA,1967-12-10,,CS Sedan,Girondins Bordeaux,1,2,A,0,2,A
+FRA,1967-12-10,,Stade Rennes,OGC Nice,4,0,H,1,0,H
+FRA,1967-12-10,,AC Ajaccio,AS Aixoise,8,2,H,4,0,H
+FRA,1967-12-10,,FC Metz,FC Nantes,1,1,D,1,0,H
+FRA,1967-12-10,,Olympique Lyon,FC Rouen,2,1,H,1,1,D
+FRA,1967-12-10,,AS Monaco,RC Strasbourg,2,1,H,0,0,D
+FRA,1967-12-13,,OGC Nice,AS Saint-Étienne,1,2,A,1,2,A
+FRA,1967-12-17,,AS Saint-Étienne,Olympique Marseille,2,0,H,1,0,H
+FRA,1967-12-17,,Girondins Bordeaux,FC Metz,1,0,H,1,0,H
+FRA,1967-12-17,,OGC Nice,Angers SCO,2,1,H,1,0,H
+FRA,1967-12-17,,Red Star FC,CS Sedan,3,0,H,1,0,H
+FRA,1967-12-17,,US Valenciennes-Anzin,FC Sochaux,0,0,D,0,0,D
+FRA,1967-12-17,,AC Ajaccio,Lille OSC,2,1,H,1,0,H
+FRA,1967-12-17,,FC Nantes,AS Monaco,0,0,D,0,0,D
+FRA,1967-12-17,,RC Lens,RC Strasbourg,1,0,H,0,0,D
+FRA,1967-12-17,,AS Aixoise,Olympique Lyon,2,0,H,0,0,D
+FRA,1968-01-07,,Girondins Bordeaux,AS Saint-Étienne,1,2,A,0,1,A
+FRA,1968-01-07,,OGC Nice,Olympique Marseille,1,1,D,0,1,A
+FRA,1968-01-07,,AC Ajaccio,Angers SCO,4,0,H,0,0,D
+FRA,1968-01-07,,Lille OSC,CS Sedan,2,0,H,1,0,H
+FRA,1968-01-07,,Red Star FC,RC Strasbourg,0,1,A,0,0,D
+FRA,1968-01-07,,AS Aixoise,FC Sochaux,0,0,D,0,0,D
+FRA,1968-01-07,,FC Nantes,RC Lens,1,0,H,0,0,D
+FRA,1968-01-07,,Olympique Lyon,Stade Rennes,2,1,H,2,1,H
+FRA,1968-01-07,,FC Rouen,FC Metz,0,0,D,0,0,D
+FRA,1968-01-21,,AS Saint-Étienne,FC Nantes,1,2,A,0,1,A
+FRA,1968-01-21,,Olympique Marseille,Red Star FC,2,0,H,1,0,H
+FRA,1968-01-21,,CS Sedan,FC Rouen,2,0,H,0,0,D
+FRA,1968-01-21,,FC Sochaux,AC Ajaccio,3,1,H,1,0,H
+FRA,1968-01-21,,RC Strasbourg,US Valenciennes-Anzin,0,1,A,0,0,D
+FRA,1968-01-21,,Stade Rennes,Lille OSC,4,1,H,1,0,H
+FRA,1968-01-21,,Angers SCO,Olympique Lyon,3,1,H,2,0,H
+FRA,1968-01-21,,AS Monaco,AS Aixoise,1,1,D,1,0,H
+FRA,1968-01-28,,Red Star FC,AS Saint-Étienne,1,1,D,0,0,D
+FRA,1968-01-28,,Lille OSC,Olympique Marseille,2,0,H,0,0,D
+FRA,1968-01-28,,Olympique Lyon,FC Sochaux,2,2,D,1,1,D
+FRA,1968-01-28,,AC Ajaccio,CS Sedan,2,0,H,0,0,D
+FRA,1968-01-28,,Girondins Bordeaux,RC Strasbourg,1,2,A,0,0,D
+FRA,1968-01-28,,OGC Nice,AS Monaco,0,2,A,0,1,A
+FRA,1968-01-28,,US Valenciennes-Anzin,RC Lens,1,1,D,0,0,D
+FRA,1968-01-28,,FC Rouen,FC Nantes,1,2,A,1,1,D
+FRA,1968-01-28,,Stade Rennes,Angers SCO,1,1,D,1,1,D
+FRA,1968-02-03,,FC Sochaux,Stade Rennes,1,2,A,1,2,A
+FRA,1968-02-04,,AS Saint-Étienne,US Valenciennes-Anzin,3,0,H,3,0,H
+FRA,1968-02-04,,Olympique Marseille,FC Rouen,2,2,D,0,1,A
+FRA,1968-02-04,,CS Sedan,AS Aixoise,3,0,H,1,0,H
+FRA,1968-02-04,,FC Nantes,Girondins Bordeaux,1,1,D,0,0,D
+FRA,1968-02-04,,RC Lens,Red Star FC,2,4,A,1,1,D
+FRA,1968-02-04,,RC Strasbourg,OGC Nice,0,0,D,0,0,D
+FRA,1968-02-04,,FC Metz,AC Ajaccio,3,0,H,0,0,D
+FRA,1968-02-04,,AS Monaco,Olympique Lyon,2,1,H,2,0,H
+FRA,1968-02-04,,Angers SCO,Lille OSC,1,3,A,1,1,D
+FRA,1968-02-17,,OGC Nice,RC Lens,0,0,D,0,0,D
+FRA,1968-02-17,,Red Star FC,FC Nantes,0,1,A,0,1,A
+FRA,1968-02-18,,AS Aixoise,AS Saint-Étienne,1,1,D,1,0,H
+FRA,1968-02-18,,Lille OSC,Girondins Bordeaux,1,2,A,0,1,A
+FRA,1968-02-18,,Stade Rennes,CS Sedan,1,1,D,1,1,D
+FRA,1968-02-18,,US Valenciennes-Anzin,Olympique Marseille,1,0,H,0,0,D
+FRA,1968-02-18,,Angers SCO,FC Sochaux,1,1,D,0,1,A
+FRA,1968-02-18,,Olympique Lyon,FC Metz,3,1,H,1,0,H
+FRA,1968-02-24,,FC Sochaux,Lille OSC,2,1,H,0,1,A
+FRA,1968-02-25,,AS Saint-Étienne,OGC Nice,3,1,H,1,1,D
+FRA,1968-02-25,,Girondins Bordeaux,Red Star FC,1,0,H,0,0,D
+FRA,1968-02-25,,Olympique Marseille,AC Ajaccio,2,0,H,1,0,H
+FRA,1968-02-25,,CS Sedan,Olympique Lyon,2,3,A,2,1,H
+FRA,1968-02-25,,FC Nantes,US Valenciennes-Anzin,0,2,A,0,1,A
+FRA,1968-02-25,,FC Metz,Stade Rennes,6,1,H,2,1,H
+FRA,1968-02-25,,AS Monaco,Angers SCO,5,0,H,2,0,H
+FRA,1968-02-25,,RC Strasbourg,AS Aixoise,1,0,H,1,0,H
+FRA,1968-02-25,,RC Lens,FC Rouen,2,1,H,0,1,A
+FRA,1968-03-02,,Olympique Lyon,Olympique Marseille,3,2,H,2,2,D
+FRA,1968-03-03,,FC Rouen,AS Saint-Étienne,3,0,H,0,0,D
+FRA,1968-03-03,,FC Sochaux,CS Sedan,3,0,H,1,0,H
+FRA,1968-03-03,,US Valenciennes-Anzin,Girondins Bordeaux,2,0,H,1,0,H
+FRA,1968-03-03,,OGC Nice,FC Nantes,5,1,H,2,1,H
+FRA,1968-03-03,,AC Ajaccio,Red Star FC,0,0,D,0,0,D
+FRA,1968-03-03,,Stade Rennes,RC Strasbourg,2,1,H,1,0,H
+FRA,1968-03-03,,Lille OSC,AS Monaco,0,1,A,0,0,D
+FRA,1968-03-03,,Angers SCO,FC Metz,0,0,D,0,0,D
+FRA,1968-03-03,,AS Aixoise,RC Lens,2,2,D,1,1,D
+FRA,1968-03-10,,AC Ajaccio,AS Monaco,1,2,A,1,0,H
+FRA,1968-03-16,,FC Metz,FC Sochaux,2,0,H,0,0,D
+FRA,1968-03-16,,CS Sedan,Angers SCO,3,1,H,2,1,H
+FRA,1968-03-16,,RC Strasbourg,AC Ajaccio,0,0,D,0,0,D
+FRA,1968-03-16,,Girondins Bordeaux,OGC Nice,4,0,H,2,0,H
+FRA,1968-03-17,,AS Saint-Étienne,Olympique Lyon,1,1,D,0,1,A
+FRA,1968-03-17,,Olympique Marseille,AS Aixoise,3,2,H,0,1,A
+FRA,1968-03-17,,Red Star FC,US Valenciennes-Anzin,1,0,H,1,0,H
+FRA,1968-03-17,,FC Nantes,Stade Rennes,2,0,H,1,0,H
+FRA,1968-03-17,,AS Monaco,FC Rouen,1,3,A,1,1,D
+FRA,1968-03-17,,RC Lens,Lille OSC,1,1,D,0,0,D
+FRA,1968-03-22,,Lille OSC,RC Strasbourg,0,0,D,0,0,D
+FRA,1968-03-23,,Angers SCO,Olympique Marseille,2,2,D,1,0,H
+FRA,1968-03-23,,FC Rouen,Girondins Bordeaux,3,0,H,1,0,H
+FRA,1968-03-23,,CS Sedan,FC Metz,3,0,H,1,0,H
+FRA,1968-03-23,,FC Sochaux,AS Monaco,0,0,D,0,0,D
+FRA,1968-03-23,,Stade Rennes,US Valenciennes-Anzin,1,1,D,0,0,D
+FRA,1968-03-24,,AC Ajaccio,AS Saint-Étienne,1,1,D,1,0,H
+FRA,1968-03-24,,AS Aixoise,FC Nantes,2,6,A,1,1,D
+FRA,1968-03-24,,OGC Nice,Red Star FC,2,1,H,1,1,D
+FRA,1968-03-24,,Olympique Lyon,RC Lens,3,0,H,1,0,H
+FRA,1968-03-30,,Stade Rennes,FC Rouen,0,1,A,0,1,A
+FRA,1968-03-31,,US Valenciennes-Anzin,AS Monaco,1,1,D,0,1,A
+FRA,1968-04-06,,FC Metz,Lille OSC,1,0,H,1,0,H
+FRA,1968-04-07,,RC Lens,AC Ajaccio,1,2,A,1,1,D
+FRA,1968-04-07,,Red Star FC,FC Rouen,0,2,A,0,0,D
+FRA,1968-04-09,,AS Saint-Étienne,Angers SCO,3,0,H,3,0,H
+FRA,1968-04-09,,Girondins Bordeaux,AS Aixoise,3,0,H,0,0,D
+FRA,1968-04-09,,FC Nantes,FC Sochaux,1,1,D,0,1,A
+FRA,1968-04-09,,US Valenciennes-Anzin,OGC Nice,0,1,A,0,1,A
+FRA,1968-04-09,,AS Monaco,CS Sedan,2,1,H,0,0,D
+FRA,1968-04-09,,RC Strasbourg,Olympique Lyon,0,1,A,0,1,A
+FRA,1968-04-12,,Stade Rennes,AS Saint-Étienne,0,3,A,0,1,A
+FRA,1968-04-12,,Olympique Lyon,FC Nantes,0,3,A,0,2,A
+FRA,1968-04-12,,FC Sochaux,RC Strasbourg,1,1,D,1,0,H
+FRA,1968-04-12,,FC Rouen,OGC Nice,1,0,H,0,0,D
+FRA,1968-04-13,,Lille OSC,US Valenciennes-Anzin,0,3,A,0,2,A
+FRA,1968-04-13,,CS Sedan,Olympique Marseille,1,1,D,0,0,D
+FRA,1968-04-13,,FC Metz,AS Monaco,2,0,H,1,0,H
+FRA,1968-04-13,,AS Aixoise,Red Star FC,0,0,D,0,0,D
+FRA,1968-04-13,,Angers SCO,RC Lens,1,2,A,1,2,A
+FRA,1968-04-14,,AC Ajaccio,Girondins Bordeaux,3,0,H,2,0,H
+FRA,1968-04-20,,Angers SCO,US Valenciennes-Anzin,1,0,H,0,0,D
+FRA,1968-04-26,,Olympique Marseille,FC Metz,2,0,H,1,0,H
+FRA,1968-04-26,,OGC Nice,AS Aixoise,1,0,H,0,0,D
+FRA,1968-04-26,,RC Strasbourg,Angers SCO,5,1,H,1,1,D
+FRA,1968-04-27,,AS Saint-Étienne,CS Sedan,2,1,H,2,1,H
+FRA,1968-04-27,,FC Nantes,AC Ajaccio,1,0,H,1,0,H
+FRA,1968-04-27,,RC Lens,FC Sochaux,0,2,A,0,1,A
+FRA,1968-04-27,,Girondins Bordeaux,Olympique Lyon,0,0,D,0,0,D
+FRA,1968-04-27,,US Valenciennes-Anzin,FC Rouen,0,2,A,0,0,D
+FRA,1968-04-27,,AS Monaco,Stade Rennes,2,1,H,0,1,A
+FRA,1968-04-28,,Red Star FC,Lille OSC,0,2,A,0,1,A
+FRA,1968-04-30,,Olympique Marseille,Stade Rennes,3,1,H,1,1,D
+FRA,1968-05-01,,AS Aixoise,FC Metz,0,1,A,0,1,A
+FRA,1968-05-03,,Lille OSC,OGC Nice,0,2,A,0,0,D
+FRA,1968-05-03,,Olympique Lyon,Red Star FC,0,0,D,0,0,D
+FRA,1968-05-04,,FC Sochaux,AS Saint-Étienne,0,4,A,0,3,A
+FRA,1968-05-04,,AS Monaco,Olympique Marseille,1,0,H,0,0,D
+FRA,1968-05-04,,Stade Rennes,Girondins Bordeaux,1,0,H,1,0,H
+FRA,1968-05-04,,CS Sedan,RC Lens,1,1,D,1,0,H
+FRA,1968-05-04,,FC Metz,RC Strasbourg,1,0,H,0,0,D
+FRA,1968-05-05,,Angers SCO,FC Nantes,1,3,A,1,2,A
+FRA,1968-05-05,,AS Aixoise,US Valenciennes-Anzin,1,1,D,0,1,A
+FRA,1968-05-05,,AC Ajaccio,FC Rouen,5,3,H,3,2,H
+FRA,1968-05-11,,FC Metz,OGC Nice,1,2,A,1,1,D
+FRA,1968-05-11,,FC Rouen,RC Strasbourg,3,2,H,0,1,A
+FRA,1968-05-17,,AS Saint-Étienne,AS Monaco,1,0,H,1,0,H
+FRA,1968-05-17,,OGC Nice,AC Ajaccio,1,0,H,0,0,D
+FRA,1968-05-17,,RC Strasbourg,CS Sedan,0,2,A,0,2,A
+FRA,1968-05-17,,Girondins Bordeaux,Angers SCO,1,2,A,0,2,A
+FRA,1968-05-17,,FC Rouen,AS Aixoise,5,0,H,3,0,H
+FRA,1968-05-18,,FC Nantes,Lille OSC,2,1,H,0,1,A
+FRA,1968-05-18,,Olympique Marseille,FC Sochaux,0,1,A,0,0,D
+FRA,1968-05-18,,US Valenciennes-Anzin,Olympique Lyon,2,0,H,1,0,H
+FRA,1968-05-18,,RC Lens,FC Metz,1,1,D,0,1,A
+FRA,1968-05-19,,Red Star FC,Stade Rennes,3,1,H,3,0,H
+FRA,1968-05-22,,FC Metz,AS Saint-Étienne,1,1,D,0,1,A
+FRA,1968-05-22,,CS Sedan,FC Nantes,1,0,H,0,0,D
+FRA,1968-05-22,,Lille OSC,FC Rouen,1,0,H,0,0,D
+FRA,1968-06-12,,Olympique Lyon,OGC Nice,1,1,D,1,1,D
+FRA,1968-06-12,,AC Ajaccio,US Valenciennes-Anzin,1,4,A,1,2,A
+FRA,1968-06-12,,Olympique Marseille,RC Strasbourg,0,0,D,0,0,D
+FRA,1968-06-12,,FC Sochaux,Girondins Bordeaux,0,1,A,0,0,D
+FRA,1968-06-12,,AS Monaco,RC Lens,2,3,A,1,1,D
+FRA,1968-06-12,,Angers SCO,Red Star FC,2,2,D,1,1,D
+FRA,1968-06-12,,Stade Rennes,AS Aixoise,4,0,H,1,0,H
+FRA,1968-06-14,,AS Saint-Étienne,Lille OSC,3,0,H,1,0,H
+FRA,1968-06-15,,FC Nantes,FC Metz,1,1,D,0,0,D
+FRA,1968-06-15,,US Valenciennes-Anzin,Angers SCO,2,1,H,0,1,A
+FRA,1968-06-15,,Girondins Bordeaux,CS Sedan,2,0,H,1,0,H
+FRA,1968-06-15,,RC Lens,Olympique Marseille,5,1,H,3,1,H
+FRA,1968-06-15,,AS Aixoise,AC Ajaccio,2,4,A,0,1,A
+FRA,1968-06-15,,RC Strasbourg,AS Monaco,2,0,H,0,0,D
+FRA,1968-06-15,,FC Rouen,Olympique Lyon,3,1,H,1,0,H
+FRA,1968-06-16,,OGC Nice,Stade Rennes,0,3,A,0,2,A
+FRA,1968-06-16,,Red Star FC,FC Sochaux,1,2,A,0,2,A
+FRA,1968-06-19,,RC Lens,Girondins Bordeaux,2,1,H,0,1,A
+FRA,1968-06-19,,Olympique Marseille,AS Saint-Étienne,2,1,H,1,0,H
+FRA,1968-06-21,,AS Monaco,FC Nantes,3,0,H,2,0,H
+FRA,1968-06-21,,Lille OSC,AC Ajaccio,1,2,A,1,2,A
+FRA,1968-06-21,,FC Rouen,Stade Rennes,2,0,H,1,0,H
+FRA,1968-06-21,,Olympique Lyon,AS Aixoise,4,3,H,3,3,D
+FRA,1968-06-22,,Angers SCO,OGC Nice,1,1,D,0,0,D
+FRA,1968-06-22,,FC Metz,Girondins Bordeaux,2,0,H,1,0,H
+FRA,1968-06-22,,CS Sedan,Red Star FC,0,0,D,0,0,D
+FRA,1968-06-22,,FC Sochaux,US Valenciennes-Anzin,3,1,H,1,0,H
+FRA,1968-06-23,,RC Strasbourg,RC Lens,1,0,H,1,0,H
+FRA,1968-06-28,,AS Saint-Étienne,RC Strasbourg,4,0,H,3,0,H
+FRA,1968-06-28,,OGC Nice,FC Sochaux,1,0,H,0,0,D
+FRA,1968-06-28,,US Valenciennes-Anzin,CS Sedan,3,1,H,1,0,H
+FRA,1968-06-28,,FC Nantes,Olympique Marseille,1,1,D,1,1,D
+FRA,1968-06-28,,Girondins Bordeaux,AS Monaco,3,0,H,2,0,H
+FRA,1968-06-28,,Red Star FC,FC Metz,0,1,A,0,1,A
+FRA,1968-06-28,,AC Ajaccio,Olympique Lyon,2,2,D,0,2,A
+FRA,1968-06-28,,FC Rouen,Angers SCO,0,1,A,0,0,D
+FRA,1968-06-28,,RC Lens,Stade Rennes,1,1,D,0,0,D
+FRA,1968-06-28,,AS Aixoise,Lille OSC,2,1,H,1,0,H
+FRA,1968-07-03,,CS Sedan,OGC Nice,0,1,A,0,1,A
+FRA,1968-07-03,,Olympique Marseille,Girondins Bordeaux,2,0,H,1,0,H
+FRA,1968-07-05,,RC Lens,AS Saint-Étienne,1,3,A,1,1,D
+FRA,1968-07-05,,FC Sochaux,FC Rouen,3,0,H,0,0,D
+FRA,1968-07-05,,FC Metz,US Valenciennes-Anzin,2,0,H,0,0,D
+FRA,1968-07-05,,RC Strasbourg,FC Nantes,3,1,H,0,1,A
+FRA,1968-07-05,,Stade Rennes,AC Ajaccio,1,0,H,0,0,D
+FRA,1968-07-05,,AS Monaco,Red Star FC,0,1,A,0,1,A
+FRA,1968-07-05,,Olympique Lyon,Lille OSC,1,1,D,1,0,H
+FRA,1968-07-05,,Angers SCO,AS Aixoise,9,1,H,4,0,H

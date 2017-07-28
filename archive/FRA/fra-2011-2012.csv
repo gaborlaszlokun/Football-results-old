@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,06/08/2011,20:00,AC Ajaccio,Toulouse FC,0,2,A,0,1,A
-FRA,06/08/2011,20:00,Stade Brest,Évian Thonon Gaillard,2,2,D,2,2,D
-FRA,06/08/2011,20:00,SM Caen,Valenciennes FC,1,0,H,1,0,H
-FRA,06/08/2011,20:00,Olympique Marseille,FC Sochaux,2,2,D,1,0,H
-FRA,06/08/2011,20:00,Montpellier HSC,AJ Auxerre,3,1,H,1,1,D
-FRA,06/08/2011,20:00,AS Nancy,Lille OSC,1,1,D,0,0,D
-FRA,06/08/2011,20:00,OGC Nice,Olympique Lyon,1,3,A,1,2,A
-FRA,06/08/2011,20:00,Paris Saint-Germain,FC Lorient,0,1,A,0,1,A
-FRA,07/08/2011,16:00,Dijon FCO,Stade Rennes,1,5,A,1,2,A
-FRA,07/08/2011,20:00,Girondins Bordeaux,AS Saint-Étienne,1,2,A,0,2,A
-FRA,13/08/2011,18:00,FC Lorient,Girondins Bordeaux,1,1,D,0,0,D
-FRA,13/08/2011,18:00,Olympique Lyon,AC Ajaccio,1,1,D,0,0,D
-FRA,13/08/2011,18:00,Stade Rennes,Paris Saint-Germain,1,1,D,0,0,D
-FRA,13/08/2011,18:00,FC Sochaux,SM Caen,1,2,A,0,1,A
-FRA,13/08/2011,18:00,Toulouse FC,Dijon FCO,2,0,H,0,0,D
-FRA,13/08/2011,18:00,AS Saint-Étienne,AS Nancy,1,0,H,0,0,D
-FRA,13/08/2011,20:00,Valenciennes FC,Stade Brest,0,0,D,0,0,D
-FRA,14/08/2011,16:00,AJ Auxerre,Olympique Marseille,2,2,D,0,2,A
-FRA,14/08/2011,16:00,Évian Thonon Gaillard,OGC Nice,1,0,H,0,0,D
-FRA,14/08/2011,20:00,Lille OSC,Montpellier HSC,0,1,A,0,0,D
-FRA,20/08/2011,18:00,Girondins Bordeaux,AJ Auxerre,1,1,D,1,0,H
-FRA,20/08/2011,18:00,Stade Brest,Olympique Lyon,1,1,D,1,0,H
-FRA,20/08/2011,18:00,SM Caen,Lille OSC,1,2,A,0,0,D
-FRA,20/08/2011,18:00,Dijon FCO,FC Lorient,2,0,H,1,0,H
-FRA,20/08/2011,18:00,OGC Nice,Toulouse FC,1,1,D,1,0,H
-FRA,20/08/2011,20:00,AC Ajaccio,Évian Thonon Gaillard,1,1,D,1,0,H
-FRA,21/08/2011,16:00,Montpellier HSC,Stade Rennes,4,0,H,1,0,H
-FRA,21/08/2011,16:00,AS Nancy,FC Sochaux,1,2,A,0,0,D
-FRA,21/08/2011,16:00,Paris Saint-Germain,Valenciennes FC,2,1,H,1,1,D
-FRA,21/08/2011,20:00,Olympique Marseille,AS Saint-Étienne,0,0,D,0,0,D
-FRA,27/08/2011,18:00,AJ Auxerre,AC Ajaccio,4,1,H,1,0,H
-FRA,27/08/2011,18:00,Évian Thonon Gaillard,Dijon FCO,0,1,A,0,0,D
-FRA,27/08/2011,18:00,FC Lorient,AS Nancy,2,1,H,0,1,A
-FRA,27/08/2011,18:00,OGC Nice,Stade Brest,0,0,D,0,0,D
-FRA,27/08/2011,18:00,Valenciennes FC,Girondins Bordeaux,1,2,A,1,0,H
-FRA,27/08/2011,20:00,Olympique Lyon,Montpellier HSC,2,1,H,0,0,D
-FRA,28/08/2011,16:00,Stade Rennes,SM Caen,3,2,H,3,0,H
-FRA,28/08/2011,16:00,FC Sochaux,AS Saint-Étienne,2,1,H,2,1,H
-FRA,28/08/2011,16:00,Toulouse FC,Paris Saint-Germain,1,3,A,1,0,H
-FRA,28/08/2011,20:00,Lille OSC,Olympique Marseille,3,2,H,1,0,H
-FRA,10/09/2011,18:00,AC Ajaccio,Valenciennes FC,3,1,H,0,1,A
-FRA,10/09/2011,18:00,Girondins Bordeaux,Évian Thonon Gaillard,0,0,D,0,0,D
-FRA,10/09/2011,18:00,SM Caen,Toulouse FC,0,1,A,0,0,D
-FRA,10/09/2011,18:00,Dijon FCO,Olympique Lyon,1,2,A,1,1,D
-FRA,10/09/2011,18:00,AS Saint-Étienne,Lille OSC,1,3,A,1,0,H
-FRA,10/09/2011,18:00,FC Sochaux,FC Lorient,1,1,D,1,0,H
-FRA,10/09/2011,20:00,Olympique Marseille,Stade Rennes,0,1,A,0,0,D
-FRA,11/09/2011,16:00,Montpellier HSC,OGC Nice,1,0,H,0,0,D
-FRA,11/09/2011,16:00,AS Nancy,AJ Auxerre,0,0,D,0,0,D
-FRA,11/09/2011,20:00,Paris Saint-Germain,Stade Brest,1,0,H,0,0,D
-FRA,17/09/2011,18:00,AJ Auxerre,SM Caen,1,1,D,1,1,D
-FRA,17/09/2011,18:00,Stade Brest,Montpellier HSC,2,2,D,0,2,A
-FRA,17/09/2011,18:00,FC Lorient,AS Saint-Étienne,3,0,H,1,0,H
-FRA,17/09/2011,18:00,OGC Nice,AC Ajaccio,3,0,H,1,0,H
-FRA,17/09/2011,18:00,Toulouse FC,Girondins Bordeaux,3,2,H,0,2,A
-FRA,17/09/2011,18:00,Valenciennes FC,Dijon FCO,4,0,H,0,0,D
-FRA,17/09/2011,20:00,Lille OSC,FC Sochaux,2,2,D,0,0,D
-FRA,18/09/2011,16:00,Évian Thonon Gaillard,Paris Saint-Germain,2,2,D,2,1,H
-FRA,18/09/2011,16:00,Stade Rennes,AS Nancy,1,1,D,1,0,H
-FRA,18/09/2011,20:00,Olympique Lyon,Olympique Marseille,2,0,H,2,0,H
-FRA,20/09/2011,20:00,Girondins Bordeaux,Lille OSC,1,1,D,1,0,H
-FRA,21/09/2011,18:00,AC Ajaccio,Montpellier HSC,1,3,A,0,3,A
-FRA,21/09/2011,18:00,SM Caen,Olympique Lyon,1,0,H,1,0,H
-FRA,21/09/2011,18:00,Dijon FCO,Stade Brest,1,0,H,1,0,H
-FRA,21/09/2011,18:00,FC Lorient,AJ Auxerre,1,1,D,1,0,H
-FRA,21/09/2011,18:00,Olympique Marseille,Évian Thonon Gaillard,2,0,H,1,0,H
-FRA,21/09/2011,18:00,AS Nancy,Valenciennes FC,1,1,D,1,0,H
-FRA,21/09/2011,18:00,Paris Saint-Germain,OGC Nice,2,1,H,1,0,H
-FRA,21/09/2011,18:00,FC Sochaux,Stade Rennes,2,6,A,2,2,D
-FRA,21/09/2011,20:00,AS Saint-Étienne,Toulouse FC,1,1,D,0,1,A
-FRA,24/09/2011,18:00,Évian Thonon Gaillard,SM Caen,2,4,A,2,2,D
-FRA,24/09/2011,18:00,Lille OSC,FC Lorient,1,1,D,1,0,H
-FRA,24/09/2011,18:00,Olympique Lyon,Girondins Bordeaux,3,1,H,2,0,H
-FRA,24/09/2011,18:00,OGC Nice,Dijon FCO,1,1,D,0,1,A
-FRA,24/09/2011,18:00,Toulouse FC,AS Nancy,1,0,H,0,0,D
-FRA,24/09/2011,18:00,Valenciennes FC,Olympique Marseille,1,1,D,0,1,A
-FRA,24/09/2011,20:00,Montpellier HSC,Paris Saint-Germain,0,3,A,0,2,A
-FRA,25/09/2011,16:00,AJ Auxerre,FC Sochaux,4,1,H,0,1,A
-FRA,25/09/2011,16:00,Stade Brest,AC Ajaccio,1,1,D,0,0,D
-FRA,25/09/2011,20:00,Stade Rennes,AS Saint-Étienne,1,1,D,1,0,H
-FRA,01/10/2011,18:00,SM Caen,OGC Nice,1,1,D,0,0,D
-FRA,01/10/2011,18:00,Dijon FCO,AC Ajaccio,1,1,D,1,1,D
-FRA,01/10/2011,18:00,FC Lorient,Valenciennes FC,2,0,H,1,0,H
-FRA,01/10/2011,18:00,AS Nancy,Évian Thonon Gaillard,1,1,D,0,0,D
-FRA,01/10/2011,18:00,AS Saint-Étienne,AJ Auxerre,1,1,D,1,1,D
-FRA,01/10/2011,18:00,FC Sochaux,Toulouse FC,3,0,H,1,0,H
-FRA,01/10/2011,20:00,Girondins Bordeaux,Montpellier HSC,2,2,D,1,0,H
-FRA,02/10/2011,16:00,Lille OSC,Stade Rennes,2,0,H,2,0,H
-FRA,02/10/2011,16:00,Olympique Marseille,Stade Brest,1,1,D,1,1,D
-FRA,02/10/2011,20:00,Paris Saint-Germain,Olympique Lyon,2,0,H,0,0,D
-FRA,15/10/2011,18:00,AJ Auxerre,Lille OSC,1,3,A,1,0,H
-FRA,15/10/2011,18:00,Stade Brest,SM Caen,1,1,D,1,0,H
-FRA,15/10/2011,18:00,Évian Thonon Gaillard,AS Saint-Étienne,1,2,A,0,0,D
-FRA,15/10/2011,18:00,Olympique Lyon,AS Nancy,3,1,H,3,0,H
-FRA,15/10/2011,18:00,Montpellier HSC,Dijon FCO,5,3,H,1,2,A
-FRA,15/10/2011,18:00,Toulouse FC,Olympique Marseille,0,0,D,0,0,D
-FRA,15/10/2011,20:00,OGC Nice,Girondins Bordeaux,3,0,H,2,0,H
-FRA,16/10/2011,16:00,AC Ajaccio,Paris Saint-Germain,1,3,A,1,1,D
-FRA,16/10/2011,16:00,Valenciennes FC,FC Sochaux,3,0,H,1,0,H
-FRA,16/10/2011,20:00,Stade Rennes,FC Lorient,2,0,H,1,0,H
-FRA,22/10/2011,18:00,Girondins Bordeaux,Stade Brest,1,1,D,0,0,D
-FRA,22/10/2011,18:00,SM Caen,Montpellier HSC,1,3,A,0,2,A
-FRA,22/10/2011,18:00,Olympique Marseille,AC Ajaccio,2,0,H,1,0,H
-FRA,22/10/2011,18:00,AS Nancy,OGC Nice,1,0,H,0,0,D
-FRA,22/10/2011,18:00,AS Saint-Étienne,Valenciennes FC,1,0,H,0,0,D
-FRA,22/10/2011,18:00,FC Sochaux,Évian Thonon Gaillard,1,1,D,0,0,D
-FRA,22/10/2011,20:00,FC Lorient,Toulouse FC,0,0,D,0,0,D
-FRA,23/10/2011,16:00,AJ Auxerre,Stade Rennes,0,1,A,0,0,D
-FRA,23/10/2011,16:00,Paris Saint-Germain,Dijon FCO,2,0,H,1,0,H
-FRA,23/10/2011,20:00,Lille OSC,Olympique Lyon,3,1,H,1,1,D
-FRA,29/10/2011,18:00,AC Ajaccio,Girondins Bordeaux,0,2,A,0,2,A
-FRA,29/10/2011,18:00,Stade Brest,FC Lorient,3,1,H,3,0,H
-FRA,29/10/2011,18:00,Dijon FCO,Olympique Marseille,2,3,A,0,2,A
-FRA,29/10/2011,18:00,Évian Thonon Gaillard,AJ Auxerre,3,1,H,2,0,H
-FRA,29/10/2011,18:00,Montpellier HSC,AS Nancy,2,0,H,0,0,D
-FRA,29/10/2011,18:00,Paris Saint-Germain,SM Caen,4,2,H,1,1,D
-FRA,29/10/2011,20:00,Olympique Lyon,AS Saint-Étienne,2,0,H,0,0,D
-FRA,30/10/2011,16:00,OGC Nice,FC Sochaux,1,1,D,1,1,D
-FRA,30/10/2011,16:00,Toulouse FC,Stade Rennes,1,0,H,1,0,H
-FRA,30/10/2011,20:00,Valenciennes FC,Lille OSC,0,0,D,0,0,D
-FRA,05/11/2011,20:00,Lille OSC,Évian Thonon Gaillard,1,1,D,0,1,A
-FRA,06/11/2011,16:00,SM Caen,Dijon FCO,3,0,H,1,0,H
-FRA,06/11/2011,16:00,FC Lorient,AC Ajaccio,2,0,H,0,0,D
-FRA,06/11/2011,16:00,Olympique Marseille,OGC Nice,2,0,H,0,0,D
-FRA,06/11/2011,16:00,AS Nancy,Stade Brest,2,1,H,0,0,D
-FRA,06/11/2011,16:00,Stade Rennes,Valenciennes FC,1,1,D,1,1,D
-FRA,06/11/2011,16:00,AS Saint-Étienne,Montpellier HSC,1,1,D,1,0,H
-FRA,06/11/2011,16:00,FC Sochaux,Olympique Lyon,2,1,H,2,1,H
-FRA,06/11/2011,17:30,AJ Auxerre,Toulouse FC,2,0,H,0,0,D
-FRA,06/11/2011,20:00,Girondins Bordeaux,Paris Saint-Germain,1,1,D,1,1,D
-FRA,18/11/2011,19:00,Olympique Lyon,Stade Rennes,1,2,A,1,1,D
-FRA,18/11/2011,19:00,Toulouse FC,Lille OSC,0,0,D,0,0,D
-FRA,19/11/2011,18:00,AC Ajaccio,SM Caen,2,2,D,0,0,D
-FRA,19/11/2011,18:00,Dijon FCO,Girondins Bordeaux,2,0,H,0,0,D
-FRA,19/11/2011,18:00,Évian Thonon Gaillard,FC Lorient,2,1,H,1,0,H
-FRA,19/11/2011,18:00,OGC Nice,AS Saint-Étienne,0,2,A,0,2,A
-FRA,19/11/2011,20:00,Montpellier HSC,Olympique Marseille,1,0,H,0,0,D
-FRA,20/11/2011,16:00,Stade Brest,FC Sochaux,2,0,H,0,0,D
-FRA,20/11/2011,16:00,Valenciennes FC,AJ Auxerre,2,1,H,0,1,A
-FRA,20/11/2011,20:00,Paris Saint-Germain,AS Nancy,0,1,A,0,0,D
-FRA,26/11/2011,18:00,Girondins Bordeaux,SM Caen,2,0,H,0,0,D
-FRA,26/11/2011,18:00,AS Nancy,Dijon FCO,1,2,A,1,1,D
-FRA,26/11/2011,18:00,Stade Rennes,Évian Thonon Gaillard,3,2,H,1,2,A
-FRA,26/11/2011,18:00,AS Saint-Étienne,AC Ajaccio,3,1,H,2,0,H
-FRA,26/11/2011,18:00,FC Sochaux,Montpellier HSC,1,3,A,0,0,D
-FRA,26/11/2011,18:00,Toulouse FC,Valenciennes FC,2,0,H,1,0,H
-FRA,26/11/2011,20:00,Lille OSC,Stade Brest,2,0,H,1,0,H
-FRA,27/11/2011,16:00,AJ Auxerre,Olympique Lyon,0,3,A,0,1,A
-FRA,27/11/2011,16:00,FC Lorient,OGC Nice,1,0,H,0,0,D
-FRA,27/11/2011,20:00,Olympique Marseille,Paris Saint-Germain,3,0,H,1,0,H
-FRA,02/12/2011,19:00,SM Caen,Olympique Marseille,1,2,A,1,1,D
-FRA,03/12/2011,18:00,AC Ajaccio,Lille OSC,2,3,A,2,2,D
-FRA,03/12/2011,18:00,Stade Brest,AS Saint-Étienne,2,2,D,2,1,H
-FRA,03/12/2011,18:00,Dijon FCO,FC Sochaux,0,0,D,0,0,D
-FRA,03/12/2011,18:00,Évian Thonon Gaillard,Valenciennes FC,2,1,H,2,0,H
-FRA,03/12/2011,18:00,Montpellier HSC,FC Lorient,4,0,H,1,0,H
-FRA,03/12/2011,20:00,OGC Nice,Stade Rennes,2,0,H,2,0,H
-FRA,04/12/2011,16:00,Girondins Bordeaux,AS Nancy,2,0,H,1,0,H
-FRA,04/12/2011,16:00,Paris Saint-Germain,AJ Auxerre,3,2,H,0,0,D
-FRA,04/12/2011,20:00,Olympique Lyon,Toulouse FC,3,2,H,1,0,H
-FRA,10/12/2011,18:00,AS Nancy,AC Ajaccio,2,2,D,1,1,D
-FRA,10/12/2011,18:00,Stade Rennes,Stade Brest,1,1,D,1,1,D
-FRA,10/12/2011,18:00,AS Saint-Étienne,SM Caen,2,0,H,1,0,H
-FRA,10/12/2011,18:00,FC Sochaux,Paris Saint-Germain,0,1,A,0,1,A
-FRA,10/12/2011,18:00,Toulouse FC,Évian Thonon Gaillard,2,1,H,1,0,H
-FRA,10/12/2011,18:00,Valenciennes FC,Montpellier HSC,1,0,H,0,0,D
-FRA,10/12/2011,20:00,Olympique Marseille,Girondins Bordeaux,0,0,D,0,0,D
-FRA,11/12/2011,16:00,AJ Auxerre,OGC Nice,2,1,H,1,1,D
-FRA,11/12/2011,16:00,Lille OSC,Dijon FCO,2,0,H,1,0,H
-FRA,11/12/2011,20:00,FC Lorient,Olympique Lyon,0,1,A,0,0,D
-FRA,17/12/2011,18:00,Stade Brest,AJ Auxerre,1,0,H,1,0,H
-FRA,17/12/2011,18:00,SM Caen,AS Nancy,1,2,A,0,1,A
-FRA,17/12/2011,18:00,Dijon FCO,AS Saint-Étienne,1,2,A,0,1,A
-FRA,17/12/2011,18:00,Olympique Marseille,FC Lorient,2,1,H,0,0,D
-FRA,17/12/2011,18:00,Montpellier HSC,Toulouse FC,1,1,D,1,1,D
-FRA,17/12/2011,18:00,OGC Nice,Valenciennes FC,2,0,H,0,0,D
-FRA,17/12/2011,20:00,Olympique Lyon,Évian Thonon Gaillard,2,1,H,1,1,D
-FRA,18/12/2011,16:00,AC Ajaccio,Stade Rennes,1,0,H,0,0,D
-FRA,18/12/2011,16:00,Girondins Bordeaux,FC Sochaux,1,0,H,1,0,H
-FRA,18/12/2011,20:00,Paris Saint-Germain,Lille OSC,0,0,D,0,0,D
-FRA,20/12/2011,20:00,AS Nancy,Olympique Marseille,1,3,A,1,2,A
-FRA,21/12/2011,18:00,AJ Auxerre,Dijon FCO,2,2,D,0,2,A
-FRA,21/12/2011,18:00,Évian Thonon Gaillard,Montpellier HSC,4,2,H,0,0,D
-FRA,21/12/2011,18:00,Lille OSC,OGC Nice,4,4,D,2,3,A
-FRA,21/12/2011,18:00,FC Lorient,SM Caen,0,0,D,0,0,D
-FRA,21/12/2011,18:00,Stade Rennes,Girondins Bordeaux,1,0,H,0,0,D
-FRA,21/12/2011,18:00,FC Sochaux,AC Ajaccio,0,2,A,0,0,D
-FRA,21/12/2011,18:00,Toulouse FC,Stade Brest,0,0,D,0,0,D
-FRA,21/12/2011,18:00,Valenciennes FC,Olympique Lyon,1,0,H,1,0,H
-FRA,21/12/2011,20:00,AS Saint-Étienne,Paris Saint-Germain,0,1,A,0,1,A
-FRA,14/01/2012,20:00,AC Ajaccio,AJ Auxerre,2,1,H,2,1,H
-FRA,14/01/2012,20:00,Dijon FCO,Évian Thonon Gaillard,3,1,H,1,0,H
-FRA,14/01/2012,20:00,AS Nancy,FC Lorient,2,2,D,1,0,H
-FRA,14/01/2012,20:00,Montpellier HSC,Olympique Lyon,1,0,H,0,0,D
-FRA,14/01/2012,20:00,Stade Brest,OGC Nice,1,0,H,1,0,H
-FRA,14/01/2012,20:00,SM Caen,Stade Rennes,0,2,A,0,1,A
-FRA,14/01/2012,20:00,AS Saint-Étienne,FC Sochaux,1,0,H,0,0,D
-FRA,14/01/2012,20:00,Paris Saint-Germain,Toulouse FC,3,1,H,1,0,H
-FRA,14/01/2012,20:00,Girondins Bordeaux,Valenciennes FC,2,1,H,2,0,H
-FRA,15/01/2012,20:00,Olympique Marseille,Lille OSC,2,0,H,0,0,D
-FRA,28/01/2012,18:00,Toulouse FC,SM Caen,1,0,H,1,0,H
-FRA,28/01/2012,18:00,Olympique Lyon,Dijon FCO,3,1,H,1,0,H
-FRA,28/01/2012,18:00,OGC Nice,Montpellier HSC,0,1,A,0,0,D
-FRA,28/01/2012,18:00,AJ Auxerre,AS Nancy,1,3,A,0,0,D
-FRA,28/01/2012,18:00,Stade Brest,Paris Saint-Germain,0,1,A,0,1,A
-FRA,28/01/2012,18:00,FC Lorient,FC Sochaux,1,1,D,0,0,D
-FRA,28/01/2012,20:00,Lille OSC,AS Saint-Étienne,3,0,H,0,0,D
-FRA,29/01/2012,16:00,Valenciennes FC,AC Ajaccio,1,2,A,0,1,A
-FRA,29/01/2012,16:00,Évian Thonon Gaillard,Girondins Bordeaux,0,0,D,0,0,D
-FRA,29/01/2012,20:00,Stade Rennes,Olympique Marseille,1,2,A,1,1,D
-FRA,04/02/2012,14:00,AS Nancy,Stade Rennes,0,0,D,0,0,D
-FRA,04/02/2012,14:00,Dijon FCO,Valenciennes FC,1,2,A,0,2,A
-FRA,04/02/2012,18:00,Montpellier HSC,Stade Brest,1,0,H,1,0,H
-FRA,04/02/2012,18:00,Paris Saint-Germain,Évian Thonon Gaillard,3,1,H,0,1,A
-FRA,04/02/2012,18:00,AC Ajaccio,OGC Nice,1,1,D,0,0,D
-FRA,04/02/2012,20:00,Girondins Bordeaux,Toulouse FC,2,0,H,2,0,H
-FRA,05/02/2012,20:00,Olympique Marseille,Olympique Lyon,2,2,D,2,2,D
-FRA,22/02/2012,17:30,SM Caen,AJ Auxerre,2,1,H,0,0,D
-FRA,22/02/2012,17:30,FC Sochaux,Lille OSC,0,1,A,0,0,D
-FRA,22/02/2012,17:30,AS Saint-Étienne,FC Lorient,4,2,H,0,0,D
-FRA,11/02/2012,14:00,Montpellier HSC,AC Ajaccio,3,0,H,0,0,D
-FRA,11/02/2012,14:00,Olympique Lyon,SM Caen,1,2,A,0,1,A
-FRA,11/02/2012,14:00,AJ Auxerre,FC Lorient,1,1,D,1,0,H
-FRA,11/02/2012,14:00,Valenciennes FC,AS Nancy,1,0,H,0,0,D
-FRA,11/02/2012,17:00,Stade Rennes,FC Sochaux,1,0,H,1,0,H
-FRA,11/02/2012,18:00,Stade Brest,Dijon FCO,1,1,D,0,0,D
-FRA,12/02/2012,14:00,Lille OSC,Girondins Bordeaux,4,5,A,1,2,A
-FRA,12/02/2012,16:00,OGC Nice,Paris Saint-Germain,0,0,D,0,0,D
-FRA,12/02/2012,20:00,Toulouse FC,AS Saint-Étienne,0,1,A,0,0,D
-FRA,06/03/2012,17:30,Évian Thonon Gaillard,Olympique Marseille,2,0,H,2,0,H
-FRA,18/02/2012,18:00,FC Sochaux,AJ Auxerre,0,0,D,0,0,D
-FRA,18/02/2012,18:00,AC Ajaccio,Stade Brest,0,0,D,0,0,D
-FRA,18/02/2012,18:00,SM Caen,Évian Thonon Gaillard,2,2,D,1,0,H
-FRA,18/02/2012,18:00,FC Lorient,Lille OSC,0,1,A,0,0,D
-FRA,18/02/2012,18:00,Dijon FCO,OGC Nice,3,0,H,1,0,H
-FRA,18/02/2012,18:00,AS Nancy,Toulouse FC,0,3,A,0,2,A
-FRA,18/02/2012,20:00,Olympique Marseille,Valenciennes FC,1,1,D,1,0,H
-FRA,19/02/2012,16:00,Girondins Bordeaux,Olympique Lyon,1,0,H,1,0,H
-FRA,19/02/2012,16:00,AS Saint-Étienne,Stade Rennes,4,0,H,1,0,H
-FRA,19/02/2012,20:00,Paris Saint-Germain,Montpellier HSC,2,2,D,1,1,D
-FRA,25/02/2012,18:00,Montpellier HSC,Girondins Bordeaux,1,0,H,0,0,D
-FRA,25/02/2012,18:00,OGC Nice,SM Caen,1,0,H,0,0,D
-FRA,25/02/2012,18:00,AC Ajaccio,Dijon FCO,2,1,H,0,0,D
-FRA,25/02/2012,18:00,Valenciennes FC,FC Lorient,2,0,H,0,0,D
-FRA,25/02/2012,18:00,Évian Thonon Gaillard,AS Nancy,2,0,H,2,0,H
-FRA,25/02/2012,18:00,AJ Auxerre,AS Saint-Étienne,0,0,D,0,0,D
-FRA,25/02/2012,20:00,Olympique Lyon,Paris Saint-Germain,4,4,D,3,2,H
-FRA,26/02/2012,16:00,Stade Brest,Olympique Marseille,1,0,H,1,0,H
-FRA,26/02/2012,16:00,Toulouse FC,FC Sochaux,2,0,H,1,0,H
-FRA,26/02/2012,20:00,Stade Rennes,Lille OSC,1,1,D,0,1,A
-FRA,03/03/2012,18:00,Lille OSC,AJ Auxerre,2,2,D,1,0,H
-FRA,03/03/2012,18:00,AS Saint-Étienne,Évian Thonon Gaillard,0,2,A,0,1,A
-FRA,03/03/2012,18:00,AS Nancy,Olympique Lyon,2,0,H,0,0,D
-FRA,03/03/2012,18:00,Dijon FCO,Montpellier HSC,1,1,D,0,0,D
-FRA,03/03/2012,18:00,Olympique Marseille,Toulouse FC,0,1,A,0,0,D
-FRA,03/03/2012,18:00,FC Sochaux,Valenciennes FC,1,1,D,0,0,D
-FRA,03/03/2012,20:00,Girondins Bordeaux,OGC Nice,1,2,A,0,2,A
-FRA,04/03/2012,16:00,Paris Saint-Germain,AC Ajaccio,4,1,H,2,1,H
-FRA,04/03/2012,16:00,SM Caen,Stade Brest,0,0,D,0,0,D
-FRA,04/03/2012,20:00,FC Lorient,Stade Rennes,0,2,A,0,1,A
-FRA,09/03/2012,19:00,AC Ajaccio,Olympique Marseille,1,0,H,0,0,D
-FRA,10/03/2012,18:00,Stade Brest,Girondins Bordeaux,0,2,A,0,1,A
-FRA,10/03/2012,18:00,Toulouse FC,FC Lorient,1,1,D,0,0,D
-FRA,10/03/2012,18:00,OGC Nice,AS Nancy,1,1,D,1,1,D
-FRA,10/03/2012,18:00,Valenciennes FC,AS Saint-Étienne,1,2,A,0,0,D
-FRA,10/03/2012,18:00,Évian Thonon Gaillard,FC Sochaux,2,3,A,1,2,A
-FRA,10/03/2012,20:00,Olympique Lyon,Lille OSC,2,1,H,2,1,H
-FRA,11/03/2012,16:00,Stade Rennes,AJ Auxerre,1,1,D,0,1,A
-FRA,11/03/2012,16:00,Dijon FCO,Paris Saint-Germain,1,2,A,0,0,D
-FRA,11/03/2012,20:00,Montpellier HSC,SM Caen,3,0,H,0,0,D
-FRA,17/03/2012,18:00,Girondins Bordeaux,AC Ajaccio,1,1,D,0,0,D
-FRA,17/03/2012,18:00,FC Lorient,Stade Brest,2,1,H,0,1,A
-FRA,17/03/2012,18:00,Olympique Marseille,Dijon FCO,1,2,A,1,1,D
-FRA,17/03/2012,18:00,AJ Auxerre,Évian Thonon Gaillard,0,2,A,0,1,A
-FRA,17/03/2012,18:00,AS Nancy,Montpellier HSC,1,0,H,0,0,D
-FRA,17/03/2012,18:00,SM Caen,Paris Saint-Germain,2,2,D,0,0,D
-FRA,17/03/2012,20:00,AS Saint-Étienne,Olympique Lyon,0,1,A,0,0,D
-FRA,18/03/2012,16:00,FC Sochaux,OGC Nice,2,0,H,1,0,H
-FRA,18/03/2012,16:00,Stade Rennes,Toulouse FC,0,1,A,0,1,A
-FRA,18/03/2012,20:00,Lille OSC,Valenciennes FC,4,0,H,1,0,H
-FRA,24/03/2012,18:00,Évian Thonon Gaillard,Lille OSC,0,3,A,0,1,A
-FRA,24/03/2012,18:00,AC Ajaccio,FC Lorient,1,1,D,0,1,A
-FRA,24/03/2012,18:00,OGC Nice,Olympique Marseille,1,1,D,0,0,D
-FRA,24/03/2012,18:00,Stade Brest,AS Nancy,0,1,A,0,1,A
-FRA,24/03/2012,18:00,Montpellier HSC,AS Saint-Étienne,1,0,H,0,0,D
-FRA,24/03/2012,18:00,Olympique Lyon,FC Sochaux,2,1,H,1,0,H
-FRA,24/03/2012,20:00,Valenciennes FC,Stade Rennes,1,0,H,1,0,H
-FRA,25/03/2012,16:00,Toulouse FC,AJ Auxerre,1,0,H,1,0,H
-FRA,25/03/2012,16:00,Dijon FCO,SM Caen,2,0,H,1,0,H
-FRA,25/03/2012,20:00,Paris Saint-Germain,Girondins Bordeaux,1,1,D,0,0,D
-FRA,31/03/2012,18:00,FC Sochaux,Stade Brest,2,1,H,0,1,A
-FRA,31/03/2012,18:00,Girondins Bordeaux,Dijon FCO,1,1,D,0,0,D
-FRA,31/03/2012,18:00,FC Lorient,Évian Thonon Gaillard,0,1,A,0,1,A
-FRA,31/03/2012,18:00,AS Saint-Étienne,OGC Nice,2,3,A,2,1,H
-FRA,31/03/2012,18:00,AJ Auxerre,Valenciennes FC,2,0,H,1,0,H
-FRA,31/03/2012,20:00,AS Nancy,Paris Saint-Germain,2,1,H,1,0,H
-FRA,01/04/2012,16:00,SM Caen,AC Ajaccio,0,0,D,0,0,D
-FRA,01/04/2012,16:00,Lille OSC,Toulouse FC,2,1,H,2,0,H
-FRA,01/04/2012,20:00,Stade Rennes,Olympique Lyon,1,1,D,1,0,H
-FRA,11/04/2012,17:00,Olympique Marseille,Montpellier HSC,1,3,A,1,1,D
-FRA,07/04/2012,18:00,Stade Brest,Lille OSC,3,1,H,2,1,H
-FRA,07/04/2012,18:00,Dijon FCO,AS Nancy,0,2,A,0,1,A
-FRA,07/04/2012,18:00,Évian Thonon Gaillard,Stade Rennes,1,3,A,1,0,H
-FRA,07/04/2012,18:00,AC Ajaccio,AS Saint-Étienne,1,1,D,0,0,D
-FRA,07/04/2012,18:00,Montpellier HSC,FC Sochaux,2,1,H,1,1,D
-FRA,07/04/2012,18:00,Valenciennes FC,Toulouse FC,2,0,H,0,0,D
-FRA,07/04/2012,20:00,Olympique Lyon,AJ Auxerre,2,1,H,1,1,D
-FRA,08/04/2012,16:00,SM Caen,Girondins Bordeaux,1,0,H,1,0,H
-FRA,08/04/2012,16:00,OGC Nice,FC Lorient,2,0,H,0,0,D
-FRA,08/04/2012,20:00,Paris Saint-Germain,Olympique Marseille,2,1,H,1,0,H
-FRA,15/04/2012,16:00,Lille OSC,AC Ajaccio,4,1,H,2,0,H
-FRA,15/04/2012,16:00,AS Nancy,Girondins Bordeaux,2,2,D,0,1,A
-FRA,15/04/2012,16:00,AS Saint-Étienne,Stade Brest,2,1,H,0,0,D
-FRA,15/04/2012,16:00,FC Sochaux,Dijon FCO,1,0,H,0,0,D
-FRA,15/04/2012,16:00,Valenciennes FC,Évian Thonon Gaillard,0,3,A,0,3,A
-FRA,15/04/2012,16:00,FC Lorient,Montpellier HSC,2,1,H,0,0,D
-FRA,15/04/2012,20:00,AJ Auxerre,Paris Saint-Germain,1,1,D,0,1,A
-FRA,16/04/2012,20:00,Stade Rennes,OGC Nice,3,1,H,2,0,H
-FRA,18/04/2012,17:30,Olympique Marseille,SM Caen,1,1,D,1,1,D
-FRA,18/04/2012,17:30,Toulouse FC,Olympique Lyon,3,0,H,2,0,H
-FRA,21/04/2012,18:00,OGC Nice,AJ Auxerre,1,0,H,1,0,H
-FRA,21/04/2012,18:00,Dijon FCO,Lille OSC,0,2,A,0,2,A
-FRA,21/04/2012,18:00,Stade Brest,Stade Rennes,0,1,A,0,1,A
-FRA,21/04/2012,18:00,SM Caen,AS Saint-Étienne,1,4,A,0,1,A
-FRA,21/04/2012,18:00,Évian Thonon Gaillard,Toulouse FC,2,1,H,1,0,H
-FRA,21/04/2012,18:00,Montpellier HSC,Valenciennes FC,1,0,H,1,0,H
-FRA,21/04/2012,20:00,Girondins Bordeaux,Olympique Marseille,2,1,H,2,0,H
-FRA,22/04/2012,16:00,AC Ajaccio,AS Nancy,0,0,D,0,0,D
-FRA,22/04/2012,16:00,Paris Saint-Germain,FC Sochaux,6,1,H,3,1,H
-FRA,22/04/2012,20:15,Olympique Lyon,FC Lorient,3,2,H,1,2,A
-FRA,27/04/2012,18:00,Toulouse FC,Montpellier HSC,0,1,A,0,1,A
-FRA,27/04/2012,20:00,FC Lorient,Olympique Marseille,2,1,H,1,0,H
-FRA,29/04/2012,16:00,Stade Rennes,AC Ajaccio,3,1,H,1,0,H
-FRA,29/04/2012,16:00,FC Sochaux,Girondins Bordeaux,0,3,A,0,1,A
-FRA,29/04/2012,16:00,AJ Auxerre,Stade Brest,4,0,H,4,0,H
-FRA,29/04/2012,16:00,AS Nancy,SM Caen,1,1,D,0,0,D
-FRA,29/04/2012,16:00,AS Saint-Étienne,Dijon FCO,1,0,H,1,0,H
-FRA,29/04/2012,16:00,Valenciennes FC,OGC Nice,2,0,H,1,0,H
-FRA,29/04/2012,20:00,Lille OSC,Paris Saint-Germain,2,1,H,0,0,D
-FRA,10/05/2012,20:00,Évian Thonon Gaillard,Olympique Lyon,1,3,A,1,1,D
-FRA,01/05/2012,20:00,Montpellier HSC,Évian Thonon Gaillard,2,2,D,1,1,D
-FRA,02/05/2012,18:00,OGC Nice,Lille OSC,0,1,A,0,1,A
-FRA,02/05/2012,18:00,SM Caen,FC Lorient,1,0,H,0,0,D
-FRA,02/05/2012,18:00,Olympique Marseille,AS Nancy,1,0,H,1,0,H
-FRA,02/05/2012,18:00,Girondins Bordeaux,Stade Rennes,2,0,H,0,0,D
-FRA,02/05/2012,18:00,AC Ajaccio,FC Sochaux,2,1,H,0,0,D
-FRA,02/05/2012,18:00,Stade Brest,Toulouse FC,0,0,D,0,0,D
-FRA,02/05/2012,18:00,Olympique Lyon,Valenciennes FC,4,1,H,1,1,D
-FRA,02/05/2012,20:00,Paris Saint-Germain,AS Saint-Étienne,2,0,H,1,0,H
-FRA,03/05/2012,18:00,Dijon FCO,AJ Auxerre,0,2,A,0,1,A
-FRA,06/05/2012,16:00,Évian Thonon Gaillard,AC Ajaccio,2,1,H,1,1,D
-FRA,06/05/2012,16:00,Olympique Lyon,Stade Brest,1,1,D,1,0,H
-FRA,06/05/2012,20:15,Valenciennes FC,Paris Saint-Germain,3,4,A,2,3,A
-FRA,07/05/2012,18:00,AJ Auxerre,Girondins Bordeaux,2,4,A,0,3,A
-FRA,07/05/2012,18:00,Lille OSC,SM Caen,3,0,H,2,0,H
-FRA,07/05/2012,18:00,FC Lorient,Dijon FCO,0,0,D,0,0,D
-FRA,07/05/2012,18:00,AS Saint-Étienne,Olympique Marseille,0,0,D,0,0,D
-FRA,07/05/2012,18:00,FC Sochaux,AS Nancy,1,0,H,0,0,D
-FRA,07/05/2012,18:00,Toulouse FC,OGC Nice,0,0,D,0,0,D
-FRA,07/05/2012,20:00,Stade Rennes,Montpellier HSC,0,2,A,0,1,A
-FRA,13/05/2012,20:00,Olympique Marseille,AJ Auxerre,3,0,H,1,0,H
-FRA,13/05/2012,20:00,OGC Nice,Évian Thonon Gaillard,1,1,D,1,1,D
-FRA,13/05/2012,20:00,Montpellier HSC,Lille OSC,1,0,H,0,0,D
-FRA,13/05/2012,20:00,Girondins Bordeaux,FC Lorient,1,0,H,0,0,D
-FRA,13/05/2012,20:00,AC Ajaccio,Olympique Lyon,1,1,D,0,0,D
-FRA,13/05/2012,20:00,Paris Saint-Germain,Stade Rennes,3,0,H,0,0,D
-FRA,13/05/2012,20:00,SM Caen,FC Sochaux,1,3,A,0,2,A
-FRA,13/05/2012,20:00,Dijon FCO,Toulouse FC,1,1,D,1,1,D
-FRA,13/05/2012,20:00,Stade Brest,Valenciennes FC,1,0,H,1,0,H
-FRA,13/05/2012,20:00,AS Nancy,AS Saint-Étienne,3,2,H,3,1,H
-FRA,20/05/2012,20:00,Toulouse FC,AC Ajaccio,0,2,A,0,2,A
-FRA,20/05/2012,20:00,AS Saint-Étienne,Girondins Bordeaux,2,3,A,1,2,A
-FRA,20/05/2012,20:00,Évian Thonon Gaillard,Stade Brest,0,1,A,0,0,D
-FRA,20/05/2012,20:00,Valenciennes FC,SM Caen,3,1,H,1,0,H
-FRA,20/05/2012,20:00,Stade Rennes,Dijon FCO,5,0,H,1,0,H
-FRA,20/05/2012,20:00,FC Sochaux,Olympique Marseille,1,0,H,0,0,D
-FRA,20/05/2012,20:00,AJ Auxerre,Montpellier HSC,1,2,A,1,1,D
-FRA,20/05/2012,20:00,Lille OSC,AS Nancy,4,1,H,4,1,H
-FRA,20/05/2012,20:00,Olympique Lyon,OGC Nice,3,4,A,2,2,D
-FRA,20/05/2012,20:00,FC Lorient,Paris Saint-Germain,1,2,A,1,0,H
+FRA,2011-08-06,20:00,AC Ajaccio,Toulouse FC,0,2,A,0,1,A
+FRA,2011-08-06,20:00,Stade Brest,Évian Thonon Gaillard,2,2,D,2,2,D
+FRA,2011-08-06,20:00,SM Caen,Valenciennes FC,1,0,H,1,0,H
+FRA,2011-08-06,20:00,Olympique Marseille,FC Sochaux,2,2,D,1,0,H
+FRA,2011-08-06,20:00,Montpellier HSC,AJ Auxerre,3,1,H,1,1,D
+FRA,2011-08-06,20:00,AS Nancy,Lille OSC,1,1,D,0,0,D
+FRA,2011-08-06,20:00,OGC Nice,Olympique Lyon,1,3,A,1,2,A
+FRA,2011-08-06,20:00,Paris Saint-Germain,FC Lorient,0,1,A,0,1,A
+FRA,2011-08-07,16:00,Dijon FCO,Stade Rennes,1,5,A,1,2,A
+FRA,2011-08-07,20:00,Girondins Bordeaux,AS Saint-Étienne,1,2,A,0,2,A
+FRA,2011-08-13,18:00,FC Lorient,Girondins Bordeaux,1,1,D,0,0,D
+FRA,2011-08-13,18:00,Olympique Lyon,AC Ajaccio,1,1,D,0,0,D
+FRA,2011-08-13,18:00,Stade Rennes,Paris Saint-Germain,1,1,D,0,0,D
+FRA,2011-08-13,18:00,FC Sochaux,SM Caen,1,2,A,0,1,A
+FRA,2011-08-13,18:00,Toulouse FC,Dijon FCO,2,0,H,0,0,D
+FRA,2011-08-13,18:00,AS Saint-Étienne,AS Nancy,1,0,H,0,0,D
+FRA,2011-08-13,20:00,Valenciennes FC,Stade Brest,0,0,D,0,0,D
+FRA,2011-08-14,16:00,AJ Auxerre,Olympique Marseille,2,2,D,0,2,A
+FRA,2011-08-14,16:00,Évian Thonon Gaillard,OGC Nice,1,0,H,0,0,D
+FRA,2011-08-14,20:00,Lille OSC,Montpellier HSC,0,1,A,0,0,D
+FRA,2011-08-20,18:00,Girondins Bordeaux,AJ Auxerre,1,1,D,1,0,H
+FRA,2011-08-20,18:00,Stade Brest,Olympique Lyon,1,1,D,1,0,H
+FRA,2011-08-20,18:00,SM Caen,Lille OSC,1,2,A,0,0,D
+FRA,2011-08-20,18:00,Dijon FCO,FC Lorient,2,0,H,1,0,H
+FRA,2011-08-20,18:00,OGC Nice,Toulouse FC,1,1,D,1,0,H
+FRA,2011-08-20,20:00,AC Ajaccio,Évian Thonon Gaillard,1,1,D,1,0,H
+FRA,2011-08-21,16:00,Montpellier HSC,Stade Rennes,4,0,H,1,0,H
+FRA,2011-08-21,16:00,AS Nancy,FC Sochaux,1,2,A,0,0,D
+FRA,2011-08-21,16:00,Paris Saint-Germain,Valenciennes FC,2,1,H,1,1,D
+FRA,2011-08-21,20:00,Olympique Marseille,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2011-08-27,18:00,AJ Auxerre,AC Ajaccio,4,1,H,1,0,H
+FRA,2011-08-27,18:00,Évian Thonon Gaillard,Dijon FCO,0,1,A,0,0,D
+FRA,2011-08-27,18:00,FC Lorient,AS Nancy,2,1,H,0,1,A
+FRA,2011-08-27,18:00,OGC Nice,Stade Brest,0,0,D,0,0,D
+FRA,2011-08-27,18:00,Valenciennes FC,Girondins Bordeaux,1,2,A,1,0,H
+FRA,2011-08-27,20:00,Olympique Lyon,Montpellier HSC,2,1,H,0,0,D
+FRA,2011-08-28,16:00,Stade Rennes,SM Caen,3,2,H,3,0,H
+FRA,2011-08-28,16:00,FC Sochaux,AS Saint-Étienne,2,1,H,2,1,H
+FRA,2011-08-28,16:00,Toulouse FC,Paris Saint-Germain,1,3,A,1,0,H
+FRA,2011-08-28,20:00,Lille OSC,Olympique Marseille,3,2,H,1,0,H
+FRA,2011-09-10,18:00,AC Ajaccio,Valenciennes FC,3,1,H,0,1,A
+FRA,2011-09-10,18:00,Girondins Bordeaux,Évian Thonon Gaillard,0,0,D,0,0,D
+FRA,2011-09-10,18:00,SM Caen,Toulouse FC,0,1,A,0,0,D
+FRA,2011-09-10,18:00,Dijon FCO,Olympique Lyon,1,2,A,1,1,D
+FRA,2011-09-10,18:00,AS Saint-Étienne,Lille OSC,1,3,A,1,0,H
+FRA,2011-09-10,18:00,FC Sochaux,FC Lorient,1,1,D,1,0,H
+FRA,2011-09-10,20:00,Olympique Marseille,Stade Rennes,0,1,A,0,0,D
+FRA,2011-09-11,16:00,Montpellier HSC,OGC Nice,1,0,H,0,0,D
+FRA,2011-09-11,16:00,AS Nancy,AJ Auxerre,0,0,D,0,0,D
+FRA,2011-09-11,20:00,Paris Saint-Germain,Stade Brest,1,0,H,0,0,D
+FRA,2011-09-17,18:00,AJ Auxerre,SM Caen,1,1,D,1,1,D
+FRA,2011-09-17,18:00,Stade Brest,Montpellier HSC,2,2,D,0,2,A
+FRA,2011-09-17,18:00,FC Lorient,AS Saint-Étienne,3,0,H,1,0,H
+FRA,2011-09-17,18:00,OGC Nice,AC Ajaccio,3,0,H,1,0,H
+FRA,2011-09-17,18:00,Toulouse FC,Girondins Bordeaux,3,2,H,0,2,A
+FRA,2011-09-17,18:00,Valenciennes FC,Dijon FCO,4,0,H,0,0,D
+FRA,2011-09-17,20:00,Lille OSC,FC Sochaux,2,2,D,0,0,D
+FRA,2011-09-18,16:00,Évian Thonon Gaillard,Paris Saint-Germain,2,2,D,2,1,H
+FRA,2011-09-18,16:00,Stade Rennes,AS Nancy,1,1,D,1,0,H
+FRA,2011-09-18,20:00,Olympique Lyon,Olympique Marseille,2,0,H,2,0,H
+FRA,2011-09-20,20:00,Girondins Bordeaux,Lille OSC,1,1,D,1,0,H
+FRA,2011-09-21,18:00,AC Ajaccio,Montpellier HSC,1,3,A,0,3,A
+FRA,2011-09-21,18:00,SM Caen,Olympique Lyon,1,0,H,1,0,H
+FRA,2011-09-21,18:00,Dijon FCO,Stade Brest,1,0,H,1,0,H
+FRA,2011-09-21,18:00,FC Lorient,AJ Auxerre,1,1,D,1,0,H
+FRA,2011-09-21,18:00,Olympique Marseille,Évian Thonon Gaillard,2,0,H,1,0,H
+FRA,2011-09-21,18:00,AS Nancy,Valenciennes FC,1,1,D,1,0,H
+FRA,2011-09-21,18:00,Paris Saint-Germain,OGC Nice,2,1,H,1,0,H
+FRA,2011-09-21,18:00,FC Sochaux,Stade Rennes,2,6,A,2,2,D
+FRA,2011-09-21,20:00,AS Saint-Étienne,Toulouse FC,1,1,D,0,1,A
+FRA,2011-09-24,18:00,Évian Thonon Gaillard,SM Caen,2,4,A,2,2,D
+FRA,2011-09-24,18:00,Lille OSC,FC Lorient,1,1,D,1,0,H
+FRA,2011-09-24,18:00,Olympique Lyon,Girondins Bordeaux,3,1,H,2,0,H
+FRA,2011-09-24,18:00,OGC Nice,Dijon FCO,1,1,D,0,1,A
+FRA,2011-09-24,18:00,Toulouse FC,AS Nancy,1,0,H,0,0,D
+FRA,2011-09-24,18:00,Valenciennes FC,Olympique Marseille,1,1,D,0,1,A
+FRA,2011-09-24,20:00,Montpellier HSC,Paris Saint-Germain,0,3,A,0,2,A
+FRA,2011-09-25,16:00,AJ Auxerre,FC Sochaux,4,1,H,0,1,A
+FRA,2011-09-25,16:00,Stade Brest,AC Ajaccio,1,1,D,0,0,D
+FRA,2011-09-25,20:00,Stade Rennes,AS Saint-Étienne,1,1,D,1,0,H
+FRA,2011-10-01,18:00,SM Caen,OGC Nice,1,1,D,0,0,D
+FRA,2011-10-01,18:00,Dijon FCO,AC Ajaccio,1,1,D,1,1,D
+FRA,2011-10-01,18:00,FC Lorient,Valenciennes FC,2,0,H,1,0,H
+FRA,2011-10-01,18:00,AS Nancy,Évian Thonon Gaillard,1,1,D,0,0,D
+FRA,2011-10-01,18:00,AS Saint-Étienne,AJ Auxerre,1,1,D,1,1,D
+FRA,2011-10-01,18:00,FC Sochaux,Toulouse FC,3,0,H,1,0,H
+FRA,2011-10-01,20:00,Girondins Bordeaux,Montpellier HSC,2,2,D,1,0,H
+FRA,2011-10-02,16:00,Lille OSC,Stade Rennes,2,0,H,2,0,H
+FRA,2011-10-02,16:00,Olympique Marseille,Stade Brest,1,1,D,1,1,D
+FRA,2011-10-02,20:00,Paris Saint-Germain,Olympique Lyon,2,0,H,0,0,D
+FRA,2011-10-15,18:00,AJ Auxerre,Lille OSC,1,3,A,1,0,H
+FRA,2011-10-15,18:00,Stade Brest,SM Caen,1,1,D,1,0,H
+FRA,2011-10-15,18:00,Évian Thonon Gaillard,AS Saint-Étienne,1,2,A,0,0,D
+FRA,2011-10-15,18:00,Olympique Lyon,AS Nancy,3,1,H,3,0,H
+FRA,2011-10-15,18:00,Montpellier HSC,Dijon FCO,5,3,H,1,2,A
+FRA,2011-10-15,18:00,Toulouse FC,Olympique Marseille,0,0,D,0,0,D
+FRA,2011-10-15,20:00,OGC Nice,Girondins Bordeaux,3,0,H,2,0,H
+FRA,2011-10-16,16:00,AC Ajaccio,Paris Saint-Germain,1,3,A,1,1,D
+FRA,2011-10-16,16:00,Valenciennes FC,FC Sochaux,3,0,H,1,0,H
+FRA,2011-10-16,20:00,Stade Rennes,FC Lorient,2,0,H,1,0,H
+FRA,2011-10-22,18:00,Girondins Bordeaux,Stade Brest,1,1,D,0,0,D
+FRA,2011-10-22,18:00,SM Caen,Montpellier HSC,1,3,A,0,2,A
+FRA,2011-10-22,18:00,Olympique Marseille,AC Ajaccio,2,0,H,1,0,H
+FRA,2011-10-22,18:00,AS Nancy,OGC Nice,1,0,H,0,0,D
+FRA,2011-10-22,18:00,AS Saint-Étienne,Valenciennes FC,1,0,H,0,0,D
+FRA,2011-10-22,18:00,FC Sochaux,Évian Thonon Gaillard,1,1,D,0,0,D
+FRA,2011-10-22,20:00,FC Lorient,Toulouse FC,0,0,D,0,0,D
+FRA,2011-10-23,16:00,AJ Auxerre,Stade Rennes,0,1,A,0,0,D
+FRA,2011-10-23,16:00,Paris Saint-Germain,Dijon FCO,2,0,H,1,0,H
+FRA,2011-10-23,20:00,Lille OSC,Olympique Lyon,3,1,H,1,1,D
+FRA,2011-10-29,18:00,AC Ajaccio,Girondins Bordeaux,0,2,A,0,2,A
+FRA,2011-10-29,18:00,Stade Brest,FC Lorient,3,1,H,3,0,H
+FRA,2011-10-29,18:00,Dijon FCO,Olympique Marseille,2,3,A,0,2,A
+FRA,2011-10-29,18:00,Évian Thonon Gaillard,AJ Auxerre,3,1,H,2,0,H
+FRA,2011-10-29,18:00,Montpellier HSC,AS Nancy,2,0,H,0,0,D
+FRA,2011-10-29,18:00,Paris Saint-Germain,SM Caen,4,2,H,1,1,D
+FRA,2011-10-29,20:00,Olympique Lyon,AS Saint-Étienne,2,0,H,0,0,D
+FRA,2011-10-30,16:00,OGC Nice,FC Sochaux,1,1,D,1,1,D
+FRA,2011-10-30,16:00,Toulouse FC,Stade Rennes,1,0,H,1,0,H
+FRA,2011-10-30,20:00,Valenciennes FC,Lille OSC,0,0,D,0,0,D
+FRA,2011-11-05,20:00,Lille OSC,Évian Thonon Gaillard,1,1,D,0,1,A
+FRA,2011-11-06,16:00,SM Caen,Dijon FCO,3,0,H,1,0,H
+FRA,2011-11-06,16:00,FC Lorient,AC Ajaccio,2,0,H,0,0,D
+FRA,2011-11-06,16:00,Olympique Marseille,OGC Nice,2,0,H,0,0,D
+FRA,2011-11-06,16:00,AS Nancy,Stade Brest,2,1,H,0,0,D
+FRA,2011-11-06,16:00,Stade Rennes,Valenciennes FC,1,1,D,1,1,D
+FRA,2011-11-06,16:00,AS Saint-Étienne,Montpellier HSC,1,1,D,1,0,H
+FRA,2011-11-06,16:00,FC Sochaux,Olympique Lyon,2,1,H,2,1,H
+FRA,2011-11-06,17:30,AJ Auxerre,Toulouse FC,2,0,H,0,0,D
+FRA,2011-11-06,20:00,Girondins Bordeaux,Paris Saint-Germain,1,1,D,1,1,D
+FRA,2011-11-18,19:00,Olympique Lyon,Stade Rennes,1,2,A,1,1,D
+FRA,2011-11-18,19:00,Toulouse FC,Lille OSC,0,0,D,0,0,D
+FRA,2011-11-19,18:00,AC Ajaccio,SM Caen,2,2,D,0,0,D
+FRA,2011-11-19,18:00,Dijon FCO,Girondins Bordeaux,2,0,H,0,0,D
+FRA,2011-11-19,18:00,Évian Thonon Gaillard,FC Lorient,2,1,H,1,0,H
+FRA,2011-11-19,18:00,OGC Nice,AS Saint-Étienne,0,2,A,0,2,A
+FRA,2011-11-19,20:00,Montpellier HSC,Olympique Marseille,1,0,H,0,0,D
+FRA,2011-11-20,16:00,Stade Brest,FC Sochaux,2,0,H,0,0,D
+FRA,2011-11-20,16:00,Valenciennes FC,AJ Auxerre,2,1,H,0,1,A
+FRA,2011-11-20,20:00,Paris Saint-Germain,AS Nancy,0,1,A,0,0,D
+FRA,2011-11-26,18:00,Girondins Bordeaux,SM Caen,2,0,H,0,0,D
+FRA,2011-11-26,18:00,AS Nancy,Dijon FCO,1,2,A,1,1,D
+FRA,2011-11-26,18:00,Stade Rennes,Évian Thonon Gaillard,3,2,H,1,2,A
+FRA,2011-11-26,18:00,AS Saint-Étienne,AC Ajaccio,3,1,H,2,0,H
+FRA,2011-11-26,18:00,FC Sochaux,Montpellier HSC,1,3,A,0,0,D
+FRA,2011-11-26,18:00,Toulouse FC,Valenciennes FC,2,0,H,1,0,H
+FRA,2011-11-26,20:00,Lille OSC,Stade Brest,2,0,H,1,0,H
+FRA,2011-11-27,16:00,AJ Auxerre,Olympique Lyon,0,3,A,0,1,A
+FRA,2011-11-27,16:00,FC Lorient,OGC Nice,1,0,H,0,0,D
+FRA,2011-11-27,20:00,Olympique Marseille,Paris Saint-Germain,3,0,H,1,0,H
+FRA,2011-12-02,19:00,SM Caen,Olympique Marseille,1,2,A,1,1,D
+FRA,2011-12-03,18:00,AC Ajaccio,Lille OSC,2,3,A,2,2,D
+FRA,2011-12-03,18:00,Stade Brest,AS Saint-Étienne,2,2,D,2,1,H
+FRA,2011-12-03,18:00,Dijon FCO,FC Sochaux,0,0,D,0,0,D
+FRA,2011-12-03,18:00,Évian Thonon Gaillard,Valenciennes FC,2,1,H,2,0,H
+FRA,2011-12-03,18:00,Montpellier HSC,FC Lorient,4,0,H,1,0,H
+FRA,2011-12-03,20:00,OGC Nice,Stade Rennes,2,0,H,2,0,H
+FRA,2011-12-04,16:00,Girondins Bordeaux,AS Nancy,2,0,H,1,0,H
+FRA,2011-12-04,16:00,Paris Saint-Germain,AJ Auxerre,3,2,H,0,0,D
+FRA,2011-12-04,20:00,Olympique Lyon,Toulouse FC,3,2,H,1,0,H
+FRA,2011-12-10,18:00,AS Nancy,AC Ajaccio,2,2,D,1,1,D
+FRA,2011-12-10,18:00,Stade Rennes,Stade Brest,1,1,D,1,1,D
+FRA,2011-12-10,18:00,AS Saint-Étienne,SM Caen,2,0,H,1,0,H
+FRA,2011-12-10,18:00,FC Sochaux,Paris Saint-Germain,0,1,A,0,1,A
+FRA,2011-12-10,18:00,Toulouse FC,Évian Thonon Gaillard,2,1,H,1,0,H
+FRA,2011-12-10,18:00,Valenciennes FC,Montpellier HSC,1,0,H,0,0,D
+FRA,2011-12-10,20:00,Olympique Marseille,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2011-12-11,16:00,AJ Auxerre,OGC Nice,2,1,H,1,1,D
+FRA,2011-12-11,16:00,Lille OSC,Dijon FCO,2,0,H,1,0,H
+FRA,2011-12-11,20:00,FC Lorient,Olympique Lyon,0,1,A,0,0,D
+FRA,2011-12-17,18:00,Stade Brest,AJ Auxerre,1,0,H,1,0,H
+FRA,2011-12-17,18:00,SM Caen,AS Nancy,1,2,A,0,1,A
+FRA,2011-12-17,18:00,Dijon FCO,AS Saint-Étienne,1,2,A,0,1,A
+FRA,2011-12-17,18:00,Olympique Marseille,FC Lorient,2,1,H,0,0,D
+FRA,2011-12-17,18:00,Montpellier HSC,Toulouse FC,1,1,D,1,1,D
+FRA,2011-12-17,18:00,OGC Nice,Valenciennes FC,2,0,H,0,0,D
+FRA,2011-12-17,20:00,Olympique Lyon,Évian Thonon Gaillard,2,1,H,1,1,D
+FRA,2011-12-18,16:00,AC Ajaccio,Stade Rennes,1,0,H,0,0,D
+FRA,2011-12-18,16:00,Girondins Bordeaux,FC Sochaux,1,0,H,1,0,H
+FRA,2011-12-18,20:00,Paris Saint-Germain,Lille OSC,0,0,D,0,0,D
+FRA,2011-12-20,20:00,AS Nancy,Olympique Marseille,1,3,A,1,2,A
+FRA,2011-12-21,18:00,AJ Auxerre,Dijon FCO,2,2,D,0,2,A
+FRA,2011-12-21,18:00,Évian Thonon Gaillard,Montpellier HSC,4,2,H,0,0,D
+FRA,2011-12-21,18:00,Lille OSC,OGC Nice,4,4,D,2,3,A
+FRA,2011-12-21,18:00,FC Lorient,SM Caen,0,0,D,0,0,D
+FRA,2011-12-21,18:00,Stade Rennes,Girondins Bordeaux,1,0,H,0,0,D
+FRA,2011-12-21,18:00,FC Sochaux,AC Ajaccio,0,2,A,0,0,D
+FRA,2011-12-21,18:00,Toulouse FC,Stade Brest,0,0,D,0,0,D
+FRA,2011-12-21,18:00,Valenciennes FC,Olympique Lyon,1,0,H,1,0,H
+FRA,2011-12-21,20:00,AS Saint-Étienne,Paris Saint-Germain,0,1,A,0,1,A
+FRA,2012-01-14,20:00,AC Ajaccio,AJ Auxerre,2,1,H,2,1,H
+FRA,2012-01-14,20:00,Dijon FCO,Évian Thonon Gaillard,3,1,H,1,0,H
+FRA,2012-01-14,20:00,AS Nancy,FC Lorient,2,2,D,1,0,H
+FRA,2012-01-14,20:00,Montpellier HSC,Olympique Lyon,1,0,H,0,0,D
+FRA,2012-01-14,20:00,Stade Brest,OGC Nice,1,0,H,1,0,H
+FRA,2012-01-14,20:00,SM Caen,Stade Rennes,0,2,A,0,1,A
+FRA,2012-01-14,20:00,AS Saint-Étienne,FC Sochaux,1,0,H,0,0,D
+FRA,2012-01-14,20:00,Paris Saint-Germain,Toulouse FC,3,1,H,1,0,H
+FRA,2012-01-14,20:00,Girondins Bordeaux,Valenciennes FC,2,1,H,2,0,H
+FRA,2012-01-15,20:00,Olympique Marseille,Lille OSC,2,0,H,0,0,D
+FRA,2012-01-28,18:00,Toulouse FC,SM Caen,1,0,H,1,0,H
+FRA,2012-01-28,18:00,Olympique Lyon,Dijon FCO,3,1,H,1,0,H
+FRA,2012-01-28,18:00,OGC Nice,Montpellier HSC,0,1,A,0,0,D
+FRA,2012-01-28,18:00,AJ Auxerre,AS Nancy,1,3,A,0,0,D
+FRA,2012-01-28,18:00,Stade Brest,Paris Saint-Germain,0,1,A,0,1,A
+FRA,2012-01-28,18:00,FC Lorient,FC Sochaux,1,1,D,0,0,D
+FRA,2012-01-28,20:00,Lille OSC,AS Saint-Étienne,3,0,H,0,0,D
+FRA,2012-01-29,16:00,Valenciennes FC,AC Ajaccio,1,2,A,0,1,A
+FRA,2012-01-29,16:00,Évian Thonon Gaillard,Girondins Bordeaux,0,0,D,0,0,D
+FRA,2012-01-29,20:00,Stade Rennes,Olympique Marseille,1,2,A,1,1,D
+FRA,2012-02-04,14:00,AS Nancy,Stade Rennes,0,0,D,0,0,D
+FRA,2012-02-04,14:00,Dijon FCO,Valenciennes FC,1,2,A,0,2,A
+FRA,2012-02-04,18:00,Montpellier HSC,Stade Brest,1,0,H,1,0,H
+FRA,2012-02-04,18:00,Paris Saint-Germain,Évian Thonon Gaillard,3,1,H,0,1,A
+FRA,2012-02-04,18:00,AC Ajaccio,OGC Nice,1,1,D,0,0,D
+FRA,2012-02-04,20:00,Girondins Bordeaux,Toulouse FC,2,0,H,2,0,H
+FRA,2012-02-05,20:00,Olympique Marseille,Olympique Lyon,2,2,D,2,2,D
+FRA,2012-02-11,14:00,Montpellier HSC,AC Ajaccio,3,0,H,0,0,D
+FRA,2012-02-11,14:00,Olympique Lyon,SM Caen,1,2,A,0,1,A
+FRA,2012-02-11,14:00,AJ Auxerre,FC Lorient,1,1,D,1,0,H
+FRA,2012-02-11,14:00,Valenciennes FC,AS Nancy,1,0,H,0,0,D
+FRA,2012-02-11,17:00,Stade Rennes,FC Sochaux,1,0,H,1,0,H
+FRA,2012-02-11,18:00,Stade Brest,Dijon FCO,1,1,D,0,0,D
+FRA,2012-02-12,14:00,Lille OSC,Girondins Bordeaux,4,5,A,1,2,A
+FRA,2012-02-12,16:00,OGC Nice,Paris Saint-Germain,0,0,D,0,0,D
+FRA,2012-02-12,20:00,Toulouse FC,AS Saint-Étienne,0,1,A,0,0,D
+FRA,2012-02-18,18:00,FC Sochaux,AJ Auxerre,0,0,D,0,0,D
+FRA,2012-02-18,18:00,AC Ajaccio,Stade Brest,0,0,D,0,0,D
+FRA,2012-02-18,18:00,SM Caen,Évian Thonon Gaillard,2,2,D,1,0,H
+FRA,2012-02-18,18:00,FC Lorient,Lille OSC,0,1,A,0,0,D
+FRA,2012-02-18,18:00,Dijon FCO,OGC Nice,3,0,H,1,0,H
+FRA,2012-02-18,18:00,AS Nancy,Toulouse FC,0,3,A,0,2,A
+FRA,2012-02-18,20:00,Olympique Marseille,Valenciennes FC,1,1,D,1,0,H
+FRA,2012-02-19,16:00,Girondins Bordeaux,Olympique Lyon,1,0,H,1,0,H
+FRA,2012-02-19,16:00,AS Saint-Étienne,Stade Rennes,4,0,H,1,0,H
+FRA,2012-02-19,20:00,Paris Saint-Germain,Montpellier HSC,2,2,D,1,1,D
+FRA,2012-02-22,17:30,SM Caen,AJ Auxerre,2,1,H,0,0,D
+FRA,2012-02-22,17:30,FC Sochaux,Lille OSC,0,1,A,0,0,D
+FRA,2012-02-22,17:30,AS Saint-Étienne,FC Lorient,4,2,H,0,0,D
+FRA,2012-02-25,18:00,Montpellier HSC,Girondins Bordeaux,1,0,H,0,0,D
+FRA,2012-02-25,18:00,OGC Nice,SM Caen,1,0,H,0,0,D
+FRA,2012-02-25,18:00,AC Ajaccio,Dijon FCO,2,1,H,0,0,D
+FRA,2012-02-25,18:00,Valenciennes FC,FC Lorient,2,0,H,0,0,D
+FRA,2012-02-25,18:00,Évian Thonon Gaillard,AS Nancy,2,0,H,2,0,H
+FRA,2012-02-25,18:00,AJ Auxerre,AS Saint-Étienne,0,0,D,0,0,D
+FRA,2012-02-25,20:00,Olympique Lyon,Paris Saint-Germain,4,4,D,3,2,H
+FRA,2012-02-26,16:00,Stade Brest,Olympique Marseille,1,0,H,1,0,H
+FRA,2012-02-26,16:00,Toulouse FC,FC Sochaux,2,0,H,1,0,H
+FRA,2012-02-26,20:00,Stade Rennes,Lille OSC,1,1,D,0,1,A
+FRA,2012-03-03,18:00,Lille OSC,AJ Auxerre,2,2,D,1,0,H
+FRA,2012-03-03,18:00,AS Saint-Étienne,Évian Thonon Gaillard,0,2,A,0,1,A
+FRA,2012-03-03,18:00,AS Nancy,Olympique Lyon,2,0,H,0,0,D
+FRA,2012-03-03,18:00,Dijon FCO,Montpellier HSC,1,1,D,0,0,D
+FRA,2012-03-03,18:00,Olympique Marseille,Toulouse FC,0,1,A,0,0,D
+FRA,2012-03-03,18:00,FC Sochaux,Valenciennes FC,1,1,D,0,0,D
+FRA,2012-03-03,20:00,Girondins Bordeaux,OGC Nice,1,2,A,0,2,A
+FRA,2012-03-04,16:00,Paris Saint-Germain,AC Ajaccio,4,1,H,2,1,H
+FRA,2012-03-04,16:00,SM Caen,Stade Brest,0,0,D,0,0,D
+FRA,2012-03-04,20:00,FC Lorient,Stade Rennes,0,2,A,0,1,A
+FRA,2012-03-06,17:30,Évian Thonon Gaillard,Olympique Marseille,2,0,H,2,0,H
+FRA,2012-03-09,19:00,AC Ajaccio,Olympique Marseille,1,0,H,0,0,D
+FRA,2012-03-10,18:00,Stade Brest,Girondins Bordeaux,0,2,A,0,1,A
+FRA,2012-03-10,18:00,Toulouse FC,FC Lorient,1,1,D,0,0,D
+FRA,2012-03-10,18:00,OGC Nice,AS Nancy,1,1,D,1,1,D
+FRA,2012-03-10,18:00,Valenciennes FC,AS Saint-Étienne,1,2,A,0,0,D
+FRA,2012-03-10,18:00,Évian Thonon Gaillard,FC Sochaux,2,3,A,1,2,A
+FRA,2012-03-10,20:00,Olympique Lyon,Lille OSC,2,1,H,2,1,H
+FRA,2012-03-11,16:00,Stade Rennes,AJ Auxerre,1,1,D,0,1,A
+FRA,2012-03-11,16:00,Dijon FCO,Paris Saint-Germain,1,2,A,0,0,D
+FRA,2012-03-11,20:00,Montpellier HSC,SM Caen,3,0,H,0,0,D
+FRA,2012-03-17,18:00,Girondins Bordeaux,AC Ajaccio,1,1,D,0,0,D
+FRA,2012-03-17,18:00,FC Lorient,Stade Brest,2,1,H,0,1,A
+FRA,2012-03-17,18:00,Olympique Marseille,Dijon FCO,1,2,A,1,1,D
+FRA,2012-03-17,18:00,AJ Auxerre,Évian Thonon Gaillard,0,2,A,0,1,A
+FRA,2012-03-17,18:00,AS Nancy,Montpellier HSC,1,0,H,0,0,D
+FRA,2012-03-17,18:00,SM Caen,Paris Saint-Germain,2,2,D,0,0,D
+FRA,2012-03-17,20:00,AS Saint-Étienne,Olympique Lyon,0,1,A,0,0,D
+FRA,2012-03-18,16:00,FC Sochaux,OGC Nice,2,0,H,1,0,H
+FRA,2012-03-18,16:00,Stade Rennes,Toulouse FC,0,1,A,0,1,A
+FRA,2012-03-18,20:00,Lille OSC,Valenciennes FC,4,0,H,1,0,H
+FRA,2012-03-24,18:00,Évian Thonon Gaillard,Lille OSC,0,3,A,0,1,A
+FRA,2012-03-24,18:00,AC Ajaccio,FC Lorient,1,1,D,0,1,A
+FRA,2012-03-24,18:00,OGC Nice,Olympique Marseille,1,1,D,0,0,D
+FRA,2012-03-24,18:00,Stade Brest,AS Nancy,0,1,A,0,1,A
+FRA,2012-03-24,18:00,Montpellier HSC,AS Saint-Étienne,1,0,H,0,0,D
+FRA,2012-03-24,18:00,Olympique Lyon,FC Sochaux,2,1,H,1,0,H
+FRA,2012-03-24,20:00,Valenciennes FC,Stade Rennes,1,0,H,1,0,H
+FRA,2012-03-25,16:00,Toulouse FC,AJ Auxerre,1,0,H,1,0,H
+FRA,2012-03-25,16:00,Dijon FCO,SM Caen,2,0,H,1,0,H
+FRA,2012-03-25,20:00,Paris Saint-Germain,Girondins Bordeaux,1,1,D,0,0,D
+FRA,2012-03-31,18:00,FC Sochaux,Stade Brest,2,1,H,0,1,A
+FRA,2012-03-31,18:00,Girondins Bordeaux,Dijon FCO,1,1,D,0,0,D
+FRA,2012-03-31,18:00,FC Lorient,Évian Thonon Gaillard,0,1,A,0,1,A
+FRA,2012-03-31,18:00,AS Saint-Étienne,OGC Nice,2,3,A,2,1,H
+FRA,2012-03-31,18:00,AJ Auxerre,Valenciennes FC,2,0,H,1,0,H
+FRA,2012-03-31,20:00,AS Nancy,Paris Saint-Germain,2,1,H,1,0,H
+FRA,2012-04-01,16:00,SM Caen,AC Ajaccio,0,0,D,0,0,D
+FRA,2012-04-01,16:00,Lille OSC,Toulouse FC,2,1,H,2,0,H
+FRA,2012-04-01,20:00,Stade Rennes,Olympique Lyon,1,1,D,1,0,H
+FRA,2012-04-07,18:00,Stade Brest,Lille OSC,3,1,H,2,1,H
+FRA,2012-04-07,18:00,Dijon FCO,AS Nancy,0,2,A,0,1,A
+FRA,2012-04-07,18:00,Évian Thonon Gaillard,Stade Rennes,1,3,A,1,0,H
+FRA,2012-04-07,18:00,AC Ajaccio,AS Saint-Étienne,1,1,D,0,0,D
+FRA,2012-04-07,18:00,Montpellier HSC,FC Sochaux,2,1,H,1,1,D
+FRA,2012-04-07,18:00,Valenciennes FC,Toulouse FC,2,0,H,0,0,D
+FRA,2012-04-07,20:00,Olympique Lyon,AJ Auxerre,2,1,H,1,1,D
+FRA,2012-04-08,16:00,SM Caen,Girondins Bordeaux,1,0,H,1,0,H
+FRA,2012-04-08,16:00,OGC Nice,FC Lorient,2,0,H,0,0,D
+FRA,2012-04-08,20:00,Paris Saint-Germain,Olympique Marseille,2,1,H,1,0,H
+FRA,2012-04-11,17:00,Olympique Marseille,Montpellier HSC,1,3,A,1,1,D
+FRA,2012-04-15,16:00,Lille OSC,AC Ajaccio,4,1,H,2,0,H
+FRA,2012-04-15,16:00,AS Nancy,Girondins Bordeaux,2,2,D,0,1,A
+FRA,2012-04-15,16:00,AS Saint-Étienne,Stade Brest,2,1,H,0,0,D
+FRA,2012-04-15,16:00,FC Sochaux,Dijon FCO,1,0,H,0,0,D
+FRA,2012-04-15,16:00,Valenciennes FC,Évian Thonon Gaillard,0,3,A,0,3,A
+FRA,2012-04-15,16:00,FC Lorient,Montpellier HSC,2,1,H,0,0,D
+FRA,2012-04-15,20:00,AJ Auxerre,Paris Saint-Germain,1,1,D,0,1,A
+FRA,2012-04-16,20:00,Stade Rennes,OGC Nice,3,1,H,2,0,H
+FRA,2012-04-18,17:30,Olympique Marseille,SM Caen,1,1,D,1,1,D
+FRA,2012-04-18,17:30,Toulouse FC,Olympique Lyon,3,0,H,2,0,H
+FRA,2012-04-21,18:00,OGC Nice,AJ Auxerre,1,0,H,1,0,H
+FRA,2012-04-21,18:00,Dijon FCO,Lille OSC,0,2,A,0,2,A
+FRA,2012-04-21,18:00,Stade Brest,Stade Rennes,0,1,A,0,1,A
+FRA,2012-04-21,18:00,SM Caen,AS Saint-Étienne,1,4,A,0,1,A
+FRA,2012-04-21,18:00,Évian Thonon Gaillard,Toulouse FC,2,1,H,1,0,H
+FRA,2012-04-21,18:00,Montpellier HSC,Valenciennes FC,1,0,H,1,0,H
+FRA,2012-04-21,20:00,Girondins Bordeaux,Olympique Marseille,2,1,H,2,0,H
+FRA,2012-04-22,16:00,AC Ajaccio,AS Nancy,0,0,D,0,0,D
+FRA,2012-04-22,16:00,Paris Saint-Germain,FC Sochaux,6,1,H,3,1,H
+FRA,2012-04-22,20:15,Olympique Lyon,FC Lorient,3,2,H,1,2,A
+FRA,2012-04-27,18:00,Toulouse FC,Montpellier HSC,0,1,A,0,1,A
+FRA,2012-04-27,20:00,FC Lorient,Olympique Marseille,2,1,H,1,0,H
+FRA,2012-04-29,16:00,Stade Rennes,AC Ajaccio,3,1,H,1,0,H
+FRA,2012-04-29,16:00,FC Sochaux,Girondins Bordeaux,0,3,A,0,1,A
+FRA,2012-04-29,16:00,AJ Auxerre,Stade Brest,4,0,H,4,0,H
+FRA,2012-04-29,16:00,AS Nancy,SM Caen,1,1,D,0,0,D
+FRA,2012-04-29,16:00,AS Saint-Étienne,Dijon FCO,1,0,H,1,0,H
+FRA,2012-04-29,16:00,Valenciennes FC,OGC Nice,2,0,H,1,0,H
+FRA,2012-04-29,20:00,Lille OSC,Paris Saint-Germain,2,1,H,0,0,D
+FRA,2012-05-01,20:00,Montpellier HSC,Évian Thonon Gaillard,2,2,D,1,1,D
+FRA,2012-05-02,18:00,OGC Nice,Lille OSC,0,1,A,0,1,A
+FRA,2012-05-02,18:00,SM Caen,FC Lorient,1,0,H,0,0,D
+FRA,2012-05-02,18:00,Olympique Marseille,AS Nancy,1,0,H,1,0,H
+FRA,2012-05-02,18:00,Girondins Bordeaux,Stade Rennes,2,0,H,0,0,D
+FRA,2012-05-02,18:00,AC Ajaccio,FC Sochaux,2,1,H,0,0,D
+FRA,2012-05-02,18:00,Stade Brest,Toulouse FC,0,0,D,0,0,D
+FRA,2012-05-02,18:00,Olympique Lyon,Valenciennes FC,4,1,H,1,1,D
+FRA,2012-05-02,20:00,Paris Saint-Germain,AS Saint-Étienne,2,0,H,1,0,H
+FRA,2012-05-03,18:00,Dijon FCO,AJ Auxerre,0,2,A,0,1,A
+FRA,2012-05-06,16:00,Évian Thonon Gaillard,AC Ajaccio,2,1,H,1,1,D
+FRA,2012-05-06,16:00,Olympique Lyon,Stade Brest,1,1,D,1,0,H
+FRA,2012-05-06,20:15,Valenciennes FC,Paris Saint-Germain,3,4,A,2,3,A
+FRA,2012-05-07,18:00,AJ Auxerre,Girondins Bordeaux,2,4,A,0,3,A
+FRA,2012-05-07,18:00,Lille OSC,SM Caen,3,0,H,2,0,H
+FRA,2012-05-07,18:00,FC Lorient,Dijon FCO,0,0,D,0,0,D
+FRA,2012-05-07,18:00,AS Saint-Étienne,Olympique Marseille,0,0,D,0,0,D
+FRA,2012-05-07,18:00,FC Sochaux,AS Nancy,1,0,H,0,0,D
+FRA,2012-05-07,18:00,Toulouse FC,OGC Nice,0,0,D,0,0,D
+FRA,2012-05-07,20:00,Stade Rennes,Montpellier HSC,0,2,A,0,1,A
+FRA,2012-05-10,20:00,Évian Thonon Gaillard,Olympique Lyon,1,3,A,1,1,D
+FRA,2012-05-13,20:00,Olympique Marseille,AJ Auxerre,3,0,H,1,0,H
+FRA,2012-05-13,20:00,OGC Nice,Évian Thonon Gaillard,1,1,D,1,1,D
+FRA,2012-05-13,20:00,Montpellier HSC,Lille OSC,1,0,H,0,0,D
+FRA,2012-05-13,20:00,Girondins Bordeaux,FC Lorient,1,0,H,0,0,D
+FRA,2012-05-13,20:00,AC Ajaccio,Olympique Lyon,1,1,D,0,0,D
+FRA,2012-05-13,20:00,Paris Saint-Germain,Stade Rennes,3,0,H,0,0,D
+FRA,2012-05-13,20:00,SM Caen,FC Sochaux,1,3,A,0,2,A
+FRA,2012-05-13,20:00,Dijon FCO,Toulouse FC,1,1,D,1,1,D
+FRA,2012-05-13,20:00,Stade Brest,Valenciennes FC,1,0,H,1,0,H
+FRA,2012-05-13,20:00,AS Nancy,AS Saint-Étienne,3,2,H,3,1,H
+FRA,2012-05-20,20:00,Toulouse FC,AC Ajaccio,0,2,A,0,2,A
+FRA,2012-05-20,20:00,AS Saint-Étienne,Girondins Bordeaux,2,3,A,1,2,A
+FRA,2012-05-20,20:00,Évian Thonon Gaillard,Stade Brest,0,1,A,0,0,D
+FRA,2012-05-20,20:00,Valenciennes FC,SM Caen,3,1,H,1,0,H
+FRA,2012-05-20,20:00,Stade Rennes,Dijon FCO,5,0,H,1,0,H
+FRA,2012-05-20,20:00,FC Sochaux,Olympique Marseille,1,0,H,0,0,D
+FRA,2012-05-20,20:00,AJ Auxerre,Montpellier HSC,1,2,A,1,1,D
+FRA,2012-05-20,20:00,Lille OSC,AS Nancy,4,1,H,4,1,H
+FRA,2012-05-20,20:00,Olympique Lyon,OGC Nice,3,4,A,2,2,D
+FRA,2012-05-20,20:00,FC Lorient,Paris Saint-Germain,1,2,A,1,0,H

@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2009-08-15,12:45,Aberdeen FC,Celtic FC,1,3,A,0,3,A
+SCO,2009-08-15,15:00,Hibernian FC,St. Mirren FC,2,1,H,1,1,D
+SCO,2009-08-15,15:00,Kilmarnock FC,Hamilton Academical,3,0,H,1,0,H
+SCO,2009-08-15,15:00,Rangers FC,Falkirk FC,4,1,H,2,1,H
+SCO,2009-08-15,15:00,St. Johnstone FC,Motherwell FC,2,2,D,1,0,H
+SCO,2009-08-17,19:45,Dundee United,Heart of Midlothian,2,0,H,1,0,H
+SCO,2009-08-22,12:30,Falkirk FC,Hibernian FC,1,3,A,1,1,D
+SCO,2009-08-22,15:00,Celtic FC,St. Johnstone FC,5,2,H,2,1,H
+SCO,2009-08-22,15:00,Hamilton Academical,Aberdeen FC,0,3,A,0,2,A
+SCO,2009-08-22,15:00,Motherwell FC,Kilmarnock FC,3,1,H,2,0,H
+SCO,2009-08-22,15:00,St. Mirren FC,Dundee United,0,0,D,0,0,D
+SCO,2009-08-23,12:45,Heart of Midlothian,Rangers FC,1,2,A,1,0,H
+SCO,2009-08-29,15:00,Aberdeen FC,Motherwell FC,0,0,D,0,0,D
+SCO,2009-08-29,15:00,Dundee United,Falkirk FC,2,1,H,0,0,D
+SCO,2009-08-29,15:00,Kilmarnock FC,St. Mirren FC,1,2,A,1,0,H
+SCO,2009-08-29,15:00,Rangers FC,Hamilton Academical,4,1,H,2,0,H
+SCO,2009-08-30,12:30,Hibernian FC,Celtic FC,0,1,A,0,1,A
+SCO,2009-08-30,15:00,St. Johnstone FC,Heart of Midlothian,2,2,D,1,0,H
+SCO,2009-09-12,12:15,Motherwell FC,Rangers FC,0,0,D,0,0,D
+SCO,2009-09-12,15:00,Celtic FC,Dundee United,1,1,D,1,1,D
+SCO,2009-09-12,15:00,St. Mirren FC,St. Johnstone FC,1,1,D,1,1,D
+SCO,2009-09-13,15:00,Hamilton Academical,Hibernian FC,2,0,H,2,0,H
+SCO,2009-09-14,19:45,Falkirk FC,Aberdeen FC,0,0,D,0,0,D
+SCO,2009-09-15,19:45,Heart of Midlothian,Kilmarnock FC,1,0,H,1,0,H
+SCO,2009-09-19,12:30,Kilmarnock FC,Rangers FC,0,0,D,0,0,D
+SCO,2009-09-19,15:00,Aberdeen FC,St. Mirren FC,1,0,H,0,0,D
+SCO,2009-09-19,15:00,Dundee United,Motherwell FC,0,1,A,0,0,D
+SCO,2009-09-19,15:00,Hamilton Academical,Falkirk FC,0,0,D,0,0,D
+SCO,2009-09-19,15:00,Hibernian FC,St. Johnstone FC,3,0,H,2,0,H
+SCO,2009-09-20,15:00,Celtic FC,Heart of Midlothian,2,1,H,0,1,A
+SCO,2009-09-26,12:30,St. Mirren FC,Celtic FC,0,2,A,0,1,A
+SCO,2009-09-26,15:00,Falkirk FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2009-09-26,15:00,Heart of Midlothian,Hamilton Academical,2,1,H,0,0,D
+SCO,2009-09-26,15:00,Motherwell FC,Hibernian FC,1,3,A,1,1,D
+SCO,2009-09-26,15:00,Rangers FC,Aberdeen FC,0,0,D,0,0,D
+SCO,2009-09-26,15:00,St. Johnstone FC,Dundee United,2,3,A,1,1,D
+SCO,2009-10-03,15:00,Hamilton Academical,St. Johnstone FC,0,2,A,0,1,A
+SCO,2009-10-03,15:00,Hibernian FC,Dundee United,1,1,D,1,0,H
+SCO,2009-10-03,15:00,Kilmarnock FC,Aberdeen FC,1,1,D,0,0,D
+SCO,2009-10-03,15:00,Motherwell FC,Falkirk FC,1,0,H,1,0,H
+SCO,2009-10-03,15:00,St. Mirren FC,Heart of Midlothian,2,1,H,1,1,D
+SCO,2009-10-04,12:30,Rangers FC,Celtic FC,2,1,H,2,1,H
+SCO,2009-10-17,12:30,St. Johnstone FC,Rangers FC,1,2,A,1,1,D
+SCO,2009-10-17,15:00,Aberdeen FC,Heart of Midlothian,1,1,D,1,0,H
+SCO,2009-10-17,15:00,Celtic FC,Motherwell FC,0,0,D,0,0,D
+SCO,2009-10-17,15:00,Dundee United,Hamilton Academical,1,1,D,0,0,D
+SCO,2009-10-17,15:00,Falkirk FC,St. Mirren FC,1,3,A,0,0,D
+SCO,2009-10-17,15:00,Hibernian FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2009-10-24,15:00,Aberdeen FC,Dundee United,0,2,A,0,2,A
+SCO,2009-10-24,15:00,Heart of Midlothian,Falkirk FC,0,0,D,0,0,D
+SCO,2009-10-24,15:00,Kilmarnock FC,St. Johnstone FC,2,1,H,0,0,D
+SCO,2009-10-24,15:00,Rangers FC,Hibernian FC,1,1,D,1,0,H
+SCO,2009-10-24,15:00,St. Mirren FC,Motherwell FC,3,3,D,1,0,H
+SCO,2009-10-25,12:30,Hamilton Academical,Celtic FC,1,2,A,0,2,A
+SCO,2009-10-31,15:00,Celtic FC,Kilmarnock FC,3,0,H,2,0,H
+SCO,2009-10-31,15:00,Hibernian FC,Aberdeen FC,2,0,H,0,0,D
+SCO,2009-10-31,15:00,Motherwell FC,Heart of Midlothian,1,0,H,0,0,D
+SCO,2009-10-31,15:00,St. Johnstone FC,Falkirk FC,3,1,H,1,0,H
+SCO,2009-10-31,15:00,St. Mirren FC,Hamilton Academical,0,2,A,0,2,A
+SCO,2009-11-07,12:30,Heart of Midlothian,Hibernian FC,0,0,D,0,0,D
+SCO,2009-11-07,15:00,Aberdeen FC,St. Johnstone FC,2,1,H,1,0,H
+SCO,2009-11-07,15:00,Hamilton Academical,Motherwell FC,2,2,D,0,0,D
+SCO,2009-11-07,15:00,Kilmarnock FC,Dundee United,0,2,A,0,1,A
+SCO,2009-11-07,15:00,Rangers FC,St. Mirren FC,2,1,H,1,0,H
+SCO,2009-11-08,12:45,Falkirk FC,Celtic FC,3,3,D,0,0,D
+SCO,2009-11-21,12:30,Heart of Midlothian,St. Johnstone FC,1,2,A,1,0,H
+SCO,2009-11-21,15:00,Falkirk FC,Hamilton Academical,2,0,H,0,0,D
+SCO,2009-11-21,15:00,Motherwell FC,Aberdeen FC,1,1,D,1,0,H
+SCO,2009-11-21,15:00,Rangers FC,Kilmarnock FC,3,0,H,3,0,H
+SCO,2009-11-21,15:00,St. Mirren FC,Hibernian FC,1,1,D,1,1,D
+SCO,2009-11-22,12:30,Dundee United,Celtic FC,2,1,H,0,0,D
+SCO,2009-11-28,12:45,Aberdeen FC,Rangers FC,1,0,H,1,0,H
+SCO,2009-11-28,15:00,Celtic FC,St. Mirren FC,3,1,H,2,1,H
+SCO,2009-11-28,15:00,Hibernian FC,Falkirk FC,2,0,H,1,0,H
+SCO,2009-11-28,15:00,Kilmarnock FC,Heart of Midlothian,1,2,A,0,0,D
+SCO,2009-11-28,15:00,Motherwell FC,Dundee United,2,2,D,2,1,H
+SCO,2009-11-28,15:00,St. Johnstone FC,Hamilton Academical,1,1,D,1,1,D
+SCO,2009-12-05,12:30,Falkirk FC,Rangers FC,1,3,A,1,2,A
+SCO,2009-12-05,15:00,Celtic FC,Aberdeen FC,3,0,H,1,0,H
+SCO,2009-12-05,15:00,Dundee United,St. Mirren FC,3,2,H,2,0,H
+SCO,2009-12-05,15:00,Hibernian FC,Motherwell FC,2,0,H,1,0,H
+SCO,2009-12-05,15:00,St. Johnstone FC,Kilmarnock FC,0,1,A,0,1,A
+SCO,2009-12-06,12:45,Hamilton Academical,Heart of Midlothian,2,1,H,2,1,H
+SCO,2009-12-12,12:45,Motherwell FC,Celtic FC,2,3,A,2,1,H
+SCO,2009-12-12,15:00,Aberdeen FC,Hamilton Academical,1,2,A,0,1,A
+SCO,2009-12-12,15:00,Heart of Midlothian,Dundee United,0,0,D,0,0,D
+SCO,2009-12-12,15:00,Kilmarnock FC,Hibernian FC,1,1,D,0,0,D
+SCO,2009-12-12,15:00,Rangers FC,St. Johnstone FC,3,0,H,2,0,H
+SCO,2009-12-12,15:00,St. Mirren FC,Falkirk FC,1,1,D,0,0,D
+SCO,2009-12-15,19:45,Dundee United,Rangers FC,0,3,A,0,1,A
+SCO,2009-12-19,15:00,Aberdeen FC,Hibernian FC,0,2,A,0,1,A
+SCO,2009-12-19,15:00,Kilmarnock FC,Falkirk FC,1,2,A,1,1,D
+SCO,2009-12-19,15:00,Rangers FC,Motherwell FC,6,1,H,1,0,H
+SCO,2009-12-19,15:00,St. Johnstone FC,St. Mirren FC,1,0,H,1,0,H
+SCO,2009-12-20,12:30,Heart of Midlothian,Celtic FC,2,1,H,1,1,D
+SCO,2009-12-26,15:00,Celtic FC,Hamilton Academical,2,0,H,1,0,H
+SCO,2009-12-26,15:00,Dundee United,Kilmarnock FC,0,0,D,0,0,D
+SCO,2009-12-26,15:00,Falkirk FC,Heart of Midlothian,0,1,A,0,1,A
+SCO,2009-12-26,15:00,Motherwell FC,St. Johnstone FC,1,3,A,1,0,H
+SCO,2009-12-27,12:00,Hibernian FC,Rangers FC,1,4,A,1,2,A
+SCO,2009-12-30,19:45,Heart of Midlothian,Motherwell FC,1,0,H,1,0,H
+SCO,2009-12-30,19:45,Rangers FC,Dundee United,7,1,H,3,0,H
+SCO,2010-01-02,15:00,Dundee United,Aberdeen FC,0,1,A,0,1,A
+SCO,2010-01-02,15:00,St. Mirren FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2010-01-03,12:30,Celtic FC,Rangers FC,1,1,D,0,0,D
+SCO,2010-01-03,15:00,Hibernian FC,Heart of Midlothian,1,1,D,0,1,A
+SCO,2010-01-12,19:45,St. Mirren FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2010-01-13,19:45,Hamilton Academical,Dundee United,0,1,A,0,0,D
+SCO,2010-01-16,12:30,Hamilton Academical,Rangers FC,0,1,A,0,0,D
+SCO,2010-01-16,15:00,Celtic FC,Falkirk FC,1,1,D,1,1,D
+SCO,2010-01-16,15:00,Dundee United,Hibernian FC,1,0,H,1,0,H
+SCO,2010-01-16,15:00,Heart of Midlothian,St. Mirren FC,1,0,H,1,0,H
+SCO,2010-01-16,15:00,Kilmarnock FC,Motherwell FC,0,3,A,0,0,D
+SCO,2010-01-23,12:30,Motherwell FC,St. Mirren FC,2,0,H,0,0,D
+SCO,2010-01-23,15:00,Aberdeen FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2010-01-23,15:00,Hibernian FC,Hamilton Academical,5,1,H,3,0,H
+SCO,2010-01-23,15:00,Rangers FC,Heart of Midlothian,1,1,D,0,0,D
+SCO,2010-01-24,13:15,Falkirk FC,Dundee United,1,4,A,0,2,A
+SCO,2010-01-24,15:30,St. Johnstone FC,Celtic FC,1,4,A,1,0,H
+SCO,2010-01-26,19:45,Hamilton Academical,Kilmarnock FC,0,0,D,0,0,D
+SCO,2010-01-27,19:45,Celtic FC,Hibernian FC,1,2,A,1,1,D
+SCO,2010-01-27,19:45,Dundee United,St. Johnstone FC,3,3,D,0,2,A
+SCO,2010-01-27,19:45,Falkirk FC,Motherwell FC,0,0,D,0,0,D
+SCO,2010-01-27,19:45,Heart of Midlothian,Aberdeen FC,0,3,A,0,1,A
+SCO,2010-01-27,19:45,St. Mirren FC,Rangers FC,0,2,A,0,1,A
+SCO,2010-01-30,12:30,Hamilton Academical,Celtic FC,0,1,A,0,0,D
+SCO,2010-01-30,15:00,Aberdeen FC,Motherwell FC,0,3,A,0,1,A
+SCO,2010-01-30,15:00,Hibernian FC,St. Mirren FC,2,1,H,1,1,D
+SCO,2010-01-30,15:00,Kilmarnock FC,Dundee United,4,4,D,2,3,A
+SCO,2010-01-30,15:00,Rangers FC,Falkirk FC,3,0,H,1,0,H
+SCO,2010-01-30,15:00,St. Johnstone FC,Heart of Midlothian,1,0,H,0,0,D
+SCO,2010-02-02,19:30,Kilmarnock FC,Celtic FC,1,0,H,0,0,D
+SCO,2010-02-02,19:45,Aberdeen FC,Falkirk FC,0,1,A,0,1,A
+SCO,2010-02-06,15:00,Motherwell FC,Hamilton Academical,1,0,H,0,0,D
+SCO,2010-02-10,19:45,Celtic FC,Heart of Midlothian,2,0,H,0,0,D
+SCO,2010-02-10,19:45,Dundee United,Hamilton Academical,0,2,A,0,2,A
+SCO,2010-02-10,19:45,Falkirk FC,Kilmarnock FC,0,1,A,0,0,D
+SCO,2010-02-10,19:45,Hibernian FC,Aberdeen FC,2,2,D,0,2,A
+SCO,2010-02-10,19:45,Motherwell FC,Rangers FC,1,1,D,1,0,H
+SCO,2010-02-10,19:45,St. Mirren FC,St. Johnstone FC,1,1,D,0,1,A
+SCO,2010-02-13,12:30,Aberdeen FC,Celtic FC,4,4,D,2,2,D
+SCO,2010-02-13,15:00,Hamilton Academical,Motherwell FC,0,0,D,0,0,D
+SCO,2010-02-13,15:00,Heart of Midlothian,Falkirk FC,3,2,H,1,1,D
+SCO,2010-02-13,15:00,Kilmarnock FC,St. Johnstone FC,3,2,H,1,1,D
+SCO,2010-02-13,15:00,St. Mirren FC,Dundee United,1,2,A,0,0,D
+SCO,2010-02-14,13:30,Rangers FC,Hibernian FC,3,0,H,0,0,D
+SCO,2010-02-17,19:45,St. Johnstone FC,Hibernian FC,5,1,H,2,0,H
+SCO,2010-02-20,15:00,Celtic FC,Dundee United,1,0,H,1,0,H
+SCO,2010-02-20,15:00,Falkirk FC,Aberdeen FC,3,1,H,2,1,H
+SCO,2010-02-20,15:00,Kilmarnock FC,St. Mirren FC,1,1,D,1,0,H
+SCO,2010-02-20,15:00,Motherwell FC,Hibernian FC,1,0,H,0,0,D
+SCO,2010-02-21,15:00,Heart of Midlothian,Hamilton Academical,2,0,H,0,0,D
+SCO,2010-02-27,12:00,Aberdeen FC,Heart of Midlothian,0,1,A,0,0,D
+SCO,2010-02-27,15:00,Dundee United,Falkirk FC,3,0,H,2,0,H
+SCO,2010-02-27,15:00,Hibernian FC,St. Johnstone FC,1,1,D,1,0,H
+SCO,2010-02-27,15:00,Motherwell FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2010-02-27,15:00,St. Mirren FC,Hamilton Academical,0,0,D,0,0,D
+SCO,2010-02-28,12:30,Rangers FC,Celtic FC,1,0,H,0,0,D
+SCO,2010-03-06,14:00,Hibernian FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2010-03-06,15:00,Hamilton Academical,Aberdeen FC,1,1,D,0,0,D
+SCO,2010-03-06,15:00,Rangers FC,St. Mirren FC,3,1,H,1,1,D
+SCO,2010-03-06,15:00,St. Johnstone FC,Motherwell FC,1,2,A,1,1,D
+SCO,2010-03-07,13:15,Falkirk FC,Celtic FC,0,2,A,0,1,A
+SCO,2010-03-07,15:30,Dundee United,Heart of Midlothian,1,0,H,0,0,D
+SCO,2010-03-09,19:45,Kilmarnock FC,Rangers FC,0,2,A,0,0,D
+SCO,2010-03-09,19:45,St. Mirren FC,Motherwell FC,0,0,D,0,0,D
+SCO,2010-03-13,15:00,Hamilton Academical,St. Mirren FC,1,0,H,0,0,D
+SCO,2010-03-13,15:00,Falkirk FC,St. Johnstone FC,1,2,A,1,1,D
+SCO,2010-03-13,15:00,Motherwell FC,Heart of Midlothian,3,1,H,2,0,H
+SCO,2010-03-16,19:45,St. Johnstone FC,Aberdeen FC,1,0,H,1,0,H
+SCO,2010-03-20,12:15,Heart of Midlothian,Hibernian FC,2,1,H,2,0,H
+SCO,2010-03-20,15:00,Aberdeen FC,Dundee United,2,2,D,2,2,D
+SCO,2010-03-20,15:00,Celtic FC,St. Johnstone FC,3,0,H,1,0,H
+SCO,2010-03-20,15:00,Hamilton Academical,Falkirk FC,2,2,D,0,1,A
+SCO,2010-03-23,19:45,St. Johnstone FC,Falkirk FC,1,1,D,1,1,D
+SCO,2010-03-24,19:45,Kilmarnock FC,Hamilton Academical,1,2,A,0,2,A
+SCO,2010-03-24,19:45,St. Mirren FC,Celtic FC,4,0,H,1,0,H
+SCO,2010-03-27,12:30,Heart of Midlothian,Rangers FC,1,4,A,1,2,A
+SCO,2010-03-27,15:00,Aberdeen FC,St. Mirren FC,2,1,H,1,0,H
+SCO,2010-03-27,15:00,Celtic FC,Kilmarnock FC,3,1,H,1,0,H
+SCO,2010-03-27,15:00,Dundee United,Motherwell FC,3,0,H,2,0,H
+SCO,2010-03-27,15:00,Falkirk FC,Hibernian FC,1,3,A,1,3,A
+SCO,2010-03-27,15:00,Hamilton Academical,St. Johnstone FC,1,0,H,1,0,H
+SCO,2010-03-30,19:45,St. Johnstone FC,Rangers FC,4,1,H,3,1,H
+SCO,2010-03-31,19:45,Hibernian FC,Dundee United,2,4,A,1,2,A
+SCO,2010-04-03,15:00,Motherwell FC,Falkirk FC,0,1,A,0,1,A
+SCO,2010-04-03,15:00,Rangers FC,Hamilton Academical,1,0,H,1,0,H
+SCO,2010-04-03,15:00,St. Mirren FC,Heart of Midlothian,1,1,D,1,0,H
+SCO,2010-04-04,13:15,Hibernian FC,Celtic FC,0,1,A,0,0,D
+SCO,2010-04-04,15:30,Kilmarnock FC,Aberdeen FC,2,0,H,1,0,H
+SCO,2010-04-05,19:30,St. Johnstone FC,Dundee United,0,1,A,0,0,D
+SCO,2010-04-07,19:45,Rangers FC,Aberdeen FC,3,1,H,1,0,H
+SCO,2010-04-10,15:00,Falkirk FC,St. Mirren FC,2,1,H,1,0,H
+SCO,2010-04-10,15:00,Hamilton Academical,Hibernian FC,4,1,H,1,1,D
+SCO,2010-04-10,15:00,Heart of Midlothian,Kilmarnock FC,1,0,H,1,0,H
+SCO,2010-04-11,12:15,Aberdeen FC,St. Johnstone FC,1,3,A,1,2,A
+SCO,2010-04-13,19:45,Celtic FC,Motherwell FC,2,1,H,0,0,D
+SCO,2010-04-14,19:45,Dundee United,Rangers FC,0,0,D,0,0,D

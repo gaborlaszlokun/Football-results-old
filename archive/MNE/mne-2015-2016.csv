@@ -1,199 +1,199 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-MNE,08/08/2015,16:30,FK Grbalj Radanovići,FK Budućnost Podgorica,0,2,A,0,0,D
-MNE,08/08/2015,16:30,Iskra Danilovgrad,FK Dečić Tuzi,1,2,A,0,1,A
-MNE,08/08/2015,16:30,FK Rudar Pljevlja,FK Mornar Bar,2,2,D,1,0,H
-MNE,08/08/2015,16:30,FK Lovćen,FK Bokelj,1,2,A,0,2,A
-MNE,08/08/2015,16:30,FK Zeta,OFK Petrovac,2,0,H,1,0,H
-MNE,09/08/2015,16:30,FK Sutjeska,FK Mladost Podgorica,0,1,A,0,0,D
-MNE,15/08/2015,16:00,FK Bokelj,FK Zeta,1,1,D,0,0,D
-MNE,15/08/2015,16:00,FK Mladost Podgorica,FK Lovćen,2,0,H,0,0,D
-MNE,15/08/2015,16:00,FK Mornar Bar,FK Sutjeska,1,3,A,0,1,A
-MNE,15/08/2015,16:00,FK Dečić Tuzi,FK Rudar Pljevlja,0,2,A,0,1,A
-MNE,15/08/2015,16:00,FK Grbalj Radanovići,Iskra Danilovgrad,1,2,A,0,0,D
-MNE,16/08/2015,16:00,FK Budućnost Podgorica,OFK Petrovac,1,2,A,1,0,H
-MNE,22/08/2015,16:00,Iskra Danilovgrad,FK Budućnost Podgorica,0,4,A,0,2,A
-MNE,22/08/2015,16:00,FK Rudar Pljevlja,FK Grbalj Radanovići,2,1,H,0,1,A
-MNE,22/08/2015,16:00,FK Sutjeska,FK Dečić Tuzi,0,2,A,0,1,A
-MNE,22/08/2015,16:00,FK Lovćen,FK Mornar Bar,3,1,H,0,0,D
-MNE,22/08/2015,16:00,FK Zeta,FK Mladost Podgorica,1,0,H,0,0,D
-MNE,22/08/2015,16:00,OFK Petrovac,FK Bokelj,0,3,A,0,1,A
-MNE,26/08/2015,16:00,FK Budućnost Podgorica,FK Bokelj,0,0,D,0,0,D
-MNE,26/08/2015,16:00,FK Mladost Podgorica,OFK Petrovac,1,2,A,1,2,A
-MNE,26/08/2015,16:00,FK Mornar Bar,FK Zeta,1,5,A,0,3,A
-MNE,26/08/2015,16:00,FK Dečić Tuzi,FK Lovćen,3,2,H,2,2,D
-MNE,26/08/2015,16:00,FK Grbalj Radanovići,FK Sutjeska,1,1,D,0,1,A
-MNE,26/08/2015,16:00,Iskra Danilovgrad,FK Rudar Pljevlja,0,0,D,0,0,D
-MNE,29/08/2015,16:00,FK Rudar Pljevlja,FK Budućnost Podgorica,1,0,H,1,0,H
-MNE,29/08/2015,16:00,FK Sutjeska,Iskra Danilovgrad,3,0,H,1,0,H
-MNE,29/08/2015,16:00,FK Lovćen,FK Grbalj Radanovići,3,1,H,2,0,H
-MNE,29/08/2015,16:00,FK Zeta,FK Dečić Tuzi,1,1,D,0,0,D
-MNE,29/08/2015,16:00,FK Bokelj,FK Mladost Podgorica,0,1,A,0,0,D
-MNE,30/08/2015,18:30,OFK Petrovac,FK Mornar Bar,2,1,H,1,1,D
-MNE,12/09/2015,14:00,FK Rudar Pljevlja,FK Sutjeska,4,1,H,3,1,H
-MNE,12/09/2015,15:00,FK Budućnost Podgorica,FK Mladost Podgorica,1,3,A,1,1,D
-MNE,12/09/2015,15:00,FK Mornar Bar,FK Bokelj,0,1,A,0,1,A
-MNE,12/09/2015,15:00,FK Dečić Tuzi,OFK Petrovac,3,1,H,3,0,H
-MNE,12/09/2015,15:00,FK Grbalj Radanovići,FK Zeta,4,1,H,1,0,H
-MNE,12/09/2015,15:00,Iskra Danilovgrad,FK Lovćen,0,0,D,0,0,D
-MNE,19/09/2015,14:30,FK Sutjeska,FK Budućnost Podgorica,0,0,D,0,0,D
-MNE,19/09/2015,14:30,FK Lovćen,FK Rudar Pljevlja,1,1,D,1,0,H
-MNE,19/09/2015,14:30,FK Zeta,Iskra Danilovgrad,0,2,A,0,2,A
-MNE,19/09/2015,14:30,OFK Petrovac,FK Grbalj Radanovići,0,1,A,0,1,A
-MNE,19/09/2015,14:30,FK Bokelj,FK Dečić Tuzi,4,1,H,1,1,D
-MNE,19/09/2015,14:30,FK Mladost Podgorica,FK Mornar Bar,2,1,H,0,0,D
-MNE,26/09/2015,14:00,FK Budućnost Podgorica,FK Mornar Bar,3,0,H,0,0,D
-MNE,26/09/2015,14:00,FK Dečić Tuzi,FK Mladost Podgorica,2,2,D,0,1,A
-MNE,26/09/2015,14:00,FK Grbalj Radanovići,FK Bokelj,1,1,D,1,0,H
-MNE,26/09/2015,14:00,Iskra Danilovgrad,OFK Petrovac,0,0,D,0,0,D
-MNE,26/09/2015,14:00,FK Rudar Pljevlja,FK Zeta,1,0,H,0,0,D
-MNE,26/09/2015,14:00,FK Sutjeska,FK Lovćen,2,0,H,0,0,D
-MNE,01/10/2015,14:00,FK Lovćen,FK Budućnost Podgorica,2,2,D,0,0,D
-MNE,01/10/2015,14:00,FK Zeta,FK Sutjeska,0,1,A,0,0,D
-MNE,01/10/2015,14:00,OFK Petrovac,FK Rudar Pljevlja,2,0,H,1,0,H
-MNE,01/10/2015,14:00,FK Bokelj,Iskra Danilovgrad,1,2,A,0,1,A
-MNE,01/10/2015,14:00,FK Mladost Podgorica,FK Grbalj Radanovići,3,1,H,2,0,H
-MNE,01/10/2015,14:00,FK Mornar Bar,FK Dečić Tuzi,2,2,D,2,1,H
-MNE,06/10/2015,13:30,FK Budućnost Podgorica,FK Dečić Tuzi,2,0,H,1,0,H
-MNE,06/10/2015,13:30,FK Grbalj Radanovići,FK Mornar Bar,2,1,H,1,0,H
-MNE,06/10/2015,13:30,Iskra Danilovgrad,FK Mladost Podgorica,2,3,A,1,1,D
-MNE,06/10/2015,13:30,FK Rudar Pljevlja,FK Bokelj,1,0,H,0,0,D
-MNE,06/10/2015,13:30,FK Sutjeska,OFK Petrovac,0,0,D,0,0,D
-MNE,06/10/2015,13:30,FK Lovćen,FK Zeta,1,2,A,1,1,D
-MNE,17/10/2015,13:30,FK Mornar Bar,Iskra Danilovgrad,0,0,D,0,0,D
-MNE,18/10/2015,13:30,FK Zeta,FK Budućnost Podgorica,0,0,D,0,0,D
-MNE,18/10/2015,13:30,OFK Petrovac,FK Lovćen,2,1,H,0,1,A
-MNE,18/10/2015,13:30,FK Bokelj,FK Sutjeska,3,1,H,1,0,H
-MNE,18/10/2015,13:30,FK Mladost Podgorica,FK Rudar Pljevlja,1,0,H,0,0,D
-MNE,18/10/2015,13:30,FK Dečić Tuzi,FK Grbalj Radanovići,3,1,H,0,0,D
-MNE,26/10/2015,12:30,FK Budućnost Podgorica,FK Grbalj Radanovići,3,0,H,1,0,H
-MNE,26/10/2015,12:30,FK Dečić Tuzi,Iskra Danilovgrad,1,1,D,0,1,A
-MNE,26/10/2015,12:30,FK Mornar Bar,FK Rudar Pljevlja,1,2,A,0,2,A
-MNE,26/10/2015,12:30,FK Mladost Podgorica,FK Sutjeska,4,3,H,3,1,H
-MNE,26/10/2015,12:30,FK Bokelj,FK Lovćen,1,0,H,1,0,H
-MNE,26/10/2015,12:30,OFK Petrovac,FK Zeta,5,3,H,2,1,H
-MNE,31/10/2015,12:30,FK Zeta,FK Bokelj,1,0,H,0,0,D
-MNE,31/10/2015,12:30,FK Lovćen,FK Mladost Podgorica,1,2,A,0,2,A
-MNE,31/10/2015,12:30,FK Sutjeska,FK Mornar Bar,4,1,H,3,1,H
-MNE,31/10/2015,12:30,FK Rudar Pljevlja,FK Dečić Tuzi,2,0,H,1,0,H
-MNE,31/10/2015,12:30,Iskra Danilovgrad,FK Grbalj Radanovići,0,2,A,0,1,A
-MNE,31/10/2015,16:00,OFK Petrovac,FK Budućnost Podgorica,0,2,A,0,0,D
-MNE,07/11/2015,12:30,FK Budućnost Podgorica,Iskra Danilovgrad,1,0,H,1,0,H
-MNE,07/11/2015,12:30,FK Grbalj Radanovići,FK Rudar Pljevlja,0,1,A,0,0,D
-MNE,07/11/2015,12:30,FK Dečić Tuzi,FK Sutjeska,1,0,H,0,0,D
-MNE,07/11/2015,12:30,FK Mornar Bar,FK Lovćen,0,1,A,0,0,D
-MNE,07/11/2015,12:30,FK Mladost Podgorica,FK Zeta,2,0,H,1,0,H
-MNE,07/11/2015,12:30,FK Bokelj,OFK Petrovac,2,1,H,1,1,D
-MNE,20/11/2015,12:00,FK Bokelj,FK Budućnost Podgorica,0,1,A,0,0,D
-MNE,20/11/2015,12:00,FK Zeta,FK Mornar Bar,1,2,A,1,1,D
-MNE,20/11/2015,12:00,FK Lovćen,FK Dečić Tuzi,0,0,D,0,0,D
-MNE,20/11/2015,12:00,FK Sutjeska,FK Grbalj Radanovići,2,0,H,0,0,D
-MNE,20/11/2015,12:00,FK Rudar Pljevlja,Iskra Danilovgrad,2,2,D,2,1,H
-MNE,20/11/2015,16:00,OFK Petrovac,FK Mladost Podgorica,1,2,A,1,1,D
-MNE,28/11/2015,12:00,Iskra Danilovgrad,FK Sutjeska,0,4,A,0,2,A
-MNE,28/11/2015,12:00,FK Grbalj Radanovići,FK Lovćen,0,0,D,0,0,D
-MNE,28/11/2015,12:00,FK Mornar Bar,OFK Petrovac,1,1,D,0,0,D
-MNE,28/11/2015,12:00,FK Mladost Podgorica,FK Bokelj,1,0,H,0,0,D
-MNE,28/11/2015,14:00,FK Dečić Tuzi,FK Zeta,3,1,H,2,1,H
-MNE,29/11/2015,15:00,FK Budućnost Podgorica,FK Rudar Pljevlja,2,1,H,1,0,H
-MNE,05/12/2015,12:00,OFK Petrovac,FK Dečić Tuzi,1,0,H,0,0,D
-MNE,05/12/2015,12:00,FK Zeta,FK Grbalj Radanovići,1,2,A,0,1,A
-MNE,05/12/2015,12:00,FK Lovćen,Iskra Danilovgrad,4,1,H,4,0,H
-MNE,05/12/2015,12:00,FK Sutjeska,FK Rudar Pljevlja,0,2,A,0,0,D
-MNE,06/12/2015,12:00,FK Mladost Podgorica,FK Budućnost Podgorica,2,0,H,1,0,H
-MNE,06/12/2015,12:00,FK Bokelj,FK Mornar Bar,2,0,H,1,0,H
-MNE,23/02/2016,13:00,FK Rudar Pljevlja,FK Lovćen,1,1,D,0,1,A
-MNE,23/02/2016,13:00,Iskra Danilovgrad,FK Zeta,1,0,H,0,0,D
-MNE,23/02/2016,13:00,FK Grbalj Radanovići,OFK Petrovac,4,1,H,1,1,D
-MNE,23/02/2016,13:00,FK Mornar Bar,FK Mladost Podgorica,2,0,H,1,0,H
-MNE,23/02/2016,14:00,FK Dečić Tuzi,FK Bokelj,0,1,A,0,1,A
-MNE,23/02/2016,17:00,FK Budućnost Podgorica,FK Sutjeska,0,0,D,0,0,D
-MNE,27/02/2016,13:00,FK Mornar Bar,FK Budućnost Podgorica,1,0,H,0,0,D
-MNE,27/02/2016,13:00,FK Mladost Podgorica,FK Dečić Tuzi,4,0,H,2,0,H
-MNE,27/02/2016,13:00,FK Bokelj,FK Grbalj Radanovići,3,0,H,0,0,D
-MNE,27/02/2016,13:00,OFK Petrovac,Iskra Danilovgrad,2,4,A,0,2,A
-MNE,27/02/2016,13:00,FK Zeta,FK Rudar Pljevlja,2,0,H,0,0,D
-MNE,27/02/2016,13:00,FK Lovćen,FK Sutjeska,0,0,D,0,0,D
-MNE,05/03/2016,13:30,FK Budućnost Podgorica,FK Lovćen,0,0,D,0,0,D
-MNE,05/03/2016,13:30,FK Sutjeska,FK Zeta,1,1,D,0,0,D
-MNE,05/03/2016,13:30,FK Rudar Pljevlja,OFK Petrovac,3,2,H,2,2,D
-MNE,05/03/2016,13:30,Iskra Danilovgrad,FK Bokelj,0,0,D,0,0,D
-MNE,05/03/2016,13:30,FK Grbalj Radanovići,FK Mladost Podgorica,1,0,H,0,0,D
-MNE,05/03/2016,13:30,FK Dečić Tuzi,FK Mornar Bar,1,0,H,1,0,H
-MNE,09/03/2016,13:30,FK Dečić Tuzi,FK Budućnost Podgorica,1,2,A,1,1,D
-MNE,09/03/2016,13:30,FK Mornar Bar,FK Grbalj Radanovići,1,0,H,1,0,H
-MNE,09/03/2016,13:30,FK Mladost Podgorica,Iskra Danilovgrad,5,0,H,1,0,H
-MNE,09/03/2016,13:30,FK Bokelj,FK Rudar Pljevlja,1,1,D,0,0,D
-MNE,09/03/2016,13:30,OFK Petrovac,FK Sutjeska,0,4,A,0,3,A
-MNE,09/03/2016,13:30,FK Zeta,FK Lovćen,0,2,A,0,1,A
-MNE,12/03/2016,13:30,FK Budućnost Podgorica,FK Zeta,0,1,A,0,0,D
-MNE,12/03/2016,13:30,FK Lovćen,OFK Petrovac,1,0,H,1,0,H
-MNE,12/03/2016,13:30,FK Sutjeska,FK Bokelj,1,0,H,0,0,D
-MNE,12/03/2016,13:30,FK Rudar Pljevlja,FK Mladost Podgorica,0,0,D,0,0,D
-MNE,12/03/2016,13:30,Iskra Danilovgrad,FK Mornar Bar,2,0,H,1,0,H
-MNE,12/03/2016,13:30,FK Grbalj Radanovići,FK Dečić Tuzi,2,1,H,1,0,H
-MNE,19/03/2016,14:00,FK Dečić Tuzi,FK Mornar Bar,2,0,H,1,0,H
-MNE,19/03/2016,14:00,FK Grbalj Radanovići,FK Sutjeska,1,2,A,0,1,A
-MNE,19/03/2016,14:00,FK Lovćen,FK Bokelj,1,2,A,0,2,A
-MNE,19/03/2016,14:00,Iskra Danilovgrad,FK Budućnost Podgorica,1,3,A,0,2,A
-MNE,19/03/2016,14:00,FK Zeta,FK Rudar Pljevlja,0,1,A,0,0,D
-MNE,19/03/2016,14:00,OFK Petrovac,FK Mladost Podgorica,1,1,D,1,0,H
-MNE,02/04/2016,14:30,FK Mornar Bar,OFK Petrovac,0,0,D,0,0,D
-MNE,02/04/2016,14:30,FK Mladost Podgorica,FK Zeta,2,0,H,0,0,D
-MNE,02/04/2016,14:30,FK Rudar Pljevlja,Iskra Danilovgrad,0,0,D,0,0,D
-MNE,02/04/2016,14:30,FK Budućnost Podgorica,FK Lovćen,4,0,H,2,0,H
-MNE,02/04/2016,14:30,FK Bokelj,FK Grbalj Radanovići,3,0,H,1,0,H
-MNE,02/04/2016,14:30,FK Sutjeska,FK Dečić Tuzi,1,1,D,1,0,H
-MNE,09/04/2016,15:00,FK Sutjeska,FK Mornar Bar,0,1,A,0,1,A
-MNE,09/04/2016,15:00,FK Dečić Tuzi,FK Bokelj,1,2,A,0,1,A
-MNE,09/04/2016,15:00,FK Grbalj Radanovići,FK Budućnost Podgorica,0,1,A,0,1,A
-MNE,09/04/2016,15:00,FK Lovćen,FK Rudar Pljevlja,0,1,A,0,1,A
-MNE,09/04/2016,15:00,Iskra Danilovgrad,FK Mladost Podgorica,0,0,D,0,0,D
-MNE,09/04/2016,15:00,FK Zeta,OFK Petrovac,1,1,D,1,1,D
-MNE,16/04/2016,15:00,FK Mornar Bar,FK Zeta,2,2,D,2,0,H
-MNE,16/04/2016,15:00,OFK Petrovac,Iskra Danilovgrad,1,1,D,1,0,H
-MNE,16/04/2016,15:00,FK Mladost Podgorica,FK Lovćen,1,0,H,1,0,H
-MNE,16/04/2016,15:00,FK Rudar Pljevlja,FK Grbalj Radanovići,1,1,D,0,1,A
-MNE,16/04/2016,15:00,FK Bokelj,FK Sutjeska,0,2,A,0,0,D
-MNE,16/04/2016,17:00,FK Budućnost Podgorica,FK Dečić Tuzi,2,0,H,0,0,D
-MNE,23/04/2016,15:00,FK Bokelj,FK Mornar Bar,2,0,H,1,0,H
-MNE,23/04/2016,15:00,FK Sutjeska,FK Budućnost Podgorica,0,4,A,0,2,A
-MNE,23/04/2016,15:00,FK Dečić Tuzi,FK Rudar Pljevlja,0,1,A,0,0,D
-MNE,23/04/2016,15:30,FK Grbalj Radanovići,FK Mladost Podgorica,2,0,H,1,0,H
-MNE,23/04/2016,15:30,FK Lovćen,OFK Petrovac,1,0,H,0,0,D
-MNE,23/04/2016,15:30,Iskra Danilovgrad,FK Zeta,1,1,D,1,1,D
-MNE,30/04/2016,15:30,FK Mornar Bar,Iskra Danilovgrad,3,0,H,1,0,H
-MNE,30/04/2016,15:30,FK Zeta,FK Lovćen,2,0,H,0,0,D
-MNE,30/04/2016,15:30,OFK Petrovac,FK Grbalj Radanovići,1,1,D,0,1,A
-MNE,30/04/2016,15:30,FK Mladost Podgorica,FK Dečić Tuzi,2,0,H,1,0,H
-MNE,30/04/2016,15:30,FK Rudar Pljevlja,FK Sutjeska,0,1,A,0,0,D
-MNE,30/04/2016,15:30,FK Budućnost Podgorica,FK Bokelj,4,2,H,3,0,H
-MNE,07/05/2016,16:00,FK Bokelj,FK Rudar Pljevlja,1,0,H,1,0,H
-MNE,07/05/2016,16:00,FK Dečić Tuzi,OFK Petrovac,1,2,A,1,1,D
-MNE,07/05/2016,16:00,FK Grbalj Radanovići,FK Zeta,1,2,A,0,1,A
-MNE,07/05/2016,16:00,FK Lovćen,Iskra Danilovgrad,2,2,D,1,0,H
-MNE,07/05/2016,16:00,FK Sutjeska,FK Mladost Podgorica,2,1,H,0,0,D
-MNE,07/05/2016,17:30,FK Budućnost Podgorica,FK Mornar Bar,1,0,H,0,0,D
-MNE,11/05/2016,14:00,FK Rudar Pljevlja,FK Budućnost Podgorica,2,0,H,0,0,D
-MNE,11/05/2016,16:00,FK Mornar Bar,FK Lovćen,0,1,A,0,0,D
-MNE,11/05/2016,16:00,Iskra Danilovgrad,FK Grbalj Radanovići,1,3,A,1,1,D
-MNE,11/05/2016,16:00,FK Zeta,FK Dečić Tuzi,3,0,H,0,0,D
-MNE,11/05/2016,16:00,OFK Petrovac,FK Sutjeska,0,2,A,0,0,D
-MNE,11/05/2016,16:00,FK Mladost Podgorica,FK Bokelj,1,0,H,0,0,D
-MNE,14/05/2016,16:30,FK Rudar Pljevlja,FK Mornar Bar,0,1,A,0,1,A
-MNE,14/05/2016,16:30,FK Budućnost Podgorica,FK Mladost Podgorica,1,2,A,0,1,A
-MNE,14/05/2016,16:30,FK Bokelj,OFK Petrovac,2,1,H,1,0,H
-MNE,14/05/2016,16:30,FK Sutjeska,FK Zeta,0,0,D,0,0,D
-MNE,14/05/2016,16:30,FK Dečić Tuzi,Iskra Danilovgrad,2,1,H,2,0,H
-MNE,14/05/2016,16:30,FK Grbalj Radanovići,FK Lovćen,2,0,H,1,0,H
-MNE,21/05/2016,16:30,FK Mornar Bar,FK Grbalj Radanovići,3,1,H,2,1,H
-MNE,21/05/2016,16:30,FK Lovćen,FK Dečić Tuzi,2,1,H,2,1,H
-MNE,21/05/2016,16:30,Iskra Danilovgrad,FK Sutjeska,1,1,D,1,0,H
-MNE,21/05/2016,16:30,FK Zeta,FK Bokelj,2,3,A,2,3,A
-MNE,21/05/2016,16:30,OFK Petrovac,FK Budućnost Podgorica,0,1,A,0,0,D
-MNE,21/05/2016,16:30,FK Mladost Podgorica,FK Rudar Pljevlja,2,3,A,0,2,A
-MNE,29/05/2016,16:30,FK Mladost Podgorica,FK Mornar Bar,0,1,A,0,1,A
-MNE,29/05/2016,16:30,FK Rudar Pljevlja,OFK Petrovac,1,1,D,1,0,H
-MNE,29/05/2016,16:30,FK Budućnost Podgorica,FK Zeta,1,0,H,0,0,D
-MNE,29/05/2016,16:30,FK Bokelj,Iskra Danilovgrad,0,1,A,0,0,D
-MNE,29/05/2016,16:30,FK Sutjeska,FK Lovćen,4,1,H,2,1,H
-MNE,29/05/2016,16:30,FK Dečić Tuzi,FK Grbalj Radanovići,3,1,H,1,0,H
+MNE,2015-08-08,16:30,FK Grbalj Radanovići,FK Budućnost Podgorica,0,2,A,0,0,D
+MNE,2015-08-08,16:30,Iskra Danilovgrad,FK Dečić Tuzi,1,2,A,0,1,A
+MNE,2015-08-08,16:30,FK Rudar Pljevlja,FK Mornar Bar,2,2,D,1,0,H
+MNE,2015-08-08,16:30,FK Lovćen,FK Bokelj,1,2,A,0,2,A
+MNE,2015-08-08,16:30,FK Zeta,OFK Petrovac,2,0,H,1,0,H
+MNE,2015-08-09,16:30,FK Sutjeska,FK Mladost Podgorica,0,1,A,0,0,D
+MNE,2015-08-15,16:00,FK Bokelj,FK Zeta,1,1,D,0,0,D
+MNE,2015-08-15,16:00,FK Mladost Podgorica,FK Lovćen,2,0,H,0,0,D
+MNE,2015-08-15,16:00,FK Mornar Bar,FK Sutjeska,1,3,A,0,1,A
+MNE,2015-08-15,16:00,FK Dečić Tuzi,FK Rudar Pljevlja,0,2,A,0,1,A
+MNE,2015-08-15,16:00,FK Grbalj Radanovići,Iskra Danilovgrad,1,2,A,0,0,D
+MNE,2015-08-16,16:00,FK Budućnost Podgorica,OFK Petrovac,1,2,A,1,0,H
+MNE,2015-08-22,16:00,Iskra Danilovgrad,FK Budućnost Podgorica,0,4,A,0,2,A
+MNE,2015-08-22,16:00,FK Rudar Pljevlja,FK Grbalj Radanovići,2,1,H,0,1,A
+MNE,2015-08-22,16:00,FK Sutjeska,FK Dečić Tuzi,0,2,A,0,1,A
+MNE,2015-08-22,16:00,FK Lovćen,FK Mornar Bar,3,1,H,0,0,D
+MNE,2015-08-22,16:00,FK Zeta,FK Mladost Podgorica,1,0,H,0,0,D
+MNE,2015-08-22,16:00,OFK Petrovac,FK Bokelj,0,3,A,0,1,A
+MNE,2015-08-26,16:00,FK Budućnost Podgorica,FK Bokelj,0,0,D,0,0,D
+MNE,2015-08-26,16:00,FK Mladost Podgorica,OFK Petrovac,1,2,A,1,2,A
+MNE,2015-08-26,16:00,FK Mornar Bar,FK Zeta,1,5,A,0,3,A
+MNE,2015-08-26,16:00,FK Dečić Tuzi,FK Lovćen,3,2,H,2,2,D
+MNE,2015-08-26,16:00,FK Grbalj Radanovići,FK Sutjeska,1,1,D,0,1,A
+MNE,2015-08-26,16:00,Iskra Danilovgrad,FK Rudar Pljevlja,0,0,D,0,0,D
+MNE,2015-08-29,16:00,FK Rudar Pljevlja,FK Budućnost Podgorica,1,0,H,1,0,H
+MNE,2015-08-29,16:00,FK Sutjeska,Iskra Danilovgrad,3,0,H,1,0,H
+MNE,2015-08-29,16:00,FK Lovćen,FK Grbalj Radanovići,3,1,H,2,0,H
+MNE,2015-08-29,16:00,FK Zeta,FK Dečić Tuzi,1,1,D,0,0,D
+MNE,2015-08-29,16:00,FK Bokelj,FK Mladost Podgorica,0,1,A,0,0,D
+MNE,2015-08-30,18:30,OFK Petrovac,FK Mornar Bar,2,1,H,1,1,D
+MNE,2015-09-12,14:00,FK Rudar Pljevlja,FK Sutjeska,4,1,H,3,1,H
+MNE,2015-09-12,15:00,FK Budućnost Podgorica,FK Mladost Podgorica,1,3,A,1,1,D
+MNE,2015-09-12,15:00,FK Mornar Bar,FK Bokelj,0,1,A,0,1,A
+MNE,2015-09-12,15:00,FK Dečić Tuzi,OFK Petrovac,3,1,H,3,0,H
+MNE,2015-09-12,15:00,FK Grbalj Radanovići,FK Zeta,4,1,H,1,0,H
+MNE,2015-09-12,15:00,Iskra Danilovgrad,FK Lovćen,0,0,D,0,0,D
+MNE,2015-09-19,14:30,FK Sutjeska,FK Budućnost Podgorica,0,0,D,0,0,D
+MNE,2015-09-19,14:30,FK Lovćen,FK Rudar Pljevlja,1,1,D,1,0,H
+MNE,2015-09-19,14:30,FK Zeta,Iskra Danilovgrad,0,2,A,0,2,A
+MNE,2015-09-19,14:30,OFK Petrovac,FK Grbalj Radanovići,0,1,A,0,1,A
+MNE,2015-09-19,14:30,FK Bokelj,FK Dečić Tuzi,4,1,H,1,1,D
+MNE,2015-09-19,14:30,FK Mladost Podgorica,FK Mornar Bar,2,1,H,0,0,D
+MNE,2015-09-26,14:00,FK Budućnost Podgorica,FK Mornar Bar,3,0,H,0,0,D
+MNE,2015-09-26,14:00,FK Dečić Tuzi,FK Mladost Podgorica,2,2,D,0,1,A
+MNE,2015-09-26,14:00,FK Grbalj Radanovići,FK Bokelj,1,1,D,1,0,H
+MNE,2015-09-26,14:00,Iskra Danilovgrad,OFK Petrovac,0,0,D,0,0,D
+MNE,2015-09-26,14:00,FK Rudar Pljevlja,FK Zeta,1,0,H,0,0,D
+MNE,2015-09-26,14:00,FK Sutjeska,FK Lovćen,2,0,H,0,0,D
+MNE,2015-10-01,14:00,FK Lovćen,FK Budućnost Podgorica,2,2,D,0,0,D
+MNE,2015-10-01,14:00,FK Zeta,FK Sutjeska,0,1,A,0,0,D
+MNE,2015-10-01,14:00,OFK Petrovac,FK Rudar Pljevlja,2,0,H,1,0,H
+MNE,2015-10-01,14:00,FK Bokelj,Iskra Danilovgrad,1,2,A,0,1,A
+MNE,2015-10-01,14:00,FK Mladost Podgorica,FK Grbalj Radanovići,3,1,H,2,0,H
+MNE,2015-10-01,14:00,FK Mornar Bar,FK Dečić Tuzi,2,2,D,2,1,H
+MNE,2015-10-06,13:30,FK Budućnost Podgorica,FK Dečić Tuzi,2,0,H,1,0,H
+MNE,2015-10-06,13:30,FK Grbalj Radanovići,FK Mornar Bar,2,1,H,1,0,H
+MNE,2015-10-06,13:30,Iskra Danilovgrad,FK Mladost Podgorica,2,3,A,1,1,D
+MNE,2015-10-06,13:30,FK Rudar Pljevlja,FK Bokelj,1,0,H,0,0,D
+MNE,2015-10-06,13:30,FK Sutjeska,OFK Petrovac,0,0,D,0,0,D
+MNE,2015-10-06,13:30,FK Lovćen,FK Zeta,1,2,A,1,1,D
+MNE,2015-10-17,13:30,FK Mornar Bar,Iskra Danilovgrad,0,0,D,0,0,D
+MNE,2015-10-18,13:30,FK Zeta,FK Budućnost Podgorica,0,0,D,0,0,D
+MNE,2015-10-18,13:30,OFK Petrovac,FK Lovćen,2,1,H,0,1,A
+MNE,2015-10-18,13:30,FK Bokelj,FK Sutjeska,3,1,H,1,0,H
+MNE,2015-10-18,13:30,FK Mladost Podgorica,FK Rudar Pljevlja,1,0,H,0,0,D
+MNE,2015-10-18,13:30,FK Dečić Tuzi,FK Grbalj Radanovići,3,1,H,0,0,D
+MNE,2015-10-26,12:30,FK Budućnost Podgorica,FK Grbalj Radanovići,3,0,H,1,0,H
+MNE,2015-10-26,12:30,FK Dečić Tuzi,Iskra Danilovgrad,1,1,D,0,1,A
+MNE,2015-10-26,12:30,FK Mornar Bar,FK Rudar Pljevlja,1,2,A,0,2,A
+MNE,2015-10-26,12:30,FK Mladost Podgorica,FK Sutjeska,4,3,H,3,1,H
+MNE,2015-10-26,12:30,FK Bokelj,FK Lovćen,1,0,H,1,0,H
+MNE,2015-10-26,12:30,OFK Petrovac,FK Zeta,5,3,H,2,1,H
+MNE,2015-10-31,12:30,FK Zeta,FK Bokelj,1,0,H,0,0,D
+MNE,2015-10-31,12:30,FK Lovćen,FK Mladost Podgorica,1,2,A,0,2,A
+MNE,2015-10-31,12:30,FK Sutjeska,FK Mornar Bar,4,1,H,3,1,H
+MNE,2015-10-31,12:30,FK Rudar Pljevlja,FK Dečić Tuzi,2,0,H,1,0,H
+MNE,2015-10-31,12:30,Iskra Danilovgrad,FK Grbalj Radanovići,0,2,A,0,1,A
+MNE,2015-10-31,16:00,OFK Petrovac,FK Budućnost Podgorica,0,2,A,0,0,D
+MNE,2015-11-07,12:30,FK Budućnost Podgorica,Iskra Danilovgrad,1,0,H,1,0,H
+MNE,2015-11-07,12:30,FK Grbalj Radanovići,FK Rudar Pljevlja,0,1,A,0,0,D
+MNE,2015-11-07,12:30,FK Dečić Tuzi,FK Sutjeska,1,0,H,0,0,D
+MNE,2015-11-07,12:30,FK Mornar Bar,FK Lovćen,0,1,A,0,0,D
+MNE,2015-11-07,12:30,FK Mladost Podgorica,FK Zeta,2,0,H,1,0,H
+MNE,2015-11-07,12:30,FK Bokelj,OFK Petrovac,2,1,H,1,1,D
+MNE,2015-11-20,12:00,FK Bokelj,FK Budućnost Podgorica,0,1,A,0,0,D
+MNE,2015-11-20,12:00,FK Zeta,FK Mornar Bar,1,2,A,1,1,D
+MNE,2015-11-20,12:00,FK Lovćen,FK Dečić Tuzi,0,0,D,0,0,D
+MNE,2015-11-20,12:00,FK Sutjeska,FK Grbalj Radanovići,2,0,H,0,0,D
+MNE,2015-11-20,12:00,FK Rudar Pljevlja,Iskra Danilovgrad,2,2,D,2,1,H
+MNE,2015-11-20,16:00,OFK Petrovac,FK Mladost Podgorica,1,2,A,1,1,D
+MNE,2015-11-28,12:00,Iskra Danilovgrad,FK Sutjeska,0,4,A,0,2,A
+MNE,2015-11-28,12:00,FK Grbalj Radanovići,FK Lovćen,0,0,D,0,0,D
+MNE,2015-11-28,12:00,FK Mornar Bar,OFK Petrovac,1,1,D,0,0,D
+MNE,2015-11-28,12:00,FK Mladost Podgorica,FK Bokelj,1,0,H,0,0,D
+MNE,2015-11-28,14:00,FK Dečić Tuzi,FK Zeta,3,1,H,2,1,H
+MNE,2015-11-29,15:00,FK Budućnost Podgorica,FK Rudar Pljevlja,2,1,H,1,0,H
+MNE,2015-12-05,12:00,OFK Petrovac,FK Dečić Tuzi,1,0,H,0,0,D
+MNE,2015-12-05,12:00,FK Zeta,FK Grbalj Radanovići,1,2,A,0,1,A
+MNE,2015-12-05,12:00,FK Lovćen,Iskra Danilovgrad,4,1,H,4,0,H
+MNE,2015-12-05,12:00,FK Sutjeska,FK Rudar Pljevlja,0,2,A,0,0,D
+MNE,2015-12-06,12:00,FK Mladost Podgorica,FK Budućnost Podgorica,2,0,H,1,0,H
+MNE,2015-12-06,12:00,FK Bokelj,FK Mornar Bar,2,0,H,1,0,H
+MNE,2016-02-23,13:00,FK Rudar Pljevlja,FK Lovćen,1,1,D,0,1,A
+MNE,2016-02-23,13:00,Iskra Danilovgrad,FK Zeta,1,0,H,0,0,D
+MNE,2016-02-23,13:00,FK Grbalj Radanovići,OFK Petrovac,4,1,H,1,1,D
+MNE,2016-02-23,13:00,FK Mornar Bar,FK Mladost Podgorica,2,0,H,1,0,H
+MNE,2016-02-23,14:00,FK Dečić Tuzi,FK Bokelj,0,1,A,0,1,A
+MNE,2016-02-23,17:00,FK Budućnost Podgorica,FK Sutjeska,0,0,D,0,0,D
+MNE,2016-02-27,13:00,FK Mornar Bar,FK Budućnost Podgorica,1,0,H,0,0,D
+MNE,2016-02-27,13:00,FK Mladost Podgorica,FK Dečić Tuzi,4,0,H,2,0,H
+MNE,2016-02-27,13:00,FK Bokelj,FK Grbalj Radanovići,3,0,H,0,0,D
+MNE,2016-02-27,13:00,OFK Petrovac,Iskra Danilovgrad,2,4,A,0,2,A
+MNE,2016-02-27,13:00,FK Zeta,FK Rudar Pljevlja,2,0,H,0,0,D
+MNE,2016-02-27,13:00,FK Lovćen,FK Sutjeska,0,0,D,0,0,D
+MNE,2016-03-05,13:30,FK Budućnost Podgorica,FK Lovćen,0,0,D,0,0,D
+MNE,2016-03-05,13:30,FK Sutjeska,FK Zeta,1,1,D,0,0,D
+MNE,2016-03-05,13:30,FK Rudar Pljevlja,OFK Petrovac,3,2,H,2,2,D
+MNE,2016-03-05,13:30,Iskra Danilovgrad,FK Bokelj,0,0,D,0,0,D
+MNE,2016-03-05,13:30,FK Grbalj Radanovići,FK Mladost Podgorica,1,0,H,0,0,D
+MNE,2016-03-05,13:30,FK Dečić Tuzi,FK Mornar Bar,1,0,H,1,0,H
+MNE,2016-03-09,13:30,FK Dečić Tuzi,FK Budućnost Podgorica,1,2,A,1,1,D
+MNE,2016-03-09,13:30,FK Mornar Bar,FK Grbalj Radanovići,1,0,H,1,0,H
+MNE,2016-03-09,13:30,FK Mladost Podgorica,Iskra Danilovgrad,5,0,H,1,0,H
+MNE,2016-03-09,13:30,FK Bokelj,FK Rudar Pljevlja,1,1,D,0,0,D
+MNE,2016-03-09,13:30,OFK Petrovac,FK Sutjeska,0,4,A,0,3,A
+MNE,2016-03-09,13:30,FK Zeta,FK Lovćen,0,2,A,0,1,A
+MNE,2016-03-12,13:30,FK Budućnost Podgorica,FK Zeta,0,1,A,0,0,D
+MNE,2016-03-12,13:30,FK Lovćen,OFK Petrovac,1,0,H,1,0,H
+MNE,2016-03-12,13:30,FK Sutjeska,FK Bokelj,1,0,H,0,0,D
+MNE,2016-03-12,13:30,FK Rudar Pljevlja,FK Mladost Podgorica,0,0,D,0,0,D
+MNE,2016-03-12,13:30,Iskra Danilovgrad,FK Mornar Bar,2,0,H,1,0,H
+MNE,2016-03-12,13:30,FK Grbalj Radanovići,FK Dečić Tuzi,2,1,H,1,0,H
+MNE,2016-03-19,14:00,FK Dečić Tuzi,FK Mornar Bar,2,0,H,1,0,H
+MNE,2016-03-19,14:00,FK Grbalj Radanovići,FK Sutjeska,1,2,A,0,1,A
+MNE,2016-03-19,14:00,FK Lovćen,FK Bokelj,1,2,A,0,2,A
+MNE,2016-03-19,14:00,Iskra Danilovgrad,FK Budućnost Podgorica,1,3,A,0,2,A
+MNE,2016-03-19,14:00,FK Zeta,FK Rudar Pljevlja,0,1,A,0,0,D
+MNE,2016-03-19,14:00,OFK Petrovac,FK Mladost Podgorica,1,1,D,1,0,H
+MNE,2016-04-02,14:30,FK Mornar Bar,OFK Petrovac,0,0,D,0,0,D
+MNE,2016-04-02,14:30,FK Mladost Podgorica,FK Zeta,2,0,H,0,0,D
+MNE,2016-04-02,14:30,FK Rudar Pljevlja,Iskra Danilovgrad,0,0,D,0,0,D
+MNE,2016-04-02,14:30,FK Budućnost Podgorica,FK Lovćen,4,0,H,2,0,H
+MNE,2016-04-02,14:30,FK Bokelj,FK Grbalj Radanovići,3,0,H,1,0,H
+MNE,2016-04-02,14:30,FK Sutjeska,FK Dečić Tuzi,1,1,D,1,0,H
+MNE,2016-04-09,15:00,FK Sutjeska,FK Mornar Bar,0,1,A,0,1,A
+MNE,2016-04-09,15:00,FK Dečić Tuzi,FK Bokelj,1,2,A,0,1,A
+MNE,2016-04-09,15:00,FK Grbalj Radanovići,FK Budućnost Podgorica,0,1,A,0,1,A
+MNE,2016-04-09,15:00,FK Lovćen,FK Rudar Pljevlja,0,1,A,0,1,A
+MNE,2016-04-09,15:00,Iskra Danilovgrad,FK Mladost Podgorica,0,0,D,0,0,D
+MNE,2016-04-09,15:00,FK Zeta,OFK Petrovac,1,1,D,1,1,D
+MNE,2016-04-16,15:00,FK Mornar Bar,FK Zeta,2,2,D,2,0,H
+MNE,2016-04-16,15:00,OFK Petrovac,Iskra Danilovgrad,1,1,D,1,0,H
+MNE,2016-04-16,15:00,FK Mladost Podgorica,FK Lovćen,1,0,H,1,0,H
+MNE,2016-04-16,15:00,FK Rudar Pljevlja,FK Grbalj Radanovići,1,1,D,0,1,A
+MNE,2016-04-16,15:00,FK Bokelj,FK Sutjeska,0,2,A,0,0,D
+MNE,2016-04-16,17:00,FK Budućnost Podgorica,FK Dečić Tuzi,2,0,H,0,0,D
+MNE,2016-04-23,15:00,FK Bokelj,FK Mornar Bar,2,0,H,1,0,H
+MNE,2016-04-23,15:00,FK Sutjeska,FK Budućnost Podgorica,0,4,A,0,2,A
+MNE,2016-04-23,15:00,FK Dečić Tuzi,FK Rudar Pljevlja,0,1,A,0,0,D
+MNE,2016-04-23,15:30,FK Grbalj Radanovići,FK Mladost Podgorica,2,0,H,1,0,H
+MNE,2016-04-23,15:30,FK Lovćen,OFK Petrovac,1,0,H,0,0,D
+MNE,2016-04-23,15:30,Iskra Danilovgrad,FK Zeta,1,1,D,1,1,D
+MNE,2016-04-30,15:30,FK Mornar Bar,Iskra Danilovgrad,3,0,H,1,0,H
+MNE,2016-04-30,15:30,FK Zeta,FK Lovćen,2,0,H,0,0,D
+MNE,2016-04-30,15:30,OFK Petrovac,FK Grbalj Radanovići,1,1,D,0,1,A
+MNE,2016-04-30,15:30,FK Mladost Podgorica,FK Dečić Tuzi,2,0,H,1,0,H
+MNE,2016-04-30,15:30,FK Rudar Pljevlja,FK Sutjeska,0,1,A,0,0,D
+MNE,2016-04-30,15:30,FK Budućnost Podgorica,FK Bokelj,4,2,H,3,0,H
+MNE,2016-05-07,16:00,FK Bokelj,FK Rudar Pljevlja,1,0,H,1,0,H
+MNE,2016-05-07,16:00,FK Dečić Tuzi,OFK Petrovac,1,2,A,1,1,D
+MNE,2016-05-07,16:00,FK Grbalj Radanovići,FK Zeta,1,2,A,0,1,A
+MNE,2016-05-07,16:00,FK Lovćen,Iskra Danilovgrad,2,2,D,1,0,H
+MNE,2016-05-07,16:00,FK Sutjeska,FK Mladost Podgorica,2,1,H,0,0,D
+MNE,2016-05-07,17:30,FK Budućnost Podgorica,FK Mornar Bar,1,0,H,0,0,D
+MNE,2016-05-11,14:00,FK Rudar Pljevlja,FK Budućnost Podgorica,2,0,H,0,0,D
+MNE,2016-05-11,16:00,FK Mornar Bar,FK Lovćen,0,1,A,0,0,D
+MNE,2016-05-11,16:00,Iskra Danilovgrad,FK Grbalj Radanovići,1,3,A,1,1,D
+MNE,2016-05-11,16:00,FK Zeta,FK Dečić Tuzi,3,0,H,0,0,D
+MNE,2016-05-11,16:00,OFK Petrovac,FK Sutjeska,0,2,A,0,0,D
+MNE,2016-05-11,16:00,FK Mladost Podgorica,FK Bokelj,1,0,H,0,0,D
+MNE,2016-05-14,16:30,FK Rudar Pljevlja,FK Mornar Bar,0,1,A,0,1,A
+MNE,2016-05-14,16:30,FK Budućnost Podgorica,FK Mladost Podgorica,1,2,A,0,1,A
+MNE,2016-05-14,16:30,FK Bokelj,OFK Petrovac,2,1,H,1,0,H
+MNE,2016-05-14,16:30,FK Sutjeska,FK Zeta,0,0,D,0,0,D
+MNE,2016-05-14,16:30,FK Dečić Tuzi,Iskra Danilovgrad,2,1,H,2,0,H
+MNE,2016-05-14,16:30,FK Grbalj Radanovići,FK Lovćen,2,0,H,1,0,H
+MNE,2016-05-21,16:30,FK Mornar Bar,FK Grbalj Radanovići,3,1,H,2,1,H
+MNE,2016-05-21,16:30,FK Lovćen,FK Dečić Tuzi,2,1,H,2,1,H
+MNE,2016-05-21,16:30,Iskra Danilovgrad,FK Sutjeska,1,1,D,1,0,H
+MNE,2016-05-21,16:30,FK Zeta,FK Bokelj,2,3,A,2,3,A
+MNE,2016-05-21,16:30,OFK Petrovac,FK Budućnost Podgorica,0,1,A,0,0,D
+MNE,2016-05-21,16:30,FK Mladost Podgorica,FK Rudar Pljevlja,2,3,A,0,2,A
+MNE,2016-05-29,16:30,FK Mladost Podgorica,FK Mornar Bar,0,1,A,0,1,A
+MNE,2016-05-29,16:30,FK Rudar Pljevlja,OFK Petrovac,1,1,D,1,0,H
+MNE,2016-05-29,16:30,FK Budućnost Podgorica,FK Zeta,1,0,H,0,0,D
+MNE,2016-05-29,16:30,FK Bokelj,Iskra Danilovgrad,0,1,A,0,0,D
+MNE,2016-05-29,16:30,FK Sutjeska,FK Lovćen,4,1,H,2,1,H
+MNE,2016-05-29,16:30,FK Dečić Tuzi,FK Grbalj Radanovići,3,1,H,1,0,H

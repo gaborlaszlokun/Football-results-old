@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+JPN,2011-03-05,05:00,Ventforet Kofu,Júbilo Iwata,0,1,A,0,0,D
+JPN,2011-03-05,05:00,Nagoya Grampus,Yokohama F. Marinos,1,1,D,0,0,D
+JPN,2011-03-05,05:00,Gamba Osaka,Cerezo Osaka,2,1,H,0,0,D
+JPN,2011-03-05,05:00,Sanfrecce Hiroshima,Vegalta Sendai,0,0,D,0,0,D
+JPN,2011-03-05,05:00,Avispa Fukuoka,Albirex Niigata,0,3,A,0,0,D
+JPN,2011-03-05,06:00,Kawasaki Frontale,Montedio Yamagata,2,0,H,2,0,H
+JPN,2011-03-05,10:00,Kashiwa Reysol,Shimizu S-Pulse,3,0,H,1,0,H
+JPN,2011-03-06,04:00,Vissel Kobe,Urawa Red Diamonds,1,0,H,0,0,D
+JPN,2011-03-06,06:00,Kashima Antlers,Omiya Ardija,3,3,D,0,1,A
+JPN,2011-04-23,06:00,Shimizu S-Pulse,Avispa Fukuoka,1,0,H,0,0,D
+JPN,2011-04-23,06:00,Kashima Antlers,Yokohama F. Marinos,0,3,A,0,1,A
+JPN,2011-04-23,06:00,Omiya Ardija,Kashiwa Reysol,0,1,A,0,0,D
+JPN,2011-04-23,06:00,Ventforet Kofu,Vissel Kobe,1,1,D,0,1,A
+JPN,2011-04-23,06:00,Kawasaki Frontale,Vegalta Sendai,1,2,A,1,0,H
+JPN,2011-04-24,05:00,Montedio Yamagata,Cerezo Osaka,0,0,D,0,0,D
+JPN,2011-04-24,05:00,Albirex Niigata,Júbilo Iwata,1,1,D,1,0,H
+JPN,2011-04-24,05:00,Sanfrecce Hiroshima,Gamba Osaka,4,1,H,3,0,H
+JPN,2011-04-24,06:00,Urawa Red Diamonds,Nagoya Grampus,3,0,H,2,0,H
+JPN,2011-04-29,05:00,Avispa Fukuoka,Kashima Antlers,1,2,A,1,0,H
+JPN,2011-04-29,06:00,Kashiwa Reysol,Ventforet Kofu,2,1,H,0,1,A
+JPN,2011-04-29,06:00,Vissel Kobe,Omiya Ardija,0,1,A,0,1,A
+JPN,2011-04-29,06:00,Vegalta Sendai,Urawa Red Diamonds,1,0,H,1,0,H
+JPN,2011-04-29,06:00,Yokohama F. Marinos,Shimizu S-Pulse,1,1,D,0,0,D
+JPN,2011-04-29,07:00,Cerezo Osaka,Albirex Niigata,1,1,D,1,1,D
+JPN,2011-04-29,10:00,Gamba Osaka,Montedio Yamagata,3,2,H,2,0,H
+JPN,2011-04-29,11:00,Júbilo Iwata,Sanfrecce Hiroshima,1,1,D,0,0,D
+JPN,2011-04-29,11:00,Nagoya Grampus,Kawasaki Frontale,2,0,H,1,0,H
+JPN,2011-05-03,06:00,Vegalta Sendai,Avispa Fukuoka,1,0,H,0,0,D
+JPN,2011-05-03,06:00,Urawa Red Diamonds,Yokohama F. Marinos,0,2,A,0,0,D
+JPN,2011-05-03,06:00,Kawasaki Frontale,Júbilo Iwata,1,0,H,0,0,D
+JPN,2011-05-03,06:00,Ventforet Kofu,Omiya Ardija,1,1,D,0,1,A
+JPN,2011-05-03,06:00,Albirex Niigata,Vissel Kobe,1,0,H,0,0,D
+JPN,2011-05-03,06:00,Montedio Yamagata,Kashiwa Reysol,2,1,H,0,0,D
+JPN,2011-05-03,07:00,Shimizu S-Pulse,Sanfrecce Hiroshima,0,1,A,0,0,D
+JPN,2011-05-07,05:00,Sanfrecce Hiroshima,Ventforet Kofu,1,1,D,0,1,A
+JPN,2011-05-07,06:00,Júbilo Iwata,Montedio Yamagata,4,0,H,3,0,H
+JPN,2011-05-07,06:00,Vissel Kobe,Kawasaki Frontale,1,0,H,0,0,D
+JPN,2011-05-07,06:00,Yokohama F. Marinos,Avispa Fukuoka,3,2,H,0,2,A
+JPN,2011-05-07,07:00,Omiya Ardija,Albirex Niigata,0,0,D,0,0,D
+JPN,2011-05-07,07:00,Nagoya Grampus,Shimizu S-Pulse,1,1,D,1,1,D
+JPN,2011-05-07,08:00,Kashiwa Reysol,Urawa Red Diamonds,3,1,H,2,0,H
+JPN,2011-05-07,11:00,Cerezo Osaka,Vegalta Sendai,1,1,D,0,1,A
+JPN,2011-05-14,05:00,Vegalta Sendai,Júbilo Iwata,3,3,D,2,0,H
+JPN,2011-05-14,05:00,Montedio Yamagata,Omiya Ardija,0,1,A,0,1,A
+JPN,2011-05-14,06:00,Shimizu S-Pulse,Vissel Kobe,1,5,A,0,2,A
+JPN,2011-05-14,06:00,Albirex Niigata,Kashiwa Reysol,0,3,A,0,1,A
+JPN,2011-05-14,07:00,Sanfrecce Hiroshima,Yokohama F. Marinos,3,2,H,2,1,H
+JPN,2011-05-15,05:00,Ventforet Kofu,Nagoya Grampus,3,1,H,1,1,D
+JPN,2011-05-15,07:00,Urawa Red Diamonds,Cerezo Osaka,1,1,D,1,1,D
+JPN,2011-05-15,07:00,Avispa Fukuoka,Gamba Osaka,2,3,A,1,1,D
+JPN,2011-05-15,08:00,Kawasaki Frontale,Kashima Antlers,3,2,H,2,0,H
+JPN,2011-05-20,11:00,Cerezo Osaka,Kawasaki Frontale,3,3,D,0,2,A
+JPN,2011-05-21,06:00,Júbilo Iwata,Avispa Fukuoka,4,1,H,3,0,H
+JPN,2011-05-21,07:00,Yokohama F. Marinos,Ventforet Kofu,4,0,H,4,0,H
+JPN,2011-05-21,08:00,Urawa Red Diamonds,Kashima Antlers,2,2,D,0,1,A
+JPN,2011-05-21,08:00,Nagoya Grampus,Kashiwa Reysol,0,0,D,0,0,D
+JPN,2011-05-21,11:00,Gamba Osaka,Albirex Niigata,2,1,H,1,0,H
+JPN,2011-05-21,11:00,Vissel Kobe,Sanfrecce Hiroshima,1,0,H,1,0,H
+JPN,2011-05-22,05:00,Montedio Yamagata,Vegalta Sendai,0,1,A,0,0,D
+JPN,2011-05-22,08:00,Omiya Ardija,Shimizu S-Pulse,1,4,A,0,1,A
+JPN,2011-05-28,05:00,Vegalta Sendai,Yokohama F. Marinos,1,1,D,1,0,H
+JPN,2011-05-28,06:00,Urawa Red Diamonds,Albirex Niigata,1,1,D,1,0,H
+JPN,2011-05-28,06:00,Kashiwa Reysol,Vissel Kobe,3,0,H,2,0,H
+JPN,2011-05-28,06:00,Shimizu S-Pulse,Júbilo Iwata,0,0,D,0,0,D
+JPN,2011-05-28,08:00,Ventforet Kofu,Montedio Yamagata,1,1,D,1,1,D
+JPN,2011-05-29,05:00,Cerezo Osaka,Omiya Ardija,0,1,A,0,1,A
+JPN,2011-05-29,08:00,Kawasaki Frontale,Gamba Osaka,2,1,H,0,0,D
+JPN,2011-05-29,08:00,Nagoya Grampus,Avispa Fukuoka,5,2,H,1,1,D
+JPN,2011-05-29,11:00,Sanfrecce Hiroshima,Kashima Antlers,2,1,H,1,1,D
+JPN,2011-06-11,05:00,Albirex Niigata,Sanfrecce Hiroshima,0,1,A,0,0,D
+JPN,2011-06-11,06:00,Yokohama F. Marinos,Kashiwa Reysol,0,2,A,0,2,A
+JPN,2011-06-11,06:00,Júbilo Iwata,Nagoya Grampus,0,1,A,0,0,D
+JPN,2011-06-11,06:00,Avispa Fukuoka,Cerezo Osaka,0,3,A,0,2,A
+JPN,2011-06-11,08:00,Montedio Yamagata,Kashima Antlers,0,2,A,0,2,A
+JPN,2011-06-11,09:00,Kawasaki Frontale,Ventforet Kofu,2,2,D,1,1,D
+JPN,2011-06-11,09:00,Vissel Kobe,Vegalta Sendai,1,1,D,0,1,A
+JPN,2011-06-11,11:00,Omiya Ardija,Urawa Red Diamonds,2,2,D,1,0,H
+JPN,2011-06-11,11:00,Gamba Osaka,Shimizu S-Pulse,2,2,D,1,0,H
+JPN,2011-06-15,06:00,Vegalta Sendai,Gamba Osaka,2,1,H,0,0,D
+JPN,2011-06-15,11:00,Kashima Antlers,Ventforet Kofu,0,1,A,0,0,D
+JPN,2011-06-15,11:00,Omiya Ardija,Kawasaki Frontale,0,5,A,0,2,A
+JPN,2011-06-15,11:00,Kashiwa Reysol,Júbilo Iwata,0,3,A,0,2,A
+JPN,2011-06-15,11:00,Shimizu S-Pulse,Montedio Yamagata,2,1,H,0,0,D
+JPN,2011-06-15,11:00,Nagoya Grampus,Albirex Niigata,4,0,H,2,0,H
+JPN,2011-06-15,11:00,Cerezo Osaka,Yokohama F. Marinos,0,1,A,0,0,D
+JPN,2011-06-15,11:00,Vissel Kobe,Avispa Fukuoka,0,0,D,0,0,D
+JPN,2011-06-15,11:00,Sanfrecce Hiroshima,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2011-06-18,10:00,Urawa Red Diamonds,Shimizu S-Pulse,1,3,A,0,1,A
+JPN,2011-06-18,10:00,Gamba Osaka,Yokohama F. Marinos,2,1,H,2,0,H
+JPN,2011-06-18,10:30,Ventforet Kofu,Cerezo Osaka,0,2,A,0,0,D
+JPN,2011-06-18,11:00,Montedio Yamagata,Vissel Kobe,2,0,H,0,0,D
+JPN,2011-06-18,11:00,Kashima Antlers,Júbilo Iwata,2,0,H,1,0,H
+JPN,2011-06-18,11:00,Kawasaki Frontale,Sanfrecce Hiroshima,2,0,H,1,0,H
+JPN,2011-06-18,11:00,Albirex Niigata,Vegalta Sendai,1,1,D,0,0,D
+JPN,2011-06-18,11:00,Nagoya Grampus,Omiya Ardija,2,2,D,1,0,H
+JPN,2011-06-18,11:00,Avispa Fukuoka,Kashiwa Reysol,0,2,A,0,1,A
+JPN,2011-06-22,06:00,Vegalta Sendai,Ventforet Kofu,4,0,H,2,0,H
+JPN,2011-06-22,11:00,Urawa Red Diamonds,Avispa Fukuoka,3,0,H,0,0,D
+JPN,2011-06-22,11:00,Kashiwa Reysol,Gamba Osaka,2,4,A,1,1,D
+JPN,2011-06-22,11:00,Shimizu S-Pulse,Kawasaki Frontale,2,3,A,2,2,D
+JPN,2011-06-22,11:00,Júbilo Iwata,Omiya Ardija,1,2,A,1,1,D
+JPN,2011-06-22,11:00,Cerezo Osaka,Nagoya Grampus,2,3,A,1,2,A
+JPN,2011-06-22,11:00,Vissel Kobe,Kashima Antlers,0,1,A,0,1,A
+JPN,2011-06-22,11:00,Sanfrecce Hiroshima,Montedio Yamagata,3,2,H,2,1,H
+JPN,2011-06-22,11:30,Yokohama F. Marinos,Albirex Niigata,1,0,H,1,0,H
+JPN,2011-06-25,10:30,Kashima Antlers,Kawasaki Frontale,2,2,D,2,0,H
+JPN,2011-06-25,11:00,Ventforet Kofu,Kashiwa Reysol,1,4,A,0,2,A
+JPN,2011-06-25,11:00,Albirex Niigata,Cerezo Osaka,1,1,D,0,0,D
+JPN,2011-06-25,11:00,Nagoya Grampus,Urawa Red Diamonds,1,1,D,1,0,H
+JPN,2011-06-25,11:00,Avispa Fukuoka,Júbilo Iwata,1,2,A,0,2,A
+JPN,2011-06-26,10:00,Gamba Osaka,Sanfrecce Hiroshima,5,3,H,2,1,H
+JPN,2011-06-26,10:30,Shimizu S-Pulse,Vegalta Sendai,1,0,H,0,0,D
+JPN,2011-06-26,11:00,Montedio Yamagata,Yokohama F. Marinos,0,2,A,0,1,A
+JPN,2011-06-26,11:00,Omiya Ardija,Vissel Kobe,1,1,D,0,0,D
+JPN,2011-07-02,06:00,Vegalta Sendai,Nagoya Grampus,1,1,D,1,0,H
+JPN,2011-07-02,10:00,Urawa Red Diamonds,Gamba Osaka,1,1,D,0,0,D
+JPN,2011-07-02,10:00,Avispa Fukuoka,Ventforet Kofu,1,0,H,1,0,H
+JPN,2011-07-02,10:30,Shimizu S-Pulse,Kashima Antlers,0,0,D,0,0,D
+JPN,2011-07-02,11:00,Albirex Niigata,Montedio Yamagata,2,0,H,1,0,H
+JPN,2011-07-02,11:00,Cerezo Osaka,Kashiwa Reysol,5,0,H,2,0,H
+JPN,2011-07-03,10:00,Yokohama F. Marinos,Kawasaki Frontale,2,1,H,1,1,D
+JPN,2011-07-03,11:00,Júbilo Iwata,Vissel Kobe,3,0,H,0,0,D
+JPN,2011-07-03,11:00,Omiya Ardija,Sanfrecce Hiroshima,0,1,A,0,0,D
+JPN,2011-07-06,11:00,Montedio Yamagata,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2011-07-06,11:00,Albirex Niigata,Ventforet Kofu,1,2,A,0,1,A
+JPN,2011-07-09,10:30,Ventforet Kofu,Shimizu S-Pulse,1,2,A,1,2,A
+JPN,2011-07-09,11:00,Kawasaki Frontale,Avispa Fukuoka,3,2,H,2,0,H
+JPN,2011-07-09,11:00,Vissel Kobe,Nagoya Grampus,0,1,A,0,0,D
+JPN,2011-07-09,11:00,Kashiwa Reysol,Vegalta Sendai,1,0,H,0,0,D
+JPN,2011-07-09,11:00,Júbilo Iwata,Yokohama F. Marinos,1,2,A,1,1,D
+JPN,2011-07-10,10:30,Kashima Antlers,Albirex Niigata,1,2,A,0,0,D
+JPN,2011-07-10,11:00,Sanfrecce Hiroshima,Cerezo Osaka,1,3,A,1,1,D
+JPN,2011-07-10,11:00,Omiya Ardija,Gamba Osaka,2,3,A,1,1,D
+JPN,2011-07-13,11:00,Kashiwa Reysol,Sanfrecce Hiroshima,3,1,H,1,1,D
+JPN,2011-07-13,11:00,Nagoya Grampus,Kashima Antlers,2,1,H,1,1,D
+JPN,2011-07-13,11:00,Yokohama F. Marinos,Montedio Yamagata,2,1,H,1,0,H
+JPN,2011-07-13,11:00,Cerezo Osaka,Júbilo Iwata,2,3,A,0,0,D
+JPN,2011-07-13,11:00,Avispa Fukuoka,Omiya Ardija,1,0,H,1,0,H
+JPN,2011-07-13,11:00,Urawa Red Diamonds,Kawasaki Frontale,2,0,H,0,0,D
+JPN,2011-07-13,11:00,Gamba Osaka,Vissel Kobe,3,2,H,1,0,H
+JPN,2011-07-13,11:00,Vegalta Sendai,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2011-07-16,10:30,Shimizu S-Pulse,Albirex Niigata,2,1,H,0,1,A
+JPN,2011-07-16,10:30,Ventforet Kofu,Gamba Osaka,4,3,H,2,2,D
+JPN,2011-07-16,11:00,Vissel Kobe,Cerezo Osaka,4,1,H,1,0,H
+JPN,2011-07-16,11:00,Kawasaki Frontale,Kashiwa Reysol,3,2,H,2,0,H
+JPN,2011-07-17,10:30,Kashima Antlers,Vegalta Sendai,3,0,H,2,0,H
+JPN,2011-07-17,11:00,Omiya Ardija,Yokohama F. Marinos,1,1,D,0,1,A
+JPN,2011-07-17,11:00,Montedio Yamagata,Nagoya Grampus,0,2,A,0,1,A
+JPN,2011-07-17,11:00,Júbilo Iwata,Urawa Red Diamonds,1,1,D,0,1,A
+JPN,2011-07-18,10:00,Sanfrecce Hiroshima,Avispa Fukuoka,0,0,D,0,0,D
+JPN,2011-07-23,10:00,Urawa Red Diamonds,Ventforet Kofu,2,0,H,0,0,D
+JPN,2011-07-23,11:00,Cerezo Osaka,Shimizu S-Pulse,4,0,H,0,0,D
+JPN,2011-07-23,11:00,Albirex Niigata,Kawasaki Frontale,1,0,H,0,0,D
+JPN,2011-07-23,11:00,Kashiwa Reysol,Kashima Antlers,2,1,H,1,0,H
+JPN,2011-07-23,11:00,Nagoya Grampus,Sanfrecce Hiroshima,3,2,H,1,1,D
+JPN,2011-07-23,11:00,Vegalta Sendai,Omiya Ardija,0,1,A,0,0,D
+JPN,2011-07-23,11:00,Gamba Osaka,Júbilo Iwata,2,2,D,1,1,D
+JPN,2011-07-23,11:00,Yokohama F. Marinos,Vissel Kobe,1,0,H,0,0,D
+JPN,2011-07-24,11:00,Avispa Fukuoka,Montedio Yamagata,0,2,A,0,1,A
+JPN,2011-07-27,11:00,Kashima Antlers,Gamba Osaka,1,4,A,1,1,D
+JPN,2011-07-30,11:00,Montedio Yamagata,Albirex Niigata,0,1,A,0,0,D
+JPN,2011-07-30,11:00,Kawasaki Frontale,Urawa Red Diamonds,0,1,A,0,1,A
+JPN,2011-07-30,11:00,Yokohama F. Marinos,Omiya Ardija,2,1,H,0,1,A
+JPN,2011-07-30,11:00,Júbilo Iwata,Gamba Osaka,1,2,A,0,1,A
+JPN,2011-07-30,11:00,Vissel Kobe,Ventforet Kofu,4,2,H,2,0,H
+JPN,2011-07-30,11:00,Sanfrecce Hiroshima,Shimizu S-Pulse,4,0,H,2,0,H
+JPN,2011-07-31,10:00,Cerezo Osaka,Kashima Antlers,1,3,A,1,2,A
+JPN,2011-07-31,11:00,Vegalta Sendai,Kashiwa Reysol,0,0,D,0,0,D
+JPN,2011-07-31,11:00,Avispa Fukuoka,Nagoya Grampus,0,3,A,0,0,D
+JPN,2011-08-06,10:30,Kashima Antlers,Montedio Yamagata,3,1,H,2,0,H
+JPN,2011-08-06,10:30,Ventforet Kofu,Sanfrecce Hiroshima,0,2,A,0,1,A
+JPN,2011-08-06,11:00,Urawa Red Diamonds,Vissel Kobe,2,3,A,0,2,A
+JPN,2011-08-06,11:00,Kashiwa Reysol,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2011-08-06,11:00,Kawasaki Frontale,Cerezo Osaka,1,2,A,0,2,A
+JPN,2011-08-06,11:00,Albirex Niigata,Shimizu S-Pulse,4,0,H,1,0,H
+JPN,2011-08-07,10:00,Gamba Osaka,Avispa Fukuoka,2,0,H,1,0,H
+JPN,2011-08-07,11:00,Omiya Ardija,Vegalta Sendai,2,2,D,2,0,H
+JPN,2011-08-07,11:00,Nagoya Grampus,Júbilo Iwata,2,1,H,1,1,D
+JPN,2011-08-13,10:30,Shimizu S-Pulse,Omiya Ardija,3,0,H,0,0,D
+JPN,2011-08-13,11:00,Vegalta Sendai,Kashima Antlers,0,1,A,0,1,A
+JPN,2011-08-13,11:00,Montedio Yamagata,Ventforet Kofu,3,1,H,1,1,D
+JPN,2011-08-13,11:00,Cerezo Osaka,Gamba Osaka,1,1,D,0,0,D
+JPN,2011-08-13,11:00,Vissel Kobe,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2011-08-13,11:00,Sanfrecce Hiroshima,Nagoya Grampus,0,3,A,0,2,A
+JPN,2011-08-14,10:00,Albirex Niigata,Urawa Red Diamonds,2,3,A,0,2,A
+JPN,2011-08-14,11:00,Júbilo Iwata,Kashiwa Reysol,6,1,H,2,1,H
+JPN,2011-08-14,11:00,Avispa Fukuoka,Kawasaki Frontale,2,1,H,0,1,A
+JPN,2011-08-17,11:00,Kashima Antlers,Cerezo Osaka,2,1,H,0,0,D
+JPN,2011-08-17,11:00,Gamba Osaka,Nagoya Grampus,2,2,D,1,0,H
+JPN,2011-08-20,10:00,Ventforet Kofu,Urawa Red Diamonds,3,2,H,3,1,H
+JPN,2011-08-20,10:00,Gamba Osaka,Kawasaki Frontale,6,3,H,2,3,A
+JPN,2011-08-20,10:30,Kashima Antlers,Sanfrecce Hiroshima,2,0,H,0,0,D
+JPN,2011-08-20,10:30,Shimizu S-Pulse,Cerezo Osaka,3,3,D,1,0,H
+JPN,2011-08-20,11:00,Omiya Ardija,Montedio Yamagata,1,1,D,0,0,D
+JPN,2011-08-20,11:00,Kashiwa Reysol,Avispa Fukuoka,3,2,H,2,1,H
+JPN,2011-08-20,11:00,Yokohama F. Marinos,Júbilo Iwata,1,0,H,0,0,D
+JPN,2011-08-20,11:00,Nagoya Grampus,Vegalta Sendai,0,1,A,0,1,A
+JPN,2011-08-20,11:00,Vissel Kobe,Albirex Niigata,2,1,H,1,1,D
+JPN,2011-08-24,11:00,Montedio Yamagata,Shimizu S-Pulse,1,1,D,0,0,D
+JPN,2011-08-24,11:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,1,D,0,0,D
+JPN,2011-08-24,11:00,Kawasaki Frontale,Nagoya Grampus,1,2,A,0,0,D
+JPN,2011-08-24,11:00,Ventforet Kofu,Kashima Antlers,1,1,D,0,0,D
+JPN,2011-08-24,11:00,Albirex Niigata,Omiya Ardija,0,0,D,0,0,D
+JPN,2011-08-24,11:00,Júbilo Iwata,Vegalta Sendai,1,1,D,0,0,D
+JPN,2011-08-24,11:00,Gamba Osaka,Kashiwa Reysol,2,0,H,0,0,D
+JPN,2011-08-24,11:00,Avispa Fukuoka,Vissel Kobe,2,2,D,0,2,A
+JPN,2011-08-24,11:30,Yokohama F. Marinos,Cerezo Osaka,2,1,H,2,0,H
+JPN,2011-08-27,11:00,Vegalta Sendai,Montedio Yamagata,2,1,H,2,1,H
+JPN,2011-08-27,11:00,Omiya Ardija,Júbilo Iwata,2,0,H,0,0,D
+JPN,2011-08-27,11:00,Shimizu S-Pulse,Yokohama F. Marinos,0,0,D,0,0,D
+JPN,2011-08-27,11:00,Sanfrecce Hiroshima,Albirex Niigata,1,0,H,0,0,D
+JPN,2011-08-28,10:00,Kashiwa Reysol,Kawasaki Frontale,3,2,H,0,0,D
+JPN,2011-08-28,10:00,Cerezo Osaka,Urawa Red Diamonds,3,1,H,0,0,D
+JPN,2011-08-28,10:00,Vissel Kobe,Gamba Osaka,0,4,A,0,1,A
+JPN,2011-08-28,10:30,Kashima Antlers,Avispa Fukuoka,6,0,H,2,0,H
+JPN,2011-08-28,11:00,Nagoya Grampus,Ventforet Kofu,4,1,H,3,1,H
+JPN,2011-09-10,10:00,Cerezo Osaka,Sanfrecce Hiroshima,5,4,H,0,3,A
+JPN,2011-09-10,10:00,Avispa Fukuoka,Yokohama F. Marinos,0,1,A,0,1,A
+JPN,2011-09-10,11:00,Kashiwa Reysol,Nagoya Grampus,2,1,H,0,1,A
+JPN,2011-09-10,11:00,Albirex Niigata,Kashima Antlers,2,2,D,1,0,H
+JPN,2011-09-10,11:00,Júbilo Iwata,Shimizu S-Pulse,2,1,H,1,0,H
+JPN,2011-09-10,11:00,Gamba Osaka,Omiya Ardija,2,0,H,1,0,H
+JPN,2011-09-11,10:00,Urawa Red Diamonds,Montedio Yamagata,0,1,A,0,1,A
+JPN,2011-09-11,10:00,Ventforet Kofu,Vegalta Sendai,1,2,A,0,0,D
+JPN,2011-09-11,11:00,Kawasaki Frontale,Vissel Kobe,0,3,A,0,1,A
+JPN,2011-09-17,06:00,Shimizu S-Pulse,Urawa Red Diamonds,1,0,H,0,0,D
+JPN,2011-09-17,10:30,Ventforet Kofu,Avispa Fukuoka,2,1,H,2,0,H
+JPN,2011-09-17,11:00,Vegalta Sendai,Albirex Niigata,2,0,H,0,0,D
+JPN,2011-09-17,11:00,Montedio Yamagata,Kawasaki Frontale,0,1,A,0,0,D
+JPN,2011-09-17,11:00,Vissel Kobe,Kashiwa Reysol,0,4,A,0,1,A
+JPN,2011-09-17,11:00,Sanfrecce Hiroshima,Júbilo Iwata,3,1,H,2,1,H
+JPN,2011-09-18,10:00,Yokohama F. Marinos,Gamba Osaka,1,1,D,1,0,H
+JPN,2011-09-18,10:30,Kashima Antlers,Nagoya Grampus,1,1,D,0,0,D
+JPN,2011-09-18,11:00,Omiya Ardija,Cerezo Osaka,0,0,D,0,0,D
+JPN,2011-09-23,06:00,Nagoya Grampus,Vissel Kobe,3,1,H,1,1,D
+JPN,2011-09-23,10:00,Cerezo Osaka,Montedio Yamagata,6,0,H,2,0,H
+JPN,2011-09-24,07:00,Yokohama F. Marinos,Vegalta Sendai,1,3,A,1,2,A
+JPN,2011-09-24,08:00,Kashima Antlers,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2011-09-24,10:00,Gamba Osaka,Ventforet Kofu,0,2,A,0,0,D
+JPN,2011-09-24,11:00,Kawasaki Frontale,Shimizu S-Pulse,1,1,D,0,0,D
+JPN,2011-09-24,11:00,Júbilo Iwata,Albirex Niigata,1,0,H,0,0,D
+JPN,2011-09-25,07:00,Kashiwa Reysol,Omiya Ardija,1,3,A,0,1,A
+JPN,2011-09-25,08:00,Avispa Fukuoka,Sanfrecce Hiroshima,2,1,H,1,0,H
+JPN,2011-10-01,05:00,Montedio Yamagata,Júbilo Iwata,1,1,D,1,0,H
+JPN,2011-10-01,05:00,Ventforet Kofu,Kawasaki Frontale,0,1,A,0,1,A
+JPN,2011-10-01,05:30,Sanfrecce Hiroshima,Vissel Kobe,1,0,H,0,0,D
+JPN,2011-10-01,07:00,Albirex Niigata,Yokohama F. Marinos,4,2,H,1,0,H
+JPN,2011-10-01,08:00,Omiya Ardija,Avispa Fukuoka,0,2,A,0,0,D
+JPN,2011-10-02,06:00,Kashima Antlers,Kashiwa Reysol,0,1,A,0,1,A
+JPN,2011-10-02,07:00,Vegalta Sendai,Cerezo Osaka,2,1,H,2,0,H
+JPN,2011-10-02,07:00,Shimizu S-Pulse,Nagoya Grampus,2,0,H,0,0,D
+JPN,2011-10-02,09:00,Gamba Osaka,Urawa Red Diamonds,1,0,H,1,0,H
+JPN,2011-10-15,05:00,Cerezo Osaka,Ventforet Kofu,0,4,A,0,2,A
+JPN,2011-10-15,06:00,Júbilo Iwata,Kashima Antlers,1,2,A,0,0,D
+JPN,2011-10-15,07:00,Yokohama F. Marinos,Sanfrecce Hiroshima,1,1,D,0,0,D
+JPN,2011-10-15,08:00,Urawa Red Diamonds,Omiya Ardija,0,1,A,0,0,D
+JPN,2011-10-15,08:00,Nagoya Grampus,Gamba Osaka,4,1,H,1,1,D
+JPN,2011-10-15,08:00,Vissel Kobe,Shimizu S-Pulse,1,1,D,0,0,D
+JPN,2011-10-15,08:00,Avispa Fukuoka,Vegalta Sendai,0,3,A,0,1,A
+JPN,2011-10-16,06:00,Kashiwa Reysol,Montedio Yamagata,1,0,H,1,0,H
+JPN,2011-10-16,07:00,Kawasaki Frontale,Albirex Niigata,1,2,A,0,0,D
+JPN,2011-10-22,06:00,Vegalta Sendai,Kawasaki Frontale,0,0,D,0,0,D
+JPN,2011-10-22,06:00,Montedio Yamagata,Gamba Osaka,0,5,A,0,2,A
+JPN,2011-10-22,06:00,Omiya Ardija,Nagoya Grampus,2,3,A,0,1,A
+JPN,2011-10-22,06:00,Yokohama F. Marinos,Urawa Red Diamonds,1,2,A,1,0,H
+JPN,2011-10-22,06:00,Sanfrecce Hiroshima,Kashiwa Reysol,1,3,A,0,0,D
+JPN,2011-10-22,09:00,Kashima Antlers,Vissel Kobe,1,1,D,0,0,D
+JPN,2011-10-23,05:00,Shimizu S-Pulse,Ventforet Kofu,3,0,H,2,0,H
+JPN,2011-10-23,06:00,Júbilo Iwata,Cerezo Osaka,0,4,A,0,1,A
+JPN,2011-10-23,06:00,Albirex Niigata,Avispa Fukuoka,3,1,H,1,0,H
+JPN,2011-11-03,05:00,Kashiwa Reysol,Albirex Niigata,4,0,H,2,0,H
+JPN,2011-11-03,05:00,Ventforet Kofu,Yokohama F. Marinos,1,2,A,0,0,D
+JPN,2011-11-03,05:00,Nagoya Grampus,Cerezo Osaka,3,1,H,2,1,H
+JPN,2011-11-03,05:00,Gamba Osaka,Kashima Antlers,1,0,H,0,0,D
+JPN,2011-11-03,05:00,Kawasaki Frontale,Omiya Ardija,0,1,A,0,1,A
+JPN,2011-11-03,08:00,Vegalta Sendai,Sanfrecce Hiroshima,0,0,D,0,0,D
+JPN,2011-11-03,08:00,Urawa Red Diamonds,Júbilo Iwata,0,3,A,0,1,A
+JPN,2011-11-03,08:00,Avispa Fukuoka,Shimizu S-Pulse,2,2,D,0,0,D
+JPN,2011-11-03,08:00,Vissel Kobe,Montedio Yamagata,2,0,H,2,0,H
+JPN,2011-11-19,05:00,Urawa Red Diamonds,Vegalta Sendai,0,0,D,0,0,D
+JPN,2011-11-19,05:00,Yokohama F. Marinos,Nagoya Grampus,1,2,A,0,1,A
+JPN,2011-11-19,05:00,Albirex Niigata,Gamba Osaka,2,2,D,1,0,H
+JPN,2011-11-19,05:00,Júbilo Iwata,Ventforet Kofu,2,1,H,2,1,H
+JPN,2011-11-19,05:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,3,A,1,1,D
+JPN,2011-11-19,08:00,Montedio Yamagata,Avispa Fukuoka,0,5,A,0,3,A
+JPN,2011-11-19,08:00,Omiya Ardija,Kashima Antlers,1,1,D,0,0,D
+JPN,2011-11-20,04:00,Shimizu S-Pulse,Kashiwa Reysol,1,2,A,1,0,H
+JPN,2011-11-20,07:00,Cerezo Osaka,Vissel Kobe,0,3,A,0,1,A
+JPN,2011-11-26,05:00,Kashima Antlers,Shimizu S-Pulse,3,0,H,0,0,D
+JPN,2011-11-26,05:00,Kashiwa Reysol,Cerezo Osaka,1,1,D,0,0,D
+JPN,2011-11-26,05:00,Kawasaki Frontale,Yokohama F. Marinos,3,0,H,0,0,D
+JPN,2011-11-26,05:00,Nagoya Grampus,Montedio Yamagata,3,0,H,3,0,H
+JPN,2011-11-26,05:00,Gamba Osaka,Vegalta Sendai,1,0,H,1,0,H
+JPN,2011-11-26,08:30,Sanfrecce Hiroshima,Omiya Ardija,4,2,H,2,0,H
+JPN,2011-11-26,08:30,Avispa Fukuoka,Urawa Red Diamonds,1,2,A,1,1,D
+JPN,2011-11-27,04:00,Ventforet Kofu,Albirex Niigata,3,0,H,1,0,H
+JPN,2011-11-27,04:00,Vissel Kobe,Júbilo Iwata,3,1,H,2,0,H
+JPN,2011-12-03,06:30,Vegalta Sendai,Vissel Kobe,2,0,H,1,0,H
+JPN,2011-12-03,06:30,Montedio Yamagata,Sanfrecce Hiroshima,1,3,A,1,0,H
+JPN,2011-12-03,06:30,Urawa Red Diamonds,Kashiwa Reysol,1,3,A,0,2,A
+JPN,2011-12-03,06:30,Omiya Ardija,Ventforet Kofu,3,1,H,2,1,H
+JPN,2011-12-03,06:30,Yokohama F. Marinos,Kashima Antlers,1,1,D,0,1,A
+JPN,2011-12-03,06:30,Albirex Niigata,Nagoya Grampus,0,1,A,0,0,D
+JPN,2011-12-03,06:30,Shimizu S-Pulse,Gamba Osaka,1,3,A,1,2,A
+JPN,2011-12-03,06:30,Júbilo Iwata,Kawasaki Frontale,2,1,H,2,0,H
+JPN,2011-12-03,06:30,Cerezo Osaka,Avispa Fukuoka,7,1,H,4,1,H

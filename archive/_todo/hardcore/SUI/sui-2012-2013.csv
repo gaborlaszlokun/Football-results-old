@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SUI,2012-07-13,18:45,Servette Genève,FC Basel,0,1,A,0,0,D
+SUI,2012-07-14,18:45,FC Thun,FC Lausanne-Sport,0,0,D,0,0,D
+SUI,2012-07-15,12:45,FC Luzern,FC Zürich,1,1,D,0,1,A
+SUI,2012-07-15,12:45,Grasshopper Club Zürich,FC Sion,0,2,A,0,1,A
+SUI,2012-07-15,15:00,FC St. Gallen,BSC Young Boys,1,1,D,0,1,A
+SUI,2012-07-21,18:45,FC Basel,FC Luzern,2,2,D,0,1,A
+SUI,2012-07-21,18:45,FC Lausanne-Sport,FC St. Gallen,0,1,A,0,1,A
+SUI,2012-07-22,12:45,BSC Young Boys,Grasshopper Club Zürich,0,1,A,0,0,D
+SUI,2012-07-22,12:45,FC Sion,Servette Genève,1,0,H,0,0,D
+SUI,2012-07-22,15:00,FC Zürich,FC Thun,0,2,A,0,1,A
+SUI,2012-07-28,18:45,Grasshopper Club Zürich,FC Basel,2,2,D,1,1,D
+SUI,2012-07-28,18:45,FC St. Gallen,FC Zürich,3,1,H,2,1,H
+SUI,2012-07-29,12:45,BSC Young Boys,FC Thun,3,0,H,2,0,H
+SUI,2012-07-29,12:45,FC Lausanne-Sport,Servette Genève,5,1,H,2,1,H
+SUI,2012-07-29,15:00,FC Luzern,FC Sion,0,3,A,0,1,A
+SUI,2012-08-04,18:45,FC Sion,FC Basel,1,1,D,0,0,D
+SUI,2012-08-04,18:45,FC St. Gallen,Grasshopper Club Zürich,1,1,D,0,1,A
+SUI,2012-08-05,12:45,FC Zürich,FC Lausanne-Sport,4,0,H,2,0,H
+SUI,2012-08-05,12:45,FC Thun,FC Luzern,2,1,H,1,0,H
+SUI,2012-08-05,15:00,Servette Genève,BSC Young Boys,1,1,D,1,1,D
+SUI,2012-08-11,18:45,FC Luzern,FC St. Gallen,1,1,D,0,0,D
+SUI,2012-08-11,18:45,FC Lausanne-Sport,FC Sion,0,2,A,0,1,A
+SUI,2012-08-12,12:45,BSC Young Boys,FC Zürich,4,1,H,2,1,H
+SUI,2012-08-12,12:45,Grasshopper Club Zürich,Servette Genève,1,0,H,0,0,D
+SUI,2012-08-12,15:00,FC Basel,FC Thun,3,1,H,3,1,H
+SUI,2012-08-18,18:45,FC Thun,FC St. Gallen,0,1,A,0,0,D
+SUI,2012-08-18,18:45,FC Basel,FC Lausanne-Sport,2,0,H,1,0,H
+SUI,2012-08-19,12:45,FC Sion,BSC Young Boys,1,0,H,1,0,H
+SUI,2012-08-19,12:45,Servette Genève,FC Zürich,1,1,D,1,1,D
+SUI,2012-08-19,15:00,FC Luzern,Grasshopper Club Zürich,0,2,A,0,1,A
+SUI,2012-08-25,18:45,FC St. Gallen,FC Basel,2,1,H,0,1,A
+SUI,2012-08-25,18:45,Grasshopper Club Zürich,FC Thun,1,0,H,1,0,H
+SUI,2012-08-26,12:45,FC Zürich,FC Sion,1,0,H,1,0,H
+SUI,2012-08-26,12:45,Servette Genève,FC Luzern,0,2,A,0,1,A
+SUI,2012-08-26,15:00,BSC Young Boys,FC Lausanne-Sport,0,0,D,0,0,D
+SUI,2012-09-01,18:45,FC Lausanne-Sport,Grasshopper Club Zürich,0,2,A,0,0,D
+SUI,2012-09-01,18:45,FC Sion,FC St. Gallen,0,3,A,0,2,A
+SUI,2012-09-02,12:45,FC Luzern,BSC Young Boys,1,2,A,0,1,A
+SUI,2012-09-02,12:45,FC Thun,Servette Genève,3,0,H,1,0,H
+SUI,2012-09-02,15:00,FC Basel,FC Zürich,0,0,D,0,0,D
+SUI,2012-09-22,18:45,FC Zürich,Grasshopper Club Zürich,0,1,A,0,0,D
+SUI,2012-09-22,18:45,FC Sion,FC Thun,2,1,H,1,1,D
+SUI,2012-09-23,12:45,FC Lausanne-Sport,FC Luzern,1,0,H,1,0,H
+SUI,2012-09-23,12:45,FC St. Gallen,Servette Genève,2,0,H,1,0,H
+SUI,2012-09-23,15:15,BSC Young Boys,FC Basel,1,1,D,0,0,D
+SUI,2012-09-26,18:45,Servette Genève,FC Lausanne-Sport,0,1,A,0,1,A
+SUI,2012-09-26,18:45,FC Zürich,FC St. Gallen,0,2,A,0,1,A
+SUI,2012-09-26,19:30,FC Basel,FC Sion,4,1,H,1,1,D
+SUI,2012-09-27,18:45,Grasshopper Club Zürich,FC Luzern,2,0,H,0,0,D
+SUI,2012-09-27,18:45,FC Thun,BSC Young Boys,2,1,H,0,0,D
+SUI,2012-09-29,18:45,FC Lausanne-Sport,FC Basel,1,1,D,0,1,A
+SUI,2012-09-30,12:45,FC Luzern,FC Thun,2,1,H,1,0,H
+SUI,2012-09-30,12:45,BSC Young Boys,Servette Genève,6,2,H,3,0,H
+SUI,2012-09-30,15:00,FC Sion,FC Zürich,2,2,D,2,0,H
+SUI,2012-10-01,18:45,Grasshopper Club Zürich,FC St. Gallen,1,0,H,1,0,H
+SUI,2012-10-06,18:45,FC St. Gallen,FC Lausanne-Sport,2,1,H,1,0,H
+SUI,2012-10-06,18:45,FC Thun,Grasshopper Club Zürich,2,3,A,1,0,H
+SUI,2012-10-07,12:45,FC Sion,FC Luzern,3,2,H,2,1,H
+SUI,2012-10-07,12:45,FC Zürich,BSC Young Boys,1,1,D,1,0,H
+SUI,2012-10-07,15:00,FC Basel,Servette Genève,3,2,H,2,1,H
+SUI,2012-10-20,18:45,Servette Genève,FC St. Gallen,1,1,D,1,1,D
+SUI,2012-10-20,18:45,FC Thun,FC Sion,1,1,D,1,0,H
+SUI,2012-10-21,12:45,FC Lausanne-Sport,FC Zürich,0,2,A,0,0,D
+SUI,2012-10-21,12:45,FC Luzern,FC Basel,1,0,H,0,0,D
+SUI,2012-10-21,15:00,Grasshopper Club Zürich,BSC Young Boys,3,2,H,3,0,H
+SUI,2012-10-27,18:45,FC Sion,FC Lausanne-Sport,1,1,D,0,0,D
+SUI,2012-10-28,12:45,Servette Genève,Grasshopper Club Zürich,2,0,H,1,0,H
+SUI,2012-10-28,13:30,FC St. Gallen,FC Thun,1,0,H,1,0,H
+SUI,2012-10-28,15:00,FC Zürich,FC Basel,1,2,A,0,2,A
+SUI,2012-11-03,18:45,FC Basel,BSC Young Boys,2,0,H,2,0,H
+SUI,2012-11-03,18:45,Grasshopper Club Zürich,FC Lausanne-Sport,1,1,D,1,1,D
+SUI,2012-11-04,12:45,FC Luzern,Servette Genève,1,1,D,0,0,D
+SUI,2012-11-04,12:45,FC Thun,FC Zürich,1,4,A,0,2,A
+SUI,2012-11-04,15:00,FC St. Gallen,FC Sion,0,3,A,0,1,A
+SUI,2012-11-17,18:45,FC Lausanne-Sport,FC Thun,3,0,H,2,0,H
+SUI,2012-11-17,18:45,FC Zürich,FC Luzern,0,2,A,0,1,A
+SUI,2012-11-18,12:45,Servette Genève,FC Sion,0,2,A,0,1,A
+SUI,2012-11-18,12:45,BSC Young Boys,FC St. Gallen,0,0,D,0,0,D
+SUI,2012-11-18,15:00,FC Basel,Grasshopper Club Zürich,4,0,H,1,0,H
+SUI,2012-11-24,18:45,FC Sion,Grasshopper Club Zürich,1,1,D,1,1,D
+SUI,2012-11-24,18:45,FC Zürich,Servette Genève,0,2,A,0,0,D
+SUI,2012-11-25,12:45,FC Lausanne-Sport,BSC Young Boys,2,1,H,1,0,H
+SUI,2012-11-25,12:45,FC St. Gallen,FC Luzern,1,1,D,0,1,A
+SUI,2012-11-25,15:00,FC Thun,FC Basel,3,2,H,1,2,A
+SUI,2012-11-28,19:15,BSC Young Boys,FC Luzern,2,1,H,2,1,H
+SUI,2012-12-01,18:45,FC Basel,FC St. Gallen,1,0,H,0,0,D
+SUI,2012-12-01,18:45,FC Luzern,FC Lausanne-Sport,0,0,D,0,0,D
+SUI,2012-12-02,12:45,Servette Genève,FC Thun,0,0,D,0,0,D
+SUI,2012-12-02,12:45,BSC Young Boys,FC Sion,3,1,H,1,1,D
+SUI,2012-12-02,15:00,Grasshopper Club Zürich,FC Zürich,1,0,H,1,0,H
+SUI,2013-02-09,18:45,Servette Genève,Grasshopper Club Zürich,0,1,A,0,0,D
+SUI,2013-02-09,18:45,BSC Young Boys,FC Luzern,3,2,H,2,0,H
+SUI,2013-02-10,12:45,FC Zürich,FC Lausanne-Sport,2,0,H,1,0,H
+SUI,2013-02-10,15:00,FC Basel,FC Sion,3,0,H,1,0,H
+SUI,2013-02-16,18:45,Grasshopper Club Zürich,BSC Young Boys,2,0,H,1,0,H
+SUI,2013-02-16,18:45,FC Sion,FC St. Gallen,1,0,H,0,0,D
+SUI,2013-02-17,12:45,FC Lausanne-Sport,FC Basel,1,2,A,0,2,A
+SUI,2013-02-17,12:45,FC Luzern,FC Zürich,1,1,D,1,0,H
+SUI,2013-02-17,15:00,FC Thun,Servette Genève,1,1,D,0,1,A
+SUI,2013-02-23,18:45,Servette Genève,FC Lausanne-Sport,1,0,H,0,0,D
+SUI,2013-02-23,18:45,FC Zürich,BSC Young Boys,4,0,H,1,0,H
+SUI,2013-02-24,12:45,FC St. Gallen,FC Luzern,4,0,H,2,0,H
+SUI,2013-02-24,12:45,FC Thun,FC Sion,4,0,H,3,0,H
+SUI,2013-02-24,15:00,FC Basel,Grasshopper Club Zürich,0,0,D,0,0,D
+SUI,2013-03-02,18:45,FC Luzern,FC Thun,0,0,D,0,0,D
+SUI,2013-03-02,18:45,FC Zürich,FC Sion,3,1,H,2,0,H
+SUI,2013-03-03,12:45,Servette Genève,FC Basel,1,2,A,1,1,D
+SUI,2013-03-03,12:45,BSC Young Boys,FC St. Gallen,2,0,H,0,0,D
+SUI,2013-03-03,15:00,FC Lausanne-Sport,Grasshopper Club Zürich,0,0,D,0,0,D
+SUI,2013-03-09,18:45,Grasshopper Club Zürich,FC St. Gallen,3,1,H,1,1,D
+SUI,2013-03-09,18:45,FC Luzern,Servette Genève,1,1,D,1,1,D
+SUI,2013-03-10,12:45,FC Sion,FC Lausanne-Sport,0,1,A,0,1,A
+SUI,2013-03-10,12:45,FC Thun,FC Zürich,0,4,A,0,1,A
+SUI,2013-03-10,15:00,FC Basel,BSC Young Boys,3,0,H,1,0,H
+SUI,2013-03-13,17:30,FC St. Gallen,FC Thun,0,0,D,0,0,D
+SUI,2013-03-16,18:45,Servette Genève,FC Zürich,1,2,A,0,0,D
+SUI,2013-03-16,18:45,FC St. Gallen,FC Lausanne-Sport,3,1,H,3,1,H
+SUI,2013-03-17,12:45,FC Basel,FC Thun,1,0,H,0,0,D
+SUI,2013-03-17,12:45,BSC Young Boys,FC Sion,0,0,D,0,0,D
+SUI,2013-03-17,15:00,Grasshopper Club Zürich,FC Luzern,0,0,D,0,0,D
+SUI,2013-03-30,16:45,FC Sion,Servette Genève,1,1,D,0,0,D
+SUI,2013-03-30,18:45,FC Thun,Grasshopper Club Zürich,1,0,H,1,0,H
+SUI,2013-03-30,18:45,FC Zürich,FC St. Gallen,1,3,A,0,0,D
+SUI,2013-04-01,12:45,FC Lausanne-Sport,BSC Young Boys,0,0,D,0,0,D
+SUI,2013-04-01,12:45,FC Luzern,FC Basel,0,4,A,0,1,A
+SUI,2013-04-06,18:45,FC Sion,FC Luzern,2,1,H,1,0,H
+SUI,2013-04-06,18:45,FC Zürich,Grasshopper Club Zürich,2,4,A,1,2,A
+SUI,2013-04-07,12:45,FC Lausanne-Sport,FC Thun,2,4,A,2,2,D
+SUI,2013-04-07,12:45,BSC Young Boys,Servette Genève,0,2,A,0,0,D
+SUI,2013-04-07,15:00,FC St. Gallen,FC Basel,1,1,D,0,0,D
+SUI,2013-04-13,18:45,FC Luzern,FC Lausanne-Sport,1,0,H,0,0,D
+SUI,2013-04-13,18:45,Servette Genève,FC St. Gallen,1,3,A,0,2,A
+SUI,2013-04-14,12:45,FC Basel,FC Zürich,3,1,H,0,1,A
+SUI,2013-04-14,12:45,BSC Young Boys,FC Thun,1,2,A,1,1,D
+SUI,2013-04-14,15:00,Grasshopper Club Zürich,FC Sion,1,1,D,1,0,H
+SUI,2013-04-20,18:45,FC Lausanne-Sport,FC St. Gallen,1,3,A,1,1,D
+SUI,2013-04-20,18:45,FC Zürich,Servette Genève,4,0,H,1,0,H
+SUI,2013-04-21,12:45,FC Luzern,Grasshopper Club Zürich,1,1,D,1,1,D
+SUI,2013-04-21,12:45,FC Thun,FC Basel,2,2,D,0,1,A
+SUI,2013-04-21,15:00,FC Sion,BSC Young Boys,0,0,D,0,0,D
+SUI,2013-04-27,18:45,Grasshopper Club Zürich,FC Thun,0,2,A,0,1,A
+SUI,2013-04-28,12:45,FC Basel,FC Luzern,0,3,A,0,2,A
+SUI,2013-04-28,12:45,BSC Young Boys,FC Lausanne-Sport,3,1,H,1,0,H
+SUI,2013-04-28,15:00,FC St. Gallen,FC Zürich,1,2,A,0,1,A
+SUI,2013-05-03,18:45,FC Lausanne-Sport,FC Zürich,1,1,D,1,0,H
+SUI,2013-05-04,18:45,Grasshopper Club Zürich,Servette Genève,2,0,H,0,0,D
+SUI,2013-05-04,18:45,FC St. Gallen,BSC Young Boys,3,1,H,0,1,A
+SUI,2013-05-05,12:45,FC Sion,FC Basel,0,1,A,0,1,A
+SUI,2013-05-05,15:00,FC Thun,FC Luzern,1,1,D,0,0,D
+SUI,2013-05-07,18:45,BSC Young Boys,Grasshopper Club Zürich,4,0,H,1,0,H
+SUI,2013-05-08,18:45,FC Lausanne-Sport,FC Sion,1,3,A,1,2,A
+SUI,2013-05-08,18:45,FC Luzern,FC St. Gallen,2,0,H,1,0,H
+SUI,2013-05-08,19:30,FC Zürich,FC Basel,3,1,H,0,1,A
+SUI,2013-05-09,18:45,Servette Genève,FC Thun,2,0,H,0,0,D
+SUI,2013-05-11,18:45,FC Luzern,BSC Young Boys,3,1,H,1,1,D
+SUI,2013-05-11,18:45,FC St. Gallen,FC Sion,5,0,H,3,0,H
+SUI,2013-05-12,12:45,FC Basel,Servette Genève,2,0,H,2,0,H
+SUI,2013-05-12,12:45,FC Thun,FC Lausanne-Sport,2,0,H,0,0,D
+SUI,2013-05-12,15:00,Grasshopper Club Zürich,FC Zürich,0,1,A,0,0,D
+SUI,2013-05-16,18:45,FC Basel,FC Lausanne-Sport,2,0,H,1,0,H
+SUI,2013-05-16,18:45,FC Sion,Grasshopper Club Zürich,0,4,A,0,2,A
+SUI,2013-05-17,19:30,FC Thun,FC St. Gallen,3,0,H,2,0,H
+SUI,2013-05-18,18:45,Servette Genève,BSC Young Boys,0,1,A,0,1,A
+SUI,2013-05-18,18:45,FC Zürich,FC Luzern,4,1,H,1,0,H
+SUI,2013-05-22,18:45,Servette Genève,FC Sion,4,0,H,2,0,H
+SUI,2013-05-25,16:45,FC Lausanne-Sport,FC Luzern,3,0,H,1,0,H
+SUI,2013-05-25,16:45,FC Sion,FC Thun,0,1,A,0,0,D
+SUI,2013-05-26,12:45,FC St. Gallen,Servette Genève,4,1,H,2,0,H
+SUI,2013-05-26,12:45,BSC Young Boys,FC Zürich,2,4,A,1,2,A
+SUI,2013-05-26,15:15,Grasshopper Club Zürich,FC Basel,1,0,H,0,0,D
+SUI,2013-05-29,19:30,FC Lausanne-Sport,Servette Genève,3,0,H,3,0,H
+SUI,2013-05-29,19:30,FC Luzern,FC Sion,2,0,H,1,0,H
+SUI,2013-05-29,19:30,FC St. Gallen,Grasshopper Club Zürich,1,2,A,1,1,D
+SUI,2013-05-29,19:30,BSC Young Boys,FC Basel,0,1,A,0,0,D
+SUI,2013-05-29,19:30,FC Zürich,FC Thun,2,0,H,0,0,D
+SUI,2013-06-01,19:30,FC Basel,FC St. Gallen,1,0,H,1,0,H
+SUI,2013-06-01,19:30,Grasshopper Club Zürich,FC Lausanne-Sport,4,1,H,1,0,H
+SUI,2013-06-01,19:30,Servette Genève,FC Luzern,3,4,A,3,1,H
+SUI,2013-06-01,19:30,FC Sion,FC Zürich,4,2,H,0,0,D
+SUI,2013-06-01,19:30,FC Thun,BSC Young Boys,2,2,D,0,1,A

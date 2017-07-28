@@ -1,0 +1,16 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2008-04-19,15:00,Celtic FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2008-04-20,14:00,Dundee United,Hibernian FC,1,1,D,0,0,D
+SCO,2008-04-26,12:30,Motherwell FC,Dundee United,2,2,D,1,1,D
+SCO,2008-04-26,15:00,Aberdeen FC,Hibernian FC,2,1,H,0,0,D
+SCO,2008-04-27,12:30,Celtic FC,Rangers FC,3,2,H,2,2,D
+SCO,2008-05-03,12:30,Motherwell FC,Celtic FC,1,2,A,0,0,D
+SCO,2008-05-03,15:00,Aberdeen FC,Dundee United,2,1,H,1,0,H
+SCO,2008-05-04,14:00,Hibernian FC,Rangers FC,0,0,D,0,0,D
+SCO,2008-05-07,19:45,Rangers FC,Motherwell FC,1,0,H,0,0,D
+SCO,2008-05-10,12:30,Rangers FC,Dundee United,3,1,H,2,0,H
+SCO,2008-05-10,15:00,Motherwell FC,Aberdeen FC,2,1,H,0,0,D
+SCO,2008-05-11,12:30,Celtic FC,Hibernian FC,2,0,H,1,0,H
+SCO,2008-05-22,19:45,Aberdeen FC,Rangers FC,2,0,H,0,0,D
+SCO,2008-05-22,19:45,Dundee United,Celtic FC,0,1,A,0,0,D
+SCO,2008-05-22,19:45,Hibernian FC,Motherwell FC,0,2,A,0,1,A

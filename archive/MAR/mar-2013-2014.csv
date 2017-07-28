@@ -1,241 +1,241 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-MAR,23/08/2013,20:00,FAR de Rabat,FUS de Rabat,0,1,A,NaN,NaN,NaN
-MAR,24/08/2013,17:00,AS Salé,Hassania US Agadir,2,2,D,NaN,NaN,NaN
-MAR,25/08/2013,17:00,Renaissance de Berkane,Moghreb de Tétouan,0,1,A,NaN,NaN,NaN
-MAR,25/08/2013,19:00,Raja Casablanca,Olympique de Safi,1,1,D,NaN,NaN,NaN
-MAR,25/08/2013,21:00,CR Al Hoceima,Maghrib de Fès,1,2,A,NaN,NaN,NaN
-MAR,26/08/2013,18:00,Difaâ d'El Jadida,Wydad AC,0,0,D,NaN,NaN,NaN
-MAR,26/08/2013,20:00,Wydad de Fès,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
-MAR,27/08/2013,19:00,KAC de Kénitra,Olympique de Khouribga,1,1,D,NaN,NaN,NaN
-MAR,30/08/2013,20:00,Olympique de Safi,Renaissance de Berkane,0,1,A,NaN,NaN,NaN
-MAR,31/08/2013,17:00,Maghrib de Fès,FAR de Rabat,1,1,D,NaN,NaN,NaN
-MAR,31/08/2013,20:00,Moghreb de Tétouan,CR Al Hoceima,1,0,H,NaN,NaN,NaN
-MAR,01/09/2013,16:00,Hassania US Agadir,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
-MAR,01/09/2013,17:00,Kawkab AC Marrakech,AS Salé,1,0,H,NaN,NaN,NaN
-MAR,01/09/2013,18:00,Olympique de Khouribga,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,01/09/2013,20:00,Wydad AC,KAC de Kénitra,3,0,H,NaN,NaN,NaN
-MAR,04/09/2013,20:00,FUS de Rabat,Wydad de Fès,0,0,D,NaN,NaN,NaN
-MAR,20/09/2013,20:00,KAC de Kénitra,Raja Casablanca,1,1,D,NaN,NaN,NaN
-MAR,21/09/2013,15:00,Wydad de Fès,Maghrib de Fès,3,4,A,NaN,NaN,NaN
-MAR,21/09/2013,16:00,CR Al Hoceima,Olympique de Safi,1,1,D,NaN,NaN,NaN
-MAR,21/09/2013,16:30,Wydad AC,Hassania US Agadir,1,2,A,NaN,NaN,NaN
-MAR,22/09/2013,14:00,Difaâ d'El Jadida,Kawkab AC Marrakech,3,0,H,NaN,NaN,NaN
-MAR,22/09/2013,16:00,Renaissance de Berkane,Olympique de Khouribga,1,1,D,NaN,NaN,NaN
-MAR,22/09/2013,19:00,FAR de Rabat,Moghreb de Tétouan,1,3,A,NaN,NaN,NaN
-MAR,13/10/2013,14:30,AS Salé,FUS de Rabat,1,1,D,NaN,NaN,NaN
-MAR,27/09/2013,20:00,Maghrib de Fès,AS Salé,0,2,A,NaN,NaN,NaN
-MAR,28/09/2013,15:00,Moghreb de Tétouan,Wydad de Fès,1,0,H,NaN,NaN,NaN
-MAR,28/09/2013,19:00,Olympique de Safi,FAR de Rabat,1,2,A,NaN,NaN,NaN
-MAR,29/09/2013,15:00,Hassania US Agadir,KAC de Kénitra,2,2,D,NaN,NaN,NaN
-MAR,29/09/2013,15:00,Raja Casablanca,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,29/09/2013,17:00,Kawkab AC Marrakech,Wydad AC,2,0,H,NaN,NaN,NaN
-MAR,29/09/2013,19:00,Olympique de Khouribga,CR Al Hoceima,0,0,D,NaN,NaN,NaN
-MAR,30/09/2013,19:00,FUS de Rabat,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
-MAR,04/10/2013,19:30,Hassania US Agadir,Kawkab AC Marrakech,3,4,A,NaN,NaN,NaN
-MAR,05/10/2013,15:00,FAR de Rabat,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
-MAR,05/10/2013,17:00,Wydad de Fès,Olympique de Safi,1,3,A,NaN,NaN,NaN
-MAR,05/10/2013,19:00,KAC de Kénitra,Renaissance de Berkane,2,0,H,NaN,NaN,NaN
-MAR,06/10/2013,15:00,AS Salé,Moghreb de Tétouan,0,1,A,NaN,NaN,NaN
-MAR,06/10/2013,18:00,CR Al Hoceima,Raja Casablanca,0,2,A,NaN,NaN,NaN
-MAR,07/10/2013,16:30,Difaâ d'El Jadida,Maghrib de Fès,1,0,H,NaN,NaN,NaN
-MAR,23/10/2013,19:30,Wydad AC,FUS de Rabat,2,0,H,NaN,NaN,NaN
-MAR,25/10/2013,19:30,Olympique de Khouribga,Wydad de Fès,2,1,H,NaN,NaN,NaN
-MAR,26/10/2013,15:00,Renaissance de Berkane,CR Al Hoceima,0,2,A,NaN,NaN,NaN
-MAR,27/10/2013,14:30,Kawkab AC Marrakech,KAC de Kénitra,1,0,H,NaN,NaN,NaN
-MAR,27/10/2013,14:30,Moghreb de Tétouan,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
-MAR,27/10/2013,16:00,Raja Casablanca,FAR de Rabat,1,0,H,NaN,NaN,NaN
-MAR,27/10/2013,16:30,Olympique de Safi,AS Salé,1,1,D,NaN,NaN,NaN
-MAR,27/10/2013,19:00,Maghrib de Fès,Wydad AC,0,1,A,NaN,NaN,NaN
-MAR,28/10/2013,19:00,FUS de Rabat,Hassania US Agadir,2,2,D,NaN,NaN,NaN
-MAR,01/11/2013,19:00,FAR de Rabat,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,02/11/2013,15:00,Kawkab AC Marrakech,FUS de Rabat,1,1,D,NaN,NaN,NaN
-MAR,02/11/2013,15:00,AS Salé,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
-MAR,02/11/2013,19:00,Wydad AC,Moghreb de Tétouan,2,2,D,NaN,NaN,NaN
-MAR,03/11/2013,14:30,Difaâ d'El Jadida,Olympique de Safi,1,1,D,NaN,NaN,NaN
-MAR,03/11/2013,14:30,KAC de Kénitra,CR Al Hoceima,1,0,H,NaN,NaN,NaN
-MAR,03/11/2013,16:30,Hassania US Agadir,Maghrib de Fès,2,1,H,NaN,NaN,NaN
-MAR,03/11/2013,19:00,Wydad de Fès,Raja Casablanca,0,1,A,NaN,NaN,NaN
-MAR,08/11/2013,19:00,Maghrib de Fès,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
-MAR,09/11/2013,15:00,Olympique de Safi,Wydad AC,2,2,D,NaN,NaN,NaN
-MAR,09/11/2013,15:00,Renaissance de Berkane,Wydad de Fès,2,0,H,NaN,NaN,NaN
-MAR,09/11/2013,19:00,Raja Casablanca,AS Salé,2,1,H,NaN,NaN,NaN
-MAR,10/11/2013,13:00,FUS de Rabat,KAC de Kénitra,1,1,D,NaN,NaN,NaN
-MAR,10/11/2013,14:00,Moghreb de Tétouan,Hassania US Agadir,1,1,D,NaN,NaN,NaN
-MAR,10/11/2013,16:00,Olympique de Khouribga,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
-MAR,10/11/2013,18:30,CR Al Hoceima,FAR de Rabat,2,1,H,NaN,NaN,NaN
-MAR,15/11/2013,19:00,Wydad de Fès,CR Al Hoceima,0,0,D,NaN,NaN,NaN
-MAR,16/11/2013,16:00,Hassania US Agadir,Olympique de Safi,2,1,H,NaN,NaN,NaN
-MAR,17/11/2013,15:00,Kawkab AC Marrakech,Moghreb de Tétouan,2,1,H,NaN,NaN,NaN
-MAR,17/11/2013,15:00,AS Salé,Renaissance de Berkane,1,2,A,NaN,NaN,NaN
-MAR,17/11/2013,17:00,KAC de Kénitra,FAR de Rabat,0,0,D,NaN,NaN,NaN
-MAR,17/11/2013,19:00,Wydad AC,Olympique de Khouribga,3,1,H,NaN,NaN,NaN
-MAR,20/11/2013,13:00,FUS de Rabat,Maghrib de Fès,3,0,H,NaN,NaN,NaN
-MAR,28/11/2013,15:00,Difaâ d'El Jadida,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,22/11/2013,19:00,CR Al Hoceima,AS Salé,1,0,H,NaN,NaN,NaN
-MAR,23/11/2013,14:30,FAR de Rabat,Wydad de Fès,0,1,A,NaN,NaN,NaN
-MAR,23/11/2013,17:00,Olympique de Safi,Kawkab AC Marrakech,1,0,H,NaN,NaN,NaN
-MAR,23/11/2013,19:00,Olympique de Khouribga,Hassania US Agadir,0,0,D,NaN,NaN,NaN
-MAR,24/11/2013,13:00,Renaissance de Berkane,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
-MAR,24/11/2013,15:00,Raja Casablanca,Wydad AC,1,1,D,NaN,NaN,NaN
-MAR,24/11/2013,17:30,Maghrib de Fès,KAC de Kénitra,0,1,A,NaN,NaN,NaN
-MAR,25/11/2013,19:00,Moghreb de Tétouan,FUS de Rabat,0,0,D,NaN,NaN,NaN
-MAR,29/11/2013,19:00,Wydad AC,Renaissance de Berkane,3,2,H,NaN,NaN,NaN
-MAR,30/11/2013,14:30,AS Salé,FAR de Rabat,1,2,A,NaN,NaN,NaN
-MAR,30/11/2013,18:00,FUS de Rabat,Olympique de Safi,1,0,H,NaN,NaN,NaN
-MAR,01/12/2013,15:00,Kawkab AC Marrakech,Olympique de Khouribga,0,0,D,NaN,NaN,NaN
-MAR,01/12/2013,15:00,KAC de Kénitra,Wydad de Fès,1,0,H,NaN,NaN,NaN
-MAR,01/12/2013,18:30,Maghrib de Fès,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
-MAR,02/12/2013,15:00,Difaâ d'El Jadida,CR Al Hoceima,2,1,H,NaN,NaN,NaN
-MAR,03/12/2013,15:00,Hassania US Agadir,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,06/12/2013,19:00,Olympique de Safi,Maghrib de Fès,1,1,D,NaN,NaN,NaN
-MAR,07/12/2013,15:00,Moghreb de Tétouan,KAC de Kénitra,0,0,D,NaN,NaN,NaN
-MAR,07/12/2013,19:00,Wydad de Fès,AS Salé,1,0,H,NaN,NaN,NaN
-MAR,08/12/2013,14:00,Renaissance de Berkane,Hassania US Agadir,1,0,H,NaN,NaN,NaN
-MAR,08/12/2013,14:00,CR Al Hoceima,Wydad AC,2,0,H,NaN,NaN,NaN
-MAR,08/12/2013,15:00,FAR de Rabat,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
-MAR,08/12/2013,19:00,Olympique de Khouribga,FUS de Rabat,0,3,A,NaN,NaN,NaN
-MAR,02/01/2014,19:00,Raja Casablanca,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
-MAR,13/12/2013,19:00,KAC de Kénitra,AS Salé,1,1,D,NaN,NaN,NaN
-MAR,15/12/2013,14:30,Kawkab AC Marrakech,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,15/12/2013,15:00,Wydad AC,FAR de Rabat,2,1,H,NaN,NaN,NaN
-MAR,15/12/2013,15:00,Difaâ d'El Jadida,Wydad de Fès,4,1,H,NaN,NaN,NaN
-MAR,15/12/2013,19:00,Moghreb de Tétouan,Olympique de Safi,2,1,H,NaN,NaN,NaN
-MAR,16/12/2013,19:00,Maghrib de Fès,Olympique de Khouribga,3,1,H,NaN,NaN,NaN
-MAR,02/01/2014,14:30,Hassania US Agadir,CR Al Hoceima,1,0,H,NaN,NaN,NaN
-MAR,01/02/2014,17:00,FUS de Rabat,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,19/02/2013,18:00,Raja Casablanca,Maghrib de Fès,1,0,H,NaN,NaN,NaN
-MAR,21/12/2013,14:00,CR Al Hoceima,Kawkab AC Marrakech,0,1,A,NaN,NaN,NaN
-MAR,22/12/2013,14:30,Renaissance de Berkane,FUS de Rabat,1,1,D,NaN,NaN,NaN
-MAR,22/12/2013,14:30,AS Salé,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
-MAR,22/12/2013,15:00,FAR de Rabat,Hassania US Agadir,2,0,H,NaN,NaN,NaN
-MAR,22/12/2013,18:00,KAC de Kénitra,Olympique de Safi,1,1,D,NaN,NaN,NaN
-MAR,23/12/2013,17:00,Olympique de Khouribga,Moghreb de Tétouan,1,2,A,NaN,NaN,NaN
-MAR,23/12/2013,19:00,Wydad de Fès,Wydad AC,0,2,A,NaN,NaN,NaN
-MAR,27/12/2013,19:00,FUS de Rabat,CR Al Hoceima,2,0,H,NaN,NaN,NaN
-MAR,28/12/2013,14:30,Moghreb de Tétouan,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,28/12/2013,16:00,Hassania US Agadir,Wydad de Fès,4,3,H,NaN,NaN,NaN
-MAR,28/12/2013,19:00,Maghrib de Fès,Renaissance de Berkane,1,4,A,NaN,NaN,NaN
-MAR,29/12/2013,14:00,Difaâ d'El Jadida,KAC de Kénitra,2,1,H,NaN,NaN,NaN
-MAR,29/12/2013,15:00,Olympique de Safi,Olympique de Khouribga,2,0,H,NaN,NaN,NaN
-MAR,29/12/2013,16:00,Kawkab AC Marrakech,FAR de Rabat,1,0,H,NaN,NaN,NaN
-MAR,29/12/2013,18:30,Wydad AC,AS Salé,1,1,D,NaN,NaN,NaN
-MAR,08/02/2014,13:00,Renaissance de Berkane,Olympique de Safi,0,0,D,NaN,NaN,NaN
-MAR,08/02/2014,19:00,Wydad de Fès,FUS de Rabat,0,1,A,NaN,NaN,NaN
-MAR,09/02/2014,15:00,AS Salé,Kawkab AC Marrakech,0,3,A,NaN,NaN,NaN
-MAR,09/02/2014,16:00,KAC de Kénitra,Wydad AC,1,1,D,NaN,NaN,NaN
-MAR,09/02/2014,18:30,CR Al Hoceima,Moghreb de Tétouan,2,1,H,NaN,NaN,NaN
-MAR,12/03/2014,15:00,Difaâ d'El Jadida,Hassania US Agadir,1,0,H,NaN,NaN,NaN
-MAR,12/03/2014,19:00,Raja Casablanca,Olympique de Khouribga,1,0,H,NaN,NaN,NaN
-MAR,13/03/2014,15:30,FAR de Rabat,Maghrib de Fès,2,1,H,NaN,NaN,NaN
-MAR,15/02/2014,15:00,Maghrib de Fès,Wydad de Fès,0,0,D,NaN,NaN,NaN
-MAR,15/02/2014,19:00,Hassania US Agadir,Wydad AC,1,0,H,NaN,NaN,NaN
-MAR,16/02/2014,15:00,FUS de Rabat,AS Salé,1,0,H,NaN,NaN,NaN
-MAR,16/02/2014,15:00,Olympique de Safi,CR Al Hoceima,1,2,A,NaN,NaN,NaN
-MAR,16/02/2014,18:30,Olympique de Khouribga,Renaissance de Berkane,1,0,H,NaN,NaN,NaN
-MAR,19/03/2014,19:00,Raja Casablanca,KAC de Kénitra,5,0,H,NaN,NaN,NaN
-MAR,02/04/2014,18:00,Moghreb de Tétouan,FAR de Rabat,1,1,D,NaN,NaN,NaN
-MAR,02/04/2014,20:00,Kawkab AC Marrakech,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
-MAR,21/02/2014,19:00,Wydad de Fès,Moghreb de Tétouan,1,2,A,NaN,NaN,NaN
-MAR,22/02/2014,14:00,CR Al Hoceima,Olympique de Khouribga,1,0,H,NaN,NaN,NaN
-MAR,22/02/2014,16:00,Wydad AC,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
-MAR,22/02/2014,16:00,KAC de Kénitra,Hassania US Agadir,0,0,D,NaN,NaN,NaN
-MAR,23/02/2014,13:00,AS Salé,Maghrib de Fès,1,0,H,NaN,NaN,NaN
-MAR,23/02/2014,15:00,Renaissance de Berkane,Raja Casablanca,1,1,D,NaN,NaN,NaN
-MAR,23/02/2014,15:00,Difaâ d'El Jadida,FUS de Rabat,1,0,H,NaN,NaN,NaN
-MAR,23/02/2014,18:30,FAR de Rabat,Olympique de Safi,3,2,H,NaN,NaN,NaN
-MAR,01/03/2014,15:00,Moghreb de Tétouan,AS Salé,2,1,H,NaN,NaN,NaN
-MAR,01/03/2014,15:00,Kawkab AC Marrakech,Hassania US Agadir,2,0,H,NaN,NaN,NaN
-MAR,02/03/2014,14:00,Renaissance de Berkane,KAC de Kénitra,0,0,D,NaN,NaN,NaN
-MAR,02/03/2014,15:00,Olympique de Safi,Wydad de Fès,0,1,A,NaN,NaN,NaN
-MAR,02/03/2014,16:00,FUS de Rabat,Wydad AC,0,0,D,NaN,NaN,NaN
-MAR,02/03/2014,18:30,Olympique de Khouribga,FAR de Rabat,0,1,A,NaN,NaN,NaN
-MAR,27/03/2014,19:00,Raja Casablanca,CR Al Hoceima,3,1,H,NaN,NaN,NaN
-MAR,09/04/2014,19:00,Maghrib de Fès,Difaâ d'El Jadida,2,2,D,NaN,NaN,NaN
-MAR,07/03/2014,16:00,Wydad de Fès,Olympique de Khouribga,3,0,H,NaN,NaN,NaN
-MAR,08/03/2014,14:00,KAC de Kénitra,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
-MAR,08/03/2014,16:00,Hassania US Agadir,FUS de Rabat,2,1,H,NaN,NaN,NaN
-MAR,09/03/2014,15:00,AS Salé,Olympique de Safi,0,0,D,NaN,NaN,NaN
-MAR,09/03/2014,18:30,CR Al Hoceima,Renaissance de Berkane,1,0,H,NaN,NaN,NaN
-MAR,16/04/2014,17:00,FAR de Rabat,Raja Casablanca,1,3,A,NaN,NaN,NaN
-MAR,23/04/2014,17:00,Wydad AC,Maghrib de Fès,0,0,D,NaN,NaN,NaN
-MAR,30/04/2014,19:00,Difaâ d'El Jadida,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
-MAR,14/03/2014,19:00,Moghreb de Tétouan,Wydad AC,1,0,H,NaN,NaN,NaN
-MAR,15/03/2014,15:00,CR Al Hoceima,KAC de Kénitra,0,1,A,NaN,NaN,NaN
-MAR,15/03/2014,19:00,FUS de Rabat,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
-MAR,16/03/2014,14:00,Renaissance de Berkane,FAR de Rabat,1,1,D,NaN,NaN,NaN
-MAR,16/03/2014,15:00,Olympique de Khouribga,AS Salé,1,1,D,NaN,NaN,NaN
-MAR,16/03/2014,16:00,Olympique de Safi,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
-MAR,16/03/2014,18:30,Raja Casablanca,Wydad de Fès,4,0,H,NaN,NaN,NaN
-MAR,17/03/2014,19:00,Maghrib de Fès,Hassania US Agadir,3,1,H,NaN,NaN,NaN
-MAR,22/03/2014,15:00,FAR de Rabat,CR Al Hoceima,1,1,D,NaN,NaN,NaN
-MAR,22/03/2014,15:00,Wydad de Fès,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,22/03/2014,19:00,Wydad AC,Olympique de Safi,1,0,H,NaN,NaN,NaN
-MAR,23/03/2014,14:00,AS Salé,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,23/03/2014,15:00,Kawkab AC Marrakech,Maghrib de Fès,1,0,H,NaN,NaN,NaN
-MAR,23/03/2014,16:00,KAC de Kénitra,FUS de Rabat,2,3,A,NaN,NaN,NaN
-MAR,23/03/2014,18:30,Hassania US Agadir,Moghreb de Tétouan,1,2,A,NaN,NaN,NaN
-MAR,07/05/2014,21:00,Difaâ d'El Jadida,Olympique de Khouribga,1,0,H,NaN,NaN,NaN
-MAR,29/03/2014,16:00,Maghrib de Fès,FUS de Rabat,1,1,D,NaN,NaN,NaN
-MAR,29/03/2014,19:00,Moghreb de Tétouan,Kawkab AC Marrakech,2,0,H,NaN,NaN,NaN
-MAR,30/03/2014,15:00,Renaissance de Berkane,AS Salé,2,2,D,NaN,NaN,NaN
-MAR,30/03/2014,15:00,FAR de Rabat,KAC de Kénitra,0,0,D,NaN,NaN,NaN
-MAR,30/03/2014,17:00,Olympique de Safi,Hassania US Agadir,1,0,H,NaN,NaN,NaN
-MAR,30/03/2014,19:00,Olympique de Khouribga,Wydad AC,0,2,A,NaN,NaN,NaN
-MAR,01/04/2014,17:00,CR Al Hoceima,Wydad de Fès,1,1,D,NaN,NaN,NaN
-MAR,11/05/2014,19:00,Raja Casablanca,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
-MAR,03/04/2014,17:00,Wydad AC,Raja Casablanca,0,2,A,NaN,NaN,NaN
-MAR,05/04/2014,18:30,KAC de Kénitra,Maghrib de Fès,0,1,A,NaN,NaN,NaN
-MAR,05/04/2014,20:30,Hassania US Agadir,Olympique de Khouribga,0,1,A,NaN,NaN,NaN
-MAR,06/04/2014,15:00,Difaâ d'El Jadida,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,06/04/2014,15:30,AS Salé,CR Al Hoceima,1,0,H,NaN,NaN,NaN
-MAR,06/04/2014,18:00,FUS de Rabat,Moghreb de Tétouan,1,0,H,NaN,NaN,NaN
-MAR,07/04/2014,17:00,Wydad de Fès,FAR de Rabat,1,1,D,NaN,NaN,NaN
-MAR,07/04/2014,19:00,Kawkab AC Marrakech,Olympique de Safi,1,1,D,NaN,NaN,NaN
-MAR,12/04/2014,15:00,FAR de Rabat,AS Salé,1,0,H,NaN,NaN,NaN
-MAR,12/04/2014,16:00,Renaissance de Berkane,Wydad AC,3,0,H,NaN,NaN,NaN
-MAR,12/04/2014,19:00,Raja Casablanca,Hassania US Agadir,3,1,H,NaN,NaN,NaN
-MAR,13/04/2014,15:00,Olympique de Khouribga,Kawkab AC Marrakech,0,4,A,NaN,NaN,NaN
-MAR,13/04/2014,15:00,Olympique de Safi,FUS de Rabat,1,0,H,NaN,NaN,NaN
-MAR,13/04/2014,17:00,CR Al Hoceima,Difaâ d'El Jadida,1,0,H,NaN,NaN,NaN
-MAR,13/04/2014,19:00,Wydad de Fès,KAC de Kénitra,2,3,A,NaN,NaN,NaN
-MAR,14/04/2014,19:00,Moghreb de Tétouan,Maghrib de Fès,1,1,D,NaN,NaN,NaN
-MAR,19/04/2014,15:30,AS Salé,Wydad de Fès,0,0,D,NaN,NaN,NaN
-MAR,19/04/2014,18:00,Wydad AC,CR Al Hoceima,2,0,H,NaN,NaN,NaN
-MAR,19/04/2014,20:00,Maghrib de Fès,Olympique de Safi,1,0,H,NaN,NaN,NaN
-MAR,20/04/2014,16:00,KAC de Kénitra,Moghreb de Tétouan,0,1,A,NaN,NaN,NaN
-MAR,20/04/2014,17:00,Kawkab AC Marrakech,Raja Casablanca,0,0,D,NaN,NaN,NaN
-MAR,20/04/2014,18:30,FUS de Rabat,Olympique de Khouribga,0,2,A,NaN,NaN,NaN
-MAR,21/04/2014,19:00,Hassania US Agadir,Renaissance de Berkane,2,2,D,NaN,NaN,NaN
-MAR,14/05/2014,19:00,Difaâ d'El Jadida,FAR de Rabat,1,1,D,NaN,NaN,NaN
-MAR,26/04/2014,15:00,Olympique de Safi,Moghreb de Tétouan,1,1,D,NaN,NaN,NaN
-MAR,26/04/2014,17:00,CR Al Hoceima,Hassania US Agadir,1,1,D,NaN,NaN,NaN
-MAR,26/04/2014,19:30,Raja Casablanca,FUS de Rabat,1,0,H,NaN,NaN,NaN
-MAR,27/04/2014,15:00,FAR de Rabat,Wydad AC,1,1,D,NaN,NaN,NaN
-MAR,27/04/2014,15:00,AS Salé,KAC de Kénitra,1,0,H,NaN,NaN,NaN
-MAR,27/04/2014,17:00,Renaissance de Berkane,Kawkab AC Marrakech,0,0,D,NaN,NaN,NaN
-MAR,27/04/2014,19:00,Olympique de Khouribga,Maghrib de Fès,2,1,H,NaN,NaN,NaN
-MAR,21/05/2014,19:00,Wydad de Fès,Difaâ d'El Jadida,0,0,D,NaN,NaN,NaN
-MAR,03/05/2014,16:00,Olympique de Safi,KAC de Kénitra,1,0,H,NaN,NaN,NaN
-MAR,03/05/2014,17:00,FUS de Rabat,Renaissance de Berkane,0,0,D,NaN,NaN,NaN
-MAR,03/05/2014,19:30,Wydad AC,Wydad de Fès,1,1,D,NaN,NaN,NaN
-MAR,04/05/2014,14:30,Moghreb de Tétouan,Olympique de Khouribga,2,0,H,NaN,NaN,NaN
-MAR,04/05/2014,17:00,Maghrib de Fès,Raja Casablanca,0,1,A,NaN,NaN,NaN
-MAR,04/05/2014,17:00,Difaâ d'El Jadida,AS Salé,3,2,H,NaN,NaN,NaN
-MAR,04/05/2014,19:00,Hassania US Agadir,FAR de Rabat,1,2,A,NaN,NaN,NaN
-MAR,05/05/2014,19:00,Kawkab AC Marrakech,CR Al Hoceima,1,2,A,NaN,NaN,NaN
-MAR,17/05/2014,15:00,CR Al Hoceima,FUS de Rabat,1,3,A,NaN,NaN,NaN
-MAR,17/05/2014,17:00,Wydad de Fès,Hassania US Agadir,2,1,H,NaN,NaN,NaN
-MAR,18/05/2014,16:00,AS Salé,Wydad AC,2,2,D,NaN,NaN,NaN
-MAR,18/05/2014,16:00,Renaissance de Berkane,Maghrib de Fès,0,0,D,NaN,NaN,NaN
-MAR,18/05/2014,16:00,Olympique de Khouribga,Olympique de Safi,2,1,H,NaN,NaN,NaN
-MAR,18/05/2014,16:00,KAC de Kénitra,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
-MAR,18/05/2014,17:00,Raja Casablanca,Moghreb de Tétouan,5,0,H,NaN,NaN,NaN
-MAR,19/05/2014,19:00,FAR de Rabat,Kawkab AC Marrakech,1,1,D,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Olympique de Safi,Raja Casablanca,1,0,H,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Hassania US Agadir,AS Salé,2,1,H,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Olympique de Khouribga,KAC de Kénitra,2,0,H,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Kawkab AC Marrakech,Wydad de Fès,2,2,D,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Maghrib de Fès,CR Al Hoceima,1,0,H,NaN,NaN,NaN
-MAR,25/05/2014,17:00,Moghreb de Tétouan,Renaissance de Berkane,2,1,H,NaN,NaN,NaN
-MAR,26/05/2014,18:00,FUS de Rabat,FAR de Rabat,2,1,H,NaN,NaN,NaN
-MAR,26/05/2014,19:00,Wydad AC,Difaâ d'El Jadida,1,1,D,NaN,NaN,NaN
+MAR,2013-02-19,18:00,Raja Casablanca,Maghrib de Fès,1,0,H,,,
+MAR,2013-08-23,20:00,FAR de Rabat,FUS de Rabat,0,1,A,,,
+MAR,2013-08-24,17:00,AS Salé,Hassania US Agadir,2,2,D,,,
+MAR,2013-08-25,17:00,Renaissance de Berkane,Moghreb de Tétouan,0,1,A,,,
+MAR,2013-08-25,19:00,Raja Casablanca,Olympique de Safi,1,1,D,,,
+MAR,2013-08-25,21:00,CR Al Hoceima,Maghrib de Fès,1,2,A,,,
+MAR,2013-08-26,18:00,Difaâ d'El Jadida,Wydad AC,0,0,D,,,
+MAR,2013-08-26,20:00,Wydad de Fès,Kawkab AC Marrakech,1,1,D,,,
+MAR,2013-08-27,19:00,KAC de Kénitra,Olympique de Khouribga,1,1,D,,,
+MAR,2013-08-30,20:00,Olympique de Safi,Renaissance de Berkane,0,1,A,,,
+MAR,2013-08-31,17:00,Maghrib de Fès,FAR de Rabat,1,1,D,,,
+MAR,2013-08-31,20:00,Moghreb de Tétouan,CR Al Hoceima,1,0,H,,,
+MAR,2013-09-01,16:00,Hassania US Agadir,Difaâ d'El Jadida,1,0,H,,,
+MAR,2013-09-01,17:00,Kawkab AC Marrakech,AS Salé,1,0,H,,,
+MAR,2013-09-01,18:00,Olympique de Khouribga,Raja Casablanca,1,0,H,,,
+MAR,2013-09-01,20:00,Wydad AC,KAC de Kénitra,3,0,H,,,
+MAR,2013-09-04,20:00,FUS de Rabat,Wydad de Fès,0,0,D,,,
+MAR,2013-09-20,20:00,KAC de Kénitra,Raja Casablanca,1,1,D,,,
+MAR,2013-09-21,15:00,Wydad de Fès,Maghrib de Fès,3,4,A,,,
+MAR,2013-09-21,16:00,CR Al Hoceima,Olympique de Safi,1,1,D,,,
+MAR,2013-09-21,16:30,Wydad AC,Hassania US Agadir,1,2,A,,,
+MAR,2013-09-22,14:00,Difaâ d'El Jadida,Kawkab AC Marrakech,3,0,H,,,
+MAR,2013-09-22,16:00,Renaissance de Berkane,Olympique de Khouribga,1,1,D,,,
+MAR,2013-09-22,19:00,FAR de Rabat,Moghreb de Tétouan,1,3,A,,,
+MAR,2013-09-27,20:00,Maghrib de Fès,AS Salé,0,2,A,,,
+MAR,2013-09-28,15:00,Moghreb de Tétouan,Wydad de Fès,1,0,H,,,
+MAR,2013-09-28,19:00,Olympique de Safi,FAR de Rabat,1,2,A,,,
+MAR,2013-09-29,15:00,Hassania US Agadir,KAC de Kénitra,2,2,D,,,
+MAR,2013-09-29,15:00,Raja Casablanca,Renaissance de Berkane,0,0,D,,,
+MAR,2013-09-29,17:00,Kawkab AC Marrakech,Wydad AC,2,0,H,,,
+MAR,2013-09-29,19:00,Olympique de Khouribga,CR Al Hoceima,0,0,D,,,
+MAR,2013-09-30,19:00,FUS de Rabat,Difaâ d'El Jadida,1,1,D,,,
+MAR,2013-10-04,19:30,Hassania US Agadir,Kawkab AC Marrakech,3,4,A,,,
+MAR,2013-10-05,15:00,FAR de Rabat,Olympique de Khouribga,0,0,D,,,
+MAR,2013-10-05,17:00,Wydad de Fès,Olympique de Safi,1,3,A,,,
+MAR,2013-10-05,19:00,KAC de Kénitra,Renaissance de Berkane,2,0,H,,,
+MAR,2013-10-06,15:00,AS Salé,Moghreb de Tétouan,0,1,A,,,
+MAR,2013-10-06,18:00,CR Al Hoceima,Raja Casablanca,0,2,A,,,
+MAR,2013-10-07,16:30,Difaâ d'El Jadida,Maghrib de Fès,1,0,H,,,
+MAR,2013-10-13,14:30,AS Salé,FUS de Rabat,1,1,D,,,
+MAR,2013-10-23,19:30,Wydad AC,FUS de Rabat,2,0,H,,,
+MAR,2013-10-25,19:30,Olympique de Khouribga,Wydad de Fès,2,1,H,,,
+MAR,2013-10-26,15:00,Renaissance de Berkane,CR Al Hoceima,0,2,A,,,
+MAR,2013-10-27,14:30,Kawkab AC Marrakech,KAC de Kénitra,1,0,H,,,
+MAR,2013-10-27,14:30,Moghreb de Tétouan,Difaâ d'El Jadida,0,0,D,,,
+MAR,2013-10-27,16:00,Raja Casablanca,FAR de Rabat,1,0,H,,,
+MAR,2013-10-27,16:30,Olympique de Safi,AS Salé,1,1,D,,,
+MAR,2013-10-27,19:00,Maghrib de Fès,Wydad AC,0,1,A,,,
+MAR,2013-10-28,19:00,FUS de Rabat,Hassania US Agadir,2,2,D,,,
+MAR,2013-11-01,19:00,FAR de Rabat,Renaissance de Berkane,0,0,D,,,
+MAR,2013-11-02,15:00,Kawkab AC Marrakech,FUS de Rabat,1,1,D,,,
+MAR,2013-11-02,15:00,AS Salé,Olympique de Khouribga,0,0,D,,,
+MAR,2013-11-02,19:00,Wydad AC,Moghreb de Tétouan,2,2,D,,,
+MAR,2013-11-03,14:30,Difaâ d'El Jadida,Olympique de Safi,1,1,D,,,
+MAR,2013-11-03,14:30,KAC de Kénitra,CR Al Hoceima,1,0,H,,,
+MAR,2013-11-03,16:30,Hassania US Agadir,Maghrib de Fès,2,1,H,,,
+MAR,2013-11-03,19:00,Wydad de Fès,Raja Casablanca,0,1,A,,,
+MAR,2013-11-08,19:00,Maghrib de Fès,Kawkab AC Marrakech,1,1,D,,,
+MAR,2013-11-09,15:00,Olympique de Safi,Wydad AC,2,2,D,,,
+MAR,2013-11-09,15:00,Renaissance de Berkane,Wydad de Fès,2,0,H,,,
+MAR,2013-11-09,19:00,Raja Casablanca,AS Salé,2,1,H,,,
+MAR,2013-11-10,13:00,FUS de Rabat,KAC de Kénitra,1,1,D,,,
+MAR,2013-11-10,14:00,Moghreb de Tétouan,Hassania US Agadir,1,1,D,,,
+MAR,2013-11-10,16:00,Olympique de Khouribga,Difaâ d'El Jadida,1,1,D,,,
+MAR,2013-11-10,18:30,CR Al Hoceima,FAR de Rabat,2,1,H,,,
+MAR,2013-11-15,19:00,Wydad de Fès,CR Al Hoceima,0,0,D,,,
+MAR,2013-11-16,16:00,Hassania US Agadir,Olympique de Safi,2,1,H,,,
+MAR,2013-11-17,15:00,Kawkab AC Marrakech,Moghreb de Tétouan,2,1,H,,,
+MAR,2013-11-17,15:00,AS Salé,Renaissance de Berkane,1,2,A,,,
+MAR,2013-11-17,17:00,KAC de Kénitra,FAR de Rabat,0,0,D,,,
+MAR,2013-11-17,19:00,Wydad AC,Olympique de Khouribga,3,1,H,,,
+MAR,2013-11-20,13:00,FUS de Rabat,Maghrib de Fès,3,0,H,,,
+MAR,2013-11-22,19:00,CR Al Hoceima,AS Salé,1,0,H,,,
+MAR,2013-11-23,14:30,FAR de Rabat,Wydad de Fès,0,1,A,,,
+MAR,2013-11-23,17:00,Olympique de Safi,Kawkab AC Marrakech,1,0,H,,,
+MAR,2013-11-23,19:00,Olympique de Khouribga,Hassania US Agadir,0,0,D,,,
+MAR,2013-11-24,13:00,Renaissance de Berkane,Difaâ d'El Jadida,0,0,D,,,
+MAR,2013-11-24,15:00,Raja Casablanca,Wydad AC,1,1,D,,,
+MAR,2013-11-24,17:30,Maghrib de Fès,KAC de Kénitra,0,1,A,,,
+MAR,2013-11-25,19:00,Moghreb de Tétouan,FUS de Rabat,0,0,D,,,
+MAR,2013-11-28,15:00,Difaâ d'El Jadida,Raja Casablanca,1,0,H,,,
+MAR,2013-11-29,19:00,Wydad AC,Renaissance de Berkane,3,2,H,,,
+MAR,2013-11-30,14:30,AS Salé,FAR de Rabat,1,2,A,,,
+MAR,2013-11-30,18:00,FUS de Rabat,Olympique de Safi,1,0,H,,,
+MAR,2013-12-01,15:00,Kawkab AC Marrakech,Olympique de Khouribga,0,0,D,,,
+MAR,2013-12-01,15:00,KAC de Kénitra,Wydad de Fès,1,0,H,,,
+MAR,2013-12-01,18:30,Maghrib de Fès,Moghreb de Tétouan,1,1,D,,,
+MAR,2013-12-02,15:00,Difaâ d'El Jadida,CR Al Hoceima,2,1,H,,,
+MAR,2013-12-03,15:00,Hassania US Agadir,Raja Casablanca,1,0,H,,,
+MAR,2013-12-06,19:00,Olympique de Safi,Maghrib de Fès,1,1,D,,,
+MAR,2013-12-07,15:00,Moghreb de Tétouan,KAC de Kénitra,0,0,D,,,
+MAR,2013-12-07,19:00,Wydad de Fès,AS Salé,1,0,H,,,
+MAR,2013-12-08,14:00,Renaissance de Berkane,Hassania US Agadir,1,0,H,,,
+MAR,2013-12-08,14:00,CR Al Hoceima,Wydad AC,2,0,H,,,
+MAR,2013-12-08,15:00,FAR de Rabat,Difaâ d'El Jadida,1,0,H,,,
+MAR,2013-12-08,19:00,Olympique de Khouribga,FUS de Rabat,0,3,A,,,
+MAR,2013-12-13,19:00,KAC de Kénitra,AS Salé,1,1,D,,,
+MAR,2013-12-15,14:30,Kawkab AC Marrakech,Renaissance de Berkane,0,0,D,,,
+MAR,2013-12-15,15:00,Wydad AC,FAR de Rabat,2,1,H,,,
+MAR,2013-12-15,15:00,Difaâ d'El Jadida,Wydad de Fès,4,1,H,,,
+MAR,2013-12-15,19:00,Moghreb de Tétouan,Olympique de Safi,2,1,H,,,
+MAR,2013-12-16,19:00,Maghrib de Fès,Olympique de Khouribga,3,1,H,,,
+MAR,2013-12-21,14:00,CR Al Hoceima,Kawkab AC Marrakech,0,1,A,,,
+MAR,2013-12-22,14:30,Renaissance de Berkane,FUS de Rabat,1,1,D,,,
+MAR,2013-12-22,14:30,AS Salé,Difaâ d'El Jadida,1,0,H,,,
+MAR,2013-12-22,15:00,FAR de Rabat,Hassania US Agadir,2,0,H,,,
+MAR,2013-12-22,18:00,KAC de Kénitra,Olympique de Safi,1,1,D,,,
+MAR,2013-12-23,17:00,Olympique de Khouribga,Moghreb de Tétouan,1,2,A,,,
+MAR,2013-12-23,19:00,Wydad de Fès,Wydad AC,0,2,A,,,
+MAR,2013-12-27,19:00,FUS de Rabat,CR Al Hoceima,2,0,H,,,
+MAR,2013-12-28,14:30,Moghreb de Tétouan,Raja Casablanca,1,0,H,,,
+MAR,2013-12-28,16:00,Hassania US Agadir,Wydad de Fès,4,3,H,,,
+MAR,2013-12-28,19:00,Maghrib de Fès,Renaissance de Berkane,1,4,A,,,
+MAR,2013-12-29,14:00,Difaâ d'El Jadida,KAC de Kénitra,2,1,H,,,
+MAR,2013-12-29,15:00,Olympique de Safi,Olympique de Khouribga,2,0,H,,,
+MAR,2013-12-29,16:00,Kawkab AC Marrakech,FAR de Rabat,1,0,H,,,
+MAR,2013-12-29,18:30,Wydad AC,AS Salé,1,1,D,,,
+MAR,2014-01-02,14:30,Hassania US Agadir,CR Al Hoceima,1,0,H,,,
+MAR,2014-01-02,19:00,Raja Casablanca,Kawkab AC Marrakech,0,0,D,,,
+MAR,2014-02-01,17:00,FUS de Rabat,Raja Casablanca,1,0,H,,,
+MAR,2014-02-08,13:00,Renaissance de Berkane,Olympique de Safi,0,0,D,,,
+MAR,2014-02-08,19:00,Wydad de Fès,FUS de Rabat,0,1,A,,,
+MAR,2014-02-09,15:00,AS Salé,Kawkab AC Marrakech,0,3,A,,,
+MAR,2014-02-09,16:00,KAC de Kénitra,Wydad AC,1,1,D,,,
+MAR,2014-02-09,18:30,CR Al Hoceima,Moghreb de Tétouan,2,1,H,,,
+MAR,2014-02-15,15:00,Maghrib de Fès,Wydad de Fès,0,0,D,,,
+MAR,2014-02-15,19:00,Hassania US Agadir,Wydad AC,1,0,H,,,
+MAR,2014-02-16,15:00,FUS de Rabat,AS Salé,1,0,H,,,
+MAR,2014-02-16,15:00,Olympique de Safi,CR Al Hoceima,1,2,A,,,
+MAR,2014-02-16,18:30,Olympique de Khouribga,Renaissance de Berkane,1,0,H,,,
+MAR,2014-02-21,19:00,Wydad de Fès,Moghreb de Tétouan,1,2,A,,,
+MAR,2014-02-22,14:00,CR Al Hoceima,Olympique de Khouribga,1,0,H,,,
+MAR,2014-02-22,16:00,Wydad AC,Kawkab AC Marrakech,0,0,D,,,
+MAR,2014-02-22,16:00,KAC de Kénitra,Hassania US Agadir,0,0,D,,,
+MAR,2014-02-23,13:00,AS Salé,Maghrib de Fès,1,0,H,,,
+MAR,2014-02-23,15:00,Renaissance de Berkane,Raja Casablanca,1,1,D,,,
+MAR,2014-02-23,15:00,Difaâ d'El Jadida,FUS de Rabat,1,0,H,,,
+MAR,2014-02-23,18:30,FAR de Rabat,Olympique de Safi,3,2,H,,,
+MAR,2014-03-01,15:00,Moghreb de Tétouan,AS Salé,2,1,H,,,
+MAR,2014-03-01,15:00,Kawkab AC Marrakech,Hassania US Agadir,2,0,H,,,
+MAR,2014-03-02,14:00,Renaissance de Berkane,KAC de Kénitra,0,0,D,,,
+MAR,2014-03-02,15:00,Olympique de Safi,Wydad de Fès,0,1,A,,,
+MAR,2014-03-02,16:00,FUS de Rabat,Wydad AC,0,0,D,,,
+MAR,2014-03-02,18:30,Olympique de Khouribga,FAR de Rabat,0,1,A,,,
+MAR,2014-03-07,16:00,Wydad de Fès,Olympique de Khouribga,3,0,H,,,
+MAR,2014-03-08,14:00,KAC de Kénitra,Kawkab AC Marrakech,0,0,D,,,
+MAR,2014-03-08,16:00,Hassania US Agadir,FUS de Rabat,2,1,H,,,
+MAR,2014-03-09,15:00,AS Salé,Olympique de Safi,0,0,D,,,
+MAR,2014-03-09,18:30,CR Al Hoceima,Renaissance de Berkane,1,0,H,,,
+MAR,2014-03-12,15:00,Difaâ d'El Jadida,Hassania US Agadir,1,0,H,,,
+MAR,2014-03-12,19:00,Raja Casablanca,Olympique de Khouribga,1,0,H,,,
+MAR,2014-03-13,15:30,FAR de Rabat,Maghrib de Fès,2,1,H,,,
+MAR,2014-03-14,19:00,Moghreb de Tétouan,Wydad AC,1,0,H,,,
+MAR,2014-03-15,15:00,CR Al Hoceima,KAC de Kénitra,0,1,A,,,
+MAR,2014-03-15,19:00,FUS de Rabat,Kawkab AC Marrakech,0,0,D,,,
+MAR,2014-03-16,14:00,Renaissance de Berkane,FAR de Rabat,1,1,D,,,
+MAR,2014-03-16,15:00,Olympique de Khouribga,AS Salé,1,1,D,,,
+MAR,2014-03-16,16:00,Olympique de Safi,Difaâ d'El Jadida,1,1,D,,,
+MAR,2014-03-16,18:30,Raja Casablanca,Wydad de Fès,4,0,H,,,
+MAR,2014-03-17,19:00,Maghrib de Fès,Hassania US Agadir,3,1,H,,,
+MAR,2014-03-19,19:00,Raja Casablanca,KAC de Kénitra,5,0,H,,,
+MAR,2014-03-22,15:00,FAR de Rabat,CR Al Hoceima,1,1,D,,,
+MAR,2014-03-22,15:00,Wydad de Fès,Renaissance de Berkane,0,0,D,,,
+MAR,2014-03-22,19:00,Wydad AC,Olympique de Safi,1,0,H,,,
+MAR,2014-03-23,14:00,AS Salé,Raja Casablanca,1,0,H,,,
+MAR,2014-03-23,15:00,Kawkab AC Marrakech,Maghrib de Fès,1,0,H,,,
+MAR,2014-03-23,16:00,KAC de Kénitra,FUS de Rabat,2,3,A,,,
+MAR,2014-03-23,18:30,Hassania US Agadir,Moghreb de Tétouan,1,2,A,,,
+MAR,2014-03-27,19:00,Raja Casablanca,CR Al Hoceima,3,1,H,,,
+MAR,2014-03-29,16:00,Maghrib de Fès,FUS de Rabat,1,1,D,,,
+MAR,2014-03-29,19:00,Moghreb de Tétouan,Kawkab AC Marrakech,2,0,H,,,
+MAR,2014-03-30,15:00,Renaissance de Berkane,AS Salé,2,2,D,,,
+MAR,2014-03-30,15:00,FAR de Rabat,KAC de Kénitra,0,0,D,,,
+MAR,2014-03-30,17:00,Olympique de Safi,Hassania US Agadir,1,0,H,,,
+MAR,2014-03-30,19:00,Olympique de Khouribga,Wydad AC,0,2,A,,,
+MAR,2014-04-01,17:00,CR Al Hoceima,Wydad de Fès,1,1,D,,,
+MAR,2014-04-02,18:00,Moghreb de Tétouan,FAR de Rabat,1,1,D,,,
+MAR,2014-04-02,20:00,Kawkab AC Marrakech,Difaâ d'El Jadida,0,0,D,,,
+MAR,2014-04-03,17:00,Wydad AC,Raja Casablanca,0,2,A,,,
+MAR,2014-04-05,18:30,KAC de Kénitra,Maghrib de Fès,0,1,A,,,
+MAR,2014-04-05,20:30,Hassania US Agadir,Olympique de Khouribga,0,1,A,,,
+MAR,2014-04-06,15:00,Difaâ d'El Jadida,Renaissance de Berkane,0,0,D,,,
+MAR,2014-04-06,15:30,AS Salé,CR Al Hoceima,1,0,H,,,
+MAR,2014-04-06,18:00,FUS de Rabat,Moghreb de Tétouan,1,0,H,,,
+MAR,2014-04-07,17:00,Wydad de Fès,FAR de Rabat,1,1,D,,,
+MAR,2014-04-07,19:00,Kawkab AC Marrakech,Olympique de Safi,1,1,D,,,
+MAR,2014-04-09,19:00,Maghrib de Fès,Difaâ d'El Jadida,2,2,D,,,
+MAR,2014-04-12,15:00,FAR de Rabat,AS Salé,1,0,H,,,
+MAR,2014-04-12,16:00,Renaissance de Berkane,Wydad AC,3,0,H,,,
+MAR,2014-04-12,19:00,Raja Casablanca,Hassania US Agadir,3,1,H,,,
+MAR,2014-04-13,15:00,Olympique de Khouribga,Kawkab AC Marrakech,0,4,A,,,
+MAR,2014-04-13,15:00,Olympique de Safi,FUS de Rabat,1,0,H,,,
+MAR,2014-04-13,17:00,CR Al Hoceima,Difaâ d'El Jadida,1,0,H,,,
+MAR,2014-04-13,19:00,Wydad de Fès,KAC de Kénitra,2,3,A,,,
+MAR,2014-04-14,19:00,Moghreb de Tétouan,Maghrib de Fès,1,1,D,,,
+MAR,2014-04-16,17:00,FAR de Rabat,Raja Casablanca,1,3,A,,,
+MAR,2014-04-19,15:30,AS Salé,Wydad de Fès,0,0,D,,,
+MAR,2014-04-19,18:00,Wydad AC,CR Al Hoceima,2,0,H,,,
+MAR,2014-04-19,20:00,Maghrib de Fès,Olympique de Safi,1,0,H,,,
+MAR,2014-04-20,16:00,KAC de Kénitra,Moghreb de Tétouan,0,1,A,,,
+MAR,2014-04-20,17:00,Kawkab AC Marrakech,Raja Casablanca,0,0,D,,,
+MAR,2014-04-20,18:30,FUS de Rabat,Olympique de Khouribga,0,2,A,,,
+MAR,2014-04-21,19:00,Hassania US Agadir,Renaissance de Berkane,2,2,D,,,
+MAR,2014-04-23,17:00,Wydad AC,Maghrib de Fès,0,0,D,,,
+MAR,2014-04-26,15:00,Olympique de Safi,Moghreb de Tétouan,1,1,D,,,
+MAR,2014-04-26,17:00,CR Al Hoceima,Hassania US Agadir,1,1,D,,,
+MAR,2014-04-26,19:30,Raja Casablanca,FUS de Rabat,1,0,H,,,
+MAR,2014-04-27,15:00,FAR de Rabat,Wydad AC,1,1,D,,,
+MAR,2014-04-27,15:00,AS Salé,KAC de Kénitra,1,0,H,,,
+MAR,2014-04-27,17:00,Renaissance de Berkane,Kawkab AC Marrakech,0,0,D,,,
+MAR,2014-04-27,19:00,Olympique de Khouribga,Maghrib de Fès,2,1,H,,,
+MAR,2014-04-30,19:00,Difaâ d'El Jadida,Moghreb de Tétouan,1,1,D,,,
+MAR,2014-05-03,16:00,Olympique de Safi,KAC de Kénitra,1,0,H,,,
+MAR,2014-05-03,17:00,FUS de Rabat,Renaissance de Berkane,0,0,D,,,
+MAR,2014-05-03,19:30,Wydad AC,Wydad de Fès,1,1,D,,,
+MAR,2014-05-04,14:30,Moghreb de Tétouan,Olympique de Khouribga,2,0,H,,,
+MAR,2014-05-04,17:00,Maghrib de Fès,Raja Casablanca,0,1,A,,,
+MAR,2014-05-04,17:00,Difaâ d'El Jadida,AS Salé,3,2,H,,,
+MAR,2014-05-04,19:00,Hassania US Agadir,FAR de Rabat,1,2,A,,,
+MAR,2014-05-05,19:00,Kawkab AC Marrakech,CR Al Hoceima,1,2,A,,,
+MAR,2014-05-07,21:00,Difaâ d'El Jadida,Olympique de Khouribga,1,0,H,,,
+MAR,2014-05-11,19:00,Raja Casablanca,Difaâ d'El Jadida,1,0,H,,,
+MAR,2014-05-14,19:00,Difaâ d'El Jadida,FAR de Rabat,1,1,D,,,
+MAR,2014-05-17,15:00,CR Al Hoceima,FUS de Rabat,1,3,A,,,
+MAR,2014-05-17,17:00,Wydad de Fès,Hassania US Agadir,2,1,H,,,
+MAR,2014-05-18,16:00,AS Salé,Wydad AC,2,2,D,,,
+MAR,2014-05-18,16:00,Renaissance de Berkane,Maghrib de Fès,0,0,D,,,
+MAR,2014-05-18,16:00,Olympique de Khouribga,Olympique de Safi,2,1,H,,,
+MAR,2014-05-18,16:00,KAC de Kénitra,Difaâ d'El Jadida,1,1,D,,,
+MAR,2014-05-18,17:00,Raja Casablanca,Moghreb de Tétouan,5,0,H,,,
+MAR,2014-05-19,19:00,FAR de Rabat,Kawkab AC Marrakech,1,1,D,,,
+MAR,2014-05-21,19:00,Wydad de Fès,Difaâ d'El Jadida,0,0,D,,,
+MAR,2014-05-25,17:00,Olympique de Safi,Raja Casablanca,1,0,H,,,
+MAR,2014-05-25,17:00,Hassania US Agadir,AS Salé,2,1,H,,,
+MAR,2014-05-25,17:00,Olympique de Khouribga,KAC de Kénitra,2,0,H,,,
+MAR,2014-05-25,17:00,Kawkab AC Marrakech,Wydad de Fès,2,2,D,,,
+MAR,2014-05-25,17:00,Maghrib de Fès,CR Al Hoceima,1,0,H,,,
+MAR,2014-05-25,17:00,Moghreb de Tétouan,Renaissance de Berkane,2,1,H,,,
+MAR,2014-05-26,18:00,FUS de Rabat,FAR de Rabat,2,1,H,,,
+MAR,2014-05-26,19:00,Wydad AC,Difaâ d'El Jadida,1,1,D,,,

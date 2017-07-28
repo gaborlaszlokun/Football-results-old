@@ -1,180 +1,180 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-EST,07/03/2009,12:00,Tulevik Viljandi,JK Sillamäe Kalev,1,3,A,1,1,D
-EST,07/03/2009,12:00,JK Tammeka,JK Tallinna Kalev,0,3,A,0,2,A
-EST,07/03/2009,12:00,FC Levadia,FC Kuressaare,3,0,H,2,0,H
-EST,07/03/2009,12:00,JK Narva Trans,Paide Linnameeskond,3,0,H,1,0,H
-EST,07/03/2009,16:00,JK Nõmme Kalju,FC Flora,0,1,A,0,0,D
-EST,14/03/2009,12:00,JK Sillamäe Kalev,Paide Linnameeskond,6,0,H,2,0,H
-EST,14/03/2009,12:00,FC Kuressaare,JK Narva Trans,0,5,A,0,2,A
-EST,14/03/2009,12:00,JK Tallinna Kalev,JK Nõmme Kalju,1,2,A,1,2,A
-EST,14/03/2009,12:00,Tulevik Viljandi,JK Tammeka,3,0,H,1,0,H
-EST,14/03/2009,15:00,FC Flora,FC Levadia,1,3,A,0,3,A
-EST,17/03/2009,16:00,Paide Linnameeskond,FC Kuressaare,0,0,D,NaN,NaN,NaN
-EST,17/03/2009,16:45,JK Tammeka,JK Sillamäe Kalev,0,8,A,0,2,A
-EST,17/03/2009,16:45,JK Nõmme Kalju,Tulevik Viljandi,1,1,D,0,0,D
-EST,17/03/2009,16:45,FC Levadia,JK Tallinna Kalev,4,1,H,1,0,H
-EST,17/03/2009,19:15,JK Narva Trans,FC Flora,1,2,A,1,2,A
-EST,21/03/2009,12:00,JK Sillamäe Kalev,FC Kuressaare,0,1,A,0,0,D
-EST,21/03/2009,12:00,FC Flora,Paide Linnameeskond,4,0,H,1,0,H
-EST,21/03/2009,12:00,JK Tallinna Kalev,JK Narva Trans,2,4,A,1,1,D
-EST,21/03/2009,12:00,JK Tammeka,JK Nõmme Kalju,1,2,A,0,2,A
-EST,21/03/2009,15:00,Tulevik Viljandi,FC Levadia,0,7,A,0,3,A
-EST,04/04/2009,12:00,JK Nõmme Kalju,JK Sillamäe Kalev,1,3,A,0,3,A
-EST,04/04/2009,12:00,FC Levadia,JK Tammeka,8,0,H,6,0,H
-EST,04/04/2009,12:00,JK Narva Trans,Tulevik Viljandi,1,1,D,1,0,H
-EST,04/04/2009,12:00,FC Kuressaare,FC Flora,1,0,H,1,0,H
-EST,04/04/2009,15:00,Paide Linnameeskond,JK Tallinna Kalev,1,0,H,1,0,H
-EST,11/04/2009,12:00,JK Sillamäe Kalev,FC Flora,3,2,H,1,1,D
-EST,11/04/2009,12:00,JK Tallinna Kalev,FC Kuressaare,1,1,D,0,1,A
-EST,11/04/2009,12:00,Tulevik Viljandi,Paide Linnameeskond,1,0,H,0,0,D
-EST,11/04/2009,12:00,JK Tammeka,JK Narva Trans,1,4,A,0,2,A
-EST,11/04/2009,15:00,JK Nõmme Kalju,FC Levadia,1,2,A,0,1,A
-EST,18/04/2009,12:00,FC Levadia,JK Sillamäe Kalev,3,1,H,1,0,H
-EST,18/04/2009,12:00,JK Narva Trans,JK Nõmme Kalju,3,0,H,2,0,H
-EST,18/04/2009,12:00,FC Flora,JK Tallinna Kalev,1,0,H,0,0,D
-EST,18/04/2009,15:00,FC Kuressaare,Tulevik Viljandi,0,3,A,0,1,A
-EST,18/04/2009,17:30,Paide Linnameeskond,JK Tammeka,3,1,H,2,0,H
-EST,25/04/2009,12:00,Tulevik Viljandi,FC Flora,1,1,D,1,1,D
-EST,25/04/2009,12:00,JK Nõmme Kalju,Paide Linnameeskond,3,0,H,2,0,H
-EST,25/04/2009,12:00,FC Levadia,JK Narva Trans,2,0,H,1,0,H
-EST,25/04/2009,17:30,JK Sillamäe Kalev,JK Tallinna Kalev,2,0,H,0,0,D
-EST,25/04/2009,17:30,JK Tammeka,FC Kuressaare,2,0,H,1,0,H
-EST,02/05/2009,15:00,JK Narva Trans,JK Sillamäe Kalev,1,2,A,1,2,A
-EST,02/05/2009,15:00,Paide Linnameeskond,FC Levadia,0,3,A,0,1,A
-EST,02/05/2009,15:00,FC Flora,JK Tammeka,2,1,H,0,1,A
-EST,02/05/2009,15:00,JK Tallinna Kalev,Tulevik Viljandi,0,1,A,0,0,D
-EST,02/05/2009,17:30,FC Kuressaare,JK Nõmme Kalju,1,2,A,1,1,D
-EST,09/05/2009,15:00,FC Levadia,Paide Linnameeskond,2,0,H,1,0,H
-EST,09/05/2009,15:00,JK Nõmme Kalju,FC Kuressaare,6,1,H,4,1,H
-EST,09/05/2009,15:00,JK Tammeka,FC Flora,0,4,A,0,1,A
-EST,09/05/2009,15:00,Tulevik Viljandi,JK Tallinna Kalev,2,1,H,0,0,D
-EST,09/05/2009,17:30,JK Sillamäe Kalev,JK Narva Trans,2,1,H,2,0,H
-EST,16/05/2009,15:00,JK Tallinna Kalev,JK Sillamäe Kalev,1,1,D,0,1,A
-EST,16/05/2009,15:00,FC Flora,Tulevik Viljandi,1,0,H,1,0,H
-EST,16/05/2009,15:00,FC Kuressaare,JK Tammeka,0,0,D,NaN,NaN,NaN
-EST,16/05/2009,15:00,Paide Linnameeskond,JK Nõmme Kalju,0,3,A,0,0,D
-EST,16/05/2009,17:30,JK Narva Trans,FC Levadia,0,3,A,0,1,A
-EST,23/05/2009,15:00,JK Sillamäe Kalev,FC Levadia,1,1,D,0,0,D
-EST,23/05/2009,15:00,JK Nõmme Kalju,JK Narva Trans,1,2,A,0,1,A
-EST,23/05/2009,15:00,JK Tammeka,Paide Linnameeskond,0,2,A,0,2,A
-EST,23/05/2009,15:00,Tulevik Viljandi,FC Kuressaare,3,0,H,2,0,H
-EST,23/05/2009,15:00,JK Tallinna Kalev,FC Flora,0,2,A,0,0,D
-EST,26/05/2009,16:45,FC Kuressaare,JK Tallinna Kalev,0,1,A,0,0,D
-EST,26/05/2009,16:45,Paide Linnameeskond,Tulevik Viljandi,0,1,A,0,1,A
-EST,26/05/2009,16:45,JK Narva Trans,JK Tammeka,3,1,H,1,0,H
-EST,28/07/2009,16:45,FC Flora,JK Sillamäe Kalev,4,1,H,3,1,H
-EST,01/08/2009,15:00,FC Levadia,JK Nõmme Kalju,3,1,H,1,0,H
-EST,30/05/2009,15:00,JK Sillamäe Kalev,JK Nõmme Kalju,2,0,H,1,0,H
-EST,30/05/2009,15:00,JK Tallinna Kalev,Paide Linnameeskond,0,0,D,0,0,D
-EST,30/05/2009,17:30,Tulevik Viljandi,JK Narva Trans,1,2,A,0,0,D
-EST,18/08/2009,16:45,FC Flora,FC Kuressaare,3,0,H,2,0,H
-EST,20/10/2009,16:45,JK Tammeka,FC Levadia,0,2,A,0,1,A
-EST,13/06/2009,15:00,FC Levadia,Tulevik Viljandi,5,0,H,2,0,H
-EST,13/06/2009,15:00,JK Nõmme Kalju,JK Tammeka,4,0,H,1,0,H
-EST,13/06/2009,15:00,Paide Linnameeskond,FC Flora,0,6,A,0,3,A
-EST,13/06/2009,17:30,FC Kuressaare,JK Sillamäe Kalev,0,1,A,0,1,A
-EST,13/06/2009,17:30,JK Narva Trans,JK Tallinna Kalev,3,1,H,2,0,H
-EST,16/06/2009,16:45,JK Sillamäe Kalev,JK Tammeka,5,0,H,1,0,H
-EST,16/06/2009,16:45,Tulevik Viljandi,JK Nõmme Kalju,0,2,A,0,0,D
-EST,16/06/2009,16:45,JK Tallinna Kalev,FC Levadia,2,2,D,2,1,H
-EST,16/06/2009,16:45,FC Kuressaare,Paide Linnameeskond,1,0,H,0,0,D
-EST,16/06/2009,16:45,FC Flora,JK Narva Trans,1,1,D,0,0,D
-EST,20/06/2009,15:00,Paide Linnameeskond,JK Sillamäe Kalev,0,2,A,0,0,D
-EST,20/06/2009,15:00,JK Narva Trans,FC Kuressaare,2,0,H,1,0,H
-EST,20/06/2009,15:00,JK Nõmme Kalju,JK Tallinna Kalev,2,1,H,0,1,A
-EST,20/06/2009,15:00,JK Tammeka,Tulevik Viljandi,1,1,D,0,0,D
-EST,20/06/2009,17:30,FC Levadia,FC Flora,3,2,H,3,0,H
-EST,04/07/2009,15:00,JK Tallinna Kalev,JK Tammeka,0,4,A,0,3,A
-EST,04/07/2009,17:30,JK Sillamäe Kalev,Tulevik Viljandi,1,0,H,1,0,H
-EST,07/07/2009,16:45,FC Kuressaare,FC Levadia,1,7,A,1,4,A
-EST,28/07/2009,16:45,Paide Linnameeskond,JK Narva Trans,0,5,A,0,3,A
-EST,04/08/2009,16:45,FC Flora,JK Nõmme Kalju,0,0,D,0,0,D
-EST,11/07/2009,15:00,Paide Linnameeskond,FC Levadia,1,5,A,0,4,A
-EST,11/07/2009,15:00,FC Flora,JK Tammeka,2,1,H,1,0,H
-EST,11/07/2009,17:30,JK Tallinna Kalev,Tulevik Viljandi,0,2,A,0,1,A
-EST,14/07/2009,16:45,JK Narva Trans,JK Sillamäe Kalev,0,1,A,0,0,D
-EST,18/07/2009,15:00,JK Sillamäe Kalev,JK Tallinna Kalev,7,0,H,2,0,H
-EST,18/07/2009,15:00,JK Tammeka,FC Kuressaare,1,2,A,0,1,A
-EST,18/07/2009,15:00,JK Nõmme Kalju,Paide Linnameeskond,10,0,H,4,0,H
-EST,29/09/2009,15:00,Tulevik Viljandi,FC Flora,0,1,A,0,0,D
-EST,06/10/2009,14:45,FC Levadia,JK Narva Trans,1,1,D,0,1,A
-EST,25/07/2009,15:00,JK Narva Trans,JK Nõmme Kalju,0,0,D,0,0,D
-EST,25/07/2009,15:00,FC Kuressaare,Tulevik Viljandi,0,4,A,0,3,A
-EST,25/07/2009,17:30,Paide Linnameeskond,JK Tammeka,2,1,H,1,0,H
-EST,01/09/2009,16:00,FC Levadia,JK Sillamäe Kalev,6,1,H,2,1,H
-EST,20/10/2009,16:45,FC Flora,JK Tallinna Kalev,4,1,H,0,0,D
-EST,01/08/2009,15:00,JK Sillamäe Kalev,FC Flora,1,3,A,1,1,D
-EST,01/08/2009,15:00,JK Tallinna Kalev,FC Kuressaare,1,4,A,0,0,D
-EST,01/08/2009,15:00,JK Tammeka,JK Narva Trans,0,1,A,0,1,A
-EST,01/08/2009,17:30,Tulevik Viljandi,Paide Linnameeskond,4,0,H,1,0,H
-EST,29/09/2009,16:45,JK Nõmme Kalju,FC Levadia,1,3,A,0,3,A
-EST,08/08/2009,15:00,JK Nõmme Kalju,JK Sillamäe Kalev,1,1,D,0,0,D
-EST,08/08/2009,15:00,FC Levadia,JK Tammeka,6,1,H,2,1,H
-EST,08/08/2009,15:00,Paide Linnameeskond,JK Tallinna Kalev,3,2,H,1,1,D
-EST,08/08/2009,15:00,FC Kuressaare,FC Flora,0,3,A,0,2,A
-EST,08/08/2009,17:30,JK Narva Trans,Tulevik Viljandi,3,1,H,2,1,H
-EST,15/08/2009,15:00,FC Flora,Paide Linnameeskond,0,0,D,0,0,D
-EST,15/08/2009,15:00,JK Tallinna Kalev,JK Narva Trans,0,2,A,0,1,A
-EST,15/08/2009,15:00,Tulevik Viljandi,FC Levadia,0,0,D,0,0,D
-EST,15/08/2009,15:00,JK Tammeka,JK Nõmme Kalju,0,1,A,0,0,D
-EST,15/08/2009,17:30,JK Sillamäe Kalev,FC Kuressaare,5,1,H,0,1,A
-EST,22/08/2009,15:00,JK Narva Trans,FC Flora,0,0,D,0,0,D
-EST,22/08/2009,15:00,Paide Linnameeskond,FC Kuressaare,2,0,H,0,0,D
-EST,22/08/2009,15:00,JK Nõmme Kalju,Tulevik Viljandi,1,1,D,0,1,A
-EST,22/08/2009,17:30,JK Tammeka,JK Sillamäe Kalev,1,2,A,0,1,A
-EST,23/08/2009,15:00,FC Levadia,JK Tallinna Kalev,5,1,H,3,0,H
-EST,29/08/2009,15:00,JK Sillamäe Kalev,Paide Linnameeskond,3,0,H,1,0,H
-EST,29/08/2009,15:00,FC Kuressaare,JK Narva Trans,0,7,A,0,1,A
-EST,29/08/2009,15:00,JK Tallinna Kalev,JK Nõmme Kalju,0,2,A,0,1,A
-EST,29/08/2009,15:00,Tulevik Viljandi,JK Tammeka,0,1,A,0,0,D
-EST,15/09/2009,16:45,FC Flora,FC Levadia,1,3,A,0,3,A
-EST,12/09/2009,12:00,Tulevik Viljandi,JK Sillamäe Kalev,1,3,A,1,1,D
-EST,12/09/2009,12:00,FC Levadia,FC Kuressaare,8,0,H,2,0,H
-EST,12/09/2009,12:00,JK Tammeka,JK Tallinna Kalev,1,0,H,1,0,H
-EST,12/09/2009,12:00,JK Nõmme Kalju,FC Flora,3,2,H,2,2,D
-EST,12/09/2009,15:00,JK Narva Trans,Paide Linnameeskond,4,1,H,1,1,D
-EST,19/09/2009,12:00,JK Sillamäe Kalev,Tulevik Viljandi,3,1,H,1,1,D
-EST,19/09/2009,12:00,JK Tallinna Kalev,JK Tammeka,1,6,A,1,5,A
-EST,19/09/2009,12:00,Paide Linnameeskond,JK Narva Trans,1,1,D,1,0,H
-EST,19/09/2009,12:00,FC Kuressaare,FC Levadia,1,3,A,1,1,D
-EST,19/09/2009,15:00,FC Flora,JK Nõmme Kalju,2,2,D,1,2,A
-EST,26/09/2009,12:00,JK Narva Trans,FC Kuressaare,10,0,H,5,0,H
-EST,26/09/2009,12:00,JK Nõmme Kalju,JK Tallinna Kalev,3,4,A,2,1,H
-EST,26/09/2009,12:00,JK Tammeka,Tulevik Viljandi,0,3,A,0,1,A
-EST,26/09/2009,12:00,Paide Linnameeskond,JK Sillamäe Kalev,0,1,A,0,1,A
-EST,26/09/2009,15:00,FC Levadia,FC Flora,1,0,H,1,0,H
-EST,03/10/2009,12:00,JK Tallinna Kalev,FC Levadia,0,1,A,0,0,D
-EST,03/10/2009,12:00,FC Kuressaare,Paide Linnameeskond,4,1,H,1,0,H
-EST,03/10/2009,12:00,JK Sillamäe Kalev,JK Tammeka,3,0,H,1,0,H
-EST,03/10/2009,12:00,Tulevik Viljandi,JK Nõmme Kalju,3,2,H,2,2,D
-EST,03/10/2009,15:00,FC Flora,JK Narva Trans,1,2,A,1,1,D
-EST,17/10/2009,12:00,FC Kuressaare,JK Sillamäe Kalev,0,3,A,0,0,D
-EST,17/10/2009,12:00,Paide Linnameeskond,FC Flora,0,6,A,0,1,A
-EST,17/10/2009,12:00,FC Levadia,Tulevik Viljandi,3,0,H,2,0,H
-EST,17/10/2009,12:00,JK Narva Trans,JK Tallinna Kalev,1,0,H,0,0,D
-EST,17/10/2009,15:00,JK Nõmme Kalju,JK Tammeka,1,1,D,0,0,D
-EST,24/10/2009,12:00,JK Sillamäe Kalev,JK Nõmme Kalju,1,1,D,0,1,A
-EST,24/10/2009,12:00,Tulevik Viljandi,JK Narva Trans,0,1,A,0,1,A
-EST,24/10/2009,12:00,JK Tallinna Kalev,Paide Linnameeskond,3,2,H,2,1,H
-EST,24/10/2009,12:00,FC Flora,FC Kuressaare,3,0,H,1,0,H
-EST,24/10/2009,15:00,JK Tammeka,FC Levadia,0,2,A,0,2,A
-EST,31/10/2009,12:00,FC Kuressaare,JK Tallinna Kalev,2,0,H,0,0,D
-EST,31/10/2009,12:00,Paide Linnameeskond,Tulevik Viljandi,0,4,A,0,3,A
-EST,31/10/2009,12:00,JK Narva Trans,JK Tammeka,2,0,H,2,0,H
-EST,31/10/2009,12:00,JK Nõmme Kalju,FC Levadia,0,5,A,0,4,A
-EST,31/10/2009,15:00,FC Flora,JK Sillamäe Kalev,4,0,H,1,0,H
-EST,03/11/2009,11:05,JK Sillamäe Kalev,FC Levadia,0,1,A,0,0,D
-EST,03/11/2009,16:00,JK Tammeka,Paide Linnameeskond,1,0,H,1,0,H
-EST,03/11/2009,16:00,Tulevik Viljandi,FC Kuressaare,6,0,H,2,0,H
-EST,03/11/2009,16:00,JK Tallinna Kalev,FC Flora,1,2,A,0,2,A
-EST,03/11/2009,16:00,JK Nõmme Kalju,JK Narva Trans,2,2,D,1,1,D
-EST,07/11/2009,11:00,FC Kuressaare,JK Tammeka,0,2,A,0,2,A
-EST,07/11/2009,11:00,Paide Linnameeskond,JK Nõmme Kalju,0,3,A,0,2,A
-EST,07/11/2009,11:00,JK Narva Trans,FC Levadia,2,1,H,0,0,D
-EST,07/11/2009,11:15,JK Tallinna Kalev,JK Sillamäe Kalev,2,6,A,1,3,A
-EST,07/11/2009,15:30,FC Flora,Tulevik Viljandi,4,1,H,1,0,H
-EST,10/11/2009,11:00,JK Sillamäe Kalev,JK Narva Trans,0,2,A,0,0,D
-EST,10/11/2009,16:00,FC Levadia,Paide Linnameeskond,4,2,H,2,2,D
-EST,10/11/2009,16:00,JK Nõmme Kalju,FC Kuressaare,1,0,H,0,0,D
-EST,10/11/2009,16:00,JK Tammeka,FC Flora,0,4,A,0,3,A
-EST,10/11/2009,16:00,Tulevik Viljandi,JK Tallinna Kalev,4,1,H,0,0,D
+EST,2009-03-07,12:00,Tulevik Viljandi,JK Sillamäe Kalev,1,3,A,1.0,1.0,D
+EST,2009-03-07,12:00,JK Tammeka,JK Tallinna Kalev,0,3,A,0.0,2.0,A
+EST,2009-03-07,12:00,FC Levadia,FC Kuressaare,3,0,H,2.0,0.0,H
+EST,2009-03-07,12:00,JK Narva Trans,Paide Linnameeskond,3,0,H,1.0,0.0,H
+EST,2009-03-07,16:00,JK Nõmme Kalju,FC Flora,0,1,A,0.0,0.0,D
+EST,2009-03-14,12:00,JK Sillamäe Kalev,Paide Linnameeskond,6,0,H,2.0,0.0,H
+EST,2009-03-14,12:00,FC Kuressaare,JK Narva Trans,0,5,A,0.0,2.0,A
+EST,2009-03-14,12:00,JK Tallinna Kalev,JK Nõmme Kalju,1,2,A,1.0,2.0,A
+EST,2009-03-14,12:00,Tulevik Viljandi,JK Tammeka,3,0,H,1.0,0.0,H
+EST,2009-03-14,15:00,FC Flora,FC Levadia,1,3,A,0.0,3.0,A
+EST,2009-03-17,16:00,Paide Linnameeskond,FC Kuressaare,0,0,D,,,
+EST,2009-03-17,16:45,JK Tammeka,JK Sillamäe Kalev,0,8,A,0.0,2.0,A
+EST,2009-03-17,16:45,JK Nõmme Kalju,Tulevik Viljandi,1,1,D,0.0,0.0,D
+EST,2009-03-17,16:45,FC Levadia,JK Tallinna Kalev,4,1,H,1.0,0.0,H
+EST,2009-03-17,19:15,JK Narva Trans,FC Flora,1,2,A,1.0,2.0,A
+EST,2009-03-21,12:00,JK Sillamäe Kalev,FC Kuressaare,0,1,A,0.0,0.0,D
+EST,2009-03-21,12:00,FC Flora,Paide Linnameeskond,4,0,H,1.0,0.0,H
+EST,2009-03-21,12:00,JK Tallinna Kalev,JK Narva Trans,2,4,A,1.0,1.0,D
+EST,2009-03-21,12:00,JK Tammeka,JK Nõmme Kalju,1,2,A,0.0,2.0,A
+EST,2009-03-21,15:00,Tulevik Viljandi,FC Levadia,0,7,A,0.0,3.0,A
+EST,2009-04-04,12:00,JK Nõmme Kalju,JK Sillamäe Kalev,1,3,A,0.0,3.0,A
+EST,2009-04-04,12:00,FC Levadia,JK Tammeka,8,0,H,6.0,0.0,H
+EST,2009-04-04,12:00,JK Narva Trans,Tulevik Viljandi,1,1,D,1.0,0.0,H
+EST,2009-04-04,12:00,FC Kuressaare,FC Flora,1,0,H,1.0,0.0,H
+EST,2009-04-04,15:00,Paide Linnameeskond,JK Tallinna Kalev,1,0,H,1.0,0.0,H
+EST,2009-04-11,12:00,JK Sillamäe Kalev,FC Flora,3,2,H,1.0,1.0,D
+EST,2009-04-11,12:00,JK Tallinna Kalev,FC Kuressaare,1,1,D,0.0,1.0,A
+EST,2009-04-11,12:00,Tulevik Viljandi,Paide Linnameeskond,1,0,H,0.0,0.0,D
+EST,2009-04-11,12:00,JK Tammeka,JK Narva Trans,1,4,A,0.0,2.0,A
+EST,2009-04-11,15:00,JK Nõmme Kalju,FC Levadia,1,2,A,0.0,1.0,A
+EST,2009-04-18,12:00,FC Levadia,JK Sillamäe Kalev,3,1,H,1.0,0.0,H
+EST,2009-04-18,12:00,JK Narva Trans,JK Nõmme Kalju,3,0,H,2.0,0.0,H
+EST,2009-04-18,12:00,FC Flora,JK Tallinna Kalev,1,0,H,0.0,0.0,D
+EST,2009-04-18,15:00,FC Kuressaare,Tulevik Viljandi,0,3,A,0.0,1.0,A
+EST,2009-04-18,17:30,Paide Linnameeskond,JK Tammeka,3,1,H,2.0,0.0,H
+EST,2009-04-25,12:00,Tulevik Viljandi,FC Flora,1,1,D,1.0,1.0,D
+EST,2009-04-25,12:00,JK Nõmme Kalju,Paide Linnameeskond,3,0,H,2.0,0.0,H
+EST,2009-04-25,12:00,FC Levadia,JK Narva Trans,2,0,H,1.0,0.0,H
+EST,2009-04-25,17:30,JK Sillamäe Kalev,JK Tallinna Kalev,2,0,H,0.0,0.0,D
+EST,2009-04-25,17:30,JK Tammeka,FC Kuressaare,2,0,H,1.0,0.0,H
+EST,2009-05-02,15:00,JK Narva Trans,JK Sillamäe Kalev,1,2,A,1.0,2.0,A
+EST,2009-05-02,15:00,Paide Linnameeskond,FC Levadia,0,3,A,0.0,1.0,A
+EST,2009-05-02,15:00,FC Flora,JK Tammeka,2,1,H,0.0,1.0,A
+EST,2009-05-02,15:00,JK Tallinna Kalev,Tulevik Viljandi,0,1,A,0.0,0.0,D
+EST,2009-05-02,17:30,FC Kuressaare,JK Nõmme Kalju,1,2,A,1.0,1.0,D
+EST,2009-05-09,15:00,FC Levadia,Paide Linnameeskond,2,0,H,1.0,0.0,H
+EST,2009-05-09,15:00,JK Nõmme Kalju,FC Kuressaare,6,1,H,4.0,1.0,H
+EST,2009-05-09,15:00,JK Tammeka,FC Flora,0,4,A,0.0,1.0,A
+EST,2009-05-09,15:00,Tulevik Viljandi,JK Tallinna Kalev,2,1,H,0.0,0.0,D
+EST,2009-05-09,17:30,JK Sillamäe Kalev,JK Narva Trans,2,1,H,2.0,0.0,H
+EST,2009-05-16,15:00,JK Tallinna Kalev,JK Sillamäe Kalev,1,1,D,0.0,1.0,A
+EST,2009-05-16,15:00,FC Flora,Tulevik Viljandi,1,0,H,1.0,0.0,H
+EST,2009-05-16,15:00,FC Kuressaare,JK Tammeka,0,0,D,,,
+EST,2009-05-16,15:00,Paide Linnameeskond,JK Nõmme Kalju,0,3,A,0.0,0.0,D
+EST,2009-05-16,17:30,JK Narva Trans,FC Levadia,0,3,A,0.0,1.0,A
+EST,2009-05-23,15:00,JK Sillamäe Kalev,FC Levadia,1,1,D,0.0,0.0,D
+EST,2009-05-23,15:00,JK Nõmme Kalju,JK Narva Trans,1,2,A,0.0,1.0,A
+EST,2009-05-23,15:00,JK Tammeka,Paide Linnameeskond,0,2,A,0.0,2.0,A
+EST,2009-05-23,15:00,Tulevik Viljandi,FC Kuressaare,3,0,H,2.0,0.0,H
+EST,2009-05-23,15:00,JK Tallinna Kalev,FC Flora,0,2,A,0.0,0.0,D
+EST,2009-05-26,16:45,FC Kuressaare,JK Tallinna Kalev,0,1,A,0.0,0.0,D
+EST,2009-05-26,16:45,Paide Linnameeskond,Tulevik Viljandi,0,1,A,0.0,1.0,A
+EST,2009-05-26,16:45,JK Narva Trans,JK Tammeka,3,1,H,1.0,0.0,H
+EST,2009-05-30,15:00,JK Sillamäe Kalev,JK Nõmme Kalju,2,0,H,1.0,0.0,H
+EST,2009-05-30,15:00,JK Tallinna Kalev,Paide Linnameeskond,0,0,D,0.0,0.0,D
+EST,2009-05-30,17:30,Tulevik Viljandi,JK Narva Trans,1,2,A,0.0,0.0,D
+EST,2009-06-13,15:00,FC Levadia,Tulevik Viljandi,5,0,H,2.0,0.0,H
+EST,2009-06-13,15:00,JK Nõmme Kalju,JK Tammeka,4,0,H,1.0,0.0,H
+EST,2009-06-13,15:00,Paide Linnameeskond,FC Flora,0,6,A,0.0,3.0,A
+EST,2009-06-13,17:30,FC Kuressaare,JK Sillamäe Kalev,0,1,A,0.0,1.0,A
+EST,2009-06-13,17:30,JK Narva Trans,JK Tallinna Kalev,3,1,H,2.0,0.0,H
+EST,2009-06-16,16:45,JK Sillamäe Kalev,JK Tammeka,5,0,H,1.0,0.0,H
+EST,2009-06-16,16:45,Tulevik Viljandi,JK Nõmme Kalju,0,2,A,0.0,0.0,D
+EST,2009-06-16,16:45,JK Tallinna Kalev,FC Levadia,2,2,D,2.0,1.0,H
+EST,2009-06-16,16:45,FC Kuressaare,Paide Linnameeskond,1,0,H,0.0,0.0,D
+EST,2009-06-16,16:45,FC Flora,JK Narva Trans,1,1,D,0.0,0.0,D
+EST,2009-06-20,15:00,Paide Linnameeskond,JK Sillamäe Kalev,0,2,A,0.0,0.0,D
+EST,2009-06-20,15:00,JK Narva Trans,FC Kuressaare,2,0,H,1.0,0.0,H
+EST,2009-06-20,15:00,JK Nõmme Kalju,JK Tallinna Kalev,2,1,H,0.0,1.0,A
+EST,2009-06-20,15:00,JK Tammeka,Tulevik Viljandi,1,1,D,0.0,0.0,D
+EST,2009-06-20,17:30,FC Levadia,FC Flora,3,2,H,3.0,0.0,H
+EST,2009-07-04,15:00,JK Tallinna Kalev,JK Tammeka,0,4,A,0.0,3.0,A
+EST,2009-07-04,17:30,JK Sillamäe Kalev,Tulevik Viljandi,1,0,H,1.0,0.0,H
+EST,2009-07-07,16:45,FC Kuressaare,FC Levadia,1,7,A,1.0,4.0,A
+EST,2009-07-11,15:00,Paide Linnameeskond,FC Levadia,1,5,A,0.0,4.0,A
+EST,2009-07-11,15:00,FC Flora,JK Tammeka,2,1,H,1.0,0.0,H
+EST,2009-07-11,17:30,JK Tallinna Kalev,Tulevik Viljandi,0,2,A,0.0,1.0,A
+EST,2009-07-14,16:45,JK Narva Trans,JK Sillamäe Kalev,0,1,A,0.0,0.0,D
+EST,2009-07-18,15:00,JK Sillamäe Kalev,JK Tallinna Kalev,7,0,H,2.0,0.0,H
+EST,2009-07-18,15:00,JK Tammeka,FC Kuressaare,1,2,A,0.0,1.0,A
+EST,2009-07-18,15:00,JK Nõmme Kalju,Paide Linnameeskond,10,0,H,4.0,0.0,H
+EST,2009-07-25,15:00,JK Narva Trans,JK Nõmme Kalju,0,0,D,0.0,0.0,D
+EST,2009-07-25,15:00,FC Kuressaare,Tulevik Viljandi,0,4,A,0.0,3.0,A
+EST,2009-07-25,17:30,Paide Linnameeskond,JK Tammeka,2,1,H,1.0,0.0,H
+EST,2009-07-28,16:45,FC Flora,JK Sillamäe Kalev,4,1,H,3.0,1.0,H
+EST,2009-07-28,16:45,Paide Linnameeskond,JK Narva Trans,0,5,A,0.0,3.0,A
+EST,2009-08-01,15:00,FC Levadia,JK Nõmme Kalju,3,1,H,1.0,0.0,H
+EST,2009-08-01,15:00,JK Sillamäe Kalev,FC Flora,1,3,A,1.0,1.0,D
+EST,2009-08-01,15:00,JK Tallinna Kalev,FC Kuressaare,1,4,A,0.0,0.0,D
+EST,2009-08-01,15:00,JK Tammeka,JK Narva Trans,0,1,A,0.0,1.0,A
+EST,2009-08-01,17:30,Tulevik Viljandi,Paide Linnameeskond,4,0,H,1.0,0.0,H
+EST,2009-08-04,16:45,FC Flora,JK Nõmme Kalju,0,0,D,0.0,0.0,D
+EST,2009-08-08,15:00,JK Nõmme Kalju,JK Sillamäe Kalev,1,1,D,0.0,0.0,D
+EST,2009-08-08,15:00,FC Levadia,JK Tammeka,6,1,H,2.0,1.0,H
+EST,2009-08-08,15:00,Paide Linnameeskond,JK Tallinna Kalev,3,2,H,1.0,1.0,D
+EST,2009-08-08,15:00,FC Kuressaare,FC Flora,0,3,A,0.0,2.0,A
+EST,2009-08-08,17:30,JK Narva Trans,Tulevik Viljandi,3,1,H,2.0,1.0,H
+EST,2009-08-15,15:00,FC Flora,Paide Linnameeskond,0,0,D,0.0,0.0,D
+EST,2009-08-15,15:00,JK Tallinna Kalev,JK Narva Trans,0,2,A,0.0,1.0,A
+EST,2009-08-15,15:00,Tulevik Viljandi,FC Levadia,0,0,D,0.0,0.0,D
+EST,2009-08-15,15:00,JK Tammeka,JK Nõmme Kalju,0,1,A,0.0,0.0,D
+EST,2009-08-15,17:30,JK Sillamäe Kalev,FC Kuressaare,5,1,H,0.0,1.0,A
+EST,2009-08-18,16:45,FC Flora,FC Kuressaare,3,0,H,2.0,0.0,H
+EST,2009-08-22,15:00,JK Narva Trans,FC Flora,0,0,D,0.0,0.0,D
+EST,2009-08-22,15:00,Paide Linnameeskond,FC Kuressaare,2,0,H,0.0,0.0,D
+EST,2009-08-22,15:00,JK Nõmme Kalju,Tulevik Viljandi,1,1,D,0.0,1.0,A
+EST,2009-08-22,17:30,JK Tammeka,JK Sillamäe Kalev,1,2,A,0.0,1.0,A
+EST,2009-08-23,15:00,FC Levadia,JK Tallinna Kalev,5,1,H,3.0,0.0,H
+EST,2009-08-29,15:00,JK Sillamäe Kalev,Paide Linnameeskond,3,0,H,1.0,0.0,H
+EST,2009-08-29,15:00,FC Kuressaare,JK Narva Trans,0,7,A,0.0,1.0,A
+EST,2009-08-29,15:00,JK Tallinna Kalev,JK Nõmme Kalju,0,2,A,0.0,1.0,A
+EST,2009-08-29,15:00,Tulevik Viljandi,JK Tammeka,0,1,A,0.0,0.0,D
+EST,2009-09-01,16:00,FC Levadia,JK Sillamäe Kalev,6,1,H,2.0,1.0,H
+EST,2009-09-12,12:00,Tulevik Viljandi,JK Sillamäe Kalev,1,3,A,1.0,1.0,D
+EST,2009-09-12,12:00,FC Levadia,FC Kuressaare,8,0,H,2.0,0.0,H
+EST,2009-09-12,12:00,JK Tammeka,JK Tallinna Kalev,1,0,H,1.0,0.0,H
+EST,2009-09-12,12:00,JK Nõmme Kalju,FC Flora,3,2,H,2.0,2.0,D
+EST,2009-09-12,15:00,JK Narva Trans,Paide Linnameeskond,4,1,H,1.0,1.0,D
+EST,2009-09-15,16:45,FC Flora,FC Levadia,1,3,A,0.0,3.0,A
+EST,2009-09-19,12:00,JK Sillamäe Kalev,Tulevik Viljandi,3,1,H,1.0,1.0,D
+EST,2009-09-19,12:00,JK Tallinna Kalev,JK Tammeka,1,6,A,1.0,5.0,A
+EST,2009-09-19,12:00,Paide Linnameeskond,JK Narva Trans,1,1,D,1.0,0.0,H
+EST,2009-09-19,12:00,FC Kuressaare,FC Levadia,1,3,A,1.0,1.0,D
+EST,2009-09-19,15:00,FC Flora,JK Nõmme Kalju,2,2,D,1.0,2.0,A
+EST,2009-09-26,12:00,JK Narva Trans,FC Kuressaare,10,0,H,5.0,0.0,H
+EST,2009-09-26,12:00,JK Nõmme Kalju,JK Tallinna Kalev,3,4,A,2.0,1.0,H
+EST,2009-09-26,12:00,JK Tammeka,Tulevik Viljandi,0,3,A,0.0,1.0,A
+EST,2009-09-26,12:00,Paide Linnameeskond,JK Sillamäe Kalev,0,1,A,0.0,1.0,A
+EST,2009-09-26,15:00,FC Levadia,FC Flora,1,0,H,1.0,0.0,H
+EST,2009-09-29,15:00,Tulevik Viljandi,FC Flora,0,1,A,0.0,0.0,D
+EST,2009-09-29,16:45,JK Nõmme Kalju,FC Levadia,1,3,A,0.0,3.0,A
+EST,2009-10-03,12:00,JK Tallinna Kalev,FC Levadia,0,1,A,0.0,0.0,D
+EST,2009-10-03,12:00,FC Kuressaare,Paide Linnameeskond,4,1,H,1.0,0.0,H
+EST,2009-10-03,12:00,JK Sillamäe Kalev,JK Tammeka,3,0,H,1.0,0.0,H
+EST,2009-10-03,12:00,Tulevik Viljandi,JK Nõmme Kalju,3,2,H,2.0,2.0,D
+EST,2009-10-03,15:00,FC Flora,JK Narva Trans,1,2,A,1.0,1.0,D
+EST,2009-10-06,14:45,FC Levadia,JK Narva Trans,1,1,D,0.0,1.0,A
+EST,2009-10-17,12:00,FC Kuressaare,JK Sillamäe Kalev,0,3,A,0.0,0.0,D
+EST,2009-10-17,12:00,Paide Linnameeskond,FC Flora,0,6,A,0.0,1.0,A
+EST,2009-10-17,12:00,FC Levadia,Tulevik Viljandi,3,0,H,2.0,0.0,H
+EST,2009-10-17,12:00,JK Narva Trans,JK Tallinna Kalev,1,0,H,0.0,0.0,D
+EST,2009-10-17,15:00,JK Nõmme Kalju,JK Tammeka,1,1,D,0.0,0.0,D
+EST,2009-10-20,16:45,JK Tammeka,FC Levadia,0,2,A,0.0,1.0,A
+EST,2009-10-20,16:45,FC Flora,JK Tallinna Kalev,4,1,H,0.0,0.0,D
+EST,2009-10-24,12:00,JK Sillamäe Kalev,JK Nõmme Kalju,1,1,D,0.0,1.0,A
+EST,2009-10-24,12:00,Tulevik Viljandi,JK Narva Trans,0,1,A,0.0,1.0,A
+EST,2009-10-24,12:00,JK Tallinna Kalev,Paide Linnameeskond,3,2,H,2.0,1.0,H
+EST,2009-10-24,12:00,FC Flora,FC Kuressaare,3,0,H,1.0,0.0,H
+EST,2009-10-24,15:00,JK Tammeka,FC Levadia,0,2,A,0.0,2.0,A
+EST,2009-10-31,12:00,FC Kuressaare,JK Tallinna Kalev,2,0,H,0.0,0.0,D
+EST,2009-10-31,12:00,Paide Linnameeskond,Tulevik Viljandi,0,4,A,0.0,3.0,A
+EST,2009-10-31,12:00,JK Narva Trans,JK Tammeka,2,0,H,2.0,0.0,H
+EST,2009-10-31,12:00,JK Nõmme Kalju,FC Levadia,0,5,A,0.0,4.0,A
+EST,2009-10-31,15:00,FC Flora,JK Sillamäe Kalev,4,0,H,1.0,0.0,H
+EST,2009-11-03,11:05,JK Sillamäe Kalev,FC Levadia,0,1,A,0.0,0.0,D
+EST,2009-11-03,16:00,JK Tammeka,Paide Linnameeskond,1,0,H,1.0,0.0,H
+EST,2009-11-03,16:00,Tulevik Viljandi,FC Kuressaare,6,0,H,2.0,0.0,H
+EST,2009-11-03,16:00,JK Tallinna Kalev,FC Flora,1,2,A,0.0,2.0,A
+EST,2009-11-03,16:00,JK Nõmme Kalju,JK Narva Trans,2,2,D,1.0,1.0,D
+EST,2009-11-07,11:00,FC Kuressaare,JK Tammeka,0,2,A,0.0,2.0,A
+EST,2009-11-07,11:00,Paide Linnameeskond,JK Nõmme Kalju,0,3,A,0.0,2.0,A
+EST,2009-11-07,11:00,JK Narva Trans,FC Levadia,2,1,H,0.0,0.0,D
+EST,2009-11-07,11:15,JK Tallinna Kalev,JK Sillamäe Kalev,2,6,A,1.0,3.0,A
+EST,2009-11-07,15:30,FC Flora,Tulevik Viljandi,4,1,H,1.0,0.0,H
+EST,2009-11-10,11:00,JK Sillamäe Kalev,JK Narva Trans,0,2,A,0.0,0.0,D
+EST,2009-11-10,16:00,FC Levadia,Paide Linnameeskond,4,2,H,2.0,2.0,D
+EST,2009-11-10,16:00,JK Nõmme Kalju,FC Kuressaare,1,0,H,0.0,0.0,D
+EST,2009-11-10,16:00,JK Tammeka,FC Flora,0,4,A,0.0,3.0,A
+EST,2009-11-10,16:00,Tulevik Viljandi,JK Tallinna Kalev,4,1,H,0.0,0.0,D

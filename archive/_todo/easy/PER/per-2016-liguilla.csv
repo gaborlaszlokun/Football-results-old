@@ -1,0 +1,113 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2016-08-19,21:30,Universidad Técnica,Universidad San Martín,5,0,H,1.0,0.0,H
+PER,2016-08-20,21:00,Sporting Cristal,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2016-08-20,23:45,FBC Melgar,Universidad Cesar Vallejo,1,0,H,0.0,0.0,D
+PER,2016-08-21,02:00,Juan Aurich,Real Garcilaso,2,1,H,1.0,1.0,D
+PER,2016-08-21,17:15,Sport Huancayo,Comerciantes Unidos,1,1,D,0.0,0.0,D
+PER,2016-08-21,19:30,Ayacucho FC,Alianza Lima,1,1,D,0.0,0.0,D
+PER,2016-08-21,22:00,Universitario de Deportes,Alianza Atlético,4,0,H,3.0,0.0,H
+PER,2016-08-22,21:30,Defensor La Bocana,Deportivo Municipal,1,2,A,1.0,0.0,H
+PER,2016-08-24,19:15,Universidad San Martín,Ayacucho FC,1,1,D,0.0,1.0,A
+PER,2016-08-24,21:30,Comerciantes Unidos,Universitario de Deportes,1,1,D,1.0,1.0,D
+PER,2016-08-25,19:15,CD Unión Comercio,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2016-08-25,21:30,Deportivo Municipal,Juan Aurich,1,4,A,0.0,0.0,D
+PER,2016-08-25,23:45,Universidad Cesar Vallejo,Sporting Cristal,2,1,H,2.0,1.0,H
+PER,2016-08-26,02:00,Alianza Lima,Universidad Técnica,2,1,H,1.0,1.0,D
+PER,2016-08-28,17:30,Real Garcilaso,Defensor La Bocana,4,2,H,2.0,1.0,H
+PER,2016-08-29,19:30,Alianza Atlético,Sport Huancayo,3,1,H,1.0,1.0,D
+PER,2016-09-09,21:30,Universidad Técnica,Comerciantes Unidos,2,2,D,2.0,0.0,H
+PER,2016-09-10,18:45,Juan Aurich,Defensor La Bocana,1,3,A,0.0,1.0,A
+PER,2016-09-10,21:00,Sporting Cristal,Real Garcilaso,2,1,H,1.0,0.0,H
+PER,2016-09-10,23:45,Universidad Cesar Vallejo,CD Unión Comercio,0,1,A,0.0,1.0,A
+PER,2016-09-11,02:00,Universidad San Martín,Alianza Lima,3,0,H,1.0,0.0,H
+PER,2016-09-11,17:15,Ayacucho FC,Alianza Atlético,5,2,H,1.0,0.0,H
+PER,2016-09-11,19:30,FBC Melgar,Deportivo Municipal,2,1,H,0.0,1.0,A
+PER,2016-09-11,22:00,Universitario de Deportes,Sport Huancayo,1,0,H,0.0,0.0,D
+PER,2016-09-17,18:30,CD Unión Comercio,Juan Aurich,2,2,D,0.0,1.0,A
+PER,2016-09-17,21:00,Deportivo Municipal,Universidad Cesar Vallejo,2,1,H,0.0,0.0,D
+PER,2016-09-18,01:00,Alianza Lima,Universitario de Deportes,1,1,D,1.0,0.0,H
+PER,2016-09-18,17:15,Sport Huancayo,Universidad Técnica,1,1,D,0.0,1.0,A
+PER,2016-09-18,19:30,Alianza Atlético,Universidad San Martín,2,3,A,0.0,3.0,A
+PER,2016-09-18,22:00,Defensor La Bocana,Sporting Cristal,1,2,A,0.0,1.0,A
+PER,2016-09-19,19:15,Real Garcilaso,FBC Melgar,1,2,A,1.0,1.0,D
+PER,2016-09-19,21:30,Comerciantes Unidos,Ayacucho FC,3,1,H,2.0,1.0,H
+PER,2016-09-23,21:30,Universidad San Martín,Comerciantes Unidos,1,1,D,1.0,0.0,H
+PER,2016-09-24,18:30,Ayacucho FC,Sport Huancayo,0,1,A,0.0,0.0,D
+PER,2016-09-24,21:00,Universidad Técnica,Universitario de Deportes,1,1,D,1.0,0.0,H
+PER,2016-09-24,23:45,Universidad Cesar Vallejo,Real Garcilaso,2,0,H,1.0,0.0,H
+PER,2016-09-25,02:00,Alianza Lima,Alianza Atlético,0,0,D,0.0,0.0,D
+PER,2016-09-25,17:00,CD Unión Comercio,Deportivo Municipal,1,2,A,1.0,2.0,A
+PER,2016-09-25,19:00,FBC Melgar,Defensor La Bocana,1,0,H,0.0,0.0,D
+PER,2016-09-25,21:30,Sporting Cristal,Juan Aurich,3,0,H,0.0,0.0,D
+PER,2016-09-27,19:15,Sport Huancayo,Universidad San Martín,3,0,H,0.0,0.0,D
+PER,2016-09-27,21:30,Sporting Cristal,Deportivo Municipal,0,2,A,0.0,0.0,D
+PER,2016-09-27,21:30,Universidad Técnica,Alianza Atlético,4,0,H,3.0,0.0,H
+PER,2016-09-28,17:00,Real Garcilaso,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2016-09-28,19:15,Juan Aurich,FBC Melgar,1,1,D,0.0,0.0,D
+PER,2016-09-28,21:30,Comerciantes Unidos,Alianza Lima,2,1,H,1.0,0.0,H
+PER,2016-09-29,21:30,Defensor La Bocana,Universidad Cesar Vallejo,1,3,A,1.0,1.0,D
+PER,2016-10-02,22:00,Universitario de Deportes,Ayacucho FC,4,2,H,3.0,1.0,H
+PER,2016-10-15,18:30,Ayacucho FC,Universidad Técnica,2,0,H,0.0,0.0,D
+PER,2016-10-15,21:00,Deportivo Municipal,Real Garcilaso,1,0,H,1.0,0.0,H
+PER,2016-10-15,23:45,Universidad Cesar Vallejo,Juan Aurich,2,1,H,0.0,0.0,D
+PER,2016-10-16,17:00,CD Unión Comercio,Defensor La Bocana,1,1,D,0.0,0.0,D
+PER,2016-10-16,19:30,FBC Melgar,Sporting Cristal,2,0,H,1.0,0.0,H
+PER,2016-10-16,21:30,Alianza Atlético,Comerciantes Unidos,1,0,H,0.0,0.0,D
+PER,2016-10-16,22:00,Alianza Lima,Sport Huancayo,1,0,H,1.0,0.0,H
+PER,2016-10-18,19:15,Universidad San Martín,Universidad Técnica,6,0,H,4.0,0.0,H
+PER,2016-10-18,21:30,Real Garcilaso,Juan Aurich,1,1,D,1.0,0.0,H
+PER,2016-10-19,19:15,CD Unión Comercio,Sporting Cristal,2,0,H,0.0,0.0,D
+PER,2016-10-19,21:30,Alianza Atlético,Universitario de Deportes,1,3,A,1.0,2.0,A
+PER,2016-10-19,23:45,Universidad Cesar Vallejo,FBC Melgar,2,3,A,0.0,1.0,A
+PER,2016-10-20,21:30,Deportivo Municipal,Defensor La Bocana,2,2,D,0.0,1.0,A
+PER,2016-10-20,21:30,Comerciantes Unidos,Sport Huancayo,5,1,H,2.0,0.0,H
+PER,2016-10-22,18:30,Ayacucho FC,Universidad San Martín,2,2,D,1.0,1.0,D
+PER,2016-10-22,21:00,Universidad Técnica,Alianza Lima,0,2,A,0.0,0.0,D
+PER,2016-10-23,17:00,Sport Huancayo,Alianza Atlético,3,1,H,1.0,0.0,H
+PER,2016-10-23,17:00,Universitario de Deportes,Comerciantes Unidos,2,0,H,1.0,0.0,H
+PER,2016-10-23,19:00,Juan Aurich,Deportivo Municipal,0,2,A,0.0,0.0,D
+PER,2016-10-23,21:30,Sporting Cristal,Universidad Cesar Vallejo,7,2,H,3.0,1.0,H
+PER,2016-10-24,19:15,FBC Melgar,CD Unión Comercio,1,0,H,0.0,0.0,D
+PER,2016-10-24,21:30,Defensor La Bocana,Real Garcilaso,0,2,A,0.0,1.0,A
+PER,2016-10-27,02:00,Universidad San Martín,Universitario de Deportes,4,4,D,4.0,1.0,H
+PER,2016-10-28,19:15,CD Unión Comercio,Universidad Cesar Vallejo,3,1,H,1.0,0.0,H
+PER,2016-10-28,21:30,Comerciantes Unidos,Universidad Técnica,1,0,H,1.0,0.0,H
+PER,2016-10-29,18:30,Alianza Atlético,Ayacucho FC,1,1,D,1.0,1.0,D
+PER,2016-10-29,21:00,Deportivo Municipal,FBC Melgar,0,0,D,0.0,0.0,D
+PER,2016-10-30,16:15,Sport Huancayo,Universitario de Deportes,4,0,H,1.0,0.0,H
+PER,2016-10-30,18:30,Real Garcilaso,Sporting Cristal,1,0,H,0.0,0.0,D
+PER,2016-10-30,21:00,Alianza Lima,Universidad San Martín,1,2,A,1.0,1.0,D
+PER,2016-10-31,20:30,Defensor La Bocana,Juan Aurich,0,3,A,0.0,0.0,D
+PER,2016-11-01,20:30,Ayacucho FC,Comerciantes Unidos,2,0,H,1.0,0.0,H
+PER,2016-11-02,18:15,Universidad San Martín,Alianza Atlético,3,1,H,2.0,1.0,H
+PER,2016-11-02,20:30,Universidad Técnica,Sport Huancayo,3,0,H,1.0,0.0,H
+PER,2016-11-02,22:45,FBC Melgar,Real Garcilaso,0,0,D,0.0,0.0,D
+PER,2016-11-03,18:15,Juan Aurich,CD Unión Comercio,2,1,H,1.0,0.0,H
+PER,2016-11-03,20:30,Sporting Cristal,Defensor La Bocana,2,5,A,1.0,1.0,D
+PER,2016-11-04,01:00,Universidad Cesar Vallejo,Deportivo Municipal,3,0,H,2.0,0.0,H
+PER,2016-11-13,21:00,Alianza Lima,Ayacucho FC,0,1,A,0.0,1.0,A
+PER,2016-11-17,,Universitario de Deportes,Alianza Lima,0,3,A,,,
+PER,2016-11-18,18:15,Sport Huancayo,Ayacucho FC,0,0,D,0.0,0.0,D
+PER,2016-11-18,20:30,Defensor La Bocana,FBC Melgar,1,3,A,0.0,2.0,A
+PER,2016-11-19,20:00,Deportivo Municipal,CD Unión Comercio,2,0,H,1.0,0.0,H
+PER,2016-11-19,22:45,Juan Aurich,Sporting Cristal,0,0,D,0.0,0.0,D
+PER,2016-11-20,16:00,Real Garcilaso,Universidad Cesar Vallejo,2,0,H,1.0,0.0,H
+PER,2016-11-20,18:30,Alianza Atlético,Alianza Lima,4,0,H,2.0,0.0,H
+PER,2016-11-20,21:00,Universitario de Deportes,Universidad Técnica,1,1,D,1.0,0.0,H
+PER,2016-11-21,20:30,Comerciantes Unidos,Universidad San Martín,5,1,H,3.0,1.0,H
+PER,2016-11-22,20:30,FBC Melgar,Juan Aurich,1,2,A,1.0,1.0,D
+PER,2016-11-23,18:15,CD Unión Comercio,Real Garcilaso,0,0,D,0.0,0.0,D
+PER,2016-11-23,20:30,Ayacucho FC,Universitario de Deportes,1,1,D,1.0,1.0,D
+PER,2016-11-23,22:45,Universidad Cesar Vallejo,Defensor La Bocana,1,1,D,0.0,0.0,D
+PER,2016-11-24,18:15,Universidad San Martín,Sport Huancayo,1,0,H,1.0,0.0,H
+PER,2016-11-24,20:30,Deportivo Municipal,Sporting Cristal,1,3,A,1.0,1.0,D
+PER,2016-11-24,20:30,Alianza Atlético,Universidad Técnica,4,2,H,1.0,1.0,D
+PER,2016-11-25,01:00,Alianza Lima,Comerciantes Unidos,4,0,H,1.0,0.0,H
+PER,2016-11-27,20:00,Sporting Cristal,FBC Melgar,3,2,H,2.0,0.0,H
+PER,2016-11-27,20:00,Juan Aurich,Universidad Cesar Vallejo,0,1,A,0.0,1.0,A
+PER,2016-11-27,20:00,Defensor La Bocana,CD Unión Comercio,3,3,D,1.0,2.0,A
+PER,2016-11-27,20:00,Real Garcilaso,Deportivo Municipal,2,1,H,0.0,0.0,D
+PER,2016-11-27,20:00,Comerciantes Unidos,Alianza Atlético,7,2,H,4.0,0.0,H
+PER,2016-11-27,20:00,Sport Huancayo,Alianza Lima,1,1,D,0.0,0.0,D
+PER,2016-11-27,20:00,Universitario de Deportes,Universidad San Martín,0,1,A,0.0,1.0,A
+PER,2016-11-27,20:00,Universidad Técnica,Ayacucho FC,1,1,D,1.0,1.0,D

@@ -1,241 +1,241 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ALG,10/08/2006,,USM Blida,MC Alger,2,2,D,NaN,NaN,NaN
-ALG,10/08/2006,,ASO Chlef,NA Hussein Dey,4,1,H,NaN,NaN,NaN
-ALG,10/08/2006,,JSM Béjaïa,OMR El Annasser,0,0,D,NaN,NaN,NaN
-ALG,10/08/2006,,ASM Oran,MC Oran,0,1,A,NaN,NaN,NaN
-ALG,10/08/2006,,CR Bélouizdad,CA Bordj Bou Arreridj,2,0,H,NaN,NaN,NaN
-ALG,10/08/2006,,Paradou AC,WA Tlemcen,4,1,H,NaN,NaN,NaN
-ALG,10/08/2006,,USM Alger,CA Batna,2,0,H,NaN,NaN,NaN
-ALG,25/09/2006,,JS Kabylie,ES Sétif,2,3,A,NaN,NaN,NaN
-ALG,21/08/2006,,USM Blida,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,21/08/2006,,WA Tlemcen,CA Batna,0,0,D,NaN,NaN,NaN
-ALG,21/08/2006,,CA Bordj Bou Arreridj,Paradou AC,1,1,D,NaN,NaN,NaN
-ALG,21/08/2006,,MC Oran,USM Alger,1,0,H,NaN,NaN,NaN
-ALG,21/08/2006,,OMR El Annasser,CR Bélouizdad,1,1,D,NaN,NaN,NaN
-ALG,21/08/2006,,ES Sétif,JSM Béjaïa,0,0,D,NaN,NaN,NaN
-ALG,21/08/2006,,NA Hussein Dey,JS Kabylie,0,0,D,NaN,NaN,NaN
-ALG,21/08/2006,,MC Alger,ASO Chlef,1,0,H,NaN,NaN,NaN
-ALG,25/08/2006,,CA Batna,CA Bordj Bou Arreridj,3,2,H,NaN,NaN,NaN
-ALG,25/08/2006,,ASO Chlef,USM Blida,1,1,D,NaN,NaN,NaN
-ALG,25/08/2006,,JSM Béjaïa,NA Hussein Dey,2,0,H,NaN,NaN,NaN
-ALG,25/08/2006,,ASM Oran,OMR El Annasser,1,1,D,NaN,NaN,NaN
-ALG,25/08/2006,,CR Bélouizdad,ES Sétif,1,2,A,NaN,NaN,NaN
-ALG,25/08/2006,,Paradou AC,MC Oran,2,0,H,NaN,NaN,NaN
-ALG,25/08/2006,,USM Alger,WA Tlemcen,3,0,H,NaN,NaN,NaN
-ALG,13/11/2006,,JS Kabylie,MC Alger,1,0,H,NaN,NaN,NaN
-ALG,31/08/2006,,MC Alger,JSM Béjaïa,0,1,A,NaN,NaN,NaN
-ALG,07/09/2006,,ASO Chlef,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,07/09/2006,,CA Bordj Bou Arreridj,WA Tlemcen,1,0,H,NaN,NaN,NaN
-ALG,07/09/2006,,MC Oran,CA Batna,0,0,D,NaN,NaN,NaN
-ALG,07/09/2006,,OMR El Annasser,Paradou AC,0,1,A,NaN,NaN,NaN
-ALG,07/09/2006,,ES Sétif,USM Alger,2,0,H,NaN,NaN,NaN
-ALG,07/09/2006,,NA Hussein Dey,CR Bélouizdad,1,1,D,NaN,NaN,NaN
-ALG,27/11/2006,,USM Blida,JS Kabylie,0,1,A,NaN,NaN,NaN
-ALG,11/09/2006,,Paradou AC,ES Sétif,0,2,A,NaN,NaN,NaN
-ALG,11/09/2006,,USM Alger,CA Bordj Bou Arreridj,2,1,H,NaN,NaN,NaN
-ALG,14/09/2006,,CA Batna,OMR El Annasser,4,1,H,NaN,NaN,NaN
-ALG,14/09/2006,,WA Tlemcen,MC Oran,0,0,D,NaN,NaN,NaN
-ALG,14/09/2006,,JSM Béjaïa,USM Blida,0,0,D,NaN,NaN,NaN
-ALG,14/09/2006,,ASM Oran,NA Hussein Dey,1,1,D,NaN,NaN,NaN
-ALG,15/09/2006,,CR Bélouizdad,MC Alger,0,2,A,NaN,NaN,NaN
-ALG,11/12/2006,,JS Kabylie,ASO Chlef,2,1,H,NaN,NaN,NaN
-ALG,21/09/2006,,USM Blida,CR Bélouizdad,0,0,D,NaN,NaN,NaN
-ALG,21/09/2006,,ASO Chlef,JSM Béjaïa,2,1,H,NaN,NaN,NaN
-ALG,21/09/2006,,JS Kabylie,Paradou AC,0,0,D,NaN,NaN,NaN
-ALG,21/09/2006,,NA Hussein Dey,USM Alger,2,0,H,NaN,NaN,NaN
-ALG,25/09/2006,,MC Oran,CA Bordj Bou Arreridj,4,0,H,NaN,NaN,NaN
-ALG,25/09/2006,,MC Alger,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,16/10/2006,,ES Sétif,CA Batna,2,0,H,NaN,NaN,NaN
-ALG,02/11/2006,,OMR El Annasser,WA Tlemcen,1,2,A,NaN,NaN,NaN
-ALG,27/09/2006,,CA Batna,USM Blida,1,1,D,NaN,NaN,NaN
-ALG,27/09/2006,,WA Tlemcen,ASO Chlef,1,2,A,NaN,NaN,NaN
-ALG,27/09/2006,,Paradou AC,NA Hussein Dey,2,0,H,NaN,NaN,NaN
-ALG,29/09/2006,,CA Bordj Bou Arreridj,OMR El Annasser,0,1,A,NaN,NaN,NaN
-ALG,29/09/2006,,JSM Béjaïa,JS Kabylie,1,0,H,NaN,NaN,NaN
-ALG,29/09/2006,,ASM Oran,ES Sétif,0,1,A,NaN,NaN,NaN
-ALG,29/09/2006,,CR Bélouizdad,MC Oran,2,1,H,NaN,NaN,NaN
-ALG,29/09/2006,,USM Alger,MC Alger,2,2,D,NaN,NaN,NaN
-ALG,12/10/2006,,USM Blida,USM Alger,2,0,H,NaN,NaN,NaN
-ALG,12/10/2006,,ASO Chlef,CR Bélouizdad,3,1,H,NaN,NaN,NaN
-ALG,12/10/2006,,JS Kabylie,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,12/10/2006,,JSM Béjaïa,Paradou AC,2,1,H,NaN,NaN,NaN
-ALG,12/10/2006,,OMR El Annasser,MC Oran,1,0,H,NaN,NaN,NaN
-ALG,12/10/2006,,ES Sétif,CA Bordj Bou Arreridj,2,1,H,NaN,NaN,NaN
-ALG,12/10/2006,,NA Hussein Dey,WA Tlemcen,2,1,H,NaN,NaN,NaN
-ALG,12/10/2006,,MC Alger,CA Batna,3,0,H,NaN,NaN,NaN
-ALG,19/10/2006,,WA Tlemcen,MC Alger,1,0,H,NaN,NaN,NaN
-ALG,19/10/2006,,CA Bordj Bou Arreridj,USM Blida,2,1,H,NaN,NaN,NaN
-ALG,19/10/2006,,ASM Oran,JSM Béjaïa,1,1,D,NaN,NaN,NaN
-ALG,19/10/2006,,CR Bélouizdad,JS Kabylie,3,2,H,NaN,NaN,NaN
-ALG,19/10/2006,,Paradou AC,ASO Chlef,0,0,D,NaN,NaN,NaN
-ALG,19/10/2006,,USM Alger,OMR El Annasser,0,0,D,NaN,NaN,NaN
-ALG,20/10/2006,,CA Batna,NA Hussein Dey,1,1,D,NaN,NaN,NaN
-ALG,02/11/2006,,MC Oran,ES Sétif,0,2,A,NaN,NaN,NaN
-ALG,26/10/2006,,NA Hussein Dey,MC Oran,3,2,H,NaN,NaN,NaN
-ALG,27/10/2006,,USM Blida,WA Tlemcen,1,0,H,NaN,NaN,NaN
-ALG,27/10/2006,,ASO Chlef,CA Batna,1,0,H,NaN,NaN,NaN
-ALG,27/10/2006,,JS Kabylie,USM Alger,1,0,H,NaN,NaN,NaN
-ALG,27/10/2006,,JSM Béjaïa,CR Bélouizdad,1,1,D,NaN,NaN,NaN
-ALG,27/10/2006,,ASM Oran,Paradou AC,1,1,D,NaN,NaN,NaN
-ALG,27/10/2006,,ES Sétif,OMR El Annasser,0,0,D,NaN,NaN,NaN
-ALG,04/12/2006,,MC Alger,CA Bordj Bou Arreridj,3,0,H,NaN,NaN,NaN
-ALG,09/11/2006,,CA Batna,JS Kabylie,1,1,D,NaN,NaN,NaN
-ALG,09/11/2006,,WA Tlemcen,ES Sétif,1,0,H,NaN,NaN,NaN
-ALG,09/11/2006,,CA Bordj Bou Arreridj,NA Hussein Dey,1,0,H,NaN,NaN,NaN
-ALG,09/11/2006,,MC Oran,JSM Béjaïa,1,0,H,NaN,NaN,NaN
-ALG,09/11/2006,,CR Bélouizdad,ASM Oran,3,1,H,NaN,NaN,NaN
-ALG,09/11/2006,,Paradou AC,MC Alger,2,2,D,NaN,NaN,NaN
-ALG,09/11/2006,,USM Alger,ASO Chlef,2,0,H,NaN,NaN,NaN
-ALG,10/11/2006,,OMR El Annasser,USM Blida,3,1,H,NaN,NaN,NaN
-ALG,23/11/2006,,USM Blida,MC Oran,0,0,D,NaN,NaN,NaN
-ALG,23/11/2006,,JS Kabylie,WA Tlemcen,1,0,H,NaN,NaN,NaN
-ALG,23/11/2006,,JSM Béjaïa,CA Batna,1,0,H,NaN,NaN,NaN
-ALG,23/11/2006,,ASM Oran,USM Alger,2,1,H,NaN,NaN,NaN
-ALG,23/11/2006,,CR Bélouizdad,Paradou AC,0,3,A,NaN,NaN,NaN
-ALG,21/12/2006,,NA Hussein Dey,ES Sétif,0,0,D,NaN,NaN,NaN
-ALG,21/12/2006,,MC Alger,OMR El Annasser,1,1,D,NaN,NaN,NaN
-ALG,25/12/2006,,ASO Chlef,CA Bordj Bou Arreridj,2,0,H,NaN,NaN,NaN
-ALG,30/11/2006,,CA Batna,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,30/11/2006,,WA Tlemcen,JSM Béjaïa,1,6,A,NaN,NaN,NaN
-ALG,30/11/2006,,CA Bordj Bou Arreridj,JS Kabylie,1,0,H,NaN,NaN,NaN
-ALG,30/11/2006,,MC Oran,ASO Chlef,2,1,H,NaN,NaN,NaN
-ALG,30/11/2006,,OMR El Annasser,NA Hussein Dey,0,1,A,NaN,NaN,NaN
-ALG,30/11/2006,,USM Alger,CR Bélouizdad,2,1,H,NaN,NaN,NaN
-ALG,04/12/2006,,Paradou AC,USM Blida,0,0,D,NaN,NaN,NaN
-ALG,18/12/2006,,ES Sétif,MC Alger,2,0,H,NaN,NaN,NaN
-ALG,07/12/2006,,ASO Chlef,OMR El Annasser,1,0,H,NaN,NaN,NaN
-ALG,07/12/2006,,JS Kabylie,MC Oran,2,1,H,NaN,NaN,NaN
-ALG,07/12/2006,,ASM Oran,WA Tlemcen,1,0,H,NaN,NaN,NaN
-ALG,07/12/2006,,CR Bélouizdad,CA Batna,3,1,H,NaN,NaN,NaN
-ALG,08/12/2006,,Paradou AC,USM Alger,0,1,A,NaN,NaN,NaN
-ALG,25/12/2006,,MC Alger,NA Hussein Dey,1,1,D,NaN,NaN,NaN
-ALG,28/12/2006,,USM Blida,ES Sétif,2,1,H,NaN,NaN,NaN
-ALG,28/12/2006,,JSM Béjaïa,CA Bordj Bou Arreridj,2,1,H,NaN,NaN,NaN
-ALG,14/12/2006,,CA Batna,Paradou AC,3,0,H,NaN,NaN,NaN
-ALG,14/12/2006,,WA Tlemcen,CR Bélouizdad,2,0,H,NaN,NaN,NaN
-ALG,14/12/2006,,MC Oran,MC Alger,1,2,A,NaN,NaN,NaN
-ALG,14/12/2006,,USM Alger,JSM Béjaïa,2,1,H,NaN,NaN,NaN
-ALG,15/12/2006,,OMR El Annasser,JS Kabylie,0,0,D,NaN,NaN,NaN
-ALG,04/01/2007,,NA Hussein Dey,USM Blida,0,4,A,NaN,NaN,NaN
-ALG,12/01/2007,,CA Bordj Bou Arreridj,ASM Oran,3,1,H,NaN,NaN,NaN
-ALG,12/01/2007,,ES Sétif,ASO Chlef,0,0,D,NaN,NaN,NaN
-ALG,15/01/2007,,MC Alger,USM Blida,2,1,H,NaN,NaN,NaN
-ALG,15/01/2007,,NA Hussein Dey,ASO Chlef,0,1,A,NaN,NaN,NaN
-ALG,15/01/2007,,ES Sétif,JS Kabylie,0,0,D,NaN,NaN,NaN
-ALG,15/01/2007,,OMR El Annasser,JSM Béjaïa,2,1,H,NaN,NaN,NaN
-ALG,15/01/2007,,MC Oran,ASM Oran,2,0,H,NaN,NaN,NaN
-ALG,15/01/2007,,CA Bordj Bou Arreridj,CR Bélouizdad,1,0,H,NaN,NaN,NaN
-ALG,15/01/2007,,WA Tlemcen,Paradou AC,1,0,H,NaN,NaN,NaN
-ALG,15/01/2007,,CA Batna,USM Alger,0,2,A,NaN,NaN,NaN
-ALG,18/01/2007,,ASM Oran,USM Blida,3,0,H,NaN,NaN,NaN
-ALG,18/01/2007,,CA Batna,WA Tlemcen,2,1,H,NaN,NaN,NaN
-ALG,18/01/2007,,USM Alger,MC Oran,2,0,H,NaN,NaN,NaN
-ALG,18/01/2007,,CR Bélouizdad,OMR El Annasser,1,0,H,NaN,NaN,NaN
-ALG,18/01/2007,,JSM Béjaïa,ES Sétif,1,0,H,NaN,NaN,NaN
-ALG,18/01/2007,,JS Kabylie,NA Hussein Dey,1,1,D,NaN,NaN,NaN
-ALG,18/01/2007,,ASO Chlef,MC Alger,0,0,D,NaN,NaN,NaN
-ALG,19/01/2007,,Paradou AC,CA Bordj Bou Arreridj,3,1,H,NaN,NaN,NaN
-ALG,22/01/2007,,MC Alger,JS Kabylie,0,0,D,NaN,NaN,NaN
-ALG,22/01/2007,,WA Tlemcen,USM Alger,1,1,D,NaN,NaN,NaN
-ALG,25/01/2007,,CA Bordj Bou Arreridj,CA Batna,1,0,H,NaN,NaN,NaN
-ALG,25/01/2007,,NA Hussein Dey,JSM Béjaïa,0,1,A,NaN,NaN,NaN
-ALG,25/01/2007,,OMR El Annasser,ASM Oran,2,1,H,NaN,NaN,NaN
-ALG,25/01/2007,,ES Sétif,CR Bélouizdad,0,1,A,NaN,NaN,NaN
-ALG,25/01/2007,,MC Oran,Paradou AC,0,0,D,NaN,NaN,NaN
-ALG,12/02/2007,,USM Blida,ASO Chlef,0,0,D,NaN,NaN,NaN
-ALG,01/02/2007,,JS Kabylie,USM Blida,3,0,H,NaN,NaN,NaN
-ALG,01/02/2007,,ASM Oran,ASO Chlef,1,1,D,NaN,NaN,NaN
-ALG,01/02/2007,,WA Tlemcen,CA Bordj Bou Arreridj,0,0,D,NaN,NaN,NaN
-ALG,01/02/2007,,CA Batna,MC Oran,3,2,H,NaN,NaN,NaN
-ALG,01/02/2007,,USM Alger,ES Sétif,0,0,D,NaN,NaN,NaN
-ALG,01/02/2007,,CR Bélouizdad,NA Hussein Dey,0,1,A,NaN,NaN,NaN
-ALG,01/02/2007,,JSM Béjaïa,MC Alger,1,1,D,NaN,NaN,NaN
-ALG,02/02/2007,,Paradou AC,OMR El Annasser,0,0,D,NaN,NaN,NaN
-ALG,19/02/2007,,OMR El Annasser,CA Batna,2,0,H,NaN,NaN,NaN
-ALG,19/02/2007,,MC Oran,WA Tlemcen,1,0,H,NaN,NaN,NaN
-ALG,19/02/2007,,ASO Chlef,JS Kabylie,0,0,D,NaN,NaN,NaN
-ALG,19/02/2007,,USM Blida,JSM Béjaïa,2,2,D,NaN,NaN,NaN
-ALG,19/02/2007,,NA Hussein Dey,ASM Oran,1,0,H,NaN,NaN,NaN
-ALG,19/02/2007,,MC Alger,CR Bélouizdad,4,3,H,NaN,NaN,NaN
-ALG,19/02/2007,,ES Sétif,Paradou AC,3,1,H,NaN,NaN,NaN
-ALG,19/02/2007,,CA Bordj Bou Arreridj,USM Alger,1,0,H,NaN,NaN,NaN
-ALG,22/02/2007,,CR Bélouizdad,USM Blida,1,0,H,NaN,NaN,NaN
-ALG,22/02/2007,,JSM Béjaïa,ASO Chlef,0,0,D,NaN,NaN,NaN
-ALG,22/02/2007,,CA Bordj Bou Arreridj,MC Oran,0,0,D,NaN,NaN,NaN
-ALG,22/02/2007,,WA Tlemcen,OMR El Annasser,2,0,H,NaN,NaN,NaN
-ALG,22/02/2007,,CA Batna,ES Sétif,1,2,A,NaN,NaN,NaN
-ALG,22/02/2007,,USM Alger,NA Hussein Dey,0,1,A,NaN,NaN,NaN
-ALG,22/02/2007,,ASM Oran,MC Alger,2,1,H,NaN,NaN,NaN
-ALG,23/02/2007,,Paradou AC,JS Kabylie,1,2,A,NaN,NaN,NaN
-ALG,08/03/2007,,USM Blida,CA Batna,4,0,H,NaN,NaN,NaN
-ALG,08/03/2007,,ASO Chlef,WA Tlemcen,0,0,D,NaN,NaN,NaN
-ALG,08/03/2007,,OMR El Annasser,CA Bordj Bou Arreridj,4,0,H,NaN,NaN,NaN
-ALG,08/03/2007,,ES Sétif,ASM Oran,1,1,D,NaN,NaN,NaN
-ALG,08/03/2007,,MC Oran,CR Bélouizdad,2,0,H,NaN,NaN,NaN
-ALG,08/03/2007,,NA Hussein Dey,Paradou AC,2,0,H,NaN,NaN,NaN
-ALG,02/04/2007,,JS Kabylie,JSM Béjaïa,1,0,H,NaN,NaN,NaN
-ALG,02/04/2007,,MC Alger,USM Alger,0,0,D,NaN,NaN,NaN
-ALG,12/03/2007,,CR Bélouizdad,ASO Chlef,1,0,H,NaN,NaN,NaN
-ALG,12/03/2007,,ASM Oran,JS Kabylie,0,2,A,NaN,NaN,NaN
-ALG,12/03/2007,,CA Batna,MC Alger,1,0,H,NaN,NaN,NaN
-ALG,15/03/2007,,WA Tlemcen,NA Hussein Dey,1,0,H,NaN,NaN,NaN
-ALG,16/03/2007,,MC Oran,OMR El Annasser,3,0,H,NaN,NaN,NaN
-ALG,19/03/2007,,USM Alger,USM Blida,0,0,D,NaN,NaN,NaN
-ALG,19/03/2007,,CA Bordj Bou Arreridj,ES Sétif,0,0,D,NaN,NaN,NaN
-ALG,22/03/2007,,Paradou AC,JSM Béjaïa,0,0,D,NaN,NaN,NaN
-ALG,29/03/2007,,MC Alger,WA Tlemcen,0,1,A,NaN,NaN,NaN
-ALG,29/03/2007,,USM Blida,CA Bordj Bou Arreridj,1,0,H,NaN,NaN,NaN
-ALG,29/03/2007,,JSM Béjaïa,ASM Oran,1,0,H,NaN,NaN,NaN
-ALG,29/03/2007,,JS Kabylie,CR Bélouizdad,1,0,H,NaN,NaN,NaN
-ALG,29/03/2007,,ASO Chlef,Paradou AC,2,1,H,NaN,NaN,NaN
-ALG,29/03/2007,,OMR El Annasser,USM Alger,2,3,A,NaN,NaN,NaN
-ALG,02/04/2007,,NA Hussein Dey,CA Batna,2,0,H,NaN,NaN,NaN
-ALG,09/04/2007,,ES Sétif,MC Oran,1,0,H,NaN,NaN,NaN
-ALG,12/04/2007,,WA Tlemcen,USM Blida,1,1,D,NaN,NaN,NaN
-ALG,13/04/2007,,CA Batna,ASO Chlef,0,1,A,NaN,NaN,NaN
-ALG,13/04/2007,,USM Alger,JS Kabylie,1,0,H,NaN,NaN,NaN
-ALG,13/04/2007,,CR Bélouizdad,JSM Béjaïa,2,0,H,NaN,NaN,NaN
-ALG,13/04/2007,,Paradou AC,ASM Oran,1,0,H,NaN,NaN,NaN
-ALG,13/04/2007,,MC Oran,NA Hussein Dey,1,0,H,NaN,NaN,NaN
-ALG,13/04/2007,,CA Bordj Bou Arreridj,MC Alger,2,1,H,NaN,NaN,NaN
-ALG,23/04/2007,,OMR El Annasser,ES Sétif,3,0,H,NaN,NaN,NaN
-ALG,27/04/2007,,NA Hussein Dey,CA Bordj Bou Arreridj,2,0,H,NaN,NaN,NaN
-ALG,27/04/2007,,JSM Béjaïa,MC Oran,2,0,H,NaN,NaN,NaN
-ALG,27/04/2007,,USM Blida,OMR El Annasser,2,1,H,NaN,NaN,NaN
-ALG,27/04/2007,,ASM Oran,CR Bélouizdad,1,1,D,NaN,NaN,NaN
-ALG,27/04/2007,,MC Alger,Paradou AC,1,0,H,NaN,NaN,NaN
-ALG,27/04/2007,,ASO Chlef,USM Alger,0,1,A,NaN,NaN,NaN
-ALG,07/05/2007,,JS Kabylie,CA Batna,1,0,H,NaN,NaN,NaN
-ALG,07/05/2007,,ES Sétif,WA Tlemcen,2,1,H,NaN,NaN,NaN
-ALG,10/05/2007,,MC Oran,USM Blida,1,0,H,NaN,NaN,NaN
-ALG,10/05/2007,,CA Bordj Bou Arreridj,ASO Chlef,2,1,H,NaN,NaN,NaN
-ALG,10/05/2007,,WA Tlemcen,JS Kabylie,2,2,D,NaN,NaN,NaN
-ALG,10/05/2007,,CA Batna,JSM Béjaïa,0,1,A,NaN,NaN,NaN
-ALG,10/05/2007,,USM Alger,ASM Oran,3,2,H,NaN,NaN,NaN
-ALG,10/05/2007,,Paradou AC,CR Bélouizdad,0,2,A,NaN,NaN,NaN
-ALG,10/05/2007,,ES Sétif,NA Hussein Dey,1,0,H,NaN,NaN,NaN
-ALG,10/05/2007,,OMR El Annasser,MC Alger,1,1,D,NaN,NaN,NaN
-ALG,29/05/2007,,ASM Oran,CA Batna,2,1,H,NaN,NaN,NaN
-ALG,29/05/2007,,JSM Béjaïa,WA Tlemcen,0,0,D,NaN,NaN,NaN
-ALG,29/05/2007,,JS Kabylie,CA Bordj Bou Arreridj,2,0,H,NaN,NaN,NaN
-ALG,29/05/2007,,NA Hussein Dey,OMR El Annasser,3,2,H,NaN,NaN,NaN
-ALG,29/05/2007,,MC Alger,ES Sétif,1,1,D,NaN,NaN,NaN
-ALG,29/05/2007,,USM Blida,Paradou AC,2,1,H,NaN,NaN,NaN
-ALG,29/05/2007,,CR Bélouizdad,USM Alger,2,2,D,NaN,NaN,NaN
-ALG,31/05/2007,,ASO Chlef,MC Oran,1,0,H,NaN,NaN,NaN
-ALG,08/06/2007,,ES Sétif,USM Blida,1,0,H,NaN,NaN,NaN
-ALG,08/06/2007,,OMR El Annasser,ASO Chlef,2,1,H,NaN,NaN,NaN
-ALG,08/06/2007,,MC Oran,JS Kabylie,1,0,H,NaN,NaN,NaN
-ALG,08/06/2007,,CA Bordj Bou Arreridj,JSM Béjaïa,1,0,H,NaN,NaN,NaN
-ALG,08/06/2007,,WA Tlemcen,ASM Oran,2,1,H,NaN,NaN,NaN
-ALG,08/06/2007,,CA Batna,CR Bélouizdad,2,1,H,NaN,NaN,NaN
-ALG,08/06/2007,,USM Alger,Paradou AC,0,0,D,NaN,NaN,NaN
-ALG,08/06/2007,,NA Hussein Dey,MC Alger,1,1,D,NaN,NaN,NaN
-ALG,11/06/2007,,Paradou AC,CA Batna,6,3,H,NaN,NaN,NaN
-ALG,11/06/2007,,CR Bélouizdad,WA Tlemcen,0,1,A,NaN,NaN,NaN
-ALG,11/06/2007,,ASM Oran,CA Bordj Bou Arreridj,0,1,A,NaN,NaN,NaN
-ALG,11/06/2007,,MC Alger,MC Oran,1,1,D,NaN,NaN,NaN
-ALG,11/06/2007,,JS Kabylie,OMR El Annasser,4,2,H,NaN,NaN,NaN
-ALG,11/06/2007,,ASO Chlef,ES Sétif,2,1,H,NaN,NaN,NaN
-ALG,11/06/2007,,USM Blida,NA Hussein Dey,4,0,H,NaN,NaN,NaN
-ALG,11/06/2007,,JSM Béjaïa,USM Alger,1,0,H,NaN,NaN,NaN
+ALG,2006-08-10,,USM Blida,MC Alger,2,2,D,,,
+ALG,2006-08-10,,ASO Chlef,NA Hussein Dey,4,1,H,,,
+ALG,2006-08-10,,JSM Béjaïa,OMR El Annasser,0,0,D,,,
+ALG,2006-08-10,,ASM Oran,MC Oran,0,1,A,,,
+ALG,2006-08-10,,CR Bélouizdad,CA Bordj Bou Arreridj,2,0,H,,,
+ALG,2006-08-10,,Paradou AC,WA Tlemcen,4,1,H,,,
+ALG,2006-08-10,,USM Alger,CA Batna,2,0,H,,,
+ALG,2006-08-21,,USM Blida,ASM Oran,1,1,D,,,
+ALG,2006-08-21,,WA Tlemcen,CA Batna,0,0,D,,,
+ALG,2006-08-21,,CA Bordj Bou Arreridj,Paradou AC,1,1,D,,,
+ALG,2006-08-21,,MC Oran,USM Alger,1,0,H,,,
+ALG,2006-08-21,,OMR El Annasser,CR Bélouizdad,1,1,D,,,
+ALG,2006-08-21,,ES Sétif,JSM Béjaïa,0,0,D,,,
+ALG,2006-08-21,,NA Hussein Dey,JS Kabylie,0,0,D,,,
+ALG,2006-08-21,,MC Alger,ASO Chlef,1,0,H,,,
+ALG,2006-08-25,,CA Batna,CA Bordj Bou Arreridj,3,2,H,,,
+ALG,2006-08-25,,ASO Chlef,USM Blida,1,1,D,,,
+ALG,2006-08-25,,JSM Béjaïa,NA Hussein Dey,2,0,H,,,
+ALG,2006-08-25,,ASM Oran,OMR El Annasser,1,1,D,,,
+ALG,2006-08-25,,CR Bélouizdad,ES Sétif,1,2,A,,,
+ALG,2006-08-25,,Paradou AC,MC Oran,2,0,H,,,
+ALG,2006-08-25,,USM Alger,WA Tlemcen,3,0,H,,,
+ALG,2006-08-31,,MC Alger,JSM Béjaïa,0,1,A,,,
+ALG,2006-09-07,,ASO Chlef,ASM Oran,1,1,D,,,
+ALG,2006-09-07,,CA Bordj Bou Arreridj,WA Tlemcen,1,0,H,,,
+ALG,2006-09-07,,MC Oran,CA Batna,0,0,D,,,
+ALG,2006-09-07,,OMR El Annasser,Paradou AC,0,1,A,,,
+ALG,2006-09-07,,ES Sétif,USM Alger,2,0,H,,,
+ALG,2006-09-07,,NA Hussein Dey,CR Bélouizdad,1,1,D,,,
+ALG,2006-09-11,,Paradou AC,ES Sétif,0,2,A,,,
+ALG,2006-09-11,,USM Alger,CA Bordj Bou Arreridj,2,1,H,,,
+ALG,2006-09-14,,CA Batna,OMR El Annasser,4,1,H,,,
+ALG,2006-09-14,,WA Tlemcen,MC Oran,0,0,D,,,
+ALG,2006-09-14,,JSM Béjaïa,USM Blida,0,0,D,,,
+ALG,2006-09-14,,ASM Oran,NA Hussein Dey,1,1,D,,,
+ALG,2006-09-15,,CR Bélouizdad,MC Alger,0,2,A,,,
+ALG,2006-09-21,,USM Blida,CR Bélouizdad,0,0,D,,,
+ALG,2006-09-21,,ASO Chlef,JSM Béjaïa,2,1,H,,,
+ALG,2006-09-21,,JS Kabylie,Paradou AC,0,0,D,,,
+ALG,2006-09-21,,NA Hussein Dey,USM Alger,2,0,H,,,
+ALG,2006-09-25,,JS Kabylie,ES Sétif,2,3,A,,,
+ALG,2006-09-25,,MC Oran,CA Bordj Bou Arreridj,4,0,H,,,
+ALG,2006-09-25,,MC Alger,ASM Oran,1,1,D,,,
+ALG,2006-09-27,,CA Batna,USM Blida,1,1,D,,,
+ALG,2006-09-27,,WA Tlemcen,ASO Chlef,1,2,A,,,
+ALG,2006-09-27,,Paradou AC,NA Hussein Dey,2,0,H,,,
+ALG,2006-09-29,,CA Bordj Bou Arreridj,OMR El Annasser,0,1,A,,,
+ALG,2006-09-29,,JSM Béjaïa,JS Kabylie,1,0,H,,,
+ALG,2006-09-29,,ASM Oran,ES Sétif,0,1,A,,,
+ALG,2006-09-29,,CR Bélouizdad,MC Oran,2,1,H,,,
+ALG,2006-09-29,,USM Alger,MC Alger,2,2,D,,,
+ALG,2006-10-12,,USM Blida,USM Alger,2,0,H,,,
+ALG,2006-10-12,,ASO Chlef,CR Bélouizdad,3,1,H,,,
+ALG,2006-10-12,,JS Kabylie,ASM Oran,1,1,D,,,
+ALG,2006-10-12,,JSM Béjaïa,Paradou AC,2,1,H,,,
+ALG,2006-10-12,,OMR El Annasser,MC Oran,1,0,H,,,
+ALG,2006-10-12,,ES Sétif,CA Bordj Bou Arreridj,2,1,H,,,
+ALG,2006-10-12,,NA Hussein Dey,WA Tlemcen,2,1,H,,,
+ALG,2006-10-12,,MC Alger,CA Batna,3,0,H,,,
+ALG,2006-10-16,,ES Sétif,CA Batna,2,0,H,,,
+ALG,2006-10-19,,WA Tlemcen,MC Alger,1,0,H,,,
+ALG,2006-10-19,,CA Bordj Bou Arreridj,USM Blida,2,1,H,,,
+ALG,2006-10-19,,ASM Oran,JSM Béjaïa,1,1,D,,,
+ALG,2006-10-19,,CR Bélouizdad,JS Kabylie,3,2,H,,,
+ALG,2006-10-19,,Paradou AC,ASO Chlef,0,0,D,,,
+ALG,2006-10-19,,USM Alger,OMR El Annasser,0,0,D,,,
+ALG,2006-10-20,,CA Batna,NA Hussein Dey,1,1,D,,,
+ALG,2006-10-26,,NA Hussein Dey,MC Oran,3,2,H,,,
+ALG,2006-10-27,,USM Blida,WA Tlemcen,1,0,H,,,
+ALG,2006-10-27,,ASO Chlef,CA Batna,1,0,H,,,
+ALG,2006-10-27,,JS Kabylie,USM Alger,1,0,H,,,
+ALG,2006-10-27,,JSM Béjaïa,CR Bélouizdad,1,1,D,,,
+ALG,2006-10-27,,ASM Oran,Paradou AC,1,1,D,,,
+ALG,2006-10-27,,ES Sétif,OMR El Annasser,0,0,D,,,
+ALG,2006-11-02,,OMR El Annasser,WA Tlemcen,1,2,A,,,
+ALG,2006-11-02,,MC Oran,ES Sétif,0,2,A,,,
+ALG,2006-11-09,,CA Batna,JS Kabylie,1,1,D,,,
+ALG,2006-11-09,,WA Tlemcen,ES Sétif,1,0,H,,,
+ALG,2006-11-09,,CA Bordj Bou Arreridj,NA Hussein Dey,1,0,H,,,
+ALG,2006-11-09,,MC Oran,JSM Béjaïa,1,0,H,,,
+ALG,2006-11-09,,CR Bélouizdad,ASM Oran,3,1,H,,,
+ALG,2006-11-09,,Paradou AC,MC Alger,2,2,D,,,
+ALG,2006-11-09,,USM Alger,ASO Chlef,2,0,H,,,
+ALG,2006-11-10,,OMR El Annasser,USM Blida,3,1,H,,,
+ALG,2006-11-13,,JS Kabylie,MC Alger,1,0,H,,,
+ALG,2006-11-23,,USM Blida,MC Oran,0,0,D,,,
+ALG,2006-11-23,,JS Kabylie,WA Tlemcen,1,0,H,,,
+ALG,2006-11-23,,JSM Béjaïa,CA Batna,1,0,H,,,
+ALG,2006-11-23,,ASM Oran,USM Alger,2,1,H,,,
+ALG,2006-11-23,,CR Bélouizdad,Paradou AC,0,3,A,,,
+ALG,2006-11-27,,USM Blida,JS Kabylie,0,1,A,,,
+ALG,2006-11-30,,CA Batna,ASM Oran,1,1,D,,,
+ALG,2006-11-30,,WA Tlemcen,JSM Béjaïa,1,6,A,,,
+ALG,2006-11-30,,CA Bordj Bou Arreridj,JS Kabylie,1,0,H,,,
+ALG,2006-11-30,,MC Oran,ASO Chlef,2,1,H,,,
+ALG,2006-11-30,,OMR El Annasser,NA Hussein Dey,0,1,A,,,
+ALG,2006-11-30,,USM Alger,CR Bélouizdad,2,1,H,,,
+ALG,2006-12-04,,MC Alger,CA Bordj Bou Arreridj,3,0,H,,,
+ALG,2006-12-04,,Paradou AC,USM Blida,0,0,D,,,
+ALG,2006-12-07,,ASO Chlef,OMR El Annasser,1,0,H,,,
+ALG,2006-12-07,,JS Kabylie,MC Oran,2,1,H,,,
+ALG,2006-12-07,,ASM Oran,WA Tlemcen,1,0,H,,,
+ALG,2006-12-07,,CR Bélouizdad,CA Batna,3,1,H,,,
+ALG,2006-12-08,,Paradou AC,USM Alger,0,1,A,,,
+ALG,2006-12-11,,JS Kabylie,ASO Chlef,2,1,H,,,
+ALG,2006-12-14,,CA Batna,Paradou AC,3,0,H,,,
+ALG,2006-12-14,,WA Tlemcen,CR Bélouizdad,2,0,H,,,
+ALG,2006-12-14,,MC Oran,MC Alger,1,2,A,,,
+ALG,2006-12-14,,USM Alger,JSM Béjaïa,2,1,H,,,
+ALG,2006-12-15,,OMR El Annasser,JS Kabylie,0,0,D,,,
+ALG,2006-12-18,,ES Sétif,MC Alger,2,0,H,,,
+ALG,2006-12-21,,NA Hussein Dey,ES Sétif,0,0,D,,,
+ALG,2006-12-21,,MC Alger,OMR El Annasser,1,1,D,,,
+ALG,2006-12-25,,ASO Chlef,CA Bordj Bou Arreridj,2,0,H,,,
+ALG,2006-12-25,,MC Alger,NA Hussein Dey,1,1,D,,,
+ALG,2006-12-28,,USM Blida,ES Sétif,2,1,H,,,
+ALG,2006-12-28,,JSM Béjaïa,CA Bordj Bou Arreridj,2,1,H,,,
+ALG,2007-01-04,,NA Hussein Dey,USM Blida,0,4,A,,,
+ALG,2007-01-12,,CA Bordj Bou Arreridj,ASM Oran,3,1,H,,,
+ALG,2007-01-12,,ES Sétif,ASO Chlef,0,0,D,,,
+ALG,2007-01-15,,MC Alger,USM Blida,2,1,H,,,
+ALG,2007-01-15,,NA Hussein Dey,ASO Chlef,0,1,A,,,
+ALG,2007-01-15,,ES Sétif,JS Kabylie,0,0,D,,,
+ALG,2007-01-15,,OMR El Annasser,JSM Béjaïa,2,1,H,,,
+ALG,2007-01-15,,MC Oran,ASM Oran,2,0,H,,,
+ALG,2007-01-15,,CA Bordj Bou Arreridj,CR Bélouizdad,1,0,H,,,
+ALG,2007-01-15,,WA Tlemcen,Paradou AC,1,0,H,,,
+ALG,2007-01-15,,CA Batna,USM Alger,0,2,A,,,
+ALG,2007-01-18,,ASM Oran,USM Blida,3,0,H,,,
+ALG,2007-01-18,,CA Batna,WA Tlemcen,2,1,H,,,
+ALG,2007-01-18,,USM Alger,MC Oran,2,0,H,,,
+ALG,2007-01-18,,CR Bélouizdad,OMR El Annasser,1,0,H,,,
+ALG,2007-01-18,,JSM Béjaïa,ES Sétif,1,0,H,,,
+ALG,2007-01-18,,JS Kabylie,NA Hussein Dey,1,1,D,,,
+ALG,2007-01-18,,ASO Chlef,MC Alger,0,0,D,,,
+ALG,2007-01-19,,Paradou AC,CA Bordj Bou Arreridj,3,1,H,,,
+ALG,2007-01-22,,MC Alger,JS Kabylie,0,0,D,,,
+ALG,2007-01-22,,WA Tlemcen,USM Alger,1,1,D,,,
+ALG,2007-01-25,,CA Bordj Bou Arreridj,CA Batna,1,0,H,,,
+ALG,2007-01-25,,NA Hussein Dey,JSM Béjaïa,0,1,A,,,
+ALG,2007-01-25,,OMR El Annasser,ASM Oran,2,1,H,,,
+ALG,2007-01-25,,ES Sétif,CR Bélouizdad,0,1,A,,,
+ALG,2007-01-25,,MC Oran,Paradou AC,0,0,D,,,
+ALG,2007-02-01,,JS Kabylie,USM Blida,3,0,H,,,
+ALG,2007-02-01,,ASM Oran,ASO Chlef,1,1,D,,,
+ALG,2007-02-01,,WA Tlemcen,CA Bordj Bou Arreridj,0,0,D,,,
+ALG,2007-02-01,,CA Batna,MC Oran,3,2,H,,,
+ALG,2007-02-01,,USM Alger,ES Sétif,0,0,D,,,
+ALG,2007-02-01,,CR Bélouizdad,NA Hussein Dey,0,1,A,,,
+ALG,2007-02-01,,JSM Béjaïa,MC Alger,1,1,D,,,
+ALG,2007-02-02,,Paradou AC,OMR El Annasser,0,0,D,,,
+ALG,2007-02-12,,USM Blida,ASO Chlef,0,0,D,,,
+ALG,2007-02-19,,OMR El Annasser,CA Batna,2,0,H,,,
+ALG,2007-02-19,,MC Oran,WA Tlemcen,1,0,H,,,
+ALG,2007-02-19,,ASO Chlef,JS Kabylie,0,0,D,,,
+ALG,2007-02-19,,USM Blida,JSM Béjaïa,2,2,D,,,
+ALG,2007-02-19,,NA Hussein Dey,ASM Oran,1,0,H,,,
+ALG,2007-02-19,,MC Alger,CR Bélouizdad,4,3,H,,,
+ALG,2007-02-19,,ES Sétif,Paradou AC,3,1,H,,,
+ALG,2007-02-19,,CA Bordj Bou Arreridj,USM Alger,1,0,H,,,
+ALG,2007-02-22,,CR Bélouizdad,USM Blida,1,0,H,,,
+ALG,2007-02-22,,JSM Béjaïa,ASO Chlef,0,0,D,,,
+ALG,2007-02-22,,CA Bordj Bou Arreridj,MC Oran,0,0,D,,,
+ALG,2007-02-22,,WA Tlemcen,OMR El Annasser,2,0,H,,,
+ALG,2007-02-22,,CA Batna,ES Sétif,1,2,A,,,
+ALG,2007-02-22,,USM Alger,NA Hussein Dey,0,1,A,,,
+ALG,2007-02-22,,ASM Oran,MC Alger,2,1,H,,,
+ALG,2007-02-23,,Paradou AC,JS Kabylie,1,2,A,,,
+ALG,2007-03-08,,USM Blida,CA Batna,4,0,H,,,
+ALG,2007-03-08,,ASO Chlef,WA Tlemcen,0,0,D,,,
+ALG,2007-03-08,,OMR El Annasser,CA Bordj Bou Arreridj,4,0,H,,,
+ALG,2007-03-08,,ES Sétif,ASM Oran,1,1,D,,,
+ALG,2007-03-08,,MC Oran,CR Bélouizdad,2,0,H,,,
+ALG,2007-03-08,,NA Hussein Dey,Paradou AC,2,0,H,,,
+ALG,2007-03-12,,CR Bélouizdad,ASO Chlef,1,0,H,,,
+ALG,2007-03-12,,ASM Oran,JS Kabylie,0,2,A,,,
+ALG,2007-03-12,,CA Batna,MC Alger,1,0,H,,,
+ALG,2007-03-15,,WA Tlemcen,NA Hussein Dey,1,0,H,,,
+ALG,2007-03-16,,MC Oran,OMR El Annasser,3,0,H,,,
+ALG,2007-03-19,,USM Alger,USM Blida,0,0,D,,,
+ALG,2007-03-19,,CA Bordj Bou Arreridj,ES Sétif,0,0,D,,,
+ALG,2007-03-22,,Paradou AC,JSM Béjaïa,0,0,D,,,
+ALG,2007-03-29,,MC Alger,WA Tlemcen,0,1,A,,,
+ALG,2007-03-29,,USM Blida,CA Bordj Bou Arreridj,1,0,H,,,
+ALG,2007-03-29,,JSM Béjaïa,ASM Oran,1,0,H,,,
+ALG,2007-03-29,,JS Kabylie,CR Bélouizdad,1,0,H,,,
+ALG,2007-03-29,,ASO Chlef,Paradou AC,2,1,H,,,
+ALG,2007-03-29,,OMR El Annasser,USM Alger,2,3,A,,,
+ALG,2007-04-02,,JS Kabylie,JSM Béjaïa,1,0,H,,,
+ALG,2007-04-02,,MC Alger,USM Alger,0,0,D,,,
+ALG,2007-04-02,,NA Hussein Dey,CA Batna,2,0,H,,,
+ALG,2007-04-09,,ES Sétif,MC Oran,1,0,H,,,
+ALG,2007-04-12,,WA Tlemcen,USM Blida,1,1,D,,,
+ALG,2007-04-13,,CA Batna,ASO Chlef,0,1,A,,,
+ALG,2007-04-13,,USM Alger,JS Kabylie,1,0,H,,,
+ALG,2007-04-13,,CR Bélouizdad,JSM Béjaïa,2,0,H,,,
+ALG,2007-04-13,,Paradou AC,ASM Oran,1,0,H,,,
+ALG,2007-04-13,,MC Oran,NA Hussein Dey,1,0,H,,,
+ALG,2007-04-13,,CA Bordj Bou Arreridj,MC Alger,2,1,H,,,
+ALG,2007-04-23,,OMR El Annasser,ES Sétif,3,0,H,,,
+ALG,2007-04-27,,NA Hussein Dey,CA Bordj Bou Arreridj,2,0,H,,,
+ALG,2007-04-27,,JSM Béjaïa,MC Oran,2,0,H,,,
+ALG,2007-04-27,,USM Blida,OMR El Annasser,2,1,H,,,
+ALG,2007-04-27,,ASM Oran,CR Bélouizdad,1,1,D,,,
+ALG,2007-04-27,,MC Alger,Paradou AC,1,0,H,,,
+ALG,2007-04-27,,ASO Chlef,USM Alger,0,1,A,,,
+ALG,2007-05-07,,JS Kabylie,CA Batna,1,0,H,,,
+ALG,2007-05-07,,ES Sétif,WA Tlemcen,2,1,H,,,
+ALG,2007-05-10,,MC Oran,USM Blida,1,0,H,,,
+ALG,2007-05-10,,CA Bordj Bou Arreridj,ASO Chlef,2,1,H,,,
+ALG,2007-05-10,,WA Tlemcen,JS Kabylie,2,2,D,,,
+ALG,2007-05-10,,CA Batna,JSM Béjaïa,0,1,A,,,
+ALG,2007-05-10,,USM Alger,ASM Oran,3,2,H,,,
+ALG,2007-05-10,,Paradou AC,CR Bélouizdad,0,2,A,,,
+ALG,2007-05-10,,ES Sétif,NA Hussein Dey,1,0,H,,,
+ALG,2007-05-10,,OMR El Annasser,MC Alger,1,1,D,,,
+ALG,2007-05-29,,ASM Oran,CA Batna,2,1,H,,,
+ALG,2007-05-29,,JSM Béjaïa,WA Tlemcen,0,0,D,,,
+ALG,2007-05-29,,JS Kabylie,CA Bordj Bou Arreridj,2,0,H,,,
+ALG,2007-05-29,,NA Hussein Dey,OMR El Annasser,3,2,H,,,
+ALG,2007-05-29,,MC Alger,ES Sétif,1,1,D,,,
+ALG,2007-05-29,,USM Blida,Paradou AC,2,1,H,,,
+ALG,2007-05-29,,CR Bélouizdad,USM Alger,2,2,D,,,
+ALG,2007-05-31,,ASO Chlef,MC Oran,1,0,H,,,
+ALG,2007-06-08,,ES Sétif,USM Blida,1,0,H,,,
+ALG,2007-06-08,,OMR El Annasser,ASO Chlef,2,1,H,,,
+ALG,2007-06-08,,MC Oran,JS Kabylie,1,0,H,,,
+ALG,2007-06-08,,CA Bordj Bou Arreridj,JSM Béjaïa,1,0,H,,,
+ALG,2007-06-08,,WA Tlemcen,ASM Oran,2,1,H,,,
+ALG,2007-06-08,,CA Batna,CR Bélouizdad,2,1,H,,,
+ALG,2007-06-08,,USM Alger,Paradou AC,0,0,D,,,
+ALG,2007-06-08,,NA Hussein Dey,MC Alger,1,1,D,,,
+ALG,2007-06-11,,Paradou AC,CA Batna,6,3,H,,,
+ALG,2007-06-11,,CR Bélouizdad,WA Tlemcen,0,1,A,,,
+ALG,2007-06-11,,ASM Oran,CA Bordj Bou Arreridj,0,1,A,,,
+ALG,2007-06-11,,MC Alger,MC Oran,1,1,D,,,
+ALG,2007-06-11,,JS Kabylie,OMR El Annasser,4,2,H,,,
+ALG,2007-06-11,,ASO Chlef,ES Sétif,2,1,H,,,
+ALG,2007-06-11,,USM Blida,NA Hussein Dey,4,0,H,,,
+ALG,2007-06-11,,JSM Béjaïa,USM Alger,1,0,H,,,

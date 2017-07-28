@@ -1,183 +1,183 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-KUW,30/08/2013,16:35,Al Sahel,Khaitan SC,0,1,A,0,1,A
-KUW,30/08/2013,16:35,Kazma SC,Al Arabi SC,1,1,D,0,1,A
-KUW,30/08/2013,18:50,Al Salmiya SC,Al Yarmouk,4,0,H,2,0,H
-KUW,30/08/2013,18:50,Al Tadamun,Al Nasr SC,2,1,H,1,1,D
-KUW,31/08/2013,16:35,Al Shabab,Al Kuwait SC,0,3,A,0,0,D
-KUW,31/08/2013,18:50,Qadsia SC,Al Fahaheel,3,0,H,0,0,D
-KUW,31/08/2013,18:50,Al Jahra SC,Al Salibikhaet SC,1,1,D,0,0,D
-KUW,13/09/2013,16:20,Al Kuwait SC,Kazma SC,1,0,H,1,0,H
-KUW,13/09/2013,16:20,Al Fahaheel,Al Salmiya SC,1,1,D,0,1,A
-KUW,13/09/2013,18:45,Al Sahel,Qadsia SC,0,1,A,0,0,D
-KUW,13/09/2013,18:45,Al Yarmouk,Al Jahra SC,1,1,D,0,1,A
-KUW,14/09/2013,16:20,Al Salibikhaet SC,Al Shabab,0,1,A,0,0,D
-KUW,14/09/2013,16:20,Al Tadamun,Al Arabi SC,1,3,A,1,1,D
-KUW,14/09/2013,18:45,Al Nasr SC,Khaitan SC,0,0,D,0,0,D
-KUW,19/09/2013,16:15,Al Arabi SC,Al Fahaheel,2,1,H,0,0,D
-KUW,20/09/2013,16:15,Qadsia SC,Al Tadamun,6,0,H,5,0,H
-KUW,20/09/2013,18:30,Al Salmiya SC,Kazma SC,3,1,H,0,1,A
-KUW,20/09/2013,18:30,Khaitan SC,Al Salibikhaet SC,1,0,H,0,0,D
-KUW,21/09/2013,16:15,Al Kuwait SC,Al Yarmouk,4,0,H,2,0,H
-KUW,21/09/2013,16:15,Al Nasr SC,Al Sahel,4,3,H,2,2,D
-KUW,21/09/2013,18:30,Al Shabab,Al Jahra SC,0,1,A,0,1,A
-KUW,27/09/2013,16:00,Al Jahra SC,Al Kuwait SC,1,4,A,0,3,A
-KUW,27/09/2013,16:00,Khaitan SC,Al Tadamun,0,1,A,0,1,A
-KUW,27/09/2013,18:15,Al Fahaheel,Al Sahel,0,1,A,0,1,A
-KUW,27/09/2013,18:15,Kazma SC,Al Nasr SC,0,0,D,0,0,D
-KUW,28/09/2013,16:00,Al Salibikhaet SC,Al Salmiya SC,0,3,A,0,1,A
-KUW,28/09/2013,16:00,Al Shabab,Al Arabi SC,0,3,A,0,3,A
-KUW,28/09/2013,18:15,Al Yarmouk,Qadsia SC,0,1,A,0,0,D
-KUW,03/10/2013,15:50,Al Arabi SC,Al Salibikhaet SC,1,1,D,1,1,D
-KUW,04/10/2013,15:50,Al Sahel,Kazma SC,1,2,A,1,1,D
-KUW,04/10/2013,18:05,Al Tadamun,Al Fahaheel,2,2,D,1,0,H
-KUW,05/10/2013,15:50,Qadsia SC,Al Shabab,2,1,H,2,0,H
-KUW,05/10/2013,15:50,Al Nasr SC,Al Yarmouk,4,1,H,2,0,H
-KUW,05/10/2013,18:05,Al Salmiya SC,Al Jahra SC,1,2,A,0,0,D
-KUW,05/10/2013,18:05,Al Kuwait SC,Khaitan SC,3,0,H,1,0,H
-KUW,18/10/2013,15:35,Al Fahaheel,Khaitan SC,2,3,A,NaN,NaN,NaN
-KUW,18/10/2013,15:35,Al Kuwait SC,Al Salmiya SC,4,3,H,NaN,NaN,NaN
-KUW,18/10/2013,18:00,Al Salibikhaet SC,Qadsia SC,1,1,D,NaN,NaN,NaN
-KUW,18/10/2013,18:00,Al Sahel,Al Yarmouk,3,1,H,NaN,NaN,NaN
-KUW,19/10/2013,15:35,Al Shabab,Al Nasr SC,1,1,D,NaN,NaN,NaN
-KUW,19/10/2013,15:35,Kazma SC,Al Tadamun,3,1,H,NaN,NaN,NaN
-KUW,19/10/2013,18:00,Al Jahra SC,Al Arabi SC,0,0,D,NaN,NaN,NaN
-KUW,24/10/2013,15:30,Al Nasr SC,Al Arabi SC,1,4,A,NaN,NaN,NaN
-KUW,25/10/2013,15:30,Al Jahra SC,Al Fahaheel,3,1,H,NaN,NaN,NaN
-KUW,25/10/2013,15:30,Kazma SC,Al Salibikhaet SC,1,1,D,NaN,NaN,NaN
-KUW,25/10/2013,17:45,Al Yarmouk,Al Shabab,0,0,D,NaN,NaN,NaN
-KUW,26/10/2013,15:30,Al Tadamun,Al Kuwait SC,1,3,A,NaN,NaN,NaN
-KUW,26/10/2013,15:30,Al Salmiya SC,Al Sahel,0,1,A,NaN,NaN,NaN
-KUW,26/10/2013,15:30,Khaitan SC,Qadsia SC,1,1,D,NaN,NaN,NaN
-KUW,31/10/2013,14:25,Al Yarmouk,Kazma SC,2,2,D,NaN,NaN,NaN
-KUW,01/11/2013,13:15,Al Salibikhaet SC,Al Tadamun,0,5,A,NaN,NaN,NaN
-KUW,01/11/2013,13:15,Al Shabab,Al Fahaheel,3,0,H,NaN,NaN,NaN
-KUW,01/11/2013,15:35,Al Sahel,Al Jahra SC,1,3,A,NaN,NaN,NaN
-KUW,01/11/2013,15:35,Al Arabi SC,Khaitan SC,3,0,H,NaN,NaN,NaN
-KUW,20/01/2014,14:30,Al Kuwait SC,Al Nasr SC,4,0,H,NaN,NaN,NaN
-KUW,20/01/2014,17:20,Qadsia SC,Al Salmiya SC,4,1,H,NaN,NaN,NaN
-KUW,22/11/2013,13:00,Al Fahaheel,Al Salibikhaet SC,4,2,H,NaN,NaN,NaN
-KUW,22/11/2013,13:00,Al Nasr SC,Al Salmiya SC,3,0,H,NaN,NaN,NaN
-KUW,22/11/2013,15:30,Khaitan SC,Al Yarmouk,0,0,D,NaN,NaN,NaN
-KUW,22/11/2013,15:30,Al Tadamun,Al Jahra SC,2,3,A,NaN,NaN,NaN
-KUW,23/11/2013,13:00,Al Kuwait SC,Al Sahel,3,1,H,NaN,NaN,NaN
-KUW,23/11/2013,13:00,Kazma SC,Al Shabab,3,1,H,NaN,NaN,NaN
-KUW,23/11/2013,15:30,Qadsia SC,Al Arabi SC,1,1,D,NaN,NaN,NaN
-KUW,28/11/2013,13:00,Al Yarmouk,Al Tadamun,1,2,A,NaN,NaN,NaN
-KUW,28/11/2013,15:45,Al Shabab,Al Sahel,0,0,D,NaN,NaN,NaN
-KUW,29/11/2013,13:00,Al Salmiya SC,Khaitan SC,4,1,H,NaN,NaN,NaN
-KUW,29/11/2013,15:45,Al Jahra SC,Qadsia SC,1,6,A,NaN,NaN,NaN
-KUW,30/11/2013,13:00,Kazma SC,Al Fahaheel,5,2,H,NaN,NaN,NaN
-KUW,30/11/2013,15:45,Al Arabi SC,Al Kuwait SC,0,0,D,NaN,NaN,NaN
-KUW,30/11/2013,16:45,Al Salibikhaet SC,Al Nasr SC,1,2,A,NaN,NaN,NaN
-KUW,05/12/2013,14:25,Al Salmiya SC,Al Arabi SC,3,2,H,NaN,NaN,NaN
-KUW,06/12/2013,12:00,Al Tadamun,Al Shabab,2,0,H,NaN,NaN,NaN
-KUW,06/12/2013,12:00,Al Nasr SC,Al Jahra SC,0,4,A,NaN,NaN,NaN
-KUW,06/12/2013,15:45,Al Yarmouk,Al Fahaheel,0,0,D,NaN,NaN,NaN
-KUW,07/12/2013,12:00,Khaitan SC,Kazma SC,0,1,A,NaN,NaN,NaN
-KUW,07/12/2013,14:45,Al Kuwait SC,Qadsia SC,0,2,A,NaN,NaN,NaN
-KUW,07/12/2013,14:45,Al Sahel,Al Salibikhaet SC,0,2,A,NaN,NaN,NaN
-KUW,12/12/2013,14:25,Al Sahel,Al Tadamun,3,2,H,NaN,NaN,NaN
-KUW,13/12/2013,12:05,Al Arabi SC,Al Yarmouk,2,0,H,NaN,NaN,NaN
-KUW,13/12/2013,12:05,Al Shabab,Al Salmiya SC,1,2,A,NaN,NaN,NaN
-KUW,13/12/2013,15:50,Al Salibikhaet SC,Al Kuwait SC,0,3,A,NaN,NaN,NaN
-KUW,14/12/2013,12:05,Al Jahra SC,Khaitan SC,3,1,H,NaN,NaN,NaN
-KUW,14/12/2013,12:05,Qadsia SC,Kazma SC,1,1,D,NaN,NaN,NaN
-KUW,14/12/2013,15:50,Al Fahaheel,Al Nasr SC,0,3,A,NaN,NaN,NaN
-KUW,19/12/2013,14:25,Khaitan SC,Al Shabab,1,0,H,NaN,NaN,NaN
-KUW,20/12/2013,12:05,Kazma SC,Al Jahra SC,2,0,H,NaN,NaN,NaN
-KUW,20/12/2013,12:05,Al Nasr SC,Qadsia SC,1,3,A,NaN,NaN,NaN
-KUW,20/12/2013,15:50,Al Fahaheel,Al Kuwait SC,0,3,A,NaN,NaN,NaN
-KUW,21/12/2013,12:05,Al Arabi SC,Al Sahel,2,1,H,NaN,NaN,NaN
-KUW,21/12/2013,14:50,Al Salmiya SC,Al Tadamun,3,0,H,NaN,NaN,NaN
-KUW,21/12/2013,14:50,Al Salibikhaet SC,Al Yarmouk,1,2,A,NaN,NaN,NaN
-KUW,23/01/2014,13:30,Al Arabi SC,Kazma SC,1,2,A,NaN,NaN,NaN
-KUW,23/01/2014,17:20,Al Salibikhaet SC,Al Jahra SC,0,3,A,NaN,NaN,NaN
-KUW,24/01/2014,12:30,Al Nasr SC,Al Tadamun,0,0,D,NaN,NaN,NaN
-KUW,24/01/2014,12:30,Al Kuwait SC,Al Shabab,3,0,H,NaN,NaN,NaN
-KUW,24/01/2014,16:15,Al Fahaheel,Qadsia SC,1,3,A,NaN,NaN,NaN
-KUW,25/01/2014,12:30,Al Yarmouk,Al Salmiya SC,3,1,H,NaN,NaN,NaN
-KUW,25/01/2014,15:15,Khaitan SC,Al Sahel,1,0,H,NaN,NaN,NaN
-KUW,14/01/2014,14:30,Qadsia SC,Al Sahel,1,0,H,NaN,NaN,NaN
-KUW,29/01/2014,14:45,Kazma SC,Al Kuwait SC,2,3,A,NaN,NaN,NaN
-KUW,30/01/2014,14:55,Al Jahra SC,Al Yarmouk,1,0,H,NaN,NaN,NaN
-KUW,31/01/2014,12:35,Khaitan SC,Al Nasr SC,0,2,A,NaN,NaN,NaN
-KUW,31/01/2014,15:20,Al Salmiya SC,Al Fahaheel,5,2,H,NaN,NaN,NaN
-KUW,01/02/2014,,Al Arabi SC,Al Tadamun,0,3,A,NaN,NaN,NaN
-KUW,01/02/2014,15:20,Al Shabab,Al Salibikhaet SC,1,1,D,NaN,NaN,NaN
-KUW,07/02/2014,12:40,Al Fahaheel,Al Arabi SC,0,1,A,NaN,NaN,NaN
-KUW,07/02/2014,16:25,Al Sahel,Al Nasr SC,1,1,D,NaN,NaN,NaN
-KUW,08/02/2014,12:40,Kazma SC,Al Salmiya SC,3,2,H,NaN,NaN,NaN
-KUW,08/02/2014,15:25,Al Jahra SC,Al Shabab,2,0,H,NaN,NaN,NaN
-KUW,08/02/2014,16:25,Al Salibikhaet SC,Khaitan SC,1,0,H,NaN,NaN,NaN
-KUW,18/02/2014,13:55,Al Yarmouk,Al Kuwait SC,0,2,A,NaN,NaN,NaN
-KUW,18/02/2014,16:15,Al Tadamun,Qadsia SC,0,5,A,NaN,NaN,NaN
-KUW,14/02/2014,12:45,Al Arabi SC,Al Shabab,6,0,H,NaN,NaN,NaN
-KUW,14/02/2014,16:30,Al Nasr SC,Kazma SC,1,2,A,NaN,NaN,NaN
-KUW,15/02/2014,12:45,Al Tadamun,Khaitan SC,3,0,H,NaN,NaN,NaN
-KUW,15/02/2014,12:45,Al Sahel,Al Fahaheel,1,0,H,NaN,NaN,NaN
-KUW,15/02/2014,12:45,Al Salmiya SC,Al Salibikhaet SC,1,4,A,NaN,NaN,NaN
-KUW,25/03/2014,14:20,Al Kuwait SC,Al Jahra SC,1,0,H,1,0,H
-KUW,25/03/2014,16:40,Qadsia SC,Al Yarmouk,2,1,H,1,0,H
-KUW,21/02/2014,12:45,Khaitan SC,Al Kuwait SC,2,1,H,NaN,NaN,NaN
-KUW,21/02/2014,12:45,Al Shabab,Qadsia SC,0,2,A,NaN,NaN,NaN
-KUW,21/02/2014,15:30,Al Jahra SC,Al Salmiya SC,1,0,H,NaN,NaN,NaN
-KUW,21/02/2014,16:30,Al Yarmouk,Al Nasr SC,0,2,A,NaN,NaN,NaN
-KUW,22/02/2014,12:45,Al Fahaheel,Al Tadamun,1,6,A,NaN,NaN,NaN
-KUW,22/02/2014,12:45,Kazma SC,Al Sahel,2,0,H,NaN,NaN,NaN
-KUW,22/02/2014,16:30,Al Salibikhaet SC,Al Arabi SC,2,3,A,NaN,NaN,NaN
-KUW,07/03/2014,14:05,Khaitan SC,Al Fahaheel,3,0,H,NaN,NaN,NaN
-KUW,07/03/2014,14:05,Al Tadamun,Kazma SC,1,2,A,NaN,NaN,NaN
-KUW,07/03/2014,17:50,Al Yarmouk,Al Sahel,1,0,H,NaN,NaN,NaN
-KUW,08/03/2014,14:05,Al Arabi SC,Al Jahra SC,1,2,A,NaN,NaN,NaN
-KUW,08/03/2014,14:05,Al Salmiya SC,Al Kuwait SC,1,1,D,NaN,NaN,NaN
-KUW,08/03/2014,16:50,Al Nasr SC,Al Shabab,3,1,H,NaN,NaN,NaN
-KUW,08/03/2014,16:50,Qadsia SC,Al Salibikhaet SC,4,2,H,NaN,NaN,NaN
-KUW,13/03/2014,14:10,Al Arabi SC,Al Nasr SC,3,3,D,1,2,A
-KUW,13/03/2014,17:55,Al Fahaheel,Al Jahra SC,0,3,A,0,2,A
-KUW,14/03/2014,14:10,Al Salibikhaet SC,Kazma SC,1,1,D,1,0,H
-KUW,14/03/2014,16:55,Al Shabab,Al Yarmouk,1,2,A,1,0,H
-KUW,15/03/2014,14:10,Al Sahel,Al Salmiya SC,1,1,D,0,0,D
-KUW,15/03/2014,14:10,Qadsia SC,Khaitan SC,2,1,H,1,0,H
-KUW,15/03/2014,16:55,Al Kuwait SC,Al Tadamun,5,1,H,1,1,D
-KUW,20/03/2014,14:15,Khaitan SC,Al Arabi SC,0,8,A,0,5,A
-KUW,20/03/2014,18:00,Al Fahaheel,Al Shabab,1,2,A,0,2,A
-KUW,21/03/2014,14:15,Al Jahra SC,Al Sahel,3,2,H,2,1,H
-KUW,21/03/2014,17:00,Al Tadamun,Al Salibikhaet SC,2,0,H,0,0,D
-KUW,22/03/2014,14:10,Kazma SC,Al Yarmouk,1,0,H,0,0,D
-KUW,22/03/2014,17:00,Al Nasr SC,Al Kuwait SC,2,4,A,0,2,A
-KUW,02/04/2014,16:40,Al Salmiya SC,Qadsia SC,0,3,A,0,1,A
-KUW,28/03/2014,14:20,Al Sahel,Al Kuwait SC,1,7,A,0,2,A
-KUW,28/03/2014,14:20,Al Yarmouk,Khaitan SC,0,5,A,0,2,A
-KUW,28/03/2014,14:20,Al Salmiya SC,Al Nasr SC,2,0,H,0,0,D
-KUW,28/03/2014,17:05,Al Arabi SC,Qadsia SC,0,1,A,0,0,D
-KUW,28/03/2014,17:05,Al Jahra SC,Al Tadamun,1,0,H,0,0,D
-KUW,29/03/2014,14:20,Al Shabab,Kazma SC,1,2,A,0,1,A
-KUW,29/03/2014,17:05,Al Salibikhaet SC,Al Fahaheel,0,1,A,0,0,D
-KUW,03/04/2014,15:20,Al Fahaheel,Kazma SC,0,1,A,0,0,D
-KUW,04/04/2014,15:20,Al Tadamun,Al Yarmouk,0,2,A,0,0,D
-KUW,04/04/2014,18:05,Al Sahel,Al Shabab,3,4,A,2,1,H
-KUW,05/04/2014,15:20,Qadsia SC,Al Jahra SC,8,0,H,2,0,H
-KUW,05/04/2014,15:20,Al Nasr SC,Al Salibikhaet SC,4,1,H,1,0,H
-KUW,05/04/2014,18:05,Khaitan SC,Al Salmiya SC,1,4,A,0,4,A
-KUW,05/04/2014,18:05,Al Kuwait SC,Al Arabi SC,1,0,H,0,0,D
-KUW,10/04/2014,15:25,Al Arabi SC,Al Salmiya SC,3,3,D,1,2,A
-KUW,10/04/2014,19:10,Al Fahaheel,Al Yarmouk,0,1,A,0,0,D
-KUW,11/04/2014,15:25,Al Shabab,Al Tadamun,0,0,D,0,0,D
-KUW,11/04/2014,15:25,Kazma SC,Khaitan SC,1,0,H,1,0,H
-KUW,11/04/2014,18:10,Al Jahra SC,Al Nasr SC,2,1,H,2,1,H
-KUW,12/04/2014,15:25,Qadsia SC,Al Kuwait SC,1,1,D,0,1,A
-KUW,12/04/2014,18:10,Al Salibikhaet SC,Al Sahel,2,1,H,0,1,A
-KUW,18/04/2014,15:30,Al Kuwait SC,Al Salibikhaet SC,3,1,H,0,0,D
-KUW,18/04/2014,15:30,Khaitan SC,Al Jahra SC,1,4,A,0,2,A
-KUW,18/04/2014,18:15,Al Salmiya SC,Al Shabab,5,1,H,3,1,H
-KUW,18/04/2014,19:15,Al Yarmouk,Al Arabi SC,1,0,H,0,0,D
-KUW,19/04/2014,15:30,Al Nasr SC,Al Fahaheel,1,2,A,1,1,D
-KUW,19/04/2014,18:15,Kazma SC,Qadsia SC,0,1,A,0,1,A
-KUW,19/04/2014,18:15,Al Tadamun,Al Sahel,4,2,H,1,1,D
-KUW,26/04/2014,15:30,Al Sahel,Al Arabi SC,1,3,A,0,2,A
-KUW,26/04/2014,15:30,Al Shabab,Khaitan SC,0,0,D,0,0,D
-KUW,26/04/2014,15:30,Qadsia SC,Al Nasr SC,1,0,H,1,0,H
-KUW,26/04/2014,15:30,Al Kuwait SC,Al Fahaheel,0,0,D,0,0,D
-KUW,26/04/2014,15:30,Al Jahra SC,Kazma SC,1,1,D,1,1,D
-KUW,26/04/2014,15:30,Al Tadamun,Al Salmiya SC,4,1,H,1,1,D
-KUW,26/04/2014,15:30,Al Yarmouk,Al Salibikhaet SC,2,2,D,1,0,H
+KUW,2013-08-30,16:35,Al Sahel,Khaitan SC,0,1,A,0.0,1.0,A
+KUW,2013-08-30,16:35,Kazma SC,Al Arabi SC,1,1,D,0.0,1.0,A
+KUW,2013-08-30,18:50,Al Salmiya SC,Al Yarmouk,4,0,H,2.0,0.0,H
+KUW,2013-08-30,18:50,Al Tadamun,Al Nasr SC,2,1,H,1.0,1.0,D
+KUW,2013-08-31,16:35,Al Shabab,Al Kuwait SC,0,3,A,0.0,0.0,D
+KUW,2013-08-31,18:50,Qadsia SC,Al Fahaheel,3,0,H,0.0,0.0,D
+KUW,2013-08-31,18:50,Al Jahra SC,Al Salibikhaet SC,1,1,D,0.0,0.0,D
+KUW,2013-09-13,16:20,Al Kuwait SC,Kazma SC,1,0,H,1.0,0.0,H
+KUW,2013-09-13,16:20,Al Fahaheel,Al Salmiya SC,1,1,D,0.0,1.0,A
+KUW,2013-09-13,18:45,Al Sahel,Qadsia SC,0,1,A,0.0,0.0,D
+KUW,2013-09-13,18:45,Al Yarmouk,Al Jahra SC,1,1,D,0.0,1.0,A
+KUW,2013-09-14,16:20,Al Salibikhaet SC,Al Shabab,0,1,A,0.0,0.0,D
+KUW,2013-09-14,16:20,Al Tadamun,Al Arabi SC,1,3,A,1.0,1.0,D
+KUW,2013-09-14,18:45,Al Nasr SC,Khaitan SC,0,0,D,0.0,0.0,D
+KUW,2013-09-19,16:15,Al Arabi SC,Al Fahaheel,2,1,H,0.0,0.0,D
+KUW,2013-09-20,16:15,Qadsia SC,Al Tadamun,6,0,H,5.0,0.0,H
+KUW,2013-09-20,18:30,Al Salmiya SC,Kazma SC,3,1,H,0.0,1.0,A
+KUW,2013-09-20,18:30,Khaitan SC,Al Salibikhaet SC,1,0,H,0.0,0.0,D
+KUW,2013-09-21,16:15,Al Kuwait SC,Al Yarmouk,4,0,H,2.0,0.0,H
+KUW,2013-09-21,16:15,Al Nasr SC,Al Sahel,4,3,H,2.0,2.0,D
+KUW,2013-09-21,18:30,Al Shabab,Al Jahra SC,0,1,A,0.0,1.0,A
+KUW,2013-09-27,16:00,Al Jahra SC,Al Kuwait SC,1,4,A,0.0,3.0,A
+KUW,2013-09-27,16:00,Khaitan SC,Al Tadamun,0,1,A,0.0,1.0,A
+KUW,2013-09-27,18:15,Al Fahaheel,Al Sahel,0,1,A,0.0,1.0,A
+KUW,2013-09-27,18:15,Kazma SC,Al Nasr SC,0,0,D,0.0,0.0,D
+KUW,2013-09-28,16:00,Al Salibikhaet SC,Al Salmiya SC,0,3,A,0.0,1.0,A
+KUW,2013-09-28,16:00,Al Shabab,Al Arabi SC,0,3,A,0.0,3.0,A
+KUW,2013-09-28,18:15,Al Yarmouk,Qadsia SC,0,1,A,0.0,0.0,D
+KUW,2013-10-03,15:50,Al Arabi SC,Al Salibikhaet SC,1,1,D,1.0,1.0,D
+KUW,2013-10-04,15:50,Al Sahel,Kazma SC,1,2,A,1.0,1.0,D
+KUW,2013-10-04,18:05,Al Tadamun,Al Fahaheel,2,2,D,1.0,0.0,H
+KUW,2013-10-05,15:50,Qadsia SC,Al Shabab,2,1,H,2.0,0.0,H
+KUW,2013-10-05,15:50,Al Nasr SC,Al Yarmouk,4,1,H,2.0,0.0,H
+KUW,2013-10-05,18:05,Al Salmiya SC,Al Jahra SC,1,2,A,0.0,0.0,D
+KUW,2013-10-05,18:05,Al Kuwait SC,Khaitan SC,3,0,H,1.0,0.0,H
+KUW,2013-10-18,15:35,Al Fahaheel,Khaitan SC,2,3,A,,,
+KUW,2013-10-18,15:35,Al Kuwait SC,Al Salmiya SC,4,3,H,,,
+KUW,2013-10-18,18:00,Al Salibikhaet SC,Qadsia SC,1,1,D,,,
+KUW,2013-10-18,18:00,Al Sahel,Al Yarmouk,3,1,H,,,
+KUW,2013-10-19,15:35,Al Shabab,Al Nasr SC,1,1,D,,,
+KUW,2013-10-19,15:35,Kazma SC,Al Tadamun,3,1,H,,,
+KUW,2013-10-19,18:00,Al Jahra SC,Al Arabi SC,0,0,D,,,
+KUW,2013-10-24,15:30,Al Nasr SC,Al Arabi SC,1,4,A,,,
+KUW,2013-10-25,15:30,Al Jahra SC,Al Fahaheel,3,1,H,,,
+KUW,2013-10-25,15:30,Kazma SC,Al Salibikhaet SC,1,1,D,,,
+KUW,2013-10-25,17:45,Al Yarmouk,Al Shabab,0,0,D,,,
+KUW,2013-10-26,15:30,Al Tadamun,Al Kuwait SC,1,3,A,,,
+KUW,2013-10-26,15:30,Al Salmiya SC,Al Sahel,0,1,A,,,
+KUW,2013-10-26,15:30,Khaitan SC,Qadsia SC,1,1,D,,,
+KUW,2013-10-31,14:25,Al Yarmouk,Kazma SC,2,2,D,,,
+KUW,2013-11-01,13:15,Al Salibikhaet SC,Al Tadamun,0,5,A,,,
+KUW,2013-11-01,13:15,Al Shabab,Al Fahaheel,3,0,H,,,
+KUW,2013-11-01,15:35,Al Sahel,Al Jahra SC,1,3,A,,,
+KUW,2013-11-01,15:35,Al Arabi SC,Khaitan SC,3,0,H,,,
+KUW,2013-11-22,13:00,Al Fahaheel,Al Salibikhaet SC,4,2,H,,,
+KUW,2013-11-22,13:00,Al Nasr SC,Al Salmiya SC,3,0,H,,,
+KUW,2013-11-22,15:30,Khaitan SC,Al Yarmouk,0,0,D,,,
+KUW,2013-11-22,15:30,Al Tadamun,Al Jahra SC,2,3,A,,,
+KUW,2013-11-23,13:00,Al Kuwait SC,Al Sahel,3,1,H,,,
+KUW,2013-11-23,13:00,Kazma SC,Al Shabab,3,1,H,,,
+KUW,2013-11-23,15:30,Qadsia SC,Al Arabi SC,1,1,D,,,
+KUW,2013-11-28,13:00,Al Yarmouk,Al Tadamun,1,2,A,,,
+KUW,2013-11-28,15:45,Al Shabab,Al Sahel,0,0,D,,,
+KUW,2013-11-29,13:00,Al Salmiya SC,Khaitan SC,4,1,H,,,
+KUW,2013-11-29,15:45,Al Jahra SC,Qadsia SC,1,6,A,,,
+KUW,2013-11-30,13:00,Kazma SC,Al Fahaheel,5,2,H,,,
+KUW,2013-11-30,15:45,Al Arabi SC,Al Kuwait SC,0,0,D,,,
+KUW,2013-11-30,16:45,Al Salibikhaet SC,Al Nasr SC,1,2,A,,,
+KUW,2013-12-05,14:25,Al Salmiya SC,Al Arabi SC,3,2,H,,,
+KUW,2013-12-06,12:00,Al Tadamun,Al Shabab,2,0,H,,,
+KUW,2013-12-06,12:00,Al Nasr SC,Al Jahra SC,0,4,A,,,
+KUW,2013-12-06,15:45,Al Yarmouk,Al Fahaheel,0,0,D,,,
+KUW,2013-12-07,12:00,Khaitan SC,Kazma SC,0,1,A,,,
+KUW,2013-12-07,14:45,Al Kuwait SC,Qadsia SC,0,2,A,,,
+KUW,2013-12-07,14:45,Al Sahel,Al Salibikhaet SC,0,2,A,,,
+KUW,2013-12-12,14:25,Al Sahel,Al Tadamun,3,2,H,,,
+KUW,2013-12-13,12:05,Al Arabi SC,Al Yarmouk,2,0,H,,,
+KUW,2013-12-13,12:05,Al Shabab,Al Salmiya SC,1,2,A,,,
+KUW,2013-12-13,15:50,Al Salibikhaet SC,Al Kuwait SC,0,3,A,,,
+KUW,2013-12-14,12:05,Al Jahra SC,Khaitan SC,3,1,H,,,
+KUW,2013-12-14,12:05,Qadsia SC,Kazma SC,1,1,D,,,
+KUW,2013-12-14,15:50,Al Fahaheel,Al Nasr SC,0,3,A,,,
+KUW,2013-12-19,14:25,Khaitan SC,Al Shabab,1,0,H,,,
+KUW,2013-12-20,12:05,Kazma SC,Al Jahra SC,2,0,H,,,
+KUW,2013-12-20,12:05,Al Nasr SC,Qadsia SC,1,3,A,,,
+KUW,2013-12-20,15:50,Al Fahaheel,Al Kuwait SC,0,3,A,,,
+KUW,2013-12-21,12:05,Al Arabi SC,Al Sahel,2,1,H,,,
+KUW,2013-12-21,14:50,Al Salmiya SC,Al Tadamun,3,0,H,,,
+KUW,2013-12-21,14:50,Al Salibikhaet SC,Al Yarmouk,1,2,A,,,
+KUW,2014-01-14,14:30,Qadsia SC,Al Sahel,1,0,H,,,
+KUW,2014-01-20,14:30,Al Kuwait SC,Al Nasr SC,4,0,H,,,
+KUW,2014-01-20,17:20,Qadsia SC,Al Salmiya SC,4,1,H,,,
+KUW,2014-01-23,13:30,Al Arabi SC,Kazma SC,1,2,A,,,
+KUW,2014-01-23,17:20,Al Salibikhaet SC,Al Jahra SC,0,3,A,,,
+KUW,2014-01-24,12:30,Al Nasr SC,Al Tadamun,0,0,D,,,
+KUW,2014-01-24,12:30,Al Kuwait SC,Al Shabab,3,0,H,,,
+KUW,2014-01-24,16:15,Al Fahaheel,Qadsia SC,1,3,A,,,
+KUW,2014-01-25,12:30,Al Yarmouk,Al Salmiya SC,3,1,H,,,
+KUW,2014-01-25,15:15,Khaitan SC,Al Sahel,1,0,H,,,
+KUW,2014-01-29,14:45,Kazma SC,Al Kuwait SC,2,3,A,,,
+KUW,2014-01-30,14:55,Al Jahra SC,Al Yarmouk,1,0,H,,,
+KUW,2014-01-31,12:35,Khaitan SC,Al Nasr SC,0,2,A,,,
+KUW,2014-01-31,15:20,Al Salmiya SC,Al Fahaheel,5,2,H,,,
+KUW,2014-02-01,15:20,Al Shabab,Al Salibikhaet SC,1,1,D,,,
+KUW,2014-02-01,,Al Arabi SC,Al Tadamun,0,3,A,,,
+KUW,2014-02-07,12:40,Al Fahaheel,Al Arabi SC,0,1,A,,,
+KUW,2014-02-07,16:25,Al Sahel,Al Nasr SC,1,1,D,,,
+KUW,2014-02-08,12:40,Kazma SC,Al Salmiya SC,3,2,H,,,
+KUW,2014-02-08,15:25,Al Jahra SC,Al Shabab,2,0,H,,,
+KUW,2014-02-08,16:25,Al Salibikhaet SC,Khaitan SC,1,0,H,,,
+KUW,2014-02-14,12:45,Al Arabi SC,Al Shabab,6,0,H,,,
+KUW,2014-02-14,16:30,Al Nasr SC,Kazma SC,1,2,A,,,
+KUW,2014-02-15,12:45,Al Tadamun,Khaitan SC,3,0,H,,,
+KUW,2014-02-15,12:45,Al Sahel,Al Fahaheel,1,0,H,,,
+KUW,2014-02-15,12:45,Al Salmiya SC,Al Salibikhaet SC,1,4,A,,,
+KUW,2014-02-18,13:55,Al Yarmouk,Al Kuwait SC,0,2,A,,,
+KUW,2014-02-18,16:15,Al Tadamun,Qadsia SC,0,5,A,,,
+KUW,2014-02-21,12:45,Khaitan SC,Al Kuwait SC,2,1,H,,,
+KUW,2014-02-21,12:45,Al Shabab,Qadsia SC,0,2,A,,,
+KUW,2014-02-21,15:30,Al Jahra SC,Al Salmiya SC,1,0,H,,,
+KUW,2014-02-21,16:30,Al Yarmouk,Al Nasr SC,0,2,A,,,
+KUW,2014-02-22,12:45,Al Fahaheel,Al Tadamun,1,6,A,,,
+KUW,2014-02-22,12:45,Kazma SC,Al Sahel,2,0,H,,,
+KUW,2014-02-22,16:30,Al Salibikhaet SC,Al Arabi SC,2,3,A,,,
+KUW,2014-03-07,14:05,Khaitan SC,Al Fahaheel,3,0,H,,,
+KUW,2014-03-07,14:05,Al Tadamun,Kazma SC,1,2,A,,,
+KUW,2014-03-07,17:50,Al Yarmouk,Al Sahel,1,0,H,,,
+KUW,2014-03-08,14:05,Al Arabi SC,Al Jahra SC,1,2,A,,,
+KUW,2014-03-08,14:05,Al Salmiya SC,Al Kuwait SC,1,1,D,,,
+KUW,2014-03-08,16:50,Al Nasr SC,Al Shabab,3,1,H,,,
+KUW,2014-03-08,16:50,Qadsia SC,Al Salibikhaet SC,4,2,H,,,
+KUW,2014-03-13,14:10,Al Arabi SC,Al Nasr SC,3,3,D,1.0,2.0,A
+KUW,2014-03-13,17:55,Al Fahaheel,Al Jahra SC,0,3,A,0.0,2.0,A
+KUW,2014-03-14,14:10,Al Salibikhaet SC,Kazma SC,1,1,D,1.0,0.0,H
+KUW,2014-03-14,16:55,Al Shabab,Al Yarmouk,1,2,A,1.0,0.0,H
+KUW,2014-03-15,14:10,Al Sahel,Al Salmiya SC,1,1,D,0.0,0.0,D
+KUW,2014-03-15,14:10,Qadsia SC,Khaitan SC,2,1,H,1.0,0.0,H
+KUW,2014-03-15,16:55,Al Kuwait SC,Al Tadamun,5,1,H,1.0,1.0,D
+KUW,2014-03-20,14:15,Khaitan SC,Al Arabi SC,0,8,A,0.0,5.0,A
+KUW,2014-03-20,18:00,Al Fahaheel,Al Shabab,1,2,A,0.0,2.0,A
+KUW,2014-03-21,14:15,Al Jahra SC,Al Sahel,3,2,H,2.0,1.0,H
+KUW,2014-03-21,17:00,Al Tadamun,Al Salibikhaet SC,2,0,H,0.0,0.0,D
+KUW,2014-03-22,14:10,Kazma SC,Al Yarmouk,1,0,H,0.0,0.0,D
+KUW,2014-03-22,17:00,Al Nasr SC,Al Kuwait SC,2,4,A,0.0,2.0,A
+KUW,2014-03-25,14:20,Al Kuwait SC,Al Jahra SC,1,0,H,1.0,0.0,H
+KUW,2014-03-25,16:40,Qadsia SC,Al Yarmouk,2,1,H,1.0,0.0,H
+KUW,2014-03-28,14:20,Al Sahel,Al Kuwait SC,1,7,A,0.0,2.0,A
+KUW,2014-03-28,14:20,Al Yarmouk,Khaitan SC,0,5,A,0.0,2.0,A
+KUW,2014-03-28,14:20,Al Salmiya SC,Al Nasr SC,2,0,H,0.0,0.0,D
+KUW,2014-03-28,17:05,Al Arabi SC,Qadsia SC,0,1,A,0.0,0.0,D
+KUW,2014-03-28,17:05,Al Jahra SC,Al Tadamun,1,0,H,0.0,0.0,D
+KUW,2014-03-29,14:20,Al Shabab,Kazma SC,1,2,A,0.0,1.0,A
+KUW,2014-03-29,17:05,Al Salibikhaet SC,Al Fahaheel,0,1,A,0.0,0.0,D
+KUW,2014-04-02,16:40,Al Salmiya SC,Qadsia SC,0,3,A,0.0,1.0,A
+KUW,2014-04-03,15:20,Al Fahaheel,Kazma SC,0,1,A,0.0,0.0,D
+KUW,2014-04-04,15:20,Al Tadamun,Al Yarmouk,0,2,A,0.0,0.0,D
+KUW,2014-04-04,18:05,Al Sahel,Al Shabab,3,4,A,2.0,1.0,H
+KUW,2014-04-05,15:20,Qadsia SC,Al Jahra SC,8,0,H,2.0,0.0,H
+KUW,2014-04-05,15:20,Al Nasr SC,Al Salibikhaet SC,4,1,H,1.0,0.0,H
+KUW,2014-04-05,18:05,Khaitan SC,Al Salmiya SC,1,4,A,0.0,4.0,A
+KUW,2014-04-05,18:05,Al Kuwait SC,Al Arabi SC,1,0,H,0.0,0.0,D
+KUW,2014-04-10,15:25,Al Arabi SC,Al Salmiya SC,3,3,D,1.0,2.0,A
+KUW,2014-04-10,19:10,Al Fahaheel,Al Yarmouk,0,1,A,0.0,0.0,D
+KUW,2014-04-11,15:25,Al Shabab,Al Tadamun,0,0,D,0.0,0.0,D
+KUW,2014-04-11,15:25,Kazma SC,Khaitan SC,1,0,H,1.0,0.0,H
+KUW,2014-04-11,18:10,Al Jahra SC,Al Nasr SC,2,1,H,2.0,1.0,H
+KUW,2014-04-12,15:25,Qadsia SC,Al Kuwait SC,1,1,D,0.0,1.0,A
+KUW,2014-04-12,18:10,Al Salibikhaet SC,Al Sahel,2,1,H,0.0,1.0,A
+KUW,2014-04-18,15:30,Al Kuwait SC,Al Salibikhaet SC,3,1,H,0.0,0.0,D
+KUW,2014-04-18,15:30,Khaitan SC,Al Jahra SC,1,4,A,0.0,2.0,A
+KUW,2014-04-18,18:15,Al Salmiya SC,Al Shabab,5,1,H,3.0,1.0,H
+KUW,2014-04-18,19:15,Al Yarmouk,Al Arabi SC,1,0,H,0.0,0.0,D
+KUW,2014-04-19,15:30,Al Nasr SC,Al Fahaheel,1,2,A,1.0,1.0,D
+KUW,2014-04-19,18:15,Kazma SC,Qadsia SC,0,1,A,0.0,1.0,A
+KUW,2014-04-19,18:15,Al Tadamun,Al Sahel,4,2,H,1.0,1.0,D
+KUW,2014-04-26,15:30,Al Sahel,Al Arabi SC,1,3,A,0.0,2.0,A
+KUW,2014-04-26,15:30,Al Shabab,Khaitan SC,0,0,D,0.0,0.0,D
+KUW,2014-04-26,15:30,Qadsia SC,Al Nasr SC,1,0,H,1.0,0.0,H
+KUW,2014-04-26,15:30,Al Kuwait SC,Al Fahaheel,0,0,D,0.0,0.0,D
+KUW,2014-04-26,15:30,Al Jahra SC,Kazma SC,1,1,D,1.0,1.0,D
+KUW,2014-04-26,15:30,Al Tadamun,Al Salmiya SC,4,1,H,1.0,1.0,D
+KUW,2014-04-26,15:30,Al Yarmouk,Al Salibikhaet SC,2,2,D,1.0,0.0,H

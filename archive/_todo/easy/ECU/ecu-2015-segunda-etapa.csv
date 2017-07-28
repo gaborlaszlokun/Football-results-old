@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ECU,2015-07-18,01:30,LDU Loja,River Ecuador,0,0,D,0.0,0.0,D
+ECU,2015-07-18,20:00,Mushuc Runa,Deportivo Cuenca,2,1,H,1.0,1.0,D
+ECU,2015-07-18,22:00,El Nacional,SD Aucas,1,0,H,0.0,0.0,D
+ECU,2015-07-18,23:00,Independiente del Valle,LDU Quito,1,3,A,0.0,2.0,A
+ECU,2015-07-19,18:00,CD Universidad Catolica,Barcelona SC,0,2,A,0.0,0.0,D
+ECU,2015-07-19,22:00,CS Emelec,Deportivo Quito,0,0,D,0.0,0.0,D
+ECU,2015-07-25,01:30,Deportivo Quito,El Nacional,1,0,H,1.0,0.0,H
+ECU,2015-07-25,02:00,Deportivo Cuenca,Independiente del Valle,0,2,A,0.0,2.0,A
+ECU,2015-07-25,21:00,SD Aucas,LDU Loja,1,0,H,0.0,0.0,D
+ECU,2015-07-25,22:30,Barcelona SC,Mushuc Runa,0,0,D,0.0,0.0,D
+ECU,2015-07-26,00:30,LDU Quito,CD Universidad Catolica,1,1,D,1.0,0.0,H
+ECU,2015-07-26,00:30,River Ecuador,CS Emelec,0,4,A,0.0,3.0,A
+ECU,2015-07-29,18:00,CD Universidad Catolica,Deportivo Cuenca,1,3,A,0.0,1.0,A
+ECU,2015-07-29,22:00,CS Emelec,SD Aucas,3,0,H,1.0,0.0,H
+ECU,2015-07-30,00:00,Independiente del Valle,Deportivo Quito,3,0,H,0.0,0.0,D
+ECU,2015-07-30,01:00,River Ecuador,LDU Quito,1,0,H,1.0,0.0,H
+ECU,2015-07-30,01:00,LDU Loja,Barcelona SC,1,2,A,1.0,1.0,D
+ECU,2015-07-30,01:30,El Nacional,Mushuc Runa,1,0,H,1.0,0.0,H
+ECU,2015-08-02,17:30,LDU Quito,CS Emelec,2,1,H,2.0,0.0,H
+ECU,2015-08-02,17:30,Deportivo Cuenca,El Nacional,0,0,D,0.0,0.0,D
+ECU,2015-08-02,18:00,Deportivo Quito,LDU Loja,1,1,D,1.0,0.0,H
+ECU,2015-08-02,18:00,SD Aucas,River Ecuador,4,0,H,3.0,0.0,H
+ECU,2015-08-02,20:00,Mushuc Runa,CD Universidad Catolica,1,3,A,1.0,1.0,D
+ECU,2015-08-02,22:30,Barcelona SC,Independiente del Valle,2,1,H,0.0,0.0,D
+ECU,2015-08-08,01:15,Independiente del Valle,CD Universidad Catolica,0,1,A,0.0,0.0,D
+ECU,2015-08-08,01:15,LDU Loja,Deportivo Cuenca,0,1,A,0.0,0.0,D
+ECU,2015-08-08,22:30,River Ecuador,Deportivo Quito,3,1,H,2.0,1.0,H
+ECU,2015-08-08,23:30,CS Emelec,Mushuc Runa,1,0,H,0.0,0.0,D
+ECU,2015-08-09,17:30,SD Aucas,LDU Quito,3,2,H,2.0,1.0,H
+ECU,2015-08-09,18:00,El Nacional,Barcelona SC,1,0,H,1.0,0.0,H
+ECU,2015-08-15,22:00,Mushuc Runa,Independiente del Valle,2,4,A,2.0,1.0,H
+ECU,2015-08-16,18:00,Deportivo Quito,SD Aucas,0,1,A,0.0,0.0,D
+ECU,2015-08-16,22:30,Barcelona SC,River Ecuador,0,1,A,0.0,0.0,D
+ECU,2015-08-17,00:00,Deportivo Cuenca,CS Emelec,0,1,A,0.0,0.0,D
+ECU,2015-08-22,22:00,El Nacional,Independiente del Valle,0,1,A,0.0,1.0,A
+ECU,2015-08-22,22:30,River Ecuador,Deportivo Cuenca,1,1,D,1.0,0.0,H
+ECU,2015-08-23,18:00,Deportivo Quito,LDU Quito,1,4,A,0.0,1.0,A
+ECU,2015-08-23,18:00,SD Aucas,Barcelona SC,3,1,H,2.0,0.0,H
+ECU,2015-08-23,23:00,CS Emelec,CD Universidad Catolica,2,2,D,1.0,0.0,H
+ECU,2015-08-25,01:30,LDU Loja,Mushuc Runa,2,1,H,1.0,0.0,H
+ECU,2015-08-27,01:00,CD Universidad Catolica,El Nacional,3,1,H,0.0,1.0,A
+ECU,2015-08-29,02:00,Deportivo Cuenca,SD Aucas,1,1,D,0.0,1.0,A
+ECU,2015-08-29,23:00,CD Universidad Catolica,LDU Loja,3,0,H,2.0,0.0,H
+ECU,2015-08-30,17:00,Mushuc Runa,LDU Quito,1,3,A,1.0,1.0,D
+ECU,2015-08-30,17:30,El Nacional,River Ecuador,2,0,H,0.0,0.0,D
+ECU,2015-08-30,22:30,Barcelona SC,Deportivo Quito,3,0,H,2.0,0.0,H
+ECU,2015-08-30,23:00,Independiente del Valle,CS Emelec,1,0,H,0.0,0.0,D
+ECU,2015-09-05,01:30,Deportivo Quito,Deportivo Cuenca,0,3,A,0.0,1.0,A
+ECU,2015-09-05,01:30,LDU Loja,Independiente del Valle,3,2,H,1.0,1.0,D
+ECU,2015-09-05,22:30,River Ecuador,Mushuc Runa,2,2,D,1.0,1.0,D
+ECU,2015-09-06,17:30,LDU Quito,Barcelona SC,2,0,H,1.0,0.0,H
+ECU,2015-09-06,18:00,SD Aucas,CD Universidad Catolica,2,1,H,0.0,0.0,D
+ECU,2015-09-12,02:00,Deportivo Cuenca,LDU Quito,0,1,A,0.0,0.0,D
+ECU,2015-09-12,23:00,Independiente del Valle,River Ecuador,1,1,D,0.0,1.0,A
+ECU,2015-09-13,16:00,El Nacional,LDU Loja,1,3,A,1.0,1.0,D
+ECU,2015-09-13,18:00,Mushuc Runa,SD Aucas,3,1,H,1.0,0.0,H
+ECU,2015-09-13,18:30,CD Universidad Catolica,Deportivo Quito,2,1,H,2.0,0.0,H
+ECU,2015-09-13,23:00,CS Emelec,Barcelona SC,0,0,D,0.0,0.0,D
+ECU,2015-09-19,22:00,River Ecuador,CD Universidad Catolica,1,3,A,0.0,1.0,A
+ECU,2015-09-20,17:30,LDU Quito,El Nacional,1,1,D,0.0,1.0,A
+ECU,2015-09-20,18:00,Deportivo Quito,Mushuc Runa,1,2,A,0.0,1.0,A
+ECU,2015-09-20,18:00,SD Aucas,Independiente del Valle,1,1,D,0.0,0.0,D
+ECU,2015-09-20,22:30,Barcelona SC,Deportivo Cuenca,1,1,D,0.0,0.0,D
+ECU,2015-09-26,18:30,CD Universidad Catolica,River Ecuador,1,0,H,0.0,0.0,D
+ECU,2015-09-26,21:00,Mushuc Runa,Deportivo Quito,1,1,D,0.0,0.0,D
+ECU,2015-09-26,23:00,Independiente del Valle,SD Aucas,1,1,D,0.0,1.0,A
+ECU,2015-09-26,23:00,CS Emelec,LDU Loja,1,1,D,1.0,1.0,D
+ECU,2015-09-27,17:30,El Nacional,LDU Quito,1,5,A,1.0,2.0,A
+ECU,2015-09-27,17:30,Deportivo Cuenca,Barcelona SC,3,0,H,0.0,0.0,D
+ECU,2015-10-02,21:00,SD Aucas,Mushuc Runa,0,0,D,0.0,0.0,D
+ECU,2015-10-02,21:00,River Ecuador,Independiente del Valle,1,3,A,0.0,1.0,A
+ECU,2015-10-03,01:30,LDU Loja,El Nacional,1,0,H,0.0,0.0,D
+ECU,2015-10-03,23:00,Barcelona SC,CS Emelec,0,1,A,0.0,0.0,D
+ECU,2015-10-04,17:30,Deportivo Quito,CD Universidad Catolica,4,1,H,2.0,0.0,H
+ECU,2015-10-04,17:30,LDU Quito,Deportivo Cuenca,3,2,H,2.0,0.0,H
+ECU,2015-10-09,17:30,LDU Quito,LDU Loja,1,2,A,0.0,1.0,A
+ECU,2015-10-17,02:00,Deportivo Cuenca,Deportivo Quito,1,0,H,1.0,0.0,H
+ECU,2015-10-17,18:00,CD Universidad Catolica,SD Aucas,3,0,H,1.0,0.0,H
+ECU,2015-10-17,23:00,Independiente del Valle,LDU Loja,2,1,H,1.0,0.0,H
+ECU,2015-10-18,17:30,El Nacional,CS Emelec,1,1,D,0.0,1.0,A
+ECU,2015-10-18,18:00,Mushuc Runa,River Ecuador,1,1,D,0.0,0.0,D
+ECU,2015-10-18,22:30,Barcelona SC,LDU Quito,1,0,H,1.0,0.0,H
+ECU,2015-10-24,01:30,LDU Loja,CD Universidad Catolica,1,2,A,0.0,0.0,D
+ECU,2015-10-24,22:00,CS Emelec,Independiente del Valle,3,2,H,2.0,1.0,H
+ECU,2015-10-25,01:00,River Ecuador,El Nacional,5,0,H,1.0,0.0,H
+ECU,2015-10-25,16:30,LDU Quito,Mushuc Runa,1,1,D,0.0,1.0,A
+ECU,2015-10-25,17:00,Deportivo Quito,Barcelona SC,0,1,A,0.0,1.0,A
+ECU,2015-10-25,17:00,SD Aucas,Deportivo Cuenca,0,0,D,0.0,0.0,D
+ECU,2015-10-28,23:30,CS Emelec,El Nacional,2,1,H,1.0,0.0,H
+ECU,2015-10-31,00:00,Barcelona SC,SD Aucas,0,0,D,0.0,0.0,D
+ECU,2015-10-31,00:15,LDU Quito,Deportivo Quito,2,0,H,2.0,0.0,H
+ECU,2015-10-31,19:00,Mushuc Runa,LDU Loja,2,1,H,0.0,0.0,D
+ECU,2015-11-01,16:30,Independiente del Valle,El Nacional,2,1,H,1.0,0.0,H
+ECU,2015-11-01,17:00,CD Universidad Catolica,CS Emelec,0,3,A,0.0,1.0,A
+ECU,2015-11-02,23:00,Deportivo Cuenca,River Ecuador,1,1,D,1.0,0.0,H
+ECU,2015-11-06,21:00,CS Emelec,Deportivo Cuenca,6,0,H,3.0,0.0,H
+ECU,2015-11-07,00:00,Independiente del Valle,Mushuc Runa,4,1,H,2.0,0.0,H
+ECU,2015-11-07,00:00,El Nacional,CD Universidad Catolica,0,2,A,0.0,1.0,A
+ECU,2015-11-07,00:00,River Ecuador,Barcelona SC,1,1,D,0.0,0.0,D
+ECU,2015-11-07,01:00,LDU Loja,LDU Quito,2,3,A,2.0,0.0,H
+ECU,2015-11-08,17:00,SD Aucas,Deportivo Quito,2,2,D,1.0,2.0,A
+ECU,2015-11-21,01:00,Deportivo Cuenca,LDU Loja,1,2,A,0.0,1.0,A
+ECU,2015-11-22,00:00,CD Universidad Catolica,Independiente del Valle,2,1,H,1.0,1.0,D
+ECU,2015-11-22,16:30,LDU Quito,SD Aucas,0,2,A,0.0,2.0,A
+ECU,2015-11-22,16:30,Mushuc Runa,CS Emelec,2,2,D,1.0,0.0,H
+ECU,2015-11-22,21:30,Barcelona SC,El Nacional,3,0,H,1.0,0.0,H
+ECU,2015-11-22,,Deportivo Quito,River Ecuador,0,3,A,,,
+ECU,2015-11-26,00:00,LDU Loja,CS Emelec,2,4,A,1.0,3.0,A
+ECU,2015-11-28,00:00,CD Universidad Catolica,Mushuc Runa,1,1,D,0.0,0.0,D
+ECU,2015-11-28,22:00,Independiente del Valle,Barcelona SC,3,3,D,2.0,2.0,D
+ECU,2015-11-29,00:00,River Ecuador,SD Aucas,1,0,H,1.0,0.0,H
+ECU,2015-11-29,16:30,El Nacional,Deportivo Cuenca,2,0,H,0.0,0.0,D
+ECU,2015-11-29,16:30,LDU Loja,Deportivo Quito,1,0,H,1.0,0.0,H
+ECU,2015-11-29,21:00,CS Emelec,LDU Quito,0,2,A,0.0,0.0,D
+ECU,2015-12-02,20:00,SD Aucas,CS Emelec,3,3,D,1.0,2.0,A
+ECU,2015-12-02,21:00,Mushuc Runa,El Nacional,1,2,A,1.0,2.0,A
+ECU,2015-12-03,00:00,Deportivo Quito,Independiente del Valle,0,5,A,0.0,3.0,A
+ECU,2015-12-03,00:15,LDU Quito,River Ecuador,1,0,H,0.0,0.0,D
+ECU,2015-12-03,00:30,Barcelona SC,LDU Loja,2,1,H,1.0,1.0,D
+ECU,2015-12-03,01:00,Deportivo Cuenca,CD Universidad Catolica,1,0,H,0.0,0.0,D
+ECU,2015-12-06,17:00,Independiente del Valle,Deportivo Cuenca,2,0,H,1.0,0.0,H
+ECU,2015-12-06,17:00,El Nacional,Deportivo Quito,1,2,A,1.0,1.0,D
+ECU,2015-12-06,17:00,CD Universidad Catolica,LDU Quito,2,1,H,1.0,0.0,H
+ECU,2015-12-06,17:00,CS Emelec,River Ecuador,3,1,H,2.0,1.0,H
+ECU,2015-12-06,17:00,LDU Loja,SD Aucas,2,1,H,0.0,1.0,A
+ECU,2015-12-06,17:00,Mushuc Runa,Barcelona SC,1,0,H,0.0,0.0,D
+ECU,2015-12-12,20:30,SD Aucas,El Nacional,1,0,H,1.0,0.0,H
+ECU,2015-12-12,20:30,River Ecuador,LDU Loja,2,1,H,2.0,0.0,H
+ECU,2015-12-12,20:30,Deportivo Cuenca,Mushuc Runa,1,1,D,1.0,0.0,H
+ECU,2015-12-13,16:30,Deportivo Quito,CS Emelec,0,1,A,0.0,0.0,D
+ECU,2015-12-13,16:30,LDU Quito,Independiente del Valle,4,3,H,2.0,2.0,D
+ECU,2015-12-13,16:30,Barcelona SC,CD Universidad Catolica,1,1,D,1.0,1.0,D

@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GEO,2011-08-06,14:30,WIT Georgia,Dila Gori,4,3,H,,,
+GEO,2011-08-07,14:30,Baia Zugdidi,Sioni Bolnisi,3,0,H,,,
+GEO,2011-08-07,14:30,Metalurgi Rustavi,Kolkheti Poti,0,0,D,,,
+GEO,2011-08-07,14:30,Spartaki Tskhinvali,Dinamo Tbilisi,1,2,A,,,
+GEO,2011-08-07,14:30,FC Gagra,FC Merani Martvili,3,0,H,,,
+GEO,2011-08-07,18:00,Torpedo Kutaisi,FC Zestafoni,1,2,A,,,
+GEO,2011-08-13,15:00,Dinamo Tbilisi,WIT Georgia,2,0,H,,,
+GEO,2011-08-13,17:00,FC Zestafoni,Kolkheti Poti,1,1,D,,,
+GEO,2011-08-14,14:00,Dila Gori,Torpedo Kutaisi,0,1,A,,,
+GEO,2011-08-14,14:00,Sioni Bolnisi,FC Gagra,1,3,A,,,
+GEO,2011-08-14,14:00,FC Merani Martvili,Spartaki Tskhinvali,2,0,H,,,
+GEO,2011-08-14,14:00,Metalurgi Rustavi,Baia Zugdidi,2,0,H,,,
+GEO,2011-08-21,14:00,Baia Zugdidi,Kolkheti Poti,2,0,H,,,
+GEO,2011-08-21,14:00,FC Gagra,Metalurgi Rustavi,2,0,H,,,
+GEO,2011-08-21,14:00,Spartaki Tskhinvali,Sioni Bolnisi,0,0,D,,,
+GEO,2011-08-21,14:00,WIT Georgia,FC Merani Martvili,0,0,D,,,
+GEO,2011-08-27,14:00,Baia Zugdidi,FC Gagra,3,0,H,,,
+GEO,2011-08-27,14:00,Metalurgi Rustavi,Spartaki Tskhinvali,0,0,D,,,
+GEO,2011-08-27,14:00,Kolkheti Poti,Dila Gori,0,1,A,,,
+GEO,2011-08-27,14:00,FC Merani Martvili,Torpedo Kutaisi,1,0,H,,,
+GEO,2011-08-27,14:00,Sioni Bolnisi,WIT Georgia,1,1,D,,,
+GEO,2011-08-28,15:00,Dinamo Tbilisi,FC Zestafoni,2,2,D,,,
+GEO,2011-09-10,13:00,FC Gagra,Kolkheti Poti,1,2,A,1.0,2.0,A
+GEO,2011-09-10,13:00,WIT Georgia,Metalurgi Rustavi,0,2,A,0.0,0.0,D
+GEO,2011-09-10,13:00,Dila Gori,Dinamo Tbilisi,1,2,A,0.0,1.0,A
+GEO,2011-09-10,15:00,Torpedo Kutaisi,Sioni Bolnisi,2,0,H,2.0,0.0,H
+GEO,2011-09-10,17:00,FC Zestafoni,FC Merani Martvili,3,1,H,2.0,0.0,H
+GEO,2011-09-11,15:00,Spartaki Tskhinvali,Baia Zugdidi,1,2,A,0.0,1.0,A
+GEO,2011-09-17,13:00,FC Merani Martvili,Dila Gori,2,1,H,1.0,1.0,D
+GEO,2011-09-17,13:00,Metalurgi Rustavi,Torpedo Kutaisi,2,0,H,1.0,0.0,H
+GEO,2011-09-17,13:00,Kolkheti Poti,Dinamo Tbilisi,0,3,A,0.0,0.0,D
+GEO,2011-09-17,13:00,Sioni Bolnisi,FC Zestafoni,1,2,A,0.0,0.0,D
+GEO,2011-09-18,13:00,Baia Zugdidi,WIT Georgia,0,1,A,0.0,1.0,A
+GEO,2011-09-18,13:00,FC Gagra,Spartaki Tskhinvali,0,0,D,0.0,0.0,D
+GEO,2011-09-21,15:00,Torpedo Kutaisi,Dinamo Tbilisi,2,1,H,2.0,1.0,H
+GEO,2011-09-21,15:30,FC Zestafoni,Dila Gori,0,4,A,0.0,2.0,A
+GEO,2011-09-25,13:00,WIT Georgia,FC Gagra,1,0,H,0.0,0.0,D
+GEO,2011-09-25,13:00,Spartaki Tskhinvali,Kolkheti Poti,1,1,D,1.0,0.0,H
+GEO,2011-09-25,13:00,Dila Gori,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2011-09-25,13:00,Dinamo Tbilisi,FC Merani Martvili,2,1,H,1.0,0.0,H
+GEO,2011-09-25,15:00,FC Zestafoni,Metalurgi Rustavi,2,0,H,2.0,0.0,H
+GEO,2011-09-25,15:25,Torpedo Kutaisi,Baia Zugdidi,0,0,D,0.0,0.0,D
+GEO,2011-10-02,12:00,Kolkheti Poti,FC Merani Martvili,0,1,A,0.0,0.0,D
+GEO,2011-10-02,12:00,FC Gagra,Torpedo Kutaisi,0,1,A,0.0,1.0,A
+GEO,2011-10-02,12:00,Metalurgi Rustavi,Dila Gori,3,1,H,2.0,0.0,H
+GEO,2011-10-02,12:00,Sioni Bolnisi,Dinamo Tbilisi,0,3,A,0.0,3.0,A
+GEO,2011-10-02,12:00,Baia Zugdidi,FC Zestafoni,1,2,A,1.0,0.0,H
+GEO,2011-10-02,15:00,Spartaki Tskhinvali,WIT Georgia,2,1,H,1.0,1.0,D
+GEO,2011-10-15,12:00,WIT Georgia,Kolkheti Poti,2,1,H,2.0,1.0,H
+GEO,2011-10-15,12:00,Dila Gori,Baia Zugdidi,0,2,A,0.0,1.0,A
+GEO,2011-10-15,12:00,FC Merani Martvili,Sioni Bolnisi,3,0,H,1.0,0.0,H
+GEO,2011-10-15,15:00,FC Zestafoni,FC Gagra,4,1,H,2.0,0.0,H
+GEO,2011-10-16,15:00,Torpedo Kutaisi,Spartaki Tskhinvali,2,0,H,0.0,0.0,D
+GEO,2011-10-16,15:00,Dinamo Tbilisi,Metalurgi Rustavi,2,3,A,1.0,3.0,A
+GEO,2011-10-22,12:00,Kolkheti Poti,Sioni Bolnisi,2,1,H,0.0,0.0,D
+GEO,2011-10-22,12:00,Metalurgi Rustavi,FC Merani Martvili,2,1,H,1.0,1.0,D
+GEO,2011-10-22,12:00,Baia Zugdidi,Dinamo Tbilisi,2,1,H,1.0,1.0,D
+GEO,2011-10-22,12:00,FC Gagra,Dila Gori,2,1,H,1.0,0.0,H
+GEO,2011-10-22,12:00,WIT Georgia,Torpedo Kutaisi,0,1,A,0.0,0.0,D
+GEO,2011-10-22,15:00,Spartaki Tskhinvali,FC Zestafoni,1,5,A,0.0,3.0,A
+GEO,2011-10-26,12:00,Dila Gori,Spartaki Tskhinvali,1,2,A,0.0,2.0,A
+GEO,2011-10-26,12:00,FC Merani Martvili,Baia Zugdidi,1,0,H,1.0,0.0,H
+GEO,2011-10-26,12:00,Sioni Bolnisi,Metalurgi Rustavi,2,2,D,2.0,0.0,H
+GEO,2011-10-26,14:00,FC Zestafoni,WIT Georgia,2,0,H,0.0,0.0,D
+GEO,2011-10-26,15:00,Torpedo Kutaisi,Kolkheti Poti,4,1,H,2.0,0.0,H
+GEO,2011-10-26,16:00,Dinamo Tbilisi,FC Gagra,3,0,H,0.0,0.0,D
+GEO,2011-10-30,11:00,Kolkheti Poti,Metalurgi Rustavi,3,1,H,1.0,0.0,H
+GEO,2011-10-30,11:00,Sioni Bolnisi,Baia Zugdidi,2,0,H,2.0,0.0,H
+GEO,2011-10-30,11:00,FC Merani Martvili,FC Gagra,1,0,H,0.0,0.0,D
+GEO,2011-10-30,11:00,Dila Gori,WIT Georgia,1,1,D,0.0,1.0,A
+GEO,2011-10-30,14:00,FC Zestafoni,Torpedo Kutaisi,0,1,A,0.0,0.0,D
+GEO,2011-10-30,15:00,Dinamo Tbilisi,Spartaki Tskhinvali,2,0,H,1.0,0.0,H
+GEO,2011-11-06,10:00,FC Gagra,Sioni Bolnisi,0,0,D,0.0,0.0,D
+GEO,2011-11-06,10:00,Baia Zugdidi,Metalurgi Rustavi,1,2,A,0.0,2.0,A
+GEO,2011-11-06,10:00,Spartaki Tskhinvali,FC Merani Martvili,1,2,A,1.0,1.0,D
+GEO,2011-11-06,10:00,WIT Georgia,Dinamo Tbilisi,2,2,D,1.0,1.0,D
+GEO,2011-11-06,14:00,Torpedo Kutaisi,Dila Gori,2,1,H,1.0,1.0,D
+GEO,2011-11-15,10:00,Kolkheti Poti,FC Zestafoni,0,2,A,0.0,2.0,A
+GEO,2011-11-20,10:00,Kolkheti Poti,Baia Zugdidi,0,0,D,0.0,0.0,D
+GEO,2011-11-20,10:00,Metalurgi Rustavi,FC Gagra,1,1,D,0.0,1.0,A
+GEO,2011-11-20,10:00,Sioni Bolnisi,Spartaki Tskhinvali,1,2,A,1.0,0.0,H
+GEO,2011-11-20,10:00,FC Merani Martvili,WIT Georgia,3,0,H,2.0,0.0,H
+GEO,2011-11-20,10:00,Dila Gori,FC Zestafoni,0,2,A,0.0,1.0,A
+GEO,2011-11-20,14:00,Dinamo Tbilisi,Torpedo Kutaisi,2,0,H,1.0,0.0,H
+GEO,2011-11-27,10:00,FC Gagra,Baia Zugdidi,0,1,A,0.0,1.0,A
+GEO,2011-12-04,10:00,Kolkheti Poti,FC Gagra,2,3,A,0.0,2.0,A
+GEO,2011-12-04,10:00,Baia Zugdidi,Spartaki Tskhinvali,1,3,A,1.0,2.0,A
+GEO,2011-12-04,10:00,Metalurgi Rustavi,WIT Georgia,0,0,D,0.0,0.0,D
+GEO,2011-12-04,10:00,Sioni Bolnisi,Torpedo Kutaisi,1,3,A,1.0,1.0,D
+GEO,2011-12-04,14:00,Dinamo Tbilisi,Dila Gori,2,0,H,2.0,0.0,H
+GEO,2011-12-11,10:00,Dila Gori,FC Merani Martvili,3,0,H,2.0,0.0,H
+GEO,2011-12-11,10:00,FC Zestafoni,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2011-12-11,10:00,WIT Georgia,Baia Zugdidi,4,0,H,1.0,0.0,H
+GEO,2011-12-11,10:00,Spartaki Tskhinvali,FC Gagra,2,1,H,0.0,1.0,A
+GEO,2011-12-11,11:00,Torpedo Kutaisi,Metalurgi Rustavi,3,0,H,2.0,0.0,H
+GEO,2011-12-11,14:00,Dinamo Tbilisi,Kolkheti Poti,1,1,D,0.0,1.0,A
+GEO,2011-12-14,10:00,Dila Gori,Kolkheti Poti,0,0,D,0.0,0.0,D
+GEO,2011-12-14,10:00,Spartaki Tskhinvali,Metalurgi Rustavi,0,1,A,0.0,0.0,D
+GEO,2011-12-14,10:00,WIT Georgia,Sioni Bolnisi,4,1,H,2.0,0.0,H
+GEO,2011-12-14,11:00,Torpedo Kutaisi,FC Merani Martvili,2,1,H,2.0,0.0,H
+GEO,2011-12-14,13:00,FC Zestafoni,Dinamo Tbilisi,5,1,H,0.0,0.0,D
+GEO,2011-12-18,10:00,Kolkheti Poti,Spartaki Tskhinvali,1,0,H,0.0,0.0,D
+GEO,2011-12-18,10:00,FC Gagra,WIT Georgia,1,0,H,0.0,0.0,D
+GEO,2011-12-18,10:00,Baia Zugdidi,Torpedo Kutaisi,1,1,D,0.0,0.0,D
+GEO,2011-12-18,10:00,Metalurgi Rustavi,FC Zestafoni,0,0,D,0.0,0.0,D
+GEO,2011-12-18,10:00,Sioni Bolnisi,Dila Gori,0,3,A,0.0,2.0,A
+GEO,2011-12-18,10:00,FC Merani Martvili,Dinamo Tbilisi,2,1,H,0.0,1.0,A
+GEO,2011-12-22,10:00,FC Merani Martvili,FC Zestafoni,0,2,A,0.0,0.0,D
+GEO,2012-02-19,10:00,Kolkheti Poti,WIT Georgia,2,0,H,1.0,0.0,H
+GEO,2012-02-19,10:00,Spartaki Tskhinvali,Torpedo Kutaisi,2,0,H,2.0,0.0,H
+GEO,2012-02-19,10:00,FC Gagra,FC Zestafoni,0,1,A,0.0,1.0,A
+GEO,2012-02-19,10:00,Baia Zugdidi,Dila Gori,0,0,D,0.0,0.0,D
+GEO,2012-02-19,10:00,Metalurgi Rustavi,Dinamo Tbilisi,0,2,A,0.0,1.0,A
+GEO,2012-02-19,10:00,Sioni Bolnisi,FC Merani Martvili,0,0,D,0.0,0.0,D
+GEO,2012-02-22,10:00,FC Merani Martvili,Kolkheti Poti,0,2,A,0.0,1.0,A
+GEO,2012-02-22,10:00,Dinamo Tbilisi,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2012-02-22,10:00,FC Zestafoni,Baia Zugdidi,1,0,H,0.0,0.0,D
+GEO,2012-02-22,10:00,WIT Georgia,Spartaki Tskhinvali,0,0,D,0.0,0.0,D
+GEO,2012-02-22,12:00,Torpedo Kutaisi,FC Gagra,5,2,H,3.0,1.0,H
+GEO,2012-02-26,10:00,Sioni Bolnisi,Kolkheti Poti,0,0,D,0.0,0.0,D
+GEO,2012-02-26,10:00,FC Merani Martvili,Metalurgi Rustavi,1,2,A,1.0,0.0,H
+GEO,2012-02-26,10:00,Dinamo Tbilisi,Baia Zugdidi,5,1,H,0.0,0.0,D
+GEO,2012-02-26,10:00,Dila Gori,FC Gagra,1,0,H,0.0,0.0,D
+GEO,2012-02-26,10:00,Torpedo Kutaisi,WIT Georgia,2,2,D,1.0,1.0,D
+GEO,2012-03-01,11:00,Dila Gori,Metalurgi Rustavi,3,1,H,2.0,0.0,H
+GEO,2012-03-02,11:00,FC Zestafoni,Spartaki Tskhinvali,5,2,H,2.0,0.0,H
+GEO,2012-03-08,11:00,Kolkheti Poti,Torpedo Kutaisi,0,0,D,0.0,0.0,D
+GEO,2012-03-08,11:00,WIT Georgia,FC Zestafoni,0,1,A,0.0,0.0,D
+GEO,2012-03-08,11:00,Spartaki Tskhinvali,Dila Gori,2,2,D,2.0,0.0,H
+GEO,2012-03-08,11:00,FC Gagra,Dinamo Tbilisi,1,2,A,1.0,1.0,D
+GEO,2012-03-08,11:00,Baia Zugdidi,FC Merani Martvili,1,0,H,0.0,0.0,D
+GEO,2012-03-08,11:00,Metalurgi Rustavi,Sioni Bolnisi,1,2,A,1.0,2.0,A

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,2001-08-10,18:00,Beşiktaş,Trabzonspor,1,2,A,0,1,A
+TUR,2001-08-11,15:00,Göztepe,Bursaspor,2,0,H,2,0,H
+TUR,2001-08-11,17:00,Gençlerbirliği,Diyarbakirspor,4,4,D,1,3,A
+TUR,2001-08-11,17:00,Fenerbahçe,Samsunspor,3,0,H,2,0,H
+TUR,2001-08-11,17:00,Çaykur Rizespor,Kocaelispor,0,0,D,0,0,D
+TUR,2001-08-12,15:00,Istanbulspor,Malatyaspor,1,0,H,0,0,D
+TUR,2001-08-12,17:00,Antalyaspor,MKE Ankaragücü,1,8,A,1,2,A
+TUR,2001-08-12,17:00,Denizlispor,Yozgatspor,5,0,H,2,0,H
+TUR,2001-08-12,17:00,Gaziantepspor,Galatasaray,1,1,D,1,1,D
+TUR,2001-08-17,18:00,Bursaspor,Beşiktaş,2,2,D,1,0,H
+TUR,2001-08-18,17:00,Diyarbakirspor,Göztepe,1,2,A,0,1,A
+TUR,2001-08-18,17:00,Kocaelispor,Antalyaspor,3,1,H,1,0,H
+TUR,2001-08-18,17:00,Gençlerbirliği,Samsunspor,2,2,D,1,1,D
+TUR,2001-08-18,17:00,Galatasaray,Denizlispor,1,0,H,0,0,D
+TUR,2001-08-19,15:00,Yozgatspor,Çaykur Rizespor,2,1,H,1,1,D
+TUR,2001-08-19,15:00,Istanbulspor,Fenerbahçe,1,0,H,1,0,H
+TUR,2001-08-19,17:00,MKE Ankaragücü,Malatyaspor,6,0,H,1,0,H
+TUR,2001-08-19,17:00,Trabzonspor,Gaziantepspor,2,1,H,0,0,D
+TUR,2001-08-24,18:00,Trabzonspor,Bursaspor,5,0,H,1,0,H
+TUR,2001-08-25,15:00,Göztepe,Samsunspor,2,1,H,0,0,D
+TUR,2001-08-25,17:00,Beşiktaş,Diyarbakirspor,4,0,H,1,0,H
+TUR,2001-08-25,17:00,Gençlerbirliği,Istanbulspor,0,1,A,0,0,D
+TUR,2001-08-25,17:00,Antalyaspor,Yozgatspor,3,3,D,2,0,H
+TUR,2001-08-26,17:00,Gaziantepspor,Denizlispor,0,0,D,0,0,D
+TUR,2001-08-26,17:00,Kocaelispor,Malatyaspor,2,0,H,1,0,H
+TUR,2001-08-26,17:00,Fenerbahçe,MKE Ankaragücü,4,1,H,3,1,H
+TUR,2001-08-26,17:00,Çaykur Rizespor,Galatasaray,3,6,A,0,3,A
+TUR,2001-09-07,18:00,MKE Ankaragücü,Gençlerbirliği,2,5,A,0,3,A
+TUR,2001-09-08,17:00,Kocaelispor,Fenerbahçe,3,3,D,2,2,D
+TUR,2001-09-08,17:00,Diyarbakirspor,Trabzonspor,3,1,H,0,1,A
+TUR,2001-09-08,17:00,Bursaspor,Gaziantepspor,0,2,A,0,2,A
+TUR,2001-09-08,17:00,Galatasaray,Antalyaspor,2,1,H,1,0,H
+TUR,2001-09-09,14:00,Yozgatspor,Malatyaspor,3,0,H,0,0,D
+TUR,2001-09-09,14:30,Istanbulspor,Göztepe,0,0,D,0,0,D
+TUR,2001-09-09,17:00,Denizlispor,Çaykur Rizespor,1,2,A,0,0,D
+TUR,2001-09-14,18:00,Beşiktaş,Istanbulspor,0,1,A,0,1,A
+TUR,2001-09-15,13:30,Malatyaspor,Galatasaray,0,2,A,0,2,A
+TUR,2001-09-15,17:00,Bursaspor,Diyarbakirspor,2,1,H,2,0,H
+TUR,2001-09-15,17:00,Fenerbahçe,Yozgatspor,1,0,H,0,0,D
+TUR,2001-09-15,17:00,Antalyaspor,Denizlispor,1,0,H,0,0,D
+TUR,2001-09-16,14:30,Göztepe,MKE Ankaragücü,2,1,H,0,0,D
+TUR,2001-09-16,17:00,Trabzonspor,Samsunspor,1,2,A,0,2,A
+TUR,2001-09-16,17:00,Gaziantepspor,Çaykur Rizespor,0,2,A,0,1,A
+TUR,2001-09-16,17:00,Gençlerbirliği,Kocaelispor,2,2,D,1,0,H
+TUR,2001-09-21,18:00,Kocaelispor,Göztepe,2,0,H,2,0,H
+TUR,2001-09-22,17:00,Bursaspor,Samsunspor,2,1,H,1,0,H
+TUR,2001-09-22,17:00,Galatasaray,Fenerbahçe,2,0,H,0,0,D
+TUR,2001-09-22,17:00,Denizlispor,Malatyaspor,4,1,H,1,0,H
+TUR,2001-09-23,14:00,Yozgatspor,Gençlerbirliği,0,2,A,0,1,A
+TUR,2001-09-23,17:00,MKE Ankaragücü,Beşiktaş,3,4,A,1,2,A
+TUR,2001-09-23,17:00,Istanbulspor,Trabzonspor,2,1,H,1,1,D
+TUR,2001-09-23,17:00,Çaykur Rizespor,Antalyaspor,1,1,D,0,0,D
+TUR,2001-09-28,18:00,Trabzonspor,MKE Ankaragücü,2,2,D,2,2,D
+TUR,2001-09-29,12:00,Malatyaspor,Çaykur Rizespor,2,1,H,1,0,H
+TUR,2001-09-29,17:00,Fenerbahçe,Denizlispor,2,1,H,1,0,H
+TUR,2001-09-29,17:00,Diyarbakirspor,Samsunspor,1,1,D,1,0,H
+TUR,2001-09-30,13:30,Göztepe,Yozgatspor,0,0,D,0,0,D
+TUR,2001-09-30,17:00,Beşiktaş,Kocaelispor,4,2,H,3,0,H
+TUR,2001-09-30,17:00,Gençlerbirliği,Galatasaray,1,3,A,1,1,D
+TUR,2001-09-30,17:00,Bursaspor,Istanbulspor,1,2,A,1,1,D
+TUR,2001-09-30,17:00,Gaziantepspor,Antalyaspor,2,3,A,1,0,H
+TUR,2001-10-10,17:00,Samsunspor,Beşiktaş,2,1,H,0,0,D
+TUR,2001-10-10,17:00,Diyarbakirspor,Gaziantepspor,2,3,A,1,3,A
+TUR,2001-10-12,18:00,Galatasaray,Göztepe,4,1,H,2,1,H
+TUR,2001-10-13,17:00,MKE Ankaragücü,Bursaspor,0,1,A,0,0,D
+TUR,2001-10-13,17:00,Denizlispor,Gençlerbirliği,4,1,H,1,0,H
+TUR,2001-10-13,17:00,Kocaelispor,Trabzonspor,1,0,H,0,0,D
+TUR,2001-10-13,17:00,Antalyaspor,Malatyaspor,2,1,H,1,0,H
+TUR,2001-10-14,13:30,Istanbulspor,Diyarbakirspor,1,0,H,1,0,H
+TUR,2001-10-14,13:30,Yozgatspor,Beşiktaş,1,3,A,1,0,H
+TUR,2001-10-14,17:00,Gaziantepspor,Samsunspor,1,0,H,0,0,D
+TUR,2001-10-14,17:00,Çaykur Rizespor,Fenerbahçe,1,2,A,1,0,H
+TUR,2001-10-19,18:00,Diyarbakirspor,MKE Ankaragücü,2,1,H,1,0,H
+TUR,2001-10-20,13:30,Istanbulspor,Samsunspor,0,1,A,0,1,A
+TUR,2001-10-20,17:00,Trabzonspor,Yozgatspor,2,0,H,1,0,H
+TUR,2001-10-20,17:00,Fenerbahçe,Antalyaspor,3,2,H,2,1,H
+TUR,2001-10-20,17:00,Gaziantepspor,Malatyaspor,1,0,H,1,0,H
+TUR,2001-10-21,13:30,Göztepe,Denizlispor,1,1,D,0,0,D
+TUR,2001-10-21,17:00,Gençlerbirliği,Çaykur Rizespor,2,2,D,1,1,D
+TUR,2001-10-21,17:00,Beşiktaş,Galatasaray,2,2,D,2,0,H
+TUR,2001-10-21,17:00,Bursaspor,Kocaelispor,2,1,H,1,0,H
+TUR,2001-10-26,18:00,Kocaelispor,Diyarbakirspor,3,1,H,1,0,H
+TUR,2001-10-27,11:30,Yozgatspor,Bursaspor,3,4,A,1,2,A
+TUR,2001-10-27,11:30,Malatyaspor,Fenerbahçe,1,3,A,0,1,A
+TUR,2001-10-27,17:00,Çaykur Rizespor,Göztepe,0,0,D,0,0,D
+TUR,2001-10-27,17:00,Galatasaray,Trabzonspor,3,1,H,2,1,H
+TUR,2001-10-28,11:30,Istanbulspor,Gaziantepspor,0,1,A,0,0,D
+TUR,2001-10-28,17:00,MKE Ankaragücü,Samsunspor,2,0,H,0,0,D
+TUR,2001-10-28,17:00,Antalyaspor,Gençlerbirliği,2,2,D,0,1,A
+TUR,2001-10-28,17:00,Denizlispor,Beşiktaş,3,3,D,2,1,H
+TUR,2001-11-02,18:00,Bursaspor,Galatasaray,5,0,H,2,0,H
+TUR,2001-11-03,11:30,Istanbulspor,MKE Ankaragücü,1,2,A,1,2,A
+TUR,2001-11-03,17:00,Kocaelispor,Samsunspor,0,1,A,0,0,D
+TUR,2001-11-03,17:00,Beşiktaş,Çaykur Rizespor,2,1,H,0,0,D
+TUR,2001-11-03,17:00,Gençlerbirliği,Malatyaspor,1,2,A,0,0,D
+TUR,2001-11-04,11:30,Göztepe,Antalyaspor,0,0,D,0,0,D
+TUR,2001-11-04,17:00,Diyarbakirspor,Yozgatspor,1,1,D,1,1,D
+TUR,2001-11-04,17:00,Gaziantepspor,Fenerbahçe,0,2,A,0,1,A
+TUR,2001-11-04,17:00,Trabzonspor,Denizlispor,2,2,D,2,0,H
+TUR,2001-11-16,18:00,Antalyaspor,Beşiktaş,1,4,A,1,1,D
+TUR,2001-11-17,11:30,Çaykur Rizespor,Trabzonspor,1,1,D,1,0,H
+TUR,2001-11-17,11:30,Yozgatspor,Samsunspor,2,0,H,1,0,H
+TUR,2001-11-17,11:30,MKE Ankaragücü,Gaziantepspor,1,1,D,0,0,D
+TUR,2001-11-17,17:00,Galatasaray,Diyarbakirspor,5,1,H,2,0,H
+TUR,2001-11-18,11:30,Malatyaspor,Göztepe,3,1,H,2,1,H
+TUR,2001-11-18,11:30,Kocaelispor,Istanbulspor,2,0,H,0,0,D
+TUR,2001-11-18,11:30,Denizlispor,Bursaspor,0,0,D,0,0,D
+TUR,2001-11-18,17:00,Fenerbahçe,Gençlerbirliği,2,0,H,0,0,D
+TUR,2001-11-23,18:00,Göztepe,Fenerbahçe,0,5,A,0,3,A
+TUR,2001-11-24,11:30,Diyarbakirspor,Denizlispor,3,0,H,1,0,H
+TUR,2001-11-24,11:30,Istanbulspor,Yozgatspor,2,0,H,1,0,H
+TUR,2001-11-24,11:30,Trabzonspor,Antalyaspor,2,0,H,0,0,D
+TUR,2001-11-24,17:00,Galatasaray,Samsunspor,2,0,H,2,0,H
+TUR,2001-11-25,11:30,Bursaspor,Çaykur Rizespor,1,0,H,1,0,H
+TUR,2001-11-25,11:30,MKE Ankaragücü,Kocaelispor,2,0,H,1,0,H
+TUR,2001-11-25,11:30,Gaziantepspor,Gençlerbirliği,5,0,H,3,0,H
+TUR,2001-11-25,17:00,Beşiktaş,Malatyaspor,3,1,H,1,1,D
+TUR,2001-11-30,18:00,Galatasaray,Istanbulspor,4,1,H,1,0,H
+TUR,2001-12-01,11:30,Yozgatspor,MKE Ankaragücü,0,2,A,0,1,A
+TUR,2001-12-01,11:30,Çaykur Rizespor,Diyarbakirspor,2,0,H,0,0,D
+TUR,2001-12-01,11:30,Denizlispor,Samsunspor,4,1,H,3,0,H
+TUR,2001-12-01,17:00,Kocaelispor,Gaziantepspor,0,0,D,0,0,D
+TUR,2001-12-02,11:30,Gençlerbirliği,Göztepe,0,1,A,0,0,D
+TUR,2001-12-02,11:30,Malatyaspor,Trabzonspor,1,0,H,0,0,D
+TUR,2001-12-02,11:30,Antalyaspor,Bursaspor,3,0,H,2,0,H
+TUR,2001-12-02,17:00,Fenerbahçe,Beşiktaş,1,2,A,0,0,D
+TUR,2001-12-07,18:00,Beşiktaş,Gençlerbirliği,1,0,H,1,0,H
+TUR,2001-12-08,11:30,Istanbulspor,Denizlispor,1,1,D,1,1,D
+TUR,2001-12-08,11:30,Bursaspor,Malatyaspor,1,0,H,1,0,H
+TUR,2001-12-08,11:30,Göztepe,Gaziantepspor,1,3,A,1,1,D
+TUR,2001-12-08,17:00,Trabzonspor,Fenerbahçe,2,1,H,1,0,H
+TUR,2001-12-09,11:30,Çaykur Rizespor,Samsunspor,1,0,H,0,0,D
+TUR,2001-12-09,11:30,Diyarbakirspor,Antalyaspor,3,1,H,1,0,H
+TUR,2001-12-09,11:30,Yozgatspor,Kocaelispor,4,0,H,0,0,D
+TUR,2001-12-09,17:00,MKE Ankaragücü,Galatasaray,2,1,H,1,0,H
+TUR,2001-12-14,18:00,Fenerbahçe,Bursaspor,3,1,H,2,1,H
+TUR,2001-12-15,11:30,Gaziantepspor,Yozgatspor,3,2,H,2,0,H
+TUR,2001-12-15,11:30,Antalyaspor,Samsunspor,1,1,D,1,1,D
+TUR,2001-12-15,11:30,Denizlispor,MKE Ankaragücü,3,4,A,1,4,A
+TUR,2001-12-15,17:00,Göztepe,Beşiktaş,0,6,A,0,3,A
+TUR,2001-12-16,11:30,Çaykur Rizespor,Istanbulspor,1,1,D,0,0,D
+TUR,2001-12-16,11:30,Gençlerbirliği,Trabzonspor,1,1,D,0,0,D
+TUR,2001-12-16,11:30,Malatyaspor,Diyarbakirspor,1,3,A,0,2,A
+TUR,2001-12-21,18:00,Diyarbakirspor,Fenerbahçe,2,1,H,0,0,D
+TUR,2001-12-22,11:30,Malatyaspor,Samsunspor,1,3,A,1,2,A
+TUR,2001-12-22,11:30,Trabzonspor,Göztepe,3,0,H,2,0,H
+TUR,2001-12-22,11:30,Kocaelispor,Denizlispor,2,1,H,1,0,H
+TUR,2001-12-22,11:30,MKE Ankaragücü,Çaykur Rizespor,1,1,D,0,1,A
+TUR,2001-12-22,11:30,Istanbulspor,Antalyaspor,4,1,H,1,0,H
+TUR,2001-12-22,11:30,Bursaspor,Gençlerbirliği,0,1,A,0,1,A
+TUR,2001-12-22,17:00,Beşiktaş,Gaziantepspor,3,1,H,1,1,D
+TUR,2001-12-23,11:00,Yozgatspor,Galatasaray,3,3,D,1,1,D
+TUR,2002-01-15,18:00,Galatasaray,Kocaelispor,5,1,H,3,1,H
+TUR,2002-01-18,18:00,Samsunspor,Fenerbahçe,1,0,H,1,0,H
+TUR,2002-01-19,11:30,Diyarbakirspor,Gençlerbirliği,1,2,A,0,0,D
+TUR,2002-01-19,11:30,Malatyaspor,Istanbulspor,2,0,H,0,0,D
+TUR,2002-01-19,11:30,MKE Ankaragücü,Antalyaspor,2,0,H,2,0,H
+TUR,2002-01-19,17:00,Galatasaray,Gaziantepspor,2,0,H,2,0,H
+TUR,2002-01-20,11:30,Bursaspor,Göztepe,0,0,D,0,0,D
+TUR,2002-01-20,11:30,Yozgatspor,Denizlispor,0,1,A,0,1,A
+TUR,2002-01-20,11:30,Kocaelispor,Çaykur Rizespor,2,1,H,1,0,H
+TUR,2002-01-20,17:00,Trabzonspor,Beşiktaş,0,5,A,0,1,A
+TUR,2002-01-22,11:30,Malatyaspor,MKE Ankaragücü,4,1,H,2,0,H
+TUR,2002-01-22,18:00,Fenerbahçe,Istanbulspor,2,0,H,2,0,H
+TUR,2002-01-23,11:30,Göztepe,Diyarbakirspor,3,1,H,2,0,H
+TUR,2002-01-23,11:30,Çaykur Rizespor,Yozgatspor,1,1,D,1,0,H
+TUR,2002-01-23,11:30,Antalyaspor,Kocaelispor,2,0,H,2,0,H
+TUR,2002-01-23,11:30,Samsunspor,Gençlerbirliği,0,2,A,0,1,A
+TUR,2002-01-23,11:30,Gaziantepspor,Trabzonspor,5,2,H,4,1,H
+TUR,2002-01-23,18:00,Denizlispor,Galatasaray,1,1,D,0,0,D
+TUR,2002-01-24,18:00,Beşiktaş,Bursaspor,2,1,H,1,0,H
+TUR,2002-01-26,17:00,MKE Ankaragücü,Fenerbahçe,3,2,H,3,2,H
+TUR,2002-01-27,11:30,Denizlispor,Gaziantepspor,5,2,H,1,2,A
+TUR,2002-01-27,11:30,Samsunspor,Göztepe,1,2,A,0,1,A
+TUR,2002-01-27,11:30,Malatyaspor,Kocaelispor,2,1,H,1,0,H
+TUR,2002-01-27,11:30,Istanbulspor,Gençlerbirliği,0,0,D,0,0,D
+TUR,2002-01-27,11:30,Bursaspor,Trabzonspor,2,2,D,0,1,A
+TUR,2002-01-27,11:30,Yozgatspor,Antalyaspor,3,2,H,1,0,H
+TUR,2002-01-27,15:00,Diyarbakirspor,Beşiktaş,0,0,D,0,0,D
+TUR,2002-01-27,17:00,Galatasaray,Çaykur Rizespor,4,1,H,2,1,H
+TUR,2002-02-01,18:00,Fenerbahçe,Kocaelispor,3,0,H,3,0,H
+TUR,2002-02-02,11:30,Çaykur Rizespor,Denizlispor,3,1,H,2,0,H
+TUR,2002-02-02,11:30,Trabzonspor,Diyarbakirspor,0,2,A,0,1,A
+TUR,2002-02-02,11:30,Gaziantepspor,Bursaspor,5,2,H,1,1,D
+TUR,2002-02-02,17:00,Beşiktaş,Samsunspor,0,0,D,0,0,D
+TUR,2002-02-03,11:30,Gençlerbirliği,MKE Ankaragücü,0,1,A,0,0,D
+TUR,2002-02-03,11:30,Göztepe,Istanbulspor,0,0,D,0,0,D
+TUR,2002-02-03,11:30,Malatyaspor,Yozgatspor,2,1,H,0,1,A
+TUR,2002-02-03,17:00,Antalyaspor,Galatasaray,1,1,D,0,0,D
+TUR,2002-02-08,18:00,Galatasaray,Malatyaspor,1,0,H,0,0,D
+TUR,2002-02-09,11:30,Diyarbakirspor,Bursaspor,2,3,A,1,1,D
+TUR,2002-02-09,11:30,MKE Ankaragücü,Göztepe,4,2,H,0,1,A
+TUR,2002-02-09,11:30,Yozgatspor,Fenerbahçe,1,2,A,0,1,A
+TUR,2002-02-09,11:30,Denizlispor,Antalyaspor,3,2,H,1,0,H
+TUR,2002-02-10,10:30,Istanbulspor,Beşiktaş,1,2,A,0,0,D
+TUR,2002-02-10,11:30,Çaykur Rizespor,Gaziantepspor,1,0,H,1,0,H
+TUR,2002-02-10,11:30,Kocaelispor,Gençlerbirliği,0,1,A,0,0,D
+TUR,2002-02-10,17:00,Samsunspor,Trabzonspor,1,2,A,0,1,A
+TUR,2002-02-15,18:00,Gaziantepspor,Diyarbakirspor,0,1,A,0,1,A
+TUR,2002-02-16,11:30,Samsunspor,Bursaspor,2,3,A,0,1,A
+TUR,2002-02-16,11:30,Malatyaspor,Denizlispor,0,0,D,0,0,D
+TUR,2002-02-16,11:30,Gençlerbirliği,Yozgatspor,3,2,H,2,0,H
+TUR,2002-02-16,17:00,Fenerbahçe,Galatasaray,1,0,H,1,0,H
+TUR,2002-02-17,11:30,Göztepe,Kocaelispor,3,0,H,2,0,H
+TUR,2002-02-17,11:30,Trabzonspor,Istanbulspor,2,0,H,1,0,H
+TUR,2002-02-17,11:30,Antalyaspor,Çaykur Rizespor,2,2,D,1,0,H
+TUR,2002-02-17,17:00,Beşiktaş,MKE Ankaragücü,1,2,A,1,1,D
+TUR,2002-02-22,18:00,Kocaelispor,Beşiktaş,0,2,A,0,1,A
+TUR,2002-02-23,11:30,Samsunspor,Diyarbakirspor,0,0,D,0,0,D
+TUR,2002-02-23,11:30,Istanbulspor,Bursaspor,3,0,H,2,0,H
+TUR,2002-02-23,11:30,Antalyaspor,Gaziantepspor,3,3,D,1,2,A
+TUR,2002-02-23,17:00,Galatasaray,Gençlerbirliği,3,1,H,1,1,D
+TUR,2002-02-24,11:30,Yozgatspor,Göztepe,1,1,D,0,0,D
+TUR,2002-02-24,11:30,Çaykur Rizespor,Malatyaspor,0,0,D,0,0,D
+TUR,2002-02-24,11:30,MKE Ankaragücü,Trabzonspor,4,2,H,2,1,H
+TUR,2002-02-24,17:00,Denizlispor,Fenerbahçe,1,2,A,1,1,D
+TUR,2002-03-01,18:00,Fenerbahçe,Çaykur Rizespor,2,1,H,2,0,H
+TUR,2002-03-02,11:30,Gençlerbirliği,Denizlispor,4,2,H,1,0,H
+TUR,2002-03-02,11:30,Trabzonspor,Kocaelispor,1,2,A,1,2,A
+TUR,2002-03-02,11:30,Samsunspor,Gaziantepspor,2,1,H,1,0,H
+TUR,2002-03-02,17:00,Beşiktaş,Yozgatspor,4,2,H,2,1,H
+TUR,2002-03-03,11:30,Bursaspor,MKE Ankaragücü,2,1,H,1,0,H
+TUR,2002-03-03,11:30,Diyarbakirspor,Istanbulspor,1,0,H,1,0,H
+TUR,2002-03-03,11:30,Malatyaspor,Antalyaspor,2,1,H,2,1,H
+TUR,2002-03-03,17:00,Göztepe,Galatasaray,2,0,H,1,0,H
+TUR,2002-03-08,18:00,MKE Ankaragücü,Diyarbakirspor,1,1,D,1,0,H
+TUR,2002-03-09,11:30,Çaykur Rizespor,Gençlerbirliği,1,2,A,1,0,H
+TUR,2002-03-09,11:30,Samsunspor,Istanbulspor,0,1,A,0,1,A
+TUR,2002-03-09,11:30,Yozgatspor,Trabzonspor,2,3,A,0,2,A
+TUR,2002-03-09,17:00,Galatasaray,Beşiktaş,1,0,H,0,0,D
+TUR,2002-03-10,11:30,Denizlispor,Göztepe,2,1,H,1,0,H
+TUR,2002-03-10,11:30,Kocaelispor,Bursaspor,1,2,A,0,0,D
+TUR,2002-03-10,11:30,Malatyaspor,Gaziantepspor,1,1,D,0,0,D
+TUR,2002-03-10,17:00,Antalyaspor,Fenerbahçe,0,1,A,0,0,D
+TUR,2002-03-15,18:00,Beşiktaş,Denizlispor,2,2,D,2,1,H
+TUR,2002-03-16,11:30,Göztepe,Çaykur Rizespor,2,3,A,2,1,H
+TUR,2002-03-16,11:30,Gaziantepspor,Istanbulspor,2,2,D,2,0,H
+TUR,2002-03-16,17:00,Bursaspor,Yozgatspor,3,1,H,1,0,H
+TUR,2002-03-17,11:30,Diyarbakirspor,Kocaelispor,1,1,D,0,1,A
+TUR,2002-03-17,11:30,Samsunspor,MKE Ankaragücü,2,0,H,1,0,H
+TUR,2002-03-17,11:30,Gençlerbirliği,Antalyaspor,1,0,H,0,0,D
+TUR,2002-03-17,17:00,Fenerbahçe,Malatyaspor,2,2,D,1,1,D
+TUR,2002-03-22,18:00,Fenerbahçe,Gaziantepspor,4,1,H,2,0,H
+TUR,2002-03-23,12:30,Samsunspor,Kocaelispor,0,0,D,0,0,D
+TUR,2002-03-23,12:30,Yozgatspor,Diyarbakirspor,2,0,H,0,0,D
+TUR,2002-03-23,12:30,Denizlispor,Trabzonspor,2,1,H,1,1,D
+TUR,2002-03-23,17:00,Galatasaray,Bursaspor,2,1,H,1,1,D
+TUR,2002-03-24,12:30,Antalyaspor,Göztepe,2,0,H,1,0,H
+TUR,2002-03-24,12:30,Malatyaspor,Gençlerbirliği,1,0,H,1,0,H
+TUR,2002-03-24,12:30,MKE Ankaragücü,Istanbulspor,4,2,H,1,1,D
+TUR,2002-03-24,17:00,Çaykur Rizespor,Beşiktaş,1,3,A,0,0,D
+TUR,2002-03-29,18:00,Beşiktaş,Antalyaspor,0,0,D,0,0,D
+TUR,2002-03-30,12:30,Trabzonspor,Çaykur Rizespor,2,1,H,1,0,H
+TUR,2002-03-30,12:30,Istanbulspor,Kocaelispor,0,1,A,0,0,D
+TUR,2002-03-30,12:30,Gaziantepspor,MKE Ankaragücü,1,1,D,0,1,A
+TUR,2002-03-30,17:00,Diyarbakirspor,Galatasaray,0,0,D,0,0,D
+TUR,2002-03-31,12:30,Göztepe,Malatyaspor,2,1,H,1,0,H
+TUR,2002-03-31,12:30,Samsunspor,Yozgatspor,0,0,D,0,0,D
+TUR,2002-03-31,12:30,Bursaspor,Denizlispor,3,3,D,2,2,D
+TUR,2002-03-31,17:00,Gençlerbirliği,Fenerbahçe,1,1,D,0,0,D
+TUR,2002-04-03,17:00,Trabzonspor,Galatasaray,0,2,A,0,1,A
+TUR,2002-04-05,18:00,Fenerbahçe,Göztepe,3,0,H,1,0,H
+TUR,2002-04-06,12:30,Denizlispor,Diyarbakirspor,2,1,H,0,1,A
+TUR,2002-04-06,12:30,Çaykur Rizespor,Bursaspor,3,1,H,0,1,A
+TUR,2002-04-06,17:00,Gençlerbirliği,Gaziantepspor,1,1,D,0,0,D
+TUR,2002-04-07,12:30,Malatyaspor,Beşiktaş,0,1,A,0,1,A
+TUR,2002-04-07,12:30,Kocaelispor,MKE Ankaragücü,4,4,D,2,3,A
+TUR,2002-04-07,12:30,Yozgatspor,Istanbulspor,1,1,D,0,0,D
+TUR,2002-04-07,12:30,Antalyaspor,Trabzonspor,4,2,H,3,0,H
+TUR,2002-04-07,17:00,Samsunspor,Galatasaray,0,1,A,0,0,D
+TUR,2002-04-12,18:00,Trabzonspor,Malatyaspor,0,0,D,0,0,D
+TUR,2002-04-13,12:30,Göztepe,Gençlerbirliği,1,1,D,0,0,D
+TUR,2002-04-13,12:30,MKE Ankaragücü,Yozgatspor,1,1,D,1,1,D
+TUR,2002-04-13,12:30,Istanbulspor,Galatasaray,0,2,A,0,2,A
+TUR,2002-04-13,12:30,Samsunspor,Denizlispor,3,4,A,1,2,A
+TUR,2002-04-14,12:30,Gaziantepspor,Kocaelispor,3,5,A,1,2,A
+TUR,2002-04-14,12:30,Bursaspor,Antalyaspor,0,1,A,0,0,D
+TUR,2002-04-14,12:30,Diyarbakirspor,Çaykur Rizespor,1,0,H,0,0,D
+TUR,2002-04-14,17:00,Beşiktaş,Fenerbahçe,0,2,A,0,1,A
+TUR,2002-04-20,17:00,Gençlerbirliği,Beşiktaş,1,1,D,1,0,H
+TUR,2002-04-21,12:30,Denizlispor,Istanbulspor,1,1,D,1,1,D
+TUR,2002-04-21,12:30,Malatyaspor,Bursaspor,2,1,H,0,1,A
+TUR,2002-04-21,12:30,Gaziantepspor,Göztepe,4,0,H,0,0,D
+TUR,2002-04-21,12:30,Samsunspor,Çaykur Rizespor,1,0,H,1,0,H
+TUR,2002-04-21,12:30,Antalyaspor,Diyarbakirspor,0,0,D,0,0,D
+TUR,2002-04-21,12:30,Kocaelispor,Yozgatspor,4,3,H,1,2,A
+TUR,2002-04-21,17:00,Galatasaray,MKE Ankaragücü,2,0,H,1,0,H
+TUR,2002-04-21,17:00,Fenerbahçe,Trabzonspor,3,0,H,0,0,D
+TUR,2002-04-27,13:30,Istanbulspor,Çaykur Rizespor,3,1,H,0,0,D
+TUR,2002-04-27,13:30,Yozgatspor,Gaziantepspor,1,2,A,0,1,A
+TUR,2002-04-27,13:30,Beşiktaş,Göztepe,1,2,A,1,1,D
+TUR,2002-04-27,13:30,Trabzonspor,Gençlerbirliği,0,0,D,0,0,D
+TUR,2002-04-27,13:30,Diyarbakirspor,Malatyaspor,0,0,D,0,0,D
+TUR,2002-04-27,13:30,Samsunspor,Antalyaspor,2,0,H,1,0,H
+TUR,2002-04-27,13:30,MKE Ankaragücü,Denizlispor,1,1,D,1,1,D
+TUR,2002-04-28,17:00,Bursaspor,Fenerbahçe,0,1,A,0,0,D
+TUR,2002-04-28,17:00,Kocaelispor,Galatasaray,0,2,A,0,1,A
+TUR,2002-05-03,18:00,Göztepe,Trabzonspor,4,2,H,3,2,H
+TUR,2002-05-04,13:30,Fenerbahçe,Diyarbakirspor,3,1,H,1,0,H
+TUR,2002-05-04,15:30,Gaziantepspor,Beşiktaş,1,0,H,1,0,H
+TUR,2002-05-04,15:30,Samsunspor,Malatyaspor,1,1,D,1,1,D
+TUR,2002-05-04,15:30,Denizlispor,Kocaelispor,4,0,H,2,0,H
+TUR,2002-05-04,15:30,Çaykur Rizespor,MKE Ankaragücü,3,2,H,3,0,H
+TUR,2002-05-04,15:30,Antalyaspor,Istanbulspor,2,0,H,0,0,D
+TUR,2002-05-04,15:30,Gençlerbirliği,Bursaspor,3,2,H,1,0,H
+TUR,2002-05-04,17:30,Galatasaray,Yozgatspor,5,0,H,2,0,H

@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,1975-09-06,,Real Sociedad,Real Betis,3,2,H,2,2,D
+ESP,1975-09-06,,Sevilla FC,UD Las Palmas,3,0,H,2,0,H
+ESP,1975-09-06,,Valencia CF,Real Oviedo,2,0,H,0,0,D
+ESP,1975-09-06,,Real Madrid,Racing Santander,2,0,H,2,0,H
+ESP,1975-09-06,,Espanyol Barcelona,Hércules CF,3,1,H,2,0,H
+ESP,1975-09-06,,Sporting Gijón,Granada CF,0,0,D,0,0,D
+ESP,1975-09-06,,Elche CF,FC Barcelona,2,3,A,1,2,A
+ESP,1975-09-07,,UD Salamanca,Athletic Bilbao,2,1,H,1,0,H
+ESP,1975-09-07,,Real Zaragoza,Atlético Madrid,2,1,H,1,0,H
+ESP,1975-09-13,,UD Las Palmas,Real Sociedad,2,1,H,0,0,D
+ESP,1975-09-13,,Atlético Madrid,Sporting Gijón,2,2,D,1,0,H
+ESP,1975-09-13,,Athletic Bilbao,Sevilla FC,4,1,H,0,1,A
+ESP,1975-09-13,,FC Barcelona,UD Salamanca,3,1,H,2,1,H
+ESP,1975-09-14,,Granada CF,Elche CF,3,2,H,2,1,H
+ESP,1975-09-14,,Racing Santander,Real Zaragoza,4,1,H,4,0,H
+ESP,1975-09-14,,Hércules CF,Valencia CF,2,0,H,0,0,D
+ESP,1975-09-14,,Real Betis,Espanyol Barcelona,1,2,A,0,1,A
+ESP,1975-09-14,,Real Oviedo,Real Madrid,0,0,D,0,0,D
+ESP,1975-09-20,,Valencia CF,Real Betis,0,1,A,0,0,D
+ESP,1975-09-20,,Sevilla FC,Real Sociedad,2,1,H,1,1,D
+ESP,1975-09-20,,Espanyol Barcelona,UD Las Palmas,1,0,H,0,0,D
+ESP,1975-09-21,,Real Zaragoza,Real Oviedo,5,1,H,3,0,H
+ESP,1975-09-21,,UD Salamanca,Granada CF,1,1,D,1,0,H
+ESP,1975-09-21,,Real Madrid,Hércules CF,4,0,H,1,0,H
+ESP,1975-09-21,,Sporting Gijón,Racing Santander,1,2,A,0,1,A
+ESP,1975-09-21,,Athletic Bilbao,FC Barcelona,2,1,H,1,0,H
+ESP,1975-09-21,,Elche CF,Atlético Madrid,3,1,H,1,0,H
+ESP,1975-09-27,,UD Las Palmas,Valencia CF,2,4,A,0,2,A
+ESP,1975-09-27,,Real Sociedad,Espanyol Barcelona,1,0,H,0,0,D
+ESP,1975-09-28,,FC Barcelona,Sevilla FC,2,0,H,0,0,D
+ESP,1975-09-28,,Atlético Madrid,UD Salamanca,4,1,H,2,0,H
+ESP,1975-09-28,,Racing Santander,Elche CF,2,1,H,1,0,H
+ESP,1975-09-28,,Hércules CF,Real Zaragoza,2,0,H,1,0,H
+ESP,1975-09-28,,Granada CF,Athletic Bilbao,2,1,H,1,0,H
+ESP,1975-09-28,,Real Betis,Real Madrid,0,2,A,0,1,A
+ESP,1975-09-28,,Real Oviedo,Sporting Gijón,3,1,H,2,1,H
+ESP,1975-10-05,,Athletic Bilbao,Atlético Madrid,2,0,H,0,0,D
+ESP,1975-10-05,,Elche CF,Real Oviedo,1,0,H,0,0,D
+ESP,1975-10-05,,FC Barcelona,Granada CF,3,0,H,2,0,H
+ESP,1975-10-05,,Sporting Gijón,Hércules CF,1,3,A,1,1,D
+ESP,1975-10-05,,UD Salamanca,Racing Santander,3,0,H,2,0,H
+ESP,1975-10-05,,Sevilla FC,Espanyol Barcelona,2,1,H,1,0,H
+ESP,1975-10-05,,Valencia CF,Real Sociedad,3,1,H,1,1,D
+ESP,1975-10-05,,Real Zaragoza,Real Betis,1,2,A,0,1,A
+ESP,1975-10-05,,Real Madrid,UD Las Palmas,2,1,H,0,0,D
+ESP,1975-10-18,,UD Las Palmas,Real Zaragoza,3,2,H,1,0,H
+ESP,1975-10-18,,Real Sociedad,Real Madrid,1,1,D,1,0,H
+ESP,1975-10-19,,Racing Santander,Athletic Bilbao,1,1,D,1,0,H
+ESP,1975-10-19,,Real Oviedo,UD Salamanca,0,1,A,0,0,D
+ESP,1975-10-19,,Hércules CF,Elche CF,1,0,H,0,0,D
+ESP,1975-10-19,,Real Betis,Sporting Gijón,1,0,H,0,0,D
+ESP,1975-10-19,,Espanyol Barcelona,Valencia CF,1,0,H,0,0,D
+ESP,1975-10-19,,Atlético Madrid,FC Barcelona,3,0,H,2,0,H
+ESP,1975-10-19,,Granada CF,Sevilla FC,1,1,D,0,1,A
+ESP,1975-10-26,,Real Zaragoza,Real Sociedad,0,1,A,0,0,D
+ESP,1975-10-26,,FC Barcelona,Racing Santander,2,1,H,1,1,D
+ESP,1975-10-26,,Athletic Bilbao,Real Oviedo,1,0,H,1,0,H
+ESP,1975-10-26,,UD Salamanca,Hércules CF,0,1,A,0,0,D
+ESP,1975-10-26,,Granada CF,Atlético Madrid,3,4,A,2,1,H
+ESP,1975-10-26,,Sevilla FC,Valencia CF,3,1,H,3,0,H
+ESP,1975-10-26,,Real Madrid,Espanyol Barcelona,3,1,H,1,0,H
+ESP,1975-10-26,,Sporting Gijón,UD Las Palmas,3,0,H,2,0,H
+ESP,1975-10-26,,Elche CF,Real Betis,2,3,A,1,1,D
+ESP,1975-11-01,,UD Las Palmas,Elche CF,0,0,D,0,0,D
+ESP,1975-11-01,,Real Sociedad,Sporting Gijón,1,0,H,0,0,D
+ESP,1975-11-01,,Atlético Madrid,Sevilla FC,1,0,H,0,0,D
+ESP,1975-11-01,,Valencia CF,Real Madrid,1,1,D,0,1,A
+ESP,1975-11-02,,Real Betis,UD Salamanca,1,1,D,1,0,H
+ESP,1975-11-02,,Racing Santander,Granada CF,1,1,D,0,0,D
+ESP,1975-11-02,,Espanyol Barcelona,Real Zaragoza,2,1,H,2,0,H
+ESP,1975-11-02,,Real Oviedo,FC Barcelona,1,1,D,1,1,D
+ESP,1975-11-02,,Hércules CF,Athletic Bilbao,2,2,D,2,1,H
+ESP,1975-11-09,,Elche CF,Real Sociedad,1,1,D,1,0,H
+ESP,1975-11-09,,Granada CF,Real Oviedo,1,0,H,0,0,D
+ESP,1975-11-09,,FC Barcelona,Hércules CF,1,1,D,0,1,A
+ESP,1975-11-09,,Atlético Madrid,Racing Santander,1,1,D,1,1,D
+ESP,1975-11-09,,Sevilla FC,Real Madrid,1,1,D,0,0,D
+ESP,1975-11-09,,Athletic Bilbao,Real Betis,0,0,D,0,0,D
+ESP,1975-11-09,,Real Zaragoza,Valencia CF,0,2,A,0,1,A
+ESP,1975-11-09,,Sporting Gijón,Espanyol Barcelona,6,1,H,3,0,H
+ESP,1975-11-09,,UD Salamanca,UD Las Palmas,1,0,H,1,0,H
+ESP,1975-11-23,,Racing Santander,Sevilla FC,2,1,H,0,0,D
+ESP,1975-11-23,,Real Sociedad,UD Salamanca,1,1,D,1,0,H
+ESP,1975-11-23,,Hércules CF,Granada CF,2,0,H,2,0,H
+ESP,1975-11-23,,Espanyol Barcelona,Elche CF,2,0,H,1,0,H
+ESP,1975-11-23,,Real Madrid,Real Zaragoza,3,2,H,2,1,H
+ESP,1975-11-23,,Real Oviedo,Atlético Madrid,0,2,A,0,0,D
+ESP,1975-11-23,,UD Las Palmas,Athletic Bilbao,2,2,D,0,0,D
+ESP,1975-11-23,,Real Betis,FC Barcelona,1,0,H,1,0,H
+ESP,1975-11-23,,Valencia CF,Sporting Gijón,0,0,D,0,0,D
+ESP,1975-11-30,,FC Barcelona,UD Las Palmas,3,0,H,0,0,D
+ESP,1975-11-30,,Athletic Bilbao,Real Sociedad,2,0,H,0,0,D
+ESP,1975-11-30,,Atlético Madrid,Hércules CF,3,0,H,2,0,H
+ESP,1975-11-30,,Racing Santander,Real Oviedo,2,1,H,1,1,D
+ESP,1975-11-30,,Sporting Gijón,Real Madrid,0,2,A,0,2,A
+ESP,1975-11-30,,Elche CF,Valencia CF,2,0,H,0,0,D
+ESP,1975-11-30,,UD Salamanca,Espanyol Barcelona,1,0,H,1,0,H
+ESP,1975-11-30,,Granada CF,Real Betis,0,0,D,0,0,D
+ESP,1975-11-30,,Sevilla FC,Real Zaragoza,0,0,D,0,0,D
+ESP,1975-12-06,,Valencia CF,UD Salamanca,1,0,H,0,0,D
+ESP,1975-12-06,,UD Las Palmas,Granada CF,1,2,A,1,0,H
+ESP,1975-12-07,,Espanyol Barcelona,Athletic Bilbao,3,1,H,1,0,H
+ESP,1975-12-07,,Real Madrid,Elche CF,2,2,D,1,0,H
+ESP,1975-12-07,,Hércules CF,Racing Santander,2,1,H,2,0,H
+ESP,1975-12-07,,Real Zaragoza,Sporting Gijón,2,1,H,1,1,D
+ESP,1975-12-07,,Real Betis,Atlético Madrid,1,3,A,0,1,A
+ESP,1975-12-07,,Real Sociedad,FC Barcelona,2,2,D,0,0,D
+ESP,1975-12-07,,Real Oviedo,Sevilla FC,3,0,H,1,0,H
+ESP,1975-12-14,,Racing Santander,Real Betis,3,0,H,1,0,H
+ESP,1975-12-14,,Elche CF,Real Zaragoza,0,0,D,0,0,D
+ESP,1975-12-14,,Atlético Madrid,UD Las Palmas,2,1,H,1,0,H
+ESP,1975-12-14,,Real Oviedo,Hércules CF,1,1,D,0,1,A
+ESP,1975-12-14,,Athletic Bilbao,Valencia CF,5,4,H,5,1,H
+ESP,1975-12-14,,FC Barcelona,Espanyol Barcelona,5,0,H,2,0,H
+ESP,1975-12-14,,UD Salamanca,Real Madrid,0,0,D,0,0,D
+ESP,1975-12-14,,Granada CF,Real Sociedad,2,1,H,2,0,H
+ESP,1975-12-14,,Sevilla FC,Sporting Gijón,2,1,H,2,0,H
+ESP,1975-12-20,,UD Las Palmas,Racing Santander,5,0,H,3,0,H
+ESP,1975-12-21,,Real Sociedad,Atlético Madrid,1,1,D,0,0,D
+ESP,1975-12-21,,Real Zaragoza,UD Salamanca,3,0,H,1,0,H
+ESP,1975-12-21,,Espanyol Barcelona,Granada CF,3,0,H,0,0,D
+ESP,1975-12-21,,Sporting Gijón,Elche CF,1,1,D,1,0,H
+ESP,1975-12-21,,Hércules CF,Sevilla FC,1,0,H,0,0,D
+ESP,1975-12-21,,Real Madrid,Athletic Bilbao,1,0,H,0,0,D
+ESP,1975-12-21,,Valencia CF,FC Barcelona,3,2,H,3,1,H
+ESP,1975-12-21,,Real Betis,Real Oviedo,2,1,H,2,0,H
+ESP,1975-12-28,,Athletic Bilbao,Real Zaragoza,0,0,D,0,0,D
+ESP,1975-12-28,,Hércules CF,Real Betis,1,1,D,0,0,D
+ESP,1975-12-28,,Real Oviedo,UD Las Palmas,1,2,A,1,1,D
+ESP,1975-12-28,,Sevilla FC,Elche CF,2,1,H,0,0,D
+ESP,1975-12-28,,Granada CF,Valencia CF,2,1,H,1,0,H
+ESP,1975-12-28,,Atlético Madrid,Espanyol Barcelona,3,1,H,2,0,H
+ESP,1975-12-28,,FC Barcelona,Real Madrid,2,1,H,1,0,H
+ESP,1975-12-28,,UD Salamanca,Sporting Gijón,1,0,H,0,0,D
+ESP,1975-12-28,,Racing Santander,Real Sociedad,2,0,H,2,0,H
+ESP,1976-01-03,,UD Las Palmas,Hércules CF,2,1,H,1,0,H
+ESP,1976-01-04,,Real Sociedad,Real Oviedo,0,2,A,0,1,A
+ESP,1976-01-04,,Elche CF,UD Salamanca,1,1,D,1,0,H
+ESP,1976-01-04,,Espanyol Barcelona,Racing Santander,2,1,H,1,0,H
+ESP,1976-01-04,,Sevilla FC,Real Betis,2,0,H,1,0,H
+ESP,1976-01-04,,Valencia CF,Atlético Madrid,0,1,A,0,1,A
+ESP,1976-01-04,,Sporting Gijón,Athletic Bilbao,1,1,D,0,1,A
+ESP,1976-01-04,,Real Zaragoza,FC Barcelona,4,4,D,2,3,A
+ESP,1976-01-04,,Real Madrid,Granada CF,4,1,H,3,0,H
+ESP,1976-01-11,,Athletic Bilbao,Elche CF,0,0,D,0,0,D
+ESP,1976-01-11,,Atlético Madrid,Real Madrid,1,0,H,1,0,H
+ESP,1976-01-11,,Real Oviedo,Espanyol Barcelona,1,2,A,0,0,D
+ESP,1976-01-11,,Racing Santander,Valencia CF,0,1,A,0,1,A
+ESP,1976-01-11,,UD Salamanca,Sevilla FC,1,1,D,0,0,D
+ESP,1976-01-11,,Hércules CF,Real Sociedad,0,0,D,0,0,D
+ESP,1976-01-11,,Granada CF,Real Zaragoza,0,0,D,0,0,D
+ESP,1976-01-11,,Real Betis,UD Las Palmas,1,0,H,1,0,H
+ESP,1976-01-11,,FC Barcelona,Sporting Gijón,5,1,H,1,1,D
+ESP,1976-01-17,,UD Las Palmas,Sevilla FC,0,1,A,0,1,A
+ESP,1976-01-18,,Racing Santander,Real Madrid,1,0,H,1,0,H
+ESP,1976-01-18,,Hércules CF,Espanyol Barcelona,2,1,H,1,1,D
+ESP,1976-01-18,,Real Oviedo,Valencia CF,2,1,H,1,0,H
+ESP,1976-01-18,,Real Betis,Real Sociedad,1,0,H,1,0,H
+ESP,1976-01-18,,Atlético Madrid,Real Zaragoza,2,0,H,1,0,H
+ESP,1976-01-18,,Granada CF,Sporting Gijón,1,1,D,1,1,D
+ESP,1976-01-18,,FC Barcelona,Elche CF,1,0,H,0,0,D
+ESP,1976-01-18,,Athletic Bilbao,UD Salamanca,1,0,H,0,0,D
+ESP,1976-01-25,,Sevilla FC,Athletic Bilbao,0,0,D,0,0,D
+ESP,1976-01-25,,Elche CF,Granada CF,0,0,D,0,0,D
+ESP,1976-01-25,,Valencia CF,Hércules CF,2,2,D,2,1,H
+ESP,1976-01-25,,Real Zaragoza,Racing Santander,2,0,H,2,0,H
+ESP,1976-01-25,,Real Madrid,Real Oviedo,2,0,H,1,0,H
+ESP,1976-01-25,,Real Sociedad,UD Las Palmas,2,0,H,0,0,D
+ESP,1976-01-25,,Sporting Gijón,Atlético Madrid,1,0,H,0,0,D
+ESP,1976-01-25,,UD Salamanca,FC Barcelona,2,0,H,1,0,H
+ESP,1976-01-25,,Espanyol Barcelona,Real Betis,2,1,H,2,1,H
+ESP,1976-01-31,,UD Las Palmas,Espanyol Barcelona,1,1,D,0,1,A
+ESP,1976-02-01,,Real Oviedo,Real Zaragoza,2,0,H,2,0,H
+ESP,1976-02-01,,Hércules CF,Real Madrid,1,2,A,1,2,A
+ESP,1976-02-01,,Granada CF,UD Salamanca,0,0,D,0,0,D
+ESP,1976-02-01,,Atlético Madrid,Elche CF,3,0,H,1,0,H
+ESP,1976-02-01,,Racing Santander,Sporting Gijón,2,0,H,2,0,H
+ESP,1976-02-01,,FC Barcelona,Athletic Bilbao,2,1,H,1,0,H
+ESP,1976-02-01,,Real Betis,Valencia CF,2,1,H,2,0,H
+ESP,1976-02-01,,Real Sociedad,Sevilla FC,4,1,H,1,0,H
+ESP,1976-02-08,,Valencia CF,UD Las Palmas,0,1,A,0,1,A
+ESP,1976-02-08,,Athletic Bilbao,Granada CF,2,1,H,0,1,A
+ESP,1976-02-08,,Real Zaragoza,Hércules CF,1,0,H,1,0,H
+ESP,1976-02-08,,Sporting Gijón,Real Oviedo,3,1,H,3,0,H
+ESP,1976-02-08,,Real Madrid,Real Betis,5,0,H,3,0,H
+ESP,1976-02-08,,Espanyol Barcelona,Real Sociedad,2,2,D,1,1,D
+ESP,1976-02-08,,UD Salamanca,Atlético Madrid,2,2,D,1,1,D
+ESP,1976-02-08,,Sevilla FC,FC Barcelona,2,0,H,0,0,D
+ESP,1976-02-08,,Elche CF,Racing Santander,5,2,H,3,0,H
+ESP,1976-02-15,,Granada CF,FC Barcelona,0,2,A,0,0,D
+ESP,1976-02-15,,Racing Santander,UD Salamanca,1,0,H,0,0,D
+ESP,1976-02-15,,Real Oviedo,Elche CF,4,1,H,1,0,H
+ESP,1976-02-15,,Hércules CF,Sporting Gijón,1,1,D,1,0,H
+ESP,1976-02-15,,Real Betis,Real Zaragoza,1,0,H,0,0,D
+ESP,1976-02-15,,Atlético Madrid,Athletic Bilbao,2,0,H,1,0,H
+ESP,1976-02-15,,Real Sociedad,Valencia CF,1,1,D,0,0,D
+ESP,1976-02-15,,UD Las Palmas,Real Madrid,2,2,D,0,0,D
+ESP,1976-02-15,,Espanyol Barcelona,Sevilla FC,1,0,H,0,0,D
+ESP,1976-02-22,,Sporting Gijón,Real Betis,5,0,H,1,0,H
+ESP,1976-02-22,,Sevilla FC,Granada CF,1,0,H,1,0,H
+ESP,1976-02-22,,Elche CF,Hércules CF,1,1,D,0,0,D
+ESP,1976-02-22,,Athletic Bilbao,Racing Santander,1,0,H,0,0,D
+ESP,1976-02-22,,Real Zaragoza,UD Las Palmas,0,1,A,0,0,D
+ESP,1976-02-22,,Real Madrid,Real Sociedad,1,0,H,0,0,D
+ESP,1976-02-22,,FC Barcelona,Atlético Madrid,2,1,H,2,1,H
+ESP,1976-02-22,,Valencia CF,Espanyol Barcelona,0,0,D,0,0,D
+ESP,1976-02-22,,UD Salamanca,Real Oviedo,0,0,D,0,0,D
+ESP,1976-02-29,,Valencia CF,Sevilla FC,3,0,H,1,0,H
+ESP,1976-02-29,,Atlético Madrid,Granada CF,3,2,H,2,2,D
+ESP,1976-02-29,,Real Betis,Elche CF,2,0,H,2,0,H
+ESP,1976-02-29,,Hércules CF,UD Salamanca,1,0,H,1,0,H
+ESP,1976-02-29,,Real Oviedo,Athletic Bilbao,4,1,H,2,1,H
+ESP,1976-02-29,,Racing Santander,FC Barcelona,2,1,H,1,0,H
+ESP,1976-02-29,,Espanyol Barcelona,Real Madrid,0,1,A,0,0,D
+ESP,1976-02-29,,UD Las Palmas,Sporting Gijón,2,1,H,1,0,H
+ESP,1976-02-29,,Real Sociedad,Real Zaragoza,1,1,D,0,0,D
+ESP,1976-03-07,,Sporting Gijón,Real Sociedad,3,0,H,1,0,H
+ESP,1976-03-07,,Athletic Bilbao,Hércules CF,1,0,H,0,0,D
+ESP,1976-03-07,,Granada CF,Racing Santander,2,0,H,2,0,H
+ESP,1976-03-07,,FC Barcelona,Real Oviedo,2,0,H,2,0,H
+ESP,1976-03-07,,UD Salamanca,Real Betis,2,0,H,1,0,H
+ESP,1976-03-07,,Sevilla FC,Atlético Madrid,1,0,H,0,0,D
+ESP,1976-03-07,,Real Madrid,Valencia CF,2,0,H,1,0,H
+ESP,1976-03-07,,Real Zaragoza,Espanyol Barcelona,4,0,H,1,0,H
+ESP,1976-03-07,,Elche CF,UD Las Palmas,1,1,D,1,0,H
+ESP,1976-03-13,,UD Las Palmas,UD Salamanca,1,0,H,0,0,D
+ESP,1976-03-13,,Real Madrid,Sevilla FC,2,0,H,1,0,H
+ESP,1976-03-14,,Real Betis,Athletic Bilbao,0,0,D,0,0,D
+ESP,1976-03-14,,Real Oviedo,Granada CF,3,0,H,1,0,H
+ESP,1976-03-14,,Real Sociedad,Elche CF,4,0,H,2,0,H
+ESP,1976-03-14,,Espanyol Barcelona,Sporting Gijón,2,1,H,1,0,H
+ESP,1976-03-14,,Racing Santander,Atlético Madrid,4,3,H,2,1,H
+ESP,1976-03-14,,Hércules CF,FC Barcelona,0,0,D,0,0,D
+ESP,1976-03-14,,Valencia CF,Real Zaragoza,3,2,H,1,1,D
+ESP,1976-03-21,,UD Salamanca,Real Sociedad,1,2,A,0,1,A
+ESP,1976-03-21,,Granada CF,Hércules CF,0,0,D,0,0,D
+ESP,1976-03-21,,Sevilla FC,Racing Santander,3,1,H,3,0,H
+ESP,1976-03-21,,Atlético Madrid,Real Oviedo,3,1,H,2,0,H
+ESP,1976-03-21,,FC Barcelona,Real Betis,3,1,H,3,1,H
+ESP,1976-03-21,,Sporting Gijón,Valencia CF,1,1,D,0,1,A
+ESP,1976-03-21,,Elche CF,Espanyol Barcelona,2,1,H,1,0,H
+ESP,1976-03-21,,Real Zaragoza,Real Madrid,3,1,H,2,1,H
+ESP,1976-03-21,,Athletic Bilbao,UD Las Palmas,1,0,H,1,0,H
+ESP,1976-03-27,,UD Las Palmas,FC Barcelona,3,1,H,1,0,H
+ESP,1976-03-27,,Real Madrid,Sporting Gijón,2,0,H,1,0,H
+ESP,1976-03-28,,Valencia CF,Elche CF,2,0,H,0,0,D
+ESP,1976-03-28,,Hércules CF,Atlético Madrid,1,1,D,0,1,A
+ESP,1976-03-28,,Espanyol Barcelona,UD Salamanca,3,0,H,2,0,H
+ESP,1976-03-28,,Real Betis,Granada CF,4,1,H,2,0,H
+ESP,1976-03-28,,Real Sociedad,Athletic Bilbao,3,2,H,1,1,D
+ESP,1976-03-28,,Real Oviedo,Racing Santander,2,0,H,1,0,H
+ESP,1976-03-28,,Real Zaragoza,Sevilla FC,1,0,H,1,0,H
+ESP,1976-04-04,,FC Barcelona,Real Sociedad,2,0,H,2,0,H
+ESP,1976-04-04,,Racing Santander,Hércules CF,4,1,H,1,0,H
+ESP,1976-04-04,,Sevilla FC,Real Oviedo,4,0,H,2,0,H
+ESP,1976-04-04,,Granada CF,UD Las Palmas,1,0,H,1,0,H
+ESP,1976-04-04,,Sporting Gijón,Real Zaragoza,2,2,D,1,1,D
+ESP,1976-04-04,,UD Salamanca,Valencia CF,2,0,H,0,0,D
+ESP,1976-04-04,,Athletic Bilbao,Espanyol Barcelona,2,1,H,1,0,H
+ESP,1976-04-04,,Elche CF,Real Madrid,1,1,D,0,1,A
+ESP,1976-04-04,,Atlético Madrid,Real Betis,4,0,H,2,0,H
+ESP,1976-04-10,,Real Madrid,UD Salamanca,1,0,H,1,0,H
+ESP,1976-04-11,,Hércules CF,Real Oviedo,1,0,H,1,0,H
+ESP,1976-04-11,,Sporting Gijón,Sevilla FC,1,0,H,0,0,D
+ESP,1976-04-11,,Real Betis,Racing Santander,3,0,H,2,0,H
+ESP,1976-04-11,,Real Sociedad,Granada CF,2,0,H,1,0,H
+ESP,1976-04-11,,Valencia CF,Athletic Bilbao,0,0,D,0,0,D
+ESP,1976-04-11,,Espanyol Barcelona,FC Barcelona,3,0,H,1,0,H
+ESP,1976-04-11,,UD Las Palmas,Atlético Madrid,2,0,H,1,0,H
+ESP,1976-04-11,,Real Zaragoza,Elche CF,2,0,H,0,0,D
+ESP,1976-04-18,,Atlético Madrid,Real Sociedad,2,2,D,0,1,A
+ESP,1976-04-18,,Sevilla FC,Hércules CF,0,0,D,0,0,D
+ESP,1976-04-18,,Elche CF,Sporting Gijón,1,0,H,1,0,H
+ESP,1976-04-18,,Racing Santander,UD Las Palmas,2,1,H,1,0,H
+ESP,1976-04-18,,UD Salamanca,Real Zaragoza,1,0,H,1,0,H
+ESP,1976-04-18,,FC Barcelona,Valencia CF,1,1,D,1,1,D
+ESP,1976-04-18,,Granada CF,Espanyol Barcelona,0,1,A,0,1,A
+ESP,1976-04-18,,Athletic Bilbao,Real Madrid,2,0,H,1,0,H
+ESP,1976-04-18,,Real Oviedo,Real Betis,3,0,H,2,0,H
+ESP,1976-04-30,,Real Madrid,FC Barcelona,0,2,A,0,1,A
+ESP,1976-05-01,,Valencia CF,Granada CF,2,1,H,2,1,H
+ESP,1976-05-01,,Espanyol Barcelona,Atlético Madrid,1,0,H,0,0,D
+ESP,1976-05-02,,Elche CF,Sevilla FC,2,0,H,1,0,H
+ESP,1976-05-02,,UD Las Palmas,Real Oviedo,0,0,D,0,0,D
+ESP,1976-05-02,,Real Sociedad,Racing Santander,3,2,H,1,0,H
+ESP,1976-05-02,,Sporting Gijón,UD Salamanca,0,1,A,0,1,A
+ESP,1976-05-02,,Real Betis,Hércules CF,1,0,H,0,0,D
+ESP,1976-05-02,,Real Zaragoza,Athletic Bilbao,1,1,D,1,0,H
+ESP,1976-05-09,,FC Barcelona,Real Zaragoza,2,1,H,0,1,A
+ESP,1976-05-09,,UD Salamanca,Elche CF,2,2,D,1,0,H
+ESP,1976-05-09,,Hércules CF,UD Las Palmas,1,0,H,1,0,H
+ESP,1976-05-09,,Real Oviedo,Real Sociedad,3,0,H,2,0,H
+ESP,1976-05-09,,Real Betis,Sevilla FC,1,0,H,1,0,H
+ESP,1976-05-09,,Atlético Madrid,Valencia CF,1,0,H,0,0,D
+ESP,1976-05-09,,Racing Santander,Espanyol Barcelona,1,1,D,0,0,D
+ESP,1976-05-09,,Granada CF,Real Madrid,1,2,A,0,1,A
+ESP,1976-05-09,,Athletic Bilbao,Sporting Gijón,2,1,H,1,0,H
+ESP,1976-05-15,,Valencia CF,Racing Santander,3,0,H,0,0,D
+ESP,1976-05-15,,Real Sociedad,Hércules CF,3,0,H,0,0,D
+ESP,1976-05-16,,Sevilla FC,UD Salamanca,1,2,A,0,1,A
+ESP,1976-05-16,,Sporting Gijón,FC Barcelona,1,1,D,0,0,D
+ESP,1976-05-16,,Elche CF,Athletic Bilbao,3,1,H,1,1,D
+ESP,1976-05-16,,Real Madrid,Atlético Madrid,1,0,H,0,0,D
+ESP,1976-05-16,,UD Las Palmas,Real Betis,3,0,H,1,0,H
+ESP,1976-05-16,,Espanyol Barcelona,Real Oviedo,3,1,H,1,0,H
+ESP,1976-05-16,,Real Zaragoza,Granada CF,2,0,H,0,0,D

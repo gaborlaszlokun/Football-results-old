@@ -1,0 +1,163 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+COL,2013-02-02,00:45,Deportes Quindío,Deportivo Pasto,0,1,A,0,0,D
+COL,2013-02-02,20:15,Alianza Petrolera,Santa Fe,0,3,A,0,1,A
+COL,2013-02-02,22:30,Patriotas FC,Boyacá Chicó,1,1,D,1,0,H
+COL,2013-02-02,22:30,Deportivo Cali,Once Caldas,2,1,H,1,0,H
+COL,2013-02-03,00:45,Atlético Nacional,Atlético Huila,3,0,H,1,0,H
+COL,2013-02-03,20:15,Atlético Junior,Envigado FC,4,0,H,1,0,H
+COL,2013-02-03,22:30,Millonarios,La Equidad,3,1,H,2,0,H
+COL,2013-02-04,00:45,Deportes Tolima,Independiente Medellín,1,0,H,0,0,D
+COL,2013-02-04,20:00,Itagüi Ditaires,Cúcuta Deportivo,0,0,D,0,0,D
+COL,2013-02-08,23:00,La Equidad,Alianza Petrolera,0,1,A,0,0,D
+COL,2013-02-09,01:00,Deportivo Pasto,Patriotas FC,3,2,H,2,1,H
+COL,2013-02-09,20:15,Atlético Huila,Itagüi Ditaires,1,1,D,0,0,D
+COL,2013-02-09,22:30,Boyacá Chicó,Deportivo Cali,1,2,A,0,1,A
+COL,2013-02-09,22:30,Santa Fe,Atlético Nacional,2,2,D,1,0,H
+COL,2013-02-10,00:45,Once Caldas,Atlético Junior,2,1,H,0,1,A
+COL,2013-02-10,20:15,Envigado FC,Deportes Tolima,2,2,D,0,1,A
+COL,2013-02-10,22:30,Independiente Medellín,Millonarios,0,0,D,0,0,D
+COL,2013-02-11,00:45,Cúcuta Deportivo,Deportes Quindío,2,0,H,1,0,H
+COL,2013-02-16,00:45,Deportes Quindío,Atlético Huila,0,0,D,0,0,D
+COL,2013-02-16,20:15,Patriotas FC,Cúcuta Deportivo,1,3,A,0,0,D
+COL,2013-02-16,22:30,Atlético Junior,Boyacá Chicó,2,2,D,1,2,A
+COL,2013-02-16,22:30,Millonarios,Envigado FC,1,0,H,1,0,H
+COL,2013-02-17,00:45,Atlético Nacional,Alianza Petrolera,4,0,H,2,0,H
+COL,2013-02-17,20:15,Itagüi Ditaires,Santa Fe,4,0,H,2,0,H
+COL,2013-02-17,22:30,Deportes Tolima,Once Caldas,2,2,D,2,1,H
+COL,2013-02-17,22:30,La Equidad,Independiente Medellín,1,0,H,0,0,D
+COL,2013-02-18,00:45,Deportivo Cali,Deportivo Pasto,2,2,D,1,0,H
+COL,2013-02-23,00:45,Envigado FC,La Equidad,1,0,H,1,0,H
+COL,2013-02-23,20:15,Atlético Huila,Patriotas FC,1,0,H,1,0,H
+COL,2013-02-23,22:30,Once Caldas,Millonarios,1,0,H,0,0,D
+COL,2013-02-23,22:30,Boyacá Chicó,Deportes Tolima,3,0,H,2,0,H
+COL,2013-02-24,00:45,Atlético Nacional,Itagüi Ditaires,1,1,D,0,1,A
+COL,2013-02-24,20:15,Alianza Petrolera,Independiente Medellín,0,1,A,0,1,A
+COL,2013-02-24,22:30,Deportivo Pasto,Atlético Junior,1,0,H,0,0,D
+COL,2013-02-24,22:30,Cúcuta Deportivo,Deportivo Cali,0,0,D,0,0,D
+COL,2013-02-25,00:45,Santa Fe,Deportes Quindío,2,0,H,2,0,H
+COL,2013-02-28,00:45,Santa Fe,La Equidad,3,1,H,2,0,H
+COL,2013-03-02,00:45,Deportivo Cali,Atlético Huila,0,1,A,0,1,A
+COL,2013-03-02,20:15,Itagüi Ditaires,Alianza Petrolera,3,0,H,1,0,H
+COL,2013-03-02,22:30,Patriotas FC,Santa Fe,1,1,D,0,0,D
+COL,2013-03-02,22:30,Millonarios,Boyacá Chicó,2,1,H,1,0,H
+COL,2013-03-03,00:45,La Equidad,Once Caldas,0,0,D,0,0,D
+COL,2013-03-03,20:15,Deportes Tolima,Deportivo Pasto,3,0,H,2,0,H
+COL,2013-03-03,22:30,Atlético Junior,Cúcuta Deportivo,0,2,A,0,1,A
+COL,2013-03-03,22:30,Independiente Medellín,Envigado FC,0,1,A,0,1,A
+COL,2013-03-04,00:45,Deportes Quindío,Atlético Nacional,0,0,D,0,0,D
+COL,2013-03-09,00:45,Boyacá Chicó,La Equidad,2,2,D,0,2,A
+COL,2013-03-09,20:15,Itagüi Ditaires,Deportes Quindío,1,1,D,1,0,H
+COL,2013-03-10,00:45,Cúcuta Deportivo,Deportes Tolima,2,1,H,1,0,H
+COL,2013-03-10,20:15,Alianza Petrolera,Envigado FC,1,2,A,1,1,D
+COL,2013-03-10,20:15,Atlético Huila,Atlético Junior,1,1,D,0,0,D
+COL,2013-03-10,22:30,Atlético Nacional,Patriotas FC,3,3,D,1,0,H
+COL,2013-03-10,22:30,Santa Fe,Deportivo Cali,3,1,H,0,1,A
+COL,2013-03-11,00:45,Once Caldas,Independiente Medellín,2,1,H,1,1,D
+COL,2013-03-16,00:45,La Equidad,Deportivo Pasto,0,0,D,0,0,D
+COL,2013-03-16,20:15,Patriotas FC,Itagüi Ditaires,0,0,D,0,0,D
+COL,2013-03-16,22:30,Deportivo Cali,Atlético Nacional,1,1,D,0,1,A
+COL,2013-03-16,22:30,Deportes Tolima,Atlético Huila,2,0,H,1,0,H
+COL,2013-03-17,00:45,Independiente Medellín,Boyacá Chicó,3,1,H,1,0,H
+COL,2013-03-17,20:15,Atlético Junior,Santa Fe,2,3,A,1,2,A
+COL,2013-03-17,22:30,Deportes Quindío,Alianza Petrolera,2,3,A,1,2,A
+COL,2013-03-17,22:30,Millonarios,Cúcuta Deportivo,2,1,H,0,0,D
+COL,2013-03-18,00:45,Envigado FC,Once Caldas,0,2,A,0,0,D
+COL,2013-03-24,20:15,Itagüi Ditaires,Deportes Tolima,3,2,H,2,1,H
+COL,2013-03-24,22:30,Deportivo Pasto,Millonarios,2,1,H,1,1,D
+COL,2013-03-30,20:15,Itagüi Ditaires,Deportivo Cali,0,3,A,0,1,A
+COL,2013-03-30,22:30,Deportivo Pasto,Independiente Medellín,1,0,H,1,0,H
+COL,2013-03-30,22:30,Atlético Huila,Millonarios,0,0,D,0,0,D
+COL,2013-03-31,00:45,Boyacá Chicó,Envigado FC,2,0,H,1,0,H
+COL,2013-03-31,21:15,Alianza Petrolera,Once Caldas,1,1,D,0,1,A
+COL,2013-03-31,23:30,Cúcuta Deportivo,La Equidad,0,1,A,0,0,D
+COL,2013-03-31,23:30,Atlético Nacional,Atlético Junior,2,1,H,2,0,H
+COL,2013-04-01,01:45,Deportes Quindío,Patriotas FC,0,0,D,0,0,D
+COL,2013-04-06,01:45,Atlético Huila,Deportes Tolima,2,2,D,1,1,D
+COL,2013-04-06,21:15,Boyacá Chicó,Patriotas FC,0,0,D,0,0,D
+COL,2013-04-06,23:30,Deportivo Pasto,Deportivo Cali,1,2,A,0,2,A
+COL,2013-04-06,23:30,Santa Fe,Millonarios,1,3,A,0,1,A
+COL,2013-04-07,01:45,Independiente Medellín,Atlético Nacional,0,0,D,0,0,D
+COL,2013-04-07,21:15,Alianza Petrolera,La Equidad,0,0,D,0,0,D
+COL,2013-04-07,23:30,Envigado FC,Itagüi Ditaires,1,2,A,0,1,A
+COL,2013-04-07,23:30,Cúcuta Deportivo,Atlético Junior,1,2,A,1,0,H
+COL,2013-04-08,01:45,Once Caldas,Deportes Quindío,1,2,A,0,1,A
+COL,2013-04-13,01:45,Deportes Tolima,Atlético Nacional,4,0,H,4,0,H
+COL,2013-04-13,21:15,Envigado FC,Deportivo Pasto,1,1,D,0,0,D
+COL,2013-04-13,23:30,Millonarios,Santa Fe,0,1,A,0,1,A
+COL,2013-04-13,23:30,La Equidad,Atlético Huila,4,0,H,3,0,H
+COL,2013-04-14,01:45,Atlético Junior,Itagüi Ditaires,3,2,H,2,2,D
+COL,2013-04-14,21:15,Once Caldas,Boyacá Chicó,2,2,D,2,2,D
+COL,2013-04-14,23:30,Deportivo Cali,Deportes Quindío,4,0,H,3,0,H
+COL,2013-04-14,23:30,Independiente Medellín,Cúcuta Deportivo,1,1,D,1,0,H
+COL,2013-04-15,01:45,Patriotas FC,Alianza Petrolera,0,0,D,0,0,D
+COL,2013-04-17,02:10,Atlético Nacional,Millonarios,2,1,H,0,0,D
+COL,2013-04-17,21:15,Alianza Petrolera,Boyacá Chicó,3,1,H,2,0,H
+COL,2013-04-18,00:00,Atlético Huila,Independiente Medellín,3,2,H,2,0,H
+COL,2013-04-18,01:45,Patriotas FC,Deportivo Cali,1,1,D,0,0,D
+COL,2013-04-18,02:00,Deportes Quindío,Atlético Junior,0,1,A,0,0,D
+COL,2013-04-19,00:00,Deportivo Pasto,Once Caldas,1,1,D,0,1,A
+COL,2013-04-19,02:10,Cúcuta Deportivo,Envigado FC,3,0,H,3,0,H
+COL,2013-04-20,01:45,Millonarios,Itagüi Ditaires,1,2,A,0,0,D
+COL,2013-04-20,21:15,Deportes Tolima,Deportes Quindío,2,0,H,0,0,D
+COL,2013-04-20,23:30,La Equidad,Atlético Nacional,0,2,A,0,1,A
+COL,2013-04-21,01:45,Deportivo Cali,Alianza Petrolera,2,2,D,1,0,H
+COL,2013-04-21,01:45,Independiente Medellín,Santa Fe,2,2,D,1,0,H
+COL,2013-04-21,21:15,Once Caldas,Cúcuta Deportivo,2,0,H,1,0,H
+COL,2013-04-21,23:30,Atlético Junior,Patriotas FC,2,0,H,1,0,H
+COL,2013-04-21,23:30,Envigado FC,Atlético Huila,1,1,D,1,0,H
+COL,2013-04-22,01:45,Boyacá Chicó,Deportivo Pasto,2,2,D,0,0,D
+COL,2013-04-25,01:45,Santa Fe,Deportes Tolima,1,2,A,1,1,D
+COL,2013-04-27,19:00,Itagüi Ditaires,La Equidad,1,0,H,0,0,D
+COL,2013-04-27,21:15,Santa Fe,Envigado FC,1,0,H,1,0,H
+COL,2013-04-27,23:30,Deportes Quindío,Millonarios,0,0,D,0,0,D
+COL,2013-04-28,01:45,Cúcuta Deportivo,Boyacá Chicó,0,1,A,0,0,D
+COL,2013-04-28,01:45,Deportivo Cali,Atlético Junior,2,2,D,1,1,D
+COL,2013-04-28,19:00,Patriotas FC,Deportes Tolima,1,1,D,0,0,D
+COL,2013-04-28,21:15,Alianza Petrolera,Deportivo Pasto,1,1,D,0,0,D
+COL,2013-04-28,23:30,Atlético Nacional,Independiente Medellín,2,2,D,0,1,A
+COL,2013-04-29,01:45,Atlético Huila,Once Caldas,0,1,A,0,1,A
+COL,2013-05-04,01:45,Atlético Junior,Alianza Petrolera,2,1,H,1,0,H
+COL,2013-05-04,21:15,La Equidad,Deportes Quindío,3,0,H,2,0,H
+COL,2013-05-04,23:30,Independiente Medellín,Itagüi Ditaires,1,0,H,1,0,H
+COL,2013-05-05,01:45,Deportes Tolima,Deportivo Cali,2,2,D,1,1,D
+COL,2013-05-05,01:45,Boyacá Chicó,Atlético Huila,2,1,H,2,0,H
+COL,2013-05-05,19:00,Deportivo Pasto,Cúcuta Deportivo,2,1,H,1,1,D
+COL,2013-05-05,21:15,Millonarios,Patriotas FC,4,1,H,1,0,H
+COL,2013-05-05,23:30,Once Caldas,Santa Fe,0,0,D,0,0,D
+COL,2013-05-06,01:45,Envigado FC,Atlético Nacional,3,0,H,1,0,H
+COL,2013-05-11,01:45,Deportes Quindío,Independiente Medellín,0,2,A,0,1,A
+COL,2013-05-11,21:15,Itagüi Ditaires,Envigado FC,1,1,D,0,1,A
+COL,2013-05-11,23:30,Santa Fe,Boyacá Chicó,4,3,H,2,0,H
+COL,2013-05-12,01:45,Atlético Junior,Deportes Tolima,1,2,A,0,2,A
+COL,2013-05-12,01:45,Deportivo Cali,Millonarios,2,2,D,1,2,A
+COL,2013-05-12,19:00,Patriotas FC,La Equidad,1,1,D,0,1,A
+COL,2013-05-12,21:15,Alianza Petrolera,Cúcuta Deportivo,2,3,A,1,3,A
+COL,2013-05-12,23:30,Atlético Huila,Deportivo Pasto,6,1,H,2,0,H
+COL,2013-05-13,23:30,Atlético Nacional,Once Caldas,2,1,H,1,0,H
+COL,2013-05-18,00:00,Envigado FC,Deportes Quindío,0,1,A,0,0,D
+COL,2013-05-18,02:10,Cúcuta Deportivo,Atlético Huila,1,1,D,0,0,D
+COL,2013-05-18,21:15,La Equidad,Deportivo Cali,1,1,D,0,0,D
+COL,2013-05-18,23:30,Boyacá Chicó,Atlético Nacional,2,3,A,1,1,D
+COL,2013-05-19,01:45,Deportes Tolima,Alianza Petrolera,2,1,H,0,1,A
+COL,2013-05-19,01:45,Millonarios,Atlético Junior,3,0,H,1,0,H
+COL,2013-05-19,21:15,Independiente Medellín,Patriotas FC,2,1,H,0,0,D
+COL,2013-05-19,23:30,Once Caldas,Itagüi Ditaires,1,2,A,1,2,A
+COL,2013-05-20,01:45,Deportivo Pasto,Santa Fe,1,1,D,0,1,A
+COL,2013-05-25,21:15,Itagüi Ditaires,Boyacá Chicó,3,0,H,1,0,H
+COL,2013-05-25,23:30,Santa Fe,Cúcuta Deportivo,3,2,H,1,0,H
+COL,2013-05-26,01:45,Atlético Junior,La Equidad,0,0,D,0,0,D
+COL,2013-05-26,19:00,Patriotas FC,Envigado FC,1,1,D,1,1,D
+COL,2013-05-26,21:15,Alianza Petrolera,Atlético Huila,1,0,H,1,0,H
+COL,2013-05-26,21:15,Deportes Quindío,Once Caldas,1,1,D,0,0,D
+COL,2013-05-26,23:30,Atlético Nacional,Deportivo Pasto,1,0,H,1,0,H
+COL,2013-05-26,23:30,Deportivo Cali,Independiente Medellín,2,0,H,0,0,D
+COL,2013-05-26,23:30,Deportes Tolima,Millonarios,1,2,A,0,2,A
+COL,2013-06-01,21:15,Boyacá Chicó,Deportes Quindío,1,1,D,0,1,A
+COL,2013-06-01,23:30,La Equidad,Deportes Tolima,1,0,H,0,0,D
+COL,2013-06-02,01:45,Cúcuta Deportivo,Atlético Nacional,1,1,D,0,0,D
+COL,2013-06-02,01:45,Deportivo Pasto,Itagüi Ditaires,1,1,D,0,0,D
+COL,2013-06-02,01:45,Once Caldas,Patriotas FC,2,0,H,0,0,D
+COL,2013-06-02,01:45,Independiente Medellín,Atlético Junior,1,0,H,1,0,H
+COL,2013-06-02,21:15,Atlético Huila,Santa Fe,1,1,D,1,1,D
+COL,2013-06-02,23:30,Envigado FC,Deportivo Cali,1,2,A,0,0,D
+COL,2013-06-03,21:15,Millonarios,Alianza Petrolera,1,2,A,0,1,A

@@ -1,62 +1,62 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-NZL,10/11/2013,00:00,WaiBOP United,Canterbury United,2,1,H,1,1,D
-NZL,10/11/2013,00:00,Otago United,Waitakere United,0,3,A,0,1,A
-NZL,10/11/2013,01:00,Team Wellington,Auckland City FC,1,4,A,1,1,D
-NZL,06/02/2014,01:00,Hawke’s Bay United FC,Wanderers SC,1,0,H,0,0,D
-NZL,16/11/2013,01:00,Wanderers SC,Canterbury United,2,2,D,1,1,D
-NZL,16/11/2013,04:00,Hawke’s Bay United FC,Otago United,3,2,H,1,2,A
-NZL,17/11/2013,01:00,Auckland City FC,WaiBOP United,3,1,H,1,1,D
-NZL,17/11/2013,03:00,Waitakere United,Team Wellington,2,0,H,1,0,H
-NZL,23/11/2013,04:00,WaiBOP United,Hawke’s Bay United FC,0,2,A,0,0,D
-NZL,24/11/2013,01:00,Canterbury United,Auckland City FC,0,0,D,0,0,D
-NZL,24/11/2013,01:00,Team Wellington,Otago United,3,1,H,2,1,H
-NZL,24/11/2013,03:00,Waitakere United,Wanderers SC,4,1,H,1,0,H
-NZL,30/11/2013,01:00,Auckland City FC,Waitakere United,2,0,H,1,0,H
-NZL,30/11/2013,23:00,Hawke’s Bay United FC,Team Wellington,1,2,A,0,0,D
-NZL,01/12/2013,01:00,Otago United,Canterbury United,0,3,A,0,1,A
-NZL,01/12/2013,01:00,Wanderers SC,WaiBOP United,3,3,D,1,2,A
-NZL,07/12/2013,04:00,WaiBOP United,Otago United,4,2,H,2,0,H
-NZL,08/12/2013,01:00,Canterbury United,Team Wellington,2,0,H,2,0,H
-NZL,08/12/2013,03:00,Waitakere United,Hawke’s Bay United FC,2,2,D,2,1,H
-NZL,22/01/2014,05:00,Wanderers SC,Auckland City FC,0,2,A,0,0,D
-NZL,14/12/2013,01:45,Team Wellington,Wanderers SC,3,2,H,2,1,H
-NZL,14/12/2013,03:00,Waitakere United,WaiBOP United,3,0,H,1,0,H
-NZL,14/12/2013,04:00,Hawke’s Bay United FC,Canterbury United,1,0,H,0,0,D
-NZL,06/02/2014,01:00,Auckland City FC,Otago United,3,0,H,2,0,H
-NZL,22/12/2013,01:00,Wanderers SC,Otago United,1,2,A,0,1,A
-NZL,22/12/2013,01:00,Canterbury United,Waitakere United,3,2,H,2,0,H
-NZL,22/12/2013,01:00,Auckland City FC,Hawke’s Bay United FC,4,4,D,1,3,A
-NZL,22/12/2013,03:15,Team Wellington,WaiBOP United,3,2,H,2,2,D
-NZL,12/01/2014,00:00,Waitakere United,Otago United,1,3,A,1,2,A
-NZL,12/01/2014,01:00,Canterbury United,WaiBOP United,1,0,H,0,0,D
-NZL,12/01/2014,01:00,Auckland City FC,Team Wellington,3,2,H,1,0,H
-NZL,12/01/2014,02:00,Wanderers SC,Hawke’s Bay United FC,3,0,H,NaN,NaN,NaN
-NZL,18/01/2014,04:00,Otago United,Hawke’s Bay United FC,1,6,A,0,2,A
-NZL,18/01/2014,04:00,WaiBOP United,Auckland City FC,0,2,A,0,1,A
-NZL,19/01/2014,01:00,Canterbury United,Wanderers SC,2,0,H,1,0,H
-NZL,19/01/2014,01:00,Team Wellington,Waitakere United,3,1,H,1,0,H
-NZL,25/01/2014,04:00,Hawke’s Bay United FC,WaiBOP United,3,2,H,3,1,H
-NZL,26/01/2014,01:00,Auckland City FC,Canterbury United,1,1,D,1,0,H
-NZL,26/01/2014,01:00,Otago United,Team Wellington,2,2,D,1,1,D
-NZL,26/01/2014,01:00,Wanderers SC,Waitakere United,1,6,A,0,2,A
-NZL,01/02/2014,01:00,WaiBOP United,Wanderers SC,3,1,H,1,0,H
-NZL,02/02/2014,01:00,Team Wellington,Hawke’s Bay United FC,6,1,H,0,1,A
-NZL,02/02/2014,01:00,Canterbury United,Otago United,2,0,H,0,0,D
-NZL,02/02/2014,03:00,Waitakere United,Auckland City FC,1,0,H,1,0,H
-NZL,09/02/2014,00:00,Otago United,WaiBOP United,1,6,A,0,3,A
-NZL,09/02/2014,01:00,Team Wellington,Canterbury United,3,3,D,2,2,D
-NZL,09/02/2014,01:00,Hawke’s Bay United FC,Waitakere United,2,1,H,2,0,H
-NZL,09/02/2014,01:00,Auckland City FC,Wanderers SC,2,1,H,2,0,H
-NZL,15/02/2014,04:00,WaiBOP United,Waitakere United,1,1,D,0,0,D
-NZL,16/02/2014,00:00,Otago United,Auckland City FC,0,10,A,0,2,A
-NZL,16/02/2014,01:00,Canterbury United,Hawke’s Bay United FC,1,2,A,0,1,A
-NZL,16/02/2014,02:00,Wanderers SC,Team Wellington,1,4,A,0,1,A
-NZL,21/02/2014,23:30,WaiBOP United,Team Wellington,0,5,A,0,1,A
-NZL,22/02/2014,04:00,Hawke’s Bay United FC,Auckland City FC,1,4,A,0,1,A
-NZL,23/02/2014,01:00,Otago United,Wanderers SC,5,3,H,4,1,H
-NZL,23/02/2014,03:00,Waitakere United,Canterbury United,3,1,H,2,0,H
-NZL,01/03/2014,01:00,Waitakere United,Auckland City FC,0,4,A,0,2,A
-NZL,02/03/2014,01:00,Hawke’s Bay United FC,Team Wellington,1,2,A,0,0,D
-NZL,08/03/2014,00:00,Team Wellington,Hawke’s Bay United FC,1,0,H,0,0,D
-NZL,09/03/2014,01:00,Auckland City FC,Waitakere United,4,1,H,3,0,H
-NZL,16/03/2014,01:35,Auckland City FC,Team Wellington,1,0,H,1,0,H
+NZL,2013-11-10,00:00,WaiBOP United,Canterbury United,2,1,H,1.0,1.0,D
+NZL,2013-11-10,00:00,Otago United,Waitakere United,0,3,A,0.0,1.0,A
+NZL,2013-11-10,01:00,Team Wellington,Auckland City FC,1,4,A,1.0,1.0,D
+NZL,2013-11-16,01:00,Wanderers SC,Canterbury United,2,2,D,1.0,1.0,D
+NZL,2013-11-16,04:00,Hawke’s Bay United FC,Otago United,3,2,H,1.0,2.0,A
+NZL,2013-11-17,01:00,Auckland City FC,WaiBOP United,3,1,H,1.0,1.0,D
+NZL,2013-11-17,03:00,Waitakere United,Team Wellington,2,0,H,1.0,0.0,H
+NZL,2013-11-23,04:00,WaiBOP United,Hawke’s Bay United FC,0,2,A,0.0,0.0,D
+NZL,2013-11-24,01:00,Canterbury United,Auckland City FC,0,0,D,0.0,0.0,D
+NZL,2013-11-24,01:00,Team Wellington,Otago United,3,1,H,2.0,1.0,H
+NZL,2013-11-24,03:00,Waitakere United,Wanderers SC,4,1,H,1.0,0.0,H
+NZL,2013-11-30,01:00,Auckland City FC,Waitakere United,2,0,H,1.0,0.0,H
+NZL,2013-11-30,23:00,Hawke’s Bay United FC,Team Wellington,1,2,A,0.0,0.0,D
+NZL,2013-12-01,01:00,Otago United,Canterbury United,0,3,A,0.0,1.0,A
+NZL,2013-12-01,01:00,Wanderers SC,WaiBOP United,3,3,D,1.0,2.0,A
+NZL,2013-12-07,04:00,WaiBOP United,Otago United,4,2,H,2.0,0.0,H
+NZL,2013-12-08,01:00,Canterbury United,Team Wellington,2,0,H,2.0,0.0,H
+NZL,2013-12-08,03:00,Waitakere United,Hawke’s Bay United FC,2,2,D,2.0,1.0,H
+NZL,2013-12-14,01:45,Team Wellington,Wanderers SC,3,2,H,2.0,1.0,H
+NZL,2013-12-14,03:00,Waitakere United,WaiBOP United,3,0,H,1.0,0.0,H
+NZL,2013-12-14,04:00,Hawke’s Bay United FC,Canterbury United,1,0,H,0.0,0.0,D
+NZL,2013-12-22,01:00,Wanderers SC,Otago United,1,2,A,0.0,1.0,A
+NZL,2013-12-22,01:00,Canterbury United,Waitakere United,3,2,H,2.0,0.0,H
+NZL,2013-12-22,01:00,Auckland City FC,Hawke’s Bay United FC,4,4,D,1.0,3.0,A
+NZL,2013-12-22,03:15,Team Wellington,WaiBOP United,3,2,H,2.0,2.0,D
+NZL,2014-01-12,00:00,Waitakere United,Otago United,1,3,A,1.0,2.0,A
+NZL,2014-01-12,01:00,Canterbury United,WaiBOP United,1,0,H,0.0,0.0,D
+NZL,2014-01-12,01:00,Auckland City FC,Team Wellington,3,2,H,1.0,0.0,H
+NZL,2014-01-12,02:00,Wanderers SC,Hawke’s Bay United FC,3,0,H,,,
+NZL,2014-01-18,04:00,Otago United,Hawke’s Bay United FC,1,6,A,0.0,2.0,A
+NZL,2014-01-18,04:00,WaiBOP United,Auckland City FC,0,2,A,0.0,1.0,A
+NZL,2014-01-19,01:00,Canterbury United,Wanderers SC,2,0,H,1.0,0.0,H
+NZL,2014-01-19,01:00,Team Wellington,Waitakere United,3,1,H,1.0,0.0,H
+NZL,2014-01-22,05:00,Wanderers SC,Auckland City FC,0,2,A,0.0,0.0,D
+NZL,2014-01-25,04:00,Hawke’s Bay United FC,WaiBOP United,3,2,H,3.0,1.0,H
+NZL,2014-01-26,01:00,Auckland City FC,Canterbury United,1,1,D,1.0,0.0,H
+NZL,2014-01-26,01:00,Otago United,Team Wellington,2,2,D,1.0,1.0,D
+NZL,2014-01-26,01:00,Wanderers SC,Waitakere United,1,6,A,0.0,2.0,A
+NZL,2014-02-01,01:00,WaiBOP United,Wanderers SC,3,1,H,1.0,0.0,H
+NZL,2014-02-02,01:00,Team Wellington,Hawke’s Bay United FC,6,1,H,0.0,1.0,A
+NZL,2014-02-02,01:00,Canterbury United,Otago United,2,0,H,0.0,0.0,D
+NZL,2014-02-02,03:00,Waitakere United,Auckland City FC,1,0,H,1.0,0.0,H
+NZL,2014-02-06,01:00,Hawke’s Bay United FC,Wanderers SC,1,0,H,0.0,0.0,D
+NZL,2014-02-06,01:00,Auckland City FC,Otago United,3,0,H,2.0,0.0,H
+NZL,2014-02-09,00:00,Otago United,WaiBOP United,1,6,A,0.0,3.0,A
+NZL,2014-02-09,01:00,Team Wellington,Canterbury United,3,3,D,2.0,2.0,D
+NZL,2014-02-09,01:00,Hawke’s Bay United FC,Waitakere United,2,1,H,2.0,0.0,H
+NZL,2014-02-09,01:00,Auckland City FC,Wanderers SC,2,1,H,2.0,0.0,H
+NZL,2014-02-15,04:00,WaiBOP United,Waitakere United,1,1,D,0.0,0.0,D
+NZL,2014-02-16,00:00,Otago United,Auckland City FC,0,10,A,0.0,2.0,A
+NZL,2014-02-16,01:00,Canterbury United,Hawke’s Bay United FC,1,2,A,0.0,1.0,A
+NZL,2014-02-16,02:00,Wanderers SC,Team Wellington,1,4,A,0.0,1.0,A
+NZL,2014-02-21,23:30,WaiBOP United,Team Wellington,0,5,A,0.0,1.0,A
+NZL,2014-02-22,04:00,Hawke’s Bay United FC,Auckland City FC,1,4,A,0.0,1.0,A
+NZL,2014-02-23,01:00,Otago United,Wanderers SC,5,3,H,4.0,1.0,H
+NZL,2014-02-23,03:00,Waitakere United,Canterbury United,3,1,H,2.0,0.0,H
+NZL,2014-03-01,01:00,Waitakere United,Auckland City FC,0,4,A,0.0,2.0,A
+NZL,2014-03-02,01:00,Hawke’s Bay United FC,Team Wellington,1,2,A,0.0,0.0,D
+NZL,2014-03-08,00:00,Team Wellington,Hawke’s Bay United FC,1,0,H,0.0,0.0,D
+NZL,2014-03-09,01:00,Auckland City FC,Waitakere United,4,1,H,3.0,0.0,H
+NZL,2014-03-16,01:35,Auckland City FC,Team Wellington,1,0,H,1.0,0.0,H

@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,2013-08-17,17:30,Rabat Ajax,Birkirkara FC,1,2,A,1.0,2.0,A
+MLT,2013-08-17,19:30,Vittoriosa Stars,Balzan Youths,2,2,D,1.0,1.0,D
+MLT,2013-08-18,17:30,Valletta FC,Mosta FC,2,1,H,1.0,0.0,H
+MLT,2013-08-18,17:30,Naxxar Lions FC,Floriana FC,1,1,D,0.0,0.0,D
+MLT,2013-08-18,19:30,Tarxien Rainbows,Hibernians FC,0,1,A,0.0,0.0,D
+MLT,2013-08-18,19:45,Sliema Wanderers,Qormi FC,4,0,H,1.0,0.0,H
+MLT,2013-08-24,17:30,Qormi FC,Naxxar Lions FC,1,2,A,1.0,2.0,A
+MLT,2013-08-24,17:30,Balzan Youths,Rabat Ajax,2,0,H,1.0,0.0,H
+MLT,2013-08-24,19:30,Birkirkara FC,Sliema Wanderers,1,1,D,0.0,0.0,D
+MLT,2013-08-24,19:45,Floriana FC,Tarxien Rainbows,1,2,A,0.0,1.0,A
+MLT,2013-08-25,17:30,Mosta FC,Vittoriosa Stars,2,0,H,0.0,0.0,D
+MLT,2013-08-25,19:30,Hibernians FC,Valletta FC,3,2,H,1.0,2.0,A
+MLT,2013-08-31,17:30,Sliema Wanderers,Naxxar Lions FC,2,0,H,1.0,0.0,H
+MLT,2013-08-31,17:30,Vittoriosa Stars,Hibernians FC,2,5,A,2.0,4.0,A
+MLT,2013-08-31,19:30,Valletta FC,Floriana FC,3,0,H,1.0,0.0,H
+MLT,2013-08-31,19:45,Birkirkara FC,Balzan Youths,2,1,H,0.0,1.0,A
+MLT,2013-09-01,17:30,Rabat Ajax,Mosta FC,0,3,A,0.0,0.0,D
+MLT,2013-09-01,19:30,Tarxien Rainbows,Qormi FC,2,6,A,0.0,3.0,A
+MLT,2013-09-14,16:00,Naxxar Lions FC,Tarxien Rainbows,3,1,H,2.0,1.0,H
+MLT,2013-09-14,18:00,Balzan Youths,Sliema Wanderers,0,1,A,0.0,1.0,A
+MLT,2013-09-15,16:00,Hibernians FC,Rabat Ajax,4,1,H,1.0,1.0,D
+MLT,2013-09-15,16:00,Floriana FC,Vittoriosa Stars,2,1,H,0.0,0.0,D
+MLT,2013-09-15,18:00,Qormi FC,Valletta FC,0,1,A,0.0,0.0,D
+MLT,2013-09-15,18:15,Mosta FC,Birkirkara FC,1,3,A,1.0,1.0,D
+MLT,2013-09-21,16:00,Vittoriosa Stars,Qormi FC,1,0,H,1.0,0.0,H
+MLT,2013-09-21,16:00,Sliema Wanderers,Tarxien Rainbows,3,3,D,2.0,2.0,D
+MLT,2013-09-21,18:00,Rabat Ajax,Floriana FC,0,4,A,0.0,1.0,A
+MLT,2013-09-21,18:15,Valletta FC,Naxxar Lions FC,1,0,H,1.0,0.0,H
+MLT,2013-09-22,16:00,Balzan Youths,Mosta FC,1,3,A,0.0,2.0,A
+MLT,2013-09-22,18:00,Birkirkara FC,Hibernians FC,0,1,A,0.0,1.0,A
+MLT,2013-09-28,16:00,Naxxar Lions FC,Mosta FC,2,4,A,0.0,2.0,A
+MLT,2013-09-28,16:00,Vittoriosa Stars,Rabat Ajax,1,0,H,1.0,0.0,H
+MLT,2013-09-28,18:00,Qormi FC,Hibernians FC,1,4,A,0.0,3.0,A
+MLT,2013-09-28,18:15,Tarxien Rainbows,Balzan Youths,3,1,H,1.0,0.0,H
+MLT,2013-09-29,16:00,Floriana FC,Sliema Wanderers,0,1,A,0.0,1.0,A
+MLT,2013-09-29,18:00,Valletta FC,Birkirkara FC,0,1,A,0.0,1.0,A
+MLT,2013-10-05,15:00,Vittoriosa Stars,Tarxien Rainbows,2,2,D,0.0,1.0,A
+MLT,2013-10-05,15:00,Balzan Youths,Floriana FC,0,0,D,0.0,0.0,D
+MLT,2013-10-05,17:00,Birkirkara FC,Qormi FC,1,1,D,0.0,0.0,D
+MLT,2013-10-05,17:15,Mosta FC,Hibernians FC,0,2,A,0.0,0.0,D
+MLT,2013-10-06,15:00,Rabat Ajax,Naxxar Lions FC,1,2,A,1.0,0.0,H
+MLT,2013-10-06,17:00,Sliema Wanderers,Valletta FC,0,3,A,0.0,2.0,A
+MLT,2013-10-19,15:00,Tarxien Rainbows,Rabat Ajax,0,1,A,,,
+MLT,2013-10-19,17:15,Hibernians FC,Sliema Wanderers,2,2,D,,,
+MLT,2013-10-20,15:00,Qormi FC,Balzan Youths,1,2,A,,,
+MLT,2013-10-20,15:00,Floriana FC,Mosta FC,2,1,H,,,
+MLT,2013-10-20,17:00,Valletta FC,Vittoriosa Stars,2,1,H,,,
+MLT,2013-10-20,17:15,Naxxar Lions FC,Birkirkara FC,0,1,A,,,
+MLT,2013-10-26,15:00,Balzan Youths,Naxxar Lions FC,0,3,A,,,
+MLT,2013-10-26,15:00,Sliema Wanderers,Vittoriosa Stars,2,0,H,,,
+MLT,2013-10-26,17:00,Birkirkara FC,Tarxien Rainbows,1,0,H,,,
+MLT,2013-10-26,17:15,Rabat Ajax,Valletta FC,1,4,A,,,
+MLT,2013-10-27,15:00,Mosta FC,Qormi FC,1,2,A,,,
+MLT,2013-10-27,17:15,Hibernians FC,Floriana FC,2,2,D,,,
+MLT,2013-11-02,13:00,Qormi FC,Rabat Ajax,0,0,D,,,
+MLT,2013-11-02,13:00,Hibernians FC,Balzan Youths,1,0,H,,,
+MLT,2013-11-02,15:15,Tarxien Rainbows,Valletta FC,0,3,A,,,
+MLT,2013-11-02,15:15,Mosta FC,Sliema Wanderers,3,2,H,,,
+MLT,2013-11-03,13:00,Naxxar Lions FC,Vittoriosa Stars,1,1,D,,,
+MLT,2013-11-03,15:15,Floriana FC,Birkirkara FC,1,3,A,,,
+MLT,2013-11-09,13:00,Birkirkara FC,Vittoriosa Stars,2,0,H,,,
+MLT,2013-11-09,13:00,Hibernians FC,Naxxar Lions FC,4,1,H,,,
+MLT,2013-11-09,15:15,Floriana FC,Qormi FC,3,0,H,,,
+MLT,2013-11-09,15:15,Sliema Wanderers,Rabat Ajax,4,1,H,,,
+MLT,2013-11-10,13:00,Mosta FC,Tarxien Rainbows,2,2,D,,,
+MLT,2013-11-10,15:15,Balzan Youths,Valletta FC,1,1,D,,,
+MLT,2013-11-23,13:00,Birkirkara FC,Rabat Ajax,4,2,H,,,
+MLT,2013-11-23,13:00,Balzan Youths,Vittoriosa Stars,2,1,H,,,
+MLT,2013-11-23,15:00,Floriana FC,Naxxar Lions FC,1,0,H,,,
+MLT,2013-11-23,15:00,Hibernians FC,Tarxien Rainbows,0,1,A,,,
+MLT,2013-11-24,13:00,Qormi FC,Sliema Wanderers,1,3,A,,,
+MLT,2013-11-24,15:00,Mosta FC,Valletta FC,0,6,A,,,
+MLT,2013-12-07,13:00,Naxxar Lions FC,Sliema Wanderers,2,2,D,,,
+MLT,2013-12-07,13:00,Hibernians FC,Vittoriosa Stars,5,1,H,,,
+MLT,2013-12-07,15:00,Balzan Youths,Birkirkara FC,1,2,A,,,
+MLT,2013-12-07,15:15,Mosta FC,Rabat Ajax,4,0,H,,,
+MLT,2013-12-08,13:00,Qormi FC,Tarxien Rainbows,3,0,H,,,
+MLT,2013-12-08,15:00,Floriana FC,Valletta FC,0,2,A,,,
+MLT,2013-12-10,17:00,Vittoriosa Stars,Mosta FC,2,5,A,,,
+MLT,2013-12-10,19:00,Sliema Wanderers,Birkirkara FC,1,3,A,,,
+MLT,2013-12-11,17:00,Naxxar Lions FC,Qormi FC,1,3,A,,,
+MLT,2013-12-11,17:00,Rabat Ajax,Balzan Youths,2,2,D,,,
+MLT,2013-12-11,19:00,Valletta FC,Hibernians FC,2,1,H,,,
+MLT,2013-12-11,19:15,Tarxien Rainbows,Floriana FC,1,3,A,,,
+MLT,2013-12-14,13:00,Rabat Ajax,Hibernians FC,1,4,A,,,
+MLT,2013-12-14,13:00,Tarxien Rainbows,Naxxar Lions FC,0,2,A,,,
+MLT,2013-12-14,15:00,Sliema Wanderers,Balzan Youths,3,0,H,,,
+MLT,2013-12-14,15:00,Vittoriosa Stars,Floriana FC,1,3,A,,,
+MLT,2013-12-15,13:00,Birkirkara FC,Mosta FC,2,1,H,,,
+MLT,2013-12-15,15:00,Valletta FC,Qormi FC,4,0,H,,,
+MLT,2013-12-21,13:00,Mosta FC,Balzan Youths,0,2,A,,,
+MLT,2013-12-21,13:00,Tarxien Rainbows,Sliema Wanderers,0,0,D,,,
+MLT,2013-12-21,15:00,Qormi FC,Vittoriosa Stars,1,2,A,,,
+MLT,2013-12-21,15:15,Naxxar Lions FC,Valletta FC,2,1,H,,,
+MLT,2013-12-22,13:00,Floriana FC,Rabat Ajax,3,2,H,,,
+MLT,2013-12-22,15:00,Hibernians FC,Birkirkara FC,1,2,A,,,
+MLT,2014-01-04,13:00,Vittoriosa Stars,Naxxar Lions FC,0,1,A,,,
+MLT,2014-01-04,13:00,Rabat Ajax,Qormi FC,0,0,D,,,
+MLT,2014-01-04,15:00,Valletta FC,Tarxien Rainbows,2,1,H,,,
+MLT,2014-01-04,15:00,Sliema Wanderers,Mosta FC,1,1,D,,,
+MLT,2014-01-05,13:00,Balzan Youths,Hibernians FC,0,2,A,,,
+MLT,2014-01-05,15:00,Birkirkara FC,Floriana FC,3,0,H,,,
+MLT,2014-01-11,13:00,Tarxien Rainbows,Vittoriosa Stars,0,3,A,,,
+MLT,2014-01-11,13:00,Floriana FC,Balzan Youths,1,2,A,,,
+MLT,2014-01-11,15:00,Hibernians FC,Mosta FC,2,3,A,,,
+MLT,2014-01-11,15:15,Naxxar Lions FC,Rabat Ajax,3,0,H,,,
+MLT,2014-01-12,13:00,Valletta FC,Sliema Wanderers,0,0,D,,,
+MLT,2014-01-12,15:00,Qormi FC,Birkirkara FC,1,3,A,,,
+MLT,2014-01-18,13:00,Rabat Ajax,Tarxien Rainbows,2,6,A,,,
+MLT,2014-01-18,13:00,Balzan Youths,Qormi FC,1,0,H,,,
+MLT,2014-01-18,15:00,Vittoriosa Stars,Valletta FC,0,4,A,,,
+MLT,2014-01-18,15:00,Birkirkara FC,Naxxar Lions FC,7,1,H,,,
+MLT,2014-01-19,13:00,Mosta FC,Floriana FC,1,0,H,,,
+MLT,2014-01-19,15:00,Sliema Wanderers,Hibernians FC,3,1,H,,,
+MLT,2014-01-26,13:00,Qormi FC,Mosta FC,2,3,A,,,
+MLT,2014-01-26,13:00,Vittoriosa Stars,Sliema Wanderers,1,2,A,,,
+MLT,2014-01-26,15:00,Floriana FC,Hibernians FC,0,4,A,,,
+MLT,2014-01-26,15:15,Valletta FC,Rabat Ajax,6,1,H,,,
+MLT,2014-01-27,17:00,Naxxar Lions FC,Balzan Youths,0,1,A,,,
+MLT,2014-01-27,19:00,Tarxien Rainbows,Birkirkara FC,1,3,A,,,
+MLT,2014-02-01,13:00,Rabat Ajax,Vittoriosa Stars,0,1,A,,,
+MLT,2014-02-01,15:15,Balzan Youths,Tarxien Rainbows,3,2,H,,,
+MLT,2014-02-02,13:00,Mosta FC,Naxxar Lions FC,4,0,H,,,
+MLT,2014-02-02,15:00,Birkirkara FC,Valletta FC,1,2,A,,,
+MLT,2014-02-03,17:00,Hibernians FC,Qormi FC,5,3,H,,,
+MLT,2014-02-03,19:00,Sliema Wanderers,Floriana FC,4,1,H,,,
+MLT,2014-02-08,13:00,Naxxar Lions FC,Hibernians FC,0,3,A,,,
+MLT,2014-02-08,13:00,Valletta FC,Balzan Youths,1,0,H,,,
+MLT,2014-02-08,15:00,Vittoriosa Stars,Birkirkara FC,1,4,A,,,
+MLT,2014-02-08,15:15,Rabat Ajax,Sliema Wanderers,1,2,A,,,
+MLT,2014-02-09,13:00,Tarxien Rainbows,Mosta FC,0,1,A,,,
+MLT,2014-02-09,15:00,Qormi FC,Floriana FC,2,2,D,,,

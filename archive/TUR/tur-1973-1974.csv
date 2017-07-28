@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+TUR,1973-09-08,,Vefa Istanbul,MKE Ankaragücü,0,2,A,0,0,D
+TUR,1973-09-09,,Galatasaray,Boluspor,3,1,H,2,0,H
+TUR,1973-09-09,,Giresunspor,Adanaspor,2,2,D,1,0,H
+TUR,1973-09-09,,Adana Demirspor,Mersin Idmanyurdu,1,0,H,1,0,H
+TUR,1973-09-09,,Kayserispor,Göztepe,0,0,D,0,0,D
+TUR,1973-09-09,,Samsunspor,Fenerbahçe,1,0,H,0,0,D
+TUR,1973-09-09,,Bursaspor,Beşiktaş,1,1,D,0,0,D
+TUR,1973-09-09,,Altay Izmir,Eskişehirspor,1,0,H,1,0,H
+TUR,1973-09-15,,MKE Ankaragücü,Galatasaray,0,0,D,0,0,D
+TUR,1973-09-15,,Fenerbahçe,Adana Demirspor,1,0,H,1,0,H
+TUR,1973-09-16,,Göztepe,Vefa Istanbul,1,1,D,0,1,A
+TUR,1973-09-16,,Beşiktaş,Giresunspor,1,0,H,1,0,H
+TUR,1973-09-16,,Mersin Idmanyurdu,Kayserispor,0,1,A,0,0,D
+TUR,1973-09-16,,Eskişehirspor,Samsunspor,1,0,H,1,0,H
+TUR,1973-09-16,,Boluspor,Bursaspor,0,0,D,0,0,D
+TUR,1973-09-16,,Adanaspor,Altay Izmir,0,0,D,0,0,D
+TUR,1973-09-22,,Galatasaray,Adanaspor,1,0,H,1,0,H
+TUR,1973-09-23,,Vefa Istanbul,Samsunspor,2,0,H,1,0,H
+TUR,1973-09-23,,Giresunspor,MKE Ankaragücü,2,2,D,2,2,D
+TUR,1973-09-23,,Bursaspor,Mersin Idmanyurdu,2,0,H,1,0,H
+TUR,1973-09-23,,Altay Izmir,Göztepe,1,2,A,0,0,D
+TUR,1973-09-23,,Boluspor,Fenerbahçe,1,1,D,1,0,H
+TUR,1973-09-23,,Adana Demirspor,Beşiktaş,1,1,D,0,1,A
+TUR,1973-09-23,,Kayserispor,Eskişehirspor,2,2,D,1,1,D
+TUR,1973-09-29,,Vefa Istanbul,Beşiktaş,0,0,D,0,0,D
+TUR,1973-09-30,,Samsunspor,Giresunspor,1,0,H,0,0,D
+TUR,1973-09-30,,Altay Izmir,Bursaspor,2,1,H,1,0,H
+TUR,1973-09-30,,Mersin Idmanyurdu,Boluspor,1,1,D,0,0,D
+TUR,1973-09-30,,Kayserispor,Adanaspor,1,1,D,1,1,D
+TUR,1973-09-30,,Adana Demirspor,Göztepe,2,2,D,1,2,A
+TUR,1973-09-30,,Galatasaray,Fenerbahçe,0,0,D,0,0,D
+TUR,1973-09-30,,MKE Ankaragücü,Eskişehirspor,1,0,H,1,0,H
+TUR,1973-10-06,,Beşiktaş,Kayserispor,3,0,H,1,0,H
+TUR,1973-10-07,,Adanaspor,Vefa Istanbul,1,0,H,1,0,H
+TUR,1973-10-07,,Eskişehirspor,Galatasaray,2,0,H,1,0,H
+TUR,1973-10-07,,Göztepe,Giresunspor,3,0,H,1,0,H
+TUR,1973-10-07,,Boluspor,Adana Demirspor,1,1,D,0,1,A
+TUR,1973-10-07,,Mersin Idmanyurdu,Samsunspor,1,0,H,1,0,H
+TUR,1973-10-07,,Fenerbahçe,Altay Izmir,2,1,H,1,0,H
+TUR,1973-10-07,,Bursaspor,MKE Ankaragücü,1,0,H,1,0,H
+TUR,1973-10-20,,Galatasaray,Göztepe,1,0,H,0,0,D
+TUR,1973-10-21,,Vefa Istanbul,Adana Demirspor,1,0,H,0,0,D
+TUR,1973-10-21,,Samsunspor,Kayserispor,1,0,H,1,0,H
+TUR,1973-10-21,,Adanaspor,Bursaspor,0,0,D,0,0,D
+TUR,1973-10-21,,Eskişehirspor,Boluspor,2,2,D,1,0,H
+TUR,1973-10-21,,MKE Ankaragücü,Mersin Idmanyurdu,2,1,H,1,0,H
+TUR,1973-10-21,,Altay Izmir,Beşiktaş,1,0,H,0,0,D
+TUR,1973-10-27,,Fenerbahçe,Bursaspor,3,1,H,1,0,H
+TUR,1973-10-28,,Mersin Idmanyurdu,Vefa Istanbul,2,0,H,2,0,H
+TUR,1973-10-28,,Samsunspor,Galatasaray,0,0,D,0,0,D
+TUR,1973-10-28,,Giresunspor,Altay Izmir,2,1,H,1,1,D
+TUR,1973-10-28,,Beşiktaş,MKE Ankaragücü,2,1,H,1,0,H
+TUR,1973-10-28,,Kayserispor,Boluspor,1,1,D,0,1,A
+TUR,1973-10-28,,Göztepe,Adanaspor,2,0,H,0,0,D
+TUR,1973-10-28,,Adana Demirspor,Eskişehirspor,1,0,H,1,0,H
+TUR,1973-11-03,,Fenerbahçe,Vefa Istanbul,0,0,D,0,0,D
+TUR,1973-11-04,,Beşiktaş,Galatasaray,2,1,H,1,1,D
+TUR,1973-11-04,,Altay Izmir,Kayserispor,0,0,D,0,0,D
+TUR,1973-11-04,,Bursaspor,Samsunspor,1,0,H,1,0,H
+TUR,1973-11-04,,Adana Demirspor,Adanaspor,0,0,D,0,0,D
+TUR,1973-11-04,,MKE Ankaragücü,Göztepe,1,0,H,1,0,H
+TUR,1973-11-04,,Mersin Idmanyurdu,Eskişehirspor,2,1,H,2,0,H
+TUR,1973-11-11,,Samsunspor,Adana Demirspor,0,0,D,0,0,D
+TUR,1973-11-11,,Eskişehirspor,Bursaspor,1,0,H,0,0,D
+TUR,1973-11-11,,Galatasaray,Altay Izmir,1,0,H,0,0,D
+TUR,1973-11-11,,Adanaspor,MKE Ankaragücü,2,1,H,0,0,D
+TUR,1973-11-11,,Vefa Istanbul,Boluspor,2,2,D,1,1,D
+TUR,1973-11-11,,Giresunspor,Mersin Idmanyurdu,1,0,H,0,0,D
+TUR,1973-11-11,,Kayserispor,Fenerbahçe,0,0,D,0,0,D
+TUR,1973-11-11,,Göztepe,Beşiktaş,2,0,H,1,0,H
+TUR,1973-11-24,,Beşiktaş,Adanaspor,2,1,H,0,0,D
+TUR,1973-11-25,,Bursaspor,Vefa Istanbul,0,0,D,0,0,D
+TUR,1973-11-25,,Adana Demirspor,Galatasaray,0,0,D,0,0,D
+TUR,1973-11-25,,Altay Izmir,MKE Ankaragücü,4,2,H,2,0,H
+TUR,1973-11-25,,Samsunspor,Boluspor,1,2,A,0,2,A
+TUR,1973-11-25,,Fenerbahçe,Mersin Idmanyurdu,0,0,D,0,0,D
+TUR,1973-11-25,,Eskişehirspor,Göztepe,3,0,H,1,0,H
+TUR,1973-12-01,,Galatasaray,Kayserispor,1,0,H,0,0,D
+TUR,1973-12-02,,MKE Ankaragücü,Adana Demirspor,1,0,H,1,0,H
+TUR,1973-12-02,,Göztepe,Samsunspor,3,0,H,1,0,H
+TUR,1973-12-02,,Giresunspor,Bursaspor,3,1,H,0,0,D
+TUR,1973-12-02,,Mersin Idmanyurdu,Altay Izmir,0,1,A,0,1,A
+TUR,1973-12-02,,Adanaspor,Fenerbahçe,1,1,D,0,0,D
+TUR,1973-12-02,,Boluspor,Beşiktaş,1,1,D,1,1,D
+TUR,1973-12-02,,Vefa Istanbul,Eskişehirspor,1,3,A,0,2,A
+TUR,1973-12-08,,Giresunspor,Fenerbahçe,1,1,D,1,1,D
+TUR,1973-12-15,,Vefa Istanbul,Galatasaray,0,1,A,0,1,A
+TUR,1973-12-16,,Adana Demirspor,Giresunspor,2,0,H,1,0,H
+TUR,1973-12-16,,Kayserispor,Bursaspor,0,1,A,0,1,A
+TUR,1973-12-16,,Boluspor,Altay Izmir,0,0,D,0,0,D
+TUR,1973-12-16,,Samsunspor,MKE Ankaragücü,1,1,D,1,1,D
+TUR,1973-12-16,,Eskişehirspor,Adanaspor,1,0,H,0,0,D
+TUR,1973-12-16,,Göztepe,Mersin Idmanyurdu,0,0,D,0,0,D
+TUR,1973-12-16,,Beşiktaş,Fenerbahçe,0,0,D,0,0,D
+TUR,1973-12-22,,Fenerbahçe,Göztepe,4,0,H,2,0,H
+TUR,1973-12-23,,Altay Izmir,Vefa Istanbul,2,0,H,2,0,H
+TUR,1973-12-23,,Mersin Idmanyurdu,Galatasaray,0,0,D,0,0,D
+TUR,1973-12-23,,Bursaspor,Adana Demirspor,1,2,A,1,1,D
+TUR,1973-12-23,,MKE Ankaragücü,Kayserispor,3,2,H,2,2,D
+TUR,1973-12-23,,Beşiktaş,Samsunspor,4,0,H,2,0,H
+TUR,1973-12-23,,Adanaspor,Boluspor,1,1,D,1,0,H
+TUR,1973-12-23,,Giresunspor,Eskişehirspor,1,1,D,0,0,D
+TUR,1973-12-29,,Galatasaray,Bursaspor,4,0,H,2,0,H
+TUR,1973-12-30,,Vefa Istanbul,Giresunspor,0,0,D,0,0,D
+TUR,1973-12-30,,Adana Demirspor,Kayserispor,1,0,H,1,0,H
+TUR,1973-12-30,,Samsunspor,Altay Izmir,1,0,H,0,0,D
+TUR,1973-12-30,,Göztepe,Boluspor,2,3,A,0,3,A
+TUR,1973-12-30,,Mersin Idmanyurdu,Adanaspor,0,0,D,0,0,D
+TUR,1973-12-30,,MKE Ankaragücü,Fenerbahçe,0,1,A,0,1,A
+TUR,1973-12-30,,Eskişehirspor,Beşiktaş,0,0,D,0,0,D
+TUR,1974-01-05,,Beşiktaş,Mersin Idmanyurdu,1,0,H,1,0,H
+TUR,1974-01-06,,Kayserispor,Vefa Istanbul,2,0,H,2,0,H
+TUR,1974-01-06,,Giresunspor,Galatasaray,0,0,D,0,0,D
+TUR,1974-01-06,,Altay Izmir,Adana Demirspor,2,1,H,1,0,H
+TUR,1974-01-06,,Adanaspor,Samsunspor,2,0,H,1,0,H
+TUR,1974-01-06,,Boluspor,MKE Ankaragücü,3,0,H,0,0,D
+TUR,1974-01-06,,Bursaspor,Göztepe,0,0,D,0,0,D
+TUR,1974-01-06,,Fenerbahçe,Eskişehirspor,3,1,H,1,1,D
+TUR,1974-01-13,,Boluspor,Giresunspor,2,1,H,1,0,H
+TUR,1974-01-20,,Kayserispor,Giresunspor,1,0,H,0,0,D
+TUR,1974-02-09,,Fenerbahçe,Samsunspor,2,0,H,0,0,D
+TUR,1974-02-10,,MKE Ankaragücü,Vefa Istanbul,1,0,H,0,0,D
+TUR,1974-02-10,,Boluspor,Galatasaray,1,0,H,1,0,H
+TUR,1974-02-10,,Adanaspor,Giresunspor,1,0,H,0,0,D
+TUR,1974-02-10,,Mersin Idmanyurdu,Adana Demirspor,1,0,H,1,0,H
+TUR,1974-02-10,,Göztepe,Kayserispor,1,0,H,0,0,D
+TUR,1974-02-10,,Beşiktaş,Bursaspor,0,0,D,0,0,D
+TUR,1974-02-10,,Eskişehirspor,Altay Izmir,1,0,H,0,0,D
+TUR,1974-02-16,,Vefa Istanbul,Göztepe,1,0,H,0,0,D
+TUR,1974-02-17,,Galatasaray,MKE Ankaragücü,3,0,H,1,0,H
+TUR,1974-02-17,,Bursaspor,Boluspor,0,0,D,0,0,D
+TUR,1974-02-17,,Altay Izmir,Adanaspor,1,0,H,0,0,D
+TUR,1974-02-17,,Kayserispor,Mersin Idmanyurdu,2,0,H,1,0,H
+TUR,1974-02-17,,Adana Demirspor,Fenerbahçe,0,0,D,0,0,D
+TUR,1974-02-17,,Giresunspor,Beşiktaş,1,1,D,0,0,D
+TUR,1974-02-17,,Samsunspor,Eskişehirspor,1,1,D,0,1,A
+TUR,1974-02-23,,Beşiktaş,Adana Demirspor,1,0,H,1,0,H
+TUR,1974-02-24,,Samsunspor,Vefa Istanbul,3,1,H,1,1,D
+TUR,1974-02-24,,Adanaspor,Galatasaray,0,0,D,0,0,D
+TUR,1974-02-24,,MKE Ankaragücü,Giresunspor,1,2,A,0,0,D
+TUR,1974-02-24,,Eskişehirspor,Kayserispor,0,0,D,0,0,D
+TUR,1974-02-24,,Mersin Idmanyurdu,Bursaspor,1,0,H,0,0,D
+TUR,1974-02-24,,Göztepe,Altay Izmir,1,1,D,1,0,H
+TUR,1974-02-24,,Fenerbahçe,Boluspor,0,0,D,0,0,D
+TUR,1974-03-02,,Beşiktaş,Vefa Istanbul,2,1,H,1,1,D
+TUR,1974-03-03,,Fenerbahçe,Galatasaray,2,1,H,2,0,H
+TUR,1974-03-03,,Göztepe,Adana Demirspor,0,0,D,0,0,D
+TUR,1974-03-03,,Adanaspor,Kayserispor,0,0,D,0,0,D
+TUR,1974-03-03,,Giresunspor,Samsunspor,1,1,D,0,0,D
+TUR,1974-03-03,,Bursaspor,Altay Izmir,0,0,D,0,0,D
+TUR,1974-03-03,,Eskişehirspor,MKE Ankaragücü,2,1,H,1,0,H
+TUR,1974-03-03,,Boluspor,Mersin Idmanyurdu,1,0,H,0,0,D
+TUR,1974-03-09,,Galatasaray,Eskişehirspor,3,0,H,1,0,H
+TUR,1974-03-10,,MKE Ankaragücü,Bursaspor,1,0,H,0,0,D
+TUR,1974-03-10,,Adana Demirspor,Boluspor,0,0,D,0,0,D
+TUR,1974-03-10,,Vefa Istanbul,Adanaspor,0,0,D,0,0,D
+TUR,1974-03-10,,Samsunspor,Mersin Idmanyurdu,1,0,H,1,0,H
+TUR,1974-03-10,,Giresunspor,Göztepe,1,0,H,1,0,H
+TUR,1974-03-10,,Altay Izmir,Fenerbahçe,0,1,A,0,0,D
+TUR,1974-03-10,,Kayserispor,Beşiktaş,0,0,D,0,0,D
+TUR,1974-03-16,,Fenerbahçe,Giresunspor,1,1,D,0,0,D
+TUR,1974-03-17,,Adana Demirspor,Vefa Istanbul,3,0,H,0,0,D
+TUR,1974-03-17,,Göztepe,Galatasaray,1,1,D,0,0,D
+TUR,1974-03-17,,Kayserispor,Samsunspor,0,2,A,0,1,A
+TUR,1974-03-17,,Beşiktaş,Altay Izmir,1,1,D,1,1,D
+TUR,1974-03-17,,Mersin Idmanyurdu,MKE Ankaragücü,0,0,D,0,0,D
+TUR,1974-03-17,,Bursaspor,Adanaspor,2,0,H,2,0,H
+TUR,1974-03-17,,Boluspor,Eskişehirspor,1,0,H,0,0,D
+TUR,1974-03-23,,Vefa Istanbul,Mersin Idmanyurdu,0,1,A,0,1,A
+TUR,1974-03-24,,Altay Izmir,Giresunspor,1,1,D,1,1,D
+TUR,1974-03-24,,Eskişehirspor,Adana Demirspor,1,0,H,1,0,H
+TUR,1974-03-24,,Boluspor,Kayserispor,2,0,H,1,0,H
+TUR,1974-03-24,,Galatasaray,Samsunspor,2,0,H,1,0,H
+TUR,1974-03-24,,Adanaspor,Göztepe,1,0,H,0,0,D
+TUR,1974-03-24,,Bursaspor,Fenerbahçe,1,1,D,0,1,A
+TUR,1974-03-24,,MKE Ankaragücü,Beşiktaş,1,0,H,0,0,D
+TUR,1974-03-30,,Vefa Istanbul,Fenerbahçe,1,2,A,1,2,A
+TUR,1974-03-31,,Adanaspor,Adana Demirspor,1,0,H,0,0,D
+TUR,1974-03-31,,Samsunspor,Bursaspor,3,0,H,1,0,H
+TUR,1974-03-31,,Kayserispor,Altay Izmir,0,0,D,0,0,D
+TUR,1974-03-31,,Göztepe,MKE Ankaragücü,1,0,H,1,0,H
+TUR,1974-03-31,,Giresunspor,Boluspor,0,1,A,0,0,D
+TUR,1974-03-31,,Eskişehirspor,Mersin Idmanyurdu,2,0,H,1,0,H
+TUR,1974-03-31,,Galatasaray,Beşiktaş,0,1,A,0,0,D
+TUR,1974-04-06,,Beşiktaş,Göztepe,1,1,D,0,1,A
+TUR,1974-04-07,,Boluspor,Vefa Istanbul,1,0,H,0,0,D
+TUR,1974-04-07,,Altay Izmir,Galatasaray,0,1,A,0,0,D
+TUR,1974-04-07,,Mersin Idmanyurdu,Giresunspor,2,1,H,1,0,H
+TUR,1974-04-07,,Fenerbahçe,Kayserispor,2,0,H,1,0,H
+TUR,1974-04-07,,Adana Demirspor,Samsunspor,1,2,A,1,0,H
+TUR,1974-04-07,,MKE Ankaragücü,Adanaspor,1,1,D,0,0,D
+TUR,1974-04-07,,Bursaspor,Eskişehirspor,1,1,D,1,0,H
+TUR,1974-04-13,,Galatasaray,Adana Demirspor,0,1,A,0,1,A
+TUR,1974-04-14,,Giresunspor,Kayserispor,3,0,H,2,0,H
+TUR,1974-04-14,,Boluspor,Samsunspor,1,0,H,0,0,D
+TUR,1974-04-14,,Vefa Istanbul,Bursaspor,0,2,A,0,1,A
+TUR,1974-04-14,,MKE Ankaragücü,Altay Izmir,0,1,A,0,1,A
+TUR,1974-04-14,,Mersin Idmanyurdu,Fenerbahçe,0,1,A,0,0,D
+TUR,1974-04-14,,Adanaspor,Beşiktaş,1,2,A,0,0,D
+TUR,1974-04-14,,Göztepe,Eskişehirspor,0,1,A,0,0,D
+TUR,1974-04-20,,Fenerbahçe,Adanaspor,5,1,H,1,0,H
+TUR,1974-04-21,,Eskişehirspor,Vefa Istanbul,3,0,H,0,0,D
+TUR,1974-04-21,,Kayserispor,Galatasaray,2,0,H,0,0,D
+TUR,1974-04-21,,Bursaspor,Giresunspor,1,0,H,0,0,D
+TUR,1974-04-21,,Adana Demirspor,MKE Ankaragücü,0,2,A,0,2,A
+TUR,1974-04-21,,Beşiktaş,Boluspor,1,0,H,1,0,H
+TUR,1974-04-21,,Altay Izmir,Mersin Idmanyurdu,1,0,H,0,0,D
+TUR,1974-04-21,,Samsunspor,Göztepe,0,1,A,0,0,D
+TUR,1974-04-27,,Galatasaray,Vefa Istanbul,1,2,A,1,1,D
+TUR,1974-04-28,,Giresunspor,Adana Demirspor,1,0,H,1,0,H
+TUR,1974-04-28,,Bursaspor,Kayserispor,0,0,D,0,0,D
+TUR,1974-04-28,,MKE Ankaragücü,Samsunspor,2,4,A,0,2,A
+TUR,1974-04-28,,Altay Izmir,Boluspor,1,0,H,1,0,H
+TUR,1974-04-28,,Mersin Idmanyurdu,Göztepe,1,0,H,1,0,H
+TUR,1974-04-28,,Fenerbahçe,Beşiktaş,1,1,D,1,0,H
+TUR,1974-04-28,,Adanaspor,Eskişehirspor,1,0,H,0,0,D
+TUR,1974-05-11,,Vefa Istanbul,Altay Izmir,3,2,H,1,0,H
+TUR,1974-05-12,,Eskişehirspor,Giresunspor,2,1,H,1,0,H
+TUR,1974-05-12,,Adana Demirspor,Bursaspor,1,0,H,0,0,D
+TUR,1974-05-12,,Kayserispor,MKE Ankaragücü,1,0,H,1,0,H
+TUR,1974-05-12,,Boluspor,Adanaspor,3,1,H,2,0,H
+TUR,1974-05-12,,Galatasaray,Mersin Idmanyurdu,2,0,H,0,0,D
+TUR,1974-05-12,,Göztepe,Fenerbahçe,0,2,A,0,0,D
+TUR,1974-05-12,,Samsunspor,Beşiktaş,1,1,D,1,1,D
+TUR,1974-05-18,,Beşiktaş,Eskişehirspor,0,0,D,0,0,D
+TUR,1974-05-19,,Giresunspor,Vefa Istanbul,1,0,H,1,0,H
+TUR,1974-05-19,,Bursaspor,Galatasaray,0,0,D,0,0,D
+TUR,1974-05-19,,Kayserispor,Adana Demirspor,2,0,H,1,0,H
+TUR,1974-05-19,,Altay Izmir,Samsunspor,0,0,D,0,0,D
+TUR,1974-05-19,,Fenerbahçe,MKE Ankaragücü,1,0,H,0,0,D
+TUR,1974-05-19,,Adanaspor,Mersin Idmanyurdu,1,0,H,0,0,D
+TUR,1974-05-19,,Boluspor,Göztepe,0,0,D,0,0,D
+TUR,1974-05-26,,Galatasaray,Giresunspor,2,1,H,1,1,D
+TUR,1974-05-26,,Vefa Istanbul,Kayserispor,0,1,A,0,1,A
+TUR,1974-05-26,,Göztepe,Bursaspor,1,2,A,0,1,A
+TUR,1974-05-26,,Adana Demirspor,Altay Izmir,1,0,H,0,0,D
+TUR,1974-05-26,,MKE Ankaragücü,Boluspor,1,1,D,0,1,A
+TUR,1974-05-26,,Samsunspor,Adanaspor,0,0,D,0,0,D
+TUR,1974-05-26,,Eskişehirspor,Fenerbahçe,2,1,H,1,0,H
+TUR,1974-05-26,,Mersin Idmanyurdu,Beşiktaş,2,4,A,2,1,H

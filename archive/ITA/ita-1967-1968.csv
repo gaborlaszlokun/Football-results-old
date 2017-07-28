@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,1967-09-24,,Lanerossi Vicenza,Torino FC,1,0,H,1.0,0.0,H
+ITA,1967-09-24,,SPAL 1907 Ferrara,AC Milan,1,4,A,0.0,1.0,A
+ITA,1967-09-24,,Sampdoria,Bologna FC,1,2,A,1.0,1.0,D
+ITA,1967-09-24,,SSC Napoli,Atalanta,1,0,H,1.0,0.0,H
+ITA,1967-09-24,,Inter,AS Roma,1,1,D,1.0,1.0,D
+ITA,1967-09-24,,Juventus,AC Mantova,3,1,H,1.0,0.0,H
+ITA,1967-09-24,,Brescia Calcio,Cagliari Calcio,2,1,H,1.0,0.0,H
+ITA,1967-09-24,,ACF Fiorentina,AS Varese 1910,3,1,H,1.0,0.0,H
+ITA,1967-10-01,,AC Mantova,Inter,0,0,D,0.0,0.0,D
+ITA,1967-10-01,,AS Varese 1910,Sampdoria,1,0,H,1.0,0.0,H
+ITA,1967-10-01,,Torino FC,Brescia Calcio,2,0,H,0.0,0.0,D
+ITA,1967-10-01,,AC Milan,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1967-10-01,,Lanerossi Vicenza,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1967-10-01,,Bologna FC,Cagliari Calcio,2,1,H,1.0,0.0,H
+ITA,1967-10-01,,Atalanta,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-10-01,,AS Roma,SSC Napoli,2,1,H,2.0,0.0,H
+ITA,1967-10-08,,Inter,Lanerossi Vicenza,1,0,H,1.0,0.0,H
+ITA,1967-10-08,,Juventus,AS Varese 1910,3,0,H,0.0,0.0,D
+ITA,1967-10-08,,SPAL 1907 Ferrara,AS Roma,0,1,A,0.0,0.0,D
+ITA,1967-10-08,,Sampdoria,AC Mantova,3,0,H,1.0,0.0,H
+ITA,1967-10-08,,ACF Fiorentina,Torino FC,1,1,D,0.0,1.0,A
+ITA,1967-10-08,,Cagliari Calcio,Atalanta,2,1,H,1.0,0.0,H
+ITA,1967-10-08,,Brescia Calcio,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1967-10-08,,SSC Napoli,AC Milan,1,1,D,1.0,1.0,D
+ITA,1967-10-15,,Cagliari Calcio,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,1967-10-15,,AS Varese 1910,Lanerossi Vicenza,2,0,H,0.0,0.0,D
+ITA,1967-10-15,,Torino FC,Sampdoria,4,2,H,2.0,2.0,D
+ITA,1967-10-15,,AC Milan,AC Mantova,3,1,H,3.0,0.0,H
+ITA,1967-10-15,,Brescia Calcio,SPAL 1907 Ferrara,0,1,A,0.0,1.0,A
+ITA,1967-10-15,,Bologna FC,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-10-15,,Atalanta,Inter,3,1,H,3.0,1.0,H
+ITA,1967-10-15,,AS Roma,ACF Fiorentina,2,1,H,0.0,1.0,A
+ITA,1967-10-22,,Inter,AC Milan,1,1,D,0.0,0.0,D
+ITA,1967-10-22,,Sampdoria,AS Roma,1,1,D,0.0,1.0,A
+ITA,1967-10-22,,AC Mantova,Brescia Calcio,1,0,H,1.0,0.0,H
+ITA,1967-10-22,,SPAL 1907 Ferrara,SSC Napoli,1,2,A,0.0,2.0,A
+ITA,1967-10-22,,ACF Fiorentina,Cagliari Calcio,1,0,H,1.0,0.0,H
+ITA,1967-10-22,,Atalanta,AS Varese 1910,4,0,H,0.0,0.0,D
+ITA,1967-10-22,,Juventus,Torino FC,0,4,A,0.0,2.0,A
+ITA,1967-10-22,,Lanerossi Vicenza,Bologna FC,1,1,D,0.0,1.0,A
+ITA,1967-10-29,,AC Milan,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-10-29,,AS Varese 1910,Inter,1,0,H,0.0,0.0,D
+ITA,1967-10-29,,Torino FC,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1967-10-29,,SSC Napoli,Lanerossi Vicenza,1,1,D,1.0,1.0,D
+ITA,1967-10-29,,AC Mantova,Cagliari Calcio,0,1,A,0.0,0.0,D
+ITA,1967-10-29,,Brescia Calcio,Sampdoria,1,2,A,0.0,1.0,A
+ITA,1967-10-29,,Bologna FC,ACF Fiorentina,0,1,A,0.0,0.0,D
+ITA,1967-10-29,,AS Roma,Atalanta,1,1,D,1.0,0.0,H
+ITA,1967-11-05,,ACF Fiorentina,Brescia Calcio,0,1,A,0.0,0.0,D
+ITA,1967-11-05,,Sampdoria,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,1967-11-05,,Lanerossi Vicenza,AC Mantova,2,0,H,1.0,0.0,H
+ITA,1967-11-05,,SPAL 1907 Ferrara,AS Varese 1910,1,3,A,0.0,2.0,A
+ITA,1967-11-05,,Inter,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1967-11-05,,Cagliari Calcio,AC Milan,2,2,D,1.0,1.0,D
+ITA,1967-11-05,,Atalanta,Torino FC,1,1,D,1.0,0.0,H
+ITA,1967-11-05,,Juventus,AS Roma,0,1,A,0.0,0.0,D
+ITA,1967-11-12,,Bologna FC,SPAL 1907 Ferrara,2,3,A,2.0,1.0,H
+ITA,1967-11-12,,Brescia Calcio,Inter,2,0,H,1.0,0.0,H
+ITA,1967-11-12,,Cagliari Calcio,Juventus,2,0,H,1.0,0.0,H
+ITA,1967-11-12,,AC Mantova,Atalanta,1,0,H,1.0,0.0,H
+ITA,1967-11-12,,AC Milan,Sampdoria,2,0,H,1.0,0.0,H
+ITA,1967-11-12,,SSC Napoli,ACF Fiorentina,1,0,H,1.0,0.0,H
+ITA,1967-11-12,,AS Roma,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1967-11-12,,Torino FC,AS Varese 1910,0,0,D,0.0,0.0,D
+ITA,1967-11-26,,AC Mantova,Torino FC,0,0,D,0.0,0.0,D
+ITA,1967-11-26,,Lanerossi Vicenza,AC Milan,2,2,D,1.0,2.0,A
+ITA,1967-11-26,,AS Varese 1910,AS Roma,2,0,H,0.0,0.0,D
+ITA,1967-11-26,,Atalanta,Brescia Calcio,1,3,A,0.0,2.0,A
+ITA,1967-11-26,,Inter,SPAL 1907 Ferrara,2,0,H,1.0,0.0,H
+ITA,1967-11-26,,Sampdoria,Cagliari Calcio,1,1,D,0.0,1.0,A
+ITA,1967-11-26,,Bologna FC,SSC Napoli,1,2,A,1.0,1.0,D
+ITA,1967-11-26,,Juventus,ACF Fiorentina,2,2,D,1.0,0.0,H
+ITA,1967-12-03,,AC Milan,Atalanta,0,0,D,0.0,0.0,D
+ITA,1967-12-03,,AS Varese 1910,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,1967-12-03,,Torino FC,Bologna FC,0,1,A,0.0,1.0,A
+ITA,1967-12-03,,SPAL 1907 Ferrara,Sampdoria,1,0,H,1.0,0.0,H
+ITA,1967-12-03,,SSC Napoli,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1967-12-03,,Lanerossi Vicenza,Juventus,0,2,A,0.0,1.0,A
+ITA,1967-12-03,,ACF Fiorentina,Inter,1,1,D,1.0,1.0,D
+ITA,1967-12-03,,AS Roma,Cagliari Calcio,2,3,A,1.0,2.0,A
+ITA,1967-12-09,,Juventus,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,1967-12-09,,Brescia Calcio,AC Milan,1,2,A,0.0,0.0,D
+ITA,1967-12-09,,Sampdoria,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,1967-12-09,,AC Mantova,AS Roma,0,0,D,0.0,0.0,D
+ITA,1967-12-09,,Cagliari Calcio,SPAL 1907 Ferrara,2,0,H,0.0,0.0,D
+ITA,1967-12-09,,Atalanta,Lanerossi Vicenza,1,0,H,0.0,0.0,D
+ITA,1967-12-09,,Bologna FC,AS Varese 1910,1,0,H,1.0,0.0,H
+ITA,1967-12-09,,Inter,Torino FC,1,0,H,0.0,0.0,D
+ITA,1967-12-17,,Inter,Sampdoria,2,0,H,0.0,0.0,D
+ITA,1967-12-17,,AS Varese 1910,SSC Napoli,1,0,H,0.0,0.0,D
+ITA,1967-12-17,,Torino FC,AC Milan,2,3,A,1.0,3.0,A
+ITA,1967-12-17,,AS Roma,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1967-12-17,,ACF Fiorentina,Atalanta,1,0,H,0.0,0.0,D
+ITA,1967-12-17,,Cagliari Calcio,Lanerossi Vicenza,1,1,D,0.0,0.0,D
+ITA,1967-12-17,,Brescia Calcio,Juventus,0,1,A,0.0,1.0,A
+ITA,1967-12-17,,SPAL 1907 Ferrara,AC Mantova,1,0,H,0.0,0.0,D
+ITA,1967-12-31,,SSC Napoli,Torino FC,2,2,D,0.0,0.0,D
+ITA,1967-12-31,,Juventus,Inter,3,2,H,1.0,1.0,D
+ITA,1967-12-31,,AS Varese 1910,Cagliari Calcio,2,1,H,2.0,0.0,H
+ITA,1967-12-31,,AS Roma,Brescia Calcio,2,0,H,2.0,0.0,H
+ITA,1967-12-31,,Lanerossi Vicenza,Sampdoria,0,0,D,0.0,0.0,D
+ITA,1967-12-31,,Atalanta,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1967-12-31,,ACF Fiorentina,AC Mantova,2,0,H,0.0,0.0,D
+ITA,1967-12-31,,AC Milan,Bologna FC,4,2,H,2.0,1.0,H
+ITA,1968-01-07,,AC Milan,AS Roma,3,0,H,1.0,0.0,H
+ITA,1968-01-07,,Torino FC,Cagliari Calcio,2,1,H,2.0,0.0,H
+ITA,1968-01-07,,SPAL 1907 Ferrara,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,1968-01-07,,SSC Napoli,Inter,2,1,H,2.0,1.0,H
+ITA,1968-01-07,,AC Mantova,AS Varese 1910,0,0,D,0.0,0.0,D
+ITA,1968-01-07,,Lanerossi Vicenza,Brescia Calcio,0,1,A,0.0,0.0,D
+ITA,1968-01-07,,Bologna FC,Atalanta,5,0,H,4.0,0.0,H
+ITA,1968-01-07,,Sampdoria,Juventus,1,1,D,0.0,1.0,A
+ITA,1968-01-14,,Inter,Cagliari Calcio,0,2,A,,,
+ITA,1968-01-14,,Juventus,SPAL 1907 Ferrara,2,0,H,1.0,0.0,H
+ITA,1968-01-14,,AS Varese 1910,AC Milan,2,1,H,1.0,0.0,H
+ITA,1968-01-14,,AS Roma,Torino FC,0,2,A,0.0,1.0,A
+ITA,1968-01-14,,ACF Fiorentina,Lanerossi Vicenza,3,1,H,1.0,0.0,H
+ITA,1968-01-14,,Brescia Calcio,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1968-01-14,,Atalanta,Sampdoria,1,0,H,1.0,0.0,H
+ITA,1968-01-14,,AC Mantova,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1968-01-21,,AC Mantova,Juventus,0,0,D,0.0,0.0,D
+ITA,1968-01-21,,AS Varese 1910,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1968-01-21,,Torino FC,Lanerossi Vicenza,1,0,H,0.0,0.0,D
+ITA,1968-01-21,,AC Milan,SPAL 1907 Ferrara,3,2,H,1.0,2.0,A
+ITA,1968-01-21,,Cagliari Calcio,Brescia Calcio,3,0,H,0.0,0.0,D
+ITA,1968-01-21,,Bologna FC,Sampdoria,0,0,D,0.0,0.0,D
+ITA,1968-01-21,,Atalanta,SSC Napoli,1,0,H,0.0,0.0,D
+ITA,1968-01-21,,AS Roma,Inter,2,6,A,0.0,1.0,A
+ITA,1968-01-28,,Juventus,Atalanta,2,1,H,1.0,1.0,D
+ITA,1968-01-28,,SPAL 1907 Ferrara,Lanerossi Vicenza,3,0,H,0.0,0.0,D
+ITA,1968-01-28,,Sampdoria,AS Varese 1910,1,1,D,1.0,0.0,H
+ITA,1968-01-28,,SSC Napoli,AS Roma,2,0,H,1.0,0.0,H
+ITA,1968-01-28,,ACF Fiorentina,AC Milan,0,2,A,0.0,0.0,D
+ITA,1968-01-28,,Cagliari Calcio,Bologna FC,1,1,D,0.0,0.0,D
+ITA,1968-01-28,,Brescia Calcio,Torino FC,0,5,A,0.0,2.0,A
+ITA,1968-01-28,,Inter,AC Mantova,3,0,H,2.0,0.0,H
+ITA,1968-02-04,,AS Varese 1910,Juventus,5,0,H,2.0,0.0,H
+ITA,1968-02-04,,Atalanta,Cagliari Calcio,2,1,H,2.0,1.0,H
+ITA,1968-02-04,,Bologna FC,Brescia Calcio,0,3,A,0.0,3.0,A
+ITA,1968-02-04,,Lanerossi Vicenza,Inter,2,1,H,1.0,0.0,H
+ITA,1968-02-04,,AC Mantova,Sampdoria,0,1,A,0.0,0.0,D
+ITA,1968-02-04,,AC Milan,SSC Napoli,2,1,H,1.0,0.0,H
+ITA,1968-02-04,,AS Roma,SPAL 1907 Ferrara,1,1,D,1.0,0.0,H
+ITA,1968-02-04,,Torino FC,ACF Fiorentina,0,2,A,0.0,1.0,A
+ITA,1968-02-11,,Sampdoria,Torino FC,1,1,D,0.0,1.0,A
+ITA,1968-02-11,,SSC Napoli,Cagliari Calcio,1,0,H,1.0,0.0,H
+ITA,1968-02-11,,AC Mantova,AC Milan,0,1,A,0.0,0.0,D
+ITA,1968-02-11,,Lanerossi Vicenza,AS Varese 1910,1,0,H,1.0,0.0,H
+ITA,1968-02-11,,Juventus,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1968-02-11,,ACF Fiorentina,AS Roma,0,0,D,0.0,0.0,D
+ITA,1968-02-11,,SPAL 1907 Ferrara,Brescia Calcio,3,1,H,3.0,0.0,H
+ITA,1968-02-11,,Inter,Atalanta,3,0,H,0.0,0.0,D
+ITA,1968-02-18,,SSC Napoli,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1968-02-18,,AS Varese 1910,Atalanta,2,0,H,1.0,0.0,H
+ITA,1968-02-18,,Torino FC,Juventus,2,1,H,2.0,1.0,H
+ITA,1968-02-18,,AS Roma,Sampdoria,1,1,D,0.0,0.0,D
+ITA,1968-02-18,,Cagliari Calcio,ACF Fiorentina,3,1,H,0.0,0.0,D
+ITA,1968-02-18,,Bologna FC,Lanerossi Vicenza,2,0,H,0.0,0.0,D
+ITA,1968-02-18,,Brescia Calcio,AC Mantova,0,1,A,0.0,1.0,A
+ITA,1968-02-18,,AC Milan,Inter,1,1,D,1.0,1.0,D
+ITA,1968-02-25,,Inter,AS Varese 1910,1,0,H,0.0,0.0,D
+ITA,1968-02-25,,SPAL 1907 Ferrara,Torino FC,0,0,D,0.0,0.0,D
+ITA,1968-02-25,,Sampdoria,Brescia Calcio,1,0,H,0.0,0.0,D
+ITA,1968-02-25,,Juventus,AC Milan,1,2,A,1.0,1.0,D
+ITA,1968-02-25,,ACF Fiorentina,Bologna FC,1,0,H,1.0,0.0,H
+ITA,1968-02-25,,Cagliari Calcio,AC Mantova,2,2,D,1.0,0.0,H
+ITA,1968-02-25,,Atalanta,AS Roma,2,1,H,2.0,0.0,H
+ITA,1968-02-25,,Lanerossi Vicenza,SSC Napoli,0,1,A,0.0,1.0,A
+ITA,1968-03-10,,Juventus,Cagliari Calcio,2,0,H,0.0,0.0,D
+ITA,1968-03-10,,AS Varese 1910,Torino FC,0,0,D,0.0,0.0,D
+ITA,1968-03-10,,SPAL 1907 Ferrara,Bologna FC,1,3,A,1.0,2.0,A
+ITA,1968-03-10,,Lanerossi Vicenza,AS Roma,0,0,D,0.0,0.0,D
+ITA,1968-03-10,,Inter,Brescia Calcio,3,0,H,1.0,0.0,H
+ITA,1968-03-10,,ACF Fiorentina,SSC Napoli,3,0,H,0.0,0.0,D
+ITA,1968-03-10,,Atalanta,AC Mantova,2,0,H,2.0,0.0,H
+ITA,1968-03-10,,Sampdoria,AC Milan,0,3,A,0.0,0.0,D
+ITA,1968-03-17,,AC Milan,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1968-03-17,,SPAL 1907 Ferrara,Inter,1,2,A,0.0,1.0,A
+ITA,1968-03-17,,Torino FC,AC Mantova,4,1,H,2.0,1.0,H
+ITA,1968-03-17,,SSC Napoli,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1968-03-17,,Cagliari Calcio,Sampdoria,3,3,D,0.0,1.0,A
+ITA,1968-03-17,,Brescia Calcio,Atalanta,2,1,H,1.0,0.0,H
+ITA,1968-03-17,,AS Roma,AS Varese 1910,1,0,H,0.0,0.0,D
+ITA,1968-03-17,,ACF Fiorentina,Juventus,2,0,H,1.0,0.0,H
+ITA,1968-03-24,,Cagliari Calcio,AS Roma,1,2,A,0.0,1.0,A
+ITA,1968-03-24,,Sampdoria,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1968-03-24,,AC Mantova,SSC Napoli,0,1,A,0.0,1.0,A
+ITA,1968-03-24,,Inter,ACF Fiorentina,3,1,H,2.0,1.0,H
+ITA,1968-03-24,,Brescia Calcio,AS Varese 1910,0,1,A,0.0,1.0,A
+ITA,1968-03-24,,Bologna FC,Torino FC,2,0,H,2.0,0.0,H
+ITA,1968-03-24,,Atalanta,AC Milan,0,3,A,0.0,1.0,A
+ITA,1968-03-24,,Juventus,Lanerossi Vicenza,1,0,H,1.0,0.0,H
+ITA,1968-03-31,,AS Roma,AC Mantova,2,2,D,0.0,0.0,D
+ITA,1968-03-31,,Torino FC,Inter,2,3,A,2.0,1.0,H
+ITA,1968-03-31,,AS Varese 1910,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1968-03-31,,SPAL 1907 Ferrara,Cagliari Calcio,1,0,H,0.0,0.0,D
+ITA,1968-03-31,,AC Milan,Brescia Calcio,1,0,H,0.0,0.0,D
+ITA,1968-03-31,,SSC Napoli,Juventus,1,2,A,0.0,0.0,D
+ITA,1968-03-31,,Lanerossi Vicenza,Atalanta,4,1,H,1.0,0.0,H
+ITA,1968-03-31,,ACF Fiorentina,Sampdoria,0,0,D,0.0,0.0,D
+ITA,1968-04-03,,SSC Napoli,Sampdoria,1,1,D,0.0,1.0,A
+ITA,1968-04-03,,Torino FC,Atalanta,4,1,H,1.0,1.0,D
+ITA,1968-04-03,,AS Varese 1910,SPAL 1907 Ferrara,2,0,H,1.0,0.0,H
+ITA,1968-04-03,,AS Roma,Juventus,0,0,D,0.0,0.0,D
+ITA,1968-04-03,,AC Mantova,Lanerossi Vicenza,1,1,D,1.0,0.0,H
+ITA,1968-04-03,,Bologna FC,Inter,2,1,H,1.0,1.0,D
+ITA,1968-04-03,,Brescia Calcio,ACF Fiorentina,1,1,D,0.0,1.0,A
+ITA,1968-04-03,,AC Milan,Cagliari Calcio,0,1,A,0.0,1.0,A
+ITA,1968-04-14,,Lanerossi Vicenza,Cagliari Calcio,3,1,H,1.0,1.0,D
+ITA,1968-04-14,,Sampdoria,Inter,2,2,D,0.0,2.0,A
+ITA,1968-04-14,,SSC Napoli,AS Varese 1910,5,0,H,3.0,0.0,H
+ITA,1968-04-14,,AC Mantova,SPAL 1907 Ferrara,0,1,A,0.0,0.0,D
+ITA,1968-04-14,,Juventus,Brescia Calcio,2,1,H,1.0,1.0,D
+ITA,1968-04-14,,Bologna FC,AS Roma,1,0,H,0.0,0.0,D
+ITA,1968-04-14,,Atalanta,ACF Fiorentina,0,3,A,0.0,1.0,A
+ITA,1968-04-14,,AC Milan,Torino FC,2,1,H,2.0,1.0,H
+ITA,1968-04-28,,Inter,Juventus,0,0,D,0.0,0.0,D
+ITA,1968-04-28,,AC Mantova,ACF Fiorentina,1,2,A,1.0,0.0,H
+ITA,1968-04-28,,Torino FC,SSC Napoli,1,2,A,1.0,0.0,H
+ITA,1968-04-28,,SPAL 1907 Ferrara,Atalanta,1,0,H,0.0,0.0,D
+ITA,1968-04-28,,Bologna FC,AC Milan,1,1,D,0.0,0.0,D
+ITA,1968-04-28,,Cagliari Calcio,AS Varese 1910,2,1,H,2.0,0.0,H
+ITA,1968-04-28,,Brescia Calcio,AS Roma,1,0,H,1.0,0.0,H
+ITA,1968-04-28,,Sampdoria,Lanerossi Vicenza,1,0,H,1.0,0.0,H
+ITA,1968-05-05,,ACF Fiorentina,SPAL 1907 Ferrara,2,0,H,1.0,0.0,H
+ITA,1968-05-05,,AS Varese 1910,AC Mantova,1,1,D,0.0,0.0,D
+ITA,1968-05-05,,AS Roma,AC Milan,1,1,D,1.0,1.0,D
+ITA,1968-05-05,,Inter,SSC Napoli,1,2,A,0.0,2.0,A
+ITA,1968-05-05,,Cagliari Calcio,Torino FC,2,0,H,0.0,0.0,D
+ITA,1968-05-05,,Brescia Calcio,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1968-05-05,,Atalanta,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1968-05-05,,Juventus,Sampdoria,3,1,H,0.0,1.0,A
+ITA,1968-05-12,,AC Milan,AS Varese 1910,1,0,H,1.0,0.0,H
+ITA,1968-05-12,,SSC Napoli,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,1968-05-12,,Torino FC,AS Roma,2,1,H,1.0,0.0,H
+ITA,1968-05-12,,SPAL 1907 Ferrara,Juventus,0,1,A,0.0,1.0,A
+ITA,1968-05-12,,Bologna FC,AC Mantova,1,0,H,1.0,0.0,H
+ITA,1968-05-12,,Lanerossi Vicenza,ACF Fiorentina,1,0,H,1.0,0.0,H
+ITA,1968-05-12,,Cagliari Calcio,Inter,3,2,H,0.0,2.0,A
+ITA,1968-05-12,,Sampdoria,Atalanta,0,0,D,0.0,0.0,D

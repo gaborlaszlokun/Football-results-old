@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2012-02-11,00:15,Boca Juniors,Olimpo,2,0,H,1.0,0.0,H
+ARG,2012-02-11,00:15,CA Lanús,San Lorenzo,4,1,H,3.0,0.0,H
+ARG,2012-02-11,22:10,Belgrano Córdoba,All Boys,0,0,D,0.0,0.0,D
+ARG,2012-02-11,22:10,Estudiantes,Newell's Old Boys,1,1,D,1.0,0.0,H
+ARG,2012-02-12,00:15,CA San Martín,Independiente,1,0,H,0.0,0.0,D
+ARG,2012-02-12,20:00,Atlético Rafaela,CA Banfield,3,0,H,1.0,0.0,H
+ARG,2012-02-12,22:10,Racing Club,Tigre,0,0,D,0.0,0.0,D
+ARG,2012-02-12,22:10,Vélez Sársfield,CD Godoy Cruz,1,1,D,1.0,1.0,D
+ARG,2012-02-13,01:10,Argentinos Juniors,Unión de Santa Fe,0,0,D,0.0,0.0,D
+ARG,2012-02-14,01:10,CA Colón,Arsenal Sarandí,0,0,D,0.0,0.0,D
+ARG,2012-02-17,22:00,Olimpo,Belgrano Córdoba,4,1,H,1.0,1.0,D
+ARG,2012-02-18,00:15,CA Banfield,Vélez Sársfield,0,4,A,0.0,2.0,A
+ARG,2012-02-18,20:00,Newell's Old Boys,Argentinos Juniors,1,0,H,0.0,0.0,D
+ARG,2012-02-18,22:10,Arsenal Sarandí,Atlético Rafaela,2,2,D,1.0,0.0,H
+ARG,2012-02-19,00:10,All Boys,CA Colón,2,0,H,1.0,0.0,H
+ARG,2012-02-19,20:00,Independiente,CA Lanús,0,1,A,0.0,0.0,D
+ARG,2012-02-19,20:00,San Lorenzo,Estudiantes,1,1,D,0.0,1.0,A
+ARG,2012-02-19,22:10,CD Godoy Cruz,Racing Club,1,0,H,0.0,0.0,D
+ARG,2012-02-19,22:10,Unión de Santa Fe,Boca Juniors,0,0,D,0.0,0.0,D
+ARG,2012-02-21,00:15,Tigre,CA San Martín,3,1,H,1.0,0.0,H
+ARG,2012-02-24,22:10,Belgrano Córdoba,Unión de Santa Fe,1,0,H,0.0,0.0,D
+ARG,2012-02-25,00:15,Atlético Rafaela,All Boys,0,1,A,0.0,0.0,D
+ARG,2012-02-25,22:10,CA Colón,Olimpo,3,1,H,1.0,1.0,D
+ARG,2012-02-25,22:10,Estudiantes,Independiente,2,0,H,1.0,0.0,H
+ARG,2012-02-26,00:30,Argentinos Juniors,San Lorenzo,0,1,A,0.0,0.0,D
+ARG,2012-02-26,20:00,CD Godoy Cruz,Tigre,0,2,A,0.0,1.0,A
+ARG,2012-02-26,20:00,Racing Club,CA Banfield,1,2,A,1.0,1.0,D
+ARG,2012-02-26,22:10,Boca Juniors,Newell's Old Boys,2,0,H,1.0,0.0,H
+ARG,2012-02-26,22:10,Vélez Sársfield,Arsenal Sarandí,3,2,H,2.0,0.0,H
+ARG,2012-02-28,00:15,CA Lanús,CA San Martín,1,3,A,0.0,1.0,A
+ARG,2012-03-02,22:10,Newell's Old Boys,Belgrano Córdoba,0,2,A,0.0,2.0,A
+ARG,2012-03-03,00:30,CA Banfield,CD Godoy Cruz,1,1,D,0.0,1.0,A
+ARG,2012-03-03,20:00,All Boys,Vélez Sársfield,0,0,D,0.0,0.0,D
+ARG,2012-03-03,22:10,Independiente,Argentinos Juniors,1,3,A,0.0,2.0,A
+ARG,2012-03-04,00:30,CA San Martín,Estudiantes,0,1,A,0.0,1.0,A
+ARG,2012-03-04,20:00,San Lorenzo,Boca Juniors,0,2,A,0.0,0.0,D
+ARG,2012-03-04,20:00,Unión de Santa Fe,CA Colón,2,2,D,0.0,2.0,A
+ARG,2012-03-04,22:10,Arsenal Sarandí,Racing Club,0,0,D,0.0,0.0,D
+ARG,2012-03-04,22:10,Tigre,CA Lanús,1,0,H,1.0,0.0,H
+ARG,2012-03-06,00:15,Olimpo,Atlético Rafaela,2,1,H,1.0,1.0,D
+ARG,2012-03-09,20:00,CA Colón,Newell's Old Boys,0,3,A,0.0,1.0,A
+ARG,2012-03-10,00:30,Estudiantes,CA Lanús,1,0,H,0.0,0.0,D
+ARG,2012-03-10,20:00,Argentinos Juniors,CA San Martín,1,1,D,1.0,0.0,H
+ARG,2012-03-10,22:10,Racing Club,All Boys,3,0,H,2.0,0.0,H
+ARG,2012-03-11,00:30,Belgrano Córdoba,San Lorenzo,1,2,A,1.0,0.0,H
+ARG,2012-03-11,20:00,CA Banfield,Tigre,0,2,A,0.0,0.0,D
+ARG,2012-03-11,20:00,CD Godoy Cruz,Arsenal Sarandí,0,1,A,0.0,1.0,A
+ARG,2012-03-11,22:10,Atlético Rafaela,Unión de Santa Fe,0,2,A,0.0,1.0,A
+ARG,2012-03-11,22:10,Boca Juniors,Independiente,4,5,A,2.0,3.0,A
+ARG,2012-03-13,00:35,Vélez Sársfield,Olimpo,1,0,H,0.0,0.0,D
+ARG,2012-03-16,22:10,CA Lanús,Argentinos Juniors,0,1,A,0.0,0.0,D
+ARG,2012-03-17,00:30,All Boys,CD Godoy Cruz,1,1,D,0.0,0.0,D
+ARG,2012-03-17,19:00,Tigre,Estudiantes,1,1,D,1.0,1.0,D
+ARG,2012-03-17,19:00,Unión de Santa Fe,Vélez Sársfield,3,3,D,1.0,2.0,A
+ARG,2012-03-17,23:30,Independiente,Belgrano Córdoba,2,0,H,0.0,0.0,D
+ARG,2012-03-17,23:30,Olimpo,Racing Club,0,3,A,0.0,0.0,D
+ARG,2012-03-18,19:00,San Lorenzo,CA Colón,1,1,D,1.0,0.0,H
+ARG,2012-03-18,21:15,Newell's Old Boys,Atlético Rafaela,1,0,H,1.0,0.0,H
+ARG,2012-03-18,21:15,CA San Martín,Boca Juniors,0,1,A,0.0,0.0,D
+ARG,2012-03-18,23:30,Arsenal Sarandí,CA Banfield,1,0,H,1.0,0.0,H
+ARG,2012-03-24,00:30,CA Banfield,All Boys,0,0,D,0.0,0.0,D
+ARG,2012-03-24,21:15,Atlético Rafaela,San Lorenzo,2,1,H,1.0,1.0,D
+ARG,2012-03-24,23:30,Belgrano Córdoba,CA San Martín,1,1,D,0.0,0.0,D
+ARG,2012-03-24,23:30,Racing Club,Unión de Santa Fe,0,3,A,0.0,2.0,A
+ARG,2012-03-25,20:00,Argentinos Juniors,Estudiantes,1,2,A,1.0,1.0,D
+ARG,2012-03-25,22:15,CA Colón,Independiente,3,0,H,1.0,0.0,H
+ARG,2012-03-25,23:10,Arsenal Sarandí,Tigre,1,0,H,0.0,0.0,D
+ARG,2012-03-26,00:30,Boca Juniors,CA Lanús,2,2,D,2.0,1.0,H
+ARG,2012-03-26,23:10,CD Godoy Cruz,Olimpo,1,1,D,0.0,0.0,D
+ARG,2012-03-27,01:15,Vélez Sársfield,Newell's Old Boys,0,1,A,0.0,0.0,D
+ARG,2012-03-30,23:30,CA Lanús,Belgrano Córdoba,0,1,A,0.0,0.0,D
+ARG,2012-03-31,20:00,Olimpo,CA Banfield,2,5,A,1.0,1.0,D
+ARG,2012-03-31,22:15,Unión de Santa Fe,CD Godoy Cruz,1,1,D,1.0,1.0,D
+ARG,2012-04-01,00:15,Tigre,Argentinos Juniors,1,2,A,0.0,2.0,A
+ARG,2012-04-01,00:30,Independiente,Atlético Rafaela,2,0,H,0.0,0.0,D
+ARG,2012-04-01,19:00,All Boys,Arsenal Sarandí,0,2,A,0.0,1.0,A
+ARG,2012-04-01,19:00,San Lorenzo,Vélez Sársfield,0,2,A,0.0,1.0,A
+ARG,2012-04-01,21:15,Newell's Old Boys,Racing Club,2,0,H,0.0,0.0,D
+ARG,2012-04-01,21:15,CA San Martín,CA Colón,2,2,D,1.0,1.0,D
+ARG,2012-04-01,23:30,Estudiantes,Boca Juniors,0,3,A,0.0,2.0,A
+ARG,2012-04-06,23:10,Arsenal Sarandí,Olimpo,2,1,H,1.0,0.0,H
+ARG,2012-04-07,01:15,Vélez Sársfield,Independiente,1,1,D,1.0,1.0,D
+ARG,2012-04-07,19:00,CA Banfield,Unión de Santa Fe,2,2,D,1.0,0.0,H
+ARG,2012-04-07,21:10,Boca Juniors,Argentinos Juniors,2,1,H,1.0,1.0,D
+ARG,2012-04-07,21:10,CA Colón,CA Lanús,1,0,H,0.0,0.0,D
+ARG,2012-04-07,23:30,All Boys,Tigre,2,0,H,1.0,0.0,H
+ARG,2012-04-07,23:30,Atlético Rafaela,CA San Martín,3,1,H,2.0,1.0,H
+ARG,2012-04-08,19:00,Belgrano Córdoba,Estudiantes,2,1,H,0.0,1.0,A
+ARG,2012-04-08,19:00,CD Godoy Cruz,Newell's Old Boys,1,1,D,0.0,0.0,D
+ARG,2012-04-09,23:30,Racing Club,San Lorenzo,1,1,D,1.0,1.0,D
+ARG,2012-04-14,00:10,Estudiantes,CA Colón,2,2,D,1.0,0.0,H
+ARG,2012-04-14,16:00,Independiente,Racing Club,4,1,H,1.0,1.0,D
+ARG,2012-04-14,18:05,Olimpo,All Boys,1,2,A,1.0,1.0,D
+ARG,2012-04-14,20:10,San Lorenzo,CD Godoy Cruz,3,0,H,2.0,0.0,H
+ARG,2012-04-15,00:30,CA San Martín,Vélez Sársfield,1,3,A,1.0,1.0,D
+ARG,2012-04-15,20:00,Newell's Old Boys,CA Banfield,3,0,H,0.0,0.0,D
+ARG,2012-04-15,22:00,Argentinos Juniors,Belgrano Córdoba,0,0,D,0.0,0.0,D
+ARG,2012-04-15,22:00,Unión de Santa Fe,Arsenal Sarandí,1,0,H,0.0,0.0,D
+ARG,2012-04-16,00:10,Tigre,Boca Juniors,2,1,H,1.0,0.0,H
+ARG,2012-04-17,01:10,CA Lanús,Atlético Rafaela,1,0,H,1.0,0.0,H
+ARG,2012-04-21,01:15,Tigre,Olimpo,1,0,H,1.0,0.0,H
+ARG,2012-04-21,18:00,CA Colón,Argentinos Juniors,1,0,H,1.0,0.0,H
+ARG,2012-04-21,20:10,Atlético Rafaela,Estudiantes,3,2,H,2.0,1.0,H
+ARG,2012-04-21,20:10,Vélez Sársfield,CA Lanús,0,0,D,0.0,0.0,D
+ARG,2012-04-22,00:30,Racing Club,CA San Martín,1,0,H,0.0,0.0,D
+ARG,2012-04-22,19:00,All Boys,Unión de Santa Fe,2,1,H,2.0,1.0,H
+ARG,2012-04-22,19:15,CA Banfield,San Lorenzo,1,1,D,0.0,0.0,D
+ARG,2012-04-22,21:15,CD Godoy Cruz,Independiente,0,0,D,0.0,0.0,D
+ARG,2012-04-22,23:15,Belgrano Córdoba,Boca Juniors,1,1,D,1.0,0.0,H
+ARG,2012-04-23,23:10,Arsenal Sarandí,Newell's Old Boys,1,1,D,0.0,0.0,D
+ARG,2012-04-27,19:15,Estudiantes,Vélez Sársfield,0,2,A,0.0,2.0,A
+ARG,2012-04-28,00:45,CA Lanús,Racing Club,3,1,H,2.0,0.0,H
+ARG,2012-04-28,18:00,CA San Martín,CD Godoy Cruz,1,0,H,1.0,0.0,H
+ARG,2012-04-28,20:30,Newell's Old Boys,All Boys,1,1,D,0.0,1.0,A
+ARG,2012-04-28,22:40,Boca Juniors,CA Colón,1,0,H,1.0,0.0,H
+ARG,2012-04-29,00:20,Independiente,CA Banfield,2,0,H,0.0,0.0,D
+ARG,2012-04-29,19:00,San Lorenzo,Arsenal Sarandí,2,0,H,1.0,0.0,H
+ARG,2012-04-29,19:00,Unión de Santa Fe,Olimpo,2,0,H,0.0,0.0,D
+ARG,2012-04-29,21:15,Argentinos Juniors,Atlético Rafaela,0,0,D,0.0,0.0,D
+ARG,2012-04-30,23:20,Belgrano Córdoba,Tigre,1,1,D,0.0,1.0,A
+ARG,2012-05-04,19:15,CA Banfield,CA San Martín,1,2,A,1.0,2.0,A
+ARG,2012-05-05,18:00,Arsenal Sarandí,Independiente,3,1,H,3.0,0.0,H
+ARG,2012-05-06,00:20,Vélez Sársfield,Argentinos Juniors,0,2,A,0.0,0.0,D
+ARG,2012-05-06,00:30,Tigre,Unión de Santa Fe,4,0,H,3.0,0.0,H
+ARG,2012-05-06,18:00,CD Godoy Cruz,CA Lanús,0,1,A,0.0,1.0,A
+ARG,2012-05-06,20:00,All Boys,San Lorenzo,0,0,D,0.0,0.0,D
+ARG,2012-05-06,21:00,Olimpo,Newell's Old Boys,1,2,A,1.0,1.0,D
+ARG,2012-05-06,21:00,Racing Club,Estudiantes,2,0,H,1.0,0.0,H
+ARG,2012-05-06,23:15,Atlético Rafaela,Boca Juniors,2,2,D,0.0,1.0,A
+ARG,2012-05-08,00:15,CA Colón,Belgrano Córdoba,2,0,H,1.0,0.0,H
+ARG,2012-05-11,21:00,CA San Martín,Arsenal Sarandí,1,4,A,0.0,2.0,A
+ARG,2012-05-12,01:15,Estudiantes,CD Godoy Cruz,1,0,H,1.0,0.0,H
+ARG,2012-05-12,20:10,Newell's Old Boys,Unión de Santa Fe,3,1,H,3.0,0.0,H
+ARG,2012-05-12,20:30,Independiente,All Boys,0,3,A,0.0,1.0,A
+ARG,2012-05-12,22:15,Belgrano Córdoba,Atlético Rafaela,1,1,D,1.0,0.0,H
+ARG,2012-05-13,00:20,San Lorenzo,Olimpo,1,1,D,0.0,0.0,D
+ARG,2012-05-13,19:00,CA Lanús,CA Banfield,2,1,H,2.0,0.0,H
+ARG,2012-05-13,21:10,Argentinos Juniors,Racing Club,2,1,H,1.0,1.0,D
+ARG,2012-05-13,21:10,CA Colón,Tigre,1,1,D,1.0,1.0,D
+ARG,2012-05-13,23:15,Boca Juniors,Vélez Sársfield,0,0,D,0.0,0.0,D
+ARG,2012-05-18,21:10,CD Godoy Cruz,Argentinos Juniors,1,1,D,0.0,0.0,D
+ARG,2012-05-18,23:15,Tigre,Newell's Old Boys,3,1,H,2.0,1.0,H
+ARG,2012-05-19,18:00,CA Banfield,Estudiantes,0,3,A,0.0,2.0,A
+ARG,2012-05-19,20:10,All Boys,CA San Martín,1,0,H,1.0,0.0,H
+ARG,2012-05-20,00:20,Unión de Santa Fe,San Lorenzo,1,0,H,0.0,0.0,D
+ARG,2012-05-20,19:00,Olimpo,Independiente,2,1,H,1.0,1.0,D
+ARG,2012-05-20,21:00,Vélez Sársfield,Belgrano Córdoba,0,1,A,0.0,0.0,D
+ARG,2012-05-20,21:15,Atlético Rafaela,CA Colón,0,0,D,0.0,0.0,D
+ARG,2012-05-20,23:15,Racing Club,Boca Juniors,0,2,A,0.0,0.0,D
+ARG,2012-05-21,23:10,Arsenal Sarandí,CA Lanús,3,1,H,3.0,1.0,H
+ARG,2012-05-25,23:10,CA San Martín,Olimpo,3,2,H,0.0,1.0,A
+ARG,2012-05-26,20:10,CA Lanús,All Boys,1,0,H,0.0,0.0,D
+ARG,2012-05-26,22:15,Argentinos Juniors,CA Banfield,1,0,H,0.0,0.0,D
+ARG,2012-05-27,00:20,Belgrano Córdoba,Racing Club,0,1,A,0.0,0.0,D
+ARG,2012-05-27,19:00,Atlético Rafaela,Tigre,1,1,D,0.0,0.0,D
+ARG,2012-05-27,19:15,San Lorenzo,Newell's Old Boys,3,2,H,0.0,2.0,A
+ARG,2012-05-27,21:10,Independiente,Unión de Santa Fe,0,0,D,0.0,0.0,D
+ARG,2012-05-27,23:15,Boca Juniors,CD Godoy Cruz,3,0,H,2.0,0.0,H
+ARG,2012-05-28,22:10,Estudiantes,Arsenal Sarandí,1,1,D,1.0,1.0,D
+ARG,2012-05-29,00:30,CA Colón,Vélez Sársfield,0,2,A,0.0,0.0,D
+ARG,2012-06-08,21:00,Arsenal Sarandí,Argentinos Juniors,3,1,H,2.0,0.0,H
+ARG,2012-06-09,18:00,CA Banfield,Boca Juniors,1,1,D,0.0,0.0,D
+ARG,2012-06-09,22:10,Newell's Old Boys,Independiente,2,1,H,1.0,1.0,D
+ARG,2012-06-09,22:10,Unión de Santa Fe,CA San Martín,0,0,D,0.0,0.0,D
+ARG,2012-06-10,00:20,Vélez Sársfield,Atlético Rafaela,2,1,H,0.0,0.0,D
+ARG,2012-06-10,18:00,Tigre,San Lorenzo,3,1,H,1.0,0.0,H
+ARG,2012-06-10,19:15,All Boys,Estudiantes,3,1,H,1.0,0.0,H
+ARG,2012-06-10,21:15,Olimpo,CA Lanús,2,2,D,0.0,2.0,A
+ARG,2012-06-10,21:20,CD Godoy Cruz,Belgrano Córdoba,2,1,H,2.0,0.0,H
+ARG,2012-06-12,00:30,Racing Club,CA Colón,1,1,D,1.0,0.0,H
+ARG,2012-06-15,21:00,CA Lanús,Unión de Santa Fe,0,0,D,0.0,0.0,D
+ARG,2012-06-15,23:10,CA San Martín,Newell's Old Boys,2,1,H,2.0,1.0,H
+ARG,2012-06-16,17:00,Belgrano Córdoba,CA Banfield,3,1,H,1.0,1.0,D
+ARG,2012-06-16,22:20,Estudiantes,Olimpo,1,0,H,0.0,0.0,D
+ARG,2012-06-17,00:20,Vélez Sársfield,Tigre,0,1,A,0.0,0.0,D
+ARG,2012-06-17,19:10,Argentinos Juniors,All Boys,1,0,H,0.0,0.0,D
+ARG,2012-06-17,19:10,Independiente,San Lorenzo,0,0,D,0.0,0.0,D
+ARG,2012-06-17,21:10,Atlético Rafaela,Racing Club,4,2,H,1.0,1.0,D
+ARG,2012-06-17,23:15,Boca Juniors,Arsenal Sarandí,0,3,A,0.0,2.0,A
+ARG,2012-06-19,00:20,CA Colón,CD Godoy Cruz,2,0,H,1.0,0.0,H
+ARG,2012-06-22,19:00,Olimpo,Argentinos Juniors,0,0,D,0.0,0.0,D
+ARG,2012-06-22,23:15,Newell's Old Boys,CA Lanús,0,0,D,0.0,0.0,D
+ARG,2012-06-24,00:20,Racing Club,Vélez Sársfield,1,2,A,0.0,1.0,A
+ARG,2012-06-24,19:00,All Boys,Boca Juniors,3,1,H,2.0,0.0,H
+ARG,2012-06-24,19:00,Arsenal Sarandí,Belgrano Córdoba,1,0,H,1.0,0.0,H
+ARG,2012-06-24,19:00,CA Banfield,CA Colón,0,3,A,,,
+ARG,2012-06-24,19:00,CD Godoy Cruz,Atlético Rafaela,1,3,A,1.0,2.0,A
+ARG,2012-06-24,19:00,San Lorenzo,CA San Martín,3,1,H,1.0,1.0,D
+ARG,2012-06-24,19:00,Tigre,Independiente,2,2,D,1.0,0.0,H
+ARG,2012-06-24,19:00,Unión de Santa Fe,Estudiantes,2,2,D,1.0,1.0,D

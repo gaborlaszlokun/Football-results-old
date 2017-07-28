@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,1978-10-01,,SSC Napoli,Ascoli Calcio,2,1,H,1.0,1.0,D
+ITA,1978-10-01,,Hellas Verona,AS Roma,1,1,D,0.0,0.0,D
+ITA,1978-10-01,,Torino FC,ACF Fiorentina,1,1,D,1.0,1.0,D
+ITA,1978-10-01,,AC Perugia,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1978-10-01,,Lazio Roma,Juventus,2,2,D,1.0,1.0,D
+ITA,1978-10-01,,AC Milan,US Avellino,1,0,H,0.0,0.0,D
+ITA,1978-10-01,,Bologna FC,Inter,0,1,A,0.0,0.0,D
+ITA,1978-10-01,,US Catanzaro,Atalanta,0,0,D,0.0,0.0,D
+ITA,1978-10-08,,ACF Fiorentina,SSC Napoli,2,1,H,1.0,1.0,D
+ITA,1978-10-08,,AS Roma,AC Milan,0,3,A,0.0,2.0,A
+ITA,1978-10-08,,Lanerossi Vicenza,US Catanzaro,2,0,H,0.0,0.0,D
+ITA,1978-10-08,,Inter,AC Perugia,1,1,D,1.0,0.0,H
+ITA,1978-10-08,,US Avellino,Lazio Roma,1,3,A,1.0,1.0,D
+ITA,1978-10-08,,Atalanta,Torino FC,0,1,A,0.0,1.0,A
+ITA,1978-10-08,,Ascoli Calcio,Bologna FC,2,2,D,1.0,0.0,H
+ITA,1978-10-08,,Juventus,Hellas Verona,6,2,H,2.0,1.0,H
+ITA,1978-10-15,,AC Milan,Ascoli Calcio,0,0,D,0.0,0.0,D
+ITA,1978-10-15,,SSC Napoli,AS Roma,1,0,H,0.0,0.0,D
+ITA,1978-10-15,,Hellas Verona,Inter,0,0,D,0.0,0.0,D
+ITA,1978-10-15,,Torino FC,US Avellino,1,0,H,0.0,0.0,D
+ITA,1978-10-15,,Bologna FC,Lanerossi Vicenza,5,2,H,2.0,1.0,H
+ITA,1978-10-15,,Lazio Roma,Atalanta,1,1,D,1.0,0.0,H
+ITA,1978-10-15,,US Catanzaro,Juventus,0,0,D,0.0,0.0,D
+ITA,1978-10-15,,AC Perugia,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,1978-10-22,,ACF Fiorentina,Lazio Roma,3,0,H,1.0,0.0,H
+ITA,1978-10-22,,AS Roma,Bologna FC,2,0,H,1.0,0.0,H
+ITA,1978-10-22,,Lanerossi Vicenza,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1978-10-22,,Inter,US Catanzaro,0,0,D,0.0,0.0,D
+ITA,1978-10-22,,US Avellino,Hellas Verona,2,0,H,1.0,0.0,H
+ITA,1978-10-22,,Atalanta,AC Milan,1,3,A,1.0,2.0,A
+ITA,1978-10-22,,Ascoli Calcio,Torino FC,3,0,H,0.0,0.0,D
+ITA,1978-10-22,,Juventus,AC Perugia,1,2,A,0.0,1.0,A
+ITA,1978-10-29,,AC Milan,ACF Fiorentina,4,1,H,3.0,1.0,H
+ITA,1978-10-29,,SSC Napoli,Atalanta,2,0,H,1.0,0.0,H
+ITA,1978-10-29,,Hellas Verona,Ascoli Calcio,2,3,A,0.0,0.0,D
+ITA,1978-10-29,,Torino FC,Inter,3,3,D,1.0,1.0,D
+ITA,1978-10-29,,Bologna FC,Juventus,0,0,D,0.0,0.0,D
+ITA,1978-10-29,,Lazio Roma,Lanerossi Vicenza,4,3,H,2.0,3.0,A
+ITA,1978-10-29,,US Catanzaro,AS Roma,1,0,H,0.0,0.0,D
+ITA,1978-10-29,,AC Perugia,US Avellino,0,0,D,0.0,0.0,D
+ITA,1978-11-05,,ACF Fiorentina,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1978-11-05,,AS Roma,Torino FC,0,2,A,0.0,1.0,A
+ITA,1978-11-05,,Lanerossi Vicenza,Hellas Verona,0,0,D,0.0,0.0,D
+ITA,1978-11-05,,Inter,SSC Napoli,2,0,H,0.0,0.0,D
+ITA,1978-11-05,,US Avellino,US Catanzaro,0,0,D,0.0,0.0,D
+ITA,1978-11-05,,Atalanta,AC Perugia,0,2,A,0.0,2.0,A
+ITA,1978-11-05,,Ascoli Calcio,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1978-11-05,,Juventus,AC Milan,1,0,H,1.0,0.0,H
+ITA,1978-11-12,,AC Milan,Inter,1,0,H,0.0,0.0,D
+ITA,1978-11-12,,SSC Napoli,Juventus,0,0,D,0.0,0.0,D
+ITA,1978-11-12,,Hellas Verona,Atalanta,1,1,D,0.0,0.0,D
+ITA,1978-11-12,,Torino FC,Lanerossi Vicenza,4,0,H,1.0,0.0,H
+ITA,1978-11-12,,Lazio Roma,AS Roma,0,0,D,0.0,0.0,D
+ITA,1978-11-12,,US Catanzaro,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1978-11-12,,Bologna FC,US Avellino,0,0,D,0.0,0.0,D
+ITA,1978-11-12,,AC Perugia,Ascoli Calcio,2,0,H,1.0,0.0,H
+ITA,1978-11-19,,ACF Fiorentina,Hellas Verona,1,0,H,0.0,0.0,D
+ITA,1978-11-19,,Lanerossi Vicenza,AC Milan,2,3,A,1.0,1.0,D
+ITA,1978-11-19,,Inter,Lazio Roma,4,0,H,1.0,0.0,H
+ITA,1978-11-19,,AS Roma,AC Perugia,0,0,D,0.0,0.0,D
+ITA,1978-11-19,,US Avellino,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,1978-11-19,,Atalanta,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1978-11-19,,Ascoli Calcio,US Catanzaro,1,1,D,0.0,1.0,A
+ITA,1978-11-19,,Juventus,Torino FC,1,1,D,0.0,1.0,A
+ITA,1978-11-26,,AC Perugia,Torino FC,0,0,D,0.0,0.0,D
+ITA,1978-11-26,,SSC Napoli,AC Milan,1,1,D,1.0,0.0,H
+ITA,1978-11-26,,Lanerossi Vicenza,AS Roma,1,0,H,1.0,0.0,H
+ITA,1978-11-26,,Lazio Roma,Hellas Verona,1,0,H,1.0,0.0,H
+ITA,1978-11-26,,Inter,Atalanta,2,2,D,1.0,1.0,D
+ITA,1978-11-26,,US Avellino,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,1978-11-26,,Bologna FC,US Catanzaro,1,1,D,1.0,0.0,H
+ITA,1978-11-26,,Juventus,Ascoli Calcio,1,0,H,1.0,0.0,H
+ITA,1978-12-03,,ACF Fiorentina,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1978-12-03,,Hellas Verona,Bologna FC,1,0,H,1.0,0.0,H
+ITA,1978-12-03,,Torino FC,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1978-12-03,,AC Milan,AC Perugia,1,1,D,0.0,1.0,A
+ITA,1978-12-03,,US Catanzaro,Lazio Roma,3,1,H,1.0,0.0,H
+ITA,1978-12-03,,Atalanta,Juventus,0,1,A,0.0,1.0,A
+ITA,1978-12-03,,Ascoli Calcio,Inter,1,2,A,1.0,1.0,D
+ITA,1978-12-03,,AS Roma,US Avellino,2,1,H,0.0,0.0,D
+ITA,1978-12-10,,Juventus,Inter,1,1,D,1.0,1.0,D
+ITA,1978-12-10,,Lanerossi Vicenza,US Avellino,2,1,H,1.0,0.0,H
+ITA,1978-12-10,,SSC Napoli,AC Perugia,1,1,D,0.0,0.0,D
+ITA,1978-12-10,,AC Milan,Torino FC,1,0,H,1.0,0.0,H
+ITA,1978-12-10,,Ascoli Calcio,Atalanta,1,0,H,0.0,0.0,D
+ITA,1978-12-10,,ACF Fiorentina,AS Roma,2,0,H,0.0,0.0,D
+ITA,1978-12-10,,US Catanzaro,Hellas Verona,1,1,D,1.0,1.0,D
+ITA,1978-12-10,,Lazio Roma,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1978-12-17,,Inter,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1978-12-17,,Torino FC,Lazio Roma,2,2,D,2.0,1.0,H
+ITA,1978-12-17,,AC Perugia,US Catanzaro,1,0,H,0.0,0.0,D
+ITA,1978-12-17,,Hellas Verona,AC Milan,1,3,A,0.0,0.0,D
+ITA,1978-12-17,,Bologna FC,SSC Napoli,1,1,D,0.0,0.0,D
+ITA,1978-12-17,,US Avellino,Ascoli Calcio,3,1,H,0.0,0.0,D
+ITA,1978-12-17,,Atalanta,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1978-12-17,,AS Roma,Juventus,1,0,H,1.0,0.0,H
+ITA,1979-01-07,,SSC Napoli,Lazio Roma,0,2,A,,,
+ITA,1979-01-07,,AS Roma,Inter,1,1,D,1.0,1.0,D
+ITA,1979-01-07,,Torino FC,Bologna FC,3,1,H,1.0,1.0,D
+ITA,1979-01-07,,AC Perugia,Hellas Verona,1,1,D,0.0,0.0,D
+ITA,1979-01-07,,Lanerossi Vicenza,Ascoli Calcio,1,1,D,1.0,1.0,D
+ITA,1979-01-07,,US Avellino,Atalanta,0,0,D,0.0,0.0,D
+ITA,1979-01-07,,ACF Fiorentina,Juventus,0,1,A,0.0,0.0,D
+ITA,1979-01-07,,AC Milan,US Catanzaro,4,0,H,2.0,0.0,H
+ITA,1979-01-14,,US Catanzaro,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1979-01-14,,Lazio Roma,AC Perugia,0,0,D,0.0,0.0,D
+ITA,1979-01-14,,Inter,US Avellino,2,0,H,1.0,0.0,H
+ITA,1979-01-14,,Hellas Verona,Torino FC,0,1,A,0.0,1.0,A
+ITA,1979-01-14,,Bologna FC,AC Milan,0,1,A,0.0,0.0,D
+ITA,1979-01-14,,Atalanta,AS Roma,2,0,H,1.0,0.0,H
+ITA,1979-01-14,,Ascoli Calcio,ACF Fiorentina,2,1,H,1.0,1.0,D
+ITA,1979-01-14,,Juventus,Lanerossi Vicenza,1,2,A,0.0,1.0,A
+ITA,1979-01-21,,SSC Napoli,Hellas Verona,1,0,H,0.0,0.0,D
+ITA,1979-01-21,,AS Roma,Ascoli Calcio,1,0,H,0.0,0.0,D
+ITA,1979-01-21,,Torino FC,US Catanzaro,3,0,H,1.0,0.0,H
+ITA,1979-01-21,,AC Perugia,Bologna FC,3,1,H,1.0,0.0,H
+ITA,1979-01-21,,AC Milan,Lazio Roma,2,0,H,1.0,0.0,H
+ITA,1979-01-21,,Lanerossi Vicenza,Atalanta,1,1,D,0.0,1.0,A
+ITA,1979-01-21,,US Avellino,Juventus,0,0,D,0.0,0.0,D
+ITA,1979-01-21,,ACF Fiorentina,Inter,1,2,A,0.0,2.0,A
+ITA,1979-01-28,,Atalanta,US Catanzaro,0,2,A,0.0,0.0,D
+ITA,1979-01-28,,Lanerossi Vicenza,AC Perugia,1,1,D,1.0,1.0,D
+ITA,1979-01-28,,AS Roma,Hellas Verona,2,0,H,2.0,0.0,H
+ITA,1979-01-28,,Juventus,Lazio Roma,2,1,H,1.0,0.0,H
+ITA,1979-01-28,,US Avellino,AC Milan,1,0,H,1.0,0.0,H
+ITA,1979-01-28,,Ascoli Calcio,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1979-01-28,,ACF Fiorentina,Torino FC,0,0,D,0.0,0.0,D
+ITA,1979-01-28,,Inter,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1979-02-04,,AC Milan,AS Roma,1,0,H,0.0,0.0,D
+ITA,1979-02-04,,Torino FC,Atalanta,3,0,H,2.0,0.0,H
+ITA,1979-02-04,,SSC Napoli,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1979-02-04,,Hellas Verona,Juventus,0,3,A,0.0,0.0,D
+ITA,1979-02-04,,Lazio Roma,US Avellino,0,0,D,0.0,0.0,D
+ITA,1979-02-04,,US Catanzaro,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1979-02-04,,Bologna FC,Ascoli Calcio,0,0,D,0.0,0.0,D
+ITA,1979-02-04,,AC Perugia,Inter,2,2,D,0.0,2.0,A
+ITA,1979-02-11,,Inter,Hellas Verona,4,0,H,3.0,0.0,H
+ITA,1979-02-11,,AS Roma,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1979-02-11,,Lanerossi Vicenza,Bologna FC,2,2,D,2.0,0.0,H
+ITA,1979-02-11,,Juventus,US Catanzaro,3,1,H,1.0,0.0,H
+ITA,1979-02-11,,ACF Fiorentina,AC Perugia,1,1,D,1.0,1.0,D
+ITA,1979-02-11,,US Avellino,Torino FC,1,1,D,0.0,1.0,A
+ITA,1979-02-11,,Ascoli Calcio,AC Milan,0,1,A,0.0,1.0,A
+ITA,1979-02-11,,Atalanta,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1979-02-18,,SSC Napoli,Lanerossi Vicenza,2,2,D,1.0,0.0,H
+ITA,1979-02-18,,Torino FC,Ascoli Calcio,3,1,H,1.0,0.0,H
+ITA,1979-02-18,,Hellas Verona,US Avellino,0,1,A,0.0,0.0,D
+ITA,1979-02-18,,AC Perugia,Juventus,0,0,D,0.0,0.0,D
+ITA,1979-02-18,,Lazio Roma,ACF Fiorentina,4,0,H,0.0,0.0,D
+ITA,1979-02-18,,Bologna FC,AS Roma,1,2,A,0.0,2.0,A
+ITA,1979-02-18,,US Catanzaro,Inter,1,1,D,0.0,0.0,D
+ITA,1979-02-18,,AC Milan,Atalanta,1,1,D,1.0,1.0,D
+ITA,1979-03-04,,ACF Fiorentina,AC Milan,2,3,A,1.0,2.0,A
+ITA,1979-03-04,,AS Roma,US Catanzaro,1,3,A,1.0,2.0,A
+ITA,1979-03-04,,Lanerossi Vicenza,Lazio Roma,4,1,H,1.0,1.0,D
+ITA,1979-03-04,,Ascoli Calcio,Hellas Verona,1,0,H,0.0,0.0,D
+ITA,1979-03-04,,Inter,Torino FC,0,0,D,0.0,0.0,D
+ITA,1979-03-04,,US Avellino,AC Perugia,0,1,A,0.0,0.0,D
+ITA,1979-03-04,,Atalanta,SSC Napoli,2,1,H,0.0,0.0,D
+ITA,1979-03-04,,Juventus,Bologna FC,1,1,D,0.0,0.0,D
+ITA,1979-03-11,,Lazio Roma,Ascoli Calcio,3,1,H,1.0,1.0,D
+ITA,1979-03-11,,Torino FC,AS Roma,1,0,H,0.0,0.0,D
+ITA,1979-03-11,,AC Perugia,Atalanta,2,0,H,2.0,0.0,H
+ITA,1979-03-11,,Hellas Verona,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1979-03-11,,AC Milan,Juventus,0,0,D,0.0,0.0,D
+ITA,1979-03-11,,US Catanzaro,US Avellino,0,0,D,0.0,0.0,D
+ITA,1979-03-11,,Bologna FC,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1979-03-11,,SSC Napoli,Inter,0,0,D,0.0,0.0,D
+ITA,1979-03-18,,Ascoli Calcio,AC Perugia,0,0,D,0.0,0.0,D
+ITA,1979-03-18,,Atalanta,Hellas Verona,1,0,H,1.0,0.0,H
+ITA,1979-03-18,,US Avellino,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1979-03-18,,ACF Fiorentina,US Catanzaro,1,1,D,0.0,1.0,A
+ITA,1979-03-18,,Inter,AC Milan,2,2,D,0.0,0.0,D
+ITA,1979-03-18,,Juventus,SSC Napoli,1,0,H,0.0,0.0,D
+ITA,1979-03-18,,Lanerossi Vicenza,Torino FC,2,2,D,1.0,0.0,H
+ITA,1979-03-18,,AS Roma,Lazio Roma,1,2,A,1.0,0.0,H
+ITA,1979-03-25,,SSC Napoli,US Avellino,3,0,H,1.0,0.0,H
+ITA,1979-03-25,,Torino FC,Juventus,0,1,A,0.0,0.0,D
+ITA,1979-03-25,,AC Perugia,AS Roma,1,1,D,1.0,0.0,H
+ITA,1979-03-25,,Lazio Roma,Inter,1,1,D,1.0,1.0,D
+ITA,1979-03-25,,US Catanzaro,Ascoli Calcio,1,1,D,0.0,1.0,A
+ITA,1979-03-25,,Bologna FC,Atalanta,1,0,H,0.0,0.0,D
+ITA,1979-03-25,,Hellas Verona,ACF Fiorentina,0,1,A,0.0,1.0,A
+ITA,1979-03-25,,AC Milan,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1979-04-01,,US Catanzaro,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1979-04-01,,Hellas Verona,Lazio Roma,2,0,H,0.0,0.0,D
+ITA,1979-04-01,,Torino FC,AC Perugia,0,0,D,0.0,0.0,D
+ITA,1979-04-01,,AS Roma,Lanerossi Vicenza,3,0,H,3.0,0.0,H
+ITA,1979-04-01,,ACF Fiorentina,US Avellino,1,0,H,1.0,0.0,H
+ITA,1979-04-01,,Atalanta,Inter,0,1,A,0.0,1.0,A
+ITA,1979-04-01,,Ascoli Calcio,Juventus,1,0,H,1.0,0.0,H
+ITA,1979-04-01,,AC Milan,SSC Napoli,0,1,A,0.0,1.0,A
+ITA,1979-04-08,,Lazio Roma,US Catanzaro,3,1,H,1.0,0.0,H
+ITA,1979-04-08,,Inter,Ascoli Calcio,1,1,D,1.0,0.0,H
+ITA,1979-04-08,,AC Perugia,AC Milan,1,1,D,1.0,1.0,D
+ITA,1979-04-08,,SSC Napoli,Torino FC,0,1,A,0.0,1.0,A
+ITA,1979-04-08,,Juventus,Atalanta,3,0,H,2.0,0.0,H
+ITA,1979-04-08,,US Avellino,AS Roma,0,0,D,0.0,0.0,D
+ITA,1979-04-08,,Bologna FC,Hellas Verona,1,0,H,1.0,0.0,H
+ITA,1979-04-08,,Lanerossi Vicenza,ACF Fiorentina,0,1,A,0.0,0.0,D
+ITA,1979-04-14,,Inter,Juventus,2,1,H,0.0,1.0,A
+ITA,1979-04-14,,Hellas Verona,US Catanzaro,0,0,D,0.0,0.0,D
+ITA,1979-04-14,,Torino FC,AC Milan,0,3,A,0.0,2.0,A
+ITA,1979-04-14,,AC Perugia,SSC Napoli,2,0,H,1.0,0.0,H
+ITA,1979-04-14,,Bologna FC,Lazio Roma,2,1,H,1.0,0.0,H
+ITA,1979-04-14,,US Avellino,Lanerossi Vicenza,2,1,H,1.0,0.0,H
+ITA,1979-04-14,,Atalanta,Ascoli Calcio,3,2,H,1.0,1.0,D
+ITA,1979-04-14,,AS Roma,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,1979-04-22,,Lazio Roma,Torino FC,0,0,D,0.0,0.0,D
+ITA,1979-04-22,,Ascoli Calcio,US Avellino,2,0,H,1.0,0.0,H
+ITA,1979-04-22,,AC Milan,Hellas Verona,2,1,H,0.0,1.0,A
+ITA,1979-04-22,,SSC Napoli,Bologna FC,2,1,H,1.0,1.0,D
+ITA,1979-04-22,,Juventus,AS Roma,4,1,H,1.0,0.0,H
+ITA,1979-04-22,,US Catanzaro,AC Perugia,1,1,D,0.0,1.0,A
+ITA,1979-04-22,,Lanerossi Vicenza,Inter,0,1,A,0.0,0.0,D
+ITA,1979-04-22,,ACF Fiorentina,Atalanta,0,1,A,0.0,1.0,A
+ITA,1979-04-29,,US Catanzaro,AC Milan,1,3,A,0.0,0.0,D
+ITA,1979-04-29,,Hellas Verona,AC Perugia,1,1,D,0.0,0.0,D
+ITA,1979-04-29,,Lazio Roma,SSC Napoli,1,2,A,1.0,1.0,D
+ITA,1979-04-29,,Inter,AS Roma,1,2,A,0.0,2.0,A
+ITA,1979-04-29,,Bologna FC,Torino FC,1,1,D,0.0,0.0,D
+ITA,1979-04-29,,Atalanta,US Avellino,0,0,D,0.0,0.0,D
+ITA,1979-04-29,,Ascoli Calcio,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1979-04-29,,Juventus,ACF Fiorentina,1,1,D,1.0,0.0,H
+ITA,1979-05-06,,ACF Fiorentina,Ascoli Calcio,1,0,H,1.0,0.0,H
+ITA,1979-05-06,,AS Roma,Atalanta,2,2,D,1.0,2.0,A
+ITA,1979-05-06,,Torino FC,Hellas Verona,0,0,D,0.0,0.0,D
+ITA,1979-05-06,,AC Perugia,Lazio Roma,2,0,H,2.0,0.0,H
+ITA,1979-05-06,,SSC Napoli,US Catanzaro,1,0,H,0.0,0.0,D
+ITA,1979-05-06,,Lanerossi Vicenza,Juventus,1,1,D,0.0,1.0,A
+ITA,1979-05-06,,US Avellino,Inter,1,0,H,1.0,0.0,H
+ITA,1979-05-06,,AC Milan,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1979-05-13,,Lazio Roma,AC Milan,1,1,D,1.0,1.0,D
+ITA,1979-05-13,,Ascoli Calcio,AS Roma,0,0,D,0.0,0.0,D
+ITA,1979-05-13,,Atalanta,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1979-05-13,,Bologna FC,AC Perugia,2,2,D,1.0,2.0,A
+ITA,1979-05-13,,US Catanzaro,Torino FC,2,1,H,0.0,1.0,A
+ITA,1979-05-13,,Inter,ACF Fiorentina,1,2,A,1.0,1.0,D
+ITA,1979-05-13,,Juventus,US Avellino,3,3,D,0.0,0.0,D
+ITA,1979-05-13,,Hellas Verona,SSC Napoli,0,0,D,0.0,0.0,D

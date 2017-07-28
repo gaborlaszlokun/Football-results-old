@@ -1,463 +1,463 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ENG,09/08/1969,,Arsenal FC,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,09/08/1969,,West Ham United,Newcastle United,1,0,H,NaN,NaN,NaN
-ENG,09/08/1969,,Sunderland AFC,Coventry City,0,0,D,NaN,NaN,NaN
-ENG,09/08/1969,,Southampton FC,West Bromwich Albion,0,2,A,NaN,NaN,NaN
-ENG,09/08/1969,,Manchester City,Sheffield Wednesday,4,1,H,NaN,NaN,NaN
-ENG,09/08/1969,,Liverpool FC,Chelsea FC,4,1,H,NaN,NaN,NaN
-ENG,09/08/1969,,Leeds United,Tottenham Hotspur,3,1,H,NaN,NaN,NaN
-ENG,09/08/1969,,Ipswich Town,Nottingham Forest,0,0,D,NaN,NaN,NaN
-ENG,09/08/1969,,Derby County,Burnley FC,0,0,D,NaN,NaN,NaN
-ENG,09/08/1969,,Crystal Palace,Manchester United,2,2,D,NaN,NaN,NaN
-ENG,09/08/1969,,Wolverhampton Wanderers,Stoke City,3,1,H,NaN,NaN,NaN
-ENG,11/08/1969,,West Ham United,Chelsea FC,2,0,H,NaN,NaN,NaN
-ENG,12/08/1969,,Coventry City,West Bromwich Albion,3,1,H,NaN,NaN,NaN
-ENG,12/08/1969,,Ipswich Town,Derby County,0,1,A,NaN,NaN,NaN
-ENG,12/08/1969,,Liverpool FC,Manchester City,3,2,H,NaN,NaN,NaN
-ENG,12/08/1969,,Nottingham Forest,Stoke City,0,0,D,NaN,NaN,NaN
-ENG,13/08/1969,,Tottenham Hotspur,Burnley FC,4,0,H,NaN,NaN,NaN
-ENG,13/08/1969,,Newcastle United,Sheffield Wednesday,3,1,H,NaN,NaN,NaN
-ENG,13/08/1969,,Manchester United,Everton FC,0,2,A,NaN,NaN,NaN
-ENG,13/08/1969,,Leeds United,Arsenal FC,0,0,D,NaN,NaN,NaN
-ENG,13/08/1969,,Crystal Palace,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,13/08/1969,,Wolverhampton Wanderers,Southampton FC,2,1,H,NaN,NaN,NaN
-ENG,16/08/1969,,Burnley FC,Sunderland AFC,3,0,H,NaN,NaN,NaN
-ENG,16/08/1969,,Tottenham Hotspur,Liverpool FC,0,2,A,NaN,NaN,NaN
-ENG,16/08/1969,,Stoke City,West Ham United,2,1,H,NaN,NaN,NaN
-ENG,16/08/1969,,Sheffield Wednesday,Wolverhampton Wanderers,2,3,A,NaN,NaN,NaN
-ENG,16/08/1969,,Nottingham Forest,Leeds United,1,4,A,NaN,NaN,NaN
-ENG,16/08/1969,,Newcastle United,Manchester City,1,0,H,NaN,NaN,NaN
-ENG,16/08/1969,,Manchester United,Southampton FC,1,4,A,NaN,NaN,NaN
-ENG,16/08/1969,,Everton FC,Crystal Palace,2,1,H,NaN,NaN,NaN
-ENG,16/08/1969,,Coventry City,Derby County,1,1,D,NaN,NaN,NaN
-ENG,16/08/1969,,Chelsea FC,Ipswich Town,1,0,H,NaN,NaN,NaN
-ENG,16/08/1969,,West Bromwich Albion,Arsenal FC,0,1,A,NaN,NaN,NaN
-ENG,19/08/1969,,Arsenal FC,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,19/08/1969,,Burnley FC,Tottenham Hotspur,0,2,A,NaN,NaN,NaN
-ENG,19/08/1969,,Everton FC,Manchester United,3,0,H,NaN,NaN,NaN
-ENG,20/08/1969,,Sunderland AFC,Crystal Palace,0,0,D,NaN,NaN,NaN
-ENG,20/08/1969,,Stoke City,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,20/08/1969,,Southampton FC,Wolverhampton Wanderers,2,3,A,NaN,NaN,NaN
-ENG,20/08/1969,,Sheffield Wednesday,Newcastle United,1,0,H,NaN,NaN,NaN
-ENG,20/08/1969,,Manchester City,Liverpool FC,0,2,A,NaN,NaN,NaN
-ENG,20/08/1969,,Derby County,Ipswich Town,3,1,H,NaN,NaN,NaN
-ENG,20/08/1969,,Chelsea FC,West Ham United,0,0,D,NaN,NaN,NaN
-ENG,20/08/1969,,West Bromwich Albion,Coventry City,0,1,A,NaN,NaN,NaN
-ENG,23/08/1969,,Arsenal FC,Nottingham Forest,2,1,H,NaN,NaN,NaN
-ENG,23/08/1969,,West Ham United,West Bromwich Albion,1,3,A,NaN,NaN,NaN
-ENG,23/08/1969,,Sunderland AFC,Sheffield Wednesday,1,2,A,NaN,NaN,NaN
-ENG,23/08/1969,,Southampton FC,Chelsea FC,2,2,D,NaN,NaN,NaN
-ENG,23/08/1969,,Manchester City,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,23/08/1969,,Liverpool FC,Burnley FC,3,3,D,NaN,NaN,NaN
-ENG,23/08/1969,,Leeds United,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,23/08/1969,,Ipswich Town,Coventry City,0,1,A,NaN,NaN,NaN
-ENG,23/08/1969,,Derby County,Stoke City,0,0,D,NaN,NaN,NaN
-ENG,23/08/1969,,Crystal Palace,Tottenham Hotspur,0,2,A,NaN,NaN,NaN
-ENG,23/08/1969,,Wolverhampton Wanderers,Manchester United,0,0,D,NaN,NaN,NaN
-ENG,25/08/1969,,West Ham United,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,26/08/1969,,Burnley FC,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,26/08/1969,,Everton FC,Sheffield Wednesday,2,1,H,NaN,NaN,NaN
-ENG,26/08/1969,,Nottingham Forest,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,27/08/1969,,Tottenham Hotspur,Chelsea FC,1,1,D,NaN,NaN,NaN
-ENG,27/08/1969,,Sunderland AFC,Manchester City,0,4,A,NaN,NaN,NaN
-ENG,27/08/1969,,Stoke City,Coventry City,2,0,H,NaN,NaN,NaN
-ENG,27/08/1969,,Southampton FC,Ipswich Town,4,2,H,NaN,NaN,NaN
-ENG,27/08/1969,,Manchester United,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,27/08/1969,,Crystal Palace,Liverpool FC,1,3,A,NaN,NaN,NaN
-ENG,27/08/1969,,Wolverhampton Wanderers,Derby County,1,1,D,NaN,NaN,NaN
-ENG,30/08/1969,,Burnley FC,Manchester City,1,1,D,NaN,NaN,NaN
-ENG,30/08/1969,,Tottenham Hotspur,Ipswich Town,3,2,H,NaN,NaN,NaN
-ENG,30/08/1969,,Stoke City,Southampton FC,2,1,H,NaN,NaN,NaN
-ENG,30/08/1969,,Sheffield Wednesday,Liverpool FC,1,1,D,NaN,NaN,NaN
-ENG,30/08/1969,,Nottingham Forest,West Ham United,1,0,H,NaN,NaN,NaN
-ENG,30/08/1969,,Newcastle United,Arsenal FC,3,1,H,NaN,NaN,NaN
-ENG,30/08/1969,,Manchester United,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,30/08/1969,,Everton FC,Leeds United,3,2,H,NaN,NaN,NaN
-ENG,30/08/1969,,Coventry City,Wolverhampton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,30/08/1969,,Chelsea FC,Crystal Palace,1,1,D,NaN,NaN,NaN
-ENG,30/08/1969,,West Bromwich Albion,Derby County,0,2,A,NaN,NaN,NaN
-ENG,06/09/1969,,Arsenal FC,Sheffield Wednesday,0,0,D,NaN,NaN,NaN
-ENG,06/09/1969,,West Ham United,Tottenham Hotspur,0,1,A,NaN,NaN,NaN
-ENG,06/09/1969,,Sunderland AFC,West Bromwich Albion,2,2,D,NaN,NaN,NaN
-ENG,06/09/1969,,Southampton FC,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,06/09/1969,,Manchester City,Chelsea FC,0,0,D,NaN,NaN,NaN
-ENG,06/09/1969,,Liverpool FC,Coventry City,2,1,H,NaN,NaN,NaN
-ENG,06/09/1969,,Leeds United,Manchester United,2,2,D,NaN,NaN,NaN
-ENG,06/09/1969,,Ipswich Town,Newcastle United,2,0,H,NaN,NaN,NaN
-ENG,06/09/1969,,Derby County,Everton FC,2,1,H,NaN,NaN,NaN
-ENG,06/09/1969,,Crystal Palace,Stoke City,3,1,H,NaN,NaN,NaN
-ENG,06/09/1969,,Wolverhampton Wanderers,Nottingham Forest,3,3,D,NaN,NaN,NaN
-ENG,13/09/1969,,Burnley FC,Arsenal FC,0,1,A,NaN,NaN,NaN
-ENG,13/09/1969,,Chelsea FC,Wolverhampton Wanderers,2,2,D,NaN,NaN,NaN
-ENG,13/09/1969,,Coventry City,Crystal Palace,2,2,D,NaN,NaN,NaN
-ENG,13/09/1969,,Everton FC,West Ham United,2,0,H,NaN,NaN,NaN
-ENG,13/09/1969,,Sheffield Wednesday,Leeds United,1,2,A,NaN,NaN,NaN
-ENG,13/09/1969,,Tottenham Hotspur,Manchester City,0,3,A,NaN,NaN,NaN
-ENG,13/09/1969,,West Bromwich Albion,Ipswich Town,2,2,D,NaN,NaN,NaN
-ENG,13/09/1969,,Manchester United,Liverpool FC,1,0,H,NaN,NaN,NaN
-ENG,13/09/1969,,Newcastle United,Derby County,0,1,A,NaN,NaN,NaN
-ENG,13/09/1969,,Nottingham Forest,Southampton FC,2,1,H,NaN,NaN,NaN
-ENG,13/09/1969,,Stoke City,Sunderland AFC,4,2,H,NaN,NaN,NaN
-ENG,09/09/1969,,Liverpool FC,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,10/09/1969,,Derby County,Southampton FC,3,0,H,NaN,NaN,NaN
-ENG,16/09/1969,,Arsenal FC,Tottenham Hotspur,2,3,A,NaN,NaN,NaN
-ENG,16/09/1969,,Coventry City,Nottingham Forest,3,2,H,NaN,NaN,NaN
-ENG,16/09/1969,,Ipswich Town,Wolverhampton Wanderers,1,1,D,NaN,NaN,NaN
-ENG,17/09/1969,,West Bromwich Albion,Stoke City,1,3,A,NaN,NaN,NaN
-ENG,17/09/1969,,Sheffield Wednesday,Manchester United,1,3,A,NaN,NaN,NaN
-ENG,17/09/1969,,Newcastle United,Everton FC,1,2,A,NaN,NaN,NaN
-ENG,17/09/1969,,Chelsea FC,Burnley FC,2,0,H,NaN,NaN,NaN
-ENG,17/12/1969,,Leeds United,West Ham United,4,1,H,NaN,NaN,NaN
-ENG,11/03/1970,,Manchester City,Crystal Palace,0,1,A,NaN,NaN,NaN
-ENG,20/09/1969,,Crystal Palace,West Bromwich Albion,1,3,A,NaN,NaN,NaN
-ENG,20/09/1969,,Leeds United,Chelsea FC,2,0,H,NaN,NaN,NaN
-ENG,20/09/1969,,Manchester City,Coventry City,3,1,H,NaN,NaN,NaN
-ENG,20/09/1969,,West Ham United,Sheffield Wednesday,3,0,H,NaN,NaN,NaN
-ENG,20/09/1969,,Arsenal FC,Manchester United,2,2,D,NaN,NaN,NaN
-ENG,20/09/1969,,Wolverhampton Wanderers,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,20/09/1969,,Sunderland AFC,Nottingham Forest,2,1,H,NaN,NaN,NaN
-ENG,20/09/1969,,Southampton FC,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,20/09/1969,,Liverpool FC,Stoke City,3,1,H,NaN,NaN,NaN
-ENG,20/09/1969,,Ipswich Town,Everton FC,0,3,A,NaN,NaN,NaN
-ENG,20/09/1969,,Derby County,Tottenham Hotspur,5,0,H,NaN,NaN,NaN
-ENG,27/09/1969,,Coventry City,Leeds United,1,2,A,NaN,NaN,NaN
-ENG,27/09/1969,,Manchester United,West Ham United,5,2,H,NaN,NaN,NaN
-ENG,27/09/1969,,Nottingham Forest,Crystal Palace,0,0,D,NaN,NaN,NaN
-ENG,27/09/1969,,Stoke City,Manchester City,2,0,H,NaN,NaN,NaN
-ENG,27/09/1969,,Burnley FC,Ipswich Town,0,1,A,NaN,NaN,NaN
-ENG,27/09/1969,,West Bromwich Albion,Liverpool FC,2,2,D,NaN,NaN,NaN
-ENG,27/09/1969,,Tottenham Hotspur,Sunderland AFC,0,1,A,NaN,NaN,NaN
-ENG,27/09/1969,,Sheffield Wednesday,Derby County,1,0,H,NaN,NaN,NaN
-ENG,27/09/1969,,Newcastle United,Wolverhampton Wanderers,1,1,D,NaN,NaN,NaN
-ENG,27/09/1969,,Everton FC,Southampton FC,4,2,H,NaN,NaN,NaN
-ENG,27/09/1969,,Chelsea FC,Arsenal FC,3,0,H,NaN,NaN,NaN
-ENG,04/10/1969,,Crystal Palace,Newcastle United,0,3,A,NaN,NaN,NaN
-ENG,04/10/1969,,Leeds United,Stoke City,2,1,H,NaN,NaN,NaN
-ENG,04/10/1969,,Manchester City,West Bromwich Albion,2,1,H,NaN,NaN,NaN
-ENG,04/10/1969,,West Ham United,Burnley FC,3,1,H,NaN,NaN,NaN
-ENG,04/10/1969,,Arsenal FC,Coventry City,0,1,A,NaN,NaN,NaN
-ENG,04/10/1969,,Wolverhampton Wanderers,Everton FC,2,3,A,NaN,NaN,NaN
-ENG,04/10/1969,,Sunderland AFC,Chelsea FC,0,0,D,NaN,NaN,NaN
-ENG,04/10/1969,,Southampton FC,Tottenham Hotspur,2,2,D,NaN,NaN,NaN
-ENG,04/10/1969,,Liverpool FC,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,04/10/1969,,Ipswich Town,Sheffield Wednesday,1,0,H,NaN,NaN,NaN
-ENG,04/10/1969,,Derby County,Manchester United,2,0,H,NaN,NaN,NaN
-ENG,06/10/1969,,West Ham United,Stoke City,3,3,D,NaN,NaN,NaN
-ENG,07/10/1969,,Arsenal FC,West Bromwich Albion,1,1,D,NaN,NaN,NaN
-ENG,07/10/1969,,Liverpool FC,Tottenham Hotspur,0,0,D,NaN,NaN,NaN
-ENG,08/10/1969,,Crystal Palace,Everton FC,0,0,D,NaN,NaN,NaN
-ENG,08/10/1969,,Manchester City,Newcastle United,2,1,H,NaN,NaN,NaN
-ENG,08/10/1969,,Wolverhampton Wanderers,Sheffield Wednesday,2,2,D,NaN,NaN,NaN
-ENG,08/10/1969,,Sunderland AFC,Burnley FC,0,1,A,NaN,NaN,NaN
-ENG,08/10/1969,,Southampton FC,Manchester United,0,3,A,NaN,NaN,NaN
-ENG,08/10/1969,,Derby County,Coventry City,1,3,A,NaN,NaN,NaN
-ENG,29/10/1969,,Leeds United,Nottingham Forest,6,1,H,NaN,NaN,NaN
-ENG,18/11/1969,,Ipswich Town,Chelsea FC,1,4,A,NaN,NaN,NaN
-ENG,11/10/1969,,West Bromwich Albion,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,11/10/1969,,Burnley FC,Crystal Palace,4,2,H,NaN,NaN,NaN
-ENG,11/10/1969,,Coventry City,West Ham United,2,2,D,NaN,NaN,NaN
-ENG,11/10/1969,,Manchester United,Ipswich Town,2,1,H,NaN,NaN,NaN
-ENG,11/10/1969,,Nottingham Forest,Manchester City,2,2,D,NaN,NaN,NaN
-ENG,11/10/1969,,Chelsea FC,Derby County,2,2,D,NaN,NaN,NaN
-ENG,11/10/1969,,Tottenham Hotspur,Wolverhampton Wanderers,0,1,A,NaN,NaN,NaN
-ENG,11/10/1969,,Stoke City,Arsenal FC,0,0,D,NaN,NaN,NaN
-ENG,11/10/1969,,Sheffield Wednesday,Southampton FC,1,1,D,NaN,NaN,NaN
-ENG,11/10/1969,,Newcastle United,Liverpool FC,1,0,H,NaN,NaN,NaN
-ENG,11/10/1969,,Everton FC,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,18/10/1969,,Chelsea FC,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,18/10/1969,,Crystal Palace,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,18/10/1969,,Ipswich Town,Liverpool FC,2,2,D,NaN,NaN,NaN
-ENG,18/10/1969,,Manchester United,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,18/10/1969,,Wolverhampton Wanderers,West Ham United,1,0,H,NaN,NaN,NaN
-ENG,18/10/1969,,Burnley FC,Sheffield Wednesday,4,2,H,NaN,NaN,NaN
-ENG,18/10/1969,,Tottenham Hotspur,Newcastle United,2,1,H,NaN,NaN,NaN
-ENG,18/10/1969,,Sunderland AFC,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,18/10/1969,,Southampton FC,Coventry City,0,0,D,NaN,NaN,NaN
-ENG,18/10/1969,,Everton FC,Stoke City,6,2,H,NaN,NaN,NaN
-ENG,18/10/1969,,Derby County,Manchester City,0,1,A,NaN,NaN,NaN
-ENG,25/10/1969,,Manchester City,Wolverhampton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,25/10/1969,,Nottingham Forest,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,25/10/1969,,Sheffield Wednesday,Crystal Palace,0,0,D,NaN,NaN,NaN
-ENG,25/10/1969,,Arsenal FC,Ipswich Town,0,0,D,NaN,NaN,NaN
-ENG,25/10/1969,,West Ham United,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,25/10/1969,,West Bromwich Albion,Manchester United,2,1,H,NaN,NaN,NaN
-ENG,25/10/1969,,Stoke City,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,25/10/1969,,Newcastle United,Chelsea FC,0,1,A,NaN,NaN,NaN
-ENG,25/10/1969,,Liverpool FC,Southampton FC,4,1,H,NaN,NaN,NaN
-ENG,25/10/1969,,Leeds United,Derby County,2,0,H,NaN,NaN,NaN
-ENG,25/10/1969,,Coventry City,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,01/11/1969,,Ipswich Town,Manchester City,1,1,D,NaN,NaN,NaN
-ENG,01/11/1969,,Sunderland AFC,Leeds United,0,0,D,NaN,NaN,NaN
-ENG,01/11/1969,,Burnley FC,Newcastle United,0,1,A,NaN,NaN,NaN
-ENG,01/11/1969,,Wolverhampton Wanderers,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,01/11/1969,,Tottenham Hotspur,Sheffield Wednesday,1,0,H,NaN,NaN,NaN
-ENG,01/11/1969,,Southampton FC,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,01/11/1969,,Manchester United,Stoke City,1,1,D,NaN,NaN,NaN
-ENG,01/11/1969,,Everton FC,Nottingham Forest,1,0,H,NaN,NaN,NaN
-ENG,01/11/1969,,Derby County,Liverpool FC,4,0,H,NaN,NaN,NaN
-ENG,01/11/1969,,Crystal Palace,Arsenal FC,1,5,A,NaN,NaN,NaN
-ENG,01/11/1969,,Chelsea FC,Coventry City,1,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,Leeds United,Ipswich Town,4,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,Manchester City,Southampton FC,1,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,Sheffield Wednesday,Chelsea FC,1,3,A,NaN,NaN,NaN
-ENG,08/11/1969,,West Ham United,Crystal Palace,2,1,H,NaN,NaN,NaN
-ENG,08/11/1969,,Arsenal FC,Derby County,4,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,West Bromwich Albion,Everton FC,2,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,Stoke City,Burnley FC,2,1,H,NaN,NaN,NaN
-ENG,08/11/1969,,Nottingham Forest,Tottenham Hotspur,2,2,D,NaN,NaN,NaN
-ENG,08/11/1969,,Newcastle United,Sunderland AFC,3,0,H,NaN,NaN,NaN
-ENG,08/11/1969,,Liverpool FC,Wolverhampton Wanderers,0,0,D,NaN,NaN,NaN
-ENG,08/11/1969,,Coventry City,Manchester United,1,2,A,NaN,NaN,NaN
-ENG,15/11/1969,,Chelsea FC,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,15/11/1969,,Ipswich Town,Crystal Palace,2,0,H,NaN,NaN,NaN
-ENG,15/11/1969,,Manchester City,Manchester United,4,0,H,NaN,NaN,NaN
-ENG,15/11/1969,,Southampton FC,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,15/11/1969,,Burnley FC,Coventry City,0,0,D,NaN,NaN,NaN
-ENG,15/11/1969,,Wolverhampton Wanderers,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,15/11/1969,,Tottenham Hotspur,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,15/11/1969,,Sheffield Wednesday,Stoke City,0,2,A,NaN,NaN,NaN
-ENG,15/11/1969,,Newcastle United,Nottingham Forest,3,1,H,NaN,NaN,NaN
-ENG,15/11/1969,,Liverpool FC,West Ham United,2,0,H,NaN,NaN,NaN
-ENG,15/11/1969,,Derby County,Sunderland AFC,3,0,H,NaN,NaN,NaN
-ENG,22/11/1969,,Crystal Palace,Wolverhampton Wanderers,2,1,H,NaN,NaN,NaN
-ENG,22/11/1969,,Arsenal FC,Manchester City,1,1,D,NaN,NaN,NaN
-ENG,22/11/1969,,West Ham United,Derby County,3,0,H,NaN,NaN,NaN
-ENG,22/11/1969,,West Bromwich Albion,Sheffield Wednesday,3,0,H,NaN,NaN,NaN
-ENG,22/11/1969,,Sunderland AFC,Southampton FC,2,2,D,NaN,NaN,NaN
-ENG,22/11/1969,,Stoke City,Ipswich Town,3,3,D,NaN,NaN,NaN
-ENG,22/11/1969,,Nottingham Forest,Chelsea FC,1,1,D,NaN,NaN,NaN
-ENG,22/11/1969,,Manchester United,Tottenham Hotspur,3,1,H,NaN,NaN,NaN
-ENG,22/11/1969,,Leeds United,Liverpool FC,1,1,D,NaN,NaN,NaN
-ENG,22/11/1969,,Everton FC,Burnley FC,2,1,H,NaN,NaN,NaN
-ENG,22/11/1969,,Coventry City,Newcastle United,1,0,H,NaN,NaN,NaN
-ENG,29/11/1969,,Southampton FC,Crystal Palace,1,1,D,NaN,NaN,NaN
-ENG,29/11/1969,,Burnley FC,Manchester United,1,1,D,NaN,NaN,NaN
-ENG,29/11/1969,,Derby County,Nottingham Forest,0,2,A,NaN,NaN,NaN
-ENG,29/11/1969,,Ipswich Town,West Ham United,1,0,H,NaN,NaN,NaN
-ENG,29/11/1969,,Liverpool FC,Arsenal FC,0,1,A,NaN,NaN,NaN
-ENG,29/11/1969,,Manchester City,Leeds United,1,2,A,NaN,NaN,NaN
-ENG,29/11/1969,,Wolverhampton Wanderers,Sunderland AFC,1,0,H,NaN,NaN,NaN
-ENG,28/01/1970,,Sheffield Wednesday,Coventry City,0,1,A,NaN,NaN,NaN
-ENG,06/02/1970,,Newcastle United,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,11/03/1970,,Tottenham Hotspur,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,13/04/1970,,Stoke City,Chelsea FC,1,2,A,NaN,NaN,NaN
-ENG,06/12/1969,,Coventry City,Tottenham Hotspur,3,2,H,NaN,NaN,NaN
-ENG,06/12/1969,,Crystal Palace,Derby County,0,1,A,NaN,NaN,NaN
-ENG,06/12/1969,,Stoke City,Newcastle United,0,1,A,NaN,NaN,NaN
-ENG,06/12/1969,,West Ham United,Manchester City,0,4,A,NaN,NaN,NaN
-ENG,06/12/1969,,West Bromwich Albion,Burnley FC,0,1,A,NaN,NaN,NaN
-ENG,06/12/1969,,Sunderland AFC,Ipswich Town,2,1,H,NaN,NaN,NaN
-ENG,06/12/1969,,Nottingham Forest,Sheffield Wednesday,2,1,H,NaN,NaN,NaN
-ENG,06/12/1969,,Manchester United,Chelsea FC,0,2,A,NaN,NaN,NaN
-ENG,06/12/1969,,Leeds United,Wolverhampton Wanderers,3,1,H,NaN,NaN,NaN
-ENG,06/12/1969,,Everton FC,Liverpool FC,0,3,A,NaN,NaN,NaN
-ENG,06/12/1969,,Arsenal FC,Southampton FC,2,2,D,NaN,NaN,NaN
-ENG,13/12/1969,,Crystal Palace,Coventry City,0,3,A,NaN,NaN,NaN
-ENG,13/12/1969,,Manchester City,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,13/12/1969,,West Ham United,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,13/12/1969,,Arsenal FC,Burnley FC,3,2,H,NaN,NaN,NaN
-ENG,13/12/1969,,Derby County,Newcastle United,2,0,H,NaN,NaN,NaN
-ENG,13/12/1969,,Ipswich Town,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,13/12/1969,,Leeds United,Sheffield Wednesday,2,0,H,NaN,NaN,NaN
-ENG,13/12/1969,,Liverpool FC,Manchester United,1,4,A,NaN,NaN,NaN
-ENG,13/12/1969,,Southampton FC,Nottingham Forest,1,2,A,NaN,NaN,NaN
-ENG,13/12/1969,,Wolverhampton Wanderers,Chelsea FC,3,0,H,NaN,NaN,NaN
-ENG,13/12/1969,,Sunderland AFC,Stoke City,0,3,A,NaN,NaN,NaN
-ENG,20/12/1969,,Chelsea FC,Manchester City,3,1,H,NaN,NaN,NaN
-ENG,20/12/1969,,Stoke City,Crystal Palace,1,0,H,NaN,NaN,NaN
-ENG,20/12/1969,,Tottenham Hotspur,West Ham United,0,2,A,NaN,NaN,NaN
-ENG,20/12/1969,,Sheffield Wednesday,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,20/12/1969,,Nottingham Forest,Wolverhampton Wanderers,4,2,H,NaN,NaN,NaN
-ENG,20/12/1969,,Newcastle United,Ipswich Town,4,0,H,NaN,NaN,NaN
-ENG,20/12/1969,,Everton FC,Derby County,1,0,H,NaN,NaN,NaN
-ENG,26/01/1970,,Manchester United,Leeds United,2,2,D,NaN,NaN,NaN
-ENG,27/01/1970,,West Bromwich Albion,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,03/03/1970,,Coventry City,Liverpool FC,2,3,A,NaN,NaN,NaN
-ENG,24/03/1970,,Burnley FC,Southampton FC,1,1,D,NaN,NaN,NaN
-ENG,23/12/1969,,Everton FC,Manchester City,1,0,H,NaN,NaN,NaN
-ENG,26/12/1969,,Burnley FC,Liverpool FC,1,5,A,NaN,NaN,NaN
-ENG,26/12/1969,,Chelsea FC,Southampton FC,3,1,H,NaN,NaN,NaN
-ENG,26/12/1969,,Tottenham Hotspur,Crystal Palace,2,0,H,NaN,NaN,NaN
-ENG,26/12/1969,,Coventry City,Ipswich Town,3,1,H,NaN,NaN,NaN
-ENG,26/12/1969,,West Bromwich Albion,West Ham United,3,1,H,NaN,NaN,NaN
-ENG,26/12/1969,,Stoke City,Derby County,1,0,H,NaN,NaN,NaN
-ENG,26/12/1969,,Sheffield Wednesday,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,26/12/1969,,Nottingham Forest,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,26/12/1969,,Newcastle United,Leeds United,2,1,H,NaN,NaN,NaN
-ENG,26/12/1969,,Manchester United,Wolverhampton Wanderers,0,0,D,NaN,NaN,NaN
-ENG,27/12/1969,,Crystal Palace,Chelsea FC,1,5,A,NaN,NaN,NaN
-ENG,27/12/1969,,Southampton FC,Stoke City,0,0,D,NaN,NaN,NaN
-ENG,27/12/1969,,Arsenal FC,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,27/12/1969,,Derby County,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,27/12/1969,,Ipswich Town,Tottenham Hotspur,2,0,H,NaN,NaN,NaN
-ENG,27/12/1969,,Leeds United,Everton FC,2,1,H,NaN,NaN,NaN
-ENG,27/12/1969,,Sunderland AFC,Manchester United,1,1,D,NaN,NaN,NaN
-ENG,27/12/1969,,West Ham United,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,06/01/1970,,Manchester City,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,16/03/1970,,Liverpool FC,Sheffield Wednesday,3,0,H,NaN,NaN,NaN
-ENG,10/04/1970,,Wolverhampton Wanderers,Coventry City,0,1,A,NaN,NaN,NaN
-ENG,10/01/1970,,Stoke City,Liverpool FC,0,2,A,NaN,NaN,NaN
-ENG,10/01/1970,,West Bromwich Albion,Crystal Palace,3,2,H,NaN,NaN,NaN
-ENG,10/01/1970,,Coventry City,Manchester City,3,0,H,NaN,NaN,NaN
-ENG,10/01/1970,,Burnley FC,Wolverhampton Wanderers,1,3,A,NaN,NaN,NaN
-ENG,10/01/1970,,Chelsea FC,Leeds United,2,5,A,NaN,NaN,NaN
-ENG,10/01/1970,,Everton FC,Ipswich Town,3,0,H,NaN,NaN,NaN
-ENG,10/01/1970,,Manchester United,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,10/01/1970,,Sheffield Wednesday,West Ham United,2,3,A,NaN,NaN,NaN
-ENG,10/01/1970,,Tottenham Hotspur,Derby County,2,1,H,NaN,NaN,NaN
-ENG,24/01/1970,,Nottingham Forest,Sunderland AFC,2,1,H,NaN,NaN,NaN
-ENG,11/02/1970,,Newcastle United,Southampton FC,2,1,H,NaN,NaN,NaN
-ENG,17/01/1970,,Liverpool FC,West Bromwich Albion,1,1,D,NaN,NaN,NaN
-ENG,17/01/1970,,Southampton FC,Everton FC,2,1,H,NaN,NaN,NaN
-ENG,17/01/1970,,Wolverhampton Wanderers,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,17/01/1970,,Sunderland AFC,Tottenham Hotspur,2,1,H,NaN,NaN,NaN
-ENG,17/01/1970,,Manchester City,Stoke City,0,1,A,NaN,NaN,NaN
-ENG,17/01/1970,,Crystal Palace,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,17/01/1970,,Arsenal FC,Chelsea FC,0,3,A,NaN,NaN,NaN
-ENG,17/01/1970,,Derby County,Sheffield Wednesday,1,0,H,NaN,NaN,NaN
-ENG,17/01/1970,,Ipswich Town,Burnley FC,0,1,A,NaN,NaN,NaN
-ENG,17/01/1970,,Leeds United,Coventry City,3,1,H,NaN,NaN,NaN
-ENG,17/01/1970,,West Ham United,Manchester United,0,0,D,NaN,NaN,NaN
-ENG,24/01/1970,,Everton FC,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,24/01/1970,,Wolverhampton Wanderers,Ipswich Town,2,0,H,NaN,NaN,NaN
-ENG,02/04/1970,,West Ham United,Leeds United,2,2,D,NaN,NaN,NaN
-ENG,06/04/1970,,Crystal Palace,Manchester City,1,0,H,NaN,NaN,NaN
-ENG,07/04/1970,,Nottingham Forest,Coventry City,1,4,A,NaN,NaN,NaN
-ENG,15/04/1970,,Sunderland AFC,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,15/04/1970,,Stoke City,West Bromwich Albion,3,2,H,NaN,NaN,NaN
-ENG,15/04/1970,,Southampton FC,Derby County,1,1,D,NaN,NaN,NaN
-ENG,15/04/1970,,Manchester United,Sheffield Wednesday,2,2,D,NaN,NaN,NaN
-ENG,15/04/1970,,Burnley FC,Chelsea FC,3,1,H,NaN,NaN,NaN
-ENG,02/05/1970,,Tottenham Hotspur,Arsenal FC,1,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Nottingham Forest,Liverpool FC,1,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Tottenham Hotspur,Southampton FC,0,1,A,NaN,NaN,NaN
-ENG,31/01/1970,,Newcastle United,Crystal Palace,0,0,D,NaN,NaN,NaN
-ENG,31/01/1970,,West Bromwich Albion,Manchester City,3,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Manchester United,Derby County,1,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Everton FC,Wolverhampton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Coventry City,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,31/01/1970,,Burnley FC,West Ham United,3,2,H,NaN,NaN,NaN
-ENG,31/01/1970,,Chelsea FC,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,31/01/1970,,Sheffield Wednesday,Ipswich Town,2,2,D,NaN,NaN,NaN
-ENG,31/01/1970,,Stoke City,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,07/02/1970,,Southampton FC,Sheffield Wednesday,4,0,H,NaN,NaN,NaN
-ENG,07/02/1970,,Manchester City,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,07/02/1970,,Arsenal FC,Stoke City,0,0,D,NaN,NaN,NaN
-ENG,07/02/1970,,Wolverhampton Wanderers,Tottenham Hotspur,2,2,D,NaN,NaN,NaN
-ENG,10/02/1970,,Ipswich Town,Manchester United,0,1,A,NaN,NaN,NaN
-ENG,10/02/1970,,Leeds United,West Bromwich Albion,5,1,H,NaN,NaN,NaN
-ENG,11/02/1970,,Crystal Palace,Burnley FC,1,2,A,NaN,NaN,NaN
-ENG,11/02/1970,,West Ham United,Coventry City,1,2,A,NaN,NaN,NaN
-ENG,11/02/1970,,Derby County,Chelsea FC,2,2,D,NaN,NaN,NaN
-ENG,16/02/1970,,Liverpool FC,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,08/04/1970,,Sunderland AFC,Everton FC,0,0,D,NaN,NaN,NaN
-ENG,14/02/1970,,Manchester United,Crystal Palace,1,1,D,NaN,NaN,NaN
-ENG,14/02/1970,,Burnley FC,Derby County,1,1,D,NaN,NaN,NaN
-ENG,14/02/1970,,Everton FC,Arsenal FC,2,2,D,NaN,NaN,NaN
-ENG,14/02/1970,,Stoke City,Wolverhampton Wanderers,1,1,D,NaN,NaN,NaN
-ENG,14/02/1970,,Tottenham Hotspur,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,20/02/1970,,West Bromwich Albion,Southampton FC,1,0,H,NaN,NaN,NaN
-ENG,02/03/1970,,Newcastle United,West Ham United,4,1,H,NaN,NaN,NaN
-ENG,24/03/1970,,Coventry City,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,10/04/1970,,Nottingham Forest,Ipswich Town,1,0,H,NaN,NaN,NaN
-ENG,18/04/1970,,Chelsea FC,Liverpool FC,2,1,H,NaN,NaN,NaN
-ENG,22/04/1970,,Sheffield Wednesday,Manchester City,1,2,A,NaN,NaN,NaN
-ENG,21/02/1970,,Everton FC,Coventry City,0,0,D,NaN,NaN,NaN
-ENG,21/02/1970,,Wolverhampton Wanderers,Manchester City,1,3,A,NaN,NaN,NaN
-ENG,21/02/1970,,Tottenham Hotspur,Stoke City,1,0,H,NaN,NaN,NaN
-ENG,21/02/1970,,Sunderland AFC,West Ham United,0,1,A,NaN,NaN,NaN
-ENG,21/02/1970,,Crystal Palace,Sheffield Wednesday,0,2,A,NaN,NaN,NaN
-ENG,21/02/1970,,Burnley FC,Nottingham Forest,5,0,H,NaN,NaN,NaN
-ENG,25/02/1970,,Chelsea FC,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,11/03/1970,,Southampton FC,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,30/03/1970,,Derby County,Leeds United,4,1,H,NaN,NaN,NaN
-ENG,31/03/1970,,Ipswich Town,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,08/04/1970,,Manchester United,West Bromwich Albion,7,0,H,NaN,NaN,NaN
-ENG,19/11/1969,,Leeds United,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,28/02/1970,,Coventry City,Chelsea FC,0,3,A,NaN,NaN,NaN
-ENG,28/02/1970,,West Ham United,Southampton FC,0,0,D,NaN,NaN,NaN
-ENG,28/02/1970,,Stoke City,Manchester United,2,2,D,NaN,NaN,NaN
-ENG,28/02/1970,,Nottingham Forest,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,28/02/1970,,Manchester City,Ipswich Town,1,0,H,NaN,NaN,NaN
-ENG,28/02/1970,,Liverpool FC,Derby County,0,2,A,NaN,NaN,NaN
-ENG,28/02/1970,,West Bromwich Albion,Wolverhampton Wanderers,3,3,D,NaN,NaN,NaN
-ENG,30/03/1970,,Sheffield Wednesday,Tottenham Hotspur,0,1,A,NaN,NaN,NaN
-ENG,30/03/1970,,Arsenal FC,Crystal Palace,2,0,H,NaN,NaN,NaN
-ENG,30/03/1970,,Newcastle United,Burnley FC,0,1,A,NaN,NaN,NaN
-ENG,18/02/1970,,Manchester City,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,07/03/1970,,Southampton FC,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,07/03/1970,,Ipswich Town,Stoke City,1,1,D,NaN,NaN,NaN
-ENG,07/03/1970,,Chelsea FC,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,07/03/1970,,Burnley FC,Everton FC,1,2,A,NaN,NaN,NaN
-ENG,07/03/1970,,Derby County,West Ham United,3,0,H,NaN,NaN,NaN
-ENG,07/03/1970,,Liverpool FC,Leeds United,0,0,D,NaN,NaN,NaN
-ENG,10/03/1970,,Sheffield Wednesday,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,18/03/1970,,Wolverhampton Wanderers,Crystal Palace,1,1,D,NaN,NaN,NaN
-ENG,13/04/1970,,Tottenham Hotspur,Manchester United,2,1,H,NaN,NaN,NaN
-ENG,14/04/1970,,Newcastle United,Coventry City,4,0,H,NaN,NaN,NaN
-ENG,14/03/1970,,Coventry City,Sheffield Wednesday,1,1,D,NaN,NaN,NaN
-ENG,14/03/1970,,West Ham United,Ipswich Town,0,0,D,NaN,NaN,NaN
-ENG,14/03/1970,,Sunderland AFC,Wolverhampton Wanderers,2,1,H,NaN,NaN,NaN
-ENG,14/03/1970,,Everton FC,Tottenham Hotspur,3,2,H,NaN,NaN,NaN
-ENG,14/03/1970,,Crystal Palace,Southampton FC,2,0,H,NaN,NaN,NaN
-ENG,14/03/1970,,Arsenal FC,Liverpool FC,2,1,H,NaN,NaN,NaN
-ENG,14/03/1970,,Nottingham Forest,Derby County,1,3,A,NaN,NaN,NaN
-ENG,14/03/1970,,West Bromwich Albion,Newcastle United,2,2,D,NaN,NaN,NaN
-ENG,17/03/1970,,Chelsea FC,Stoke City,1,0,H,NaN,NaN,NaN
-ENG,17/03/1970,,Manchester United,Burnley FC,3,3,D,NaN,NaN,NaN
-ENG,18/04/1970,,Leeds United,Manchester City,1,3,A,NaN,NaN,NaN
-ENG,21/03/1970,,Tottenham Hotspur,Coventry City,1,2,A,NaN,NaN,NaN
-ENG,21/03/1970,,Chelsea FC,Manchester United,2,1,H,NaN,NaN,NaN
-ENG,21/03/1970,,Manchester City,West Ham United,1,5,A,NaN,NaN,NaN
-ENG,21/03/1970,,Wolverhampton Wanderers,Leeds United,1,2,A,NaN,NaN,NaN
-ENG,21/03/1970,,Sheffield Wednesday,Nottingham Forest,2,1,H,NaN,NaN,NaN
-ENG,21/03/1970,,Liverpool FC,Everton FC,0,2,A,NaN,NaN,NaN
-ENG,21/03/1970,,Ipswich Town,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,21/03/1970,,Burnley FC,West Bromwich Albion,2,1,H,NaN,NaN,NaN
-ENG,21/03/1970,,Derby County,Crystal Palace,3,1,H,NaN,NaN,NaN
-ENG,21/03/1970,,Newcastle United,Stoke City,3,1,H,NaN,NaN,NaN
-ENG,21/03/1970,,Southampton FC,Arsenal FC,0,2,A,NaN,NaN,NaN
-ENG,21/02/1970,,Derby County,Arsenal FC,3,2,H,NaN,NaN,NaN
-ENG,24/03/1970,,Crystal Palace,West Ham United,0,0,D,NaN,NaN,NaN
-ENG,25/03/1970,,Chelsea FC,Sheffield Wednesday,3,1,H,NaN,NaN,NaN
-ENG,27/03/1970,,Tottenham Hotspur,Nottingham Forest,4,1,H,NaN,NaN,NaN
-ENG,27/03/1970,,Burnley FC,Stoke City,1,1,D,NaN,NaN,NaN
-ENG,27/03/1970,,Sunderland AFC,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,30/03/1970,,Manchester United,Coventry City,1,1,D,NaN,NaN,NaN
-ENG,30/03/1970,,Wolverhampton Wanderers,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,01/04/1970,,Everton FC,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,08/04/1970,,Southampton FC,Manchester City,0,0,D,NaN,NaN,NaN
-ENG,21/04/1970,,Ipswich Town,Leeds United,3,2,H,NaN,NaN,NaN
-ENG,28/03/1970,,Coventry City,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,28/03/1970,,Everton FC,Chelsea FC,5,2,H,NaN,NaN,NaN
-ENG,28/03/1970,,Leeds United,Southampton FC,1,3,A,NaN,NaN,NaN
-ENG,28/03/1970,,Manchester United,Manchester City,1,2,A,NaN,NaN,NaN
-ENG,28/03/1970,,West Ham United,Liverpool FC,1,0,H,NaN,NaN,NaN
-ENG,28/03/1970,,West Bromwich Albion,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,28/03/1970,,Stoke City,Sheffield Wednesday,2,1,H,NaN,NaN,NaN
-ENG,28/03/1970,,Nottingham Forest,Newcastle United,2,2,D,NaN,NaN,NaN
-ENG,28/03/1970,,Arsenal FC,Wolverhampton Wanderers,2,2,D,NaN,NaN,NaN
-ENG,28/03/1970,,Crystal Palace,Ipswich Town,1,1,D,NaN,NaN,NaN
-ENG,28/03/1970,,Sunderland AFC,Derby County,1,1,D,NaN,NaN,NaN
-ENG,28/02/1970,,Sheffield Wednesday,Burnley FC,2,0,H,NaN,NaN,NaN
-ENG,28/02/1970,,Leeds United,Crystal Palace,2,0,H,NaN,NaN,NaN
-ENG,28/02/1970,,Newcastle United,Tottenham Hotspur,1,2,A,NaN,NaN,NaN
-ENG,28/02/1970,,Arsenal FC,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,24/03/1970,,Liverpool FC,Ipswich Town,2,0,H,NaN,NaN,NaN
-ENG,27/03/1970,,Manchester City,Derby County,0,1,A,NaN,NaN,NaN
-ENG,30/03/1970,,West Bromwich Albion,Chelsea FC,3,1,H,NaN,NaN,NaN
-ENG,30/03/1970,,Stoke City,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,31/03/1970,,Coventry City,Southampton FC,4,0,H,NaN,NaN,NaN
-ENG,31/03/1970,,Nottingham Forest,Manchester United,1,2,A,NaN,NaN,NaN
-ENG,31/03/1970,,West Ham United,Wolverhampton Wanderers,3,0,H,NaN,NaN,NaN
-ENG,03/04/1970,,Liverpool FC,Crystal Palace,3,0,H,NaN,NaN,NaN
-ENG,04/04/1970,,Manchester City,Sunderland AFC,0,1,A,NaN,NaN,NaN
-ENG,04/04/1970,,Coventry City,Stoke City,0,3,A,NaN,NaN,NaN
-ENG,04/04/1970,,Newcastle United,Manchester United,5,1,H,NaN,NaN,NaN
-ENG,04/04/1970,,West Bromwich Albion,Nottingham Forest,4,0,H,NaN,NaN,NaN
-ENG,04/04/1970,,Leeds United,Burnley FC,2,1,H,NaN,NaN,NaN
-ENG,04/04/1970,,Ipswich Town,Southampton FC,2,0,H,NaN,NaN,NaN
-ENG,04/04/1970,,Chelsea FC,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,04/04/1970,,Arsenal FC,West Ham United,2,1,H,NaN,NaN,NaN
-ENG,04/04/1970,,Derby County,Wolverhampton Wanderers,2,0,H,NaN,NaN,NaN
-ENG,04/04/1970,,Sheffield Wednesday,Everton FC,0,1,A,NaN,NaN,NaN
+ENG,1969-08-09,,Arsenal FC,Everton FC,0,1,A,,,
+ENG,1969-08-09,,West Ham United,Newcastle United,1,0,H,,,
+ENG,1969-08-09,,Sunderland AFC,Coventry City,0,0,D,,,
+ENG,1969-08-09,,Southampton FC,West Bromwich Albion,0,2,A,,,
+ENG,1969-08-09,,Manchester City,Sheffield Wednesday,4,1,H,,,
+ENG,1969-08-09,,Liverpool FC,Chelsea FC,4,1,H,,,
+ENG,1969-08-09,,Leeds United,Tottenham Hotspur,3,1,H,,,
+ENG,1969-08-09,,Ipswich Town,Nottingham Forest,0,0,D,,,
+ENG,1969-08-09,,Derby County,Burnley FC,0,0,D,,,
+ENG,1969-08-09,,Crystal Palace,Manchester United,2,2,D,,,
+ENG,1969-08-09,,Wolverhampton Wanderers,Stoke City,3,1,H,,,
+ENG,1969-08-11,,West Ham United,Chelsea FC,2,0,H,,,
+ENG,1969-08-12,,Coventry City,West Bromwich Albion,3,1,H,,,
+ENG,1969-08-12,,Ipswich Town,Derby County,0,1,A,,,
+ENG,1969-08-12,,Liverpool FC,Manchester City,3,2,H,,,
+ENG,1969-08-12,,Nottingham Forest,Stoke City,0,0,D,,,
+ENG,1969-08-13,,Tottenham Hotspur,Burnley FC,4,0,H,,,
+ENG,1969-08-13,,Newcastle United,Sheffield Wednesday,3,1,H,,,
+ENG,1969-08-13,,Manchester United,Everton FC,0,2,A,,,
+ENG,1969-08-13,,Leeds United,Arsenal FC,0,0,D,,,
+ENG,1969-08-13,,Crystal Palace,Sunderland AFC,2,0,H,,,
+ENG,1969-08-13,,Wolverhampton Wanderers,Southampton FC,2,1,H,,,
+ENG,1969-08-16,,Burnley FC,Sunderland AFC,3,0,H,,,
+ENG,1969-08-16,,Tottenham Hotspur,Liverpool FC,0,2,A,,,
+ENG,1969-08-16,,Stoke City,West Ham United,2,1,H,,,
+ENG,1969-08-16,,Sheffield Wednesday,Wolverhampton Wanderers,2,3,A,,,
+ENG,1969-08-16,,Nottingham Forest,Leeds United,1,4,A,,,
+ENG,1969-08-16,,Newcastle United,Manchester City,1,0,H,,,
+ENG,1969-08-16,,Manchester United,Southampton FC,1,4,A,,,
+ENG,1969-08-16,,Everton FC,Crystal Palace,2,1,H,,,
+ENG,1969-08-16,,Coventry City,Derby County,1,1,D,,,
+ENG,1969-08-16,,Chelsea FC,Ipswich Town,1,0,H,,,
+ENG,1969-08-16,,West Bromwich Albion,Arsenal FC,0,1,A,,,
+ENG,1969-08-19,,Arsenal FC,Leeds United,1,1,D,,,
+ENG,1969-08-19,,Burnley FC,Tottenham Hotspur,0,2,A,,,
+ENG,1969-08-19,,Everton FC,Manchester United,3,0,H,,,
+ENG,1969-08-20,,Sunderland AFC,Crystal Palace,0,0,D,,,
+ENG,1969-08-20,,Stoke City,Nottingham Forest,1,1,D,,,
+ENG,1969-08-20,,Southampton FC,Wolverhampton Wanderers,2,3,A,,,
+ENG,1969-08-20,,Sheffield Wednesday,Newcastle United,1,0,H,,,
+ENG,1969-08-20,,Manchester City,Liverpool FC,0,2,A,,,
+ENG,1969-08-20,,Derby County,Ipswich Town,3,1,H,,,
+ENG,1969-08-20,,Chelsea FC,West Ham United,0,0,D,,,
+ENG,1969-08-20,,West Bromwich Albion,Coventry City,0,1,A,,,
+ENG,1969-08-23,,Arsenal FC,Nottingham Forest,2,1,H,,,
+ENG,1969-08-23,,West Ham United,West Bromwich Albion,1,3,A,,,
+ENG,1969-08-23,,Sunderland AFC,Sheffield Wednesday,1,2,A,,,
+ENG,1969-08-23,,Southampton FC,Chelsea FC,2,2,D,,,
+ENG,1969-08-23,,Manchester City,Everton FC,1,1,D,,,
+ENG,1969-08-23,,Liverpool FC,Burnley FC,3,3,D,,,
+ENG,1969-08-23,,Leeds United,Newcastle United,1,1,D,,,
+ENG,1969-08-23,,Ipswich Town,Coventry City,0,1,A,,,
+ENG,1969-08-23,,Derby County,Stoke City,0,0,D,,,
+ENG,1969-08-23,,Crystal Palace,Tottenham Hotspur,0,2,A,,,
+ENG,1969-08-23,,Wolverhampton Wanderers,Manchester United,0,0,D,,,
+ENG,1969-08-25,,West Ham United,Arsenal FC,1,1,D,,,
+ENG,1969-08-26,,Burnley FC,Leeds United,1,1,D,,,
+ENG,1969-08-26,,Everton FC,Sheffield Wednesday,2,1,H,,,
+ENG,1969-08-26,,Nottingham Forest,West Bromwich Albion,1,0,H,,,
+ENG,1969-08-27,,Tottenham Hotspur,Chelsea FC,1,1,D,,,
+ENG,1969-08-27,,Sunderland AFC,Manchester City,0,4,A,,,
+ENG,1969-08-27,,Stoke City,Coventry City,2,0,H,,,
+ENG,1969-08-27,,Southampton FC,Ipswich Town,4,2,H,,,
+ENG,1969-08-27,,Manchester United,Newcastle United,0,0,D,,,
+ENG,1969-08-27,,Crystal Palace,Liverpool FC,1,3,A,,,
+ENG,1969-08-27,,Wolverhampton Wanderers,Derby County,1,1,D,,,
+ENG,1969-08-30,,Burnley FC,Manchester City,1,1,D,,,
+ENG,1969-08-30,,Tottenham Hotspur,Ipswich Town,3,2,H,,,
+ENG,1969-08-30,,Stoke City,Southampton FC,2,1,H,,,
+ENG,1969-08-30,,Sheffield Wednesday,Liverpool FC,1,1,D,,,
+ENG,1969-08-30,,Nottingham Forest,West Ham United,1,0,H,,,
+ENG,1969-08-30,,Newcastle United,Arsenal FC,3,1,H,,,
+ENG,1969-08-30,,Manchester United,Sunderland AFC,3,1,H,,,
+ENG,1969-08-30,,Everton FC,Leeds United,3,2,H,,,
+ENG,1969-08-30,,Coventry City,Wolverhampton Wanderers,1,0,H,,,
+ENG,1969-08-30,,Chelsea FC,Crystal Palace,1,1,D,,,
+ENG,1969-08-30,,West Bromwich Albion,Derby County,0,2,A,,,
+ENG,1969-09-06,,Arsenal FC,Sheffield Wednesday,0,0,D,,,
+ENG,1969-09-06,,West Ham United,Tottenham Hotspur,0,1,A,,,
+ENG,1969-09-06,,Sunderland AFC,West Bromwich Albion,2,2,D,,,
+ENG,1969-09-06,,Southampton FC,Burnley FC,1,1,D,,,
+ENG,1969-09-06,,Manchester City,Chelsea FC,0,0,D,,,
+ENG,1969-09-06,,Liverpool FC,Coventry City,2,1,H,,,
+ENG,1969-09-06,,Leeds United,Manchester United,2,2,D,,,
+ENG,1969-09-06,,Ipswich Town,Newcastle United,2,0,H,,,
+ENG,1969-09-06,,Derby County,Everton FC,2,1,H,,,
+ENG,1969-09-06,,Crystal Palace,Stoke City,3,1,H,,,
+ENG,1969-09-06,,Wolverhampton Wanderers,Nottingham Forest,3,3,D,,,
+ENG,1969-09-09,,Liverpool FC,Sunderland AFC,2,0,H,,,
+ENG,1969-09-10,,Derby County,Southampton FC,3,0,H,,,
+ENG,1969-09-13,,Burnley FC,Arsenal FC,0,1,A,,,
+ENG,1969-09-13,,Chelsea FC,Wolverhampton Wanderers,2,2,D,,,
+ENG,1969-09-13,,Coventry City,Crystal Palace,2,2,D,,,
+ENG,1969-09-13,,Everton FC,West Ham United,2,0,H,,,
+ENG,1969-09-13,,Sheffield Wednesday,Leeds United,1,2,A,,,
+ENG,1969-09-13,,Tottenham Hotspur,Manchester City,0,3,A,,,
+ENG,1969-09-13,,West Bromwich Albion,Ipswich Town,2,2,D,,,
+ENG,1969-09-13,,Manchester United,Liverpool FC,1,0,H,,,
+ENG,1969-09-13,,Newcastle United,Derby County,0,1,A,,,
+ENG,1969-09-13,,Nottingham Forest,Southampton FC,2,1,H,,,
+ENG,1969-09-13,,Stoke City,Sunderland AFC,4,2,H,,,
+ENG,1969-09-16,,Arsenal FC,Tottenham Hotspur,2,3,A,,,
+ENG,1969-09-16,,Coventry City,Nottingham Forest,3,2,H,,,
+ENG,1969-09-16,,Ipswich Town,Wolverhampton Wanderers,1,1,D,,,
+ENG,1969-09-17,,West Bromwich Albion,Stoke City,1,3,A,,,
+ENG,1969-09-17,,Sheffield Wednesday,Manchester United,1,3,A,,,
+ENG,1969-09-17,,Newcastle United,Everton FC,1,2,A,,,
+ENG,1969-09-17,,Chelsea FC,Burnley FC,2,0,H,,,
+ENG,1969-09-20,,Crystal Palace,West Bromwich Albion,1,3,A,,,
+ENG,1969-09-20,,Leeds United,Chelsea FC,2,0,H,,,
+ENG,1969-09-20,,Manchester City,Coventry City,3,1,H,,,
+ENG,1969-09-20,,West Ham United,Sheffield Wednesday,3,0,H,,,
+ENG,1969-09-20,,Arsenal FC,Manchester United,2,2,D,,,
+ENG,1969-09-20,,Wolverhampton Wanderers,Burnley FC,1,1,D,,,
+ENG,1969-09-20,,Sunderland AFC,Nottingham Forest,2,1,H,,,
+ENG,1969-09-20,,Southampton FC,Newcastle United,1,1,D,,,
+ENG,1969-09-20,,Liverpool FC,Stoke City,3,1,H,,,
+ENG,1969-09-20,,Ipswich Town,Everton FC,0,3,A,,,
+ENG,1969-09-20,,Derby County,Tottenham Hotspur,5,0,H,,,
+ENG,1969-09-27,,Coventry City,Leeds United,1,2,A,,,
+ENG,1969-09-27,,Manchester United,West Ham United,5,2,H,,,
+ENG,1969-09-27,,Nottingham Forest,Crystal Palace,0,0,D,,,
+ENG,1969-09-27,,Stoke City,Manchester City,2,0,H,,,
+ENG,1969-09-27,,Burnley FC,Ipswich Town,0,1,A,,,
+ENG,1969-09-27,,West Bromwich Albion,Liverpool FC,2,2,D,,,
+ENG,1969-09-27,,Tottenham Hotspur,Sunderland AFC,0,1,A,,,
+ENG,1969-09-27,,Sheffield Wednesday,Derby County,1,0,H,,,
+ENG,1969-09-27,,Newcastle United,Wolverhampton Wanderers,1,1,D,,,
+ENG,1969-09-27,,Everton FC,Southampton FC,4,2,H,,,
+ENG,1969-09-27,,Chelsea FC,Arsenal FC,3,0,H,,,
+ENG,1969-10-04,,Crystal Palace,Newcastle United,0,3,A,,,
+ENG,1969-10-04,,Leeds United,Stoke City,2,1,H,,,
+ENG,1969-10-04,,Manchester City,West Bromwich Albion,2,1,H,,,
+ENG,1969-10-04,,West Ham United,Burnley FC,3,1,H,,,
+ENG,1969-10-04,,Arsenal FC,Coventry City,0,1,A,,,
+ENG,1969-10-04,,Wolverhampton Wanderers,Everton FC,2,3,A,,,
+ENG,1969-10-04,,Sunderland AFC,Chelsea FC,0,0,D,,,
+ENG,1969-10-04,,Southampton FC,Tottenham Hotspur,2,2,D,,,
+ENG,1969-10-04,,Liverpool FC,Nottingham Forest,1,1,D,,,
+ENG,1969-10-04,,Ipswich Town,Sheffield Wednesday,1,0,H,,,
+ENG,1969-10-04,,Derby County,Manchester United,2,0,H,,,
+ENG,1969-10-06,,West Ham United,Stoke City,3,3,D,,,
+ENG,1969-10-07,,Arsenal FC,West Bromwich Albion,1,1,D,,,
+ENG,1969-10-07,,Liverpool FC,Tottenham Hotspur,0,0,D,,,
+ENG,1969-10-08,,Crystal Palace,Everton FC,0,0,D,,,
+ENG,1969-10-08,,Manchester City,Newcastle United,2,1,H,,,
+ENG,1969-10-08,,Wolverhampton Wanderers,Sheffield Wednesday,2,2,D,,,
+ENG,1969-10-08,,Sunderland AFC,Burnley FC,0,1,A,,,
+ENG,1969-10-08,,Southampton FC,Manchester United,0,3,A,,,
+ENG,1969-10-08,,Derby County,Coventry City,1,3,A,,,
+ENG,1969-10-11,,West Bromwich Albion,Leeds United,1,1,D,,,
+ENG,1969-10-11,,Burnley FC,Crystal Palace,4,2,H,,,
+ENG,1969-10-11,,Coventry City,West Ham United,2,2,D,,,
+ENG,1969-10-11,,Manchester United,Ipswich Town,2,1,H,,,
+ENG,1969-10-11,,Nottingham Forest,Manchester City,2,2,D,,,
+ENG,1969-10-11,,Chelsea FC,Derby County,2,2,D,,,
+ENG,1969-10-11,,Tottenham Hotspur,Wolverhampton Wanderers,0,1,A,,,
+ENG,1969-10-11,,Stoke City,Arsenal FC,0,0,D,,,
+ENG,1969-10-11,,Sheffield Wednesday,Southampton FC,1,1,D,,,
+ENG,1969-10-11,,Newcastle United,Liverpool FC,1,0,H,,,
+ENG,1969-10-11,,Everton FC,Sunderland AFC,3,1,H,,,
+ENG,1969-10-18,,Chelsea FC,West Bromwich Albion,2,0,H,,,
+ENG,1969-10-18,,Crystal Palace,Leeds United,1,1,D,,,
+ENG,1969-10-18,,Ipswich Town,Liverpool FC,2,2,D,,,
+ENG,1969-10-18,,Manchester United,Nottingham Forest,1,1,D,,,
+ENG,1969-10-18,,Wolverhampton Wanderers,West Ham United,1,0,H,,,
+ENG,1969-10-18,,Burnley FC,Sheffield Wednesday,4,2,H,,,
+ENG,1969-10-18,,Tottenham Hotspur,Newcastle United,2,1,H,,,
+ENG,1969-10-18,,Sunderland AFC,Arsenal FC,1,1,D,,,
+ENG,1969-10-18,,Southampton FC,Coventry City,0,0,D,,,
+ENG,1969-10-18,,Everton FC,Stoke City,6,2,H,,,
+ENG,1969-10-18,,Derby County,Manchester City,0,1,A,,,
+ENG,1969-10-25,,Manchester City,Wolverhampton Wanderers,1,0,H,,,
+ENG,1969-10-25,,Nottingham Forest,Burnley FC,1,1,D,,,
+ENG,1969-10-25,,Sheffield Wednesday,Crystal Palace,0,0,D,,,
+ENG,1969-10-25,,Arsenal FC,Ipswich Town,0,0,D,,,
+ENG,1969-10-25,,West Ham United,Sunderland AFC,1,1,D,,,
+ENG,1969-10-25,,West Bromwich Albion,Manchester United,2,1,H,,,
+ENG,1969-10-25,,Stoke City,Tottenham Hotspur,1,1,D,,,
+ENG,1969-10-25,,Newcastle United,Chelsea FC,0,1,A,,,
+ENG,1969-10-25,,Liverpool FC,Southampton FC,4,1,H,,,
+ENG,1969-10-25,,Leeds United,Derby County,2,0,H,,,
+ENG,1969-10-25,,Coventry City,Everton FC,0,1,A,,,
+ENG,1969-10-29,,Leeds United,Nottingham Forest,6,1,H,,,
+ENG,1969-11-01,,Ipswich Town,Manchester City,1,1,D,,,
+ENG,1969-11-01,,Sunderland AFC,Leeds United,0,0,D,,,
+ENG,1969-11-01,,Burnley FC,Newcastle United,0,1,A,,,
+ENG,1969-11-01,,Wolverhampton Wanderers,West Bromwich Albion,1,0,H,,,
+ENG,1969-11-01,,Tottenham Hotspur,Sheffield Wednesday,1,0,H,,,
+ENG,1969-11-01,,Southampton FC,West Ham United,1,1,D,,,
+ENG,1969-11-01,,Manchester United,Stoke City,1,1,D,,,
+ENG,1969-11-01,,Everton FC,Nottingham Forest,1,0,H,,,
+ENG,1969-11-01,,Derby County,Liverpool FC,4,0,H,,,
+ENG,1969-11-01,,Crystal Palace,Arsenal FC,1,5,A,,,
+ENG,1969-11-01,,Chelsea FC,Coventry City,1,0,H,,,
+ENG,1969-11-08,,Leeds United,Ipswich Town,4,0,H,,,
+ENG,1969-11-08,,Manchester City,Southampton FC,1,0,H,,,
+ENG,1969-11-08,,Sheffield Wednesday,Chelsea FC,1,3,A,,,
+ENG,1969-11-08,,West Ham United,Crystal Palace,2,1,H,,,
+ENG,1969-11-08,,Arsenal FC,Derby County,4,0,H,,,
+ENG,1969-11-08,,West Bromwich Albion,Everton FC,2,0,H,,,
+ENG,1969-11-08,,Stoke City,Burnley FC,2,1,H,,,
+ENG,1969-11-08,,Nottingham Forest,Tottenham Hotspur,2,2,D,,,
+ENG,1969-11-08,,Newcastle United,Sunderland AFC,3,0,H,,,
+ENG,1969-11-08,,Liverpool FC,Wolverhampton Wanderers,0,0,D,,,
+ENG,1969-11-08,,Coventry City,Manchester United,1,2,A,,,
+ENG,1969-11-15,,Chelsea FC,Everton FC,1,1,D,,,
+ENG,1969-11-15,,Ipswich Town,Crystal Palace,2,0,H,,,
+ENG,1969-11-15,,Manchester City,Manchester United,4,0,H,,,
+ENG,1969-11-15,,Southampton FC,Leeds United,1,1,D,,,
+ENG,1969-11-15,,Burnley FC,Coventry City,0,0,D,,,
+ENG,1969-11-15,,Wolverhampton Wanderers,Arsenal FC,2,0,H,,,
+ENG,1969-11-15,,Tottenham Hotspur,West Bromwich Albion,2,0,H,,,
+ENG,1969-11-15,,Sheffield Wednesday,Stoke City,0,2,A,,,
+ENG,1969-11-15,,Newcastle United,Nottingham Forest,3,1,H,,,
+ENG,1969-11-15,,Liverpool FC,West Ham United,2,0,H,,,
+ENG,1969-11-15,,Derby County,Sunderland AFC,3,0,H,,,
+ENG,1969-11-18,,Ipswich Town,Chelsea FC,1,4,A,,,
+ENG,1969-11-19,,Leeds United,Sunderland AFC,2,0,H,,,
+ENG,1969-11-22,,Crystal Palace,Wolverhampton Wanderers,2,1,H,,,
+ENG,1969-11-22,,Arsenal FC,Manchester City,1,1,D,,,
+ENG,1969-11-22,,West Ham United,Derby County,3,0,H,,,
+ENG,1969-11-22,,West Bromwich Albion,Sheffield Wednesday,3,0,H,,,
+ENG,1969-11-22,,Sunderland AFC,Southampton FC,2,2,D,,,
+ENG,1969-11-22,,Stoke City,Ipswich Town,3,3,D,,,
+ENG,1969-11-22,,Nottingham Forest,Chelsea FC,1,1,D,,,
+ENG,1969-11-22,,Manchester United,Tottenham Hotspur,3,1,H,,,
+ENG,1969-11-22,,Leeds United,Liverpool FC,1,1,D,,,
+ENG,1969-11-22,,Everton FC,Burnley FC,2,1,H,,,
+ENG,1969-11-22,,Coventry City,Newcastle United,1,0,H,,,
+ENG,1969-11-29,,Southampton FC,Crystal Palace,1,1,D,,,
+ENG,1969-11-29,,Burnley FC,Manchester United,1,1,D,,,
+ENG,1969-11-29,,Derby County,Nottingham Forest,0,2,A,,,
+ENG,1969-11-29,,Ipswich Town,West Ham United,1,0,H,,,
+ENG,1969-11-29,,Liverpool FC,Arsenal FC,0,1,A,,,
+ENG,1969-11-29,,Manchester City,Leeds United,1,2,A,,,
+ENG,1969-11-29,,Wolverhampton Wanderers,Sunderland AFC,1,0,H,,,
+ENG,1969-12-06,,Coventry City,Tottenham Hotspur,3,2,H,,,
+ENG,1969-12-06,,Crystal Palace,Derby County,0,1,A,,,
+ENG,1969-12-06,,Stoke City,Newcastle United,0,1,A,,,
+ENG,1969-12-06,,West Ham United,Manchester City,0,4,A,,,
+ENG,1969-12-06,,West Bromwich Albion,Burnley FC,0,1,A,,,
+ENG,1969-12-06,,Sunderland AFC,Ipswich Town,2,1,H,,,
+ENG,1969-12-06,,Nottingham Forest,Sheffield Wednesday,2,1,H,,,
+ENG,1969-12-06,,Manchester United,Chelsea FC,0,2,A,,,
+ENG,1969-12-06,,Leeds United,Wolverhampton Wanderers,3,1,H,,,
+ENG,1969-12-06,,Everton FC,Liverpool FC,0,3,A,,,
+ENG,1969-12-06,,Arsenal FC,Southampton FC,2,2,D,,,
+ENG,1969-12-13,,Crystal Palace,Coventry City,0,3,A,,,
+ENG,1969-12-13,,Manchester City,Tottenham Hotspur,1,1,D,,,
+ENG,1969-12-13,,West Ham United,Everton FC,0,1,A,,,
+ENG,1969-12-13,,Arsenal FC,Burnley FC,3,2,H,,,
+ENG,1969-12-13,,Derby County,Newcastle United,2,0,H,,,
+ENG,1969-12-13,,Ipswich Town,West Bromwich Albion,0,1,A,,,
+ENG,1969-12-13,,Leeds United,Sheffield Wednesday,2,0,H,,,
+ENG,1969-12-13,,Liverpool FC,Manchester United,1,4,A,,,
+ENG,1969-12-13,,Southampton FC,Nottingham Forest,1,2,A,,,
+ENG,1969-12-13,,Wolverhampton Wanderers,Chelsea FC,3,0,H,,,
+ENG,1969-12-13,,Sunderland AFC,Stoke City,0,3,A,,,
+ENG,1969-12-17,,Leeds United,West Ham United,4,1,H,,,
+ENG,1969-12-20,,Chelsea FC,Manchester City,3,1,H,,,
+ENG,1969-12-20,,Stoke City,Crystal Palace,1,0,H,,,
+ENG,1969-12-20,,Tottenham Hotspur,West Ham United,0,2,A,,,
+ENG,1969-12-20,,Sheffield Wednesday,Arsenal FC,1,1,D,,,
+ENG,1969-12-20,,Nottingham Forest,Wolverhampton Wanderers,4,2,H,,,
+ENG,1969-12-20,,Newcastle United,Ipswich Town,4,0,H,,,
+ENG,1969-12-20,,Everton FC,Derby County,1,0,H,,,
+ENG,1969-12-23,,Everton FC,Manchester City,1,0,H,,,
+ENG,1969-12-26,,Burnley FC,Liverpool FC,1,5,A,,,
+ENG,1969-12-26,,Chelsea FC,Southampton FC,3,1,H,,,
+ENG,1969-12-26,,Tottenham Hotspur,Crystal Palace,2,0,H,,,
+ENG,1969-12-26,,Coventry City,Ipswich Town,3,1,H,,,
+ENG,1969-12-26,,West Bromwich Albion,West Ham United,3,1,H,,,
+ENG,1969-12-26,,Stoke City,Derby County,1,0,H,,,
+ENG,1969-12-26,,Sheffield Wednesday,Sunderland AFC,2,0,H,,,
+ENG,1969-12-26,,Nottingham Forest,Arsenal FC,1,1,D,,,
+ENG,1969-12-26,,Newcastle United,Leeds United,2,1,H,,,
+ENG,1969-12-26,,Manchester United,Wolverhampton Wanderers,0,0,D,,,
+ENG,1969-12-27,,Crystal Palace,Chelsea FC,1,5,A,,,
+ENG,1969-12-27,,Southampton FC,Stoke City,0,0,D,,,
+ENG,1969-12-27,,Arsenal FC,Newcastle United,0,0,D,,,
+ENG,1969-12-27,,Derby County,West Bromwich Albion,2,0,H,,,
+ENG,1969-12-27,,Ipswich Town,Tottenham Hotspur,2,0,H,,,
+ENG,1969-12-27,,Leeds United,Everton FC,2,1,H,,,
+ENG,1969-12-27,,Sunderland AFC,Manchester United,1,1,D,,,
+ENG,1969-12-27,,West Ham United,Nottingham Forest,1,1,D,,,
+ENG,1970-01-06,,Manchester City,Burnley FC,1,1,D,,,
+ENG,1970-01-10,,Stoke City,Liverpool FC,0,2,A,,,
+ENG,1970-01-10,,West Bromwich Albion,Crystal Palace,3,2,H,,,
+ENG,1970-01-10,,Coventry City,Manchester City,3,0,H,,,
+ENG,1970-01-10,,Burnley FC,Wolverhampton Wanderers,1,3,A,,,
+ENG,1970-01-10,,Chelsea FC,Leeds United,2,5,A,,,
+ENG,1970-01-10,,Everton FC,Ipswich Town,3,0,H,,,
+ENG,1970-01-10,,Manchester United,Arsenal FC,2,1,H,,,
+ENG,1970-01-10,,Sheffield Wednesday,West Ham United,2,3,A,,,
+ENG,1970-01-10,,Tottenham Hotspur,Derby County,2,1,H,,,
+ENG,1970-01-17,,Liverpool FC,West Bromwich Albion,1,1,D,,,
+ENG,1970-01-17,,Southampton FC,Everton FC,2,1,H,,,
+ENG,1970-01-17,,Wolverhampton Wanderers,Newcastle United,1,1,D,,,
+ENG,1970-01-17,,Sunderland AFC,Tottenham Hotspur,2,1,H,,,
+ENG,1970-01-17,,Manchester City,Stoke City,0,1,A,,,
+ENG,1970-01-17,,Crystal Palace,Nottingham Forest,1,1,D,,,
+ENG,1970-01-17,,Arsenal FC,Chelsea FC,0,3,A,,,
+ENG,1970-01-17,,Derby County,Sheffield Wednesday,1,0,H,,,
+ENG,1970-01-17,,Ipswich Town,Burnley FC,0,1,A,,,
+ENG,1970-01-17,,Leeds United,Coventry City,3,1,H,,,
+ENG,1970-01-17,,West Ham United,Manchester United,0,0,D,,,
+ENG,1970-01-24,,Nottingham Forest,Sunderland AFC,2,1,H,,,
+ENG,1970-01-24,,Everton FC,Newcastle United,0,0,D,,,
+ENG,1970-01-24,,Wolverhampton Wanderers,Ipswich Town,2,0,H,,,
+ENG,1970-01-26,,Manchester United,Leeds United,2,2,D,,,
+ENG,1970-01-27,,West Bromwich Albion,Sunderland AFC,3,1,H,,,
+ENG,1970-01-28,,Sheffield Wednesday,Coventry City,0,1,A,,,
+ENG,1970-01-31,,Nottingham Forest,Liverpool FC,1,0,H,,,
+ENG,1970-01-31,,Tottenham Hotspur,Southampton FC,0,1,A,,,
+ENG,1970-01-31,,Newcastle United,Crystal Palace,0,0,D,,,
+ENG,1970-01-31,,West Bromwich Albion,Manchester City,3,0,H,,,
+ENG,1970-01-31,,Manchester United,Derby County,1,0,H,,,
+ENG,1970-01-31,,Everton FC,Wolverhampton Wanderers,1,0,H,,,
+ENG,1970-01-31,,Coventry City,Arsenal FC,2,0,H,,,
+ENG,1970-01-31,,Burnley FC,West Ham United,3,2,H,,,
+ENG,1970-01-31,,Chelsea FC,Sunderland AFC,3,1,H,,,
+ENG,1970-01-31,,Sheffield Wednesday,Ipswich Town,2,2,D,,,
+ENG,1970-01-31,,Stoke City,Leeds United,1,1,D,,,
+ENG,1970-02-06,,Newcastle United,West Bromwich Albion,1,0,H,,,
+ENG,1970-02-07,,Southampton FC,Sheffield Wednesday,4,0,H,,,
+ENG,1970-02-07,,Manchester City,Nottingham Forest,1,1,D,,,
+ENG,1970-02-07,,Arsenal FC,Stoke City,0,0,D,,,
+ENG,1970-02-07,,Wolverhampton Wanderers,Tottenham Hotspur,2,2,D,,,
+ENG,1970-02-10,,Ipswich Town,Manchester United,0,1,A,,,
+ENG,1970-02-10,,Leeds United,West Bromwich Albion,5,1,H,,,
+ENG,1970-02-11,,Newcastle United,Southampton FC,2,1,H,,,
+ENG,1970-02-11,,Crystal Palace,Burnley FC,1,2,A,,,
+ENG,1970-02-11,,West Ham United,Coventry City,1,2,A,,,
+ENG,1970-02-11,,Derby County,Chelsea FC,2,2,D,,,
+ENG,1970-02-14,,Manchester United,Crystal Palace,1,1,D,,,
+ENG,1970-02-14,,Burnley FC,Derby County,1,1,D,,,
+ENG,1970-02-14,,Everton FC,Arsenal FC,2,2,D,,,
+ENG,1970-02-14,,Stoke City,Wolverhampton Wanderers,1,1,D,,,
+ENG,1970-02-14,,Tottenham Hotspur,Leeds United,1,1,D,,,
+ENG,1970-02-16,,Liverpool FC,Newcastle United,0,0,D,,,
+ENG,1970-02-18,,Manchester City,Arsenal FC,1,1,D,,,
+ENG,1970-02-20,,West Bromwich Albion,Southampton FC,1,0,H,,,
+ENG,1970-02-21,,Everton FC,Coventry City,0,0,D,,,
+ENG,1970-02-21,,Wolverhampton Wanderers,Manchester City,1,3,A,,,
+ENG,1970-02-21,,Tottenham Hotspur,Stoke City,1,0,H,,,
+ENG,1970-02-21,,Sunderland AFC,West Ham United,0,1,A,,,
+ENG,1970-02-21,,Crystal Palace,Sheffield Wednesday,0,2,A,,,
+ENG,1970-02-21,,Burnley FC,Nottingham Forest,5,0,H,,,
+ENG,1970-02-21,,Derby County,Arsenal FC,3,2,H,,,
+ENG,1970-02-25,,Chelsea FC,Newcastle United,0,0,D,,,
+ENG,1970-02-28,,Coventry City,Chelsea FC,0,3,A,,,
+ENG,1970-02-28,,West Ham United,Southampton FC,0,0,D,,,
+ENG,1970-02-28,,Stoke City,Manchester United,2,2,D,,,
+ENG,1970-02-28,,Nottingham Forest,Everton FC,1,1,D,,,
+ENG,1970-02-28,,Manchester City,Ipswich Town,1,0,H,,,
+ENG,1970-02-28,,Liverpool FC,Derby County,0,2,A,,,
+ENG,1970-02-28,,West Bromwich Albion,Wolverhampton Wanderers,3,3,D,,,
+ENG,1970-02-28,,Sheffield Wednesday,Burnley FC,2,0,H,,,
+ENG,1970-02-28,,Leeds United,Crystal Palace,2,0,H,,,
+ENG,1970-02-28,,Newcastle United,Tottenham Hotspur,1,2,A,,,
+ENG,1970-02-28,,Arsenal FC,Sunderland AFC,3,1,H,,,
+ENG,1970-03-02,,Newcastle United,West Ham United,4,1,H,,,
+ENG,1970-03-03,,Coventry City,Liverpool FC,2,3,A,,,
+ENG,1970-03-07,,Southampton FC,Sunderland AFC,1,1,D,,,
+ENG,1970-03-07,,Ipswich Town,Stoke City,1,1,D,,,
+ENG,1970-03-07,,Chelsea FC,Nottingham Forest,1,1,D,,,
+ENG,1970-03-07,,Burnley FC,Everton FC,1,2,A,,,
+ENG,1970-03-07,,Derby County,West Ham United,3,0,H,,,
+ENG,1970-03-07,,Liverpool FC,Leeds United,0,0,D,,,
+ENG,1970-03-10,,Sheffield Wednesday,West Bromwich Albion,2,0,H,,,
+ENG,1970-03-11,,Manchester City,Crystal Palace,0,1,A,,,
+ENG,1970-03-11,,Tottenham Hotspur,Everton FC,0,1,A,,,
+ENG,1970-03-11,,Southampton FC,Liverpool FC,0,1,A,,,
+ENG,1970-03-14,,Coventry City,Sheffield Wednesday,1,1,D,,,
+ENG,1970-03-14,,West Ham United,Ipswich Town,0,0,D,,,
+ENG,1970-03-14,,Sunderland AFC,Wolverhampton Wanderers,2,1,H,,,
+ENG,1970-03-14,,Everton FC,Tottenham Hotspur,3,2,H,,,
+ENG,1970-03-14,,Crystal Palace,Southampton FC,2,0,H,,,
+ENG,1970-03-14,,Arsenal FC,Liverpool FC,2,1,H,,,
+ENG,1970-03-14,,Nottingham Forest,Derby County,1,3,A,,,
+ENG,1970-03-14,,West Bromwich Albion,Newcastle United,2,2,D,,,
+ENG,1970-03-16,,Liverpool FC,Sheffield Wednesday,3,0,H,,,
+ENG,1970-03-17,,Chelsea FC,Stoke City,1,0,H,,,
+ENG,1970-03-17,,Manchester United,Burnley FC,3,3,D,,,
+ENG,1970-03-18,,Wolverhampton Wanderers,Crystal Palace,1,1,D,,,
+ENG,1970-03-21,,Tottenham Hotspur,Coventry City,1,2,A,,,
+ENG,1970-03-21,,Chelsea FC,Manchester United,2,1,H,,,
+ENG,1970-03-21,,Manchester City,West Ham United,1,5,A,,,
+ENG,1970-03-21,,Wolverhampton Wanderers,Leeds United,1,2,A,,,
+ENG,1970-03-21,,Sheffield Wednesday,Nottingham Forest,2,1,H,,,
+ENG,1970-03-21,,Liverpool FC,Everton FC,0,2,A,,,
+ENG,1970-03-21,,Ipswich Town,Sunderland AFC,2,0,H,,,
+ENG,1970-03-21,,Burnley FC,West Bromwich Albion,2,1,H,,,
+ENG,1970-03-21,,Derby County,Crystal Palace,3,1,H,,,
+ENG,1970-03-21,,Newcastle United,Stoke City,3,1,H,,,
+ENG,1970-03-21,,Southampton FC,Arsenal FC,0,2,A,,,
+ENG,1970-03-24,,Burnley FC,Southampton FC,1,1,D,,,
+ENG,1970-03-24,,Coventry City,Sunderland AFC,1,1,D,,,
+ENG,1970-03-24,,Crystal Palace,West Ham United,0,0,D,,,
+ENG,1970-03-24,,Liverpool FC,Ipswich Town,2,0,H,,,
+ENG,1970-03-25,,Chelsea FC,Sheffield Wednesday,3,1,H,,,
+ENG,1970-03-27,,Tottenham Hotspur,Nottingham Forest,4,1,H,,,
+ENG,1970-03-27,,Burnley FC,Stoke City,1,1,D,,,
+ENG,1970-03-27,,Sunderland AFC,Newcastle United,1,1,D,,,
+ENG,1970-03-27,,Manchester City,Derby County,0,1,A,,,
+ENG,1970-03-28,,Coventry City,Burnley FC,1,1,D,,,
+ENG,1970-03-28,,Everton FC,Chelsea FC,5,2,H,,,
+ENG,1970-03-28,,Leeds United,Southampton FC,1,3,A,,,
+ENG,1970-03-28,,Manchester United,Manchester City,1,2,A,,,
+ENG,1970-03-28,,West Ham United,Liverpool FC,1,0,H,,,
+ENG,1970-03-28,,West Bromwich Albion,Tottenham Hotspur,1,1,D,,,
+ENG,1970-03-28,,Stoke City,Sheffield Wednesday,2,1,H,,,
+ENG,1970-03-28,,Nottingham Forest,Newcastle United,2,2,D,,,
+ENG,1970-03-28,,Arsenal FC,Wolverhampton Wanderers,2,2,D,,,
+ENG,1970-03-28,,Crystal Palace,Ipswich Town,1,1,D,,,
+ENG,1970-03-28,,Sunderland AFC,Derby County,1,1,D,,,
+ENG,1970-03-30,,Derby County,Leeds United,4,1,H,,,
+ENG,1970-03-30,,Sheffield Wednesday,Tottenham Hotspur,0,1,A,,,
+ENG,1970-03-30,,Arsenal FC,Crystal Palace,2,0,H,,,
+ENG,1970-03-30,,Newcastle United,Burnley FC,0,1,A,,,
+ENG,1970-03-30,,Manchester United,Coventry City,1,1,D,,,
+ENG,1970-03-30,,Wolverhampton Wanderers,Liverpool FC,0,1,A,,,
+ENG,1970-03-30,,West Bromwich Albion,Chelsea FC,3,1,H,,,
+ENG,1970-03-30,,Stoke City,Everton FC,0,1,A,,,
+ENG,1970-03-31,,Ipswich Town,Arsenal FC,2,1,H,,,
+ENG,1970-03-31,,Coventry City,Southampton FC,4,0,H,,,
+ENG,1970-03-31,,Nottingham Forest,Manchester United,1,2,A,,,
+ENG,1970-03-31,,West Ham United,Wolverhampton Wanderers,3,0,H,,,
+ENG,1970-04-01,,Everton FC,West Bromwich Albion,2,0,H,,,
+ENG,1970-04-02,,West Ham United,Leeds United,2,2,D,,,
+ENG,1970-04-03,,Liverpool FC,Crystal Palace,3,0,H,,,
+ENG,1970-04-04,,Manchester City,Sunderland AFC,0,1,A,,,
+ENG,1970-04-04,,Coventry City,Stoke City,0,3,A,,,
+ENG,1970-04-04,,Newcastle United,Manchester United,5,1,H,,,
+ENG,1970-04-04,,West Bromwich Albion,Nottingham Forest,4,0,H,,,
+ENG,1970-04-04,,Leeds United,Burnley FC,2,1,H,,,
+ENG,1970-04-04,,Ipswich Town,Southampton FC,2,0,H,,,
+ENG,1970-04-04,,Chelsea FC,Tottenham Hotspur,1,0,H,,,
+ENG,1970-04-04,,Arsenal FC,West Ham United,2,1,H,,,
+ENG,1970-04-04,,Derby County,Wolverhampton Wanderers,2,0,H,,,
+ENG,1970-04-04,,Sheffield Wednesday,Everton FC,0,1,A,,,
+ENG,1970-04-06,,Crystal Palace,Manchester City,1,0,H,,,
+ENG,1970-04-07,,Nottingham Forest,Coventry City,1,4,A,,,
+ENG,1970-04-08,,Sunderland AFC,Everton FC,0,0,D,,,
+ENG,1970-04-08,,Manchester United,West Bromwich Albion,7,0,H,,,
+ENG,1970-04-08,,Southampton FC,Manchester City,0,0,D,,,
+ENG,1970-04-10,,Wolverhampton Wanderers,Coventry City,0,1,A,,,
+ENG,1970-04-10,,Nottingham Forest,Ipswich Town,1,0,H,,,
+ENG,1970-04-13,,Stoke City,Chelsea FC,1,2,A,,,
+ENG,1970-04-13,,Tottenham Hotspur,Manchester United,2,1,H,,,
+ENG,1970-04-14,,Newcastle United,Coventry City,4,0,H,,,
+ENG,1970-04-15,,Sunderland AFC,Liverpool FC,0,1,A,,,
+ENG,1970-04-15,,Stoke City,West Bromwich Albion,3,2,H,,,
+ENG,1970-04-15,,Southampton FC,Derby County,1,1,D,,,
+ENG,1970-04-15,,Manchester United,Sheffield Wednesday,2,2,D,,,
+ENG,1970-04-15,,Burnley FC,Chelsea FC,3,1,H,,,
+ENG,1970-04-18,,Chelsea FC,Liverpool FC,2,1,H,,,
+ENG,1970-04-18,,Leeds United,Manchester City,1,3,A,,,
+ENG,1970-04-21,,Ipswich Town,Leeds United,3,2,H,,,
+ENG,1970-04-22,,Sheffield Wednesday,Manchester City,1,2,A,,,
+ENG,1970-05-02,,Tottenham Hotspur,Arsenal FC,1,0,H,,,

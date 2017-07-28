@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,2008-08-16,19:00,Cercle Brugge,RSC Anderlecht,0,3,A,0,1,A
+BEL,2008-08-16,19:00,KSV Roeselare,KV Kortrijk,2,2,D,1,1,D
+BEL,2008-08-16,19:00,KVC Westerlo,Sporting Charleroi,1,0,H,1,0,H
+BEL,2008-08-16,19:00,SV Zulte Waregem,Sporting Lokeren,0,0,D,0,0,D
+BEL,2008-08-16,19:00,AFC Tubize,Excelsior Mouscron,1,2,A,0,1,A
+BEL,2008-08-16,19:00,FCV Dender EH,Standard Liège,1,3,A,0,1,A
+BEL,2008-08-17,17:00,KAA Gent,RAEC Mons,5,0,H,3,0,H
+BEL,2008-08-17,19:30,KRC Genk,Germinal Beerschot,1,1,D,1,0,H
+BEL,2008-08-23,17:00,Standard Liège,KVC Westerlo,3,0,H,2,0,H
+BEL,2008-08-23,19:00,KV Kortrijk,Cercle Brugge,2,1,H,1,0,H
+BEL,2008-08-23,19:00,Excelsior Mouscron,KV Mechelen,3,1,H,1,1,D
+BEL,2008-08-23,19:00,Germinal Beerschot,FCV Dender EH,1,1,D,1,1,D
+BEL,2008-08-23,19:00,RSC Anderlecht,KAA Gent,2,2,D,2,2,D
+BEL,2008-08-23,19:00,Sporting Charleroi,KSV Roeselare,1,0,H,0,0,D
+BEL,2008-08-23,19:00,Sporting Lokeren,AFC Tubize,4,1,H,2,0,H
+BEL,2008-08-24,17:00,RAEC Mons,KRC Genk,3,1,H,2,0,H
+BEL,2008-08-29,19:30,AFC Tubize,Club Brugge KV,1,4,A,0,3,A
+BEL,2008-08-30,19:00,FCV Dender EH,Excelsior Mouscron,1,2,A,0,1,A
+BEL,2008-08-30,19:00,Cercle Brugge,RAEC Mons,2,1,H,1,0,H
+BEL,2008-08-30,19:00,KVC Westerlo,Germinal Beerschot,1,0,H,0,0,D
+BEL,2008-08-30,19:00,KRC Genk,Sporting Lokeren,1,0,H,0,0,D
+BEL,2008-08-30,19:00,KV Mechelen,SV Zulte Waregem,0,2,A,0,0,D
+BEL,2008-08-30,19:00,RSC Anderlecht,KV Kortrijk,4,0,H,2,0,H
+BEL,2008-08-31,17:00,KSV Roeselare,Standard Liège,1,1,D,0,1,A
+BEL,2008-08-31,19:30,KAA Gent,Sporting Charleroi,2,0,H,1,0,H
+BEL,2008-09-13,17:00,RAEC Mons,RSC Anderlecht,1,2,A,1,1,D
+BEL,2008-09-13,19:00,KV Mechelen,AFC Tubize,0,0,D,0,0,D
+BEL,2008-09-13,19:00,Germinal Beerschot,KSV Roeselare,3,0,H,0,0,D
+BEL,2008-09-13,19:00,Sporting Lokeren,KVC Westerlo,1,1,D,1,0,H
+BEL,2008-09-13,19:00,Club Brugge KV,FCV Dender EH,1,1,D,0,1,A
+BEL,2008-09-13,19:00,Excelsior Mouscron,KAA Gent,4,2,H,3,0,H
+BEL,2008-09-13,19:00,Standard Liège,KV Kortrijk,2,0,H,1,0,H
+BEL,2008-09-14,17:00,Sporting Charleroi,Cercle Brugge,3,2,H,2,2,D
+BEL,2008-09-14,19:30,SV Zulte Waregem,KRC Genk,1,3,A,1,1,D
+BEL,2008-09-19,19:30,RSC Anderlecht,Sporting Charleroi,2,0,H,0,0,D
+BEL,2008-09-20,19:00,KSV Roeselare,Sporting Lokeren,0,1,A,0,0,D
+BEL,2008-09-20,19:00,Cercle Brugge,Germinal Beerschot,1,0,H,1,0,H
+BEL,2008-09-20,19:00,KAA Gent,KV Mechelen,1,2,A,1,1,D
+BEL,2008-09-20,19:00,KVC Westerlo,Excelsior Mouscron,0,0,D,0,0,D
+BEL,2008-09-20,19:00,KV Kortrijk,RAEC Mons,1,0,H,1,0,H
+BEL,2008-09-20,19:00,FCV Dender EH,SV Zulte Waregem,2,0,H,1,0,H
+BEL,2008-09-21,17:00,AFC Tubize,Standard Liège,0,1,A,0,1,A
+BEL,2008-09-21,19:30,KRC Genk,Club Brugge KV,0,1,A,0,0,D
+BEL,2008-09-24,19:30,KV Mechelen,Club Brugge KV,1,1,D,0,1,A
+BEL,2008-09-26,19:30,Standard Liège,RSC Anderlecht,2,1,H,0,0,D
+BEL,2008-09-27,19:00,Sporting Charleroi,KV Kortrijk,1,2,A,0,0,D
+BEL,2008-09-27,19:00,Club Brugge KV,KVC Westerlo,2,0,H,1,0,H
+BEL,2008-09-27,19:00,RAEC Mons,KSV Roeselare,2,0,H,1,0,H
+BEL,2008-09-27,19:00,SV Zulte Waregem,AFC Tubize,1,0,H,0,0,D
+BEL,2008-09-27,19:00,Sporting Lokeren,Cercle Brugge,1,1,D,1,1,D
+BEL,2008-09-28,17:00,Excelsior Mouscron,KRC Genk,1,2,A,1,0,H
+BEL,2008-09-28,19:30,Germinal Beerschot,KAA Gent,2,2,D,1,0,H
+BEL,2008-09-29,19:30,KV Mechelen,FCV Dender EH,4,1,H,4,0,H
+BEL,2008-10-03,19:30,RSC Anderlecht,Excelsior Mouscron,2,1,H,1,0,H
+BEL,2008-10-04,19:00,AFC Tubize,FCV Dender EH,2,1,H,1,0,H
+BEL,2008-10-04,19:00,KV Kortrijk,Germinal Beerschot,0,0,D,0,0,D
+BEL,2008-10-04,19:00,RAEC Mons,Sporting Charleroi,1,1,D,0,0,D
+BEL,2008-10-04,19:00,KAA Gent,Sporting Lokeren,1,1,D,0,1,A
+BEL,2008-10-04,19:00,KVC Westerlo,SV Zulte Waregem,3,2,H,1,1,D
+BEL,2008-10-04,19:00,KRC Genk,KV Mechelen,2,1,H,2,1,H
+BEL,2008-10-05,17:00,KSV Roeselare,Club Brugge KV,0,1,A,0,0,D
+BEL,2008-10-05,19:30,Cercle Brugge,Standard Liège,4,1,H,1,0,H
+BEL,2008-10-18,17:00,FCV Dender EH,KRC Genk,2,4,A,1,1,D
+BEL,2008-10-18,19:00,Excelsior Mouscron,KSV Roeselare,2,0,H,0,0,D
+BEL,2008-10-18,19:00,Sporting Lokeren,KV Kortrijk,2,0,H,1,0,H
+BEL,2008-10-18,19:00,Standard Liège,RAEC Mons,2,1,H,1,0,H
+BEL,2008-10-18,19:00,AFC Tubize,KAA Gent,0,1,A,0,0,D
+BEL,2008-10-18,19:00,KV Mechelen,KVC Westerlo,1,3,A,0,1,A
+BEL,2008-10-18,19:00,Germinal Beerschot,Sporting Charleroi,1,2,A,1,2,A
+BEL,2008-10-19,17:00,Club Brugge KV,Cercle Brugge,3,1,H,1,1,D
+BEL,2008-10-19,19:30,SV Zulte Waregem,RSC Anderlecht,4,0,H,1,0,H
+BEL,2008-10-24,19:30,KV Kortrijk,Excelsior Mouscron,2,2,D,1,1,D
+BEL,2008-10-25,19:00,RSC Anderlecht,KV Mechelen,7,1,H,4,1,H
+BEL,2008-10-25,19:00,KSV Roeselare,SV Zulte Waregem,0,3,A,0,1,A
+BEL,2008-10-25,19:00,RAEC Mons,Germinal Beerschot,0,0,D,0,0,D
+BEL,2008-10-25,19:00,KVC Westerlo,AFC Tubize,4,1,H,2,0,H
+BEL,2008-10-25,19:00,Cercle Brugge,FCV Dender EH,1,2,A,1,1,D
+BEL,2008-10-25,19:00,Sporting Charleroi,Sporting Lokeren,1,1,D,1,1,D
+BEL,2008-10-26,17:00,KAA Gent,Club Brugge KV,3,0,H,0,0,D
+BEL,2008-10-26,19:30,KRC Genk,Standard Liège,0,0,D,0,0,D
+BEL,2008-10-29,19:30,Club Brugge KV,SV Zulte Waregem,2,0,H,0,0,D
+BEL,2008-10-31,19:30,Standard Liège,Sporting Charleroi,1,2,A,1,1,D
+BEL,2008-11-01,19:00,KV Mechelen,KSV Roeselare,1,2,A,0,0,D
+BEL,2008-11-01,19:00,FCV Dender EH,KVC Westerlo,2,2,D,0,1,A
+BEL,2008-11-01,19:00,Club Brugge KV,KV Kortrijk,4,1,H,2,1,H
+BEL,2008-11-01,19:00,AFC Tubize,KRC Genk,1,3,A,0,1,A
+BEL,2008-11-01,19:00,Sporting Lokeren,RAEC Mons,0,0,D,0,0,D
+BEL,2008-11-01,19:15,Excelsior Mouscron,Cercle Brugge,0,1,A,0,0,D
+BEL,2008-11-02,17:00,SV Zulte Waregem,KAA Gent,0,2,A,0,0,D
+BEL,2008-11-02,19:30,Germinal Beerschot,RSC Anderlecht,1,3,A,1,0,H
+BEL,2008-11-07,19:30,Cercle Brugge,SV Zulte Waregem,2,0,H,0,0,D
+BEL,2008-11-08,19:00,KAA Gent,FCV Dender EH,1,1,D,1,0,H
+BEL,2008-11-08,19:00,KVC Westerlo,KRC Genk,1,0,H,0,0,D
+BEL,2008-11-08,19:00,KSV Roeselare,AFC Tubize,1,2,A,1,1,D
+BEL,2008-11-08,19:00,RSC Anderlecht,Sporting Lokeren,2,3,A,0,2,A
+BEL,2008-11-08,19:00,KV Kortrijk,KV Mechelen,0,0,D,0,0,D
+BEL,2008-11-08,19:00,RAEC Mons,Excelsior Mouscron,0,0,D,0,0,D
+BEL,2008-11-09,17:00,Sporting Charleroi,Club Brugge KV,2,2,D,0,0,D
+BEL,2008-11-09,19:30,Germinal Beerschot,Standard Liège,1,3,A,1,1,D
+BEL,2008-11-14,19:30,KVC Westerlo,KAA Gent,3,2,H,2,1,H
+BEL,2008-11-15,19:00,AFC Tubize,Cercle Brugge,3,0,H,1,0,H
+BEL,2008-11-15,19:00,FCV Dender EH,KV Kortrijk,1,0,H,0,0,D
+BEL,2008-11-15,19:00,Excelsior Mouscron,Sporting Charleroi,2,1,H,2,0,H
+BEL,2008-11-15,19:00,SV Zulte Waregem,Germinal Beerschot,2,2,D,0,2,A
+BEL,2008-11-15,19:00,KV Mechelen,RAEC Mons,0,0,D,0,0,D
+BEL,2008-11-15,19:00,KRC Genk,KSV Roeselare,1,1,D,0,0,D
+BEL,2008-11-16,12:00,Club Brugge KV,RSC Anderlecht,1,1,D,1,0,H
+BEL,2008-11-16,17:00,Sporting Lokeren,Standard Liège,1,1,D,0,0,D
+BEL,2008-11-22,17:00,RAEC Mons,Club Brugge KV,1,2,A,1,0,H
+BEL,2008-11-22,19:00,Sporting Charleroi,AFC Tubize,3,2,H,0,2,A
+BEL,2008-11-22,19:00,RSC Anderlecht,KVC Westerlo,2,0,H,1,0,H
+BEL,2008-11-22,19:00,Standard Liège,Excelsior Mouscron,3,1,H,1,0,H
+BEL,2008-11-22,19:00,KSV Roeselare,FCV Dender EH,2,2,D,1,1,D
+BEL,2008-11-22,19:00,Germinal Beerschot,Sporting Lokeren,0,2,A,0,0,D
+BEL,2008-11-22,19:00,Cercle Brugge,KV Mechelen,2,1,H,1,1,D
+BEL,2008-11-23,19:30,KAA Gent,KRC Genk,2,3,A,0,1,A
+BEL,2008-11-28,19:30,FCV Dender EH,RSC Anderlecht,0,2,A,0,1,A
+BEL,2008-11-29,19:00,KVC Westerlo,RAEC Mons,2,1,H,1,0,H
+BEL,2008-11-29,19:00,KAA Gent,KSV Roeselare,4,0,H,2,0,H
+BEL,2008-11-29,19:00,KRC Genk,Cercle Brugge,3,2,H,2,1,H
+BEL,2008-11-29,19:00,AFC Tubize,KV Kortrijk,3,3,D,1,1,D
+BEL,2008-11-29,19:00,Excelsior Mouscron,Sporting Lokeren,2,0,H,1,0,H
+BEL,2008-11-29,19:00,SV Zulte Waregem,Sporting Charleroi,4,2,H,3,1,H
+BEL,2008-11-30,17:00,KV Mechelen,Standard Liège,0,0,D,0,0,D
+BEL,2008-11-30,19:30,Club Brugge KV,Germinal Beerschot,3,0,H,1,0,H
+BEL,2008-12-05,19:30,Cercle Brugge,KAA Gent,3,1,H,0,0,D
+BEL,2008-12-06,19:00,Standard Liège,SV Zulte Waregem,1,2,A,1,0,H
+BEL,2008-12-06,19:00,Sporting Charleroi,KV Mechelen,1,2,A,1,1,D
+BEL,2008-12-06,19:00,RSC Anderlecht,AFC Tubize,5,1,H,3,0,H
+BEL,2008-12-06,19:00,Germinal Beerschot,Excelsior Mouscron,3,0,H,1,0,H
+BEL,2008-12-06,19:00,KSV Roeselare,KVC Westerlo,1,0,H,0,0,D
+BEL,2008-12-06,19:00,RAEC Mons,FCV Dender EH,5,2,H,2,1,H
+BEL,2008-12-07,17:00,KV Kortrijk,KRC Genk,3,1,H,0,0,D
+BEL,2008-12-07,19:30,Sporting Lokeren,Club Brugge KV,2,0,H,1,0,H
+BEL,2008-12-12,19:30,KV Mechelen,Germinal Beerschot,2,1,H,0,0,D
+BEL,2008-12-13,19:00,KRC Genk,Sporting Charleroi,1,0,H,0,0,D
+BEL,2008-12-13,19:00,AFC Tubize,RAEC Mons,2,1,H,0,0,D
+BEL,2008-12-13,19:00,FCV Dender EH,Sporting Lokeren,1,1,D,1,1,D
+BEL,2008-12-13,19:00,SV Zulte Waregem,Excelsior Mouscron,2,1,H,1,1,D
+BEL,2008-12-13,19:00,KAA Gent,KV Kortrijk,1,1,D,1,1,D
+BEL,2008-12-13,19:00,KVC Westerlo,Cercle Brugge,1,2,A,0,0,D
+BEL,2008-12-14,12:00,Club Brugge KV,Standard Liège,1,4,A,0,3,A
+BEL,2008-12-14,17:00,KSV Roeselare,RSC Anderlecht,0,3,A,0,0,D
+BEL,2008-12-16,19:30,KV Kortrijk,SV Zulte Waregem,1,0,H,1,0,H
+BEL,2008-12-19,19:30,RSC Anderlecht,KRC Genk,2,0,H,1,0,H
+BEL,2008-12-20,19:00,Germinal Beerschot,AFC Tubize,2,0,H,1,0,H
+BEL,2008-12-20,19:00,Sporting Lokeren,KV Mechelen,2,2,D,1,0,H
+BEL,2008-12-20,19:00,Sporting Charleroi,FCV Dender EH,2,0,H,1,0,H
+BEL,2008-12-20,19:00,Cercle Brugge,KSV Roeselare,4,3,H,3,0,H
+BEL,2008-12-20,19:00,RAEC Mons,SV Zulte Waregem,2,2,D,1,1,D
+BEL,2008-12-20,19:00,Excelsior Mouscron,Club Brugge KV,5,1,H,3,1,H
+BEL,2008-12-21,17:00,KV Kortrijk,KVC Westerlo,0,0,D,0,0,D
+BEL,2008-12-21,19:30,Standard Liège,KAA Gent,2,1,H,1,0,H
+BEL,2009-01-16,19:30,RSC Anderlecht,Cercle Brugge,1,2,A,1,1,D
+BEL,2009-01-17,19:00,RAEC Mons,KAA Gent,1,2,A,1,1,D
+BEL,2009-01-17,19:00,Sporting Lokeren,SV Zulte Waregem,2,1,H,1,0,H
+BEL,2009-01-17,19:00,Club Brugge KV,KV Mechelen,3,0,H,1,0,H
+BEL,2009-01-17,19:00,Standard Liège,FCV Dender EH,3,2,H,2,2,D
+BEL,2009-01-17,19:00,Excelsior Mouscron,AFC Tubize,1,1,D,0,1,A
+BEL,2009-01-17,19:00,KV Kortrijk,KSV Roeselare,2,1,H,2,0,H
+BEL,2009-01-18,17:00,Sporting Charleroi,KVC Westerlo,1,2,A,0,1,A
+BEL,2009-01-18,19:30,Germinal Beerschot,KRC Genk,4,1,H,1,0,H
+BEL,2009-01-24,19:00,AFC Tubize,Sporting Lokeren,2,1,H,0,1,A
+BEL,2009-01-24,19:00,Cercle Brugge,KV Kortrijk,0,1,A,0,1,A
+BEL,2009-01-24,19:00,KV Mechelen,Excelsior Mouscron,2,2,D,1,2,A
+BEL,2009-01-24,19:00,KSV Roeselare,Sporting Charleroi,3,1,H,2,1,H
+BEL,2009-01-24,19:00,FCV Dender EH,Germinal Beerschot,0,1,A,0,0,D
+BEL,2009-01-24,19:00,KRC Genk,RAEC Mons,2,0,H,1,0,H
+BEL,2009-01-25,17:00,SV Zulte Waregem,Club Brugge KV,3,1,H,1,0,H
+BEL,2009-01-25,19:30,KVC Westerlo,Standard Liège,0,1,A,0,0,D
+BEL,2009-01-31,17:00,Germinal Beerschot,KVC Westerlo,2,1,H,0,0,D
+BEL,2009-01-31,19:00,Club Brugge KV,AFC Tubize,3,1,H,1,0,H
+BEL,2009-01-31,19:00,RAEC Mons,Cercle Brugge,1,1,D,0,1,A
+BEL,2009-01-31,19:00,Standard Liège,KSV Roeselare,3,0,H,2,0,H
+BEL,2009-01-31,19:00,KV Kortrijk,RSC Anderlecht,1,3,A,1,0,H
+BEL,2009-01-31,19:00,Excelsior Mouscron,FCV Dender EH,0,2,A,0,0,D
+BEL,2009-01-31,19:00,SV Zulte Waregem,KV Mechelen,1,1,D,0,0,D
+BEL,2009-02-01,17:00,Sporting Charleroi,KAA Gent,2,5,A,1,2,A
+BEL,2009-02-01,19:30,Sporting Lokeren,KRC Genk,1,2,A,1,0,H
+BEL,2009-02-06,19:30,KV Kortrijk,Standard Liège,0,2,A,0,0,D
+BEL,2009-02-07,19:00,AFC Tubize,KV Mechelen,1,5,A,1,3,A
+BEL,2009-02-07,19:00,FCV Dender EH,Club Brugge KV,0,2,A,0,0,D
+BEL,2009-02-07,19:00,KSV Roeselare,Germinal Beerschot,2,2,D,2,2,D
+BEL,2009-02-07,19:00,KRC Genk,SV Zulte Waregem,1,2,A,0,2,A
+BEL,2009-02-07,19:00,RSC Anderlecht,RAEC Mons,3,2,H,2,2,D
+BEL,2009-02-07,19:00,KAA Gent,Excelsior Mouscron,2,0,H,1,0,H
+BEL,2009-02-08,17:00,KVC Westerlo,Sporting Lokeren,1,0,H,0,0,D
+BEL,2009-02-08,19:30,Cercle Brugge,Sporting Charleroi,2,2,D,1,1,D
+BEL,2009-02-14,17:00,Germinal Beerschot,Cercle Brugge,1,1,D,0,0,D
+BEL,2009-02-14,19:00,Standard Liège,AFC Tubize,4,0,H,2,0,H
+BEL,2009-02-14,19:00,Sporting Lokeren,KSV Roeselare,2,1,H,0,1,A
+BEL,2009-02-14,19:00,KV Mechelen,KAA Gent,3,3,D,1,2,A
+BEL,2009-02-14,19:00,RAEC Mons,KV Kortrijk,1,1,D,0,0,D
+BEL,2009-02-14,19:00,Excelsior Mouscron,KVC Westerlo,0,0,D,0,0,D
+BEL,2009-02-14,19:00,SV Zulte Waregem,FCV Dender EH,1,0,H,0,0,D
+BEL,2009-02-15,17:00,Sporting Charleroi,RSC Anderlecht,0,1,A,0,0,D
+BEL,2009-02-15,19:30,Club Brugge KV,KRC Genk,0,2,A,0,1,A
+BEL,2009-02-18,19:30,KAA Gent,RSC Anderlecht,1,2,A,0,1,A
+BEL,2009-02-20,19:30,KRC Genk,Excelsior Mouscron,1,1,D,1,1,D
+BEL,2009-02-21,19:00,KV Kortrijk,Sporting Charleroi,1,1,D,0,1,A
+BEL,2009-02-21,19:00,AFC Tubize,SV Zulte Waregem,0,6,A,0,2,A
+BEL,2009-02-21,19:00,Cercle Brugge,Sporting Lokeren,0,0,D,0,0,D
+BEL,2009-02-21,19:00,KAA Gent,Germinal Beerschot,1,3,A,0,0,D
+BEL,2009-02-21,19:00,KSV Roeselare,RAEC Mons,3,2,H,0,0,D
+BEL,2009-02-21,19:00,FCV Dender EH,KV Mechelen,1,2,A,0,2,A
+BEL,2009-02-22,17:00,KVC Westerlo,Club Brugge KV,1,1,D,0,1,A
+BEL,2009-02-22,19:30,RSC Anderlecht,Standard Liège,4,2,H,1,1,D
+BEL,2009-02-27,19:30,KV Mechelen,KRC Genk,2,1,H,1,0,H
+BEL,2009-02-28,19:00,Club Brugge KV,KSV Roeselare,2,1,H,1,0,H
+BEL,2009-02-28,19:00,SV Zulte Waregem,KVC Westerlo,1,1,D,1,1,D
+BEL,2009-02-28,19:00,FCV Dender EH,AFC Tubize,4,0,H,2,0,H
+BEL,2009-02-28,19:00,Germinal Beerschot,KV Kortrijk,3,0,H,2,0,H
+BEL,2009-02-28,19:00,Sporting Charleroi,RAEC Mons,3,0,H,2,0,H
+BEL,2009-02-28,19:00,Excelsior Mouscron,RSC Anderlecht,1,1,D,0,0,D
+BEL,2009-03-01,17:00,Sporting Lokeren,KAA Gent,0,1,A,0,0,D
+BEL,2009-03-01,19:30,Standard Liège,Cercle Brugge,4,0,H,2,0,H
+BEL,2009-03-06,19:30,RAEC Mons,Standard Liège,0,1,A,0,0,D
+BEL,2009-03-07,19:00,KV Kortrijk,Sporting Lokeren,2,3,A,0,0,D
+BEL,2009-03-07,19:00,RSC Anderlecht,SV Zulte Waregem,2,0,H,2,0,H
+BEL,2009-03-07,19:00,Sporting Charleroi,Germinal Beerschot,0,0,D,0,0,D
+BEL,2009-03-07,19:00,KAA Gent,AFC Tubize,2,0,H,2,0,H
+BEL,2009-03-07,19:00,KSV Roeselare,Excelsior Mouscron,2,0,H,1,0,H
+BEL,2009-03-07,19:00,KRC Genk,FCV Dender EH,4,3,H,1,0,H
+BEL,2009-03-08,17:00,KVC Westerlo,KV Mechelen,0,1,A,0,1,A
+BEL,2009-03-08,19:30,Cercle Brugge,Club Brugge KV,1,3,A,0,2,A
+BEL,2009-03-13,19:30,KV Mechelen,RSC Anderlecht,2,1,H,0,0,D
+BEL,2009-03-14,19:00,Excelsior Mouscron,KV Kortrijk,1,0,H,0,0,D
+BEL,2009-03-14,19:00,FCV Dender EH,Cercle Brugge,1,0,H,0,0,D
+BEL,2009-03-14,19:00,Germinal Beerschot,RAEC Mons,2,0,H,0,0,D
+BEL,2009-03-14,19:00,Sporting Lokeren,Sporting Charleroi,0,0,D,0,0,D
+BEL,2009-03-14,19:00,AFC Tubize,KVC Westerlo,1,2,A,1,0,H
+BEL,2009-03-14,19:00,SV Zulte Waregem,KSV Roeselare,0,0,D,0,0,D
+BEL,2009-03-15,17:00,Club Brugge KV,KAA Gent,1,4,A,1,4,A
+BEL,2009-03-15,19:30,Standard Liège,KRC Genk,2,0,H,0,0,D
+BEL,2009-03-20,19:30,KV Kortrijk,Club Brugge KV,2,3,A,1,2,A
+BEL,2009-03-21,19:00,Cercle Brugge,Excelsior Mouscron,0,1,A,0,1,A
+BEL,2009-03-21,19:00,KRC Genk,AFC Tubize,3,0,H,3,0,H
+BEL,2009-03-21,19:00,RSC Anderlecht,Germinal Beerschot,2,0,H,0,0,D
+BEL,2009-03-21,19:00,KVC Westerlo,FCV Dender EH,3,1,H,1,1,D
+BEL,2009-03-21,19:00,KSV Roeselare,KV Mechelen,1,0,H,0,0,D
+BEL,2009-03-21,19:00,RAEC Mons,Sporting Lokeren,0,2,A,0,0,D
+BEL,2009-03-22,17:00,KAA Gent,SV Zulte Waregem,1,0,H,0,0,D
+BEL,2009-03-22,19:30,Sporting Charleroi,Standard Liège,1,0,H,1,0,H
+BEL,2009-04-04,17:00,SV Zulte Waregem,Cercle Brugge,3,1,H,0,1,A
+BEL,2009-04-04,19:00,FCV Dender EH,KAA Gent,1,1,D,1,1,D
+BEL,2009-04-04,19:00,Club Brugge KV,Sporting Charleroi,2,1,H,1,0,H
+BEL,2009-04-04,19:00,AFC Tubize,KSV Roeselare,0,1,A,0,1,A
+BEL,2009-04-04,19:00,Excelsior Mouscron,RAEC Mons,3,2,H,2,1,H
+BEL,2009-04-04,19:00,KRC Genk,KVC Westerlo,1,4,A,1,2,A
+BEL,2009-04-04,19:00,KV Mechelen,KV Kortrijk,1,1,D,0,0,D
+BEL,2009-04-05,17:00,Standard Liège,Germinal Beerschot,3,1,H,2,1,H
+BEL,2009-04-05,19:30,Sporting Lokeren,RSC Anderlecht,0,0,D,0,0,D
+BEL,2009-04-10,19:30,KSV Roeselare,KRC Genk,1,0,H,1,0,H
+BEL,2009-04-11,19:00,Sporting Charleroi,Excelsior Mouscron,1,0,H,1,0,H
+BEL,2009-04-11,19:00,RAEC Mons,KV Mechelen,0,1,A,0,1,A
+BEL,2009-04-11,19:00,Germinal Beerschot,SV Zulte Waregem,1,2,A,0,1,A
+BEL,2009-04-11,19:00,KV Kortrijk,FCV Dender EH,1,2,A,0,0,D
+BEL,2009-04-11,19:00,Standard Liège,Sporting Lokeren,1,0,H,1,0,H
+BEL,2009-04-11,19:00,Cercle Brugge,AFC Tubize,4,1,H,1,0,H
+BEL,2009-04-12,17:00,KAA Gent,KVC Westerlo,2,0,H,2,0,H
+BEL,2009-04-12,19:30,RSC Anderlecht,Club Brugge KV,1,0,H,1,0,H
+BEL,2009-04-17,19:30,KRC Genk,KAA Gent,2,2,D,1,1,D
+BEL,2009-04-18,19:00,KV Mechelen,Cercle Brugge,0,1,A,0,0,D
+BEL,2009-04-18,19:00,Excelsior Mouscron,Standard Liège,0,3,A,0,1,A
+BEL,2009-04-18,19:00,Club Brugge KV,RAEC Mons,3,2,H,1,1,D
+BEL,2009-04-18,19:00,SV Zulte Waregem,KV Kortrijk,5,1,H,0,0,D
+BEL,2009-04-18,19:00,Sporting Lokeren,Germinal Beerschot,1,0,H,0,0,D
+BEL,2009-04-18,19:00,AFC Tubize,Sporting Charleroi,3,1,H,1,1,D
+BEL,2009-04-19,17:00,KVC Westerlo,RSC Anderlecht,0,1,A,0,0,D
+BEL,2009-04-19,19:30,FCV Dender EH,KSV Roeselare,3,1,H,1,0,H
+BEL,2009-04-24,19:30,Germinal Beerschot,Club Brugge KV,2,0,H,1,0,H
+BEL,2009-04-25,19:00,RSC Anderlecht,FCV Dender EH,4,0,H,3,0,H
+BEL,2009-04-25,19:00,Sporting Charleroi,SV Zulte Waregem,1,0,H,0,0,D
+BEL,2009-04-25,19:00,RAEC Mons,KVC Westerlo,0,2,A,0,1,A
+BEL,2009-04-25,19:00,Sporting Lokeren,Excelsior Mouscron,3,0,H,1,0,H
+BEL,2009-04-25,19:00,KV Kortrijk,AFC Tubize,2,2,D,2,1,H
+BEL,2009-04-25,19:00,Standard Liège,KV Mechelen,4,1,H,4,0,H
+BEL,2009-04-26,17:00,KSV Roeselare,KAA Gent,1,3,A,0,1,A
+BEL,2009-04-26,19:30,Cercle Brugge,KRC Genk,1,2,A,1,0,H
+BEL,2009-05-01,19:30,Club Brugge KV,Sporting Lokeren,2,3,A,0,2,A
+BEL,2009-05-02,19:00,KAA Gent,Cercle Brugge,2,1,H,1,1,D
+BEL,2009-05-02,19:00,SV Zulte Waregem,Standard Liège,0,0,D,0,0,D
+BEL,2009-05-02,19:00,FCV Dender EH,RAEC Mons,0,0,D,0,0,D
+BEL,2009-05-02,19:00,Excelsior Mouscron,Germinal Beerschot,3,1,H,1,1,D
+BEL,2009-05-02,19:00,KV Mechelen,Sporting Charleroi,2,1,H,0,1,A
+BEL,2009-05-02,19:00,KVC Westerlo,KSV Roeselare,1,0,H,0,0,D
+BEL,2009-05-03,17:00,KRC Genk,KV Kortrijk,0,1,A,0,0,D
+BEL,2009-05-03,19:30,AFC Tubize,RSC Anderlecht,1,1,D,0,0,D
+BEL,2009-05-08,19:30,Germinal Beerschot,KV Mechelen,3,1,H,1,0,H
+BEL,2009-05-09,19:00,Excelsior Mouscron,SV Zulte Waregem,0,2,A,0,2,A
+BEL,2009-05-09,19:00,Standard Liège,Club Brugge KV,2,0,H,1,0,H
+BEL,2009-05-09,19:00,Sporting Charleroi,KRC Genk,3,0,H,0,0,D
+BEL,2009-05-09,19:00,RAEC Mons,AFC Tubize,1,1,D,0,1,A
+BEL,2009-05-09,19:00,RSC Anderlecht,KSV Roeselare,3,1,H,1,0,H
+BEL,2009-05-09,19:00,Cercle Brugge,KVC Westerlo,2,1,H,1,1,D
+BEL,2009-05-09,19:00,Sporting Lokeren,FCV Dender EH,0,2,A,0,1,A
+BEL,2009-05-09,19:00,KV Kortrijk,KAA Gent,0,2,A,0,1,A
+BEL,2009-05-15,19:30,KV Mechelen,Sporting Lokeren,3,0,H,0,0,D
+BEL,2009-05-16,19:00,KAA Gent,Standard Liège,0,1,A,0,1,A
+BEL,2009-05-16,19:00,KRC Genk,RSC Anderlecht,0,2,A,0,1,A
+BEL,2009-05-16,19:00,SV Zulte Waregem,RAEC Mons,3,0,H,1,0,H
+BEL,2009-05-16,19:00,AFC Tubize,Germinal Beerschot,1,0,H,0,0,D
+BEL,2009-05-16,19:00,KVC Westerlo,KV Kortrijk,1,3,A,0,1,A
+BEL,2009-05-16,19:00,Club Brugge KV,Excelsior Mouscron,4,1,H,3,1,H
+BEL,2009-05-16,19:00,KSV Roeselare,Cercle Brugge,1,2,A,1,0,H
+BEL,2009-05-16,19:00,FCV Dender EH,Sporting Charleroi,1,2,A,0,1,A

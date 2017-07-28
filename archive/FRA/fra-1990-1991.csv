@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-FRA,21/07/1990,,AS Cannes,Montpellier HSC,2,1,H,NaN,NaN,NaN
-FRA,21/07/1990,,Paris Saint-Germain,AS Nancy,2,1,H,NaN,NaN,NaN
-FRA,21/07/1990,,Olympique Marseille,OGC Nice,1,0,H,NaN,NaN,NaN
-FRA,21/07/1990,,FC Metz,Lille OSC,2,2,D,NaN,NaN,NaN
-FRA,21/07/1990,,FC Sochaux,Brest Armorique FC,1,1,D,NaN,NaN,NaN
-FRA,21/07/1990,,Toulouse FC,AJ Auxerre,0,0,D,NaN,NaN,NaN
-FRA,21/07/1990,,Girondins Bordeaux,Olympique Lyon,0,0,D,NaN,NaN,NaN
-FRA,21/07/1990,,FC Nantes,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,21/07/1990,,AS Saint-Étienne,Stade Rennes,0,0,D,NaN,NaN,NaN
-FRA,21/07/1990,,AS Monaco,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
-FRA,27/07/1990,,FC Metz,Olympique Marseille,0,2,A,NaN,NaN,NaN
-FRA,28/07/1990,,AJ Auxerre,AS Monaco,0,1,A,NaN,NaN,NaN
-FRA,28/07/1990,,SM Caen,Girondins Bordeaux,2,0,H,NaN,NaN,NaN
-FRA,28/07/1990,,Stade Rennes,Paris Saint-Germain,2,1,H,NaN,NaN,NaN
-FRA,28/07/1990,,Olympique Lyon,AS Cannes,1,0,H,NaN,NaN,NaN
-FRA,28/07/1990,,Montpellier HSC,FC Sochaux,2,0,H,NaN,NaN,NaN
-FRA,28/07/1990,,Lille OSC,FC Nantes,1,1,D,NaN,NaN,NaN
-FRA,28/07/1990,,AS Nancy,Brest Armorique FC,0,0,D,NaN,NaN,NaN
-FRA,28/07/1990,,OGC Nice,Toulouse FC,1,1,D,NaN,NaN,NaN
-FRA,28/07/1990,,Sporting Toulon Var,AS Saint-Étienne,3,0,H,NaN,NaN,NaN
-FRA,04/08/1990,,AS Monaco,Montpellier HSC,3,1,H,NaN,NaN,NaN
-FRA,04/08/1990,,Olympique Marseille,SM Caen,2,1,H,NaN,NaN,NaN
-FRA,04/08/1990,,Toulouse FC,Olympique Lyon,3,1,H,NaN,NaN,NaN
-FRA,04/08/1990,,Brest Armorique FC,Stade Rennes,0,0,D,NaN,NaN,NaN
-FRA,04/08/1990,,AS Cannes,AJ Auxerre,0,3,A,NaN,NaN,NaN
-FRA,04/08/1990,,Girondins Bordeaux,Lille OSC,1,1,D,NaN,NaN,NaN
-FRA,04/08/1990,,FC Nantes,FC Metz,1,1,D,NaN,NaN,NaN
-FRA,04/08/1990,,FC Sochaux,AS Nancy,1,0,H,NaN,NaN,NaN
-FRA,04/08/1990,,AS Saint-Étienne,OGC Nice,1,0,H,NaN,NaN,NaN
-FRA,04/08/1990,,Paris Saint-Germain,Sporting Toulon Var,4,0,H,NaN,NaN,NaN
-FRA,10/08/1990,,Montpellier HSC,Paris Saint-Germain,4,0,H,NaN,NaN,NaN
-FRA,10/08/1990,,OGC Nice,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,11/08/1990,,Olympique Lyon,Olympique Marseille,2,2,D,NaN,NaN,NaN
-FRA,11/08/1990,,FC Nantes,AS Monaco,3,1,H,NaN,NaN,NaN
-FRA,11/08/1990,,Stade Rennes,AS Nancy,1,0,H,NaN,NaN,NaN
-FRA,11/08/1990,,AJ Auxerre,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
-FRA,11/08/1990,,Lille OSC,Toulouse FC,3,0,H,NaN,NaN,NaN
-FRA,11/08/1990,,SM Caen,FC Sochaux,2,0,H,NaN,NaN,NaN
-FRA,11/08/1990,,FC Metz,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,11/08/1990,,Sporting Toulon Var,Brest Armorique FC,1,2,A,NaN,NaN,NaN
-FRA,18/08/1990,,Olympique Marseille,Lille OSC,2,0,H,NaN,NaN,NaN
-FRA,18/08/1990,,Brest Armorique FC,OGC Nice,4,0,H,NaN,NaN,NaN
-FRA,18/08/1990,,AS Monaco,Olympique Lyon,0,0,D,NaN,NaN,NaN
-FRA,18/08/1990,,Paris Saint-Germain,AJ Auxerre,1,1,D,NaN,NaN,NaN
-FRA,18/08/1990,,AS Cannes,SM Caen,1,1,D,NaN,NaN,NaN
-FRA,18/08/1990,,Toulouse FC,FC Metz,2,1,H,NaN,NaN,NaN
-FRA,18/08/1990,,FC Sochaux,Stade Rennes,4,0,H,NaN,NaN,NaN
-FRA,18/08/1990,,Girondins Bordeaux,FC Nantes,2,0,H,NaN,NaN,NaN
-FRA,18/08/1990,,AS Saint-Étienne,Montpellier HSC,1,0,H,NaN,NaN,NaN
-FRA,18/08/1990,,AS Nancy,Sporting Toulon Var,2,1,H,NaN,NaN,NaN
-FRA,24/08/1990,,Girondins Bordeaux,AS Monaco,0,0,D,NaN,NaN,NaN
-FRA,25/08/1990,,FC Nantes,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,25/08/1990,,AJ Auxerre,Brest Armorique FC,2,2,D,NaN,NaN,NaN
-FRA,25/08/1990,,SM Caen,Toulouse FC,2,0,H,NaN,NaN,NaN
-FRA,25/08/1990,,Olympique Lyon,FC Sochaux,1,0,H,NaN,NaN,NaN
-FRA,25/08/1990,,Montpellier HSC,AS Nancy,5,0,H,NaN,NaN,NaN
-FRA,25/08/1990,,OGC Nice,Paris Saint-Germain,1,1,D,NaN,NaN,NaN
-FRA,25/08/1990,,FC Metz,AS Saint-Étienne,3,1,H,NaN,NaN,NaN
-FRA,25/08/1990,,Lille OSC,AS Cannes,0,2,A,NaN,NaN,NaN
-FRA,25/08/1990,,Sporting Toulon Var,Stade Rennes,1,0,H,NaN,NaN,NaN
-FRA,29/08/1990,,Olympique Marseille,Girondins Bordeaux,2,0,H,NaN,NaN,NaN
-FRA,29/08/1990,,Brest Armorique FC,Montpellier HSC,1,1,D,NaN,NaN,NaN
-FRA,29/08/1990,,AS Saint-Étienne,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,29/08/1990,,AS Monaco,Lille OSC,1,1,D,NaN,NaN,NaN
-FRA,29/08/1990,,AS Nancy,AJ Auxerre,1,1,D,NaN,NaN,NaN
-FRA,29/08/1990,,Paris Saint-Germain,Olympique Lyon,3,0,H,NaN,NaN,NaN
-FRA,29/08/1990,,AS Cannes,FC Metz,0,1,A,NaN,NaN,NaN
-FRA,29/08/1990,,Toulouse FC,FC Nantes,2,0,H,NaN,NaN,NaN
-FRA,29/08/1990,,Stade Rennes,OGC Nice,0,3,A,NaN,NaN,NaN
-FRA,29/08/1990,,FC Sochaux,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,08/09/1990,,Olympique Marseille,Paris Saint-Germain,2,1,H,NaN,NaN,NaN
-FRA,08/09/1990,,SM Caen,AS Nancy,4,1,H,NaN,NaN,NaN
-FRA,08/09/1990,,AJ Auxerre,Stade Rennes,4,0,H,NaN,NaN,NaN
-FRA,08/09/1990,,FC Metz,AS Monaco,1,1,D,NaN,NaN,NaN
-FRA,08/09/1990,,Olympique Lyon,Brest Armorique FC,2,0,H,NaN,NaN,NaN
-FRA,08/09/1990,,Lille OSC,AS Saint-Étienne,3,2,H,NaN,NaN,NaN
-FRA,08/09/1990,,Girondins Bordeaux,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,08/09/1990,,FC Nantes,AS Cannes,1,0,H,NaN,NaN,NaN
-FRA,08/09/1990,,OGC Nice,FC Sochaux,3,0,H,NaN,NaN,NaN
-FRA,08/09/1990,,Montpellier HSC,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,14/09/1990,,OGC Nice,AS Monaco,0,0,D,NaN,NaN,NaN
-FRA,15/09/1990,,Toulouse FC,Olympique Marseille,0,2,A,NaN,NaN,NaN
-FRA,15/09/1990,,FC Sochaux,AJ Auxerre,0,1,A,NaN,NaN,NaN
-FRA,15/09/1990,,Paris Saint-Germain,SM Caen,3,2,H,NaN,NaN,NaN
-FRA,15/09/1990,,Brest Armorique FC,FC Metz,1,0,H,NaN,NaN,NaN
-FRA,15/09/1990,,AS Saint-Étienne,Olympique Lyon,0,1,A,NaN,NaN,NaN
-FRA,15/09/1990,,Stade Rennes,Montpellier HSC,1,2,A,NaN,NaN,NaN
-FRA,15/09/1990,,AS Nancy,FC Nantes,3,2,H,NaN,NaN,NaN
-FRA,15/09/1990,,AS Cannes,Girondins Bordeaux,1,1,D,NaN,NaN,NaN
-FRA,15/09/1990,,Sporting Toulon Var,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,22/09/1990,,Olympique Marseille,AS Cannes,0,1,A,NaN,NaN,NaN
-FRA,22/09/1990,,SM Caen,AS Monaco,0,2,A,NaN,NaN,NaN
-FRA,22/09/1990,,Olympique Lyon,Stade Rennes,0,0,D,NaN,NaN,NaN
-FRA,22/09/1990,,FC Metz,Paris Saint-Germain,2,2,D,NaN,NaN,NaN
-FRA,22/09/1990,,Lille OSC,Brest Armorique FC,1,0,H,NaN,NaN,NaN
-FRA,22/09/1990,,FC Nantes,AS Saint-Étienne,2,1,H,NaN,NaN,NaN
-FRA,22/09/1990,,Girondins Bordeaux,FC Sochaux,1,0,H,NaN,NaN,NaN
-FRA,22/09/1990,,Toulouse FC,AS Nancy,0,0,D,NaN,NaN,NaN
-FRA,22/09/1990,,OGC Nice,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,23/09/1990,,AJ Auxerre,Montpellier HSC,3,2,H,NaN,NaN,NaN
-FRA,28/09/1990,,AS Monaco,Olympique Marseille,1,3,A,NaN,NaN,NaN
-FRA,29/09/1990,,Brest Armorique FC,SM Caen,5,0,H,NaN,NaN,NaN
-FRA,29/09/1990,,Montpellier HSC,OGC Nice,3,0,H,NaN,NaN,NaN
-FRA,29/09/1990,,Paris Saint-Germain,FC Nantes,1,1,D,NaN,NaN,NaN
-FRA,29/09/1990,,Stade Rennes,FC Metz,0,2,A,NaN,NaN,NaN
-FRA,29/09/1990,,FC Sochaux,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,29/09/1990,,AS Nancy,Olympique Lyon,2,0,H,NaN,NaN,NaN
-FRA,29/09/1990,,AS Saint-Étienne,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,29/09/1990,,AS Cannes,Toulouse FC,0,0,D,NaN,NaN,NaN
-FRA,29/09/1990,,Sporting Toulon Var,AJ Auxerre,2,3,A,NaN,NaN,NaN
-FRA,05/10/1990,,FC Nantes,Brest Armorique FC,1,0,H,NaN,NaN,NaN
-FRA,05/10/1990,,Lille OSC,Stade Rennes,1,1,D,NaN,NaN,NaN
-FRA,06/10/1990,,Olympique Marseille,AS Saint-Étienne,3,1,H,NaN,NaN,NaN
-FRA,06/10/1990,,OGC Nice,AJ Auxerre,1,1,D,NaN,NaN,NaN
-FRA,06/10/1990,,AS Cannes,AS Monaco,1,2,A,NaN,NaN,NaN
-FRA,06/10/1990,,FC Metz,AS Nancy,4,0,H,NaN,NaN,NaN
-FRA,06/10/1990,,Olympique Lyon,Montpellier HSC,3,3,D,NaN,NaN,NaN
-FRA,06/10/1990,,SM Caen,Sporting Toulon Var,2,0,H,NaN,NaN,NaN
-FRA,06/10/1990,,Girondins Bordeaux,Paris Saint-Germain,3,0,H,NaN,NaN,NaN
-FRA,06/10/1990,,Toulouse FC,FC Sochaux,0,0,D,NaN,NaN,NaN
-FRA,19/10/1990,,AS Monaco,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,19/10/1990,,Brest Armorique FC,Girondins Bordeaux,4,0,H,NaN,NaN,NaN
-FRA,20/10/1990,,FC Sochaux,Olympique Marseille,2,1,H,NaN,NaN,NaN
-FRA,20/10/1990,,AJ Auxerre,Olympique Lyon,1,0,H,NaN,NaN,NaN
-FRA,20/10/1990,,Montpellier HSC,FC Metz,5,2,H,NaN,NaN,NaN
-FRA,20/10/1990,,Paris Saint-Germain,Lille OSC,2,0,H,NaN,NaN,NaN
-FRA,20/10/1990,,Stade Rennes,SM Caen,1,1,D,NaN,NaN,NaN
-FRA,20/10/1990,,AS Nancy,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,20/10/1990,,AS Saint-Étienne,AS Cannes,1,0,H,NaN,NaN,NaN
-FRA,20/10/1990,,Sporting Toulon Var,FC Nantes,3,1,H,NaN,NaN,NaN
-FRA,26/10/1990,,SM Caen,AJ Auxerre,0,1,A,NaN,NaN,NaN
-FRA,27/10/1990,,Girondins Bordeaux,AS Nancy,5,0,H,NaN,NaN,NaN
-FRA,27/10/1990,,FC Nantes,Stade Rennes,2,0,H,NaN,NaN,NaN
-FRA,27/10/1990,,Lille OSC,Montpellier HSC,1,0,H,NaN,NaN,NaN
-FRA,27/10/1990,,Olympique Lyon,OGC Nice,1,0,H,NaN,NaN,NaN
-FRA,27/10/1990,,Toulouse FC,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
-FRA,27/10/1990,,AS Cannes,FC Sochaux,1,1,D,NaN,NaN,NaN
-FRA,27/10/1990,,FC Metz,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,28/10/1990,,AS Monaco,Paris Saint-Germain,2,0,H,NaN,NaN,NaN
-FRA,28/10/1990,,Olympique Marseille,Brest Armorique FC,3,1,H,NaN,NaN,NaN
-FRA,02/11/1990,,Stade Rennes,Girondins Bordeaux,2,1,H,NaN,NaN,NaN
-FRA,02/11/1990,,Montpellier HSC,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,03/11/1990,,AJ Auxerre,Lille OSC,3,2,H,NaN,NaN,NaN
-FRA,03/11/1990,,AS Nancy,Olympique Marseille,2,0,H,NaN,NaN,NaN
-FRA,03/11/1990,,AS Saint-Étienne,AS Monaco,1,0,H,NaN,NaN,NaN
-FRA,03/11/1990,,OGC Nice,FC Metz,1,2,A,NaN,NaN,NaN
-FRA,03/11/1990,,Brest Armorique FC,Toulouse FC,0,0,D,NaN,NaN,NaN
-FRA,03/11/1990,,FC Sochaux,FC Nantes,1,1,D,NaN,NaN,NaN
-FRA,03/11/1990,,Paris Saint-Germain,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,03/11/1990,,Sporting Toulon Var,Olympique Lyon,1,0,H,NaN,NaN,NaN
-FRA,10/11/1990,,AS Monaco,FC Sochaux,1,0,H,NaN,NaN,NaN
-FRA,10/11/1990,,AS Cannes,Brest Armorique FC,0,0,D,NaN,NaN,NaN
-FRA,10/11/1990,,SM Caen,Olympique Lyon,1,0,H,NaN,NaN,NaN
-FRA,10/11/1990,,FC Nantes,Montpellier HSC,1,1,D,NaN,NaN,NaN
-FRA,10/11/1990,,Lille OSC,OGC Nice,0,0,D,NaN,NaN,NaN
-FRA,10/11/1990,,Toulouse FC,Paris Saint-Germain,2,1,H,NaN,NaN,NaN
-FRA,10/11/1990,,AS Saint-Étienne,AS Nancy,4,1,H,NaN,NaN,NaN
-FRA,10/11/1990,,FC Metz,AJ Auxerre,1,0,H,NaN,NaN,NaN
-FRA,10/11/1990,,Girondins Bordeaux,Sporting Toulon Var,0,1,A,NaN,NaN,NaN
-FRA,11/11/1990,,Olympique Marseille,Stade Rennes,4,1,H,NaN,NaN,NaN
-FRA,23/11/1990,,Brest Armorique FC,AS Monaco,1,2,A,NaN,NaN,NaN
-FRA,24/11/1990,,AJ Auxerre,FC Nantes,0,2,A,NaN,NaN,NaN
-FRA,24/11/1990,,FC Sochaux,FC Metz,1,1,D,NaN,NaN,NaN
-FRA,24/11/1990,,Montpellier HSC,Girondins Bordeaux,2,1,H,NaN,NaN,NaN
-FRA,24/11/1990,,OGC Nice,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,24/11/1990,,Paris Saint-Germain,AS Saint-Étienne,4,2,H,NaN,NaN,NaN
-FRA,24/11/1990,,Olympique Lyon,Lille OSC,2,1,H,NaN,NaN,NaN
-FRA,24/11/1990,,Stade Rennes,Toulouse FC,2,0,H,NaN,NaN,NaN
-FRA,24/11/1990,,AS Nancy,AS Cannes,2,0,H,NaN,NaN,NaN
-FRA,24/11/1990,,Sporting Toulon Var,Olympique Marseille,0,1,A,NaN,NaN,NaN
-FRA,02/12/1990,,Olympique Marseille,Montpellier HSC,2,0,H,NaN,NaN,NaN
-FRA,02/12/1990,,Girondins Bordeaux,AJ Auxerre,1,1,D,NaN,NaN,NaN
-FRA,02/12/1990,,AS Monaco,AS Nancy,2,2,D,NaN,NaN,NaN
-FRA,02/12/1990,,FC Metz,Olympique Lyon,1,2,A,NaN,NaN,NaN
-FRA,02/12/1990,,FC Nantes,OGC Nice,2,2,D,NaN,NaN,NaN
-FRA,02/12/1990,,Lille OSC,SM Caen,1,0,H,NaN,NaN,NaN
-FRA,02/12/1990,,AS Saint-Étienne,Brest Armorique FC,6,1,H,NaN,NaN,NaN
-FRA,02/12/1990,,Paris Saint-Germain,FC Sochaux,0,2,A,NaN,NaN,NaN
-FRA,02/12/1990,,AS Cannes,Stade Rennes,1,0,H,NaN,NaN,NaN
-FRA,02/12/1990,,Toulouse FC,Sporting Toulon Var,1,1,D,NaN,NaN,NaN
-FRA,07/12/1990,,Stade Rennes,AS Monaco,1,1,D,NaN,NaN,NaN
-FRA,07/12/1990,,OGC Nice,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,09/12/1990,,AJ Auxerre,Olympique Marseille,4,0,H,NaN,NaN,NaN
-FRA,09/12/1990,,Montpellier HSC,Toulouse FC,2,0,H,NaN,NaN,NaN
-FRA,09/12/1990,,SM Caen,FC Metz,4,1,H,NaN,NaN,NaN
-FRA,09/12/1990,,AS Nancy,Lille OSC,1,1,D,NaN,NaN,NaN
-FRA,09/12/1990,,FC Sochaux,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
-FRA,09/12/1990,,Sporting Toulon Var,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,23/01/1991,,Stade Brest,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
-FRA,30/01/1991,,Olympique Lyon,FC Nantes,2,0,H,NaN,NaN,NaN
-FRA,16/12/1990,,Olympique Marseille,FC Metz,3,0,H,NaN,NaN,NaN
-FRA,16/12/1990,,AS Monaco,AJ Auxerre,0,0,D,NaN,NaN,NaN
-FRA,16/12/1990,,Girondins Bordeaux,SM Caen,1,1,D,NaN,NaN,NaN
-FRA,16/12/1990,,FC Nantes,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,16/12/1990,,AS Cannes,Olympique Lyon,3,2,H,NaN,NaN,NaN
-FRA,16/12/1990,,Brest Armorique FC,AS Nancy,3,3,D,NaN,NaN,NaN
-FRA,16/12/1990,,Paris Saint-Germain,Stade Rennes,1,1,D,NaN,NaN,NaN
-FRA,16/12/1990,,Toulouse FC,OGC Nice,1,2,A,NaN,NaN,NaN
-FRA,23/01/1991,,FC Sochaux,Montpellier HSC,0,0,D,NaN,NaN,NaN
-FRA,23/01/1991,,AS Saint-Étienne,Sporting Toulon Var,3,0,H,NaN,NaN,NaN
-FRA,21/12/1990,,AJ Auxerre,AS Cannes,0,3,A,NaN,NaN,NaN
-FRA,22/12/1990,,Sporting Toulon Var,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
-FRA,23/12/1990,,SM Caen,Olympique Marseille,0,0,D,NaN,NaN,NaN
-FRA,23/12/1990,,Montpellier HSC,AS Monaco,2,1,H,NaN,NaN,NaN
-FRA,23/12/1990,,Olympique Lyon,Toulouse FC,4,1,H,NaN,NaN,NaN
-FRA,23/12/1990,,Lille OSC,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,23/12/1990,,Stade Rennes,Brest Armorique FC,3,0,H,NaN,NaN,NaN
-FRA,23/12/1990,,OGC Nice,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
-FRA,23/01/1991,,FC Metz,FC Nantes,2,0,H,NaN,NaN,NaN
-FRA,30/01/1991,,AS Nancy,FC Sochaux,2,0,H,NaN,NaN,NaN
-FRA,13/01/1991,,Olympique Marseille,Olympique Lyon,7,0,H,NaN,NaN,NaN
-FRA,13/01/1991,,AS Monaco,FC Nantes,2,1,H,NaN,NaN,NaN
-FRA,13/01/1991,,AS Saint-Étienne,AJ Auxerre,2,1,H,NaN,NaN,NaN
-FRA,13/01/1991,,Paris Saint-Germain,Montpellier HSC,2,0,H,NaN,NaN,NaN
-FRA,13/01/1991,,FC Sochaux,SM Caen,1,0,H,NaN,NaN,NaN
-FRA,13/01/1991,,AS Cannes,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,13/01/1991,,Toulouse FC,Lille OSC,2,2,D,NaN,NaN,NaN
-FRA,13/01/1991,,Girondins Bordeaux,FC Metz,1,1,D,NaN,NaN,NaN
-FRA,13/01/1991,,AS Nancy,Stade Rennes,0,0,D,NaN,NaN,NaN
-FRA,13/01/1991,,Stade Brest,Sporting Toulon Var,2,2,D,NaN,NaN,NaN
-FRA,18/01/1991,,Olympique Lyon,AS Monaco,1,0,H,NaN,NaN,NaN
-FRA,19/01/1991,,FC Nantes,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,20/01/1991,,Lille OSC,Olympique Marseille,1,0,H,NaN,NaN,NaN
-FRA,20/01/1991,,AJ Auxerre,Paris Saint-Germain,0,1,A,NaN,NaN,NaN
-FRA,20/01/1991,,Montpellier HSC,AS Saint-Étienne,0,0,D,NaN,NaN,NaN
-FRA,20/01/1991,,SM Caen,AS Cannes,0,1,A,NaN,NaN,NaN
-FRA,20/01/1991,,FC Metz,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,20/01/1991,,Stade Rennes,FC Sochaux,1,1,D,NaN,NaN,NaN
-FRA,20/01/1991,,OGC Nice,Stade Brest,2,0,H,NaN,NaN,NaN
-FRA,20/01/1991,,Sporting Toulon Var,AS Nancy,2,0,H,NaN,NaN,NaN
-FRA,26/01/1991,,Toulouse FC,SM Caen,3,2,H,NaN,NaN,NaN
-FRA,27/01/1991,,Olympique Marseille,FC Nantes,6,0,H,NaN,NaN,NaN
-FRA,27/01/1991,,AS Monaco,Girondins Bordeaux,2,0,H,NaN,NaN,NaN
-FRA,27/01/1991,,Stade Brest,AJ Auxerre,1,3,A,NaN,NaN,NaN
-FRA,27/01/1991,,AS Nancy,Montpellier HSC,1,1,D,NaN,NaN,NaN
-FRA,27/01/1991,,AS Cannes,Lille OSC,2,1,H,NaN,NaN,NaN
-FRA,27/01/1991,,AS Saint-Étienne,FC Metz,2,1,H,NaN,NaN,NaN
-FRA,27/01/1991,,FC Sochaux,Olympique Lyon,1,2,A,NaN,NaN,NaN
-FRA,27/01/1991,,Paris Saint-Germain,OGC Nice,0,2,A,NaN,NaN,NaN
-FRA,27/01/1991,,Stade Rennes,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,01/02/1991,,Girondins Bordeaux,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,02/02/1991,,SM Caen,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
-FRA,03/02/1991,,Lille OSC,AS Monaco,0,0,D,NaN,NaN,NaN
-FRA,03/02/1991,,AJ Auxerre,AS Nancy,1,1,D,NaN,NaN,NaN
-FRA,03/02/1991,,Montpellier HSC,Stade Brest,1,0,H,NaN,NaN,NaN
-FRA,03/02/1991,,Olympique Lyon,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
-FRA,03/02/1991,,FC Metz,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,03/02/1991,,OGC Nice,Stade Rennes,2,2,D,NaN,NaN,NaN
-FRA,03/02/1991,,FC Nantes,Toulouse FC,0,0,D,NaN,NaN,NaN
-FRA,03/02/1991,,Sporting Toulon Var,FC Sochaux,1,0,H,NaN,NaN,NaN
-FRA,08/02/1991,,Sporting Toulon Var,Montpellier HSC,1,1,D,NaN,NaN,NaN
-FRA,09/02/1991,,AS Monaco,FC Metz,2,0,H,NaN,NaN,NaN
-FRA,10/02/1991,,Paris Saint-Germain,Olympique Marseille,0,1,A,NaN,NaN,NaN
-FRA,10/02/1991,,Stade Rennes,AJ Auxerre,2,2,D,NaN,NaN,NaN
-FRA,10/02/1991,,AS Cannes,FC Nantes,2,1,H,NaN,NaN,NaN
-FRA,10/02/1991,,AS Saint-Étienne,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,10/02/1991,,Toulouse FC,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,27/02/1991,,Stade Brest,Olympique Lyon,3,0,H,NaN,NaN,NaN
-FRA,05/03/1991,,FC Sochaux,OGC Nice,0,0,D,NaN,NaN,NaN
-FRA,05/03/1991,,AS Nancy,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,13/02/1991,,Olympique Marseille,Toulouse FC,1,0,H,NaN,NaN,NaN
-FRA,13/02/1991,,AS Monaco,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,13/02/1991,,Montpellier HSC,Stade Rennes,1,0,H,NaN,NaN,NaN
-FRA,13/02/1991,,Girondins Bordeaux,AS Cannes,1,1,D,NaN,NaN,NaN
-FRA,13/02/1991,,SM Caen,Paris Saint-Germain,2,0,H,NaN,NaN,NaN
-FRA,27/02/1991,,FC Nantes,AS Nancy,1,0,H,NaN,NaN,NaN
-FRA,27/02/1991,,Lille OSC,Sporting Toulon Var,4,1,H,NaN,NaN,NaN
-FRA,12/03/1991,,AJ Auxerre,FC Sochaux,4,1,H,NaN,NaN,NaN
-FRA,12/03/1991,,FC Metz,Stade Brest,0,0,D,NaN,NaN,NaN
-FRA,26/03/1991,,Olympique Lyon,AS Saint-Étienne,1,1,D,NaN,NaN,NaN
-FRA,23/02/1991,,Montpellier HSC,AJ Auxerre,1,2,A,NaN,NaN,NaN
-FRA,24/02/1991,,AS Cannes,Olympique Marseille,0,0,D,NaN,NaN,NaN
-FRA,24/02/1991,,AS Monaco,SM Caen,2,0,H,NaN,NaN,NaN
-FRA,24/02/1991,,Stade Rennes,Olympique Lyon,2,0,H,NaN,NaN,NaN
-FRA,24/02/1991,,Paris Saint-Germain,FC Metz,2,1,H,NaN,NaN,NaN
-FRA,24/02/1991,,Stade Brest,Lille OSC,1,0,H,NaN,NaN,NaN
-FRA,24/02/1991,,AS Saint-Étienne,FC Nantes,1,3,A,NaN,NaN,NaN
-FRA,24/02/1991,,FC Sochaux,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,24/02/1991,,AS Nancy,Toulouse FC,1,1,D,NaN,NaN,NaN
-FRA,24/02/1991,,Sporting Toulon Var,OGC Nice,1,2,A,NaN,NaN,NaN
-FRA,01/03/1991,,Olympique Marseille,AS Monaco,1,0,H,NaN,NaN,NaN
-FRA,01/03/1991,,OGC Nice,Montpellier HSC,2,0,H,NaN,NaN,NaN
-FRA,02/03/1991,,Toulouse FC,AS Cannes,2,2,D,NaN,NaN,NaN
-FRA,02/03/1991,,FC Nantes,Paris Saint-Germain,2,0,H,NaN,NaN,NaN
-FRA,02/03/1991,,Lille OSC,FC Sochaux,0,1,A,NaN,NaN,NaN
-FRA,02/03/1991,,FC Metz,Stade Rennes,2,0,H,NaN,NaN,NaN
-FRA,02/03/1991,,Olympique Lyon,AS Nancy,0,1,A,NaN,NaN,NaN
-FRA,02/03/1991,,SM Caen,Stade Brest,1,2,A,NaN,NaN,NaN
-FRA,02/03/1991,,Girondins Bordeaux,AS Saint-Étienne,2,1,H,NaN,NaN,NaN
-FRA,02/03/1991,,AJ Auxerre,Sporting Toulon Var,3,0,H,NaN,NaN,NaN
-FRA,14/03/1991,,Montpellier HSC,Olympique Lyon,1,0,H,NaN,NaN,NaN
-FRA,15/03/1991,,AS Saint-Étienne,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,15/03/1991,,AS Nancy,FC Metz,0,1,A,NaN,NaN,NaN
-FRA,15/03/1991,,AJ Auxerre,OGC Nice,5,1,H,NaN,NaN,NaN
-FRA,15/03/1991,,AS Monaco,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,16/03/1991,,Stade Rennes,Lille OSC,1,3,A,NaN,NaN,NaN
-FRA,16/03/1991,,Stade Brest,FC Nantes,1,0,H,NaN,NaN,NaN
-FRA,16/03/1991,,Paris Saint-Germain,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,16/03/1991,,FC Sochaux,Toulouse FC,0,1,A,NaN,NaN,NaN
-FRA,16/03/1991,,Sporting Toulon Var,SM Caen,0,0,D,NaN,NaN,NaN
-FRA,22/03/1991,,OGC Nice,AS Nancy,3,0,H,NaN,NaN,NaN
-FRA,23/03/1991,,Olympique Marseille,FC Sochaux,0,0,D,NaN,NaN,NaN
-FRA,23/03/1991,,Toulouse FC,AS Monaco,1,2,A,NaN,NaN,NaN
-FRA,23/03/1991,,Olympique Lyon,AJ Auxerre,1,0,H,NaN,NaN,NaN
-FRA,23/03/1991,,FC Metz,Montpellier HSC,0,0,D,NaN,NaN,NaN
-FRA,23/03/1991,,AS Cannes,AS Saint-Étienne,0,1,A,NaN,NaN,NaN
-FRA,23/03/1991,,Girondins Bordeaux,Stade Brest,1,4,A,NaN,NaN,NaN
-FRA,23/03/1991,,Lille OSC,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
-FRA,23/03/1991,,SM Caen,Stade Rennes,2,0,H,NaN,NaN,NaN
-FRA,23/03/1991,,FC Nantes,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,06/04/1991,,Paris Saint-Germain,AS Monaco,0,2,A,NaN,NaN,NaN
-FRA,06/04/1991,,AJ Auxerre,SM Caen,3,0,H,NaN,NaN,NaN
-FRA,06/04/1991,,Montpellier HSC,Lille OSC,1,2,A,NaN,NaN,NaN
-FRA,06/04/1991,,FC Sochaux,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,06/04/1991,,OGC Nice,Olympique Lyon,1,1,D,NaN,NaN,NaN
-FRA,06/04/1991,,Stade Rennes,FC Nantes,2,0,H,NaN,NaN,NaN
-FRA,06/04/1991,,AS Nancy,Girondins Bordeaux,0,2,A,NaN,NaN,NaN
-FRA,06/04/1991,,AS Saint-Étienne,Toulouse FC,1,4,A,NaN,NaN,NaN
-FRA,06/04/1991,,Sporting Toulon Var,FC Metz,2,1,H,NaN,NaN,NaN
-FRA,01/05/1991,,Stade Brest,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,12/04/1991,,Lille OSC,AJ Auxerre,1,0,H,NaN,NaN,NaN
-FRA,13/04/1991,,Olympique Marseille,AS Nancy,6,2,H,NaN,NaN,NaN
-FRA,13/04/1991,,AS Monaco,AS Saint-Étienne,2,0,H,NaN,NaN,NaN
-FRA,13/04/1991,,AS Cannes,Paris Saint-Germain,2,0,H,NaN,NaN,NaN
-FRA,13/04/1991,,SM Caen,Montpellier HSC,1,0,H,NaN,NaN,NaN
-FRA,13/04/1991,,FC Metz,OGC Nice,1,0,H,NaN,NaN,NaN
-FRA,13/04/1991,,Toulouse FC,Stade Brest,0,0,D,NaN,NaN,NaN
-FRA,13/04/1991,,Olympique Lyon,Sporting Toulon Var,1,1,D,NaN,NaN,NaN
-FRA,13/04/1991,,FC Nantes,FC Sochaux,0,0,D,NaN,NaN,NaN
-FRA,13/04/1991,,Girondins Bordeaux,Stade Rennes,1,0,H,NaN,NaN,NaN
-FRA,19/04/1991,,Stade Rennes,Olympique Marseille,1,1,D,NaN,NaN,NaN
-FRA,19/04/1991,,FC Sochaux,AS Monaco,0,2,A,NaN,NaN,NaN
-FRA,20/04/1991,,AJ Auxerre,FC Metz,3,1,H,NaN,NaN,NaN
-FRA,20/04/1991,,Stade Brest,AS Cannes,3,2,H,NaN,NaN,NaN
-FRA,20/04/1991,,Montpellier HSC,FC Nantes,1,1,D,NaN,NaN,NaN
-FRA,20/04/1991,,OGC Nice,Lille OSC,4,1,H,NaN,NaN,NaN
-FRA,20/04/1991,,Olympique Lyon,SM Caen,3,2,H,NaN,NaN,NaN
-FRA,20/04/1991,,Sporting Toulon Var,Girondins Bordeaux,0,2,A,NaN,NaN,NaN
-FRA,20/04/1991,,Paris Saint-Germain,Toulouse FC,3,0,H,NaN,NaN,NaN
-FRA,20/04/1991,,AS Nancy,AS Saint-Étienne,1,0,H,NaN,NaN,NaN
-FRA,03/05/1991,,AS Cannes,AS Nancy,1,0,H,NaN,NaN,NaN
-FRA,04/05/1991,,Olympique Marseille,Sporting Toulon Var,3,3,D,NaN,NaN,NaN
-FRA,04/05/1991,,AS Monaco,Stade Brest,5,0,H,NaN,NaN,NaN
-FRA,04/05/1991,,FC Nantes,AJ Auxerre,2,3,A,NaN,NaN,NaN
-FRA,04/05/1991,,Lille OSC,Olympique Lyon,1,1,D,NaN,NaN,NaN
-FRA,04/05/1991,,Girondins Bordeaux,Montpellier HSC,1,0,H,NaN,NaN,NaN
-FRA,04/05/1991,,FC Metz,FC Sochaux,2,2,D,NaN,NaN,NaN
-FRA,04/05/1991,,SM Caen,OGC Nice,2,1,H,NaN,NaN,NaN
-FRA,04/05/1991,,AS Saint-Étienne,Paris Saint-Germain,1,1,D,NaN,NaN,NaN
-FRA,04/05/1991,,Toulouse FC,Stade Rennes,2,0,H,NaN,NaN,NaN
-FRA,10/05/1991,,Montpellier HSC,Olympique Marseille,0,0,D,NaN,NaN,NaN
-FRA,10/05/1991,,AS Nancy,AS Monaco,4,0,H,NaN,NaN,NaN
-FRA,10/05/1991,,AJ Auxerre,Girondins Bordeaux,0,0,D,NaN,NaN,NaN
-FRA,10/05/1991,,Stade Rennes,AS Cannes,1,1,D,NaN,NaN,NaN
-FRA,10/05/1991,,Olympique Lyon,FC Metz,3,1,H,NaN,NaN,NaN
-FRA,10/05/1991,,SM Caen,Lille OSC,0,0,D,NaN,NaN,NaN
-FRA,10/05/1991,,Stade Brest,AS Saint-Étienne,0,1,A,NaN,NaN,NaN
-FRA,10/05/1991,,OGC Nice,FC Nantes,1,1,D,NaN,NaN,NaN
-FRA,10/05/1991,,FC Sochaux,Paris Saint-Germain,0,0,D,NaN,NaN,NaN
-FRA,10/05/1991,,Sporting Toulon Var,Toulouse FC,1,0,H,NaN,NaN,NaN
-FRA,17/05/1991,,Olympique Marseille,AJ Auxerre,1,0,H,NaN,NaN,NaN
-FRA,17/05/1991,,AS Monaco,Stade Rennes,2,1,H,NaN,NaN,NaN
-FRA,17/05/1991,,AS Cannes,Sporting Toulon Var,0,0,D,NaN,NaN,NaN
-FRA,17/05/1991,,FC Nantes,Olympique Lyon,0,0,D,NaN,NaN,NaN
-FRA,17/05/1991,,Toulouse FC,Montpellier HSC,0,0,D,NaN,NaN,NaN
-FRA,17/05/1991,,Girondins Bordeaux,OGC Nice,3,0,H,NaN,NaN,NaN
-FRA,17/05/1991,,Lille OSC,AS Nancy,0,2,A,NaN,NaN,NaN
-FRA,17/05/1991,,FC Metz,SM Caen,1,1,D,NaN,NaN,NaN
-FRA,17/05/1991,,Paris Saint-Germain,Stade Brest,1,1,D,NaN,NaN,NaN
-FRA,17/05/1991,,AS Saint-Étienne,FC Sochaux,2,1,H,NaN,NaN,NaN
-FRA,22/05/1991,,OGC Nice,Olympique Marseille,0,1,A,NaN,NaN,NaN
-FRA,24/05/1991,,Sporting Toulon Var,AS Monaco,1,1,D,NaN,NaN,NaN
-FRA,24/05/1991,,AJ Auxerre,Toulouse FC,2,1,H,NaN,NaN,NaN
-FRA,24/05/1991,,Montpellier HSC,AS Cannes,0,0,D,NaN,NaN,NaN
-FRA,24/05/1991,,Olympique Lyon,Girondins Bordeaux,1,0,H,NaN,NaN,NaN
-FRA,24/05/1991,,Lille OSC,FC Metz,4,1,H,NaN,NaN,NaN
-FRA,24/05/1991,,SM Caen,FC Nantes,1,0,H,NaN,NaN,NaN
-FRA,24/05/1991,,Stade Brest,FC Sochaux,0,0,D,NaN,NaN,NaN
-FRA,24/05/1991,,AS Nancy,Paris Saint-Germain,0,2,A,NaN,NaN,NaN
-FRA,24/05/1991,,Stade Rennes,AS Saint-Étienne,0,2,A,NaN,NaN,NaN
+FRA,1990-07-21,,AS Cannes,Montpellier HSC,2,1,H,,,
+FRA,1990-07-21,,Paris Saint-Germain,AS Nancy,2,1,H,,,
+FRA,1990-07-21,,Olympique Marseille,OGC Nice,1,0,H,,,
+FRA,1990-07-21,,FC Metz,Lille OSC,2,2,D,,,
+FRA,1990-07-21,,FC Sochaux,Brest Armorique FC,1,1,D,,,
+FRA,1990-07-21,,Toulouse FC,AJ Auxerre,0,0,D,,,
+FRA,1990-07-21,,Girondins Bordeaux,Olympique Lyon,0,0,D,,,
+FRA,1990-07-21,,FC Nantes,SM Caen,0,0,D,,,
+FRA,1990-07-21,,AS Saint-Étienne,Stade Rennes,0,0,D,,,
+FRA,1990-07-21,,AS Monaco,Sporting Toulon Var,2,1,H,,,
+FRA,1990-07-27,,FC Metz,Olympique Marseille,0,2,A,,,
+FRA,1990-07-28,,AJ Auxerre,AS Monaco,0,1,A,,,
+FRA,1990-07-28,,SM Caen,Girondins Bordeaux,2,0,H,,,
+FRA,1990-07-28,,Stade Rennes,Paris Saint-Germain,2,1,H,,,
+FRA,1990-07-28,,Olympique Lyon,AS Cannes,1,0,H,,,
+FRA,1990-07-28,,Montpellier HSC,FC Sochaux,2,0,H,,,
+FRA,1990-07-28,,Lille OSC,FC Nantes,1,1,D,,,
+FRA,1990-07-28,,AS Nancy,Brest Armorique FC,0,0,D,,,
+FRA,1990-07-28,,OGC Nice,Toulouse FC,1,1,D,,,
+FRA,1990-07-28,,Sporting Toulon Var,AS Saint-Étienne,3,0,H,,,
+FRA,1990-08-04,,AS Monaco,Montpellier HSC,3,1,H,,,
+FRA,1990-08-04,,Olympique Marseille,SM Caen,2,1,H,,,
+FRA,1990-08-04,,Toulouse FC,Olympique Lyon,3,1,H,,,
+FRA,1990-08-04,,Brest Armorique FC,Stade Rennes,0,0,D,,,
+FRA,1990-08-04,,AS Cannes,AJ Auxerre,0,3,A,,,
+FRA,1990-08-04,,Girondins Bordeaux,Lille OSC,1,1,D,,,
+FRA,1990-08-04,,FC Nantes,FC Metz,1,1,D,,,
+FRA,1990-08-04,,FC Sochaux,AS Nancy,1,0,H,,,
+FRA,1990-08-04,,AS Saint-Étienne,OGC Nice,1,0,H,,,
+FRA,1990-08-04,,Paris Saint-Germain,Sporting Toulon Var,4,0,H,,,
+FRA,1990-08-10,,Montpellier HSC,Paris Saint-Germain,4,0,H,,,
+FRA,1990-08-10,,OGC Nice,AS Cannes,0,0,D,,,
+FRA,1990-08-11,,Olympique Lyon,Olympique Marseille,2,2,D,,,
+FRA,1990-08-11,,FC Nantes,AS Monaco,3,1,H,,,
+FRA,1990-08-11,,Stade Rennes,AS Nancy,1,0,H,,,
+FRA,1990-08-11,,AJ Auxerre,AS Saint-Étienne,2,0,H,,,
+FRA,1990-08-11,,Lille OSC,Toulouse FC,3,0,H,,,
+FRA,1990-08-11,,SM Caen,FC Sochaux,2,0,H,,,
+FRA,1990-08-11,,FC Metz,Girondins Bordeaux,1,0,H,,,
+FRA,1990-08-11,,Sporting Toulon Var,Brest Armorique FC,1,2,A,,,
+FRA,1990-08-18,,Olympique Marseille,Lille OSC,2,0,H,,,
+FRA,1990-08-18,,Brest Armorique FC,OGC Nice,4,0,H,,,
+FRA,1990-08-18,,AS Monaco,Olympique Lyon,0,0,D,,,
+FRA,1990-08-18,,Paris Saint-Germain,AJ Auxerre,1,1,D,,,
+FRA,1990-08-18,,AS Cannes,SM Caen,1,1,D,,,
+FRA,1990-08-18,,Toulouse FC,FC Metz,2,1,H,,,
+FRA,1990-08-18,,FC Sochaux,Stade Rennes,4,0,H,,,
+FRA,1990-08-18,,Girondins Bordeaux,FC Nantes,2,0,H,,,
+FRA,1990-08-18,,AS Saint-Étienne,Montpellier HSC,1,0,H,,,
+FRA,1990-08-18,,AS Nancy,Sporting Toulon Var,2,1,H,,,
+FRA,1990-08-24,,Girondins Bordeaux,AS Monaco,0,0,D,,,
+FRA,1990-08-25,,FC Nantes,Olympique Marseille,1,1,D,,,
+FRA,1990-08-25,,AJ Auxerre,Brest Armorique FC,2,2,D,,,
+FRA,1990-08-25,,SM Caen,Toulouse FC,2,0,H,,,
+FRA,1990-08-25,,Olympique Lyon,FC Sochaux,1,0,H,,,
+FRA,1990-08-25,,Montpellier HSC,AS Nancy,5,0,H,,,
+FRA,1990-08-25,,OGC Nice,Paris Saint-Germain,1,1,D,,,
+FRA,1990-08-25,,FC Metz,AS Saint-Étienne,3,1,H,,,
+FRA,1990-08-25,,Lille OSC,AS Cannes,0,2,A,,,
+FRA,1990-08-25,,Sporting Toulon Var,Stade Rennes,1,0,H,,,
+FRA,1990-08-29,,Olympique Marseille,Girondins Bordeaux,2,0,H,,,
+FRA,1990-08-29,,Brest Armorique FC,Montpellier HSC,1,1,D,,,
+FRA,1990-08-29,,AS Saint-Étienne,SM Caen,0,0,D,,,
+FRA,1990-08-29,,AS Monaco,Lille OSC,1,1,D,,,
+FRA,1990-08-29,,AS Nancy,AJ Auxerre,1,1,D,,,
+FRA,1990-08-29,,Paris Saint-Germain,Olympique Lyon,3,0,H,,,
+FRA,1990-08-29,,AS Cannes,FC Metz,0,1,A,,,
+FRA,1990-08-29,,Toulouse FC,FC Nantes,2,0,H,,,
+FRA,1990-08-29,,Stade Rennes,OGC Nice,0,3,A,,,
+FRA,1990-08-29,,FC Sochaux,Sporting Toulon Var,0,0,D,,,
+FRA,1990-09-08,,Olympique Marseille,Paris Saint-Germain,2,1,H,,,
+FRA,1990-09-08,,SM Caen,AS Nancy,4,1,H,,,
+FRA,1990-09-08,,AJ Auxerre,Stade Rennes,4,0,H,,,
+FRA,1990-09-08,,FC Metz,AS Monaco,1,1,D,,,
+FRA,1990-09-08,,Olympique Lyon,Brest Armorique FC,2,0,H,,,
+FRA,1990-09-08,,Lille OSC,AS Saint-Étienne,3,2,H,,,
+FRA,1990-09-08,,Girondins Bordeaux,Toulouse FC,2,1,H,,,
+FRA,1990-09-08,,FC Nantes,AS Cannes,1,0,H,,,
+FRA,1990-09-08,,OGC Nice,FC Sochaux,3,0,H,,,
+FRA,1990-09-08,,Montpellier HSC,Sporting Toulon Var,0,0,D,,,
+FRA,1990-09-14,,OGC Nice,AS Monaco,0,0,D,,,
+FRA,1990-09-15,,Toulouse FC,Olympique Marseille,0,2,A,,,
+FRA,1990-09-15,,FC Sochaux,AJ Auxerre,0,1,A,,,
+FRA,1990-09-15,,Paris Saint-Germain,SM Caen,3,2,H,,,
+FRA,1990-09-15,,Brest Armorique FC,FC Metz,1,0,H,,,
+FRA,1990-09-15,,AS Saint-Étienne,Olympique Lyon,0,1,A,,,
+FRA,1990-09-15,,Stade Rennes,Montpellier HSC,1,2,A,,,
+FRA,1990-09-15,,AS Nancy,FC Nantes,3,2,H,,,
+FRA,1990-09-15,,AS Cannes,Girondins Bordeaux,1,1,D,,,
+FRA,1990-09-15,,Sporting Toulon Var,Lille OSC,0,0,D,,,
+FRA,1990-09-22,,Olympique Marseille,AS Cannes,0,1,A,,,
+FRA,1990-09-22,,SM Caen,AS Monaco,0,2,A,,,
+FRA,1990-09-22,,Olympique Lyon,Stade Rennes,0,0,D,,,
+FRA,1990-09-22,,FC Metz,Paris Saint-Germain,2,2,D,,,
+FRA,1990-09-22,,Lille OSC,Brest Armorique FC,1,0,H,,,
+FRA,1990-09-22,,FC Nantes,AS Saint-Étienne,2,1,H,,,
+FRA,1990-09-22,,Girondins Bordeaux,FC Sochaux,1,0,H,,,
+FRA,1990-09-22,,Toulouse FC,AS Nancy,0,0,D,,,
+FRA,1990-09-22,,OGC Nice,Sporting Toulon Var,0,0,D,,,
+FRA,1990-09-23,,AJ Auxerre,Montpellier HSC,3,2,H,,,
+FRA,1990-09-28,,AS Monaco,Olympique Marseille,1,3,A,,,
+FRA,1990-09-29,,Brest Armorique FC,SM Caen,5,0,H,,,
+FRA,1990-09-29,,Montpellier HSC,OGC Nice,3,0,H,,,
+FRA,1990-09-29,,Paris Saint-Germain,FC Nantes,1,1,D,,,
+FRA,1990-09-29,,Stade Rennes,FC Metz,0,2,A,,,
+FRA,1990-09-29,,FC Sochaux,Lille OSC,0,0,D,,,
+FRA,1990-09-29,,AS Nancy,Olympique Lyon,2,0,H,,,
+FRA,1990-09-29,,AS Saint-Étienne,Girondins Bordeaux,0,0,D,,,
+FRA,1990-09-29,,AS Cannes,Toulouse FC,0,0,D,,,
+FRA,1990-09-29,,Sporting Toulon Var,AJ Auxerre,2,3,A,,,
+FRA,1990-10-05,,FC Nantes,Brest Armorique FC,1,0,H,,,
+FRA,1990-10-05,,Lille OSC,Stade Rennes,1,1,D,,,
+FRA,1990-10-06,,Olympique Marseille,AS Saint-Étienne,3,1,H,,,
+FRA,1990-10-06,,OGC Nice,AJ Auxerre,1,1,D,,,
+FRA,1990-10-06,,AS Cannes,AS Monaco,1,2,A,,,
+FRA,1990-10-06,,FC Metz,AS Nancy,4,0,H,,,
+FRA,1990-10-06,,Olympique Lyon,Montpellier HSC,3,3,D,,,
+FRA,1990-10-06,,SM Caen,Sporting Toulon Var,2,0,H,,,
+FRA,1990-10-06,,Girondins Bordeaux,Paris Saint-Germain,3,0,H,,,
+FRA,1990-10-06,,Toulouse FC,FC Sochaux,0,0,D,,,
+FRA,1990-10-19,,AS Monaco,Toulouse FC,2,1,H,,,
+FRA,1990-10-19,,Brest Armorique FC,Girondins Bordeaux,4,0,H,,,
+FRA,1990-10-20,,FC Sochaux,Olympique Marseille,2,1,H,,,
+FRA,1990-10-20,,AJ Auxerre,Olympique Lyon,1,0,H,,,
+FRA,1990-10-20,,Montpellier HSC,FC Metz,5,2,H,,,
+FRA,1990-10-20,,Paris Saint-Germain,Lille OSC,2,0,H,,,
+FRA,1990-10-20,,Stade Rennes,SM Caen,1,1,D,,,
+FRA,1990-10-20,,AS Nancy,OGC Nice,2,1,H,,,
+FRA,1990-10-20,,AS Saint-Étienne,AS Cannes,1,0,H,,,
+FRA,1990-10-20,,Sporting Toulon Var,FC Nantes,3,1,H,,,
+FRA,1990-10-26,,SM Caen,AJ Auxerre,0,1,A,,,
+FRA,1990-10-27,,Girondins Bordeaux,AS Nancy,5,0,H,,,
+FRA,1990-10-27,,FC Nantes,Stade Rennes,2,0,H,,,
+FRA,1990-10-27,,Lille OSC,Montpellier HSC,1,0,H,,,
+FRA,1990-10-27,,Olympique Lyon,OGC Nice,1,0,H,,,
+FRA,1990-10-27,,Toulouse FC,AS Saint-Étienne,0,0,D,,,
+FRA,1990-10-27,,AS Cannes,FC Sochaux,1,1,D,,,
+FRA,1990-10-27,,FC Metz,Sporting Toulon Var,0,0,D,,,
+FRA,1990-10-28,,AS Monaco,Paris Saint-Germain,2,0,H,,,
+FRA,1990-10-28,,Olympique Marseille,Brest Armorique FC,3,1,H,,,
+FRA,1990-11-02,,Stade Rennes,Girondins Bordeaux,2,1,H,,,
+FRA,1990-11-02,,Montpellier HSC,SM Caen,0,0,D,,,
+FRA,1990-11-03,,AJ Auxerre,Lille OSC,3,2,H,,,
+FRA,1990-11-03,,AS Nancy,Olympique Marseille,2,0,H,,,
+FRA,1990-11-03,,AS Saint-Étienne,AS Monaco,1,0,H,,,
+FRA,1990-11-03,,OGC Nice,FC Metz,1,2,A,,,
+FRA,1990-11-03,,Brest Armorique FC,Toulouse FC,0,0,D,,,
+FRA,1990-11-03,,FC Sochaux,FC Nantes,1,1,D,,,
+FRA,1990-11-03,,Paris Saint-Germain,AS Cannes,0,0,D,,,
+FRA,1990-11-03,,Sporting Toulon Var,Olympique Lyon,1,0,H,,,
+FRA,1990-11-10,,AS Monaco,FC Sochaux,1,0,H,,,
+FRA,1990-11-10,,AS Cannes,Brest Armorique FC,0,0,D,,,
+FRA,1990-11-10,,SM Caen,Olympique Lyon,1,0,H,,,
+FRA,1990-11-10,,FC Nantes,Montpellier HSC,1,1,D,,,
+FRA,1990-11-10,,Lille OSC,OGC Nice,0,0,D,,,
+FRA,1990-11-10,,Toulouse FC,Paris Saint-Germain,2,1,H,,,
+FRA,1990-11-10,,AS Saint-Étienne,AS Nancy,4,1,H,,,
+FRA,1990-11-10,,FC Metz,AJ Auxerre,1,0,H,,,
+FRA,1990-11-10,,Girondins Bordeaux,Sporting Toulon Var,0,1,A,,,
+FRA,1990-11-11,,Olympique Marseille,Stade Rennes,4,1,H,,,
+FRA,1990-11-23,,Brest Armorique FC,AS Monaco,1,2,A,,,
+FRA,1990-11-24,,AJ Auxerre,FC Nantes,0,2,A,,,
+FRA,1990-11-24,,FC Sochaux,FC Metz,1,1,D,,,
+FRA,1990-11-24,,Montpellier HSC,Girondins Bordeaux,2,1,H,,,
+FRA,1990-11-24,,OGC Nice,SM Caen,0,0,D,,,
+FRA,1990-11-24,,Paris Saint-Germain,AS Saint-Étienne,4,2,H,,,
+FRA,1990-11-24,,Olympique Lyon,Lille OSC,2,1,H,,,
+FRA,1990-11-24,,Stade Rennes,Toulouse FC,2,0,H,,,
+FRA,1990-11-24,,AS Nancy,AS Cannes,2,0,H,,,
+FRA,1990-11-24,,Sporting Toulon Var,Olympique Marseille,0,1,A,,,
+FRA,1990-12-02,,Olympique Marseille,Montpellier HSC,2,0,H,,,
+FRA,1990-12-02,,Girondins Bordeaux,AJ Auxerre,1,1,D,,,
+FRA,1990-12-02,,AS Monaco,AS Nancy,2,2,D,,,
+FRA,1990-12-02,,FC Metz,Olympique Lyon,1,2,A,,,
+FRA,1990-12-02,,FC Nantes,OGC Nice,2,2,D,,,
+FRA,1990-12-02,,Lille OSC,SM Caen,1,0,H,,,
+FRA,1990-12-02,,AS Saint-Étienne,Brest Armorique FC,6,1,H,,,
+FRA,1990-12-02,,Paris Saint-Germain,FC Sochaux,0,2,A,,,
+FRA,1990-12-02,,AS Cannes,Stade Rennes,1,0,H,,,
+FRA,1990-12-02,,Toulouse FC,Sporting Toulon Var,1,1,D,,,
+FRA,1990-12-07,,Stade Rennes,AS Monaco,1,1,D,,,
+FRA,1990-12-07,,OGC Nice,Girondins Bordeaux,0,0,D,,,
+FRA,1990-12-09,,AJ Auxerre,Olympique Marseille,4,0,H,,,
+FRA,1990-12-09,,Montpellier HSC,Toulouse FC,2,0,H,,,
+FRA,1990-12-09,,SM Caen,FC Metz,4,1,H,,,
+FRA,1990-12-09,,AS Nancy,Lille OSC,1,1,D,,,
+FRA,1990-12-09,,FC Sochaux,AS Saint-Étienne,2,0,H,,,
+FRA,1990-12-09,,Sporting Toulon Var,AS Cannes,0,0,D,,,
+FRA,1990-12-16,,Olympique Marseille,FC Metz,3,0,H,,,
+FRA,1990-12-16,,AS Monaco,AJ Auxerre,0,0,D,,,
+FRA,1990-12-16,,Girondins Bordeaux,SM Caen,1,1,D,,,
+FRA,1990-12-16,,FC Nantes,Lille OSC,0,0,D,,,
+FRA,1990-12-16,,AS Cannes,Olympique Lyon,3,2,H,,,
+FRA,1990-12-16,,Brest Armorique FC,AS Nancy,3,3,D,,,
+FRA,1990-12-16,,Paris Saint-Germain,Stade Rennes,1,1,D,,,
+FRA,1990-12-16,,Toulouse FC,OGC Nice,1,2,A,,,
+FRA,1990-12-21,,AJ Auxerre,AS Cannes,0,3,A,,,
+FRA,1990-12-22,,Sporting Toulon Var,Paris Saint-Germain,0,0,D,,,
+FRA,1990-12-23,,SM Caen,Olympique Marseille,0,0,D,,,
+FRA,1990-12-23,,Montpellier HSC,AS Monaco,2,1,H,,,
+FRA,1990-12-23,,Olympique Lyon,Toulouse FC,4,1,H,,,
+FRA,1990-12-23,,Lille OSC,Girondins Bordeaux,0,0,D,,,
+FRA,1990-12-23,,Stade Rennes,Brest Armorique FC,3,0,H,,,
+FRA,1990-12-23,,OGC Nice,AS Saint-Étienne,2,0,H,,,
+FRA,1991-01-13,,Olympique Marseille,Olympique Lyon,7,0,H,,,
+FRA,1991-01-13,,AS Monaco,FC Nantes,2,1,H,,,
+FRA,1991-01-13,,AS Saint-Étienne,AJ Auxerre,2,1,H,,,
+FRA,1991-01-13,,Paris Saint-Germain,Montpellier HSC,2,0,H,,,
+FRA,1991-01-13,,FC Sochaux,SM Caen,1,0,H,,,
+FRA,1991-01-13,,AS Cannes,OGC Nice,2,1,H,,,
+FRA,1991-01-13,,Toulouse FC,Lille OSC,2,2,D,,,
+FRA,1991-01-13,,Girondins Bordeaux,FC Metz,1,1,D,,,
+FRA,1991-01-13,,AS Nancy,Stade Rennes,0,0,D,,,
+FRA,1991-01-13,,Stade Brest,Sporting Toulon Var,2,2,D,,,
+FRA,1991-01-18,,Olympique Lyon,AS Monaco,1,0,H,,,
+FRA,1991-01-19,,FC Nantes,Girondins Bordeaux,0,0,D,,,
+FRA,1991-01-20,,Lille OSC,Olympique Marseille,1,0,H,,,
+FRA,1991-01-20,,AJ Auxerre,Paris Saint-Germain,0,1,A,,,
+FRA,1991-01-20,,Montpellier HSC,AS Saint-Étienne,0,0,D,,,
+FRA,1991-01-20,,SM Caen,AS Cannes,0,1,A,,,
+FRA,1991-01-20,,FC Metz,Toulouse FC,2,1,H,,,
+FRA,1991-01-20,,Stade Rennes,FC Sochaux,1,1,D,,,
+FRA,1991-01-20,,OGC Nice,Stade Brest,2,0,H,,,
+FRA,1991-01-20,,Sporting Toulon Var,AS Nancy,2,0,H,,,
+FRA,1991-01-23,,Stade Brest,Paris Saint-Germain,0,0,D,,,
+FRA,1991-01-23,,FC Sochaux,Montpellier HSC,0,0,D,,,
+FRA,1991-01-23,,AS Saint-Étienne,Sporting Toulon Var,3,0,H,,,
+FRA,1991-01-23,,FC Metz,FC Nantes,2,0,H,,,
+FRA,1991-01-26,,Toulouse FC,SM Caen,3,2,H,,,
+FRA,1991-01-27,,Olympique Marseille,FC Nantes,6,0,H,,,
+FRA,1991-01-27,,AS Monaco,Girondins Bordeaux,2,0,H,,,
+FRA,1991-01-27,,Stade Brest,AJ Auxerre,1,3,A,,,
+FRA,1991-01-27,,AS Nancy,Montpellier HSC,1,1,D,,,
+FRA,1991-01-27,,AS Cannes,Lille OSC,2,1,H,,,
+FRA,1991-01-27,,AS Saint-Étienne,FC Metz,2,1,H,,,
+FRA,1991-01-27,,FC Sochaux,Olympique Lyon,1,2,A,,,
+FRA,1991-01-27,,Paris Saint-Germain,OGC Nice,0,2,A,,,
+FRA,1991-01-27,,Stade Rennes,Sporting Toulon Var,0,0,D,,,
+FRA,1991-01-30,,Olympique Lyon,FC Nantes,2,0,H,,,
+FRA,1991-01-30,,AS Nancy,FC Sochaux,2,0,H,,,
+FRA,1991-02-01,,Girondins Bordeaux,Olympique Marseille,1,1,D,,,
+FRA,1991-02-02,,SM Caen,AS Saint-Étienne,1,0,H,,,
+FRA,1991-02-03,,Lille OSC,AS Monaco,0,0,D,,,
+FRA,1991-02-03,,AJ Auxerre,AS Nancy,1,1,D,,,
+FRA,1991-02-03,,Montpellier HSC,Stade Brest,1,0,H,,,
+FRA,1991-02-03,,Olympique Lyon,Paris Saint-Germain,0,0,D,,,
+FRA,1991-02-03,,FC Metz,AS Cannes,0,0,D,,,
+FRA,1991-02-03,,OGC Nice,Stade Rennes,2,2,D,,,
+FRA,1991-02-03,,FC Nantes,Toulouse FC,0,0,D,,,
+FRA,1991-02-03,,Sporting Toulon Var,FC Sochaux,1,0,H,,,
+FRA,1991-02-08,,Sporting Toulon Var,Montpellier HSC,1,1,D,,,
+FRA,1991-02-09,,AS Monaco,FC Metz,2,0,H,,,
+FRA,1991-02-10,,Paris Saint-Germain,Olympique Marseille,0,1,A,,,
+FRA,1991-02-10,,Stade Rennes,AJ Auxerre,2,2,D,,,
+FRA,1991-02-10,,AS Cannes,FC Nantes,2,1,H,,,
+FRA,1991-02-10,,AS Saint-Étienne,Lille OSC,0,0,D,,,
+FRA,1991-02-10,,Toulouse FC,Girondins Bordeaux,0,0,D,,,
+FRA,1991-02-13,,Olympique Marseille,Toulouse FC,1,0,H,,,
+FRA,1991-02-13,,AS Monaco,OGC Nice,2,1,H,,,
+FRA,1991-02-13,,Montpellier HSC,Stade Rennes,1,0,H,,,
+FRA,1991-02-13,,Girondins Bordeaux,AS Cannes,1,1,D,,,
+FRA,1991-02-13,,SM Caen,Paris Saint-Germain,2,0,H,,,
+FRA,1991-02-23,,Montpellier HSC,AJ Auxerre,1,2,A,,,
+FRA,1991-02-24,,AS Cannes,Olympique Marseille,0,0,D,,,
+FRA,1991-02-24,,AS Monaco,SM Caen,2,0,H,,,
+FRA,1991-02-24,,Stade Rennes,Olympique Lyon,2,0,H,,,
+FRA,1991-02-24,,Paris Saint-Germain,FC Metz,2,1,H,,,
+FRA,1991-02-24,,Stade Brest,Lille OSC,1,0,H,,,
+FRA,1991-02-24,,AS Saint-Étienne,FC Nantes,1,3,A,,,
+FRA,1991-02-24,,FC Sochaux,Girondins Bordeaux,1,0,H,,,
+FRA,1991-02-24,,AS Nancy,Toulouse FC,1,1,D,,,
+FRA,1991-02-24,,Sporting Toulon Var,OGC Nice,1,2,A,,,
+FRA,1991-02-27,,Stade Brest,Olympique Lyon,3,0,H,,,
+FRA,1991-02-27,,FC Nantes,AS Nancy,1,0,H,,,
+FRA,1991-02-27,,Lille OSC,Sporting Toulon Var,4,1,H,,,
+FRA,1991-03-01,,Olympique Marseille,AS Monaco,1,0,H,,,
+FRA,1991-03-01,,OGC Nice,Montpellier HSC,2,0,H,,,
+FRA,1991-03-02,,Toulouse FC,AS Cannes,2,2,D,,,
+FRA,1991-03-02,,FC Nantes,Paris Saint-Germain,2,0,H,,,
+FRA,1991-03-02,,Lille OSC,FC Sochaux,0,1,A,,,
+FRA,1991-03-02,,FC Metz,Stade Rennes,2,0,H,,,
+FRA,1991-03-02,,Olympique Lyon,AS Nancy,0,1,A,,,
+FRA,1991-03-02,,SM Caen,Stade Brest,1,2,A,,,
+FRA,1991-03-02,,Girondins Bordeaux,AS Saint-Étienne,2,1,H,,,
+FRA,1991-03-02,,AJ Auxerre,Sporting Toulon Var,3,0,H,,,
+FRA,1991-03-05,,FC Sochaux,OGC Nice,0,0,D,,,
+FRA,1991-03-05,,AS Nancy,SM Caen,0,0,D,,,
+FRA,1991-03-12,,AJ Auxerre,FC Sochaux,4,1,H,,,
+FRA,1991-03-12,,FC Metz,Stade Brest,0,0,D,,,
+FRA,1991-03-14,,Montpellier HSC,Olympique Lyon,1,0,H,,,
+FRA,1991-03-15,,AS Saint-Étienne,Olympique Marseille,1,1,D,,,
+FRA,1991-03-15,,AS Nancy,FC Metz,0,1,A,,,
+FRA,1991-03-15,,AJ Auxerre,OGC Nice,5,1,H,,,
+FRA,1991-03-15,,AS Monaco,AS Cannes,0,0,D,,,
+FRA,1991-03-16,,Stade Rennes,Lille OSC,1,3,A,,,
+FRA,1991-03-16,,Stade Brest,FC Nantes,1,0,H,,,
+FRA,1991-03-16,,Paris Saint-Germain,Girondins Bordeaux,1,0,H,,,
+FRA,1991-03-16,,FC Sochaux,Toulouse FC,0,1,A,,,
+FRA,1991-03-16,,Sporting Toulon Var,SM Caen,0,0,D,,,
+FRA,1991-03-22,,OGC Nice,AS Nancy,3,0,H,,,
+FRA,1991-03-23,,Olympique Marseille,FC Sochaux,0,0,D,,,
+FRA,1991-03-23,,Toulouse FC,AS Monaco,1,2,A,,,
+FRA,1991-03-23,,Olympique Lyon,AJ Auxerre,1,0,H,,,
+FRA,1991-03-23,,FC Metz,Montpellier HSC,0,0,D,,,
+FRA,1991-03-23,,AS Cannes,AS Saint-Étienne,0,1,A,,,
+FRA,1991-03-23,,Girondins Bordeaux,Stade Brest,1,4,A,,,
+FRA,1991-03-23,,Lille OSC,Paris Saint-Germain,0,0,D,,,
+FRA,1991-03-23,,SM Caen,Stade Rennes,2,0,H,,,
+FRA,1991-03-23,,FC Nantes,Sporting Toulon Var,0,0,D,,,
+FRA,1991-03-26,,Olympique Lyon,AS Saint-Étienne,1,1,D,,,
+FRA,1991-04-06,,Paris Saint-Germain,AS Monaco,0,2,A,,,
+FRA,1991-04-06,,AJ Auxerre,SM Caen,3,0,H,,,
+FRA,1991-04-06,,Montpellier HSC,Lille OSC,1,2,A,,,
+FRA,1991-04-06,,FC Sochaux,AS Cannes,0,0,D,,,
+FRA,1991-04-06,,OGC Nice,Olympique Lyon,1,1,D,,,
+FRA,1991-04-06,,Stade Rennes,FC Nantes,2,0,H,,,
+FRA,1991-04-06,,AS Nancy,Girondins Bordeaux,0,2,A,,,
+FRA,1991-04-06,,AS Saint-Étienne,Toulouse FC,1,4,A,,,
+FRA,1991-04-06,,Sporting Toulon Var,FC Metz,2,1,H,,,
+FRA,1991-04-12,,Lille OSC,AJ Auxerre,1,0,H,,,
+FRA,1991-04-13,,Olympique Marseille,AS Nancy,6,2,H,,,
+FRA,1991-04-13,,AS Monaco,AS Saint-Étienne,2,0,H,,,
+FRA,1991-04-13,,AS Cannes,Paris Saint-Germain,2,0,H,,,
+FRA,1991-04-13,,SM Caen,Montpellier HSC,1,0,H,,,
+FRA,1991-04-13,,FC Metz,OGC Nice,1,0,H,,,
+FRA,1991-04-13,,Toulouse FC,Stade Brest,0,0,D,,,
+FRA,1991-04-13,,Olympique Lyon,Sporting Toulon Var,1,1,D,,,
+FRA,1991-04-13,,FC Nantes,FC Sochaux,0,0,D,,,
+FRA,1991-04-13,,Girondins Bordeaux,Stade Rennes,1,0,H,,,
+FRA,1991-04-19,,Stade Rennes,Olympique Marseille,1,1,D,,,
+FRA,1991-04-19,,FC Sochaux,AS Monaco,0,2,A,,,
+FRA,1991-04-20,,AJ Auxerre,FC Metz,3,1,H,,,
+FRA,1991-04-20,,Stade Brest,AS Cannes,3,2,H,,,
+FRA,1991-04-20,,Montpellier HSC,FC Nantes,1,1,D,,,
+FRA,1991-04-20,,OGC Nice,Lille OSC,4,1,H,,,
+FRA,1991-04-20,,Olympique Lyon,SM Caen,3,2,H,,,
+FRA,1991-04-20,,Sporting Toulon Var,Girondins Bordeaux,0,2,A,,,
+FRA,1991-04-20,,Paris Saint-Germain,Toulouse FC,3,0,H,,,
+FRA,1991-04-20,,AS Nancy,AS Saint-Étienne,1,0,H,,,
+FRA,1991-05-01,,Stade Brest,Olympique Marseille,1,1,D,,,
+FRA,1991-05-03,,AS Cannes,AS Nancy,1,0,H,,,
+FRA,1991-05-04,,Olympique Marseille,Sporting Toulon Var,3,3,D,,,
+FRA,1991-05-04,,AS Monaco,Stade Brest,5,0,H,,,
+FRA,1991-05-04,,FC Nantes,AJ Auxerre,2,3,A,,,
+FRA,1991-05-04,,Lille OSC,Olympique Lyon,1,1,D,,,
+FRA,1991-05-04,,Girondins Bordeaux,Montpellier HSC,1,0,H,,,
+FRA,1991-05-04,,FC Metz,FC Sochaux,2,2,D,,,
+FRA,1991-05-04,,SM Caen,OGC Nice,2,1,H,,,
+FRA,1991-05-04,,AS Saint-Étienne,Paris Saint-Germain,1,1,D,,,
+FRA,1991-05-04,,Toulouse FC,Stade Rennes,2,0,H,,,
+FRA,1991-05-10,,Montpellier HSC,Olympique Marseille,0,0,D,,,
+FRA,1991-05-10,,AS Nancy,AS Monaco,4,0,H,,,
+FRA,1991-05-10,,AJ Auxerre,Girondins Bordeaux,0,0,D,,,
+FRA,1991-05-10,,Stade Rennes,AS Cannes,1,1,D,,,
+FRA,1991-05-10,,Olympique Lyon,FC Metz,3,1,H,,,
+FRA,1991-05-10,,SM Caen,Lille OSC,0,0,D,,,
+FRA,1991-05-10,,Stade Brest,AS Saint-Étienne,0,1,A,,,
+FRA,1991-05-10,,OGC Nice,FC Nantes,1,1,D,,,
+FRA,1991-05-10,,FC Sochaux,Paris Saint-Germain,0,0,D,,,
+FRA,1991-05-10,,Sporting Toulon Var,Toulouse FC,1,0,H,,,
+FRA,1991-05-17,,Olympique Marseille,AJ Auxerre,1,0,H,,,
+FRA,1991-05-17,,AS Monaco,Stade Rennes,2,1,H,,,
+FRA,1991-05-17,,AS Cannes,Sporting Toulon Var,0,0,D,,,
+FRA,1991-05-17,,FC Nantes,Olympique Lyon,0,0,D,,,
+FRA,1991-05-17,,Toulouse FC,Montpellier HSC,0,0,D,,,
+FRA,1991-05-17,,Girondins Bordeaux,OGC Nice,3,0,H,,,
+FRA,1991-05-17,,Lille OSC,AS Nancy,0,2,A,,,
+FRA,1991-05-17,,FC Metz,SM Caen,1,1,D,,,
+FRA,1991-05-17,,Paris Saint-Germain,Stade Brest,1,1,D,,,
+FRA,1991-05-17,,AS Saint-Étienne,FC Sochaux,2,1,H,,,
+FRA,1991-05-22,,OGC Nice,Olympique Marseille,0,1,A,,,
+FRA,1991-05-24,,Sporting Toulon Var,AS Monaco,1,1,D,,,
+FRA,1991-05-24,,AJ Auxerre,Toulouse FC,2,1,H,,,
+FRA,1991-05-24,,Montpellier HSC,AS Cannes,0,0,D,,,
+FRA,1991-05-24,,Olympique Lyon,Girondins Bordeaux,1,0,H,,,
+FRA,1991-05-24,,Lille OSC,FC Metz,4,1,H,,,
+FRA,1991-05-24,,SM Caen,FC Nantes,1,0,H,,,
+FRA,1991-05-24,,Stade Brest,FC Sochaux,0,0,D,,,
+FRA,1991-05-24,,AS Nancy,Paris Saint-Germain,0,2,A,,,
+FRA,1991-05-24,,Stade Rennes,AS Saint-Étienne,0,2,A,,,

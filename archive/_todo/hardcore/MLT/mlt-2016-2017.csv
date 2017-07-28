@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,2016-08-19,17:30,Birkirkara FC,St. Andrews FC,4,0,H,1.0,0.0,H
+MLT,2016-08-19,17:30,Gżira United,Tarxien Rainbows,1,1,D,0.0,1.0,A
+MLT,2016-08-19,19:30,Hibernians FC,Hamrun Spartans,1,3,A,0.0,1.0,A
+MLT,2016-08-19,19:45,Valletta FC,Sliema Wanderers,2,1,H,1.0,1.0,D
+MLT,2016-08-20,17:30,Floriana FC,Pembroke Athleta FC,2,1,H,2.0,1.0,H
+MLT,2016-08-20,19:30,Balzan Youths,Mosta FC,3,2,H,2.0,0.0,H
+MLT,2016-08-26,17:30,Tarxien Rainbows,Birkirkara FC,0,4,A,0.0,2.0,A
+MLT,2016-08-26,17:30,Pembroke Athleta FC,Balzan Youths,1,2,A,1.0,1.0,D
+MLT,2016-08-26,19:30,Mosta FC,Valletta FC,0,1,A,0.0,0.0,D
+MLT,2016-08-26,19:45,Sliema Wanderers,Hibernians FC,0,1,A,0.0,1.0,A
+MLT,2016-08-27,17:30,St. Andrews FC,Floriana FC,1,3,A,1.0,0.0,H
+MLT,2016-08-27,19:30,Hamrun Spartans,Gżira United,1,1,D,0.0,1.0,A
+MLT,2016-09-10,17:00,Gżira United,Sliema Wanderers,1,0,H,1.0,0.0,H
+MLT,2016-09-10,17:00,Floriana FC,Balzan Youths,0,1,A,0.0,0.0,D
+MLT,2016-09-10,19:00,Hibernians FC,Mosta FC,3,1,H,1.0,0.0,H
+MLT,2016-09-10,19:00,Valletta FC,Pembroke Athleta FC,5,1,H,2.0,0.0,H
+MLT,2016-09-11,17:00,St. Andrews FC,Tarxien Rainbows,1,0,H,0.0,0.0,D
+MLT,2016-09-11,19:00,Birkirkara FC,Hamrun Spartans,2,1,H,1.0,1.0,D
+MLT,2016-09-17,17:00,Mosta FC,Gżira United,2,1,H,1.0,0.0,H
+MLT,2016-09-17,17:00,Pembroke Athleta FC,Hibernians FC,1,2,A,1.0,0.0,H
+MLT,2016-09-17,19:00,Tarxien Rainbows,Floriana FC,1,0,H,1.0,0.0,H
+MLT,2016-09-17,19:00,Balzan Youths,Valletta FC,2,2,D,0.0,2.0,A
+MLT,2016-09-18,17:00,Hamrun Spartans,St. Andrews FC,3,1,H,1.0,1.0,D
+MLT,2016-09-18,19:00,Sliema Wanderers,Birkirkara FC,2,1,H,1.0,0.0,H
+MLT,2016-09-21,17:00,St. Andrews FC,Sliema Wanderers,3,0,H,0.0,0.0,D
+MLT,2016-09-21,19:00,Floriana FC,Valletta FC,2,0,H,1.0,0.0,H
+MLT,2016-09-22,17:00,Tarxien Rainbows,Hamrun Spartans,2,1,H,0.0,0.0,D
+MLT,2016-09-22,17:00,Gżira United,Pembroke Athleta FC,3,0,H,0.0,0.0,D
+MLT,2016-09-22,19:00,Hibernians FC,Balzan Youths,0,2,A,0.0,0.0,D
+MLT,2016-09-22,19:15,Birkirkara FC,Mosta FC,2,0,H,1.0,0.0,H
+MLT,2016-09-25,17:00,Sliema Wanderers,Tarxien Rainbows,2,1,H,0.0,1.0,A
+MLT,2016-09-25,19:00,Valletta FC,Hibernians FC,0,2,A,0.0,0.0,D
+MLT,2016-09-26,17:00,Balzan Youths,Gżira United,3,1,H,2.0,0.0,H
+MLT,2016-09-26,17:00,Mosta FC,St. Andrews FC,1,0,H,1.0,0.0,H
+MLT,2016-09-26,19:00,Hamrun Spartans,Floriana FC,1,1,D,1.0,0.0,H
+MLT,2016-09-26,19:15,Pembroke Athleta FC,Birkirkara FC,2,1,H,1.0,0.0,H
+MLT,2016-09-30,17:00,Balzan Youths,St. Andrews FC,3,0,H,2.0,0.0,H
+MLT,2016-09-30,17:00,Mosta FC,Hamrun Spartans,2,5,A,0.0,4.0,A
+MLT,2016-09-30,19:00,Hibernians FC,Gżira United,1,1,D,0.0,1.0,A
+MLT,2016-09-30,19:00,Valletta FC,Birkirkara FC,1,1,D,0.0,0.0,D
+MLT,2016-10-01,14:00,Pembroke Athleta FC,Tarxien Rainbows,2,2,D,1.0,1.0,D
+MLT,2016-10-01,16:00,Sliema Wanderers,Floriana FC,3,1,H,3.0,1.0,H
+MLT,2016-10-15,14:00,Hamrun Spartans,Sliema Wanderers,0,3,A,0.0,1.0,A
+MLT,2016-10-15,14:00,Tarxien Rainbows,Mosta FC,1,1,D,0.0,1.0,A
+MLT,2016-10-15,16:00,Floriana FC,Hibernians FC,0,0,D,0.0,0.0,D
+MLT,2016-10-15,16:15,Gżira United,Valletta FC,1,3,A,0.0,2.0,A
+MLT,2016-10-16,14:00,St. Andrews FC,Pembroke Athleta FC,4,1,H,2.0,1.0,H
+MLT,2016-10-16,16:15,Birkirkara FC,Balzan Youths,3,0,H,3.0,0.0,H
+MLT,2016-10-22,14:00,Gżira United,Birkirkara FC,1,7,A,0.0,1.0,A
+MLT,2016-10-22,14:00,Balzan Youths,Hamrun Spartans,3,1,H,2.0,1.0,H
+MLT,2016-10-22,16:00,Valletta FC,Tarxien Rainbows,1,0,H,0.0,0.0,D
+MLT,2016-10-22,16:15,Mosta FC,Floriana FC,0,1,A,0.0,1.0,A
+MLT,2016-10-23,14:00,Pembroke Athleta FC,Sliema Wanderers,0,1,A,0.0,0.0,D
+MLT,2016-10-23,16:15,Hibernians FC,St. Andrews FC,1,0,H,1.0,0.0,H
+MLT,2016-10-28,17:00,Floriana FC,Gżira United,1,0,H,1.0,0.0,H
+MLT,2016-10-28,19:15,St. Andrews FC,Valletta FC,0,0,D,0.0,0.0,D
+MLT,2016-10-29,14:00,Hamrun Spartans,Pembroke Athleta FC,2,1,H,2.0,0.0,H
+MLT,2016-10-29,16:15,Tarxien Rainbows,Balzan Youths,2,2,D,1.0,0.0,H
+MLT,2016-10-30,14:00,Sliema Wanderers,Mosta FC,1,1,D,1.0,0.0,H
+MLT,2016-10-30,16:00,Birkirkara FC,Hibernians FC,0,1,A,0.0,0.0,D
+MLT,2016-11-04,17:00,Sliema Wanderers,Balzan Youths,1,1,D,0.0,1.0,A
+MLT,2016-11-04,19:00,Floriana FC,Birkirkara FC,1,1,D,0.0,1.0,A
+MLT,2016-11-05,13:00,Tarxien Rainbows,Hibernians FC,1,2,A,0.0,1.0,A
+MLT,2016-11-05,13:00,St. Andrews FC,Gżira United,1,0,H,1.0,0.0,H
+MLT,2016-11-05,15:00,Hamrun Spartans,Valletta FC,0,3,A,0.0,1.0,A
+MLT,2016-11-05,15:15,Mosta FC,Pembroke Athleta FC,0,3,A,0.0,3.0,A
+MLT,2016-11-19,13:00,St. Andrews FC,Birkirkara FC,1,1,D,1.0,0.0,H
+MLT,2016-11-19,13:00,Tarxien Rainbows,Gżira United,1,0,H,0.0,0.0,D
+MLT,2016-11-19,15:00,Sliema Wanderers,Valletta FC,1,2,A,0.0,0.0,D
+MLT,2016-11-19,15:15,Mosta FC,Balzan Youths,0,1,A,0.0,1.0,A
+MLT,2016-11-20,13:00,Pembroke Athleta FC,Floriana FC,1,2,A,0.0,0.0,D
+MLT,2016-11-20,15:15,Hamrun Spartans,Hibernians FC,1,4,A,0.0,3.0,A
+MLT,2016-11-26,13:00,Gżira United,Hamrun Spartans,0,2,A,0.0,0.0,D
+MLT,2016-11-26,13:00,Floriana FC,St. Andrews FC,4,1,H,3.0,1.0,H
+MLT,2016-11-26,15:00,Hibernians FC,Sliema Wanderers,3,1,H,1.0,1.0,D
+MLT,2016-11-26,15:15,Birkirkara FC,Tarxien Rainbows,3,1,H,0.0,0.0,D
+MLT,2016-11-27,13:00,Balzan Youths,Pembroke Athleta FC,4,0,H,3.0,0.0,H
+MLT,2016-11-27,15:15,Valletta FC,Mosta FC,0,0,D,0.0,0.0,D
+MLT,2016-12-03,13:00,Tarxien Rainbows,St. Andrews FC,1,1,D,1.0,0.0,H
+MLT,2016-12-03,15:15,Pembroke Athleta FC,Valletta FC,0,3,A,0.0,1.0,A
+MLT,2016-12-04,13:00,Hamrun Spartans,Birkirkara FC,2,0,H,0.0,0.0,D
+MLT,2016-12-04,13:00,Sliema Wanderers,Gżira United,1,0,H,1.0,0.0,H
+MLT,2016-12-04,15:00,Balzan Youths,Floriana FC,1,3,A,0.0,1.0,A
+MLT,2016-12-04,15:15,Mosta FC,Hibernians FC,0,2,A,0.0,1.0,A
+MLT,2016-12-10,13:00,Floriana FC,Tarxien Rainbows,1,1,D,1.0,0.0,H
+MLT,2016-12-10,13:00,Gżira United,Mosta FC,3,0,H,3.0,0.0,H
+MLT,2016-12-10,15:00,Hibernians FC,Pembroke Athleta FC,1,1,D,0.0,0.0,D
+MLT,2016-12-10,15:15,St. Andrews FC,Hamrun Spartans,3,1,H,1.0,1.0,D
+MLT,2016-12-11,13:00,Birkirkara FC,Sliema Wanderers,1,2,A,0.0,2.0,A
+MLT,2016-12-11,15:00,Valletta FC,Balzan Youths,2,2,D,0.0,0.0,D
+MLT,2016-12-17,13:00,Balzan Youths,Hibernians FC,2,1,H,1.0,1.0,D
+MLT,2016-12-17,15:00,Valletta FC,Floriana FC,0,0,D,0.0,0.0,D
+MLT,2016-12-18,13:00,Sliema Wanderers,St. Andrews FC,1,1,D,1.0,1.0,D
+MLT,2016-12-18,15:15,Hamrun Spartans,Tarxien Rainbows,2,3,A,0.0,1.0,A
+MLT,2016-12-18,17:30,Pembroke Athleta FC,Gżira United,0,0,D,0.0,0.0,D
+MLT,2017-01-04,18:30,Mosta FC,Birkirkara FC,0,2,A,0.0,1.0,A
+MLT,2017-01-07,13:00,St. Andrews FC,Mosta FC,1,1,D,1.0,1.0,D
+MLT,2017-01-07,15:15,Floriana FC,Hamrun Spartans,5,1,H,1.0,0.0,H
+MLT,2017-01-08,13:00,Tarxien Rainbows,Sliema Wanderers,1,0,H,0.0,0.0,D
+MLT,2017-01-08,13:00,Birkirkara FC,Pembroke Athleta FC,2,0,H,2.0,0.0,H
+MLT,2017-01-08,15:00,Gżira United,Balzan Youths,1,2,A,1.0,1.0,D
+MLT,2017-01-08,15:00,Hibernians FC,Valletta FC,1,0,H,0.0,0.0,D
+MLT,2017-01-14,13:00,Pembroke Athleta FC,St. Andrews FC,2,2,D,1.0,1.0,D
+MLT,2017-01-14,13:00,Sliema Wanderers,Hamrun Spartans,1,2,A,0.0,1.0,A
+MLT,2017-01-14,15:00,Valletta FC,Gżira United,1,0,H,0.0,0.0,D
+MLT,2017-01-14,15:15,Mosta FC,Tarxien Rainbows,0,2,A,0.0,2.0,A
+MLT,2017-01-15,13:00,Balzan Youths,Birkirkara FC,1,1,D,0.0,0.0,D
+MLT,2017-01-15,15:00,Hibernians FC,Floriana FC,2,2,D,0.0,1.0,A
+MLT,2017-01-21,13:00,St. Andrews FC,Balzan Youths,0,1,A,0.0,1.0,A
+MLT,2017-01-21,15:00,Birkirkara FC,Valletta FC,0,1,A,0.0,1.0,A
+MLT,2017-01-22,13:00,Tarxien Rainbows,Pembroke Athleta FC,7,1,H,4.0,0.0,H
+MLT,2017-01-22,13:00,Gżira United,Hibernians FC,0,3,A,0.0,1.0,A
+MLT,2017-01-22,15:00,Floriana FC,Sliema Wanderers,1,3,A,0.0,1.0,A
+MLT,2017-01-22,15:15,Hamrun Spartans,Mosta FC,3,0,H,2.0,0.0,H
+MLT,2017-01-28,13:00,Mosta FC,Sliema Wanderers,2,1,H,1.0,1.0,D
+MLT,2017-01-28,13:00,Pembroke Athleta FC,Hamrun Spartans,1,0,H,1.0,0.0,H
+MLT,2017-01-28,15:00,Balzan Youths,Tarxien Rainbows,2,2,D,2.0,0.0,H
+MLT,2017-01-28,15:15,Valletta FC,St. Andrews FC,1,1,D,1.0,0.0,H
+MLT,2017-01-29,13:00,Gżira United,Floriana FC,4,3,H,0.0,1.0,A
+MLT,2017-01-29,15:00,Hibernians FC,Birkirkara FC,1,2,A,0.0,0.0,D
+MLT,2017-02-04,13:00,Sliema Wanderers,Pembroke Athleta FC,1,1,D,0.0,0.0,D
+MLT,2017-02-04,13:00,St. Andrews FC,Hibernians FC,1,2,A,1.0,1.0,D
+MLT,2017-02-04,15:00,Hamrun Spartans,Balzan Youths,0,1,A,0.0,1.0,A
+MLT,2017-02-04,15:15,Floriana FC,Mosta FC,4,0,H,1.0,0.0,H
+MLT,2017-02-05,13:00,Birkirkara FC,Gżira United,2,1,H,2.0,0.0,H
+MLT,2017-02-05,15:00,Tarxien Rainbows,Valletta FC,1,1,D,0.0,0.0,D
+MLT,2017-02-11,13:00,Hibernians FC,Tarxien Rainbows,1,0,H,0.0,0.0,D
+MLT,2017-02-11,13:00,Pembroke Athleta FC,Mosta FC,0,3,A,,,
+MLT,2017-02-11,15:00,Birkirkara FC,Floriana FC,1,2,A,0.0,1.0,A
+MLT,2017-02-11,15:00,Gżira United,St. Andrews FC,3,2,H,1.0,1.0,D
+MLT,2017-02-12,13:00,Balzan Youths,Sliema Wanderers,1,2,A,0.0,1.0,A
+MLT,2017-02-12,15:00,Valletta FC,Hamrun Spartans,2,0,H,0.0,0.0,D
+MLT,2017-02-24,17:00,Balzan Youths,Mosta FC,7,1,H,2.0,1.0,H
+MLT,2017-02-24,19:00,Valletta FC,Sliema Wanderers,3,1,H,0.0,0.0,D
+MLT,2017-02-25,13:00,Gżira United,Tarxien Rainbows,1,0,H,0.0,0.0,D
+MLT,2017-02-25,13:00,Birkirkara FC,St. Andrews FC,2,2,D,2.0,1.0,H
+MLT,2017-02-25,15:00,Floriana FC,Pembroke Athleta FC,2,0,H,1.0,0.0,H
+MLT,2017-02-25,15:00,Hibernians FC,Hamrun Spartans,3,3,D,2.0,2.0,D
+MLT,2017-03-04,13:00,St. Andrews FC,Floriana FC,0,0,D,0.0,0.0,D
+MLT,2017-03-04,13:00,Hamrun Spartans,Gżira United,1,3,A,1.0,1.0,D
+MLT,2017-03-04,15:00,Tarxien Rainbows,Birkirkara FC,0,1,A,0.0,1.0,A
+MLT,2017-03-04,15:00,Sliema Wanderers,Hibernians FC,1,2,A,0.0,2.0,A
+MLT,2017-03-05,13:00,Pembroke Athleta FC,Balzan Youths,2,5,A,1.0,2.0,A
+MLT,2017-03-05,15:00,Mosta FC,Valletta FC,0,4,A,0.0,2.0,A
+MLT,2017-03-11,13:00,Gżira United,Sliema Wanderers,0,1,A,0.0,0.0,D
+MLT,2017-03-11,13:00,Valletta FC,Pembroke Athleta FC,4,0,H,1.0,0.0,H
+MLT,2017-03-11,15:00,St. Andrews FC,Tarxien Rainbows,1,0,H,1.0,0.0,H
+MLT,2017-03-11,15:00,Hibernians FC,Mosta FC,4,0,H,3.0,0.0,H
+MLT,2017-03-12,13:00,Floriana FC,Balzan Youths,0,2,A,0.0,2.0,A
+MLT,2017-03-12,15:00,Birkirkara FC,Hamrun Spartans,3,0,H,1.0,0.0,H
+MLT,2017-03-17,17:00,Hamrun Spartans,St. Andrews FC,1,1,D,1.0,0.0,H
+MLT,2017-03-17,17:00,Mosta FC,Gżira United,1,4,A,0.0,0.0,D
+MLT,2017-03-17,19:00,Pembroke Athleta FC,Hibernians FC,0,3,A,0.0,1.0,A
+MLT,2017-03-17,19:00,Balzan Youths,Valletta FC,0,1,A,0.0,1.0,A
+MLT,2017-03-18,13:00,Tarxien Rainbows,Floriana FC,0,1,A,0.0,0.0,D
+MLT,2017-03-18,15:00,Sliema Wanderers,Birkirkara FC,1,1,D,1.0,1.0,D
+MLT,2017-04-01,15:00,Gżira United,Pembroke Athleta FC,5,1,H,2.0,0.0,H
+MLT,2017-04-01,15:00,Tarxien Rainbows,Hamrun Spartans,1,1,D,1.0,1.0,D
+MLT,2017-04-01,17:00,St. Andrews FC,Sliema Wanderers,1,4,A,1.0,1.0,D
+MLT,2017-04-01,17:00,Birkirkara FC,Mosta FC,3,0,H,2.0,0.0,H
+MLT,2017-04-02,15:00,Hibernians FC,Balzan Youths,3,1,H,1.0,1.0,D
+MLT,2017-04-02,17:00,Floriana FC,Valletta FC,1,1,D,0.0,0.0,D
+MLT,2017-04-04,17:00,Sliema Wanderers,Tarxien Rainbows,1,1,D,1.0,1.0,D
+MLT,2017-04-04,19:00,Pembroke Athleta FC,Birkirkara FC,0,2,A,0.0,1.0,A
+MLT,2017-04-05,17:00,Mosta FC,St. Andrews FC,1,2,A,1.0,1.0,D
+MLT,2017-04-05,17:00,Balzan Youths,Gżira United,3,1,H,0.0,0.0,D
+MLT,2017-04-05,19:00,Valletta FC,Hibernians FC,1,0,H,0.0,0.0,D
+MLT,2017-04-05,19:15,Hamrun Spartans,Floriana FC,1,2,A,1.0,1.0,D
+MLT,2017-04-08,15:00,Gżira United,Valletta FC,1,1,D,1.0,1.0,D
+MLT,2017-04-08,17:00,Birkirkara FC,Balzan Youths,3,1,H,1.0,0.0,H
+MLT,2017-04-09,15:00,St. Andrews FC,Pembroke Athleta FC,6,0,H,2.0,0.0,H
+MLT,2017-04-09,15:00,Hamrun Spartans,Sliema Wanderers,0,2,A,0.0,0.0,D
+MLT,2017-04-09,17:00,Tarxien Rainbows,Mosta FC,1,3,A,0.0,1.0,A
+MLT,2017-04-09,17:00,Floriana FC,Hibernians FC,2,3,A,2.0,1.0,H
+MLT,2017-04-15,15:00,Balzan Youths,St. Andrews FC,2,1,H,0.0,0.0,D
+MLT,2017-04-15,15:00,Pembroke Athleta FC,Tarxien Rainbows,1,1,D,0.0,0.0,D
+MLT,2017-04-15,17:00,Hibernians FC,Gżira United,2,0,H,2.0,0.0,H
+MLT,2017-04-15,17:00,Valletta FC,Birkirkara FC,3,3,D,1.0,2.0,A
+MLT,2017-04-17,17:00,Mosta FC,Hamrun Spartans,2,1,H,0.0,1.0,A
+MLT,2017-04-17,19:00,Sliema Wanderers,Floriana FC,3,0,H,1.0,0.0,H
+MLT,2017-04-22,15:00,Floriana FC,Gżira United,1,1,D,0.0,0.0,D
+MLT,2017-04-22,15:00,Tarxien Rainbows,Balzan Youths,0,3,A,0.0,3.0,A
+MLT,2017-04-22,17:00,St. Andrews FC,Valletta FC,3,1,H,2.0,0.0,H
+MLT,2017-04-22,17:15,Hamrun Spartans,Pembroke Athleta FC,1,2,A,0.0,2.0,A
+MLT,2017-04-23,15:00,Sliema Wanderers,Mosta FC,1,1,D,0.0,1.0,A
+MLT,2017-04-23,17:00,Birkirkara FC,Hibernians FC,2,0,H,1.0,0.0,H
+MLT,2017-04-29,15:00,Mosta FC,Floriana FC,0,2,A,0.0,0.0,D
+MLT,2017-04-29,15:00,Valletta FC,Tarxien Rainbows,0,2,A,0.0,1.0,A
+MLT,2017-04-29,17:00,Pembroke Athleta FC,Sliema Wanderers,0,2,A,0.0,0.0,D
+MLT,2017-04-29,17:00,Balzan Youths,Hamrun Spartans,1,1,D,1.0,1.0,D
+MLT,2017-04-30,15:00,Hibernians FC,St. Andrews FC,3,1,H,2.0,1.0,H
+MLT,2017-04-30,17:00,Gżira United,Birkirkara FC,1,1,D,0.0,0.0,D
+MLT,2017-05-04,18:30,St. Andrews FC,Gżira United,2,3,A,1.0,1.0,D
+MLT,2017-05-05,17:00,Mosta FC,Pembroke Athleta FC,4,2,H,0.0,1.0,A
+MLT,2017-05-05,17:00,Sliema Wanderers,Balzan Youths,2,1,H,2.0,0.0,H
+MLT,2017-05-05,19:00,Floriana FC,Birkirkara FC,1,2,A,0.0,1.0,A
+MLT,2017-05-05,19:00,Hamrun Spartans,Valletta FC,2,1,H,2.0,0.0,H
+MLT,2017-05-06,15:00,Tarxien Rainbows,Hibernians FC,1,6,A,0.0,4.0,A

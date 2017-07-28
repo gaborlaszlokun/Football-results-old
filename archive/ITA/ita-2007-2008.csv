@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2007-08-25,17:00,Lazio Roma,Torino FC,2,2,D,0,1,A
+ITA,2007-08-25,19:30,Juventus,AS Livorno,5,1,H,1,0,H
+ITA,2007-08-26,14:00,ACF Fiorentina,Empoli FC,3,1,H,0,0,D
+ITA,2007-08-26,14:00,Genoa CFC,AC Milan,0,3,A,0,3,A
+ITA,2007-08-26,14:00,Inter,Udinese Calcio,1,1,D,1,0,H
+ITA,2007-08-26,14:00,SSC Napoli,Cagliari Calcio,0,2,A,0,0,D
+ITA,2007-08-26,14:00,Parma FC,Calcio Catania,2,2,D,2,2,D
+ITA,2007-08-26,14:00,Reggina Calcio,Atalanta,1,1,D,0,0,D
+ITA,2007-08-26,14:00,AC Siena,Sampdoria,1,2,A,0,1,A
+ITA,2007-08-26,19:30,US Palermo,AS Roma,0,2,A,0,2,A
+ITA,2007-09-01,19:30,Empoli FC,Inter,0,2,A,0,1,A
+ITA,2007-09-02,14:00,Atalanta,Parma FC,2,0,H,1,0,H
+ITA,2007-09-02,14:00,Cagliari Calcio,Juventus,2,3,A,0,0,D
+ITA,2007-09-02,14:00,Calcio Catania,Genoa CFC,0,0,D,0,0,D
+ITA,2007-09-02,14:00,AS Livorno,US Palermo,2,4,A,0,4,A
+ITA,2007-09-02,14:00,AS Roma,AC Siena,3,0,H,1,0,H
+ITA,2007-09-02,14:00,Torino FC,Reggina Calcio,2,2,D,1,1,D
+ITA,2007-09-02,14:00,Udinese Calcio,SSC Napoli,0,5,A,0,2,A
+ITA,2007-09-02,19:30,Sampdoria,Lazio Roma,0,0,D,0,0,D
+ITA,2007-09-03,17:00,AC Milan,ACF Fiorentina,1,1,D,1,0,H
+ITA,2007-09-15,17:00,AC Siena,AC Milan,1,1,D,1,0,H
+ITA,2007-09-15,19:30,Lazio Roma,Empoli FC,0,0,D,0,0,D
+ITA,2007-09-16,14:00,ACF Fiorentina,Atalanta,2,2,D,1,0,H
+ITA,2007-09-16,14:00,Genoa CFC,AS Livorno,1,1,D,0,0,D
+ITA,2007-09-16,14:00,Inter,Calcio Catania,2,0,H,1,0,H
+ITA,2007-09-16,14:00,Juventus,Udinese Calcio,0,1,A,0,0,D
+ITA,2007-09-16,14:00,SSC Napoli,Sampdoria,2,0,H,1,0,H
+ITA,2007-09-16,14:00,US Palermo,Torino FC,1,1,D,1,0,H
+ITA,2007-09-16,14:00,Reggina Calcio,AS Roma,0,2,A,0,0,D
+ITA,2007-09-16,19:30,Parma FC,Cagliari Calcio,1,1,D,0,1,A
+ITA,2007-09-22,17:00,Udinese Calcio,Reggina Calcio,2,0,H,1,0,H
+ITA,2007-09-22,19:30,AC Milan,Parma FC,1,1,D,1,0,H
+ITA,2007-09-23,14:00,Atalanta,Lazio Roma,2,1,H,1,0,H
+ITA,2007-09-23,14:00,Cagliari Calcio,US Palermo,0,1,A,0,1,A
+ITA,2007-09-23,14:00,Calcio Catania,ACF Fiorentina,0,1,A,0,1,A
+ITA,2007-09-23,14:00,Empoli FC,SSC Napoli,0,0,D,0,0,D
+ITA,2007-09-23,14:00,AS Livorno,Inter,2,2,D,1,1,D
+ITA,2007-09-23,14:00,AS Roma,Juventus,2,2,D,2,1,H
+ITA,2007-09-23,14:00,Torino FC,AC Siena,1,1,D,1,0,H
+ITA,2007-09-23,19:30,Sampdoria,Genoa CFC,0,0,D,0,0,D
+ITA,2007-09-26,19:30,Calcio Catania,Empoli FC,1,0,H,0,0,D
+ITA,2007-09-26,19:30,ACF Fiorentina,AS Roma,2,2,D,1,2,A
+ITA,2007-09-26,19:30,Genoa CFC,Udinese Calcio,3,2,H,1,0,H
+ITA,2007-09-26,19:30,Inter,Sampdoria,3,0,H,1,0,H
+ITA,2007-09-26,19:30,Juventus,Reggina Calcio,4,0,H,0,0,D
+ITA,2007-09-26,19:30,Lazio Roma,Cagliari Calcio,3,1,H,0,0,D
+ITA,2007-09-26,19:30,SSC Napoli,AS Livorno,1,0,H,0,0,D
+ITA,2007-09-26,19:30,US Palermo,AC Milan,2,1,H,0,1,A
+ITA,2007-09-26,19:30,Parma FC,Torino FC,2,0,H,0,0,D
+ITA,2007-09-26,19:30,AC Siena,Atalanta,1,1,D,1,0,H
+ITA,2007-09-29,17:00,AS Roma,Inter,1,4,A,0,1,A
+ITA,2007-09-29,19:30,AS Livorno,ACF Fiorentina,0,3,A,0,1,A
+ITA,2007-09-30,14:00,Cagliari Calcio,AC Siena,1,0,H,1,0,H
+ITA,2007-09-30,14:00,Empoli FC,US Palermo,3,1,H,0,1,A
+ITA,2007-09-30,14:00,AC Milan,Calcio Catania,1,1,D,0,1,A
+ITA,2007-09-30,14:00,SSC Napoli,Genoa CFC,1,2,A,0,1,A
+ITA,2007-09-30,14:00,Reggina Calcio,Lazio Roma,1,1,D,1,0,H
+ITA,2007-09-30,14:00,Sampdoria,Atalanta,3,0,H,1,0,H
+ITA,2007-09-30,14:00,Udinese Calcio,Parma FC,2,1,H,0,0,D
+ITA,2007-09-30,19:30,Torino FC,Juventus,0,1,A,0,0,D
+ITA,2007-10-06,17:00,Atalanta,Udinese Calcio,0,0,D,0,0,D
+ITA,2007-10-06,19:30,Inter,SSC Napoli,2,1,H,2,0,H
+ITA,2007-10-07,14:00,Calcio Catania,AS Livorno,1,0,H,1,0,H
+ITA,2007-10-07,14:00,ACF Fiorentina,Juventus,1,1,D,0,1,A
+ITA,2007-10-07,14:00,Genoa CFC,Cagliari Calcio,2,0,H,0,0,D
+ITA,2007-10-07,14:00,US Palermo,Reggina Calcio,1,1,D,0,0,D
+ITA,2007-10-07,14:00,Parma FC,AS Roma,0,3,A,0,2,A
+ITA,2007-10-07,14:00,AC Siena,Empoli FC,3,0,H,0,0,D
+ITA,2007-10-07,14:00,Torino FC,Sampdoria,1,0,H,0,0,D
+ITA,2007-10-07,19:30,Lazio Roma,AC Milan,1,5,A,1,2,A
+ITA,2007-10-20,17:00,AS Roma,SSC Napoli,4,4,D,2,1,H
+ITA,2007-10-20,19:30,Reggina Calcio,Inter,0,1,A,0,1,A
+ITA,2007-10-21,14:00,Atalanta,Torino FC,2,2,D,1,0,H
+ITA,2007-10-21,14:00,Cagliari Calcio,Calcio Catania,1,1,D,0,1,A
+ITA,2007-10-21,14:00,ACF Fiorentina,AC Siena,3,0,H,2,0,H
+ITA,2007-10-21,14:00,AS Livorno,Lazio Roma,0,1,A,0,1,A
+ITA,2007-10-21,14:00,AC Milan,Empoli FC,0,1,A,0,0,D
+ITA,2007-10-21,14:00,Sampdoria,Parma FC,3,0,H,1,0,H
+ITA,2007-10-21,14:00,Udinese Calcio,US Palermo,1,1,D,0,1,A
+ITA,2007-10-21,19:30,Juventus,Genoa CFC,1,0,H,1,0,H
+ITA,2007-10-27,17:00,Torino FC,Cagliari Calcio,2,0,H,0,0,D
+ITA,2007-10-27,19:30,SSC Napoli,Juventus,3,1,H,0,0,D
+ITA,2007-10-28,14:00,Calcio Catania,Sampdoria,2,0,H,2,0,H
+ITA,2007-10-28,14:00,Empoli FC,Atalanta,0,1,A,0,0,D
+ITA,2007-10-28,14:00,Lazio Roma,Udinese Calcio,0,1,A,0,0,D
+ITA,2007-10-28,14:00,AC Milan,AS Roma,0,1,A,0,0,D
+ITA,2007-10-28,14:00,US Palermo,Inter,0,0,D,0,0,D
+ITA,2007-10-28,14:00,Parma FC,AS Livorno,3,2,H,1,1,D
+ITA,2007-10-28,14:00,AC Siena,Reggina Calcio,0,0,D,0,0,D
+ITA,2007-10-28,19:30,Genoa CFC,ACF Fiorentina,0,0,D,0,0,D
+ITA,2007-10-31,19:30,Atalanta,Cagliari Calcio,2,2,D,0,1,A
+ITA,2007-10-31,19:30,ACF Fiorentina,SSC Napoli,1,0,H,0,0,D
+ITA,2007-10-31,19:30,Inter,Genoa CFC,4,1,H,1,0,H
+ITA,2007-10-31,19:30,Juventus,Empoli FC,3,0,H,0,0,D
+ITA,2007-10-31,19:30,US Palermo,Parma FC,1,1,D,0,1,A
+ITA,2007-10-31,19:30,Reggina Calcio,AS Livorno,1,3,A,1,1,D
+ITA,2007-10-31,19:30,AS Roma,Lazio Roma,3,2,H,2,1,H
+ITA,2007-10-31,19:30,Sampdoria,AC Milan,0,5,A,0,0,D
+ITA,2007-10-31,19:30,AC Siena,Calcio Catania,1,1,D,0,0,D
+ITA,2007-10-31,19:30,Udinese Calcio,Torino FC,2,1,H,1,0,H
+ITA,2007-11-03,17:00,Lazio Roma,ACF Fiorentina,0,1,A,0,1,A
+ITA,2007-11-03,19:30,AC Milan,Torino FC,0,0,D,0,0,D
+ITA,2007-11-04,14:00,Cagliari Calcio,Sampdoria,0,3,A,0,3,A
+ITA,2007-11-04,14:00,Calcio Catania,Atalanta,1,2,A,0,0,D
+ITA,2007-11-04,14:00,Empoli FC,AS Roma,2,2,D,0,2,A
+ITA,2007-11-04,14:00,Genoa CFC,US Palermo,3,3,D,0,1,A
+ITA,2007-11-04,14:00,AS Livorno,Udinese Calcio,0,0,D,0,0,D
+ITA,2007-11-04,14:00,SSC Napoli,Reggina Calcio,1,1,D,0,0,D
+ITA,2007-11-04,14:00,Parma FC,AC Siena,2,2,D,1,1,D
+ITA,2007-11-04,19:30,Juventus,Inter,1,1,D,0,1,A
+ITA,2007-11-10,17:00,Sampdoria,Empoli FC,3,0,H,2,0,H
+ITA,2007-11-10,19:30,US Palermo,SSC Napoli,2,1,H,0,0,D
+ITA,2007-11-11,14:10,ACF Fiorentina,Udinese Calcio,1,2,A,1,1,D
+ITA,2007-11-11,14:10,Parma FC,Juventus,2,2,D,1,0,H
+ITA,2007-11-11,14:10,Reggina Calcio,Genoa CFC,2,0,H,1,0,H
+ITA,2007-11-11,14:10,AC Siena,AS Livorno,2,3,A,1,3,A
+ITA,2007-11-11,14:10,Torino FC,Calcio Catania,1,1,D,1,0,H
+ITA,2007-11-24,17:00,Genoa CFC,AS Roma,0,1,A,0,0,D
+ITA,2007-11-24,19:30,Inter,Atalanta,2,1,H,2,1,H
+ITA,2007-11-25,14:00,Cagliari Calcio,AC Milan,1,2,A,1,0,H
+ITA,2007-11-25,14:00,Empoli FC,Torino FC,0,0,D,0,0,D
+ITA,2007-11-25,14:00,Lazio Roma,Parma FC,1,0,H,0,0,D
+ITA,2007-11-25,14:00,AS Livorno,Sampdoria,3,1,H,2,0,H
+ITA,2007-11-25,14:00,SSC Napoli,Calcio Catania,2,0,H,1,0,H
+ITA,2007-11-25,14:00,Reggina Calcio,ACF Fiorentina,0,0,D,0,0,D
+ITA,2007-11-25,14:00,Udinese Calcio,AC Siena,2,0,H,1,0,H
+ITA,2007-11-25,19:30,Juventus,US Palermo,5,0,H,2,0,H
+ITA,2007-12-01,17:00,Sampdoria,Reggina Calcio,3,0,H,1,0,H
+ITA,2007-12-01,19:30,AC Milan,Juventus,0,0,D,0,0,D
+ITA,2007-12-02,14:00,Atalanta,SSC Napoli,5,1,H,3,0,H
+ITA,2007-12-02,14:00,Cagliari Calcio,AS Livorno,0,0,D,0,0,D
+ITA,2007-12-02,14:00,Calcio Catania,US Palermo,3,1,H,2,0,H
+ITA,2007-12-02,14:00,ACF Fiorentina,Inter,0,2,A,0,2,A
+ITA,2007-12-02,14:00,Parma FC,Empoli FC,1,0,H,1,0,H
+ITA,2007-12-02,14:00,AS Roma,Udinese Calcio,2,1,H,2,1,H
+ITA,2007-12-02,14:00,AC Siena,Lazio Roma,1,1,D,1,1,D
+ITA,2007-12-02,19:30,Torino FC,Genoa CFC,1,1,D,0,0,D
+ITA,2007-12-05,19:30,Inter,Lazio Roma,3,0,H,2,0,H
+ITA,2007-12-05,19:30,AS Roma,Cagliari Calcio,2,0,H,2,0,H
+ITA,2007-12-08,17:00,Lazio Roma,Calcio Catania,2,0,H,1,0,H
+ITA,2007-12-08,19:30,US Palermo,ACF Fiorentina,2,0,H,1,0,H
+ITA,2007-12-09,14:00,Empoli FC,Cagliari Calcio,4,1,H,2,0,H
+ITA,2007-12-09,14:00,Genoa CFC,AC Siena,1,3,A,0,3,A
+ITA,2007-12-09,14:00,Inter,Torino FC,4,0,H,1,0,H
+ITA,2007-12-09,14:00,Juventus,Atalanta,1,0,H,0,0,D
+ITA,2007-12-09,14:00,AS Livorno,AS Roma,1,1,D,1,1,D
+ITA,2007-12-09,14:00,Udinese Calcio,Sampdoria,3,2,H,1,2,A
+ITA,2007-12-09,19:30,SSC Napoli,Parma FC,1,0,H,1,0,H
+ITA,2007-12-15,17:00,Calcio Catania,Udinese Calcio,2,0,H,1,0,H
+ITA,2007-12-15,19:30,Lazio Roma,Juventus,2,3,A,1,1,D
+ITA,2007-12-16,14:00,Atalanta,US Palermo,1,3,A,0,2,A
+ITA,2007-12-16,14:00,Empoli FC,Genoa CFC,1,1,D,1,0,H
+ITA,2007-12-16,14:00,Parma FC,Reggina Calcio,3,0,H,1,0,H
+ITA,2007-12-16,14:00,Sampdoria,ACF Fiorentina,2,2,D,1,1,D
+ITA,2007-12-16,14:00,AC Siena,SSC Napoli,1,1,D,0,0,D
+ITA,2007-12-16,14:00,Torino FC,AS Roma,0,0,D,0,0,D
+ITA,2007-12-16,19:30,Cagliari Calcio,Inter,0,2,A,0,0,D
+ITA,2007-12-22,17:00,Genoa CFC,Parma FC,1,0,H,1,0,H
+ITA,2007-12-22,19:30,AS Roma,Sampdoria,2,0,H,1,0,H
+ITA,2007-12-23,14:00,ACF Fiorentina,Cagliari Calcio,5,1,H,3,1,H
+ITA,2007-12-23,14:00,Inter,AC Milan,2,1,H,1,1,D
+ITA,2007-12-23,14:00,Juventus,AC Siena,2,0,H,1,0,H
+ITA,2007-12-23,14:00,AS Livorno,Atalanta,1,1,D,1,1,D
+ITA,2007-12-23,14:00,SSC Napoli,Torino FC,1,1,D,0,1,A
+ITA,2007-12-23,14:00,US Palermo,Lazio Roma,2,2,D,1,0,H
+ITA,2007-12-23,14:00,Reggina Calcio,Calcio Catania,3,1,H,1,0,H
+ITA,2007-12-23,14:00,Udinese Calcio,Empoli FC,2,2,D,1,0,H
+ITA,2008-01-12,17:00,Empoli FC,Reggina Calcio,1,1,D,1,1,D
+ITA,2008-01-12,19:30,Calcio Catania,Juventus,1,1,D,1,0,H
+ITA,2008-01-13,14:00,Atalanta,AS Roma,1,2,A,1,2,A
+ITA,2008-01-13,14:00,Cagliari Calcio,Udinese Calcio,0,1,A,0,1,A
+ITA,2008-01-13,14:00,Lazio Roma,Genoa CFC,1,2,A,1,0,H
+ITA,2008-01-13,14:00,Parma FC,ACF Fiorentina,1,2,A,0,1,A
+ITA,2008-01-13,14:00,Sampdoria,US Palermo,3,0,H,2,0,H
+ITA,2008-01-13,14:00,AC Siena,Inter,2,3,A,1,2,A
+ITA,2008-01-13,14:00,Torino FC,AS Livorno,1,2,A,0,2,A
+ITA,2008-01-13,19:30,AC Milan,SSC Napoli,5,2,H,2,2,D
+ITA,2008-01-19,17:00,Genoa CFC,Atalanta,2,1,H,0,0,D
+ITA,2008-01-19,19:30,ACF Fiorentina,Torino FC,2,1,H,1,0,H
+ITA,2008-01-20,14:00,Juventus,Sampdoria,0,0,D,0,0,D
+ITA,2008-01-20,14:00,AS Livorno,Empoli FC,1,0,H,0,0,D
+ITA,2008-01-20,14:00,SSC Napoli,Lazio Roma,2,2,D,1,2,A
+ITA,2008-01-20,14:00,US Palermo,AC Siena,2,3,A,1,2,A
+ITA,2008-01-20,14:00,Reggina Calcio,Cagliari Calcio,2,0,H,0,0,D
+ITA,2008-01-20,14:00,AS Roma,Calcio Catania,2,0,H,1,0,H
+ITA,2008-01-20,14:00,Udinese Calcio,AC Milan,0,1,A,0,0,D
+ITA,2008-01-20,19:30,Inter,Parma FC,3,2,H,1,1,D
+ITA,2008-01-23,19:30,Atalanta,AC Milan,2,1,H,1,1,D
+ITA,2008-01-26,17:00,Sampdoria,AC Siena,1,0,H,1,0,H
+ITA,2008-01-26,19:30,AS Roma,US Palermo,1,0,H,0,0,D
+ITA,2008-01-27,14:00,Empoli FC,ACF Fiorentina,0,2,A,0,0,D
+ITA,2008-01-27,14:00,AC Milan,Genoa CFC,2,0,H,0,0,D
+ITA,2008-01-27,14:00,Udinese Calcio,Inter,0,0,D,0,0,D
+ITA,2008-01-27,14:00,Torino FC,Lazio Roma,0,0,D,0,0,D
+ITA,2008-01-27,14:00,Cagliari Calcio,SSC Napoli,2,1,H,0,0,D
+ITA,2008-01-27,14:00,Calcio Catania,Parma FC,0,0,D,0,0,D
+ITA,2008-01-27,14:00,Atalanta,Reggina Calcio,2,2,D,1,0,H
+ITA,2008-01-27,19:30,AS Livorno,Juventus,1,3,A,0,1,A
+ITA,2008-01-30,19:30,Reggina Calcio,AC Milan,0,1,A,0,1,A
+ITA,2008-02-02,17:00,US Palermo,AS Livorno,1,0,H,0,0,D
+ITA,2008-02-02,19:30,SSC Napoli,Udinese Calcio,3,1,H,1,1,D
+ITA,2008-02-03,14:00,Parma FC,Atalanta,2,3,A,1,1,D
+ITA,2008-02-03,14:00,Juventus,Cagliari Calcio,1,1,D,0,0,D
+ITA,2008-02-03,14:00,Genoa CFC,Calcio Catania,2,1,H,1,0,H
+ITA,2008-02-03,14:00,Inter,Empoli FC,1,0,H,1,0,H
+ITA,2008-02-03,14:00,AC Siena,AS Roma,3,0,H,2,0,H
+ITA,2008-02-03,14:00,Lazio Roma,Sampdoria,2,1,H,1,1,D
+ITA,2008-02-03,14:00,Reggina Calcio,Torino FC,1,3,A,0,2,A
+ITA,2008-02-03,19:30,ACF Fiorentina,AC Milan,0,1,A,0,0,D
+ITA,2008-02-09,17:00,Atalanta,ACF Fiorentina,2,2,D,1,1,D
+ITA,2008-02-09,19:30,AS Roma,Reggina Calcio,2,0,H,1,0,H
+ITA,2008-02-10,14:00,AS Livorno,Genoa CFC,1,1,D,1,0,H
+ITA,2008-02-10,14:00,Udinese Calcio,Juventus,1,2,A,1,0,H
+ITA,2008-02-10,14:00,Empoli FC,Lazio Roma,1,0,H,1,0,H
+ITA,2008-02-10,14:00,Sampdoria,SSC Napoli,2,0,H,0,0,D
+ITA,2008-02-10,14:00,Torino FC,US Palermo,3,1,H,0,1,A
+ITA,2008-02-10,14:00,Cagliari Calcio,Parma FC,1,1,D,1,1,D
+ITA,2008-02-10,14:00,AC Milan,AC Siena,1,0,H,0,0,D
+ITA,2008-02-10,19:30,Calcio Catania,Inter,0,2,A,0,0,D
+ITA,2008-02-13,19:30,AC Milan,AS Livorno,1,1,D,0,0,D
+ITA,2008-02-16,15:00,Inter,AS Livorno,2,0,H,2,0,H
+ITA,2008-02-16,17:00,Parma FC,AC Milan,0,0,D,0,0,D
+ITA,2008-02-16,19:30,Juventus,AS Roma,1,0,H,1,0,H
+ITA,2008-02-17,14:00,Lazio Roma,Atalanta,3,0,H,1,0,H
+ITA,2008-02-17,14:00,US Palermo,Cagliari Calcio,2,1,H,2,0,H
+ITA,2008-02-17,14:00,ACF Fiorentina,Calcio Catania,2,1,H,1,0,H
+ITA,2008-02-17,14:00,SSC Napoli,Empoli FC,1,3,A,1,1,D
+ITA,2008-02-17,14:00,Genoa CFC,Sampdoria,0,1,A,0,0,D
+ITA,2008-02-17,14:00,AC Siena,Torino FC,0,0,D,0,0,D
+ITA,2008-02-17,14:00,Reggina Calcio,Udinese Calcio,1,3,A,0,1,A
+ITA,2008-02-23,17:00,Torino FC,Parma FC,4,4,D,2,4,A
+ITA,2008-02-23,19:30,Reggina Calcio,Juventus,2,1,H,1,0,H
+ITA,2008-02-24,14:00,Empoli FC,Calcio Catania,2,0,H,1,0,H
+ITA,2008-02-24,14:00,AS Roma,ACF Fiorentina,1,0,H,0,0,D
+ITA,2008-02-24,14:00,Udinese Calcio,Genoa CFC,3,5,A,2,2,D
+ITA,2008-02-24,14:00,Sampdoria,Inter,1,1,D,0,0,D
+ITA,2008-02-24,14:00,Cagliari Calcio,Lazio Roma,1,0,H,0,0,D
+ITA,2008-02-24,14:00,AS Livorno,SSC Napoli,1,2,A,0,0,D
+ITA,2008-02-24,14:00,Atalanta,AC Siena,2,2,D,2,2,D
+ITA,2008-02-24,19:30,AC Milan,US Palermo,2,1,H,1,1,D
+ITA,2008-02-26,19:30,Juventus,Torino FC,0,0,D,0,0,D
+ITA,2008-02-27,19:30,AC Siena,Cagliari Calcio,1,0,H,0,0,D
+ITA,2008-02-27,19:30,US Palermo,Empoli FC,2,0,H,2,0,H
+ITA,2008-02-27,19:30,ACF Fiorentina,AS Livorno,1,0,H,0,0,D
+ITA,2008-02-27,19:30,Calcio Catania,AC Milan,1,1,D,0,0,D
+ITA,2008-02-27,19:30,Genoa CFC,SSC Napoli,2,0,H,1,0,H
+ITA,2008-02-27,19:30,Lazio Roma,Reggina Calcio,1,0,H,1,0,H
+ITA,2008-02-27,19:30,Inter,AS Roma,1,1,D,0,1,A
+ITA,2008-02-27,19:30,Atalanta,Sampdoria,4,1,H,3,1,H
+ITA,2008-02-27,19:30,Parma FC,Udinese Calcio,2,0,H,0,0,D
+ITA,2008-03-01,17:00,AS Roma,Parma FC,4,0,H,1,0,H
+ITA,2008-03-01,19:30,AC Milan,Lazio Roma,1,1,D,0,0,D
+ITA,2008-03-02,14:00,Udinese Calcio,Atalanta,2,0,H,2,0,H
+ITA,2008-03-02,14:00,AS Livorno,Calcio Catania,1,0,H,0,0,D
+ITA,2008-03-02,14:00,Juventus,ACF Fiorentina,2,3,A,1,1,D
+ITA,2008-03-02,14:00,Cagliari Calcio,Genoa CFC,2,1,H,2,1,H
+ITA,2008-03-02,14:00,Reggina Calcio,US Palermo,0,0,D,0,0,D
+ITA,2008-03-02,14:00,Empoli FC,AC Siena,0,2,A,0,1,A
+ITA,2008-03-02,14:00,Sampdoria,Torino FC,2,2,D,1,1,D
+ITA,2008-03-02,19:30,SSC Napoli,Inter,1,0,H,1,0,H
+ITA,2008-03-08,17:00,Inter,Reggina Calcio,2,0,H,2,0,H
+ITA,2008-03-08,19:30,US Palermo,Udinese Calcio,1,1,D,1,0,H
+ITA,2008-03-09,14:00,Torino FC,Atalanta,1,0,H,1,0,H
+ITA,2008-03-09,14:00,Calcio Catania,Cagliari Calcio,2,1,H,1,1,D
+ITA,2008-03-09,14:00,AC Siena,ACF Fiorentina,1,0,H,0,0,D
+ITA,2008-03-09,14:00,Lazio Roma,AS Livorno,2,0,H,2,0,H
+ITA,2008-03-09,14:00,Empoli FC,AC Milan,1,3,A,1,1,D
+ITA,2008-03-09,14:00,SSC Napoli,AS Roma,0,2,A,0,1,A
+ITA,2008-03-09,14:00,Parma FC,Sampdoria,1,2,A,0,1,A
+ITA,2008-03-09,19:30,Genoa CFC,Juventus,0,2,A,0,2,A
+ITA,2008-03-15,17:00,Udinese Calcio,Lazio Roma,2,2,D,0,1,A
+ITA,2008-03-15,19:30,AS Roma,AC Milan,2,1,H,0,0,D
+ITA,2008-03-16,14:00,Sampdoria,Calcio Catania,3,1,H,0,0,D
+ITA,2008-03-16,14:00,Atalanta,Empoli FC,4,1,H,2,0,H
+ITA,2008-03-16,14:00,ACF Fiorentina,Genoa CFC,3,1,H,2,0,H
+ITA,2008-03-16,14:00,Inter,US Palermo,2,1,H,2,1,H
+ITA,2008-03-16,14:00,AS Livorno,Parma FC,1,1,D,1,0,H
+ITA,2008-03-16,14:00,Reggina Calcio,AC Siena,4,0,H,3,0,H
+ITA,2008-03-16,14:00,Cagliari Calcio,Torino FC,3,0,H,2,0,H
+ITA,2008-03-16,19:30,Juventus,SSC Napoli,1,0,H,0,0,D
+ITA,2008-03-19,19:30,Cagliari Calcio,Atalanta,1,0,H,1,0,H
+ITA,2008-03-19,19:30,SSC Napoli,ACF Fiorentina,2,0,H,2,0,H
+ITA,2008-03-19,19:30,Genoa CFC,Inter,1,1,D,0,1,A
+ITA,2008-03-19,19:30,Empoli FC,Juventus,0,0,D,0,0,D
+ITA,2008-03-19,19:30,Parma FC,US Palermo,2,1,H,0,0,D
+ITA,2008-03-19,19:30,AS Livorno,Reggina Calcio,1,1,D,0,1,A
+ITA,2008-03-19,19:30,AC Milan,Sampdoria,1,2,A,0,2,A
+ITA,2008-03-19,19:30,Calcio Catania,AC Siena,0,0,D,0,0,D
+ITA,2008-03-19,19:30,Torino FC,Udinese Calcio,0,1,A,0,1,A
+ITA,2008-03-19,20:15,Lazio Roma,AS Roma,3,2,H,1,1,D
+ITA,2008-03-22,14:00,Sampdoria,Cagliari Calcio,1,1,D,0,1,A
+ITA,2008-03-22,14:00,Atalanta,Calcio Catania,0,0,D,0,0,D
+ITA,2008-03-22,14:00,AS Roma,Empoli FC,2,1,H,1,0,H
+ITA,2008-03-22,14:00,US Palermo,Genoa CFC,2,3,A,1,1,D
+ITA,2008-03-22,14:00,ACF Fiorentina,Lazio Roma,1,0,H,0,0,D
+ITA,2008-03-22,14:00,Udinese Calcio,AS Livorno,2,0,H,1,0,H
+ITA,2008-03-22,14:00,Torino FC,AC Milan,0,1,A,0,0,D
+ITA,2008-03-22,14:00,Reggina Calcio,SSC Napoli,1,1,D,0,0,D
+ITA,2008-03-22,14:00,AC Siena,Parma FC,2,0,H,0,0,D
+ITA,2008-03-22,19:30,Inter,Juventus,1,2,A,0,0,D
+ITA,2008-03-29,17:00,Cagliari Calcio,AS Roma,1,1,D,1,1,D
+ITA,2008-03-29,19:30,Lazio Roma,Inter,1,1,D,0,1,A
+ITA,2008-03-30,14:00,AC Milan,Atalanta,1,2,A,0,2,A
+ITA,2008-03-30,14:00,Udinese Calcio,ACF Fiorentina,3,1,H,1,0,H
+ITA,2008-03-30,14:00,Genoa CFC,Reggina Calcio,2,0,H,0,0,D
+ITA,2008-03-30,14:00,Empoli FC,Sampdoria,0,2,A,0,2,A
+ITA,2008-03-30,14:00,AS Livorno,AC Siena,0,0,D,0,0,D
+ITA,2008-03-30,14:00,Calcio Catania,Torino FC,1,2,A,1,1,D
+ITA,2008-03-30,19:30,SSC Napoli,US Palermo,1,0,H,0,0,D
+ITA,2008-04-05,17:00,AS Roma,Genoa CFC,3,2,H,2,0,H
+ITA,2008-04-05,19:30,AC Milan,Cagliari Calcio,3,1,H,2,0,H
+ITA,2008-04-06,14:00,Torino FC,Empoli FC,0,1,A,0,0,D
+ITA,2008-04-06,14:00,Atalanta,Inter,0,2,A,0,1,A
+ITA,2008-04-06,14:00,Parma FC,Lazio Roma,2,2,D,2,2,D
+ITA,2008-04-06,14:00,Sampdoria,AS Livorno,2,0,H,0,0,D
+ITA,2008-04-06,14:00,Calcio Catania,SSC Napoli,3,0,H,2,0,H
+ITA,2008-04-06,14:00,ACF Fiorentina,Reggina Calcio,2,0,H,1,0,H
+ITA,2008-04-06,14:00,AC Siena,Udinese Calcio,1,1,D,0,0,D
+ITA,2008-04-06,19:30,US Palermo,Juventus,3,2,H,2,0,H
+ITA,2008-04-12,17:00,US Palermo,Calcio Catania,1,0,H,0,0,D
+ITA,2008-04-12,19:30,Juventus,AC Milan,3,2,H,2,2,D
+ITA,2008-04-13,14:00,SSC Napoli,Atalanta,2,0,H,0,0,D
+ITA,2008-04-13,14:00,AS Livorno,Cagliari Calcio,1,2,A,1,1,D
+ITA,2008-04-13,14:00,Empoli FC,Parma FC,1,1,D,1,1,D
+ITA,2008-04-13,14:00,Udinese Calcio,AS Roma,1,3,A,0,0,D
+ITA,2008-04-13,14:00,Reggina Calcio,Sampdoria,1,0,H,1,0,H
+ITA,2008-04-13,14:00,Lazio Roma,AC Siena,1,1,D,1,0,H
+ITA,2008-04-13,14:00,Genoa CFC,Torino FC,3,0,H,0,0,D
+ITA,2008-04-13,19:30,Inter,ACF Fiorentina,2,0,H,0,0,D
+ITA,2008-04-16,20:00,Juventus,Parma FC,3,0,H,2,0,H
+ITA,2008-04-19,17:00,AS Roma,AS Livorno,1,1,D,0,0,D
+ITA,2008-04-19,19:30,ACF Fiorentina,US Palermo,1,0,H,1,0,H
+ITA,2008-04-20,14:00,Cagliari Calcio,Empoli FC,2,0,H,1,0,H
+ITA,2008-04-20,14:00,AC Siena,Genoa CFC,0,1,A,0,1,A
+ITA,2008-04-20,14:00,Atalanta,Juventus,0,4,A,0,3,A
+ITA,2008-04-20,14:00,Calcio Catania,Lazio Roma,1,0,H,1,0,H
+ITA,2008-04-20,14:00,Parma FC,SSC Napoli,1,2,A,1,1,D
+ITA,2008-04-20,14:00,AC Milan,Reggina Calcio,5,1,H,2,1,H
+ITA,2008-04-20,14:00,Sampdoria,Udinese Calcio,3,0,H,2,0,H
+ITA,2008-04-20,19:30,Torino FC,Inter,0,1,A,0,1,A
+ITA,2008-04-27,14:00,US Palermo,Atalanta,0,0,D,0,0,D
+ITA,2008-04-27,14:00,Inter,Cagliari Calcio,2,1,H,1,0,H
+ITA,2008-04-27,14:00,Udinese Calcio,Calcio Catania,2,1,H,2,1,H
+ITA,2008-04-27,14:00,Genoa CFC,Empoli FC,0,1,A,0,1,A
+ITA,2008-04-27,14:00,Juventus,Lazio Roma,5,2,H,4,0,H
+ITA,2008-04-27,14:00,AS Livorno,AC Milan,1,4,A,0,1,A
+ITA,2008-04-27,14:00,Reggina Calcio,Parma FC,2,1,H,0,1,A
+ITA,2008-04-27,14:00,ACF Fiorentina,Sampdoria,2,2,D,0,0,D
+ITA,2008-04-27,14:00,SSC Napoli,AC Siena,0,0,D,0,0,D
+ITA,2008-04-27,14:00,AS Roma,Torino FC,4,1,H,4,0,H
+ITA,2008-05-04,14:00,Cagliari Calcio,ACF Fiorentina,2,1,H,1,0,H
+ITA,2008-05-04,14:00,Parma FC,Genoa CFC,1,0,H,0,0,D
+ITA,2008-05-04,14:00,AC Milan,Inter,2,1,H,0,0,D
+ITA,2008-05-04,14:00,AC Siena,Juventus,1,0,H,1,0,H
+ITA,2008-05-04,14:00,Atalanta,AS Livorno,3,2,H,0,0,D
+ITA,2008-05-04,14:00,Torino FC,SSC Napoli,2,1,H,1,0,H
+ITA,2008-05-04,14:00,Lazio Roma,US Palermo,1,2,A,1,0,H
+ITA,2008-05-04,14:00,Calcio Catania,Reggina Calcio,1,2,A,0,1,A
+ITA,2008-05-04,14:00,Sampdoria,AS Roma,0,3,A,0,0,D
+ITA,2008-05-04,14:00,Empoli FC,Udinese Calcio,0,1,A,0,1,A
+ITA,2008-05-11,14:00,AS Roma,Atalanta,2,1,H,1,0,H
+ITA,2008-05-11,14:00,Udinese Calcio,Cagliari Calcio,0,2,A,0,0,D
+ITA,2008-05-11,14:00,Juventus,Calcio Catania,1,1,D,0,0,D
+ITA,2008-05-11,14:00,Reggina Calcio,Empoli FC,2,0,H,0,0,D
+ITA,2008-05-11,14:00,Genoa CFC,Lazio Roma,0,2,A,0,2,A
+ITA,2008-05-11,14:00,SSC Napoli,AC Milan,3,1,H,1,0,H
+ITA,2008-05-11,14:00,ACF Fiorentina,Parma FC,3,1,H,1,1,D
+ITA,2008-05-11,14:00,US Palermo,Sampdoria,0,2,A,0,0,D
+ITA,2008-05-11,14:00,Inter,AC Siena,2,2,D,2,1,H
+ITA,2008-05-11,14:00,AS Livorno,Torino FC,0,1,A,0,1,A
+ITA,2008-05-17,14:00,Sampdoria,Juventus,3,3,D,2,2,D
+ITA,2008-05-18,14:00,Torino FC,ACF Fiorentina,0,1,A,0,0,D
+ITA,2008-05-18,14:00,Atalanta,Genoa CFC,2,0,H,1,0,H
+ITA,2008-05-18,14:00,Parma FC,Inter,0,2,A,0,0,D
+ITA,2008-05-18,14:00,Empoli FC,AS Livorno,2,1,H,1,0,H
+ITA,2008-05-18,14:00,Lazio Roma,SSC Napoli,2,1,H,1,0,H
+ITA,2008-05-18,14:00,AC Siena,US Palermo,2,2,D,1,2,A
+ITA,2008-05-18,14:00,Cagliari Calcio,Reggina Calcio,2,2,D,1,0,H
+ITA,2008-05-18,14:00,Calcio Catania,AS Roma,1,1,D,0,1,A
+ITA,2008-05-18,14:00,AC Milan,Udinese Calcio,4,1,H,0,1,A

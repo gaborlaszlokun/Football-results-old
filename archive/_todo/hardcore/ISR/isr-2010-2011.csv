@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISR,2010-08-21,14:45,Hapoel Ashkelon,Hapoel Petach-Tikva,3,1,H,1,0,H
+ISR,2010-08-21,16:00,Hapoel Haifa,Hapoel Tel Aviv,1,0,H,0,0,D
+ISR,2010-08-21,17:00,Bnei Yehuda Tel Aviv,Hapoel Ramat Gan,0,0,D,0,0,D
+ISR,2010-08-21,17:00,Hapoel Acre FC,FC Ashdod,1,2,A,0,2,A
+ISR,2010-08-21,18:00,Ironi Kiryat Shmona,Bnei Sachnin FC,2,0,H,1,0,H
+ISR,2010-08-21,18:00,Maccabi Netanya,Beitar Jerusalem,4,1,H,2,1,H
+ISR,2010-08-22,18:00,Maccabi Tel Aviv,Maccabi Haifa,0,1,A,0,1,A
+ISR,2010-08-23,18:00,Maccabi Petach-Tikva,Hapoel Be'er Sheva,0,1,A,0,0,D
+ISR,2010-08-28,15:00,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,0,1,A,0,0,D
+ISR,2010-08-28,15:15,Maccabi Haifa,Maccabi Petach-Tikva,1,0,H,1,0,H
+ISR,2010-08-28,17:30,Hapoel Ramat Gan,Hapoel Haifa,1,2,A,1,1,D
+ISR,2010-08-28,17:30,Hapoel Tel Aviv,Hapoel Ashkelon,5,1,H,4,0,H
+ISR,2010-08-28,17:30,Hapoel Petach-Tikva,Hapoel Acre FC,2,2,D,0,1,A
+ISR,2010-08-28,17:30,FC Ashdod,Ironi Kiryat Shmona,2,2,D,1,1,D
+ISR,2010-08-28,18:00,Bnei Sachnin FC,Maccabi Netanya,1,1,D,0,1,A
+ISR,2010-08-29,18:00,Beitar Jerusalem,Maccabi Tel Aviv,0,1,A,0,0,D
+ISR,2010-09-11,14:00,Hapoel Ashkelon,Hapoel Ramat Gan,1,1,D,1,0,H
+ISR,2010-09-11,15:00,Hapoel Acre FC,Hapoel Tel Aviv,2,2,D,1,0,H
+ISR,2010-09-11,17:00,Ironi Kiryat Shmona,Hapoel Petach-Tikva,3,1,H,1,1,D
+ISR,2010-09-11,17:00,Maccabi Netanya,FC Ashdod,2,0,H,0,0,D
+ISR,2010-09-11,17:00,Maccabi Petach-Tikva,Beitar Jerusalem,2,1,H,0,0,D
+ISR,2010-09-11,17:30,Maccabi Tel Aviv,Bnei Sachnin FC,4,0,H,2,0,H
+ISR,2010-09-12,19:00,Hapoel Haifa,Bnei Yehuda Tel Aviv,2,0,H,1,0,H
+ISR,2010-09-13,19:00,Hapoel Be'er Sheva,Maccabi Haifa,1,1,D,0,0,D
+ISR,2010-09-25,14:00,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,4,A,1,2,A
+ISR,2010-09-25,16:15,Beitar Jerusalem,Hapoel Be'er Sheva,5,1,H,3,1,H
+ISR,2010-09-25,18:00,Hapoel Haifa,Hapoel Ashkelon,1,2,A,1,1,D
+ISR,2010-09-25,18:00,Hapoel Petach-Tikva,Maccabi Netanya,1,1,D,0,0,D
+ISR,2010-09-25,18:00,Bnei Sachnin FC,Maccabi Petach-Tikva,2,3,A,0,2,A
+ISR,2010-09-25,18:30,Bnei Yehuda Tel Aviv,Maccabi Haifa,2,3,A,1,2,A
+ISR,2010-09-26,18:30,Hapoel Ramat Gan,Hapoel Acre FC,3,2,H,0,0,D
+ISR,2010-09-27,19:45,FC Ashdod,Maccabi Tel Aviv,1,2,A,0,1,A
+ISR,2010-10-02,13:30,Hapoel Ashkelon,Bnei Yehuda Tel Aviv,0,0,D,0,0,D
+ISR,2010-10-02,17:10,Maccabi Tel Aviv,Hapoel Petach-Tikva,2,1,H,0,0,D
+ISR,2010-10-02,18:00,Hapoel Acre FC,Hapoel Haifa,2,1,H,1,0,H
+ISR,2010-10-02,18:00,Maccabi Petach-Tikva,FC Ashdod,2,2,D,2,1,H
+ISR,2010-10-02,18:00,Hapoel Be'er Sheva,Bnei Sachnin FC,1,0,H,0,0,D
+ISR,2010-10-02,18:30,Maccabi Netanya,Hapoel Tel Aviv,1,3,A,0,1,A
+ISR,2010-10-03,19:45,Maccabi Haifa,Beitar Jerusalem,3,3,D,1,1,D
+ISR,2010-10-04,19:00,Ironi Kiryat Shmona,Hapoel Ramat Gan,1,0,H,1,0,H
+ISR,2010-10-16,17:30,Hapoel Ashkelon,Hapoel Acre FC,0,0,D,0,0,D
+ISR,2010-10-16,17:30,Hapoel Haifa,Ironi Kiryat Shmona,1,4,A,0,2,A
+ISR,2010-10-16,17:30,Hapoel Ramat Gan,Maccabi Netanya,0,1,A,0,0,D
+ISR,2010-10-16,17:30,Hapoel Petach-Tikva,Maccabi Petach-Tikva,1,4,A,0,4,A
+ISR,2010-10-16,17:30,Bnei Sachnin FC,Maccabi Haifa,1,2,A,1,1,D
+ISR,2010-10-16,20:00,Hapoel Tel Aviv,Maccabi Tel Aviv,1,0,H,1,0,H
+ISR,2010-10-17,19:00,FC Ashdod,Hapoel Be'er Sheva,0,3,A,2,2,D
+ISR,2010-10-18,19:00,Bnei Yehuda Tel Aviv,Beitar Jerusalem,2,1,H,0,1,A
+ISR,2010-10-23,16:00,Maccabi Tel Aviv,Hapoel Ramat Gan,2,0,H,2,0,H
+ISR,2010-10-23,18:00,Hapoel Acre FC,Bnei Yehuda Tel Aviv,3,1,H,0,1,A
+ISR,2010-10-23,18:00,Ironi Kiryat Shmona,Hapoel Ashkelon,2,2,D,2,2,D
+ISR,2010-10-23,18:00,Maccabi Netanya,Hapoel Haifa,1,1,D,1,0,H
+ISR,2010-10-23,18:00,Hapoel Be'er Sheva,Hapoel Petach-Tikva,0,0,D,0,0,D
+ISR,2010-10-23,18:15,Maccabi Haifa,FC Ashdod,1,1,D,0,0,D
+ISR,2010-10-24,19:00,Maccabi Petach-Tikva,Hapoel Tel Aviv,1,2,A,0,0,D
+ISR,2010-10-25,19:45,Beitar Jerusalem,Bnei Sachnin FC,0,0,D,0,0,D
+ISR,2010-10-30,16:10,FC Ashdod,Beitar Jerusalem,3,0,H,0,0,D
+ISR,2010-10-30,18:00,Hapoel Acre FC,Ironi Kiryat Shmona,3,0,H,1,0,H
+ISR,2010-10-30,18:00,Hapoel Ashkelon,Maccabi Netanya,0,4,A,0,3,A
+ISR,2010-10-30,18:00,Hapoel Ramat Gan,Maccabi Petach-Tikva,0,2,A,0,0,D
+ISR,2010-10-30,18:00,Bnei Yehuda Tel Aviv,Bnei Sachnin FC,2,0,H,0,0,D
+ISR,2010-10-30,18:30,Hapoel Tel Aviv,Hapoel Be'er Sheva,3,2,H,1,0,H
+ISR,2010-10-31,18:00,Hapoel Petach-Tikva,Maccabi Haifa,0,1,A,0,0,D
+ISR,2010-11-01,18:45,Hapoel Haifa,Maccabi Tel Aviv,0,0,D,0,0,D
+ISR,2010-11-06,16:45,Beitar Jerusalem,Hapoel Petach-Tikva,0,2,A,0,1,A
+ISR,2010-11-06,17:00,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,2,2,D,1,0,H
+ISR,2010-11-06,17:00,Maccabi Petach-Tikva,Hapoel Haifa,2,3,A,1,1,D
+ISR,2010-11-06,17:00,Hapoel Be'er Sheva,Hapoel Ramat Gan,2,0,H,2,0,H
+ISR,2010-11-06,17:00,Bnei Sachnin FC,FC Ashdod,0,2,A,0,1,A
+ISR,2010-11-06,17:30,Maccabi Tel Aviv,Hapoel Ashkelon,2,0,H,0,0,D
+ISR,2010-11-07,18:10,Maccabi Netanya,Hapoel Acre FC,1,3,A,1,2,A
+ISR,2010-11-08,18:45,Maccabi Haifa,Hapoel Tel Aviv,0,2,A,0,0,D
+ISR,2010-11-13,15:00,Hapoel Acre FC,Maccabi Tel Aviv,3,1,H,1,0,H
+ISR,2010-11-13,17:00,Ironi Kiryat Shmona,Maccabi Netanya,3,0,H,1,0,H
+ISR,2010-11-13,17:00,Hapoel Ashkelon,Maccabi Petach-Tikva,0,1,A,0,0,D
+ISR,2010-11-13,17:00,Hapoel Haifa,Hapoel Be'er Sheva,1,1,D,0,1,A
+ISR,2010-11-13,17:00,Bnei Yehuda Tel Aviv,FC Ashdod,0,0,D,0,0,D
+ISR,2010-11-13,17:30,Hapoel Ramat Gan,Maccabi Haifa,1,3,A,0,2,A
+ISR,2010-11-14,18:45,Hapoel Tel Aviv,Beitar Jerusalem,0,0,D,0,0,D
+ISR,2010-11-15,18:00,Hapoel Petach-Tikva,Bnei Sachnin FC,0,1,A,0,0,D
+ISR,2010-11-20,15:00,Bnei Sachnin FC,Hapoel Tel Aviv,1,3,A,0,0,D
+ISR,2010-11-20,17:00,Maccabi Netanya,Bnei Yehuda Tel Aviv,0,0,D,0,0,D
+ISR,2010-11-20,17:00,Maccabi Petach-Tikva,Hapoel Acre FC,1,1,D,1,0,H
+ISR,2010-11-20,17:00,Beitar Jerusalem,Hapoel Ramat Gan,3,2,H,1,2,A
+ISR,2010-11-20,17:00,FC Ashdod,Hapoel Petach-Tikva,1,2,A,0,0,D
+ISR,2010-11-20,17:30,Maccabi Tel Aviv,Ironi Kiryat Shmona,0,1,A,0,1,A
+ISR,2010-11-21,18:00,Hapoel Be'er Sheva,Hapoel Ashkelon,1,0,H,0,0,D
+ISR,2010-11-22,18:45,Maccabi Haifa,Hapoel Haifa,0,0,D,0,0,D
+ISR,2010-11-27,15:10,Hapoel Ashkelon,Maccabi Haifa,0,3,A,0,1,A
+ISR,2010-11-27,17:00,Ironi Kiryat Shmona,Maccabi Petach-Tikva,2,2,D,1,0,H
+ISR,2010-11-27,17:00,Hapoel Acre FC,Hapoel Be'er Sheva,2,3,A,1,3,A
+ISR,2010-11-27,17:00,Hapoel Ramat Gan,Bnei Sachnin FC,1,2,A,1,1,D
+ISR,2010-11-27,17:00,Bnei Yehuda Tel Aviv,Hapoel Petach-Tikva,2,0,H,1,0,H
+ISR,2010-11-27,17:30,Hapoel Haifa,Beitar Jerusalem,0,2,A,0,2,A
+ISR,2010-11-28,18:10,Hapoel Tel Aviv,FC Ashdod,0,2,A,0,0,D
+ISR,2010-11-29,18:45,Maccabi Netanya,Maccabi Tel Aviv,0,2,A,0,2,A
+ISR,2010-12-04,15:15,Hapoel Petach-Tikva,Hapoel Tel Aviv,1,5,A,1,3,A
+ISR,2010-12-04,17:00,Beitar Jerusalem,Hapoel Ashkelon,4,0,H,1,0,H
+ISR,2010-12-04,17:00,Bnei Sachnin FC,Hapoel Haifa,1,3,A,0,1,A
+ISR,2010-12-04,17:00,FC Ashdod,Hapoel Ramat Gan,2,2,D,0,1,A
+ISR,2010-12-04,17:45,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,0,H,0,0,D
+ISR,2010-12-05,18:00,Maccabi Petach-Tikva,Maccabi Netanya,2,0,H,1,0,H
+ISR,2010-12-06,16:45,Maccabi Haifa,Hapoel Acre FC,3,1,H,0,0,D
+ISR,2010-12-06,18:45,Hapoel Be'er Sheva,Ironi Kiryat Shmona,1,1,D,0,0,D
+ISR,2010-12-11,15:00,Maccabi Tel Aviv,Maccabi Petach-Tikva,1,1,D,0,1,A
+ISR,2010-12-11,17:00,Maccabi Netanya,Hapoel Be'er Sheva,1,0,H,0,0,D
+ISR,2010-12-11,17:00,Hapoel Ashkelon,Bnei Sachnin FC,1,0,H,0,0,D
+ISR,2010-12-11,17:00,Hapoel Haifa,FC Ashdod,2,0,H,1,0,H
+ISR,2010-12-11,17:00,Hapoel Ramat Gan,Hapoel Petach-Tikva,1,1,D,0,0,D
+ISR,2010-12-11,17:30,Hapoel Acre FC,Beitar Jerusalem,3,0,H,2,0,H
+ISR,2010-12-13,18:45,Ironi Kiryat Shmona,Maccabi Haifa,0,1,A,0,0,D
+ISR,2010-12-15,18:00,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,0,1,A,0,1,A
+ISR,2010-12-18,15:00,Maccabi Haifa,Maccabi Netanya,3,0,H,1,0,H
+ISR,2010-12-18,17:00,Maccabi Petach-Tikva,Bnei Yehuda Tel Aviv,3,0,H,3,0,H
+ISR,2010-12-18,17:00,Bnei Sachnin FC,Hapoel Acre FC,0,1,A,0,1,A
+ISR,2010-12-18,17:00,FC Ashdod,Hapoel Ashkelon,3,2,H,1,0,H
+ISR,2010-12-18,17:05,Hapoel Tel Aviv,Hapoel Ramat Gan,4,0,H,2,0,H
+ISR,2010-12-18,17:30,Beitar Jerusalem,Ironi Kiryat Shmona,1,0,H,0,0,D
+ISR,2010-12-19,17:30,Hapoel Petach-Tikva,Hapoel Haifa,2,0,H,1,0,H
+ISR,2010-12-20,18:45,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,1,A,0,0,D
+ISR,2011-01-01,15:10,Hapoel Tel Aviv,Hapoel Haifa,5,0,H,2,0,H
+ISR,2011-01-01,17:00,Hapoel Ramat Gan,Bnei Yehuda Tel Aviv,1,1,D,0,1,A
+ISR,2011-01-01,17:00,FC Ashdod,Hapoel Acre FC,3,1,H,1,1,D
+ISR,2011-01-01,17:00,Bnei Sachnin FC,Ironi Kiryat Shmona,1,0,H,1,0,H
+ISR,2011-01-01,17:00,Hapoel Be'er Sheva,Maccabi Petach-Tikva,2,1,H,0,1,A
+ISR,2011-01-01,17:30,Beitar Jerusalem,Maccabi Netanya,0,0,D,0,0,D
+ISR,2011-01-02,18:10,Hapoel Petach-Tikva,Hapoel Ashkelon,0,2,A,0,1,A
+ISR,2011-01-03,18:45,Maccabi Haifa,Maccabi Tel Aviv,3,0,H,2,0,H
+ISR,2011-01-08,15:10,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,0,0,D,0,0,D
+ISR,2011-01-08,17:00,Hapoel Haifa,Hapoel Ramat Gan,2,0,H,1,0,H
+ISR,2011-01-08,17:00,Hapoel Acre FC,Hapoel Petach-Tikva,3,0,H,3,0,H
+ISR,2011-01-08,17:00,Ironi Kiryat Shmona,FC Ashdod,3,0,H,0,0,D
+ISR,2011-01-08,17:00,Maccabi Netanya,Bnei Sachnin FC,1,0,H,1,0,H
+ISR,2011-01-08,17:30,Hapoel Ashkelon,Hapoel Tel Aviv,0,2,A,0,1,A
+ISR,2011-01-09,18:00,Maccabi Petach-Tikva,Maccabi Haifa,1,3,A,1,1,D
+ISR,2011-01-10,18:45,Maccabi Tel Aviv,Beitar Jerusalem,1,0,H,0,0,D
+ISR,2011-01-15,15:00,Bnei Sachnin FC,Maccabi Tel Aviv,1,3,A,0,1,A
+ISR,2011-01-15,17:00,Bnei Yehuda Tel Aviv,Hapoel Haifa,3,2,H,1,0,H
+ISR,2011-01-15,17:00,Hapoel Ramat Gan,Hapoel Ashkelon,0,4,A,0,2,A
+ISR,2011-01-15,17:00,Hapoel Petach-Tikva,Ironi Kiryat Shmona,1,3,A,1,0,H
+ISR,2011-01-15,17:00,Beitar Jerusalem,Maccabi Petach-Tikva,0,2,A,0,1,A
+ISR,2011-01-15,17:30,Maccabi Haifa,Hapoel Be'er Sheva,2,2,D,1,1,D
+ISR,2011-01-16,18:15,FC Ashdod,Maccabi Netanya,1,0,H,1,0,H
+ISR,2011-01-17,18:45,Hapoel Tel Aviv,Hapoel Acre FC,4,1,H,2,0,H
+ISR,2011-01-22,15:00,Hapoel Be'er Sheva,Beitar Jerusalem,1,2,A,1,0,H
+ISR,2011-01-22,17:00,Hapoel Ashkelon,Hapoel Haifa,0,0,D,0,0,D
+ISR,2011-01-22,17:00,Hapoel Acre FC,Hapoel Ramat Gan,0,0,D,0,0,D
+ISR,2011-01-22,17:00,Maccabi Netanya,Hapoel Petach-Tikva,3,3,D,1,3,A
+ISR,2011-01-22,17:00,Maccabi Haifa,Bnei Yehuda Tel Aviv,1,0,H,1,0,H
+ISR,2011-01-22,17:30,Maccabi Tel Aviv,FC Ashdod,4,1,H,1,0,H
+ISR,2011-01-23,17:45,Maccabi Petach-Tikva,Bnei Sachnin FC,1,2,A,0,1,A
+ISR,2011-01-24,18:45,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,1,D,0,1,A
+ISR,2011-01-29,13:00,Bnei Yehuda Tel Aviv,Hapoel Ashkelon,2,0,H,0,0,D
+ISR,2011-01-29,15:10,Hapoel Petach-Tikva,Maccabi Tel Aviv,0,1,A,0,0,D
+ISR,2011-01-29,17:00,Hapoel Haifa,Hapoel Acre FC,1,1,D,0,1,A
+ISR,2011-01-29,17:00,Hapoel Ramat Gan,Ironi Kiryat Shmona,0,3,A,0,3,A
+ISR,2011-01-29,17:00,FC Ashdod,Maccabi Petach-Tikva,1,3,A,0,0,D
+ISR,2011-01-29,17:00,Bnei Sachnin FC,Hapoel Be'er Sheva,1,1,D,1,0,H
+ISR,2011-01-29,17:30,Hapoel Tel Aviv,Maccabi Netanya,2,1,H,1,0,H
+ISR,2011-01-30,18:45,Beitar Jerusalem,Maccabi Haifa,0,0,D,0,0,D
+ISR,2011-02-05,15:00,Hapoel Be'er Sheva,FC Ashdod,5,0,H,3,0,H
+ISR,2011-02-05,15:00,Maccabi Haifa,Bnei Sachnin FC,1,0,H,0,0,D
+ISR,2011-02-05,17:00,Hapoel Acre FC,Hapoel Ashkelon,1,0,H,0,0,D
+ISR,2011-02-05,17:00,Ironi Kiryat Shmona,Hapoel Haifa,1,3,A,1,2,A
+ISR,2011-02-05,17:00,Maccabi Netanya,Hapoel Ramat Gan,2,0,H,0,0,D
+ISR,2011-02-05,17:00,Maccabi Petach-Tikva,Hapoel Petach-Tikva,2,3,A,2,2,D
+ISR,2011-02-05,17:10,Beitar Jerusalem,Bnei Yehuda Tel Aviv,1,1,D,0,1,A
+ISR,2011-02-06,18:45,Maccabi Tel Aviv,Hapoel Tel Aviv,1,1,D,0,1,A
+ISR,2011-02-12,15:00,Hapoel Ramat Gan,Maccabi Tel Aviv,0,3,A,0,0,D
+ISR,2011-02-12,17:00,Bnei Yehuda Tel Aviv,Hapoel Acre FC,1,0,H,1,0,H
+ISR,2011-02-12,17:00,Hapoel Haifa,Maccabi Netanya,1,2,A,1,0,H
+ISR,2011-02-12,17:00,Hapoel Petach-Tikva,Hapoel Be'er Sheva,3,1,H,1,0,H
+ISR,2011-02-12,17:05,FC Ashdod,Maccabi Haifa,1,2,A,1,1,D
+ISR,2011-02-12,17:20,Bnei Sachnin FC,Beitar Jerusalem,1,0,H,1,0,H
+ISR,2011-02-13,17:30,Hapoel Ashkelon,Ironi Kiryat Shmona,0,1,A,0,1,A
+ISR,2011-02-14,18:45,Hapoel Tel Aviv,Maccabi Petach-Tikva,2,0,H,0,0,D
+ISR,2011-02-19,15:00,Maccabi Tel Aviv,Hapoel Haifa,0,1,A,0,0,D
+ISR,2011-02-19,15:10,Beitar Jerusalem,FC Ashdod,0,0,D,0,0,D
+ISR,2011-02-19,17:00,Maccabi Netanya,Hapoel Ashkelon,3,0,H,1,0,H
+ISR,2011-02-19,17:00,Maccabi Petach-Tikva,Hapoel Ramat Gan,4,1,H,2,0,H
+ISR,2011-02-19,17:00,Bnei Sachnin FC,Bnei Yehuda Tel Aviv,0,1,A,0,0,D
+ISR,2011-02-19,17:30,Hapoel Be'er Sheva,Hapoel Tel Aviv,0,3,A,0,2,A
+ISR,2011-02-20,17:30,Ironi Kiryat Shmona,Hapoel Acre FC,2,2,D,2,1,H
+ISR,2011-02-21,18:45,Maccabi Haifa,Hapoel Petach-Tikva,2,0,H,1,0,H
+ISR,2011-02-26,15:00,Hapoel Ashkelon,Maccabi Tel Aviv,2,4,A,1,2,A
+ISR,2011-02-26,15:15,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,3,1,H,1,1,D
+ISR,2011-02-26,17:00,Hapoel Acre FC,Maccabi Netanya,0,0,D,0,0,D
+ISR,2011-02-26,17:00,Hapoel Haifa,Maccabi Petach-Tikva,1,1,D,0,0,D
+ISR,2011-02-26,17:00,Hapoel Ramat Gan,Hapoel Be'er Sheva,0,0,D,0,0,D
+ISR,2011-02-26,17:30,Hapoel Petach-Tikva,Beitar Jerusalem,1,0,H,1,0,H
+ISR,2011-02-26,17:30,FC Ashdod,Bnei Sachnin FC,0,0,D,0,0,D
+ISR,2011-02-27,18:45,Hapoel Tel Aviv,Maccabi Haifa,4,1,H,1,0,H
+ISR,2011-03-05,15:00,Hapoel Be'er Sheva,Hapoel Haifa,0,2,A,0,1,A
+ISR,2011-03-05,17:00,Maccabi Netanya,Ironi Kiryat Shmona,1,1,D,1,0,H
+ISR,2011-03-05,17:00,Maccabi Petach-Tikva,Hapoel Ashkelon,4,0,H,1,0,H
+ISR,2011-03-05,17:00,Bnei Sachnin FC,Hapoel Petach-Tikva,1,1,D,0,1,A
+ISR,2011-03-05,17:00,FC Ashdod,Bnei Yehuda Tel Aviv,1,2,A,1,2,A
+ISR,2011-03-05,17:30,Maccabi Tel Aviv,Hapoel Acre FC,2,2,D,1,0,H
+ISR,2011-03-06,18:00,Maccabi Haifa,Hapoel Ramat Gan,3,2,H,2,1,H
+ISR,2011-03-07,18:45,Beitar Jerusalem,Hapoel Tel Aviv,1,0,H,0,0,D
+ISR,2011-03-12,15:00,Hapoel Tel Aviv,Bnei Sachnin FC,1,0,H,0,0,D
+ISR,2011-03-12,15:20,Hapoel Ramat Gan,Beitar Jerusalem,0,0,D,0,0,D
+ISR,2011-03-12,17:00,Hapoel Acre FC,Maccabi Petach-Tikva,1,1,D,0,1,A
+ISR,2011-03-12,17:00,Hapoel Ashkelon,Hapoel Be'er Sheva,3,4,A,1,2,A
+ISR,2011-03-12,17:00,Hapoel Petach-Tikva,FC Ashdod,3,1,H,2,0,H
+ISR,2011-03-12,17:30,Ironi Kiryat Shmona,Maccabi Tel Aviv,4,0,H,3,0,H
+ISR,2011-03-13,17:30,Bnei Yehuda Tel Aviv,Maccabi Netanya,1,1,D,0,0,D
+ISR,2011-03-14,18:45,Hapoel Haifa,Maccabi Haifa,0,2,A,0,0,D
+ISR,2011-03-19,15:00,Maccabi Haifa,Hapoel Ashkelon,3,0,H,2,0,H
+ISR,2011-03-19,17:00,Maccabi Petach-Tikva,Ironi Kiryat Shmona,0,0,D,0,0,D
+ISR,2011-03-19,17:05,Beitar Jerusalem,Hapoel Haifa,1,0,H,0,0,D
+ISR,2011-03-19,17:30,Maccabi Tel Aviv,Maccabi Netanya,0,3,A,0,1,A
+ISR,2011-03-19,17:30,Hapoel Be'er Sheva,Hapoel Acre FC,0,2,A,0,1,A
+ISR,2011-03-20,17:00,Hapoel Petach-Tikva,Bnei Yehuda Tel Aviv,2,1,H,1,0,H
+ISR,2011-03-20,18:45,FC Ashdod,Hapoel Tel Aviv,3,3,D,3,0,H
+ISR,2011-03-21,17:30,Bnei Sachnin FC,Hapoel Ramat Gan,0,0,D,0,0,D
+ISR,2011-04-02,15:00,Hapoel Acre FC,Maccabi Haifa,0,2,A,0,0,D
+ISR,2011-04-02,17:00,Maccabi Netanya,Maccabi Petach-Tikva,2,2,D,1,1,D
+ISR,2011-04-02,17:00,Ironi Kiryat Shmona,Hapoel Be'er Sheva,1,0,H,1,0,H
+ISR,2011-04-02,17:00,Hapoel Ashkelon,Beitar Jerusalem,2,1,H,1,1,D
+ISR,2011-04-02,17:00,Hapoel Ramat Gan,FC Ashdod,1,2,A,0,0,D
+ISR,2011-04-02,17:30,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,2,0,H,0,0,D
+ISR,2011-04-03,17:30,Hapoel Haifa,Bnei Sachnin FC,4,1,H,1,0,H
+ISR,2011-04-04,18:45,Hapoel Tel Aviv,Hapoel Petach-Tikva,2,0,H,1,0,H
+ISR,2011-04-09,15:00,Maccabi Petach-Tikva,Maccabi Tel Aviv,2,2,D,1,1,D
+ISR,2011-04-09,17:00,Hapoel Be'er Sheva,Maccabi Netanya,1,2,A,0,1,A
+ISR,2011-04-09,17:00,Beitar Jerusalem,Hapoel Acre FC,2,0,H,1,0,H
+ISR,2011-04-09,17:00,Bnei Sachnin FC,Hapoel Ashkelon,2,0,H,2,0,H
+ISR,2011-04-09,17:00,FC Ashdod,Hapoel Haifa,0,0,D,0,0,D
+ISR,2011-04-09,17:30,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,0,1,A,0,0,D
+ISR,2011-04-10,17:30,Hapoel Petach-Tikva,Hapoel Ramat Gan,2,0,H,1,0,H
+ISR,2011-04-11,18:45,Maccabi Haifa,Ironi Kiryat Shmona,3,2,H,1,1,D
+ISR,2011-04-16,15:00,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,2,A,0,1,A
+ISR,2011-04-16,15:00,Ironi Kiryat Shmona,Beitar Jerusalem,0,1,A,0,1,A
+ISR,2011-04-16,15:00,Hapoel Ashkelon,FC Ashdod,4,1,H,0,0,D
+ISR,2011-04-16,15:00,Hapoel Haifa,Hapoel Petach-Tikva,3,2,H,1,1,D
+ISR,2011-04-16,17:00,Hapoel Acre FC,Bnei Sachnin FC,0,0,D,0,0,D
+ISR,2011-04-16,17:30,Hapoel Ramat Gan,Hapoel Tel Aviv,1,2,A,0,1,A
+ISR,2011-04-17,18:45,Bnei Yehuda Tel Aviv,Maccabi Petach-Tikva,2,0,H,1,0,H
+ISR,2011-04-17,18:45,Maccabi Netanya,Maccabi Haifa,1,1,D,0,0,D

@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+PER,2010-02-13,21:00,Universidad Cesar Vallejo,Sporting Cristal,2,3,A,1.0,1.0,D
+PER,2010-02-14,01:00,Sport Boys,José Gálvez,2,1,H,1.0,0.0,H
+PER,2010-02-14,17:00,Alianza Atlético,Cienciano,2,1,H,1.0,0.0,H
+PER,2010-02-14,18:15,Sport Huancayo,Total Chalaco,2,2,D,1.0,0.0,H
+PER,2010-02-14,19:00,León de Huánuco,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2010-02-14,20:30,Universidad San Martín,CN Iquitos,3,1,H,3.0,0.0,H
+PER,2010-02-14,21:30,Universitario de Deportes,Inti Gas,1,2,A,0.0,1.0,A
+PER,2010-02-15,01:00,FBC Melgar,Juan Aurich,1,1,D,0.0,1.0,A
+PER,2010-02-20,18:30,Inti Gas,León de Huánuco,1,2,A,0.0,0.0,D
+PER,2010-02-20,20:30,Sporting Cristal,FBC Melgar,3,1,H,3.0,0.0,H
+PER,2010-02-21,01:00,CN Iquitos,Sport Boys,3,1,H,1.0,1.0,D
+PER,2010-02-21,18:00,Total Chalaco,Universidad Cesar Vallejo,0,1,A,0.0,0.0,D
+PER,2010-02-21,18:15,Cienciano,Universidad San Martín,1,3,A,1.0,2.0,A
+PER,2010-02-21,20:30,Juan Aurich,Universitario de Deportes,2,1,H,1.0,1.0,D
+PER,2010-02-21,20:30,José Gálvez,Sport Huancayo,1,0,H,1.0,0.0,H
+PER,2010-02-21,23:00,Alianza Lima,Alianza Atlético,3,0,H,0.0,0.0,D
+PER,2010-02-27,18:30,Sport Huancayo,CN Iquitos,4,0,H,1.0,0.0,H
+PER,2010-02-27,21:00,Universidad Cesar Vallejo,José Gálvez,3,0,H,2.0,0.0,H
+PER,2010-02-28,00:00,Sport Boys,Cienciano,2,1,H,1.0,1.0,D
+PER,2010-02-28,18:15,León de Huánuco,Juan Aurich,1,0,H,1.0,0.0,H
+PER,2010-02-28,18:30,Alianza Atlético,Inti Gas,1,1,D,1.0,1.0,D
+PER,2010-02-28,20:30,FBC Melgar,Total Chalaco,1,1,D,1.0,0.0,H
+PER,2010-02-28,21:00,Universidad San Martín,Alianza Lima,0,1,A,0.0,0.0,D
+PER,2010-03-03,01:00,Universitario de Deportes,Sporting Cristal,1,2,A,1.0,1.0,D
+PER,2010-03-06,18:30,Inti Gas,Universidad San Martín,1,4,A,0.0,1.0,A
+PER,2010-03-06,22:30,Juan Aurich,Alianza Atlético,3,1,H,1.0,0.0,H
+PER,2010-03-06,23:00,Alianza Lima,Sport Boys,4,1,H,3.0,1.0,H
+PER,2010-03-07,01:00,CN Iquitos,Universidad Cesar Vallejo,2,4,A,2.0,2.0,D
+PER,2010-03-07,01:15,José Gálvez,FBC Melgar,1,1,D,1.0,1.0,D
+PER,2010-03-07,20:30,Cienciano,Sport Huancayo,2,1,H,1.0,0.0,H
+PER,2010-03-07,20:30,Sporting Cristal,León de Huánuco,1,0,H,0.0,0.0,D
+PER,2010-03-13,21:00,Universidad Cesar Vallejo,Cienciano,5,0,H,4.0,0.0,H
+PER,2010-03-13,23:15,Sport Boys,Inti Gas,1,1,D,0.0,0.0,D
+PER,2010-03-14,01:30,Universitario de Deportes,José Gálvez,1,0,H,0.0,0.0,D
+PER,2010-03-14,18:15,León de Huánuco,Total Chalaco,0,1,A,0.0,1.0,A
+PER,2010-03-14,20:30,FBC Melgar,CN Iquitos,1,1,D,0.0,0.0,D
+PER,2010-03-14,21:00,Alianza Atlético,Sporting Cristal,0,0,D,0.0,0.0,D
+PER,2010-03-20,01:00,CN Iquitos,Universitario de Deportes,0,2,A,0.0,1.0,A
+PER,2010-03-20,20:30,Inti Gas,Sport Huancayo,2,1,H,1.0,0.0,H
+PER,2010-03-20,23:00,Alianza Lima,Universidad Cesar Vallejo,0,2,A,0.0,1.0,A
+PER,2010-03-21,00:30,Juan Aurich,Sport Boys,3,0,H,0.0,0.0,D
+PER,2010-03-21,18:30,Total Chalaco,Alianza Atlético,0,0,D,0.0,0.0,D
+PER,2010-03-21,18:30,Cienciano,FBC Melgar,1,1,D,0.0,0.0,D
+PER,2010-03-21,20:30,Sporting Cristal,Universidad San Martín,0,4,A,0.0,3.0,A
+PER,2010-03-21,,José Gálvez,León de Huánuco,0,3,A,,,
+PER,2010-03-24,21:00,Universidad San Martín,Juan Aurich,1,0,H,0.0,0.0,D
+PER,2010-03-27,21:00,Universidad Cesar Vallejo,Inti Gas,1,0,H,1.0,0.0,H
+PER,2010-03-28,19:30,FBC Melgar,Alianza Lima,4,2,H,0.0,1.0,A
+PER,2010-03-28,19:30,León de Huánuco,CN Iquitos,2,1,H,1.0,1.0,D
+PER,2010-03-28,19:30,Alianza Atlético,José Gálvez,0,0,D,0.0,0.0,D
+PER,2010-03-28,21:30,Universidad San Martín,Total Chalaco,3,1,H,1.0,0.0,H
+PER,2010-03-28,21:45,Sport Boys,Sporting Cristal,1,2,A,1.0,1.0,D
+PER,2010-03-29,00:00,Universitario de Deportes,Cienciano,2,0,H,1.0,0.0,H
+PER,2010-04-03,19:30,Inti Gas,FBC Melgar,0,1,A,0.0,0.0,D
+PER,2010-04-03,22:00,Juan Aurich,Universidad Cesar Vallejo,2,3,A,0.0,0.0,D
+PER,2010-04-04,00:00,Alianza Lima,Universitario de Deportes,0,0,D,0.0,0.0,D
+PER,2010-04-04,02:00,CN Iquitos,Alianza Atlético,3,0,H,2.0,0.0,H
+PER,2010-04-04,19:00,Total Chalaco,Sport Boys,1,1,D,1.0,0.0,H
+PER,2010-04-04,19:30,Cienciano,León de Huánuco,2,1,H,0.0,1.0,A
+PER,2010-04-04,21:30,Sporting Cristal,Sport Huancayo,4,1,H,2.0,0.0,H
+PER,2010-04-04,22:00,José Gálvez,Universidad San Martín,1,1,D,1.0,0.0,H
+PER,2010-04-07,21:30,Sport Huancayo,Juan Aurich,2,1,H,1.0,0.0,H
+PER,2010-04-10,21:30,Inti Gas,Sporting Cristal,2,1,H,1.0,1.0,D
+PER,2010-04-10,22:00,José Gálvez,Cienciano,1,0,H,0.0,0.0,D
+PER,2010-04-11,19:30,FBC Melgar,Sport Huancayo,1,1,D,0.0,0.0,D
+PER,2010-04-11,21:45,Sport Boys,Alianza Atlético,0,0,D,0.0,0.0,D
+PER,2010-04-11,22:00,Universidad San Martín,León de Huánuco,3,2,H,2.0,2.0,D
+PER,2010-04-11,22:00,Juan Aurich,Total Chalaco,2,1,H,0.0,0.0,D
+PER,2010-04-12,00:00,Universitario de Deportes,Universidad Cesar Vallejo,2,0,H,1.0,0.0,H
+PER,2010-04-13,02:00,CN Iquitos,Alianza Lima,0,4,A,0.0,3.0,A
+PER,2010-04-17,01:30,Alianza Lima,José Gálvez,3,2,H,2.0,1.0,H
+PER,2010-04-17,19:45,Cienciano,Juan Aurich,0,0,D,0.0,0.0,D
+PER,2010-04-17,21:00,Total Chalaco,Inti Gas,1,0,H,0.0,0.0,D
+PER,2010-04-17,22:00,Universidad Cesar Vallejo,Universidad San Martín,2,0,H,2.0,0.0,H
+PER,2010-04-18,19:30,Alianza Atlético,FBC Melgar,1,3,A,0.0,1.0,A
+PER,2010-04-18,19:30,León de Huánuco,Sport Boys,3,1,H,2.0,0.0,H
+PER,2010-04-18,21:00,Sporting Cristal,CN Iquitos,5,2,H,1.0,2.0,A
+PER,2010-04-21,21:30,Total Chalaco,Universitario de Deportes,1,3,A,0.0,1.0,A
+PER,2010-04-24,21:30,Inti Gas,Cienciano,3,1,H,2.0,0.0,H
+PER,2010-04-25,01:00,Sport Boys,Universidad Cesar Vallejo,2,1,H,1.0,1.0,D
+PER,2010-04-25,19:30,FBC Melgar,León de Huánuco,0,1,A,0.0,0.0,D
+PER,2010-04-25,22:00,Universidad San Martín,Sport Huancayo,2,1,H,2.0,0.0,H
+PER,2010-04-25,22:00,José Gálvez,Sporting Cristal,1,1,D,0.0,1.0,A
+PER,2010-04-25,22:00,CN Iquitos,Total Chalaco,1,2,A,1.0,2.0,A
+PER,2010-04-26,00:00,Juan Aurich,Alianza Lima,1,1,D,0.0,0.0,D
+PER,2010-04-26,00:10,Universitario de Deportes,Alianza Atlético,2,1,H,1.0,0.0,H
+PER,2010-05-01,19:30,Total Chalaco,José Gálvez,0,0,D,0.0,0.0,D
+PER,2010-05-01,22:00,Universidad San Martín,Alianza Atlético,4,0,H,1.0,0.0,H
+PER,2010-05-02,17:00,Sport Huancayo,Sport Boys,3,0,H,2.0,0.0,H
+PER,2010-05-02,21:30,FBC Melgar,Universidad Cesar Vallejo,2,2,D,0.0,1.0,A
+PER,2010-05-02,22:00,Juan Aurich,Sporting Cristal,2,2,D,1.0,1.0,D
+PER,2010-05-02,22:00,CN Iquitos,Cienciano,1,0,H,1.0,0.0,H
+PER,2010-05-02,23:45,Alianza Lima,Inti Gas,1,0,H,0.0,0.0,D
+PER,2010-05-08,21:30,Inti Gas,Juan Aurich,3,0,H,1.0,0.0,H
+PER,2010-05-08,21:45,Sporting Cristal,Total Chalaco,1,0,H,1.0,0.0,H
+PER,2010-05-08,22:00,Universitario de Deportes,FBC Melgar,3,1,H,0.0,0.0,D
+PER,2010-05-08,22:00,José Gálvez,CN Iquitos,0,0,D,0.0,0.0,D
+PER,2010-05-09,01:00,Sport Boys,Universidad San Martín,0,1,A,0.0,0.0,D
+PER,2010-05-09,19:30,Alianza Atlético,León de Huánuco,0,1,A,0.0,1.0,A
+PER,2010-05-09,22:00,Universidad Cesar Vallejo,Sport Huancayo,3,3,D,1.0,2.0,A
+PER,2010-05-11,01:15,Cienciano,Alianza Lima,2,1,H,2.0,0.0,H
+PER,2010-05-15,19:30,León de Huánuco,Universidad Cesar Vallejo,0,0,D,0.0,0.0,D
+PER,2010-05-15,21:00,Inti Gas,CN Iquitos,2,0,H,2.0,0.0,H
+PER,2010-05-16,01:00,Sport Boys,FBC Melgar,2,0,H,1.0,0.0,H
+PER,2010-05-16,19:30,Cienciano,Total Chalaco,5,2,H,1.0,1.0,D
+PER,2010-05-16,19:30,Alianza Atlético,Sport Huancayo,2,1,H,1.0,1.0,D
+PER,2010-05-16,21:30,Universidad San Martín,Universitario de Deportes,1,1,D,0.0,0.0,D
+PER,2010-05-16,22:00,Juan Aurich,José Gálvez,3,0,H,1.0,0.0,H
+PER,2010-05-18,01:30,Alianza Lima,Sporting Cristal,1,1,D,1.0,0.0,H
+PER,2010-05-19,19:15,León de Huánuco,Universitario de Deportes,1,0,H,0.0,0.0,D
+PER,2010-05-22,21:00,Sporting Cristal,Cienciano,0,1,A,0.0,1.0,A
+PER,2010-05-22,22:00,Universidad Cesar Vallejo,Alianza Atlético,3,0,H,2.0,0.0,H
+PER,2010-05-23,02:00,CN Iquitos,Juan Aurich,0,1,A,0.0,1.0,A
+PER,2010-05-23,17:00,Sport Huancayo,León de Huánuco,3,2,H,2.0,1.0,H
+PER,2010-05-23,21:00,Total Chalaco,Alianza Lima,0,1,A,0.0,0.0,D
+PER,2010-05-23,21:30,FBC Melgar,Universidad San Martín,1,4,A,0.0,2.0,A
+PER,2010-05-23,22:00,José Gálvez,Inti Gas,1,0,H,1.0,0.0,H
+PER,2010-05-24,00:00,Universitario de Deportes,Sport Boys,3,0,H,2.0,0.0,H
+PER,2010-05-26,21:30,Sport Huancayo,Alianza Lima,2,0,H,2.0,0.0,H
+PER,2010-05-29,21:00,Inti Gas,Universitario de Deportes,2,1,H,1.0,0.0,H
+PER,2010-05-29,22:00,CN Iquitos,Universidad San Martín,2,2,D,0.0,2.0,A
+PER,2010-05-30,00:15,José Gálvez,Sport Boys,2,1,H,2.0,1.0,H
+PER,2010-05-30,19:00,Total Chalaco,Sport Huancayo,3,2,H,2.0,0.0,H
+PER,2010-05-30,19:30,Cienciano,Alianza Atlético,0,0,D,0.0,0.0,D
+PER,2010-05-30,21:00,Sporting Cristal,Universidad Cesar Vallejo,0,1,A,0.0,1.0,A
+PER,2010-05-30,22:00,Alianza Lima,León de Huánuco,4,3,H,2.0,2.0,D
+PER,2010-05-30,22:00,Juan Aurich,FBC Melgar,1,0,H,0.0,0.0,D
+PER,2010-06-02,19:15,Sport Huancayo,Universitario de Deportes,1,0,H,0.0,0.0,D
+PER,2010-06-05,19:30,León de Huánuco,Inti Gas,3,0,H,2.0,0.0,H
+PER,2010-06-05,19:30,Sport Boys,CN Iquitos,2,4,A,0.0,1.0,A
+PER,2010-06-05,21:30,Universidad San Martín,Cienciano,3,0,H,1.0,0.0,H
+PER,2010-06-05,22:00,Universidad Cesar Vallejo,Total Chalaco,1,2,A,0.0,1.0,A
+PER,2010-06-06,00:05,Alianza Atlético,Alianza Lima,1,1,D,0.0,1.0,A
+PER,2010-06-06,02:15,Universitario de Deportes,Juan Aurich,1,0,H,0.0,0.0,D
+PER,2010-06-06,19:15,Sport Huancayo,José Gálvez,1,0,H,1.0,0.0,H
+PER,2010-06-06,21:30,FBC Melgar,Sporting Cristal,1,1,D,0.0,0.0,D
+PER,2010-06-09,19:30,Cienciano,Sport Boys,2,0,H,0.0,0.0,D
+PER,2010-06-09,21:30,Inti Gas,Alianza Atlético,4,1,H,0.0,0.0,D
+PER,2010-06-09,22:00,CN Iquitos,Sport Huancayo,1,1,D,1.0,1.0,D
+PER,2010-06-09,22:30,José Gálvez,Universidad Cesar Vallejo,0,2,A,0.0,1.0,A
+PER,2010-06-10,01:00,Alianza Lima,Universidad San Martín,2,1,H,2.0,0.0,H
+PER,2010-06-10,02:00,Juan Aurich,León de Huánuco,3,2,H,1.0,1.0,D
+PER,2010-06-10,18:00,Total Chalaco,FBC Melgar,1,2,A,1.0,0.0,H
+PER,2010-06-13,17:00,Sport Huancayo,Cienciano,1,1,D,0.0,0.0,D
+PER,2010-06-13,19:00,FBC Melgar,José Gálvez,2,0,H,0.0,0.0,D
+PER,2010-06-13,19:30,León de Huánuco,Sporting Cristal,6,0,H,2.0,0.0,H
+PER,2010-06-13,19:30,Alianza Atlético,Juan Aurich,2,2,D,1.0,0.0,H
+PER,2010-06-13,21:30,Universidad San Martín,Inti Gas,2,1,H,0.0,0.0,D
+PER,2010-06-13,22:00,Universidad Cesar Vallejo,CN Iquitos,2,0,H,0.0,0.0,D
+PER,2010-06-14,00:15,Sport Boys,Alianza Lima,2,1,H,1.0,0.0,H
+PER,2010-06-14,02:15,Universitario de Deportes,Total Chalaco,0,0,D,0.0,0.0,D
+PER,2010-06-16,20:00,Sporting Cristal,Universitario de Deportes,1,2,A,0.0,2.0,A
+PER,2010-06-19,21:00,Total Chalaco,León de Huánuco,1,0,H,1.0,0.0,H
+PER,2010-06-19,21:30,Inti Gas,Sport Boys,2,1,H,0.0,1.0,A
+PER,2010-06-19,21:30,Alianza Lima,Sport Huancayo,4,0,H,1.0,0.0,H
+PER,2010-06-20,01:30,José Gálvez,Universitario de Deportes,0,3,A,0.0,2.0,A
+PER,2010-06-20,01:30,Juan Aurich,Universidad San Martín,1,1,D,0.0,1.0,A
+PER,2010-06-20,17:30,Sporting Cristal,Alianza Atlético,2,1,H,1.0,1.0,D
+PER,2010-06-20,21:30,Cienciano,Universidad Cesar Vallejo,2,0,H,0.0,0.0,D
+PER,2010-06-21,00:00,CN Iquitos,FBC Melgar,5,1,H,2.0,0.0,H
+PER,2010-06-26,21:30,Sport Boys,Juan Aurich,1,0,H,1.0,0.0,H
+PER,2010-06-27,01:00,Universitario de Deportes,CN Iquitos,1,2,A,0.0,1.0,A
+PER,2010-06-27,19:15,Sport Huancayo,Inti Gas,3,0,H,1.0,0.0,H
+PER,2010-06-27,19:30,Alianza Atlético,Total Chalaco,3,0,H,2.0,0.0,H
+PER,2010-06-27,19:30,León de Huánuco,José Gálvez,1,1,D,0.0,0.0,D
+PER,2010-06-27,21:30,Universidad San Martín,Sporting Cristal,2,1,H,1.0,1.0,D
+PER,2010-06-27,22:00,Universidad Cesar Vallejo,Alianza Lima,1,1,D,1.0,1.0,D
+PER,2010-06-29,01:00,FBC Melgar,Cienciano,3,0,H,1.0,0.0,H
+PER,2010-07-03,19:30,Total Chalaco,Universidad San Martín,2,2,D,1.0,0.0,H
+PER,2010-07-03,21:30,Inti Gas,Universidad Cesar Vallejo,1,2,A,0.0,0.0,D
+PER,2010-07-03,22:00,CN Iquitos,León de Huánuco,1,1,D,0.0,1.0,A
+PER,2010-07-04,19:15,Alianza Lima,FBC Melgar,2,1,H,1.0,0.0,H
+PER,2010-07-04,21:00,Sporting Cristal,Sport Boys,1,1,D,0.0,1.0,A
+PER,2010-07-04,21:30,Cienciano,Universitario de Deportes,1,1,D,0.0,1.0,A
+PER,2010-07-04,22:00,Juan Aurich,Sport Huancayo,2,0,H,0.0,0.0,D
+PER,2010-07-04,23:45,José Gálvez,Alianza Atlético,0,0,D,0.0,0.0,D
+PER,2010-07-10,19:15,Sport Huancayo,Sporting Cristal,0,1,A,0.0,0.0,D
+PER,2010-07-10,19:30,León de Huánuco,Cienciano,1,0,H,1.0,0.0,H
+PER,2010-07-10,19:30,Alianza Atlético,CN Iquitos,0,1,A,0.0,1.0,A
+PER,2010-07-10,21:30,FBC Melgar,Inti Gas,2,1,H,1.0,1.0,D
+PER,2010-07-10,22:00,Universitario de Deportes,Alianza Lima,0,1,A,0.0,0.0,D
+PER,2010-07-11,00:15,Universidad Cesar Vallejo,Juan Aurich,1,1,D,1.0,0.0,H
+PER,2010-07-11,02:20,Sport Boys,Total Chalaco,3,2,H,3.0,1.0,H
+PER,2010-07-11,23:00,Universidad San Martín,José Gálvez,4,0,H,1.0,0.0,H
+PER,2010-07-17,19:30,León de Huánuco,Universidad San Martín,4,2,H,1.0,1.0,D
+PER,2010-07-17,21:00,Sporting Cristal,Inti Gas,4,1,H,2.0,1.0,H
+PER,2010-07-17,21:45,Alianza Lima,CN Iquitos,4,1,H,2.0,0.0,H
+PER,2010-07-18,17:15,Alianza Atlético,Sport Boys,4,0,H,1.0,0.0,H
+PER,2010-07-18,19:15,Sport Huancayo,FBC Melgar,3,0,H,1.0,0.0,H
+PER,2010-07-18,21:00,Total Chalaco,Juan Aurich,1,2,A,1.0,1.0,D
+PER,2010-07-18,21:30,Universidad Cesar Vallejo,Universitario de Deportes,0,1,A,0.0,0.0,D
+PER,2010-07-18,,Cienciano,José Gálvez,0,3,A,,,
+PER,2010-07-24,21:30,Inti Gas,Total Chalaco,2,0,H,2.0,0.0,H
+PER,2010-07-24,21:30,José Gálvez,Alianza Lima,0,1,A,0.0,1.0,A
+PER,2010-07-24,23:45,Sport Boys,León de Huánuco,0,0,D,0.0,0.0,D
+PER,2010-07-25,02:00,CN Iquitos,Sporting Cristal,1,0,H,0.0,0.0,D
+PER,2010-07-25,21:30,Juan Aurich,Cienciano,5,2,H,3.0,2.0,H
+PER,2010-07-25,21:30,Universidad San Martín,Universidad Cesar Vallejo,1,0,H,1.0,0.0,H
+PER,2010-07-25,21:30,Universitario de Deportes,Sport Huancayo,3,0,H,2.0,0.0,H
+PER,2010-07-25,21:30,FBC Melgar,Alianza Atlético,2,0,H,0.0,0.0,D
+PER,2010-07-31,19:15,León de Huánuco,FBC Melgar,3,1,H,0.0,0.0,D
+PER,2010-07-31,21:00,Sporting Cristal,José Gálvez,1,2,A,0.0,1.0,A
+PER,2010-07-31,21:30,Universidad Cesar Vallejo,Sport Boys,2,1,H,1.0,0.0,H
+PER,2010-07-31,23:30,Alianza Atlético,Universitario de Deportes,1,0,H,1.0,0.0,H
+PER,2010-08-01,17:00,Cienciano,Inti Gas,2,0,H,0.0,0.0,D
+PER,2010-08-01,19:15,Sport Huancayo,Universidad San Martín,1,2,A,1.0,1.0,D
+PER,2010-08-01,21:00,Total Chalaco,CN Iquitos,0,1,A,0.0,0.0,D
+PER,2010-08-01,21:30,Alianza Lima,Juan Aurich,1,0,H,0.0,0.0,D
+PER,2010-08-07,02:00,Universidad Cesar Vallejo,FBC Melgar,1,0,H,1.0,0.0,H
+PER,2010-08-07,21:30,Inti Gas,Alianza Lima,2,1,H,0.0,0.0,D
+PER,2010-08-07,21:30,Alianza Atlético,Universidad San Martín,0,3,A,0.0,2.0,A
+PER,2010-08-07,23:45,José Gálvez,Total Chalaco,1,1,D,0.0,0.0,D
+PER,2010-08-08,17:00,Cienciano,CN Iquitos,4,0,H,3.0,0.0,H
+PER,2010-08-08,19:15,Sport Boys,Sport Huancayo,3,1,H,2.0,0.0,H
+PER,2010-08-08,21:00,Sporting Cristal,Juan Aurich,1,1,D,0.0,0.0,D
+PER,2010-08-08,21:30,Universitario de Deportes,León de Huánuco,1,1,D,1.0,0.0,H
+PER,2010-08-14,01:45,FBC Melgar,Universitario de Deportes,0,4,A,0.0,1.0,A
+PER,2010-08-14,19:15,León de Huánuco,Alianza Atlético,3,1,H,2.0,1.0,H
+PER,2010-08-14,21:30,Alianza Lima,Cienciano,2,1,H,0.0,0.0,D
+PER,2010-08-15,02:30,CN Iquitos,José Gálvez,1,1,D,1.0,1.0,D
+PER,2010-08-15,19:00,Total Chalaco,Sporting Cristal,1,0,H,0.0,0.0,D
+PER,2010-08-15,21:00,Sport Huancayo,Universidad Cesar Vallejo,1,0,H,0.0,0.0,D
+PER,2010-08-15,21:30,Universidad San Martín,Sport Boys,2,1,H,0.0,0.0,D
+PER,2010-08-15,21:30,Juan Aurich,Inti Gas,1,0,H,0.0,0.0,D
+PER,2010-08-21,21:00,FBC Melgar,Sport Boys,3,3,D,3.0,1.0,H
+PER,2010-08-21,21:00,Universitario de Deportes,Universidad San Martín,1,0,H,1.0,0.0,H
+PER,2010-08-21,21:00,Total Chalaco,Cienciano,3,0,H,2.0,0.0,H
+PER,2010-08-21,21:00,Sporting Cristal,Alianza Lima,1,0,H,0.0,0.0,D
+PER,2010-08-21,21:00,José Gálvez,Juan Aurich,0,1,A,0.0,0.0,D
+PER,2010-08-21,21:00,CN Iquitos,Inti Gas,3,0,H,2.0,0.0,H
+PER,2010-08-21,21:00,Sport Huancayo,Alianza Atlético,2,1,H,1.0,1.0,D
+PER,2010-08-21,21:00,Universidad Cesar Vallejo,León de Huánuco,1,2,A,0.0,1.0,A
+PER,2010-08-29,21:00,Sport Boys,Universitario de Deportes,1,2,A,1.0,1.0,D
+PER,2010-08-29,21:00,Universidad San Martín,FBC Melgar,0,1,A,0.0,1.0,A
+PER,2010-08-29,21:00,Cienciano,Sporting Cristal,3,3,D,1.0,2.0,A
+PER,2010-08-29,21:00,Alianza Lima,Total Chalaco,3,1,H,3.0,1.0,H
+PER,2010-08-29,21:00,Alianza Atlético,Universidad Cesar Vallejo,1,2,A,1.0,0.0,H
+PER,2010-08-29,21:00,León de Huánuco,Sport Huancayo,5,2,H,1.0,0.0,H
+PER,2010-08-29,21:00,Inti Gas,José Gálvez,2,0,H,1.0,0.0,H
+PER,2010-08-29,21:00,Juan Aurich,CN Iquitos,1,1,D,1.0,1.0,D

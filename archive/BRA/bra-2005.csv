@@ -1,0 +1,463 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BRA,2005-04-23,20:00,Paraná Clube,Goiás EC,0,2,A,0.0,0.0,D
+BRA,2005-04-23,20:00,Atlético Mineiro,Figueirense,4,1,H,1.0,1.0,D
+BRA,2005-04-23,22:10,São Caetano,SE Palmeiras,2,2,D,0.0,1.0,A
+BRA,2005-04-23,22:10,Flamengo RJ,Cruzeiro EC,1,1,D,0.0,1.0,A
+BRA,2005-04-24,20:00,Internacional,Botafogo RJ,0,2,A,0.0,0.0,D
+BRA,2005-04-24,20:00,Fortaleza,Coritiba FC,0,1,A,0.0,0.0,D
+BRA,2005-04-24,20:00,Fluminense RJ,São Paulo FC,2,1,H,1.0,0.0,H
+BRA,2005-04-24,22:10,Santos FC,Paysandu SC,4,1,H,2.0,1.0,H
+BRA,2005-04-24,22:10,Atlético Paranaense,Ponte Preta,0,1,A,0.0,1.0,A
+BRA,2005-04-24,22:10,Corinthians SP,Juventude RS,2,2,D,2.0,1.0,H
+BRA,2005-04-24,22:10,Brasiliense,Vasco da Gama,0,1,A,,,
+BRA,2005-04-30,20:00,Vasco da Gama,Fortaleza,0,0,D,,,
+BRA,2005-04-30,20:00,SE Palmeiras,Brasiliense,2,1,H,1.0,1.0,D
+BRA,2005-04-30,20:00,Goiás EC,São Caetano,0,0,D,,,
+BRA,2005-04-30,22:10,São Paulo FC,Paraná Clube,1,1,D,0.0,0.0,D
+BRA,2005-04-30,22:10,Ponte Preta,Atlético Mineiro,3,3,D,1.0,1.0,D
+BRA,2005-05-01,20:00,Juventude RS,Atlético Paranaense,1,0,H,1.0,0.0,H
+BRA,2005-05-01,20:00,Figueirense,Flamengo RJ,0,1,A,0.0,1.0,A
+BRA,2005-05-01,20:00,Botafogo RJ,Corinthians SP,3,1,H,0.0,1.0,A
+BRA,2005-05-01,20:00,Cruzeiro EC,Internacional,3,2,H,2.0,2.0,D
+BRA,2005-05-01,22:10,Paysandu SC,Fluminense RJ,1,2,A,1.0,1.0,D
+BRA,2005-05-01,22:10,Coritiba FC,Santos FC,2,3,A,1.0,3.0,A
+BRA,2005-05-07,20:00,Paraná Clube,Juventude RS,2,2,D,0.0,0.0,D
+BRA,2005-05-07,20:00,Goiás EC,Figueirense,0,0,D,,,
+BRA,2005-05-07,22:10,Santos FC,Atlético Paranaense,2,1,H,1.0,1.0,D
+BRA,2005-05-07,22:10,Ponte Preta,Paysandu SC,2,0,H,1.0,0.0,H
+BRA,2005-05-08,20:00,Internacional,Flamengo RJ,1,0,H,0.0,0.0,D
+BRA,2005-05-08,20:00,Coritiba FC,SE Palmeiras,1,0,H,1.0,0.0,H
+BRA,2005-05-08,20:00,Corinthians SP,São Paulo FC,1,5,A,0.0,3.0,A
+BRA,2005-05-08,22:10,São Caetano,Fortaleza,2,1,H,1.0,1.0,D
+BRA,2005-05-08,22:10,Fluminense RJ,Cruzeiro EC,2,1,H,1.0,0.0,H
+BRA,2005-05-08,22:10,Atlético Mineiro,Brasiliense,0,1,A,0.0,0.0,D
+BRA,2005-05-14,20:00,Fortaleza,Ponte Preta,2,1,H,1.0,0.0,H
+BRA,2005-05-14,22:10,São Paulo FC,Coritiba FC,1,0,H,0.0,0.0,D
+BRA,2005-05-14,22:10,Figueirense,Internacional,1,2,A,0.0,0.0,D
+BRA,2005-05-14,22:10,Botafogo RJ,Atlético Mineiro,2,1,H,1.0,0.0,H
+BRA,2005-05-15,20:00,Juventude RS,Vasco da Gama,4,1,H,1.0,1.0,D
+BRA,2005-05-15,20:00,Paysandu SC,São Caetano,3,2,H,2.0,0.0,H
+BRA,2005-05-15,20:00,Atlético Paranaense,Corinthians SP,1,2,A,1.0,0.0,H
+BRA,2005-05-15,20:00,Cruzeiro EC,Goiás EC,3,1,H,1.0,0.0,H
+BRA,2005-05-15,22:10,Flamengo RJ,Santos FC,2,1,H,0.0,0.0,D
+BRA,2005-05-15,22:10,SE Palmeiras,Paraná Clube,1,2,A,0.0,1.0,A
+BRA,2005-05-15,22:10,Brasiliense,Fluminense RJ,0,3,A,0.0,1.0,A
+BRA,2005-05-21,20:00,Juventude RS,Paysandu SC,2,0,H,2.0,0.0,H
+BRA,2005-05-21,20:00,Paraná Clube,Ponte Preta,1,1,D,0.0,1.0,A
+BRA,2005-05-21,20:00,Fortaleza,Brasiliense,2,0,H,0.0,0.0,D
+BRA,2005-05-21,22:10,Fluminense RJ,Coritiba FC,2,4,A,0.0,2.0,A
+BRA,2005-05-21,22:10,Goiás EC,Botafogo RJ,4,0,H,0.0,0.0,D
+BRA,2005-05-22,20:00,Santos FC,Atlético Mineiro,3,0,H,2.0,0.0,H
+BRA,2005-05-22,20:00,São Caetano,Flamengo RJ,1,0,H,1.0,0.0,H
+BRA,2005-05-22,20:00,Vasco da Gama,São Paulo FC,3,1,H,1.0,1.0,D
+BRA,2005-05-22,22:10,Atlético Paranaense,Internacional,1,3,A,0.0,1.0,A
+BRA,2005-05-22,22:10,Cruzeiro EC,SE Palmeiras,2,0,H,1.0,0.0,H
+BRA,2005-05-22,22:10,Corinthians SP,Figueirense,2,1,H,1.0,1.0,D
+BRA,2005-05-28,20:00,Paysandu SC,Goiás EC,1,0,H,1.0,0.0,H
+BRA,2005-05-28,22:10,São Paulo FC,Cruzeiro EC,1,1,D,1.0,1.0,D
+BRA,2005-05-28,22:10,Figueirense,São Caetano,2,0,H,0.0,0.0,D
+BRA,2005-05-29,20:00,Ponte Preta,Vasco da Gama,4,2,H,3.0,0.0,H
+BRA,2005-05-29,20:00,Flamengo RJ,Fluminense RJ,0,0,D,,,
+BRA,2005-05-29,20:00,Atlético Mineiro,Corinthians SP,0,1,A,0.0,1.0,A
+BRA,2005-05-29,20:00,SE Palmeiras,Santos FC,2,1,H,1.0,0.0,H
+BRA,2005-05-29,20:00,Brasiliense,Paraná Clube,1,0,H,0.0,0.0,D
+BRA,2005-05-29,22:10,Internacional,Fortaleza,1,0,H,0.0,0.0,D
+BRA,2005-05-29,22:10,Coritiba FC,Juventude RS,1,2,A,0.0,0.0,D
+BRA,2005-05-29,22:10,Botafogo RJ,Atlético Paranaense,2,0,H,1.0,0.0,H
+BRA,2005-06-11,20:00,Paraná Clube,Fortaleza,3,0,H,0.0,0.0,D
+BRA,2005-06-11,20:00,São Caetano,Brasiliense,2,0,H,1.0,0.0,H
+BRA,2005-06-11,20:00,Atlético Paranaense,Figueirense,0,0,D,,,
+BRA,2005-06-11,20:00,Cruzeiro EC,Ponte Preta,1,2,A,0.0,0.0,D
+BRA,2005-06-11,22:10,Botafogo RJ,Juventude RS,3,2,H,0.0,1.0,A
+BRA,2005-06-11,22:10,Goiás EC,SE Palmeiras,2,1,H,1.0,0.0,H
+BRA,2005-06-12,20:00,Santos FC,Fluminense RJ,1,1,D,1.0,1.0,D
+BRA,2005-06-12,20:00,Internacional,Atlético Mineiro,1,1,D,0.0,1.0,A
+BRA,2005-06-12,20:00,Corinthians SP,Flamengo RJ,4,2,H,1.0,0.0,H
+BRA,2005-06-12,22:10,Paysandu SC,São Paulo FC,2,2,D,1.0,1.0,D
+BRA,2005-06-12,22:10,Vasco da Gama,Coritiba FC,2,2,D,2.0,0.0,H
+BRA,2005-06-18,20:00,Figueirense,Paysandu SC,3,3,D,0.0,1.0,A
+BRA,2005-06-18,20:00,SE Palmeiras,Vasco da Gama,5,2,H,0.0,1.0,A
+BRA,2005-06-18,20:00,Brasiliense,Corinthians SP,2,4,A,0.0,1.0,A
+BRA,2005-06-18,22:10,Ponte Preta,Goiás EC,2,0,H,1.0,0.0,H
+BRA,2005-06-18,22:10,Flamengo RJ,Atlético Paranaense,1,1,D,0.0,0.0,D
+BRA,2005-06-18,22:10,Atlético Mineiro,São Caetano,2,3,A,1.0,1.0,D
+BRA,2005-06-19,22:10,São Paulo FC,Botafogo RJ,1,0,H,0.0,0.0,D
+BRA,2005-06-19,22:10,Juventude RS,Cruzeiro EC,0,0,D,,,
+BRA,2005-06-19,22:10,Fortaleza,Santos FC,0,0,D,,,
+BRA,2005-06-19,22:10,Coritiba FC,Paraná Clube,2,1,H,2.0,1.0,H
+BRA,2005-06-19,22:10,Fluminense RJ,Internacional,3,0,H,2.0,0.0,H
+BRA,2005-06-25,20:00,Juventude RS,Ponte Preta,1,3,A,1.0,2.0,A
+BRA,2005-06-25,20:00,Paraná Clube,Atlético Mineiro,1,0,H,0.0,0.0,D
+BRA,2005-06-25,22:10,São Paulo FC,Internacional,1,3,A,1.0,1.0,D
+BRA,2005-06-25,22:10,Flamengo RJ,Brasiliense,3,4,A,1.0,2.0,A
+BRA,2005-06-26,20:00,São Caetano,Santos FC,1,3,A,1.0,2.0,A
+BRA,2005-06-26,20:00,Botafogo RJ,Figueirense,0,1,A,0.0,0.0,D
+BRA,2005-06-26,20:00,Corinthians SP,Fluminense RJ,0,1,A,0.0,0.0,D
+BRA,2005-06-26,20:00,Goiás EC,Coritiba FC,2,1,H,1.0,0.0,H
+BRA,2005-06-26,22:10,Paysandu SC,SE Palmeiras,2,1,H,0.0,1.0,A
+BRA,2005-06-26,22:10,Atlético Paranaense,Fortaleza,0,0,D,,,
+BRA,2005-06-26,22:10,Cruzeiro EC,Vasco da Gama,3,3,D,2.0,1.0,H
+BRA,2005-07-02,20:00,Coritiba FC,Paysandu SC,3,1,H,1.0,0.0,H
+BRA,2005-07-02,20:00,Fluminense RJ,Paraná Clube,0,1,A,0.0,0.0,D
+BRA,2005-07-02,22:10,Vasco da Gama,Goiás EC,1,2,A,0.0,2.0,A
+BRA,2005-07-03,20:00,Figueirense,Cruzeiro EC,0,0,D,,,
+BRA,2005-07-03,20:00,Fortaleza,Corinthians SP,2,1,H,1.0,1.0,D
+BRA,2005-07-03,20:00,Atlético Mineiro,Flamengo RJ,3,1,H,1.0,0.0,H
+BRA,2005-07-03,22:10,Santos FC,Juventude RS,0,0,D,,,
+BRA,2005-07-03,22:10,Internacional,São Caetano,2,1,H,2.0,0.0,H
+BRA,2005-07-03,22:10,SE Palmeiras,Botafogo RJ,4,1,H,0.0,1.0,A
+BRA,2005-07-03,22:10,Brasiliense,Atlético Paranaense,2,1,H,1.0,0.0,H
+BRA,2005-07-09,20:00,Juventude RS,Brasiliense,2,1,H,1.0,1.0,D
+BRA,2005-07-09,20:00,Paraná Clube,Figueirense,3,0,H,1.0,0.0,H
+BRA,2005-07-09,20:00,Paysandu SC,Fortaleza,1,2,A,1.0,1.0,D
+BRA,2005-07-09,22:10,São Paulo FC,Flamengo RJ,2,0,H,0.0,0.0,D
+BRA,2005-07-09,22:10,São Caetano,Ponte Preta,2,1,H,0.0,0.0,D
+BRA,2005-07-10,20:00,Botafogo RJ,Fluminense RJ,1,2,A,0.0,1.0,A
+BRA,2005-07-10,20:00,Corinthians SP,SE Palmeiras,3,1,H,0.0,0.0,D
+BRA,2005-07-10,20:00,Goiás EC,Santos FC,3,4,A,2.0,3.0,A
+BRA,2005-07-10,22:10,Vasco da Gama,Internacional,2,4,A,1.0,2.0,A
+BRA,2005-07-10,22:10,Atlético Paranaense,Coritiba FC,1,0,H,1.0,0.0,H
+BRA,2005-07-10,22:10,Cruzeiro EC,Atlético Mineiro,2,1,H,1.0,1.0,D
+BRA,2005-07-16,20:00,Ponte Preta,Figueirense,2,1,H,1.0,1.0,D
+BRA,2005-07-16,20:00,Goiás EC,Brasiliense,1,3,A,0.0,2.0,A
+BRA,2005-07-16,22:10,Paraná Clube,Corinthians SP,2,3,A,1.0,1.0,D
+BRA,2005-07-16,22:10,Fluminense RJ,São Caetano,0,1,A,0.0,0.0,D
+BRA,2005-07-17,20:00,Santos FC,São Paulo FC,2,1,H,1.0,1.0,D
+BRA,2005-07-17,20:00,Flamengo RJ,Vasco da Gama,1,0,H,1.0,0.0,H
+BRA,2005-07-17,20:00,Coritiba FC,Botafogo RJ,0,3,A,0.0,2.0,A
+BRA,2005-07-17,20:00,Atlético Mineiro,Atlético Paranaense,2,3,A,0.0,2.0,A
+BRA,2005-07-17,22:10,Internacional,Juventude RS,5,2,H,4.0,0.0,H
+BRA,2005-07-17,22:10,SE Palmeiras,Fortaleza,1,2,A,0.0,0.0,D
+BRA,2005-07-20,23:30,São Caetano,Paraná Clube,1,1,D,1.0,0.0,H
+BRA,2005-07-20,23:30,Botafogo RJ,Ponte Preta,4,2,H,1.0,2.0,A
+BRA,2005-07-21,00:30,Internacional,Goiás EC,2,3,A,0.0,2.0,A
+BRA,2005-07-21,00:30,Fortaleza,Atlético Mineiro,1,4,A,1.0,1.0,D
+BRA,2005-07-21,00:30,Atlético Paranaense,Fluminense RJ,3,2,H,2.0,1.0,H
+BRA,2005-07-21,01:45,Santos FC,Vasco da Gama,2,3,A,1.0,0.0,H
+BRA,2005-07-21,01:45,Figueirense,SE Palmeiras,1,4,A,1.0,2.0,A
+BRA,2005-07-21,01:45,Brasiliense,São Paulo FC,3,3,D,1.0,2.0,A
+BRA,2005-07-22,00:30,Flamengo RJ,Juventude RS,3,4,A,1.0,2.0,A
+BRA,2005-07-22,00:30,Cruzeiro EC,Coritiba FC,2,2,D,1.0,0.0,H
+BRA,2005-07-22,00:30,Corinthians SP,Paysandu SC,3,2,H,0.0,1.0,A
+BRA,2005-07-23,20:00,Paraná Clube,Atlético Paranaense,2,0,H,1.0,0.0,H
+BRA,2005-07-23,20:00,Botafogo RJ,Brasiliense,1,1,D,1.0,1.0,D
+BRA,2005-07-23,20:00,Goiás EC,Fortaleza,2,1,H,1.0,0.0,H
+BRA,2005-07-23,22:10,São Paulo FC,São Caetano,0,1,A,0.0,0.0,D
+BRA,2005-07-24,20:00,Vasco da Gama,Corinthians SP,2,3,A,1.0,2.0,A
+BRA,2005-07-24,20:00,Coritiba FC,Flamengo RJ,3,2,H,2.0,1.0,H
+BRA,2005-07-24,20:00,SE Palmeiras,Atlético Mineiro,1,0,H,0.0,0.0,D
+BRA,2005-07-24,22:10,Ponte Preta,Fluminense RJ,2,1,H,0.0,0.0,D
+BRA,2005-07-24,22:10,Paysandu SC,Internacional,1,2,A,0.0,1.0,A
+BRA,2005-07-24,22:10,Cruzeiro EC,Santos FC,3,2,H,1.0,2.0,A
+BRA,2005-07-27,23:30,Fortaleza,Juventude RS,2,0,H,2.0,0.0,H
+BRA,2005-07-28,00:30,São Caetano,Botafogo RJ,0,1,A,0.0,0.0,D
+BRA,2005-07-28,00:30,Fluminense RJ,Goiás EC,1,1,D,0.0,0.0,D
+BRA,2005-07-28,00:30,Corinthians SP,Cruzeiro EC,4,3,H,1.0,1.0,D
+BRA,2005-07-28,01:45,Santos FC,Ponte Preta,0,1,A,0.0,0.0,D
+BRA,2005-07-28,01:45,Atlético Paranaense,Vasco da Gama,7,2,H,4.0,0.0,H
+BRA,2005-07-28,01:45,Atlético Mineiro,São Paulo FC,0,0,D,,,
+BRA,2005-07-29,00:30,Internacional,Paraná Clube,0,2,A,0.0,1.0,A
+BRA,2005-07-29,00:30,Figueirense,Coritiba FC,0,0,D,,,
+BRA,2005-07-29,00:30,Flamengo RJ,SE Palmeiras,0,0,D,,,
+BRA,2005-07-29,00:30,Brasiliense,Paysandu SC,0,0,D,,,
+BRA,2005-07-30,20:00,Vasco da Gama,São Caetano,3,2,H,0.0,1.0,A
+BRA,2005-07-30,20:00,Cruzeiro EC,Fortaleza,3,0,H,1.0,0.0,H
+BRA,2005-07-30,20:00,Goiás EC,Atlético Mineiro,3,1,H,1.0,1.0,D
+BRA,2005-07-31,20:00,Figueirense,Fluminense RJ,1,1,D,0.0,0.0,D
+BRA,2005-07-31,20:00,Ponte Preta,Internacional,1,1,D,0.0,0.0,D
+BRA,2005-07-31,20:00,Coritiba FC,Brasiliense,1,1,D,1.0,1.0,D
+BRA,2005-07-31,20:00,Botafogo RJ,Flamengo RJ,0,2,A,0.0,0.0,D
+BRA,2005-07-31,22:10,Juventude RS,São Paulo FC,2,1,H,1.0,0.0,H
+BRA,2005-07-31,22:10,Paysandu SC,Paraná Clube,3,4,A,0.0,2.0,A
+BRA,2005-07-31,22:10,SE Palmeiras,Atlético Paranaense,1,1,D,0.0,1.0,A
+BRA,2005-08-03,23:30,São Caetano,Juventude RS,1,1,D,0.0,1.0,A
+BRA,2005-08-03,23:30,Brasiliense,Cruzeiro EC,1,2,A,1.0,2.0,A
+BRA,2005-08-04,00:30,Atlético Paranaense,Goiás EC,1,0,H,0.0,0.0,D
+BRA,2005-08-04,00:30,Atlético Mineiro,Paysandu SC,2,2,D,1.0,0.0,H
+BRA,2005-08-04,00:30,Corinthians SP,Coritiba FC,3,0,H,2.0,0.0,H
+BRA,2005-08-04,01:45,Internacional,Santos FC,0,1,A,0.0,0.0,D
+BRA,2005-08-04,01:45,Paraná Clube,Botafogo RJ,2,0,H,1.0,0.0,H
+BRA,2005-08-04,01:45,Flamengo RJ,Ponte Preta,1,0,H,1.0,0.0,H
+BRA,2005-08-05,00:30,São Paulo FC,SE Palmeiras,3,3,D,3.0,1.0,H
+BRA,2005-08-05,00:30,Fortaleza,Figueirense,5,2,H,3.0,1.0,H
+BRA,2005-08-05,00:30,Fluminense RJ,Vasco da Gama,3,2,H,1.0,1.0,D
+BRA,2005-08-06,20:00,Atlético Paranaense,Cruzeiro EC,5,4,H,2.0,1.0,H
+BRA,2005-08-06,20:00,Botafogo RJ,Paysandu SC,2,0,H,1.0,0.0,H
+BRA,2005-08-06,20:00,Corinthians SP,São Caetano,0,2,A,0.0,2.0,A
+BRA,2005-08-07,20:00,Juventude RS,SE Palmeiras,1,2,A,0.0,1.0,A
+BRA,2005-08-07,20:00,Paraná Clube,Santos FC,1,1,D,1.0,0.0,H
+BRA,2005-08-07,20:00,Fortaleza,Flamengo RJ,2,1,H,1.0,0.0,H
+BRA,2005-08-07,22:10,São Paulo FC,Goiás EC,0,1,A,0.0,0.0,D
+BRA,2005-08-07,22:10,Ponte Preta,Coritiba FC,0,3,A,0.0,1.0,A
+BRA,2005-08-07,22:10,Atlético Mineiro,Fluminense RJ,1,2,A,0.0,0.0,D
+BRA,2005-08-07,22:10,Brasiliense,Internacional,0,0,D,,,
+BRA,2005-08-10,23:30,São Caetano,Atlético Paranaense,3,2,H,1.0,2.0,A
+BRA,2005-08-11,00:30,Paysandu SC,Vasco da Gama,0,2,A,0.0,0.0,D
+BRA,2005-08-11,00:30,Coritiba FC,Atlético Mineiro,1,0,H,0.0,0.0,D
+BRA,2005-08-11,00:30,SE Palmeiras,Ponte Preta,2,1,H,1.0,0.0,H
+BRA,2005-08-11,01:45,Internacional,Corinthians SP,0,0,D,,,
+BRA,2005-08-11,01:45,Figueirense,São Paulo FC,3,1,H,3.0,1.0,H
+BRA,2005-08-12,00:30,Santos FC,Brasiliense,1,1,D,1.0,0.0,H
+BRA,2005-08-12,00:30,Flamengo RJ,Paraná Clube,1,1,D,1.0,1.0,D
+BRA,2005-08-12,00:30,Fluminense RJ,Fortaleza,2,0,H,0.0,0.0,D
+BRA,2005-08-12,00:30,Goiás EC,Juventude RS,1,0,H,1.0,0.0,H
+BRA,2005-08-13,20:00,Coritiba FC,São Caetano,2,2,D,0.0,1.0,A
+BRA,2005-08-13,20:00,SE Palmeiras,Internacional,3,2,H,1.0,1.0,D
+BRA,2005-08-13,22:10,Paysandu SC,Atlético Paranaense,2,1,H,1.0,1.0,D
+BRA,2005-08-14,20:00,Figueirense,Brasiliense,2,2,D,2.0,1.0,H
+BRA,2005-08-14,20:00,Ponte Preta,Corinthians SP,3,5,A,1.0,1.0,D
+BRA,2005-08-14,20:00,Vasco da Gama,Atlético Mineiro,2,1,H,1.0,0.0,H
+BRA,2005-08-14,20:00,Cruzeiro EC,Paraná Clube,0,1,A,0.0,1.0,A
+BRA,2005-08-14,20:00,Goiás EC,Flamengo RJ,2,0,H,1.0,0.0,H
+BRA,2005-08-14,22:10,São Paulo FC,Fortaleza,3,2,H,1.0,2.0,A
+BRA,2005-08-14,22:10,Botafogo RJ,Santos FC,3,3,D,1.0,2.0,A
+BRA,2005-08-20,20:00,Atlético Mineiro,Juventude RS,2,1,H,1.0,1.0,D
+BRA,2005-08-20,22:10,São Caetano,Cruzeiro EC,0,1,A,0.0,1.0,A
+BRA,2005-08-20,22:10,Atlético Paranaense,São Paulo FC,4,2,H,1.0,1.0,D
+BRA,2005-08-21,20:00,Paraná Clube,Vasco da Gama,0,0,D,,,
+BRA,2005-08-21,20:00,Fluminense RJ,SE Palmeiras,2,2,D,1.0,1.0,D
+BRA,2005-08-21,20:00,Corinthians SP,Goiás EC,1,1,D,0.0,1.0,A
+BRA,2005-08-21,20:00,Brasiliense,Ponte Preta,4,0,H,1.0,0.0,H
+BRA,2005-08-21,22:10,Santos FC,Figueirense,4,3,H,4.0,0.0,H
+BRA,2005-08-21,22:10,Fortaleza,Botafogo RJ,3,1,H,1.0,1.0,D
+BRA,2005-08-21,22:10,Flamengo RJ,Paysandu SC,2,1,H,2.0,0.0,H
+BRA,2005-08-24,23:30,SE Palmeiras,São Caetano,2,1,H,0.0,0.0,D
+BRA,2005-08-24,23:30,Ponte Preta,Atlético Paranaense,0,2,A,0.0,1.0,A
+BRA,2005-08-25,00:30,Goiás EC,Paraná Clube,1,1,D,0.0,1.0,A
+BRA,2005-08-25,00:30,Vasco da Gama,Brasiliense,1,0,H,0.0,0.0,D
+BRA,2005-08-25,01:45,Paysandu SC,Santos FC,2,3,A,2.0,1.0,H
+BRA,2005-08-25,01:45,Cruzeiro EC,Flamengo RJ,0,0,D,,,
+BRA,2005-08-25,01:45,São Paulo FC,Fluminense RJ,1,1,D,0.0,0.0,D
+BRA,2005-08-25,01:45,Juventude RS,Corinthians SP,1,0,H,0.0,0.0,D
+BRA,2005-08-26,00:30,Botafogo RJ,Internacional,0,1,A,0.0,1.0,A
+BRA,2005-08-26,00:30,Coritiba FC,Fortaleza,2,0,H,0.0,0.0,D
+BRA,2005-08-26,00:30,Figueirense,Atlético Mineiro,0,1,A,0.0,1.0,A
+BRA,2005-08-27,20:00,Atlético Paranaense,Juventude RS,2,2,D,0.0,0.0,D
+BRA,2005-08-27,20:00,Brasiliense,SE Palmeiras,3,2,H,3.0,1.0,H
+BRA,2005-08-27,20:00,São Caetano,Goiás EC,0,1,A,0.0,1.0,A
+BRA,2005-08-28,20:00,Paraná Clube,São Paulo FC,0,4,A,0.0,2.0,A
+BRA,2005-08-28,20:00,Flamengo RJ,Figueirense,2,2,D,2.0,0.0,H
+BRA,2005-08-28,20:00,Atlético Mineiro,Ponte Preta,1,0,H,1.0,0.0,H
+BRA,2005-08-28,20:00,Corinthians SP,Botafogo RJ,3,3,D,2.0,1.0,H
+BRA,2005-08-28,20:00,Internacional,Cruzeiro EC,4,1,H,2.0,1.0,H
+BRA,2005-08-28,22:10,Fluminense RJ,Paysandu SC,5,2,H,3.0,0.0,H
+BRA,2005-08-28,22:10,Fortaleza,Vasco da Gama,4,2,H,1.0,0.0,H
+BRA,2005-08-28,22:10,Santos FC,Coritiba FC,2,0,H,2.0,0.0,H
+BRA,2005-09-07,20:00,Fortaleza,São Caetano,5,2,H,3.0,1.0,H
+BRA,2005-09-07,20:00,Botafogo RJ,Vasco da Gama,2,2,D,1.0,1.0,D
+BRA,2005-09-07,20:00,Brasiliense,Atlético Mineiro,1,2,A,0.0,0.0,D
+BRA,2005-09-07,20:00,Figueirense,Goiás EC,3,0,H,1.0,0.0,H
+BRA,2005-09-07,22:10,Juventude RS,Paraná Clube,2,0,H,2.0,0.0,H
+BRA,2005-09-08,01:45,Atlético Paranaense,Santos FC,3,3,D,1.0,1.0,D
+BRA,2005-09-08,01:45,Paysandu SC,Ponte Preta,2,2,D,1.0,1.0,D
+BRA,2005-09-08,01:45,Cruzeiro EC,Fluminense RJ,2,6,A,1.0,1.0,D
+BRA,2005-09-09,00:30,Flamengo RJ,Internacional,1,1,D,1.0,0.0,H
+BRA,2005-09-09,00:30,SE Palmeiras,Coritiba FC,1,1,D,1.0,0.0,H
+BRA,2005-09-10,20:00,São Caetano,Paysandu SC,1,2,A,1.0,1.0,D
+BRA,2005-09-10,20:00,Goiás EC,Cruzeiro EC,1,0,H,1.0,0.0,H
+BRA,2005-09-11,20:00,Vasco da Gama,Juventude RS,5,2,H,1.0,1.0,D
+BRA,2005-09-11,20:00,Internacional,Figueirense,3,0,H,0.0,0.0,D
+BRA,2005-09-11,20:00,Santos FC,Flamengo RJ,0,0,D,,,
+BRA,2005-09-11,20:00,Corinthians SP,Atlético Paranaense,2,0,H,0.0,0.0,D
+BRA,2005-09-11,20:00,Paraná Clube,SE Palmeiras,1,3,A,1.0,1.0,D
+BRA,2005-09-11,22:10,Coritiba FC,São Paulo FC,1,4,A,1.0,1.0,D
+BRA,2005-09-11,22:10,Ponte Preta,Fortaleza,2,1,H,1.0,0.0,H
+BRA,2005-09-11,22:10,Atlético Mineiro,Botafogo RJ,0,2,A,0.0,0.0,D
+BRA,2005-09-17,20:00,Ponte Preta,Paraná Clube,1,0,H,0.0,0.0,D
+BRA,2005-09-17,21:00,Paysandu SC,Juventude RS,3,0,H,0.0,0.0,D
+BRA,2005-09-17,22:10,Flamengo RJ,São Caetano,2,0,H,0.0,0.0,D
+BRA,2005-09-17,22:10,SE Palmeiras,Cruzeiro EC,2,1,H,1.0,1.0,D
+BRA,2005-09-18,20:00,Brasiliense,Fortaleza,0,2,A,0.0,1.0,A
+BRA,2005-09-18,20:00,São Paulo FC,Vasco da Gama,4,2,H,3.0,1.0,H
+BRA,2005-09-18,20:00,Internacional,Atlético Paranaense,3,2,H,2.0,1.0,H
+BRA,2005-09-18,20:00,Figueirense,Corinthians SP,2,3,A,2.0,1.0,H
+BRA,2005-09-18,20:00,Botafogo RJ,Goiás EC,3,1,H,2.0,1.0,H
+BRA,2005-09-18,22:10,Atlético Mineiro,Santos FC,3,0,H,2.0,0.0,H
+BRA,2005-09-18,22:10,Coritiba FC,Fluminense RJ,0,0,D,,,
+BRA,2005-09-21,23:30,Fortaleza,Internacional,1,2,A,0.0,2.0,A
+BRA,2005-09-21,23:30,São Caetano,Figueirense,0,1,A,0.0,0.0,D
+BRA,2005-09-22,00:30,Goiás EC,Paysandu SC,4,1,H,2.0,0.0,H
+BRA,2005-09-22,00:30,Paraná Clube,Brasiliense,4,1,H,1.0,1.0,D
+BRA,2005-09-22,01:45,Cruzeiro EC,São Paulo FC,2,3,A,1.0,0.0,H
+BRA,2005-09-22,01:45,Fluminense RJ,Flamengo RJ,2,2,D,1.0,0.0,H
+BRA,2005-09-22,01:45,Santos FC,SE Palmeiras,2,1,H,1.0,0.0,H
+BRA,2005-09-23,00:30,Vasco da Gama,Ponte Preta,0,0,D,,,
+BRA,2005-09-23,00:30,Juventude RS,Coritiba FC,0,0,D,,,
+BRA,2005-09-23,00:30,Atlético Paranaense,Botafogo RJ,2,0,H,2.0,0.0,H
+BRA,2005-09-23,00:30,Corinthians SP,Atlético Mineiro,1,1,D,1.0,0.0,H
+BRA,2005-09-24,20:00,Brasiliense,São Caetano,1,1,D,0.0,1.0,A
+BRA,2005-09-24,20:00,São Paulo FC,Paysandu SC,4,1,H,1.0,0.0,H
+BRA,2005-09-24,21:00,Fortaleza,Paraná Clube,2,2,D,1.0,0.0,H
+BRA,2005-09-25,20:00,Coritiba FC,Vasco da Gama,2,0,H,0.0,0.0,D
+BRA,2005-09-25,20:00,Figueirense,Atlético Paranaense,2,0,H,1.0,0.0,H
+BRA,2005-09-25,20:00,Juventude RS,Botafogo RJ,0,0,D,,,
+BRA,2005-09-25,20:00,Ponte Preta,Cruzeiro EC,2,3,A,2.0,1.0,H
+BRA,2005-09-25,20:00,Flamengo RJ,Corinthians SP,1,3,A,1.0,1.0,D
+BRA,2005-09-25,22:10,Fluminense RJ,Santos FC,4,3,H,1.0,2.0,A
+BRA,2005-09-25,22:10,Atlético Mineiro,Internacional,1,1,D,0.0,0.0,D
+BRA,2005-09-25,22:10,SE Palmeiras,Goiás EC,3,1,H,1.0,0.0,H
+BRA,2005-10-01,20:00,Cruzeiro EC,Juventude RS,2,0,H,0.0,0.0,D
+BRA,2005-10-01,20:00,Goiás EC,Ponte Preta,4,1,H,1.0,0.0,H
+BRA,2005-10-01,20:00,Paraná Clube,Coritiba FC,3,2,H,1.0,1.0,D
+BRA,2005-10-01,21:00,Paysandu SC,Figueirense,3,1,H,2.0,1.0,H
+BRA,2005-10-01,22:10,Santos FC,Fortaleza,0,0,D,,,
+BRA,2005-10-01,22:10,São Caetano,Atlético Mineiro,3,1,H,2.0,0.0,H
+BRA,2005-10-02,20:00,Internacional,Fluminense RJ,2,2,D,2.0,0.0,H
+BRA,2005-10-02,20:00,Vasco da Gama,SE Palmeiras,0,0,D,,,
+BRA,2005-10-02,20:00,Corinthians SP,Brasiliense,3,2,H,3.0,2.0,H
+BRA,2005-10-02,22:10,Botafogo RJ,São Paulo FC,1,1,D,0.0,1.0,A
+BRA,2005-10-02,22:10,Atlético Paranaense,Flamengo RJ,2,0,H,2.0,0.0,H
+BRA,2005-10-05,00:30,Ponte Preta,Juventude RS,3,2,H,1.0,1.0,D
+BRA,2005-10-05,00:30,Atlético Mineiro,Paraná Clube,0,1,A,0.0,1.0,A
+BRA,2005-10-05,00:30,Santos FC,São Caetano,2,0,H,0.0,0.0,D
+BRA,2005-10-05,00:30,Coritiba FC,Goiás EC,0,2,A,0.0,2.0,A
+BRA,2005-10-05,23:30,Figueirense,Botafogo RJ,1,0,H,1.0,0.0,H
+BRA,2005-10-06,00:30,SE Palmeiras,Paysandu SC,5,3,H,1.0,1.0,D
+BRA,2005-10-06,00:30,Fortaleza,Atlético Paranaense,1,4,A,0.0,3.0,A
+BRA,2005-10-06,00:30,Vasco da Gama,Cruzeiro EC,3,3,D,1.0,1.0,D
+BRA,2005-10-06,01:50,Internacional,São Paulo FC,3,0,H,2.0,0.0,H
+BRA,2005-10-06,01:50,Brasiliense,Flamengo RJ,2,3,A,1.0,3.0,A
+BRA,2005-10-06,01:50,Fluminense RJ,Corinthians SP,0,2,A,0.0,0.0,D
+BRA,2005-10-08,20:00,Corinthians SP,Fortaleza,3,0,H,1.0,0.0,H
+BRA,2005-10-08,20:00,Paraná Clube,Fluminense RJ,6,1,H,1.0,0.0,H
+BRA,2005-10-08,20:00,Botafogo RJ,SE Palmeiras,1,2,A,0.0,1.0,A
+BRA,2005-10-08,22:10,Juventude RS,Santos FC,3,1,H,0.0,0.0,D
+BRA,2005-10-08,22:10,Cruzeiro EC,Figueirense,4,0,H,3.0,0.0,H
+BRA,2005-10-08,22:10,Goiás EC,Vasco da Gama,4,3,H,3.0,2.0,H
+BRA,2005-10-12,00:30,São Caetano,Internacional,1,1,D,0.0,0.0,D
+BRA,2005-10-12,00:30,São Paulo FC,Ponte Preta,3,2,H,2.0,1.0,H
+BRA,2005-10-12,00:30,Paysandu SC,Coritiba FC,2,1,H,0.0,0.0,D
+BRA,2005-10-12,00:30,Flamengo RJ,Atlético Mineiro,1,2,A,0.0,1.0,A
+BRA,2005-10-12,00:30,Atlético Paranaense,Brasiliense,4,0,H,2.0,0.0,H
+BRA,2005-10-12,20:00,Vasco da Gama,Figueirense,3,3,D,0.0,1.0,A
+BRA,2005-10-12,20:00,Cruzeiro EC,Botafogo RJ,2,2,D,1.0,1.0,D
+BRA,2005-10-12,20:00,Juventude RS,Fluminense RJ,3,4,A,2.0,0.0,H
+BRA,2005-10-14,00:30,Santos FC,Corinthians SP,2,3,A,1.0,1.0,D
+BRA,2005-10-15,20:00,Brasiliense,Juventude RS,1,0,H,0.0,0.0,D
+BRA,2005-10-15,20:00,Fortaleza,Paysandu SC,1,2,A,0.0,0.0,D
+BRA,2005-10-15,20:00,Fluminense RJ,Botafogo RJ,3,2,H,1.0,1.0,D
+BRA,2005-10-15,22:10,Figueirense,Paraná Clube,2,0,H,2.0,0.0,H
+BRA,2005-10-15,22:10,Coritiba FC,Atlético Paranaense,1,2,A,1.0,1.0,D
+BRA,2005-10-16,19:00,Flamengo RJ,São Paulo FC,1,6,A,1.0,3.0,A
+BRA,2005-10-16,19:00,Internacional,Vasco da Gama,3,1,H,1.0,0.0,H
+BRA,2005-10-16,19:00,Atlético Mineiro,Cruzeiro EC,0,1,A,0.0,1.0,A
+BRA,2005-10-16,19:00,SE Palmeiras,Corinthians SP,1,1,D,1.0,1.0,D
+BRA,2005-10-16,21:10,Ponte Preta,São Caetano,1,2,A,0.0,1.0,A
+BRA,2005-10-16,21:10,Santos FC,Goiás EC,1,1,D,1.0,1.0,D
+BRA,2005-10-19,23:30,Vasco da Gama,Botafogo RJ,1,0,H,0.0,0.0,D
+BRA,2005-10-19,23:30,Juventude RS,Figueirense,2,2,D,0.0,2.0,A
+BRA,2005-10-20,00:50,Ponte Preta,São Paulo FC,2,0,H,1.0,0.0,H
+BRA,2005-10-20,00:50,Paysandu SC,Cruzeiro EC,4,1,H,0.0,1.0,A
+BRA,2005-10-21,23:30,São Caetano,Fluminense RJ,2,2,D,2.0,1.0,H
+BRA,2005-10-21,23:30,Brasiliense,Goiás EC,1,2,A,0.0,0.0,D
+BRA,2005-10-22,19:00,Corinthians SP,Paraná Clube,1,0,H,1.0,0.0,H
+BRA,2005-10-22,19:00,Vasco da Gama,Flamengo RJ,2,1,H,2.0,0.0,H
+BRA,2005-10-22,19:00,Atlético Paranaense,Atlético Mineiro,2,0,H,2.0,0.0,H
+BRA,2005-10-22,19:00,Fortaleza,SE Palmeiras,1,1,D,0.0,1.0,A
+BRA,2005-10-22,21:10,Juventude RS,Internacional,2,1,H,0.0,1.0,A
+BRA,2005-10-22,21:10,Figueirense,Ponte Preta,4,0,H,1.0,0.0,H
+BRA,2005-10-22,21:10,Cruzeiro EC,Paysandu SC,4,3,H,1.0,2.0,A
+BRA,2005-10-22,23:30,São Paulo FC,Santos FC,1,2,A,0.0,0.0,D
+BRA,2005-10-22,23:30,Botafogo RJ,Coritiba FC,2,0,H,1.0,0.0,H
+BRA,2005-10-24,23:30,São Paulo FC,Corinthians SP,1,1,D,0.0,1.0,A
+BRA,2005-10-24,23:30,Fluminense RJ,Brasiliense,1,1,D,0.0,1.0,A
+BRA,2005-10-25,23:30,Goiás EC,Internacional,0,1,A,0.0,0.0,D
+BRA,2005-10-25,23:30,Coritiba FC,Cruzeiro EC,0,3,A,0.0,2.0,A
+BRA,2005-10-26,23:30,SE Palmeiras,Figueirense,2,2,D,1.0,1.0,D
+BRA,2005-10-26,23:30,Atlético Mineiro,Fortaleza,2,3,A,0.0,0.0,D
+BRA,2005-10-27,00:45,Vasco da Gama,Santos FC,1,3,A,1.0,3.0,A
+BRA,2005-10-27,00:45,Juventude RS,Flamengo RJ,2,2,D,2.0,0.0,H
+BRA,2005-10-27,23:30,Fluminense RJ,Atlético Paranaense,4,1,H,1.0,1.0,D
+BRA,2005-10-27,23:30,Ponte Preta,Botafogo RJ,0,1,A,0.0,0.0,D
+BRA,2005-10-27,23:30,Paysandu SC,Corinthians SP,0,2,A,0.0,1.0,A
+BRA,2005-10-27,23:30,São Paulo FC,Brasiliense,1,2,A,1.0,0.0,H
+BRA,2005-10-28,19:00,Paraná Clube,São Caetano,1,3,A,0.0,3.0,A
+BRA,2005-10-28,23:30,Internacional,Coritiba FC,3,2,H,2.0,0.0,H
+BRA,2005-10-29,19:00,Figueirense,Juventude RS,4,3,H,1.0,1.0,D
+BRA,2005-10-29,20:00,Fortaleza,Goiás EC,1,1,D,0.0,0.0,D
+BRA,2005-10-30,18:00,Atlético Paranaense,Paraná Clube,2,1,H,1.0,0.0,H
+BRA,2005-10-30,18:00,Corinthians SP,Vasco da Gama,1,1,D,0.0,1.0,A
+BRA,2005-10-30,18:00,Santos FC,Cruzeiro EC,1,2,A,1.0,1.0,D
+BRA,2005-10-30,18:00,Atlético Mineiro,SE Palmeiras,1,3,A,1.0,0.0,H
+BRA,2005-10-30,20:10,São Caetano,São Paulo FC,0,1,A,0.0,0.0,D
+BRA,2005-10-30,20:10,Fluminense RJ,Ponte Preta,4,3,H,1.0,2.0,A
+BRA,2005-10-30,20:10,Brasiliense,Botafogo RJ,0,0,D,,,
+BRA,2005-10-31,22:30,Internacional,Paysandu SC,1,0,H,1.0,0.0,H
+BRA,2005-10-31,22:30,Flamengo RJ,Coritiba FC,2,1,H,1.0,1.0,D
+BRA,2005-11-02,22:30,Juventude RS,Fortaleza,2,0,H,1.0,0.0,H
+BRA,2005-11-02,22:30,São Paulo FC,Atlético Mineiro,2,2,D,1.0,2.0,A
+BRA,2005-11-02,23:45,Ponte Preta,Santos FC,2,1,H,0.0,1.0,A
+BRA,2005-11-02,23:45,Goiás EC,Fluminense RJ,1,2,A,0.0,1.0,A
+BRA,2005-11-02,23:45,Cruzeiro EC,Corinthians SP,2,1,H,1.0,0.0,H
+BRA,2005-11-03,21:30,Coritiba FC,Figueirense,4,1,H,2.0,0.0,H
+BRA,2005-11-03,22:30,Paraná Clube,Internacional,3,1,H,1.0,0.0,H
+BRA,2005-11-03,22:30,Botafogo RJ,São Caetano,1,0,H,1.0,0.0,H
+BRA,2005-11-03,22:30,SE Palmeiras,Flamengo RJ,0,1,A,0.0,1.0,A
+BRA,2005-11-03,22:30,Vasco da Gama,Atlético Paranaense,2,1,H,1.0,0.0,H
+BRA,2005-11-03,23:30,Paysandu SC,Brasiliense,2,1,H,0.0,0.0,D
+BRA,2005-11-05,18:00,São Paulo FC,Juventude RS,3,1,H,2.0,0.0,H
+BRA,2005-11-05,20:10,Fortaleza,Cruzeiro EC,3,1,H,2.0,0.0,H
+BRA,2005-11-06,18:00,Corinthians SP,Santos FC,7,1,H,3.0,1.0,H
+BRA,2005-11-06,18:00,Internacional,Ponte Preta,2,1,H,1.0,0.0,H
+BRA,2005-11-06,18:00,Paraná Clube,Paysandu SC,2,0,H,0.0,0.0,D
+BRA,2005-11-06,18:00,São Caetano,Vasco da Gama,1,2,A,1.0,1.0,D
+BRA,2005-11-06,18:00,Flamengo RJ,Botafogo RJ,3,1,H,0.0,1.0,A
+BRA,2005-11-06,20:10,Fluminense RJ,Figueirense,2,0,H,1.0,0.0,H
+BRA,2005-11-06,20:10,Brasiliense,Coritiba FC,1,1,D,1.0,1.0,D
+BRA,2005-11-06,20:10,Atlético Paranaense,SE Palmeiras,4,0,H,2.0,0.0,H
+BRA,2005-11-06,20:10,Atlético Mineiro,Goiás EC,1,2,A,1.0,1.0,D
+BRA,2005-11-12,20:10,SE Palmeiras,São Paulo FC,2,1,H,0.0,0.0,D
+BRA,2005-11-12,20:10,Botafogo RJ,Paraná Clube,2,0,H,1.0,0.0,H
+BRA,2005-11-12,20:10,Figueirense,Fortaleza,1,0,H,1.0,0.0,H
+BRA,2005-11-12,20:10,Paysandu SC,Atlético Mineiro,0,2,A,0.0,0.0,D
+BRA,2005-11-13,18:00,Ponte Preta,Flamengo RJ,2,2,D,1.0,1.0,D
+BRA,2005-11-13,18:00,Goiás EC,Atlético Paranaense,4,2,H,3.0,2.0,H
+BRA,2005-11-13,18:00,Coritiba FC,Corinthians SP,0,1,A,0.0,1.0,A
+BRA,2005-11-13,20:10,Santos FC,Internacional,0,4,A,0.0,2.0,A
+BRA,2005-11-13,20:10,Juventude RS,São Caetano,3,1,H,2.0,0.0,H
+BRA,2005-11-13,20:10,Vasco da Gama,Fluminense RJ,2,0,H,1.0,0.0,H
+BRA,2005-11-13,20:10,Cruzeiro EC,Brasiliense,1,0,H,1.0,0.0,H
+BRA,2005-11-16,21:30,SE Palmeiras,Juventude RS,3,2,H,0.0,0.0,D
+BRA,2005-11-16,21:30,Flamengo RJ,Fortaleza,3,0,H,3.0,0.0,H
+BRA,2005-11-16,22:30,Goiás EC,São Paulo FC,3,0,H,2.0,0.0,H
+BRA,2005-11-16,22:30,Internacional,Brasiliense,1,0,H,0.0,0.0,D
+BRA,2005-11-16,23:45,Santos FC,Paraná Clube,0,0,D,,,
+BRA,2005-11-16,23:45,Figueirense,Vasco da Gama,5,1,H,1.0,1.0,D
+BRA,2005-11-16,23:45,São Caetano,Corinthians SP,1,0,H,1.0,0.0,H
+BRA,2005-11-17,22:30,Coritiba FC,Ponte Preta,2,1,H,1.0,0.0,H
+BRA,2005-11-17,22:30,Cruzeiro EC,Atlético Paranaense,1,2,A,1.0,1.0,D
+BRA,2005-11-17,22:30,Fluminense RJ,Atlético Mineiro,0,2,A,0.0,0.0,D
+BRA,2005-11-17,23:30,Paysandu SC,Botafogo RJ,2,0,H,1.0,0.0,H
+BRA,2005-11-19,18:00,São Paulo FC,Figueirense,4,2,H,2.0,2.0,D
+BRA,2005-11-19,18:00,Juventude RS,Goiás EC,2,1,H,1.0,1.0,D
+BRA,2005-11-19,20:10,Brasiliense,Santos FC,1,0,H,1.0,0.0,H
+BRA,2005-11-20,18:00,Corinthians SP,Internacional,1,1,D,1.0,0.0,H
+BRA,2005-11-20,18:00,Atlético Paranaense,São Caetano,2,2,D,0.0,0.0,D
+BRA,2005-11-20,18:00,Vasco da Gama,Paysandu SC,4,0,H,0.0,0.0,D
+BRA,2005-11-20,18:00,Paraná Clube,Flamengo RJ,0,1,A,0.0,0.0,D
+BRA,2005-11-20,18:00,Atlético Mineiro,Coritiba FC,1,0,H,1.0,0.0,H
+BRA,2005-11-20,20:10,Fortaleza,Fluminense RJ,5,1,H,3.0,0.0,H
+BRA,2005-11-20,20:10,Botafogo RJ,Cruzeiro EC,2,1,H,1.0,1.0,D
+BRA,2005-11-20,20:10,Ponte Preta,SE Palmeiras,2,6,A,1.0,1.0,D
+BRA,2005-11-27,18:00,Fortaleza,São Paulo FC,1,0,H,0.0,0.0,D
+BRA,2005-11-27,18:00,Fluminense RJ,Juventude RS,1,2,A,1.0,0.0,H
+BRA,2005-11-27,18:00,Brasiliense,Figueirense,0,2,A,0.0,1.0,A
+BRA,2005-11-27,18:00,Corinthians SP,Ponte Preta,3,1,H,1.0,1.0,D
+BRA,2005-11-27,18:00,Atlético Paranaense,Paysandu SC,3,2,H,0.0,0.0,D
+BRA,2005-11-27,18:00,Atlético Mineiro,Vasco da Gama,0,0,D,,,
+BRA,2005-11-27,18:00,São Caetano,Coritiba FC,1,1,D,0.0,0.0,D
+BRA,2005-11-27,18:00,Santos FC,Botafogo RJ,2,1,H,1.0,0.0,H
+BRA,2005-11-27,18:00,Paraná Clube,Cruzeiro EC,2,0,H,1.0,0.0,H
+BRA,2005-11-27,18:00,Internacional,SE Palmeiras,2,1,H,1.0,1.0,D
+BRA,2005-11-27,18:00,Flamengo RJ,Goiás EC,0,0,D,,,
+BRA,2005-12-04,18:00,Figueirense,Santos FC,3,1,H,1.0,0.0,H
+BRA,2005-12-04,18:00,Coritiba FC,Internacional,1,0,H,1.0,0.0,H
+BRA,2005-12-04,18:00,Vasco da Gama,Paraná Clube,3,1,H,2.0,0.0,H
+BRA,2005-12-04,18:00,Cruzeiro EC,São Caetano,1,3,A,0.0,1.0,A
+BRA,2005-12-04,18:00,Botafogo RJ,Fortaleza,2,0,H,1.0,0.0,H
+BRA,2005-12-04,18:00,Paysandu SC,Flamengo RJ,1,4,A,1.0,1.0,D
+BRA,2005-12-04,18:00,São Paulo FC,Atlético Paranaense,3,1,H,3.0,0.0,H
+BRA,2005-12-04,18:00,SE Palmeiras,Fluminense RJ,3,2,H,0.0,1.0,A
+BRA,2005-12-04,18:00,Juventude RS,Atlético Mineiro,1,3,A,1.0,0.0,H
+BRA,2005-12-04,18:00,Goiás EC,Corinthians SP,3,2,H,1.0,0.0,H
+BRA,2005-12-04,18:00,Ponte Preta,Brasiliense,3,1,H,2.0,0.0,H

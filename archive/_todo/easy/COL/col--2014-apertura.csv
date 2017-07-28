@@ -1,0 +1,163 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+COL,2014-01-24,23:00,La Equidad,Alianza Petrolera,1,1,D,1,1,D
+COL,2014-01-25,01:00,Santa Fe,Itagüi Ditaires,3,0,H,2,0,H
+COL,2014-01-25,20:15,Uniautónoma FC,Deportes Tolima,3,2,H,0,1,A
+COL,2014-01-25,22:00,Envigado FC,Millonarios,1,2,A,0,2,A
+COL,2014-01-25,22:30,Once Caldas,Fortaleza FC,3,1,H,1,0,H
+COL,2014-01-26,00:45,Atlético Huila,Atlético Junior,2,3,A,0,1,A
+COL,2014-01-26,20:15,Deportivo Pasto,Patriotas FC,3,1,H,2,0,H
+COL,2014-01-26,22:15,Atlético Nacional,Independiente Medellín,3,1,H,1,0,H
+COL,2014-01-27,00:15,Boyacá Chicó,Deportivo Cali,2,1,H,1,0,H
+COL,2014-01-31,23:00,Patriotas FC,Once Caldas,0,0,D,0,0,D
+COL,2014-02-01,01:00,Independiente Medellín,Deportivo Pasto,2,0,H,1,0,H
+COL,2014-02-01,20:15,Alianza Petrolera,Boyacá Chicó,1,2,A,1,0,H
+COL,2014-02-01,22:00,Atlético Junior,Uniautónoma FC,1,1,D,1,0,H
+COL,2014-02-01,22:30,Fortaleza FC,Santa Fe,1,2,A,1,0,H
+COL,2014-02-02,00:45,Deportes Tolima,Envigado FC,2,4,A,1,2,A
+COL,2014-02-02,20:15,Itagüi Ditaires,Atlético Huila,2,1,H,1,1,D
+COL,2014-02-02,22:15,Millonarios,La Equidad,0,1,A,0,1,A
+COL,2014-02-03,00:15,Deportivo Cali,Atlético Nacional,0,3,A,0,2,A
+COL,2014-02-05,00:45,Once Caldas,Independiente Medellín,2,2,D,2,2,D
+COL,2014-02-05,23:00,Envigado FC,Uniautónoma FC,1,0,H,0,0,D
+COL,2014-02-05,23:00,La Equidad,Deportes Tolima,0,2,A,0,1,A
+COL,2014-02-06,01:00,Deportivo Pasto,Deportivo Cali,1,1,D,0,0,D
+COL,2014-02-06,01:00,Santa Fe,Patriotas FC,1,0,H,0,0,D
+COL,2014-02-06,23:00,Atlético Nacional,Alianza Petrolera,5,1,H,2,0,H
+COL,2014-02-06,23:00,Atlético Huila,Fortaleza FC,3,1,H,3,1,H
+COL,2014-02-07,01:00,Boyacá Chicó,Millonarios,1,0,H,0,0,D
+COL,2014-02-07,01:00,Atlético Junior,Itagüi Ditaires,2,0,H,0,0,D
+COL,2014-02-08,20:15,Envigado FC,La Equidad,1,3,A,1,0,H
+COL,2014-02-08,22:15,Independiente Medellín,Santa Fe,0,2,A,0,2,A
+COL,2014-02-09,00:45,Deportivo Cali,Once Caldas,0,1,A,0,1,A
+COL,2014-02-09,20:15,Uniautónoma FC,Itagüi Ditaires,1,1,D,0,1,A
+COL,2014-02-09,20:15,Alianza Petrolera,Deportivo Pasto,1,1,D,0,0,D
+COL,2014-02-09,22:30,Millonarios,Atlético Nacional,3,1,H,2,0,H
+COL,2014-02-10,00:30,Deportes Tolima,Boyacá Chicó,1,0,H,0,0,D
+COL,2014-02-10,23:00,Patriotas FC,Atlético Huila,3,1,H,1,0,H
+COL,2014-02-11,01:00,Fortaleza FC,Atlético Junior,0,0,D,0,0,D
+COL,2014-02-14,23:00,Boyacá Chicó,Envigado FC,2,0,H,2,0,H
+COL,2014-02-15,01:00,Atlético Huila,Independiente Medellín,1,1,D,0,1,A
+COL,2014-02-15,20:15,La Equidad,Uniautónoma FC,0,0,D,0,0,D
+COL,2014-02-15,22:00,Deportivo Pasto,Millonarios,1,1,D,1,1,D
+COL,2014-02-15,22:30,Itagüi Ditaires,Fortaleza FC,2,1,H,1,0,H
+COL,2014-02-16,00:45,Santa Fe,Deportivo Cali,0,0,D,0,0,D
+COL,2014-02-16,20:15,Once Caldas,Alianza Petrolera,2,1,H,2,0,H
+COL,2014-02-16,22:30,Atlético Junior,Patriotas FC,1,0,H,1,0,H
+COL,2014-02-17,00:30,Atlético Nacional,Deportes Tolima,2,0,H,1,0,H
+COL,2014-02-18,23:00,Uniautónoma FC,Fortaleza FC,0,1,A,0,0,D
+COL,2014-02-19,01:00,La Equidad,Boyacá Chicó,1,0,H,1,0,H
+COL,2014-02-19,20:15,Alianza Petrolera,Santa Fe,1,2,A,1,0,H
+COL,2014-02-19,23:00,Patriotas FC,Itagüi Ditaires,1,0,H,0,0,D
+COL,2014-02-20,01:00,Millonarios,Once Caldas,1,1,D,1,0,H
+COL,2014-02-20,01:00,Envigado FC,Atlético Nacional,2,3,A,2,1,H
+COL,2014-02-20,23:00,Deportes Tolima,Deportivo Pasto,1,1,D,0,0,D
+COL,2014-02-21,01:00,Independiente Medellín,Atlético Junior,2,2,D,1,0,H
+COL,2014-02-22,19:00,Fortaleza FC,Patriotas FC,2,2,D,1,2,A
+COL,2014-02-22,21:00,Atlético Huila,Alianza Petrolera,3,0,H,1,0,H
+COL,2014-02-22,22:00,Santa Fe,Millonarios,0,1,A,0,1,A
+COL,2014-02-22,23:00,Boyacá Chicó,Uniautónoma FC,3,2,H,2,0,H
+COL,2014-02-23,01:00,Atlético Nacional,La Equidad,1,2,A,0,0,D
+COL,2014-02-23,20:15,Deportivo Pasto,Envigado FC,1,2,A,0,0,D
+COL,2014-02-23,20:15,Itagüi Ditaires,Independiente Medellín,1,1,D,0,0,D
+COL,2014-02-23,22:30,Once Caldas,Deportes Tolima,3,0,H,1,0,H
+COL,2014-02-24,00:30,Atlético Junior,Deportivo Cali,1,0,H,0,0,D
+COL,2014-02-25,23:00,Uniautónoma FC,Patriotas FC,2,0,H,1,0,H
+COL,2014-02-26,01:00,Millonarios,Atlético Huila,2,2,D,0,2,A
+COL,2014-02-27,01:00,Independiente Medellín,Fortaleza FC,3,3,D,1,1,D
+COL,2014-02-27,01:00,Envigado FC,Once Caldas,2,1,H,1,0,H
+COL,2014-02-27,01:00,La Equidad,Deportivo Pasto,1,1,D,1,0,H
+COL,2014-02-27,20:15,Alianza Petrolera,Atlético Junior,1,0,H,0,0,D
+COL,2014-02-28,01:00,Deportivo Cali,Itagüi Ditaires,2,3,A,1,0,H
+COL,2014-03-01,19:00,Fortaleza FC,La Equidad,1,1,D,1,0,H
+COL,2014-03-01,21:00,Patriotas FC,Boyacá Chicó,2,1,H,1,0,H
+COL,2014-03-01,23:00,Independiente Medellín,Atlético Nacional,0,2,A,0,2,A
+COL,2014-03-02,16:00,Deportes Tolima,Atlético Huila,1,1,D,1,1,D
+COL,2014-03-02,20:15,Itagüi Ditaires,Envigado FC,1,0,H,0,0,D
+COL,2014-03-02,20:15,Alianza Petrolera,Once Caldas,0,2,A,0,0,D
+COL,2014-03-02,22:30,Deportivo Cali,Deportivo Pasto,2,2,D,1,1,D
+COL,2014-03-03,00:30,Millonarios,Santa Fe,2,1,H,1,0,H
+COL,2014-03-05,00:45,Atlético Nacional,Uniautónoma FC,3,1,H,1,0,H
+COL,2014-03-06,00:45,Deportivo Cali,Atlético Huila,1,0,H,1,0,H
+COL,2014-03-07,00:45,Deportes Tolima,Santa Fe,0,0,D,0,0,D
+COL,2014-03-08,00:45,Boyacá Chicó,Atlético Nacional,1,2,A,0,2,A
+COL,2014-03-11,01:00,Fortaleza FC,Deportivo Cali,0,0,D,0,0,D
+COL,2014-03-12,01:00,Deportivo Pasto,Boyacá Chicó,0,0,D,0,0,D
+COL,2014-03-12,01:00,Atlético Junior,Millonarios,0,1,A,0,0,D
+COL,2014-03-12,23:00,Itagüi Ditaires,Alianza Petrolera,1,2,A,0,1,A
+COL,2014-03-13,01:00,Once Caldas,La Equidad,0,0,D,0,0,D
+COL,2014-03-13,23:00,Atlético Huila,Deportes Tolima,2,0,H,1,0,H
+COL,2014-03-14,01:00,Patriotas FC,Independiente Medellín,1,0,H,1,0,H
+COL,2014-03-15,00:45,Atlético Nacional,Deportivo Pasto,1,1,D,1,1,D
+COL,2014-03-15,20:15,Alianza Petrolera,Fortaleza FC,1,0,H,0,0,D
+COL,2014-03-15,22:30,Boyacá Chicó,Once Caldas,1,1,D,0,0,D
+COL,2014-03-16,00:45,La Equidad,Santa Fe,0,2,A,0,0,D
+COL,2014-03-16,20:15,Deportivo Cali,Patriotas FC,2,1,H,1,0,H
+COL,2014-03-16,20:15,Envigado FC,Atlético Huila,2,0,H,0,0,D
+COL,2014-03-16,22:00,Millonarios,Itagüi Ditaires,3,0,H,2,0,H
+COL,2014-03-16,22:30,Uniautónoma FC,Independiente Medellín,4,2,H,2,0,H
+COL,2014-03-17,00:30,Deportes Tolima,Atlético Junior,3,1,H,1,0,H
+COL,2014-03-22,00:45,Atlético Huila,La Equidad,0,1,A,0,0,D
+COL,2014-03-22,20:15,Itagüi Ditaires,Deportes Tolima,1,0,H,0,0,D
+COL,2014-03-22,22:00,Santa Fe,Boyacá Chicó,0,0,D,0,0,D
+COL,2014-03-22,22:30,Patriotas FC,Alianza Petrolera,3,3,D,2,1,H
+COL,2014-03-23,00:45,Once Caldas,Atlético Nacional,0,0,D,0,0,D
+COL,2014-03-23,20:15,Deportivo Pasto,Uniautónoma FC,4,0,H,1,0,H
+COL,2014-03-23,22:00,Independiente Medellín,Deportivo Cali,2,0,H,1,0,H
+COL,2014-03-23,22:30,Atlético Junior,Envigado FC,1,0,H,0,0,D
+COL,2014-03-24,00:45,Fortaleza FC,Millonarios,0,1,A,0,1,A
+COL,2014-03-26,23:00,Atlético Huila,Atlético Nacional,2,0,H,1,0,H
+COL,2014-03-27,01:00,Santa Fe,Envigado FC,0,1,A,0,1,A
+COL,2014-03-28,01:00,Uniautónoma FC,Atlético Junior,1,2,A,1,0,H
+COL,2014-03-29,00:45,Deportivo Pasto,Once Caldas,3,2,H,2,1,H
+COL,2014-03-29,20:15,Alianza Petrolera,Independiente Medellín,2,1,H,0,0,D
+COL,2014-03-29,22:00,Millonarios,Patriotas FC,4,0,H,2,0,H
+COL,2014-03-29,22:30,Boyacá Chicó,Atlético Huila,1,0,H,0,0,D
+COL,2014-03-30,00:45,Atlético Nacional,Santa Fe,2,2,D,0,1,A
+COL,2014-03-30,21:15,Envigado FC,Itagüi Ditaires,1,0,H,1,0,H
+COL,2014-03-30,23:00,La Equidad,Atlético Junior,0,1,A,0,1,A
+COL,2014-03-30,23:30,Deportes Tolima,Fortaleza FC,1,1,D,1,0,H
+COL,2014-03-31,01:45,Uniautónoma FC,Deportivo Cali,0,2,A,0,1,A
+COL,2014-04-02,00:00,Santa Fe,Deportivo Pasto,3,2,H,2,2,D
+COL,2014-04-02,02:00,Independiente Medellín,Millonarios,2,1,H,0,0,D
+COL,2014-04-03,00:00,Once Caldas,Uniautónoma FC,3,1,H,2,0,H
+COL,2014-04-03,02:00,Atlético Junior,Boyacá Chicó,2,1,H,0,0,D
+COL,2014-04-03,02:00,Deportivo Cali,Alianza Petrolera,1,2,A,0,1,A
+COL,2014-04-04,00:00,Itagüi Ditaires,La Equidad,3,1,H,1,0,H
+COL,2014-04-04,02:00,Fortaleza FC,Envigado FC,2,1,H,0,1,A
+COL,2014-04-04,02:00,Patriotas FC,Deportes Tolima,1,2,A,1,1,D
+COL,2014-04-05,21:15,Deportivo Pasto,Atlético Huila,5,1,H,3,0,H
+COL,2014-04-05,23:00,Millonarios,Deportivo Cali,1,0,H,1,0,H
+COL,2014-04-05,23:30,Uniautónoma FC,Alianza Petrolera,0,2,A,0,0,D
+COL,2014-04-06,01:45,Atlético Nacional,Atlético Junior,1,0,H,0,0,D
+COL,2014-04-06,21:15,La Equidad,Fortaleza FC,1,1,D,0,1,A
+COL,2014-04-06,21:15,Once Caldas,Santa Fe,1,1,D,0,0,D
+COL,2014-04-06,23:00,Boyacá Chicó,Itagüi Ditaires,0,1,A,0,0,D
+COL,2014-04-06,23:30,Envigado FC,Patriotas FC,2,2,D,2,1,H
+COL,2014-04-07,01:45,Deportes Tolima,Independiente Medellín,1,1,D,1,1,D
+COL,2014-04-08,21:15,Alianza Petrolera,Millonarios,2,1,H,1,0,H
+COL,2014-04-09,02:00,Atlético Junior,Deportivo Pasto,1,0,H,0,0,D
+COL,2014-04-10,00:00,Fortaleza FC,Boyacá Chicó,0,0,D,0,0,D
+COL,2014-04-10,00:00,Patriotas FC,La Equidad,1,2,A,0,2,A
+COL,2014-04-10,02:00,Atlético Huila,Once Caldas,2,0,H,0,0,D
+COL,2014-04-11,00:00,Deportivo Cali,Deportes Tolima,2,0,H,2,0,H
+COL,2014-04-11,02:00,Independiente Medellín,Envigado FC,3,2,H,0,2,A
+COL,2014-04-12,01:45,Deportivo Pasto,Itagüi Ditaires,1,2,A,1,1,D
+COL,2014-04-12,21:15,Boyacá Chicó,Patriotas FC,3,0,H,1,0,H
+COL,2014-04-12,23:00,Once Caldas,Atlético Junior,3,0,H,0,0,D
+COL,2014-04-13,01:45,Uniautónoma FC,Millonarios,1,0,H,0,0,D
+COL,2014-04-13,21:15,Deportes Tolima,Alianza Petrolera,1,2,A,0,0,D
+COL,2014-04-13,21:15,La Equidad,Independiente Medellín,2,1,H,1,0,H
+COL,2014-04-13,23:00,Santa Fe,Atlético Huila,2,1,H,1,0,H
+COL,2014-04-13,23:30,Envigado FC,Deportivo Cali,3,1,H,1,0,H
+COL,2014-04-14,01:45,Atlético Nacional,Fortaleza FC,4,3,H,2,0,H
+COL,2014-04-17,00:00,Santa Fe,Uniautónoma FC,2,2,D,0,1,A
+COL,2014-04-17,02:00,Itagüi Ditaires,Atlético Nacional,1,1,D,1,0,H
+COL,2014-04-19,21:15,Atlético Huila,Uniautónoma FC,1,1,D,1,1,D
+COL,2014-04-19,23:30,Millonarios,Deportes Tolima,3,1,H,1,1,D
+COL,2014-04-20,01:45,Patriotas FC,Atlético Nacional,2,1,H,1,0,H
+COL,2014-04-20,21:15,Itagüi Ditaires,Once Caldas,2,2,D,1,2,A
+COL,2014-04-20,21:15,Deportivo Cali,La Equidad,1,0,H,0,0,D
+COL,2014-04-20,21:15,Independiente Medellín,Boyacá Chicó,2,1,H,1,0,H
+COL,2014-04-20,21:15,Alianza Petrolera,Envigado FC,0,2,A,0,0,D
+COL,2014-04-20,23:30,Atlético Junior,Santa Fe,2,1,H,0,0,D
+COL,2014-04-21,01:15,Fortaleza FC,Deportivo Pasto,4,1,H,2,0,H

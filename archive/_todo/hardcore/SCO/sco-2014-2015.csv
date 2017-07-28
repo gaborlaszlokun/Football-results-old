@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SCO,2014-08-09,15:00,Dundee FC,Kilmarnock FC,1,1,D,1,1,D
+SCO,2014-08-09,15:00,Hamilton Academical,Inverness CT,0,2,A,0,2,A
+SCO,2014-08-09,15:00,Motherwell FC,St. Mirren FC,1,0,H,0,0,D
+SCO,2014-08-10,15:00,Aberdeen FC,Dundee United,0,3,A,0,2,A
+SCO,2014-08-10,15:00,Ross County FC,St. Johnstone FC,1,2,A,0,1,A
+SCO,2014-08-13,19:45,Dundee United,Motherwell FC,1,0,H,0,0,D
+SCO,2014-08-13,19:45,Inverness CT,Dundee FC,0,0,D,0,0,D
+SCO,2014-08-13,19:45,Kilmarnock FC,Aberdeen FC,0,2,A,0,1,A
+SCO,2014-08-13,19:45,Partick Thistle,Ross County FC,4,0,H,1,0,H
+SCO,2014-08-13,19:45,St. Johnstone FC,Celtic FC,0,3,A,0,0,D
+SCO,2014-08-13,19:45,St. Mirren FC,Hamilton Academical,0,2,A,0,1,A
+SCO,2014-08-16,12:45,Celtic FC,Dundee United,6,1,H,3,0,H
+SCO,2014-08-16,15:00,Dundee FC,Partick Thistle,1,1,D,0,1,A
+SCO,2014-08-16,15:00,Hamilton Academical,St. Johnstone FC,1,0,H,1,0,H
+SCO,2014-08-16,15:00,Motherwell FC,Inverness CT,0,2,A,0,1,A
+SCO,2014-08-16,15:00,Ross County FC,Kilmarnock FC,1,2,A,0,1,A
+SCO,2014-08-23,12:30,Inverness CT,Celtic FC,1,0,H,0,0,D
+SCO,2014-08-23,15:00,Dundee United,Ross County FC,2,1,H,1,0,H
+SCO,2014-08-23,15:00,Kilmarnock FC,Motherwell FC,2,0,H,1,0,H
+SCO,2014-08-23,15:00,Partick Thistle,Hamilton Academical,1,2,A,0,0,D
+SCO,2014-08-23,15:00,St. Johnstone FC,Aberdeen FC,1,0,H,0,0,D
+SCO,2014-08-23,15:00,St. Mirren FC,Dundee FC,0,1,A,0,0,D
+SCO,2014-08-30,15:00,Aberdeen FC,Partick Thistle,2,0,H,0,0,D
+SCO,2014-08-30,15:00,Hamilton Academical,Ross County FC,4,0,H,0,0,D
+SCO,2014-08-30,15:00,Inverness CT,Kilmarnock FC,2,0,H,0,0,D
+SCO,2014-08-30,15:00,Motherwell FC,St. Johnstone FC,0,1,A,0,0,D
+SCO,2014-08-30,15:00,St. Mirren FC,Dundee United,0,3,A,0,0,D
+SCO,2014-08-31,12:30,Dundee FC,Celtic FC,1,1,D,1,0,H
+SCO,2014-09-13,12:45,Celtic FC,Aberdeen FC,2,1,H,1,0,H
+SCO,2014-09-13,15:00,Dundee United,Hamilton Academical,2,2,D,2,2,D
+SCO,2014-09-13,15:00,Kilmarnock FC,St. Mirren FC,2,1,H,0,0,D
+SCO,2014-09-13,15:00,Partick Thistle,Inverness CT,3,1,H,2,1,H
+SCO,2014-09-13,15:00,Ross County FC,Motherwell FC,1,2,A,0,0,D
+SCO,2014-09-13,15:00,St. Johnstone FC,Dundee FC,0,1,A,0,1,A
+SCO,2014-09-19,19:45,Partick Thistle,St. Mirren FC,1,2,A,1,0,H
+SCO,2014-09-20,15:00,Aberdeen FC,Ross County FC,3,0,H,2,0,H
+SCO,2014-09-20,15:00,Hamilton Academical,Kilmarnock FC,0,0,D,0,0,D
+SCO,2014-09-20,15:00,Inverness CT,St. Johnstone FC,2,1,H,0,0,D
+SCO,2014-09-21,12:15,Dundee FC,Dundee United,1,4,A,0,1,A
+SCO,2014-09-21,15:00,Celtic FC,Motherwell FC,1,1,D,0,1,A
+SCO,2014-09-27,12:45,St. Mirren FC,Celtic FC,1,2,A,0,1,A
+SCO,2014-09-27,15:00,Aberdeen FC,Inverness CT,3,2,H,2,1,H
+SCO,2014-09-27,15:00,Dundee United,St. Johnstone FC,2,0,H,1,0,H
+SCO,2014-09-27,15:00,Kilmarnock FC,Partick Thistle,3,0,H,1,0,H
+SCO,2014-09-27,15:00,Motherwell FC,Hamilton Academical,0,4,A,0,2,A
+SCO,2014-09-27,15:00,Ross County FC,Dundee FC,2,1,H,1,0,H
+SCO,2014-09-30,19:45,Aberdeen FC,St. Mirren FC,2,2,D,1,0,H
+SCO,2014-10-03,19:45,Kilmarnock FC,Dundee United,2,0,H,0,0,D
+SCO,2014-10-04,15:00,Dundee FC,Aberdeen FC,2,3,A,1,2,A
+SCO,2014-10-04,15:00,Partick Thistle,Motherwell FC,3,1,H,1,0,H
+SCO,2014-10-04,15:00,St. Johnstone FC,St. Mirren FC,1,2,A,0,1,A
+SCO,2014-10-05,12:45,Inverness CT,Ross County FC,1,1,D,0,1,A
+SCO,2014-10-05,13:00,Celtic FC,Hamilton Academical,0,1,A,0,0,D
+SCO,2014-10-17,19:45,Hamilton Academical,Aberdeen FC,3,0,H,1,0,H
+SCO,2014-10-18,12:45,Ross County FC,Celtic FC,0,5,A,0,4,A
+SCO,2014-10-18,15:00,Dundee United,Partick Thistle,1,0,H,0,0,D
+SCO,2014-10-18,15:00,Motherwell FC,Dundee FC,1,3,A,0,2,A
+SCO,2014-10-18,15:00,St. Johnstone FC,Kilmarnock FC,1,2,A,1,2,A
+SCO,2014-10-18,15:00,St. Mirren FC,Inverness CT,0,1,A,0,1,A
+SCO,2014-10-24,19:45,Aberdeen FC,Motherwell FC,1,0,H,1,0,H
+SCO,2014-10-25,15:00,Dundee FC,Hamilton Academical,2,0,H,0,0,D
+SCO,2014-10-25,15:00,Inverness CT,Dundee United,1,0,H,1,0,H
+SCO,2014-10-25,15:00,Partick Thistle,St. Johnstone FC,0,0,D,0,0,D
+SCO,2014-10-25,15:00,St. Mirren FC,Ross County FC,2,2,D,1,1,D
+SCO,2014-10-26,13:00,Celtic FC,Kilmarnock FC,2,0,H,1,0,H
+SCO,2014-10-31,19:45,St. Johnstone FC,Motherwell FC,2,1,H,1,1,D
+SCO,2014-11-01,15:00,Celtic FC,Inverness CT,1,0,H,0,0,D
+SCO,2014-11-01,15:00,Dundee United,St. Mirren FC,3,0,H,1,0,H
+SCO,2014-11-01,15:00,Hamilton Academical,Partick Thistle,3,3,D,2,1,H
+SCO,2014-11-01,15:00,Kilmarnock FC,Dundee FC,1,3,A,0,1,A
+SCO,2014-11-03,19:45,Ross County FC,Aberdeen FC,0,1,A,0,0,D
+SCO,2014-11-07,19:45,Motherwell FC,Dundee United,1,0,H,0,0,D
+SCO,2014-11-08,15:00,Dundee FC,St. Johnstone FC,1,1,D,1,0,H
+SCO,2014-11-08,15:00,Inverness CT,Hamilton Academical,4,2,H,1,1,D
+SCO,2014-11-08,15:00,Kilmarnock FC,Ross County FC,0,3,A,0,3,A
+SCO,2014-11-08,15:00,St. Mirren FC,Partick Thistle,0,1,A,0,0,D
+SCO,2014-11-09,12:30,Aberdeen FC,Celtic FC,1,2,A,1,1,D
+SCO,2014-11-22,15:00,Celtic FC,Dundee FC,2,1,H,1,0,H
+SCO,2014-11-22,15:00,Dundee United,Kilmarnock FC,3,1,H,2,1,H
+SCO,2014-11-22,15:00,Hamilton Academical,St. Mirren FC,3,0,H,1,0,H
+SCO,2014-11-22,15:00,Inverness CT,Motherwell FC,3,1,H,1,1,D
+SCO,2014-11-22,15:00,St. Johnstone FC,Ross County FC,2,1,H,1,0,H
+SCO,2014-11-23,12:45,Partick Thistle,Aberdeen FC,0,1,A,0,1,A
+SCO,2014-12-03,19:45,Celtic FC,Partick Thistle,1,0,H,0,0,D
+SCO,2014-12-05,19:45,Ross County FC,Dundee United,2,3,A,0,1,A
+SCO,2014-12-06,12:45,Motherwell FC,Celtic FC,0,1,A,0,1,A
+SCO,2014-12-06,15:00,Aberdeen FC,Hamilton Academical,3,0,H,1,0,H
+SCO,2014-12-06,15:00,Dundee FC,Inverness CT,1,2,A,1,0,H
+SCO,2014-12-06,15:00,Partick Thistle,Kilmarnock FC,1,1,D,1,1,D
+SCO,2014-12-06,15:00,St. Mirren FC,St. Johnstone FC,0,1,A,0,1,A
+SCO,2014-12-13,15:00,Dundee United,Aberdeen FC,0,2,A,0,2,A
+SCO,2014-12-13,15:00,Hamilton Academical,Dundee FC,2,1,H,2,0,H
+SCO,2014-12-13,15:00,Inverness CT,Partick Thistle,0,4,A,0,2,A
+SCO,2014-12-13,15:00,Kilmarnock FC,St. Johnstone FC,0,1,A,0,0,D
+SCO,2014-12-13,15:00,Motherwell FC,Ross County FC,2,2,D,0,1,A
+SCO,2014-12-14,13:00,Celtic FC,St. Mirren FC,4,1,H,3,1,H
+SCO,2014-12-20,15:00,Aberdeen FC,Kilmarnock FC,1,0,H,0,0,D
+SCO,2014-12-20,15:00,Partick Thistle,Dundee FC,1,1,D,0,0,D
+SCO,2014-12-20,15:00,Ross County FC,Hamilton Academical,0,1,A,0,1,A
+SCO,2014-12-20,15:00,St. Johnstone FC,Inverness CT,1,0,H,0,0,D
+SCO,2014-12-20,15:00,St. Mirren FC,Motherwell FC,0,1,A,0,0,D
+SCO,2014-12-21,12:15,Dundee United,Celtic FC,2,1,H,1,0,H
+SCO,2014-12-27,15:00,Celtic FC,Ross County FC,0,0,D,0,0,D
+SCO,2014-12-27,15:00,Dundee FC,St. Mirren FC,1,3,A,0,1,A
+SCO,2014-12-27,15:00,Kilmarnock FC,Hamilton Academical,1,0,H,0,0,D
+SCO,2014-12-27,15:00,Motherwell FC,Partick Thistle,1,0,H,1,0,H
+SCO,2014-12-27,15:00,St. Johnstone FC,Dundee United,2,1,H,0,1,A
+SCO,2014-12-28,15:00,Inverness CT,Aberdeen FC,0,1,A,0,1,A
+SCO,2015-01-01,12:15,Dundee United,Dundee FC,6,2,H,4,1,H
+SCO,2015-01-01,15:00,Aberdeen FC,St. Johnstone FC,2,0,H,1,0,H
+SCO,2015-01-01,15:00,Hamilton Academical,Motherwell FC,5,0,H,2,0,H
+SCO,2015-01-01,15:00,Ross County FC,Inverness CT,1,3,A,0,1,A
+SCO,2015-01-01,15:00,St. Mirren FC,Kilmarnock FC,1,2,A,0,0,D
+SCO,2015-01-04,15:00,Dundee FC,Ross County FC,1,1,D,0,0,D
+SCO,2015-01-04,15:00,Inverness CT,St. Mirren FC,1,0,H,0,0,D
+SCO,2015-01-04,15:00,Partick Thistle,Dundee United,2,2,D,2,1,H
+SCO,2015-01-04,15:00,St. Johnstone FC,Hamilton Academical,0,1,A,0,1,A
+SCO,2015-01-04,15:30,Motherwell FC,Aberdeen FC,0,2,A,0,1,A
+SCO,2015-01-05,20:00,Kilmarnock FC,Celtic FC,0,2,A,0,1,A
+SCO,2015-01-10,15:00,Dundee FC,Motherwell FC,4,1,H,3,1,H
+SCO,2015-01-10,15:00,Kilmarnock FC,Inverness CT,1,2,A,0,0,D
+SCO,2015-01-10,15:00,St. Mirren FC,Aberdeen FC,0,2,A,0,2,A
+SCO,2015-01-12,19:45,Hamilton Academical,Dundee United,2,3,A,0,1,A
+SCO,2015-01-17,12:45,Hamilton Academical,Celtic FC,0,2,A,0,1,A
+SCO,2015-01-17,15:00,Aberdeen FC,Dundee FC,3,3,D,1,2,A
+SCO,2015-01-17,15:00,Ross County FC,St. Mirren FC,1,2,A,0,1,A
+SCO,2015-01-17,15:00,St. Johnstone FC,Partick Thistle,2,0,H,1,0,H
+SCO,2015-01-20,19:45,Inverness CT,St. Johnstone FC,2,0,H,2,0,H
+SCO,2015-01-21,19:45,Celtic FC,Motherwell FC,4,0,H,2,0,H
+SCO,2015-01-21,19:45,Dundee FC,Kilmarnock FC,1,0,H,1,0,H
+SCO,2015-01-21,19:45,Partick Thistle,Hamilton Academical,5,0,H,2,0,H
+SCO,2015-01-21,19:45,St. Mirren FC,Dundee United,1,1,D,1,1,D
+SCO,2015-01-23,19:45,St. Johnstone FC,Aberdeen FC,1,1,D,1,0,H
+SCO,2015-01-24,12:45,Ross County FC,Celtic FC,0,1,A,0,0,D
+SCO,2015-01-24,15:00,Dundee United,Motherwell FC,3,1,H,0,0,D
+SCO,2015-01-24,15:00,Hamilton Academical,Inverness CT,0,2,A,0,0,D
+SCO,2015-01-24,15:00,Kilmarnock FC,Partick Thistle,2,2,D,1,1,D
+SCO,2015-01-24,15:00,St. Mirren FC,Dundee FC,1,2,A,1,0,H
+SCO,2015-01-30,19:45,Partick Thistle,St. Mirren FC,0,1,A,0,1,A
+SCO,2015-01-31,15:00,Dundee FC,Hamilton Academical,1,1,D,0,0,D
+SCO,2015-01-31,15:00,Inverness CT,Ross County FC,1,1,D,1,0,H
+SCO,2015-01-31,15:00,Motherwell FC,St. Johnstone FC,1,1,D,0,1,A
+SCO,2015-02-07,15:00,Aberdeen FC,Ross County FC,4,0,H,1,0,H
+SCO,2015-02-07,15:00,Hamilton Academical,Kilmarnock FC,0,0,D,0,0,D
+SCO,2015-02-11,19:45,Partick Thistle,Celtic FC,0,3,A,0,2,A
+SCO,2015-02-14,12:45,St. Johnstone FC,Celtic FC,1,2,A,0,1,A
+SCO,2015-02-14,15:00,Dundee FC,Partick Thistle,1,0,H,0,0,D
+SCO,2015-02-14,15:00,Kilmarnock FC,Dundee United,3,2,H,1,2,A
+SCO,2015-02-14,15:00,Ross County FC,Motherwell FC,3,2,H,1,0,H
+SCO,2015-02-14,15:00,St. Mirren FC,Inverness CT,1,2,A,0,1,A
+SCO,2015-02-15,15:30,Hamilton Academical,Aberdeen FC,0,3,A,0,2,A
+SCO,2015-02-21,15:00,Aberdeen FC,St. Mirren FC,3,0,H,1,0,H
+SCO,2015-02-21,15:00,Dundee United,St. Johnstone FC,0,2,A,0,2,A
+SCO,2015-02-21,15:00,Inverness CT,Kilmarnock FC,3,3,D,2,2,D
+SCO,2015-02-21,15:00,Motherwell FC,Dundee FC,0,1,A,0,1,A
+SCO,2015-02-21,15:00,Partick Thistle,Ross County FC,1,3,A,0,1,A
+SCO,2015-02-22,13:00,Celtic FC,Hamilton Academical,4,0,H,0,0,D
+SCO,2015-02-24,19:45,Dundee United,Inverness CT,1,1,D,0,1,A
+SCO,2015-02-28,15:00,Dundee United,Partick Thistle,0,2,A,0,2,A
+SCO,2015-02-28,15:00,Motherwell FC,Inverness CT,2,1,H,0,0,D
+SCO,2015-02-28,15:00,Ross County FC,Dundee FC,1,0,H,0,0,D
+SCO,2015-02-28,15:00,St. Johnstone FC,Kilmarnock FC,0,0,D,0,0,D
+SCO,2015-02-28,15:00,St. Mirren FC,Hamilton Academical,1,0,H,0,0,D
+SCO,2015-03-01,12:00,Celtic FC,Aberdeen FC,4,0,H,1,0,H
+SCO,2015-03-04,19:45,Celtic FC,St. Johnstone FC,0,1,A,0,0,D
+SCO,2015-03-07,15:00,Ross County FC,Partick Thistle,1,0,H,1,0,H
+SCO,2015-03-07,15:00,Motherwell FC,Kilmarnock FC,1,1,D,1,1,D
+SCO,2015-03-13,19:45,Aberdeen FC,Motherwell FC,2,1,H,0,1,A
+SCO,2015-03-14,15:00,Hamilton Academical,Ross County FC,2,2,D,2,1,H
+SCO,2015-03-14,15:00,Kilmarnock FC,St. Mirren FC,1,0,H,0,0,D
+SCO,2015-03-14,15:00,Partick Thistle,St. Johnstone FC,3,0,H,2,0,H
+SCO,2015-03-20,19:45,Motherwell FC,Hamilton Academical,4,0,H,0,0,D
+SCO,2015-03-21,12:15,Dundee FC,Aberdeen FC,1,1,D,0,1,A
+SCO,2015-03-21,15:00,Celtic FC,Dundee United,3,0,H,3,0,H
+SCO,2015-03-21,15:00,Partick Thistle,Inverness CT,1,0,H,0,0,D
+SCO,2015-03-21,15:00,Ross County FC,Kilmarnock FC,2,1,H,1,0,H
+SCO,2015-03-21,15:00,St. Johnstone FC,St. Mirren FC,2,0,H,1,0,H
+SCO,2015-04-03,19:45,St. Mirren FC,Celtic FC,0,2,A,0,0,D
+SCO,2015-04-04,15:00,Aberdeen FC,Partick Thistle,0,0,D,0,0,D
+SCO,2015-04-04,15:00,Dundee United,Ross County FC,1,2,A,1,1,D
+SCO,2015-04-04,15:00,Hamilton Academical,St. Johnstone FC,1,1,D,1,0,H
+SCO,2015-04-04,15:00,Inverness CT,Dundee FC,1,1,D,0,0,D
+SCO,2015-04-04,15:00,Kilmarnock FC,Motherwell FC,1,2,A,1,1,D
+SCO,2015-04-07,19:45,Motherwell FC,St. Mirren FC,5,0,H,3,0,H
+SCO,2015-04-07,19:45,Ross County FC,St. Johnstone FC,1,0,H,0,0,D
+SCO,2015-04-08,19:45,Aberdeen FC,Inverness CT,1,0,H,0,0,D
+SCO,2015-04-08,19:45,Celtic FC,Partick Thistle,2,0,H,1,0,H
+SCO,2015-04-08,19:45,Dundee FC,Dundee United,3,1,H,2,1,H
+SCO,2015-04-11,12:45,Inverness CT,Celtic FC,1,1,D,1,1,D
+SCO,2015-04-11,15:00,Dundee United,Hamilton Academical,1,0,H,0,0,D
+SCO,2015-04-11,15:00,Partick Thistle,Motherwell FC,2,0,H,0,0,D
+SCO,2015-04-11,15:00,St. Johnstone FC,Dundee FC,1,0,H,1,0,H
+SCO,2015-04-12,12:15,Kilmarnock FC,Aberdeen FC,1,2,A,0,1,A
+SCO,2015-04-13,19:45,St. Mirren FC,Ross County FC,0,3,A,0,1,A
+SCO,2015-04-15,19:45,Celtic FC,Kilmarnock FC,4,1,H,0,0,D
+SCO,2015-04-18,15:00,Aberdeen FC,Dundee United,1,0,H,1,0,H
+SCO,2015-04-22,19:45,Dundee FC,Celtic FC,1,2,A,0,1,A
+SCO,2015-05-05,19:45,Inverness CT,Dundee United,2,1,H,2,1,H

@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SVN,2013-07-12,19:00,NK Maribor,NK Zavrč ,2,1,H,0,1,A
+SVN,2013-07-13,16:30,FC Koper,NK Krka,2,1,H,1,1,D
+SVN,2013-07-13,19:00,Olimpija Ljubljana,Rudar Velenje,1,2,A,1,1,D
+SVN,2013-07-14,17:00,NK Triglav,ND Gorica,0,1,A,0,1,A
+SVN,2013-07-20,16:30,NK Domžale,NK Triglav,2,2,D,2,2,D
+SVN,2013-07-20,17:00,NK Krka,ND Gorica,1,1,D,0,0,D
+SVN,2013-07-20,18:00,Rudar Velenje,NK Maribor,0,3,A,0,2,A
+SVN,2013-07-20,19:00,NK Zavrč ,NK Celje,2,1,H,0,1,A
+SVN,2013-07-21,17:00,FC Koper,Olimpija Ljubljana,1,1,D,0,1,A
+SVN,2013-07-27,16:30,NK Maribor,FC Koper,6,1,H,2,0,H
+SVN,2013-07-27,19:00,NK Celje,Rudar Velenje,0,1,A,0,0,D
+SVN,2013-07-27,19:00,ND Gorica,NK Domžale,1,2,A,0,0,D
+SVN,2013-07-28,17:00,NK Triglav,NK Zavrč ,1,2,A,0,1,A
+SVN,2013-07-28,19:30,Olimpija Ljubljana,NK Krka,5,0,H,3,0,H
+SVN,2013-07-31,19:00,NK Celje,NK Domžale,0,0,D,0,0,D
+SVN,2013-08-02,19:00,NK Zavrč ,ND Gorica,0,2,A,0,1,A
+SVN,2013-08-03,16:30,FC Koper,NK Celje,1,1,D,1,0,H
+SVN,2013-08-03,17:00,NK Krka,NK Domžale,3,0,H,1,0,H
+SVN,2013-08-03,19:00,Rudar Velenje,NK Triglav,3,0,H,1,0,H
+SVN,2013-08-10,16:30,NK Celje,Olimpija Ljubljana,2,3,A,0,1,A
+SVN,2013-08-10,16:30,NK Triglav,FC Koper,0,3,A,0,1,A
+SVN,2013-08-10,19:00,NK Maribor,NK Krka,3,0,H,1,0,H
+SVN,2013-08-10,19:00,ND Gorica,Rudar Velenje,1,1,D,1,0,H
+SVN,2013-08-10,19:30,NK Domžale,NK Zavrč ,1,1,D,0,1,A
+SVN,2013-08-16,19:00,NK Maribor,NK Celje,5,1,H,3,0,H
+SVN,2013-08-17,16:30,NK Krka,NK Zavrč ,3,4,A,1,3,A
+SVN,2013-08-17,16:30,FC Koper,ND Gorica,2,1,H,2,1,H
+SVN,2013-08-17,19:00,Rudar Velenje,NK Domžale,3,1,H,1,0,H
+SVN,2013-08-18,19:30,Olimpija Ljubljana,NK Triglav,3,1,H,3,0,H
+SVN,2013-08-24,16:00,NK Triglav,NK Maribor,0,1,A,0,0,D
+SVN,2013-08-24,16:30,NK Domžale,FC Koper,0,1,A,0,1,A
+SVN,2013-08-24,17:30,ND Gorica,Olimpija Ljubljana,4,1,H,3,1,H
+SVN,2013-08-24,19:00,NK Celje,NK Krka,2,0,H,1,0,H
+SVN,2013-08-24,19:00,NK Zavrč ,Rudar Velenje,2,1,H,2,0,H
+SVN,2013-08-31,16:30,Olimpija Ljubljana,NK Domžale,0,3,A,0,3,A
+SVN,2013-08-31,17:30,NK Maribor,ND Gorica,1,1,D,1,0,H
+SVN,2013-08-31,19:00,FC Koper,NK Zavrč ,1,1,D,1,0,H
+SVN,2013-08-31,19:00,NK Celje,NK Triglav,1,0,H,0,0,D
+SVN,2013-09-13,19:00,NK Zavrč ,Olimpija Ljubljana,2,1,H,1,1,D
+SVN,2013-09-14,16:30,NK Domžale,NK Maribor,0,1,A,0,1,A
+SVN,2013-09-14,17:00,Rudar Velenje,FC Koper,1,0,H,1,0,H
+SVN,2013-09-14,19:00,ND Gorica,NK Celje,2,0,H,1,0,H
+SVN,2013-09-15,15:00,NK Triglav,NK Krka,1,0,H,0,0,D
+SVN,2013-09-21,15:00,NK Krka,FC Koper,0,1,A,0,1,A
+SVN,2013-09-21,16:30,Rudar Velenje,Olimpija Ljubljana,1,2,A,1,0,H
+SVN,2013-09-21,19:00,ND Gorica,NK Triglav,3,1,H,1,0,H
+SVN,2013-09-21,19:15,NK Domžale,NK Celje,4,0,H,1,0,H
+SVN,2013-09-22,18:00,NK Zavrč ,NK Maribor,1,0,H,1,0,H
+SVN,2013-09-25,15:00,NK Triglav,NK Domžale,0,3,A,0,1,A
+SVN,2013-09-25,16:00,NK Celje,NK Zavrč ,2,1,H,1,1,D
+SVN,2013-09-25,18:00,Olimpija Ljubljana,FC Koper,1,0,H,1,0,H
+SVN,2013-09-25,18:30,NK Maribor,Rudar Velenje,1,1,D,0,1,A
+SVN,2013-09-25,19:00,ND Gorica,NK Krka,1,2,A,0,0,D
+SVN,2013-09-28,15:00,NK Krka,Olimpija Ljubljana,1,0,H,1,0,H
+SVN,2013-09-28,16:30,NK Domžale,ND Gorica,1,1,D,0,1,A
+SVN,2013-09-28,17:00,Rudar Velenje,NK Celje,1,0,H,0,0,D
+SVN,2013-09-28,18:00,NK Zavrč ,NK Triglav,2,1,H,1,0,H
+SVN,2013-09-28,19:30,FC Koper,NK Maribor,2,1,H,2,0,H
+SVN,2013-10-02,15:00,NK Krka,Rudar Velenje,0,0,D,0,0,D
+SVN,2013-10-05,16:30,NK Celje,FC Koper,0,3,A,0,0,D
+SVN,2013-10-05,17:00,ND Gorica,NK Zavrč ,4,0,H,3,0,H
+SVN,2013-10-05,18:00,NK Domžale,NK Krka,4,0,H,0,0,D
+SVN,2013-10-06,14:00,NK Triglav,Rudar Velenje,1,1,D,0,0,D
+SVN,2013-10-06,16:00,NK Maribor,Olimpija Ljubljana,2,0,H,1,0,H
+SVN,2013-10-18,18:00,NK Zavrč ,NK Domžale,2,2,D,2,2,D
+SVN,2013-10-19,14:00,NK Krka,NK Maribor,0,5,A,0,2,A
+SVN,2013-10-19,16:30,Rudar Velenje,ND Gorica,2,1,H,1,1,D
+SVN,2013-10-19,18:00,FC Koper,NK Triglav,2,0,H,1,0,H
+SVN,2013-10-19,19:05,Olimpija Ljubljana,NK Celje,0,2,A,0,0,D
+SVN,2013-10-25,18:00,NK Zavrč ,NK Krka,3,0,H,3,0,H
+SVN,2013-10-26,14:00,NK Triglav,Olimpija Ljubljana,1,0,H,1,0,H
+SVN,2013-10-26,16:30,NK Domžale,Rudar Velenje,0,0,D,0,0,D
+SVN,2013-10-26,17:00,ND Gorica,FC Koper,3,0,H,1,0,H
+SVN,2013-10-27,14:00,NK Celje,NK Maribor,1,0,H,0,0,D
+SVN,2013-11-02,13:00,NK Krka,NK Celje,0,1,A,0,1,A
+SVN,2013-11-02,16:30,Olimpija Ljubljana,ND Gorica,2,2,D,0,0,D
+SVN,2013-11-02,19:05,FC Koper,NK Domžale,1,0,H,1,0,H
+SVN,2013-11-03,16:00,NK Maribor,NK Triglav,1,2,A,1,1,D
+SVN,2013-11-03,16:00,Rudar Velenje,NK Zavrč ,3,0,H,1,0,H
+SVN,2013-11-08,17:00,NK Zavrč ,FC Koper,1,0,H,1,0,H
+SVN,2013-11-09,16:30,NK Domžale,Olimpija Ljubljana,1,2,A,1,0,H
+SVN,2013-11-10,13:00,NK Triglav,NK Celje,2,2,D,1,1,D
+SVN,2013-11-10,16:00,ND Gorica,NK Maribor,1,2,A,1,1,D
+SVN,2013-11-12,15:00,Rudar Velenje,NK Krka,0,1,A,0,0,D
+SVN,2013-11-23,16:00,NK Maribor,NK Domžale,5,3,H,3,2,H
+SVN,2013-11-23,16:00,Olimpija Ljubljana,NK Zavrč ,3,2,H,2,1,H
+SVN,2013-11-23,19:05,FC Koper,Rudar Velenje,1,0,H,1,0,H
+SVN,2013-11-26,12:00,NK Krka,NK Triglav,2,2,D,1,2,A
+SVN,2013-11-26,15:00,NK Celje,ND Gorica,0,1,A,0,1,A
+SVN,2013-11-30,16:00,FC Koper,NK Krka,2,1,H,0,0,D
+SVN,2013-12-01,12:00,NK Triglav,ND Gorica,1,5,A,0,2,A
+SVN,2013-12-01,13:30,NK Maribor,NK Zavrč ,3,4,A,2,1,H
+SVN,2013-12-01,15:15,Olimpija Ljubljana,Rudar Velenje,0,3,A,0,2,A
+SVN,2013-12-03,15:30,NK Celje,NK Domžale,0,0,D,0,0,D
+SVN,2013-12-06,16:00,NK Zavrč ,NK Celje,3,0,H,1,0,H
+SVN,2013-12-07,12:00,NK Krka,ND Gorica,0,1,A,0,1,A
+SVN,2013-12-07,14:00,NK Domžale,NK Triglav,4,1,H,3,0,H
+SVN,2013-12-07,16:30,Rudar Velenje,NK Maribor,0,1,A,0,0,D
+SVN,2013-12-08,16:00,FC Koper,Olimpija Ljubljana,0,1,A,0,0,D
+SVN,2014-03-02,14:00,Olimpija Ljubljana,NK Maribor,0,3,A,0,1,A
+SVN,2014-03-08,14:00,Olimpija Ljubljana,NK Krka,0,1,A,0,0,D
+SVN,2014-03-08,14:00,ND Gorica,NK Domžale,1,1,D,1,1,D
+SVN,2014-03-08,15:00,NK Maribor,FC Koper,2,2,D,0,1,A
+SVN,2014-03-08,15:30,NK Celje,Rudar Velenje,1,2,A,0,0,D
+SVN,2014-03-09,14:00,NK Triglav,NK Zavrč ,3,1,H,2,1,H
+SVN,2014-03-14,17:00,NK Zavrč ,ND Gorica,1,3,A,0,2,A
+SVN,2014-03-15,15:00,Rudar Velenje,NK Triglav,6,1,H,4,1,H
+SVN,2014-03-15,15:30,FC Koper,NK Celje,2,1,H,0,0,D
+SVN,2014-03-15,19:00,Olimpija Ljubljana,NK Maribor,2,0,H,2,0,H
+SVN,2014-03-16,14:00,NK Krka,NK Domžale,0,2,A,0,1,A
+SVN,2014-03-22,14:00,NK Celje,Olimpija Ljubljana,0,0,D,0,0,D
+SVN,2014-03-22,15:30,NK Domžale,NK Zavrč ,3,0,H,1,0,H
+SVN,2014-03-22,17:00,NK Maribor,NK Krka,3,1,H,0,1,A
+SVN,2014-03-22,19:05,ND Gorica,Rudar Velenje,0,0,D,0,0,D
+SVN,2014-03-29,14:00,Olimpija Ljubljana,NK Triglav,1,1,D,1,1,D
+SVN,2014-03-29,15:30,NK Maribor,NK Celje,2,2,D,2,1,H
+SVN,2014-03-29,17:00,Rudar Velenje,NK Domžale,3,1,H,1,0,H
+SVN,2014-03-29,19:05,FC Koper,ND Gorica,1,0,H,0,0,D
+SVN,2014-03-30,15:00,NK Krka,NK Zavrč ,2,1,H,0,1,A
+SVN,2014-04-02,15:00,NK Triglav,FC Koper,2,2,D,1,1,D
+SVN,2014-04-05,15:00,NK Celje,NK Krka,2,1,H,0,1,A
+SVN,2014-04-05,15:00,NK Triglav,NK Maribor,0,2,A,0,1,A
+SVN,2014-04-05,15:30,NK Domžale,FC Koper,3,1,H,1,1,D
+SVN,2014-04-05,18:00,NK Zavrč ,Rudar Velenje,1,1,D,1,1,D
+SVN,2014-04-05,19:05,ND Gorica,Olimpija Ljubljana,0,0,D,0,0,D
+SVN,2014-04-12,15:30,NK Krka,Rudar Velenje,1,1,D,1,1,D
+SVN,2014-04-12,15:30,FC Koper,NK Zavrč ,2,1,H,1,0,H
+SVN,2014-04-12,15:30,Olimpija Ljubljana,NK Domžale,0,0,D,0,0,D
+SVN,2014-04-12,15:30,NK Celje,NK Triglav,2,0,H,1,0,H
+SVN,2014-04-12,19:05,NK Maribor,ND Gorica,2,0,H,1,0,H
+SVN,2014-04-16,15:30,NK Triglav,NK Krka,1,1,D,0,1,A
+SVN,2014-04-16,18:00,NK Domžale,NK Maribor,1,2,A,0,1,A
+SVN,2014-04-16,18:30,NK Zavrč ,Olimpija Ljubljana,3,1,H,2,1,H
+SVN,2014-04-16,19:00,ND Gorica,NK Celje,5,0,H,3,0,H
+SVN,2014-04-16,19:05,Rudar Velenje,FC Koper,0,2,A,0,1,A
+SVN,2014-04-19,15:30,NK Krka,FC Koper,0,3,A,0,1,A
+SVN,2014-04-19,15:30,NK Domžale,NK Celje,2,0,H,0,0,D
+SVN,2014-04-19,18:30,NK Zavrč ,NK Maribor,0,4,A,0,1,A
+SVN,2014-04-19,19:00,ND Gorica,NK Triglav,1,1,D,1,0,H
+SVN,2014-04-19,19:05,Rudar Velenje,Olimpija Ljubljana,4,0,H,1,0,H
+SVN,2014-04-23,15:30,NK Triglav,NK Domžale,1,0,H,0,0,D
+SVN,2014-04-23,16:30,ND Gorica,NK Krka,1,0,H,1,0,H
+SVN,2014-04-23,16:30,NK Celje,NK Zavrč ,0,3,A,0,2,A
+SVN,2014-04-23,16:30,NK Maribor,Rudar Velenje,0,2,A,0,1,A
+SVN,2014-04-23,16:30,Olimpija Ljubljana,FC Koper,1,0,H,1,0,H
+SVN,2014-04-26,15:30,NK Domžale,ND Gorica,1,1,D,1,0,H
+SVN,2014-04-26,17:00,Rudar Velenje,NK Celje,1,0,H,1,0,H
+SVN,2014-04-26,19:00,NK Zavrč ,NK Triglav,5,1,H,1,0,H
+SVN,2014-04-26,19:05,FC Koper,NK Maribor,0,1,A,0,1,A
+SVN,2014-04-27,15:30,NK Krka,Olimpija Ljubljana,1,0,H,0,0,D
+SVN,2014-05-03,15:30,NK Celje,FC Koper,2,3,A,1,3,A
+SVN,2014-05-03,17:00,NK Domžale,NK Krka,0,0,D,0,0,D
+SVN,2014-05-03,17:00,ND Gorica,NK Zavrč ,4,0,H,2,0,H
+SVN,2014-05-03,19:05,NK Maribor,Olimpija Ljubljana,2,0,H,1,0,H
+SVN,2014-05-04,16:00,NK Triglav,Rudar Velenje,0,1,A,0,1,A
+SVN,2014-05-07,16:00,NK Krka,NK Maribor,0,4,A,0,0,D
+SVN,2014-05-07,16:00,Olimpija Ljubljana,NK Celje,0,1,A,0,0,D
+SVN,2014-05-07,19:00,FC Koper,NK Triglav,3,0,H,2,0,H
+SVN,2014-05-07,19:00,NK Zavrč ,NK Domžale,0,0,D,0,0,D
+SVN,2014-05-07,19:05,Rudar Velenje,ND Gorica,3,2,H,2,1,H
+SVN,2014-05-10,15:30,NK Celje,NK Maribor,0,4,A,0,2,A
+SVN,2014-05-10,16:00,NK Triglav,Olimpija Ljubljana,5,2,H,3,1,H
+SVN,2014-05-10,19:00,NK Zavrč ,NK Krka,2,1,H,1,0,H
+SVN,2014-05-10,19:00,NK Domžale,Rudar Velenje,0,0,D,0,0,D
+SVN,2014-05-10,19:05,ND Gorica,FC Koper,0,1,A,0,1,A
+SVN,2014-05-13,17:00,Olimpija Ljubljana,ND Gorica,0,2,A,0,1,A
+SVN,2014-05-13,17:00,Rudar Velenje,NK Zavrč ,2,3,A,0,2,A
+SVN,2014-05-13,19:00,NK Maribor,NK Triglav,2,1,H,2,1,H
+SVN,2014-05-13,19:05,FC Koper,NK Domžale,1,1,D,1,1,D
+SVN,2014-05-14,16:00,NK Krka,NK Celje,2,2,D,1,0,H
+SVN,2014-05-17,16:00,Rudar Velenje,NK Krka,4,2,H,1,2,A
+SVN,2014-05-17,16:00,NK Zavrč ,FC Koper,1,2,A,0,1,A
+SVN,2014-05-17,16:00,NK Domžale,Olimpija Ljubljana,1,2,A,0,0,D
+SVN,2014-05-17,16:00,ND Gorica,NK Maribor,1,2,A,0,0,D
+SVN,2014-05-17,16:00,NK Triglav,NK Celje,0,1,A,0,1,A
+SVN,2014-05-25,16:00,NK Krka,NK Triglav,3,0,H,2,0,H
+SVN,2014-05-25,16:00,NK Celje,ND Gorica,0,2,A,0,0,D
+SVN,2014-05-25,16:00,NK Maribor,NK Domžale,0,0,D,0,0,D
+SVN,2014-05-25,16:00,Olimpija Ljubljana,NK Zavrč ,3,2,H,3,0,H
+SVN,2014-05-25,16:00,FC Koper,Rudar Velenje,3,1,H,2,0,H

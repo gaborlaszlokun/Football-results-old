@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ECU,2016-07-31,17:15,El Nacional,Deportivo Cuenca,2,3,A,1,1,D
+ECU,2016-07-31,18:00,SD Aucas,Barcelona SC,1,2,A,0,0,D
+ECU,2016-07-31,18:00,Mushuc Runa,LDU Quito,3,0,H,1,0,H
+ECU,2016-07-31,20:30,River Ecuador,Independiente del Valle,3,0,H,3,0,H
+ECU,2016-07-31,21:00,Fuerza Amarilla Machala,CD Universidad Catolica,2,0,H,2,0,H
+ECU,2016-08-01,00:30,CS Emelec,Delfín,1,0,H,0,0,D
+ECU,2016-08-06,01:00,CD Universidad Catolica,CS Emelec,1,0,H,0,0,D
+ECU,2016-08-06,01:45,Barcelona SC,Mushuc Runa,3,1,H,1,1,D
+ECU,2016-08-06,02:00,Deportivo Cuenca,SD Aucas,1,1,D,1,0,H
+ECU,2016-08-06,22:00,Delfín,River Ecuador,0,0,D,0,0,D
+ECU,2016-08-06,23:00,Independiente del Valle,Fuerza Amarilla Machala,0,0,D,0,0,D
+ECU,2016-08-07,17:30,LDU Quito,El Nacional,2,2,D,1,2,A
+ECU,2016-08-13,22:00,River Ecuador,LDU Quito,0,1,A,0,0,D
+ECU,2016-08-13,22:00,Mushuc Runa,Deportivo Cuenca,3,2,H,2,2,D
+ECU,2016-08-14,17:15,El Nacional,SD Aucas,2,2,D,2,0,H
+ECU,2016-08-14,17:30,Independiente del Valle,CD Universidad Catolica,5,0,H,2,0,H
+ECU,2016-08-14,21:00,Fuerza Amarilla Machala,Delfín,2,3,A,0,2,A
+ECU,2016-08-20,02:00,Deportivo Cuenca,River Ecuador,3,0,H,3,0,H
+ECU,2016-08-20,22:00,Delfín,Independiente del Valle,1,0,H,0,0,D
+ECU,2016-08-20,23:00,LDU Quito,CS Emelec,2,1,H,1,0,H
+ECU,2016-08-21,18:00,SD Aucas,Mushuc Runa,0,1,A,0,0,D
+ECU,2016-08-21,18:00,CD Universidad Catolica,El Nacional,0,0,D,0,0,D
+ECU,2016-08-21,22:30,Barcelona SC,Fuerza Amarilla Machala,5,1,H,0,1,A
+ECU,2016-08-26,18:00,CD Universidad Catolica,Delfín,1,0,H,0,0,D
+ECU,2016-08-26,21:30,Fuerza Amarilla Machala,LDU Quito,2,0,H,0,0,D
+ECU,2016-08-27,01:00,Independiente del Valle,Barcelona SC,2,0,H,1,0,H
+ECU,2016-08-27,01:30,CS Emelec,Deportivo Cuenca,2,1,H,2,1,H
+ECU,2016-08-27,22:00,River Ecuador,SD Aucas,1,0,H,1,0,H
+ECU,2016-08-27,22:00,Mushuc Runa,El Nacional,1,1,D,1,1,D
+ECU,2016-09-03,02:00,Deportivo Cuenca,Fuerza Amarilla Machala,3,2,H,0,0,D
+ECU,2016-09-04,17:15,El Nacional,River Ecuador,2,1,H,1,1,D
+ECU,2016-09-04,17:30,Mushuc Runa,Delfín,1,0,H,0,0,D
+ECU,2016-09-04,18:00,SD Aucas,CS Emelec,1,3,A,1,2,A
+ECU,2016-09-04,22:30,Barcelona SC,CD Universidad Catolica,3,1,H,0,1,A
+ECU,2016-09-10,01:30,CS Emelec,El Nacional,2,2,D,2,0,H
+ECU,2016-09-10,18:00,CD Universidad Catolica,LDU Quito,0,1,A,0,0,D
+ECU,2016-09-10,21:00,Fuerza Amarilla Machala,SD Aucas,1,1,D,0,1,A
+ECU,2016-09-10,22:00,River Ecuador,Mushuc Runa,0,0,D,0,0,D
+ECU,2016-09-10,23:00,Independiente del Valle,Deportivo Cuenca,0,1,A,0,0,D
+ECU,2016-09-11,21:00,Delfín,Barcelona SC,0,1,A,0,1,A
+ECU,2016-09-15,01:15,LDU Quito,Independiente del Valle,2,1,H,1,0,H
+ECU,2016-09-17,01:45,River Ecuador,Barcelona SC,0,1,A,0,1,A
+ECU,2016-09-17,02:00,Deportivo Cuenca,CD Universidad Catolica,0,1,A,0,1,A
+ECU,2016-09-17,23:00,LDU Quito,Delfín,2,1,H,1,1,D
+ECU,2016-09-18,01:00,SD Aucas,Independiente del Valle,0,2,A,0,0,D
+ECU,2016-09-18,17:15,El Nacional,Fuerza Amarilla Machala,0,0,D,0,0,D
+ECU,2016-09-18,18:00,Mushuc Runa,CS Emelec,3,0,H,2,0,H
+ECU,2016-09-21,21:30,Fuerza Amarilla Machala,Mushuc Runa,1,2,A,0,2,A
+ECU,2016-09-21,22:00,CS Emelec,River Ecuador,5,0,H,3,0,H
+ECU,2016-09-21,22:00,Delfín,Deportivo Cuenca,2,2,D,1,1,D
+ECU,2016-09-22,01:00,Independiente del Valle,El Nacional,0,1,A,0,1,A
+ECU,2016-09-22,01:00,CD Universidad Catolica,SD Aucas,1,1,D,1,1,D
+ECU,2016-09-22,01:45,Barcelona SC,LDU Quito,2,0,H,2,0,H
+ECU,2016-09-25,17:15,El Nacional,Delfín,5,2,H,3,2,H
+ECU,2016-09-25,17:30,Deportivo Cuenca,Barcelona SC,0,1,A,0,1,A
+ECU,2016-09-25,18:00,SD Aucas,LDU Quito,1,0,H,1,0,H
+ECU,2016-09-25,19:15,Mushuc Runa,CD Universidad Catolica,1,1,D,0,1,A
+ECU,2016-09-25,22:00,CS Emelec,Independiente del Valle,2,1,H,1,1,D
+ECU,2016-09-25,22:00,River Ecuador,Fuerza Amarilla Machala,2,1,H,2,0,H
+ECU,2016-09-30,21:30,Fuerza Amarilla Machala,CS Emelec,0,2,A,0,0,D
+ECU,2016-09-30,22:00,Delfín,SD Aucas,1,1,D,0,1,A
+ECU,2016-10-01,01:00,Independiente del Valle,Mushuc Runa,1,0,H,1,0,H
+ECU,2016-10-01,01:00,CD Universidad Catolica,River Ecuador,2,1,H,0,1,A
+ECU,2016-10-01,01:30,LDU Quito,Deportivo Cuenca,1,2,A,1,1,D
+ECU,2016-10-01,01:45,Barcelona SC,El Nacional,1,0,H,1,0,H
+ECU,2016-10-08,02:00,Deportivo Cuenca,LDU Quito,0,0,D,0,0,D
+ECU,2016-10-08,22:00,River Ecuador,CD Universidad Catolica,3,0,H,1,0,H
+ECU,2016-10-09,18:00,SD Aucas,Delfín,1,1,D,1,1,D
+ECU,2016-10-09,22:00,CS Emelec,Fuerza Amarilla Machala,3,1,H,2,1,H
+ECU,2016-10-15,18:00,CD Universidad Catolica,Mushuc Runa,6,1,H,3,0,H
+ECU,2016-10-15,21:00,Delfín,El Nacional,5,0,H,1,0,H
+ECU,2016-10-15,21:00,Fuerza Amarilla Machala,River Ecuador,2,1,H,2,0,H
+ECU,2016-10-15,22:30,Barcelona SC,Deportivo Cuenca,5,0,H,3,0,H
+ECU,2016-10-15,23:00,Independiente del Valle,CS Emelec,0,3,A,0,1,A
+ECU,2016-10-15,23:00,LDU Quito,SD Aucas,2,0,H,1,0,H
+ECU,2016-10-19,18:00,Mushuc Runa,Fuerza Amarilla Machala,1,1,D,0,1,A
+ECU,2016-10-20,01:00,SD Aucas,CD Universidad Catolica,2,0,H,1,0,H
+ECU,2016-10-20,01:15,LDU Quito,Barcelona SC,1,1,D,0,0,D
+ECU,2016-10-20,01:15,River Ecuador,CS Emelec,0,2,A,0,0,D
+ECU,2016-10-20,01:30,El Nacional,Independiente del Valle,2,1,H,2,0,H
+ECU,2016-10-20,02:00,Deportivo Cuenca,Delfín,3,1,H,1,0,H
+ECU,2016-10-22,22:00,CS Emelec,Mushuc Runa,3,2,H,0,2,A
+ECU,2016-10-23,00:00,Barcelona SC,River Ecuador,1,0,H,1,0,H
+ECU,2016-10-23,17:00,Independiente del Valle,SD Aucas,1,1,D,1,0,H
+ECU,2016-10-23,18:00,CD Universidad Catolica,Deportivo Cuenca,3,2,H,2,0,H
+ECU,2016-10-23,18:00,Delfín,LDU Quito,0,1,A,0,0,D
+ECU,2016-10-23,21:00,Fuerza Amarilla Machala,El Nacional,2,0,H,0,0,D
+ECU,2016-10-26,22:00,CS Emelec,Barcelona SC,0,1,A,0,1,A
+ECU,2016-10-26,22:00,Mushuc Runa,Independiente del Valle,1,3,A,0,3,A
+ECU,2016-10-29,18:00,SD Aucas,Fuerza Amarilla Machala,5,0,H,2,0,H
+ECU,2016-10-29,22:00,LDU Quito,CD Universidad Catolica,2,2,D,2,0,H
+ECU,2016-10-30,16:15,El Nacional,CS Emelec,1,2,A,0,1,A
+ECU,2016-10-30,16:30,Deportivo Cuenca,Independiente del Valle,0,1,A,0,0,D
+ECU,2016-10-30,17:00,Mushuc Runa,River Ecuador,0,2,A,0,0,D
+ECU,2016-10-30,22:00,Barcelona SC,Delfín,3,0,H,0,0,D
+ECU,2016-11-04,17:00,CD Universidad Catolica,Barcelona SC,1,1,D,0,0,D
+ECU,2016-11-04,20:30,River Ecuador,El Nacional,1,2,A,0,1,A
+ECU,2016-11-04,20:30,Fuerza Amarilla Machala,Deportivo Cuenca,3,0,H,3,0,H
+ECU,2016-11-04,21:00,Independiente del Valle,LDU Quito,1,1,D,0,0,D
+ECU,2016-11-04,21:00,CS Emelec,SD Aucas,2,1,H,1,1,D
+ECU,2016-11-05,20:00,Delfín,Mushuc Runa,2,1,H,2,0,H
+ECU,2016-11-12,00:00,El Nacional,Mushuc Runa,2,1,H,1,1,D
+ECU,2016-11-12,22:00,LDU Quito,Fuerza Amarilla Machala,1,1,D,0,1,A
+ECU,2016-11-13,17:00,SD Aucas,River Ecuador,3,1,H,0,0,D
+ECU,2016-11-13,17:00,Delfín,CD Universidad Catolica,3,1,H,2,1,H
+ECU,2016-11-17,00:30,El Nacional,Barcelona SC,0,1,A,0,0,D
+ECU,2016-11-19,17:00,River Ecuador,Deportivo Cuenca,2,1,H,0,0,D
+ECU,2016-11-19,21:00,CS Emelec,LDU Quito,3,0,H,1,0,H
+ECU,2016-11-19,22:00,Independiente del Valle,Delfín,2,1,H,2,1,H
+ECU,2016-11-20,16:15,El Nacional,CD Universidad Catolica,1,2,A,0,0,D
+ECU,2016-11-20,17:00,Mushuc Runa,SD Aucas,2,0,H,0,0,D
+ECU,2016-11-20,20:00,Fuerza Amarilla Machala,Barcelona SC,1,1,D,0,1,A
+ECU,2016-11-24,01:00,Barcelona SC,Independiente del Valle,1,0,H,1,0,H
+ECU,2016-11-24,01:00,Deportivo Cuenca,CS Emelec,2,2,D,1,1,D
+ECU,2016-11-26,21:00,Delfín,Fuerza Amarilla Machala,0,1,A,0,1,A
+ECU,2016-11-26,22:00,LDU Quito,River Ecuador,1,0,H,0,0,D
+ECU,2016-11-27,00:00,Deportivo Cuenca,Mushuc Runa,3,1,H,2,1,H
+ECU,2016-11-27,17:00,SD Aucas,El Nacional,0,0,D,0,0,D
+ECU,2016-11-27,17:00,CD Universidad Catolica,Independiente del Valle,3,1,H,2,0,H
+ECU,2016-11-27,22:00,Barcelona SC,CS Emelec,1,2,A,1,1,D
+ECU,2016-12-04,17:00,SD Aucas,Deportivo Cuenca,1,0,H,1,0,H
+ECU,2016-12-04,17:00,El Nacional,LDU Quito,5,0,H,2,0,H
+ECU,2016-12-04,17:00,CS Emelec,CD Universidad Catolica,1,1,D,1,1,D
+ECU,2016-12-04,17:00,River Ecuador,Delfín,0,1,A,0,1,A
+ECU,2016-12-04,17:00,Mushuc Runa,Barcelona SC,2,4,A,0,4,A
+ECU,2016-12-04,17:00,Fuerza Amarilla Machala,Independiente del Valle,1,2,A,0,1,A
+ECU,2016-12-10,21:00,Independiente del Valle,River Ecuador,3,2,H,1,1,D
+ECU,2016-12-10,21:00,CD Universidad Catolica,Fuerza Amarilla Machala,2,2,D,2,1,H
+ECU,2016-12-10,21:00,LDU Quito,Mushuc Runa,1,2,A,0,1,A
+ECU,2016-12-10,21:00,Barcelona SC,SD Aucas,3,3,D,3,0,H
+ECU,2016-12-10,21:00,Delfín,CS Emelec,4,3,H,2,3,A
+ECU,2016-12-10,21:00,Deportivo Cuenca,El Nacional,1,1,D,1,1,D

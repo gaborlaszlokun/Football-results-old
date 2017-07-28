@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ESP,1932-11-27,,Donostia FC,FC Barcelona,2,2,D,0,0,D
+ESP,1932-11-27,,Athletic Bilbao,Real Betis,9,1,H,3,0,H
+ESP,1932-11-27,,CD Alavés,Racing Santander,8,2,H,4,1,H
+ESP,1932-11-27,,Valencia CF,Arenas de Getxo,3,2,H,2,2,D
+ESP,1932-11-27,,Espanyol Barcelona,Real Madrid,2,1,H,1,0,H
+ESP,1932-12-04,,Racing Santander,Athletic Bilbao,0,1,A,0,0,D
+ESP,1932-12-04,,Arenas de Getxo,Espanyol Barcelona,0,2,A,0,1,A
+ESP,1932-12-04,,Real Betis,Valencia CF,3,2,H,3,2,H
+ESP,1932-12-04,,Real Madrid,Donostia FC,6,2,H,1,2,A
+ESP,1932-12-04,,FC Barcelona,CD Alavés,2,0,H,0,0,D
+ESP,1932-12-11,,CD Alavés,Real Madrid,0,1,A,0,1,A
+ESP,1932-12-11,,Athletic Bilbao,Arenas de Getxo,3,1,H,1,0,H
+ESP,1932-12-11,,Valencia CF,FC Barcelona,2,2,D,1,2,A
+ESP,1932-12-11,,Espanyol Barcelona,Racing Santander,2,1,H,2,0,H
+ESP,1932-12-12,,Real Betis,Donostia FC,4,2,H,2,2,D
+ESP,1932-12-18,,Athletic Bilbao,Espanyol Barcelona,0,2,A,0,1,A
+ESP,1932-12-18,,Racing Santander,Valencia CF,2,0,H,1,0,H
+ESP,1932-12-18,,Real Madrid,Real Betis,4,1,H,1,1,D
+ESP,1932-12-18,,FC Barcelona,Arenas de Getxo,5,2,H,3,1,H
+ESP,1932-12-18,,Donostia FC,CD Alavés,3,1,H,0,0,D
+ESP,1932-12-25,,Arenas de Getxo,Racing Santander,2,1,H,1,1,D
+ESP,1932-12-25,,CD Alavés,Athletic Bilbao,0,2,A,0,0,D
+ESP,1932-12-25,,Real Betis,FC Barcelona,2,1,H,2,0,H
+ESP,1932-12-25,,Espanyol Barcelona,Donostia FC,3,0,H,2,0,H
+ESP,1932-12-25,,Real Madrid,Valencia CF,6,0,H,4,0,H
+ESP,1933-01-01,,FC Barcelona,Real Madrid,1,1,D,0,0,D
+ESP,1933-01-01,,Donostia FC,Athletic Bilbao,2,4,A,2,1,H
+ESP,1933-01-01,,Valencia CF,Espanyol Barcelona,1,1,D,1,0,H
+ESP,1933-01-01,,Racing Santander,Real Betis,2,2,D,2,0,H
+ESP,1933-01-01,,Arenas de Getxo,CD Alavés,3,0,H,0,0,D
+ESP,1933-01-08,,Real Madrid,Racing Santander,4,1,H,0,1,A
+ESP,1933-01-08,,Real Betis,Arenas de Getxo,1,1,D,1,1,D
+ESP,1933-01-08,,Donostia FC,Valencia CF,4,1,H,2,0,H
+ESP,1933-01-08,,Athletic Bilbao,FC Barcelona,1,3,A,0,2,A
+ESP,1933-01-08,,Espanyol Barcelona,CD Alavés,3,1,H,3,1,H
+ESP,1933-01-15,,Valencia CF,Athletic Bilbao,1,5,A,0,2,A
+ESP,1933-01-17,,Arenas de Getxo,Real Madrid,1,5,A,0,1,A
+ESP,1933-01-17,,FC Barcelona,Espanyol Barcelona,1,1,D,0,0,D
+ESP,1933-01-17,,Racing Santander,Donostia FC,7,1,H,5,0,H
+ESP,1933-01-17,,CD Alavés,Real Betis,2,0,H,1,0,H
+ESP,1933-01-22,,Valencia CF,CD Alavés,5,2,H,2,1,H
+ESP,1933-01-22,,Athletic Bilbao,Real Madrid,0,2,A,0,1,A
+ESP,1933-01-22,,Real Betis,Espanyol Barcelona,1,2,A,1,1,D
+ESP,1933-01-22,,FC Barcelona,Racing Santander,4,0,H,3,0,H
+ESP,1933-01-22,,Donostia FC,Arenas de Getxo,2,1,H,0,0,D
+ESP,1933-01-29,,Real Madrid,Espanyol Barcelona,2,0,H,1,0,H
+ESP,1933-01-29,,Arenas de Getxo,Valencia CF,2,2,D,1,1,D
+ESP,1933-01-29,,FC Barcelona,Donostia FC,3,2,H,2,1,H
+ESP,1933-01-29,,Racing Santander,CD Alavés,9,0,H,5,0,H
+ESP,1933-01-29,,Real Betis,Athletic Bilbao,1,5,A,0,4,A
+ESP,1933-02-05,,Donostia FC,Real Madrid,1,2,A,0,1,A
+ESP,1933-02-05,,CD Alavés,FC Barcelona,2,1,H,2,1,H
+ESP,1933-02-05,,Valencia CF,Real Betis,2,1,H,0,1,A
+ESP,1933-02-05,,Athletic Bilbao,Racing Santander,9,5,H,5,3,H
+ESP,1933-02-05,,Espanyol Barcelona,Arenas de Getxo,3,2,H,1,1,D
+ESP,1933-02-12,,Arenas de Getxo,Athletic Bilbao,4,2,H,2,0,H
+ESP,1933-02-12,,Real Madrid,CD Alavés,2,0,H,1,0,H
+ESP,1933-02-12,,Donostia FC,Real Betis,2,2,D,2,1,H
+ESP,1933-02-12,,Racing Santander,Espanyol Barcelona,3,1,H,2,1,H
+ESP,1933-02-12,,FC Barcelona,Valencia CF,4,2,H,3,0,H
+ESP,1933-02-19,,Real Betis,Real Madrid,0,0,D,0,0,D
+ESP,1933-02-19,,Arenas de Getxo,FC Barcelona,5,1,H,4,1,H
+ESP,1933-02-19,,Espanyol Barcelona,Athletic Bilbao,2,5,A,1,2,A
+ESP,1933-02-19,,Valencia CF,Racing Santander,6,2,H,5,1,H
+ESP,1933-02-26,,Donostia FC,Espanyol Barcelona,6,1,H,3,1,H
+ESP,1933-02-26,,Athletic Bilbao,CD Alavés,4,0,H,2,0,H
+ESP,1933-02-26,,Racing Santander,Arenas de Getxo,2,1,H,1,0,H
+ESP,1933-02-26,,Valencia CF,Real Madrid,0,1,A,0,1,A
+ESP,1933-02-26,,FC Barcelona,Real Betis,4,1,H,2,1,H
+ESP,1933-02-28,,CD Alavés,Donostia FC,1,0,H,0,0,D
+ESP,1933-03-05,,Real Madrid,FC Barcelona,2,1,H,1,0,H
+ESP,1933-03-05,,Espanyol Barcelona,Valencia CF,5,2,H,1,1,D
+ESP,1933-03-05,,Athletic Bilbao,Donostia FC,1,2,A,1,1,D
+ESP,1933-03-05,,Real Betis,Racing Santander,3,2,H,0,2,A
+ESP,1933-03-05,,CD Alavés,Arenas de Getxo,1,1,D,0,1,A
+ESP,1933-03-12,,CD Alavés,Espanyol Barcelona,1,0,H,0,0,D
+ESP,1933-03-12,,Valencia CF,Donostia FC,2,2,D,1,2,A
+ESP,1933-03-12,,FC Barcelona,Athletic Bilbao,2,3,A,0,1,A
+ESP,1933-03-12,,Racing Santander,Real Madrid,4,2,H,3,0,H
+ESP,1933-03-12,,Arenas de Getxo,Real Betis,3,3,D,2,2,D
+ESP,1933-03-19,,Espanyol Barcelona,FC Barcelona,2,1,H,0,1,A
+ESP,1933-03-19,,Athletic Bilbao,Valencia CF,8,2,H,3,0,H
+ESP,1933-03-19,,Donostia FC,Racing Santander,8,0,H,3,0,H
+ESP,1933-03-19,,Real Madrid,Arenas de Getxo,8,2,H,2,1,H
+ESP,1933-03-19,,Real Betis,CD Alavés,3,1,H,1,1,D
+ESP,1933-03-26,,Racing Santander,FC Barcelona,4,4,D,2,1,H
+ESP,1933-03-26,,Real Madrid,Athletic Bilbao,0,1,A,0,1,A
+ESP,1933-03-26,,CD Alavés,Valencia CF,1,1,D,1,1,D
+ESP,1933-03-26,,Arenas de Getxo,Donostia FC,6,0,H,3,0,H
+ESP,1933-03-28,,Espanyol Barcelona,Real Betis,1,2,A,0,0,D

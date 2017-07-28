@@ -1,0 +1,460 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+JPN,2015-03-07,05:00,Vegalta Sendai,Montedio Yamagata,2,0,H,0,0,D
+JPN,2015-03-07,05:00,Nagoya Grampus,Matsumoto Yamaga,3,3,D,1,1,D
+JPN,2015-03-07,05:00,Gamba Osaka,FC Tokyo,2,2,D,1,0,H
+JPN,2015-03-07,05:00,Sanfrecce Hiroshima,Ventforet Kofu,2,0,H,1,0,H
+JPN,2015-03-07,05:00,Sagan Tosu,Albirex Niigata,2,1,H,1,1,D
+JPN,2015-03-07,06:00,Yokohama F. Marinos,Kawasaki Frontale,1,3,A,1,2,A
+JPN,2015-03-07,07:00,Vissel Kobe,Kashiwa Reysol,0,1,A,0,0,D
+JPN,2015-03-07,10:00,Shonan Bellmare,Urawa Red Diamonds,1,3,A,1,1,D
+JPN,2015-03-08,04:00,Shimizu S-Pulse,Kashima Antlers,3,1,H,1,0,H
+JPN,2015-03-13,10:00,Kashiwa Reysol,Vegalta Sendai,1,1,D,0,1,A
+JPN,2015-03-14,04:00,Albirex Niigata,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-03-14,05:00,Kashima Antlers,Shonan Bellmare,1,2,A,1,0,H
+JPN,2015-03-14,05:00,FC Tokyo,Yokohama F. Marinos,0,0,D,0,0,D
+JPN,2015-03-14,05:00,Ventforet Kofu,Nagoya Grampus,1,0,H,0,0,D
+JPN,2015-03-14,06:00,Urawa Red Diamonds,Montedio Yamagata,1,0,H,0,0,D
+JPN,2015-03-14,06:00,Kawasaki Frontale,Vissel Kobe,2,2,D,0,1,A
+JPN,2015-03-14,09:30,Sagan Tosu,Gamba Osaka,1,0,H,0,0,D
+JPN,2015-03-14,10:00,Matsumoto Yamaga,Sanfrecce Hiroshima,1,2,A,1,2,A
+JPN,2015-03-22,05:00,Ventforet Kofu,Gamba Osaka,0,2,A,0,0,D
+JPN,2015-03-22,05:00,Albirex Niigata,Kashiwa Reysol,3,2,H,0,0,D
+JPN,2015-03-22,05:00,Shimizu S-Pulse,Matsumoto Yamaga,0,1,A,0,1,A
+JPN,2015-03-22,05:00,Sanfrecce Hiroshima,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2015-03-22,06:00,Yokohama F. Marinos,Sagan Tosu,1,0,H,0,0,D
+JPN,2015-03-22,07:00,Shonan Bellmare,Vegalta Sendai,0,0,D,0,0,D
+JPN,2015-03-22,08:00,Nagoya Grampus,Kashima Antlers,1,1,D,0,1,A
+JPN,2015-03-22,08:00,Vissel Kobe,FC Tokyo,0,2,A,0,1,A
+JPN,2015-03-22,10:00,Montedio Yamagata,Kawasaki Frontale,1,0,H,0,0,D
+JPN,2015-04-03,11:00,Kashima Antlers,Sagan Tosu,3,1,H,0,1,A
+JPN,2015-04-03,11:00,Gamba Osaka,Nagoya Grampus,3,1,H,1,0,H
+JPN,2015-04-04,05:30,Vegalta Sendai,Shimizu S-Pulse,2,1,H,0,1,A
+JPN,2015-04-04,06:00,Montedio Yamagata,Shonan Bellmare,1,2,A,1,2,A
+JPN,2015-04-04,07:00,Urawa Red Diamonds,Matsumoto Yamaga,1,0,H,0,0,D
+JPN,2015-04-04,07:00,Kawasaki Frontale,Albirex Niigata,4,1,H,1,0,H
+JPN,2015-04-04,08:00,FC Tokyo,Ventforet Kofu,1,0,H,1,0,H
+JPN,2015-04-04,10:30,Sanfrecce Hiroshima,Vissel Kobe,0,1,A,0,0,D
+JPN,2015-04-04,11:00,Kashiwa Reysol,Yokohama F. Marinos,1,2,A,1,0,H
+JPN,2015-04-12,05:00,Matsumoto Yamaga,Kashiwa Reysol,1,3,A,0,1,A
+JPN,2015-04-12,06:00,Yokohama F. Marinos,Vegalta Sendai,1,1,D,0,0,D
+JPN,2015-04-12,06:00,Nagoya Grampus,Sanfrecce Hiroshima,2,0,H,1,0,H
+JPN,2015-04-12,07:00,Shimizu S-Pulse,Gamba Osaka,2,3,A,0,1,A
+JPN,2015-04-12,08:00,Shonan Bellmare,FC Tokyo,0,1,A,0,0,D
+JPN,2015-04-12,08:00,Vissel Kobe,Ventforet Kofu,4,1,H,2,0,H
+JPN,2015-04-12,08:00,Sagan Tosu,Montedio Yamagata,1,0,H,0,0,D
+JPN,2015-04-12,09:00,Kawasaki Frontale,Urawa Red Diamonds,1,1,D,1,0,H
+JPN,2015-04-12,11:00,Kashima Antlers,Albirex Niigata,1,1,D,0,1,A
+JPN,2015-04-16,11:00,Kashiwa Reysol,Kashima Antlers,1,3,A,0,1,A
+JPN,2015-04-18,06:00,Vegalta Sendai,Kawasaki Frontale,2,3,A,1,0,H
+JPN,2015-04-18,06:00,Montedio Yamagata,Matsumoto Yamaga,0,0,D,0,0,D
+JPN,2015-04-18,06:00,Ventforet Kofu,Sagan Tosu,0,3,A,0,2,A
+JPN,2015-04-18,06:00,Albirex Niigata,Vissel Kobe,2,2,D,2,1,H
+JPN,2015-04-18,08:00,FC Tokyo,Sanfrecce Hiroshima,1,2,A,1,1,D
+JPN,2015-04-18,09:00,Urawa Red Diamonds,Yokohama F. Marinos,2,1,H,2,1,H
+JPN,2015-04-18,10:30,Shonan Bellmare,Gamba Osaka,0,2,A,0,1,A
+JPN,2015-04-18,11:00,Nagoya Grampus,Shimizu S-Pulse,3,1,H,2,0,H
+JPN,2015-04-25,06:00,Kashima Antlers,Vissel Kobe,1,2,A,0,0,D
+JPN,2015-04-25,06:00,Matsumoto Yamaga,Vegalta Sendai,1,0,H,0,0,D
+JPN,2015-04-25,06:00,Sanfrecce Hiroshima,Shimizu S-Pulse,2,0,H,1,0,H
+JPN,2015-04-25,07:00,Yokohama F. Marinos,Shonan Bellmare,3,0,H,1,0,H
+JPN,2015-04-25,07:00,Sagan Tosu,Kashiwa Reysol,1,1,D,0,0,D
+JPN,2015-04-25,09:00,Urawa Red Diamonds,Nagoya Grampus,2,1,H,1,0,H
+JPN,2015-04-25,10:30,Montedio Yamagata,FC Tokyo,0,1,A,0,1,A
+JPN,2015-04-25,11:00,Kawasaki Frontale,Ventforet Kofu,3,0,H,1,0,H
+JPN,2015-04-26,06:00,Gamba Osaka,Albirex Niigata,2,1,H,0,0,D
+JPN,2015-04-29,06:00,Vegalta Sendai,Kashima Antlers,1,2,A,0,1,A
+JPN,2015-04-29,06:00,Kawasaki Frontale,Kashiwa Reysol,1,4,A,1,1,D
+JPN,2015-04-29,06:00,Albirex Niigata,FC Tokyo,0,1,A,0,0,D
+JPN,2015-04-29,06:00,Shimizu S-Pulse,Montedio Yamagata,3,3,D,3,0,H
+JPN,2015-04-29,08:00,Shonan Bellmare,Sagan Tosu,4,2,H,1,1,D
+JPN,2015-04-29,08:00,Gamba Osaka,Matsumoto Yamaga,1,0,H,1,0,H
+JPN,2015-04-29,08:00,Vissel Kobe,Nagoya Grampus,0,1,A,0,0,D
+JPN,2015-04-29,11:00,Ventforet Kofu,Urawa Red Diamonds,0,2,A,0,0,D
+JPN,2015-04-29,11:00,Yokohama F. Marinos,Sanfrecce Hiroshima,1,2,A,1,1,D
+JPN,2015-05-02,05:00,Nagoya Grampus,Shonan Bellmare,3,0,H,2,0,H
+JPN,2015-05-02,06:00,Montedio Yamagata,Yokohama F. Marinos,1,0,H,0,0,D
+JPN,2015-05-02,06:00,Urawa Red Diamonds,Gamba Osaka,1,0,H,0,0,D
+JPN,2015-05-02,07:00,Kashima Antlers,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-05-02,08:00,Kashiwa Reysol,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-05-02,08:00,FC Tokyo,Kawasaki Frontale,2,1,H,0,1,A
+JPN,2015-05-02,08:00,Sanfrecce Hiroshima,Vegalta Sendai,2,0,H,1,0,H
+JPN,2015-05-02,10:30,Matsumoto Yamaga,Albirex Niigata,1,2,A,1,1,D
+JPN,2015-05-02,11:00,Sagan Tosu,Vissel Kobe,1,1,D,1,0,H
+JPN,2015-05-06,06:00,Matsumoto Yamaga,Ventforet Kofu,2,0,H,0,0,D
+JPN,2015-05-06,06:00,Albirex Niigata,Montedio Yamagata,1,1,D,0,0,D
+JPN,2015-05-06,06:00,Shimizu S-Pulse,Sagan Tosu,2,2,D,1,1,D
+JPN,2015-05-06,07:00,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,A,0,1,A
+JPN,2015-05-06,07:00,Yokohama F. Marinos,Nagoya Grampus,2,0,H,1,0,H
+JPN,2015-05-06,09:00,Shonan Bellmare,Vissel Kobe,1,1,D,1,1,D
+JPN,2015-05-06,11:00,Vegalta Sendai,FC Tokyo,2,3,A,0,1,A
+JPN,2015-05-10,05:00,Nagoya Grampus,Kawasaki Frontale,0,1,A,0,1,A
+JPN,2015-05-10,06:00,Montedio Yamagata,Kashiwa Reysol,3,0,H,2,0,H
+JPN,2015-05-10,06:00,Yokohama F. Marinos,Albirex Niigata,1,0,H,0,0,D
+JPN,2015-05-10,06:00,Ventforet Kofu,Shonan Bellmare,0,1,A,0,0,D
+JPN,2015-05-10,07:00,Vegalta Sendai,Urawa Red Diamonds,4,4,D,1,1,D
+JPN,2015-05-10,07:00,Sagan Tosu,Matsumoto Yamaga,1,1,D,0,0,D
+JPN,2015-05-10,08:00,FC Tokyo,Kashima Antlers,0,1,A,0,1,A
+JPN,2015-05-10,08:00,Vissel Kobe,Shimizu S-Pulse,1,2,A,1,1,D
+JPN,2015-05-10,11:00,Sanfrecce Hiroshima,Gamba Osaka,0,1,A,0,0,D
+JPN,2015-05-14,11:00,Kashiwa Reysol,Shonan Bellmare,0,0,D,0,0,D
+JPN,2015-05-16,06:00,Ventforet Kofu,Montedio Yamagata,2,0,H,2,0,H
+JPN,2015-05-16,06:00,Matsumoto Yamaga,Vissel Kobe,2,0,H,0,0,D
+JPN,2015-05-16,06:00,Albirex Niigata,Vegalta Sendai,0,3,A,0,1,A
+JPN,2015-05-16,07:00,Kashima Antlers,Sanfrecce Hiroshima,2,2,D,0,0,D
+JPN,2015-05-16,07:00,Shimizu S-Pulse,Yokohama F. Marinos,1,2,A,0,1,A
+JPN,2015-05-16,07:30,Urawa Red Diamonds,FC Tokyo,4,1,H,2,0,H
+JPN,2015-05-16,10:30,Gamba Osaka,Kawasaki Frontale,1,1,D,1,0,H
+JPN,2015-05-16,11:00,Nagoya Grampus,Sagan Tosu,0,1,A,0,0,D
+JPN,2015-05-23,06:00,Montedio Yamagata,Vissel Kobe,0,1,A,0,0,D
+JPN,2015-05-23,09:00,Shonan Bellmare,Shimizu S-Pulse,4,0,H,0,0,D
+JPN,2015-05-23,10:30,Vegalta Sendai,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-05-23,11:00,Urawa Red Diamonds,Kashima Antlers,2,1,H,0,0,D
+JPN,2015-05-23,11:00,FC Tokyo,Nagoya Grampus,0,1,A,0,0,D
+JPN,2015-05-23,11:00,Kawasaki Frontale,Sagan Tosu,3,2,H,1,1,D
+JPN,2015-05-23,11:00,Matsumoto Yamaga,Yokohama F. Marinos,0,3,A,0,2,A
+JPN,2015-05-23,11:00,Sanfrecce Hiroshima,Albirex Niigata,4,2,H,2,1,H
+JPN,2015-05-30,05:00,Albirex Niigata,Ventforet Kofu,0,2,A,0,1,A
+JPN,2015-05-30,06:00,Nagoya Grampus,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-05-30,08:00,Vissel Kobe,Vegalta Sendai,0,1,A,0,1,A
+JPN,2015-05-30,11:00,Kashima Antlers,Matsumoto Yamaga,3,1,H,2,1,H
+JPN,2015-05-30,11:00,FC Tokyo,Kashiwa Reysol,2,1,H,1,0,H
+JPN,2015-05-30,11:00,Yokohama F. Marinos,Gamba Osaka,1,1,D,1,0,H
+JPN,2015-05-30,11:00,Shonan Bellmare,Sanfrecce Hiroshima,0,0,D,0,0,D
+JPN,2015-05-30,11:00,Shimizu S-Pulse,Kawasaki Frontale,5,2,H,2,1,H
+JPN,2015-05-30,11:00,Sagan Tosu,Urawa Red Diamonds,1,6,A,1,0,H
+JPN,2015-06-03,11:00,Kashiwa Reysol,Urawa Red Diamonds,3,3,D,2,1,H
+JPN,2015-06-03,11:00,Gamba Osaka,Kashima Antlers,2,0,H,1,0,H
+JPN,2015-06-07,08:00,Vegalta Sendai,Sagan Tosu,5,0,H,0,0,D
+JPN,2015-06-07,08:00,Montedio Yamagata,Kashima Antlers,2,2,D,1,1,D
+JPN,2015-06-07,08:00,Urawa Red Diamonds,Shimizu S-Pulse,1,0,H,0,0,D
+JPN,2015-06-07,08:00,Kashiwa Reysol,Sanfrecce Hiroshima,2,3,A,1,1,D
+JPN,2015-06-07,08:00,Kawasaki Frontale,Shonan Bellmare,2,1,H,0,1,A
+JPN,2015-06-07,08:00,Ventforet Kofu,Yokohama F. Marinos,1,1,D,0,1,A
+JPN,2015-06-07,08:00,Matsumoto Yamaga,FC Tokyo,1,2,A,0,2,A
+JPN,2015-06-07,08:00,Albirex Niigata,Nagoya Grampus,1,1,D,1,1,D
+JPN,2015-06-07,08:00,Gamba Osaka,Vissel Kobe,0,0,D,0,0,D
+JPN,2015-06-20,08:00,Kawasaki Frontale,Matsumoto Yamaga,2,0,H,1,0,H
+JPN,2015-06-20,08:00,Yokohama F. Marinos,Kashima Antlers,0,3,A,0,2,A
+JPN,2015-06-20,08:00,Shonan Bellmare,Albirex Niigata,1,3,A,1,0,H
+JPN,2015-06-20,08:00,Shimizu S-Pulse,Ventforet Kofu,0,2,A,0,1,A
+JPN,2015-06-20,08:00,Nagoya Grampus,Kashiwa Reysol,1,0,H,0,0,D
+JPN,2015-06-20,08:00,Gamba Osaka,Vegalta Sendai,1,1,D,1,0,H
+JPN,2015-06-20,08:00,Vissel Kobe,Urawa Red Diamonds,1,1,D,0,1,A
+JPN,2015-06-20,08:00,Sanfrecce Hiroshima,Montedio Yamagata,5,1,H,4,0,H
+JPN,2015-06-20,08:00,Sagan Tosu,FC Tokyo,1,2,A,1,0,H
+JPN,2015-06-23,11:00,Kashiwa Reysol,Gamba Osaka,1,0,H,1,0,H
+JPN,2015-06-27,11:00,Vegalta Sendai,Nagoya Grampus,2,0,H,1,0,H
+JPN,2015-06-27,11:00,Montedio Yamagata,Gamba Osaka,1,3,A,0,0,D
+JPN,2015-06-27,11:00,Kashima Antlers,Kawasaki Frontale,2,3,A,1,2,A
+JPN,2015-06-27,11:00,Urawa Red Diamonds,Albirex Niigata,5,2,H,2,0,H
+JPN,2015-06-27,11:00,FC Tokyo,Shimizu S-Pulse,3,2,H,1,0,H
+JPN,2015-06-27,11:00,Ventforet Kofu,Kashiwa Reysol,1,1,D,0,0,D
+JPN,2015-06-27,11:00,Matsumoto Yamaga,Shonan Bellmare,2,3,A,0,0,D
+JPN,2015-06-27,11:00,Vissel Kobe,Yokohama F. Marinos,1,1,D,1,1,D
+JPN,2015-06-27,11:00,Sagan Tosu,Sanfrecce Hiroshima,2,2,D,1,0,H
+JPN,2015-07-11,10:00,Vegalta Sendai,Sanfrecce Hiroshima,3,4,A,1,3,A
+JPN,2015-07-11,10:00,Shonan Bellmare,Nagoya Grampus,2,1,H,1,0,H
+JPN,2015-07-11,10:00,Vegalta Sendai,Sanfrecce Hiroshima,3,4,A,1,3,A
+JPN,2015-07-11,10:00,Shonan Bellmare,Nagoya Grampus,2,1,H,1,0,H
+JPN,2015-07-11,10:30,Kawasaki Frontale,FC Tokyo,2,0,H,0,0,D
+JPN,2015-07-11,10:30,Kawasaki Frontale,FC Tokyo,2,0,H,0,0,D
+JPN,2015-07-11,11:00,Kashiwa Reysol,Sagan Tosu,2,3,A,0,3,A
+JPN,2015-07-11,11:00,Yokohama F. Marinos,Montedio Yamagata,1,1,D,1,1,D
+JPN,2015-07-11,11:00,Matsumoto Yamaga,Urawa Red Diamonds,1,2,A,0,1,A
+JPN,2015-07-11,11:00,Albirex Niigata,Kashima Antlers,2,3,A,2,1,H
+JPN,2015-07-11,11:00,Shimizu S-Pulse,Vissel Kobe,0,5,A,0,3,A
+JPN,2015-07-11,11:00,Gamba Osaka,Ventforet Kofu,2,1,H,1,1,D
+JPN,2015-07-11,11:00,Kashiwa Reysol,Sagan Tosu,2,3,A,0,3,A
+JPN,2015-07-11,11:00,Yokohama F. Marinos,Montedio Yamagata,1,1,D,1,1,D
+JPN,2015-07-11,11:00,Matsumoto Yamaga,Urawa Red Diamonds,1,2,A,0,1,A
+JPN,2015-07-11,11:00,Albirex Niigata,Kashima Antlers,2,3,A,2,1,H
+JPN,2015-07-11,11:00,Shimizu S-Pulse,Vissel Kobe,0,5,A,0,3,A
+JPN,2015-07-11,11:00,Gamba Osaka,Ventforet Kofu,2,1,H,1,1,D
+JPN,2015-07-15,10:00,Sagan Tosu,Kawasaki Frontale,1,1,D,1,1,D
+JPN,2015-07-15,10:00,Sagan Tosu,Kawasaki Frontale,1,1,D,1,1,D
+JPN,2015-07-15,11:00,Montedio Yamagata,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2015-07-15,11:00,Kashima Antlers,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-07-15,11:00,FC Tokyo,Albirex Niigata,3,1,H,1,0,H
+JPN,2015-07-15,11:00,Yokohama F. Marinos,Kashiwa Reysol,0,1,A,0,1,A
+JPN,2015-07-15,11:00,Ventforet Kofu,Vegalta Sendai,0,0,D,0,0,D
+JPN,2015-07-15,11:00,Nagoya Grampus,Gamba Osaka,3,2,H,0,2,A
+JPN,2015-07-15,11:00,Vissel Kobe,Shonan Bellmare,1,1,D,1,1,D
+JPN,2015-07-15,11:00,Sanfrecce Hiroshima,Matsumoto Yamaga,6,0,H,3,0,H
+JPN,2015-07-15,11:00,Montedio Yamagata,Urawa Red Diamonds,0,0,D,0,0,D
+JPN,2015-07-15,11:00,Kashima Antlers,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-07-15,11:00,FC Tokyo,Albirex Niigata,3,1,H,1,0,H
+JPN,2015-07-15,11:00,Yokohama F. Marinos,Kashiwa Reysol,0,1,A,0,1,A
+JPN,2015-07-15,11:00,Ventforet Kofu,Vegalta Sendai,0,0,D,0,0,D
+JPN,2015-07-15,11:00,Nagoya Grampus,Gamba Osaka,3,2,H,0,2,A
+JPN,2015-07-15,11:00,Vissel Kobe,Shonan Bellmare,1,1,D,1,1,D
+JPN,2015-07-15,11:00,Sanfrecce Hiroshima,Matsumoto Yamaga,6,0,H,3,0,H
+JPN,2015-07-19,10:00,Matsumoto Yamaga,Kashima Antlers,2,0,H,2,0,H
+JPN,2015-07-19,10:00,Matsumoto Yamaga,Kashima Antlers,2,0,H,2,0,H
+JPN,2015-07-19,10:30,Shimizu S-Pulse,Nagoya Grampus,2,2,D,0,0,D
+JPN,2015-07-19,10:30,Shimizu S-Pulse,Nagoya Grampus,2,2,D,0,0,D
+JPN,2015-07-19,11:00,Vegalta Sendai,Vissel Kobe,1,2,A,0,0,D
+JPN,2015-07-19,11:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,2,A,1,0,H
+JPN,2015-07-19,11:00,Kashiwa Reysol,Kawasaki Frontale,1,0,H,1,0,H
+JPN,2015-07-19,11:00,FC Tokyo,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-07-19,11:00,Shonan Bellmare,Ventforet Kofu,0,2,A,0,0,D
+JPN,2015-07-19,11:00,Albirex Niigata,Sagan Tosu,1,0,H,1,0,H
+JPN,2015-07-19,11:00,Gamba Osaka,Yokohama F. Marinos,2,2,D,1,0,H
+JPN,2015-07-19,11:00,Vegalta Sendai,Vissel Kobe,1,2,A,0,0,D
+JPN,2015-07-19,11:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,2,A,1,0,H
+JPN,2015-07-19,11:00,Kashiwa Reysol,Kawasaki Frontale,1,0,H,1,0,H
+JPN,2015-07-19,11:00,FC Tokyo,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-07-19,11:00,Shonan Bellmare,Ventforet Kofu,0,2,A,0,0,D
+JPN,2015-07-19,11:00,Albirex Niigata,Sagan Tosu,1,0,H,1,0,H
+JPN,2015-07-19,11:00,Gamba Osaka,Yokohama F. Marinos,2,2,D,1,0,H
+JPN,2015-07-22,11:00,Gamba Osaka,Sagan Tosu,1,1,D,1,0,H
+JPN,2015-07-22,11:00,Gamba Osaka,Sagan Tosu,1,1,D,1,0,H
+JPN,2015-07-25,10:00,Ventforet Kofu,Matsumoto Yamaga,0,1,A,0,1,A
+JPN,2015-07-25,10:00,Ventforet Kofu,Matsumoto Yamaga,0,1,A,0,1,A
+JPN,2015-07-25,10:30,Kashima Antlers,FC Tokyo,2,1,H,1,0,H
+JPN,2015-07-25,10:30,Kashima Antlers,FC Tokyo,2,1,H,1,0,H
+JPN,2015-07-25,11:00,Vegalta Sendai,Kashiwa Reysol,0,1,A,0,0,D
+JPN,2015-07-25,11:00,Kawasaki Frontale,Shimizu S-Pulse,3,2,H,1,2,A
+JPN,2015-07-25,11:00,Nagoya Grampus,Urawa Red Diamonds,2,1,H,1,1,D
+JPN,2015-07-25,11:00,Vissel Kobe,Gamba Osaka,1,2,A,1,1,D
+JPN,2015-07-25,11:00,Sanfrecce Hiroshima,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2015-07-25,11:00,Sagan Tosu,Shonan Bellmare,1,1,D,1,1,D
+JPN,2015-07-25,11:00,Vegalta Sendai,Kashiwa Reysol,0,1,A,0,0,D
+JPN,2015-07-25,11:00,Kawasaki Frontale,Shimizu S-Pulse,3,2,H,1,2,A
+JPN,2015-07-25,11:00,Nagoya Grampus,Urawa Red Diamonds,2,1,H,1,1,D
+JPN,2015-07-25,11:00,Vissel Kobe,Gamba Osaka,1,2,A,1,1,D
+JPN,2015-07-25,11:00,Sanfrecce Hiroshima,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2015-07-25,11:00,Sagan Tosu,Shonan Bellmare,1,1,D,1,1,D
+JPN,2015-07-25,11:30,Montedio Yamagata,Albirex Niigata,1,3,A,0,2,A
+JPN,2015-07-25,11:30,Montedio Yamagata,Albirex Niigata,1,3,A,0,2,A
+JPN,2015-07-29,11:00,Montedio Yamagata,Nagoya Grampus,0,3,A,0,1,A
+JPN,2015-07-29,11:00,Urawa Red Diamonds,Ventforet Kofu,1,1,D,1,0,H
+JPN,2015-07-29,11:00,FC Tokyo,Vegalta Sendai,3,1,H,3,0,H
+JPN,2015-07-29,11:00,Shonan Bellmare,Kashiwa Reysol,3,0,H,1,0,H
+JPN,2015-07-29,11:00,Matsumoto Yamaga,Kawasaki Frontale,1,3,A,0,3,A
+JPN,2015-07-29,11:00,Albirex Niigata,Gamba Osaka,2,2,D,1,0,H
+JPN,2015-07-29,11:00,Vissel Kobe,Sanfrecce Hiroshima,0,4,A,0,3,A
+JPN,2015-07-29,11:00,Sagan Tosu,Kashima Antlers,0,3,A,0,0,D
+JPN,2015-07-29,11:00,Montedio Yamagata,Nagoya Grampus,0,3,A,0,1,A
+JPN,2015-07-29,11:00,Urawa Red Diamonds,Ventforet Kofu,1,1,D,1,0,H
+JPN,2015-07-29,11:00,FC Tokyo,Vegalta Sendai,3,1,H,3,0,H
+JPN,2015-07-29,11:00,Shonan Bellmare,Kashiwa Reysol,3,0,H,1,0,H
+JPN,2015-07-29,11:00,Matsumoto Yamaga,Kawasaki Frontale,1,3,A,0,3,A
+JPN,2015-07-29,11:00,Albirex Niigata,Gamba Osaka,2,2,D,1,0,H
+JPN,2015-07-29,11:00,Vissel Kobe,Sanfrecce Hiroshima,0,4,A,0,3,A
+JPN,2015-07-29,11:00,Sagan Tosu,Kashima Antlers,0,3,A,0,0,D
+JPN,2015-07-29,11:30,Yokohama F. Marinos,Shimizu S-Pulse,1,2,A,1,0,H
+JPN,2015-07-29,11:30,Yokohama F. Marinos,Shimizu S-Pulse,1,2,A,1,0,H
+JPN,2015-08-12,11:00,Vegalta Sendai,Matsumoto Yamaga,3,1,H,0,1,A
+JPN,2015-08-12,11:00,Kashiwa Reysol,Vissel Kobe,2,0,H,1,0,H
+JPN,2015-08-12,11:00,Kawasaki Frontale,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-08-12,11:00,Ventforet Kofu,FC Tokyo,0,1,A,0,0,D
+JPN,2015-08-12,11:00,Albirex Niigata,Urawa Red Diamonds,1,2,A,1,1,D
+JPN,2015-08-12,11:00,Shimizu S-Pulse,Shonan Bellmare,1,2,A,0,1,A
+JPN,2015-08-12,11:00,Nagoya Grampus,Yokohama F. Marinos,0,3,A,0,2,A
+JPN,2015-08-12,11:00,Sanfrecce Hiroshima,Kashima Antlers,0,1,A,0,1,A
+JPN,2015-08-12,11:00,Vegalta Sendai,Matsumoto Yamaga,3,1,H,0,1,A
+JPN,2015-08-12,11:00,Kashiwa Reysol,Vissel Kobe,2,0,H,1,0,H
+JPN,2015-08-12,11:00,Kawasaki Frontale,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-08-12,11:00,Ventforet Kofu,FC Tokyo,0,1,A,0,0,D
+JPN,2015-08-12,11:00,Albirex Niigata,Urawa Red Diamonds,1,2,A,1,1,D
+JPN,2015-08-12,11:00,Shimizu S-Pulse,Shonan Bellmare,1,2,A,0,1,A
+JPN,2015-08-12,11:00,Nagoya Grampus,Yokohama F. Marinos,0,3,A,0,2,A
+JPN,2015-08-12,11:00,Sanfrecce Hiroshima,Kashima Antlers,0,1,A,0,1,A
+JPN,2015-08-16,10:00,Montedio Yamagata,Sagan Tosu,1,3,A,0,1,A
+JPN,2015-08-16,10:00,Urawa Red Diamonds,Shonan Bellmare,1,0,H,0,0,D
+JPN,2015-08-16,10:00,FC Tokyo,Gamba Osaka,2,1,H,1,0,H
+JPN,2015-08-16,10:00,Yokohama F. Marinos,Ventforet Kofu,2,0,H,1,0,H
+JPN,2015-08-16,10:00,Matsumoto Yamaga,Nagoya Grampus,0,1,A,0,1,A
+JPN,2015-08-16,10:00,Shimizu S-Pulse,Albirex Niigata,1,1,D,1,1,D
+JPN,2015-08-16,10:00,Vissel Kobe,Kawasaki Frontale,2,0,H,1,0,H
+JPN,2015-08-16,10:00,Montedio Yamagata,Sagan Tosu,1,3,A,0,1,A
+JPN,2015-08-16,10:00,Urawa Red Diamonds,Shonan Bellmare,1,0,H,0,0,D
+JPN,2015-08-16,10:00,FC Tokyo,Gamba Osaka,2,1,H,1,0,H
+JPN,2015-08-16,10:00,Yokohama F. Marinos,Ventforet Kofu,2,0,H,1,0,H
+JPN,2015-08-16,10:00,Matsumoto Yamaga,Nagoya Grampus,0,1,A,0,1,A
+JPN,2015-08-16,10:00,Shimizu S-Pulse,Albirex Niigata,1,1,D,1,1,D
+JPN,2015-08-16,10:00,Vissel Kobe,Kawasaki Frontale,2,0,H,1,0,H
+JPN,2015-08-16,11:00,Kashima Antlers,Vegalta Sendai,3,2,H,1,2,A
+JPN,2015-08-16,11:00,Sanfrecce Hiroshima,Kashiwa Reysol,0,3,A,0,1,A
+JPN,2015-08-16,11:00,Kashima Antlers,Vegalta Sendai,3,2,H,1,2,A
+JPN,2015-08-16,11:00,Sanfrecce Hiroshima,Kashiwa Reysol,0,3,A,0,1,A
+JPN,2015-08-20,11:00,Kashiwa Reysol,Matsumoto Yamaga,2,0,H,1,0,H
+JPN,2015-08-20,11:00,Kashiwa Reysol,Matsumoto Yamaga,2,0,H,1,0,H
+JPN,2015-08-22,10:00,Ventforet Kofu,Vissel Kobe,1,0,H,0,0,D
+JPN,2015-08-22,10:00,Ventforet Kofu,Vissel Kobe,1,0,H,0,0,D
+JPN,2015-08-22,10:30,Kashima Antlers,Montedio Yamagata,3,0,H,1,0,H
+JPN,2015-08-22,10:30,Urawa Red Diamonds,Vegalta Sendai,3,1,H,2,1,H
+JPN,2015-08-22,10:30,Kashima Antlers,Montedio Yamagata,3,0,H,1,0,H
+JPN,2015-08-22,10:30,Urawa Red Diamonds,Vegalta Sendai,3,1,H,2,1,H
+JPN,2015-08-22,11:00,Shonan Bellmare,Kawasaki Frontale,2,1,H,1,1,D
+JPN,2015-08-22,11:00,Albirex Niigata,Sanfrecce Hiroshima,0,2,A,0,0,D
+JPN,2015-08-22,11:00,Nagoya Grampus,FC Tokyo,0,0,D,0,0,D
+JPN,2015-08-22,11:00,Gamba Osaka,Shimizu S-Pulse,1,0,H,1,0,H
+JPN,2015-08-22,11:00,Sagan Tosu,Yokohama F. Marinos,1,2,A,1,0,H
+JPN,2015-08-22,11:00,Shonan Bellmare,Kawasaki Frontale,2,1,H,1,1,D
+JPN,2015-08-22,11:00,Albirex Niigata,Sanfrecce Hiroshima,0,2,A,0,0,D
+JPN,2015-08-22,11:00,Nagoya Grampus,FC Tokyo,0,0,D,0,0,D
+JPN,2015-08-22,11:00,Gamba Osaka,Shimizu S-Pulse,1,0,H,1,0,H
+JPN,2015-08-22,11:00,Sagan Tosu,Yokohama F. Marinos,1,2,A,1,0,H
+JPN,2015-08-29,10:00,Shimizu S-Pulse,FC Tokyo,1,1,D,0,0,D
+JPN,2015-08-29,10:00,Shimizu S-Pulse,FC Tokyo,1,1,D,0,0,D
+JPN,2015-08-29,10:30,Yokohama F. Marinos,Urawa Red Diamonds,4,0,H,2,0,H
+JPN,2015-08-29,10:30,Yokohama F. Marinos,Urawa Red Diamonds,4,0,H,2,0,H
+JPN,2015-08-29,11:00,Vegalta Sendai,Albirex Niigata,0,1,A,0,0,D
+JPN,2015-08-29,11:00,Kawasaki Frontale,Kashima Antlers,1,3,A,0,0,D
+JPN,2015-08-29,11:00,Vissel Kobe,Sagan Tosu,7,1,H,2,1,H
+JPN,2015-08-29,11:00,Sanfrecce Hiroshima,Nagoya Grampus,5,2,H,2,0,H
+JPN,2015-08-29,11:00,Vegalta Sendai,Albirex Niigata,0,1,A,0,0,D
+JPN,2015-08-29,11:00,Kawasaki Frontale,Kashima Antlers,1,3,A,0,0,D
+JPN,2015-08-29,11:00,Vissel Kobe,Sagan Tosu,7,1,H,2,1,H
+JPN,2015-08-29,11:00,Sanfrecce Hiroshima,Nagoya Grampus,5,2,H,2,0,H
+JPN,2015-08-30,11:00,Kashiwa Reysol,Ventforet Kofu,2,2,D,2,0,H
+JPN,2015-08-30,11:00,Gamba Osaka,Shonan Bellmare,1,0,H,1,0,H
+JPN,2015-08-30,11:00,Kashiwa Reysol,Ventforet Kofu,2,2,D,2,0,H
+JPN,2015-08-30,11:00,Gamba Osaka,Shonan Bellmare,1,0,H,1,0,H
+JPN,2015-09-11,11:30,Urawa Red Diamonds,Kashiwa Reysol,1,0,H,0,0,D
+JPN,2015-09-11,11:30,Urawa Red Diamonds,Kashiwa Reysol,1,0,H,0,0,D
+JPN,2015-09-12,10:30,Kashima Antlers,Gamba Osaka,1,2,A,0,2,A
+JPN,2015-09-12,10:30,Ventforet Kofu,Kawasaki Frontale,1,3,A,1,1,D
+JPN,2015-09-12,10:30,Nagoya Grampus,Vegalta Sendai,0,1,A,0,0,D
+JPN,2015-09-12,10:30,Kashima Antlers,Gamba Osaka,1,2,A,0,2,A
+JPN,2015-09-12,10:30,Ventforet Kofu,Kawasaki Frontale,1,3,A,1,1,D
+JPN,2015-09-12,10:30,Nagoya Grampus,Vegalta Sendai,0,1,A,0,0,D
+JPN,2015-09-12,11:00,Montedio Yamagata,Sanfrecce Hiroshima,1,3,A,1,1,D
+JPN,2015-09-12,11:00,FC Tokyo,Vissel Kobe,3,0,H,1,0,H
+JPN,2015-09-12,11:00,Shonan Bellmare,Matsumoto Yamaga,1,1,D,0,1,A
+JPN,2015-09-12,11:00,Albirex Niigata,Yokohama F. Marinos,1,1,D,1,0,H
+JPN,2015-09-12,11:00,Sagan Tosu,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-09-12,11:00,Montedio Yamagata,Sanfrecce Hiroshima,1,3,A,1,1,D
+JPN,2015-09-12,11:00,FC Tokyo,Vissel Kobe,3,0,H,1,0,H
+JPN,2015-09-12,11:00,Shonan Bellmare,Matsumoto Yamaga,1,1,D,0,1,A
+JPN,2015-09-12,11:00,Albirex Niigata,Yokohama F. Marinos,1,1,D,1,0,H
+JPN,2015-09-12,11:00,Sagan Tosu,Shimizu S-Pulse,0,0,D,0,0,D
+JPN,2015-09-19,09:00,Ventforet Kofu,Kashima Antlers,0,1,A,0,0,D
+JPN,2015-09-19,09:00,Ventforet Kofu,Kashima Antlers,0,1,A,0,0,D
+JPN,2015-09-19,10:30,Vegalta Sendai,Shonan Bellmare,1,1,D,1,0,H
+JPN,2015-09-19,10:30,Vegalta Sendai,Shonan Bellmare,1,1,D,1,0,H
+JPN,2015-09-19,11:00,Kawasaki Frontale,Nagoya Grampus,6,1,H,3,0,H
+JPN,2015-09-19,11:00,Yokohama F. Marinos,FC Tokyo,1,0,H,0,0,D
+JPN,2015-09-19,11:00,Shimizu S-Pulse,Urawa Red Diamonds,1,4,A,1,1,D
+JPN,2015-09-19,11:00,Vissel Kobe,Albirex Niigata,1,2,A,0,0,D
+JPN,2015-09-19,11:00,Sanfrecce Hiroshima,Sagan Tosu,0,0,D,0,0,D
+JPN,2015-09-19,11:00,Kawasaki Frontale,Nagoya Grampus,6,1,H,3,0,H
+JPN,2015-09-19,11:00,Yokohama F. Marinos,FC Tokyo,1,0,H,0,0,D
+JPN,2015-09-19,11:00,Shimizu S-Pulse,Urawa Red Diamonds,1,4,A,1,1,D
+JPN,2015-09-19,11:00,Vissel Kobe,Albirex Niigata,1,2,A,0,0,D
+JPN,2015-09-19,11:00,Sanfrecce Hiroshima,Sagan Tosu,0,0,D,0,0,D
+JPN,2015-09-20,06:00,Matsumoto Yamaga,Gamba Osaka,1,1,D,1,0,H
+JPN,2015-09-20,06:00,Matsumoto Yamaga,Gamba Osaka,1,1,D,1,0,H
+JPN,2015-09-20,11:00,Kashiwa Reysol,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-09-20,11:00,Kashiwa Reysol,Montedio Yamagata,0,0,D,0,0,D
+JPN,2015-09-23,06:00,Matsumoto Yamaga,Montedio Yamagata,2,2,D,1,1,D
+JPN,2015-09-23,06:00,Matsumoto Yamaga,Montedio Yamagata,2,2,D,1,1,D
+JPN,2015-09-26,06:00,Montedio Yamagata,Vegalta Sendai,1,1,D,0,0,D
+JPN,2015-09-26,06:00,Montedio Yamagata,Vegalta Sendai,1,1,D,0,0,D
+JPN,2015-09-26,07:00,Kashima Antlers,Urawa Red Diamonds,1,2,A,1,1,D
+JPN,2015-09-26,07:00,Shonan Bellmare,Yokohama F. Marinos,1,1,D,0,0,D
+JPN,2015-09-26,07:00,Shimizu S-Pulse,Sanfrecce Hiroshima,1,5,A,0,2,A
+JPN,2015-09-26,07:00,Sagan Tosu,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-09-26,07:00,Kashima Antlers,Urawa Red Diamonds,1,2,A,1,1,D
+JPN,2015-09-26,07:00,Shonan Bellmare,Yokohama F. Marinos,1,1,D,0,0,D
+JPN,2015-09-26,07:00,Shimizu S-Pulse,Sanfrecce Hiroshima,1,5,A,0,2,A
+JPN,2015-09-26,07:00,Sagan Tosu,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-09-26,08:00,Gamba Osaka,Kashiwa Reysol,3,1,H,2,0,H
+JPN,2015-09-26,08:00,Gamba Osaka,Kashiwa Reysol,3,1,H,2,0,H
+JPN,2015-09-26,10:30,FC Tokyo,Matsumoto Yamaga,1,0,H,1,0,H
+JPN,2015-09-26,10:30,FC Tokyo,Matsumoto Yamaga,1,0,H,1,0,H
+JPN,2015-09-26,11:00,Albirex Niigata,Kawasaki Frontale,1,2,A,1,0,H
+JPN,2015-09-26,11:00,Albirex Niigata,Kawasaki Frontale,1,2,A,1,0,H
+JPN,2015-09-26,11:30,Nagoya Grampus,Vissel Kobe,2,0,H,1,0,H
+JPN,2015-09-26,11:30,Nagoya Grampus,Vissel Kobe,2,0,H,1,0,H
+JPN,2015-10-03,06:00,Vegalta Sendai,Yokohama F. Marinos,1,3,A,0,1,A
+JPN,2015-10-03,06:00,Vegalta Sendai,Yokohama F. Marinos,1,3,A,0,1,A
+JPN,2015-10-03,07:00,Matsumoto Yamaga,Shimizu S-Pulse,1,0,H,1,0,H
+JPN,2015-10-03,07:00,Vissel Kobe,Kashima Antlers,0,2,A,0,1,A
+JPN,2015-10-03,07:00,Matsumoto Yamaga,Shimizu S-Pulse,1,0,H,1,0,H
+JPN,2015-10-03,07:00,Vissel Kobe,Kashima Antlers,0,2,A,0,1,A
+JPN,2015-10-03,08:00,Urawa Red Diamonds,Sagan Tosu,1,1,D,1,1,D
+JPN,2015-10-03,08:00,Shonan Bellmare,Montedio Yamagata,0,1,A,0,0,D
+JPN,2015-10-03,08:00,Urawa Red Diamonds,Sagan Tosu,1,1,D,1,1,D
+JPN,2015-10-03,08:00,Shonan Bellmare,Montedio Yamagata,0,1,A,0,0,D
+JPN,2015-10-03,10:30,Ventforet Kofu,Albirex Niigata,0,0,D,0,0,D
+JPN,2015-10-03,10:30,Ventforet Kofu,Albirex Niigata,0,0,D,0,0,D
+JPN,2015-10-03,11:00,Kashiwa Reysol,Nagoya Grampus,3,1,H,2,1,H
+JPN,2015-10-03,11:00,Sanfrecce Hiroshima,FC Tokyo,0,1,A,0,0,D
+JPN,2015-10-03,11:00,Kashiwa Reysol,Nagoya Grampus,3,1,H,2,1,H
+JPN,2015-10-03,11:00,Sanfrecce Hiroshima,FC Tokyo,0,1,A,0,0,D
+JPN,2015-10-04,06:00,Kawasaki Frontale,Gamba Osaka,5,3,H,2,1,H
+JPN,2015-10-04,06:00,Kawasaki Frontale,Gamba Osaka,5,3,H,2,1,H
+JPN,2015-10-17,06:00,Kashima Antlers,Kashiwa Reysol,3,2,H,1,2,A
+JPN,2015-10-17,06:00,FC Tokyo,Shonan Bellmare,1,2,A,0,1,A
+JPN,2015-10-17,06:00,Yokohama F. Marinos,Vissel Kobe,2,1,H,0,1,A
+JPN,2015-10-17,06:00,Shimizu S-Pulse,Vegalta Sendai,0,1,A,0,1,A
+JPN,2015-10-17,06:00,Gamba Osaka,Urawa Red Diamonds,2,1,H,1,0,H
+JPN,2015-10-17,06:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,H,0,0,D
+JPN,2015-10-17,06:00,Kashima Antlers,Kashiwa Reysol,3,2,H,1,2,A
+JPN,2015-10-17,06:00,FC Tokyo,Shonan Bellmare,1,2,A,0,1,A
+JPN,2015-10-17,06:00,Yokohama F. Marinos,Vissel Kobe,2,1,H,0,1,A
+JPN,2015-10-17,06:00,Shimizu S-Pulse,Vegalta Sendai,0,1,A,0,1,A
+JPN,2015-10-17,06:00,Gamba Osaka,Urawa Red Diamonds,2,1,H,1,0,H
+JPN,2015-10-17,06:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,H,0,0,D
+JPN,2015-10-17,10:30,Albirex Niigata,Matsumoto Yamaga,2,0,H,0,0,D
+JPN,2015-10-17,10:30,Sagan Tosu,Nagoya Grampus,0,0,D,0,0,D
+JPN,2015-10-17,10:30,Albirex Niigata,Matsumoto Yamaga,2,0,H,0,0,D
+JPN,2015-10-17,10:30,Sagan Tosu,Nagoya Grampus,0,0,D,0,0,D
+JPN,2015-10-17,11:00,Montedio Yamagata,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-10-17,11:00,Montedio Yamagata,Ventforet Kofu,0,1,A,0,0,D
+JPN,2015-10-24,06:00,FC Tokyo,Urawa Red Diamonds,3,4,A,1,3,A
+JPN,2015-10-24,06:00,Kawasaki Frontale,Yokohama F. Marinos,0,1,A,0,1,A
+JPN,2015-10-24,06:00,Shonan Bellmare,Kashima Antlers,2,1,H,2,0,H
+JPN,2015-10-24,06:00,Ventforet Kofu,Sanfrecce Hiroshima,0,2,A,0,2,A
+JPN,2015-10-24,06:00,Matsumoto Yamaga,Sagan Tosu,1,2,A,0,0,D
+JPN,2015-10-24,06:00,Shimizu S-Pulse,Kashiwa Reysol,0,3,A,0,1,A
+JPN,2015-10-24,06:00,Nagoya Grampus,Albirex Niigata,4,2,H,0,1,A
+JPN,2015-10-24,06:00,Vissel Kobe,Montedio Yamagata,3,1,H,1,0,H
+JPN,2015-10-24,06:00,FC Tokyo,Urawa Red Diamonds,3,4,A,1,3,A
+JPN,2015-10-24,06:00,Kawasaki Frontale,Yokohama F. Marinos,0,1,A,0,1,A
+JPN,2015-10-24,06:00,Shonan Bellmare,Kashima Antlers,2,1,H,2,0,H
+JPN,2015-10-24,06:00,Ventforet Kofu,Sanfrecce Hiroshima,0,2,A,0,2,A
+JPN,2015-10-24,06:00,Matsumoto Yamaga,Sagan Tosu,1,2,A,0,0,D
+JPN,2015-10-24,06:00,Shimizu S-Pulse,Kashiwa Reysol,0,3,A,0,1,A
+JPN,2015-10-24,06:00,Nagoya Grampus,Albirex Niigata,4,2,H,0,1,A
+JPN,2015-10-24,06:00,Vissel Kobe,Montedio Yamagata,3,1,H,1,0,H
+JPN,2015-10-25,05:00,Vegalta Sendai,Gamba Osaka,1,3,A,1,2,A
+JPN,2015-10-25,05:00,Vegalta Sendai,Gamba Osaka,1,3,A,1,2,A
+JPN,2015-11-07,05:00,Montedio Yamagata,Shimizu S-Pulse,1,2,A,0,1,A
+JPN,2015-11-07,05:00,Kashima Antlers,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2015-11-07,05:00,Urawa Red Diamonds,Kawasaki Frontale,1,1,D,1,1,D
+JPN,2015-11-07,05:00,Kashiwa Reysol,FC Tokyo,0,1,A,0,1,A
+JPN,2015-11-07,05:00,Albirex Niigata,Shonan Bellmare,0,2,A,0,1,A
+JPN,2015-11-07,05:00,Nagoya Grampus,Ventforet Kofu,4,2,H,2,1,H
+JPN,2015-11-07,05:00,Gamba Osaka,Sanfrecce Hiroshima,0,2,A,0,0,D
+JPN,2015-11-07,05:00,Vissel Kobe,Matsumoto Yamaga,2,1,H,0,1,A
+JPN,2015-11-07,05:00,Sagan Tosu,Vegalta Sendai,1,0,H,1,0,H
+JPN,2015-11-07,05:00,Montedio Yamagata,Shimizu S-Pulse,1,2,A,0,1,A
+JPN,2015-11-07,05:00,Kashima Antlers,Yokohama F. Marinos,2,0,H,1,0,H
+JPN,2015-11-07,05:00,Urawa Red Diamonds,Kawasaki Frontale,1,1,D,1,1,D
+JPN,2015-11-07,05:00,Kashiwa Reysol,FC Tokyo,0,1,A,0,1,A
+JPN,2015-11-07,05:00,Albirex Niigata,Shonan Bellmare,0,2,A,0,1,A
+JPN,2015-11-07,05:00,Nagoya Grampus,Ventforet Kofu,4,2,H,2,1,H
+JPN,2015-11-07,05:00,Gamba Osaka,Sanfrecce Hiroshima,0,2,A,0,0,D
+JPN,2015-11-07,05:00,Vissel Kobe,Matsumoto Yamaga,2,1,H,0,1,A
+JPN,2015-11-07,05:00,Sagan Tosu,Vegalta Sendai,1,0,H,1,0,H
+JPN,2015-11-22,04:30,Kashima Antlers,Nagoya Grampus,1,0,H,0,0,D
+JPN,2015-11-22,04:30,Urawa Red Diamonds,Vissel Kobe,5,2,H,3,1,H
+JPN,2015-11-22,04:30,Kashiwa Reysol,Albirex Niigata,1,1,D,1,0,H
+JPN,2015-11-22,04:30,FC Tokyo,Sagan Tosu,0,0,D,0,0,D
+JPN,2015-11-22,04:30,Kawasaki Frontale,Vegalta Sendai,1,0,H,0,0,D
+JPN,2015-11-22,04:30,Yokohama F. Marinos,Matsumoto Yamaga,0,0,D,0,0,D
+JPN,2015-11-22,04:30,Ventforet Kofu,Shimizu S-Pulse,2,2,D,0,0,D
+JPN,2015-11-22,04:30,Gamba Osaka,Montedio Yamagata,4,0,H,0,0,D
+JPN,2015-11-22,04:30,Sanfrecce Hiroshima,Shonan Bellmare,5,0,H,3,0,H
+JPN,2015-11-22,04:30,Kashima Antlers,Nagoya Grampus,1,0,H,0,0,D
+JPN,2015-11-22,04:30,Urawa Red Diamonds,Vissel Kobe,5,2,H,3,1,H
+JPN,2015-11-22,04:30,Kashiwa Reysol,Albirex Niigata,1,1,D,1,0,H
+JPN,2015-11-22,04:30,FC Tokyo,Sagan Tosu,0,0,D,0,0,D
+JPN,2015-11-22,04:30,Kawasaki Frontale,Vegalta Sendai,1,0,H,0,0,D
+JPN,2015-11-22,04:30,Yokohama F. Marinos,Matsumoto Yamaga,0,0,D,0,0,D
+JPN,2015-11-22,04:30,Ventforet Kofu,Shimizu S-Pulse,2,2,D,0,0,D
+JPN,2015-11-22,04:30,Gamba Osaka,Montedio Yamagata,4,0,H,0,0,D
+JPN,2015-11-22,04:30,Sanfrecce Hiroshima,Shonan Bellmare,5,0,H,3,0,H

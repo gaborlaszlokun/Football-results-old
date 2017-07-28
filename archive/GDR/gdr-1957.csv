@@ -1,183 +1,183 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-GDR,17/03/1957,,ASK Vorwärts Berlin,SC Motor Karl-Marx-Stadt,1,0,H,1,0,H
-GDR,17/03/1957,,SC Wismut Karl-Marx-Stadt,BSG Motor Zwickau,2,1,H,1,1,D
-GDR,17/03/1957,,SC Einheit Dresden,BSG Lokomotive Stendal,4,2,H,2,1,H
-GDR,17/03/1957,,SC Chemie Halle-Leuna,Rotation Babelsberg,4,1,H,0,0,D
-GDR,17/03/1957,,SC Turbine Erfurt,SC Motor Jena,1,1,D,1,0,H
-GDR,17/03/1957,,SC Lokomotive Leipzig,Fortschritt Weißenfels,2,1,H,0,1,A
-GDR,17/03/1957,,BSG Rotation Leipzig,SC Aktivist Brieske-Senftenberg,1,1,D,1,0,H
-GDR,24/03/1957,,Fortschritt Weißenfels,SC Einheit Dresden,0,0,D,0,0,D
-GDR,24/03/1957,,SC Aktivist Brieske-Senftenberg,SC Motor Karl-Marx-Stadt,4,2,H,0,1,A
-GDR,24/03/1957,,ASK Vorwärts Berlin,BSG Rotation Leipzig,1,1,D,0,0,D
-GDR,24/03/1957,,BSG Motor Zwickau,SC Turbine Erfurt,2,1,H,0,1,A
-GDR,24/03/1957,,SC Lokomotive Leipzig,SC Chemie Halle-Leuna,2,3,A,0,1,A
-GDR,24/03/1957,,Rotation Babelsberg,SC Wismut Karl-Marx-Stadt,1,1,D,1,1,D
-GDR,24/03/1957,,SC Motor Jena,BSG Lokomotive Stendal,3,0,H,1,0,H
-GDR,31/03/1957,,SC Aktivist Brieske-Senftenberg,ASK Vorwärts Berlin,0,1,A,0,0,D
-GDR,31/03/1957,,SC Chemie Halle-Leuna,SC Turbine Erfurt,3,4,A,1,4,A
-GDR,31/03/1957,,SC Einheit Dresden,SC Motor Jena,0,0,D,0,0,D
-GDR,31/03/1957,,BSG Rotation Leipzig,BSG Motor Zwickau,2,5,A,2,1,H
-GDR,31/03/1957,,SC Wismut Karl-Marx-Stadt,Fortschritt Weißenfels,3,0,H,0,0,D
-GDR,31/03/1957,,SC Motor Karl-Marx-Stadt,SC Lokomotive Leipzig,3,1,H,3,1,H
-GDR,31/03/1957,,BSG Lokomotive Stendal,Rotation Babelsberg,0,0,D,0,0,D
-GDR,14/04/1957,,BSG Lokomotive Stendal,SC Wismut Karl-Marx-Stadt,2,1,H,1,0,H
-GDR,14/04/1957,,BSG Motor Zwickau,SC Aktivist Brieske-Senftenberg,1,0,H,1,0,H
-GDR,14/04/1957,,SC Turbine Erfurt,BSG Rotation Leipzig,2,0,H,1,0,H
-GDR,14/04/1957,,ASK Vorwärts Berlin,Rotation Babelsberg,2,0,H,2,0,H
-GDR,14/04/1957,,SC Lokomotive Leipzig,SC Einheit Dresden,1,1,D,1,1,D
-GDR,14/04/1957,,SC Motor Karl-Marx-Stadt,SC Chemie Halle-Leuna,0,0,D,0,0,D
-GDR,14/04/1957,,SC Motor Jena,Fortschritt Weißenfels,1,0,H,0,0,D
-GDR,28/04/1957,,SC Chemie Halle-Leuna,SC Einheit Dresden,3,1,H,1,0,H
-GDR,28/04/1957,,BSG Rotation Leipzig,BSG Lokomotive Stendal,5,0,H,0,0,D
-GDR,28/04/1957,,Rotation Babelsberg,SC Aktivist Brieske-Senftenberg,2,1,H,0,0,D
-GDR,28/04/1957,,Fortschritt Weißenfels,SC Motor Karl-Marx-Stadt,4,0,H,2,0,H
-GDR,28/04/1957,,BSG Motor Zwickau,ASK Vorwärts Berlin,1,1,D,1,1,D
-GDR,28/04/1957,,SC Motor Jena,SC Lokomotive Leipzig,1,1,D,0,1,A
-GDR,28/04/1957,,SC Wismut Karl-Marx-Stadt,SC Turbine Erfurt,0,2,A,0,2,A
-GDR,05/05/1957,,Rotation Babelsberg,SC Motor Jena,0,3,A,0,0,D
-GDR,05/05/1957,,SC Einheit Dresden,BSG Motor Zwickau,3,0,H,2,0,H
-GDR,05/05/1957,,ASK Vorwärts Berlin,SC Turbine Erfurt,0,2,A,0,0,D
-GDR,05/05/1957,,BSG Lokomotive Stendal,Fortschritt Weißenfels,1,1,D,0,0,D
-GDR,05/05/1957,,SC Aktivist Brieske-Senftenberg,SC Chemie Halle-Leuna,3,0,H,0,0,D
-GDR,05/05/1957,,SC Wismut Karl-Marx-Stadt,SC Motor Karl-Marx-Stadt,3,0,H,1,0,H
-GDR,05/05/1957,,BSG Rotation Leipzig,SC Lokomotive Leipzig,3,2,H,0,2,A
-GDR,12/05/1957,,SC Lokomotive Leipzig,BSG Lokomotive Stendal,3,0,H,1,0,H
-GDR,12/05/1957,,SC Motor Jena,SC Wismut Karl-Marx-Stadt,1,2,A,0,1,A
-GDR,12/05/1957,,SC Einheit Dresden,BSG Rotation Leipzig,0,1,A,0,1,A
-GDR,12/05/1957,,Fortschritt Weißenfels,Rotation Babelsberg,1,1,D,1,1,D
-GDR,12/05/1957,,SC Motor Karl-Marx-Stadt,BSG Motor Zwickau,2,2,D,2,0,H
-GDR,12/05/1957,,SC Chemie Halle-Leuna,ASK Vorwärts Berlin,0,4,A,0,1,A
-GDR,19/05/1957,,SC Turbine Erfurt,SC Aktivist Brieske-Senftenberg,1,1,D,1,1,D
-GDR,26/05/1957,,SC Turbine Erfurt,BSG Lokomotive Stendal,0,0,D,0,0,D
-GDR,26/05/1957,,BSG Rotation Leipzig,SC Motor Karl-Marx-Stadt,1,1,D,0,0,D
-GDR,26/05/1957,,SC Wismut Karl-Marx-Stadt,SC Einheit Dresden,1,0,H,0,0,D
-GDR,26/05/1957,,ASK Vorwärts Berlin,Fortschritt Weißenfels,1,0,H,0,0,D
-GDR,26/05/1957,,BSG Motor Zwickau,SC Chemie Halle-Leuna,0,1,A,0,1,A
-GDR,26/05/1957,,Rotation Babelsberg,SC Lokomotive Leipzig,2,1,H,2,1,H
-GDR,26/05/1957,,SC Aktivist Brieske-Senftenberg,SC Motor Jena,2,1,H,1,1,D
-GDR,02/06/1957,,Fortschritt Weißenfels,BSG Motor Zwickau,2,1,H,1,0,H
-GDR,02/06/1957,,SC Chemie Halle-Leuna,BSG Rotation Leipzig,1,3,A,1,1,D
-GDR,02/06/1957,,SC Motor Jena,ASK Vorwärts Berlin,0,2,A,0,1,A
-GDR,02/06/1957,,SC Lokomotive Leipzig,SC Wismut Karl-Marx-Stadt,4,0,H,1,0,H
-GDR,02/06/1957,,SC Motor Karl-Marx-Stadt,SC Turbine Erfurt,3,3,D,2,0,H
-GDR,02/06/1957,,SC Einheit Dresden,Rotation Babelsberg,2,2,D,0,1,A
-GDR,02/06/1957,,BSG Lokomotive Stendal,SC Aktivist Brieske-Senftenberg,1,2,A,0,1,A
-GDR,23/06/1957,,SC Motor Karl-Marx-Stadt,SC Motor Jena,1,3,A,0,3,A
-GDR,23/06/1957,,SC Turbine Erfurt,Fortschritt Weißenfels,2,2,D,0,1,A
-GDR,23/06/1957,,ASK Vorwärts Berlin,BSG Lokomotive Stendal,3,0,H,2,0,H
-GDR,23/06/1957,,BSG Rotation Leipzig,Rotation Babelsberg,2,0,H,0,0,D
-GDR,23/06/1957,,SC Chemie Halle-Leuna,SC Wismut Karl-Marx-Stadt,2,3,A,1,0,H
-GDR,23/06/1957,,SC Aktivist Brieske-Senftenberg,SC Einheit Dresden,0,2,A,0,0,D
-GDR,23/06/1957,,BSG Motor Zwickau,SC Lokomotive Leipzig,5,1,H,3,1,H
-GDR,30/06/1957,,SC Lokomotive Leipzig,SC Aktivist Brieske-Senftenberg,2,0,H,1,0,H
-GDR,30/06/1957,,BSG Lokomotive Stendal,BSG Motor Zwickau,3,1,H,0,0,D
-GDR,30/06/1957,,SC Motor Jena,BSG Rotation Leipzig,0,2,A,0,1,A
-GDR,30/06/1957,,SC Einheit Dresden,SC Motor Karl-Marx-Stadt,4,3,H,1,0,H
-GDR,30/06/1957,,Fortschritt Weißenfels,SC Chemie Halle-Leuna,1,2,A,1,0,H
-GDR,30/06/1957,,Rotation Babelsberg,SC Turbine Erfurt,4,2,H,2,1,H
-GDR,30/06/1957,,SC Wismut Karl-Marx-Stadt,ASK Vorwärts Berlin,4,1,H,2,0,H
-GDR,07/07/1957,,BSG Rotation Leipzig,SC Wismut Karl-Marx-Stadt,0,0,D,0,0,D
-GDR,07/07/1957,,BSG Motor Zwickau,Rotation Babelsberg,3,1,H,2,0,H
-GDR,07/07/1957,,SC Aktivist Brieske-Senftenberg,Fortschritt Weißenfels,1,2,A,0,1,A
-GDR,07/07/1957,,ASK Vorwärts Berlin,SC Einheit Dresden,0,0,D,0,0,D
-GDR,07/07/1957,,SC Motor Karl-Marx-Stadt,BSG Lokomotive Stendal,0,4,A,0,2,A
-GDR,07/07/1957,,SC Turbine Erfurt,SC Lokomotive Leipzig,1,0,H,1,0,H
-GDR,07/07/1957,,SC Motor Jena,SC Chemie Halle-Leuna,3,0,H,2,0,H
-GDR,14/07/1957,,Fortschritt Weißenfels,BSG Rotation Leipzig,1,1,D,0,1,A
-GDR,14/07/1957,,SC Lokomotive Leipzig,ASK Vorwärts Berlin,0,1,A,0,0,D
-GDR,14/07/1957,,SC Wismut Karl-Marx-Stadt,SC Aktivist Brieske-Senftenberg,3,0,H,0,0,D
-GDR,14/07/1957,,SC Motor Jena,BSG Motor Zwickau,4,0,H,1,0,H
-GDR,14/07/1957,,SC Einheit Dresden,SC Turbine Erfurt,1,3,A,1,1,D
-GDR,14/07/1957,,BSG Lokomotive Stendal,SC Chemie Halle-Leuna,1,1,D,0,0,D
-GDR,14/07/1957,,Rotation Babelsberg,SC Motor Karl-Marx-Stadt,1,1,D,1,1,D
-GDR,25/08/1957,,SC Motor Karl-Marx-Stadt,ASK Vorwärts Berlin,2,2,D,1,1,D
-GDR,25/08/1957,,BSG Motor Zwickau,SC Wismut Karl-Marx-Stadt,0,1,A,0,1,A
-GDR,25/08/1957,,BSG Lokomotive Stendal,SC Einheit Dresden,0,1,A,0,1,A
-GDR,25/08/1957,,Rotation Babelsberg,SC Chemie Halle-Leuna,2,0,H,2,0,H
-GDR,25/08/1957,,SC Motor Jena,SC Turbine Erfurt,1,1,D,1,1,D
-GDR,25/08/1957,,Fortschritt Weißenfels,SC Lokomotive Leipzig,0,2,A,0,1,A
-GDR,25/08/1957,,SC Aktivist Brieske-Senftenberg,BSG Rotation Leipzig,2,0,H,0,0,D
-GDR,01/09/1957,,SC Einheit Dresden,Fortschritt Weißenfels,1,4,A,0,1,A
-GDR,01/09/1957,,SC Motor Karl-Marx-Stadt,SC Aktivist Brieske-Senftenberg,1,0,H,0,0,D
-GDR,01/09/1957,,BSG Rotation Leipzig,ASK Vorwärts Berlin,2,1,H,1,1,D
-GDR,01/09/1957,,SC Turbine Erfurt,BSG Motor Zwickau,0,1,A,0,0,D
-GDR,01/09/1957,,SC Chemie Halle-Leuna,SC Lokomotive Leipzig,1,3,A,0,0,D
-GDR,01/09/1957,,SC Wismut Karl-Marx-Stadt,Rotation Babelsberg,5,1,H,4,1,H
-GDR,01/09/1957,,BSG Lokomotive Stendal,SC Motor Jena,0,2,A,0,1,A
-GDR,08/09/1957,,ASK Vorwärts Berlin,SC Aktivist Brieske-Senftenberg,0,0,D,0,0,D
-GDR,08/09/1957,,SC Turbine Erfurt,SC Chemie Halle-Leuna,1,0,H,0,0,D
-GDR,08/09/1957,,SC Motor Jena,SC Einheit Dresden,6,1,H,4,1,H
-GDR,08/09/1957,,BSG Motor Zwickau,BSG Rotation Leipzig,1,2,A,0,1,A
-GDR,08/09/1957,,Fortschritt Weißenfels,SC Wismut Karl-Marx-Stadt,1,1,D,1,1,D
-GDR,08/09/1957,,SC Lokomotive Leipzig,SC Motor Karl-Marx-Stadt,1,1,D,0,1,A
-GDR,08/09/1957,,Rotation Babelsberg,BSG Lokomotive Stendal,3,0,H,2,0,H
-GDR,15/09/1957,,SC Wismut Karl-Marx-Stadt,BSG Lokomotive Stendal,3,1,H,3,0,H
-GDR,15/09/1957,,SC Aktivist Brieske-Senftenberg,BSG Motor Zwickau,0,0,D,0,0,D
-GDR,15/09/1957,,BSG Rotation Leipzig,SC Turbine Erfurt,2,1,H,1,0,H
-GDR,15/09/1957,,Rotation Babelsberg,ASK Vorwärts Berlin,0,3,A,0,2,A
-GDR,15/09/1957,,SC Einheit Dresden,SC Lokomotive Leipzig,4,2,H,0,2,A
-GDR,15/09/1957,,SC Chemie Halle-Leuna,SC Motor Karl-Marx-Stadt,8,1,H,2,1,H
-GDR,15/09/1957,,Fortschritt Weißenfels,SC Motor Jena,4,1,H,3,0,H
-GDR,22/09/1957,,SC Einheit Dresden,SC Chemie Halle-Leuna,5,2,H,2,0,H
-GDR,22/09/1957,,BSG Lokomotive Stendal,BSG Rotation Leipzig,3,1,H,0,1,A
-GDR,22/09/1957,,SC Aktivist Brieske-Senftenberg,Rotation Babelsberg,3,0,H,1,0,H
-GDR,22/09/1957,,SC Motor Karl-Marx-Stadt,Fortschritt Weißenfels,1,3,A,1,1,D
-GDR,22/09/1957,,ASK Vorwärts Berlin,BSG Motor Zwickau,9,0,H,5,0,H
-GDR,22/09/1957,,SC Lokomotive Leipzig,SC Motor Jena,1,0,H,0,0,D
-GDR,22/09/1957,,SC Turbine Erfurt,SC Wismut Karl-Marx-Stadt,1,3,A,0,3,A
-GDR,29/09/1957,,SC Motor Jena,Rotation Babelsberg,3,0,H,1,0,H
-GDR,29/09/1957,,BSG Motor Zwickau,SC Einheit Dresden,1,1,D,0,0,D
-GDR,29/09/1957,,SC Turbine Erfurt,ASK Vorwärts Berlin,1,0,H,0,0,D
-GDR,29/09/1957,,Fortschritt Weißenfels,BSG Lokomotive Stendal,3,1,H,1,1,D
-GDR,29/09/1957,,SC Chemie Halle-Leuna,SC Aktivist Brieske-Senftenberg,0,2,A,0,1,A
-GDR,29/09/1957,,SC Motor Karl-Marx-Stadt,SC Wismut Karl-Marx-Stadt,0,3,A,0,2,A
-GDR,29/09/1957,,SC Lokomotive Leipzig,BSG Rotation Leipzig,0,0,D,0,0,D
-GDR,13/10/1957,,SC Wismut Karl-Marx-Stadt,SC Motor Jena,3,1,H,2,1,H
-GDR,13/10/1957,,BSG Rotation Leipzig,SC Einheit Dresden,2,0,H,0,0,D
-GDR,13/10/1957,,BSG Lokomotive Stendal,SC Lokomotive Leipzig,1,0,H,0,0,D
-GDR,13/10/1957,,Rotation Babelsberg,Fortschritt Weißenfels,3,1,H,1,0,H
-GDR,13/10/1957,,BSG Motor Zwickau,SC Motor Karl-Marx-Stadt,4,1,H,2,0,H
-GDR,13/10/1957,,SC Aktivist Brieske-Senftenberg,SC Turbine Erfurt,1,0,H,0,0,D
-GDR,13/10/1957,,ASK Vorwärts Berlin,SC Chemie Halle-Leuna,3,0,H,1,0,H
-GDR,20/10/1957,,BSG Lokomotive Stendal,SC Turbine Erfurt,2,0,H,2,0,H
-GDR,20/10/1957,,SC Motor Karl-Marx-Stadt,BSG Rotation Leipzig,2,2,D,2,1,H
-GDR,20/10/1957,,SC Einheit Dresden,SC Wismut Karl-Marx-Stadt,1,2,A,0,1,A
-GDR,20/10/1957,,Fortschritt Weißenfels,ASK Vorwärts Berlin,3,4,A,0,3,A
-GDR,20/10/1957,,SC Chemie Halle-Leuna,BSG Motor Zwickau,2,1,H,2,1,H
-GDR,20/10/1957,,SC Lokomotive Leipzig,Rotation Babelsberg,1,1,D,0,1,A
-GDR,20/10/1957,,SC Motor Jena,SC Aktivist Brieske-Senftenberg,1,1,D,0,0,D
-GDR,03/11/1957,,BSG Motor Zwickau,Fortschritt Weißenfels,1,0,H,1,0,H
-GDR,03/11/1957,,BSG Rotation Leipzig,SC Chemie Halle-Leuna,1,1,D,1,0,H
-GDR,03/11/1957,,ASK Vorwärts Berlin,SC Motor Jena,3,1,H,3,0,H
-GDR,03/11/1957,,SC Wismut Karl-Marx-Stadt,SC Lokomotive Leipzig,0,0,D,0,0,D
-GDR,03/11/1957,,SC Turbine Erfurt,SC Motor Karl-Marx-Stadt,3,0,H,0,0,D
-GDR,03/11/1957,,Rotation Babelsberg,SC Einheit Dresden,2,0,H,0,0,D
-GDR,03/11/1957,,SC Aktivist Brieske-Senftenberg,BSG Lokomotive Stendal,3,1,H,2,0,H
-GDR,10/11/1957,,SC Motor Jena,SC Motor Karl-Marx-Stadt,1,1,D,0,0,D
-GDR,10/11/1957,,Fortschritt Weißenfels,SC Turbine Erfurt,2,0,H,0,0,D
-GDR,10/11/1957,,BSG Lokomotive Stendal,ASK Vorwärts Berlin,2,0,H,0,0,D
-GDR,10/11/1957,,Rotation Babelsberg,BSG Rotation Leipzig,2,0,H,1,0,H
-GDR,10/11/1957,,SC Wismut Karl-Marx-Stadt,SC Chemie Halle-Leuna,3,4,A,1,3,A
-GDR,10/11/1957,,SC Einheit Dresden,SC Aktivist Brieske-Senftenberg,2,1,H,0,0,D
-GDR,10/11/1957,,SC Lokomotive Leipzig,BSG Motor Zwickau,3,1,H,0,0,D
-GDR,20/11/1957,,SC Aktivist Brieske-Senftenberg,SC Lokomotive Leipzig,1,1,D,0,0,D
-GDR,20/11/1957,,BSG Motor Zwickau,BSG Lokomotive Stendal,0,1,A,0,0,D
-GDR,20/11/1957,,BSG Rotation Leipzig,SC Motor Jena,0,1,A,0,1,A
-GDR,20/11/1957,,SC Motor Karl-Marx-Stadt,SC Einheit Dresden,2,2,D,0,1,A
-GDR,20/11/1957,,SC Chemie Halle-Leuna,Fortschritt Weißenfels,1,1,D,1,1,D
-GDR,20/11/1957,,SC Turbine Erfurt,Rotation Babelsberg,2,0,H,2,0,H
-GDR,20/11/1957,,ASK Vorwärts Berlin,SC Wismut Karl-Marx-Stadt,0,1,A,0,1,A
-GDR,24/11/1957,,SC Wismut Karl-Marx-Stadt,BSG Rotation Leipzig,1,3,A,1,3,A
-GDR,24/11/1957,,Rotation Babelsberg,BSG Motor Zwickau,0,0,D,0,0,D
-GDR,24/11/1957,,Fortschritt Weißenfels,SC Aktivist Brieske-Senftenberg,1,3,A,0,1,A
-GDR,24/11/1957,,SC Einheit Dresden,ASK Vorwärts Berlin,1,1,D,1,0,H
-GDR,24/11/1957,,BSG Lokomotive Stendal,SC Motor Karl-Marx-Stadt,2,0,H,1,0,H
-GDR,24/11/1957,,SC Lokomotive Leipzig,SC Turbine Erfurt,1,0,H,0,0,D
-GDR,24/11/1957,,SC Chemie Halle-Leuna,SC Motor Jena,0,2,A,0,2,A
-GDR,01/12/1957,,BSG Rotation Leipzig,Fortschritt Weißenfels,3,0,H,2,0,H
-GDR,01/12/1957,,ASK Vorwärts Berlin,SC Lokomotive Leipzig,1,1,D,1,1,D
-GDR,01/12/1957,,SC Aktivist Brieske-Senftenberg,SC Wismut Karl-Marx-Stadt,1,0,H,0,0,D
-GDR,01/12/1957,,BSG Motor Zwickau,SC Motor Jena,3,0,H,2,0,H
-GDR,01/12/1957,,SC Turbine Erfurt,SC Einheit Dresden,3,3,D,0,2,A
-GDR,01/12/1957,,SC Chemie Halle-Leuna,BSG Lokomotive Stendal,3,0,H,1,0,H
-GDR,01/12/1957,,SC Motor Karl-Marx-Stadt,Rotation Babelsberg,3,0,H,0,0,D
+GDR,1957-03-17,,ASK Vorwärts Berlin,SC Motor Karl-Marx-Stadt,1,0,H,1,0,H
+GDR,1957-03-17,,SC Wismut Karl-Marx-Stadt,BSG Motor Zwickau,2,1,H,1,1,D
+GDR,1957-03-17,,SC Einheit Dresden,BSG Lokomotive Stendal,4,2,H,2,1,H
+GDR,1957-03-17,,SC Chemie Halle-Leuna,Rotation Babelsberg,4,1,H,0,0,D
+GDR,1957-03-17,,SC Turbine Erfurt,SC Motor Jena,1,1,D,1,0,H
+GDR,1957-03-17,,SC Lokomotive Leipzig,Fortschritt Weißenfels,2,1,H,0,1,A
+GDR,1957-03-17,,BSG Rotation Leipzig,SC Aktivist Brieske-Senftenberg,1,1,D,1,0,H
+GDR,1957-03-24,,Fortschritt Weißenfels,SC Einheit Dresden,0,0,D,0,0,D
+GDR,1957-03-24,,SC Aktivist Brieske-Senftenberg,SC Motor Karl-Marx-Stadt,4,2,H,0,1,A
+GDR,1957-03-24,,ASK Vorwärts Berlin,BSG Rotation Leipzig,1,1,D,0,0,D
+GDR,1957-03-24,,BSG Motor Zwickau,SC Turbine Erfurt,2,1,H,0,1,A
+GDR,1957-03-24,,SC Lokomotive Leipzig,SC Chemie Halle-Leuna,2,3,A,0,1,A
+GDR,1957-03-24,,Rotation Babelsberg,SC Wismut Karl-Marx-Stadt,1,1,D,1,1,D
+GDR,1957-03-24,,SC Motor Jena,BSG Lokomotive Stendal,3,0,H,1,0,H
+GDR,1957-03-31,,SC Aktivist Brieske-Senftenberg,ASK Vorwärts Berlin,0,1,A,0,0,D
+GDR,1957-03-31,,SC Chemie Halle-Leuna,SC Turbine Erfurt,3,4,A,1,4,A
+GDR,1957-03-31,,SC Einheit Dresden,SC Motor Jena,0,0,D,0,0,D
+GDR,1957-03-31,,BSG Rotation Leipzig,BSG Motor Zwickau,2,5,A,2,1,H
+GDR,1957-03-31,,SC Wismut Karl-Marx-Stadt,Fortschritt Weißenfels,3,0,H,0,0,D
+GDR,1957-03-31,,SC Motor Karl-Marx-Stadt,SC Lokomotive Leipzig,3,1,H,3,1,H
+GDR,1957-03-31,,BSG Lokomotive Stendal,Rotation Babelsberg,0,0,D,0,0,D
+GDR,1957-04-14,,BSG Lokomotive Stendal,SC Wismut Karl-Marx-Stadt,2,1,H,1,0,H
+GDR,1957-04-14,,BSG Motor Zwickau,SC Aktivist Brieske-Senftenberg,1,0,H,1,0,H
+GDR,1957-04-14,,SC Turbine Erfurt,BSG Rotation Leipzig,2,0,H,1,0,H
+GDR,1957-04-14,,ASK Vorwärts Berlin,Rotation Babelsberg,2,0,H,2,0,H
+GDR,1957-04-14,,SC Lokomotive Leipzig,SC Einheit Dresden,1,1,D,1,1,D
+GDR,1957-04-14,,SC Motor Karl-Marx-Stadt,SC Chemie Halle-Leuna,0,0,D,0,0,D
+GDR,1957-04-14,,SC Motor Jena,Fortschritt Weißenfels,1,0,H,0,0,D
+GDR,1957-04-28,,SC Chemie Halle-Leuna,SC Einheit Dresden,3,1,H,1,0,H
+GDR,1957-04-28,,BSG Rotation Leipzig,BSG Lokomotive Stendal,5,0,H,0,0,D
+GDR,1957-04-28,,Rotation Babelsberg,SC Aktivist Brieske-Senftenberg,2,1,H,0,0,D
+GDR,1957-04-28,,Fortschritt Weißenfels,SC Motor Karl-Marx-Stadt,4,0,H,2,0,H
+GDR,1957-04-28,,BSG Motor Zwickau,ASK Vorwärts Berlin,1,1,D,1,1,D
+GDR,1957-04-28,,SC Motor Jena,SC Lokomotive Leipzig,1,1,D,0,1,A
+GDR,1957-04-28,,SC Wismut Karl-Marx-Stadt,SC Turbine Erfurt,0,2,A,0,2,A
+GDR,1957-05-05,,Rotation Babelsberg,SC Motor Jena,0,3,A,0,0,D
+GDR,1957-05-05,,SC Einheit Dresden,BSG Motor Zwickau,3,0,H,2,0,H
+GDR,1957-05-05,,ASK Vorwärts Berlin,SC Turbine Erfurt,0,2,A,0,0,D
+GDR,1957-05-05,,BSG Lokomotive Stendal,Fortschritt Weißenfels,1,1,D,0,0,D
+GDR,1957-05-05,,SC Aktivist Brieske-Senftenberg,SC Chemie Halle-Leuna,3,0,H,0,0,D
+GDR,1957-05-05,,SC Wismut Karl-Marx-Stadt,SC Motor Karl-Marx-Stadt,3,0,H,1,0,H
+GDR,1957-05-05,,BSG Rotation Leipzig,SC Lokomotive Leipzig,3,2,H,0,2,A
+GDR,1957-05-12,,SC Lokomotive Leipzig,BSG Lokomotive Stendal,3,0,H,1,0,H
+GDR,1957-05-12,,SC Motor Jena,SC Wismut Karl-Marx-Stadt,1,2,A,0,1,A
+GDR,1957-05-12,,SC Einheit Dresden,BSG Rotation Leipzig,0,1,A,0,1,A
+GDR,1957-05-12,,Fortschritt Weißenfels,Rotation Babelsberg,1,1,D,1,1,D
+GDR,1957-05-12,,SC Motor Karl-Marx-Stadt,BSG Motor Zwickau,2,2,D,2,0,H
+GDR,1957-05-12,,SC Chemie Halle-Leuna,ASK Vorwärts Berlin,0,4,A,0,1,A
+GDR,1957-05-19,,SC Turbine Erfurt,SC Aktivist Brieske-Senftenberg,1,1,D,1,1,D
+GDR,1957-05-26,,SC Turbine Erfurt,BSG Lokomotive Stendal,0,0,D,0,0,D
+GDR,1957-05-26,,BSG Rotation Leipzig,SC Motor Karl-Marx-Stadt,1,1,D,0,0,D
+GDR,1957-05-26,,SC Wismut Karl-Marx-Stadt,SC Einheit Dresden,1,0,H,0,0,D
+GDR,1957-05-26,,ASK Vorwärts Berlin,Fortschritt Weißenfels,1,0,H,0,0,D
+GDR,1957-05-26,,BSG Motor Zwickau,SC Chemie Halle-Leuna,0,1,A,0,1,A
+GDR,1957-05-26,,Rotation Babelsberg,SC Lokomotive Leipzig,2,1,H,2,1,H
+GDR,1957-05-26,,SC Aktivist Brieske-Senftenberg,SC Motor Jena,2,1,H,1,1,D
+GDR,1957-06-02,,Fortschritt Weißenfels,BSG Motor Zwickau,2,1,H,1,0,H
+GDR,1957-06-02,,SC Chemie Halle-Leuna,BSG Rotation Leipzig,1,3,A,1,1,D
+GDR,1957-06-02,,SC Motor Jena,ASK Vorwärts Berlin,0,2,A,0,1,A
+GDR,1957-06-02,,SC Lokomotive Leipzig,SC Wismut Karl-Marx-Stadt,4,0,H,1,0,H
+GDR,1957-06-02,,SC Motor Karl-Marx-Stadt,SC Turbine Erfurt,3,3,D,2,0,H
+GDR,1957-06-02,,SC Einheit Dresden,Rotation Babelsberg,2,2,D,0,1,A
+GDR,1957-06-02,,BSG Lokomotive Stendal,SC Aktivist Brieske-Senftenberg,1,2,A,0,1,A
+GDR,1957-06-23,,SC Motor Karl-Marx-Stadt,SC Motor Jena,1,3,A,0,3,A
+GDR,1957-06-23,,SC Turbine Erfurt,Fortschritt Weißenfels,2,2,D,0,1,A
+GDR,1957-06-23,,ASK Vorwärts Berlin,BSG Lokomotive Stendal,3,0,H,2,0,H
+GDR,1957-06-23,,BSG Rotation Leipzig,Rotation Babelsberg,2,0,H,0,0,D
+GDR,1957-06-23,,SC Chemie Halle-Leuna,SC Wismut Karl-Marx-Stadt,2,3,A,1,0,H
+GDR,1957-06-23,,SC Aktivist Brieske-Senftenberg,SC Einheit Dresden,0,2,A,0,0,D
+GDR,1957-06-23,,BSG Motor Zwickau,SC Lokomotive Leipzig,5,1,H,3,1,H
+GDR,1957-06-30,,SC Lokomotive Leipzig,SC Aktivist Brieske-Senftenberg,2,0,H,1,0,H
+GDR,1957-06-30,,BSG Lokomotive Stendal,BSG Motor Zwickau,3,1,H,0,0,D
+GDR,1957-06-30,,SC Motor Jena,BSG Rotation Leipzig,0,2,A,0,1,A
+GDR,1957-06-30,,SC Einheit Dresden,SC Motor Karl-Marx-Stadt,4,3,H,1,0,H
+GDR,1957-06-30,,Fortschritt Weißenfels,SC Chemie Halle-Leuna,1,2,A,1,0,H
+GDR,1957-06-30,,Rotation Babelsberg,SC Turbine Erfurt,4,2,H,2,1,H
+GDR,1957-06-30,,SC Wismut Karl-Marx-Stadt,ASK Vorwärts Berlin,4,1,H,2,0,H
+GDR,1957-07-07,,BSG Rotation Leipzig,SC Wismut Karl-Marx-Stadt,0,0,D,0,0,D
+GDR,1957-07-07,,BSG Motor Zwickau,Rotation Babelsberg,3,1,H,2,0,H
+GDR,1957-07-07,,SC Aktivist Brieske-Senftenberg,Fortschritt Weißenfels,1,2,A,0,1,A
+GDR,1957-07-07,,ASK Vorwärts Berlin,SC Einheit Dresden,0,0,D,0,0,D
+GDR,1957-07-07,,SC Motor Karl-Marx-Stadt,BSG Lokomotive Stendal,0,4,A,0,2,A
+GDR,1957-07-07,,SC Turbine Erfurt,SC Lokomotive Leipzig,1,0,H,1,0,H
+GDR,1957-07-07,,SC Motor Jena,SC Chemie Halle-Leuna,3,0,H,2,0,H
+GDR,1957-07-14,,Fortschritt Weißenfels,BSG Rotation Leipzig,1,1,D,0,1,A
+GDR,1957-07-14,,SC Lokomotive Leipzig,ASK Vorwärts Berlin,0,1,A,0,0,D
+GDR,1957-07-14,,SC Wismut Karl-Marx-Stadt,SC Aktivist Brieske-Senftenberg,3,0,H,0,0,D
+GDR,1957-07-14,,SC Motor Jena,BSG Motor Zwickau,4,0,H,1,0,H
+GDR,1957-07-14,,SC Einheit Dresden,SC Turbine Erfurt,1,3,A,1,1,D
+GDR,1957-07-14,,BSG Lokomotive Stendal,SC Chemie Halle-Leuna,1,1,D,0,0,D
+GDR,1957-07-14,,Rotation Babelsberg,SC Motor Karl-Marx-Stadt,1,1,D,1,1,D
+GDR,1957-08-25,,SC Motor Karl-Marx-Stadt,ASK Vorwärts Berlin,2,2,D,1,1,D
+GDR,1957-08-25,,BSG Motor Zwickau,SC Wismut Karl-Marx-Stadt,0,1,A,0,1,A
+GDR,1957-08-25,,BSG Lokomotive Stendal,SC Einheit Dresden,0,1,A,0,1,A
+GDR,1957-08-25,,Rotation Babelsberg,SC Chemie Halle-Leuna,2,0,H,2,0,H
+GDR,1957-08-25,,SC Motor Jena,SC Turbine Erfurt,1,1,D,1,1,D
+GDR,1957-08-25,,Fortschritt Weißenfels,SC Lokomotive Leipzig,0,2,A,0,1,A
+GDR,1957-08-25,,SC Aktivist Brieske-Senftenberg,BSG Rotation Leipzig,2,0,H,0,0,D
+GDR,1957-09-01,,SC Einheit Dresden,Fortschritt Weißenfels,1,4,A,0,1,A
+GDR,1957-09-01,,SC Motor Karl-Marx-Stadt,SC Aktivist Brieske-Senftenberg,1,0,H,0,0,D
+GDR,1957-09-01,,BSG Rotation Leipzig,ASK Vorwärts Berlin,2,1,H,1,1,D
+GDR,1957-09-01,,SC Turbine Erfurt,BSG Motor Zwickau,0,1,A,0,0,D
+GDR,1957-09-01,,SC Chemie Halle-Leuna,SC Lokomotive Leipzig,1,3,A,0,0,D
+GDR,1957-09-01,,SC Wismut Karl-Marx-Stadt,Rotation Babelsberg,5,1,H,4,1,H
+GDR,1957-09-01,,BSG Lokomotive Stendal,SC Motor Jena,0,2,A,0,1,A
+GDR,1957-09-08,,ASK Vorwärts Berlin,SC Aktivist Brieske-Senftenberg,0,0,D,0,0,D
+GDR,1957-09-08,,SC Turbine Erfurt,SC Chemie Halle-Leuna,1,0,H,0,0,D
+GDR,1957-09-08,,SC Motor Jena,SC Einheit Dresden,6,1,H,4,1,H
+GDR,1957-09-08,,BSG Motor Zwickau,BSG Rotation Leipzig,1,2,A,0,1,A
+GDR,1957-09-08,,Fortschritt Weißenfels,SC Wismut Karl-Marx-Stadt,1,1,D,1,1,D
+GDR,1957-09-08,,SC Lokomotive Leipzig,SC Motor Karl-Marx-Stadt,1,1,D,0,1,A
+GDR,1957-09-08,,Rotation Babelsberg,BSG Lokomotive Stendal,3,0,H,2,0,H
+GDR,1957-09-15,,SC Wismut Karl-Marx-Stadt,BSG Lokomotive Stendal,3,1,H,3,0,H
+GDR,1957-09-15,,SC Aktivist Brieske-Senftenberg,BSG Motor Zwickau,0,0,D,0,0,D
+GDR,1957-09-15,,BSG Rotation Leipzig,SC Turbine Erfurt,2,1,H,1,0,H
+GDR,1957-09-15,,Rotation Babelsberg,ASK Vorwärts Berlin,0,3,A,0,2,A
+GDR,1957-09-15,,SC Einheit Dresden,SC Lokomotive Leipzig,4,2,H,0,2,A
+GDR,1957-09-15,,SC Chemie Halle-Leuna,SC Motor Karl-Marx-Stadt,8,1,H,2,1,H
+GDR,1957-09-15,,Fortschritt Weißenfels,SC Motor Jena,4,1,H,3,0,H
+GDR,1957-09-22,,SC Einheit Dresden,SC Chemie Halle-Leuna,5,2,H,2,0,H
+GDR,1957-09-22,,BSG Lokomotive Stendal,BSG Rotation Leipzig,3,1,H,0,1,A
+GDR,1957-09-22,,SC Aktivist Brieske-Senftenberg,Rotation Babelsberg,3,0,H,1,0,H
+GDR,1957-09-22,,SC Motor Karl-Marx-Stadt,Fortschritt Weißenfels,1,3,A,1,1,D
+GDR,1957-09-22,,ASK Vorwärts Berlin,BSG Motor Zwickau,9,0,H,5,0,H
+GDR,1957-09-22,,SC Lokomotive Leipzig,SC Motor Jena,1,0,H,0,0,D
+GDR,1957-09-22,,SC Turbine Erfurt,SC Wismut Karl-Marx-Stadt,1,3,A,0,3,A
+GDR,1957-09-29,,SC Motor Jena,Rotation Babelsberg,3,0,H,1,0,H
+GDR,1957-09-29,,BSG Motor Zwickau,SC Einheit Dresden,1,1,D,0,0,D
+GDR,1957-09-29,,SC Turbine Erfurt,ASK Vorwärts Berlin,1,0,H,0,0,D
+GDR,1957-09-29,,Fortschritt Weißenfels,BSG Lokomotive Stendal,3,1,H,1,1,D
+GDR,1957-09-29,,SC Chemie Halle-Leuna,SC Aktivist Brieske-Senftenberg,0,2,A,0,1,A
+GDR,1957-09-29,,SC Motor Karl-Marx-Stadt,SC Wismut Karl-Marx-Stadt,0,3,A,0,2,A
+GDR,1957-09-29,,SC Lokomotive Leipzig,BSG Rotation Leipzig,0,0,D,0,0,D
+GDR,1957-10-13,,SC Wismut Karl-Marx-Stadt,SC Motor Jena,3,1,H,2,1,H
+GDR,1957-10-13,,BSG Rotation Leipzig,SC Einheit Dresden,2,0,H,0,0,D
+GDR,1957-10-13,,BSG Lokomotive Stendal,SC Lokomotive Leipzig,1,0,H,0,0,D
+GDR,1957-10-13,,Rotation Babelsberg,Fortschritt Weißenfels,3,1,H,1,0,H
+GDR,1957-10-13,,BSG Motor Zwickau,SC Motor Karl-Marx-Stadt,4,1,H,2,0,H
+GDR,1957-10-13,,SC Aktivist Brieske-Senftenberg,SC Turbine Erfurt,1,0,H,0,0,D
+GDR,1957-10-13,,ASK Vorwärts Berlin,SC Chemie Halle-Leuna,3,0,H,1,0,H
+GDR,1957-10-20,,BSG Lokomotive Stendal,SC Turbine Erfurt,2,0,H,2,0,H
+GDR,1957-10-20,,SC Motor Karl-Marx-Stadt,BSG Rotation Leipzig,2,2,D,2,1,H
+GDR,1957-10-20,,SC Einheit Dresden,SC Wismut Karl-Marx-Stadt,1,2,A,0,1,A
+GDR,1957-10-20,,Fortschritt Weißenfels,ASK Vorwärts Berlin,3,4,A,0,3,A
+GDR,1957-10-20,,SC Chemie Halle-Leuna,BSG Motor Zwickau,2,1,H,2,1,H
+GDR,1957-10-20,,SC Lokomotive Leipzig,Rotation Babelsberg,1,1,D,0,1,A
+GDR,1957-10-20,,SC Motor Jena,SC Aktivist Brieske-Senftenberg,1,1,D,0,0,D
+GDR,1957-11-03,,BSG Motor Zwickau,Fortschritt Weißenfels,1,0,H,1,0,H
+GDR,1957-11-03,,BSG Rotation Leipzig,SC Chemie Halle-Leuna,1,1,D,1,0,H
+GDR,1957-11-03,,ASK Vorwärts Berlin,SC Motor Jena,3,1,H,3,0,H
+GDR,1957-11-03,,SC Wismut Karl-Marx-Stadt,SC Lokomotive Leipzig,0,0,D,0,0,D
+GDR,1957-11-03,,SC Turbine Erfurt,SC Motor Karl-Marx-Stadt,3,0,H,0,0,D
+GDR,1957-11-03,,Rotation Babelsberg,SC Einheit Dresden,2,0,H,0,0,D
+GDR,1957-11-03,,SC Aktivist Brieske-Senftenberg,BSG Lokomotive Stendal,3,1,H,2,0,H
+GDR,1957-11-10,,SC Motor Jena,SC Motor Karl-Marx-Stadt,1,1,D,0,0,D
+GDR,1957-11-10,,Fortschritt Weißenfels,SC Turbine Erfurt,2,0,H,0,0,D
+GDR,1957-11-10,,BSG Lokomotive Stendal,ASK Vorwärts Berlin,2,0,H,0,0,D
+GDR,1957-11-10,,Rotation Babelsberg,BSG Rotation Leipzig,2,0,H,1,0,H
+GDR,1957-11-10,,SC Wismut Karl-Marx-Stadt,SC Chemie Halle-Leuna,3,4,A,1,3,A
+GDR,1957-11-10,,SC Einheit Dresden,SC Aktivist Brieske-Senftenberg,2,1,H,0,0,D
+GDR,1957-11-10,,SC Lokomotive Leipzig,BSG Motor Zwickau,3,1,H,0,0,D
+GDR,1957-11-20,,SC Aktivist Brieske-Senftenberg,SC Lokomotive Leipzig,1,1,D,0,0,D
+GDR,1957-11-20,,BSG Motor Zwickau,BSG Lokomotive Stendal,0,1,A,0,0,D
+GDR,1957-11-20,,BSG Rotation Leipzig,SC Motor Jena,0,1,A,0,1,A
+GDR,1957-11-20,,SC Motor Karl-Marx-Stadt,SC Einheit Dresden,2,2,D,0,1,A
+GDR,1957-11-20,,SC Chemie Halle-Leuna,Fortschritt Weißenfels,1,1,D,1,1,D
+GDR,1957-11-20,,SC Turbine Erfurt,Rotation Babelsberg,2,0,H,2,0,H
+GDR,1957-11-20,,ASK Vorwärts Berlin,SC Wismut Karl-Marx-Stadt,0,1,A,0,1,A
+GDR,1957-11-24,,SC Wismut Karl-Marx-Stadt,BSG Rotation Leipzig,1,3,A,1,3,A
+GDR,1957-11-24,,Rotation Babelsberg,BSG Motor Zwickau,0,0,D,0,0,D
+GDR,1957-11-24,,Fortschritt Weißenfels,SC Aktivist Brieske-Senftenberg,1,3,A,0,1,A
+GDR,1957-11-24,,SC Einheit Dresden,ASK Vorwärts Berlin,1,1,D,1,0,H
+GDR,1957-11-24,,BSG Lokomotive Stendal,SC Motor Karl-Marx-Stadt,2,0,H,1,0,H
+GDR,1957-11-24,,SC Lokomotive Leipzig,SC Turbine Erfurt,1,0,H,0,0,D
+GDR,1957-11-24,,SC Chemie Halle-Leuna,SC Motor Jena,0,2,A,0,2,A
+GDR,1957-12-01,,BSG Rotation Leipzig,Fortschritt Weißenfels,3,0,H,2,0,H
+GDR,1957-12-01,,ASK Vorwärts Berlin,SC Lokomotive Leipzig,1,1,D,1,1,D
+GDR,1957-12-01,,SC Aktivist Brieske-Senftenberg,SC Wismut Karl-Marx-Stadt,1,0,H,0,0,D
+GDR,1957-12-01,,BSG Motor Zwickau,SC Motor Jena,3,0,H,2,0,H
+GDR,1957-12-01,,SC Turbine Erfurt,SC Einheit Dresden,3,3,D,0,2,A
+GDR,1957-12-01,,SC Chemie Halle-Leuna,BSG Lokomotive Stendal,3,0,H,1,0,H
+GDR,1957-12-01,,SC Motor Karl-Marx-Stadt,Rotation Babelsberg,3,0,H,0,0,D

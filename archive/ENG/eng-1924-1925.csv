@@ -1,463 +1,463 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ENG,30/08/1924,,Birmingham FC,Everton FC,2,2,D,NaN,NaN,NaN
-ENG,30/08/1924,,West Bromwich Albion,Notts County,1,2,A,NaN,NaN,NaN
-ENG,30/08/1924,,Tottenham Hotspur,Bolton Wanderers,3,0,H,NaN,NaN,NaN
-ENG,30/08/1924,,Sheffield United,Blackburn Rovers,2,3,A,NaN,NaN,NaN
-ENG,30/08/1924,,Nottingham Forest,Arsenal FC,0,2,A,NaN,NaN,NaN
-ENG,30/08/1924,,Newcastle United,Huddersfield Town,1,3,A,NaN,NaN,NaN
-ENG,30/08/1924,,Liverpool FC,Aston Villa,2,4,A,NaN,NaN,NaN
-ENG,30/08/1924,,Leeds United,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,30/08/1924,,Bury FC,Manchester City,0,2,A,NaN,NaN,NaN
-ENG,30/08/1924,,Burnley FC,Cardiff City,0,0,D,NaN,NaN,NaN
-ENG,30/08/1924,,West Ham United,Preston North End,1,0,H,NaN,NaN,NaN
-ENG,01/09/1924,,Arsenal FC,Manchester City,1,0,H,NaN,NaN,NaN
-ENG,01/09/1924,,Aston Villa,Bury FC,3,3,D,NaN,NaN,NaN
-ENG,01/09/1924,,Blackburn Rovers,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,01/09/1924,,Bolton Wanderers,West Bromwich Albion,1,1,D,NaN,NaN,NaN
-ENG,01/09/1924,,Cardiff City,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,01/09/1924,,Notts County,Leeds United,1,0,H,NaN,NaN,NaN
-ENG,02/09/1924,,Huddersfield Town,Nottingham Forest,3,0,H,NaN,NaN,NaN
-ENG,03/09/1924,,Birmingham FC,Tottenham Hotspur,0,2,A,NaN,NaN,NaN
-ENG,03/09/1924,,Sunderland AFC,Preston North End,2,0,H,NaN,NaN,NaN
-ENG,06/09/1924,,Arsenal FC,Liverpool FC,2,0,H,NaN,NaN,NaN
-ENG,06/09/1924,,Blackburn Rovers,West Ham United,0,1,A,NaN,NaN,NaN
-ENG,06/09/1924,,Preston North End,Burnley FC,0,2,A,NaN,NaN,NaN
-ENG,06/09/1924,,Aston Villa,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,06/09/1924,,Sunderland AFC,Birmingham FC,4,0,H,NaN,NaN,NaN
-ENG,06/09/1924,,Notts County,Tottenham Hotspur,0,0,D,NaN,NaN,NaN
-ENG,06/09/1924,,Manchester City,Nottingham Forest,4,2,H,NaN,NaN,NaN
-ENG,06/09/1924,,Huddersfield Town,Sheffield United,2,1,H,NaN,NaN,NaN
-ENG,06/09/1924,,Everton FC,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,06/09/1924,,Cardiff City,Leeds United,3,0,H,NaN,NaN,NaN
-ENG,06/09/1924,,Bolton Wanderers,Bury FC,3,3,D,NaN,NaN,NaN
-ENG,08/09/1924,,Burnley FC,Everton FC,0,0,D,NaN,NaN,NaN
-ENG,13/09/1924,,Liverpool FC,Manchester City,5,3,H,NaN,NaN,NaN
-ENG,08/09/1924,,Birmingham FC,Bolton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,08/09/1924,,West Ham United,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,08/09/1924,,West Bromwich Albion,Tottenham Hotspur,2,0,H,NaN,NaN,NaN
-ENG,08/09/1924,,Sheffield United,Cardiff City,1,0,H,NaN,NaN,NaN
-ENG,08/09/1924,,Nottingham Forest,Huddersfield Town,0,1,A,NaN,NaN,NaN
-ENG,08/09/1924,,Bury FC,Aston Villa,4,3,H,NaN,NaN,NaN
-ENG,10/09/1924,,Leeds United,Notts County,1,1,D,NaN,NaN,NaN
-ENG,13/09/1924,,Burnley FC,Blackburn Rovers,3,5,A,NaN,NaN,NaN
-ENG,13/09/1924,,West Ham United,Huddersfield Town,0,0,D,NaN,NaN,NaN
-ENG,15/09/1924,,Blackburn Rovers,Liverpool FC,3,1,H,NaN,NaN,NaN
-ENG,10/09/1924,,Newcastle United,Blackburn Rovers,4,0,H,NaN,NaN,NaN
-ENG,13/09/1924,,West Bromwich Albion,Sunderland AFC,2,1,H,NaN,NaN,NaN
-ENG,13/09/1924,,Tottenham Hotspur,Everton FC,0,0,D,NaN,NaN,NaN
-ENG,13/09/1924,,Sheffield United,Aston Villa,2,2,D,NaN,NaN,NaN
-ENG,13/09/1924,,Nottingham Forest,Bury FC,2,0,H,NaN,NaN,NaN
-ENG,13/09/1924,,Leeds United,Preston North End,4,0,H,NaN,NaN,NaN
-ENG,13/09/1924,,Bolton Wanderers,Notts County,1,0,H,NaN,NaN,NaN
-ENG,13/09/1924,,Birmingham FC,Cardiff City,2,1,H,NaN,NaN,NaN
-ENG,17/09/1924,,Manchester City,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,20/09/1924,,Burnley FC,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,13/09/1924,,Newcastle United,Arsenal FC,2,2,D,NaN,NaN,NaN
-ENG,15/09/1924,,Birmingham FC,Notts County,1,0,H,NaN,NaN,NaN
-ENG,15/09/1924,,Preston North End,Cardiff City,1,3,A,NaN,NaN,NaN
-ENG,17/09/1924,,Leeds United,Everton FC,1,0,H,NaN,NaN,NaN
-ENG,20/09/1924,,Sunderland AFC,Tottenham Hotspur,4,1,H,NaN,NaN,NaN
-ENG,20/09/1924,,Notts County,Nottingham Forest,0,0,D,NaN,NaN,NaN
-ENG,20/09/1924,,Everton FC,Bolton Wanderers,2,2,D,NaN,NaN,NaN
-ENG,20/09/1924,,Cardiff City,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,20/09/1924,,Bury FC,Liverpool FC,0,0,D,NaN,NaN,NaN
-ENG,20/09/1924,,Aston Villa,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,20/09/1924,,Arsenal FC,Sheffield United,2,0,H,NaN,NaN,NaN
-ENG,27/09/1924,,Liverpool FC,Nottingham Forest,3,0,H,NaN,NaN,NaN
-ENG,17/09/1924,,Newcastle United,West Ham United,4,1,H,NaN,NaN,NaN
-ENG,20/09/1924,,Huddersfield Town,Blackburn Rovers,0,0,D,NaN,NaN,NaN
-ENG,20/09/1924,,Preston North End,Birmingham FC,1,0,H,NaN,NaN,NaN
-ENG,22/09/1924,,Sheffield United,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,22/09/1924,,Tottenham Hotspur,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,27/09/1924,,Newcastle United,Bury FC,2,2,D,NaN,NaN,NaN
-ENG,27/09/1924,,Bolton Wanderers,Sunderland AFC,1,2,A,NaN,NaN,NaN
-ENG,27/09/1924,,Blackburn Rovers,Aston Villa,1,1,D,NaN,NaN,NaN
-ENG,29/09/1924,,Burnley FC,Sunderland AFC,1,2,A,NaN,NaN,NaN
-ENG,04/10/1924,,Everton FC,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,20/09/1924,,Manchester City,Newcastle United,3,1,H,NaN,NaN,NaN
-ENG,27/09/1924,,West Ham United,Arsenal FC,1,0,H,NaN,NaN,NaN
-ENG,27/09/1924,,West Bromwich Albion,Preston North End,1,1,D,NaN,NaN,NaN
-ENG,27/09/1924,,Tottenham Hotspur,Cardiff City,1,1,D,NaN,NaN,NaN
-ENG,27/09/1924,,Sheffield United,Manchester City,0,5,A,NaN,NaN,NaN
-ENG,27/09/1924,,Notts County,Everton FC,3,1,H,NaN,NaN,NaN
-ENG,27/09/1924,,Leeds United,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,27/09/1924,,Birmingham FC,Burnley FC,1,0,H,NaN,NaN,NaN
-ENG,02/10/1924,,Nottingham Forest,Aston Villa,0,2,A,NaN,NaN,NaN
-ENG,04/10/1924,,Arsenal FC,Blackburn Rovers,1,0,H,NaN,NaN,NaN
-ENG,04/10/1924,,Burnley FC,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,04/10/1924,,Bury FC,Sheffield United,1,0,H,NaN,NaN,NaN
-ENG,04/10/1924,,Cardiff City,Bolton Wanderers,1,2,A,NaN,NaN,NaN
-ENG,11/10/1924,,Newcastle United,Liverpool FC,0,0,D,NaN,NaN,NaN
-ENG,04/10/1924,,Aston Villa,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,04/10/1924,,Leeds United,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,04/10/1924,,Manchester City,West Ham United,3,1,H,NaN,NaN,NaN
-ENG,04/10/1924,,Preston North End,Tottenham Hotspur,0,3,A,NaN,NaN,NaN
-ENG,04/10/1924,,Sunderland AFC,Notts County,0,1,A,NaN,NaN,NaN
-ENG,11/10/1924,,West Ham United,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,11/10/1924,,Tottenham Hotspur,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,11/10/1924,,Huddersfield Town,Arsenal FC,4,0,H,NaN,NaN,NaN
-ENG,11/10/1924,,Everton FC,Sunderland AFC,0,3,A,NaN,NaN,NaN
-ENG,11/10/1924,,Bolton Wanderers,Preston North End,6,1,H,NaN,NaN,NaN
-ENG,15/10/1924,,Liverpool FC,Blackburn Rovers,0,0,D,NaN,NaN,NaN
-ENG,04/10/1924,,Nottingham Forest,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,11/10/1924,,West Bromwich Albion,Leeds United,3,1,H,NaN,NaN,NaN
-ENG,11/10/1924,,Sheffield United,Nottingham Forest,1,2,A,NaN,NaN,NaN
-ENG,11/10/1924,,Notts County,Cardiff City,3,0,H,NaN,NaN,NaN
-ENG,11/10/1924,,Blackburn Rovers,Manchester City,3,1,H,NaN,NaN,NaN
-ENG,11/10/1924,,Birmingham FC,Aston Villa,1,0,H,NaN,NaN,NaN
-ENG,13/10/1924,,Arsenal FC,Bury FC,0,1,A,NaN,NaN,NaN
-ENG,18/10/1924,,Burnley FC,Bolton Wanderers,0,0,D,NaN,NaN,NaN
-ENG,18/10/1924,,Liverpool FC,Sheffield United,4,1,H,NaN,NaN,NaN
-ENG,18/10/1924,,Manchester City,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,18/10/1924,,Arsenal FC,Aston Villa,1,1,D,NaN,NaN,NaN
-ENG,18/10/1924,,West Bromwich Albion,Birmingham FC,1,1,D,NaN,NaN,NaN
-ENG,18/10/1924,,Preston North End,Notts County,0,1,A,NaN,NaN,NaN
-ENG,18/10/1924,,Nottingham Forest,West Ham United,2,1,H,NaN,NaN,NaN
-ENG,18/10/1924,,Leeds United,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,18/10/1924,,Cardiff City,Everton FC,2,1,H,NaN,NaN,NaN
-ENG,18/10/1924,,Bury FC,Blackburn Rovers,1,1,D,NaN,NaN,NaN
-ENG,25/10/1924,,Liverpool FC,Sunderland AFC,3,1,H,NaN,NaN,NaN
-ENG,25/10/1924,,Manchester City,Bolton Wanderers,2,2,D,NaN,NaN,NaN
-ENG,25/10/1924,,West Ham United,Burnley FC,2,0,H,NaN,NaN,NaN
-ENG,18/10/1924,,Sunderland AFC,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,25/10/1924,,Sheffield United,Preston North End,3,0,H,NaN,NaN,NaN
-ENG,25/10/1924,,Nottingham Forest,Everton FC,0,1,A,NaN,NaN,NaN
-ENG,25/10/1924,,Huddersfield Town,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,25/10/1924,,Bury FC,Notts County,2,1,H,NaN,NaN,NaN
-ENG,25/10/1924,,Blackburn Rovers,Leeds United,2,3,A,NaN,NaN,NaN
-ENG,25/10/1924,,Aston Villa,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,25/10/1924,,Arsenal FC,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,29/10/1924,,Everton FC,Manchester City,3,1,H,NaN,NaN,NaN
-ENG,01/11/1924,,Burnley FC,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,08/11/1924,,Liverpool FC,Preston North End,3,1,H,NaN,NaN,NaN
-ENG,25/10/1924,,Newcastle United,Cardiff City,1,2,A,NaN,NaN,NaN
-ENG,01/11/1924,,West Bromwich Albion,Huddersfield Town,1,0,H,NaN,NaN,NaN
-ENG,01/11/1924,,Tottenham Hotspur,Aston Villa,1,3,A,NaN,NaN,NaN
-ENG,01/11/1924,,Sunderland AFC,Nottingham Forest,3,1,H,NaN,NaN,NaN
-ENG,01/11/1924,,Notts County,Manchester City,2,0,H,NaN,NaN,NaN
-ENG,01/11/1924,,Leeds United,West Ham United,2,1,H,NaN,NaN,NaN
-ENG,01/11/1924,,Everton FC,Bury FC,0,0,D,NaN,NaN,NaN
-ENG,01/11/1924,,Bolton Wanderers,Arsenal FC,4,1,H,NaN,NaN,NaN
-ENG,01/11/1924,,Birmingham FC,Blackburn Rovers,1,1,D,NaN,NaN,NaN
-ENG,08/11/1924,,Newcastle United,Burnley FC,3,0,H,NaN,NaN,NaN
-ENG,12/11/1924,,Liverpool FC,Huddersfield Town,2,3,A,NaN,NaN,NaN
-ENG,01/11/1924,,Preston North End,Newcastle United,0,1,A,NaN,NaN,NaN
-ENG,08/11/1924,,West Ham United,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,08/11/1924,,Sheffield United,Leeds United,1,1,D,NaN,NaN,NaN
-ENG,08/11/1924,,Nottingham Forest,Cardiff City,2,1,H,NaN,NaN,NaN
-ENG,08/11/1924,,Manchester City,Everton FC,2,2,D,NaN,NaN,NaN
-ENG,08/11/1924,,Huddersfield Town,Tottenham Hotspur,1,2,A,NaN,NaN,NaN
-ENG,08/11/1924,,Bury FC,Sunderland AFC,3,0,H,NaN,NaN,NaN
-ENG,08/11/1924,,Blackburn Rovers,West Bromwich Albion,1,0,H,NaN,NaN,NaN
-ENG,08/11/1924,,Aston Villa,Bolton Wanderers,2,2,D,NaN,NaN,NaN
-ENG,08/11/1924,,Arsenal FC,Notts County,0,1,A,NaN,NaN,NaN
-ENG,15/11/1924,,Bolton Wanderers,Huddersfield Town,1,0,H,NaN,NaN,NaN
-ENG,15/11/1924,,Burnley FC,Liverpool FC,2,1,H,NaN,NaN,NaN
-ENG,15/11/1924,,Sunderland AFC,Manchester City,3,2,H,NaN,NaN,NaN
-ENG,10/11/1924,,Tottenham Hotspur,Manchester City,1,1,D,NaN,NaN,NaN
-ENG,15/11/1924,,West Bromwich Albion,West Ham United,4,1,H,NaN,NaN,NaN
-ENG,15/11/1924,,Preston North End,Nottingham Forest,3,1,H,NaN,NaN,NaN
-ENG,15/11/1924,,Notts County,Aston Villa,0,0,D,NaN,NaN,NaN
-ENG,15/11/1924,,Leeds United,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,15/11/1924,,Everton FC,Arsenal FC,2,3,A,NaN,NaN,NaN
-ENG,15/11/1924,,Cardiff City,Bury FC,4,1,H,NaN,NaN,NaN
-ENG,15/11/1924,,Birmingham FC,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,20/11/1924,,Preston North End,Sunderland AFC,1,2,A,NaN,NaN,NaN
-ENG,22/11/1924,,Manchester City,Cardiff City,2,2,D,NaN,NaN,NaN
-ENG,22/11/1924,,Nottingham Forest,Burnley FC,0,0,D,NaN,NaN,NaN
-ENG,15/11/1924,,Tottenham Hotspur,Blackburn Rovers,5,0,H,NaN,NaN,NaN
-ENG,22/11/1924,,Arsenal FC,Sunderland AFC,0,0,D,NaN,NaN,NaN
-ENG,22/11/1924,,Aston Villa,Everton FC,3,1,H,NaN,NaN,NaN
-ENG,22/11/1924,,Bury FC,Preston North End,1,1,D,NaN,NaN,NaN
-ENG,22/11/1924,,Huddersfield Town,Notts County,0,0,D,NaN,NaN,NaN
-ENG,22/11/1924,,Liverpool FC,Leeds United,1,0,H,NaN,NaN,NaN
-ENG,22/11/1924,,Newcastle United,Birmingham FC,4,0,H,NaN,NaN,NaN
-ENG,22/11/1924,,Sheffield United,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,29/11/1924,,Burnley FC,Bury FC,4,0,H,NaN,NaN,NaN
-ENG,22/11/1924,,Blackburn Rovers,Bolton Wanderers,0,2,A,NaN,NaN,NaN
-ENG,22/11/1924,,West Ham United,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,29/11/1924,,Tottenham Hotspur,Sheffield United,4,1,H,NaN,NaN,NaN
-ENG,29/11/1924,,Sunderland AFC,Aston Villa,1,1,D,NaN,NaN,NaN
-ENG,29/11/1924,,Leeds United,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,29/11/1924,,Everton FC,Huddersfield Town,0,2,A,NaN,NaN,NaN
-ENG,29/11/1924,,Cardiff City,Arsenal FC,1,1,D,NaN,NaN,NaN
-ENG,29/11/1924,,Bolton Wanderers,West Ham United,5,0,H,NaN,NaN,NaN
-ENG,29/11/1924,,Birmingham FC,Liverpool FC,5,2,H,NaN,NaN,NaN
-ENG,06/12/1924,,Liverpool FC,West Bromwich Albion,1,1,D,NaN,NaN,NaN
-ENG,06/12/1924,,Manchester City,Burnley FC,3,3,D,NaN,NaN,NaN
-ENG,29/11/1924,,Notts County,Blackburn Rovers,0,0,D,NaN,NaN,NaN
-ENG,29/11/1924,,Preston North End,Manchester City,2,3,A,NaN,NaN,NaN
-ENG,29/11/1924,,West Bromwich Albion,Newcastle United,2,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,West Ham United,Notts County,3,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,Sheffield United,Bolton Wanderers,2,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,Nottingham Forest,Birmingham FC,1,1,D,NaN,NaN,NaN
-ENG,06/12/1924,,Huddersfield Town,Sunderland AFC,4,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,Bury FC,Leeds United,1,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,Aston Villa,Cardiff City,1,2,A,NaN,NaN,NaN
-ENG,06/12/1924,,Arsenal FC,Preston North End,4,0,H,NaN,NaN,NaN
-ENG,13/12/1924,,Burnley FC,Arsenal FC,1,0,H,NaN,NaN,NaN
-ENG,13/12/1924,,Cardiff City,Huddersfield Town,2,2,D,NaN,NaN,NaN
-ENG,13/12/1924,,Tottenham Hotspur,Liverpool FC,1,1,D,NaN,NaN,NaN
-ENG,06/12/1924,,Blackburn Rovers,Everton FC,3,0,H,NaN,NaN,NaN
-ENG,06/12/1924,,Newcastle United,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,13/12/1924,,West Bromwich Albion,Nottingham Forest,5,1,H,NaN,NaN,NaN
-ENG,13/12/1924,,Preston North End,Aston Villa,3,2,H,NaN,NaN,NaN
-ENG,13/12/1924,,Notts County,Sheffield United,2,0,H,NaN,NaN,NaN
-ENG,13/12/1924,,Leeds United,Manchester City,0,3,A,NaN,NaN,NaN
-ENG,13/12/1924,,Everton FC,West Ham United,1,0,H,NaN,NaN,NaN
-ENG,13/12/1924,,Birmingham FC,Bury FC,0,1,A,NaN,NaN,NaN
-ENG,15/12/1924,,Cardiff City,Liverpool FC,1,3,A,NaN,NaN,NaN
-ENG,20/12/1924,,Aston Villa,Burnley FC,3,0,H,NaN,NaN,NaN
-ENG,13/12/1924,,Bolton Wanderers,Newcastle United,3,2,H,NaN,NaN,NaN
-ENG,13/12/1924,,Sunderland AFC,Blackburn Rovers,1,0,H,NaN,NaN,NaN
-ENG,20/12/1924,,West Ham United,Sunderland AFC,4,1,H,NaN,NaN,NaN
-ENG,20/12/1924,,Sheffield United,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,20/12/1924,,Nottingham Forest,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,20/12/1924,,Manchester City,Birmingham FC,2,2,D,NaN,NaN,NaN
-ENG,20/12/1924,,Liverpool FC,Bolton Wanderers,0,0,D,NaN,NaN,NaN
-ENG,20/12/1924,,Huddersfield Town,Preston North End,1,0,H,NaN,NaN,NaN
-ENG,20/12/1924,,Bury FC,West Bromwich Albion,0,2,A,NaN,NaN,NaN
-ENG,20/12/1924,,Arsenal FC,Leeds United,6,1,H,NaN,NaN,NaN
-ENG,25/12/1924,,Burnley FC,Huddersfield Town,1,5,A,NaN,NaN,NaN
-ENG,20/12/1924,,Blackburn Rovers,Cardiff City,3,1,H,NaN,NaN,NaN
-ENG,20/12/1924,,Newcastle United,Notts County,1,0,H,NaN,NaN,NaN
-ENG,25/12/1924,,West Ham United,Cardiff City,3,2,H,NaN,NaN,NaN
-ENG,25/12/1924,,Tottenham Hotspur,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,25/12/1924,,Sunderland AFC,Sheffield United,0,1,A,NaN,NaN,NaN
-ENG,25/12/1924,,Notts County,Liverpool FC,1,2,A,NaN,NaN,NaN
-ENG,25/12/1924,,Manchester City,West Bromwich Albion,1,2,A,NaN,NaN,NaN
-ENG,25/12/1924,,Leeds United,Aston Villa,6,0,H,NaN,NaN,NaN
-ENG,25/12/1924,,Bolton Wanderers,Nottingham Forest,1,0,H,NaN,NaN,NaN
-ENG,25/12/1924,,Birmingham FC,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,26/12/1924,,Huddersfield Town,Burnley FC,2,0,H,NaN,NaN,NaN
-ENG,25/12/1924,,Blackburn Rovers,Preston North End,0,1,A,NaN,NaN,NaN
-ENG,25/12/1924,,Everton FC,Newcastle United,0,1,A,NaN,NaN,NaN
-ENG,26/12/1924,,West Bromwich Albion,Manchester City,3,1,H,NaN,NaN,NaN
-ENG,26/12/1924,,Sheffield United,Sunderland AFC,2,1,H,NaN,NaN,NaN
-ENG,26/12/1924,,Nottingham Forest,Bolton Wanderers,1,1,D,NaN,NaN,NaN
-ENG,26/12/1924,,Liverpool FC,Notts County,1,0,H,NaN,NaN,NaN
-ENG,26/12/1924,,Cardiff City,West Ham United,2,1,H,NaN,NaN,NaN
-ENG,26/12/1924,,Aston Villa,Leeds United,2,1,H,NaN,NaN,NaN
-ENG,26/12/1924,,Arsenal FC,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,01/01/1925,,Bury FC,Tottenham Hotspur,5,2,H,NaN,NaN,NaN
-ENG,01/01/1925,,Everton FC,Burnley FC,3,2,H,NaN,NaN,NaN
-ENG,26/12/1924,,Newcastle United,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,26/12/1924,,Preston North End,Blackburn Rovers,3,2,H,NaN,NaN,NaN
-ENG,27/12/1924,,Sunderland AFC,Leeds United,2,1,H,NaN,NaN,NaN
-ENG,27/12/1924,,Preston North End,West Ham United,3,2,H,NaN,NaN,NaN
-ENG,27/12/1924,,Notts County,West Bromwich Albion,0,2,A,NaN,NaN,NaN
-ENG,27/12/1924,,Everton FC,Birmingham FC,2,1,H,NaN,NaN,NaN
-ENG,27/12/1924,,Bolton Wanderers,Tottenham Hotspur,3,0,H,NaN,NaN,NaN
-ENG,27/12/1924,,Blackburn Rovers,Sheffield United,2,2,D,NaN,NaN,NaN
-ENG,27/12/1924,,Arsenal FC,Nottingham Forest,2,1,H,NaN,NaN,NaN
-ENG,01/01/1925,,Sunderland AFC,Cardiff City,1,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,Burnley FC,Preston North End,1,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,Bury FC,Bolton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,Liverpool FC,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,27/12/1924,,Huddersfield Town,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,01/01/1925,,Bolton Wanderers,Birmingham FC,3,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,Leeds United,Cardiff City,0,0,D,NaN,NaN,NaN
-ENG,03/01/1925,,Nottingham Forest,Manchester City,0,3,A,NaN,NaN,NaN
-ENG,03/01/1925,,West Bromwich Albion,Everton FC,3,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,West Ham United,Blackburn Rovers,2,0,H,NaN,NaN,NaN
-ENG,17/01/1925,,Blackburn Rovers,Burnley FC,0,3,A,NaN,NaN,NaN
-ENG,17/01/1925,,Bury FC,Nottingham Forest,3,0,H,NaN,NaN,NaN
-ENG,17/01/1925,,Manchester City,Liverpool FC,5,0,H,NaN,NaN,NaN
-ENG,01/01/1925,,Newcastle United,Sheffield United,0,0,D,NaN,NaN,NaN
-ENG,03/01/1925,,Birmingham FC,Sunderland AFC,2,1,H,NaN,NaN,NaN
-ENG,03/01/1925,,Sheffield United,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,03/01/1925,,Tottenham Hotspur,Notts County,1,1,D,NaN,NaN,NaN
-ENG,17/01/1925,,Sunderland AFC,West Bromwich Albion,3,0,H,NaN,NaN,NaN
-ENG,17/01/1925,,Preston North End,Leeds United,1,4,A,NaN,NaN,NaN
-ENG,17/01/1925,,Notts County,Bolton Wanderers,0,1,A,NaN,NaN,NaN
-ENG,17/01/1925,,Huddersfield Town,West Ham United,1,2,A,NaN,NaN,NaN
-ENG,21/01/1925,,Aston Villa,Liverpool FC,1,4,A,NaN,NaN,NaN
-ENG,24/01/1925,,Leeds United,Burnley FC,0,2,A,NaN,NaN,NaN
-ENG,24/01/1925,,Liverpool FC,Bury FC,4,0,H,NaN,NaN,NaN
-ENG,03/01/1925,,Newcastle United,Aston Villa,4,1,H,NaN,NaN,NaN
-ENG,17/01/1925,,Aston Villa,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,17/01/1925,,Cardiff City,Birmingham FC,1,0,H,NaN,NaN,NaN
-ENG,17/01/1925,,Everton FC,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,24/01/1925,,Bolton Wanderers,Everton FC,1,0,H,NaN,NaN,NaN
-ENG,24/01/1925,,Nottingham Forest,Notts County,0,0,D,NaN,NaN,NaN
-ENG,24/01/1925,,West Bromwich Albion,Cardiff City,1,0,H,NaN,NaN,NaN
-ENG,24/01/1925,,West Ham United,Aston Villa,2,0,H,NaN,NaN,NaN
-ENG,31/01/1925,,Manchester City,Bury FC,0,0,D,NaN,NaN,NaN
-ENG,17/01/1925,,Arsenal FC,Newcastle United,0,2,A,NaN,NaN,NaN
-ENG,24/01/1925,,Birmingham FC,Preston North End,3,0,H,NaN,NaN,NaN
-ENG,24/01/1925,,Blackburn Rovers,Huddersfield Town,2,3,A,NaN,NaN,NaN
-ENG,24/01/1925,,Sheffield United,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,24/01/1925,,Tottenham Hotspur,Sunderland AFC,1,0,H,NaN,NaN,NaN
-ENG,31/01/1925,,Huddersfield Town,Leeds United,2,0,H,NaN,NaN,NaN
-ENG,04/02/1925,,Nottingham Forest,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,07/02/1925,,West Bromwich Albion,Burnley FC,1,4,A,NaN,NaN,NaN
-ENG,07/02/1925,,Sheffield United,Bury FC,0,1,A,NaN,NaN,NaN
-ENG,07/02/1925,,Notts County,Sunderland AFC,4,1,H,NaN,NaN,NaN
-ENG,07/02/1925,,Huddersfield Town,Aston Villa,4,1,H,NaN,NaN,NaN
-ENG,07/02/1925,,Bolton Wanderers,Cardiff City,3,0,H,NaN,NaN,NaN
-ENG,07/02/1925,,Blackburn Rovers,Arsenal FC,1,0,H,NaN,NaN,NaN
-ENG,07/02/1925,,West Ham United,Manchester City,4,0,H,NaN,NaN,NaN
-ENG,24/01/1925,,Newcastle United,Manchester City,2,0,H,NaN,NaN,NaN
-ENG,02/02/1925,,Burnley FC,Birmingham FC,3,2,H,NaN,NaN,NaN
-ENG,07/02/1925,,Liverpool FC,Everton FC,3,1,H,NaN,NaN,NaN
-ENG,07/02/1925,,Tottenham Hotspur,Preston North End,2,0,H,NaN,NaN,NaN
-ENG,11/02/1925,,Bury FC,Newcastle United,0,0,D,NaN,NaN,NaN
-ENG,11/02/1925,,Cardiff City,Burnley FC,4,0,H,NaN,NaN,NaN
-ENG,11/02/1925,,Sunderland AFC,Bolton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,12/02/1925,,Preston North End,West Bromwich Albion,1,2,A,NaN,NaN,NaN
-ENG,14/02/1925,,Arsenal FC,Huddersfield Town,0,5,A,NaN,NaN,NaN
-ENG,07/02/1925,,Birmingham FC,Leeds United,0,0,D,NaN,NaN,NaN
-ENG,07/02/1925,,Newcastle United,Nottingham Forest,4,1,H,NaN,NaN,NaN
-ENG,14/02/1925,,Nottingham Forest,Sheffield United,2,3,A,NaN,NaN,NaN
-ENG,14/02/1925,,Manchester City,Blackburn Rovers,1,3,A,NaN,NaN,NaN
-ENG,14/02/1925,,Liverpool FC,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,14/02/1925,,Leeds United,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,14/02/1925,,Cardiff City,Notts County,1,1,D,NaN,NaN,NaN
-ENG,14/02/1925,,Bury FC,West Ham United,4,2,H,NaN,NaN,NaN
-ENG,14/02/1925,,Burnley FC,Tottenham Hotspur,1,4,A,NaN,NaN,NaN
-ENG,14/02/1925,,Preston North End,Bolton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,14/02/1925,,Aston Villa,Birmingham FC,1,0,H,NaN,NaN,NaN
-ENG,14/02/1925,,Sunderland AFC,Everton FC,4,1,H,NaN,NaN,NaN
-ENG,21/02/1925,,Bolton Wanderers,Burnley FC,5,0,H,NaN,NaN,NaN
-ENG,21/02/1925,,Huddersfield Town,Manchester City,1,1,D,NaN,NaN,NaN
-ENG,23/02/1925,,Manchester City,Sheffield United,2,1,H,NaN,NaN,NaN
-ENG,25/02/1925,,Everton FC,Cardiff City,1,2,A,NaN,NaN,NaN
-ENG,28/02/1925,,West Bromwich Albion,Aston Villa,4,1,H,NaN,NaN,NaN
-ENG,28/02/1925,,Tottenham Hotspur,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,28/02/1925,,Sunderland AFC,Liverpool FC,3,0,H,NaN,NaN,NaN
-ENG,28/02/1925,,Notts County,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,28/02/1925,,Leeds United,Blackburn Rovers,1,1,D,NaN,NaN,NaN
-ENG,28/02/1925,,Everton FC,Nottingham Forest,3,1,H,NaN,NaN,NaN
-ENG,07/03/1925,,Arsenal FC,Bolton Wanderers,1,0,H,NaN,NaN,NaN
-ENG,07/03/1925,,Manchester City,Notts County,2,1,H,NaN,NaN,NaN
-ENG,28/02/1925,,Birmingham FC,Huddersfield Town,0,1,A,NaN,NaN,NaN
-ENG,28/02/1925,,Bolton Wanderers,Manchester City,4,2,H,NaN,NaN,NaN
-ENG,28/02/1925,,Burnley FC,West Ham United,5,4,H,NaN,NaN,NaN
-ENG,28/02/1925,,Preston North End,Sheffield United,0,1,A,NaN,NaN,NaN
-ENG,07/03/1925,,West Ham United,Leeds United,0,0,D,NaN,NaN,NaN
-ENG,07/03/1925,,Nottingham Forest,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,07/03/1925,,Bury FC,Everton FC,1,0,H,NaN,NaN,NaN
-ENG,07/03/1925,,Aston Villa,Tottenham Hotspur,0,1,A,NaN,NaN,NaN
-ENG,11/03/1925,,Huddersfield Town,West Bromwich Albion,1,1,D,NaN,NaN,NaN
-ENG,14/03/1925,,Bolton Wanderers,Aston Villa,4,0,H,NaN,NaN,NaN
-ENG,14/03/1925,,Notts County,Arsenal FC,2,1,H,NaN,NaN,NaN
-ENG,14/03/1925,,Preston North End,Liverpool FC,4,0,H,NaN,NaN,NaN
-ENG,21/02/1925,,Newcastle United,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,09/03/1925,,Tottenham Hotspur,Leeds United,2,1,H,NaN,NaN,NaN
-ENG,14/03/1925,,West Bromwich Albion,Blackburn Rovers,1,1,D,NaN,NaN,NaN
-ENG,14/03/1925,,Sunderland AFC,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,14/03/1925,,Cardiff City,Nottingham Forest,2,0,H,NaN,NaN,NaN
-ENG,14/03/1925,,Burnley FC,Newcastle United,1,3,A,NaN,NaN,NaN
-ENG,14/03/1925,,Birmingham FC,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,16/03/1925,,Sheffield United,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,18/03/1925,,Everton FC,Notts County,1,0,H,NaN,NaN,NaN
-ENG,21/03/1925,,Arsenal FC,Everton FC,3,1,H,NaN,NaN,NaN
-ENG,21/03/1925,,Aston Villa,Notts County,0,0,D,NaN,NaN,NaN
-ENG,28/02/1925,,Cardiff City,Newcastle United,3,0,H,NaN,NaN,NaN
-ENG,14/03/1925,,Leeds United,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,14/03/1925,,Tottenham Hotspur,Huddersfield Town,1,2,A,NaN,NaN,NaN
-ENG,16/03/1925,,Birmingham FC,West Bromwich Albion,0,0,D,NaN,NaN,NaN
-ENG,19/03/1925,,Blackburn Rovers,Bury FC,0,1,A,NaN,NaN,NaN
-ENG,21/03/1925,,Liverpool FC,Burnley FC,3,0,H,NaN,NaN,NaN
-ENG,21/03/1925,,Nottingham Forest,Preston North End,0,1,A,NaN,NaN,NaN
-ENG,23/03/1925,,Arsenal FC,West Ham United,1,2,A,NaN,NaN,NaN
-ENG,28/03/1925,,Everton FC,Aston Villa,2,0,H,NaN,NaN,NaN
-ENG,07/03/1925,,Newcastle United,Preston North End,3,1,H,NaN,NaN,NaN
-ENG,18/03/1925,,Cardiff City,Tottenham Hotspur,0,2,A,NaN,NaN,NaN
-ENG,21/03/1925,,West Ham United,West Bromwich Albion,2,1,H,NaN,NaN,NaN
-ENG,21/03/1925,,Sheffield United,Birmingham FC,4,3,H,NaN,NaN,NaN
-ENG,21/03/1925,,Newcastle United,Leeds United,4,1,H,NaN,NaN,NaN
-ENG,21/03/1925,,Huddersfield Town,Bolton Wanderers,0,0,D,NaN,NaN,NaN
-ENG,21/03/1925,,Bury FC,Cardiff City,4,1,H,NaN,NaN,NaN
-ENG,28/03/1925,,Burnley FC,Nottingham Forest,0,0,D,NaN,NaN,NaN
-ENG,28/03/1925,,Sunderland AFC,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,01/04/1925,,Notts County,Preston North End,1,0,H,NaN,NaN,NaN
-ENG,21/03/1925,,Blackburn Rovers,Tottenham Hotspur,1,1,D,NaN,NaN,NaN
-ENG,21/03/1925,,Manchester City,Sunderland AFC,1,3,A,NaN,NaN,NaN
-ENG,28/03/1925,,Birmingham FC,Newcastle United,1,1,D,NaN,NaN,NaN
-ENG,28/03/1925,,Leeds United,Liverpool FC,4,1,H,NaN,NaN,NaN
-ENG,28/03/1925,,Preston North End,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,30/03/1925,,West Bromwich Albion,Sheffield United,2,1,H,NaN,NaN,NaN
-ENG,01/04/1925,,Cardiff City,Manchester City,0,2,A,NaN,NaN,NaN
-ENG,01/04/1925,,Aston Villa,Arsenal FC,4,0,H,NaN,NaN,NaN
-ENG,02/04/1925,,West Ham United,Nottingham Forest,0,0,D,NaN,NaN,NaN
-ENG,04/04/1925,,Aston Villa,Sunderland AFC,1,4,A,NaN,NaN,NaN
-ENG,04/04/1925,,Blackburn Rovers,Notts County,0,2,A,NaN,NaN,NaN
-ENG,04/04/1925,,Bury FC,Burnley FC,1,0,H,NaN,NaN,NaN
-ENG,04/04/1925,,Huddersfield Town,Everton FC,2,0,H,NaN,NaN,NaN
-ENG,28/03/1925,,Tottenham Hotspur,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,02/04/1925,,Blackburn Rovers,Birmingham FC,7,1,H,NaN,NaN,NaN
-ENG,04/04/1925,,West Ham United,Bolton Wanderers,1,1,D,NaN,NaN,NaN
-ENG,04/04/1925,,Sheffield United,Tottenham Hotspur,2,0,H,NaN,NaN,NaN
-ENG,04/04/1925,,Nottingham Forest,Leeds United,4,0,H,NaN,NaN,NaN
-ENG,04/04/1925,,Manchester City,Preston North End,2,1,H,NaN,NaN,NaN
-ENG,04/04/1925,,Arsenal FC,Cardiff City,1,1,D,NaN,NaN,NaN
-ENG,06/04/1925,,Sheffield United,Burnley FC,4,0,H,NaN,NaN,NaN
-ENG,10/04/1925,,Aston Villa,Manchester City,2,1,H,NaN,NaN,NaN
-ENG,10/04/1925,,Liverpool FC,West Ham United,2,0,H,NaN,NaN,NaN
-ENG,04/04/1925,,Liverpool FC,Birmingham FC,1,1,D,NaN,NaN,NaN
-ENG,10/04/1925,,Preston North End,Everton FC,1,1,D,NaN,NaN,NaN
-ENG,10/04/1925,,Nottingham Forest,Blackburn Rovers,0,2,A,NaN,NaN,NaN
-ENG,10/04/1925,,Bury FC,Huddersfield Town,0,1,A,NaN,NaN,NaN
-ENG,10/04/1925,,Burnley FC,Notts County,1,1,D,NaN,NaN,NaN
-ENG,10/04/1925,,Bolton Wanderers,Leeds United,1,0,H,NaN,NaN,NaN
-ENG,11/04/1925,,Cardiff City,Aston Villa,2,1,H,NaN,NaN,NaN
-ENG,11/04/1925,,Everton FC,Blackburn Rovers,1,0,H,NaN,NaN,NaN
-ENG,11/04/1925,,Preston North End,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,11/04/1925,,Sunderland AFC,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,11/04/1925,,West Bromwich Albion,Liverpool FC,0,0,D,NaN,NaN,NaN
-ENG,04/04/1925,,Newcastle United,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,10/04/1925,,Tottenham Hotspur,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,11/04/1925,,Notts County,West Ham United,4,1,H,NaN,NaN,NaN
-ENG,11/04/1925,,Leeds United,Bury FC,1,0,H,NaN,NaN,NaN
-ENG,11/04/1925,,Burnley FC,Manchester City,1,0,H,NaN,NaN,NaN
-ENG,11/04/1925,,Bolton Wanderers,Sheffield United,3,1,H,NaN,NaN,NaN
-ENG,13/04/1925,,Cardiff City,Sunderland AFC,2,0,H,NaN,NaN,NaN
-ENG,13/04/1925,,Manchester City,Aston Villa,1,0,H,NaN,NaN,NaN
-ENG,13/04/1925,,West Bromwich Albion,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,13/04/1925,,West Ham United,Liverpool FC,0,1,A,NaN,NaN,NaN
-ENG,11/04/1925,,Birmingham FC,Nottingham Forest,1,1,D,NaN,NaN,NaN
-ENG,11/04/1925,,Tottenham Hotspur,Newcastle United,3,0,H,NaN,NaN,NaN
-ENG,13/04/1925,,Blackburn Rovers,Nottingham Forest,0,0,D,NaN,NaN,NaN
-ENG,13/04/1925,,Everton FC,Preston North End,0,0,D,NaN,NaN,NaN
-ENG,13/04/1925,,Notts County,Burnley FC,2,0,H,NaN,NaN,NaN
-ENG,14/04/1925,,Leeds United,Bolton Wanderers,2,1,H,NaN,NaN,NaN
-ENG,14/04/1925,,Huddersfield Town,Bury FC,2,0,H,NaN,NaN,NaN
-ENG,14/04/1925,,Arsenal FC,West Bromwich Albion,2,0,H,NaN,NaN,NaN
-ENG,15/04/1925,,Cardiff City,Blackburn Rovers,3,0,H,NaN,NaN,NaN
-ENG,18/04/1925,,Aston Villa,Preston North End,1,0,H,NaN,NaN,NaN
-ENG,18/04/1925,,Liverpool FC,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,13/04/1925,,Sheffield United,Newcastle United,1,2,A,NaN,NaN,NaN
-ENG,14/04/1925,,West Ham United,Sheffield United,6,2,H,NaN,NaN,NaN
-ENG,18/04/1925,,Nottingham Forest,West Bromwich Albion,0,1,A,NaN,NaN,NaN
-ENG,18/04/1925,,Manchester City,Leeds United,4,2,H,NaN,NaN,NaN
-ENG,18/04/1925,,Huddersfield Town,Cardiff City,0,0,D,NaN,NaN,NaN
-ENG,18/04/1925,,Bury FC,Birmingham FC,1,4,A,NaN,NaN,NaN
-ENG,18/04/1925,,Blackburn Rovers,Sunderland AFC,1,1,D,NaN,NaN,NaN
-ENG,18/04/1925,,Arsenal FC,Burnley FC,5,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,Bolton Wanderers,Liverpool FC,2,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,Preston North End,Huddersfield Town,1,4,A,NaN,NaN,NaN
-ENG,18/04/1925,,Newcastle United,Bolton Wanderers,0,1,A,NaN,NaN,NaN
-ENG,18/04/1925,,Sheffield United,Notts County,2,0,H,NaN,NaN,NaN
-ENG,18/04/1925,,West Ham United,Everton FC,4,1,H,NaN,NaN,NaN
-ENG,22/04/1925,,Bolton Wanderers,Blackburn Rovers,6,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,West Bromwich Albion,Bury FC,1,1,D,NaN,NaN,NaN
-ENG,25/04/1925,,Tottenham Hotspur,Nottingham Forest,1,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,Leeds United,Arsenal FC,1,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,Burnley FC,Aston Villa,1,1,D,NaN,NaN,NaN
-ENG,25/04/1925,,Birmingham FC,Manchester City,2,1,H,NaN,NaN,NaN
-ENG,29/04/1925,,Aston Villa,Blackburn Rovers,4,3,H,NaN,NaN,NaN
-ENG,29/04/1925,,Liverpool FC,Cardiff City,1,2,A,NaN,NaN,NaN
-ENG,29/04/1925,,Notts County,Huddersfield Town,1,1,D,NaN,NaN,NaN
-ENG,25/04/1925,,Notts County,Newcastle United,2,0,H,NaN,NaN,NaN
-ENG,25/04/1925,,Sunderland AFC,West Ham United,1,1,D,NaN,NaN,NaN
-ENG,27/04/1925,,Everton FC,Sheffield United,1,1,D,NaN,NaN,NaN
-ENG,02/05/1925,,Sunderland AFC,Burnley FC,1,1,D,NaN,NaN,NaN
-ENG,02/05/1925,,Notts County,Birmingham FC,0,1,A,NaN,NaN,NaN
-ENG,02/05/1925,,Manchester City,Tottenham Hotspur,1,0,H,NaN,NaN,NaN
-ENG,02/05/1925,,Huddersfield Town,Liverpool FC,1,1,D,NaN,NaN,NaN
-ENG,02/05/1925,,Everton FC,Leeds United,1,0,H,NaN,NaN,NaN
-ENG,02/05/1925,,Cardiff City,Preston North End,0,0,D,NaN,NaN,NaN
-ENG,02/05/1925,,Bury FC,Arsenal FC,2,0,H,NaN,NaN,NaN
-ENG,02/05/1925,,Aston Villa,Nottingham Forest,2,0,H,NaN,NaN,NaN
-ENG,02/05/1925,,West Bromwich Albion,Bolton Wanderers,0,0,D,NaN,NaN,NaN
+ENG,1924-08-30,,Birmingham FC,Everton FC,2,2,D,,,
+ENG,1924-08-30,,West Bromwich Albion,Notts County,1,2,A,,,
+ENG,1924-08-30,,Tottenham Hotspur,Bolton Wanderers,3,0,H,,,
+ENG,1924-08-30,,Sheffield United,Blackburn Rovers,2,3,A,,,
+ENG,1924-08-30,,Nottingham Forest,Arsenal FC,0,2,A,,,
+ENG,1924-08-30,,Newcastle United,Huddersfield Town,1,3,A,,,
+ENG,1924-08-30,,Liverpool FC,Aston Villa,2,4,A,,,
+ENG,1924-08-30,,Leeds United,Sunderland AFC,1,1,D,,,
+ENG,1924-08-30,,Bury FC,Manchester City,0,2,A,,,
+ENG,1924-08-30,,Burnley FC,Cardiff City,0,0,D,,,
+ENG,1924-08-30,,West Ham United,Preston North End,1,0,H,,,
+ENG,1924-09-01,,Arsenal FC,Manchester City,1,0,H,,,
+ENG,1924-09-01,,Aston Villa,Bury FC,3,3,D,,,
+ENG,1924-09-01,,Blackburn Rovers,Newcastle United,1,1,D,,,
+ENG,1924-09-01,,Bolton Wanderers,West Bromwich Albion,1,1,D,,,
+ENG,1924-09-01,,Cardiff City,Sheffield United,1,1,D,,,
+ENG,1924-09-01,,Notts County,Leeds United,1,0,H,,,
+ENG,1924-09-02,,Huddersfield Town,Nottingham Forest,3,0,H,,,
+ENG,1924-09-03,,Birmingham FC,Tottenham Hotspur,0,2,A,,,
+ENG,1924-09-03,,Sunderland AFC,Preston North End,2,0,H,,,
+ENG,1924-09-06,,Arsenal FC,Liverpool FC,2,0,H,,,
+ENG,1924-09-06,,Blackburn Rovers,West Ham United,0,1,A,,,
+ENG,1924-09-06,,Preston North End,Burnley FC,0,2,A,,,
+ENG,1924-09-06,,Aston Villa,Newcastle United,0,0,D,,,
+ENG,1924-09-06,,Sunderland AFC,Birmingham FC,4,0,H,,,
+ENG,1924-09-06,,Notts County,Tottenham Hotspur,0,0,D,,,
+ENG,1924-09-06,,Manchester City,Nottingham Forest,4,2,H,,,
+ENG,1924-09-06,,Huddersfield Town,Sheffield United,2,1,H,,,
+ENG,1924-09-06,,Everton FC,West Bromwich Albion,1,0,H,,,
+ENG,1924-09-06,,Cardiff City,Leeds United,3,0,H,,,
+ENG,1924-09-06,,Bolton Wanderers,Bury FC,3,3,D,,,
+ENG,1924-09-08,,Burnley FC,Everton FC,0,0,D,,,
+ENG,1924-09-08,,Birmingham FC,Bolton Wanderers,1,0,H,,,
+ENG,1924-09-08,,West Ham United,Newcastle United,0,0,D,,,
+ENG,1924-09-08,,West Bromwich Albion,Tottenham Hotspur,2,0,H,,,
+ENG,1924-09-08,,Sheffield United,Cardiff City,1,0,H,,,
+ENG,1924-09-08,,Nottingham Forest,Huddersfield Town,0,1,A,,,
+ENG,1924-09-08,,Bury FC,Aston Villa,4,3,H,,,
+ENG,1924-09-10,,Leeds United,Notts County,1,1,D,,,
+ENG,1924-09-10,,Newcastle United,Blackburn Rovers,4,0,H,,,
+ENG,1924-09-13,,Liverpool FC,Manchester City,5,3,H,,,
+ENG,1924-09-13,,Burnley FC,Blackburn Rovers,3,5,A,,,
+ENG,1924-09-13,,West Ham United,Huddersfield Town,0,0,D,,,
+ENG,1924-09-13,,West Bromwich Albion,Sunderland AFC,2,1,H,,,
+ENG,1924-09-13,,Tottenham Hotspur,Everton FC,0,0,D,,,
+ENG,1924-09-13,,Sheffield United,Aston Villa,2,2,D,,,
+ENG,1924-09-13,,Nottingham Forest,Bury FC,2,0,H,,,
+ENG,1924-09-13,,Leeds United,Preston North End,4,0,H,,,
+ENG,1924-09-13,,Bolton Wanderers,Notts County,1,0,H,,,
+ENG,1924-09-13,,Birmingham FC,Cardiff City,2,1,H,,,
+ENG,1924-09-13,,Newcastle United,Arsenal FC,2,2,D,,,
+ENG,1924-09-15,,Blackburn Rovers,Liverpool FC,3,1,H,,,
+ENG,1924-09-15,,Birmingham FC,Notts County,1,0,H,,,
+ENG,1924-09-15,,Preston North End,Cardiff City,1,3,A,,,
+ENG,1924-09-17,,Manchester City,Arsenal FC,2,0,H,,,
+ENG,1924-09-17,,Leeds United,Everton FC,1,0,H,,,
+ENG,1924-09-17,,Newcastle United,West Ham United,4,1,H,,,
+ENG,1924-09-20,,Burnley FC,Leeds United,1,1,D,,,
+ENG,1924-09-20,,Sunderland AFC,Tottenham Hotspur,4,1,H,,,
+ENG,1924-09-20,,Notts County,Nottingham Forest,0,0,D,,,
+ENG,1924-09-20,,Everton FC,Bolton Wanderers,2,2,D,,,
+ENG,1924-09-20,,Cardiff City,West Bromwich Albion,0,1,A,,,
+ENG,1924-09-20,,Bury FC,Liverpool FC,0,0,D,,,
+ENG,1924-09-20,,Aston Villa,West Ham United,1,1,D,,,
+ENG,1924-09-20,,Arsenal FC,Sheffield United,2,0,H,,,
+ENG,1924-09-20,,Huddersfield Town,Blackburn Rovers,0,0,D,,,
+ENG,1924-09-20,,Preston North End,Birmingham FC,1,0,H,,,
+ENG,1924-09-20,,Manchester City,Newcastle United,3,1,H,,,
+ENG,1924-09-22,,Sheffield United,West Ham United,1,1,D,,,
+ENG,1924-09-22,,Tottenham Hotspur,West Bromwich Albion,0,1,A,,,
+ENG,1924-09-27,,Liverpool FC,Nottingham Forest,3,0,H,,,
+ENG,1924-09-27,,Newcastle United,Bury FC,2,2,D,,,
+ENG,1924-09-27,,Bolton Wanderers,Sunderland AFC,1,2,A,,,
+ENG,1924-09-27,,Blackburn Rovers,Aston Villa,1,1,D,,,
+ENG,1924-09-27,,West Ham United,Arsenal FC,1,0,H,,,
+ENG,1924-09-27,,West Bromwich Albion,Preston North End,1,1,D,,,
+ENG,1924-09-27,,Tottenham Hotspur,Cardiff City,1,1,D,,,
+ENG,1924-09-27,,Sheffield United,Manchester City,0,5,A,,,
+ENG,1924-09-27,,Notts County,Everton FC,3,1,H,,,
+ENG,1924-09-27,,Leeds United,Huddersfield Town,1,1,D,,,
+ENG,1924-09-27,,Birmingham FC,Burnley FC,1,0,H,,,
+ENG,1924-09-29,,Burnley FC,Sunderland AFC,1,2,A,,,
+ENG,1924-10-02,,Nottingham Forest,Aston Villa,0,2,A,,,
+ENG,1924-10-04,,Everton FC,Liverpool FC,0,1,A,,,
+ENG,1924-10-04,,Arsenal FC,Blackburn Rovers,1,0,H,,,
+ENG,1924-10-04,,Burnley FC,West Bromwich Albion,0,1,A,,,
+ENG,1924-10-04,,Bury FC,Sheffield United,1,0,H,,,
+ENG,1924-10-04,,Cardiff City,Bolton Wanderers,1,2,A,,,
+ENG,1924-10-04,,Aston Villa,Huddersfield Town,1,1,D,,,
+ENG,1924-10-04,,Leeds United,Birmingham FC,0,1,A,,,
+ENG,1924-10-04,,Manchester City,West Ham United,3,1,H,,,
+ENG,1924-10-04,,Preston North End,Tottenham Hotspur,0,3,A,,,
+ENG,1924-10-04,,Sunderland AFC,Notts County,0,1,A,,,
+ENG,1924-10-04,,Nottingham Forest,Newcastle United,1,1,D,,,
+ENG,1924-10-11,,Newcastle United,Liverpool FC,0,0,D,,,
+ENG,1924-10-11,,West Ham United,Bury FC,1,1,D,,,
+ENG,1924-10-11,,Tottenham Hotspur,Burnley FC,1,1,D,,,
+ENG,1924-10-11,,Huddersfield Town,Arsenal FC,4,0,H,,,
+ENG,1924-10-11,,Everton FC,Sunderland AFC,0,3,A,,,
+ENG,1924-10-11,,Bolton Wanderers,Preston North End,6,1,H,,,
+ENG,1924-10-11,,West Bromwich Albion,Leeds United,3,1,H,,,
+ENG,1924-10-11,,Sheffield United,Nottingham Forest,1,2,A,,,
+ENG,1924-10-11,,Notts County,Cardiff City,3,0,H,,,
+ENG,1924-10-11,,Blackburn Rovers,Manchester City,3,1,H,,,
+ENG,1924-10-11,,Birmingham FC,Aston Villa,1,0,H,,,
+ENG,1924-10-13,,Arsenal FC,Bury FC,0,1,A,,,
+ENG,1924-10-15,,Liverpool FC,Blackburn Rovers,0,0,D,,,
+ENG,1924-10-18,,Burnley FC,Bolton Wanderers,0,0,D,,,
+ENG,1924-10-18,,Liverpool FC,Sheffield United,4,1,H,,,
+ENG,1924-10-18,,Manchester City,Huddersfield Town,1,1,D,,,
+ENG,1924-10-18,,Arsenal FC,Aston Villa,1,1,D,,,
+ENG,1924-10-18,,West Bromwich Albion,Birmingham FC,1,1,D,,,
+ENG,1924-10-18,,Preston North End,Notts County,0,1,A,,,
+ENG,1924-10-18,,Nottingham Forest,West Ham United,2,1,H,,,
+ENG,1924-10-18,,Leeds United,Tottenham Hotspur,1,0,H,,,
+ENG,1924-10-18,,Cardiff City,Everton FC,2,1,H,,,
+ENG,1924-10-18,,Bury FC,Blackburn Rovers,1,1,D,,,
+ENG,1924-10-18,,Sunderland AFC,Newcastle United,1,1,D,,,
+ENG,1924-10-25,,Liverpool FC,Sunderland AFC,3,1,H,,,
+ENG,1924-10-25,,Manchester City,Bolton Wanderers,2,2,D,,,
+ENG,1924-10-25,,West Ham United,Burnley FC,2,0,H,,,
+ENG,1924-10-25,,Sheffield United,Preston North End,3,0,H,,,
+ENG,1924-10-25,,Nottingham Forest,Everton FC,0,1,A,,,
+ENG,1924-10-25,,Huddersfield Town,Birmingham FC,0,1,A,,,
+ENG,1924-10-25,,Bury FC,Notts County,2,1,H,,,
+ENG,1924-10-25,,Blackburn Rovers,Leeds United,2,3,A,,,
+ENG,1924-10-25,,Aston Villa,West Bromwich Albion,1,0,H,,,
+ENG,1924-10-25,,Arsenal FC,Tottenham Hotspur,1,0,H,,,
+ENG,1924-10-25,,Newcastle United,Cardiff City,1,2,A,,,
+ENG,1924-10-29,,Everton FC,Manchester City,3,1,H,,,
+ENG,1924-11-01,,Burnley FC,Sheffield United,1,1,D,,,
+ENG,1924-11-01,,West Bromwich Albion,Huddersfield Town,1,0,H,,,
+ENG,1924-11-01,,Tottenham Hotspur,Aston Villa,1,3,A,,,
+ENG,1924-11-01,,Sunderland AFC,Nottingham Forest,3,1,H,,,
+ENG,1924-11-01,,Notts County,Manchester City,2,0,H,,,
+ENG,1924-11-01,,Leeds United,West Ham United,2,1,H,,,
+ENG,1924-11-01,,Everton FC,Bury FC,0,0,D,,,
+ENG,1924-11-01,,Bolton Wanderers,Arsenal FC,4,1,H,,,
+ENG,1924-11-01,,Birmingham FC,Blackburn Rovers,1,1,D,,,
+ENG,1924-11-01,,Preston North End,Newcastle United,0,1,A,,,
+ENG,1924-11-08,,Liverpool FC,Preston North End,3,1,H,,,
+ENG,1924-11-08,,Newcastle United,Burnley FC,3,0,H,,,
+ENG,1924-11-08,,West Ham United,Birmingham FC,0,1,A,,,
+ENG,1924-11-08,,Sheffield United,Leeds United,1,1,D,,,
+ENG,1924-11-08,,Nottingham Forest,Cardiff City,2,1,H,,,
+ENG,1924-11-08,,Manchester City,Everton FC,2,2,D,,,
+ENG,1924-11-08,,Huddersfield Town,Tottenham Hotspur,1,2,A,,,
+ENG,1924-11-08,,Bury FC,Sunderland AFC,3,0,H,,,
+ENG,1924-11-08,,Blackburn Rovers,West Bromwich Albion,1,0,H,,,
+ENG,1924-11-08,,Aston Villa,Bolton Wanderers,2,2,D,,,
+ENG,1924-11-08,,Arsenal FC,Notts County,0,1,A,,,
+ENG,1924-11-10,,Tottenham Hotspur,Manchester City,1,1,D,,,
+ENG,1924-11-12,,Liverpool FC,Huddersfield Town,2,3,A,,,
+ENG,1924-11-15,,Bolton Wanderers,Huddersfield Town,1,0,H,,,
+ENG,1924-11-15,,Burnley FC,Liverpool FC,2,1,H,,,
+ENG,1924-11-15,,Sunderland AFC,Manchester City,3,2,H,,,
+ENG,1924-11-15,,West Bromwich Albion,West Ham United,4,1,H,,,
+ENG,1924-11-15,,Preston North End,Nottingham Forest,3,1,H,,,
+ENG,1924-11-15,,Notts County,Aston Villa,0,0,D,,,
+ENG,1924-11-15,,Leeds United,Newcastle United,1,1,D,,,
+ENG,1924-11-15,,Everton FC,Arsenal FC,2,3,A,,,
+ENG,1924-11-15,,Cardiff City,Bury FC,4,1,H,,,
+ENG,1924-11-15,,Birmingham FC,Sheffield United,1,1,D,,,
+ENG,1924-11-15,,Tottenham Hotspur,Blackburn Rovers,5,0,H,,,
+ENG,1924-11-20,,Preston North End,Sunderland AFC,1,2,A,,,
+ENG,1924-11-22,,Manchester City,Cardiff City,2,2,D,,,
+ENG,1924-11-22,,Nottingham Forest,Burnley FC,0,0,D,,,
+ENG,1924-11-22,,Arsenal FC,Sunderland AFC,0,0,D,,,
+ENG,1924-11-22,,Aston Villa,Everton FC,3,1,H,,,
+ENG,1924-11-22,,Bury FC,Preston North End,1,1,D,,,
+ENG,1924-11-22,,Huddersfield Town,Notts County,0,0,D,,,
+ENG,1924-11-22,,Liverpool FC,Leeds United,1,0,H,,,
+ENG,1924-11-22,,Newcastle United,Birmingham FC,4,0,H,,,
+ENG,1924-11-22,,Sheffield United,West Bromwich Albion,2,0,H,,,
+ENG,1924-11-22,,Blackburn Rovers,Bolton Wanderers,0,2,A,,,
+ENG,1924-11-22,,West Ham United,Tottenham Hotspur,1,1,D,,,
+ENG,1924-11-29,,Burnley FC,Bury FC,4,0,H,,,
+ENG,1924-11-29,,Tottenham Hotspur,Sheffield United,4,1,H,,,
+ENG,1924-11-29,,Sunderland AFC,Aston Villa,1,1,D,,,
+ENG,1924-11-29,,Leeds United,Nottingham Forest,1,1,D,,,
+ENG,1924-11-29,,Everton FC,Huddersfield Town,0,2,A,,,
+ENG,1924-11-29,,Cardiff City,Arsenal FC,1,1,D,,,
+ENG,1924-11-29,,Bolton Wanderers,West Ham United,5,0,H,,,
+ENG,1924-11-29,,Birmingham FC,Liverpool FC,5,2,H,,,
+ENG,1924-11-29,,Notts County,Blackburn Rovers,0,0,D,,,
+ENG,1924-11-29,,Preston North End,Manchester City,2,3,A,,,
+ENG,1924-11-29,,West Bromwich Albion,Newcastle United,2,0,H,,,
+ENG,1924-12-06,,Liverpool FC,West Bromwich Albion,1,1,D,,,
+ENG,1924-12-06,,Manchester City,Burnley FC,3,3,D,,,
+ENG,1924-12-06,,West Ham United,Notts County,3,0,H,,,
+ENG,1924-12-06,,Sheffield United,Bolton Wanderers,2,0,H,,,
+ENG,1924-12-06,,Nottingham Forest,Birmingham FC,1,1,D,,,
+ENG,1924-12-06,,Huddersfield Town,Sunderland AFC,4,0,H,,,
+ENG,1924-12-06,,Bury FC,Leeds United,1,0,H,,,
+ENG,1924-12-06,,Aston Villa,Cardiff City,1,2,A,,,
+ENG,1924-12-06,,Arsenal FC,Preston North End,4,0,H,,,
+ENG,1924-12-06,,Blackburn Rovers,Everton FC,3,0,H,,,
+ENG,1924-12-06,,Newcastle United,Tottenham Hotspur,1,1,D,,,
+ENG,1924-12-13,,Burnley FC,Arsenal FC,1,0,H,,,
+ENG,1924-12-13,,Cardiff City,Huddersfield Town,2,2,D,,,
+ENG,1924-12-13,,Tottenham Hotspur,Liverpool FC,1,1,D,,,
+ENG,1924-12-13,,West Bromwich Albion,Nottingham Forest,5,1,H,,,
+ENG,1924-12-13,,Preston North End,Aston Villa,3,2,H,,,
+ENG,1924-12-13,,Notts County,Sheffield United,2,0,H,,,
+ENG,1924-12-13,,Leeds United,Manchester City,0,3,A,,,
+ENG,1924-12-13,,Everton FC,West Ham United,1,0,H,,,
+ENG,1924-12-13,,Birmingham FC,Bury FC,0,1,A,,,
+ENG,1924-12-13,,Bolton Wanderers,Newcastle United,3,2,H,,,
+ENG,1924-12-13,,Sunderland AFC,Blackburn Rovers,1,0,H,,,
+ENG,1924-12-15,,Cardiff City,Liverpool FC,1,3,A,,,
+ENG,1924-12-20,,Aston Villa,Burnley FC,3,0,H,,,
+ENG,1924-12-20,,West Ham United,Sunderland AFC,4,1,H,,,
+ENG,1924-12-20,,Sheffield United,Everton FC,1,1,D,,,
+ENG,1924-12-20,,Nottingham Forest,Tottenham Hotspur,1,0,H,,,
+ENG,1924-12-20,,Manchester City,Birmingham FC,2,2,D,,,
+ENG,1924-12-20,,Liverpool FC,Bolton Wanderers,0,0,D,,,
+ENG,1924-12-20,,Huddersfield Town,Preston North End,1,0,H,,,
+ENG,1924-12-20,,Bury FC,West Bromwich Albion,0,2,A,,,
+ENG,1924-12-20,,Arsenal FC,Leeds United,6,1,H,,,
+ENG,1924-12-20,,Blackburn Rovers,Cardiff City,3,1,H,,,
+ENG,1924-12-20,,Newcastle United,Notts County,1,0,H,,,
+ENG,1924-12-25,,Burnley FC,Huddersfield Town,1,5,A,,,
+ENG,1924-12-25,,West Ham United,Cardiff City,3,2,H,,,
+ENG,1924-12-25,,Tottenham Hotspur,Bury FC,1,1,D,,,
+ENG,1924-12-25,,Sunderland AFC,Sheffield United,0,1,A,,,
+ENG,1924-12-25,,Notts County,Liverpool FC,1,2,A,,,
+ENG,1924-12-25,,Manchester City,West Bromwich Albion,1,2,A,,,
+ENG,1924-12-25,,Leeds United,Aston Villa,6,0,H,,,
+ENG,1924-12-25,,Bolton Wanderers,Nottingham Forest,1,0,H,,,
+ENG,1924-12-25,,Birmingham FC,Arsenal FC,2,1,H,,,
+ENG,1924-12-25,,Blackburn Rovers,Preston North End,0,1,A,,,
+ENG,1924-12-25,,Everton FC,Newcastle United,0,1,A,,,
+ENG,1924-12-26,,Huddersfield Town,Burnley FC,2,0,H,,,
+ENG,1924-12-26,,West Bromwich Albion,Manchester City,3,1,H,,,
+ENG,1924-12-26,,Sheffield United,Sunderland AFC,2,1,H,,,
+ENG,1924-12-26,,Nottingham Forest,Bolton Wanderers,1,1,D,,,
+ENG,1924-12-26,,Liverpool FC,Notts County,1,0,H,,,
+ENG,1924-12-26,,Cardiff City,West Ham United,2,1,H,,,
+ENG,1924-12-26,,Aston Villa,Leeds United,2,1,H,,,
+ENG,1924-12-26,,Arsenal FC,Birmingham FC,0,1,A,,,
+ENG,1924-12-26,,Newcastle United,Everton FC,1,1,D,,,
+ENG,1924-12-26,,Preston North End,Blackburn Rovers,3,2,H,,,
+ENG,1924-12-27,,Sunderland AFC,Leeds United,2,1,H,,,
+ENG,1924-12-27,,Preston North End,West Ham United,3,2,H,,,
+ENG,1924-12-27,,Notts County,West Bromwich Albion,0,2,A,,,
+ENG,1924-12-27,,Everton FC,Birmingham FC,2,1,H,,,
+ENG,1924-12-27,,Bolton Wanderers,Tottenham Hotspur,3,0,H,,,
+ENG,1924-12-27,,Blackburn Rovers,Sheffield United,2,2,D,,,
+ENG,1924-12-27,,Arsenal FC,Nottingham Forest,2,1,H,,,
+ENG,1924-12-27,,Huddersfield Town,Newcastle United,0,0,D,,,
+ENG,1925-01-01,,Bury FC,Tottenham Hotspur,5,2,H,,,
+ENG,1925-01-01,,Everton FC,Burnley FC,3,2,H,,,
+ENG,1925-01-01,,Sunderland AFC,Cardiff City,1,0,H,,,
+ENG,1925-01-01,,Bolton Wanderers,Birmingham FC,3,0,H,,,
+ENG,1925-01-01,,Newcastle United,Sheffield United,0,0,D,,,
+ENG,1925-01-03,,Burnley FC,Preston North End,1,0,H,,,
+ENG,1925-01-03,,Bury FC,Bolton Wanderers,1,0,H,,,
+ENG,1925-01-03,,Liverpool FC,Arsenal FC,2,1,H,,,
+ENG,1925-01-03,,Leeds United,Cardiff City,0,0,D,,,
+ENG,1925-01-03,,Nottingham Forest,Manchester City,0,3,A,,,
+ENG,1925-01-03,,West Bromwich Albion,Everton FC,3,0,H,,,
+ENG,1925-01-03,,West Ham United,Blackburn Rovers,2,0,H,,,
+ENG,1925-01-03,,Birmingham FC,Sunderland AFC,2,1,H,,,
+ENG,1925-01-03,,Sheffield United,Huddersfield Town,1,1,D,,,
+ENG,1925-01-03,,Tottenham Hotspur,Notts County,1,1,D,,,
+ENG,1925-01-03,,Newcastle United,Aston Villa,4,1,H,,,
+ENG,1925-01-17,,Blackburn Rovers,Burnley FC,0,3,A,,,
+ENG,1925-01-17,,Bury FC,Nottingham Forest,3,0,H,,,
+ENG,1925-01-17,,Manchester City,Liverpool FC,5,0,H,,,
+ENG,1925-01-17,,Sunderland AFC,West Bromwich Albion,3,0,H,,,
+ENG,1925-01-17,,Preston North End,Leeds United,1,4,A,,,
+ENG,1925-01-17,,Notts County,Bolton Wanderers,0,1,A,,,
+ENG,1925-01-17,,Huddersfield Town,West Ham United,1,2,A,,,
+ENG,1925-01-17,,Aston Villa,Sheffield United,1,1,D,,,
+ENG,1925-01-17,,Cardiff City,Birmingham FC,1,0,H,,,
+ENG,1925-01-17,,Everton FC,Tottenham Hotspur,1,0,H,,,
+ENG,1925-01-17,,Arsenal FC,Newcastle United,0,2,A,,,
+ENG,1925-01-21,,Aston Villa,Liverpool FC,1,4,A,,,
+ENG,1925-01-24,,Leeds United,Burnley FC,0,2,A,,,
+ENG,1925-01-24,,Liverpool FC,Bury FC,4,0,H,,,
+ENG,1925-01-24,,Bolton Wanderers,Everton FC,1,0,H,,,
+ENG,1925-01-24,,Nottingham Forest,Notts County,0,0,D,,,
+ENG,1925-01-24,,West Bromwich Albion,Cardiff City,1,0,H,,,
+ENG,1925-01-24,,West Ham United,Aston Villa,2,0,H,,,
+ENG,1925-01-24,,Birmingham FC,Preston North End,3,0,H,,,
+ENG,1925-01-24,,Blackburn Rovers,Huddersfield Town,2,3,A,,,
+ENG,1925-01-24,,Sheffield United,Arsenal FC,2,1,H,,,
+ENG,1925-01-24,,Tottenham Hotspur,Sunderland AFC,1,0,H,,,
+ENG,1925-01-24,,Newcastle United,Manchester City,2,0,H,,,
+ENG,1925-01-31,,Manchester City,Bury FC,0,0,D,,,
+ENG,1925-01-31,,Huddersfield Town,Leeds United,2,0,H,,,
+ENG,1925-02-02,,Burnley FC,Birmingham FC,3,2,H,,,
+ENG,1925-02-04,,Nottingham Forest,Liverpool FC,0,1,A,,,
+ENG,1925-02-07,,West Bromwich Albion,Burnley FC,1,4,A,,,
+ENG,1925-02-07,,Sheffield United,Bury FC,0,1,A,,,
+ENG,1925-02-07,,Notts County,Sunderland AFC,4,1,H,,,
+ENG,1925-02-07,,Huddersfield Town,Aston Villa,4,1,H,,,
+ENG,1925-02-07,,Bolton Wanderers,Cardiff City,3,0,H,,,
+ENG,1925-02-07,,Blackburn Rovers,Arsenal FC,1,0,H,,,
+ENG,1925-02-07,,West Ham United,Manchester City,4,0,H,,,
+ENG,1925-02-07,,Liverpool FC,Everton FC,3,1,H,,,
+ENG,1925-02-07,,Tottenham Hotspur,Preston North End,2,0,H,,,
+ENG,1925-02-07,,Birmingham FC,Leeds United,0,0,D,,,
+ENG,1925-02-07,,Newcastle United,Nottingham Forest,4,1,H,,,
+ENG,1925-02-11,,Bury FC,Newcastle United,0,0,D,,,
+ENG,1925-02-11,,Cardiff City,Burnley FC,4,0,H,,,
+ENG,1925-02-11,,Sunderland AFC,Bolton Wanderers,1,0,H,,,
+ENG,1925-02-12,,Preston North End,West Bromwich Albion,1,2,A,,,
+ENG,1925-02-14,,Arsenal FC,Huddersfield Town,0,5,A,,,
+ENG,1925-02-14,,Nottingham Forest,Sheffield United,2,3,A,,,
+ENG,1925-02-14,,Manchester City,Blackburn Rovers,1,3,A,,,
+ENG,1925-02-14,,Liverpool FC,Newcastle United,1,1,D,,,
+ENG,1925-02-14,,Leeds United,West Bromwich Albion,0,1,A,,,
+ENG,1925-02-14,,Cardiff City,Notts County,1,1,D,,,
+ENG,1925-02-14,,Bury FC,West Ham United,4,2,H,,,
+ENG,1925-02-14,,Burnley FC,Tottenham Hotspur,1,4,A,,,
+ENG,1925-02-14,,Preston North End,Bolton Wanderers,1,0,H,,,
+ENG,1925-02-14,,Aston Villa,Birmingham FC,1,0,H,,,
+ENG,1925-02-14,,Sunderland AFC,Everton FC,4,1,H,,,
+ENG,1925-02-21,,Bolton Wanderers,Burnley FC,5,0,H,,,
+ENG,1925-02-21,,Huddersfield Town,Manchester City,1,1,D,,,
+ENG,1925-02-21,,Newcastle United,Sunderland AFC,2,0,H,,,
+ENG,1925-02-23,,Manchester City,Sheffield United,2,1,H,,,
+ENG,1925-02-25,,Everton FC,Cardiff City,1,2,A,,,
+ENG,1925-02-28,,West Bromwich Albion,Aston Villa,4,1,H,,,
+ENG,1925-02-28,,Tottenham Hotspur,Arsenal FC,2,0,H,,,
+ENG,1925-02-28,,Sunderland AFC,Liverpool FC,3,0,H,,,
+ENG,1925-02-28,,Notts County,Bury FC,1,1,D,,,
+ENG,1925-02-28,,Leeds United,Blackburn Rovers,1,1,D,,,
+ENG,1925-02-28,,Everton FC,Nottingham Forest,3,1,H,,,
+ENG,1925-02-28,,Birmingham FC,Huddersfield Town,0,1,A,,,
+ENG,1925-02-28,,Bolton Wanderers,Manchester City,4,2,H,,,
+ENG,1925-02-28,,Burnley FC,West Ham United,5,4,H,,,
+ENG,1925-02-28,,Preston North End,Sheffield United,0,1,A,,,
+ENG,1925-02-28,,Cardiff City,Newcastle United,3,0,H,,,
+ENG,1925-03-07,,Arsenal FC,Bolton Wanderers,1,0,H,,,
+ENG,1925-03-07,,Manchester City,Notts County,2,1,H,,,
+ENG,1925-03-07,,West Ham United,Leeds United,0,0,D,,,
+ENG,1925-03-07,,Nottingham Forest,Sunderland AFC,1,1,D,,,
+ENG,1925-03-07,,Bury FC,Everton FC,1,0,H,,,
+ENG,1925-03-07,,Aston Villa,Tottenham Hotspur,0,1,A,,,
+ENG,1925-03-07,,Newcastle United,Preston North End,3,1,H,,,
+ENG,1925-03-09,,Tottenham Hotspur,Leeds United,2,1,H,,,
+ENG,1925-03-11,,Huddersfield Town,West Bromwich Albion,1,1,D,,,
+ENG,1925-03-14,,Bolton Wanderers,Aston Villa,4,0,H,,,
+ENG,1925-03-14,,Notts County,Arsenal FC,2,1,H,,,
+ENG,1925-03-14,,Preston North End,Liverpool FC,4,0,H,,,
+ENG,1925-03-14,,West Bromwich Albion,Blackburn Rovers,1,1,D,,,
+ENG,1925-03-14,,Sunderland AFC,Bury FC,1,1,D,,,
+ENG,1925-03-14,,Cardiff City,Nottingham Forest,2,0,H,,,
+ENG,1925-03-14,,Burnley FC,Newcastle United,1,3,A,,,
+ENG,1925-03-14,,Birmingham FC,West Ham United,1,1,D,,,
+ENG,1925-03-14,,Leeds United,Sheffield United,1,1,D,,,
+ENG,1925-03-14,,Tottenham Hotspur,Huddersfield Town,1,2,A,,,
+ENG,1925-03-16,,Sheffield United,Liverpool FC,0,1,A,,,
+ENG,1925-03-16,,Birmingham FC,West Bromwich Albion,0,0,D,,,
+ENG,1925-03-18,,Everton FC,Notts County,1,0,H,,,
+ENG,1925-03-18,,Cardiff City,Tottenham Hotspur,0,2,A,,,
+ENG,1925-03-19,,Blackburn Rovers,Bury FC,0,1,A,,,
+ENG,1925-03-21,,Arsenal FC,Everton FC,3,1,H,,,
+ENG,1925-03-21,,Aston Villa,Notts County,0,0,D,,,
+ENG,1925-03-21,,Liverpool FC,Burnley FC,3,0,H,,,
+ENG,1925-03-21,,Nottingham Forest,Preston North End,0,1,A,,,
+ENG,1925-03-21,,West Ham United,West Bromwich Albion,2,1,H,,,
+ENG,1925-03-21,,Sheffield United,Birmingham FC,4,3,H,,,
+ENG,1925-03-21,,Newcastle United,Leeds United,4,1,H,,,
+ENG,1925-03-21,,Huddersfield Town,Bolton Wanderers,0,0,D,,,
+ENG,1925-03-21,,Bury FC,Cardiff City,4,1,H,,,
+ENG,1925-03-21,,Blackburn Rovers,Tottenham Hotspur,1,1,D,,,
+ENG,1925-03-21,,Manchester City,Sunderland AFC,1,3,A,,,
+ENG,1925-03-23,,Arsenal FC,West Ham United,1,2,A,,,
+ENG,1925-03-28,,Everton FC,Aston Villa,2,0,H,,,
+ENG,1925-03-28,,Burnley FC,Nottingham Forest,0,0,D,,,
+ENG,1925-03-28,,Sunderland AFC,Arsenal FC,2,0,H,,,
+ENG,1925-03-28,,Birmingham FC,Newcastle United,1,1,D,,,
+ENG,1925-03-28,,Leeds United,Liverpool FC,4,1,H,,,
+ENG,1925-03-28,,Preston North End,Bury FC,1,1,D,,,
+ENG,1925-03-28,,Tottenham Hotspur,West Ham United,1,1,D,,,
+ENG,1925-03-30,,West Bromwich Albion,Sheffield United,2,1,H,,,
+ENG,1925-04-01,,Notts County,Preston North End,1,0,H,,,
+ENG,1925-04-01,,Cardiff City,Manchester City,0,2,A,,,
+ENG,1925-04-01,,Aston Villa,Arsenal FC,4,0,H,,,
+ENG,1925-04-02,,West Ham United,Nottingham Forest,0,0,D,,,
+ENG,1925-04-02,,Blackburn Rovers,Birmingham FC,7,1,H,,,
+ENG,1925-04-04,,Aston Villa,Sunderland AFC,1,4,A,,,
+ENG,1925-04-04,,Blackburn Rovers,Notts County,0,2,A,,,
+ENG,1925-04-04,,Bury FC,Burnley FC,1,0,H,,,
+ENG,1925-04-04,,Huddersfield Town,Everton FC,2,0,H,,,
+ENG,1925-04-04,,West Ham United,Bolton Wanderers,1,1,D,,,
+ENG,1925-04-04,,Sheffield United,Tottenham Hotspur,2,0,H,,,
+ENG,1925-04-04,,Nottingham Forest,Leeds United,4,0,H,,,
+ENG,1925-04-04,,Manchester City,Preston North End,2,1,H,,,
+ENG,1925-04-04,,Arsenal FC,Cardiff City,1,1,D,,,
+ENG,1925-04-04,,Liverpool FC,Birmingham FC,1,1,D,,,
+ENG,1925-04-04,,Newcastle United,West Bromwich Albion,0,1,A,,,
+ENG,1925-04-06,,Sheffield United,Burnley FC,4,0,H,,,
+ENG,1925-04-10,,Aston Villa,Manchester City,2,1,H,,,
+ENG,1925-04-10,,Liverpool FC,West Ham United,2,0,H,,,
+ENG,1925-04-10,,Preston North End,Everton FC,1,1,D,,,
+ENG,1925-04-10,,Nottingham Forest,Blackburn Rovers,0,2,A,,,
+ENG,1925-04-10,,Bury FC,Huddersfield Town,0,1,A,,,
+ENG,1925-04-10,,Burnley FC,Notts County,1,1,D,,,
+ENG,1925-04-10,,Bolton Wanderers,Leeds United,1,0,H,,,
+ENG,1925-04-10,,Tottenham Hotspur,Birmingham FC,0,1,A,,,
+ENG,1925-04-11,,Cardiff City,Aston Villa,2,1,H,,,
+ENG,1925-04-11,,Everton FC,Blackburn Rovers,1,0,H,,,
+ENG,1925-04-11,,Preston North End,Arsenal FC,2,0,H,,,
+ENG,1925-04-11,,Sunderland AFC,Huddersfield Town,1,1,D,,,
+ENG,1925-04-11,,West Bromwich Albion,Liverpool FC,0,0,D,,,
+ENG,1925-04-11,,Notts County,West Ham United,4,1,H,,,
+ENG,1925-04-11,,Leeds United,Bury FC,1,0,H,,,
+ENG,1925-04-11,,Burnley FC,Manchester City,1,0,H,,,
+ENG,1925-04-11,,Bolton Wanderers,Sheffield United,3,1,H,,,
+ENG,1925-04-11,,Birmingham FC,Nottingham Forest,1,1,D,,,
+ENG,1925-04-11,,Tottenham Hotspur,Newcastle United,3,0,H,,,
+ENG,1925-04-13,,Cardiff City,Sunderland AFC,2,0,H,,,
+ENG,1925-04-13,,Manchester City,Aston Villa,1,0,H,,,
+ENG,1925-04-13,,West Bromwich Albion,Arsenal FC,2,0,H,,,
+ENG,1925-04-13,,West Ham United,Liverpool FC,0,1,A,,,
+ENG,1925-04-13,,Blackburn Rovers,Nottingham Forest,0,0,D,,,
+ENG,1925-04-13,,Everton FC,Preston North End,0,0,D,,,
+ENG,1925-04-13,,Notts County,Burnley FC,2,0,H,,,
+ENG,1925-04-13,,Sheffield United,Newcastle United,1,2,A,,,
+ENG,1925-04-14,,Leeds United,Bolton Wanderers,2,1,H,,,
+ENG,1925-04-14,,Huddersfield Town,Bury FC,2,0,H,,,
+ENG,1925-04-14,,Arsenal FC,West Bromwich Albion,2,0,H,,,
+ENG,1925-04-14,,West Ham United,Sheffield United,6,2,H,,,
+ENG,1925-04-15,,Cardiff City,Blackburn Rovers,3,0,H,,,
+ENG,1925-04-18,,Aston Villa,Preston North End,1,0,H,,,
+ENG,1925-04-18,,Liverpool FC,Tottenham Hotspur,1,0,H,,,
+ENG,1925-04-18,,Nottingham Forest,West Bromwich Albion,0,1,A,,,
+ENG,1925-04-18,,Manchester City,Leeds United,4,2,H,,,
+ENG,1925-04-18,,Huddersfield Town,Cardiff City,0,0,D,,,
+ENG,1925-04-18,,Bury FC,Birmingham FC,1,4,A,,,
+ENG,1925-04-18,,Blackburn Rovers,Sunderland AFC,1,1,D,,,
+ENG,1925-04-18,,Arsenal FC,Burnley FC,5,0,H,,,
+ENG,1925-04-18,,Newcastle United,Bolton Wanderers,0,1,A,,,
+ENG,1925-04-18,,Sheffield United,Notts County,2,0,H,,,
+ENG,1925-04-18,,West Ham United,Everton FC,4,1,H,,,
+ENG,1925-04-22,,Bolton Wanderers,Blackburn Rovers,6,0,H,,,
+ENG,1925-04-25,,Bolton Wanderers,Liverpool FC,2,0,H,,,
+ENG,1925-04-25,,Preston North End,Huddersfield Town,1,4,A,,,
+ENG,1925-04-25,,West Bromwich Albion,Bury FC,1,1,D,,,
+ENG,1925-04-25,,Tottenham Hotspur,Nottingham Forest,1,0,H,,,
+ENG,1925-04-25,,Leeds United,Arsenal FC,1,0,H,,,
+ENG,1925-04-25,,Burnley FC,Aston Villa,1,1,D,,,
+ENG,1925-04-25,,Birmingham FC,Manchester City,2,1,H,,,
+ENG,1925-04-25,,Notts County,Newcastle United,2,0,H,,,
+ENG,1925-04-25,,Sunderland AFC,West Ham United,1,1,D,,,
+ENG,1925-04-27,,Everton FC,Sheffield United,1,1,D,,,
+ENG,1925-04-29,,Aston Villa,Blackburn Rovers,4,3,H,,,
+ENG,1925-04-29,,Liverpool FC,Cardiff City,1,2,A,,,
+ENG,1925-04-29,,Notts County,Huddersfield Town,1,1,D,,,
+ENG,1925-05-02,,Sunderland AFC,Burnley FC,1,1,D,,,
+ENG,1925-05-02,,Notts County,Birmingham FC,0,1,A,,,
+ENG,1925-05-02,,Manchester City,Tottenham Hotspur,1,0,H,,,
+ENG,1925-05-02,,Huddersfield Town,Liverpool FC,1,1,D,,,
+ENG,1925-05-02,,Everton FC,Leeds United,1,0,H,,,
+ENG,1925-05-02,,Cardiff City,Preston North End,0,0,D,,,
+ENG,1925-05-02,,Bury FC,Arsenal FC,2,0,H,,,
+ENG,1925-05-02,,Aston Villa,Nottingham Forest,2,0,H,,,
+ENG,1925-05-02,,West Bromwich Albion,Bolton Wanderers,0,0,D,,,

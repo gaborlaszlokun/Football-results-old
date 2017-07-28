@@ -1,57 +1,57 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-BHR,14/10/2010,17:00,Al Ahli,Al Hidd,2,1,H,NaN,NaN,NaN
-BHR,16/10/2010,14:40,Manama Club,Al Najma,3,0,H,NaN,NaN,NaN
-BHR,28/01/2011,15:10,Riffa SC,Al Hala,2,0,H,NaN,NaN,NaN
-BHR,19/10/2010,18:05,Al Hala,Al Muharraq,1,1,D,NaN,NaN,NaN
-BHR,20/10/2010,18:00,Busaiteen,Al Najma,1,1,D,NaN,NaN,NaN
-BHR,21/10/2010,16:05,Manama Club,Al Hidd,2,2,D,NaN,NaN,NaN
-BHR,24/10/2010,16:00,Al Ahli,Al Hala,1,1,D,NaN,NaN,NaN
-BHR,25/10/2010,16:00,Riffa SC,Manama Club,2,3,A,NaN,NaN,NaN
-BHR,26/10/2010,16:00,Al Hidd,Busaiteen,3,3,D,NaN,NaN,NaN
-BHR,29/10/2010,17:35,Manama Club,Al Muharraq,1,1,D,NaN,NaN,NaN
-BHR,28/01/2011,17:25,Al Najma,Al Hidd,1,1,D,NaN,NaN,NaN
-BHR,16/02/2011,15:05,Busaiteen,Riffa SC,2,2,D,NaN,NaN,NaN
-BHR,02/02/2011,15:00,Al Najma,Al Hala,1,1,D,NaN,NaN,NaN
-BHR,02/02/2011,17:10,Riffa SC,Al Hidd,2,1,H,NaN,NaN,NaN
-BHR,03/02/2011,15:00,Al Ahli,Manama Club,3,0,H,NaN,NaN,NaN
-BHR,03/02/2011,17:05,Al Muharraq,Busaiteen,2,0,H,NaN,NaN,NaN
-BHR,11/02/2011,13:55,Al Muharraq,Al Najma,2,1,H,NaN,NaN,NaN
-BHR,11/02/2011,16:00,Al Ahli,Busaiteen,1,2,A,NaN,NaN,NaN
-BHR,13/02/2011,17:00,Al Hala,Al Hidd,1,1,D,NaN,NaN,NaN
-BHR,16/02/2011,17:10,Al Najma,Al Ahli,2,2,D,NaN,NaN,NaN
-BHR,17/02/2011,15:00,Al Hala,Manama Club,0,3,A,NaN,NaN,NaN
-BHR,20/02/2011,15:00,Riffa SC,Al Muharraq,0,1,A,NaN,NaN,NaN
-BHR,09/04/2011,15:10,Al Hidd,Al Muharraq,3,1,H,NaN,NaN,NaN
-BHR,10/04/2011,16:35,Al Ahli,Riffa SC,0,1,A,NaN,NaN,NaN
-BHR,13/04/2011,16:30,Busaiteen,Al Hala,4,1,H,NaN,NaN,NaN
-BHR,08/04/2011,14:10,Busaiteen,Manama Club,1,1,D,NaN,NaN,NaN
-BHR,14/04/2011,,Riffa SC,Al Najma,3,0,H,NaN,NaN,NaN
-BHR,14/04/2011,18:30,Al Muharraq,Al Ahli,3,4,A,NaN,NaN,NaN
-BHR,19/04/2011,16:30,Al Najma,Manama Club,1,2,A,NaN,NaN,NaN
-BHR,20/04/2011,16:30,Al Hidd,Al Ahli,2,1,H,NaN,NaN,NaN
-BHR,22/04/2011,16:30,Al Hala,Riffa SC,1,3,A,NaN,NaN,NaN
-BHR,24/04/2011,16:30,Al Hidd,Manama Club,3,2,H,NaN,NaN,NaN
-BHR,26/04/2011,18:35,Al Muharraq,Al Hala,3,1,H,NaN,NaN,NaN
-BHR,19/05/2011,16:45,Al Najma,Busaiteen,4,0,H,NaN,NaN,NaN
-BHR,30/04/2011,16:30,Al Hala,Al Ahli,1,4,A,NaN,NaN,NaN
-BHR,27/05/2011,17:00,Busaiteen,Al Hidd,0,2,A,NaN,NaN,NaN
-BHR,29/05/2011,17:00,Manama Club,Riffa SC,2,4,A,NaN,NaN,NaN
-BHR,06/05/2011,17:30,Riffa SC,Busaiteen,1,1,D,NaN,NaN,NaN
-BHR,07/05/2011,15:40,Al Muharraq,Manama Club,2,1,H,NaN,NaN,NaN
-BHR,14/05/2011,16:30,Al Najma,Al Hidd,1,2,A,NaN,NaN,NaN
-BHR,21/04/2011,16:30,Busaiteen,Al Muharraq,0,0,D,NaN,NaN,NaN
-BHR,02/05/2011,16:30,Al Hidd,Riffa SC,1,5,A,NaN,NaN,NaN
-BHR,13/05/2011,16:30,Manama Club,Al Ahli,0,2,A,NaN,NaN,NaN
-BHR,24/05/2011,,Al Hala,Al Najma,1,0,H,NaN,NaN,NaN
-BHR,26/04/2011,16:30,Busaiteen,Al Ahli,2,3,A,NaN,NaN,NaN
-BHR,03/05/2011,16:40,Al Najma,Al Muharraq,0,2,A,NaN,NaN,NaN
-BHR,06/05/2011,15:30,Al Hidd,Al Hala,2,2,D,NaN,NaN,NaN
-BHR,07/05/2011,17:45,Al Ahli,Al Najma,3,1,H,NaN,NaN,NaN
-BHR,14/05/2011,16:30,Al Muharraq,Riffa SC,1,1,D,NaN,NaN,NaN
-BHR,18/05/2011,16:45,Manama Club,Al Hala,1,1,D,NaN,NaN,NaN
-BHR,13/05/2011,17:40,Al Hala,Busaiteen,2,2,D,NaN,NaN,NaN
-BHR,20/05/2011,15:35,Al Muharraq,Al Hidd,5,0,H,NaN,NaN,NaN
-BHR,20/05/2011,18:35,Riffa SC,Al Ahli,3,3,D,NaN,NaN,NaN
-BHR,27/04/2011,16:30,Al Najma,Riffa SC,2,2,D,NaN,NaN,NaN
-BHR,01/05/2011,16:30,Manama Club,Busaiteen,1,0,H,NaN,NaN,NaN
-BHR,29/05/2011,17:00,Al Ahli,Al Muharraq,1,2,A,NaN,NaN,NaN
+BHR,2010-10-14,17:00,Al Ahli,Al Hidd,2,1,H,,,
+BHR,2010-10-16,14:40,Manama Club,Al Najma,3,0,H,,,
+BHR,2010-10-19,18:05,Al Hala,Al Muharraq,1,1,D,,,
+BHR,2010-10-20,18:00,Busaiteen,Al Najma,1,1,D,,,
+BHR,2010-10-21,16:05,Manama Club,Al Hidd,2,2,D,,,
+BHR,2010-10-24,16:00,Al Ahli,Al Hala,1,1,D,,,
+BHR,2010-10-25,16:00,Riffa SC,Manama Club,2,3,A,,,
+BHR,2010-10-26,16:00,Al Hidd,Busaiteen,3,3,D,,,
+BHR,2010-10-29,17:35,Manama Club,Al Muharraq,1,1,D,,,
+BHR,2011-01-28,15:10,Riffa SC,Al Hala,2,0,H,,,
+BHR,2011-01-28,17:25,Al Najma,Al Hidd,1,1,D,,,
+BHR,2011-02-02,15:00,Al Najma,Al Hala,1,1,D,,,
+BHR,2011-02-02,17:10,Riffa SC,Al Hidd,2,1,H,,,
+BHR,2011-02-03,15:00,Al Ahli,Manama Club,3,0,H,,,
+BHR,2011-02-03,17:05,Al Muharraq,Busaiteen,2,0,H,,,
+BHR,2011-02-11,13:55,Al Muharraq,Al Najma,2,1,H,,,
+BHR,2011-02-11,16:00,Al Ahli,Busaiteen,1,2,A,,,
+BHR,2011-02-13,17:00,Al Hala,Al Hidd,1,1,D,,,
+BHR,2011-02-16,15:05,Busaiteen,Riffa SC,2,2,D,,,
+BHR,2011-02-16,17:10,Al Najma,Al Ahli,2,2,D,,,
+BHR,2011-02-17,15:00,Al Hala,Manama Club,0,3,A,,,
+BHR,2011-02-20,15:00,Riffa SC,Al Muharraq,0,1,A,,,
+BHR,2011-04-08,14:10,Busaiteen,Manama Club,1,1,D,,,
+BHR,2011-04-09,15:10,Al Hidd,Al Muharraq,3,1,H,,,
+BHR,2011-04-10,16:35,Al Ahli,Riffa SC,0,1,A,,,
+BHR,2011-04-13,16:30,Busaiteen,Al Hala,4,1,H,,,
+BHR,2011-04-14,18:30,Al Muharraq,Al Ahli,3,4,A,,,
+BHR,2011-04-14,,Riffa SC,Al Najma,3,0,H,,,
+BHR,2011-04-19,16:30,Al Najma,Manama Club,1,2,A,,,
+BHR,2011-04-20,16:30,Al Hidd,Al Ahli,2,1,H,,,
+BHR,2011-04-21,16:30,Busaiteen,Al Muharraq,0,0,D,,,
+BHR,2011-04-22,16:30,Al Hala,Riffa SC,1,3,A,,,
+BHR,2011-04-24,16:30,Al Hidd,Manama Club,3,2,H,,,
+BHR,2011-04-26,16:30,Busaiteen,Al Ahli,2,3,A,,,
+BHR,2011-04-26,18:35,Al Muharraq,Al Hala,3,1,H,,,
+BHR,2011-04-27,16:30,Al Najma,Riffa SC,2,2,D,,,
+BHR,2011-04-30,16:30,Al Hala,Al Ahli,1,4,A,,,
+BHR,2011-05-01,16:30,Manama Club,Busaiteen,1,0,H,,,
+BHR,2011-05-02,16:30,Al Hidd,Riffa SC,1,5,A,,,
+BHR,2011-05-03,16:40,Al Najma,Al Muharraq,0,2,A,,,
+BHR,2011-05-06,15:30,Al Hidd,Al Hala,2,2,D,,,
+BHR,2011-05-06,17:30,Riffa SC,Busaiteen,1,1,D,,,
+BHR,2011-05-07,15:40,Al Muharraq,Manama Club,2,1,H,,,
+BHR,2011-05-07,17:45,Al Ahli,Al Najma,3,1,H,,,
+BHR,2011-05-13,16:30,Manama Club,Al Ahli,0,2,A,,,
+BHR,2011-05-13,17:40,Al Hala,Busaiteen,2,2,D,,,
+BHR,2011-05-14,16:30,Al Najma,Al Hidd,1,2,A,,,
+BHR,2011-05-14,16:30,Al Muharraq,Riffa SC,1,1,D,,,
+BHR,2011-05-18,16:45,Manama Club,Al Hala,1,1,D,,,
+BHR,2011-05-19,16:45,Al Najma,Busaiteen,4,0,H,,,
+BHR,2011-05-20,15:35,Al Muharraq,Al Hidd,5,0,H,,,
+BHR,2011-05-20,18:35,Riffa SC,Al Ahli,3,3,D,,,
+BHR,2011-05-24,,Al Hala,Al Najma,1,0,H,,,
+BHR,2011-05-27,17:00,Busaiteen,Al Hidd,0,2,A,,,
+BHR,2011-05-29,17:00,Manama Club,Riffa SC,2,4,A,,,
+BHR,2011-05-29,17:00,Al Ahli,Al Muharraq,1,2,A,,,

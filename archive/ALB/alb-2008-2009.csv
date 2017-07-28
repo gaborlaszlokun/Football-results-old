@@ -1,199 +1,199 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ALB,24/08/2008,16:00,FK Dinamo Tirana,KF Teuta Durrës,0,0,D,NaN,NaN,NaN
-ALB,24/08/2008,16:00,KF Elbasani,KF Apolonia Fier,0,0,D,NaN,NaN,NaN
-ALB,24/08/2008,16:00,KF Lushnja,FK Partizani,0,1,A,NaN,NaN,NaN
-ALB,24/08/2008,16:00,KS Shkumbini,KF Bylis Ballsh,4,1,H,NaN,NaN,NaN
-ALB,24/08/2008,16:00,KS Besa,KS Flamurtari Vlorë,0,1,A,NaN,NaN,NaN
-ALB,24/08/2008,18:00,FK Vllaznia,KF Tiranë,0,0,D,NaN,NaN,NaN
-ALB,30/08/2008,14:00,FK Dinamo Tirana,KS Shkumbini,3,1,H,NaN,NaN,NaN
-ALB,30/08/2008,14:00,KF Teuta Durrës,KF Tiranë,0,1,A,NaN,NaN,NaN
-ALB,30/08/2008,14:00,KF Bylis Ballsh,KS Besa,2,3,A,NaN,NaN,NaN
-ALB,31/08/2008,16:00,KF Apolonia Fier,KF Lushnja,2,0,H,NaN,NaN,NaN
-ALB,31/08/2008,16:00,KS Flamurtari Vlorë,KF Elbasani,0,1,A,NaN,NaN,NaN
-ALB,31/08/2008,16:00,FK Partizani,FK Vllaznia,1,2,A,NaN,NaN,NaN
-ALB,14/09/2008,15:30,KF Tiranë,FK Partizani,2,1,H,NaN,NaN,NaN
-ALB,14/09/2008,15:30,KS Besa,FK Dinamo Tirana,0,0,D,NaN,NaN,NaN
-ALB,14/09/2008,15:30,KF Elbasani,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,14/09/2008,15:30,KS Shkumbini,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
-ALB,14/09/2008,15:30,KF Lushnja,KS Flamurtari Vlorë,2,1,H,NaN,NaN,NaN
-ALB,14/09/2008,17:30,FK Vllaznia,KF Apolonia Fier,3,1,H,NaN,NaN,NaN
-ALB,20/09/2008,15:00,KS Flamurtari Vlorë,FK Vllaznia,1,0,H,NaN,NaN,NaN
-ALB,20/09/2008,15:00,KS Shkumbini,KS Besa,1,0,H,NaN,NaN,NaN
-ALB,20/09/2008,15:00,KF Apolonia Fier,KF Tiranë,0,2,A,NaN,NaN,NaN
-ALB,21/09/2008,15:00,FK Dinamo Tirana,KF Elbasani,0,0,D,NaN,NaN,NaN
-ALB,21/09/2008,15:00,KF Bylis Ballsh,KF Lushnja,1,0,H,NaN,NaN,NaN
-ALB,21/09/2008,15:00,KF Teuta Durrës,FK Partizani,0,0,D,NaN,NaN,NaN
-ALB,26/09/2008,15:00,FK Vllaznia,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,27/09/2008,15:00,KS Besa,KF Teuta Durrës,1,1,D,NaN,NaN,NaN
-ALB,27/09/2008,15:00,KF Lushnja,FK Dinamo Tirana,1,2,A,NaN,NaN,NaN
-ALB,27/09/2008,15:00,KF Tiranë,KS Flamurtari Vlorë,3,1,H,NaN,NaN,NaN
-ALB,28/09/2008,15:00,FK Partizani,KF Apolonia Fier,0,1,A,NaN,NaN,NaN
-ALB,28/09/2008,15:00,KF Elbasani,KS Shkumbini,1,1,D,NaN,NaN,NaN
-ALB,03/10/2008,14:00,KF Teuta Durrës,KF Apolonia Fier,2,1,H,NaN,NaN,NaN
-ALB,04/10/2008,14:00,KF Bylis Ballsh,KF Tiranë,0,0,D,NaN,NaN,NaN
-ALB,04/10/2008,14:00,KS Besa,KF Elbasani,1,0,H,NaN,NaN,NaN
-ALB,04/10/2008,14:00,KS Flamurtari Vlorë,FK Partizani,1,0,H,NaN,NaN,NaN
-ALB,04/10/2008,14:00,FK Dinamo Tirana,FK Vllaznia,1,1,D,NaN,NaN,NaN
-ALB,04/10/2008,14:00,KS Shkumbini,KF Lushnja,1,2,A,NaN,NaN,NaN
-ALB,19/10/2008,13:30,FK Vllaznia,KS Shkumbini,2,2,D,NaN,NaN,NaN
-ALB,19/10/2008,13:30,KF Apolonia Fier,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,19/10/2008,13:30,KF Lushnja,KS Besa,0,1,A,NaN,NaN,NaN
-ALB,19/10/2008,13:30,FK Partizani,KF Bylis Ballsh,1,1,D,NaN,NaN,NaN
-ALB,19/10/2008,13:30,KF Tiranë,FK Dinamo Tirana,2,1,H,NaN,NaN,NaN
-ALB,19/10/2008,17:00,KF Elbasani,KF Teuta Durrës,0,1,A,NaN,NaN,NaN
-ALB,25/10/2008,13:00,FK Dinamo Tirana,FK Partizani,2,0,H,NaN,NaN,NaN
-ALB,25/10/2008,13:00,KF Teuta Durrës,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
-ALB,25/10/2008,13:00,KF Elbasani,KF Lushnja,2,0,H,NaN,NaN,NaN
-ALB,25/10/2008,13:00,KS Shkumbini,KF Tiranë,0,0,D,NaN,NaN,NaN
-ALB,26/10/2008,13:00,KF Bylis Ballsh,KF Apolonia Fier,1,0,H,NaN,NaN,NaN
-ALB,26/10/2008,13:00,KS Besa,FK Vllaznia,1,0,H,NaN,NaN,NaN
-ALB,01/11/2008,13:00,KF Apolonia Fier,FK Dinamo Tirana,0,2,A,NaN,NaN,NaN
-ALB,01/11/2008,13:00,KS Flamurtari Vlorë,KF Bylis Ballsh,0,0,D,NaN,NaN,NaN
-ALB,01/11/2008,13:00,FK Partizani,KS Shkumbini,0,2,A,NaN,NaN,NaN
-ALB,01/11/2008,13:00,FK Vllaznia,KF Elbasani,2,0,H,NaN,NaN,NaN
-ALB,02/11/2008,13:00,KF Lushnja,KF Teuta Durrës,1,1,D,NaN,NaN,NaN
-ALB,02/11/2008,16:00,KF Tiranë,KS Besa,1,1,D,NaN,NaN,NaN
-ALB,07/11/2008,13:00,KS Besa,FK Partizani,0,0,D,NaN,NaN,NaN
-ALB,08/11/2008,13:00,KF Lushnja,FK Vllaznia,1,4,A,NaN,NaN,NaN
-ALB,08/11/2008,13:00,KS Shkumbini,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
-ALB,08/11/2008,13:00,KF Teuta Durrës,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,09/11/2008,13:00,FK Dinamo Tirana,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,09/11/2008,13:00,KF Elbasani,KF Tiranë,1,0,H,NaN,NaN,NaN
-ALB,15/11/2008,13:00,KF Bylis Ballsh,FK Dinamo Tirana,1,0,H,NaN,NaN,NaN
-ALB,15/11/2008,13:00,FK Vllaznia,KF Teuta Durrës,2,1,H,NaN,NaN,NaN
-ALB,15/11/2008,13:00,KF Apolonia Fier,KS Besa,3,1,H,NaN,NaN,NaN
-ALB,15/11/2008,13:00,KS Flamurtari Vlorë,KS Shkumbini,0,0,D,NaN,NaN,NaN
-ALB,15/11/2008,13:00,KF Tiranë,KF Lushnja,1,0,H,NaN,NaN,NaN
-ALB,15/11/2008,13:00,FK Partizani,KF Elbasani,2,2,D,NaN,NaN,NaN
-ALB,23/11/2008,13:00,KF Apolonia Fier,KF Elbasani,2,2,D,NaN,NaN,NaN
-ALB,23/11/2008,13:00,KF Tiranë,FK Vllaznia,1,1,D,NaN,NaN,NaN
-ALB,23/11/2008,13:00,KF Teuta Durrës,FK Dinamo Tirana,0,0,D,NaN,NaN,NaN
-ALB,23/11/2008,13:00,FK Partizani,KF Lushnja,0,0,D,NaN,NaN,NaN
-ALB,23/11/2008,13:00,KF Bylis Ballsh,KS Shkumbini,2,1,H,NaN,NaN,NaN
-ALB,23/11/2008,13:00,KS Flamurtari Vlorë,KS Besa,2,0,H,NaN,NaN,NaN
-ALB,29/11/2008,13:00,KF Lushnja,KF Apolonia Fier,3,1,H,NaN,NaN,NaN
-ALB,29/11/2008,13:00,KF Elbasani,KS Flamurtari Vlorë,0,0,D,NaN,NaN,NaN
-ALB,29/11/2008,13:00,KF Tiranë,KF Teuta Durrës,1,2,A,NaN,NaN,NaN
-ALB,29/11/2008,13:00,FK Vllaznia,FK Partizani,2,1,H,NaN,NaN,NaN
-ALB,30/11/2008,13:00,KS Shkumbini,FK Dinamo Tirana,0,0,D,NaN,NaN,NaN
-ALB,30/11/2008,13:00,KS Besa,KF Bylis Ballsh,3,0,H,NaN,NaN,NaN
-ALB,06/12/2008,13:00,KS Flamurtari Vlorë,KF Lushnja,2,0,H,NaN,NaN,NaN
-ALB,06/12/2008,13:00,KF Teuta Durrës,KS Shkumbini,2,0,H,NaN,NaN,NaN
-ALB,06/12/2008,13:00,KF Apolonia Fier,FK Vllaznia,1,2,A,NaN,NaN,NaN
-ALB,06/12/2008,13:00,FK Dinamo Tirana,KS Besa,4,2,H,NaN,NaN,NaN
-ALB,06/12/2008,13:00,KF Bylis Ballsh,KF Elbasani,1,1,D,NaN,NaN,NaN
-ALB,07/12/2008,13:00,FK Partizani,KF Tiranë,2,2,D,NaN,NaN,NaN
-ALB,13/12/2008,13:00,KF Tiranë,KF Apolonia Fier,3,0,H,NaN,NaN,NaN
-ALB,13/12/2008,13:00,KF Elbasani,FK Dinamo Tirana,2,2,D,NaN,NaN,NaN
-ALB,13/12/2008,13:00,KS Besa,KS Shkumbini,2,0,H,NaN,NaN,NaN
-ALB,13/12/2008,13:00,FK Vllaznia,KS Flamurtari Vlorë,1,0,H,NaN,NaN,NaN
-ALB,13/12/2008,13:00,KF Lushnja,KF Bylis Ballsh,1,1,D,NaN,NaN,NaN
-ALB,13/12/2008,13:00,FK Partizani,KF Teuta Durrës,0,0,D,NaN,NaN,NaN
-ALB,20/12/2008,12:30,KF Teuta Durrës,KS Besa,0,1,A,NaN,NaN,NaN
-ALB,20/12/2008,12:30,KF Apolonia Fier,FK Partizani,3,1,H,NaN,NaN,NaN
-ALB,21/12/2008,12:30,KF Bylis Ballsh,FK Vllaznia,1,2,A,NaN,NaN,NaN
-ALB,21/12/2008,12:30,FK Dinamo Tirana,KF Lushnja,1,0,H,NaN,NaN,NaN
-ALB,21/12/2008,12:30,KS Flamurtari Vlorë,KF Tiranë,2,0,H,NaN,NaN,NaN
-ALB,21/12/2008,12:30,KS Shkumbini,KF Elbasani,2,1,H,NaN,NaN,NaN
-ALB,26/12/2008,12:30,KF Lushnja,KS Shkumbini,1,1,D,NaN,NaN,NaN
-ALB,27/12/2008,12:30,KF Tiranë,KF Bylis Ballsh,6,2,H,NaN,NaN,NaN
-ALB,27/12/2008,12:30,KF Apolonia Fier,KF Teuta Durrës,1,0,H,NaN,NaN,NaN
-ALB,27/12/2008,12:30,FK Partizani,KS Flamurtari Vlorë,2,0,H,NaN,NaN,NaN
-ALB,27/12/2008,12:30,KF Elbasani,KS Besa,0,1,A,NaN,NaN,NaN
-ALB,27/12/2008,14:00,FK Vllaznia,FK Dinamo Tirana,0,1,A,NaN,NaN,NaN
-ALB,31/01/2009,13:00,KF Teuta Durrës,KF Elbasani,1,2,A,NaN,NaN,NaN
-ALB,31/01/2009,13:00,KF Bylis Ballsh,FK Partizani,0,1,A,NaN,NaN,NaN
-ALB,31/01/2009,13:00,KS Besa,KF Lushnja,0,0,D,NaN,NaN,NaN
-ALB,31/01/2009,13:00,KS Flamurtari Vlorë,KF Apolonia Fier,0,2,A,NaN,NaN,NaN
-ALB,31/01/2009,13:00,KS Shkumbini,FK Vllaznia,1,0,H,NaN,NaN,NaN
-ALB,31/01/2009,16:00,FK Dinamo Tirana,KF Tiranë,2,4,A,NaN,NaN,NaN
-ALB,04/02/2009,13:00,FK Vllaznia,KS Besa,4,1,H,NaN,NaN,NaN
-ALB,04/02/2009,13:00,KF Lushnja,KF Elbasani,1,0,H,NaN,NaN,NaN
-ALB,04/02/2009,13:00,KS Flamurtari Vlorë,KF Teuta Durrës,1,1,D,NaN,NaN,NaN
-ALB,04/02/2009,13:00,FK Partizani,FK Dinamo Tirana,1,0,H,NaN,NaN,NaN
-ALB,04/02/2009,13:00,KF Apolonia Fier,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,05/02/2009,13:00,KF Tiranë,KS Shkumbini,2,0,H,NaN,NaN,NaN
-ALB,15/02/2009,13:30,KF Teuta Durrës,KF Lushnja,1,1,D,NaN,NaN,NaN
-ALB,15/02/2009,13:30,FK Dinamo Tirana,KF Apolonia Fier,3,2,H,NaN,NaN,NaN
-ALB,15/02/2009,13:30,KS Besa,KF Tiranë,1,3,A,NaN,NaN,NaN
-ALB,15/02/2009,13:30,KF Bylis Ballsh,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,15/02/2009,13:30,KF Elbasani,FK Vllaznia,0,0,D,NaN,NaN,NaN
-ALB,15/02/2009,13:30,KS Shkumbini,FK Partizani,1,0,H,NaN,NaN,NaN
-ALB,21/02/2009,13:30,FK Partizani,KS Besa,1,0,H,NaN,NaN,NaN
-ALB,21/02/2009,13:30,KF Tiranë,KF Elbasani,0,0,D,NaN,NaN,NaN
-ALB,22/02/2009,13:00,KS Flamurtari Vlorë,FK Dinamo Tirana,0,2,A,NaN,NaN,NaN
-ALB,22/02/2009,13:30,KF Bylis Ballsh,KF Teuta Durrës,2,0,H,NaN,NaN,NaN
-ALB,22/02/2009,13:30,FK Vllaznia,KF Lushnja,2,0,H,NaN,NaN,NaN
-ALB,22/02/2009,13:30,KF Apolonia Fier,KS Shkumbini,0,1,A,NaN,NaN,NaN
-ALB,01/03/2009,13:30,KS Besa,KF Apolonia Fier,2,1,H,NaN,NaN,NaN
-ALB,01/03/2009,13:30,KF Elbasani,FK Partizani,0,1,A,NaN,NaN,NaN
-ALB,01/03/2009,13:30,FK Dinamo Tirana,KF Bylis Ballsh,5,1,H,NaN,NaN,NaN
-ALB,01/03/2009,13:30,KF Lushnja,KF Tiranë,0,0,D,NaN,NaN,NaN
-ALB,01/03/2009,13:30,KS Shkumbini,KS Flamurtari Vlorë,2,1,H,NaN,NaN,NaN
-ALB,01/03/2009,13:30,KF Teuta Durrës,FK Vllaznia,4,0,H,NaN,NaN,NaN
-ALB,07/03/2009,14:00,KF Tiranë,KF Lushnja,2,1,H,NaN,NaN,NaN
-ALB,07/03/2009,14:00,FK Vllaznia,KF Bylis Ballsh,0,0,D,NaN,NaN,NaN
-ALB,07/03/2009,14:00,FK Dinamo Tirana,KF Apolonia Fier,3,1,H,NaN,NaN,NaN
-ALB,07/03/2009,14:00,KS Shkumbini,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,07/03/2009,14:00,KS Besa,KF Elbasani,1,1,D,NaN,NaN,NaN
-ALB,07/03/2009,14:00,KF Teuta Durrës,FK Partizani,3,2,H,NaN,NaN,NaN
-ALB,15/03/2009,14:00,KF Bylis Ballsh,KF Tiranë,0,0,D,NaN,NaN,NaN
-ALB,15/03/2009,14:00,KF Apolonia Fier,FK Vllaznia,0,1,A,NaN,NaN,NaN
-ALB,15/03/2009,14:00,KS Flamurtari Vlorë,FK Dinamo Tirana,2,1,H,NaN,NaN,NaN
-ALB,15/03/2009,14:00,KF Elbasani,KS Shkumbini,2,2,D,NaN,NaN,NaN
-ALB,15/03/2009,14:00,FK Partizani,KS Besa,0,0,D,NaN,NaN,NaN
-ALB,15/03/2009,14:00,KF Teuta Durrës,KF Lushnja,0,1,A,NaN,NaN,NaN
-ALB,21/03/2009,14:30,KF Tiranë,KF Apolonia Fier,2,0,H,NaN,NaN,NaN
-ALB,21/03/2009,14:30,FK Vllaznia,KS Flamurtari Vlorë,3,1,H,NaN,NaN,NaN
-ALB,21/03/2009,14:30,FK Dinamo Tirana,KF Elbasani,2,0,H,NaN,NaN,NaN
-ALB,21/03/2009,14:30,KS Shkumbini,FK Partizani,0,1,A,NaN,NaN,NaN
-ALB,21/03/2009,14:30,KS Besa,KF Teuta Durrës,2,0,H,NaN,NaN,NaN
-ALB,21/03/2009,14:30,KF Lushnja,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,05/04/2009,15:30,KS Flamurtari Vlorë,KF Tiranë,1,2,A,NaN,NaN,NaN
-ALB,05/04/2009,15:30,KF Elbasani,FK Vllaznia,1,4,A,NaN,NaN,NaN
-ALB,05/04/2009,15:30,FK Partizani,FK Dinamo Tirana,1,2,A,NaN,NaN,NaN
-ALB,05/04/2009,15:30,KF Teuta Durrës,KS Shkumbini,1,0,H,NaN,NaN,NaN
-ALB,05/04/2009,15:30,KS Besa,KF Lushnja,2,2,D,NaN,NaN,NaN
-ALB,05/04/2009,15:30,KF Apolonia Fier,KF Bylis Ballsh,0,0,D,NaN,NaN,NaN
-ALB,11/04/2009,15:30,KF Tiranë,KF Elbasani,3,0,H,NaN,NaN,NaN
-ALB,11/04/2009,15:30,FK Vllaznia,FK Partizani,2,0,H,NaN,NaN,NaN
-ALB,11/04/2009,15:30,FK Dinamo Tirana,KF Teuta Durrës,1,2,A,NaN,NaN,NaN
-ALB,11/04/2009,15:30,KS Shkumbini,KS Besa,1,0,H,NaN,NaN,NaN
-ALB,11/04/2009,15:30,KF Bylis Ballsh,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,11/04/2009,15:30,KF Lushnja,KF Apolonia Fier,2,1,H,NaN,NaN,NaN
-ALB,18/04/2009,15:30,FK Partizani,KF Tiranë,2,2,D,NaN,NaN,NaN
-ALB,18/04/2009,15:30,KF Teuta Durrës,FK Vllaznia,1,0,H,NaN,NaN,NaN
-ALB,18/04/2009,15:30,KS Besa,FK Dinamo Tirana,1,1,D,NaN,NaN,NaN
-ALB,18/04/2009,15:30,KS Shkumbini,KF Lushnja,1,0,H,NaN,NaN,NaN
-ALB,18/04/2009,15:30,KF Elbasani,KF Bylis Ballsh,2,1,H,NaN,NaN,NaN
-ALB,18/04/2009,15:30,KS Flamurtari Vlorë,KF Apolonia Fier,0,0,D,NaN,NaN,NaN
-ALB,25/04/2009,15:30,KF Tiranë,KF Teuta Durrës,4,1,H,NaN,NaN,NaN
-ALB,25/04/2009,15:30,FK Vllaznia,KS Besa,3,2,H,NaN,NaN,NaN
-ALB,25/04/2009,15:30,FK Dinamo Tirana,KS Shkumbini,3,0,H,NaN,NaN,NaN
-ALB,25/04/2009,15:30,KF Bylis Ballsh,FK Partizani,1,0,H,NaN,NaN,NaN
-ALB,25/04/2009,15:30,KF Apolonia Fier,KF Elbasani,3,1,H,NaN,NaN,NaN
-ALB,25/04/2009,15:30,KF Lushnja,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,02/05/2009,16:00,KS Besa,KF Tiranë,1,1,D,NaN,NaN,NaN
-ALB,02/05/2009,16:00,KS Shkumbini,FK Vllaznia,1,2,A,NaN,NaN,NaN
-ALB,02/05/2009,16:00,FK Dinamo Tirana,KF Lushnja,1,1,D,NaN,NaN,NaN
-ALB,02/05/2009,16:00,KF Teuta Durrës,KF Bylis Ballsh,1,0,H,NaN,NaN,NaN
-ALB,02/05/2009,16:00,FK Partizani,KF Apolonia Fier,2,1,H,NaN,NaN,NaN
-ALB,02/05/2009,16:00,KF Elbasani,KS Flamurtari Vlorë,1,1,D,NaN,NaN,NaN
-ALB,09/05/2009,16:00,KF Tiranë,KS Shkumbini,3,1,H,NaN,NaN,NaN
-ALB,09/05/2009,16:00,FK Vllaznia,FK Dinamo Tirana,1,0,H,NaN,NaN,NaN
-ALB,09/05/2009,16:00,KF Bylis Ballsh,KS Besa,2,0,H,NaN,NaN,NaN
-ALB,09/05/2009,16:00,KF Apolonia Fier,KF Teuta Durrës,2,0,H,NaN,NaN,NaN
-ALB,09/05/2009,16:00,KS Flamurtari Vlorë,FK Partizani,2,1,H,NaN,NaN,NaN
-ALB,09/05/2009,16:00,KF Lushnja,KF Elbasani,0,0,D,NaN,NaN,NaN
-ALB,16/05/2009,16:00,FK Dinamo Tirana,KF Tiranë,2,3,A,NaN,NaN,NaN
-ALB,16/05/2009,16:00,FK Vllaznia,KF Lushnja,1,1,D,NaN,NaN,NaN
-ALB,16/05/2009,16:00,KS Shkumbini,KF Bylis Ballsh,0,2,A,NaN,NaN,NaN
-ALB,16/05/2009,16:00,KS Besa,KF Apolonia Fier,0,2,A,NaN,NaN,NaN
-ALB,16/05/2009,16:00,KF Teuta Durrës,KS Flamurtari Vlorë,2,3,A,NaN,NaN,NaN
-ALB,16/05/2009,16:00,FK Partizani,KF Elbasani,2,1,H,NaN,NaN,NaN
-ALB,23/05/2009,16:00,KF Bylis Ballsh,FK Dinamo Tirana,3,0,H,NaN,NaN,NaN
-ALB,23/05/2009,16:00,KF Apolonia Fier,KS Shkumbini,3,1,H,NaN,NaN,NaN
-ALB,23/05/2009,16:00,KS Flamurtari Vlorë,KS Besa,4,0,H,NaN,NaN,NaN
-ALB,23/05/2009,16:00,KF Elbasani,KF Teuta Durrës,3,2,H,NaN,NaN,NaN
-ALB,23/05/2009,16:00,KF Lushnja,FK Partizani,1,0,H,NaN,NaN,NaN
-ALB,23/05/2009,18:00,KF Tiranë,FK Vllaznia,2,1,H,NaN,NaN,NaN
+ALB,2008-08-24,16:00,FK Dinamo Tirana,KF Teuta Durrës,0,0,D,,,
+ALB,2008-08-24,16:00,KF Elbasani,KF Apolonia Fier,0,0,D,,,
+ALB,2008-08-24,16:00,KF Lushnja,FK Partizani,0,1,A,,,
+ALB,2008-08-24,16:00,KS Shkumbini,KF Bylis Ballsh,4,1,H,,,
+ALB,2008-08-24,16:00,KS Besa,KS Flamurtari Vlorë,0,1,A,,,
+ALB,2008-08-24,18:00,FK Vllaznia,KF Tiranë,0,0,D,,,
+ALB,2008-08-30,14:00,FK Dinamo Tirana,KS Shkumbini,3,1,H,,,
+ALB,2008-08-30,14:00,KF Teuta Durrës,KF Tiranë,0,1,A,,,
+ALB,2008-08-30,14:00,KF Bylis Ballsh,KS Besa,2,3,A,,,
+ALB,2008-08-31,16:00,KF Apolonia Fier,KF Lushnja,2,0,H,,,
+ALB,2008-08-31,16:00,KS Flamurtari Vlorë,KF Elbasani,0,1,A,,,
+ALB,2008-08-31,16:00,FK Partizani,FK Vllaznia,1,2,A,,,
+ALB,2008-09-14,15:30,KF Tiranë,FK Partizani,2,1,H,,,
+ALB,2008-09-14,15:30,KS Besa,FK Dinamo Tirana,0,0,D,,,
+ALB,2008-09-14,15:30,KF Elbasani,KF Bylis Ballsh,1,0,H,,,
+ALB,2008-09-14,15:30,KS Shkumbini,KF Teuta Durrës,1,0,H,,,
+ALB,2008-09-14,15:30,KF Lushnja,KS Flamurtari Vlorë,2,1,H,,,
+ALB,2008-09-14,17:30,FK Vllaznia,KF Apolonia Fier,3,1,H,,,
+ALB,2008-09-20,15:00,KS Flamurtari Vlorë,FK Vllaznia,1,0,H,,,
+ALB,2008-09-20,15:00,KS Shkumbini,KS Besa,1,0,H,,,
+ALB,2008-09-20,15:00,KF Apolonia Fier,KF Tiranë,0,2,A,,,
+ALB,2008-09-21,15:00,FK Dinamo Tirana,KF Elbasani,0,0,D,,,
+ALB,2008-09-21,15:00,KF Bylis Ballsh,KF Lushnja,1,0,H,,,
+ALB,2008-09-21,15:00,KF Teuta Durrës,FK Partizani,0,0,D,,,
+ALB,2008-09-26,15:00,FK Vllaznia,KF Bylis Ballsh,1,0,H,,,
+ALB,2008-09-27,15:00,KS Besa,KF Teuta Durrës,1,1,D,,,
+ALB,2008-09-27,15:00,KF Lushnja,FK Dinamo Tirana,1,2,A,,,
+ALB,2008-09-27,15:00,KF Tiranë,KS Flamurtari Vlorë,3,1,H,,,
+ALB,2008-09-28,15:00,FK Partizani,KF Apolonia Fier,0,1,A,,,
+ALB,2008-09-28,15:00,KF Elbasani,KS Shkumbini,1,1,D,,,
+ALB,2008-10-03,14:00,KF Teuta Durrës,KF Apolonia Fier,2,1,H,,,
+ALB,2008-10-04,14:00,KF Bylis Ballsh,KF Tiranë,0,0,D,,,
+ALB,2008-10-04,14:00,KS Besa,KF Elbasani,1,0,H,,,
+ALB,2008-10-04,14:00,KS Flamurtari Vlorë,FK Partizani,1,0,H,,,
+ALB,2008-10-04,14:00,FK Dinamo Tirana,FK Vllaznia,1,1,D,,,
+ALB,2008-10-04,14:00,KS Shkumbini,KF Lushnja,1,2,A,,,
+ALB,2008-10-19,13:30,FK Vllaznia,KS Shkumbini,2,2,D,,,
+ALB,2008-10-19,13:30,KF Apolonia Fier,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2008-10-19,13:30,KF Lushnja,KS Besa,0,1,A,,,
+ALB,2008-10-19,13:30,FK Partizani,KF Bylis Ballsh,1,1,D,,,
+ALB,2008-10-19,13:30,KF Tiranë,FK Dinamo Tirana,2,1,H,,,
+ALB,2008-10-19,17:00,KF Elbasani,KF Teuta Durrës,0,1,A,,,
+ALB,2008-10-25,13:00,FK Dinamo Tirana,FK Partizani,2,0,H,,,
+ALB,2008-10-25,13:00,KF Teuta Durrës,KS Flamurtari Vlorë,1,0,H,,,
+ALB,2008-10-25,13:00,KF Elbasani,KF Lushnja,2,0,H,,,
+ALB,2008-10-25,13:00,KS Shkumbini,KF Tiranë,0,0,D,,,
+ALB,2008-10-26,13:00,KF Bylis Ballsh,KF Apolonia Fier,1,0,H,,,
+ALB,2008-10-26,13:00,KS Besa,FK Vllaznia,1,0,H,,,
+ALB,2008-11-01,13:00,KF Apolonia Fier,FK Dinamo Tirana,0,2,A,,,
+ALB,2008-11-01,13:00,KS Flamurtari Vlorë,KF Bylis Ballsh,0,0,D,,,
+ALB,2008-11-01,13:00,FK Partizani,KS Shkumbini,0,2,A,,,
+ALB,2008-11-01,13:00,FK Vllaznia,KF Elbasani,2,0,H,,,
+ALB,2008-11-02,13:00,KF Lushnja,KF Teuta Durrës,1,1,D,,,
+ALB,2008-11-02,16:00,KF Tiranë,KS Besa,1,1,D,,,
+ALB,2008-11-07,13:00,KS Besa,FK Partizani,0,0,D,,,
+ALB,2008-11-08,13:00,KF Lushnja,FK Vllaznia,1,4,A,,,
+ALB,2008-11-08,13:00,KS Shkumbini,KF Apolonia Fier,2,0,H,,,
+ALB,2008-11-08,13:00,KF Teuta Durrës,KF Bylis Ballsh,1,0,H,,,
+ALB,2008-11-09,13:00,FK Dinamo Tirana,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2008-11-09,13:00,KF Elbasani,KF Tiranë,1,0,H,,,
+ALB,2008-11-15,13:00,KF Bylis Ballsh,FK Dinamo Tirana,1,0,H,,,
+ALB,2008-11-15,13:00,FK Vllaznia,KF Teuta Durrës,2,1,H,,,
+ALB,2008-11-15,13:00,KF Apolonia Fier,KS Besa,3,1,H,,,
+ALB,2008-11-15,13:00,KS Flamurtari Vlorë,KS Shkumbini,0,0,D,,,
+ALB,2008-11-15,13:00,KF Tiranë,KF Lushnja,1,0,H,,,
+ALB,2008-11-15,13:00,FK Partizani,KF Elbasani,2,2,D,,,
+ALB,2008-11-23,13:00,KF Apolonia Fier,KF Elbasani,2,2,D,,,
+ALB,2008-11-23,13:00,KF Tiranë,FK Vllaznia,1,1,D,,,
+ALB,2008-11-23,13:00,KF Teuta Durrës,FK Dinamo Tirana,0,0,D,,,
+ALB,2008-11-23,13:00,FK Partizani,KF Lushnja,0,0,D,,,
+ALB,2008-11-23,13:00,KF Bylis Ballsh,KS Shkumbini,2,1,H,,,
+ALB,2008-11-23,13:00,KS Flamurtari Vlorë,KS Besa,2,0,H,,,
+ALB,2008-11-29,13:00,KF Lushnja,KF Apolonia Fier,3,1,H,,,
+ALB,2008-11-29,13:00,KF Elbasani,KS Flamurtari Vlorë,0,0,D,,,
+ALB,2008-11-29,13:00,KF Tiranë,KF Teuta Durrës,1,2,A,,,
+ALB,2008-11-29,13:00,FK Vllaznia,FK Partizani,2,1,H,,,
+ALB,2008-11-30,13:00,KS Shkumbini,FK Dinamo Tirana,0,0,D,,,
+ALB,2008-11-30,13:00,KS Besa,KF Bylis Ballsh,3,0,H,,,
+ALB,2008-12-06,13:00,KS Flamurtari Vlorë,KF Lushnja,2,0,H,,,
+ALB,2008-12-06,13:00,KF Teuta Durrës,KS Shkumbini,2,0,H,,,
+ALB,2008-12-06,13:00,KF Apolonia Fier,FK Vllaznia,1,2,A,,,
+ALB,2008-12-06,13:00,FK Dinamo Tirana,KS Besa,4,2,H,,,
+ALB,2008-12-06,13:00,KF Bylis Ballsh,KF Elbasani,1,1,D,,,
+ALB,2008-12-07,13:00,FK Partizani,KF Tiranë,2,2,D,,,
+ALB,2008-12-13,13:00,KF Tiranë,KF Apolonia Fier,3,0,H,,,
+ALB,2008-12-13,13:00,KF Elbasani,FK Dinamo Tirana,2,2,D,,,
+ALB,2008-12-13,13:00,KS Besa,KS Shkumbini,2,0,H,,,
+ALB,2008-12-13,13:00,FK Vllaznia,KS Flamurtari Vlorë,1,0,H,,,
+ALB,2008-12-13,13:00,KF Lushnja,KF Bylis Ballsh,1,1,D,,,
+ALB,2008-12-13,13:00,FK Partizani,KF Teuta Durrës,0,0,D,,,
+ALB,2008-12-20,12:30,KF Teuta Durrës,KS Besa,0,1,A,,,
+ALB,2008-12-20,12:30,KF Apolonia Fier,FK Partizani,3,1,H,,,
+ALB,2008-12-21,12:30,KF Bylis Ballsh,FK Vllaznia,1,2,A,,,
+ALB,2008-12-21,12:30,FK Dinamo Tirana,KF Lushnja,1,0,H,,,
+ALB,2008-12-21,12:30,KS Flamurtari Vlorë,KF Tiranë,2,0,H,,,
+ALB,2008-12-21,12:30,KS Shkumbini,KF Elbasani,2,1,H,,,
+ALB,2008-12-26,12:30,KF Lushnja,KS Shkumbini,1,1,D,,,
+ALB,2008-12-27,12:30,KF Tiranë,KF Bylis Ballsh,6,2,H,,,
+ALB,2008-12-27,12:30,KF Apolonia Fier,KF Teuta Durrës,1,0,H,,,
+ALB,2008-12-27,12:30,FK Partizani,KS Flamurtari Vlorë,2,0,H,,,
+ALB,2008-12-27,12:30,KF Elbasani,KS Besa,0,1,A,,,
+ALB,2008-12-27,14:00,FK Vllaznia,FK Dinamo Tirana,0,1,A,,,
+ALB,2009-01-31,13:00,KF Teuta Durrës,KF Elbasani,1,2,A,,,
+ALB,2009-01-31,13:00,KF Bylis Ballsh,FK Partizani,0,1,A,,,
+ALB,2009-01-31,13:00,KS Besa,KF Lushnja,0,0,D,,,
+ALB,2009-01-31,13:00,KS Flamurtari Vlorë,KF Apolonia Fier,0,2,A,,,
+ALB,2009-01-31,13:00,KS Shkumbini,FK Vllaznia,1,0,H,,,
+ALB,2009-01-31,16:00,FK Dinamo Tirana,KF Tiranë,2,4,A,,,
+ALB,2009-02-04,13:00,FK Vllaznia,KS Besa,4,1,H,,,
+ALB,2009-02-04,13:00,KF Lushnja,KF Elbasani,1,0,H,,,
+ALB,2009-02-04,13:00,KS Flamurtari Vlorë,KF Teuta Durrës,1,1,D,,,
+ALB,2009-02-04,13:00,FK Partizani,FK Dinamo Tirana,1,0,H,,,
+ALB,2009-02-04,13:00,KF Apolonia Fier,KF Bylis Ballsh,1,0,H,,,
+ALB,2009-02-05,13:00,KF Tiranë,KS Shkumbini,2,0,H,,,
+ALB,2009-02-15,13:30,KF Teuta Durrës,KF Lushnja,1,1,D,,,
+ALB,2009-02-15,13:30,FK Dinamo Tirana,KF Apolonia Fier,3,2,H,,,
+ALB,2009-02-15,13:30,KS Besa,KF Tiranë,1,3,A,,,
+ALB,2009-02-15,13:30,KF Bylis Ballsh,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2009-02-15,13:30,KF Elbasani,FK Vllaznia,0,0,D,,,
+ALB,2009-02-15,13:30,KS Shkumbini,FK Partizani,1,0,H,,,
+ALB,2009-02-21,13:30,FK Partizani,KS Besa,1,0,H,,,
+ALB,2009-02-21,13:30,KF Tiranë,KF Elbasani,0,0,D,,,
+ALB,2009-02-22,13:00,KS Flamurtari Vlorë,FK Dinamo Tirana,0,2,A,,,
+ALB,2009-02-22,13:30,KF Bylis Ballsh,KF Teuta Durrës,2,0,H,,,
+ALB,2009-02-22,13:30,FK Vllaznia,KF Lushnja,2,0,H,,,
+ALB,2009-02-22,13:30,KF Apolonia Fier,KS Shkumbini,0,1,A,,,
+ALB,2009-03-01,13:30,KS Besa,KF Apolonia Fier,2,1,H,,,
+ALB,2009-03-01,13:30,KF Elbasani,FK Partizani,0,1,A,,,
+ALB,2009-03-01,13:30,FK Dinamo Tirana,KF Bylis Ballsh,5,1,H,,,
+ALB,2009-03-01,13:30,KF Lushnja,KF Tiranë,0,0,D,,,
+ALB,2009-03-01,13:30,KS Shkumbini,KS Flamurtari Vlorë,2,1,H,,,
+ALB,2009-03-01,13:30,KF Teuta Durrës,FK Vllaznia,4,0,H,,,
+ALB,2009-03-07,14:00,KF Tiranë,KF Lushnja,2,1,H,,,
+ALB,2009-03-07,14:00,FK Vllaznia,KF Bylis Ballsh,0,0,D,,,
+ALB,2009-03-07,14:00,FK Dinamo Tirana,KF Apolonia Fier,3,1,H,,,
+ALB,2009-03-07,14:00,KS Shkumbini,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2009-03-07,14:00,KS Besa,KF Elbasani,1,1,D,,,
+ALB,2009-03-07,14:00,KF Teuta Durrës,FK Partizani,3,2,H,,,
+ALB,2009-03-15,14:00,KF Bylis Ballsh,KF Tiranë,0,0,D,,,
+ALB,2009-03-15,14:00,KF Apolonia Fier,FK Vllaznia,0,1,A,,,
+ALB,2009-03-15,14:00,KS Flamurtari Vlorë,FK Dinamo Tirana,2,1,H,,,
+ALB,2009-03-15,14:00,KF Elbasani,KS Shkumbini,2,2,D,,,
+ALB,2009-03-15,14:00,FK Partizani,KS Besa,0,0,D,,,
+ALB,2009-03-15,14:00,KF Teuta Durrës,KF Lushnja,0,1,A,,,
+ALB,2009-03-21,14:30,KF Tiranë,KF Apolonia Fier,2,0,H,,,
+ALB,2009-03-21,14:30,FK Vllaznia,KS Flamurtari Vlorë,3,1,H,,,
+ALB,2009-03-21,14:30,FK Dinamo Tirana,KF Elbasani,2,0,H,,,
+ALB,2009-03-21,14:30,KS Shkumbini,FK Partizani,0,1,A,,,
+ALB,2009-03-21,14:30,KS Besa,KF Teuta Durrës,2,0,H,,,
+ALB,2009-03-21,14:30,KF Lushnja,KF Bylis Ballsh,1,0,H,,,
+ALB,2009-04-05,15:30,KS Flamurtari Vlorë,KF Tiranë,1,2,A,,,
+ALB,2009-04-05,15:30,KF Elbasani,FK Vllaznia,1,4,A,,,
+ALB,2009-04-05,15:30,FK Partizani,FK Dinamo Tirana,1,2,A,,,
+ALB,2009-04-05,15:30,KF Teuta Durrës,KS Shkumbini,1,0,H,,,
+ALB,2009-04-05,15:30,KS Besa,KF Lushnja,2,2,D,,,
+ALB,2009-04-05,15:30,KF Apolonia Fier,KF Bylis Ballsh,0,0,D,,,
+ALB,2009-04-11,15:30,KF Tiranë,KF Elbasani,3,0,H,,,
+ALB,2009-04-11,15:30,FK Vllaznia,FK Partizani,2,0,H,,,
+ALB,2009-04-11,15:30,FK Dinamo Tirana,KF Teuta Durrës,1,2,A,,,
+ALB,2009-04-11,15:30,KS Shkumbini,KS Besa,1,0,H,,,
+ALB,2009-04-11,15:30,KF Bylis Ballsh,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2009-04-11,15:30,KF Lushnja,KF Apolonia Fier,2,1,H,,,
+ALB,2009-04-18,15:30,FK Partizani,KF Tiranë,2,2,D,,,
+ALB,2009-04-18,15:30,KF Teuta Durrës,FK Vllaznia,1,0,H,,,
+ALB,2009-04-18,15:30,KS Besa,FK Dinamo Tirana,1,1,D,,,
+ALB,2009-04-18,15:30,KS Shkumbini,KF Lushnja,1,0,H,,,
+ALB,2009-04-18,15:30,KF Elbasani,KF Bylis Ballsh,2,1,H,,,
+ALB,2009-04-18,15:30,KS Flamurtari Vlorë,KF Apolonia Fier,0,0,D,,,
+ALB,2009-04-25,15:30,KF Tiranë,KF Teuta Durrës,4,1,H,,,
+ALB,2009-04-25,15:30,FK Vllaznia,KS Besa,3,2,H,,,
+ALB,2009-04-25,15:30,FK Dinamo Tirana,KS Shkumbini,3,0,H,,,
+ALB,2009-04-25,15:30,KF Bylis Ballsh,FK Partizani,1,0,H,,,
+ALB,2009-04-25,15:30,KF Apolonia Fier,KF Elbasani,3,1,H,,,
+ALB,2009-04-25,15:30,KF Lushnja,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2009-05-02,16:00,KS Besa,KF Tiranë,1,1,D,,,
+ALB,2009-05-02,16:00,KS Shkumbini,FK Vllaznia,1,2,A,,,
+ALB,2009-05-02,16:00,FK Dinamo Tirana,KF Lushnja,1,1,D,,,
+ALB,2009-05-02,16:00,KF Teuta Durrës,KF Bylis Ballsh,1,0,H,,,
+ALB,2009-05-02,16:00,FK Partizani,KF Apolonia Fier,2,1,H,,,
+ALB,2009-05-02,16:00,KF Elbasani,KS Flamurtari Vlorë,1,1,D,,,
+ALB,2009-05-09,16:00,KF Tiranë,KS Shkumbini,3,1,H,,,
+ALB,2009-05-09,16:00,FK Vllaznia,FK Dinamo Tirana,1,0,H,,,
+ALB,2009-05-09,16:00,KF Bylis Ballsh,KS Besa,2,0,H,,,
+ALB,2009-05-09,16:00,KF Apolonia Fier,KF Teuta Durrës,2,0,H,,,
+ALB,2009-05-09,16:00,KS Flamurtari Vlorë,FK Partizani,2,1,H,,,
+ALB,2009-05-09,16:00,KF Lushnja,KF Elbasani,0,0,D,,,
+ALB,2009-05-16,16:00,FK Dinamo Tirana,KF Tiranë,2,3,A,,,
+ALB,2009-05-16,16:00,FK Vllaznia,KF Lushnja,1,1,D,,,
+ALB,2009-05-16,16:00,KS Shkumbini,KF Bylis Ballsh,0,2,A,,,
+ALB,2009-05-16,16:00,KS Besa,KF Apolonia Fier,0,2,A,,,
+ALB,2009-05-16,16:00,KF Teuta Durrës,KS Flamurtari Vlorë,2,3,A,,,
+ALB,2009-05-16,16:00,FK Partizani,KF Elbasani,2,1,H,,,
+ALB,2009-05-23,16:00,KF Bylis Ballsh,FK Dinamo Tirana,3,0,H,,,
+ALB,2009-05-23,16:00,KF Apolonia Fier,KS Shkumbini,3,1,H,,,
+ALB,2009-05-23,16:00,KS Flamurtari Vlorë,KS Besa,4,0,H,,,
+ALB,2009-05-23,16:00,KF Elbasani,KF Teuta Durrës,3,2,H,,,
+ALB,2009-05-23,16:00,KF Lushnja,FK Partizani,1,0,H,,,
+ALB,2009-05-23,18:00,KF Tiranë,FK Vllaznia,2,1,H,,,

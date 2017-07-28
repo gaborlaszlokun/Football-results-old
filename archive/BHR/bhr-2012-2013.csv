@@ -1,91 +1,91 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-BHR,21/09/2012,15:00,Malkiya Club,Riffa SC,3,0,H,2,0,H
-BHR,21/09/2012,17:15,Manama Club,Al Hala,2,3,A,1,2,A
-BHR,22/09/2012,15:00,Al Hidd,Al Bahrain SC,4,1,H,2,1,H
-BHR,22/09/2012,17:15,Busaiteen,Al Najma,2,0,H,1,0,H
-BHR,23/09/2012,16:00,Al Muharraq,Al Shabab,2,0,H,1,0,H
-BHR,28/09/2012,15:00,Manama Club,Busaiteen,2,3,A,1,1,D
-BHR,28/09/2012,17:15,Al Najma,Al Muharraq,1,1,D,0,1,A
-BHR,29/09/2012,15:00,Al Shabab,Riffa SC,0,1,A,0,1,A
-BHR,29/09/2012,17:15,Al Bahrain SC,Malkiya Club,1,2,A,0,1,A
-BHR,30/09/2012,16:00,Al Hidd,Al Hala,3,0,H,1,0,H
-BHR,09/02/2013,14:00,Al Shabab,Al Hidd,1,2,A,0,1,A
-BHR,09/02/2013,14:00,Al Hala,Malkiya Club,2,1,H,1,0,H
-BHR,09/02/2013,16:00,Busaiteen,Al Bahrain SC,4,0,H,1,0,H
-BHR,10/02/2013,15:00,Riffa SC,Al Najma,2,0,H,1,0,H
-BHR,10/02/2013,15:00,Al Muharraq,Manama Club,2,0,H,1,0,H
-BHR,18/10/2012,16:00,Al Najma,Al Shabab,1,0,H,0,0,D
-BHR,19/10/2012,14:30,Al Hala,Busaiteen,0,3,A,0,1,A
-BHR,19/10/2012,16:50,Malkiya Club,Al Hidd,0,1,A,0,0,D
-BHR,20/10/2012,14:35,Al Bahrain SC,Al Muharraq,1,8,A,0,4,A
-BHR,20/10/2012,16:50,Manama Club,Riffa SC,3,3,D,2,1,H
-BHR,23/10/2012,16:00,Al Hidd,Al Najma,0,1,A,0,0,D
-BHR,24/10/2012,15:30,Al Shabab,Manama Club,2,0,H,0,0,D
-BHR,24/10/2012,17:50,Riffa SC,Al Bahrain SC,3,0,H,3,0,H
-BHR,29/10/2012,14:30,Malkiya Club,Busaiteen,0,3,A,0,1,A
-BHR,29/10/2012,16:50,Al Muharraq,Al Hala,1,1,D,1,0,H
-BHR,30/10/2012,15:00,Al Bahrain SC,Manama Club,1,6,A,1,4,A
-BHR,02/11/2012,14:30,Al Najma,Malkiya Club,2,0,H,1,0,H
-BHR,02/11/2012,16:45,Al Hala,Riffa SC,2,1,H,0,1,A
-BHR,03/11/2012,14:30,Busaiteen,Al Shabab,3,0,H,0,0,D
-BHR,03/11/2012,16:45,Al Muharraq,Al Hidd,2,3,A,2,1,H
-BHR,18/11/2012,14:20,Al Shabab,Al Hala,2,2,D,0,2,A
-BHR,18/11/2012,16:20,Manama Club,Malkiya Club,4,0,H,0,0,D
-BHR,19/11/2012,14:20,Al Najma,Al Bahrain SC,1,1,D,0,0,D
-BHR,19/11/2012,16:20,Riffa SC,Al Hidd,2,1,H,1,0,H
-BHR,19/02/2013,15:00,Al Muharraq,Busaiteen,1,0,H,0,0,D
-BHR,22/01/2013,15:00,Al Bahrain SC,Al Shabab,1,0,H,1,0,H
-BHR,22/01/2013,17:00,Al Hala,Al Najma,1,1,D,0,0,D
-BHR,23/01/2013,15:00,Busaiteen,Riffa SC,3,0,H,3,0,H
-BHR,23/01/2013,15:00,Al Hidd,Manama Club,2,1,H,1,0,H
-BHR,23/01/2013,17:00,Malkiya Club,Al Muharraq,1,4,A,1,1,D
-BHR,26/01/2013,14:00,Al Hala,Al Bahrain SC,0,2,A,0,0,D
-BHR,27/01/2013,15:00,Malkiya Club,Al Shabab,2,2,D,2,1,H
-BHR,27/01/2013,15:00,Manama Club,Al Najma,1,0,H,0,0,D
-BHR,27/01/2013,15:00,Busaiteen,Al Hidd,3,2,H,1,0,H
-BHR,27/01/2013,17:00,Riffa SC,Al Muharraq,0,1,A,0,1,A
-BHR,15/02/2013,14:00,Al Bahrain SC,Al Hidd,2,2,D,0,0,D
-BHR,15/02/2013,14:00,Malkiya Club,Riffa SC,1,3,A,1,0,H
-BHR,15/02/2013,16:00,Al Hala,Manama Club,1,2,A,0,1,A
-BHR,16/02/2013,14:00,Al Najma,Busaiteen,2,1,H,1,1,D
-BHR,16/02/2013,14:00,Al Shabab,Al Muharraq,1,5,A,0,3,A
-BHR,28/02/2013,15:10,Busaiteen,Manama Club,2,2,D,NaN,NaN,NaN
-BHR,28/02/2013,15:10,Riffa SC,Al Shabab,2,1,H,1,1,D
-BHR,02/03/2013,14:10,Malkiya Club,Al Bahrain SC,1,1,D,1,0,H
-BHR,04/03/2013,15:10,Al Muharraq,Al Najma,4,1,H,4,0,H
-BHR,04/03/2013,17:10,Al Hala,Al Hidd,0,2,A,0,1,A
-BHR,30/03/2013,14:10,Al Hidd,Al Shabab,3,0,H,1,0,H
-BHR,30/03/2013,14:10,Al Bahrain SC,Busaiteen,0,4,A,0,1,A
-BHR,31/03/2013,16:30,Malkiya Club,Al Hala,2,1,H,1,1,D
-BHR,06/04/2013,15:30,Manama Club,Al Muharraq,1,3,A,0,2,A
-BHR,06/04/2013,17:30,Al Najma,Riffa SC,1,1,D,0,1,A
-BHR,27/04/2013,15:40,Al Shabab,Al Najma,1,2,A,0,1,A
-BHR,27/04/2013,17:40,Al Hidd,Malkiya Club,2,0,H,1,0,H
-BHR,28/04/2013,16:40,Busaiteen,Al Hala,1,0,H,1,0,H
-BHR,28/04/2013,16:40,Al Muharraq,Al Bahrain SC,7,0,H,4,0,H
-BHR,28/05/2013,17:00,Riffa SC,Manama Club,1,1,D,1,1,D
-BHR,04/05/2013,15:40,Manama Club,Al Shabab,2,2,D,1,2,A
-BHR,04/05/2013,17:40,Al Najma,Al Hidd,0,2,A,0,1,A
-BHR,05/05/2013,16:30,Al Hala,Al Muharraq,1,2,A,1,1,D
-BHR,05/05/2013,17:00,Busaiteen,Malkiya Club,1,1,D,0,0,D
-BHR,05/05/2013,18:30,Al Bahrain SC,Riffa SC,1,2,A,0,1,A
-BHR,10/05/2013,15:45,Manama Club,Al Bahrain SC,2,2,D,0,2,A
-BHR,10/05/2013,15:45,Riffa SC,Al Hala,3,1,H,1,1,D
-BHR,10/05/2013,17:45,Al Shabab,Busaiteen,1,4,A,0,2,A
-BHR,11/05/2013,15:45,Malkiya Club,Al Najma,0,1,A,0,0,D
-BHR,11/05/2013,15:45,Al Hidd,Al Muharraq,1,2,A,0,2,A
-BHR,18/05/2013,15:40,Al Hala,Al Shabab,0,1,A,0,1,A
-BHR,18/05/2013,15:40,Al Bahrain SC,Al Najma,3,4,A,1,0,H
-BHR,18/05/2013,17:40,Busaiteen,Al Muharraq,4,0,H,1,0,H
-BHR,19/05/2013,16:40,Malkiya Club,Manama Club,1,2,A,0,1,A
-BHR,19/05/2013,16:40,Al Hidd,Riffa SC,4,0,H,1,0,H
-BHR,24/05/2013,15:50,Riffa SC,Busaiteen,0,1,A,0,0,D
-BHR,24/05/2013,15:55,Manama Club,Al Hidd,2,3,A,1,0,H
-BHR,24/05/2013,17:50,Al Muharraq,Malkiya Club,2,0,H,1,0,H
-BHR,25/05/2013,15:55,Al Shabab,Al Bahrain SC,5,3,H,2,0,H
-BHR,25/05/2013,15:55,Al Najma,Al Hala,0,7,A,0,2,A
-BHR,30/05/2013,17:00,Al Bahrain SC,Al Hala,4,4,D,1,2,A
-BHR,30/05/2013,17:00,Al Shabab,Malkiya Club,3,3,D,1,1,D
-BHR,31/05/2013,15:55,Al Hidd,Busaiteen,1,2,A,1,0,H
-BHR,01/06/2013,16:00,Al Najma,Manama Club,0,3,A,0,1,A
-BHR,03/06/2013,17:00,Al Muharraq,Riffa SC,1,1,D,1,0,H
+BHR,2012-09-21,15:00,Malkiya Club,Riffa SC,3,0,H,2.0,0.0,H
+BHR,2012-09-21,17:15,Manama Club,Al Hala,2,3,A,1.0,2.0,A
+BHR,2012-09-22,15:00,Al Hidd,Al Bahrain SC,4,1,H,2.0,1.0,H
+BHR,2012-09-22,17:15,Busaiteen,Al Najma,2,0,H,1.0,0.0,H
+BHR,2012-09-23,16:00,Al Muharraq,Al Shabab,2,0,H,1.0,0.0,H
+BHR,2012-09-28,15:00,Manama Club,Busaiteen,2,3,A,1.0,1.0,D
+BHR,2012-09-28,17:15,Al Najma,Al Muharraq,1,1,D,0.0,1.0,A
+BHR,2012-09-29,15:00,Al Shabab,Riffa SC,0,1,A,0.0,1.0,A
+BHR,2012-09-29,17:15,Al Bahrain SC,Malkiya Club,1,2,A,0.0,1.0,A
+BHR,2012-09-30,16:00,Al Hidd,Al Hala,3,0,H,1.0,0.0,H
+BHR,2012-10-18,16:00,Al Najma,Al Shabab,1,0,H,0.0,0.0,D
+BHR,2012-10-19,14:30,Al Hala,Busaiteen,0,3,A,0.0,1.0,A
+BHR,2012-10-19,16:50,Malkiya Club,Al Hidd,0,1,A,0.0,0.0,D
+BHR,2012-10-20,14:35,Al Bahrain SC,Al Muharraq,1,8,A,0.0,4.0,A
+BHR,2012-10-20,16:50,Manama Club,Riffa SC,3,3,D,2.0,1.0,H
+BHR,2012-10-23,16:00,Al Hidd,Al Najma,0,1,A,0.0,0.0,D
+BHR,2012-10-24,15:30,Al Shabab,Manama Club,2,0,H,0.0,0.0,D
+BHR,2012-10-24,17:50,Riffa SC,Al Bahrain SC,3,0,H,3.0,0.0,H
+BHR,2012-10-29,14:30,Malkiya Club,Busaiteen,0,3,A,0.0,1.0,A
+BHR,2012-10-29,16:50,Al Muharraq,Al Hala,1,1,D,1.0,0.0,H
+BHR,2012-10-30,15:00,Al Bahrain SC,Manama Club,1,6,A,1.0,4.0,A
+BHR,2012-11-02,14:30,Al Najma,Malkiya Club,2,0,H,1.0,0.0,H
+BHR,2012-11-02,16:45,Al Hala,Riffa SC,2,1,H,0.0,1.0,A
+BHR,2012-11-03,14:30,Busaiteen,Al Shabab,3,0,H,0.0,0.0,D
+BHR,2012-11-03,16:45,Al Muharraq,Al Hidd,2,3,A,2.0,1.0,H
+BHR,2012-11-18,14:20,Al Shabab,Al Hala,2,2,D,0.0,2.0,A
+BHR,2012-11-18,16:20,Manama Club,Malkiya Club,4,0,H,0.0,0.0,D
+BHR,2012-11-19,14:20,Al Najma,Al Bahrain SC,1,1,D,0.0,0.0,D
+BHR,2012-11-19,16:20,Riffa SC,Al Hidd,2,1,H,1.0,0.0,H
+BHR,2013-01-22,15:00,Al Bahrain SC,Al Shabab,1,0,H,1.0,0.0,H
+BHR,2013-01-22,17:00,Al Hala,Al Najma,1,1,D,0.0,0.0,D
+BHR,2013-01-23,15:00,Busaiteen,Riffa SC,3,0,H,3.0,0.0,H
+BHR,2013-01-23,15:00,Al Hidd,Manama Club,2,1,H,1.0,0.0,H
+BHR,2013-01-23,17:00,Malkiya Club,Al Muharraq,1,4,A,1.0,1.0,D
+BHR,2013-01-26,14:00,Al Hala,Al Bahrain SC,0,2,A,0.0,0.0,D
+BHR,2013-01-27,15:00,Malkiya Club,Al Shabab,2,2,D,2.0,1.0,H
+BHR,2013-01-27,15:00,Manama Club,Al Najma,1,0,H,0.0,0.0,D
+BHR,2013-01-27,15:00,Busaiteen,Al Hidd,3,2,H,1.0,0.0,H
+BHR,2013-01-27,17:00,Riffa SC,Al Muharraq,0,1,A,0.0,1.0,A
+BHR,2013-02-09,14:00,Al Shabab,Al Hidd,1,2,A,0.0,1.0,A
+BHR,2013-02-09,14:00,Al Hala,Malkiya Club,2,1,H,1.0,0.0,H
+BHR,2013-02-09,16:00,Busaiteen,Al Bahrain SC,4,0,H,1.0,0.0,H
+BHR,2013-02-10,15:00,Riffa SC,Al Najma,2,0,H,1.0,0.0,H
+BHR,2013-02-10,15:00,Al Muharraq,Manama Club,2,0,H,1.0,0.0,H
+BHR,2013-02-15,14:00,Al Bahrain SC,Al Hidd,2,2,D,0.0,0.0,D
+BHR,2013-02-15,14:00,Malkiya Club,Riffa SC,1,3,A,1.0,0.0,H
+BHR,2013-02-15,16:00,Al Hala,Manama Club,1,2,A,0.0,1.0,A
+BHR,2013-02-16,14:00,Al Najma,Busaiteen,2,1,H,1.0,1.0,D
+BHR,2013-02-16,14:00,Al Shabab,Al Muharraq,1,5,A,0.0,3.0,A
+BHR,2013-02-19,15:00,Al Muharraq,Busaiteen,1,0,H,0.0,0.0,D
+BHR,2013-02-28,15:10,Busaiteen,Manama Club,2,2,D,,,
+BHR,2013-02-28,15:10,Riffa SC,Al Shabab,2,1,H,1.0,1.0,D
+BHR,2013-03-02,14:10,Malkiya Club,Al Bahrain SC,1,1,D,1.0,0.0,H
+BHR,2013-03-04,15:10,Al Muharraq,Al Najma,4,1,H,4.0,0.0,H
+BHR,2013-03-04,17:10,Al Hala,Al Hidd,0,2,A,0.0,1.0,A
+BHR,2013-03-30,14:10,Al Hidd,Al Shabab,3,0,H,1.0,0.0,H
+BHR,2013-03-30,14:10,Al Bahrain SC,Busaiteen,0,4,A,0.0,1.0,A
+BHR,2013-03-31,16:30,Malkiya Club,Al Hala,2,1,H,1.0,1.0,D
+BHR,2013-04-06,15:30,Manama Club,Al Muharraq,1,3,A,0.0,2.0,A
+BHR,2013-04-06,17:30,Al Najma,Riffa SC,1,1,D,0.0,1.0,A
+BHR,2013-04-27,15:40,Al Shabab,Al Najma,1,2,A,0.0,1.0,A
+BHR,2013-04-27,17:40,Al Hidd,Malkiya Club,2,0,H,1.0,0.0,H
+BHR,2013-04-28,16:40,Busaiteen,Al Hala,1,0,H,1.0,0.0,H
+BHR,2013-04-28,16:40,Al Muharraq,Al Bahrain SC,7,0,H,4.0,0.0,H
+BHR,2013-05-04,15:40,Manama Club,Al Shabab,2,2,D,1.0,2.0,A
+BHR,2013-05-04,17:40,Al Najma,Al Hidd,0,2,A,0.0,1.0,A
+BHR,2013-05-05,16:30,Al Hala,Al Muharraq,1,2,A,1.0,1.0,D
+BHR,2013-05-05,17:00,Busaiteen,Malkiya Club,1,1,D,0.0,0.0,D
+BHR,2013-05-05,18:30,Al Bahrain SC,Riffa SC,1,2,A,0.0,1.0,A
+BHR,2013-05-10,15:45,Manama Club,Al Bahrain SC,2,2,D,0.0,2.0,A
+BHR,2013-05-10,15:45,Riffa SC,Al Hala,3,1,H,1.0,1.0,D
+BHR,2013-05-10,17:45,Al Shabab,Busaiteen,1,4,A,0.0,2.0,A
+BHR,2013-05-11,15:45,Malkiya Club,Al Najma,0,1,A,0.0,0.0,D
+BHR,2013-05-11,15:45,Al Hidd,Al Muharraq,1,2,A,0.0,2.0,A
+BHR,2013-05-18,15:40,Al Hala,Al Shabab,0,1,A,0.0,1.0,A
+BHR,2013-05-18,15:40,Al Bahrain SC,Al Najma,3,4,A,1.0,0.0,H
+BHR,2013-05-18,17:40,Busaiteen,Al Muharraq,4,0,H,1.0,0.0,H
+BHR,2013-05-19,16:40,Malkiya Club,Manama Club,1,2,A,0.0,1.0,A
+BHR,2013-05-19,16:40,Al Hidd,Riffa SC,4,0,H,1.0,0.0,H
+BHR,2013-05-24,15:50,Riffa SC,Busaiteen,0,1,A,0.0,0.0,D
+BHR,2013-05-24,15:55,Manama Club,Al Hidd,2,3,A,1.0,0.0,H
+BHR,2013-05-24,17:50,Al Muharraq,Malkiya Club,2,0,H,1.0,0.0,H
+BHR,2013-05-25,15:55,Al Shabab,Al Bahrain SC,5,3,H,2.0,0.0,H
+BHR,2013-05-25,15:55,Al Najma,Al Hala,0,7,A,0.0,2.0,A
+BHR,2013-05-28,17:00,Riffa SC,Manama Club,1,1,D,1.0,1.0,D
+BHR,2013-05-30,17:00,Al Bahrain SC,Al Hala,4,4,D,1.0,2.0,A
+BHR,2013-05-30,17:00,Al Shabab,Malkiya Club,3,3,D,1.0,1.0,D
+BHR,2013-05-31,15:55,Al Hidd,Busaiteen,1,2,A,1.0,0.0,H
+BHR,2013-06-01,16:00,Al Najma,Manama Club,0,3,A,0.0,1.0,A
+BHR,2013-06-03,17:00,Al Muharraq,Riffa SC,1,1,D,1.0,0.0,H

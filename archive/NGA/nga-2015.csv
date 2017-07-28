@@ -1,381 +1,381 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-NGA,08/03/2015,15:00,Bayelsa United,Lobi Stars,1,1,D,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Dolphins FC,Kwara United,0,0,D,NaN,NaN,NaN
-NGA,08/03/2015,15:00,El-Kanemi Warriors,Nasarawa United FC,1,0,H,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Enyimba Aba,Akwa United,0,0,D,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Taraba FC,Enugu Rangers,3,2,H,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Giwa FC,Abia Warriors FC,0,0,D,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Ifeanyi Uba,Warri Wolves,2,0,H,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Sharks FC,Sunshine Stars,0,0,D,NaN,NaN,NaN
-NGA,08/03/2015,15:00,Wikki Tourists,Shooting Stars FC,2,0,H,NaN,NaN,NaN
-NGA,30/04/2015,,Heartland FC,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,14/03/2015,15:00,Sunshine Stars,Ifeanyi Uba,2,1,H,NaN,NaN,NaN
-NGA,14/03/2015,15:00,Kano Pillars,Bayelsa United,2,0,H,NaN,NaN,NaN
-NGA,15/03/2015,15:00,Nasarawa United FC,Wikki Tourists,2,0,H,NaN,NaN,NaN
-NGA,15/03/2015,15:00,Enugu Rangers,Sharks FC,2,1,H,NaN,NaN,NaN
-NGA,15/03/2015,15:00,Akwa United,Taraba FC,0,1,A,NaN,NaN,NaN
-NGA,15/03/2015,15:00,Kwara United,El-Kanemi Warriors,2,1,H,NaN,NaN,NaN
-NGA,15/03/2015,15:00,Shooting Stars FC,Heartland FC,1,2,A,NaN,NaN,NaN
-NGA,18/03/2015,15:00,Lobi Stars,Enyimba Aba,1,1,D,NaN,NaN,NaN
-NGA,18/03/2015,15:00,Warri Wolves,Giwa FC,3,0,H,NaN,NaN,NaN
-NGA,25/03/2015,15:00,Abia Warriors FC,Dolphins FC,2,1,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Enyimba Aba,Bayelsa United,1,0,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Taraba FC,Lobi Stars,0,0,D,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Sharks FC,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Ifeanyi Uba,Enugu Rangers,1,0,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Giwa FC,Sunshine Stars,1,0,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,El-Kanemi Warriors,Abia Warriors FC,3,1,H,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Wikki Tourists,Kwara United,1,1,D,NaN,NaN,NaN
-NGA,22/03/2015,15:00,Heartland FC,Nasarawa United FC,5,2,H,NaN,NaN,NaN
-NGA,06/05/2015,15:00,Shooting Stars FC,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,07/05/2015,15:00,Dolphins FC,Warri Wolves,0,0,D,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Bayelsa United,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Kano Pillars,Enyimba Aba,1,0,H,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Kwara United,Heartland FC,1,3,A,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Abia Warriors FC,Wikki Tourists,1,2,A,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Akwa United,Ifeanyi Uba,1,0,H,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Enugu Rangers,Giwa FC,0,1,A,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Lobi Stars,Sharks FC,2,2,D,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Nasarawa United FC,Shooting Stars FC,0,0,D,NaN,NaN,NaN
-NGA,19/04/2015,16:00,Sunshine Stars,Dolphins FC,2,1,H,NaN,NaN,NaN
-NGA,26/07/2015,16:00,Warri Wolves,El-Kanemi Warriors,5,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Taraba FC,Enyimba Aba,0,1,A,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Ifeanyi Uba,Lobi Stars,2,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Giwa FC,Akwa United,4,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Dolphins FC,Enugu Rangers,1,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,El-Kanemi Warriors,Sunshine Stars,1,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Wikki Tourists,Warri Wolves,1,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Heartland FC,Abia Warriors FC,0,1,A,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Shooting Stars FC,Kwara United,2,0,H,NaN,NaN,NaN
-NGA,22/04/2015,16:00,Nasarawa United FC,Kano Pillars,2,1,H,NaN,NaN,NaN
-NGA,23/04/2015,16:00,Sharks FC,Bayelsa United,0,0,D,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Enyimba Aba,Sharks FC,3,2,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Bayelsa United,Ifeanyi Uba,0,0,D,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Lobi Stars,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Akwa United,Dolphins FC,2,0,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Enugu Rangers,El-Kanemi Warriors,3,0,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Sunshine Stars,Wikki Tourists,3,2,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Abia Warriors FC,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Kwara United,Nasarawa United FC,1,0,H,NaN,NaN,NaN
-NGA,26/04/2015,16:00,Kano Pillars,Taraba FC,2,1,H,NaN,NaN,NaN
-NGA,27/04/2015,,Warri Wolves,Heartland FC,2,0,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Sharks FC,Taraba FC,2,2,D,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Ifeanyi Uba,Enyimba Aba,2,0,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Giwa FC,Bayelsa United,3,1,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Dolphins FC,Lobi Stars,2,0,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,El-Kanemi Warriors,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Wikki Tourists,Enugu Rangers,4,2,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Heartland FC,Sunshine Stars,0,3,A,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Nasarawa United FC,Abia Warriors FC,2,0,H,NaN,NaN,NaN
-NGA,03/05/2015,16:00,Kwara United,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,08/07/2015,16:00,Shooting Stars FC,Warri Wolves,2,1,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Taraba FC,Ifeanyi Uba,3,3,D,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Enyimba Aba,Giwa FC,0,0,D,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Bayelsa United,Dolphins FC,2,2,D,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Lobi Stars,El-Kanemi Warriors,0,0,D,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Kano Pillars,Sharks FC,2,0,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Enugu Rangers,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Sunshine Stars,Shooting Stars FC,2,0,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Warri Wolves,Nasarawa United FC,4,1,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Abia Warriors FC,Kwara United,2,0,H,NaN,NaN,NaN
-NGA,10/05/2015,16:00,Akwa United,Wikki Tourists,0,0,D,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Ifeanyi Uba,Sharks FC,1,0,H,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Giwa FC,Taraba FC,0,0,D,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Dolphins FC,Enyimba Aba,1,2,A,NaN,NaN,NaN
-NGA,17/05/2015,16:00,El-Kanemi Warriors,Bayelsa United,1,0,H,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Wikki Tourists,Lobi Stars,1,0,H,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Heartland FC,Akwa United,2,0,H,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Shooting Stars FC,Enugu Rangers,1,1,D,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Nasarawa United FC,Sunshine Stars,1,1,D,NaN,NaN,NaN
-NGA,17/05/2015,16:00,Abia Warriors FC,Kano Pillars,0,1,A,NaN,NaN,NaN
-NGA,29/07/2015,16:00,Kwara United,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Sharks FC,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Taraba FC,Dolphins FC,1,1,D,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Enyimba Aba,El-Kanemi Warriors,3,1,H,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Bayelsa United,Wikki Tourists,1,0,H,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Lobi Stars,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Akwa United,Shooting Stars FC,2,1,H,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Enugu Rangers,Nasarawa United FC,0,0,D,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Sunshine Stars,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,20/05/2015,16:00,Kano Pillars,Ifeanyi Uba,2,1,H,NaN,NaN,NaN
-NGA,22/05/2015,16:00,Warri Wolves,Abia Warriors FC,3,2,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Giwa FC,Ifeanyi Uba,2,0,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Dolphins FC,Sharks FC,1,1,D,NaN,NaN,NaN
-NGA,14/06/2015,16:00,El-Kanemi Warriors,Taraba FC,2,1,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Wikki Tourists,Enyimba Aba,0,0,D,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Heartland FC,Bayelsa United,4,1,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Shooting Stars FC,Lobi Stars,3,0,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Nasarawa United FC,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Kwara United,Enugu Rangers,3,1,H,NaN,NaN,NaN
-NGA,14/06/2015,16:00,Abia Warriors FC,Sunshine Stars,3,2,H,NaN,NaN,NaN
-NGA,15/06/2015,16:00,Warri Wolves,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Ifeanyi Uba,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Sharks FC,El-Kanemi Warriors,0,0,D,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Enyimba Aba,Heartland FC,2,0,H,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Bayelsa United,Shooting Stars FC,0,0,D,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Lobi Stars,Nasarawa United FC,2,1,H,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Akwa United,Kwara United,2,1,H,NaN,NaN,NaN
-NGA,17/06/2015,16:00,Enugu Rangers,Abia Warriors FC,1,0,H,NaN,NaN,NaN
-NGA,18/06/2015,16:00,Taraba FC,Wikki Tourists,1,2,A,NaN,NaN,NaN
-NGA,18/06/2015,16:00,Sunshine Stars,Warri Wolves,2,1,H,NaN,NaN,NaN
-NGA,18/06/2015,16:00,Kano Pillars,Giwa FC,4,1,H,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Dolphins FC,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,21/06/2015,16:00,El-Kanemi Warriors,Ifeanyi Uba,1,4,A,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Wikki Tourists,Sharks FC,3,0,H,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Heartland FC,Taraba FC,2,0,H,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Shooting Stars FC,Enyimba Aba,0,0,D,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Nasarawa United FC,Bayelsa United,1,0,H,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Kwara United,Lobi Stars,1,1,D,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Abia Warriors FC,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Warri Wolves,Enugu Rangers,0,1,A,NaN,NaN,NaN
-NGA,21/06/2015,16:00,Sunshine Stars,Kano Pillars,3,0,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Giwa FC,El-Kanemi Warriors,3,1,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Ifeanyi Uba,Wikki Tourists,0,1,A,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Sharks FC,Heartland FC,1,1,D,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Taraba FC,Shooting Stars FC,1,1,D,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Enyimba Aba,Nasarawa United FC,2,0,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Bayelsa United,Kwara United,2,0,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Lobi Stars,Abia Warriors FC,2,0,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Akwa United,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Enugu Rangers,Sunshine Stars,1,0,H,NaN,NaN,NaN
-NGA,28/06/2015,16:00,Kano Pillars,Dolphins FC,2,2,D,NaN,NaN,NaN
-NGA,01/07/2015,16:00,El-Kanemi Warriors,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Wikki Tourists,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Heartland FC,Ifeanyi Uba,1,0,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Shooting Stars FC,Sharks FC,1,0,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Nasarawa United FC,Taraba FC,2,0,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Kwara United,Enyimba Aba,2,3,A,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Abia Warriors FC,Bayelsa United,3,1,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Warri Wolves,Lobi Stars,1,0,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Sunshine Stars,Akwa United,3,1,H,NaN,NaN,NaN
-NGA,01/07/2015,16:00,Enugu Rangers,Kano Pillars,2,1,H,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Dolphins FC,Wikki Tourists,1,1,D,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Giwa FC,Heartland FC,2,1,H,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Ifeanyi Uba,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Sharks FC,Nasarawa United FC,0,0,D,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Taraba FC,Kwara United,0,0,D,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Enyimba Aba,Abia Warriors FC,2,2,D,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Bayelsa United,Warri Wolves,2,0,H,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Lobi Stars,Sunshine Stars,1,1,D,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Akwa United,Enugu Rangers,2,0,H,NaN,NaN,NaN
-NGA,05/07/2015,16:00,Kano Pillars,El-Kanemi Warriors,1,0,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Wikki Tourists,El-Kanemi Warriors,2,1,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Heartland FC,Dolphins FC,3,1,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Shooting Stars FC,Giwa FC,3,0,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Nasarawa United FC,Ifeanyi Uba,1,1,D,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Kwara United,Sharks FC,0,1,A,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Abia Warriors FC,Taraba FC,3,1,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Warri Wolves,Enyimba Aba,2,1,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Sunshine Stars,Bayelsa United,2,0,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Enugu Rangers,Lobi Stars,3,1,H,NaN,NaN,NaN
-NGA,12/07/2015,16:00,Akwa United,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,15/07/2015,14:00,El-Kanemi Warriors,Heartland FC,1,1,D,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Kano Pillars,Wikki Tourists,1,1,D,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Dolphins FC,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Giwa FC,Nasarawa United FC,2,1,H,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Ifeanyi Uba,Kwara United,1,2,A,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Sharks FC,Abia Warriors FC,2,0,H,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Enyimba Aba,Sunshine Stars,3,1,H,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Bayelsa United,Enugu Rangers,0,0,D,NaN,NaN,NaN
-NGA,15/07/2015,16:00,Lobi Stars,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,16/07/2015,16:00,Taraba FC,Warri Wolves,1,2,A,NaN,NaN,NaN
-NGA,18/07/2015,16:00,Nasarawa United FC,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Lobi Stars,Kano Pillars,3,3,D,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Heartland FC,Wikki Tourists,4,0,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Shooting Stars FC,El-Kanemi Warriors,2,1,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Kwara United,Giwa FC,3,1,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Abia Warriors FC,Ifeanyi Uba,1,0,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Warri Wolves,Sharks FC,2,1,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Sunshine Stars,Taraba FC,2,1,H,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Enugu Rangers,Enyimba Aba,1,2,A,NaN,NaN,NaN
-NGA,19/07/2015,16:00,Akwa United,Bayelsa United,1,0,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,El-Kanemi Warriors,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Wikki Tourists,Heartland FC,0,0,D,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Dolphins FC,Nasarawa United FC,3,1,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Giwa FC,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Ifeanyi Uba,Abia Warriors FC,1,1,D,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Sharks FC,Warri Wolves,2,1,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Taraba FC,Sunshine Stars,1,0,H,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Enyimba Aba,Enugu Rangers,1,1,D,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Bayelsa United,Akwa United,1,1,D,NaN,NaN,NaN
-NGA,02/08/2015,16:00,Kano Pillars,Lobi Stars,2,1,H,NaN,NaN,NaN
-NGA,05/08/2015,12:00,Nasarawa United FC,El-Kanemi Warriors,4,2,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Lobi Stars,Bayelsa United,3,0,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Akwa United,Enyimba Aba,2,2,D,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Enugu Rangers,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Warri Wolves,Ifeanyi Uba,3,0,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Abia Warriors FC,Giwa FC,2,0,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Kwara United,Dolphins FC,2,1,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Shooting Stars FC,Wikki Tourists,2,1,H,NaN,NaN,NaN
-NGA,05/08/2015,16:00,Kano Pillars,Heartland FC,2,1,H,NaN,NaN,NaN
-NGA,06/08/2015,16:00,Sunshine Stars,Sharks FC,2,0,H,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Enyimba Aba,Lobi Stars,2,1,H,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Taraba FC,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Giwa FC,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Dolphins FC,Abia Warriors FC,1,1,D,NaN,NaN,NaN
-NGA,09/08/2015,16:00,El-Kanemi Warriors,Kwara United,2,0,H,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Wikki Tourists,Nasarawa United FC,0,0,D,NaN,NaN,NaN
-NGA,09/08/2015,16:00,Bayelsa United,Kano Pillars,1,1,D,NaN,NaN,NaN
-NGA,10/08/2015,09:00,Heartland FC,Shooting Stars FC,1,3,A,NaN,NaN,NaN
-NGA,10/08/2015,12:00,Ifeanyi Uba,Sunshine Stars,0,0,D,NaN,NaN,NaN
-NGA,10/08/2015,16:00,Sharks FC,Enugu Rangers,1,1,D,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Lobi Stars,Taraba FC,2,1,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Bayelsa United,Enyimba Aba,1,1,D,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Nasarawa United FC,Heartland FC,2,0,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Akwa United,Sharks FC,3,1,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Enugu Rangers,Ifeanyi Uba,2,3,A,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Sunshine Stars,Giwa FC,4,0,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Warri Wolves,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Abia Warriors FC,El-Kanemi Warriors,1,0,H,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Kwara United,Wikki Tourists,0,1,A,NaN,NaN,NaN
-NGA,16/08/2015,16:00,Kano Pillars,Shooting Stars FC,4,1,H,NaN,NaN,NaN
-NGA,19/08/2015,16:00,Taraba FC,Bayelsa United,0,0,D,NaN,NaN,NaN
-NGA,19/08/2015,16:00,Dolphins FC,Sunshine Stars,1,0,H,NaN,NaN,NaN
-NGA,19/08/2015,16:00,El-Kanemi Warriors,Warri Wolves,0,0,D,NaN,NaN,NaN
-NGA,19/08/2015,16:00,Wikki Tourists,Abia Warriors FC,2,0,H,NaN,NaN,NaN
-NGA,19/08/2015,16:00,Heartland FC,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,19/08/2015,16:00,Enyimba Aba,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,26/08/2015,16:00,Sharks FC,Lobi Stars,0,0,D,NaN,NaN,NaN
-NGA,26/08/2015,16:00,Ifeanyi Uba,Akwa United,2,0,H,NaN,NaN,NaN
-NGA,26/08/2015,16:00,Giwa FC,Enugu Rangers,1,0,H,NaN,NaN,NaN
-NGA,26/08/2015,16:00,Shooting Stars FC,Nasarawa United FC,2,1,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Bayelsa United,Sharks FC,0,1,A,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Lobi Stars,Ifeanyi Uba,1,0,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Akwa United,Giwa FC,2,2,D,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Enugu Rangers,Dolphins FC,1,1,D,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Sunshine Stars,El-Kanemi Warriors,5,0,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Warri Wolves,Wikki Tourists,1,0,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Abia Warriors FC,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Kwara United,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,23/08/2015,16:00,Kano Pillars,Nasarawa United FC,1,2,A,NaN,NaN,NaN
-NGA,24/08/2015,10:00,Enyimba Aba,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Sharks FC,Enyimba Aba,0,0,D,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Ifeanyi Uba,Bayelsa United,1,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Giwa FC,Lobi Stars,2,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Dolphins FC,Akwa United,2,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,El-Kanemi Warriors,Enugu Rangers,2,2,D,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Wikki Tourists,Sunshine Stars,2,1,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Heartland FC,Warri Wolves,1,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Shooting Stars FC,Abia Warriors FC,2,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Nasarawa United FC,Kwara United,3,0,H,NaN,NaN,NaN
-NGA,30/08/2015,16:00,Taraba FC,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Taraba FC,Sharks FC,2,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Enyimba Aba,Ifeanyi Uba,4,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Lobi Stars,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Akwa United,El-Kanemi Warriors,1,1,D,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Enugu Rangers,Wikki Tourists,2,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Sunshine Stars,Heartland FC,0,0,D,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Warri Wolves,Shooting Stars FC,4,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Abia Warriors FC,Nasarawa United FC,1,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:00,Kano Pillars,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,02/09/2015,16:30,Bayelsa United,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Ifeanyi Uba,Taraba FC,2,0,H,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Giwa FC,Enyimba Aba,1,0,H,NaN,NaN,NaN
-NGA,06/09/2015,16:00,El-Kanemi Warriors,Lobi Stars,2,1,H,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Wikki Tourists,Akwa United,3,1,H,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Shooting Stars FC,Sunshine Stars,2,1,H,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Nasarawa United FC,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,06/09/2015,16:00,Kwara United,Abia Warriors FC,1,0,H,NaN,NaN,NaN
-NGA,06/09/2015,16:50,Heartland FC,Enugu Rangers,2,0,H,NaN,NaN,NaN
-NGA,07/09/2015,16:00,Dolphins FC,Bayelsa United,2,0,H,NaN,NaN,NaN
-NGA,07/09/2015,16:00,Sharks FC,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Sharks FC,Ifeanyi Uba,1,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Taraba FC,Giwa FC,1,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Enyimba Aba,Dolphins FC,2,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Bayelsa United,El-Kanemi Warriors,4,1,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Lobi Stars,Wikki Tourists,1,1,D,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Akwa United,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Enugu Rangers,Shooting Stars FC,2,1,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Sunshine Stars,Nasarawa United FC,2,3,A,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Warri Wolves,Kwara United,3,0,H,NaN,NaN,NaN
-NGA,13/09/2015,16:00,Kano Pillars,Abia Warriors FC,3,0,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Giwa FC,Sharks FC,1,0,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Dolphins FC,Taraba FC,3,1,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,El-Kanemi Warriors,Enyimba Aba,2,1,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Wikki Tourists,Bayelsa United,2,0,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Heartland FC,Lobi Stars,0,0,D,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Shooting Stars FC,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Nasarawa United FC,Enugu Rangers,1,0,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Kwara United,Sunshine Stars,1,2,A,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Abia Warriors FC,Warri Wolves,2,1,H,NaN,NaN,NaN
-NGA,20/09/2015,16:00,Ifeanyi Uba,Kano Pillars,1,1,D,NaN,NaN,NaN
-NGA,25/09/2015,19:00,Akwa United,Nasarawa United FC,2,0,H,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Ifeanyi Uba,Giwa FC,1,1,D,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Sharks FC,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Taraba FC,El-Kanemi Warriors,1,1,D,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Enyimba Aba,Wikki Tourists,2,0,H,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Lobi Stars,Shooting Stars FC,0,0,D,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Enugu Rangers,Kwara United,2,1,H,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Sunshine Stars,Abia Warriors FC,1,0,H,NaN,NaN,NaN
-NGA,27/09/2015,16:00,Kano Pillars,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,28/09/2015,09:00,Bayelsa United,Heartland FC,3,1,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Dolphins FC,Ifeanyi Uba,0,0,D,NaN,NaN,NaN
-NGA,04/10/2015,16:00,El-Kanemi Warriors,Sharks FC,2,0,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Wikki Tourists,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Heartland FC,Enyimba Aba,2,1,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Shooting Stars FC,Bayelsa United,0,0,D,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Nasarawa United FC,Lobi Stars,1,0,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Kwara United,Akwa United,2,1,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Abia Warriors FC,Enugu Rangers,3,3,D,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Warri Wolves,Sunshine Stars,3,0,H,NaN,NaN,NaN
-NGA,04/10/2015,16:00,Giwa FC,Kano Pillars,0,0,D,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Giwa FC,Dolphins FC,1,0,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Sharks FC,Wikki Tourists,2,0,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Taraba FC,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Enyimba Aba,Shooting Stars FC,2,1,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Bayelsa United,Nasarawa United FC,1,2,A,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Lobi Stars,Kwara United,2,1,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Akwa United,Abia Warriors FC,1,0,H,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Enugu Rangers,Warri Wolves,1,1,D,NaN,NaN,NaN
-NGA,11/10/2015,16:00,Kano Pillars,Sunshine Stars,2,1,H,NaN,NaN,NaN
-NGA,04/11/2015,16:00,Ifeanyi Uba,El-Kanemi Warriors,2,1,H,NaN,NaN,NaN
-NGA,21/10/2015,16:00,El-Kanemi Warriors,Giwa FC,1,2,A,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Wikki Tourists,Ifeanyi Uba,2,1,H,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Heartland FC,Sharks FC,1,0,H,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Shooting Stars FC,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Nasarawa United FC,Enyimba Aba,0,0,D,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Kwara United,Bayelsa United,1,1,D,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Abia Warriors FC,Lobi Stars,2,0,H,NaN,NaN,NaN
-NGA,21/10/2015,16:00,Dolphins FC,Kano Pillars,2,1,H,NaN,NaN,NaN
-NGA,22/10/2015,08:00,Warri Wolves,Akwa United,3,0,H,NaN,NaN,NaN
-NGA,04/11/2015,16:00,Sunshine Stars,Enugu Rangers,5,1,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Dolphins FC,El-Kanemi Warriors,2,0,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Giwa FC,Wikki Tourists,3,2,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Ifeanyi Uba,Heartland FC,1,0,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Sharks FC,Shooting Stars FC,2,1,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Enyimba Aba,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Bayelsa United,Abia Warriors FC,1,0,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Akwa United,Sunshine Stars,2,1,H,NaN,NaN,NaN
-NGA,28/10/2015,15:00,Kano Pillars,Enugu Rangers,2,1,H,NaN,NaN,NaN
-NGA,29/10/2015,15:00,Lobi Stars,Warri Wolves,1,0,H,NaN,NaN,NaN
-NGA,04/11/2015,15:00,Taraba FC,Nasarawa United FC,0,0,D,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Wikki Tourists,Dolphins FC,2,0,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Heartland FC,Giwa FC,3,2,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Shooting Stars FC,Ifeanyi Uba,2,1,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Nasarawa United FC,Sharks FC,3,0,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Kwara United,Taraba FC,1,0,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Abia Warriors FC,Enyimba Aba,0,1,A,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Warri Wolves,Bayelsa United,4,0,H,NaN,NaN,NaN
-NGA,01/11/2015,15:00,Enugu Rangers,Akwa United,2,2,D,NaN,NaN,NaN
-NGA,01/11/2015,15:00,El-Kanemi Warriors,Kano Pillars,1,0,H,NaN,NaN,NaN
-NGA,11/11/2015,15:00,Sunshine Stars,Lobi Stars,1,1,D,NaN,NaN,NaN
-NGA,08/11/2015,14:00,Kano Pillars,Akwa United,1,0,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,El-Kanemi Warriors,Wikki Tourists,1,0,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Dolphins FC,Heartland FC,2,1,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Giwa FC,Shooting Stars FC,1,0,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Ifeanyi Uba,Nasarawa United FC,0,2,A,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Sharks FC,Kwara United,1,0,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Taraba FC,Abia Warriors FC,2,1,H,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Enyimba Aba,Warri Wolves,0,0,D,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Bayelsa United,Sunshine Stars,1,2,A,NaN,NaN,NaN
-NGA,08/11/2015,16:00,Lobi Stars,Enugu Rangers,2,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Heartland FC,El-Kanemi Warriors,2,1,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Shooting Stars FC,Dolphins FC,2,2,D,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Nasarawa United FC,Giwa FC,2,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Kwara United,Ifeanyi Uba,2,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Abia Warriors FC,Sharks FC,1,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Enugu Rangers,Bayelsa United,3,1,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Akwa United,Lobi Stars,1,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Wikki Tourists,Kano Pillars,2,0,H,NaN,NaN,NaN
-NGA,15/11/2015,15:00,Sunshine Stars,Enyimba Aba,0,0,D,NaN,NaN,NaN
-NGA,16/11/2015,15:00,Warri Wolves,Taraba FC,5,1,H,NaN,NaN,NaN
+NGA,2015-03-08,15:00,Bayelsa United,Lobi Stars,1,1,D,,,
+NGA,2015-03-08,15:00,Dolphins FC,Kwara United,0,0,D,,,
+NGA,2015-03-08,15:00,El-Kanemi Warriors,Nasarawa United FC,1,0,H,,,
+NGA,2015-03-08,15:00,Enyimba Aba,Akwa United,0,0,D,,,
+NGA,2015-03-08,15:00,Taraba FC,Enugu Rangers,3,2,H,,,
+NGA,2015-03-08,15:00,Giwa FC,Abia Warriors FC,0,0,D,,,
+NGA,2015-03-08,15:00,Ifeanyi Uba,Warri Wolves,2,0,H,,,
+NGA,2015-03-08,15:00,Sharks FC,Sunshine Stars,0,0,D,,,
+NGA,2015-03-08,15:00,Wikki Tourists,Shooting Stars FC,2,0,H,,,
+NGA,2015-03-14,15:00,Sunshine Stars,Ifeanyi Uba,2,1,H,,,
+NGA,2015-03-14,15:00,Kano Pillars,Bayelsa United,2,0,H,,,
+NGA,2015-03-15,15:00,Nasarawa United FC,Wikki Tourists,2,0,H,,,
+NGA,2015-03-15,15:00,Enugu Rangers,Sharks FC,2,1,H,,,
+NGA,2015-03-15,15:00,Akwa United,Taraba FC,0,1,A,,,
+NGA,2015-03-15,15:00,Kwara United,El-Kanemi Warriors,2,1,H,,,
+NGA,2015-03-15,15:00,Shooting Stars FC,Heartland FC,1,2,A,,,
+NGA,2015-03-18,15:00,Lobi Stars,Enyimba Aba,1,1,D,,,
+NGA,2015-03-18,15:00,Warri Wolves,Giwa FC,3,0,H,,,
+NGA,2015-03-22,15:00,Enyimba Aba,Bayelsa United,1,0,H,,,
+NGA,2015-03-22,15:00,Taraba FC,Lobi Stars,0,0,D,,,
+NGA,2015-03-22,15:00,Sharks FC,Akwa United,1,0,H,,,
+NGA,2015-03-22,15:00,Ifeanyi Uba,Enugu Rangers,1,0,H,,,
+NGA,2015-03-22,15:00,Giwa FC,Sunshine Stars,1,0,H,,,
+NGA,2015-03-22,15:00,El-Kanemi Warriors,Abia Warriors FC,3,1,H,,,
+NGA,2015-03-22,15:00,Wikki Tourists,Kwara United,1,1,D,,,
+NGA,2015-03-22,15:00,Heartland FC,Nasarawa United FC,5,2,H,,,
+NGA,2015-03-25,15:00,Abia Warriors FC,Dolphins FC,2,1,H,,,
+NGA,2015-04-19,16:00,Bayelsa United,Taraba FC,1,0,H,,,
+NGA,2015-04-19,16:00,Kano Pillars,Enyimba Aba,1,0,H,,,
+NGA,2015-04-19,16:00,Kwara United,Heartland FC,1,3,A,,,
+NGA,2015-04-19,16:00,Abia Warriors FC,Wikki Tourists,1,2,A,,,
+NGA,2015-04-19,16:00,Akwa United,Ifeanyi Uba,1,0,H,,,
+NGA,2015-04-19,16:00,Enugu Rangers,Giwa FC,0,1,A,,,
+NGA,2015-04-19,16:00,Lobi Stars,Sharks FC,2,2,D,,,
+NGA,2015-04-19,16:00,Nasarawa United FC,Shooting Stars FC,0,0,D,,,
+NGA,2015-04-19,16:00,Sunshine Stars,Dolphins FC,2,1,H,,,
+NGA,2015-04-22,16:00,Taraba FC,Enyimba Aba,0,1,A,,,
+NGA,2015-04-22,16:00,Ifeanyi Uba,Lobi Stars,2,0,H,,,
+NGA,2015-04-22,16:00,Giwa FC,Akwa United,4,0,H,,,
+NGA,2015-04-22,16:00,Dolphins FC,Enugu Rangers,1,0,H,,,
+NGA,2015-04-22,16:00,El-Kanemi Warriors,Sunshine Stars,1,0,H,,,
+NGA,2015-04-22,16:00,Wikki Tourists,Warri Wolves,1,0,H,,,
+NGA,2015-04-22,16:00,Heartland FC,Abia Warriors FC,0,1,A,,,
+NGA,2015-04-22,16:00,Shooting Stars FC,Kwara United,2,0,H,,,
+NGA,2015-04-22,16:00,Nasarawa United FC,Kano Pillars,2,1,H,,,
+NGA,2015-04-23,16:00,Sharks FC,Bayelsa United,0,0,D,,,
+NGA,2015-04-26,16:00,Enyimba Aba,Sharks FC,3,2,H,,,
+NGA,2015-04-26,16:00,Bayelsa United,Ifeanyi Uba,0,0,D,,,
+NGA,2015-04-26,16:00,Lobi Stars,Giwa FC,1,1,D,,,
+NGA,2015-04-26,16:00,Akwa United,Dolphins FC,2,0,H,,,
+NGA,2015-04-26,16:00,Enugu Rangers,El-Kanemi Warriors,3,0,H,,,
+NGA,2015-04-26,16:00,Sunshine Stars,Wikki Tourists,3,2,H,,,
+NGA,2015-04-26,16:00,Abia Warriors FC,Shooting Stars FC,1,0,H,,,
+NGA,2015-04-26,16:00,Kwara United,Nasarawa United FC,1,0,H,,,
+NGA,2015-04-26,16:00,Kano Pillars,Taraba FC,2,1,H,,,
+NGA,2015-04-27,,Warri Wolves,Heartland FC,2,0,H,,,
+NGA,2015-04-30,,Heartland FC,Kano Pillars,1,0,H,,,
+NGA,2015-05-03,16:00,Sharks FC,Taraba FC,2,2,D,,,
+NGA,2015-05-03,16:00,Ifeanyi Uba,Enyimba Aba,2,0,H,,,
+NGA,2015-05-03,16:00,Giwa FC,Bayelsa United,3,1,H,,,
+NGA,2015-05-03,16:00,Dolphins FC,Lobi Stars,2,0,H,,,
+NGA,2015-05-03,16:00,El-Kanemi Warriors,Akwa United,1,0,H,,,
+NGA,2015-05-03,16:00,Wikki Tourists,Enugu Rangers,4,2,H,,,
+NGA,2015-05-03,16:00,Heartland FC,Sunshine Stars,0,3,A,,,
+NGA,2015-05-03,16:00,Nasarawa United FC,Abia Warriors FC,2,0,H,,,
+NGA,2015-05-03,16:00,Kwara United,Kano Pillars,1,0,H,,,
+NGA,2015-05-06,15:00,Shooting Stars FC,Kano Pillars,1,0,H,,,
+NGA,2015-05-07,15:00,Dolphins FC,Warri Wolves,0,0,D,,,
+NGA,2015-05-10,16:00,Taraba FC,Ifeanyi Uba,3,3,D,,,
+NGA,2015-05-10,16:00,Enyimba Aba,Giwa FC,0,0,D,,,
+NGA,2015-05-10,16:00,Bayelsa United,Dolphins FC,2,2,D,,,
+NGA,2015-05-10,16:00,Lobi Stars,El-Kanemi Warriors,0,0,D,,,
+NGA,2015-05-10,16:00,Kano Pillars,Sharks FC,2,0,H,,,
+NGA,2015-05-10,16:00,Enugu Rangers,Heartland FC,1,0,H,,,
+NGA,2015-05-10,16:00,Sunshine Stars,Shooting Stars FC,2,0,H,,,
+NGA,2015-05-10,16:00,Warri Wolves,Nasarawa United FC,4,1,H,,,
+NGA,2015-05-10,16:00,Abia Warriors FC,Kwara United,2,0,H,,,
+NGA,2015-05-10,16:00,Akwa United,Wikki Tourists,0,0,D,,,
+NGA,2015-05-17,16:00,Ifeanyi Uba,Sharks FC,1,0,H,,,
+NGA,2015-05-17,16:00,Giwa FC,Taraba FC,0,0,D,,,
+NGA,2015-05-17,16:00,Dolphins FC,Enyimba Aba,1,2,A,,,
+NGA,2015-05-17,16:00,El-Kanemi Warriors,Bayelsa United,1,0,H,,,
+NGA,2015-05-17,16:00,Wikki Tourists,Lobi Stars,1,0,H,,,
+NGA,2015-05-17,16:00,Heartland FC,Akwa United,2,0,H,,,
+NGA,2015-05-17,16:00,Shooting Stars FC,Enugu Rangers,1,1,D,,,
+NGA,2015-05-17,16:00,Nasarawa United FC,Sunshine Stars,1,1,D,,,
+NGA,2015-05-17,16:00,Abia Warriors FC,Kano Pillars,0,1,A,,,
+NGA,2015-05-20,16:00,Sharks FC,Giwa FC,1,1,D,,,
+NGA,2015-05-20,16:00,Taraba FC,Dolphins FC,1,1,D,,,
+NGA,2015-05-20,16:00,Enyimba Aba,El-Kanemi Warriors,3,1,H,,,
+NGA,2015-05-20,16:00,Bayelsa United,Wikki Tourists,1,0,H,,,
+NGA,2015-05-20,16:00,Lobi Stars,Heartland FC,1,0,H,,,
+NGA,2015-05-20,16:00,Akwa United,Shooting Stars FC,2,1,H,,,
+NGA,2015-05-20,16:00,Enugu Rangers,Nasarawa United FC,0,0,D,,,
+NGA,2015-05-20,16:00,Sunshine Stars,Kwara United,1,0,H,,,
+NGA,2015-05-20,16:00,Kano Pillars,Ifeanyi Uba,2,1,H,,,
+NGA,2015-05-22,16:00,Warri Wolves,Abia Warriors FC,3,2,H,,,
+NGA,2015-06-14,16:00,Giwa FC,Ifeanyi Uba,2,0,H,,,
+NGA,2015-06-14,16:00,Dolphins FC,Sharks FC,1,1,D,,,
+NGA,2015-06-14,16:00,El-Kanemi Warriors,Taraba FC,2,1,H,,,
+NGA,2015-06-14,16:00,Wikki Tourists,Enyimba Aba,0,0,D,,,
+NGA,2015-06-14,16:00,Heartland FC,Bayelsa United,4,1,H,,,
+NGA,2015-06-14,16:00,Shooting Stars FC,Lobi Stars,3,0,H,,,
+NGA,2015-06-14,16:00,Nasarawa United FC,Akwa United,1,0,H,,,
+NGA,2015-06-14,16:00,Kwara United,Enugu Rangers,3,1,H,,,
+NGA,2015-06-14,16:00,Abia Warriors FC,Sunshine Stars,3,2,H,,,
+NGA,2015-06-15,16:00,Warri Wolves,Kano Pillars,1,0,H,,,
+NGA,2015-06-17,16:00,Ifeanyi Uba,Dolphins FC,1,0,H,,,
+NGA,2015-06-17,16:00,Sharks FC,El-Kanemi Warriors,0,0,D,,,
+NGA,2015-06-17,16:00,Enyimba Aba,Heartland FC,2,0,H,,,
+NGA,2015-06-17,16:00,Bayelsa United,Shooting Stars FC,0,0,D,,,
+NGA,2015-06-17,16:00,Lobi Stars,Nasarawa United FC,2,1,H,,,
+NGA,2015-06-17,16:00,Akwa United,Kwara United,2,1,H,,,
+NGA,2015-06-17,16:00,Enugu Rangers,Abia Warriors FC,1,0,H,,,
+NGA,2015-06-18,16:00,Taraba FC,Wikki Tourists,1,2,A,,,
+NGA,2015-06-18,16:00,Sunshine Stars,Warri Wolves,2,1,H,,,
+NGA,2015-06-18,16:00,Kano Pillars,Giwa FC,4,1,H,,,
+NGA,2015-06-21,16:00,Dolphins FC,Giwa FC,1,1,D,,,
+NGA,2015-06-21,16:00,El-Kanemi Warriors,Ifeanyi Uba,1,4,A,,,
+NGA,2015-06-21,16:00,Wikki Tourists,Sharks FC,3,0,H,,,
+NGA,2015-06-21,16:00,Heartland FC,Taraba FC,2,0,H,,,
+NGA,2015-06-21,16:00,Shooting Stars FC,Enyimba Aba,0,0,D,,,
+NGA,2015-06-21,16:00,Nasarawa United FC,Bayelsa United,1,0,H,,,
+NGA,2015-06-21,16:00,Kwara United,Lobi Stars,1,1,D,,,
+NGA,2015-06-21,16:00,Abia Warriors FC,Akwa United,1,0,H,,,
+NGA,2015-06-21,16:00,Warri Wolves,Enugu Rangers,0,1,A,,,
+NGA,2015-06-21,16:00,Sunshine Stars,Kano Pillars,3,0,H,,,
+NGA,2015-06-28,16:00,Giwa FC,El-Kanemi Warriors,3,1,H,,,
+NGA,2015-06-28,16:00,Ifeanyi Uba,Wikki Tourists,0,1,A,,,
+NGA,2015-06-28,16:00,Sharks FC,Heartland FC,1,1,D,,,
+NGA,2015-06-28,16:00,Taraba FC,Shooting Stars FC,1,1,D,,,
+NGA,2015-06-28,16:00,Enyimba Aba,Nasarawa United FC,2,0,H,,,
+NGA,2015-06-28,16:00,Bayelsa United,Kwara United,2,0,H,,,
+NGA,2015-06-28,16:00,Lobi Stars,Abia Warriors FC,2,0,H,,,
+NGA,2015-06-28,16:00,Akwa United,Warri Wolves,1,1,D,,,
+NGA,2015-06-28,16:00,Enugu Rangers,Sunshine Stars,1,0,H,,,
+NGA,2015-06-28,16:00,Kano Pillars,Dolphins FC,2,2,D,,,
+NGA,2015-07-01,16:00,El-Kanemi Warriors,Dolphins FC,1,0,H,,,
+NGA,2015-07-01,16:00,Wikki Tourists,Giwa FC,1,1,D,,,
+NGA,2015-07-01,16:00,Heartland FC,Ifeanyi Uba,1,0,H,,,
+NGA,2015-07-01,16:00,Shooting Stars FC,Sharks FC,1,0,H,,,
+NGA,2015-07-01,16:00,Nasarawa United FC,Taraba FC,2,0,H,,,
+NGA,2015-07-01,16:00,Kwara United,Enyimba Aba,2,3,A,,,
+NGA,2015-07-01,16:00,Abia Warriors FC,Bayelsa United,3,1,H,,,
+NGA,2015-07-01,16:00,Warri Wolves,Lobi Stars,1,0,H,,,
+NGA,2015-07-01,16:00,Sunshine Stars,Akwa United,3,1,H,,,
+NGA,2015-07-01,16:00,Enugu Rangers,Kano Pillars,2,1,H,,,
+NGA,2015-07-05,16:00,Dolphins FC,Wikki Tourists,1,1,D,,,
+NGA,2015-07-05,16:00,Giwa FC,Heartland FC,2,1,H,,,
+NGA,2015-07-05,16:00,Ifeanyi Uba,Shooting Stars FC,1,0,H,,,
+NGA,2015-07-05,16:00,Sharks FC,Nasarawa United FC,0,0,D,,,
+NGA,2015-07-05,16:00,Taraba FC,Kwara United,0,0,D,,,
+NGA,2015-07-05,16:00,Enyimba Aba,Abia Warriors FC,2,2,D,,,
+NGA,2015-07-05,16:00,Bayelsa United,Warri Wolves,2,0,H,,,
+NGA,2015-07-05,16:00,Lobi Stars,Sunshine Stars,1,1,D,,,
+NGA,2015-07-05,16:00,Akwa United,Enugu Rangers,2,0,H,,,
+NGA,2015-07-05,16:00,Kano Pillars,El-Kanemi Warriors,1,0,H,,,
+NGA,2015-07-08,16:00,Shooting Stars FC,Warri Wolves,2,1,H,,,
+NGA,2015-07-12,16:00,Wikki Tourists,El-Kanemi Warriors,2,1,H,,,
+NGA,2015-07-12,16:00,Heartland FC,Dolphins FC,3,1,H,,,
+NGA,2015-07-12,16:00,Shooting Stars FC,Giwa FC,3,0,H,,,
+NGA,2015-07-12,16:00,Nasarawa United FC,Ifeanyi Uba,1,1,D,,,
+NGA,2015-07-12,16:00,Kwara United,Sharks FC,0,1,A,,,
+NGA,2015-07-12,16:00,Abia Warriors FC,Taraba FC,3,1,H,,,
+NGA,2015-07-12,16:00,Warri Wolves,Enyimba Aba,2,1,H,,,
+NGA,2015-07-12,16:00,Sunshine Stars,Bayelsa United,2,0,H,,,
+NGA,2015-07-12,16:00,Enugu Rangers,Lobi Stars,3,1,H,,,
+NGA,2015-07-12,16:00,Akwa United,Kano Pillars,1,0,H,,,
+NGA,2015-07-15,14:00,El-Kanemi Warriors,Heartland FC,1,1,D,,,
+NGA,2015-07-15,16:00,Kano Pillars,Wikki Tourists,1,1,D,,,
+NGA,2015-07-15,16:00,Dolphins FC,Shooting Stars FC,1,0,H,,,
+NGA,2015-07-15,16:00,Giwa FC,Nasarawa United FC,2,1,H,,,
+NGA,2015-07-15,16:00,Ifeanyi Uba,Kwara United,1,2,A,,,
+NGA,2015-07-15,16:00,Sharks FC,Abia Warriors FC,2,0,H,,,
+NGA,2015-07-15,16:00,Enyimba Aba,Sunshine Stars,3,1,H,,,
+NGA,2015-07-15,16:00,Bayelsa United,Enugu Rangers,0,0,D,,,
+NGA,2015-07-15,16:00,Lobi Stars,Akwa United,1,0,H,,,
+NGA,2015-07-16,16:00,Taraba FC,Warri Wolves,1,2,A,,,
+NGA,2015-07-18,16:00,Nasarawa United FC,Dolphins FC,1,0,H,,,
+NGA,2015-07-19,16:00,Lobi Stars,Kano Pillars,3,3,D,,,
+NGA,2015-07-19,16:00,Heartland FC,Wikki Tourists,4,0,H,,,
+NGA,2015-07-19,16:00,Shooting Stars FC,El-Kanemi Warriors,2,1,H,,,
+NGA,2015-07-19,16:00,Kwara United,Giwa FC,3,1,H,,,
+NGA,2015-07-19,16:00,Abia Warriors FC,Ifeanyi Uba,1,0,H,,,
+NGA,2015-07-19,16:00,Warri Wolves,Sharks FC,2,1,H,,,
+NGA,2015-07-19,16:00,Sunshine Stars,Taraba FC,2,1,H,,,
+NGA,2015-07-19,16:00,Enugu Rangers,Enyimba Aba,1,2,A,,,
+NGA,2015-07-19,16:00,Akwa United,Bayelsa United,1,0,H,,,
+NGA,2015-07-26,16:00,Warri Wolves,El-Kanemi Warriors,5,0,H,,,
+NGA,2015-07-29,16:00,Kwara United,Warri Wolves,1,1,D,,,
+NGA,2015-08-02,16:00,El-Kanemi Warriors,Shooting Stars FC,1,0,H,,,
+NGA,2015-08-02,16:00,Wikki Tourists,Heartland FC,0,0,D,,,
+NGA,2015-08-02,16:00,Dolphins FC,Nasarawa United FC,3,1,H,,,
+NGA,2015-08-02,16:00,Giwa FC,Kwara United,1,0,H,,,
+NGA,2015-08-02,16:00,Ifeanyi Uba,Abia Warriors FC,1,1,D,,,
+NGA,2015-08-02,16:00,Sharks FC,Warri Wolves,2,1,H,,,
+NGA,2015-08-02,16:00,Taraba FC,Sunshine Stars,1,0,H,,,
+NGA,2015-08-02,16:00,Enyimba Aba,Enugu Rangers,1,1,D,,,
+NGA,2015-08-02,16:00,Bayelsa United,Akwa United,1,1,D,,,
+NGA,2015-08-02,16:00,Kano Pillars,Lobi Stars,2,1,H,,,
+NGA,2015-08-05,12:00,Nasarawa United FC,El-Kanemi Warriors,4,2,H,,,
+NGA,2015-08-05,16:00,Lobi Stars,Bayelsa United,3,0,H,,,
+NGA,2015-08-05,16:00,Akwa United,Enyimba Aba,2,2,D,,,
+NGA,2015-08-05,16:00,Enugu Rangers,Taraba FC,1,0,H,,,
+NGA,2015-08-05,16:00,Warri Wolves,Ifeanyi Uba,3,0,H,,,
+NGA,2015-08-05,16:00,Abia Warriors FC,Giwa FC,2,0,H,,,
+NGA,2015-08-05,16:00,Kwara United,Dolphins FC,2,1,H,,,
+NGA,2015-08-05,16:00,Shooting Stars FC,Wikki Tourists,2,1,H,,,
+NGA,2015-08-05,16:00,Kano Pillars,Heartland FC,2,1,H,,,
+NGA,2015-08-06,16:00,Sunshine Stars,Sharks FC,2,0,H,,,
+NGA,2015-08-09,16:00,Enyimba Aba,Lobi Stars,2,1,H,,,
+NGA,2015-08-09,16:00,Taraba FC,Akwa United,1,0,H,,,
+NGA,2015-08-09,16:00,Giwa FC,Warri Wolves,1,1,D,,,
+NGA,2015-08-09,16:00,Dolphins FC,Abia Warriors FC,1,1,D,,,
+NGA,2015-08-09,16:00,El-Kanemi Warriors,Kwara United,2,0,H,,,
+NGA,2015-08-09,16:00,Wikki Tourists,Nasarawa United FC,0,0,D,,,
+NGA,2015-08-09,16:00,Bayelsa United,Kano Pillars,1,1,D,,,
+NGA,2015-08-10,09:00,Heartland FC,Shooting Stars FC,1,3,A,,,
+NGA,2015-08-10,12:00,Ifeanyi Uba,Sunshine Stars,0,0,D,,,
+NGA,2015-08-10,16:00,Sharks FC,Enugu Rangers,1,1,D,,,
+NGA,2015-08-16,16:00,Lobi Stars,Taraba FC,2,1,H,,,
+NGA,2015-08-16,16:00,Bayelsa United,Enyimba Aba,1,1,D,,,
+NGA,2015-08-16,16:00,Nasarawa United FC,Heartland FC,2,0,H,,,
+NGA,2015-08-16,16:00,Akwa United,Sharks FC,3,1,H,,,
+NGA,2015-08-16,16:00,Enugu Rangers,Ifeanyi Uba,2,3,A,,,
+NGA,2015-08-16,16:00,Sunshine Stars,Giwa FC,4,0,H,,,
+NGA,2015-08-16,16:00,Warri Wolves,Dolphins FC,1,0,H,,,
+NGA,2015-08-16,16:00,Abia Warriors FC,El-Kanemi Warriors,1,0,H,,,
+NGA,2015-08-16,16:00,Kwara United,Wikki Tourists,0,1,A,,,
+NGA,2015-08-16,16:00,Kano Pillars,Shooting Stars FC,4,1,H,,,
+NGA,2015-08-19,16:00,Taraba FC,Bayelsa United,0,0,D,,,
+NGA,2015-08-19,16:00,Dolphins FC,Sunshine Stars,1,0,H,,,
+NGA,2015-08-19,16:00,El-Kanemi Warriors,Warri Wolves,0,0,D,,,
+NGA,2015-08-19,16:00,Wikki Tourists,Abia Warriors FC,2,0,H,,,
+NGA,2015-08-19,16:00,Heartland FC,Kwara United,1,0,H,,,
+NGA,2015-08-19,16:00,Enyimba Aba,Kano Pillars,1,0,H,,,
+NGA,2015-08-23,16:00,Bayelsa United,Sharks FC,0,1,A,,,
+NGA,2015-08-23,16:00,Lobi Stars,Ifeanyi Uba,1,0,H,,,
+NGA,2015-08-23,16:00,Akwa United,Giwa FC,2,2,D,,,
+NGA,2015-08-23,16:00,Enugu Rangers,Dolphins FC,1,1,D,,,
+NGA,2015-08-23,16:00,Sunshine Stars,El-Kanemi Warriors,5,0,H,,,
+NGA,2015-08-23,16:00,Warri Wolves,Wikki Tourists,1,0,H,,,
+NGA,2015-08-23,16:00,Abia Warriors FC,Heartland FC,1,0,H,,,
+NGA,2015-08-23,16:00,Kwara United,Shooting Stars FC,1,0,H,,,
+NGA,2015-08-23,16:00,Kano Pillars,Nasarawa United FC,1,2,A,,,
+NGA,2015-08-24,10:00,Enyimba Aba,Taraba FC,1,0,H,,,
+NGA,2015-08-26,16:00,Sharks FC,Lobi Stars,0,0,D,,,
+NGA,2015-08-26,16:00,Ifeanyi Uba,Akwa United,2,0,H,,,
+NGA,2015-08-26,16:00,Giwa FC,Enugu Rangers,1,0,H,,,
+NGA,2015-08-26,16:00,Shooting Stars FC,Nasarawa United FC,2,1,H,,,
+NGA,2015-08-30,16:00,Sharks FC,Enyimba Aba,0,0,D,,,
+NGA,2015-08-30,16:00,Ifeanyi Uba,Bayelsa United,1,0,H,,,
+NGA,2015-08-30,16:00,Giwa FC,Lobi Stars,2,0,H,,,
+NGA,2015-08-30,16:00,Dolphins FC,Akwa United,2,0,H,,,
+NGA,2015-08-30,16:00,El-Kanemi Warriors,Enugu Rangers,2,2,D,,,
+NGA,2015-08-30,16:00,Wikki Tourists,Sunshine Stars,2,1,H,,,
+NGA,2015-08-30,16:00,Heartland FC,Warri Wolves,1,0,H,,,
+NGA,2015-08-30,16:00,Shooting Stars FC,Abia Warriors FC,2,0,H,,,
+NGA,2015-08-30,16:00,Nasarawa United FC,Kwara United,3,0,H,,,
+NGA,2015-08-30,16:00,Taraba FC,Kano Pillars,1,0,H,,,
+NGA,2015-09-02,16:00,Taraba FC,Sharks FC,2,0,H,,,
+NGA,2015-09-02,16:00,Enyimba Aba,Ifeanyi Uba,4,0,H,,,
+NGA,2015-09-02,16:00,Lobi Stars,Dolphins FC,1,0,H,,,
+NGA,2015-09-02,16:00,Akwa United,El-Kanemi Warriors,1,1,D,,,
+NGA,2015-09-02,16:00,Enugu Rangers,Wikki Tourists,2,0,H,,,
+NGA,2015-09-02,16:00,Sunshine Stars,Heartland FC,0,0,D,,,
+NGA,2015-09-02,16:00,Warri Wolves,Shooting Stars FC,4,0,H,,,
+NGA,2015-09-02,16:00,Abia Warriors FC,Nasarawa United FC,1,0,H,,,
+NGA,2015-09-02,16:00,Kano Pillars,Kwara United,1,0,H,,,
+NGA,2015-09-02,16:30,Bayelsa United,Giwa FC,1,1,D,,,
+NGA,2015-09-06,16:00,Ifeanyi Uba,Taraba FC,2,0,H,,,
+NGA,2015-09-06,16:00,Giwa FC,Enyimba Aba,1,0,H,,,
+NGA,2015-09-06,16:00,El-Kanemi Warriors,Lobi Stars,2,1,H,,,
+NGA,2015-09-06,16:00,Wikki Tourists,Akwa United,3,1,H,,,
+NGA,2015-09-06,16:00,Shooting Stars FC,Sunshine Stars,2,1,H,,,
+NGA,2015-09-06,16:00,Nasarawa United FC,Warri Wolves,1,1,D,,,
+NGA,2015-09-06,16:00,Kwara United,Abia Warriors FC,1,0,H,,,
+NGA,2015-09-06,16:50,Heartland FC,Enugu Rangers,2,0,H,,,
+NGA,2015-09-07,16:00,Dolphins FC,Bayelsa United,2,0,H,,,
+NGA,2015-09-07,16:00,Sharks FC,Kano Pillars,1,0,H,,,
+NGA,2015-09-13,16:00,Sharks FC,Ifeanyi Uba,1,0,H,,,
+NGA,2015-09-13,16:00,Taraba FC,Giwa FC,1,0,H,,,
+NGA,2015-09-13,16:00,Enyimba Aba,Dolphins FC,2,0,H,,,
+NGA,2015-09-13,16:00,Bayelsa United,El-Kanemi Warriors,4,1,H,,,
+NGA,2015-09-13,16:00,Lobi Stars,Wikki Tourists,1,1,D,,,
+NGA,2015-09-13,16:00,Akwa United,Heartland FC,1,0,H,,,
+NGA,2015-09-13,16:00,Enugu Rangers,Shooting Stars FC,2,1,H,,,
+NGA,2015-09-13,16:00,Sunshine Stars,Nasarawa United FC,2,3,A,,,
+NGA,2015-09-13,16:00,Warri Wolves,Kwara United,3,0,H,,,
+NGA,2015-09-13,16:00,Kano Pillars,Abia Warriors FC,3,0,H,,,
+NGA,2015-09-20,16:00,Giwa FC,Sharks FC,1,0,H,,,
+NGA,2015-09-20,16:00,Dolphins FC,Taraba FC,3,1,H,,,
+NGA,2015-09-20,16:00,El-Kanemi Warriors,Enyimba Aba,2,1,H,,,
+NGA,2015-09-20,16:00,Wikki Tourists,Bayelsa United,2,0,H,,,
+NGA,2015-09-20,16:00,Heartland FC,Lobi Stars,0,0,D,,,
+NGA,2015-09-20,16:00,Shooting Stars FC,Akwa United,1,0,H,,,
+NGA,2015-09-20,16:00,Nasarawa United FC,Enugu Rangers,1,0,H,,,
+NGA,2015-09-20,16:00,Kwara United,Sunshine Stars,1,2,A,,,
+NGA,2015-09-20,16:00,Abia Warriors FC,Warri Wolves,2,1,H,,,
+NGA,2015-09-20,16:00,Ifeanyi Uba,Kano Pillars,1,1,D,,,
+NGA,2015-09-25,19:00,Akwa United,Nasarawa United FC,2,0,H,,,
+NGA,2015-09-27,16:00,Ifeanyi Uba,Giwa FC,1,1,D,,,
+NGA,2015-09-27,16:00,Sharks FC,Dolphins FC,1,0,H,,,
+NGA,2015-09-27,16:00,Taraba FC,El-Kanemi Warriors,1,1,D,,,
+NGA,2015-09-27,16:00,Enyimba Aba,Wikki Tourists,2,0,H,,,
+NGA,2015-09-27,16:00,Lobi Stars,Shooting Stars FC,0,0,D,,,
+NGA,2015-09-27,16:00,Enugu Rangers,Kwara United,2,1,H,,,
+NGA,2015-09-27,16:00,Sunshine Stars,Abia Warriors FC,1,0,H,,,
+NGA,2015-09-27,16:00,Kano Pillars,Warri Wolves,1,1,D,,,
+NGA,2015-09-28,09:00,Bayelsa United,Heartland FC,3,1,H,,,
+NGA,2015-10-04,16:00,Dolphins FC,Ifeanyi Uba,0,0,D,,,
+NGA,2015-10-04,16:00,El-Kanemi Warriors,Sharks FC,2,0,H,,,
+NGA,2015-10-04,16:00,Wikki Tourists,Taraba FC,1,0,H,,,
+NGA,2015-10-04,16:00,Heartland FC,Enyimba Aba,2,1,H,,,
+NGA,2015-10-04,16:00,Shooting Stars FC,Bayelsa United,0,0,D,,,
+NGA,2015-10-04,16:00,Nasarawa United FC,Lobi Stars,1,0,H,,,
+NGA,2015-10-04,16:00,Kwara United,Akwa United,2,1,H,,,
+NGA,2015-10-04,16:00,Abia Warriors FC,Enugu Rangers,3,3,D,,,
+NGA,2015-10-04,16:00,Warri Wolves,Sunshine Stars,3,0,H,,,
+NGA,2015-10-04,16:00,Giwa FC,Kano Pillars,0,0,D,,,
+NGA,2015-10-11,16:00,Giwa FC,Dolphins FC,1,0,H,,,
+NGA,2015-10-11,16:00,Sharks FC,Wikki Tourists,2,0,H,,,
+NGA,2015-10-11,16:00,Taraba FC,Heartland FC,1,0,H,,,
+NGA,2015-10-11,16:00,Enyimba Aba,Shooting Stars FC,2,1,H,,,
+NGA,2015-10-11,16:00,Bayelsa United,Nasarawa United FC,1,2,A,,,
+NGA,2015-10-11,16:00,Lobi Stars,Kwara United,2,1,H,,,
+NGA,2015-10-11,16:00,Akwa United,Abia Warriors FC,1,0,H,,,
+NGA,2015-10-11,16:00,Enugu Rangers,Warri Wolves,1,1,D,,,
+NGA,2015-10-11,16:00,Kano Pillars,Sunshine Stars,2,1,H,,,
+NGA,2015-10-21,16:00,El-Kanemi Warriors,Giwa FC,1,2,A,,,
+NGA,2015-10-21,16:00,Wikki Tourists,Ifeanyi Uba,2,1,H,,,
+NGA,2015-10-21,16:00,Heartland FC,Sharks FC,1,0,H,,,
+NGA,2015-10-21,16:00,Shooting Stars FC,Taraba FC,1,0,H,,,
+NGA,2015-10-21,16:00,Nasarawa United FC,Enyimba Aba,0,0,D,,,
+NGA,2015-10-21,16:00,Kwara United,Bayelsa United,1,1,D,,,
+NGA,2015-10-21,16:00,Abia Warriors FC,Lobi Stars,2,0,H,,,
+NGA,2015-10-21,16:00,Dolphins FC,Kano Pillars,2,1,H,,,
+NGA,2015-10-22,08:00,Warri Wolves,Akwa United,3,0,H,,,
+NGA,2015-10-28,15:00,Dolphins FC,El-Kanemi Warriors,2,0,H,,,
+NGA,2015-10-28,15:00,Giwa FC,Wikki Tourists,3,2,H,,,
+NGA,2015-10-28,15:00,Ifeanyi Uba,Heartland FC,1,0,H,,,
+NGA,2015-10-28,15:00,Sharks FC,Shooting Stars FC,2,1,H,,,
+NGA,2015-10-28,15:00,Enyimba Aba,Kwara United,1,0,H,,,
+NGA,2015-10-28,15:00,Bayelsa United,Abia Warriors FC,1,0,H,,,
+NGA,2015-10-28,15:00,Akwa United,Sunshine Stars,2,1,H,,,
+NGA,2015-10-28,15:00,Kano Pillars,Enugu Rangers,2,1,H,,,
+NGA,2015-10-29,15:00,Lobi Stars,Warri Wolves,1,0,H,,,
+NGA,2015-11-01,15:00,Wikki Tourists,Dolphins FC,2,0,H,,,
+NGA,2015-11-01,15:00,Heartland FC,Giwa FC,3,2,H,,,
+NGA,2015-11-01,15:00,Shooting Stars FC,Ifeanyi Uba,2,1,H,,,
+NGA,2015-11-01,15:00,Nasarawa United FC,Sharks FC,3,0,H,,,
+NGA,2015-11-01,15:00,Kwara United,Taraba FC,1,0,H,,,
+NGA,2015-11-01,15:00,Abia Warriors FC,Enyimba Aba,0,1,A,,,
+NGA,2015-11-01,15:00,Warri Wolves,Bayelsa United,4,0,H,,,
+NGA,2015-11-01,15:00,Enugu Rangers,Akwa United,2,2,D,,,
+NGA,2015-11-01,15:00,El-Kanemi Warriors,Kano Pillars,1,0,H,,,
+NGA,2015-11-04,15:00,Taraba FC,Nasarawa United FC,0,0,D,,,
+NGA,2015-11-04,16:00,Ifeanyi Uba,El-Kanemi Warriors,2,1,H,,,
+NGA,2015-11-04,16:00,Sunshine Stars,Enugu Rangers,5,1,H,,,
+NGA,2015-11-08,14:00,Kano Pillars,Akwa United,1,0,H,,,
+NGA,2015-11-08,16:00,El-Kanemi Warriors,Wikki Tourists,1,0,H,,,
+NGA,2015-11-08,16:00,Dolphins FC,Heartland FC,2,1,H,,,
+NGA,2015-11-08,16:00,Giwa FC,Shooting Stars FC,1,0,H,,,
+NGA,2015-11-08,16:00,Ifeanyi Uba,Nasarawa United FC,0,2,A,,,
+NGA,2015-11-08,16:00,Sharks FC,Kwara United,1,0,H,,,
+NGA,2015-11-08,16:00,Taraba FC,Abia Warriors FC,2,1,H,,,
+NGA,2015-11-08,16:00,Enyimba Aba,Warri Wolves,0,0,D,,,
+NGA,2015-11-08,16:00,Bayelsa United,Sunshine Stars,1,2,A,,,
+NGA,2015-11-08,16:00,Lobi Stars,Enugu Rangers,2,0,H,,,
+NGA,2015-11-11,15:00,Sunshine Stars,Lobi Stars,1,1,D,,,
+NGA,2015-11-15,15:00,Heartland FC,El-Kanemi Warriors,2,1,H,,,
+NGA,2015-11-15,15:00,Shooting Stars FC,Dolphins FC,2,2,D,,,
+NGA,2015-11-15,15:00,Nasarawa United FC,Giwa FC,2,0,H,,,
+NGA,2015-11-15,15:00,Kwara United,Ifeanyi Uba,2,0,H,,,
+NGA,2015-11-15,15:00,Abia Warriors FC,Sharks FC,1,0,H,,,
+NGA,2015-11-15,15:00,Enugu Rangers,Bayelsa United,3,1,H,,,
+NGA,2015-11-15,15:00,Akwa United,Lobi Stars,1,0,H,,,
+NGA,2015-11-15,15:00,Wikki Tourists,Kano Pillars,2,0,H,,,
+NGA,2015-11-15,15:00,Sunshine Stars,Enyimba Aba,0,0,D,,,
+NGA,2015-11-16,15:00,Warri Wolves,Taraba FC,5,1,H,,,

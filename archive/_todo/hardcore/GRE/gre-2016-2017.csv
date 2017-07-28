@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GRE,2016-09-10,14:00,AO Kerkyra,Platanias Chanion,0,1,A,0,1,A
+GRE,2016-09-10,16:15,Panionios GSS,Asteras Tripolis,3,0,H,1,0,H
+GRE,2016-09-10,18:30,Levadiakos,Panathinaikos,0,3,A,0,2,A
+GRE,2016-09-11,14:00,AEK Athen,Skoda Xanthi,4,1,H,3,1,H
+GRE,2016-09-11,16:15,PAS Giannina,Atromitos,3,0,H,2,0,H
+GRE,2016-09-11,16:15,PAOK Saloniki,Panetolikos,2,1,H,2,0,H
+GRE,2016-09-11,18:30,Olympiakos Piräus,Veria FC,6,1,H,3,0,H
+GRE,2016-09-12,17:30,AE Larisa,AEP Iraklis FC,2,2,D,1,1,D
+GRE,2016-09-17,14:00,Skoda Xanthi,Panionios GSS,0,2,A,0,2,A
+GRE,2016-09-17,16:15,Platanias Chanion,Levadiakos,3,2,H,3,1,H
+GRE,2016-09-17,18:00,Veria FC,AEK Athen,0,2,A,0,1,A
+GRE,2016-09-18,14:00,Panathinaikos,PAS Giannina,4,0,H,1,0,H
+GRE,2016-09-18,16:15,Atromitos,Panetolikos,0,2,A,0,1,A
+GRE,2016-09-18,16:15,AO Kerkyra,AE Larisa,2,0,H,2,0,H
+GRE,2016-09-18,18:30,AEP Iraklis FC,Olympiakos Piräus,1,2,A,1,0,H
+GRE,2016-09-19,17:30,Asteras Tripolis,PAOK Saloniki,1,2,A,0,2,A
+GRE,2016-09-24,14:00,PAS Giannina,Platanias Chanion,0,0,D,0,0,D
+GRE,2016-09-24,16:15,Panionios GSS,Veria FC,1,2,A,0,2,A
+GRE,2016-09-24,18:30,Panetolikos,Panathinaikos,0,0,D,0,0,D
+GRE,2016-09-25,14:00,PAOK Saloniki,Skoda Xanthi,0,0,D,0,0,D
+GRE,2016-09-25,16:15,Atromitos,Asteras Tripolis,1,0,H,1,0,H
+GRE,2016-09-25,16:15,Levadiakos,AO Kerkyra,2,1,H,2,0,H
+GRE,2016-09-25,18:30,AE Larisa,Olympiakos Piräus,1,0,H,0,0,D
+GRE,2016-09-26,17:30,AEK Athen,AEP Iraklis FC,0,0,D,0,0,D
+GRE,2016-10-01,14:00,AO Kerkyra,PAS Giannina,0,1,A,0,0,D
+GRE,2016-10-01,16:15,Levadiakos,AE Larisa,1,1,D,0,0,D
+GRE,2016-10-01,18:30,AEP Iraklis FC,Panionios GSS,1,2,A,0,1,A
+GRE,2016-10-02,14:00,Veria FC,PAOK Saloniki,0,0,D,0,0,D
+GRE,2016-10-02,16:15,Panathinaikos,Asteras Tripolis,3,1,H,2,0,H
+GRE,2016-10-02,16:15,Platanias Chanion,Panetolikos,0,0,D,0,0,D
+GRE,2016-10-02,18:30,Olympiakos Piräus,AEK Athen,3,0,H,1,0,H
+GRE,2016-10-03,17:30,Skoda Xanthi,Atromitos,0,0,D,0,0,D
+GRE,2016-10-15,14:00,Panetolikos,AO Kerkyra,4,0,H,2,0,H
+GRE,2016-10-15,16:15,Asteras Tripolis,Platanias Chanion,2,0,H,0,0,D
+GRE,2016-10-15,18:30,Panionios GSS,Olympiakos Piräus,0,2,A,0,1,A
+GRE,2016-10-16,14:00,Panathinaikos,Skoda Xanthi,1,2,A,0,1,A
+GRE,2016-10-16,16:15,Atromitos,Veria FC,1,0,H,1,0,H
+GRE,2016-10-16,18:30,PAOK Saloniki,AEP Iraklis FC,1,0,H,1,0,H
+GRE,2016-10-17,17:30,AE Larisa,AEK Athen,1,2,A,1,2,A
+GRE,2016-10-22,14:00,AO Kerkyra,Asteras Tripolis,2,0,H,2,0,H
+GRE,2016-10-22,16:15,Platanias Chanion,Skoda Xanthi,0,1,A,0,1,A
+GRE,2016-10-22,18:30,AEK Athen,Panionios GSS,0,0,D,0,0,D
+GRE,2016-10-23,14:00,AEP Iraklis FC,Atromitos,1,2,A,0,0,D
+GRE,2016-10-23,16:15,PAS Giannina,AE Larisa,4,0,H,2,0,H
+GRE,2016-10-23,16:15,Levadiakos,Panetolikos,2,1,H,1,0,H
+GRE,2016-10-23,18:30,Olympiakos Piräus,PAOK Saloniki,2,1,H,1,1,D
+GRE,2016-10-24,17:30,Veria FC,Panathinaikos,1,1,D,0,1,A
+GRE,2016-10-29,13:00,AE Larisa,Panionios GSS,2,0,H,1,0,H
+GRE,2016-10-29,15:15,Skoda Xanthi,AO Kerkyra,0,0,D,0,0,D
+GRE,2016-10-29,17:30,Atromitos,Olympiakos Piräus,0,1,A,0,0,D
+GRE,2016-10-30,13:00,Panathinaikos,AEP Iraklis FC,2,0,H,0,0,D
+GRE,2016-10-30,15:15,Asteras Tripolis,Levadiakos,1,0,H,1,0,H
+GRE,2016-10-30,15:15,Veria FC,Platanias Chanion,0,0,D,0,0,D
+GRE,2016-10-30,17:30,PAOK Saloniki,AEK Athen,1,0,H,0,0,D
+GRE,2016-10-31,17:30,Panetolikos,PAS Giannina,1,2,A,1,0,H
+GRE,2016-11-05,13:00,PAS Giannina,Asteras Tripolis,1,2,A,0,0,D
+GRE,2016-11-05,15:15,Levadiakos,Skoda Xanthi,1,1,D,0,1,A
+GRE,2016-11-05,17:30,AEK Athen,Atromitos,2,2,D,1,0,H
+GRE,2016-11-06,13:00,Panetolikos,AE Larisa,2,1,H,1,0,H
+GRE,2016-11-06,15:15,AO Kerkyra,Veria FC,2,0,H,0,0,D
+GRE,2016-11-06,15:15,Panionios GSS,PAOK Saloniki,1,0,H,1,0,H
+GRE,2016-11-06,17:30,Olympiakos Piräus,Panathinaikos,3,0,H,3,0,H
+GRE,2016-11-07,17:30,AEP Iraklis FC,Platanias Chanion,1,1,D,0,1,A
+GRE,2016-11-23,15:15,PAS Giannina,Levadiakos,0,0,D,0,0,D
+GRE,2016-11-26,13:00,PAS Giannina,Veria FC,2,0,H,1,0,H
+GRE,2016-11-26,15:15,Asteras Tripolis,AE Larisa,1,1,D,1,0,H
+GRE,2016-11-26,17:30,AEK Athen,Platanias Chanion,3,0,H,0,0,D
+GRE,2016-11-27,13:00,Olympiakos Piräus,AO Kerkyra,0,0,D,0,0,D
+GRE,2016-11-27,15:15,Levadiakos,AEP Iraklis FC,3,0,H,0,0,D
+GRE,2016-11-27,15:15,Panetolikos,Skoda Xanthi,2,3,A,0,1,A
+GRE,2016-11-27,17:30,Panionios GSS,Panathinaikos,1,1,D,0,0,D
+GRE,2016-11-28,17:30,PAOK Saloniki,Atromitos,3,4,A,2,0,H
+GRE,2016-12-03,13:00,Platanias Chanion,Panionios GSS,1,1,D,0,1,A
+GRE,2016-12-03,15:15,Veria FC,Panetolikos,1,1,D,1,1,D
+GRE,2016-12-03,17:30,AO Kerkyra,AEK Athen,1,1,D,0,1,A
+GRE,2016-12-04,13:00,Olympiakos Piräus,Levadiakos,4,0,H,0,0,D
+GRE,2016-12-04,15:15,AE Larisa,Atromitos,1,2,A,0,1,A
+GRE,2016-12-04,15:15,Skoda Xanthi,Asteras Tripolis,3,1,H,3,0,H
+GRE,2016-12-04,17:30,Panathinaikos,PAOK Saloniki,1,0,H,0,0,D
+GRE,2016-12-05,17:30,AEP Iraklis FC,PAS Giannina,2,1,H,1,1,D
+GRE,2016-12-10,13:00,Asteras Tripolis,Veria FC,0,0,D,0,0,D
+GRE,2016-12-10,15:15,Skoda Xanthi,AE Larisa,1,0,H,0,0,D
+GRE,2016-12-10,17:30,AEK Athen,Levadiakos,4,0,H,1,0,H
+GRE,2016-12-11,13:00,Panetolikos,AEP Iraklis FC,2,0,H,1,0,H
+GRE,2016-12-11,15:15,Panionios GSS,AO Kerkyra,1,0,H,0,0,D
+GRE,2016-12-11,15:15,PAOK Saloniki,Platanias Chanion,3,0,H,0,0,D
+GRE,2016-12-11,17:30,Atromitos,Panathinaikos,0,1,A,0,1,A
+GRE,2016-12-12,17:30,PAS Giannina,Olympiakos Piräus,0,2,A,0,0,D
+GRE,2016-12-17,13:00,Veria FC,Skoda Xanthi,0,4,A,0,1,A
+GRE,2016-12-17,15:15,Platanias Chanion,Atromitos,3,0,H,0,0,D
+GRE,2016-12-17,17:30,AO Kerkyra,PAOK Saloniki,0,5,A,0,3,A
+GRE,2016-12-18,13:00,Olympiakos Piräus,Panetolikos,3,1,H,0,0,D
+GRE,2016-12-18,15:15,AEP Iraklis FC,Asteras Tripolis,1,1,D,0,0,D
+GRE,2016-12-18,15:15,Levadiakos,Panionios GSS,1,4,A,1,2,A
+GRE,2016-12-18,17:30,AE Larisa,Panathinaikos,0,0,D,0,0,D
+GRE,2016-12-19,17:30,AEK Athen,PAS Giannina,1,1,D,0,0,D
+GRE,2017-01-03,15:15,AEP Iraklis FC,Skoda Xanthi,0,1,A,0,0,D
+GRE,2017-01-03,17:30,Levadiakos,PAOK Saloniki,0,1,A,0,0,D
+GRE,2017-01-04,13:00,AO Kerkyra,Atromitos,1,1,D,1,1,D
+GRE,2017-01-04,15:15,AE Larisa,Veria FC,2,1,H,0,1,A
+GRE,2017-01-04,15:15,AEK Athen,Panetolikos,0,0,D,0,0,D
+GRE,2017-01-04,17:30,Olympiakos Piräus,Asteras Tripolis,2,1,H,0,1,A
+GRE,2017-01-05,13:00,Panionios GSS,PAS Giannina,1,1,D,1,0,H
+GRE,2017-01-05,17:30,Platanias Chanion,Panathinaikos,1,0,H,0,0,D
+GRE,2017-01-07,13:00,Atromitos,Levadiakos,2,0,H,1,0,H
+GRE,2017-01-07,17:30,Asteras Tripolis,AEK Athen,3,2,H,0,1,A
+GRE,2017-01-08,13:00,PAOK Saloniki,PAS Giannina,0,1,A,0,1,A
+GRE,2017-01-08,15:15,Platanias Chanion,AE Larisa,3,2,H,1,0,H
+GRE,2017-01-08,15:15,Panetolikos,Panionios GSS,0,2,A,0,0,D
+GRE,2017-01-08,17:30,Skoda Xanthi,Olympiakos Piräus,0,2,A,0,1,A
+GRE,2017-01-09,17:30,Panathinaikos,AO Kerkyra,1,0,H,0,0,D
+GRE,2017-01-14,15:15,Veria FC,Levadiakos,2,0,H,1,0,H
+GRE,2017-01-14,17:30,Platanias Chanion,Olympiakos Piräus,2,2,D,2,2,D
+GRE,2017-01-15,13:00,Skoda Xanthi,PAS Giannina,2,0,H,1,0,H
+GRE,2017-01-15,15:15,Asteras Tripolis,Panetolikos,4,1,H,2,1,H
+GRE,2017-01-15,15:15,Atromitos,Panionios GSS,1,2,A,0,1,A
+GRE,2017-01-15,17:30,Panathinaikos,AEK Athen,0,0,D,0,0,D
+GRE,2017-01-18,13:00,Atromitos,AO Kerkyra,1,4,A,0,1,A
+GRE,2017-01-18,13:00,PAS Giannina,Panionios GSS,1,0,H,1,0,H
+GRE,2017-01-18,15:15,Panetolikos,AEK Athen,3,2,H,1,2,A
+GRE,2017-01-18,15:15,Skoda Xanthi,AEP Iraklis FC,3,1,H,1,1,D
+GRE,2017-01-18,15:15,Veria FC,AE Larisa,1,1,D,0,1,A
+GRE,2017-01-18,17:30,Asteras Tripolis,Olympiakos Piräus,0,0,D,0,0,D
+GRE,2017-01-19,15:15,PAOK Saloniki,Levadiakos,3,0,H,1,0,H
+GRE,2017-01-19,17:30,Panathinaikos,Platanias Chanion,2,1,H,2,1,H
+GRE,2017-01-21,13:00,AEP Iraklis FC,Veria FC,1,1,D,0,0,D
+GRE,2017-01-21,15:15,Panionios GSS,Panetolikos,2,0,H,1,0,H
+GRE,2017-01-21,17:30,Olympiakos Piräus,Skoda Xanthi,2,0,H,0,0,D
+GRE,2017-01-22,13:00,AEK Athen,Asteras Tripolis,2,0,H,1,0,H
+GRE,2017-01-22,15:15,AE Larisa,Platanias Chanion,0,0,D,0,0,D
+GRE,2017-01-22,15:15,Levadiakos,Atromitos,1,1,D,0,1,A
+GRE,2017-01-22,17:30,AO Kerkyra,Panathinaikos,1,1,D,1,1,D
+GRE,2017-01-23,17:30,PAS Giannina,PAOK Saloniki,0,1,A,0,1,A
+GRE,2017-01-25,15:15,Veria FC,AEP Iraklis FC,0,2,A,0,0,D
+GRE,2017-01-28,13:00,AEP Iraklis FC,AE Larisa,1,1,D,1,1,D
+GRE,2017-01-28,15:15,Asteras Tripolis,Panionios GSS,1,1,D,1,0,H
+GRE,2017-01-28,17:30,Skoda Xanthi,AEK Athen,0,0,D,0,0,D
+GRE,2017-01-29,13:00,Panathinaikos,Levadiakos,0,0,D,0,0,D
+GRE,2017-01-29,15:15,Atromitos,PAS Giannina,1,1,D,0,0,D
+GRE,2017-01-29,15:15,Panetolikos,PAOK Saloniki,0,1,A,0,0,D
+GRE,2017-01-29,15:15,Platanias Chanion,AO Kerkyra,2,1,H,0,1,A
+GRE,2017-01-29,17:30,Veria FC,Olympiakos Piräus,1,2,A,1,2,A
+GRE,2017-02-01,15:15,AEP Iraklis FC,AO Kerkyra,0,0,D,0,0,D
+GRE,2017-02-01,17:30,AE Larisa,PAOK Saloniki,0,2,A,0,1,A
+GRE,2017-02-04,13:00,AE Larisa,AO Kerkyra,1,1,D,0,0,D
+GRE,2017-02-04,15:15,Panetolikos,Atromitos,2,0,H,1,0,H
+GRE,2017-02-04,17:30,PAS Giannina,Panathinaikos,1,1,D,1,0,H
+GRE,2017-02-05,13:00,AEK Athen,Veria FC,6,0,H,5,0,H
+GRE,2017-02-05,15:15,Panionios GSS,Skoda Xanthi,2,0,H,1,0,H
+GRE,2017-02-05,15:15,PAOK Saloniki,Asteras Tripolis,3,2,H,1,1,D
+GRE,2017-02-05,17:30,Olympiakos Piräus,AEP Iraklis FC,3,0,H,2,0,H
+GRE,2017-02-06,17:30,Levadiakos,Platanias Chanion,1,2,A,0,2,A
+GRE,2017-02-11,13:00,Veria FC,Panionios GSS,0,1,A,0,1,A
+GRE,2017-02-11,15:15,Asteras Tripolis,Atromitos,0,1,A,0,1,A
+GRE,2017-02-11,17:30,Olympiakos Piräus,AE Larisa,2,0,H,2,0,H
+GRE,2017-02-12,13:00,AO Kerkyra,Levadiakos,1,0,H,1,0,H
+GRE,2017-02-12,15:15,Platanias Chanion,PAS Giannina,3,3,D,2,2,D
+GRE,2017-02-12,15:15,Skoda Xanthi,PAOK Saloniki,0,0,D,0,0,D
+GRE,2017-02-12,17:30,Panathinaikos,Panetolikos,4,0,H,0,0,D
+GRE,2017-02-13,17:30,AEP Iraklis FC,AEK Athen,2,2,D,1,1,D
+GRE,2017-02-18,13:00,Atromitos,Skoda Xanthi,2,1,H,1,0,H
+GRE,2017-02-18,15:15,PAS Giannina,AO Kerkyra,1,0,H,1,0,H
+GRE,2017-02-18,17:30,Asteras Tripolis,Panathinaikos,0,5,A,0,4,A
+GRE,2017-02-19,13:00,Panionios GSS,AEP Iraklis FC,1,0,H,1,0,H
+GRE,2017-02-19,15:15,Panetolikos,Platanias Chanion,1,2,A,0,1,A
+GRE,2017-02-19,15:15,PAOK Saloniki,Veria FC,4,0,H,2,0,H
+GRE,2017-02-19,17:30,AEK Athen,Olympiakos Piräus,1,0,H,1,0,H
+GRE,2017-02-20,17:30,AE Larisa,Levadiakos,2,1,H,1,0,H
+GRE,2017-02-25,13:00,Platanias Chanion,Asteras Tripolis,3,0,H,1,0,H
+GRE,2017-02-25,15:15,AO Kerkyra,Panetolikos,0,0,D,0,0,D
+GRE,2017-02-25,17:30,Skoda Xanthi,Panathinaikos,1,0,H,0,0,D
+GRE,2017-02-26,13:00,AEK Athen,AE Larisa,3,0,H,1,0,H
+GRE,2017-02-26,15:15,AEP Iraklis FC,PAOK Saloniki,1,1,D,0,1,A
+GRE,2017-02-26,15:15,Levadiakos,PAS Giannina,2,1,H,1,1,D
+GRE,2017-02-26,17:30,Olympiakos Piräus,Panionios GSS,0,1,A,0,1,A
+GRE,2017-02-27,17:30,Veria FC,Atromitos,0,1,A,0,0,D
+GRE,2017-03-04,13:00,AE Larisa,PAS Giannina,1,1,D,1,1,D
+GRE,2017-03-04,15:15,Panetolikos,Levadiakos,2,0,H,0,0,D
+GRE,2017-03-04,17:30,Panathinaikos,Veria FC,5,0,H,4,0,H
+GRE,2017-03-05,13:00,Atromitos,AEP Iraklis FC,1,0,H,0,0,D
+GRE,2017-03-05,15:15,Asteras Tripolis,AO Kerkyra,1,2,A,1,0,H
+GRE,2017-03-05,15:15,Skoda Xanthi,Platanias Chanion,1,0,H,1,0,H
+GRE,2017-03-05,17:30,PAOK Saloniki,Olympiakos Piräus,2,0,H,0,0,D
+GRE,2017-03-06,17:30,Panionios GSS,AEK Athen,1,1,D,0,1,A
+GRE,2017-03-11,13:00,PAS Giannina,Panetolikos,0,0,D,0,0,D
+GRE,2017-03-11,15:15,Panionios GSS,AE Larisa,1,0,H,1,0,H
+GRE,2017-03-11,17:30,AEP Iraklis FC,Panathinaikos,1,1,D,0,1,A
+GRE,2017-03-12,13:00,AO Kerkyra,Skoda Xanthi,1,0,H,0,0,D
+GRE,2017-03-12,15:15,Olympiakos Piräus,Atromitos,2,0,H,1,0,H
+GRE,2017-03-12,15:15,Platanias Chanion,Veria FC,1,0,H,1,0,H
+GRE,2017-03-12,17:30,AEK Athen,PAOK Saloniki,3,0,H,1,0,H
+GRE,2017-03-13,17:30,Levadiakos,Asteras Tripolis,1,1,D,0,0,D
+GRE,2017-03-18,13:00,Veria FC,AO Kerkyra,4,0,H,1,0,H
+GRE,2017-03-18,15:15,AE Larisa,Panetolikos,1,0,H,1,0,H
+GRE,2017-03-18,17:30,Atromitos,AEK Athen,0,1,A,0,0,D
+GRE,2017-03-19,13:00,PAOK Saloniki,Panionios GSS,1,0,H,0,0,D
+GRE,2017-03-19,15:15,Asteras Tripolis,PAS Giannina,1,1,D,0,1,A
+GRE,2017-03-19,15:15,Skoda Xanthi,Levadiakos,2,2,D,2,1,H
+GRE,2017-03-19,17:30,Panathinaikos,Olympiakos Piräus,1,0,H,1,0,H
+GRE,2017-03-20,17:30,Platanias Chanion,AEP Iraklis FC,1,0,H,0,0,D
+GRE,2017-04-01,13:00,PAS Giannina,Skoda Xanthi,1,1,D,0,0,D
+GRE,2017-04-01,15:15,Levadiakos,Veria FC,3,1,H,0,0,D
+GRE,2017-04-01,17:30,Olympiakos Piräus,Platanias Chanion,2,1,H,0,1,A
+GRE,2017-04-02,13:00,Panionios GSS,Atromitos,2,1,H,1,0,H
+GRE,2017-04-02,15:15,AO Kerkyra,AEP Iraklis FC,0,3,A,0,2,A
+GRE,2017-04-02,15:15,Panetolikos,Asteras Tripolis,1,1,D,1,0,H
+GRE,2017-04-02,15:15,PAOK Saloniki,AE Larisa,2,0,H,1,0,H
+GRE,2017-04-02,17:30,AEK Athen,Panathinaikos,2,3,A,0,2,A
+GRE,2017-04-05,13:00,Skoda Xanthi,Panetolikos,3,0,H,2,0,H
+GRE,2017-04-05,15:15,AE Larisa,Asteras Tripolis,1,4,A,1,3,A
+GRE,2017-04-05,15:15,Atromitos,PAOK Saloniki,0,2,A,0,2,A
+GRE,2017-04-05,15:15,AEP Iraklis FC,Levadiakos,1,0,H,0,0,D
+GRE,2017-04-05,15:15,Veria FC,PAS Giannina,3,0,H,2,0,H
+GRE,2017-04-05,17:30,AO Kerkyra,Olympiakos Piräus,0,2,A,0,1,A
+GRE,2017-04-06,15:15,Panathinaikos,Panionios GSS,1,0,H,0,0,D
+GRE,2017-04-06,17:30,Platanias Chanion,AEK Athen,0,2,A,0,1,A
+GRE,2017-04-09,17:00,AEK Athen,AO Kerkyra,5,0,H,3,0,H
+GRE,2017-04-09,17:00,Asteras Tripolis,Skoda Xanthi,0,0,D,0,0,D
+GRE,2017-04-09,17:00,Atromitos,AE Larisa,0,0,D,0,0,D
+GRE,2017-04-09,17:00,PAS Giannina,AEP Iraklis FC,1,2,A,0,1,A
+GRE,2017-04-09,17:00,Levadiakos,Olympiakos Piräus,1,1,D,1,0,H
+GRE,2017-04-09,17:00,Panetolikos,Veria FC,1,0,H,1,0,H
+GRE,2017-04-09,17:00,Panionios GSS,Platanias Chanion,1,1,D,0,1,A
+GRE,2017-04-09,17:00,PAOK Saloniki,Panathinaikos,3,0,H,3,0,H
+GRE,2017-04-23,17:00,AE Larisa,Skoda Xanthi,1,0,H,1,0,H
+GRE,2017-04-23,17:00,AEP Iraklis FC,Panetolikos,2,1,H,0,1,A
+GRE,2017-04-23,17:00,AO Kerkyra,Panionios GSS,1,0,H,1,0,H
+GRE,2017-04-23,17:00,Levadiakos,AEK Athen,0,2,A,0,0,D
+GRE,2017-04-23,17:00,Olympiakos Piräus,PAS Giannina,5,0,H,3,0,H
+GRE,2017-04-23,17:00,Panathinaikos,Atromitos,1,0,H,0,0,D
+GRE,2017-04-23,17:00,Platanias Chanion,PAOK Saloniki,1,3,A,0,2,A
+GRE,2017-04-23,17:00,Veria FC,Asteras Tripolis,4,3,H,4,2,H
+GRE,2017-04-30,17:00,Asteras Tripolis,AEP Iraklis FC,2,2,D,1,1,D
+GRE,2017-04-30,17:00,Atromitos,Platanias Chanion,4,1,H,2,1,H
+GRE,2017-04-30,17:00,PAS Giannina,AEK Athen,1,1,D,1,0,H
+GRE,2017-04-30,17:00,Panathinaikos,AE Larisa,2,0,H,1,0,H
+GRE,2017-04-30,17:00,Panetolikos,Olympiakos Piräus,0,2,A,0,1,A
+GRE,2017-04-30,17:00,Panionios GSS,Levadiakos,1,3,A,1,2,A
+GRE,2017-04-30,17:00,PAOK Saloniki,AO Kerkyra,5,1,H,3,1,H
+GRE,2017-04-30,17:00,Skoda Xanthi,Veria FC,3,0,H,2,0,H

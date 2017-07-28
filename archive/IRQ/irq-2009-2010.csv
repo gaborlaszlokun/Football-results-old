@@ -1,639 +1,639 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-IRQ,23/04/2009,14:00,Al Ramadi,Al Mosul,1,1,D,NaN,NaN,NaN
-IRQ,30/12/2009,11:30,Al Shirqat,Baghdad FC,1,1,D,NaN,NaN,NaN
-IRQ,30/12/2009,11:30,Al Talaba,Al Minaa,1,1,D,NaN,NaN,NaN
-IRQ,30/12/2009,11:30,Al Quwa Al Jawiya,Al Zawraa,1,0,H,NaN,NaN,NaN
-IRQ,30/12/2009,11:30,Peris FC,Duhok,0,1,A,NaN,NaN,NaN
-IRQ,30/12/2009,11:30,Al Itesalat,Al Sinaa,1,2,A,NaN,NaN,NaN
-IRQ,31/12/2009,11:30,Al Shorta,Al Hedood,0,0,D,NaN,NaN,NaN
-IRQ,31/12/2009,11:30,Al Nasiriya,Al Karkh SC,2,2,D,NaN,NaN,NaN
-IRQ,01/01/2010,11:30,Al Najaf,Al Kufa,2,0,H,NaN,NaN,NaN
-IRQ,01/01/2010,11:30,Samaraa FC,Diyala FC,1,0,H,NaN,NaN,NaN
-IRQ,01/01/2010,11:30,Karbalaa FC,Al Naft,1,0,H,NaN,NaN,NaN
-IRQ,01/01/2010,11:30,Al Semawah,Al Hasanain,0,1,A,NaN,NaN,NaN
-IRQ,01/01/2010,11:30,Naft Al Janoob,Al Diwaniya,2,1,H,NaN,NaN,NaN
-IRQ,02/01/2010,11:30,Al Kahraba,Kirkuk FC,1,1,D,NaN,NaN,NaN
-IRQ,02/01/2010,11:30,Misan FC,Naft Maysan,1,1,D,NaN,NaN,NaN
-IRQ,02/01/2010,11:30,Erbil,Zakho,4,0,H,NaN,NaN,NaN
-IRQ,03/03/2010,12:00,Al Hindiya,Salahaddin FC,3,2,H,NaN,NaN,NaN
-IRQ,03/03/2010,12:00,Masafi Al Junoob,Al Masafi,0,0,D,NaN,NaN,NaN
-IRQ,04/01/2010,11:30,Baghdad FC,Al Zawraa,1,0,H,NaN,NaN,NaN
-IRQ,04/01/2010,11:30,Al Masafi,Al Ramadi,3,0,H,NaN,NaN,NaN
-IRQ,04/01/2010,11:30,Al Hasanain,Al Nasiriya,0,0,D,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Samaraa FC,Al Kahraba,0,1,A,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Al Mosul,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Zakho,Al Shirqat,2,0,H,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Salahaddin FC,Erbil,0,2,A,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Karbalaa FC,Al Semawah,4,1,H,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Al Minaa,Al Diwaniya,1,0,H,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Al Kufa,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,05/01/2010,11:00,Naft Maysan,Naft Al Janoob,0,1,A,NaN,NaN,NaN
-IRQ,05/01/2010,11:30,Al Naft,Al Najaf,0,0,D,NaN,NaN,NaN
-IRQ,05/01/2010,11:30,Al Hedood,Al Talaba,0,0,D,NaN,NaN,NaN
-IRQ,05/01/2010,11:30,Al Sinaa,Misan FC,2,1,H,NaN,NaN,NaN
-IRQ,06/01/2010,11:30,Diyala FC,Peris FC,1,1,D,NaN,NaN,NaN
-IRQ,06/01/2010,11:30,Al Karkh SC,Al Shorta,2,2,D,NaN,NaN,NaN
-IRQ,12/03/2010,11:30,Duhok,Masafi Al Junoob,3,0,H,NaN,NaN,NaN
-IRQ,13/03/2010,12:00,Kirkuk FC,Al Hindiya,0,2,A,NaN,NaN,NaN
-IRQ,08/01/2010,11:00,Al Mosul,Al Masafi,1,1,D,NaN,NaN,NaN
-IRQ,08/01/2010,11:00,Al Semawah,Al Najaf,0,3,A,NaN,NaN,NaN
-IRQ,08/01/2010,11:00,Al Diwaniya,Al Hedood,1,1,D,NaN,NaN,NaN
-IRQ,08/01/2010,11:00,Al Shirqat,Salahaddin FC,3,1,H,NaN,NaN,NaN
-IRQ,08/01/2010,11:30,Al Itesalat,Al Naft,1,0,H,NaN,NaN,NaN
-IRQ,08/01/2010,11:30,Al Hindiya,Samaraa FC,0,2,A,NaN,NaN,NaN
-IRQ,09/01/2010,11:00,Erbil,Kirkuk FC,2,0,H,NaN,NaN,NaN
-IRQ,09/01/2010,11:00,Al Nasiriya,Karbalaa FC,1,1,D,NaN,NaN,NaN
-IRQ,09/01/2010,11:00,Al Ramadi,Duhok,0,2,A,NaN,NaN,NaN
-IRQ,09/01/2010,11:00,Misan FC,Al Kufa,1,0,H,NaN,NaN,NaN
-IRQ,09/01/2010,11:00,Naft Maysan,Al Sinaa,0,0,D,NaN,NaN,NaN
-IRQ,09/01/2010,11:30,Al Shorta,Al Hasanain,2,2,D,NaN,NaN,NaN
-IRQ,09/01/2010,11:30,Al Zawraa,Zakho,1,1,D,NaN,NaN,NaN
-IRQ,09/01/2010,11:30,Al Kahraba,Peris FC,2,1,H,NaN,NaN,NaN
-IRQ,10/01/2010,11:00,Naft Al Janoob,Al Minaa,1,0,H,NaN,NaN,NaN
-IRQ,10/01/2010,11:30,Al Quwa Al Jawiya,Baghdad FC,2,1,H,NaN,NaN,NaN
-IRQ,10/01/2010,11:30,Al Talaba,Al Karkh SC,1,0,H,NaN,NaN,NaN
-IRQ,10/01/2010,11:30,Masafi Al Junoob,Diyala FC,1,3,A,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Duhok,Al Mosul,2,0,H,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Al Najaf,Al Nasiriya,2,1,H,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Karbalaa FC,Al Shorta,1,0,H,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Samaraa FC,Erbil,0,1,A,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Zakho,Baghdad FC,0,1,A,NaN,NaN,NaN
-IRQ,15/01/2010,11:00,Salahaddin FC,Al Zawraa,0,2,A,NaN,NaN,NaN
-IRQ,15/01/2010,11:30,Al Kahraba,Masafi Al Junoob,5,0,H,NaN,NaN,NaN
-IRQ,15/01/2010,11:30,Al Naft,Misan FC,2,0,H,NaN,NaN,NaN
-IRQ,15/01/2010,11:30,Al Hedood,Al Minaa,0,0,D,NaN,NaN,NaN
-IRQ,15/01/2010,11:30,Al Masafi,Al Quwa Al Jawiya,3,4,A,NaN,NaN,NaN
-IRQ,16/01/2010,11:00,Al Kufa,Naft Maysan,1,0,H,NaN,NaN,NaN
-IRQ,16/01/2010,11:00,Diyala FC,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,16/01/2010,11:00,Kirkuk FC,Al Shirqat,1,2,A,NaN,NaN,NaN
-IRQ,16/01/2010,11:00,Peris FC,Al Hindiya,7,0,H,NaN,NaN,NaN
-IRQ,16/01/2010,11:00,Al Semawah,Al Itesalat,2,0,H,NaN,NaN,NaN
-IRQ,16/01/2010,11:30,Al Sinaa,Naft Al Janoob,1,0,H,NaN,NaN,NaN
-IRQ,16/01/2010,11:30,Al Karkh SC,Al Diwaniya,0,1,A,NaN,NaN,NaN
-IRQ,16/01/2010,11:30,Al Hasanain,Al Talaba,0,1,A,NaN,NaN,NaN
-IRQ,19/01/2010,11:00,Al Ramadi,Al Kahraba,0,2,A,NaN,NaN,NaN
-IRQ,19/01/2010,11:00,Misan FC,Al Semawah,0,0,D,NaN,NaN,NaN
-IRQ,19/01/2010,11:00,Naft Maysan,Al Naft,1,2,A,NaN,NaN,NaN
-IRQ,19/01/2010,11:00,Al Shirqat,Samaraa FC,1,1,D,NaN,NaN,NaN
-IRQ,19/01/2010,11:30,Al Sinaa,Al Kufa,0,0,D,NaN,NaN,NaN
-IRQ,19/01/2010,11:30,Baghdad FC,Salahaddin FC,1,1,D,NaN,NaN,NaN
-IRQ,19/01/2010,11:30,Al Hedood,Naft Al Janoob,0,0,D,NaN,NaN,NaN
-IRQ,19/01/2010,11:30,Al Masafi,Duhok,1,0,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Al Mosul,Diyala FC,0,2,A,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Erbil,Peris FC,1,0,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Zakho,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Al Nasiriya,Al Itesalat,1,1,D,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Al Minaa,Al Karkh SC,2,1,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Al Diwaniya,Al Hasanain,2,1,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:00,Al Hindiya,Masafi Al Junoob,2,2,D,NaN,NaN,NaN
-IRQ,20/01/2010,11:30,Al Talaba,Karbalaa FC,1,0,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:30,Al Shorta,Al Najaf,1,0,H,NaN,NaN,NaN
-IRQ,20/01/2010,11:30,Al Zawraa,Kirkuk FC,4,0,H,NaN,NaN,NaN
-IRQ,23/01/2010,11:00,Kirkuk FC,Baghdad FC,1,0,H,NaN,NaN,NaN
-IRQ,23/01/2010,11:00,Al Semawah,Naft Maysan,1,2,A,NaN,NaN,NaN
-IRQ,23/01/2010,11:00,Peris FC,Al Shirqat,2,0,H,NaN,NaN,NaN
-IRQ,23/01/2010,11:00,Naft Al Janoob,Al Kufa,1,0,H,NaN,NaN,NaN
-IRQ,23/01/2010,11:00,Masafi Al Junoob,Erbil,0,3,A,NaN,NaN,NaN
-IRQ,23/01/2010,11:30,Al Naft,Al Sinaa,1,2,A,NaN,NaN,NaN
-IRQ,23/01/2010,11:30,Al Kahraba,Al Mosul,0,0,D,NaN,NaN,NaN
-IRQ,23/01/2010,11:30,Al Itesalat,Al Shorta,1,2,A,NaN,NaN,NaN
-IRQ,23/01/2010,11:30,Al Hindiya,Al Ramadi,2,2,D,NaN,NaN,NaN
-IRQ,24/01/2010,11:00,Samaraa FC,Al Zawraa,1,0,H,NaN,NaN,NaN
-IRQ,24/01/2010,11:00,Diyala FC,Al Masafi,0,2,A,NaN,NaN,NaN
-IRQ,24/01/2010,11:00,Al Najaf,Al Talaba,1,1,D,NaN,NaN,NaN
-IRQ,24/01/2010,11:00,Karbalaa FC,Al Diwaniya,0,1,A,NaN,NaN,NaN
-IRQ,24/01/2010,11:00,Salahaddin FC,Zakho,1,0,H,NaN,NaN,NaN
-IRQ,24/01/2010,11:30,Al Karkh SC,Al Hedood,0,1,A,NaN,NaN,NaN
-IRQ,24/01/2010,11:30,Al Quwa Al Jawiya,Duhok,1,0,H,NaN,NaN,NaN
-IRQ,24/01/2010,11:30,Al Hasanain,Al Minaa,1,0,H,NaN,NaN,NaN
-IRQ,03/03/2010,11:30,Al Nasiriya,Misan FC,1,0,H,NaN,NaN,NaN
-IRQ,08/02/2010,11:00,Zakho,Kirkuk FC,2,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:00,Al Mosul,Al Hindiya,0,1,A,NaN,NaN,NaN
-IRQ,09/02/2010,11:00,Duhok,Diyala FC,4,1,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:00,Erbil,Al Ramadi,1,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:00,Baghdad FC,Samaraa FC,3,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:00,Al Shirqat,Masafi Al Junoob,3,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:30,Al Zawraa,Peris FC,2,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:30,Al Quwa Al Jawiya,Salahaddin FC,1,0,H,NaN,NaN,NaN
-IRQ,09/02/2010,11:30,Al Kahraba,Al Masafi,2,0,H,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Al Minaa,Karbalaa FC,0,0,D,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Al Semawah,Al Sinaa,1,2,A,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Naft Al Janoob,Al Karkh SC,3,0,H,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Al Diwaniya,Al Najaf,1,1,D,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Al Kufa,Al Naft,2,1,H,NaN,NaN,NaN
-IRQ,10/02/2010,11:00,Naft Maysan,Al Nasiriya,1,1,D,NaN,NaN,NaN
-IRQ,10/02/2010,11:30,Al Talaba,Al Itesalat,3,0,H,NaN,NaN,NaN
-IRQ,10/02/2010,11:30,Al Shorta,Misan FC,2,0,H,NaN,NaN,NaN
-IRQ,10/02/2010,11:30,Al Hedood,Al Hasanain,2,2,D,NaN,NaN,NaN
-IRQ,12/02/2010,11:00,Samaraa FC,Zakho,0,0,D,NaN,NaN,NaN
-IRQ,12/02/2010,11:30,Al Zawraa,Masafi Al Junoob,3,1,H,NaN,NaN,NaN
-IRQ,13/02/2010,11:00,Diyala FC,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
-IRQ,13/02/2010,11:00,Duhok,Al Kahraba,2,1,H,NaN,NaN,NaN
-IRQ,13/02/2010,11:00,Erbil,Al Mosul,1,0,H,NaN,NaN,NaN
-IRQ,13/02/2010,11:00,Salahaddin FC,Kirkuk FC,2,1,H,NaN,NaN,NaN
-IRQ,13/02/2010,11:00,Al Ramadi,Al Shirqat,3,0,H,NaN,NaN,NaN
-IRQ,13/02/2010,11:30,Al Shorta,Naft Maysan,0,0,D,NaN,NaN,NaN
-IRQ,13/02/2010,11:30,Al Karkh SC,Al Hasanain,4,1,H,NaN,NaN,NaN
-IRQ,14/02/2010,11:00,Karbalaa FC,Al Hedood,1,0,H,NaN,NaN,NaN
-IRQ,14/02/2010,11:00,Misan FC,Al Talaba,0,1,A,NaN,NaN,NaN
-IRQ,14/02/2010,11:00,Al Kufa,Al Semawah,0,1,A,NaN,NaN,NaN
-IRQ,14/02/2010,11:00,Peris FC,Baghdad FC,1,0,H,NaN,NaN,NaN
-IRQ,14/02/2010,11:30,Al Sinaa,Al Nasiriya,2,1,H,NaN,NaN,NaN
-IRQ,14/02/2010,11:30,Al Naft,Naft Al Janoob,0,1,A,NaN,NaN,NaN
-IRQ,14/02/2010,11:30,Al Itesalat,Al Diwaniya,0,0,D,NaN,NaN,NaN
-IRQ,14/02/2010,11:30,Al Masafi,Al Hindiya,1,0,H,NaN,NaN,NaN
-IRQ,15/02/2010,11:00,Al Najaf,Al Minaa,2,0,H,NaN,NaN,NaN
-IRQ,18/02/2010,11:00,Al Naft,Al Semawah,1,0,H,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Al Nasiriya,Al Kufa,2,1,H,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Al Minaa,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Salahaddin FC,Samaraa FC,3,3,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Al Diwaniya,Misan FC,2,1,H,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Al Hindiya,Duhok,1,1,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:00,Al Shirqat,Al Mosul,0,0,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:30,Al Zawraa,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:30,Al Karkh SC,Karbalaa FC,0,0,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:30,Al Kahraba,Diyala FC,2,2,D,NaN,NaN,NaN
-IRQ,19/02/2010,11:30,Al Masafi,Erbil,0,0,D,NaN,NaN,NaN
-IRQ,20/02/2010,11:00,Kirkuk FC,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
-IRQ,20/02/2010,11:00,Zakho,Peris FC,1,0,H,NaN,NaN,NaN
-IRQ,20/02/2010,11:30,Al Talaba,Naft Maysan,4,0,H,NaN,NaN,NaN
-IRQ,20/02/2010,11:30,Al Sinaa,Al Shorta,0,2,A,NaN,NaN,NaN
-IRQ,20/02/2010,11:30,Al Hasanain,Naft Al Janoob,1,1,D,NaN,NaN,NaN
-IRQ,20/02/2010,11:30,Baghdad FC,Masafi Al Junoob,1,0,H,NaN,NaN,NaN
-IRQ,20/02/2010,11:30,Al Hedood,Al Najaf,0,0,D,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Samaraa FC,Kirkuk FC,0,0,D,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Diyala FC,Al Hindiya,1,0,H,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Erbil,Duhok,1,0,H,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Al Minaa,Misan FC,1,0,H,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Peris FC,Salahaddin FC,2,1,H,NaN,NaN,NaN
-IRQ,23/02/2010,11:30,Al Shirqat,Al Masafi,0,0,D,NaN,NaN,NaN
-IRQ,23/02/2010,12:00,Al Zawraa,Al Mosul,1,0,H,NaN,NaN,NaN
-IRQ,23/02/2010,12:00,Al Naft,Al Nasiriya,2,1,H,NaN,NaN,NaN
-IRQ,24/02/2010,11:30,Al Shorta,Al Kufa,1,0,H,NaN,NaN,NaN
-IRQ,24/02/2010,11:30,Al Najaf,Al Karkh SC,1,1,D,NaN,NaN,NaN
-IRQ,24/02/2010,11:30,Naft Al Janoob,Al Semawah,2,0,H,NaN,NaN,NaN
-IRQ,24/02/2010,11:30,Naft Maysan,Al Diwaniya,2,0,H,NaN,NaN,NaN
-IRQ,24/02/2010,12:00,Al Talaba,Al Sinaa,2,1,H,NaN,NaN,NaN
-IRQ,24/02/2010,12:00,Al Quwa Al Jawiya,Al Kahraba,2,2,D,NaN,NaN,NaN
-IRQ,24/02/2010,12:00,Al Itesalat,Al Hedood,0,0,D,NaN,NaN,NaN
-IRQ,24/02/2010,12:00,Masafi Al Junoob,Zakho,1,2,A,NaN,NaN,NaN
-IRQ,25/02/2010,11:30,Karbalaa FC,Al Hasanain,1,0,H,NaN,NaN,NaN
-IRQ,03/03/2010,11:30,Al Ramadi,Baghdad FC,1,0,H,NaN,NaN,NaN
-IRQ,26/02/2010,11:30,Salahaddin FC,Masafi Al Junoob,0,0,D,NaN,NaN,NaN
-IRQ,26/02/2010,12:00,Al Zawraa,Al Masafi,0,0,D,NaN,NaN,NaN
-IRQ,27/02/2010,11:30,Diyala FC,Erbil,0,3,A,NaN,NaN,NaN
-IRQ,27/02/2010,11:30,Kirkuk FC,Peris FC,1,1,D,NaN,NaN,NaN
-IRQ,27/02/2010,11:30,Duhok,Al Shirqat,2,0,H,NaN,NaN,NaN
-IRQ,27/02/2010,11:30,Zakho,Al Ramadi,0,1,A,NaN,NaN,NaN
-IRQ,27/02/2010,12:00,Baghdad FC,Al Mosul,1,0,H,NaN,NaN,NaN
-IRQ,27/02/2010,12:00,Al Naft,Al Shorta,1,3,A,NaN,NaN,NaN
-IRQ,27/02/2010,12:00,Al Kahraba,Al Hindiya,3,1,H,NaN,NaN,NaN
-IRQ,27/02/2010,12:00,Al Hedood,Misan FC,1,0,H,NaN,NaN,NaN
-IRQ,28/02/2010,11:30,Samaraa FC,Al Quwa Al Jawiya,0,3,A,NaN,NaN,NaN
-IRQ,28/02/2010,11:30,Al Nasiriya,Al Semawah,2,1,H,NaN,NaN,NaN
-IRQ,28/02/2010,11:30,Al Minaa,Naft Maysan,1,0,H,NaN,NaN,NaN
-IRQ,28/02/2010,11:30,Al Diwaniya,Al Sinaa,0,2,A,NaN,NaN,NaN
-IRQ,28/02/2010,12:00,Al Karkh SC,Al Itesalat,1,1,D,NaN,NaN,NaN
-IRQ,28/02/2010,12:00,Al Hasanain,Al Najaf,0,0,D,NaN,NaN,NaN
-IRQ,02/03/2010,11:30,Al Kufa,Al Talaba,1,0,H,NaN,NaN,NaN
-IRQ,02/03/2010,11:30,Karbalaa FC,Naft Al Janoob,0,0,D,NaN,NaN,NaN
-IRQ,15/03/2010,11:30,Kirkuk FC,Masafi Al Junoob,2,2,D,NaN,NaN,NaN
-IRQ,15/03/2010,12:00,Al Kahraba,Erbil,0,0,D,NaN,NaN,NaN
-IRQ,16/03/2010,,Zakho,Al Mosul,3,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,,Al Semawah,Al Shorta,0,3,A,NaN,NaN,NaN
-IRQ,16/03/2010,,Misan FC,Al Karkh SC,3,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,,Al Kufa,Al Diwaniya,3,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,,Naft Maysan,Al Hedood,3,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,,Al Talaba,Al Naft,0,3,A,NaN,NaN,NaN
-IRQ,16/03/2010,,Al Sinaa,Al Minaa,3,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,12:00,Al Nasiriya,Naft Al Janoob,1,1,D,NaN,NaN,NaN
-IRQ,16/03/2010,12:00,Peris FC,Samaraa FC,2,1,H,NaN,NaN,NaN
-IRQ,16/03/2010,12:00,Al Ramadi,Salahaddin FC,1,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,12:00,Al Shirqat,Diyala FC,1,0,H,NaN,NaN,NaN
-IRQ,16/03/2010,12:30,Al Quwa Al Jawiya,Al Hindiya,2,1,H,NaN,NaN,NaN
-IRQ,16/03/2010,12:30,Al Itesalat,Al Hasanain,0,1,A,NaN,NaN,NaN
-IRQ,17/03/2010,12:00,Duhok,Al Zawraa,3,0,H,NaN,NaN,NaN
-IRQ,17/03/2010,12:00,Al Najaf,Karbalaa FC,0,3,A,NaN,NaN,NaN
-IRQ,17/03/2010,12:30,Al Masafi,Baghdad FC,0,0,D,NaN,NaN,NaN
-IRQ,19/03/2010,12:00,Samaraa FC,Masafi Al Junoob,3,0,H,NaN,NaN,NaN
-IRQ,20/03/2010,,Al Minaa,Al Kufa,0,3,A,NaN,NaN,NaN
-IRQ,20/03/2010,,Salahaddin FC,Al Mosul,3,0,H,NaN,NaN,NaN
-IRQ,20/03/2010,,Al Hasanain,Misan FC,3,0,H,NaN,NaN,NaN
-IRQ,20/03/2010,,Al Hedood,Al Sinaa,0,3,A,NaN,NaN,NaN
-IRQ,20/03/2010,12:00,Kirkuk FC,Al Ramadi,2,1,H,NaN,NaN,NaN
-IRQ,20/03/2010,12:00,Erbil,Al Hindiya,3,0,H,NaN,NaN,NaN
-IRQ,20/03/2010,12:30,Al Quwa Al Jawiya,Peris FC,0,0,D,NaN,NaN,NaN
-IRQ,20/03/2010,12:30,Al Kahraba,Al Shirqat,1,0,H,NaN,NaN,NaN
-IRQ,21/03/2010,,Al Zawraa,Diyala FC,0,3,A,NaN,NaN,NaN
-IRQ,21/03/2010,12:00,Zakho,Al Masafi,0,2,A,NaN,NaN,NaN
-IRQ,21/03/2010,12:00,Karbalaa FC,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,21/03/2010,12:30,Al Shorta,Al Nasiriya,1,0,H,NaN,NaN,NaN
-IRQ,21/03/2010,12:30,Baghdad FC,Duhok,4,2,H,NaN,NaN,NaN
-IRQ,25/04/2010,13:00,Al Semawah,Al Talaba,0,1,A,NaN,NaN,NaN
-IRQ,25/04/2010,13:00,Al Karkh SC,Naft Maysan,2,1,H,NaN,NaN,NaN
-IRQ,26/04/2010,14:00,Al Diwaniya,Al Naft,0,1,A,NaN,NaN,NaN
-IRQ,27/04/2010,13:00,Naft Al Janoob,Al Najaf,0,3,A,NaN,NaN,NaN
-IRQ,26/03/2010,12:00,Al Ramadi,Samaraa FC,1,0,H,NaN,NaN,NaN
-IRQ,26/03/2010,12:00,Misan FC,Karbalaa FC,0,1,A,NaN,NaN,NaN
-IRQ,26/03/2010,12:00,Naft Maysan,Al Hasanain,0,3,A,NaN,NaN,NaN
-IRQ,26/03/2010,12:30,Al Masafi,Salahaddin FC,0,0,D,NaN,NaN,NaN
-IRQ,27/03/2010,12:00,Duhok,Zakho,2,0,H,NaN,NaN,NaN
-IRQ,27/03/2010,12:00,Erbil,Al Quwa Al Jawiya,0,1,A,NaN,NaN,NaN
-IRQ,27/03/2010,12:00,Al Hindiya,Al Shirqat,3,0,H,NaN,NaN,NaN
-IRQ,29/03/2010,13:30,Al Shorta,Naft Al Janoob,2,2,D,NaN,NaN,NaN
-IRQ,29/03/2010,13:30,Masafi Al Junoob,Peris FC,0,2,A,NaN,NaN,NaN
-IRQ,29/03/2010,13:30,Al Zawraa,Al Kahraba,0,0,D,NaN,NaN,NaN
-IRQ,30/03/2010,13:00,Diyala FC,Baghdad FC,1,4,A,NaN,NaN,NaN
-IRQ,30/03/2010,13:00,Al Mosul,Kirkuk FC,1,0,H,NaN,NaN,NaN
-IRQ,30/03/2010,13:00,Al Nasiriya,Al Talaba,0,0,D,NaN,NaN,NaN
-IRQ,30/03/2010,13:30,Al Sinaa,Al Karkh SC,2,1,H,NaN,NaN,NaN
-IRQ,30/03/2010,13:30,Al Itesalat,Al Najaf,0,1,A,NaN,NaN,NaN
-IRQ,30/03/2010,13:30,Al Kufa,Al Hedood,0,0,D,NaN,NaN,NaN
-IRQ,31/03/2010,13:00,Al Diwaniya,Al Semawah,1,0,H,NaN,NaN,NaN
-IRQ,31/03/2010,13:30,Al Naft,Al Minaa,0,1,A,NaN,NaN,NaN
-IRQ,02/04/2010,13:00,Al Najaf,Misan FC,1,0,H,NaN,NaN,NaN
-IRQ,02/04/2010,13:00,Karbalaa FC,Naft Maysan,2,2,D,NaN,NaN,NaN
-IRQ,02/04/2010,13:00,Salahaddin FC,Duhok,0,0,D,NaN,NaN,NaN
-IRQ,03/04/2010,13:00,Samaraa FC,Al Mosul,1,1,D,NaN,NaN,NaN
-IRQ,03/04/2010,13:00,Kirkuk FC,Al Masafi,3,2,H,NaN,NaN,NaN
-IRQ,03/04/2010,13:00,Al Nasiriya,Al Diwaniya,1,1,D,NaN,NaN,NaN
-IRQ,03/04/2010,13:00,Al Shirqat,Erbil,1,4,A,NaN,NaN,NaN
-IRQ,03/04/2010,13:00,Al Karkh SC,Al Kufa,1,0,H,NaN,NaN,NaN
-IRQ,03/04/2010,13:30,Al Quwa Al Jawiya,Masafi Al Junoob,4,1,H,NaN,NaN,NaN
-IRQ,03/04/2010,13:30,Al Hasanain,Al Sinaa,0,1,A,NaN,NaN,NaN
-IRQ,03/04/2010,13:30,Al Hindiya,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,04/04/2010,,Zakho,Diyala FC,3,0,H,NaN,NaN,NaN
-IRQ,04/04/2010,13:00,Al Minaa,Al Semawah,2,1,H,NaN,NaN,NaN
-IRQ,04/04/2010,13:00,Peris FC,Al Ramadi,1,1,D,NaN,NaN,NaN
-IRQ,04/04/2010,13:00,Naft Al Janoob,Al Itesalat,3,0,H,NaN,NaN,NaN
-IRQ,04/04/2010,13:30,Baghdad FC,Al Kahraba,0,0,D,NaN,NaN,NaN
-IRQ,04/04/2010,13:30,Al Hedood,Al Naft,0,1,A,NaN,NaN,NaN
-IRQ,04/04/2010,14:00,Al Talaba,Al Shorta,2,2,D,NaN,NaN,NaN
-IRQ,06/04/2010,13:00,Misan FC,Al Itesalat,0,0,D,NaN,NaN,NaN
-IRQ,06/04/2010,13:00,Al Kufa,Al Hasanain,1,2,A,NaN,NaN,NaN
-IRQ,06/04/2010,13:30,Al Masafi,Samaraa FC,2,1,H,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Al Talaba,Naft Al Janoob,1,0,H,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Diyala FC,Salahaddin FC,0,0,D,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Al Mosul,Peris FC,0,1,A,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Al Minaa,Al Nasiriya,0,0,D,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Al Semawah,Al Hedood,2,3,A,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Naft Maysan,Al Najaf,1,2,A,NaN,NaN,NaN
-IRQ,07/04/2010,13:00,Al Shirqat,Al Quwa Al Jawiya,0,4,A,NaN,NaN,NaN
-IRQ,07/04/2010,13:30,Al Zawraa,Erbil,2,1,H,NaN,NaN,NaN
-IRQ,07/04/2010,13:30,Al Sinaa,Karbalaa FC,0,0,D,NaN,NaN,NaN
-IRQ,08/04/2010,13:00,Al Ramadi,Masafi Al Junoob,0,1,A,NaN,NaN,NaN
-IRQ,08/04/2010,13:00,Al Diwaniya,Al Shorta,3,5,A,NaN,NaN,NaN
-IRQ,08/04/2010,13:30,Al Naft,Al Karkh SC,0,0,D,NaN,NaN,NaN
-IRQ,08/04/2010,13:30,Al Kahraba,Zakho,0,0,D,NaN,NaN,NaN
-IRQ,08/04/2010,13:30,Baghdad FC,Al Hindiya,1,1,D,NaN,NaN,NaN
-IRQ,26/04/2010,14:00,Duhok,Kirkuk FC,3,2,H,NaN,NaN,NaN
-IRQ,11/04/2010,13:00,Duhok,Samaraa FC,1,0,H,NaN,NaN,NaN
-IRQ,11/04/2010,13:30,Masafi Al Junoob,Al Mosul,1,2,A,NaN,NaN,NaN
-IRQ,12/04/2010,13:00,Kirkuk FC,Diyala FC,0,1,A,NaN,NaN,NaN
-IRQ,12/04/2010,13:00,Peris FC,Al Masafi,1,0,H,NaN,NaN,NaN
-IRQ,12/04/2010,13:30,Al Karkh SC,Al Semawah,2,0,H,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Al Zawraa,Al Shirqat,0,0,D,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Erbil,Baghdad FC,2,1,H,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Zakho,Al Hindiya,0,0,D,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Al Najaf,Al Sinaa,1,1,D,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Salahaddin FC,Al Kahraba,1,1,D,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Al Quwa Al Jawiya,Al Ramadi,1,1,D,NaN,NaN,NaN
-IRQ,13/04/2010,13:00,Al Diwaniya,Al Talaba,1,2,A,NaN,NaN,NaN
-IRQ,13/04/2010,13:30,Al Hasanain,Al Naft,0,0,D,NaN,NaN,NaN
-IRQ,14/04/2010,11:00,Al Kufa,Karbalaa FC,0,1,A,NaN,NaN,NaN
-IRQ,14/04/2010,11:30,Al Hedood,Al Nasiriya,1,0,H,NaN,NaN,NaN
-IRQ,14/04/2010,13:00,Naft Al Janoob,Misan FC,3,1,H,NaN,NaN,NaN
-IRQ,14/04/2010,13:30,Al Shorta,Al Minaa,1,1,D,NaN,NaN,NaN
-IRQ,14/04/2010,13:30,Al Itesalat,Naft Maysan,0,1,A,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Diyala FC,Samaraa FC,0,0,D,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Al Mosul,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Kirkuk FC,Al Kahraba,0,2,A,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Zakho,Erbil,0,1,A,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Salahaddin FC,Al Hindiya,1,1,D,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Al Diwaniya,Naft Al Janoob,1,1,D,NaN,NaN,NaN
-IRQ,30/04/2010,13:00,Naft Maysan,Misan FC,5,0,H,NaN,NaN,NaN
-IRQ,30/04/2010,13:30,Al Sinaa,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,30/04/2010,13:30,Al Karkh SC,Al Nasiriya,1,0,H,NaN,NaN,NaN
-IRQ,30/04/2010,13:30,Al Hasanain,Al Semawah,1,2,A,NaN,NaN,NaN
-IRQ,30/04/2010,13:30,Al Masafi,Masafi Al Junoob,1,1,D,NaN,NaN,NaN
-IRQ,30/04/2010,14:00,Al Zawraa,Al Quwa Al Jawiya,0,3,A,NaN,NaN,NaN
-IRQ,01/05/2010,13:00,Al Minaa,Al Talaba,1,0,H,NaN,NaN,NaN
-IRQ,01/05/2010,13:00,Al Kufa,Al Najaf,0,2,A,NaN,NaN,NaN
-IRQ,01/05/2010,13:30,Al Naft,Karbalaa FC,1,3,A,NaN,NaN,NaN
-IRQ,01/05/2010,13:30,Baghdad FC,Al Shirqat,3,0,H,NaN,NaN,NaN
-IRQ,01/05/2010,13:30,Al Hedood,Al Shorta,0,0,D,NaN,NaN,NaN
-IRQ,04/05/2010,,Erbil,Salahaddin FC,3,0,H,NaN,NaN,NaN
-IRQ,04/05/2010,13:30,Al Ramadi,Al Masafi,1,1,D,NaN,NaN,NaN
-IRQ,04/05/2010,13:30,Al Shirqat,Zakho,0,0,D,NaN,NaN,NaN
-IRQ,04/05/2010,13:30,Naft Al Janoob,Naft Maysan,2,0,H,NaN,NaN,NaN
-IRQ,04/05/2010,13:30,Misan FC,Al Sinaa,0,1,A,NaN,NaN,NaN
-IRQ,04/05/2010,14:00,Al Zawraa,Baghdad FC,2,1,H,NaN,NaN,NaN
-IRQ,04/05/2010,14:00,Al Quwa Al Jawiya,Al Mosul,2,1,H,NaN,NaN,NaN
-IRQ,04/05/2010,14:00,Masafi Al Junoob,Duhok,0,2,A,NaN,NaN,NaN
-IRQ,04/05/2010,14:00,Al Hindiya,Kirkuk FC,1,1,D,NaN,NaN,NaN
-IRQ,05/05/2010,13:30,Al Nasiriya,Al Hasanain,1,3,A,NaN,NaN,NaN
-IRQ,05/05/2010,13:30,Al Semawah,Karbalaa FC,0,2,A,NaN,NaN,NaN
-IRQ,05/05/2010,13:30,Al Diwaniya,Al Minaa,2,1,H,NaN,NaN,NaN
-IRQ,05/05/2010,13:30,Al Najaf,Al Naft,0,0,D,NaN,NaN,NaN
-IRQ,05/05/2010,14:00,Al Kahraba,Samaraa FC,0,0,D,NaN,NaN,NaN
-IRQ,05/05/2010,14:00,Al Itesalat,Al Kufa,3,0,H,NaN,NaN,NaN
-IRQ,05/05/2010,14:00,Al Talaba,Al Hedood,1,0,H,NaN,NaN,NaN
-IRQ,05/05/2010,14:00,Al Shorta,Al Karkh SC,0,1,A,NaN,NaN,NaN
-IRQ,07/05/2010,14:00,Al Masafi,Al Mosul,3,1,H,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Salahaddin FC,Al Shirqat,1,0,H,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Kirkuk FC,Erbil,1,1,D,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Duhok,Al Ramadi,2,1,H,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Al Sinaa,Naft Maysan,3,1,H,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Al Hasanain,Al Shorta,0,1,A,NaN,NaN,NaN
-IRQ,08/05/2010,14:00,Al Karkh SC,Al Talaba,1,1,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Al Najaf,Al Semawah,0,0,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Al Hedood,Al Diwaniya,1,2,A,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Al Naft,Al Itesalat,1,1,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Samaraa FC,Al Hindiya,2,2,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Karbalaa FC,Al Nasiriya,1,1,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Al Kufa,Misan FC,0,0,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Zakho,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Al Minaa,Naft Al Janoob,0,0,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Baghdad FC,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
-IRQ,09/05/2010,14:00,Diyala FC,Masafi Al Junoob,1,0,H,NaN,NaN,NaN
-IRQ,11/05/2010,14:00,Masafi Al Junoob,Al Kahraba,0,1,A,NaN,NaN,NaN
-IRQ,12/05/2010,14:00,Al Mosul,Duhok,0,0,D,NaN,NaN,NaN
-IRQ,12/05/2010,14:00,Al Ramadi,Diyala FC,2,1,H,NaN,NaN,NaN
-IRQ,12/05/2010,14:00,Al Shirqat,Kirkuk FC,2,2,D,NaN,NaN,NaN
-IRQ,12/05/2010,14:00,Al Diwaniya,Al Karkh SC,3,1,H,NaN,NaN,NaN
-IRQ,12/05/2010,14:00,Al Talaba,Al Hasanain,2,1,H,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Al Nasiriya,Al Najaf,1,0,H,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Al Shorta,Karbalaa FC,5,2,H,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Erbil,Samaraa FC,1,0,H,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Baghdad FC,Zakho,1,1,D,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Al Quwa Al Jawiya,Al Masafi,0,0,D,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Naft Maysan,Al Kufa,2,1,H,NaN,NaN,NaN
-IRQ,13/05/2010,14:00,Al Itesalat,Al Semawah,2,2,D,NaN,NaN,NaN
-IRQ,14/05/2010,14:00,Al Zawraa,Salahaddin FC,2,1,H,NaN,NaN,NaN
-IRQ,14/05/2010,14:00,Al Minaa,Al Hedood,3,1,H,NaN,NaN,NaN
-IRQ,14/05/2010,14:00,Naft Al Janoob,Al Sinaa,1,0,H,NaN,NaN,NaN
-IRQ,15/05/2010,14:00,Misan FC,Al Naft,1,3,A,NaN,NaN,NaN
-IRQ,15/05/2010,14:00,Masafi Al Junoob,Al Hindiya,3,5,A,NaN,NaN,NaN
-IRQ,16/05/2010,14:00,Al Kahraba,Al Ramadi,1,0,H,NaN,NaN,NaN
-IRQ,16/05/2010,14:00,Diyala FC,Al Mosul,1,1,D,NaN,NaN,NaN
-IRQ,16/05/2010,14:00,Al Hasanain,Al Diwaniya,1,1,D,NaN,NaN,NaN
-IRQ,17/05/2010,14:00,Samaraa FC,Al Shirqat,0,0,D,NaN,NaN,NaN
-IRQ,17/05/2010,14:00,Al Quwa Al Jawiya,Zakho,3,0,H,NaN,NaN,NaN
-IRQ,17/05/2010,14:00,Al Itesalat,Al Nasiriya,1,1,D,NaN,NaN,NaN
-IRQ,17/05/2010,14:00,Al Najaf,Al Shorta,2,0,H,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Al Kufa,Al Sinaa,0,0,D,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Salahaddin FC,Baghdad FC,0,2,A,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Duhok,Al Masafi,3,0,H,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Al Karkh SC,Al Minaa,0,0,D,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Karbalaa FC,Al Talaba,0,0,D,NaN,NaN,NaN
-IRQ,18/05/2010,14:00,Kirkuk FC,Al Zawraa,1,3,A,NaN,NaN,NaN
-IRQ,19/05/2010,14:00,Al Semawah,Misan FC,3,0,H,NaN,NaN,NaN
-IRQ,19/05/2010,14:00,Al Naft,Naft Maysan,2,1,H,NaN,NaN,NaN
-IRQ,19/05/2010,14:00,Naft Al Janoob,Al Hedood,2,0,H,NaN,NaN,NaN
-IRQ,20/05/2010,14:00,Al Mosul,Al Kahraba,1,0,H,NaN,NaN,NaN
-IRQ,20/05/2010,14:00,Erbil,Masafi Al Junoob,6,0,H,NaN,NaN,NaN
-IRQ,20/05/2010,14:00,Al Ramadi,Al Hindiya,0,1,A,NaN,NaN,NaN
-IRQ,21/05/2010,14:00,Al Shorta,Al Itesalat,2,0,H,NaN,NaN,NaN
-IRQ,21/05/2010,14:00,Zakho,Salahaddin FC,3,0,H,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Al Talaba,Al Najaf,0,0,D,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Al Zawraa,Samaraa FC,5,0,H,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Duhok,Al Quwa Al Jawiya,2,1,H,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Al Minaa,Al Hasanain,2,0,H,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Al Diwaniya,Karbalaa FC,0,0,D,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Baghdad FC,Kirkuk FC,1,0,H,NaN,NaN,NaN
-IRQ,22/05/2010,14:00,Al Masafi,Diyala FC,2,1,H,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Al Sinaa,Al Naft,2,1,H,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Al Semawah,Naft Maysan,0,0,D,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Misan FC,Al Nasiriya,1,1,D,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Al Kufa,Naft Al Janoob,2,1,H,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Al Hedood,Al Karkh SC,0,1,A,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Masafi Al Junoob,Al Shirqat,0,0,D,NaN,NaN,NaN
-IRQ,23/05/2010,14:00,Masafi Al Junoob,Al Shirqat,0,0,D,NaN,NaN,NaN
-IRQ,24/05/2010,14:30,Al Hindiya,Al Mosul,0,0,D,NaN,NaN,NaN
-IRQ,24/05/2010,14:30,Al Ramadi,Erbil,1,4,A,NaN,NaN,NaN
-IRQ,25/05/2010,14:30,Kirkuk FC,Zakho,2,1,H,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Diyala FC,Duhok,0,1,A,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Samaraa FC,Baghdad FC,1,2,A,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Salahaddin FC,Al Quwa Al Jawiya,0,2,A,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Al Masafi,Al Kahraba,3,2,H,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Karbalaa FC,Al Minaa,0,0,D,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Al Najaf,Al Diwaniya,2,0,H,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Al Itesalat,Al Talaba,0,1,A,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Misan FC,Al Shorta,0,2,A,NaN,NaN,NaN
-IRQ,26/05/2010,14:30,Al Hasanain,Al Hedood,1,1,D,NaN,NaN,NaN
-IRQ,27/05/2010,14:30,Al Sinaa,Al Semawah,1,0,H,NaN,NaN,NaN
-IRQ,27/05/2010,14:30,Al Karkh SC,Naft Al Janoob,2,0,H,NaN,NaN,NaN
-IRQ,27/05/2010,14:30,Al Naft,Al Kufa,2,0,H,NaN,NaN,NaN
-IRQ,27/05/2010,14:30,Al Nasiriya,Naft Maysan,2,4,A,NaN,NaN,NaN
-IRQ,28/05/2010,14:30,Al Zawraa,Masafi Al Junoob,1,0,H,NaN,NaN,NaN
-IRQ,28/05/2010,14:30,Al Mosul,Erbil,1,0,H,NaN,NaN,NaN
-IRQ,28/05/2010,14:30,Al Shirqat,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,29/05/2010,14:30,Al Kahraba,Duhok,1,1,D,NaN,NaN,NaN
-IRQ,29/05/2010,14:30,Kirkuk FC,Salahaddin FC,2,2,D,NaN,NaN,NaN
-IRQ,29/05/2010,14:30,Al Hindiya,Al Masafi,1,2,A,NaN,NaN,NaN
-IRQ,30/05/2010,14:30,Zakho,Samaraa FC,2,0,H,NaN,NaN,NaN
-IRQ,30/05/2010,14:30,Al Quwa Al Jawiya,Diyala FC,5,0,H,NaN,NaN,NaN
-IRQ,30/05/2010,14:30,Al Hedood,Karbalaa FC,0,1,A,NaN,NaN,NaN
-IRQ,30/05/2010,14:30,Al Talaba,Misan FC,4,0,H,NaN,NaN,NaN
-IRQ,30/05/2010,14:30,Al Diwaniya,Al Itesalat,1,3,A,NaN,NaN,NaN
-IRQ,31/05/2010,14:30,Naft Maysan,Al Shorta,2,0,H,NaN,NaN,NaN
-IRQ,31/05/2010,14:30,Al Hasanain,Al Karkh SC,0,0,D,NaN,NaN,NaN
-IRQ,31/05/2010,14:30,Al Semawah,Al Kufa,2,2,D,NaN,NaN,NaN
-IRQ,31/05/2010,14:30,Naft Al Janoob,Al Naft,1,2,A,NaN,NaN,NaN
-IRQ,31/05/2010,14:30,Al Minaa,Al Najaf,0,0,D,NaN,NaN,NaN
-IRQ,01/06/2010,14:30,Al Nasiriya,Al Sinaa,1,1,D,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Samaraa FC,Salahaddin FC,1,1,D,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Duhok,Al Hindiya,5,0,H,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Al Mosul,Al Shirqat,2,0,H,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Al Ramadi,Al Zawraa,0,0,D,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Diyala FC,Al Kahraba,2,1,H,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Erbil,Al Masafi,2,0,H,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Al Quwa Al Jawiya,Kirkuk FC,3,0,H,NaN,NaN,NaN
-IRQ,06/06/2010,14:30,Masafi Al Junoob,Baghdad FC,2,0,H,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Al Semawah,Al Naft,3,1,H,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Al Kufa,Al Nasiriya,2,2,D,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Al Itesalat,Al Minaa,0,3,A,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Misan FC,Al Diwaniya,0,2,A,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Karbalaa FC,Al Karkh SC,1,1,D,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Naft Maysan,Al Talaba,0,0,D,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Al Shorta,Al Sinaa,2,2,D,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Naft Al Janoob,Al Hasanain,2,0,H,NaN,NaN,NaN
-IRQ,07/06/2010,14:30,Al Najaf,Al Hedood,4,0,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Kirkuk FC,Samaraa FC,3,1,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Hindiya,Diyala FC,3,0,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Duhok,Erbil,2,2,D,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Misan FC,Al Minaa,1,1,D,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Masafi,Al Shirqat,2,3,A,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Mosul,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Nasiriya,Al Naft,3,1,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Kufa,Al Shorta,1,1,D,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Karkh SC,Al Najaf,2,2,D,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Semawah,Naft Al Janoob,1,2,A,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Diwaniya,Naft Maysan,0,1,A,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Sinaa,Al Talaba,1,1,D,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Kahraba,Al Quwa Al Jawiya,1,4,A,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Hedood,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Zakho,Masafi Al Junoob,2,0,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Al Hasanain,Karbalaa FC,1,0,H,NaN,NaN,NaN
-IRQ,10/06/2010,14:30,Baghdad FC,Al Ramadi,1,1,D,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Shorta,Al Naft,2,1,H,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Misan FC,Al Hedood,1,1,D,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Semawah,Al Nasiriya,0,2,A,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Naft Maysan,Al Minaa,0,2,A,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Sinaa,Al Diwaniya,2,1,H,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Itesalat,Al Karkh SC,0,1,A,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Najaf,Al Hasanain,1,0,H,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Al Talaba,Al Kufa,2,1,H,NaN,NaN,NaN
-IRQ,14/06/2010,14:30,Naft Al Janoob,Karbalaa FC,1,1,D,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Masafi Al Junoob,Salahaddin FC,0,0,D,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Masafi,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Erbil,Diyala FC,5,0,H,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Shirqat,Duhok,0,0,D,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Ramadi,Zakho,3,1,H,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Mosul,Baghdad FC,2,1,H,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Hindiya,Al Kahraba,0,2,A,NaN,NaN,NaN
-IRQ,15/06/2010,14:30,Al Quwa Al Jawiya,Samaraa FC,1,0,H,NaN,NaN,NaN
-IRQ,17/06/2010,15:00,Al Hasanain,Al Itesalat,1,0,H,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Shorta,Al Semawah,1,1,D,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Karkh SC,Misan FC,2,1,H,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Diwaniya,Al Kufa,3,2,H,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Hedood,Naft Maysan,1,1,D,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Naft,Al Talaba,0,2,A,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Minaa,Al Sinaa,4,1,H,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Al Nasiriya,Naft Al Janoob,0,0,D,NaN,NaN,NaN
-IRQ,18/06/2010,15:00,Karbalaa FC,Al Najaf,2,1,H,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Erbil,Al Kahraba,3,1,H,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Al Mosul,Zakho,0,0,D,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Salahaddin FC,Al Ramadi,1,2,A,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Diyala FC,Al Shirqat,1,0,H,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Al Hindiya,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Al Zawraa,Duhok,1,0,H,NaN,NaN,NaN
-IRQ,19/06/2010,15:00,Baghdad FC,Al Masafi,0,0,D,NaN,NaN,NaN
-IRQ,20/06/2010,15:00,Masafi Al Junoob,Kirkuk FC,1,3,A,NaN,NaN,NaN
-IRQ,20/06/2010,15:00,Misan FC,Al Hasanain,1,1,D,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Kufa,Al Minaa,1,1,D,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Sinaa,Al Hedood,2,1,H,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Itesalat,Karbalaa FC,1,2,A,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Nasiriya,Al Shorta,0,1,A,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Talaba,Al Semawah,5,1,H,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Naft Maysan,Al Karkh SC,0,0,D,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Naft,Al Diwaniya,3,1,H,NaN,NaN,NaN
-IRQ,21/06/2010,15:00,Al Najaf,Naft Al Janoob,1,0,H,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Masafi Al Junoob,Samaraa FC,0,0,D,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Al Mosul,Salahaddin FC,3,0,H,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Al Ramadi,Kirkuk FC,1,2,A,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Al Hindiya,Erbil,0,2,A,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Al Shirqat,Al Kahraba,0,0,D,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Diyala FC,Al Zawraa,1,0,H,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Al Masafi,Zakho,1,3,A,NaN,NaN,NaN
-IRQ,22/06/2010,15:00,Duhok,Baghdad FC,0,1,A,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Karbalaa FC,Misan FC,1,0,H,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Hasanain,Naft Maysan,2,3,A,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Talaba,Al Nasiriya,4,1,H,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Karkh SC,Al Sinaa,0,2,A,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Najaf,Al Itesalat,3,0,H,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Hedood,Al Kufa,1,3,A,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Semawah,Al Diwaniya,0,3,A,NaN,NaN,NaN
-IRQ,24/06/2010,15:00,Al Minaa,Al Naft,1,0,H,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Samaraa FC,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Salahaddin FC,Al Masafi,2,2,D,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Zakho,Duhok,1,1,D,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Al Quwa Al Jawiya,Erbil,0,1,A,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Al Shirqat,Al Hindiya,0,0,D,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Al Kahraba,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Baghdad FC,Diyala FC,1,0,H,NaN,NaN,NaN
-IRQ,25/06/2010,15:00,Kirkuk FC,Al Mosul,0,2,A,NaN,NaN,NaN
-IRQ,26/06/2010,15:00,Naft Al Janoob,Al Shorta,2,0,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Duhok,Salahaddin FC,3,0,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Al Mosul,Samaraa FC,0,0,D,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Al Masafi,Kirkuk FC,4,3,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Erbil,Al Shirqat,2,1,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Masafi Al Junoob,Al Quwa Al Jawiya,1,0,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Al Zawraa,Al Hindiya,1,0,H,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Diyala FC,Zakho,1,1,D,NaN,NaN,NaN
-IRQ,29/06/2010,15:00,Al Kahraba,Baghdad FC,1,1,D,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Misan FC,Al Najaf,0,3,A,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Naft Maysan,Karbalaa FC,0,0,D,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Diwaniya,Al Nasiriya,1,0,H,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Kufa,Al Karkh SC,0,0,D,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Sinaa,Al Hasanain,4,1,H,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Semawah,Al Minaa,0,2,A,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Itesalat,Naft Al Janoob,0,2,A,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Naft,Al Hedood,3,0,H,NaN,NaN,NaN
-IRQ,30/06/2010,15:00,Al Shorta,Al Talaba,2,1,H,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Samaraa FC,Al Masafi,1,1,D,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Salahaddin FC,Diyala FC,0,3,A,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Al Quwa Al Jawiya,Al Shirqat,3,1,H,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Erbil,Al Zawraa,2,0,H,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Masafi Al Junoob,Al Ramadi,0,0,D,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Zakho,Al Kahraba,0,1,A,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Al Hindiya,Baghdad FC,0,0,D,NaN,NaN,NaN
-IRQ,02/07/2010,15:00,Kirkuk FC,Duhok,2,3,A,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Itesalat,Misan FC,5,3,H,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Hasanain,Al Kufa,0,0,D,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Naft Al Janoob,Al Talaba,0,0,D,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Hedood,Al Semawah,0,0,D,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Najaf,Naft Maysan,1,1,D,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Karbalaa FC,Al Sinaa,1,0,H,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Shorta,Al Diwaniya,2,1,H,NaN,NaN,NaN
-IRQ,03/07/2010,15:00,Al Karkh SC,Al Naft,0,0,D,NaN,NaN,NaN
-IRQ,04/07/2010,15:00,Al Nasiriya,Al Minaa,2,1,H,NaN,NaN,NaN
-IRQ,05/07/2010,15:00,Baghdad FC,Erbil,2,2,D,NaN,NaN,NaN
-IRQ,05/07/2010,15:00,Al Kahraba,Salahaddin FC,0,0,D,NaN,NaN,NaN
-IRQ,06/07/2010,,Al Mosul,Masafi Al Junoob,3,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Samaraa FC,Duhok,1,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Diyala FC,Kirkuk FC,0,2,A,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Semawah,Al Karkh SC,2,1,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Shirqat,Al Zawraa,1,4,A,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Hindiya,Zakho,2,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Sinaa,Al Najaf,1,3,A,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Ramadi,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Talaba,Al Diwaniya,1,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Naft,Al Hasanain,3,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Karbalaa FC,Al Kufa,2,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Nasiriya,Al Hedood,0,0,D,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Misan FC,Naft Al Janoob,0,2,A,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Al Minaa,Al Shorta,2,0,H,NaN,NaN,NaN
-IRQ,06/07/2010,15:00,Naft Maysan,Al Itesalat,3,1,H,NaN,NaN,NaN
-IRQ,15/07/2010,15:00,Baghdad FC,Al Zawraa,0,0,D,NaN,NaN,NaN
-IRQ,15/07/2010,15:00,Al Kahraba,Al Najaf,2,1,H,NaN,NaN,NaN
-IRQ,15/07/2010,15:00,Naft Al Janoob,Karbalaa FC,0,1,A,NaN,NaN,NaN
-IRQ,16/07/2010,15:00,Al Sinaa,Al Talaba,1,2,A,NaN,NaN,NaN
-IRQ,16/07/2010,15:00,Al Quwa Al Jawiya,Duhok,0,0,D,NaN,NaN,NaN
-IRQ,16/07/2010,16:30,Erbil,Al Shorta,0,1,A,NaN,NaN,NaN
-IRQ,03/08/2010,15:00,Al Talaba,Baghdad FC,0,0,D,NaN,NaN,NaN
-IRQ,03/08/2010,15:00,Al Zawraa,Al Sinaa,3,1,H,NaN,NaN,NaN
-IRQ,03/08/2010,15:00,Al Shorta,Al Kahraba,1,1,D,NaN,NaN,NaN
-IRQ,03/08/2010,15:00,Al Najaf,Erbil,1,2,A,NaN,NaN,NaN
-IRQ,03/08/2010,15:00,Karbalaa FC,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
-IRQ,03/08/2010,16:30,Duhok,Naft Al Janoob,1,0,H,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Al Zawraa,Al Talaba,1,0,H,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Al Shorta,Al Najaf,1,0,H,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Karbalaa FC,Duhok,2,3,A,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Erbil,Al Kahraba,3,1,H,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Al Quwa Al Jawiya,Naft Al Janoob,3,0,H,NaN,NaN,NaN
-IRQ,07/08/2010,15:00,Baghdad FC,Al Sinaa,0,1,A,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Al Shorta,Erbil,0,2,A,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Al Zawraa,Baghdad FC,0,1,A,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Al Talaba,Al Sinaa,1,2,A,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Duhok,Al Quwa Al Jawiya,2,0,H,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Al Najaf,Al Kahraba,2,1,H,NaN,NaN,NaN
-IRQ,11/08/2010,14:30,Karbalaa FC,Naft Al Janoob,2,1,H,NaN,NaN,NaN
-IRQ,15/08/2010,14:30,Al Sinaa,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,15/08/2010,14:30,Erbil,Al Najaf,2,1,H,NaN,NaN,NaN
-IRQ,15/08/2010,14:30,Al Kahraba,Al Shorta,0,0,D,NaN,NaN,NaN
-IRQ,15/08/2010,14:30,Naft Al Janoob,Duhok,0,1,A,NaN,NaN,NaN
-IRQ,15/08/2010,14:30,Baghdad FC,Al Talaba,0,1,A,NaN,NaN,NaN
-IRQ,19/08/2010,14:30,Al Quwa Al Jawiya,Karbalaa FC,3,0,H,NaN,NaN,NaN
-IRQ,20/08/2010,14:50,Al Kahraba,Erbil,1,0,H,NaN,NaN,NaN
-IRQ,23/08/2010,14:30,Al Talaba,Al Zawraa,2,1,H,NaN,NaN,NaN
-IRQ,23/08/2010,14:30,Al Sinaa,Baghdad FC,2,2,D,NaN,NaN,NaN
-IRQ,23/08/2010,14:30,Duhok,Karbalaa FC,3,2,H,NaN,NaN,NaN
-IRQ,23/08/2010,14:30,Al Najaf,Al Shorta,2,2,D,NaN,NaN,NaN
-IRQ,23/08/2010,14:30,Naft Al Janoob,Al Quwa Al Jawiya,0,0,D,NaN,NaN,NaN
-IRQ,27/08/2010,14:30,Duhok,Al Zawraa,5,1,H,2,0,H
-IRQ,27/08/2010,14:30,Erbil,Al Talaba,0,1,A,0,1,A
-IRQ,31/08/2010,13:30,Al Zawraa,Duhok,1,0,H,0,0,D
-IRQ,31/08/2010,13:30,Al Talaba,Erbil,0,0,D,0,0,D
-IRQ,03/09/2010,13:45,Al Zawraa,Erbil,2,1,H,1,0,H
-IRQ,04/09/2010,18:30,Al Talaba,Duhok,0,1,A,0,0,D
+IRQ,2009-04-23,14:00,Al Ramadi,Al Mosul,1,1,D,,,
+IRQ,2009-12-30,11:30,Al Shirqat,Baghdad FC,1,1,D,,,
+IRQ,2009-12-30,11:30,Al Talaba,Al Minaa,1,1,D,,,
+IRQ,2009-12-30,11:30,Al Quwa Al Jawiya,Al Zawraa,1,0,H,,,
+IRQ,2009-12-30,11:30,Peris FC,Duhok,0,1,A,,,
+IRQ,2009-12-30,11:30,Al Itesalat,Al Sinaa,1,2,A,,,
+IRQ,2009-12-31,11:30,Al Shorta,Al Hedood,0,0,D,,,
+IRQ,2009-12-31,11:30,Al Nasiriya,Al Karkh SC,2,2,D,,,
+IRQ,2010-01-01,11:30,Al Najaf,Al Kufa,2,0,H,,,
+IRQ,2010-01-01,11:30,Samaraa FC,Diyala FC,1,0,H,,,
+IRQ,2010-01-01,11:30,Karbalaa FC,Al Naft,1,0,H,,,
+IRQ,2010-01-01,11:30,Al Semawah,Al Hasanain,0,1,A,,,
+IRQ,2010-01-01,11:30,Naft Al Janoob,Al Diwaniya,2,1,H,,,
+IRQ,2010-01-02,11:30,Al Kahraba,Kirkuk FC,1,1,D,,,
+IRQ,2010-01-02,11:30,Misan FC,Naft Maysan,1,1,D,,,
+IRQ,2010-01-02,11:30,Erbil,Zakho,4,0,H,,,
+IRQ,2010-01-04,11:30,Baghdad FC,Al Zawraa,1,0,H,,,
+IRQ,2010-01-04,11:30,Al Masafi,Al Ramadi,3,0,H,,,
+IRQ,2010-01-04,11:30,Al Hasanain,Al Nasiriya,0,0,D,,,
+IRQ,2010-01-05,11:00,Samaraa FC,Al Kahraba,0,1,A,,,
+IRQ,2010-01-05,11:00,Al Mosul,Al Quwa Al Jawiya,0,1,A,,,
+IRQ,2010-01-05,11:00,Zakho,Al Shirqat,2,0,H,,,
+IRQ,2010-01-05,11:00,Salahaddin FC,Erbil,0,2,A,,,
+IRQ,2010-01-05,11:00,Karbalaa FC,Al Semawah,4,1,H,,,
+IRQ,2010-01-05,11:00,Al Minaa,Al Diwaniya,1,0,H,,,
+IRQ,2010-01-05,11:00,Al Kufa,Al Itesalat,1,0,H,,,
+IRQ,2010-01-05,11:00,Naft Maysan,Naft Al Janoob,0,1,A,,,
+IRQ,2010-01-05,11:30,Al Naft,Al Najaf,0,0,D,,,
+IRQ,2010-01-05,11:30,Al Hedood,Al Talaba,0,0,D,,,
+IRQ,2010-01-05,11:30,Al Sinaa,Misan FC,2,1,H,,,
+IRQ,2010-01-06,11:30,Diyala FC,Peris FC,1,1,D,,,
+IRQ,2010-01-06,11:30,Al Karkh SC,Al Shorta,2,2,D,,,
+IRQ,2010-01-08,11:00,Al Mosul,Al Masafi,1,1,D,,,
+IRQ,2010-01-08,11:00,Al Semawah,Al Najaf,0,3,A,,,
+IRQ,2010-01-08,11:00,Al Diwaniya,Al Hedood,1,1,D,,,
+IRQ,2010-01-08,11:00,Al Shirqat,Salahaddin FC,3,1,H,,,
+IRQ,2010-01-08,11:30,Al Itesalat,Al Naft,1,0,H,,,
+IRQ,2010-01-08,11:30,Al Hindiya,Samaraa FC,0,2,A,,,
+IRQ,2010-01-09,11:00,Erbil,Kirkuk FC,2,0,H,,,
+IRQ,2010-01-09,11:00,Al Nasiriya,Karbalaa FC,1,1,D,,,
+IRQ,2010-01-09,11:00,Al Ramadi,Duhok,0,2,A,,,
+IRQ,2010-01-09,11:00,Misan FC,Al Kufa,1,0,H,,,
+IRQ,2010-01-09,11:00,Naft Maysan,Al Sinaa,0,0,D,,,
+IRQ,2010-01-09,11:30,Al Shorta,Al Hasanain,2,2,D,,,
+IRQ,2010-01-09,11:30,Al Zawraa,Zakho,1,1,D,,,
+IRQ,2010-01-09,11:30,Al Kahraba,Peris FC,2,1,H,,,
+IRQ,2010-01-10,11:00,Naft Al Janoob,Al Minaa,1,0,H,,,
+IRQ,2010-01-10,11:30,Al Quwa Al Jawiya,Baghdad FC,2,1,H,,,
+IRQ,2010-01-10,11:30,Al Talaba,Al Karkh SC,1,0,H,,,
+IRQ,2010-01-10,11:30,Masafi Al Junoob,Diyala FC,1,3,A,,,
+IRQ,2010-01-15,11:00,Duhok,Al Mosul,2,0,H,,,
+IRQ,2010-01-15,11:00,Al Najaf,Al Nasiriya,2,1,H,,,
+IRQ,2010-01-15,11:00,Karbalaa FC,Al Shorta,1,0,H,,,
+IRQ,2010-01-15,11:00,Samaraa FC,Erbil,0,1,A,,,
+IRQ,2010-01-15,11:00,Zakho,Baghdad FC,0,1,A,,,
+IRQ,2010-01-15,11:00,Salahaddin FC,Al Zawraa,0,2,A,,,
+IRQ,2010-01-15,11:30,Al Kahraba,Masafi Al Junoob,5,0,H,,,
+IRQ,2010-01-15,11:30,Al Naft,Misan FC,2,0,H,,,
+IRQ,2010-01-15,11:30,Al Hedood,Al Minaa,0,0,D,,,
+IRQ,2010-01-15,11:30,Al Masafi,Al Quwa Al Jawiya,3,4,A,,,
+IRQ,2010-01-16,11:00,Al Kufa,Naft Maysan,1,0,H,,,
+IRQ,2010-01-16,11:00,Diyala FC,Al Ramadi,0,0,D,,,
+IRQ,2010-01-16,11:00,Kirkuk FC,Al Shirqat,1,2,A,,,
+IRQ,2010-01-16,11:00,Peris FC,Al Hindiya,7,0,H,,,
+IRQ,2010-01-16,11:00,Al Semawah,Al Itesalat,2,0,H,,,
+IRQ,2010-01-16,11:30,Al Sinaa,Naft Al Janoob,1,0,H,,,
+IRQ,2010-01-16,11:30,Al Karkh SC,Al Diwaniya,0,1,A,,,
+IRQ,2010-01-16,11:30,Al Hasanain,Al Talaba,0,1,A,,,
+IRQ,2010-01-19,11:00,Al Ramadi,Al Kahraba,0,2,A,,,
+IRQ,2010-01-19,11:00,Misan FC,Al Semawah,0,0,D,,,
+IRQ,2010-01-19,11:00,Naft Maysan,Al Naft,1,2,A,,,
+IRQ,2010-01-19,11:00,Al Shirqat,Samaraa FC,1,1,D,,,
+IRQ,2010-01-19,11:30,Al Sinaa,Al Kufa,0,0,D,,,
+IRQ,2010-01-19,11:30,Baghdad FC,Salahaddin FC,1,1,D,,,
+IRQ,2010-01-19,11:30,Al Hedood,Naft Al Janoob,0,0,D,,,
+IRQ,2010-01-19,11:30,Al Masafi,Duhok,1,0,H,,,
+IRQ,2010-01-20,11:00,Al Mosul,Diyala FC,0,2,A,,,
+IRQ,2010-01-20,11:00,Erbil,Peris FC,1,0,H,,,
+IRQ,2010-01-20,11:00,Zakho,Al Quwa Al Jawiya,1,0,H,,,
+IRQ,2010-01-20,11:00,Al Nasiriya,Al Itesalat,1,1,D,,,
+IRQ,2010-01-20,11:00,Al Minaa,Al Karkh SC,2,1,H,,,
+IRQ,2010-01-20,11:00,Al Diwaniya,Al Hasanain,2,1,H,,,
+IRQ,2010-01-20,11:00,Al Hindiya,Masafi Al Junoob,2,2,D,,,
+IRQ,2010-01-20,11:30,Al Talaba,Karbalaa FC,1,0,H,,,
+IRQ,2010-01-20,11:30,Al Shorta,Al Najaf,1,0,H,,,
+IRQ,2010-01-20,11:30,Al Zawraa,Kirkuk FC,4,0,H,,,
+IRQ,2010-01-23,11:00,Kirkuk FC,Baghdad FC,1,0,H,,,
+IRQ,2010-01-23,11:00,Al Semawah,Naft Maysan,1,2,A,,,
+IRQ,2010-01-23,11:00,Peris FC,Al Shirqat,2,0,H,,,
+IRQ,2010-01-23,11:00,Naft Al Janoob,Al Kufa,1,0,H,,,
+IRQ,2010-01-23,11:00,Masafi Al Junoob,Erbil,0,3,A,,,
+IRQ,2010-01-23,11:30,Al Naft,Al Sinaa,1,2,A,,,
+IRQ,2010-01-23,11:30,Al Kahraba,Al Mosul,0,0,D,,,
+IRQ,2010-01-23,11:30,Al Itesalat,Al Shorta,1,2,A,,,
+IRQ,2010-01-23,11:30,Al Hindiya,Al Ramadi,2,2,D,,,
+IRQ,2010-01-24,11:00,Samaraa FC,Al Zawraa,1,0,H,,,
+IRQ,2010-01-24,11:00,Diyala FC,Al Masafi,0,2,A,,,
+IRQ,2010-01-24,11:00,Al Najaf,Al Talaba,1,1,D,,,
+IRQ,2010-01-24,11:00,Karbalaa FC,Al Diwaniya,0,1,A,,,
+IRQ,2010-01-24,11:00,Salahaddin FC,Zakho,1,0,H,,,
+IRQ,2010-01-24,11:30,Al Karkh SC,Al Hedood,0,1,A,,,
+IRQ,2010-01-24,11:30,Al Quwa Al Jawiya,Duhok,1,0,H,,,
+IRQ,2010-01-24,11:30,Al Hasanain,Al Minaa,1,0,H,,,
+IRQ,2010-02-08,11:00,Zakho,Kirkuk FC,2,0,H,,,
+IRQ,2010-02-09,11:00,Al Mosul,Al Hindiya,0,1,A,,,
+IRQ,2010-02-09,11:00,Duhok,Diyala FC,4,1,H,,,
+IRQ,2010-02-09,11:00,Erbil,Al Ramadi,1,0,H,,,
+IRQ,2010-02-09,11:00,Baghdad FC,Samaraa FC,3,0,H,,,
+IRQ,2010-02-09,11:00,Al Shirqat,Masafi Al Junoob,3,0,H,,,
+IRQ,2010-02-09,11:30,Al Zawraa,Peris FC,2,0,H,,,
+IRQ,2010-02-09,11:30,Al Quwa Al Jawiya,Salahaddin FC,1,0,H,,,
+IRQ,2010-02-09,11:30,Al Kahraba,Al Masafi,2,0,H,,,
+IRQ,2010-02-10,11:00,Al Minaa,Karbalaa FC,0,0,D,,,
+IRQ,2010-02-10,11:00,Al Semawah,Al Sinaa,1,2,A,,,
+IRQ,2010-02-10,11:00,Naft Al Janoob,Al Karkh SC,3,0,H,,,
+IRQ,2010-02-10,11:00,Al Diwaniya,Al Najaf,1,1,D,,,
+IRQ,2010-02-10,11:00,Al Kufa,Al Naft,2,1,H,,,
+IRQ,2010-02-10,11:00,Naft Maysan,Al Nasiriya,1,1,D,,,
+IRQ,2010-02-10,11:30,Al Talaba,Al Itesalat,3,0,H,,,
+IRQ,2010-02-10,11:30,Al Shorta,Misan FC,2,0,H,,,
+IRQ,2010-02-10,11:30,Al Hedood,Al Hasanain,2,2,D,,,
+IRQ,2010-02-12,11:00,Samaraa FC,Zakho,0,0,D,,,
+IRQ,2010-02-12,11:30,Al Zawraa,Masafi Al Junoob,3,1,H,,,
+IRQ,2010-02-13,11:00,Diyala FC,Al Quwa Al Jawiya,0,1,A,,,
+IRQ,2010-02-13,11:00,Duhok,Al Kahraba,2,1,H,,,
+IRQ,2010-02-13,11:00,Erbil,Al Mosul,1,0,H,,,
+IRQ,2010-02-13,11:00,Salahaddin FC,Kirkuk FC,2,1,H,,,
+IRQ,2010-02-13,11:00,Al Ramadi,Al Shirqat,3,0,H,,,
+IRQ,2010-02-13,11:30,Al Shorta,Naft Maysan,0,0,D,,,
+IRQ,2010-02-13,11:30,Al Karkh SC,Al Hasanain,4,1,H,,,
+IRQ,2010-02-14,11:00,Karbalaa FC,Al Hedood,1,0,H,,,
+IRQ,2010-02-14,11:00,Misan FC,Al Talaba,0,1,A,,,
+IRQ,2010-02-14,11:00,Al Kufa,Al Semawah,0,1,A,,,
+IRQ,2010-02-14,11:00,Peris FC,Baghdad FC,1,0,H,,,
+IRQ,2010-02-14,11:30,Al Sinaa,Al Nasiriya,2,1,H,,,
+IRQ,2010-02-14,11:30,Al Naft,Naft Al Janoob,0,1,A,,,
+IRQ,2010-02-14,11:30,Al Itesalat,Al Diwaniya,0,0,D,,,
+IRQ,2010-02-14,11:30,Al Masafi,Al Hindiya,1,0,H,,,
+IRQ,2010-02-15,11:00,Al Najaf,Al Minaa,2,0,H,,,
+IRQ,2010-02-18,11:00,Al Naft,Al Semawah,1,0,H,,,
+IRQ,2010-02-19,11:00,Al Nasiriya,Al Kufa,2,1,H,,,
+IRQ,2010-02-19,11:00,Al Minaa,Al Itesalat,1,0,H,,,
+IRQ,2010-02-19,11:00,Salahaddin FC,Samaraa FC,3,3,D,,,
+IRQ,2010-02-19,11:00,Al Diwaniya,Misan FC,2,1,H,,,
+IRQ,2010-02-19,11:00,Al Hindiya,Duhok,1,1,D,,,
+IRQ,2010-02-19,11:00,Al Shirqat,Al Mosul,0,0,D,,,
+IRQ,2010-02-19,11:30,Al Zawraa,Al Ramadi,0,0,D,,,
+IRQ,2010-02-19,11:30,Al Karkh SC,Karbalaa FC,0,0,D,,,
+IRQ,2010-02-19,11:30,Al Kahraba,Diyala FC,2,2,D,,,
+IRQ,2010-02-19,11:30,Al Masafi,Erbil,0,0,D,,,
+IRQ,2010-02-20,11:00,Kirkuk FC,Al Quwa Al Jawiya,0,1,A,,,
+IRQ,2010-02-20,11:00,Zakho,Peris FC,1,0,H,,,
+IRQ,2010-02-20,11:30,Al Talaba,Naft Maysan,4,0,H,,,
+IRQ,2010-02-20,11:30,Al Sinaa,Al Shorta,0,2,A,,,
+IRQ,2010-02-20,11:30,Al Hasanain,Naft Al Janoob,1,1,D,,,
+IRQ,2010-02-20,11:30,Baghdad FC,Masafi Al Junoob,1,0,H,,,
+IRQ,2010-02-20,11:30,Al Hedood,Al Najaf,0,0,D,,,
+IRQ,2010-02-23,11:30,Samaraa FC,Kirkuk FC,0,0,D,,,
+IRQ,2010-02-23,11:30,Diyala FC,Al Hindiya,1,0,H,,,
+IRQ,2010-02-23,11:30,Erbil,Duhok,1,0,H,,,
+IRQ,2010-02-23,11:30,Al Minaa,Misan FC,1,0,H,,,
+IRQ,2010-02-23,11:30,Peris FC,Salahaddin FC,2,1,H,,,
+IRQ,2010-02-23,11:30,Al Shirqat,Al Masafi,0,0,D,,,
+IRQ,2010-02-23,12:00,Al Zawraa,Al Mosul,1,0,H,,,
+IRQ,2010-02-23,12:00,Al Naft,Al Nasiriya,2,1,H,,,
+IRQ,2010-02-24,11:30,Al Shorta,Al Kufa,1,0,H,,,
+IRQ,2010-02-24,11:30,Al Najaf,Al Karkh SC,1,1,D,,,
+IRQ,2010-02-24,11:30,Naft Al Janoob,Al Semawah,2,0,H,,,
+IRQ,2010-02-24,11:30,Naft Maysan,Al Diwaniya,2,0,H,,,
+IRQ,2010-02-24,12:00,Al Talaba,Al Sinaa,2,1,H,,,
+IRQ,2010-02-24,12:00,Al Quwa Al Jawiya,Al Kahraba,2,2,D,,,
+IRQ,2010-02-24,12:00,Al Itesalat,Al Hedood,0,0,D,,,
+IRQ,2010-02-24,12:00,Masafi Al Junoob,Zakho,1,2,A,,,
+IRQ,2010-02-25,11:30,Karbalaa FC,Al Hasanain,1,0,H,,,
+IRQ,2010-02-26,11:30,Salahaddin FC,Masafi Al Junoob,0,0,D,,,
+IRQ,2010-02-26,12:00,Al Zawraa,Al Masafi,0,0,D,,,
+IRQ,2010-02-27,11:30,Diyala FC,Erbil,0,3,A,,,
+IRQ,2010-02-27,11:30,Kirkuk FC,Peris FC,1,1,D,,,
+IRQ,2010-02-27,11:30,Duhok,Al Shirqat,2,0,H,,,
+IRQ,2010-02-27,11:30,Zakho,Al Ramadi,0,1,A,,,
+IRQ,2010-02-27,12:00,Baghdad FC,Al Mosul,1,0,H,,,
+IRQ,2010-02-27,12:00,Al Naft,Al Shorta,1,3,A,,,
+IRQ,2010-02-27,12:00,Al Kahraba,Al Hindiya,3,1,H,,,
+IRQ,2010-02-27,12:00,Al Hedood,Misan FC,1,0,H,,,
+IRQ,2010-02-28,11:30,Samaraa FC,Al Quwa Al Jawiya,0,3,A,,,
+IRQ,2010-02-28,11:30,Al Nasiriya,Al Semawah,2,1,H,,,
+IRQ,2010-02-28,11:30,Al Minaa,Naft Maysan,1,0,H,,,
+IRQ,2010-02-28,11:30,Al Diwaniya,Al Sinaa,0,2,A,,,
+IRQ,2010-02-28,12:00,Al Karkh SC,Al Itesalat,1,1,D,,,
+IRQ,2010-02-28,12:00,Al Hasanain,Al Najaf,0,0,D,,,
+IRQ,2010-03-02,11:30,Al Kufa,Al Talaba,1,0,H,,,
+IRQ,2010-03-02,11:30,Karbalaa FC,Naft Al Janoob,0,0,D,,,
+IRQ,2010-03-03,11:30,Al Nasiriya,Misan FC,1,0,H,,,
+IRQ,2010-03-03,11:30,Al Ramadi,Baghdad FC,1,0,H,,,
+IRQ,2010-03-03,12:00,Al Hindiya,Salahaddin FC,3,2,H,,,
+IRQ,2010-03-03,12:00,Masafi Al Junoob,Al Masafi,0,0,D,,,
+IRQ,2010-03-12,11:30,Duhok,Masafi Al Junoob,3,0,H,,,
+IRQ,2010-03-13,12:00,Kirkuk FC,Al Hindiya,0,2,A,,,
+IRQ,2010-03-15,11:30,Kirkuk FC,Masafi Al Junoob,2,2,D,,,
+IRQ,2010-03-15,12:00,Al Kahraba,Erbil,0,0,D,,,
+IRQ,2010-03-16,12:00,Al Nasiriya,Naft Al Janoob,1,1,D,,,
+IRQ,2010-03-16,12:00,Peris FC,Samaraa FC,2,1,H,,,
+IRQ,2010-03-16,12:00,Al Ramadi,Salahaddin FC,1,0,H,,,
+IRQ,2010-03-16,12:00,Al Shirqat,Diyala FC,1,0,H,,,
+IRQ,2010-03-16,12:30,Al Quwa Al Jawiya,Al Hindiya,2,1,H,,,
+IRQ,2010-03-16,12:30,Al Itesalat,Al Hasanain,0,1,A,,,
+IRQ,2010-03-16,,Zakho,Al Mosul,3,0,H,,,
+IRQ,2010-03-16,,Al Semawah,Al Shorta,0,3,A,,,
+IRQ,2010-03-16,,Misan FC,Al Karkh SC,3,0,H,,,
+IRQ,2010-03-16,,Al Kufa,Al Diwaniya,3,0,H,,,
+IRQ,2010-03-16,,Naft Maysan,Al Hedood,3,0,H,,,
+IRQ,2010-03-16,,Al Talaba,Al Naft,0,3,A,,,
+IRQ,2010-03-16,,Al Sinaa,Al Minaa,3,0,H,,,
+IRQ,2010-03-17,12:00,Duhok,Al Zawraa,3,0,H,,,
+IRQ,2010-03-17,12:00,Al Najaf,Karbalaa FC,0,3,A,,,
+IRQ,2010-03-17,12:30,Al Masafi,Baghdad FC,0,0,D,,,
+IRQ,2010-03-19,12:00,Samaraa FC,Masafi Al Junoob,3,0,H,,,
+IRQ,2010-03-20,12:00,Kirkuk FC,Al Ramadi,2,1,H,,,
+IRQ,2010-03-20,12:00,Erbil,Al Hindiya,3,0,H,,,
+IRQ,2010-03-20,12:30,Al Quwa Al Jawiya,Peris FC,0,0,D,,,
+IRQ,2010-03-20,12:30,Al Kahraba,Al Shirqat,1,0,H,,,
+IRQ,2010-03-20,,Al Minaa,Al Kufa,0,3,A,,,
+IRQ,2010-03-20,,Salahaddin FC,Al Mosul,3,0,H,,,
+IRQ,2010-03-20,,Al Hasanain,Misan FC,3,0,H,,,
+IRQ,2010-03-20,,Al Hedood,Al Sinaa,0,3,A,,,
+IRQ,2010-03-21,12:00,Zakho,Al Masafi,0,2,A,,,
+IRQ,2010-03-21,12:00,Karbalaa FC,Al Itesalat,1,0,H,,,
+IRQ,2010-03-21,12:30,Al Shorta,Al Nasiriya,1,0,H,,,
+IRQ,2010-03-21,12:30,Baghdad FC,Duhok,4,2,H,,,
+IRQ,2010-03-21,,Al Zawraa,Diyala FC,0,3,A,,,
+IRQ,2010-03-26,12:00,Al Ramadi,Samaraa FC,1,0,H,,,
+IRQ,2010-03-26,12:00,Misan FC,Karbalaa FC,0,1,A,,,
+IRQ,2010-03-26,12:00,Naft Maysan,Al Hasanain,0,3,A,,,
+IRQ,2010-03-26,12:30,Al Masafi,Salahaddin FC,0,0,D,,,
+IRQ,2010-03-27,12:00,Duhok,Zakho,2,0,H,,,
+IRQ,2010-03-27,12:00,Erbil,Al Quwa Al Jawiya,0,1,A,,,
+IRQ,2010-03-27,12:00,Al Hindiya,Al Shirqat,3,0,H,,,
+IRQ,2010-03-29,13:30,Al Shorta,Naft Al Janoob,2,2,D,,,
+IRQ,2010-03-29,13:30,Masafi Al Junoob,Peris FC,0,2,A,,,
+IRQ,2010-03-29,13:30,Al Zawraa,Al Kahraba,0,0,D,,,
+IRQ,2010-03-30,13:00,Diyala FC,Baghdad FC,1,4,A,,,
+IRQ,2010-03-30,13:00,Al Mosul,Kirkuk FC,1,0,H,,,
+IRQ,2010-03-30,13:00,Al Nasiriya,Al Talaba,0,0,D,,,
+IRQ,2010-03-30,13:30,Al Sinaa,Al Karkh SC,2,1,H,,,
+IRQ,2010-03-30,13:30,Al Itesalat,Al Najaf,0,1,A,,,
+IRQ,2010-03-30,13:30,Al Kufa,Al Hedood,0,0,D,,,
+IRQ,2010-03-31,13:00,Al Diwaniya,Al Semawah,1,0,H,,,
+IRQ,2010-03-31,13:30,Al Naft,Al Minaa,0,1,A,,,
+IRQ,2010-04-02,13:00,Al Najaf,Misan FC,1,0,H,,,
+IRQ,2010-04-02,13:00,Karbalaa FC,Naft Maysan,2,2,D,,,
+IRQ,2010-04-02,13:00,Salahaddin FC,Duhok,0,0,D,,,
+IRQ,2010-04-03,13:00,Samaraa FC,Al Mosul,1,1,D,,,
+IRQ,2010-04-03,13:00,Kirkuk FC,Al Masafi,3,2,H,,,
+IRQ,2010-04-03,13:00,Al Nasiriya,Al Diwaniya,1,1,D,,,
+IRQ,2010-04-03,13:00,Al Shirqat,Erbil,1,4,A,,,
+IRQ,2010-04-03,13:00,Al Karkh SC,Al Kufa,1,0,H,,,
+IRQ,2010-04-03,13:30,Al Quwa Al Jawiya,Masafi Al Junoob,4,1,H,,,
+IRQ,2010-04-03,13:30,Al Hasanain,Al Sinaa,0,1,A,,,
+IRQ,2010-04-03,13:30,Al Hindiya,Al Zawraa,0,1,A,,,
+IRQ,2010-04-04,13:00,Al Minaa,Al Semawah,2,1,H,,,
+IRQ,2010-04-04,13:00,Peris FC,Al Ramadi,1,1,D,,,
+IRQ,2010-04-04,13:00,Naft Al Janoob,Al Itesalat,3,0,H,,,
+IRQ,2010-04-04,13:30,Baghdad FC,Al Kahraba,0,0,D,,,
+IRQ,2010-04-04,13:30,Al Hedood,Al Naft,0,1,A,,,
+IRQ,2010-04-04,14:00,Al Talaba,Al Shorta,2,2,D,,,
+IRQ,2010-04-04,,Zakho,Diyala FC,3,0,H,,,
+IRQ,2010-04-06,13:00,Misan FC,Al Itesalat,0,0,D,,,
+IRQ,2010-04-06,13:00,Al Kufa,Al Hasanain,1,2,A,,,
+IRQ,2010-04-06,13:30,Al Masafi,Samaraa FC,2,1,H,,,
+IRQ,2010-04-07,13:00,Al Talaba,Naft Al Janoob,1,0,H,,,
+IRQ,2010-04-07,13:00,Diyala FC,Salahaddin FC,0,0,D,,,
+IRQ,2010-04-07,13:00,Al Mosul,Peris FC,0,1,A,,,
+IRQ,2010-04-07,13:00,Al Minaa,Al Nasiriya,0,0,D,,,
+IRQ,2010-04-07,13:00,Al Semawah,Al Hedood,2,3,A,,,
+IRQ,2010-04-07,13:00,Naft Maysan,Al Najaf,1,2,A,,,
+IRQ,2010-04-07,13:00,Al Shirqat,Al Quwa Al Jawiya,0,4,A,,,
+IRQ,2010-04-07,13:30,Al Zawraa,Erbil,2,1,H,,,
+IRQ,2010-04-07,13:30,Al Sinaa,Karbalaa FC,0,0,D,,,
+IRQ,2010-04-08,13:00,Al Ramadi,Masafi Al Junoob,0,1,A,,,
+IRQ,2010-04-08,13:00,Al Diwaniya,Al Shorta,3,5,A,,,
+IRQ,2010-04-08,13:30,Al Naft,Al Karkh SC,0,0,D,,,
+IRQ,2010-04-08,13:30,Al Kahraba,Zakho,0,0,D,,,
+IRQ,2010-04-08,13:30,Baghdad FC,Al Hindiya,1,1,D,,,
+IRQ,2010-04-11,13:00,Duhok,Samaraa FC,1,0,H,,,
+IRQ,2010-04-11,13:30,Masafi Al Junoob,Al Mosul,1,2,A,,,
+IRQ,2010-04-12,13:00,Kirkuk FC,Diyala FC,0,1,A,,,
+IRQ,2010-04-12,13:00,Peris FC,Al Masafi,1,0,H,,,
+IRQ,2010-04-12,13:30,Al Karkh SC,Al Semawah,2,0,H,,,
+IRQ,2010-04-13,13:00,Al Zawraa,Al Shirqat,0,0,D,,,
+IRQ,2010-04-13,13:00,Erbil,Baghdad FC,2,1,H,,,
+IRQ,2010-04-13,13:00,Zakho,Al Hindiya,0,0,D,,,
+IRQ,2010-04-13,13:00,Al Najaf,Al Sinaa,1,1,D,,,
+IRQ,2010-04-13,13:00,Salahaddin FC,Al Kahraba,1,1,D,,,
+IRQ,2010-04-13,13:00,Al Quwa Al Jawiya,Al Ramadi,1,1,D,,,
+IRQ,2010-04-13,13:00,Al Diwaniya,Al Talaba,1,2,A,,,
+IRQ,2010-04-13,13:30,Al Hasanain,Al Naft,0,0,D,,,
+IRQ,2010-04-14,11:00,Al Kufa,Karbalaa FC,0,1,A,,,
+IRQ,2010-04-14,11:30,Al Hedood,Al Nasiriya,1,0,H,,,
+IRQ,2010-04-14,13:00,Naft Al Janoob,Misan FC,3,1,H,,,
+IRQ,2010-04-14,13:30,Al Shorta,Al Minaa,1,1,D,,,
+IRQ,2010-04-14,13:30,Al Itesalat,Naft Maysan,0,1,A,,,
+IRQ,2010-04-25,13:00,Al Semawah,Al Talaba,0,1,A,,,
+IRQ,2010-04-25,13:00,Al Karkh SC,Naft Maysan,2,1,H,,,
+IRQ,2010-04-26,14:00,Al Diwaniya,Al Naft,0,1,A,,,
+IRQ,2010-04-26,14:00,Duhok,Kirkuk FC,3,2,H,,,
+IRQ,2010-04-27,13:00,Naft Al Janoob,Al Najaf,0,3,A,,,
+IRQ,2010-04-30,13:00,Diyala FC,Samaraa FC,0,0,D,,,
+IRQ,2010-04-30,13:00,Al Mosul,Al Ramadi,0,0,D,,,
+IRQ,2010-04-30,13:00,Kirkuk FC,Al Kahraba,0,2,A,,,
+IRQ,2010-04-30,13:00,Zakho,Erbil,0,1,A,,,
+IRQ,2010-04-30,13:00,Salahaddin FC,Al Hindiya,1,1,D,,,
+IRQ,2010-04-30,13:00,Al Diwaniya,Naft Al Janoob,1,1,D,,,
+IRQ,2010-04-30,13:00,Naft Maysan,Misan FC,5,0,H,,,
+IRQ,2010-04-30,13:30,Al Sinaa,Al Itesalat,1,0,H,,,
+IRQ,2010-04-30,13:30,Al Karkh SC,Al Nasiriya,1,0,H,,,
+IRQ,2010-04-30,13:30,Al Hasanain,Al Semawah,1,2,A,,,
+IRQ,2010-04-30,13:30,Al Masafi,Masafi Al Junoob,1,1,D,,,
+IRQ,2010-04-30,14:00,Al Zawraa,Al Quwa Al Jawiya,0,3,A,,,
+IRQ,2010-05-01,13:00,Al Minaa,Al Talaba,1,0,H,,,
+IRQ,2010-05-01,13:00,Al Kufa,Al Najaf,0,2,A,,,
+IRQ,2010-05-01,13:30,Al Naft,Karbalaa FC,1,3,A,,,
+IRQ,2010-05-01,13:30,Baghdad FC,Al Shirqat,3,0,H,,,
+IRQ,2010-05-01,13:30,Al Hedood,Al Shorta,0,0,D,,,
+IRQ,2010-05-04,13:30,Al Ramadi,Al Masafi,1,1,D,,,
+IRQ,2010-05-04,13:30,Al Shirqat,Zakho,0,0,D,,,
+IRQ,2010-05-04,13:30,Naft Al Janoob,Naft Maysan,2,0,H,,,
+IRQ,2010-05-04,13:30,Misan FC,Al Sinaa,0,1,A,,,
+IRQ,2010-05-04,14:00,Al Zawraa,Baghdad FC,2,1,H,,,
+IRQ,2010-05-04,14:00,Al Quwa Al Jawiya,Al Mosul,2,1,H,,,
+IRQ,2010-05-04,14:00,Masafi Al Junoob,Duhok,0,2,A,,,
+IRQ,2010-05-04,14:00,Al Hindiya,Kirkuk FC,1,1,D,,,
+IRQ,2010-05-04,,Erbil,Salahaddin FC,3,0,H,,,
+IRQ,2010-05-05,13:30,Al Nasiriya,Al Hasanain,1,3,A,,,
+IRQ,2010-05-05,13:30,Al Semawah,Karbalaa FC,0,2,A,,,
+IRQ,2010-05-05,13:30,Al Diwaniya,Al Minaa,2,1,H,,,
+IRQ,2010-05-05,13:30,Al Najaf,Al Naft,0,0,D,,,
+IRQ,2010-05-05,14:00,Al Kahraba,Samaraa FC,0,0,D,,,
+IRQ,2010-05-05,14:00,Al Itesalat,Al Kufa,3,0,H,,,
+IRQ,2010-05-05,14:00,Al Talaba,Al Hedood,1,0,H,,,
+IRQ,2010-05-05,14:00,Al Shorta,Al Karkh SC,0,1,A,,,
+IRQ,2010-05-07,14:00,Al Masafi,Al Mosul,3,1,H,,,
+IRQ,2010-05-08,14:00,Salahaddin FC,Al Shirqat,1,0,H,,,
+IRQ,2010-05-08,14:00,Kirkuk FC,Erbil,1,1,D,,,
+IRQ,2010-05-08,14:00,Duhok,Al Ramadi,2,1,H,,,
+IRQ,2010-05-08,14:00,Al Sinaa,Naft Maysan,3,1,H,,,
+IRQ,2010-05-08,14:00,Al Hasanain,Al Shorta,0,1,A,,,
+IRQ,2010-05-08,14:00,Al Karkh SC,Al Talaba,1,1,D,,,
+IRQ,2010-05-09,14:00,Al Najaf,Al Semawah,0,0,D,,,
+IRQ,2010-05-09,14:00,Al Hedood,Al Diwaniya,1,2,A,,,
+IRQ,2010-05-09,14:00,Al Naft,Al Itesalat,1,1,D,,,
+IRQ,2010-05-09,14:00,Samaraa FC,Al Hindiya,2,2,D,,,
+IRQ,2010-05-09,14:00,Karbalaa FC,Al Nasiriya,1,1,D,,,
+IRQ,2010-05-09,14:00,Al Kufa,Misan FC,0,0,D,,,
+IRQ,2010-05-09,14:00,Zakho,Al Zawraa,0,1,A,,,
+IRQ,2010-05-09,14:00,Al Minaa,Naft Al Janoob,0,0,D,,,
+IRQ,2010-05-09,14:00,Baghdad FC,Al Quwa Al Jawiya,1,1,D,,,
+IRQ,2010-05-09,14:00,Diyala FC,Masafi Al Junoob,1,0,H,,,
+IRQ,2010-05-11,14:00,Masafi Al Junoob,Al Kahraba,0,1,A,,,
+IRQ,2010-05-12,14:00,Al Mosul,Duhok,0,0,D,,,
+IRQ,2010-05-12,14:00,Al Ramadi,Diyala FC,2,1,H,,,
+IRQ,2010-05-12,14:00,Al Shirqat,Kirkuk FC,2,2,D,,,
+IRQ,2010-05-12,14:00,Al Diwaniya,Al Karkh SC,3,1,H,,,
+IRQ,2010-05-12,14:00,Al Talaba,Al Hasanain,2,1,H,,,
+IRQ,2010-05-13,14:00,Al Nasiriya,Al Najaf,1,0,H,,,
+IRQ,2010-05-13,14:00,Al Shorta,Karbalaa FC,5,2,H,,,
+IRQ,2010-05-13,14:00,Erbil,Samaraa FC,1,0,H,,,
+IRQ,2010-05-13,14:00,Baghdad FC,Zakho,1,1,D,,,
+IRQ,2010-05-13,14:00,Al Quwa Al Jawiya,Al Masafi,0,0,D,,,
+IRQ,2010-05-13,14:00,Naft Maysan,Al Kufa,2,1,H,,,
+IRQ,2010-05-13,14:00,Al Itesalat,Al Semawah,2,2,D,,,
+IRQ,2010-05-14,14:00,Al Zawraa,Salahaddin FC,2,1,H,,,
+IRQ,2010-05-14,14:00,Al Minaa,Al Hedood,3,1,H,,,
+IRQ,2010-05-14,14:00,Naft Al Janoob,Al Sinaa,1,0,H,,,
+IRQ,2010-05-15,14:00,Misan FC,Al Naft,1,3,A,,,
+IRQ,2010-05-15,14:00,Masafi Al Junoob,Al Hindiya,3,5,A,,,
+IRQ,2010-05-16,14:00,Al Kahraba,Al Ramadi,1,0,H,,,
+IRQ,2010-05-16,14:00,Diyala FC,Al Mosul,1,1,D,,,
+IRQ,2010-05-16,14:00,Al Hasanain,Al Diwaniya,1,1,D,,,
+IRQ,2010-05-17,14:00,Samaraa FC,Al Shirqat,0,0,D,,,
+IRQ,2010-05-17,14:00,Al Quwa Al Jawiya,Zakho,3,0,H,,,
+IRQ,2010-05-17,14:00,Al Itesalat,Al Nasiriya,1,1,D,,,
+IRQ,2010-05-17,14:00,Al Najaf,Al Shorta,2,0,H,,,
+IRQ,2010-05-18,14:00,Al Kufa,Al Sinaa,0,0,D,,,
+IRQ,2010-05-18,14:00,Salahaddin FC,Baghdad FC,0,2,A,,,
+IRQ,2010-05-18,14:00,Duhok,Al Masafi,3,0,H,,,
+IRQ,2010-05-18,14:00,Al Karkh SC,Al Minaa,0,0,D,,,
+IRQ,2010-05-18,14:00,Karbalaa FC,Al Talaba,0,0,D,,,
+IRQ,2010-05-18,14:00,Kirkuk FC,Al Zawraa,1,3,A,,,
+IRQ,2010-05-19,14:00,Al Semawah,Misan FC,3,0,H,,,
+IRQ,2010-05-19,14:00,Al Naft,Naft Maysan,2,1,H,,,
+IRQ,2010-05-19,14:00,Naft Al Janoob,Al Hedood,2,0,H,,,
+IRQ,2010-05-20,14:00,Al Mosul,Al Kahraba,1,0,H,,,
+IRQ,2010-05-20,14:00,Erbil,Masafi Al Junoob,6,0,H,,,
+IRQ,2010-05-20,14:00,Al Ramadi,Al Hindiya,0,1,A,,,
+IRQ,2010-05-21,14:00,Al Shorta,Al Itesalat,2,0,H,,,
+IRQ,2010-05-21,14:00,Zakho,Salahaddin FC,3,0,H,,,
+IRQ,2010-05-22,14:00,Al Talaba,Al Najaf,0,0,D,,,
+IRQ,2010-05-22,14:00,Al Zawraa,Samaraa FC,5,0,H,,,
+IRQ,2010-05-22,14:00,Duhok,Al Quwa Al Jawiya,2,1,H,,,
+IRQ,2010-05-22,14:00,Al Minaa,Al Hasanain,2,0,H,,,
+IRQ,2010-05-22,14:00,Al Diwaniya,Karbalaa FC,0,0,D,,,
+IRQ,2010-05-22,14:00,Baghdad FC,Kirkuk FC,1,0,H,,,
+IRQ,2010-05-22,14:00,Al Masafi,Diyala FC,2,1,H,,,
+IRQ,2010-05-23,14:00,Al Sinaa,Al Naft,2,1,H,,,
+IRQ,2010-05-23,14:00,Al Semawah,Naft Maysan,0,0,D,,,
+IRQ,2010-05-23,14:00,Misan FC,Al Nasiriya,1,1,D,,,
+IRQ,2010-05-23,14:00,Al Kufa,Naft Al Janoob,2,1,H,,,
+IRQ,2010-05-23,14:00,Al Hedood,Al Karkh SC,0,1,A,,,
+IRQ,2010-05-23,14:00,Masafi Al Junoob,Al Shirqat,0,0,D,,,
+IRQ,2010-05-23,14:00,Masafi Al Junoob,Al Shirqat,0,0,D,,,
+IRQ,2010-05-24,14:30,Al Hindiya,Al Mosul,0,0,D,,,
+IRQ,2010-05-24,14:30,Al Ramadi,Erbil,1,4,A,,,
+IRQ,2010-05-25,14:30,Kirkuk FC,Zakho,2,1,H,,,
+IRQ,2010-05-26,14:30,Diyala FC,Duhok,0,1,A,,,
+IRQ,2010-05-26,14:30,Samaraa FC,Baghdad FC,1,2,A,,,
+IRQ,2010-05-26,14:30,Salahaddin FC,Al Quwa Al Jawiya,0,2,A,,,
+IRQ,2010-05-26,14:30,Al Masafi,Al Kahraba,3,2,H,,,
+IRQ,2010-05-26,14:30,Karbalaa FC,Al Minaa,0,0,D,,,
+IRQ,2010-05-26,14:30,Al Najaf,Al Diwaniya,2,0,H,,,
+IRQ,2010-05-26,14:30,Al Itesalat,Al Talaba,0,1,A,,,
+IRQ,2010-05-26,14:30,Misan FC,Al Shorta,0,2,A,,,
+IRQ,2010-05-26,14:30,Al Hasanain,Al Hedood,1,1,D,,,
+IRQ,2010-05-27,14:30,Al Sinaa,Al Semawah,1,0,H,,,
+IRQ,2010-05-27,14:30,Al Karkh SC,Naft Al Janoob,2,0,H,,,
+IRQ,2010-05-27,14:30,Al Naft,Al Kufa,2,0,H,,,
+IRQ,2010-05-27,14:30,Al Nasiriya,Naft Maysan,2,4,A,,,
+IRQ,2010-05-28,14:30,Al Zawraa,Masafi Al Junoob,1,0,H,,,
+IRQ,2010-05-28,14:30,Al Mosul,Erbil,1,0,H,,,
+IRQ,2010-05-28,14:30,Al Shirqat,Al Ramadi,0,0,D,,,
+IRQ,2010-05-29,14:30,Al Kahraba,Duhok,1,1,D,,,
+IRQ,2010-05-29,14:30,Kirkuk FC,Salahaddin FC,2,2,D,,,
+IRQ,2010-05-29,14:30,Al Hindiya,Al Masafi,1,2,A,,,
+IRQ,2010-05-30,14:30,Zakho,Samaraa FC,2,0,H,,,
+IRQ,2010-05-30,14:30,Al Quwa Al Jawiya,Diyala FC,5,0,H,,,
+IRQ,2010-05-30,14:30,Al Hedood,Karbalaa FC,0,1,A,,,
+IRQ,2010-05-30,14:30,Al Talaba,Misan FC,4,0,H,,,
+IRQ,2010-05-30,14:30,Al Diwaniya,Al Itesalat,1,3,A,,,
+IRQ,2010-05-31,14:30,Naft Maysan,Al Shorta,2,0,H,,,
+IRQ,2010-05-31,14:30,Al Hasanain,Al Karkh SC,0,0,D,,,
+IRQ,2010-05-31,14:30,Al Semawah,Al Kufa,2,2,D,,,
+IRQ,2010-05-31,14:30,Naft Al Janoob,Al Naft,1,2,A,,,
+IRQ,2010-05-31,14:30,Al Minaa,Al Najaf,0,0,D,,,
+IRQ,2010-06-01,14:30,Al Nasiriya,Al Sinaa,1,1,D,,,
+IRQ,2010-06-06,14:30,Samaraa FC,Salahaddin FC,1,1,D,,,
+IRQ,2010-06-06,14:30,Duhok,Al Hindiya,5,0,H,,,
+IRQ,2010-06-06,14:30,Al Mosul,Al Shirqat,2,0,H,,,
+IRQ,2010-06-06,14:30,Al Ramadi,Al Zawraa,0,0,D,,,
+IRQ,2010-06-06,14:30,Diyala FC,Al Kahraba,2,1,H,,,
+IRQ,2010-06-06,14:30,Erbil,Al Masafi,2,0,H,,,
+IRQ,2010-06-06,14:30,Al Quwa Al Jawiya,Kirkuk FC,3,0,H,,,
+IRQ,2010-06-06,14:30,Masafi Al Junoob,Baghdad FC,2,0,H,,,
+IRQ,2010-06-07,14:30,Al Semawah,Al Naft,3,1,H,,,
+IRQ,2010-06-07,14:30,Al Kufa,Al Nasiriya,2,2,D,,,
+IRQ,2010-06-07,14:30,Al Itesalat,Al Minaa,0,3,A,,,
+IRQ,2010-06-07,14:30,Misan FC,Al Diwaniya,0,2,A,,,
+IRQ,2010-06-07,14:30,Karbalaa FC,Al Karkh SC,1,1,D,,,
+IRQ,2010-06-07,14:30,Naft Maysan,Al Talaba,0,0,D,,,
+IRQ,2010-06-07,14:30,Al Shorta,Al Sinaa,2,2,D,,,
+IRQ,2010-06-07,14:30,Naft Al Janoob,Al Hasanain,2,0,H,,,
+IRQ,2010-06-07,14:30,Al Najaf,Al Hedood,4,0,H,,,
+IRQ,2010-06-10,14:30,Kirkuk FC,Samaraa FC,3,1,H,,,
+IRQ,2010-06-10,14:30,Al Hindiya,Diyala FC,3,0,H,,,
+IRQ,2010-06-10,14:30,Duhok,Erbil,2,2,D,,,
+IRQ,2010-06-10,14:30,Misan FC,Al Minaa,1,1,D,,,
+IRQ,2010-06-10,14:30,Al Masafi,Al Shirqat,2,3,A,,,
+IRQ,2010-06-10,14:30,Al Mosul,Al Zawraa,0,1,A,,,
+IRQ,2010-06-10,14:30,Al Nasiriya,Al Naft,3,1,H,,,
+IRQ,2010-06-10,14:30,Al Kufa,Al Shorta,1,1,D,,,
+IRQ,2010-06-10,14:30,Al Karkh SC,Al Najaf,2,2,D,,,
+IRQ,2010-06-10,14:30,Al Semawah,Naft Al Janoob,1,2,A,,,
+IRQ,2010-06-10,14:30,Al Diwaniya,Naft Maysan,0,1,A,,,
+IRQ,2010-06-10,14:30,Al Sinaa,Al Talaba,1,1,D,,,
+IRQ,2010-06-10,14:30,Al Kahraba,Al Quwa Al Jawiya,1,4,A,,,
+IRQ,2010-06-10,14:30,Al Hedood,Al Itesalat,1,0,H,,,
+IRQ,2010-06-10,14:30,Zakho,Masafi Al Junoob,2,0,H,,,
+IRQ,2010-06-10,14:30,Al Hasanain,Karbalaa FC,1,0,H,,,
+IRQ,2010-06-10,14:30,Baghdad FC,Al Ramadi,1,1,D,,,
+IRQ,2010-06-14,14:30,Al Shorta,Al Naft,2,1,H,,,
+IRQ,2010-06-14,14:30,Misan FC,Al Hedood,1,1,D,,,
+IRQ,2010-06-14,14:30,Al Semawah,Al Nasiriya,0,2,A,,,
+IRQ,2010-06-14,14:30,Naft Maysan,Al Minaa,0,2,A,,,
+IRQ,2010-06-14,14:30,Al Sinaa,Al Diwaniya,2,1,H,,,
+IRQ,2010-06-14,14:30,Al Itesalat,Al Karkh SC,0,1,A,,,
+IRQ,2010-06-14,14:30,Al Najaf,Al Hasanain,1,0,H,,,
+IRQ,2010-06-14,14:30,Al Talaba,Al Kufa,2,1,H,,,
+IRQ,2010-06-14,14:30,Naft Al Janoob,Karbalaa FC,1,1,D,,,
+IRQ,2010-06-15,14:30,Masafi Al Junoob,Salahaddin FC,0,0,D,,,
+IRQ,2010-06-15,14:30,Al Masafi,Al Zawraa,0,1,A,,,
+IRQ,2010-06-15,14:30,Erbil,Diyala FC,5,0,H,,,
+IRQ,2010-06-15,14:30,Al Shirqat,Duhok,0,0,D,,,
+IRQ,2010-06-15,14:30,Al Ramadi,Zakho,3,1,H,,,
+IRQ,2010-06-15,14:30,Al Mosul,Baghdad FC,2,1,H,,,
+IRQ,2010-06-15,14:30,Al Hindiya,Al Kahraba,0,2,A,,,
+IRQ,2010-06-15,14:30,Al Quwa Al Jawiya,Samaraa FC,1,0,H,,,
+IRQ,2010-06-17,15:00,Al Hasanain,Al Itesalat,1,0,H,,,
+IRQ,2010-06-18,15:00,Al Shorta,Al Semawah,1,1,D,,,
+IRQ,2010-06-18,15:00,Al Karkh SC,Misan FC,2,1,H,,,
+IRQ,2010-06-18,15:00,Al Diwaniya,Al Kufa,3,2,H,,,
+IRQ,2010-06-18,15:00,Al Hedood,Naft Maysan,1,1,D,,,
+IRQ,2010-06-18,15:00,Al Naft,Al Talaba,0,2,A,,,
+IRQ,2010-06-18,15:00,Al Minaa,Al Sinaa,4,1,H,,,
+IRQ,2010-06-18,15:00,Al Nasiriya,Naft Al Janoob,0,0,D,,,
+IRQ,2010-06-18,15:00,Karbalaa FC,Al Najaf,2,1,H,,,
+IRQ,2010-06-19,15:00,Erbil,Al Kahraba,3,1,H,,,
+IRQ,2010-06-19,15:00,Al Mosul,Zakho,0,0,D,,,
+IRQ,2010-06-19,15:00,Salahaddin FC,Al Ramadi,1,2,A,,,
+IRQ,2010-06-19,15:00,Diyala FC,Al Shirqat,1,0,H,,,
+IRQ,2010-06-19,15:00,Al Hindiya,Al Quwa Al Jawiya,1,1,D,,,
+IRQ,2010-06-19,15:00,Al Zawraa,Duhok,1,0,H,,,
+IRQ,2010-06-19,15:00,Baghdad FC,Al Masafi,0,0,D,,,
+IRQ,2010-06-20,15:00,Masafi Al Junoob,Kirkuk FC,1,3,A,,,
+IRQ,2010-06-20,15:00,Misan FC,Al Hasanain,1,1,D,,,
+IRQ,2010-06-21,15:00,Al Kufa,Al Minaa,1,1,D,,,
+IRQ,2010-06-21,15:00,Al Sinaa,Al Hedood,2,1,H,,,
+IRQ,2010-06-21,15:00,Al Itesalat,Karbalaa FC,1,2,A,,,
+IRQ,2010-06-21,15:00,Al Nasiriya,Al Shorta,0,1,A,,,
+IRQ,2010-06-21,15:00,Al Talaba,Al Semawah,5,1,H,,,
+IRQ,2010-06-21,15:00,Naft Maysan,Al Karkh SC,0,0,D,,,
+IRQ,2010-06-21,15:00,Al Naft,Al Diwaniya,3,1,H,,,
+IRQ,2010-06-21,15:00,Al Najaf,Naft Al Janoob,1,0,H,,,
+IRQ,2010-06-22,15:00,Masafi Al Junoob,Samaraa FC,0,0,D,,,
+IRQ,2010-06-22,15:00,Al Mosul,Salahaddin FC,3,0,H,,,
+IRQ,2010-06-22,15:00,Al Ramadi,Kirkuk FC,1,2,A,,,
+IRQ,2010-06-22,15:00,Al Hindiya,Erbil,0,2,A,,,
+IRQ,2010-06-22,15:00,Al Shirqat,Al Kahraba,0,0,D,,,
+IRQ,2010-06-22,15:00,Diyala FC,Al Zawraa,1,0,H,,,
+IRQ,2010-06-22,15:00,Al Masafi,Zakho,1,3,A,,,
+IRQ,2010-06-22,15:00,Duhok,Baghdad FC,0,1,A,,,
+IRQ,2010-06-24,15:00,Karbalaa FC,Misan FC,1,0,H,,,
+IRQ,2010-06-24,15:00,Al Hasanain,Naft Maysan,2,3,A,,,
+IRQ,2010-06-24,15:00,Al Talaba,Al Nasiriya,4,1,H,,,
+IRQ,2010-06-24,15:00,Al Karkh SC,Al Sinaa,0,2,A,,,
+IRQ,2010-06-24,15:00,Al Najaf,Al Itesalat,3,0,H,,,
+IRQ,2010-06-24,15:00,Al Hedood,Al Kufa,1,3,A,,,
+IRQ,2010-06-24,15:00,Al Semawah,Al Diwaniya,0,3,A,,,
+IRQ,2010-06-24,15:00,Al Minaa,Al Naft,1,0,H,,,
+IRQ,2010-06-25,15:00,Samaraa FC,Al Ramadi,0,0,D,,,
+IRQ,2010-06-25,15:00,Salahaddin FC,Al Masafi,2,2,D,,,
+IRQ,2010-06-25,15:00,Zakho,Duhok,1,1,D,,,
+IRQ,2010-06-25,15:00,Al Quwa Al Jawiya,Erbil,0,1,A,,,
+IRQ,2010-06-25,15:00,Al Shirqat,Al Hindiya,0,0,D,,,
+IRQ,2010-06-25,15:00,Al Kahraba,Al Zawraa,0,1,A,,,
+IRQ,2010-06-25,15:00,Baghdad FC,Diyala FC,1,0,H,,,
+IRQ,2010-06-25,15:00,Kirkuk FC,Al Mosul,0,2,A,,,
+IRQ,2010-06-26,15:00,Naft Al Janoob,Al Shorta,2,0,H,,,
+IRQ,2010-06-29,15:00,Duhok,Salahaddin FC,3,0,H,,,
+IRQ,2010-06-29,15:00,Al Mosul,Samaraa FC,0,0,D,,,
+IRQ,2010-06-29,15:00,Al Masafi,Kirkuk FC,4,3,H,,,
+IRQ,2010-06-29,15:00,Erbil,Al Shirqat,2,1,H,,,
+IRQ,2010-06-29,15:00,Masafi Al Junoob,Al Quwa Al Jawiya,1,0,H,,,
+IRQ,2010-06-29,15:00,Al Zawraa,Al Hindiya,1,0,H,,,
+IRQ,2010-06-29,15:00,Diyala FC,Zakho,1,1,D,,,
+IRQ,2010-06-29,15:00,Al Kahraba,Baghdad FC,1,1,D,,,
+IRQ,2010-06-30,15:00,Misan FC,Al Najaf,0,3,A,,,
+IRQ,2010-06-30,15:00,Naft Maysan,Karbalaa FC,0,0,D,,,
+IRQ,2010-06-30,15:00,Al Diwaniya,Al Nasiriya,1,0,H,,,
+IRQ,2010-06-30,15:00,Al Kufa,Al Karkh SC,0,0,D,,,
+IRQ,2010-06-30,15:00,Al Sinaa,Al Hasanain,4,1,H,,,
+IRQ,2010-06-30,15:00,Al Semawah,Al Minaa,0,2,A,,,
+IRQ,2010-06-30,15:00,Al Itesalat,Naft Al Janoob,0,2,A,,,
+IRQ,2010-06-30,15:00,Al Naft,Al Hedood,3,0,H,,,
+IRQ,2010-06-30,15:00,Al Shorta,Al Talaba,2,1,H,,,
+IRQ,2010-07-02,15:00,Samaraa FC,Al Masafi,1,1,D,,,
+IRQ,2010-07-02,15:00,Salahaddin FC,Diyala FC,0,3,A,,,
+IRQ,2010-07-02,15:00,Al Quwa Al Jawiya,Al Shirqat,3,1,H,,,
+IRQ,2010-07-02,15:00,Erbil,Al Zawraa,2,0,H,,,
+IRQ,2010-07-02,15:00,Masafi Al Junoob,Al Ramadi,0,0,D,,,
+IRQ,2010-07-02,15:00,Zakho,Al Kahraba,0,1,A,,,
+IRQ,2010-07-02,15:00,Al Hindiya,Baghdad FC,0,0,D,,,
+IRQ,2010-07-02,15:00,Kirkuk FC,Duhok,2,3,A,,,
+IRQ,2010-07-03,15:00,Al Itesalat,Misan FC,5,3,H,,,
+IRQ,2010-07-03,15:00,Al Hasanain,Al Kufa,0,0,D,,,
+IRQ,2010-07-03,15:00,Naft Al Janoob,Al Talaba,0,0,D,,,
+IRQ,2010-07-03,15:00,Al Hedood,Al Semawah,0,0,D,,,
+IRQ,2010-07-03,15:00,Al Najaf,Naft Maysan,1,1,D,,,
+IRQ,2010-07-03,15:00,Karbalaa FC,Al Sinaa,1,0,H,,,
+IRQ,2010-07-03,15:00,Al Shorta,Al Diwaniya,2,1,H,,,
+IRQ,2010-07-03,15:00,Al Karkh SC,Al Naft,0,0,D,,,
+IRQ,2010-07-04,15:00,Al Nasiriya,Al Minaa,2,1,H,,,
+IRQ,2010-07-05,15:00,Baghdad FC,Erbil,2,2,D,,,
+IRQ,2010-07-05,15:00,Al Kahraba,Salahaddin FC,0,0,D,,,
+IRQ,2010-07-06,15:00,Samaraa FC,Duhok,1,0,H,,,
+IRQ,2010-07-06,15:00,Diyala FC,Kirkuk FC,0,2,A,,,
+IRQ,2010-07-06,15:00,Al Semawah,Al Karkh SC,2,1,H,,,
+IRQ,2010-07-06,15:00,Al Shirqat,Al Zawraa,1,4,A,,,
+IRQ,2010-07-06,15:00,Al Hindiya,Zakho,2,0,H,,,
+IRQ,2010-07-06,15:00,Al Sinaa,Al Najaf,1,3,A,,,
+IRQ,2010-07-06,15:00,Al Ramadi,Al Quwa Al Jawiya,1,1,D,,,
+IRQ,2010-07-06,15:00,Al Talaba,Al Diwaniya,1,0,H,,,
+IRQ,2010-07-06,15:00,Al Naft,Al Hasanain,3,0,H,,,
+IRQ,2010-07-06,15:00,Karbalaa FC,Al Kufa,2,0,H,,,
+IRQ,2010-07-06,15:00,Al Nasiriya,Al Hedood,0,0,D,,,
+IRQ,2010-07-06,15:00,Misan FC,Naft Al Janoob,0,2,A,,,
+IRQ,2010-07-06,15:00,Al Minaa,Al Shorta,2,0,H,,,
+IRQ,2010-07-06,15:00,Naft Maysan,Al Itesalat,3,1,H,,,
+IRQ,2010-07-06,,Al Mosul,Masafi Al Junoob,3,0,H,,,
+IRQ,2010-07-15,15:00,Baghdad FC,Al Zawraa,0,0,D,,,
+IRQ,2010-07-15,15:00,Al Kahraba,Al Najaf,2,1,H,,,
+IRQ,2010-07-15,15:00,Naft Al Janoob,Karbalaa FC,0,1,A,,,
+IRQ,2010-07-16,15:00,Al Sinaa,Al Talaba,1,2,A,,,
+IRQ,2010-07-16,15:00,Al Quwa Al Jawiya,Duhok,0,0,D,,,
+IRQ,2010-07-16,16:30,Erbil,Al Shorta,0,1,A,,,
+IRQ,2010-08-03,15:00,Al Talaba,Baghdad FC,0,0,D,,,
+IRQ,2010-08-03,15:00,Al Zawraa,Al Sinaa,3,1,H,,,
+IRQ,2010-08-03,15:00,Al Shorta,Al Kahraba,1,1,D,,,
+IRQ,2010-08-03,15:00,Al Najaf,Erbil,1,2,A,,,
+IRQ,2010-08-03,15:00,Karbalaa FC,Al Quwa Al Jawiya,1,1,D,,,
+IRQ,2010-08-03,16:30,Duhok,Naft Al Janoob,1,0,H,,,
+IRQ,2010-08-07,15:00,Al Zawraa,Al Talaba,1,0,H,,,
+IRQ,2010-08-07,15:00,Al Shorta,Al Najaf,1,0,H,,,
+IRQ,2010-08-07,15:00,Karbalaa FC,Duhok,2,3,A,,,
+IRQ,2010-08-07,15:00,Erbil,Al Kahraba,3,1,H,,,
+IRQ,2010-08-07,15:00,Al Quwa Al Jawiya,Naft Al Janoob,3,0,H,,,
+IRQ,2010-08-07,15:00,Baghdad FC,Al Sinaa,0,1,A,,,
+IRQ,2010-08-11,14:30,Al Shorta,Erbil,0,2,A,,,
+IRQ,2010-08-11,14:30,Al Zawraa,Baghdad FC,0,1,A,,,
+IRQ,2010-08-11,14:30,Al Talaba,Al Sinaa,1,2,A,,,
+IRQ,2010-08-11,14:30,Duhok,Al Quwa Al Jawiya,2,0,H,,,
+IRQ,2010-08-11,14:30,Al Najaf,Al Kahraba,2,1,H,,,
+IRQ,2010-08-11,14:30,Karbalaa FC,Naft Al Janoob,2,1,H,,,
+IRQ,2010-08-15,14:30,Al Sinaa,Al Zawraa,0,1,A,,,
+IRQ,2010-08-15,14:30,Erbil,Al Najaf,2,1,H,,,
+IRQ,2010-08-15,14:30,Al Kahraba,Al Shorta,0,0,D,,,
+IRQ,2010-08-15,14:30,Naft Al Janoob,Duhok,0,1,A,,,
+IRQ,2010-08-15,14:30,Baghdad FC,Al Talaba,0,1,A,,,
+IRQ,2010-08-19,14:30,Al Quwa Al Jawiya,Karbalaa FC,3,0,H,,,
+IRQ,2010-08-20,14:50,Al Kahraba,Erbil,1,0,H,,,
+IRQ,2010-08-23,14:30,Al Talaba,Al Zawraa,2,1,H,,,
+IRQ,2010-08-23,14:30,Al Sinaa,Baghdad FC,2,2,D,,,
+IRQ,2010-08-23,14:30,Duhok,Karbalaa FC,3,2,H,,,
+IRQ,2010-08-23,14:30,Al Najaf,Al Shorta,2,2,D,,,
+IRQ,2010-08-23,14:30,Naft Al Janoob,Al Quwa Al Jawiya,0,0,D,,,
+IRQ,2010-08-27,14:30,Duhok,Al Zawraa,5,1,H,2.0,0.0,H
+IRQ,2010-08-27,14:30,Erbil,Al Talaba,0,1,A,0.0,1.0,A
+IRQ,2010-08-31,13:30,Al Zawraa,Duhok,1,0,H,0.0,0.0,D
+IRQ,2010-08-31,13:30,Al Talaba,Erbil,0,0,D,0.0,0.0,D
+IRQ,2010-09-03,13:45,Al Zawraa,Erbil,2,1,H,1.0,0.0,H
+IRQ,2010-09-04,18:30,Al Talaba,Duhok,0,1,A,0.0,0.0,D

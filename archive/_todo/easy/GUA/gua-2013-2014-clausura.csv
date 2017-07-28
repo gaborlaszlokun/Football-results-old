@@ -1,0 +1,133 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GUA,2014-01-18,21:45,Deportivo Suchitepéquez,Deportivo Heredia,3,1,H,,,
+GUA,2014-01-19,02:00,Deportivo Marquense,Comunicaciones,1,1,D,,,
+GUA,2014-01-19,17:00,CSD Municipal,Xelaju MC,1,2,A,,,
+GUA,2014-01-19,17:00,CD Puerto de Iztapa,Universidad SC,2,2,D,,,
+GUA,2014-01-19,19:00,Deportivo Malacateco,Deportivo Coatepeque,1,2,A,,,
+GUA,2014-01-19,21:15,Halcones FC,Deportivo Mictlán,1,2,A,,,
+GUA,2014-01-25,21:15,Universidad SC,Deportivo Suchitepéquez,1,0,H,,,
+GUA,2014-01-25,22:00,Comunicaciones,Halcones FC,3,0,H,,,
+GUA,2014-01-26,02:30,Xelaju MC,Deportivo Marquense,0,0,D,,,
+GUA,2014-01-26,17:00,Deportivo Mictlán,Deportivo Malacateco,2,0,H,,,
+GUA,2014-01-26,18:00,Deportivo Coatepeque,CD Puerto de Iztapa,1,2,A,,,
+GUA,2014-01-26,18:00,Deportivo Heredia,CSD Municipal,1,1,D,,,
+GUA,2014-01-29,18:30,CSD Municipal,Universidad SC,0,2,A,,,
+GUA,2014-01-29,21:00,CD Puerto de Iztapa,Deportivo Suchitepéquez,1,2,A,,,
+GUA,2014-01-29,21:00,Deportivo Malacateco,Comunicaciones,1,3,A,,,
+GUA,2014-01-29,21:15,Halcones FC,Xelaju MC,2,1,H,,,
+GUA,2014-01-29,21:45,Deportivo Mictlán,Deportivo Coatepeque,1,1,D,,,
+GUA,2014-01-30,02:00,Deportivo Marquense,Deportivo Heredia,3,1,H,,,
+GUA,2014-02-01,21:45,Deportivo Suchitepéquez,Deportivo Coatepeque,1,0,H,,,
+GUA,2014-02-01,22:00,Comunicaciones,Deportivo Mictlán,2,1,H,,,
+GUA,2014-02-02,17:00,CD Puerto de Iztapa,CSD Municipal,1,1,D,,,
+GUA,2014-02-02,17:05,Universidad SC,Deportivo Marquense,5,0,H,,,
+GUA,2014-02-02,18:00,Deportivo Heredia,Halcones FC,4,0,H,,,
+GUA,2014-02-03,00:00,Xelaju MC,Deportivo Malacateco,1,0,H,,,
+GUA,2014-02-08,18:00,Deportivo Marquense,CD Puerto de Iztapa,2,1,H,,,
+GUA,2014-02-09,17:00,Deportivo Mictlán,Xelaju MC,2,1,H,,,
+GUA,2014-02-09,17:00,CSD Municipal,Deportivo Suchitepéquez,1,0,H,,,
+GUA,2014-02-09,18:00,Deportivo Coatepeque,Comunicaciones,1,0,H,,,
+GUA,2014-02-09,18:00,Halcones FC,Universidad SC,0,2,A,,,
+GUA,2014-02-09,19:00,Deportivo Malacateco,Deportivo Heredia,1,0,H,,,
+GUA,2014-02-12,18:30,CSD Municipal,Deportivo Coatepeque,2,0,H,,,
+GUA,2014-02-12,21:00,Deportivo Heredia,Deportivo Mictlán,4,0,H,,,
+GUA,2014-02-12,21:00,CD Puerto de Iztapa,Halcones FC,0,1,A,,,
+GUA,2014-02-12,21:35,Universidad SC,Deportivo Malacateco,1,1,D,,,
+GUA,2014-02-13,02:00,Deportivo Suchitepéquez,Deportivo Marquense,1,1,D,,,
+GUA,2014-02-13,02:30,Xelaju MC,Comunicaciones,0,0,D,,,
+GUA,2014-02-15,18:00,Deportivo Marquense,CSD Municipal,1,1,D,,,
+GUA,2014-02-15,22:00,Comunicaciones,Deportivo Heredia,0,0,D,,,
+GUA,2014-02-16,17:00,Deportivo Mictlán,Universidad SC,2,2,D,,,
+GUA,2014-02-16,18:00,Deportivo Coatepeque,Xelaju MC,1,1,D,,,
+GUA,2014-02-16,18:00,Halcones FC,Deportivo Suchitepéquez,1,0,H,,,
+GUA,2014-02-16,19:00,Deportivo Malacateco,CD Puerto de Iztapa,2,0,H,,,
+GUA,2014-02-22,21:45,Deportivo Suchitepéquez,Deportivo Malacateco,3,1,H,,,
+GUA,2014-02-23,02:00,Deportivo Marquense,Deportivo Coatepeque,2,1,H,,,
+GUA,2014-02-23,17:00,CD Puerto de Iztapa,Deportivo Mictlán,1,1,D,,,
+GUA,2014-02-23,17:00,CSD Municipal,Halcones FC,1,0,H,,,
+GUA,2014-02-23,17:05,Universidad SC,Comunicaciones,1,0,H,,,
+GUA,2014-02-23,18:00,Deportivo Heredia,Xelaju MC,2,0,H,,,
+GUA,2014-02-26,19:00,Deportivo Coatepeque,Deportivo Heredia,3,2,H,,,
+GUA,2014-02-26,21:00,Deportivo Malacateco,CSD Municipal,1,1,D,,,
+GUA,2014-02-26,21:15,Halcones FC,Deportivo Marquense,0,0,D,,,
+GUA,2014-02-27,02:00,Deportivo Mictlán,Deportivo Suchitepéquez,0,0,D,,,
+GUA,2014-02-27,02:00,Comunicaciones,CD Puerto de Iztapa,2,1,H,,,
+GUA,2014-02-27,02:30,Xelaju MC,Universidad SC,2,2,D,,,
+GUA,2014-03-01,21:45,Deportivo Suchitepéquez,Comunicaciones,1,2,A,,,
+GUA,2014-03-02,02:00,Deportivo Marquense,Deportivo Malacateco,0,0,D,,,
+GUA,2014-03-02,17:00,CD Puerto de Iztapa,Xelaju MC,1,1,D,,,
+GUA,2014-03-02,17:00,CSD Municipal,Deportivo Mictlán,0,1,A,,,
+GUA,2014-03-02,17:05,Universidad SC,Deportivo Heredia,1,1,D,,,
+GUA,2014-03-02,18:00,Halcones FC,Deportivo Coatepeque,1,1,D,,,
+GUA,2014-03-08,22:00,Comunicaciones,CSD Municipal,0,0,D,,,
+GUA,2014-03-09,02:30,Xelaju MC,Deportivo Suchitepéquez,1,1,D,,,
+GUA,2014-03-09,17:00,Deportivo Mictlán,Deportivo Marquense,1,1,D,,,
+GUA,2014-03-09,18:00,Deportivo Coatepeque,Universidad SC,3,2,H,,,
+GUA,2014-03-09,18:00,Deportivo Heredia,CD Puerto de Iztapa,3,2,H,,,
+GUA,2014-03-09,19:00,Deportivo Malacateco,Halcones FC,5,2,H,,,
+GUA,2014-03-12,19:00,Deportivo Coatepeque,Deportivo Malacateco,1,0,H,1.0,0.0,H
+GUA,2014-03-12,21:00,Deportivo Heredia,Deportivo Suchitepéquez,4,1,H,0.0,0.0,D
+GUA,2014-03-12,21:35,Universidad SC,CD Puerto de Iztapa,2,0,H,0.0,0.0,D
+GUA,2014-03-13,02:00,Comunicaciones,Deportivo Marquense,1,1,D,0.0,0.0,D
+GUA,2014-03-13,02:00,Deportivo Mictlán,Halcones FC,0,1,A,0.0,1.0,A
+GUA,2014-03-13,02:30,Xelaju MC,CSD Municipal,2,0,H,0.0,0.0,D
+GUA,2014-03-15,21:45,Deportivo Suchitepéquez,Universidad SC,1,0,H,1.0,0.0,H
+GUA,2014-03-16,02:00,Deportivo Marquense,Xelaju MC,1,3,A,0.0,2.0,A
+GUA,2014-03-16,17:00,CD Puerto de Iztapa,Deportivo Coatepeque,1,2,A,1.0,1.0,D
+GUA,2014-03-16,17:00,CSD Municipal,Deportivo Heredia,3,2,H,1.0,0.0,H
+GUA,2014-03-16,19:00,Deportivo Malacateco,Deportivo Mictlán,3,2,H,1.0,1.0,D
+GUA,2014-03-16,21:15,Halcones FC,Comunicaciones,1,0,H,0.0,0.0,D
+GUA,2014-03-22,21:45,Deportivo Suchitepéquez,CD Puerto de Iztapa,2,1,H,1.0,1.0,D
+GUA,2014-03-22,22:00,Comunicaciones,Deportivo Malacateco,3,2,H,1.0,1.0,D
+GUA,2014-03-23,02:30,Xelaju MC,Halcones FC,3,0,H,1.0,0.0,H
+GUA,2014-03-23,17:05,Universidad SC,CSD Municipal,1,0,H,1.0,0.0,H
+GUA,2014-03-23,18:00,Deportivo Coatepeque,Deportivo Mictlán,3,2,H,1.0,1.0,D
+GUA,2014-03-23,18:00,Deportivo Heredia,Deportivo Marquense,4,0,H,2.0,0.0,H
+GUA,2014-03-26,18:30,CSD Municipal,CD Puerto de Iztapa,3,1,H,3.0,0.0,H
+GUA,2014-03-26,19:00,Deportivo Coatepeque,Deportivo Suchitepéquez,1,1,D,0.0,1.0,A
+GUA,2014-03-26,21:00,Deportivo Mictlán,Comunicaciones,3,0,H,2.0,0.0,H
+GUA,2014-03-26,21:00,Deportivo Malacateco,Xelaju MC,2,0,H,1.0,0.0,H
+GUA,2014-03-26,21:15,Halcones FC,Deportivo Heredia,3,2,H,1.0,2.0,A
+GUA,2014-03-27,02:00,Deportivo Marquense,Universidad SC,2,0,H,2.0,0.0,H
+GUA,2014-03-29,21:35,Universidad SC,Halcones FC,1,3,A,1.0,1.0,D
+GUA,2014-03-29,21:45,Deportivo Suchitepéquez,CSD Municipal,1,0,H,0.0,0.0,D
+GUA,2014-03-29,22:00,Comunicaciones,Deportivo Coatepeque,6,0,H,1.0,0.0,H
+GUA,2014-03-30,18:00,CD Puerto de Iztapa,Deportivo Marquense,2,1,H,2.0,0.0,H
+GUA,2014-03-30,19:00,Deportivo Heredia,Deportivo Malacateco,5,0,H,1.0,0.0,H
+GUA,2014-03-31,01:00,Xelaju MC,Deportivo Mictlán,3,0,H,2.0,0.0,H
+GUA,2014-04-05,23:00,Comunicaciones,Xelaju MC,1,1,D,1.0,0.0,H
+GUA,2014-04-06,03:00,Deportivo Marquense,Deportivo Suchitepéquez,2,4,A,1.0,2.0,A
+GUA,2014-04-06,18:00,Deportivo Mictlán,Deportivo Heredia,1,0,H,0.0,0.0,D
+GUA,2014-04-06,19:00,Deportivo Coatepeque,CSD Municipal,1,2,A,1.0,0.0,H
+GUA,2014-04-06,20:00,Deportivo Malacateco,Universidad SC,1,1,D,0.0,0.0,D
+GUA,2014-04-06,22:15,Halcones FC,CD Puerto de Iztapa,0,0,D,0.0,0.0,D
+GUA,2014-04-09,19:30,CSD Municipal,Deportivo Marquense,3,0,H,1.0,0.0,H
+GUA,2014-04-09,22:00,Deportivo Heredia,Comunicaciones,2,1,H,2.0,1.0,H
+GUA,2014-04-09,22:00,Deportivo Suchitepéquez,Halcones FC,0,0,D,0.0,0.0,D
+GUA,2014-04-09,22:00,CD Puerto de Iztapa,Deportivo Malacateco,3,0,H,1.0,0.0,H
+GUA,2014-04-09,22:35,Universidad SC,Deportivo Mictlán,6,0,H,3.0,0.0,H
+GUA,2014-04-10,03:30,Xelaju MC,Deportivo Coatepeque,3,1,H,0.0,0.0,D
+GUA,2014-04-12,23:00,Comunicaciones,Universidad SC,2,0,H,0.0,0.0,D
+GUA,2014-04-13,18:00,Deportivo Mictlán,CD Puerto de Iztapa,1,1,D,1.0,0.0,H
+GUA,2014-04-13,19:00,Halcones FC,CSD Municipal,1,1,D,0.0,1.0,A
+GUA,2014-04-13,19:00,Deportivo Coatepeque,Deportivo Marquense,3,0,H,2.0,0.0,H
+GUA,2014-04-13,20:00,Deportivo Malacateco,Deportivo Suchitepéquez,1,0,H,0.0,0.0,D
+GUA,2014-04-14,01:00,Xelaju MC,Deportivo Heredia,4,0,H,1.0,0.0,H
+GUA,2014-04-15,22:05,Universidad SC,Xelaju MC,2,1,H,0.0,0.0,D
+GUA,2014-04-16,18:00,CSD Municipal,Deportivo Malacateco,1,0,H,1.0,0.0,H
+GUA,2014-04-16,22:00,Deportivo Heredia,Deportivo Coatepeque,5,2,H,2.0,1.0,H
+GUA,2014-04-16,22:00,CD Puerto de Iztapa,Comunicaciones,0,3,A,0.0,0.0,D
+GUA,2014-04-16,22:45,Deportivo Suchitepéquez,Deportivo Mictlán,0,0,D,0.0,0.0,D
+GUA,2014-04-17,03:00,Deportivo Marquense,Halcones FC,3,0,H,0.0,0.0,D
+GUA,2014-04-19,22:00,Deportivo Heredia,Universidad SC,2,1,H,0.0,1.0,A
+GUA,2014-04-19,22:00,Deportivo Mictlán,CSD Municipal,1,0,H,1.0,0.0,H
+GUA,2014-04-20,19:00,Deportivo Coatepeque,Halcones FC,1,0,H,0.0,0.0,D
+GUA,2014-04-20,20:00,Deportivo Malacateco,Deportivo Marquense,1,0,H,1.0,0.0,H
+GUA,2014-04-20,23:00,Comunicaciones,Deportivo Suchitepéquez,0,2,A,0.0,0.0,D
+GUA,2014-04-24,03:30,Xelaju MC,CD Puerto de Iztapa,2,0,H,1.0,0.0,H
+GUA,2014-04-27,18:00,Halcones FC,Deportivo Malacateco,2,1,H,1.0,1.0,D
+GUA,2014-04-27,18:00,CD Puerto de Iztapa,Deportivo Heredia,3,5,A,1.0,2.0,A
+GUA,2014-04-27,18:00,Deportivo Suchitepéquez,Xelaju MC,2,1,H,0.0,1.0,A
+GUA,2014-04-27,18:00,CSD Municipal,Comunicaciones,0,0,D,0.0,0.0,D
+GUA,2014-04-27,18:00,Deportivo Marquense,Deportivo Mictlán,4,2,H,1.0,1.0,D
+GUA,2014-04-27,18:00,Universidad SC,Deportivo Coatepeque,2,3,A,2.0,2.0,D

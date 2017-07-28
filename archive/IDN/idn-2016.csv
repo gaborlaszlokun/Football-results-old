@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IDN,2016-04-29,14:00,Persipura Jayapura,Persija Jakarta,1,1,D,,,
+IDN,2016-04-29,16:00,Semen Padang,PSM Makassar,2,1,H,,,
+IDN,2016-04-30,10:00,Persela Lamongan,Gresik United,0,1,A,0.0,1.0,A
+IDN,2016-04-30,12:30,Persib Bandung,Sriwijaya FC,1,1,D,0.0,1.0,A
+IDN,2016-04-30,15:00,PS Barito Putera,Bhayangkara Surabaya United,1,2,A,,,
+IDN,2016-05-01,10:00,Bali United,Pusamania Borneo,1,1,D,1.0,1.0,D
+IDN,2016-05-01,12:30,Arema Cronus FC,Persiba Balikpapan,2,0,H,2.0,0.0,H
+IDN,2016-05-01,15:00,PS TNI,Madura United FC,1,2,A,0.0,2.0,A
+IDN,2016-05-02,13:00,Perseru Serui,Mitra Kukar,0,0,D,0.0,0.0,D
+IDN,2016-05-06,10:00,Persiba Balikpapan,Sriwijaya FC,0,0,D,0.0,0.0,D
+IDN,2016-05-06,15:00,Madura United FC,Arema Cronus FC,0,0,D,0.0,0.0,D
+IDN,2016-05-07,10:00,PSM Makassar,Persela Lamongan,2,1,H,2.0,0.0,H
+IDN,2016-05-07,12:30,Pusamania Borneo,Persib Bandung,0,0,D,0.0,0.0,D
+IDN,2016-05-07,15:00,Gresik United,Perseru Serui,1,1,D,0.0,1.0,A
+IDN,2016-05-08,10:00,Persipura Jayapura,Bali United,0,0,D,0.0,0.0,D
+IDN,2016-05-08,12:30,Persija Jakarta,Semen Padang,1,0,H,0.0,0.0,D
+IDN,2016-05-08,15:00,Bhayangkara Surabaya United,PS TNI,0,0,D,0.0,0.0,D
+IDN,2016-05-09,13:00,Mitra Kukar,PS Barito Putera,1,1,D,0.0,1.0,A
+IDN,2016-05-13,10:00,Pusamania Borneo,Persiba Balikpapan,1,0,H,0.0,0.0,D
+IDN,2016-05-13,15:00,Persija Jakarta,Persela Lamongan,2,1,H,1.0,0.0,H
+IDN,2016-05-14,09:30,PS TNI,Mitra Kukar,1,4,A,1.0,3.0,A
+IDN,2016-05-14,10:00,Semen Padang,Persipura Jayapura,2,0,H,2.0,0.0,H
+IDN,2016-05-14,12:30,Persib Bandung,Bali United,2,0,H,2.0,0.0,H
+IDN,2016-05-15,10:00,Sriwijaya FC,Madura United FC,5,0,H,2.0,0.0,H
+IDN,2016-05-15,10:00,PS Barito Putera,Gresik United,3,1,H,1.0,1.0,D
+IDN,2016-05-15,12:30,Arema Cronus FC,Bhayangkara Surabaya United,3,0,H,1.0,0.0,H
+IDN,2016-05-16,13:00,Perseru Serui,PSM Makassar,1,0,H,0.0,0.0,D
+IDN,2016-05-20,10:00,Mitra Kukar,Arema Cronus FC,2,1,H,1.0,0.0,H
+IDN,2016-05-20,15:00,Madura United FC,Pusamania Borneo,2,1,H,0.0,0.0,D
+IDN,2016-05-21,10:00,PSM Makassar,PS Barito Putera,1,0,H,0.0,0.0,D
+IDN,2016-05-21,10:00,Bali United,Semen Padang,2,1,H,1.0,1.0,D
+IDN,2016-05-21,13:00,Persiba Balikpapan,Persib Bandung,1,1,D,0.0,0.0,D
+IDN,2016-05-22,08:00,Perseru Serui,Persija Jakarta,0,0,D,0.0,0.0,D
+IDN,2016-05-22,10:00,Gresik United,PS TNI,0,0,D,0.0,0.0,D
+IDN,2016-05-22,13:00,Bhayangkara Surabaya United,Sriwijaya FC,0,1,A,0.0,1.0,A
+IDN,2016-05-23,13:00,Persela Lamongan,Persipura Jayapura,0,1,A,0.0,0.0,D
+IDN,2016-05-27,10:00,Pusamania Borneo,Bhayangkara Surabaya United,1,1,D,1.0,0.0,H
+IDN,2016-05-27,15:00,Arema Cronus FC,Gresik United,3,1,H,2.0,0.0,H
+IDN,2016-05-28,10:00,Semen Padang,Persela Lamongan,4,0,H,1.0,0.0,H
+IDN,2016-05-28,10:00,Persipura Jayapura,Perseru Serui,1,0,H,0.0,0.0,D
+IDN,2016-05-28,13:00,Persib Bandung,Madura United FC,0,0,D,0.0,0.0,D
+IDN,2016-05-29,10:00,Sriwijaya FC,Mitra Kukar,0,0,D,0.0,0.0,D
+IDN,2016-05-29,13:00,PS Barito Putera,Persija Jakarta,1,0,H,1.0,0.0,H
+IDN,2016-05-29,15:00,PS TNI,PSM Makassar,1,1,D,1.0,0.0,H
+IDN,2016-05-30,13:00,Persiba Balikpapan,Bali United,3,1,H,1.0,0.0,H
+IDN,2016-06-10,13:30,Mitra Kukar,Pusamania Borneo,3,2,H,2.0,1.0,H
+IDN,2016-06-10,15:00,Persija Jakarta,PS TNI,1,0,H,0.0,0.0,D
+IDN,2016-06-11,11:30,Perseru Serui,Semen Padang,2,0,H,0.0,0.0,D
+IDN,2016-06-11,13:30,Bhayangkara Surabaya United,Persib Bandung,4,1,H,2.0,0.0,H
+IDN,2016-06-11,15:00,Bali United,Persela Lamongan,3,1,H,1.0,0.0,H
+IDN,2016-06-12,13:30,PSM Makassar,Arema Cronus FC,0,1,A,0.0,0.0,D
+IDN,2016-06-12,15:30,Gresik United,Sriwijaya FC,2,1,H,0.0,1.0,A
+IDN,2016-06-13,13:30,Persipura Jayapura,PS Barito Putera,5,4,H,1.0,3.0,A
+IDN,2016-06-13,15:30,Madura United FC,Persiba Balikpapan,3,1,H,1.0,0.0,H
+IDN,2016-06-16,15:00,Persela Lamongan,Perseru Serui,2,0,H,1.0,0.0,H
+IDN,2016-06-17,13:30,Pusamania Borneo,Gresik United,5,0,H,2.0,0.0,H
+IDN,2016-06-17,14:30,PS Barito Putera,Semen Padang,1,1,D,0.0,0.0,D
+IDN,2016-06-18,13:30,Persib Bandung,Mitra Kukar,2,1,H,2.0,0.0,H
+IDN,2016-06-18,15:30,Sriwijaya FC,PSM Makassar,1,0,H,0.0,0.0,D
+IDN,2016-06-19,13:30,Arema Cronus FC,Persija Jakarta,1,0,H,1.0,0.0,H
+IDN,2016-06-19,15:30,PS TNI,Persipura Jayapura,1,3,A,0.0,1.0,A
+IDN,2016-06-20,13:30,Persiba Balikpapan,Bhayangkara Surabaya United,0,2,A,0.0,0.0,D
+IDN,2016-06-20,15:30,Madura United FC,Bali United,0,0,D,0.0,0.0,D
+IDN,2016-06-23,13:30,PSM Makassar,Pusamania Borneo,0,2,A,0.0,2.0,A
+IDN,2016-06-24,13:30,Mitra Kukar,Persiba Balikpapan,0,0,D,0.0,0.0,D
+IDN,2016-06-24,15:30,Persija Jakarta,Sriwijaya FC,0,3,A,,,
+IDN,2016-06-25,15:30,Bhayangkara Surabaya United,Madura United FC,0,1,A,0.0,0.0,D
+IDN,2016-06-26,13:30,Persipura Jayapura,Arema Cronus FC,0,0,D,0.0,0.0,D
+IDN,2016-06-26,15:30,Semen Padang,PS TNI,1,0,H,0.0,0.0,D
+IDN,2016-06-27,13:30,Bali United,Perseru Serui,3,0,H,1.0,0.0,H
+IDN,2016-06-27,13:30,Gresik United,Persib Bandung,2,1,H,1.0,0.0,H
+IDN,2016-06-27,15:30,Persela Lamongan,PS Barito Putera,4,2,H,2.0,0.0,H
+IDN,2016-06-30,13:30,Persiba Balikpapan,Gresik United,5,3,H,3.0,1.0,H
+IDN,2016-07-01,14:30,PS Barito Putera,Perseru Serui,5,1,H,1.0,0.0,H
+IDN,2016-07-01,15:30,Arema Cronus FC,Semen Padang,1,0,H,1.0,0.0,H
+IDN,2016-07-02,13:30,Persib Bandung,PSM Makassar,3,2,H,2.0,1.0,H
+IDN,2016-07-02,15:30,Madura United FC,Mitra Kukar,3,2,H,1.0,1.0,D
+IDN,2016-07-03,13:30,Pusamania Borneo,Persija Jakarta,3,0,H,1.0,0.0,H
+IDN,2016-07-03,14:30,PS TNI,Persela Lamongan,3,1,H,3.0,0.0,H
+IDN,2016-07-03,15:30,Bhayangkara Surabaya United,Bali United,3,1,H,2.0,0.0,H
+IDN,2016-07-03,15:30,Sriwijaya FC,Persipura Jayapura,1,0,H,0.0,0.0,D
+IDN,2016-07-15,10:00,Pusamania Borneo,Persipura Jayapura,0,3,A,0.0,0.0,D
+IDN,2016-07-15,15:00,Semen Padang,Sriwijaya FC,2,1,H,1.0,1.0,D
+IDN,2016-07-16,10:00,PSM Makassar,Persiba Balikpapan,3,2,H,1.0,0.0,H
+IDN,2016-07-16,13:00,Persib Bandung,Persija Jakarta,0,0,D,0.0,0.0,D
+IDN,2016-07-16,15:00,Gresik United,Madura United FC,1,2,A,0.0,1.0,A
+IDN,2016-07-17,10:00,Mitra Kukar,Bhayangkara Surabaya United,2,3,A,0.0,2.0,A
+IDN,2016-07-17,10:00,PS Barito Putera,Bali United,0,1,A,0.0,0.0,D
+IDN,2016-07-18,08:00,Perseru Serui,PS TNI,2,1,H,1.0,0.0,H
+IDN,2016-07-18,13:00,Persela Lamongan,Arema Cronus FC,0,2,A,0.0,0.0,D
+IDN,2016-07-20,10:00,Madura United FC,PSM Makassar,4,1,H,0.0,0.0,D
+IDN,2016-07-20,10:00,Pusamania Borneo,Semen Padang,0,0,D,0.0,0.0,D
+IDN,2016-07-20,13:00,Persiba Balikpapan,Persija Jakarta,1,0,H,0.0,0.0,D
+IDN,2016-07-21,07:30,Persipura Jayapura,Persib Bandung,0,2,A,0.0,1.0,A
+IDN,2016-07-21,10:00,Bhayangkara Surabaya United,Gresik United,1,0,H,1.0,0.0,H
+IDN,2016-07-21,10:00,Sriwijaya FC,Persela Lamongan,2,2,D,2.0,1.0,H
+IDN,2016-07-22,13:00,PS TNI,PS Barito Putera,2,1,H,2.0,0.0,H
+IDN,2016-07-22,15:00,Arema Cronus FC,Perseru Serui,3,0,H,2.0,0.0,H
+IDN,2016-07-23,10:00,Bali United,Mitra Kukar,1,1,D,0.0,1.0,A
+IDN,2016-07-24,10:00,Persela Lamongan,Pusamania Borneo,1,0,H,0.0,0.0,D
+IDN,2016-07-24,13:00,Persija Jakarta,Madura United FC,0,3,A,0.0,1.0,A
+IDN,2016-07-25,10:00,Persipura Jayapura,Persiba Balikpapan,1,1,D,1.0,1.0,D
+IDN,2016-07-25,13:00,Semen Padang,Persib Bandung,4,0,H,2.0,0.0,H
+IDN,2016-07-25,13:00,PSM Makassar,Bhayangkara Surabaya United,1,2,A,0.0,0.0,D
+IDN,2016-07-26,13:00,Arema Cronus FC,PS Barito Putera,0,0,D,0.0,0.0,D
+IDN,2016-07-27,10:00,Gresik United,Mitra Kukar,0,0,D,0.0,0.0,D
+IDN,2016-07-27,10:00,Sriwijaya FC,Perseru Serui,1,0,H,0.0,0.0,D
+IDN,2016-07-27,13:00,Bali United,PS TNI,2,2,D,0.0,1.0,A
+IDN,2016-07-29,10:00,Persiba Balikpapan,Semen Padang,2,1,H,1.0,1.0,D
+IDN,2016-07-29,15:00,Persib Bandung,Persela Lamongan,1,0,H,0.0,0.0,D
+IDN,2016-07-30,10:00,Madura United FC,Persipura Jayapura,2,0,H,1.0,0.0,H
+IDN,2016-07-30,13:00,Bhayangkara Surabaya United,Persija Jakarta,2,1,H,2.0,0.0,H
+IDN,2016-07-31,08:00,Perseru Serui,Pusamania Borneo,3,0,H,,,
+IDN,2016-07-31,10:00,Mitra Kukar,PSM Makassar,2,2,D,0.0,0.0,D
+IDN,2016-07-31,13:00,PS TNI,Arema Cronus FC,2,1,H,0.0,0.0,D
+IDN,2016-08-01,10:00,Bali United,Gresik United,1,1,D,0.0,0.0,D
+IDN,2016-08-01,13:00,PS Barito Putera,Sriwijaya FC,1,1,D,1.0,0.0,H
+IDN,2016-08-05,10:00,Bhayangkara Surabaya United,Persipura Jayapura,1,2,A,0.0,0.0,D
+IDN,2016-08-05,15:00,Persija Jakarta,Mitra Kukar,1,1,D,0.0,0.0,D
+IDN,2016-08-06,08:00,Perseru Serui,Persib Bandung,1,0,H,1.0,0.0,H
+IDN,2016-08-06,13:00,Sriwijaya FC,PS TNI,6,1,H,3.0,0.0,H
+IDN,2016-08-07,10:00,Pusamania Borneo,PS Barito Putera,4,1,H,2.0,1.0,H
+IDN,2016-08-07,10:00,PSM Makassar,Gresik United,3,2,H,3.0,1.0,H
+IDN,2016-08-07,13:00,Arema Cronus FC,Bali United,1,0,H,1.0,0.0,H
+IDN,2016-08-08,10:00,Semen Padang,Madura United FC,3,1,H,1.0,1.0,D
+IDN,2016-08-08,13:00,Persela Lamongan,Persiba Balikpapan,1,2,A,0.0,2.0,A
+IDN,2016-08-12,10:00,Semen Padang,Bhayangkara Surabaya United,2,1,H,1.0,0.0,H
+IDN,2016-08-12,15:00,Gresik United,Persija Jakarta,2,2,D,1.0,1.0,D
+IDN,2016-08-13,10:00,Persiba Balikpapan,Perseru Serui,1,2,A,0.0,1.0,A
+IDN,2016-08-13,10:00,Madura United FC,Persela Lamongan,2,1,H,1.0,0.0,H
+IDN,2016-08-13,13:00,Persib Bandung,PS Barito Putera,2,0,H,1.0,0.0,H
+IDN,2016-08-14,10:00,Persipura Jayapura,Mitra Kukar,1,0,H,1.0,0.0,H
+IDN,2016-08-14,10:00,PSM Makassar,Bali United,4,0,H,3.0,0.0,H
+IDN,2016-08-14,13:00,Sriwijaya FC,Arema Cronus FC,1,1,D,0.0,0.0,D
+IDN,2016-08-15,13:00,PS TNI,Pusamania Borneo,3,1,H,1.0,0.0,H
+IDN,2016-08-19,10:00,Bali United,Sriwijaya FC,1,0,H,1.0,0.0,H
+IDN,2016-08-19,15:00,Persela Lamongan,Bhayangkara Surabaya United,0,1,A,0.0,1.0,A
+IDN,2016-08-20,08:00,Perseru Serui,Madura United FC,1,1,D,0.0,0.0,D
+IDN,2016-08-20,10:00,Persipura Jayapura,Gresik United,3,0,H,2.0,0.0,H
+IDN,2016-08-20,13:00,Arema Cronus FC,Pusamania Borneo,1,2,A,0.0,2.0,A
+IDN,2016-08-21,10:00,PS Barito Putera,Persiba Balikpapan,3,1,H,0.0,1.0,A
+IDN,2016-08-21,13:00,Persija Jakarta,PSM Makassar,0,1,A,0.0,0.0,D
+IDN,2016-08-21,13:00,PS TNI,Persib Bandung,0,3,A,0.0,3.0,A
+IDN,2016-08-22,12:00,Mitra Kukar,Semen Padang,2,0,H,1.0,0.0,H
+IDN,2016-08-26,10:00,Mitra Kukar,Persela Lamongan,1,2,A,0.0,0.0,D
+IDN,2016-08-26,15:00,Persija Jakarta,Bali United,1,2,A,0.0,1.0,A
+IDN,2016-08-27,10:00,Pusamania Borneo,Sriwijaya FC,2,2,D,1.0,0.0,H
+IDN,2016-08-27,13:00,Persib Bandung,Arema Cronus FC,0,0,D,0.0,0.0,D
+IDN,2016-08-27,15:00,Madura United FC,PS Barito Putera,1,0,H,0.0,0.0,D
+IDN,2016-08-28,10:00,Gresik United,Semen Padang,1,1,D,0.0,1.0,A
+IDN,2016-08-28,13:00,PSM Makassar,Persipura Jayapura,0,0,D,0.0,0.0,D
+IDN,2016-08-28,15:00,Persiba Balikpapan,PS TNI,2,0,H,1.0,0.0,H
+IDN,2016-08-29,13:00,Bhayangkara Surabaya United,Perseru Serui,3,1,H,2.0,1.0,H
+IDN,2016-09-02,10:00,Persela Lamongan,PSM Makassar,2,2,D,1.0,1.0,D
+IDN,2016-09-02,15:00,Arema Cronus FC,Madura United FC,2,1,H,1.0,1.0,D
+IDN,2016-09-03,10:00,Bali United,Persipura Jayapura,0,1,A,0.0,0.0,D
+IDN,2016-09-03,10:00,Sriwijaya FC,Persiba Balikpapan,3,1,H,3.0,1.0,H
+IDN,2016-09-03,13:00,Semen Padang,Persija Jakarta,0,0,D,0.0,0.0,D
+IDN,2016-09-03,15:00,PS Barito Putera,Mitra Kukar,0,1,A,0.0,1.0,A
+IDN,2016-09-05,08:00,Perseru Serui,Gresik United,4,1,H,1.0,0.0,H
+IDN,2016-09-09,10:00,PSM Makassar,Semen Padang,3,2,H,1.0,0.0,H
+IDN,2016-09-09,15:00,Gresik United,Persela Lamongan,1,1,D,1.0,1.0,D
+IDN,2016-09-09,15:00,Madura United FC,PS TNI,4,1,H,2.0,0.0,H
+IDN,2016-09-10,08:00,Persiba Balikpapan,Arema Cronus FC,0,0,D,0.0,0.0,D
+IDN,2016-09-10,10:00,Bhayangkara FC,PS Barito Putera,1,1,D,1.0,0.0,H
+IDN,2016-09-10,10:00,Persija Jakarta,Persipura Jayapura,1,1,D,0.0,0.0,D
+IDN,2016-09-10,13:00,Sriwijaya FC,Persib Bandung,3,0,H,1.0,0.0,H
+IDN,2016-09-11,09:00,Pusamania Borneo,Bali United,4,0,H,1.0,0.0,H
+IDN,2016-09-11,13:00,Mitra Kukar,Perseru Serui,1,0,H,0.0,0.0,D
+IDN,2016-09-14,10:00,Madura United FC,Sriwijaya FC,2,5,A,0.0,1.0,A
+IDN,2016-09-16,10:00,PSM Makassar,Perseru Serui,1,1,D,1.0,0.0,H
+IDN,2016-09-16,15:00,Persela Lamongan,Persija Jakarta,1,1,D,1.0,0.0,H
+IDN,2016-09-17,08:00,Persipura Jayapura,Semen Padang,2,0,H,1.0,0.0,H
+IDN,2016-09-17,10:15,Persiba Balikpapan,Pusamania Borneo,0,1,A,0.0,0.0,D
+IDN,2016-09-17,13:00,Bhayangkara FC,Arema Cronus FC,0,1,A,0.0,1.0,A
+IDN,2016-09-18,10:00,Mitra Kukar,PS TNI,3,2,H,2.0,1.0,H
+IDN,2016-09-18,13:00,Bali United,Persib Bandung,1,0,H,0.0,0.0,D
+IDN,2016-09-19,15:00,Gresik United,PS Barito Putera,2,1,H,0.0,1.0,A
+IDN,2016-09-30,10:00,Pusamania Borneo,Madura United FC,1,1,D,1.0,0.0,H
+IDN,2016-09-30,15:00,Arema Cronus FC,Mitra Kukar,0,0,D,0.0,0.0,D
+IDN,2016-10-01,08:00,Persipura Jayapura,Persela Lamongan,5,0,H,0.0,0.0,D
+IDN,2016-10-01,10:00,PS Barito Putera,PSM Makassar,1,2,A,0.0,1.0,A
+IDN,2016-10-01,13:00,Persib Bandung,Persiba Balikpapan,2,1,H,0.0,1.0,A
+IDN,2016-10-02,10:00,Sriwijaya FC,Bhayangkara FC,0,4,A,0.0,1.0,A
+IDN,2016-10-02,13:00,Persija Jakarta,Perseru Serui,2,1,H,0.0,1.0,A
+IDN,2016-10-02,15:00,PS TNI,Gresik United,2,0,H,1.0,0.0,H
+IDN,2016-10-03,10:00,Semen Padang,Bali United,3,0,H,2.0,0.0,H
+IDN,2016-10-07,10:00,Bhayangkara FC,Pusamania Borneo,2,1,H,1.0,1.0,D
+IDN,2016-10-07,15:30,Gresik United,Arema Cronus FC,1,0,H,1.0,0.0,H
+IDN,2016-10-08,08:00,Perseru Serui,Persipura Jayapura,2,0,H,0.0,0.0,D
+IDN,2016-10-08,10:00,Persela Lamongan,Semen Padang,0,0,D,0.0,0.0,D
+IDN,2016-10-08,13:00,Madura United FC,Persib Bandung,2,1,H,1.0,0.0,H
+IDN,2016-10-09,10:00,Mitra Kukar,Sriwijaya FC,1,0,H,0.0,0.0,D
+IDN,2016-10-09,12:00,Bali United,Persiba Balikpapan,1,2,A,1.0,1.0,D
+IDN,2016-10-09,12:30,Persija Jakarta,PS Barito Putera,3,2,H,1.0,1.0,D
+IDN,2016-10-10,13:00,PSM Makassar,PS TNI,4,0,H,1.0,0.0,H
+IDN,2016-10-12,08:00,Pusamania Borneo,Mitra Kukar,3,2,H,2.0,1.0,H
+IDN,2016-10-12,10:00,Semen Padang,Perseru Serui,2,0,H,1.0,0.0,H
+IDN,2016-10-12,10:15,Persib Bandung,Bhayangkara FC,2,1,H,0.0,0.0,D
+IDN,2016-10-13,08:00,Persiba Balikpapan,Madura United FC,1,2,A,0.0,1.0,A
+IDN,2016-10-13,09:40,PS Barito Putera,Persipura Jayapura,0,0,D,0.0,0.0,D
+IDN,2016-10-13,10:15,Sriwijaya FC,Gresik United,3,0,H,3.0,0.0,H
+IDN,2016-10-13,14:00,Persela Lamongan,Bali United,3,0,H,2.0,0.0,H
+IDN,2016-10-14,10:00,PS TNI,Persija Jakarta,1,2,A,0.0,0.0,D
+IDN,2016-10-14,15:30,Arema Cronus FC,PSM Makassar,2,0,H,2.0,0.0,H
+IDN,2016-10-16,10:00,Gresik United,Pusamania Borneo,2,1,H,2.0,1.0,H
+IDN,2016-10-16,13:00,Mitra Kukar,Persib Bandung,2,1,H,1.0,0.0,H
+IDN,2016-10-17,08:00,Perseru Serui,Persela Lamongan,1,1,D,0.0,1.0,A
+IDN,2016-10-17,08:00,PSM Makassar,Sriwijaya FC,2,1,H,0.0,0.0,D
+IDN,2016-10-17,10:00,Bhayangkara FC,Persiba Balikpapan,1,0,H,0.0,0.0,D
+IDN,2016-10-18,07:30,Persipura Jayapura,PS TNI,3,2,H,2.0,1.0,H
+IDN,2016-10-18,08:00,Bali United,Madura United FC,0,0,D,0.0,0.0,D
+IDN,2016-10-18,10:30,Semen Padang,PS Barito Putera,2,0,H,1.0,0.0,H
+IDN,2016-10-18,15:30,Persija Jakarta,Arema Cronus FC,1,4,A,0.0,2.0,A
+IDN,2016-10-21,10:00,Pusamania Borneo,PSM Makassar,4,1,H,0.0,1.0,A
+IDN,2016-10-22,08:00,Perseru Serui,Bali United,2,0,H,1.0,0.0,H
+IDN,2016-10-22,09:30,Persib Bandung,Gresik United,2,0,H,1.0,0.0,H
+IDN,2016-10-22,10:00,Persiba Balikpapan,Mitra Kukar,2,2,D,2.0,0.0,H
+IDN,2016-10-22,15:00,Madura United FC,Bhayangkara FC,1,1,D,0.0,0.0,D
+IDN,2016-10-23,12:30,Sriwijaya FC,Persija Jakarta,2,1,H,0.0,1.0,A
+IDN,2016-10-23,15:00,PS TNI,Semen Padang,1,0,H,0.0,0.0,D
+IDN,2016-10-24,07:30,Persipura Jayapura,Arema Cronus FC,2,0,H,0.0,0.0,D
+IDN,2016-10-24,09:00,PS Barito Putera,Persela Lamongan,1,0,H,1.0,0.0,H
+IDN,2016-10-28,10:00,Mitra Kukar,Madura United FC,2,1,H,1.0,0.0,H
+IDN,2016-10-28,15:30,Semen Padang,Arema Cronus FC,1,3,A,0.0,2.0,A
+IDN,2016-10-29,10:00,Bali United,Bhayangkara FC,2,2,D,2.0,1.0,H
+IDN,2016-10-29,12:30,PSM Makassar,Persib Bandung,2,2,D,1.0,1.0,D
+IDN,2016-10-29,15:00,Gresik United,Persiba Balikpapan,1,2,A,0.0,1.0,A
+IDN,2016-10-30,06:30,Persipura Jayapura,Sriwijaya FC,1,0,H,0.0,0.0,D
+IDN,2016-10-30,08:30,Persela Lamongan,PS TNI,3,2,H,2.0,0.0,H
+IDN,2016-10-30,11:30,Persija Jakarta,Pusamania Borneo,0,2,A,0.0,1.0,A
+IDN,2016-10-31,07:00,Perseru Serui,PS Barito Putera,3,1,H,2.0,0.0,H
+IDN,2016-11-04,08:30,Madura United FC,Gresik United,4,1,H,1.0,0.0,H
+IDN,2016-11-04,14:30,Sriwijaya FC,Semen Padang,1,1,D,1.0,1.0,D
+IDN,2016-11-05,06:30,Persipura Jayapura,Pusamania Borneo,0,0,D,0.0,0.0,D
+IDN,2016-11-05,09:00,Persiba Balikpapan,PSM Makassar,0,2,A,0.0,1.0,A
+IDN,2016-11-05,11:30,Persija Jakarta,Persib Bandung,0,0,D,0.0,0.0,D
+IDN,2016-11-06,09:00,Bhayangkara FC,Mitra Kukar,4,0,H,0.0,0.0,D
+IDN,2016-11-06,11:30,Arema Cronus FC,Persela Lamongan,3,0,H,1.0,0.0,H
+IDN,2016-11-06,14:00,PS TNI,Perseru Serui,1,0,H,1.0,0.0,H
+IDN,2016-11-07,12:00,Bali United,PS Barito Putera,3,2,H,2.0,0.0,H
+IDN,2016-11-11,09:00,Semen Padang,Pusamania Borneo,2,1,H,1.0,0.0,H
+IDN,2016-11-11,14:30,Persela Lamongan,Sriwijaya FC,3,3,D,1.0,1.0,D
+IDN,2016-11-12,09:00,PSM Makassar,Madura United FC,1,0,H,0.0,0.0,D
+IDN,2016-11-12,12:30,Persib Bandung,Persipura Jayapura,2,0,H,1.0,0.0,H
+IDN,2016-11-12,14:00,Gresik United,Bhayangkara FC,0,0,D,0.0,0.0,D
+IDN,2016-11-13,07:00,Perseru Serui,Arema Cronus FC,1,0,H,1.0,0.0,H
+IDN,2016-11-13,09:00,PS Barito Putera,PS TNI,1,0,H,1.0,0.0,H
+IDN,2016-11-13,11:30,Persija Jakarta,Persiba Balikpapan,1,0,H,0.0,0.0,D
+IDN,2016-11-14,09:00,Mitra Kukar,Bali United,3,1,H,1.0,1.0,D
+IDN,2016-11-18,09:00,Pusamania Borneo,Persela Lamongan,3,1,H,1.0,0.0,H
+IDN,2016-11-19,09:00,PS Barito Putera,Arema Cronus FC,0,1,A,0.0,0.0,D
+IDN,2016-11-19,09:00,Persiba Balikpapan,Persipura Jayapura,1,4,A,1.0,1.0,D
+IDN,2016-11-19,11:30,Persib Bandung,Semen Padang,1,0,H,1.0,0.0,H
+IDN,2016-11-20,07:00,Perseru Serui,Sriwijaya FC,0,0,D,0.0,0.0,D
+IDN,2016-11-20,09:00,PS TNI,Bali United,2,4,A,1.0,2.0,A
+IDN,2016-11-20,11:30,Madura United FC,Persija Jakarta,1,0,H,1.0,0.0,H
+IDN,2016-11-21,09:00,Bhayangkara FC,PSM Makassar,0,1,A,0.0,1.0,A
+IDN,2016-11-21,12:00,Mitra Kukar,Gresik United,2,1,H,2.0,1.0,H
+IDN,2016-11-25,14:30,Arema Cronus FC,PS TNI,2,1,H,1.0,1.0,D
+IDN,2016-11-26,07:00,Persipura Jayapura,Madura United FC,2,0,H,1.0,0.0,H
+IDN,2016-11-26,09:15,Semen Padang,Persiba Balikpapan,1,0,H,1.0,0.0,H
+IDN,2016-11-26,11:30,Persela Lamongan,Persib Bandung,2,1,H,2.0,0.0,H
+IDN,2016-11-27,07:00,PSM Makassar,Mitra Kukar,2,1,H,1.0,0.0,H
+IDN,2016-11-27,09:00,Pusamania Borneo,Perseru Serui,6,1,H,3.0,0.0,H
+IDN,2016-11-27,09:15,Gresik United,Bali United,0,1,A,0.0,0.0,D
+IDN,2016-11-27,11:30,Persija Jakarta,Bhayangkara FC,1,1,D,0.0,0.0,D
+IDN,2016-11-28,09:00,Sriwijaya FC,PS Barito Putera,2,2,D,1.0,1.0,D
+IDN,2016-11-30,09:00,Persib Bandung,Perseru Serui,6,2,H,2.0,0.0,H
+IDN,2016-11-30,09:00,Persiba Balikpapan,Persela Lamongan,3,3,D,1.0,2.0,A
+IDN,2016-12-01,09:00,Madura United FC,Semen Padang,2,1,H,0.0,0.0,D
+IDN,2016-12-01,09:00,PS Barito Putera,Pusamania Borneo,1,0,H,0.0,0.0,D
+IDN,2016-12-02,06:40,Persipura Jayapura,Bhayangkara FC,2,1,H,1.0,1.0,D
+IDN,2016-12-02,14:00,Mitra Kukar,Persija Jakarta,2,0,H,1.0,0.0,H
+IDN,2016-12-03,11:30,Bali United,Arema Cronus FC,2,2,D,1.0,0.0,H
+IDN,2016-12-03,14:00,Gresik United,PSM Makassar,1,3,A,0.0,2.0,A
+IDN,2016-12-04,09:00,Persela Lamongan,Madura United FC,2,1,H,2.0,1.0,H
+IDN,2016-12-04,11:30,PS Barito Putera,Persib Bandung,1,1,D,0.0,1.0,A
+IDN,2016-12-05,09:00,Pusamania Borneo,PS TNI,6,1,H,4.0,1.0,H
+IDN,2016-12-06,07:00,Bali United,PSM Makassar,0,2,A,0.0,1.0,A
+IDN,2016-12-06,07:00,Perseru Serui,Persiba Balikpapan,3,0,H,2.0,0.0,H
+IDN,2016-12-06,09:15,Bhayangkara FC,Semen Padang,2,2,D,1.0,1.0,D
+IDN,2016-12-07,09:00,Mitra Kukar,Persipura Jayapura,1,2,A,1.0,1.0,D
+IDN,2016-12-07,09:00,Persija Jakarta,Gresik United,0,1,A,0.0,0.0,D
+IDN,2016-12-08,10:00,Arema Cronus FC,Sriwijaya FC,3,2,H,2.0,1.0,H
+IDN,2016-12-09,09:00,Bhayangkara FC,Persela Lamongan,3,0,H,1.0,0.0,H
+IDN,2016-12-09,11:30,Persib Bandung,PS TNI,4,0,H,2.0,0.0,H
+IDN,2016-12-10,09:00,Madura United FC,Perseru Serui,7,1,H,5.0,0.0,H
+IDN,2016-12-10,11:30,PSM Makassar,Persija Jakarta,0,1,A,0.0,0.0,D
+IDN,2016-12-11,09:00,Gresik United,Persipura Jayapura,0,3,A,0.0,1.0,A
+IDN,2016-12-11,11:30,Sriwijaya FC,Bali United,2,1,H,1.0,0.0,H
+IDN,2016-12-11,13:30,Pusamania Borneo,Arema Cronus FC,2,2,D,2.0,2.0,D
+IDN,2016-12-12,08:00,Persiba Balikpapan,PS Barito Putera,1,1,D,1.0,1.0,D
+IDN,2016-12-12,09:00,Semen Padang,Mitra Kukar,3,2,H,1.0,1.0,D
+IDN,2016-12-13,09:00,PS TNI,Bhayangkara FC,1,1,D,0.0,1.0,A
+IDN,2016-12-14,08:00,Persib Bandung,Pusamania Borneo,1,0,H,1.0,0.0,H
+IDN,2016-12-15,09:00,PS TNI,Sriwijaya FC,2,5,A,1.0,3.0,A
+IDN,2016-12-16,10:00,Persela Lamongan,Mitra Kukar,1,0,H,1.0,0.0,H
+IDN,2016-12-17,09:00,Semen Padang,Gresik United,2,0,H,1.0,0.0,H
+IDN,2016-12-17,11:30,Bali United,Persija Jakarta,1,1,D,1.0,1.0,D
+IDN,2016-12-18,06:30,Persipura Jayapura,PSM Makassar,4,2,H,4.0,0.0,H
+IDN,2016-12-18,07:00,Perseru Serui,Bhayangkara FC,1,0,H,0.0,0.0,D
+IDN,2016-12-18,09:00,Sriwijaya FC,Pusamania Borneo,3,2,H,2.0,0.0,H
+IDN,2016-12-18,11:30,Arema Cronus FC,Persib Bandung,0,0,D,0.0,0.0,D
+IDN,2016-12-18,14:00,PS TNI,Persiba Balikpapan,0,2,A,0.0,1.0,A
+IDN,2016-12-18,14:00,PS Barito Putera,Madura United FC,1,0,H,1.0,0.0,H

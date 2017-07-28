@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHI,2016-07-30,01:00,San Luis,O'Higgins,0,1,A,0,0,D
+CHI,2016-07-30,17:00,Santiago Wanderers,Universidad de Chile,1,0,H,1,0,H
+CHI,2016-07-30,23:00,Universidad Católica,CD Cobresal,1,1,D,1,0,H
+CHI,2016-07-31,01:30,CD Huachipato,Audax Italiano,3,1,H,0,0,D
+CHI,2016-07-31,17:00,Deportes Iquique,Everton,3,1,H,2,1,H
+CHI,2016-07-31,20:30,Colo-Colo,Unión Española,1,2,A,0,1,A
+CHI,2016-07-31,23:00,Universidad de Concepción,CD Palestino,1,0,H,0,0,D
+CHI,2016-08-01,01:30,Antofagasta,Deportes Temuco,0,2,A,0,0,D
+CHI,2016-08-05,23:00,CD Cobresal,Santiago Wanderers,1,1,D,1,0,H
+CHI,2016-08-06,01:30,O'Higgins,Universidad Católica,1,1,D,0,0,D
+CHI,2016-08-06,17:00,CD Palestino,CD Huachipato,2,1,H,0,0,D
+CHI,2016-08-06,23:00,Universidad de Chile,Antofagasta,1,1,D,0,0,D
+CHI,2016-08-07,01:30,Unión Española,Universidad de Concepción,3,0,H,1,0,H
+CHI,2016-08-07,17:00,Deportes Temuco,Deportes Iquique,1,3,A,0,3,A
+CHI,2016-08-07,20:30,Audax Italiano,Colo-Colo,0,2,A,0,1,A
+CHI,2016-08-07,23:00,Everton,San Luis,1,1,D,0,1,A
+CHI,2016-08-13,00:00,Santiago Wanderers,Audax Italiano,2,0,H,0,0,D
+CHI,2016-08-13,17:00,Deportes Iquique,O'Higgins,1,1,D,1,0,H
+CHI,2016-08-13,20:30,San Luis,Universidad de Chile,2,4,A,0,1,A
+CHI,2016-08-13,23:00,Colo-Colo,Deportes Temuco,0,2,A,0,1,A
+CHI,2016-08-14,01:30,Universidad de Concepción,Everton,2,2,D,0,2,A
+CHI,2016-08-14,16:00,Antofagasta,CD Cobresal,0,0,D,0,0,D
+CHI,2016-08-14,19:30,CD Huachipato,Unión Española,2,2,D,1,0,H
+CHI,2016-08-14,22:00,Universidad Católica,CD Palestino,1,1,D,0,0,D
+CHI,2016-08-19,23:30,Everton,Unión Española,1,1,D,1,0,H
+CHI,2016-08-20,16:00,CD Cobresal,Deportes Iquique,1,2,A,0,0,D
+CHI,2016-08-20,19:00,O'Higgins,Deportes Temuco,1,0,H,0,0,D
+CHI,2016-08-20,21:30,Universidad de Chile,Universidad de Concepción,3,1,H,2,0,H
+CHI,2016-08-21,16:00,CD Palestino,San Luis,3,4,A,2,2,D
+CHI,2016-08-21,19:00,CD Huachipato,Colo-Colo,2,2,D,2,1,H
+CHI,2016-08-21,21:30,Universidad Católica,Santiago Wanderers,1,2,A,0,1,A
+CHI,2016-08-22,00:00,Audax Italiano,Antofagasta,1,0,H,0,0,D
+CHI,2016-08-26,23:00,Colo-Colo,Deportes Iquique,0,2,A,0,2,A
+CHI,2016-08-27,16:00,Universidad de Chile,Universidad Católica,0,3,A,0,3,A
+CHI,2016-08-27,19:00,Deportes Temuco,CD Cobresal,1,2,A,0,1,A
+CHI,2016-08-28,00:00,Unión Española,O'Higgins,1,1,D,0,0,D
+CHI,2016-08-28,19:00,Santiago Wanderers,Antofagasta,0,1,A,0,1,A
+CHI,2016-08-28,21:30,Universidad de Concepción,Audax Italiano,3,1,H,2,0,H
+CHI,2016-08-29,00:00,San Luis,CD Huachipato,1,1,D,1,1,D
+CHI,2016-08-29,23:30,Everton,CD Palestino,1,2,A,0,1,A
+CHI,2016-09-09,23:30,Universidad Católica,Everton,3,1,H,1,0,H
+CHI,2016-09-10,16:00,Deportes Iquique,Universidad de Concepción,0,2,A,0,0,D
+CHI,2016-09-10,19:00,CD Palestino,Santiago Wanderers,0,0,D,0,0,D
+CHI,2016-09-10,21:30,Deportes Temuco,San Luis,2,0,H,1,0,H
+CHI,2016-09-11,16:00,O'Higgins,CD Huachipato,2,0,H,2,0,H
+CHI,2016-09-11,19:00,CD Cobresal,Universidad de Chile,2,0,H,1,0,H
+CHI,2016-09-11,21:30,Antofagasta,Colo-Colo,2,2,D,1,0,H
+CHI,2016-09-13,00:30,Audax Italiano,Unión Española,3,1,H,0,0,D
+CHI,2016-09-24,00:00,CD Huachipato,CD Cobresal,4,1,H,1,0,H
+CHI,2016-09-24,16:00,Colo-Colo,Santiago Wanderers,1,1,D,1,0,H
+CHI,2016-09-24,22:00,Everton,Deportes Temuco,1,2,A,1,0,H
+CHI,2016-09-25,00:30,Universidad de Concepción,Antofagasta,1,2,A,0,0,D
+CHI,2016-09-25,16:00,San Luis,Universidad Católica,2,0,H,1,0,H
+CHI,2016-09-25,19:30,O'Higgins,Audax Italiano,1,2,A,0,0,D
+CHI,2016-09-25,22:00,Universidad de Chile,CD Palestino,1,0,H,1,0,H
+CHI,2016-09-26,00:30,Unión Española,Deportes Iquique,3,1,H,1,1,D
+CHI,2016-10-01,16:00,Antofagasta,San Luis,1,0,H,1,0,H
+CHI,2016-10-01,19:00,CD Cobresal,O'Higgins,2,1,H,0,1,A
+CHI,2016-10-01,22:00,Universidad Católica,CD Huachipato,2,1,H,1,1,D
+CHI,2016-10-02,16:00,Colo-Colo,Universidad de Chile,2,0,H,1,0,H
+CHI,2016-10-02,19:00,Deportes Iquique,CD Palestino,2,2,D,1,1,D
+CHI,2016-10-02,21:30,Deportes Temuco,Unión Española,1,2,A,0,0,D
+CHI,2016-10-03,00:00,Audax Italiano,Everton,0,3,A,0,2,A
+CHI,2016-10-15,00:00,San Luis,CD Cobresal,1,0,H,0,0,D
+CHI,2016-10-15,16:00,CD Palestino,Antofagasta,5,1,H,2,1,H
+CHI,2016-10-15,18:30,Santiago Wanderers,Everton,0,1,A,0,0,D
+CHI,2016-10-15,21:00,CD Huachipato,Deportes Iquique,1,2,A,0,1,A
+CHI,2016-10-15,23:30,Unión Española,Universidad Católica,3,4,A,2,0,H
+CHI,2016-10-16,02:00,Audax Italiano,Deportes Temuco,1,1,D,0,0,D
+CHI,2016-10-16,19:30,Universidad de Concepción,Colo-Colo,0,2,A,0,2,A
+CHI,2016-10-16,22:00,Universidad de Chile,O'Higgins,0,0,D,0,0,D
+CHI,2016-10-29,16:00,Deportes Iquique,Santiago Wanderers,3,0,H,0,0,D
+CHI,2016-10-29,19:30,CD Cobresal,Unión Española,0,2,A,0,1,A
+CHI,2016-10-29,22:00,Universidad Católica,Audax Italiano,4,1,H,1,0,H
+CHI,2016-10-30,15:00,Everton,Universidad de Chile,2,2,D,2,1,H
+CHI,2016-10-30,18:30,Antofagasta,CD Huachipato,3,0,H,1,0,H
+CHI,2016-10-30,21:00,Colo-Colo,San Luis,3,3,D,0,3,A
+CHI,2016-10-30,23:30,Deportes Temuco,Universidad de Concepción,1,0,H,0,0,D
+CHI,2016-10-31,18:30,O'Higgins,CD Palestino,3,2,H,0,1,A
+CHI,2016-11-05,15:00,Santiago Wanderers,Unión Española,0,2,A,0,0,D
+CHI,2016-11-05,18:30,CD Cobresal,Audax Italiano,1,1,D,1,1,D
+CHI,2016-11-05,21:00,O'Higgins,Antofagasta,3,1,H,0,1,A
+CHI,2016-11-05,23:30,Universidad de Chile,Deportes Iquique,2,2,D,0,0,D
+CHI,2016-11-06,15:00,Universidad Católica,Colo-Colo,2,2,D,0,1,A
+CHI,2016-11-06,18:30,CD Palestino,Deportes Temuco,2,0,H,1,0,H
+CHI,2016-11-06,21:00,San Luis,Universidad de Concepción,2,0,H,1,0,H
+CHI,2016-11-06,23:30,CD Huachipato,Everton,2,2,D,1,1,D
+CHI,2016-11-13,20:00,Santiago Wanderers,Universidad de Concepción,2,0,H,0,0,D
+CHI,2016-11-18,23:00,Colo-Colo,CD Cobresal,3,0,H,1,0,H
+CHI,2016-11-19,15:00,Deportes Iquique,San Luis,3,1,H,1,1,D
+CHI,2016-11-19,18:30,Everton,O'Higgins,2,2,D,2,1,H
+CHI,2016-11-19,21:00,Unión Española,Universidad de Chile,2,3,A,2,1,H
+CHI,2016-11-19,23:30,Universidad de Concepción,CD Huachipato,2,2,D,2,2,D
+CHI,2016-11-20,15:00,Deportes Temuco,Santiago Wanderers,2,3,A,1,1,D
+CHI,2016-11-20,18:30,Antofagasta,Universidad Católica,1,5,A,1,2,A
+CHI,2016-11-20,21:00,Audax Italiano,CD Palestino,2,1,H,1,1,D
+CHI,2016-11-25,23:00,CD Huachipato,Deportes Temuco,1,0,H,1,0,H
+CHI,2016-11-26,18:00,Everton,CD Cobresal,2,1,H,2,0,H
+CHI,2016-11-26,20:30,O'Higgins,Colo-Colo,1,0,H,1,0,H
+CHI,2016-11-26,23:00,Universidad Católica,Universidad de Concepción,2,0,H,1,0,H
+CHI,2016-11-27,18:00,Antofagasta,Deportes Iquique,0,0,D,0,0,D
+CHI,2016-11-27,20:30,San Luis,Santiago Wanderers,2,1,H,0,1,A
+CHI,2016-11-27,23:00,Universidad de Chile,Audax Italiano,2,2,D,1,1,D
+CHI,2016-11-28,20:00,CD Palestino,Unión Española,2,0,H,0,0,D
+CHI,2016-12-01,22:00,Santiago Wanderers,CD Huachipato,0,2,A,0,1,A
+CHI,2016-12-03,18:30,CD Cobresal,CD Palestino,0,2,A,0,1,A
+CHI,2016-12-04,15:00,Deportes Temuco,Universidad de Chile,0,3,A,0,2,A
+CHI,2016-12-04,20:00,Deportes Iquique,Universidad Católica,2,6,A,2,2,D
+CHI,2016-12-04,20:00,Unión Española,Antofagasta,2,1,H,1,1,D
+CHI,2016-12-04,20:00,Universidad de Concepción,O'Higgins,3,1,H,1,0,H
+CHI,2016-12-04,23:00,Colo-Colo,Everton,4,2,H,3,2,H
+CHI,2016-12-04,23:00,Audax Italiano,San Luis,1,2,A,0,2,A
+CHI,2016-12-08,18:00,CD Palestino,Colo-Colo,1,2,A,0,2,A
+CHI,2016-12-08,21:00,Deportes Temuco,Universidad Católica,0,2,A,0,0,D
+CHI,2016-12-08,21:00,Audax Italiano,Deportes Iquique,1,2,A,1,1,D
+CHI,2016-12-08,21:00,Unión Española,San Luis,1,0,H,1,0,H
+CHI,2016-12-08,21:00,O'Higgins,Santiago Wanderers,4,0,H,1,0,H
+CHI,2016-12-09,18:30,CD Cobresal,Universidad de Concepción,2,0,H,0,0,D
+CHI,2016-12-09,23:00,Universidad de Chile,CD Huachipato,2,2,D,1,1,D
+CHI,2016-12-10,22:30,Everton,Antofagasta,0,3,A,0,2,A

@@ -1,0 +1,91 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IND,2017-01-07,11:00,East Bengal FC,Aizawl FC,1,1,D,0,1,A
+IND,2017-01-07,13:30,Bengaluru FC,Shillong Lajong FC,3,0,H,1,0,H
+IND,2017-01-08,11:00,Chennai City FC,Minerva Punjab FC,0,0,D,0,0,D
+IND,2017-01-08,13:30,Mumbai FC,DSK Shivajians,1,0,H,1,0,H
+IND,2017-01-08,13:30,Mohun Bagan,Churchill Brothers,1,0,H,1,0,H
+IND,2017-01-13,08:00,Aizawl FC,Minerva Punjab FC,1,0,H,0,0,D
+IND,2017-01-13,13:30,Mohun Bagan,Shillong Lajong FC,2,0,H,1,0,H
+IND,2017-01-14,13:30,DSK Shivajians,East Bengal FC,1,2,A,0,1,A
+IND,2017-01-14,13:30,Bengaluru FC,Chennai City FC,2,0,H,0,0,D
+IND,2017-01-15,11:00,Churchill Brothers,Mumbai FC,1,2,A,1,1,D
+IND,2017-01-17,08:00,Aizawl FC,Shillong Lajong FC,2,1,H,1,0,H
+IND,2017-01-17,11:00,Mohun Bagan,Minerva Punjab FC,4,0,H,3,0,H
+IND,2017-01-17,13:30,DSK Shivajians,Chennai City FC,2,0,H,1,0,H
+IND,2017-01-18,11:00,Churchill Brothers,East Bengal FC,0,2,A,0,2,A
+IND,2017-01-18,13:30,Bengaluru FC,Mumbai FC,3,0,H,1,0,H
+IND,2017-01-21,11:00,Shillong Lajong FC,Minerva Punjab FC,2,1,H,2,0,H
+IND,2017-01-21,11:05,DSK Shivajians,Churchill Brothers,1,1,D,1,0,H
+IND,2017-01-21,13:35,Chennai City FC,Mohun Bagan,1,2,A,0,0,D
+IND,2017-01-22,11:05,East Bengal FC,Bengaluru FC,2,1,H,1,1,D
+IND,2017-01-22,13:30,Mumbai FC,Aizawl FC,0,1,A,0,0,D
+IND,2017-01-24,13:30,DSK Shivajians,Mohun Bagan,0,0,D,0,0,D
+IND,2017-01-27,13:30,Churchill Brothers,Bengaluru FC,2,1,H,1,1,D
+IND,2017-01-28,11:00,Shillong Lajong FC,Mumbai FC,3,1,H,2,0,H
+IND,2017-01-28,13:30,Chennai City FC,Aizawl FC,2,0,H,0,0,D
+IND,2017-01-29,11:00,Minerva Punjab FC,East Bengal FC,0,5,A,0,2,A
+IND,2017-01-31,11:05,Shillong Lajong FC,Chennai City FC,2,0,H,1,0,H
+IND,2017-02-01,08:35,Aizawl FC,DSK Shivajians,1,0,H,0,0,D
+IND,2017-02-01,11:05,Minerva Punjab FC,Churchill Brothers,0,0,D,0,0,D
+IND,2017-02-01,13:35,East Bengal FC,Mumbai FC,2,0,H,2,0,H
+IND,2017-02-04,11:05,Minerva Punjab FC,Mumbai FC,2,1,H,0,0,D
+IND,2017-02-04,13:35,Mohun Bagan,Aizawl FC,3,2,H,1,1,D
+IND,2017-02-05,11:05,Shillong Lajong FC,Churchill Brothers,1,0,H,0,0,D
+IND,2017-02-05,13:35,DSK Shivajians,Bengaluru FC,2,2,D,1,0,H
+IND,2017-02-05,13:35,East Bengal FC,Chennai City FC,3,0,H,0,0,D
+IND,2017-02-10,08:30,Aizawl FC,Churchill Brothers,3,1,H,0,1,A
+IND,2017-02-11,11:00,Shillong Lajong FC,DSK Shivajians,1,2,A,1,2,A
+IND,2017-02-11,13:30,Chennai City FC,Mumbai FC,2,1,H,1,1,D
+IND,2017-02-11,13:30,Bengaluru FC,Minerva Punjab FC,1,1,D,0,0,D
+IND,2017-02-12,11:00,East Bengal FC,Mohun Bagan,0,0,D,0,0,D
+IND,2017-02-14,13:35,Chennai City FC,Churchill Brothers,1,1,D,0,0,D
+IND,2017-02-15,08:35,Aizawl FC,Bengaluru FC,1,1,D,1,1,D
+IND,2017-02-15,11:05,East Bengal FC,Shillong Lajong FC,1,1,D,1,1,D
+IND,2017-02-15,11:05,Minerva Punjab FC,DSK Shivajians,0,0,D,0,0,D
+IND,2017-02-15,13:35,Mumbai FC,Mohun Bagan,0,0,D,0,0,D
+IND,2017-02-18,11:05,Mohun Bagan,DSK Shivajians,3,1,H,2,1,H
+IND,2017-02-18,13:30,Mumbai FC,Bengaluru FC,0,0,D,0,0,D
+IND,2017-02-19,11:05,Churchill Brothers,Minerva Punjab FC,4,5,A,3,3,D
+IND,2017-02-19,13:35,Chennai City FC,Shillong Lajong FC,1,4,A,0,1,A
+IND,2017-02-20,08:35,Aizawl FC,East Bengal FC,1,0,H,0,0,D
+IND,2017-02-25,08:30,Aizawl FC,Chennai City FC,1,0,H,0,0,D
+IND,2017-02-25,13:35,Bengaluru FC,East Bengal FC,1,3,A,0,1,A
+IND,2017-02-26,11:00,Churchill Brothers,DSK Shivajians,3,0,H,0,0,D
+IND,2017-02-26,13:30,Mumbai FC,Minerva Punjab FC,0,0,D,0,0,D
+IND,2017-03-04,08:30,Aizawl FC,Mumbai FC,2,0,H,0,0,D
+IND,2017-03-04,11:05,Shillong Lajong FC,East Bengal FC,1,2,A,0,2,A
+IND,2017-03-04,13:30,Churchill Brothers,Mohun Bagan,2,1,H,0,1,A
+IND,2017-03-05,11:05,Minerva Punjab FC,Bengaluru FC,0,1,A,0,1,A
+IND,2017-03-05,13:30,Chennai City FC,DSK Shivajians,1,1,D,1,0,H
+IND,2017-03-07,11:00,East Bengal FC,Churchill Brothers,1,2,A,0,2,A
+IND,2017-03-07,13:30,Minerva Punjab FC,Shillong Lajong FC,1,2,A,1,2,A
+IND,2017-03-07,13:35,DSK Shivajians,Aizawl FC,0,1,A,0,0,D
+IND,2017-03-08,11:00,Mohun Bagan,Mumbai FC,2,2,D,1,2,A
+IND,2017-03-08,13:30,Chennai City FC,Bengaluru FC,1,1,D,0,0,D
+IND,2017-03-11,11:05,Minerva Punjab FC,Aizawl FC,2,2,D,0,1,A
+IND,2017-03-11,11:05,DSK Shivajians,Mumbai FC,5,0,H,2,0,H
+IND,2017-03-11,13:30,Bengaluru FC,Mohun Bagan,0,0,D,0,0,D
+IND,2017-03-12,11:05,Churchill Brothers,Shillong Lajong FC,0,0,D,0,0,D
+IND,2017-03-12,13:35,Chennai City FC,East Bengal FC,2,1,H,0,1,A
+IND,2017-04-01,14:35,Mohun Bagan,Bengaluru FC,3,0,H,2,0,H
+IND,2017-04-08,12:05,Minerva Punjab FC,Chennai City FC,0,2,A,0,1,A
+IND,2017-04-08,14:35,DSK Shivajians,Shillong Lajong FC,2,3,A,0,1,A
+IND,2017-04-08,14:35,Mumbai FC,Churchill Brothers,0,0,D,0,0,D
+IND,2017-04-09,12:05,Bengaluru FC,Aizawl FC,1,0,H,0,0,D
+IND,2017-04-09,14:35,Mohun Bagan,East Bengal FC,2,1,H,2,0,H
+IND,2017-04-12,12:00,Shillong Lajong FC,Mohun Bagan,1,1,D,0,0,D
+IND,2017-04-15,09:30,Shillong Lajong FC,Bengaluru FC,0,2,A,0,1,A
+IND,2017-04-15,12:05,Churchill Brothers,Aizawl FC,1,3,A,0,1,A
+IND,2017-04-15,14:35,Minerva Punjab FC,Mohun Bagan,0,1,A,0,0,D
+IND,2017-04-16,12:05,East Bengal FC,DSK Shivajians,0,1,A,0,1,A
+IND,2017-04-16,14:35,Mumbai FC,Chennai City FC,0,0,D,0,0,D
+IND,2017-04-22,09:35,Aizawl FC,Mohun Bagan,1,0,H,0,0,D
+IND,2017-04-22,12:05,Churchill Brothers,Chennai City FC,6,1,H,1,0,H
+IND,2017-04-22,14:35,Bengaluru FC,DSK Shivajians,7,0,H,4,0,H
+IND,2017-04-23,12:00,East Bengal FC,Minerva Punjab FC,3,1,H,1,0,H
+IND,2017-04-23,14:35,Mumbai FC,Shillong Lajong FC,1,1,D,1,0,H
+IND,2017-04-29,14:35,Bengaluru FC,Churchill Brothers,3,0,H,2,0,H
+IND,2017-04-29,14:35,Mumbai FC,East Bengal FC,0,4,A,0,2,A
+IND,2017-04-30,12:05,DSK Shivajians,Minerva Punjab FC,4,4,D,3,0,H
+IND,2017-04-30,14:35,Shillong Lajong FC,Aizawl FC,1,1,D,1,0,H
+IND,2017-04-30,14:35,Mohun Bagan,Chennai City FC,2,1,H,1,1,D

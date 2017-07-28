@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2002-09-14,14:00,Inter,Torino FC,1,0,H,1,0,H
+ITA,2002-09-14,14:00,Bologna FC,AS Roma,2,1,H,0,1,A
+ITA,2002-09-14,17:00,Calcio Como,Empoli FC,0,2,A,0,1,A
+ITA,2002-09-14,19:30,Modena FC,AC Milan,0,3,A,0,1,A
+ITA,2002-09-15,14:00,Lazio Roma,Chievo Verona,2,3,A,1,1,D
+ITA,2002-09-15,14:00,Udinese Calcio,Parma AC,1,1,D,0,1,A
+ITA,2002-09-15,14:00,Juventus,Atalanta,3,0,H,2,0,H
+ITA,2002-09-15,17:00,AC Perugia,Reggina Calcio,2,0,H,0,0,D
+ITA,2002-09-15,19:30,Brescia Calcio,Piacenza Calcio,1,2,A,0,0,D
+ITA,2002-09-21,17:00,AC Milan,AC Perugia,3,0,H,1,0,H
+ITA,2002-09-21,19:30,Empoli FC,Juventus,0,2,A,0,1,A
+ITA,2002-09-22,14:00,Parma AC,Calcio Como,2,0,H,1,0,H
+ITA,2002-09-22,14:00,Chievo Verona,Brescia Calcio,1,2,A,0,0,D
+ITA,2002-09-22,14:00,Piacenza Calcio,Udinese Calcio,2,0,H,1,0,H
+ITA,2002-09-22,14:00,Atalanta,Bologna FC,2,2,D,1,1,D
+ITA,2002-09-22,14:00,Torino FC,Lazio Roma,0,1,A,0,0,D
+ITA,2002-09-22,14:00,Reggina Calcio,Inter,1,2,A,0,1,A
+ITA,2002-09-22,19:30,AS Roma,Modena FC,1,2,A,1,1,D
+ITA,2002-09-28,17:00,Juventus,Parma AC,2,2,D,0,0,D
+ITA,2002-09-28,19:30,Lazio Roma,AC Milan,1,1,D,0,1,A
+ITA,2002-09-29,14:00,Modena FC,Torino FC,2,1,H,1,0,H
+ITA,2002-09-29,14:00,Calcio Como,Reggina Calcio,1,1,D,1,0,H
+ITA,2002-09-29,14:00,Brescia Calcio,AS Roma,2,3,A,1,2,A
+ITA,2002-09-29,14:00,Udinese Calcio,Atalanta,1,0,H,0,0,D
+ITA,2002-09-29,14:00,AC Perugia,Empoli FC,1,3,A,1,2,A
+ITA,2002-09-29,14:00,Bologna FC,Piacenza Calcio,1,0,H,0,0,D
+ITA,2002-09-29,19:30,Inter,Chievo Verona,2,1,H,1,1,D
+ITA,2002-10-05,17:00,Reggina Calcio,Brescia Calcio,2,2,D,1,1,D
+ITA,2002-10-05,19:30,AS Roma,Udinese Calcio,4,1,H,1,0,H
+ITA,2002-10-06,14:00,AC Milan,Torino FC,6,0,H,3,0,H
+ITA,2002-10-06,14:00,Juventus,Calcio Como,1,1,D,0,0,D
+ITA,2002-10-06,14:00,Chievo Verona,Modena FC,2,0,H,1,0,H
+ITA,2002-10-06,14:00,Parma AC,AC Perugia,2,2,D,1,0,H
+ITA,2002-10-06,14:00,Empoli FC,Bologna FC,0,0,D,0,0,D
+ITA,2002-10-06,14:00,Piacenza Calcio,Inter,1,4,A,0,1,A
+ITA,2002-10-06,19:30,Atalanta,Lazio Roma,0,1,A,0,1,A
+ITA,2002-10-19,17:00,Empoli FC,AS Roma,1,3,A,0,2,A
+ITA,2002-10-19,19:30,Inter,Juventus,1,1,D,0,0,D
+ITA,2002-10-20,14:00,Lazio Roma,AC Perugia,3,0,H,1,0,H
+ITA,2002-10-20,14:00,Udinese Calcio,Reggina Calcio,1,0,H,0,0,D
+ITA,2002-10-20,14:00,Torino FC,Chievo Verona,1,0,H,1,0,H
+ITA,2002-10-20,14:00,Atalanta,AC Milan,1,4,A,1,2,A
+ITA,2002-10-20,14:00,Bologna FC,Brescia Calcio,3,0,H,1,0,H
+ITA,2002-10-20,14:00,Calcio Como,Piacenza Calcio,1,1,D,1,1,D
+ITA,2002-10-20,19:30,Modena FC,Parma AC,2,1,H,0,1,A
+ITA,2002-10-26,17:00,Chievo Verona,AC Milan,3,2,H,1,0,H
+ITA,2002-10-26,19:30,Juventus,Udinese Calcio,1,0,H,0,0,D
+ITA,2002-10-27,14:00,Reggina Calcio,Torino FC,2,1,H,0,0,D
+ITA,2002-10-27,14:00,Brescia Calcio,Calcio Como,1,1,D,0,0,D
+ITA,2002-10-27,14:00,AC Perugia,Modena FC,2,0,H,2,0,H
+ITA,2002-10-27,14:00,Parma AC,Atalanta,2,1,H,1,0,H
+ITA,2002-10-27,14:00,Inter,Bologna FC,2,0,H,0,0,D
+ITA,2002-10-27,14:00,Piacenza Calcio,Empoli FC,1,2,A,1,1,D
+ITA,2002-10-27,19:30,Lazio Roma,AS Roma,2,2,D,0,0,D
+ITA,2002-11-02,17:00,Udinese Calcio,Bologna FC,0,0,D,0,0,D
+ITA,2002-11-02,19:30,Torino FC,Brescia Calcio,0,2,A,0,1,A
+ITA,2002-11-03,14:00,AS Roma,AC Perugia,2,2,D,0,2,A
+ITA,2002-11-03,14:00,AC Milan,Reggina Calcio,2,0,H,1,0,H
+ITA,2002-11-03,14:00,Modena FC,Juventus,0,1,A,0,0,D
+ITA,2002-11-03,14:00,Atalanta,Piacenza Calcio,2,0,H,0,0,D
+ITA,2002-11-03,14:00,Empoli FC,Lazio Roma,1,2,A,1,1,D
+ITA,2002-11-03,14:00,Calcio Como,Inter,0,2,A,0,0,D
+ITA,2002-11-03,19:30,Parma AC,Chievo Verona,0,1,A,0,0,D
+ITA,2002-11-06,19:30,Chievo Verona,AC Perugia,3,0,H,2,0,H
+ITA,2002-11-06,19:30,Piacenza Calcio,Juventus,0,1,A,0,0,D
+ITA,2002-11-06,19:30,Parma AC,Brescia Calcio,4,3,H,2,2,D
+ITA,2002-11-06,19:30,AC Milan,Udinese Calcio,1,0,H,0,0,D
+ITA,2002-11-06,19:30,Torino FC,Bologna FC,2,1,H,1,1,D
+ITA,2002-11-06,19:30,Reggina Calcio,Lazio Roma,0,3,A,0,2,A
+ITA,2002-11-06,19:30,AS Roma,Calcio Como,2,1,H,1,0,H
+ITA,2002-11-06,19:30,Atalanta,Modena FC,1,3,A,0,2,A
+ITA,2002-11-06,19:30,Empoli FC,Inter,3,4,A,1,2,A
+ITA,2002-11-09,17:00,Inter,Udinese Calcio,1,2,A,1,1,D
+ITA,2002-11-09,19:30,Piacenza Calcio,AS Roma,1,1,D,0,1,A
+ITA,2002-11-10,14:00,AC Perugia,Torino FC,2,1,H,1,0,H
+ITA,2002-11-10,14:00,Bologna FC,Calcio Como,1,0,H,0,0,D
+ITA,2002-11-10,14:00,Reggina Calcio,Modena FC,0,1,A,0,0,D
+ITA,2002-11-10,14:00,Chievo Verona,Atalanta,4,1,H,1,1,D
+ITA,2002-11-10,14:00,Brescia Calcio,Empoli FC,0,2,A,0,0,D
+ITA,2002-11-10,14:00,Lazio Roma,Parma AC,0,0,D,0,0,D
+ITA,2002-11-10,19:30,Juventus,AC Milan,2,1,H,2,1,H
+ITA,2002-11-16,17:00,Bologna FC,AC Perugia,2,1,H,2,1,H
+ITA,2002-11-16,19:30,AS Roma,Inter,2,2,D,0,0,D
+ITA,2002-11-17,14:00,Empoli FC,Reggina Calcio,4,2,H,2,1,H
+ITA,2002-11-17,14:00,Udinese Calcio,Chievo Verona,2,1,H,2,0,H
+ITA,2002-11-17,14:00,Atalanta,Brescia Calcio,2,0,H,0,0,D
+ITA,2002-11-17,14:00,Modena FC,Piacenza Calcio,1,0,H,1,0,H
+ITA,2002-11-17,14:00,AC Milan,Parma AC,2,1,H,0,0,D
+ITA,2002-11-17,14:00,Calcio Como,Lazio Roma,1,3,A,1,1,D
+ITA,2002-11-17,19:30,Torino FC,Juventus,0,4,A,0,2,A
+ITA,2002-11-23,17:00,Juventus,Bologna FC,1,1,D,0,0,D
+ITA,2002-11-23,19:30,AC Milan,Inter,1,0,H,1,0,H
+ITA,2002-11-24,14:00,Piacenza Calcio,Torino FC,1,0,H,1,0,H
+ITA,2002-11-24,14:00,AC Perugia,Calcio Como,3,0,H,1,0,H
+ITA,2002-11-24,14:00,Parma AC,AS Roma,3,0,H,2,0,H
+ITA,2002-11-24,14:00,Brescia Calcio,Udinese Calcio,1,1,D,0,1,A
+ITA,2002-11-24,14:00,Reggina Calcio,Atalanta,1,1,D,0,1,A
+ITA,2002-11-24,14:00,Chievo Verona,Empoli FC,1,0,H,1,0,H
+ITA,2002-11-24,19:30,Lazio Roma,Modena FC,4,0,H,2,0,H
+ITA,2002-11-30,19:30,Reggina Calcio,Chievo Verona,1,1,D,1,0,H
+ITA,2002-12-01,14:00,Atalanta,AC Perugia,0,2,A,0,1,A
+ITA,2002-12-01,14:00,Bologna FC,Modena FC,3,0,H,0,0,D
+ITA,2002-12-01,14:00,Torino FC,Parma AC,0,4,A,0,2,A
+ITA,2002-12-01,14:00,Empoli FC,AC Milan,1,1,D,1,0,H
+ITA,2002-12-01,14:00,Piacenza Calcio,Lazio Roma,2,3,A,2,2,D
+ITA,2002-12-01,14:00,Inter,Brescia Calcio,4,0,H,2,0,H
+ITA,2002-12-01,19:30,AS Roma,Juventus,2,2,D,2,1,H
+ITA,2002-12-07,19:45,AC Milan,AS Roma,1,0,H,0,0,D
+ITA,2002-12-07,19:45,Lazio Roma,Inter,3,3,D,3,1,H
+ITA,2002-12-08,14:15,Parma AC,Reggina Calcio,2,0,H,0,0,D
+ITA,2002-12-08,14:15,Modena FC,Calcio Como,1,1,D,0,0,D
+ITA,2002-12-08,14:15,Brescia Calcio,Juventus,2,0,H,0,0,D
+ITA,2002-12-08,14:15,AC Perugia,Piacenza Calcio,0,0,D,0,0,D
+ITA,2002-12-08,14:15,Udinese Calcio,Empoli FC,2,1,H,1,1,D
+ITA,2002-12-08,19:45,Chievo Verona,Bologna FC,0,0,D,0,0,D
+ITA,2002-12-14,17:00,Piacenza Calcio,Chievo Verona,0,3,A,0,0,D
+ITA,2002-12-14,19:30,Bologna FC,Parma AC,2,1,H,2,1,H
+ITA,2002-12-15,14:00,AS Roma,Reggina Calcio,3,0,H,2,0,H
+ITA,2002-12-15,14:00,Empoli FC,Modena FC,1,0,H,0,0,D
+ITA,2002-12-15,14:00,Calcio Como,AC Milan,1,2,A,1,2,A
+ITA,2002-12-15,14:00,Brescia Calcio,AC Perugia,3,1,H,2,0,H
+ITA,2002-12-15,14:00,Udinese Calcio,Torino FC,1,1,D,0,0,D
+ITA,2002-12-15,14:00,Inter,Atalanta,1,0,H,0,0,D
+ITA,2002-12-15,19:30,Juventus,Lazio Roma,1,2,A,1,1,D
+ITA,2002-12-18,,Calcio Como,Udinese Calcio,0,2,A,0,2,A
+ITA,2002-12-21,17:00,Modena FC,Udinese Calcio,0,1,A,0,1,A
+ITA,2002-12-21,19:30,Torino FC,AS Roma,0,1,A,0,0,D
+ITA,2002-12-22,14:00,Chievo Verona,Calcio Como,2,0,H,0,0,D
+ITA,2002-12-22,14:00,AC Perugia,Juventus,0,1,A,0,0,D
+ITA,2002-12-22,14:00,AC Milan,Brescia Calcio,0,0,D,0,0,D
+ITA,2002-12-22,14:00,Reggina Calcio,Piacenza Calcio,3,1,H,0,1,A
+ITA,2002-12-22,14:00,Lazio Roma,Bologna FC,1,1,D,1,0,H
+ITA,2002-12-22,14:00,Atalanta,Empoli FC,2,2,D,2,0,H
+ITA,2002-12-22,19:30,Parma AC,Inter,1,2,A,0,1,A
+ITA,2003-01-06,14:00,Torino FC,Atalanta,1,1,D,0,1,A
+ITA,2003-01-11,17:00,Empoli FC,Torino FC,1,1,D,0,0,D
+ITA,2003-01-11,19:30,Brescia Calcio,Lazio Roma,0,0,D,0,0,D
+ITA,2003-01-12,14:00,Juventus,Reggina Calcio,5,0,H,2,0,H
+ITA,2003-01-12,14:00,AS Roma,Chievo Verona,0,1,A,0,0,D
+ITA,2003-01-12,14:00,Bologna FC,AC Milan,0,2,A,0,0,D
+ITA,2003-01-12,14:00,Udinese Calcio,AC Perugia,0,0,D,0,0,D
+ITA,2003-01-12,14:00,Calcio Como,Atalanta,1,1,D,1,0,H
+ITA,2003-01-12,14:00,Piacenza Calcio,Parma AC,1,1,D,0,1,A
+ITA,2003-01-12,19:30,Inter,Modena FC,2,0,H,2,0,H
+ITA,2003-01-18,17:00,Parma AC,Empoli FC,2,0,H,1,0,H
+ITA,2003-01-18,19:30,Reggina Calcio,Bologna FC,1,0,H,1,0,H
+ITA,2003-01-19,14:00,Atalanta,AS Roma,2,1,H,1,1,D
+ITA,2003-01-19,14:00,Lazio Roma,Udinese Calcio,2,1,H,2,1,H
+ITA,2003-01-19,14:00,Torino FC,Calcio Como,0,0,D,0,0,D
+ITA,2003-01-19,14:00,Modena FC,Brescia Calcio,0,0,D,0,0,D
+ITA,2003-01-19,14:00,AC Milan,Piacenza Calcio,2,1,H,0,0,D
+ITA,2003-01-19,14:00,AC Perugia,Inter,4,1,H,2,0,H
+ITA,2003-01-19,19:30,Chievo Verona,Juventus,1,4,A,0,2,A
+ITA,2003-01-25,17:00,Modena FC,Atalanta,0,2,A,0,1,A
+ITA,2003-01-25,19:30,Calcio Como,AS Roma,2,0,H,0,0,D
+ITA,2003-01-26,14:00,AC Perugia,Chievo Verona,1,0,H,1,0,H
+ITA,2003-01-26,14:00,Juventus,Piacenza Calcio,2,0,H,2,0,H
+ITA,2003-01-26,14:00,Brescia Calcio,Parma AC,1,1,D,1,1,D
+ITA,2003-01-26,14:00,Bologna FC,Torino FC,2,2,D,1,1,D
+ITA,2003-01-26,14:00,Lazio Roma,Reggina Calcio,0,1,A,0,1,A
+ITA,2003-01-26,14:00,Inter,Empoli FC,3,0,H,0,0,D
+ITA,2003-01-26,19:30,Udinese Calcio,AC Milan,1,0,H,1,0,H
+ITA,2003-02-01,17:00,Piacenza Calcio,Brescia Calcio,1,4,A,1,2,A
+ITA,2003-02-01,19:30,AS Roma,Bologna FC,3,1,H,1,1,D
+ITA,2003-02-02,14:00,Reggina Calcio,AC Perugia,3,1,H,2,1,H
+ITA,2003-02-02,14:00,Chievo Verona,Lazio Roma,1,1,D,1,0,H
+ITA,2003-02-02,14:00,Parma AC,Udinese Calcio,3,2,H,1,0,H
+ITA,2003-02-02,14:00,AC Milan,Modena FC,2,1,H,0,0,D
+ITA,2003-02-02,14:00,Atalanta,Juventus,1,1,D,1,0,H
+ITA,2003-02-02,14:00,Empoli FC,Calcio Como,0,0,D,0,0,D
+ITA,2003-02-02,19:30,Torino FC,Inter,0,2,A,0,0,D
+ITA,2003-02-08,17:00,Udinese Calcio,Piacenza Calcio,2,1,H,1,0,H
+ITA,2003-02-08,19:30,Juventus,Empoli FC,1,0,H,1,0,H
+ITA,2003-02-09,14:00,AC Perugia,AC Milan,1,0,H,1,0,H
+ITA,2003-02-09,14:00,Calcio Como,Parma AC,2,2,D,0,1,A
+ITA,2003-02-09,14:00,Modena FC,AS Roma,1,1,D,1,0,H
+ITA,2003-02-09,14:00,Brescia Calcio,Chievo Verona,0,0,D,0,0,D
+ITA,2003-02-09,14:00,Lazio Roma,Torino FC,1,1,D,1,0,H
+ITA,2003-02-09,14:00,Inter,Reggina Calcio,3,0,H,3,0,H
+ITA,2003-02-09,19:30,Bologna FC,Atalanta,2,3,A,0,1,A
+ITA,2003-02-15,17:00,Chievo Verona,Inter,2,1,H,2,0,H
+ITA,2003-02-15,19:30,AS Roma,Brescia Calcio,0,0,D,0,0,D
+ITA,2003-02-16,14:00,Torino FC,Modena FC,1,1,D,0,0,D
+ITA,2003-02-16,14:00,Reggina Calcio,Calcio Como,4,1,H,2,1,H
+ITA,2003-02-16,14:00,Parma AC,Juventus,1,2,A,0,2,A
+ITA,2003-02-16,14:00,Atalanta,Udinese Calcio,0,0,D,0,0,D
+ITA,2003-02-16,14:00,Empoli FC,AC Perugia,1,1,D,1,1,D
+ITA,2003-02-16,14:00,Piacenza Calcio,Bologna FC,3,1,H,2,0,H
+ITA,2003-02-16,19:30,AC Milan,Lazio Roma,2,2,D,0,2,A
+ITA,2003-02-22,17:00,Calcio Como,Juventus,1,3,A,0,3,A
+ITA,2003-02-22,19:30,Torino FC,AC Milan,0,3,A,0,2,A
+ITA,2003-02-23,14:00,Modena FC,Chievo Verona,1,0,H,0,0,D
+ITA,2003-02-23,14:00,Brescia Calcio,Reggina Calcio,2,1,H,0,0,D
+ITA,2003-02-23,14:00,Udinese Calcio,AS Roma,2,1,H,1,0,H
+ITA,2003-02-23,14:00,Bologna FC,Empoli FC,2,0,H,1,0,H
+ITA,2003-02-23,14:00,Lazio Roma,Atalanta,0,0,D,0,0,D
+ITA,2003-02-23,14:00,Inter,Piacenza Calcio,3,1,H,0,0,D
+ITA,2003-02-23,19:30,AC Perugia,Parma AC,1,2,A,0,1,A
+ITA,2003-03-01,17:00,Brescia Calcio,Bologna FC,0,0,D,0,0,D
+ITA,2003-03-01,19:30,Parma AC,Modena FC,1,1,D,1,1,D
+ITA,2003-03-02,14:00,AC Perugia,Lazio Roma,2,2,D,2,1,H
+ITA,2003-03-02,14:00,Reggina Calcio,Udinese Calcio,3,2,H,2,2,D
+ITA,2003-03-02,14:00,Chievo Verona,Torino FC,3,2,H,1,2,A
+ITA,2003-03-02,14:00,AS Roma,Empoli FC,3,1,H,1,1,D
+ITA,2003-03-02,14:00,AC Milan,Atalanta,3,3,D,1,3,A
+ITA,2003-03-02,14:00,Piacenza Calcio,Calcio Como,0,1,A,0,1,A
+ITA,2003-03-02,19:30,Juventus,Inter,3,0,H,2,0,H
+ITA,2003-03-08,17:00,Bologna FC,Inter,1,2,A,1,1,D
+ITA,2003-03-08,19:30,AS Roma,Lazio Roma,1,1,D,0,1,A
+ITA,2003-03-09,14:00,Torino FC,Reggina Calcio,1,0,H,1,0,H
+ITA,2003-03-09,14:00,Calcio Como,Brescia Calcio,1,1,D,0,0,D
+ITA,2003-03-09,14:00,Modena FC,AC Perugia,1,1,D,1,1,D
+ITA,2003-03-09,14:00,Udinese Calcio,Juventus,0,1,A,0,0,D
+ITA,2003-03-09,14:00,Atalanta,Parma AC,0,0,D,0,0,D
+ITA,2003-03-09,14:00,Empoli FC,Piacenza Calcio,3,1,H,0,0,D
+ITA,2003-03-09,19:30,AC Milan,Chievo Verona,0,0,D,0,0,D
+ITA,2003-03-15,17:00,Reggina Calcio,AC Milan,0,0,D,0,0,D
+ITA,2003-03-15,19:30,Juventus,Modena FC,3,0,H,0,0,D
+ITA,2003-03-16,14:00,AC Perugia,AS Roma,1,0,H,0,0,D
+ITA,2003-03-16,14:00,Chievo Verona,Parma AC,0,4,A,0,1,A
+ITA,2003-03-16,14:00,Brescia Calcio,Torino FC,1,0,H,0,0,D
+ITA,2003-03-16,14:00,Piacenza Calcio,Atalanta,2,0,H,1,0,H
+ITA,2003-03-16,14:00,Bologna FC,Udinese Calcio,1,0,H,1,0,H
+ITA,2003-03-16,14:00,Inter,Calcio Como,4,0,H,2,0,H
+ITA,2003-03-16,19:30,Lazio Roma,Empoli FC,4,1,H,2,1,H
+ITA,2003-03-22,17:00,Modena FC,Reggina Calcio,2,1,H,0,0,D
+ITA,2003-03-22,19:30,AC Milan,Juventus,2,1,H,2,1,H
+ITA,2003-03-23,14:00,Torino FC,AC Perugia,2,1,H,0,1,A
+ITA,2003-03-23,14:00,Calcio Como,Bologna FC,5,1,H,1,0,H
+ITA,2003-03-23,14:00,AS Roma,Piacenza Calcio,3,0,H,3,0,H
+ITA,2003-03-23,14:00,Atalanta,Chievo Verona,1,0,H,0,0,D
+ITA,2003-03-23,14:00,Empoli FC,Brescia Calcio,0,0,D,0,0,D
+ITA,2003-03-23,14:00,Parma AC,Lazio Roma,2,1,H,1,0,H
+ITA,2003-03-23,19:30,Udinese Calcio,Inter,2,1,H,0,0,D
+ITA,2003-04-05,17:00,Juventus,Torino FC,2,0,H,1,0,H
+ITA,2003-04-05,19:30,Parma AC,AC Milan,1,0,H,0,0,D
+ITA,2003-04-06,14:00,AC Perugia,Bologna FC,1,1,D,1,0,H
+ITA,2003-04-06,14:00,Reggina Calcio,Empoli FC,1,0,H,0,0,D
+ITA,2003-04-06,14:00,Chievo Verona,Udinese Calcio,3,0,H,2,0,H
+ITA,2003-04-06,14:00,Brescia Calcio,Atalanta,3,0,H,2,0,H
+ITA,2003-04-06,14:00,Piacenza Calcio,Modena FC,3,3,D,1,2,A
+ITA,2003-04-06,14:00,Lazio Roma,Calcio Como,3,0,H,2,0,H
+ITA,2003-04-06,19:30,Inter,AS Roma,3,3,D,0,0,D
+ITA,2003-04-12,17:00,Calcio Como,AC Perugia,1,1,D,1,0,H
+ITA,2003-04-12,19:30,Inter,AC Milan,0,1,A,0,0,D
+ITA,2003-04-13,14:00,Torino FC,Piacenza Calcio,1,3,A,0,0,D
+ITA,2003-04-13,14:00,Modena FC,Lazio Roma,0,0,D,0,0,D
+ITA,2003-04-13,14:00,AS Roma,Parma AC,2,1,H,1,1,D
+ITA,2003-04-13,14:00,Udinese Calcio,Brescia Calcio,0,0,D,0,0,D
+ITA,2003-04-13,14:00,Atalanta,Reggina Calcio,1,1,D,1,0,H
+ITA,2003-04-13,14:00,Empoli FC,Chievo Verona,2,1,H,1,1,D
+ITA,2003-04-13,19:30,Bologna FC,Juventus,2,2,D,1,0,H
+ITA,2003-04-19,14:00,AC Perugia,Atalanta,1,0,H,0,0,D
+ITA,2003-04-19,14:00,Chievo Verona,Reggina Calcio,2,1,H,1,1,D
+ITA,2003-04-19,14:00,Modena FC,Bologna FC,3,2,H,1,1,D
+ITA,2003-04-19,14:00,Parma AC,Torino FC,1,0,H,0,0,D
+ITA,2003-04-19,14:00,Udinese Calcio,Calcio Como,3,2,H,1,0,H
+ITA,2003-04-19,14:00,AC Milan,Empoli FC,0,1,A,0,1,A
+ITA,2003-04-19,14:00,Lazio Roma,Piacenza Calcio,2,1,H,0,1,A
+ITA,2003-04-19,14:00,Brescia Calcio,Inter,0,1,A,0,0,D
+ITA,2003-04-19,19:30,Juventus,AS Roma,2,1,H,2,1,H
+ITA,2003-04-26,17:00,Atalanta,Torino FC,2,2,D,0,1,A
+ITA,2003-04-26,19:30,AS Roma,AC Milan,2,1,H,0,0,D
+ITA,2003-04-27,14:00,Reggina Calcio,Parma AC,0,0,D,0,0,D
+ITA,2003-04-27,14:00,Calcio Como,Modena FC,0,0,D,0,0,D
+ITA,2003-04-27,14:00,Juventus,Brescia Calcio,2,1,H,1,0,H
+ITA,2003-04-27,14:00,Piacenza Calcio,AC Perugia,5,1,H,3,0,H
+ITA,2003-04-27,14:00,Bologna FC,Chievo Verona,1,1,D,1,0,H
+ITA,2003-04-27,14:00,Empoli FC,Udinese Calcio,1,1,D,0,0,D
+ITA,2003-04-27,19:30,Inter,Lazio Roma,1,1,D,1,0,H
+ITA,2003-05-03,14:00,Reggina Calcio,AS Roma,2,3,A,1,0,H
+ITA,2003-05-03,14:00,Chievo Verona,Piacenza Calcio,3,1,H,0,0,D
+ITA,2003-05-03,14:00,Modena FC,Empoli FC,1,1,D,1,0,H
+ITA,2003-05-03,14:00,AC Milan,Calcio Como,2,0,H,1,0,H
+ITA,2003-05-03,14:00,AC Perugia,Brescia Calcio,0,0,D,0,0,D
+ITA,2003-05-03,14:00,Torino FC,Udinese Calcio,0,1,A,0,0,D
+ITA,2003-05-03,14:00,Atalanta,Inter,1,1,D,0,1,A
+ITA,2003-05-03,14:00,Lazio Roma,Juventus,0,0,D,0,0,D
+ITA,2003-05-03,14:00,Parma AC,Bologna FC,1,2,A,0,0,D
+ITA,2003-05-10,14:00,AS Roma,Torino FC,3,1,H,1,0,H
+ITA,2003-05-10,14:00,Udinese Calcio,Modena FC,2,1,H,1,1,D
+ITA,2003-05-10,14:00,Calcio Como,Chievo Verona,2,4,A,0,3,A
+ITA,2003-05-10,14:00,Juventus,AC Perugia,2,2,D,1,1,D
+ITA,2003-05-10,14:00,Brescia Calcio,AC Milan,1,0,H,0,0,D
+ITA,2003-05-10,14:00,Piacenza Calcio,Reggina Calcio,2,2,D,0,0,D
+ITA,2003-05-10,14:00,Bologna FC,Lazio Roma,0,2,A,0,1,A
+ITA,2003-05-10,14:00,Empoli FC,Atalanta,0,0,D,0,0,D
+ITA,2003-05-10,14:00,Inter,Parma AC,1,1,D,1,0,H
+ITA,2003-05-17,14:00,Reggina Calcio,Juventus,2,1,H,1,1,D
+ITA,2003-05-17,14:00,Chievo Verona,AS Roma,0,0,D,0,0,D
+ITA,2003-05-17,14:00,Modena FC,Inter,0,2,A,0,2,A
+ITA,2003-05-17,14:00,AC Milan,Bologna FC,3,1,H,1,0,H
+ITA,2003-05-17,14:00,AC Perugia,Udinese Calcio,0,2,A,0,0,D
+ITA,2003-05-17,14:00,Torino FC,Empoli FC,1,1,D,0,0,D
+ITA,2003-05-17,14:00,Atalanta,Calcio Como,2,1,H,0,1,A
+ITA,2003-05-17,14:00,Lazio Roma,Brescia Calcio,3,1,H,2,1,H
+ITA,2003-05-17,14:00,Parma AC,Piacenza Calcio,3,2,H,0,2,A
+ITA,2003-05-24,14:00,AS Roma,Atalanta,1,2,A,1,1,D
+ITA,2003-05-24,14:00,Udinese Calcio,Lazio Roma,2,1,H,0,0,D
+ITA,2003-05-24,14:00,Calcio Como,Torino FC,1,0,H,0,0,D
+ITA,2003-05-24,14:00,Juventus,Chievo Verona,4,3,H,1,0,H
+ITA,2003-05-24,14:00,Brescia Calcio,Modena FC,2,2,D,0,2,A
+ITA,2003-05-24,14:00,Piacenza Calcio,AC Milan,4,2,H,3,1,H
+ITA,2003-05-24,14:00,Bologna FC,Reggina Calcio,0,2,A,0,1,A
+ITA,2003-05-24,14:00,Empoli FC,Parma AC,0,2,A,0,1,A
+ITA,2003-05-24,14:00,Inter,AC Perugia,2,2,D,1,1,D

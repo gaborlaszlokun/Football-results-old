@@ -1,0 +1,121 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHI,2015-07-25,16:30,Unión Española,Colo-Colo,1,2,A,1,2,A
+CHI,2015-07-25,22:00,Santiago Wanderers,San Marcos de Arica,1,1,D,1,0,H
+CHI,2015-07-26,00:30,Unión La Calera,O'Higgins,1,0,H,1,0,H
+CHI,2015-07-26,18:30,Universidad de Concepción,CD Huachipato,2,0,H,2,0,H
+CHI,2015-07-26,21:00,Deportes Iquique,Universidad Católica,0,2,A,0,1,A
+CHI,2015-07-26,23:30,Universidad de Chile,Antofagasta,1,1,D,0,1,A
+CHI,2015-07-28,00:00,Audax Italiano,CD Palestino,1,1,D,1,0,H
+CHI,2015-08-08,00:00,CD Huachipato,Deportes Iquique,2,1,H,0,1,A
+CHI,2015-08-09,02:00,San Marcos de Arica,CD Cobresal,1,2,A,0,0,D
+CHI,2015-08-09,19:00,San Luis,Santiago Wanderers,0,1,A,0,1,A
+CHI,2015-08-09,21:30,Colo-Colo,Audax Italiano,4,1,H,3,0,H
+CHI,2015-08-10,00:00,CD Palestino,Unión Española,2,1,H,1,0,H
+CHI,2015-08-15,01:00,Deportes Iquique,O'Higgins,2,5,A,1,4,A
+CHI,2015-08-15,16:30,Unión Española,CD Huachipato,2,2,D,2,1,H
+CHI,2015-08-15,19:30,Santiago Wanderers,Universidad Católica,2,2,D,1,2,A
+CHI,2015-08-15,22:00,Unión La Calera,San Marcos de Arica,1,4,A,1,1,D
+CHI,2015-08-16,00:30,Audax Italiano,Antofagasta,0,0,D,0,0,D
+CHI,2015-08-16,19:30,CD Cobresal,Colo-Colo,2,3,A,2,1,H
+CHI,2015-08-16,22:00,Universidad de Chile,San Luis,4,2,H,1,1,D
+CHI,2015-08-17,17:30,Universidad de Concepción,CD Palestino,1,0,H,0,0,D
+CHI,2015-08-19,20:30,O'Higgins,Universidad de Chile,2,2,D,1,1,D
+CHI,2015-08-22,16:30,CD Palestino,CD Cobresal,3,1,H,2,0,H
+CHI,2015-08-22,19:00,CD Huachipato,Unión La Calera,1,1,D,0,0,D
+CHI,2015-08-22,21:30,O'Higgins,Santiago Wanderers,1,0,H,1,0,H
+CHI,2015-08-23,00:00,San Luis,Audax Italiano,0,0,D,0,0,D
+CHI,2015-08-23,19:00,San Marcos de Arica,Universidad de Chile,0,1,A,0,1,A
+CHI,2015-08-23,21:30,Colo-Colo,Deportes Iquique,1,0,H,0,0,D
+CHI,2015-08-24,00:00,Universidad Católica,Universidad de Concepción,2,1,H,1,0,H
+CHI,2015-08-25,00:00,Antofagasta,Unión Española,0,2,A,0,1,A
+CHI,2015-08-29,00:00,Santiago Wanderers,CD Huachipato,3,1,H,2,1,H
+CHI,2015-08-29,16:30,Universidad de Concepción,CD Cobresal,3,1,H,0,1,A
+CHI,2015-08-29,22:30,Unión La Calera,Audax Italiano,1,2,A,0,0,D
+CHI,2015-08-30,01:00,Deportes Iquique,San Luis,2,1,H,1,1,D
+CHI,2015-08-30,19:00,Antofagasta,Colo-Colo,0,1,A,0,1,A
+CHI,2015-08-30,21:30,Universidad de Chile,CD Palestino,4,4,D,2,1,H
+CHI,2015-08-31,00:00,Unión Española,Universidad Católica,2,0,H,1,0,H
+CHI,2015-09-01,00:00,O'Higgins,San Marcos de Arica,3,1,H,0,0,D
+CHI,2015-09-06,16:00,CD Cobresal,San Luis,2,1,H,0,0,D
+CHI,2015-09-06,19:00,Antofagasta,Universidad de Concepción,1,4,A,0,1,A
+CHI,2015-09-06,21:30,Universidad Católica,Unión La Calera,3,1,H,0,1,A
+CHI,2015-09-12,19:30,CD Cobresal,Deportes Iquique,1,2,A,1,1,D
+CHI,2015-09-12,22:00,CD Huachipato,Antofagasta,1,0,H,0,0,D
+CHI,2015-09-13,19:30,Universidad Católica,O'Higgins,5,0,H,3,0,H
+CHI,2015-09-13,22:00,San Luis,Unión Española,0,4,A,0,2,A
+CHI,2015-09-14,19:30,CD Palestino,Santiago Wanderers,2,0,H,0,0,D
+CHI,2015-09-14,23:30,Colo-Colo,Unión La Calera,3,1,H,3,0,H
+CHI,2015-09-15,02:00,San Marcos de Arica,Universidad de Concepción,4,1,H,3,0,H
+CHI,2015-09-16,00:00,Audax Italiano,Universidad de Chile,3,1,H,1,0,H
+CHI,2015-09-24,00:00,Universidad de Chile,CD Cobresal,2,1,H,0,0,D
+CHI,2015-09-26,01:00,Deportes Iquique,CD Palestino,0,2,A,0,0,D
+CHI,2015-09-26,16:30,Unión Española,Universidad de Concepción,2,4,A,1,3,A
+CHI,2015-09-26,19:30,CD Huachipato,Universidad Católica,0,1,A,0,1,A
+CHI,2015-09-26,22:00,Santiago Wanderers,Unión La Calera,1,0,H,1,0,H
+CHI,2015-09-27,00:30,Antofagasta,San Marcos de Arica,0,1,A,0,0,D
+CHI,2015-09-27,20:00,San Luis,Colo-Colo,0,1,A,0,0,D
+CHI,2015-09-29,00:00,O'Higgins,Audax Italiano,3,2,H,1,0,H
+CHI,2015-10-03,02:00,San Marcos de Arica,CD Huachipato,2,0,H,1,0,H
+CHI,2015-10-03,16:30,CD Palestino,O'Higgins,1,0,H,1,0,H
+CHI,2015-10-03,19:30,Universidad de Concepción,San Luis,1,0,H,0,0,D
+CHI,2015-10-03,22:00,Universidad de Chile,Unión Española,1,1,D,1,0,H
+CHI,2015-10-04,16:00,Universidad Católica,Colo-Colo,2,1,H,1,0,H
+CHI,2015-10-04,19:30,CD Cobresal,Santiago Wanderers,2,0,H,1,0,H
+CHI,2015-10-04,22:00,Unión La Calera,Antofagasta,2,0,H,0,0,D
+CHI,2015-10-05,00:30,Audax Italiano,Deportes Iquique,2,1,H,1,1,D
+CHI,2015-10-15,19:00,CD Cobresal,Audax Italiano,1,2,A,0,2,A
+CHI,2015-10-16,00:00,O'Higgins,CD Huachipato,1,0,H,1,0,H
+CHI,2015-10-17,00:00,San Luis,CD Palestino,6,2,H,4,1,H
+CHI,2015-10-17,16:30,Antofagasta,Universidad Católica,2,1,H,1,0,H
+CHI,2015-10-17,19:00,Santiago Wanderers,Deportes Iquique,2,2,D,1,0,H
+CHI,2015-10-18,19:00,Universidad de Concepción,Universidad de Chile,4,1,H,2,1,H
+CHI,2015-10-18,21:30,Colo-Colo,San Marcos de Arica,0,1,A,0,0,D
+CHI,2015-10-20,00:00,Unión Española,Unión La Calera,4,0,H,2,0,H
+CHI,2015-10-24,16:30,Unión Española,O'Higgins,1,2,A,1,1,D
+CHI,2015-10-24,19:00,Deportes Iquique,Antofagasta,1,1,D,0,0,D
+CHI,2015-10-24,21:30,Universidad de Chile,Santiago Wanderers,0,1,A,0,1,A
+CHI,2015-10-25,00:00,Unión La Calera,CD Cobresal,0,2,A,0,1,A
+CHI,2015-10-25,01:30,San Marcos de Arica,San Luis,0,1,A,0,1,A
+CHI,2015-10-25,15:00,CD Huachipato,Colo-Colo,1,2,A,0,0,D
+CHI,2015-10-25,21:00,Universidad Católica,CD Palestino,2,0,H,1,0,H
+CHI,2015-10-26,23:30,Audax Italiano,Universidad de Concepción,2,1,H,0,0,D
+CHI,2015-10-31,01:00,San Marcos de Arica,Unión Española,1,1,D,0,1,A
+CHI,2015-10-31,15:00,Colo-Colo,Universidad de Chile,2,0,H,1,0,H
+CHI,2015-10-31,19:00,Universidad de Concepción,Deportes Iquique,1,1,D,1,0,H
+CHI,2015-10-31,21:30,O'Higgins,Antofagasta,1,1,D,1,0,H
+CHI,2015-11-01,15:00,CD Palestino,Unión La Calera,1,1,D,1,0,H
+CHI,2015-11-01,19:00,CD Cobresal,Universidad Católica,2,5,A,1,3,A
+CHI,2015-11-01,21:30,Audax Italiano,Santiago Wanderers,1,1,D,0,0,D
+CHI,2015-11-02,23:00,San Luis,CD Huachipato,2,3,A,0,1,A
+CHI,2015-11-06,19:30,Antofagasta,CD Palestino,0,2,A,0,0,D
+CHI,2015-11-06,22:00,Universidad Católica,San Marcos de Arica,5,1,H,2,0,H
+CHI,2015-11-07,15:30,Deportes Iquique,Universidad de Chile,5,3,H,1,2,A
+CHI,2015-11-07,18:00,Unión La Calera,San Luis,0,2,A,0,1,A
+CHI,2015-11-07,20:30,Colo-Colo,O'Higgins,2,1,H,2,1,H
+CHI,2015-11-07,23:00,CD Huachipato,CD Cobresal,2,0,H,1,0,H
+CHI,2015-11-09,21:30,Unión Española,Audax Italiano,3,2,H,0,0,D
+CHI,2015-11-10,00:00,Santiago Wanderers,Universidad de Concepción,1,2,A,1,1,D
+CHI,2015-11-21,00:00,Audax Italiano,CD Huachipato,2,2,D,0,0,D
+CHI,2015-11-21,19:00,CD Cobresal,Antofagasta,3,1,H,1,0,H
+CHI,2015-11-21,21:30,CD Palestino,Colo-Colo,2,0,H,1,0,H
+CHI,2015-11-22,00:00,Santiago Wanderers,Unión Española,1,2,A,1,1,D
+CHI,2015-11-22,19:00,Universidad de Chile,Universidad Católica,2,2,D,0,0,D
+CHI,2015-11-22,22:00,Deportes Iquique,San Marcos de Arica,2,1,H,2,1,H
+CHI,2015-11-23,00:30,San Luis,O'Higgins,2,1,H,1,0,H
+CHI,2015-11-23,20:00,Universidad de Concepción,Unión La Calera,1,2,A,1,1,D
+CHI,2015-11-26,22:30,Antofagasta,Santiago Wanderers,2,2,D,0,2,A
+CHI,2015-11-27,01:00,San Marcos de Arica,Audax Italiano,0,1,A,0,0,D
+CHI,2015-11-29,19:00,Colo-Colo,Universidad de Concepción,1,0,H,1,0,H
+CHI,2015-11-29,19:00,Universidad Católica,San Luis,1,0,H,0,0,D
+CHI,2015-11-29,22:00,Unión La Calera,Universidad de Chile,1,0,H,0,0,D
+CHI,2015-11-30,00:30,Unión Española,Deportes Iquique,3,0,H,3,0,H
+CHI,2015-11-30,21:30,CD Huachipato,CD Palestino,0,0,D,0,0,D
+CHI,2015-12-01,00:00,O'Higgins,CD Cobresal,2,0,H,1,0,H
+CHI,2015-12-03,23:00,San Luis,Antofagasta,1,2,A,0,0,D
+CHI,2015-12-05,18:30,CD Cobresal,Unión Española,3,1,H,1,1,D
+CHI,2015-12-05,18:30,Universidad de Concepción,O'Higgins,3,1,H,2,1,H
+CHI,2015-12-05,18:30,CD Palestino,San Marcos de Arica,1,0,H,0,0,D
+CHI,2015-12-05,21:00,Universidad de Chile,CD Huachipato,2,1,H,2,0,H
+CHI,2015-12-06,00:30,Deportes Iquique,Unión La Calera,1,1,D,0,0,D
+CHI,2015-12-06,20:00,Audax Italiano,Universidad Católica,1,0,H,1,0,H
+CHI,2016-01-11,21:00,Santiago Wanderers,Colo-Colo,2,1,H,2,1,H

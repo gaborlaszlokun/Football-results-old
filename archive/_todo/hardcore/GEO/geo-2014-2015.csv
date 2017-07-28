@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+GEO,2014-08-09,14:30,FC Kobuleti,FC Zugdidi,2,1,H,1.0,0.0,H
+GEO,2014-08-09,14:30,Metalurgi Rustavi,Dinamo Batumi,2,1,H,1.0,1.0,D
+GEO,2014-08-09,14:30,Kolkheti Poti,Torpedo Kutaisi,0,3,A,0.0,1.0,A
+GEO,2014-08-09,16:00,FC Zestafoni,Guria Lanchkhuti,6,0,H,3.0,0.0,H
+GEO,2014-08-10,14:30,Dila Gori,Spartaki Tskhinvali,2,0,H,2.0,0.0,H
+GEO,2014-08-10,14:30,FC Merani Martvili,WIT Georgia,0,2,A,0.0,2.0,A
+GEO,2014-08-10,16:00,Dinamo Tbilisi,FC Samtredia,2,0,H,0.0,0.0,D
+GEO,2014-08-11,14:30,Sioni Bolnisi,Chikhura Sachkhere,1,0,H,1.0,0.0,H
+GEO,2014-08-15,14:30,Spartaki Tskhinvali,FC Merani Martvili,1,0,H,0.0,0.0,D
+GEO,2014-08-15,14:30,Torpedo Kutaisi,Dila Gori,0,0,D,0.0,0.0,D
+GEO,2014-08-15,14:30,Dinamo Batumi,Kolkheti Poti,1,0,H,1.0,0.0,H
+GEO,2014-08-15,14:30,Guria Lanchkhuti,FC Kobuleti,0,0,D,0.0,0.0,D
+GEO,2014-08-16,14:00,Chikhura Sachkhere,FC Zestafoni,2,1,H,0.0,1.0,A
+GEO,2014-08-16,14:30,FC Samtredia,WIT Georgia,1,0,H,1.0,0.0,H
+GEO,2014-08-16,14:30,FC Zugdidi,Metalurgi Rustavi,0,0,D,0.0,0.0,D
+GEO,2014-08-17,16:00,Dinamo Tbilisi,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2014-08-23,14:15,Dila Gori,Dinamo Batumi,0,1,A,0.0,1.0,A
+GEO,2014-08-23,15:00,FC Zestafoni,Dinamo Tbilisi,2,3,A,1.0,1.0,D
+GEO,2014-08-24,14:00,FC Kobuleti,Chikhura Sachkhere,1,1,D,0.0,1.0,A
+GEO,2014-08-24,14:00,Kolkheti Poti,FC Zugdidi,1,1,D,0.0,0.0,D
+GEO,2014-08-24,14:00,FC Merani Martvili,Torpedo Kutaisi,3,1,H,1.0,0.0,H
+GEO,2014-08-24,14:15,Sioni Bolnisi,FC Samtredia,2,2,D,0.0,1.0,A
+GEO,2014-08-24,14:15,Metalurgi Rustavi,Guria Lanchkhuti,0,0,D,0.0,0.0,D
+GEO,2014-08-24,14:15,WIT Georgia,Spartaki Tskhinvali,0,1,A,0.0,0.0,D
+GEO,2014-09-11,13:00,Kolkheti Poti,Chikhura Sachkhere,1,0,H,0.0,0.0,D
+GEO,2014-09-11,13:00,Dila Gori,Guria Lanchkhuti,2,0,H,0.0,0.0,D
+GEO,2014-09-11,13:30,Metalurgi Rustavi,Dinamo Tbilisi,3,0,H,2.0,0.0,H
+GEO,2014-09-12,13:00,FC Kobuleti,Sioni Bolnisi,1,1,D,1.0,1.0,D
+GEO,2014-09-12,13:00,FC Merani Martvili,FC Zugdidi,0,0,D,0.0,0.0,D
+GEO,2014-09-12,13:00,WIT Georgia,Dinamo Batumi,2,0,H,2.0,0.0,H
+GEO,2014-09-12,13:00,Spartaki Tskhinvali,Torpedo Kutaisi,0,0,D,0.0,0.0,D
+GEO,2014-09-12,15:00,FC Zestafoni,FC Samtredia,0,1,A,0.0,1.0,A
+GEO,2014-09-16,13:00,Sioni Bolnisi,FC Zestafoni,1,3,A,0.0,2.0,A
+GEO,2014-09-16,13:00,FC Samtredia,Spartaki Tskhinvali,3,1,H,1.0,1.0,D
+GEO,2014-09-16,13:00,Torpedo Kutaisi,WIT Georgia,1,0,H,0.0,0.0,D
+GEO,2014-09-16,13:00,Dinamo Batumi,FC Merani Martvili,3,1,H,2.0,1.0,H
+GEO,2014-09-16,15:00,Dinamo Tbilisi,FC Kobuleti,6,0,H,4.0,0.0,H
+GEO,2014-09-17,13:00,Chikhura Sachkhere,Metalurgi Rustavi,2,1,H,2.0,0.0,H
+GEO,2014-09-17,13:00,FC Zugdidi,Dila Gori,0,3,A,0.0,2.0,A
+GEO,2014-09-17,13:00,Guria Lanchkhuti,Kolkheti Poti,3,2,H,2.0,1.0,H
+GEO,2014-09-20,13:00,Dinamo Batumi,Spartaki Tskhinvali,0,1,A,0.0,1.0,A
+GEO,2014-09-20,15:00,FC Zestafoni,FC Kobuleti,1,1,D,1.0,0.0,H
+GEO,2014-09-21,13:00,FC Zugdidi,WIT Georgia,1,3,A,1.0,2.0,A
+GEO,2014-09-21,13:00,FC Samtredia,Torpedo Kutaisi,0,1,A,0.0,0.0,D
+GEO,2014-09-21,13:00,Guria Lanchkhuti,FC Merani Martvili,1,0,H,0.0,0.0,D
+GEO,2014-09-21,13:00,Chikhura Sachkhere,Dila Gori,2,1,H,1.0,0.0,H
+GEO,2014-09-21,13:00,Sioni Bolnisi,Metalurgi Rustavi,3,1,H,2.0,0.0,H
+GEO,2014-09-21,15:00,Dinamo Tbilisi,Kolkheti Poti,2,1,H,1.0,0.0,H
+GEO,2014-09-25,13:00,Spartaki Tskhinvali,FC Zugdidi,2,1,H,0.0,0.0,D
+GEO,2014-09-26,13:00,Metalurgi Rustavi,FC Zestafoni,2,2,D,0.0,1.0,A
+GEO,2014-09-26,13:00,Kolkheti Poti,Sioni Bolnisi,1,0,H,1.0,0.0,H
+GEO,2014-09-26,13:00,Dila Gori,Dinamo Tbilisi,0,0,D,0.0,0.0,D
+GEO,2014-09-26,13:00,WIT Georgia,Guria Lanchkhuti,2,2,D,2.0,1.0,H
+GEO,2014-09-27,13:00,FC Kobuleti,FC Samtredia,0,1,A,0.0,1.0,A
+GEO,2014-09-27,13:00,FC Merani Martvili,Chikhura Sachkhere,2,0,H,2.0,0.0,H
+GEO,2014-09-27,13:00,Torpedo Kutaisi,Dinamo Batumi,2,2,D,1.0,0.0,H
+GEO,2014-10-04,12:00,Guria Lanchkhuti,Spartaki Tskhinvali,1,1,D,0.0,0.0,D
+GEO,2014-10-04,12:00,Sioni Bolnisi,Dila Gori,1,4,A,1.0,3.0,A
+GEO,2014-10-04,13:00,FC Zestafoni,Kolkheti Poti,1,1,D,1.0,0.0,H
+GEO,2014-10-05,12:00,FC Samtredia,Dinamo Batumi,2,0,H,1.0,0.0,H
+GEO,2014-10-05,12:00,FC Zugdidi,Torpedo Kutaisi,0,0,D,0.0,0.0,D
+GEO,2014-10-05,12:00,Chikhura Sachkhere,WIT Georgia,2,0,H,0.0,0.0,D
+GEO,2014-10-05,12:00,FC Kobuleti,Metalurgi Rustavi,0,1,A,0.0,0.0,D
+GEO,2014-10-05,15:00,Dinamo Tbilisi,FC Merani Martvili,0,0,D,0.0,0.0,D
+GEO,2014-10-18,12:00,Metalurgi Rustavi,FC Samtredia,1,1,D,0.0,1.0,A
+GEO,2014-10-18,12:00,FC Merani Martvili,Sioni Bolnisi,2,0,H,1.0,0.0,H
+GEO,2014-10-18,12:00,WIT Georgia,Dinamo Tbilisi,0,1,A,0.0,1.0,A
+GEO,2014-10-19,12:00,Kolkheti Poti,FC Kobuleti,2,2,D,2.0,2.0,D
+GEO,2014-10-19,12:00,Dila Gori,FC Zestafoni,2,2,D,0.0,1.0,A
+GEO,2014-10-19,12:00,Spartaki Tskhinvali,Chikhura Sachkhere,2,1,H,0.0,1.0,A
+GEO,2014-10-19,12:00,Dinamo Batumi,FC Zugdidi,2,0,H,1.0,0.0,H
+GEO,2014-10-19,15:00,Torpedo Kutaisi,Guria Lanchkhuti,2,2,D,1.0,0.0,H
+GEO,2014-10-24,12:00,Sioni Bolnisi,WIT Georgia,0,0,D,0.0,0.0,D
+GEO,2014-10-24,14:00,Dinamo Tbilisi,Spartaki Tskhinvali,6,1,H,3.0,1.0,H
+GEO,2014-10-25,12:00,FC Samtredia,FC Zugdidi,0,1,A,0.0,0.0,D
+GEO,2014-10-25,12:00,Guria Lanchkhuti,Dinamo Batumi,1,0,H,1.0,0.0,H
+GEO,2014-10-25,12:00,FC Kobuleti,Dila Gori,3,0,H,,,
+GEO,2014-10-25,12:00,Metalurgi Rustavi,Kolkheti Poti,1,0,H,1.0,0.0,H
+GEO,2014-10-26,11:00,Chikhura Sachkhere,Torpedo Kutaisi,2,2,D,0.0,1.0,A
+GEO,2014-10-26,13:00,FC Zestafoni,FC Merani Martvili,0,0,D,0.0,0.0,D
+GEO,2014-11-01,10:00,Kolkheti Poti,FC Samtredia,0,0,D,0.0,0.0,D
+GEO,2014-11-01,10:00,Dila Gori,Metalurgi Rustavi,3,2,H,1.0,1.0,D
+GEO,2014-11-01,10:00,FC Zugdidi,Guria Lanchkhuti,2,1,H,1.0,1.0,D
+GEO,2014-11-02,10:00,FC Merani Martvili,FC Kobuleti,1,0,H,0.0,0.0,D
+GEO,2014-11-02,10:00,WIT Georgia,FC Zestafoni,2,3,A,2.0,0.0,H
+GEO,2014-11-02,10:00,Spartaki Tskhinvali,Sioni Bolnisi,2,1,H,2.0,1.0,H
+GEO,2014-11-02,10:00,Dinamo Batumi,Chikhura Sachkhere,0,0,D,0.0,0.0,D
+GEO,2014-11-02,14:00,Torpedo Kutaisi,Dinamo Tbilisi,1,2,A,1.0,0.0,H
+GEO,2014-11-06,10:00,Chikhura Sachkhere,FC Zugdidi,1,0,H,0.0,0.0,D
+GEO,2014-11-06,10:00,FC Zestafoni,Spartaki Tskhinvali,3,0,H,1.0,0.0,H
+GEO,2014-11-06,10:00,Sioni Bolnisi,Torpedo Kutaisi,1,0,H,0.0,0.0,D
+GEO,2014-11-06,13:00,Dinamo Tbilisi,Dinamo Batumi,0,1,A,0.0,1.0,A
+GEO,2014-11-07,10:00,FC Samtredia,Guria Lanchkhuti,3,1,H,1.0,1.0,D
+GEO,2014-11-07,10:00,Kolkheti Poti,Dila Gori,0,1,A,0.0,0.0,D
+GEO,2014-11-08,10:00,FC Kobuleti,WIT Georgia,2,0,H,1.0,0.0,H
+GEO,2014-11-08,10:00,Metalurgi Rustavi,FC Merani Martvili,1,2,A,1.0,1.0,D
+GEO,2014-11-21,10:00,Dila Gori,FC Samtredia,1,0,H,0.0,0.0,D
+GEO,2014-11-21,10:00,FC Merani Martvili,Kolkheti Poti,0,0,D,0.0,0.0,D
+GEO,2014-11-21,10:00,WIT Georgia,Metalurgi Rustavi,0,2,A,0.0,2.0,A
+GEO,2014-11-21,10:00,Dinamo Batumi,Sioni Bolnisi,2,1,H,0.0,1.0,A
+GEO,2014-11-22,10:00,Spartaki Tskhinvali,FC Kobuleti,1,0,H,1.0,0.0,H
+GEO,2014-11-22,10:00,Torpedo Kutaisi,FC Zestafoni,3,3,D,2.0,3.0,A
+GEO,2014-11-22,10:00,FC Zugdidi,Dinamo Tbilisi,1,2,A,0.0,0.0,D
+GEO,2014-11-22,10:00,Guria Lanchkhuti,Chikhura Sachkhere,2,2,D,0.0,1.0,A
+GEO,2014-11-30,10:00,FC Samtredia,Chikhura Sachkhere,3,1,H,0.0,0.0,D
+GEO,2014-11-30,10:00,Sioni Bolnisi,FC Zugdidi,0,0,D,0.0,0.0,D
+GEO,2014-11-30,10:00,FC Zestafoni,Dinamo Batumi,2,4,A,1.0,3.0,A
+GEO,2014-11-30,10:00,FC Kobuleti,Torpedo Kutaisi,2,1,H,0.0,0.0,D
+GEO,2014-11-30,10:00,Metalurgi Rustavi,Spartaki Tskhinvali,1,1,D,1.0,0.0,H
+GEO,2014-11-30,10:00,Kolkheti Poti,WIT Georgia,2,1,H,0.0,0.0,D
+GEO,2014-11-30,10:00,Dila Gori,FC Merani Martvili,1,0,H,1.0,0.0,H
+GEO,2014-11-30,11:00,Dinamo Tbilisi,Guria Lanchkhuti,1,2,A,1.0,1.0,D
+GEO,2014-12-06,10:00,Spartaki Tskhinvali,Kolkheti Poti,1,2,A,1.0,1.0,D
+GEO,2014-12-06,10:00,Dinamo Batumi,FC Kobuleti,0,0,D,0.0,0.0,D
+GEO,2014-12-07,10:00,FC Merani Martvili,FC Samtredia,0,0,D,0.0,0.0,D
+GEO,2014-12-07,10:00,WIT Georgia,Dila Gori,2,2,D,1.0,1.0,D
+GEO,2014-12-07,10:00,Torpedo Kutaisi,Metalurgi Rustavi,0,1,A,0.0,0.0,D
+GEO,2014-12-07,10:00,FC Zugdidi,FC Zestafoni,0,0,D,0.0,0.0,D
+GEO,2014-12-07,10:00,Guria Lanchkhuti,Sioni Bolnisi,0,0,D,0.0,0.0,D
+GEO,2014-12-07,10:00,Chikhura Sachkhere,Dinamo Tbilisi,1,0,H,1.0,0.0,H
+GEO,2015-02-21,10:00,FC Zugdidi,FC Kobuleti,1,0,H,0.0,0.0,D
+GEO,2015-02-21,10:00,Guria Lanchkhuti,FC Zestafoni,1,0,H,0.0,0.0,D
+GEO,2015-02-22,10:00,Dinamo Batumi,Metalurgi Rustavi,2,0,H,1.0,0.0,H
+GEO,2015-02-22,10:00,Spartaki Tskhinvali,Dila Gori,0,1,A,0.0,0.0,D
+GEO,2015-02-22,10:00,WIT Georgia,FC Merani Martvili,2,2,D,0.0,1.0,A
+GEO,2015-02-22,10:00,FC Samtredia,Dinamo Tbilisi,0,1,A,0.0,1.0,A
+GEO,2015-02-22,10:00,Chikhura Sachkhere,Sioni Bolnisi,2,0,H,1.0,0.0,H
+GEO,2015-02-22,15:00,Torpedo Kutaisi,Kolkheti Poti,0,0,D,0.0,0.0,D
+GEO,2015-02-28,10:00,Kolkheti Poti,Dinamo Batumi,0,2,A,0.0,1.0,A
+GEO,2015-02-28,10:00,FC Kobuleti,Guria Lanchkhuti,2,0,H,0.0,0.0,D
+GEO,2015-03-01,11:00,WIT Georgia,FC Samtredia,0,1,A,0.0,1.0,A
+GEO,2015-03-01,11:00,FC Merani Martvili,Spartaki Tskhinvali,0,2,A,0.0,1.0,A
+GEO,2015-03-01,11:00,Dila Gori,Torpedo Kutaisi,2,1,H,2.0,0.0,H
+GEO,2015-03-01,11:00,Metalurgi Rustavi,FC Zugdidi,0,1,A,0.0,1.0,A
+GEO,2015-03-01,11:00,FC Zestafoni,Chikhura Sachkhere,2,2,D,1.0,0.0,H
+GEO,2015-03-01,11:00,Sioni Bolnisi,Dinamo Tbilisi,2,1,H,1.0,1.0,D
+GEO,2015-03-05,11:00,FC Samtredia,Sioni Bolnisi,3,1,H,1.0,0.0,H
+GEO,2015-03-05,11:00,Chikhura Sachkhere,FC Kobuleti,0,2,A,0.0,0.0,D
+GEO,2015-03-05,11:00,Guria Lanchkhuti,Metalurgi Rustavi,1,0,H,1.0,0.0,H
+GEO,2015-03-05,11:00,Dinamo Batumi,Dila Gori,1,0,H,0.0,0.0,D
+GEO,2015-03-05,11:00,Spartaki Tskhinvali,WIT Georgia,1,0,H,0.0,0.0,D
+GEO,2015-03-05,11:00,Torpedo Kutaisi,FC Merani Martvili,1,1,D,1.0,1.0,D
+GEO,2015-03-05,13:00,Dinamo Tbilisi,FC Zestafoni,3,2,H,1.0,1.0,D
+GEO,2015-03-06,11:00,FC Zugdidi,Kolkheti Poti,0,2,A,0.0,0.0,D
+GEO,2015-03-13,11:00,FC Zestafoni,Sioni Bolnisi,4,2,H,2.0,1.0,H
+GEO,2015-03-13,11:00,Spartaki Tskhinvali,FC Samtredia,2,1,H,1.0,1.0,D
+GEO,2015-03-13,11:00,FC Merani Martvili,Dinamo Batumi,1,2,A,1.0,0.0,H
+GEO,2015-03-14,11:00,Dila Gori,FC Zugdidi,4,0,H,2.0,0.0,H
+GEO,2015-03-14,11:00,Kolkheti Poti,Guria Lanchkhuti,0,1,A,0.0,1.0,A
+GEO,2015-03-14,11:00,Metalurgi Rustavi,Chikhura Sachkhere,0,0,D,0.0,0.0,D
+GEO,2015-03-14,11:00,FC Kobuleti,Dinamo Tbilisi,0,1,A,0.0,1.0,A
+GEO,2015-03-14,11:00,WIT Georgia,Torpedo Kutaisi,0,1,A,0.0,0.0,D
+GEO,2015-03-18,11:00,FC Samtredia,FC Zestafoni,3,0,H,1.0,0.0,H
+GEO,2015-03-18,11:00,Chikhura Sachkhere,Kolkheti Poti,5,1,H,1.0,1.0,D
+GEO,2015-03-18,11:00,Guria Lanchkhuti,Dila Gori,0,0,D,0.0,0.0,D
+GEO,2015-03-18,11:00,Sioni Bolnisi,FC Kobuleti,1,3,A,1.0,2.0,A
+GEO,2015-03-18,11:00,FC Zugdidi,FC Merani Martvili,3,0,H,3.0,0.0,H
+GEO,2015-03-18,11:00,Dinamo Batumi,WIT Georgia,2,1,H,1.0,0.0,H
+GEO,2015-03-18,13:00,Dinamo Tbilisi,Metalurgi Rustavi,2,0,H,2.0,0.0,H
+GEO,2015-03-18,13:00,Torpedo Kutaisi,Spartaki Tskhinvali,2,0,H,2.0,0.0,H
+GEO,2015-03-22,11:00,Spartaki Tskhinvali,Dinamo Batumi,0,1,A,0.0,1.0,A
+GEO,2015-03-22,11:00,WIT Georgia,FC Zugdidi,2,0,H,2.0,0.0,H
+GEO,2015-03-22,11:00,FC Merani Martvili,Guria Lanchkhuti,1,0,H,0.0,0.0,D
+GEO,2015-03-22,11:00,Dila Gori,Chikhura Sachkhere,2,1,H,1.0,0.0,H
+GEO,2015-03-22,11:00,Kolkheti Poti,Dinamo Tbilisi,0,0,D,0.0,0.0,D
+GEO,2015-03-22,11:00,Metalurgi Rustavi,Sioni Bolnisi,1,2,A,1.0,0.0,H
+GEO,2015-03-22,11:00,FC Kobuleti,FC Zestafoni,3,1,H,0.0,0.0,D
+GEO,2015-03-22,13:00,Torpedo Kutaisi,FC Samtredia,3,1,H,1.0,0.0,H
+GEO,2015-04-03,13:00,Guria Lanchkhuti,WIT Georgia,4,1,H,3.0,1.0,H
+GEO,2015-04-03,13:00,FC Zugdidi,Spartaki Tskhinvali,3,2,H,1.0,0.0,H
+GEO,2015-04-03,13:00,FC Samtredia,FC Kobuleti,4,1,H,1.0,0.0,H
+GEO,2015-04-03,13:00,FC Zestafoni,Metalurgi Rustavi,2,0,H,0.0,0.0,D
+GEO,2015-04-03,13:00,Sioni Bolnisi,Kolkheti Poti,1,2,A,0.0,2.0,A
+GEO,2015-04-03,13:00,Chikhura Sachkhere,FC Merani Martvili,2,0,H,1.0,0.0,H
+GEO,2015-04-03,13:00,Dinamo Batumi,Torpedo Kutaisi,2,3,A,1.0,0.0,H
+GEO,2015-04-03,14:00,Dinamo Tbilisi,Dila Gori,2,2,D,1.0,1.0,D
+GEO,2015-04-11,13:00,Dinamo Batumi,FC Samtredia,1,0,H,1.0,0.0,H
+GEO,2015-04-11,13:00,Torpedo Kutaisi,FC Zugdidi,0,0,D,0.0,0.0,D
+GEO,2015-04-11,13:00,Spartaki Tskhinvali,Guria Lanchkhuti,3,0,H,0.0,0.0,D
+GEO,2015-04-11,13:00,WIT Georgia,Chikhura Sachkhere,1,2,A,1.0,0.0,H
+GEO,2015-04-11,13:00,FC Merani Martvili,Dinamo Tbilisi,1,1,D,1.0,1.0,D
+GEO,2015-04-11,13:00,Dila Gori,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2015-04-11,13:00,Kolkheti Poti,FC Zestafoni,4,0,H,1.0,0.0,H
+GEO,2015-04-11,13:00,Metalurgi Rustavi,FC Kobuleti,1,3,A,0.0,1.0,A
+GEO,2015-04-18,13:00,FC Kobuleti,Kolkheti Poti,1,1,D,0.0,1.0,A
+GEO,2015-04-18,13:00,Sioni Bolnisi,FC Merani Martvili,1,0,H,1.0,0.0,H
+GEO,2015-04-18,13:00,FC Zugdidi,Dinamo Batumi,2,1,H,1.0,0.0,H
+GEO,2015-04-19,13:00,FC Samtredia,Metalurgi Rustavi,2,1,H,2.0,1.0,H
+GEO,2015-04-19,13:00,Dinamo Tbilisi,WIT Georgia,3,0,H,2.0,0.0,H
+GEO,2015-04-19,13:00,Chikhura Sachkhere,Spartaki Tskhinvali,1,3,A,1.0,1.0,D
+GEO,2015-04-19,13:00,Guria Lanchkhuti,Torpedo Kutaisi,1,3,A,0.0,1.0,A
+GEO,2015-04-19,,FC Zestafoni,Dila Gori,0,3,A,,,
+GEO,2015-04-24,13:00,FC Zugdidi,FC Samtredia,1,1,D,0.0,0.0,D
+GEO,2015-04-24,13:00,Spartaki Tskhinvali,Dinamo Tbilisi,4,1,H,1.0,1.0,D
+GEO,2015-04-24,13:00,WIT Georgia,Sioni Bolnisi,2,0,H,2.0,0.0,H
+GEO,2015-04-24,13:00,Dila Gori,FC Kobuleti,5,2,H,3.0,1.0,H
+GEO,2015-04-24,13:00,Kolkheti Poti,Metalurgi Rustavi,3,0,H,1.0,0.0,H
+GEO,2015-04-24,14:00,Torpedo Kutaisi,Chikhura Sachkhere,1,2,A,0.0,0.0,D
+GEO,2015-04-25,13:00,Dinamo Batumi,Guria Lanchkhuti,2,1,H,2.0,0.0,H
+GEO,2015-04-25,,FC Merani Martvili,FC Zestafoni,3,0,H,,,
+GEO,2015-05-01,14:00,FC Kobuleti,FC Merani Martvili,1,3,A,0.0,1.0,A
+GEO,2015-05-01,14:00,Guria Lanchkhuti,FC Zugdidi,5,0,H,2.0,0.0,H
+GEO,2015-05-02,14:00,FC Samtredia,Kolkheti Poti,1,1,D,1.0,0.0,H
+GEO,2015-05-02,14:00,Metalurgi Rustavi,Dila Gori,0,2,A,0.0,1.0,A
+GEO,2015-05-02,14:00,Sioni Bolnisi,Spartaki Tskhinvali,3,4,A,1.0,1.0,D
+GEO,2015-05-02,14:00,Dinamo Tbilisi,Torpedo Kutaisi,3,2,H,1.0,1.0,D
+GEO,2015-05-02,14:00,Chikhura Sachkhere,Dinamo Batumi,0,1,A,0.0,0.0,D
+GEO,2015-05-02,,FC Zestafoni,WIT Georgia,0,3,A,,,
+GEO,2015-05-08,14:00,WIT Georgia,FC Kobuleti,0,1,A,0.0,0.0,D
+GEO,2015-05-08,14:00,FC Merani Martvili,Metalurgi Rustavi,3,0,H,0.0,0.0,D
+GEO,2015-05-09,14:00,Guria Lanchkhuti,FC Samtredia,3,1,H,2.0,0.0,H
+GEO,2015-05-09,14:00,FC Zugdidi,Chikhura Sachkhere,1,1,D,1.0,1.0,D
+GEO,2015-05-09,14:00,Dinamo Batumi,Dinamo Tbilisi,0,0,D,0.0,0.0,D
+GEO,2015-05-09,14:00,Torpedo Kutaisi,Sioni Bolnisi,1,0,H,0.0,0.0,D
+GEO,2015-05-09,14:00,Spartaki Tskhinvali,FC Zestafoni,3,0,H,,,
+GEO,2015-05-09,14:00,Dila Gori,Kolkheti Poti,1,0,H,0.0,0.0,D
+GEO,2015-05-13,14:00,FC Samtredia,Dila Gori,0,1,A,0.0,1.0,A
+GEO,2015-05-13,14:00,Kolkheti Poti,FC Merani Martvili,3,0,H,0.0,0.0,D
+GEO,2015-05-13,14:00,Metalurgi Rustavi,WIT Georgia,0,0,D,0.0,0.0,D
+GEO,2015-05-13,14:00,FC Kobuleti,Spartaki Tskhinvali,0,0,D,0.0,0.0,D
+GEO,2015-05-13,14:00,Sioni Bolnisi,Dinamo Batumi,1,0,H,0.0,0.0,D
+GEO,2015-05-13,14:00,Dinamo Tbilisi,FC Zugdidi,7,0,H,3.0,0.0,H
+GEO,2015-05-13,14:00,Chikhura Sachkhere,Guria Lanchkhuti,2,1,H,2.0,0.0,H
+GEO,2015-05-13,,FC Zestafoni,Torpedo Kutaisi,0,3,A,,,
+GEO,2015-05-17,14:00,Chikhura Sachkhere,FC Samtredia,2,1,H,0.0,0.0,D
+GEO,2015-05-17,14:00,Guria Lanchkhuti,Dinamo Tbilisi,2,2,D,1.0,1.0,D
+GEO,2015-05-17,14:00,FC Zugdidi,Sioni Bolnisi,1,3,A,1.0,0.0,H
+GEO,2015-05-17,14:00,Dinamo Batumi,FC Zestafoni,3,0,H,,,
+GEO,2015-05-17,14:00,Torpedo Kutaisi,FC Kobuleti,0,2,A,0.0,0.0,D
+GEO,2015-05-17,14:00,Spartaki Tskhinvali,Metalurgi Rustavi,7,2,H,1.0,0.0,H
+GEO,2015-05-17,14:00,WIT Georgia,Kolkheti Poti,1,0,H,0.0,0.0,D
+GEO,2015-05-17,14:00,FC Merani Martvili,Dila Gori,1,1,D,1.0,0.0,H
+GEO,2015-05-22,14:00,FC Samtredia,FC Merani Martvili,4,2,H,1.0,0.0,H
+GEO,2015-05-22,14:00,Dila Gori,WIT Georgia,3,0,H,1.0,0.0,H
+GEO,2015-05-22,14:00,Kolkheti Poti,Spartaki Tskhinvali,1,1,D,0.0,1.0,A
+GEO,2015-05-22,14:00,Metalurgi Rustavi,Torpedo Kutaisi,1,1,D,1.0,0.0,H
+GEO,2015-05-22,14:00,FC Kobuleti,Dinamo Batumi,1,3,A,1.0,1.0,D
+GEO,2015-05-22,14:00,Sioni Bolnisi,Guria Lanchkhuti,3,2,H,3.0,0.0,H
+GEO,2015-05-22,14:00,Dinamo Tbilisi,Chikhura Sachkhere,3,0,H,3.0,0.0,H
+GEO,2015-05-22,,FC Zestafoni,FC Zugdidi,0,3,A,,,

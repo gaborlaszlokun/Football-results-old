@@ -1,183 +1,183 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-QAT,13/09/2013,16:15,Al Sadd,Al Rayyan,1,0,H,0,0,D
-QAT,13/09/2013,18:30,Umm-Salal,Muaither SC,1,2,A,0,1,A
-QAT,13/09/2013,18:30,Al Khor SC,Qatar SC,1,1,D,0,0,D
-QAT,13/09/2013,18:30,Al Sailiya,Lekhwiya SC,3,3,D,2,2,D
-QAT,14/09/2013,16:15,Al Ahli Doha,Al Gharafa,1,1,D,0,1,A
-QAT,14/09/2013,18:30,Al Arabi,El Jaish SC,1,1,D,0,1,A
-QAT,14/09/2013,18:30,Al Kharitiyath,Al Wakrah,2,2,D,2,2,D
-QAT,20/09/2013,16:15,Al Arabi,Al Sailiya,0,1,A,0,1,A
-QAT,20/09/2013,16:15,Muaither SC,Qatar SC,0,3,A,0,3,A
-QAT,20/09/2013,18:30,Al Gharafa,Al Khor SC,0,0,D,0,0,D
-QAT,20/09/2013,18:30,Al Sadd,Al Ahli Doha,1,0,H,1,0,H
-QAT,21/09/2013,16:15,Lekhwiya SC,Al Kharitiyath,0,2,A,0,1,A
-QAT,21/09/2013,18:30,El Jaish SC,Umm-Salal,0,0,D,0,0,D
-QAT,21/09/2013,18:30,Al Rayyan,Al Wakrah,1,3,A,0,0,D
-QAT,27/09/2013,16:15,Al Khor SC,Al Rayyan,0,4,A,0,1,A
-QAT,27/09/2013,16:15,Al Wakrah,Umm-Salal,2,1,H,0,1,A
-QAT,27/09/2013,18:30,El Jaish SC,Al Sadd,1,0,H,1,0,H
-QAT,27/09/2013,18:30,Qatar SC,Al Kharitiyath,1,0,H,0,0,D
-QAT,28/09/2013,16:15,Muaither SC,Al Ahli Doha,1,1,D,1,0,H
-QAT,28/09/2013,18:30,Al Gharafa,Al Sailiya,1,1,D,0,1,A
-QAT,28/09/2013,18:30,Lekhwiya SC,Al Arabi,4,1,H,2,0,H
-QAT,04/10/2013,16:15,Al Kharitiyath,El Jaish SC,0,1,A,0,1,A
-QAT,04/10/2013,16:15,Umm-Salal,Al Sadd,4,4,D,3,2,H
-QAT,04/10/2013,18:30,Qatar SC,Al Gharafa,1,1,D,1,0,H
-QAT,04/10/2013,18:30,Al Sailiya,Al Rayyan,5,1,H,2,1,H
-QAT,05/10/2013,16:15,Al Khor SC,Lekhwiya SC,0,0,D,0,0,D
-QAT,05/10/2013,18:30,Al Ahli Doha,Al Arabi,1,4,A,1,2,A
-QAT,05/10/2013,18:30,Al Wakrah,Muaither SC,3,1,H,1,1,D
-QAT,18/10/2013,16:15,Al Ahli Doha,Umm-Salal,3,1,H,NaN,NaN,NaN
-QAT,18/10/2013,16:15,Lekhwiya SC,Muaither SC,5,1,H,NaN,NaN,NaN
-QAT,18/10/2013,18:30,El Jaish SC,Al Wakrah,1,1,D,NaN,NaN,NaN
-QAT,18/10/2013,18:30,Al Sailiya,Al Kharitiyath,2,1,H,NaN,NaN,NaN
-QAT,19/10/2013,16:15,Al Sadd,Qatar SC,4,0,H,NaN,NaN,NaN
-QAT,19/10/2013,16:15,Al Arabi,Al Khor SC,2,2,D,NaN,NaN,NaN
-QAT,19/10/2013,18:30,Al Rayyan,Al Gharafa,1,3,A,NaN,NaN,NaN
-QAT,25/10/2013,16:15,Al Wakrah,Al Sadd,0,0,D,NaN,NaN,NaN
-QAT,25/10/2013,16:15,Al Khor SC,Al Sailiya,2,2,D,NaN,NaN,NaN
-QAT,25/10/2013,16:15,Qatar SC,Al Arabi,0,4,A,NaN,NaN,NaN
-QAT,25/10/2013,18:30,Umm-Salal,Al Rayyan,3,3,D,NaN,NaN,NaN
-QAT,26/10/2013,16:15,Al Kharitiyath,Al Ahli Doha,3,1,H,NaN,NaN,NaN
-QAT,26/10/2013,16:15,Muaither SC,El Jaish SC,2,4,A,NaN,NaN,NaN
-QAT,26/10/2013,18:30,Al Gharafa,Lekhwiya SC,1,2,A,NaN,NaN,NaN
-QAT,01/11/2013,13:15,Al Khor SC,Umm-Salal,0,0,D,NaN,NaN,NaN
-QAT,01/11/2013,13:15,Al Wakrah,Al Sailiya,1,1,D,NaN,NaN,NaN
-QAT,01/11/2013,15:30,Lekhwiya SC,El Jaish SC,0,1,A,NaN,NaN,NaN
-QAT,02/11/2013,13:15,Al Kharitiyath,Al Rayyan,2,3,A,NaN,NaN,NaN
-QAT,02/11/2013,13:15,Qatar SC,Al Ahli Doha,2,0,H,NaN,NaN,NaN
-QAT,02/11/2013,13:15,Muaither SC,Al Arabi,1,0,H,NaN,NaN,NaN
-QAT,02/11/2013,15:30,Al Gharafa,Al Sadd,1,1,D,NaN,NaN,NaN
-QAT,07/11/2013,13:15,Muaither SC,Al Gharafa,1,3,A,NaN,NaN,NaN
-QAT,07/11/2013,13:15,Umm-Salal,Al Sailiya,0,1,A,NaN,NaN,NaN
-QAT,07/11/2013,15:30,Qatar SC,El Jaish SC,1,2,A,NaN,NaN,NaN
-QAT,07/11/2013,15:30,Al Khor SC,Al Sadd,1,2,A,NaN,NaN,NaN
-QAT,08/11/2013,13:15,Al Ahli Doha,Al Rayyan,4,1,H,NaN,NaN,NaN
-QAT,08/11/2013,13:15,Al Kharitiyath,Al Arabi,1,1,D,NaN,NaN,NaN
-QAT,08/11/2013,15:30,Al Wakrah,Lekhwiya SC,1,4,A,NaN,NaN,NaN
-QAT,23/11/2013,13:00,Al Wakrah,Al Khor SC,2,2,D,NaN,NaN,NaN
-QAT,23/11/2013,13:00,Muaither SC,Al Kharitiyath,1,2,A,NaN,NaN,NaN
-QAT,23/11/2013,15:30,Al Gharafa,Umm-Salal,6,2,H,NaN,NaN,NaN
-QAT,24/11/2013,13:00,Al Rayyan,Qatar SC,0,0,D,NaN,NaN,NaN
-QAT,24/11/2013,13:00,Lekhwiya SC,Al Ahli Doha,0,1,A,NaN,NaN,NaN
-QAT,24/11/2013,15:30,El Jaish SC,Al Sailiya,1,0,H,NaN,NaN,NaN
-QAT,24/11/2013,15:30,Al Sadd,Al Arabi,2,0,H,NaN,NaN,NaN
-QAT,29/11/2013,13:00,Al Ahli Doha,Al Khor SC,2,2,D,NaN,NaN,NaN
-QAT,29/11/2013,13:00,Umm-Salal,Al Kharitiyath,0,0,D,NaN,NaN,NaN
-QAT,29/11/2013,15:30,El Jaish SC,Al Gharafa,2,1,H,NaN,NaN,NaN
-QAT,30/11/2013,13:00,Al Sadd,Muaither SC,5,1,H,NaN,NaN,NaN
-QAT,30/11/2013,13:00,Al Sailiya,Qatar SC,1,2,A,NaN,NaN,NaN
-QAT,30/11/2013,15:30,Al Rayyan,Lekhwiya SC,0,0,D,NaN,NaN,NaN
-QAT,30/11/2013,15:30,Al Arabi,Al Wakrah,2,0,H,NaN,NaN,NaN
-QAT,05/12/2013,13:00,Al Sailiya,Al Sadd,2,5,A,NaN,NaN,NaN
-QAT,05/12/2013,15:30,Al Arabi,Al Rayyan,1,0,H,NaN,NaN,NaN
-QAT,05/12/2013,15:30,Al Khor SC,Muaither SC,0,0,D,NaN,NaN,NaN
-QAT,06/12/2013,13:00,Al Ahli Doha,El Jaish SC,3,2,H,NaN,NaN,NaN
-QAT,06/12/2013,13:00,Qatar SC,Al Wakrah,1,1,D,NaN,NaN,NaN
-QAT,06/12/2013,15:30,Umm-Salal,Lekhwiya SC,0,1,A,NaN,NaN,NaN
-QAT,06/12/2013,15:30,Al Kharitiyath,Al Gharafa,2,2,D,NaN,NaN,NaN
-QAT,10/12/2013,13:00,Umm-Salal,Qatar SC,0,2,A,NaN,NaN,NaN
-QAT,10/12/2013,13:00,Al Sailiya,Muaither SC,4,1,H,NaN,NaN,NaN
-QAT,10/12/2013,15:30,Al Rayyan,El Jaish SC,1,0,H,NaN,NaN,NaN
-QAT,10/12/2013,15:30,Al Arabi,Al Gharafa,2,0,H,NaN,NaN,NaN
-QAT,11/12/2013,13:00,Al Ahli Doha,Al Wakrah,1,0,H,NaN,NaN,NaN
-QAT,11/12/2013,13:00,Al Kharitiyath,Al Khor SC,0,1,A,NaN,NaN,NaN
-QAT,11/12/2013,15:30,Al Sadd,Lekhwiya SC,2,3,A,NaN,NaN,NaN
-QAT,15/12/2013,13:00,El Jaish SC,Al Khor SC,0,1,A,NaN,NaN,NaN
-QAT,15/12/2013,13:00,Al Sailiya,Al Ahli Doha,2,5,A,NaN,NaN,NaN
-QAT,15/12/2013,15:30,Al Rayyan,Muaither SC,0,3,A,NaN,NaN,NaN
-QAT,15/12/2013,15:30,Al Gharafa,Al Wakrah,2,1,H,NaN,NaN,NaN
-QAT,16/12/2013,13:00,Al Arabi,Umm-Salal,0,1,A,NaN,NaN,NaN
-QAT,16/12/2013,15:30,Al Sadd,Al Kharitiyath,1,1,D,NaN,NaN,NaN
-QAT,16/12/2013,15:30,Lekhwiya SC,Qatar SC,4,2,H,NaN,NaN,NaN
-QAT,10/01/2014,13:15,Al Wakrah,Al Kharitiyath,2,3,A,NaN,NaN,NaN
-QAT,10/01/2014,13:15,Lekhwiya SC,Al Sailiya,0,0,D,NaN,NaN,NaN
-QAT,10/01/2014,15:45,El Jaish SC,Al Arabi,1,2,A,NaN,NaN,NaN
-QAT,10/01/2014,15:45,Al Rayyan,Al Sadd,2,2,D,NaN,NaN,NaN
-QAT,11/01/2014,13:15,Al Gharafa,Al Ahli Doha,5,4,H,NaN,NaN,NaN
-QAT,11/01/2014,13:15,Qatar SC,Al Khor SC,0,0,D,NaN,NaN,NaN
-QAT,11/01/2014,15:45,Muaither SC,Umm-Salal,0,4,A,NaN,NaN,NaN
-QAT,17/01/2014,13:15,Al Khor SC,Al Gharafa,3,0,H,NaN,NaN,NaN
-QAT,17/01/2014,13:15,Al Wakrah,Al Rayyan,2,1,H,NaN,NaN,NaN
-QAT,17/01/2014,13:15,Al Ahli Doha,Al Sadd,0,0,D,NaN,NaN,NaN
-QAT,18/01/2014,13:15,Al Sailiya,Al Arabi,2,3,A,NaN,NaN,NaN
-QAT,18/01/2014,13:15,Qatar SC,Muaither SC,2,1,H,NaN,NaN,NaN
-QAT,18/01/2014,15:45,Umm-Salal,El Jaish SC,2,1,H,NaN,NaN,NaN
-QAT,18/01/2014,15:45,Al Kharitiyath,Lekhwiya SC,1,3,A,NaN,NaN,NaN
-QAT,24/01/2014,13:30,Al Ahli Doha,Muaither SC,3,0,H,NaN,NaN,NaN
-QAT,24/01/2014,13:30,Al Kharitiyath,Qatar SC,3,1,H,NaN,NaN,NaN
-QAT,24/01/2014,16:00,Al Sadd,El Jaish SC,1,2,A,NaN,NaN,NaN
-QAT,25/01/2014,13:30,Umm-Salal,Al Wakrah,2,1,H,NaN,NaN,NaN
-QAT,25/01/2014,13:30,Al Rayyan,Al Khor SC,0,0,D,NaN,NaN,NaN
-QAT,25/01/2014,16:00,Al Sailiya,Al Gharafa,2,1,H,NaN,NaN,NaN
-QAT,25/01/2014,16:00,Al Arabi,Lekhwiya SC,2,5,A,NaN,NaN,NaN
-QAT,28/01/2014,13:30,Lekhwiya SC,Al Khor SC,3,1,H,NaN,NaN,NaN
-QAT,28/01/2014,13:30,Muaither SC,Al Wakrah,3,4,A,NaN,NaN,NaN
-QAT,28/01/2014,13:30,Al Arabi,Al Ahli Doha,3,6,A,NaN,NaN,NaN
-QAT,28/01/2014,16:00,Al Sadd,Umm-Salal,1,2,A,NaN,NaN,NaN
-QAT,28/01/2014,16:00,Al Rayyan,Al Sailiya,0,1,A,NaN,NaN,NaN
-QAT,28/01/2014,16:00,Al Gharafa,Qatar SC,1,2,A,NaN,NaN,NaN
-QAT,28/01/2014,16:00,El Jaish SC,Al Kharitiyath,2,1,H,NaN,NaN,NaN
-QAT,31/01/2014,13:30,Al Wakrah,El Jaish SC,1,4,A,NaN,NaN,NaN
-QAT,31/01/2014,13:30,Muaither SC,Lekhwiya SC,0,5,A,NaN,NaN,NaN
-QAT,31/01/2014,16:00,Al Gharafa,Al Rayyan,1,1,D,NaN,NaN,NaN
-QAT,31/01/2014,16:00,Al Khor SC,Al Arabi,3,3,D,NaN,NaN,NaN
-QAT,01/02/2014,13:30,Umm-Salal,Al Ahli Doha,3,1,H,NaN,NaN,NaN
-QAT,01/02/2014,13:30,Al Kharitiyath,Al Sailiya,0,0,D,NaN,NaN,NaN
-QAT,01/02/2014,16:00,Qatar SC,Al Sadd,0,1,A,NaN,NaN,NaN
-QAT,04/02/2014,13:45,El Jaish SC,Muaither SC,2,1,H,NaN,NaN,NaN
-QAT,04/02/2014,16:15,Lekhwiya SC,Al Gharafa,3,0,H,NaN,NaN,NaN
-QAT,06/02/2014,16:15,Al Sadd,Al Wakrah,2,2,D,NaN,NaN,NaN
-QAT,06/02/2014,16:15,Al Arabi,Qatar SC,1,0,H,NaN,NaN,NaN
-QAT,07/02/2014,13:45,Al Ahli Doha,Al Kharitiyath,1,0,H,NaN,NaN,NaN
-QAT,07/02/2014,13:45,Al Sailiya,Al Khor SC,2,0,H,NaN,NaN,NaN
-QAT,07/02/2014,16:15,Al Rayyan,Umm-Salal,1,1,D,NaN,NaN,NaN
-QAT,14/01/2014,15:45,El Jaish SC,Lekhwiya SC,1,2,A,NaN,NaN,NaN
-QAT,13/02/2014,13:45,Al Sailiya,Al Wakrah,3,2,H,NaN,NaN,NaN
-QAT,13/02/2014,16:15,Al Arabi,Muaither SC,0,2,A,NaN,NaN,NaN
-QAT,13/02/2014,16:15,Umm-Salal,Al Khor SC,1,0,H,NaN,NaN,NaN
-QAT,14/02/2014,13:45,Al Rayyan,Al Kharitiyath,2,1,H,NaN,NaN,NaN
-QAT,14/02/2014,13:45,Al Ahli Doha,Qatar SC,1,1,D,NaN,NaN,NaN
-QAT,14/02/2014,16:15,Al Sadd,Al Gharafa,4,2,H,NaN,NaN,NaN
-QAT,20/02/2014,13:45,Al Sadd,Al Khor SC,4,2,H,NaN,NaN,NaN
-QAT,20/02/2014,13:45,Lekhwiya SC,Al Wakrah,1,1,D,NaN,NaN,NaN
-QAT,20/02/2014,16:15,Al Rayyan,Al Ahli Doha,4,1,H,NaN,NaN,NaN
-QAT,20/02/2014,16:15,El Jaish SC,Qatar SC,3,1,H,NaN,NaN,NaN
-QAT,21/02/2014,13:45,Al Sailiya,Umm-Salal,0,1,A,NaN,NaN,NaN
-QAT,21/02/2014,13:45,Al Arabi,Al Kharitiyath,1,3,A,NaN,NaN,NaN
-QAT,21/02/2014,16:15,Al Gharafa,Muaither SC,3,0,H,NaN,NaN,NaN
-QAT,07/03/2014,15:15,Al Sailiya,El Jaish SC,1,1,D,NaN,NaN,NaN
-QAT,08/03/2014,15:15,Qatar SC,Al Rayyan,0,3,A,NaN,NaN,NaN
-QAT,08/03/2014,15:15,Al Ahli Doha,Lekhwiya SC,1,3,A,NaN,NaN,NaN
-QAT,08/03/2014,17:30,Al Arabi,Al Sadd,1,1,D,NaN,NaN,NaN
-QAT,08/03/2014,17:30,Al Kharitiyath,Muaither SC,3,2,H,NaN,NaN,NaN
-QAT,09/03/2014,15:15,Umm-Salal,Al Gharafa,0,1,A,NaN,NaN,NaN
-QAT,09/03/2014,17:30,Al Khor SC,Al Wakrah,5,0,H,NaN,NaN,NaN
-QAT,22/03/2014,15:15,Al Wakrah,Al Arabi,0,1,A,0,1,A
-QAT,22/03/2014,15:15,Al Kharitiyath,Umm-Salal,0,0,D,0,0,D
-QAT,22/03/2014,17:30,Qatar SC,Al Sailiya,3,3,D,1,2,A
-QAT,23/03/2014,15:15,Muaither SC,Al Sadd,1,4,A,1,1,D
-QAT,23/03/2014,15:15,Al Khor SC,Al Ahli Doha,1,1,D,0,0,D
-QAT,23/03/2014,17:30,Lekhwiya SC,Al Rayyan,2,0,H,0,0,D
-QAT,23/03/2014,17:30,Al Gharafa,El Jaish SC,1,1,D,0,0,D
-QAT,28/03/2014,15:15,Al Sadd,Al Sailiya,1,2,A,1,0,H
-QAT,28/03/2014,15:15,El Jaish SC,Al Ahli Doha,4,3,H,3,0,H
-QAT,28/03/2014,17:30,Lekhwiya SC,Umm-Salal,2,1,H,2,0,H
-QAT,28/03/2014,17:30,Al Rayyan,Al Arabi,1,1,D,1,0,H
-QAT,29/03/2014,15:15,Al Gharafa,Al Kharitiyath,1,0,H,1,0,H
-QAT,29/03/2014,17:30,Al Wakrah,Qatar SC,3,2,H,0,1,A
-QAT,29/03/2014,17:30,Muaither SC,Al Khor SC,1,2,A,1,1,D
-QAT,05/04/2014,16:30,Al Wakrah,Al Ahli Doha,4,1,H,1,1,D
-QAT,05/04/2014,16:30,Al Gharafa,Al Arabi,1,2,A,1,0,H
-QAT,05/04/2014,18:45,Muaither SC,Al Sailiya,0,2,A,0,2,A
-QAT,05/04/2014,18:45,Qatar SC,Umm-Salal,1,2,A,0,1,A
-QAT,06/04/2014,16:30,Al Khor SC,Al Kharitiyath,0,0,D,0,0,D
-QAT,06/04/2014,16:30,El Jaish SC,Al Rayyan,1,0,H,0,0,D
-QAT,06/04/2014,18:45,Lekhwiya SC,Al Sadd,0,2,A,0,0,D
-QAT,11/04/2014,16:30,Al Kharitiyath,Al Sadd,0,3,A,0,1,A
-QAT,11/04/2014,16:30,Al Wakrah,Al Gharafa,2,1,H,0,0,D
-QAT,11/04/2014,16:30,Muaither SC,Al Rayyan,2,4,A,1,2,A
-QAT,11/04/2014,16:30,Al Khor SC,El Jaish SC,0,0,D,0,0,D
-QAT,11/04/2014,16:30,Al Ahli Doha,Al Sailiya,2,2,D,1,1,D
-QAT,11/04/2014,16:30,Qatar SC,Lekhwiya SC,5,0,H,3,0,H
-QAT,11/04/2014,18:45,Umm-Salal,Al Arabi,2,3,A,1,1,D
+QAT,2013-09-13,16:15,Al Sadd,Al Rayyan,1,0,H,0.0,0.0,D
+QAT,2013-09-13,18:30,Umm-Salal,Muaither SC,1,2,A,0.0,1.0,A
+QAT,2013-09-13,18:30,Al Khor SC,Qatar SC,1,1,D,0.0,0.0,D
+QAT,2013-09-13,18:30,Al Sailiya,Lekhwiya SC,3,3,D,2.0,2.0,D
+QAT,2013-09-14,16:15,Al Ahli Doha,Al Gharafa,1,1,D,0.0,1.0,A
+QAT,2013-09-14,18:30,Al Arabi,El Jaish SC,1,1,D,0.0,1.0,A
+QAT,2013-09-14,18:30,Al Kharitiyath,Al Wakrah,2,2,D,2.0,2.0,D
+QAT,2013-09-20,16:15,Al Arabi,Al Sailiya,0,1,A,0.0,1.0,A
+QAT,2013-09-20,16:15,Muaither SC,Qatar SC,0,3,A,0.0,3.0,A
+QAT,2013-09-20,18:30,Al Gharafa,Al Khor SC,0,0,D,0.0,0.0,D
+QAT,2013-09-20,18:30,Al Sadd,Al Ahli Doha,1,0,H,1.0,0.0,H
+QAT,2013-09-21,16:15,Lekhwiya SC,Al Kharitiyath,0,2,A,0.0,1.0,A
+QAT,2013-09-21,18:30,El Jaish SC,Umm-Salal,0,0,D,0.0,0.0,D
+QAT,2013-09-21,18:30,Al Rayyan,Al Wakrah,1,3,A,0.0,0.0,D
+QAT,2013-09-27,16:15,Al Khor SC,Al Rayyan,0,4,A,0.0,1.0,A
+QAT,2013-09-27,16:15,Al Wakrah,Umm-Salal,2,1,H,0.0,1.0,A
+QAT,2013-09-27,18:30,El Jaish SC,Al Sadd,1,0,H,1.0,0.0,H
+QAT,2013-09-27,18:30,Qatar SC,Al Kharitiyath,1,0,H,0.0,0.0,D
+QAT,2013-09-28,16:15,Muaither SC,Al Ahli Doha,1,1,D,1.0,0.0,H
+QAT,2013-09-28,18:30,Al Gharafa,Al Sailiya,1,1,D,0.0,1.0,A
+QAT,2013-09-28,18:30,Lekhwiya SC,Al Arabi,4,1,H,2.0,0.0,H
+QAT,2013-10-04,16:15,Al Kharitiyath,El Jaish SC,0,1,A,0.0,1.0,A
+QAT,2013-10-04,16:15,Umm-Salal,Al Sadd,4,4,D,3.0,2.0,H
+QAT,2013-10-04,18:30,Qatar SC,Al Gharafa,1,1,D,1.0,0.0,H
+QAT,2013-10-04,18:30,Al Sailiya,Al Rayyan,5,1,H,2.0,1.0,H
+QAT,2013-10-05,16:15,Al Khor SC,Lekhwiya SC,0,0,D,0.0,0.0,D
+QAT,2013-10-05,18:30,Al Ahli Doha,Al Arabi,1,4,A,1.0,2.0,A
+QAT,2013-10-05,18:30,Al Wakrah,Muaither SC,3,1,H,1.0,1.0,D
+QAT,2013-10-18,16:15,Al Ahli Doha,Umm-Salal,3,1,H,,,
+QAT,2013-10-18,16:15,Lekhwiya SC,Muaither SC,5,1,H,,,
+QAT,2013-10-18,18:30,El Jaish SC,Al Wakrah,1,1,D,,,
+QAT,2013-10-18,18:30,Al Sailiya,Al Kharitiyath,2,1,H,,,
+QAT,2013-10-19,16:15,Al Sadd,Qatar SC,4,0,H,,,
+QAT,2013-10-19,16:15,Al Arabi,Al Khor SC,2,2,D,,,
+QAT,2013-10-19,18:30,Al Rayyan,Al Gharafa,1,3,A,,,
+QAT,2013-10-25,16:15,Al Wakrah,Al Sadd,0,0,D,,,
+QAT,2013-10-25,16:15,Al Khor SC,Al Sailiya,2,2,D,,,
+QAT,2013-10-25,16:15,Qatar SC,Al Arabi,0,4,A,,,
+QAT,2013-10-25,18:30,Umm-Salal,Al Rayyan,3,3,D,,,
+QAT,2013-10-26,16:15,Al Kharitiyath,Al Ahli Doha,3,1,H,,,
+QAT,2013-10-26,16:15,Muaither SC,El Jaish SC,2,4,A,,,
+QAT,2013-10-26,18:30,Al Gharafa,Lekhwiya SC,1,2,A,,,
+QAT,2013-11-01,13:15,Al Khor SC,Umm-Salal,0,0,D,,,
+QAT,2013-11-01,13:15,Al Wakrah,Al Sailiya,1,1,D,,,
+QAT,2013-11-01,15:30,Lekhwiya SC,El Jaish SC,0,1,A,,,
+QAT,2013-11-02,13:15,Al Kharitiyath,Al Rayyan,2,3,A,,,
+QAT,2013-11-02,13:15,Qatar SC,Al Ahli Doha,2,0,H,,,
+QAT,2013-11-02,13:15,Muaither SC,Al Arabi,1,0,H,,,
+QAT,2013-11-02,15:30,Al Gharafa,Al Sadd,1,1,D,,,
+QAT,2013-11-07,13:15,Muaither SC,Al Gharafa,1,3,A,,,
+QAT,2013-11-07,13:15,Umm-Salal,Al Sailiya,0,1,A,,,
+QAT,2013-11-07,15:30,Qatar SC,El Jaish SC,1,2,A,,,
+QAT,2013-11-07,15:30,Al Khor SC,Al Sadd,1,2,A,,,
+QAT,2013-11-08,13:15,Al Ahli Doha,Al Rayyan,4,1,H,,,
+QAT,2013-11-08,13:15,Al Kharitiyath,Al Arabi,1,1,D,,,
+QAT,2013-11-08,15:30,Al Wakrah,Lekhwiya SC,1,4,A,,,
+QAT,2013-11-23,13:00,Al Wakrah,Al Khor SC,2,2,D,,,
+QAT,2013-11-23,13:00,Muaither SC,Al Kharitiyath,1,2,A,,,
+QAT,2013-11-23,15:30,Al Gharafa,Umm-Salal,6,2,H,,,
+QAT,2013-11-24,13:00,Al Rayyan,Qatar SC,0,0,D,,,
+QAT,2013-11-24,13:00,Lekhwiya SC,Al Ahli Doha,0,1,A,,,
+QAT,2013-11-24,15:30,El Jaish SC,Al Sailiya,1,0,H,,,
+QAT,2013-11-24,15:30,Al Sadd,Al Arabi,2,0,H,,,
+QAT,2013-11-29,13:00,Al Ahli Doha,Al Khor SC,2,2,D,,,
+QAT,2013-11-29,13:00,Umm-Salal,Al Kharitiyath,0,0,D,,,
+QAT,2013-11-29,15:30,El Jaish SC,Al Gharafa,2,1,H,,,
+QAT,2013-11-30,13:00,Al Sadd,Muaither SC,5,1,H,,,
+QAT,2013-11-30,13:00,Al Sailiya,Qatar SC,1,2,A,,,
+QAT,2013-11-30,15:30,Al Rayyan,Lekhwiya SC,0,0,D,,,
+QAT,2013-11-30,15:30,Al Arabi,Al Wakrah,2,0,H,,,
+QAT,2013-12-05,13:00,Al Sailiya,Al Sadd,2,5,A,,,
+QAT,2013-12-05,15:30,Al Arabi,Al Rayyan,1,0,H,,,
+QAT,2013-12-05,15:30,Al Khor SC,Muaither SC,0,0,D,,,
+QAT,2013-12-06,13:00,Al Ahli Doha,El Jaish SC,3,2,H,,,
+QAT,2013-12-06,13:00,Qatar SC,Al Wakrah,1,1,D,,,
+QAT,2013-12-06,15:30,Umm-Salal,Lekhwiya SC,0,1,A,,,
+QAT,2013-12-06,15:30,Al Kharitiyath,Al Gharafa,2,2,D,,,
+QAT,2013-12-10,13:00,Umm-Salal,Qatar SC,0,2,A,,,
+QAT,2013-12-10,13:00,Al Sailiya,Muaither SC,4,1,H,,,
+QAT,2013-12-10,15:30,Al Rayyan,El Jaish SC,1,0,H,,,
+QAT,2013-12-10,15:30,Al Arabi,Al Gharafa,2,0,H,,,
+QAT,2013-12-11,13:00,Al Ahli Doha,Al Wakrah,1,0,H,,,
+QAT,2013-12-11,13:00,Al Kharitiyath,Al Khor SC,0,1,A,,,
+QAT,2013-12-11,15:30,Al Sadd,Lekhwiya SC,2,3,A,,,
+QAT,2013-12-15,13:00,El Jaish SC,Al Khor SC,0,1,A,,,
+QAT,2013-12-15,13:00,Al Sailiya,Al Ahli Doha,2,5,A,,,
+QAT,2013-12-15,15:30,Al Rayyan,Muaither SC,0,3,A,,,
+QAT,2013-12-15,15:30,Al Gharafa,Al Wakrah,2,1,H,,,
+QAT,2013-12-16,13:00,Al Arabi,Umm-Salal,0,1,A,,,
+QAT,2013-12-16,15:30,Al Sadd,Al Kharitiyath,1,1,D,,,
+QAT,2013-12-16,15:30,Lekhwiya SC,Qatar SC,4,2,H,,,
+QAT,2014-01-10,13:15,Al Wakrah,Al Kharitiyath,2,3,A,,,
+QAT,2014-01-10,13:15,Lekhwiya SC,Al Sailiya,0,0,D,,,
+QAT,2014-01-10,15:45,El Jaish SC,Al Arabi,1,2,A,,,
+QAT,2014-01-10,15:45,Al Rayyan,Al Sadd,2,2,D,,,
+QAT,2014-01-11,13:15,Al Gharafa,Al Ahli Doha,5,4,H,,,
+QAT,2014-01-11,13:15,Qatar SC,Al Khor SC,0,0,D,,,
+QAT,2014-01-11,15:45,Muaither SC,Umm-Salal,0,4,A,,,
+QAT,2014-01-14,15:45,El Jaish SC,Lekhwiya SC,1,2,A,,,
+QAT,2014-01-17,13:15,Al Khor SC,Al Gharafa,3,0,H,,,
+QAT,2014-01-17,13:15,Al Wakrah,Al Rayyan,2,1,H,,,
+QAT,2014-01-17,13:15,Al Ahli Doha,Al Sadd,0,0,D,,,
+QAT,2014-01-18,13:15,Al Sailiya,Al Arabi,2,3,A,,,
+QAT,2014-01-18,13:15,Qatar SC,Muaither SC,2,1,H,,,
+QAT,2014-01-18,15:45,Umm-Salal,El Jaish SC,2,1,H,,,
+QAT,2014-01-18,15:45,Al Kharitiyath,Lekhwiya SC,1,3,A,,,
+QAT,2014-01-24,13:30,Al Ahli Doha,Muaither SC,3,0,H,,,
+QAT,2014-01-24,13:30,Al Kharitiyath,Qatar SC,3,1,H,,,
+QAT,2014-01-24,16:00,Al Sadd,El Jaish SC,1,2,A,,,
+QAT,2014-01-25,13:30,Umm-Salal,Al Wakrah,2,1,H,,,
+QAT,2014-01-25,13:30,Al Rayyan,Al Khor SC,0,0,D,,,
+QAT,2014-01-25,16:00,Al Sailiya,Al Gharafa,2,1,H,,,
+QAT,2014-01-25,16:00,Al Arabi,Lekhwiya SC,2,5,A,,,
+QAT,2014-01-28,13:30,Lekhwiya SC,Al Khor SC,3,1,H,,,
+QAT,2014-01-28,13:30,Muaither SC,Al Wakrah,3,4,A,,,
+QAT,2014-01-28,13:30,Al Arabi,Al Ahli Doha,3,6,A,,,
+QAT,2014-01-28,16:00,Al Sadd,Umm-Salal,1,2,A,,,
+QAT,2014-01-28,16:00,Al Rayyan,Al Sailiya,0,1,A,,,
+QAT,2014-01-28,16:00,Al Gharafa,Qatar SC,1,2,A,,,
+QAT,2014-01-28,16:00,El Jaish SC,Al Kharitiyath,2,1,H,,,
+QAT,2014-01-31,13:30,Al Wakrah,El Jaish SC,1,4,A,,,
+QAT,2014-01-31,13:30,Muaither SC,Lekhwiya SC,0,5,A,,,
+QAT,2014-01-31,16:00,Al Gharafa,Al Rayyan,1,1,D,,,
+QAT,2014-01-31,16:00,Al Khor SC,Al Arabi,3,3,D,,,
+QAT,2014-02-01,13:30,Umm-Salal,Al Ahli Doha,3,1,H,,,
+QAT,2014-02-01,13:30,Al Kharitiyath,Al Sailiya,0,0,D,,,
+QAT,2014-02-01,16:00,Qatar SC,Al Sadd,0,1,A,,,
+QAT,2014-02-04,13:45,El Jaish SC,Muaither SC,2,1,H,,,
+QAT,2014-02-04,16:15,Lekhwiya SC,Al Gharafa,3,0,H,,,
+QAT,2014-02-06,16:15,Al Sadd,Al Wakrah,2,2,D,,,
+QAT,2014-02-06,16:15,Al Arabi,Qatar SC,1,0,H,,,
+QAT,2014-02-07,13:45,Al Ahli Doha,Al Kharitiyath,1,0,H,,,
+QAT,2014-02-07,13:45,Al Sailiya,Al Khor SC,2,0,H,,,
+QAT,2014-02-07,16:15,Al Rayyan,Umm-Salal,1,1,D,,,
+QAT,2014-02-13,13:45,Al Sailiya,Al Wakrah,3,2,H,,,
+QAT,2014-02-13,16:15,Al Arabi,Muaither SC,0,2,A,,,
+QAT,2014-02-13,16:15,Umm-Salal,Al Khor SC,1,0,H,,,
+QAT,2014-02-14,13:45,Al Rayyan,Al Kharitiyath,2,1,H,,,
+QAT,2014-02-14,13:45,Al Ahli Doha,Qatar SC,1,1,D,,,
+QAT,2014-02-14,16:15,Al Sadd,Al Gharafa,4,2,H,,,
+QAT,2014-02-20,13:45,Al Sadd,Al Khor SC,4,2,H,,,
+QAT,2014-02-20,13:45,Lekhwiya SC,Al Wakrah,1,1,D,,,
+QAT,2014-02-20,16:15,Al Rayyan,Al Ahli Doha,4,1,H,,,
+QAT,2014-02-20,16:15,El Jaish SC,Qatar SC,3,1,H,,,
+QAT,2014-02-21,13:45,Al Sailiya,Umm-Salal,0,1,A,,,
+QAT,2014-02-21,13:45,Al Arabi,Al Kharitiyath,1,3,A,,,
+QAT,2014-02-21,16:15,Al Gharafa,Muaither SC,3,0,H,,,
+QAT,2014-03-07,15:15,Al Sailiya,El Jaish SC,1,1,D,,,
+QAT,2014-03-08,15:15,Qatar SC,Al Rayyan,0,3,A,,,
+QAT,2014-03-08,15:15,Al Ahli Doha,Lekhwiya SC,1,3,A,,,
+QAT,2014-03-08,17:30,Al Arabi,Al Sadd,1,1,D,,,
+QAT,2014-03-08,17:30,Al Kharitiyath,Muaither SC,3,2,H,,,
+QAT,2014-03-09,15:15,Umm-Salal,Al Gharafa,0,1,A,,,
+QAT,2014-03-09,17:30,Al Khor SC,Al Wakrah,5,0,H,,,
+QAT,2014-03-22,15:15,Al Wakrah,Al Arabi,0,1,A,0.0,1.0,A
+QAT,2014-03-22,15:15,Al Kharitiyath,Umm-Salal,0,0,D,0.0,0.0,D
+QAT,2014-03-22,17:30,Qatar SC,Al Sailiya,3,3,D,1.0,2.0,A
+QAT,2014-03-23,15:15,Muaither SC,Al Sadd,1,4,A,1.0,1.0,D
+QAT,2014-03-23,15:15,Al Khor SC,Al Ahli Doha,1,1,D,0.0,0.0,D
+QAT,2014-03-23,17:30,Lekhwiya SC,Al Rayyan,2,0,H,0.0,0.0,D
+QAT,2014-03-23,17:30,Al Gharafa,El Jaish SC,1,1,D,0.0,0.0,D
+QAT,2014-03-28,15:15,Al Sadd,Al Sailiya,1,2,A,1.0,0.0,H
+QAT,2014-03-28,15:15,El Jaish SC,Al Ahli Doha,4,3,H,3.0,0.0,H
+QAT,2014-03-28,17:30,Lekhwiya SC,Umm-Salal,2,1,H,2.0,0.0,H
+QAT,2014-03-28,17:30,Al Rayyan,Al Arabi,1,1,D,1.0,0.0,H
+QAT,2014-03-29,15:15,Al Gharafa,Al Kharitiyath,1,0,H,1.0,0.0,H
+QAT,2014-03-29,17:30,Al Wakrah,Qatar SC,3,2,H,0.0,1.0,A
+QAT,2014-03-29,17:30,Muaither SC,Al Khor SC,1,2,A,1.0,1.0,D
+QAT,2014-04-05,16:30,Al Wakrah,Al Ahli Doha,4,1,H,1.0,1.0,D
+QAT,2014-04-05,16:30,Al Gharafa,Al Arabi,1,2,A,1.0,0.0,H
+QAT,2014-04-05,18:45,Muaither SC,Al Sailiya,0,2,A,0.0,2.0,A
+QAT,2014-04-05,18:45,Qatar SC,Umm-Salal,1,2,A,0.0,1.0,A
+QAT,2014-04-06,16:30,Al Khor SC,Al Kharitiyath,0,0,D,0.0,0.0,D
+QAT,2014-04-06,16:30,El Jaish SC,Al Rayyan,1,0,H,0.0,0.0,D
+QAT,2014-04-06,18:45,Lekhwiya SC,Al Sadd,0,2,A,0.0,0.0,D
+QAT,2014-04-11,16:30,Al Kharitiyath,Al Sadd,0,3,A,0.0,1.0,A
+QAT,2014-04-11,16:30,Al Wakrah,Al Gharafa,2,1,H,0.0,0.0,D
+QAT,2014-04-11,16:30,Muaither SC,Al Rayyan,2,4,A,1.0,2.0,A
+QAT,2014-04-11,16:30,Al Khor SC,El Jaish SC,0,0,D,0.0,0.0,D
+QAT,2014-04-11,16:30,Al Ahli Doha,Al Sailiya,2,2,D,1.0,1.0,D
+QAT,2014-04-11,16:30,Qatar SC,Lekhwiya SC,5,0,H,3.0,0.0,H
+QAT,2014-04-11,18:45,Umm-Salal,Al Arabi,2,3,A,1.0,1.0,D

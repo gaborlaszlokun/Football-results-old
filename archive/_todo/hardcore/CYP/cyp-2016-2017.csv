@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CYP,2016-08-20,16:00,Omonia Nikosia,Ermis Aradippou,3,1,H,2,1,H
+CYP,2016-08-20,18:00,Nea Salamina,Apollon Limassol,0,3,A,0,2,A
+CYP,2016-08-21,16:00,AE Zakakiou,Ethnikos Achna,3,1,H,1,0,H
+CYP,2016-08-21,18:00,AEL Limassol,Anagennisi Derynias,1,0,H,0,0,D
+CYP,2016-08-22,17:00,Aris Limassol FC,Karmiotissa Polemidion,1,1,D,0,1,A
+CYP,2016-08-27,16:00,Doxa Katokopias FC,AEL Limassol,1,3,A,0,2,A
+CYP,2016-08-27,17:00,Anagennisi Derynias,Omonia Nikosia,2,2,D,2,2,D
+CYP,2016-08-27,17:00,Apollon Limassol,Aris Limassol FC,0,0,D,0,0,D
+CYP,2016-08-27,18:00,Anorthosis Famagusta FC,Nea Salamina,0,0,D,0,0,D
+CYP,2016-08-28,16:00,Karmiotissa Polemidion,AE Zakakiou,0,0,D,0,0,D
+CYP,2016-08-28,18:00,APOEL Nikosia,Ermis Aradippou,3,0,H,1,0,H
+CYP,2016-09-10,16:00,AEK Larnaca,Karmiotissa Polemidion,3,0,H,1,0,H
+CYP,2016-09-10,17:00,Omonia Nikosia,Doxa Katokopias FC,1,1,D,1,0,H
+CYP,2016-09-10,18:00,Nea Salamina,APOEL Nikosia,0,4,A,0,1,A
+CYP,2016-09-11,16:00,AE Zakakiou,Apollon Limassol,0,4,A,0,2,A
+CYP,2016-09-11,17:00,Ermis Aradippou,Anagennisi Derynias,1,0,H,0,0,D
+CYP,2016-09-11,18:00,Aris Limassol FC,Anorthosis Famagusta FC,1,2,A,1,0,H
+CYP,2016-09-12,17:00,AEL Limassol,Ethnikos Achna,0,0,D,0,0,D
+CYP,2016-09-14,17:00,AEK Larnaca,Doxa Katokopias FC,2,0,H,1,0,H
+CYP,2016-09-17,16:00,Ethnikos Achna,Omonia Nikosia,1,2,A,0,1,A
+CYP,2016-09-17,18:00,Anorthosis Famagusta FC,AE Zakakiou,2,2,D,0,0,D
+CYP,2016-09-18,16:00,Apollon Limassol,AEK Larnaca,0,1,A,0,0,D
+CYP,2016-09-18,16:00,APOEL Nikosia,Anagennisi Derynias,2,0,H,0,0,D
+CYP,2016-09-18,17:00,Doxa Katokopias FC,Ermis Aradippou,1,2,A,0,1,A
+CYP,2016-09-18,18:00,Nea Salamina,Aris Limassol FC,0,0,D,0,0,D
+CYP,2016-09-19,17:00,Karmiotissa Polemidion,AEL Limassol,0,1,A,0,1,A
+CYP,2016-09-21,16:00,Anorthosis Famagusta FC,APOEL Nikosia,0,0,D,0,0,D
+CYP,2016-09-21,17:00,Ethnikos Achna,AEK Larnaca,0,3,A,0,2,A
+CYP,2016-09-24,16:00,AE Zakakiou,Nea Salamina,1,5,A,1,2,A
+CYP,2016-09-24,17:00,Omonia Nikosia,Karmiotissa Polemidion,4,2,H,1,1,D
+CYP,2016-09-24,18:00,AEL Limassol,Apollon Limassol,2,1,H,1,1,D
+CYP,2016-09-25,16:00,AEK Larnaca,Anorthosis Famagusta FC,4,1,H,2,0,H
+CYP,2016-09-25,17:00,Aris Limassol FC,APOEL Nikosia,0,3,A,0,1,A
+CYP,2016-09-25,18:00,Anagennisi Derynias,Doxa Katokopias FC,0,1,A,0,0,D
+CYP,2016-09-26,17:00,Ermis Aradippou,Ethnikos Achna,2,1,H,1,0,H
+CYP,2016-10-01,16:00,Aris Limassol FC,AE Zakakiou,0,0,D,0,0,D
+CYP,2016-10-01,17:00,Ethnikos Achna,Anagennisi Derynias,5,3,H,4,2,H
+CYP,2016-10-01,18:00,Anorthosis Famagusta FC,AEL Limassol,0,0,D,0,0,D
+CYP,2016-10-02,16:00,Karmiotissa Polemidion,Ermis Aradippou,3,0,H,1,0,H
+CYP,2016-10-02,16:00,Apollon Limassol,Omonia Nikosia,2,1,H,2,0,H
+CYP,2016-10-02,18:00,Nea Salamina,AEK Larnaca,0,1,A,0,1,A
+CYP,2016-10-02,18:00,APOEL Nikosia,Doxa Katokopias FC,2,0,H,0,0,D
+CYP,2016-10-15,16:00,AE Zakakiou,APOEL Nikosia,1,4,A,0,2,A
+CYP,2016-10-15,16:00,Omonia Nikosia,Anorthosis Famagusta FC,2,0,H,1,0,H
+CYP,2016-10-15,18:00,AEL Limassol,Nea Salamina,3,0,H,2,0,H
+CYP,2016-10-16,16:00,Anagennisi Derynias,Karmiotissa Polemidion,0,1,A,0,0,D
+CYP,2016-10-16,17:00,Ermis Aradippou,Apollon Limassol,3,2,H,1,2,A
+CYP,2016-10-16,18:00,Doxa Katokopias FC,Ethnikos Achna,0,0,D,0,0,D
+CYP,2016-10-17,17:00,AEK Larnaca,Aris Limassol FC,4,0,H,3,0,H
+CYP,2016-10-22,16:00,Karmiotissa Polemidion,Doxa Katokopias FC,1,0,H,0,0,D
+CYP,2016-10-22,16:00,Apollon Limassol,Anagennisi Derynias,4,0,H,2,0,H
+CYP,2016-10-22,18:00,Nea Salamina,Omonia Nikosia,1,1,D,0,0,D
+CYP,2016-10-23,16:00,AE Zakakiou,AEK Larnaca,2,5,A,0,2,A
+CYP,2016-10-23,17:00,Aris Limassol FC,AEL Limassol,0,3,A,0,1,A
+CYP,2016-10-23,18:00,Anorthosis Famagusta FC,Ermis Aradippou,2,2,D,2,0,H
+CYP,2016-10-24,17:00,APOEL Nikosia,Ethnikos Achna,2,0,H,0,0,D
+CYP,2016-10-29,16:00,Omonia Nikosia,Aris Limassol FC,3,1,H,2,0,H
+CYP,2016-10-29,16:00,Ethnikos Achna,Karmiotissa Polemidion,4,2,H,2,0,H
+CYP,2016-10-29,18:00,AEK Larnaca,APOEL Nikosia,1,1,D,0,0,D
+CYP,2016-10-30,16:00,Doxa Katokopias FC,Apollon Limassol,0,1,A,0,0,D
+CYP,2016-10-30,17:00,AEL Limassol,AE Zakakiou,1,1,D,0,0,D
+CYP,2016-10-30,17:00,Ermis Aradippou,Nea Salamina,1,2,A,0,1,A
+CYP,2016-10-31,17:00,Anagennisi Derynias,Anorthosis Famagusta FC,1,2,A,1,1,D
+CYP,2016-11-05,15:00,AE Zakakiou,Omonia Nikosia,0,1,A,0,1,A
+CYP,2016-11-05,16:00,Aris Limassol FC,Ermis Aradippou,0,2,A,0,0,D
+CYP,2016-11-05,17:00,AEK Larnaca,AEL Limassol,2,1,H,0,1,A
+CYP,2016-11-06,14:00,Anorthosis Famagusta FC,Doxa Katokopias FC,3,0,H,1,0,H
+CYP,2016-11-06,15:00,Nea Salamina,Anagennisi Derynias,2,0,H,2,0,H
+CYP,2016-11-06,15:00,Apollon Limassol,Ethnikos Achna,3,2,H,0,2,A
+CYP,2016-11-06,16:00,APOEL Nikosia,Karmiotissa Polemidion,4,1,H,1,1,D
+CYP,2016-11-19,15:00,Ermis Aradippou,AE Zakakiou,2,1,H,1,1,D
+CYP,2016-11-19,17:00,AEL Limassol,APOEL Nikosia,1,0,H,0,0,D
+CYP,2016-11-20,14:00,Omonia Nikosia,AEK Larnaca,2,1,H,1,0,H
+CYP,2016-11-20,14:00,Anagennisi Derynias,Aris Limassol FC,1,2,A,0,0,D
+CYP,2016-11-20,15:00,Doxa Katokopias FC,Nea Salamina,0,0,D,0,0,D
+CYP,2016-11-20,16:00,Karmiotissa Polemidion,Apollon Limassol,0,6,A,0,3,A
+CYP,2016-11-21,17:00,Ethnikos Achna,Anorthosis Famagusta FC,2,1,H,1,0,H
+CYP,2016-11-26,15:00,AEK Larnaca,Ermis Aradippou,1,0,H,0,0,D
+CYP,2016-11-26,16:00,Nea Salamina,Ethnikos Achna,1,0,H,0,0,D
+CYP,2016-11-26,17:00,AEL Limassol,Omonia Nikosia,1,0,H,0,0,D
+CYP,2016-11-27,14:00,AE Zakakiou,Anagennisi Derynias,1,1,D,0,0,D
+CYP,2016-11-27,15:00,Aris Limassol FC,Doxa Katokopias FC,4,0,H,1,0,H
+CYP,2016-11-27,16:00,Anorthosis Famagusta FC,Karmiotissa Polemidion,0,1,A,0,1,A
+CYP,2016-11-28,17:00,APOEL Nikosia,Apollon Limassol,1,1,D,0,0,D
+CYP,2016-12-03,15:00,Omonia Nikosia,APOEL Nikosia,1,4,A,0,3,A
+CYP,2016-12-03,15:00,Anagennisi Derynias,AEK Larnaca,0,0,D,0,0,D
+CYP,2016-12-03,17:00,Karmiotissa Polemidion,Nea Salamina,1,0,H,1,0,H
+CYP,2016-12-04,14:00,Ethnikos Achna,Aris Limassol FC,2,0,H,0,0,D
+CYP,2016-12-04,14:00,Apollon Limassol,Anorthosis Famagusta FC,1,1,D,1,0,H
+CYP,2016-12-04,16:00,Ermis Aradippou,AEL Limassol,0,1,A,0,0,D
+CYP,2016-12-05,17:00,Doxa Katokopias FC,AE Zakakiou,1,0,H,1,0,H
+CYP,2016-12-10,15:00,Apollon Limassol,Nea Salamina,1,1,D,1,0,H
+CYP,2016-12-10,15:00,Anagennisi Derynias,AEL Limassol,1,3,A,1,2,A
+CYP,2016-12-10,17:00,Ermis Aradippou,Omonia Nikosia,2,2,D,0,1,A
+CYP,2016-12-11,14:00,Ethnikos Achna,AE Zakakiou,3,1,H,3,0,H
+CYP,2016-12-11,15:00,Karmiotissa Polemidion,Aris Limassol FC,3,3,D,1,2,A
+CYP,2016-12-11,16:00,Doxa Katokopias FC,AEK Larnaca,1,1,D,0,1,A
+CYP,2016-12-12,17:00,APOEL Nikosia,Anorthosis Famagusta FC,2,1,H,1,0,H
+CYP,2016-12-16,15:00,AE Zakakiou,Karmiotissa Polemidion,3,3,D,1,2,A
+CYP,2016-12-16,16:00,Nea Salamina,Anorthosis Famagusta FC,2,1,H,0,1,A
+CYP,2016-12-16,17:00,Aris Limassol FC,Apollon Limassol,1,4,A,0,1,A
+CYP,2016-12-17,14:00,Omonia Nikosia,Anagennisi Derynias,5,1,H,3,0,H
+CYP,2016-12-17,14:00,AEK Larnaca,Ethnikos Achna,1,0,H,0,0,D
+CYP,2016-12-17,15:00,AEL Limassol,Doxa Katokopias FC,1,0,H,0,0,D
+CYP,2016-12-17,16:00,Ermis Aradippou,APOEL Nikosia,1,1,D,1,0,H
+CYP,2016-12-21,15:00,Karmiotissa Polemidion,AEK Larnaca,0,3,A,0,1,A
+CYP,2016-12-21,15:00,Doxa Katokopias FC,Omonia Nikosia,2,3,A,1,1,D
+CYP,2016-12-21,16:00,Apollon Limassol,AE Zakakiou,2,1,H,0,0,D
+CYP,2016-12-21,16:00,Anagennisi Derynias,Ermis Aradippou,2,2,D,0,1,A
+CYP,2016-12-21,17:00,APOEL Nikosia,Nea Salamina,1,0,H,0,0,D
+CYP,2016-12-22,14:00,Ethnikos Achna,AEL Limassol,2,2,D,2,1,H
+CYP,2016-12-22,15:00,Anorthosis Famagusta FC,Aris Limassol FC,2,0,H,1,0,H
+CYP,2017-01-03,15:00,AE Zakakiou,Anorthosis Famagusta FC,0,2,A,0,1,A
+CYP,2017-01-03,15:00,Aris Limassol FC,Nea Salamina,1,2,A,1,1,D
+CYP,2017-01-03,16:00,Anagennisi Derynias,APOEL Nikosia,2,4,A,0,2,A
+CYP,2017-01-03,17:00,AEK Larnaca,Apollon Limassol,1,3,A,1,3,A
+CYP,2017-01-04,15:00,Ermis Aradippou,Doxa Katokopias FC,1,0,H,0,0,D
+CYP,2017-01-04,15:00,Omonia Nikosia,Ethnikos Achna,3,2,H,0,1,A
+CYP,2017-01-04,16:00,AEL Limassol,Karmiotissa Polemidion,4,1,H,2,0,H
+CYP,2017-01-07,15:00,Apollon Limassol,AEL Limassol,2,0,H,1,0,H
+CYP,2017-01-07,15:00,Doxa Katokopias FC,Anagennisi Derynias,0,0,D,0,0,D
+CYP,2017-01-07,17:00,Anorthosis Famagusta FC,AEK Larnaca,0,1,A,0,1,A
+CYP,2017-01-08,14:00,Ethnikos Achna,Ermis Aradippou,3,1,H,0,0,D
+CYP,2017-01-08,15:00,APOEL Nikosia,Aris Limassol FC,5,0,H,3,0,H
+CYP,2017-01-08,16:00,Karmiotissa Polemidion,Omonia Nikosia,0,1,A,0,0,D
+CYP,2017-01-09,17:00,Nea Salamina,AE Zakakiou,2,0,H,1,0,H
+CYP,2017-01-14,15:00,Doxa Katokopias FC,APOEL Nikosia,0,2,A,0,1,A
+CYP,2017-01-14,17:00,AEK Larnaca,Nea Salamina,2,0,H,1,0,H
+CYP,2017-01-15,14:00,AEL Limassol,Anorthosis Famagusta FC,0,0,D,0,0,D
+CYP,2017-01-15,14:00,Omonia Nikosia,Apollon Limassol,1,2,A,0,1,A
+CYP,2017-01-15,15:00,Ermis Aradippou,Karmiotissa Polemidion,2,0,H,1,0,H
+CYP,2017-01-15,16:00,Anagennisi Derynias,Ethnikos Achna,2,3,A,1,3,A
+CYP,2017-01-16,17:00,AE Zakakiou,Aris Limassol FC,2,3,A,2,2,D
+CYP,2017-01-21,15:00,Anorthosis Famagusta FC,Omonia Nikosia,2,2,D,0,1,A
+CYP,2017-01-21,16:00,Aris Limassol FC,AEK Larnaca,1,1,D,1,1,D
+CYP,2017-01-22,14:00,Nea Salamina,AEL Limassol,1,3,A,1,1,D
+CYP,2017-01-22,14:00,Apollon Limassol,Ermis Aradippou,3,0,H,2,0,H
+CYP,2017-01-22,15:00,APOEL Nikosia,AE Zakakiou,7,0,H,5,0,H
+CYP,2017-01-22,16:00,Karmiotissa Polemidion,Anagennisi Derynias,2,2,D,0,1,A
+CYP,2017-01-23,17:00,Ethnikos Achna,Doxa Katokopias FC,2,0,H,2,0,H
+CYP,2017-01-28,15:00,Omonia Nikosia,Nea Salamina,3,0,H,2,0,H
+CYP,2017-01-28,15:00,Anagennisi Derynias,Apollon Limassol,0,1,A,0,1,A
+CYP,2017-01-28,16:00,Ermis Aradippou,Anorthosis Famagusta FC,1,4,A,0,2,A
+CYP,2017-01-29,14:00,Ethnikos Achna,APOEL Nikosia,2,3,A,1,2,A
+CYP,2017-01-29,15:00,Doxa Katokopias FC,Karmiotissa Polemidion,1,2,A,0,0,D
+CYP,2017-01-29,16:00,AEK Larnaca,AE Zakakiou,1,1,D,0,1,A
+CYP,2017-01-30,17:00,AEL Limassol,Aris Limassol FC,3,0,H,1,0,H
+CYP,2017-02-04,15:00,AE Zakakiou,AEL Limassol,0,3,A,0,1,A
+CYP,2017-02-04,15:00,Apollon Limassol,Doxa Katokopias FC,3,1,H,1,0,H
+CYP,2017-02-04,17:00,Nea Salamina,Ermis Aradippou,0,0,D,0,0,D
+CYP,2017-02-05,14:00,APOEL Nikosia,AEK Larnaca,1,1,D,0,1,A
+CYP,2017-02-05,15:00,Anorthosis Famagusta FC,Anagennisi Derynias,3,0,H,1,0,H
+CYP,2017-02-05,16:00,Aris Limassol FC,Omonia Nikosia,2,4,A,1,2,A
+CYP,2017-02-06,17:00,Karmiotissa Polemidion,Ethnikos Achna,2,2,D,2,2,D
+CYP,2017-02-11,15:00,Ermis Aradippou,Aris Limassol FC,1,2,A,1,2,A
+CYP,2017-02-11,15:00,Omonia Nikosia,AE Zakakiou,2,0,H,0,0,D
+CYP,2017-02-11,17:00,Karmiotissa Polemidion,APOEL Nikosia,0,1,A,0,1,A
+CYP,2017-02-12,14:00,AEL Limassol,AEK Larnaca,1,1,D,0,1,A
+CYP,2017-02-12,15:00,Ethnikos Achna,Apollon Limassol,2,2,D,1,0,H
+CYP,2017-02-12,16:00,Anagennisi Derynias,Nea Salamina,0,1,A,0,1,A
+CYP,2017-02-13,17:00,Doxa Katokopias FC,Anorthosis Famagusta FC,0,2,A,0,0,D
+CYP,2017-02-18,15:00,Aris Limassol FC,Anagennisi Derynias,4,0,H,1,0,H
+CYP,2017-02-18,16:00,Nea Salamina,Doxa Katokopias FC,1,3,A,0,2,A
+CYP,2017-02-18,17:00,AE Zakakiou,Ermis Aradippou,0,4,A,0,1,A
+CYP,2017-02-19,14:00,AEK Larnaca,Omonia Nikosia,4,2,H,2,0,H
+CYP,2017-02-19,14:00,Apollon Limassol,Karmiotissa Polemidion,3,0,H,1,0,H
+CYP,2017-02-19,16:00,Anorthosis Famagusta FC,Ethnikos Achna,4,2,H,1,2,A
+CYP,2017-02-20,17:00,APOEL Nikosia,AEL Limassol,3,0,H,1,0,H
+CYP,2017-02-25,14:00,Anagennisi Derynias,AE Zakakiou,0,0,D,0,0,D
+CYP,2017-02-25,15:00,Omonia Nikosia,AEL Limassol,4,1,H,2,0,H
+CYP,2017-02-25,17:00,Doxa Katokopias FC,Aris Limassol FC,3,1,H,2,1,H
+CYP,2017-02-26,14:00,Ermis Aradippou,AEK Larnaca,2,3,A,0,2,A
+CYP,2017-02-26,15:00,Ethnikos Achna,Nea Salamina,0,0,D,0,0,D
+CYP,2017-02-26,16:00,Karmiotissa Polemidion,Anorthosis Famagusta FC,1,4,A,0,3,A
+CYP,2017-02-27,17:00,Apollon Limassol,APOEL Nikosia,2,0,H,1,0,H
+CYP,2017-03-04,14:00,AE Zakakiou,Doxa Katokopias FC,0,4,A,0,2,A
+CYP,2017-03-04,15:00,APOEL Nikosia,Omonia Nikosia,2,1,H,2,0,H
+CYP,2017-03-04,16:00,Nea Salamina,Karmiotissa Polemidion,1,3,A,1,0,H
+CYP,2017-03-04,17:00,Aris Limassol FC,Ethnikos Achna,3,1,H,2,1,H
+CYP,2017-03-05,14:00,Anorthosis Famagusta FC,Apollon Limassol,0,0,D,0,0,D
+CYP,2017-03-05,15:00,AEL Limassol,Ermis Aradippou,1,2,A,0,0,D
+CYP,2017-03-05,16:00,AEK Larnaca,Anagennisi Derynias,6,0,H,3,0,H

@@ -1,0 +1,183 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISR,2016-08-20,16:00,Bnei Yehuda Tel Aviv,Bnei Sachnin FC,1,1,D,0,1,A
+ISR,2016-08-20,18:00,Ironi Kiryat Shmona,FC Ashdod,1,0,H,1,0,H
+ISR,2016-08-20,18:00,Hapoel Ashkelon,Hapoel Haifa,3,2,H,1,0,H
+ISR,2016-08-20,18:10,Hapoel Be'er Sheva,Hapoel Ra'anana,2,1,H,2,0,H
+ISR,2016-08-21,18:00,Maccabi Petach-Tikva,Beitar Jerusalem,2,2,D,2,2,D
+ISR,2016-08-21,18:45,Maccabi Tel Aviv,Hapoel Kfar Saba,3,1,H,1,0,H
+ISR,2016-08-22,18:45,Maccabi Haifa,Hapoel Tel Aviv,1,0,H,0,0,D
+ISR,2016-08-27,16:00,Hapoel Haifa,Bnei Yehuda Tel Aviv,1,0,H,0,0,D
+ISR,2016-08-27,17:00,Hapoel Ra'anana,Maccabi Petach-Tikva,0,1,A,0,1,A
+ISR,2016-08-27,18:10,Bnei Sachnin FC,Maccabi Haifa,1,0,H,1,0,H
+ISR,2016-08-27,19:00,Hapoel Tel Aviv,Hapoel Be'er Sheva,0,0,D,0,0,D
+ISR,2016-08-28,18:15,Beitar Jerusalem,Ironi Kiryat Shmona,2,2,D,0,1,A
+ISR,2016-08-28,19:00,FC Ashdod,Maccabi Tel Aviv,1,2,A,1,2,A
+ISR,2016-08-29,19:00,Hapoel Kfar Saba,Hapoel Ashkelon,1,1,D,0,1,A
+ISR,2016-09-10,16:00,Bnei Yehuda Tel Aviv,Maccabi Haifa,1,1,D,1,0,H
+ISR,2016-09-10,16:00,Ironi Kiryat Shmona,Hapoel Ra'anana,0,0,D,0,0,D
+ISR,2016-09-10,18:00,Hapoel Haifa,Hapoel Kfar Saba,1,2,A,0,1,A
+ISR,2016-09-10,18:10,Hapoel Be'er Sheva,Bnei Sachnin FC,3,0,H,0,0,D
+ISR,2016-09-11,17:30,Hapoel Ashkelon,FC Ashdod,0,0,D,0,0,D
+ISR,2016-09-11,18:45,Maccabi Tel Aviv,Beitar Jerusalem,2,2,D,0,1,A
+ISR,2016-09-12,18:30,Maccabi Petach-Tikva,Hapoel Tel Aviv,2,0,H,1,0,H
+ISR,2016-09-17,16:00,Hapoel Tel Aviv,Ironi Kiryat Shmona,3,3,D,3,1,H
+ISR,2016-09-17,18:00,FC Ashdod,Hapoel Haifa,1,3,A,0,1,A
+ISR,2016-09-17,18:10,Hapoel Kfar Saba,Bnei Yehuda Tel Aviv,0,1,A,0,1,A
+ISR,2016-09-17,18:10,Beitar Jerusalem,Hapoel Ashkelon,3,0,H,3,0,H
+ISR,2016-09-18,17:00,Bnei Sachnin FC,Maccabi Petach-Tikva,0,1,A,0,1,A
+ISR,2016-09-18,18:15,Hapoel Ra'anana,Maccabi Tel Aviv,0,3,A,0,1,A
+ISR,2016-09-19,18:45,Maccabi Haifa,Hapoel Be'er Sheva,2,1,H,1,1,D
+ISR,2016-09-21,19:00,Bnei Sachnin FC,Maccabi Tel Aviv,0,3,A,0,1,A
+ISR,2016-09-24,16:00,Ironi Kiryat Shmona,Bnei Sachnin FC,2,2,D,1,1,D
+ISR,2016-09-24,16:00,Hapoel Kfar Saba,FC Ashdod,1,0,H,0,0,D
+ISR,2016-09-24,18:00,Hapoel Ashkelon,Hapoel Ra'anana,0,0,D,0,0,D
+ISR,2016-09-24,18:10,Hapoel Haifa,Beitar Jerusalem,4,0,H,2,0,H
+ISR,2016-09-25,18:00,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,0,3,A,0,1,A
+ISR,2016-09-25,19:00,Maccabi Tel Aviv,Hapoel Tel Aviv,5,0,H,1,0,H
+ISR,2016-09-26,18:30,Maccabi Petach-Tikva,Maccabi Haifa,2,2,D,1,1,D
+ISR,2016-10-01,16:00,Hapoel Ra'anana,Hapoel Haifa,2,0,H,0,0,D
+ISR,2016-10-01,16:00,Maccabi Haifa,Ironi Kiryat Shmona,0,0,D,0,0,D
+ISR,2016-10-01,18:00,Hapoel Tel Aviv,Hapoel Ashkelon,2,0,H,1,0,H
+ISR,2016-10-01,18:10,FC Ashdod,Bnei Yehuda Tel Aviv,2,2,D,1,1,D
+ISR,2016-10-01,18:10,Beitar Jerusalem,Hapoel Kfar Saba,1,0,H,0,0,D
+ISR,2016-10-15,17:30,Hapoel Be'er Sheva,Maccabi Petach-Tikva,5,0,H,4,0,H
+ISR,2016-10-22,14:00,Bnei Yehuda Tel Aviv,Maccabi Petach-Tikva,1,4,A,0,2,A
+ISR,2016-10-22,16:00,Hapoel Kfar Saba,Hapoel Ra'anana,1,2,A,0,1,A
+ISR,2016-10-22,16:15,Hapoel Haifa,Hapoel Tel Aviv,0,2,A,0,0,D
+ISR,2016-10-22,18:15,Hapoel Ashkelon,Bnei Sachnin FC,0,1,A,0,0,D
+ISR,2016-10-22,18:30,FC Ashdod,Beitar Jerusalem,0,0,D,0,0,D
+ISR,2016-10-24,17:30,Ironi Kiryat Shmona,Hapoel Be'er Sheva,0,2,A,0,0,D
+ISR,2016-10-24,19:00,Maccabi Tel Aviv,Maccabi Haifa,0,2,A,0,1,A
+ISR,2016-10-29,14:00,Bnei Sachnin FC,Hapoel Haifa,2,1,H,0,0,D
+ISR,2016-10-29,16:15,Hapoel Tel Aviv,Hapoel Kfar Saba,1,1,D,1,0,H
+ISR,2016-10-29,18:00,Hapoel Ra'anana,FC Ashdod,0,0,D,0,0,D
+ISR,2016-10-29,18:30,Maccabi Haifa,Hapoel Ashkelon,5,0,H,3,0,H
+ISR,2016-10-30,17:00,Maccabi Petach-Tikva,Ironi Kiryat Shmona,2,1,H,0,0,D
+ISR,2016-10-30,19:00,Hapoel Be'er Sheva,Maccabi Tel Aviv,2,0,H,1,0,H
+ISR,2016-10-31,18:30,Beitar Jerusalem,Bnei Yehuda Tel Aviv,2,2,D,1,0,H
+ISR,2016-11-05,14:00,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,0,1,A,0,0,D
+ISR,2016-11-05,15:45,FC Ashdod,Hapoel Tel Aviv,1,0,H,1,0,H
+ISR,2016-11-05,18:00,Beitar Jerusalem,Hapoel Ra'anana,1,0,H,0,0,D
+ISR,2016-11-05,19:00,Hapoel Haifa,Maccabi Haifa,0,0,D,0,0,D
+ISR,2016-11-06,18:00,Hapoel Ashkelon,Hapoel Be'er Sheva,1,5,A,0,2,A
+ISR,2016-11-06,18:45,Maccabi Tel Aviv,Maccabi Petach-Tikva,0,0,D,0,0,D
+ISR,2016-11-07,19:00,Hapoel Kfar Saba,Bnei Sachnin FC,2,1,H,2,0,H
+ISR,2016-11-19,14:00,Bnei Sachnin FC,FC Ashdod,0,1,A,0,1,A
+ISR,2016-11-19,16:00,Maccabi Petach-Tikva,Hapoel Ashkelon,1,1,D,1,1,D
+ISR,2016-11-19,16:15,Maccabi Haifa,Hapoel Kfar Saba,2,0,H,2,0,H
+ISR,2016-11-19,18:30,Hapoel Be'er Sheva,Hapoel Haifa,5,1,H,2,1,H
+ISR,2016-11-20,17:00,Hapoel Ra'anana,Bnei Yehuda Tel Aviv,1,0,H,0,0,D
+ISR,2016-11-20,18:15,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,2,A,1,1,D
+ISR,2016-11-21,19:00,Beitar Jerusalem,Hapoel Tel Aviv,1,1,D,1,1,D
+ISR,2016-11-26,15:00,Hapoel Ra'anana,Hapoel Tel Aviv,0,0,D,0,0,D
+ISR,2016-11-26,16:00,Hapoel Haifa,Maccabi Petach-Tikva,2,1,H,1,1,D
+ISR,2016-11-26,17:30,FC Ashdod,Maccabi Haifa,1,1,D,1,1,D
+ISR,2016-11-26,18:15,Ironi Kiryat Shmona,Hapoel Ashkelon,4,1,H,2,0,H
+ISR,2016-11-27,18:00,Hapoel Kfar Saba,Hapoel Be'er Sheva,0,2,A,0,0,D
+ISR,2016-11-27,18:45,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,1,0,H,0,0,D
+ISR,2016-11-28,19:00,Beitar Jerusalem,Bnei Sachnin FC,0,1,A,0,0,D
+ISR,2016-12-03,14:00,Ironi Kiryat Shmona,Hapoel Haifa,2,0,H,1,0,H
+ISR,2016-12-03,16:00,Maccabi Petach-Tikva,Hapoel Kfar Saba,0,0,D,0,0,D
+ISR,2016-12-03,16:15,Maccabi Tel Aviv,Hapoel Ashkelon,0,0,D,0,0,D
+ISR,2016-12-03,18:30,Hapoel Be'er Sheva,FC Ashdod,5,0,H,2,0,H
+ISR,2016-12-04,17:00,Bnei Sachnin FC,Hapoel Ra'anana,1,1,D,0,0,D
+ISR,2016-12-04,18:15,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,0,1,A,0,0,D
+ISR,2016-12-05,19:00,Maccabi Haifa,Beitar Jerusalem,0,2,A,0,1,A
+ISR,2016-12-10,14:00,Hapoel Tel Aviv,Bnei Sachnin FC,1,1,D,0,0,D
+ISR,2016-12-10,16:00,Hapoel Kfar Saba,Ironi Kiryat Shmona,2,2,D,1,1,D
+ISR,2016-12-10,16:15,Hapoel Ashkelon,Bnei Yehuda Tel Aviv,1,0,H,1,0,H
+ISR,2016-12-10,18:30,Hapoel Ra'anana,Maccabi Haifa,1,1,D,1,0,H
+ISR,2016-12-11,17:00,FC Ashdod,Maccabi Petach-Tikva,2,2,D,1,1,D
+ISR,2016-12-11,18:15,Hapoel Haifa,Maccabi Tel Aviv,2,4,A,0,2,A
+ISR,2016-12-12,19:00,Beitar Jerusalem,Hapoel Be'er Sheva,1,3,A,1,1,D
+ISR,2016-12-17,14:00,Hapoel Kfar Saba,Maccabi Tel Aviv,1,1,D,1,1,D
+ISR,2016-12-17,16:00,FC Ashdod,Ironi Kiryat Shmona,0,0,D,0,0,D
+ISR,2016-12-17,16:15,Bnei Sachnin FC,Bnei Yehuda Tel Aviv,1,1,D,0,0,D
+ISR,2016-12-17,18:30,Beitar Jerusalem,Maccabi Petach-Tikva,1,1,D,0,1,A
+ISR,2016-12-18,17:00,Hapoel Haifa,Hapoel Ashkelon,3,1,H,0,1,A
+ISR,2016-12-18,18:15,Hapoel Ra'anana,Hapoel Be'er Sheva,1,0,H,1,0,H
+ISR,2016-12-19,19:00,Hapoel Tel Aviv,Maccabi Haifa,0,2,A,0,0,D
+ISR,2016-12-24,14:00,Bnei Yehuda Tel Aviv,Hapoel Haifa,1,1,D,1,1,D
+ISR,2016-12-24,16:00,Hapoel Ashkelon,Hapoel Kfar Saba,0,0,D,0,0,D
+ISR,2016-12-24,16:15,Maccabi Tel Aviv,FC Ashdod,1,0,H,0,0,D
+ISR,2016-12-24,18:30,Ironi Kiryat Shmona,Beitar Jerusalem,2,0,H,1,0,H
+ISR,2016-12-25,17:00,Maccabi Petach-Tikva,Hapoel Ra'anana,2,0,H,0,0,D
+ISR,2016-12-25,19:00,Hapoel Be'er Sheva,Hapoel Tel Aviv,1,1,D,0,1,A
+ISR,2016-12-26,18:30,Maccabi Haifa,Bnei Sachnin FC,1,2,A,1,0,H
+ISR,2016-12-31,14:00,Hapoel Kfar Saba,Hapoel Haifa,1,2,A,0,0,D
+ISR,2016-12-31,16:00,Hapoel Ra'anana,Ironi Kiryat Shmona,0,3,A,0,1,A
+ISR,2016-12-31,16:15,Maccabi Haifa,Bnei Yehuda Tel Aviv,1,1,D,0,0,D
+ISR,2016-12-31,18:30,Hapoel Tel Aviv,Maccabi Petach-Tikva,0,1,A,0,0,D
+ISR,2017-01-01,17:00,FC Ashdod,Hapoel Ashkelon,1,0,H,1,0,H
+ISR,2017-01-01,18:15,Bnei Sachnin FC,Hapoel Be'er Sheva,0,0,D,0,0,D
+ISR,2017-01-02,19:00,Beitar Jerusalem,Maccabi Tel Aviv,1,0,H,1,0,H
+ISR,2017-01-10,17:00,Maccabi Petach-Tikva,Bnei Sachnin FC,1,1,D,0,0,D
+ISR,2017-01-10,17:45,Hapoel Ashkelon,Beitar Jerusalem,1,1,D,1,0,H
+ISR,2017-01-10,19:00,Hapoel Be'er Sheva,Maccabi Haifa,2,0,H,1,0,H
+ISR,2017-01-11,17:30,Bnei Yehuda Tel Aviv,Hapoel Kfar Saba,1,1,D,0,0,D
+ISR,2017-01-11,18:00,Maccabi Tel Aviv,Hapoel Ra'anana,4,1,H,2,0,H
+ISR,2017-01-11,19:00,Hapoel Haifa,FC Ashdod,0,1,A,0,1,A
+ISR,2017-01-12,18:00,Ironi Kiryat Shmona,Hapoel Tel Aviv,2,1,H,2,0,H
+ISR,2017-01-14,14:00,FC Ashdod,Hapoel Kfar Saba,0,0,D,0,0,D
+ISR,2017-01-14,16:00,Hapoel Ra'anana,Hapoel Ashkelon,0,2,A,0,1,A
+ISR,2017-01-14,16:15,Maccabi Haifa,Maccabi Petach-Tikva,0,2,A,0,0,D
+ISR,2017-01-14,18:30,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,2,1,H,1,1,D
+ISR,2017-01-15,18:15,Beitar Jerusalem,Hapoel Haifa,1,0,H,1,0,H
+ISR,2017-01-16,16:30,Bnei Sachnin FC,Ironi Kiryat Shmona,5,2,H,4,2,H
+ISR,2017-01-16,19:00,Hapoel Tel Aviv,Maccabi Tel Aviv,0,1,A,0,1,A
+ISR,2017-01-21,14:00,Ironi Kiryat Shmona,Maccabi Haifa,3,0,H,1,0,H
+ISR,2017-01-21,16:00,Hapoel Haifa,Hapoel Ra'anana,1,0,H,0,0,D
+ISR,2017-01-21,16:15,Hapoel Ashkelon,Hapoel Tel Aviv,0,1,A,0,0,D
+ISR,2017-01-21,18:30,Maccabi Petach-Tikva,Hapoel Be'er Sheva,1,1,D,0,0,D
+ISR,2017-01-22,17:00,Bnei Yehuda Tel Aviv,FC Ashdod,2,0,H,1,0,H
+ISR,2017-01-22,18:00,Hapoel Kfar Saba,Beitar Jerusalem,0,2,A,0,0,D
+ISR,2017-01-22,19:00,Maccabi Tel Aviv,Bnei Sachnin FC,2,1,H,1,0,H
+ISR,2017-01-28,14:00,Maccabi Petach-Tikva,Bnei Yehuda Tel Aviv,2,0,H,1,0,H
+ISR,2017-01-28,16:00,Hapoel Ra'anana,Hapoel Kfar Saba,1,0,H,0,0,D
+ISR,2017-01-28,16:15,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,0,H,0,0,D
+ISR,2017-01-28,18:30,Beitar Jerusalem,FC Ashdod,1,1,D,0,0,D
+ISR,2017-01-29,17:00,Bnei Sachnin FC,Hapoel Ashkelon,1,0,H,0,0,D
+ISR,2017-01-29,18:15,Hapoel Tel Aviv,Hapoel Haifa,0,0,D,0,0,D
+ISR,2017-01-30,19:00,Maccabi Haifa,Maccabi Tel Aviv,2,2,D,1,0,H
+ISR,2017-02-04,14:00,Ironi Kiryat Shmona,Maccabi Petach-Tikva,0,1,A,0,0,D
+ISR,2017-02-04,16:00,Hapoel Haifa,Bnei Sachnin FC,0,1,A,0,0,D
+ISR,2017-02-04,16:30,Bnei Yehuda Tel Aviv,Beitar Jerusalem,1,1,D,0,1,A
+ISR,2017-02-04,19:00,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,0,H,1,0,H
+ISR,2017-02-05,17:00,FC Ashdod,Hapoel Ra'anana,0,1,A,0,0,D
+ISR,2017-02-05,18:15,Hapoel Kfar Saba,Hapoel Tel Aviv,0,0,D,0,0,D
+ISR,2017-02-06,18:30,Hapoel Ashkelon,Maccabi Haifa,0,2,A,0,1,A
+ISR,2017-02-11,14:00,Maccabi Haifa,Hapoel Haifa,0,3,A,0,1,A
+ISR,2017-02-11,16:00,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,0,1,A,0,1,A
+ISR,2017-02-11,16:15,Hapoel Be'er Sheva,Hapoel Ashkelon,2,1,H,0,0,D
+ISR,2017-02-11,18:30,Hapoel Ra'anana,Beitar Jerusalem,0,4,A,0,2,A
+ISR,2017-02-12,17:00,Bnei Sachnin FC,Hapoel Kfar Saba,1,0,H,1,0,H
+ISR,2017-02-12,18:15,Hapoel Tel Aviv,FC Ashdod,2,0,H,0,0,D
+ISR,2017-02-13,19:00,Maccabi Petach-Tikva,Maccabi Tel Aviv,0,1,A,0,0,D
+ISR,2017-02-18,14:00,Hapoel Kfar Saba,Maccabi Haifa,0,2,A,0,1,A
+ISR,2017-02-18,16:00,Bnei Yehuda Tel Aviv,Hapoel Ra'anana,0,2,A,0,0,D
+ISR,2017-02-18,16:15,FC Ashdod,Bnei Sachnin FC,1,1,D,1,0,H
+ISR,2017-02-18,18:30,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,0,H,1,0,H
+ISR,2017-02-19,17:00,Hapoel Ashkelon,Maccabi Petach-Tikva,0,1,A,0,0,D
+ISR,2017-02-19,18:15,Hapoel Haifa,Hapoel Be'er Sheva,0,0,D,0,0,D
+ISR,2017-02-20,19:00,Beitar Jerusalem,Hapoel Tel Aviv,2,1,H,1,1,D
+ISR,2017-02-25,14:00,Hapoel Tel Aviv,Hapoel Ra'anana,0,0,D,0,0,D
+ISR,2017-02-25,16:00,Hapoel Ashkelon,Ironi Kiryat Shmona,1,1,D,1,0,H
+ISR,2017-02-25,16:15,Maccabi Haifa,FC Ashdod,0,1,A,0,0,D
+ISR,2017-02-25,18:30,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,0,H,1,0,H
+ISR,2017-02-26,17:00,Maccabi Petach-Tikva,Hapoel Haifa,3,1,H,1,0,H
+ISR,2017-02-26,19:00,Bnei Sachnin FC,Beitar Jerusalem,0,2,A,0,2,A
+ISR,2017-02-27,18:30,Hapoel Be'er Sheva,Hapoel Kfar Saba,3,0,H,2,0,H
+ISR,2017-03-04,14:00,Hapoel Haifa,Ironi Kiryat Shmona,1,2,A,0,1,A
+ISR,2017-03-04,16:00,Hapoel Ra'anana,Bnei Sachnin FC,0,1,A,0,1,A
+ISR,2017-03-04,16:15,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,1,2,A,1,0,H
+ISR,2017-03-04,18:30,FC Ashdod,Hapoel Be'er Sheva,0,1,A,0,0,D
+ISR,2017-03-05,17:00,Hapoel Kfar Saba,Maccabi Petach-Tikva,1,3,A,1,3,A
+ISR,2017-03-05,18:15,Hapoel Ashkelon,Maccabi Tel Aviv,1,2,A,0,1,A
+ISR,2017-03-06,19:00,Beitar Jerusalem,Maccabi Haifa,0,1,A,0,1,A
+ISR,2017-03-11,16:00,Maccabi Petach-Tikva,FC Ashdod,0,1,A,0,0,D
+ISR,2017-03-11,18:30,Ironi Kiryat Shmona,Hapoel Kfar Saba,1,2,A,0,0,D
+ISR,2017-03-11,18:30,Maccabi Haifa,Hapoel Ra'anana,2,0,H,2,0,H
+ISR,2017-03-11,18:30,Bnei Sachnin FC,Hapoel Tel Aviv,0,0,D,0,0,D
+ISR,2017-03-12,17:00,Bnei Yehuda Tel Aviv,Hapoel Ashkelon,0,0,D,0,0,D
+ISR,2017-03-12,18:15,Maccabi Tel Aviv,Hapoel Haifa,1,0,H,1,0,H
+ISR,2017-03-13,19:00,Hapoel Be'er Sheva,Beitar Jerusalem,2,1,H,0,0,D

@@ -1,0 +1,31 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+WAL,2012-02-10,19:30,Port Talbot Town,Afan Lido FC,1,2,A,1.0,1.0,D
+WAL,2012-02-10,19:30,Newtown AFC,Airbus UK,0,4,A,0.0,1.0,A
+WAL,2012-02-11,15:45,Aberystwyth Town,Carmarthen Town,2,2,D,0.0,1.0,A
+WAL,2012-02-17,19:30,Aberystwyth Town,Port Talbot Town,1,1,D,0.0,1.0,A
+WAL,2012-02-18,14:30,Carmarthen Town,Airbus UK,1,0,H,1.0,0.0,H
+WAL,2012-02-18,14:30,Newtown AFC,Afan Lido FC,1,1,D,1.0,0.0,H
+WAL,2012-03-02,19:30,Afan Lido FC,Carmarthen Town,5,1,H,2.0,1.0,H
+WAL,2012-03-03,14:30,Port Talbot Town,Newtown AFC,1,1,D,0.0,0.0,D
+WAL,2012-03-04,14:30,Airbus UK,Aberystwyth Town,3,2,H,,,
+WAL,2012-03-09,19:30,Carmarthen Town,Port Talbot Town,1,0,H,1.0,0.0,H
+WAL,2012-03-10,12:30,Newtown AFC,Aberystwyth Town,1,1,D,0.0,0.0,D
+WAL,2012-03-10,14:30,Airbus UK,Afan Lido FC,1,1,D,1.0,1.0,D
+WAL,2012-03-16,19:30,Aberystwyth Town,Afan Lido FC,1,1,D,1.0,1.0,D
+WAL,2012-03-17,13:30,Carmarthen Town,Newtown AFC,3,2,H,1.0,1.0,D
+WAL,2012-03-18,14:30,Port Talbot Town,Airbus UK,2,1,H,0.0,0.0,D
+WAL,2012-03-23,19:30,Afan Lido FC,Port Talbot Town,2,2,D,0.0,1.0,A
+WAL,2012-03-23,19:30,Airbus UK,Newtown AFC,3,1,H,3.0,0.0,H
+WAL,2012-03-24,15:45,Carmarthen Town,Aberystwyth Town,0,3,A,0.0,1.0,A
+WAL,2012-03-31,14:30,Newtown AFC,Carmarthen Town,2,1,H,0.0,0.0,D
+WAL,2012-04-06,14:30,Afan Lido FC,Newtown AFC,1,6,A,1.0,3.0,A
+WAL,2012-04-06,19:30,Port Talbot Town,Aberystwyth Town,2,1,H,0.0,0.0,D
+WAL,2012-04-07,14:30,Airbus UK,Carmarthen Town,0,1,A,0.0,0.0,D
+WAL,2012-04-09,14:30,Airbus UK,Port Talbot Town,2,2,D,2.0,1.0,H
+WAL,2012-04-10,19:30,Afan Lido FC,Aberystwyth Town,0,2,A,0.0,0.0,D
+WAL,2012-04-13,19:30,Aberystwyth Town,Airbus UK,2,0,H,0.0,0.0,D
+WAL,2012-04-14,14:30,Carmarthen Town,Afan Lido FC,3,2,H,0.0,1.0,A
+WAL,2012-04-14,14:30,Newtown AFC,Port Talbot Town,2,2,D,1.0,0.0,H
+WAL,2012-04-21,15:30,Aberystwyth Town,Newtown AFC,3,2,H,2.0,1.0,H
+WAL,2012-04-21,15:30,Afan Lido FC,Airbus UK,1,2,A,0.0,1.0,A
+WAL,2012-04-21,15:30,Port Talbot Town,Carmarthen Town,0,1,A,0.0,1.0,A

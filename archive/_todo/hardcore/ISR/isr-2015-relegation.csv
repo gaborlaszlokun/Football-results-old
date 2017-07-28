@@ -1,0 +1,29 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ISR,2015-03-21,14:00,Hapoel Ra'anana,FC Ashdod,4,0,H,2,0,H
+ISR,2015-03-21,15:00,Hapoel Tel Aviv,Hapoel Acre FC,2,0,H,2,0,H
+ISR,2015-03-21,17:00,Bnei Sachnin FC,Hapoel Haifa,1,0,H,1,0,H
+ISR,2015-03-21,18:00,Maccabi Netanya,Hapoel Petach-Tikva,3,1,H,1,0,H
+ISR,2015-04-11,15:00,Hapoel Haifa,Hapoel Tel Aviv,0,1,A,0,0,D
+ISR,2015-04-11,16:00,Hapoel Ra'anana,Maccabi Netanya,1,2,A,0,1,A
+ISR,2015-04-11,17:00,FC Ashdod,Hapoel Acre FC,0,0,D,0,0,D
+ISR,2015-04-11,18:00,Hapoel Petach-Tikva,Bnei Sachnin FC,2,3,A,0,0,D
+ISR,2015-04-18,15:20,Hapoel Tel Aviv,Hapoel Petach-Tikva,1,2,A,0,0,D
+ISR,2015-04-18,16:00,Hapoel Acre FC,Hapoel Haifa,1,0,H,0,0,D
+ISR,2015-04-18,17:00,Bnei Sachnin FC,Hapoel Ra'anana,1,1,D,0,0,D
+ISR,2015-04-18,18:00,Maccabi Netanya,FC Ashdod,0,0,D,0,0,D
+ISR,2015-04-25,13:30,Hapoel Petach-Tikva,Hapoel Acre FC,0,2,A,0,1,A
+ISR,2015-04-25,14:00,Hapoel Ra'anana,Hapoel Tel Aviv,2,2,D,2,0,H
+ISR,2015-04-25,15:45,FC Ashdod,Hapoel Haifa,0,0,D,0,0,D
+ISR,2015-04-25,18:00,Maccabi Netanya,Bnei Sachnin FC,2,3,A,0,2,A
+ISR,2015-05-02,15:00,Hapoel Tel Aviv,Maccabi Netanya,2,1,H,1,1,D
+ISR,2015-05-02,15:30,Bnei Sachnin FC,FC Ashdod,1,1,D,0,0,D
+ISR,2015-05-02,15:30,Hapoel Haifa,Hapoel Petach-Tikva,3,2,H,1,2,A
+ISR,2015-05-02,15:30,Hapoel Acre FC,Hapoel Ra'anana,2,0,H,1,0,H
+ISR,2015-05-09,17:30,Bnei Sachnin FC,Hapoel Tel Aviv,2,0,H,0,0,D
+ISR,2015-05-09,17:45,FC Ashdod,Hapoel Petach-Tikva,2,4,A,0,0,D
+ISR,2015-05-09,17:45,Hapoel Ra'anana,Hapoel Haifa,1,2,A,0,0,D
+ISR,2015-05-11,17:30,Maccabi Netanya,Hapoel Acre FC,1,2,A,1,1,D
+ISR,2015-05-16,16:00,Hapoel Petach-Tikva,Hapoel Ra'anana,4,2,H,2,1,H
+ISR,2015-05-16,18:30,Hapoel Tel Aviv,FC Ashdod,1,0,H,1,0,H
+ISR,2015-05-16,18:30,Hapoel Acre FC,Bnei Sachnin FC,1,0,H,1,0,H
+ISR,2015-05-16,18:30,Hapoel Haifa,Maccabi Netanya,0,0,D,0,0,D

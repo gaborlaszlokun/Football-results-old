@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,1966-09-18,,Calcio Lecco 1912,Cagliari Calcio,0,2,A,0.0,1.0,A
+ITA,1966-09-18,,SSC Napoli,Lanerossi Vicenza,1,0,H,0.0,0.0,D
+ITA,1966-09-18,,Torino FC,SPAL 1907 Ferrara,2,1,H,0.0,0.0,D
+ITA,1966-09-18,,AS Roma,Brescia Calcio,1,0,H,0.0,0.0,D
+ITA,1966-09-18,,Atalanta,Juventus,0,2,A,0.0,1.0,A
+ITA,1966-09-18,,AC Milan,AC Venezia,2,1,H,1.0,1.0,D
+ITA,1966-09-18,,US Foggia,Inter,0,4,A,0.0,2.0,A
+ITA,1966-09-18,,ACF Fiorentina,Lazio Roma,5,1,H,0.0,0.0,D
+ITA,1966-09-18,,AC Mantova,Bologna FC,1,1,D,1.0,1.0,D
+ITA,1966-09-25,,Inter,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1966-09-25,,AC Venezia,Atalanta,1,1,D,0.0,1.0,A
+ITA,1966-09-25,,SSC Napoli,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1966-09-25,,AC Mantova,AS Roma,1,0,H,1.0,0.0,H
+ITA,1966-09-25,,Juventus,Calcio Lecco 1912,3,0,H,1.0,0.0,H
+ITA,1966-09-25,,Cagliari Calcio,AC Milan,0,0,D,0.0,0.0,D
+ITA,1966-09-25,,Brescia Calcio,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1966-09-25,,Bologna FC,US Foggia,5,0,H,3.0,0.0,H
+ITA,1966-09-25,,Lazio Roma,Torino FC,0,0,D,0.0,0.0,D
+ITA,1966-10-02,,Lanerossi Vicenza,US Foggia,3,1,H,1.0,0.0,H
+ITA,1966-10-02,,SPAL 1907 Ferrara,Brescia Calcio,1,1,D,0.0,1.0,A
+ITA,1966-10-02,,AS Roma,SSC Napoli,0,2,A,0.0,1.0,A
+ITA,1966-10-02,,Torino FC,AC Venezia,0,0,D,0.0,0.0,D
+ITA,1966-10-02,,ACF Fiorentina,Juventus,1,2,A,0.0,1.0,A
+ITA,1966-10-02,,Cagliari Calcio,Bologna FC,4,0,H,2.0,0.0,H
+ITA,1966-10-02,,Atalanta,Inter,0,5,A,0.0,0.0,D
+ITA,1966-10-02,,AC Milan,AC Mantova,2,2,D,2.0,1.0,H
+ITA,1966-10-02,,Calcio Lecco 1912,Lazio Roma,0,1,A,0.0,1.0,A
+ITA,1966-10-09,,Juventus,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,1966-10-09,,SSC Napoli,AC Milan,3,2,H,2.0,0.0,H
+ITA,1966-10-09,,AC Mantova,Calcio Lecco 1912,1,1,D,1.0,1.0,D
+ITA,1966-10-09,,Lanerossi Vicenza,AS Roma,0,1,A,0.0,0.0,D
+ITA,1966-10-09,,Inter,SPAL 1907 Ferrara,2,1,H,2.0,1.0,H
+ITA,1966-10-09,,US Foggia,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,1966-10-09,,Bologna FC,Torino FC,2,1,H,0.0,1.0,A
+ITA,1966-10-09,,AC Venezia,ACF Fiorentina,2,6,A,0.0,3.0,A
+ITA,1966-10-09,,Lazio Roma,Atalanta,1,3,A,1.0,1.0,D
+ITA,1966-10-16,,AC Milan,Lazio Roma,2,2,D,0.0,1.0,A
+ITA,1966-10-16,,Torino FC,Juventus,0,0,D,0.0,0.0,D
+ITA,1966-10-16,,SPAL 1907 Ferrara,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1966-10-16,,AS Roma,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,1966-10-16,,US Foggia,AC Venezia,3,0,H,2.0,0.0,H
+ITA,1966-10-16,,ACF Fiorentina,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1966-10-16,,Brescia Calcio,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1966-10-16,,Atalanta,SSC Napoli,1,1,D,0.0,1.0,A
+ITA,1966-10-16,,Calcio Lecco 1912,Inter,0,2,A,0.0,2.0,A
+ITA,1966-10-23,,AC Mantova,Torino FC,0,0,D,0.0,0.0,D
+ITA,1966-10-23,,AC Venezia,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1966-10-23,,Lazio Roma,AS Roma,0,1,A,0.0,1.0,A
+ITA,1966-10-23,,Lanerossi Vicenza,AC Milan,1,1,D,0.0,1.0,A
+ITA,1966-10-23,,Inter,Brescia Calcio,1,0,H,1.0,0.0,H
+ITA,1966-10-23,,Cagliari Calcio,ACF Fiorentina,1,0,H,0.0,0.0,D
+ITA,1966-10-23,,Atalanta,SPAL 1907 Ferrara,0,1,A,0.0,1.0,A
+ITA,1966-10-23,,Bologna FC,Calcio Lecco 1912,2,0,H,1.0,0.0,H
+ITA,1966-10-23,,Juventus,US Foggia,3,0,H,2.0,0.0,H
+ITA,1966-11-06,,Calcio Lecco 1912,Atalanta,0,0,D,0.0,0.0,D
+ITA,1966-11-06,,Torino FC,Inter,0,2,A,0.0,1.0,A
+ITA,1966-11-06,,SPAL 1907 Ferrara,Juventus,1,1,D,1.0,0.0,H
+ITA,1966-11-06,,AS Roma,Bologna FC,0,2,A,0.0,1.0,A
+ITA,1966-11-06,,Brescia Calcio,AC Mantova,1,1,D,0.0,0.0,D
+ITA,1966-11-06,,AC Milan,US Foggia,3,1,H,3.0,0.0,H
+ITA,1966-11-06,,ACF Fiorentina,Lanerossi Vicenza,3,0,H,1.0,0.0,H
+ITA,1966-11-06,,Cagliari Calcio,AC Venezia,4,0,H,2.0,0.0,H
+ITA,1966-11-06,,SSC Napoli,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,1966-11-13,,Lanerossi Vicenza,Atalanta,1,2,A,0.0,1.0,A
+ITA,1966-11-13,,AC Venezia,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1966-11-13,,Calcio Lecco 1912,Torino FC,0,0,D,0.0,0.0,D
+ITA,1966-11-13,,Lazio Roma,SPAL 1907 Ferrara,1,1,D,0.0,0.0,D
+ITA,1966-11-13,,Inter,AS Roma,0,0,D,0.0,0.0,D
+ITA,1966-11-13,,US Foggia,ACF Fiorentina,1,2,A,0.0,0.0,D
+ITA,1966-11-13,,Brescia Calcio,AC Milan,0,0,D,0.0,0.0,D
+ITA,1966-11-13,,Bologna FC,SSC Napoli,1,0,H,1.0,0.0,H
+ITA,1966-11-13,,Juventus,Cagliari Calcio,1,0,H,0.0,0.0,D
+ITA,1966-11-20,,AC Milan,Inter,0,1,A,0.0,0.0,D
+ITA,1966-11-20,,Atalanta,Brescia Calcio,2,1,H,1.0,0.0,H
+ITA,1966-11-20,,AC Venezia,Lazio Roma,1,1,D,0.0,1.0,A
+ITA,1966-11-20,,Torino FC,Lanerossi Vicenza,1,1,D,0.0,0.0,D
+ITA,1966-11-20,,SPAL 1907 Ferrara,US Foggia,1,0,H,0.0,0.0,D
+ITA,1966-11-20,,SSC Napoli,Juventus,0,1,A,0.0,0.0,D
+ITA,1966-11-20,,AC Mantova,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,1966-11-20,,Bologna FC,ACF Fiorentina,1,1,D,1.0,1.0,D
+ITA,1966-11-20,,AS Roma,Calcio Lecco 1912,2,1,H,2.0,0.0,H
+ITA,1966-12-04,,Lanerossi Vicenza,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1966-12-04,,AS Roma,Juventus,1,0,H,0.0,0.0,D
+ITA,1966-12-04,,AC Milan,ACF Fiorentina,0,2,A,0.0,2.0,A
+ITA,1966-12-04,,Torino FC,Atalanta,6,1,H,4.0,0.0,H
+ITA,1966-12-04,,Cagliari Calcio,Lazio Roma,1,0,H,1.0,0.0,H
+ITA,1966-12-04,,Brescia Calcio,AC Venezia,3,2,H,2.0,1.0,H
+ITA,1966-12-04,,Bologna FC,Inter,3,2,H,1.0,0.0,H
+ITA,1966-12-04,,AC Mantova,SSC Napoli,0,2,A,0.0,1.0,A
+ITA,1966-12-04,,Calcio Lecco 1912,US Foggia,3,0,H,2.0,0.0,H
+ITA,1966-12-11,,ACF Fiorentina,Calcio Lecco 1912,2,0,H,1.0,0.0,H
+ITA,1966-12-11,,SPAL 1907 Ferrara,AC Milan,1,1,D,1.0,0.0,H
+ITA,1966-12-11,,Lazio Roma,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1966-12-11,,Juventus,Bologna FC,2,1,H,1.0,1.0,D
+ITA,1966-12-11,,US Foggia,AC Mantova,2,1,H,1.0,0.0,H
+ITA,1966-12-11,,Cagliari Calcio,Torino FC,2,0,H,1.0,0.0,H
+ITA,1966-12-11,,Brescia Calcio,SSC Napoli,1,0,H,1.0,0.0,H
+ITA,1966-12-11,,Atalanta,AS Roma,2,4,A,2.0,3.0,A
+ITA,1966-12-11,,Inter,AC Venezia,2,1,H,1.0,0.0,H
+ITA,1966-12-18,,AC Milan,Atalanta,0,0,D,0.0,0.0,D
+ITA,1966-12-18,,AC Venezia,Juventus,0,2,A,0.0,2.0,A
+ITA,1966-12-18,,Torino FC,ACF Fiorentina,2,2,D,2.0,1.0,H
+ITA,1966-12-18,,Calcio Lecco 1912,SPAL 1907 Ferrara,1,1,D,1.0,0.0,H
+ITA,1966-12-18,,Lazio Roma,Inter,1,0,H,0.0,0.0,D
+ITA,1966-12-18,,Lanerossi Vicenza,AC Mantova,2,2,D,2.0,0.0,H
+ITA,1966-12-18,,US Foggia,AS Roma,2,2,D,1.0,0.0,H
+ITA,1966-12-18,,Bologna FC,Brescia Calcio,2,0,H,0.0,0.0,D
+ITA,1966-12-18,,SSC Napoli,Cagliari Calcio,1,0,H,1.0,0.0,H
+ITA,1966-12-24,,Juventus,AC Milan,1,1,D,0.0,1.0,A
+ITA,1966-12-24,,SPAL 1907 Ferrara,ACF Fiorentina,1,2,A,0.0,1.0,A
+ITA,1966-12-24,,AS Roma,Torino FC,4,0,H,1.0,0.0,H
+ITA,1966-12-24,,SSC Napoli,US Foggia,3,2,H,2.0,1.0,H
+ITA,1966-12-24,,Lanerossi Vicenza,AC Venezia,2,1,H,2.0,0.0,H
+ITA,1966-12-24,,Inter,Cagliari Calcio,2,1,H,1.0,1.0,D
+ITA,1966-12-24,,Brescia Calcio,Calcio Lecco 1912,2,0,H,2.0,0.0,H
+ITA,1966-12-24,,Atalanta,Bologna FC,1,0,H,0.0,0.0,D
+ITA,1966-12-24,,AC Mantova,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1966-12-31,,AC Mantova,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1966-12-31,,ACF Fiorentina,SSC Napoli,1,1,D,0.0,0.0,D
+ITA,1966-12-31,,Torino FC,US Foggia,1,0,H,0.0,0.0,D
+ITA,1966-12-31,,AS Roma,AC Milan,0,1,A,0.0,0.0,D
+ITA,1966-12-31,,Bologna FC,AC Venezia,0,0,D,0.0,0.0,D
+ITA,1966-12-31,,Cagliari Calcio,Atalanta,3,1,H,2.0,0.0,H
+ITA,1966-12-31,,Brescia Calcio,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,1966-12-31,,Calcio Lecco 1912,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1966-12-31,,Inter,Juventus,1,1,D,0.0,1.0,A
+ITA,1967-01-08,,Lanerossi Vicenza,Cagliari Calcio,0,2,A,0.0,0.0,D
+ITA,1967-01-08,,AC Venezia,Calcio Lecco 1912,2,0,H,2.0,0.0,H
+ITA,1967-01-08,,SPAL 1907 Ferrara,AS Roma,1,0,H,1.0,0.0,H
+ITA,1967-01-08,,SSC Napoli,Inter,0,0,D,0.0,0.0,D
+ITA,1967-01-08,,Lazio Roma,Bologna FC,2,1,H,2.0,0.0,H
+ITA,1967-01-08,,Juventus,AC Mantova,1,1,D,1.0,0.0,H
+ITA,1967-01-08,,US Foggia,Brescia Calcio,0,1,A,0.0,0.0,D
+ITA,1967-01-08,,Atalanta,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1967-01-08,,AC Milan,Torino FC,1,1,D,1.0,1.0,D
+ITA,1967-01-15,,Juventus,Lanerossi Vicenza,2,0,H,0.0,0.0,D
+ITA,1967-01-15,,SSC Napoli,Calcio Lecco 1912,4,1,H,2.0,1.0,H
+ITA,1967-01-15,,SPAL 1907 Ferrara,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,1967-01-15,,AS Roma,AC Venezia,1,0,H,0.0,0.0,D
+ITA,1967-01-15,,Brescia Calcio,Torino FC,0,1,A,0.0,0.0,D
+ITA,1967-01-15,,AC Milan,Bologna FC,1,1,D,1.0,0.0,H
+ITA,1967-01-15,,US Foggia,Lazio Roma,2,1,H,0.0,1.0,A
+ITA,1967-01-15,,ACF Fiorentina,Inter,1,2,A,1.0,1.0,D
+ITA,1967-01-15,,AC Mantova,Atalanta,0,0,D,0.0,0.0,D
+ITA,1967-01-22,,ACF Fiorentina,AS Roma,2,2,D,1.0,1.0,D
+ITA,1967-01-22,,AC Venezia,SPAL 1907 Ferrara,1,0,H,0.0,0.0,D
+ITA,1967-01-22,,Torino FC,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1967-01-22,,Calcio Lecco 1912,AC Milan,1,1,D,1.0,1.0,D
+ITA,1967-01-22,,Inter,AC Mantova,1,1,D,1.0,0.0,H
+ITA,1967-01-22,,Cagliari Calcio,Brescia Calcio,2,0,H,0.0,0.0,D
+ITA,1967-01-22,,Bologna FC,Lanerossi Vicenza,2,0,H,0.0,0.0,D
+ITA,1967-01-22,,Atalanta,US Foggia,2,0,H,0.0,0.0,D
+ITA,1967-01-22,,Lazio Roma,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-01-29,,Inter,US Foggia,3,0,H,0.0,0.0,D
+ITA,1967-01-29,,SPAL 1907 Ferrara,Torino FC,0,0,D,0.0,0.0,D
+ITA,1967-01-29,,Lazio Roma,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1967-01-29,,AC Venezia,AC Milan,1,2,A,0.0,0.0,D
+ITA,1967-01-29,,Cagliari Calcio,Calcio Lecco 1912,3,1,H,1.0,0.0,H
+ITA,1967-01-29,,Brescia Calcio,AS Roma,3,3,D,3.0,2.0,H
+ITA,1967-01-29,,Bologna FC,AC Mantova,1,1,D,1.0,1.0,D
+ITA,1967-01-29,,Lanerossi Vicenza,SSC Napoli,2,1,H,0.0,1.0,A
+ITA,1967-01-29,,Juventus,Atalanta,0,0,D,0.0,0.0,D
+ITA,1967-02-05,,Lanerossi Vicenza,Inter,0,5,A,0.0,2.0,A
+ITA,1967-02-05,,SPAL 1907 Ferrara,SSC Napoli,1,4,A,0.0,3.0,A
+ITA,1967-02-05,,AS Roma,AC Mantova,1,1,D,1.0,1.0,D
+ITA,1967-02-05,,Calcio Lecco 1912,Juventus,1,3,A,0.0,1.0,A
+ITA,1967-02-05,,US Foggia,Bologna FC,0,1,A,0.0,0.0,D
+ITA,1967-02-05,,ACF Fiorentina,Brescia Calcio,7,1,H,2.0,0.0,H
+ITA,1967-02-05,,Atalanta,AC Venezia,1,0,H,0.0,0.0,D
+ITA,1967-02-05,,Torino FC,Lazio Roma,1,1,D,1.0,1.0,D
+ITA,1967-02-05,,AC Milan,Cagliari Calcio,2,1,H,1.0,0.0,H
+ITA,1967-02-12,,AC Venezia,Torino FC,1,1,D,0.0,1.0,A
+ITA,1967-02-12,,SSC Napoli,AS Roma,2,0,H,1.0,0.0,H
+ITA,1967-02-12,,Lazio Roma,Calcio Lecco 1912,2,0,H,1.0,0.0,H
+ITA,1967-02-12,,AC Mantova,AC Milan,1,0,H,0.0,0.0,D
+ITA,1967-02-12,,Inter,Atalanta,2,0,H,1.0,0.0,H
+ITA,1967-02-12,,US Foggia,Lanerossi Vicenza,2,2,D,1.0,1.0,D
+ITA,1967-02-12,,Bologna FC,Cagliari Calcio,1,1,D,0.0,0.0,D
+ITA,1967-02-12,,Brescia Calcio,SPAL 1907 Ferrara,0,0,D,0.0,0.0,D
+ITA,1967-02-12,,Juventus,ACF Fiorentina,4,1,H,2.0,0.0,H
+ITA,1967-02-19,,ACF Fiorentina,AC Venezia,2,0,H,1.0,0.0,H
+ITA,1967-02-19,,Torino FC,Bologna FC,1,1,D,1.0,1.0,D
+ITA,1967-02-19,,SPAL 1907 Ferrara,Inter,1,3,A,1.0,2.0,A
+ITA,1967-02-19,,AS Roma,Lanerossi Vicenza,1,1,D,1.0,0.0,H
+ITA,1967-02-19,,Calcio Lecco 1912,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1967-02-19,,Cagliari Calcio,US Foggia,0,0,D,0.0,0.0,D
+ITA,1967-02-19,,Brescia Calcio,Juventus,1,1,D,0.0,1.0,A
+ITA,1967-02-19,,Atalanta,Lazio Roma,3,0,H,2.0,0.0,H
+ITA,1967-02-19,,AC Milan,SSC Napoli,1,0,H,0.0,0.0,D
+ITA,1967-02-26,,AC Mantova,ACF Fiorentina,0,0,D,0.0,0.0,D
+ITA,1967-02-26,,Juventus,Torino FC,0,0,D,0.0,0.0,D
+ITA,1967-02-26,,AC Venezia,US Foggia,1,0,H,0.0,0.0,D
+ITA,1967-02-26,,SSC Napoli,Atalanta,3,0,H,2.0,0.0,H
+ITA,1967-02-26,,Bologna FC,SPAL 1907 Ferrara,2,0,H,2.0,0.0,H
+ITA,1967-02-26,,Inter,Calcio Lecco 1912,1,1,D,0.0,1.0,A
+ITA,1967-02-26,,Cagliari Calcio,AS Roma,2,1,H,0.0,1.0,A
+ITA,1967-02-26,,Lazio Roma,AC Milan,0,0,D,0.0,0.0,D
+ITA,1967-02-26,,Lanerossi Vicenza,Brescia Calcio,1,1,D,1.0,0.0,H
+ITA,1967-03-05,,Calcio Lecco 1912,Bologna FC,1,2,A,1.0,0.0,H
+ITA,1967-03-05,,SPAL 1907 Ferrara,Atalanta,1,0,H,1.0,0.0,H
+ITA,1967-03-05,,AS Roma,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1967-03-05,,AC Milan,Lanerossi Vicenza,2,0,H,0.0,0.0,D
+ITA,1967-03-05,,US Foggia,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-03-05,,ACF Fiorentina,Cagliari Calcio,1,0,H,0.0,0.0,D
+ITA,1967-03-05,,Brescia Calcio,Inter,0,3,A,0.0,0.0,D
+ITA,1967-03-05,,Torino FC,AC Mantova,2,0,H,2.0,0.0,H
+ITA,1967-03-05,,SSC Napoli,AC Venezia,4,0,H,3.0,0.0,H
+ITA,1967-03-12,,Lanerossi Vicenza,ACF Fiorentina,3,1,H,2.0,1.0,H
+ITA,1967-03-12,,AC Mantova,Brescia Calcio,0,0,D,0.0,0.0,D
+ITA,1967-03-12,,AC Venezia,Cagliari Calcio,1,1,D,0.0,0.0,D
+ITA,1967-03-12,,Lazio Roma,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1967-03-12,,Inter,Torino FC,1,2,A,0.0,2.0,A
+ITA,1967-03-12,,US Foggia,AC Milan,0,2,A,,,
+ITA,1967-03-12,,Atalanta,Calcio Lecco 1912,1,0,H,1.0,0.0,H
+ITA,1967-03-12,,Bologna FC,AS Roma,2,0,H,0.0,0.0,D
+ITA,1967-03-12,,Juventus,SPAL 1907 Ferrara,2,1,H,1.0,1.0,D
+ITA,1967-03-19,,AC Mantova,AC Venezia,2,1,H,1.0,1.0,D
+ITA,1967-03-19,,SPAL 1907 Ferrara,Lazio Roma,4,1,H,2.0,1.0,H
+ITA,1967-03-19,,AS Roma,Inter,0,0,D,0.0,0.0,D
+ITA,1967-03-19,,AC Milan,Brescia Calcio,0,1,A,0.0,0.0,D
+ITA,1967-03-19,,Torino FC,Calcio Lecco 1912,1,1,D,0.0,0.0,D
+ITA,1967-03-19,,ACF Fiorentina,US Foggia,0,1,A,0.0,1.0,A
+ITA,1967-03-19,,Cagliari Calcio,Juventus,0,0,D,0.0,0.0,D
+ITA,1967-03-19,,Atalanta,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1967-03-19,,SSC Napoli,Bologna FC,2,1,H,2.0,0.0,H
+ITA,1967-04-02,,Juventus,SSC Napoli,2,0,H,0.0,0.0,D
+ITA,1967-04-02,,Lazio Roma,AC Venezia,1,1,D,1.0,0.0,H
+ITA,1967-04-02,,Calcio Lecco 1912,AS Roma,2,2,D,1.0,2.0,A
+ITA,1967-04-02,,Lanerossi Vicenza,Torino FC,0,1,A,0.0,1.0,A
+ITA,1967-04-02,,Inter,AC Milan,4,0,H,1.0,0.0,H
+ITA,1967-04-02,,US Foggia,SPAL 1907 Ferrara,0,0,D,0.0,0.0,D
+ITA,1967-04-02,,ACF Fiorentina,Bologna FC,1,1,D,1.0,1.0,D
+ITA,1967-04-02,,Brescia Calcio,Atalanta,0,0,D,0.0,0.0,D
+ITA,1967-04-02,,Cagliari Calcio,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1967-04-09,,Lazio Roma,Cagliari Calcio,0,1,A,0.0,0.0,D
+ITA,1967-04-09,,Atalanta,Torino FC,1,1,D,1.0,1.0,D
+ITA,1967-04-09,,ACF Fiorentina,AC Milan,1,0,H,1.0,0.0,H
+ITA,1967-04-09,,US Foggia,Calcio Lecco 1912,4,1,H,3.0,0.0,H
+ITA,1967-04-09,,Inter,Bologna FC,2,1,H,0.0,0.0,D
+ITA,1967-04-09,,SSC Napoli,AC Mantova,1,0,H,1.0,0.0,H
+ITA,1967-04-09,,SPAL 1907 Ferrara,Lanerossi Vicenza,1,1,D,0.0,1.0,A
+ITA,1967-04-09,,AC Venezia,Brescia Calcio,3,0,H,2.0,0.0,H
+ITA,1967-04-09,,Juventus,AS Roma,2,0,H,2.0,0.0,H
+ITA,1967-04-16,,AC Milan,SPAL 1907 Ferrara,2,0,H,1.0,0.0,H
+ITA,1967-04-16,,AC Venezia,Inter,2,3,A,2.0,2.0,D
+ITA,1967-04-16,,Torino FC,Cagliari Calcio,1,0,H,1.0,0.0,H
+ITA,1967-04-16,,SSC Napoli,Brescia Calcio,1,1,D,0.0,1.0,A
+ITA,1967-04-16,,AC Mantova,US Foggia,0,1,A,0.0,1.0,A
+ITA,1967-04-16,,Calcio Lecco 1912,ACF Fiorentina,0,3,A,0.0,0.0,D
+ITA,1967-04-16,,Lanerossi Vicenza,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1967-04-16,,Bologna FC,Juventus,2,0,H,2.0,0.0,H
+ITA,1967-04-16,,AS Roma,Atalanta,3,2,H,0.0,2.0,A
+ITA,1967-04-23,,Inter,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,1967-04-23,,Juventus,AC Venezia,2,1,H,0.0,1.0,A
+ITA,1967-04-23,,SPAL 1907 Ferrara,Calcio Lecco 1912,2,1,H,1.0,1.0,D
+ITA,1967-04-23,,AS Roma,US Foggia,0,0,D,0.0,0.0,D
+ITA,1967-04-23,,ACF Fiorentina,Torino FC,1,0,H,0.0,0.0,D
+ITA,1967-04-23,,Atalanta,AC Milan,0,0,D,0.0,0.0,D
+ITA,1967-04-23,,Cagliari Calcio,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,1967-04-23,,Brescia Calcio,Bologna FC,0,2,A,0.0,0.0,D
+ITA,1967-04-23,,AC Mantova,Lanerossi Vicenza,2,0,H,1.0,0.0,H
+ITA,1967-04-30,,US Foggia,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,1967-04-30,,AC Venezia,Lanerossi Vicenza,0,2,A,0.0,0.0,D
+ITA,1967-04-30,,Torino FC,AS Roma,3,1,H,2.0,1.0,H
+ITA,1967-04-30,,AC Milan,Juventus,3,1,H,2.0,1.0,H
+ITA,1967-04-30,,Lazio Roma,AC Mantova,1,0,H,0.0,0.0,D
+ITA,1967-04-30,,ACF Fiorentina,SPAL 1907 Ferrara,0,0,D,0.0,0.0,D
+ITA,1967-04-30,,Cagliari Calcio,Inter,1,1,D,0.0,0.0,D
+ITA,1967-04-30,,Bologna FC,Atalanta,2,1,H,1.0,1.0,D
+ITA,1967-04-30,,Calcio Lecco 1912,Brescia Calcio,1,0,H,0.0,0.0,D
+ITA,1967-05-07,,Lazio Roma,Brescia Calcio,0,2,A,0.0,1.0,A
+ITA,1967-05-07,,AC Milan,AS Roma,3,1,H,2.0,0.0,H
+ITA,1967-05-07,,AC Venezia,Bologna FC,1,2,A,0.0,1.0,A
+ITA,1967-05-07,,SPAL 1907 Ferrara,AC Mantova,1,1,D,0.0,0.0,D
+ITA,1967-05-07,,Lanerossi Vicenza,Calcio Lecco 1912,3,0,H,1.0,0.0,H
+ITA,1967-05-07,,Atalanta,Cagliari Calcio,1,0,H,1.0,0.0,H
+ITA,1967-05-07,,Juventus,Inter,1,0,H,0.0,0.0,D
+ITA,1967-05-07,,US Foggia,Torino FC,0,0,D,0.0,0.0,D
+ITA,1967-05-07,,SSC Napoli,ACF Fiorentina,1,2,A,1.0,1.0,D
+ITA,1967-05-14,,ACF Fiorentina,Atalanta,1,1,D,1.0,0.0,H
+ITA,1967-05-14,,Torino FC,AC Milan,0,0,D,0.0,0.0,D
+ITA,1967-05-14,,AS Roma,SPAL 1907 Ferrara,1,0,H,1.0,0.0,H
+ITA,1967-05-14,,AC Mantova,Juventus,1,1,D,0.0,1.0,A
+ITA,1967-05-14,,Inter,SSC Napoli,1,1,D,0.0,0.0,D
+ITA,1967-05-14,,Cagliari Calcio,Lanerossi Vicenza,0,0,D,0.0,0.0,D
+ITA,1967-05-14,,Brescia Calcio,US Foggia,0,0,D,0.0,0.0,D
+ITA,1967-05-14,,Bologna FC,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,1967-05-14,,Calcio Lecco 1912,AC Venezia,2,1,H,2.0,0.0,H
+ITA,1967-05-21,,Inter,ACF Fiorentina,1,1,D,0.0,0.0,D
+ITA,1967-05-21,,AC Venezia,AS Roma,1,2,A,0.0,0.0,D
+ITA,1967-05-21,,Torino FC,Brescia Calcio,3,0,H,1.0,0.0,H
+ITA,1967-05-21,,Calcio Lecco 1912,SSC Napoli,0,3,A,0.0,2.0,A
+ITA,1967-05-21,,Cagliari Calcio,SPAL 1907 Ferrara,1,1,D,0.0,0.0,D
+ITA,1967-05-21,,Bologna FC,AC Milan,2,0,H,0.0,0.0,D
+ITA,1967-05-21,,Atalanta,AC Mantova,0,0,D,0.0,0.0,D
+ITA,1967-05-21,,Lazio Roma,US Foggia,2,1,H,2.0,0.0,H
+ITA,1967-05-21,,Lanerossi Vicenza,Juventus,0,1,A,0.0,0.0,D
+ITA,1967-05-28,,Lanerossi Vicenza,Bologna FC,0,0,D,0.0,0.0,D
+ITA,1967-05-28,,AS Roma,ACF Fiorentina,0,1,A,0.0,1.0,A
+ITA,1967-05-28,,SSC Napoli,Torino FC,2,1,H,1.0,1.0,D
+ITA,1967-05-28,,AC Mantova,Inter,1,0,H,0.0,0.0,D
+ITA,1967-05-28,,Juventus,Lazio Roma,2,1,H,0.0,0.0,D
+ITA,1967-05-28,,US Foggia,Atalanta,4,1,H,1.0,0.0,H
+ITA,1967-05-28,,Brescia Calcio,Cagliari Calcio,1,2,A,0.0,1.0,A
+ITA,1967-05-28,,SPAL 1907 Ferrara,AC Venezia,3,2,H,0.0,1.0,A
+ITA,1967-05-28,,AC Milan,Calcio Lecco 1912,1,1,D,1.0,0.0,H

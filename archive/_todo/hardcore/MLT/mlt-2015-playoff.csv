@@ -1,0 +1,67 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MLT,2015-02-21,13:00,Floriana FC,Pietá Hotspurs,2,0,H,,,
+MLT,2015-02-21,13:00,Valletta FC,Żebbuġ Rangers,2,3,A,,,
+MLT,2015-02-21,15:00,Sliema Wanderers,Tarxien Rainbows,3,2,H,,,
+MLT,2015-02-21,15:15,Balzan Youths,Mosta FC,1,1,D,1.0,1.0,D
+MLT,2015-02-22,13:00,Birkirkara FC,Naxxar Lions FC,1,0,H,1.0,0.0,H
+MLT,2015-02-22,15:00,Hibernians FC,Qormi FC,2,1,H,1.0,0.0,H
+MLT,2015-02-28,13:00,Tarxien Rainbows,Floriana FC,1,2,A,1.0,1.0,D
+MLT,2015-02-28,13:00,Pietá Hotspurs,Sliema Wanderers,1,1,D,0.0,1.0,A
+MLT,2015-02-28,15:00,Żebbuġ Rangers,Hibernians FC,0,5,A,0.0,4.0,A
+MLT,2015-02-28,15:15,Naxxar Lions FC,Balzan Youths,1,2,A,1.0,1.0,D
+MLT,2015-03-01,13:00,Mosta FC,Birkirkara FC,0,3,A,0.0,2.0,A
+MLT,2015-03-01,15:00,Qormi FC,Valletta FC,1,3,A,0.0,3.0,A
+MLT,2015-03-07,13:00,Mosta FC,Qormi FC,1,3,A,0.0,1.0,A
+MLT,2015-03-07,13:00,Balzan Youths,Floriana FC,0,3,A,0.0,1.0,A
+MLT,2015-03-07,15:00,Hibernians FC,Pietá Hotspurs,3,1,H,2.0,0.0,H
+MLT,2015-03-07,15:15,Birkirkara FC,Sliema Wanderers,4,2,H,3.0,2.0,H
+MLT,2015-03-08,13:00,Naxxar Lions FC,Żebbuġ Rangers,2,1,H,0.0,1.0,A
+MLT,2015-03-08,15:00,Valletta FC,Tarxien Rainbows,4,0,H,3.0,0.0,H
+MLT,2015-03-14,13:00,Żebbuġ Rangers,Mosta FC,1,3,A,0.0,0.0,D
+MLT,2015-03-14,15:15,Pietá Hotspurs,Valletta FC,1,2,A,0.0,0.0,D
+MLT,2015-03-15,13:00,Qormi FC,Naxxar Lions FC,1,2,A,0.0,1.0,A
+MLT,2015-03-15,13:00,Floriana FC,Birkirkara FC,0,0,D,0.0,0.0,D
+MLT,2015-03-15,15:00,Sliema Wanderers,Balzan Youths,1,2,A,0.0,2.0,A
+MLT,2015-03-15,15:00,Tarxien Rainbows,Hibernians FC,0,2,A,0.0,1.0,A
+MLT,2015-03-19,13:00,Birkirkara FC,Pietá Hotspurs,2,1,H,0.0,0.0,D
+MLT,2015-03-19,13:00,Floriana FC,Qormi FC,0,0,D,0.0,0.0,D
+MLT,2015-03-19,15:00,Valletta FC,Mosta FC,3,1,H,1.0,0.0,H
+MLT,2015-03-19,15:00,Hibernians FC,Naxxar Lions FC,2,2,D,2.0,1.0,H
+MLT,2015-03-20,17:00,Balzan Youths,Tarxien Rainbows,3,2,H,1.0,1.0,D
+MLT,2015-03-20,19:15,Sliema Wanderers,Żebbuġ Rangers,3,2,H,1.0,1.0,D
+MLT,2015-04-04,15:00,Tarxien Rainbows,Birkirkara FC,0,2,A,0.0,2.0,A
+MLT,2015-04-04,15:00,Żebbuġ Rangers,Floriana FC,1,3,A,0.0,2.0,A
+MLT,2015-04-04,17:00,Mosta FC,Hibernians FC,0,5,A,0.0,3.0,A
+MLT,2015-04-04,17:00,Qormi FC,Sliema Wanderers,0,0,D,0.0,0.0,D
+MLT,2015-04-06,17:00,Pietá Hotspurs,Balzan Youths,0,3,A,0.0,1.0,A
+MLT,2015-04-06,19:00,Naxxar Lions FC,Valletta FC,0,1,A,0.0,0.0,D
+MLT,2015-04-10,17:00,Pietá Hotspurs,Mosta FC,2,3,A,0.0,2.0,A
+MLT,2015-04-10,19:00,Birkirkara FC,Qormi FC,2,2,D,0.0,1.0,A
+MLT,2015-04-12,15:00,Valletta FC,Floriana FC,1,0,H,1.0,0.0,H
+MLT,2015-04-12,17:00,Hibernians FC,Sliema Wanderers,3,2,H,0.0,1.0,A
+MLT,2015-04-13,17:00,Balzan Youths,Żebbuġ Rangers,4,1,H,3.0,1.0,H
+MLT,2015-04-13,19:15,Naxxar Lions FC,Tarxien Rainbows,0,1,A,0.0,0.0,D
+MLT,2015-04-17,17:00,Qormi FC,Balzan Youths,1,5,A,0.0,4.0,A
+MLT,2015-04-17,19:00,Sliema Wanderers,Valletta FC,3,3,D,1.0,2.0,A
+MLT,2015-04-18,15:00,Floriana FC,Hibernians FC,1,3,A,1.0,3.0,A
+MLT,2015-04-18,17:00,Tarxien Rainbows,Mosta FC,2,1,H,2.0,1.0,H
+MLT,2015-04-19,15:00,Żebbuġ Rangers,Birkirkara FC,1,3,A,0.0,1.0,A
+MLT,2015-04-19,17:00,Pietá Hotspurs,Naxxar Lions FC,0,0,D,0.0,0.0,D
+MLT,2015-04-25,16:00,Sliema Wanderers,Mosta FC,5,1,H,2.0,0.0,H
+MLT,2015-04-25,16:00,Pietá Hotspurs,Żebbuġ Rangers,3,1,H,1.0,1.0,D
+MLT,2015-04-25,18:00,Valletta FC,Birkirkara FC,2,1,H,1.0,0.0,H
+MLT,2015-04-25,18:15,Tarxien Rainbows,Qormi FC,0,4,A,0.0,3.0,A
+MLT,2015-04-26,16:00,Floriana FC,Naxxar Lions FC,4,1,H,2.0,1.0,H
+MLT,2015-04-26,18:00,Hibernians FC,Balzan Youths,1,3,A,0.0,1.0,A
+MLT,2015-05-02,16:00,Naxxar Lions FC,Sliema Wanderers,4,3,H,1.0,2.0,A
+MLT,2015-05-02,16:00,Qormi FC,Pietá Hotspurs,2,1,H,1.0,0.0,H
+MLT,2015-05-02,18:00,Żebbuġ Rangers,Tarxien Rainbows,0,2,A,0.0,1.0,A
+MLT,2015-05-02,18:00,Balzan Youths,Valletta FC,0,1,A,0.0,0.0,D
+MLT,2015-05-03,16:00,Mosta FC,Floriana FC,2,2,D,0.0,1.0,A
+MLT,2015-05-03,18:00,Birkirkara FC,Hibernians FC,0,0,D,0.0,0.0,D
+MLT,2015-05-07,17:00,Floriana FC,Sliema Wanderers,3,1,H,2.0,0.0,H
+MLT,2015-05-07,19:00,Birkirkara FC,Balzan Youths,0,1,A,0.0,1.0,A
+MLT,2015-05-08,18:30,Mosta FC,Naxxar Lions FC,1,2,A,0.0,0.0,D
+MLT,2015-05-08,18:30,Tarxien Rainbows,Pietá Hotspurs,3,1,H,1.0,0.0,H
+MLT,2015-05-08,18:30,Żebbuġ Rangers,Qormi FC,1,3,A,1.0,2.0,A
+MLT,2015-05-09,15:00,Hibernians FC,Valletta FC,3,1,H,2.0,0.0,H

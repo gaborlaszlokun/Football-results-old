@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CHI,2014-01-03,21:30,O'Higgins,Deportes Iquique,1,0,H,0,0,D
+CHI,2014-01-04,00:00,Santiago Wanderers,CD Huachipato,4,2,H,3,2,H
+CHI,2014-01-04,19:30,CD Palestino,Everton,4,0,H,2,0,H
+CHI,2014-01-04,21:30,Universidad de Concepción,CD Cobreloa,1,0,H,0,0,D
+CHI,2014-01-04,21:45,CSD Rangers,Universidad de Chile,0,1,A,0,0,D
+CHI,2014-01-05,00:00,Unión Española,Antofagasta,1,1,D,1,1,D
+CHI,2014-01-05,19:30,Deportivo Ñublense,Universidad Católica,1,2,A,0,2,A
+CHI,2014-01-05,19:30,CD Cobresal,Unión La Calera,1,5,A,0,1,A
+CHI,2014-01-05,22:00,Colo-Colo,Audax Italiano,2,1,H,0,1,A
+CHI,2014-01-09,23:00,Audax Italiano,Santiago Wanderers,2,0,H,1,0,H
+CHI,2014-01-10,23:00,Universidad de Chile,CD Palestino,0,1,A,0,0,D
+CHI,2014-01-10,23:00,CD Huachipato,CSD Rangers,3,2,H,2,0,H
+CHI,2014-01-11,01:00,Deportes Iquique,CD Cobresal,2,0,H,2,0,H
+CHI,2014-01-11,20:00,Unión La Calera,Universidad de Concepción,0,2,A,0,1,A
+CHI,2014-01-11,22:30,Universidad Católica,Unión Española,1,0,H,0,0,D
+CHI,2014-01-12,01:00,Antofagasta,O'Higgins,0,0,D,0,0,D
+CHI,2014-01-12,19:00,CD Cobreloa,Deportivo Ñublense,3,1,H,2,1,H
+CHI,2014-01-12,21:30,Everton,Colo-Colo,0,2,A,0,2,A
+CHI,2014-01-13,23:00,Santiago Wanderers,CD Palestino,2,2,D,0,1,A
+CHI,2014-01-14,18:30,CD Cobresal,Universidad de Chile,2,1,H,0,0,D
+CHI,2014-01-14,21:00,Universidad de Concepción,Universidad Católica,2,1,H,0,1,A
+CHI,2014-01-14,23:30,O'Higgins,Audax Italiano,1,1,D,0,0,D
+CHI,2014-01-15,19:00,CSD Rangers,Everton,3,0,H,2,0,H
+CHI,2014-01-15,19:00,CD Cobreloa,CD Huachipato,1,1,D,1,1,D
+CHI,2014-01-15,21:30,Unión Española,Deportes Iquique,1,1,D,1,1,D
+CHI,2014-01-15,23:00,Deportivo Ñublense,Unión La Calera,2,0,H,0,0,D
+CHI,2014-01-16,00:00,Colo-Colo,Antofagasta,1,1,D,1,0,H
+CHI,2014-01-24,21:30,CD Palestino,Universidad de Concepción,1,0,H,0,0,D
+CHI,2014-01-25,20:00,CD Huachipato,Unión Española,1,2,A,0,0,D
+CHI,2014-01-25,22:30,Audax Italiano,Universidad Católica,1,1,D,0,1,A
+CHI,2014-01-25,22:30,Antofagasta,CD Cobresal,1,0,H,0,0,D
+CHI,2014-01-25,22:30,Unión La Calera,CSD Rangers,3,1,H,2,0,H
+CHI,2014-01-26,01:00,Deportes Iquique,Colo-Colo,2,5,A,0,2,A
+CHI,2014-01-26,20:00,Everton,O'Higgins,0,2,A,0,0,D
+CHI,2014-01-26,22:30,Universidad de Chile,Deportivo Ñublense,5,0,H,1,0,H
+CHI,2014-01-27,23:00,Santiago Wanderers,CD Cobreloa,2,2,D,2,1,H
+CHI,2014-01-31,21:30,Universidad de Concepción,Everton,2,3,A,0,2,A
+CHI,2014-02-01,00:00,Universidad Católica,CD Palestino,5,3,H,2,2,D
+CHI,2014-02-01,20:00,O'Higgins,Santiago Wanderers,2,0,H,0,0,D
+CHI,2014-02-01,22:30,Unión La Calera,Deportes Iquique,0,2,A,0,0,D
+CHI,2014-02-02,01:00,Unión Española,Deportivo Ñublense,3,2,H,2,0,H
+CHI,2014-02-02,19:00,CD Cobreloa,Audax Italiano,2,0,H,1,0,H
+CHI,2014-02-02,19:00,CD Cobresal,CSD Rangers,2,2,D,1,1,D
+CHI,2014-02-02,20:00,Antofagasta,Universidad de Chile,1,3,A,0,1,A
+CHI,2014-02-02,22:30,Colo-Colo,CD Huachipato,5,3,H,3,1,H
+CHI,2014-02-07,21:30,CSD Rangers,CD Cobreloa,2,1,H,1,1,D
+CHI,2014-02-08,00:00,Audax Italiano,Unión La Calera,0,1,A,0,1,A
+CHI,2014-02-08,19:00,CD Cobresal,Universidad Católica,0,1,A,0,0,D
+CHI,2014-02-08,21:30,CD Palestino,O'Higgins,1,1,D,0,0,D
+CHI,2014-02-09,00:00,Everton,Antofagasta,1,1,D,0,1,A
+CHI,2014-02-09,19:30,Santiago Wanderers,Universidad de Chile,2,1,H,0,1,A
+CHI,2014-02-09,20:00,CD Huachipato,Deportes Iquique,0,1,A,0,0,D
+CHI,2014-02-09,21:00,Deportivo Ñublense,Universidad de Concepción,3,1,H,1,0,H
+CHI,2014-02-09,22:00,Unión Española,Colo-Colo,1,4,A,0,2,A
+CHI,2014-02-14,21:00,CD Cobreloa,Unión Española,1,1,D,0,0,D
+CHI,2014-02-14,23:30,Colo-Colo,CSD Rangers,3,1,H,1,1,D
+CHI,2014-02-15,20:00,Universidad de Concepción,CD Cobresal,1,1,D,1,1,D
+CHI,2014-02-15,20:00,Unión La Calera,CD Palestino,2,3,A,1,0,H
+CHI,2014-02-15,22:30,Universidad Católica,CD Huachipato,7,1,H,3,0,H
+CHI,2014-02-16,01:00,Deportes Iquique,Santiago Wanderers,3,1,H,2,0,H
+CHI,2014-02-16,01:00,Antofagasta,Audax Italiano,0,1,A,0,0,D
+CHI,2014-02-16,20:00,Deportivo Ñublense,O'Higgins,0,2,A,0,1,A
+CHI,2014-02-16,22:30,Universidad de Chile,Everton,2,1,H,1,0,H
+CHI,2014-02-21,22:00,Audax Italiano,Universidad de Chile,3,3,D,1,1,D
+CHI,2014-02-22,00:30,CD Huachipato,Deportivo Ñublense,1,0,H,1,0,H
+CHI,2014-02-22,19:00,CSD Rangers,Universidad de Concepción,0,0,D,0,0,D
+CHI,2014-02-22,21:30,O'Higgins,Universidad Católica,2,0,H,1,0,H
+CHI,2014-02-23,00:00,Unión Española,Everton,1,3,A,1,0,H
+CHI,2014-02-23,01:00,Deportes Iquique,Antofagasta,3,2,H,0,2,A
+CHI,2014-02-23,19:30,CD Cobresal,CD Cobreloa,3,0,H,0,0,D
+CHI,2014-02-23,19:30,Santiago Wanderers,Unión La Calera,1,0,H,1,0,H
+CHI,2014-02-23,22:00,CD Palestino,Colo-Colo,1,2,A,0,2,A
+CHI,2014-02-27,23:00,Universidad Católica,Deportes Iquique,1,0,H,1,0,H
+CHI,2014-02-28,22:00,Colo-Colo,CD Cobresal,3,2,H,1,1,D
+CHI,2014-03-01,19:00,Universidad de Chile,Unión Española,3,3,D,1,1,D
+CHI,2014-03-01,21:30,Antofagasta,Unión La Calera,2,3,A,0,2,A
+CHI,2014-03-01,21:30,CD Huachipato,O'Higgins,1,0,H,1,0,H
+CHI,2014-03-02,00:00,Audax Italiano,Universidad de Concepción,2,2,D,1,1,D
+CHI,2014-03-02,19:00,CD Cobreloa,CD Palestino,0,1,A,0,0,D
+CHI,2014-03-02,20:00,Everton,Santiago Wanderers,2,1,H,1,1,D
+CHI,2014-03-02,22:30,Deportivo Ñublense,CSD Rangers,1,0,H,0,0,D
+CHI,2014-03-06,19:00,CD Palestino,CD Huachipato,2,1,H,0,0,D
+CHI,2014-03-06,21:15,Santiago Wanderers,Deportivo Ñublense,1,1,D,0,1,A
+CHI,2014-03-06,23:30,Unión Española,Audax Italiano,3,2,H,2,1,H
+CHI,2014-03-08,19:00,Universidad de Concepción,Antofagasta,1,1,D,1,0,H
+CHI,2014-03-08,21:30,O'Higgins,Universidad de Chile,1,0,H,1,0,H
+CHI,2014-03-09,01:00,Deportes Iquique,CD Cobreloa,5,2,H,2,0,H
+CHI,2014-03-09,19:00,Unión La Calera,Colo-Colo,1,5,A,0,2,A
+CHI,2014-03-09,19:00,CD Cobresal,Everton,2,0,H,1,0,H
+CHI,2014-03-09,21:30,CSD Rangers,Universidad Católica,0,2,A,0,1,A
+CHI,2014-03-14,23:00,CD Huachipato,CD Cobresal,1,0,H,0,0,D
+CHI,2014-03-15,19:00,CD Cobreloa,Colo-Colo,0,0,D,0,0,D
+CHI,2014-03-15,21:30,Universidad de Chile,Deportes Iquique,3,1,H,1,1,D
+CHI,2014-03-16,00:00,Deportivo Ñublense,Audax Italiano,2,1,H,2,0,H
+CHI,2014-03-16,19:00,CSD Rangers,Antofagasta,1,3,A,0,1,A
+CHI,2014-03-16,21:30,O'Higgins,Universidad de Concepción,0,0,D,0,0,D
+CHI,2014-03-17,23:00,Santiago Wanderers,Universidad Católica,0,2,A,0,1,A
+CHI,2014-03-18,23:00,Everton,Unión La Calera,1,0,H,1,0,H
+CHI,2014-03-21,23:00,Audax Italiano,CD Huachipato,0,0,D,0,0,D
+CHI,2014-03-22,15:30,Universidad de Concepción,Santiago Wanderers,2,1,H,1,0,H
+CHI,2014-03-22,23:30,Antofagasta,CD Palestino,2,1,H,1,0,H
+CHI,2014-03-23,14:30,Universidad Católica,Universidad de Chile,0,3,A,0,1,A
+CHI,2014-03-23,19:00,Unión Española,CSD Rangers,4,0,H,1,0,H
+CHI,2014-03-23,19:00,CD Cobresal,Deportivo Ñublense,2,1,H,0,0,D
+CHI,2014-03-23,20:30,Unión La Calera,CD Cobreloa,0,1,A,0,0,D
+CHI,2014-03-23,22:30,Colo-Colo,O'Higgins,3,0,H,1,0,H
+CHI,2014-03-24,01:00,Deportes Iquique,Everton,2,0,H,0,0,D
+CHI,2014-03-26,20:00,CD Palestino,Unión Española,1,2,A,1,0,H
+CHI,2014-03-29,14:30,Universidad de Chile,Unión La Calera,0,1,A,0,0,D
+CHI,2014-03-29,16:30,CD Palestino,CSD Rangers,0,0,D,0,0,D
+CHI,2014-03-29,18:30,CD Cobreloa,Universidad Católica,2,1,H,1,0,H
+CHI,2014-03-29,20:30,Santiago Wanderers,Unión Española,4,0,H,2,0,H
+CHI,2014-03-30,20:00,Deportivo Ñublense,Deportes Iquique,3,0,H,1,0,H
+CHI,2014-03-30,20:00,CD Huachipato,Antofagasta,4,1,H,3,1,H
+CHI,2014-03-30,20:00,O'Higgins,CD Cobresal,3,2,H,2,2,D
+CHI,2014-03-30,22:30,Colo-Colo,Universidad de Concepción,1,2,A,1,0,H
+CHI,2014-04-01,00:00,Everton,Audax Italiano,1,1,D,0,1,A
+CHI,2014-04-05,00:00,Antofagasta,Deportivo Ñublense,1,0,H,0,0,D
+CHI,2014-04-05,16:30,CD Cobreloa,O'Higgins,2,1,H,1,0,H
+CHI,2014-04-05,19:30,CSD Rangers,Santiago Wanderers,1,0,H,1,0,H
+CHI,2014-04-05,19:30,Universidad de Concepción,CD Huachipato,1,1,D,0,1,A
+CHI,2014-04-05,22:00,Universidad Católica,Everton,3,1,H,2,0,H
+CHI,2014-04-06,19:30,Universidad de Chile,Colo-Colo,0,1,A,0,1,A
+CHI,2014-04-06,20:00,CD Cobresal,CD Palestino,1,1,D,0,1,A
+CHI,2014-04-06,22:30,Unión La Calera,Unión Española,4,0,H,3,0,H
+CHI,2014-04-07,00:30,Audax Italiano,Deportes Iquique,3,0,H,1,0,H
+CHI,2014-04-11,20:00,Deportes Iquique,CSD Rangers,0,1,A,0,0,D
+CHI,2014-04-12,00:00,Audax Italiano,CD Cobresal,1,3,A,0,1,A
+CHI,2014-04-12,16:30,Unión Española,Universidad de Concepción,2,1,H,1,0,H
+CHI,2014-04-12,19:30,Everton,CD Cobreloa,2,0,H,1,0,H
+CHI,2014-04-12,22:00,Universidad Católica,Antofagasta,2,0,H,0,0,D
+CHI,2014-04-13,00:30,O'Higgins,Unión La Calera,0,0,D,0,0,D
+CHI,2014-04-13,16:00,Colo-Colo,Santiago Wanderers,1,0,H,1,0,H
+CHI,2014-04-13,19:30,CD Huachipato,Universidad de Chile,5,2,H,0,2,A
+CHI,2014-04-13,19:30,Deportivo Ñublense,CD Palestino,0,2,A,0,1,A
+CHI,2014-04-19,16:30,CD Palestino,Deportes Iquique,0,1,A,0,1,A
+CHI,2014-04-19,16:30,CSD Rangers,Audax Italiano,0,2,A,0,0,D
+CHI,2014-04-19,19:00,Universidad de Concepción,Universidad de Chile,1,0,H,0,0,D
+CHI,2014-04-19,21:30,Unión Española,O'Higgins,1,3,A,0,1,A
+CHI,2014-04-20,00:00,Unión La Calera,CD Huachipato,0,6,A,0,4,A
+CHI,2014-04-20,19:30,Colo-Colo,Universidad Católica,2,2,D,2,2,D
+CHI,2014-04-20,20:00,CD Cobreloa,Antofagasta,0,1,A,0,1,A
+CHI,2014-04-20,22:30,Everton,Deportivo Ñublense,1,1,D,0,0,D
+CHI,2014-04-22,00:00,Santiago Wanderers,CD Cobresal,2,0,H,0,0,D
+CHI,2014-04-26,00:00,O'Higgins,CSD Rangers,1,1,D,0,1,A
+CHI,2014-04-26,19:30,CD Huachipato,Everton,0,0,D,0,0,D
+CHI,2014-04-26,19:30,Universidad Católica,Unión La Calera,1,1,D,0,1,A
+CHI,2014-04-26,19:30,Audax Italiano,CD Palestino,1,1,D,1,0,H
+CHI,2014-04-26,21:30,Deportes Iquique,Universidad de Concepción,0,1,A,0,0,D
+CHI,2014-04-26,22:00,Antofagasta,Santiago Wanderers,1,1,D,0,0,D
+CHI,2014-04-27,20:00,CD Cobresal,Unión Española,2,0,H,0,0,D
+CHI,2014-04-27,20:30,Deportivo Ñublense,Colo-Colo,3,5,A,1,2,A
+CHI,2014-04-27,23:00,Universidad de Chile,CD Cobreloa,0,4,A,0,3,A

@@ -1,0 +1,154 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,2008-07-26,23:00,Club San Luis,Monarcas Morelia,2,2,D,1,1,D
+MEX,2008-07-26,23:00,Cruz Azul,Deportivo Guadalajara,2,2,D,0,1,A
+MEX,2008-07-27,01:00,UANL Tigres,CF Pachuca,0,0,D,0,0,D
+MEX,2008-07-27,01:00,Indios Juárez,UAG Tecos,0,1,A,0,0,D
+MEX,2008-07-27,02:45,Atlas Guadalajara,Jaguares Chiapas,5,0,H,3,0,H
+MEX,2008-07-27,03:00,CF Atlante,Deportivo Toluca,2,1,H,0,1,A
+MEX,2008-07-27,18:00,Pumas UNAM,Club Necaxa,2,0,H,0,0,D
+MEX,2008-07-27,18:00,Puebla FC,CF Monterrey,2,2,D,1,1,D
+MEX,2008-07-27,22:00,CF América,Santos Laguna,3,2,H,1,0,H
+MEX,2008-08-02,02:00,UAG Tecos,Deportivo Guadalajara,1,0,H,0,0,D
+MEX,2008-08-02,23:00,CF Monterrey,Indios Juárez,2,0,H,1,0,H
+MEX,2008-08-02,23:00,Jaguares Chiapas,UANL Tigres,1,3,A,0,3,A
+MEX,2008-08-03,01:00,CF Pachuca,Club San Luis,2,3,A,2,1,H
+MEX,2008-08-03,02:45,Atlas Guadalajara,Cruz Azul,2,4,A,1,1,D
+MEX,2008-08-03,03:00,Club Necaxa,Puebla FC,0,0,D,0,0,D
+MEX,2008-08-03,18:00,Deportivo Toluca,CF América,2,1,H,2,0,H
+MEX,2008-08-03,18:00,Monarcas Morelia,CF Atlante,0,0,D,0,0,D
+MEX,2008-08-03,23:00,Santos Laguna,Pumas UNAM,1,1,D,0,1,A
+MEX,2008-08-07,02:30,Club San Luis,Cruz Azul,2,1,H,2,0,H
+MEX,2008-08-09,23:00,Club San Luis,Jaguares Chiapas,2,0,H,2,0,H
+MEX,2008-08-09,23:00,Cruz Azul,UAG Tecos,2,0,H,1,0,H
+MEX,2008-08-10,01:00,Indios Juárez,Club Necaxa,2,3,A,1,2,A
+MEX,2008-08-10,01:00,UANL Tigres,Atlas Guadalajara,3,0,H,0,0,D
+MEX,2008-08-10,01:00,Deportivo Guadalajara,CF Monterrey,1,1,D,1,0,H
+MEX,2008-08-10,03:00,CF Atlante,CF Pachuca,2,1,H,0,1,A
+MEX,2008-08-10,18:00,Pumas UNAM,Deportivo Toluca,2,1,H,0,1,A
+MEX,2008-08-10,20:00,Puebla FC,Santos Laguna,0,0,D,0,0,D
+MEX,2008-08-10,22:00,CF América,Monarcas Morelia,1,1,D,0,0,D
+MEX,2008-08-14,02:00,Deportivo Toluca,Deportivo Guadalajara,0,1,A,0,1,A
+MEX,2008-08-16,23:00,CF Pachuca,CF América,1,1,D,0,0,D
+MEX,2008-08-16,23:00,Jaguares Chiapas,CF Atlante,1,1,D,1,0,H
+MEX,2008-08-17,01:00,CF Monterrey,UAG Tecos,2,4,A,1,1,D
+MEX,2008-08-17,02:45,Atlas Guadalajara,Club San Luis,0,1,A,0,0,D
+MEX,2008-08-17,18:00,Deportivo Toluca,Puebla FC,3,1,H,2,1,H
+MEX,2008-08-17,22:00,Club Necaxa,Deportivo Guadalajara,2,2,D,2,1,H
+MEX,2008-08-18,00:00,Santos Laguna,Indios Juárez,3,0,H,1,0,H
+MEX,2008-08-18,02:00,Monarcas Morelia,Pumas UNAM,1,0,H,0,0,D
+MEX,2008-08-23,02:00,UAG Tecos,Club Necaxa,2,2,D,2,0,H
+MEX,2008-08-23,23:00,Club San Luis,UANL Tigres,1,0,H,0,0,D
+MEX,2008-08-23,23:00,Cruz Azul,CF Monterrey,3,2,H,1,2,A
+MEX,2008-08-24,01:00,Deportivo Guadalajara,Santos Laguna,3,5,A,3,2,H
+MEX,2008-08-24,01:00,Indios Juárez,Deportivo Toluca,1,1,D,0,1,A
+MEX,2008-08-24,03:00,CF Atlante,Atlas Guadalajara,2,2,D,1,2,A
+MEX,2008-08-24,18:00,Puebla FC,Monarcas Morelia,2,0,H,1,0,H
+MEX,2008-08-24,18:00,Pumas UNAM,CF Pachuca,3,1,H,2,0,H
+MEX,2008-08-24,22:00,CF América,Jaguares Chiapas,2,3,A,2,1,H
+MEX,2008-08-27,22:00,Santos Laguna,UAG Tecos,2,0,H,0,0,D
+MEX,2008-08-28,02:00,CF Pachuca,Puebla FC,2,0,H,1,0,H
+MEX,2008-08-28,02:30,Monarcas Morelia,Indios Juárez,0,1,A,0,0,D
+MEX,2008-08-28,02:30,UANL Tigres,CF Atlante,1,0,H,1,0,H
+MEX,2008-08-28,02:45,Atlas Guadalajara,CF América,1,1,D,0,1,A
+MEX,2008-08-28,03:00,Club Necaxa,CF Monterrey,0,1,A,0,1,A
+MEX,2008-08-30,23:00,UAG Tecos,Deportivo Toluca,2,2,D,1,0,H
+MEX,2008-08-30,23:00,Cruz Azul,Club Necaxa,2,1,H,0,0,D
+MEX,2008-08-30,23:00,CF Monterrey,Santos Laguna,2,0,H,1,0,H
+MEX,2008-08-31,01:00,Deportivo Guadalajara,Monarcas Morelia,1,1,D,0,0,D
+MEX,2008-08-31,01:00,Indios Juárez,CF Pachuca,2,1,H,0,1,A
+MEX,2008-08-31,03:00,CF Atlante,Club San Luis,1,0,H,0,0,D
+MEX,2008-08-31,18:00,Pumas UNAM,Atlas Guadalajara,3,0,H,1,0,H
+MEX,2008-08-31,18:00,Puebla FC,Jaguares Chiapas,1,1,D,0,0,D
+MEX,2008-08-31,22:00,CF América,UANL Tigres,1,3,A,0,1,A
+MEX,2008-09-13,23:00,Club San Luis,CF América,1,2,A,0,0,D
+MEX,2008-09-13,23:00,Jaguares Chiapas,Indios Juárez,2,1,H,1,0,H
+MEX,2008-09-14,01:00,CF Pachuca,Deportivo Guadalajara,5,2,H,2,0,H
+MEX,2008-09-14,01:00,UANL Tigres,Pumas UNAM,0,2,A,0,0,D
+MEX,2008-09-14,02:45,Atlas Guadalajara,Puebla FC,2,0,H,0,0,D
+MEX,2008-09-14,03:00,CF Atlante,Cruz Azul,1,1,D,1,1,D
+MEX,2008-09-14,18:00,Monarcas Morelia,UAG Tecos,2,2,D,1,1,D
+MEX,2008-09-14,18:00,Deportivo Toluca,CF Monterrey,0,0,D,0,0,D
+MEX,2008-09-14,22:00,Santos Laguna,Club Necaxa,1,1,D,1,0,H
+MEX,2008-09-20,23:00,CF Monterrey,Monarcas Morelia,0,4,A,0,3,A
+MEX,2008-09-20,23:00,Cruz Azul,Santos Laguna,1,1,D,0,0,D
+MEX,2008-09-21,00:00,Indios Juárez,Atlas Guadalajara,2,4,A,2,1,H
+MEX,2008-09-21,01:00,Deportivo Guadalajara,Jaguares Chiapas,1,0,H,0,0,D
+MEX,2008-09-21,03:00,Club Necaxa,Deportivo Toluca,1,1,D,1,1,D
+MEX,2008-09-21,18:00,Pumas UNAM,Club San Luis,0,1,A,0,1,A
+MEX,2008-09-21,18:00,Puebla FC,UANL Tigres,0,0,D,0,0,D
+MEX,2008-09-21,23:00,CF América,CF Atlante,1,2,A,0,0,D
+MEX,2008-09-27,23:00,Club San Luis,Puebla FC,1,1,D,1,1,D
+MEX,2008-09-27,23:00,Jaguares Chiapas,UAG Tecos,1,3,A,1,1,D
+MEX,2008-09-28,01:00,CF Pachuca,CF Monterrey,2,1,H,1,0,H
+MEX,2008-09-28,01:00,UANL Tigres,Indios Juárez,0,1,A,0,0,D
+MEX,2008-09-28,02:45,Atlas Guadalajara,Deportivo Guadalajara,0,1,A,0,0,D
+MEX,2008-09-28,03:00,CF Atlante,Pumas UNAM,2,0,H,1,0,H
+MEX,2008-09-28,18:00,Deportivo Toluca,Santos Laguna,2,1,H,1,1,D
+MEX,2008-09-28,18:00,Monarcas Morelia,Club Necaxa,3,1,H,0,0,D
+MEX,2008-09-28,23:00,CF América,Cruz Azul,2,0,H,2,0,H
+MEX,2008-10-04,02:00,UAG Tecos,Atlas Guadalajara,3,1,H,2,1,H
+MEX,2008-10-04,23:00,Cruz Azul,Deportivo Toluca,1,1,D,0,1,A
+MEX,2008-10-04,23:00,CF Monterrey,Jaguares Chiapas,1,2,A,0,1,A
+MEX,2008-10-05,01:00,Indios Juárez,Club San Luis,2,3,A,2,2,D
+MEX,2008-10-05,01:00,Deportivo Guadalajara,UANL Tigres,2,2,D,1,0,H
+MEX,2008-10-05,03:00,Club Necaxa,CF Pachuca,1,1,D,0,0,D
+MEX,2008-10-05,18:00,Pumas UNAM,CF América,1,1,D,0,1,A
+MEX,2008-10-05,18:00,Puebla FC,CF Atlante,0,2,A,0,0,D
+MEX,2008-10-05,22:00,Santos Laguna,Monarcas Morelia,1,0,H,0,0,D
+MEX,2008-10-11,23:00,Jaguares Chiapas,Club Necaxa,4,0,H,1,0,H
+MEX,2008-10-11,23:00,Club San Luis,Deportivo Guadalajara,0,0,D,0,0,D
+MEX,2008-10-12,01:00,UANL Tigres,UAG Tecos,1,0,H,0,0,D
+MEX,2008-10-12,02:45,Atlas Guadalajara,CF Monterrey,0,0,D,0,0,D
+MEX,2008-10-12,03:00,CF Atlante,Indios Juárez,3,3,D,1,0,H
+MEX,2008-10-12,18:00,Monarcas Morelia,Deportivo Toluca,3,2,H,1,1,D
+MEX,2008-10-12,18:00,Pumas UNAM,Cruz Azul,0,2,A,0,0,D
+MEX,2008-10-12,22:00,CF Pachuca,Santos Laguna,2,0,H,1,0,H
+MEX,2008-10-12,22:00,CF América,Puebla FC,1,1,D,1,0,H
+MEX,2008-10-18,02:00,UAG Tecos,Club San Luis,5,2,H,1,0,H
+MEX,2008-10-18,23:00,Cruz Azul,Monarcas Morelia,0,2,A,0,1,A
+MEX,2008-10-18,23:00,CF Monterrey,UANL Tigres,1,4,A,0,0,D
+MEX,2008-10-19,01:00,Indios Juárez,CF América,0,0,D,0,0,D
+MEX,2008-10-19,01:00,Deportivo Guadalajara,CF Atlante,1,0,H,0,0,D
+MEX,2008-10-19,03:00,Club Necaxa,Atlas Guadalajara,0,1,A,0,1,A
+MEX,2008-10-19,18:00,Puebla FC,Pumas UNAM,0,0,D,0,0,D
+MEX,2008-10-19,18:00,Deportivo Toluca,CF Pachuca,3,0,H,1,0,H
+MEX,2008-10-20,02:00,Santos Laguna,Jaguares Chiapas,1,0,H,1,0,H
+MEX,2008-10-25,23:00,Jaguares Chiapas,Deportivo Toluca,0,0,D,0,0,D
+MEX,2008-10-25,23:00,Club San Luis,CF Monterrey,2,0,H,1,0,H
+MEX,2008-10-26,01:00,UANL Tigres,Club Necaxa,1,1,D,1,0,H
+MEX,2008-10-26,01:00,CF Pachuca,Monarcas Morelia,1,1,D,1,1,D
+MEX,2008-10-26,01:45,Atlas Guadalajara,Santos Laguna,2,1,H,0,0,D
+MEX,2008-10-26,18:00,Pumas UNAM,Indios Juárez,1,1,D,0,0,D
+MEX,2008-10-26,18:00,Puebla FC,Cruz Azul,2,2,D,0,1,A
+MEX,2008-10-26,23:00,CF América,Deportivo Guadalajara,1,2,A,1,1,D
+MEX,2008-11-01,02:00,UAG Tecos,CF América,1,3,A,1,0,H
+MEX,2008-11-01,23:00,CF Monterrey,CF Atlante,2,1,H,2,1,H
+MEX,2008-11-01,23:00,Cruz Azul,CF Pachuca,1,2,A,0,0,D
+MEX,2008-11-02,00:00,Indios Juárez,Puebla FC,1,0,H,0,0,D
+MEX,2008-11-02,01:00,Deportivo Guadalajara,Pumas UNAM,1,1,D,0,0,D
+MEX,2008-11-02,03:00,Club Necaxa,Club San Luis,1,1,D,1,1,D
+MEX,2008-11-02,18:00,Deportivo Toluca,Atlas Guadalajara,4,0,H,2,0,H
+MEX,2008-11-02,18:00,Monarcas Morelia,Jaguares Chiapas,5,2,H,1,2,A
+MEX,2008-11-02,22:00,Santos Laguna,UANL Tigres,1,1,D,0,1,A
+MEX,2008-11-06,01:00,Jaguares Chiapas,Pumas UNAM,0,3,A,0,2,A
+MEX,2008-11-06,02:00,UAG Tecos,CF Pachuca,2,2,D,0,1,A
+MEX,2008-11-06,02:45,UANL Tigres,Cruz Azul,1,3,A,1,1,D
+MEX,2008-11-08,23:00,Club San Luis,Santos Laguna,2,2,D,1,1,D
+MEX,2008-11-08,23:00,Jaguares Chiapas,CF Pachuca,2,1,H,0,1,A
+MEX,2008-11-09,00:00,Indios Juárez,Cruz Azul,1,0,H,1,0,H
+MEX,2008-11-09,01:00,UANL Tigres,Deportivo Toluca,0,1,A,0,1,A
+MEX,2008-11-09,02:45,Atlas Guadalajara,Monarcas Morelia,2,1,H,0,0,D
+MEX,2008-11-09,03:00,CF Atlante,Club Necaxa,0,1,A,0,1,A
+MEX,2008-11-09,18:00,Puebla FC,Deportivo Guadalajara,2,1,H,2,0,H
+MEX,2008-11-09,18:00,Pumas UNAM,UAG Tecos,3,0,H,0,0,D
+MEX,2008-11-09,22:00,CF América,CF Monterrey,1,0,H,1,0,H
+MEX,2008-11-13,01:00,CF Atlante,UAG Tecos,3,1,H,2,0,H
+MEX,2008-11-15,23:00,UAG Tecos,Puebla FC,3,0,H,2,0,H
+MEX,2008-11-15,23:00,CF Monterrey,Pumas UNAM,1,0,H,1,0,H
+MEX,2008-11-15,23:00,Cruz Azul,Jaguares Chiapas,4,1,H,4,1,H
+MEX,2008-11-16,01:00,Deportivo Guadalajara,Indios Juárez,2,0,H,1,0,H
+MEX,2008-11-16,01:00,CF Pachuca,Atlas Guadalajara,1,1,D,0,0,D
+MEX,2008-11-16,18:00,Deportivo Toluca,Club San Luis,1,0,H,1,0,H
+MEX,2008-11-16,18:00,Monarcas Morelia,UANL Tigres,1,2,A,1,1,D
+MEX,2008-11-16,22:00,Club Necaxa,CF América,2,0,H,1,0,H
+MEX,2008-11-16,22:00,Santos Laguna,CF Atlante,0,0,D,0,0,D

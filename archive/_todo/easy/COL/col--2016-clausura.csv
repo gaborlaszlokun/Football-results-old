@@ -1,0 +1,201 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+COL,2016-07-02,02:00,Alianza Petrolera,Atlético Nacional,3,3,D,1.0,1.0,D
+COL,2016-07-02,21:15,Rionegro Águilas,Deportes Tolima,0,0,D,0.0,0.0,D
+COL,2016-07-02,23:00,Deportivo Cali,Cortuluá,3,1,H,1.0,0.0,H
+COL,2016-07-02,23:30,La Equidad,Envigado FC,2,2,D,1.0,1.0,D
+COL,2016-07-03,01:45,Patriotas FC,Millonarios,1,0,H,0.0,0.0,D
+COL,2016-07-03,21:15,Jaguares de Córdoba,Fortaleza FC,1,0,H,1.0,0.0,H
+COL,2016-07-03,23:00,Santa Fe,Boyacá Chicó,1,0,H,0.0,0.0,D
+COL,2016-07-04,01:30,Deportivo Pasto,Once Caldas,1,2,A,0.0,1.0,A
+COL,2016-07-09,02:00,Cortuluá,La Equidad,2,0,H,1.0,0.0,H
+COL,2016-07-09,20:00,Fortaleza FC,Rionegro Águilas,2,1,H,1.0,1.0,D
+COL,2016-07-09,22:00,Atlético Bucaramanga,Patriotas FC,0,0,D,0.0,0.0,D
+COL,2016-07-09,23:00,Millonarios,Santa Fe,1,0,H,1.0,0.0,H
+COL,2016-07-10,00:00,Envigado FC,Atlético Huila,1,0,H,0.0,0.0,D
+COL,2016-07-10,02:00,Atlético Junior,Independiente Medellín,1,1,D,1.0,0.0,H
+COL,2016-07-10,21:15,Boyacá Chicó,Deportivo Pasto,0,2,A,0.0,1.0,A
+COL,2016-07-10,23:30,Atlético Nacional,Jaguares de Córdoba,2,1,H,0.0,1.0,A
+COL,2016-07-11,00:00,Deportes Tolima,Deportivo Cali,1,0,H,0.0,0.0,D
+COL,2016-07-11,01:30,Once Caldas,Alianza Petrolera,1,1,D,0.0,0.0,D
+COL,2016-07-13,02:00,Independiente Medellín,Envigado FC,0,1,A,0.0,0.0,D
+COL,2016-07-13,21:15,Jaguares de Córdoba,Once Caldas,1,1,D,0.0,0.0,D
+COL,2016-07-13,21:15,Atlético Huila,Cortuluá,2,1,H,1.0,1.0,D
+COL,2016-07-14,00:00,Deportes Tolima,Fortaleza FC,0,0,D,0.0,0.0,D
+COL,2016-07-14,00:00,Deportivo Cali,La Equidad,1,1,D,0.0,1.0,A
+COL,2016-07-14,02:00,Santa Fe,Atlético Bucaramanga,1,0,H,0.0,0.0,D
+COL,2016-07-16,21:15,Once Caldas,Rionegro Águilas,1,2,A,0.0,1.0,A
+COL,2016-07-16,23:00,Fortaleza FC,Deportivo Cali,0,2,A,0.0,1.0,A
+COL,2016-07-16,23:30,Cortuluá,Independiente Medellín,3,4,A,0.0,2.0,A
+COL,2016-07-17,01:45,Atlético Nacional,Deportes Tolima,2,2,D,0.0,1.0,A
+COL,2016-07-17,22:00,La Equidad,Atlético Huila,1,0,H,1.0,0.0,H
+COL,2016-07-17,23:00,Atlético Junior,Santa Fe,2,1,H,0.0,1.0,A
+COL,2016-07-18,00:00,Atlético Bucaramanga,Deportivo Pasto,2,1,H,0.0,1.0,A
+COL,2016-07-18,02:00,Millonarios,Alianza Petrolera,1,0,H,0.0,0.0,D
+COL,2016-07-19,00:00,Envigado FC,Patriotas FC,0,0,D,0.0,0.0,D
+COL,2016-07-19,02:00,Boyacá Chicó,Jaguares de Córdoba,0,1,A,0.0,0.0,D
+COL,2016-07-22,02:00,Millonarios,Once Caldas,1,1,D,1.0,1.0,D
+COL,2016-07-23,01:45,Patriotas FC,Cortuluá,4,1,H,0.0,0.0,D
+COL,2016-07-23,20:00,Rionegro Águilas,Boyacá Chicó,2,1,H,1.0,1.0,D
+COL,2016-07-23,22:00,Alianza Petrolera,Atlético Bucaramanga,0,1,A,0.0,0.0,D
+COL,2016-07-23,23:00,Deportivo Pasto,Atlético Junior,1,1,D,1.0,1.0,D
+COL,2016-07-24,00:00,Independiente Medellín,La Equidad,1,0,H,1.0,0.0,H
+COL,2016-07-24,02:00,Fortaleza FC,Atlético Nacional,0,1,A,0.0,1.0,A
+COL,2016-07-24,21:15,Jaguares de Córdoba,Millonarios,2,1,H,1.0,0.0,H
+COL,2016-07-24,21:15,Atlético Huila,Deportivo Cali,2,1,H,1.0,1.0,D
+COL,2016-07-24,23:30,Deportes Tolima,Once Caldas,3,0,H,1.0,0.0,H
+COL,2016-07-25,01:30,Santa Fe,Envigado FC,2,0,H,2.0,0.0,H
+COL,2016-07-30,21:00,Atlético Bucaramanga,Jaguares de Córdoba,1,0,H,0.0,0.0,D
+COL,2016-07-30,23:00,Atlético Junior,Alianza Petrolera,2,0,H,1.0,0.0,H
+COL,2016-07-30,23:00,Millonarios,Rionegro Águilas,0,0,D,0.0,0.0,D
+COL,2016-07-31,01:00,Boyacá Chicó,Deportes Tolima,0,4,A,0.0,1.0,A
+COL,2016-07-31,20:00,La Equidad,Patriotas FC,1,1,D,1.0,1.0,D
+COL,2016-07-31,22:00,Envigado FC,Deportivo Pasto,1,1,D,1.0,1.0,D
+COL,2016-07-31,23:00,Deportivo Cali,Atlético Nacional,1,0,H,1.0,0.0,H
+COL,2016-08-01,00:00,Cortuluá,Santa Fe,0,1,A,0.0,0.0,D
+COL,2016-08-01,02:00,Independiente Medellín,Atlético Huila,2,1,H,1.0,1.0,D
+COL,2016-08-02,02:00,Once Caldas,Fortaleza FC,3,0,H,0.0,0.0,D
+COL,2016-08-06,21:15,Fortaleza FC,Boyacá Chicó,2,1,H,2.0,1.0,H
+COL,2016-08-06,23:30,Rionegro Águilas,Atlético Bucaramanga,2,3,A,1.0,1.0,D
+COL,2016-08-07,01:45,Alianza Petrolera,Envigado FC,1,0,H,0.0,0.0,D
+COL,2016-08-07,20:00,Patriotas FC,Atlético Huila,0,0,D,0.0,0.0,D
+COL,2016-08-07,22:00,Deportivo Pasto,Cortuluá,1,0,H,0.0,0.0,D
+COL,2016-08-07,23:00,Deportivo Cali,Independiente Medellín,1,2,A,1.0,0.0,H
+COL,2016-08-08,00:00,Deportes Tolima,Millonarios,3,1,H,1.0,0.0,H
+COL,2016-08-08,02:00,Atlético Nacional,Once Caldas,1,0,H,1.0,0.0,H
+COL,2016-08-11,01:45,Millonarios,Atlético Bucaramanga,0,3,A,,,
+COL,2016-08-13,02:00,Cortuluá,Alianza Petrolera,1,0,H,0.0,0.0,D
+COL,2016-08-13,21:15,Envigado FC,Jaguares de Córdoba,2,1,H,0.0,1.0,A
+COL,2016-08-13,23:00,Independiente Medellín,Patriotas FC,3,0,H,1.0,0.0,H
+COL,2016-08-13,23:30,Atlético Junior,Rionegro Águilas,1,1,D,1.0,0.0,H
+COL,2016-08-14,01:45,Millonarios,Fortaleza FC,3,2,H,2.0,1.0,H
+COL,2016-08-14,21:15,Atlético Bucaramanga,Deportes Tolima,0,1,A,0.0,0.0,D
+COL,2016-08-14,23:00,Once Caldas,Deportivo Cali,2,0,H,2.0,0.0,H
+COL,2016-08-14,23:30,La Equidad,Deportivo Pasto,4,0,H,1.0,0.0,H
+COL,2016-08-15,01:30,Boyacá Chicó,Atlético Nacional,1,1,D,0.0,0.0,D
+COL,2016-08-15,21:15,Atlético Huila,Santa Fe,1,0,H,0.0,0.0,D
+COL,2016-08-18,01:45,Millonarios,Deportivo Cali,1,0,H,0.0,0.0,D
+COL,2016-08-20,02:00,Alianza Petrolera,La Equidad,0,0,D,0.0,0.0,D
+COL,2016-08-20,21:15,Jaguares de Córdoba,Cortuluá,1,1,D,0.0,0.0,D
+COL,2016-08-20,23:30,Boyacá Chicó,Once Caldas,2,1,H,0.0,0.0,D
+COL,2016-08-21,00:30,Deportes Tolima,Atlético Junior,1,1,D,1.0,0.0,H
+COL,2016-08-21,01:45,Fortaleza FC,Atlético Bucaramanga,1,2,A,0.0,1.0,A
+COL,2016-08-21,20:00,Rionegro Águilas,Envigado FC,1,4,A,1.0,1.0,D
+COL,2016-08-21,22:00,Deportivo Pasto,Atlético Huila,2,0,H,0.0,0.0,D
+COL,2016-08-21,22:00,Santa Fe,Independiente Medellín,1,1,D,0.0,0.0,D
+COL,2016-08-22,00:00,Atlético Nacional,Millonarios,1,0,H,1.0,0.0,H
+COL,2016-08-22,02:00,Deportivo Cali,Patriotas FC,1,0,H,0.0,0.0,D
+COL,2016-08-25,00:00,Alianza Petrolera,Boyacá Chicó,1,0,H,0.0,0.0,D
+COL,2016-08-27,00:00,La Equidad,Fortaleza FC,2,2,D,1.0,0.0,H
+COL,2016-08-27,02:00,Envigado FC,Rionegro Águilas,3,1,H,1.0,0.0,H
+COL,2016-08-27,21:15,Atlético Bucaramanga,Alianza Petrolera,2,2,D,0.0,1.0,A
+COL,2016-08-27,23:00,Cortuluá,Deportivo Cali,1,1,D,0.0,0.0,D
+COL,2016-08-27,23:30,Patriotas FC,Boyacá Chicó,1,0,H,0.0,0.0,D
+COL,2016-08-28,01:45,Once Caldas,Deportivo Pasto,2,3,A,0.0,1.0,A
+COL,2016-08-28,21:15,Deportes Tolima,Atlético Huila,1,1,D,1.0,1.0,D
+COL,2016-08-28,23:00,Atlético Nacional,Independiente Medellín,1,0,H,0.0,0.0,D
+COL,2016-08-28,23:30,Atlético Junior,Jaguares de Córdoba,1,0,H,0.0,0.0,D
+COL,2016-08-29,01:30,Santa Fe,Millonarios,1,2,A,0.0,1.0,A
+COL,2016-09-03,23:30,Santa Fe,La Equidad,1,1,D,0.0,0.0,D
+COL,2016-09-04,01:45,Independiente Medellín,Atlético Bucaramanga,1,0,H,1.0,0.0,H
+COL,2016-09-04,21:00,Jaguares de Córdoba,Atlético Junior,0,0,D,0.0,0.0,D
+COL,2016-09-06,01:00,Deportivo Pasto,Millonarios,1,1,D,1.0,1.0,D
+COL,2016-09-08,00:00,Atlético Huila,Atlético Junior,3,1,H,1.0,0.0,H
+COL,2016-09-10,01:45,Cortuluá,Rionegro Águilas,0,1,A,0.0,1.0,A
+COL,2016-09-10,21:15,Atlético Bucaramanga,Atlético Nacional,2,2,D,1.0,2.0,A
+COL,2016-09-10,23:00,Independiente Medellín,Deportivo Pasto,2,0,H,1.0,0.0,H
+COL,2016-09-10,23:30,Envigado FC,Deportes Tolima,1,0,H,0.0,0.0,D
+COL,2016-09-11,01:45,Atlético Junior,Fortaleza FC,1,2,A,1.0,0.0,H
+COL,2016-09-11,21:15,Atlético Huila,Alianza Petrolera,2,2,D,1.0,1.0,D
+COL,2016-09-11,23:00,Deportivo Cali,Boyacá Chicó,2,0,H,2.0,0.0,H
+COL,2016-09-11,23:30,La Equidad,Jaguares de Córdoba,0,1,A,0.0,0.0,D
+COL,2016-09-12,01:30,Patriotas FC,Santa Fe,2,0,H,0.0,0.0,D
+COL,2016-09-14,00:00,Deportes Tolima,Cortuluá,0,2,A,0.0,1.0,A
+COL,2016-09-14,02:00,Once Caldas,Atlético Bucaramanga,3,0,H,1.0,0.0,H
+COL,2016-09-14,21:15,Jaguares de Córdoba,Atlético Huila,0,0,D,0.0,0.0,D
+COL,2016-09-15,00:00,Fortaleza FC,Envigado FC,1,2,A,1.0,1.0,D
+COL,2016-09-15,02:00,Boyacá Chicó,Millonarios,0,1,A,0.0,0.0,D
+COL,2016-09-15,22:00,Rionegro Águilas,La Equidad,4,0,H,2.0,0.0,H
+COL,2016-09-16,00:00,Deportivo Pasto,Patriotas FC,2,3,A,0.0,2.0,A
+COL,2016-09-16,02:00,Santa Fe,Deportivo Cali,2,2,D,0.0,0.0,D
+COL,2016-09-17,21:15,Atlético Bucaramanga,Boyacá Chicó,2,0,H,1.0,0.0,H
+COL,2016-09-17,23:00,Atlético Junior,Once Caldas,0,1,A,0.0,0.0,D
+COL,2016-09-17,23:30,Cortuluá,Fortaleza FC,2,2,D,2.0,0.0,H
+COL,2016-09-18,01:45,Envigado FC,Atlético Nacional,0,0,D,0.0,0.0,D
+COL,2016-09-18,22:00,Atlético Huila,Rionegro Águilas,1,2,A,0.0,1.0,A
+COL,2016-09-18,23:00,Independiente Medellín,Jaguares de Córdoba,1,1,D,1.0,0.0,H
+COL,2016-09-19,00:00,La Equidad,Deportes Tolima,2,2,D,1.0,0.0,H
+COL,2016-09-19,02:00,Deportivo Pasto,Santa Fe,0,1,A,0.0,1.0,A
+COL,2016-09-20,00:00,Patriotas FC,Alianza Petrolera,1,1,D,1.0,1.0,D
+COL,2016-09-24,01:45,Fortaleza FC,La Equidad,1,1,D,1.0,1.0,D
+COL,2016-09-24,21:15,Rionegro Águilas,Independiente Medellín,2,2,D,0.0,1.0,A
+COL,2016-09-24,23:00,Atlético Nacional,Cortuluá,1,1,D,0.0,0.0,D
+COL,2016-09-24,23:30,Atlético Huila,Deportes Tolima,1,2,A,0.0,1.0,A
+COL,2016-09-25,01:45,Once Caldas,Envigado FC,2,0,H,1.0,0.0,H
+COL,2016-09-25,21:15,Jaguares de Córdoba,Patriotas FC,2,3,A,1.0,1.0,D
+COL,2016-09-25,23:00,Alianza Petrolera,Santa Fe,0,1,A,0.0,0.0,D
+COL,2016-09-25,23:30,Deportivo Cali,Deportivo Pasto,1,1,D,0.0,0.0,D
+COL,2016-09-26,01:30,Boyacá Chicó,Atlético Junior,2,2,D,2.0,2.0,D
+COL,2016-09-28,01:45,Cortuluá,Once Caldas,1,1,D,0.0,1.0,A
+COL,2016-09-30,00:00,Patriotas FC,Rionegro Águilas,0,1,A,0.0,0.0,D
+COL,2016-09-30,02:00,Deportivo Pasto,Alianza Petrolera,0,1,A,0.0,0.0,D
+COL,2016-09-30,22:00,Atlético Huila,Fortaleza FC,2,1,H,1.0,0.0,H
+COL,2016-10-01,00:00,Deportivo Cali,Atlético Bucaramanga,2,1,H,1.0,0.0,H
+COL,2016-10-01,02:00,La Equidad,Atlético Nacional,1,3,A,1.0,2.0,A
+COL,2016-10-04,23:00,Alianza Petrolera,Independiente Medellín,3,1,H,1.0,0.0,H
+COL,2016-10-08,21:00,Patriotas FC,Atlético Junior,3,2,H,3.0,2.0,H
+COL,2016-10-08,23:00,Santa Fe,Jaguares de Córdoba,1,0,H,0.0,0.0,D
+COL,2016-10-08,23:00,Envigado FC,Boyacá Chicó,3,1,H,1.0,1.0,D
+COL,2016-10-09,01:30,Rionegro Águilas,Atlético Nacional,1,1,D,1.0,1.0,D
+COL,2016-10-09,23:00,Independiente Medellín,Deportes Tolima,1,1,D,0.0,1.0,A
+COL,2016-10-15,02:00,Fortaleza FC,Independiente Medellín,2,1,H,1.0,1.0,D
+COL,2016-10-15,21:15,Boyacá Chicó,Cortuluá,3,1,H,2.0,0.0,H
+COL,2016-10-15,23:00,Millonarios,Envigado FC,4,1,H,3.0,1.0,H
+COL,2016-10-15,23:30,Atlético Bucaramanga,Atlético Junior,3,0,H,1.0,0.0,H
+COL,2016-10-16,01:45,Atlético Nacional,Atlético Huila,4,0,H,1.0,0.0,H
+COL,2016-10-16,21:15,Jaguares de Córdoba,Deportivo Pasto,3,1,H,0.0,1.0,A
+COL,2016-10-16,23:00,Rionegro Águilas,Santa Fe,0,4,A,0.0,2.0,A
+COL,2016-10-16,23:30,Deportes Tolima,Patriotas FC,1,0,H,0.0,0.0,D
+COL,2016-10-17,01:30,Alianza Petrolera,Deportivo Cali,1,0,H,1.0,0.0,H
+COL,2016-10-18,01:30,Once Caldas,La Equidad,0,2,A,0.0,0.0,D
+COL,2016-10-22,01:45,La Equidad,Boyacá Chicó,1,2,A,0.0,2.0,A
+COL,2016-10-22,20:00,Patriotas FC,Fortaleza FC,1,0,H,1.0,0.0,H
+COL,2016-10-22,22:00,Alianza Petrolera,Jaguares de Córdoba,2,0,H,0.0,0.0,D
+COL,2016-10-22,23:00,Deportivo Cali,Atlético Junior,2,0,H,1.0,0.0,H
+COL,2016-10-23,00:00,Deportivo Pasto,Rionegro Águilas,0,1,A,0.0,0.0,D
+COL,2016-10-23,02:00,Independiente Medellín,Atlético Nacional,2,2,D,1.0,0.0,H
+COL,2016-10-23,21:15,Atlético Huila,Once Caldas,2,1,H,1.0,1.0,D
+COL,2016-10-23,23:00,Santa Fe,Deportes Tolima,1,1,D,0.0,0.0,D
+COL,2016-10-23,23:30,Envigado FC,Atlético Bucaramanga,0,0,D,0.0,0.0,D
+COL,2016-10-24,01:30,Cortuluá,Millonarios,2,3,A,1.0,1.0,D
+COL,2016-10-29,01:45,Boyacá Chicó,Atlético Huila,2,0,H,1.0,0.0,H
+COL,2016-10-29,20:00,Rionegro Águilas,Alianza Petrolera,0,1,A,0.0,1.0,A
+COL,2016-10-29,22:00,Atlético Bucaramanga,Cortuluá,3,1,H,2.0,0.0,H
+COL,2016-10-29,23:10,Fortaleza FC,Santa Fe,1,1,D,1.0,0.0,H
+COL,2016-10-30,00:00,Atlético Junior,Envigado FC,2,1,H,1.0,1.0,D
+COL,2016-10-30,01:00,Once Caldas,Independiente Medellín,1,2,A,1.0,1.0,D
+COL,2016-10-30,20:15,Jaguares de Córdoba,Deportivo Cali,0,1,A,0.0,1.0,A
+COL,2016-10-30,22:10,Atlético Nacional,Patriotas FC,2,1,H,1.0,1.0,D
+COL,2016-10-30,22:30,Deportes Tolima,Deportivo Pasto,0,0,D,0.0,0.0,D
+COL,2016-10-31,00:30,Millonarios,La Equidad,1,2,A,1.0,1.0,D
+COL,2016-11-04,01:00,Atlético Junior,Millonarios,2,1,H,2.0,1.0,H
+COL,2016-11-05,00:45,Patriotas FC,Once Caldas,0,1,A,0.0,1.0,A
+COL,2016-11-05,20:15,La Equidad,Atlético Bucaramanga,2,1,H,1.0,0.0,H
+COL,2016-11-05,22:10,Deportivo Cali,Envigado FC,1,0,H,1.0,0.0,H
+COL,2016-11-05,22:30,Alianza Petrolera,Deportes Tolima,3,0,H,2.0,0.0,H
+COL,2016-11-06,00:45,Deportivo Pasto,Fortaleza FC,1,0,H,1.0,0.0,H
+COL,2016-11-06,00:45,Independiente Medellín,Boyacá Chicó,3,2,H,1.0,1.0,D
+COL,2016-11-06,20:15,Jaguares de Córdoba,Rionegro Águilas,1,0,H,0.0,0.0,D
+COL,2016-11-06,22:30,Cortuluá,Atlético Junior,1,2,A,0.0,1.0,A
+COL,2016-11-07,00:30,Santa Fe,Atlético Nacional,0,0,D,0.0,0.0,D
+COL,2016-11-07,20:15,Atlético Huila,Millonarios,0,3,A,0.0,1.0,A
+COL,2016-11-10,00:00,Atlético Nacional,Atlético Junior,2,2,D,0.0,2.0,A
+COL,2016-11-20,00:45,Atlético Nacional,Deportivo Pasto,3,1,H,1.0,1.0,D
+COL,2016-11-20,20:30,Atlético Junior,La Equidad,2,1,H,1.0,0.0,H
+COL,2016-11-20,23:00,Envigado FC,Cortuluá,1,0,H,1.0,0.0,H
+COL,2016-11-20,23:00,Atlético Bucaramanga,Atlético Huila,0,0,D,0.0,0.0,D
+COL,2016-11-20,23:00,Millonarios,Independiente Medellín,3,1,H,1.0,1.0,D
+COL,2016-11-20,23:00,Boyacá Chicó,Patriotas FC,1,2,A,1.0,0.0,H
+COL,2016-11-20,23:00,Once Caldas,Santa Fe,1,2,A,0.0,1.0,A
+COL,2016-11-20,23:00,Fortaleza FC,Alianza Petrolera,1,0,H,0.0,0.0,D
+COL,2016-11-20,23:00,Deportes Tolima,Jaguares de Córdoba,2,0,H,2.0,0.0,H
+COL,2016-11-20,23:00,Rionegro Águilas,Deportivo Cali,1,3,A,1.0,2.0,A

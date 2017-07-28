@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2004-02-14,00:10,Racing Club,CA Colón,1,1,D,1,0,H
+ARG,2004-02-14,21:45,Vélez Sársfield,Rosario Central,3,0,H,2,0,H
+ARG,2004-02-15,00:10,Chacarita Juniors,San Lorenzo,0,2,A,0,0,D
+ARG,2004-02-15,19:10,Nueva Chicago,River Plate,2,2,D,1,1,D
+ARG,2004-02-15,20:00,Estudiantes,Independiente,1,4,A,0,2,A
+ARG,2004-02-15,20:00,CA Lanús,Olimpo,3,0,H,1,0,H
+ARG,2004-02-15,21:00,Atlético Rafaela,Quilmes AC,0,0,D,0,0,D
+ARG,2004-02-15,21:00,Talleres Córdoba,Arsenal Sarandí,4,3,H,1,1,D
+ARG,2004-02-15,21:30,Boca Juniors,GyE La Plata,0,0,D,0,0,D
+ARG,2004-02-15,,Newell's Old Boys,CA Banfield,1,1,D,0,1,A
+ARG,2004-02-21,00:15,CA Banfield,Vélez Sársfield,1,2,A,0,2,A
+ARG,2004-02-21,22:15,Quilmes AC,Nueva Chicago,1,1,D,1,1,D
+ARG,2004-02-21,23:30,GyE La Plata,Chacarita Juniors,6,1,H,4,0,H
+ARG,2004-02-22,00:15,Independiente,Newell's Old Boys,1,1,D,1,0,H
+ARG,2004-02-22,19:15,San Lorenzo,Racing Club,0,4,A,0,1,A
+ARG,2004-02-22,20:00,CA Colón,CA Lanús,3,2,H,0,0,D
+ARG,2004-02-22,20:00,Olimpo,Talleres Córdoba,1,4,A,0,2,A
+ARG,2004-02-22,20:00,Arsenal Sarandí,Atlético Rafaela,3,2,H,2,0,H
+ARG,2004-02-22,20:00,River Plate,Estudiantes,3,0,H,1,0,H
+ARG,2004-02-22,21:30,Rosario Central,Boca Juniors,1,2,A,0,1,A
+ARG,2004-02-28,00:10,Independiente,CA Banfield,0,1,A,0,0,D
+ARG,2004-02-28,19:35,CA Lanús,San Lorenzo,0,4,A,0,1,A
+ARG,2004-02-28,22:30,Atlético Rafaela,Olimpo,0,2,A,0,0,D
+ARG,2004-02-29,00:10,Racing Club,GyE La Plata,1,0,H,0,0,D
+ARG,2004-02-29,18:00,Newell's Old Boys,River Plate,2,3,A,0,2,A
+ARG,2004-02-29,19:30,Chacarita Juniors,Rosario Central,1,1,D,1,0,H
+ARG,2004-02-29,19:30,Estudiantes,Quilmes AC,1,0,H,0,0,D
+ARG,2004-02-29,19:30,Nueva Chicago,Arsenal Sarandí,2,1,H,1,1,D
+ARG,2004-02-29,20:15,Boca Juniors,Vélez Sársfield,3,3,D,2,1,H
+ARG,2004-02-29,21:00,Talleres Córdoba,CA Colón,4,0,H,1,0,H
+ARG,2004-03-06,00:15,Vélez Sársfield,Chacarita Juniors,2,2,D,1,2,A
+ARG,2004-03-06,21:30,San Lorenzo,Talleres Córdoba,0,0,D,0,0,D
+ARG,2004-03-07,00:15,Rosario Central,Racing Club,3,1,H,1,1,D
+ARG,2004-03-07,19:15,River Plate,Independiente,4,1,H,3,0,H
+ARG,2004-03-07,19:30,Quilmes AC,Newell's Old Boys,3,3,D,1,2,A
+ARG,2004-03-07,19:30,GyE La Plata,CA Lanús,0,0,D,0,0,D
+ARG,2004-03-07,19:30,CA Colón,Atlético Rafaela,2,1,H,0,0,D
+ARG,2004-03-07,19:30,Olimpo,Nueva Chicago,2,2,D,2,2,D
+ARG,2004-03-07,19:30,Arsenal Sarandí,Estudiantes,0,0,D,0,0,D
+ARG,2004-03-07,21:15,CA Banfield,Boca Juniors,1,2,A,0,2,A
+ARG,2004-03-13,00:10,Independiente,Quilmes AC,3,1,H,3,0,H
+ARG,2004-03-13,21:35,Talleres Córdoba,GyE La Plata,1,0,H,0,0,D
+ARG,2004-03-14,00:10,Atlético Rafaela,San Lorenzo,0,0,D,0,0,D
+ARG,2004-03-14,19:00,CA Lanús,Rosario Central,3,0,H,0,0,D
+ARG,2004-03-14,19:00,River Plate,CA Banfield,2,3,A,1,0,H
+ARG,2004-03-14,19:00,Newell's Old Boys,Arsenal Sarandí,1,1,D,0,1,A
+ARG,2004-03-14,19:00,Estudiantes,Olimpo,3,1,H,1,1,D
+ARG,2004-03-14,19:00,Nueva Chicago,CA Colón,1,0,H,1,0,H
+ARG,2004-03-14,20:15,Racing Club,Vélez Sársfield,3,2,H,1,0,H
+ARG,2004-03-20,00:10,San Lorenzo,Nueva Chicago,2,2,D,2,1,H
+ARG,2004-03-20,21:35,Arsenal Sarandí,Independiente,0,0,D,0,0,D
+ARG,2004-03-21,00:10,Rosario Central,Talleres Córdoba,0,2,A,0,1,A
+ARG,2004-03-21,19:00,Olimpo,Newell's Old Boys,1,1,D,1,1,D
+ARG,2004-03-21,19:00,CA Banfield,Chacarita Juniors,0,0,D,0,0,D
+ARG,2004-03-21,19:00,Vélez Sársfield,CA Lanús,2,1,H,0,1,A
+ARG,2004-03-21,19:00,GyE La Plata,Atlético Rafaela,3,4,A,2,1,H
+ARG,2004-03-21,19:00,CA Colón,Estudiantes,1,0,H,0,0,D
+ARG,2004-03-21,19:10,Boca Juniors,Racing Club,4,1,H,1,0,H
+ARG,2004-03-21,21:30,Quilmes AC,River Plate,2,1,H,1,1,D
+ARG,2004-03-26,22:00,Racing Club,Chacarita Juniors,2,1,H,0,0,D
+ARG,2004-03-27,00:10,Estudiantes,San Lorenzo,1,1,D,0,0,D
+ARG,2004-03-27,19:00,Newell's Old Boys,CA Colón,0,1,A,0,1,A
+ARG,2004-03-27,19:00,Nueva Chicago,GyE La Plata,1,2,A,0,1,A
+ARG,2004-03-27,19:30,Talleres Córdoba,Vélez Sársfield,1,0,H,1,0,H
+ARG,2004-03-27,20:00,Quilmes AC,CA Banfield,1,0,H,1,0,H
+ARG,2004-03-27,20:10,River Plate,Arsenal Sarandí,5,0,H,2,0,H
+ARG,2004-03-27,21:00,Atlético Rafaela,Rosario Central,3,1,H,2,0,H
+ARG,2004-03-27,22:30,CA Lanús,Boca Juniors,0,3,A,0,3,A
+ARG,2004-03-28,18:00,Independiente,Olimpo,1,0,H,1,0,H
+ARG,2004-04-03,01:10,Vélez Sársfield,Atlético Rafaela,2,0,H,1,0,H
+ARG,2004-04-03,22:35,CA Banfield,Racing Club,3,1,H,0,0,D
+ARG,2004-04-04,01:10,CA Colón,Independiente,2,0,H,1,0,H
+ARG,2004-04-04,20:00,San Lorenzo,Newell's Old Boys,0,1,A,0,1,A
+ARG,2004-04-04,20:00,Arsenal Sarandí,Quilmes AC,0,0,D,0,0,D
+ARG,2004-04-04,20:00,Chacarita Juniors,CA Lanús,2,3,A,1,1,D
+ARG,2004-04-04,20:00,Rosario Central,Nueva Chicago,1,1,D,0,1,A
+ARG,2004-04-04,20:00,GyE La Plata,Estudiantes,2,2,D,0,2,A
+ARG,2004-04-04,20:10,Boca Juniors,Talleres Córdoba,3,1,H,3,1,H
+ARG,2004-04-04,22:30,Olimpo,River Plate,1,3,A,1,0,H
+ARG,2004-04-10,01:10,CA Lanús,Racing Club,1,2,A,0,1,A
+ARG,2004-04-10,22:35,Independiente,San Lorenzo,1,1,D,1,1,D
+ARG,2004-04-11,00:00,Newell's Old Boys,GyE La Plata,5,2,H,1,0,H
+ARG,2004-04-11,01:00,Estudiantes,Rosario Central,1,3,A,1,3,A
+ARG,2004-04-11,01:10,Talleres Córdoba,Chacarita Juniors,2,2,D,2,1,H
+ARG,2004-04-11,19:30,Nueva Chicago,Vélez Sársfield,0,3,A,0,1,A
+ARG,2004-04-11,19:30,Quilmes AC,Olimpo,0,1,A,0,0,D
+ARG,2004-04-11,20:00,CA Banfield,Arsenal Sarandí,1,1,D,0,1,A
+ARG,2004-04-11,20:10,River Plate,CA Colón,4,1,H,2,0,H
+ARG,2004-04-11,22:30,Atlético Rafaela,Boca Juniors,0,1,A,0,0,D
+ARG,2004-04-14,19:00,Chacarita Juniors,Boca Juniors,0,2,A,0,0,D
+ARG,2004-04-17,01:10,GyE La Plata,Independiente,1,1,D,1,1,D
+ARG,2004-04-17,22:35,Vélez Sársfield,Estudiantes,3,1,H,0,1,A
+ARG,2004-04-18,01:10,Racing Club,Talleres Córdoba,3,1,H,1,0,H
+ARG,2004-04-18,15:00,Boca Juniors,Nueva Chicago,2,0,H,1,0,H
+ARG,2004-04-18,19:30,Rosario Central,Newell's Old Boys,0,0,D,0,0,D
+ARG,2004-04-18,19:30,CA Colón,Quilmes AC,3,3,D,2,1,H
+ARG,2004-04-18,19:30,CA Lanús,CA Banfield,1,0,H,0,0,D
+ARG,2004-04-18,19:30,Olimpo,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2004-04-18,19:30,Chacarita Juniors,Atlético Rafaela,1,3,A,0,1,A
+ARG,2004-04-18,20:10,San Lorenzo,River Plate,1,2,A,0,0,D
+ARG,2004-04-24,01:00,CA Banfield,Olimpo,2,0,H,1,0,H
+ARG,2004-04-24,01:00,Arsenal Sarandí,CA Colón,1,0,H,0,0,D
+ARG,2004-04-24,01:10,Quilmes AC,San Lorenzo,1,1,D,1,1,D
+ARG,2004-04-24,19:30,Nueva Chicago,Chacarita Juniors,1,1,D,1,0,H
+ARG,2004-04-24,22:35,Atlético Rafaela,Racing Club,1,2,A,1,1,D
+ARG,2004-04-24,22:45,Talleres Córdoba,CA Lanús,1,0,H,0,0,D
+ARG,2004-04-25,01:10,Independiente,Rosario Central,3,2,H,0,1,A
+ARG,2004-04-25,19:30,Newell's Old Boys,Vélez Sársfield,2,2,D,2,2,D
+ARG,2004-04-25,20:10,River Plate,GyE La Plata,1,1,D,0,0,D
+ARG,2004-04-25,22:30,Estudiantes,Boca Juniors,2,2,D,2,2,D
+ARG,2004-04-29,23:10,Boca Juniors,Newell's Old Boys,1,1,D,1,1,D
+ARG,2004-04-30,23:10,Rosario Central,River Plate,1,2,A,0,2,A
+ARG,2004-05-01,01:10,Racing Club,Nueva Chicago,1,1,D,1,1,D
+ARG,2004-05-02,19:10,Vélez Sársfield,Independiente,0,0,D,0,0,D
+ARG,2004-05-02,19:30,GyE La Plata,Quilmes AC,0,1,A,0,0,D
+ARG,2004-05-02,19:30,Talleres Córdoba,CA Banfield,2,2,D,2,1,H
+ARG,2004-05-02,19:30,CA Colón,Olimpo,2,0,H,1,0,H
+ARG,2004-05-02,19:30,CA Lanús,Atlético Rafaela,1,1,D,1,1,D
+ARG,2004-05-02,19:30,Chacarita Juniors,Estudiantes,2,0,H,2,0,H
+ARG,2004-05-02,21:30,San Lorenzo,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2004-05-08,01:00,CA Banfield,CA Colón,3,1,H,2,0,H
+ARG,2004-05-08,01:10,Olimpo,San Lorenzo,2,0,H,1,0,H
+ARG,2004-05-09,00:00,Arsenal Sarandí,GyE La Plata,1,0,H,0,0,D
+ARG,2004-05-09,01:10,Estudiantes,Racing Club,1,0,H,1,0,H
+ARG,2004-05-09,15:10,River Plate,Vélez Sársfield,1,0,H,0,0,D
+ARG,2004-05-09,19:30,Quilmes AC,Rosario Central,1,0,H,1,0,H
+ARG,2004-05-09,19:30,Newell's Old Boys,Chacarita Juniors,4,1,H,1,1,D
+ARG,2004-05-09,19:30,Nueva Chicago,CA Lanús,0,0,D,0,0,D
+ARG,2004-05-09,20:10,Independiente,Boca Juniors,1,4,A,0,3,A
+ARG,2004-05-09,22:35,Atlético Rafaela,Talleres Córdoba,1,0,H,0,0,D
+ARG,2004-05-15,01:10,Vélez Sársfield,Quilmes AC,0,1,A,0,0,D
+ARG,2004-05-15,22:00,Atlético Rafaela,CA Banfield,0,1,A,0,1,A
+ARG,2004-05-15,22:35,Racing Club,Newell's Old Boys,2,2,D,0,2,A
+ARG,2004-05-16,01:10,San Lorenzo,CA Colón,2,0,H,0,0,D
+ARG,2004-05-16,19:10,Boca Juniors,River Plate,0,1,A,0,1,A
+ARG,2004-05-16,19:30,Rosario Central,Arsenal Sarandí,1,3,A,1,0,H
+ARG,2004-05-16,19:30,GyE La Plata,Olimpo,1,1,D,1,1,D
+ARG,2004-05-16,19:30,Talleres Córdoba,Nueva Chicago,0,0,D,0,0,D
+ARG,2004-05-16,19:30,CA Lanús,Estudiantes,0,2,A,0,1,A
+ARG,2004-05-16,21:30,Chacarita Juniors,Independiente,0,0,D,0,0,D
+ARG,2004-05-22,01:10,Arsenal Sarandí,Vélez Sársfield,2,1,H,1,1,D
+ARG,2004-05-23,00:00,Estudiantes,Talleres Córdoba,2,1,H,2,1,H
+ARG,2004-05-23,01:10,CA Banfield,San Lorenzo,0,1,A,0,1,A
+ARG,2004-05-23,15:10,Independiente,Racing Club,1,3,A,1,1,D
+ARG,2004-05-23,19:30,Olimpo,Rosario Central,0,0,D,0,0,D
+ARG,2004-05-23,19:30,River Plate,Chacarita Juniors,0,0,D,0,0,D
+ARG,2004-05-23,19:30,Newell's Old Boys,CA Lanús,2,4,A,1,1,D
+ARG,2004-05-23,19:30,CA Colón,GyE La Plata,0,0,D,0,0,D
+ARG,2004-05-23,20:10,Nueva Chicago,Atlético Rafaela,2,2,D,0,1,A
+ARG,2004-05-23,22:30,Quilmes AC,Boca Juniors,2,0,H,2,0,H
+ARG,2004-05-28,22:30,Vélez Sársfield,Olimpo,2,1,H,2,0,H
+ARG,2004-05-29,01:10,CA Lanús,Independiente,1,1,D,1,1,D
+ARG,2004-05-29,19:10,Racing Club,River Plate,1,2,A,0,1,A
+ARG,2004-05-29,19:30,Talleres Córdoba,Newell's Old Boys,1,0,H,0,0,D
+ARG,2004-05-29,19:30,Chacarita Juniors,Quilmes AC,2,1,H,2,1,H
+ARG,2004-05-29,19:30,Nueva Chicago,CA Banfield,0,2,A,0,2,A
+ARG,2004-05-29,19:30,Rosario Central,CA Colón,0,1,A,0,0,D
+ARG,2004-05-29,19:30,Atlético Rafaela,Estudiantes,3,1,H,1,1,D
+ARG,2004-05-29,21:30,Boca Juniors,Arsenal Sarandí,3,0,H,0,0,D
+ARG,2004-05-29,23:40,GyE La Plata,San Lorenzo,0,2,A,0,2,A
+ARG,2004-06-12,01:10,Independiente,Talleres Córdoba,0,2,A,0,1,A
+ARG,2004-06-12,22:35,CA Colón,Vélez Sársfield,1,2,A,0,0,D
+ARG,2004-06-13,01:10,Quilmes AC,Racing Club,3,0,H,1,0,H
+ARG,2004-06-13,19:30,San Lorenzo,Rosario Central,0,0,D,0,0,D
+ARG,2004-06-13,19:30,Arsenal Sarandí,Chacarita Juniors,2,2,D,0,1,A
+ARG,2004-06-13,19:30,Newell's Old Boys,Atlético Rafaela,0,1,A,0,0,D
+ARG,2004-06-13,19:30,Estudiantes,Nueva Chicago,1,1,D,0,1,A
+ARG,2004-06-13,19:30,CA Banfield,GyE La Plata,3,1,H,1,1,D
+ARG,2004-06-13,20:10,River Plate,CA Lanús,2,1,H,1,0,H
+ARG,2004-06-13,22:30,Olimpo,Boca Juniors,2,2,D,0,1,A
+ARG,2004-06-19,00:00,Rosario Central,GyE La Plata,1,1,D,0,0,D
+ARG,2004-06-19,01:10,Racing Club,Arsenal Sarandí,0,1,A,0,0,D
+ARG,2004-06-19,19:30,Nueva Chicago,Newell's Old Boys,0,2,A,0,2,A
+ARG,2004-06-20,00:00,Estudiantes,CA Banfield,0,2,A,0,2,A
+ARG,2004-06-20,01:10,Atlético Rafaela,Independiente,2,1,H,2,1,H
+ARG,2004-06-20,15:10,Vélez Sársfield,San Lorenzo,2,0,H,1,0,H
+ARG,2004-06-20,19:30,CA Lanús,Quilmes AC,0,0,D,0,0,D
+ARG,2004-06-20,19:30,Chacarita Juniors,Olimpo,1,2,A,1,1,D
+ARG,2004-06-20,19:30,Boca Juniors,CA Colón,0,0,D,0,0,D
+ARG,2004-06-20,22:00,Talleres Córdoba,River Plate,3,2,H,3,0,H
+ARG,2004-06-26,22:35,Newell's Old Boys,Estudiantes,0,0,D,0,0,D
+ARG,2004-06-27,01:15,Independiente,Nueva Chicago,2,1,H,1,0,H
+ARG,2004-06-27,18:00,Arsenal Sarandí,CA Lanús,2,0,H,1,0,H
+ARG,2004-06-27,18:15,GyE La Plata,Vélez Sársfield,1,0,H,1,0,H
+ARG,2004-06-27,20:15,CA Banfield,Rosario Central,1,1,D,0,0,D
+ARG,2004-06-27,20:15,San Lorenzo,Boca Juniors,1,0,H,1,0,H
+ARG,2004-06-27,20:15,CA Colón,Chacarita Juniors,1,2,A,1,0,H
+ARG,2004-06-27,20:15,Olimpo,Racing Club,1,1,D,1,1,D
+ARG,2004-06-27,20:15,Quilmes AC,Talleres Córdoba,0,0,D,0,0,D
+ARG,2004-06-27,20:15,River Plate,Atlético Rafaela,1,1,D,1,0,H

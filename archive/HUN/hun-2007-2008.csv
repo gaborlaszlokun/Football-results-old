@@ -1,241 +1,241 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-HUN,20/07/2007,18:00,Zalaegerszegi TE,Paksi SE,3,1,H,NaN,NaN,NaN
-HUN,20/07/2007,18:00,Budapesti Vasas,Tatabánya FC,3,1,H,NaN,NaN,NaN
-HUN,21/07/2007,18:00,Kaposvári RFC,FC Sopron,1,1,D,NaN,NaN,NaN
-HUN,21/07/2007,18:00,BFC Siófok,Újpest FC,2,4,A,NaN,NaN,NaN
-HUN,22/07/2007,17:00,Rákospalotai EAC,Budapest Honvéd,0,3,A,NaN,NaN,NaN
-HUN,22/07/2007,17:00,Diósgyöri VTK,Debreceni VSC,1,2,A,NaN,NaN,NaN
-HUN,23/07/2007,17:00,MTK Budapest,FC Fehérvár,2,0,H,NaN,NaN,NaN
-HUN,29/08/2007,16:00,Nyíregyháza Spartacus,Györi ETO FC,1,0,H,NaN,NaN,NaN
-HUN,27/07/2007,18:00,Debreceni VSC,Györi ETO FC,2,0,H,NaN,NaN,NaN
-HUN,27/07/2007,18:00,Újpest FC,Zalaegerszegi TE,1,1,D,NaN,NaN,NaN
-HUN,28/07/2007,17:00,Paksi SE,MTK Budapest,1,4,A,NaN,NaN,NaN
-HUN,28/07/2007,17:00,Tatabánya FC,Nyíregyháza Spartacus,0,1,A,NaN,NaN,NaN
-HUN,28/07/2007,18:00,Diósgyöri VTK,BFC Siófok,0,3,A,NaN,NaN,NaN
-HUN,29/07/2007,17:00,FC Sopron,Budapest Honvéd,0,1,A,NaN,NaN,NaN
-HUN,30/07/2007,17:00,Rákospalotai EAC,Budapesti Vasas,2,0,H,NaN,NaN,NaN
-HUN,30/07/2007,19:00,FC Fehérvár,Kaposvári RFC,1,1,D,NaN,NaN,NaN
-HUN,03/08/2007,18:00,BFC Siófok,Debreceni VSC,1,1,D,NaN,NaN,NaN
-HUN,03/08/2007,18:00,Zalaegerszegi TE,Diósgyöri VTK,4,1,H,NaN,NaN,NaN
-HUN,04/08/2007,16:30,Nyíregyháza Spartacus,Rákospalotai EAC,2,0,H,NaN,NaN,NaN
-HUN,04/08/2007,17:00,Györi ETO FC,Tatabánya FC,2,1,H,NaN,NaN,NaN
-HUN,04/08/2007,18:00,Budapesti Vasas,FC Sopron,2,0,H,NaN,NaN,NaN
-HUN,04/08/2007,18:00,Kaposvári RFC,Paksi SE,2,1,H,NaN,NaN,NaN
-HUN,05/08/2007,18:00,Budapest Honvéd,FC Fehérvár,5,1,H,NaN,NaN,NaN
-HUN,06/08/2007,17:00,MTK Budapest,Újpest FC,0,0,D,NaN,NaN,NaN
-HUN,10/08/2007,18:00,Diósgyöri VTK,MTK Budapest,2,2,D,NaN,NaN,NaN
-HUN,11/08/2007,14:00,Debreceni VSC,Zalaegerszegi TE,3,2,H,NaN,NaN,NaN
-HUN,11/08/2007,16:00,Rákospalotai EAC,Tatabánya FC,3,2,H,NaN,NaN,NaN
-HUN,11/08/2007,16:00,Paksi SE,Budapest Honvéd,0,3,A,NaN,NaN,NaN
-HUN,11/08/2007,18:00,FC Fehérvár,Budapesti Vasas,5,2,H,NaN,NaN,NaN
-HUN,11/08/2007,18:00,FC Sopron,Nyíregyháza Spartacus,1,1,D,NaN,NaN,NaN
-HUN,11/08/2007,18:00,BFC Siófok,Györi ETO FC,0,1,A,NaN,NaN,NaN
-HUN,13/08/2007,17:00,Újpest FC,Kaposvári RFC,0,2,A,NaN,NaN,NaN
-HUN,17/08/2007,18:00,MTK Budapest,Debreceni VSC,3,2,H,NaN,NaN,NaN
-HUN,18/08/2007,14:00,Nyíregyháza Spartacus,FC Fehérvár,0,1,A,NaN,NaN,NaN
-HUN,18/08/2007,16:30,Tatabánya FC,FC Sopron,0,1,A,NaN,NaN,NaN
-HUN,18/08/2007,16:30,Györi ETO FC,Rákospalotai EAC,2,1,H,NaN,NaN,NaN
-HUN,18/08/2007,18:00,Zalaegerszegi TE,BFC Siófok,2,0,H,NaN,NaN,NaN
-HUN,18/08/2007,18:00,Kaposvári RFC,Diósgyöri VTK,1,1,D,NaN,NaN,NaN
-HUN,19/08/2007,18:00,Budapest Honvéd,Újpest FC,1,4,A,NaN,NaN,NaN
-HUN,20/08/2007,18:00,Budapesti Vasas,Paksi SE,3,2,H,NaN,NaN,NaN
-HUN,24/08/2007,18:00,Diósgyöri VTK,Budapest Honvéd,2,2,D,NaN,NaN,NaN
-HUN,25/08/2007,15:00,Debreceni VSC,Kaposvári RFC,4,0,H,NaN,NaN,NaN
-HUN,25/08/2007,16:30,Paksi SE,Nyíregyháza Spartacus,3,0,H,NaN,NaN,NaN
-HUN,25/08/2007,18:00,FC Fehérvár,Tatabánya FC,7,0,H,NaN,NaN,NaN
-HUN,25/08/2007,18:00,FC Sopron,Rákospalotai EAC,2,1,H,NaN,NaN,NaN
-HUN,25/08/2007,18:00,Zalaegerszegi TE,Györi ETO FC,0,0,D,NaN,NaN,NaN
-HUN,25/08/2007,18:00,BFC Siófok,MTK Budapest,1,1,D,NaN,NaN,NaN
-HUN,27/08/2007,17:00,Újpest FC,Budapesti Vasas,1,1,D,NaN,NaN,NaN
-HUN,31/08/2007,18:00,Budapesti Vasas,Diósgyöri VTK,0,0,D,NaN,NaN,NaN
-HUN,01/09/2007,15:00,Nyíregyháza Spartacus,Újpest FC,1,2,A,NaN,NaN,NaN
-HUN,01/09/2007,15:30,Rákospalotai EAC,FC Fehérvár,0,2,A,NaN,NaN,NaN
-HUN,01/09/2007,15:30,Tatabánya FC,Paksi SE,2,4,A,NaN,NaN,NaN
-HUN,01/09/2007,15:30,Györi ETO FC,FC Sopron,1,1,D,NaN,NaN,NaN
-HUN,01/09/2007,18:00,Kaposvári RFC,BFC Siófok,4,3,H,NaN,NaN,NaN
-HUN,02/09/2007,18:00,Budapest Honvéd,Debreceni VSC,3,1,H,NaN,NaN,NaN
-HUN,03/09/2007,18:00,MTK Budapest,Zalaegerszegi TE,4,1,H,NaN,NaN,NaN
-HUN,14/09/2007,18:00,Debreceni VSC,Budapesti Vasas,2,0,H,NaN,NaN,NaN
-HUN,15/09/2007,14:00,Újpest FC,Tatabánya FC,3,0,H,NaN,NaN,NaN
-HUN,15/09/2007,15:30,Paksi SE,Rákospalotai EAC,0,2,A,NaN,NaN,NaN
-HUN,15/09/2007,17:00,Zalaegerszegi TE,Kaposvári RFC,2,1,H,NaN,NaN,NaN
-HUN,15/09/2007,17:00,BFC Siófok,Budapest Honvéd,1,2,A,NaN,NaN,NaN
-HUN,15/09/2007,17:00,Diósgyöri VTK,Nyíregyháza Spartacus,0,0,D,NaN,NaN,NaN
-HUN,15/09/2007,17:00,FC Fehérvár,FC Sopron,2,0,H,NaN,NaN,NaN
-HUN,17/09/2007,17:00,MTK Budapest,Györi ETO FC,2,2,D,NaN,NaN,NaN
-HUN,21/09/2007,15:00,Tatabánya FC,Diósgyöri VTK,2,2,D,NaN,NaN,NaN
-HUN,21/09/2007,18:00,Budapest Honvéd,Zalaegerszegi TE,2,1,H,NaN,NaN,NaN
-HUN,22/09/2007,14:00,Nyíregyháza Spartacus,Debreceni VSC,1,1,D,NaN,NaN,NaN
-HUN,22/09/2007,15:00,Györi ETO FC,FC Fehérvár,4,1,H,NaN,NaN,NaN
-HUN,22/09/2007,15:00,Rákospalotai EAC,Újpest FC,1,1,D,NaN,NaN,NaN
-HUN,22/09/2007,17:00,Kaposvári RFC,MTK Budapest,0,3,A,NaN,NaN,NaN
-HUN,22/09/2007,17:00,FC Sopron,Paksi SE,1,1,D,NaN,NaN,NaN
-HUN,24/09/2007,17:00,Budapesti Vasas,BFC Siófok,0,0,D,NaN,NaN,NaN
-HUN,28/09/2007,18:00,Zalaegerszegi TE,Budapesti Vasas,3,3,D,NaN,NaN,NaN
-HUN,29/09/2007,14:00,Újpest FC,FC Sopron,4,0,H,NaN,NaN,NaN
-HUN,29/09/2007,15:00,Paksi SE,FC Fehérvár,2,1,H,NaN,NaN,NaN
-HUN,29/09/2007,17:00,Kaposvári RFC,Györi ETO FC,1,1,D,NaN,NaN,NaN
-HUN,29/09/2007,17:00,BFC Siófok,Nyíregyháza Spartacus,0,1,A,NaN,NaN,NaN
-HUN,29/09/2007,17:00,Debreceni VSC,Tatabánya FC,4,1,H,NaN,NaN,NaN
-HUN,29/09/2007,17:00,Diósgyöri VTK,Rákospalotai EAC,0,1,A,NaN,NaN,NaN
-HUN,01/10/2007,17:00,MTK Budapest,Budapest Honvéd,1,2,A,NaN,NaN,NaN
-HUN,05/10/2007,18:00,FC Fehérvár,Újpest FC,1,2,A,NaN,NaN,NaN
-HUN,06/10/2007,14:00,Tatabánya FC,BFC Siófok,2,2,D,NaN,NaN,NaN
-HUN,06/10/2007,14:00,Györi ETO FC,Paksi SE,3,3,D,NaN,NaN,NaN
-HUN,06/10/2007,14:00,Nyíregyháza Spartacus,Zalaegerszegi TE,2,1,H,NaN,NaN,NaN
-HUN,06/10/2007,14:00,Rákospalotai EAC,Debreceni VSC,0,4,A,NaN,NaN,NaN
-HUN,06/10/2007,17:00,Budapest Honvéd,Kaposvári RFC,0,1,A,NaN,NaN,NaN
-HUN,06/10/2007,17:00,FC Sopron,Diósgyöri VTK,0,1,A,NaN,NaN,NaN
-HUN,08/10/2007,17:00,Budapesti Vasas,MTK Budapest,0,3,A,NaN,NaN,NaN
-HUN,19/10/2007,18:00,Diósgyöri VTK,FC Fehérvár,2,0,H,NaN,NaN,NaN
-HUN,20/10/2007,14:00,Budapest Honvéd,Györi ETO FC,2,2,D,NaN,NaN,NaN
-HUN,20/10/2007,17:00,Debreceni VSC,FC Sopron,4,2,H,NaN,NaN,NaN
-HUN,20/10/2007,17:00,Újpest FC,Paksi SE,3,1,H,NaN,NaN,NaN
-HUN,20/10/2007,17:00,Kaposvári RFC,Budapesti Vasas,1,0,H,NaN,NaN,NaN
-HUN,20/10/2007,17:00,Zalaegerszegi TE,Tatabánya FC,4,1,H,NaN,NaN,NaN
-HUN,20/10/2007,17:00,BFC Siófok,Rákospalotai EAC,1,0,H,NaN,NaN,NaN
-HUN,22/10/2007,17:00,MTK Budapest,Nyíregyháza Spartacus,2,0,H,NaN,NaN,NaN
-HUN,02/11/2007,18:00,Budapesti Vasas,Budapest Honvéd,0,2,A,NaN,NaN,NaN
-HUN,03/11/2007,12:00,Györi ETO FC,Újpest FC,4,2,H,NaN,NaN,NaN
-HUN,03/11/2007,12:30,Rákospalotai EAC,Zalaegerszegi TE,1,2,A,NaN,NaN,NaN
-HUN,03/11/2007,12:30,Tatabánya FC,MTK Budapest,1,3,A,NaN,NaN,NaN
-HUN,03/11/2007,12:30,Nyíregyháza Spartacus,Kaposvári RFC,0,2,A,NaN,NaN,NaN
-HUN,03/11/2007,12:30,Paksi SE,Diósgyöri VTK,2,2,D,NaN,NaN,NaN
-HUN,03/11/2007,15:00,FC Sopron,BFC Siófok,0,0,D,NaN,NaN,NaN
-HUN,05/11/2007,17:00,FC Fehérvár,Debreceni VSC,0,0,D,NaN,NaN,NaN
-HUN,09/11/2007,18:00,Diósgyöri VTK,Újpest FC,1,4,A,NaN,NaN,NaN
-HUN,10/11/2007,12:00,Budapest Honvéd,Nyíregyháza Spartacus,0,0,D,NaN,NaN,NaN
-HUN,10/11/2007,15:00,Zalaegerszegi TE,FC Sopron,4,0,H,NaN,NaN,NaN
-HUN,10/11/2007,15:00,BFC Siófok,FC Fehérvár,1,0,H,NaN,NaN,NaN
-HUN,10/11/2007,15:00,Debreceni VSC,Paksi SE,1,1,D,NaN,NaN,NaN
-HUN,10/11/2007,15:00,Budapesti Vasas,Györi ETO FC,1,1,D,NaN,NaN,NaN
-HUN,10/11/2007,15:00,Kaposvári RFC,Tatabánya FC,4,2,H,NaN,NaN,NaN
-HUN,12/11/2007,17:00,MTK Budapest,Rákospalotai EAC,3,0,H,NaN,NaN,NaN
-HUN,23/11/2007,18:00,Újpest FC,Debreceni VSC,1,1,D,NaN,NaN,NaN
-HUN,24/11/2007,12:00,Paksi SE,BFC Siófok,1,1,D,NaN,NaN,NaN
-HUN,24/11/2007,12:00,FC Fehérvár,Zalaegerszegi TE,2,0,H,NaN,NaN,NaN
-HUN,24/11/2007,12:00,Rákospalotai EAC,Kaposvári RFC,1,1,D,NaN,NaN,NaN
-HUN,24/11/2007,12:00,Tatabánya FC,Budapest Honvéd,4,3,H,NaN,NaN,NaN
-HUN,24/11/2007,12:00,Györi ETO FC,Diósgyöri VTK,5,1,H,NaN,NaN,NaN
-HUN,24/11/2007,12:00,Nyíregyháza Spartacus,Budapesti Vasas,2,1,H,NaN,NaN,NaN
-HUN,29/11/2007,14:00,FC Sopron,MTK Budapest,1,5,A,NaN,NaN,NaN
-HUN,22/02/2008,18:00,Debreceni VSC,Diósgyöri VTK,3,0,H,NaN,NaN,NaN
-HUN,23/02/2008,,FC Sopron,Kaposvári RFC,0,3,A,NaN,NaN,NaN
-HUN,23/02/2008,13:00,Györi ETO FC,Nyíregyháza Spartacus,5,0,H,NaN,NaN,NaN
-HUN,23/02/2008,14:00,Újpest FC,BFC Siófok,3,0,H,NaN,NaN,NaN
-HUN,23/02/2008,15:00,Paksi SE,Zalaegerszegi TE,0,3,A,NaN,NaN,NaN
-HUN,23/02/2008,15:00,Tatabánya FC,Budapesti Vasas,0,2,A,NaN,NaN,NaN
-HUN,23/02/2008,15:00,Budapest Honvéd,Rákospalotai EAC,1,1,D,NaN,NaN,NaN
-HUN,25/02/2008,17:00,FC Fehérvár,MTK Budapest,1,0,H,NaN,NaN,NaN
-HUN,29/02/2008,18:00,Zalaegerszegi TE,Újpest FC,4,1,H,NaN,NaN,NaN
-HUN,01/03/2008,13:00,Nyíregyháza Spartacus,Tatabánya FC,5,0,H,NaN,NaN,NaN
-HUN,01/03/2008,14:00,Györi ETO FC,Debreceni VSC,3,1,H,NaN,NaN,NaN
-HUN,01/03/2008,15:00,MTK Budapest,Paksi SE,1,1,D,NaN,NaN,NaN
-HUN,01/03/2008,15:00,BFC Siófok,Diósgyöri VTK,4,0,H,NaN,NaN,NaN
-HUN,01/03/2008,15:00,Kaposvári RFC,FC Fehérvár,1,0,H,NaN,NaN,NaN
-HUN,03/03/2008,,Budapest Honvéd,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,03/03/2008,17:00,Budapesti Vasas,Rákospalotai EAC,2,1,H,NaN,NaN,NaN
-HUN,07/03/2008,18:00,FC Fehérvár,Budapest Honvéd,0,0,D,NaN,NaN,NaN
-HUN,08/03/2008,,FC Sopron,Budapesti Vasas,0,3,A,NaN,NaN,NaN
-HUN,08/03/2008,14:00,Újpest FC,MTK Budapest,1,3,A,NaN,NaN,NaN
-HUN,08/03/2008,15:00,Tatabánya FC,Györi ETO FC,1,3,A,NaN,NaN,NaN
-HUN,08/03/2008,15:00,Rákospalotai EAC,Nyíregyháza Spartacus,2,2,D,NaN,NaN,NaN
-HUN,08/03/2008,15:00,Paksi SE,Kaposvári RFC,1,1,D,NaN,NaN,NaN
-HUN,08/03/2008,15:00,Diósgyöri VTK,Zalaegerszegi TE,1,1,D,NaN,NaN,NaN
-HUN,10/03/2008,17:00,Debreceni VSC,BFC Siófok,2,0,H,NaN,NaN,NaN
-HUN,14/03/2008,18:00,Kaposvári RFC,Újpest FC,0,3,A,NaN,NaN,NaN
-HUN,15/03/2008,,Nyíregyháza Spartacus,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,15/03/2008,13:30,Györi ETO FC,BFC Siófok,4,1,H,NaN,NaN,NaN
-HUN,15/03/2008,14:00,Zalaegerszegi TE,Debreceni VSC,1,2,A,NaN,NaN,NaN
-HUN,15/03/2008,15:00,Budapesti Vasas,FC Fehérvár,1,2,A,NaN,NaN,NaN
-HUN,15/03/2008,15:00,Tatabánya FC,Rákospalotai EAC,1,1,D,NaN,NaN,NaN
-HUN,15/03/2008,15:00,Budapest Honvéd,Paksi SE,2,1,H,NaN,NaN,NaN
-HUN,17/03/2008,17:00,MTK Budapest,Diósgyöri VTK,1,1,D,NaN,NaN,NaN
-HUN,21/03/2008,18:00,Újpest FC,Budapest Honvéd,1,0,H,NaN,NaN,NaN
-HUN,22/03/2008,,FC Sopron,Tatabánya FC,0,3,A,NaN,NaN,NaN
-HUN,22/03/2008,14:00,Debreceni VSC,MTK Budapest,0,2,A,NaN,NaN,NaN
-HUN,22/03/2008,15:00,BFC Siófok,Zalaegerszegi TE,1,1,D,NaN,NaN,NaN
-HUN,22/03/2008,15:00,FC Fehérvár,Nyíregyháza Spartacus,2,1,H,NaN,NaN,NaN
-HUN,22/03/2008,15:00,Paksi SE,Budapesti Vasas,3,0,H,NaN,NaN,NaN
-HUN,22/03/2008,15:00,Diósgyöri VTK,Kaposvári RFC,2,1,H,NaN,NaN,NaN
-HUN,24/03/2008,17:00,Rákospalotai EAC,Györi ETO FC,2,2,D,NaN,NaN,NaN
-HUN,28/03/2008,18:00,Budapest Honvéd,Diósgyöri VTK,0,1,A,NaN,NaN,NaN
-HUN,29/03/2008,,Rákospalotai EAC,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,29/03/2008,14:00,Györi ETO FC,Zalaegerszegi TE,3,2,H,NaN,NaN,NaN
-HUN,29/03/2008,14:00,MTK Budapest,BFC Siófok,3,0,H,NaN,NaN,NaN
-HUN,29/03/2008,15:00,Nyíregyháza Spartacus,Paksi SE,1,2,A,NaN,NaN,NaN
-HUN,30/03/2008,15:00,Tatabánya FC,FC Fehérvár,1,3,A,NaN,NaN,NaN
-HUN,30/03/2008,15:00,Kaposvári RFC,Debreceni VSC,2,2,D,NaN,NaN,NaN
-HUN,31/03/2008,17:00,Budapesti Vasas,Újpest FC,0,1,A,NaN,NaN,NaN
-HUN,04/04/2008,18:00,Zalaegerszegi TE,MTK Budapest,0,1,A,NaN,NaN,NaN
-HUN,05/04/2008,,FC Sopron,Györi ETO FC,0,3,A,NaN,NaN,NaN
-HUN,05/04/2008,14:00,Debreceni VSC,Budapest Honvéd,1,0,H,NaN,NaN,NaN
-HUN,05/04/2008,18:00,BFC Siófok,Kaposvári RFC,0,2,A,NaN,NaN,NaN
-HUN,05/04/2008,18:00,FC Fehérvár,Rákospalotai EAC,2,1,H,NaN,NaN,NaN
-HUN,05/04/2008,18:00,Paksi SE,Tatabánya FC,6,0,H,NaN,NaN,NaN
-HUN,05/04/2008,18:00,Diósgyöri VTK,Budapesti Vasas,4,5,A,NaN,NaN,NaN
-HUN,07/04/2008,17:00,Újpest FC,Nyíregyháza Spartacus,1,0,H,NaN,NaN,NaN
-HUN,11/04/2008,18:00,Budapesti Vasas,Debreceni VSC,0,3,A,NaN,NaN,NaN
-HUN,12/04/2008,14:00,Györi ETO FC,MTK Budapest,1,0,H,NaN,NaN,NaN
-HUN,12/04/2008,18:00,Budapest Honvéd,BFC Siófok,1,1,D,NaN,NaN,NaN
-HUN,12/04/2008,18:00,Nyíregyháza Spartacus,Diósgyöri VTK,2,1,H,NaN,NaN,NaN
-HUN,12/04/2008,18:00,Tatabánya FC,Újpest FC,2,3,A,NaN,NaN,NaN
-HUN,12/04/2008,18:00,Rákospalotai EAC,Paksi SE,2,1,H,NaN,NaN,NaN
-HUN,12/04/2008,18:00,FC Sopron,FC Fehérvár,0,3,A,NaN,NaN,NaN
-HUN,14/04/2008,17:00,Kaposvári RFC,Zalaegerszegi TE,0,2,A,NaN,NaN,NaN
-HUN,18/04/2008,18:00,MTK Budapest,Kaposvári RFC,3,2,H,NaN,NaN,NaN
-HUN,19/04/2008,,Paksi SE,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,19/04/2008,14:00,Debreceni VSC,Nyíregyháza Spartacus,4,1,H,NaN,NaN,NaN
-HUN,19/04/2008,18:00,FC Fehérvár,Györi ETO FC,1,0,H,NaN,NaN,NaN
-HUN,19/04/2008,18:00,BFC Siófok,Budapesti Vasas,1,3,A,NaN,NaN,NaN
-HUN,19/04/2008,18:15,Diósgyöri VTK,Tatabánya FC,2,2,D,NaN,NaN,NaN
-HUN,19/04/2008,19:00,Újpest FC,Rákospalotai EAC,4,4,D,NaN,NaN,NaN
-HUN,21/04/2008,17:00,Zalaegerszegi TE,Budapest Honvéd,2,1,H,NaN,NaN,NaN
-HUN,25/04/2008,18:00,Budapesti Vasas,Zalaegerszegi TE,1,0,H,NaN,NaN,NaN
-HUN,26/04/2008,,FC Sopron,Újpest FC,0,3,A,NaN,NaN,NaN
-HUN,26/04/2008,14:00,Györi ETO FC,Kaposvári RFC,1,1,D,NaN,NaN,NaN
-HUN,26/04/2008,18:00,FC Fehérvár,Paksi SE,3,0,H,NaN,NaN,NaN
-HUN,26/04/2008,18:00,Nyíregyháza Spartacus,BFC Siófok,2,0,H,NaN,NaN,NaN
-HUN,26/04/2008,18:00,Tatabánya FC,Debreceni VSC,1,2,A,NaN,NaN,NaN
-HUN,26/04/2008,18:00,Rákospalotai EAC,Diósgyöri VTK,5,5,D,NaN,NaN,NaN
-HUN,27/04/2008,17:00,Budapest Honvéd,MTK Budapest,0,2,A,NaN,NaN,NaN
-HUN,02/05/2008,18:00,Újpest FC,FC Fehérvár,1,0,H,NaN,NaN,NaN
-HUN,03/05/2008,,Diósgyöri VTK,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,03/05/2008,14:00,MTK Budapest,Budapesti Vasas,0,2,A,NaN,NaN,NaN
-HUN,03/05/2008,18:00,BFC Siófok,Tatabánya FC,3,0,H,NaN,NaN,NaN
-HUN,03/05/2008,18:00,Paksi SE,Györi ETO FC,2,1,H,NaN,NaN,NaN
-HUN,03/05/2008,18:00,Zalaegerszegi TE,Nyíregyháza Spartacus,0,0,D,NaN,NaN,NaN
-HUN,03/05/2008,18:00,Debreceni VSC,Rákospalotai EAC,4,0,H,NaN,NaN,NaN
-HUN,05/05/2008,17:00,Kaposvári RFC,Budapest Honvéd,1,0,H,NaN,NaN,NaN
-HUN,09/05/2008,18:00,Nyíregyháza Spartacus,MTK Budapest,0,2,A,NaN,NaN,NaN
-HUN,10/05/2008,,FC Sopron,Debreceni VSC,0,3,A,NaN,NaN,NaN
-HUN,10/05/2008,14:00,Györi ETO FC,Budapest Honvéd,2,2,D,NaN,NaN,NaN
-HUN,10/05/2008,18:00,FC Fehérvár,Diósgyöri VTK,3,1,H,NaN,NaN,NaN
-HUN,10/05/2008,18:00,Budapesti Vasas,Kaposvári RFC,1,2,A,NaN,NaN,NaN
-HUN,10/05/2008,18:00,Tatabánya FC,Zalaegerszegi TE,0,2,A,NaN,NaN,NaN
-HUN,10/05/2008,18:00,Rákospalotai EAC,BFC Siófok,4,2,H,NaN,NaN,NaN
-HUN,12/05/2008,17:00,Paksi SE,Újpest FC,2,0,H,NaN,NaN,NaN
-HUN,16/05/2008,18:00,Újpest FC,Györi ETO FC,1,3,A,NaN,NaN,NaN
-HUN,17/05/2008,,BFC Siófok,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,17/05/2008,12:00,Debreceni VSC,FC Fehérvár,3,0,H,NaN,NaN,NaN
-HUN,17/05/2008,18:00,Zalaegerszegi TE,Rákospalotai EAC,3,3,D,NaN,NaN,NaN
-HUN,17/05/2008,18:00,MTK Budapest,Tatabánya FC,5,1,H,NaN,NaN,NaN
-HUN,17/05/2008,18:00,Kaposvári RFC,Nyíregyháza Spartacus,1,1,D,NaN,NaN,NaN
-HUN,17/05/2008,18:00,Diósgyöri VTK,Paksi SE,3,3,D,NaN,NaN,NaN
-HUN,19/05/2008,17:00,Budapest Honvéd,Budapesti Vasas,0,1,A,NaN,NaN,NaN
-HUN,23/05/2008,18:00,Paksi SE,Debreceni VSC,2,2,D,NaN,NaN,NaN
-HUN,25/05/2008,,FC Sopron,Zalaegerszegi TE,0,3,A,NaN,NaN,NaN
-HUN,25/05/2008,17:00,FC Fehérvár,BFC Siófok,1,0,H,NaN,NaN,NaN
-HUN,25/05/2008,17:00,Újpest FC,Diósgyöri VTK,2,2,D,NaN,NaN,NaN
-HUN,25/05/2008,17:00,Györi ETO FC,Budapesti Vasas,2,1,H,NaN,NaN,NaN
-HUN,25/05/2008,17:00,Nyíregyháza Spartacus,Budapest Honvéd,3,0,H,NaN,NaN,NaN
-HUN,25/05/2008,17:00,Tatabánya FC,Kaposvári RFC,2,6,A,NaN,NaN,NaN
-HUN,26/05/2008,17:00,Rákospalotai EAC,MTK Budapest,0,3,A,NaN,NaN,NaN
-HUN,30/05/2008,18:00,Budapesti Vasas,Nyíregyháza Spartacus,3,1,H,NaN,NaN,NaN
-HUN,31/05/2008,14:00,Diósgyöri VTK,Györi ETO FC,1,3,A,NaN,NaN,NaN
-HUN,31/05/2008,14:00,Debreceni VSC,Újpest FC,3,1,H,NaN,NaN,NaN
-HUN,01/06/2008,,MTK Budapest,FC Sopron,3,0,H,NaN,NaN,NaN
-HUN,01/06/2008,18:00,BFC Siófok,Paksi SE,1,1,D,NaN,NaN,NaN
-HUN,01/06/2008,18:00,Kaposvári RFC,Rákospalotai EAC,3,0,H,NaN,NaN,NaN
-HUN,01/06/2008,18:00,Budapest Honvéd,Tatabánya FC,4,1,H,NaN,NaN,NaN
-HUN,02/06/2008,17:00,Zalaegerszegi TE,FC Fehérvár,1,3,A,NaN,NaN,NaN
+HUN,2007-07-20,18:00,Zalaegerszegi TE,Paksi SE,3,1,H,,,
+HUN,2007-07-20,18:00,Budapesti Vasas,Tatabánya FC,3,1,H,,,
+HUN,2007-07-21,18:00,Kaposvári RFC,FC Sopron,1,1,D,,,
+HUN,2007-07-21,18:00,BFC Siófok,Újpest FC,2,4,A,,,
+HUN,2007-07-22,17:00,Rákospalotai EAC,Budapest Honvéd,0,3,A,,,
+HUN,2007-07-22,17:00,Diósgyöri VTK,Debreceni VSC,1,2,A,,,
+HUN,2007-07-23,17:00,MTK Budapest,FC Fehérvár,2,0,H,,,
+HUN,2007-07-27,18:00,Debreceni VSC,Györi ETO FC,2,0,H,,,
+HUN,2007-07-27,18:00,Újpest FC,Zalaegerszegi TE,1,1,D,,,
+HUN,2007-07-28,17:00,Paksi SE,MTK Budapest,1,4,A,,,
+HUN,2007-07-28,17:00,Tatabánya FC,Nyíregyháza Spartacus,0,1,A,,,
+HUN,2007-07-28,18:00,Diósgyöri VTK,BFC Siófok,0,3,A,,,
+HUN,2007-07-29,17:00,FC Sopron,Budapest Honvéd,0,1,A,,,
+HUN,2007-07-30,17:00,Rákospalotai EAC,Budapesti Vasas,2,0,H,,,
+HUN,2007-07-30,19:00,FC Fehérvár,Kaposvári RFC,1,1,D,,,
+HUN,2007-08-03,18:00,BFC Siófok,Debreceni VSC,1,1,D,,,
+HUN,2007-08-03,18:00,Zalaegerszegi TE,Diósgyöri VTK,4,1,H,,,
+HUN,2007-08-04,16:30,Nyíregyháza Spartacus,Rákospalotai EAC,2,0,H,,,
+HUN,2007-08-04,17:00,Györi ETO FC,Tatabánya FC,2,1,H,,,
+HUN,2007-08-04,18:00,Budapesti Vasas,FC Sopron,2,0,H,,,
+HUN,2007-08-04,18:00,Kaposvári RFC,Paksi SE,2,1,H,,,
+HUN,2007-08-05,18:00,Budapest Honvéd,FC Fehérvár,5,1,H,,,
+HUN,2007-08-06,17:00,MTK Budapest,Újpest FC,0,0,D,,,
+HUN,2007-08-10,18:00,Diósgyöri VTK,MTK Budapest,2,2,D,,,
+HUN,2007-08-11,14:00,Debreceni VSC,Zalaegerszegi TE,3,2,H,,,
+HUN,2007-08-11,16:00,Rákospalotai EAC,Tatabánya FC,3,2,H,,,
+HUN,2007-08-11,16:00,Paksi SE,Budapest Honvéd,0,3,A,,,
+HUN,2007-08-11,18:00,FC Fehérvár,Budapesti Vasas,5,2,H,,,
+HUN,2007-08-11,18:00,FC Sopron,Nyíregyháza Spartacus,1,1,D,,,
+HUN,2007-08-11,18:00,BFC Siófok,Györi ETO FC,0,1,A,,,
+HUN,2007-08-13,17:00,Újpest FC,Kaposvári RFC,0,2,A,,,
+HUN,2007-08-17,18:00,MTK Budapest,Debreceni VSC,3,2,H,,,
+HUN,2007-08-18,14:00,Nyíregyháza Spartacus,FC Fehérvár,0,1,A,,,
+HUN,2007-08-18,16:30,Tatabánya FC,FC Sopron,0,1,A,,,
+HUN,2007-08-18,16:30,Györi ETO FC,Rákospalotai EAC,2,1,H,,,
+HUN,2007-08-18,18:00,Zalaegerszegi TE,BFC Siófok,2,0,H,,,
+HUN,2007-08-18,18:00,Kaposvári RFC,Diósgyöri VTK,1,1,D,,,
+HUN,2007-08-19,18:00,Budapest Honvéd,Újpest FC,1,4,A,,,
+HUN,2007-08-20,18:00,Budapesti Vasas,Paksi SE,3,2,H,,,
+HUN,2007-08-24,18:00,Diósgyöri VTK,Budapest Honvéd,2,2,D,,,
+HUN,2007-08-25,15:00,Debreceni VSC,Kaposvári RFC,4,0,H,,,
+HUN,2007-08-25,16:30,Paksi SE,Nyíregyháza Spartacus,3,0,H,,,
+HUN,2007-08-25,18:00,FC Fehérvár,Tatabánya FC,7,0,H,,,
+HUN,2007-08-25,18:00,FC Sopron,Rákospalotai EAC,2,1,H,,,
+HUN,2007-08-25,18:00,Zalaegerszegi TE,Györi ETO FC,0,0,D,,,
+HUN,2007-08-25,18:00,BFC Siófok,MTK Budapest,1,1,D,,,
+HUN,2007-08-27,17:00,Újpest FC,Budapesti Vasas,1,1,D,,,
+HUN,2007-08-29,16:00,Nyíregyháza Spartacus,Györi ETO FC,1,0,H,,,
+HUN,2007-08-31,18:00,Budapesti Vasas,Diósgyöri VTK,0,0,D,,,
+HUN,2007-09-01,15:00,Nyíregyháza Spartacus,Újpest FC,1,2,A,,,
+HUN,2007-09-01,15:30,Rákospalotai EAC,FC Fehérvár,0,2,A,,,
+HUN,2007-09-01,15:30,Tatabánya FC,Paksi SE,2,4,A,,,
+HUN,2007-09-01,15:30,Györi ETO FC,FC Sopron,1,1,D,,,
+HUN,2007-09-01,18:00,Kaposvári RFC,BFC Siófok,4,3,H,,,
+HUN,2007-09-02,18:00,Budapest Honvéd,Debreceni VSC,3,1,H,,,
+HUN,2007-09-03,18:00,MTK Budapest,Zalaegerszegi TE,4,1,H,,,
+HUN,2007-09-14,18:00,Debreceni VSC,Budapesti Vasas,2,0,H,,,
+HUN,2007-09-15,14:00,Újpest FC,Tatabánya FC,3,0,H,,,
+HUN,2007-09-15,15:30,Paksi SE,Rákospalotai EAC,0,2,A,,,
+HUN,2007-09-15,17:00,Zalaegerszegi TE,Kaposvári RFC,2,1,H,,,
+HUN,2007-09-15,17:00,BFC Siófok,Budapest Honvéd,1,2,A,,,
+HUN,2007-09-15,17:00,Diósgyöri VTK,Nyíregyháza Spartacus,0,0,D,,,
+HUN,2007-09-15,17:00,FC Fehérvár,FC Sopron,2,0,H,,,
+HUN,2007-09-17,17:00,MTK Budapest,Györi ETO FC,2,2,D,,,
+HUN,2007-09-21,15:00,Tatabánya FC,Diósgyöri VTK,2,2,D,,,
+HUN,2007-09-21,18:00,Budapest Honvéd,Zalaegerszegi TE,2,1,H,,,
+HUN,2007-09-22,14:00,Nyíregyháza Spartacus,Debreceni VSC,1,1,D,,,
+HUN,2007-09-22,15:00,Györi ETO FC,FC Fehérvár,4,1,H,,,
+HUN,2007-09-22,15:00,Rákospalotai EAC,Újpest FC,1,1,D,,,
+HUN,2007-09-22,17:00,Kaposvári RFC,MTK Budapest,0,3,A,,,
+HUN,2007-09-22,17:00,FC Sopron,Paksi SE,1,1,D,,,
+HUN,2007-09-24,17:00,Budapesti Vasas,BFC Siófok,0,0,D,,,
+HUN,2007-09-28,18:00,Zalaegerszegi TE,Budapesti Vasas,3,3,D,,,
+HUN,2007-09-29,14:00,Újpest FC,FC Sopron,4,0,H,,,
+HUN,2007-09-29,15:00,Paksi SE,FC Fehérvár,2,1,H,,,
+HUN,2007-09-29,17:00,Kaposvári RFC,Györi ETO FC,1,1,D,,,
+HUN,2007-09-29,17:00,BFC Siófok,Nyíregyháza Spartacus,0,1,A,,,
+HUN,2007-09-29,17:00,Debreceni VSC,Tatabánya FC,4,1,H,,,
+HUN,2007-09-29,17:00,Diósgyöri VTK,Rákospalotai EAC,0,1,A,,,
+HUN,2007-10-01,17:00,MTK Budapest,Budapest Honvéd,1,2,A,,,
+HUN,2007-10-05,18:00,FC Fehérvár,Újpest FC,1,2,A,,,
+HUN,2007-10-06,14:00,Tatabánya FC,BFC Siófok,2,2,D,,,
+HUN,2007-10-06,14:00,Györi ETO FC,Paksi SE,3,3,D,,,
+HUN,2007-10-06,14:00,Nyíregyháza Spartacus,Zalaegerszegi TE,2,1,H,,,
+HUN,2007-10-06,14:00,Rákospalotai EAC,Debreceni VSC,0,4,A,,,
+HUN,2007-10-06,17:00,Budapest Honvéd,Kaposvári RFC,0,1,A,,,
+HUN,2007-10-06,17:00,FC Sopron,Diósgyöri VTK,0,1,A,,,
+HUN,2007-10-08,17:00,Budapesti Vasas,MTK Budapest,0,3,A,,,
+HUN,2007-10-19,18:00,Diósgyöri VTK,FC Fehérvár,2,0,H,,,
+HUN,2007-10-20,14:00,Budapest Honvéd,Györi ETO FC,2,2,D,,,
+HUN,2007-10-20,17:00,Debreceni VSC,FC Sopron,4,2,H,,,
+HUN,2007-10-20,17:00,Újpest FC,Paksi SE,3,1,H,,,
+HUN,2007-10-20,17:00,Kaposvári RFC,Budapesti Vasas,1,0,H,,,
+HUN,2007-10-20,17:00,Zalaegerszegi TE,Tatabánya FC,4,1,H,,,
+HUN,2007-10-20,17:00,BFC Siófok,Rákospalotai EAC,1,0,H,,,
+HUN,2007-10-22,17:00,MTK Budapest,Nyíregyháza Spartacus,2,0,H,,,
+HUN,2007-11-02,18:00,Budapesti Vasas,Budapest Honvéd,0,2,A,,,
+HUN,2007-11-03,12:00,Györi ETO FC,Újpest FC,4,2,H,,,
+HUN,2007-11-03,12:30,Rákospalotai EAC,Zalaegerszegi TE,1,2,A,,,
+HUN,2007-11-03,12:30,Tatabánya FC,MTK Budapest,1,3,A,,,
+HUN,2007-11-03,12:30,Nyíregyháza Spartacus,Kaposvári RFC,0,2,A,,,
+HUN,2007-11-03,12:30,Paksi SE,Diósgyöri VTK,2,2,D,,,
+HUN,2007-11-03,15:00,FC Sopron,BFC Siófok,0,0,D,,,
+HUN,2007-11-05,17:00,FC Fehérvár,Debreceni VSC,0,0,D,,,
+HUN,2007-11-09,18:00,Diósgyöri VTK,Újpest FC,1,4,A,,,
+HUN,2007-11-10,12:00,Budapest Honvéd,Nyíregyháza Spartacus,0,0,D,,,
+HUN,2007-11-10,15:00,Zalaegerszegi TE,FC Sopron,4,0,H,,,
+HUN,2007-11-10,15:00,BFC Siófok,FC Fehérvár,1,0,H,,,
+HUN,2007-11-10,15:00,Debreceni VSC,Paksi SE,1,1,D,,,
+HUN,2007-11-10,15:00,Budapesti Vasas,Györi ETO FC,1,1,D,,,
+HUN,2007-11-10,15:00,Kaposvári RFC,Tatabánya FC,4,2,H,,,
+HUN,2007-11-12,17:00,MTK Budapest,Rákospalotai EAC,3,0,H,,,
+HUN,2007-11-23,18:00,Újpest FC,Debreceni VSC,1,1,D,,,
+HUN,2007-11-24,12:00,Paksi SE,BFC Siófok,1,1,D,,,
+HUN,2007-11-24,12:00,FC Fehérvár,Zalaegerszegi TE,2,0,H,,,
+HUN,2007-11-24,12:00,Rákospalotai EAC,Kaposvári RFC,1,1,D,,,
+HUN,2007-11-24,12:00,Tatabánya FC,Budapest Honvéd,4,3,H,,,
+HUN,2007-11-24,12:00,Györi ETO FC,Diósgyöri VTK,5,1,H,,,
+HUN,2007-11-24,12:00,Nyíregyháza Spartacus,Budapesti Vasas,2,1,H,,,
+HUN,2007-11-29,14:00,FC Sopron,MTK Budapest,1,5,A,,,
+HUN,2008-02-22,18:00,Debreceni VSC,Diósgyöri VTK,3,0,H,,,
+HUN,2008-02-23,13:00,Györi ETO FC,Nyíregyháza Spartacus,5,0,H,,,
+HUN,2008-02-23,14:00,Újpest FC,BFC Siófok,3,0,H,,,
+HUN,2008-02-23,15:00,Paksi SE,Zalaegerszegi TE,0,3,A,,,
+HUN,2008-02-23,15:00,Tatabánya FC,Budapesti Vasas,0,2,A,,,
+HUN,2008-02-23,15:00,Budapest Honvéd,Rákospalotai EAC,1,1,D,,,
+HUN,2008-02-23,,FC Sopron,Kaposvári RFC,0,3,A,,,
+HUN,2008-02-25,17:00,FC Fehérvár,MTK Budapest,1,0,H,,,
+HUN,2008-02-29,18:00,Zalaegerszegi TE,Újpest FC,4,1,H,,,
+HUN,2008-03-01,13:00,Nyíregyháza Spartacus,Tatabánya FC,5,0,H,,,
+HUN,2008-03-01,14:00,Györi ETO FC,Debreceni VSC,3,1,H,,,
+HUN,2008-03-01,15:00,MTK Budapest,Paksi SE,1,1,D,,,
+HUN,2008-03-01,15:00,BFC Siófok,Diósgyöri VTK,4,0,H,,,
+HUN,2008-03-01,15:00,Kaposvári RFC,FC Fehérvár,1,0,H,,,
+HUN,2008-03-03,17:00,Budapesti Vasas,Rákospalotai EAC,2,1,H,,,
+HUN,2008-03-03,,Budapest Honvéd,FC Sopron,3,0,H,,,
+HUN,2008-03-07,18:00,FC Fehérvár,Budapest Honvéd,0,0,D,,,
+HUN,2008-03-08,14:00,Újpest FC,MTK Budapest,1,3,A,,,
+HUN,2008-03-08,15:00,Tatabánya FC,Györi ETO FC,1,3,A,,,
+HUN,2008-03-08,15:00,Rákospalotai EAC,Nyíregyháza Spartacus,2,2,D,,,
+HUN,2008-03-08,15:00,Paksi SE,Kaposvári RFC,1,1,D,,,
+HUN,2008-03-08,15:00,Diósgyöri VTK,Zalaegerszegi TE,1,1,D,,,
+HUN,2008-03-08,,FC Sopron,Budapesti Vasas,0,3,A,,,
+HUN,2008-03-10,17:00,Debreceni VSC,BFC Siófok,2,0,H,,,
+HUN,2008-03-14,18:00,Kaposvári RFC,Újpest FC,0,3,A,,,
+HUN,2008-03-15,13:30,Györi ETO FC,BFC Siófok,4,1,H,,,
+HUN,2008-03-15,14:00,Zalaegerszegi TE,Debreceni VSC,1,2,A,,,
+HUN,2008-03-15,15:00,Budapesti Vasas,FC Fehérvár,1,2,A,,,
+HUN,2008-03-15,15:00,Tatabánya FC,Rákospalotai EAC,1,1,D,,,
+HUN,2008-03-15,15:00,Budapest Honvéd,Paksi SE,2,1,H,,,
+HUN,2008-03-15,,Nyíregyháza Spartacus,FC Sopron,3,0,H,,,
+HUN,2008-03-17,17:00,MTK Budapest,Diósgyöri VTK,1,1,D,,,
+HUN,2008-03-21,18:00,Újpest FC,Budapest Honvéd,1,0,H,,,
+HUN,2008-03-22,14:00,Debreceni VSC,MTK Budapest,0,2,A,,,
+HUN,2008-03-22,15:00,BFC Siófok,Zalaegerszegi TE,1,1,D,,,
+HUN,2008-03-22,15:00,FC Fehérvár,Nyíregyháza Spartacus,2,1,H,,,
+HUN,2008-03-22,15:00,Paksi SE,Budapesti Vasas,3,0,H,,,
+HUN,2008-03-22,15:00,Diósgyöri VTK,Kaposvári RFC,2,1,H,,,
+HUN,2008-03-22,,FC Sopron,Tatabánya FC,0,3,A,,,
+HUN,2008-03-24,17:00,Rákospalotai EAC,Györi ETO FC,2,2,D,,,
+HUN,2008-03-28,18:00,Budapest Honvéd,Diósgyöri VTK,0,1,A,,,
+HUN,2008-03-29,14:00,Györi ETO FC,Zalaegerszegi TE,3,2,H,,,
+HUN,2008-03-29,14:00,MTK Budapest,BFC Siófok,3,0,H,,,
+HUN,2008-03-29,15:00,Nyíregyháza Spartacus,Paksi SE,1,2,A,,,
+HUN,2008-03-29,,Rákospalotai EAC,FC Sopron,3,0,H,,,
+HUN,2008-03-30,15:00,Tatabánya FC,FC Fehérvár,1,3,A,,,
+HUN,2008-03-30,15:00,Kaposvári RFC,Debreceni VSC,2,2,D,,,
+HUN,2008-03-31,17:00,Budapesti Vasas,Újpest FC,0,1,A,,,
+HUN,2008-04-04,18:00,Zalaegerszegi TE,MTK Budapest,0,1,A,,,
+HUN,2008-04-05,14:00,Debreceni VSC,Budapest Honvéd,1,0,H,,,
+HUN,2008-04-05,18:00,BFC Siófok,Kaposvári RFC,0,2,A,,,
+HUN,2008-04-05,18:00,FC Fehérvár,Rákospalotai EAC,2,1,H,,,
+HUN,2008-04-05,18:00,Paksi SE,Tatabánya FC,6,0,H,,,
+HUN,2008-04-05,18:00,Diósgyöri VTK,Budapesti Vasas,4,5,A,,,
+HUN,2008-04-05,,FC Sopron,Györi ETO FC,0,3,A,,,
+HUN,2008-04-07,17:00,Újpest FC,Nyíregyháza Spartacus,1,0,H,,,
+HUN,2008-04-11,18:00,Budapesti Vasas,Debreceni VSC,0,3,A,,,
+HUN,2008-04-12,14:00,Györi ETO FC,MTK Budapest,1,0,H,,,
+HUN,2008-04-12,18:00,Budapest Honvéd,BFC Siófok,1,1,D,,,
+HUN,2008-04-12,18:00,Nyíregyháza Spartacus,Diósgyöri VTK,2,1,H,,,
+HUN,2008-04-12,18:00,Tatabánya FC,Újpest FC,2,3,A,,,
+HUN,2008-04-12,18:00,Rákospalotai EAC,Paksi SE,2,1,H,,,
+HUN,2008-04-12,18:00,FC Sopron,FC Fehérvár,0,3,A,,,
+HUN,2008-04-14,17:00,Kaposvári RFC,Zalaegerszegi TE,0,2,A,,,
+HUN,2008-04-18,18:00,MTK Budapest,Kaposvári RFC,3,2,H,,,
+HUN,2008-04-19,14:00,Debreceni VSC,Nyíregyháza Spartacus,4,1,H,,,
+HUN,2008-04-19,18:00,FC Fehérvár,Györi ETO FC,1,0,H,,,
+HUN,2008-04-19,18:00,BFC Siófok,Budapesti Vasas,1,3,A,,,
+HUN,2008-04-19,18:15,Diósgyöri VTK,Tatabánya FC,2,2,D,,,
+HUN,2008-04-19,19:00,Újpest FC,Rákospalotai EAC,4,4,D,,,
+HUN,2008-04-19,,Paksi SE,FC Sopron,3,0,H,,,
+HUN,2008-04-21,17:00,Zalaegerszegi TE,Budapest Honvéd,2,1,H,,,
+HUN,2008-04-25,18:00,Budapesti Vasas,Zalaegerszegi TE,1,0,H,,,
+HUN,2008-04-26,14:00,Györi ETO FC,Kaposvári RFC,1,1,D,,,
+HUN,2008-04-26,18:00,FC Fehérvár,Paksi SE,3,0,H,,,
+HUN,2008-04-26,18:00,Nyíregyháza Spartacus,BFC Siófok,2,0,H,,,
+HUN,2008-04-26,18:00,Tatabánya FC,Debreceni VSC,1,2,A,,,
+HUN,2008-04-26,18:00,Rákospalotai EAC,Diósgyöri VTK,5,5,D,,,
+HUN,2008-04-26,,FC Sopron,Újpest FC,0,3,A,,,
+HUN,2008-04-27,17:00,Budapest Honvéd,MTK Budapest,0,2,A,,,
+HUN,2008-05-02,18:00,Újpest FC,FC Fehérvár,1,0,H,,,
+HUN,2008-05-03,14:00,MTK Budapest,Budapesti Vasas,0,2,A,,,
+HUN,2008-05-03,18:00,BFC Siófok,Tatabánya FC,3,0,H,,,
+HUN,2008-05-03,18:00,Paksi SE,Györi ETO FC,2,1,H,,,
+HUN,2008-05-03,18:00,Zalaegerszegi TE,Nyíregyháza Spartacus,0,0,D,,,
+HUN,2008-05-03,18:00,Debreceni VSC,Rákospalotai EAC,4,0,H,,,
+HUN,2008-05-03,,Diósgyöri VTK,FC Sopron,3,0,H,,,
+HUN,2008-05-05,17:00,Kaposvári RFC,Budapest Honvéd,1,0,H,,,
+HUN,2008-05-09,18:00,Nyíregyháza Spartacus,MTK Budapest,0,2,A,,,
+HUN,2008-05-10,14:00,Györi ETO FC,Budapest Honvéd,2,2,D,,,
+HUN,2008-05-10,18:00,FC Fehérvár,Diósgyöri VTK,3,1,H,,,
+HUN,2008-05-10,18:00,Budapesti Vasas,Kaposvári RFC,1,2,A,,,
+HUN,2008-05-10,18:00,Tatabánya FC,Zalaegerszegi TE,0,2,A,,,
+HUN,2008-05-10,18:00,Rákospalotai EAC,BFC Siófok,4,2,H,,,
+HUN,2008-05-10,,FC Sopron,Debreceni VSC,0,3,A,,,
+HUN,2008-05-12,17:00,Paksi SE,Újpest FC,2,0,H,,,
+HUN,2008-05-16,18:00,Újpest FC,Györi ETO FC,1,3,A,,,
+HUN,2008-05-17,12:00,Debreceni VSC,FC Fehérvár,3,0,H,,,
+HUN,2008-05-17,18:00,Zalaegerszegi TE,Rákospalotai EAC,3,3,D,,,
+HUN,2008-05-17,18:00,MTK Budapest,Tatabánya FC,5,1,H,,,
+HUN,2008-05-17,18:00,Kaposvári RFC,Nyíregyháza Spartacus,1,1,D,,,
+HUN,2008-05-17,18:00,Diósgyöri VTK,Paksi SE,3,3,D,,,
+HUN,2008-05-17,,BFC Siófok,FC Sopron,3,0,H,,,
+HUN,2008-05-19,17:00,Budapest Honvéd,Budapesti Vasas,0,1,A,,,
+HUN,2008-05-23,18:00,Paksi SE,Debreceni VSC,2,2,D,,,
+HUN,2008-05-25,17:00,FC Fehérvár,BFC Siófok,1,0,H,,,
+HUN,2008-05-25,17:00,Újpest FC,Diósgyöri VTK,2,2,D,,,
+HUN,2008-05-25,17:00,Györi ETO FC,Budapesti Vasas,2,1,H,,,
+HUN,2008-05-25,17:00,Nyíregyháza Spartacus,Budapest Honvéd,3,0,H,,,
+HUN,2008-05-25,17:00,Tatabánya FC,Kaposvári RFC,2,6,A,,,
+HUN,2008-05-25,,FC Sopron,Zalaegerszegi TE,0,3,A,,,
+HUN,2008-05-26,17:00,Rákospalotai EAC,MTK Budapest,0,3,A,,,
+HUN,2008-05-30,18:00,Budapesti Vasas,Nyíregyháza Spartacus,3,1,H,,,
+HUN,2008-05-31,14:00,Diósgyöri VTK,Györi ETO FC,1,3,A,,,
+HUN,2008-05-31,14:00,Debreceni VSC,Újpest FC,3,1,H,,,
+HUN,2008-06-01,18:00,BFC Siófok,Paksi SE,1,1,D,,,
+HUN,2008-06-01,18:00,Kaposvári RFC,Rákospalotai EAC,3,0,H,,,
+HUN,2008-06-01,18:00,Budapest Honvéd,Tatabánya FC,4,1,H,,,
+HUN,2008-06-01,,MTK Budapest,FC Sopron,3,0,H,,,
+HUN,2008-06-02,17:00,Zalaegerszegi TE,FC Fehérvár,1,3,A,,,

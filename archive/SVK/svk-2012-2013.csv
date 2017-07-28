@@ -1,0 +1,199 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+SVK,2012-07-13,18:30,MŠK Žilina,Spartak Myjava,4,1,H,1,0,H
+SVK,2012-07-14,16:30,FK AS Trenčín,FC Nitra,5,0,H,1,0,H
+SVK,2012-07-14,18:30,Spartak Trnava,MFK Košice,0,0,D,0,0,D
+SVK,2012-07-14,18:30,Slovan Bratislava,Tatran Prešov,2,1,H,0,1,A
+SVK,2012-07-14,18:30,MFK Ružomberok,Zlate Moravce,3,1,H,0,1,A
+SVK,2012-07-15,18:30,FK Senica,Dukla Banská Bystrica,2,3,A,0,1,A
+SVK,2012-07-21,16:00,Spartak Myjava,Zlate Moravce,2,2,D,2,1,H
+SVK,2012-07-21,18:30,FC Nitra,MFK Ružomberok,1,1,D,1,0,H
+SVK,2012-07-21,18:30,Dukla Banská Bystrica,FK AS Trenčín,2,0,H,2,0,H
+SVK,2012-07-22,16:30,Tatran Prešov,FK Senica,2,0,H,0,0,D
+SVK,2012-07-22,16:30,MFK Košice,Slovan Bratislava,1,0,H,0,0,D
+SVK,2012-07-28,16:30,FK AS Trenčín,Tatran Prešov,2,1,H,1,0,H
+SVK,2012-07-28,18:30,MFK Ružomberok,Dukla Banská Bystrica,1,0,H,0,0,D
+SVK,2012-07-28,18:30,Zlate Moravce,FC Nitra,0,2,A,0,2,A
+SVK,2012-07-29,18:30,Spartak Trnava,Spartak Myjava,1,1,D,0,0,D
+SVK,2012-07-29,18:30,Slovan Bratislava,MŠK Žilina,1,1,D,1,0,H
+SVK,2012-07-29,18:30,FK Senica,MFK Košice,2,1,H,1,1,D
+SVK,2012-08-04,15:30,Spartak Myjava,FC Nitra,0,2,A,0,1,A
+SVK,2012-08-04,16:30,Tatran Prešov,MFK Ružomberok,2,0,H,2,0,H
+SVK,2012-08-04,16:30,MFK Košice,FK AS Trenčín,3,0,H,0,0,D
+SVK,2012-08-04,16:30,MŠK Žilina,FK Senica,2,0,H,2,0,H
+SVK,2012-08-04,18:30,Dukla Banská Bystrica,Zlate Moravce,0,0,D,0,0,D
+SVK,2012-08-05,18:00,Spartak Trnava,Slovan Bratislava,0,1,A,0,1,A
+SVK,2012-08-11,16:30,FK AS Trenčín,MŠK Žilina,0,2,A,0,0,D
+SVK,2012-08-11,18:30,Slovan Bratislava,Spartak Myjava,2,1,H,0,0,D
+SVK,2012-08-11,18:30,MFK Ružomberok,MFK Košice,3,1,H,2,1,H
+SVK,2012-08-11,18:30,Zlate Moravce,Tatran Prešov,2,0,H,1,0,H
+SVK,2012-08-11,18:30,FC Nitra,Dukla Banská Bystrica,1,1,D,1,1,D
+SVK,2012-08-12,16:30,FK Senica,Spartak Trnava,3,0,H,1,0,H
+SVK,2012-08-18,15:00,Spartak Myjava,Dukla Banská Bystrica,0,1,A,0,0,D
+SVK,2012-08-18,16:30,Tatran Prešov,FC Nitra,1,0,H,1,0,H
+SVK,2012-08-18,16:30,MFK Košice,Zlate Moravce,2,1,H,0,0,D
+SVK,2012-08-18,16:30,MŠK Žilina,MFK Ružomberok,0,0,D,0,0,D
+SVK,2012-08-18,18:30,Spartak Trnava,FK AS Trenčín,0,3,A,0,2,A
+SVK,2012-08-19,18:00,Slovan Bratislava,FK Senica,1,0,H,1,0,H
+SVK,2012-08-21,16:30,MŠK Žilina,Spartak Trnava,1,1,D,0,0,D
+SVK,2012-08-24,19:00,FK Senica,Spartak Myjava,0,1,A,0,0,D
+SVK,2012-08-25,16:30,FK AS Trenčín,Slovan Bratislava,2,2,D,1,1,D
+SVK,2012-08-25,16:30,MFK Ružomberok,Spartak Trnava,2,2,D,2,2,D
+SVK,2012-08-25,18:30,Zlate Moravce,MŠK Žilina,1,0,H,1,0,H
+SVK,2012-08-25,18:30,FC Nitra,MFK Košice,4,1,H,1,0,H
+SVK,2012-08-25,18:30,Dukla Banská Bystrica,Tatran Prešov,0,0,D,0,0,D
+SVK,2012-09-01,14:30,Spartak Myjava,Tatran Prešov,2,0,H,0,0,D
+SVK,2012-09-01,16:30,MFK Košice,Dukla Banská Bystrica,1,0,H,1,0,H
+SVK,2012-09-01,16:30,MŠK Žilina,FC Nitra,1,1,D,0,1,A
+SVK,2012-09-01,16:30,Slovan Bratislava,MFK Ružomberok,2,1,H,1,0,H
+SVK,2012-09-01,18:30,FK Senica,FK AS Trenčín,1,1,D,0,0,D
+SVK,2012-09-02,18:00,Spartak Trnava,Zlate Moravce,0,5,A,0,3,A
+SVK,2012-09-14,16:30,FC Nitra,Spartak Trnava,1,3,A,1,1,D
+SVK,2012-09-15,13:30,Tatran Prešov,MFK Košice,0,0,D,0,0,D
+SVK,2012-09-15,16:30,FK AS Trenčín,Spartak Myjava,3,2,H,1,1,D
+SVK,2012-09-15,16:30,MFK Ružomberok,FK Senica,0,2,A,0,0,D
+SVK,2012-09-15,16:30,Zlate Moravce,Slovan Bratislava,3,1,H,2,0,H
+SVK,2012-09-16,18:00,Dukla Banská Bystrica,MŠK Žilina,2,2,D,1,1,D
+SVK,2012-09-21,16:30,Slovan Bratislava,FC Nitra,5,2,H,4,1,H
+SVK,2012-09-22,14:00,Spartak Myjava,MFK Košice,3,1,H,3,1,H
+SVK,2012-09-22,16:30,MŠK Žilina,Tatran Prešov,3,0,H,1,0,H
+SVK,2012-09-22,16:30,Spartak Trnava,Dukla Banská Bystrica,1,0,H,0,0,D
+SVK,2012-09-22,16:30,FK Senica,Zlate Moravce,3,0,H,0,0,D
+SVK,2012-09-22,16:30,FK AS Trenčín,MFK Ružomberok,0,0,D,0,0,D
+SVK,2012-09-29,16:30,Zlate Moravce,FK AS Trenčín,4,1,H,2,0,H
+SVK,2012-09-29,16:30,Dukla Banská Bystrica,Slovan Bratislava,1,1,D,0,0,D
+SVK,2012-09-29,16:30,Tatran Prešov,Spartak Trnava,2,1,H,1,0,H
+SVK,2012-09-29,16:30,MFK Košice,MŠK Žilina,1,1,D,1,0,H
+SVK,2012-09-29,17:30,MFK Ružomberok,Spartak Myjava,0,4,A,0,0,D
+SVK,2012-09-30,18:00,FC Nitra,FK Senica,0,1,A,0,0,D
+SVK,2012-10-05,15:30,MFK Košice,Spartak Trnava,1,0,H,0,0,D
+SVK,2012-10-05,16:30,Zlate Moravce,MFK Ružomberok,0,0,D,0,0,D
+SVK,2012-10-06,13:30,Spartak Myjava,MŠK Žilina,1,1,D,1,1,D
+SVK,2012-10-06,13:30,Tatran Prešov,Slovan Bratislava,0,0,D,0,0,D
+SVK,2012-10-06,16:30,Dukla Banská Bystrica,FK Senica,1,2,A,1,0,H
+SVK,2012-10-06,16:30,FC Nitra,FK AS Trenčín,1,2,A,1,1,D
+SVK,2012-10-20,13:30,MFK Ružomberok,FC Nitra,2,1,H,0,1,A
+SVK,2012-10-20,16:30,Zlate Moravce,Spartak Myjava,3,1,H,2,1,H
+SVK,2012-10-20,16:30,FK AS Trenčín,Dukla Banská Bystrica,1,1,D,1,0,H
+SVK,2012-10-20,16:30,FK Senica,Tatran Prešov,2,0,H,0,0,D
+SVK,2012-10-20,16:30,Spartak Trnava,MŠK Žilina,1,2,A,1,2,A
+SVK,2012-10-21,18:00,Slovan Bratislava,MFK Košice,3,1,H,3,0,H
+SVK,2012-10-27,13:00,Spartak Myjava,Spartak Trnava,2,2,D,0,0,D
+SVK,2012-10-27,13:30,MFK Košice,FK Senica,2,2,D,2,1,H
+SVK,2012-10-27,13:30,Tatran Prešov,FK AS Trenčín,1,2,A,1,0,H
+SVK,2012-10-27,13:30,FC Nitra,Zlate Moravce,1,1,D,0,1,A
+SVK,2012-10-28,18:00,MŠK Žilina,Slovan Bratislava,0,0,D,0,0,D
+SVK,2012-11-02,17:30,Slovan Bratislava,Spartak Trnava,0,1,A,0,0,D
+SVK,2012-11-03,13:30,FC Nitra,Spartak Myjava,0,2,A,0,2,A
+SVK,2012-11-03,13:30,Zlate Moravce,Dukla Banská Bystrica,2,0,H,0,0,D
+SVK,2012-11-03,13:30,MFK Ružomberok,Tatran Prešov,2,0,H,1,0,H
+SVK,2012-11-03,16:30,FK AS Trenčín,MFK Košice,0,0,D,0,0,D
+SVK,2012-11-03,16:30,FK Senica,MŠK Žilina,0,0,D,0,0,D
+SVK,2012-11-10,12:30,Spartak Myjava,Slovan Bratislava,1,2,A,0,2,A
+SVK,2012-11-10,13:30,Spartak Trnava,FK Senica,1,1,D,1,0,H
+SVK,2012-11-10,13:30,MFK Košice,MFK Ružomberok,3,0,H,2,0,H
+SVK,2012-11-10,13:30,Tatran Prešov,Zlate Moravce,1,1,D,0,0,D
+SVK,2012-11-10,13:30,Dukla Banská Bystrica,FC Nitra,2,0,H,0,0,D
+SVK,2012-11-11,11:30,MŠK Žilina,FK AS Trenčín,0,0,D,0,0,D
+SVK,2012-11-16,16:30,Zlate Moravce,MFK Košice,1,0,H,1,0,H
+SVK,2012-11-17,13:30,Dukla Banská Bystrica,Spartak Myjava,1,1,D,1,0,H
+SVK,2012-11-17,13:30,FC Nitra,Tatran Prešov,4,1,H,1,0,H
+SVK,2012-11-17,13:30,MFK Ružomberok,MŠK Žilina,1,0,H,0,0,D
+SVK,2012-11-17,13:30,FK Senica,Slovan Bratislava,0,1,A,0,1,A
+SVK,2012-11-17,16:30,FK AS Trenčín,Spartak Trnava,6,0,H,2,0,H
+SVK,2012-11-20,15:00,Dukla Banská Bystrica,MFK Ružomberok,0,0,D,0,0,D
+SVK,2012-11-23,16:30,MŠK Žilina,Zlate Moravce,4,1,H,3,0,H
+SVK,2012-11-24,13:30,Spartak Trnava,MFK Ružomberok,0,1,A,0,1,A
+SVK,2012-11-24,13:30,MFK Košice,FC Nitra,4,0,H,2,0,H
+SVK,2012-11-24,13:30,Tatran Prešov,Dukla Banská Bystrica,1,0,H,1,0,H
+SVK,2012-11-24,16:30,Slovan Bratislava,FK AS Trenčín,3,1,H,1,0,H
+SVK,2012-11-25,11:30,Spartak Myjava,FK Senica,1,2,A,1,1,D
+SVK,2012-11-30,16:30,FC Nitra,MŠK Žilina,2,0,H,0,0,D
+SVK,2012-12-01,13:30,Tatran Prešov,Spartak Myjava,2,1,H,2,0,H
+SVK,2012-12-01,13:30,Dukla Banská Bystrica,MFK Košice,1,2,A,1,2,A
+SVK,2012-12-01,13:30,Zlate Moravce,Spartak Trnava,1,1,D,0,0,D
+SVK,2012-12-01,13:30,MFK Ružomberok,Slovan Bratislava,2,2,D,1,1,D
+SVK,2012-12-02,13:30,FK AS Trenčín,FK Senica,1,1,D,0,0,D
+SVK,2013-03-01,16:30,Slovan Bratislava,Zlate Moravce,4,1,H,4,1,H
+SVK,2013-03-02,13:30,Spartak Myjava,FK AS Trenčín,0,1,A,0,1,A
+SVK,2013-03-02,13:30,Spartak Trnava,FC Nitra,2,0,H,1,0,H
+SVK,2013-03-02,13:30,MŠK Žilina,Dukla Banská Bystrica,0,1,A,0,0,D
+SVK,2013-03-02,13:30,MFK Košice,Tatran Prešov,3,0,H,1,0,H
+SVK,2013-03-03,13:30,FK Senica,MFK Ružomberok,0,3,A,0,1,A
+SVK,2013-03-08,16:00,Dukla Banská Bystrica,Spartak Trnava,2,0,H,0,0,D
+SVK,2013-03-08,16:30,Zlate Moravce,FK Senica,0,2,A,0,2,A
+SVK,2013-03-09,13:30,MFK Košice,Spartak Myjava,1,2,A,0,1,A
+SVK,2013-03-09,13:30,Tatran Prešov,MŠK Žilina,0,0,D,0,0,D
+SVK,2013-03-09,13:30,MFK Ružomberok,FK AS Trenčín,1,2,A,1,0,H
+SVK,2013-03-10,11:30,FC Nitra,Slovan Bratislava,0,3,A,0,1,A
+SVK,2013-03-15,16:30,FK Senica,FC Nitra,2,1,H,0,0,D
+SVK,2013-03-16,13:30,Spartak Myjava,MFK Ružomberok,1,0,H,0,0,D
+SVK,2013-03-16,13:30,Spartak Trnava,Tatran Prešov,2,1,H,1,0,H
+SVK,2013-03-16,16:30,FK AS Trenčín,Zlate Moravce,1,1,D,0,1,A
+SVK,2013-03-16,16:30,Slovan Bratislava,Dukla Banská Bystrica,2,0,H,0,0,D
+SVK,2013-03-17,11:30,MŠK Žilina,MFK Košice,0,1,A,0,0,D
+SVK,2013-03-29,16:30,Slovan Bratislava,Tatran Prešov,5,0,H,3,0,H
+SVK,2013-03-30,13:30,MŠK Žilina,Spartak Myjava,0,0,D,0,0,D
+SVK,2013-03-30,13:30,Spartak Trnava,MFK Košice,2,3,A,1,1,D
+SVK,2013-03-30,13:30,MFK Ružomberok,Zlate Moravce,2,1,H,1,0,H
+SVK,2013-03-30,16:30,FK Senica,Dukla Banská Bystrica,1,1,D,0,0,D
+SVK,2013-03-30,16:30,FK AS Trenčín,FC Nitra,3,0,H,2,0,H
+SVK,2013-04-02,15:00,Tatran Prešov,FK Senica,0,1,A,0,1,A
+SVK,2013-04-02,15:00,MFK Košice,Slovan Bratislava,1,1,D,1,0,H
+SVK,2013-04-02,16:30,FC Nitra,MFK Ružomberok,3,0,H,0,0,D
+SVK,2013-04-02,16:30,Dukla Banská Bystrica,FK AS Trenčín,0,0,D,0,0,D
+SVK,2013-04-02,16:30,MŠK Žilina,Spartak Trnava,1,1,D,1,1,D
+SVK,2013-04-06,13:30,Spartak Trnava,Spartak Myjava,1,1,D,0,0,D
+SVK,2013-04-06,13:30,MFK Ružomberok,Dukla Banská Bystrica,3,2,H,1,1,D
+SVK,2013-04-06,16:30,FK Senica,MFK Košice,0,0,D,0,0,D
+SVK,2013-04-06,16:30,FK AS Trenčín,Tatran Prešov,1,1,D,1,1,D
+SVK,2013-04-06,16:30,Zlate Moravce,FC Nitra,1,2,A,0,1,A
+SVK,2013-04-06,17:00,Slovan Bratislava,MŠK Žilina,1,1,D,0,0,D
+SVK,2013-04-13,13:30,Tatran Prešov,MFK Ružomberok,3,1,H,1,0,H
+SVK,2013-04-13,13:30,MFK Košice,FK AS Trenčín,0,0,D,0,0,D
+SVK,2013-04-13,13:30,Spartak Trnava,Slovan Bratislava,0,0,D,0,0,D
+SVK,2013-04-13,16:30,Dukla Banská Bystrica,Zlate Moravce,1,0,H,0,0,D
+SVK,2013-04-13,16:30,MŠK Žilina,FK Senica,0,1,A,0,0,D
+SVK,2013-04-14,11:30,Spartak Myjava,FC Nitra,0,0,D,0,0,D
+SVK,2013-04-20,15:30,Slovan Bratislava,Spartak Myjava,1,1,D,0,0,D
+SVK,2013-04-20,16:30,FK AS Trenčín,MŠK Žilina,1,2,A,1,1,D
+SVK,2013-04-20,16:30,MFK Ružomberok,MFK Košice,1,1,D,0,1,A
+SVK,2013-04-20,16:30,Zlate Moravce,Tatran Prešov,0,0,D,0,0,D
+SVK,2013-04-20,16:30,FC Nitra,Dukla Banská Bystrica,3,1,H,2,1,H
+SVK,2013-04-21,18:00,FK Senica,Spartak Trnava,3,2,H,2,1,H
+SVK,2013-04-23,16:30,MŠK Žilina,FC Nitra,1,2,A,1,0,H
+SVK,2013-04-27,13:30,Tatran Prešov,FC Nitra,0,1,A,0,0,D
+SVK,2013-04-27,13:30,MFK Košice,Zlate Moravce,0,2,A,0,1,A
+SVK,2013-04-27,13:30,Spartak Trnava,FK AS Trenčín,2,0,H,1,0,H
+SVK,2013-04-27,13:30,Slovan Bratislava,FK Senica,3,2,H,0,0,D
+SVK,2013-04-27,16:30,MŠK Žilina,MFK Ružomberok,3,0,H,1,0,H
+SVK,2013-04-27,19:00,Spartak Myjava,Dukla Banská Bystrica,2,1,H,1,0,H
+SVK,2013-05-04,16:00,FK Senica,Spartak Myjava,0,3,A,0,0,D
+SVK,2013-05-04,16:00,MFK Ružomberok,Spartak Trnava,1,0,H,0,0,D
+SVK,2013-05-04,16:00,Dukla Banská Bystrica,Tatran Prešov,0,0,D,0,0,D
+SVK,2013-05-05,18:00,FK AS Trenčín,Slovan Bratislava,4,1,H,2,0,H
+SVK,2013-05-07,17:30,Spartak Myjava,Zlate Moravce,2,1,H,0,1,A
+SVK,2013-05-10,17:30,FK Senica,FK AS Trenčín,1,0,H,1,0,H
+SVK,2013-05-11,16:30,MFK Košice,Dukla Banská Bystrica,1,0,H,0,0,D
+SVK,2013-05-11,16:30,Slovan Bratislava,MFK Ružomberok,2,2,D,1,1,D
+SVK,2013-05-11,18:30,Spartak Myjava,Tatran Prešov,2,0,H,1,0,H
+SVK,2013-05-12,13:30,Spartak Trnava,Zlate Moravce,3,2,H,1,0,H
+SVK,2013-05-14,16:30,FC Nitra,MFK Košice,1,0,H,0,0,D
+SVK,2013-05-15,16:30,Zlate Moravce,MŠK Žilina,2,1,H,1,1,D
+SVK,2013-05-18,16:30,Spartak Myjava,FK AS Trenčín,0,2,A,0,0,D
+SVK,2013-05-18,16:30,MFK Ružomberok,FK Senica,3,1,H,2,0,H
+SVK,2013-05-18,16:30,FC Nitra,Spartak Trnava,3,3,D,1,1,D
+SVK,2013-05-18,16:30,Dukla Banská Bystrica,MŠK Žilina,1,2,A,0,1,A
+SVK,2013-05-18,16:30,Tatran Prešov,MFK Košice,0,0,D,0,0,D
+SVK,2013-05-19,13:00,Zlate Moravce,Slovan Bratislava,1,0,H,1,0,H
+SVK,2013-05-22,16:30,Spartak Myjava,MFK Košice,1,0,H,1,0,H
+SVK,2013-05-22,16:30,MŠK Žilina,Tatran Prešov,0,1,A,0,1,A
+SVK,2013-05-22,16:30,Spartak Trnava,Dukla Banská Bystrica,0,1,A,0,0,D
+SVK,2013-05-22,16:30,Slovan Bratislava,FC Nitra,4,0,H,2,0,H
+SVK,2013-05-22,16:30,FK Senica,Zlate Moravce,1,0,H,1,0,H
+SVK,2013-05-22,16:30,FK AS Trenčín,MFK Ružomberok,5,0,H,2,0,H
+SVK,2013-05-26,16:30,MFK Ružomberok,Spartak Myjava,0,1,A,0,0,D
+SVK,2013-05-26,16:30,Zlate Moravce,FK AS Trenčín,1,2,A,0,2,A
+SVK,2013-05-26,16:30,FC Nitra,FK Senica,0,1,A,0,1,A
+SVK,2013-05-26,16:30,Dukla Banská Bystrica,Slovan Bratislava,1,0,H,1,0,H
+SVK,2013-05-26,16:30,Tatran Prešov,Spartak Trnava,0,1,A,0,1,A
+SVK,2013-05-26,16:30,MFK Košice,MŠK Žilina,2,2,D,1,1,D

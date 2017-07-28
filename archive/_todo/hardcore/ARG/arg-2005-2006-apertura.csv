@@ -1,0 +1,191 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ARG,2005-08-06,01:10,Racing Club,CA Banfield,0,0,D,0,0,D
+ARG,2005-08-06,19:30,Rosario Central,Olimpo,1,1,D,0,0,D
+ARG,2005-08-06,22:20,San Lorenzo,Vélez Sársfield,3,2,H,1,1,D
+ARG,2005-08-07,01:10,Quilmes AC,Newell's Old Boys,1,1,D,0,0,D
+ARG,2005-08-07,18:00,CA Lanús,Independiente,2,4,A,1,2,A
+ARG,2005-08-07,19:30,GyE La Plata,CA Colón,1,0,H,0,0,D
+ARG,2005-08-07,20:10,River Plate,Tiro Federal Rosario,2,0,H,1,0,H
+ARG,2005-08-07,22:30,Boca Juniors,GyE Jujuy,4,1,H,3,1,H
+ARG,2005-08-13,00:00,Vélez Sársfield,Argentinos Juniors,0,1,A,0,1,A
+ARG,2005-08-13,22:20,Arsenal Sarandí,GyE La Plata,1,1,D,1,0,H
+ARG,2005-08-13,23:30,Newell's Old Boys,Tiro Federal Rosario,2,1,H,0,0,D
+ARG,2005-08-14,01:10,CA Colón,Racing Club,0,2,A,0,0,D
+ARG,2005-08-14,18:00,Independiente,Instituto Córdoba,3,0,H,1,0,H
+ARG,2005-08-14,19:00,Olimpo,CA Lanús,1,1,D,1,1,D
+ARG,2005-08-14,19:30,Estudiantes,San Lorenzo,0,1,A,0,0,D
+ARG,2005-08-14,19:30,CA Banfield,Quilmes AC,0,0,D,0,0,D
+ARG,2005-08-14,20:10,Boca Juniors,Rosario Central,2,2,D,0,1,A
+ARG,2005-08-14,22:30,GyE Jujuy,River Plate,0,0,D,0,0,D
+ARG,2005-08-20,00:00,Argentinos Juniors,Estudiantes,2,1,H,0,0,D
+ARG,2005-08-20,19:30,Tiro Federal Rosario,CA Banfield,0,1,A,0,1,A
+ARG,2005-08-20,22:20,GyE La Plata,Vélez Sársfield,0,6,A,0,3,A
+ARG,2005-08-21,01:10,Racing Club,Arsenal Sarandí,3,1,H,2,1,H
+ARG,2005-08-21,18:00,River Plate,Newell's Old Boys,2,1,H,1,0,H
+ARG,2005-08-21,19:30,Quilmes AC,CA Colón,4,2,H,3,1,H
+ARG,2005-08-21,19:30,Rosario Central,GyE Jujuy,3,2,H,2,0,H
+ARG,2005-08-21,19:30,Instituto Córdoba,Olimpo,0,0,D,0,0,D
+ARG,2005-08-21,20:10,San Lorenzo,Independiente,1,1,D,0,1,A
+ARG,2005-08-21,22:30,CA Lanús,Boca Juniors,1,1,D,0,1,A
+ARG,2005-08-27,00:00,Rosario Central,CA Lanús,4,0,H,1,0,H
+ARG,2005-08-27,01:05,GyE Jujuy,Newell's Old Boys,2,0,H,1,0,H
+ARG,2005-08-27,22:30,Olimpo,San Lorenzo,1,1,D,1,1,D
+ARG,2005-08-28,01:10,Independiente,Argentinos Juniors,1,1,D,0,0,D
+ARG,2005-08-28,18:00,Estudiantes,GyE La Plata,1,0,H,0,0,D
+ARG,2005-08-28,19:30,Vélez Sársfield,Racing Club,1,0,H,0,0,D
+ARG,2005-08-28,19:30,CA Colón,Tiro Federal Rosario,4,3,H,3,0,H
+ARG,2005-08-28,19:30,Arsenal Sarandí,Quilmes AC,1,3,A,1,1,D
+ARG,2005-08-28,20:10,Boca Juniors,Instituto Córdoba,3,0,H,2,0,H
+ARG,2005-08-28,22:30,CA Banfield,River Plate,4,1,H,2,1,H
+ARG,2005-09-03,00:00,Argentinos Juniors,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2005-09-03,00:00,Instituto Córdoba,Estudiantes,0,0,D,0,0,D
+ARG,2005-09-06,19:10,Newell's Old Boys,CA Banfield,2,2,D,0,0,D
+ARG,2005-09-06,22:20,Quilmes AC,Vélez Sársfield,1,1,D,1,1,D
+ARG,2005-09-07,01:00,Argentinos Juniors,Olimpo,1,0,H,1,0,H
+ARG,2005-09-07,01:10,Racing Club,Estudiantes,3,1,H,1,0,H
+ARG,2005-09-07,19:10,San Lorenzo,Boca Juniors,3,2,H,2,1,H
+ARG,2005-09-07,19:30,CA Lanús,GyE Jujuy,2,1,H,2,1,H
+ARG,2005-09-07,20:00,Tiro Federal Rosario,Arsenal Sarandí,0,2,A,0,2,A
+ARG,2005-09-07,21:20,River Plate,CA Colón,3,2,H,0,1,A
+ARG,2005-09-07,23:30,GyE La Plata,Independiente,3,0,H,1,0,H
+ARG,2005-09-08,00:00,Instituto Córdoba,Rosario Central,0,0,D,0,0,D
+ARG,2005-09-10,00:00,Estudiantes,Quilmes AC,2,0,H,1,0,H
+ARG,2005-09-10,22:20,Vélez Sársfield,Tiro Federal Rosario,1,0,H,0,0,D
+ARG,2005-09-11,00:00,CA Lanús,Instituto Córdoba,1,1,D,0,0,D
+ARG,2005-09-11,01:10,Rosario Central,San Lorenzo,0,4,A,0,2,A
+ARG,2005-09-11,15:00,Independiente,Racing Club,4,0,H,1,0,H
+ARG,2005-09-11,19:30,Olimpo,GyE La Plata,2,1,H,0,1,A
+ARG,2005-09-11,19:30,CA Colón,Newell's Old Boys,1,1,D,1,1,D
+ARG,2005-09-11,20:00,GyE Jujuy,CA Banfield,1,2,A,0,1,A
+ARG,2005-09-11,20:10,Boca Juniors,Argentinos Juniors,1,0,H,0,0,D
+ARG,2005-09-11,22:30,Arsenal Sarandí,River Plate,1,0,H,0,0,D
+ARG,2005-09-17,00:00,Quilmes AC,Independiente,1,1,D,0,1,A
+ARG,2005-09-17,20:00,Tiro Federal Rosario,Estudiantes,0,1,A,0,0,D
+ARG,2005-09-17,22:20,San Lorenzo,CA Lanús,1,1,D,0,1,A
+ARG,2005-09-18,18:00,Racing Club,Olimpo,2,2,D,0,1,A
+ARG,2005-09-18,20:00,Argentinos Juniors,Rosario Central,1,0,H,0,0,D
+ARG,2005-09-18,20:00,Newell's Old Boys,Arsenal Sarandí,1,3,A,1,0,H
+ARG,2005-09-18,20:00,CA Banfield,CA Colón,2,0,H,1,0,H
+ARG,2005-09-18,20:00,Instituto Córdoba,GyE Jujuy,0,0,D,0,0,D
+ARG,2005-09-18,20:10,River Plate,Vélez Sársfield,0,1,A,0,1,A
+ARG,2005-09-18,22:30,GyE La Plata,Boca Juniors,0,2,A,0,1,A
+ARG,2005-09-24,00:00,Vélez Sársfield,Newell's Old Boys,1,0,H,1,0,H
+ARG,2005-09-24,22:20,Rosario Central,GyE La Plata,0,3,A,0,0,D
+ARG,2005-09-25,01:10,Independiente,Tiro Federal Rosario,1,0,H,1,0,H
+ARG,2005-09-25,18:00,Estudiantes,River Plate,1,0,H,1,0,H
+ARG,2005-09-25,20:00,Olimpo,Quilmes AC,1,0,H,0,0,D
+ARG,2005-09-25,20:00,GyE Jujuy,CA Colón,2,2,D,1,1,D
+ARG,2005-09-25,20:00,CA Lanús,Argentinos Juniors,1,1,D,1,0,H
+ARG,2005-09-25,20:00,Arsenal Sarandí,CA Banfield,1,1,D,1,0,H
+ARG,2005-09-25,20:10,Boca Juniors,Racing Club,2,0,H,2,0,H
+ARG,2005-09-25,22:30,Instituto Córdoba,San Lorenzo,2,0,H,2,0,H
+ARG,2005-10-01,00:00,Newell's Old Boys,Estudiantes,3,2,H,2,0,H
+ARG,2005-10-01,20:00,Tiro Federal Rosario,Olimpo,1,1,D,0,0,D
+ARG,2005-10-01,22:00,CA Colón,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2005-10-01,22:20,San Lorenzo,GyE Jujuy,1,1,D,1,1,D
+ARG,2005-10-02,00:00,Argentinos Juniors,Instituto Córdoba,1,0,H,0,0,D
+ARG,2005-10-02,00:00,GyE La Plata,CA Lanús,1,0,H,0,0,D
+ARG,2005-10-02,01:10,CA Banfield,Vélez Sársfield,0,0,D,0,0,D
+ARG,2005-10-02,18:00,Racing Club,Rosario Central,0,1,A,0,0,D
+ARG,2005-10-02,20:10,River Plate,Independiente,3,1,H,2,1,H
+ARG,2005-10-02,22:30,Quilmes AC,Boca Juniors,0,4,A,0,2,A
+ARG,2005-10-04,20:30,Estudiantes,CA Banfield,2,0,H,1,0,H
+ARG,2005-10-04,23:05,Vélez Sársfield,CA Colón,2,1,H,2,1,H
+ARG,2005-10-05,01:10,CA Lanús,Racing Club,1,0,H,1,0,H
+ARG,2005-10-05,19:10,Boca Juniors,Tiro Federal Rosario,2,1,H,0,0,D
+ARG,2005-10-05,21:20,Olimpo,River Plate,2,1,H,1,0,H
+ARG,2005-10-05,23:30,Independiente,Newell's Old Boys,2,0,H,1,0,H
+ARG,2005-10-06,00:00,Rosario Central,Quilmes AC,2,1,H,2,0,H
+ARG,2005-10-06,00:00,San Lorenzo,Argentinos Juniors,1,3,A,1,0,H
+ARG,2005-10-08,00:00,Instituto Córdoba,GyE La Plata,0,1,A,0,0,D
+ARG,2005-10-08,01:30,GyE Jujuy,Arsenal Sarandí,1,1,D,1,1,D
+ARG,2005-10-15,00:00,Argentinos Juniors,GyE Jujuy,1,2,A,0,1,A
+ARG,2005-10-15,22:20,GyE La Plata,San Lorenzo,3,2,H,2,1,H
+ARG,2005-10-16,01:10,Racing Club,Instituto Córdoba,2,3,A,1,2,A
+ARG,2005-10-16,18:00,Arsenal Sarandí,Vélez Sársfield,0,1,A,0,0,D
+ARG,2005-10-16,20:00,Quilmes AC,CA Lanús,0,1,A,0,1,A
+ARG,2005-10-16,20:00,Newell's Old Boys,Olimpo,0,1,A,0,0,D
+ARG,2005-10-16,20:00,CA Colón,Estudiantes,2,1,H,0,1,A
+ARG,2005-10-16,20:10,River Plate,Boca Juniors,0,0,D,0,0,D
+ARG,2005-10-16,22:30,CA Banfield,Independiente,2,2,D,1,0,H
+ARG,2005-10-19,00:00,Tiro Federal Rosario,Rosario Central,4,0,H,0,0,D
+ARG,2005-10-21,23:05,Estudiantes,Arsenal Sarandí,3,1,H,2,0,H
+ARG,2005-10-22,01:00,Olimpo,CA Banfield,2,2,D,1,1,D
+ARG,2005-10-22,01:00,CA Lanús,Tiro Federal Rosario,0,2,A,0,1,A
+ARG,2005-10-22,01:10,Independiente,CA Colón,1,1,D,0,0,D
+ARG,2005-10-29,00:00,Argentinos Juniors,GyE La Plata,0,1,A,0,0,D
+ARG,2005-10-29,20:10,Boca Juniors,Newell's Old Boys,2,1,H,1,1,D
+ARG,2005-10-30,17:00,San Lorenzo,Racing Club,2,1,H,0,0,D
+ARG,2005-10-30,19:00,Instituto Córdoba,Quilmes AC,0,0,D,0,0,D
+ARG,2005-10-30,19:10,Rosario Central,River Plate,0,3,A,0,2,A
+ARG,2005-10-30,21:30,GyE Jujuy,Vélez Sársfield,1,2,A,0,0,D
+ARG,2005-11-06,19:10,Newell's Old Boys,Rosario Central,2,1,H,0,1,A
+ARG,2005-11-06,21:30,Vélez Sársfield,Estudiantes,0,2,A,0,1,A
+ARG,2005-11-07,21:00,CA Banfield,Boca Juniors,1,1,D,0,0,D
+ARG,2005-11-09,00:00,GyE La Plata,GyE Jujuy,4,1,H,2,0,H
+ARG,2005-11-09,00:00,CA Colón,Olimpo,2,0,H,1,0,H
+ARG,2005-11-09,00:10,Arsenal Sarandí,Independiente,2,4,A,1,0,H
+ARG,2005-11-09,19:10,Racing Club,Argentinos Juniors,3,0,H,3,0,H
+ARG,2005-11-09,21:30,River Plate,CA Lanús,4,1,H,2,1,H
+ARG,2005-11-09,23:00,Quilmes AC,San Lorenzo,2,0,H,2,0,H
+ARG,2005-11-09,23:00,Tiro Federal Rosario,Instituto Córdoba,2,1,H,2,0,H
+ARG,2005-11-11,23:00,Rosario Central,CA Banfield,0,0,D,0,0,D
+ARG,2005-11-12,18:45,GyE La Plata,Racing Club,3,1,H,2,1,H
+ARG,2005-11-13,00:10,Argentinos Juniors,Quilmes AC,1,2,A,1,0,H
+ARG,2005-11-13,00:30,GyE Jujuy,Estudiantes,0,1,A,0,1,A
+ARG,2005-11-13,17:00,San Lorenzo,Tiro Federal Rosario,5,3,H,2,1,H
+ARG,2005-11-13,18:00,Olimpo,Arsenal Sarandí,0,0,D,0,0,D
+ARG,2005-11-13,19:00,Independiente,Vélez Sársfield,1,0,H,1,0,H
+ARG,2005-11-13,19:10,Boca Juniors,CA Colón,0,1,A,0,0,D
+ARG,2005-11-13,21:00,CA Lanús,Newell's Old Boys,1,1,D,0,1,A
+ARG,2005-11-13,21:30,Instituto Córdoba,River Plate,1,4,A,1,1,D
+ARG,2005-11-16,00:00,Quilmes AC,GyE La Plata,0,1,A,0,0,D
+ARG,2005-11-16,00:10,Racing Club,GyE Jujuy,3,3,D,2,1,H
+ARG,2005-11-16,20:10,CA Banfield,CA Lanús,1,1,D,1,0,H
+ARG,2005-11-16,22:30,Estudiantes,Independiente,1,1,D,0,1,A
+ARG,2005-11-17,00:00,Newell's Old Boys,Instituto Córdoba,5,0,H,3,0,H
+ARG,2005-11-17,18:10,Arsenal Sarandí,Boca Juniors,4,1,H,2,1,H
+ARG,2005-11-17,20:20,River Plate,San Lorenzo,5,1,H,3,0,H
+ARG,2005-11-17,22:30,Vélez Sársfield,Olimpo,2,0,H,2,0,H
+ARG,2005-11-17,23:00,Tiro Federal Rosario,Argentinos Juniors,1,4,A,1,2,A
+ARG,2005-11-17,23:00,CA Colón,Rosario Central,2,0,H,1,0,H
+ARG,2005-11-19,22:05,Instituto Córdoba,CA Banfield,0,0,D,0,0,D
+ARG,2005-11-20,00:10,GyE Jujuy,Independiente,1,1,D,0,1,A
+ARG,2005-11-20,17:00,Racing Club,Quilmes AC,4,1,H,2,0,H
+ARG,2005-11-20,19:00,GyE La Plata,Tiro Federal Rosario,1,1,D,0,0,D
+ARG,2005-11-20,19:00,Olimpo,Estudiantes,3,0,H,0,0,D
+ARG,2005-11-20,19:00,Rosario Central,Arsenal Sarandí,1,1,D,0,0,D
+ARG,2005-11-20,19:00,CA Lanús,CA Colón,3,1,H,1,0,H
+ARG,2005-11-20,19:10,Boca Juniors,Vélez Sársfield,2,0,H,0,0,D
+ARG,2005-11-20,21:30,Argentinos Juniors,River Plate,1,0,H,0,0,D
+ARG,2005-11-22,00:30,San Lorenzo,Newell's Old Boys,4,2,H,3,1,H
+ARG,2005-11-25,23:30,CA Banfield,San Lorenzo,5,0,H,2,0,H
+ARG,2005-11-26,19:00,Arsenal Sarandí,CA Lanús,1,2,A,1,1,D
+ARG,2005-11-26,19:10,Tiro Federal Rosario,Racing Club,1,2,A,1,0,H
+ARG,2005-11-26,23:30,CA Colón,Instituto Córdoba,1,1,D,1,1,D
+ARG,2005-11-27,00:10,Vélez Sársfield,Rosario Central,0,2,A,0,2,A
+ARG,2005-11-27,17:00,Independiente,Olimpo,4,0,H,3,0,H
+ARG,2005-11-27,19:00,Quilmes AC,GyE Jujuy,2,2,D,0,2,A
+ARG,2005-11-27,19:10,River Plate,GyE La Plata,1,3,A,0,2,A
+ARG,2005-11-27,21:30,Estudiantes,Boca Juniors,1,3,A,1,2,A
+ARG,2005-11-27,22:00,Newell's Old Boys,Argentinos Juniors,3,0,H,2,0,H
+ARG,2005-12-02,23:00,Argentinos Juniors,CA Banfield,1,1,D,1,1,D
+ARG,2005-12-03,21:20,Rosario Central,Estudiantes,1,1,D,1,1,D
+ARG,2005-12-04,00:00,Quilmes AC,Tiro Federal Rosario,1,2,A,1,1,D
+ARG,2005-12-04,00:10,San Lorenzo,CA Colón,1,4,A,0,2,A
+ARG,2005-12-04,20:00,GyE Jujuy,Olimpo,2,1,H,1,0,H
+ARG,2005-12-04,20:00,Instituto Córdoba,Arsenal Sarandí,0,2,A,0,2,A
+ARG,2005-12-04,20:10,Racing Club,River Plate,1,1,D,0,1,A
+ARG,2005-12-04,22:30,CA Lanús,Vélez Sársfield,0,4,A,0,2,A
+ARG,2005-12-09,23:00,Vélez Sársfield,Instituto Córdoba,2,2,D,1,1,D
+ARG,2005-12-10,23:00,Estudiantes,CA Lanús,2,2,D,1,0,H
+ARG,2005-12-11,00:10,Arsenal Sarandí,San Lorenzo,1,2,A,0,2,A
+ARG,2005-12-11,20:00,Tiro Federal Rosario,GyE Jujuy,0,0,D,0,0,D
+ARG,2005-12-11,20:10,GyE La Plata,Newell's Old Boys,0,0,D,0,0,D
+ARG,2005-12-11,20:10,Boca Juniors,Independiente,2,0,H,0,0,D
+ARG,2005-12-11,21:00,CA Colón,Argentinos Juniors,2,0,H,1,0,H
+ARG,2005-12-11,22:30,River Plate,Quilmes AC,1,1,D,1,1,D
+ARG,2005-12-14,20:10,Olimpo,Boca Juniors,1,2,A,1,2,A
+ARG,2005-12-14,20:10,CA Banfield,GyE La Plata,1,1,D,0,0,D
+ARG,2005-12-14,22:30,Newell's Old Boys,Racing Club,0,1,A,0,1,A
+ARG,2005-12-14,23:00,Independiente,Rosario Central,2,2,D,0,1,A

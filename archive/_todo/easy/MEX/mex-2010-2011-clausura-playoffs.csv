@@ -1,0 +1,15 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+MEX,2011-05-05,01:00,Deportivo Guadalajara,UANL Tigres,3,1,H,1,0,H
+MEX,2011-05-05,03:00,Cruz Azul,CF Atlante,2,1,H,1,1,D
+MEX,2011-05-06,01:00,CF Monterrey,Pumas UNAM,3,1,H,2,0,H
+MEX,2011-05-06,03:00,CF América,Monarcas Morelia,1,2,A,0,1,A
+MEX,2011-05-08,01:00,UANL Tigres,Deportivo Guadalajara,1,1,D,0,0,D
+MEX,2011-05-08,03:00,CF Atlante,Cruz Azul,0,0,D,0,0,D
+MEX,2011-05-08,18:00,Pumas UNAM,CF Monterrey,2,0,H,1,0,H
+MEX,2011-05-09,02:00,Monarcas Morelia,CF América,3,2,H,1,1,D
+MEX,2011-05-13,01:00,Deportivo Guadalajara,Pumas UNAM,1,1,D,0,0,D
+MEX,2011-05-13,03:00,Cruz Azul,Monarcas Morelia,2,0,H,2,0,H
+MEX,2011-05-15,18:00,Pumas UNAM,Deportivo Guadalajara,2,0,H,1,0,H
+MEX,2011-05-16,02:00,Monarcas Morelia,Cruz Azul,3,0,H,2,0,H
+MEX,2011-05-20,02:30,Monarcas Morelia,Pumas UNAM,1,1,D,0,0,D
+MEX,2011-05-22,18:00,Pumas UNAM,Monarcas Morelia,2,1,H,1,1,D

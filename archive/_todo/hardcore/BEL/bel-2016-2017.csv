@@ -1,0 +1,241 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+BEL,2016-07-29,19:30,KV Mechelen,Club Brugge KV,0,2,A,0.0,2.0,A
+BEL,2016-07-30,17:00,Royal Excel Mouscron,RSC Anderlecht,1,2,A,1.0,0.0,H
+BEL,2016-07-30,19:00,SV Zulte Waregem,AS Eupen,3,0,H,0.0,0.0,D
+BEL,2016-07-30,19:00,Sint-Truidense VV,Sporting Lokeren,1,0,H,0.0,0.0,D
+BEL,2016-07-30,19:30,Sporting Charleroi,Waasland-Beveren,1,0,H,0.0,0.0,D
+BEL,2016-07-31,13:30,KVC Westerlo,Standard Liège,2,2,D,2.0,1.0,H
+BEL,2016-07-31,17:00,KRC Genk,KV Oostende,2,1,H,0.0,0.0,D
+BEL,2016-07-31,19:00,KV Kortrijk,KAA Gent,1,1,D,1.0,0.0,H
+BEL,2016-08-05,19:30,KV Oostende,Club Brugge KV,1,0,H,0.0,0.0,D
+BEL,2016-08-06,17:00,Royal Excel Mouscron,Sporting Charleroi,0,1,A,0.0,1.0,A
+BEL,2016-08-06,19:00,AS Eupen,KV Mechelen,0,2,A,0.0,1.0,A
+BEL,2016-08-06,19:00,Waasland-Beveren,SV Zulte Waregem,0,2,A,0.0,1.0,A
+BEL,2016-08-06,19:30,Standard Liège,Sint-Truidense VV,2,0,H,2.0,0.0,H
+BEL,2016-08-07,13:30,Sporting Lokeren,KVC Westerlo,3,0,H,2.0,0.0,H
+BEL,2016-08-07,17:00,RSC Anderlecht,KV Kortrijk,5,1,H,1.0,1.0,D
+BEL,2016-08-07,19:00,KAA Gent,KRC Genk,1,0,H,0.0,0.0,D
+BEL,2016-08-12,19:30,Sint-Truidense VV,RSC Anderlecht,0,0,D,0.0,0.0,D
+BEL,2016-08-13,17:00,Sporting Charleroi,KAA Gent,1,1,D,0.0,0.0,D
+BEL,2016-08-13,19:00,KV Mechelen,KV Kortrijk,0,0,D,0.0,0.0,D
+BEL,2016-08-13,19:00,KVC Westerlo,AS Eupen,1,2,A,0.0,1.0,A
+BEL,2016-08-13,19:30,KRC Genk,Waasland-Beveren,2,2,D,1.0,2.0,A
+BEL,2016-08-14,13:30,SV Zulte Waregem,Standard Liège,1,0,H,1.0,0.0,H
+BEL,2016-08-14,17:00,Club Brugge KV,Sporting Lokeren,1,0,H,1.0,0.0,H
+BEL,2016-08-14,19:00,KV Oostende,Royal Excel Mouscron,2,1,H,0.0,1.0,A
+BEL,2016-08-19,19:30,Standard Liège,Sporting Charleroi,0,0,D,0.0,0.0,D
+BEL,2016-08-20,17:00,KV Kortrijk,Club Brugge KV,2,1,H,2.0,1.0,H
+BEL,2016-08-20,19:00,Royal Excel Mouscron,Sint-Truidense VV,2,1,H,0.0,0.0,D
+BEL,2016-08-20,19:00,Waasland-Beveren,KV Mechelen,2,2,D,2.0,1.0,H
+BEL,2016-08-20,19:30,SV Zulte Waregem,KV Oostende,1,1,D,0.0,1.0,A
+BEL,2016-08-21,13:30,AS Eupen,RSC Anderlecht,2,2,D,1.0,1.0,D
+BEL,2016-08-21,17:00,Sporting Lokeren,KRC Genk,0,3,A,0.0,2.0,A
+BEL,2016-08-21,19:00,KAA Gent,KVC Westerlo,4,2,H,0.0,1.0,A
+BEL,2016-08-26,19:30,Sporting Charleroi,AS Eupen,3,2,H,3.0,1.0,H
+BEL,2016-08-27,17:00,Sporting Lokeren,Royal Excel Mouscron,2,1,H,1.0,0.0,H
+BEL,2016-08-27,19:00,KVC Westerlo,KV Mechelen,1,2,A,1.0,1.0,D
+BEL,2016-08-27,19:00,Sint-Truidense VV,KV Kortrijk,1,2,A,0.0,1.0,A
+BEL,2016-08-27,19:30,KV Oostende,Waasland-Beveren,2,1,H,2.0,0.0,H
+BEL,2016-08-28,13:30,Club Brugge KV,Standard Liège,2,2,D,0.0,1.0,A
+BEL,2016-08-28,17:00,RSC Anderlecht,KAA Gent,2,2,D,1.0,1.0,D
+BEL,2016-08-28,19:00,KRC Genk,SV Zulte Waregem,1,0,H,0.0,0.0,D
+BEL,2016-09-09,19:30,Waasland-Beveren,Club Brugge KV,1,0,H,0.0,0.0,D
+BEL,2016-09-10,17:00,AS Eupen,KV Oostende,2,1,H,0.0,0.0,D
+BEL,2016-09-10,19:00,KV Kortrijk,KVC Westerlo,4,1,H,3.0,0.0,H
+BEL,2016-09-10,19:00,KV Mechelen,Sint-Truidense VV,2,0,H,1.0,0.0,H
+BEL,2016-09-10,19:30,Royal Excel Mouscron,SV Zulte Waregem,1,5,A,1.0,2.0,A
+BEL,2016-09-11,13:30,KAA Gent,Sporting Lokeren,3,0,H,1.0,0.0,H
+BEL,2016-09-11,17:00,RSC Anderlecht,Sporting Charleroi,3,2,H,0.0,1.0,A
+BEL,2016-09-11,19:00,Standard Liège,KRC Genk,2,0,H,1.0,0.0,H
+BEL,2016-09-16,19:30,Sporting Charleroi,KV Mechelen,0,0,D,0.0,0.0,D
+BEL,2016-09-17,17:00,Club Brugge KV,AS Eupen,3,2,H,1.0,1.0,D
+BEL,2016-09-17,19:00,KVC Westerlo,Royal Excel Mouscron,1,3,A,1.0,2.0,A
+BEL,2016-09-17,19:00,Sint-Truidense VV,Waasland-Beveren,4,1,H,0.0,1.0,A
+BEL,2016-09-17,19:30,SV Zulte Waregem,KV Kortrijk,2,1,H,1.0,1.0,D
+BEL,2016-09-18,13:30,KRC Genk,RSC Anderlecht,0,2,A,0.0,0.0,D
+BEL,2016-09-18,17:00,Sporting Lokeren,Standard Liège,0,1,A,0.0,0.0,D
+BEL,2016-09-18,19:00,KV Oostende,KAA Gent,1,0,H,0.0,0.0,D
+BEL,2016-09-23,19:30,Royal Excel Mouscron,Club Brugge KV,0,3,A,0.0,1.0,A
+BEL,2016-09-24,17:00,Waasland-Beveren,Sporting Lokeren,1,1,D,0.0,0.0,D
+BEL,2016-09-24,19:00,KAA Gent,Sint-Truidense VV,2,1,H,0.0,0.0,D
+BEL,2016-09-24,19:00,KV Mechelen,SV Zulte Waregem,2,3,A,2.0,0.0,H
+BEL,2016-09-24,19:30,Sporting Charleroi,KV Oostende,2,1,H,1.0,0.0,H
+BEL,2016-09-25,13:30,Standard Liège,AS Eupen,3,0,H,1.0,0.0,H
+BEL,2016-09-25,17:00,KV Kortrijk,KRC Genk,4,1,H,2.0,0.0,H
+BEL,2016-09-25,19:00,RSC Anderlecht,KVC Westerlo,1,2,A,0.0,0.0,D
+BEL,2016-09-30,19:30,KV Oostende,Sint-Truidense VV,2,2,D,2.0,1.0,H
+BEL,2016-10-01,17:00,SV Zulte Waregem,Sporting Charleroi,1,1,D,1.0,0.0,H
+BEL,2016-10-01,19:00,AS Eupen,Royal Excel Mouscron,1,4,A,1.0,2.0,A
+BEL,2016-10-01,19:00,KVC Westerlo,Waasland-Beveren,1,0,H,0.0,0.0,D
+BEL,2016-10-01,19:30,Sporting Lokeren,KV Kortrijk,2,1,H,0.0,0.0,D
+BEL,2016-10-02,13:30,Club Brugge KV,KAA Gent,1,0,H,1.0,0.0,H
+BEL,2016-10-02,17:00,Standard Liège,RSC Anderlecht,0,1,A,0.0,0.0,D
+BEL,2016-10-02,19:00,KRC Genk,KV Mechelen,2,1,H,1.0,1.0,D
+BEL,2016-10-14,19:30,Sporting Charleroi,Club Brugge KV,1,0,H,0.0,0.0,D
+BEL,2016-10-15,17:00,KV Kortrijk,Standard Liège,3,3,D,3.0,3.0,D
+BEL,2016-10-15,19:00,Waasland-Beveren,AS Eupen,4,2,H,1.0,0.0,H
+BEL,2016-10-15,19:00,Sint-Truidense VV,KVC Westerlo,2,2,D,1.0,1.0,D
+BEL,2016-10-15,19:30,Royal Excel Mouscron,KRC Genk,2,2,D,2.0,1.0,H
+BEL,2016-10-16,13:30,KAA Gent,SV Zulte Waregem,3,0,H,0.0,0.0,D
+BEL,2016-10-16,17:00,RSC Anderlecht,Sporting Lokeren,1,0,H,0.0,0.0,D
+BEL,2016-10-16,19:00,KV Mechelen,KV Oostende,2,3,A,1.0,1.0,D
+BEL,2016-10-21,19:30,KV Oostende,KV Kortrijk,2,2,D,0.0,1.0,A
+BEL,2016-10-22,17:00,SV Zulte Waregem,Sporting Lokeren,2,0,H,1.0,0.0,H
+BEL,2016-10-22,19:00,KV Mechelen,Royal Excel Mouscron,2,0,H,0.0,0.0,D
+BEL,2016-10-22,19:30,KVC Westerlo,Sporting Charleroi,0,0,D,0.0,0.0,D
+BEL,2016-10-23,13:30,Club Brugge KV,RSC Anderlecht,2,1,H,1.0,0.0,H
+BEL,2016-10-23,17:00,KRC Genk,Sint-Truidense VV,1,0,H,0.0,0.0,D
+BEL,2016-10-23,19:00,Standard Liège,Waasland-Beveren,5,0,H,3.0,0.0,H
+BEL,2016-10-23,19:00,AS Eupen,KAA Gent,3,2,H,0.0,1.0,A
+BEL,2016-10-25,19:30,Sporting Lokeren,KV Oostende,1,2,A,0.0,1.0,A
+BEL,2016-10-26,19:30,Club Brugge KV,KVC Westerlo,4,0,H,2.0,0.0,H
+BEL,2016-10-26,19:30,RSC Anderlecht,KV Mechelen,2,0,H,1.0,0.0,H
+BEL,2016-10-26,19:30,KV Kortrijk,AS Eupen,1,1,D,1.0,0.0,H
+BEL,2016-10-26,19:30,Sporting Charleroi,KRC Genk,2,1,H,1.0,1.0,D
+BEL,2016-10-26,19:30,Sint-Truidense VV,SV Zulte Waregem,0,2,A,0.0,2.0,A
+BEL,2016-10-27,19:30,KAA Gent,Standard Liège,1,0,H,0.0,0.0,D
+BEL,2016-10-27,19:30,Waasland-Beveren,Royal Excel Mouscron,0,0,D,0.0,0.0,D
+BEL,2016-10-29,17:00,SV Zulte Waregem,Club Brugge KV,0,0,D,0.0,0.0,D
+BEL,2016-10-29,19:00,KRC Genk,KVC Westerlo,2,1,H,0.0,0.0,D
+BEL,2016-10-29,19:00,AS Eupen,Sporting Lokeren,2,2,D,1.0,1.0,D
+BEL,2016-10-29,19:30,Sint-Truidense VV,Sporting Charleroi,2,2,D,1.0,1.0,D
+BEL,2016-10-30,13:30,KV Oostende,Standard Liège,3,1,H,2.0,0.0,H
+BEL,2016-10-30,17:00,KV Mechelen,KAA Gent,2,0,H,0.0,0.0,D
+BEL,2016-10-30,19:00,Royal Excel Mouscron,KV Kortrijk,0,1,A,0.0,0.0,D
+BEL,2016-10-30,19:00,Waasland-Beveren,RSC Anderlecht,2,1,H,2.0,1.0,H
+BEL,2016-11-04,19:30,KV Kortrijk,Sporting Charleroi,2,1,H,0.0,0.0,D
+BEL,2016-11-05,17:00,KVC Westerlo,SV Zulte Waregem,1,2,A,1.0,1.0,D
+BEL,2016-11-05,19:00,AS Eupen,Sint-Truidense VV,4,2,H,0.0,1.0,A
+BEL,2016-11-05,19:30,Sporting Lokeren,KV Mechelen,0,0,D,0.0,0.0,D
+BEL,2016-11-06,13:30,Club Brugge KV,KRC Genk,1,1,D,0.0,0.0,D
+BEL,2016-11-06,17:00,RSC Anderlecht,KV Oostende,1,1,D,0.0,0.0,D
+BEL,2016-11-06,19:00,Standard Liège,Royal Excel Mouscron,2,1,H,0.0,0.0,D
+BEL,2016-11-06,19:00,KAA Gent,Waasland-Beveren,2,0,H,1.0,0.0,H
+BEL,2016-11-18,19:30,Sint-Truidense VV,Club Brugge KV,0,1,A,0.0,0.0,D
+BEL,2016-11-19,17:00,KRC Genk,AS Eupen,2,0,H,2.0,0.0,H
+BEL,2016-11-19,19:00,KV Oostende,KVC Westerlo,5,0,H,1.0,0.0,H
+BEL,2016-11-19,19:00,Waasland-Beveren,KV Kortrijk,1,1,D,0.0,1.0,A
+BEL,2016-11-19,19:30,Royal Excel Mouscron,KAA Gent,0,2,A,0.0,1.0,A
+BEL,2016-11-20,13:30,SV Zulte Waregem,RSC Anderlecht,3,2,H,1.0,2.0,A
+BEL,2016-11-20,17:00,KV Mechelen,Standard Liège,2,1,H,1.0,1.0,D
+BEL,2016-11-20,19:00,Sporting Charleroi,Sporting Lokeren,2,1,H,2.0,1.0,H
+BEL,2016-11-25,19:30,Club Brugge KV,KV Mechelen,6,1,H,1.0,0.0,H
+BEL,2016-11-26,17:00,Waasland-Beveren,Sporting Charleroi,0,1,A,0.0,0.0,D
+BEL,2016-11-26,19:00,Sporting Lokeren,Sint-Truidense VV,1,0,H,1.0,0.0,H
+BEL,2016-11-26,19:30,AS Eupen,KVC Westerlo,3,3,D,2.0,2.0,D
+BEL,2016-11-27,13:30,KAA Gent,KV Kortrijk,3,0,H,1.0,0.0,H
+BEL,2016-11-27,13:30,KV Oostende,KRC Genk,6,0,H,2.0,0.0,H
+BEL,2016-11-27,17:00,Standard Liège,SV Zulte Waregem,4,1,H,1.0,0.0,H
+BEL,2016-11-27,19:00,RSC Anderlecht,Royal Excel Mouscron,7,0,H,4.0,0.0,H
+BEL,2016-12-02,19:30,KV Mechelen,AS Eupen,1,0,H,0.0,0.0,D
+BEL,2016-12-03,17:00,Club Brugge KV,KV Oostende,2,0,H,0.0,0.0,D
+BEL,2016-12-03,19:00,SV Zulte Waregem,Waasland-Beveren,1,1,D,1.0,1.0,D
+BEL,2016-12-03,19:00,Sint-Truidense VV,Royal Excel Mouscron,1,0,H,0.0,0.0,D
+BEL,2016-12-03,19:30,KVC Westerlo,KAA Gent,0,0,D,0.0,0.0,D
+BEL,2016-12-04,13:30,KV Kortrijk,RSC Anderlecht,1,3,A,0.0,1.0,A
+BEL,2016-12-04,17:00,Sporting Charleroi,Standard Liège,1,3,A,,,
+BEL,2016-12-04,19:00,KRC Genk,Sporting Lokeren,1,2,A,1.0,0.0,H
+BEL,2016-12-09,19:30,Sporting Lokeren,SV Zulte Waregem,1,1,D,0.0,1.0,A
+BEL,2016-12-10,17:00,AS Eupen,Sporting Charleroi,2,2,D,1.0,1.0,D
+BEL,2016-12-10,19:00,KV Kortrijk,Sint-Truidense VV,0,1,A,0.0,1.0,A
+BEL,2016-12-10,19:30,Royal Excel Mouscron,KV Mechelen,1,4,A,1.0,2.0,A
+BEL,2016-12-11,13:30,RSC Anderlecht,Club Brugge KV,0,0,D,0.0,0.0,D
+BEL,2016-12-11,17:00,KAA Gent,KV Oostende,1,1,D,0.0,1.0,A
+BEL,2016-12-11,19:00,Standard Liège,KVC Westerlo,3,1,H,2.0,0.0,H
+BEL,2016-12-17,17:00,KV Oostende,SV Zulte Waregem,1,1,D,1.0,1.0,D
+BEL,2016-12-17,19:00,KV Mechelen,Waasland-Beveren,2,0,H,1.0,0.0,H
+BEL,2016-12-17,19:00,Sporting Charleroi,Royal Excel Mouscron,2,0,H,1.0,0.0,H
+BEL,2016-12-17,19:00,KVC Westerlo,Sporting Lokeren,1,3,A,1.0,0.0,H
+BEL,2016-12-17,19:30,Sint-Truidense VV,KAA Gent,3,1,H,0.0,0.0,D
+BEL,2016-12-18,13:30,KRC Genk,Standard Liège,2,2,D,1.0,2.0,A
+BEL,2016-12-18,17:00,Club Brugge KV,KV Kortrijk,5,1,H,2.0,0.0,H
+BEL,2016-12-18,19:00,RSC Anderlecht,AS Eupen,4,0,H,2.0,0.0,H
+BEL,2016-12-20,19:30,Royal Excel Mouscron,KVC Westerlo,0,0,D,0.0,0.0,D
+BEL,2016-12-20,19:30,KV Mechelen,Sporting Charleroi,1,0,H,0.0,0.0,D
+BEL,2016-12-20,19:30,Waasland-Beveren,Sint-Truidense VV,3,1,H,2.0,0.0,H
+BEL,2016-12-21,19:30,Standard Liège,Sporting Lokeren,1,1,D,0.0,0.0,D
+BEL,2016-12-21,19:30,KV Kortrijk,KV Oostende,0,2,A,0.0,1.0,A
+BEL,2016-12-21,19:30,AS Eupen,Club Brugge KV,1,4,A,1.0,3.0,A
+BEL,2016-12-21,19:30,SV Zulte Waregem,KRC Genk,1,0,H,1.0,0.0,H
+BEL,2016-12-22,19:30,KAA Gent,RSC Anderlecht,2,3,A,1.0,1.0,D
+BEL,2016-12-26,13:30,KV Oostende,AS Eupen,1,3,A,0.0,1.0,A
+BEL,2016-12-26,13:30,SV Zulte Waregem,KV Mechelen,0,0,D,0.0,0.0,D
+BEL,2016-12-26,13:30,Sporting Lokeren,Waasland-Beveren,0,0,D,0.0,0.0,D
+BEL,2016-12-26,13:30,KVC Westerlo,KV Kortrijk,4,1,H,2.0,1.0,H
+BEL,2016-12-26,17:00,Sporting Charleroi,RSC Anderlecht,0,2,A,0.0,0.0,D
+BEL,2016-12-26,19:30,Club Brugge KV,Royal Excel Mouscron,2,1,H,0.0,1.0,A
+BEL,2016-12-27,17:00,KRC Genk,KAA Gent,2,0,H,2.0,0.0,H
+BEL,2016-12-27,19:30,Sint-Truidense VV,Standard Liège,2,2,D,0.0,0.0,D
+BEL,2017-01-20,19:30,KAA Gent,Sporting Charleroi,1,0,H,0.0,0.0,D
+BEL,2017-01-21,17:00,KV Kortrijk,SV Zulte Waregem,2,3,A,0.0,1.0,A
+BEL,2017-01-21,19:00,Royal Excel Mouscron,Sporting Lokeren,2,1,H,0.0,1.0,A
+BEL,2017-01-21,19:00,Waasland-Beveren,KV Oostende,0,1,A,0.0,1.0,A
+BEL,2017-01-21,19:30,AS Eupen,KRC Genk,0,1,A,0.0,0.0,D
+BEL,2017-01-22,13:30,Standard Liège,Club Brugge KV,0,3,A,0.0,1.0,A
+BEL,2017-01-22,17:00,RSC Anderlecht,Sint-Truidense VV,3,1,H,1.0,0.0,H
+BEL,2017-01-22,19:00,KV Mechelen,KVC Westerlo,1,2,A,1.0,1.0,D
+BEL,2017-01-24,19:30,KRC Genk,KV Kortrijk,3,0,H,2.0,0.0,H
+BEL,2017-01-24,19:30,KV Oostende,Sporting Charleroi,1,2,A,1.0,2.0,A
+BEL,2017-01-24,19:30,SV Zulte Waregem,Royal Excel Mouscron,1,0,H,0.0,0.0,D
+BEL,2017-01-25,19:30,Club Brugge KV,Waasland-Beveren,2,1,H,1.0,0.0,H
+BEL,2017-01-25,19:30,Sporting Lokeren,KAA Gent,0,0,D,0.0,0.0,D
+BEL,2017-01-25,19:30,KVC Westerlo,RSC Anderlecht,2,4,A,1.0,3.0,A
+BEL,2017-01-25,19:30,Sint-Truidense VV,KV Mechelen,2,1,H,2.0,1.0,H
+BEL,2017-01-26,19:30,AS Eupen,Standard Liège,2,2,D,0.0,1.0,A
+BEL,2017-01-27,19:30,Sporting Charleroi,SV Zulte Waregem,2,1,H,1.0,0.0,H
+BEL,2017-01-28,17:00,KV Kortrijk,Sporting Lokeren,2,1,H,2.0,1.0,H
+BEL,2017-01-28,19:00,Waasland-Beveren,KVC Westerlo,0,0,D,0.0,0.0,D
+BEL,2017-01-28,19:00,Sint-Truidense VV,KV Oostende,3,0,H,1.0,0.0,H
+BEL,2017-01-28,19:30,KV Mechelen,KRC Genk,1,0,H,0.0,0.0,D
+BEL,2017-01-29,13:30,KAA Gent,Club Brugge KV,2,0,H,0.0,0.0,D
+BEL,2017-01-29,17:00,RSC Anderlecht,Standard Liège,0,0,D,0.0,0.0,D
+BEL,2017-01-29,19:00,Royal Excel Mouscron,AS Eupen,3,0,H,2.0,0.0,H
+BEL,2017-02-03,19:30,Sporting Lokeren,RSC Anderlecht,0,0,D,0.0,0.0,D
+BEL,2017-02-04,17:00,Standard Liège,KV Kortrijk,0,3,A,0.0,1.0,A
+BEL,2017-02-04,19:00,KRC Genk,Royal Excel Mouscron,1,0,H,1.0,0.0,H
+BEL,2017-02-04,19:00,AS Eupen,Waasland-Beveren,0,2,A,0.0,2.0,A
+BEL,2017-02-04,19:30,KV Oostende,KV Mechelen,2,0,H,1.0,0.0,H
+BEL,2017-02-05,13:30,Club Brugge KV,Sporting Charleroi,1,0,H,0.0,0.0,D
+BEL,2017-02-05,17:00,SV Zulte Waregem,KAA Gent,1,1,D,0.0,0.0,D
+BEL,2017-02-05,19:00,KVC Westerlo,Sint-Truidense VV,1,0,H,0.0,0.0,D
+BEL,2017-02-07,19:30,Waasland-Beveren,KRC Genk,0,0,D,0.0,0.0,D
+BEL,2017-02-10,19:30,Sint-Truidense VV,KRC Genk,0,3,A,0.0,3.0,A
+BEL,2017-02-11,17:00,Royal Excel Mouscron,KV Oostende,1,2,A,1.0,1.0,D
+BEL,2017-02-11,19:00,KV Kortrijk,KV Mechelen,0,2,A,0.0,1.0,A
+BEL,2017-02-11,19:00,Sporting Charleroi,KVC Westerlo,2,1,H,0.0,1.0,A
+BEL,2017-02-11,19:30,KAA Gent,AS Eupen,0,1,A,0.0,0.0,D
+BEL,2017-02-12,13:30,RSC Anderlecht,SV Zulte Waregem,4,2,H,2.0,1.0,H
+BEL,2017-02-12,17:00,Sporting Lokeren,Club Brugge KV,1,0,H,1.0,0.0,H
+BEL,2017-02-12,19:00,Waasland-Beveren,Standard Liège,0,1,A,0.0,0.0,D
+BEL,2017-02-17,19:30,KVC Westerlo,Club Brugge KV,1,2,A,1.0,0.0,H
+BEL,2017-02-18,17:00,KV Mechelen,Sporting Lokeren,3,0,H,2.0,0.0,H
+BEL,2017-02-18,19:00,Royal Excel Mouscron,Waasland-Beveren,1,2,A,1.0,1.0,D
+BEL,2017-02-18,19:00,AS Eupen,KV Kortrijk,1,0,H,0.0,0.0,D
+BEL,2017-02-18,19:30,SV Zulte Waregem,Sint-Truidense VV,4,1,H,0.0,1.0,A
+BEL,2017-02-19,13:30,Standard Liège,KAA Gent,1,1,D,1.0,0.0,H
+BEL,2017-02-19,17:00,KV Oostende,RSC Anderlecht,1,4,A,1.0,1.0,D
+BEL,2017-02-19,19:00,KRC Genk,Sporting Charleroi,1,1,D,0.0,0.0,D
+BEL,2017-02-24,19:30,Club Brugge KV,SV Zulte Waregem,5,0,H,4.0,0.0,H
+BEL,2017-02-25,17:00,Sporting Charleroi,Sint-Truidense VV,1,0,H,0.0,0.0,D
+BEL,2017-02-25,19:00,KV Kortrijk,Waasland-Beveren,1,2,A,0.0,0.0,D
+BEL,2017-02-25,19:00,Sporting Lokeren,AS Eupen,1,2,A,1.0,1.0,D
+BEL,2017-02-25,19:30,KVC Westerlo,KV Oostende,0,4,A,0.0,0.0,D
+BEL,2017-02-26,13:30,Standard Liège,KV Mechelen,2,2,D,1.0,1.0,D
+BEL,2017-02-26,17:00,RSC Anderlecht,KRC Genk,2,0,H,1.0,0.0,H
+BEL,2017-02-26,19:00,KAA Gent,Royal Excel Mouscron,3,1,H,2.0,0.0,H
+BEL,2017-03-04,19:00,KRC Genk,Club Brugge KV,2,1,H,2.0,1.0,H
+BEL,2017-03-04,19:00,Royal Excel Mouscron,Standard Liège,1,0,H,1.0,0.0,H
+BEL,2017-03-04,19:00,KV Oostende,Sporting Lokeren,0,0,D,0.0,0.0,D
+BEL,2017-03-04,19:00,SV Zulte Waregem,KVC Westerlo,2,2,D,1.0,1.0,D
+BEL,2017-03-04,19:00,KV Mechelen,RSC Anderlecht,3,2,H,2.0,0.0,H
+BEL,2017-03-04,19:00,Sporting Charleroi,KV Kortrijk,1,1,D,0.0,0.0,D
+BEL,2017-03-04,19:00,Waasland-Beveren,KAA Gent,2,3,A,2.0,1.0,H
+BEL,2017-03-04,19:00,Sint-Truidense VV,AS Eupen,2,1,H,1.0,0.0,H
+BEL,2017-03-12,13:30,Club Brugge KV,Sint-Truidense VV,2,2,D,0.0,1.0,A
+BEL,2017-03-12,13:30,RSC Anderlecht,Waasland-Beveren,3,0,H,3.0,0.0,H
+BEL,2017-03-12,13:30,Standard Liège,KV Oostende,2,2,D,0.0,1.0,A
+BEL,2017-03-12,13:30,KAA Gent,KV Mechelen,3,0,H,2.0,0.0,H
+BEL,2017-03-12,13:30,KV Kortrijk,Royal Excel Mouscron,0,2,A,0.0,1.0,A
+BEL,2017-03-12,13:30,AS Eupen,SV Zulte Waregem,1,3,A,0.0,0.0,D
+BEL,2017-03-12,13:30,Sporting Lokeren,Sporting Charleroi,0,0,D,0.0,0.0,D
+BEL,2017-03-12,13:30,KVC Westerlo,KRC Genk,0,4,A,0.0,2.0,A

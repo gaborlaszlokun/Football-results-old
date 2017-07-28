@@ -1,183 +1,183 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-VIE,06/01/2008,08:00,Sông Lam Nghệ An,Khatoco Khánh Hoà,2,1,H,NaN,NaN,NaN
-VIE,06/01/2008,09:00,Bình Dương FC,The Cong,0,1,A,NaN,NaN,NaN
-VIE,06/01/2008,09:00,Binh Dinh,DPM Nam Dinh,0,0,D,NaN,NaN,NaN
-VIE,06/01/2008,09:00,Hòa Phát,LG-ACB Ha Noi,1,1,D,NaN,NaN,NaN
-VIE,06/01/2008,10:00,SHB-Da Nang FC,Xi Mang Hai Phong,1,2,A,NaN,NaN,NaN
-VIE,06/01/2008,10:00,Cang Sài Gòn,Thanh Hóa FC,3,0,H,NaN,NaN,NaN
-VIE,08/01/2008,10:00,Đồng Tâm Long An,Hoàng Anh Gia Lai,0,1,A,NaN,NaN,NaN
-VIE,13/01/2008,08:00,Xi Mang Hai Phong,The Cong,2,1,H,NaN,NaN,NaN
-VIE,13/01/2008,09:00,DPM Nam Dinh,SHB-Da Nang FC,1,0,H,NaN,NaN,NaN
-VIE,13/01/2008,09:00,Binh Dinh,Đồng Tâm Long An,1,1,D,NaN,NaN,NaN
-VIE,13/01/2008,10:00,Khatoco Khánh Hoà,Bình Dương FC,0,1,A,NaN,NaN,NaN
-VIE,13/01/2008,10:00,LG-ACB Ha Noi,Thanh Hóa FC,0,0,D,NaN,NaN,NaN
-VIE,13/01/2008,10:00,Cang Sài Gòn,Sông Lam Nghệ An,2,0,H,NaN,NaN,NaN
-VIE,13/01/2008,10:00,Hoàng Anh Gia Lai,Hòa Phát,1,1,D,NaN,NaN,NaN
-VIE,19/01/2008,08:30,The Cong,DPM Nam Dinh,1,0,H,NaN,NaN,NaN
-VIE,20/01/2008,09:00,Hòa Phát,Binh Dinh,3,3,D,NaN,NaN,NaN
-VIE,20/01/2008,10:00,Bình Dương FC,Cang Sài Gòn,0,1,A,NaN,NaN,NaN
-VIE,20/01/2008,10:00,Thanh Hóa FC,Sông Lam Nghệ An,2,0,H,NaN,NaN,NaN
-VIE,20/01/2008,10:00,Hoàng Anh Gia Lai,LG-ACB Ha Noi,2,0,H,NaN,NaN,NaN
-VIE,20/01/2008,10:00,Đồng Tâm Long An,SHB-Da Nang FC,3,1,H,NaN,NaN,NaN
-VIE,20/01/2008,10:00,Khatoco Khánh Hoà,Xi Mang Hai Phong,0,1,A,NaN,NaN,NaN
-VIE,25/01/2008,10:00,LG-ACB Ha Noi,Binh Dinh,1,1,D,NaN,NaN,NaN
-VIE,26/01/2008,08:00,Sông Lam Nghệ An,Bình Dương FC,0,1,A,NaN,NaN,NaN
-VIE,26/01/2008,08:00,Xi Mang Hai Phong,Cang Sài Gòn,6,0,H,NaN,NaN,NaN
-VIE,26/01/2008,08:30,The Cong,Đồng Tâm Long An,1,1,D,NaN,NaN,NaN
-VIE,26/01/2008,09:00,DPM Nam Dinh,Khatoco Khánh Hoà,0,1,A,NaN,NaN,NaN
-VIE,26/01/2008,10:00,Thanh Hóa FC,Hoàng Anh Gia Lai,3,1,H,NaN,NaN,NaN
-VIE,26/01/2008,10:00,SHB-Da Nang FC,Hòa Phát,1,1,D,NaN,NaN,NaN
-VIE,30/01/2008,08:00,Xi Mang Hai Phong,Sông Lam Nghệ An,0,0,D,NaN,NaN,NaN
-VIE,30/01/2008,09:00,Binh Dinh,Hoàng Anh Gia Lai,1,2,A,NaN,NaN,NaN
-VIE,30/01/2008,09:00,Hòa Phát,The Cong,0,1,A,NaN,NaN,NaN
-VIE,30/01/2008,10:00,Khatoco Khánh Hoà,Đồng Tâm Long An,4,2,H,NaN,NaN,NaN
-VIE,30/01/2008,10:00,SHB-Da Nang FC,LG-ACB Ha Noi,1,2,A,NaN,NaN,NaN
-VIE,30/01/2008,10:00,Cang Sài Gòn,DPM Nam Dinh,2,0,H,NaN,NaN,NaN
-VIE,30/01/2008,10:00,Bình Dương FC,Thanh Hóa FC,0,0,D,NaN,NaN,NaN
-VIE,23/02/2008,08:00,Sông Lam Nghệ An,DPM Nam Dinh,3,0,H,NaN,NaN,NaN
-VIE,23/02/2008,09:00,Hòa Phát,Khatoco Khánh Hoà,0,0,D,NaN,NaN,NaN
-VIE,23/02/2008,10:00,Bình Dương FC,Xi Mang Hai Phong,0,0,D,NaN,NaN,NaN
-VIE,23/02/2008,10:00,Thanh Hóa FC,Binh Dinh,0,0,D,NaN,NaN,NaN
-VIE,24/02/2008,09:00,The Cong,LG-ACB Ha Noi,0,0,D,NaN,NaN,NaN
-VIE,24/02/2008,09:00,Đồng Tâm Long An,Cang Sài Gòn,3,1,H,NaN,NaN,NaN
-VIE,24/02/2008,09:00,Hoàng Anh Gia Lai,SHB-Da Nang FC,2,2,D,NaN,NaN,NaN
-VIE,01/03/2008,09:00,The Cong,Hoàng Anh Gia Lai,2,1,H,NaN,NaN,NaN
-VIE,02/03/2008,08:00,SHB-Da Nang FC,Binh Dinh,1,0,H,NaN,NaN,NaN
-VIE,02/03/2008,08:00,LG-ACB Ha Noi,Khatoco Khánh Hoà,1,4,A,NaN,NaN,NaN
-VIE,02/03/2008,09:00,Cang Sài Gòn,Hòa Phát,3,1,H,NaN,NaN,NaN
-VIE,02/03/2008,09:00,Xi Mang Hai Phong,Thanh Hóa FC,1,1,D,NaN,NaN,NaN
-VIE,02/03/2008,09:00,Đồng Tâm Long An,Sông Lam Nghệ An,0,3,A,NaN,NaN,NaN
-VIE,02/03/2008,10:00,DPM Nam Dinh,Bình Dương FC,1,0,H,NaN,NaN,NaN
-VIE,07/03/2008,09:30,DPM Nam Dinh,Xi Mang Hai Phong,2,1,H,NaN,NaN,NaN
-VIE,07/03/2008,09:30,Bình Dương FC,Đồng Tâm Long An,0,3,A,NaN,NaN,NaN
-VIE,09/03/2008,09:00,Sông Lam Nghệ An,Hòa Phát,2,1,H,NaN,NaN,NaN
-VIE,09/03/2008,10:00,Thanh Hóa FC,SHB-Da Nang FC,0,2,A,NaN,NaN,NaN
-VIE,09/03/2008,10:00,Binh Dinh,The Cong,0,0,D,NaN,NaN,NaN
-VIE,09/03/2008,10:00,Khatoco Khánh Hoà,Hoàng Anh Gia Lai,2,1,H,NaN,NaN,NaN
-VIE,09/03/2008,10:00,LG-ACB Ha Noi,Cang Sài Gòn,1,1,D,NaN,NaN,NaN
-VIE,27/02/2008,09:00,Hòa Phát,Bình Dương FC,1,0,H,NaN,NaN,NaN
-VIE,27/02/2008,10:00,Thanh Hóa FC,DPM Nam Dinh,0,0,D,NaN,NaN,NaN
-VIE,16/03/2008,09:00,Binh Dinh,Khatoco Khánh Hoà,2,2,D,NaN,NaN,NaN
-VIE,16/03/2008,09:00,Hoàng Anh Gia Lai,Cang Sài Gòn,3,2,H,NaN,NaN,NaN
-VIE,16/03/2008,10:00,Sông Lam Nghệ An,LG-ACB Ha Noi,2,0,H,NaN,NaN,NaN
-VIE,16/03/2008,10:00,SHB-Da Nang FC,The Cong,1,1,D,NaN,NaN,NaN
-VIE,16/03/2008,10:00,Xi Mang Hai Phong,Đồng Tâm Long An,1,1,D,NaN,NaN,NaN
-VIE,23/03/2008,09:00,Xi Mang Hai Phong,Hòa Phát,2,1,H,NaN,NaN,NaN
-VIE,23/03/2008,09:00,Cang Sài Gòn,Binh Dinh,2,4,A,NaN,NaN,NaN
-VIE,23/03/2008,09:00,The Cong,Thanh Hóa FC,1,0,H,NaN,NaN,NaN
-VIE,23/03/2008,09:00,Hoàng Anh Gia Lai,Sông Lam Nghệ An,3,2,H,NaN,NaN,NaN
-VIE,23/03/2008,09:00,Khatoco Khánh Hoà,SHB-Da Nang FC,0,0,D,NaN,NaN,NaN
-VIE,24/03/2008,10:00,Đồng Tâm Long An,DPM Nam Dinh,2,1,H,NaN,NaN,NaN
-VIE,25/03/2008,09:00,LG-ACB Ha Noi,Bình Dương FC,1,3,A,NaN,NaN,NaN
-VIE,30/03/2008,09:00,SHB-Da Nang FC,Cang Sài Gòn,1,0,H,NaN,NaN,NaN
-VIE,30/03/2008,09:00,LG-ACB Ha Noi,Xi Mang Hai Phong,2,2,D,NaN,NaN,NaN
-VIE,30/03/2008,09:00,Sông Lam Nghệ An,Binh Dinh,6,0,H,NaN,NaN,NaN
-VIE,30/03/2008,09:00,Thanh Hóa FC,Đồng Tâm Long An,1,1,D,NaN,NaN,NaN
-VIE,30/03/2008,09:00,Khatoco Khánh Hoà,The Cong,1,0,H,NaN,NaN,NaN
-VIE,30/03/2008,10:00,DPM Nam Dinh,Hòa Phát,0,0,D,NaN,NaN,NaN
-VIE,30/03/2008,10:00,Bình Dương FC,Hoàng Anh Gia Lai,3,0,H,NaN,NaN,NaN
-VIE,04/04/2008,11:00,DPM Nam Dinh,LG-ACB Ha Noi,2,0,H,NaN,NaN,NaN
-VIE,05/04/2008,10:00,Binh Dinh,Bình Dương FC,0,1,A,NaN,NaN,NaN
-VIE,05/04/2008,11:00,Hòa Phát,Đồng Tâm Long An,0,2,A,NaN,NaN,NaN
-VIE,06/04/2008,10:00,Thanh Hóa FC,Khatoco Khánh Hoà,1,1,D,NaN,NaN,NaN
-VIE,06/04/2008,10:00,The Cong,Cang Sài Gòn,0,0,D,NaN,NaN,NaN
-VIE,06/04/2008,10:00,Xi Mang Hai Phong,Hoàng Anh Gia Lai,1,0,H,NaN,NaN,NaN
-VIE,06/04/2008,10:30,SHB-Da Nang FC,Sông Lam Nghệ An,3,2,H,NaN,NaN,NaN
-VIE,13/04/2008,10:00,Sông Lam Nghệ An,The Cong,2,2,D,NaN,NaN,NaN
-VIE,13/04/2008,10:30,Binh Dinh,Xi Mang Hai Phong,3,2,H,NaN,NaN,NaN
-VIE,13/04/2008,10:30,Hòa Phát,Thanh Hóa FC,0,0,D,NaN,NaN,NaN
-VIE,13/04/2008,11:00,Cang Sài Gòn,Khatoco Khánh Hoà,2,1,H,NaN,NaN,NaN
-VIE,13/04/2008,11:00,Đồng Tâm Long An,LG-ACB Ha Noi,1,1,D,NaN,NaN,NaN
-VIE,15/04/2008,09:00,Hoàng Anh Gia Lai,DPM Nam Dinh,3,0,H,NaN,NaN,NaN
-VIE,15/04/2008,09:00,Bình Dương FC,SHB-Da Nang FC,2,0,H,NaN,NaN,NaN
-VIE,26/04/2008,10:00,LG-ACB Ha Noi,Hòa Phát,2,0,H,NaN,NaN,NaN
-VIE,27/04/2008,09:00,Thanh Hóa FC,Cang Sài Gòn,1,3,A,NaN,NaN,NaN
-VIE,27/04/2008,09:00,Xi Mang Hai Phong,SHB-Da Nang FC,4,0,H,NaN,NaN,NaN
-VIE,27/04/2008,10:00,DPM Nam Dinh,Binh Dinh,0,0,D,NaN,NaN,NaN
-VIE,27/04/2008,10:00,Khatoco Khánh Hoà,Sông Lam Nghệ An,2,2,D,NaN,NaN,NaN
-VIE,27/04/2008,10:00,Hoàng Anh Gia Lai,Đồng Tâm Long An,3,3,D,NaN,NaN,NaN
-VIE,29/04/2008,12:00,The Cong,Bình Dương FC,0,0,D,NaN,NaN,NaN
-VIE,02/05/2008,10:00,SHB-Da Nang FC,DPM Nam Dinh,2,3,A,NaN,NaN,NaN
-VIE,03/05/2008,10:00,The Cong,Xi Mang Hai Phong,2,1,H,NaN,NaN,NaN
-VIE,03/05/2008,11:00,Bình Dương FC,Khatoco Khánh Hoà,1,1,D,NaN,NaN,NaN
-VIE,04/05/2008,09:00,Thanh Hóa FC,LG-ACB Ha Noi,2,1,H,NaN,NaN,NaN
-VIE,04/05/2008,09:00,Sông Lam Nghệ An,Cang Sài Gòn,0,0,D,NaN,NaN,NaN
-VIE,04/05/2008,10:00,Hòa Phát,Hoàng Anh Gia Lai,1,1,D,NaN,NaN,NaN
-VIE,04/05/2008,11:00,Đồng Tâm Long An,Binh Dinh,4,1,H,NaN,NaN,NaN
-VIE,11/05/2008,09:00,SHB-Da Nang FC,Đồng Tâm Long An,3,2,H,NaN,NaN,NaN
-VIE,11/05/2008,09:00,Binh Dinh,Hòa Phát,2,0,H,NaN,NaN,NaN
-VIE,11/05/2008,10:00,LG-ACB Ha Noi,Hoàng Anh Gia Lai,0,3,A,NaN,NaN,NaN
-VIE,11/05/2008,10:00,Xi Mang Hai Phong,Khatoco Khánh Hoà,1,1,D,NaN,NaN,NaN
-VIE,11/05/2008,11:00,Sông Lam Nghệ An,Thanh Hóa FC,1,0,H,NaN,NaN,NaN
-VIE,11/05/2008,11:00,Cang Sài Gòn,Bình Dương FC,1,1,D,NaN,NaN,NaN
-VIE,13/05/2008,11:00,DPM Nam Dinh,The Cong,0,1,A,NaN,NaN,NaN
-VIE,17/05/2008,10:00,Khatoco Khánh Hoà,DPM Nam Dinh,3,2,H,NaN,NaN,NaN
-VIE,17/05/2008,11:00,Bình Dương FC,Sông Lam Nghệ An,1,0,H,NaN,NaN,NaN
-VIE,18/05/2008,09:00,Cang Sài Gòn,Xi Mang Hai Phong,1,1,D,NaN,NaN,NaN
-VIE,18/05/2008,10:00,Hoàng Anh Gia Lai,Thanh Hóa FC,1,0,H,NaN,NaN,NaN
-VIE,18/05/2008,10:00,Hòa Phát,SHB-Da Nang FC,1,1,D,NaN,NaN,NaN
-VIE,18/05/2008,10:00,Binh Dinh,LG-ACB Ha Noi,1,0,H,NaN,NaN,NaN
-VIE,18/05/2008,11:00,Đồng Tâm Long An,The Cong,3,1,H,NaN,NaN,NaN
-VIE,13/05/2008,11:00,DPM Nam Dinh,Cang Sài Gòn,2,0,H,NaN,NaN,NaN
-VIE,24/05/2008,11:00,The Cong,Hòa Phát,2,1,H,NaN,NaN,NaN
-VIE,25/05/2008,10:00,Sông Lam Nghệ An,Xi Mang Hai Phong,1,1,D,NaN,NaN,NaN
-VIE,25/05/2008,11:00,Hoàng Anh Gia Lai,Binh Dinh,0,0,D,NaN,NaN,NaN
-VIE,25/05/2008,11:00,LG-ACB Ha Noi,SHB-Da Nang FC,2,3,A,NaN,NaN,NaN
-VIE,25/05/2008,11:00,Đồng Tâm Long An,Khatoco Khánh Hoà,2,0,H,NaN,NaN,NaN
-VIE,27/05/2008,10:00,Thanh Hóa FC,Bình Dương FC,1,2,A,NaN,NaN,NaN
-VIE,01/07/2008,,Khatoco Khánh Hoà,Hòa Phát,3,1,H,NaN,NaN,NaN
-VIE,01/07/2008,,Xi Mang Hai Phong,Bình Dương FC,2,0,H,NaN,NaN,NaN
-VIE,01/07/2008,,Binh Dinh,Thanh Hóa FC,3,4,A,NaN,NaN,NaN
-VIE,01/07/2008,,LG-ACB Ha Noi,The Cong,2,0,H,NaN,NaN,NaN
-VIE,01/07/2008,,Cang Sài Gòn,Đồng Tâm Long An,1,0,H,NaN,NaN,NaN
-VIE,01/07/2008,,SHB-Da Nang FC,Hoàng Anh Gia Lai,4,0,H,NaN,NaN,NaN
-VIE,02/07/2008,,DPM Nam Dinh,Sông Lam Nghệ An,3,1,H,NaN,NaN,NaN
-VIE,12/07/2008,10:00,Hoàng Anh Gia Lai,The Cong,2,3,A,NaN,NaN,NaN
-VIE,12/07/2008,10:00,Binh Dinh,SHB-Da Nang FC,1,4,A,NaN,NaN,NaN
-VIE,12/07/2008,10:00,Bình Dương FC,DPM Nam Dinh,1,0,H,NaN,NaN,NaN
-VIE,12/07/2008,11:00,Thanh Hóa FC,Xi Mang Hai Phong,2,1,H,NaN,NaN,NaN
-VIE,12/07/2008,11:00,Khatoco Khánh Hoà,LG-ACB Ha Noi,1,0,H,NaN,NaN,NaN
-VIE,12/07/2008,11:00,Sông Lam Nghệ An,Đồng Tâm Long An,4,1,H,NaN,NaN,NaN
-VIE,12/07/2008,11:00,Hòa Phát,Cang Sài Gòn,3,1,H,NaN,NaN,NaN
-VIE,19/07/2008,10:00,Hòa Phát,Sông Lam Nghệ An,2,4,A,NaN,NaN,NaN
-VIE,20/07/2008,10:00,Xi Mang Hai Phong,DPM Nam Dinh,4,1,H,NaN,NaN,NaN
-VIE,20/07/2008,10:00,Đồng Tâm Long An,Bình Dương FC,2,4,A,NaN,NaN,NaN
-VIE,20/07/2008,10:00,SHB-Da Nang FC,Thanh Hóa FC,6,0,H,NaN,NaN,NaN
-VIE,20/07/2008,10:00,The Cong,Binh Dinh,2,0,H,NaN,NaN,NaN
-VIE,20/07/2008,10:00,Hoàng Anh Gia Lai,Khatoco Khánh Hoà,1,0,H,NaN,NaN,NaN
-VIE,20/07/2008,10:00,Cang Sài Gòn,LG-ACB Ha Noi,2,1,H,NaN,NaN,NaN
-VIE,26/07/2008,10:00,LG-ACB Ha Noi,Sông Lam Nghệ An,4,2,H,NaN,NaN,NaN
-VIE,27/07/2008,09:00,Khatoco Khánh Hoà,Binh Dinh,2,2,D,NaN,NaN,NaN
-VIE,27/07/2008,09:00,Cang Sài Gòn,Hoàng Anh Gia Lai,3,1,H,NaN,NaN,NaN
-VIE,27/07/2008,10:00,The Cong,SHB-Da Nang FC,3,4,A,NaN,NaN,NaN
-VIE,27/07/2008,10:00,Đồng Tâm Long An,Xi Mang Hai Phong,2,1,H,NaN,NaN,NaN
-VIE,27/07/2008,10:30,DPM Nam Dinh,Thanh Hóa FC,0,1,A,NaN,NaN,NaN
-VIE,27/07/2008,11:00,Bình Dương FC,Hòa Phát,3,0,H,NaN,NaN,NaN
-VIE,06/08/2008,09:30,Sông Lam Nghệ An,Hoàng Anh Gia Lai,1,1,D,NaN,NaN,NaN
-VIE,06/08/2008,09:30,Thanh Hóa FC,The Cong,3,1,H,NaN,NaN,NaN
-VIE,06/08/2008,10:00,Hòa Phát,Xi Mang Hai Phong,1,3,A,NaN,NaN,NaN
-VIE,06/08/2008,10:00,Binh Dinh,Cang Sài Gòn,3,2,H,NaN,NaN,NaN
-VIE,06/08/2008,10:00,DPM Nam Dinh,Đồng Tâm Long An,1,3,A,NaN,NaN,NaN
-VIE,06/08/2008,10:30,SHB-Da Nang FC,Khatoco Khánh Hoà,2,0,H,NaN,NaN,NaN
-VIE,06/08/2008,11:00,Bình Dương FC,LG-ACB Ha Noi,3,2,H,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Đồng Tâm Long An,Thanh Hóa FC,2,1,H,NaN,NaN,NaN
-VIE,10/08/2008,10:00,The Cong,Khatoco Khánh Hoà,0,1,A,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Cang Sài Gòn,SHB-Da Nang FC,0,0,D,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Xi Mang Hai Phong,LG-ACB Ha Noi,4,0,H,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Binh Dinh,Sông Lam Nghệ An,3,2,H,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Hoàng Anh Gia Lai,Bình Dương FC,0,1,A,NaN,NaN,NaN
-VIE,10/08/2008,10:00,Hòa Phát,DPM Nam Dinh,1,3,A,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Bình Dương FC,Binh Dinh,4,0,H,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Đồng Tâm Long An,Hòa Phát,2,0,H,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Khatoco Khánh Hoà,Thanh Hóa FC,1,1,D,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Cang Sài Gòn,The Cong,1,0,H,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Sông Lam Nghệ An,SHB-Da Nang FC,2,0,H,NaN,NaN,NaN
-VIE,17/08/2008,10:00,Hoàng Anh Gia Lai,Xi Mang Hai Phong,2,0,H,NaN,NaN,NaN
-VIE,17/08/2008,10:00,LG-ACB Ha Noi,DPM Nam Dinh,1,2,A,NaN,NaN,NaN
-VIE,24/08/2008,10:00,Khatoco Khánh Hoà,Cang Sài Gòn,2,1,H,NaN,NaN,NaN
-VIE,24/08/2008,10:00,LG-ACB Ha Noi,Đồng Tâm Long An,1,5,A,NaN,NaN,NaN
-VIE,24/08/2008,10:00,The Cong,Sông Lam Nghệ An,2,2,D,NaN,NaN,NaN
-VIE,24/08/2008,10:00,Xi Mang Hai Phong,Binh Dinh,3,0,H,NaN,NaN,NaN
-VIE,24/08/2008,10:00,DPM Nam Dinh,Hoàng Anh Gia Lai,0,1,A,NaN,NaN,NaN
-VIE,24/08/2008,10:00,SHB-Da Nang FC,Bình Dương FC,1,0,H,NaN,NaN,NaN
-VIE,24/08/2008,10:00,Thanh Hóa FC,Hòa Phát,1,0,H,NaN,NaN,NaN
+VIE,2008-01-06,08:00,Sông Lam Nghệ An,Khatoco Khánh Hoà,2,1,H,,,
+VIE,2008-01-06,09:00,Bình Dương FC,The Cong,0,1,A,,,
+VIE,2008-01-06,09:00,Binh Dinh,DPM Nam Dinh,0,0,D,,,
+VIE,2008-01-06,09:00,Hòa Phát,LG-ACB Ha Noi,1,1,D,,,
+VIE,2008-01-06,10:00,SHB-Da Nang FC,Xi Mang Hai Phong,1,2,A,,,
+VIE,2008-01-06,10:00,Cang Sài Gòn,Thanh Hóa FC,3,0,H,,,
+VIE,2008-01-08,10:00,Đồng Tâm Long An,Hoàng Anh Gia Lai,0,1,A,,,
+VIE,2008-01-13,08:00,Xi Mang Hai Phong,The Cong,2,1,H,,,
+VIE,2008-01-13,09:00,DPM Nam Dinh,SHB-Da Nang FC,1,0,H,,,
+VIE,2008-01-13,09:00,Binh Dinh,Đồng Tâm Long An,1,1,D,,,
+VIE,2008-01-13,10:00,Khatoco Khánh Hoà,Bình Dương FC,0,1,A,,,
+VIE,2008-01-13,10:00,LG-ACB Ha Noi,Thanh Hóa FC,0,0,D,,,
+VIE,2008-01-13,10:00,Cang Sài Gòn,Sông Lam Nghệ An,2,0,H,,,
+VIE,2008-01-13,10:00,Hoàng Anh Gia Lai,Hòa Phát,1,1,D,,,
+VIE,2008-01-19,08:30,The Cong,DPM Nam Dinh,1,0,H,,,
+VIE,2008-01-20,09:00,Hòa Phát,Binh Dinh,3,3,D,,,
+VIE,2008-01-20,10:00,Bình Dương FC,Cang Sài Gòn,0,1,A,,,
+VIE,2008-01-20,10:00,Thanh Hóa FC,Sông Lam Nghệ An,2,0,H,,,
+VIE,2008-01-20,10:00,Hoàng Anh Gia Lai,LG-ACB Ha Noi,2,0,H,,,
+VIE,2008-01-20,10:00,Đồng Tâm Long An,SHB-Da Nang FC,3,1,H,,,
+VIE,2008-01-20,10:00,Khatoco Khánh Hoà,Xi Mang Hai Phong,0,1,A,,,
+VIE,2008-01-25,10:00,LG-ACB Ha Noi,Binh Dinh,1,1,D,,,
+VIE,2008-01-26,08:00,Sông Lam Nghệ An,Bình Dương FC,0,1,A,,,
+VIE,2008-01-26,08:00,Xi Mang Hai Phong,Cang Sài Gòn,6,0,H,,,
+VIE,2008-01-26,08:30,The Cong,Đồng Tâm Long An,1,1,D,,,
+VIE,2008-01-26,09:00,DPM Nam Dinh,Khatoco Khánh Hoà,0,1,A,,,
+VIE,2008-01-26,10:00,Thanh Hóa FC,Hoàng Anh Gia Lai,3,1,H,,,
+VIE,2008-01-26,10:00,SHB-Da Nang FC,Hòa Phát,1,1,D,,,
+VIE,2008-01-30,08:00,Xi Mang Hai Phong,Sông Lam Nghệ An,0,0,D,,,
+VIE,2008-01-30,09:00,Binh Dinh,Hoàng Anh Gia Lai,1,2,A,,,
+VIE,2008-01-30,09:00,Hòa Phát,The Cong,0,1,A,,,
+VIE,2008-01-30,10:00,Khatoco Khánh Hoà,Đồng Tâm Long An,4,2,H,,,
+VIE,2008-01-30,10:00,SHB-Da Nang FC,LG-ACB Ha Noi,1,2,A,,,
+VIE,2008-01-30,10:00,Cang Sài Gòn,DPM Nam Dinh,2,0,H,,,
+VIE,2008-01-30,10:00,Bình Dương FC,Thanh Hóa FC,0,0,D,,,
+VIE,2008-02-23,08:00,Sông Lam Nghệ An,DPM Nam Dinh,3,0,H,,,
+VIE,2008-02-23,09:00,Hòa Phát,Khatoco Khánh Hoà,0,0,D,,,
+VIE,2008-02-23,10:00,Bình Dương FC,Xi Mang Hai Phong,0,0,D,,,
+VIE,2008-02-23,10:00,Thanh Hóa FC,Binh Dinh,0,0,D,,,
+VIE,2008-02-24,09:00,The Cong,LG-ACB Ha Noi,0,0,D,,,
+VIE,2008-02-24,09:00,Đồng Tâm Long An,Cang Sài Gòn,3,1,H,,,
+VIE,2008-02-24,09:00,Hoàng Anh Gia Lai,SHB-Da Nang FC,2,2,D,,,
+VIE,2008-02-27,09:00,Hòa Phát,Bình Dương FC,1,0,H,,,
+VIE,2008-02-27,10:00,Thanh Hóa FC,DPM Nam Dinh,0,0,D,,,
+VIE,2008-03-01,09:00,The Cong,Hoàng Anh Gia Lai,2,1,H,,,
+VIE,2008-03-02,08:00,SHB-Da Nang FC,Binh Dinh,1,0,H,,,
+VIE,2008-03-02,08:00,LG-ACB Ha Noi,Khatoco Khánh Hoà,1,4,A,,,
+VIE,2008-03-02,09:00,Cang Sài Gòn,Hòa Phát,3,1,H,,,
+VIE,2008-03-02,09:00,Xi Mang Hai Phong,Thanh Hóa FC,1,1,D,,,
+VIE,2008-03-02,09:00,Đồng Tâm Long An,Sông Lam Nghệ An,0,3,A,,,
+VIE,2008-03-02,10:00,DPM Nam Dinh,Bình Dương FC,1,0,H,,,
+VIE,2008-03-07,09:30,DPM Nam Dinh,Xi Mang Hai Phong,2,1,H,,,
+VIE,2008-03-07,09:30,Bình Dương FC,Đồng Tâm Long An,0,3,A,,,
+VIE,2008-03-09,09:00,Sông Lam Nghệ An,Hòa Phát,2,1,H,,,
+VIE,2008-03-09,10:00,Thanh Hóa FC,SHB-Da Nang FC,0,2,A,,,
+VIE,2008-03-09,10:00,Binh Dinh,The Cong,0,0,D,,,
+VIE,2008-03-09,10:00,Khatoco Khánh Hoà,Hoàng Anh Gia Lai,2,1,H,,,
+VIE,2008-03-09,10:00,LG-ACB Ha Noi,Cang Sài Gòn,1,1,D,,,
+VIE,2008-03-16,09:00,Binh Dinh,Khatoco Khánh Hoà,2,2,D,,,
+VIE,2008-03-16,09:00,Hoàng Anh Gia Lai,Cang Sài Gòn,3,2,H,,,
+VIE,2008-03-16,10:00,Sông Lam Nghệ An,LG-ACB Ha Noi,2,0,H,,,
+VIE,2008-03-16,10:00,SHB-Da Nang FC,The Cong,1,1,D,,,
+VIE,2008-03-16,10:00,Xi Mang Hai Phong,Đồng Tâm Long An,1,1,D,,,
+VIE,2008-03-23,09:00,Xi Mang Hai Phong,Hòa Phát,2,1,H,,,
+VIE,2008-03-23,09:00,Cang Sài Gòn,Binh Dinh,2,4,A,,,
+VIE,2008-03-23,09:00,The Cong,Thanh Hóa FC,1,0,H,,,
+VIE,2008-03-23,09:00,Hoàng Anh Gia Lai,Sông Lam Nghệ An,3,2,H,,,
+VIE,2008-03-23,09:00,Khatoco Khánh Hoà,SHB-Da Nang FC,0,0,D,,,
+VIE,2008-03-24,10:00,Đồng Tâm Long An,DPM Nam Dinh,2,1,H,,,
+VIE,2008-03-25,09:00,LG-ACB Ha Noi,Bình Dương FC,1,3,A,,,
+VIE,2008-03-30,09:00,SHB-Da Nang FC,Cang Sài Gòn,1,0,H,,,
+VIE,2008-03-30,09:00,LG-ACB Ha Noi,Xi Mang Hai Phong,2,2,D,,,
+VIE,2008-03-30,09:00,Sông Lam Nghệ An,Binh Dinh,6,0,H,,,
+VIE,2008-03-30,09:00,Thanh Hóa FC,Đồng Tâm Long An,1,1,D,,,
+VIE,2008-03-30,09:00,Khatoco Khánh Hoà,The Cong,1,0,H,,,
+VIE,2008-03-30,10:00,DPM Nam Dinh,Hòa Phát,0,0,D,,,
+VIE,2008-03-30,10:00,Bình Dương FC,Hoàng Anh Gia Lai,3,0,H,,,
+VIE,2008-04-04,11:00,DPM Nam Dinh,LG-ACB Ha Noi,2,0,H,,,
+VIE,2008-04-05,10:00,Binh Dinh,Bình Dương FC,0,1,A,,,
+VIE,2008-04-05,11:00,Hòa Phát,Đồng Tâm Long An,0,2,A,,,
+VIE,2008-04-06,10:00,Thanh Hóa FC,Khatoco Khánh Hoà,1,1,D,,,
+VIE,2008-04-06,10:00,The Cong,Cang Sài Gòn,0,0,D,,,
+VIE,2008-04-06,10:00,Xi Mang Hai Phong,Hoàng Anh Gia Lai,1,0,H,,,
+VIE,2008-04-06,10:30,SHB-Da Nang FC,Sông Lam Nghệ An,3,2,H,,,
+VIE,2008-04-13,10:00,Sông Lam Nghệ An,The Cong,2,2,D,,,
+VIE,2008-04-13,10:30,Binh Dinh,Xi Mang Hai Phong,3,2,H,,,
+VIE,2008-04-13,10:30,Hòa Phát,Thanh Hóa FC,0,0,D,,,
+VIE,2008-04-13,11:00,Cang Sài Gòn,Khatoco Khánh Hoà,2,1,H,,,
+VIE,2008-04-13,11:00,Đồng Tâm Long An,LG-ACB Ha Noi,1,1,D,,,
+VIE,2008-04-15,09:00,Hoàng Anh Gia Lai,DPM Nam Dinh,3,0,H,,,
+VIE,2008-04-15,09:00,Bình Dương FC,SHB-Da Nang FC,2,0,H,,,
+VIE,2008-04-26,10:00,LG-ACB Ha Noi,Hòa Phát,2,0,H,,,
+VIE,2008-04-27,09:00,Thanh Hóa FC,Cang Sài Gòn,1,3,A,,,
+VIE,2008-04-27,09:00,Xi Mang Hai Phong,SHB-Da Nang FC,4,0,H,,,
+VIE,2008-04-27,10:00,DPM Nam Dinh,Binh Dinh,0,0,D,,,
+VIE,2008-04-27,10:00,Khatoco Khánh Hoà,Sông Lam Nghệ An,2,2,D,,,
+VIE,2008-04-27,10:00,Hoàng Anh Gia Lai,Đồng Tâm Long An,3,3,D,,,
+VIE,2008-04-29,12:00,The Cong,Bình Dương FC,0,0,D,,,
+VIE,2008-05-02,10:00,SHB-Da Nang FC,DPM Nam Dinh,2,3,A,,,
+VIE,2008-05-03,10:00,The Cong,Xi Mang Hai Phong,2,1,H,,,
+VIE,2008-05-03,11:00,Bình Dương FC,Khatoco Khánh Hoà,1,1,D,,,
+VIE,2008-05-04,09:00,Thanh Hóa FC,LG-ACB Ha Noi,2,1,H,,,
+VIE,2008-05-04,09:00,Sông Lam Nghệ An,Cang Sài Gòn,0,0,D,,,
+VIE,2008-05-04,10:00,Hòa Phát,Hoàng Anh Gia Lai,1,1,D,,,
+VIE,2008-05-04,11:00,Đồng Tâm Long An,Binh Dinh,4,1,H,,,
+VIE,2008-05-11,09:00,SHB-Da Nang FC,Đồng Tâm Long An,3,2,H,,,
+VIE,2008-05-11,09:00,Binh Dinh,Hòa Phát,2,0,H,,,
+VIE,2008-05-11,10:00,LG-ACB Ha Noi,Hoàng Anh Gia Lai,0,3,A,,,
+VIE,2008-05-11,10:00,Xi Mang Hai Phong,Khatoco Khánh Hoà,1,1,D,,,
+VIE,2008-05-11,11:00,Sông Lam Nghệ An,Thanh Hóa FC,1,0,H,,,
+VIE,2008-05-11,11:00,Cang Sài Gòn,Bình Dương FC,1,1,D,,,
+VIE,2008-05-13,11:00,DPM Nam Dinh,The Cong,0,1,A,,,
+VIE,2008-05-13,11:00,DPM Nam Dinh,Cang Sài Gòn,2,0,H,,,
+VIE,2008-05-17,10:00,Khatoco Khánh Hoà,DPM Nam Dinh,3,2,H,,,
+VIE,2008-05-17,11:00,Bình Dương FC,Sông Lam Nghệ An,1,0,H,,,
+VIE,2008-05-18,09:00,Cang Sài Gòn,Xi Mang Hai Phong,1,1,D,,,
+VIE,2008-05-18,10:00,Hoàng Anh Gia Lai,Thanh Hóa FC,1,0,H,,,
+VIE,2008-05-18,10:00,Hòa Phát,SHB-Da Nang FC,1,1,D,,,
+VIE,2008-05-18,10:00,Binh Dinh,LG-ACB Ha Noi,1,0,H,,,
+VIE,2008-05-18,11:00,Đồng Tâm Long An,The Cong,3,1,H,,,
+VIE,2008-05-24,11:00,The Cong,Hòa Phát,2,1,H,,,
+VIE,2008-05-25,10:00,Sông Lam Nghệ An,Xi Mang Hai Phong,1,1,D,,,
+VIE,2008-05-25,11:00,Hoàng Anh Gia Lai,Binh Dinh,0,0,D,,,
+VIE,2008-05-25,11:00,LG-ACB Ha Noi,SHB-Da Nang FC,2,3,A,,,
+VIE,2008-05-25,11:00,Đồng Tâm Long An,Khatoco Khánh Hoà,2,0,H,,,
+VIE,2008-05-27,10:00,Thanh Hóa FC,Bình Dương FC,1,2,A,,,
+VIE,2008-07-01,,Khatoco Khánh Hoà,Hòa Phát,3,1,H,,,
+VIE,2008-07-01,,Xi Mang Hai Phong,Bình Dương FC,2,0,H,,,
+VIE,2008-07-01,,Binh Dinh,Thanh Hóa FC,3,4,A,,,
+VIE,2008-07-01,,LG-ACB Ha Noi,The Cong,2,0,H,,,
+VIE,2008-07-01,,Cang Sài Gòn,Đồng Tâm Long An,1,0,H,,,
+VIE,2008-07-01,,SHB-Da Nang FC,Hoàng Anh Gia Lai,4,0,H,,,
+VIE,2008-07-02,,DPM Nam Dinh,Sông Lam Nghệ An,3,1,H,,,
+VIE,2008-07-12,10:00,Hoàng Anh Gia Lai,The Cong,2,3,A,,,
+VIE,2008-07-12,10:00,Binh Dinh,SHB-Da Nang FC,1,4,A,,,
+VIE,2008-07-12,10:00,Bình Dương FC,DPM Nam Dinh,1,0,H,,,
+VIE,2008-07-12,11:00,Thanh Hóa FC,Xi Mang Hai Phong,2,1,H,,,
+VIE,2008-07-12,11:00,Khatoco Khánh Hoà,LG-ACB Ha Noi,1,0,H,,,
+VIE,2008-07-12,11:00,Sông Lam Nghệ An,Đồng Tâm Long An,4,1,H,,,
+VIE,2008-07-12,11:00,Hòa Phát,Cang Sài Gòn,3,1,H,,,
+VIE,2008-07-19,10:00,Hòa Phát,Sông Lam Nghệ An,2,4,A,,,
+VIE,2008-07-20,10:00,Xi Mang Hai Phong,DPM Nam Dinh,4,1,H,,,
+VIE,2008-07-20,10:00,Đồng Tâm Long An,Bình Dương FC,2,4,A,,,
+VIE,2008-07-20,10:00,SHB-Da Nang FC,Thanh Hóa FC,6,0,H,,,
+VIE,2008-07-20,10:00,The Cong,Binh Dinh,2,0,H,,,
+VIE,2008-07-20,10:00,Hoàng Anh Gia Lai,Khatoco Khánh Hoà,1,0,H,,,
+VIE,2008-07-20,10:00,Cang Sài Gòn,LG-ACB Ha Noi,2,1,H,,,
+VIE,2008-07-26,10:00,LG-ACB Ha Noi,Sông Lam Nghệ An,4,2,H,,,
+VIE,2008-07-27,09:00,Khatoco Khánh Hoà,Binh Dinh,2,2,D,,,
+VIE,2008-07-27,09:00,Cang Sài Gòn,Hoàng Anh Gia Lai,3,1,H,,,
+VIE,2008-07-27,10:00,The Cong,SHB-Da Nang FC,3,4,A,,,
+VIE,2008-07-27,10:00,Đồng Tâm Long An,Xi Mang Hai Phong,2,1,H,,,
+VIE,2008-07-27,10:30,DPM Nam Dinh,Thanh Hóa FC,0,1,A,,,
+VIE,2008-07-27,11:00,Bình Dương FC,Hòa Phát,3,0,H,,,
+VIE,2008-08-06,09:30,Sông Lam Nghệ An,Hoàng Anh Gia Lai,1,1,D,,,
+VIE,2008-08-06,09:30,Thanh Hóa FC,The Cong,3,1,H,,,
+VIE,2008-08-06,10:00,Hòa Phát,Xi Mang Hai Phong,1,3,A,,,
+VIE,2008-08-06,10:00,Binh Dinh,Cang Sài Gòn,3,2,H,,,
+VIE,2008-08-06,10:00,DPM Nam Dinh,Đồng Tâm Long An,1,3,A,,,
+VIE,2008-08-06,10:30,SHB-Da Nang FC,Khatoco Khánh Hoà,2,0,H,,,
+VIE,2008-08-06,11:00,Bình Dương FC,LG-ACB Ha Noi,3,2,H,,,
+VIE,2008-08-10,10:00,Đồng Tâm Long An,Thanh Hóa FC,2,1,H,,,
+VIE,2008-08-10,10:00,The Cong,Khatoco Khánh Hoà,0,1,A,,,
+VIE,2008-08-10,10:00,Cang Sài Gòn,SHB-Da Nang FC,0,0,D,,,
+VIE,2008-08-10,10:00,Xi Mang Hai Phong,LG-ACB Ha Noi,4,0,H,,,
+VIE,2008-08-10,10:00,Binh Dinh,Sông Lam Nghệ An,3,2,H,,,
+VIE,2008-08-10,10:00,Hoàng Anh Gia Lai,Bình Dương FC,0,1,A,,,
+VIE,2008-08-10,10:00,Hòa Phát,DPM Nam Dinh,1,3,A,,,
+VIE,2008-08-17,10:00,Bình Dương FC,Binh Dinh,4,0,H,,,
+VIE,2008-08-17,10:00,Đồng Tâm Long An,Hòa Phát,2,0,H,,,
+VIE,2008-08-17,10:00,Khatoco Khánh Hoà,Thanh Hóa FC,1,1,D,,,
+VIE,2008-08-17,10:00,Cang Sài Gòn,The Cong,1,0,H,,,
+VIE,2008-08-17,10:00,Sông Lam Nghệ An,SHB-Da Nang FC,2,0,H,,,
+VIE,2008-08-17,10:00,Hoàng Anh Gia Lai,Xi Mang Hai Phong,2,0,H,,,
+VIE,2008-08-17,10:00,LG-ACB Ha Noi,DPM Nam Dinh,1,2,A,,,
+VIE,2008-08-24,10:00,Khatoco Khánh Hoà,Cang Sài Gòn,2,1,H,,,
+VIE,2008-08-24,10:00,LG-ACB Ha Noi,Đồng Tâm Long An,1,5,A,,,
+VIE,2008-08-24,10:00,The Cong,Sông Lam Nghệ An,2,2,D,,,
+VIE,2008-08-24,10:00,Xi Mang Hai Phong,Binh Dinh,3,0,H,,,
+VIE,2008-08-24,10:00,DPM Nam Dinh,Hoàng Anh Gia Lai,0,1,A,,,
+VIE,2008-08-24,10:00,SHB-Da Nang FC,Bình Dương FC,1,0,H,,,
+VIE,2008-08-24,10:00,Thanh Hóa FC,Hòa Phát,1,0,H,,,

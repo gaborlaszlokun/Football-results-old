@@ -1,0 +1,381 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+ITA,2012-08-25,17:00,ACF Fiorentina,Udinese Calcio,2,1,H,0.0,1.0,A
+ITA,2012-08-25,19:45,Juventus,Parma FC,2,0,H,0.0,0.0,D
+ITA,2012-08-26,17:00,AC Milan,Sampdoria,0,1,A,0.0,0.0,D
+ITA,2012-08-26,19:45,Atalanta,Lazio Roma,0,1,A,0.0,1.0,A
+ITA,2012-08-26,19:45,Chievo Verona,Bologna FC,2,0,H,0.0,0.0,D
+ITA,2012-08-26,19:45,Genoa CFC,Cagliari Calcio,2,0,H,0.0,0.0,D
+ITA,2012-08-26,19:45,US Palermo,SSC Napoli,0,3,A,0.0,1.0,A
+ITA,2012-08-26,19:45,Pescara Calcio,Inter,0,3,A,0.0,2.0,A
+ITA,2012-08-26,19:45,AS Roma,Calcio Catania,2,2,D,0.0,1.0,A
+ITA,2012-08-26,19:45,AC Siena,Torino FC,0,0,D,0.0,0.0,D
+ITA,2012-09-01,17:00,Torino FC,Pescara Calcio,3,0,H,1.0,0.0,H
+ITA,2012-09-01,19:45,Bologna FC,AC Milan,1,3,A,1.0,1.0,D
+ITA,2012-09-02,17:00,Udinese Calcio,Juventus,1,4,A,0.0,2.0,A
+ITA,2012-09-02,19:45,Cagliari Calcio,Atalanta,1,1,D,0.0,0.0,D
+ITA,2012-09-02,19:45,Calcio Catania,Genoa CFC,3,2,H,0.0,1.0,A
+ITA,2012-09-02,19:45,Inter,AS Roma,1,3,A,1.0,1.0,D
+ITA,2012-09-02,19:45,Lazio Roma,US Palermo,3,0,H,1.0,0.0,H
+ITA,2012-09-02,19:45,SSC Napoli,ACF Fiorentina,2,1,H,0.0,0.0,D
+ITA,2012-09-02,19:45,Parma FC,Chievo Verona,2,0,H,1.0,0.0,H
+ITA,2012-09-02,19:45,Sampdoria,AC Siena,2,1,H,1.0,0.0,H
+ITA,2012-09-15,17:00,US Palermo,Cagliari Calcio,1,1,D,1.0,0.0,H
+ITA,2012-09-15,19:45,AC Milan,Atalanta,0,1,A,0.0,0.0,D
+ITA,2012-09-16,11:30,Chievo Verona,Lazio Roma,1,3,A,0.0,2.0,A
+ITA,2012-09-16,14:00,ACF Fiorentina,Calcio Catania,2,0,H,1.0,0.0,H
+ITA,2012-09-16,14:00,Genoa CFC,Juventus,1,3,A,1.0,0.0,H
+ITA,2012-09-16,14:00,SSC Napoli,Parma FC,3,1,H,2.0,1.0,H
+ITA,2012-09-16,14:00,Pescara Calcio,Sampdoria,2,3,A,0.0,1.0,A
+ITA,2012-09-16,14:00,AS Roma,Bologna FC,2,3,A,2.0,0.0,H
+ITA,2012-09-16,14:00,AC Siena,Udinese Calcio,2,2,D,0.0,2.0,A
+ITA,2012-09-16,19:45,Torino FC,Inter,0,2,A,0.0,1.0,A
+ITA,2012-09-22,17:00,Parma FC,ACF Fiorentina,1,1,D,0.0,1.0,A
+ITA,2012-09-22,19:45,Juventus,Chievo Verona,2,0,H,0.0,0.0,D
+ITA,2012-09-23,11:30,Sampdoria,Torino FC,1,1,D,0.0,0.0,D
+ITA,2012-09-23,14:00,Atalanta,US Palermo,1,0,H,0.0,0.0,D
+ITA,2012-09-23,14:00,Bologna FC,Pescara Calcio,1,1,D,1.0,1.0,D
+ITA,2012-09-23,14:00,Calcio Catania,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,2012-09-23,14:00,Inter,AC Siena,0,2,A,0.0,0.0,D
+ITA,2012-09-23,14:00,Udinese Calcio,AC Milan,2,1,H,1.0,0.0,H
+ITA,2012-09-23,19:45,Lazio Roma,Genoa CFC,0,1,A,0.0,0.0,D
+ITA,2012-09-23,,Cagliari Calcio,AS Roma,0,3,A,,,
+ITA,2012-09-25,19:45,ACF Fiorentina,Juventus,0,0,D,0.0,0.0,D
+ITA,2012-09-26,17:30,Pescara Calcio,US Palermo,1,0,H,0.0,0.0,D
+ITA,2012-09-26,19:45,Calcio Catania,Atalanta,2,1,H,0.0,0.0,D
+ITA,2012-09-26,19:45,Chievo Verona,Inter,0,2,A,0.0,1.0,A
+ITA,2012-09-26,19:45,Genoa CFC,Parma FC,1,1,D,0.0,1.0,A
+ITA,2012-09-26,19:45,AC Milan,Cagliari Calcio,2,0,H,1.0,0.0,H
+ITA,2012-09-26,19:45,SSC Napoli,Lazio Roma,3,0,H,2.0,0.0,H
+ITA,2012-09-26,19:45,AS Roma,Sampdoria,1,1,D,1.0,0.0,H
+ITA,2012-09-26,19:45,Torino FC,Udinese Calcio,0,0,D,0.0,0.0,D
+ITA,2012-09-27,19:45,AC Siena,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2012-09-29,17:00,Parma FC,AC Milan,1,1,D,0.0,0.0,D
+ITA,2012-09-29,19:45,Juventus,AS Roma,4,1,H,3.0,0.0,H
+ITA,2012-09-30,11:30,Udinese Calcio,Genoa CFC,0,0,D,0.0,0.0,D
+ITA,2012-09-30,14:00,Atalanta,Torino FC,1,5,A,1.0,1.0,D
+ITA,2012-09-30,14:00,Bologna FC,Calcio Catania,4,0,H,2.0,0.0,H
+ITA,2012-09-30,14:00,Cagliari Calcio,Pescara Calcio,1,2,A,0.0,0.0,D
+ITA,2012-09-30,14:00,Lazio Roma,AC Siena,2,1,H,2.0,0.0,H
+ITA,2012-09-30,14:00,US Palermo,Chievo Verona,4,1,H,1.0,1.0,D
+ITA,2012-09-30,14:00,Sampdoria,SSC Napoli,0,1,A,0.0,0.0,D
+ITA,2012-09-30,19:45,Inter,ACF Fiorentina,2,1,H,2.0,1.0,H
+ITA,2012-10-06,17:00,Chievo Verona,Sampdoria,2,1,H,1.0,0.0,H
+ITA,2012-10-06,19:45,Genoa CFC,US Palermo,1,1,D,0.0,1.0,A
+ITA,2012-10-07,11:30,AS Roma,Atalanta,2,0,H,1.0,0.0,H
+ITA,2012-10-07,14:00,Calcio Catania,Parma FC,2,0,H,1.0,0.0,H
+ITA,2012-10-07,14:00,ACF Fiorentina,Bologna FC,1,0,H,1.0,0.0,H
+ITA,2012-10-07,14:00,Pescara Calcio,Lazio Roma,0,3,A,0.0,3.0,A
+ITA,2012-10-07,14:00,AC Siena,Juventus,1,2,A,1.0,1.0,D
+ITA,2012-10-07,14:00,Torino FC,Cagliari Calcio,0,1,A,0.0,0.0,D
+ITA,2012-10-07,19:45,AC Milan,Inter,0,1,A,0.0,1.0,A
+ITA,2012-10-07,19:45,SSC Napoli,Udinese Calcio,2,1,H,2.0,1.0,H
+ITA,2012-10-20,17:00,Juventus,SSC Napoli,2,0,H,0.0,0.0,D
+ITA,2012-10-20,19:45,Lazio Roma,AC Milan,3,2,H,2.0,0.0,H
+ITA,2012-10-21,11:30,Cagliari Calcio,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2012-10-21,14:00,Atalanta,AC Siena,2,1,H,0.0,0.0,D
+ITA,2012-10-21,14:00,Chievo Verona,ACF Fiorentina,1,1,D,1.0,1.0,D
+ITA,2012-10-21,14:00,Inter,Calcio Catania,2,0,H,1.0,0.0,H
+ITA,2012-10-21,14:00,US Palermo,Torino FC,0,0,D,0.0,0.0,D
+ITA,2012-10-21,14:00,Parma FC,Sampdoria,2,1,H,1.0,0.0,H
+ITA,2012-10-21,14:00,Udinese Calcio,Pescara Calcio,1,0,H,0.0,0.0,D
+ITA,2012-10-21,19:45,Genoa CFC,AS Roma,2,4,A,2.0,2.0,D
+ITA,2012-10-27,17:00,AC Siena,US Palermo,0,0,D,0.0,0.0,D
+ITA,2012-10-27,19:45,AC Milan,Genoa CFC,1,0,H,0.0,0.0,D
+ITA,2012-10-28,11:30,Calcio Catania,Juventus,0,1,A,0.0,0.0,D
+ITA,2012-10-28,14:00,Bologna FC,Inter,1,3,A,0.0,1.0,A
+ITA,2012-10-28,14:00,ACF Fiorentina,Lazio Roma,2,0,H,1.0,0.0,H
+ITA,2012-10-28,14:00,Pescara Calcio,Atalanta,0,0,D,0.0,0.0,D
+ITA,2012-10-28,14:00,Sampdoria,Cagliari Calcio,0,1,A,0.0,0.0,D
+ITA,2012-10-28,14:00,Torino FC,Parma FC,1,3,A,0.0,0.0,D
+ITA,2012-10-28,19:45,SSC Napoli,Chievo Verona,1,0,H,0.0,0.0,D
+ITA,2012-10-28,19:45,AS Roma,Udinese Calcio,2,3,A,2.0,1.0,H
+ITA,2012-10-30,19:45,US Palermo,AC Milan,2,2,D,1.0,0.0,H
+ITA,2012-10-31,19:45,Atalanta,SSC Napoli,1,0,H,1.0,0.0,H
+ITA,2012-10-31,19:45,Cagliari Calcio,AC Siena,4,2,H,3.0,1.0,H
+ITA,2012-10-31,19:45,Chievo Verona,Pescara Calcio,2,0,H,0.0,0.0,D
+ITA,2012-10-31,19:45,Inter,Sampdoria,3,2,H,0.0,1.0,A
+ITA,2012-10-31,19:45,Juventus,Bologna FC,2,1,H,0.0,0.0,D
+ITA,2012-10-31,19:45,Lazio Roma,Torino FC,1,1,D,0.0,1.0,A
+ITA,2012-10-31,19:45,Parma FC,AS Roma,3,2,H,2.0,1.0,H
+ITA,2012-10-31,19:45,Udinese Calcio,Calcio Catania,2,2,D,1.0,0.0,H
+ITA,2012-11-01,19:45,Genoa CFC,ACF Fiorentina,0,1,A,0.0,1.0,A
+ITA,2012-11-03,17:00,AC Milan,Chievo Verona,5,1,H,3.0,1.0,H
+ITA,2012-11-03,19:45,Juventus,Inter,1,3,A,1.0,0.0,H
+ITA,2012-11-04,11:30,Pescara Calcio,Parma FC,2,0,H,0.0,0.0,D
+ITA,2012-11-04,14:00,Bologna FC,Udinese Calcio,1,1,D,0.0,0.0,D
+ITA,2012-11-04,14:00,Calcio Catania,Lazio Roma,4,0,H,3.0,0.0,H
+ITA,2012-11-04,14:00,ACF Fiorentina,Cagliari Calcio,4,1,H,1.0,1.0,D
+ITA,2012-11-04,14:00,SSC Napoli,Torino FC,1,1,D,1.0,0.0,H
+ITA,2012-11-04,14:00,Sampdoria,Atalanta,1,2,A,0.0,1.0,A
+ITA,2012-11-04,14:00,AC Siena,Genoa CFC,1,0,H,0.0,0.0,D
+ITA,2012-11-04,19:45,AS Roma,US Palermo,4,1,H,2.0,0.0,H
+ITA,2012-11-10,17:00,Cagliari Calcio,Calcio Catania,0,0,D,0.0,0.0,D
+ITA,2012-11-10,19:45,Pescara Calcio,Juventus,1,6,A,1.0,5.0,A
+ITA,2012-11-11,11:30,US Palermo,Sampdoria,2,0,H,0.0,0.0,D
+ITA,2012-11-11,14:00,Chievo Verona,Udinese Calcio,2,2,D,1.0,1.0,D
+ITA,2012-11-11,14:00,Genoa CFC,SSC Napoli,2,4,A,1.0,0.0,H
+ITA,2012-11-11,14:00,Lazio Roma,AS Roma,3,2,H,2.0,1.0,H
+ITA,2012-11-11,14:00,AC Milan,ACF Fiorentina,1,3,A,0.0,2.0,A
+ITA,2012-11-11,14:00,Parma FC,AC Siena,0,0,D,0.0,0.0,D
+ITA,2012-11-11,14:00,Torino FC,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2012-11-11,19:45,Atalanta,Inter,3,2,H,1.0,0.0,H
+ITA,2012-11-17,17:00,Juventus,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,2012-11-17,19:45,SSC Napoli,AC Milan,2,2,D,2.0,1.0,H
+ITA,2012-11-18,14:00,Bologna FC,US Palermo,3,0,H,2.0,0.0,H
+ITA,2012-11-18,14:00,Calcio Catania,Chievo Verona,2,1,H,0.0,0.0,D
+ITA,2012-11-18,14:00,ACF Fiorentina,Atalanta,4,1,H,3.0,1.0,H
+ITA,2012-11-18,14:00,Inter,Cagliari Calcio,2,2,D,1.0,1.0,D
+ITA,2012-11-18,14:00,AC Siena,Pescara Calcio,1,0,H,1.0,0.0,H
+ITA,2012-11-18,14:00,Udinese Calcio,Parma FC,2,2,D,1.0,0.0,H
+ITA,2012-11-18,19:45,Sampdoria,Genoa CFC,3,1,H,2.0,0.0,H
+ITA,2012-11-19,19:45,AS Roma,Torino FC,2,0,H,0.0,0.0,D
+ITA,2012-11-24,19:45,US Palermo,Calcio Catania,3,1,H,1.0,0.0,H
+ITA,2012-11-25,14:00,Atalanta,Genoa CFC,0,1,A,0.0,1.0,A
+ITA,2012-11-25,14:00,Chievo Verona,AC Siena,0,0,D,0.0,0.0,D
+ITA,2012-11-25,14:00,Pescara Calcio,AS Roma,0,1,A,0.0,1.0,A
+ITA,2012-11-25,14:00,Sampdoria,Bologna FC,1,0,H,0.0,0.0,D
+ITA,2012-11-25,14:00,Torino FC,ACF Fiorentina,2,2,D,1.0,0.0,H
+ITA,2012-11-25,19:45,AC Milan,Juventus,1,0,H,1.0,0.0,H
+ITA,2012-11-26,18:00,Cagliari Calcio,SSC Napoli,0,1,A,0.0,0.0,D
+ITA,2012-11-26,20:00,Parma FC,Inter,1,0,H,0.0,0.0,D
+ITA,2012-11-27,19:45,Lazio Roma,Udinese Calcio,3,0,H,2.0,0.0,H
+ITA,2012-11-30,19:45,Calcio Catania,AC Milan,1,3,A,1.0,0.0,H
+ITA,2012-12-01,19:45,Juventus,Torino FC,3,0,H,0.0,0.0,D
+ITA,2012-12-02,11:30,SSC Napoli,Pescara Calcio,5,1,H,2.0,1.0,H
+ITA,2012-12-02,14:00,Bologna FC,Atalanta,2,1,H,1.0,0.0,H
+ITA,2012-12-02,14:00,Genoa CFC,Chievo Verona,2,4,A,1.0,3.0,A
+ITA,2012-12-02,14:00,Inter,US Palermo,1,0,H,0.0,0.0,D
+ITA,2012-12-02,14:00,Lazio Roma,Parma FC,2,1,H,2.0,0.0,H
+ITA,2012-12-02,14:00,AC Siena,AS Roma,1,3,A,1.0,0.0,H
+ITA,2012-12-02,14:00,Udinese Calcio,Cagliari Calcio,4,1,H,2.0,0.0,H
+ITA,2012-12-02,19:45,ACF Fiorentina,Sampdoria,2,2,D,1.0,0.0,H
+ITA,2012-12-08,17:00,Atalanta,Parma FC,2,1,H,2.0,1.0,H
+ITA,2012-12-08,19:45,AS Roma,ACF Fiorentina,4,2,H,3.0,1.0,H
+ITA,2012-12-09,14:00,Cagliari Calcio,Chievo Verona,0,2,A,0.0,0.0,D
+ITA,2012-12-09,14:00,US Palermo,Juventus,0,1,A,0.0,0.0,D
+ITA,2012-12-09,14:00,Pescara Calcio,Genoa CFC,2,0,H,0.0,0.0,D
+ITA,2012-12-09,14:00,AC Siena,Calcio Catania,1,3,A,1.0,0.0,H
+ITA,2012-12-09,14:00,Torino FC,AC Milan,2,4,A,1.0,1.0,D
+ITA,2012-12-09,19:45,Inter,SSC Napoli,2,1,H,2.0,0.0,H
+ITA,2012-12-10,18:00,Sampdoria,Udinese Calcio,0,2,A,0.0,2.0,A
+ITA,2012-12-10,20:00,Bologna FC,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,2012-12-15,17:00,Udinese Calcio,US Palermo,1,1,D,0.0,1.0,A
+ITA,2012-12-15,19:45,Lazio Roma,Inter,1,0,H,0.0,0.0,D
+ITA,2012-12-16,11:30,ACF Fiorentina,AC Siena,4,1,H,3.0,0.0,H
+ITA,2012-12-16,14:00,Calcio Catania,Sampdoria,3,1,H,0.0,1.0,A
+ITA,2012-12-16,14:00,Chievo Verona,AS Roma,1,0,H,0.0,0.0,D
+ITA,2012-12-16,14:00,Genoa CFC,Torino FC,1,1,D,1.0,1.0,D
+ITA,2012-12-16,14:00,Juventus,Atalanta,3,0,H,3.0,0.0,H
+ITA,2012-12-16,14:00,AC Milan,Pescara Calcio,4,1,H,1.0,0.0,H
+ITA,2012-12-16,14:00,Parma FC,Cagliari Calcio,4,1,H,1.0,1.0,D
+ITA,2012-12-16,19:45,SSC Napoli,Bologna FC,2,3,A,0.0,1.0,A
+ITA,2012-12-21,17:00,Pescara Calcio,Calcio Catania,2,1,H,1.0,1.0,D
+ITA,2012-12-21,19:45,Cagliari Calcio,Juventus,1,3,A,1.0,0.0,H
+ITA,2012-12-22,11:30,Inter,Genoa CFC,1,1,D,0.0,0.0,D
+ITA,2012-12-22,14:00,Atalanta,Udinese Calcio,1,1,D,1.0,1.0,D
+ITA,2012-12-22,14:00,Bologna FC,Parma FC,1,2,A,0.0,0.0,D
+ITA,2012-12-22,14:00,US Palermo,ACF Fiorentina,0,3,A,0.0,0.0,D
+ITA,2012-12-22,14:00,Sampdoria,Lazio Roma,0,1,A,0.0,1.0,A
+ITA,2012-12-22,14:00,AC Siena,SSC Napoli,0,2,A,0.0,0.0,D
+ITA,2012-12-22,14:00,Torino FC,Chievo Verona,2,0,H,2.0,0.0,H
+ITA,2012-12-22,19:45,AS Roma,AC Milan,4,2,H,3.0,0.0,H
+ITA,2013-01-05,17:00,Calcio Catania,Torino FC,0,0,D,0.0,0.0,D
+ITA,2013-01-05,19:45,Lazio Roma,Cagliari Calcio,2,1,H,0.0,0.0,D
+ITA,2013-01-06,11:30,Udinese Calcio,Inter,3,0,H,0.0,0.0,D
+ITA,2013-01-06,14:00,Chievo Verona,Atalanta,1,0,H,1.0,0.0,H
+ITA,2013-01-06,14:00,ACF Fiorentina,Pescara Calcio,0,2,A,0.0,0.0,D
+ITA,2013-01-06,14:00,Genoa CFC,Bologna FC,2,0,H,0.0,0.0,D
+ITA,2013-01-06,14:00,Juventus,Sampdoria,1,2,A,1.0,0.0,H
+ITA,2013-01-06,14:00,AC Milan,AC Siena,2,1,H,0.0,0.0,D
+ITA,2013-01-06,14:00,Parma FC,US Palermo,2,1,H,0.0,0.0,D
+ITA,2013-01-06,19:45,SSC Napoli,AS Roma,4,1,H,1.0,0.0,H
+ITA,2013-01-12,17:00,Bologna FC,Chievo Verona,4,0,H,2.0,0.0,H
+ITA,2013-01-12,19:45,Inter,Pescara Calcio,2,0,H,1.0,0.0,H
+ITA,2013-01-13,11:30,Torino FC,AC Siena,3,2,H,3.0,1.0,H
+ITA,2013-01-13,14:00,Lazio Roma,Atalanta,2,0,H,0.0,0.0,D
+ITA,2013-01-13,14:00,Udinese Calcio,ACF Fiorentina,3,1,H,1.0,1.0,D
+ITA,2013-01-13,14:00,Cagliari Calcio,Genoa CFC,2,1,H,0.0,0.0,D
+ITA,2013-01-13,14:00,Parma FC,Juventus,1,1,D,0.0,0.0,D
+ITA,2013-01-13,14:00,SSC Napoli,US Palermo,3,0,H,2.0,0.0,H
+ITA,2013-01-13,14:00,Calcio Catania,AS Roma,1,0,H,0.0,0.0,D
+ITA,2013-01-13,19:45,Sampdoria,AC Milan,0,0,D,0.0,0.0,D
+ITA,2013-01-19,17:00,US Palermo,Lazio Roma,2,2,D,0.0,1.0,A
+ITA,2013-01-19,19:45,Juventus,Udinese Calcio,4,0,H,1.0,0.0,H
+ITA,2013-01-20,11:30,ACF Fiorentina,SSC Napoli,1,1,D,1.0,1.0,D
+ITA,2013-01-20,14:00,AC Milan,Bologna FC,2,1,H,0.0,0.0,D
+ITA,2013-01-20,14:00,Genoa CFC,Calcio Catania,0,2,A,0.0,1.0,A
+ITA,2013-01-20,14:00,Chievo Verona,Parma FC,1,1,D,0.0,1.0,A
+ITA,2013-01-20,14:00,AC Siena,Sampdoria,1,0,H,0.0,0.0,D
+ITA,2013-01-20,14:00,Pescara Calcio,Torino FC,0,2,A,0.0,2.0,A
+ITA,2013-01-20,14:30,Atalanta,Cagliari Calcio,1,1,D,0.0,1.0,A
+ITA,2013-01-20,19:45,AS Roma,Inter,1,1,D,1.0,1.0,D
+ITA,2013-01-26,17:00,Lazio Roma,Chievo Verona,0,1,A,0.0,0.0,D
+ITA,2013-01-26,19:45,Juventus,Genoa CFC,1,1,D,0.0,0.0,D
+ITA,2013-01-27,11:30,Bologna FC,AS Roma,3,3,D,2.0,2.0,D
+ITA,2013-01-27,14:00,Calcio Catania,ACF Fiorentina,2,1,H,0.0,1.0,A
+ITA,2013-01-27,14:00,Atalanta,AC Milan,0,1,A,0.0,1.0,A
+ITA,2013-01-27,14:00,Parma FC,SSC Napoli,1,2,A,0.0,1.0,A
+ITA,2013-01-27,14:00,Cagliari Calcio,US Palermo,1,1,D,0.0,1.0,A
+ITA,2013-01-27,14:00,Sampdoria,Pescara Calcio,6,0,H,2.0,0.0,H
+ITA,2013-01-27,14:00,Udinese Calcio,AC Siena,1,0,H,1.0,0.0,H
+ITA,2013-01-27,19:45,Inter,Torino FC,2,2,D,1.0,1.0,D
+ITA,2013-02-01,19:45,AS Roma,Cagliari Calcio,2,4,A,1.0,1.0,D
+ITA,2013-02-02,17:00,Torino FC,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2013-02-02,19:45,SSC Napoli,Calcio Catania,2,0,H,2.0,0.0,H
+ITA,2013-02-03,11:30,Chievo Verona,Juventus,1,2,A,0.0,2.0,A
+ITA,2013-02-03,14:00,US Palermo,Atalanta,1,2,A,0.0,0.0,D
+ITA,2013-02-03,14:00,Pescara Calcio,Bologna FC,2,3,A,2.0,1.0,H
+ITA,2013-02-03,14:00,AC Siena,Inter,3,1,H,2.0,1.0,H
+ITA,2013-02-03,14:00,Genoa CFC,Lazio Roma,3,2,H,2.0,0.0,H
+ITA,2013-02-03,14:00,ACF Fiorentina,Parma FC,2,0,H,1.0,0.0,H
+ITA,2013-02-03,19:45,AC Milan,Udinese Calcio,2,1,H,1.0,0.0,H
+ITA,2013-02-09,17:00,Juventus,ACF Fiorentina,2,0,H,2.0,0.0,H
+ITA,2013-02-09,19:45,Lazio Roma,SSC Napoli,1,1,D,1.0,0.0,H
+ITA,2013-02-10,11:30,Parma FC,Genoa CFC,0,0,D,0.0,0.0,D
+ITA,2013-02-10,14:00,Atalanta,Calcio Catania,0,0,D,0.0,0.0,D
+ITA,2013-02-10,14:00,Cagliari Calcio,AC Milan,1,1,D,1.0,0.0,H
+ITA,2013-02-10,14:00,US Palermo,Pescara Calcio,1,1,D,0.0,0.0,D
+ITA,2013-02-10,14:00,Sampdoria,AS Roma,3,1,H,0.0,0.0,D
+ITA,2013-02-10,14:00,Bologna FC,AC Siena,1,1,D,1.0,1.0,D
+ITA,2013-02-10,14:00,Udinese Calcio,Torino FC,1,0,H,1.0,0.0,H
+ITA,2013-02-10,19:45,Inter,Chievo Verona,3,1,H,2.0,1.0,H
+ITA,2013-02-15,19:45,AC Milan,Parma FC,2,1,H,1.0,0.0,H
+ITA,2013-02-16,17:00,Chievo Verona,US Palermo,1,1,D,0.0,1.0,A
+ITA,2013-02-16,19:45,AS Roma,Juventus,1,0,H,0.0,0.0,D
+ITA,2013-02-17,14:00,Torino FC,Atalanta,2,1,H,1.0,0.0,H
+ITA,2013-02-17,14:00,Calcio Catania,Bologna FC,1,0,H,1.0,0.0,H
+ITA,2013-02-17,14:00,Pescara Calcio,Cagliari Calcio,0,2,A,0.0,0.0,D
+ITA,2013-02-17,14:00,SSC Napoli,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2013-02-17,14:00,Genoa CFC,Udinese Calcio,1,0,H,1.0,0.0,H
+ITA,2013-02-17,19:45,ACF Fiorentina,Inter,4,1,H,2.0,0.0,H
+ITA,2013-02-18,19:45,AC Siena,Lazio Roma,3,0,H,2.0,0.0,H
+ITA,2013-02-23,19:45,US Palermo,Genoa CFC,0,0,D,0.0,0.0,D
+ITA,2013-02-24,11:30,Sampdoria,Chievo Verona,2,0,H,1.0,0.0,H
+ITA,2013-02-24,14:00,Parma FC,Calcio Catania,1,2,A,0.0,2.0,A
+ITA,2013-02-24,14:00,Atalanta,AS Roma,2,3,A,2.0,2.0,D
+ITA,2013-02-24,14:00,Juventus,AC Siena,3,0,H,1.0,0.0,H
+ITA,2013-02-24,14:00,Cagliari Calcio,Torino FC,4,3,H,1.0,0.0,H
+ITA,2013-02-24,19:45,Inter,AC Milan,1,1,D,0.0,1.0,A
+ITA,2013-02-25,18:00,Udinese Calcio,SSC Napoli,0,0,D,0.0,0.0,D
+ITA,2013-02-25,20:00,Lazio Roma,Pescara Calcio,2,0,H,2.0,0.0,H
+ITA,2013-02-26,19:00,Bologna FC,ACF Fiorentina,2,1,H,0.0,1.0,A
+ITA,2013-03-01,19:45,SSC Napoli,Juventus,1,1,D,1.0,1.0,D
+ITA,2013-03-02,19:45,AC Milan,Lazio Roma,3,0,H,2.0,0.0,H
+ITA,2013-03-03,11:30,Torino FC,US Palermo,0,0,D,0.0,0.0,D
+ITA,2013-03-03,14:00,AC Siena,Atalanta,0,2,A,0.0,1.0,A
+ITA,2013-03-03,14:00,Bologna FC,Cagliari Calcio,3,0,H,2.0,0.0,H
+ITA,2013-03-03,14:00,ACF Fiorentina,Chievo Verona,2,1,H,1.0,1.0,D
+ITA,2013-03-03,14:00,Calcio Catania,Inter,2,3,A,2.0,0.0,H
+ITA,2013-03-03,14:00,Sampdoria,Parma FC,1,0,H,0.0,0.0,D
+ITA,2013-03-03,14:00,Pescara Calcio,Udinese Calcio,0,1,A,0.0,1.0,A
+ITA,2013-03-03,19:45,AS Roma,Genoa CFC,3,1,H,1.0,1.0,D
+ITA,2013-03-08,19:45,Genoa CFC,AC Milan,0,2,A,0.0,1.0,A
+ITA,2013-03-09,19:45,Udinese Calcio,AS Roma,1,1,D,0.0,1.0,A
+ITA,2013-03-10,11:30,Atalanta,Pescara Calcio,2,1,H,1.0,1.0,D
+ITA,2013-03-10,14:00,Juventus,Calcio Catania,1,0,H,0.0,0.0,D
+ITA,2013-03-10,14:00,Chievo Verona,SSC Napoli,2,0,H,2.0,0.0,H
+ITA,2013-03-10,14:00,Cagliari Calcio,Sampdoria,3,1,H,1.0,0.0,H
+ITA,2013-03-10,14:00,US Palermo,AC Siena,1,2,A,1.0,0.0,H
+ITA,2013-03-10,14:00,Parma FC,Torino FC,4,1,H,0.0,0.0,D
+ITA,2013-03-10,19:45,Inter,Bologna FC,0,1,A,0.0,0.0,D
+ITA,2013-03-10,19:45,Lazio Roma,ACF Fiorentina,0,2,A,0.0,1.0,A
+ITA,2013-03-16,17:00,Calcio Catania,Udinese Calcio,3,1,H,0.0,0.0,D
+ITA,2013-03-16,19:45,Bologna FC,Juventus,0,2,A,0.0,0.0,D
+ITA,2013-03-17,11:30,AC Siena,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,2013-03-17,14:00,SSC Napoli,Atalanta,3,2,H,1.0,1.0,D
+ITA,2013-03-17,14:00,Pescara Calcio,Chievo Verona,0,2,A,0.0,0.0,D
+ITA,2013-03-17,14:00,ACF Fiorentina,Genoa CFC,3,2,H,1.0,0.0,H
+ITA,2013-03-17,14:00,AC Milan,US Palermo,2,0,H,1.0,0.0,H
+ITA,2013-03-17,19:45,Torino FC,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,2013-03-17,19:45,AS Roma,Parma FC,2,0,H,1.0,0.0,H
+ITA,2013-03-30,14:00,Udinese Calcio,Bologna FC,0,0,D,0.0,0.0,D
+ITA,2013-03-30,14:00,Lazio Roma,Calcio Catania,2,1,H,0.0,0.0,D
+ITA,2013-03-30,14:00,Cagliari Calcio,ACF Fiorentina,2,1,H,2.0,0.0,H
+ITA,2013-03-30,14:00,Inter,Juventus,1,2,A,0.0,1.0,A
+ITA,2013-03-30,14:00,Parma FC,Pescara Calcio,3,0,H,1.0,0.0,H
+ITA,2013-03-30,14:00,US Palermo,AS Roma,2,0,H,2.0,0.0,H
+ITA,2013-03-30,14:00,Atalanta,Sampdoria,0,0,D,0.0,0.0,D
+ITA,2013-03-30,14:00,Genoa CFC,AC Siena,2,2,D,1.0,1.0,D
+ITA,2013-03-30,17:30,Chievo Verona,AC Milan,0,1,A,0.0,1.0,A
+ITA,2013-03-30,20:00,Torino FC,SSC Napoli,3,5,A,1.0,1.0,D
+ITA,2013-04-03,17:30,Sampdoria,Inter,0,2,A,0.0,1.0,A
+ITA,2013-04-06,17:00,Juventus,Pescara Calcio,2,1,H,0.0,0.0,D
+ITA,2013-04-06,19:45,Bologna FC,Torino FC,2,2,D,0.0,1.0,A
+ITA,2013-04-07,11:30,ACF Fiorentina,AC Milan,2,2,D,0.0,1.0,A
+ITA,2013-04-07,14:00,Calcio Catania,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,2013-04-07,14:00,Udinese Calcio,Chievo Verona,3,1,H,2.0,1.0,H
+ITA,2013-04-07,14:00,Sampdoria,US Palermo,1,3,A,1.0,1.0,D
+ITA,2013-04-07,14:00,AC Siena,Parma FC,0,0,D,0.0,0.0,D
+ITA,2013-04-07,19:45,Inter,Atalanta,3,4,A,1.0,0.0,H
+ITA,2013-04-07,19:45,SSC Napoli,Genoa CFC,2,0,H,2.0,0.0,H
+ITA,2013-04-08,19:45,AS Roma,Lazio Roma,1,1,D,0.0,1.0,A
+ITA,2013-04-13,17:00,Pescara Calcio,AC Siena,2,3,A,0.0,2.0,A
+ITA,2013-04-13,19:45,Atalanta,ACF Fiorentina,0,2,A,0.0,0.0,D
+ITA,2013-04-14,11:30,US Palermo,Bologna FC,1,1,D,1.0,1.0,D
+ITA,2013-04-14,14:00,Chievo Verona,Calcio Catania,0,0,D,0.0,0.0,D
+ITA,2013-04-14,14:00,Cagliari Calcio,Inter,2,0,H,0.0,0.0,D
+ITA,2013-04-14,14:00,Torino FC,AS Roma,1,2,A,1.0,1.0,D
+ITA,2013-04-14,14:00,Genoa CFC,Sampdoria,1,1,D,0.0,1.0,A
+ITA,2013-04-14,14:00,Parma FC,Udinese Calcio,0,3,A,0.0,2.0,A
+ITA,2013-04-14,19:45,AC Milan,SSC Napoli,1,1,D,1.0,1.0,D
+ITA,2013-04-15,19:45,Lazio Roma,Juventus,0,2,A,0.0,2.0,A
+ITA,2013-04-20,17:00,Genoa CFC,Atalanta,1,1,D,1.0,1.0,D
+ITA,2013-04-20,19:45,Udinese Calcio,Lazio Roma,1,0,H,1.0,0.0,H
+ITA,2013-04-21,11:30,Inter,Parma FC,1,0,H,0.0,0.0,D
+ITA,2013-04-21,14:00,SSC Napoli,Cagliari Calcio,3,2,H,0.0,1.0,A
+ITA,2013-04-21,14:00,AC Siena,Chievo Verona,0,1,A,0.0,1.0,A
+ITA,2013-04-21,14:00,Calcio Catania,US Palermo,1,1,D,0.0,0.0,D
+ITA,2013-04-21,14:00,AS Roma,Pescara Calcio,1,1,D,0.0,1.0,A
+ITA,2013-04-21,14:00,Bologna FC,Sampdoria,1,1,D,1.0,0.0,H
+ITA,2013-04-21,14:00,ACF Fiorentina,Torino FC,4,3,H,3.0,1.0,H
+ITA,2013-04-21,19:45,Juventus,AC Milan,1,0,H,0.0,0.0,D
+ITA,2013-04-27,17:00,Atalanta,Bologna FC,1,1,D,0.0,0.0,D
+ITA,2013-04-27,17:00,Cagliari Calcio,Udinese Calcio,0,1,A,0.0,0.0,D
+ITA,2013-04-27,19:45,Pescara Calcio,SSC Napoli,0,3,A,0.0,0.0,D
+ITA,2013-04-28,14:00,Sampdoria,ACF Fiorentina,0,3,A,0.0,2.0,A
+ITA,2013-04-28,14:00,Chievo Verona,Genoa CFC,0,1,A,0.0,0.0,D
+ITA,2013-04-28,14:00,US Palermo,Inter,1,0,H,1.0,0.0,H
+ITA,2013-04-28,14:00,Torino FC,Juventus,0,2,A,0.0,0.0,D
+ITA,2013-04-28,14:00,Parma FC,Lazio Roma,0,0,D,0.0,0.0,D
+ITA,2013-04-28,14:00,AS Roma,AC Siena,4,0,H,3.0,0.0,H
+ITA,2013-04-28,19:45,AC Milan,Calcio Catania,4,2,H,1.0,1.0,D
+ITA,2013-05-04,17:00,Chievo Verona,Cagliari Calcio,0,0,D,0.0,0.0,D
+ITA,2013-05-04,19:45,ACF Fiorentina,AS Roma,0,1,A,0.0,0.0,D
+ITA,2013-05-05,11:30,Udinese Calcio,Sampdoria,3,1,H,1.0,1.0,D
+ITA,2013-05-05,14:00,Parma FC,Atalanta,2,0,H,1.0,0.0,H
+ITA,2013-05-05,14:00,Lazio Roma,Bologna FC,6,0,H,4.0,0.0,H
+ITA,2013-05-05,14:00,Juventus,US Palermo,1,0,H,0.0,0.0,D
+ITA,2013-05-05,14:00,Genoa CFC,Pescara Calcio,4,1,H,2.0,1.0,H
+ITA,2013-05-05,14:00,Calcio Catania,AC Siena,3,0,H,1.0,0.0,H
+ITA,2013-05-05,14:00,AC Milan,Torino FC,1,0,H,0.0,0.0,D
+ITA,2013-05-05,19:45,SSC Napoli,Inter,3,1,H,2.0,1.0,H
+ITA,2013-05-07,19:45,AS Roma,Chievo Verona,0,1,A,0.0,0.0,D
+ITA,2013-05-08,17:00,Pescara Calcio,AC Milan,0,4,A,0.0,2.0,A
+ITA,2013-05-08,19:45,Sampdoria,Calcio Catania,1,1,D,1.0,0.0,H
+ITA,2013-05-08,19:45,AC Siena,ACF Fiorentina,0,1,A,0.0,1.0,A
+ITA,2013-05-08,19:45,Torino FC,Genoa CFC,0,0,D,0.0,0.0,D
+ITA,2013-05-08,19:45,Atalanta,Juventus,0,1,A,0.0,1.0,A
+ITA,2013-05-08,19:45,Inter,Lazio Roma,1,3,A,1.0,2.0,A
+ITA,2013-05-08,19:45,Bologna FC,SSC Napoli,0,3,A,0.0,0.0,D
+ITA,2013-05-08,19:45,Cagliari Calcio,Parma FC,0,1,A,0.0,0.0,D
+ITA,2013-05-08,19:45,US Palermo,Udinese Calcio,2,3,A,1.0,1.0,D
+ITA,2013-05-11,17:00,Juventus,Cagliari Calcio,1,1,D,0.0,1.0,A
+ITA,2013-05-11,19:45,Calcio Catania,Pescara Calcio,1,0,H,0.0,0.0,D
+ITA,2013-05-12,11:30,Genoa CFC,Inter,0,0,D,0.0,0.0,D
+ITA,2013-05-12,11:30,ACF Fiorentina,US Palermo,1,0,H,1.0,0.0,H
+ITA,2013-05-12,11:30,Chievo Verona,Torino FC,1,1,D,1.0,1.0,D
+ITA,2013-05-12,14:00,Udinese Calcio,Atalanta,2,1,H,1.0,1.0,D
+ITA,2013-05-12,14:00,Lazio Roma,Sampdoria,2,0,H,1.0,0.0,H
+ITA,2013-05-12,14:00,SSC Napoli,AC Siena,2,1,H,0.0,1.0,A
+ITA,2013-05-12,17:00,Parma FC,Bologna FC,0,2,A,0.0,1.0,A
+ITA,2013-05-12,19:45,AC Milan,AS Roma,0,0,D,0.0,0.0,D
+ITA,2013-05-18,19:45,Sampdoria,Juventus,3,2,H,1.0,1.0,D
+ITA,2013-05-19,14:00,Atalanta,Chievo Verona,2,2,D,1.0,0.0,H
+ITA,2013-05-19,14:00,Bologna FC,Genoa CFC,0,0,D,0.0,0.0,D
+ITA,2013-05-19,19:45,Torino FC,Calcio Catania,2,2,D,0.0,1.0,A
+ITA,2013-05-19,19:45,Pescara Calcio,ACF Fiorentina,1,5,A,0.0,3.0,A
+ITA,2013-05-19,19:45,Cagliari Calcio,Lazio Roma,1,0,H,0.0,0.0,D
+ITA,2013-05-19,19:45,AC Siena,AC Milan,1,2,A,1.0,0.0,H
+ITA,2013-05-19,19:45,AS Roma,SSC Napoli,2,1,H,0.0,0.0,D
+ITA,2013-05-19,19:45,US Palermo,Parma FC,1,3,A,0.0,3.0,A
+ITA,2013-05-19,19:45,Inter,Udinese Calcio,2,5,A,1.0,3.0,A
