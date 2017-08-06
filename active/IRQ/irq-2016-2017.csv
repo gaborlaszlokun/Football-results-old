@@ -282,8 +282,8 @@ IRQ,2017-06-18,16:00,Al Zawraa,Al Quwa Al Jawiya,1,1,D,NaN,NaN,NaN
 IRQ,2017-06-20,20:00,Al Minaa,Naft Al Wasat,1,0,H,NaN,NaN,NaN
 IRQ,2017-06-22,20:00,Al Quwa Al Jawiya,Al Talaba,2,1,H,NaN,NaN,NaN
 IRQ,2017-06-22,20:00,Al Najaf,Al Zawraa,0,1,A,NaN,NaN,NaN
-IRQ,2017-06-28,20:00,Al Shorta,Naft Al Wasat,2,1,H,NaN,NaN,NaN
 IRQ,2017-06-28,20:00,Al Quwa Al Jawiya,Karbalaa FC,3,1,H,NaN,NaN,NaN
+IRQ,2017-06-28,20:00,Al Shorta,Naft Al Wasat,2,1,H,NaN,NaN,NaN
 IRQ,2017-07-01,15:00,Al Bahri,Al Zawraa,2,3,A,1,2,A
 IRQ,2017-07-01,16:45,Karbalaa FC,Al Minaa,1,0,H,1,0,H
 IRQ,2017-07-02,15:00,Naft Al Wasat,Al Hussein,3,0,H,NaN,NaN,NaN
@@ -315,3 +315,14 @@ IRQ,2017-07-28,14:45,Al Najaf,Al Talaba,2,3,A,0,1,A
 IRQ,2017-07-28,14:45,Baghdad FC,Al Shorta,0,1,A,0,1,A
 IRQ,2017-07-29,14:45,Karbalaa FC,Al Naft,1,1,D,NaN,NaN,NaN
 IRQ,2017-07-29,14:45,Al Quwa Al Jawiya,Al Semawah,3,2,H,NaN,NaN,NaN
+IRQ,2017-07-30,14:45,Naft Al Janoob,Al Hussein,3,0,H,0,0,D
+IRQ,2017-08-01,14:45,Al Najaf,Al Minaa,2,3,A,1,2,A
+IRQ,2017-08-01,14:45,Al Hedood,Al Kahraba,1,2,A,1,1,D
+IRQ,2017-08-01,16:00,Al Talaba,Zakho,4,1,H,NaN,NaN,NaN
+IRQ,2017-08-02,14:45,Al Hussein,Baghdad FC,1,1,D,1,0,H
+IRQ,2017-08-02,14:45,Al Quwa Al Jawiya,Naft Maysan,2,1,H,0,0,D
+IRQ,2017-08-02,14:45,Naft Al Janoob,Al Bahri,0,1,A,0,0,D
+IRQ,2017-08-02,14:45,Al Semawah,Karbalaa FC,2,2,D,2,0,H
+IRQ,2017-08-02,16:00,Al Zawraa,Al Karkh SC,4,1,H,2,1,H
+IRQ,2017-08-05,14:45,Al Talaba,Al Minaa,0,1,A,NaN,NaN,NaN
+IRQ,2017-08-05,14:45,Al Kahraba,Zakho,0,0,D,NaN,NaN,NaN

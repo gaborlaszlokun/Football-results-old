@@ -32,11 +32,13 @@ CHN,2017-04-08,12:35,Hebei China Fortune FC,Shanghai Greenland,4,2,H,3,1,H
 CHN,2017-04-09,08:00,Changchun Yatai,Liáoníng Hóngyùn,1,1,D,0,0,D
 CHN,2017-04-09,12:35,Tianjin Quanjian FC,Yanbian FC,1,0,H,0,0,D
 CHN,2017-04-14,12:35,Chongqing Lifan,Guizhou Zhicheng,2,1,H,1,0,H
+CHN,2017-04-15,08:00,Changchun Yatai,Shanghai Greenland,2,3,A,1,1,D
 CHN,2017-04-15,12:35,Henan Jianye,Jiāngsū Sūníng,1,1,D,1,0,H
 CHN,2017-04-15,12:35,Tianjin Quanjian FC,Shanghai SIPG,1,1,D,0,1,A
 CHN,2017-04-15,12:35,Shandong Luneng,Beijing Guoan,1,0,H,1,0,H
 CHN,2017-04-16,08:30,Yanbian FC,Hebei China Fortune FC,1,1,D,0,0,D
 CHN,2017-04-16,12:35,Tianjin Teda,Guangzhou Evergrande,0,3,A,0,1,A
+CHN,2017-04-17,08:30,Liáoníng Hóngyùn,Guangzhou R&F;,1,4,A,1,1,D
 CHN,2017-04-21,12:35,Beijing Guoan,Tianjin Quanjian FC,1,1,D,0,1,A
 CHN,2017-04-21,12:35,Guangzhou Evergrande,Liáoníng Hóngyùn,2,1,H,0,0,D
 CHN,2017-04-21,12:35,Shanghai SIPG,Hebei China Fortune FC,3,0,H,2,0,H
@@ -147,3 +149,9 @@ CHN,2017-07-29,12:35,Guangzhou R&F;,Guangzhou Evergrande,4,2,H,1,0,H
 CHN,2017-07-29,12:35,Shanghai Greenland,Hebei China Fortune FC,3,2,H,0,2,A
 CHN,2017-07-30,12:35,Liáoníng Hóngyùn,Changchun Yatai,1,0,H,0,0,D
 CHN,2017-07-30,12:35,Shandong Luneng,Shanghai SIPG,2,1,H,0,1,A
+CHN,2017-08-05,12:35,Shanghai Greenland,Changchun Yatai,1,1,D,0,1,A
+CHN,2017-08-05,12:35,Jiāngsū Sūníng,Henan Jianye,2,2,D,1,1,D
+CHN,2017-08-05,12:35,Guangzhou Evergrande,Tianjin Teda,3,0,H,0,0,D
+CHN,2017-08-05,12:35,Hebei China Fortune FC,Yanbian FC,3,0,H,1,0,H
+CHN,2017-08-05,12:35,Guizhou Zhicheng,Chongqing Lifan,1,0,H,1,0,H
+CHN,2017-08-05,12:35,Beijing Guoan,Shandong Luneng,2,2,D,2,2,D
