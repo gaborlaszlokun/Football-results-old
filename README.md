@@ -16,14 +16,12 @@
 
 #### 61 countries from the present
 
-#### 70 countries from the past:
+#### 67 countries from the past (cleaned and merged):
 
 |Country|Number of seasons|
-| ------------- | ------------- |
+| -------------| -------------:|
 |ALB|20|
 |ALG|11|
-|AND|0|
-|ARG|0|
 |ARM|14|
 |AUT|43|
 |AZE|14|
@@ -86,7 +84,6 @@
 |TUR|59|
 |UAE|11|
 |UKR|26|
-|URS|0|
 |USA|21|
 |UZB|8|
 |VIE|10|
