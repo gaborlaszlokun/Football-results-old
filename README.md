@@ -1,6 +1,6 @@
 # Football-results
 
-Main attributes:
+## Main attributes:
 
 - Division
 - Date
@@ -14,7 +14,7 @@ Main attributes:
 - HalfTime Away Goals
 - HalfTime Result
 
-108 Countires:
+#### 108 Countires:
 
 - Albania
 - Algeria
@@ -52,6 +52,4 @@ Main attributes:
 - Ukraine
 -....
 
-Used source:
-
-- http://www.worldfootball.net/
+[Used source](http://www.worldfootball.net/)
