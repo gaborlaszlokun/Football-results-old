@@ -16,7 +16,7 @@
 
 #### 61 countries from the present
 
-#### 71 countries from the past:
+#### 70 countries from the past:
 
 - ALB
 - ALG

@@ -151,7 +151,7 @@ countries = ""
 for folder in os.listdir("archive"):
     if "_" not in folder:
         countries += "- " + folder + "\n"
-text += "#### " + str(len(os.listdir("archive"))) + " countries from the past:\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
+text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past:\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
 
 p = 0
 
