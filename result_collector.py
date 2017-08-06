@@ -131,25 +131,19 @@ def get_results(url, where):
         result_df['Date'] =pd.to_datetime(result_df['Date'], dayfirst = [True])
         result_df = result_df.sort_values(['Date', 'Time'], ascending=[True, True])
         result_df.to_csv(filename, sep=',', encoding='utf-8', index=False)
-    
-def sort_links(links):
-    active = ""
-    archive = ""
-    for link in links:
-        usock = urllib2.urlopen(link)
-        data = usock.read()
-        usock.close()
-        if "-:-" in data:
-            active += link + "\n"
-        else:
-            archive += link + "\n"
-        print link
-    text = open("active_links.txt", "w")
-    text.write(active)
-    text.close()
-    text = open("archive_links.txt", "w")
-    text.write(archive)
-    text.close()
+
+def sort_archive_by_date():
+    for folder in os.listdir("archive"):
+        for file in os.listdir("archive/" + str(folder)):
+            filename = "archive/" + str(folder) + "/" + str(file)
+            if ".csv" in filename:
+                results = pd.read_csv(filename)
+                old_results = results
+                results['Date'] =pd.to_datetime(results['Date'], dayfirst = [True])
+                results = results.sort_values(['Date', 'Time'], ascending=[True, True])
+                if results.equals(old_results) == False:
+                    results.to_csv(filename, sep=',', encoding='utf-8', index=False)
+                    print filename
             
 """
 def get_results(url, where):
