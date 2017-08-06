@@ -7,7 +7,6 @@ Created on Sun May 21 12:04:43 2017
 
 import urllib2
 import bs4
-from django.utils.encoding import smart_str
 import os
 import pandas as pd
 
@@ -144,58 +143,19 @@ def sort_archive_by_date():
                 if results.equals(old_results) == False:
                     results.to_csv(filename, sep=',', encoding='utf-8', index=False)
                     print filename
-            
-"""
-def get_results(url, where):
-    
-    filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
-    country_short = (filename.split("-")[0]).upper()
-    country_short = country_short.replace("BUNDESLIGA","GER")
-    filename = format_filename(filename)
-    
-    path = where + "/" + country_short
-    filename = path + "/" + filename + ".csv"
-    full_results = "Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR\n"
-    usock = urllib2.urlopen(url)
-    data = usock.read()
-    usock.close()     
-    soup = bs4.BeautifulSoup(data,"html.parser")
-    
-    table= soup.findAll('table', { "class" : "standard_tabelle" })
-    
-    soup = bs4.BeautifulSoup(str(table[0]),"html.parser")
-    tr =  soup.findAll('tr')
-    
-    temptime = ""
-    for i in tr:
-        soup = bs4.BeautifulSoup(str(i),"html.parser")
-        try:
-            td = table= soup.findAll('td')
-            res = str(td[5].getText())
-            soup = bs4.BeautifulSoup(str(td[6]),"html.parser")
-            img = soup.findAll('img')
-            if "-" not in res and len(img) == 0:
-                result = ""
-                for char in res:
-                    if char.isdigit() or char == ":" or char == ",":
-                        result += char
-                    elif char == "(":
-                        result += "|"
-                if "/" in str(td[0].getText()):
-                    date = td[0].getText()
-                    temptime = date
-                else:
-                    date = temptime
-                if result != "":
-                    result = format_result(result)
-                    line = country_short + "," + date + "," +  td[1].getText() + "," + td[2].getText() + "," + td[4].getText() +"," + result
-                    full_results += smart_str(line)
-        except:
-            None
-        if full_results != "Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR\n":
-            if not os.path.exists(path):
-                os.makedirs(path)
-            text = open(filename, "w")
-            text.write(full_results)
-            text.close()
-"""
+
+#def generate_readme():
+text = "# Football-results\n\n## Main attributes:\n\n- Division\n- Date\n- Time\n- Home Team\n- Away Team\n- FullTime Home Goals\n- FullTime Away Goals\n- FullTime Result\n- HalfTime Home Goals\n- HalfTime Away Goals\n- HalfTime Result\n\n"
+text += "#### " + str(len(os.listdir("active"))) + " countries from the present\n\n"
+countries = ""
+for folder in os.listdir("archive"):
+    if "_" not in folder:
+        countries += "- " + folder + "\n"
+text += "#### " + str(len(os.listdir("archive"))) + " countries from the past:\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
+
+p = 0
+
+print text
+t = open("README.md", "w")  
+t.write(text)
+t.close()

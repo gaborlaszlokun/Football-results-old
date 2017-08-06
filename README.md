@@ -1,7 +1,6 @@
 # Football-results
-Football results
 
-Main attributes:
+## Main attributes:
 
 - Division
 - Date
@@ -15,44 +14,79 @@ Main attributes:
 - HalfTime Away Goals
 - HalfTime Result
 
-108 Countires:
+#### 61 countries from the present
 
-- Albania
-- Algeria
-- Andorra
-- Argentina
-- Armenia
-- Australia
-- Austria
-- Belgium
-- Croatia
-- Czech Rep.
-- Germany, Bundesliga 1.
-- Germany, Bundesliga 2.
-- England, Premier League
-- England, Championship
-- France, Ligue 1.
-- France, Ligue 2.
-- Greece
-- Hungary, NB1
-- Hungary, NB2
-- Italy, Serie A
-- Italy, Serie B
-- Netherlands, Eredivisie
-- Poland
-- Portugal
-- Romania
-- Russia, Premjer Liga
-- Scotland
-- Scotland
-- Slovakia
-- Spain, Primera Division
-- Spain, Segunda Division
-- Sweden
-- Turkey
-- Ukraine
--....
+#### 71 countries from the past:
 
-Used source:
+- ALB
+- ALG
+- AND
+- ARG
+- ARM
+- AUT
+- AZE
+- BHR
+- BIH
+- BLR
+- BRA
+- CAN
+- CHN
+- CZE
+- DEN
+- EGY
+- ENG
+- ESP
+- EST
+- FIN
+- FRA
+- FRO
+- GDR
+- GER
+- GHA
+- GIB
+- HKG
+- HUN
+- IDN
+- IND
+- IRL
+- IRN
+- IRQ
+- ISL
+- ITA
+- JPN
+- KOS
+- KSA
+- KUW
+- LBY
+- LIE
+- MAR
+- MAS
+- MDA
+- MKD
+- MNE
+- NED
+- NGA
+- NOR
+- NZL
+- POR
+- QAT
+- ROU
+- RSA
+- RUS
+- SIN
+- SRB
+- SUD
+- SVK
+- SVN
+- SWE
+- THA
+- TUN
+- TUR
+- UAE
+- UKR
+- URS
+- USA
+- UZB
+- VIE
 
-- http://www.worldfootball.net/
+[Used source](http://www.worldfootball.net/)

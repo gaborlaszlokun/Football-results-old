@@ -7,7 +7,9 @@ Created on Wed Jun 21 16:11:57 2017
 
 import pandas as pd
 
+assert 4 == 4
 
+"""
 offset = 5
 
 filename = "tests/usa-2016.csv"
@@ -34,13 +36,14 @@ for team in teams:
     for bet in betweens:
         bet_lens.append(len(bet))
     print max(bet_lens)
-    """
+
     for j in range(offset,len(team_string)):
         block = team_string[j-offset:j]
         print block, team_string[j]
         if "D" not in block:
             block_letters += team_string[j]
     print 
-    """
     
 #print len(block_letters), block_letters.count("D")
+    
+"""
