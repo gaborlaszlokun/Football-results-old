@@ -1,5 +1,4 @@
 # Football-results
-Football results
 
 Main attributes:
 
