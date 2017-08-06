@@ -150,7 +150,7 @@ text += "#### " + str(len(os.listdir("active"))) + " countries from the present\
 countries = "|Country|Number of seasons|\n| -------------| -------------:|\n"
 for folder in os.listdir("archive"):
     if "_" not in folder:
-        countries += "|" + folder + "|" + str(len(os.listdir("archive/" + str(folder)))) + "|\n" 
+        countries += "|" + "[" + folder + "](..tree/master/archive/"+ folder + ")|" + str(len(os.listdir("archive/" + str(folder)))) + "|\n" 
         
 text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past (cleaned and merged):\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
 
