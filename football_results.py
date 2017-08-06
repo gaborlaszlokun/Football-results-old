@@ -18,8 +18,8 @@ from time import gmtime, strftime
 #        now = datetime.datetime.now()
 #        if now.hour == 0 and now.minute < 30:
 
-sort_archive_by_date()
-sort_links()
+#sort_archive_by_date()
+#sort_links()
 
 t = open("active_links.txt", "r") 
 links = t.read()
@@ -36,7 +36,7 @@ for link in links:
 
 get_active_stats()
 
-#generate_readme()
+generate_readme()
 
 #        print "Checked at:", strftime("%H:%M:%S", gmtime())  
 #        time.sleep(600)

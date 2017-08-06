@@ -14,9 +14,9 @@
 - HalfTime Away Goals
 - HalfTime Result
 
-#### 61 countries from the present
+#### 62 countries from the present
 
-#### 67 countries from the past (cleaned and merged):
+#### 79 countries from the past (cleaned and merged):
 
 
 |Country|Number of seasons|
@@ -24,14 +24,17 @@
 |[ALB](/archive/ALB)|20|
 |[ALG](/archive/ALG)|11|
 |[ARM](/archive/ARM)|14|
+|[AUS](/archive/AUS)|40|
 |[AUT](/archive/AUT)|43|
 |[AZE](/archive/AZE)|14|
 |[BHR](/archive/BHR)|7|
 |[BIH](/archive/BIH)|15|
 |[BLR](/archive/BLR)|26|
 |[BRA](/archive/BRA)|22|
+|[BUL](/archive/BUL)|14|
 |[CAN](/archive/CAN)|10|
 |[CHN](/archive/CHN)|23|
+|[CRO](/archive/CRO)|26|
 |[CZE](/archive/CZE)|24|
 |[DEN](/archive/DEN)|27|
 |[EGY](/archive/EGY)|11|
@@ -45,21 +48,28 @@
 |[GER](/archive/GER)|54|
 |[GHA](/archive/GHA)|10|
 |[GIB](/archive/GIB)|4|
+|[GRE](/archive/GRE)|23|
 |[HKG](/archive/HKG)|11|
 |[HUN](/archive/HUN)|115|
 |[IDN](/archive/IDN)|8|
 |[IND](/archive/IND)|21|
 |[IRL](/archive/IRL)|14|
 |[IRN](/archive/IRN)|11|
-|[IRQ](/archive/IRQ)|8|
+|[IRQ](/archive/IRQ)|9|
 |[ISL](/archive/ISL)|14|
 |[ITA](/archive/ITA)|86|
+|[JAM](/archive/JAM)|11|
 |[JPN](/archive/JPN)|13|
+|[KAZ](/archive/KAZ)|14|
+|[KOR](/archive/KOR)|13|
 |[KOS](/archive/KOS)|1|
 |[KSA](/archive/KSA)|11|
 |[KUW](/archive/KUW)|5|
+|[LAT](/archive/LAT)|21|
 |[LBY](/archive/LBY)|5|
 |[LIE](/archive/LIE)|9|
+|[LTU](/archive/LTU)|15|
+|[LUX](/archive/LUX)|14|
 |[MAR](/archive/MAR)|11|
 |[MAS](/archive/MAS)|10|
 |[MDA](/archive/MDA)|15|
@@ -69,6 +79,7 @@
 |[NGA](/archive/NGA)|10|
 |[NOR](/archive/NOR)|68|
 |[NZL](/archive/NZL)|11|
+|[POL](/archive/POL)|47|
 |[POR](/archive/POR)|62|
 |[QAT](/archive/QAT)|9|
 |[ROU](/archive/ROU)|70|
@@ -80,6 +91,7 @@
 |[SVK](/archive/SVK)|14|
 |[SVN](/archive/SVN)|14|
 |[SWE](/archive/SWE)|92|
+|[SYR](/archive/SYR)|9|
 |[THA](/archive/THA)|10|
 |[TUN](/archive/TUN)|11|
 |[TUR](/archive/TUR)|59|
