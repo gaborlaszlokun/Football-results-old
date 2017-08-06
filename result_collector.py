@@ -144,18 +144,18 @@ def sort_archive_by_date():
                     results.to_csv(filename, sep=',', encoding='utf-8', index=False)
                     print filename
 
-#def generate_readme():
-text = "# Football-results\n\n## Main attributes:\n\n- Division\n- Date\n- Time\n- Home Team\n- Away Team\n- FullTime Home Goals\n- FullTime Away Goals\n- FullTime Result\n- HalfTime Home Goals\n- HalfTime Away Goals\n- HalfTime Result\n\n"
-text += "#### " + str(len(os.listdir("active"))) + " countries from the present\n\n"
-countries = "|Country|Number of seasons|\n| -------------| -------------:|\n"
-for folder in os.listdir("archive"):
-    if "_" not in folder:
-        countries += "|" + "[" + folder + "](/archive/"+ folder + ")|" + str(len(os.listdir("archive/" + str(folder)))) + "|\n" 
-        
-text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past (cleaned and merged):\n\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
-
-print text
-
-t = open("README.md", "w")  
-t.write(text)
-t.close()
+def generate_readme():
+    text = "# Football-results\n\n## Main attributes:\n\n- Division\n- Date\n- Time\n- Home Team\n- Away Team\n- FullTime Home Goals\n- FullTime Away Goals\n- FullTime Result\n- HalfTime Home Goals\n- HalfTime Away Goals\n- HalfTime Result\n\n"
+    text += "#### " + str(len(os.listdir("active"))) + " countries from the present\n\n"
+    countries = "|Country|Number of seasons|\n| -------------| -------------:|\n"
+    for folder in os.listdir("archive"):
+        if "_" not in folder:
+            countries += "|" + "[" + folder + "](/archive/"+ folder + ")|" + str(len(os.listdir("archive/" + str(folder)))) + "|\n" 
+            
+    text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past (cleaned and merged):\n\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
+    
+    print text
+    
+    t = open("README.md", "w")  
+    t.write(text)
+    t.close()
