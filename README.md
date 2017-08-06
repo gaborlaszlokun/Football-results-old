@@ -20,7 +20,7 @@
 
 |Country|Number of seasons|
 | -------------| -------------:|
-|[ALB](..tree/master/archive/ALB)|20|
+|[ALB](/archive/ALB)|20|
 |[ALG](..tree/master/archive/ALG)|11|
 |[ARM](..tree/master/archive/ARM)|14|
 |[AUT](..tree/master/archive/AUT)|43|
