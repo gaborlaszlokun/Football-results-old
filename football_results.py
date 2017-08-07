@@ -36,7 +36,7 @@ for link in links:
 
 get_active_stats()
 
-generate_readme()
+#generate_readme()
 
 #        print "Checked at:", strftime("%H:%M:%S", gmtime())  
 #        time.sleep(600)
