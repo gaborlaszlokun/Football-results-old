@@ -143,6 +143,7 @@ def sort_archive_by_date():
                 if results.equals(old_results) == False:
                     results.to_csv(filename, sep=',', encoding='utf-8', index=False)
                     print filename
+    generate_readme()
 
 def generate_readme():
     text = "# Football-results\n\n## Main attributes:\n\n- Division\n- Date\n- Time\n- Home Team\n- Away Team\n- FullTime Home Goals\n- FullTime Away Goals\n- FullTime Result\n- HalfTime Home Goals\n- HalfTime Away Goals\n- HalfTime Result\n\n"

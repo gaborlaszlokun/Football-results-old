@@ -1,0 +1,233 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+CRC,2011-07-31,18:00,Puntarenas FC,CS Herediano,1,1,D,,,
+CRC,2011-07-31,18:00,Municipal Pérez Zeledón,LD Alajuelense,1,3,A,,,
+CRC,2011-07-31,18:00,Orión FC,Limón FC,1,0,H,,,
+CRC,2011-07-31,23:15,AD San Carlos,CS Cartaginés,1,1,D,,,
+CRC,2011-08-01,00:00,Belén Bridgestone FC,Santos de Guápiles,3,0,H,,,
+CRC,2011-08-04,03:00,Municipal Pérez Zeledón,AD San Carlos,1,0,H,,,
+CRC,2011-08-04,04:00,Limón FC,Belén Bridgestone FC,2,1,H,,,
+CRC,2011-08-04,22:00,Orión FC,Puntarenas FC,0,0,D,,,
+CRC,2011-08-05,01:00,Santos de Guápiles,CS Cartaginés,1,1,D,,,
+CRC,2011-08-05,03:00,LD Alajuelense,Deportivo Saprissa,1,1,D,,,
+CRC,2011-08-07,18:00,Puntarenas FC,Municipal Pérez Zeledón,3,2,H,,,
+CRC,2011-08-07,18:00,Belén Bridgestone FC,LD Alajuelense,1,2,A,,,
+CRC,2011-08-07,18:00,Deportivo Saprissa,Limón FC,0,1,A,,,
+CRC,2011-08-07,23:00,AD San Carlos,Orión FC,2,2,D,,,
+CRC,2011-08-10,03:00,CS Herediano,Santos de Guápiles,1,0,H,,,
+CRC,2011-08-14,00:00,Limón FC,Santos de Guápiles,0,2,A,,,
+CRC,2011-08-14,18:00,Puntarenas FC,LD Alajuelense,1,3,A,,,
+CRC,2011-08-14,18:00,CS Cartaginés,Municipal Pérez Zeledón,2,2,D,,,
+CRC,2011-08-14,18:00,Orión FC,CS Herediano,0,1,A,,,
+CRC,2011-08-14,23:00,Deportivo Saprissa,Belén Bridgestone FC,0,0,D,,,
+CRC,2011-08-21,02:00,Santos de Guápiles,Puntarenas FC,3,0,H,,,
+CRC,2011-08-21,03:00,LD Alajuelense,AD San Carlos,3,1,H,,,
+CRC,2011-08-21,03:00,CS Herediano,Municipal Pérez Zeledón,2,1,H,,,
+CRC,2011-08-21,18:00,CS Cartaginés,Deportivo Saprissa,2,1,H,,,
+CRC,2011-08-21,21:00,Belén Bridgestone FC,Orión FC,1,1,D,,,
+CRC,2011-08-25,03:00,Municipal Pérez Zeledón,Deportivo Saprissa,2,2,D,,,
+CRC,2011-08-25,03:00,AD San Carlos,Limón FC,2,1,H,,,
+CRC,2011-08-25,22:00,Orión FC,CS Cartaginés,0,0,D,,,
+CRC,2011-08-28,03:00,AD San Carlos,Santos de Guápiles,3,1,H,,,
+CRC,2011-08-28,18:00,Municipal Pérez Zeledón,Belén Bridgestone FC,0,1,A,,,
+CRC,2011-08-28,18:00,CS Cartaginés,CS Herediano,3,1,H,,,
+CRC,2011-08-28,23:00,Deportivo Saprissa,Orión FC,1,0,H,,,
+CRC,2011-08-28,23:30,Limón FC,Puntarenas FC,3,3,D,,,
+CRC,2011-08-31,03:00,LD Alajuelense,Santos de Guápiles,0,2,A,,,
+CRC,2011-09-01,03:00,CS Herediano,Belén Bridgestone FC,1,1,D,,,
+CRC,2011-09-04,18:00,Puntarenas FC,AD San Carlos,2,0,H,,,
+CRC,2011-09-04,18:00,Limón FC,LD Alajuelense,0,2,A,,,
+CRC,2011-09-04,18:00,Deportivo Saprissa,CS Herediano,1,0,H,,,
+CRC,2011-09-04,22:00,Orión FC,Municipal Pérez Zeledón,0,1,A,,,
+CRC,2011-09-04,22:00,Belén Bridgestone FC,CS Cartaginés,1,1,D,,,
+CRC,2011-09-08,03:00,Municipal Pérez Zeledón,Santos de Guápiles,2,1,H,1.0,1.0,D
+CRC,2011-09-08,03:00,Limón FC,CS Herediano,1,2,A,1.0,1.0,D
+CRC,2011-09-08,03:00,LD Alajuelense,CS Cartaginés,4,0,H,2.0,0.0,H
+CRC,2011-09-08,03:00,Deportivo Saprissa,Puntarenas FC,1,1,D,1.0,0.0,H
+CRC,2011-09-09,03:00,Belén Bridgestone FC,AD San Carlos,1,1,D,1.0,0.0,H
+CRC,2011-09-11,02:00,Santos de Guápiles,Orión FC,1,2,A,0.0,1.0,A
+CRC,2011-09-11,03:00,CS Herediano,LD Alajuelense,4,0,H,2.0,0.0,H
+CRC,2011-09-11,18:00,Puntarenas FC,Belén Bridgestone FC,3,0,H,0.0,0.0,D
+CRC,2011-09-11,18:00,CS Cartaginés,Limón FC,3,0,H,2.0,0.0,H
+CRC,2011-09-11,23:00,AD San Carlos,Deportivo Saprissa,1,4,A,0.0,2.0,A
+CRC,2011-09-18,03:00,CS Herediano,AD San Carlos,5,0,H,2.0,0.0,H
+CRC,2011-09-18,18:00,Orión FC,LD Alajuelense,1,1,D,1.0,1.0,D
+CRC,2011-09-18,18:00,CS Cartaginés,Puntarenas FC,3,0,H,2.0,0.0,H
+CRC,2011-09-18,22:30,Limón FC,Municipal Pérez Zeledón,1,0,H,0.0,0.0,D
+CRC,2011-09-18,23:00,Santos de Guápiles,Deportivo Saprissa,0,1,A,0.0,1.0,A
+CRC,2011-09-25,03:00,CS Herediano,Puntarenas FC,3,1,H,2.0,0.0,H
+CRC,2011-09-25,18:00,CS Cartaginés,AD San Carlos,0,0,D,0.0,0.0,D
+CRC,2011-09-25,18:00,LD Alajuelense,Municipal Pérez Zeledón,4,0,H,2.0,0.0,H
+CRC,2011-09-25,20:00,Limón FC,Orión FC,3,2,H,1.0,0.0,H
+CRC,2011-09-25,22:30,Santos de Guápiles,Belén Bridgestone FC,1,1,D,0.0,0.0,D
+CRC,2011-09-29,03:00,CS Cartaginés,Santos de Guápiles,1,1,D,0.0,1.0,A
+CRC,2011-09-29,03:00,Belén Bridgestone FC,Limón FC,3,1,H,1.0,0.0,H
+CRC,2011-09-29,03:00,Puntarenas FC,Orión FC,2,1,H,0.0,1.0,A
+CRC,2011-10-02,18:00,LD Alajuelense,Belén Bridgestone FC,1,0,H,1.0,0.0,H
+CRC,2011-10-02,18:00,Orión FC,AD San Carlos,1,0,H,0.0,0.0,D
+CRC,2011-10-02,18:00,Municipal Pérez Zeledón,Puntarenas FC,7,1,H,2.0,0.0,H
+CRC,2011-10-02,20:30,Limón FC,Deportivo Saprissa,0,2,A,0.0,1.0,A
+CRC,2011-10-02,22:00,Santos de Guápiles,CS Herediano,0,0,D,0.0,0.0,D
+CRC,2011-10-06,03:00,AD San Carlos,Municipal Pérez Zeledón,3,0,H,1.0,0.0,H
+CRC,2011-10-09,03:00,LD Alajuelense,Puntarenas FC,0,1,A,0.0,1.0,A
+CRC,2011-10-09,18:00,Belén Bridgestone FC,Deportivo Saprissa,1,1,D,0.0,0.0,D
+CRC,2011-10-09,18:00,CS Herediano,Orión FC,1,0,H,0.0,0.0,D
+CRC,2011-10-09,22:00,Santos de Guápiles,Limón FC,2,1,H,1.0,1.0,D
+CRC,2011-10-10,18:00,Municipal Pérez Zeledón,CS Cartaginés,0,0,D,0.0,0.0,D
+CRC,2011-10-16,03:00,AD San Carlos,LD Alajuelense,0,3,A,0.0,3.0,A
+CRC,2011-10-16,18:00,Deportivo Saprissa,CS Cartaginés,3,1,H,2.0,1.0,H
+CRC,2011-10-16,18:00,Orión FC,Belén Bridgestone FC,3,1,H,1.0,0.0,H
+CRC,2011-10-20,01:00,Puntarenas FC,Santos de Guápiles,2,2,D,1.0,1.0,D
+CRC,2011-10-23,18:00,Santos de Guápiles,LD Alajuelense,0,3,A,0.0,3.0,A
+CRC,2011-10-23,18:00,Deportivo Saprissa,Municipal Pérez Zeledón,2,0,H,1.0,0.0,H
+CRC,2011-10-23,20:30,Limón FC,AD San Carlos,0,1,A,0.0,1.0,A
+CRC,2011-10-23,23:00,Belén Bridgestone FC,CS Herediano,1,2,A,0.0,1.0,A
+CRC,2011-10-27,01:00,Puntarenas FC,Limón FC,1,0,H,1.0,0.0,H
+CRC,2011-10-27,03:00,CS Herediano,CS Cartaginés,6,3,H,2.0,1.0,H
+CRC,2011-10-27,03:00,Belén Bridgestone FC,Municipal Pérez Zeledón,1,3,A,0.0,1.0,A
+CRC,2011-10-28,02:00,Santos de Guápiles,AD San Carlos,2,2,D,0.0,1.0,A
+CRC,2011-10-30,02:00,CS Herediano,Deportivo Saprissa,1,1,D,1.0,0.0,H
+CRC,2011-10-30,17:00,CS Cartaginés,Belén Bridgestone FC,3,2,H,1.0,1.0,D
+CRC,2011-10-30,22:00,AD San Carlos,Puntarenas FC,0,0,D,0.0,0.0,D
+CRC,2011-10-30,22:30,LD Alajuelense,Limón FC,0,2,A,0.0,1.0,A
+CRC,2011-10-31,17:00,Municipal Pérez Zeledón,Orión FC,5,1,H,1.0,0.0,H
+CRC,2011-11-06,02:00,CS Herediano,Limón FC,1,1,D,1.0,1.0,D
+CRC,2011-11-06,02:00,AD San Carlos,Belén Bridgestone FC,4,0,H,0.0,0.0,D
+CRC,2011-11-06,17:00,Santos de Guápiles,Municipal Pérez Zeledón,1,1,D,1.0,0.0,H
+CRC,2011-11-06,17:00,Puntarenas FC,Deportivo Saprissa,3,3,D,1.0,2.0,A
+CRC,2011-11-06,22:00,CS Cartaginés,LD Alajuelense,2,0,H,2.0,0.0,H
+CRC,2011-11-10,02:00,Deportivo Saprissa,LD Alajuelense,2,2,D,1.0,1.0,D
+CRC,2011-11-11,02:00,CS Cartaginés,Orión FC,3,1,H,2.0,1.0,H
+CRC,2011-11-13,17:00,Belén Bridgestone FC,Puntarenas FC,1,0,H,0.0,0.0,D
+CRC,2011-11-13,17:00,Orión FC,Santos de Guápiles,1,3,A,1.0,1.0,D
+CRC,2011-11-13,17:00,Deportivo Saprissa,AD San Carlos,2,1,H,1.0,1.0,D
+CRC,2011-11-13,19:30,Limón FC,CS Cartaginés,1,1,D,1.0,1.0,D
+CRC,2011-11-13,22:30,LD Alajuelense,CS Herediano,2,2,D,1.0,1.0,D
+CRC,2011-11-16,21:00,Orión FC,Deportivo Saprissa,1,4,A,1.0,2.0,A
+CRC,2011-11-17,02:00,Municipal Pérez Zeledón,CS Herediano,2,1,H,,,
+CRC,2011-11-20,02:00,LD Alajuelense,Orión FC,4,2,H,0.0,1.0,A
+CRC,2011-11-20,17:00,Deportivo Saprissa,Santos de Guápiles,2,3,A,2.0,1.0,H
+CRC,2011-11-20,17:00,Puntarenas FC,CS Cartaginés,2,1,H,0.0,1.0,A
+CRC,2011-11-20,17:00,Municipal Pérez Zeledón,Limón FC,1,1,D,0.0,1.0,A
+CRC,2011-11-20,22:00,AD San Carlos,CS Herediano,0,4,A,0.0,0.0,D
+CRC,2011-11-27,17:00,CS Cartaginés,CS Herediano,1,2,A,1.0,2.0,A
+CRC,2011-11-27,23:00,Deportivo Saprissa,LD Alajuelense,0,1,A,0.0,0.0,D
+CRC,2011-12-04,22:00,CS Herediano,CS Cartaginés,1,0,H,1.0,0.0,H
+CRC,2011-12-05,00:30,LD Alajuelense,Deportivo Saprissa,2,2,D,1.0,1.0,D
+CRC,2011-12-12,00:00,LD Alajuelense,CS Herediano,1,1,D,1.0,0.0,H
+CRC,2011-12-18,22:00,CS Herediano,LD Alajuelense,1,1,D,0.0,0.0,D
+CRC,2012-01-15,17:00,Deportivo Saprissa,Puntarenas FC,3,1,H,1.0,0.0,H
+CRC,2012-01-15,17:00,Santos de Guápiles,CS Herediano,1,0,H,1.0,0.0,H
+CRC,2012-01-15,17:00,Municipal Pérez Zeledón,Belén Bridgestone FC,2,1,H,0.0,0.0,D
+CRC,2012-01-15,20:00,Limón FC,Orión FC,3,2,H,0.0,0.0,D
+CRC,2012-01-15,22:00,AD San Carlos,CS Cartaginés,1,3,A,0.0,1.0,A
+CRC,2012-01-19,00:00,Puntarenas FC,Santos de Guápiles,0,2,A,0.0,0.0,D
+CRC,2012-01-19,02:00,CS Herediano,Limón FC,3,2,H,1.0,1.0,D
+CRC,2012-01-19,02:00,CS Cartaginés,Municipal Pérez Zeledón,0,2,A,0.0,1.0,A
+CRC,2012-01-19,21:00,Orión FC,AD San Carlos,1,1,D,1.0,0.0,H
+CRC,2012-01-20,02:00,Belén Bridgestone FC,LD Alajuelense,4,2,H,2.0,1.0,H
+CRC,2012-01-22,17:00,Municipal Pérez Zeledón,Orión FC,4,1,H,2.0,1.0,H
+CRC,2012-01-22,17:00,Santos de Guápiles,Deportivo Saprissa,0,1,A,0.0,0.0,D
+CRC,2012-01-22,17:00,LD Alajuelense,CS Cartaginés,0,1,A,0.0,0.0,D
+CRC,2012-01-22,20:00,Limón FC,Puntarenas FC,2,0,H,0.0,0.0,D
+CRC,2012-01-22,22:00,AD San Carlos,CS Herediano,1,0,H,0.0,0.0,D
+CRC,2012-01-29,02:00,CS Herediano,Municipal Pérez Zeledón,1,1,D,0.0,1.0,A
+CRC,2012-01-29,17:00,Deportivo Saprissa,Limón FC,2,2,D,0.0,1.0,A
+CRC,2012-01-29,17:00,Puntarenas FC,AD San Carlos,0,0,D,0.0,0.0,D
+CRC,2012-01-29,21:00,Orión FC,LD Alajuelense,0,2,A,0.0,2.0,A
+CRC,2012-01-29,22:00,CS Cartaginés,Belén Bridgestone FC,3,2,H,2.0,1.0,H
+CRC,2012-02-01,02:00,Belén Bridgestone FC,Orión FC,1,0,H,1.0,0.0,H
+CRC,2012-02-02,02:00,AD San Carlos,Deportivo Saprissa,3,4,A,2.0,1.0,H
+CRC,2012-02-02,02:00,LD Alajuelense,CS Herediano,2,0,H,2.0,0.0,H
+CRC,2012-02-02,02:00,Municipal Pérez Zeledón,Puntarenas FC,3,2,H,1.0,1.0,D
+CRC,2012-02-03,02:00,Limón FC,Santos de Guápiles,1,2,A,1.0,1.0,D
+CRC,2012-02-05,17:00,Puntarenas FC,LD Alajuelense,1,0,H,1.0,0.0,H
+CRC,2012-02-05,21:00,Orión FC,CS Cartaginés,0,1,A,0.0,0.0,D
+CRC,2012-02-05,22:00,Deportivo Saprissa,Municipal Pérez Zeledón,2,3,A,1.0,2.0,A
+CRC,2012-02-05,22:30,CS Herediano,Belén Bridgestone FC,2,1,H,2.0,0.0,H
+CRC,2012-02-07,01:00,Santos de Guápiles,AD San Carlos,1,3,A,1.0,1.0,D
+CRC,2012-02-12,17:00,Municipal Pérez Zeledón,Santos de Guápiles,3,1,H,1.0,0.0,H
+CRC,2012-02-12,17:00,CS Cartaginés,CS Herediano,2,1,H,1.0,0.0,H
+CRC,2012-02-12,21:00,Belén Bridgestone FC,Puntarenas FC,2,0,H,1.0,0.0,H
+CRC,2012-02-12,22:00,AD San Carlos,Limón FC,0,1,A,0.0,1.0,A
+CRC,2012-02-12,23:30,LD Alajuelense,Deportivo Saprissa,1,2,A,1.0,1.0,D
+CRC,2012-02-16,01:00,Puntarenas FC,CS Cartaginés,2,2,D,1.0,1.0,D
+CRC,2012-02-16,02:00,Santos de Guápiles,LD Alajuelense,3,1,H,1.0,1.0,D
+CRC,2012-02-16,02:00,Limón FC,Municipal Pérez Zeledón,2,2,D,0.0,1.0,A
+CRC,2012-02-17,02:00,Deportivo Saprissa,Belén Bridgestone FC,0,0,D,0.0,0.0,D
+CRC,2012-02-17,02:00,CS Herediano,Orión FC,4,0,H,1.0,0.0,H
+CRC,2012-02-19,20:00,Santos de Guápiles,Belén Bridgestone FC,1,1,D,0.0,0.0,D
+CRC,2012-02-19,21:00,Municipal Pérez Zeledón,AD San Carlos,2,0,H,1.0,0.0,H
+CRC,2012-02-19,21:00,Orión FC,Puntarenas FC,2,1,H,1.0,0.0,H
+CRC,2012-02-19,22:30,LD Alajuelense,Limón FC,3,1,H,0.0,0.0,D
+CRC,2012-02-19,23:00,CS Cartaginés,Deportivo Saprissa,1,3,A,1.0,0.0,H
+CRC,2012-02-26,17:00,Santos de Guápiles,CS Cartaginés,3,2,H,2.0,2.0,D
+CRC,2012-02-26,17:00,Puntarenas FC,CS Herediano,1,2,A,0.0,1.0,A
+CRC,2012-02-26,20:30,AD San Carlos,LD Alajuelense,3,1,H,2.0,0.0,H
+CRC,2012-02-26,21:00,Limón FC,Belén Bridgestone FC,0,0,D,0.0,0.0,D
+CRC,2012-02-26,22:30,Deportivo Saprissa,Orión FC,1,0,H,1.0,0.0,H
+CRC,2012-02-29,02:00,Belén Bridgestone FC,AD San Carlos,1,1,D,1.0,0.0,H
+CRC,2012-03-01,01:00,Orión FC,Santos de Guápiles,0,3,A,0.0,2.0,A
+CRC,2012-03-01,02:00,CS Cartaginés,Limón FC,3,0,H,1.0,0.0,H
+CRC,2012-03-01,02:00,CS Herediano,Deportivo Saprissa,0,0,D,0.0,0.0,D
+CRC,2012-03-02,02:00,LD Alajuelense,Municipal Pérez Zeledón,1,1,D,1.0,1.0,D
+CRC,2012-03-04,17:00,Puntarenas FC,Deportivo Saprissa,1,1,D,0.0,1.0,A
+CRC,2012-03-04,19:30,Belén Bridgestone FC,Municipal Pérez Zeledón,2,1,H,0.0,0.0,D
+CRC,2012-03-04,21:00,Orión FC,Limón FC,1,0,H,0.0,0.0,D
+CRC,2012-03-04,22:00,CS Cartaginés,AD San Carlos,0,0,D,0.0,0.0,D
+CRC,2012-03-04,22:00,CS Herediano,Santos de Guápiles,1,2,A,0.0,1.0,A
+CRC,2012-03-08,02:00,Deportivo Saprissa,Santos de Guápiles,3,0,H,1.0,0.0,H
+CRC,2012-03-11,01:00,Santos de Guápiles,Puntarenas FC,1,2,A,0.0,1.0,A
+CRC,2012-03-11,02:00,LD Alajuelense,Belén Bridgestone FC,1,1,D,0.0,1.0,A
+CRC,2012-03-11,17:00,Municipal Pérez Zeledón,CS Cartaginés,2,3,A,0.0,1.0,A
+CRC,2012-03-11,22:00,Limón FC,CS Herediano,0,2,A,0.0,1.0,A
+CRC,2012-03-11,22:00,AD San Carlos,Orión FC,1,0,H,0.0,0.0,D
+CRC,2012-03-15,00:00,Orión FC,Municipal Pérez Zeledón,1,3,A,1.0,2.0,A
+CRC,2012-03-15,01:00,Puntarenas FC,Limón FC,3,1,H,0.0,0.0,D
+CRC,2012-03-15,02:00,CS Herediano,AD San Carlos,2,0,H,0.0,0.0,D
+CRC,2012-03-15,02:00,CS Cartaginés,LD Alajuelense,2,2,D,1.0,1.0,D
+CRC,2012-03-18,01:00,Limón FC,Deportivo Saprissa,1,1,D,1.0,0.0,H
+CRC,2012-03-18,17:00,Municipal Pérez Zeledón,CS Herediano,0,0,D,0.0,0.0,D
+CRC,2012-03-18,22:00,AD San Carlos,Puntarenas FC,2,1,H,0.0,0.0,D
+CRC,2012-03-18,22:00,Belén Bridgestone FC,CS Cartaginés,1,0,H,0.0,0.0,D
+CRC,2012-03-18,22:30,LD Alajuelense,Orión FC,2,0,H,2.0,0.0,H
+CRC,2012-03-25,02:00,Santos de Guápiles,Limón FC,2,1,H,0.0,0.0,D
+CRC,2012-03-25,03:00,CS Herediano,LD Alajuelense,2,3,A,1.0,3.0,A
+CRC,2012-03-25,18:00,Puntarenas FC,Municipal Pérez Zeledón,0,3,A,0.0,0.0,D
+CRC,2012-03-25,22:00,Orión FC,Belén Bridgestone FC,2,2,D,0.0,2.0,A
+CRC,2012-03-25,23:00,Deportivo Saprissa,AD San Carlos,1,1,D,0.0,1.0,A
+CRC,2012-03-29,03:00,CS Cartaginés,Orión FC,2,0,H,0.0,0.0,D
+CRC,2012-03-29,03:00,Municipal Pérez Zeledón,Deportivo Saprissa,1,0,H,1.0,0.0,H
+CRC,2012-03-29,03:00,LD Alajuelense,Puntarenas FC,2,0,H,1.0,0.0,H
+CRC,2012-03-30,03:00,AD San Carlos,Santos de Guápiles,1,3,A,1.0,1.0,D
+CRC,2012-03-30,03:00,Belén Bridgestone FC,CS Herediano,3,3,D,2.0,1.0,H
+CRC,2012-04-01,18:00,Puntarenas FC,Belén Bridgestone FC,4,1,H,2.0,0.0,H
+CRC,2012-04-01,20:30,Limón FC,AD San Carlos,0,1,A,0.0,0.0,D
+CRC,2012-04-01,23:00,CS Herediano,CS Cartaginés,3,0,H,1.0,0.0,H
+CRC,2012-04-01,23:00,Deportivo Saprissa,LD Alajuelense,0,2,A,0.0,0.0,D
+CRC,2012-04-03,02:00,Santos de Guápiles,Municipal Pérez Zeledón,2,1,H,0.0,1.0,A
+CRC,2012-04-08,18:00,Municipal Pérez Zeledón,Limón FC,1,0,H,1.0,0.0,H
+CRC,2012-04-08,22:00,Belén Bridgestone FC,Deportivo Saprissa,2,4,A,1.0,3.0,A
+CRC,2012-04-08,22:00,Orión FC,CS Herediano,0,2,A,0.0,1.0,A
+CRC,2012-04-08,23:00,CS Cartaginés,Puntarenas FC,3,2,H,1.0,2.0,A
+CRC,2012-04-09,00:00,LD Alajuelense,Santos de Guápiles,2,0,H,0.0,0.0,D
+CRC,2012-04-15,02:00,Puntarenas FC,Orión FC,2,1,H,2.0,1.0,H
+CRC,2012-04-15,02:00,Santos de Guápiles,Belén Bridgestone FC,2,0,H,0.0,0.0,D
+CRC,2012-04-15,03:00,Deportivo Saprissa,CS Cartaginés,4,0,H,1.0,0.0,H
+CRC,2012-04-15,23:00,Limón FC,LD Alajuelense,0,2,A,0.0,0.0,D
+CRC,2012-04-15,23:00,AD San Carlos,Municipal Pérez Zeledón,2,1,H,1.0,1.0,D
+CRC,2012-04-18,03:00,CS Herediano,Puntarenas FC,2,0,H,2.0,0.0,H
+CRC,2012-04-18,03:30,Orión FC,Deportivo Saprissa,1,5,A,0.0,3.0,A
+CRC,2012-04-19,03:00,LD Alajuelense,AD San Carlos,1,2,A,0.0,1.0,A
+CRC,2012-04-19,03:00,CS Cartaginés,Santos de Guápiles,5,1,H,3.0,0.0,H
+CRC,2012-04-20,03:00,Belén Bridgestone FC,Limón FC,7,0,H,1.0,0.0,H
+CRC,2012-04-22,18:00,Municipal Pérez Zeledón,LD Alajuelense,2,4,A,0.0,1.0,A
+CRC,2012-04-22,23:00,Limón FC,CS Cartaginés,1,0,H,0.0,0.0,D
+CRC,2012-04-22,23:00,Deportivo Saprissa,CS Herediano,1,3,A,0.0,1.0,A
+CRC,2012-04-23,02:00,AD San Carlos,Belén Bridgestone FC,0,3,A,0.0,0.0,D
+CRC,2012-04-24,02:00,Santos de Guápiles,Orión FC,2,0,H,2.0,0.0,H
+CRC,2012-04-29,03:00,CS Herediano,Municipal Pérez Zeledón,1,1,D,,,
+CRC,2012-04-29,18:00,Deportivo Saprissa,Santos de Guápiles,1,0,H,,,
+CRC,2012-05-06,03:00,Santos de Guápiles,Deportivo Saprissa,1,0,H,1.0,0.0,H
+CRC,2012-05-06,18:00,Municipal Pérez Zeledón,CS Herediano,0,2,A,0.0,0.0,D
+CRC,2012-05-13,03:00,CS Herediano,Santos de Guápiles,4,2,H,0.0,1.0,A
+CRC,2012-05-20,02:00,Santos de Guápiles,CS Herediano,1,2,A,1.0,1.0,D

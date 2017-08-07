@@ -7,7 +7,25 @@ Created on Wed Jun 21 16:11:57 2017
 
 import pandas as pd
 
-assert 4 == 4
+#TODO: HT vs. FT goals
+
+#TODO:Team names check
+
+#TODO:
+
+#TODO:
+
+#TODO:
+
+#TODO:
+
+#TODO:
+
+
+
+
+
+#assert 4 == 4
 
 """
 offset = 5

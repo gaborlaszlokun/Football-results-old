@@ -18,7 +18,7 @@ from time import gmtime, strftime
 #        now = datetime.datetime.now()
 #        if now.hour == 0 and now.minute < 30:
 
-#sort_archive_by_date()
+sort_archive_by_date()
 #sort_links()
 
 t = open("active_links.txt", "r") 
@@ -44,13 +44,3 @@ get_active_stats()
 #    except:
 #        print "Something went wrong... Try reconnecting..."
 #        time.sleep(600)
-      
-    
-    
-#link = "http://www.worldfootball.net/all_matches/irq-super-league-2016-2017/"
-#get_results(link,"active")
-   
-#check_file(links) 
-
-#url = "http://www.worldfootball.net/all_matches/alb-kategoria-superiore-2016-2017/"
-#get_results(url)

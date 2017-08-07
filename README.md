@@ -14,9 +14,9 @@
 - HalfTime Away Goals
 - HalfTime Result
 
-#### 62 countries from the present
+#### 61 countries from the present
 
-#### 79 countries from the past (cleaned and merged):
+#### 83 countries from the past (cleaned and merged):
 
 
 |Country|Number of seasons|
@@ -34,6 +34,7 @@
 |[BUL](/archive/BUL)|14|
 |[CAN](/archive/CAN)|10|
 |[CHN](/archive/CHN)|23|
+|[CRC](/archive/CRC)|8|
 |[CRO](/archive/CRO)|26|
 |[CZE](/archive/CZE)|24|
 |[DEN](/archive/DEN)|27|
@@ -79,6 +80,7 @@
 |[NGA](/archive/NGA)|10|
 |[NOR](/archive/NOR)|68|
 |[NZL](/archive/NZL)|11|
+|[PAR](/archive/PAR)|11|
 |[POL](/archive/POL)|47|
 |[POR](/archive/POR)|62|
 |[QAT](/archive/QAT)|9|
@@ -86,6 +88,7 @@
 |[RSA](/archive/RSA)|13|
 |[RUS](/archive/RUS)|25|
 |[SIN](/archive/SIN)|10|
+|[SLV](/archive/SLV)|6|
 |[SRB](/archive/SRB)|14|
 |[SUD](/archive/SUD)|11|
 |[SVK](/archive/SVK)|14|
@@ -97,6 +100,7 @@
 |[TUR](/archive/TUR)|59|
 |[UAE](/archive/UAE)|11|
 |[UKR](/archive/UKR)|26|
+|[URS](/archive/URS)|53|
 |[USA](/archive/USA)|21|
 |[UZB](/archive/UZB)|8|
 |[VIE](/archive/VIE)|10|

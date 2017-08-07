@@ -7,7 +7,7 @@ Created on Wed May 31 11:22:20 2017
 
 import urllib2
 import bs4
-from result_collector import get_results
+from result_collector import get_results, generate_readme
 
 def get_all_links():
     base_url ="http://www.worldfootball.net"
@@ -61,6 +61,7 @@ def sort_links():
                 archive_links += "\n" + link 
                 print link
                 get_results(link,"pre_archive")
+                generate_readme()
     active_links = active_links[0:-2]
     print active_links
     text = open("active_links.txt", "w")

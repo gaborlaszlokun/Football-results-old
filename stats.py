@@ -35,3 +35,6 @@ def get_active_stats():
             filename = "active/" + str(folder) + "/" + str(file)
             print folder, get_max_period(filename), get_last_period(filename)
             
+#TODO: max betweens
+#def get_archive_stats():
+            
