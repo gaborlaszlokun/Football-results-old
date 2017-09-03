@@ -14,7 +14,7 @@
 - HalfTime Away Goals
 - HalfTime Result
 
-#### 61 countries from the present
+#### 82 countries from the present
 
 #### 83 countries from the past (cleaned and merged):
 

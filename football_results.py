@@ -16,7 +16,7 @@ from time import gmtime, strftime
 #while True:
 #    try:
 #        now = datetime.datetime.now()
-#        if now.hour == 0 and now.minute < 30:
+#        if now.hour == 0 and now.minute < 30
 
 #sort_archive_by_date()
 #sort_links()
@@ -26,13 +26,13 @@ links = t.read()
 t.close()
         
 links = links.split("\n")
-            #
+
 for link in links:
     try:
         get_results(link,"active")
         print link
     except:
-        print "Ajjajj..."
+        break
 
 get_active_stats()
 
