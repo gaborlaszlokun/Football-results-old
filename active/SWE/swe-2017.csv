@@ -175,3 +175,59 @@ SWE,2017-09-10,14:00,Örebro SK,Malmö FF,2,1,H,0,0,D
 SWE,2017-09-10,16:30,IK Sirius,GIF Sundsvall,0,1,A,0,0,D
 SWE,2017-09-10,16:30,Jönköpings Södra IF,IFK Norrköping,1,2,A,1,1,D
 SWE,2017-09-11,18:00,IFK Göteborg,Djurgårdens IF,1,3,A,1,1,D
+SWE,2017-09-15,18:00,Kalmar FF,IFK Norrköping,1,1,D,1,0,H
+SWE,2017-09-16,13:00,IFK Göteborg,Jönköpings Södra IF,1,1,D,0,1,A
+SWE,2017-09-16,15:00,BK Häcken,IF Elfsborg,3,0,H,2,0,H
+SWE,2017-09-16,15:00,Djurgårdens IF,Örebro SK,4,1,H,2,0,H
+SWE,2017-09-17,14:00,IK Sirius,Östersunds FK,0,5,A,0,3,A
+SWE,2017-09-17,14:00,AIK Solna,Halmstads BK,4,1,H,4,0,H
+SWE,2017-09-17,16:30,Malmö FF,Hammarby IF,4,0,H,1,0,H
+SWE,2017-09-18,18:00,AFC Eskilstuna,GIF Sundsvall,1,2,A,0,1,A
+SWE,2017-09-19,18:00,IFK Norrköping,BK Häcken,4,1,H,2,0,H
+SWE,2017-09-19,18:00,IF Elfsborg,Djurgårdens IF,2,2,D,0,1,A
+SWE,2017-09-20,18:00,Halmstads BK,Kalmar FF,1,1,D,0,1,A
+SWE,2017-09-20,18:00,Östersunds FK,Malmö FF,2,2,D,0,1,A
+SWE,2017-09-20,18:00,Jönköpings Södra IF,IK Sirius,3,1,H,2,0,H
+SWE,2017-09-20,18:00,Hammarby IF,IFK Göteborg,2,1,H,0,0,D
+SWE,2017-09-21,17:00,Örebro SK,AFC Eskilstuna,2,3,A,2,1,H
+SWE,2017-09-21,18:00,GIF Sundsvall,AIK Solna,0,0,D,0,0,D
+SWE,2017-09-23,13:00,Halmstads BK,IFK Norrköping,2,1,H,1,0,H
+SWE,2017-09-24,14:00,Kalmar FF,Östersunds FK,2,1,H,1,1,D
+SWE,2017-09-24,14:00,Djurgårdens IF,Hammarby IF,1,1,D,0,1,A
+SWE,2017-09-24,16:30,Jönköpings Södra IF,GIF Sundsvall,2,2,D,1,1,D
+SWE,2017-09-24,16:30,BK Häcken,AIK Solna,1,6,A,1,4,A
+SWE,2017-09-25,18:00,AFC Eskilstuna,IFK Göteborg,1,0,H,0,0,D
+SWE,2017-09-25,18:00,IK Sirius,Örebro SK,3,4,A,0,2,A
+SWE,2017-09-25,18:00,Malmö FF,IF Elfsborg,6,0,H,2,0,H
+SWE,2017-09-29,18:00,IFK Göteborg,IK Sirius,4,0,H,2,0,H
+SWE,2017-09-30,15:00,AFC Eskilstuna,Jönköpings Södra IF,1,1,D,1,0,H
+SWE,2017-10-01,14:00,Östersunds FK,BK Häcken,0,0,D,0,0,D
+SWE,2017-10-01,14:00,GIF Sundsvall,Djurgårdens IF,0,5,A,0,2,A
+SWE,2017-10-01,14:00,Malmö FF,Halmstads BK,2,0,H,0,0,D
+SWE,2017-10-01,16:30,Hammarby IF,IFK Norrköping,0,2,A,0,2,A
+SWE,2017-10-01,16:30,AIK Solna,IF Elfsborg,5,2,H,3,1,H
+SWE,2017-10-01,16:30,Örebro SK,Kalmar FF,1,0,H,1,0,H
+SWE,2017-10-14,13:00,Halmstads BK,IFK Göteborg,1,2,A,1,0,H
+SWE,2017-10-14,15:00,Östersunds FK,Örebro SK,3,0,H,3,0,H
+SWE,2017-10-14,15:00,BK Häcken,AFC Eskilstuna,3,0,H,1,0,H
+SWE,2017-10-15,14:00,AIK Solna,Jönköpings Södra IF,2,0,H,0,0,D
+SWE,2017-10-15,16:30,IK Sirius,Djurgårdens IF,2,0,H,1,0,H
+SWE,2017-10-15,16:30,IF Elfsborg,GIF Sundsvall,2,1,H,0,1,A
+SWE,2017-10-16,18:00,IFK Norrköping,Malmö FF,1,3,A,1,0,H
+SWE,2017-10-16,18:00,Kalmar FF,Hammarby IF,2,0,H,0,0,D
+SWE,2017-10-20,18:00,Örebro SK,Halmstads BK,0,1,A,0,0,D
+SWE,2017-10-21,15:00,AFC Eskilstuna,IF Elfsborg,2,3,A,1,1,D
+SWE,2017-10-22,14:00,GIF Sundsvall,IFK Norrköping,2,2,D,1,0,H
+SWE,2017-10-22,14:00,IFK Göteborg,Östersunds FK,0,1,A,0,1,A
+SWE,2017-10-22,16:30,Djurgårdens IF,BK Häcken,1,1,D,1,1,D
+SWE,2017-10-23,18:00,Jönköpings Södra IF,Kalmar FF,2,0,H,1,0,H
+SWE,2017-10-23,18:00,Hammarby IF,IK Sirius,3,3,D,2,1,H
+SWE,2017-10-23,18:00,Malmö FF,AIK Solna,0,0,D,0,0,D
+SWE,2017-10-28,13:00,Östersunds FK,IF Elfsborg,4,1,H,3,0,H
+SWE,2017-10-28,15:00,Halmstads BK,AFC Eskilstuna,1,1,D,1,1,D
+SWE,2017-10-29,14:00,IK Sirius,Malmö FF,0,4,A,0,2,A
+SWE,2017-10-29,14:00,GIF Sundsvall,Hammarby IF,1,4,A,1,1,D
+SWE,2017-10-29,16:30,BK Häcken,Kalmar FF,2,0,H,0,0,D
+SWE,2017-10-29,16:30,Djurgårdens IF,Jönköpings Södra IF,0,0,D,0,0,D
+SWE,2017-10-30,18:00,IFK Norrköping,Örebro SK,2,0,H,2,0,H
+SWE,2017-10-30,18:00,AIK Solna,IFK Göteborg,2,1,H,2,0,H

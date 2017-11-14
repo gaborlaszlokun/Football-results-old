@@ -14,7 +14,7 @@
 - HalfTime Away Goals
 - HalfTime Result
 
-#### 82 countries from the present
+#### 97 countries from the present
 
 #### 83 countries from the past (cleaned and merged):
 
@@ -32,7 +32,7 @@
 |[BLR](/archive/BLR)|26|
 |[BRA](/archive/BRA)|22|
 |[BUL](/archive/BUL)|14|
-|[CAN](/archive/CAN)|10|
+|[CAN](/archive/CAN)|11|
 |[CHN](/archive/CHN)|23|
 |[CRC](/archive/CRC)|8|
 |[CRO](/archive/CRO)|26|
@@ -42,7 +42,7 @@
 |[ENG](/archive/ENG)|118|
 |[ESP](/archive/ESP)|86|
 |[EST](/archive/EST)|14|
-|[FIN](/archive/FIN)|14|
+|[FIN](/archive/FIN)|15|
 |[FRA](/archive/FRA)|79|
 |[FRO](/archive/FRO)|15|
 |[GDR](/archive/GDR)|42|
@@ -57,7 +57,7 @@
 |[IRL](/archive/IRL)|14|
 |[IRN](/archive/IRN)|11|
 |[IRQ](/archive/IRQ)|9|
-|[ISL](/archive/ISL)|14|
+|[ISL](/archive/ISL)|15|
 |[ITA](/archive/ITA)|86|
 |[JAM](/archive/JAM)|11|
 |[JPN](/archive/JPN)|13|
@@ -68,7 +68,7 @@
 |[KUW](/archive/KUW)|5|
 |[LAT](/archive/LAT)|21|
 |[LBY](/archive/LBY)|5|
-|[LIE](/archive/LIE)|9|
+|[LIE](/archive/LIE)|10|
 |[LTU](/archive/LTU)|15|
 |[LUX](/archive/LUX)|14|
 |[MAR](/archive/MAR)|11|
@@ -77,7 +77,7 @@
 |[MKD](/archive/MKD)|14|
 |[MNE](/archive/MNE)|11|
 |[NED](/archive/NED)|61|
-|[NGA](/archive/NGA)|10|
+|[NGA](/archive/NGA)|11|
 |[NOR](/archive/NOR)|68|
 |[NZL](/archive/NZL)|11|
 |[PAR](/archive/PAR)|11|
@@ -101,7 +101,7 @@
 |[UAE](/archive/UAE)|11|
 |[UKR](/archive/UKR)|26|
 |[URS](/archive/URS)|53|
-|[USA](/archive/USA)|21|
+|[USA](/archive/USA)|22|
 |[UZB](/archive/UZB)|8|
 |[VIE](/archive/VIE)|10|
 

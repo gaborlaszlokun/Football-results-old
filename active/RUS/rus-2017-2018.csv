@@ -1,5 +1,5 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-RUS,2017-07-15,13:00,FK Ural,FK Rostov,1,1,D,1,0,H
+RUS,2017-07-15,13:00,FC Ural,FK Rostov,1,1,D,1,0,H
 RUS,2017-07-15,15:30,FK Tosno,FC Ufa,0,1,A,0,0,D
 RUS,2017-07-15,18:00,Anzhi Makhachkala,CSKA Moskva,1,3,A,0,1,A
 RUS,2017-07-16,09:00,SKA-Energia Khabarovsk,Zenit St. Petersburg,0,2,A,0,0,D
@@ -12,11 +12,11 @@ RUS,2017-07-21,17:30,Anzhi Makhachkala,FK Amkar Perm,1,0,H,1,0,H
 RUS,2017-07-22,15:30,Zenit St. Petersburg,Rubin Kazan,2,1,H,0,1,A
 RUS,2017-07-22,18:00,FK Krasnodar,FK Tosno,2,0,H,0,0,D
 RUS,2017-07-23,13:00,FC Ufa,Spartak Moskva,0,0,D,0,0,D
-RUS,2017-07-23,15:30,Dinamo Moskva,FK Ural,0,1,A,0,0,D
+RUS,2017-07-23,15:30,Dinamo Moskva,FC Ural,0,1,A,0,0,D
 RUS,2017-07-23,18:00,FK Rostov,Akhmat Grozny,0,1,A,0,0,D
 RUS,2017-07-24,17:30,Arsenal Tula,SKA-Energia Khabarovsk,1,0,H,1,0,H
 RUS,2017-07-29,13:00,CSKA Moskva,SKA-Energia Khabarovsk,2,0,H,2,0,H
-RUS,2017-07-29,13:00,FK Ural,FC Ufa,1,1,D,0,1,A
+RUS,2017-07-29,13:00,FC Ural,FC Ufa,1,1,D,0,1,A
 RUS,2017-07-29,15:30,Rubin Kazan,Arsenal Tula,2,1,H,0,1,A
 RUS,2017-07-29,18:00,Akhmat Grozny,Dinamo Moskva,2,0,H,0,0,D
 RUS,2017-07-30,13:00,FK Amkar Perm,FK Rostov,0,1,A,0,0,D
@@ -29,11 +29,11 @@ RUS,2017-08-05,15:30,Dinamo Moskva,FK Amkar Perm,3,0,H,0,0,D
 RUS,2017-08-05,18:00,Lokomotiv Moskva,SKA-Energia Khabarovsk,1,0,H,0,0,D
 RUS,2017-08-06,13:00,Arsenal Tula,FK Tosno,1,2,A,1,0,H
 RUS,2017-08-06,15:30,CSKA Moskva,Rubin Kazan,1,2,A,1,2,A
-RUS,2017-08-06,18:00,FK Krasnodar,FK Ural,1,1,D,0,1,A
+RUS,2017-08-06,18:00,FK Krasnodar,FC Ural,1,1,D,0,1,A
 RUS,2017-08-06,18:00,Zenit St. Petersburg,Spartak Moskva,5,1,H,2,0,H
 RUS,2017-08-08,09:00,SKA-Energia Khabarovsk,Anzhi Makhachkala,2,0,H,0,0,D
 RUS,2017-08-08,15:30,FK Amkar Perm,FC Ufa,0,0,D,0,0,D
-RUS,2017-08-09,15:30,FK Ural,Zenit St. Petersburg,1,1,D,1,0,H
+RUS,2017-08-09,15:30,FC Ural,Zenit St. Petersburg,1,1,D,1,0,H
 RUS,2017-08-09,17:30,Spartak Moskva,Arsenal Tula,2,0,H,1,0,H
 RUS,2017-08-09,18:00,FK Rostov,Dinamo Moskva,1,0,H,1,0,H
 RUS,2017-08-09,18:00,Rubin Kazan,Lokomotiv Moskva,1,1,D,0,0,D
@@ -46,9 +46,9 @@ RUS,2017-08-13,09:00,SKA-Energia Khabarovsk,Rubin Kazan,1,1,D,0,0,D
 RUS,2017-08-13,15:30,Lokomotiv Moskva,FK Tosno,0,2,A,0,0,D
 RUS,2017-08-13,18:00,FK Krasnodar,FK Amkar Perm,1,1,D,1,0,H
 RUS,2017-08-13,18:00,Zenit St. Petersburg,Akhmat Grozny,4,0,H,1,0,H
-RUS,2017-08-14,17:30,Arsenal Tula,FK Ural,2,2,D,2,1,H
+RUS,2017-08-14,17:30,Arsenal Tula,FC Ural,2,2,D,2,1,H
 RUS,2017-08-18,17:30,FK Tosno,SKA-Energia Khabarovsk,0,0,D,0,0,D
-RUS,2017-08-19,13:00,FK Ural,CSKA Moskva,0,0,D,0,0,D
+RUS,2017-08-19,13:00,FC Ural,CSKA Moskva,0,0,D,0,0,D
 RUS,2017-08-19,15:30,Spartak Moskva,Lokomotiv Moskva,3,4,A,2,0,H
 RUS,2017-08-19,18:00,Rubin Kazan,Anzhi Makhachkala,6,0,H,3,0,H
 RUS,2017-08-20,13:00,FK Amkar Perm,Zenit St. Petersburg,0,1,A,0,0,D
@@ -58,7 +58,7 @@ RUS,2017-08-21,18:00,Akhmat Grozny,Arsenal Tula,1,2,A,0,1,A
 RUS,2017-08-25,18:00,Anzhi Makhachkala,FC Ufa,1,0,H,1,0,H
 RUS,2017-08-26,13:00,Arsenal Tula,FK Amkar Perm,0,1,A,0,1,A
 RUS,2017-08-26,15:30,Rubin Kazan,FK Tosno,1,0,H,1,0,H
-RUS,2017-08-26,18:00,Lokomotiv Moskva,FK Ural,2,1,H,1,1,D
+RUS,2017-08-26,18:00,Lokomotiv Moskva,FC Ural,2,1,H,1,1,D
 RUS,2017-08-27,09:00,SKA-Energia Khabarovsk,Spartak Moskva,0,0,D,0,0,D
 RUS,2017-08-27,15:30,CSKA Moskva,Akhmat Grozny,0,1,A,0,1,A
 RUS,2017-08-27,18:00,FK Krasnodar,Dinamo Moskva,2,0,H,1,0,H
@@ -70,4 +70,60 @@ RUS,2017-09-09,17:00,Spartak Moskva,Rubin Kazan,1,0,H,0,0,D
 RUS,2017-09-10,12:00,Dinamo Moskva,Zenit St. Petersburg,0,0,D,0,0,D
 RUS,2017-09-10,14:30,FC Ufa,FK Krasnodar,0,1,A,0,0,D
 RUS,2017-09-10,17:00,Akhmat Grozny,Lokomotiv Moskva,1,1,D,0,0,D
-RUS,2017-09-11,15:30,FK Ural,SKA-Energia Khabarovsk,1,1,D,0,0,D
+RUS,2017-09-11,15:30,FC Ural,SKA-Energia Khabarovsk,1,1,D,0,0,D
+RUS,2017-09-15,17:30,Arsenal Tula,Dinamo Moskva,1,0,H,1,0,H
+RUS,2017-09-16,14:30,CSKA Moskva,FK Rostov,2,0,H,1,0,H
+RUS,2017-09-16,17:00,Anzhi Makhachkala,FK Krasnodar,1,5,A,0,1,A
+RUS,2017-09-17,09:00,SKA-Energia Khabarovsk,Akhmat Grozny,2,2,D,1,0,H
+RUS,2017-09-17,11:00,FK Tosno,Spartak Moskva,2,2,D,0,1,A
+RUS,2017-09-17,14:30,Rubin Kazan,FC Ural,0,1,A,0,0,D
+RUS,2017-09-18,17:30,Lokomotiv Moskva,FK Amkar Perm,0,1,A,0,1,A
+RUS,2017-09-18,18:00,Zenit St. Petersburg,FC Ufa,3,0,H,2,0,H
+RUS,2017-09-23,14:30,Dinamo Moskva,CSKA Moskva,0,0,D,0,0,D
+RUS,2017-09-23,17:00,Spartak Moskva,Anzhi Makhachkala,2,2,D,1,0,H
+RUS,2017-09-24,12:00,FC Ural,FK Tosno,3,1,H,2,0,H
+RUS,2017-09-24,14:30,FK Rostov,Lokomotiv Moskva,0,1,A,0,0,D
+RUS,2017-09-24,14:30,FC Ufa,Arsenal Tula,1,0,H,0,0,D
+RUS,2017-09-24,17:00,FK Krasnodar,Zenit St. Petersburg,0,2,A,0,2,A
+RUS,2017-09-25,15:00,FK Amkar Perm,SKA-Energia Khabarovsk,3,0,H,1,0,H
+RUS,2017-09-25,17:30,Akhmat Grozny,Rubin Kazan,1,0,H,0,0,D
+RUS,2017-09-29,17:30,Arsenal Tula,FK Krasnodar,1,0,H,1,0,H
+RUS,2017-09-30,09:30,SKA-Energia Khabarovsk,FK Rostov,2,1,H,1,1,D
+RUS,2017-09-30,12:00,FK Tosno,Akhmat Grozny,1,0,H,0,0,D
+RUS,2017-09-30,14:30,Rubin Kazan,FK Amkar Perm,0,1,A,0,0,D
+RUS,2017-09-30,17:00,Spartak Moskva,FC Ural,2,0,H,1,0,H
+RUS,2017-10-01,12:00,CSKA Moskva,FC Ufa,0,0,D,0,0,D
+RUS,2017-10-01,14:30,Lokomotiv Moskva,Dinamo Moskva,3,0,H,2,0,H
+RUS,2017-10-01,17:00,Anzhi Makhachkala,Zenit St. Petersburg,2,2,D,1,0,H
+RUS,2017-10-13,17:30,Akhmat Grozny,Spartak Moskva,1,2,A,0,1,A
+RUS,2017-10-14,12:00,Dinamo Moskva,SKA-Energia Khabarovsk,2,0,H,1,0,H
+RUS,2017-10-14,14:30,FC Ural,Anzhi Makhachkala,2,1,H,0,0,D
+RUS,2017-10-14,17:00,FK Krasnodar,CSKA Moskva,0,1,A,0,1,A
+RUS,2017-10-15,12:00,FC Ufa,Lokomotiv Moskva,1,0,H,0,0,D
+RUS,2017-10-15,14:30,FK Rostov,Rubin Kazan,0,1,A,0,0,D
+RUS,2017-10-15,17:00,Zenit St. Petersburg,Arsenal Tula,0,1,A,0,0,D
+RUS,2017-10-16,15:30,FK Amkar Perm,FK Tosno,0,0,D,0,0,D
+RUS,2017-10-21,09:30,SKA-Energia Khabarovsk,FC Ufa,2,2,D,2,0,H
+RUS,2017-10-21,12:00,FK Tosno,FK Rostov,1,1,D,1,0,H
+RUS,2017-10-21,14:30,Rubin Kazan,Dinamo Moskva,0,0,D,0,0,D
+RUS,2017-10-21,17:00,Spartak Moskva,FK Amkar Perm,0,0,D,0,0,D
+RUS,2017-10-22,12:00,FC Ural,Akhmat Grozny,2,0,H,1,0,H
+RUS,2017-10-22,14:30,CSKA Moskva,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,2017-10-22,17:00,Anzhi Makhachkala,Arsenal Tula,3,2,H,1,1,D
+RUS,2017-10-23,17:30,Lokomotiv Moskva,FK Krasnodar,2,0,H,1,0,H
+RUS,2017-10-27,17:30,Arsenal Tula,CSKA Moskva,1,0,H,0,0,D
+RUS,2017-10-28,17:00,FK Rostov,Spartak Moskva,2,2,D,1,2,A
+RUS,2017-10-29,08:30,FK Amkar Perm,FC Ural,1,1,D,1,0,H
+RUS,2017-10-29,11:00,Dinamo Moskva,FK Tosno,0,1,A,0,1,A
+RUS,2017-10-29,13:30,Zenit St. Petersburg,Lokomotiv Moskva,0,3,A,0,0,D
+RUS,2017-10-29,16:00,FK Krasnodar,SKA-Energia Khabarovsk,4,1,H,2,0,H
+RUS,2017-10-30,14:00,FC Ufa,Rubin Kazan,2,1,H,1,1,D
+RUS,2017-10-30,16:30,Akhmat Grozny,Anzhi Makhachkala,1,1,D,0,0,D
+RUS,2017-11-03,14:30,FC Ural,Dinamo Moskva,2,2,D,1,0,H
+RUS,2017-11-04,13:30,FK Tosno,FK Krasnodar,1,3,A,1,3,A
+RUS,2017-11-04,16:00,Akhmat Grozny,FK Rostov,1,0,H,0,0,D
+RUS,2017-11-05,08:00,SKA-Energia Khabarovsk,Arsenal Tula,1,2,A,1,1,D
+RUS,2017-11-05,11:00,FK Amkar Perm,Anzhi Makhachkala,1,2,A,1,2,A
+RUS,2017-11-05,13:30,Lokomotiv Moskva,CSKA Moskva,2,2,D,1,2,A
+RUS,2017-11-05,16:00,Rubin Kazan,Zenit St. Petersburg,0,0,D,0,0,D
+RUS,2017-11-05,16:00,Spartak Moskva,FC Ufa,3,1,H,1,1,D

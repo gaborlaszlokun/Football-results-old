@@ -1,0 +1,54 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+JAM,2017-09-24,21:30,Boys' Town,Humble Lions,1,2,A,1,1,D
+JAM,2017-09-24,21:30,UWI Pelicans,Waterhouse FC,1,1,D,0,0,D
+JAM,2017-09-24,21:30,Reno FC,Tivoli Gardens,1,0,H,0,0,D
+JAM,2017-09-25,01:00,Harbour View,Montego Bay United FC,1,1,D,1,0,H
+JAM,2017-09-25,23:45,Portmore United,Cavalier FC,1,0,H,1,0,H
+JAM,2017-09-26,02:35,Arnett Gardens,Sandals South Coast,3,1,H,0,0,D
+JAM,2017-10-01,21:30,Sandals South Coast,Portmore United,0,4,A,0,2,A
+JAM,2017-10-01,21:30,Humble Lions,UWI Pelicans,1,3,A,0,1,A
+JAM,2017-10-01,21:30,Waterhouse FC,Reno FC,1,1,D,0,0,D
+JAM,2017-10-01,21:30,Cavalier FC,Harbour View,0,1,A,0,0,D
+JAM,2017-10-02,00:00,Tivoli Gardens,Arnett Gardens,0,1,A,0,0,D
+JAM,2017-10-03,02:35,Montego Bay United FC,Boys' Town,0,1,A,0,0,D
+JAM,2017-10-08,21:30,Portmore United,Tivoli Gardens,1,1,D,1,0,H
+JAM,2017-10-08,21:30,Reno FC,Humble Lions,2,1,H,1,0,H
+JAM,2017-10-08,21:30,UWI Pelicans,Boys' Town,2,1,H,1,0,H
+JAM,2017-10-09,00:00,Arnett Gardens,Waterhouse FC,1,1,D,1,0,H
+JAM,2017-10-09,01:00,Montego Bay United FC,Cavalier FC,1,2,A,0,2,A
+JAM,2017-10-10,02:35,Harbour View,Sandals South Coast,0,0,D,0,0,D
+JAM,2017-10-15,21:30,Sandals South Coast,Cavalier FC,1,1,D,1,1,D
+JAM,2017-10-15,21:30,Boys' Town,Reno FC,0,0,D,0,0,D
+JAM,2017-10-15,21:30,Humble Lions,Arnett Gardens,1,1,D,1,0,H
+JAM,2017-10-15,21:30,UWI Pelicans,Montego Bay United FC,3,0,H,2,0,H
+JAM,2017-10-15,21:30,Waterhouse FC,Portmore United,0,5,A,0,0,D
+JAM,2017-10-17,02:35,Tivoli Gardens,Harbour View,1,0,H,0,0,D
+JAM,2017-10-22,21:30,Cavalier FC,Tivoli Gardens,0,1,A,0,0,D
+JAM,2017-10-22,21:30,Portmore United,Humble Lions,3,0,H,2,0,H
+JAM,2017-10-22,21:30,Reno FC,UWI Pelicans,0,0,D,0,0,D
+JAM,2017-10-23,00:30,Montego Bay United FC,Sandals South Coast,3,1,H,2,1,H
+JAM,2017-10-23,01:00,Harbour View,Waterhouse FC,0,0,D,0,0,D
+JAM,2017-10-24,02:35,Arnett Gardens,Boys' Town,1,1,D,0,1,A
+JAM,2017-10-29,20:00,Humble Lions,Harbour View,0,0,D,0,0,D
+JAM,2017-10-29,20:00,Tivoli Gardens,Sandals South Coast,0,0,D,0,0,D
+JAM,2017-10-29,20:00,Reno FC,Montego Bay United FC,0,1,A,0,1,A
+JAM,2017-10-29,20:00,UWI Pelicans,Arnett Gardens,1,4,A,1,1,D
+JAM,2017-10-31,01:35,Waterhouse FC,Cavalier FC,0,2,A,0,2,A
+JAM,2017-11-01,20:00,Portmore United,UWI Pelicans,0,1,A,0,0,D
+JAM,2017-11-01,23:00,Arnett Gardens,Reno FC,5,0,H,2,0,H
+JAM,2017-11-01,23:30,Montego Bay United FC,Tivoli Gardens,0,0,D,0,0,D
+JAM,2017-11-02,00:00,Harbour View,Boys' Town,3,0,H,3,0,H
+JAM,2017-11-02,20:00,Sandals South Coast,Waterhouse FC,1,2,A,1,1,D
+JAM,2017-11-02,22:00,Cavalier FC,Humble Lions,2,0,H,0,0,D
+JAM,2017-11-05,20:00,Boys' Town,Cavalier FC,1,1,D,0,1,A
+JAM,2017-11-05,20:00,Humble Lions,Sandals South Coast,4,0,H,1,0,H
+JAM,2017-11-05,20:00,Reno FC,Portmore United,3,0,H,1,0,H
+JAM,2017-11-05,20:00,UWI Pelicans,Harbour View,0,1,A,0,1,A
+JAM,2017-11-05,23:30,Waterhouse FC,Tivoli Gardens,1,2,A,1,0,H
+JAM,2017-11-07,01:35,Arnett Gardens,Montego Bay United FC,1,0,H,1,0,H
+JAM,2017-11-08,20:00,Boys' Town,Portmore United,1,4,A,0,1,A
+JAM,2017-11-12,20:00,Cavalier FC,UWI Pelicans,1,1,D,1,1,D
+JAM,2017-11-12,20:00,Sandals South Coast,Boys' Town,1,0,H,0,0,D
+JAM,2017-11-12,20:00,Portmore United,Arnett Gardens,0,0,D,0,0,D
+JAM,2017-11-12,20:00,Tivoli Gardens,Humble Lions,2,0,H,0,0,D
+JAM,2017-11-12,23:30,Montego Bay United FC,Waterhouse FC,1,0,H,1,0,H

@@ -1,5 +1,5 @@
 Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
-ROU,2017-07-14,19:00,CS Universitatea Craiova,CSMS Iaşi,2,0,H,1,0,H
+ROU,2017-07-14,19:00,CS Universitatea Craiova,CSM Politehnica Iași,2,0,H,1,0,H
 ROU,2017-07-15,16:30,Concordia Chiajna,ACS Poli Timişoara,0,1,A,0,0,D
 ROU,2017-07-15,19:00,Juventus Bucuresti,Dinamo Bucureşti,0,3,A,0,1,A
 ROU,2017-07-16,16:30,Astra Giurgiu,Sepsi OSK,1,0,H,0,0,D
@@ -10,11 +10,11 @@ ROU,2017-07-21,16:30,Sepsi OSK,Juventus Bucuresti,2,1,H,0,0,D
 ROU,2017-07-21,19:00,ACS Poli Timişoara,Steaua Bucureşti,0,1,A,0,0,D
 ROU,2017-07-22,16:30,CS Universitatea Craiova,Concordia Chiajna,1,1,D,1,1,D
 ROU,2017-07-22,19:00,CFR Cluj,FC Viitorul Constanța,2,0,H,1,0,H
-ROU,2017-07-23,16:30,CSMS Iaşi,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,2017-07-23,16:30,CSM Politehnica Iași,Gaz Metan Mediaş,0,0,D,0,0,D
 ROU,2017-07-23,19:00,Dinamo Bucureşti,FC Botoşani,0,1,A,0,0,D
 ROU,2017-07-24,19:00,FC Voluntari,Astra Giurgiu,3,1,H,1,1,D
 ROU,2017-07-28,16:30,FC Botoşani,Sepsi OSK,5,1,H,2,0,H
-ROU,2017-07-28,19:00,Concordia Chiajna,CSMS Iaşi,0,1,A,0,1,A
+ROU,2017-07-28,19:00,Concordia Chiajna,CSM Politehnica Iași,0,1,A,0,1,A
 ROU,2017-07-29,16:30,Juventus Bucuresti,FC Voluntari,0,0,D,0,0,D
 ROU,2017-07-29,19:00,Gaz Metan Mediaş,CFR Cluj,0,3,A,0,2,A
 ROU,2017-07-30,16:00,FC Viitorul Constanța,Dinamo Bucureşti,0,1,A,0,0,D
@@ -23,7 +23,7 @@ ROU,2017-07-31,19:00,Astra Giurgiu,ACS Poli Timişoara,3,0,H,2,0,H
 ROU,2017-08-04,16:30,ACS Poli Timişoara,Juventus Bucuresti,2,1,H,1,0,H
 ROU,2017-08-04,19:00,FC Voluntari,FC Botoşani,1,3,A,1,2,A
 ROU,2017-08-05,16:30,Sepsi OSK,FC Viitorul Constanța,1,0,H,0,0,D
-ROU,2017-08-05,19:00,CSMS Iaşi,CFR Cluj,0,2,A,0,2,A
+ROU,2017-08-05,19:00,CSM Politehnica Iași,CFR Cluj,0,2,A,0,2,A
 ROU,2017-08-06,16:30,CS Universitatea Craiova,Astra Giurgiu,1,1,D,0,1,A
 ROU,2017-08-06,19:00,Concordia Chiajna,Steaua Bucureşti,1,2,A,0,0,D
 ROU,2017-08-07,19:00,Dinamo Bucureşti,Gaz Metan Mediaş,3,1,H,1,0,H
@@ -31,17 +31,17 @@ ROU,2017-08-08,14:45,FC Botoşani,ACS Poli Timişoara,1,0,H,1,0,H
 ROU,2017-08-08,16:45,FC Viitorul Constanța,FC Voluntari,0,0,D,0,0,D
 ROU,2017-08-09,15:00,Astra Giurgiu,Concordia Chiajna,1,0,H,1,0,H
 ROU,2017-08-09,17:15,Juventus Bucuresti,CS Universitatea Craiova,0,1,A,0,1,A
-ROU,2017-08-09,19:45,Steaua Bucureşti,CSMS Iaşi,1,1,D,0,1,A
+ROU,2017-08-09,19:45,Steaua Bucureşti,CSM Politehnica Iași,1,1,D,0,1,A
 ROU,2017-08-10,16:30,Gaz Metan Mediaş,Sepsi OSK,2,1,H,2,0,H
 ROU,2017-08-10,19:00,CFR Cluj,Dinamo Bucureşti,1,0,H,1,0,H
 ROU,2017-08-11,19:00,ACS Poli Timişoara,FC Viitorul Constanța,0,0,D,0,0,D
 ROU,2017-08-12,16:30,Concordia Chiajna,Juventus Bucuresti,1,1,D,1,1,D
 ROU,2017-08-12,19:00,Steaua Bucureşti,Astra Giurgiu,1,1,D,0,1,A
 ROU,2017-08-13,15:30,CS Universitatea Craiova,FC Botoşani,1,0,H,0,0,D
-ROU,2017-08-13,18:00,CSMS Iaşi,Dinamo Bucureşti,2,1,H,0,1,A
+ROU,2017-08-13,18:00,CSM Politehnica Iași,Dinamo Bucureşti,2,1,H,0,1,A
 ROU,2017-08-14,16:30,FC Voluntari,Gaz Metan Mediaş,2,1,H,1,0,H
 ROU,2017-08-14,19:00,Sepsi OSK,CFR Cluj,0,2,A,0,1,A
-ROU,2017-08-18,19:00,Astra Giurgiu,CSMS Iaşi,0,0,D,0,0,D
+ROU,2017-08-18,19:00,Astra Giurgiu,CSM Politehnica Iași,0,0,D,0,0,D
 ROU,2017-08-19,16:30,Gaz Metan Mediaş,ACS Poli Timişoara,0,2,A,0,2,A
 ROU,2017-08-19,19:00,Juventus Bucuresti,Steaua Bucureşti,1,2,A,1,2,A
 ROU,2017-08-20,16:30,FC Viitorul Constanța,CS Universitatea Craiova,0,2,A,0,1,A
@@ -54,11 +54,67 @@ ROU,2017-08-26,16:30,ACS Poli Timişoara,CFR Cluj,4,3,H,2,0,H
 ROU,2017-08-26,19:00,FC Voluntari,Dinamo Bucureşti,1,3,A,0,1,A
 ROU,2017-08-27,16:30,Concordia Chiajna,FC Viitorul Constanța,1,2,A,0,1,A
 ROU,2017-08-27,19:00,Steaua Bucureşti,FC Botoşani,2,0,H,2,0,H
-ROU,2017-08-28,19:00,CSMS Iaşi,Sepsi OSK,0,2,A,0,1,A
+ROU,2017-08-28,19:00,CSM Politehnica Iași,Sepsi OSK,0,2,A,0,1,A
 ROU,2017-09-08,18:30,FC Botoşani,Astra Giurgiu,1,3,A,1,1,D
-ROU,2017-09-09,16:00,Juventus Bucuresti,CSMS Iaşi,2,2,D,2,2,D
+ROU,2017-09-09,16:00,Juventus Bucuresti,CSM Politehnica Iași,2,2,D,2,2,D
 ROU,2017-09-09,18:30,FC Viitorul Constanța,Steaua Bucureşti,1,0,H,1,0,H
 ROU,2017-09-10,16:00,Sepsi OSK,FC Voluntari,0,3,A,0,0,D
 ROU,2017-09-10,18:30,CFR Cluj,CS Universitatea Craiova,2,1,H,1,0,H
 ROU,2017-09-11,16:00,Gaz Metan Mediaş,Concordia Chiajna,1,2,A,0,0,D
 ROU,2017-09-11,18:30,Dinamo Bucureşti,ACS Poli Timişoara,1,2,A,1,1,D
+ROU,2017-09-15,16:00,Juventus Bucuresti,FC Botoşani,0,2,A,0,1,A
+ROU,2017-09-15,18:30,CSM Politehnica Iași,FC Voluntari,2,1,H,1,0,H
+ROU,2017-09-16,16:00,ACS Poli Timişoara,Sepsi OSK,0,0,D,0,0,D
+ROU,2017-09-16,18:30,CS Universitatea Craiova,Dinamo Bucureşti,2,2,D,0,1,A
+ROU,2017-09-17,16:00,Concordia Chiajna,CFR Cluj,0,1,A,0,0,D
+ROU,2017-09-17,18:30,Steaua Bucureşti,Gaz Metan Mediaş,4,0,H,1,0,H
+ROU,2017-09-18,18:30,Astra Giurgiu,FC Viitorul Constanța,3,1,H,1,1,D
+ROU,2017-09-19,16:30,FC Voluntari,ACS Poli Timişoara,1,0,H,0,0,D
+ROU,2017-09-19,19:00,Sepsi OSK,CS Universitatea Craiova,2,3,A,0,1,A
+ROU,2017-09-20,16:30,FC Botoşani,CSM Politehnica Iași,3,3,D,2,2,D
+ROU,2017-09-21,14:30,FC Viitorul Constanța,Juventus Bucuresti,3,0,H,1,0,H
+ROU,2017-09-21,16:30,Gaz Metan Mediaş,Astra Giurgiu,0,0,D,0,0,D
+ROU,2017-09-21,19:00,CFR Cluj,Steaua Bucureşti,1,1,D,1,0,H
+ROU,2017-09-22,18:30,CS Universitatea Craiova,FC Voluntari,1,1,D,0,0,D
+ROU,2017-09-23,18:30,Concordia Chiajna,Sepsi OSK,2,1,H,1,1,D
+ROU,2017-09-24,13:00,Juventus Bucuresti,Gaz Metan Mediaş,1,1,D,1,0,H
+ROU,2017-09-24,15:30,CSM Politehnica Iași,ACS Poli Timişoara,1,1,D,1,0,H
+ROU,2017-09-24,18:30,Steaua Bucureşti,Dinamo Bucureşti,1,0,H,1,0,H
+ROU,2017-09-25,16:00,FC Botoşani,FC Viitorul Constanța,1,0,H,0,0,D
+ROU,2017-09-25,18:30,Astra Giurgiu,CFR Cluj,2,3,A,0,1,A
+ROU,2017-09-27,14:30,Dinamo Bucureşti,Concordia Chiajna,2,3,A,1,1,D
+ROU,2017-09-29,16:00,Gaz Metan Mediaş,FC Botoşani,1,0,H,0,0,D
+ROU,2017-09-29,18:30,ACS Poli Timişoara,CS Universitatea Craiova,0,2,A,0,1,A
+ROU,2017-09-30,16:00,FC Viitorul Constanța,CSM Politehnica Iași,5,2,H,4,1,H
+ROU,2017-09-30,18:30,Dinamo Bucureşti,Astra Giurgiu,1,1,D,0,0,D
+ROU,2017-10-01,16:00,CFR Cluj,Juventus Bucuresti,2,0,H,1,0,H
+ROU,2017-10-01,18:30,Sepsi OSK,Steaua Bucureşti,0,4,A,0,3,A
+ROU,2017-10-02,18:30,FC Voluntari,Concordia Chiajna,0,1,A,0,0,D
+ROU,2017-10-13,18:45,FC Voluntari,Steaua Bucureşti,0,0,D,0,0,D
+ROU,2017-10-14,14:30,Gaz Metan Mediaş,FC Viitorul Constanța,0,1,A,0,1,A
+ROU,2017-10-14,17:15,CSM Politehnica Iași,CS Universitatea Craiova,1,2,A,0,1,A
+ROU,2017-10-15,16:00,Sepsi OSK,Astra Giurgiu,0,0,D,0,0,D
+ROU,2017-10-15,18:45,CFR Cluj,FC Botoşani,0,0,D,0,0,D
+ROU,2017-10-16,16:00,ACS Poli Timişoara,Concordia Chiajna,0,3,A,0,1,A
+ROU,2017-10-16,18:45,Dinamo Bucureşti,Juventus Bucuresti,3,0,H,1,0,H
+ROU,2017-10-20,16:00,Gaz Metan Mediaş,CSM Politehnica Iași,0,2,A,0,1,A
+ROU,2017-10-20,18:45,Concordia Chiajna,CS Universitatea Craiova,1,2,A,0,1,A
+ROU,2017-10-21,16:00,Juventus Bucuresti,Sepsi OSK,2,1,H,1,1,D
+ROU,2017-10-21,18:45,FC Viitorul Constanța,CFR Cluj,1,0,H,1,0,H
+ROU,2017-10-22,16:00,Astra Giurgiu,FC Voluntari,2,3,A,2,2,D
+ROU,2017-10-22,18:45,Steaua Bucureşti,ACS Poli Timişoara,7,0,H,3,0,H
+ROU,2017-10-23,18:45,FC Botoşani,Dinamo Bucureşti,0,0,D,0,0,D
+ROU,2017-10-27,18:45,CSM Politehnica Iași,Concordia Chiajna,3,1,H,0,0,D
+ROU,2017-10-28,16:00,FC Voluntari,Juventus Bucuresti,0,0,D,0,0,D
+ROU,2017-10-28,18:45,ACS Poli Timişoara,Astra Giurgiu,2,1,H,1,0,H
+ROU,2017-10-29,16:00,CFR Cluj,Gaz Metan Mediaş,0,0,D,0,0,D
+ROU,2017-10-29,18:45,CS Universitatea Craiova,Steaua Bucureşti,2,5,A,0,2,A
+ROU,2017-10-30,16:00,Sepsi OSK,FC Botoşani,0,2,A,0,1,A
+ROU,2017-10-30,18:45,Dinamo Bucureşti,FC Viitorul Constanța,0,4,A,0,2,A
+ROU,2017-11-03,16:00,FC Botoşani,FC Voluntari,1,0,H,1,0,H
+ROU,2017-11-03,18:45,Astra Giurgiu,CS Universitatea Craiova,2,2,D,1,1,D
+ROU,2017-11-04,16:00,FC Viitorul Constanța,Sepsi OSK,3,0,H,2,0,H
+ROU,2017-11-04,18:45,Gaz Metan Mediaş,Dinamo Bucureşti,0,3,A,0,2,A
+ROU,2017-11-05,16:00,CFR Cluj,CSM Politehnica Iași,1,0,H,0,0,D
+ROU,2017-11-05,18:45,Steaua Bucureşti,Concordia Chiajna,2,1,H,2,1,H
+ROU,2017-11-06,18:45,Juventus Bucuresti,ACS Poli Timişoara,1,1,D,0,1,A

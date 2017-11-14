@@ -1,0 +1,57 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+IND,2016-10-01,14:30,NorthEast United FC,Kerala Blasters,1,0,H,0,0,D
+IND,2016-10-02,14:30,Atlético de Kolkata,Chennaiyin FC,2,2,D,0,0,D
+IND,2016-10-03,14:30,FC Pune City,Mumbai City FC,0,1,A,0,0,D
+IND,2016-10-04,14:30,NorthEast United FC,FC Goa,2,0,H,1,0,H
+IND,2016-10-05,14:30,Kerala Blasters,Atlético de Kolkata,0,1,A,0,0,D
+IND,2016-10-06,14:30,Chennaiyin FC,Delhi Dynamos FC,1,3,A,1,2,A
+IND,2016-10-07,14:30,Mumbai City FC,NorthEast United FC,1,0,H,0,0,D
+IND,2016-10-08,14:30,FC Goa,FC Pune City,1,2,A,1,1,D
+IND,2016-10-09,14:30,Kerala Blasters,Delhi Dynamos FC,0,0,D,0,0,D
+IND,2016-10-11,14:30,Mumbai City FC,Atlético de Kolkata,1,1,D,1,0,H
+IND,2016-10-12,14:30,FC Pune City,NorthEast United FC,0,1,A,0,0,D
+IND,2016-10-13,14:30,Chennaiyin FC,FC Goa,2,0,H,2,0,H
+IND,2016-10-14,14:30,Kerala Blasters,Mumbai City FC,1,0,H,0,0,D
+IND,2016-10-15,14:30,Delhi Dynamos FC,NorthEast United FC,1,1,D,1,0,H
+IND,2016-10-16,14:30,Atlético de Kolkata,FC Goa,1,1,D,1,0,H
+IND,2016-10-17,14:30,FC Pune City,Kerala Blasters,1,1,D,0,1,A
+IND,2016-10-18,14:30,Delhi Dynamos FC,Mumbai City FC,3,3,D,0,2,A
+IND,2016-10-20,14:30,NorthEast United FC,Chennaiyin FC,0,1,A,0,0,D
+IND,2016-10-21,14:30,Mumbai City FC,FC Goa,0,1,A,0,1,A
+IND,2016-10-22,14:30,Atlético de Kolkata,Delhi Dynamos FC,1,0,H,0,0,D
+IND,2016-10-23,14:30,FC Pune City,Chennaiyin FC,1,1,D,0,1,A
+IND,2016-10-24,14:30,FC Goa,Kerala Blasters,1,2,A,1,0,H
+IND,2016-10-25,14:30,Atlético de Kolkata,Mumbai City FC,0,1,A,0,0,D
+IND,2016-10-27,14:30,Delhi Dynamos FC,FC Pune City,1,1,D,0,1,A
+IND,2016-10-28,14:30,NorthEast United FC,Atlético de Kolkata,1,2,A,1,0,H
+IND,2016-10-29,14:30,Chennaiyin FC,Kerala Blasters,0,0,D,0,0,D
+IND,2016-10-30,13:30,FC Goa,Delhi Dynamos FC,0,2,A,0,0,D
+IND,2016-11-02,13:30,Chennaiyin FC,Mumbai City FC,1,1,D,0,0,D
+IND,2016-11-03,13:30,FC Pune City,FC Goa,0,1,A,0,1,A
+IND,2016-11-04,13:30,Delhi Dynamos FC,Kerala Blasters,2,0,H,0,0,D
+IND,2016-11-05,13:30,NorthEast United FC,Mumbai City FC,0,1,A,0,1,A
+IND,2016-11-06,13:30,FC Pune City,Atlético de Kolkata,2,1,H,1,0,H
+IND,2016-11-08,13:30,Kerala Blasters,FC Goa,2,1,H,0,1,A
+IND,2016-11-09,13:30,Delhi Dynamos FC,Chennaiyin FC,4,1,H,2,1,H
+IND,2016-11-10,13:30,Mumbai City FC,FC Pune City,0,1,A,0,0,D
+IND,2016-11-11,13:30,FC Goa,NorthEast United FC,2,1,H,0,0,D
+IND,2016-11-12,13:30,Kerala Blasters,Chennaiyin FC,3,1,H,0,1,A
+IND,2016-11-13,13:30,Delhi Dynamos FC,Atlético de Kolkata,2,2,D,0,1,A
+IND,2016-11-15,13:30,Chennaiyin FC,FC Pune City,2,0,H,1,0,H
+IND,2016-11-16,13:30,FC Goa,Mumbai City FC,0,0,D,0,0,D
+IND,2016-11-17,13:30,Atlético de Kolkata,NorthEast United FC,1,1,D,0,1,A
+IND,2016-11-18,13:30,FC Pune City,Delhi Dynamos FC,4,3,H,0,1,A
+IND,2016-11-19,13:30,Mumbai City FC,Kerala Blasters,5,0,H,2,0,H
+IND,2016-11-20,13:30,Chennaiyin FC,Atlético de Kolkata,1,1,D,0,1,A
+IND,2016-11-22,13:30,NorthEast United FC,FC Pune City,1,0,H,0,0,D
+IND,2016-11-23,13:30,Mumbai City FC,Chennaiyin FC,2,0,H,1,0,H
+IND,2016-11-24,13:30,FC Goa,Atlético de Kolkata,1,2,A,0,1,A
+IND,2016-11-25,13:30,Kerala Blasters,FC Pune City,2,1,H,1,0,H
+IND,2016-11-26,13:30,Chennaiyin FC,NorthEast United FC,3,3,D,2,1,H
+IND,2016-11-27,13:30,Delhi Dynamos FC,FC Goa,5,1,H,1,1,D
+IND,2016-11-29,13:30,Atlético de Kolkata,Kerala Blasters,1,1,D,1,1,D
+IND,2016-11-30,13:30,NorthEast United FC,Delhi Dynamos FC,2,1,H,0,0,D
+IND,2016-12-01,13:30,FC Goa,Chennaiyin FC,5,4,H,2,3,A
+IND,2016-12-02,13:30,Atlético de Kolkata,FC Pune City,0,0,D,0,0,D
+IND,2016-12-03,13:30,Mumbai City FC,Delhi Dynamos FC,0,0,D,0,0,D
+IND,2016-12-04,13:30,Kerala Blasters,NorthEast United FC,1,0,H,0,0,D

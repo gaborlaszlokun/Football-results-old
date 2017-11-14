@@ -29,3 +29,43 @@ MNE,2017-09-09,15:00,FK Dečić Tuzi,FK Budućnost Podgorica,0,0,D,0,0,D
 MNE,2017-09-09,15:00,FK Grbalj Radanovići,FK Sutjeska,1,1,D,0,0,D
 MNE,2017-09-09,15:00,FK Mladost Podgorica,Iskra Danilovgrad,2,0,H,1,0,H
 MNE,2017-09-09,15:00,FK Rudar Pljevlja,FK KOM Podgorica,1,0,H,0,0,D
+MNE,2017-09-16,12:00,FK Zeta,FK Mladost Podgorica,3,0,H,2,0,H
+MNE,2017-09-16,14:00,FK Sutjeska,FK Rudar Pljevlja,3,0,H,1,0,H
+MNE,2017-09-16,14:30,Iskra Danilovgrad,FK Grbalj Radanovići,0,0,D,0,0,D
+MNE,2017-09-16,14:30,FK KOM Podgorica,FK Dečić Tuzi,2,1,H,0,0,D
+MNE,2017-09-16,17:00,FK Budućnost Podgorica,OFK Petrovac,0,0,D,0,0,D
+MNE,2017-09-22,12:00,OFK Petrovac,FK Mladost Podgorica,1,0,H,0,0,D
+MNE,2017-09-22,14:00,FK Budućnost Podgorica,FK KOM Podgorica,1,0,H,0,0,D
+MNE,2017-09-22,14:00,FK Dečić Tuzi,FK Sutjeska,0,0,D,0,0,D
+MNE,2017-09-22,14:00,FK Grbalj Radanovići,FK Zeta,2,1,H,1,1,D
+MNE,2017-09-22,14:00,FK Rudar Pljevlja,Iskra Danilovgrad,0,1,A,0,0,D
+MNE,2017-09-30,14:00,Iskra Danilovgrad,FK Dečić Tuzi,4,1,H,2,0,H
+MNE,2017-09-30,14:00,FK KOM Podgorica,OFK Petrovac,2,1,H,1,0,H
+MNE,2017-09-30,14:00,FK Mladost Podgorica,FK Grbalj Radanovići,2,1,H,1,0,H
+MNE,2017-09-30,14:00,FK Zeta,FK Rudar Pljevlja,0,0,D,0,0,D
+MNE,2017-10-01,14:00,FK Sutjeska,FK Budućnost Podgorica,1,0,H,1,0,H
+MNE,2017-10-13,13:00,Iskra Danilovgrad,FK Budućnost Podgorica,0,0,D,0,0,D
+MNE,2017-10-14,13:30,FK Mladost Podgorica,FK Rudar Pljevlja,1,1,D,1,1,D
+MNE,2017-10-14,13:30,OFK Petrovac,FK Grbalj Radanovići,2,3,A,2,2,D
+MNE,2017-10-14,13:30,FK Sutjeska,FK KOM Podgorica,4,0,H,2,0,H
+MNE,2017-10-14,13:30,FK Zeta,FK Dečić Tuzi,1,1,D,1,0,H
+MNE,2017-10-18,13:00,FK Dečić Tuzi,FK Mladost Podgorica,1,1,D,0,0,D
+MNE,2017-10-18,13:00,FK KOM Podgorica,Iskra Danilovgrad,1,0,H,0,0,D
+MNE,2017-10-18,13:00,FK Rudar Pljevlja,FK Grbalj Radanovići,0,1,A,0,1,A
+MNE,2017-10-18,13:00,FK Sutjeska,OFK Petrovac,3,0,H,2,0,H
+MNE,2017-10-18,17:00,FK Budućnost Podgorica,FK Zeta,2,1,H,1,0,H
+MNE,2017-10-21,11:30,Iskra Danilovgrad,FK Sutjeska,0,1,A,0,0,D
+MNE,2017-10-21,12:30,FK Grbalj Radanovići,FK Dečić Tuzi,1,1,D,0,0,D
+MNE,2017-10-21,12:30,OFK Petrovac,FK Rudar Pljevlja,0,0,D,0,0,D
+MNE,2017-10-21,12:30,FK Zeta,FK KOM Podgorica,4,2,H,3,2,H
+MNE,2017-10-22,12:00,FK Mladost Podgorica,FK Budućnost Podgorica,3,3,D,2,2,D
+MNE,2017-10-28,12:30,FK Dečić Tuzi,FK Rudar Pljevlja,0,0,D,0,0,D
+MNE,2017-10-28,12:30,Iskra Danilovgrad,OFK Petrovac,0,0,D,0,0,D
+MNE,2017-10-28,12:30,FK KOM Podgorica,FK Mladost Podgorica,2,1,H,1,0,H
+MNE,2017-10-28,13:00,FK Sutjeska,FK Zeta,1,0,H,0,0,D
+MNE,2017-10-28,15:00,FK Budućnost Podgorica,FK Grbalj Radanovići,4,1,H,0,1,A
+MNE,2017-11-04,12:00,FK Mladost Podgorica,FK Sutjeska,0,2,A,0,1,A
+MNE,2017-11-04,12:30,FK Grbalj Radanovići,FK KOM Podgorica,3,2,H,1,1,D
+MNE,2017-11-04,12:30,FK Rudar Pljevlja,FK Budućnost Podgorica,2,0,H,0,0,D
+MNE,2017-11-04,12:30,FK Zeta,Iskra Danilovgrad,1,2,A,1,1,D
+MNE,2017-11-04,16:00,OFK Petrovac,FK Dečić Tuzi,1,0,H,0,0,D

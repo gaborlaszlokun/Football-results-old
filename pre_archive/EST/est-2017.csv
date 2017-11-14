@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+EST,2017-03-03,17:00,JK Tammeka,FC Infonet,2,0,H,2,0,H
+EST,2017-03-04,11:00,Pärnu JK Vaprus,JK Nõmme Kalju,2,6,A,1,3,A
+EST,2017-03-04,11:00,Paide Linnameeskond,JK Narva Trans,1,5,A,0,3,A
+EST,2017-03-04,11:00,Tulevik Viljandi,JK Sillamäe Kalev,1,0,H,1,0,H
+EST,2017-03-04,14:00,FC Flora,FC Levadia,1,1,D,1,1,D
+EST,2017-03-10,17:30,JK Nõmme Kalju,FC Flora,1,1,D,0,0,D
+EST,2017-03-11,11:00,FC Levadia,JK Sillamäe Kalev,5,0,H,3,0,H
+EST,2017-03-11,11:00,Pärnu JK Vaprus,JK Tammeka,1,1,D,1,0,H
+EST,2017-03-11,11:00,Tulevik Viljandi,Paide Linnameeskond,2,3,A,1,1,D
+EST,2017-03-11,14:00,JK Narva Trans,FC Infonet,1,2,A,0,1,A
+EST,2017-03-17,17:30,JK Tammeka,JK Narva Trans,1,1,D,1,0,H
+EST,2017-03-18,11:00,FC Infonet,Tulevik Viljandi,5,0,H,3,0,H
+EST,2017-03-18,11:00,JK Nõmme Kalju,JK Sillamäe Kalev,2,1,H,1,0,H
+EST,2017-03-18,14:00,FC Flora,Pärnu JK Vaprus,2,0,H,1,0,H
+EST,2017-03-18,17:00,FC Levadia,Paide Linnameeskond,7,0,H,6,0,H
+EST,2017-03-31,17:30,FC Infonet,FC Levadia,0,1,A,0,0,D
+EST,2017-04-01,11:00,Pärnu JK Vaprus,JK Sillamäe Kalev,1,3,A,0,0,D
+EST,2017-04-01,11:00,JK Narva Trans,Tulevik Viljandi,2,1,H,0,0,D
+EST,2017-04-01,14:00,JK Nõmme Kalju,Paide Linnameeskond,1,0,H,0,0,D
+EST,2017-04-01,17:00,FC Flora,JK Tammeka,4,0,H,2,0,H
+EST,2017-04-07,17:00,Tulevik Viljandi,JK Tammeka,1,3,A,1,1,D
+EST,2017-04-07,17:30,JK Nõmme Kalju,FC Infonet,3,2,H,1,1,D
+EST,2017-04-08,11:00,FC Levadia,JK Narva Trans,3,1,H,3,0,H
+EST,2017-04-08,11:00,Paide Linnameeskond,Pärnu JK Vaprus,3,2,H,1,1,D
+EST,2017-04-08,17:00,FC Flora,JK Sillamäe Kalev,2,0,H,1,0,H
+EST,2017-04-14,11:00,FC Flora,Paide Linnameeskond,3,0,H,1,0,H
+EST,2017-04-14,11:00,Tulevik Viljandi,FC Levadia,0,2,A,0,1,A
+EST,2017-04-14,17:30,JK Tammeka,JK Sillamäe Kalev,1,1,D,0,0,D
+EST,2017-04-15,14:00,Pärnu JK Vaprus,FC Infonet,0,6,A,0,4,A
+EST,2017-04-15,17:00,JK Narva Trans,JK Nõmme Kalju,1,0,H,0,0,D
+EST,2017-04-21,17:00,Paide Linnameeskond,JK Sillamäe Kalev,2,1,H,1,1,D
+EST,2017-04-21,17:30,FC Infonet,FC Flora,0,1,A,0,1,A
+EST,2017-04-22,11:00,JK Tammeka,FC Levadia,0,2,A,0,0,D
+EST,2017-04-22,14:00,Pärnu JK Vaprus,JK Narva Trans,0,2,A,0,1,A
+EST,2017-04-22,17:00,JK Nõmme Kalju,Tulevik Viljandi,8,0,H,2,0,H
+EST,2017-04-24,17:00,FC Infonet,JK Sillamäe Kalev,2,2,D,2,1,H
+EST,2017-04-25,16:00,FC Levadia,JK Nõmme Kalju,1,1,D,1,0,H
+EST,2017-04-25,17:00,Paide Linnameeskond,JK Tammeka,1,1,D,0,1,A
+EST,2017-04-25,17:00,Tulevik Viljandi,Pärnu JK Vaprus,2,1,H,1,0,H
+EST,2017-04-25,18:00,FC Flora,JK Narva Trans,4,2,H,2,0,H
+EST,2017-04-28,17:00,FC Levadia,Pärnu JK Vaprus,8,0,H,3,0,H
+EST,2017-04-28,17:00,Tulevik Viljandi,FC Flora,0,2,A,0,2,A
+EST,2017-04-28,17:30,JK Tammeka,JK Nõmme Kalju,1,3,A,0,2,A
+EST,2017-04-29,11:00,JK Narva Trans,JK Sillamäe Kalev,3,1,H,2,1,H
+EST,2017-04-30,17:00,FC Infonet,Paide Linnameeskond,6,1,H,2,0,H
+EST,2017-05-05,17:00,FC Flora,Tulevik Viljandi,7,0,H,3,0,H
+EST,2017-05-05,17:00,Pärnu JK Vaprus,FC Levadia,1,2,A,0,2,A
+EST,2017-05-05,17:30,JK Sillamäe Kalev,JK Narva Trans,1,1,D,0,1,A
+EST,2017-05-06,11:00,Paide Linnameeskond,FC Infonet,1,1,D,0,0,D
+EST,2017-05-06,17:00,JK Nõmme Kalju,JK Tammeka,5,1,H,2,0,H
+EST,2017-05-12,17:00,JK Tammeka,Paide Linnameeskond,0,0,D,0,0,D
+EST,2017-05-12,17:30,JK Nõmme Kalju,FC Levadia,1,2,A,0,1,A
+EST,2017-05-13,11:00,JK Narva Trans,FC Flora,0,2,A,0,0,D
+EST,2017-05-13,14:00,FC Infonet,JK Sillamäe Kalev,3,0,H,2,0,H
+EST,2017-05-13,17:00,Pärnu JK Vaprus,Tulevik Viljandi,2,0,H,2,0,H
+EST,2017-05-19,17:00,JK Narva Trans,Pärnu JK Vaprus,3,0,H,1,0,H
+EST,2017-05-19,17:30,FC Flora,FC Infonet,3,0,H,1,0,H
+EST,2017-05-20,11:00,FC Levadia,JK Tammeka,2,1,H,0,0,D
+EST,2017-05-20,14:00,JK Sillamäe Kalev,Paide Linnameeskond,2,0,H,0,0,D
+EST,2017-05-20,17:00,Tulevik Viljandi,JK Nõmme Kalju,0,2,A,0,0,D
+EST,2017-05-22,17:00,FC Infonet,Pärnu JK Vaprus,11,1,H,3,1,H
+EST,2017-05-23,16:00,Paide Linnameeskond,FC Flora,1,3,A,1,1,D
+EST,2017-05-23,17:00,FC Levadia,Tulevik Viljandi,5,0,H,1,0,H
+EST,2017-05-23,17:00,JK Sillamäe Kalev,JK Tammeka,2,0,H,1,0,H
+EST,2017-05-23,18:00,JK Nõmme Kalju,JK Narva Trans,2,0,H,1,0,H
+EST,2017-05-29,17:00,FC Flora,JK Sillamäe Kalev,3,2,H,2,1,H
+EST,2017-05-30,16:00,FC Infonet,JK Nõmme Kalju,2,2,D,1,0,H
+EST,2017-05-30,17:00,Pärnu JK Vaprus,Paide Linnameeskond,0,4,A,0,2,A
+EST,2017-05-30,18:00,JK Narva Trans,FC Levadia,0,0,D,0,0,D
+EST,2017-05-30,18:15,Tulevik Viljandi,JK Tammeka,1,1,D,0,0,D
+EST,2017-06-02,17:00,JK Sillamäe Kalev,Pärnu JK Vaprus,1,3,A,0,0,D
+EST,2017-06-02,17:00,Tulevik Viljandi,JK Narva Trans,1,2,A,0,1,A
+EST,2017-06-02,17:30,FC Levadia,FC Infonet,1,0,H,0,0,D
+EST,2017-06-03,11:00,Paide Linnameeskond,JK Nõmme Kalju,0,1,A,0,1,A
+EST,2017-06-03,14:00,JK Tammeka,FC Flora,0,2,A,0,1,A
+EST,2017-06-16,16:00,Tulevik Viljandi,FC Infonet,0,2,A,0,2,A
+EST,2017-06-16,17:00,JK Narva Trans,JK Tammeka,1,2,A,0,1,A
+EST,2017-06-16,17:00,Pärnu JK Vaprus,FC Flora,0,10,A,0,6,A
+EST,2017-06-16,17:30,Paide Linnameeskond,FC Levadia,2,5,A,0,1,A
+EST,2017-06-16,18:00,JK Nõmme Kalju,JK Sillamäe Kalev,8,0,H,5,0,H
+EST,2017-06-19,16:00,FC Infonet,JK Narva Trans,4,1,H,2,0,H
+EST,2017-06-19,17:00,JK Sillamäe Kalev,FC Levadia,1,1,D,0,0,D
+EST,2017-06-19,18:00,FC Flora,JK Nõmme Kalju,2,0,H,1,0,H
+EST,2017-06-30,17:30,Paide Linnameeskond,Tulevik Viljandi,1,2,A,1,2,A
+EST,2017-07-01,17:00,JK Tammeka,Pärnu JK Vaprus,2,1,H,0,0,D
+EST,2017-07-07,17:30,JK Sillamäe Kalev,Tulevik Viljandi,1,0,H,0,0,D
+EST,2017-07-08,17:00,JK Narva Trans,Paide Linnameeskond,1,1,D,1,0,H
+EST,2017-07-08,17:00,FC Infonet,JK Tammeka,2,1,H,2,1,H
+EST,2017-07-09,17:00,FC Levadia,FC Flora,0,0,D,0,0,D
+EST,2017-07-09,17:00,JK Nõmme Kalju,Pärnu JK Vaprus,3,0,H,2,0,H
+EST,2017-07-14,17:00,JK Tammeka,FC Infonet,1,4,A,0,3,A
+EST,2017-07-14,17:30,FC Flora,FC Levadia,3,3,D,1,3,A
+EST,2017-07-15,14:00,Pärnu JK Vaprus,Paide Linnameeskond,1,1,D,1,0,H
+EST,2017-07-15,17:00,Tulevik Viljandi,JK Sillamäe Kalev,0,3,A,0,1,A
+EST,2017-07-21,17:00,FC Infonet,Pärnu JK Vaprus,7,1,H,4,0,H
+EST,2017-07-21,17:30,FC Levadia,JK Narva Trans,2,0,H,0,0,D
+EST,2017-07-22,14:00,JK Tammeka,FC Flora,2,3,A,0,1,A
+EST,2017-07-22,17:00,Paide Linnameeskond,JK Sillamäe Kalev,0,3,A,0,1,A
+EST,2017-07-23,17:00,JK Nõmme Kalju,Tulevik Viljandi,5,1,H,2,0,H
+EST,2017-07-28,17:00,JK Sillamäe Kalev,FC Infonet,1,4,A,0,2,A
+EST,2017-07-28,17:30,Tulevik Viljandi,FC Levadia,1,0,H,1,0,H
+EST,2017-07-29,14:00,FC Flora,JK Narva Trans,1,0,H,1,0,H
+EST,2017-07-29,17:00,Pärnu JK Vaprus,JK Tammeka,0,3,A,0,2,A
+EST,2017-07-29,17:00,Paide Linnameeskond,JK Nõmme Kalju,0,4,A,0,2,A
+EST,2017-08-01,17:00,JK Narva Trans,JK Nõmme Kalju,0,3,A,0,1,A
+EST,2017-08-04,17:00,JK Narva Trans,Tulevik Viljandi,1,2,A,0,1,A
+EST,2017-08-04,17:00,JK Tammeka,JK Sillamäe Kalev,3,1,H,2,0,H
+EST,2017-08-04,17:30,FC Infonet,JK Nõmme Kalju,1,2,A,1,0,H
+EST,2017-08-05,14:00,FC Levadia,Paide Linnameeskond,8,0,H,4,0,H
+EST,2017-08-05,17:00,Pärnu JK Vaprus,FC Flora,1,8,A,1,5,A
+EST,2017-08-11,17:00,Paide Linnameeskond,JK Narva Trans,3,1,H,1,0,H
+EST,2017-08-11,17:00,FC Flora,Tulevik Viljandi,3,2,H,0,2,A
+EST,2017-08-11,17:00,FC Infonet,FC Levadia,2,1,H,2,0,H
+EST,2017-08-12,14:00,JK Sillamäe Kalev,Pärnu JK Vaprus,9,0,H,5,0,H
+EST,2017-08-12,17:00,JK Nõmme Kalju,JK Tammeka,1,0,H,1,0,H
+EST,2017-08-14,17:00,Tulevik Viljandi,Paide Linnameeskond,1,4,A,0,3,A
+EST,2017-08-15,16:00,JK Sillamäe Kalev,FC Flora,0,3,A,0,0,D
+EST,2017-08-15,17:00,JK Narva Trans,FC Infonet,1,3,A,0,2,A
+EST,2017-08-15,17:00,Pärnu JK Vaprus,JK Nõmme Kalju,1,6,A,0,2,A
+EST,2017-08-15,18:00,JK Tammeka,FC Levadia,1,4,A,0,1,A
+EST,2017-08-18,17:00,FC Infonet,Tulevik Viljandi,7,0,H,4,0,H
+EST,2017-08-18,17:00,JK Sillamäe Kalev,JK Nõmme Kalju,1,2,A,1,0,H
+EST,2017-08-18,17:30,FC Flora,Paide Linnameeskond,3,0,H,1,0,H
+EST,2017-08-19,14:00,FC Levadia,Pärnu JK Vaprus,3,0,H,2,0,H
+EST,2017-08-19,17:00,JK Tammeka,JK Narva Trans,0,2,A,0,1,A
+EST,2017-08-21,16:30,Paide Linnameeskond,FC Infonet,1,3,A,1,3,A
+EST,2017-08-22,16:00,Pärnu JK Vaprus,JK Narva Trans,0,1,A,0,1,A
+EST,2017-08-22,16:30,JK Sillamäe Kalev,FC Levadia,0,9,A,0,2,A
+EST,2017-08-22,17:00,JK Tammeka,Tulevik Viljandi,2,1,H,1,1,D
+EST,2017-08-22,18:00,JK Nõmme Kalju,FC Flora,0,1,A,0,1,A
+EST,2017-08-25,16:30,Paide Linnameeskond,JK Tammeka,1,1,D,1,0,H
+EST,2017-08-25,16:30,Tulevik Viljandi,Pärnu JK Vaprus,4,1,H,2,0,H
+EST,2017-08-25,17:30,FC Flora,FC Infonet,2,4,A,1,2,A
+EST,2017-08-26,14:00,JK Narva Trans,JK Sillamäe Kalev,1,1,D,1,0,H
+EST,2017-08-26,16:00,FC Levadia,JK Nõmme Kalju,2,0,H,0,0,D
+EST,2017-09-08,17:00,JK Tammeka,Paide Linnameeskond,1,1,D,0,1,A
+EST,2017-09-08,17:00,Pärnu JK Vaprus,Tulevik Viljandi,2,3,A,1,3,A
+EST,2017-09-08,17:30,JK Nõmme Kalju,FC Levadia,1,1,D,0,0,D
+EST,2017-09-09,11:00,JK Sillamäe Kalev,JK Narva Trans,3,1,H,2,0,H
+EST,2017-09-09,17:00,FC Infonet,FC Flora,1,3,A,0,2,A
+EST,2017-09-11,17:00,JK Tammeka,Tulevik Viljandi,1,1,D,1,0,H
+EST,2017-09-12,16:00,FC Levadia,JK Sillamäe Kalev,5,0,H,3,0,H
+EST,2017-09-12,17:00,JK Narva Trans,Pärnu JK Vaprus,3,1,H,1,0,H
+EST,2017-09-12,17:00,FC Infonet,Paide Linnameeskond,6,1,H,3,0,H
+EST,2017-09-12,18:00,FC Flora,JK Nõmme Kalju,0,4,A,0,1,A
+EST,2017-09-15,17:30,Pärnu JK Vaprus,FC Levadia,0,4,A,0,2,A
+EST,2017-09-16,11:00,Paide Linnameeskond,FC Flora,1,2,A,1,1,D
+EST,2017-09-16,14:00,JK Sillamäe Kalev,JK Nõmme Kalju,0,0,D,0,0,D
+EST,2017-09-16,14:00,Tulevik Viljandi,FC Infonet,1,1,D,1,1,D
+EST,2017-09-16,17:00,JK Narva Trans,JK Tammeka,3,1,H,2,1,H
+EST,2017-09-22,17:30,FC Infonet,JK Narva Trans,1,3,A,1,0,H
+EST,2017-09-23,11:00,FC Levadia,JK Tammeka,3,1,H,0,1,A
+EST,2017-09-23,11:00,Paide Linnameeskond,Tulevik Viljandi,4,2,H,3,2,H
+EST,2017-09-23,14:00,JK Nõmme Kalju,Pärnu JK Vaprus,6,0,H,4,0,H
+EST,2017-09-23,14:00,JK Sillamäe Kalev,FC Flora,1,2,A,1,1,D
+EST,2017-09-29,17:30,JK Tammeka,JK Nõmme Kalju,0,3,A,0,1,A
+EST,2017-09-30,11:00,Tulevik Viljandi,FC Flora,2,2,D,1,1,D
+EST,2017-09-30,14:00,FC Levadia,FC Infonet,3,2,H,1,2,A
+EST,2017-09-30,14:00,JK Narva Trans,Paide Linnameeskond,0,1,A,0,0,D
+EST,2017-09-30,17:00,Pärnu JK Vaprus,JK Sillamäe Kalev,2,7,A,0,4,A
+EST,2017-10-13,17:30,JK Nõmme Kalju,FC Infonet,2,4,A,0,1,A
+EST,2017-10-14,11:00,Tulevik Viljandi,JK Narva Trans,0,1,A,0,1,A
+EST,2017-10-14,11:00,JK Sillamäe Kalev,JK Tammeka,1,2,A,1,1,D
+EST,2017-10-14,14:00,Paide Linnameeskond,FC Levadia,0,4,A,0,2,A
+EST,2017-10-14,17:00,FC Flora,Pärnu JK Vaprus,3,0,H,1,0,H
+EST,2017-10-20,17:30,JK Narva Trans,FC Flora,0,7,A,0,2,A
+EST,2017-10-21,11:00,JK Nõmme Kalju,Paide Linnameeskond,2,2,D,0,1,A
+EST,2017-10-21,11:00,JK Sillamäe Kalev,FC Infonet,1,0,H,0,0,D
+EST,2017-10-21,14:00,FC Levadia,Tulevik Viljandi,6,0,H,2,0,H
+EST,2017-10-21,17:00,JK Tammeka,Pärnu JK Vaprus,2,1,H,0,1,A
+EST,2017-10-27,17:30,JK Narva Trans,FC Levadia,0,0,D,0,0,D
+EST,2017-10-28,11:00,Tulevik Viljandi,JK Nõmme Kalju,1,3,A,0,2,A
+EST,2017-10-28,11:00,Pärnu JK Vaprus,FC Infonet,1,4,A,1,2,A
+EST,2017-10-28,11:00,JK Sillamäe Kalev,Paide Linnameeskond,1,3,A,1,1,D
+EST,2017-10-28,17:00,FC Flora,JK Tammeka,2,0,H,1,0,H
+EST,2017-11-04,11:00,JK Sillamäe Kalev,Tulevik Viljandi,0,1,A,0,0,D
+EST,2017-11-04,11:00,Paide Linnameeskond,Pärnu JK Vaprus,3,2,H,1,1,D
+EST,2017-11-04,11:00,JK Nõmme Kalju,JK Narva Trans,8,1,H,3,1,H
+EST,2017-11-04,11:00,FC Infonet,JK Tammeka,1,1,D,1,0,H
+EST,2017-11-04,11:00,FC Levadia,FC Flora,0,0,D,0,0,D

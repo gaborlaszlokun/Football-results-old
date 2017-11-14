@@ -118,3 +118,52 @@ VIE,2017-09-10,11:00,Sông Lam Nghệ An,Hà Nội FC,1,2,A,1,2,A
 VIE,2017-09-10,11:00,Sanna Khánh Hoà,Ho Chi Minh City,1,0,H,0,0,D
 VIE,2017-09-10,11:30,Đồng Tâm Long An,QNK Quảng Nam,2,3,A,1,1,D
 VIE,2017-09-10,12:00,Sài Gòn FC,Thanh Hóa FC,2,0,H,0,0,D
+VIE,2017-09-16,11:00,Hải Phòng FC,Sanna Khánh Hoà,3,1,H,1,1,D
+VIE,2017-09-16,11:00,Can Tho,Ho Chi Minh City,2,1,H,0,1,A
+VIE,2017-09-16,11:00,Bình Dương FC,Hà Nội FC,2,0,H,2,0,H
+VIE,2017-09-17,11:00,SHB-Da Nang FC,Sông Lam Nghệ An,0,1,A,0,0,D
+VIE,2017-09-17,11:00,Thanh Hóa FC,QNK Quảng Nam,2,3,A,1,1,D
+VIE,2017-09-17,11:00,Hoàng Anh Gia Lai,Đồng Tâm Long An,1,2,A,0,1,A
+VIE,2017-09-17,12:00,Sài Gòn FC,Than Quảng Ninh FC,0,0,D,0,0,D
+VIE,2017-09-22,11:00,QNK Quảng Nam,Hải Phòng FC,2,1,H,0,0,D
+VIE,2017-09-22,11:00,Bình Dương FC,Sông Lam Nghệ An,0,0,D,0,0,D
+VIE,2017-09-22,12:00,Than Quảng Ninh FC,SHB-Da Nang FC,0,0,D,0,0,D
+VIE,2017-09-24,11:00,Can Tho,Thanh Hóa FC,1,4,A,1,2,A
+VIE,2017-09-24,11:30,Đồng Tâm Long An,Sanna Khánh Hoà,2,2,D,2,1,H
+VIE,2017-09-24,11:30,Ho Chi Minh City,Hoàng Anh Gia Lai,1,0,H,0,0,D
+VIE,2017-09-24,12:30,Hà Nội FC,Sài Gòn FC,2,2,D,1,0,H
+VIE,2017-09-30,11:00,Thanh Hóa FC,Hải Phòng FC,1,1,D,1,1,D
+VIE,2017-10-01,11:00,QNK Quảng Nam,Bình Dương FC,1,1,D,1,1,D
+VIE,2017-10-01,11:00,Sông Lam Nghệ An,Sài Gòn FC,2,0,H,1,0,H
+VIE,2017-10-01,11:00,Sanna Khánh Hoà,Hoàng Anh Gia Lai,4,2,H,1,0,H
+VIE,2017-10-01,11:30,Ho Chi Minh City,SHB-Da Nang FC,1,1,D,1,1,D
+VIE,2017-10-01,12:00,Than Quảng Ninh FC,Can Tho,0,0,D,0,0,D
+VIE,2017-10-01,12:30,Hà Nội FC,Đồng Tâm Long An,4,0,H,0,0,D
+VIE,2017-10-14,11:00,Bình Dương FC,Than Quảng Ninh FC,0,1,A,0,1,A
+VIE,2017-10-14,11:00,Hoàng Anh Gia Lai,Sông Lam Nghệ An,0,2,A,0,1,A
+VIE,2017-10-14,11:00,Hải Phòng FC,Ho Chi Minh City,4,1,H,1,1,D
+VIE,2017-10-15,11:00,Thanh Hóa FC,Hà Nội FC,3,3,D,2,1,H
+VIE,2017-10-15,11:00,SHB-Da Nang FC,Đồng Tâm Long An,2,0,H,1,0,H
+VIE,2017-10-15,11:00,Can Tho,QNK Quảng Nam,2,3,A,2,2,D
+VIE,2017-10-15,12:00,Sài Gòn FC,Sanna Khánh Hoà,0,0,D,0,0,D
+VIE,2017-10-20,11:00,Sông Lam Nghệ An,Hải Phòng FC,2,3,A,2,1,H
+VIE,2017-10-21,11:00,QNK Quảng Nam,Hoàng Anh Gia Lai,1,1,D,0,0,D
+VIE,2017-10-21,11:00,Sanna Khánh Hoà,SHB-Da Nang FC,3,2,H,1,1,D
+VIE,2017-10-21,11:30,Ho Chi Minh City,Bình Dương FC,1,1,D,1,1,D
+VIE,2017-10-22,11:00,Than Quảng Ninh FC,Thanh Hóa FC,4,3,H,1,1,D
+VIE,2017-10-22,11:30,Đồng Tâm Long An,Sài Gòn FC,3,3,D,1,2,A
+VIE,2017-10-22,12:30,Hà Nội FC,Can Tho,4,0,H,2,0,H
+VIE,2017-10-27,11:00,Hoàng Anh Gia Lai,Hà Nội FC,3,2,H,1,1,D
+VIE,2017-10-28,11:00,Sanna Khánh Hoà,Sông Lam Nghệ An,1,1,D,1,0,H
+VIE,2017-10-28,11:00,Than Quảng Ninh FC,Hải Phòng FC,1,0,H,1,0,H
+VIE,2017-10-28,11:30,Đồng Tâm Long An,Thanh Hóa FC,0,2,A,0,1,A
+VIE,2017-10-29,10:00,SHB-Da Nang FC,QNK Quảng Nam,0,2,A,0,0,D
+VIE,2017-10-29,10:00,Bình Dương FC,Can Tho,1,1,D,0,1,A
+VIE,2017-10-29,10:30,Ho Chi Minh City,Sài Gòn FC,1,3,A,0,0,D
+VIE,2017-11-03,10:00,Thanh Hóa FC,Bình Dương FC,1,1,D,1,0,H
+VIE,2017-11-04,10:00,Hải Phòng FC,SHB-Da Nang FC,2,0,H,2,0,H
+VIE,2017-11-04,10:00,Sông Lam Nghệ An,Đồng Tâm Long An,3,2,H,0,0,D
+VIE,2017-11-04,11:00,Sài Gòn FC,Hoàng Anh Gia Lai,1,2,A,0,0,D
+VIE,2017-11-05,10:00,Can Tho,Sanna Khánh Hoà,1,2,A,1,1,D
+VIE,2017-11-05,11:30,Hà Nội FC,Ho Chi Minh City,4,0,H,0,0,D
+VIE,2017-11-10,10:00,QNK Quảng Nam,Than Quảng Ninh FC,2,1,H,1,0,H

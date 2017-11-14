@@ -5,7 +5,7 @@ Created on Sun May 21 12:04:43 2017
 @author: ASUS
 """
 
-import urllib2
+from urllib.request import urlopen
 import bs4
 import os
 import pandas as pd
@@ -79,7 +79,7 @@ def get_results(url, where):
     
     columns = ['Div','Date','Time','HomeTeam','AwayTeam','FTHG','FTAG','FTR','HTHG','HTAG','HTR']
     result_df = pd.DataFrame(columns=columns)
-    usock = urllib2.urlopen(url)
+    usock = urlopen(url)
     data = usock.read()
     usock.close()     
     soup = bs4.BeautifulSoup(data,"html.parser")   
@@ -142,7 +142,7 @@ def sort_archive_by_date():
                 results = results.sort_values(['Date', 'Time'], ascending=[True, True])
                 if results.equals(old_results) == False:
                     results.to_csv(filename, sep=',', encoding='utf-8', index=False)
-                    print filename
+                    print (filename)
     generate_readme()
 
 def generate_readme():
@@ -155,7 +155,7 @@ def generate_readme():
             
     text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past (cleaned and merged):\n\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
     
-    print text
+    print (text)
     
     t = open("README.md", "w")  
     t.write(text)

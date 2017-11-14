@@ -1,0 +1,43 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+QAT,2017-09-15,16:00,Al Gharafa,Al Ahli Doha,1,1,D,0,1,A
+QAT,2017-09-15,18:10,Al Duhail SC,Qatar SC,3,2,H,1,1,D
+QAT,2017-09-15,18:10,Umm-Salal,Al Kharitiyath,3,1,H,2,0,H
+QAT,2017-09-16,16:00,Al Markhiya SC,Al Sadd,2,1,H,0,1,A
+QAT,2017-09-16,18:10,Al Arabi,Al Sailiya,1,3,A,1,1,D
+QAT,2017-09-16,18:10,Al Khor SC,Al Rayyan,2,4,A,0,2,A
+QAT,2017-09-21,18:00,Al Gharafa,Umm-Salal,0,0,D,0,0,D
+QAT,2017-09-22,15:50,Al Kharitiyath,Al Rayyan,1,3,A,0,2,A
+QAT,2017-09-22,18:00,Al Sailiya,Al Sadd,2,3,A,1,2,A
+QAT,2017-09-22,18:00,Qatar SC,Al Markhiya SC,1,0,H,1,0,H
+QAT,2017-09-23,15:50,Al Duhail SC,Al Arabi,2,0,H,1,0,H
+QAT,2017-09-23,18:00,Al Khor SC,Al Ahli Doha,2,0,H,0,0,D
+QAT,2017-09-28,15:45,Al Markhiya SC,Al Sailiya,2,5,A,1,3,A
+QAT,2017-09-29,15:45,Al Rayyan,Al Duhail SC,3,5,A,0,2,A
+QAT,2017-09-29,17:55,Al Kharitiyath,Al Khor SC,1,1,D,1,0,H
+QAT,2017-09-29,17:55,Al Sadd,Al Gharafa,2,1,H,0,1,A
+QAT,2017-09-30,15:45,Al Arabi,Qatar SC,2,1,H,2,0,H
+QAT,2017-09-30,17:55,Al Ahli Doha,Umm-Salal,0,2,A,0,1,A
+QAT,2017-10-14,15:30,Al Gharafa,Al Khor SC,3,0,H,1,0,H
+QAT,2017-10-14,17:40,Al Sailiya,Al Kharitiyath,2,1,H,1,1,D
+QAT,2017-10-14,17:40,Umm-Salal,Al Arabi,4,1,H,2,0,H
+QAT,2017-10-15,15:30,Al Rayyan,Al Markhiya SC,4,1,H,2,0,H
+QAT,2017-10-15,17:40,Al Duhail SC,Al Ahli Doha,6,1,H,2,0,H
+QAT,2017-10-15,17:40,Al Sadd,Qatar SC,3,1,H,1,0,H
+QAT,2017-10-19,17:35,Al Kharitiyath,Al Gharafa,4,1,H,1,0,H
+QAT,2017-10-20,15:25,Al Khor SC,Al Markhiya SC,0,1,A,0,0,D
+QAT,2017-10-20,15:25,Al Sailiya,Al Rayyan,0,1,A,0,0,D
+QAT,2017-10-20,17:35,Al Arabi,Al Sadd,1,3,A,1,2,A
+QAT,2017-10-21,15:25,Umm-Salal,Al Duhail SC,1,4,A,0,2,A
+QAT,2017-10-21,17:35,Qatar SC,Al Ahli Doha,0,3,A,0,2,A
+QAT,2017-10-26,17:30,Al Markhiya SC,Al Kharitiyath,0,0,D,0,0,D
+QAT,2017-10-27,15:20,Al Ahli Doha,Al Arabi,2,2,D,0,1,A
+QAT,2017-10-27,15:20,Umm-Salal,Al Khor SC,1,0,H,0,0,D
+QAT,2017-10-27,17:30,Al Sadd,Al Rayyan,1,2,A,1,0,H
+QAT,2017-10-28,15:20,Qatar SC,Al Sailiya,1,5,A,0,3,A
+QAT,2017-10-28,17:30,Al Duhail SC,Al Gharafa,1,1,D,1,0,H
+QAT,2017-11-02,16:25,Al Ahli Doha,Al Sadd,1,2,A,0,2,A
+QAT,2017-11-03,14:15,Al Rayyan,Qatar SC,2,0,H,1,0,H
+QAT,2017-11-03,14:15,Al Gharafa,Al Markhiya SC,1,1,D,1,0,H
+QAT,2017-11-03,16:25,Al Khor SC,Al Duhail SC,2,4,A,0,3,A
+QAT,2017-11-04,14:15,Al Sailiya,Umm-Salal,3,2,H,1,0,H
+QAT,2017-11-04,16:25,Al Kharitiyath,Al Arabi,1,1,D,0,0,D
